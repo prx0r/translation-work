@@ -23,8 +23,8 @@
 "quick_gloss": "more"
 },
 {
-"surface": "yuktaḥ",
-"quick_gloss": "connected"
+"surface": "yuktayaḥ",
+"quick_gloss": "arguments"
 },
 {
 "surface": "api",
@@ -57,15 +57,15 @@
 },
 {
 "surface": "tayoḥ",
-"quick_gloss": "of-those"
+"quick_gloss": "of-those-two"
 },
 {
 "surface": "ālokanāt",
-"quick_gloss": "by-seeing"
+"quick_gloss": "seeing"
 },
 {
-"surface": "nṛṇām",
-"quick_gloss": "of-men"
+"surface": "anṛṇām",
+"quick_gloss": "not-indebted"
 }
 ]
 },
@@ -93,7 +93,7 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "samyage",
+"surface": "samyak",
 "quick_gloss": "properly"
 },
 {
@@ -102,7 +102,7 @@
 },
 {
 "surface": "vivicyate",
-"quick_gloss": "discriminated"
+"quick_gloss": "is-distinguished"
 }
 ]
 },
@@ -126,16 +126,12 @@
 "quick_gloss": "intellect-play"
 },
 {
-"surface": "vaikhari",
-"quick_gloss": "speech"
+"surface": "vaikharī",
+"quick_gloss": "speech-power"
 },
 {
 "surface": "api",
 "quick_gloss": "also"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
 },
 {
 "surface": "kāraṇam",
@@ -159,20 +155,8 @@
 "quick_gloss": "by-doubt"
 },
 {
-"surface": "nara",
-"quick_gloss": "human"
-},
-{
-"surface": "jāti",
-"quick_gloss": "birth"
-},
-{
-"surface": "eka",
-"quick_gloss": "one"
-},
-{
-"surface": "vāsinā",
-"quick_gloss": "dweller"
+"surface": "narajātyekavāsinā",
+"quick_gloss": "human-born-single-dwelling"
 }
 ]
 },
@@ -201,15 +185,11 @@
 },
 {
 "surface": "vedaḥ",
-"quick_gloss": "veda"
+"quick_gloss": "knows"
 },
 {
-"surface": "prathama",
-"quick_gloss": "first"
-},
-{
-"surface": "darśanam",
-"quick_gloss": "seeing"
+"surface": "prathamadarśanam",
+"quick_gloss": "first-view"
 }
 ]
 },
@@ -230,7 +210,7 @@
 },
 {
 "surface": "vṛttīni",
-"quick_gloss": "activities"
+"quick_gloss": "conduct"
 },
 {
 "surface": "anyāni",
@@ -270,7 +250,7 @@
 "quick_gloss": "also"
 },
 {
-"surface": "kasyacit",
+"surface": "kasyacid",
 "quick_gloss": "of-anyone"
 },
 {
@@ -288,7 +268,7 @@
 "tokens": [
 {
 "surface": "rucinām",
-"quick_gloss": "of-tastes"
+"quick_gloss": "by-taste"
 },
 {
 "surface": "iha",
@@ -320,8 +300,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arthaśāstraṃ",
-"quick_gloss": "politics"
+"surface": "arthāśāstraṃ",
+"quick_gloss": "political-science"
 },
 {
 "surface": "ca",
@@ -350,11 +330,11 @@
 "tokens": [
 {
 "surface": "pratyakṣādi",
-"quick_gloss": "perception-etc"
+"quick_gloss": "direct-perception-etc"
 },
 {
 "surface": "pramāṇāni",
-"quick_gloss": "proofs"
+"quick_gloss": "means-of-knowledge"
 },
 {
 "surface": "sarvathā",
@@ -383,7 +363,7 @@
 "tokens": [
 {
 "surface": "kasyāpi",
-"quick_gloss": "of-any"
+"quick_gloss": "of-anyone"
 },
 {
 "surface": "samatā",
@@ -403,7 +383,7 @@
 },
 {
 "surface": "pramākramaḥ",
-"quick_gloss": "proof-order"
+"quick_gloss": "knowledge-order"
 }
 ]
 },
@@ -416,7 +396,7 @@
 "tokens": [
 {
 "surface": "saugatāḥ",
-"quick_gloss": "Buddhists"
+"quick_gloss": "buddhists"
 },
 {
 "surface": "ca",
@@ -428,11 +408,11 @@
 },
 {
 "surface": "kāṇādāḥ",
-"quick_gloss": "Kanada-followers"
+"quick_gloss": "atomists"
 },
 {
-"surface": "pratyakṣānumiti",
-"quick_gloss": "perception-inference"
+"surface": "pratyakṣānumitī",
+"quick_gloss": "direct-perception-inference"
 },
 {
 "surface": "jaguḥ",
@@ -448,8 +428,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nyāyaikadeśinaḥ",
+"surface": "nyāyaika",
 "quick_gloss": "nyaya-one-part"
+},
+{
+"surface": "deśinaḥ",
+"quick_gloss": "holders"
 },
 {
 "surface": "ca",
@@ -461,7 +445,7 @@
 },
 {
 "surface": "sāṃkhyavat",
-"quick_gloss": "like-Sankhya"
+"quick_gloss": "like-samkhya"
 },
 {
 "surface": "samudīritāḥ",
@@ -477,24 +461,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "arthāpatti",
-"quick_gloss": "implication"
+"surface": "arthāpatyā",
+"quick_gloss": "by-presumption"
 },
 {
-"surface": "saha",
-"quick_gloss": "with"
-},
-{
-"surface": "etāni",
-"quick_gloss": "these"
+"surface": "sahaitāni",
+"quick_gloss": "with-these"
 },
 {
 "surface": "catvāri",
 "quick_gloss": "four"
 },
 {
-"surface": "apare",
-"quick_gloss": "others"
+"surface": "aparaḥ",
+"quick_gloss": "another"
 },
 {
 "surface": "ūcire",
@@ -514,12 +494,12 @@
 "quick_gloss": "possibility"
 },
 {
-"surface": "iha",
+"surface": "aitīha",
 "quick_gloss": "here"
 },
 {
 "surface": "yuktaiḥ",
-"quick_gloss": "with-connected"
+"quick_gloss": "by-reasoning"
 },
 {
 "surface": "taiḥ",
@@ -531,7 +511,7 @@
 },
 {
 "surface": "mānaiḥ",
-"quick_gloss": "proofs"
+"quick_gloss": "means"
 },
 {
 "surface": "ca",
@@ -555,12 +535,12 @@
 "quick_gloss": "here"
 },
 {
-"surface": "antarbhāvam",
+"surface": "antarbbhāvam",
 "quick_gloss": "mutual-inclusion"
 },
 {
 "surface": "anyonyaṃ",
-"quick_gloss": "mutually"
+"quick_gloss": "one-another"
 },
 {
 "surface": "vādinaḥ",
@@ -568,7 +548,7 @@
 },
 {
 "surface": "yuktapaṇḍitāḥ",
-"quick_gloss": "connected-scholars"
+"quick_gloss": "reasoning-scholars"
 }
 ]
 },
@@ -581,7 +561,7 @@
 "tokens": [
 {
 "surface": "bhūyaḥ",
-"quick_gloss": "more"
+"quick_gloss": "again"
 },
 {
 "surface": "parigrahaḥ",
@@ -617,8 +597,8 @@
 "quick_gloss": "do"
 },
 {
-"surface": "anvānāḥ",
-"quick_gloss": "following"
+"surface": "hamanvānāḥ",
+"quick_gloss": "I-think"
 },
 {
 "surface": "śāstreṣu",
@@ -721,7 +701,7 @@
 },
 {
 "surface": "svarasavādinaḥ",
-"quick_gloss": "own-taste-disputants"
+"quick_gloss": "self-taste-disputants"
 }
 ]
 },
@@ -737,12 +717,8 @@
 "quick_gloss": "of-superimposition"
 },
 {
-"surface": "svarūpaṃ",
+"surface": "svarūpantu",
 "quick_gloss": "nature"
-},
-{
-"surface": "tu",
-"quick_gloss": "tu"
 },
 {
 "surface": "kathayāmi",
@@ -799,28 +775,20 @@
 "quick_gloss": "this"
 },
 {
-"surface": "bhūmiḥ",
+"surface": "bhūmī",
 "quick_gloss": "earth"
 },
 {
-"surface": "mṛttikā",
+"surface": "mṛttikaiva",
 "quick_gloss": "clay"
-},
-{
-"surface": "eva",
-"quick_gloss": "eva"
 },
 {
 "surface": "kuṃbhakṛt",
 "quick_gloss": "potter"
 },
 {
-"surface": "pāṇi",
-"quick_gloss": "hand"
-},
-{
-"surface": "mardditā",
-"quick_gloss": "rubbed"
+"surface": "pāṇimardditā",
+"quick_gloss": "hand-rubbed"
 }
 ]
 }

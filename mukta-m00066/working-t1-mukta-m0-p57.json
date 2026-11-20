@@ -16,7 +16,7 @@
 },
 {
 "surface": "hṛdyāṅgi",
-"quick_gloss": "heart-possessing"
+"quick_gloss": "dear-limbed"
 },
 {
 "surface": "na",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "tatvāvabodhane",
-"quick_gloss": "for-truth-awakening"
+"quick_gloss": "for-truth-realization"
 }
 ]
 },
@@ -44,8 +44,16 @@
 "quick_gloss": "bliss-tantra"
 },
 {
-"surface": "evāsminnā",
-"quick_gloss": "indeed-in-this"
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "asminnā",
+"quick_gloss": "in-this"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
 },
 {
 "surface": "paratra",
@@ -53,7 +61,7 @@
 },
 {
 "surface": "kvacinmataḥ",
-"quick_gloss": "sometimes-opined"
+"quick_gloss": "anywhere"
 }
 ]
 },
@@ -65,12 +73,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tatvabhūtam",
+"surface": "tatvabhūtamidaṃ",
 "quick_gloss": "truth-being"
-},
-{
-"surface": "idaṃ",
-"quick_gloss": "this"
 },
 {
 "surface": "subhruyo",
@@ -99,7 +103,7 @@
 },
 {
 "surface": "tatvāni",
-"quick_gloss": "principles"
+"quick_gloss": "truths"
 },
 {
 "surface": "siddhāntaśca",
@@ -202,7 +206,7 @@
 "quick_gloss": "without"
 },
 {
-"surface": "utpattiranyā",
+"surface": "utpattiranyākāpina",
 "quick_gloss": "origin"
 },
 {
@@ -235,12 +239,8 @@
 "quick_gloss": "not-indeed"
 },
 {
-"surface": "cārutvam",
+"surface": "cārutvamanudhāvati",
 "quick_gloss": "beauty"
-},
-{
-"surface": "anudhāvati",
-"quick_gloss": "follows"
 }
 ]
 },
@@ -294,7 +294,7 @@
 },
 {
 "surface": "vyavahāraikajanmanā",
-"quick_gloss": "conventional-only-born"
+"quick_gloss": "by-conventional-usage-born"
 }
 ]
 },
@@ -315,7 +315,7 @@
 },
 {
 "surface": "nabhasaścarcane",
-"quick_gloss": "of-space"
+"quick_gloss": "of-sky"
 },
 {
 "surface": "marut",
@@ -331,20 +331,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūmir",
+"surface": "bhūmirāponalo",
 "quick_gloss": "earth"
 },
 {
-"surface": "āponalo",
+"surface": "āponalo?",
 "quick_gloss": "water"
 },
 {
-"surface": "vāyuḥ?",
+"surface": "nalo?",
 "quick_gloss": "fire"
+},
+{
+"surface": "vāyuḥ",
+"quick_gloss": "air"
 },
 {
 "surface": "śabdaścatimiraṃ",
 "quick_gloss": "sound"
+},
+{
+"surface": "timiraṃ",
+"quick_gloss": "darkness"
 },
 {
 "surface": "manaḥ",
@@ -397,11 +405,11 @@
 "quick_gloss": "not"
 },
 {
-"surface": "teṣām",
+"surface": "teṣāmasti",
 "quick_gloss": "their"
 },
 {
-"surface": "asti+gaṇyatā",
+"surface": "gaṇyatā",
 "quick_gloss": "countability"
 }
 ]
@@ -415,15 +423,15 @@
 "tokens": [
 {
 "surface": "maruccatimirannaiva",
-"quick_gloss": "wind-darkness"
+"quick_gloss": "wind-darkness-not-indeed"
 },
 {
 "surface": "saṃścayaṃ",
-"quick_gloss": "together"
+"quick_gloss": "support"
 },
 {
 "surface": "kvacidarhataḥ",
-"quick_gloss": "somewhere"
+"quick_gloss": "anywhere"
 }
 ]
 },
@@ -448,7 +456,7 @@
 },
 {
 "surface": "mahāgame",
-"quick_gloss": "great-scripture"
+"quick_gloss": "great-agama"
 }
 ]
 },
@@ -465,15 +473,19 @@
 },
 {
 "surface": "bhedena",
-"quick_gloss": "by-distinction"
+"quick_gloss": "by-difference"
 },
 {
 "surface": "nānāsaṃkhyāṃ",
 "quick_gloss": "various-number"
 },
 {
-"surface": "vidhāya+ca",
+"surface": "vidhāya",
 "quick_gloss": "having-made"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 }
 ]
 },
@@ -536,7 +548,7 @@
 },
 {
 "surface": "pratyakṣaviṣayaḥ",
-"quick_gloss": "direct-perceptible"
+"quick_gloss": "directly-perceived-object"
 },
 {
 "surface": "pavanaḥ",
@@ -557,7 +569,7 @@
 "tokens": [
 {
 "surface": "manojīvavaśāḥ",
-"quick_gloss": "mind-soul-dependent"
+"quick_gloss": "mind-soul-controlled"
 },
 {
 "surface": "sarve",
@@ -594,7 +606,7 @@
 },
 {
 "surface": "vedavidyāgamātmakaḥ",
-"quick_gloss": "veda-knowledge-scripture-nature"
+"quick_gloss": "veda-knowledge-agama-nature"
 }
 ]
 },
@@ -615,11 +627,11 @@
 },
 {
 "surface": "darśanaṃ",
-"quick_gloss": "perception"
+"quick_gloss": "vision"
 },
 {
 "surface": "bhāginoyataḥ",
-"quick_gloss": "of-part-possessor"
+"quick_gloss": "of-part-holders"
 }
 ]
 },
@@ -636,7 +648,7 @@
 },
 {
 "surface": "ghaṭasyādhyakṣatāsthi",
-"quick_gloss": "pot"
+"quick_gloss": "pot-reality"
 },
 {
 "surface": "cet",
