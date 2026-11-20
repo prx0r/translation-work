@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-gupta-artha(guptārthāya) ca(ca) hṛdya-aṅgi(hṛdyāṅgi) na(na) tu(tu) tatva-avabodhane(tatvāvabodhane)
+for-hidden-meaning and heart-limbed not but truth-awakening
 
 ## mukta-m0-p57-v1402
-ānanda-tantra(ānaṃdataṃtra) eva(eva) asmin(asmin) na(na) paratra(paratra) kvacit(kvacin) mataḥ(mataḥ)
+bliss-tantra indeed-in-this not elsewhere anywhere-opinion
 
 ## mukta-m0-p57-v1403
-tatva-bhūtam(tatvabhūtam) idam(idaṃ) subhru(subhru) yo(yo) mahā-yāga(mahāyāga) īritaḥ(īritaḥ)
+truth-being-this beautiful-browed great-sacrifice declared
 
 ## mukta-m0-p57-v1404
-asya(asya) tantrasya(tantrasya) tatvāni(tatvāni) siddhāntaḥ(siddhāntaśca) pradarśyate(pradarśyate)
+of-this tantra principles doctrine-and shown
 
 ## mukta-m0-p57-v1405
-āvirbhāva(āvirbbhāvatirobhāvau) tirobhāva(tirobhāvau) varttete(varttete) sarva-vastuṣu(sarvavastuṣu)
+manifestation-and-concealment occur all-things-in
 
 ## mukta-m0-p57-v1406
-na(na) devadattaḥ(devadatto) bhavanāt(bhavanānnirgacchan) nirgacchan(nirgacchan) pūrva-saṅgataḥ(pūrvasaṅgataḥ)
+not Devadatta from-house exiting previously-associated
 
 ## mukta-m0-p57-v1407
-na(na) devadattaḥ(devadatto) bhavanāt(bhavanāt) praveśana-tirohitaḥ(praveśanatirohitaḥ)
+not Devadatta from-house entering-concealed
 
 ## mukta-m0-p57-v1408
-āvirbhāvam(āvirbhāvaṃ) vinā(vinā) utpattiḥ(utpattiranyākāpina) anyā(anyā) ākāpinā(ākāpina) vidyate(vidyate)
+manifestation without origin other-form-not exists
 
 ## mukta-m0-p57-v1409
-tat(tadvicāre) vicāre(vicāre) kṛte(kṛte) na(na) eva(eva) cārutvam(cārutvamanudhāvati) anudhāvati(anudhāvati)
+that-inquiry done not-indeed beauty follows
 
 ## mukta-m0-p57-v1410
-utpannatvam(utpannatvaṃ) viśiṣṭatvam(viśiṣṭatvaṃ) tadā(tadaivādau) eva(eva) ādau(ādau) pradarśitam(pradarśitam)
+producedness distinctness then-in-beginning shown
 
 ## mukta-m0-p57-v1411
-na(na) tu(tu) teṣām(teṣāṃ) vāstavatvam(vāstavatvaṃ) vyavahāra-eka-janmanā(vyavahāraikajanmanā)
+not but their reality conventional-only-born
 
 ## mukta-m0-p57-v1412
-diśaḥ(diśaścacarcane) carcane(carcane) deśaḥ(deśo) nabhasaḥ(nabhasaścarcane) carcane(carcane) marut(marut)
+directions-in-discussion place sky-in-discussion wind
 
 ## mukta-m0-p57-v1413
-bhūmiḥ(bhūmirāponalo) āpaḥ(āpaḥ) analaḥ(analaḥ) vāyuḥ(vāyuḥ) śabdaḥ(śabdaścatimiraṃ) ca(ca) timiram(timiraṃ) manaḥ(manaḥ)
+earth water fire wind sound darkness mind
 
 ## mukta-m0-p57-v1414
-etat(etad) bhidaiva(bhidaiva) sarveṣām(sarveṣāṃ) padārthānām(padārthānāṃ) vijṛmbhaṇam(vijṛmbhaṇam)
+this difference-only all categories expansion
 
 ## mukta-m0-p57-v1415
-saṅghata-rūpa-karma-ādyāḥ(saṅghatarūpakarmādyā) na(na) teṣām(teṣām) asti(asti) gaṇyatā(gaṇyatā)
+aggregate-form-action-etc not their exists countability
 
 ## mukta-m0-p57-v1416
-marut(maruccatimirannaiva) ca(ca) timiram(timiraṃ) na(na) eva(eva) saṃśrayam(saṃśrayaṃ) kvacid(kvacid) arhataḥ(arhataḥ)
+wind-darkness-not-indeed contact anywhere-deserves
 
 ## mukta-m0-p57-v1417
-nava-dravyāṇi(navadravyāṇi) ca(ca) etāni(etāni) kīrttitāni(kīrttitāni) mahā-game(mahāgame)
+nine-substances and-these proclaimed great-scripture
 
 ## mukta-m0-p57-v1418
-eteṣām(eteṣāmeva) eva(eva) bhedena(bhedena) nānā-saṃkhyām(nānāsaṃkhyāṃ) vidhāya(vidhāya) ca(ca)
+of-these indeed by-difference various-number making and
 
 ## mukta-m0-p57-v1419
-pratyakṣam(pratyakṣamānānubhavaḥ) ānubhavaḥ(ānubhavaḥ) sarveṣu(sarveṣveteṣu) pārvati(pārvati)
+direct-perception-measure-experience all-in-these Parvati
 
 ## mukta-m0-p57-v1420
-jala-dhvānte(jaladhvānte) śukla-anile(śuklānile) bhū-śuciḥ(bhūśuciḥ) śabalākṛti(śabalākṛti)
+water-darkness white-wind earth-pure variegated-form
 
 ## mukta-m0-p57-v1421
-sparśaḥ(sparśaḥ) pratyakṣa-viṣayaḥ(pratyakṣaviṣayaḥ) pavanaḥ(pavanaḥ) parvata-ātmaje(parvatātmaje)
+touch direct-object wind mountain-daughter
 
 ## mukta-m0-p57-v1422
-mano-jīva-vaśāḥ(manojīvavaśāḥ) sarve(sarve) pratipannāḥ(pratipannāḥ) svayam(svayaṃ) pramāḥ(pramāḥ)
+mind-soul-dependent all accepted themselves measures
 
 ## mukta-m0-p57-v1423
-tatra(tatra) śabdaḥ(śabdaḥ) tu(tu) āpta-vācaḥ(āptavāco) veda-vidyā-āgama-ātmakaḥ(vedavidyāgamātmakaḥ)
+there sound indeed-authoritative-speech Veda-knowledge-scripture-nature
 
 ## mukta-m0-p57-v1424
-viśiṣṭa-bhāge(viśiṣṭabhāge) sādṛṣṭe(sādṛṣṭe) darśanam(darśanaṃ) bhāginoḥ(bhāginoyataḥ) yataḥ(yataḥ)
+distinct-part seen perception part-bearer-because
 
 ## mukta-m0-p57-v1425
-dṛṣṭa-sarva-svarūpasya(dṛṣṭasarvasvarūpasya) ghaṭasya(ghaṭasyādhyakṣatāsthi) adhyakṣatā(adhyakṣatā) asthi(asthi) cet(cet)
+seen-all-form pot superintendence-bone if
