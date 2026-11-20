@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[page](p.) [217](217)) [past](bhūta)+[future](bhāvi)+[illuminating](vibhāvinī)
+[bhūta+bhāvi+vibhāvinī](bhūtabhāvivibhāvinī)
 
 ## mukta-m0-p71-v1752
-[therefore](ataḥ)+[other](anyaḥ) [who](kaḥ) [always](sadā)+[beginning](ādi)+[end](antaḥ) [you](tvāṃ) [to-comprehend](vibhāvayituṃ) [capable](kṣamaḥ)
+[ataḥ+anyaḥ](ato'nyaḥ) [kaḥ](kaḥ) [sadā+ādi+antaḥ+tvām](sadādyantastvāṃ) [vibhāvayitum](vibhāvayituṃ) [kṣamaḥ](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[auspicious](ma)+[ṅ](ṅ)+[ga](ga)+[lā](lā)
+[maṅgalā](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[she](sā) [auspicious-one](maṅgalā)+[are](asi)+[of-him](asya) [always](sadā) [companion](sahāyā)
+[sā](sā) [maṅgalā](maṅgalā) [astu](astvasya) [asya](asya) [sadā](sadā) [sahāyā](sahāyā)
 
 ## mukta-m0-p71-v1755
-[good](su)+[śī](śī)+[la](la)+[ā](ā)
+[suśīlā](suśīlā)
 
 ## mukta-m0-p71-v1756
-[oneself](svayaṃ) [good](su)+[conduct](śīlā) [if](yadi) [not](na)+[you-were](abhaviṣyaḥ)
+[svayam](svayaṃ) [suśīlā](suśīlā) [yadi](yadi) [na](na) [abhaviṣyaḥ](abhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[supreme](parama)+[truth](artha)+[pra](pra)+[bodhikā](bodhikā)
+[parama+artha+prabodhikā](paramārthaprabodhikā)
 
 ## mukta-m0-p71-v1758
-[by-which](yat)+[attainment](āptyā) [deluding](bhrāmakān)+[other](anyān)+[misfortunes](arthāñ) [I-know](jānāmi) [grass](śaṣpa)+[like](vat)
+[yadā+āptyā](yadāptyā) [bhrāmakān](bhrāmakān) [anyān](anyān) [arthān](arthāñ) [jānāmi](jānāmi) [śaṣpavat](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-[skilled](da)+[kṣi](kṣi)+[ṇ](ṇ)+[ā](ā)
+[dakṣiṇā](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[whence](yatas)+[thence](tatas)+[by-those](tata)+[wise-ones](prajñaiḥ) [skillful](dakṣiṇā)+[thus](iti) [you-are-celebrated](prakīrtyase)
+[yataḥ+tataḥ+tataprajñaiḥ](yatastatastataprajñairdakṣiṇeti) [dakṣiṇā](dakṣiṇā) [iti](iti) [prakīrtyase](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[page](p.) [218](218)) [south](dakṣiṇā)+[form](mūrtiḥ)
+[dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[she](sā) [south](dakṣiṇā)+[form](mūrtiḥ)+[thus](iti) [renowned](prasiddhā)
+[sā](sā) [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ) [iti](iti) [prasiddhā](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[very](su)+[da](da)+[kṣi](kṣi)+[ṇā](ṇā)
+[sudakṣiṇā](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[truly](satyaṃ) [therefore](tataḥ) [goddess](devi) [very](su)+[skillful](dakṣiṇā)+[you-are](asi)
+[satyam](satyaṃ) [tataḥ](tato) [devi](devi) [sudakṣiṇā](sudakṣiṇā) [asi](asi)
 
 ## mukta-m0-p71-v1765
-[Hari](ha)+[ri](ri)+[be](pri)+[loved](yā)
+[haripriyā](haripriyā)
 
 ## mukta-m0-p71-v1766
-[Vishnu](śauriḥ)+[by-whose](yat)+[compassion](dayayā) [goddess](devī) [celebrated](kīrtitā) [she](sā) [Hari](hari)+[beloved](priyā)
+[śauriḥ](śauriryaddayayā) [yad](yad) [dayayā](dayayā) [devī](devī) [kīrtitā](kīrtitā) [sā](sā) [haripriyā](haripriyā)
 
 ## mukta-m0-p71-v1767
-[yo](yo)+[gi](gi)+[n](n)+[ī](ī)
+[yoginī](yoginī)
 
 ## mukta-m0-p71-v1768
-[disease](roga)+[sorrow](śoka)+[removed](vinivartita)+[mind](āśayā) [yogini](yoginī) [auspicious](subhaga)+[yoga](yoga)+[giver](dā)+[let-be](astu) [she](sā)
+[roga+śoka+vinivartita+āśayā](rogaśokavinivartitāśayā) [yoginī](yoginī) [subhaga+yoga+dā](subhagayogadāstu) [stu](stu) [sā](sā)
 
 ## mukta-m0-p71-v1769
-[yoga](yo)+[ga](ga)+[yuk](yuk)+[tā](tā)
+[yogayuktā](yogayuktā)
 
 ## mukta-m0-p71-v1770
-[consciousness](cit)+[bliss](ānanda)+[indeed](eva) [because](yat)+[eternally](nityaṃ) [yoga](yoga)+[united](yuktā) [therefore](tataḥ) [by-nature](svataḥ)
+[cid+ānanda+eva](cidānandaiva) [yat](yannityaṃ) [nityam](nityaṃ) [yogayuktā](yogayuktā) [tataḥ](tataḥ) [svataḥ](svataḥ)
 
 ## mukta-m0-p71-v1771
-[page](p.) [219](219)) [yoga](yoga)+[limb](aṅgā)
+[yogāṅgā](yogāṅgā)
 
 ## mukta-m0-p71-v1772
-[of-the-afflicted](āpannānām)+[calamity](āpad)+[end](anta)+[sole](eka)+[cause](hetuḥ)+[yoga](yoga)+[limb](aṅgā)+[this](iyaṃ) [proclaimed](kīrtitā) [yogi](yogi)+[lords](nāthaiḥ)
+[āpannānām](āpannānām) [āpad+anta+eka+hetuḥ](āpadantaikaheturyogāṅgeyaṃ) [yogāṅgā](yogāṅgā) [iyam](iyaṃ) [kīrtitā](kīrtitā) [yogināthaiḥ](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[meditation](dhyā)+[na](na)+[abounding](śā)+[linī](linī)
+[dhyānaśālinī](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-[by-all](sarva)+[to-be-meditated](dhyeyā)+[even](api) [all](sarvā)+[you-are](asi) [you](tvaṃ) [of-whom](yasya) [meditation](dhyāna)+[abounding](śālinī)
+[sarva+dhyeyā](sarvadhyeyāpi) [api](api) [sarvā](sarvāsi) [asi](asi) [tvam](tvaṃ) [yasya](yasya) [dhyānaśālinī](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yoga](yoga)+[band](paṭṭa)+[dha](dha)+[rā](rā)
+[yoga+paṭṭa+dharā](yogapaṭṭadharā)
