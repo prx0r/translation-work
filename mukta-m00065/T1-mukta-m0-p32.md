@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[kapāla+abhaya+hasta+ugrā](kapālābhayahastogrā) [vāma+ādyā](vāmādyā) [nava+śaktayaḥ](navaśaktayaḥ)
+skull-fear-hand-fierce left-etc nine-powers
 
 ## mukta-m0-p32-v777
-[dvīpi+carmā+ahi+bhṛt+śāntaḥ](dvīpicarmāhibhṛcchāntaḥ) [tri+akṣaḥ](tryakṣaḥ) [jaṭā+indu+bhūṣitaḥ](jaṭendubhūṣitaḥ)
+tiger-skin-snake-bearing-peaceful three-eyed matted-hair-moon-ornamented
 
 ## mukta-m0-p32-v778
-[aṅga+ṣaṭka+samāyuktaḥ](aṅgaṣaṭkasamāyuktaḥ) [śīghraṃ](śīghraṃ) [syāt+siddhi+dāyakaḥ](syātsiddhidāyakaḥ)
+six-limbs-endowed quickly becomes accomplishment-giving
 
 ## mukta-m0-p32-v779
-[yuva+yauvana+vṛddha+strī+bāla+ābhaḥ](yuvayauvanavṛddhastrībālābhaḥ) [pañca+vaktra+bhṛt](pañcavaktrabhṛt)
+youth-youth-old-woman-child-form five-faced-bearing
 
 ## mukta-m0-p32-v780
-[vāmena](vāmenā) [bhaya+mantra+aṅka](bhayamantrāṅka) [kapāla+utpala+pūra](kapālotpalapūra) [bhṛt](bhṛt)
+left fear-mantra-marked skull-lotus-fruit bearing
 
 ## mukta-m0-p32-v781
-[dṛg+rakta+asi+hutāśa+ābhāḥ](dṛgraktāsihutāśābhāḥ) [sarve](sarve) [tri+akṣāḥ](tryakṣāḥ) [jaṭā+anvitāḥ](jaṭānvitāḥ)
+eye-red-sword-fire-like all three-eyed matted-haired
 
 ## mukta-m0-p32-v782
-[babhru+bhrū+śmaśru+ddā?+bhīma+mastraṃ](babhrubhrūśmaśruddā?bhīmamastraṃ) [pītaṃ](pītaṃ) [sva+śastra](svaśastra) [bhṛt](bhṛt)
+brown-brow-beard-? fierce-weapon yellow own-weapon bearing
 
 ## mukta-m0-p32-v783
-[śakti](śakti) [vajra+akṣa+mālā+si+cakra+āṇi](vajrākṣamālāsicakrāṇi) [dakṣiṇe](dakṣiṇe) [kvacit](kvacit)
+power thunderbolt-rosary-sword-disc right sometimes
 
 ## mukta-m0-p32-v784
-[eka+āsyaḥ](ekāsyaḥ) [pañca+vaktraḥ](pañcavaktraḥ) [vā](vā) [tri+akṣaḥ](tryakṣaḥ) [jaṭā+indu+bhṛt+śivaḥ](jaṭendubhṛcchivaḥ)
+one-faced five-faced or three-eyed matted-hair-moon-bearing-shiva
 
 ## mukta-m0-p32-v785
-[koṇeṣu](koṇeṣu) [ca+eka](caika) [rudra+ādyāḥ](rudrādyāḥ) [sita+asaṅ+nīla+lohitaḥ](sitāsaṅnīlalohitāḥ)
+corners and one rudra-etc white-black-blue-red
 
 ## mukta-m0-p32-v786
-[śiva+āyudha+dhara+tri+akṣāḥ](śivāyudhadharāstryakṣāḥ) [sṛṇi+asi+bhyāṃ](sṛṇyasibhyāṃ) [vinā](vinā) [kvacit](kvacit)
+shiva-weapon-bearing three-eyed hook-sword without sometimes
 
 ## mukta-m0-p32-v787
-[puṭa+añjali+karaḥ](puṭāñjalikaraḥ) [sarve](sarve) [vidyeśāḥ](vidyeśāḥ) [ca+eka+vaktrakaḥ](caikavaktrakaḥ)
+cupped-palm-hands all vidyesha-and-one-faced
 
 ## mukta-m0-p32-v788
-[varābhaya+kapāla+abja+jaṭā+indu+ajina+nāga+bhṛt](varābhayakapālābjajaṭendvajinanāgabhṛt)
+boon-fear-skull-lotus-matted-hair-moon-jina-snake-bearing
 
 ## mukta-m0-p32-v789
-[dakṣiṇe](dakṣiṇe) [śūla+nistriśa+kuṭhāra+abhaya+dhārakaḥ](śūlanistriśakuṭhārābhayadhārakaḥ)
+right trident-sword-axe-fear-bearing
 
 ## mukta-m0-p32-v790
-[muṇḍa+mālī](muṇḍamālī) [śava+ārūḍhaḥ](śavārūḍhaḥ) [dvaita+advaita](dvaitādvaite) [kramāt+mataḥ](kramānmataḥ)
+skull-garlanded corpse-mounted dual-to-nondual in-order esteemed
 
 ## mukta-m0-p32-v791
-[saumyaṃ](saumyaṃ) [prahasita+āsyaṃ](prahasitāsyaṃ) [ca](ca) [candra+mauliṃ](candramauliṃ) [jaṭā+dharam](jaṭādharam)
+gentle smiling-face and moon-crest matted-haired
 
 ## mukta-m0-p32-v792
-[nāga+indra+mekhalā+yuktaṃ](nāgendramekhalāyuktaṃ) [sarva+ābharaṇa+bhūṣitam](sarvābharaṇabhūṣitam)
+snake-lord-girdle-endowed all-ornament-adorned
 
 ## mukta-m0-p32-v793
-[nṛtyantaṃ](nṛtyantaṃ) [mahā+hṛṣṭa+māyudha+ākula](mahāhṛṣṭamāyudhākula) [pāṇinam](pāṇinam)
+dancing great-joyed weapon-crowded handed
 
 ## mukta-m0-p32-v794
-[bala+nākārakaṃ](balanākārakaṃ) [bāhum+ekaṃ](bāhumekaṃ) [kṛtvā](kṛtvā) [hṛdi](hṛdi) [sthitam](sthitam)
+strength-shape arm one making heart situated
 
 ## mukta-m0-p32-v795
-[vāme](vāme) [pratānita+bhujaṃ](pratānitabhujaṃ) [samyak](samyak) [kṛtvā](kṛtvā) [su+śobhanam](suśobhanam)
+left extended-arm properly making well-beautiful
 
 ## mukta-m0-p32-v796
-[sarva+śānti+karaṃ](sarvaśāntikaraṃ) [kuryāt](kuryād) [iti+evaṃ](ityevaṃ) [saumya+rūpa+kam](saumyarūpakam)
+all-peace-making should-do thus gentle-form
 
 ## mukta-m0-p32-v797
-[skanda+nandi+mahākāla+gaṇeśa+gaṇa+saṃyutam](skandanandimahākālagaṇeśagaṇasaṃyutam)
+skanda-nandi-mahakala-ganesha-gana-accompanied
 
 ## mukta-m0-p32-v798
-[sānandaiḥ](sānandai) [rūpa+sampannaiḥ](rūpasampannair) [vīkṣyamāṇaṃ](vīkṣyamāṇaṃ) [maheśvaram](maheśvaram)
+with-joy form-endowed being-looked-at great-lord
 
 ## mukta-m0-p32-v799
-[tad+agre](tadagre) [ca](ca) [pranṛtyaṃś+ca](pranṛtyaṃśca) [bhṛṅgī+kāryaṃ](bhṛṅgīkāryaṃ) [kṛśaḥ](kṛśaḥ) [bhṛśaḥ](bhṛśaḥ)
+that-front and dancing and bh-ringi-work thin very
 
 ## mukta-m0-p32-v800
-[vikṛtāḥ](vikṛtāḥ) [tīkṣṇa+nāsāḥ](tīkṣṇanāsāḥ) [ca](ca) [aurāgni+ādi+pradāḥ](aurāgnyādipradāḥ) [kramāt](kramāt)
+distorted sharp-nosed and thief-fire-etc givers in-order
