@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[hundred-thousand-quantity](lakṣamātraṃ) [recite](japet) [mantra](mantraṃ) [then](tataḥ) [accomplished](siddhaḥ) [becomes](bhavet) [man](naraḥ)
+lakṣa-mātraṃ [hundred-thousand-quantity] jape [recite] mantraṃ [mantra] tataḥ [then] siddhaḥ [accomplished] bhaven [becomes] naraḥ [man]
 
 ## mukta-m0-p10-v227
-[that-ten-part](taddaśāṃśaṃ) [and](ca) [musk](kastūrī) [camphor-by](karpūrābhyāṃ) [well-perfumed](suvāsitaiḥ)
+tad-daśāṃśaṃ [that-tenth-part] ca [and] kastūrī [musk] karpūrābhyāṃ [with-camphor] su-vāsitaiḥ [well-perfumed]
 
 ## mukta-m0-p10-v228
-[that-ten-part](taddaśāṃśaṃ) [great-goddess](mahādevi) [brahmins](brāhmaṇān) [feed](bhojayet) [beloved](priye)
+tad-daśāṃśaṃ [that-tenth-part] mahādevi [great-goddess] brāhmaṇān [brahmins] bhojayet [feed] priye [dear]
 
 ## mukta-m0-p10-v229
-[heart-pleasing](hṛdyaiḥ) [rice-pudding](pāyasa) [cakes-etc](pūpādyaiḥ) [juices-and-also](rasaiścaiva) [elixirs](rasāyanaiḥ)
+hṛdyaiḥ [pleasing] pāyasa [rice-pudding] pūpa-ādyaiḥ [cakes-etc] rasaiḥ [juices] ca [and] eva [indeed] rasāyanaiḥ [elixirs]
 
 ## mukta-m0-p10-v230
-[wines](madyaiḥ) [meats-and](māṃsaiśca) [fish-and](matsyaiśca) [various-things-filled](nānāvastūpabṛṃhitaiḥ)
+madyaiḥ [wines] māṃsaiḥ [meats] ca [and] matsyaiḥ [fishes] ca [and] nānā-vastu-upabṛṃhitaiḥ [various-things-enriched]
 
 ## mukta-m0-p10-v231
-[worship](arcayet) [yoginis](yoginī) [heroes](vīrān) [tenth-part](daśāṃśaṃ) [mantra-practitioner](maṃtrasādhakaḥ)
+arcayet [worship] yoginī [yoginis] vīrān [heroes] daśāṃśaṃ [tenth-part] mantra-sādhakaḥ [mantra-practitioner]
 
 ## mukta-m0-p10-v232
-[bliss-enjoyments](ānaṃdabhogān) [enjoying](bhugjānaḥ) [on-earth](kṣoṇyāṃ) [plays](khelati) [body-like](kāyavat)
+ānanda-bhogān [bliss-enjoyments] bhujjānaḥ [enjoying] kṣoṇyāṃ [on-earth] khelati [plays] kāyavat [embodied]
 
 ## mukta-m0-p10-v233
-[extreme-secrecy](atiguhyatva) [which](yā) [protected](rakṣyā) [not](na) [given](deyā) [to-anyone](yasyakasyacit)
+ati-guhyatva [extreme-secrecy] yā [which] rakṣyā [protected] na [not] deyā [given] yasya-kasya-cit [to-anyone]
 
 ## mukta-m0-p10-v234
-[without-fallacious-reasoning](akutarka) [skilled](pravīṇāya) [truth-devoted](tattvaniṣṭhāya) [wise](dhīmate)
+a-kutarka [without-fallacious-reasoning] pravīṇāya [to-skilled] tattva-niṣṭhāya [to-truth-devoted] dhīmate [to-wise]
 
 ## mukta-m0-p10-v235
-[this](eṣā) [knowledge](vidyā) [to-be-given](pradātavyā) [truth](satyaṃ) [truth](satyaṃ) [I-say](vadāmyaham)
+eṣā [this] vidyā [knowledge] pradātavyā [to-be-given] satyaṃ [truth] satyaṃ [truth] vadāmi [I-say] aham [I]
 
 ## mukta-m0-p10-v236
-[this](etad) [knowledge-equal](vidyāsamaṃ) [not-is](nāsti) [not](na) [past](bhūtaṃ) [not](na) [future](bhaviṣyati)
+etad [this] vidyā-samam [equal-to-knowledge] na-asti [not-is] na [not] bhūtaṃ [past] na [not] bhaviṣyati [future]
 
 ## mukta-m0-p10-v237
-[this](imām) [practicing](abhyasyataḥ) [man's](puṃso) [liberation-path](mokṣamārgaḥ) [in-hand](karasthitaḥ)
+imām [this] abhyasyataḥ [practicing] puṃsaḥ [man's] mokṣa-mārgaḥ [liberation-path] kara-sthitaḥ [in-hand]
 
 ## mukta-m0-p10-v238
-[thus](ity) [in-Anandatantra](ānaṃdataṃtre) [fifth](paṃcamaḥ) [chapter](paṭalaḥ)
+iti [thus] ānanda-tantre [in-Ananda-tantra] paṃcamaḥ [fifth] paṭalaḥ [chapter]
 
 ## mukta-m0-p10-v239
-[sacrifice-king-sequence](yāgarājakramaḥ) [all-purposes](sarvapuruṣārthaṃ) [great-fruit](mahāphalam)
+yāga-rāja-kramaḥ [royal-sacrifice-procedure] sarva-puruṣārthaṃ [for-all-human-goals] mahā-phalam [great-fruit]
 
 ## mukta-m0-p10-v240
-[boon-fear-endowed](varābhayayutaṃ) [peaceful](śāṃtaṃ) [shakti-embraced](śaktyāśliṣṭaṃ) [mind-charming](manoharam)
+vara-abhaya-yutaṃ [boon-fearlessness-endowed] śāntaṃ [peaceful] śaktyā-āśliṣṭaṃ [united-with-power] manoharam [captivating]
 
 ## mukta-m0-p10-v241
-[bathed](āplāvita) [body](śarīraḥ) [well](san) [meditate-within](antardhyāyet) [great-goddess](maheśvarīm)
+āplāvita [bathed] śarīraḥ [body] san [with] antar-dhyāyet [meditate-within] maheśvarīm [great-goddess]
 
 ## mukta-m0-p10-v242
-[pierced](vibhinna) [six-lotus-born](ṣaṭsarojanma) [manifest](prakāśa) [own-form](nijavigrahām)
+vibhinna [pierced] ṣaṭ-cakra [six-centers] janma [birth] prakāśa [radiance] nija-vigrahām [own-form]
 
 ## mukta-m0-p10-v243
-[Tripurasundari](tripurasuṃdarīm)
+tripura-sundarīm [Tripurasundari]
 
 ## mukta-m0-p10-v244
-[going-out](nirgamya) [and](ca) [outside-village](bahirgrāmāt) [freed-urine-feces-pain](muktamūtramalavyathaḥ)
+nirgamya [exiting] ca [and] bahir-grāmāt [outside-village] mukta-mūtra-mala-vyathaḥ [free-from-urine-feces-affliction]
 
 ## mukta-m0-p10-v245
-[fragrant-oil-anointed](sugaṃdhatailaliptasya) [paste-rubbed](piṣṭikodvarti) [his](tasya) [and](ca)
+sugandha-taila-liptasya [anointed-with-fragrant-oil] piṣṭika-udvarti [paste-rubbed] tasya [his] ca [and]
 
 ## mukta-m0-p10-v246
-[ever](kadāpi) [kaula](kauliko) [from-delusion](mohāt) [not](na) [dry-bath](rūkṣasnānam) [perform](ācaret)
+kadāpi [ever] kaulikaḥ [Kaula] mohāt [from-delusion] na [not] rūkṣa-snānam [dry-bath] ācaret [perform]
 
 ## mukta-m0-p10-v247
-[head](mūrdhni) [tvā](tvā) [root-mantra](mūlamaṃtra) [recitation](jāpena) [water-three](bhoṃjalitrayam)
+mūrdhni [on-head] tu [indeed] ā [prefix] mūla-mantra [root-mantra] japena [by-recitation] aṃbho-jali-trayam [three-water-handfuls]
 
 ## mukta-m0-p10-v248
-[with-kusha](sakuśe) [with-flowers](sahapuṣpe) [and](ca) [with-scent](sagaṃdhe) [copper-vessel](tāmrabhājane)
+sa-kuśe [with-kusha] saha-puṣpe [with-flowers] ca [and] sa-gandhe [with-fragrance] tāmra-bhājane [copper-vessel]
 
 ## mukta-m0-p10-v249
-[copper-silver](tāmrarūpya) [gold](suvarṇaiḥ) [tu](tu) [made](racitaṃ) [that-praised](tatpraśasyate)
+tāmra-rūpya [copper-silver] suvarṇaiḥ [with-gold] tu [indeed] racitaṃ [made] tat [that] praśasyate [praised]
 
 ## mukta-m0-p10-v250
-[according-to-ability](yathā śakti) [and](ca) [satisfying](saṃtarpya) [enter](praviśet) [sacrifice-temple](yāgamaṃdiram)
+yathā-śakti [according-to-ability] ca [and] saṃtarpya [satisfying] praviśet [enter] yāga-maṃdiram [sacrifice-temple]

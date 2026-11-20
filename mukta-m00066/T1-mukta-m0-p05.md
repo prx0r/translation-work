@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[gāndharvaḥ](gāṃdharvastu) [mahān](mahān) [vedaḥ](vedo) [bharata-ādyaiḥ](bharatādyaiḥ) [pravistṛtaḥ](pravistṛtaḥ)
+[gāṃdharvaḥ](gāṃdharvastu) [mahān](mahān) [vedaḥ](vedo) [bharata-ādyaiḥ](bharatādyaiḥ) [pravistṛtaḥ](pravistṛtaḥ)
 
 ## mukta-m0-p05-v102
-[yaḥ](yastūbhayaprakāreṇa) [ubhaya-prakāreṇa](yastūbhayaprakāreṇa) [santosayati](saṃtoṣayati) [sat-janāt](sajjanāt)
+[yaḥ-tu](yastū) [ubhaya-prakāreṇa](ubhayaprakāreṇa) [saṃtoṣayati](saṃtoṣayati) [sa-jjanāt](sajjanāt)
 
 ## mukta-m0-p05-v103
 [prāyaḥ](prāyaḥ) [saṃgīta-sārāṇi](saṃgītasārāṇi) [nādakāni](nādakāni) [pracakṣate](pracakṣate)
@@ -14,64 +14,64 @@
 [bāhulyāt](bāhulyāt) [pratipādya](pratipādya) [syāt](syāt) [śṛṃgāra-rasaḥ](śṛṃgārorasa) [ujvalaḥ](ujvalaḥ)
 
 ## mukta-m0-p05-v105
-[tena](tenoparaṃjitatvādvā) [uparaṃjitatvāt](tenoparaṃjitatvādvā) [vā](tenoparaṃjitatvādvā) [teṣām](teṣāṃ) [rasaḥ](rasa) [iti](iti) [smṛtiḥ](smṛtiḥ)
+[tena-uparaṃjitatvāt-vā](tenoparaṃjitatvādvā) [teṣāṃ](teṣāṃ) [rasaḥ](rasa) [iti](iti) [smṛtiḥ](smṛtiḥ)
 
 ## mukta-m0-p05-v106
-[sat](sacānukūladā) [anukūla-dā](sacānukūladā) [catyoḥ](catyordarśanasparśanātmakaḥ) [darśana-sparśana-ātmakaḥ](catyordarśanasparśanātmakaḥ)
+[sa-ca-anukūla-dā](sacānukūladā) [catyoḥ-darśana-sparśana-ātmakaḥ](catyordarśanasparśanātmakaḥ)
 
 ## mukta-m0-p05-v107
-[tat](taccadvidhā) [ca](taccadvidhā) [dvidhā](taccadvidhā) [nīti-śāstram](nītiśāstraṃ) [bārhaspatyam](bārhaspatyaṃ) [ca](ca) [bhārgavam](bhārgavam)
+[tat-ca-dvidhā](taccadvidhā) [nīti-śāstraṃ](nītiśāstraṃ) [bārhaspatyaṃ](bārhaspatyaṃ) [ca](ca) [bhārgavam](bhārgavam)
 
 ## mukta-m0-p05-v108
-[ṣaḍbhiḥ](ṣaḍbhirguṇaiḥ) [guṇaiḥ](ṣaḍbhirguṇaiḥ) [śaktibhiḥ](śaktibhiścatisṛbhiścāpi) [catisṛbhiḥ](śaktibhiścatisṛbhiścāpi) [ca](śaktibhiścatisṛbhiścāpi) [api](śaktibhiścatisṛbhiścāpi) [siddhibhiḥ](siddhibhiḥ)
+[ṣaḍbhiḥ-guṇaiḥ](ṣaḍbhirguṇaiḥ) [śaktibhiḥ-ca-tisṛbhiḥ-ca-api](śaktibhiścatisṛbhiścāpi) [siddhibhiḥ](siddhibhiḥ)
 
 ## mukta-m0-p05-v109
-[nīti-śāstram](nītiśāstramidaṃ) [idam](nītiśāstramidaṃ) [sarvam](sarvaṃ) [vitta-saṃpat-samṛddhidam](vittasaṃpatsamṛddhidam)
+[nīti-śāstram-idam](nītiśāstramidaṃ) [sarvaṃ](sarvaṃ) [vitta-saṃpat-samṛddhi-dam](vittasaṃpatsamṛddhidam)
 
 ## mukta-m0-p05-v110
-[tṛtīya-puruṣārthaḥ](tṛtīyapuruṣārtho'yaṃ) [ayam](tṛtīyapuruṣārtho'yaṃ) [sva-cānanda](svacānaṃda) [svarūpakaḥ](svarūpakaḥ)
+[tṛtīya-puruṣārthaḥ-ayaṃ](tṛtīyapuruṣārtho'yaṃ) [sva-ca-ānaṃda](svacānaṃda) [svarūpakaḥ](svarūpakaḥ)
 
 ## mukta-m0-p05-v111
-[ityaṣṭādaśa-vidyānām](ityaṣṭādaśavidyānāṃ) [tātparyam](tātparyaṃ) [samyak](samyagīritam) [īritam](samyagīritam)
+[itya-aṣṭādaśa-vidyānāṃ](ityaṣṭādaśavidyānāṃ) [tātparyaṃ](tātparyaṃ) [samyak-īritam](samyagīritam)
 
 ## mukta-m0-p05-v112
-[sarvatra](sarvatra) [śāstre](śāstremokṣo'sti) [mokṣaḥ](śāstremokṣo'sti) [asti](śāstremokṣo'sti) [tasya](tasyarūpaṃ) [rūpam](tasyarūpaṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
+[sarvatra](sarvatra) [śāstre-mokṣaḥ-asti](śāstremokṣo'sti) [tasya-rūpaṃ](tasyarūpaṃ) [pṛthak-pṛthak](pṛthakpṛthak)
 
 ## mukta-m0-p05-v113
-[no](nocet) [cet](nocet) [pravṛttiḥ](pravṛttiḥ) [kena](kenasyāt) [asyāt](kenasyāt) [tat-tat-siddhānta](tattatsiddhāṃta) [vartinām](vartinām)
+[na-ucet](nocet) [pravṛttiḥ](pravṛttiḥ) [kena-asyāt](kenasyāt) [tat-tat-siddhāṃta-vartinām](tattatsiddhāṃtavartinām)
 
 ## mukta-m0-p05-v114
-[anānanda-svarūpatvāt](anānaṃda) [śilā-vasthām](śilāvasthānviḍaṃbhayan) [viḍaṃbhayan](śilāvasthānviḍaṃbhayan)
+[an-ānaṃda-svarūpatvāt](anānaṃdasvarūpatvāt) [śilā-vasthān-viḍaṃbhayan](śilāvasthānviḍaṃbhayan)
 
 ## mukta-m0-p05-v115
-[tat](tad) [doṣāt](doṣānnijayoṣāpi) [nija-yoṣā](doṣānnijayoṣāpi) [api](doṣānnijayoṣāpi) [dṛṣad-bhāvam](dṛṣadbhāvaṃ) [kilāgamat](kilāgamat)
+[tat-doṣāt-nija-yoṣā-api](taddoṣānnijayoṣāpi) [dṛṣad-bhāvaṃ](dṛṣadbhāvaṃ) [kila-āgamat](kilāgamat)
 
 ## mukta-m0-p05-v116
-[saḥ](sa) [eva](eva) [mokṣaḥ](mokṣonānyo'sti) [na](mokṣonānyo'sti) [anyaḥ](mokṣonānyo'sti) [asti](mokṣonānyo'sti) [duḥkha-ākāra-vivarjitaḥ](duḥkhākāravivarjitaḥ)
+[saḥ-eva](saeva) [mokṣaḥ-na-anyaḥ-asti](mokṣonānyo'sti) [duḥkha-ākāra-vivarjitaḥ](duḥkhākāravivarjitaḥ)
 
 ## mukta-m0-p05-v117
-[ānanda-nātha](ānaṃdanātha) [liṃga-stham](liṃgasthamadhikṛtyapravartate) [adhikṛtya](liṃgasthamadhikṛtyapravartate) [pravartate](liṃgasthamadhikṛtyapravartate)
+[ānaṃda-nātha-liṃga-stham-adhikṛtya-pravartate](ānaṃdanāthaliṃgasthamadhikṛtyapravartate)
 
 ## mukta-m0-p05-v118
-[ityānanda-tantre](ityānaṃdataṃtre) [tṛtīyaḥ](tṛtīyaḥ) [paṭalaḥ](paṭalaḥ)
+[itya-ānaṃda-taṃtre](ityānaṃdataṃtre) [tṛtīyaḥ](tṛtīyaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p05-v119
-[liṃga-ānanda-mayaḥ](liṃgānaṃdamayo) [yaḥ](yo'yamīśvaraḥ) [ayam](yo'yamīśvaraḥ) [īśvaraḥ](yo'yamīśvaraḥ) [pratipāditaḥ](pratipāditaḥ)
+[liṃga-ānaṃda-mayaḥ](liṃgānaṃdamayo) [yaḥ-ayam-īśvaraḥ](yo'yamīśvaraḥ) [pratipāditaḥ](pratipāditaḥ)
 
 ## mukta-m0-p05-v120
-[kecit](kecittān) [tān](kecittān) [pūjayanti](pūjayaṃ) [eva](tyeva) [bhoga-mātra](bhogamātra) [parāṅmukhān](parāṅmukhān)
+[kecit-tān](kecittān) [pūjayaṃ-tyeva](pūjayaṃtyeva) [bhoga-mātra-parāṅmukhān](bhogamātraparāṅmukhān)
 
 ## mukta-m0-p05-v121
-[anyāni](anyānyapi) [api](anyānyapi) [sukha-āsaktān](sukhāsaktānāti) [ati](sukhāsaktānāti) [saṃdadhate](saṃdadhate) [hite](hite)
+[anya-anya-api](anyānyapi) [sukha-āsaktān-āti](sukhāsaktānāti) [saṃdadhate](saṃdadhate) [hite](hite)
 
 ## mukta-m0-p05-v122
 [mūrkha-pravṛttayaḥ](mūrkhapravṛttayaḥ) [kecit](kecit) [hita-ahita-parāṅmukhāḥ](hitāhitaparāṅmukhāḥ)
 
 ## mukta-m0-p05-v123
-[vināśam](vināśameva) [eva](vināśameva) [gacchanti](gacchaṃti) [nindantaḥ](niṃdatolaiṃgamīśvaram) [ulaiṃgam](niṃdatolaiṃgamīśvaram) [īśvaram](niṃdatolaiṃgamīśvaram)
+[vināśam-eva](vināśameva) [gacchaṃti](gacchaṃti) [niṃdata-olaiṃgam-īśvaram](niṃdatolaiṃgamīśvaram)
 
 ## mukta-m0-p05-v124
-[na](nāśmanānirmitaṃ) [aśmanā](nāśmanānirmitaṃ) [nirmitam](nāśmanānirmitaṃ) [devī](devī) [na](nāyasāna) [ayasā](nāyasāna) [na](nāyasāna) [ca](nāyasāna) [dārubhiḥ](dārubhiḥ)
+[na-aśmanā-nirmitaṃ](nāśmanānirmitaṃ) [devī](devī) [na-ayasā-na-ca](nāyasānaca) [dārubhiḥ](dārubhiḥ)
 
 ## mukta-m0-p05-v125
-[dhātūnām](dhātūnāṃ) [ca](ca) [svarūpam](svarūpaṃ) [tat](tat) [pariṇāmaḥ](pariṇāmo) [hi](hi) [retasaḥ](retasaḥ)
+[dhātūnāṃ-ca](dhātūnāṃca) [svarūpaṃ](svarūpaṃ) [tat-pariṇāmaḥ](tatpariṇāmo) [hi](hi) [retasaḥ](retasaḥ)
