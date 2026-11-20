@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[past+future+manifesting](bhūtabhāvivibhāvinī)
+[past](bhūta) [future](bhāvi) [perceiver](vibhāvinī) [feminine](ī)
 
 ## mukta-m0-p71-v1752
-[other](ato'nyaḥ) [who](kaḥ) [always-beginning-end](sadādyantastvāṃ) [able-to-manifest](vibhāvayituṃ) [capable](kṣamaḥ)
+[other](ato+nyaḥ) [who](kaḥ) [always](sadā) [beginning-end](ādyantaḥ)
 
 ## mukta-m0-p71-v1753
-[auspicious](maṅgalā)
+[auspicious](maṅgalā) [feminine](ā) [noun](maṅgalā) [vocative](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[she](sā) [auspicious](maṅgalā) [let-be](astu) [his](asya) [always](sadā) [companion](sahāyā)
+[she](sā) [auspicious](maṅgalā) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-[well-disposed](suśīlā)
+[good-character](suśīlā) [feminine](ā) [noun](suśīlā) [vocative](suśīlā)
 
 ## mukta-m0-p71-v1756
-[self](svayaṃ) [well-disposed](suśīlā) [if](yadi) [not](nā) [would-be](bhaviṣyaḥ)
+[self](svayaṃ) [good-character](suśīlā) [if](yadi) [not](nābhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[ultimate-meaning-awakening](paramārthaprabodhikā)
+[supreme-meaning](paramārtha) [awakener](prabodhikā) [feminine](ā) [noun](prabodhikā)
 
 ## mukta-m0-p71-v1758
-[by-attainment](yadāptyā) [wandering](bhrāmakān) [other](anyān) [harms](arthāñ) [I-know](jānāmi) [like-grass](śaṣpavat)
+[by-attainment](yadāptyā) [wanderers](bhrāmakān) [other](anyān) [harms](arthāñ)
 
 ## mukta-m0-p71-v1759
-[right-handed](dakṣiṇā)
+[southern-gift](dakṣiṇā) [feminine](ā) [noun](dakṣiṇā) [vocative](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[since](yatastataḥ) [by-wise](tataprajñair) [right-handed](dakṣiṇeti) [proclaimed](prakīrtyase)
+[therefore](yatastataḥ) [wise](tataḥ+prajñaiḥ) [southern](dakṣiṇā) [called](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[right-handed-form](dakṣiṇāmūrtiḥ)
+[southern-form](dakṣiṇāmūrtiḥ) [masculine](ḥ) [noun](dakṣiṇāmūrtiḥ) [vocative](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[she](sā) [right-handed-form](dakṣiṇāmūrtiḥ) [thus](iti) [famous](prasiddhā)
+[she](sā) [southern-form](dakṣiṇāmūrtiḥ) [thus](iti) [famous](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[very-right-handed](sudakṣiṇā)
+[very-southern](sudakṣiṇā) [feminine](ā) [noun](sudakṣiṇā) [vocative](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[true](satyaṃ) [then](tato) [goddess](devi) [very-right-handed](sudakṣiṇā) [you-are](asi)
+[truth](satyaṃ) [then](tato) [goddess](devi) [very-southern](sudakṣiṇāsi)
 
 ## mukta-m0-p71-v1765
-[hari-beloved](haripriyā)
+[hari-beloved](haripriyā) [feminine](ā) [noun](haripriyā) [vocative](haripriyā)
 
 ## mukta-m0-p71-v1766
-[hari](śauriḥ) [by-mercy](yaddayayā) [goddess](devī) [praised](kīrtitā) [she](sā) [hari-beloved](haripriyā)
+[śauri](śauriḥ) [by-mercy](yaddayayā) [goddess](devī) [called](kīrtitā)
 
 ## mukta-m0-p71-v1767
-[yogini](yoginī)
+[yoginī](yoginī) [feminine](ī) [noun](yoginī) [vocative](yoginī)
 
 ## mukta-m0-p71-v1768
-[disease-sorrow-removed-mind](rogaśokavinivartitāśayā) [yogini](yoginī) [auspicious-yoga-giving](subhagayogadā) [let-be](stu) [she](sā)
+[disease-sorrow-remover](rogaśokavinivartitāśayā) [yoginī](yoginī) [auspicious-yoga-giver](subhagayogadā) [let-her-be](astu)
 
 ## mukta-m0-p71-v1769
-[yoga-united](yogayuktā)
+[yoga-united](yogayuktā) [feminine](ā) [noun](yogayuktā) [vocative](yogayuktā)
 
 ## mukta-m0-p71-v1770
-[consciousness-bliss-only](cidānandaiva) [which](yannityaṃ) [yoga-united](yogayuktā) [therefore](tataḥ) [by-self](svataḥ)
+[consciousness-bliss](cidānanda) [indeed](eva) [always](nityaṃ) [yoga-united](yogayuktā)
 
 ## mukta-m0-p71-v1771
-[yoga-limb](yogāṅgā)
+[yoga-limb](yogāṅga) [feminine](ā) [noun](yogāṅgeyaṃ) [called](kīrtitā)
 
 ## mukta-m0-p71-v1772
-[of-afflicted](āpannānām) [of-calamity](āpad) [single-cause](antaikahetuḥ) [yoga-limb](yogāṅgeyaṃ) [proclaimed](kīrtitā) [by-yoga-lords](yogināthaiḥ)
+[afflicted](āpannānām) [single-cause](āpadantaikahetuḥ) [yoga-limb](yogāṅgeyaṃ) [by-yoga-lords](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[meditation-endowed](dhyānaśālinī)
+[meditation-possessing](dhyānaśālinī) [feminine](ī) [noun](dhyānaśālinī) [vocative](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-[all-meditation-worthy](sarvadhyeyā) [also](api) [all](sarvā) [you-are](asi) [you](tvaṃ) [whose](yasya) [meditation-endowed](dhyānaśālinī)
+[all-meditatable](sarvadhyeyā) [all](sarvāsi) [you](tvaṃ) [meditation-possessing](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yoga-band-wearer](yogapaṭṭadharā)
+[yoga-band-wearer](yogapaṭṭadharā) [feminine](ā) [noun](yogapaṭṭadharā) [vocative](yogapaṭṭadharā)
