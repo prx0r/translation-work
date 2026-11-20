@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[obtaining](prāpya) [there](tatra) [strength](bala)+[place](sthānaṃ) [shining](dīpta)+[jewels](ratneṣu) [in-houses](veśmasu)
+[having-obtained](prāpya) [there](tatra) [strength+place](balasthānaṃ) [shining+in-jewels](dīptaratneṣu) [in-mansions](veśmasu)
 
 ## mukta-m0-p43-v1052
-[from-that](tasmāt) [this](idaṃ) [great](mahā)+[sacrifice](yāgaṃ) [difficult](durllabhaṃ) [of-winds](marutām)+[also](api)
+[therefore+this](tasmādidaṃ) [great+sacrifice](mahāyāgaṃ) [difficult+to-obtain](durllabhaṃ) [of-gods+even](marutāmapi)
 
 ## mukta-m0-p43-v1053
-[otherwise](anyathā)+[doing](karaṇāt) [goddess](devī) [fall](vinipātaḥ) [arises](prajāyate)
+[otherwise+from-doing](anyathākaraṇād) [O-goddess](devī) [downfall](vinipātaḥ) [arises](prajāyate)
 
 ## mukta-m0-p43-v1054
-[authoritative](prāmāṇike) [this](asmin) [fair-hipped](suśroṇi) [on-path](mārge) [living](jīvati) [trusting](viśvasan)
+[in-authoritative+in-this](prāmāṇike'smin) [O-beautiful-hipped](suśroṇi) [on-path+living](mārgejīvati) [trusting](viśvasan)
 
 ## mukta-m0-p43-v1055
-[in-mantra](maṃtre) [in-mantra](maṃtre) [to-be-done](tu karttavye) [in-medicine](bheṣaje) [in-deity](daivate) [in-teacher](gurau)
+[in-mantra](maṃtre) [in-mantra](maṃtre) [indeed](tu) [to-be-done](karttavye) [in-medicine](bheṣaje) [in-deity](daivate) [in-guru](gurau)
 
 ## mukta-m0-p43-v1056
-[old](vṛdhā)
+[in-vain](vṛdhā])
 
 ## mukta-m0-p43-v1057
-[see](paśya) [faith](viśvāsa)+[greatness](māhātmyaṃ) [stone](śilā)+[wood](dāru)+[earth](mṛd)+[etc](ādikam)
+[behold](paśya) [faith+greatness](viśvāsamāhātmyaṃ) [stone+wood+clay+and-so-forth](śilādārumṛdādikam)
 
 ## mukta-m0-p43-v1058
-[unconscious](acetanaṃ) [inert](jaḍa)+[substance](dravyaṃ) [by-whom](kena) [success](siddhiṃ) [gives](prayacchati)
+[unconscious](acetanaṃ) [inert+substance](jaḍadravyaṃ) [by-what](kena) [success](siddhiṃ) [bestows](prayacchati)
 
 ## mukta-m0-p43-v1059
-[work](karma)+[faith](śraddhā) [tradition](saṃpradāyā) [both](vubhāvetau) [activators](pravarttakau)
+[action+faith](karmaśraddhā) [tradition](saṃpradāyā) [both+these](vubhāvetau) [promoters](pravarttakau)
 
 ## mukta-m0-p43-v1060
-[always](sadā) [stainless](amalīmasā) [fools](mūrkhāś) [fierce](caṃḍāla)+[etc](ādyāś) [castes](ca jātayaḥ)
+[always+unstained](sadāmalīmasā) [fools+and](mūrkhāścaṃḍālādyāśca) [and](ca) [classes](jātayaḥ)
 
 ## mukta-m0-p43-v1061
-[no-conduct](nācāro) [nor](na ca) [purity](vā śaucaṃ) [no-learning](na vaiduṣyaṃ) [no-intellect-qualities](na dhīguṇāḥ)
+[not+conduct](nācāro) [not](na) [and](ca) [or](vā) [purity](śaucaṃ) [not](na) [learning](vaiduṣyaṃ) [not](na) [intellect+qualities](dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-[faith](viśvāso) [named](nāma)+[mind](manaso) [firmness](dṛḍhatā) [in-mantra-achievement](maṃtrasādhane)
+[faith](viśvāso) [indeed+of-mind](nāmamanaso) [firmness](dṛḍhatā) [mantra+accomplishment](maṃtrasādhane)
 
 ## mukta-m0-p43-v1063
-[thus](evaṃ) [faith](viśvāsa)+[obtained](māpannaḥ) [fruit](phalārthi)+[fruit](phala)+[form](vigrahaḥ)
+[thus](evaṃ) [faith+attained](viśvāsamāpannaḥ) [fruit+seeker](phalārthi) [fruit+embodiment](phalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-[brahmin](brāhmaṇa)+[kshatriya](kṣatriya) [vaishya](viśā) [authority](madhikāro) [here](atra)+[rule](śāsanam)
+[brahmin+kṣatriya](brāhmaṇakṣatriya) [of-vaiśyas](viśām) [eligibility+here](adhikāro'tra) [injunction](śāsanam)
 
 ## mukta-m0-p43-v1065
-[hero](vīra)+[service](śuśrūṣaṇaṃ) [of-them](teṣām) [desired](abhiṣṭa)+[fruit](phala)+[success](siddhayaḥ)
+[hero+service](vīraśuśrūṣaṇaṃ) [of-them](teṣām) [desired+fruit](abhiṣṭaphala) [for-accomplishment](siddhayaḥ)
 
 ## mukta-m0-p43-v1066
-[of-vaishya](vaiśyasya) [trade](paṇya)+[profit](lābhārdhaṃ) [of-shudra](sudrāder) [never](nakadācana)
+[of-vaiśya](vaiśyasya) [merchandise+gain+for-sake](paṇyalābhārdhaṃ) [of-śūdra+and-others](sudrāder) [not+ever](nakadācana)
 
 ## mukta-m0-p43-v1067
-[one](eka)+[birth](evajātir) [woman](nārī) [thus](iti) [to-be-taken](grāhyā) [marks](lakṣaṇa)+[occurrence](saṃbhave)
+[one+alone+birth](ekaivajātir) [woman+thus](nārīti) [to-be-accepted](grāhyā) [mark+when-present](lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-[worship](pūjā)+[means](sādhanam) [these](etā) [by-me](mayā)+[created](sṛṣṭā) [deer-eyed](mṛgīdṛśaḥ)
+[worship+means+these](pūjāsādhanametā) [indeed](hi) [by-me+created](mayāsṛṣṭā) [deer+eyed-ones](mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
-[cows](gāvastu) [back](pṛṣṭha)+[pure](tomedhyā) [pure](medhyā) [by-mouth](vaktreṇa) [speakers](vādinaḥ)
+[cows+but](gāvastu) [from-behind+pure](pṛṣṭhatomedhyā) [pure+by-mouth](medhyāvaktreṇa) [of-speakers](vādinaḥ)
 
 ## mukta-m0-p43-v1070
-[woman](strī)+[mouth](mukhaṃ) [always](tu sadā) [purity](śuddhir) [no-leftover](nocciṣṭaṃ) [there](tatra) [exists](vidyate)
+[woman+mouth](strīmukhaṃ) [but](tu) [always](sadā) [purity](śuddhir) [not+impure-remnant](nocciṣṭaṃ) [there](tatra) [exists](vidyate)
 
 ## mukta-m0-p43-v1071
-[by-them](tābhir) [without](vinā) [no](na) [sacrifice](yajño) [is](asti) [no](na) [austerity](tapo) [is](asti) [nor](na vā) [vow](vratam)
+[by-them+without](tābhirvinā) [not](na) [sacrifice+is](yajño'sti) [not](na) [austerity+is](tapo'sti) [not](na) [or](vā) [vow](vratam)
 
 ## mukta-m0-p43-v1072
-[eight](aṣṭā)+[offering](hutir) [great](mahā)+[sacrifice](yāge) [principal](pradhānaṃ) [messengers](dūtikāḥ) [remembered](smṛtāḥ)
+[eight+offering](aṣṭāhutir) [in-great-sacrifice](mahāyāge) [principal](pradhānaṃ) [female-messengers](dūtikāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-[bringing](ānīya)+[joining](ghaṭiyatyeṣā) [therefore](tasmād) [messenger](dūti) [proclaimed](prakīrtitā)
+[having-brought+joins+she](ānīyaghaṭiyatyeṣā) [therefore](tasmād) [messenger](dūti) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p43-v1074
-[messenger](dūtī) [by-wise](tena budhaiḥ) [spoken](proktā) [thought](ciṃtā) [distress](saṃtāpa)+[remover](rodhinī)
+[messenger](dūtī) [therefore](tena) [by-wise](budhaiḥ) [declared](proktā) [anxiety+anguish+removing](ciṃtā saṃtāparodhinī)
 
 ## mukta-m0-p43-v1075
-[enjoyer](bhoginī)+[enjoyment](bhoga)+[wealth](lakṣmīś) [ca](ca) [of-her](tasyāḥ) [synonyms](paryāya) [well-spoken](sūktayaḥ)
+[enjoyer](bhoginī) [enjoyment+fortune+and](bhogalakṣmīśca) [her](tasyāḥ) [synonym](paryāya) [utterances](sūktayaḥ)
