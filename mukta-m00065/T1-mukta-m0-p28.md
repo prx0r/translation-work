@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[of-the-end](navāvadhikarāntasya) [fault](śūnyadoṣo) [not](na) [of-anyone](kasyacit)
+[navāvadhikarāntasya](navāvadhikarāntasya) [śūnyadoṣaḥ](śūnyadoṣaḥ) [na](na) [kasyacit](kasyacit)
 
 ## mukta-m0-p28-v677
-[in-three-ways](tridhā) [by-measure](mānena) [and-by-one](caikena) [two-hundred-sixteen-angled](ṣoḍaśāsraṃ) [two-hundred](śatadvayam)
+[tridhā](tridhā) [mānena](mānena) [ca](ca) [ekena](ekena) [ṣoḍaśāsram](ṣoḍaśāsram) [śatadvayam](śatadvayam)
 
 ## mukta-m0-p28-v678
-[four-eight-six-angled](caturaṣṭaṣaḍasraṃ) [then](tu) [indra-marked](indrāṅkaṃ) [vajra-shaped](vajrarūpakam)
+[caturaṣṭaṣaḍasram](caturaṣṭaṣaḍasram) [tu](tu) [indrāṅkam](indrāṅkam) [vajrarūpakam](vajrarūpakam)
 
 ## mukta-m0-p28-v679
-[by-bindu-contact](bindusaṃpātsaṃyogāt) [by-oblique-threads](tiryaksūtrair) [one-should-turn](vivartayet)
+[bindusaṃpātsaṃyogāt](bindusaṃpātsaṃyogāt) [tiryaksūtraiḥ](tiryaksūtraiḥ) [vivartayet](vivartayet)
 
 ## mukta-m0-p28-v680
-[above-the-two-vasus](vasvasrordhvaṃ) [then](tu) [seven-angled](saptāsraṃ) [by-shakti](śaktyā) [fiery](āgneya) [causing-burning](ca) [dāhakṛt]
+[vasvasrordhvam](vasvasrordhvam) [tu](tu) [saptāsram](saptāsram) [śaktyāgneya](śaktyāgneya) [ca](ca) [dāhakṛt](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[navel-half](nāhārdhaṃ) [ninefold](navadhā) [having-made](kṛtvā) [with-arrows](śarair) [heart-back-corner](hṛtpṛṣṭhakoṭibhiḥ)
+[nāhārdham](nāhārdham) [navadhā](navadhā) [kṛtvā](kṛtvā) [śaraiḥ](śaraiḥ) [hṛt](hṛt) [pṛṣṭha](pṛṣṭha) [koṭibhiḥ](koṭibhiḥ)
 
 ## mukta-m0-p28-v682
-[thus](evaṃ) [ca](cā) [eight-angled-surrounded](aṣṭāsravṛtaṃ) [would-be](syāt) [yama-staff](yāmyadaṇḍaṃ) [disease-causing](rujapradam)
+[evam](evam) [ca](ca) [aṣṭāsravṛtam](aṣṭāsravṛtam) [syāt](syāt) [yāmyadaṇḍam](yāmyadaṇḍam) [rujapradam](rujapradam)
 
 ## mukta-m0-p28-v683
-[eight-angled-half](aṣṭāsro'rdha) [ten-angled](daśāstraṃ) [would-be](syāt) [sword-like](khaḍgābhaṃ) [rakshasa-fear](rākṣasaṃ) [bhayam]
+[aṣṭāsraḥ](aṣṭāsraḥ) [ardha](ardha) [daśāstram](daśāstram) [syāt](syāt) [khaḍgābham](khaḍgābham) [rākṣasam](rākṣasam) [bhayam](bhayam)
 
 ## mukta-m0-p28-v684
-[four-eight-angled-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [noose-like](pāśavat) [varuna](vāruṇaṃ) [auspicious](śubham)
+[caturaṣṭāsravṛttam](caturaṣṭāsravṛttam) [syāt](syāt) [pāśavat](pāśavat) [vāruṇam](vāruṇam) [śubham](śubham)
 
 ## mukta-m0-p28-v685
-[thin](kṛśaṃ) [front-form](prāgrūpakaṃ) [long](dīrghaṃ) [moving](calam) [uprooting-banner](uccāṭakṛddhvajam)
+[kṛśam](kṛśam) [prāgrūpakam](prāgrūpakam) [dīrgham](dīrgham) [calam](calam) [uccāṭakṛt](uccāṭakṛt) [dhvajam](dhvajam)
 
 ## mukta-m0-p28-v686
-[yaksha](yākṣaṃ) [mace-tip-headed](gadāgramūrdhānaṃ) [strength-increasing](balavṛddhikaraṃ) [auspicious](śivam)
+[yākṣam](yākṣam) [gadāgramūrdhānam](gadāgramūrdhānam) [balavṛddhikaram](balavṛddhikaram) [śivam](śivam)
 
 ## mukta-m0-p28-v687
-[four-five-angled](catuḥpañcāsrakaṃ) [three-angled](tryasraṃ) [trident](śūlaṃ) [fierce](raudraṃ) [then](tu) [liberation-giving](muktidam)
+[catuḥpañcāsrakam](catuḥpañcāsrakam) [tryasram](tryasram) [śūlam](śūlam) [raudram](raudram) [tu](tu) [muktidam](muktidam)
 
 ## mukta-m0-p28-v688
-[eight-angled-half](aṣṭāsro'rdhaṃ) [ca](ca) [four-angled](vedāsraṃ) [brahma](brāhmaṃ) [for-heaven](svargāya) [lotus-like](padmavat)
+[aṣṭāsraḥ](aṣṭāsraḥ) [ardham](ardham) [ca](ca) [vedāsram](vedāsram) [brāhmam](brāhmam) [svargāya](svargāya) [padmavat](padmavat)
 
 ## mukta-m0-p28-v689
-[four-eight-angled-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [vaishnava](vaiṣṇavaṃ) [conch-like](śaṅkhavat) [auspicious](śubham)
+[caturaṣṭāsravṛttam](caturaṣṭāsravṛttam) [syāt](syāt) [vaiṣṇavam](vaiṣṇavam) [śaṅkhavat](śaṅkhavat) [śubham](śubham)
 
 ## mukta-m0-p28-v690
-[from-rudra-three-less](rudrāttrihānitaḥ) [conch](śuktir) [staff](daṇḍo) [from-directions-three-less](digbhyastrihānitaḥ)
+[rudrāt](rudrāt) [trihānitaḥ](trihānitaḥ) [śuktiḥ](śuktiḥ) [daṇḍaḥ](daṇḍaḥ) [digbhyaḥ](digbhyaḥ) [trihānitaḥ](trihānitaḥ)
 
 ## mukta-m0-p28-v691
-[cock-egg](kukkuṭāṇḍaṃ) [ca](ca) [in-vayavya](vāyavye) [from-bhuta-parts](bhūtāṃśāddhi) [yate](yate) [mace](gadā)
+[kukkuṭāṇḍam](kukkuṭāṇḍam) [ca](ca) [vāyavye](vāyavye) [bhūtāṃśāt](bhūtāṃśāt) [hi](hi) [yate](yate) [gadā](gadā)
 
 ## mukta-m0-p28-v692
-[right-egg-portion](dakṣāṇḍabhaja) [of-vaishnava](vaiṣṇośca) [thus](ittha) [line](rekhā) [of-gem](maṇerapi)
+[dakṣāṇḍabhaja](dakṣāṇḍabhaja) [vaiṣṇoḥ](vaiṣṇoḥ) [ca](ca) [ittha](ittha) [rekhā](rekhā) [maṇeḥ](maṇeḥ) [api](api)
 
 ## mukta-m0-p28-v693
-[split](sphuṭitaṃ) [like-embryo](garbhavaddaṣṭaṃ) [one-should-place](sthāpayed) [in-abhivārika](ābhivārike)
+[sphuṭitam](sphuṭitam) [garbhavat](garbhavat) [daṣṭam](daṣṭam) [sthāpayet](sthāpayet) [ābhivārike](ābhivārike)
 
 ## mukta-m0-p28-v694
-[manifest-signs](vyaktaliṅgāni) [ca](cā) [other](anyāni) [various](nānā) [forms](rūpāṇi) [I-speak](vacmyataḥ)
+[vyaktaliṅgāni](vyaktaliṅgāni) [ca](ca) [anyāni](anyāni) [nānā](nānā) [rūpāṇi](rūpāṇi) [vacmi](vacmi) [ataḥ](ataḥ)
 
 ## mukta-m0-p28-v695
-[thus](iti) [in-lakshana-samuccaya](lakṣaṇasamuccaye) [unmanifest-sign-characteristic](avyaktaliṅgalakṣaṇaṃ) [named](nāma) [fourth](caturtho) [rite](vidhiḥ)
+[iti](iti) [lakṣaṇasamuccaye](lakṣaṇasamuccaye) [avyaktaliṅgalakṣaṇam](avyaktaliṅgalakṣaṇam) [nāma](nāma) [caturthaḥ](caturthaḥ) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p28-v696
-[by-previous-finger-measure](pūrvāṅgulapramāṇena) [ten-five-fingers](daśapañcāṅgulāṅgulāt)
+[pūrvāṅgulapramāṇena](pūrvāṅgulapramāṇena) [daśapañcāṅgulāṅgulāt](daśapañcāṅgulāṅgulāt)
 
 ## mukta-m0-p28-v697
-[sometimes-hand-measure](kvaciddhastapramāṇā) [sā](sā) [sometimes](kvacicca) [thirty-fingers](triṃśadaṅgulā)
+[kvacit](kvacit) [hastapramāṇā](hastapramāṇā) [sā](sā) [kvacit](kvacit) [ca](ca) [triṃśadaṅgulā](triṃśadaṅgulā)
 
 ## mukta-m0-p28-v698
-[two-gate-height](dvārocchrayaṃ) [dividing](vibhajyādāv) [eightfold](aṣṭadhaukaṃ) [having-made](vidhāya) [ca](ca)
+[dvārocchrayam](dvārocchrayam) [vibhajya](vibhajya) [ādau](ādau) [aṣṭadhaukam](aṣṭadhaukam) [vidhāya](vidhāya) [ca](ca)
 
 ## mukta-m0-p28-v699
-[to-be-established](vidhātavyā) [in-two-parts](dvibhāgena) [smaller](kanyasī) [image](pratimā) [ca](ca) [sā](sā)
+[vidhātavyā](vidhātavyā) [dvibhāgena](dvibhāgena) [kanyasī](kanyasī) [pratimā](pratimā) [ca](ca) [sā](sā)
 
 ## mukta-m0-p28-v700
-[middle](madhyamā) [would-be](syāt) [in-two-parts](dvibhāgena) [to-be-made](kārya) [one-part](ekāṃśena) [pedestal](pīṭhikā)
+[madhyamā](madhyamā) [syāt](syāt) [dvibhāgena](dvibhāgena) [kārya](kārya) [ekāṃśena](ekāṃśena) [pīṭhikā](pīṭhikā)
