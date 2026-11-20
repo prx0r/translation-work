@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[bed-gen](śayyāyā) [north-loc](uttare) [part-loc](bhāge) [having-placed](sthāpayitvā) [ever-nectar](sadāmṛtam)
+[gloss](śayyāyā) [gloss](uttare) [gloss](bhāge) [gloss](sthāpayitvā) [gloss](sadāmṛtam)
 
 ## mukta-m0-p25-v602
-[full+pot-acc](pūrṇakuṃbhaṃ) [his-gen](tasya) [mouth-loc](mukhe) [lotus-one-acc](paṭmamekaṃ) [should-contemplate](viciṃtayet)
+[gloss](pūrṇakuṃbhaṃ) [gloss](tasya) [gloss](mukhe) [gloss](paṭmamekaṃ) [gloss](viciṃtayet)
 
 ## mukta-m0-p25-v603
-[ever-love-intoxicated-self](sadāmadanamattātmā) [noose-goad-excellent-hand](pāśāṃkuśalasatkaraḥ)
+[gloss](sadāmadanamattātmā) [gloss](pāśāṃkuśalasatkaraḥ)
 
 ## mukta-m0-p25-v604
-[lap-sit-gen](aṃkasthitāyā) [intoxicated-gen](mattāyāḥ) [siddhi-lakshmi-bhaga-between](siddhilakṣmībhagāṃtare)
+[gloss](aṃkasthitāyā) [gloss](mattāyāḥ) [gloss](siddhilakṣmībhagāṃtare)
 
 ## mukta-m0-p25-v605
-[her-gen](tasyāśca) [hand-lotus](karapadmena) [new-sprout-charming](navapallavacāruṇā)
+[gloss](tasyāśca) [gloss](karapadmena) [gloss](navapallavacāruṇā)
 
 ## mukta-m0-p25-v606
-[siddhi-lakshmi-gen](siddhilakṣmī) [bhaga-stream](bhagasrota) [nectar-drink-languid](śīdhupānamadālasaḥ)
+[gloss](siddhilakṣmī) [gloss](bhagasrota) [gloss](śīdhupānamadālasaḥ)
 
 ## mukta-m0-p25-v607
-[siddhi-lakshmi-pleasure](siddhilakṣmīrati) [sweat](sveta) [soothing-ear-clapping](vinudankarṇatālanaiḥ)
+[gloss](siddhilakṣmīrati) [gloss](sveta) [gloss](vinudankarṇatālanaiḥ)
 
 ## mukta-m0-p25-v608
-[siddhi-lakshmi](siddhilakṣmī) [falls-indeed](patedeva) [shakti-heramba-form](śaktiherambavigraha)
+[gloss](siddhilakṣmī) [gloss](patedeva) [gloss](śaktiherambavigraha)
 
 ## mukta-m0-p25-v609
-[thus-by-this-mantra](ityanenaiva) [mantra-instr](maṃtreṇa) [flower-offering-rite](kṛtapuṣpāṃjali) [kriya](kriyaḥ)
+[gloss](ityanenaiva) [gloss](maṃtreṇa) [gloss](kṛtapuṣpāṃjali) [gloss](kriyaḥ)
 
 ## mukta-m0-p25-v610
-[messenger-gen](dūtyāśca) [form-loc](vigrahe) [flower-one-thus](puṣpamekamevaṃ) [should-place](vinikṣipet)
+[gloss](dūtyāśca) [gloss](vigrahe) [gloss](puṣpamekamevaṃ) [gloss](vinikṣipet)
 
 ## mukta-m0-p25-v611
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v612
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v613
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v614
-[vasus-gen](vasūnāṃ) [vasu-wives-gen](vasupatnīnāṃ) [who](ya) [bliss-great-lord](ānaṃdamaheśvaraḥ)
+[gloss](vasūnāṃ) [gloss](vasupatnīnāṃ) [gloss](ya) [gloss](ānaṃdamaheśvaraḥ)
 
 ## mukta-m0-p25-v615
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v616
-[mantra](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v617
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v618
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v619
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v620
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v621
-[mantra](ātmasvarūpa saṃsiddhyaitamānaṃdamihānaye)
+[gloss](ātmasvarūpa) [gloss](saṃsiddhyaitamānaṃdamihānaye)
 
 ## mukta-m0-p25-v622
-[therefore-food-sheath](tasmādannamayaṃ) [kośa-acc](kośaṃ) [bliss-filled-ness-acc](ānaṃdamayatāṃ) [lead](nayet)
+[gloss](tasmādannamayaṃ) [gloss](kośaṃ) [gloss](ānaṃdamayatāṃ) [gloss](nayet)
 
 ## mukta-m0-p25-v623
-[therefore-prana-sheath](tasmāt prāṇamayaṃ) [kośa-acc](krośam) [bliss-filled-ness-acc](ānaṃdamayatāṃ) [lead](nayet)
+[gloss](tasmāt) [gloss](prāṇamayaṃ) [gloss](krośamānaṃdamayatāṃ) [gloss](nayet)
 
 ## mukta-m0-p25-v624
-[therefore-mind-sheath](tasmānmanomayaṃ) [kośa-acc](kośam) [bliss-filled-ness-acc](ānaṃdamayatāṃ) [lead](nayet)
+[gloss](tasmānmanomayaṃ) [gloss](kośamānaṃdamayatāṃ) [gloss](nayet)
 
 ## mukta-m0-p25-v625
-[that-knowledge-sheath](tadvijñānamayaṃ) [kośa-acc](kośam) [bliss-filled-ness-acc](anaṃdamayatāṃ) [lead](naye)
+[gloss](tadvijñānamayaṃ) [gloss](kośamanaṃdamayatāṃ) [gloss](naye)

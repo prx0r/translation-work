@@ -133,7 +133,7 @@
 },
 {
 "surface": "saṃkṣobhāṃ",
-"quick_gloss": "saṃkṣobhāṃ"
+"quick_gloss": "saṃkṣobhām"
 },
 {
 "surface": "nāḍībhyo",
@@ -157,16 +157,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śṛṃgāravāhinī",
-"quick_gloss": "śṛṃgāra-vāhinī"
-},
-{
-"surface": "pūra",
-"quick_gloss": "pūra"
+"surface": "śṛṃgāravāhinīpūra",
+"quick_gloss": "śṛṃgāra-vāhinī-pūra"
 },
 {
 "surface": "pūrṇarāgāṃ",
-"quick_gloss": "pūrṇa-rāgāṃ"
+"quick_gloss": "pūrṇa-rāgām"
 },
 {
 "surface": "kurāruṇam",
@@ -182,12 +178,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manmathadrava",
-"quick_gloss": "manmatha-drava"
-},
-{
-"surface": "saṃdoha",
-"quick_gloss": "saṃdoha"
+"surface": "manmathadrava+saṃdoha",
+"quick_gloss": "manmatha-drava-saṃdoha"
 },
 {
 "surface": "juṣṭam",
@@ -211,12 +203,8 @@
 "quick_gloss": "kā"
 },
 {
-"surface": "caṃdrakalā",
-"quick_gloss": "caṃdra-kalā"
-},
-{
-"surface": "nāma",
-"quick_gloss": "nāma"
+"surface": "caṃdrakalānāma",
+"quick_gloss": "caṃdra-kalā-nāma"
 },
 {
 "surface": "kutra",
@@ -244,12 +232,8 @@
 "quick_gloss": "śṛṇu"
 },
 {
-"surface": "kāmakalā",
-"quick_gloss": "kāma-kalā"
-},
-{
-"surface": "nāma",
-"quick_gloss": "nāma"
+"surface": "kāmakalānāma",
+"quick_gloss": "kāma-kalā-nāma"
 },
 {
 "surface": "nāḍībhogāṃbuvāhinī",
@@ -436,7 +420,7 @@
 },
 {
 "surface": "nābhicakraṃ",
-"quick_gloss": "nābhi-cakraṃ"
+"quick_gloss": "nābhi-cakram"
 },
 {
 "surface": "samāśritā",
@@ -622,8 +606,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadarthāni",
-"quick_gloss": "tat-arthāni"
+"surface": "tat",
+"quick_gloss": "tat"
+},
+{
+"surface": "arthāni",
+"quick_gloss": "arthāni"
 },
 {
 "surface": "eva",
@@ -634,8 +622,12 @@
 "quick_gloss": "śāstrāṇi"
 },
 {
-"surface": "tadarthāḥ",
-"quick_gloss": "tat-arthāḥ"
+"surface": "tat",
+"quick_gloss": "tat"
+},
+{
+"surface": "arthāḥ",
+"quick_gloss": "arthāḥ"
 },
 {
 "surface": "ca",
@@ -659,8 +651,8 @@
 "quick_gloss": "tasmāt"
 },
 {
-"surface": "caṃdrakalānāḍyāṃ",
-"quick_gloss": "caṃdra-kalā-nāḍyāṃ"
+"surface": "caṃdrakalānāḍyām",
+"quick_gloss": "caṃdra-kalā-nāḍyām"
 },
 {
 "surface": "bhogāmṛtamahodadhim",
