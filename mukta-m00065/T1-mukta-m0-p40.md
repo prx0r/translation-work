@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[secondary](gauṇaḥ) [in-field-or](kṣetre'thavā) [six-door-one-faced](ṣaḍdorekavaktraḥ) [praised](praśasyate)
+[gauṇaḥ](gauṇaḥ) [kṣetre](kṣetre) [athavā](athavā) [ṣaḍ+doreka+vaktraḥ](ṣaḍdorekavaktraḥ) [praśasyate](praśasyate)
 
 ## mukta-m0-p40-v977
-[in-order](yathākramaṃ) [always](sadā) [six-by-right-left-hands](ṣaḍbhirdakṣiṇottarapāṇibhiḥ)
+[yathā+kramaṃ](yathākramaṃ) [sadā](sadā) [ṣaḍbhiḥ](ṣaḍbhiḥ) [dakṣiṇa+uttara+pāṇibhiḥ](dakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-[holding-shakti](bibhrachaktiṃ) [in-hand](kare) [southern](yāmye) [cock](tāmracūḍaṃ) [and-other](tathetare)
+[bibhrat](bibhrachaktiṃ) [śaktiṃ](śaktiṃ) [kare](kare) [yāmye](yāmye) [tāmracūḍaṃ](tāmracūḍaṃ) [tathā](tathā) [itare](itare)
 
 ## mukta-m0-p40-v979
-[peacock-mounted](śikhyārūḍhastu) [sharva](śārvo'yaṃ) [all-ornament-adorned](sarvālaṅkārabhaṣitaḥ)
+[śikhyā+rūḍhaḥ](śikhyārūḍhastu) [tu](tu) [śārvaḥ](śārvo'yaṃ) [ayaṃ](ayaṃ) [sarva+alaṅkāra+bhūṣitaḥ](sarvālaṅkārabhaṣitaḥ)
 
 ## mukta-m0-p40-v980
-[stone-gold-etc-metals-or](śilāhemādilohairvā) [bull](vṛṣaṃ) [make](kuryādyathepsitam)
+[śilā+hema+ādi+lohaiḥ](śilāhemādilohairvā) [vā](vā) [vṛṣaṃ](vṛṣaṃ) [kuryāt](kuryādyathepsitam) [yathā+īpsitam](yathā+īpsitam)
 
 ## mukta-m0-p40-v981
-[common](sādhāraṇeṣu) [lingas](liṅgeṣu) [by-context-prescribed](prastāvādvihito) [bull](vṛṣaḥ)
+[sādhāraṇeṣu](sādhāraṇeṣu) [liṅgeṣu](liṅgeṣu) [prastāvāt](prastāvādvihito) [vihitaḥ](vihito) [vṛṣaḥ](vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-[linga-third-part-deprived](liṅgatryaṃśojhitaḥ) [to-be-made](kāryastaddvirāyativigrahaḥ)
+[liṅga+trayaṃśa+ujjhitaḥ](liṅgatryaṃśojhitaḥ) [kāryaḥ](kāryastaddvirāyativigrahaḥ) [tat+dvirāyati+vigrahaḥ](taddvirāyativigrahaḥ)
 
 ## mukta-m0-p40-v983
-[auspicious-opened-eye-mark](śubhonmolitadṛglakṣma) [linga-head-head](liṅgamastakamastakaḥ)
+[śubha+unmolita+dṛg+lakṣma](śubhonmolitadṛglakṣma) [liṅga+mastaka+mastakaḥ](liṅgamastakamastakaḥ)
 
 ## mukta-m0-p40-v984
-[from-length](dairghyāccaturaśotyaśāscāṅgulaṃ) [by-that-measure](tena) [planning](kalpanam)
+[dairghyāt](dairghyāccaturaśotyaśāscāṅgulaṃ) [caturaśa+ūtyaśaḥ](caturaśotyaśāscāṅgulaṃ) [cāṅgulaṃ](cāṅgulaṃ) [tena](tena) [kalpanam](kalpanam)
 
 ## mukta-m0-p40-v985
-[eight-eyed-breadth](aṣṭanetrapṛthutvaṃ) [high](syāproccaistadvaktradīrghatā)
+[aṣṭa+netra+pṛthutvaṃ](aṣṭanetrapṛthutvaṃ) [syāt](syāproccaistadvaktradīrghatā) [proccaiḥ](proccaistadvaktradīrghatā) [tat+vaktra+dīrghatā](tadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-[string-part](tantribhāgaṃ) [star](tu) [light](tārā) [fifth-part](syājjyotistatpañcamāṃśataḥ)
+[tantri+bhāgaṃ](tantribhāgaṃ) [tu](tu) [tārā](tārā) [syāt](syājjyotistatpañcamāṃśataḥ) [jyotiḥ](jyotistatpañcamāṃśataḥ) [tat+pañcama+aṃśataḥ](tatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-[nose-angula-round](nāsāṅgulapramāvṛttā) [two-eyed](dvinetraṃ) [hollow-middle](śuṣirāntaram)
+[nāsā+aṅgula+pramā+vṛttā](nāsāṅgulapramāvṛttā) [dvi+netraṃ](dvinetraṃ) [śuṣira+antaram](śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-[five-eyed](pañcanetraṃ) [breadth](tu) [upward](vistāraṃ) [increases](tadūrdhva) [tu](tu) [vivardhate)
+[pañca+netraṃ](pañcanetraṃ) [tu](tu) [vistāraṃ](vistāraṃ) [tat+ūrdhvaṃ](tadūrdhva) [tu](tu) [vivardhate](vivardhate)
 
 ## mukta-m0-p40-v989
-[four-eyed-both](caturnetrobhayoḥ) [sides](pārśve) [face-measure](vaktramānaṃ) [joined](tu) [sandhitaḥ)
+[caturnetra+ubhayoḥ](caturnetrobhayoḥ) [pārśve](pārśve) [vaktra+mānaṃ](vaktramānaṃ) [tu](tu) [sandhitaḥ](sandhitaḥ)
 
 ## mukta-m0-p40-v990
-[that-base](tanmūle) [seven-breadth](saptavistāraṃ) [ear-base-joined](karṇamūlasamanvitam)
+[tat+mūle](tanmūle) [sapta+vistāraṃ](saptavistāraṃ) [karṇa+mūla+samanvitam](karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-[half-angula](aṅgulārdhasamaṃ) [until](yāvanmūlaṃ) [five-round](pañcakavartulam)
+[aṅgula+ardha+samaṃ](aṅgulārdhasamaṃ) [yāvat](yāvanmūlaṃ) [mūlaṃ](mūlaṃ) [pañca+ka+vartulaṃ](pañcakavartulam)
 
 ## mukta-m0-p40-v992
-[from-ear-base](karṇamūlāttu) [nose-half](nāsārdhaṃ) [thread-line](sūtrahāsānnayetsamam)
+[karṇa+mūlāt](karṇamūlāttu) [tu](tu) [nāsā+ardhaṃ](nāsārdhaṃ) [sūtra+hāsāt](sūtrahāsānnayetsamam) [nayet](nayetsamam) [samam](samam)
 
 ## mukta-m0-p40-v993
-[conch-base](śaṅkhamūla) [two-eyed](dvinetraṃ) [syāt](syādyathāgre) [netra-foot](netrapādakam)
+[śaṅkha+mūla](śaṅkhamūla) [dvi+netraṃ](dvinetraṃ) [syāt](syādyathāgre) [yathā+agre](yathāgre) [netra+pādakam](netrapādakam)
 
 ## mukta-m0-p40-v994
-[side-lump](pārśvapiṇḍī) [two-eyed-half](dvinetrārdhaṃ) [six-eyed-front](ṣaḍnetrāgrāvaṭuḥ) [remembered](smṛtaḥ)
+[pārśva+piṇḍī](pārśvapiṇḍī) [dvi+netra+ardhaṃ](dvinetrārdhaṃ) [ṣaḍ+netra+agra+avaṭuḥ](ṣaḍnetrāgrāvaṭuḥ) [smṛtaḥ](smṛtaḥ)
 
 ## mukta-m0-p40-v995
-[two-eyed-height](dvinetrocchrayatordhvaṃ) [round-up](syādvṛttamūrdhvaṃ) [as](yathā) [becomes](bhavet)
+[dvi+netra+ucchraya+tūrdhvaṃ](dvinetrocchrayatordhvaṃ) [syāt](syādvṛttamūrdhvaṃ) [vṛtta+mūrdhvaṃ](vṛttamūrdhvaṃ) [yathā](yathā) [bhavet](bhavet)
 
 ## mukta-m0-p40-v996
-[joint](sandhirnetrādhikaḥ) [proclaimed](proktaścaturnetropajaṅghikā)
+[sandhiḥ](sandhirnetrādhikaḥ) [netra+adhikaḥ](netrādhikaḥ) [proktaḥ](proktaścaturnetropajaṅghikā) [caturnetra+upajaṅghikā](caturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-[ankle-half](gulphārdhaṃ) [hoof-eyed](khurikānetraṃ) [foot](pādasyātparimāṇataḥ)
+[gulpha+ardhaṃ](gulphārdhaṃ) [khurikā+netraṃ](khurikānetraṃ) [pādasya](pādasyātparimāṇataḥ) [at](at) [parimāṇataḥ](parimāṇataḥ)
 
 ## mukta-m0-p40-v998
-[fourteen-etc](caturdaśādi) [that-word](tadvaca) [three-less](trihīne) [upajanghika](copajaṅghrikā)
+[caturdaśa+ādi](caturdaśādi) [tat+vaca](tadvaca) [trihīne](trihīne) [ca](ca) [upajaṅghrikā](upajaṅghrikā)
 
 ## mukta-m0-p40-v999
-[six-eyed-within](ṣaḍnetrāntastathājñeyā) [therefore](tasmātsyātpucchasantatiḥ)
+[ṣaḍ+netra+antaḥ](ṣaḍnetrāntastathājñeyā) [tathā](tathā) [jñeyā](jñeyā) [tasmāt](tasmātsyātpucchasantatiḥ) [syāt](syāt) [puccha+santatiḥ](pucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-[three-palm](tālatrayaṃ) [very-long](pradīrghaṃ) [syāt](syāttālārdhaṃ) [hair-mass](keśasaṃhatiḥ)
+[tāla+trayaṃ](tālatrayaṃ) [pradīrghaṃ](pradīrghaṃ) [syāt](syāttālārdhaṃ) [tāla+ardhaṃ](tālārdhaṃ) [keśa+saṃhatiḥ](keśasaṃhatiḥ)

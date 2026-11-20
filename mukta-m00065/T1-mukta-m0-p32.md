@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[skull-fear-hand-fierce](kapālābhayahastogrā) [left-etc-nine-powers](vāmādyā navaśaktayaḥ)
+skull-fear-hand-fierce left-etc nine-powers
 
 ## mukta-m0-p32-v777
-[tiger-skin-snake-bearing-peaceful](dvīpicarmāhibhṛcchāntastryakṣo) [matted-lock-moon-ornamented](jaṭendubhūṣitaḥ)
+tiger-skin-snake-bearing-peaceful three-eyed matted-hair-moon-ornamented
 
 ## mukta-m0-p32-v778
-[six-limbs-endowed](aṅgaṣaṭkasamāyuktaḥ) [quickly-siddhi-giving](śīghraṃ syātsiddhidāyakaḥ)
+six-limbs-endowed quickly be accomplishment-giving
 
 ## mukta-m0-p32-v779
-[youth-youth-old-woman-child-form-five-faced-bearing](yuvayauvanavṛddhastrībālābhaḥ pañcavaktrabhṛt)
+youth-youthful-old-woman-child-like five-faced-bearing
 
 ## mukta-m0-p32-v780
-[left](vāmenā) [fear-mantra-mark](bhayamantrāṅka) [skull-lotus-full](kapālotpalapūra) [bearing](bhṛt)
+left fear-mantra-marked skull-lotus-full bearing
 
 ## mukta-m0-p32-v781
-[eye-red-sword-fire-like](dṛgraktāsihutāśābhāḥ) [all-three-eyed-matted](sarve tryakṣā jaṭānvitāḥ)
+eye-red-sword-fire-like all three-eyed matted-hair-endowed
 
 ## mukta-m0-p32-v782
-[brown-brow-beard-fierce-weapon](babhrubhrūśmaśruddā?bhīmamastraṃ) [yellow-own-weapon](pītaṃ svaśastra) [bearing](bhṛt)
+brown-brow-beard-fierce-weapon yellow own-weapon bearing
 
 ## mukta-m0-p32-v783
-[power](śakti) [thunderbolt-eye-rosary-disc](vajrākṣamālāsicakrāṇi) [right-sometimes](dakṣiṇe kvacit)
+power thunderbolt-rosary-sword-disc right sometimes
 
 ## mukta-m0-p32-v784
-[one-faced-five-faced-or](ekāsyaḥ pañcavaktro vā) [three-eyed-matted-moon-bearing-shiva](tryakṣo jaṭendubhṛcchivaḥ)
+one-faced five-faced or three-eyed matted-hair-moon-bearing-shiva
 
 ## mukta-m0-p32-v785
-[corner-and-one](koṇeṣu caika) [rudra-etc-white-black-red](rudrādyāḥ sitāsaṅnīlalohitāḥ)
+corners and one rudra-etc white-black-blue-red
 
 ## mukta-m0-p32-v786
-[shiva-weapon-bearing-three-eyed](śivāyudhadharāstryakṣāḥ) [hook-sword-without-sometimes](sṛṇyasibhyāṃ vinā kvacit)
+shiva-weapon-bearing three-eyed sickle-sword without sometimes
 
 ## mukta-m0-p32-v787
-[folded-hands-all](puṭāñjalikarāḥ sarve) [vidyesha-one-faced](vidyeśāścaikavaktrakāḥ)
+cupped-palm-hands all vidyesha-and-one-faced
 
 ## mukta-m0-p32-v788
-[boon-fear-skull-lotus-matted-moon-jina-snake-bearing](varābhayakapālābjajaṭendvajinanāgabhṛt)
+boon-fear-skull-lotus-matted-hair-moon-jina-snake-bearing
 
 ## mukta-m0-p32-v789
-[right-trident-sword-axe-fear-bearing](dakṣiṇe śūlanistriśakuṭhārābhayadhārakaḥ)
+right trident-sword-axe-fear-bearing
 
 ## mukta-m0-p32-v790
-[garland-skull](muṇḍamālī) [corpse-mounted](śavārūḍho) [dual-non-dual-order-opinion](dvaitādvaite kramānmataḥ)
+skull-garlanded corpse-mounted dual-to-nondual order-opinion
 
 ## mukta-m0-p32-v791
-[gentle-smiling-face](saumyaṃ prahasitāsyaṃ ca) [moon-crest-matted](candramauliṃ jaṭādharam)
+gentle smiling-face and moon-crest matted-hair-bearing
 
 ## mukta-m0-p32-v792
-[snake-girdle-endowed](nāgendramekhalāyuktaṃ) [all-ornament-ornamented](sarvābharaṇabhūṣitam)
+snake-lord-girdle-endowed all-ornament-adorned
 
 ## mukta-m0-p32-v793
-[dancing-great-delighted-weapon-filled](nṛtyantaṃ mahāhṛṣṭamāyudhākula) [hand](pāṇinam)
+dancing great-joyed weapon-crowded handed
 
 ## mukta-m0-p32-v794
-[strength-arm-form](balanākārakaṃ) [arm-one-making-heart-placed](bāhumekaṃ kṛtvā hṛdi sthitam)
+strength-making arm one making heart situated
 
 ## mukta-m0-p32-v795
-[left-extended-arm-properly-made-beautiful](vāme pratānitabhujaṃ samyak kṛtvā suśobhanam)
+left extended-arm properly making beautiful
 
 ## mukta-m0-p32-v796
-[all-peace-making-thus-gentle-form](sarvaśāntikaraṃ kuryādityevaṃ saumyarūpakam)
+all-peace-making should-do thus gentle-form
 
 ## mukta-m0-p32-v797
-[skanda-nandi-mahakala-ganesha-gana-accompanied](skandanandimahākālagaṇeśagaṇasaṃyutam)
+skanda-nandi-mahakala-ganesha-gana-endowed
 
 ## mukta-m0-p32-v798
-[with-joy-form-endowed-seen-great-lord](sānandai rūpasampannairvīkṣyamāṇaṃ maheśvaram)
+with-joy form-endowed being-viewed great-lord
 
 ## mukta-m0-p32-v799
-[that-front-and-dancing-bhringi-work-thin-very](tadagre ca pranṛtyaṃśca bhṛṅgīkāryaṃ kṛśo bhṛśaḥ)
+that-front and dancing bhiringi-work thin very
 
 ## mukta-m0-p32-v800
-[distorted-sharp-nose-etc-thief-fire-etc-giving-order](vikṛtāstīkṣṇanāsāścacaurāgnyādipradāḥ) [order](kramāt)
+distorted sharp-nosed and thief-fire-etc givers order
