@@ -15,8 +15,8 @@
 "quick_gloss": "all"
 },
 {
-"surface": "kṛti+tvasya",
-"quick_gloss": "agency+of"
+"surface": "kṛtitvasya",
+"quick_gloss": "of-action"
 },
 {
 "surface": "ghaṭanaṃ",
@@ -44,20 +44,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tritvan+tu",
-"quick_gloss": "threefold-ness+but"
+"surface": "tritvantu",
+"quick_gloss": "threefold"
 },
 {
-"surface": "vyavahārasyāpy",
-"quick_gloss": "of-usage+also"
+"surface": "vyavahārasya",
+"quick_gloss": "of-practice"
 },
 {
-"surface": "apekṣaivātra",
-"quick_gloss": "dependence+indeed+here"
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "apekṣā",
+"quick_gloss": "expectation"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "sammatam",
-"quick_gloss": "accepted"
+"quick_gloss": "agreed"
 }
 ]
 },
@@ -73,20 +81,24 @@
 "quick_gloss": "ninth"
 },
 {
-"surface": "śiva+tatvaṃ",
-"quick_gloss": "śiva+principle"
+"surface": "śivatatvaṃ",
+"quick_gloss": "śiva-principle"
 },
 {
 "surface": "tu",
 "quick_gloss": "but"
 },
 {
-"surface": "śabda+bhāvyam",
-"quick_gloss": "word+to-be-revealed"
+"surface": "śabdabhāvyam",
+"quick_gloss": "sound-qualified"
 },
 {
-"surface": "ihā+dhunā",
-"quick_gloss": "here+now"
+"surface": "iha",
+"quick_gloss": "here"
+},
+{
+"surface": "adhunā",
+"quick_gloss": "now"
 }
 ]
 },
@@ -98,20 +110,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śabda+bhāsyatvam",
-"quick_gloss": "word+expressibility"
+"surface": "śabdabhāsyatvam",
+"quick_gloss": "sound-qualified-ness"
 },
 {
 "surface": "ujhitvā",
-"quick_gloss": "having-abandoned"
+"quick_gloss": "abandoning"
 },
 {
-"surface": "svā+dhyakṣeṇa",
-"quick_gloss": "own+perception+by"
+"surface": "svādhyakṣeṇa",
+"quick_gloss": "by-self-witness"
 },
 {
-"surface": "sa+bhāsate",
-"quick_gloss": "shines-forth"
+"surface": "sabhāsate",
+"quick_gloss": "shines"
 }
 ]
 },
@@ -123,12 +135,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svā+śrayo",
-"quick_gloss": "self+supported"
+"surface": "svāśrayo",
+"quick_gloss": "self-support"
 },
 {
-"surface": "marud+ekasya",
-"quick_gloss": "of-wind+of-one"
+"surface": "marudekasya",
+"quick_gloss": "of-wind-one"
 },
 {
 "surface": "udāsīnaṃ",
@@ -152,12 +164,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śivas+tu",
-"quick_gloss": "śiva+but"
+"surface": "śivastu",
+"quick_gloss": "śiva"
 },
 {
-"surface": "sarvā+śrayaḥ",
-"quick_gloss": "all+supported"
+"surface": "sarvāśrayaḥ",
+"quick_gloss": "all-support"
 },
 {
 "surface": "syāt",
@@ -168,12 +180,8 @@
 "quick_gloss": "there"
 },
 {
-"surface": "samyag",
-"quick_gloss": "properly"
-},
-{
-"surface": "vivicyate",
-"quick_gloss": "is-examined"
+"surface": "samyagvivicyate",
+"quick_gloss": "well-distinguished"
 }
 ]
 },
@@ -186,19 +194,15 @@
 "tokens": [
 {
 "surface": "mahyāṃ",
-"quick_gloss": "in-earth"
+"quick_gloss": "to-me"
 },
 {
-"surface": "siddhā+di+rūpeṇa",
-"quick_gloss": "siddha+etc+in-form"
+"surface": "siddhādirūpeṇa",
+"quick_gloss": "as-siddhi-beginning-form"
 },
 {
-"surface": "vāyau",
-"quick_gloss": "in-wind"
-},
-{
-"surface": "megha+hima+ātmatā",
-"quick_gloss": "cloud+snow+nature"
+"surface": "vāyaumeghahimātmatā",
+"quick_gloss": "wind-cloud-snow-nature"
 }
 ]
 },
@@ -210,24 +214,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śabde",
-"quick_gloss": "in-sound"
-},
-{
-"surface": "maṃghī+jala+marut",
-"quick_gloss": "water+water+wind"
+"surface": "śabdemaṃghījalamarut",
+"quick_gloss": "sound-etc-water-air"
 },
 {
 "surface": "saṃśrayaḥ",
-"quick_gloss": "substratum"
+"quick_gloss": "refuge"
 },
 {
 "surface": "kathitaḥ",
-"quick_gloss": "declared"
+"quick_gloss": "told"
 },
 {
 "surface": "priye",
-"quick_gloss": "o-beloved"
+"quick_gloss": "dear"
 }
 ]
 },
@@ -239,20 +239,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃghātaś+ca",
-"quick_gloss": "aggregate+and"
+"surface": "saṃghātaśca",
+"quick_gloss": "aggregate"
 },
 {
-"surface": "pṛthivyā+deḥ",
-"quick_gloss": "of-earth+etc"
+"surface": "pṛthivyādeḥ",
+"quick_gloss": "of-earth-etc"
 },
 {
-"surface": "śarīra+tvena",
-"quick_gloss": "by-body+state"
+"surface": "śarīratvena",
+"quick_gloss": "as-body"
 },
 {
 "surface": "kīrtyate",
-"quick_gloss": "is-called"
+"quick_gloss": "praised"
 }
 ]
 },
@@ -265,7 +265,7 @@
 "tokens": [
 {
 "surface": "prāṇena",
-"quick_gloss": "by-breath"
+"quick_gloss": "by-life"
 },
 {
 "surface": "ceṣṭamānaṃ",
@@ -273,19 +273,19 @@
 },
 {
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "that"
 },
 {
 "surface": "tat",
 "quick_gloss": "that"
 },
 {
-"surface": "sa+citkam",
-"quick_gloss": "with-consciousness"
+"surface": "sacit",
+"quick_gloss": "conscious"
 },
 {
-"surface": "ihocyate",
-"quick_gloss": "here+is-said"
+"surface": "kamihocyate",
+"quick_gloss": "here-called"
 }
 ]
 },
@@ -297,20 +297,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "manaḥ+saṃsrayaṇaṃ",
-"quick_gloss": "mind+dependent"
+"surface": "manaḥsaṃsrayaṇaṃ",
+"quick_gloss": "mind-refuge"
 },
 {
 "surface": "prāṇi",
-"quick_gloss": "breathing"
+"quick_gloss": "living"
 },
 {
-"surface": "sa+cit",
-"quick_gloss": "with-consciousness"
+"surface": "sacit",
+"quick_gloss": "conscious"
 },
 {
-"surface": "ka+vapuṣi+smṛtam",
-"quick_gloss": "body+remembered"
+"surface": "kavapuṣismṛtam",
+"quick_gloss": "body-remembered"
 }
 ]
 },
@@ -322,20 +322,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarveṣām",
-"quick_gloss": "of-all"
-},
-{
-"surface": "iha+tatvānāṃ",
-"quick_gloss": "here+of-principles"
+"surface": "sarveṣāmihatatvānāṃ",
+"quick_gloss": "of-all-here-principles"
 },
 {
 "surface": "vikṛtir",
 "quick_gloss": "modification"
 },
 {
-"surface": "guṇa+bheda+jā",
-"quick_gloss": "quality+difference+born"
+"surface": "guṇabhedajā",
+"quick_gloss": "from-quality-difference"
 }
 ]
 },
@@ -347,8 +343,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saṃghāta+jāś+ca",
-"quick_gloss": "aggregate+born+and"
+"surface": "saṃghātajāśca",
+"quick_gloss": "aggregate-born"
 },
 {
 "surface": "saṃghātā",
@@ -359,8 +355,8 @@
 "quick_gloss": "many"
 },
 {
-"surface": "na+eka+rūpiṇaḥ",
-"quick_gloss": "not+one+formed"
+"surface": "naikarūpiṇaḥ",
+"quick_gloss": "not-one-form"
 }
 ]
 },
@@ -376,16 +372,20 @@
 "quick_gloss": "by-much"
 },
 {
-"surface": "kim+ihoktena",
-"quick_gloss": "what+here+by-said"
+"surface": "kimihoktena",
+"quick_gloss": "what-here-said"
 },
 {
-"surface": "kin",
-"quick_gloss": "what"
+"surface": "kintatvair",
+"quick_gloss": "with-what-principles"
 },
 {
-"surface": "tatvair+aparair+jaḍaiḥ",
-"quick_gloss": "by-principles+other+inert"
+"surface": "aparaiḥ",
+"quick_gloss": "other"
+},
+{
+"surface": "jaḍaiḥ",
+"quick_gloss": "inert"
 }
 ]
 },
@@ -397,20 +397,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "acchedyo+’yam",
-"quick_gloss": "uncuttable+this"
+"surface": "acchedyo",
+"quick_gloss": "un-cuttable"
 },
 {
-"surface": "adāho+ya",
-"quick_gloss": "unburnable+this"
+"surface": "yam",
+"quick_gloss": "this"
 },
 {
-"surface": "ma+kledyo",
-"quick_gloss": "unwettable"
+"surface": "adāhyo",
+"quick_gloss": "un-burnable"
 },
 {
-"surface": "’śoṣya",
-"quick_gloss": "undryable"
+"surface": "akledyo",
+"quick_gloss": "un-wettable"
+},
+{
+"surface": "śoṣya",
+"quick_gloss": "driable"
 },
 {
 "surface": "eva",
@@ -430,16 +434,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarva+viśvasya",
-"quick_gloss": "of-all+universe"
+"surface": "sarvaviśvasya",
+"quick_gloss": "of-all-universe"
 },
 {
 "surface": "janakaḥ",
-"quick_gloss": "creator"
+"quick_gloss": "father"
 },
 {
-"surface": "sarva+viśvasya",
-"quick_gloss": "of-all+universe"
+"surface": "sarvaviśvasya",
+"quick_gloss": "of-all-universe"
 },
 {
 "surface": "pālakaḥ",
@@ -456,15 +460,15 @@
 "tokens": [
 {
 "surface": "sa",
-"quick_gloss": "that"
+"quick_gloss": "he"
 },
 {
-"surface": "giri+dvīpa+jaladhi+kānanā",
-"quick_gloss": "mountain+island+ocean+forest"
+"surface": "giridvīpajaladhikānanā",
+"quick_gloss": "mountain-island-ocean-forest"
 },
 {
-"surface": "sakalā+mahī",
-"quick_gloss": "entire+earth"
+"surface": "sakalāmahī",
+"quick_gloss": "all-earth"
 }
 ]
 },
@@ -480,16 +484,16 @@
 "quick_gloss": "these"
 },
 {
-"surface": "dṛśyas+tva",
-"quick_gloss": "visible+but"
+"surface": "dṛśyastva",
+"quick_gloss": "visible"
 },
 {
 "surface": "saṃkhyātā",
-"quick_gloss": "enumerated"
+"quick_gloss": "counted"
 },
 {
-"surface": "vasudhā+vāsa+vārcite",
-"quick_gloss": "o-earth+dweller+worshipped"
+"surface": "vasudhāvāsavārcite",
+"quick_gloss": "earth-dwelling-worshipped"
 }
 ]
 },
@@ -501,8 +505,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jyotiś+cakraṃ",
-"quick_gloss": "light+circle"
+"surface": "jyotiścakraṃ",
+"quick_gloss": "light-wheel"
 },
 {
 "surface": "samastaṃ",
@@ -518,11 +522,11 @@
 },
 {
 "surface": "naiva",
-"quick_gloss": "not+indeed"
+"quick_gloss": "not-indeed"
 },
 {
 "surface": "pracālyate",
-"quick_gloss": "is-moved"
+"quick_gloss": "moved"
 }
 ]
 },
@@ -555,7 +559,7 @@
 },
 {
 "surface": "sthimitaḥ",
-"quick_gloss": "motionless"
+"quick_gloss": "still"
 },
 {
 "surface": "kvacit",
@@ -576,19 +580,23 @@
 },
 {
 "surface": "pravahati",
-"quick_gloss": "blows"
+"quick_gloss": "flows"
 },
 {
 "surface": "kṣipraṃ",
-"quick_gloss": "swiftly"
+"quick_gloss": "quickly"
 },
 {
-"surface": "sa+śabdena",
+"surface": "saśabdena",
 "quick_gloss": "with-sound"
 },
 {
-"surface": "tato+dyate",
-"quick_gloss": "then+arises"
+"surface": "tat",
+"quick_gloss": "then"
+},
+{
+"surface": "udyate",
+"quick_gloss": "rises"
 }
 ]
 },
@@ -613,11 +621,11 @@
 },
 {
 "surface": "kathitam",
-"quick_gloss": "declared"
+"quick_gloss": "told"
 },
 {
-"surface": "asya+ivā+nyā",
-"quick_gloss": "of-this+indeed+other"
+"surface": "asyaivānyā",
+"quick_gloss": "of-him-other"
 },
 {
 "surface": "vibhūtayaḥ",
@@ -637,12 +645,12 @@
 "quick_gloss": "that"
 },
 {
-"surface": "tac+chāstra",
-"quick_gloss": "that+scripture"
+"surface": "tacchāstra",
+"quick_gloss": "that-scripture"
 },
 {
 "surface": "sthitiḥ",
-"quick_gloss": "condition"
+"quick_gloss": "position"
 },
 {
 "surface": "sarvā",
@@ -653,8 +661,8 @@
 "quick_gloss": "told"
 },
 {
-"surface": "giri+naṃdini",
-"quick_gloss": "o-mountain+daughter"
+"surface": "girinaṃdini",
+"quick_gloss": "mountain-daughter"
 }
 ]
 },
@@ -679,15 +687,15 @@
 },
 {
 "surface": "kiṃcit",
-"quick_gloss": "anything"
+"quick_gloss": "something"
 },
 {
 "surface": "praṣṭavyaṃ",
 "quick_gloss": "to-be-asked"
 },
 {
-"surface": "spṛṣṭam+āśaye",
-"quick_gloss": "touched+in-heart"
+"surface": "spṛṣṭamāśaye",
+"quick_gloss": "touched-in-mind"
 }
 ]
 },
@@ -699,16 +707,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "an+eka",
-"quick_gloss": "by-many"
+"surface": "aneka",
+"quick_gloss": "many"
 },
 {
-"surface": "jantu+jālena",
-"quick_gloss": "creature+multitude"
+"surface": "jantujālena",
+"quick_gloss": "creature-net"
 },
 {
 "surface": "nibiḍasya",
-"quick_gloss": "of-dense"
+"quick_gloss": "dense"
 },
 {
 "surface": "nirantaram",
