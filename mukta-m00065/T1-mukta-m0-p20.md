@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[thus](iti) [eighteen](aṣṭādaśa) [images](bimbāni) [declared](kathitāny) [here](atra) [by-number](saṃkhyayā)
+[thus](itya) [eighteen](aṣṭādaśa) [images](bimbāni) [told](kathitāni) [here](atra) [by-number](saṃkhyayā)
 
 ## mukta-m0-p20-v477
-[may-be](bhaveyuḥ) [worms](kṛmayo) [in-the-womb](garbhe) [destruction](nāśo) [of-body+and-wealth](deha+arthayos) [from-that](tataḥ)
+[become](bhaveyuḥ) [worms](kṛmayo) [in-womb](garbhe) [destruction](nāśo) [of-body-and-purpose](dehārthayoḥ) [then](tataḥ)
 
 ## mukta-m0-p20-v478
-[by-that](tena) [king](rājā) [and](ca) [minister](mantrī) [and](ca) [maker](kārako) [dies](mriyate) [in-sequence](kramāt)
+[therefore](tena) [king](rājā) [and](ca) [minister](mantrī) [and](ca) [maker](kārako) [dies](mriyate) [in-order](kramāt)
 
 ## mukta-m0-p20-v479
-[in-red+mark](rakta+citre) [and](ca) [horned-figure](śṛṅgī) [may-be](syāt) [by-that](tayā) [sorrow+and-fear](śoka+bhayaṃ) [repeatedly](muhuḥ)
+[red-pictured](raktacitre) [and](ca) [horned](śṛṅgī) [is](syāt) [by-that](tayā) [grief-fear](śokabhayaṃ) [often](muhuḥ)
 
 ## mukta-m0-p20-v480
-[in-black+mark](kṛṣṇa+citre) [and](ca) [loss-of-cattle](go+nāśaḥ) [that](so') [many+disease+causing](aneka+vyādhi+kāraka)
+[black-pictured](kṛṣṇacitre) [and](ca) [cow-loss](gonāśaḥ) [he](saḥ) [many-disease-causing](anekavyādhikāraka)
 
 ## mukta-m0-p20-v481
-[seven](sapta) [these](etāni) [indeed](tu) [marks](citrāṇi) [to-be-known](jñeyāni) [by-external+signs](bāhya+lakṣaṇaiḥ)
+[seven](sapta) [these](etāni) [indeed](tu) [pictures](citrāṇi) [to-be-known](jñeyāni) [by-external-marks](bāhyalakṣaṇaiḥ)
 
 ## mukta-m0-p20-v482
-[by-four+defect+distinction](catur+vikāra+bhedena) [flaw](garbhaṃ) [one-should-know](vidyāt) [from-coating](pralepataḥ)
+[by-four](catur) [modification](vikāra) [difference](bhedena) [womb](garbhaṃ) [know](vidyāt) [by-smearing](pralepataḥ)
 
 ## mukta-m0-p20-v483
-[saurāṣṭrī-earth](saurāṣṭrī) [mixed-with+orpiment](tāla+saṃyuktaṃ) [with-sauvīra-salt](sauvīreṇa) [and](ca) [one-should-grind](peṣayet)
+[saurāṣṭrī](saurāṣṭrī) [with-palm](tālasaṃyuktaṃ) [with-sauvīra](sauvīreṇa) [and](ca) [grind](peṣayet)
 
 ## mukta-m0-p20-v484
-[bhṛṅgāhī-fish](bhṛṅgāhī) [black+fish](kṛṣṇa+matsyaṃ) [or](vā) [having-known](jñātvā) [those](tā) [fault-giving](doṣadās) [one-should-reject](tyajet)
+[bhṛṅgāhī](bhṛṅgāhī) [black-fish](kṛṣṇamatsyaṃ) [or](vā) [knowing](jñātvā) [those](tāḥ) [fault-giving](doṣadāḥ) [abandon](tyajet)
 
 ## mukta-m0-p20-v485
-[having-ground](piṣṭvā) [thus](evaṃ) [equal+part](sama+bhāgaṃ) [but](tu) [woman's](nārī) [with-milk](kṣīreṇa) [one-should-smear](lepayet)
+[ground-thus](piṣṭavaivaṃ) [equal-part](samabhāgaṃ) [indeed](tu) [woman](nārī) [with-milk](kṣīreṇa) [smear](lepayet)
 
 ## mukta-m0-p20-v486
-[by-that](tena) [of-the-maker](kartur) [may-be](bhaven) [death](mṛtyus) [therefore](tasmāt) [that](tāṃ) [in-water](salile) [one-should-throw](kṣipet)
+[by-that](tena) [of-maker](kartuḥ) [becomes](bhavet) [death](mṛtyuḥ) [therefore](tasmāt) [her](tāṃ) [in-water](salile) [throw](kṣipet)
 
 ## mukta-m0-p20-v487
-[kept-for-day+and-night](aho+rātroṣite) [red](raktaṃ) [to-be-rejected](tyājyam) [with-wave](ūrmā+anvitaṃ) [and](ca) [which](yat)
+[day-night](ahorātroṣite) [blood](raktaṃ) [to-be-abandoned](tyājyam) [with-turtle](ūrmānvitaṃ) [and](ca) [which](yat)
 
 ## mukta-m0-p20-v488
-[sharp](tīkṣṇaṃ) [with-rudrajaṭā](rudra+jaṭā+yuktam) [with-sheep's+milk](avi+kṣīraiḥ) [having-ground-well](prapeṣya) [and](ca)
+[sharp](tīkṣṇaṃ) [with-rudrajaṭā](rudrajaṭāyuktam) [with-sheep-milk](avikṣīraiḥ) [grind](prapeṣya) [and](ca)
 
 ## mukta-m0-p20-v489
-[of-the-two](dvayor) [double-form](dvi+rūpakaṃ) [in-the-womb](garbhe) [having-known](jñātvā) [previously+fault-giving](prāg+doṣadāṃs) [one-should-reject](tyajet)
+[of-two](dvayoḥ) [double-formed](dvirūpakaṃ) [in-womb](garbhe) [knowing](jñātvā) [before](prāg) [fault-giving](doṣadān) [abandon](tyajet)
 
 ## mukta-m0-p20-v490
-[of-the-maker](kartus) [his+family+heart](tat+kula+hṛn) [certainly](nūnaṃ) [of-the-preceptor](guror) [it-would-give](dadyāt) [consumption+disease](kṣaya+āmayam)
+[of-maker](kartuḥ) [that](tat) [family-destroying](kulahṛt) [certainly](nūnaṃ) [to-teacher](guroḥ) [give](dadyāt) [wasting-disease](kṣayāmayam)
 
 ## mukta-m0-p20-v491
-[from-chisel+stroke](ṭaṅka+āghātād) [cleft+shaped](bhidā+kārī) [joint](sandhiḥ) [maker+destroying](kartṛ+vināśakaḥ)
+[by-hammer-blow](ṭaṅkāghātāt) [splitting](bhidākārī) [joint](sandhiḥ) [maker-destroying](kartṛvināśakaḥ)
 
 ## mukta-m0-p20-v492
-[blister](sphoṭaṃ) [burst-crack](sphuṭitakaṃ) [one-should-know](vidyāc) [weapon+blow+death+giving](śastra+ghāta+anta+dāyakam)
+[bubble](sphoṭaṃ) [cracked](sphuṭitakaṃ) [know](vidyāt) [weapon-blow](śastraghātāt) [end-giving](antadāyakam)
 
 ## mukta-m0-p20-v493
-[sky+shaped](vyoma+ākāro) [may-be](bhaved) [cavity](vyoma) [that](so') [not-long-after](acirāt) [maker+destroying](kartṛ+nāśakaḥ)
+[sky-shaped](vyomākāro) [becomes](bhaved) [sky](vyomaḥ) [he](saḥ) [soon](acirāt) [maker-destroying](kartṛnāśakaḥ)
 
 ## mukta-m0-p20-v494
-[by-that](tayā) [maker's+progeny+destruction](kartṛ+prajā+nāśaḥ) [quickly](śīghram) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
+[by-that](tayā) [maker-offspring-destruction](kartṛprajānāśaḥ) [quickly](śīghrameva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p20-v495
-[by-that](tena) [one-should-not-make](kuryān) [not](na) [liṅgas](liṅgāni) [if-made](kṛte) [and](ca) [both](dvau) [perish](vinaśyataḥ)
+[therefore](tena) [make](kuryāt) [not](na) [marks](liṅgāni) [done](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
 
 ## mukta-m0-p20-v496
-[yellow](pītaṃ) [white](sitaṃ) [likewise](tathā) [black](kṛṣṇaṃ) [red](raktaṃ) [blue](nīlaṃ) [and](ca) [mixed](miśrakam)
+[yellow](pītaṃ) [white](sitaṃ) [and](tathā) [black](kṛṣṇaṃ) [red](raktaṃ) [blue](nīlaṃ) [and](ca) [mixed](miśrakam)
 
 ## mukta-m0-p20-v497
-[ninety+and-a-half](navati+ardhaṃ) [great+faults](mahā+doṣā) [by-difference+distinguished](bheda+bhinno) [thus](iti) [remembered](smṛtāḥ)
+[nine-and-half](navatyardhaṃ) [great-faults](mahādoṣāḥ) [difference](bhedabhinnaḥ) [thus](iti) [remembered](smṛtāḥ)
 
 ## mukta-m0-p20-v498
-[situated-in-brahmā+upendra+sections](brahmā+upendra+vibhāga+sthāṃs) [threefold](tridhā) [in-liṅgas](liṅgeṣv) [not-fault-giving](adoṣadān)
+[brahma-upendra-division](brahmopendravibhāgasthān) [threefold](tridhā) [in-marks](liṅgeṣu) [fault-giving](doṣadān)
 
 ## mukta-m0-p20-v499
-[vein](śirā) [with-knots+and-frost](granthi+tuṣāraiś) [and](ca) [spotless](vimalaṃ) [with-dadru-spots](dadu) [with-dots](bindubhiḥ)
+[vein](śirā) [with-knots](granthi) [with-drops](tuṣāraiḥ) [and](ca) [pure](vimalaṃ) [give](dadu) [with-dots](bindubhiḥ)
 
 ## mukta-m0-p20-v500
-[marked-with-cat+horse+camel+jackal+crow+feet](viḍāla+aśva+uṣṭra+gomāyu+kāka+pāda+aṅkitāṃs) [one-should-reject](tyajet)
+[cat](viḍāla) [horse](aśva) [camel](uṣṭra) [jackal](gomāyu) [crow](kāka) [foot-marked](pādāṅkitān) [abandon](tyajet)
