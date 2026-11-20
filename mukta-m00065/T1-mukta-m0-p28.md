@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[new-boundary-end-genitive](navāvadhikarāntasya) [zero-fault-nom](śūnyadoṣo) [not](na) [of-anyone](kasyacit)
+new-limit-maker-end-gen zero-fault not anyone-gen
 
 ## mukta-m0-p28-v677
-[threefold](tridhā) [by-measure](mānena) [and-one](caikena) [sixteen-cornered](ṣoḍaśāsraṃ) [two-hundred](śatadvayam)
+threefold measure-instr one-instr sixteen-corner two-hundred
 
 ## mukta-m0-p28-v678
-[four-eight-six-cornered](caturaṣṭaṣaḍasraṃ) [but](tu) [Indra-marked](indrāṅkaṃ) [diamond-shaped](vajrarūpakam)
+four-eight-six-corner indra-marked vajra-form
 
 ## mukta-m0-p28-v679
-[from-dot-contact-union](bindusaṃpātsaṃyogāt) [with-transverse-threads](tiryaksūtrair) [should-rotate](vivartayet)
+bindu-arrival-union oblique-threads turn
 
 ## mukta-m0-p28-v680
-[above-vasu-corner](vasvasrordhvaṃ) [but](tu) [seven-cornered](saptāsraṃ) [power-fire](śaktyāgneya) [and](ca) [burning-maker](dāhakṛt)
+vasu-corner-above seven-corner shakti-fire burning
 
 ## mukta-m0-p28-v681
-[navel-half](nāhārdhaṃ) [ninefold](navadhā) [having-made](kṛtvā) [with-arrows](śarair) [heart-back-edges](hṛtpṛṣṭhakoṭibhiḥ)
+navel-half ninefold made arrows-heart-back-corners
 
 ## mukta-m0-p28-v682
-[thus](evaṃ) [and-eight-cornered-encircled](cāṣṭāsravṛtaṃ) [should-be](syāt) [south-staff](yāmyadaṇḍaṃ) [disease-giving](rujapradam)
+thus eight-corner-encircled yama-staff disease-giving
 
 ## mukta-m0-p28-v683
-[eight-corner-half](aṣṭāsro'rdha) [ten-cornered](daśāstraṃ) [should-be](syāt) [sword-like](khaḍgābhaṃ) [demon](rākṣasaṃ) [fear](bhayam)
+eight-corner-half ten-corner sword-like rakshasa-fear
 
 ## mukta-m0-p28-v684
-[four-eight-cornered-round](caturaṣṭāsravṛttaṃ) [should-be](syāt) [like-noose](pāśavat) [Varuna](vāruṇaṃ) [auspicious](śubham)
+four-eight-corner-encircled noose-like varuna auspicious
 
 ## mukta-m0-p28-v685
-[thin](kṛśaṃ) [front-form](prāgrūpakaṃ) [long](dīrghaṃ) [moving](calam) [uprooting-flag](uccāṭakṛddhvajam)
+thin front-form long moving uprooting-banner
 
 ## mukta-m0-p28-v686
-[yaksha](yākṣaṃ) [mace-tip-head](gadāgramūrdhānaṃ) [strength-increasing](balavṛddhikaraṃ) [auspicious](śivam)
+yaksha mace-tip-head strength-increase auspicious shiva
 
 ## mukta-m0-p28-v687
-[four-five-cornered](catuḥpañcāsrakaṃ) [three-cornered](tryasraṃ) [trident](śūlaṃ) [fierce](raudraṃ) [but](tu) [liberation-giving](muktidam)
+four-five-corner three-corner trident fierce liberation-giving
 
 ## mukta-m0-p28-v688
-[eight-corner-half](aṣṭāsro'rdhaṃ) [and](ca) [Veda-cornered](vedāsraṃ) [Brahma](brāhmaṃ) [for-heaven](svargāya) [lotus-like](padmavat)
+eight-corner-half four-corner brahma heaven lotus-like
 
 ## mukta-m0-p28-v689
-[four-eight-cornered-round](caturaṣṭāsravṛttaṃ) [should-be](syāt) [Vishnu](vaiṣṇavaṃ) [like-conch](śaṅkhavat) [auspicious](śubham)
+four-eight-corner-encircled vaishnava conch-like auspicious
 
 ## mukta-m0-p28-v690
-[from-Rudra](rudrāt) [three-less](trihānitaḥ) [pearl](śuktir) [staff](daṇḍo) [from-directions](digbhyaḥ) [three-less](trihānitaḥ)
+rudra-three-less shell staff directions-three-less
 
 ## mukta-m0-p28-v691
-[cock-egg](kukkuṭāṇḍaṃ) [and](ca) [in-northwest](vāyavye) [from-element-part](bhūtāṃśāt) [indeed](hi) [is-established](yate) [mace](gadā)
+cock-egg air-corner beings-parts mace
 
 ## mukta-m0-p28-v692
-[right-egg-born](dakṣāṇḍabhaja) [of-Vishnu](vaiṣṇoḥ) [and](ca) [thus](ittha) [line](rekhā) [of-gem-too](maṇerapi)
+right-egg-portion vaishnava thus line jewel-gen
 
 ## mukta-m0-p28-v693
-[cracked](sphuṭitaṃ) [like-embryo](garbhavat) [bitten](daṣṭaṃ) [should-place](sthāpayet) [in-consecration](ābhivārike)
+split embryo-like seen place worshipper
 
 ## mukta-m0-p28-v694
-[manifest-phalli](vyaktaliṅgāni) [and](ca) [others](anyāni) [various](nānā) [forms](rūpāṇi) [I-speak-from](vacmyataḥ)
+manifest-signs other various forms speak
 
 ## mukta-m0-p28-v695
-[thus](iti) [in-characteristics-compendium](lakṣaṇasamuccaye) [unmanifest-phallus-characteristics](avyaktaliṅgalakṣaṇaṃ) [named](nāma) [fourth](caturtho) [rite](vidhiḥ)
+thus characteristics-collection unmanifest-sign-characteristics fourth rite
 
 ## mukta-m0-p28-v696
-[by-previous-finger-measure](pūrvāṅgulapramāṇena) [from-ten-five-finger-fingers](daśapañcāṅgulāṅgulāt)
+previous-finger-measure ten-five-finger-finger
 
 ## mukta-m0-p28-v697
-[sometimes](kvacid) [hand-measure](hastapramāṇā) [that](sā) [sometimes](kvacid) [and](ca) [thirty-fingers](triṃśadaṅgulā)
+sometimes hand-measure sometimes thirty-finger
 
 ## mukta-m0-p28-v698
-[door-height](dvārocchrayaṃ) [dividing](vibhajya) [first](ādau) [eight-part](aṣṭadhaukaṃ) [having-made](vidhāya) [and](ca)
+door-height divide first eightfold make
 
 ## mukta-m0-p28-v699
-[should-be-made](vidhātavyā) [by-two-parts](dvibhāgena) [small](kanyasī) [image](pratimā) [and](ca) [that](sā)
+divide two-parts younger image
 
 ## mukta-m0-p28-v700
-[middle](madhyamā) [should-be](syāt) [by-two-parts](dvibhāgena) [by-one-part-work](kāryaikāṃśena) [pedestal](pīṭhikā)
+middle two-parts one-part pedestal
