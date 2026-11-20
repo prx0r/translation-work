@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p24-v576
-śrī-cakra+e api pive[t] madyaṃ śakti-yuktaṃ maheśvari
+[śrīcakre](śrīcakre) [api](api) [piven](piven) [madyaṃ](madyaṃ) [śaktiyuktaṃ](śaktiyuktaṃ) [maheśvari](maheśvari)
 
 ## mukta-m0-p24-v577
-ca uttamaṃ madhyamaṃ jñeyaṃ ca adhamaṃ ca adhama-adhamam
+[ca](ca) [uttamaṃ](uttamaṃ) [madhyamaṃ](madhyamaṃ) [jñeyaṃ](jñeyaṃ) [ca](ca) [adhamaṃ](adhamaṃ) [ca](ca) [adhamādhamam](adhamādhamam)
 
 ## mukta-m0-p24-v578
-cakra-umam idaṃ jñeyaṃ sā kālī sa ca śaṅkaraḥ
+[cakram](cakram) [idaṃ](idaṃ) [jñeyaṃ](jñeyaṃ) [sā](sā) [kālī](kālī) [sa](sa) [ca](ca) [śaṅkaraḥ](śaṅkaraḥ)
 
 ## mukta-m0-p24-v579
-ekaṃ śaktiṃ samānīya eka-ekaḥ sādhakaḥ sadā
+[ekāṃ](ekāṃ) [śaktiṃ](śaktiṃ) [samānīya](samānīya) [ekaikaḥ](ekaikaḥ) [sādhakaḥ](sādhakaḥ) [sadā](sadā)
 
 ## mukta-m0-p24-v580
-bhairavī
+[bhairavī](bhairavī)
 
 ## mukta-m0-p24-v581
-adhamaṃ cakra-vijñeyaṃ sā sādhyā sa ca sādhakaḥ
+[adhamaṃ](adhamaṃ) [cakram](cakram) [vijñeyaṃ](vijñeyaṃ) [sā](sā) [sādhyā](sādhyā) [sa](sa) [ca](ca) [sādhakaḥ](sādhakaḥ)
 
 ## mukta-m0-p24-v582
-śakti-hīnaṃ ca yat-cakraṃ kevalaṃ mada-kaṃ śive
+[śaktihīnaṃ](śaktihīnaṃ) [ca](ca) [yat](yat) [cakraṃ](cakraṃ) [kevalaṃ](kevalaṃ) [madakaṃ](madakaṃ) [śive](śive)
 
 ## mukta-m0-p24-v583
-madhyame nava-śaktiṃ ca hīne api śakti-mātra-kam
+[madhyame](madhyame) [navaśaktiṃ](navaśaktiṃ) [ca](ca) [hīne](hīne) [api](api) [śaktimātrakam](śaktimātrakam)
 
 ## mukta-m0-p24-v584
-tasmin cakre sādhakaḥ api kadācit na praveśayet
+[tasmin](tasmin) [cakre](cakre) [sādhakaḥ](sādhakaḥ) [api](api) [kadācit](kadācit) [na](na) [praveśayet](praveśayet)
 
 ## mukta-m0-p24-v585
-śrī-cakre maithunaṃ bhadraṃ śiva-tvaṃ yāti sādhakaḥ
+[śrīcakre](śrīcakre) [maithunaṃ](maithunaṃ) [bhadraṃ](bhadraṃ) [śivatvaṃ](śivatvaṃ) [yāti](yāti) [sādhakaḥ](sādhakaḥ)
 
 ## mukta-m0-p24-v586
-vīra-cakraṃ idaṃ proktaṃ deva-cakraṃ tataḥ śṛṇu
+[vīracakram](vīracakram) [idaṃ](idaṃ) [proktaṃ](proktaṃ) [devacakraṃ](devacakraṃ) [tataḥ](tataḥ) [śṛṇu](śṛṇu)
 
 ## mukta-m0-p24-v587
-sṛṣṭi-rūpaṃ mahā-cakraṃ śrī-cakraṃ parameśvari
+[sṛṣṭirūpaṃ](sṛṣṭirūpaṃ) [mahācakraṃ](mahācakraṃ) [śrīcakraṃ](śrīcakraṃ) [parameśvari](parameśvari)
 
 ## mukta-m0-p24-v588
-iti śrī-sarvānanda-nātha-viracite sarvollāse unviṃśati-ullāsaḥ
+[iti](iti) [śrīsarvānandanātha](śrīsarvānandanātha) [viracite](viracite) [sarvollāse](sarvollāse) [unviṃśatyullāsaḥ](unviṃśatyullāsaḥ)
 
 ## mukta-m0-p24-v589
-tatra sthāne caret cakraṃ yatra syāt devatā-gṛha
+[tatra](tatra) [sthāne](sthāne) [caret](caret) [cakraṃ](cakraṃ) [yatra](yatra) [syāt](syāt) [devatāgṛha](devatāgṛha)
 
 ## mukta-m0-p24-v590
-devatā-vṛkṣa-mūleṣu sthānaṃ kuryāt prayatnataḥ
+[devatāvṛkṣa](devatāvṛkṣa) [mūleṣu](mūleṣu) [sthānaṃ](sthānaṃ) [kuryāt](kuryāt) [prayatnataḥ](prayatnataḥ)
 
 ## mukta-m0-p24-v591
-sādhakasya gṛhaṃ bhadre śrī-cakra-sthānam uttamam
+[sādhakasya](sādhakasya) [gṛhaṃ](gṛhaṃ) [bhadre](bhadre) [śrīcakrasthānam](śrīcakrasthānam) [uttamam](uttamam)
 
 ## mukta-m0-p24-v592
-athavā yasya yat-sthānaṃ tasya ājñayā prakalpayet
+[athavā](athavā) [yasya](yasya) [yat](yat) [sthānaṃ](sthānaṃ) [tasya](tasya) [ājñayā](ājñayā) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p24-v593
-tat udvegasya yat pāpaṃ tat pāpaṃ tatra gacchati
+[tat](tat) [udvegasya](udvegasya) [yat](yat) [pāpaṃ](pāpaṃ) [tat](tat) [pāpaṃ](pāpaṃ) [tatra](tatra) [gacchati](gacchati)
 
 ## mukta-m0-p24-v594
-śavāsana-adhikaṃ jñeyaṃ latā-gṛha-praveśanam
+[śavāsana](śavāsana) [adhikaṃ](adhikaṃ) [jñeyaṃ](jñeyaṃ) [latāgṛha](latāgṛha) [praveśanam](praveśanam)
 
 ## mukta-m0-p24-v595
-yoni-abhāve maheśāni trikoṇaṃ ca āsanaṃ śubham
+[yoni](yoni) [abhāve](abhāve) [maheśāni](maheśāni) [trikoṇaṃ](trikoṇaṃ) [ca](ca) [āsanaṃ](āsanaṃ) [śubham](śubham)
 
 ## mukta-m0-p24-v596
-śava-abhāve viṣṭaraṃ hi vīra-āsanam udīritam
+[śava](śava) [abhāve](abhāve) [viṣṭaraṃ](viṣṭaraṃ) [hi](hi) [vīrāsanaṃ](vīrāsanaṃ) [udīritam](udīritam)
 
 ## mukta-m0-p24-v597
-śava-eka-māsanaṃ bhadre viṣṭaraṃ yugma-āsanam
+[śava](śava) [ekam](ekam) [āsanaṃ](āsanaṃ) [bhadre](bhadre) [viṣṭaraṃ](viṣṭaraṃ) [yugma](yugma) [āsanaṃ](āsanaṃ)
 
 ## mukta-m0-p24-v598
-anya-āsanaṃ catuṣkoṇaṃ trikoṇaṃ parikalpitam
+[anya](anya) [āsanaṃ](āsanaṃ) [catuṣkoṇaṃ](catuṣkoṇaṃ) [trikoṇaṃ](trikoṇaṃ) [parikalpitam](parikalpitam)
 
 ## mukta-m0-p24-v599
-kṛṣṇa-ajine jñāna-siddhiḥ mokṣaṃ ca vyāghra-carmaṇi
+[kṛṣṇājine](kṛṣṇājine) [jñānasiddhiḥ](jñānasiddhiḥ) [mokṣaṃ](mokṣaṃ) [ca](ca) [vyāghracarmaṇi](vyāghracarmaṇi)
 
 ## mukta-m0-p24-v600
-etat bhinnaṃ ca āsanaṃ hi citra-citra-ādi saṃyutam
+[etad](etad) [bhinnaṃ](bhinnaṃ) [ca](ca) [āsanaṃ](āsanaṃ) [hi](hi) [citra](citra) [citrādi](citrādi) [saṃyutam](saṃyutam)
