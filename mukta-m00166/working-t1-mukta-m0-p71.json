@@ -8,14 +8,18 @@
 "tokens": [
 {
 "surface": "bhūta",
-"quick_gloss": "manifesting"
+"quick_gloss": "past"
 },
 {
 "surface": "bhāvi",
-"quick_gloss": "past-future"
+"quick_gloss": "future"
 },
 {
-"surface": "vibhāvinī",
+"surface": "vi",
+"quick_gloss": "well"
+},
+{
+"surface": "bhāvinī",
 "quick_gloss": "discerning"
 }
 ]
@@ -28,16 +32,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ato'nyaḥ",
+"surface": "ato",
 "quick_gloss": "other"
+},
+{
+"surface": "nyaḥ",
+"quick_gloss": "nyaḥ"
 },
 {
 "surface": "kaḥ",
 "quick_gloss": "who"
 },
 {
-"surface": "sadādyantastvāṃ",
-"quick_gloss": "always-beginning-end"
+"surface": "sadā",
+"quick_gloss": "always"
+},
+{
+"surface": "ādyanta",
+"quick_gloss": "beginning-end"
+},
+{
+"surface": "tvāṃ",
+"quick_gloss": "you"
+},
+{
+"surface": "vibhāvayituṃ",
+"quick_gloss": "to-manifest"
 },
 {
 "surface": "kṣamaḥ",
@@ -72,6 +92,10 @@
 {
 "surface": "maṅgalā",
 "quick_gloss": "auspicious"
+},
+{
+"surface": "asya",
+"quick_gloss": "his"
 },
 {
 "surface": "sadā",
@@ -116,8 +140,12 @@
 "quick_gloss": "if"
 },
 {
-"surface": "nābhaviṣyaḥ",
-"quick_gloss": "not-become"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "abhaviṣyaḥ",
+"quick_gloss": "would-be"
 }
 ]
 },
@@ -129,8 +157,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paramārthaprabodhikā",
-"quick_gloss": "ultimate-truth-awakening"
+"surface": "paramārtha",
+"quick_gloss": "supreme-meaning"
+},
+{
+"surface": "prabodhikā",
+"quick_gloss": "awakening"
 }
 ]
 },
@@ -146,7 +178,7 @@
 "quick_gloss": "by-attainment"
 },
 {
-"surface": "bhrāmakān",
+"surface": "bhrāmaka",
 "quick_gloss": "wandering"
 },
 {
@@ -159,11 +191,11 @@
 },
 {
 "surface": "jānāmi",
-"quick_gloss": "know"
+"quick_gloss": "I-know"
 },
 {
 "surface": "śaṣpavat",
-"quick_gloss": "grass-like"
+"quick_gloss": "grass-blade"
 }
 ]
 },
@@ -176,7 +208,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "right-handed"
+"quick_gloss": "right/south"
 }
 ]
 },
@@ -188,20 +220,32 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yatastatastata",
-"quick_gloss": "therefore"
+"surface": "yataḥ",
+"quick_gloss": "since"
 },
 {
-"surface": "prajñair",
+"surface": "tataḥ",
+"quick_gloss": "there"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "prajñaiḥ",
 "quick_gloss": "wise"
 },
 {
-"surface": "dakṣiṇeti",
-"quick_gloss": "right-handed"
+"surface": "dakṣiṇā",
+"quick_gloss": "right"
+},
+{
+"surface": "iti",
+"quick_gloss": "thus"
 },
 {
 "surface": "prakīrtyase",
-"quick_gloss": "called"
+"quick_gloss": "celebrated"
 }
 ]
 },
@@ -214,7 +258,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "right-handed-form"
+"quick_gloss": "right-facing-form"
 }
 ]
 },
@@ -231,7 +275,7 @@
 },
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "right-handed-form"
+"quick_gloss": "right-facing-form"
 },
 {
 "surface": "iti",
@@ -252,7 +296,7 @@
 "tokens": [
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-right-handed"
+"quick_gloss": "very-right"
 }
 ]
 },
@@ -269,15 +313,19 @@
 },
 {
 "surface": "tato",
-"quick_gloss": "therefore"
+"quick_gloss": "then"
 },
 {
 "surface": "devi",
 "quick_gloss": "goddess"
 },
 {
-"surface": "sudakṣiṇāsi",
-"quick_gloss": "very-right-handed"
+"surface": "sudakṣiṇā",
+"quick_gloss": "very-right"
+},
+{
+"surface": "asi",
+"quick_gloss": "you-are"
 }
 ]
 },
@@ -290,7 +338,7 @@
 "tokens": [
 {
 "surface": "haripriyā",
-"quick_gloss": "hari-beloved"
+"quick_gloss": "Viṣṇu-beloved"
 }
 ]
 },
@@ -303,10 +351,10 @@
 "tokens": [
 {
 "surface": "śauriḥ",
-"quick_gloss": "śauri"
+"quick_gloss": "Viṣṇu"
 },
 {
-"surface": "yaddayayā",
+"surface": "dayayā",
 "quick_gloss": "by-mercy"
 },
 {
@@ -315,11 +363,15 @@
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "called"
+"quick_gloss": "celebrated"
 },
 {
-"surface": "sā haripriyā",
-"quick_gloss": "hari-beloved"
+"surface": "sā",
+"quick_gloss": "she"
+},
+{
+"surface": "haripriyā",
+"quick_gloss": "Viṣṇu-beloved"
 }
 ]
 },
@@ -344,16 +396,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rogaśokavinivartitāśayā",
-"quick_gloss": "disease-sorrow-removed"
+"surface": "rogaśoka",
+"quick_gloss": "disease-sorrow"
+},
+{
+"surface": "vinivartitāśayā",
+"quick_gloss": "removed-mind"
 },
 {
 "surface": "yoginī",
 "quick_gloss": "yoginī"
 },
 {
-"surface": "subhagayogadāstu",
-"quick_gloss": "fortunate-yoga-giver"
+"surface": "subhagayogadā",
+"quick_gloss": "fortunate-yoga-giving"
+},
+{
+"surface": "astu",
+"quick_gloss": "let-her-be"
 },
 {
 "surface": "sā",
@@ -382,12 +442,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidānandaiva",
+"surface": "cidānanda",
 "quick_gloss": "consciousness-bliss"
 },
 {
-"surface": "yannityaṃ",
-"quick_gloss": "always"
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "nityaṃ",
+"quick_gloss": "eternally"
 },
 {
 "surface": "yogayuktā",
@@ -399,7 +463,7 @@
 },
 {
 "surface": "svataḥ",
-"quick_gloss": "by-self"
+"quick_gloss": "by-herself"
 }
 ]
 },
@@ -411,7 +475,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogāṅgā",
+"surface": "yogāṅga",
 "quick_gloss": "yoga-limb"
 }
 ]
@@ -425,19 +489,23 @@
 "tokens": [
 {
 "surface": "āpannānām",
-"quick_gloss": "afflicted"
+"quick_gloss": "afflicted-ones"
 },
 {
 "surface": "āpad",
 "quick_gloss": "calamity"
 },
 {
-"surface": "antaikaheturyogāṅgeyaṃ",
+"surface": "antaikahetuḥ",
 "quick_gloss": "single-cause"
 },
 {
+"surface": "yogāṅgeyaṃ",
+"quick_gloss": "yoga-limb"
+},
+{
 "surface": "kīrtitā",
-"quick_gloss": "called"
+"quick_gloss": "celebrated"
 },
 {
 "surface": "yogināthaiḥ",
@@ -466,12 +534,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvadhyeyāpi",
-"quick_gloss": "all-meditated"
+"surface": "sarvadhyeyā",
+"quick_gloss": "all-meditation-worthy"
 },
 {
-"surface": "sarvāsi",
+"surface": "sarvā",
 "quick_gloss": "all"
+},
+{
+"surface": "asi",
+"quick_gloss": "you"
 },
 {
 "surface": "tvaṃ",
@@ -496,7 +568,7 @@
 "tokens": [
 {
 "surface": "yogapaṭṭadharā",
-"quick_gloss": "yoga-band-wearer"
+"quick_gloss": "yoga-band-wearing"
 }
 ]
 }
