@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[great-jewel](mahāratnaṃ) [great-value](mahāmūlyaṃ) [endowed-with-qualities](guṇayuktaṃ) [should-worship-always](yajetsadā)
+great-jewel great-valuable virtue-endowed worship-always
 
 ## mukta-m0-p03-v52
-[well-radiant](supratāpo) [fame](yaśaścāyurbhaveyurnṛpateściram)
+splendor fame-life become king's long
 
 ## mukta-m0-p03-v53
-[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [also](cāpi) [auspicious](śastaṃ) [jewel](ratnam) [unmade](anirmitam)
+blue yellow white and excellent jewel-unmade
 
 ## mukta-m0-p03-v54
-[conch-crystal-like](śaṅkhasphaṭikasaṃkāśaṃ) [java-beginning-glow](javārambhādaladyuti)
+conch-crystal-resembling hibiscus-beginning glow
 
 ## mukta-m0-p03-v55
-[washed-mouth-like](dhautāsyābho) [of-twice-born](dvijātīnāṃ) [king-worthy](nṛpārhau) [yellow-red](pītaraktakau)
+washed-face-like brahmins king-worthy yellow-red
 
 ## mukta-m0-p03-v56
-[that-mark](talliṅgam) [for-life-increase](āyuṣo+vṛddhayai) [all-disease-destroying](sarvarogavināśakam)
+that-lingam life's increase all-disease-destroying
 
 ## mukta-m0-p03-v57
-[indra-fire-friend-born](śakrāgni(gnī)+casamitroye) [fourfold](caturdhā) [sometimes-opinion](tatkvacinmatam)
+indra-fire friend fourfold sometimes opinion
 
 ## mukta-m0-p03-v58
-[autumn-water-like](śaradambunibhaṃ) [clear](svacchaṃ) [smooth](snigdhaṃ) [crystal](ca+sphāṭikaṃ) [beneficial](hitam)
+autumn-water-like pure smooth and crystal beneficial
 
 ## mukta-m0-p03-v59
-[with-garbha-wave-joined](sagarbhamūrmisaṃyuktaṃ) [luminous-pearl-dense](jyotirmuktaghanaṃ) [reject](tyajet)
+with-embryo-wave-associated light-pearl-dense reject
 
 ## mukta-m0-p03-v60
-[thick](sthūlaṃ) [long](dīrgha) [kusha](kuśaṃ) [short](hrasvaṃ) [middle-etc-thin](madhyādyanteṣu+vā+kṛśam)
+thick long kusha short middle-beginning-end or thin
 
 ## mukta-m0-p03-v61
-[other-born-attached](anyajātivilagnaṃ) [pierced](ca+viddhaṃ) [fear-causing](bhītikaraṃ) [reject](tyajet)
+other-birth-attached and pierced fear-causing reject
 
 ## mukta-m0-p03-v62
-[crystal](sphāṭikaṃ) [mark](liṅgamiṣṭārthaṃ) [death-conquering-desire-giving](mṛtyujitkāmadaṃ) [worship](yajet)
+crystal lingam desired-purpose death-conquering wish-giving worship
 
 ## mukta-m0-p03-v63
-[mark](liṅgaṃ) [always-fire-sacrifice-like](sadāgnihotrābhaṃ) [worship](pūjya) [no-harm-to-men](no+doṣakṛnnṛṇām)
+lingam always-fire-sacrifice-like worship no fault-causing men
 
 ## mukta-m0-p03-v64
-[always-low-success](sadā+nimnena+siddhiḥ+syāt) [high-high](ucce+tūccā) [equal-equal](same+samā)
+always low success be high high equal equal
 
 ## mukta-m0-p03-v65
-[jewel-linga-twofold](ratnaliṅgaṃ+dvidhākhyātaṃ) [own-pedestal](svapīṭhaṃ) [metal-pedestal-born](dhātupīṭhajam)
+jewel-lingam twofold-called own-pedestal metal-pedestal-born
 
 ## mukta-m0-p03-v66
-[movable-linga-twofold](calaliṅgaṃ+dvidhākāryaṃ) [metal-jewel-auspicious](dhāturatnamayaṃ+śubham)
+movable-lingam twofold-made metal-jewel-made auspicious
 
 ## mukta-m0-p03-v67
-[small-jewel-born-also](kṣudraratnotthamapyevaṃ) [own-measure](svamānā) [two-jewel-born](dvararatnajam)
+small-jewel-born also own-measure door-jewel-born
 
 ## mukta-m0-p03-v68
-[of-vaishyas](vaiśyānāṃ) [love-end](manmathāntaṃ) [of-shudras](syācchūdrāṇāṃ) [twelve-limit](dvādaśāvadhiḥ)
+vaishyas love-end be shudras twelve-limit
 
 ## mukta-m0-p03-v69
-[movable](calaṃ) [above](tadūrdhvaṃ) [of-gods](devānāṃ) [twenty-three-angula](trayoviṃśatikāṅgulam)
+movable that-above gods twenty-three-angula
 
 ## mukta-m0-p03-v70
-[immovable](acalaṃ) [lead-based](khadrūbhasthāyi) [hand-nine-measure](karādanavasāmakam)
+immovable lead-place-staying hand-from-nine-sama
 
 ## mukta-m0-p03-v71
-[six-cubits](saḍḍhataṃ) [mixed](miśrakaṃ) [linga](liṅgaṃ) [not-above](nordhvaṃ) [ca](ca) [firm-desired](sthiramiṣyate)
+six-cubits mixed lingam not-above and fixed desired
 
 ## mukta-m0-p03-v72
-[six-cubits-not-more](ṣaḍḍhastānnādhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [mountain-like-always](śailavatsadā)
+six-cubits-not-exceeding or wooden earthen mountain-like always
 
 ## mukta-m0-p03-v73
-[yaksha-rakshasa-asura-serpent](yakṣarakṣo'suravyāla) [gandharva-apsaras-sometimes](gandharvāpsarasāṃ+kvacit)
+yaksha-rakshasa-asura-serpent gandharva-apsaras sometimes
 
 ## mukta-m0-p03-v74
-[circumference-height](pariṇāhocchrayābhyāṃ) [ca](ca) [of-gods-twenty-one](devānāmekaviṃśatiḥ)
+circumference-height by and gods twenty-one
 
 ## mukta-m0-p03-v75
-[five-angula](pañcāṅgulaṃtu) [of-paishtha-etc](paiṣṭyādyaṃ) [fruit-born](phalajaṃ) [own-measure](svapramāṇataḥ)
+five-angula indeed flour-born fruit-born own-measure
