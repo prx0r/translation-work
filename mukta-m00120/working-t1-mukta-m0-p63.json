@@ -16,7 +16,7 @@
 },
 {
 "surface": "sṛṣṭiśakti",
-"quick_gloss": "creation+power"
+"quick_gloss": "creation-power"
 },
 {
 "surface": "svarūpakam",
@@ -57,12 +57,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktiḥ",
+"surface": "śaktistatra",
 "quick_gloss": "power"
-},
-{
-"surface": "tatra",
-"quick_gloss": "there"
 },
 {
 "surface": "mahādevi",
@@ -86,16 +82,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcadhā",
+"surface": "pañcadhāpyekadhā",
 "quick_gloss": "fivefold"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
-},
-{
-"surface": "ekadhā",
-"quick_gloss": "onetime"
 },
 {
 "surface": "yatra",
@@ -120,11 +108,11 @@
 "tokens": [
 {
 "surface": "avinābhāva",
-"quick_gloss": "inseparable"
+"quick_gloss": "inseparable-relation"
 },
 {
 "surface": "sambandhaṃ",
-"quick_gloss": "relation"
+"quick_gloss": "connection"
 },
 {
 "surface": "dvayoreva",
@@ -132,7 +120,7 @@
 },
 {
 "surface": "parasparam",
-"quick_gloss": "mutual"
+"quick_gloss": "mutually"
 }
 ]
 },
@@ -144,12 +132,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktyākta",
-"quick_gloss": "power-possessed"
-},
-{
-"surface": "śaṅkaram",
-"quick_gloss": "śaṅkara"
+"surface": "śaktyāktaśaṅkaram",
+"quick_gloss": "power-marked-śaṅkara"
 }
 ]
 },
@@ -161,12 +145,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śaktiḥ",
+"surface": "śaktiśca",
 "quick_gloss": "power"
-},
-{
-"surface": "ca",
-"quick_gloss": "ca"
 },
 {
 "surface": "puruṣeṣvāktā",
@@ -178,11 +158,11 @@
 },
 {
 "surface": "sarva",
-"quick_gloss": "all"
+"quick_gloss": "all-illuminating"
 },
 {
 "surface": "prakāśinī",
-"quick_gloss": "illuminating"
+"quick_gloss": "prakāśinī"
 }
 ]
 },
@@ -194,7 +174,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śiva+jñānaṃ",
+"surface": "śiva",
 "quick_gloss": "śiva-knowledge"
 },
 {
@@ -211,11 +191,11 @@
 },
 {
 "surface": "na",
-"quick_gloss": "not"
+"quick_gloss": "not-arises"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "arises"
+"quick_gloss": "jāyate"
 }
 ]
 },
@@ -231,12 +211,8 @@
 "quick_gloss": "thus"
 },
 {
-"surface": "śrī",
-"quick_gloss": "śrī"
-},
-{
-"surface": "sarvānandanāthaviracite",
-"quick_gloss": "sarvānandanātha-composed"
+"surface": "śrīsarvānandanāthaviracite",
+"quick_gloss": "śrī-sarvānandanātha-composed"
 },
 {
 "surface": "sarvollāse",
@@ -264,12 +240,16 @@
 "quick_gloss": "after-many-births"
 },
 {
-"surface": "śakti+jñānaṃ",
+"surface": "śakti",
 "quick_gloss": "power-knowledge"
 },
 {
+"surface": "jñānaṃ",
+"quick_gloss": "jñānaṃ"
+},
+{
 "surface": "prajāyate",
-"quick_gloss": "is-born"
+"quick_gloss": "arises"
 }
 ]
 },
@@ -285,12 +265,8 @@
 "quick_gloss": "that"
 },
 {
-"surface": "śaktiḥ",
+"surface": "śaktirvāmā",
 "quick_gloss": "power"
-},
-{
-"surface": "vāmā",
-"quick_gloss": "vāmā"
 },
 {
 "surface": "vijñeyā",
@@ -315,7 +291,7 @@
 "tokens": [
 {
 "surface": "dāyinī",
-"quick_gloss": "giving"
+"quick_gloss": "giver"
 }
 ]
 },
@@ -340,7 +316,7 @@
 },
 {
 "surface": "cet",
-"quick_gloss": "ca"
+"quick_gloss": "cet"
 },
 {
 "surface": "guptā",
@@ -385,7 +361,7 @@
 },
 {
 "surface": "mahāmate",
-"quick_gloss": "great-minded"
+"quick_gloss": "wise-one"
 }
 ]
 },
@@ -422,7 +398,7 @@
 },
 {
 "surface": "maheśvaraḥ",
-"quick_gloss": "great-lord"
+"quick_gloss": "maheśvaraḥ"
 }
 ]
 },
@@ -435,11 +411,11 @@
 "tokens": [
 {
 "surface": "kāryākāryaṃ",
-"quick_gloss": "action-nonaction"
+"quick_gloss": "action-inaction"
 },
 {
 "surface": "maheśāni",
-"quick_gloss": "great-goddess"
+"quick_gloss": "maheśāni"
 },
 {
 "surface": "tasyā",
@@ -451,11 +427,11 @@
 },
 {
 "surface": "na",
-"quick_gloss": "no"
+"quick_gloss": "no-doubt"
 },
 {
 "surface": "saṃśayaḥ",
-"quick_gloss": "doubt"
+"quick_gloss": "saṃśayaḥ"
 }
 ]
 },
@@ -468,19 +444,15 @@
 "tokens": [
 {
 "surface": "kāryākāryaṃ",
-"quick_gloss": "action-nonaction"
+"quick_gloss": "action-inaction"
 },
 {
 "surface": "bhavet",
 "quick_gloss": "becomes"
 },
 {
-"surface": "śakter",
+"surface": "śakternirliptaḥ",
 "quick_gloss": "of-power"
-},
-{
-"surface": "nirliptaḥ",
-"quick_gloss": "unattached"
 },
 {
 "surface": "puruṣaḥ",
@@ -488,7 +460,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "śiva"
+"quick_gloss": "śive"
 }
 ]
 },
@@ -504,12 +476,8 @@
 "quick_gloss": "action"
 },
 {
-"surface": "śakter",
+"surface": "śakterbhavet",
 "quick_gloss": "of-power"
-},
-{
-"surface": "bhavet",
-"quick_gloss": "becomes"
 },
 {
 "surface": "kāryaṃ",
@@ -521,7 +489,7 @@
 },
 {
 "surface": "sarvasādhane",
-"quick_gloss": "all-accomplishment"
+"quick_gloss": "all-means"
 }
 ]
 },
@@ -571,7 +539,7 @@
 },
 {
 "surface": "maheśāni",
-"quick_gloss": "great-goddess"
+"quick_gloss": "maheśāni"
 },
 {
 "surface": "sthūla",
@@ -604,15 +572,11 @@
 },
 {
 "surface": "devi",
-"quick_gloss": "goddess"
+"quick_gloss": "devi"
 },
 {
-"surface": "katham",
-"quick_gloss": "how"
-},
-{
-"surface": "uktaṃ",
-"quick_gloss": "spoken"
+"surface": "kathamuktaṃ",
+"quick_gloss": "how-spoken"
 },
 {
 "surface": "sadāśive",
@@ -632,12 +596,8 @@
 "quick_gloss": "brahma"
 },
 {
-"surface": "dattā",
-"quick_gloss": "given"
-},
-{
-"surface": "agninā",
-"quick_gloss": "fire"
+"surface": "dattāgninā",
+"quick_gloss": "given-fire"
 },
 {
 "surface": "hutvā",
@@ -657,7 +617,7 @@
 },
 {
 "surface": "kāmataḥ",
-"quick_gloss": "by-desire"
+"quick_gloss": "desire"
 }
 ]
 },
@@ -674,7 +634,7 @@
 },
 {
 "surface": "naiva",
-"quick_gloss": "not"
+"quick_gloss": "not-at-all"
 },
 {
 "surface": "kartavyo",
@@ -686,7 +646,7 @@
 },
 {
 "surface": "vākyānusārataḥ",
-"quick_gloss": "words"
+"quick_gloss": "words-according"
 }
 ]
 },
@@ -702,20 +662,20 @@
 "quick_gloss": "own-vāmā"
 },
 {
-"surface": "toṣaṇārthe",
+"surface": "toṣaṇārthe'pi",
 "quick_gloss": "for-pleasing"
 },
 {
-"surface": "api",
-"quick_gloss": "api"
+"surface": "para",
+"quick_gloss": "other"
 },
 {
-"surface": "para+vāmāñca",
-"quick_gloss": "other-vāmā"
+"surface": "vāmāñca",
+"quick_gloss": "vāmā"
 },
 {
 "surface": "toṣayet",
-"quick_gloss": "please"
+"quick_gloss": "to-please"
 }
 ]
 },
@@ -728,15 +688,15 @@
 "tokens": [
 {
 "surface": "toṣayet",
-"quick_gloss": "please"
+"quick_gloss": "to-please"
 },
 {
 "surface": "parameśāni",
-"quick_gloss": "supreme-goddess"
+"quick_gloss": "parameśāni"
 },
 {
 "surface": "vīrabhāva",
-"quick_gloss": "hero-bhāva"
+"quick_gloss": "vīra-bhāva"
 },
 {
 "surface": "samāśritaḥ",
