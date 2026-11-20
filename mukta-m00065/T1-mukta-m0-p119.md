@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-rest-one night then cow-dung plaster
+viśrāmya (resting) ekāṃ (one) tato (then) rātriṃ (night) gomayena (with-cow-dung) vilepayet (should-plaster)
 
 ## mukta-m0-p119-v2952
-hemp-fruit-root-decoction or stone-creeper-juice
+śaṇaphalyāṅghikāṣāyai (with-decoction) stopalatārasena (with-juice) vā (or)
 
 ## mukta-m0-p119-v2953
-steamed black-gram-water or steamed-bilva-water too
+utsvinna (steamed) māṣatoyena (with-bean-water) svinnabilvāmbunāpi (with-steamed-bilva-water-too) vā (or)
 
 ## mukta-m0-p119-v2954
-then mortar-etc coarse-powders make
+tataścolūkhalādyaistu (then-with-mortar-etc) sthūlacūrṇāni (coarse-powders) kārayet (should-make)
 
 ## mukta-m0-p119-v2955
-in-pot-interior place then drugs insert
+sthālyāgarbhe (in-pot-interior) tu (and) saṃsthāpya (placing) tato (then) drayāṇi (drugs) niḥkṣipet (should-put)
 
 ## mukta-m0-p119-v2956
-sand cow-milk sarja-oil flax-seed-powder
+sikrāta (sand) gavyadugdhāni (cow-milks) sarjatailātasīrajaḥ (resin-oil-flax-powder)
 
 ## mukta-m0-p119-v2957
-hog-plum-water ground coarse-mouthed milk-named
+āmrātakāmbubhiḥ (with-hog-plum-water) piṣṭaṃ (ground) sthūlāsyā (coarse-mouthed) dugdhi (milk) kāhvayā (called)
 
 ## mukta-m0-p119-v2958
-decoction ram-horn flax-powder-mixed
+kvāthena (with-decoction) meṣaśṛṅgasya (of-ram-horn) atasīcūrṇamiśritam (mixed-with-flax-powder)
 
 ## mukta-m0-p119-v2959
-diamond-plaster well-known likewise sarja-accompanied
+vajralepaḥ (diamond-plaster) samakhyātastathā (thus-renowned) sarjasamanvitaḥ (with-resin)
 
 ## mukta-m0-p119-v2960
-beeswax with-pastes hemp-born strong new
+madhūcchiṣṭena (with-beeswax) kalkaiśca (and-pastes) śāṇajaiḥ (hemp-born) sudṛḍhairnavaiḥ (strong-new)
 
 ## mukta-m0-p119-v2961
-flax-oil-mixed knead well-cooked
+atasītailasammiśraṃ (mixed-with-flax-oil) mardayitvā (having-ground) supācitam (well-cooked)
 
 ## mukta-m0-p119-v2962
-gods-house-building-etc ground-bond declared
+suraveśmagṛhādīnāṃ (of-temples-houses-etc) bhūmibandho (ground-bond) nigadyate (is-declared)
 
 ## mukta-m0-p119-v2963
-firm-water-like make ground but well-level even
+sthiratoyopamā (like-still-water) kāryā (should-be-made) bhūmistu (ground-indeed) sutalā (well-level) samā (even)
 
 ## mukta-m0-p119-v2964
-that-paste make lump dry lump in-sun
+tatkalkaṃ (that-paste) kārayet (should-make) piṇḍaṃ (lump) viśoṣyaṃ (to-be-dried) piṇḍamātape (lump-in-sun)
 
 ## mukta-m0-p119-v2965
-then with-gruel rub ground-bond make
+tato (then) maṇḍena (with-gruel) saṃmardya (rubbing) bhūmibandhaṃ (ground-bond) tu (and) kārayet (should-make)
 
 ## mukta-m0-p119-v2966
-make ground even pleasant stable water-filled
+kuryād (should-make) bhūmiṃ (ground) samaṃ (level) ramyaṃ (pleasant) susthitaṃ (well-set) jalapūritam (filled-with-water)
 
 ## mukta-m0-p119-v2967
-drug according-to-time apply portion-measured
+dravyaṃ (substance) kālānurūpeṇa (according-to-season) yojayedbhāgasammitam (should-apply-measured-portion)
 
 ## mukta-m0-p119-v2968
-in-summer indeed five-parts be cold-season likewise three
+grīyme (in-summer) nu (indeed) pañcabhāgāḥ (five-parts) syuḥ (are) śītakāle (in-cold-season) tathā (so) trayaḥ (three)
 
 ## mukta-m0-p119-v2969
-thus given but which before bond here told of-earth
+evaṃ (thus) dattvā (having-given) tu (and) yaḥ (who) pūrvaṃ (before) bandho'tra (bond-here) kathitaḥ (declared) kṣiteḥ (of-earth)
 
 ## mukta-m0-p119-v2970
-with-water washed-brush give that-expert
+toyena (with-water) hatakūrcaṃ (washed-brush) tu (and) dāpayettadvicakṣaṇaḥ (should-apply-expert)
 
 ## mukta-m0-p119-v2971
-silk-cotton-ebony-etc in-ground-bond praised
+śālmalītindukādīnāṃ (of-silk-cotton-etc) bhūmibandhe (in-ground-bond) praśasyate (is-praised)
 
 ## mukta-m0-p119-v2972
-so-many-year-thousands maker rejoices that-city
+tāvadvarṣasahasrāṇi (so-many-thousand-years) kartā (maker) nandati (rejoices) tatpure (in-that-city)
 
 ## mukta-m0-p119-v2973
-fifth time-staff-named with-lineage fruit-giving
+pañcamaḥ (fifth) kāladaṇḍākhyaḥ (named-time-rod) sānvayāḥ (with-descendants) phaladāyakāḥ (fruit-giving)
 
 ## mukta-m0-p119-v2974
-confusion delusion makes ruler punishes always
+vibhrāntiṃ (confusion) vibhramaḥ (delusion) kuryācchāsakaḥ (ruler) śāsayetsadā (should-punish-always)
 
 ## mukta-m0-p119-v2975
-these in-gods-house obstacles until they not worshipped
+ete (these) suragṛhe (in-divine-house) vighnā (obstacles) yāvatte (until-they) tu (and) na (not) pūjitāḥ (worshipped)

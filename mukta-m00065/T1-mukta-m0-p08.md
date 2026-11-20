@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[gloss](etat) [gloss](siddham) [gloss](sadā) [gloss](śaivam) [gloss](gururūpam) [gloss](ajanmakam)
+[etat-siddham](etatsiddhaṃ) [sadā](sadā) [śaivam](śaivaṃ) [guru-rūpam](gururūpam) [a-janmakam](ajanmakam)
 
 ## mukta-m0-p08-v177
-[gloss](śivānta) [gloss](nāmakāḥ) [gloss](sarve) [gloss](bhasmāṅgā) [gloss](brahmacāriṇaḥ)
+[śiva-anta-nāmakāḥ](śivāntanāmakāḥ) [sarve](sarve) [bhasma-aṅgāḥ](bhasmāṅgā) [brahmacāriṇaḥ](brahmacāriṇaḥ)
 
 ## mukta-m0-p08-v178
-[gloss](viśeṣayātu) [gloss](sāmānyā) [gloss](gurur) [gloss](api) [gloss](evameva) [gloss](tu)
+[viśeṣayātu](viśeṣayātu) [sāmānyā](sāmānyā) [guruḥ](gurur) [api](apy) [evam](evameva) [eva](eva) [tu](tu)
 
 ## mukta-m0-p08-v179
-[gloss](ambhojam) [gloss](paṅkajam) [gloss](yadvat) [gloss](tadvat) [gloss](śaivāḥ) [gloss](na) [gloss](cetare)
+[ambhojam](ambhojaṃ) [paṅkajam](paṅkajaṃ) [yadvat](yadvat) [tadvat](tadvac) [śaivāḥ](śaivā) [na](na) [cetare](cetare)
 
 ## mukta-m0-p08-v180
-[gloss](tathaiva) [gloss](śivaliṅgānām) [gloss](śaivāḥ) [gloss](pāśupata) [gloss](ādayaḥ)
+[tathā](tathaiva) [eva](eva) [śiva-liṅgānām](śivaliṅgānāṃ) [śaivāḥ](śaivāḥ) [pāśupata-ādayaḥ](pāśupatādayaḥ)
 
 ## mukta-m0-p08-v181
-[gloss](liṅgabheda) [gloss](phalaiḥ) [gloss](yuktaḥ) [gloss](yāti) [gloss](asau) [gloss](rauravam) [gloss](dhruvam)
+[liṅga-bheda-phalaiḥ](liṅgabhedaphalaiḥ) [yuktaḥ](yukto) [yāti](yāty) [asau](asau) [rauravam](rauravaṃ) [dhruvam](dhruvam)
 
 ## mukta-m0-p08-v182
-[gloss](anyathā) [gloss](pāpakārī) [gloss](syāt) [gloss](iti) [gloss](ājñā) [gloss](pārameśvarī)
+[anyathā](anyathā) [pāpa-kārī](pāpakārī) [syāt](syād) [iti](ity) [ājñā](ājñā) [pārameśvarī](pārameśvarī)
 
 ## mukta-m0-p08-v183
-[gloss](brahmacārī) [gloss](gṛhastha) [gloss](tvam) [gloss](bhedabhinnaṃ) [gloss](dvidhā) [gloss](sthitam)
+[brahmacārī-gṛhastha-tva-bheda-bhinnam](brahmacārīgṛhasthatvabhedabhinnaṃ) [dvidhā](dvidhā) [sthitam](sthitam)
 
 ## mukta-m0-p08-v184
-[gloss](kāmya) [gloss](kāmikriyām) [gloss](vacmi) [gloss](sāmpratam) [gloss](saṃprabhedataḥ)
+[kāmya-kāmi-kriyām](kāmyakāmikriyāṃ) [vacmi](vacmi) [sāmpratam](sāmprataṃ) [saṃprabhedataḥ](saṃprabhedataḥ)
 
 ## mukta-m0-p08-v185
-[gloss](bhukti) [gloss](mukti) [gloss](icchukaḥ) [gloss](kāmī) [gloss](kuryāt) [gloss](dīkṣā) [gloss](ādi) [gloss](ājñayā)
+[bhukti-mukti-icchukaḥ](bhuktimuktīcchukaḥ) [kāmī](kāmī) [kuryāt](kuryādd) [dīkṣā-ādi-m-ājñayā](dīkṣādimājñayā)
 
 ## mukta-m0-p08-v186
-[gloss](pratiṣṭhā) [gloss](ādi) [gloss](kriyāśeṣā) [gloss](tatkṛtā) [gloss](saṃpraśasyate)
+[pratiṣṭhā-ādi-kriyā-śeṣā](pratiṣṭhādikriyāśeṣā) [tat-kṛtā](tatkṛtā) [saṃpraśasyate](saṃpraśasyate)
 
 ## mukta-m0-p08-v187
-[gloss](śiva) [gloss](adhikāra) [gloss](vṛttiḥ) [gloss](yaḥ) [gloss](sa) [gloss](sāntānikaḥ) [gloss](ucyate)
+[śiva-adhikāra-vṛttiḥ](śivādhikāravṛttir) [yaḥ](yaḥ) [sa](sa) [sāntānikaḥ](sāntānikaḥ) [ucyate](ucyate)
 
 ## mukta-m0-p08-v188
-[gloss](paścāt) [gloss](kuryāt) [gloss](vivāham) [gloss](ca) [gloss](gṛhasthaḥ) [gloss](sa) [gloss](vatārpakaḥ)
+[paścāt](paścāt) [kuryāt](kuryād) [vivāham](vivāhaṃ) [ca](ca) [gṛhasthaḥ](gṛhasthaḥ) [sa](sa) [vata-arpakaḥ](vatārpakaḥ)
 
 ## mukta-m0-p08-v189
-[gloss](bhaikṣyāśī) [gloss](saṃyatātmā) [gloss](ca) [gloss](vratī) [gloss](sa) [gloss](parikīrtitaḥ)
+[bhaikṣya-āśī](bhaikṣyāśī) [saṃyata-ātmā](saṃyatātmā) [ca](ca) [vratī](vratī) [sa](sa) [parikīrtitaḥ](parikīrtitaḥ)
 
 ## mukta-m0-p08-v190
-[gloss](puṣpapāta) [gloss](abhidhānam) [gloss](tu) [gloss](maṭhī) [gloss](mudrābhiḥ) [gloss](iṣyate)
+[puṣpa-pāta-abhidhānam](puṣpapātābhidhānaṃ) [tu](tu) [maṭhī](maṭhī) [mudrābhiḥ](mudrābhiriṣyate) [iṣyate](iṣyate)
 
 ## mukta-m0-p08-v191
-[gloss](sadvastram) [gloss](añjanam) [gloss](tailam) [gloss](nayate) [gloss](ramate) [gloss](hi) [gloss](tam)
+[sat-vastram](sadvastram) [añjanam](añjanaṃ) [tailam](tailaṃ) [nayate](nayate) [ramate](ramate) [hi](hi) [tam](tam)
 
 ## mukta-m0-p08-v192
-[gloss](mākṣāya) [gloss](vratinaṃ) [gloss](ca) [gloss](eva) [gloss](varayet) [gloss](matimān) [gloss](naraḥ)
+[mākṣāya](mākṣāya) [vratinaṃ](vratinaṃ) [ca](ca) [eva](eva) [varayet](varayen) [matimān](matimān) [naraḥ](naraḥ)
 
 ## mukta-m0-p08-v193
-[gloss](laukikaḥ) [gloss](dravyabhāgī) [gloss](syāt) [gloss](vidyābhāk) [gloss](pāralaukikaḥ)
+[laukikaḥ](laukiko) [dravya-bhāgī](dravyabhāgī) [syāt](syād) [vidyā-bhāk](vidyābhāk) [pāra-laukikaḥ](pāralaukikaḥ)
 
 ## mukta-m0-p08-v194
-[gloss](bhrātṛṇam) [gloss](gurvabhāve) [gloss](syāt) [gloss](gṛhasthānām) [gloss](svaputrakam)
+[bhrātṛṇam](bhrātṛṇaṃ) [guru-abhāve](gurvabhāve) [syāt](syād) [gṛhasthānām](gṛhasthānāṃ) [svaputrakam](svaputrakam)
 
 ## mukta-m0-p08-v195
-[gloss](ayogyāḥ) [gloss](śivakāryeṣu) [gloss](ghaṇṭāsambandhinaḥ) [gloss](haret)
+[ayogyāḥ](ayogyāḥ) [śiva-kāryeṣu](śivakāryeṣu) [ghaṇṭā-sambandhinaḥ](ghaṇṭāsambandhino) [haret](haret)
 
 ## mukta-m0-p08-v196
-[gloss](ṛṇe) [gloss](dravye) [gloss](ca) [gloss](piṇḍe) [gloss](ca) [gloss](sa) [gloss](evaikaḥ) [gloss](praśasyate)
+[ṛṇe](ṛṇe) [dravye](dravye) [ca](ca) [piṇḍe](piṇḍe) [ca](ca) [saḥ](sa) [eva](eva) [ekaḥ](ekaḥ) [praśasyate](praśasyate)
 
 ## mukta-m0-p08-v197
-[gloss](caturgocaram) [gloss](madhye) [gloss](ca) [gloss](śaivaḥ) [gloss](jyeṣṭhāyate) [gloss](param)
+[catur-gocara-madhye](caturgocaramadhye) [ca](ca) [śaivaḥ](śaivo) [jyeṣṭhāyate](jyeṣṭhāyate) [param](param)
 
 ## mukta-m0-p08-v198
-[gloss](śaivācāryaḥ) [gloss](tataḥ) [gloss](śreṣṭhaḥ) [gloss](sthāpayet) [gloss](sarvadevatāḥ)
+[śaiva-ācāryaḥ](śaivācāryaḥ) [tataḥ](tataḥ) [śreṣṭhaḥ](śreṣṭhaḥ) [sthāpayet](sthāpayet) [sarva-devatāḥ](sarvadevatāḥ)
 
 ## mukta-m0-p08-v199
-[gloss](bhukti) [gloss](mukti) [gloss](pradātā) [gloss](ca) [gloss](nānyaḥ) [gloss](vai) [gloss](viśvakṛt) [gloss](guruḥ)
+[bhukti-mukti-pradātā](bhuktimuktipradātā) [ca](ca) [na](na) [anyaḥ](anyo) [vai](vai) [viśvakṛt](viśvakṛd) [guruḥ](guruḥ)
 
 ## mukta-m0-p08-v200
-[gloss](tadabhāve) [gloss](tu) [gloss](kartavyāḥ) [gloss](svadeva) [gloss](vratadhāriṇaḥ)
+[tad-abhāve](tadabhāve) [tu](tu) [kartavyāḥ](kartavyāḥ) [sva-deva-vrata-cāriṇaḥ](svadevavratacāriṇaḥ)
