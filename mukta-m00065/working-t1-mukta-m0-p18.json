@@ -16,7 +16,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "becomes"
+"quick_gloss": "would-be"
 },
 {
 "surface": "tadā",
@@ -24,7 +24,7 @@
 },
 {
 "surface": "homo",
-"quick_gloss": "homa"
+"quick_gloss": "oblation"
 },
 {
 "surface": "vidhīyate",
@@ -41,11 +41,11 @@
 "tokens": [
 {
 "surface": "dadyāt",
-"quick_gloss": "give"
+"quick_gloss": "would-give"
 },
 {
 "surface": "pūrṇāhutiṃ",
-"quick_gloss": "full-offering"
+"quick_gloss": "full-oblation"
 },
 {
 "surface": "ca",
@@ -56,12 +56,8 @@
 "quick_gloss": "also"
 },
 {
-"surface": "śivena",
-"quick_gloss": "by-shiva"
-},
-{
-"surface": "aśivahāriṇā",
-"quick_gloss": "by-inferiority-remover"
+"surface": "śivenāśivahāriṇā",
+"quick_gloss": "by-auspicious-one+inauspicious-removing"
 }
 ]
 },
@@ -78,7 +74,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "likewise"
+"quick_gloss": "thus"
 },
 {
 "surface": "pūjā",
@@ -103,7 +99,7 @@
 "tokens": [
 {
 "surface": "dvijādivarṇabhedena",
-"quick_gloss": "by-twice-born-etc-varna-difference"
+"quick_gloss": "by-twice-born-etc-class-difference"
 },
 {
 "surface": "rūpabhedena",
@@ -169,7 +165,7 @@
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "give"
+"quick_gloss": "would-give"
 },
 {
 "surface": "śilā",
@@ -177,7 +173,7 @@
 },
 {
 "surface": "nūnaṃ",
-"quick_gloss": "indeed"
+"quick_gloss": "certainly"
 },
 {
 "surface": "taruṇī",
@@ -209,7 +205,7 @@
 "quick_gloss": "directions-three"
 },
 {
-"surface": "gandhāsvādau",
+"surface": "gandhāsvādau [mū: gandhasvādau]",
 "quick_gloss": "smell-taste"
 },
 {
@@ -235,11 +231,7 @@
 },
 {
 "surface": "dvātriṃśallakṣaṇāni",
-"quick_gloss": "thirty-two"
-},
-{
-"surface": "lakṣaṇāni",
-"quick_gloss": "marks"
+"quick_gloss": "thirty-two-marks"
 },
 {
 "surface": "tu",
@@ -264,7 +256,7 @@
 },
 {
 "surface": "dhanyā",
-"quick_gloss": "blessed"
+"quick_gloss": "fortunate"
 },
 {
 "surface": "siktā",
@@ -318,7 +310,7 @@
 },
 {
 "surface": "manoramā",
-"quick_gloss": "charming"
+"quick_gloss": "pleasing"
 },
 {
 "surface": "gurvī",
@@ -339,11 +331,11 @@
 "tokens": [
 {
 "surface": "krameṇa",
-"quick_gloss": "in-order"
+"quick_gloss": "gradually"
 },
 {
-"surface": "abjājyagovarvo",
-"quick_gloss": "lotus-ghee-cow-dung"
+"surface": "abjājyagovarvo [mū, a, gh: gocarvī]",
+"quick_gloss": "lotus-ghee-cow?"
 },
 {
 "surface": "mūtragandhāḥ",
@@ -375,7 +367,11 @@
 "quick_gloss": "wealth"
 },
 {
-"surface": "cāyuḥ",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "āyuḥ",
 "quick_gloss": "life"
 },
 {
@@ -401,14 +397,18 @@
 },
 {
 "surface": "rūpasaṃpannā",
-"quick_gloss": "form-endowed"
+"quick_gloss": "endowed-with-beauty"
 },
 {
-"surface": "dhanadeśendra",
-"quick_gloss": "wealth-god-direction"
+"surface": "dhanadeśendra [kh: śendru]",
+"quick_gloss": "wealth-god-direction?"
 },
 {
-"surface": "dik sthitā",
+"surface": "dik",
+"quick_gloss": "direction"
+},
+{
+"surface": "sthitā",
 "quick_gloss": "situated"
 }
 ]
@@ -433,8 +433,8 @@
 "quick_gloss": "deer"
 },
 {
-"surface": "tasyā",
-"quick_gloss": "its"
+"surface": "tasyāḥ",
+"quick_gloss": "of-her"
 },
 {
 "surface": "taddevaḥ",
@@ -442,7 +442,7 @@
 },
 {
 "surface": "śaśalāñchanaḥ",
-"quick_gloss": "moon-marked"
+"quick_gloss": "moon"
 }
 ]
 },
@@ -455,19 +455,19 @@
 "tokens": [
 {
 "surface": "asyā",
-"quick_gloss": "its"
+"quick_gloss": "of-her"
 },
 {
 "surface": "ṛkṣaṃ",
 "quick_gloss": "constellation"
 },
 {
-"surface": "bhave",
-"quick_gloss": "becomes"
+"surface": "bhavet",
+"quick_gloss": "would-be"
 },
 {
 "surface": "jyeṣṭhā",
-"quick_gloss": "jyeshtha"
+"quick_gloss": "jyeṣṭhā"
 },
 {
 "surface": "devatā",
@@ -479,7 +479,7 @@
 },
 {
 "surface": "śatakratu",
-"quick_gloss": "indra"
+"quick_gloss": "Indra"
 }
 ]
 },
@@ -491,12 +491,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
+"surface": "p. 53",
+"quick_gloss": "page?"
+},
+{
 "surface": "nakṣatraṃ",
 "quick_gloss": "constellation"
 },
 {
 "surface": "phalgunī",
-"quick_gloss": "phalguni"
+"quick_gloss": "phalgunī"
 },
 {
 "surface": "ca",
@@ -504,15 +508,15 @@
 },
 {
 "surface": "asyā",
-"quick_gloss": "its"
+"quick_gloss": "of-her"
 },
 {
-"surface": "devaśca",
+"surface": "devaśca [mū: devatā]",
 "quick_gloss": "god"
 },
 {
 "surface": "bhagasaṃjñakaḥ",
-"quick_gloss": "named-bhaga"
+"quick_gloss": "named-Bhaga"
 }
 ]
 },
@@ -524,7 +528,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nakṣatramaśvinau",
+"surface": "nakṣatramaśvinau [mū, a: maśvinī]",
 "quick_gloss": "constellation"
 },
 {
@@ -533,18 +537,18 @@
 },
 {
 "surface": "asyā",
-"quick_gloss": "its"
+"quick_gloss": "of-her"
 },
 {
 "surface": "devau",
 "quick_gloss": "two-gods"
 },
 {
-"surface": "caivāśvinau",
-"quick_gloss": "and-indeed"
+"surface": "caivāśvinau [gh: dvau cāśvinau]",
+"quick_gloss": "indeed-Ashvins"
 },
 {
-"surface": "matau",
+"surface": "matau [mū: smṛtau]",
 "quick_gloss": "considered"
 }
 ]
@@ -574,7 +578,7 @@
 },
 {
 "surface": "manoramā",
-"quick_gloss": "charming"
+"quick_gloss": "pleasing"
 }
 ]
 },
@@ -598,12 +602,12 @@
 "quick_gloss": "smooth"
 },
 {
-"surface": "gajakaṇṭho",
+"surface": "gajakaṇṭho [kh: ghaṇṭo]",
 "quick_gloss": "elephant-throat"
 },
 {
 "surface": "pamasvanaḥ",
-"quick_gloss": "sound"
+"quick_gloss": "?"
 }
 ]
 },
@@ -636,7 +640,7 @@
 },
 {
 "surface": "vibhūtidaḥ",
-"quick_gloss": "prosperity-giving"
+"quick_gloss": "bestowing-prosperity"
 }
 ]
 },
@@ -693,16 +697,12 @@
 "quick_gloss": "rough"
 },
 {
-"surface": "tva rju",
+"surface": "tva rju [k: varja; kh: vakṣya; g: tvajjā]",
 "quick_gloss": "straight"
 },
 {
 "surface": "idamaśma",
-"quick_gloss": "this"
-},
-{
-"surface": "aśma",
-"quick_gloss": "stone"
+"quick_gloss": "this-stone"
 },
 {
 "surface": "napuṃsakam",
@@ -719,7 +719,7 @@
 "tokens": [
 {
 "surface": "śeṣāṇāṃ",
-"quick_gloss": "of-remaining"
+"quick_gloss": "of-rest"
 },
 {
 "surface": "strīśilāḥ",
@@ -730,16 +730,12 @@
 "quick_gloss": "declared"
 },
 {
-"surface": "pīṭhikādyāśca",
+"surface": "pīṭhikādyāśca [g: yāśca]",
 "quick_gloss": "pedestal-etc"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "śūlinaḥ",
-"quick_gloss": "trident-bearer"
+"quick_gloss": "of-Trident-holder"
 }
 ]
 },
@@ -752,7 +748,7 @@
 "tokens": [
 {
 "surface": "sarvavarṇātmake",
-"quick_gloss": "in-all-varna-nature"
+"quick_gloss": "in-all-colors"
 },
 {
 "surface": "śvetāḥ",
@@ -760,14 +756,10 @@
 },
 {
 "surface": "śeṣāśca",
-"quick_gloss": "remaining"
+"quick_gloss": "rest"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
-"surface": "śubhadāḥ",
+"surface": "śubhadāḥ [mū, a, k, kh, g, ṅ: stvaśubhadā]",
 "quick_gloss": "auspicious-giving"
 },
 {
