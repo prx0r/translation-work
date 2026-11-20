@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[somewhat](kiṃcit) [slimy+attained](piccilita+āpannaṃ) [somewhat](kiṃcid) [very+subtle+bubble](utsūkṣma+budbudam)
+something-slightly-slimy-arrived something-very-subtle-bubble
 
 ## mukta-m0-p34-v827
-[excessive+bliss+making](atyānanda+karaṃ) [goddess](devi) [by+touch+only](sparśanād+eva) [of+serpents](bhoginām)
+extreme-bliss-causing goddess by-touch-only of-enjoyers
 
 ## mukta-m0-p34-v828
-[śoṇa+named](śoṇābhidhā) [great+tīrtha](mahātīrtha) [mayaṃśoka+drying](mayaṃśoka+viśoṣaṇam)
+red-named great-tirtha illusion-sorrow-drying
 
 ## mukta-m0-p34-v829
-[liṅga+formed](liṃgarūpiṇam) [exalted](uddāma) [passion+flame+tangle](rāga+jvālā+jaṭā+kulam)
+linga-formed intense-passion-flame-matted-hair-tangled
 
 ## mukta-m0-p34-v830
-[great+liṅga](mahāliṃga) [great+lord](maheśāna) [with+rasas](rasaiḥ) [caṃdravatī](caṃdravatī) [with+bhavas](bhavaiḥ)
+great-linga great-lord with-juices-moonlike with-becomings
 
 ## mukta-m0-p34-v831
-[of+devotee](bhaktasya) [īśāna+bhāva](īśāna+bhāvaṃ) [ca](ca) [sun+tattva+subjugation](sūrya+tattva+vaśīkṛtim)
+of-devotee-ishana-state and sun-principle-subjugation
 
 ## mukta-m0-p34-v832
-[of+senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far+sight](dūra+dṛṣṭim) [O+ambikā](adāṃbike)
+of-senses strength far-sight O-goddess
 
 ## mukta-m0-p34-v833
-[gives](prayacchati) [all](akhilāṃ) [siddhi](siddhiṃ) [taijasī](taijasīṃ) [world+shining](viśva+bhāsinīm)
+grants-all perfection luminous world-illuminating
 
 ## mukta-m0-p34-v834
-[by+this](anayā) [fifth+offering](paṃcama+āhutyā) [five+faced+equal](paṃcānana+samaḥ) [becomes](bhavet)
+by-this fifth-offering five-faced-equal becomes
 
 ## mukta-m0-p34-v835
-[fifth+offering+time](paṃcamāhuti+kāle) [tu](tu) [messenger+state](dūtya+avasthā) [is+offered](nivedyate)
+at-fifth-offering-time but messenger-state is-reported
 
 ## mukta-m0-p34-v836
-[repeatedly](muhuḥ) [eyelash](pakṣma) [entry](praveśaḥ) [ca](ca) [of+two+eye+pupils](netra+tārakayoḥ+dvayoḥ)
+repeatedly eyelash entry and of-two-eye-pupils
 
 ## mukta-m0-p34-v837
-[with+longing](utkaṇṭhataḥ) [pigeon+woman](kapota+strī) [throat+gadgada+speech](gala+gadgada+bhāṣitam)
+with-longing pigeon-woman-throat-gurgling-speech
 
 ## mukta-m0-p34-v838
-[enough+garland+arrangement](alam+ālā+paracanaṃ) [again+enthusiasm](punaḥ+utsāha) [speech](bhāṣaṇam)
+garland-arrangement again enthusiasm speech
 
 ## mukta-m0-p34-v839
-[not](na) [anything](kiṃcid+api) [I+know](jānāmi) [born](jātā) [ahaṃ](ahaṃ) [your](tava) [handmaid](kiṃkarī)
+not anything know I-born I your servant
 
 ## mukta-m0-p34-v840
-[I](ahaṃ) [to+you+only+refuge](tvad+eka+śaraṇa) [protector](rakṣa) [firmly](dṛḍhaṃ) [abandon](jahi)
+I your-only-refuge-protector protect firmly-conquer
 
 ## mukta-m0-p34-v841
-[somewhat](kiṃcid) [yoni+depression](yoni+avasāda) [even](api) [of+mind](manasaḥ) [very+great+effort](sumahat+udyamaḥ)
+something-yoni-descent-even of-mind great-exertion
 
 ## mukta-m0-p34-v842
-[in+all](sarveṣu+api) [ca](ca) [on+limbs](gātreṣu) [intoxication+scent+origin](mada+gaṃdha+samudbhavaḥ)
+in-all and in-limbs intoxicating-fragrance-arising
 
 ## mukta-m0-p34-v843
-[love+afflicted](kāma+ārta) [osprey+throat](kurarī+kaṃṭha) [rut+like](rutavat) [jewel+sound](maṇita+dhvaniḥ)
+love-afflicted osprey-throat cry-like gem-sound
 
 ## mukta-m0-p34-v844
-[thus+etc](ityādayaḥ) [qualities](guṇāḥ) [are+spoken](proktāḥ) [in+fifth](paṃcamyām) [offering](āhutau) [again](punaḥ)
+thus-etc qualities stated in-fifth-offering again
 
 ## mukta-m0-p34-v845
-[ara+five](ara+paṃcaka) [joined](saṃyuktā) [svastika+shaped](svastikākāra+śālinī)
+five-aras united swastika-form-possessing
 
 ## mukta-m0-p34-v846
-[bearing](bibhratī) [moon+cold](caṃdra+śiśira) [of+that](tasyāḥ) [amṛta](amṛtaṃ) [of+moon](vidhoḥ)
+bearing moon-cool-rayed her nectar of-moon
 
 ## mukta-m0-p34-v847
-[to+be+pressed](mardanā+apekṣaṇī) [may+be](bhūyāḥ) [therefore](tasmāt) [to+be+given](eyā) [long+flowing](ciradravā)
+needing-rubbing may-be therefore-given long-flowing
 
 ## mukta-m0-p34-v848
-[of+liṅgeśvara](liṃgeśvarasya+eva) [city](puram) [exalted](uddhata) [upward+tāṇḍava](ūrdhva+tāṇḍavaiḥ)
+of-linga-lord's indeed city with-raised-upward-tandavas
 
 ## mukta-m0-p34-v849
-[flows](sravati) [amṛta+vomit](amṛta+vicchardam) [lunar](aiṃdavaṃ) [joy+increasing](harṣa+vardhanam)
+flows nectar-vomit lunar joy-increasing
 
 ## mukta-m0-p34-v850
-[of+that](tasya) [own+form](svarūpam) [now](adhunā) [distinctly](vivicya) [tell+me](kathayasva+me)
+its true-form now distinctly-tell-me
