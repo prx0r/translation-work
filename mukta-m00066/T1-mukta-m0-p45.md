@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p45-v1101
-[embracing](parirabhya) [but](tu) [husband](bhartāraṃ) [jingling](kvaṇat) [bracelet-creeper](kaṃkaṇadorlatāḥ)
+[parirabhya](parirabhya) [tu](tu) [bhartāraṃ](bhartāraṃ) [kvaṇat](kvaṇat) [kaṃkaṇa+dor+latāḥ](kaṃkaṇadorlatāḥ)
 
 ## mukta-m0-p45-v1102
-[not](na) [by-brahma](brahmaṇā) [not](na) [by-indra](śakreṇa) [not](na) [by-me](mayā) [not](na) [and](ca) [by-vishnu](viṣṇunā)
+[na](na) [brahmaṇā](brahmaṇā) [na](na) [śakreṇa](śakreṇa) [na](na) [mayā](mayā) [na](na) [ca](ca) [viṣṇunā](viṣṇunā)
 
 ## mukta-m0-p45-v1103
-[even](api) [by-hundred-walls](prākāraśatakairanukṣaṇa) [moment-by-moment](surakṣitāḥ) [well-guarded](surakṣitāḥ)
+[api](api) [prākāra+śata+kair+anukṣaṇa](prākāraśatakairanukṣaṇa) [surakṣitāḥ](surakṣitāḥ)
 
 ## mukta-m0-p45-v1104
-[of-women](strīṇāṃ) [bad-conduct](duḥsilakaraṇe) [and](ca) [seducing-others](paravyāmohane) [also](api)
+[strīṇāṃ](strīṇāṃ) [duḥśīla+karaṇe](duḥsilakaraṇe) [paravyāmohane+api](paravyāmohane'pi) [ca](ca)
 
 ## mukta-m0-p45-v1105
-[by-anyone](kenāpi) [not](na) [held](gṛhastāsāṃ) [of-mind](cittasyātī) [fickleness](valolataḥ)
+[kenāpi](kenāpi) [na](na) [gṛhastāsāṃ](gṛhastāsāṃ) [cittasyāti+valolataḥ](cittasyātīvalolataḥ)
 
 ## mukta-m0-p45-v1106
-[not](na) [satisfaction](pūtirmanasaḥ) [anywhere](kvāpi) [not](na) [contentment](tṛptiḥ) [anywhere](kvāpikarmaṇi)
+[na](na) [pūtir+manasaḥ](pūtirmanasaḥ) [kvāpi](kvāpi) [na](na) [tṛptiḥ](tṛptiḥ) [kvāpi+karmaṇi](kvāpikarmaṇi)
 
 ## mukta-m0-p45-v1107
-[one-another](anyamanyaṃ) [thinking](ciṃtayaṃto) [hidden](gūḍhābhiprāyaceṣṭitāḥ) [intentions](ceṣṭitāḥ)
+[anyam+anyam](anyamanyaṃ) [ciṃtayaṃto](ciṃtayaṃto) [gūḍha+abhiprāya+ceṣṭitāḥ](gūḍhābhiprāyaceṣṭitāḥ)
 
 ## mukta-m0-p45-v1108
-[not](na) [but](tu) [their](tāsāṃ) [mental-gloom](manoglāniḥ) [life-limit](prāṇaparyaṃta) [daring](sāhasaiḥ)
+[na](na) [tu](tu) [tāsāṃ](tāsāṃ) [mano+glāniḥ](manoglāniḥ) [prāṇa+paryaṃta](prāṇaparyaṃta) [sāhasaiḥ](sāhasaiḥ)
 
 ## mukta-m0-p45-v1109
-[not](na) [fire](agniḥ) [satisfied](tṛpyati) [with-wood](kāṣṭhānāṃ) [not](na) [ocean](mahodadhiḥ) [of-rivers](nāpagānāṃ)
+[na](na) [agniḥ](agniḥ) [tṛpyati](tṛpyati) [kāṣṭhānāṃ](kāṣṭhānāṃ) [na](na) [apagānāṃ](apagānāṃ) [mahodadhiḥ](mahodadhiḥ)
 
 ## mukta-m0-p45-v1110
-[of-women](strīṇāṃ) [double-food](dviguṇamāhāro) [mind](buddhiḥ) [also](ca) [fourfold](caturguṇam)
+[strīṇāṃ](strīṇāṃ) [dviguṇa+māhāraḥ](dviguṇamāhāro) [buddhiḥ+ca+api](buddhiścāpi) [caturguṇam](caturguṇam)
 
 ## mukta-m0-p45-v1111
-[great-sacrifice](mahāyāga) [occasion](prasaṃgena) [spoken](proktaṃ) [love-octad](kāmāṣṭakaṃ) [by-me](mayā)
+[mahāyāga+prasaṃgena](mahāyāgaprasaṃgena) [proktaṃ](proktaṃ) [kāma+aṣṭakaṃ](kāmāṣṭakaṃ) [mayā](mayā)
 
 ## mukta-m0-p45-v1112
-[therefore](tasmādala) [of-crooked-eyed](dṛṣṭīnāṃ) [dark-haired-browed](marālacikurabhruvām)
+[tasmād+ala](tasmādala) [dṛṣṭīnāṃ](dṛṣṭīnāṃ) [marāla+cikura+bhruvām](marālacikurabhruvām)
 
 ## mukta-m0-p45-v1113
-[their](tāsāṃ) [if](yadi) [mind](manopuṃsi) [anywhere](kutrāpi) [smeared](parilipyate)
+[tāsāṃ](tāsāṃ) [yadi](yadi) [mano+puṃsi](manopuṃsi) [kutrāpi](kutrāpi) [parilipyate](parilipyate)
 
 ## mukta-m0-p45-v1114
-[not](na) [and](ca) [melts](dravati) [pleasure-water](bhogāṃbu) [not](na) [and](ca) [charm-wealth](vibhramasaṃpadaḥ)
+[na](na) [ca](ca) [dravati](dravati) [bhogāṃbu](bhogāṃbu) [na](na) [ca](ca) [vibhrama+saṃpadaḥ](vibhramasaṃpadaḥ)
 
 ## mukta-m0-p45-v1115
-[therefore](tasmānmanaḥ) [mind](paraṃ) [will-speak](vakṣya) [otherwise](manyato) [doe-eyed](hariṇīdṛśām)
+[tasmān+manaḥ](tasmānmanaḥ) [paraṃ](paraṃ) [vakṣya](vakṣya) [manyato](manyato) [hariṇī+dṛśām](hariṇīdṛśām)
 
 ## mukta-m0-p45-v1116
-[beauty](sauṃdaryavibhramālāpa) [charm](saukhyaśṛṃgārasaṃpadaḥ) [speech](alāpa) [delight](saukhya)
+[sauṃdarya+vibhrama+ālāpa](sauṃdaryavibhramālāpa) [saukhya+śṛṃgāra+saṃpadaḥ](saukhyaśṛṃgārasaṃpadaḥ)
 
 ## mukta-m0-p45-v1117
-[concealment](avahiththāvaśenaiva) [by-power](parapūruṣalolatā) [other-man-fickleness](lolatā)
+[avahiththā+vaśena+eva](avahiththāvaśenaiva) [para+pūruṣa+lolatā](parapūruṣalolatā)
 
 ## mukta-m0-p45-v1118
-[fools](mūḍhāstabdhā) [stiff](na) [not](jānaṃti) [know](bhāvaṃ) [artificial](kṛtrimaceṣṭitam) [conduct](ceṣṭitam)
+[mūḍhā+stabdhā](mūḍhāstabdhā) [na](na) [jānaṃti](jānaṃti) [bhāvaṃ](bhāvaṃ) [kṛtrima+ceṣṭitam](kṛtrimaceṣṭitam)
 
 ## mukta-m0-p45-v1119
-[alas](aho) [fool](mūḍhena) [hard-to-discern](durllakṣyaṃ) [of-women](strīṇāmākṛticeṣṭitam) [form-conduct](ceṣṭitam)
+[aho](aho) [mūḍhena](mūḍhena) [durllakṣyaṃ](durllakṣyaṃ) [strīṇām+ākṛti+ceṣṭitam](strīṇāmākṛticeṣṭitam)
 
 ## mukta-m0-p45-v1120
-[of-deceivers](vaṃcakānāṃ) [and](ca) [of-all](sarveṣāṃ) [deceiver](vaṃcakā) [beautiful-eyed](vamalocanā)
+[vaṃcakānāṃ](vaṃcakānāṃ) [ca](ca) [sarveṣāṃ](sarveṣāṃ) [vaṃcakā](vaṃcakā) [vamalocanā](vamalocanā)
 
 ## mukta-m0-p45-v1121
-[even](api) [scripture-knower](śāstravivettāraṃmapi) [even](api) [by-scripture](śāstreṇa) [lustful](laṃpaṭāḥ)
+[api](api) [śāstra+vivettāraṃmapi](śāstravivettāraṃmapi) [śāstreṇa](śāstreṇa) [laṃpaṭāḥ](laṃpaṭāḥ)
 
 ## mukta-m0-p45-v1122
-[even](api) [rope-striking](rajjupraharaṇamapi) [even](api) [protection-skillful](rakṣaṇadakṣiṇam)
+[api](api) [rajjupraharaṇamapi](rajjupraharaṇamapi) [rakṣaṇa+dakṣiṇam](rakṣaṇadakṣiṇam)
 
 ## mukta-m0-p45-v1123
-[even](apyuddhatamapi) [even](kṛddhamapi) [even](coramapiprabhum) [angry](kṛddham) [thief](cora) [lord](prabhum)
+[apyuddhatamapi](apyuddhatamapi) [kṛddhamapi](kṛddhamapi) [coramapiprabhum](coramapiprabhum)
 
 ## mukta-m0-p45-v1124
-[who](yastrīṇāṃ) [of-women](hṛdayavyālagrahaṇe) [heart-serpent](cāhituṃḍikaḥ) [catcher](grahaṇe)
+[yastrīṇāṃ](yastrīṇāṃ) [hṛdaya+vyāla+grahaṇe](hṛdayavyālagrahaṇe) [cāhituṃḍikaḥ](cāhituṃḍikaḥ)
 
 ## mukta-m0-p45-v1125
-[of-hero](vīrasyeva) [like](prakṛṣṭena) [excellent](samācāreṇajāyate) [conduct](jāyate)
+[vīrasya+iva](vīrasyeva) [prakṛṣṭena](prakṛṣṭena) [samācāreṇa+jāyate](samācāreṇajāyate)
