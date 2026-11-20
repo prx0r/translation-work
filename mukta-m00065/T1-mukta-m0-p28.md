@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-navāvadhikara-anta-sya śūnya-doṣaḥ na kasya-cit
+[nava-avadhi-kara-anta-sya](navāvadhikarāntasya) [śūnya-doṣo](śūnyadoṣo) [na](na) [kasya-cit](kasyacit)
 
 ## mukta-m0-p28-v677
-tridhā mānena ca-ekena ṣoḍaśa-asraṃ śata-dvayam
+[tri-dhā](tridhā) [mānena](mānena) [ca-ekena](caikena) [ṣoḍaśa-asraṃ](ṣoḍaśāsraṃ) [śata-dvayam](śatadvayam)
 
 ## mukta-m0-p28-v678
-catur-aṣṭa-ṣaḍ-asraṃ tu indra-aṅkaṃ vajra-rūpakaṃ
+[catur-aṣṭa-ṣaḍ-asraṃ](caturaṣṭaṣaḍasraṃ) [tu](tu) [indra-aṅkaṃ](indrāṅkaṃ) [vajra-rūpa-kam](vajrarūpakam)
 
 ## mukta-m0-p28-v679
-bindu-saṃpāta-saṃyogāt tiryak-sūtraiḥ vivartayet
+[bindu-saṃpāt-saṃyogāt](bindusaṃpātsaṃyogāt) [tiryak-sūtraiḥ](tiryaksūtrair) [vivartayet](vivartayet)
 
 ## mukta-m0-p28-v680
-vasu-asra-ūrdhvaṃ tu saptāsraṃ śakti-āgneya ca dāha-kṛt
+[vasu-asror-dhvaṃ](vasvasrordhvaṃ) [tu](tu) [sapta-asraṃ](saptāsraṃ) [śakti-āgneya](śaktyāgneya) [ca](ca) [dāha-kṛt](dāhakṛt)
 
 ## mukta-m0-p28-v681
-nāha-ardhaṃ nava-dhā kṛtvā śaraiḥ hṛt-pṛṣṭha-koṭibhiḥ
+[nāha-ardhaṃ](nāhārdhaṃ) [nava-dhā](navadhā) [kṛtvā](kṛtvā) [śaraiḥ](śarair) [hṛt-pṛṣṭha-koṭibhiḥ](hṛtpṛṣṭhakoṭibhiḥ)
 
 ## mukta-m0-p28-v682
-evaṃ ca aṣṭāsra-vṛtaṃ syāt yāmya-daṇḍaṃ ruja-pradam
+[evaṃ](evaṃ) [ca](ca) [aṣṭāsra-vṛtaṃ](aṣṭāsravṛtaṃ) [syāt](syāt) [yāmya-daṇḍaṃ](yāmyadaṇḍaṃ) [ruja-pradam](rujapradam)
 
 ## mukta-m0-p28-v683
-aṣṭāsra-ardhaṃ daśa-astraṃ syāt khaḍga-ābhaṃ rākṣasaṃ bhayam
+[aṣṭāsro-ardha](aṣṭāsro'rdha) [daśa-astraṃ](daśāstraṃ) [syāt](syāt) [khaḍga-ābhaṃ](khaḍgābhaṃ) [rākṣasaṃ](rākṣasaṃ) [bhayam](bhayam)
 
 ## mukta-m0-p28-v684
-catur-aṣṭāsra-vṛttaṃ syāt pāśa-vat vāruṇaṃ śubham
+[catur-aṣṭāsra-vṛttaṃ](caturaṣṭāsravṛttaṃ) [syāt](syāt) [pāśa-vat](pāśavat) [vāruṇaṃ](vāruṇaṃ) [śubham](śubham)
 
 ## mukta-m0-p28-v685
-kṛśaṃ prāg-rūpakaṃ dīrghaṃ calam uccāṭa-kṛt dhvajam
+[kṛśaṃ](kṛśaṃ) [prāg-rūpakaṃ](prāgrūpakaṃ) [dīrghaṃ](dīrghaṃ) [calam](calam) [uccāṭa-kṛt](uccāṭakṛt) [dhvajam](dhvajam)
 
 ## mukta-m0-p28-v686
-yakṣaṃ gadā-agra-mūrdhānaṃ bala-vṛddhi-karaṃ śivam
+[yākṣaṃ](yākṣaṃ) [gadā-agra-mūrdhānaṃ](gadāgramūrdhānaṃ) [bala-vṛddhi-karaṃ](balavṛddhikaraṃ) [śivam](śivam)
 
 ## mukta-m0-p28-v687
-catuḥ-pañca-asrakaṃ tryasraṃ śūlaṃ raudraṃ tu mukti-dam
+[catuḥ-pañca-asrakaṃ](catuḥpañcāsrakaṃ) [try-asraṃ](tryasraṃ) [śūlaṃ](śūlaṃ) [raudraṃ](raudraṃ) [tu](tu) [mukti-dam](muktidam)
 
 ## mukta-m0-p28-v688
-aṣṭāsra-ardhaṃ ca veda-asraṃ brāhmaṃ svargāya padma-vat
+[aṣṭāsro-ardhaṃ](aṣṭāsro'rdhaṃ) [ca](ca) [veda-asraṃ](vedāsraṃ) [brāhmaṃ](brāhmaṃ) [svargāya](svargāya) [padma-vat](padmavat)
 
 ## mukta-m0-p28-v689
-catur-aṣṭāsra-vṛttaṃ syāt vaiṣṇavaṃ śaṅkha-vat śubham
+[catur-aṣṭāsra-vṛttaṃ](caturaṣṭāsravṛttaṃ) [syāt](syāt) [vaiṣṇavaṃ](vaiṣṇavaṃ) [śaṅkha-va](śaṅkhava) [cchubham](cchubham)
 
 ## mukta-m0-p28-v690
-rudrāt tri-hānitaḥ śuktiḥ daṇḍaḥ digbhyaḥ tri-hānitaḥ
+[rudrāt-tri-hānitaḥ](rudrāttrihānitaḥ) [śuktiḥ](śuktir) [daṇḍo](daṇḍo) [digbhyaḥ-tri-hānitaḥ](digbhyastrihānitaḥ)
 
 ## mukta-m0-p28-v691
-kukkuṭa-aṇḍaṃ ca vāyavye bhūta-aṃśāt hi yate gadā
+[kukkuṭa-aṇḍaṃ](kukkuṭāṇḍaṃ) [ca](ca) [vāyavye](vāyavye) [bhūta-aṃśāt](bhūtāṃśāt) [hi](hi) [yate](yate) [gadā](gadā)
 
 ## mukta-m0-p28-v692
-dakṣa-aṇḍa-bhaja vaiṣṇoḥ ca ittha rekhā maṇeḥ api
+[dakṣa-aṇḍa-bhaja](dakṣāṇḍabhaja) [vaiṣṇoḥ](vaiṣṇośca) [ca](ca) [ittha](ittha) [rekhā](rekhā) [maṇer-api](maṇerapi)
 
 ## mukta-m0-p28-v693
-sphuṭitaṃ garbha-vat daṣṭaṃ sthāpayet ābhivārike
+[sphuṭitaṃ](sphuṭitaṃ) [garbha-vat](garbhavat) [daṣṭaṃ](daṣṭaṃ) [sthāpayet](sthāpayet) [ābhivārike](ābhivārike)
 
 ## mukta-m0-p28-v694
-vyakta-liṅgāni ca anyāni nānā rūpāṇi vacmi ataḥ
+[vyakta-liṅgāni](vyaktaliṅgāni) [ca](ca) [anyāni](anyāni) [nānā](nānā) [rūpāṇi](rūpāṇi) [vacmi-ataḥ](vacmyataḥ)
 
 ## mukta-m0-p28-v695
-iti lakṣaṇa-samuccaye avyakta-liṅga-lakṣaṇaṃ nāma caturthaḥ vidhiḥ
+[iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [avyakta-liṅga-lakṣaṇaṃ](avyaktaliṅgalakṣaṇaṃ) [nāma](nāma) [caturthaḥ](caturtho) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p28-v696
-pūrva-aṅgula-pramāṇena daśa-pañca-aṅgula-aṅgulāt
+[pūrva-aṅgula-pramāṇena](pūrvāṅgulapramāṇena) [daśa-pañca-aṅgula-aṅgulāt](daśapañcāṅgulāṅgulāt)
 
 ## mukta-m0-p28-v697
-kvacid hasta-pramāṇā sā kvacid ca triṃśat-aṅgulā
+[kvacit-hasta-pramāṇā](kvaciddhastapramāṇā) [sā](sā) [kvacit-ca](kvacicca) [triṃśat-aṅgulā](triṃśadaṅgulā)
 
 ## mukta-m0-p28-v698
-dvāra-ucchrayaṃ vibhajya ādau aṣṭa-dhaukaṃ vidhāya ca
+[dvāra-ucchrayaṃ](dvārocchrayaṃ) [vibhajya-ādau](vibhajyādau) [aṣṭa-dhaukaṃ](aṣṭadhaukaṃ) [vidhāya](vidhāya) [ca](ca)
 
 ## mukta-m0-p28-v699
-vidhātavyā dvi-bhāgena kanyasī pratimā ca sā
+[vidhātavyā](vidhātavyā) [dvi-bhāgena](dvibhāgena) [kanyasī](kanyasī) [pratimā](pratimā) [ca](ca) [sā](sā)
 
 ## mukta-m0-p28-v700
-madhyamā syāt dvi-bhāgena kārya-eka-aṃśena pīṭhikā
+[madhyamā](madhyamā) [syāt-dvi-bhāgena](syāddvibhāgena) [kārya-ekāṃśena](kāryaikāṃśena) [pīṭhikā](pīṭhikā)

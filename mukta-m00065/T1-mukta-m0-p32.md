@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[skull+fearless+hand+fierce](kapālābhayahastogrā) [left+etc](vāmādyā) [nine](nava) [powers](śaktayaḥ)
+[skull-fear-hand-fierce](kapālābhayahastogrā) [left-etc-nine-powers](vāmādyā navaśaktayaḥ)
 
 ## mukta-m0-p32-v777
-[tiger-skin+snake-bearing+peaceful](dvīpicarmāhibhṛcchāntaḥ) [three-eyed](tryakṣaḥ) [matted-hair+crescent-ornamented](jaṭendubhūṣitaḥ)
+[tiger-skin-snake-bearing-peaceful](dvīpicarmāhibhṛcchāntastryakṣo) [matted-lock-moon-ornamented](jaṭendubhūṣitaḥ)
 
 ## mukta-m0-p32-v778
-[six-limbed+endowed](aṅgaṣaṭkasamāyuktaḥ) [quickly](śīghraṃ) [becomes](syāt) [accomplishment-giving](siddhidāyakaḥ)
+[six-limbs-endowed](aṅgaṣaṭkasamāyuktaḥ) [quickly-siddhi-giving](śīghraṃ syātsiddhidāyakaḥ)
 
 ## mukta-m0-p32-v779
-[commentary](atra ka. pustakasyā ṭippaṇī-yuva= īśaḥ, yauvanaḥ=puruṣaḥ, vṛddhaḥ=aghora, strī=vāmadevaḥ, bālaḥ=sadyojātaḥ, iti) [youth+youthful+aged+woman+child+form](yuvayauvanavṛddhastrībālābhaḥ) [five-faced-bearing](pañcavaktrabhṛt)
+[youth-youth-old-woman-child-form-five-faced-bearing](yuvayauvanavṛddhastrībālābhaḥ pañcavaktrabhṛt)
 
 ## mukta-m0-p32-v780
-[left](vāmenā) [fear+mantra-marked](bhayamantrāṅka) [skull+lotus+full](kapālotpalapūra) [bearing](bhṛt)
+[left](vāmenā) [fear-mantra-mark](bhayamantrāṅka) [skull-lotus-full](kapālotpalapūra) [bearing](bhṛt)
 
 ## mukta-m0-p32-v781
-[red-eyed+sword+fire-like](dṛgraktāsihutāśābhāḥ) [all](sarve) [three-eyed](tryakṣāḥ) [matted-haired](jaṭānvitāḥ)
+[eye-red-sword-fire-like](dṛgraktāsihutāśābhāḥ) [all-three-eyed-matted](sarve tryakṣā jaṭānvitāḥ)
 
 ## mukta-m0-p32-v782
-[brown+brow+beard+terrible](babhrubhrūśmaśruddā?bhīma) [weapon](mastraṃ) [yellow](pītaṃ) [own-weapon](svaśastra) [bearing](bhṛt)
+[brown-brow-beard-fierce-weapon](babhrubhrūśmaśruddā?bhīmamastraṃ) [yellow-own-weapon](pītaṃ svaśastra) [bearing](bhṛt)
 
 ## mukta-m0-p32-v783
-[power](śakti) [thunderbolt+rosary+disc](vajrākṣamālāsicakrāṇi) [right](dakṣiṇe) [sometimes](kvacit)
+[power](śakti) [thunderbolt-eye-rosary-disc](vajrākṣamālāsicakrāṇi) [right-sometimes](dakṣiṇe kvacit)
 
 ## mukta-m0-p32-v784
-[one-faced](ekāsyaḥ) [five-faced](pañcavaktraḥ) [or](vā) [three-eyed](tryakṣaḥ) [matted-hair+crescent-bearing](jaṭendubhṛc) [śiva](śivaḥ)
+[one-faced-five-faced-or](ekāsyaḥ pañcavaktro vā) [three-eyed-matted-moon-bearing-shiva](tryakṣo jaṭendubhṛcchivaḥ)
 
 ## mukta-m0-p32-v785
-[corner](koṇeṣu) [and](ca) [one](eka) [rudra+etc](rudrādyāḥ) [white+black+blue+red](sitāsaṅnīlalohitāḥ)
+[corner-and-one](koṇeṣu caika) [rudra-etc-white-black-red](rudrādyāḥ sitāsaṅnīlalohitāḥ)
 
 ## mukta-m0-p32-v786
-[śiva-weapon-bearing](śivāyudhadharāḥ) [three-eyed](tryakṣāḥ) [without](vinā) [hook+sword](sṛṇyasibhyāṃ) [sometimes](kvacit)
+[shiva-weapon-bearing-three-eyed](śivāyudhadharāstryakṣāḥ) [hook-sword-without-sometimes](sṛṇyasibhyāṃ vinā kvacit)
 
 ## mukta-m0-p32-v787
-[folded-hands](puṭāñjalikarāḥ) [all](sarve) [vidyeśas](vidyeśāḥ) [one-faced](caikavaktrakāḥ)
+[folded-hands-all](puṭāñjalikarāḥ sarve) [vidyesha-one-faced](vidyeśāścaikavaktrakāḥ)
 
 ## mukta-m0-p32-v788
-[boon+fear+skull+lotus](varābhayakapālābja) [matted-hair+crescent+jinā+nāga-bearing](jaṭendvajinanāgabhṛt)
+[boon-fear-skull-lotus-matted-moon-jina-snake-bearing](varābhayakapālābjajaṭendvajinanāgabhṛt)
 
 ## mukta-m0-p32-v789
-[right](dakṣiṇe) [trident+sword+axe+fear-bearing](śūlanistriśakuṭhārābhayadhārakaḥ)
+[right-trident-sword-axe-fear-bearing](dakṣiṇe śūlanistriśakuṭhārābhayadhārakaḥ)
 
 ## mukta-m0-p32-v790
-[garland-of-skulls](muṇḍamālī) [corpse-mounted](śavārūḍhaḥ) [from-duality+to-nonduality](dvaitādvaite) [in-order](kramāt) [opinion](mataḥ)
+[garland-skull](muṇḍamālī) [corpse-mounted](śavārūḍho) [dual-non-dual-order-opinion](dvaitādvaite kramānmataḥ)
 
 ## mukta-m0-p32-v791
-[gentle](saumyaṃ) [smiling-faced](prahasitāsyaṃ) [and](ca) [crescent-crested](candramauliṃ) [matted-haired](jaṭādharam)
+[gentle-smiling-face](saumyaṃ prahasitāsyaṃ ca) [moon-crest-matted](candramauliṃ jaṭādharam)
 
 ## mukta-m0-p32-v792
-[snake-girdle-endowed](nāgendramekhalāyuktaṃ) [all-ornaments-adorned](sarvābharaṇabhūṣitam)
+[snake-girdle-endowed](nāgendramekhalāyuktaṃ) [all-ornament-ornamented](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p32-v793
-[dancing](nṛtyantaṃ) [greatly-delighted](mahāhṛṣṭam) [weapon-filled](āyudhākula) [handed](pāṇinam)
+[dancing-great-delighted-weapon-filled](nṛtyantaṃ mahāhṛṣṭamāyudhākula) [hand](pāṇinam)
 
 ## mukta-m0-p32-v794
-[strength+form](balanākārakaṃ) [arm](bāhum) [one](ekaṃ) [making](kṛtvā) [in-heart](hṛdi) [placed](sthitam)
+[strength-arm-form](balanākārakaṃ) [arm-one-making-heart-placed](bāhumekaṃ kṛtvā hṛdi sthitam)
 
 ## mukta-m0-p32-v795
-[left](vāme) [extended-arm](pratānitabhujaṃ) [properly](samyak) [making](kṛtvā) [well-beautiful](suśobhanam)
+[left-extended-arm-properly-made-beautiful](vāme pratānitabhujaṃ samyak kṛtvā suśobhanam)
 
 ## mukta-m0-p32-v796
-[all-peace-causing](sarvaśāntikaraṃ) [should-do](kuryāt) [thus](ityevaṃ) [gentle-form](saumyarūpakam)
+[all-peace-making-thus-gentle-form](sarvaśāntikaraṃ kuryādityevaṃ saumyarūpakam)
 
 ## mukta-m0-p32-v797
-[skanda+nandi+mahākāla+gaṇeśa+troop-endowed](skandanandimahākālagaṇeśagaṇasaṃyutam)
+[skanda-nandi-mahakala-ganesha-gana-accompanied](skandanandimahākālagaṇeśagaṇasaṃyutam)
 
 ## mukta-m0-p32-v798
-[with-joy](sānandai) [form-endowed](rūpasampannair) [being-looked-at](vīkṣyamāṇaṃ) [great-lord](maheśvaram)
+[with-joy-form-endowed-seen-great-lord](sānandai rūpasampannairvīkṣyamāṇaṃ maheśvaram)
 
 ## mukta-m0-p32-v799
-[before-that](tadagre) [and](ca) [dancing](pranṛtyaṃśca) [bhṛṅgī](bhṛṅgī) [should-be-done](kāryaṃ) [thin](kṛśaḥ) [very](bhṛśaḥ)
+[that-front-and-dancing-bhringi-work-thin-very](tadagre ca pranṛtyaṃśca bhṛṅgīkāryaṃ kṛśo bhṛśaḥ)
 
 ## mukta-m0-p32-v800
-[distorted](vikṛtāḥ) [sharp-nosed](tīkṣṇanāsāḥ) [and](ca) [thief+fire+etc-giving](caurāgnyādipradāḥ) [in-order](kramāt)
+[distorted-sharp-nose-etc-thief-fire-etc-giving-order](vikṛtāstīkṣṇanāsāścacaurāgnyādipradāḥ) [order](kramāt)
