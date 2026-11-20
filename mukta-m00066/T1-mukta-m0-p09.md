@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[upper-part](uttaraṃge) [great-siddhi](mahāsiddhau) [foam-net+covered](phenajālasamāvṛte)
+gloss(uttaraṃge) gloss(mahāsiddhau) gloss(phenajāla) gloss(samāvṛte)
 
 ## mukta-m0-p09-v202
-[repeated-sound+resounding](muhuḥśabdāyamāne) [and](ca) [river-stream+crowded](nadīnadasamākule)
+gloss(muhuḥśabdāyamāne) gloss(ca) gloss(nadīnada) gloss(samākule)
 
 ## mukta-m0-p09-v203
-[various-flower-group+fragrance](nānāpuṣpagaṇāmoda) [wandering-bee+swarm](bhrāṃtapuṣpaṃdhayabrajam)
+gloss(nānāpuṣpagaṇāmoda) gloss(bhrāṃtapuṣpaṃdhayabrajam)
 
 ## mukta-m0-p09-v204
-[meditate](viciṃtayen) [O-Maheśānī](maheśāni) [in-middle](tanmadhye) [golden-temple](hemamaṃdiram)
+gloss(viciṃtayen) gloss(maheśāni) gloss(tanmadhye) gloss(hemamaṃdiram)
 
 ## mukta-m0-p09-v205
-[fourfold-aims](caturvarga) [fruit-attainment](phalaprāpti) [cause-sorrow+removal](kāraṇaṃśokavāraṇam)
+gloss(caturvarga) gloss(phalaprāpti) gloss(kāraṇaṃ) gloss(śokavāraṇam)
 
 ## mukta-m0-p09-v206
-[various-gems](nānāmaṇi) [wonderful](vicitrāṇāṃ) [pillars](staṃbhānāṃ) [new-beauty](navaśobhayā)
+gloss(nānāmaṇi) gloss(vicitrāṇāṃ) gloss(staṃbhānāṃ) gloss(navaśobhayā)
 
 ## mukta-m0-p09-v207
-[moonlight+surrounded](caṃdrikābhiḥ parivṛtaṃ) [young-sun+reddened](bālātapavilohitam)
+gloss(caṃdrikābhiḥ) gloss(parivṛtaṃ) gloss(bālātapavilohitam)
 
 ## mukta-m0-p09-v208
-[well-strung-bow+Kāma](sajjacāpenakāmena) [protected](rakṣyamāṇam) [here-there](itastataḥ)
+gloss(sajjacāpenakāmena) gloss(rakṣyamāṇam) gloss(itastataḥ)
 
 ## mukta-m0-p09-v209
-[longing](utkaṇṭhā) [deity-given](devatādatta) [tail-fan+fanning](vālavyajanavījanam)
+gloss(utkaṇṭhā) gloss(devatādatta) gloss(vālavyajanavījanam)
 
 ## mukta-m0-p09-v210
-[enjoyment-instruments+endowed](bhogopakaraṇairyuktaṃ) [various](vividhaiśca) [drinking-vessels](prapānakaiḥ)
+gloss(bhogopakaraṇairyuktaṃ) gloss(vividhaiśca) gloss(prapānakaiḥ)
 
 ## mukta-m0-p09-v211
-[jest-conversation+skilled](narmālāpakasābhijñaiśceṭi) [servant-groups](vargairmanoharam)
+gloss(narmālāpakasābhijñaiśceṭi) gloss(vargairmanoharam)
 
 ## mukta-m0-p09-v212
-[treasure-deity+endowed](nidhidevatayāyuktaṃ) [silk-cloth+adorned](paṭṭāṃśukapariṣkṛtam)
+gloss(nidhidevatayāyuktaṃ) gloss(paṭṭāṃśukapariṣkṛtam)
 
 ## mukta-m0-p09-v213
-[various-gems+filled](nānāratnasamākīrṇaṃ) [four-pillar+adorned](catustaṃbhopaśobhitām)
+gloss(nānāratnasamākīrṇaṃ) gloss(catustaṃbhopaśobhitām)
 
 ## mukta-m0-p09-v214
-[there-pillar-pair+attached](tatrastaṃbhadvayāsakta) [transverse-wood+suspended](tiryagdārupalaṃbite)
+gloss(tatrastaṃbhadvayāsakta) gloss(tiryagdārupalaṃbite)
 
 ## mukta-m0-p09-v215
-[couch-high-low-gem+light](maṃcamuccāvacamaṇijyotiḥ) [cage-direction+facing](piṃjaradiṅmukham)
+gloss(maṃcamuccāvacamaṇijyotiḥ) gloss(piṃjaradiṅmukham)
 
 ## mukta-m0-p09-v216
-[Sadāśiva-body](sadāśivavapuḥ) [placed](kṣipta) [well-born-plank+shining](sujātaphalakojvalam)
+gloss(sadāśivavapuḥ) gloss(kṣipta) gloss(sujātaphalakojvalam)
 
 ## mukta-m0-p09-v217
-[extremely](atyaṃta) [soft](mṛdulaṃ) [pleasing](hṛdyaṃ) [milk-ocean](kṣīrābdhi) [white-splendor](dhavalacchaviḥ)
+gloss(atyaṃta) gloss(mṛdulaṃ) gloss(hṛdyaṃ) gloss(kṣīrābdhi) gloss(dhavalacchaviḥ)
 
 ## mukta-m0-p09-v218
-[saffron-garment](kausuṃbhavasanaṃ) [new](navyaṃ) [young-sun](bālārka) [like](sadṛśaṃ) [remember](smaret)
+gloss(kausuṃbhavasanaṃ) gloss(navyaṃ) gloss(bālārka) gloss(sadṛśaṃ) gloss(smaret)
 
 ## mukta-m0-p09-v219
-[tied-braid-knot](unnaddhakabarīpāśaṃ) [musk-tilaka+shining](kastūrītilakojvalam)
+gloss(unnaddhakabarīpāśaṃ) gloss(kastūrītilakojvalam)
 
 ## mukta-m0-p09-v220
-[pearl-necklace+charming](muktāhāreṇaramyeṇa) [adorned-neck](vibhūṣitaśirodharam)
+gloss(muktāhāreṇaramyeṇa) gloss(vibhūṣitaśirodharam)
 
 ## mukta-m0-p09-v221
-[always](satataṃ) [joined-instrument+thereafter-cloth](yuktayaṃtratvādanaṃbara) [own-form](nijākṛtim)
+gloss(satataṃ) gloss(yuktayaṃtratvādanaṃbara) gloss(nijākṛtim)
 
 ## mukta-m0-p09-v222
-[nail-scratches](nakhakṣataiśca) [various](vividhaiścuṃbanaiśca) [kisses](cuṃbanaiśca) [hundreds](paraḥśataiḥ)
+gloss(nakhakṣataiśca) gloss(vividhaiścuṃbanaiśca) gloss(paraḥśataiḥ)
 
 ## mukta-m0-p09-v223
-[senses](karaṇairbahuvinyāsai) [many-arrangements](bahuvinyāsai) [embraces](rāśleṣairbahubhedibhiḥ) [many-varieties](bahubhedibhiḥ)
+gloss(karaṇairbahuvinyāsai) gloss(rāśleṣairbahubhedibhiḥ)
 
 ## mukta-m0-p09-v224
-[that-goddess](tāṃ devīmapitaddhyāna) [not-that-meditation](apitaddhyāna) [sequence](krameṇamatimān) [wise-remember](smaret)
+gloss(tāṃ) gloss(devīmapitaddhyāna) gloss(krameṇamatimān) gloss(smaret)
 
 ## mukta-m0-p09-v225
-[oneself-unagitated+becoming](svayamavyākulobhūtvā) [motionless-senses+mind](niścalendriyamānasaḥ)
+gloss(svayamavyākulobhūtvā) gloss(niścalendriyamānasaḥ)

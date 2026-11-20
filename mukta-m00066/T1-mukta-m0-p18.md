@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-anaṃga-śakti aṣṭau tu pūjanīyā manīṣibhiḥ
+[anaṃga-śakti](anaṃgaśaktayo) [aṣṭau](aṣṭau) [tu](tu) [pūjanīyā](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-anaṃga-madana anaṃga madanāturayā saha
+[anaṃga-madana-anaṃga](anaṃgamadanānaṃga) [madana-āturayā](madanāturayā) [saha](saha)
 
 ## mukta-m0-p18-v428
-anaṃga-mālinī ca aṣṭau pūjanīyā vidhānataḥ
+[anaṃga-mālinī](anaṃgamālinī) [ca](ca) [aṣṭau](aṣṭau) [pūjanīyā](pūjanīyā) [vidhānataḥ](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-ānaṃda-cakra ānaṃda kolāhala-vivarddhanam
+[ānaṃda-cakra](ānaṃdacakram) [ānaṃda](ānaṃda) [kolāhala-vivarddhana](kolāhalavivarddhanam)
 
 ## mukta-m0-p18-v430
-taṭit-prabhā samullāsa-piṃjaraiḥ kāma-raśmibhiḥ
+[taṭit-prabhā](taṭitprabhā) [samullāsa-piṃjara](samullāsapiṃjaraiḥ) [kāma-raśmi](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-anaṃga-śakti saṃkṣobhāṃ nāḍībhyaḥ galitaṃ navam
+[anaṃga-śakti-saṃkṣobha](anaṃgaśaktisaṃkṣobhāṃ) [nāḍībhyaḥ-galita](nāḍībhyogalitaṃ) [navam](navam)
 
 ## mukta-m0-p18-v432
-śṛṃgāra-vāhinī-pūra pūrṇa-rāgāṃ kurāruṇam
+[śṛṃgāra-vāhinī-pūra](śṛṃgāravāhinīpūra) [pūrṇa-rāgā](pūrṇarāgāṃ) [kurāruṇam](kurāruṇam)
 
 ## mukta-m0-p18-v433
-manmatha-drava saṃdoha juṣṭam artha-prabhedanaiḥ
+[manmatha-drava-saṃdoha](manmathadravasaṃdoha) [juṣṭam](juṣṭam) [artha-prabhedanaiḥ](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-kā iyaṃ caṃdrakalā-nāma kutra tiṣṭhati śaṃkara
+[kaḥ](keyaṃ) [caṃdrakalā-nāma](caṃdrakalānāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-śṛṇu kāma-kalā-nāma nāḍī-bhoga-ambu-vāhinī
+[śṛṇu](śṛṇukāmakalānāma) [kāma-kalā-nāma](kāmakalānāma) [nāḍī-bhoga-ambu-vāhinī](nāḍībhogāṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-nāḍī-cakraṃ samastaṃ ca tayā vyāptaṃ varānane
+[nāḍī-cakra](nāḍīcakraṃ) [samasta](samastaṃ) [ca](ca) [tayā](tayā) [vyāpta](vyāptaṃ) [varānane](varānane)
 
 ## mukta-m0-p18-v437
-kāścit ānaṃda-vāhinyaḥ eka eva ala-vāhinī
+[kāścit-ānaṃda-vāhinī](kāścidānaṃdavāhinya) [eka](eka) [eva](eva) [amala-vāhinī](amalavāhinī)
 
 ## mukta-m0-p18-v438
-aṣṭau bhoga-ambu-vāhinyaḥ tāsu caṃdrakalā parā
+[aṣṭau-bhoga-ambu-vāhinī](aṣṭaubhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdrakalā](caṃdrakalā) [parā](parā)
 
 ## mukta-m0-p18-v439
-caṃdra-rekhā caṃdravatī tathā caṃdra-mahodayā
+[caṃdra-rekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdra-mahodayā](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-etāḥ bhoga-ambu-vāhinyaḥ svāṃśaiḥ caṃdrakalā-āśritāḥ
+[etāḥ-bhoga-ambu-vāhinī](etābhogāṃbuvāhinya) [sva-aṃśaiḥ-caṃdrakalā-āśritāḥ](svāṃśaiścaṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-pradhāna-bhūtā vilasat vidyut-dāma sama-prabhā
+[pradhāna-bhūtā](pradhānabhūtā) [vilasad-vidyut-dāma-sama-prabhā](vilasadvidyuddāmasamaprabhā)
 
 ## mukta-m0-p18-v442
-sarva-nāḍī-mūla-bhūtaṃ nābhi-cakraṃ samāśritā
+[sarva-nāḍī-mūla-bhūta](sarvanāḍīmūlabhūtaṃ) [nābhi-cakra](nābhicakraṃ) [samāśritā](samāśritā)
 
 ## mukta-m0-p18-v443
-tat mukha-udghāṭanaṃ loke durlabhaṃ parameśvari
+[tat-mukha-udghāṭana](tanmukhotghāṭanaṃ) [loke](loke) [durlabha](durlabhaṃ) [parameśvari](parameśvari)
 
 ## mukta-m0-p18-v444
-dvitrāṇām eva jāyeta sahasreṣu atha kauliṣu
+[dvi-trāṇām-eva](dvitrāṇāmeva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣvathakauliṣu) [athakauliṣu](athakauliṣu)
 
 ## mukta-m0-p18-v445
-yasya liṃga-īśvara-āseka sakṛt vā api iha janmani
+[yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt-vā-api-īha-janmani](sakṛdvāpīhajanmani)
 
 ## mukta-m0-p18-v446
-anirvācyasya nirvāṇa padavī na daviyasī
+[anirvācyasya](anirvācyasya) [nirvāṇa-padavī-nadaviyasī](nirvāṇapadavīnadaviyasī)
 
 ## mukta-m0-p18-v447
-samayasya parijñānāt upacārasya kalpanāt
+[samayasya](samayasya) [parijñānāt](parijñānādupacārasya) [upacārasya](upacārasya) [kalpanāt](kalpanāt)
 
 ## mukta-m0-p18-v448
-kadācit kvacid unmeṣaṃ mukha-udghāṭana-lakṣaṇam
+[kadācit](kadācit) [kvacid](kvacidunmeṣaṃ) [unmeṣa](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇam](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-tad arthāni eva śāstrāṇi tad arthāḥ ca pravṛttayaḥ
+[tat-arthāni](tadarthānyevaśāstrāṇi) [eva-śāstrāṇi](evaśāstrāṇi) [tat-arthāḥ](tadarthāśca) [ca](ca) [pravṛttayaḥ](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-tasmāt caṃdrakalā-nāḍyāṃ bhoga-amṛta-mahodadhim
+[tasmāt-caṃdrakalā-nāḍyāṃ](tasmāccaṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhim](bhogāmṛtamahodadhim)
