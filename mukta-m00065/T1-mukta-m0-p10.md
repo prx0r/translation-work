@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-from-renunciation(perishes)(prāvrājyānnaśyate) first(pūrvaṃ) from-woman-union(strīyogāt) then(aparaṃ) so(tathā)
+prāvrājyāt+naśyate pūrvaṃ strī-yogāt+aparaṃ tathā
 
 ## mukta-m0-p10-v227
-three-ear-born(trikarṇotthāḥ) three-eared(trikarṇāḥ) three-skull-self(trikapānātma) ear-born(karṇakā)
+tri-karṇa-utthāḥ tri-karṇāḥ ca tri-kapāla-ātma karṇakā
 
 ## mukta-m0-p10-v228
-ash-sprout(bhasmāṅkuraḥ) guru(guruḥ) boast-lip-born(katthosthaḥ) his-sons(tatsutāḥ) kauśika-etc(kauśikādayaḥ)
+bhasma-aṅkuraḥ tu kattha-osthaḥ tat-sutāḥ kauśika-ādayaḥ
 
 ## mukta-m0-p10-v229
-kingdom-destruction-causing(rāṣṭrakṣayakarāḥ) these(hyete) and(ye) ca(paṣāṇḍinaḥ) men(narāḥ)
+rāṣṭra-kṣaya-karāḥ hi ete ye ca paṣāṇḍinaḥ narāḥ
 
 ## mukta-m0-p10-v230
-by-scripture-view(śāstrāvalokanāt) eva(eva) caṇḍeśaḥ(caṇḍeśaḥ) his(his) ruler(śāsakaḥ)
+śāstra-avalokanāt eva caṇḍeśaḥ tasya śāsakaḥ
 
 ## mukta-m0-p10-v231
-he(sa) goes(yāti) hell(narakaṃ) immediately(sadyo) with-sacrificers(yājñikaiḥ) with-teacher(daiśikaḥ)
+sa yāti narakaṃ sadyaḥ yājñikaiḥ saha daiśikaḥ
 
 ## mukta-m0-p10-v232
-their(teṣām) conduct(ācaraṇāt) always(nityam) teacher(ācārya) thus(iti) is-called(kīrtyate)
+teṣām ācaraṇāt nityam ācāryaḥ iti kīrtyate
 
 ## mukta-m0-p10-v233
-therefore(tasmāt) not(na) human(mānavīṃ) mind(buddhiṃ) make(kārayet) toward-teacher(daiśikaṃ) regarding(prati)
+tasmāt na mānavīṃ buddhiṃ kārayet daiśikaṃ prati
 
 ## mukta-m0-p10-v234
-five-faces(pañcavaktrāṇi) of-god(devasya) for-five-āgamas(pañcāgamavivṛddhaye)
+pañca-vaktrāṇi devasya pañca-āgama-vivṛddhaye
 
 ## mukta-m0-p10-v235
-blazing(dīptaṃ) subtle(sūkṣmaṃ) and(ca) thousand(sāhasram) rayed(aṃśuma) very-bright(suprabhaṃ) ten(daśa)
+dīptaṃ sūkṣmaṃ ca sāhasraṃ aṃśumaḥ su-prabhaṃ daśa
 
 ## mukta-m0-p10-v236
-victory(vijayaṃ) supreme-lordship(pāramaiśvaryaṃ) breath-exhalation-named(niśvāsodgītasaṃjñakam)
+vijayaṃ pāra-maiśvaryaṃ niśvāsa-udgīta-saṃjñakam
 
 ## mukta-m0-p10-v237
-narasiṃha(narasiṃhaṃ) moon-laugh(candrahāsaṃ) hero(vīraṃ) svāyambhu(svāyambhu) raurava(rauravam)
+narasiṃhaṃ candra-hāsaṃ vīraṃ svāyambhu-rauravam
 
 ## mukta-m0-p10-v238
-rudra-divisions(rudrabhedāḥ) declared(samākhyātā) ten-eighteen-twenty(daśāṣṭādaśa) upward(ūrdhvagāḥ)
+rudra-bhedāḥ samākhyātā daśa-aṣṭādaśa ca ūrdhva-gāḥ
 
 ## mukta-m0-p10-v239
-five-elements(pañcabhūta) division(vibhāgaṃ) ca(ca) void-division(śūnyabheda) determination(vinirṇayam)
+pañca-bhūta vibhāgaṃ ca śūnya-bheda vinirṇayam
 
 ## mukta-m0-p10-v240
-kamboja(kambojaṃ) kambala(kambalaṃ) kaṅka(kaṅkaṃ) kālakuṇḍa(kālakuṇḍaṃ) kaṭāhaka(kaṭāhakam)
+kambojaṃ kambalaṃ kaṅkaṃ kāla-kuṇḍaṃ kaṭāhakam
 
 ## mukta-m0-p10-v241
-of-gāruḍa(gāruḍasya) tu(tu) these(ime) divisions(bhedāḥ) twenty-eight(aṣṭāviṃśatir) declared(īritāḥ)
+gāruḍasya tu ime bhedāḥ aṣṭā-viṃśatiḥ īritāḥ
 
 ## mukta-m0-p10-v242
-asitāṅga(asitāṅgaṃ) ruru(ruruṃ) ca(ca) eva(eva) kapālīśa(kapālīśaṃ) collection(samuccayam)
+asitāṅgaṃ ruruṃ ca eva kapālīśaṃ samuccayam
 
 ## mukta-m0-p10-v243
-bhīmāṅga(bhīmāṅgaṃ) ḍāmarārāva(ḍāmarārāvaṃ) bhīma(bhīmaṃ) vetālamardaka(vetālamardakam)
+bhīmāṅgaṃ ḍāmarā-rāvaṃ bhīmaṃ vetāla-mardakam
 
 ## mukta-m0-p10-v244
-triśira(triśiraṃ) ca(ca) eka-pāda(ekapādaṃ) tu(tu) siddhayogeśvarī-mata(siddhayogeśvarīmatam)
+tri-śiraṃ ca eka-pādaṃ tu siddha-yogeśvarī-matam
 
 ## mukta-m0-p10-v245
-viśvarikaṇṭha(viśvarikaṇṭha) contraction(saṅkocaṃ) tilaka-garden(tilakodyāna) bhairava(bhairavam)
+viśva-rikaṇṭha saṅkocaṃ tilaka-udyāna-bhairavam
 
 ## mukta-m0-p10-v246
-sixty-four(catuḥṣaṣṭi) measure(pramāṇāni) from-southern-face(dakṣiṇāsyāt) bhavāni(bhavāni) ca(ca)
+catuḥ-ṣaṣṭi-pramāṇāni dakṣiṇa-āsyāt bhavāni ca
 
 ## mukta-m0-p10-v247
-hand-worship(karapūjā) procedure(vidhānaṃ) tu(tu) vīṇā-tantra(vīṇātantraṃ) that-next(taduttaram)
+kara-pūjā-vidhānaṃ tu vīṇā-tantraṃ tat-uttaram
 
 ## mukta-m0-p10-v248
-siddha-nityodaya(siddhanityodayaṃ) jyeṣṭha(jyeṣṭhaṃ) cintāmaṇi-mahodaya(cintāmaṇimahodayam)
+siddha-nitya-udayaṃ jyeṣṭhaṃ cintāmaṇi-mahodayam
 
 ## mukta-m0-p10-v249
-ānanda-rudra-bhadra-named(ānandarudrabhadrākhyaṃ) kiṅkara(kiṅkaraṃ) kiṅkara-follower(kiṅkarānugam)
+ānanda-rudra-bhadra-ākhyaṃ kiṅkaraṃ kiṅkara-anugam
 
 ## mukta-m0-p10-v250
-vāmada(vāmadaṃ) vāmadeva-spoken(vāmadevoktaṃ) twenty-four-division-born(caturviṃśatibhedagam)
+vāmadaṃ vāmadeva-uktam catur-viṃśati-bheda-gam

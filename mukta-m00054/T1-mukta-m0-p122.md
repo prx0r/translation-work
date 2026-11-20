@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-[salutation](bhikṣavenamaḥ) [salutation](bhikṣurūpāyanamaḥ) [salutation](vipaṇāyanamaḥ)
+to-beggar-homage to-beggar-form-homage to-market-homage
 
 ## mukta-m0-p122-v3027
-[salutation](vajrahastāyanamaḥ) [salutation](viṣkambhinenamaḥ)
+to-thunderbolt-holder-homage to-viṣkambhin-homage
 
 ## mukta-m0-p122-v3028
-[salutation](camūstambhanāyanamaḥ) [salutation](vṛttāvṛttakarāyanamaḥ)
+to-army-stopping-homage to-round-and-nonround-maker-homage
 
 ## mukta-m0-p122-v3029
-[salutation](tālāyanamaḥ) [salutation](madhavenamaḥ) [salutation](madhukalocanāyanamaḥ)
+to-palm-homage to-madhava-homage to-sweet-eyed-homage
 
 ## mukta-m0-p122-v3030
-[salutation](vācaspatyāyanamaḥ) [salutation](vājasanāyanamaḥ)
+to-speech-lord-homage to-vajasana-homage
 
 ## mukta-m0-p122-v3031
-[salutation](āśramapūjitāyanamaḥ) [salutation](brahmacāriṇenamaḥ)
+to-hermitage-honored-homage to-brahmacarin-homage
 
 ## mukta-m0-p122-v3032
-[salutation](lokacāriṇenamaḥ) [salutation](sarvacāriṇenamaḥ) [salutation](vicāravidenamaḥ)
+to-world-wanderer-homage to-all-wanderer-homage to-inquiry-knower-homage
 
 ## mukta-m0-p122-v3033
-[salutation](īśānāyanamaḥ) [salutation](īśvarāyanamaḥ) [salutation](kālāyanamaḥ)
+to-ishana-homage to-ishvara-homage to-time-homage
 
 ## mukta-m0-p122-v3034
-[salutation](niśācāriṇenamaḥ) [salutation](pinākadhṛṣenamaḥ) [salutation](nimittasthāyanamaḥ)
+to-night-wanderer-homage to-pinaka-holder-homage to-omen-standing-homage
 
 ## mukta-m0-p122-v3035
-[salutation](nimittāyanamaḥ) [salutation](nandayenamaḥ) [salutation](nandikarāyanamaḥ)
+to-omen-homage to-delighter-homage to-nandi-maker-homage
 
 ## mukta-m0-p122-v3036
-[salutation](harayenamaḥ) [salutation](nandīśvarāyanamaḥ) [salutation](nandinenamaḥ)
+to-hara-homage to-nandishvara-homage to-nandin-homage
 
 ## mukta-m0-p122-v3037
-[salutation](nihantrenamaḥ) [salutation](kālāyanamaḥ) [salutation](brahmaṇenamaḥ)
+to-slayer-homage to-time-homage to-brahman-homage
 
 ## mukta-m0-p122-v3038
-[salutation](pitāmahāyanamaḥ) [salutation](caturmmukhāyanamaḥ)
+to-grandfather-homage to-four-faced-homage
 
 ## mukta-m0-p122-v3039
-[salutation](mahāliṅgāyanamaḥ) [salutation](cāruliṅgāyanamaḥ)
+to-great-linga-homage to-beautiful-linga-homage
 
 ## mukta-m0-p122-v3040
-[salutation](liṅgādhyakṣāyanamaḥ) [salutation](surādhyakṣāyanamaḥ)
+to-linga-superintendent-homage to-god-superintendent-homage
 
 ## mukta-m0-p122-v3041
-[salutation](yogādhyakṣāyanamaḥ) [salutation](yugāvahāyanamaḥ)
+to-yoga-superintendent-homage to-yuga-bearer-homage
 
 ## mukta-m0-p122-v3042
-[salutation](bījādhyakṣāyanamaḥ) [salutation](bījakarttrenamaḥ)
+to-seed-superintendent-homage to-seed-maker-homage
 
 ## mukta-m0-p122-v3043
-[salutation](adhyātmānugatāyanamaḥ) [salutation](balāyanamaḥ) [salutation](itihāsāyanamaḥ)
+to-self-pervading-homage to-strength-homage to-history-homage
 
 ## mukta-m0-p122-v3044
-[salutation](vaśyāyanamaḥ) [salutation](vaśakarāyanamaḥ) [salutation](kalayenamaḥ)
+to-subduing-homage to-subduer-homage to-calculating-homage
 
 ## mukta-m0-p122-v3045
-[salutation](lokakarttrenamaḥ) [salutation](paśupatayenamaḥ) [salutation](mahākarttrenamaḥ)
+to-world-maker-homage to-pashupati-homage to-great-maker-homage
 
 ## mukta-m0-p122-v3046
-[salutation](anauṣadhāyanamaḥ) [salutation](akṣarāyanamaḥ) [salutation](paramabrahmaṇenamaḥ)
+to-without-medicine-homage to-imperishable-homage to-supreme-brahman-homage
 
 ## mukta-m0-p122-v3047
-[salutation](balavatenamaḥ) [salutation](śakrāyanamaḥ) [salutation](nītayenamaḥ)
+to-strong-homage to-shakra-homage to-policy-homage
 
 ## mukta-m0-p122-v3048
-[salutation](anītayenamaḥ) [salutation](śuddhātmanenamaḥ) [salutation](śuddhāyanamaḥ)
+to-non-policy-homage to-pure-soul-homage to-pure-homage
 
 ## mukta-m0-p122-v3049
-[salutation](mānyāyanamaḥ) [salutation](gatāgatāyanamaḥ) [salutation](bahuprasādāyanamaḥ)
+to-honorable-homage to-going-and-coming-homage to-much-grace-homage
 
 ## mukta-m0-p122-v3050
-[salutation](vedakārāyanamaḥ) [salutation](mantrakārāyanamaḥ) [salutation](viduṣenamaḥ)
+to-veda-maker-homage to-mantra-maker-homage to-knower-homage
