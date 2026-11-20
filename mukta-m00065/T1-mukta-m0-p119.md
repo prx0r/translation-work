@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-viśrāmya (resting) ekām (one) tato (then) rātriṃ (night) gomayena (with-cow-dung) vilepayet (smear)
+[resting](viśrāmya) [one](ekāṃ) [then](tato) [night](rātriṃ) [with-cow-dung](gomayena) [smear](vilepayet)
 
 ## mukta-m0-p119-v2952
-śaṇaphalyāṅghikāṣāyai (with-hemp-fruit-decoction) stopalatārasena (with-stone-creeper-juice) vā (or)
+[with-hemp-fruit-decoction](śaṇaphalyāṅghikāṣāyai) [with-stone-creeper-juice](stopalatārasena) [or](vā)
 
 ## mukta-m0-p119-v2953
-utsvinna (steamed) māṣatoyena (with-bean-water) svinnabilvāmbunā (with-steamed-bilva-water) api (also) vā (or)
+[steamed](utsvinna) [with-mung-bean-water](māṣatoyena) [or](vā) [with-steamed-bilva-water](svinnabilvāmbunāpi)
 
 ## mukta-m0-p119-v2954
-tataḥ (then) ulūkhalādyaiḥ (with-mortar-etc) tu (indeed) sthūla-cūrṇāni (coarse-powders) kārayet (make)
+[then](tataś) [with-mortar-etc](colūkhalādyaistu) [coarse-powders](sthūlacūrṇāni) [make](kārayet)
 
 ## mukta-m0-p119-v2955
-sthālyāgarbhe (in-pot-interior) tu (indeed) saṃsthāpya (placing) tataḥ (then) dravyāṇi (materials) niḥkṣipet (put-in)
+[in-pot-interior](sthālyāgarbhe) [tu](tu) [placing](saṃsthāpya) [then](tato) [drugs](drayāṇi) [put](niḥkṣipet)
 
 ## mukta-m0-p119-v2956
-sikatā (sand) gavya-dugdhāni (cow-milks) sarja-taila-atasī-rajaḥ (resin-oil-flax-powder)
+[with-sand](sikrāta) [cow-milks](gavyadugdhāni) [sal-resin-oil](sarjatailātasīrajaḥ)
 
 ## mukta-m0-p119-v2957
-āmrātaka-ambubhiḥ (with-hog-plum-water) piṣṭam (ground) sthūlāsyā (coarse-mouthed) dugdhikā (milk-plant) āhvayā (called)
+[with-mango-fruit-water](āmrātakāmbubhiḥ) [ground](piṣṭaṃ) [thick-mouthed](sthūlāsyā) [milk-named](dugdhi) [kāhvayā](kāhvayā)
 
 ## mukta-m0-p119-v2958
-kvāthena (with-decoction) meṣa-śṛṅgasya (of-ram-horn) atasī-cūrṇa-miśritam (mixed-with-flax-powder)
+[with-decoction](kvāthena) [of-ram-horn](meṣaśṛṅgasya) [flax-powder-mixed](atasīcūrṇamiśritam)
 
 ## mukta-m0-p119-v2959
-vajra-lepaḥ (diamond-plaster) samakhyātaḥ (well-known) tathā (thus) sarja-samanvitaḥ (with-resin)
+[vajra-lepa](vajralepaḥ) [well-known](samakhyātaḥ) [thus](tathā) [with-sal-resin](sarjasamanvitaḥ)
 
 ## mukta-m0-p119-v2960
-madhūcchiṣṭena (with-beeswax) kalkaiḥ (with-pastes) ca (and) śāṇajaiḥ (hemp-made) sudṛḍhaiḥ (strong) navaiḥ (new)
+[with-beeswax](madhūcchiṣṭena) [with-pastes](kalkaiśca) [hemp-born](śāṇajaiḥ) [strong](sudṛḍhair) [new](navaiḥ)
 
 ## mukta-m0-p119-v2961
-atasī-taila-sammiśram (mixed-with-flax-oil) mardayitvā (rubbing) supācitam (well-cooked)
+[with-flax-oil-mixed](atasītailasammiśraṃ) [rubbing](mardayitvā) [well-cooked](supācitam)
 
 ## mukta-m0-p119-v2962
-suraveśma-gṛha-ādīnām (of-temples-houses-etc) bhūmi-bandhaḥ (ground-bond) nigadyate (is-said)
+[of-gods-house-etc](suraveśmagṛhādīnāṃ) [ground-bond](bhūmibandho) [declared](nigadyate)
 
 ## mukta-m0-p119-v2963
-sthiratoya-upamā (like-still-water) kāryā (to-be-made) bhūmiḥ (ground) tu (indeed) sutalā (well-level) samā (even)
+[firm-water-like](sthiratoyopamā) [be-made](kāryā) [ground](bhūmiḥ) [tu](tu) [level](sutalā) [even](samā)
 
 ## mukta-m0-p119-v2964
-tat-kalkam (that-paste) kārayet (make) piṇḍam (lump) viśoṣyam (to-be-dried) piṇḍam (lump) ātape (in-sun)
+[that-paste](tatkalkaṃ) [make](kārayet) [lump](piṇḍaṃ) [to-be-dried](viśoṣyaṃ) [lump](piṇḍam) [in-sun](ātape)
 
 ## mukta-m0-p119-v2965
-tato (then) maṇḍena (with-gruel) saṃmardya (rubbing) bhūmi-bandham (ground-bond) tu (indeed) kārayet (make)
+[then](tato) [with-gruel](maṇḍena) [rubbing](saṃmardya) [ground-bond](bhūmibandhaṃ) [tu](tu) [make](kārayet)
 
 ## mukta-m0-p119-v2966
-kuryāt (make) bhūmim (ground) samam (level) ramyam (pleasant) susthitam (well-set) jala-pūritam (water-filled)
+[make](kuryād) [ground](bhūmiṃ) [level](samaṃ) [pleasant](ramyaṃ) [well-established](susthitaṃ) [water-filled](jalapūritam)
 
 ## mukta-m0-p119-v2967
-dravyam (material) kāla-anurūpeṇa (according-to-time) yojayet (apply) bhāga-sammitam (measured-in-parts)
+[drug](dravyaṃ) [according-to-time](kālānurūpeṇa) [apply](yojayet) [portion-measured](bhāgasammitam)
 
 ## mukta-m0-p119-v2968
-grīṣme (in-summer) nu (indeed) pañca-bhāgāḥ (five-parts) syuḥ (are) śīta-kāle (in-cold-season) tathā (thus) trayaḥ (three)
+[in-summer](grīyme) [nu](nu) [five-parts](pañcabhāgāḥ) [be](syuḥ) [in-cold-season](śītakāle) [thus](tathā) [three](trayaḥ)
 
 ## mukta-m0-p119-v2969
-evam (thus) dattvā (giving) tu (indeed) yaḥ (who) pūrvam (before) bandhaḥ (bond) atra (here) kathitaḥ (said) kṣiteḥ (of-earth)
+[thus](evaṃ) [giving](dattvā) [tu](tu) [yaḥ](yaḥ) [before](pūrvaṃ) [bond](bandho) [here](atra) [said](kathitaḥ) [of-earth](kṣiteḥ)
 
 ## mukta-m0-p119-v2970
-toyena (with-water) hata-kūrcam (beaten-brush) tu (indeed) dāpayet (apply) tat (that) vicakṣaṇaḥ (expert)
+[with-water](toyena) [beaten-brush](hatakūrcaṃ) [tu](tu) [give](dāpayet) [that](tad) [expert](vicakṣaṇaḥ)
 
 ## mukta-m0-p119-v2971
-śālmalī-tinduka-ādīnām (of-silk-cotton-ebony-etc) bhūmi-bandhe (in-ground-bond) praśasyate (is-praised)
+[of-śālmalī-tinduka-etc](śālmalītindukādīnāṃ) [in-ground-bond](bhūmibandhe) [praised](praśasyate)
 
 ## mukta-m0-p119-v2972
-tāvat (so-long) varṣa-sahasrāṇi (thousand-years) kartā (maker) nandati (rejoices) tat-pure (in-that-city)
+[so-many-thousand-years](tāvadvarṣasahasrāṇi) [maker](kartā) [rejoices](nandati) [in-that-city](tatpure)
 
 ## mukta-m0-p119-v2973
-pañcamaḥ (fifth) kāladaṇḍa-ākhyaḥ (named-time-staff) sānvayāḥ (with-descendants) phala-dāyakāḥ (fruit-giving)
+[fifth](pañcamaḥ) [time-rod-named](kāladaṇḍākhyaḥ) [with-descendants](sānvayāḥ) [fruit-giving](phaladāyakāḥ)
 
 ## mukta-m0-p119-v2974
-vibhrāntim (confusion) vibhramaḥ (delusion) kuryāt (causes) śāsakaḥ (ruler) śāsayet (punishes) sadā (always)
+[confusion](vibhrāntiṃ) [bewilderment](vibhramaḥ) [makes](kuryāc) [chāsaka](śāsakaḥ) [always](sadā) [punishes](śāsayetsadā)
 
 ## mukta-m0-p119-v2975
-ete (these) sura-gṛhe (in-divine-house) vighnāḥ (obstacles) yāvat (until) te (they) tu (indeed) na (not) pūjitāḥ (worshipped)
+[these](ete) [in-gods-house](suragṛhe) [obstacles](vighnā) [until](yāvat) [they](te) [tu](tu) [not](na) [worshipped](pūjitāḥ)
