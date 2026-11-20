@@ -5,73 +5,73 @@
 [thus](iti) [eighteen](aṣṭādaśa) [images](bimbāni) [told](kathitāni) [here](atra) [by-number](saṃkhyayā)
 
 ## mukta-m0-p20-v477
-[become](bhaveyuḥ) [worms](kṛmayaḥ) [in-womb](garbhe) [destruction](nāśaḥ) [of-body-and-wealth](dehārthayoḥ) [thereafter](tataḥ)
+[would-be](bhaveyuḥ) [worms](kṛmayo) [in-embryo](garbhe) [destruction](nāśaḥ) [of-body-and-wealth](deha-arthayoḥ) [thereafter](tataḥ)
 
 ## mukta-m0-p20-v478
 [by-that](tena) [king](rājā) [and](ca) [minister](mantrī) [and](ca) [maker](kārakaḥ) [dies](mriyate) [in-order](kramāt)
 
 ## mukta-m0-p20-v479
-[red-painted](raktacitre) [and](ca) [horned](śṛṅgī) [would-be](syāt) [by-that](tayā) [grief-fear](śokabhayam) [often](muhuḥ)
+[in-red-image](raktacitre) [and](ca) [horned](śṛṅgī) [would-be](syāt) [by-that](tayā) [grief-fear](śoka-bhayaṃ) [repeatedly](muhuḥ)
 
 ## mukta-m0-p20-v480
-[black-painted](kṛṣṇacitre) [and](ca) [cow-destruction](gonāśaḥ) [he](saḥ) [many-disease-causing](anekavyādhikārakaḥ)
+[in-black-image](kṛṣṇacitre) [and](ca) [cow-destruction](go-nāśaḥ) [he](saḥ) [many-disease-causing](aneka-vyādhi-kārakaḥ)
 
 ## mukta-m0-p20-v481
-[seven](sapta) [these](etāni) [but](tu) [paintings](citrāṇi) [to-be-known](jñeyāni) [by-external-marks](bāhyalakṣaṇaiḥ)
+[seven](sapta) [these](etāni) [indeed](tu) [images](citrāṇi) [known](jñeyāni) [by-external-marks](bāhya-lakṣaṇaiḥ)
 
 ## mukta-m0-p20-v482
-[four-modification-difference](caturvikārabhedena) [womb](garbham) [know](vidyāt) [by-plaster](pralepataḥ)
+[by-four-modification-difference](catur-vikāra-bhedena) [embryo](garbhaṃ) [know](vidyāt) [by-plaster](pralepataḥ)
 
 ## mukta-m0-p20-v483
-[saurāṣṭrī](saurāṣṭrī) [palm-joined](tālasaṃyuktam) [with-sauvīra](sauvīreṇa) [and](ca) [grind](peṣayet)
+[saurashtri](saurāṣṭrī) [with-palm](tāla-saṃyuktam) [sauvira](sauvīreṇa) [and](ca) [grind](peṣayet)
 
 ## mukta-m0-p20-v484
-[bhṛṅgāhī](bhṛṅgāhī) [black-fish](kṛṣṇamatsyam) [or](vā) [knowing](jñātvā) [those](tāḥ) [fault-giving](doṣadāḥ) [abandon](tyajet)
+[bhṛṅga-ahi](bhṛṅga-ahi) [black-fish](kṛṣṇa-matsyam) [or](vā) [knowing](jñātvā) [those](tāḥ) [fault-giving](doṣa-dāḥ) [abandon](tyajet)
 
 ## mukta-m0-p20-v485
-[ground-thus](piṣṭvā) [equal-part](samabhāgam) [but](tu) [woman](nārī) [with-milk](kṣīreṇa) [anoint](lepayet)
+[having-ground](piṣṭvā) [thus](evam) [equal-part](sama-bhāgam) [but](tu) [woman](nārī) [with-milk](kṣīreṇa) [anoint](lepayet)
 
 ## mukta-m0-p20-v486
-[by-that](tena) [of-maker](kartuḥ) [becomes-death](bhavenmṛtyuḥ) [therefore](tasmāt) [her](tām) [in-water](salile) [throw](kṣipet)
+[by-that](tena) [maker's](kartuḥ) [death](bhavet) [mṛtyuḥ](mṛtyuḥ) [therefore](tasmāt) [her](tām) [in-water](salile) [throw](kṣipet)
 
 ## mukta-m0-p20-v487
-[day-night-stayed](ahorātroṣite) [blood](raktaṃ) [to-be-abandoned](tyājyam) [with-waves](ūrmānvitam) [and](ca) [which](yat)
+[overnight-stayed](ahorātra-uṣite) [blood](raktam) [reject](tyājyam) [wave-possessed](ūrma-anvitam) [and](ca) [which](yat)
 
 ## mukta-m0-p20-v488
-[sharp](tīkṣṇam) [with-rudrajaṭā](rudrajaṭāyuktam) [with-sheep-milk](avikṣīraiḥ) [grind](prapeṣya) [and](ca)
+[sharp](tīkṣṇam) [rudra-jata-possessed](rudrajaṭā-yuktam) [with-sheep-milk](avikṣīraiḥ) [grind](prapeṣya) [and](ca)
 
 ## mukta-m0-p20-v489
-[of-two](dvayoḥ) [two-formed](dvirūpakam) [in-womb](garbhe) [knowing](jñātvā) [earlier-fault-giving](prāgdoṣadān) [abandon](tyajet)
+[of-two](dvayoḥ) [double-form](dvirūpakam) [in-embryo](garbhe) [knowing](jñātvā) [prior-fault-giving](prāg-doṣa-dān) [abandon](tyajet)
 
 ## mukta-m0-p20-v490
-[of-maker](kartuḥ) [that-family-heart](tatkulahṛt) [certainly](nūnam) [to-guru](guroḥ) [give](dadyāt) [wasting-disease](kṣayāmayam)
+[maker's](kartuḥ) [that-family-heart](tat-kula-hṛt) [indeed](nūnam) [guru](guroḥ) [give](dadyāt) [decay-disease](kṣaya-āmayam)
 
 ## mukta-m0-p20-v491
-[by-hammer-blow](ṭaṅkāghātāt) [split-form](bhidākārī) [joint](sandhiḥ) [maker-destroying](kartṛvināśakaḥ)
+[by-chisel-strike](ṭaṅka-āghātāt) [split-form](bhidā-kārī) [joint](sandhiḥ) [maker-destroying](kartṛ-vināśakaḥ)
 
 ## mukta-m0-p20-v492
-[blister](sphoṭam) [cracked](sphuṭitakam) [know](vidyāt) [weapon-blow-end-giving](śastraghātāntadāyakam)
+[blister](sphoṭam) [cracked](sphuṭitakam) [know](vidyāt) [weapon-strike-end-giving](śastra-ghāta-anta-dāyakam)
 
 ## mukta-m0-p20-v493
-[sky-shaped](vyomākāraḥ) [becomes](bhavet) [sky](vyomaḥ) [he](saḥ) [soon](acirāt) [maker-destroying](kartṛnāśakaḥ)
+[sky-shaped](vyoma-ākāraḥ) [becomes](bhavet) [sky](vyomaḥ) [he](saḥ) [soon](acirāt) [maker-destroying](kartṛ-nāśakaḥ)
 
 ## mukta-m0-p20-v494
-[by-that](tayā) [maker-progeny-destruction](kartṛprajānāśaḥ) [quickly](śīghram) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
+[by-that](tayā) [maker-progeny-destruction](kartṛ-prajā-nāśaḥ) [quickly](śīghram) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p20-v495
-[by-that](tena) [make](kuryāt) [no](na) [marks](liṅgāni) [made](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
+[therefore](tena) [do-not](kuryāt) [make](kuryāt) [signs](liṅgāni) [done](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
 
 ## mukta-m0-p20-v496
-[yellow](pītam) [white](sitam) [thus](tathā) [black](kṛṣṇam) [red](raktam) [blue](nīlam) [and](ca) [mixed](miśrakam)
+[yellow](pītam) [white](sitam) [and](tathā) [black](kṛṣṇam) [red](raktam) [blue](nīlam) [and](ca) [mixed](miśrakam)
 
 ## mukta-m0-p20-v497
-[nine-and-half](navatyardham) [great-faults](mahādoṣāḥ) [difference-distinct](bhedabhinnaḥ) [thus](iti) [remembered](smṛtāḥ)
+[nine-half](navati-ardham) [great-faults](mahā-doṣāḥ) [difference-distinct](bheda-bhinnaḥ) [thus](iti) [remembered](smṛtāḥ)
 
 ## mukta-m0-p20-v498
-[brahma-upendra-division-standing](brahmopendravibhāgasthān) [threefold](tridhā) [in-marks](liṅgeṣu) [fault-giving](doṣadān)
+[Brahma-Upendra-division-standing](brahma-upendra-vibhāga-sthān) [threefold](tridhā) [in-signs](liṅgeṣu) [fault-giving](adoṣa-dān)
 
 ## mukta-m0-p20-v499
-[vein](śirā) [knots-ashes](granthituṣāraiḥ) [and](ca) [pure](vimalam) [give](dadu) [with-drops](bindubhiḥ)
+[vein](śirā) [knot-tufts](granthi-tuṣāraiḥ) [and](ca) [pure](vimalam) [give](dadu) [drops](bindubhiḥ)
 
 ## mukta-m0-p20-v500
-[cat-horse-camel-jackal-crow-foot-marked](viḍālāśvoṣṭragomāyukākapādāṅkitān) [abandon](tyajet)
+[cat-horse-camel-jackal-crow-foot-marked](viḍāla-aśva-uṣṭra-go-māyu-kāka-pāda-aṅkitān) [abandon](tyajet)
