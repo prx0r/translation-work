@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[born-of-indra-varuna](māhendrīvāruṇījātāḥ) [weapons](śastrāś) [and](ca) [others](anye) [and](ca) [condemned](garhitāḥ)
+born-of-mahendra-and-varuna(māhendrīvāruṇījātāḥ) weapons-and-others(śastrāścānye) also(ca) condemned(garhitāḥ)
 
 ## mukta-m0-p16-v377
-[śamī](śamī) [drākṣā](drākṣā) [surā-named](surāhvaśca) [nine](nava) [these](ete) [brahmin-peace-giving](vipraśāntidāḥ)
+śamī-tree(śamī) grape(drākṣā) surā-named(surāhvaśca) these-nine(navaite) brahmin-peace-giving(vipraśāntidāḥ)
 
 ## mukta-m0-p16-v378
-[kadara-white-khadira](kadarā) [śoka-vegetable](śokaśākaṃ) [and](ca) [śṛṅgī](śṛṅgī) [king-prosperity-giving](nṛpabhūtidā)
+kadara(kadarā) śoka-vegetable(śokaśākaṃ) and(ca) śṛṅgī(śṛṅgī) king-prosperity-giving(nṛpabhūtidā)
 
 ## mukta-m0-p16-v379
-[sarala](saralaḥ) [jackfruit](panaso) [seed](bīja) [thus](iti) [these](ete) [vaiśya-growth-giving](vaiśyavṛddhidāḥ)
+sarala(saralaḥ) jackfruit(panaso) seed(bīja) these(vaiśyavṛddhidāḥ) vaiśya-growth-giving(ityete)
 
 ## mukta-m0-p16-v380
-[kāñcana-asana](kāñcanāsana) [lodhra](lodhrāśca) [sāla](sāla) [śūdra-nourishment-giving](śūdrasyapuṣṭidāḥ)
+kāñcanāsana(kāñcanāsana) lodhra(lodhrāśca) sāla(sāla) śūdra-nourishment-giving(śūdrasyapuṣṭidāḥ)
 
 ## mukta-m0-p16-v381
-[well-placed](subhūsthāḥ) [beautiful](śobhanā) [heart-pleasing](hṛdyā) [healthy](ārogyā) [youth-bearing](yauvanodvahāḥ)
+well-placed(subhūsthāḥ) beautiful(śobhanā) heart-pleasing(hṛdyā) health-and-youth-bearing(ārogyā+yauvanodvahāḥ)
 
 ## mukta-m0-p16-v382
-[essence-centered](sāramadhyā) [very-firm](draḍhīyāṃso) [not](nānyakāryeṣu) [employed](yojitāḥ)
+essence-centered(sāramadhyā) very-strong(draḍhīyāṃso) not-for-other-works(nānyakāryeṣu) employed(yojitāḥ)
 
 ## mukta-m0-p16-v383
-[knotted-vein-possessing](granthitulyaśirāyuktān) [old-young-sick](bṛddhabālāturāṃstarūn)
+knotted-vein-having(granthitulyaśirāyuktān) old-young-sick-trees(bṛddhabālāturāṃstarūn)
 
 ## mukta-m0-p16-v384
-[ant-hill-born](valmikotthāñśmaśānotthān) [fruit-water-used](phalāmbhaḥ) [sevitāṃstyajet](sevitāṃstyajet)
+ant-hill-born(valmikotthāñśmaśānotthān) fruit-water-used(phalāmbhaḥ+sevitāṃstyajet)
 
 ## mukta-m0-p16-v385
-[rough-contact-deva-born](kharitsaṅgamadevotthāṃstāpasāśramajāṃstyajet)
+rough-contact-god-born(kharitsaṅgamadevotthāṃstāpasāśramajāṃstyajet)
 
 ## mukta-m0-p16-v386
-[quickly](acireṇaiva) [time](kālena) [cālako](cālako) [not](na) [becomes](bhavedasau)
+in-short-time(acireṇaiva) time(kālena) movable-not-become(cālako+na+bhavedasau)
 
 ## mukta-m0-p16-v387
-[deva-rite](devakārye) [no](na) [fault](doṣaḥ) [would-be](syādityuktaṃ) [pārameśvare](pārameśvare)
+divine-rite-no-fault(devakārye+na+doṣaḥ) would-be(ityuktaṃ) pārameśvare(pārameśvare)
 
 ## mukta-m0-p16-v388
-[purify](śodhayedbhūmibhāgaṃ) [tu](tu) [four-directions](caturdikṣu) [all-around](samantataḥ)
+purify-ground-portion(śodhayedbhūmibhāgaṃ) in-four-directions(caturdikṣu) all-around(samantataḥ)
 
 ## mukta-m0-p16-v389
-[then](tataḥ) [chief-artisans](śilpipradhānāśca) [companions](sahāyāḥkusumādibhiḥ)
+then-artisans(tataḥ+śilpipradhānāśca) helpers(sahāyāḥ) with-flowers-etc(kusumādibhiḥ)
 
 ## mukta-m0-p16-v390
-[reverse](viparīta) [then](tadā) [mantrī](mantrī) [from-far](dūratastaṃ) [avoid](vivarjayet)
+opposite-then(viparīta+tadā) minister(mantrī) from-afar(dūratastaṃ) avoid(vivarjayet)
 
 ## mukta-m0-p16-v391
-[cow-dung](gomayena) [then](tato) [earth](bhūmi) [smear](lepayitvā) [guru](gurustadā)
+with-cow-dung(gomayena) then-ground(tato+bhūmi) plaster(lepayitvā) guru(gurustadā)
 
 ## mukta-m0-p16-v392
-[meditate](dhyātvā) [god](devaṃ) [inform](ca) [vijñāpya](vijñāpya) [make-arghya](kṛtvācārghyaṃ) [wise](vicakṣaṇaḥ)
+meditating-on-god(dhyātvā+devaṃ) informing(vijñāpya) making-arghya(kṛtvācārghyaṃ) wise(vicakṣaṇaḥ)
 
 ## mukta-m0-p16-v393
-[weapon](astraṃ) [meditate](dhyātvā) [worship](yajenmantrī) [armor](varmaṇā) [wrap](pariveṣṭayet)
+weapon-meditating(astraṃ+dhyātvā) worship(japen-) mantrī(mantrī) armor(varmaṇā) envelop(pariveṣṭayet)
 
 ## mukta-m0-p16-v394
-[śiva](śiva) [worship](saṃpūjya) [fire-placed](vahnistha) [new](navadyaṃ) [offer](ḍhaukayeccarum)
+śiva-worship(śiva+saṃpūjya) fire-placed(vahnistha) new-offering(navadyaṃ) offer(ḍhaukayeccarum)
 
 ## mukta-m0-p16-v395
-[inform](vijñāpya) [karma-weapons](karmaśastrāṇi) [worship](pūjayettarpayedapi)
+informing-weapons(vijñāpya+karmaśastrāṇi) worship-and-satisfy(pūjayettarpayedapi)
 
 ## mukta-m0-p16-v396
-[then](tato) [inform](vijñāpya) [lord](deveśa) [do](kuryādālaṃbhanaṃ) [again](punaḥ)
+then-informing-deveśa(tato+vijñāpya+deveśa) do-ālaṃbhana(kuryādālaṃbhanaṃ) again(punaḥ)
 
 ## mukta-m0-p16-v397
-[beating](tāḍanaṃ) [ashes](bhasmanāstreṇa) [sprinkling](prokṣaṇaṃ) [śiva-water](śivavāriṇā)
+striking-with-ashes(tāḍanaṃ+bhasmanāstreṇa) sprinkling-with-śiva-water(prokṣaṇaṃ+śivavāriṇā)
 
 ## mukta-m0-p16-v398
-[cloth](vastraṃ) [three-thread](trisūtraṃ) [tree](vṛkṣasya) [stone](śilāyāśca) [kuśa-included](kuśānvitam)
+cloth-three-thread(vastraṃ+trisūtraṃ) tree-and-stone(vṛkṣasya+śilāyāśca) with-kuśa(kuśānvitam)
 
 ## mukta-m0-p16-v399
-[saṃhitā-mantra](saṃhitoktena) [mantra](mantreṇasnānavastrādikaṃ) [bhavet](bhavet)
+as-saṃhitā-says(saṃhitoktena+mantreṇasnānavastrādikaṃ) becomes(bhavet)
 
 ## mukta-m0-p16-v400
-[give](dadyād) [offering](baliṃ) [māṣa-food](ca) [māṣānnairāmiṣāsavasaṃyutaiḥ)
+give-offering(dadyād+baliṃ) with-māṣa-rice-meatless-liquor(ca+māṣānnairāmiṣāsavasaṃyutaiḥ)

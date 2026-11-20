@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[patane](patane) [madhya](madhya) [bhaṅgaḥ](bhaṅgaḥ) [syāt](syāt) [tadā](tadā) [homaḥ](homaḥ) [vidhīyate](vidhīyate)
+[falling](patane) [middle+break](madhyabhaṅgaḥ) [would-be](syāt) [then](tadā) [homa](homo) [is-performed](vidhīyate)
 
 ## mukta-m0-p18-v427
-[dadyāt](dadyāt) [pūrṇāhutiṃ](pūrṇāhutiṃ) [ca](ca) [api](api) [śivena](śivena) [aśiva-hāriṇā](aśivahāriṇā)
+[should-give](dadyāt) [full+oblation](pūrṇāhutiṃ) [and](ca) [also](api) [by-Shiva](śivena) [by-inauspicious-removing](aśivahāriṇā)
 
 ## mukta-m0-p18-v428
-[śilā-dāne](śilādāne) [tathā](tathā) [pūjā](pūjā) [dārva-dāne](dārvādāne) [yathoditā](yathoditā)
+[stone+giving](śilādāne) [thus](tathā) [worship](pūjā) [wood+giving](dārvādāne) [as-stated](yathoditā)
 
 ## mukta-m0-p18-v429
-[dvijādi-varṇa-bhedena](dvijādivarṇabhedena) [rūpa-bhedena](rūpabhedena) [ca](ca) [sthitāḥ](sthitāḥ)
+[by-twice-born-etc-class-difference](dvijādivarṇabhedena) [by-form-difference](rūpabhedena) [and](ca) [situated](sthitāḥ)
 
 ## mukta-m0-p18-v430
-[yuvatī](yuvatī) [sā](sā) [śilā](śilā) [grāhyā](grāhyā) [triṣu](triṣu) [liṅgeṣu](liṅgeṣu) [na](na) [itarāḥ](itarāḥ)
+[young-woman](yuvatī) [that](sā) [stone](śilā) [acceptable](grāhyā) [in-three](triṣu) [lingas](liṅgeṣu) [not-others](netarāḥ)
 
 ## mukta-m0-p18-v431
-[vṛddhiṃ](vṛddhiṃ) [dadyāt](dadyāt) [śilā](śilā) [nūnaṃ](nūnaṃ) [taruṇī](taruṇī) [lakṣaṇa-anvitā](lakṣaṇānvitā)
+[growth](vṛddhiṃ) [should-give](dadyāt) [stone](śilā) [certainly](nūnaṃ) [young](taruṇī) [endowed-with-marks](lakṣaṇānvitā)
 
 ## mukta-m0-p18-v432
-[trayaḥ](trayo) [aṅkurāḥ](aṅkurā) [diśaḥ](diśaḥ) [tisraḥ](tisro) [gandha-svādau](gandhāsvādau) [caturvidhā](caturvirdhā)
+[three](trayo) [sprouts](aṅkurā) [directions](diśaḥ) [three](tisraḥ) [smell+taste](gandhāsvādau) [fourfold](caturvirdhā)
 
 ## mukta-m0-p18-v433
-[tāruṇam](tāruṇamekam) [ekam](tāruṇamekam) [iti](ityevaṃ) [evaṃ](ityevaṃ) [dvātriṃśat](dvātriṃśallakṣaṇāni) [lakṣaṇāni](dvātriṃśallakṣaṇāni) [tu](tu)
+[youthful-one](tāruṇam) [one](ekam) [thus](ityevaṃ) [thirty-two](dvātriṃśat) [marks](lakṣaṇāni) [indeed](tu)
 
 ## mukta-m0-p18-v434
-[snigdhā](snigdhānimnā) [nimnā](snigdhānimnā) [śilā](śilā) [dhanyā](dhanyā) [siktā](siktā) [puṇya-nadī-jalaiḥ](puṇyanadījalaiḥ)
+[smooth+depressed](snigdhānimnā) [stone](śilā) [auspicious](dhanyā) [sprinkled](siktā) [by-sacred-river-waters](puṇyanadījalaiḥ)
 
 ## mukta-m0-p18-v435
-[sugandhī](sugandhī) [niviḍa-aṅgī](niviḍāṅgī) [ca](ca) [drama-chāyā-sthitā](dramacchāyāsthitā) [sadā](sadā)
+[fragrant](sugandhī) [compact-limbed](niviḍāṅgī) [and](ca) [in-shade-of-tree](dramacchāyāsthitā) [always](sadā)
 
 ## mukta-m0-p18-v436
-[dṛḍhā](dṛḍhā) [manoramā](manoramā) [gurvī](gurvī) [madhura-dhvani-bhūṣitā](madhuradhvanibhūṣitā)
+[firm](dṛḍhā) [pleasing](manoramā) [heavy](gurvī) [adorned-with-sweet-sound](madhuradhvanibhūṣitā)
 
 ## mukta-m0-p18-v437
-[krameṇa](krameṇābjājyagovarvo) [abja](krameṇābjājyagovarvo) [ājya](krameṇābjājyagovarvo) [go-varva](krameṇābjājyagovarvo) [mūtra-gandhāḥ](mūtragandhāḥ) [śubhāḥ](śubhāḥśilāḥ) [śilāḥ](śubhāḥśilāḥ)
+[in-order](krameṇa) [lotus+ghee+cow+urine](abjājyagovarvo) [urine-smell](mūtragandhāḥ) [auspicious](śubhāḥ) [stones](śilāḥ)
 
 ## mukta-m0-p18-v438
-[śāntiṃ](śāntiṃ) [jayaṃ](jayaṃ) [dhanaṃ](dhanaṃ) [ca](ca) [āyuḥ](āyuścāturvarṇye) [cāturvarṇye](āyuścāturvarṇye) [prayacchati](prayacchati)
+[peace](śāntiṃ) [victory](jayaṃ) [wealth](dhanaṃ) [and](ca) [life](āyuḥ) [to-four-varnas](cāturvarṇye) [bestows](prayacchati)
 
 ## mukta-m0-p18-v439
-[sutejā](sutejā) [rūpa-saṃpannā](rūpasaṃpannā) [dhana-deśa-indra](dhanadeśendra) [dik](dik) [sthitā](sthitā)
+[well-radiant](sutejā) [endowed-with-beauty](rūpasaṃpannā) [wealth-lord](dhanadeśendra) [direction](dik) [situated](sthitā)
 
 ## mukta-m0-p18-v440
-[nakṣatraṃ](nakṣatraṃ) [ca](ca) [mṛgaṃ](mṛgaṃ) [tasyāḥ](tasyāstaddevaḥ) [tad-devaḥ](tasyāstaddevaḥ) [śaśa-lāñchanaḥ](śaśalāñchanaḥ)
+[constellation](nakṣatraṃ) [and](ca) [Mriga](mṛgaṃ) [of-her](tasyāḥ) [that-god](taddevaḥ) [moon](śaśalāñchanaḥ)
 
 ## mukta-m0-p18-v441
-[asyāḥ](asyā) [ṛkṣaṃ](ṛkṣaṃ) [bhavet](bhavejjyeṣṭhā) [jyeṣṭhā](bhavejjyeṣṭhā) [devatā](devatā) [ca](ca) [śatakratu](śatakratu)
+[of-her](asyāḥ) [constellation](ṛkṣaṃ) [becomes](bhavet) [Jyeshtha](jyeṣṭhā) [deity](devatā) [and](ca) [Indra](śatakratu)
 
 ## mukta-m0-p18-v442
-[nakṣatraṃ](nakṣatraṃ) [phalgunī](phalgunī) [ca](ca) [asyāḥ](asyā) [devaḥ](devaśca) [ca](devaśca) [bhaga-saṃjñakaḥ](bhagasaṃjñakaḥ)
+[constellation](nakṣatraṃ) [Phalguni](phalgunī) [and](ca) [of-her](asyāḥ) [god](devaḥ) [named-Bhaga](bhagasaṃjñakaḥ)
 
 ## mukta-m0-p18-v443
-[nakṣatraṃ](nakṣatramaśvinau) [aśvinī](nakṣatramaśvinau) [ca](cāsyā) [asyāḥ](cāsyā) [devau](devau) [ca](ca) [eva](caivaśvinau) [aśvinau](caivaśvinau) [matau](matau)
+[constellation](nakṣatraṃ) [Ashvini](aśvinī) [and](ca) [of-her](asyāḥ) [two-gods](devau) [indeed-Ashvins](caivāśvinau) [considered](matau)
 
 ## mukta-m0-p18-v444
-[śītalā](śītalā) [ca](ca) [sukha-sparśā](sukhasparśā) [niviḍa-aṅgī](niviḍāṅgī) [manoramā](manoramā)
+[cool](śītalā) [and](ca) [pleasant-touch](sukhasparśā) [compact-limbed](niviḍāṅgī) [pleasing](manoramā)
 
 ## mukta-m0-p18-v445
-[eka-varṇaḥ](ekavarṇaḥsthiraḥsnigdho) [sthiraḥ](ekavarṇaḥsthiraḥsnigdho) [snigdhaḥ](ekavarṇaḥsthiraḥsnigdho) [gaja-kaṇṭhaḥ](gajakaṇṭho) [pama-svanaḥ](pamasvanaḥ)
+[single-colored](ekavarṇaḥ) [firm](sthiraḥ) [smooth](snigdho) [elephant-neck](gajakaṇṭhaḥ) [pleasant-sound](pamasvanaḥ)
 
 ## mukta-m0-p18-v446
-[pāṣāṇaḥ](pāṣāṇo'ya) [aya](pāṣāṇo'ya) [guru](guru) [pumān](pumān) [puruṣāṇām](puruṣāṇāṃvibhūtidaḥ) [vibhūti-daḥ](puruṣāṇāṃvibhūtidaḥ)
+[stone](pāṣāṇaḥ) [this](ayaṃ) [heavy](guru) [male](pumān) [of-men](puruṣāṇāṃ) [bestower-of-prosperity](vibhūtidaḥ)
 
 ## mukta-m0-p18-v447
-[striyāḥ](striyā) [strī-pratimā](strīpratimā) [kāryā](kāryā) [ṣaṇḍhaṃ](ṣaṇḍhaṃ) [ṣaṇḍhena](ṣaṇḍhena) [na](nā) [nṛbhiḥ](nṛbhiḥ)
+[for-woman](striyā) [woman-image](strīpratimā) [should-be-made](kāryā) [eunuch](ṣaṇḍhaṃ) [by-eunuch](ṣaṇḍhena) [not](na) [by-men](nṛbhiḥ)
 
 ## mukta-m0-p18-v448
-[śirā-āḍhyaṃ](śirāḍhyaṃ) [karkaśaṃ](karkaśaṃ) [tvam](tva) [rju](rju) [idam](idamaśma) [aśma](idamaśma) [napuṃsakam](napuṃsakam)
+[vein-rich](śirāḍhyaṃ) [rough](karkaśaṃ) [straight](rju) [this](idam) [stone](aśma) [neuter](napuṃsakam)
 
 ## mukta-m0-p18-v449
-[śeṣāṇām](śeṣāṇāṃ) [strī-śilāḥ](strīśilāḥ) [proktāḥ](proktāḥ) [pīṭhikā-ādyāḥ](pīṭhikādyāśca) [ca](pīṭhikādyāśca) [śūlinaḥ](śūlinaḥ)
+[of-rest](śeṣāṇāṃ) [female-stones](strīśilāḥ) [declared](proktāḥ) [pedestal-etc](pīṭhikādyāḥ) [and](ca) [of-Trident-holder](śūlinaḥ)
 
 ## mukta-m0-p18-v450
-[sarva-varṇa-ātmake](sarvavarṇātmake) [śvetāḥ](śvetāḥśeṣāśca) [śeṣāḥ](śvetāḥśeṣāśca) [ca](śvetāḥśeṣāśca) [śubha-dāḥ](śubhadāḥ) [smṛtāḥ](smṛtāḥ)
+[in-all-varnas](sarvavarṇātmake) [white](śvetāḥ) [rest](śeṣāḥ) [and](ca) [auspicious-giving](śubhadāḥ) [remembered](smṛtāḥ)
