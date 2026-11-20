@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[gloss](dhārmikāścaiva) [gloss](rājānaḥ) [gloss](pūrṇasaptāṅgasaṃyutāḥ)
+righteous-kings-and-also full-seven-limbs-endowed
 
 ## mukta-m0-p83-v2052
-[gloss](vāñchitaṃ) [gloss](samavāpnoti) [gloss](maṇḍalānmāsato'pi) [gloss](vā)
+desired obtains from-mandala monthly-or-even
 
 ## mukta-m0-p83-v2053
-[gloss](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [gloss](sthāpanādityarthaḥ)
+previously-said-raksha-vayu-indra-fire-ishvara-varuna-directions placement-thus-meaning
 
 ## mukta-m0-p83-v2054
-[gloss](mūrtisaptakaṃ) [gloss]((ḍā)rākinyādīnāṃ) [gloss](ṣaṇāṃ) [gloss](devyāśceti) [gloss](śeṣaḥ)
+form-seven (da) rakini-etc six goddess-and-thus remainder
 
 ## mukta-m0-p83-v2055
-[gloss](kleśāḥ) [gloss](vidyāyantrānubhāvataḥ) [gloss](ubhayoḥ) [gloss](sāmarthyāt)
+afflictions | vidya-yantra-power from both capacities
 
 ## mukta-m0-p83-v2056
-[gloss](suṣumnāmadhyasaṃstheṣu) [gloss](ṣaḍādhārāmbujeṣu) [gloss](tāḥ)
+sushumna-middle-situated six-support-lotuses those
 
 ## mukta-m0-p83-v2057
-[gloss](bahiśca) [gloss](maṇḍale) [gloss](pūjānugrahānigrahātmikā(m))
+outside-and mandala worship-grace-punishment-natured
 
 ## mukta-m0-p83-v2058
-[gloss](dhūmravarṇāmbuje) [gloss](devīṃ) [gloss](ḍākinīṃ) [gloss](tatsamākṛtim)
+smoke-colored-lotus goddess dakini that-similar-form
 
 ## mukta-m0-p83-v2059
-[gloss](tayā) [gloss](sarvajñatāsiddhirbhavatyeva) [gloss](na) [gloss](saṃśayaḥ)
+by-her omniscience-accomplishment becomes-indeed no doubt
 
 ## mukta-m0-p83-v2060
-[gloss](prāpnoti)
+obtains
 
 ## mukta-m0-p83-v2061
-[gloss](deheṣu) [gloss](sthitim) [gloss](tāḥ) [gloss](devyaḥ) [gloss](ityatrānvayaḥ) [gloss](dākinyādaya) [gloss](iti) [gloss](śeṣaḥ)
+in-bodies residence | those goddesses thus-connection dakini-etc thus remainder
 
 ## mukta-m0-p83-v2062
-[gloss](mūladevatāsamānaḥ)
+root-deity-similar
 
 ## mukta-m0-p83-v2063
-[gloss](rākinīṃ) [gloss](dvādaśadale) [gloss](kādiḍhāntākṣarātmabhiḥ)
+rakini twelve-petaled ka-to-dha-letters-natured
 
 ## mukta-m0-p83-v2064
-[gloss](maṇipūrakasaṃjñe) [gloss](ca) [gloss](nābhisthe) [gloss](daśapatrake)
+manipura-named and navel-situated ten-petaled
 
 ## mukta-m0-p83-v2065
-[gloss](lākinīṃ) [gloss](pūjayedvairivi) [gloss](jayaśrīsamṛddhaye)
+lakini worship-for-enemies victory-prosperity-for
 
 ## mukta-m0-p83-v2066
-[gloss](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [gloss](ḍākinīṃ) [gloss](yajet)
+va-etc-six-letters-powers-surrounded dakini worship
 
 ## mukta-m0-p83-v2067
-[gloss](ādhārākhye) [gloss](catuṣpatre) [gloss](suvarṇābhe) [gloss](saroruhe)
+support-named four-petaled golden-colored lotus
 
 ## mukta-m0-p83-v2068
-[gloss](pāyudhvajāntarā) [gloss](tryasramadhye) [gloss](tejaḥ) [gloss](samanvitām)
+anus-banner-between triangle-middle fire-endowed
 
 ## mukta-m0-p83-v2069
-[gloss](sevitāṃ) [gloss](hakṣaśaktibhyāṃ) [gloss](hākinīṃ) [gloss](pūjayettatha)
+served ha-ksha-powers by hakini worship-thus
 
 ## mukta-m0-p83-v2070
-[gloss](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ)
+universe-creation-preservation-destruction-power-giver-effortlessly
 
 ## mukta-m0-p83-v2071
-[gloss](pūjanaṃ) [gloss](sarvaduḥkhārtināśanaṃ) [gloss](sampadāspadam)
+worship all-suffering-pain-destroyer wealth-abode
 
 ## mukta-m0-p83-v2072
-[gloss](tayā) [gloss](pūjayā) [gloss](dhvajamūle) [gloss](mehanamūle)
+by-that worship ||62||... banner-root urethra-root
 
 ## mukta-m0-p83-v2073
-[gloss](samanvitāṃ) [gloss](kuṇḍalinītejorūpām) [gloss](tathā) [gloss](samuccaye)
+endowed kundalini-fire-form ||68|| thus collection
 
 ## mukta-m0-p83-v2074
-[gloss](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīmityarthaḥ)
+past-future-present-deed-knowledge-capacity-giver-thus-meaning
 
 ## mukta-m0-p83-v2075
-[gloss](madhye) [gloss](ca) [gloss](tatra) [gloss](tāṃ) [gloss](nityānityā) [gloss](gandhādinā'rcayet)
+middle and there her permanent-impermanent incense-etc worship
