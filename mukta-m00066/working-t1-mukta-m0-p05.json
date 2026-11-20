@@ -8,7 +8,11 @@
 "tokens": [
 {
 "surface": "gāṃdharvastu",
-"quick_gloss": "gandharva+veda"
+"quick_gloss": "gandharva-veda"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "mahān",
@@ -20,7 +24,7 @@
 },
 {
 "surface": "bharatādyaiḥ",
-"quick_gloss": "by-bharata-etc"
+"quick_gloss": "by-bharata-and-others"
 },
 {
 "surface": "pravistṛtaḥ",
@@ -41,7 +45,7 @@
 },
 {
 "surface": "ubhayaprakāreṇa",
-"quick_gloss": "both-modes"
+"quick_gloss": "both-ways"
 },
 {
 "surface": "saṃtoṣayati",
@@ -70,11 +74,11 @@
 },
 {
 "surface": "nādakāni",
-"quick_gloss": "sound-units"
+"quick_gloss": "sounds"
 },
 {
 "surface": "pracakṣate",
-"quick_gloss": "they-declare"
+"quick_gloss": "they-call"
 }
 ]
 },
@@ -95,7 +99,7 @@
 },
 {
 "surface": "syāt",
-"quick_gloss": "may-be"
+"quick_gloss": "would-be"
 },
 {
 "surface": "śṛṃgārorasa",
@@ -150,6 +154,10 @@
 {
 "surface": "catyordarśanasparśanātmakaḥ",
 "quick_gloss": "of-two"
+},
+{
+"surface": "darśanasparśanātmakaḥ",
+"quick_gloss": "sight-touch-nature"
 }
 ]
 },
@@ -162,11 +170,11 @@
 "tokens": [
 {
 "surface": "taccadvidhā",
-"quick_gloss": "that-two-fold"
+"quick_gloss": "that-also-two-fold"
 },
 {
 "surface": "nītiśāstraṃ",
-"quick_gloss": "niti-shastra"
+"quick_gloss": "polity-science"
 },
 {
 "surface": "bārhaspatyaṃ",
@@ -191,19 +199,15 @@
 "tokens": [
 {
 "surface": "ṣaḍbhirguṇaiḥ",
-"quick_gloss": "by-six-virtues"
+"quick_gloss": "with-six-qualities"
 },
 {
 "surface": "śaktibhiścatisṛbhiścāpi",
-"quick_gloss": "by-powers"
-},
-{
-"surface": "catisṛbhiḥ",
-"quick_gloss": "by-three"
+"quick_gloss": "with-powers"
 },
 {
 "surface": "siddhibhiḥ",
-"quick_gloss": "by-siddhis"
+"quick_gloss": "with-three-siddhis"
 }
 ]
 },
@@ -216,15 +220,15 @@
 "tokens": [
 {
 "surface": "nītiśāstramidaṃ",
-"quick_gloss": "niti-shastra-this"
+"quick_gloss": "polity-science-this-all"
 },
 {
-"surface": "sarvaṃ",
-"quick_gloss": "all"
+"surface": "sarva",
+"quick_gloss": "sarva"
 },
 {
 "surface": "vittasaṃpatsamṛddhidam",
-"quick_gloss": "wealth-prosperity-growth"
+"quick_gloss": "wealth-prosperity-increasing"
 }
 ]
 },
@@ -241,11 +245,11 @@
 },
 {
 "surface": "svacānaṃda",
-"quick_gloss": "own-bliss"
+"quick_gloss": "self-bliss-form"
 },
 {
 "surface": "svarūpakaḥ",
-"quick_gloss": "nature"
+"quick_gloss": "svarūpakaḥ"
 }
 ]
 },
@@ -283,14 +287,18 @@
 },
 {
 "surface": "śāstremokṣo'sti",
-"quick_gloss": "in-shastra"
+"quick_gloss": "in-scriptures"
+},
+{
+"surface": "mokṣo'sti",
+"quick_gloss": "moksha-is"
 },
 {
 "surface": "tasyarūpaṃ",
 "quick_gloss": "its-form"
 },
 {
-"surface": "pṛthak+pṛthak",
+"surface": "pṛthak pṛthak",
 "quick_gloss": "separate-separate"
 }
 ]
@@ -315,12 +323,8 @@
 "quick_gloss": "by-whom"
 },
 {
-"surface": "tattatsiddhāṃta",
-"quick_gloss": "that-that-siddhanta"
-},
-{
-"surface": "vartinām",
-"quick_gloss": "followers"
+"surface": "tattatsiddhāṃta vartinām",
+"quick_gloss": "of-that-doctrine-followers"
 }
 ]
 },
@@ -332,12 +336,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "anānaṃda+svarūpatvāt",
-"quick_gloss": "non-bliss-nature"
+"surface": "anānaṃda",
+"quick_gloss": "non-bliss-form"
+},
+{
+"surface": "svarūpatvāt",
+"quick_gloss": "svarūpatvāt"
 },
 {
 "surface": "śilāvasthānviḍaṃbhayan",
-"quick_gloss": "stone-state"
+"quick_gloss": "stone-state-mocking"
 }
 ]
 },
@@ -349,12 +357,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad+doṣānnijayoṣāpi",
+"surface": "tad doṣānnijayoṣāpi",
 "quick_gloss": "by-that-fault"
 },
 {
 "surface": "nijayoṣāpi",
-"quick_gloss": "own-wife"
+"quick_gloss": "own-wife-also"
 },
 {
 "surface": "dṛṣadbhāvaṃ",
@@ -374,8 +382,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sa+eva",
-"quick_gloss": "that-same"
+"surface": "sa eva",
+"quick_gloss": "that-alone"
 },
 {
 "surface": "mokṣonānyo'sti",
@@ -387,7 +395,7 @@
 },
 {
 "surface": "duḥkhākāravivarjitaḥ",
-"quick_gloss": "sorrow-form-free"
+"quick_gloss": "sorrow-form-devoid"
 }
 ]
 },
@@ -404,7 +412,15 @@
 },
 {
 "surface": "liṃgasthamadhikṛtyapravartate",
-"quick_gloss": "linga-seated"
+"quick_gloss": "linga-staying"
+},
+{
+"surface": "adhikṛtya",
+"quick_gloss": "concerning"
+},
+{
+"surface": "pravartate",
+"quick_gloss": "proceeds"
 }
 ]
 },
@@ -417,7 +433,7 @@
 "tokens": [
 {
 "surface": "ityānaṃdataṃtre",
-"quick_gloss": "thus-ananda-tantra"
+"quick_gloss": "thus-bliss-tantra"
 },
 {
 "surface": "tṛtīyaḥ",
@@ -438,15 +454,19 @@
 "tokens": [
 {
 "surface": "liṃgānaṃdamayo",
-"quick_gloss": "linga-bliss-full"
+"quick_gloss": "linga-bliss-filled"
 },
 {
 "surface": "yo'yamīśvaraḥ",
 "quick_gloss": "this"
 },
 {
+"surface": "īśvaraḥ",
+"quick_gloss": "lord"
+},
+{
 "surface": "pratipāditaḥ",
-"quick_gloss": "established"
+"quick_gloss": "explained"
 }
 ]
 },
@@ -471,7 +491,7 @@
 },
 {
 "surface": "bhogamātra",
-"quick_gloss": "bhoga-only"
+"quick_gloss": "enjoyment-only"
 },
 {
 "surface": "parāṅmukhān",
@@ -488,19 +508,15 @@
 "tokens": [
 {
 "surface": "anyānyapi",
-"quick_gloss": "others"
+"quick_gloss": "other"
 },
 {
 "surface": "sukhāsaktānāti",
-"quick_gloss": "pleasure-attached"
+"quick_gloss": "pleasures-attached"
 },
 {
-"surface": "saṃdadhate",
-"quick_gloss": "join"
-},
-{
-"surface": "hite",
-"quick_gloss": "welfare"
+"surface": "saṃdadhate hite",
+"quick_gloss": "to-welfare"
 }
 ]
 },
@@ -534,7 +550,7 @@
 "tokens": [
 {
 "surface": "vināśameva",
-"quick_gloss": "destruction"
+"quick_gloss": "to-destruction"
 },
 {
 "surface": "gacchaṃti",
@@ -542,7 +558,11 @@
 },
 {
 "surface": "niṃdatolaiṃgamīśvaram",
-"quick_gloss": "blame"
+"quick_gloss": "blaming"
+},
+{
+"surface": "laiṃgamīśvaram",
+"quick_gloss": "linga-lord"
 }
 ]
 },
@@ -566,7 +586,7 @@
 "quick_gloss": "not-iron"
 },
 {
-"surface": "ca+dārubhiḥ",
+"surface": "ca dārubhiḥ",
 "quick_gloss": "nor-wood"
 }
 ]
@@ -583,15 +603,15 @@
 "quick_gloss": "of-elements"
 },
 {
-"surface": "ca+svarūpaṃ",
-"quick_gloss": "nature"
+"surface": "ca svarūpaṃ",
+"quick_gloss": "own-form"
 },
 {
 "surface": "tatpariṇāmo",
 "quick_gloss": "that-transformation"
 },
 {
-"surface": "hi+retasaḥ",
+"surface": "hi retasaḥ",
 "quick_gloss": "indeed-semen"
 }
 ]
