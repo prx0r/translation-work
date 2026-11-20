@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-prāvrājyāt+naśyate pūrvaṃ strī-yogāt+aparaṃ tathā
+[prāvrājya-etc](prāvrājyānnaśyate) [pūrvaṃ](pūrvaṃ) [strīyogāt](strīyogādaparaṃ) [tathā](tathā)
 
 ## mukta-m0-p10-v227
-tri-karṇa-utthāḥ tri-karṇāḥ ca tri-kapāla-ātma karṇakā
+[trikarṇotthāḥ](trikarṇotthāstrikarṇāśca) [trikapānātma](trikapānātma) [karṇakā](karṇakā)
 
 ## mukta-m0-p10-v228
-bhasma-aṅkuraḥ tu kattha-osthaḥ tat-sutāḥ kauśika-ādayaḥ
+[bhasmāṅkuraḥ](bhasmāṅkurastu) [katthosthaḥ](katthosthastatsutāḥ) [kauśikādayaḥ](kauśikādayaḥ)
 
 ## mukta-m0-p10-v229
-rāṣṭra-kṣaya-karāḥ hi ete ye ca paṣāṇḍinaḥ narāḥ
+[rāṣṭrakṣayakarāḥ](rāṣṭrakṣayakarā) [hyete](hyete) [ye](ye) [ca](ca) [paṣāṇḍinaḥ](paṣāṇḍino) [narāḥ](narāḥ)
 
 ## mukta-m0-p10-v230
-śāstra-avalokanāt eva caṇḍeśaḥ tasya śāsakaḥ
+[śāstrāvalokanāt](śāstrāvalokanādeva) [caṇḍeśaḥ](caṇḍeśastasya) [śāsakaḥ](śāsakaḥ)
 
 ## mukta-m0-p10-v231
-sa yāti narakaṃ sadyaḥ yājñikaiḥ saha daiśikaḥ
+[sa](sa) [yāti](yāti) [narakaṃ](narakaṃ) [sadyo](sadyo) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
 
 ## mukta-m0-p10-v232
-teṣām ācaraṇāt nityam ācāryaḥ iti kīrtyate
+[teṣām](teṣāmācaraṇānnityamācārya) [iti](iti) [kīrtyate](kīrtyate)
 
 ## mukta-m0-p10-v233
-tasmāt na mānavīṃ buddhiṃ kārayet daiśikaṃ prati
+[tasmāt](tasmānna) [na](na) [mānavīṃ](mānavīṃ) [buddhiṃ](buddhiṃ) [kārayet](kārayeddaiśikaṃ) [prati](prati)
 
 ## mukta-m0-p10-v234
-pañca-vaktrāṇi devasya pañca-āgama-vivṛddhaye
+[pañcavaktrāṇi](pañcavaktrāṇi) [devasya](devasya) [pañcāgamavivṛddhaye](pañcāgamavivṛddhaye)
 
 ## mukta-m0-p10-v235
-dīptaṃ sūkṣmaṃ ca sāhasraṃ aṃśumaḥ su-prabhaṃ daśa
+[dīptaṃ](dīptaṃ) [sūkṣmaṃ](sūkṣmaṃ) [ca](ca) [sāhasram](sāhasramaṃśuma) [tsuprabhaṃ](tsuprabhaṃ) [daśa](daśa)
 
 ## mukta-m0-p10-v236
-vijayaṃ pāra-maiśvaryaṃ niśvāsa-udgīta-saṃjñakam
+[vijayaṃ](vijayaṃ) [pāramaiśvaryaṃ](pāramaiśvaryaṃ) [niśvāsodgītasaṃjñakam](niśvāsodgītasaṃjñakam)
 
 ## mukta-m0-p10-v237
-narasiṃhaṃ candra-hāsaṃ vīraṃ svāyambhu-rauravam
+[narasiṃhaṃ](narasiṃhaṃ) [candrahāsaṃ](candrahāsaṃ) [vīraṃ](vīraṃ) [svāyambhurauravam](svāyambhurauravam)
 
 ## mukta-m0-p10-v238
-rudra-bhedāḥ samākhyātā daśa-aṣṭādaśa ca ūrdhva-gāḥ
+[rudrabhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātā) [daśāṣṭādaśa](daśāṣṭādaśa) [cordhvagāḥ](cordhvagāḥ)
 
 ## mukta-m0-p10-v239
-pañca-bhūta vibhāgaṃ ca śūnya-bheda vinirṇayam
+[pañcabhūta](pañcabhūta) [vibhāgaṃ](vibhāgaṃ) [ca](ca) [śūnyabheda](śūnyabheda) [vinirṇayam](vinirṇayam)
 
 ## mukta-m0-p10-v240
-kambojaṃ kambalaṃ kaṅkaṃ kāla-kuṇḍaṃ kaṭāhakam
+[kambojaṃ](kambojaṃ) [kambalaṃ](kambalaṃ) [kaṅkaṃ](kaṅkaṃ) [kālakuṇḍaṃ](kālakuṇḍaṃ) [kaṭāhakam](kaṭāhakam)
 
 ## mukta-m0-p10-v241
-gāruḍasya tu ime bhedāḥ aṣṭā-viṃśatiḥ īritāḥ
+[gāruḍasya](gāruḍasya) [tvime](tvime) [bhedāḥ](bhedā) [aṣṭāviṃśatirīritāḥ](aṣṭāviṃśatirīritāḥ)
 
 ## mukta-m0-p10-v242
-asitāṅgaṃ ruruṃ ca eva kapālīśaṃ samuccayam
+[asitāṅgaṃ](asitāṅgaṃ) [ruruṃ](ruruṃ) [caiva](caiva) [kapālīśaṃ](kapālīśaṃ) [samuccayam](samuccayam)
 
 ## mukta-m0-p10-v243
-bhīmāṅgaṃ ḍāmarā-rāvaṃ bhīmaṃ vetāla-mardakam
+[bhīmāṅgaṃ](bhīmāṅgaṃ) [ḍāmarārāvaṃ](ḍāmarārāvaṃ) [bhīmaṃ](bhīmaṃ) [vetālamardakam](vetālamardakam)
 
 ## mukta-m0-p10-v244
-tri-śiraṃ ca eka-pādaṃ tu siddha-yogeśvarī-matam
+[triśiraṃ](triśiraṃ) [caikapādaṃ](caikapādaṃ) [tu](tu) [siddhayogeśvarīmatam](siddhayogeśvarīmatam)
 
 ## mukta-m0-p10-v245
-viśva-rikaṇṭha saṅkocaṃ tilaka-udyāna-bhairavam
+[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocaṃ](saṅkocaṃ) [tilakodyānabhairavam](tilakodyānabhairavam)
 
 ## mukta-m0-p10-v246
-catuḥ-ṣaṣṭi-pramāṇāni dakṣiṇa-āsyāt bhavāni ca
+[catuḥ](catuḥ) [ṣaṣṭipramāṇāni](ṣaṣṭipramāṇāni) [dakṣiṇāsyādbhavāni](dakṣiṇāsyādbhavāni) [ca](ca)
 
 ## mukta-m0-p10-v247
-kara-pūjā-vidhānaṃ tu vīṇā-tantraṃ tat-uttaram
+[karapūjāvidhānaṃ](karapūjāvidhānaṃ) [tu](tu) [vīṇātantraṃ](vīṇātantraṃ) [taduttaram](taduttaram)
 
 ## mukta-m0-p10-v248
-siddha-nitya-udayaṃ jyeṣṭhaṃ cintāmaṇi-mahodayam
+[siddhanityodayaṃ](siddhanityodayaṃ) [jyeṣṭhaṃ](jyeṣṭhaṃ) [cintāmaṇimahodayam](cintāmaṇimahodayam)
 
 ## mukta-m0-p10-v249
-ānanda-rudra-bhadra-ākhyaṃ kiṅkaraṃ kiṅkara-anugam
+[ānandarudrabhadrākhyaṃ](ānandarudrabhadrākhyaṃ) [kiṅkaraṃ](kiṅkaraṃ) [kiṅkarānugam](kiṅkarānugam)
 
 ## mukta-m0-p10-v250
-vāmadaṃ vāmadeva-uktam catur-viṃśati-bheda-gam
+[vāmadaṃ](vāmadaṃ) [vāmadevoktaṃ](vāmadevoktaṃ) [caturviṃśatibhedagam](caturviṃśatibhedagam)
