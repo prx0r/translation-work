@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[gāndharva](gāṃdharvastu) [great](mahān) [veda](vedo) [by-bharata-etc](bharatādyaiḥ) [spread](pravistṛtaḥ)
+[gandharva](gāṃdharvaḥ) [but](tu) [great](mahān) [veda](vedo) [by-Bharata-and-others](bharatādyaiḥ) [spread](pravistṛtaḥ)
 
 ## mukta-m0-p05-v102
-[that-which](yastūbhayaprakāreṇa) [pleases](saṃtoṣayati) [good-people](sajjanāt)
+[who](yaḥ) [but](tu) [by-both-kinds](ubhayaprakāreṇa) [pleases](saṃtoṣayati) [from-good-people](sajjanāt)
 
 ## mukta-m0-p05-v103
-[generally](prāyaḥ) [music-essences](saṃgītasārāṇi) [sounds](nādakāni) [are-called](pracakṣate)
+[mostly](prāyaḥ) [essences-of-music](saṃgītasārāṇi) [sounds](nādakāni) [are-called](pracakṣate)
 
 ## mukta-m0-p05-v104
-[by-abundance](bāhulyāt) [to-be-explained](pratipādya) [may-be](syāt) [bright-erotic-rasa](śṛṃgārorasa) [bright](ujvalaḥ)
+[from-abundance](bāhulyāt) [to-be-explained](pratipādya) [may-be](syāt) [erotic-rasa](śṛṃgārorasaḥ) [bright](ujvalaḥ)
 
 ## mukta-m0-p05-v105
-[by-that-coloring](tenoparaṃjitatvādvā) [their](teṣāṃ) [rasa](rasa) [thus](iti) [remembered](smṛtiḥ)
+[by-that](tena) [from-being-colored](uparaṃjitatvāt) [or](vā) [their](teṣāṃ) [rasa](rasaḥ) [thus](iti) [tradition](smṛtiḥ)
 
 ## mukta-m0-p05-v106
-[with-favorable-giving](sacānukūladā) [of-two](catyordarśanasparśanātmakaḥ)
+[with-favorable-giving](sacānukūladā) [of-four](catyor) [seeing-and-touching](darśanasparśanātmakaḥ)
 
 ## mukta-m0-p05-v107
-[that-two-fold](taccadvidhā) [polity-science](nītiśāstraṃ) [of-bṛhaspati](bārhaspatyaṃ) [and](ca) [of-bhārgava](bhārgavam)
+[that](tac) [and](ca) [kind](vidhā) [polity](nītiśāstram) [of-Brihaspati](bārhaspatyam) [and](ca) [of-Bhargava](bhārgavam)
 
 ## mukta-m0-p05-v108
-[by-six-qualities](ṣaḍbhirguṇaiḥ) [by-powers](śaktibhiścatisṛbhiścāpi) [by-accomplishments](siddhibhiḥ)
+[by-six](ṣaḍbhiḥ) [qualities](guṇaiḥ) [powers](śaktibhiḥ) [by-four](catisṛbhiḥ) [and](ca) [also](api) [perfections](siddhibhiḥ)
 
 ## mukta-m0-p05-v109
-[polity-science](nītiśāstramidaṃ) [all](sarvaṃ) [wealth-prosperity-increasing](vittasaṃpatsamṛddhidam)
+[polity](nītiśāstram) [this](idam) [all](sarvam) [wealth-prosperity-abundance-giving](vittasaṃpatsamṛddhidam)
 
 ## mukta-m0-p05-v110
-[third-puruṣārtha](tṛtīyapuruṣārtho'yaṃ) [own-bliss](svacānaṃda) [nature](svarūpakaḥ)
+[third-purushartha](tṛtīyapuruṣārthaḥ) [this](ayam) [own-bliss](svacānaṃda) [nature](svarūpakaḥ)
 
 ## mukta-m0-p05-v111
-[thus-eighteen-vidyās](ityaṣṭādaśavidyānāṃ) [purpose](tātparyaṃ) [well-spoken](samyagīritam)
+[thus](iti) [of-eighteen-sciences](aṣṭādaśavidyānām) [purport](tātparyam) [well](samyak) [stated](īritam)
 
 ## mukta-m0-p05-v112
-[everywhere](sarvatra) [in-scriptures](śāstremokṣo'sti) [its-form](tasyarūpaṃ) [separate-separate](pṛthak pṛthak)
+[everywhere](sarvatra) [in-shastra](śāstre) [liberation](mokṣaḥ) [is](asti) [its](tasya) [form](rūpam) [separately](pṛthak) [separately](pṛthak)
 
 ## mukta-m0-p05-v113
-[otherwise](nocet) [activity](pravṛttiḥ) [by-whom](kenasyāt) [of-established-doctrines](tattatsiddhāṃta vartinām)
+[not](no) [if](cet) [activity](pravṛttiḥ) [by-whom](kena) [would-be](syāt) [various-doctrines](tattatsiddhānta) [of-followers](vartinām)
 
 ## mukta-m0-p05-v114
-[non-bliss-nature](anānaṃda svarūpatvāt) [stone-state-mocking](śilāvasthānviḍaṃbhayan)
+[without-bliss](anānaṃda) [from-nature](svarūpatvāt) [stone-state](śilāvasthām) [mocking](viḍaṃbhayan)
 
 ## mukta-m0-p05-v115
-[by-that-fault](tad doṣānnijayoṣāpi) [stone-condition](dṛṣadbhāvaṃ) [indeed-attained](kilāgamat)
+[that](tat) [from-fault](doṣāt) [own-woman](nijayoṣā) [also](api) [stone-nature](dṛṣadbhāvam) [indeed](kila) [attained](āgamat)
 
 ## mukta-m0-p05-v116
-[that-alone](sa eva) [liberation](mokṣonānyo'sti) [free-from-suffering-form](duḥkhākāravivarjitaḥ)
+[that](saḥ) [indeed](eva) [liberation](mokṣaḥ) [not](na) [other](anyaḥ) [is](asti) [suffering-form](duḥkhākāra) [devoid](vivarjitaḥ)
 
 ## mukta-m0-p05-v117
-[bliss-lord](ānaṃdanātha) [linga-established](liṃgasthamadhikṛtyapravartate)
+[Anandanatha](ānaṃdanātha) [in-linga](liṃgastham) [having-established](adhikṛtya) [proceeds](pravartate)
 
 ## mukta-m0-p05-v118
-[thus-in-ānanda-tantra](ityānaṃdataṃtre) [third-chapter](tṛtīyaḥ paṭalaḥ)
+[thus](iti) [in-Ananda-tantra](ānaṃdataṃtre) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p05-v119
-[linga-bliss-filled](liṃgānaṃdamayo) [this](yo'yamīśvaraḥ) [established](pratipāditaḥ)
+[full-of-linga-bliss](liṃgānaṃdamayaḥ) [who](yaḥ) [this](ayam) [lord](īśvaraḥ) [described](pratipāditaḥ)
 
 ## mukta-m0-p05-v120
-[some](kecittān) [worship](pūjayaṃ) [only-enjoyment](tyeva bhogamātra) [turning-away](parāṅmukhān)
+[some](kecit) [them](tān) [worship](pūjayanti) [indeed](eva) [mere-enjoyment](bhogamātra) [averse](parāṅmukhān)
 
 ## mukta-m0-p05-v121
-[others](anyānyapi) [attached-to-pleasure](sukhāsaktānāti) [join](saṃdadhate) [benefit](hite)
+[others-also](anyānyapi) [attached-to-pleasure](sukhāsaktān) [etc](āti) [join](saṃdadhate) [in-good](hite)
 
 ## mukta-m0-p05-v122
-[foolish-activities](mūrkhapravṛttayaḥ) [some](kecit) [indifferent-to-benefit-harm](hitāhitaparāṅmukhāḥ)
+[foolish-activities](mūrkhapravṛttayaḥ) [some](kecit) [good-and-bad](hitāhita) [averse](parāṅmukhāḥ)
 
 ## mukta-m0-p05-v123
-[to-destruction](vināśameva) [go](gacchaṃti) [blaming](niṃdatolaiṃgamīśvaram)
+[destruction](vināśam) [indeed](eva) [go](gacchanti) [blaming](niṃdataḥ) [linga](ulaiṃgam) [lord](īśvaram)
 
 ## mukta-m0-p05-v124
-[not-by-stone](nāśmanānirmitaṃ) [goddess](devī) [not-by-iron](nāyasāna) [nor-by-wood](ca dārubhiḥ)
+[not](na) [by-stone](aśmanā) [made](nirmitam) [goddess](devī) [not](na) [by-iron](ayasā) [not](na) [and](ca) [by-wood](dārubhiḥ)
 
 ## mukta-m0-p05-v125
-[of-elements](dhātūnāṃ) [own-form](ca svarūpaṃ) [that-transformation](tatpariṇāmo) [indeed-semen](hi retasaḥ)
+[of-elements](dhātūnām) [and](ca) [nature](svarūpam) [that](tat) [transformation](pariṇāmaḥ) [indeed](hi) [of-semen](retasaḥ)
