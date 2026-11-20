@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[cibukoṣṭhau](cibukoṣṭhau) [vibhāgena](vibhāgena) [nāsā](nāsā) [lalāṭa](lalāṭa) [stakam](stakam)
+chin-lips(chibuka-oṣṭhau) by-division(vibhāgena) nose-forehead-cluster(nāsā-lalāṭa-stakam)
 
 ## mukta-m0-p49-v1202
-[liṅga](liṅga) [pārśve](pārśve) [dvibhāgena](dvibhāgena) [bhāgam](bhāgam) [tyaktvā](tyaktvā) [tad](tad) [ūrdhvataḥ](ūrdhvataḥ)
+linga-sides(liṅga-pārśve) two-parts(dvi-bhāgena) part(tyaktvā) above-that(tad-ūrdhvataḥ)
 
 ## mukta-m0-p49-v1203
-[pañca](pañca) [āsya](āsya) [ādi](ādi) [eka](eka) [vaktra](vaktra) [antam](antam) [ayam](ayam) [eva](eva) [vidhiḥ](vidhiḥ) [punaḥ](punaḥ)
+five-faces-etc(pañca-āsya-ādi) one-face-end(eka-vaktra-antam) thus-this(ayam-eva) rule(vidhiḥ) again(punaḥ)
 
 ## mukta-m0-p49-v1204
-[pañcānana](pañcānana) [ādikam](ādikam) [proktam](proktam) [suvyaktam](suvyaktam) [adhudanocyate](adhudanocyate)
+five-faced-etc(pañcānana-ādikam) said(proktam) very-clear(su-vyaktam) honey? (adhudanocyate)
 
 ## mukta-m0-p49-v1205
-[dvibāhu](dvibāhu) [ūrdhva](ūrdhva) [dehāni](dehāni) [viṣṇu](viṣṇu) [anta](anta) [caraṇāni](caraṇāni) [ca](ca)
+two-arms(dvi-bāhūni) upper-body(ūrdhva-dehāni) viṣṇu-feet(viṣṇu-anta-caraṇāni) and(ca)
 
 ## mukta-m0-p49-v1206
-[pūrva](pūrva) [kāye](kāye) [pumāṃsam](pumāṃsam) [tu](tu) [mātuluṅga](mātuluṅga) [akṣa](akṣa) [śalinam](śalinam)
+front-body(pūrva-kāye) man(pumāṃsam) citron-eyed(mātuluṅga-akṣa-śālinam)
 
 ## mukta-m0-p49-v1207
-[strī](strī) [ākāra](ākāra) [muktare](muktare) [guhyaṃ](guhyaṃ) [darpaṇa](darpaṇa) [utpala](utpala) [saṃyutam](saṃyutam)
+woman-form(stry-ākāram) upper-secret(guhyaṃ) mirror-lotus(mirror-utpala-saṃyutam)
 
 ## mukta-m0-p49-v1208
-[suvyakta](suvyakta) [pañcadhā](pañcadhā) [hy](hy) [evam](evam) [āsya](āsya) [ovatā](ovatā) [bidhi](bidhi) [saṃsthitam](saṃsthitam)
+very-clear(su-vyakta) fivefold(pañcadhā) thus(evam) face-rule(āsya-uvatā-bhidhi-saṃsthitam)
 
 ## mukta-m0-p49-v1209
-[evam](evam) [niṣpādya](niṣpādya) [liṅgāni](liṅgāni) [piṇḍikām](piṇḍikām) [vartayet](vartayet) [tataḥ](tataḥ)
+thus(evam) having-made(niṣpādya) lingas(liṅgāni) pedestal(piṇḍikām) make(vartayet) then(tataḥ)
 
 ## mukta-m0-p49-v1210
-[iti](iti) [lakṣaṇa](lakṣaṇa) [samuccaye](samuccaye) [vyakta](vyakta) [avyakta](avyakta) [liṅgānām](liṅgānām) [daśadhā](daśadhā) [vartanam](vartanam) [nāma](nāma) [saptamaḥ](saptamaḥ) [vidhiḥ](vidhiḥ) [atho](atho) [uṣṭama](uṣṭama)
+thus(iti) characteristics-collection(lakṣaṇa-samuccaye) manifest-unmanifest-lingas(vyakta-avyakta-liṅgānām) tenfold(daśadhā) making(vartanam) named(nāma) seventh(saptamaḥ) rite(vidhiḥ) then(atho) eighth(aṣṭama)
 
 ## mukta-m0-p49-v1211
-[mahatyāḥ](mahatyāḥ) [prātamāyāḥ](prātamāyāḥ) [ca](ca) [dig](dig) [liṅga](liṅga) [ādeḥ](ādeḥ) [ca](ca) [sādhane](sādhane)
+great(mahatyāḥ) first-māyā(prātamāyāḥ) and(ca) dig-linga-etc(dig-liṅga-ādeḥ) in-rite(sādhane)
 
 ## mukta-m0-p49-v1212
-[nava](nava) [jñām](jñām) [kārayet](kārayet) [tasmāt](tasmāt) [kadācit](kadācit) [ubhayoḥ](ubhayoḥ) [api](api)
+nine-knowledge(navajñām) make(kārayet) therefore(tasmāt) sometimes(kadācit) of-both(ubhayor-api)
 
 ## mukta-m0-p49-v1213
-[piṇḍikā](piṇḍikā) [tu](tu) [samākhyātā](samākhyātā) [na](na) [hīnā](hīnā) [na](na) [adhikā](adhikā) [śubhā](śubhā)
+pedestal(piṇḍikā) tu(tu) called(samākhyātā) not-not-less(na-hīnā) not-excess(na-adhikā) auspicious(śubhā)
 
 ## mukta-m0-p49-v1214
-[mekhalā](mekhalā) [tat](tat) [tribhāgena](tribhāgena) [khātam](khātam) [tat](tat) [tryaṃśa](tryaṃśa) [hīnakam](hīnakam)
+girdle(mekhalā) that-its-part(tat-tribhāgena) pit(khātam) that-third-less(tat-tryaṃśa-hīnakam)
 
 ## mukta-m0-p49-v1215
-[madhye](madhye) [vṛttam](vṛttam) [samālikhya](samālikhya) [vartayet](vartayet) [khātam](khātam) [ādarāt](ādarāt)
+middle(madhye) circle(samālikhya) make-pit(vartayet-khātam) carefully(ādarāt)
 
 ## mukta-m0-p49-v1216
-[arvāk](arvāk) [dairghya](dairghya) [tribhāgena](tribhāgena) [mekhalā](mekhalā) [vartanam](vartanam) [bahiḥ](bahiḥ)
+below(arvāk) length-third(dairghya-tribhāgena) girdle-making(mekhalā-vartanam) outside(bahiḥ)
 
 ## mukta-m0-p49-v1217
-[mukhe](mukhe) [tat](tat) [ardha](ardha) [vistāram](vistāram) [tan](tan) [tribhāge](tribhāge) [ambu](ambu) [nirgamaḥ](nirgamaḥ)
+mouth(mukhe) half-width(tad-ardha-vistāram) third-part(tan-tribhāge) water-outflow(ambu-nirgamaḥ)
 
 ## mukta-m0-p49-v1218
-[kaṇṭhāt](kaṇṭhāt) [ūrdhvam](ūrdhvam) [sadā](sadā) [hy](hy) [evam](evam) [anyathā](anyathā) [doṣa](doṣa) [dāyakam](dāyakam)
+neck-above(kaṇṭha-ūrdhvam) always(sadā) thus(evam) otherwise(anyathā) fault-giving(doṣa-dāyakam)
 
 ## mukta-m0-p49-v1219
-[ṣaṣṭha](ṣaṣṭha) [aṃśa](aṃśa) [veśanāt](veśanāt) [kaṇṭha](kaṇṭha) [calānām](calānām) [pañcamena](pañcamena) [vā](vā)
+sixth-part(ṣaṣṭha-aṃśa) insertion(veśanāt) neck(kaṇṭha) movable(calānām) fifth(pañcamena) or(vā)
 
 ## mukta-m0-p49-v1220
-[avyakte](avyakte) [miśrake](miśrake) [svāṃśe](svāṃśe) [brahma](brahma) [viṣṇu](viṣṇu) [svarūpataḥ](svarūpataḥ)
+unmanifest(miśrake) own-part(svāṃśe) brahma-viṣṇu-form(brahma-viṣṇu-svarūpataḥ)
 
 ## mukta-m0-p49-v1221
-[liṅga](liṅga) [sthaulya](sthaulya) [pramāṇena](pramāṇena) [samāsram](samāsram) [dig](dig) [vidik](vidik) [sthitam](sthitam)
+linga-thickness(liṅga-sthaulya-pramāṇena) with-sap(samāsram) directions(dig-vidik-sthitam)
 
 ## mukta-m0-p49-v1222
-[samantāt](samantāt) [jyeṣṭha](jyeṣṭha) [liṅgasya](liṅgasya) [yavaiḥ](yavaiḥ) [ṣaḍbhiḥ](ṣaḍbhiḥ) [vivardhitam](vivardhitam)
+all-around(samantāt) chief-linga(jyeṣṭha-liṅgasya) barley(six)(yavaiḥ-ṣaḍbhiḥ) increased(vivardhitam)
 
 ## mukta-m0-p49-v1223
-[liṅgavat](liṅgavat) [nirmalā](nirmalā) [śuddhā](śuddhā) [kartavyā](kartavyā) [piṇḍikā](piṇḍikā) [budhaiḥ](budhaiḥ)
+like-linga(liṅgavat) pure(nirmalā) clean(śuddhā) make(kartavyā) pedestal(piṇḍikā) wise(budhaiḥ)
 
 ## mukta-m0-p49-v1224
-[śeṣāṇām](śeṣāṇām) [liṅgānām](liṅgānām) [ardha](ardha) [ardha](ardha) [hrāsayet](hrāsayet) [yavam](yavam)
+remaining(śeṣāṇām) lingas(liṅgānām) half-half(ardha-ardha) reduce(hrāsayet) barley(yavam)
 
 ## mukta-m0-p49-v1225
-[kāmānām](kāmānām) [vasutastasya](vasutastasya) [bhedān](bhedān) [brūmaḥ](brūmaḥ) [samāsataḥ](samāsataḥ)
+desires(kāmānām) wealth(vasutaḥ) its(tasya) divisions(bhedān) say(brūmaḥ) briefly(samāsataḥ)
