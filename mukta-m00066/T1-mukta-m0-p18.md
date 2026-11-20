@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[limbless-powers-eight](anaṃgaśaktayoṣṭau) [indeed](tu) [worship-worthy](pūjanīyā) [by-wise](manīṣibhiḥ)
+[pada](anaṃga+śaktayoṣṭau) [pada](tu) [pada](pūjanīyā+manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[limbless-madana-limbless](anaṃgamadanānaṃga) [madana-afflicted-with](madanāturayā) [together](saha)
+[pada](anaṃga+madanānaṃga) [pada](madanā+turayā) [pada](saha)
 
 ## mukta-m0-p18-v428
-[limbless-garlanded](anaṃgamālinī) [and](ca) [eight](aṣṭau) [worship-worthy](pūjanīyā) [according-to-rite](vidhānataḥ)
+[pada](anaṃga+mālinī) [pada](ca) [pada](aṣṭau) [pada](pūjanīyā) [pada](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-[bliss-wheel-bliss](ānaṃdacakramānaṃda) [uproar-increasing](kolāhalavivarddhanam)
+[pada](ānaṃda+cakram+ānaṃda) [pada](kolāhala+vivarddhanam)
 
 ## mukta-m0-p18-v430
-[lightning-radiance](taṭitprabhā) [shining-cage](samullāsapiṃjaraiḥ) [with-love-rays](kāmaraśmibhiḥ)
+[pada](taṭit+prabhā) [pada](samullāsa+piṃjaraiḥ) [pada](kāma+raśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[limbless-power-agitation](anaṃgaśakti+saṃkṣobhāṃ) [from-channels-flowing](nāḍībhyogalitaṃ) [new](navam)
+[pada](anaṃga+śakti) [pada](saṃkṣobhāṃ) [pada](nāḍībhyo+galitaṃ) [pada](navam)
 
 ## mukta-m0-p18-v432
-[erotic-flow-full](śṛṃgāravāhinīpūra) [full-passion](pūrṇarāgāṃ) [reddish](kurāruṇam)
+[pada](śṛṃgāra+vāhinī+pūra) [pada](pūrṇa+rāgāṃ) [pada](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[love-liquid-abundance](manmathadrava+saṃdoha) [endowed-with-meaning-distinctions](juṣṭamarthaprabhedanaiḥ)
+[pada](manmatha+drava) [pada](saṃdoha) [pada](juṣṭam+artha+prabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[who-is-this](keyaṃ) [moon-digit-named](caṃdrakalānāma) [where](kutra) [stands](tiṣṭhati) [shankara](śaṃkara)
+[pada](keyaṃ) [pada](caṃdra+kalā+nāma) [pada](kutra) [pada](tiṣṭhati) [pada](śaṃkara)
 
 ## mukta-m0-p18-v435
-[listen-love-digit-named](śṛṇukāmakalānāma) [channel-enjoyment-water-carrying](nāḍībhogāṃbuvāhinī)
+[pada](śṛṇu+kāma+kalā+nāma) [pada](nāḍī+bhoga+aṃbu+vāhinī)
 
 ## mukta-m0-p18-v436
-[channel-wheel](nāḍīcakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [best-faced](varānane)
+[pada](nāḍī+cakraṃ) [pada](samastaṃ) [pada](ca) [pada](tayā) [pada](vyāptaṃ) [pada](varānane)
 
 ## mukta-m0-p18-v437
-[some-bliss-carrying](kāścidānaṃdavāhinya) [one-only-impurity-carrying](ekaivamalavāhinī)
+[pada](kāścid+ānaṃda+vāhinya) [pada](eka+evam+ala+vāhinī)
 
 ## mukta-m0-p18-v438
-[eight-enjoyment-water-carrying](aṣṭaubhogāṃbuvāhinyaḥ) [in-them](tāsu) [moon-digit-supreme](caṃdrakalā+parā)
+[pada](aṣṭau+bhoga+aṃbu+vāhinyaḥ) [pada](tāsu) [pada](caṃdra+kalā) [pada](parā)
 
 ## mukta-m0-p18-v439
-[moon-streak](caṃdrarekhā) [moon-possessing](caṃdravatī) [thus](tathā) [moon-great-rising](caṃdramahodayā)
+[pada](caṃdra+rekhā) [pada](caṃdra+vatī) [pada](tathā) [pada](caṃdra+mahodayā)
 
 ## mukta-m0-p18-v440
-[these-enjoyment-water-carrying](etābhogāṃbuvāhinya) [by-own-parts](svāṃśaiś) [moon-digit-dependent](caṃdrakalāśritāḥ)
+[pada](etā+bhoga+aṃbu+vāhinya) [pada](svāṃśaiḥ+caṃdra+kalā+āśritāḥ)
 
 ## mukta-m0-p18-v441
-[principal-being](pradhānabhūtā) [shining](vilasad) [lightning-garland](vidyuddāma) [equal-radiance](samaprabhā)
+[pada](pradhāna+bhūtā) [pada](vilasad+vidyut+dāma) [pada](sama+prabhā)
 
 ## mukta-m0-p18-v442
-[all-channels-root](sarvanāḍīmūlabhūtaṃ) [navel-wheel](nābhicakraṃ) [resorted-to](samāśritā)
+[pada](sarva+nāḍī+mūla+bhūtaṃ) [pada](nābhi+cakraṃ) [pada](samāśritā)
 
 ## mukta-m0-p18-v443
-[its-mouth-opening](tanmukhot) [ghāṭanaṃ](ghāṭanaṃ) [in-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
+[pada](tan+mukhot+ghāṭanaṃ) [pada](loke) [pada](durlabhaṃ) [pada](parameśvari)
 
 ## mukta-m0-p18-v444
-[of-two-or-three-only](dvitrāṇāmeva) [would-be-born](jāyeta) [among-thousands](sahasreṣvathakauliṣu)
+[pada](dvitrāṇām+eva) [pada](jāyeta) [pada](sahasreṣu+athakauliṣu)
 
 ## mukta-m0-p18-v445
-[whose](yasya) [liṅga-lord-union](liṃgesvarāseka) [once-or-pool-birth](sakṛdvāpīhajanmani)
+[pada](yasya) [pada](liṃga+īśvara+āseka) [pada](sakṛd+vā+pīha+janmani)
 
 ## mukta-m0-p18-v446
-[of-ineffable](anirvācyasya) [liberation](nirvāṇa) [path-infinite](padavīnadaviyasī)
+[pada](anirvācyasya) [pada](nirvāṇa) [pada](padavī+nadaviyasī)
 
 ## mukta-m0-p18-v447
-[of-convention](samayasya) [full-knowledge](parijñānāt) [of-worship](upacārasya) [by-imagination](kalpanāt)
+[pada](samayasya) [pada](parijñānāt+upacārasya) [pada](kalpanāt)
 
 ## mukta-m0-p18-v448
-[sometimes](kadācit) [somewhere](kvacid) [opening](unmeṣaṃ) [mouth-opening-marked](mukhodghāṭanalakṣaṇam)
+[pada](kadācit) [pada](kvacid+unmeṣaṃ) [pada](mukhodghāṭana+lakṣaṇam)
 
 ## mukta-m0-p18-v449
-[for-that-purpose](tadarthānyeva) [scriptures](śāstrāṇi) [for-that-purpose](tadarthāśca) [activities](pravṛttayaḥ)
+[pada](tadarthānyeva+śāstrāṇi) [pada](tadarthāśca) [pada](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[therefore](tasmāt) [moon-digit-channel](caṃdrakalānāḍyāṃ) [enjoyment-nectar-great-ocean](bhogāmṛtamahodadhim)
+[pada](tasmāt+caṃdra+kalā+nāḍyāṃ) [pada](bhoga+amṛta+mahodadhim)
