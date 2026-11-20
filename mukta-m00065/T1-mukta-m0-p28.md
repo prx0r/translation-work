@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[none](navāvadhikarāntasya) [none](śūnyadoṣo) [none](na) [none](kasyacit)
+[new](navā) [limit](avadhikarāntasya) [void-fault](śūnyadoṣo) [not](na) [anyone's](kasyacit)
 
 ## mukta-m0-p28-v677
-[none](tridhā) [none](mānena) [none](caikena) [none](ṣoḍaśāsraṃ) [none](śatadvayam)
+[threefold](tridhā) [measure](mānena) [and-one](caikena) [sixteen-angled](ṣoḍaśāsraṃ) [two-hundred](śatadvayam)
 
 ## mukta-m0-p28-v678
-[none](caturaṣṭaṣaḍasraṃ) [none](tu) [none](indrāṅkaṃ) [none](vajrarūpakam)
+[four-six-eight-angled](caturaṣṭaṣaḍasraṃ) [tu](tu) [indra-marked](indrāṅkaṃ) [vajra-form](vajrarūpakam)
 
 ## mukta-m0-p28-v679
-[none](bindusaṃpātsaṃyogāttiryaksūtrairvivartayet)
+[bindu-contact](bindusaṃpātsaṃyogāt) [transverse-threads](tiryaksūtrair) [revolve](vivartayet)
 
 ## mukta-m0-p28-v680
-[none](vasvasrordhvaṃ) [none](tu) [none](saptāsraṃ) [none](śaktyāgneya) [none](ca) [none](dāhakṛt)
+[above-two-angles](vasvasrordhvaṃ) [tu](tu) [seven-angled](saptāsraṃ) [power-fiery](śaktyāgneya) [ca](ca) [burning](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[none](nāhārdhaṃ) [none](navadhā) [none](kṛtvā) [none](śarairhṛtpṛṣṭhakoṭibhiḥ)
+[not-half](nāhārdhaṃ) [ninefold](navadhā) [having-made](kṛtvā) [arrows](śarair) [heart-back-corners](hṛtpṛṣṭhakoṭibhiḥ)
 
 ## mukta-m0-p28-v682
-[none](evaṃ) [none](cāṣṭāsravṛtaṃ) [none](syādyāmyadaṇḍaṃ) [none](rujapradam)
+[thus](evaṃ) [ca](cā) [eight-angled-surrounded](aṣṭāsravṛtaṃ) [syāt](syāt) [yama-staff](yāmyadaṇḍaṃ) [disease-giving](rujapradam)
 
 ## mukta-m0-p28-v683
-[none](aṣṭāsro'rdha) [none](daśāstraṃ) [none](syātkhaḍgābhaṃ) [none](rākṣasaṃ) [none](bhayam)
+[eight-angled-half](aṣṭāsro'rdha) [ten-angled](daśāstraṃ) [syāt](syāt) [sword-like](khaḍgābhaṃ) [rākṣasa-fear](rākṣasaṃ bhayam)
 
 ## mukta-m0-p28-v684
-[none](caturaṣṭāsravṛttaṃ) [none](syātpāśavadvāruṇaṃ) [none](śubham)
+[four-eight-angled-surrounded](caturaṣṭāsravṛttaṃ) [syāt](syāt) [noose-like](pāśavat) [vāruṇa](vāruṇaṃ) [auspicious](śubham)
 
 ## mukta-m0-p28-v685
-[none](kṛśaṃ) [none](prāgrūpakaṃ) [none](dīrghaṃ) [none](calamuccāṭakṛddhvajam)
+[thin](kṛśaṃ) [front-form](prāgrūpakaṃ) [long](dīrghaṃ) [moving](calam) [uprooting-flag](uccāṭakṛddhvajam)
 
 ## mukta-m0-p28-v686
-[none](yākṣaṃ) [none](gadāgramūrdhānaṃ) [none](balavṛddhikaraṃ) [none](śivam)
+[yakṣa](yākṣaṃ) [mace-tip-headed](gadāgramūrdhānaṃ) [strength-increase](balavṛddhikaraṃ) [śiva](śivam)
 
 ## mukta-m0-p28-v687
-[none](catuḥpañcāsrakaṃ) [none](tryasraṃ) [none](śūlaṃ) [none](raudraṃ) [none](tu) [none](muktidam)
+[four-five-angled](catuḥpañcāsrakaṃ) [three-angled](tryasraṃ) [trident](śūlaṃ) [raudra](raudraṃ) [tu](tu) [liberation-giving](muktidam)
 
 ## mukta-m0-p28-v688
-[none](aṣṭāsro'rdhaṃ) [none](ca) [none](vedāsraṃ) [none](brāhmaṃ) [none](svargāya) [none](padmavat)
+[eight-angled-half](aṣṭāsro'rdhaṃ) [ca](ca) [four-angled](vedāsraṃ) [brahma](brāhmaṃ) [to-heaven](svargāya) [lotus-like](padmavat)
 
 ## mukta-m0-p28-v689
-[none](caturaṣṭāsravṛttaṃ) [none](syādvaiṣṇavaṃ) [none](śaṅkhava) [none](cchubham)
+[four-eight-angled-surrounded](caturaṣṭāsravṛttaṃ) [syāt](syāt) [vaiṣṇava](vaiṣṇavaṃ) [conch-like](śaṅkhavat) [auspicious](śubham)
 
 ## mukta-m0-p28-v690
-[none](rudrāttrihānitaḥ) [none](śuktirdaṇḍo) [none](digbhyastrihānitaḥ)
+[from-rudra-three-less](rudrāttrihānitaḥ) [shell](śuktir) [staff](daṇḍo) [from-directions-three-less](digbhyastrihānitaḥ)
 
 ## mukta-m0-p28-v691
-[none](kukkuṭāṇḍaṃ) [none](ca) [none](vāyavye) [none](bhūtāṃśāddhi) [none](yate) [none](gadā)
+[cock-egg](kukkuṭāṇḍaṃ) [ca](ca) [vāyavya](vāyavye) [from-beings-part](bhūtāṃśāddhi) [yate](yate) [mace](gadā)
 
 ## mukta-m0-p28-v692
-[none](dakṣāṇḍabhaja) [none](vaiṣṇośca) [none](ittha) [none](rekhā) [none](maṇerapi)
+[right-egg-portion](dakṣāṇḍabhaja) [vaiṣṇava's](vaiṣṇośca) [thus](ittha) [line](rekhā) [of-gem](maṇerapi)
 
 ## mukta-m0-p28-v693
-[none](sphuṭitaṃ) [none](garbhavaddaṣṭaṃ) [none](sthāpayedābhivārike)
+[split](sphuṭitaṃ) [like-embryo](garbhavaddaṣṭaṃ) [place](sthāpayed) [ābhivārika](ābhivārike)
 
 ## mukta-m0-p28-v694
-[none](vyaktaliṅgāni) [none](cānyāni) [none](nānā) [none](rūpāṇi) [none](vacmyataḥ)
+[manifest-signs](vyaktaliṅgāni) [ca](cā) [others](anyāni) [various](nānā) [forms](rūpāṇi) [I-speak](vacmyataḥ)
 
 ## mukta-m0-p28-v695
-[none](iti) [none](lakṣaṇasamuccaye'vyaktaliṅgalakṣaṇaṃ) [none](nāma) [none](caturtho) [none](vidhiḥ)
+[thus](iti) [characteristics-collection](lakṣaṇasamuccaye) [unmanifest-sign-characteristic](avyaktaliṅgalakṣaṇaṃ) [named](nāma) [fourth](caturtho) [rite](vidhiḥ)
 
 ## mukta-m0-p28-v696
-[none](pūrvāṅgulapramāṇena) [none](daśapañcāṅgulāṅgulāt)
+[previous-finger-measure](pūrvāṅgulapramāṇena) [ten-five-fingers](daśapañcāṅgulāṅgulāt)
 
 ## mukta-m0-p28-v697
-[none](kvaciddhastapramāṇā) [none](sā) [none](kvacicca) [none](triṃśadaṅgulā)
+[sometimes-hand-measure](kvaciddhastapramāṇā) [sā](sā) [sometimes-thirty-fingers](kvacicca triṃśadaṅgulā)
 
 ## mukta-m0-p28-v698
-[none](dvārocchrayaṃ) [none](vibhajyādāvaṣṭadhaukaṃ) [none](vidhāya) [none](ca)
+[page-82](p. 82) [two-gate-height](dvārocchrayaṃ) [dividing-first](vibhajyādau) [eight-portioned](aṣṭadhaukaṃ) [having-made](vidhāya) [ca](ca)
 
 ## mukta-m0-p28-v699
-[none](vidhātavyā) [none](dvibhāgena) [none](kanyasī) [none](pratimā) [none](ca) [none](sā)
+[to-be-made](vidhātavyā) [two-part](dvibhāgena) [smaller](kanyasī) [image](pratimā) [ca](ca) [sā](sā)
 
 ## mukta-m0-p28-v700
-[none](madhyamā) [none](syāddvibhāgena) [none](kāryaikāṃśena) [none](pīṭhikā)
+[middle](madhyamā) [syāt](syāddvibhāgena) [one-part](kāryaikāṃśena) [pedestal](pīṭhikā)
