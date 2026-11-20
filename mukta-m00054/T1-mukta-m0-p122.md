@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p122-v3026
-to-beggar-homage to-beggar-form-homage to-market-homage
+[pada](bhikṣavenamaḥ) [pada](bhikṣurūpāyanamaḥ) [pada](vipaṇāyanamaḥ)
 
 ## mukta-m0-p122-v3027
-to-thunderbolt-holder-homage to-viṣkambhin-homage
+[pada](vajrahastāyanamaḥ) [pada](viṣkambhinenamaḥ)
 
 ## mukta-m0-p122-v3028
-to-army-stopping-homage to-round-and-nonround-maker-homage
+[pada](camūstambhanāyanamaḥ) [pada](vṛttāvṛttakarāyanamaḥ)
 
 ## mukta-m0-p122-v3029
-to-palm-homage to-madhava-homage to-sweet-eyed-homage
+[pada](tālāyanamaḥ) [pada](madhavenamaḥ) [pada](madhukalocanāyanamaḥ)
 
 ## mukta-m0-p122-v3030
-to-speech-lord-homage to-vajasana-homage
+[pada](vācaspatyāyanamaḥ) [pada](vājasanāyanamaḥ)
 
 ## mukta-m0-p122-v3031
-to-hermitage-honored-homage to-brahmacarin-homage
+[pada](āśramapūjitāyanamaḥ) [pada](brahmacāriṇenamaḥ)
 
 ## mukta-m0-p122-v3032
-to-world-wanderer-homage to-all-wanderer-homage to-inquiry-knower-homage
+[pada](lokacāriṇenamaḥ) [pada](sarvacāriṇenamaḥ) [pada](vicāravidenamaḥ)
 
 ## mukta-m0-p122-v3033
-to-ishana-homage to-ishvara-homage to-time-homage
+[pada](īśānāyanamaḥ) [pada](īśvarāyanamaḥ) [pada](kālāyanamaḥ)
 
 ## mukta-m0-p122-v3034
-to-night-wanderer-homage to-pinaka-holder-homage to-omen-standing-homage
+[pada](niśācāriṇenamaḥ) [pada](pinākadhṛṣenamaḥ) [pada](nimittasthāyanamaḥ)
 
 ## mukta-m0-p122-v3035
-to-omen-homage to-delighter-homage to-nandi-maker-homage
+[pada](nimittāyanamaḥ) [pada](nandayenamaḥ) [pada](nandikarāyanamaḥ)
 
 ## mukta-m0-p122-v3036
-to-hara-homage to-nandishvara-homage to-nandin-homage
+[pada](harayenamaḥ) [pada](nandīśvarāyanamaḥ) [pada](nandinenamaḥ)
 
 ## mukta-m0-p122-v3037
-to-slayer-homage to-time-homage to-brahman-homage
+[pada](nihantrenamaḥ) [pada](kālāyanamaḥ) [pada](brahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3038
-to-grandfather-homage to-four-faced-homage
+[pada](pitāmahāyanamaḥ) [pada](caturmmukhāyanamaḥ)
 
 ## mukta-m0-p122-v3039
-to-great-linga-homage to-beautiful-linga-homage
+[pada](mahāliṅgāyanamaḥ) [pada](cāruliṅgāyanamaḥ)
 
 ## mukta-m0-p122-v3040
-to-linga-superintendent-homage to-god-superintendent-homage
+[pada](liṅgādhyakṣāyanamaḥ) [pada](surādhyakṣāyanamaḥ)
 
 ## mukta-m0-p122-v3041
-to-yoga-superintendent-homage to-yuga-bearer-homage
+[pada](yogādhyakṣāyanamaḥ) [pada](yugāvahāyanamaḥ)
 
 ## mukta-m0-p122-v3042
-to-seed-superintendent-homage to-seed-maker-homage
+[pada](bījādhyakṣāyanamaḥ) [pada](bījakarttrenamaḥ)
 
 ## mukta-m0-p122-v3043
-to-self-pervading-homage to-strength-homage to-history-homage
+[pada](adhyātmānugatāyanamaḥ) [pada](balāyanamaḥ) [pada](itihāsāyanamaḥ)
 
 ## mukta-m0-p122-v3044
-to-subduing-homage to-subduer-homage to-calculating-homage
+[pada](vaśyāyanamaḥ) [pada](vaśakarāyanamaḥ) [pada](kalayenamaḥ)
 
 ## mukta-m0-p122-v3045
-to-world-maker-homage to-pashupati-homage to-great-maker-homage
+[pada](lokakarttrenamaḥ) [pada](paśupatayenamaḥ) [pada](mahākarttrenamaḥ)
 
 ## mukta-m0-p122-v3046
-to-without-medicine-homage to-imperishable-homage to-supreme-brahman-homage
+[pada](anauṣadhāyanamaḥ) [pada](akṣarāyanamaḥ) [pada](paramabrahmaṇenamaḥ)
 
 ## mukta-m0-p122-v3047
-to-strong-homage to-shakra-homage to-policy-homage
+[pada](balavatenamaḥ) [pada](śakrāyanamaḥ) [pada](nītayenamaḥ)
 
 ## mukta-m0-p122-v3048
-to-non-policy-homage to-pure-soul-homage to-pure-homage
+[pada](anītayenamaḥ) [pada](śuddhātmanenamaḥ) [pada](śuddhāyanamaḥ)
 
 ## mukta-m0-p122-v3049
-to-honorable-homage to-going-and-coming-homage to-much-grace-homage
+[pada](mānyāyanamaḥ) [pada](gatāgatāyanamaḥ) [pada](bahuprasādāyanamaḥ)
 
 ## mukta-m0-p122-v3050
-to-veda-maker-homage to-mantra-maker-homage to-knower-homage
+[pada](vedakārāyanamaḥ) [pada](mantrakārāyanamaḥ) [pada](viduṣenamaḥ)
