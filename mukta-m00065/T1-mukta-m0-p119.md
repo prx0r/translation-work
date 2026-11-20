@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p119-v2951
-[rest-one](viśrāmyaikāṃ) [then](tato) [night](rātriṃ) [cow-dung](gomayena) [plaster](vilepayet)
-
+[verse-pada](viśrāmyaikāṃ) [verse-pada](tato) [verse-pada]([g:) [verse-pada](mya) [verse-pada](kārutāṃ]) [verse-pada](rātriṃ) [verse-pada](gomayena) [verse-pada](vilepayet)
 ## mukta-m0-p119-v2952
-[hemp-fruit-ash-decoction](śaṇaphalyāṅghikāṣāyai) [stone-creeper-juice](stopalatārasena) [or](vā)
-
+[verse-pada](śaṇaphalyāṅghikāṣāyai) [verse-pada]([g:) [verse-pada](sādyai]) [verse-pada](stopalatārasena) [verse-pada](vā)
 ## mukta-m0-p119-v2953
-[steamed](utsvinna) [mung-bean-water](māṣatoyena) [steamed-bilva-water](svinnabilvāmbunāpi) [or](vā)
-
+[verse-pada](utsvinna) [verse-pada]([mū:) [verse-pada](utsvinya]) [verse-pada](māṣatoyena) [verse-pada](svinnabilvāmbunāpi) [verse-pada](vā)
 ## mukta-m0-p119-v2954
-[then](tataś) [mortar-etc](colūkhalādyaiḥ) [coarse-powders](sthūlacūrṇāni) [make](kārayet)
-
+[verse-pada](tataścolūkhalādyaistu) [verse-pada](sthūlacūrṇāni) [verse-pada](kārayet)
 ## mukta-m0-p119-v2955
-[pot-interior](sthālyāgarbhe) [placing](saṃsthāpya) [then](tato) [drugs](drayāṇi) [put](niḥkṣipet)
-
+[verse-pada](sthālyāgarbhe) [verse-pada](tu) [verse-pada](saṃsthāpya) [verse-pada](tato) [verse-pada](drayāṇi) [verse-pada](niḥkṣipet)
 ## mukta-m0-p119-v2956
-[sand](sikrāta) [cow-milk](gavyadugdhāni) [sal-tree-oil](sarjatailā) [flax-seed-powder](tasīrajaḥ)
-
+[verse-pada](sikrāta) [verse-pada]([mū,) [verse-pada](gh,) [verse-pada](ṅ:) [verse-pada](sikatā]) [verse-pada](gavyadugdhāni) [verse-pada](sarjatailātasīrajaḥ)
 ## mukta-m0-p119-v2957
-[mango-fruit-water](āmrātakāmbubhiḥ) [pounded](piṣṭaṃ) [thick-mouthed](sthūlāsyā) [milk-named](dugdhi) [cow](kāhvayā)
-
+[verse-pada](āmrātakāmbubhiḥ) [verse-pada](piṣṭaṃ) [verse-pada](sthūlāsyā) [verse-pada](dugdhi) [verse-pada]([g:) [verse-pada](vāru]) [verse-pada](kāhvayā)
 ## mukta-m0-p119-v2958
-[decoction](kvāthena) [ram-horn](meṣaśṛṅgasya) [flax-powder-mixed](atasīcūrṇamiśritam)
-
+[verse-pada](kvāthena) [verse-pada](meṣaśṛṅgasya) [verse-pada](atasīcūrṇamiśritam)
 ## mukta-m0-p119-v2959
-[vajra-plaster](vajralepaḥ) [declared](samakhyātaḥ) [thus](tathā) [sal-tree-joined](sarjasamanvitaḥ)
-
+[verse-pada](vajralepaḥ) [verse-pada](samakhyātastathā) [verse-pada](sarjasamanvitaḥ)
 ## mukta-m0-p119-v2960
-[beeswax](madhūcchiṣṭena) [pastes](kalkaiś) [hemp-born](śāṇajaiḥ) [strong-new](sudṛḍhairnavaiḥ)
-
+[verse-pada](madhūcchiṣṭena) [verse-pada](kalkaiśca) [verse-pada](śāṇajaiḥ) [verse-pada](sudṛḍhairnavaiḥ)
 ## mukta-m0-p119-v2961
-[flax-oil-mixed](atasītailasammiśraṃ) [rubbing](mardayitvā) [well-cooked](supācitam)
-
+[verse-pada](atasītailasammiśraṃ) [verse-pada](mardayitvā) [verse-pada](supācitam)
 ## mukta-m0-p119-v2962
-[gods-house-etc](suraveśmagṛhādīnāṃ) [ground-bond](bhūmibandhaḥ) [declared](nigadyate)
-
+[verse-pada](suraveśmagṛhādīnāṃ) [verse-pada](bhūmibandho) [verse-pada](nigadyate)
 ## mukta-m0-p119-v2963
-[firm-water-like](sthiratoyopamā) [make](kāryā) [ground](bhūmiḥ) [tu](tu) [level](sutalā) [equal](samā)
-
+[verse-pada](sthiratoyopamā) [verse-pada](kāryā) [verse-pada](bhūmistu) [verse-pada](sutalā) [verse-pada](samā)
 ## mukta-m0-p119-v2964
-[that-paste](tatkalkaṃ) [make](kārayet) [lump](piṇḍaṃ) [dried](viśoṣyaṃ) [lump](piṇḍam) [in-sun](ātape)
-
+[verse-pada](tatkalkaṃ) [verse-pada](kārayet) [verse-pada](piṇḍaṃ) [verse-pada](viśoṣyaṃ) [verse-pada](piṇḍamātape)
 ## mukta-m0-p119-v2965
-[then](tato) [with-gruel](maṇḍena) [rubbing](saṃmardya) [ground-bond](bhūmibandhaṃ) [make](kārayet)
-
+[verse-pada](tato) [verse-pada](maṇḍena) [verse-pada](saṃmardya) [verse-pada](bhūmibandhaṃ) [verse-pada](tu) [verse-pada](kārayet)
 ## mukta-m0-p119-v2966
-[make](kuryād) [ground](bhūmiṃ) [level](samaṃ) [pleasant](ramyaṃ) [well-set](susthitaṃ) [water-filled](jalapūritam)
-
+[verse-pada](kuryād) [verse-pada](bhūmiṃ) [verse-pada](samaṃ) [verse-pada](ramyaṃ) [verse-pada](susthitaṃ) [verse-pada](jalapūritam)
 ## mukta-m0-p119-v2967
-[drug](dravyaṃ) [according-to-time](kālānurūpeṇa) [apply](yojayet) [portion-measured](bhāgasammitam)
-
+[verse-pada](dravyaṃ) [verse-pada](kālānurūpeṇa) [verse-pada](yojayedbhāgasammitam)
 ## mukta-m0-p119-v2968
-[summer](grīyme) [nu](nu) [five-parts](pañcabhāgāḥ) [be](syuḥ) [cold-season](śītakāle) [thus](tathā) [three](trayaḥ)
-
+[verse-pada](grīyme) [verse-pada](nu) [verse-pada](pañcabhāgāḥ) [verse-pada](syuḥ) [verse-pada](śītakāle) [verse-pada](tathā) [verse-pada](trayaḥ)
 ## mukta-m0-p119-v2969
-[thus](evaṃ) [giving](dattvā) [tu](tu) [who](yaḥ) [before](pūrvaṃ) [bond](bandhaḥ) [here](atra) [said](kathitaḥ) [of-earth](kṣiteḥ)
-
+[verse-pada](evaṃ) [verse-pada](dattvā) [verse-pada](tu) [verse-pada](yaḥ) [verse-pada](pūrvaṃ) [verse-pada](bandho'tra) [verse-pada](kathitaḥ) [verse-pada](kṣiteḥ)
 ## mukta-m0-p119-v2970
-[water](toyena) [struck-brush](hatakūrcaṃ) [tu](tu) [give](dāpayet) [that](tad) [expert](vicakṣaṇaḥ)
-
+[verse-pada](toyena) [verse-pada](hatakūrcaṃ) [verse-pada](tu) [verse-pada](dāpayettadvicakṣaṇaḥ)
 ## mukta-m0-p119-v2971
-[silk-cotton-ebony-etc](śālmalītindukādīnāṃ) [ground-bond](bhūmibandhe) [praised](praśasyate)
-
+[verse-pada](śālmalītindukādīnāṃ) [verse-pada](bhūmibandhe) [verse-pada](praśasyate)
 ## mukta-m0-p119-v2972
-[so-many-thousand-years](tāvadvarṣasahasrāṇi) [maker](kartā) [rejoices](nandati) [that-city](tatpure)
-
+[verse-pada](tāvadvarṣasahasrāṇi) [verse-pada](kartā) [verse-pada](nandati) [verse-pada](tatpure) [verse-pada]([gh:) [verse-pada](tpuram])
 ## mukta-m0-p119-v2973
-[fifth](pañcamaḥ) [time-staff-named](kāladaṇḍākhyaḥ) [with-descendants](sānvayāḥ) [fruit-giving](phaladāyakāḥ)
-
+[verse-pada](pañcamaḥ) [verse-pada](kāladaṇḍākhyaḥ) [verse-pada](sānvayāḥ) [verse-pada](phaladāyakāḥ)
 ## mukta-m0-p119-v2974
-[confusion](vibhrāntiṃ) [bewilderment](vibhramaḥ) [makes](kuryāc) [chastiser](śāsakaḥ) [always](śāsayetsadā)
-
+[verse-pada](vibhrāntiṃ) [verse-pada](vibhramaḥ) [verse-pada](kuryācchāsakaḥ) [verse-pada](śāsayetsadā)
 ## mukta-m0-p119-v2975
-[these](ete) [gods-house](suragṛhe) [obstacles](vighnā) [until](yāvat) [they](te) [tu](tu) [not](na) [worshipped](pūjitāḥ)
+[verse-pada](ete) [verse-pada](suragṛhe) [verse-pada](vighnā) [verse-pada](yāvatte) [verse-pada](tu) [verse-pada](na) [verse-pada](pūjitāḥ)
