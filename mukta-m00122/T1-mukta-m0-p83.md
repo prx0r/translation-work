@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[righteous](dhārmikāḥ) [and-also](caiva) [kings](rājānaḥ) [full-seven-limb-endowed](pūrṇasaptāṅgasaṃyutāḥ)
+[gloss](dhārmikāścaiva) [gloss](rājānaḥ) [gloss](pūrṇasaptāṅgasaṃyutāḥ)
 
 ## mukta-m0-p83-v2052
-[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-mandala](maṇḍalāt) [monthly-or](māsato'pi) [or](vā)
+[gloss](vāñchitaṃ) [gloss](samavāpnoti) [gloss](maṇḍalānmāsato'pi) [gloss](vā)
 
 ## mukta-m0-p83-v2053
-[previously-said](prāgukta) [raksha-vayu-indra-fire-ishvara-varuna-directions](rakṣovāyuśakravahnīśavaruṇadikṣu) [placement](sthāpanāt) [thus-meaning](ityarthaḥ)
+[gloss](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [gloss](sthāpanādityarthaḥ)
 
 ## mukta-m0-p83-v2054
-[form-seven](mūrtisaptakaṃ) [da-raakini-etc](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess-and](devyāśca) [remainder](iti śeṣaḥ)
+[gloss](mūrtisaptakaṃ) [gloss]((ḍā)rākinyādīnāṃ) [gloss](ṣaṇāṃ) [gloss](devyāśceti) [gloss](śeṣaḥ)
 
 ## mukta-m0-p83-v2055
-[afflictions](kleśāḥ) [vidya-yantra-power](vidyāyantrānubhāvataḥ) [both](ubhayoḥ) [competence](sāmarthyāt)
+[gloss](kleśāḥ) [gloss](vidyāyantrānubhāvataḥ) [gloss](ubhayoḥ) [gloss](sāmarthyāt)
 
 ## mukta-m0-p83-v2056
-[sushumna-middle-situated](suṣumnāmadhyasaṃstheṣu) [six-support-lotuses](ṣaḍādhārāmbujeṣu) [those](tāḥ)
+[gloss](suṣumnāmadhyasaṃstheṣu) [gloss](ṣaḍādhārāmbujeṣu) [gloss](tāḥ)
 
 ## mukta-m0-p83-v2057
-[outside-and](bahiśca) [mandala](maṇḍale) [worship-grace-punishment-nature](pūjānugrahānigrahātmikām)
+[gloss](bahiśca) [gloss](maṇḍale) [gloss](pūjānugrahānigrahātmikā(m))
 
 ## mukta-m0-p83-v2058
-[smoke-colored-lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [dakini](ḍākinīṃ) [that-form](tatsamākṛtim)
+[gloss](dhūmravarṇāmbuje) [gloss](devīṃ) [gloss](ḍākinīṃ) [gloss](tatsamākṛtim)
 
 ## mukta-m0-p83-v2059
-[by-her](tayā) [omniscience-accomplishment](sarvajñatāsiddhiḥ) [becomes-indeed](bhavatyeva) [no](na) [doubt](saṃśayaḥ)
+[gloss](tayā) [gloss](sarvajñatāsiddhirbhavatyeva) [gloss](na) [gloss](saṃśayaḥ)
 
 ## mukta-m0-p83-v2060
-[obtains](prāpnoti)
+[gloss](prāpnoti)
 
 ## mukta-m0-p83-v2061
-[in-bodies](deheṣu) [abiding](sthitim) [those-goddesses](tāḥ devyaḥ) [here-connection](ityatrānvayaḥ) [dakini-etc](dākinyādayaḥ) [remainder](iti śeṣaḥ)
+[gloss](deheṣu) [gloss](sthitim) [gloss](tāḥ) [gloss](devyaḥ) [gloss](ityatrānvayaḥ) [gloss](dākinyādaya) [gloss](iti) [gloss](śeṣaḥ)
 
 ## mukta-m0-p83-v2062
-[root-deity-same](mūladevatāsamānaḥ)
+[gloss](mūladevatāsamānaḥ)
 
 ## mukta-m0-p83-v2063
-[rakini](rākinīṃ) [twelve-petaled](dvādaśadale) [ka-to-dha-letters-nature](kādiḍhāntākṣarātmabhiḥ)
+[gloss](rākinīṃ) [gloss](dvādaśadale) [gloss](kādiḍhāntākṣarātmabhiḥ)
 
 ## mukta-m0-p83-v2064
-[manipura-named](maṇipūrakasaṃjñe) [and](ca) [navel-situated](nābhisthe) [ten-petaled](daśapatrake)
+[gloss](maṇipūrakasaṃjñe) [gloss](ca) [gloss](nābhisthe) [gloss](daśapatrake)
 
 ## mukta-m0-p83-v2065
-[lakini](lākinīṃ) [worship](pūjayet) [for-enemies](vairivi) [victory-prosperity](jayaśrīsamṛddhaye)
+[gloss](lākinīṃ) [gloss](pūjayedvairivi) [gloss](jayaśrīsamṛddhaye)
 
 ## mukta-m0-p83-v2066
-[va-six-letters-shaktis-surrounded](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [dakini](ḍākinīṃ) [worship](yajet)
+[gloss](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [gloss](ḍākinīṃ) [gloss](yajet)
 
 ## mukta-m0-p83-v2067
-[support-named](ādhārākhye) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
+[gloss](ādhārākhye) [gloss](catuṣpatre) [gloss](suvarṇābhe) [gloss](saroruhe)
 
 ## mukta-m0-p83-v2068
-[anus-flag-between](pāyudhvajāntarā) [triangle-middle](tryasramadhye) [fire-endowed](tejaḥ samanvitām)
+[gloss](pāyudhvajāntarā) [gloss](tryasramadhye) [gloss](tejaḥ) [gloss](samanvitām)
 
 ## mukta-m0-p83-v2069
-[served](sevitāṃ) [ha-ksha-shaktis](hakṣaśaktibhyāṃ) [hakini](hākinīṃ) [worship-thus](pūjayettathā)
+[gloss](sevitāṃ) [gloss](hakṣaśaktibhyāṃ) [gloss](hākinīṃ) [gloss](pūjayettatha)
 
 ## mukta-m0-p83-v2070
-[universe-creation-preservation-destruction-power-giver](viśvasṛṣṭisthitidhvaṃsaśaktidām) [effortlessly](apyayatnataḥ)
+[gloss](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ)
 
 ## mukta-m0-p83-v2071
-[worship](pūjanaṃ) [all-suffering-pain-destroyer](sarvaduḥkhārtināśanaṃ) [wealth-abode](sampadāspadam)
+[gloss](pūjanaṃ) [gloss](sarvaduḥkhārtināśanaṃ) [gloss](sampadāspadam)
 
 ## mukta-m0-p83-v2072
-[by-that-worship](tayā pūjayā) [flag-root](dhvajamūle) [urethra-root](mehanamūle)
+[gloss](tayā) [gloss](pūjayā) [gloss](dhvajamūle) [gloss](mehanamūle)
 
 ## mukta-m0-p83-v2073
-[endowed](samanvitāṃ) [kundalini-fire-form](kuṇḍalinītejorūpām) [and-in-collection](tathā samuccaye)
+[gloss](samanvitāṃ) [gloss](kuṇḍalinītejorūpām) [gloss](tathā) [gloss](samuccaye)
 
 ## mukta-m0-p83-v2074
-[past-future-present-action-knowledge-power-giver](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [thus-meaning](ityarthaḥ)
+[gloss](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīmityarthaḥ)
 
 ## mukta-m0-p83-v2075
-[middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [eternal-non-eternal](nityānityā) [incense-etc](gandhādinā) [worship](arcayet)
+[gloss](madhye) [gloss](ca) [gloss](tatra) [gloss](tāṃ) [gloss](nityānityā) [gloss](gandhādinā'rcayet)
