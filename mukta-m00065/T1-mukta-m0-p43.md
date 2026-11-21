@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[vedāṃśapātanātkoṇa](vedāṃśapātanātkoṇa) [marṭāśairatha](marṭāśairatha) [kambalam](kambalam)
+vedāṃśa-pātanāt koṇa marṭāśaiḥ atha kambalam
 
 ## mukta-m0-p43-v1052
-[tryaṃśapraveśanātkaṇṭhādekaikanirgamaṃ](tryaṃśapraveśanātkaṇṭhādekaikanirgamaṃ) [khuram](khuram)
+tryaṃśa-praveśanāt kaṇṭhāt ekaika-nirgamaṃ khuram
 
 ## mukta-m0-p43-v1053
-[ghaṇṭāṃ](ghaṇṭāṃ) [ca](ca) [mekhalāṃ](mekhalāṃ) [caiva](caiva) [kuryāchṛṅgāṇi](kuryāchṛṅgāṇi) [koṇataḥ](koṇataḥ)
+ghaṇṭāṃ ca mekhalāṃ ca eva kuryāt śṛṅgāṇi koṇataḥ
 
 ## mukta-m0-p43-v1054
-[prālambyāsakta](prālambyāsakta) [revantaśchatradhārādibhiryutaḥ](revantaśchatradhārādibhiryutaḥ)
+prālambya-āsakta revanta chatra-dhāra-ādibhiḥ yutaḥ
 
 ## mukta-m0-p43-v1055
-[nānāratnasuveśāḍhyāścaṇḍatejāḥ](nānāratnasuveśāḍhyāścaṇḍatejāḥ) [svabhāvajāḥ](svabhāvajāḥ)
+nānā-ratna-su-veśa-āḍhyāḥ caṇḍa-tejāḥ sva-bhāva-jāḥ
 
 ## mukta-m0-p43-v1056
-[somaṃ](somaṃ) [saumyaṃ](saumyaṃ) [tathā](tathā) [śvetaṃ](śvetaṃ) [kuṇḍikājāpyamālinam](kuṇḍikājāpyamālinam)
+somaṃ saumyaṃ tathā śvetaṃ kuṇḍikā-jāpya-mālinam
 
 ## mukta-m0-p43-v1057
-[budhaṃ](budhaṃ) [śyāmaṃ](śyāmaṃ) [yuvānaṃ](yuvānaṃ) [ca](ca) [rūpiṇaṃ](rūpiṇaṃ) [cāpapāṇinam](cāpapāṇinam)
+budhaṃ śyāmaṃ yuvānaṃ ca rūpiṇaṃ cāpa-pāṇinam
 
 ## mukta-m0-p43-v1058
-[yāmyekākṣaṃ](yāmyekākṣaṃ) [sitaṃ](sitaṃ) [śukraṃ](śukraṃ) [kuṇḍikāmantramālikam](kuṇḍikāmantramālikam)
+yāmya-eka-akṣaṃ sitaṃ śukraṃ kuṇḍikā-mantra-mālikam
 
 ## mukta-m0-p43-v1059
-[vyāvṛttāsyaṃ](vyāvṛttāsyaṃ) [sahāsyaṃ](sahāsyaṃ) [ca](ca) [piṅgabhrūśmaśrulocanam](piṅgabhrūśmaśrulocanam)
+vyāvṛtta-āsyaṃ sa-hāsyaṃ ca piṅga-bhrū-śmaśru-locanam
 
 ## mukta-m0-p43-v1060
-[triphalaṃ](triphalaṃ) [dhūmravarṇābhaṃ](dhūmravarṇābhaṃ) [naranāgārdharūpiṇam](naranāgārdharūpiṇam)
+tri-phaṇaṃ dhūmra-varṇa-ābhaṃ nara-nāga-ardha-rūpiṇam
 
 ## mukta-m0-p43-v1061
-[etāṃstu](etāṃstu) [dvibhujānsarvānbhūṣaṇāmbarasaṃyutān](dvibhujānsarvānbhūṣaṇāmbarasaṃyutān)
+etān tu dvi-bhujān sarvān bhūṣaṇa-ambara-saṃyutān
 
 ## mukta-m0-p43-v1062
-[śakaṭaṃ](śakaṭaṃ) [medhameteṣāmadho](medhameteṣāmadho) [yānaṃ](yānaṃ) [kramātsadā](kramātsadā)
+śakaṭaṃ medham eteṣām adhaḥ yānaṃ kramāt sadā
 
 ## mukta-m0-p43-v1063
-[sitaḥ](sitaḥ) [sahasrabhogo](sahasrabhogo) [hīśvaraḥ](hīśvaraḥ) [kuvalayānvitaḥ](kuvalayānvitaḥ)
+sitaḥ sahasra-bhogaḥ hi īśvaraḥ kuvalaya-anvitaḥ
 
 ## mukta-m0-p43-v1064
-[kṛṣṇaḥ](kṛṣṇaḥ) [karkoṭakaḥ](karkoṭakaḥ) [kaṇṭhe](kaṇṭhe) [śulkarekhātrayānvitaḥ](śulkarekhātrayānvitaḥ)
+kṛṣṇaḥ karkoṭakaḥ kaṇṭhe śulka-rekhā-traya-anvitaḥ
 
 ## mukta-m0-p43-v1065
-[śaṅkhavarṇo](śaṅkhavarṇo) [mahāpadmo](mahāpadmo) [mastake](mastake) [kṛṣṇaśūladhṛk](kṛṣṇaśūladhṛk)
+śaṅkha-varṇaḥ mahā-padmaḥ mastake kṛṣṇa-śūla-dhṛk
 
 ## mukta-m0-p43-v1066
-[kuliko](kuliko) [raktadehastu](raktadehastu) [candrārdha](candrārdha) [kṛtamastakaḥ](kṛtamastakaḥ)
+kulikaḥ rakta-dehaḥ tu candra-ardha kṛta-mastakaḥ
 
 ## mukta-m0-p43-v1067
-[akṣasūtradharāḥ](akṣasūtradharāḥ) [sarve](sarve) [kuṇḍikāpucchasaṃyutāḥ](kuṇḍikāpucchasaṃyutāḥ)
+akṣa-sūtra-dharāḥ sarve kuṇḍikā-puccha-saṃyutāḥ
 
 ## mukta-m0-p43-v1068
-[bhṛtyāścaikaphaṇāḥ](bhṛtyāścaikaphaṇāḥ) [kāryāstadrūpā](kāryāstadrūpā) [maṇivarjitāḥ](maṇivarjitāḥ)
+bhṛtyāḥ ca eka-phaṇāḥ kāryāḥ tad-rūpā maṇi-varjitāḥ
 
 ## mukta-m0-p43-v1069
-[hārakuṇḍalakeyūraiḥ](hārakuṇḍalakeyūraiḥ) [sadābharaṇabhūṣitā](sadābharaṇabhūṣitā)
+hāra-kuṇḍala-keyūraiḥ sadā-bharaṇa-bhūṣitā
 
 ## mukta-m0-p43-v1070
-[īdṛśī](īdṛśī) [manasā](manasā) [kāryā](kāryā) [śrīkaṇṭhamanasambhavā](śrīkaṇṭhamanasambhavā)
+īdṛśī manasā kāryā śrī-kaṇṭha-manasambhavā
 
 ## mukta-m0-p43-v1071
-[yogapaṭṭāvṛto'bjasthaḥ](yogapaṭṭāvṛto'bjasthaḥ) [kuṇḍikā](kuṇḍikā) [cākṣasūtrabhṛt](cākṣasūtrabhṛt)
+yoga-paṭṭa-āvṛtaḥ abja-sthaḥ kuṇḍikā ca akṣa-sūtra-bhṛt
 
 ## mukta-m0-p43-v1072
-[nānālaṅkārasaṃyuktāvutpalamaṇi](nānālaṅkārasaṃyuktāvutpalamaṇi) [bhṛtkarau](bhṛtkarau)
+nānā-alaṅkāra-saṃyuktāv utpala-maṇi bhṛt-karau
 
 ## mukta-m0-p43-v1073
-[sudṛṣṭā](sudṛṣṭā) [jalpamānā](jalpamānā) [ca](ca) [svotsaṅge](svotsaṅge) [putradhāriṇī](putradhāriṇī)
+su-dṛṣṭā jalpa-mānā ca sva-utsaṅge putra-dhāriṇī
 
 ## mukta-m0-p43-v1074
-[padmā](padmā) [nandanapadmastha](nandanapadmastha) [svāṅgādevī](svāṅgādevī) [prakīrtitā](prakīrtitā)
+padmā nandana-padma-stha sva-aṅga-devī prakīrtitā
 
 ## mukta-m0-p43-v1075
-[basukokakapidvikṣa](basukokakapidvikṣa) [vyāghravyāghrāsyakaṃ](vyāghravyāghrāsyakaṃ) [kramāt](kramāt)
+basuka-oka-kapi-dvi-kṣa vyāghra-vyāghra-āsyakaṃ kramāt

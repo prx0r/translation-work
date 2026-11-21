@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[cibuka](cibuka) [uṣṭha](uṣṭhau) [vibhāga](vibhāgena) [nāsā](nāsā) [lalāṭa](lalāṭa) [staka](stakam)
+[chin-lip](cibukoṣṭhau) [by-division](vibhāgena) [nose-forehead-stakam](nāsālalāṭastakam)
 
 ## mukta-m0-p49-v1202
-[liṅga](liṅga) [pārśva](pārśce) [dvibhāga](dvibhāgena) [bhāga](bhāgaṃ) [tyaj](tyaktvā) [tad](tad) [ūrdhva](ūrdhvataḥ)
+[linga-side](liṅgapārśce) [by-two-parts](dvibhāgena) [part](bhāgaṃ) [abandoning](tyaktvā) [above-that](tadūrdhvataḥ)
 
 ## mukta-m0-p49-v1203
-[pañca](pañca) [āsya](āsya) [ādi](ādi) [eka](eka) [vaktra](vaktra) [anta](antam) [ayam](ayameva) [vidhi](vidhiḥ) [punaḥ](punaḥ)
+[five-faces-beginning-one-face-end](pañtrāsyādyekavaktrāntam) [this-only](ayameva) [rule](vidhiḥ) [again](punaḥ)
 
 ## mukta-m0-p49-v1204
-[pañcānana](pañcānanādikaṃ) [prokta](proktaṃ) [suvyakta](suvyaktam) [adhudana](adhudanocyate)
+[five-faced-beginning](pañcānanādikaṃ) [declared](proktaṃ) [clearly](suvyaktam) [honey-not-said](adhudanocyate)
 
 ## mukta-m0-p49-v1205
-[dvibāhu](dvibāhūnyūrdhvadehāni) [viṣṇu](viṣṇavantacaraṇāni) [ca](ca)
+[two-arms-upward-bodies](dvibāhūnyūrdhvadehāni) [vishnu-footed](viṣṇavantacaraṇāni) [and](ca)
 
 ## mukta-m0-p49-v1206
-[pūrva](pūrvakāye) [pumāṃs](pumāṃsaṃ) [tu](tu) [mātuluṅga](mātuluṅgākṣaśalinam)
+[front-body](pūrvakāye) [man](pumāṃsaṃ) [but](tu) [citron-eyed-adorned](mātuluṅgākṣaśalinam)
 
 ## mukta-m0-p49-v1207
-[strī](stryākāramuktare) [guhya](guhyaṃ) [darpaṇa](darpaṇotpalasaṃyutam)
+[woman-form-above](stryākāramuktare) [secret](guhyaṃ) [mirror-lotus-joined](darpaṇotpalasaṃyutam)
 
 ## mukta-m0-p49-v1208
-[suvyakta](suvyakta) [pañcadhā](pañcadhāhyevamāsyovatābidhisaṃsthitam)
+[clear](suvyakta) [fivefold](pañcadhā) [thus](hyevam) [mouth-rule-established](āsyovatābidhisaṃsthitam)
 
 ## mukta-m0-p49-v1209
-[evaṃ](evaṃ) [niṣpādya](niṣpādya) [liṅga](liṅgāni) [piṇḍikā](piṇḍikāṃ) [vartayet](vartayettataḥ)
+[thus](evaṃ) [having-made](niṣpādya) [lingas](liṅgāni) [pedestal](piṇḍikāṃ) [should-turn](vartayettataḥ)
 
 ## mukta-m0-p49-v1210
-[iti](iti) [lakṣaṇa](lakṣaṇasamuccaye) [vyakta](vyaktāvyaktaliṅgānāṃ) [daśadhā](daśadhā) [vartana](vartanaṃ) [nāma](nāma) [saptama](saptamo) [vidhi](vidhiḥ) [athoṣṭama](athoṣṭama)
+[thus](iti) [character-collection](lakṣaṇasamuccaye) [manifest-unmanifest-lingas](vyaktāvyaktaliṅgānāṃ) [tenfold](daśadhā) [turning](vartanaṃ) [named](nāma) [seventh](saptamo) [rule](vidhiḥ) [then-eighth](athoṣṭama)
 
 ## mukta-m0-p49-v1211
-[mahatī](mahatyāḥ) [prātamā](prātamāyāśca) [digliṅga](digliṅgādeśca) [sādhana](sādhane)
+[great](mahatyāḥ) [morning](prātamāyāśca) [direction-linga-etc](digliṅgādeśca) [in-accomplishment](sādhane)
 
 ## mukta-m0-p49-v1212
-[navajñā](navajñāṃ) [kārayet](kārayettasmātkadācidubhayorapi)
+[nine-knowledge](navajñāṃ) [should-make](kārayettasmāt) [sometimes](kadācid) [of-both](ubhayorapi)
 
 ## mukta-m0-p49-v1213
-[piṇḍikā](piṇḍikā) [tu](tu) [samākhyātā](samākhyātā) [na](na) [hīna](hīnā) [na](nā) [adhika](adhikā) [śubha](śubhā)
+[pedestal](piṇḍikā) [but](tu) [called](samākhyātā) [not](na) [deficient](hīnā) [not](nā) [excessive](adhikā) [auspicious](śubhā)
 
 ## mukta-m0-p49-v1214
-[mekhalā](mekhalā) [tat](tattribhāgena) [khāta](khātaṃ) [tat](tattryṃśahīnakam)
+[girdle](mekhalā) [by-that-third](tattribhāgena) [dug](khātaṃ) [that-thirty-less](tattryṃśahīnakam)
 
 ## mukta-m0-p49-v1215
-[madhye](madhye) [vṛtta](vṛttaṃ) [samālikhya](samālikhya) [vartayet](vartayetkhātamādarāt)
+[middle](madhye) [circle](vṛttaṃ) [having-drawn](samālikhya) [should-turn-dug](vartayetkhātam) [carefully](ādarāt)
 
 ## mukta-m0-p49-v1216
-[arvāk](arvāg) [dairghya](dairghyatribhāgena) [mekhalā](mekhalāvartanaṃ) [bahiḥ](bahiḥ)
+[downward](arvāg) [length-third](dairghyatribhāgena) [girdle-turning](mekhalāvartanaṃ) [outside](bahiḥ)
 
 ## mukta-m0-p49-v1217
-[mukha](mukhe) [tad](tadardhavistāraṃ) [tantri](tantribhāge'mbunirgamaḥ)
+[mouth](mukhe) [that-half-width](tadardhavistāraṃ) [thread-third](tantribhāge) [water-outlet](ambunirgamaḥ)
 
 ## mukta-m0-p49-v1218
-[kaṇṭha](kaṇṭhādūrdhvaṃ) [sadā](sadā) [hyeva](hyevamanyathā) [doṣa](doṣadāyakam)
+[neck-above](kaṇṭhādūrdhvaṃ) [always](sadā) [thus](hyevam) [otherwise](anyathā) [fault-giving](doṣadāyakam)
 
 ## mukta-m0-p49-v1219
-[ṣaṣṭha](ṣaṣṭhāṃśaveśanātkaṇṭhaścalānāṃ) [pañcama](pañcamena) [vā](vā)
+[sixth-part-entry](ṣaṣṭhāṃśaveśanāt) [neck](kaṇṭha) [movable](calānāṃ) [fifth](pañcamena) [or](vā)
 
 ## mukta-m0-p49-v1220
-[avyakta](avyakte) [miśraka](miśrake) [svāṃśa](svāṃśe) [brahmaviṣṇu](brahmaviṣṇu) [svarūpa](svarūpataḥ)
+[unmanifest](avyakte) [mixed](miśrake) [own-part](svāṃśe) [brahma-vishnu-form](brahmaviṣṇusvarūpataḥ)
 
 ## mukta-m0-p49-v1221
-[liṅga](liṅgasthaulyapramāṇena) [samāsra](samāsraṃ) [digvidik](digvidiksthitam)
+[linga-thickness-measure](liṅgasthaulyapramāṇena) [with-blood](samāsraṃ) [direction-intercardinal-placed](digvidiksthitam)
 
 ## mukta-m0-p49-v1222
-[samantāt](samantājjyeṣṭhaliṅgasya) [yava](yavaiḥ) [ṣaḍbhiḥ](ṣaḍbhirvivardhitam)
+[all-around](samantāt) [eldest-linga](jyeṣṭhaliṅgasya) [barleys](yavaiḥ) [six](ṣaḍbhir) [increased](vivardhitam)
 
 ## mukta-m0-p49-v1223
-[liṅgavat](liṅgavannirmalā) [śuddhā](śuddhā) [kartavyā](kartavyā) [piṇḍikā](piṇḍikā) [budhaiḥ](budhaiḥ)
+[linga-like](liṅgavat) [pure](nirmalā) [clean](śuddhā) [should-be-made](kartavyā) [pedestal](piṇḍikā) [by-wise](budhaiḥ)
 
 ## mukta-m0-p49-v1224
-[śeṣa](śeṣāṇāṃ) [liṅga](liṅgānāmardhārdha) [hrāsayet](hrāsayedyavam)
+[remaining](śeṣāṇāṃ) [lingas](liṅgānām) [half-half](ardhārdha) [should-decrease](hrāsayet) [barley](yavam)
 
 ## mukta-m0-p49-v1225
-[kāma](kāmānāṃ) [vasu](vasutastasya) [bheda](bhedān) [brūmaḥ](brūmaḥ) [samāsataḥ](samāsataḥ)
+[desires](kāmānāṃ) [wealth-from](vasutastasya) [differences](bhedān) [we-say](brūmaḥ) [briefly](samāsataḥ)
