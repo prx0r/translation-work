@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[golden-both-bodied](kāñcanobhatanuḥ) [direction](kāṣṭhā) [leprosy-disease-destroying](kuṣṭharogavināśinī)
+kāñcana-ubha-tanuḥ kāṣṭhā kuṣṭha-roga-vināśinī
 
 ## mukta-m0-p153-v3802
-[skin-garmented](carmāmbarā) [cruel-nailed](krūranakhā) [partridge-eyed](cakorākṣī) [four-armed](caturbhujā)
+carma-ambarā krūra-nakhā cakora-akṣī catur-bhujā
 
 ## mukta-m0-p153-v3803
-[universe-moving](brahmāṇḍacāriṇī) [manifestation-brahmāṇī](sphūrtirbrahmāṇī) [brahma-approved](brahmasaṃmatā)
+brahmāṇḍa-cāriṇī sphūrtiḥ-brahmāṇī brahma-saṃmatā
 
 ## mukta-m0-p153-v3804
-[wish-fulfilling-creeper](kalpavallī) [thin-limbed](kṛṣāṅgī) [wish-fulfilling-tree-dwelling](kalpapādapavāsinī)
+kalpa-vallī kṛṣa-aṅgī ca kalpa-pādapa-vāsinī
 
 ## mukta-m0-p153-v3805
-[being-queen](bhūtirājñī) [universe-queen](viśvarājñī) [world-queen](lokarājñī) [śiva-refuge](śivāśrayā)
+bhūti-rājñī viśva-rājñī loka-rājñī śiva-āśrayā
 
 ## mukta-m0-p153-v3806
-[serpent-queen](nāgarājñī) [lineage-queen](vaṃśarājñī) [hero-queen](vīrarājñī) [dust-loving](rajaḥpriyā)
+nāga-rājñī vaṃśa-rājñī vīra-rājñī rajaḥ-priyā
 
 ## mukta-m0-p153-v3807
-[wealth-queen](vasurājñī) [truth-queen](satyarājñī) [austerity-queen](taporājñī) [mantra-loving](japapriyā)
+vasu-rājñī satya-rājñī tapo-rājñī japa-priyā
 
 ## mukta-m0-p153-v3808
-[compassionate](dayākarā)
+dayā-karā
 
 ## mukta-m0-p153-v3809
-[earth-queen](pṛthvīrājñī) [water-queen](payorājñī) [wind-queen](vāyurājñī) [delicate](madālasā)
+pṛthvī-rājñī payo-rājñī vāyu-rājñī madālasā
 
 ## mukta-m0-p153-v3810
-[truth-queen](tathyarājñī) [victory-queen](jayārājñī) [great-queen](mahārājñī) [family-formed](kulākṛtiḥ)
+tathya-rājñī jayā-rājñī mahā-rājñī kulākṛtiḥ
 
 ## mukta-m0-p153-v3811
-[supreme-queen](parārājñī) [yakṣa-queen](yakṣarājñī) [being-queen](bhūtarājñī) [śiva-seated](śivāsanā)
+parā-rājñī yakṣa-rājñī bhūta-rājñī śiva-āsanā
 
 ## mukta-m0-p153-v3812
-[sky-queen](ākāśarājñī) [queen-of-kings](rājeśī) [king-of-kings](rājarājñī) [love-pleasing](ratipriyā)
+ākāśa-rājñī rāja-īśī rāja-rājñī rati-priyā
 
 ## mukta-m0-p153-v3813
-[accomplished-queen](siddharājñī) [radiance-queen](vibhārājñī) [splendor-queen](tejorājñī) [shining](vibhāmayī)
+siddha-rājñī vibhā-rājñī tejo-rājñī vibhāmayī
 
 ## mukta-m0-p153-v3814
-[planet-queen](graharājñī) [creeper-queen](latārājñī) [tree-queen](vṛkṣarājñī) [wisdom-giving](matipradā)
+graha-rājñī latā-rājñī vṛkṣa-rājñī mati-pradā
 
 ## mukta-m0-p153-v3815
-[sage-queen](munirājñī) [jewel-queen](ratnarājñī) [age-queen](yugarājñī) [gem-radiant](maṇiprabhā)
+muni-rājñī ratna-rājñī yuga-rājñī maṇi-prabhā
 
 ## mukta-m0-p153-v3816
-[point-queen](bindurājñī) [sound-queen](nādarājñī) [self-queen](ātmarājñī) [good-course](sadgatiḥ)
+bindu-rājñī nāda-rājñī ātma-rājñī ca sad-gatiḥ
 
 ## mukta-m0-p153-v3817
-[īśāna-queen](īśānarājñī) [queen-of-kings](rājeśī) [svāhā-queen](svāhārājñī) [greater](mahattarā)
+īśāna-rājñī rāja-īśī svāhā-rājñī mahattarā
 
 ## mukta-m0-p153-v3818
-[world-queen](jagadrājñī) [essence-queen](tattvarājñī) [speech-queen](vāgrājñī) [all-formed](viśvarūpiṇī)
+jagat-rājñī tattva-rājñī vāg-rājñī viśva-rūpiṇī
 
 ## mukta-m0-p153-v3819
-[thus-this-mantra-essence](itīdaṃmantrasarvasvaṃ) [thousand-names-of-queens](rājñīnāmasahasrakam)
+iti idaṃ mantra-sarvasvam rājñī-nāma-sahasrakam
 
 ## mukta-m0-p153-v3820
-[all-essence-filled](sarvatattvamayaṃ) [holy](puṇyaṃ) [great-sin-destroying](mahāpātakanāśanam)
+sarva-tattva-mayam puṇyam mahā-pātaka-nāśanam
 
 ## mukta-m0-p153-v3821
-[all-calamity-pacifying](sarvotpātapraśamanaṃ) [planet-peace-making](grahaśāntikaraṃ) [supreme](param)
+sarva-utpāta-praśamanam graha-śānti-karam param
 
 ## mukta-m0-p153-v3822
-[all-sorrow-flood-pacifying](sarvaduḥkhaughaśamanaṃ) [all-grief-destroying](sarvaśokavināśanam)
+sarva-duḥkha-ogha-śamanam sarva-śoka-vināśanam
 
 ## mukta-m0-p153-v3823
-[far-away-flee](dūrādevapalāyante) [misfortunes-enemy-fears](vipadaḥśatrubhītayaḥ)
+dūrāt eva palāyante vipadaḥ śatru-bhītayaḥ
 
 ## mukta-m0-p153-v3824
-[by-recitation-flee-quickly](paṭhanādvidravantyāśu) [like-great-kāla-people](mahākālādivaprajāḥ)
+paṭhanāt vidravanti āśu mahākālāt iva prajāḥ
 
 ## mukta-m0-p153-v3825
-[ganges-bath-thousand](gaṅgāsnānasahasrasya) [cāndrāyaṇa-ten-thousand](cāndrāyaṇāyutasya) [and](ca)
+gaṅgā-snāna-sahasrasya cāndrāyaṇa-ayutasya ca
