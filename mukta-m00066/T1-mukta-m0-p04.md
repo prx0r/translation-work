@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[gloss](kutrameruta) [gloss](doṣāṃte) [gloss](svargasthān) [gloss](pratikīrtyate)
+[where](kutrameruta) [fault-end](doṣāṃte) [heaven-place](svargasthān) [is-praised](pratikīrtyate)
 
 ## mukta-m0-p04-v77
-[gloss](vasaṃti) [gloss](yatra) [gloss](niyataṃ) [gloss](sudhāpāna) [gloss](padākulāḥ)
+[dwell](vasaṃti) [where](yatra) [always](niyataṃ) [nectar-drink](sudhāpāna) [foot-crowded](padākulāḥ)
 
 ## mukta-m0-p04-v78
-[gloss](yajamānastatra) [gloss](gatvā) [gloss](tatratyairdevatāgaṇaiḥ)
+[sacrificer](yajamānastatra) [going](gatvā) [there-resident](tatratyairdevatāgaṇaiḥ) [with-gods](devatāgaṇaiḥ)
 
 ## mukta-m0-p04-v79
-[gloss](ratna) [gloss](staṃbha) [gloss](samākīrṇaṃ) [gloss](muktājālasamākulam)
+[jewel](ratna) [pillar](staṃbha) [filled](samākīrṇaṃ) [pearl-net](muktājālasamākulam)
 
 ## mukta-m0-p04-v80
-[gloss](kālāgaru) [gloss](samudbhūta) [gloss](navadhū) [gloss](pālikomalam)
+[black-aloes](kālāgaru) [born](samudbhūta) [new-bride](navadhū) [tender](pālikomalam)
 
 ## mukta-m0-p04-v81
-[gloss](madhurairmadhubhiḥ) [gloss](pūrṇaiḥ) [gloss](ratnakuṃbhaiśca) [gloss](śobhitam)
+[sweet](madhurairmadhubhiḥ) [full](pūrṇaiḥ) [jewel-pots](ratnakuṃbhaiśca) [shining](śobhitam)
 
 ## mukta-m0-p04-v82
-[gloss](vidagdhaiśceṭikāvargaistataścetaśca) [gloss](saṃkulam)
+[clever](vidagdhaiśceṭikāvargaistataścetaśca) [maid-group](ceṭikāvargaistataścetaśca) [and](ca) [crowded](saṃkulam)
 
 ## mukta-m0-p04-v83
-[gloss](svarge) [gloss](divyagrahaṃ) [gloss](gatvā) [gloss](paśyatyekāṃ) [gloss](sulocanām)
+[heaven](svarge) [divine-house](divyagrahaṃ) [going](gatvā) [sees](paśyatyekāṃ) [beautiful-eyed](sulocanām)
 
 ## mukta-m0-p04-v84
-[gloss](sā) [gloss](kūtasyūta) [gloss](saṃcārairapāṃgairati) [gloss](śobhanām)
+[she](sā) [kuta-thread](kūtasyūta) [movement](saṃcārairapāṃgairati) [very-beautiful](śobhanām)
 
 ## mukta-m0-p04-v85
-[gloss](kramādaṃgāṃga) [gloss](saṃsarga) [gloss](sukhaṃ) [gloss](sadyogyamaśnute)
+[gradually](kramādaṃgāṃga) [limb-contact](saṃsarga) [pleasure](sukhaṃ) [immediately-fit](sadyogyamaśnute)
 
 ## mukta-m0-p04-v86
-[gloss](anyādṛśamivābhāti) [gloss](laiṃgaṃsaukhyaṃ) [gloss](tadevahi)
+[other-like](anyādṛśamivābhāti) [linga-pleasure](laiṃgaṃsaukhyaṃ) [that-indeed](tadevahi)
 
 ## mukta-m0-p04-v87
-[gloss](camatkaroti) [gloss](yajvāsau) [gloss](nijakaṃ) [gloss](karmasādhanam)
+[astonishes](camatkaroti) [sacrificer](yajvāsau) [own](nijakaṃ) [work-accomplishment](karmasādhanam)
 
 ## mukta-m0-p04-v88
-[gloss](abhyarcayati) [gloss](gīrvāṇī) [gloss](bhagapuṣpasamarpaṇaiḥ)
+[worships](abhyarcayati) [goddess](gīrvāṇī) [flower-offering](bhagapuṣpasamarpaṇaiḥ)
 
 ## mukta-m0-p04-v89
-[gloss](samastaveda) [gloss](saṃproktā) [gloss](yajñakarmābhyanuṣṭhitaiḥ)
+[all-veda](samastaveda) [declared](saṃproktā) [sacrifice-rite](yajñakarmābhyanuṣṭhitaiḥ)
 
 ## mukta-m0-p04-v90
-[gloss](vedasyāpi) [gloss](ca) [gloss](tātparyaṃ) [gloss](mahāliṃgārcanakramaḥ)
+[veda](vedasyāpi) [meaning](ca) [therefore](tātparyaṃ) [great-linga-worship-order](mahāliṃgārcanakramaḥ)
 
 ## mukta-m0-p04-v91
-[gloss](āyurvedasya) [gloss](sārastu) [gloss](vājīkaraṇamucyate)
+[ayurveda](āyurvedasya) [essence](sārastu) [virilification](vājīkaraṇamucyate)
 
 ## mukta-m0-p04-v92
-[gloss](varthamānasyarogasya) [gloss](nāśadvārāṃgapuṣṭitaḥ)
+[current](varthamānasyarogasya) [disease](rogasya) [destruction](nāśadvārāṃgapuṣṭitaḥ) [limb-nourishment](aṃgapuṣṭitaḥ)
 
 ## mukta-m0-p04-v93
-[gloss](dharmecārthe) [gloss](ca) [gloss](kāme) [gloss](ca) [gloss](mokṣe) [gloss](ca) [gloss](girinaṃdinī)
+[dharma](dharmecārthe) [wealth](ca) [desire](kāme) [liberation](ca) [mokṣe) [mountain-daughter](girinaṃdinī)
 
 ## mukta-m0-p04-v94
-[gloss](rogeṇa) [gloss](prathamaṃ) [gloss](naśyedrava) [gloss](evātmalakṣaṇaḥ)
+[by-disease](rogeṇa) [first](prathamaṃ) [perishes](naśyedrava) [even](evātmalakṣaṇaḥ) [self-mark](ātmalakṣaṇaḥ)
 
 ## mukta-m0-p04-v95
-[gloss](ataḥ) [gloss](prathamato) [gloss](vairi) [gloss](rasasyeva) [gloss](mahīyasaḥ)
+[therefore](ataḥ) [first](prathamato) [enemy](vairi) [rasa](rasasyeva) [great](mahīyasaḥ)
 
 ## mukta-m0-p04-v96
-[gloss](kuto) [gloss](liṃgamaheśasya) [gloss](pūjanāt) [gloss](puṇyasaṃbhavaḥ)
+[whence](kuto) [linga-great](liṃgamaheśasya) [worship](pūjanāt) [merit-birth](puṇyasaṃbhavaḥ)
 
 ## mukta-m0-p04-v97
-[gloss](śuklasya) [gloss](poṣakairvastu) [gloss](jātairātmānamarcayet)
+[white](śuklasya) [nourishing](poṣakairvastu) [things](jātairātmānamarcayet) [self-worship](ātmānamarcayet)
 
 ## mukta-m0-p04-v98
-[gloss](dhanurvedasya) [gloss](cāpyetat) [gloss](prayojanamudāhṛtam)
+[dhanurveda](dhanurvedasya) [also](cāpyetat) [purpose](prayojanamudāhṛtam) [declared](udāhṛtam)
 
 ## mukta-m0-p04-v99
-[gloss](yuddhe) [gloss](cenmṛtimāpnoti) [gloss](yajvavatphalamaśnute)
+[battle](yuddhe) [if](cenmṛtimāpnoti) [death](mṛtimāpnoti) [sacrificer-like](yajvavatphalamaśnute) [fruit](phalamaśnute)
 
 ## mukta-m0-p04-v100
-[gloss](māṃnaṃda-)
+[me](māṃnaṃda-) [delight](naṃda-)
