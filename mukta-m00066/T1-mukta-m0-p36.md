@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not+anything+I-know lord+awaken+awaken
+[na](na) [kiṃcid](kiṃcid) [api](api) [jānāmi](jānāmi) [nātha](nātha) [bodhaya](bodhaya) [bodhaya](bodhaya)
 
 ## mukta-m0-p36-v877
-this bliss+cause for+welfare+sign to+śambhu
+[etat](etat) [saukhya](saukhya)+[nidānāya](nidānāya) [svasti](svasti)+[liṃgāya](liṃgāya) [śaṃbhave](śaṃbhave)
 
 ## mukta-m0-p36-v878
-śiva+offering this be-again śiva+offering
+[śiva](śiva)+[arpaṇam](arpaṇam) [idam](idam) [bhūyāt](bhūyāt) [punar](punar) [astu](astu) [śiva](śiva)+[arpaṇam](arpaṇam)
 
 ## mukta-m0-p36-v879
-withered lotus+stalk like garland his chest
+[mlānā](mlānā) [padma](padma)+[mṛṇālī](mṛṇālī) [va](va) [mālikā](mālikā)+[iva](iva) [asya](asya) [vakṣasi](vakṣasi)
 
 ## mukta-m0-p36-v880
-absorbed+absorbed+syllable afterward slow+slow+syllable again
+[līna](līna)+[līna](līna)+[akṣaram](akṣaram) [paścāt](paścāt) [maṃda](maṃda)+[maṃda](maṃda)+[akṣaram](akṣaram) [punaḥ](punaḥ)
 
 ## mukta-m0-p36-v881
-thus+etc qualities messenger six+offering great+festival
+[evam](evam)+[ādi](ādi)+[guṇa](guṇa)+[dūtyāḥ](dūtyāḥ) [ṣaḍ](ṣaḍ)+[āhuti](āhuti) [mahā](mahā)+[utsave](utsave)
 
 ## mukta-m0-p36-v882
-sixth six+taste+endowed many+food+giving
+[ṣaṣṭhi](ṣaṣṭhi)+[ṣaḍ](ṣaḍ)+[rasa](rasa)+[saṃpannā](saṃpannā) [bahu](bahu)+[bhojana](bhojana)+[dāyinī](dāyinī)
 
 ## mukta-m0-p36-v883
-six+limb+deity form always+done+by+immortals
+[ṣaḍ](ṣaḍ)+[aṃga](aṃga)+[devatā](devatā) [rūpā](rūpā) [sarvadā](sarvadā)+[kriyatām](kriyatām)+[budhaiḥ](budhaiḥ)
 
 ## mukta-m0-p36-v884
-heroine's and expansion comfort+rest arises
+[nāyikāyāḥ](nāyikāyāḥ) [ca](ca) [vidṛtyā](vidṛtyā) [sukha](sukha)+[śrāṃtiḥ](śrāṃtiḥ) [pravartate](pravartate)
 
 ## mukta-m0-p36-v885
-sugar+nectar+mixed pure+soup+seasoned
+[śarkarā](śarkarā)+[amṛta](amṛta)+[saṃmiśram](saṃmiśram) [śuddhi](śuddhi)+[yūṣa](yūṣa)+[sanādhitam](sanādhitam)
 
 ## mukta-m0-p36-v886
-oneself remainder drink devotion bowed
+[svayam](svayam) [tat](tat)+[avaśiṣṭam](avaśiṣṭam) [ca](ca) [pibet](pibet) [bhakti](bhakti) [bhara](bhara)+[ānataḥ](ānataḥ)
 
 ## mukta-m0-p36-v887
-mantra of+ānanda+deva hundred+thousand+times
+[maṃtram](maṃtram) [ca](ca) [ānaṃda](ānaṃda)+[devasya](devasya) [śataśaḥ](śataśaḥ) [vā](vā) [sahasraśaḥ](sahasraśaḥ)
 
 ## mukta-m0-p36-v888
-improper+yantra chant deity+curse+obtain
+[ayukta](ayukta)+[yaṃtraḥ](yaṃtraḥ) [prajapet](prajapet) [devatā](devatā)+[śāpam](śāpam) [āpnuyāt](āpnuyāt)
 
 ## mukta-m0-p36-v889
-thus chanted supreme+bliss+form liṅga+great+lord
+[evam](evam) [japte](japte) [parā](parā)+[ānaṃda](ānaṃda)+[rūpī](rūpī) [liṃga](liṃga)+[maheśvaraḥ](maheśvaraḥ)
 
 ## mukta-m0-p36-v890
-as-long-as chants hero messenger+rest for
+[yāvat](yāvat) [japati](japati) [vīraḥ](vīraḥ) [ayam](ayam) [dūti](dūti)+[viśrāṃti](viśrāṃti) [hetave](hetave)
 
 ## mukta-m0-p36-v891
-thus order rest gone messenger+body
+[iththam](iththam) [krameṇa](krameṇa) [viśrāṃtim](viśrāṃtim) [gatāyām](gatāyām) [dūtikā](dūtikā)+[tanau](tanau)
 
 ## mukta-m0-p36-v892
-moon+crescent+purpose gula elevated moon+moonlight
+[caṃdra](caṃdra)+[rekhā](rekhā)+[arthām](arthām) [gulinā](gulinā) [pronnatā](pronnatā) [caṃdra](caṃdra)+[caṃdrikā](caṃdrikā)
 
 ## mukta-m0-p36-v893
-flax flower+like triangular+form+state gone
+[atasī](atasī) [puṣpa](puṣpa)+[saṃkāśā](saṃkāśā) [trikoṇa](trikoṇa)+[ākāra](ākāra)+[tām](tām) [gatā](gatā)
 
 ## mukta-m0-p36-v894
-long+flowing lord one arranged thumb kisses
+[cira](cira)+[dravā](dravā)+[api](api) [nātha](nātha) [eka](eka) [kluptaiḥ](kluptaiḥ)+[aṃguṣṭha](aṃguṣṭha)+[cuṃbanaiḥ](cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-navel+slap fall buttock hand+rubbing
+[nābhau](nābhau)+[capeṭa](capeṭa)+[patanaiḥ](patanaiḥ) [nitaṃbe](nitaṃbe) [hasta](hasta)+[mardanaiḥ](mardanaiḥ)
 
 ## mukta-m0-p36-v896
-own+rasa flowing indeed heroine moon+moonlight
+[nijam](nijam)+[rasam](rasam) [sravantī](sravantī)+[eva](eva) [nāyikā](nāyikā)+[caṃdra](caṃdra)+[caṃdrikā](caṃdrikā)
 
 ## mukta-m0-p36-v897
-rice+liquor+joy arrow+flower+abundant+splendor
+[paiṣṭi](paiṣṭi)+[madya](madya)+[samāmodam](samāmodam) [bāṇa](bāṇa)+[puṣpa](puṣpa)+[ulbaṇa](ulbaṇa)+[dyuti](dyuti)
 
 ## mukta-m0-p36-v898
-attainment+success+procreation all+sovereignty+named+speech
+[prāpti](prāpti)+[siddhi](siddhi)+[prajananam](prajananam) [sarva](sarva)+[aiśvarya](aiśvarya)+[ākhya](ākhya)+[vāṅmayam](vāṅmayam)
 
 ## mukta-m0-p36-v899
-all+disease+pacification light+cool+pure
+[samasta](samasta)+[vyādhi](vyādhi)+[śamanam](śamanam) [laghu](laghu)+[śītala](śītala)+[nirmalam](nirmalam)
 
 ## mukta-m0-p36-v900
-then chanted mantra and pālāmbā+presiding+deity
+[tadā](tadā)+[japeditam](japeditam) [maṃtram](maṃtram) [ca](ca) [palāṃbā](palāṃbā)+[adhidaivatam](adhidaivatam)

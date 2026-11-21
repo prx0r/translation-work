@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-righteous-and-also kings full-seven-limbs-endowed
+[dharmika](dhārmikāḥ) [ca](ca) [eva](eva) [kings](rājānaḥ) [full](pūrṇa) [seven](saptāṅga) [endowed](saṃyutāḥ)
+
 ## mukta-m0-p83-v2052
-desired obtains from-circle or-from-month even or
+[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-mandala](maṇḍalāt) [or](vā) [month](māsataḥ) [api](api)
+
 ## mukta-m0-p83-v2053
-previously-said-raksha-vayu-shakra-fire-ish-varuna-directions in-placement thus-meaning
+[previously](prāg) [said](ukta) [raksha](rakṣa) [vayu](vāyu) [indra](śakra) [fire](vahni) [isha](īśa) [varuna](varuṇa) [directions](dikṣu) [placement](sthāpanāt) [ity-artha](ityarthaḥ)
+
 ## mukta-m0-p83-v2054
-form-seven (da)raakini-etc of-six goddess-and thus remainder
+[seven](mūrtisaptakaṃ) [rakini-etc](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess](devyāḥ) [ca](ca) [remainder](śeṣaḥ)
+
 ## mukta-m0-p83-v2055
-afflictions | mantra-yantra-power from both powers
+[afflictions](kleśāḥ) [vidya-yantra](vidyāyantra) [power](anubhāvataḥ) [both](ubhayoḥ) [capability](sāmarthyāt)
+
 ## mukta-m0-p83-v2056
-sushumna-middle-situated in six-support-lotuses those
+[sushumna-middle](suṣumnāmadhya) [situated](saṃstheṣu) [six](ṣaḍ) [support-lotuses](ādhārāmbujeṣu) [they](tāḥ)
+
 ## mukta-m0-p83-v2057
-outside-and in-circle worship-grace-punishment-natured
+[outside](bahiḥ) [ca](ca) [mandala](maṇḍale) [worship](pūjā) [grace](anugraha) [restraint](nigraha) [atmika](ātmikām)
+
 ## mukta-m0-p83-v2058
-smoke-colored-lotus in goddess daakini that-similar-form
+[smoke-colored](dhūmravarṇa) [lotus](ambuje) [goddess](devīṃ) [dakini](ḍākinīṃ) [that-form](tatsamākṛtim)
+
 ## mukta-m0-p83-v2059
-by-her omniscience-accomplishment becomes-indeed no doubt
+[by-her](tayā) [omniscience](sarvajñatā) [siddhi](siddhiḥ) [bhavati](bhavatyeva) [na](na) [doubt](saṃśayaḥ)
+
 ## mukta-m0-p83-v2060
-obtains
+[obtains](prāpnoti)
+
 ## mukta-m0-p83-v2061
-in-bodies residence | those goddesses thus-here-connection daakini-etc thus remainder
+[in-bodies](deheṣu) [residence](sthitim) [they](tāḥ) [goddesses](devyaḥ) [here](ityatrānvayaḥ) [dakini-etc](dākinyādayaḥ) [iti](iti) [remainder](śeṣaḥ)
+
 ## mukta-m0-p83-v2062
-root-deity-similar
+[root-deity](mūladevatā) [same](samānaḥ)
+
 ## mukta-m0-p83-v2063
-raakini twelve-petaled ka-to-dha-letters-natured
+[rakini](rākinīṃ) [twelve-petaled](dvādaśadale) [ka-to-dha](kādiḍhānta) [letters](akṣarātmabhiḥ)
+
 ## mukta-m0-p83-v2064
-manipura-named and navel-situated ten-petaled
+[manipura](maṇipūraka) [named](saṃjñe) [ca](ca) [navel](nābhi) [situated](sthe) [ten-petaled](daśapatrake)
+
 ## mukta-m0-p83-v2065
-laakini worship for-enemies victory-prosperity-for
+[lakini](lākinīṃ) [worship](pūjayed) [vairivi](vairivi) [victory](jaya) [prosperity](śrī) [increase](samṛddhaye)
+
 ## mukta-m0-p83-v2066
-va-etc-six-letters-powers-surrounded daakini worship
+[va-etc](vādi) [six](ṣaḍ) [varna](varṇa) [shaktis](śaktībhiḥ) [surrounded](āvṛtāṃ) [dakini](ḍākinīṃ) [yajet](yajet)
+
 ## mukta-m0-p83-v2067
-support-named four-petaled gold-colored lotus
+[support](ādhāra) [named](ākhye) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
+
 ## mukta-m0-p83-v2068
-anus-flag-between triangle-middle fire endowed
+[anus-banner](pāyudhvaja) [between](antarā) [triangle](tryasram) [middle](madhye) [tejas](tejaḥ) [endowed](samanvitām)
+
 ## mukta-m0-p83-v2069
-served ha-ksha-powers by haakini worship thus
+[served](sevitāṃ) [ha-ksha](hakṣa) [shaktis](śaktibhyāṃ) [hakini](hākinīṃ) [worship](pūjayet) [tatha](tatha)
+
 ## mukta-m0-p83-v2070
-universe-creation-preservation-destruction-powers-garland effortlessly
+[universe](viśva) [creation](sṛṣṭi) [maintenance](sthiti) [destruction](dhvaṃsa) [shakti](śakti) [dama](dāma) [apyayatnataḥ](apyayatnataḥ)
+
 ## mukta-m0-p83-v2071
-worship all-suffering-pain-destruction wealth-abode
+[worship](pūjanaṃ) [all](sarva) [suffering](duḥkha) [afflicted](ārti) [destruction](nāśanaṃ) [wealth](sampadā) [seat](spadam)
+
 ## mukta-m0-p83-v2072
-by-her worship ||62||... flag-root urethra-root
+[by-that](tayā) [worship](pūjayā) [banner-root](dhvajamūle) [genital-root](mehanamūle)
+
 ## mukta-m0-p83-v2073
-endowed kundalini-fire-form ||68|| thus in-collection
+[endowed](samanvitāṃ) [kundalini](kuṇḍalinī) [tejas](tejaḥ) [form](rūpām) [tatha](tatha) [samuccaye](samuccaye)
+
 ## mukta-m0-p83-v2074
-past-future-present-acts-knowledge-power-giving thus-meaning
+[past-present-future](bhūtabhaviṣyavartamāna) [action](kārya) [knowledge](jñāna) [capability](sāmarthya) [bestowing](pradāyinīm) [ity-artha](ityarthaḥ)
+
 ## mukta-m0-p83-v2075
-middle and there her eternal-non-eternal incense-etc worship
+[middle](madhye) [ca](ca) [there](tatra) [her](tāṃ) [nitya-anitya](nityānityā) [gandha-etc](gandhādinā) [arcayet](arcayet)
