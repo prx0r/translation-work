@@ -1,4 +1,4 @@
 # mukta-m00239 mukta-m0-p59
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
-Please provide the verse text for mukta-m00239 mukta-m0-p59 so I can draft the T1 pada-glosses.
+I don't have the verse text for mukta-m0-p59. Please paste the labeled verses (with their verse numbers and surfaces) and I'll gloss each separately.
