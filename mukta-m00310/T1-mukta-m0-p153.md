@@ -2,61 +2,61 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p153-v3801
-[golden-both-bodied](kāñcanobhatanuḥ) [quarter](kāṣṭhā) [leprosy-disease-destroying](kuṣṭharogavināśinī)
+[golden+both+bodied](kāñcanobhatanuḥ) [direction](kāṣṭhā) [leprosy-disease-destroying](kuṣṭharogavināśinī)
 
 ## mukta-m0-p153-v3802
 [skin-garmented](carmāmbarā) [cruel-nailed](krūranakhā) [cakora-eyed](cakorākṣī) [four-armed](caturbhujā)
 
 ## mukta-m0-p153-v3803
-[universe-moving](brahmāṇḍacāriṇī) [manifestation](sphūrtiḥ) [Brahmani](brahmāṇī) [Brahma-approved](brahmasaṃmatā)
+[world-sphere-wandering](brahmāṇḍacāriṇī) [manifestation+brahmani](sphūrtirbrahmāṇī) [brahma-approved](brahmasaṃmatā)
 
 ## mukta-m0-p153-v3804
-[wish-creeper](kalpavallī) [slender-limbed](kṛṣāṅgī) [and](ca) [wish-tree-dwelling](kalpapādapavāsinī)
+[wish-fulfilling-creeper](kalpavallī) [thin-limbed](kṛṣāṅgī) [and](ca) [wish-fulfilling-tree-dwelling](kalpapādapavāsinī)
 
 ## mukta-m0-p153-v3805
-[prosperity-queen](bhūtirājñī) [universe-queen](viśvarājñī) [world-queen](lokarājñī) [Shiva-refuge](śivāśrayā)
+[prosperity-ruler](bhūtirājñī) [world-ruler](viśvarājñī) [people-ruler](lokarājñī) [shiva-refuge](śivāśrayā)
 
 ## mukta-m0-p153-v3806
-[serpent-queen](nāgarājñī) [lineage-queen](vaṃśarājñī) [hero-queen](vīrarājñī) [passion-loving](rajaḥpriyā)
+[serpent-ruler](nāgarājñī) [lineage-ruler](vaṃśarājñī) [hero-ruler](vīrarājñī) [dust-loving](rajaḥpriyā)
 
 ## mukta-m0-p153-v3807
-[wealth-queen](vasurājñī) [truth-queen](satyarājñī) [austerity-queen](taporājñī) [chant-loving](japapriyā)
+[wealth-ruler](vasurājñī) [truth-ruler](satyarājñī) [austerity-ruler](taporājñī) [japa-loving](japapriyā)
 
 ## mukta-m0-p153-v3808
-[compassion+doing](dayākarā)
+[compassion-maker](dayākarā)
 
 ## mukta-m0-p153-v3809
-[earth-queen](pṛthvīrājñī) [milk-queen](payorājñī) [wind-queen](vāyurājñī) [intoxicated-languid](madālasā)
+[earth-ruler](pṛthvīrājñī) [water-ruler](payorājñī) [air-ruler](vāyurājñī) [intoxicated-languid](madālasā)
 
 ## mukta-m0-p153-v3810
-[truth-queen](tathyarājñī) [victory-queen](jayārājñī) [great-queen](mahārājñī) [clan-form](kulākṛtiḥ)
+[truth-ruler](tathyarājñī) [victory-ruler](jayārājñī) [great-ruler](mahārājñī) [clan-formed](kulākṛtiḥ)
 
 ## mukta-m0-p153-v3811
-[supreme-queen](parārājñī) [yaksha-queen](yakṣarājñī) [being-queen](bhūtarājñī) [Shiva-seat](śivāsanā)
+[supreme-ruler](parārājñī) [yaksha-ruler](yakṣarājñī) [being-ruler](bhūtarājñī) [shiva-seated](śivāsanā)
 
 ## mukta-m0-p153-v3812
-[sky-queen](ākāśarājñī) [king-lady](rājeśī) [king-of-kings-queen](rājarājñī) [love-pleasing](ratipriyā)
+[sky-ruler](ākāśarājñī) [ruler-lord](rājeśī) [king-of-kings](rājarājñī) [love-loving](ratipriyā)
 
 ## mukta-m0-p153-v3813
-[perfected-queen](siddharājñī) [radiance-queen](vibhārājñī) [splendor-queen](tejorājñī) [shining](vibhāmayī)
+[siddha-ruler](siddharājñī) [splendor-ruler](vibhārājñī) [radiance-ruler](tejorājñī) [shining](vibhāmayī)
 
 ## mukta-m0-p153-v3814
-[planet-queen](graharājñī) [creeper-queen](latārājñī) [tree-queen](vṛkṣarājñī) [wisdom-giving](matipradā)
+[planet-ruler](graharājñī) [creeper-ruler](latārājñī) [tree-ruler](vṛkṣarājñī) [wisdom-giving](matipradā)
 
 ## mukta-m0-p153-v3815
-[sage-queen](munirājñī) [jewel-queen](ratnarājñī) [age-queen](yugarājñī) [gem-radiance](maṇiprabhā)
+[sage-ruler](munirājñī) [gem-ruler](ratnarājñī) [age-ruler](yugarājñī) [jewel-radiance](maṇiprabhā)
 
 ## mukta-m0-p153-v3816
-[drop-queen](bindurājñī) [sound-queen](nādarājñī) [self-queen](ātmarājñī) [and](ca) [good-going](sadgatiḥ)
+[bindu-ruler](bindurājñī) [sound-ruler](nādarājñī) [self-ruler](ātmarājñī) [and](ca) [good-course](sadgatiḥ)
 
 ## mukta-m0-p153-v3817
-[Ishana-queen](īśānarājñī) [king-lady](rājeśī) [Svaha-queen](svāhārājñī) [greater](mahattarā)
+[Ishana-ruler](īśānarājñī) [ruler-lord](rājeśī) [svaha-ruler](svāhārājñī) [greater](mahattarā)
 
 ## mukta-m0-p153-v3818
-[world-queen](jagadrājñī) [principle-queen](tattvarājñī) [speech-queen](vāgrājñī) [universe-formed](viśvarūpiṇī)
+[world-ruler](jagadrājñī) [principle-ruler](tattvarājñī) [speech-ruler](vāgrājñī) [universe-formed](viśvarūpiṇī)
 
 ## mukta-m0-p153-v3819
-[thus-this](itīdaṃ) [mantra-essence](mantrasarvasvaṃ) [queen-name-thousand](rājñīnāmasahasrakam)
+[thus-this](itīdaṃ) [mantra-essence](mantrasarvasvaṃ) [thousand-names-of-queens](rājñīnāmasahasrakam)
 
 ## mukta-m0-p153-v3820
 [all-principle-made](sarvatattvamayaṃ) [meritorious](puṇyaṃ) [great-sin-destroying](mahāpātakanāśanam)
@@ -68,10 +68,10 @@
 [all-sorrow-flood-pacifying](sarvaduḥkhaughaśamanaṃ) [all-grief-destroying](sarvaśokavināśanam)
 
 ## mukta-m0-p153-v3823
-[from-far-indeed](dūrādeva) [flee](palāyante) [calamities](vipadaḥ) [enemy-fears](śatrubhītayaḥ)
+[from-far](dūrādeva) [flee](palāyante) [dangers](vipadaḥ) [enemy-fears](śatrubhītayaḥ)
 
 ## mukta-m0-p153-v3824
-[reading-from-flee-quickly](paṭhanādvidravantyāśu) [like-Mahakala](mahākālādiva) [beings](prajāḥ)
+[by-reading](paṭhanādvidravantyāśu) [like-great-Kala](mahākālādiva) [people](prajāḥ)
 
 ## mukta-m0-p153-v3825
-[Ganga-bath-thousand's](gaṅgāsnānasahasrasya) [Chandrayana-ten-thousand's](cāndrāyaṇāyutasya) [and](ca)
+[thousand-Ganga-baths](gaṅgāsnānasahasrasya) [ten-thousand-chandrayana](cāndrāyaṇāyutasya) [and](ca)

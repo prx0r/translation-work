@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[epithet](sthāṇurūpaḥ) [epithet](caragatiḥ) [epithet](cāruvaktraḥ) [epithet](jayī) [epithet](nayī)
+[pillar-form](sthāṇu+rūpaḥ) [moving-gait](cara+gatiḥ) [beautiful-face](cāru+vaktraḥ) [victorious](jayī) [leader](nayī)
 
 ## mukta-m0-p79-v1952
-[epithet](lakṣmīnetravaśī) [epithet](lakṣmīhāsavaśyaḥ) [epithet](vinartakaḥ)
+[lakshmi-eyed](lakṣmī+netra+vaśī) [lakshmi-smile-subdued](lakṣmī+hāsa+vaśyaḥ) [dancer](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
-[epithet](vāsavaḥ) [epithet](gopyamārgeṣṭaḥ) [epithet](vaiṣṇavācāratatparaḥ)
+[indra-like](vāsavaḥ) [secret-path-desired](gopya+mārga+iṣṭaḥ) [vaishnava-conduct-devoted](vaiṣṇava+ācāra+tatparaḥ)
 
 ## mukta-m0-p79-v1954
-[epithet](satyaḥ) [epithet](stutyaḥ) [epithet](śuciḥ) [epithet](nityaḥ) [epithet](nityātmā) [epithet](nityadarśanaḥ)
+[true](satyaḥ) [praiseworthy](stutyaḥ) [pure](śuciḥ) [eternal](nityaḥ) [eternal-self](nitya+ātmā) [eternal-vision](nitya+darśanaḥ)
 
 ## mukta-m0-p79-v1955
-[epithet](pañcamasvarasaṅgītaḥ) [epithet](kīrtidaḥ) [epithet](mohanāśanaḥ)
+[fifth-note-music](pañcama+svara+saṅgītaḥ) [glory-giver](kīrti+daḥ) [delusion-destroyer](mohana+aśanaḥ)
 
 ## mukta-m0-p79-v1956
-[epithet](lakṣmīyogīśvaraḥ) [epithet](lakṣmīyogadaḥ) [epithet](bhogināyakaḥ)
+[lakshmi-yoga-lord](lakṣmī+yoga+īśvaraḥ) [lakshmi-yoga-giver](lakṣmī+yoga+daḥ) [enjoyment-leader](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
-[epithet](acintyamahimā) [epithet](acintyagarimā) [epithet](ghoranisvanaḥ)
+[unthinkable-glory](acintya+mahimā) [unthinkable-weight](acintya+garimā) [terrible-sound](ghora+nisvanaḥ)
 
 ## mukta-m0-p79-v1958
-[epithet](kāmadevaḥ) [epithet](vaidyavaidyaḥ) [epithet](vedavid) [epithet](vedanāyakaḥ)
+[love-god](kāmadevaḥ) [physician-of-physicians](vaidya+vaidyaḥ) [veda-knower](veda+vid) [veda-leader](veda+nāyakaḥ)
 
 ## mukta-m0-p79-v1959
-[epithet](yājñikaḥ) [epithet](yamināṃ) [epithet](trātā) [epithet](trilokajanakaḥ) [epithet](ajaraḥ)
+[sacrificer](yājñikaḥ) [ascetics-protector](yamināṃ+trātā) [three-worlds-father](triloka+janakaḥ) [ageless](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[epithet](lakṣmīpṛthuḥ) [epithet](vasuprītaḥ) [epithet](lakṣmīśrīdaḥ) [epithet](śriyaḥpatiḥ)
+[lakshmi-wide](lakṣmī+pṛthu) [vasu-pleased](vasu+prītaḥ) [lakshmi-glory-giver](lakṣmī+śrī+daḥ) [wealth-lord](śriyaḥ+patiḥ)
 
 ## mukta-m0-p79-v1961
-[epithet](anirvartī) [epithet](ca) [epithet](niḥsaṅgaḥ) [epithet](nirbhayaḥ) [epithet](nirupadravaḥ)
+[irreversible](anirvartī) [detached](niḥsaṅgaḥ) [fearless](nirbhayaḥ) [untroubled](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
-[epithet](nirāśrayaḥ) [epithet](nirguṇaḥ) [epithet](ca) [epithet](guṇātītaḥ) [epithet](gaṇeśvaraḥ)
+[refugeless](nirāśrayaḥ) [qualityless](nirguṇaḥ) [beyond-qualities](guṇa+atītaḥ) [troop-lord](gaṇeśvaraḥ)
 
 ## mukta-m0-p79-v1963
-[epithet](mahākratuḥ) [epithet](yajñavapuḥ) [epithet](varāhaḥ) [epithet](yajñanāyakaḥ)
+[great-sacrifice](mahā+kratuḥ) [sacrifice-bodied](yajña+vapuḥ) [boar](varāhaḥ) [sacrifice-leader](yajña+nāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[epithet](lakṣmīnirañjanaḥ) [epithet](lakṣmīsiddhidaḥ) [epithet](siddhivardhanaḥ)
+[lakshmi-unstained](lakṣmī+nirañjanaḥ) [lakshmi-perfection-giver](lakṣmī+siddhi+daḥ) [perfection-increaser](siddhi+vardhanaḥ)
 
 ## mukta-m0-p79-v1965
-[epithet](sarvalokadharaḥ) [epithet](dāntaḥ) [epithet](dantidantāyudhaḥ) [epithet](damī)
+[all-worlds-bearer](sarva+loka+dharaḥ) [self-controlled](dāntaḥ) [elephant-tusk-armed](danti+danta+āyudhaḥ) [subduer](damī)
 
 ## mukta-m0-p79-v1966
-[epithet](mahākarmā) [epithet](mahācīnaḥ) [epithet](makāraśivapūjitaḥ)
+[great-actor](mahā+karmā) [great-china](mahā+cīnaḥ) [ma-syllable-shiva-worshipped](makāra+śiva+pūjitaḥ)
 
 ## mukta-m0-p79-v1967
-[epithet](māṃsāhārī) [epithet](nityasaṅgī) [epithet](mīnāsavarasākulaḥ)
+[meat-eater](māṃsa+āhārī) [eternal-attached](nitya+saṅgī) [fish-essence-filled](mīna+asava+rasa+ākulaḥ)
 
 ## mukta-m0-p79-v1968
-[epithet](aghoradevaḥ) [epithet](daityāriḥ) [epithet](jitadevaḥ) [epithet](divākaraḥ)
+[not-terrible-god](aghora+devaḥ) [demon-enemy](daitya+ariḥ) [conquered-god](jita+devaḥ) [sun](divākaraḥ)
 
 ## mukta-m0-p79-v1969
-[epithet](satsvarūpaḥ) [epithet](virūpākṣaḥ) [epithet](vibhākaraśataprabhaḥ)
+[true-form](sat+svarūpaḥ) [odd-eyed](virūpa+akṣaḥ) [radiant-maker](vibhākara) [hundred-splendor](śata+prabhaḥ)
 
 ## mukta-m0-p79-v1970
-[epithet](pīnabāhuḥ) [epithet](sthūlapādaḥ) [epithet](dīrghacakṣuḥ) [epithet](alaṃbhujaḥ)
+[thick-armed](pīna+bāhuḥ) [thick-footed](sthūla+pādaḥ) [long-eyed](dīrgha+cakṣuḥ) [pendant-armed](alaṃ+bhujaḥ)
 
 ## mukta-m0-p79-v1971
-[epithet](lakṣmīsanātanaḥ) [epithet](lakṣmīdharmādhyakṣaḥ) [epithet](dhaneśvaraḥ)
+[lakshmi-eternal](lakṣmī+sanātanaḥ) [lakshmi-dharma-overseer](lakṣmī+dharma+adhyakṣaḥ) [wealth-lord](dhana+īśvaraḥ)
 
 ## mukta-m0-p79-v1972
-[epithet](vīrahaḥ) [epithet](puṇḍarīkākṣaḥ) [epithet](padmanābhaḥ) [epithet](jagatprabhuḥ)
+[hero-slayer](vīra+haḥ) [lotus-eyed](puṇḍarīka+akṣaḥ) [lotus-navel](padma+nābhaḥ) [world-lord](jagat+prabhuḥ)
 
 ## mukta-m0-p79-v1973
-[epithet](sahasrabāhuḥ) [epithet](kṣatreśaḥ) [epithet](brāhmaṇaḥ) [epithet](vaṇijāṃ) [epithet](patiḥ)
+[thousand-armed](sahasra+bāhuḥ) [kshatriya-lord](kṣatra+īśaḥ) [brahmin](brāhmaṇaḥ) [merchants-lord](vaṇijāṃ+patiḥ)
 
 ## mukta-m0-p79-v1974
-[epithet](cakrārcitaḥ) [epithet](nakrapatiḥ) [epithet](varuṇaḥ) [epithet](śakrasodaraḥ)
+[wheel-worshipped](cakra+arcitaḥ) [crocodile-lord](nakra+patiḥ) [varuna](varuṇaḥ) [indra-brother](śakra+sodaraḥ)
 
 ## mukta-m0-p79-v1975
-[epithet](amānī) [epithet](mānadaḥ) [epithet](mānyaḥ) [epithet](mānavendraḥ) [epithet](manūttamaḥ)
+[prideless](amānī) [honor-giver](māna+daḥ) [honorable](mānyaḥ) [man-leader](mānava+indraḥ) [best-manu](manu+uttamaḥ)
