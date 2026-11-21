@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "śivādīnāṃ+ca+devānāṃ",
+     "gloss": "of-shiva-and-other-gods",
+     "grounds": "genitive plural compound śivādi with indeclinable ca and genitive plural devānām; sandhi/fusion kept as given",
+     "morph": "compound+indecl.+m.gen.pl"
+    },
+    {
+     "surface": "devīnāṃ",
+     "gloss": "of-goddesses",
+     "grounds": "genitive plural of devī",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "dvāradakṣiṇe",
+     "gloss": "at-door-south-side",
+     "grounds": "locative singular of compound dvāra-dakṣiṇa indicating position relative to the door",
+     "morph": "compound n.loc.sg"
+    }
+   ],
+   "question": "On which side of the door are Śiva and other deities to be situated?",
+   "premises": [
+    "The verse refers to Śiva and other gods.",
+    "The verse also refers to the goddesses.",
+    "The verse specifies the southern side of the door."
+   ],
+   "inference": "Śiva, other gods, and the goddesses are to be situated on the southern side of the door.",
+   "uncertainties": [
+    "The exact ritual action implied by the locative is supplied from the preceding context of placement."
+   ],
+   "plain_english": "Śiva and the other gods, and the goddesses, are to be placed on the southern side of the door."
+  }
+ ]
+}

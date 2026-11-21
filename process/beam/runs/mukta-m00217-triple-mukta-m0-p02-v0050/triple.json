@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "anayā",
+     "gloss": "by-this",
+     "grounds": "demonstrative pronoun referring to the goddess named in the preceding verse",
+     "morph": "pron.inst.sg.f"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "conjunction linking this instruction to the prior context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "ritual seat or support in worship",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyāt",
+     "gloss": "one-should-know",
+     "grounds": "prescriptive cognition of the ritual arrangement",
+     "morph": "3.sg.act-optative √vid"
+    },
+    {
+     "surface": "tripureśyā",
+     "gloss": "by-tripureshi",
+     "grounds": "epithet of the goddess Tripureśī as the agent or basis",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgakam",
+     "gloss": "six-limbed",
+     "grounds": "compound describing the seat as having six parts; ṣaṣ-aṅga-ka",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What six-limbed seat is to be recognized through the goddess Tripureśī?",
+   "premises": [
+    "The instruction directs one to know the seat through this goddess.",
+    "The goddess specified as the basis is Tripureśī.",
+    "The seat is characterized as six-limbed."
+   ],
+   "inference": "Therefore, through Tripureśī one should recognize the ritual seat as constituted in six limbs.",
+   "uncertainties": [
+    "The specific six limbs constituting the seat are not enumerated in this verse."
+   ],
+   "plain_english": "And by this Tripureśī one should know the seat to be six-limbed."
+  }
+ ]
+}

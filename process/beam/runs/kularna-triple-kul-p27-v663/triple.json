@@ -1,0 +1,539 @@
+{
+ "song": "kul-p27",
+ "items": [
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "ritual substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tarpaṇayogyaṃ",
+     "gloss": "offering-suitable",
+     "grounds": "fit for tarpana",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative be",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "devatāprītikārakam",
+     "gloss": "deity-pleasing",
+     "grounds": "causes deity delight",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What substance is suitable for offering and pleasing to deities?",
+   "premises": [
+    "substance is offering-suitable",
+    "substance is deity-pleasing"
+   ],
+   "inference": "the suitable substance pleases deities",
+   "uncertainties": [
+    "exact substance unspecified"
+   ],
+   "plain_english": "The substance should be suitable for offering and pleasing to the deity."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "catuvīṃśatimantraiḥ",
+     "gloss": "twenty-four-mantras",
+     "grounds": "with twenty-four mantras",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative be",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "madyañcaiva",
+     "gloss": "wine",
+     "grounds": "wine also",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parāmṛtam",
+     "gloss": "supreme-nectar",
+     "grounds": "supreme nectar",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is wine when joined with twenty-four mantras?",
+   "premises": [
+    "wine is with twenty-four mantras",
+    "wine is supreme nectar"
+   ],
+   "inference": "wine becomes supreme nectar",
+   "uncertainties": [
+    "mantra list not given"
+   ],
+   "plain_english": "Wine with twenty-four mantras is supreme nectar."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "śaśinī",
+     "gloss": "moonlight",
+     "grounds": "moonlight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candrikā",
+     "gloss": "moonbeam",
+     "grounds": "moonbeam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "beauty",
+     "grounds": "beauty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jyotsnā",
+     "gloss": "moonlight",
+     "grounds": "moonlight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "glory",
+     "grounds": "glory",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "delight",
+     "grounds": "delight",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṅgadā",
+     "gloss": "limb-giving",
+     "grounds": "giving limbs",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What names are given to these moonlike kalas?",
+   "premises": [
+    "names include moonlight and moonbeam",
+    "names include beauty and moonlight",
+    "names include glory delight and limb-giving"
+   ],
+   "inference": "these kalas bear seven names",
+   "uncertainties": [
+    "exact kalas unspecified"
+   ],
+   "plain_english": "They are called moonlight, moonbeam, beauty, moonlight, glory, delight, and limb-giving."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "saumyāḥ",
+     "gloss": "gentle",
+     "grounds": "gentle",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "kāmapradāyinyaḥ",
+     "gloss": "desire-giving",
+     "grounds": "giving desires",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "sixteen",
+     "morph": "num"
+    },
+    {
+     "surface": "svarajāḥ",
+     "gloss": "vowel-born",
+     "grounds": "born from vowels",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "kalas",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What are the sixteen gentle desire-giving kalas?",
+   "premises": [
+    "sixteen kalas are gentle",
+    "sixteen kalas are desire-giving",
+    "sixteen kalas are vowel-born"
+   ],
+   "inference": "the sixteen vowel-born kalas are gentle and desire-giving",
+   "uncertainties": [
+    "vowel list not given"
+   ],
+   "plain_english": "The sixteen gentle, desire-giving kalas are born from vowels."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "kabhādyā",
+     "gloss": "ka-bha-etc",
+     "grounds": "beginning with ka bha",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "vasudāḥ",
+     "gloss": "wealth-giving",
+     "grounds": "giving wealth",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "saurāṣṭhaḍāntā",
+     "gloss": "saurāṣṭha-ending",
+     "grounds": "ending in saurāṣṭha",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "dvādaśeritāḥ",
+     "gloss": "twelve-declared",
+     "grounds": "declared as twelve",
+     "morph": "adj.nom.pl"
+    }
+   ],
+   "question": "What are the twelve wealth-giving kalas?",
+   "premises": [
+    "twelve kalas begin with ka bha",
+    "twelve kalas give wealth",
+    "twelve kalas end in saurāṣṭha"
+   ],
+   "inference": "the twelve declared kalas give wealth",
+   "uncertainties": [
+    "exact letter series not given"
+   ],
+   "plain_english": "The twelve kalas beginning with ka-bha and ending in saurāṣṭha give wealth."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "āgneyā",
+     "gloss": "fiery",
+     "grounds": "fiery",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "yādivarṇādyā",
+     "gloss": "ya-etc",
+     "grounds": "beginning with ya",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "ten",
+     "morph": "num"
+    },
+    {
+     "surface": "dharmapradāḥ",
+     "gloss": "dharma-giving",
+     "grounds": "giving dharma",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "kalas",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What are the ten fiery dharma-giving kalas?",
+   "premises": [
+    "ten kalas are fiery",
+    "ten kalas begin with ya",
+    "ten kalas give dharma"
+   ],
+   "inference": "the ten ya-beginning kalas give dharma",
+   "uncertainties": [
+    "exact letter series not given"
+   ],
+   "plain_english": "The ten fiery kalas beginning with ya give dharma."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "akāraprabhavā",
+     "gloss": "a-born",
+     "grounds": "born from a",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "brahmajātāḥ",
+     "gloss": "brahma-born",
+     "grounds": "born from brahma",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "be",
+     "grounds": "optative be",
+     "morph": "v.3.pl.act-opt"
+    },
+    {
+     "surface": "sṛṣṭaye",
+     "gloss": "for-creation",
+     "grounds": "for creation",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "kalas",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What kalas are born from a for creation?",
+   "premises": [
+    "kalas are born from a",
+    "kalas are born from brahma",
+    "kalas are for creation"
+   ],
+   "inference": "a-born brahma-born kalas serve creation",
+   "uncertainties": [
+    "count not given"
+   ],
+   "plain_english": "The kalas born from a and from Brahma are for creation."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "ukāraprabhavā",
+     "gloss": "u-born",
+     "grounds": "born from u",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "viṣṇujātāḥ",
+     "gloss": "viṣṇu-born",
+     "grounds": "born from viṣṇu",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "be",
+     "grounds": "optative be",
+     "morph": "v.3.pl.act-opt"
+    },
+    {
+     "surface": "sthitaye",
+     "gloss": "for-preservation",
+     "grounds": "for preservation",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "kalas",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What kalas are born from u for preservation?",
+   "premises": [
+    "kalas are born from u",
+    "kalas are born from viṣṇu",
+    "kalas are for preservation"
+   ],
+   "inference": "u-born viṣṇu-born kalas serve preservation",
+   "uncertainties": [
+    "count not given"
+   ],
+   "plain_english": "The kalas born from u and from Viṣṇu are for preservation."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "makāraprabhavā",
+     "gloss": "m-born",
+     "grounds": "born from m",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "rudrajātāḥ",
+     "gloss": "rudra-born",
+     "grounds": "born from rudra",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "saṃhṛtaye",
+     "gloss": "for-destruction",
+     "grounds": "for destruction",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "kalas",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What kalas are born from m for destruction?",
+   "premises": [
+    "kalas are born from m",
+    "kalas are born from rudra",
+    "kalas are for destruction"
+   ],
+   "inference": "m-born rudra-born kalas serve destruction",
+   "uncertainties": [
+    "count not given"
+   ],
+   "plain_english": "The kalas born from m and from Rudra are for destruction."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "kalāśca",
+     "gloss": "kalas",
+     "grounds": "and kalas",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "īśvarasañjātāḥ",
+     "gloss": "īśvara-born",
+     "grounds": "born from īśvara",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "tirodhānāya",
+     "gloss": "for-concealment",
+     "grounds": "for concealment",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "bindujāḥ",
+     "gloss": "bindu-born",
+     "grounds": "born from bindu",
+     "morph": "adj.nom.pl"
+    }
+   ],
+   "question": "What kalas are born from īśvara and bindu?",
+   "premises": [
+    "kalas are born from īśvara",
+    "kalas are born from bindu",
+    "kalas are for concealment"
+   ],
+   "inference": "īśvara-born bindu-born kalas serve concealment",
+   "uncertainties": [
+    "count not given"
+   ],
+   "plain_english": "The kalas born from Īśvara and from bindu are for concealment."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "indhikā",
+     "gloss": "indhika",
+     "grounds": "indhika",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dīpikā",
+     "gloss": "dīpikā",
+     "grounds": "dīpikā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "recikā",
+     "gloss": "recikā",
+     "grounds": "recikā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mocikā",
+     "gloss": "mocikā",
+     "grounds": "mocikā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "supreme",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What are the supreme kalas named indhika and others?",
+   "premises": [
+    "indhika is a kala",
+    "dīpikā is a kala",
+    "recikā is a kala",
+    "mocikā is a kala",
+    "parā is supreme"
+   ],
+   "inference": "these named kalas include the supreme one",
+   "uncertainties": [
+    "exact grouping unclear"
+   ],
+   "plain_english": "Indhika, Dīpikā, Recikā, Mocikā, and the supreme one are named."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "sadāśivabhavā",
+     "gloss": "sadāśiva-born",
+     "grounds": "born from sadāśiva",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "nādāt",
+     "gloss": "from-nāda",
+     "grounds": "from nāda",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "anugrahakalāḥ",
+     "gloss": "grace-kalas",
+     "grounds": "kalas of grace",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "in order",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What grace kalas arise from sadāśiva and nāda?",
+   "premises": [
+    "grace kalas are born from sadāśiva",
+    "grace kalas arise from nāda",
+    "grace kalas come in order"
+   ],
+   "inference": "sadāśiva-born nāda-born grace kalas arise in order",
+   "uncertainties": [
+    "count not given"
+   ],
+   "plain_english": "The grace kalas born from Sadāśiva and from nāda arise in order."
+  }
+ ]
+}

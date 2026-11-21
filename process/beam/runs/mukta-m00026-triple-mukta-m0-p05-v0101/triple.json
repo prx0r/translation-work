@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "its",
+     "grounds": "neuter pronoun referring to the yantra",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "pericarp-in",
+     "grounds": "locative of karṇikā",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "trikoṇaṃ",
+     "gloss": "triangle",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "bāṇaliṅgañca",
+     "gloss": "arrow-liṅga-and",
+     "grounds": "fused sandhi form with ca",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "saṅgatam",
+     "gloss": "united",
+     "grounds": "past participle",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "What is united with the triangle in the pericarp of that yantra?",
+   "premises": [
+    "the triangle is in the pericarp",
+    "the arrow-liṅga is united with it"
+   ],
+   "inference": "the yantra's pericarp contains a triangle united with the arrow-liṅga",
+   "uncertainties": [
+    "exact ritual referent of bāṇaliṅga"
+   ],
+   "plain_english": "In its pericarp is the triangle, which is united with the arrow-liṅga."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "buddhi",
+     "gloss": "buddhi",
+     "grounds": "intellect principle",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "prakṛti",
+     "gloss": "primordial-nature",
+     "grounds": "nature principle",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ahaṅkāra",
+     "gloss": "ego",
+     "grounds": "ego principle",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "lakṣitaṃ",
+     "gloss": "characterized-by",
+     "grounds": "past participle",
+     "morph": "pp.acc.sg.n"
+    },
+    {
+     "surface": "tejasā",
+     "gloss": "by-splendor",
+     "grounds": "instrumental of tejas",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is characterized by splendor as supreme?",
+   "premises": [
+    "buddhi prakṛti and ahaṅkāra are named",
+    "they are characterized by splendor"
+   ],
+   "inference": "the supreme reality is characterized by splendor through buddhi prakṛti and ego",
+   "uncertainties": [
+    "syntactic grouping of param"
+   ],
+   "plain_english": "Buddhi, primordial nature, and ego are characterized by supreme splendor."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "sahasrāre",
+     "gloss": "thousand-spoked-in",
+     "grounds": "locative of sahasrāra",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "mahāpadme",
+     "gloss": "great-lotus-in",
+     "grounds": "locative of mahāpadma",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "manaścāpi",
+     "gloss": "mind-and",
+     "grounds": "fused sandhi form with ca api",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-fix",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should the mind be fixed?",
+   "premises": [
+    "the place is the thousand-spoked great lotus",
+    "the mind should be fixed there"
+   ],
+   "inference": "one should fix the mind in the thousand-spoked great lotus",
+   "uncertainties": [
+    "exact meditative operation"
+   ],
+   "plain_english": "One should fix the mind in the great lotus of the thousand-spoked center."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "akārādi",
+     "gloss": "a-syllable-beginning-with",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "kṣakārāntaiḥ",
+     "gloss": "kṣa-syllable-ending-with",
+     "grounds": "instrumental plural",
+     "morph": "adj.inst.pl.m"
+    },
+    {
+     "surface": "sphurad",
+     "gloss": "shining",
+     "grounds": "present participle",
+     "morph": "pp.nom.sg.n"
+    },
+    {
+     "surface": "varṇair",
+     "gloss": "letters-by",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "virājitam",
+     "gloss": "illuminated",
+     "grounds": "past participle",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "What is illuminated by shining letters from a to kṣa?",
+   "premises": [
+    "the letters run from a to kṣa",
+    "they shine and illuminate"
+   ],
+   "inference": "the object is illuminated by the shining letters from a to kṣa",
+   "uncertainties": [
+    "exact illuminated object"
+   ],
+   "plain_english": "It is illuminated by shining letters running from a to kṣa."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "sūryasya",
+     "gloss": "sun-of",
+     "grounds": "genitive of sūrya",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "maṇḍalañcaiva",
+     "gloss": "disk-and",
+     "grounds": "fused sandhi form with ca eva",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "maṇḍalameva",
+     "gloss": "disk-indeed",
+     "grounds": "fused sandhi form with eva",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which disks are mentioned together with the moon?",
+   "premises": [
+    "the sun's disk is named",
+    "the moon's disk is also named"
+   ],
+   "inference": "the sun disk and moon disk are both present",
+   "uncertainties": [
+    "exact relation to the yantra"
+   ],
+   "plain_english": "The sun's disk and indeed the moon's disk are present."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative pronoun",
+     "morph": "pron.loc.sg.n"
+    },
+    {
+     "surface": "randhre",
+     "gloss": "cavity-in",
+     "grounds": "locative of randhra",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "visargañca",
+     "gloss": "emission-and",
+     "grounds": "fused sandhi form with ca",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nityānandaṃ",
+     "gloss": "eternal-bliss",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "nirañjatam",
+     "gloss": "stainless",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What is stainless eternal bliss in that cavity?",
+   "premises": [
+    "the cavity is in that place",
+    "emission is named there"
+   ],
+   "inference": "stainless eternal bliss is associated with the emission in that cavity",
+   "uncertainties": [
+    "exact metaphysical referent"
+   ],
+   "plain_english": "In that cavity is the emission, stainless eternal bliss."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "adhaḥsthā",
+     "gloss": "below-situated-and",
+     "grounds": "fused sandhi form with ca",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "caturmaṇḍala",
+     "gloss": "four-circle",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "madhyagam",
+     "gloss": "middle-situated",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is situated in the middle of the four circles below that?",
+   "premises": [
+    "the four circles are below that",
+    "the middle-situated thing is named"
+   ],
+   "inference": "something middle-situated lies within the four circles below that",
+   "uncertainties": [
+    "exact middle-situated entity"
+   ],
+   "plain_english": "Below that, O goddess, the middle-situated thing is in the four circles."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place-in",
+     "grounds": "locative of sthāna",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "sthiracittaṃ",
+     "gloss": "steady-mind",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be placed steadily in this place?",
+   "premises": [
+    "the place is here",
+    "the mind should be made steady"
+   ],
+   "inference": "one should place a steady mind in this place",
+   "uncertainties": [
+    "ritual context"
+   ],
+   "plain_english": "Here, O great goddess, having placed a steady mind in this place."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityoditā",
+     "gloss": "eternally-risen",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vṛddhi",
+     "gloss": "growth",
+     "grounds": "noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kṣayahīnā",
+     "gloss": "decay-devoid",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "amākalā",
+     "gloss": "digitless",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What kind of growth is here eternally risen and free from decay?",
+   "premises": [
+    "the growth is eternally risen",
+    "it is devoid of decay and digits"
+   ],
+   "inference": "the growth here is eternal, decayless, and digitless",
+   "uncertainties": [
+    "exact lunar or power referent"
+   ],
+   "plain_english": "Here is growth eternally risen, devoid of decay and digits."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "nirvāṇākhyā",
+     "gloss": "liberation-named",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "antargatā",
+     "gloss": "within-situated",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg.f"
+    },
+    {
+     "surface": "vahnirūpā",
+     "gloss": "fire-form",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "nirodhikā",
+     "gloss": "restraining",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is the fire-form power situated within and named liberation?",
+   "premises": [
+    "it is named liberation",
+    "it is situated within and has fire form"
+   ],
+   "inference": "the restraining power named liberation is fire-form and within",
+   "uncertainties": [
+    "exact power identity"
+   ],
+   "plain_english": "The liberation-named, within-situated, fire-form restraining power."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "nirvāṇaśaktiḥ",
+     "gloss": "liberation-power",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "paramā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "yonirūpiṇī",
+     "gloss": "womb-form",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is the supreme liberation power of all in womb form?",
+   "premises": [
+    "the liberation power is supreme",
+    "it is the womb-form of all"
+   ],
+   "inference": "the supreme liberation power is the womb-form of all",
+   "uncertainties": [
+    "exact metaphysical scope"
+   ],
+   "plain_english": "The supreme liberation power is the womb-form of all."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "atraiva",
+     "gloss": "here-indeed",
+     "grounds": "fused sandhi form with eva",
+     "morph": "adv"
+    },
+    {
+     "surface": "kuṇḍalīśaktiḥ",
+     "gloss": "Kuṇḍalī-power",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mudrākārā",
+     "gloss": "seal-form",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What power is here in seal form?",
+   "premises": [
+    "the place is here indeed",
+    "Kuṇḍalī power is in seal form"
+   ],
+   "inference": "Kuṇḍalī power is present here in seal form",
+   "uncertainties": [
+    "exact seal type"
+   ],
+   "plain_english": "Here indeed, O lady of gods, Kuṇḍalī power is in seal form."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg.f"
+    },
+    {
+     "surface": "yonimudrā",
+     "gloss": "womb-seal",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental pronoun",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What has been declared by me to you?",
+   "premises": [
+    "this womb-seal is declared",
+    "it is declared by me to you"
+   ],
+   "inference": "the womb-seal has been declared by the speaker to the goddess",
+   "uncertainties": [
+    "exact ritual instruction"
+   ],
+   "plain_english": "This womb-seal has been declared by me to you, O supreme goddess."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "divyāmṛta",
+     "gloss": "divine-nectar",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dhārābhir",
+     "gloss": "streams-by",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.f"
+    },
+    {
+     "surface": "lākṣābhābhir",
+     "gloss": "lac-resembling-by",
+     "grounds": "instrumental plural",
+     "morph": "adj.inst.pl.f"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What streams resemble lac and divine nectar?",
+   "premises": [
+    "divine nectar is named",
+    "streams resembling lac are named"
+   ],
+   "inference": "the streams are like lac and divine nectar",
+   "uncertainties": [
+    "exact visual or ritual meaning"
+   ],
+   "plain_english": "That divine nectar, by streams resembling lac, O great goddess."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "kuṇḍalīśakti",
+     "gloss": "Kuṇḍalī-power",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "syllable",
+     "grounds": "noun",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "koṭi",
+     "gloss": "crore",
+     "grounds": "noun",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "śatairapi",
+     "gloss": "hundreds-even-by",
+     "grounds": "instrumental plural with api",
+     "morph": "n.inst.pl.n"
+    }
+   ],
+   "question": "How many syllables would accomplish Kuṇḍalī power?",
+   "premises": [
+    "Kuṇḍalī power accomplishment is named",
+    "crores and hundreds of syllables are named"
+   ],
+   "inference": "accomplishment of Kuṇḍalī power involves crores and hundreds of syllables",
+   "uncertainties": [
+    "exact numerical relation"
+   ],
+   "plain_english": "Accomplishment of Kuṇḍalī power would be by crores and hundreds of syllables."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "mantrarūpāṃ",
+     "gloss": "mantra-form",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "kuṇḍalinīṃ",
+     "gloss": "Kuṇḍalinī",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ṣaṭcakra",
+     "gloss": "six-chakra",
+     "grounds": "compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "circle-in",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "On what should one meditate in the six-chakra circle?",
+   "premises": [
+    "Kuṇḍalinī is mantra-form",
+    "one meditates on her in the six-chakra circle"
+   ],
+   "inference": "one should meditate on mantra-form Kuṇḍalinī in the six-chakra circle",
+   "uncertainties": [
+    "exact meditation procedure"
+   ],
+   "plain_english": "Having meditated on mantra-form Kuṇḍalinī in the six-chakra circle."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "gacchantīṃ",
+     "gloss": "going",
+     "grounds": "present participle",
+     "morph": "pp.acc.sg.f"
+    },
+    {
+     "surface": "brahmarandhreṇa",
+     "gloss": "Brahma-aperture-through",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "praviśantīṃ",
+     "gloss": "entering",
+     "grounds": "present participle",
+     "morph": "pp.acc.sg.f"
+    },
+    {
+     "surface": "svaketanam",
+     "gloss": "own-abode",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Where does the going and entering power go?",
+   "premises": [
+    "it goes through the Brahma aperture",
+    "it enters its own abode"
+   ],
+   "inference": "the power goes through the Brahma aperture and enters its own abode",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "Going through the Brahma aperture and entering its own abode."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "citriṇī",
+     "gloss": "citriṇī",
+     "grounds": "noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "grathitā",
+     "gloss": "strung",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg.f"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "jāpaṃ",
+     "gloss": "muttering",
+     "grounds": "noun",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "brahmāṇḍasundari",
+     "gloss": "O-beauty-of-universe",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What is strung like a rosary for muttering?",
+   "premises": [
+    "citriṇī is strung",
+    "it is a rosary for muttering"
+   ],
+   "inference": "citriṇī is strung as a rosary for muttering",
+   "uncertainties": [
+    "exact citriṇī referent"
+   ],
+   "plain_english": "Citriṇī, strung as a rosary for muttering, O beauty of the universe."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "mudrā",
+     "gloss": "seal",
+     "grounds": "noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "caitanyayor",
+     "gloss": "consciousness-of",
+     "grounds": "genitive dual",
+     "morph": "n.gen.du.n"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "noun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "varṇānāṃ",
+     "gloss": "syllables-of",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "jñānameva",
+     "gloss": "knowledge-indeed",
+     "grounds": "fused sandhi form with eva",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the knowledge of seal and consciousness and syllables?",
+   "premises": [
+    "seal and consciousness are named",
+    "knowledge of syllables is also named"
+   ],
+   "inference": "knowledge concerns seal, consciousness, and syllables",
+   "uncertainties": [
+    "exact doctrinal relation"
+   ],
+   "plain_english": "Seal and consciousness are knowledge; knowledge of syllables indeed, and."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "yonikrīḍā",
+     "gloss": "womb-play",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What supreme thing has been declared to you?",
+   "premises": [
+    "this womb-play is declared",
+    "it is supreme"
+   ],
+   "inference": "the supreme womb-play has been declared to the goddess",
+   "uncertainties": [
+    "exact ritual scope"
+   ],
+   "plain_english": "Thus this supreme womb-play has been declared to you, O goddess."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "I-desire",
+     "grounds": "first person verb",
+     "morph": "v.1.sg.act-pres"
+    },
+    {
+     "surface": "yoneḥ",
+     "gloss": "of-womb",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "kavacam",
+     "gloss": "armor",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What does the speaker now desire to hear?",
+   "premises": [
+    "the speaker desires to hear",
+    "the supreme armor of the womb is named"
+   ],
+   "inference": "the speaker desires to hear the supreme armor of the womb",
+   "uncertainties": [
+    "speaker identity"
+   ],
+   "plain_english": "Now I desire to hear the supreme armor of the womb."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "etasya",
+     "gloss": "of-this",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "kavacasya",
+     "gloss": "armor-of",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛṣiśca",
+     "gloss": "seer-and",
+     "grounds": "fused sandhi form with ca",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śrīsadāśivaḥ",
+     "gloss": "Śrī-Sadāśiva",
+     "grounds": "proper name",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who is the seer of this armor?",
+   "premises": [
+    "the armor is this one",
+    "Śrī Sadāśiva is its seer"
+   ],
+   "inference": "Śrī Sadāśiva is the seer of this armor",
+   "uncertainties": [
+    "exact armor application"
+   ],
+   "plain_english": "The seer of this armor is also Śrī Sadāśiva."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "caturvargeṣu",
+     "gloss": "four-aims-in",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "is-declared",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg.m"
+    }
+   ],
+   "question": "Where is the application of this armor declared?",
+   "premises": [
+    "the four aims are named",
+    "the application is declared"
+   ],
+   "inference": "the application is declared in the four aims",
+   "uncertainties": [
+    "exact four aims"
+   ],
+   "plain_english": "In the four aims, O lady of gods, the application is declared."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "ajñātvā",
+     "gloss": "without-knowing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-recite",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "niṣphalatāṃ",
+     "gloss": "fruitlessness",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes-to",
+     "grounds": "optative verb",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What happens to one who recites the mantra without knowing it?",
+   "premises": [
+    "recitation without knowing is named",
+    "such a person goes to fruitlessness"
+   ],
+   "inference": "one who recites the mantra without knowing it attains fruitlessness",
+   "uncertainties": [
+    "exact knowledge required"
+   ],
+   "plain_english": "Whoever recites the mantra without knowing it goes to fruitlessness."
+  }
+ ]
+}

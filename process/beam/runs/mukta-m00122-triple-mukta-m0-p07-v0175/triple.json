@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "gurave",
+     "gloss": "to-teacher",
+     "grounds": "dative recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "accusative object to be given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative prescribes the ritual obligation",
+     "morph": "3.sg.act-opt root-dā"
+    },
+    {
+     "surface": "pratyakṣāya",
+     "gloss": "to-visible",
+     "grounds": "dative adjective qualifying the following self",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "śiva",
+     "grounds": "modifies ātmane as visible Śiva",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ātmane",
+     "gloss": "self",
+     "grounds": "dative identifies guru with visible Śiva-self",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "Should a practitioner offer dakṣiṇā to the guru as to visible Śiva?",
+   "premises": [
+    "guru receives the dakṣiṇā",
+    "dadyāt prescribes giving",
+    "guru is visible Śiva-self"
+   ],
+   "inference": "ritual completion requires offering the fee to the guru as visible Śiva",
+   "uncertainties": [
+    "pratyakṣāya may modify guru or Śiva-self",
+    "exact fee amount is unspecified"
+   ],
+   "plain_english": "One should give the fee to the teacher, as to visible Śiva himself."
+  }
+ ]
+}

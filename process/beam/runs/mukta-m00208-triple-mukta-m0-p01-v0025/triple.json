@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "īśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "locative of direction indicating the northeastern quarter",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "object denoting a four-cornered figure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "object denoting a circular figure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā'pi",
+     "gloss": "or-even",
+     "grounds": "fused alternative and inclusive particles",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing the construction of the figure",
+     "morph": "3.sg.act.opt pra-√kḷp"
+    }
+   ],
+   "question": "What alternative shapes may be arranged in the northeastern quarter?",
+   "premises": [
+    "The northeastern quarter is specified as the location for arrangement.",
+    "A square figure is presented as an admissible option.",
+    "A round figure is presented as an alternative admissible option."
+   ],
+   "inference": "Therefore one may arrange either a square or a round figure in the northeastern quarter.",
+   "uncertainties": [],
+   "plain_english": "In the northeastern quarter, one should arrange either a square or a round figure."
+  }
+ ]
+}

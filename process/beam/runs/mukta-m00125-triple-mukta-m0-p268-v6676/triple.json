@@ -1,0 +1,1187 @@
+{
+ "song": "mukta-m0-p268",
+ "items": [
+  {
+   "verse": 6676,
+   "rows": [
+    {
+     "surface": "nirmṛjya",
+     "gloss": "having-wiped",
+     "grounds": "absolutive of cleansing action",
+     "morph": "abs. √mṛj"
+    },
+    {
+     "surface": "paiṣṭikaiva",
+     "gloss": "with-flour-paste-only",
+     "grounds": "instrumental means with emphatic particle fused",
+     "morph": "compound paiṣṭika+eva"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavādyaiḥ",
+     "gloss": "with-barley-and-others",
+     "grounds": "alternative cleansing substances",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "gomayodbhavaiḥ",
+     "gloss": "produced-from-cow-dung",
+     "grounds": "compound describing origin of substances",
+     "morph": "compound gomaya+udbhava, m.inst.pl"
+    }
+   ],
+   "question": "What substances may be used to cleanse the ritual site?",
+   "premises": [
+    "The site is first wiped clean.",
+    "Flour paste may be used for cleansing.",
+    "Barley and other cow-dung products may also be used."
+   ],
+   "inference": "Cleansing may be performed with flour paste or with barley and similar substances derived from cow dung.",
+   "uncertainties": [
+    "The exact range of substances included by 'yavādyaiḥ' is unspecified."
+   ],
+   "plain_english": "After wiping the place, one may cleanse it with flour paste or with barley and other things produced from cow dung."
+  },
+  {
+   "verse": 6677,
+   "rows": [
+    {
+     "surface": "prokṣayed",
+     "gloss": "should-sprinkle",
+     "grounds": "ritual sprinkling action",
+     "morph": "3.sg.opt.act. √prokṣ"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument accompanying sprinkling",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tadbhasmālepanaṃ",
+     "gloss": "smearing-that-ash",
+     "grounds": "compound naming subsequent ritual act",
+     "morph": "compound tad+bhasma+ālepana, n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks next step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions follow the initial cleansing of the site?",
+   "premises": [
+    "Sprinkling may be performed with a mantra.",
+    "Smearing with that ash follows afterward.",
+    "The actions are presented as sequential steps."
+   ],
+   "inference": "After cleansing, one should sprinkle with mantra and then apply the prescribed ash.",
+   "uncertainties": [
+    "The specific mantra and source of the ash are not named here."
+   ],
+   "plain_english": "Then one should sprinkle with a mantra, or afterward perform the smearing with that ash."
+  },
+  {
+   "verse": 6678,
+   "rows": [
+    {
+     "surface": "rājñāṃ",
+     "gloss": "of-kings",
+     "grounds": "first category of recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paṭṭabhṛtāṃ",
+     "gloss": "wearing-diadem",
+     "grounds": "compound qualifying kings",
+     "morph": "compound paṭṭa+bhṛt, m.gen.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative category",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāmantānāṃ",
+     "gloss": "of-feudatories",
+     "grounds": "second category of recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mahātmanām",
+     "gloss": "of-great-souled",
+     "grounds": "qualifies feudatories",
+     "morph": "compound mahā+ātman, m.gen.pl"
+    }
+   ],
+   "question": "Which high-ranking persons are eligible recipients in this ritual context?",
+   "premises": [
+    "Crowned kings are named as recipients.",
+    "Great-souled feudatories are also named.",
+    "The verse presents these as alternative eligible groups."
+   ],
+   "inference": "The ritual may be directed toward crowned kings or toward noble feudatories.",
+   "uncertainties": [],
+   "plain_english": "This applies to crowned kings or to great-souled feudatory lords."
+  },
+  {
+   "verse": 6679,
+   "rows": [
+    {
+     "surface": "pañcāśat",
+     "gloss": "fifty",
+     "grounds": "numerical threshold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-number",
+     "grounds": "specifies counting measure",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tebhyo",
+     "gloss": "than-them",
+     "grounds": "comparison reference group",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnān",
+     "gloss": "fewer",
+     "grounds": "lower than stated number",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.caus.act. √sidh"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What minimum number must the teacher maintain when accomplishing the rite?",
+   "premises": [
+    "A count of fifty is specified.",
+    "The teacher should not accomplish fewer than that number.",
+    "The teacher is the agent of the rite."
+   ],
+   "inference": "The teacher must accomplish the rite with no fewer than fifty.",
+   "uncertainties": [
+    "The verse does not explicitly state what is being counted."
+   ],
+   "plain_english": "The teacher should accomplish it with a number of fifty, not fewer than that."
+  },
+  {
+   "verse": 6680,
+   "rows": [
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative indicating intermediate case",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasizes special application",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "taistān",
+     "gloss": "with-those-them",
+     "grounds": "instrument and object fused in sandhi",
+     "morph": "compound taiḥ+tān"
+    },
+    {
+     "surface": "saṃsnāpayed",
+     "gloss": "should-bathe",
+     "grounds": "prescriptive bathing rite",
+     "morph": "3.sg.opt.caus.act. √snā"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the teacher perform bathing in the intermediate case?",
+   "premises": [
+    "An intermediate case is specified.",
+    "The teacher should especially perform bathing.",
+    "The bathing involves those specified recipients or means."
+   ],
+   "inference": "In the intermediate case, the teacher should especially bathe them with those means.",
+   "uncertainties": [
+    "The referents of 'taistān' depend on the preceding context."
+   ],
+   "plain_english": "And in the middle case, the teacher should especially bathe them with those."
+  },
+  {
+   "verse": 6681,
+   "rows": [
+    {
+     "surface": "ādityodayam",
+     "gloss": "sun-rise",
+     "grounds": "compound marking starting time",
+     "morph": "compound āditya+udaya, m.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "abs. ā+√rabh"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "place of practice",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "absolutive indicating posture",
+     "morph": "abs. √sthā"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive recitation",
+     "morph": "3.sg.opt.act. √jap"
+    }
+   ],
+   "question": "When and where should the practitioner recite the mantra?",
+   "premises": [
+    "The practice begins at sunrise.",
+    "The practitioner stands in water.",
+    "The mantra is to be recited."
+   ],
+   "inference": "Beginning at sunrise, one should stand in water and recite the mantra.",
+   "uncertainties": [],
+   "plain_english": "Beginning at sunrise, standing in water, one should recite the mantra."
+  },
+  {
+   "verse": 6682,
+   "rows": [
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "base count for recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "eight-more",
+     "grounds": "compound adding eight to hundred",
+     "morph": "compound aṣṭa+uttara, n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "daily frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "object of performance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive daily practice",
+     "morph": "3.sg.opt.act. ā+√car"
+    }
+   ],
+   "question": "What daily quantity of mantra recitation is prescribed?",
+   "premises": [
+    "A count of one hundred and eight is specified.",
+    "The recitation is to be performed every day.",
+    "The verse gives this as a prescribed practice."
+   ],
+   "inference": "One should perform a daily recitation of one hundred and eight.",
+   "uncertainties": [],
+   "plain_english": "One should perform a recitation of one hundred and eight every day."
+  },
+  {
+   "verse": 6683,
+   "rows": [
+    {
+     "surface": "homena",
+     "gloss": "with-oblation",
+     "grounds": "alternative ritual means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "samasakhyāṃ",
+     "gloss": "equal-number",
+     "grounds": "compound indicating same count as recitation",
+     "morph": "compound sama+saṃkhyā, f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japa+tulyaṃ",
+     "gloss": "equal-to-recitation",
+     "grounds": "compound equating oblation to recitation",
+     "morph": "compound japa+tulya, n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "evaluative qualifier",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "view",
+     "grounds": "states accepted opinion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is oblation valued relative to mantra recitation in this practice?",
+   "premises": [
+    "Oblation may be performed in equal number.",
+    "Such oblation is considered equal to recitation.",
+    "This equivalence is presented as a supreme view."
+   ],
+   "inference": "Oblation equal in number to recitation is regarded as equivalent and highly valued.",
+   "uncertainties": [],
+   "plain_english": "Or, oblation in equal number is considered equal to recitation and is held to be supreme."
+  },
+  {
+   "verse": 6684,
+   "rows": [
+    {
+     "surface": "anenāpi",
+     "gloss": "by-this-also",
+     "grounds": "instrumental with inclusive particle fused",
+     "morph": "compound anena+api"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "by-method",
+     "grounds": "manner of procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhūrjapatra",
+     "gloss": "birch-leaf",
+     "grounds": "writing surface, first member of compound context",
+     "morph": "compound bhūrja+patra"
+    },
+    {
+     "surface": "tvagādike",
+     "gloss": "bark-and-others",
+     "grounds": "alternative writing surfaces",
+     "morph": "compound tvac+ādika, n.loc.sg"
+    }
+   ],
+   "question": "On what materials may the mantra be written by this method?",
+   "premises": [
+    "The procedure follows the same method.",
+    "Birch leaf is named as a material.",
+    "Bark and similar materials are also included."
+   ],
+   "inference": "By this method, the mantra may be written on birch leaf, bark, or similar materials.",
+   "uncertainties": [
+    "The full range of 'tvagādike' is not specified."
+   ],
+   "plain_english": "By this same method, one may write on birch leaf, bark, and the like."
+  },
+  {
+   "verse": 6685,
+   "rows": [
+    {
+     "surface": "kuṅkumena",
+     "gloss": "with-saffron",
+     "grounds": "writing substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "likhed",
+     "gloss": "should-write",
+     "grounds": "prescriptive writing action",
+     "morph": "3.sg.opt.act. √likh"
+    },
+    {
+     "surface": "varṇāṃ",
+     "gloss": "syllables",
+     "grounds": "object to be written",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "taddevejyā",
+     "gloss": "worship-of-that-deity",
+     "grounds": "compound naming prior worship",
+     "morph": "compound tad+deva+ijyā, f.nom.sg"
+    },
+    {
+     "surface": "purassaram",
+     "gloss": "preceded-by",
+     "grounds": "indicates prerequisite action",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must precede writing the syllables with saffron?",
+   "premises": [
+    "The syllables are to be written with saffron.",
+    "Worship of that deity is specified.",
+    "That worship must precede the writing."
+   ],
+   "inference": "One should write the syllables with saffron only after first worshipping that deity.",
+   "uncertainties": [
+    "The identity of 'that deity' depends on prior context."
+   ],
+   "plain_english": "One should write the syllables with saffron, preceded by worship of that deity."
+  },
+  {
+   "verse": 6686,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "abs. vi+√dhā"
+    },
+    {
+     "surface": "japamātraṃ",
+     "gloss": "recitation-only",
+     "grounds": "compound limiting action to recitation",
+     "morph": "compound japa+mātra, n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gorocanayutaṃ",
+     "gloss": "mixed-with-gorocana",
+     "grounds": "compound describing mixture",
+     "morph": "compound gorocanā+yuta, n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative preparations are allowed after performing the preliminary act?",
+   "premises": [
+    "A preliminary act is performed first.",
+    "Recitation alone is presented as an option.",
+    "A preparation mixed with gorocana is presented as another option."
+   ],
+   "inference": "After the preliminary act, one may use recitation alone or a preparation mixed with gorocana.",
+   "uncertainties": [
+    "The exact substance mixed with gorocana is implied rather than stated."
+   ],
+   "plain_english": "Having performed it, one may do recitation only, or indeed use something mixed with gorocana."
+  },
+  {
+   "verse": 6687,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship",
+     "morph": "abs. sam+√pūj"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-fragrance-flower-etc",
+     "grounds": "compound listing worship offerings",
+     "morph": "compound gandha+puṣpa+ādi, n.inst.pl"
+    },
+    {
+     "surface": "gulikāṃ",
+     "gloss": "pill",
+     "grounds": "object to be made",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "prescriptive causative action",
+     "morph": "3.sg.opt.caus.act. √kṛ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be made after worship with fragrances and flowers?",
+   "premises": [
+    "Worship is performed with fragrances, flowers, and similar offerings.",
+    "A pill is to be made afterward.",
+    "The making is prescribed as the next step."
+   ],
+   "inference": "After worship with fragrances and flowers, one should have a pill made.",
+   "uncertainties": [],
+   "plain_english": "Then, having worshipped with fragrances, flowers, and so on, one should have a pill made."
+  },
+  {
+   "verse": 6688,
+   "rows": [
+    {
+     "surface": "lākṣayā",
+     "gloss": "with-lac",
+     "grounds": "material for coating or binding",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "refers to the prepared pill",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāryā",
+     "gloss": "to-be-worn",
+     "grounds": "prescriptive gerundive",
+     "morph": "f.nom.sg.gerundive √dhṛ"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "sets duration limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyādhi+vimocanam",
+     "gloss": "release-from-disease",
+     "grounds": "compound naming end condition",
+     "morph": "compound vyādhi+vimocana, n.nom.sg"
+    }
+   ],
+   "question": "For how long should the prepared pill be worn?",
+   "premises": [
+    "The pill may be treated with lac.",
+    "The pill is to be worn.",
+    "The duration extends until release from disease."
+   ],
+   "inference": "The pill should be worn until the disease is released.",
+   "uncertainties": [],
+   "plain_english": "Or, treated with lac, it should be worn until release from disease."
+  },
+  {
+   "verse": 6689,
+   "rows": [
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "possible place of wearing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṇṭhadeśe",
+     "gloss": "in-throat-region",
+     "grounds": "compound naming another place",
+     "morph": "compound kaṇṭha+deśa, m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhāyāṃ",
+     "gloss": "on-tuft",
+     "grounds": "another place of wearing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kare",
+     "gloss": "on-hand",
+     "grounds": "another place of wearing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the protective pill be worn on the body?",
+   "premises": [
+    "The ear is named as a possible location.",
+    "The throat region, tuft, and hand are also named.",
+    "The verse presents these as alternatives."
+   ],
+   "inference": "The pill may be worn in the ear, at the throat, on the tuft, or on the hand.",
+   "uncertainties": [],
+   "plain_english": "It may be worn in the ear, on the throat, on the tuft of hair, or on the hand."
+  },
+  {
+   "verse": 6690,
+   "rows": [
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "daily frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanīyo",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.sg.gerundive √pūj"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "object of worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaphalapradaḥ",
+     "gloss": "giver-of-all-fruits",
+     "grounds": "compound stating efficacy",
+     "morph": "compound sarva+phala+prada, m.nom.sg"
+    }
+   ],
+   "question": "What efficacy is attributed to daily worship of the mantra?",
+   "premises": [
+    "The mantra may be worshipped every day.",
+    "The mantra is described as giving all fruits.",
+    "Daily worship is presented as a valid practice."
+   ],
+   "inference": "Daily worship of the mantra is efficacious because the mantra grants all fruits.",
+   "uncertainties": [],
+   "plain_english": "Or the mantra should be worshipped every day, for it grants all fruits."
+  },
+  {
+   "verse": 6691,
+   "rows": [
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "regular frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japatarpaṇa+saṃyutam",
+     "gloss": "joined-with-recitation-libation",
+     "grounds": "compound specifying accompanying acts",
+     "morph": "compound japa+tarpaṇa+saṃyuta, n.acc.sg"
+    }
+   ],
+   "question": "What daily ritual combination is prescribed alongside worship and oblation?",
+   "premises": [
+    "Worship and oblation are named.",
+    "These may be performed daily.",
+    "Recitation and libation are joined with them."
+   ],
+   "inference": "One may daily perform worship and oblation together with recitation and libation.",
+   "uncertainties": [],
+   "plain_english": "Or one may daily perform worship and oblation together with recitation and libation."
+  },
+  {
+   "verse": 6692,
+   "rows": [
+    {
+     "surface": "balavān",
+     "gloss": "strong",
+     "grounds": "resulting quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priyadarśaḥ",
+     "gloss": "pleasant-to-see",
+     "grounds": "compound describing appearance",
+     "morph": "compound priya+darśa, m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "subject who gains qualities",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhārmādhiko",
+     "gloss": "abounding-in-righteousness",
+     "grounds": "compound indicating moral excellence",
+     "morph": "compound dharma+adhika, m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "resultative optative",
+     "morph": "3.sg.opt.act. √bhū"
+    }
+   ],
+   "question": "What qualities should a king attain through this ritual practice?",
+   "premises": [
+    "Strength is named as a result.",
+    "Pleasant appearance is named as a result.",
+    "Abundance in righteousness is named as a result."
+   ],
+   "inference": "Through this practice, the king should become strong, pleasant to behold, and rich in righteousness.",
+   "uncertainties": [],
+   "plain_english": "The king should become strong, pleasant to behold, and abounding in righteousness."
+  },
+  {
+   "verse": 6693,
+   "rows": [
+    {
+     "surface": "tanniyukto",
+     "gloss": "appointed-by-him",
+     "grounds": "compound indicating royal appointment",
+     "morph": "compound tad+niyukta, m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānyo",
+     "gloss": "not-another",
+     "grounds": "exclusion fused in sandhi",
+     "morph": "compound na+anyaḥ"
+    },
+    {
+     "surface": "viśeṣād",
+     "gloss": "especially",
+     "grounds": "emphatic restriction",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "rāja+karmaṇi",
+     "gloss": "in-royal-duty",
+     "grounds": "compound naming sphere of duty",
+     "morph": "compound rāja+karman, n.loc.sg"
+    }
+   ],
+   "question": "Who is especially authorized to act in royal duties under this arrangement?",
+   "premises": [
+    "One appointed by the king is named.",
+    "Others are explicitly excluded.",
+    "The restriction applies especially to royal duties."
+   ],
+   "inference": "Especially in royal duties, only one appointed by the king should act, not another.",
+   "uncertainties": [],
+   "plain_english": "Or one appointed by him, and especially no other, should act in royal duties."
+  },
+  {
+   "verse": 6694,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal scope of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadhā",
+     "gloss": "in-every-way",
+     "grounds": "universal scope of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so",
+     "gloss": "he",
+     "grounds": "demonstrative subject fused in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative identifier",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādiśaivaḥ",
+     "gloss": "ādiśaiva",
+     "grounds": "designation of the officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakrīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "states authoritative designation",
+     "morph": "m.nom.sg.past-pass-part. pra+√kīrt"
+    }
+   ],
+   "question": "How is the designated officiant identified in all contexts?",
+   "premises": [
+    "The scope is stated as everywhere and in every way.",
+    "A specific figure is identified.",
+    "That figure is declared to be the ādiśaiva."
+   ],
+   "inference": "In all places and in every way, this figure is declared to be the ādiśaiva.",
+   "uncertainties": [],
+   "plain_english": "Everywhere and in every way, this one is declared to be the ādiśaiva."
+  },
+  {
+   "verse": 6695,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajaśālāyāṃ",
+     "gloss": "in-elephant-stable",
+     "grounds": "compound naming specific location",
+     "morph": "compound gaja+śālā, f.loc.sg"
+    },
+    {
+     "surface": "śūlasthāne",
+     "gloss": "in-trident-place",
+     "grounds": "compound naming sacred spot",
+     "morph": "compound śūla+sthāna, n.loc.sg"
+    },
+    {
+     "surface": "manorame",
+     "gloss": "charming",
+     "grounds": "qualifies the place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What locations are suitable for the ritual setting described here?",
+   "premises": [
+    "The middle of an elephant stable is named.",
+    "A place of the trident is named.",
+    "The place is described as charming."
+   ],
+   "inference": "The ritual may be set in the middle of an elephant stable or in a charming trident place.",
+   "uncertainties": [],
+   "plain_english": "Or in the middle of an elephant stable, in a charming place of the trident."
+  },
+  {
+   "verse": 6696,
+   "rows": [
+    {
+     "surface": "vighnarājasya",
+     "gloss": "of-vighnarāja",
+     "grounds": "compound naming a deity",
+     "morph": "compound vighna+rāja, m.gen.sg"
+    },
+    {
+     "surface": "śāstuḥ",
+     "gloss": "of-śāstṛ",
+     "grounds": "another deity name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛṇām",
+     "gloss": "of-mothers",
+     "grounds": "group of deities",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ālaye",
+     "gloss": "in-shrine",
+     "grounds": "ritual location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In whose shrines may the ritual alternatively be performed?",
+   "premises": [
+    "The shrine of Vighnarāja is named.",
+    "The shrine of Śāstṛ is named.",
+    "The shrine of the Mothers is also named."
+   ],
+   "inference": "The ritual may also be performed in the shrine of Vighnarāja, Śāstṛ, or the Mothers.",
+   "uncertainties": [],
+   "plain_english": "Or also in the shrine of Vighnarāja, of Śāstṛ, or of the Mothers."
+  },
+  {
+   "verse": 6697,
+   "rows": [
+    {
+     "surface": "gomayena",
+     "gloss": "with-cow-dung",
+     "grounds": "material for smearing",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "upalipya",
+     "gloss": "having-smeared",
+     "grounds": "absolutive indicating preparatory act",
+     "morph": "abs. upa+√lip"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣayed",
+     "gloss": "should-sprinkle",
+     "grounds": "prescriptive sprinkling action",
+     "morph": "3.sg.opt.act. √prokṣ"
+    },
+    {
+     "surface": "astra+vāriṇā",
+     "gloss": "with-weapon-water",
+     "grounds": "compound naming consecrated water",
+     "morph": "compound astra+vāri, n.inst.sg"
+    }
+   ],
+   "question": "What preparatory purification steps are required at the chosen shrine?",
+   "premises": [
+    "The place is smeared with cow dung.",
+    "Sprinkling follows afterward.",
+    "The sprinkling uses water empowered by the weapon mantra."
+   ],
+   "inference": "After smearing with cow dung, one should sprinkle the place with water consecrated by the weapon mantra.",
+   "uncertainties": [],
+   "plain_english": "Then, having smeared the place with cow dung, one should sprinkle it with water consecrated by the weapon mantra."
+  },
+  {
+   "verse": 6698,
+   "rows": [
+    {
+     "surface": "lājadarbha+samāyuktaṃ",
+     "gloss": "joined-with-parched-rice-kuśa",
+     "grounds": "compound describing mixture contents",
+     "morph": "compound lāja+darbha+samāyukta, n.acc.sg"
+    },
+    {
+     "surface": "droṇatoya+prapūritam",
+     "gloss": "filled-with-droṇa-water",
+     "grounds": "compound describing vessel contents",
+     "morph": "compound droṇa+toya+prapūrita, n.acc.sg"
+    }
+   ],
+   "question": "What contents should fill the vessel prepared for the rite?",
+   "premises": [
+    "Parched rice and kuśa grass are included.",
+    "The vessel is filled with a droṇa measure of water.",
+    "Both descriptions qualify the prepared contents."
+   ],
+   "inference": "The prepared vessel should be filled with a droṇa of water together with parched rice and kuśa grass.",
+   "uncertainties": [
+    "The exact vessel is implied by context rather than named."
+   ],
+   "plain_english": "It should be filled with a droṇa of water and joined with parched rice and kuśa grass."
+  },
+  {
+   "verse": 6699,
+   "rows": [
+    {
+     "surface": "elā",
+     "gloss": "cardamom",
+     "grounds": "ingredient in the mixture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṅkuma",
+     "gloss": "saffron",
+     "grounds": "ingredient in the mixture",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "ingredient in the mixture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phalatraya+samanvitam",
+     "gloss": "endowed-with-three-fruits",
+     "grounds": "compound adding further ingredients",
+     "morph": "compound phala+traya+samanvita, n.acc.sg"
+    }
+   ],
+   "question": "What additional aromatic and fruit ingredients complete the prepared mixture?",
+   "premises": [
+    "Cardamom, saffron, and camphor are named.",
+    "The three fruits are also included.",
+    "These ingredients complete the mixture."
+   ],
+   "inference": "The mixture should be completed with cardamom, saffron, camphor, and the three fruits.",
+   "uncertainties": [
+    "The specific identity of the three fruits is not stated here."
+   ],
+   "plain_english": "It should be endowed with cardamom, saffron, camphor, and the three fruits."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb indicating the present context or case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upāsanayā",
+     "gloss": "through-worship",
+     "grounds": "instrumental of the means by which accomplishment is claimed",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "siddhir",
+     "gloss": "accomplishment",
+     "grounds": "the attainment or success under consideration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatāyogiteti",
+     "gloss": "because-of-union-with-deity-thus",
+     "grounds": "compound devatā-yogitā (union with deity) with sandhi before iti; states the reason as reported",
+     "morph": "compound+iti"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a conditional objection or hypothetical claim",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does worship produce accomplishment because of the practitioner's union with the deity?",
+   "premises": [
+    "Accomplishment may be attributed to worship.",
+    "Worship may be said to effect union with a deity.",
+    "Union with a deity may be proposed as the cause of accomplishment."
+   ],
+   "inference": "If accomplishment arises through worship due to union with the deity, then worship is the effective cause of that accomplishment.",
+   "uncertainties": [
+    "The completion of the conditional clause is implied by the following context rather than stated explicitly."
+   ],
+   "plain_english": "If it is objected here that accomplishment comes through worship because of union with the deity—"
+  }
+ ]
+}

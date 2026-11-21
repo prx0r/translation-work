@@ -1,0 +1,1003 @@
+{
+ "song": "mukta-m0-p195",
+ "items": [
+  {
+   "verse": 4851,
+   "rows": [
+    {
+     "surface": "ugra",
+     "gloss": "fierce",
+     "grounds": "adjective describing teeth",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daṃṣṭra",
+     "gloss": "tusk",
+     "grounds": "compound member with ugra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anvitau",
+     "gloss": "endowed-with",
+     "grounds": "describes the pair",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "siṃha",
+     "gloss": "lion",
+     "grounds": "compound member indicating location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kandhara",
+     "gloss": "shoulder",
+     "grounds": "compound member with siṃha",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stha",
+     "gloss": "standing-on",
+     "grounds": "compound member indicating position",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ekapādakau",
+     "gloss": "one-footed-pair",
+     "grounds": "describes the pair standing on one foot",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What physical features characterize the pair endowed with fierce tusks?",
+   "premises": [
+    "The pair is endowed with fierce tusks.",
+    "The pair stands on a lion's shoulder.",
+    "The pair is one-footed."
+   ],
+   "inference": "The described pair has fierce tusks, stands on a lion's shoulder, and is one-footed.",
+   "uncertainties": [],
+   "plain_english": "They are endowed with fierce tusks, stand on a lion's shoulder, and are one-footed."
+  },
+  {
+   "verse": 4852,
+   "rows": [
+    {
+     "surface": "dhūmravarṇaḥ",
+     "gloss": "smoke-colored",
+     "grounds": "describes complexion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cākhū",
+     "gloss": "and-mouse",
+     "grounds": "ca + ākhū fused by sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktanetraḥ",
+     "gloss": "red-eyed",
+     "grounds": "bahuvrīhi compound describing eyes",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sudaṃṣtravān",
+     "gloss": "having-great-tusks",
+     "grounds": "possessive adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What appearance and attributes define the smoke-colored figure associated with a mouse?",
+   "premises": [
+    "The figure is smoke-colored.",
+    "The figure is associated with a mouse.",
+    "The figure is red-eyed and has great tusks."
+   ],
+   "inference": "The smoke-colored figure associated with a mouse is red-eyed and has great tusks.",
+   "uncertainties": [],
+   "plain_english": "He is smoke-colored, associated with a mouse, red-eyed, and has great tusks."
+  },
+  {
+   "verse": 4853,
+   "rows": [
+    {
+     "surface": "kumbhodaraḥ",
+     "gloss": "pot-bellied",
+     "grounds": "bahuvrīhi compound describing belly",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturhastaḥ",
+     "gloss": "four-armed",
+     "grounds": "bahuvrīhi compound describing arms",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṭaṅkaśūlāsidaṇḍadhṛk",
+     "gloss": "holding-axe-spear-sword-staff",
+     "grounds": "compound listing weapons held",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bodily form and weapons characterize the pot-bellied figure?",
+   "premises": [
+    "The figure is pot-bellied.",
+    "The figure has four arms.",
+    "The figure holds an axe, spear, sword, and staff."
+   ],
+   "inference": "The pot-bellied, four-armed figure bears an axe, spear, sword, and staff.",
+   "uncertainties": [],
+   "plain_english": "He is pot-bellied, four-armed, and holds an axe, spear, sword, and staff."
+  },
+  {
+   "verse": 4854,
+   "rows": [
+    {
+     "surface": "śvetavarṇāḥ",
+     "gloss": "white-colored",
+     "grounds": "describes complexion of group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bṛhatkāyāḥ",
+     "gloss": "large-bodied",
+     "grounds": "bahuvrīhi compound describing bodies",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ugrāḥ",
+     "gloss": "fierce",
+     "grounds": "describes temperament",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cirāmbarānvitāḥ",
+     "gloss": "clad-in-long-garments",
+     "grounds": "compound describing clothing",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What collective appearance distinguishes the fierce attendant figures?",
+   "premises": [
+    "The figures are white-colored.",
+    "The figures are large-bodied and fierce.",
+    "The figures are clad in long garments."
+   ],
+   "inference": "The fierce figures are white-colored, large-bodied, and clad in long garments.",
+   "uncertainties": [],
+   "plain_english": "They are white-colored, large-bodied, fierce, and clad in long garments."
+  },
+  {
+   "verse": 4855,
+   "rows": [
+    {
+     "surface": "parivārāḥ",
+     "gloss": "attendants",
+     "grounds": "subject of the verse",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyātāḥ",
+     "gloss": "known",
+     "grounds": "past participle describing attendants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gaṇeśābhimukha",
+     "gloss": "facing-gaṇeśa",
+     "grounds": "compound indicating orientation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "standing",
+     "grounds": "past participle describing position",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the attendants identified and positioned relative to Gaṇeśa?",
+   "premises": [
+    "The figures are known as attendants.",
+    "The attendants stand facing Gaṇeśa.",
+    "Their identity and position are thus declared."
+   ],
+   "inference": "The attendants are known as such and stand facing Gaṇeśa.",
+   "uncertainties": [],
+   "plain_english": "They are known as attendants and stand facing Gaṇeśa."
+  },
+  {
+   "verse": 4856,
+   "rows": [
+    {
+     "surface": "balipīṭhaṃ",
+     "gloss": "offering-platform",
+     "grounds": "object to be arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahāpīṭhaṃ",
+     "gloss": "great-platform",
+     "grounds": "appositional or additional object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb indicating method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative-active √kḷp"
+    }
+   ],
+   "question": "How should the offering platform and great platform be arranged?",
+   "premises": [
+    "An offering platform is to be arranged.",
+    "A great platform is to be arranged.",
+    "The arrangement should follow the previous method."
+   ],
+   "inference": "One should arrange the offering platform and the great platform as before.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the offering platform and the great platform as before."
+  },
+  {
+   "verse": 4857,
+   "rows": [
+    {
+     "surface": "bhūteśaḥ",
+     "gloss": "lord-of-beings",
+     "grounds": "deity placed in center",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-pericarp",
+     "grounds": "location in the diagram",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokapālāḥ",
+     "gloss": "world-protectors",
+     "grounds": "deities placed outside",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "trāṇi",
+     "gloss": "three",
+     "grounds": "uncertain referent, possibly three groups or directions",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "outside",
+     "grounds": "location relative to center",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are Bhūteśa and the world-protectors positioned in the arrangement?",
+   "premises": [
+    "Bhūteśa is placed in the pericarp.",
+    "The world-protectors are placed outside.",
+    "Three entities or groups are mentioned in relation to the outside."
+   ],
+   "inference": "Bhūteśa is in the pericarp while the world-protectors and three others are outside.",
+   "uncertainties": [
+    "The referent of trāṇi is unclear in this context."
+   ],
+   "plain_english": "Bhūteśa is in the pericarp, and the world-protectors and three others are outside."
+  },
+  {
+   "verse": 4858,
+   "rows": [
+    {
+     "surface": "dravyaiśśilādibhiḥ",
+     "gloss": "with-materials-stone-etc",
+     "grounds": "instrumental listing materials; internal sandhi dravyaiḥ + śilādibhiḥ",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "pañcatālottamena",
+     "gloss": "with-best-five-tāla",
+     "grounds": "instrumental specifying measure standard",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials and measurement standard should be used for construction?",
+   "premises": [
+    "Construction should be done with materials such as stone.",
+    "The best five-tāla measure should be used.",
+    "The instruction prescribes both material and standard."
+   ],
+   "inference": "One should make it with materials like stone using the best five-tāla measure.",
+   "uncertainties": [],
+   "plain_english": "One should make it with materials such as stone, using the best five-tāla measure."
+  },
+  {
+   "verse": 4859,
+   "rows": [
+    {
+     "surface": "triṃśadbhagāvasānāntaṃ",
+     "gloss": "ending-at-thirty-parts",
+     "grounds": "compound indicating upper limit of division",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "garbhamānam",
+     "gloss": "inner-measure",
+     "grounds": "technical term for core measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "past participle stating prescription",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What limit is declared for the inner measure in parts?",
+   "premises": [
+    "The inner measure is the subject.",
+    "Its extent reaches up to thirty parts.",
+    "This limit is declared."
+   ],
+   "inference": "The inner measure is declared to extend up to thirty parts.",
+   "uncertainties": [],
+   "plain_english": "The inner measure is declared to extend up to thirty parts."
+  },
+  {
+   "verse": 4860,
+   "rows": [
+    {
+     "surface": "pratimālakṣaṇaproktam",
+     "gloss": "declared-in-image-characteristics",
+     "grounds": "compound referring to iconographic texts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ānaṃ",
+     "gloss": "measure",
+     "grounds": "object of consideration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "liṅgādijaṃ",
+     "gloss": "arising-from-liṅga-etc",
+     "grounds": "compound indicating source or type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative sources of measurement are permitted for images or liṅgas?",
+   "premises": [
+    "A measure declared in image characteristics is allowed.",
+    "A measure arising from the liṅga and so forth is allowed.",
+    "The particles indicate alternatives."
+   ],
+   "inference": "One may use the measure declared in image characteristics or that arising from the liṅga and so forth.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, one may use the measure declared in image characteristics or that derived from the liṅga and so forth."
+  },
+  {
+   "verse": 4861,
+   "rows": [
+    {
+     "surface": "uṣṇīṣamekamātreṇa",
+     "gloss": "crest-by-one-measure",
+     "grounds": "instrumental specifying crest size",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tatkeśaṃ",
+     "gloss": "its-hair",
+     "grounds": "compound referring to hair of that figure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayaṅgulena",
+     "gloss": "by-two-fingers",
+     "grounds": "instrumental specifying hair length",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurements are prescribed for the crest and hair?",
+   "premises": [
+    "The crest is measured by one unit.",
+    "The hair is measured by two finger-widths.",
+    "Both measurements are specified."
+   ],
+   "inference": "The crest should be one measure and the hair two finger-widths.",
+   "uncertainties": [],
+   "plain_english": "The crest is one measure, and its hair is two finger-widths."
+  },
+  {
+   "verse": 4862,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "from-there",
+     "grounds": "adverb indicating starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayaparyantaṃ",
+     "gloss": "up-to-heart",
+     "grounds": "compound indicating extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rudrāṅgulam",
+     "gloss": "eleven-fingers",
+     "grounds": "compound specifying rudra-number of finger-widths",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle indicating tradition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurement is traditionally prescribed from the hair to the heart?",
+   "premises": [
+    "The measurement extends from there up to the heart.",
+    "The extent is eleven finger-widths.",
+    "This is remembered in tradition."
+   ],
+   "inference": "From there to the heart is traditionally measured as eleven finger-widths.",
+   "uncertainties": [
+    "rudrāṅgulam is taken as eleven finger-widths based on symbolic association."
+   ],
+   "plain_english": "From there up to the heart is remembered as eleven finger-widths."
+  },
+  {
+   "verse": 4863,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similarity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "adverb indicating starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānvantaṃ",
+     "gloss": "up-to-knee",
+     "grounds": "compound indicating extent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jānvāyāmaṃ",
+     "gloss": "knee-extent",
+     "grounds": "compound describing the segment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇāṅgulam",
+     "gloss": "three-fingers",
+     "grounds": "compound specifying guṇa-number of finger-widths",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurement is prescribed from the heart region down to the knee?",
+   "premises": [
+    "The measurement proceeds likewise from that point.",
+    "It extends up to the knee.",
+    "The extent is three finger-widths."
+   ],
+   "inference": "Likewise, from that point to the knee the extent is three finger-widths.",
+   "uncertainties": [
+    "guṇāṅgulam is taken as three finger-widths based on symbolic association."
+   ],
+   "plain_english": "Likewise, from there up to the knee the extent is three finger-widths."
+  },
+  {
+   "verse": 4864,
+   "rows": [
+    {
+     "surface": "keśāntādakṣisūtrāntaṃ",
+     "gloss": "from-hair-end-to-eye-line-end",
+     "grounds": "compound indicating span; internal sandhi keśāntāt + akṣi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caturaṅgulam",
+     "gloss": "four-fingers",
+     "grounds": "compound specifying measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb indicating prescription",
+     "morph": "3.sg.present-passive √iṣ"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-stated",
+     "grounds": "passive verb indicating declaration",
+     "morph": "3.sg.present-passive √muc"
+    }
+   ],
+   "question": "What distance is prescribed from the hairline to the eye line?",
+   "premises": [
+    "The span runs from the hair end to the eye line end.",
+    "The measure is four finger-widths.",
+    "This measure is desired and stated."
+   ],
+   "inference": "The distance from the hairline to the eye line is prescribed as four finger-widths.",
+   "uncertainties": [],
+   "plain_english": "The distance from the hairline to the eye line is desired and stated to be four finger-widths."
+  },
+  {
+   "verse": 4865,
+   "rows": [
+    {
+     "surface": "dantāyāmācaturmātraṃ",
+     "gloss": "tooth-length-four-measures",
+     "grounds": "compound indicating tooth length; internal sandhi dantāyāmāt + catur",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlanāhaṃ",
+     "gloss": "root-circumference",
+     "grounds": "compound indicating circumference at base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similarity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurements are specified for the tooth length and root circumference?",
+   "premises": [
+    "The tooth length is four measures.",
+    "The root circumference is likewise specified.",
+    "Both dimensions are given together."
+   ],
+   "inference": "The tooth length is four measures and the root circumference is likewise specified.",
+   "uncertainties": [
+    "The exact value of the root circumference is not explicitly stated in this verse."
+   ],
+   "plain_english": "The tooth length is four measures, and the root circumference is likewise specified."
+  },
+  {
+   "verse": 4866,
+   "rows": [
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "location of measurement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kumbhavistāraṃ",
+     "gloss": "pot-width",
+     "grounds": "compound indicating width of crown pot",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pratyekaṃ",
+     "gloss": "each",
+     "grounds": "adverb indicating distribution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇāṅgulam",
+     "gloss": "three-fingers",
+     "grounds": "compound specifying guṇa-number of finger-widths",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is prescribed for the crown pot on the head?",
+   "premises": [
+    "The measurement is on the head.",
+    "The width of the pot is specified.",
+    "Each is three finger-widths."
+   ],
+   "inference": "The width of the crown pot on the head is three finger-widths each.",
+   "uncertainties": [
+    "guṇāṅgulam is taken as three finger-widths based on symbolic association."
+   ],
+   "plain_english": "On the head, the width of the crown pot is three finger-widths each."
+  },
+  {
+   "verse": 4867,
+   "rows": [
+    {
+     "surface": "karṇau",
+     "gloss": "two-ears",
+     "grounds": "subject of measurement",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśamātrau",
+     "gloss": "ten-measures",
+     "grounds": "compound specifying length",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative verb indicating prescription",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "tattāraṃ",
+     "gloss": "their-breadth",
+     "grounds": "compound indicating breadth; tat + tāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nandamānakam",
+     "gloss": "nine-measures",
+     "grounds": "compound specifying nanda-number of measures",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length and breadth are prescribed for the ears?",
+   "premises": [
+    "The two ears should be ten measures long.",
+    "Their breadth should be nine measures.",
+    "Both dimensions are prescribed."
+   ],
+   "inference": "The ears should be ten measures in length and nine measures in breadth.",
+   "uncertainties": [
+    "nandamānakam is taken as nine measures based on symbolic association."
+   ],
+   "plain_english": "The two ears should be ten measures long, and their breadth nine measures."
+  },
+  {
+   "verse": 4868,
+   "rows": [
+    {
+     "surface": "kakṣāttu+cordhvabāhvantaṃ",
+     "gloss": "from-armpit-to-raised-arm-end",
+     "grounds": "compound indicating span; fused form with sandhi marker",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgulam",
+     "gloss": "six-fingers",
+     "grounds": "compound specifying measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle indicating tradition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurement is traditionally prescribed from the armpit to the raised arm's end?",
+   "premises": [
+    "The span runs from the armpit to the end of the raised arm.",
+    "The measure is six finger-widths.",
+    "This is remembered in tradition."
+   ],
+   "inference": "From the armpit to the end of the raised arm is traditionally six finger-widths.",
+   "uncertainties": [],
+   "plain_english": "From the armpit to the end of the raised arm is remembered as six finger-widths."
+  },
+  {
+   "verse": 4869,
+   "rows": [
+    {
+     "surface": "hṛdayānnābhisīmāntaṃ",
+     "gloss": "from-heart-to-navel-limit",
+     "grounds": "compound indicating span; internal sandhi hṛdayāt + nābhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśāṅgulam",
+     "gloss": "ten-fingers",
+     "grounds": "compound specifying measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "passive verb indicating declaration",
+     "morph": "3.sg.present-passive √vac"
+    }
+   ],
+   "question": "What distance is stated from the heart to the navel limit?",
+   "premises": [
+    "The span runs from the heart to the navel limit.",
+    "The measure is ten finger-widths.",
+    "This is stated here."
+   ],
+   "inference": "The distance from the heart to the navel limit is stated as ten finger-widths.",
+   "uncertainties": [],
+   "plain_english": "Here, the distance from the heart to the navel limit is stated as ten finger-widths."
+  },
+  {
+   "verse": 4870,
+   "rows": [
+    {
+     "surface": "aṣṭāṅgulaṃ",
+     "gloss": "eight-fingers",
+     "grounds": "compound specifying measure for thighs",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvayorūrvor",
+     "gloss": "of-two-thighs",
+     "grounds": "genitive dual indicating body parts",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "jānunī",
+     "gloss": "two-knees",
+     "grounds": "subject of next measure",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulatraye",
+     "gloss": "in-three-fingers",
+     "grounds": "locative compound specifying measure",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What measurements are prescribed for the two thighs and the knees?",
+   "premises": [
+    "The two thighs measure eight finger-widths.",
+    "The two knees measure three finger-widths.",
+    "Both measurements are given together."
+   ],
+   "inference": "The thighs are eight finger-widths and the knees are three finger-widths.",
+   "uncertainties": [],
+   "plain_english": "The two thighs are eight finger-widths, and the two knees are three finger-widths."
+  },
+  {
+   "verse": 4871,
+   "rows": [
+    {
+     "surface": "jagavaktro",
+     "gloss": "world-faced",
+     "grounds": "compound describing face or mouth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gaṇādhīśo",
+     "gloss": "lord-of-gaṇas",
+     "grounds": "epithet of Gaṇeśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtarūpo",
+     "gloss": "having-being-form",
+     "grounds": "compound describing form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahodaraḥ",
+     "gloss": "great-bellied",
+     "grounds": "bahuvrīhi compound describing belly",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What epithets and physical traits characterize the lord of the gaṇas?",
+   "premises": [
+    "The figure is the lord of the gaṇas.",
+    "He is described as world-faced and having a being-form.",
+    "He is great-bellied."
+   ],
+   "inference": "The lord of the gaṇas is world-faced, has a being-form, and is great-bellied.",
+   "uncertainties": [
+    "The exact sense of jagavaktro and bhūtarūpo is context-dependent."
+   ],
+   "plain_english": "The lord of the gaṇas is world-faced, has a being-form, and is great-bellied."
+  },
+  {
+   "verse": 4872,
+   "rows": [
+    {
+     "surface": "nīlanīraruhābhaḥ",
+     "gloss": "blue-lotus-hued",
+     "grounds": "compound comparing complexion to blue lotus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdordaṇḍamaṇḍitaḥ",
+     "gloss": "adorned-with-four-arm-staffs",
+     "grounds": "compound describing four arms",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What complexion and arm configuration characterize the described deity?",
+   "premises": [
+    "The deity has the hue of a blue lotus.",
+    "The deity is adorned with four arms.",
+    "Both features are attributed to the same figure."
+   ],
+   "inference": "The deity is blue-lotus-hued and adorned with four arms.",
+   "uncertainties": [],
+   "plain_english": "He has the hue of a blue lotus and is adorned with four arms."
+  },
+  {
+   "verse": 4873,
+   "rows": [
+    {
+     "surface": "svadantaṃ",
+     "gloss": "own-tusk",
+     "grounds": "object held in hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "object held in hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction for depiction",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "svadakṣiṇakaradvaye",
+     "gloss": "in-own-right-hand-pair",
+     "grounds": "locative compound indicating placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What objects should be placed in the deity's two right hands?",
+   "premises": [
+    "The deity's own tusk is to be depicted.",
+    "An axe is to be depicted.",
+    "Both should be placed in the pair of right hands."
+   ],
+   "inference": "One should depict his own tusk and an axe in his two right hands.",
+   "uncertainties": [],
+   "plain_english": "One should place his own tusk and an axe in his two right hands."
+  },
+  {
+   "verse": 4874,
+   "rows": [
+    {
+     "surface": "raktavastradharaṃ",
+     "gloss": "wearing-red-garment",
+     "grounds": "compound describing clothing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "particle introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śyāmābhaṃ",
+     "gloss": "dark-hued",
+     "grounds": "compound describing complexion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kanakaprabham",
+     "gloss": "golden-shining",
+     "grounds": "compound describing radiance",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What alternative appearances are permitted for the deity's garments and complexion?",
+   "premises": [
+    "The deity may be depicted wearing a red garment.",
+    "Alternatively, he may be dark-hued.",
+    "Alternatively, he may be golden-shining."
+   ],
+   "inference": "The deity may be shown wearing red garments, or as dark-hued, or as golden-shining.",
+   "uncertainties": [],
+   "plain_english": "He may be depicted wearing a red garment, or as dark-hued, or as shining like gold."
+  }
+ ]
+}

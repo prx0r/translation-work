@@ -1,0 +1,1073 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1576,
+   "rows": [
+    {
+     "surface": "rāja+dhānya+ādikaṃ",
+     "gloss": "king-grain-etc",
+     "grounds": "compound; royal grain stores and similar structures",
+     "morph": "compound"
+    },
+    {
+     "surface": "rāja+bhavanaṃ",
+     "gloss": "king-palace",
+     "grounds": "compound; royal residence",
+     "morph": "n.acc.sg.nt (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṭākakam",
+     "gloss": "small-pond",
+     "grounds": "water reservoir",
+     "morph": "n.acc.sg.nt"
+    }
+   ],
+   "question": "Which royal and civic structures are included in the prescribed layout?",
+   "premises": [
+    "Royal grain stores and similar facilities are included.",
+    "The king's palace is included.",
+    "A small pond is included."
+   ],
+   "inference": "The layout must include royal grain stores, the palace, and a pond.",
+   "uncertainties": [],
+   "plain_english": "The royal grain store and the like, the king's palace, and a small pond should be included."
+  },
+  {
+   "verse": 1577,
+   "rows": [
+    {
+     "surface": "dhanur+graheṇa",
+     "gloss": "by-bow-measure",
+     "grounds": "instrumental of measure using a bow length",
+     "morph": "n.ins.sg.nt (compound)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rathyā+adhvānaṃ",
+     "gloss": "road-path",
+     "grounds": "compound; roadway or street",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverbial emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measuring unit should be used especially for laying out roads?",
+   "premises": [
+    "Roads and paths require measurement.",
+    "The bow measure is specified as the instrument.",
+    "This prescription is given with special emphasis."
+   ],
+   "inference": "Roads should especially be laid out using the bow measure.",
+   "uncertainties": [],
+   "plain_english": "One should especially lay out the roads using the bow as the measure."
+  },
+  {
+   "verse": 1578,
+   "rows": [
+    {
+     "surface": "kiṣku+mānena",
+     "gloss": "by-cubit-measure",
+     "grounds": "instrumental of measure using a cubit",
+     "morph": "n.ins.sg.nt (compound)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "all applicable items",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "āpannaṃ",
+     "gloss": "obtained",
+     "grounds": "what has been reached or undertaken",
+     "morph": "n.acc.sg.nt (ppp, ā+√pad)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (sam+ā+√car)"
+    }
+   ],
+   "question": "By what measure should all other obtained tasks be carried out?",
+   "premises": [
+    "Various tasks or items are to be undertaken.",
+    "The cubit measure is specified.",
+    "All such tasks should be performed accordingly."
+   ],
+   "inference": "All other applicable tasks should be carried out using the cubit measure.",
+   "uncertainties": [],
+   "plain_english": "Indeed, one should perform all that has been undertaken using the cubit measure."
+  },
+  {
+   "verse": 1579,
+   "rows": [
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "ritual emblem",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimāṃ",
+     "gloss": "image",
+     "grounds": "sculpted icon",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl., sandhi: ca+eva)"
+    },
+    {
+     "surface": "dvāra+stambhaṃ",
+     "gloss": "door-pillar",
+     "grounds": "compound; pillar of a doorway",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cūlikam",
+     "gloss": "finial",
+     "grounds": "crest or top ornament",
+     "morph": "n.acc.sg.nt"
+    }
+   ],
+   "question": "Which ritual and architectural objects are listed for measurement in this context?",
+   "premises": [
+    "The linga is included among the objects.",
+    "The image and door pillar are included.",
+    "The finial is included."
+   ],
+   "inference": "The linga, image, door pillar, and finial are the objects to be measured.",
+   "uncertainties": [],
+   "plain_english": "The linga, the image, the door pillar, and the finial are to be measured."
+  },
+  {
+   "verse": 1580,
+   "rows": [
+    {
+     "surface": "atyarpaṃ",
+     "gloss": "very-small",
+     "grounds": "extremely small dimension",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavena",
+     "gloss": "by-barley-grain",
+     "grounds": "instrumental of smallest measure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "evam+āpnuyāt",
+     "gloss": "thus-one-should-obtain",
+     "grounds": "prescriptive optative; determine measure",
+     "morph": "3.sg.opt.act (evam+ā+√āp)"
+    },
+    {
+     "surface": "mānava+vittamaiḥ",
+     "gloss": "by-human-measures",
+     "grounds": "compound; by measures used by people",
+     "morph": "n.ins.pl (compound)"
+    }
+   ],
+   "question": "What unit should be used to determine very small measurements in human practice?",
+   "premises": [
+    "Some objects require very small measurements.",
+    "The barley grain is specified as the unit.",
+    "This is applied according to human measures."
+   ],
+   "inference": "Very small measurements should be determined using the barley grain as the unit.",
+   "uncertainties": [
+    "The exact sense of mānava+vittamaiḥ is contextually inferred as human measures."
+   ],
+   "plain_english": "Very small dimensions should thus be determined by the barley grain according to human measures."
+  },
+  {
+   "verse": 1581,
+   "rows": [
+    {
+     "surface": "hastaiś+caturbhiḥ",
+     "gloss": "by-four-cubits",
+     "grounds": "instrumental measure; four cubits",
+     "morph": "m.ins.pl (sandhi: hastaiḥ+caturbhiḥ)"
+    },
+    {
+     "surface": "uddiṣṭaḥ",
+     "gloss": "declared",
+     "grounds": "prescribed or defined",
+     "morph": "m.nom.sg (ppp, ud+√diś)"
+    },
+    {
+     "surface": "daṇḍaḥ",
+     "gloss": "rod",
+     "grounds": "measuring rod",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rajjuḥ",
+     "gloss": "rope",
+     "grounds": "measuring rope",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tad+aṣṭabhiḥ",
+     "gloss": "by-eight-of-that",
+     "grounds": "compound; eight times that measure",
+     "morph": "f.ins.pl (compound)"
+    }
+   ],
+   "question": "How are the standard rod and rope measures defined in cubits?",
+   "premises": [
+    "A rod is defined as four cubits.",
+    "A rope is defined in relation to that rod.",
+    "The rope consists of eight such units."
+   ],
+   "inference": "The rod is four cubits and the rope is eight rods.",
+   "uncertainties": [],
+   "plain_english": "The rod is declared to be four cubits, and the rope is eight of those."
+  },
+  {
+   "verse": 1582,
+   "rows": [
+    {
+     "surface": "adhvānaṃ",
+     "gloss": "path",
+     "grounds": "road or distance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rajjunā",
+     "gloss": "by-rope",
+     "grounds": "instrumental of measuring rope",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "badhvā",
+     "gloss": "having-stretched",
+     "grounds": "having laid out or bound the rope",
+     "morph": "(gerund, √bandh)"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "plot or area",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl., sandhi: ca+eva)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānayet",
+     "gloss": "one-should-measure",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.caus.act (√mā)"
+    }
+   ],
+   "question": "How should paths and fields be measured using the prescribed rope?",
+   "premises": [
+    "Paths and fields require measurement.",
+    "The rope is the instrument for measurement.",
+    "The rope must be stretched out to measure."
+   ],
+   "inference": "One should measure paths and fields by stretching out the rope.",
+   "uncertainties": [],
+   "plain_english": "Having stretched the rope, one should measure the path and the field."
+  },
+  {
+   "verse": 1583,
+   "rows": [
+    {
+     "surface": "nyagrodha+valkalena",
+     "gloss": "by-banyan-bark",
+     "grounds": "material for making rope",
+     "morph": "n.ins.sg (compound)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāla+ketaka+valkalaiḥ",
+     "gloss": "by-palm-ketaki-barks",
+     "grounds": "compound; barks of palm and ketaki",
+     "morph": "n.ins.pl (compound)"
+    }
+   ],
+   "question": "What materials are prescribed for making the measuring rope?",
+   "premises": [
+    "Banyan bark is a suitable material.",
+    "Palm and ketaki barks are also suitable materials.",
+    "These materials are used for the rope."
+   ],
+   "inference": "The measuring rope may be made from banyan bark or from palm and ketaki barks.",
+   "uncertainties": [],
+   "plain_english": "Then, the rope may be made from banyan bark or from the barks of palm and ketaki."
+  },
+  {
+   "verse": 1584,
+   "rows": [
+    {
+     "surface": "deva+vipra+mahīpānāṃ",
+     "gloss": "of-gods-brahmins-kings",
+     "grounds": "compound; for deities, brahmins, and kings",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "vaiśya+śūdraiḥ",
+     "gloss": "by-vaishyas-shudras",
+     "grounds": "materials associated with vaishyas and shudras",
+     "morph": "m.ins.pl (compound)"
+    },
+    {
+     "surface": "vivarjitā",
+     "gloss": "excluded",
+     "grounds": "to be avoided or not used",
+     "morph": "f.nom.sg (ppp, vi+√vṛj)"
+    }
+   ],
+   "question": "Which materials are excluded for ropes used by gods, brahmins, and kings?",
+   "premises": [
+    "Ropes for gods, brahmins, and kings have specific requirements.",
+    "Materials associated with vaishyas and shudras are mentioned.",
+    "Such materials are excluded in this context."
+   ],
+   "inference": "Materials associated with vaishyas and shudras are excluded for ropes used by gods, brahmins, and kings.",
+   "uncertainties": [
+    "The exact referent of vaiśya+śūdraiḥ as excluded materials is inferred from context."
+   ],
+   "plain_english": "For gods, brahmins, and kings, materials associated with vaishyas and shudras are excluded."
+  },
+  {
+   "verse": 1585,
+   "rows": [
+    {
+     "surface": "śaṇakaṃ",
+     "gloss": "hemp",
+     "grounds": "hemp fiber material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa+eva",
+     "gloss": "in-order-indeed",
+     "grounds": "according to proper sequence",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "deva+ādīnāṃ",
+     "gloss": "of-gods-etc",
+     "grounds": "compound; for gods and others in order",
+     "morph": "m.gen.pl (compound)"
+    },
+    {
+     "surface": "praśaṃsitāḥ",
+     "gloss": "praised",
+     "grounds": "recommended or approved",
+     "morph": "f.nom.pl (ppp, pra+√śaṃs)"
+    }
+   ],
+   "question": "What rope material is praised in proper order for gods and others?",
+   "premises": [
+    "Different groups require appropriate materials.",
+    "Hemp is mentioned as a material.",
+    "It is praised in proper sequence for gods and others."
+   ],
+   "inference": "Hemp is praised in proper order as a rope material for gods and others.",
+   "uncertainties": [],
+   "plain_english": "Hemp, in proper order, is praised for gods and the others."
+  },
+  {
+   "verse": 1586,
+   "rows": [
+    {
+     "surface": "nālikerasya",
+     "gloss": "of-coconut",
+     "grounds": "coconut tree",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "patrasya",
+     "gloss": "of-leaf",
+     "grounds": "leaf used for measuring",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "māpanaṃ",
+     "gloss": "measuring",
+     "grounds": "act of measurement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+siddhidam",
+     "gloss": "all-accomplishment-giving",
+     "grounds": "compound; granting all success",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What special benefit is attributed to measuring with a coconut leaf?",
+   "premises": [
+    "A coconut leaf can be used for measuring.",
+    "This method of measuring has a stated effect.",
+    "The effect is the granting of all accomplishments."
+   ],
+   "inference": "Measuring with a coconut leaf is said to grant all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "Measuring with a coconut leaf grants all accomplishments."
+  },
+  {
+   "verse": 1587,
+   "rows": [
+    {
+     "surface": "pūrva+uttara+mukhena",
+     "gloss": "facing-east-north",
+     "grounds": "compound; oriented toward east or north",
+     "morph": "n.ins.sg (compound)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārambhe",
+     "gloss": "at-beginning",
+     "grounds": "at the start of the process",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dalanaṃ",
+     "gloss": "splitting",
+     "grounds": "splitting of the leaf",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "How should the coconut leaf be oriented and split at the beginning?",
+   "premises": [
+    "The splitting occurs at the beginning of the process.",
+    "A specific orientation is prescribed.",
+    "The orientation is facing east or north."
+   ],
+   "inference": "At the beginning, the coconut leaf should be split while facing east or north.",
+   "uncertainties": [],
+   "plain_english": "Then, at the beginning, the splitting should be done facing east or north."
+  },
+  {
+   "verse": 1588,
+   "rows": [
+    {
+     "surface": "tat+patra+sirayā",
+     "gloss": "by-that-leaf-vein",
+     "grounds": "compound; using the vein of that leaf",
+     "morph": "f.ins.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣudra+skandhena",
+     "gloss": "by-small-stem",
+     "grounds": "compound; using a small stem",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "māpayet",
+     "gloss": "one-should-measure",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.caus.act (√mā)"
+    }
+   ],
+   "question": "What alternative implements may be used to perform the measurement?",
+   "premises": [
+    "Measurement requires a suitable implement.",
+    "The vein of that leaf may be used.",
+    "A small stem may alternatively be used."
+   ],
+   "inference": "One may measure using the leaf's vein or a small stem.",
+   "uncertainties": [],
+   "plain_english": "One should measure with that leaf's vein or with a small stem."
+  },
+  {
+   "verse": 1589,
+   "rows": [
+    {
+     "surface": "svāyataḥ",
+     "gloss": "oblong",
+     "grounds": "extended in length",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīrgha+saṃyuktaḥ",
+     "gloss": "long-joined",
+     "grounds": "compound; connected with length",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardha+mātra+pravistaraḥ",
+     "gloss": "half-measure-breadth",
+     "grounds": "compound; breadth of half a measure",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What proportions of length and breadth are prescribed for the measuring implement?",
+   "premises": [
+    "The implement should be oblong and long.",
+    "Its breadth is specified proportionally.",
+    "The breadth should be half a measure."
+   ],
+   "inference": "The implement should be oblong and long, with a breadth of half a measure.",
+   "uncertainties": [],
+   "plain_english": "It should be oblong and long, with a breadth of half a measure."
+  },
+  {
+   "verse": 1590,
+   "rows": [
+    {
+     "surface": "tad+tad+ardha+ghanopetaḥ",
+     "gloss": "with-half-that-thickness",
+     "grounds": "compound; endowed with thickness half of that",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "vistāreṇa",
+     "gloss": "by-breadth",
+     "grounds": "in comparison to breadth",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "samaḥ",
+     "gloss": "equal",
+     "grounds": "equal in measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative thickness is allowed for the measuring implement?",
+   "premises": [
+    "The implement has a specified thickness.",
+    "One option is half of a related measure.",
+    "Another option is thickness equal to its breadth."
+   ],
+   "inference": "The implement's thickness may be half that measure or equal to its breadth.",
+   "uncertainties": [
+    "The referent of tad+tad in the compound is contextually inferred."
+   ],
+   "plain_english": "It should have a thickness of half that measure, or alternatively be equal to its breadth."
+  },
+  {
+   "verse": 1591,
+   "rows": [
+    {
+     "surface": "mūle",
+     "gloss": "at-base",
+     "grounds": "at the root or bottom part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svāyambhuvaṃ+rūpaṃ",
+     "gloss": "self-born-form",
+     "grounds": "compound; form of the self-born",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "in the central part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lakṣmī+svarūpakam",
+     "gloss": "lakshmi-form",
+     "grounds": "compound; having the form of Lakshmi",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What forms are assigned to the base and middle of the measuring rod?",
+   "premises": [
+    "The base of the rod has a designated form.",
+    "The middle of the rod has a designated form.",
+    "These forms are identified as Svayambhuva and Lakshmi respectively."
+   ],
+   "inference": "The rod should have the Svayambhuva form at its base and the Lakshmi form in its middle.",
+   "uncertainties": [],
+   "plain_english": "At the base it should have the self-born form, and in the middle the form of Lakshmi."
+  },
+  {
+   "verse": 1592,
+   "rows": [
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the rod",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deveṣu",
+     "gloss": "for-gods",
+     "grounds": "in contexts pertaining to deities",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yogyaḥ",
+     "gloss": "suitable",
+     "grounds": "fit or appropriate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "daṇḍaḥ",
+     "gloss": "rod",
+     "grounds": "measuring rod",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvyaṅgula+vistaraḥ",
+     "gloss": "two-finger-breadth",
+     "grounds": "compound; breadth of two finger-widths",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What breadth makes the rod suitable for use in contexts pertaining to gods?",
+   "premises": [
+    "The rod is intended for use for the gods.",
+    "Suitability depends on its breadth.",
+    "The specified breadth is two finger-widths."
+   ],
+   "inference": "A rod with a breadth of two finger-widths is suitable for use for the gods.",
+   "uncertainties": [],
+   "plain_english": "This rod, with a breadth of two finger-widths, would be suitable for the gods."
+  },
+  {
+   "verse": 1593,
+   "rows": [
+    {
+     "surface": "hemnā",
+     "gloss": "by-gold",
+     "grounds": "material: gold",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājatena",
+     "gloss": "by-silver",
+     "grounds": "material: silver",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmreṇa",
+     "gloss": "by-copper",
+     "grounds": "material: copper",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayasā",
+     "gloss": "by-iron",
+     "grounds": "material: iron",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What metals may be used to make the prescribed measuring rod?",
+   "premises": [
+    "The rod may be made of metal.",
+    "Gold, silver, and copper are permitted materials.",
+    "Iron is also permitted as an alternative."
+   ],
+   "inference": "The rod may be made of gold, silver, copper, or iron.",
+   "uncertainties": [],
+   "plain_english": "It may be made of gold, or silver, or copper, or indeed of iron."
+  },
+  {
+   "verse": 1594,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "sakala",
+     "grounds": "name of the first division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pada+ekaṃ",
+     "gloss": "one-pada",
+     "grounds": "compound; consisting of one pada",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "pecakaṃ",
+     "gloss": "pecaka",
+     "grounds": "name of the second division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "the second in sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the names and order of the first two pada divisions?",
+   "premises": [
+    "The first division is called sakala.",
+    "Sakala consists of one pada.",
+    "The second division is called pecaka."
+   ],
+   "inference": "The first division is sakala of one pada, and the second is pecaka.",
+   "uncertainties": [],
+   "plain_english": "The first would be sakala of one pada, and the second would be pecaka."
+  },
+  {
+   "verse": 1595,
+   "rows": [
+    {
+     "surface": "upapīṭhaṃ",
+     "gloss": "upapitha",
+     "grounds": "name of a division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ugra+pīṭham",
+     "gloss": "ugra-pitha",
+     "grounds": "compound; name of a division",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "from-that",
+     "grounds": "thereafter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "next in sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which pada divisions follow in sequence after the earlier ones?",
+   "premises": [
+    "A division named upapitha comes next.",
+    "After that comes ugrapitha.",
+    "These follow in sequential order."
+   ],
+   "inference": "The sequence continues with upapitha and then ugrapitha.",
+   "uncertainties": [],
+   "plain_english": "Then comes upapitha, and after that ugrapitha, and beyond that the next."
+  },
+  {
+   "verse": 1596,
+   "rows": [
+    {
+     "surface": "parameśa+padaṃ",
+     "gloss": "supreme-lord-pada",
+     "grounds": "compound; name of a division",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ordinal position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "stated or proclaimed",
+     "morph": "n.nom.sg (ppp, pari+√kīrt)"
+    }
+   ],
+   "question": "What is the name and ordinal position of the ninth pada division?",
+   "premises": [
+    "A division named paramesha-pada is mentioned.",
+    "Its ordinal position is specified.",
+    "It is declared as the ninth."
+   ],
+   "inference": "The ninth division is declared to be paramesha-pada.",
+   "uncertainties": [],
+   "plain_english": "And the supreme-lord pada is declared as the ninth."
+  },
+  {
+   "verse": 1597,
+   "rows": [
+    {
+     "surface": "deśīyaṃ",
+     "gloss": "deshiya",
+     "grounds": "name of a division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvādaśaṃ",
+     "gloss": "twelfth",
+     "grounds": "ordinal position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "stated",
+     "morph": "n.nom.sg (ppp, pra+√vac)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "pada",
+     "grounds": "division or foot",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ubhaya+caṇḍikam",
+     "gloss": "ubhaya-chandika",
+     "grounds": "compound; name of a division",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What names are given to the twelfth pada division in this enumeration?",
+   "premises": [
+    "The twelfth division is identified.",
+    "It is called deshiya.",
+    "It is also called ubhaya-chandika."
+   ],
+   "inference": "The twelfth pada is declared as deshiya, also known as ubhaya-chandika.",
+   "uncertainties": [],
+   "plain_english": "The twelfth pada is declared to be deshiya, also called ubhaya-chandika."
+  },
+  {
+   "verse": 1598,
+   "rows": [
+    {
+     "surface": "padma+garbha+padaṃ",
+     "gloss": "lotus-womb-pada",
+     "grounds": "compound; name of a division",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "pañcadaśamaṃ",
+     "gloss": "fifteenth",
+     "grounds": "ordinal position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "stated or proclaimed",
+     "morph": "n.nom.sg (ppp, pra+√kīrt)"
+    }
+   ],
+   "question": "What is the name and ordinal position of the fifteenth pada division?",
+   "premises": [
+    "A division named padma-garbha-pada is mentioned.",
+    "Its ordinal position is specified.",
+    "It is declared as the fifteenth."
+   ],
+   "inference": "The fifteenth division is declared to be padma-garbha-pada.",
+   "uncertainties": [],
+   "plain_english": "The lotus-womb pada is declared as the fifteenth."
+  },
+  {
+   "verse": 1599,
+   "rows": [
+    {
+     "surface": "aṣṭādaśa+padaṃ",
+     "gloss": "eighteen-pada",
+     "grounds": "compound; division of eighteen padas",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇa+aṣṭakam",
+     "gloss": "eight-ears",
+     "grounds": "compound; name of the division",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "iti+smṛtam",
+     "gloss": "thus-remembered",
+     "grounds": "traditional designation",
+     "morph": "n.nom.sg (compound, ppp smṛ)"
+    }
+   ],
+   "question": "What traditional name is given to the eighteen-pada division in this system?",
+   "premises": [
+    "A division of eighteen padas is mentioned.",
+    "It has a traditional designation.",
+    "That designation is karna-ashtaka."
+   ],
+   "inference": "The eighteen-pada division is traditionally remembered as karna-ashtaka.",
+   "uncertainties": [],
+   "plain_english": "And here the eighteen-pada division is traditionally remembered as karna-ashtaka, the eight ears."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 825,
+   "rows": [
+    {
+     "surface": "mantra+dvayaṃ",
+     "gloss": "two-mantras",
+     "grounds": "fused compound; dvayaṃ denotes a pair",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "thrice",
+     "grounds": "adverb of repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive from root jap",
+     "morph": "abs (root jap)"
+    },
+    {
+     "surface": "mudrā+śuddhiḥ",
+     "gloss": "mudrā-purification",
+     "grounds": "fused compound; śuddhiḥ nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "ablative of time",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What practice purifies the mudrā instantly after chanting two mantras thrice?",
+   "premises": [
+    "two mantras chanted thrice",
+    "mudrā purification follows chanting",
+    "purification occurs at that moment"
+   ],
+   "inference": "chanting two mantras thrice immediately purifies the mudrā",
+   "uncertainties": [
+    "exact mantra identity unspecified"
+   ],
+   "plain_english": "After chanting two mantras three times, the mudrā is purified at that very moment."
+  }
+ ]
+}

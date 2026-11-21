@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive of tat",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "durmater",
+     "gloss": "evil-minded",
+     "grounds": "compound dur + manas in genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "middle voice present of jan",
+     "morph": "3.sg.mid-pres + root jan"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result arises for a person of evil mind?",
+   "premises": [
+    "evil mind produces result",
+    "result belongs to him",
+    "arising is stated"
+   ],
+   "inference": "the evil-minded person's result arises",
+   "uncertainties": [
+    "context of prior verses not fully supplied"
+   ],
+   "plain_english": "For him, an evil-minded person, a result arises."
+  }
+ ]
+}

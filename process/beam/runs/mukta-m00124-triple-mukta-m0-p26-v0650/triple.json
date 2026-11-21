@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "oṃ ṭhaṃkāraṃ",
+     "gloss": "oṃ-ṭhaṃ-syllable",
+     "grounds": "mantra syllables kept byte-exact; ṭhaṃkāra denotes the syllable ṭhaṃ",
+     "morph": "mantra+acc.sg.masc"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-extracted",
+     "grounds": "gerund indicating prior extraction or utterance of the mantra element",
+     "morph": "gerund (sam-ud-√hṛ)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "refers to the formulaic word or pada to be uttered",
+     "morph": "acc.sg.neut"
+    },
+    {
+     "surface": "lāṅgaline",
+     "gloss": "to-lāṅgalin",
+     "grounds": "dative recipient of obeisance, epithet Lāṅgalin",
+     "morph": "dat.sg.masc"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation addressed to the named recipient",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula and salutation follow the extraction of the ṭhaṃ syllable?",
+   "premises": [
+    "The syllable oṃ ṭhaṃkāraṃ is extracted.",
+    "The word padaṃ is then uttered.",
+    "Obeisance namaḥ is directed to Lāṅgalin."
+   ],
+   "inference": "After extracting oṃ ṭhaṃkāraṃ, one utters the pada followed by obeisance to Lāṅgalin.",
+   "uncertainties": [
+    "Whether padaṃ refers to a specific fixed word or a general formulaic element is not explicit."
+   ],
+   "plain_english": "Having extracted the syllable oṃ ṭhaṃ, one should utter the word and offer obeisance to Lāṅgalin."
+  }
+ ]
+}

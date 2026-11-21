@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "adhorephasamāyuktam",
+     "gloss": "with-adhorepha-joined",
+     "grounds": "legacy hint with-adhorepha-joined; fused compound form retained",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "oṅkāraśirasaṃ",
+     "gloss": "with-om-head",
+     "grounds": "legacy hint om-head; fused compound form retained",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What two features must the written mantra bear here?",
+   "premises": [
+    "Mantra is written with adhorepha joined.",
+    "Mantra has om as its head.",
+    "Thus marks the prescribed form."
+   ],
+   "inference": "The prescribed written mantra joins adhorepha and takes om as its head.",
+   "uncertainties": [
+    "Exact referent of adhorepha is not specified in the supplied context."
+   ],
+   "plain_english": "Thus it is joined with adhorepha and has om as its head."
+  }
+ ]
+}

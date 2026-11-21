@@ -1,0 +1,516 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolute participle of tyaj",
+     "morph": "verb.participle.perf.act"
+    },
+    {
+     "surface": "sṛṣṭikramam",
+     "gloss": "creation-sequence",
+     "grounds": "compound sṛṣṭi+krama in accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "prāguccārakrameṇa",
+     "gloss": "by-previous-utterance-sequence",
+     "grounds": "compound prāg+uccāra+krama in instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should the practitioner abandon creation sequence and use previous utterance sequence?",
+   "premises": [
+    "creation sequence is abandoned",
+    "previous utterance sequence is used",
+    "the goddess is addressed"
+   ],
+   "inference": "The verse directs abandoning creation order in favor of prior utterance order.",
+   "uncertainties": [
+    "exact ritual context of prāguccāra"
+   ],
+   "plain_english": "Having abandoned the creation sequence, O goddess, one should proceed by the previous utterance sequence."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "compound mahā+vidyā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "great-Tripurasundarī",
+     "grounds": "compound mahā+tripurasundarī",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is this great knowledge identified as?",
+   "premises": [
+    "this knowledge is great",
+    "it is identified with Tripurasundarī",
+    "the identification is stated directly"
+   ],
+   "inference": "The great knowledge is Mahātripurasundarī.",
+   "uncertainties": [
+    "whether mahāvidyā is mantra or deity"
+   ],
+   "plain_english": "Thus this great knowledge is Mahātripurasundarī."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "etayā",
+     "gloss": "by-this",
+     "grounds": "instrumental of etad",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "etasya",
+     "gloss": "of-this",
+     "grounds": "genitive of etad",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "cakrasya",
+     "gloss": "of-circle",
+     "grounds": "genitive of cakra",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "arcanam",
+     "gloss": "worship",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ārabhet",
+     "gloss": "should-begin",
+     "grounds": "optative of ārabh",
+     "morph": "3.sg.act-opt.ārabh"
+    }
+   ],
+   "question": "How should the practitioner begin worship of this circle?",
+   "premises": [
+    "worship is begun by this",
+    "the circle belongs to this",
+    "the practitioner is the agent"
+   ],
+   "inference": "The practitioner should begin worship of this circle by means of this.",
+   "uncertainties": [
+    "exact referent of etayā"
+   ],
+   "plain_english": "By this, the practitioner should begin worship of this circle."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "tāmbūlapūritamukhaḥ",
+     "gloss": "with-betel-filled-mouth",
+     "grounds": "compound tāmbūla+pūrita+mukha",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dhūpāmodasugandhitaḥ",
+     "gloss": "with-incense-fragrance-well-perfumed",
+     "grounds": "compound dhūpa+āmoda+sugandhita",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What bodily and sensory preparations are prescribed for the worshipper?",
+   "premises": [
+    "mouth is filled with betel",
+    "body is perfumed with incense fragrance",
+    "both describe the worshipper"
+   ],
+   "inference": "The worshipper should have betel-filled mouth and incense fragrance.",
+   "uncertainties": [
+    "whether these are mandatory or descriptive"
+   ],
+   "plain_english": "With mouth filled with betel and body well perfumed with incense fragrance."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "raktapuṣpāvṛtaḥ",
+     "gloss": "with-red-flowers-covered",
+     "grounds": "compound rakta+puṣpa+āvṛta",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "maunī",
+     "gloss": "silent",
+     "grounds": "adjective in nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "raktagandhānulepanaḥ",
+     "gloss": "with-red-unguent-anointed",
+     "grounds": "compound rakta+gandha+anulepana",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What further adornment and conduct are prescribed for the worshipper?",
+   "premises": [
+    "covered with red flowers",
+    "silent in conduct",
+    "anointed with red unguent"
+   ],
+   "inference": "The worshipper is adorned with red flowers and unguent and remains silent.",
+   "uncertainties": [
+    "whether maunī modifies worshipper or rite"
+   ],
+   "plain_english": "Covered with red flowers, silent, and anointed with red unguent."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "sarvaśṛṅgāraveśāḍhyaḥ",
+     "gloss": "with-all-ornamentation-attire-endowed",
+     "grounds": "compound sarva+śṛṅgāra+veśa+āḍhya",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tripurīkṛtavigrahaḥ",
+     "gloss": "with-Tripurā-made-body",
+     "grounds": "compound tripurī+kṛta+vigraha",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How should the worshipper's body and attire be configured?",
+   "premises": [
+    "endowed with all ornamentation and attire",
+    "body made into Tripurā",
+    "both describe the worshipper"
+   ],
+   "inference": "The worshipper should be fully ornamented and identify body with Tripurā.",
+   "uncertainties": [
+    "exact meaning of tripurīkṛta"
+   ],
+   "plain_english": "Endowed with all ornamentation and attire, with body made into Tripurā."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "bhūpradeśe",
+     "gloss": "on-ground-place",
+     "grounds": "compound bhū+pradeśa in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "same",
+     "gloss": "even",
+     "grounds": "adjective in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śuddhe",
+     "gloss": "pure",
+     "grounds": "adjective in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "gomayenopalepite",
+     "gloss": "with-cow-dung-smeared",
+     "grounds": "compound gomaya+upa+lepana in instrumental",
+     "morph": "inst.sg.m"
+    }
+   ],
+   "question": "What kind of ground should be prepared for worship?",
+   "premises": [
+    "ground place is even",
+    "ground place is pure",
+    "ground place is smeared with cow dung"
+   ],
+   "inference": "Worship should be performed on an even, pure ground smeared with cow dung.",
+   "uncertainties": [
+    "whether gomayena modifies place or worshipper"
+   ],
+   "plain_english": "On an even, pure ground place smeared with cow dung."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "sindūrarajasā",
+     "gloss": "with-vermilion-powder",
+     "grounds": "compound sindūra+rajas in instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kuṅkumena",
+     "gloss": "with-saffron",
+     "grounds": "instrumental of kuṅkuma",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances may be used to mark or color the worship space?",
+   "premises": [
+    "vermilion powder is used",
+    "saffron is used",
+    "the two are alternatives"
+   ],
+   "inference": "Either vermilion powder or saffron may be used, O goddess.",
+   "uncertainties": [
+    "what punaḥ qualifies"
+   ],
+   "plain_english": "With vermilion powder, O goddess, or with saffron, again."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "pūjādi",
+     "gloss": "worship-etc",
+     "grounds": "compound pūjā+ādi",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "siddhyet",
+     "gloss": "succeeds",
+     "grounds": "optative of sidh",
+     "morph": "3.sg.act-opt.sidh"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantarameva",
+     "gloss": "immediately-after",
+     "grounds": "compound anantara+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "past participle of vac",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tripurīkṛtavigrahaḥ",
+     "gloss": "with-Tripurā-made-body",
+     "grounds": "compound tripurī+kṛta+vigraha",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is said to follow immediately after worship and related rites?",
+   "premises": [
+    "worship and so forth succeeds",
+    "this is said immediately after",
+    "Tripurā-made body is mentioned"
+   ],
+   "inference": "The text states that worship and related rites succeed, with Tripurā-made body noted.",
+   "uncertainties": [
+    "scope of pūjādi",
+    "whether tripurīkṛtavigrahaḥ is result or condition"
+   ],
+   "plain_english": "Worship and so forth succeeds; thus it is said immediately after, with body made into Tripurā, thus."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "sarvādyavidyayā",
+     "gloss": "with-all-first-vidyā",
+     "grounds": "compound sarva+ādya+vidyā in instrumental",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "karaśuddhim",
+     "gloss": "hand-purification",
+     "grounds": "compound kara+śuddhi in accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "causative optative of kṛ",
+     "morph": "3.sg.act-opt.kṛ"
+    }
+   ],
+   "question": "What purification should be caused by means of the all-first vidyā?",
+   "premises": [
+    "all-first vidyā is the means",
+    "hand purification is the object",
+    "one should cause it"
+   ],
+   "inference": "One should cause hand purification by means of the all-first vidyā.",
+   "uncertainties": [
+    "exact meaning of sarvādyavidyā"
+   ],
+   "plain_english": "By the all-first vidyā, O goddess, one should indeed cause hand purification."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "ūrdhvamadhyādhobhāgātmake",
+     "gloss": "in-upper-middle-lower-part-consisting",
+     "grounds": "compound ūrdhva+madhya+adha+bhāga+ātmaka in locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "puratraye",
+     "gloss": "in-three-cities",
+     "grounds": "compound pura+traya in locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bījatrayam",
+     "gloss": "seed-triad",
+     "grounds": "compound bīja+traya in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "optative of dhyai",
+     "morph": "3.sg.act-opt.dhyai"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be meditated upon in the three cities consisting of upper, middle, and lower parts?",
+   "premises": [
+    "three cities consist of upper middle lower parts",
+    "seed triad is this",
+    "one should meditate on it"
+   ],
+   "inference": "One should meditate on this seed triad in the three cities.",
+   "uncertainties": [
+    "whether bījatrayam refers to specific syllables"
+   ],
+   "plain_english": "In the three cities consisting of upper, middle, and lower parts, one should meditate on this seed triad, thus."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "sarvamantrāsanam",
+     "gloss": "of-all-mantras-seat",
+     "grounds": "compound sarva+mantra+āsana in genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "sādhyasiddhāsanam",
+     "gloss": "of-sādhya-siddha-seat",
+     "grounds": "compound sādhya+siddha+āsana in genitive",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What seats are named for all mantras and for sādhya-siddha?",
+   "premises": [
+    "seat of all mantras is named",
+    "seat of sādhya-siddha is named",
+    "likewise connects the two"
+   ],
+   "inference": "The seats of all mantras and of sādhya-siddha are both named.",
+   "uncertainties": [
+    "whether these are distinct seats or one seat"
+   ],
+   "plain_english": "The seat of all mantras, O goddess, and likewise the seat of sādhya-siddha."
+  }
+ ]
+}

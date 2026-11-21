@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "śūlāgraṃ",
+     "gloss": "trident-tip",
+     "grounds": "object to be grasped; compound of śūla and agra",
+     "morph": "compound:śūla+agra;n.acc.sg"
+    },
+    {
+     "surface": "varadenaiva",
+     "gloss": "by-boon-giving-indeed",
+     "grounds": "instrument; sandhi fusion of varadena and eva marked by internal join",
+     "morph": "compound:vara+da;m.inst.sg + (indecl.)"
+    },
+    {
+     "surface": "saṃgrāhya",
+     "gloss": "to-be-grasped",
+     "grounds": "gerundive expressing required action on the trident-tip",
+     "morph": "gerundive;n.acc.sg;root:sam-grah"
+    },
+    {
+     "surface": "tryajatho",
+     "gloss": "three-born-then",
+     "grounds": "uncertain form; possibly tryaja with following particle in sandhi",
+     "morph": "uncertain"
+    },
+    {
+     "surface": "dhṛtam",
+     "gloss": "held",
+     "grounds": "past passive participle describing the held state",
+     "morph": "ppp;n.nom.sg;root:dhṛ"
+    }
+   ],
+   "question": "How must the tip of the trident be grasped and held in this described form?",
+   "premises": [
+    "The trident-tip is the object designated to be grasped.",
+    "The grasping is to be done by the boon-giving hand.",
+    "The trident-tip is described as held in that grasp."
+   ],
+   "inference": "The tip of the trident is to be grasped by the boon-giving hand and held accordingly.",
+   "uncertainties": [
+    "The analysis and meaning of tryajatho are uncertain in this context."
+   ],
+   "plain_english": "The tip of the trident should indeed be grasped by the boon-giving hand and held."
+  }
+ ]
+}

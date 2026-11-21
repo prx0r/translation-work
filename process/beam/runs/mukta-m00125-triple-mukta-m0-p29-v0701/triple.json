@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 701,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "absolutive of entering",
+     "morph": "gerund (√viś)"
+    },
+    {
+     "surface": "nagarādyantu",
+     "gloss": "city-and-so-on-but",
+     "grounds": "compound nagara+ādi with particle tu fused",
+     "morph": "compound n.nom.sg.nt + (indecl.)"
+    },
+    {
+     "surface": "deśikaś",
+     "gloss": "teacher",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣya",
+     "gloss": "disciple",
+     "grounds": "initiated student",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is authorized to enter the city and perform the prescribed ritual acts?",
+   "premises": [
+    "The act begins with entering the city or similar place.",
+    "The teacher is named as a possible agent.",
+    "The disciple is named as an alternative agent."
+   ],
+   "inference": "Either the teacher or the disciple may enter and carry out the ritual.",
+   "uncertainties": [
+    "The exact scope of nagarādyantu is not fully specified."
+   ],
+   "plain_english": "Having entered the city or such places, either the teacher or the disciple may act."
+  },
+  {
+   "verse": 702,
+   "rows": [
+    {
+     "surface": "laḍḍukaṃ",
+     "gloss": "sweet-ball",
+     "grounds": "food offering item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "modakaṃ",
+     "gloss": "sweet-cake",
+     "grounds": "food offering item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maudgaṃ",
+     "gloss": "mung-bean-dish",
+     "grounds": "preparation made from mung beans",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gulaṃ",
+     "gloss": "jaggery",
+     "grounds": "sweet substance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saktuṃ",
+     "gloss": "parched-flour",
+     "grounds": "food offering item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaṇeśvare",
+     "gloss": "to-gaṇeśvara",
+     "grounds": "recipient deity",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which food items are to be offered to Gaṇeśvara in this ritual context?",
+   "premises": [
+    "Several specific food items are listed.",
+    "The items include sweets, bean preparation, jaggery, and parched flour.",
+    "Gaṇeśvara is named as the recipient."
+   ],
+   "inference": "Sweet balls, sweet cakes, a mung-bean dish, jaggery, and parched flour are to be offered to Gaṇeśvara.",
+   "uncertainties": [],
+   "plain_english": "One should offer sweet balls, sweet cakes, a mung-bean dish, jaggery, and parched flour to Gaṇeśvara."
+  },
+  {
+   "verse": 703,
+   "rows": [
+    {
+     "surface": "brahma+priyam",
+     "gloss": "dear-to-brahmā",
+     "grounds": "compound indicating what pleases Brahmā",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "dvitīye+hani",
+     "gloss": "on-second-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg (past-passive-participle √kīrt)"
+    }
+   ],
+   "question": "What offering is prescribed on the second day and to whom is it pleasing?",
+   "premises": [
+    "An offering is declared for the second day.",
+    "The offering is described as dear to Brahmā.",
+    "The offering is enjoined as something to be given."
+   ],
+   "inference": "On the second day, this offering dear to Brahmā should be given as declared.",
+   "uncertainties": [
+    "The exact substance of idaṃ is not specified in this verse alone."
+   ],
+   "plain_english": "On the second day, this offering dear to Brahmā should be given, as declared."
+  },
+  {
+   "verse": 704,
+   "rows": [
+    {
+     "surface": "tṛtīye+hani",
+     "gloss": "on-third-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "bhūtānāṃ",
+     "gloss": "of-beings",
+     "grounds": "recipients of offering",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prīti+kāraṇam",
+     "gloss": "satisfaction-cause",
+     "grounds": "compound stating purpose",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What is the purpose of the offering prescribed on the third day?",
+   "premises": [
+    "An offering is prescribed on the third day.",
+    "The offering is directed toward beings.",
+    "Its purpose is to cause satisfaction."
+   ],
+   "inference": "On the third day, an offering should be given to bring satisfaction to the beings.",
+   "uncertainties": [],
+   "plain_english": "On the third day, an offering should be given as a cause of satisfaction for the beings."
+  },
+  {
+   "verse": 705,
+   "rows": [
+    {
+     "surface": "caturthe+hani",
+     "gloss": "on-fourth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "gandharva+priyam",
+     "gloss": "dear-to-gandharvas",
+     "grounds": "compound indicating what pleases Gandharvas",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of offering is required on the fourth day for the Gandharvas?",
+   "premises": [
+    "An offering is prescribed on the fourth day.",
+    "The offering is described as dear to the Gandharvas.",
+    "The prescription is emphatic."
+   ],
+   "inference": "On the fourth day, an offering dear to the Gandharvas must indeed be given.",
+   "uncertainties": [],
+   "plain_english": "On the fourth day, an offering dear to the Gandharvas should indeed be given."
+  },
+  {
+   "verse": 706,
+   "rows": [
+    {
+     "surface": "pañcame+hani",
+     "gloss": "on-fifth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "indra+priya",
+     "gloss": "dear-to-indra",
+     "grounds": "compound indicating what pleases Indra",
+     "morph": "compound member"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "causing",
+     "grounds": "producing the stated effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What effect should the offering given on the fifth day produce for Indra?",
+   "premises": [
+    "An offering is prescribed on the fifth day.",
+    "The offering should cause what is dear to Indra.",
+    "The result is expressed as a prescription."
+   ],
+   "inference": "On the fifth day, the offering given should be such that it pleases Indra.",
+   "uncertainties": [],
+   "plain_english": "On the fifth day, what is given should be an offering that pleases Indra."
+  },
+  {
+   "verse": 707,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhe+hani",
+     "gloss": "on-sixth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "pradātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive pra-√dā)"
+    },
+    {
+     "surface": "ṛṣīṇāṃ",
+     "gloss": "of-seers",
+     "grounds": "recipients of offering",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prīti+siddhaye",
+     "gloss": "for-satisfaction-accomplishment",
+     "grounds": "compound stating purpose",
+     "morph": "compound f.dat.sg"
+    }
+   ],
+   "question": "For whose satisfaction is the offering on the sixth day to be given?",
+   "premises": [
+    "An offering is prescribed on the sixth day.",
+    "The seers are named as recipients.",
+    "The purpose is the accomplishment of satisfaction."
+   ],
+   "inference": "On the sixth day, an offering should be given to accomplish the satisfaction of the seers.",
+   "uncertainties": [],
+   "plain_english": "On the sixth day, an offering should be given for the satisfaction of the seers."
+  },
+  {
+   "verse": 708,
+   "rows": [
+    {
+     "surface": "saptame+hani",
+     "gloss": "on-seventh-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "śriyaḥ",
+     "gloss": "of-śrī",
+     "grounds": "recipient deity",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prīti+karaṃ",
+     "gloss": "satisfaction-causing",
+     "grounds": "compound stating effect",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What effect should the seventh-day offering have with respect to Śrī?",
+   "premises": [
+    "An offering is prescribed on the seventh day.",
+    "Śrī is named in relation to the offering.",
+    "The offering should cause satisfaction."
+   ],
+   "inference": "On the seventh day, the offering given should cause the satisfaction of Śrī.",
+   "uncertainties": [],
+   "plain_english": "On the seventh day, what is given should be an offering that brings satisfaction to Śrī."
+  },
+  {
+   "verse": 709,
+   "rows": [
+    {
+     "surface": "aṣṭame+hani",
+     "gloss": "on-eighth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "rākṣasaḥ",
+     "gloss": "of-rākṣasas",
+     "grounds": "recipients of offering",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prīti+siddhaye",
+     "gloss": "for-satisfaction-accomplishment",
+     "grounds": "compound stating purpose",
+     "morph": "compound f.dat.sg"
+    }
+   ],
+   "question": "For whose satisfaction is the offering on the eighth day prescribed?",
+   "premises": [
+    "An offering is prescribed on the eighth day.",
+    "The rākṣasas are named as recipients.",
+    "The purpose is the accomplishment of satisfaction."
+   ],
+   "inference": "On the eighth day, an offering should be given to accomplish the satisfaction of the rākṣasas.",
+   "uncertainties": [
+    "The form rākṣasaḥ is read as genitive in sense here, though its surface is ambiguous."
+   ],
+   "plain_english": "On the eighth day, an offering should be given for the satisfaction of the rākṣasas."
+  },
+  {
+   "verse": 710,
+   "rows": [
+    {
+     "surface": "navame+hani",
+     "gloss": "on-ninth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "śiva+prīti",
+     "gloss": "śiva-satisfaction",
+     "grounds": "compound indicating satisfaction of Śiva",
+     "morph": "compound member"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "causing",
+     "grounds": "producing the stated effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What effect should the ninth-day offering produce in relation to Śiva?",
+   "premises": [
+    "An offering is prescribed on the ninth day.",
+    "The offering should cause satisfaction for Śiva.",
+    "The result is expressed as a prescription."
+   ],
+   "inference": "On the ninth day, the offering given should be such that it causes Śiva's satisfaction.",
+   "uncertainties": [],
+   "plain_english": "On the ninth day, what is given should be an offering that brings satisfaction to Śiva."
+  },
+  {
+   "verse": 711,
+   "rows": [
+    {
+     "surface": "śuddha+annam",
+     "gloss": "pure-rice",
+     "grounds": "compound naming food item",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "dadhi+saṃyuktaṃ",
+     "gloss": "with-curd-joined",
+     "grounds": "compound describing accompaniment",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "laḍḍuka+āpūpa+saṃyutam",
+     "gloss": "with-sweet-balls-cakes-joined",
+     "grounds": "compound listing additional items",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "Which food preparations are specified together as part of the offering materials?",
+   "premises": [
+    "Pure rice is named as a base item.",
+    "The rice is joined with curd.",
+    "Sweet balls and cakes are also included."
+   ],
+   "inference": "The offering materials include pure rice mixed with curd and accompanied by sweet balls and cakes.",
+   "uncertainties": [],
+   "plain_english": "The offering includes pure rice mixed with curd, together with sweet balls and cakes."
+  },
+  {
+   "verse": 712,
+   "rows": [
+    {
+     "surface": "phalaiśca",
+     "gloss": "and-with-fruits",
+     "grounds": "fruits included with connective particle",
+     "morph": "n.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "rajanī+cūrṇaṃ",
+     "gloss": "turmeric-powder",
+     "grounds": "compound naming substance",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "ghṛta+annaṃ",
+     "gloss": "ghee-rice",
+     "grounds": "compound naming food item",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "dadhi+saktukam",
+     "gloss": "curd-parched-flour",
+     "grounds": "compound naming food mixture",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What additional substances and food items are included among the offering materials?",
+   "premises": [
+    "Fruits are included as accompaniments.",
+    "Turmeric powder is listed.",
+    "Ghee-rice and curd with parched flour are listed."
+   ],
+   "inference": "The offering materials further include fruits, turmeric powder, ghee-rice, and curd with parched flour.",
+   "uncertainties": [],
+   "plain_english": "The materials also include fruits, turmeric powder, ghee-rice, and curd mixed with parched flour."
+  },
+  {
+   "verse": 713,
+   "rows": [
+    {
+     "surface": "bhūtebhyaḥ",
+     "gloss": "to-beings",
+     "grounds": "recipients of offering",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "kṛsaraḥ",
+     "gloss": "rice-sesame-dish",
+     "grounds": "specific food preparation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "m.nom.sg (past-passive-participle pra-√vac)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to declared item",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tebhyo",
+     "gloss": "to-them",
+     "grounds": "recipients previously mentioned",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "balir",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What specific food is declared as the offering to the beings in this instruction?",
+   "premises": [
+    "The beings are named as recipients.",
+    "Kṛsara is declared as the relevant item.",
+    "That item is to constitute the offering to them."
+   ],
+   "inference": "Kṛsara is declared as the offering that should be given to the beings.",
+   "uncertainties": [],
+   "plain_english": "Kṛsara is declared for the beings, and with that the offering to them should be made."
+  },
+  {
+   "verse": 714,
+   "rows": [
+    {
+     "surface": "kadalī+phala+saṃyuktaṃ",
+     "gloss": "with-banana-fruit-joined",
+     "grounds": "compound describing offering contents",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "ṛṣibhyo",
+     "gloss": "to-seers",
+     "grounds": "recipients of offering",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active (ā-√car)"
+    }
+   ],
+   "question": "What offering should be performed for the seers according to this instruction?",
+   "premises": [
+    "The seers are named as recipients.",
+    "The offering is joined with banana fruit.",
+    "The action is prescribed as something to perform."
+   ],
+   "inference": "One should perform an offering accompanied by banana fruit for the seers.",
+   "uncertainties": [],
+   "plain_english": "One should offer to the seers an oblation accompanied by banana fruit."
+  },
+  {
+   "verse": 715,
+   "rows": [
+    {
+     "surface": "caturthe+'hani",
+     "gloss": "on-fourth-day",
+     "grounds": "compound specifying time with sandhi marker",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "śakrasyāsya",
+     "gloss": "of-this-śakra",
+     "grounds": "genitive referring to Śakra/Indra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛptaye",
+     "gloss": "for-satisfaction",
+     "grounds": "purpose of offering",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For whose satisfaction is the offering on the fourth day to be given in this sequence?",
+   "premises": [
+    "An offering is prescribed on the fourth day.",
+    "Śakra is named as the one to be satisfied.",
+    "The purpose is explicitly satisfaction."
+   ],
+   "inference": "On the fourth day, an offering should be given for the satisfaction of Śakra.",
+   "uncertainties": [
+    "The form śakrasyāsya is taken as referring to Śakra; the exact nuance of asya is unclear."
+   ],
+   "plain_english": "On the fourth day, an offering should indeed be given for the satisfaction of Śakra."
+  },
+  {
+   "verse": 716,
+   "rows": [
+    {
+     "surface": "pañcame+hani",
+     "gloss": "on-fifth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "brahma+prīti",
+     "gloss": "brahmā-satisfaction",
+     "grounds": "compound indicating satisfaction of Brahmā",
+     "morph": "compound member"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "causing",
+     "grounds": "producing the stated effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What effect should the fifth-day offering produce in relation to Brahmā in this sequence?",
+   "premises": [
+    "An offering is prescribed on the fifth day.",
+    "The offering should cause satisfaction for Brahmā.",
+    "The result is expressed as a prescription."
+   ],
+   "inference": "On the fifth day, the offering given should cause the satisfaction of Brahmā.",
+   "uncertainties": [],
+   "plain_english": "On the fifth day, what is given should be an offering that brings satisfaction to Brahmā."
+  },
+  {
+   "verse": 717,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhe+hani",
+     "gloss": "on-sixth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "pradātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive pra-√dā)"
+    },
+    {
+     "surface": "viṣṇu+prīti+vivṛddhaye",
+     "gloss": "for-viṣṇu-satisfaction-increase",
+     "grounds": "compound stating purpose",
+     "morph": "compound f.dat.sg"
+    }
+   ],
+   "question": "What purpose is served by the offering prescribed on the sixth day in this sequence?",
+   "premises": [
+    "An offering is prescribed on the sixth day.",
+    "Viṣṇu is named in relation to the offering.",
+    "The purpose is the increase of satisfaction."
+   ],
+   "inference": "On the sixth day, an offering should be given to increase the satisfaction of Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "On the sixth day, an offering should be given to increase the satisfaction of Viṣṇu."
+  },
+  {
+   "verse": 718,
+   "rows": [
+    {
+     "surface": "saptame+hani",
+     "gloss": "on-seventh-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "śiva+prīti",
+     "gloss": "śiva-satisfaction",
+     "grounds": "compound indicating satisfaction of Śiva",
+     "morph": "compound member"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "causing",
+     "grounds": "producing the stated effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What effect should the seventh-day offering produce in relation to Śiva in this sequence?",
+   "premises": [
+    "An offering is prescribed on the seventh day.",
+    "The offering should cause satisfaction for Śiva.",
+    "The result is expressed as a prescription."
+   ],
+   "inference": "On the seventh day, the offering given should cause the satisfaction of Śiva.",
+   "uncertainties": [],
+   "plain_english": "On the seventh day, what is given should be an offering that brings satisfaction to Śiva."
+  },
+  {
+   "verse": 719,
+   "rows": [
+    {
+     "surface": "aṣṭame+hani",
+     "gloss": "on-eighth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "nidātavyam",
+     "gloss": "to-be-given",
+     "grounds": "obligation to place or offer",
+     "morph": "n.nom.sg (gerundive ni-√dā)"
+    },
+    {
+     "surface": "īśvara+prīti+siddhaye",
+     "gloss": "for-īśvara-satisfaction-accomplishment",
+     "grounds": "compound stating purpose",
+     "morph": "compound f.dat.sg"
+    }
+   ],
+   "question": "For what purpose is the offering on the eighth day to be given in this sequence?",
+   "premises": [
+    "An offering is prescribed on the eighth day.",
+    "Īśvara is named in relation to the offering.",
+    "The purpose is the accomplishment of satisfaction."
+   ],
+   "inference": "On the eighth day, an offering should be given to accomplish the satisfaction of Īśvara.",
+   "uncertainties": [],
+   "plain_english": "On the eighth day, an offering should be given for the accomplishment of Īśvara's satisfaction."
+  },
+  {
+   "verse": 720,
+   "rows": [
+    {
+     "surface": "navame+hani",
+     "gloss": "on-ninth-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "caṇḍeśa+prīti+hetave",
+     "gloss": "for-caṇḍeśa-satisfaction-cause",
+     "grounds": "compound stating purpose",
+     "morph": "compound m.dat.sg"
+    }
+   ],
+   "question": "For what purpose is the offering on the ninth day prescribed in this sequence?",
+   "premises": [
+    "An offering is prescribed on the ninth day.",
+    "Caṇḍeśa is named in relation to the offering.",
+    "The purpose is to cause satisfaction."
+   ],
+   "inference": "On the ninth day, an offering should be given to cause the satisfaction of Caṇḍeśa.",
+   "uncertainties": [],
+   "plain_english": "On the ninth day, an offering should be given for the sake of Caṇḍeśa's satisfaction."
+  },
+  {
+   "verse": 721,
+   "rows": [
+    {
+     "surface": "kathitāni",
+     "gloss": "declared",
+     "grounds": "referring to previously stated matters",
+     "morph": "n.nom.pl (past-passive-participle √kath)"
+    },
+    {
+     "surface": "ata",
+     "gloss": "from-here",
+     "grounds": "transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvantu",
+     "gloss": "above-but",
+     "grounds": "indicates what follows with particle tu fused",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "introduces further instruction",
+     "morph": "3.sg.present-passive (√kath)"
+    },
+    {
+     "surface": "dvādaśāhake",
+     "gloss": "in-twelve-day-period",
+     "grounds": "compound specifying ritual duration",
+     "morph": "compound n.loc.sg"
+    }
+   ],
+   "question": "What transition in the ritual schedule is announced after the preceding instructions?",
+   "premises": [
+    "The preceding matters have been declared.",
+    "A transition to what follows is indicated.",
+    "The next instructions concern a twelve-day period."
+   ],
+   "inference": "After what has been declared, the instructions for the twelve-day period are now being told.",
+   "uncertainties": [],
+   "plain_english": "What has been declared is complete; now what follows for the twelve-day period is being told."
+  },
+  {
+   "verse": 722,
+   "rows": [
+    {
+     "surface": "prathame+hani",
+     "gloss": "on-first-day",
+     "grounds": "compound specifying time",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "obligation to offer",
+     "morph": "n.nom.sg (gerundive √dā)"
+    },
+    {
+     "surface": "vighna+mantram",
+     "gloss": "obstacle-mantra",
+     "grounds": "compound naming mantra to be remembered",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "anusmaran",
+     "gloss": "remembering",
+     "grounds": "mental act accompanying offering",
+     "morph": "m.nom.sg (present-participle anu-√smṛ)"
+    }
+   ],
+   "question": "What mental act must accompany the offering on the first day of the twelve-day period?",
+   "premises": [
+    "An offering is prescribed on the first day.",
+    "The obstacle-mantra is named.",
+    "The agent should be remembering that mantra."
+   ],
+   "inference": "On the first day, one should give the offering while remembering the obstacle-mantra.",
+   "uncertainties": [],
+   "plain_english": "On the first day, one should make the offering while remembering the obstacle-mantra."
+  },
+  {
+   "verse": 723,
+   "rows": [
+    {
+     "surface": "ghṛta+matsya+samāyuktaṃ",
+     "gloss": "with-ghee-fish-joined",
+     "grounds": "compound describing offering contents",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "japā+kusuma+saṃyutam",
+     "gloss": "with-japā-flower-joined",
+     "grounds": "compound describing additional accompaniment",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "Which substances and flowers are specified as accompaniments for the offering in this instruction?",
+   "premises": [
+    "Ghee and fish are included together.",
+    "The japā flower is included as an accompaniment.",
+    "Both compounds describe what is joined to the offering."
+   ],
+   "inference": "The offering should be accompanied by ghee, fish, and japā flowers.",
+   "uncertainties": [],
+   "plain_english": "The offering should be joined with ghee and fish, and accompanied by japā flowers."
+  },
+  {
+   "verse": 724,
+   "rows": [
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "milk-rice",
+     "grounds": "food offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saktu+puṣpañca",
+     "gloss": "parched-flour-flower-and",
+     "grounds": "compound with connective particle fused",
+     "morph": "compound n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "padma+puṣpa+samanvitam",
+     "gloss": "with-lotus-flower-accompanied",
+     "grounds": "compound describing accompaniment",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What food and floral items are included in the offering described here?",
+   "premises": [
+    "Milk-rice is named as an offering item.",
+    "Parched flour and flowers are included.",
+    "Lotus flowers accompany the offering."
+   ],
+   "inference": "The offering includes milk-rice, parched flour and flowers, accompanied by lotus flowers.",
+   "uncertainties": [
+    "The exact referent of puṣpa in saktu+puṣpañca is not fully specified."
+   ],
+   "plain_english": "The offering includes milk-rice, parched flour and flowers, and is accompanied by lotus flowers."
+  }
+ ]
+}

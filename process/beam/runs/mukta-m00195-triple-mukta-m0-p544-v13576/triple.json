@@ -1,0 +1,1223 @@
+{
+ "song": "mukta-m0-p544",
+ "items": [
+  {
+   "verse": 13576,
+   "rows": [
+    {
+     "surface": "bhūrjjapatre",
+     "gloss": "on-birch-bark-leaf",
+     "grounds": "locative of material/support for drawing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-draw",
+     "grounds": "injunctive/optative sense prescribing ritual action",
+     "morph": "3.sg.act.opt √likh"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "object of the drawing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-pericarp",
+     "grounds": "locative indicating placement area",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "dhruva-syllable",
+     "grounds": "mantric syllable to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive ritual placement",
+     "morph": "3.sg.act.opt √nyas"
+    }
+   ],
+   "question": "Where must the lotus be drawn and the dhruva syllable placed?",
+   "premises": [
+    "A lotus should be drawn on birch bark.",
+    "The dhruva syllable should be placed in the pericarp."
+   ],
+   "inference": "The ritual diagram begins with a lotus on birch bark bearing dhruva in its pericarp.",
+   "uncertainties": [
+    "The exact identity of the dhruva syllable is not specified here."
+   ],
+   "plain_english": "One should draw a lotus on birch bark and place the dhruva syllable in its pericarp."
+  },
+  {
+   "verse": 13577,
+   "rows": [
+    {
+     "surface": "tatkesareṣu",
+     "gloss": "in-its-filaments",
+     "grounds": "locative compound referring to the lotus filaments",
+     "morph": "n.loc.pl (tat+kesara)"
+    },
+    {
+     "surface": "saṃlekhyaṃ",
+     "gloss": "should-be-written",
+     "grounds": "gerundive indicating what must be inscribed",
+     "morph": "n.nom.sg.gerundive √likh with sam"
+    },
+    {
+     "surface": "śrīṃ-hrīṃ-klīṃ",
+     "gloss": "śrīṃ-hrīṃ-klīṃ",
+     "grounds": "mantra syllables to be inscribed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "digaṣṭake",
+     "gloss": "in-eight-directions",
+     "grounds": "locative indicating distribution across eight directions",
+     "morph": "n.loc.sg (diś+aṣṭaka)"
+    }
+   ],
+   "question": "Which mantra syllables must be written in the lotus filaments across eight directions?",
+   "premises": [
+    "Writing is to be done in the lotus filaments.",
+    "The syllables śrīṃ, hrīṃ, and klīṃ are specified.",
+    "The placement extends across the eight directions."
+   ],
+   "inference": "The syllables śrīṃ, hrīṃ, and klīṃ should be inscribed in the filaments in the eight directions.",
+   "uncertainties": [
+    "The exact order or repetition pattern in each direction is not explicit."
+   ],
+   "plain_english": "In its filaments, one should write śrīṃ, hrīṃ, and klīṃ in the eight directions."
+  },
+  {
+   "verse": 13578,
+   "rows": [
+    {
+     "surface": "vācaṃ",
+     "gloss": "speech-seed",
+     "grounds": "bīja syllable associated with speech",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "illusion-seed",
+     "grounds": "bīja syllable associated with māyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ramāṃ",
+     "gloss": "fortune-seed",
+     "grounds": "bīja syllable associated with ramā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "desire-seed",
+     "grounds": "bīja syllable associated with kāma",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hasanau",
+     "gloss": "hasanau",
+     "grounds": "mantric elements named as pair",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker closing enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭakam",
+     "gloss": "seed-group",
+     "grounds": "designates the collected mantra block",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What components together constitute the specified mantra seed-group in this instruction?",
+   "premises": [
+    "The elements vācam, māyām, ramām, kāmam, and hasanau are listed.",
+    "The list is concluded with iti kūṭakam."
+   ],
+   "inference": "These named elements form a single mantra kūṭa.",
+   "uncertainties": [
+    "The exact syllabic forms corresponding to vācam, māyām, ramām, and kāmam are implied but not written explicitly."
+   ],
+   "plain_english": "Speech, māyā, ramā, kāma, and the pair hasanau together form the seed-group."
+  },
+  {
+   "verse": 13579,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "locative indicating area outside the previous part",
+     "morph": "n.loc.sg (tad+bāhya)"
+    },
+    {
+     "surface": "ṣoḍaśadale",
+     "gloss": "in-sixteen-petaled",
+     "grounds": "locative describing the lotus layer",
+     "morph": "n.loc.sg (ṣoḍaśa+dala)"
+    },
+    {
+     "surface": "kesareṣu",
+     "gloss": "in-filaments",
+     "grounds": "locative of placement within that layer",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "dvayaṃdvayam",
+     "gloss": "two-by-two",
+     "grounds": "distributive instruction for arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should elements be arranged in the filaments of the outer sixteen-petaled lotus?",
+   "premises": [
+    "The location is outside the previous structure.",
+    "The structure is a sixteen-petaled lotus.",
+    "The arrangement is specified as dvayaṃdvayam."
+   ],
+   "inference": "Elements are to be placed in pairs in the filaments of the outer sixteen-petaled lotus.",
+   "uncertainties": [
+    "Which specific elements are to be paired is supplied by adjacent verses."
+   ],
+   "plain_english": "Outside that, in the filaments of the sixteen-petaled lotus, place them two by two."
+  },
+  {
+   "verse": 13580,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "praṇava",
+     "grounds": "mantric syllable oṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor-seed",
+     "grounds": "protective bīja designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "keṃ-keṃ-kṣeṃ-kṣeṃ-śrīṃ-hrīṃ",
+     "gloss": "keṃ-keṃ-kṣeṃ-kṣeṃ-śrīṃ-hrīṃ",
+     "grounds": "sequence of mantra syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal or sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "indicates continuation beyond listed items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra syllables are prescribed in sequence for this stage of inscription?",
+   "premises": [
+    "The syllables tāra, hrīṃ, and kavaca are named.",
+    "The sequence keṃ-keṃ-kṣeṃ-kṣeṃ-śrīṃ-hrīṃ follows.",
+    "The verse indicates continuation thereafter."
+   ],
+   "inference": "A specific ordered mantra sequence is to be inscribed at this stage.",
+   "uncertainties": [
+    "The exact syllabic form of kavaca is not spelled out in this verse."
+   ],
+   "plain_english": "Use tāra, hrīṃ, the armor-seed, and then keṃ, keṃ, kṣeṃ, kṣeṃ, śrīṃ, hrīṃ, and after that continue."
+  },
+  {
+   "verse": 13581,
+   "rows": [
+    {
+     "surface": "sarvasaubhāgyadaṃ",
+     "gloss": "giving-all-good-fortune",
+     "grounds": "descriptive epithet of the mantra or formula",
+     "morph": "n.acc.sg (sarva+saubhāgya+da)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaduḥkhavimocanam",
+     "gloss": "releasing-from-all-suffering",
+     "grounds": "descriptive epithet indicating liberative effect",
+     "morph": "n.acc.sg (sarva+duḥkha+vimocana)"
+    }
+   ],
+   "question": "What beneficial effects are attributed to the prescribed mantra formula?",
+   "premises": [
+    "The formula is described as giving all good fortune.",
+    "The formula is also described as releasing from all suffering."
+   ],
+   "inference": "The prescribed mantra is credited with both auspicious and liberative powers.",
+   "uncertainties": [],
+   "plain_english": "It grants all good fortune and also frees one from all suffering."
+  },
+  {
+   "verse": 13582,
+   "rows": [
+    {
+     "surface": "ṣaṭkoṇamadhye",
+     "gloss": "in-middle-of-hexagon",
+     "grounds": "locative specifying the central area of a hexagon",
+     "morph": "n.loc.sg (ṣaṭkoṇa+madhya)"
+    },
+    {
+     "surface": "sādhyākhyāṃ",
+     "gloss": "target-name",
+     "grounds": "name of the intended person or object of the rite",
+     "morph": "f.acc.sg (sādhya+ākhyā)"
+    },
+    {
+     "surface": "bhuveneśīṃ",
+     "gloss": "bhuvaneśī",
+     "grounds": "name of the goddess to be written",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-write",
+     "grounds": "prescriptive ritual inscription",
+     "morph": "3.sg.act.opt √likh with sam+ā"
+    }
+   ],
+   "question": "What names must be inscribed within the middle of the hexagon?",
+   "premises": [
+    "The location specified is the middle of the hexagon.",
+    "The target's name is to be written.",
+    "The name Bhuvaneśī is to be written."
+   ],
+   "inference": "Both the target's name and the name Bhuvaneśī should be inscribed in the hexagon's center.",
+   "uncertainties": [
+    "The relative placement of the two names within the center is not specified."
+   ],
+   "plain_english": "In the middle of the hexagon, one should write the name of the target and the name Bhuvaneśī."
+  },
+  {
+   "verse": 13583,
+   "rows": [
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "indicates placement beyond the previous area",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśapatre",
+     "gloss": "in-twelve-petaled",
+     "grounds": "locative describing the lotus layer",
+     "morph": "n.loc.sg (dvādaśa+patra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "demonstrative referring to following letters",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "letters",
+     "grounds": "syllables or letters to be inscribed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-write",
+     "grounds": "prescriptive ritual inscription",
+     "morph": "3.sg.act.opt √likh with sam+ā"
+    }
+   ],
+   "question": "Where should the specified letters be written in the next outer layer?",
+   "premises": [
+    "The placement is outside the previous structure.",
+    "The layer is a twelve-petaled lotus.",
+    "These letters are to be written there."
+   ],
+   "inference": "The specified letters must be inscribed in the outer twelve-petaled lotus.",
+   "uncertainties": [],
+   "plain_english": "Outside, in the twelve-petaled lotus, one should write these letters."
+  },
+  {
+   "verse": 13584,
+   "rows": [
+    {
+     "surface": "drāṃ-drīṃ-klīṃ-blūṃ-sa",
+     "gloss": "drāṃ-drīṃ-klīṃ-blūṃ-sa",
+     "grounds": "sequence of syllables named as arrow-seeds",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker closing enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etair",
+     "gloss": "with-these",
+     "grounds": "instrumental referring to the listed syllables",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "bāṇabījaiḥ",
+     "gloss": "arrow-seed-syllables",
+     "grounds": "designation of the syllables as bāṇa-bījas",
+     "morph": "n.ins.pl (bāṇa+bīja)"
+    },
+    {
+     "surface": "praveṣṭayet",
+     "gloss": "one-should-fill",
+     "grounds": "causative instruction to fill or insert",
+     "morph": "3.sg.act.opt.caus √viś with pra"
+    }
+   ],
+   "question": "Which arrow-seed syllables must be used to fill the designated area?",
+   "premises": [
+    "The syllables drāṃ, drīṃ, klīṃ, blūṃ, and sa are listed.",
+    "They are identified as bāṇabījas.",
+    "They are to be used to fill the area."
+   ],
+   "inference": "The designated area should be filled using these arrow-seed syllables.",
+   "uncertainties": [
+    "The token ends with sa rather than saḥ as in the legacy hint; the surface is followed as given."
+   ],
+   "plain_english": "With these arrow-seed syllables—drāṃ, drīṃ, klīṃ, blūṃ, sa—one should fill it."
+  },
+  {
+   "verse": 13585,
+   "rows": [
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantric utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marker identifying the utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśārṇena",
+     "gloss": "with-eleven-syllabled",
+     "grounds": "instrumental describing a formula of eleven syllables",
+     "morph": "n.ins.sg (ekādaśa+arṇa)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "one-should-enclose",
+     "grounds": "causative instruction to surround",
+     "morph": "3.sg.act.opt.caus √veṣṭ"
+    },
+    {
+     "surface": "mātṛkārṇakaiḥ",
+     "gloss": "with-mātṛkā-syllables",
+     "grounds": "instrumental specifying enclosing syllables",
+     "morph": "n.ins.pl (mātṛkā+arṇaka)"
+    },
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "ordinal indicating a third enclosure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadbahiḥ",
+     "gloss": "outside-that",
+     "grounds": "locative/indeclinable indicating outer position",
+     "morph": "(indecl.) (tad+bahis)"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "bhūpure",
+     "gloss": "in-ground-enclosure",
+     "grounds": "locative indicating the bhūpura",
+     "morph": "n.loc.sg (bhū+pura)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkaram",
+     "gloss": "śaṅkara",
+     "grounds": "name or element to be placed in the bhūpura",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What enclosures and placement in the bhūpura are prescribed after the previous inscription?",
+   "premises": [
+    "An enclosure is made with the eleven-syllabled svāhā formula.",
+    "A third enclosure is made outside that with mātṛkā syllables.",
+    "Śaṅkara is to be placed in the bhūpura."
+   ],
+   "inference": "The diagram receives successive enclosures and includes Śaṅkara in the bhūpura.",
+   "uncertainties": [
+    "The exact identity or form of Śaṅkara in this context is not fully specified."
+   ],
+   "plain_english": "One should enclose it with the eleven-syllabled svāhā, make a third enclosure outside that with mātṛkā syllables, and indeed place Śaṅkara in the bhūpura."
+  },
+  {
+   "verse": 13586,
+   "rows": [
+    {
+     "surface": "koṣṭhe",
+     "gloss": "in-cell",
+     "grounds": "locative indicating a compartment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "prescriptive ritual inscription",
+     "morph": "3.sg.act.opt √likh"
+    },
+    {
+     "surface": "cakārantu",
+     "gloss": "letter-ca",
+     "grounds": "the syllable ca to be written; sandhi with tu",
+     "morph": "m.acc.sg (cakāra+tu)"
+    },
+    {
+     "surface": "sādhyanāmā",
+     "gloss": "target-name",
+     "grounds": "name of the intended target",
+     "morph": "n.nom.sg (sādhya+nāman)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers back to the written letter or element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "codare",
+     "gloss": "and-in-interior",
+     "grounds": "locative with connective particle indicating inside it",
+     "morph": "n.loc.sg (ca+udara)"
+    }
+   ],
+   "question": "Where must the letter ca and the target's name be written in the cell?",
+   "premises": [
+    "The letter ca is to be written in a cell.",
+    "The target's name is to be placed in its interior."
+   ],
+   "inference": "The cell should contain the letter ca with the target's name inside it.",
+   "uncertainties": [
+    "The exact parsing of cakārantu as a fused form is retained as given."
+   ],
+   "plain_english": "In a cell one should write the letter ca, and place the target's name inside it."
+  },
+  {
+   "verse": 13587,
+   "rows": [
+    {
+     "surface": "jñāṃ",
+     "gloss": "jñāṃ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃ",
+     "gloss": "saṃ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṃ",
+     "gloss": "caṃ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃ",
+     "gloss": "vaṃ",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates sequential or similar placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaikam",
+     "gloss": "one-by-one",
+     "grounds": "distributive instruction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "akṣaraṃ",
+     "gloss": "syllable",
+     "grounds": "each syllable to be placed individually",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśakoṇataḥ",
+     "gloss": "from-īśa-corner",
+     "grounds": "directional starting point for placement",
+     "morph": "(indecl.) (īśa+koṇa+tas)"
+    }
+   ],
+   "question": "From which corner must the syllables jñāṃ, saṃ, caṃ, and vaṃ be placed one by one?",
+   "premises": [
+    "The syllables jñāṃ, saṃ, caṃ, and vaṃ are listed.",
+    "Each syllable is to be placed one by one.",
+    "The starting point is the īśa corner."
+   ],
+   "inference": "These syllables should be placed individually beginning from the īśa corner.",
+   "uncertainties": [],
+   "plain_english": "Likewise, place the syllables jñāṃ, saṃ, caṃ, and vaṃ one by one, starting from the īśa corner."
+  },
+  {
+   "verse": 13588,
+   "rows": [
+    {
+     "surface": "evameva",
+     "gloss": "in-the-same-way",
+     "grounds": "indeclinable indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nairṛtyād",
+     "gloss": "from-southwest",
+     "grounds": "directional term indicating starting point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vāyavyāntaṃ",
+     "gloss": "up-to-northwest",
+     "grounds": "compound indicating endpoint in northwest direction",
+     "morph": "m.acc.sg (vāyavya+anta)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "indeclinable indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "injunctive instruction for ritual writing",
+     "morph": "3.sg.act-optative √likh"
+    }
+   ],
+   "question": "What directional sequence must be followed when writing the next syllables again?",
+   "premises": [
+    "The writing is to be done in the same manner as before.",
+    "The sequence begins from the southwest direction.",
+    "The sequence extends up to the northwest direction."
+   ],
+   "inference": "One should again write the syllables in the same manner from the southwest to the northwest.",
+   "uncertainties": [],
+   "plain_english": "In the same way, one should again write from the southwest direction up to the northwest."
+  },
+  {
+   "verse": 13589,
+   "rows": [
+    {
+     "surface": "oṃ-hrīṃ-hraṃ-kheṃ",
+     "gloss": "oṃ-hrīṃ-hraṃ-kheṃ",
+     "grounds": "sequence of seed syllables to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣeṃ",
+     "gloss": "kṣeṃ",
+     "grounds": "seed syllable to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaḥ",
+     "gloss": "kṣaḥ",
+     "grounds": "seed syllable to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "strīṃ-hraṃ-kṣaṃ-hrīṃ",
+     "gloss": "strīṃ-hraṃ-kṣaṃ-hrīṃ",
+     "grounds": "sequence of seed syllables to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṣaṇmanuḥ",
+     "gloss": "vaṣaṭ-mantra",
+     "grounds": "compound naming the concluding mantra",
+     "morph": "m.nom.sg (vaṣaṭ+manu)"
+    }
+   ],
+   "question": "Which specific syllables and concluding mantra form the sequence to be written?",
+   "premises": [
+    "The sequence includes the syllables oṃ, hrīṃ, hraṃ, and kheṃ.",
+    "The sequence continues with kṣeṃ, kṣaḥ, and strīṃ, hraṃ, kṣaṃ, hrīṃ.",
+    "The sequence concludes with the vaṣaṭ mantra."
+   ],
+   "inference": "The prescribed sequence to be written is oṃ-hrīṃ-hraṃ-kheṃ, kṣeṃ, kṣaḥ, strīṃ-hraṃ-kṣaṃ-hrīṃ, followed by the vaṣaṭ mantra.",
+   "uncertainties": [],
+   "plain_english": "One should write oṃ-hrīṃ-hraṃ-kheṃ, kṣeṃ, kṣaḥ, strīṃ-hraṃ-kṣaṃ-hrīṃ, and the vaṣaṭ mantra."
+  },
+  {
+   "verse": 13590,
+   "rows": [
+    {
+     "surface": "caṃ",
+     "gloss": "caṃ",
+     "grounds": "seed syllable to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālikāṃ",
+     "gloss": "garland",
+     "grounds": "object formed by the written syllables",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "compound indicating location outside the previous element",
+     "morph": "n.loc.sg (tad+bāhya)"
+    },
+    {
+     "surface": "kumbhaṃ",
+     "gloss": "pitcher",
+     "grounds": "ritual diagram or vessel to be drawn",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction for ritual construction",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "suśobhanam",
+     "gloss": "very-beautiful",
+     "grounds": "describes the quality of the pitcher",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual elements must be formed outside the previously written syllable garland?",
+   "premises": [
+    "The syllable caṃ is written as a garland.",
+    "A pitcher is to be made outside that garland.",
+    "The pitcher should be very beautiful."
+   ],
+   "inference": "One should form a garland of caṃ and then make a very beautiful pitcher outside it.",
+   "uncertainties": [],
+   "plain_english": "Then one should make a garland of caṃ and, outside that, a very beautiful pitcher."
+  },
+  {
+   "verse": 13591,
+   "rows": [
+    {
+     "surface": "kuṃkumair",
+     "gloss": "with-saffron",
+     "grounds": "material used for writing",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "lākṣayā",
+     "gloss": "with-lac",
+     "grounds": "material used for writing",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhitaṃ",
+     "gloss": "written",
+     "grounds": "describes the completed inscription",
+     "morph": "n.nom.sg (past-passive-participle √likh)"
+    },
+    {
+     "surface": "svarṇapaṭṭake",
+     "gloss": "on-gold-plate",
+     "grounds": "compound indicating the surface for writing",
+     "morph": "n.loc.sg (svarṇa+paṭṭaka)"
+    }
+   ],
+   "question": "With what materials and on what surface must the diagram be inscribed?",
+   "premises": [
+    "The inscription is made with saffron and lac.",
+    "The writing is completed on a gold plate.",
+    "These materials and surface are prescribed for the diagram."
+   ],
+   "inference": "The diagram should be written with saffron and lac on a gold plate.",
+   "uncertainties": [],
+   "plain_english": "It should be written with saffron and lac on a gold plate."
+  },
+  {
+   "verse": 13592,
+   "rows": [
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "ritual action preceding the result",
+     "morph": "(absolutive √pūj with sam)"
+    },
+    {
+     "surface": "japasaṃsiddhiṃ",
+     "gloss": "recitation-success",
+     "grounds": "compound naming the desired attainment",
+     "morph": "f.acc.sg (japa+saṃsiddhi)"
+    },
+    {
+     "surface": "prāpnuyād",
+     "gloss": "one-may-obtain",
+     "grounds": "expresses the attainable result",
+     "morph": "3.sg.act-optative √āp with pra"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "wherever",
+     "grounds": "indeclinable indicating any place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable correlative indicating place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle of emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result can be obtained by worshipping the inscribed diagram in any place?",
+   "premises": [
+    "The inscribed diagram is to be worshipped.",
+    "Success in recitation is the stated attainment.",
+    "This attainment is possible wherever the worship is performed."
+   ],
+   "inference": "By worshipping it, one may obtain success in recitation wherever one may be.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped it, one may indeed obtain success in recitation wherever one is."
+  },
+  {
+   "verse": 13593,
+   "rows": [
+    {
+     "surface": "gajāśvapaśavas",
+     "gloss": "elephants-horses-cattle",
+     "grounds": "compound listing types of animals",
+     "morph": "m.nom.pl (gaja+aśva+paśu)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "indeclinable particle connecting items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "other",
+     "grounds": "refers to additional beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sukhinaḥ",
+     "gloss": "happy",
+     "grounds": "describes the condition of beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāṇino",
+     "gloss": "living-beings",
+     "grounds": "general term for creatures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhṛśam",
+     "gloss": "greatly",
+     "grounds": "indeclinable intensifying degree",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What beneficial condition extends to animals and other living beings through this practice?",
+   "premises": [
+    "Elephants, horses, and cattle are included among the beneficiaries.",
+    "Other living beings are also included.",
+    "These beings become greatly happy."
+   ],
+   "inference": "Elephants, horses, cattle, and other living beings become greatly happy.",
+   "uncertainties": [],
+   "plain_english": "Elephants, horses, cattle, and other living beings become greatly happy."
+  },
+  {
+   "verse": 13594,
+   "rows": [
+    {
+     "surface": "alakṣmī",
+     "gloss": "misfortune",
+     "grounds": "negative condition to be removed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "indeclinable indicating speed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-attainment",
+     "grounds": "purpose of the practice",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sarvasampadām",
+     "gloss": "of-all-prosperities",
+     "grounds": "compound naming the desired attainments",
+     "morph": "f.gen.pl (sarva+sampad)"
+    }
+   ],
+   "question": "What removal of misfortune and attainment of prosperity result from this practice?",
+   "premises": [
+    "Misfortune is addressed by the practice.",
+    "The attainment of all prosperities is the goal.",
+    "These results occur quickly."
+   ],
+   "inference": "Misfortune is removed and all prosperities are quickly attained.",
+   "uncertainties": [
+    "The syntactic role of alakṣmī is compressed; it may imply removal or pacification."
+   ],
+   "plain_english": "Misfortune departs quickly, and all prosperities are attained."
+  },
+  {
+   "verse": 13595,
+   "rows": [
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the described diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantrottamaṃ",
+     "gloss": "supreme-diagram",
+     "grounds": "compound praising the diagram",
+     "morph": "n.nom.sg (yantra+uttama)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "states the authoritative teaching",
+     "morph": "n.nom.sg (past-passive-participle √vac with pra)"
+    },
+    {
+     "surface": "tvaritāyā",
+     "gloss": "of-tvaritā",
+     "grounds": "names the deity associated with the diagram",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ghaṭārgalam",
+     "gloss": "ghaṭārgala",
+     "grounds": "proper name of the diagram",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and status are assigned to this supreme diagram of Tvaritā?",
+   "premises": [
+    "The described diagram is declared to be supreme.",
+    "It belongs to the goddess Tvaritā.",
+    "It is named Ghaṭārgala."
+   ],
+   "inference": "This supreme diagram of Tvaritā is declared to be the Ghaṭārgala.",
+   "uncertainties": [],
+   "plain_english": "This supreme diagram of Tvaritā is declared to be the Ghaṭārgala."
+  },
+  {
+   "verse": 13596,
+   "rows": [
+    {
+     "surface": "hrīṃkāraṃ",
+     "gloss": "syllable-hrīṃ",
+     "grounds": "seed syllable to be placed",
+     "morph": "m.acc.sg (hrīṃ+kāra)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative referring to the syllable or diagram",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location for writing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle marking instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyanāma",
+     "gloss": "target-name",
+     "grounds": "compound naming the intended person or object",
+     "morph": "n.acc.sg (sādhya+nāma)"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-write",
+     "grounds": "injunctive instruction for ritual writing",
+     "morph": "3.sg.act-optative √likh with sam+ā"
+    }
+   ],
+   "question": "Where must the syllable hrīṃ and the target’s name be written in this diagram?",
+   "premises": [
+    "The syllable hrīṃ is to be written.",
+    "The name of the target is to be written.",
+    "Both are placed in the middle of that element."
+   ],
+   "inference": "One should write the syllable hrīṃ and, in its middle, the name of the target.",
+   "uncertainties": [],
+   "plain_english": "One should write the syllable hrīṃ and, in its middle, write the name of the target."
+  },
+  {
+   "verse": 13597,
+   "rows": [
+    {
+     "surface": "tvaritāyā",
+     "gloss": "of-tvaritā",
+     "grounds": "names the central mantra or deity element",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "indeclinable indicating external position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive instruction for construction",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "ṣaṭkoṇaṃ",
+     "gloss": "hexagon",
+     "grounds": "geometric figure to be drawn",
+     "morph": "m.acc.sg (ṣaṣ+koṇa)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahiś",
+     "gloss": "outside",
+     "grounds": "indeclinable indicating further external position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-proceed",
+     "grounds": "instruction to continue outward",
+     "morph": "3.sg.act-optative √car"
+    }
+   ],
+   "question": "What geometric structure must be drawn outside Tvaritā and how should one continue outward?",
+   "premises": [
+    "A hexagon is to be made outside Tvaritā.",
+    "The construction continues further outside.",
+    "One should proceed outward in this manner."
+   ],
+   "inference": "One should make a hexagon outside Tvaritā and continue further outward.",
+   "uncertainties": [],
+   "plain_english": "Outside Tvaritā one should make a hexagon and proceed further outward."
+  },
+  {
+   "verse": 13598,
+   "rows": [
+    {
+     "surface": "rakṣojayaḥ",
+     "gloss": "victory-over-demons",
+     "grounds": "compound naming the attained result",
+     "morph": "m.nom.sg (rakṣas+jaya)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "expresses possible result",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "saṃgrāme",
+     "gloss": "in-battle",
+     "grounds": "context for victory",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vivāde",
+     "gloss": "in-dispute",
+     "grounds": "context for victory",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vijayas",
+     "gloss": "victory",
+     "grounds": "result attained in dispute",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating parallel result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What victories in battle and dispute are achieved through this diagram?",
+   "premises": [
+    "Victory over demons may occur in battle.",
+    "Victory may likewise occur in dispute.",
+    "These outcomes are results of the diagram."
+   ],
+   "inference": "There may be victory over demons in battle and likewise victory in dispute.",
+   "uncertainties": [],
+   "plain_english": "There may be victory over demons in battle and likewise victory in dispute."
+  },
+  {
+   "verse": 13599,
+   "rows": [
+    {
+     "surface": "navavyūhābhidhaṃ",
+     "gloss": "called-nine-array",
+     "grounds": "compound giving the name of the diagram",
+     "morph": "n.nom.sg (nava+vyūha+abhidha)"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual diagram being named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navavargādināmake",
+     "gloss": "in-section-named-nine-group",
+     "grounds": "compound locating the teaching in a named section",
+     "morph": "m.loc.sg (nava+varga+ādi+nāmaka)"
+    }
+   ],
+   "question": "What is the name of this diagram and in which named section is it presented?",
+   "premises": [
+    "The diagram is called Navavyūha.",
+    "It is presented in a section named Navavarga and so forth.",
+    "This verse identifies the diagram within that section."
+   ],
+   "inference": "The diagram called Navavyūha is presented in the section named Navavarga and so forth.",
+   "uncertainties": [
+    "The verse is syntactically compressed and may continue into the next verse."
+   ],
+   "plain_english": "This is the diagram called Navavyūha, in the section named Navavarga and so forth."
+  }
+ ]
+}

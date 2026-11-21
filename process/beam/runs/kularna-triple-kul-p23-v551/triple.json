@@ -1,0 +1,516 @@
+{
+ "song": "kul-p23",
+ "items": [
+  {
+   "verse": 551,
+   "rows": [
+    {
+     "surface": "tadgandhāghrāṇamātreṇa",
+     "gloss": "by-that-fragrance-smelling-only",
+     "grounds": "compound of that, fragrance, smelling, only in instrumental",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "śatakratuphalaṃ",
+     "gloss": "indra-fruit",
+     "grounds": "compound of indra and fruit in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtain",
+     "grounds": "root labh optative third singular",
+     "morph": "3.sg.atm.opt"
+    }
+   ],
+   "question": "What fruit is obtained by merely smelling that fragrance?",
+   "premises": [
+    "smelling that fragrance alone yields indra's fruit",
+    "the result is obtained by smelling"
+   ],
+   "inference": "fragrance-smelling suffices for indra-fruit",
+   "uncertainties": [
+    "compound boundaries inferred from legacy hint"
+   ],
+   "plain_english": "By merely smelling that fragrance, one obtains Indra's fruit."
+  },
+  {
+   "verse": 552,
+   "rows": [
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to devi",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "tatpānataḥ",
+     "gloss": "from-drinking-that",
+     "grounds": "compound of that, drinking, from",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtain",
+     "grounds": "root labh optative third singular",
+     "morph": "3.sg.atm.opt"
+    },
+    {
+     "surface": "muktiṃ",
+     "gloss": "liberation",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "catuvīdhām",
+     "gloss": "fourfold",
+     "grounds": "accusative singular feminine adjective",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What is obtained directly from drinking that?",
+   "premises": [
+    "drinking that directly yields liberation",
+    "the liberation obtained is fourfold"
+   ],
+   "inference": "direct drinking yields fourfold liberation",
+   "uncertainties": [
+    "tatpānataḥ internal sandhi not split"
+   ],
+   "plain_english": "Goddess, by drinking that directly one obtains fourfold liberation."
+  },
+  {
+   "verse": 553,
+   "rows": [
+    {
+     "surface": "tatsvāde",
+     "gloss": "in-that-taste",
+     "grounds": "compound of that and taste in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kriyāśaktiḥ",
+     "gloss": "action-power",
+     "grounds": "compound of action and power in nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tadullāse",
+     "gloss": "in-that-exaltation",
+     "grounds": "compound of that and exaltation in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "nominative singular feminine adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "established",
+     "grounds": "past participle feminine nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Where is supreme action-power established?",
+   "premises": [
+    "action-power is established in that taste",
+    "supreme action-power is established in that exaltation"
+   ],
+   "inference": "supreme action-power resides in taste and exaltation",
+   "uncertainties": [
+    "tatsvāde and tadullāse locative readings inferred"
+   ],
+   "plain_english": "In that taste is action-power; in that exaltation the supreme is established."
+  },
+  {
+   "verse": 554,
+   "rows": [
+    {
+     "surface": "tāsāmekāṃ",
+     "gloss": "one-of-those",
+     "grounds": "compound of those and one in accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "samāhṛtya",
+     "gloss": "gathering",
+     "grounds": "absolutive from samāhṛ",
+     "morph": "abs"
+    },
+    {
+     "surface": "pūjākarma",
+     "gloss": "worship-rite",
+     "grounds": "compound of worship and rite in accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "perform",
+     "grounds": "optative third singular from samācar",
+     "morph": "3.sg.par.opt"
+    }
+   ],
+   "question": "How should one perform the worship rite?",
+   "premises": [
+    "one gathers one of those",
+    "one performs the worship rite"
+   ],
+   "inference": "gather one and perform worship rite",
+   "uncertainties": [
+    "tāsāmekāṃ internal sandhi not split"
+   ],
+   "plain_english": "Gathering one of those, one should perform the worship rite."
+  },
+  {
+   "verse": 555,
+   "rows": [
+    {
+     "surface": "madyābhāve",
+     "gloss": "in-wine-absence",
+     "grounds": "compound of wine, absence, in locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vaṭikāṃ",
+     "gloss": "pill",
+     "grounds": "accusative singular feminine",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "locative singular neuter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "saṃyujya",
+     "gloss": "joining",
+     "grounds": "absolutive from saṃyuj",
+     "morph": "abs"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "satisfy",
+     "grounds": "optative third singular causative from tṛp",
+     "morph": "3.sg.par.opt"
+    }
+   ],
+   "question": "How should one satisfy when wine is absent?",
+   "premises": [
+    "in absence of wine use a pill",
+    "join it in water and satisfy"
+   ],
+   "inference": "pill joined in water satisfies when wine absent",
+   "uncertainties": [
+    "vaṭikāṃ gender inferred from ending"
+   ],
+   "plain_english": "In the absence of wine, join a pill in water and satisfy."
+  },
+  {
+   "verse": 556,
+   "rows": [
+    {
+     "surface": "pramādād",
+     "gloss": "from-negligence",
+     "grounds": "ablative singular masculine",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "yadi lupyeta",
+     "gloss": "if-lost",
+     "grounds": "conditional clause with optative passive",
+     "morph": "cond"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "deity-curse",
+     "grounds": "compound of deity and curse in accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtain",
+     "grounds": "optative third singular from āp",
+     "morph": "3.sg.par.opt"
+    }
+   ],
+   "question": "What is obtained if something is lost through negligence?",
+   "premises": [
+    "negligence may cause loss",
+    "loss brings deity curse",
+    "one obtains that curse"
+   ],
+   "inference": "negligence leading to loss brings deity curse",
+   "uncertainties": [
+    "yadi lupyeta treated as one token per source"
+   ],
+   "plain_english": "If through negligence it is lost, one obtains the deity's curse."
+  },
+  {
+   "verse": 557,
+   "rows": [
+    {
+     "surface": "māṃsadarśanamātreṇa",
+     "gloss": "meat-sight-only",
+     "grounds": "compound of meat, sight, and only; instrumental case",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "surādarśanavat",
+     "gloss": "wine-sight-like",
+     "grounds": "comparative suffix vat attached to wine-sight compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or fruit of the act",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fruit follows from merely seeing meat or wine?",
+   "premises": [
+    "Meat sight alone yields fruit.",
+    "Wine sight is analogous.",
+    "Fruit is the result."
+   ],
+   "inference": "Merely seeing meat or wine produces a fruit or result.",
+   "uncertainties": [
+    "The exact ritual fruit is unspecified."
+   ],
+   "plain_english": "By merely seeing meat, as by seeing wine, there is a fruit or result."
+  },
+  {
+   "verse": 558,
+   "rows": [
+    {
+     "surface": "ātmārthaṃ",
+     "gloss": "self-for",
+     "grounds": "purpose for oneself",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāṇināṃ",
+     "gloss": "beings-of",
+     "grounds": "genitive plural of beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hiṃsā",
+     "gloss": "harm",
+     "grounds": "injury or violence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kadācinnoditā",
+     "gloss": "ever-not-taught",
+     "grounds": "ever plus not plus taught",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is harming beings for oneself ever taught, beloved?",
+   "premises": [
+    "Harm to beings is named.",
+    "The purpose is for oneself.",
+    "It is said never taught."
+   ],
+   "inference": "Harming beings for one's own sake is never taught.",
+   "uncertainties": [
+    "The exact scope of beings is unspecified."
+   ],
+   "plain_english": "Harm to beings for one's own sake is never taught, beloved."
+  },
+  {
+   "verse": 559,
+   "rows": [
+    {
+     "surface": "devatārthaṃ",
+     "gloss": "deity-for",
+     "grounds": "purpose for a deity",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvijārtha",
+     "gloss": "twice-born-for",
+     "grounds": "purpose for a twice-born",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hatvā",
+     "gloss": "killing",
+     "grounds": "absolutive of killing",
+     "morph": "absol."
+    },
+    {
+     "surface": "pāpairna",
+     "gloss": "sins-by-not",
+     "grounds": "fused form with negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "touched",
+     "grounds": "passive verb of touching",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Does killing for deity or twice-born touch one with sin?",
+   "premises": [
+    "Killing may be for deity.",
+    "Killing may be for twice-born.",
+    "Sin does not touch."
+   ],
+   "inference": "Killing for deity or twice-born does not touch one with sin.",
+   "uncertainties": [
+    "The fused negation is interpreted from context."
+   ],
+   "plain_english": "Killing for a deity or for a twice-born does not make one touched by sin."
+  },
+  {
+   "verse": 560,
+   "rows": [
+    {
+     "surface": "mannimittaṃ",
+     "gloss": "my-cause",
+     "grounds": "cause or reason of me",
+     "morph": "indecl."
+    },
+    {
+     "surface": "caret",
+     "gloss": "do",
+     "grounds": "third person singular verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "sinful act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "meritorious result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "third person singular verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "śāmbhavi",
+     "gloss": "śāmbhavī",
+     "grounds": "vocative address to Śāmbhavī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "If one does sin for my cause, does it become merit, Śāmbhavī?",
+   "premises": [
+    "Sin is done for my cause.",
+    "Merit becomes the result.",
+    "Śāmbhavī is addressed."
+   ],
+   "inference": "Sin done for my cause becomes merit.",
+   "uncertainties": [
+    "The exact causal mechanism is unspecified."
+   ],
+   "plain_english": "If one does sin for my cause, it becomes merit, O Śāmbhavī."
+  },
+  {
+   "verse": 561,
+   "rows": [
+    {
+     "surface": "śrīkauladarśane cāpi",
+     "gloss": "śrī-kaula-sight-in-also",
+     "grounds": "fused phrase with also",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhairaveṇa",
+     "gloss": "by-bhairava",
+     "grounds": "instrumental of Bhairava",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "mahātmanā",
+     "gloss": "great-soul",
+     "grounds": "instrumental of great soul",
+     "morph": "m.instr.sg"
+    }
+   ],
+   "question": "Who is beheld in śrīkaula sight by great-souled Bhairava?",
+   "premises": [
+    "Śrīkaula sight is named.",
+    "Bhairava is great-souled.",
+    "Beholding is implied."
+   ],
+   "inference": "Great-souled Bhairava beholds in śrīkaula sight.",
+   "uncertainties": [
+    "The object beheld is not explicit."
+   ],
+   "plain_english": "In śrīkaula sight, great-souled Bhairava beholds."
+  },
+  {
+   "verse": 562,
+   "rows": [
+    {
+     "surface": "tatkarma",
+     "gloss": "that-rite",
+     "grounds": "that plus rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "you",
+     "grounds": "dative or genitive of you",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "prakurvanti",
+     "gloss": "perform",
+     "grounds": "third person plural verb",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "saptakoṭimunīśvarāḥ",
+     "gloss": "seven-crore-sage-lords",
+     "grounds": "compound of seven crore sage lords",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who performs that rite for you?",
+   "premises": [
+    "That rite is named.",
+    "Seven crore sage-lords perform.",
+    "They perform for you."
+   ],
+   "inference": "Seven crore sage-lords perform that rite for you.",
+   "uncertainties": [
+    "The exact ritual context is unspecified."
+   ],
+   "plain_english": "Seven crore sage-lords perform that rite for you."
+  }
+ ]
+}

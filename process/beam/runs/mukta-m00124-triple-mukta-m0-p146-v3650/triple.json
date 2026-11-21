@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3650,
+   "rows": [
+    {
+     "surface": "catur+vidhā",
+     "gloss": "fourfold",
+     "grounds": "fused compound; legacy hint fourfold",
+     "morph": "compound (catur+vidhā)"
+    },
+    {
+     "surface": "lupā+saṃkhyā",
+     "gloss": "spire-count",
+     "grounds": "fused compound; legacy hint spire-count",
+     "morph": "compound (lupā+saṃkhyā)"
+    },
+    {
+     "surface": "deve",
+     "gloss": "in-god",
+     "grounds": "locative singular of deva; legacy hint in-god's",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devyāḥ",
+     "gloss": "in-goddess",
+     "grounds": "genitive/locative singular of devī; legacy hint in-goddess's",
+     "morph": "f.gen/loc.sg"
+    },
+    {
+     "surface": "niketane",
+     "gloss": "in-temple",
+     "grounds": "locative singular of niketana; legacy hint temple",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is the fourfold spire-count arrangement in god's and goddess's temple?",
+   "premises": [
+    "fourfold spire-count applies",
+    "temple context is divine",
+    "god and goddess are named"
+   ],
+   "inference": "The verse states a fourfold spire-count for divine temples.",
+   "uncertainties": [
+    "exact temple context unclear"
+   ],
+   "plain_english": "The spire-count is fourfold in the temple of god and goddess."
+  }
+ ]
+}

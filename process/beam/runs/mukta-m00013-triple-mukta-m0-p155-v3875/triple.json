@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p155",
+ "items": [
+  {
+   "verse": 3875,
+   "rows": [
+    {
+     "surface": "guda+meḍhra+antare",
+     "gloss": "anus-genitals-between",
+     "grounds": "locative compound indicating the bodily region between anus and genitals",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "refers to the power to be awakened",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the aforementioned power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ākuñcya",
+     "gloss": "having-contracted",
+     "grounds": "absolutive expressing the action performed prior to awakening",
+     "morph": "gerund (ā-√kuñc)"
+    },
+    {
+     "surface": "prabodhayet",
+     "gloss": "one-should-awaken",
+     "grounds": "prescriptive instruction for awakening the power",
+     "morph": "3.sg.act.optative (pra-√budh)"
+    }
+   ],
+   "question": "By what bodily action and at what location is that power to be awakened?",
+   "premises": [
+    "The specified location is between the anus and the genitals.",
+    "That power is the object to be awakened.",
+    "Contracting that power is the prescribed preparatory action."
+   ],
+   "inference": "One should awaken that power by contracting it in the region between the anus and the genitals.",
+   "uncertainties": [],
+   "plain_english": "Having contracted that power in the space between the anus and the genitals, one should awaken it."
+  }
+ ]
+}

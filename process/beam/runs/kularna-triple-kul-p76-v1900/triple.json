@@ -1,0 +1,44 @@
+{
+ "song": "kul-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "vaśyakarmāṇi",
+     "gloss": "subjugation-rites",
+     "grounds": "compound vaśya+karman; accusative plural neuter",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "accusative plural neuter agreeing with rites",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "vidhinānena",
+     "gloss": "by-this-rite",
+     "grounds": "instrumental singular masculine of vidhi with demonstrative anena",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause-to-do",
+     "grounds": "causative optative third singular active of kṛ",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What subjugation rites should one cause to be done by this rite?",
+   "premises": [
+    "All subjugation rites are to be caused.",
+    "This rite is the means."
+   ],
+   "inference": "One should cause all subjugation rites to be performed by this rite.",
+   "uncertainties": [
+    "gender of vidhi assumed masculine"
+   ],
+   "plain_english": "By this rite, one should cause all subjugation rites to be performed."
+  }
+ ]
+}

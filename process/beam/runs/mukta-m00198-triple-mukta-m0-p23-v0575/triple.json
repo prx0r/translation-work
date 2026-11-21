@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-staff-measure",
+     "grounds": "measurement term for a length of two daṇḍas",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sārdhadvidaṇḍaṃ",
+     "gloss": "two-and-a-half-staff-measure",
+     "grounds": "compound indicating two daṇḍas plus a half",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "niche",
+     "grounds": "architectural recess or niche element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nālaṃbanaṃ",
+     "gloss": "not-supported",
+     "grounds": "negated compound indicating absence of support",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samam",
+     "gloss": "even",
+     "grounds": "describes level or uniform alignment",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What prescribed dimensions and structural condition define the niche in this architectural specification?",
+   "premises": [
+    "The niche may measure two staff-units.",
+    "Alternatively, the niche may measure two-and-a-half staff-units.",
+    "The niche is specified as unsupported and even."
+   ],
+   "inference": "The niche is to be constructed at either of two prescribed measures while remaining unsupported and level.",
+   "uncertainties": [
+    "The exact architectural referent of nīvraṃ in this context is inferred from usage.",
+    "The specific unit standard for daṇḍa is not stated in this verse."
+   ],
+   "plain_english": "The niche should be two daṇḍas or two and a half daṇḍas, unsupported and even."
+  }
+ ]
+}

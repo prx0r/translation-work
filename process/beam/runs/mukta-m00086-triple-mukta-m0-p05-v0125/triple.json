@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "a-pūrvāṃs",
+     "gloss": "unprecedented",
+     "grounds": "accusative plural object of worship; describes entities not previously mentioned",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "demonstrative pronoun referring to specified locations",
+     "morph": "pron.loc.pl"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "corners",
+     "grounds": "locative plural indicating place of worship",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-seat",
+     "grounds": "genitive specifying the seat or base",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "upari",
+     "gloss": "above",
+     "grounds": "indeclinable indicating position over the seat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.opt.act (√pūj)"
+    }
+   ],
+   "question": "Which unprecedented entities must be worshipped in the corners above the seat?",
+   "premises": [
+    "The prescribed ritual action is worship.",
+    "The specified location is in those corners above the seat.",
+    "The objects of worship are characterized as unprecedented."
+   ],
+   "inference": "One should worship the unprecedented entities in those corners above the seat.",
+   "uncertainties": [
+    "The specific identity of the unprecedented entities is not stated in this verse."
+   ],
+   "plain_english": "One should worship the unprecedented ones in those corners above the seat."
+  }
+ ]
+}

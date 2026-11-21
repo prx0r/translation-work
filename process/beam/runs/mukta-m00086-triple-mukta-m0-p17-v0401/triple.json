@@ -1,0 +1,1037 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "śukrātmā",
+     "gloss": "venus-soul",
+     "grounds": "compound śukra+ātmā",
+     "morph": "compound (śukra+ātmā)"
+    },
+    {
+     "surface": "bhāskaro",
+     "gloss": "sun",
+     "grounds": "bhāskaraḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ananto",
+     "gloss": "endless",
+     "grounds": "anantaḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devarājaḥ",
+     "gloss": "king-of-gods",
+     "grounds": "deva+rājaḥ",
+     "morph": "compound (deva+rājaḥ)"
+    },
+    {
+     "surface": "śivas",
+     "gloss": "shiva",
+     "grounds": "śivaḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are named in this opening enumeration of the mantra's divine forms?",
+   "premises": [
+    "The verse lists śukra-ātmā, bhāskara, ananta, deva-rāja, and śiva.",
+    "It closes with tathā, linking the list to what follows."
+   ],
+   "inference": "This verse opens a sequential enumeration of deities associated with mantra components.",
+   "uncertainties": [],
+   "plain_english": "Venus-soul, sun, endless one, king of gods, and Shiva are named thus."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "manusargau",
+     "gloss": "manu-creation-pair",
+     "grounds": "manu+sargau dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktir",
+     "gloss": "power",
+     "grounds": "śaktiḥ nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhānur",
+     "gloss": "sun",
+     "grounds": "bhānuḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "indro",
+     "gloss": "indra",
+     "grounds": "indraḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "great-lady",
+     "grounds": "maheśvarī nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which powers and deities follow the manu-creation pair in this enumeration?",
+   "premises": [
+    "The verse names manu-sargau, then śakti, bhānu, indra, and maheśvarī.",
+    "The sequence continues the prior divine list."
+   ],
+   "inference": "Power, sun, Indra, and the great goddess are added after the manu pair.",
+   "uncertainties": [],
+   "plain_english": "Then power, sun, Indra, and the great goddess follow the manu pair."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "mantranirṇayatantre",
+     "gloss": "mantra-determination-treatise",
+     "grounds": "mantra+nirṇaya+tantre locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "by-shiva",
+     "grounds": "śivena instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "parikīrtitā feminine nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where and by whom are these mantra forms proclaimed?",
+   "premises": [
+    "The verse places the proclamation in the mantra-determination treatise.",
+    "It attributes the proclamation to Shiva."
+   ],
+   "inference": "Shiva proclaims these forms in the mantra-determination treatise.",
+   "uncertainties": [],
+   "plain_english": "In the mantra-determination treatise, Shiva proclaims them."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-born",
+     "grounds": "vāgbhavaṃ accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijayā",
+     "gloss": "victory",
+     "grounds": "vijayā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "illusion",
+     "grounds": "māyā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "brahmā nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakraś",
+     "gloss": "indra",
+     "grounds": "śakraḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "parvati",
+     "grounds": "pārvatī nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities and powers are linked with the speech-born component?",
+   "premises": [
+    "The verse names vāgbhava, vijayā, māyā, brahmā, śakra, and pārvatī.",
+    "It groups them in one enumeration."
+   ],
+   "inference": "The speech-born component is associated with victory, illusion, Brahma, Indra, and Parvati.",
+   "uncertainties": [],
+   "plain_english": "Speech-born, victory, illusion, Brahma, Indra, and Parvati are named."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "tataḥ sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hādyaṃ",
+     "gloss": "hādya",
+     "grounds": "hādyaṃ accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manusargavibhūṣitam",
+     "gloss": "adorned-by-manu-creation",
+     "grounds": "manu+sarga+vibhūṣitam",
+     "morph": "compound (manu+sarga+vibhūṣitam)"
+    }
+   ],
+   "question": "What follows the speech-born group in this mantra enumeration?",
+   "premises": [
+    "The verse says then hādyaṃ follows.",
+    "It is adorned by manu-creation."
+   ],
+   "inference": "The next component is hādyaṃ, adorned by manu-creation.",
+   "uncertainties": [],
+   "plain_english": "Then comes hādyaṃ, adorned by manu-creation."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "aṣṭādaśākṣarī",
+     "gloss": "eighteen-syllable",
+     "grounds": "aṣṭādaśa+akṣarī",
+     "morph": "compound (aṣṭādaśa+akṣarī)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "vidyā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "great-tripura-beauty",
+     "grounds": "mahā+tripura+sundarī",
+     "morph": "compound (mahā+tripura+sundarī)"
+    }
+   ],
+   "question": "Which eighteen-syllable mantra form is named here?",
+   "premises": [
+    "The verse calls it aṣṭādaśākṣarī vidyā.",
+    "It identifies it with mahātripurasundarī."
+   ],
+   "inference": "The eighteen-syllable form is the great Tripurasundarī mantra.",
+   "uncertainties": [],
+   "plain_english": "The eighteen-syllable mantra is the great Tripurasundarī."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "sarvānte",
+     "gloss": "at-end-of-all",
+     "grounds": "sarva+ante locative",
+     "morph": "compound (sarva+ante)"
+    },
+    {
+     "surface": "haṃsasaṃyuktā",
+     "gloss": "joined-with-hamsa",
+     "grounds": "haṃsa+saṃyuktā",
+     "morph": "compound (haṃsa+saṃyuktā)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśākṣarī",
+     "gloss": "twenty-syllable",
+     "grounds": "viṃśa+akṣarī",
+     "morph": "compound (viṃśa+akṣarī)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhavet third singular",
+     "morph": "3.sg.act-pres (root bhū)"
+    }
+   ],
+   "question": "What twenty-syllable form arises at the end of all?",
+   "premises": [
+    "The verse says at the end of all, joined with haṃsa.",
+    "Then the twenty-syllable form becomes."
+   ],
+   "inference": "A twenty-syllable haṃsa-joined form arises at the end.",
+   "uncertainties": [],
+   "plain_english": "At the end, joined with haṃsa, it becomes twenty-syllable."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "manunā",
+     "gloss": "by-manu",
+     "grounds": "manunā instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sargavān",
+     "gloss": "possessing-creation",
+     "grounds": "sarga+vān",
+     "morph": "compound (sarga+vān)"
+    },
+    {
+     "surface": "bhṛguḥ",
+     "gloss": "bhrgu",
+     "grounds": "bhṛguḥ nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sage is named with manu and creation?",
+   "premises": [
+    "The verse names manu, sarga-vān, and Bhṛgu.",
+    "It links Bhṛgu to manu and creation."
+   ],
+   "inference": "Bhṛgu is the sage associated with manu and creation.",
+   "uncertainties": [],
+   "plain_english": "Bhṛgu is the sage with manu and creation."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "kāmabījaṃ",
+     "gloss": "desire-seed",
+     "grounds": "kāma+bījaṃ",
+     "morph": "compound (kāma+bījaṃ)"
+    },
+    {
+     "surface": "lakṣmīr",
+     "gloss": "lakshmi",
+     "grounds": "lakṣmīḥ nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhṛguḥ",
+     "gloss": "bhrgu",
+     "grounds": "bhṛguḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prajāpatiḥ",
+     "gloss": "lord-of-creatures",
+     "grounds": "prajāpatiḥ nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities and sage are linked with the desire seed?",
+   "premises": [
+    "The verse names kāma-bīja, Lakṣmī, Bhṛgu, and Prajāpati.",
+    "It groups them in one enumeration."
+   ],
+   "inference": "The desire seed is associated with Lakṣmī, Bhṛgu, and Prajāpati.",
+   "uncertainties": [],
+   "plain_english": "Desire-seed, Lakshmi, Bhrgu, and Prajapati are named."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "nārīṇāṃ",
+     "gloss": "of-women",
+     "grounds": "nārīṇāṃ genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "mohinī",
+     "gloss": "enchantress",
+     "grounds": "mohinī nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "devī nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jagatkāraṇarūpiṇī",
+     "gloss": "world-cause-formed",
+     "grounds": "jagat+kāraṇa+rūpiṇī",
+     "morph": "compound (jagat+kāraṇa+rūpiṇī)"
+    }
+   ],
+   "question": "Which goddess is described as enchantress and world-cause?",
+   "premises": [
+    "The verse calls her mohinī devī.",
+    "It describes her as jagat-kāraṇa-rūpiṇī."
+   ],
+   "inference": "The goddess is an enchantress and the form of the world's cause.",
+   "uncertainties": [],
+   "plain_english": "The goddess is an enchantress and the form of the world's cause."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "bhago",
+     "gloss": "bhaga",
+     "grounds": "bhagaḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "illusion",
+     "grounds": "māyā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "tataḥ sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "brahmā nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakras",
+     "gloss": "indra",
+     "grounds": "śakraḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "world-lady",
+     "grounds": "bhuvaneśvarī nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which deities follow bhaga and illusion in this enumeration?",
+   "premises": [
+    "The verse names bhaga, māyā, then brahmā, śakra, and bhuvaneśvarī.",
+    "It continues the divine list."
+   ],
+   "inference": "Brahma, Indra, and the world-lady follow bhaga and illusion.",
+   "uncertainties": [],
+   "plain_english": "Bhaga, illusion, then Brahma, Indra, and the world-lady are named."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "bhuvaneśyā",
+     "gloss": "world-lady",
+     "grounds": "bhuvaneśyāḥ nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśaś",
+     "gloss": "great-lord",
+     "grounds": "maheśaḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktir",
+     "gloss": "power",
+     "grounds": "śaktiḥ nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmeśa",
+     "gloss": "brahma-lord",
+     "grounds": "brahma+īśaḥ",
+     "morph": "compound (brahma+īśaḥ)"
+    },
+    {
+     "surface": "indrakaḥ",
+     "gloss": "indra-like",
+     "grounds": "indrakaḥ nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which powers and lords are grouped with the world-lady?",
+   "premises": [
+    "The verse names bhuvaneśyā, maheśa, śakti, brahmeśa, and indraka.",
+    "It groups them together."
+   ],
+   "inference": "The world-lady is grouped with great lord, power, brahma-lord, and indra-like.",
+   "uncertainties": [],
+   "plain_english": "World-lady, great lord, power, brahma-lord, and indra-like are named."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "bhuvaneśyā",
+     "gloss": "world-lady",
+     "grounds": "bhuvaneśyāḥ nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "netramastraṃ",
+     "gloss": "eye-weapon",
+     "grounds": "netra+astraṃ",
+     "morph": "compound (netra+astraṃ)"
+    },
+    {
+     "surface": "śaktir",
+     "gloss": "power",
+     "grounds": "śaktiḥ nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mādana",
+     "gloss": "intoxicating",
+     "grounds": "mādanaḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which weapon and power are associated with the world-lady?",
+   "premises": [
+    "The verse names bhuvaneśyā, netra-astra, śakti, and mādana.",
+    "It emphasizes the association with indeed."
+   ],
+   "inference": "The world-lady is associated with eye-weapon, power, and intoxicating force.",
+   "uncertainties": [],
+   "plain_english": "World-lady, eye-weapon, power, and intoxicating force are named."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "eṣā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "parā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "vijñeyā feminine nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tattvarūpā",
+     "gloss": "essence-formed",
+     "grounds": "tattva+rūpā",
+     "morph": "compound (tattva+rūpā)"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "great-lady",
+     "grounds": "maheśvarī nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the supreme goddess to be known?",
+   "premises": [
+    "The verse says this supreme one is to be known.",
+    "It calls her essence-formed great lady."
+   ],
+   "inference": "The supreme goddess is to be known as the essence-formed great lady.",
+   "uncertainties": [],
+   "plain_english": "This supreme one is to be known as the essence-formed great lady."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "na asti",
+     "morph": "3.sg.act-pres (root as)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "na asti",
+     "morph": "3.sg.act-pres (root as)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "vidyā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samā",
+     "gloss": "equal",
+     "grounds": "samā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāsyā",
+     "gloss": "and-her",
+     "grounds": "ca asyāḥ",
+     "morph": "(indecl.) + f.gen.sg"
+    },
+    {
+     "surface": "cāsyā",
+     "gloss": "and-her",
+     "grounds": "ca asyāḥ",
+     "morph": "(indecl.) + f.gen.sg"
+    },
+    {
+     "surface": "balavīryasamanvitā",
+     "gloss": "endowed-with-strength-vigor",
+     "grounds": "bala+vīrya+samanvitā",
+     "morph": "compound (bala+vīrya+samanvitā)"
+    }
+   ],
+   "question": "Is any mantra-knowledge equal to hers in strength and vigor?",
+   "premises": [
+    "The verse repeats not-is.",
+    "It says no vidyā is equal to hers in strength and vigor."
+   ],
+   "inference": "No mantra-knowledge equals hers in strength and vigor.",
+   "uncertainties": [],
+   "plain_english": "There is no mantra-knowledge equal to hers in strength and vigor."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "kāmendrau",
+     "gloss": "desire-and-indra",
+     "grounds": "kāma+indrau dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "mahā+māyā",
+     "morph": "compound (mahā+māyā)"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "speech-born",
+     "grounds": "vāgbhavaṃ accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūṭam",
+     "gloss": "mantra-division",
+     "grounds": "kūṭam accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "uttamam accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mantra division is called supreme here?",
+   "premises": [
+    "The verse names kāma-indrau, mahāmāyā, and vāgbhava.",
+    "It calls the kūṭa supreme."
+   ],
+   "inference": "The speech-born kūṭa is the supreme mantra division.",
+   "uncertainties": [],
+   "plain_english": "The speech-born kūṭa is supreme."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "śaktikūṭaṃ",
+     "gloss": "power-division",
+     "grounds": "śakti+kūṭaṃ",
+     "morph": "compound (śakti+kūṭaṃ)"
+    },
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "listen",
+     "grounds": "śṛṇuṣva second singular imperative",
+     "morph": "2.sg.mid-imp (root śru)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "tat accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the listener asked to hear?",
+   "premises": [
+    "The verse names śakti-kūṭa.",
+    "It commands listen to that."
+   ],
+   "inference": "The listener is asked to hear the power-division.",
+   "uncertainties": [],
+   "plain_english": "Listen to that power-division."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "śaktiḥ nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire",
+     "grounds": "kāmaḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahasrākṣo",
+     "gloss": "thousand-eyed",
+     "grounds": "sahasra+akṣaḥ",
+     "morph": "compound (sahasra+akṣaḥ)"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "mahā+māyā",
+     "morph": "compound (mahā+māyā)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "param accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which powers and deities make up the supreme sequence?",
+   "premises": [
+    "The verse names śakti, kāma, sahasrākṣa, and mahāmāyā.",
+    "It ends with param."
+   ],
+   "inference": "Power, desire, thousand-eyed, and great illusion form the supreme sequence.",
+   "uncertainties": [],
+   "plain_english": "Power, desire, thousand-eyed, and great illusion are supreme."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "savīryā",
+     "gloss": "with-vigor",
+     "grounds": "sa+vīryā",
+     "morph": "compound (sa+vīryā)"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "granting-success",
+     "grounds": "siddhi+dā",
+     "morph": "compound (siddhi+dā)"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "eternal",
+     "grounds": "nityā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "vidyā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvārthasiddhidā",
+     "gloss": "granting-all-aims-success",
+     "grounds": "sarva+artha+siddhi+dā",
+     "morph": "compound (sarva+artha+siddhi+dā)"
+    }
+   ],
+   "question": "What qualities are attributed to this eternal mantra-knowledge?",
+   "premises": [
+    "The verse calls it savīryā, siddhidā, nityā, and vidyā.",
+    "It also calls it sarvārtha-siddhidā."
+   ],
+   "inference": "This eternal mantra-knowledge is vigorous, success-granting, and all-aim fulfilling.",
+   "uncertainties": [],
+   "plain_english": "This eternal mantra-knowledge grants vigor, success, and all aims."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "bhairavaṃ accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bindumālī",
+     "gloss": "garland-of-dots",
+     "grounds": "bindu+mālī",
+     "morph": "compound (bindu+mālī)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "brahmā nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakraḥ",
+     "gloss": "indra",
+     "grounds": "śakraḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sureśvarī",
+     "gloss": "goddess-of-gods",
+     "grounds": "sura+īśvarī",
+     "morph": "compound (sura+īśvarī)"
+    }
+   ],
+   "question": "Which deities and forms are named with Bhairava and bindu-garland?",
+   "premises": [
+    "The verse names bhairava, bindu-mālī, brahmā, śakra, and sureśvarī.",
+    "It groups them in one enumeration."
+   ],
+   "inference": "Bhairava and bindu-garland are grouped with Brahma, Indra, and the goddess of gods.",
+   "uncertainties": [],
+   "plain_english": "Bhairava, bindu-garland, Brahma, Indra, and goddess of gods are named."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "mahā+māyā",
+     "morph": "compound (mahā+māyā)"
+    },
+    {
+     "surface": "vāgbhavañ",
+     "gloss": "speech-born",
+     "grounds": "vāgbhavam accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānmathaṃ",
+     "gloss": "love-born",
+     "grounds": "mānmathaṃ accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sargavān",
+     "gloss": "possessing-creation",
+     "grounds": "sarga+vān",
+     "morph": "compound (sarga+vān)"
+    },
+    {
+     "surface": "bhṛguḥ",
+     "gloss": "bhrgu",
+     "grounds": "bhṛguḥ nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which components and sage are named in this mantra enumeration?",
+   "premises": [
+    "The verse names mahāmāyā, vāgbhava, mānmatha, sarga-vān, and Bhṛgu.",
+    "It groups them together."
+   ],
+   "inference": "Great illusion, speech-born, love-born, creation-possessing, and Bhṛgu are named.",
+   "uncertainties": [],
+   "plain_english": "Great illusion, speech-born, love-born, creation-possessing, and Bhrgu are named."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "śaktikūṭaṃ",
+     "gloss": "power-division",
+     "grounds": "śakti+kūṭaṃ",
+     "morph": "compound (śakti+kūṭaṃ)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "likhet third singular optative",
+     "morph": "3.sg.act-opt (root likh)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be written after the power-division?",
+   "premises": [
+    "The verse names śakti-kūṭa.",
+    "It says likhet tataḥ."
+   ],
+   "inference": "After the power-division, one should write the next component.",
+   "uncertainties": [],
+   "plain_english": "Then one should write the power-division."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "bhṛgur",
+     "gloss": "bhrgu",
+     "grounds": "bhṛguḥ nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "brahmā nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sahasrākṣo",
+     "gloss": "thousand-eyed",
+     "grounds": "sahasra+akṣaḥ",
+     "morph": "compound (sahasra+akṣaḥ)"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "mahā+māyā",
+     "morph": "compound (mahā+māyā)"
+    },
+    {
+     "surface": "tadantaram",
+     "gloss": "between-that",
+     "grounds": "tad+antaram",
+     "morph": "compound (tad+antaram)"
+    }
+   ],
+   "question": "Which deities and components are placed between in this enumeration?",
+   "premises": [
+    "The verse names Bhṛgu, Brahma, sahasrākṣa, and mahāmāyā.",
+    "It ends with tad-antaram."
+   ],
+   "inference": "Bhṛgu, Brahma, thousand-eyed, and great illusion are placed between.",
+   "uncertainties": [],
+   "plain_english": "Bhrgu, Brahma, thousand-eyed, and great illusion are placed between."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "saptaviṃśākṣarī",
+     "gloss": "twenty-seven-syllable",
+     "grounds": "sapta+viṃśa+akṣarī",
+     "morph": "compound (sapta+viṃśa+akṣarī)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "vidyā nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "great-tripura-beauty",
+     "grounds": "mahā+tripura+sundarī",
+     "morph": "compound (mahā+tripura+sundarī)"
+    }
+   ],
+   "question": "Which twenty-seven-syllable mantra form is named here?",
+   "premises": [
+    "The verse calls it saptaviṃśākṣarī vidyā.",
+    "It identifies it with mahātripurasundarī."
+   ],
+   "inference": "The twenty-seven-syllable form is the great Tripurasundarī mantra.",
+   "uncertainties": [],
+   "plain_english": "The twenty-seven-syllable mantra is the great Tripurasundarī."
+  }
+ ]
+}

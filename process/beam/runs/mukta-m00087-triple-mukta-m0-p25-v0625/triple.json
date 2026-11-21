@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "ṣaṭpatrair",
+     "gloss": "six-petaled",
+     "grounds": "instrumental plural modifier for the surrounding forms",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "bādilāntaiḥ",
+     "gloss": "ba-to-la-ended",
+     "grounds": "instrumental plural modifier for the surrounding forms",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "parivṛtavapuṣaṃ",
+     "gloss": "surrounded-body",
+     "grounds": "accusative singular describing the yogini's body",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "bhāvayed",
+     "gloss": "should-manifest",
+     "grounds": "causative optative third person singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "yoginīṃ",
+     "gloss": "yogini",
+     "grounds": "accusative singular feminine object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "accusative singular feminine pronoun referring to the yogini",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How should the yogini be visualized with six-petaled and ba-to-la-ended surroundings?",
+   "premises": [
+    "six-petaled forms surround the body",
+    "ba-to-la-ended forms surround the body",
+    "the yogini should be manifested"
+   ],
+   "inference": "visualize that yogini as surrounded by six-petaled and ba-to-la-ended forms",
+   "uncertainties": [
+    "the exact referent of bādilāntaiḥ remains unclear"
+   ],
+   "plain_english": "Manifest that yogini, whose body is surrounded by six-petaled and ba-to-la-ended forms."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "bhartuḥ",
+     "gloss": "of-husband",
+     "grounds": "genitive singular masculine of bhartṛ",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārśvaṃ",
+     "gloss": "side",
+     "grounds": "accusative singular neuter of pārśva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāgatya",
+     "gloss": "having-approached",
+     "grounds": "gerund of sam-ā-gam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṅ+mukhaṃ",
+     "gloss": "facing-east",
+     "grounds": "compound of prāñc and mukha, accusative singular neuter",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "causative optative third singular of sthā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sutam",
+     "gloss": "son",
+     "grounds": "accusative singular masculine of suta",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the son be positioned relative to the husband during the naming rite?",
+   "premises": [
+    "one approaches the husband's side",
+    "the son is placed facing east",
+    "the naming rite occurs in the sixth or eighth month"
+   ],
+   "inference": "The son is to be placed facing east after approaching the husband's side.",
+   "uncertainties": [
+    "whether prāṅmukhaṃ modifies the son or the placement direction"
+   ],
+   "plain_english": "Having approached the husband's side, one should place the son facing east."
+  }
+ ]
+}

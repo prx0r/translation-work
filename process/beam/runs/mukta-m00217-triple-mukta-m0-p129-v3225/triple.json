@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3225,
+   "rows": [
+    {
+     "surface": "dadhānāṃ",
+     "gloss": "holding",
+     "grounds": "present participle of dhā, describing the goddess in continuation",
+     "morph": "part.f.acc.sg.act-pres-dhā"
+    },
+    {
+     "surface": "dakṣiṇairhastair",
+     "gloss": "with-right-hands",
+     "grounds": "instrumental compound indicating the hands performing the holding",
+     "morph": "adj+m.inst.pl"
+    },
+    {
+     "surface": "āsīnāṃ",
+     "gloss": "seated",
+     "grounds": "present participle of ās, describing the goddess's posture",
+     "morph": "part.f.acc.sg.mid-pres-ās"
+    },
+    {
+     "surface": "padmaviṣṭare",
+     "gloss": "on-lotus-seat",
+     "grounds": "locative compound indicating the place of seating",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What posture and right-hand bearing characterize the goddess in this visualization?",
+   "premises": [
+    "The goddess is described as holding with her right hands.",
+    "The goddess is described as seated.",
+    "Her seat is specified as a lotus seat."
+   ],
+   "inference": "The visualized goddess is to be contemplated as seated on a lotus seat while holding objects in her right hands.",
+   "uncertainties": [
+    "The specific objects held in the right hands are not stated in this verse and depend on the preceding or following context."
+   ],
+   "plain_english": "She is holding with her right hands, seated upon a lotus seat."
+  }
+ ]
+}

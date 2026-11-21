@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "vikalpam",
+     "gloss": "alternative",
+     "grounds": "accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirdiṣṭam",
+     "gloss": "described",
+     "grounds": "past participle of nirdiś, modifying vikalpam",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ābhāsaṃ",
+     "gloss": "appearance",
+     "grounds": "accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "miśritam",
+     "gloss": "mixed",
+     "grounds": "past participle of miśr, modifying ābhāsaṃ",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Is the described alternative (vikalpa) an appearance (ābhāsa) that is mixed there?",
+   "premises": [
+    "vikalpa is described as an ābhāsa",
+    "that ābhāsa is mixed there"
+   ],
+   "inference": "the described alternative is a mixed appearance",
+   "uncertainties": [
+    "gender and exact syntactic attachment of nirdiṣṭam and miśritam remain ambiguous"
+   ],
+   "plain_english": "The alternative thus described is an appearance, mixed there."
+  }
+ ]
+}

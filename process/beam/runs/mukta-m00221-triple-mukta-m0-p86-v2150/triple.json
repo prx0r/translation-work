@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "asṛgvahā",
+     "gloss": "blood-river",
+     "grounds": "legacy hint blood-river; fused form asṛgvahā",
+     "morph": "compound (asṛk+vahā)"
+    },
+    {
+     "surface": "vavau",
+     "gloss": "blew",
+     "grounds": "legacy hint blew",
+     "morph": "3.sg.act-aor (vā)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citrakārapramādataḥ",
+     "gloss": "painter-amazement",
+     "grounds": "legacy hint painter-amazement; ablative sense from",
+     "morph": "abl.sg.m (citrakāra-pramāda)"
+    }
+   ],
+   "question": "What phenomenon arose there from the painter's amazement?",
+   "premises": [
+    "blood-river blew there",
+    "painter amazement caused it"
+   ],
+   "inference": "The verse describes a blood-river blowing forth from the painter's amazement.",
+   "uncertainties": [
+    "exact syntactic relation of the ablative phrase remains uncertain"
+   ],
+   "plain_english": "There, a river of blood blew forth from the painter's amazement."
+  }
+ ]
+}

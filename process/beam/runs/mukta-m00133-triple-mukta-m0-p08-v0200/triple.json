@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "ata",
+     "gloss": "therefore",
+     "grounds": "conclusive particle drawing inference from preceding verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahman",
+     "grounds": "denotes that of which the supreme goddess is the cause",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "predicate identifying the supreme goddess as causal principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "refers to the supreme goddess identified with parakuṇḍalī in prior verses",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What establishes the supreme goddess as the ultimate cause of Brahman?",
+   "premises": [
+    "Hari is directly without qualities.",
+    "The supreme Kuṇḍalinī is with qualities and the seed of all goddesses.",
+    "The supreme goddess is therefore identified as the cause of Brahman."
+   ],
+   "inference": "The supreme goddess is the ultimate cause of Brahman.",
+   "uncertainties": [],
+   "plain_english": "Therefore indeed, O great goddess, the supreme one is the cause of Brahman."
+  }
+ ]
+}

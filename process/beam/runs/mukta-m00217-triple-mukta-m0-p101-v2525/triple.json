@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "hiraṇyā",
+     "gloss": "golden",
+     "grounds": "color quality attributed to the described presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanakā",
+     "gloss": "golden",
+     "grounds": "color quality attributed to the described presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raktā",
+     "gloss": "red",
+     "grounds": "color quality attributed to the described presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "black",
+     "grounds": "color quality attributed to the described presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction joining listed qualities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and-also",
+     "grounds": "particle adding further emphasis or inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific colors characterize the all-facing presence manifest in the body's locations?",
+   "premises": [
+    "The described presence is characterized as golden (hiraṇyā).",
+    "The described presence is characterized as golden (kanakā).",
+    "The described presence is characterized as red (raktā).",
+    "The described presence is characterized as black (kṛṣṇā)."
+   ],
+   "inference": "The all-facing presence manifests with a range of colors including golden, red, and black.",
+   "uncertainties": [
+    "The feminine referent of these adjectives is not explicitly named in this verse and relies on preceding context."
+   ],
+   "plain_english": "It is golden, golden, red, and indeed also black."
+  }
+ ]
+}

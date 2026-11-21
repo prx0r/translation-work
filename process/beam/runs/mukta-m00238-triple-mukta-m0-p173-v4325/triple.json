@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p173",
+ "items": [
+  {
+   "verse": 4325,
+   "rows": [
+    {
+     "surface": "saṅkhyā",
+     "gloss": "number",
+     "grounds": "count marker on the side",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "avabodhanārthāni",
+     "gloss": "for-knowing",
+     "grounds": "compound of knowing and purpose",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "pārśveṣu",
+     "gloss": "sides",
+     "grounds": "locative plural of side",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative third plural",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śārayoḥ",
+     "gloss": "of-pieces",
+     "grounds": "genitive dual of piece",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What purpose do the numbers on the sides serve for the two pieces?",
+   "premises": [
+    "Numbers on sides are for knowing.",
+    "They belong to the two pieces.",
+    "They would be placed there."
+   ],
+   "inference": "The side numbers function as knowing aids for the two pieces.",
+   "uncertainties": [
+    "Exact grammatical gender of pārśveṣu and śārayoḥ remains unresolved."
+   ],
+   "plain_english": "The numbers on the sides are for knowing, for the two pieces."
+  }
+ ]
+}

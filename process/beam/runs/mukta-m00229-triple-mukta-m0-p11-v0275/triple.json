@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "śuddhiṃ",
+     "gloss": "purity",
+     "grounds": "accusative object naming a required quality",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "buddhimantam",
+     "gloss": "intelligent",
+     "grounds": "accusative adjective modifying the disciple",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "alolupamam",
+     "gloss": "non-greedy",
+     "grounds": "accusative adjective modifying the disciple",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What qualities must a self-disciplined disciple possess to be accepted?",
+   "premises": [
+    "disciple must be pure",
+    "disciple must be intelligent",
+    "disciple must be non-greedy"
+   ],
+   "inference": "accepted disciple embodies purity intelligence and non-greed",
+   "uncertainties": [
+    "exact verb governing the accusatives is not in supplied tokens"
+   ],
+   "plain_english": "He should be pure, intelligent, and free from greed."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "medhādīkṣāsamāyuktaḥ",
+     "gloss": "endowed-with-medhā-initiation",
+     "grounds": "compound medhā + dīkṣā + samāyuktaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāpyate",
+     "gloss": "is-attained",
+     "grounds": "passive present of root prāp",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is a practitioner endowed with medhā-dīkṣā attained or not, dear one?",
+   "premises": [
+    "medhā-dīkṣā endowment is the stated condition",
+    "attainment is being questioned directly",
+    "the address is to a dear one"
+   ],
+   "inference": "The verse asks whether endowment with medhā-dīkṣā entails attainment.",
+   "uncertainties": [
+    "exact technical scope of medhā-dīkṣā remains context-dependent",
+    "whether prāpyate refers to ritual or spiritual attainment is not explicit"
+   ],
+   "plain_english": "O dear one, is one endowed with medhā-dīkṣā attained or not?"
+  }
+ ]
+}

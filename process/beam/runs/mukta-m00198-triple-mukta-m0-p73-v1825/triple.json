@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "pārśvaśālā",
+     "gloss": "side-hall",
+     "grounds": "compound noun denoting the lateral hall of the structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-part-measure",
+     "grounds": "compound of veda and aṃśa indicating a fourfold division",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍaṃśaṃ",
+     "gloss": "six-part-measure",
+     "grounds": "compound of ṣaṣ and aṃśa indicating a sixfold division",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mukhapṛṣṭhayoḥ",
+     "gloss": "at-front-and-back",
+     "grounds": "dvandva compound of mukha and pṛṣṭha indicating the two locations",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "What proportional measures are prescribed for the side hall at its front and back?",
+   "premises": [
+    "The side hall is the structural element being measured.",
+    "The front and back are the specified locations for measurement.",
+    "The prescribed measures are a four-part measure and a six-part measure."
+   ],
+   "inference": "The side hall is assigned a four-part measure and a six-part measure at its front and back.",
+   "uncertainties": [
+    "The exact dimensional application of vedāṃśaṃ and ṣaḍaṃśaṃ to front versus back is not explicitly specified."
+   ],
+   "plain_english": "The side hall, however, is to measure four parts and six parts at the front and back."
+  }
+ ]
+}

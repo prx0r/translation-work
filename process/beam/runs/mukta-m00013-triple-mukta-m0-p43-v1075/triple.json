@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "tārādyā",
+     "gloss": "beginning-with-tārā",
+     "grounds": "bahuvrīhi compound tāra+ādyā qualifying mahāvidyā",
+     "morph": "compound: tāra+ādyā, f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-wisdom-goddess",
+     "grounds": "technical term for one of the ten goddesses (mahāvidyā)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vijñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive expressing what must be recognized",
+     "morph": "gerundive.f.nom.sg, root jñā"
+    },
+    {
+     "surface": "tārasundarī",
+     "gloss": "tārasundarī",
+     "grounds": "proper name of the goddess; compound tāra+sundarī",
+     "morph": "compound: tāra+sundarī, f.nom.sg"
+    }
+   ],
+   "question": "What identity must be recognized for the great wisdom goddess beginning with Tārā?",
+   "premises": [
+    "A great wisdom goddess is under consideration.",
+    "This great wisdom goddess is characterized as beginning with Tārā.",
+    "This goddess must be recognized as Tārasundarī."
+   ],
+   "inference": "Therefore, the great wisdom goddess beginning with Tārā is to be known as Tārasundarī.",
+   "uncertainties": [
+    "The precise scope of tārādyā (whether indicating Tārā as the first in a sequence or as the primary element) is context-dependent."
+   ],
+   "plain_english": "And the great wisdom goddess beginning with Tārā should be known as Tārasundarī."
+  }
+ ]
+}

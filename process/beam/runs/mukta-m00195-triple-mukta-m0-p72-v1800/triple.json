@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "pañca+daśa",
+     "gloss": "five-ten",
+     "grounds": "Numeral compound expressing the number fifteen.",
+     "morph": "compound: pañca+daśa"
+    },
+    {
+     "surface": "akṣaraḥ",
+     "gloss": "syllabled",
+     "grounds": "Qualifies the previously mentioned tantric mantra by its syllable count.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllable count characterizes the tantric mantra prescribed for these practitioners?",
+   "premises": [
+    "The preceding context prescribes a tantric mantra for certain practitioners.",
+    "The compound pañca+daśa denotes the number fifteen.",
+    "The term akṣaraḥ indicates a count measured in syllables."
+   ],
+   "inference": "Therefore, the prescribed tantric mantra is characterized as having fifteen syllables.",
+   "uncertainties": [
+    "The specific mantra identity is not named in this verse alone."
+   ],
+   "plain_english": "It has fifteen syllables."
+  }
+ ]
+}

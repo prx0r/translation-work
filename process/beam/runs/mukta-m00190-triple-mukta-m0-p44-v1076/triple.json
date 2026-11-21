@@ -1,0 +1,961 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1076,
+   "rows": [
+    {
+     "surface": "yamasya",
+     "gloss": "of-yama",
+     "grounds": "name of death deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavanaṃ",
+     "gloss": "abode",
+     "grounds": "dwelling place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "optative of motion",
+     "morph": "3.sg.act-opt √gam"
+    },
+    {
+     "surface": "arātiḥ",
+     "gloss": "enemy",
+     "grounds": "adversary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na+atra",
+     "gloss": "not-here",
+     "grounds": "negation with locative sense",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fate awaits the enemy as a result of this ritual procedure?",
+   "premises": [
+    "The enemy is subject to the ritual's effect",
+    "Yama's abode signifies death",
+    "The text asserts no doubt about this outcome"
+   ],
+   "inference": "The ritual causes the enemy to go to Yama's abode without doubt",
+   "uncertainties": [],
+   "plain_english": "The enemy should go to the abode of Yama; there is no doubt about this."
+  },
+  {
+   "verse": 1077,
+   "rows": [
+    {
+     "surface": "uṣṇa+udake",
+     "gloss": "hot-water",
+     "grounds": "heated liquid medium",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "viniḥkṣipya",
+     "gloss": "having-immersed",
+     "grounds": "prior action of placing in",
+     "morph": "indecl.gerund vi-niḥ-√kṣip"
+    },
+    {
+     "surface": "viṣa+āḍhyaḥ",
+     "gloss": "poison-endowed",
+     "grounds": "substance mixed with poison",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "according-to-rule",
+     "grounds": "prescribed method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What preparatory action must be performed with poison in hot water according to rule?",
+   "premises": [
+    "Hot water serves as the ritual medium",
+    "A poison-endowed substance is used",
+    "The action follows a prescribed method"
+   ],
+   "inference": "One must immerse the poison-endowed substance in hot water according to the prescribed rule",
+   "uncertainties": [
+    "Exact nature of viṣa+āḍhyaḥ substance unclear"
+   ],
+   "plain_english": "Then, having immersed the poison-endowed substance in hot water according to the prescribed rule."
+  },
+  {
+   "verse": 1078,
+   "rows": [
+    {
+     "surface": "nayana+traya+nirgacchad",
+     "gloss": "eye-triad-issuing",
+     "grounds": "emerging from three eyes",
+     "morph": "compound pres.part."
+    },
+    {
+     "surface": "visphuliṅga+śata+argalām",
+     "gloss": "spark-hundred-bolted",
+     "grounds": "secured by hundreds of sparks",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What fiery manifestation issuing from the three eyes is to be visualized in the rite?",
+   "premises": [
+    "The manifestation issues from a triad of eyes",
+    "It is characterized by hundreds of sparks",
+    "The sparks act as bolts or barriers"
+   ],
+   "inference": "One visualizes a power issuing from the three eyes, bolted with hundreds of sparks",
+   "uncertainties": [],
+   "plain_english": "Visualize that which issues from the three eyes and is bolted with hundreds of sparks."
+  },
+  {
+   "verse": 1079,
+   "rows": [
+    {
+     "surface": "khaḍga+kṛtyā+āhitāṃ",
+     "gloss": "sword-magic-placed",
+     "grounds": "empowered by sword magic",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "dhyāyan",
+     "gloss": "meditating",
+     "grounds": "visualizing in mind",
+     "morph": "m.nom.sg.pres.part. √dhyai"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-mutter",
+     "grounds": "recite mantra",
+     "morph": "3.sg.act-opt pra-√jap"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "count of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How many times must the mantra be muttered while meditating on the sword-empowered magic?",
+   "premises": [
+    "Meditation focuses on magic placed in a sword",
+    "The mantra must be muttered",
+    "The required count is ten thousand"
+   ],
+   "inference": "While meditating on the sword-empowered magic, one should mutter the mantra ten thousand times",
+   "uncertainties": [],
+   "plain_english": "Meditating on the magic placed in the sword, one should mutter the mantra ten thousand times."
+  },
+  {
+   "verse": 1080,
+   "rows": [
+    {
+     "surface": "prakalpya",
+     "gloss": "having-prepared",
+     "grounds": "prior act of arranging",
+     "morph": "indecl.gerund pra-√kḷp"
+    },
+    {
+     "surface": "durgā+āyatane",
+     "gloss": "in-durga-shrine",
+     "grounds": "sacred place of Durga",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "trikoṇaṃ",
+     "gloss": "triangle",
+     "grounds": "three-cornered shape",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "fire-pit",
+     "grounds": "ritual hearth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "of highest quality",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where and in what form must the excellent fire-pit be prepared for the ritual?",
+   "premises": [
+    "The fire-pit must be prepared beforehand",
+    "The location is a shrine of Durga",
+    "The fire-pit should be triangular and excellent"
+   ],
+   "inference": "One should prepare an excellent triangular fire-pit in the shrine of Durga",
+   "uncertainties": [],
+   "plain_english": "Having prepared an excellent triangular fire-pit in the shrine of Durga."
+  },
+  {
+   "verse": 1081,
+   "rows": [
+    {
+     "surface": "puttalīm",
+     "gloss": "doll",
+     "grounds": "effigy figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aja+rakta+āktāṃ",
+     "gloss": "goat-blood-smeared",
+     "grounds": "covered with goat blood",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "pratiṣṭhita+samīraṇām",
+     "gloss": "established-breath",
+     "grounds": "infused with vital breath",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What characteristics must the ritual doll possess before being used in the rite?",
+   "premises": [
+    "A doll is used as an effigy",
+    "It must be smeared with goat blood",
+    "Breath must be established in it"
+   ],
+   "inference": "The ritual requires a doll smeared with goat blood and infused with breath",
+   "uncertainties": [
+    "Ritual meaning of pratiṣṭhita+samīraṇām may be technical"
+   ],
+   "plain_english": "Use a doll smeared with goat blood and infused with breath."
+  },
+  {
+   "verse": 1082,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior visualization",
+     "morph": "indecl.gerund √dhyai"
+    },
+    {
+     "surface": "durgāṃ",
+     "gloss": "durga",
+     "grounds": "goddess Durga",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pranṛtyantīṃ",
+     "gloss": "dancing",
+     "grounds": "engaged in dance",
+     "morph": "f.acc.sg.pres.part. pra-√nṛt"
+    },
+    {
+     "surface": "mahiṣa+uraḥ+sthala+antare",
+     "gloss": "buffalo-chest-surface-within",
+     "grounds": "on the buffalo's chest",
+     "morph": "compound n.loc.sg"
+    }
+   ],
+   "question": "How should the goddess Durga be visualized in relation to the buffalo during meditation?",
+   "premises": [
+    "Durga is the object of meditation",
+    "She is visualized as dancing",
+    "Her position is on the buffalo's chest"
+   ],
+   "inference": "One should meditate on Durga dancing on the chest of the buffalo",
+   "uncertainties": [],
+   "plain_english": "Having meditated on Durga dancing on the chest of the buffalo."
+  },
+  {
+   "verse": 1083,
+   "rows": [
+    {
+     "surface": "aṭṭahāsaiḥ",
+     "gloss": "with-loud-laughs",
+     "grounds": "terrifying laughter",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "aja+srotaiḥ",
+     "gloss": "goat-blood-streams",
+     "grounds": "flows of goat blood",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "bhīṣita+asura+sainikām",
+     "gloss": "terrified-demon-army",
+     "grounds": "frightening demon soldiers",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "By what terrifying features does the visualized Durga frighten the demon army?",
+   "premises": [
+    "Durga emits loud laughs",
+    "Streams of goat blood are present",
+    "The demon army is terrified"
+   ],
+   "inference": "Durga terrifies the demon army with loud laughs and streams of goat blood",
+   "uncertainties": [],
+   "plain_english": "She terrifies the demon army with loud laughs and streams of goat blood."
+  },
+  {
+   "verse": 1084,
+   "rows": [
+    {
+     "surface": "saṃdaṃṣṭra+adhara+saṃbhinnāṃ",
+     "gloss": "clenched-teeth-lip-torn",
+     "grounds": "lips torn by clenched teeth",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "daṃṣṭrā+bhīma+mukha+ambujām",
+     "gloss": "teeth-terrible-face-lotus",
+     "grounds": "lotus face terrible with fangs",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What fierce facial features characterize the goddess in this visualization?",
+   "premises": [
+    "Her lips are torn by clenched teeth",
+    "Her lotus-like face is terrible with fangs",
+    "These features convey ferocity"
+   ],
+   "inference": "The goddess is visualized with lips torn by clenched teeth and a lotus face made terrible by fangs",
+   "uncertainties": [],
+   "plain_english": "Her lips are torn by clenched teeth, and her lotus-like face is terrible with fangs."
+  },
+  {
+   "verse": 1085,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "by this described method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "method",
+     "grounds": "ritual procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "adversary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayāti",
+     "gloss": "goes",
+     "grounds": "proceeds to",
+     "morph": "3.sg.act-pres pra-√yā"
+    },
+    {
+     "surface": "yama+sannidhim",
+     "gloss": "yama-presence",
+     "grounds": "presence of Yama",
+     "morph": "compound m.acc.sg"
+    }
+   ],
+   "question": "What is the stated outcome for the enemy when this ritual method is performed?",
+   "premises": [
+    "A specific method has been described",
+    "The enemy is the target of the rite",
+    "Yama's presence signifies death"
+   ],
+   "inference": "By this method, the enemy goes to the presence of Yama",
+   "uncertainties": [],
+   "plain_english": "By this method, the enemy goes into the presence of Yama."
+  },
+  {
+   "verse": 1086,
+   "rows": [
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "without exception",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛtyā+uditān",
+     "gloss": "magic-prescribed",
+     "grounds": "declared in magic rites",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "ought to carry out",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "rites",
+     "grounds": "applied ritual procedures",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mantra+vit+tamaḥ",
+     "gloss": "mantra-knower-best",
+     "grounds": "most skilled in mantras",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to perform all the prescribed magical rites described here?",
+   "premises": [
+    "All prescribed magical rites are included",
+    "Performance requires expertise",
+    "The best knower of mantras is specified"
+   ],
+   "inference": "The best knower of mantras should perform all the prescribed magical rites",
+   "uncertainties": [],
+   "plain_english": "The best knower of mantras should perform all the prescribed magical rites."
+  },
+  {
+   "verse": 1087,
+   "rows": [
+    {
+     "surface": "suṣumnā+randhra+mārgeṇa",
+     "gloss": "sushumna-aperture-path",
+     "grounds": "through the central channel",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "yātāṃ",
+     "gloss": "gone",
+     "grounds": "having traveled",
+     "morph": "f.acc.sg.past.part. √yā"
+    },
+    {
+     "surface": "vyoma+sthalaṃ",
+     "gloss": "sky-region",
+     "grounds": "space or void region",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Through what internal path must one reach the sky region in this visualization?",
+   "premises": [
+    "Movement occurs through the suṣumnā channel",
+    "The destination is the sky region",
+    "This is a sequential step"
+   ],
+   "inference": "One must go to the sky region through the path of the suṣumnā aperture",
+   "uncertainties": [],
+   "plain_english": "Then, having gone to the sky region through the path of the suṣumnā aperture."
+  },
+  {
+   "verse": 1088,
+   "rows": [
+    {
+     "surface": "jvalat+kāla+analaiḥ",
+     "gloss": "blazing-time-fires",
+     "grounds": "fires of cosmic dissolution",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "dīptāṃ",
+     "gloss": "illuminated",
+     "grounds": "lit up brightly",
+     "morph": "f.acc.sg.past.part. √dīp"
+    },
+    {
+     "surface": "vicintya",
+     "gloss": "having-visualized",
+     "grounds": "after contemplating",
+     "morph": "indecl.gerund vi-√cint"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-mutter",
+     "grounds": "recite mantra",
+     "morph": "3.sg.act-opt pra-√jap"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What visualization must precede the muttering of the mantra in this stage?",
+   "premises": [
+    "The visualization involves blazing fires of time",
+    "The region is illuminated by them",
+    "Mantra muttering follows visualization"
+   ],
+   "inference": "After visualizing the region illuminated by blazing fires of time, one should mutter the mantra",
+   "uncertainties": [],
+   "plain_english": "Having visualized it illuminated by the blazing fires of time, one should mutter the mantra."
+  },
+  {
+   "verse": 1089,
+   "rows": [
+    {
+     "surface": "aṅgāra+vāre",
+     "gloss": "tuesday",
+     "grounds": "day of Mars",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "citā+agnau",
+     "gloss": "funeral-pyre-fire",
+     "grounds": "fire of cremation pyre",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "sarṣapa+sneha+loḍitam",
+     "gloss": "mustard-oil-mixed",
+     "grounds": "mixed with mustard oil",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "On what day and in what fire must the mustard-oil mixture be used for the rite?",
+   "premises": [
+    "The rite is performed on Tuesday",
+    "The fire used is from a funeral pyre",
+    "The substance is mixed with mustard oil"
+   ],
+   "inference": "On Tuesday, in the funeral-pyre fire, one uses the substance mixed with mustard oil",
+   "uncertainties": [],
+   "plain_english": "On Tuesday, in the fire of a funeral pyre, use that which is mixed with mustard oil."
+  },
+  {
+   "verse": 1090,
+   "rows": [
+    {
+     "surface": "kṛtyā+astra+jvalayā",
+     "gloss": "magic-weapon-flame",
+     "grounds": "flame of magical weapon",
+     "morph": "compound f.inst.sg"
+    },
+    {
+     "surface": "dagdhaḥ",
+     "gloss": "burned",
+     "grounds": "consumed by fire",
+     "morph": "m.nom.sg.past.part. √dah"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "adversary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yama+puraṃ",
+     "gloss": "yama-city",
+     "grounds": "city of Yama",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "would proceed to",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "What consequence befalls the enemy when burned by the flame of the magical weapon?",
+   "premises": [
+    "The enemy is burned by a magical weapon's flame",
+    "Yama's city signifies the realm of death",
+    "The result is stated as certain"
+   ],
+   "inference": "Burned by the flame of the magical weapon, the enemy should go to Yama's city",
+   "uncertainties": [],
+   "plain_english": "Burned by the flame of the magical weapon, the enemy should go to the city of Yama."
+  },
+  {
+   "verse": 1091,
+   "rows": [
+    {
+     "surface": "vraṇa+taila+viliptāni",
+     "gloss": "wound-oil-smeared-things",
+     "grounds": "objects smeared with wound oil",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "citā+agnau",
+     "gloss": "funeral-pyre-fire",
+     "grounds": "fire of cremation pyre",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "make oblation",
+     "morph": "3.sg.act-opt √hu"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What substances smeared with wound oil must be offered into the funeral-pyre fire?",
+   "premises": [
+    "Objects are smeared with wound oil",
+    "The offering is made into funeral-pyre fire",
+    "This is a subsequent ritual step"
+   ],
+   "inference": "One should then offer things smeared with wound oil into the funeral-pyre fire",
+   "uncertainties": [
+    "Exact nature of the smeared objects unclear"
+   ],
+   "plain_english": "Then one should offer things smeared with wound oil into the fire of a funeral pyre."
+  },
+  {
+   "verse": 1092,
+   "rows": [
+    {
+     "surface": "tuṣa+asthi+nirmitāṃ",
+     "gloss": "husk-bone-made",
+     "grounds": "fashioned from husk and bone",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "belonging to the enemy",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vraṇa+taila+pariplutām",
+     "gloss": "wound-oil-soaked",
+     "grounds": "soaked in wound oil",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What material composition and preparation define the enemy's effigy in this rite?",
+   "premises": [
+    "The effigy is made of husk and bone",
+    "It represents the enemy",
+    "It is soaked in wound oil"
+   ],
+   "inference": "The rite uses an effigy of the enemy made of husk and bone and soaked in wound oil",
+   "uncertainties": [],
+   "plain_english": "Use an effigy of the enemy made of husk and bone, soaked in wound oil."
+  },
+  {
+   "verse": 1093,
+   "rows": [
+    {
+     "surface": "chitvā",
+     "gloss": "having-cut",
+     "grounds": "cutting action",
+     "morph": "indecl.gerund √chid"
+    },
+    {
+     "surface": "chitvā",
+     "gloss": "having-cut",
+     "grounds": "repeated cutting action",
+     "morph": "indecl.gerund √chid"
+    },
+    {
+     "surface": "aja+raktena",
+     "gloss": "goat-blood",
+     "grounds": "with goat blood",
+     "morph": "compound n.inst.sg"
+    },
+    {
+     "surface": "saptāhāt",
+     "gloss": "in-seven-days",
+     "grounds": "after seven days",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "meets death",
+     "morph": "3.sg.mid-pres √mṛ"
+    },
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "adversary",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What repeated action with goat blood leads to the enemy's death within seven days?",
+   "premises": [
+    "The effigy is cut repeatedly",
+    "Goat blood is used in the process",
+    "Death occurs within seven days"
+   ],
+   "inference": "By cutting repeatedly with goat blood, the enemy dies within seven days",
+   "uncertainties": [],
+   "plain_english": "Cutting it again and again with goat blood, the enemy dies within seven days."
+  },
+  {
+   "verse": 1094,
+   "rows": [
+    {
+     "surface": "vikiret",
+     "gloss": "should-scatter",
+     "grounds": "disperse by throwing",
+     "morph": "3.sg.act-opt vi-√kṛ"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "those prepared items",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "taḍāga+ādau",
+     "gloss": "pond-etc",
+     "grounds": "in ponds and similar places",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "kṛtyā+astra+kvāthitaṃ",
+     "gloss": "magic-weapon-boiled",
+     "grounds": "boiled with magical weapon",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "ritually prepared water",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should the magically boiled water and related items be scattered to take effect?",
+   "premises": [
+    "Items are to be scattered",
+    "Water is boiled with a magical weapon",
+    "Locations include ponds and similar places"
+   ],
+   "inference": "One should scatter them and the magically boiled water in ponds and similar places",
+   "uncertainties": [
+    "Referent of tān depends on prior context"
+   ],
+   "plain_english": "One should scatter them and the water boiled with the magical weapon in ponds and the like."
+  },
+  {
+   "verse": 1095,
+   "rows": [
+    {
+     "surface": "kṛṣṇa+aṅgāra+caturdaśyāṃ",
+     "gloss": "dark-tuesday-fourteenth-day",
+     "grounds": "specific inauspicious day",
+     "morph": "compound f.loc.sg"
+    },
+    {
+     "surface": "prajaptaiḥ",
+     "gloss": "muttered-over",
+     "grounds": "empowered by mantra recitation",
+     "morph": "m.inst.pl.past.part. pra-√jap"
+    },
+    {
+     "surface": "preta+bhasmabhiḥ",
+     "gloss": "corpse-ashes",
+     "grounds": "ashes from a corpse",
+     "morph": "compound n.inst.pl"
+    }
+   ],
+   "question": "On what specific day and with what mantra-empowered substance is the next preparation made?",
+   "premises": [
+    "The day is the dark fourteenth on a Tuesday",
+    "Corpse ashes are used",
+    "The ashes are empowered by mantra muttering"
+   ],
+   "inference": "On the dark Tuesday fourteenth, one uses corpse ashes empowered by mantra muttering",
+   "uncertainties": [],
+   "plain_english": "On the dark fourteenth day falling on a Tuesday, using corpse ashes over which mantras have been muttered."
+  },
+  {
+   "verse": 1096,
+   "rows": [
+    {
+     "surface": "nirmāya",
+     "gloss": "having-made",
+     "grounds": "after fashioning",
+     "morph": "indecl.gerund nir-√mā"
+    },
+    {
+     "surface": "guṭikāḥ",
+     "gloss": "pills",
+     "grounds": "small prepared balls",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "the aforementioned",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "samyak+japta+samīraṇāḥ",
+     "gloss": "properly-muttered-breath",
+     "grounds": "infused with properly muttered breath",
+     "morph": "compound f.acc.pl"
+    }
+   ],
+   "question": "What form must the prepared substance take and how must it be ritually empowered?",
+   "premises": [
+    "The substance is fashioned into pills",
+    "These pills are the prepared items",
+    "They must be infused with properly muttered breath"
+   ],
+   "inference": "One makes these pills infused with properly muttered breath",
+   "uncertainties": [
+    "Technical sense of samyak+japta+samīraṇāḥ unclear"
+   ],
+   "plain_english": "Having made these pills, infused with properly muttered breath."
+  },
+  {
+   "verse": 1097,
+   "rows": [
+    {
+     "surface": "caturdaśī+trayāt",
+     "gloss": "fourteenth-day-triad-before",
+     "grounds": "within three fourteenth days",
+     "morph": "compound n.abl.sg"
+    },
+    {
+     "surface": "arvāk",
+     "gloss": "within",
+     "grounds": "before the end of",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "adversary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyu+vaśaḥ",
+     "gloss": "death-power",
+     "grounds": "under the power of death",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "will become",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "Within what time limit does the enemy fall under the power of death from this rite?",
+   "premises": [
+    "A time limit of three fourteenth days is given",
+    "The enemy is the target",
+    "The outcome is subjection to death"
+   ],
+   "inference": "Within three fourteenth days, the enemy should come under the power of death",
+   "uncertainties": [
+    "Exact calculation of caturdaśī+trayāt is ambiguous"
+   ],
+   "plain_english": "Within three fourteenth days, the enemy should come under the power of death."
+  },
+  {
+   "verse": 1098,
+   "rows": [
+    {
+     "surface": "māhiṣe",
+     "gloss": "in-buffalo",
+     "grounds": "in relation to the buffalo",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "should-meditate-on",
+     "grounds": "should remember or visualize",
+     "morph": "3.sg.act-opt sam-√smṛ"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāla+agni+sadṛśa+prabhām",
+     "gloss": "time-fire-similar-splendor",
+     "grounds": "splendor like the fire of time",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What radiant form of the goddess must be meditated upon in connection with the buffalo?",
+   "premises": [
+    "The goddess is the object of meditation",
+    "The context involves the buffalo",
+    "Her splendor resembles the fire of time"
+   ],
+   "inference": "One should meditate on the goddess, whose splendor is like the fire of time, in connection with the buffalo",
+   "uncertainties": [],
+   "plain_english": "One should meditate on the goddess, whose splendor is like the fire of time, in relation to the buffalo."
+  },
+  {
+   "verse": 1099,
+   "rows": [
+    {
+     "surface": "durgā+āgāre",
+     "gloss": "in-durga-shrine",
+     "grounds": "in the abode of Durga",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "prajuhuyāt",
+     "gloss": "should-offer",
+     "grounds": "perform fire oblation",
+     "morph": "3.sg.act-opt pra-√hu"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "with this mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ayuta",
+     "gloss": "ten-thousand",
+     "grounds": "count of offerings or recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantra+vit",
+     "gloss": "mantra-knower",
+     "grounds": "one skilled in mantras",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Where and how many times must the mantra-knower perform the fire offering with this mantra?",
+   "premises": [
+    "The offering takes place in Durga's shrine",
+    "The performer is a knower of mantras",
+    "The count specified is ten thousand"
+   ],
+   "inference": "The mantra-knower should perform ten thousand fire offerings with this mantra in Durga's shrine",
+   "uncertainties": [
+    "Whether ayuta counts offerings or mantra repetitions is slightly ambiguous"
+   ],
+   "plain_english": "In the shrine of Durga, the knower of mantras should offer ten thousand times with this mantra."
+  }
+ ]
+}

@@ -1,0 +1,485 @@
+{
+ "song": "sva-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "strītvam",
+     "gloss": "femaleness",
+     "grounds": "abstract quality of being female",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "strītvam",
+     "gloss": "femaleness",
+     "grounds": "repeated token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "strītvam",
+     "gloss": "femaleness",
+     "grounds": "repeated token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "strītvam",
+     "gloss": "femaleness",
+     "grounds": "repeated token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What quality of femaleness is being identified in this ritual context?",
+   "premises": [
+    "The term strītvam denotes femaleness.",
+    "The same term is reiterated four times.",
+    "Reiteration emphasizes the designated quality."
+   ],
+   "inference": "Femaleness is the specific quality being marked and emphasized.",
+   "uncertainties": [
+    "The exact ritual referent of femaleness is not specified in these tokens."
+   ],
+   "plain_english": "Femaleness is stated and emphasized."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "aghoravaktramantraḥ",
+     "gloss": "aghora-face-mantra",
+     "grounds": "mantra associated with the Aghora face",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "pratyaṅgāni",
+     "gloss": "minor-limbs",
+     "grounds": "subsidiary body parts",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "karodaracaraṇāṅgulyādīni",
+     "gloss": "hand-belly-foot-fingers-etc",
+     "grounds": "enumeration of minor limbs beginning with hand, belly, foot, fingers",
+     "morph": "n.nom.pl (compound)"
+    },
+    {
+     "surface": "aghoravaktramantraḥ",
+     "gloss": "aghora-face-mantra",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Which mantra and minor body parts are specified for ritual assignment here?",
+   "premises": [
+    "The Aghora-face mantra is named.",
+    "Minor limbs are named as pratyaṅgāni.",
+    "Hands, belly, feet, fingers and others are included among them."
+   ],
+   "inference": "The Aghora-face mantra is associated with the specified minor limbs.",
+   "uncertainties": [
+    "The exact procedure of assignment is not stated in these tokens."
+   ],
+   "plain_english": "The Aghora-face mantra is linked with the minor limbs such as hands, belly, feet, fingers, and so on."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sutāriṇyādyāḥ",
+     "gloss": "sutāriṇī-and-others",
+     "grounds": "group beginning with Sutāriṇī",
+     "morph": "f.nom.pl (compound)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates accordance with prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "phase",
+     "grounds": "ritual or cosmic phase/power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should Sutāriṇī and related phases be treated in this sequence?",
+   "premises": [
+    "Sutāriṇī and others are mentioned.",
+    "The term prāgvat indicates prior manner.",
+    "Kalā is named as the relevant category."
+   ],
+   "inference": "Sutāriṇī and the other kalās are to be treated as before.",
+   "uncertainties": [
+    "The earlier reference point for prāgvat is not included here."
+   ],
+   "plain_english": "And Sutāriṇī and the other kalās are to be handled as before."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "sarvatrānusaṃdheyam",
+     "gloss": "everywhere-to-be-connected",
+     "grounds": "to be applied or mentally connected in all cases",
+     "morph": "n.nom.sg (gerundive, compound)"
+    },
+    {
+     "surface": "sarvatrānusaṃdheyam",
+     "gloss": "everywhere-to-be-connected",
+     "grounds": "repeated token as given",
+     "morph": "n.nom.sg (gerundive, compound)"
+    },
+    {
+     "surface": "sarvatrānusaṃdheyam",
+     "gloss": "everywhere-to-be-connected",
+     "grounds": "repeated token as given",
+     "morph": "n.nom.sg (gerundive, compound)"
+    },
+    {
+     "surface": "sarvatrānusaṃdheyam",
+     "gloss": "everywhere-to-be-connected",
+     "grounds": "repeated token as given",
+     "morph": "n.nom.sg (gerundive, compound)"
+    }
+   ],
+   "question": "What scope of application is prescribed for the stated element?",
+   "premises": [
+    "The term sarvatrānusaṃdheyam means to be connected everywhere.",
+    "It is repeated four times.",
+    "Repetition stresses universal application."
+   ],
+   "inference": "The element in question must be applied in every context.",
+   "uncertainties": [
+    "The specific element to be connected is not named in these tokens."
+   ],
+   "plain_english": "It is to be applied everywhere."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "tadvaktrakalādinyāsastantrāntaravailakṣaṇyenehoktaḥ",
+     "gloss": "that-face-phase-etc-placement-other-tantra-difference-here-stated",
+     "grounds": "placement of that face, phase, etc., stated here as differing from other tantras",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tadvaktrakalādinyāsastantrāntaravailakṣaṇyenehoktaḥ",
+     "gloss": "that-face-phase-etc-placement-other-tantra-difference-here-stated",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tadvaktrakalādinyāsastantrāntaravailakṣaṇyenehoktaḥ",
+     "gloss": "that-face-phase-etc-placement-other-tantra-difference-here-stated",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tadvaktrakalādinyāsastantrāntaravailakṣaṇyenehoktaḥ",
+     "gloss": "that-face-phase-etc-placement-other-tantra-difference-here-stated",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "How does the placement of faces and phases differ from other tantras here?",
+   "premises": [
+    "The placement concerns that face, kalā, and so on.",
+    "A difference from other tantras is indicated.",
+    "This difference is stated as taught here."
+   ],
+   "inference": "The placement of those faces and phases is presented here in a form distinct from other tantras.",
+   "uncertainties": [
+    "The precise points of difference are not detailed in these tokens."
+   ],
+   "plain_english": "The placement of that face, kalā, and so forth is stated here as different from other tantras."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "bahuvrīhiḥ",
+     "gloss": "bahuvrihi",
+     "grounds": "grammatical compound type named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahuvrīhiḥ",
+     "gloss": "bahuvrihi",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahuvrīhiḥ",
+     "gloss": "bahuvrihi",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahuvrīhiḥ",
+     "gloss": "bahuvrihi",
+     "grounds": "repeated token as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What grammatical compound type is being identified in this note?",
+   "premises": [
+    "The term bahuvrīhiḥ names a compound type.",
+    "It is repeated four times.",
+    "Repetition marks it as the identified form."
+   ],
+   "inference": "A bahuvrīhi compound is being identified.",
+   "uncertainties": [
+    "The specific compound being analyzed is not shown in these tokens."
+   ],
+   "plain_english": "It is a bahuvrīhi compound."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvoktam",
+     "gloss": "previously-stated",
+     "grounds": "what was said earlier",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "tadbhāgatrayakalpanayā",
+     "gloss": "by-conceiving-its-three-parts",
+     "grounds": "by imagining or dividing that into three parts",
+     "morph": "f.ins.sg (compound)"
+    },
+    {
+     "surface": "tritattvakalpanārtham",
+     "gloss": "for-conceiving-three-principles",
+     "grounds": "for the purpose of conceiving three principles",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "Why is the previously stated item divided into three parts here?",
+   "premises": [
+    "Something previously stated is referred to.",
+    "It is conceived as having three parts.",
+    "This division serves the conception of three principles."
+   ],
+   "inference": "The earlier statement is divided into three parts to establish three principles.",
+   "uncertainties": [
+    "The identity of the previously stated item is not explicit in these tokens."
+   ],
+   "plain_english": "Thus, what was stated before is divided into three parts in order to conceive three principles."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "vījanaṃ",
+     "gloss": "fanning",
+     "grounds": "act of fanning or stimulating",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prasavābhimukhīkaraṇam",
+     "gloss": "making-ready-for-birth",
+     "grounds": "causing to turn toward bringing forth",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "pūrveṇa",
+     "gloss": "by-prior",
+     "grounds": "by means of the preceding one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ya-kāreṇa",
+     "gloss": "by-ya-syllable",
+     "grounds": "by the syllable ya",
+     "morph": "m.ins.sg (compound)"
+    }
+   ],
+   "question": "What effect is produced by the preceding syllable ya in this rite?",
+   "premises": [
+    "Vījanaṃ means fanning or stimulation.",
+    "It is explained as making ready for bringing forth.",
+    "This is done by the preceding syllable ya."
+   ],
+   "inference": "The syllable ya functions to stimulate and make ready for bringing forth.",
+   "uncertainties": [
+    "The object being made ready is not specified in these tokens."
+   ],
+   "plain_english": "Fanning means making ready for bringing forth, and it is done by the preceding syllable ya."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "should-offer-thrice",
+     "grounds": "perform oblation three times",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "should-offer-thrice",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "should-offer-thrice",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "trirjuhuyāt",
+     "gloss": "should-offer-thrice",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.optative-active √hu"
+    }
+   ],
+   "question": "How many times must the oblation be performed in this instruction?",
+   "premises": [
+    "The verb trirjuhuyāt prescribes offering thrice.",
+    "It is repeated four times.",
+    "Repetition reinforces the prescribed count."
+   ],
+   "inference": "The oblation must be performed three times.",
+   "uncertainties": [
+    "The substance and recipient of the oblation are not stated here."
+   ],
+   "plain_english": "One should offer the oblation three times."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "śivāgnirbhava",
+     "gloss": "become-shiva-fire",
+     "grounds": "formulaic name or invocation meaning become the fire of Śiva",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the preceding as a formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmakalpanam",
+     "gloss": "name-assignment",
+     "grounds": "the act of assigning or conceiving a name",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What ritual act is performed by the formula śivāgnirbhava namaḥ?",
+   "premises": [
+    "The formula śivāgnirbhava namaḥ is given.",
+    "The term iti marks it as a quoted formula.",
+    "Nāmakalpanam denotes assignment of a name."
+   ],
+   "inference": "The formula is used to assign a name in the ritual.",
+   "uncertainties": [
+    "The entity receiving the name is not specified in these tokens."
+   ],
+   "plain_english": "The formula 'śivāgnirbhava namaḥ' constitutes the assignment of a name."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "kṣamyatām",
+     "gloss": "let-be-forgiven",
+     "grounds": "request for pardon or forbearance",
+     "morph": "3.sg.passive-imperative √kṣam"
+    },
+    {
+     "surface": "ityuktvā",
+     "gloss": "having-said-thus",
+     "grounds": "after speaking these words",
+     "morph": "(gerund, compound)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "should-dismiss",
+     "grounds": "should release or send away",
+     "morph": "3.sg.optative-active √sṛj with vi"
+    },
+    {
+     "surface": "kṣamyatām",
+     "gloss": "let-be-forgiven",
+     "grounds": "repeated token as given",
+     "morph": "3.sg.passive-imperative √kṣam"
+    }
+   ],
+   "question": "What verbal act must precede the dismissal in this ritual step?",
+   "premises": [
+    "The words kṣamyatām are to be spoken.",
+    "Ityuktvā indicates speaking them first.",
+    "Visarjayet prescribes dismissal afterward."
+   ],
+   "inference": "One should ask for forgiveness and then perform the dismissal.",
+   "uncertainties": [
+    "The being or presence being dismissed is not named here."
+   ],
+   "plain_english": "After saying 'let there be forgiveness,' one should dismiss."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "dhāmnā",
+     "gloss": "by-power",
+     "grounds": "by means of a luminous power or abode",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "niṣkalena",
+     "gloss": "by-partless",
+     "grounds": "by the undivided or partless aspect",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "idhmā",
+     "gloss": "fuel",
+     "grounds": "ritual fuel for the fire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asphuṭitā",
+     "gloss": "not-burst-open",
+     "grounds": "not split or cracked",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What condition of the fuel is specified in relation to the partless power?",
+   "premises": [
+    "The partless power is invoked as the means.",
+    "Fuel is the subject named.",
+    "The fuel is described as not burst open."
+   ],
+   "inference": "By the partless power, the fuel is to be in an unburst condition.",
+   "uncertainties": [
+    "The ritual action performed with the fuel is not stated in these tokens."
+   ],
+   "plain_english": "By the partless power, the fuel is unburst."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the preceding statement",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "is-said",
+     "grounds": "past passive participle of vac, agreeing with tad",
+     "morph": "verb.3.sg.pass-past.part+root-vac"
+    },
+    {
+     "surface": "āgamārthānāṃ",
+     "gloss": "of-āgama-meanings",
+     "grounds": "compound of āgama and artha in genitive plural",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "siddhaśaivāgamādiṣu",
+     "gloss": "in-siddha-śaiva-āgamas-etc",
+     "grounds": "compound locating the statement among Siddha-Śaiva āgamas and others in locative plural",
+     "morph": "noun.loc.pl.m"
+    }
+   ],
+   "question": "Which authoritative texts are said to contain these āgama meanings?",
+   "premises": [
+    "The statement is called said.",
+    "It concerns āgama meanings.",
+    "It locates them in Siddha-Śaiva āgamas."
+   ],
+   "inference": "The verse identifies Siddha-Śaiva āgamas and related texts as the source for the stated āgama meanings.",
+   "uncertainties": [
+    "The exact scope of ādi remains unspecified."
+   ],
+   "plain_english": "That is said to be among the meanings of the āgamas, in the Siddha-Śaiva āgamas and others."
+  }
+ ]
+}

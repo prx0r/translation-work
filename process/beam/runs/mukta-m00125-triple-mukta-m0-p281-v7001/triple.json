@@ -1,0 +1,1253 @@
+{
+ "song": "mukta-m0-p281",
+ "items": [
+  {
+   "verse": 7001,
+   "rows": [
+    {
+     "surface": "savitā",
+     "gloss": "savitṛ",
+     "grounds": "name of a solar deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūṣā",
+     "gloss": "pūṣan",
+     "grounds": "name of a solar deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṃśumān",
+     "gloss": "ray-possessing",
+     "grounds": "name of a solar deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "name of a solar deity; sandhi before rdvādaśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rdvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral; sandhi fusion viṣṇuḥ+dvādaśa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "arkā",
+     "gloss": "suns",
+     "grounds": "the twelve solar deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "udāhṛtāḥ",
+     "gloss": "declared",
+     "grounds": "stated as enumerated",
+     "morph": "m.nom.pl.past-passive-participle+ud-ā-√hṛ"
+    }
+   ],
+   "question": "Which deities are enumerated as the twelve suns in this teaching?",
+   "premises": [
+    "Savitṛ, Pūṣan, Aṃśumān, and Viṣṇu are named.",
+    "The group is identified as twelve suns.",
+    "These twelve are declared as such."
+   ],
+   "inference": "The verse enumerates members of the group known as the twelve suns.",
+   "uncertainties": [
+    "Only four names are explicitly listed in this verse; the remaining eight are implied by the count."
+   ],
+   "plain_english": "Savitṛ, Pūṣan, Aṃśumān, and Viṣṇu are declared among the twelve suns."
+  },
+  {
+   "verse": 7002,
+   "rows": [
+    {
+     "surface": "yaṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "absolutive+√yaj"
+    },
+    {
+     "surface": "praṇāma",
+     "gloss": "with-obeisances",
+     "grounds": "acts of reverence",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "dhūpaiśca",
+     "gloss": "and-with-incenses",
+     "grounds": "sandhi dhūpaiḥ+ca",
+     "morph": "m.ins.pl+ca"
+    },
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "ritual substance",
+     "morph": "n.stem+compound-member"
+    },
+    {
+     "surface": "āhutibhiḥ",
+     "gloss": "with-oblations",
+     "grounds": "offerings into fire",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what ritual acts of worship should the deities be honored?",
+   "premises": [
+    "Worship is performed after having worshipped.",
+    "Obeisances and incenses are included.",
+    "Ghee oblations are also included."
+   ],
+   "inference": "The deities are to be honored through obeisances, incense, and ghee oblations.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped them, one should honor them with obeisances, incenses, and ghee oblations."
+  },
+  {
+   "verse": 7003,
+   "rows": [
+    {
+     "surface": "gandharvā",
+     "gloss": "gandharvas",
+     "grounds": "celestial beings; nominative plural form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "apsarasaḥ",
+     "gloss": "apsarases",
+     "grounds": "celestial nymphs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "fit for ritual worship",
+     "morph": "m.nom.pl.future-passive-participle+√pūj"
+    },
+    {
+     "surface": "citra",
+     "gloss": "citra",
+     "grounds": "name element of a gandharva",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "sena",
+     "gloss": "sena",
+     "grounds": "name element of a gandharva",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "agni",
+     "gloss": "agni",
+     "grounds": "name element of a gandharva",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "senakaḥ",
+     "gloss": "senaka",
+     "grounds": "name of a gandharva",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which gandharvas and apsarases are designated as worthy of worship?",
+   "premises": [
+    "Gandharvas and apsarases are to be worshipped.",
+    "Citrasena is named among them.",
+    "Agnisenaka is named among them."
+   ],
+   "inference": "The gandharvas and apsarases, including Citrasena and Agnisenaka, are to be worshipped.",
+   "uncertainties": [
+    "The exact grouping of names with gandharvas or apsarases is partly ambiguous."
+   ],
+   "plain_english": "The gandharvas and apsarases are to be worshipped, including Citrasena and Agnisenaka."
+  },
+  {
+   "verse": 7004,
+   "rows": [
+    {
+     "surface": "sūryavarcā",
+     "gloss": "sun-splendor",
+     "grounds": "name of a gandharva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yugaputro",
+     "gloss": "yuga-son",
+     "grounds": "name of a gandharva; sandhi yugaputraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suśirā",
+     "gloss": "suśira",
+     "grounds": "name of a gandharva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "amara",
+     "gloss": "amara",
+     "grounds": "name element in a pair",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "nandinau",
+     "gloss": "two-nandins",
+     "grounds": "pair including Amara and Nandin",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which additional gandharva figures are named in this enumeration?",
+   "premises": [
+    "Sūryavarcā is named.",
+    "Yugaputra and Suśira are named.",
+    "Amara and Nandin are named as a pair."
+   ],
+   "inference": "The list continues with Sūryavarcā, Yugaputra, Suśira, and the pair Amara and Nandin.",
+   "uncertainties": [],
+   "plain_english": "Sūryavarcā, Yugaputra, Suśira, and the pair Amara and Nandin are named."
+  },
+  {
+   "verse": 7005,
+   "rows": [
+    {
+     "surface": "urvīśaḥ",
+     "gloss": "urvīśa",
+     "grounds": "name of a gandharva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaliḥ",
+     "gloss": "kali",
+     "grounds": "name of a gandharva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvato",
+     "gloss": "parvata",
+     "grounds": "name of a gandharva; sandhi parvataḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāradaḥ",
+     "gloss": "nārada",
+     "grounds": "name of a gandharva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further gandharva figures are included in the continuing list?",
+   "premises": [
+    "Urvīśa and Kali are named.",
+    "Parvata is named.",
+    "Nārada is likewise named."
+   ],
+   "inference": "The enumeration continues with Urvīśa, Kali, Parvata, and Nārada.",
+   "uncertainties": [],
+   "plain_english": "Urvīśa, Kali, Parvata, and likewise Nārada are named."
+  },
+  {
+   "verse": 7006,
+   "rows": [
+    {
+     "surface": "kṛtavīryo",
+     "gloss": "kṛtavīrya",
+     "grounds": "name of a gandharva; sandhi kṛtavīryaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmacārī",
+     "gloss": "celibate-one",
+     "grounds": "name or epithet of a gandharva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suparṇo",
+     "gloss": "suparṇa",
+     "grounds": "name of a gandharva; sandhi suparṇaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mīna",
+     "gloss": "mīna",
+     "grounds": "name of a gandharva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or enumeration marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which concluding gandharva names complete this portion of the list?",
+   "premises": [
+    "Kṛtavīrya and Brahmacārī are named.",
+    "Suparṇa and Mīna are named.",
+    "The enumeration is marked as concluded."
+   ],
+   "inference": "This portion of the list concludes with Kṛtavīrya, Brahmacārī, Suparṇa, and Mīna.",
+   "uncertainties": [],
+   "plain_english": "Kṛtavīrya, Brahmacārī, Suparṇa, and Mīna are also named."
+  },
+  {
+   "verse": 7007,
+   "rows": [
+    {
+     "surface": "akṛtayaḥ",
+     "gloss": "akṛtas",
+     "grounds": "a group designation",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "codayantyo",
+     "gloss": "impelling-ones",
+     "grounds": "feminine plural participle; sandhi codayantyaḥ",
+     "morph": "f.nom.pl.present-participle+√cud"
+    },
+    {
+     "surface": "gandhavatyāḥ",
+     "gloss": "gandhavatīs",
+     "grounds": "a group of female beings",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "further",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which groups are introduced as the enumeration proceeds further?",
+   "premises": [
+    "The Akṛtas are named.",
+    "The impelling ones are named.",
+    "The Gandhavatīs are named and the list continues further."
+   ],
+   "inference": "The enumeration proceeds further with the Akṛtas, the impelling ones, and the Gandhavatīs.",
+   "uncertainties": [
+    "The precise identity and function of Akṛtas and Codayantyas is unclear from this verse alone."
+   ],
+   "plain_english": "Then further come the Akṛtas, the impelling ones, and the Gandhavatīs."
+  },
+  {
+   "verse": 7008,
+   "rows": [
+    {
+     "surface": "stavāḥ",
+     "gloss": "praises",
+     "grounds": "hymns or praise-beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛtā",
+     "gloss": "immortal",
+     "grounds": "epithet or group name; sandhi amṛtāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "modāḥ",
+     "gloss": "joys",
+     "grounds": "group name or beings of delight",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "suśivāḥ",
+     "gloss": "very-auspicious",
+     "grounds": "epithet or group name",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "further",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional groups follow in the continuing ritual enumeration?",
+   "premises": [
+    "Praises and the immortal ones are named.",
+    "The Modas and the very auspicious ones are named.",
+    "The sequence continues further thereafter."
+   ],
+   "inference": "The list continues with praises, the immortal ones, the Modas, and the very auspicious ones.",
+   "uncertainties": [
+    "Whether these terms denote beings, qualities, or ritual categories is not fully explicit."
+   ],
+   "plain_english": "Then further come the praises, the immortal ones, the Modas, and the very auspicious ones."
+  },
+  {
+   "verse": 7009,
+   "rows": [
+    {
+     "surface": "menakā",
+     "gloss": "menakā",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahajanyā",
+     "gloss": "sahajanyā",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatpūrvā",
+     "gloss": "preceded-by-that",
+     "grounds": "indicates prior in sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "puñjikasthalā",
+     "gloss": "puñjikasthalā",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which apsarases are named at this point in the enumeration?",
+   "premises": [
+    "Menakā is named.",
+    "Sahajanyā is named.",
+    "Puñjikasthalā is named in that sequence."
+   ],
+   "inference": "The apsarases Menakā, Sahajanyā, and Puñjikasthalā are enumerated here.",
+   "uncertainties": [
+    "The referent of tatpūrvā is context-dependent."
+   ],
+   "plain_english": "Menakā, Sahajanyā, and Puñjikasthalā before her are named."
+  },
+  {
+   "verse": 7010,
+   "rows": [
+    {
+     "surface": "pramlocantī",
+     "gloss": "pramlocantī",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anumlocantī",
+     "gloss": "anumlocantī",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mocayantī",
+     "gloss": "mocayantī",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anugā",
+     "gloss": "anugā",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which apsarases continue the sequence after the previous names?",
+   "premises": [
+    "Pramlocantī is named.",
+    "Anumlocantī and Mocayantī are named.",
+    "Anugā is named and the sequence continues."
+   ],
+   "inference": "The enumeration continues with Pramlocantī, Anumlocantī, Mocayantī, and Anugā.",
+   "uncertainties": [],
+   "plain_english": "Then come Pramlocantī, Anumlocantī, Mocayantī, and Anugā."
+  },
+  {
+   "verse": 7011,
+   "rows": [
+    {
+     "surface": "dāsyariṣṭā",
+     "gloss": "dāsyariṣṭā",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manovartī",
+     "gloss": "manovartī",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sukeśā",
+     "gloss": "sukeśā",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tilottamā",
+     "gloss": "tilottamā",
+     "grounds": "name of an apsaras",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which apsarases are named in this part of the list?",
+   "premises": [
+    "Dāsyariṣṭā is named.",
+    "Manovartī and Sukeśā are named.",
+    "Tilottamā is named."
+   ],
+   "inference": "The list includes Dāsyariṣṭā, Manovartī, Sukeśā, and Tilottamā.",
+   "uncertainties": [],
+   "plain_english": "Dāsyariṣṭā, Manovartī, Sukeśā, and Tilottamā are named."
+  },
+  {
+   "verse": 7012,
+   "rows": [
+    {
+     "surface": "caurviṃśati",
+     "gloss": "twenty-four",
+     "grounds": "total count; sandhi caturviṃśati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃkhyātāḥ",
+     "gloss": "numbered",
+     "grounds": "counted as a group",
+     "morph": "f.nom.pl.past-passive-participle+sam-√khyā"
+    },
+    {
+     "surface": "sugandhaiḥ",
+     "gloss": "with-fragrances",
+     "grounds": "ritual offerings",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sumālyakaiḥ",
+     "gloss": "with-fine-garlands",
+     "grounds": "ritual offerings",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How many apsarases are counted and with what offerings are they worshipped?",
+   "premises": [
+    "The group is numbered as twenty-four.",
+    "Fragrances are used in worship.",
+    "Fine garlands are used in worship."
+   ],
+   "inference": "Twenty-four apsarases are counted and worshipped with fragrances and fine garlands.",
+   "uncertainties": [],
+   "plain_english": "They are numbered as twenty-four and are to be worshipped with fragrances and fine garlands."
+  },
+  {
+   "verse": 7013,
+   "rows": [
+    {
+     "surface": "yakṣān",
+     "gloss": "yakṣas",
+     "grounds": "class of semi-divine beings",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saṃpūjyet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-middle+sam-√pūj"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the yakṣas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvaiśravaṇaḥ",
+     "gloss": "mahāvaiśravaṇa",
+     "grounds": "name of a yakṣa lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which beings are prescribed for worship in this section on yakṣas?",
+   "premises": [
+    "The yakṣas should be worshipped.",
+    "Mahāvaiśravaṇa is named among them.",
+    "The instruction continues likewise."
+   ],
+   "inference": "One should worship the yakṣas, including Mahāvaiśravaṇa.",
+   "uncertainties": [],
+   "plain_english": "One should worship the yakṣas, and likewise Mahāvaiśravaṇa."
+  },
+  {
+   "verse": 7014,
+   "rows": [
+    {
+     "surface": "vidhṛtaḥ",
+     "gloss": "vidhṛta",
+     "grounds": "name of a yakṣa lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrṇabhadraḥ",
+     "gloss": "pūrṇabhadra",
+     "grounds": "name of a yakṣa lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṭha",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "virūpākṣaḥ",
+     "gloss": "virūpākṣa",
+     "grounds": "name of a yakṣa lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral indicating total count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yakṣarāṭ",
+     "gloss": "yakṣa-lords",
+     "grounds": "collective designation; singular form used collectively",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many yakṣa lords are identified and which ones are named here?",
+   "premises": [
+    "Vidhṛta and Pūrṇabhadra are named.",
+    "Virūpākṣa is named.",
+    "The group is identified as eight yakṣa lords."
+   ],
+   "inference": "Vidhṛta, Pūrṇabhadra, and Virūpākṣa are named among the eight yakṣa lords.",
+   "uncertainties": [
+    "Only three names are explicitly given in this verse; the remaining five are implied."
+   ],
+   "plain_english": "Vidhṛta, Pūrṇabhadra, and then Virūpākṣa are named among the eight yakṣa lords."
+  },
+  {
+   "verse": 7015,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential marker; sandhi tataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlācale",
+     "gloss": "on-nīlācala",
+     "grounds": "sacred location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "siddhā",
+     "gloss": "siddhas",
+     "grounds": "accomplished beings; sandhi siddhāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mantrajño",
+     "gloss": "mantra-knower",
+     "grounds": "one skilled in mantras; sandhi mantrajñaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantravittamaḥ",
+     "gloss": "best-mantra-knower",
+     "grounds": "superlative expert in mantras",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which accomplished beings are located at Nīlācala in this instruction?",
+   "premises": [
+    "The location is Nīlācala.",
+    "Siddhas are present there.",
+    "A mantra-knower and the best mantra-knower are named."
+   ],
+   "inference": "At Nīlācala there are siddhas, including a mantra-knower and the best mantra-knower.",
+   "uncertainties": [
+    "The distinction between mantrajña and mantravittama as individuals or epithets is unclear."
+   ],
+   "plain_english": "Then on Nīlācala are the siddhas, the mantra-knower and the best knower of mantras."
+  },
+  {
+   "verse": 7016,
+   "rows": [
+    {
+     "surface": "siddhi",
+     "gloss": "siddhi",
+     "grounds": "accomplishment; first member of compound",
+     "morph": "f.stem+compound-member"
+    },
+    {
+     "surface": "matparamaḥ",
+     "gloss": "supreme-possessor",
+     "grounds": "one supreme in possessing siddhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "siddha",
+     "grounds": "accomplished being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kesarabhadrakaḥ",
+     "gloss": "kesarabhadraka",
+     "grounds": "name of a siddha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which siddhas are further identified in the Nīlācala context?",
+   "premises": [
+    "A siddha supreme in accomplishment is named.",
+    "Another siddha is named likewise.",
+    "Kesarabhadraka is explicitly named."
+   ],
+   "inference": "The siddhas include one supreme in accomplishment and Kesarabhadraka.",
+   "uncertainties": [],
+   "plain_english": "There is the siddha supreme in accomplishment, and likewise the siddha Kesarabhadraka."
+  },
+  {
+   "verse": 7017,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active+√dā"
+    },
+    {
+     "surface": "pratisara",
+     "gloss": "protective-thread",
+     "grounds": "ritual amulet or thread",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "beginning-with",
+     "grounds": "and so forth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "merau",
+     "gloss": "on-meru",
+     "grounds": "sacred location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nava+graha+anvitam",
+     "gloss": "with-nine-planets",
+     "grounds": "accompanied by the nine planets",
+     "morph": "n.acc.sg+compound"
+    }
+   ],
+   "question": "What ritual offering should be given on Meru together with the nine planets?",
+   "premises": [
+    "A protective thread and related items should be given.",
+    "The location specified is Meru.",
+    "The offering is accompanied by the nine planets."
+   ],
+   "inference": "On Meru one should give a protective thread and related items together with the nine planets.",
+   "uncertainties": [
+    "The exact scope of ādyaṃ is not fully specified."
+   ],
+   "plain_english": "On Meru one should give a protective thread and so forth, together with the nine planets."
+  },
+  {
+   "verse": 7018,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahmā",
+     "grounds": "deity name; stem form in enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "mahādeva",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viśākhāṃ",
+     "gloss": "viśākhā",
+     "grounds": "deity or attendant name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokapaiḥ",
+     "gloss": "with-world-guardians",
+     "grounds": "guardians of the directions",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which deities are to be included together with the world guardians in worship?",
+   "premises": [
+    "Brahmā, Viṣṇu, and Mahādeva are named.",
+    "Viśākhā is included.",
+    "They are associated with the world guardians."
+   ],
+   "inference": "Brahmā, Viṣṇu, Mahādeva, and Viśākhā are to be worshipped together with the world guardians.",
+   "uncertainties": [
+    "The grammatical role of viśākhāṃ in this list is slightly ambiguous."
+   ],
+   "plain_english": "One should worship Brahmā, Viṣṇu, Mahādeva, and Viśākhā together with the world guardians."
+  },
+  {
+   "verse": 7019,
+   "rows": [
+    {
+     "surface": "saṃyajed",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active+sam-√yaj"
+    },
+    {
+     "surface": "balibhiḥ",
+     "gloss": "with-offerings",
+     "grounds": "ritual oblations",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "together-with",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇakaiḥ",
+     "gloss": "with-colored-powders",
+     "grounds": "ritual substances",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-order",
+     "grounds": "sequential procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the worship be performed with offerings and colored substances?",
+   "premises": [
+    "Worship should be performed.",
+    "Offerings and colored powders are to be used.",
+    "The worship should proceed in order."
+   ],
+   "inference": "One should perform the worship in order with offerings and colored powders.",
+   "uncertainties": [],
+   "plain_english": "One should worship them in due order, together with offerings and colored powders."
+  },
+  {
+   "verse": 7020,
+   "rows": [
+    {
+     "surface": "ādityaḥ",
+     "gloss": "āditya",
+     "grounds": "the sun; a planet deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "somaḥ",
+     "gloss": "soma",
+     "grounds": "the moon; a planet deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṅaraka",
+     "gloss": "maṅgala",
+     "grounds": "Mars; surface form as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "budhau",
+     "gloss": "two-budhas",
+     "grounds": "Mercury; dual form in enumeration",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which planetary deities begin the enumeration of the nine planets?",
+   "premises": [
+    "Āditya and Soma are named.",
+    "Maṅgala is named.",
+    "Budha is named and the list continues."
+   ],
+   "inference": "The enumeration of planets begins with Āditya, Soma, Maṅgala, and Budha.",
+   "uncertainties": [
+    "The form akṅaraka and budhau are irregular in this transmission."
+   ],
+   "plain_english": "Āditya, Soma, Maṅgala, and the two Budhas are named, and then the list continues."
+  },
+  {
+   "verse": 7021,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "refers to the enumerated planets",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nava+grahāḥ",
+     "gloss": "nine-planets",
+     "grounds": "the nine planetary deities",
+     "morph": "m.nom.pl+compound"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "stated as such",
+     "morph": "m.nom.pl.past-passive-participle+pra-√vac"
+    },
+    {
+     "surface": "kṛttikā",
+     "gloss": "kṛttikā",
+     "grounds": "lunar mansion; sandhi kṛttikāḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāḥ",
+     "gloss": "further",
+     "grounds": "others following",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What group is declared complete and what begins the next enumeration?",
+   "premises": [
+    "These are declared as the nine planets.",
+    "Kṛttikā is named next.",
+    "Further ones follow thereafter."
+   ],
+   "inference": "After declaring the nine planets, the text begins enumerating Kṛttikā and further lunar mansions.",
+   "uncertainties": [],
+   "plain_english": "These are declared to be the nine planets; then come Kṛttikā and the further ones."
+  },
+  {
+   "verse": 7022,
+   "rows": [
+    {
+     "surface": "dhaniṣṭā",
+     "gloss": "dhaniṣṭhā",
+     "grounds": "lunar mansion name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śatabhiṣak",
+     "gloss": "śatabhiṣak",
+     "grounds": "lunar mansion name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvābhādrapadā",
+     "gloss": "pūrvabhādrapadā",
+     "grounds": "lunar mansion name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lunar mansions are named in this part of the sequence?",
+   "premises": [
+    "Dhaniṣṭhā is named.",
+    "Śatabhiṣak is named.",
+    "Pūrvabhādrapadā is named again."
+   ],
+   "inference": "The sequence includes Dhaniṣṭhā, Śatabhiṣak, and Pūrvabhādrapadā.",
+   "uncertainties": [],
+   "plain_english": "Dhaniṣṭhā, Śatabhiṣak, and Pūrvabhādrapadā are named again."
+  },
+  {
+   "verse": 7023,
+   "rows": [
+    {
+     "surface": "bharaṇyā",
+     "gloss": "bharaṇī",
+     "grounds": "lunar mansion name; instrumental form as given",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "cottarasyāṃ",
+     "gloss": "in-the-north",
+     "grounds": "directional location; sandhi ca+uttarasyām",
+     "morph": "f.loc.sg+ca"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāmhī",
+     "gloss": "brāhmī",
+     "grounds": "name of a mother goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māheśvarī",
+     "gloss": "māheśvarī",
+     "grounds": "name of a mother goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mother goddesses are introduced in the northern direction after Bharaṇī?",
+   "premises": [
+    "Bharaṇī is mentioned in relation to the north.",
+    "Brāhmī is named.",
+    "Māheśvarī is named thereafter."
+   ],
+   "inference": "In the northern context after Bharaṇī, Brāhmī and Māheśvarī are introduced.",
+   "uncertainties": [
+    "The syntactic relation of bharaṇyā to the rest of the verse is unclear."
+   ],
+   "plain_english": "With Bharaṇī in the north, Brāhmī and then Māheśvarī are named."
+  },
+  {
+   "verse": 7024,
+   "rows": [
+    {
+     "surface": "māhendrī",
+     "gloss": "māhendrī",
+     "grounds": "name of a mother goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāmuṇḍī",
+     "gloss": "cāmuṇḍī",
+     "grounds": "name of a mother goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vīrabhadra",
+     "gloss": "vīrabhadra",
+     "grounds": "name element in a pair",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "gaṇādhipau",
+     "gloss": "two-lords-of-hosts",
+     "grounds": "pair of leaders of gaṇas",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which mother goddesses and lords of hosts conclude this enumeration?",
+   "premises": [
+    "Māhendrī is named.",
+    "Cāmuṇḍī is named.",
+    "Vīrabhadra and a lord of hosts are named as a pair."
+   ],
+   "inference": "The enumeration concludes with Māhendrī, Cāmuṇḍī, and the pair Vīrabhadra and the lord of hosts.",
+   "uncertainties": [
+    "The identity of the second member in gaṇādhipau is not explicit in this verse."
+   ],
+   "plain_english": "Māhendrī and Cāmuṇḍī are named, along with Vīrabhadra and the two lords of hosts."
+  }
+ ]
+}

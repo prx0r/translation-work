@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "māsena",
+     "gloss": "in-a-month",
+     "grounds": "instrumental of māsa (month), expressing time within which",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "root yā, present active third singular",
+     "morph": "3.sg.act-pres, root yā"
+    },
+    {
+     "surface": "vairī",
+     "gloss": "enemy",
+     "grounds": "nominative singular masculine of vairin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāhajvarayuto",
+     "gloss": "joined-with-burning-fever",
+     "grounds": "compound of dāha, jvara, and yuta; nominative singular masculine",
+     "morph": "compound: dāha+jvara+yuta, m.nom.sg"
+    },
+    {
+     "surface": "yamam",
+     "gloss": "to-yama",
+     "grounds": "accusative singular masculine of yama",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Within what time does an enemy afflicted by burning fever go to Yama?",
+   "premises": [
+    "enemy goes to Yama within a month",
+    "enemy is joined with burning fever",
+    "Yama is the destination"
+   ],
+   "inference": "The verse states that an enemy afflicted with burning fever goes to Yama within a month.",
+   "uncertainties": [
+    "dāhajvarayuto may modify vairī or another implied noun",
+    "ritual context beyond the supplied verse is not available"
+   ],
+   "plain_english": "Within a month the enemy, afflicted with burning fever, goes to Yama."
+  }
+ ]
+}

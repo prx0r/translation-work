@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p162",
+ "items": [
+  {
+   "verse": 4050,
+   "rows": [
+    {
+     "surface": "uttiṣṭhati",
+     "gloss": "rises",
+     "grounds": "verb indicating the act of standing up",
+     "morph": "3.sg.act-pres √sthā+ud"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb marking the occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "ritual-placement",
+     "grounds": "object of the placement action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgaṃ",
+     "gloss": "six-limbed",
+     "grounds": "compound qualifying the placement as having six parts",
+     "morph": "m.acc.sg compound ṣaṣ+aṅga"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "injunctive/optative prescription for ritual action",
+     "morph": "3.sg.act-opt √nyas+vi"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition of the action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual placement must be performed again when one rises from the seated position?",
+   "premises": [
+    "A practitioner may rise from a seated position.",
+    "Rising creates the occasion for renewed ritual placement.",
+    "The prescribed placement is the six-limbed nyāsa."
+   ],
+   "inference": "Therefore, upon rising one should again perform the six-limbed nyāsa.",
+   "uncertainties": [],
+   "plain_english": "When one rises, then one should again place the six-limbed nyāsa."
+  }
+ ]
+}

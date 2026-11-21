@@ -1,0 +1,996 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then-and",
+     "grounds": "indeclinable sequence marker with conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpa-patrāṇi",
+     "gloss": "incense-and-leaves",
+     "grounds": "compound of offerings to be placed",
+     "morph": "compound n.acc.pl"
+    },
+    {
+     "surface": "śrīcakre",
+     "gloss": "in-sacred-circle",
+     "grounds": "locative indicating place of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viniyojayet",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for ritual action",
+     "morph": "3.sg.opt.act √ni-yuj"
+    }
+   ],
+   "question": "What ritual offerings must be placed in the sacred circle after the preceding actions?",
+   "premises": [
+    "The instruction follows a prior sequence of actions.",
+    "Incense and leaves are specified as offerings.",
+    "The sacred circle is the designated location for placement."
+   ],
+   "inference": "After the preceding steps, one should place incense and leaves in the sacred circle.",
+   "uncertainties": [],
+   "plain_english": "Then one should place incense and leaves in the sacred circle."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "paramānnañca",
+     "gloss": "excellent-rice-and",
+     "grounds": "offering item joined by conjunction",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "takrañca",
+     "gloss": "buttermilk-and",
+     "grounds": "offering item joined by conjunction",
+     "morph": "n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "suvāsita-jalaṃ",
+     "gloss": "well-fragranced-water",
+     "grounds": "compound describing prepared water offering",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which additional food and liquid offerings are prescribed for the ritual, O beloved?",
+   "premises": [
+    "Excellent rice is included among the offerings.",
+    "Buttermilk is included among the offerings.",
+    "Well-fragranced water is included among the offerings."
+   ],
+   "inference": "Excellent rice, buttermilk, and well-fragranced water should be offered.",
+   "uncertainties": [],
+   "plain_english": "O beloved, offer excellent rice, buttermilk, and well-fragranced water."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "instrument indicating preparation medium",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "jñāvitaṃ",
+     "gloss": "prepared",
+     "grounds": "past participle describing treated meat; legacy hint suggests known-prepared",
+     "morph": "n.acc.sg past-participle"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "offering substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "qualifies the meat as of different kinds",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for ritual action",
+     "morph": "3.sg.opt.act √sthā-caus"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should various kinds of meat be prepared and placed as an offering, O beloved?",
+   "premises": [
+    "Meat is specified as an offering.",
+    "The meat is to be various in kind.",
+    "The meat is prepared with ghee before placement."
+   ],
+   "inference": "One should place various kinds of meat prepared with ghee.",
+   "uncertainties": [
+    "The exact sense of jñāvitaṃ is unclear; taken as prepared or treated."
+   ],
+   "plain_english": "O beloved, one should place various kinds of meat prepared with ghee."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "laśūnaṃ",
+     "gloss": "garlic",
+     "grounds": "offering item to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrīcakramadhye",
+     "gloss": "in-sacred-circle-middle",
+     "grounds": "compound locative indicating central placement",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "sthāpayed",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for ritual action",
+     "morph": "3.sg.opt.act √sthā-caus"
+    },
+    {
+     "surface": "ārdrakaṃ",
+     "gloss": "ginger",
+     "grounds": "offering item to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which pungent substances must be placed in the middle of the sacred circle, O beloved?",
+   "premises": [
+    "Garlic is specified as an offering.",
+    "Ginger is specified as an offering.",
+    "Both are to be placed in the middle of the sacred circle."
+   ],
+   "inference": "One should place garlic and ginger in the middle of the sacred circle.",
+   "uncertainties": [],
+   "plain_english": "O beloved, one should place garlic and ginger in the middle of the sacred circle."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "lājāṃś",
+     "gloss": "parched-rice",
+     "grounds": "offering item with accusative plural ending",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "cipiṭakañcaiva",
+     "gloss": "flattened-rice-and-indeed",
+     "grounds": "offering item joined by emphatic conjunctions",
+     "morph": "n.acc.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "śrīcakre",
+     "gloss": "in-sacred-circle",
+     "grounds": "locative indicating place of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viniyojayet",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for ritual action",
+     "morph": "3.sg.opt.act √ni-yuj"
+    }
+   ],
+   "question": "What grain preparations must be placed in the sacred circle as offerings?",
+   "premises": [
+    "Parched rice is specified as an offering.",
+    "Flattened rice is also specified as an offering.",
+    "The sacred circle is the designated location for placement."
+   ],
+   "inference": "One should place parched rice and flattened rice in the sacred circle.",
+   "uncertainties": [],
+   "plain_english": "One should place parched rice and flattened rice in the sacred circle."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "paṅktyākāre",
+     "gloss": "in-row-form",
+     "grounds": "compound indicating arrangement pattern",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "cakramadhye",
+     "gloss": "in-circle-middle",
+     "grounds": "compound locative indicating central placement",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative injunction for ritual action",
+     "morph": "3.sg.opt.act √sthā-caus"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In what arrangement should offerings be placed within the middle of the circle, O supreme goddess?",
+   "premises": [
+    "The placement occurs in the middle of the circle.",
+    "A row-like arrangement is specified.",
+    "The instruction is addressed to the supreme goddess."
+   ],
+   "inference": "One should place the offerings in rows in the middle of the circle.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, one should place them in rows in the middle of the circle."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "śodhitaṃ",
+     "gloss": "purified",
+     "grounds": "past participle indicating ritual purification",
+     "morph": "n.acc.sg past-participle"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable indicating proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "refers to all items to be arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṅktyākāre",
+     "gloss": "in-row-form",
+     "grounds": "compound indicating arrangement pattern",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative injunction for ritual arrangement",
+     "morph": "3.sg.opt.act √ni-yuj"
+    }
+   ],
+   "question": "How must all the offerings be prepared and arranged according to proper ritual procedure?",
+   "premises": [
+    "All items must be purified.",
+    "The purification and arrangement must follow prescribed rules.",
+    "The items must be arranged in rows."
+   ],
+   "inference": "All purified items should be arranged in rows according to rule.",
+   "uncertainties": [],
+   "plain_english": "One should purify everything according to rule and arrange it in rows."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking conclusion of a section",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīsarvānandanāthaviracite",
+     "gloss": "by-sacred-sarvanandanatha-composed",
+     "grounds": "compound attributing authorship",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "sarvollāse",
+     "gloss": "in-sarvollasa",
+     "grounds": "locative naming the work",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ekaviṃśatyullāsaḥ",
+     "gloss": "twenty-first-chapter",
+     "grounds": "compound naming the chapter number",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Sarvollasa composed by Sarvanandanatha concludes at this point?",
+   "premises": [
+    "The text is attributed to Sarvanandanatha.",
+    "The work named is the Sarvollasa.",
+    "The concluding section is identified as the twenty-first chapter."
+   ],
+   "inference": "This marks the end of the twenty-first chapter in the Sarvollasa composed by Sarvanandanatha.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the twenty-first chapter in the Sarvollasa composed by the revered Sarvanandanatha."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "śāntike",
+     "gloss": "in-peace-rite",
+     "grounds": "locative indicating ritual purpose",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣṭike",
+     "gloss": "in-nourishment-rite",
+     "grounds": "locative indicating ritual purpose",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kārye",
+     "gloss": "in-work",
+     "grounds": "locative indicating ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rājataṃ",
+     "gloss": "silver",
+     "grounds": "material to be used",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "optative causative injunction",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What material should be used for rites of peace and nourishment, O beloved?",
+   "premises": [
+    "The rites concerned are for peace and nourishment.",
+    "Silver is specified as the material.",
+    "One is instructed to have it made."
+   ],
+   "inference": "For rites of peace and nourishment, one should have a silver item made.",
+   "uncertainties": [
+    "The specific object to be made of silver is not stated in this verse."
+   ],
+   "plain_english": "O beloved, for rites of peace and nourishment one should have it made of silver."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "sarvakāryeṣu",
+     "gloss": "in-all-works",
+     "grounds": "compound locative indicating universal application",
+     "morph": "compound n.loc.pl"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg gerundive"
+    },
+    {
+     "surface": "viśvāmitraṃ",
+     "gloss": "vishvamitra",
+     "grounds": "name or designation of the required item or form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "o-kula-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is required to be done in all ritual works, O goddess of the kula?",
+   "premises": [
+    "The instruction applies to all works.",
+    "Something called Vishvamitra is prescribed as to be done.",
+    "The instruction is addressed to the kula goddess."
+   ],
+   "inference": "In all works, the Vishvamitra is to be employed or made.",
+   "uncertainties": [
+    "The precise referent of viśvāmitraṃ in this ritual context is unclear."
+   ],
+   "plain_english": "O goddess of the kula, in all works the Vishvamitra should be used."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "abhedasthitapātrakam",
+     "gloss": "non-difference-situated-vessel",
+     "grounds": "compound describing a vessel established in non-difference",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What kind of vessel is designated by the state of non-difference in this ritual context?",
+   "premises": [
+    "The vessel is described as situated in non-difference.",
+    "The term functions as a designation of the ritual vessel."
+   ],
+   "inference": "The prescribed vessel is one established in non-difference.",
+   "uncertainties": [
+    "The doctrinal nuance of abhedasthita in relation to the vessel is not fully explicit."
+   ],
+   "plain_english": "The vessel is that which is established in non-difference."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable indicating location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhārantu",
+     "gloss": "base-indeed",
+     "grounds": "base or support with emphatic particle",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive √sthā-caus"
+    },
+    {
+     "surface": "śrīpātraṃ",
+     "gloss": "sacred-vessel",
+     "grounds": "compound naming the vessel to be placed",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "sthāpayettataḥ",
+     "gloss": "one-should-place-then",
+     "grounds": "optative verb fused with following temporal particle",
+     "morph": "3.sg.opt.act √sthā-caus + (indecl.)"
+    }
+   ],
+   "question": "What sequence of placement is required for the base and the sacred vessel?",
+   "premises": [
+    "A base must first be placed in that location.",
+    "The sacred vessel is placed after the base is established.",
+    "The actions follow a clear sequence."
+   ],
+   "inference": "After placing the base there, one should then place the sacred vessel.",
+   "uncertainties": [],
+   "plain_english": "There, having set the base, one should then place the sacred vessel."
+  },
+  {
+   "verse": 663,
+   "rows": [
+    {
+     "surface": "padasaṃkhyāñca",
+     "gloss": "step-number-and",
+     "grounds": "compound with conjunction indicating a measured element",
+     "morph": "compound f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "koṇañca",
+     "gloss": "corner-and",
+     "grounds": "element of the diagram joined by conjunction",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "circle",
+     "grounds": "ritual diagram to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "optative causative injunction",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What structural elements must be included when constructing the ritual circle, O beloved?",
+   "premises": [
+    "The number of steps is specified as an element.",
+    "Corners are specified as elements.",
+    "A circle or diagram is to be made incorporating them."
+   ],
+   "inference": "One should make the circle with the prescribed number of steps and corners.",
+   "uncertainties": [
+    "The exact technical meaning of padasaṃkhyā in this diagrammatic context is uncertain."
+   ],
+   "plain_english": "O beloved, one should make the circle with the proper number of steps and corners."
+  },
+  {
+   "verse": 664,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "indeclinable marking transition in discourse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotumicchāmi",
+     "gloss": "to-hear-i-wish",
+     "grounds": "infinitive with first person desire verb",
+     "morph": "infinitive + 1.sg.pres.act √iṣ"
+    },
+    {
+     "surface": "tattvajñānañca",
+     "gloss": "principle-knowledge-and",
+     "grounds": "compound object of desire joined by conjunction",
+     "morph": "compound n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "tadvada",
+     "gloss": "that-tell",
+     "grounds": "imperative request for instruction",
+     "morph": "2.sg.imp.act √vad"
+    }
+   ],
+   "question": "What knowledge of the principles is now requested to be taught?",
+   "premises": [
+    "The speaker expresses a present desire to hear.",
+    "The object of desire is knowledge of the principles.",
+    "The listener is asked to explain it."
+   ],
+   "inference": "The speaker now asks to be taught the knowledge of the principles.",
+   "uncertainties": [],
+   "plain_english": "Now I wish to hear about the knowledge of the principles; please tell me that."
+  },
+  {
+   "verse": 665,
+   "rows": [
+    {
+     "surface": "sattvaguṇāśrayāḥ",
+     "gloss": "sattva-quality-resorting",
+     "grounds": "compound describing those who rely on the sattva quality",
+     "morph": "compound m.nom.pl"
+    }
+   ],
+   "question": "Who are characterized as resorting to the quality of sattva in this teaching?",
+   "premises": [
+    "The subject is described as resorting to the sattva quality.",
+    "The form indicates a group characterized by this reliance."
+   ],
+   "inference": "Those who resort to the quality of sattva are being identified.",
+   "uncertainties": [
+    "The syntactic role of this word in the surrounding discourse is incomplete in isolation."
+   ],
+   "plain_english": "They are those who resort to the quality of sattva."
+  },
+  {
+   "verse": 666,
+   "rows": [
+    {
+     "surface": "tattvajñānaprasādena",
+     "gloss": "by-principle-knowledge-grace",
+     "grounds": "compound instrumental indicating cause",
+     "morph": "compound m.ins.sg"
+    },
+    {
+     "surface": "śambhuḥ",
+     "gloss": "shambhu",
+     "grounds": "divine agent named as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃhārakārakaḥ",
+     "gloss": "destruction-maker",
+     "grounds": "compound predicate describing Shambhu's role",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "How does knowledge of the principles enable Shambhu to act as the agent of dissolution?",
+   "premises": [
+    "Knowledge of the principles is presented as a grace or enabling cause.",
+    "Shambhu is identified as the agent of dissolution.",
+    "The instrumental links the knowledge to Shambhu's role."
+   ],
+   "inference": "By the grace of knowledge of the principles, Shambhu becomes the agent of dissolution.",
+   "uncertainties": [],
+   "plain_english": "By the grace of knowledge of the principles, Shambhu becomes the agent of dissolution."
+  },
+  {
+   "verse": 667,
+   "rows": [
+    {
+     "surface": "tattvajñānaṃ",
+     "gloss": "principle-knowledge",
+     "grounds": "compound object whose absence is considered",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable indicating absence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "subject whose status is evaluated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hāsyāya",
+     "gloss": "for-laughter",
+     "grounds": "dative indicating result or purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "kalpate",
+     "gloss": "becomes",
+     "grounds": "present verb expressing outcome",
+     "morph": "3.sg.pres.mid √kḷp"
+    }
+   ],
+   "question": "What becomes of the claim to liberation when knowledge of the principles is absent, O goddess?",
+   "premises": [
+    "Liberation is considered in the absence of knowledge of the principles.",
+    "Without that knowledge, liberation is reduced to ridicule.",
+    "The statement is addressed to the goddess."
+   ],
+   "inference": "Without knowledge of the principles, liberation becomes a matter of laughter.",
+   "uncertainties": [],
+   "plain_english": "O goddess, without knowledge of the principles, liberation becomes a joke."
+  },
+  {
+   "verse": 668,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative calling for attention",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-shall-speak",
+     "grounds": "future declaration of teaching",
+     "morph": "1.sg.fut.act pra-√vac"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "object of the forthcoming teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parama-durlabham",
+     "gloss": "supremely-difficult-to-obtain",
+     "grounds": "compound qualifying the principle as rare",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What rare teaching about the principles is about to be declared to the goddess?",
+   "premises": [
+    "The goddess is asked to listen.",
+    "The speaker promises to declare the principle.",
+    "The principle is described as supremely difficult to obtain."
+   ],
+   "inference": "The speaker will reveal the supremely rare principle.",
+   "uncertainties": [],
+   "plain_english": "Listen, O goddess, I shall speak of the principle that is supremely difficult to obtain."
+  },
+  {
+   "verse": 669,
+   "rows": [
+    {
+     "surface": "madyaṃ",
+     "gloss": "wine",
+     "grounds": "first of the five elements named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "second of the five elements named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable linking items in enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "third of the five elements named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudrāñca",
+     "gloss": "gesture-and",
+     "grounds": "fourth element joined by conjunction",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "maithunaṃ",
+     "gloss": "sexual-union",
+     "grounds": "fifth of the five elements named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which five elements are enumerated as the core components of this teaching, O Shiva?",
+   "premises": [
+    "Wine, meat, and fish are explicitly named.",
+    "Gesture and sexual union are also named.",
+    "Together they form a set of five elements."
+   ],
+   "inference": "The teaching enumerates wine, meat, fish, gesture, and sexual union as the five elements.",
+   "uncertainties": [],
+   "plain_english": "O Shiva, they are wine, meat, fish, gesture, and sexual union."
+  },
+  {
+   "verse": 670,
+   "rows": [
+    {
+     "surface": "aiśvaryaṃ",
+     "gloss": "sovereignty",
+     "grounds": "resulting attainment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the sovereignty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛṣṭaṃ",
+     "gloss": "delightful",
+     "grounds": "qualifies the attained state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madya-pānena",
+     "gloss": "by-wine-drinking",
+     "grounds": "compound instrumental indicating cause",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "śailaje",
+     "gloss": "o-mountain-daughter",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What supreme and delightful attainment results from the drinking of wine, O daughter of the mountain?",
+   "premises": [
+    "Wine drinking is identified as the cause.",
+    "The result is described as supreme sovereignty.",
+    "The attained state is characterized as delightful."
+   ],
+   "inference": "By drinking wine, one attains supreme and delightful sovereignty.",
+   "uncertainties": [],
+   "plain_english": "O daughter of the mountain, by drinking wine one attains supreme and delightful sovereignty."
+  },
+  {
+   "verse": 671,
+   "rows": [
+    {
+     "surface": "matsyabhojanamātreṇa",
+     "gloss": "by-fish-eating-mere",
+     "grounds": "compound instrumental indicating sufficient cause",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "kālīpratyakṣatā",
+     "gloss": "kali-visibility",
+     "grounds": "compound naming direct vision of Kali",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possible result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What direct realization of Kali arises merely from the eating of fish?",
+   "premises": [
+    "The mere eating of fish is presented as sufficient cause.",
+    "The result is direct visibility or realization of Kali."
+   ],
+   "inference": "Merely by eating fish, direct realization of Kali may arise.",
+   "uncertainties": [],
+   "plain_english": "Merely by eating fish, one may attain the direct vision of Kali."
+  },
+  {
+   "verse": 672,
+   "rows": [
+    {
+     "surface": "maithunena",
+     "gloss": "by-sexual-union",
+     "grounds": "instrumental indicating cause",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mahāyogī",
+     "gloss": "great-yogin",
+     "grounds": "subject attaining equality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mama-tulyo",
+     "gloss": "to-me-equal",
+     "grounds": "compound predicate expressing equality with the speaker",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What status does a great yogin attain through sexual union according to this teaching?",
+   "premises": [
+    "Sexual union is identified as the cause.",
+    "The great yogin becomes equal to the speaker.",
+    "The claim is asserted without doubt."
+   ],
+   "inference": "Through sexual union, the great yogin becomes equal to the speaker, without doubt.",
+   "uncertainties": [],
+   "plain_english": "Through sexual union the great yogin becomes equal to me; there is no doubt."
+  },
+  {
+   "verse": 673,
+   "rows": [
+    {
+     "surface": "dvitīyena",
+     "gloss": "by-second",
+     "grounds": "ordinal indicating the second element",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvena",
+     "gloss": "by-principle",
+     "grounds": "instrumental referring to the ritual element",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mahābhairavatāṃ",
+     "gloss": "great-bhairava-state",
+     "grounds": "compound indicating attainment of Mahabhairava status",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "one-attains",
+     "grounds": "optative expressing attainment",
+     "morph": "3.sg.opt.act √vraj"
+    }
+   ],
+   "question": "What exalted state is attained through the second of the enumerated ritual elements?",
+   "premises": [
+    "The second element is identified as the cause.",
+    "The result is the state of great Bhairava.",
+    "The attainment is expressed as a possible outcome."
+   ],
+   "inference": "By the second element, one attains the state of great Bhairava.",
+   "uncertainties": [
+    "Which specific element is meant by 'second' depends on the enumeration context."
+   ],
+   "plain_english": "By the second element, one attains the state of the great Bhairava."
+  },
+  {
+   "verse": 674,
+   "rows": [
+    {
+     "surface": "pareṇa",
+     "gloss": "by-supreme",
+     "grounds": "instrumental referring to the highest element",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "paratāṃ",
+     "gloss": "supremacy",
+     "grounds": "abstract state attained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "one-goes",
+     "grounds": "present verb expressing attainment",
+     "morph": "3.sg.pres.act √yā"
+    },
+    {
+     "surface": "tava-tulyoḥ",
+     "gloss": "to-you-equal",
+     "grounds": "compound predicate expressing equality with the addressee; form as given",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ultimate supremacy is reached through the highest element, and to whom does one become equal?",
+   "premises": [
+    "The supreme element is identified as the cause.",
+    "The practitioner attains supremacy.",
+    "The practitioner becomes equal to the addressee without doubt."
+   ],
+   "inference": "By the supreme element, one attains supremacy and becomes equal to you, without doubt.",
+   "uncertainties": [
+    "The surface form tava-tulyoḥ is unusual; interpreted as equality with the addressee."
+   ],
+   "plain_english": "By the supreme element one attains supremacy and becomes equal to you; there is no doubt."
+  }
+ ]
+}

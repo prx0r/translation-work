@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "pāvamānyaḥ",
+     "gloss": "purifying-verses",
+     "grounds": "feminine plural referring to purifying hymns; subject of imperative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "punantu",
+     "gloss": "let-purify",
+     "grounds": "imperative expressing a wish or request for purification",
+     "morph": "3.pl.act.imp-√pū"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "first-person pronoun as object of purification",
+     "morph": "1.sg.acc"
+    }
+   ],
+   "question": "What agent is invoked to accomplish the speaker's purification?",
+   "premises": [
+    "Purifying verses are addressed as active agents.",
+    "An imperative form expresses a request for purification.",
+    "The speaker is designated as the object to be purified."
+   ],
+   "inference": "The speaker petitions the purifying verses to effect his purification.",
+   "uncertainties": [],
+   "plain_english": "May the purifying verses purify me."
+  }
+ ]
+}

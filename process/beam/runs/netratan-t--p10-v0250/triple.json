@@ -1,0 +1,32 @@
+{
+ "song": "net-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "ācāryakṛtena",
+     "gloss": "by-teacher-made",
+     "grounds": "compound of ācārya and kṛta, instrumental case",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sādhyasya",
+     "gloss": "of-the-to-be-accomplished",
+     "grounds": "verbal adjective sādhya in genitive case",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What is accomplished by the teacher?",
+   "premises": [
+    "teacher-made action accomplishes the goal",
+    "the to-be-accomplished thing is named"
+   ],
+   "inference": "the rite is accomplished by the teacher's making",
+   "uncertainties": [
+    "exact syntactic relation to an omitted noun is unclear"
+   ],
+   "plain_english": "The to-be-accomplished rite is accomplished by the teacher."
+  }
+ ]
+}

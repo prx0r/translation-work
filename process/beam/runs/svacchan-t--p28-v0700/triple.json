@@ -1,0 +1,44 @@
+{
+ "song": "sva-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "anantaraṃ",
+     "gloss": "after",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaśaktyubhayātmakatvāt",
+     "gloss": "because-both-nature-shiva-shakti",
+     "grounds": "ablative singular of abstract compound noun expressing cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mithunatvam",
+     "gloss": "union",
+     "grounds": "neuter abstract noun denoting union",
+     "morph": "n.nom/acc.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle marking conclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does union follow immediately after?",
+   "premises": [
+    "Union follows immediately after.",
+    "Both nature of Shiva and Shakti causes union."
+   ],
+   "inference": "Immediate union arises from shared Shiva-Shakti nature.",
+   "uncertainties": [
+    "Exact syntactic scope of iti remains unclear."
+   ],
+   "plain_english": "Next, because it is of the nature of both Shiva and Shakti, there is union; thus."
+  }
+ ]
+}

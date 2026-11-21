@@ -1,0 +1,593 @@
+{
+ "song": "kul-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "optative of dā",
+     "morph": "3.sg.act-opt (root dā)"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "to-kuleshani",
+     "grounds": "dative singular feminine",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "curse-of-deity",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtain",
+     "grounds": "optative of āp",
+     "morph": "3.sg.act-opt (root āp)"
+    }
+   ],
+   "question": "What happens if one gives a deity's curse to kuleshani?",
+   "premises": [
+    "giving a deity's curse to kuleshani brings a result",
+    "the result is obtaining that curse"
+   ],
+   "inference": "the act rebounds as obtaining the curse",
+   "uncertainties": [],
+   "plain_english": "If one gives a deity's curse to kuleshani, one obtains it."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "anabhijñaiḥ",
+     "gloss": "by-uninformed",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "anarhaiḥ",
+     "gloss": "and-unworthy",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgamaṃ",
+     "gloss": "association",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "ever",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "make",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt (root kṛ)"
+    }
+   ],
+   "question": "With whom should association never be made?",
+   "premises": [
+    "association with uninformed persons is forbidden",
+    "association with unworthy persons is forbidden"
+   ],
+   "inference": "one must never make such association",
+   "uncertainties": [],
+   "plain_english": "One should never make association with the uninformed and the unworthy."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "pūrvadakṣiṇayoḥ",
+     "gloss": "east-south",
+     "grounds": "locative dual masculine",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "aikyam",
+     "gloss": "unity",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udakpaścimayoḥ",
+     "gloss": "north-west",
+     "grounds": "locative dual masculine",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which directions are said to have unity?",
+   "premises": [
+    "east and south have unity",
+    "north and west have unity thus"
+   ],
+   "inference": "the paired directions are unified",
+   "uncertainties": [],
+   "plain_english": "East and south have unity, and likewise north and west."
+  },
+  {
+   "verse": 854,
+   "rows": [
+    {
+     "surface": "kāminībhiḥ",
+     "gloss": "with-women",
+     "grounds": "instrumental plural feminine",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act-opt (root kṛ)"
+    },
+    {
+     "surface": "srotasām",
+     "gloss": "streams",
+     "grounds": "genitive plural neuter",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭaye",
+     "gloss": "in-fourfold",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "With whom and in what manner is that done?",
+   "premises": [
+    "that is done with women",
+    "that is done in the fourfold of streams"
+   ],
+   "inference": "the act is performed with women in the fourfold streams",
+   "uncertainties": [],
+   "plain_english": "That should be done with women, and in the fourfold of streams."
+  },
+  {
+   "verse": 855,
+   "rows": [
+    {
+     "surface": "svamātṛpādukā",
+     "gloss": "own-mother's-foot",
+     "grounds": "nominative singular feminine compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlamantrajaptaṃ",
+     "gloss": "root-mantra-chanted",
+     "grounds": "accusative singular neuter participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "drink",
+     "grounds": "optative of pā",
+     "morph": "3.sg.act-opt (root pā)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should the beloved drink?",
+   "premises": [
+    "the own mother's foot is root-mantra-chanted",
+    "the beloved should drink it"
+   ],
+   "inference": "the beloved drinks the root-mantra-chanted own mother's foot",
+   "uncertainties": [],
+   "plain_english": "Beloved, drink the own mother's foot, chanted with the root mantra."
+  },
+  {
+   "verse": 856,
+   "rows": [
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "absolutive of ādā",
+     "morph": "abs (root ādā)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive of jap",
+     "morph": "abs (root jap)"
+    },
+    {
+     "surface": "pibed",
+     "gloss": "drink",
+     "grounds": "optative of pā",
+     "morph": "3.sg.act-opt (root pā)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle of smṛ",
+     "morph": "m.nom.sg (root smṛ)"
+    }
+   ],
+   "question": "How should one drink while remembering the guru?",
+   "premises": [
+    "taking as before and having chanted",
+    "one drinks while remembering the guru"
+   ],
+   "inference": "the drink is taken after chanting and remembering the guru",
+   "uncertainties": [],
+   "plain_english": "Taking as before and having chanted, drink, goddess, while remembering the guru."
+  },
+  {
+   "verse": 857,
+   "rows": [
+    {
+     "surface": "svajyeṣṭhasya",
+     "gloss": "of-own-elder",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucchiṣṭaṃ",
+     "gloss": "leavings",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khādet",
+     "gloss": "eat",
+     "grounds": "optative of khād",
+     "morph": "3.sg.act-opt (root khād)"
+    },
+    {
+     "surface": "nānyasya",
+     "gloss": "not-other's",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvati",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whose leavings may be eaten?",
+   "premises": [
+    "one may eat the own elder's leavings",
+    "one may not eat another's leavings"
+   ],
+   "inference": "only the own elder's leavings are permitted",
+   "uncertainties": [],
+   "plain_english": "Pārvatī, one may eat even the own elder's leavings, but not another's."
+  },
+  {
+   "verse": 858,
+   "rows": [
+    {
+     "surface": "ātmocchiṣṭaṃ",
+     "gloss": "own-leavings",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "give",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg (root dā)"
+    },
+    {
+     "surface": "parakīyaṃ",
+     "gloss": "other's",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "eat",
+     "grounds": "optative of bhakṣ",
+     "morph": "3.sg.act-opt (root bhakṣ)"
+    }
+   ],
+   "question": "What should not be given or eaten?",
+   "premises": [
+    "one's own leavings should not be given",
+    "another's leavings should not be eaten"
+   ],
+   "inference": "neither giving own leavings nor eating another's is allowed",
+   "uncertainties": [],
+   "plain_english": "One's own leavings should not be given, and another's should not be eaten."
+  },
+  {
+   "verse": 859,
+   "rows": [
+    {
+     "surface": "cakramadhye",
+     "gloss": "in-circle-middle",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patanaṃ",
+     "gloss": "fall",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt (root bhū)"
+    }
+   ],
+   "question": "What happens otherwise in the circle's middle?",
+   "premises": [
+    "in the circle's middle otherwise",
+    "fall would become"
+   ],
+   "inference": "improper conduct in the circle's middle leads to fall",
+   "uncertainties": [],
+   "plain_english": "Otherwise, in the middle of the circle, there would be a fall, O goddess."
+  },
+  {
+   "verse": 860,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "optative of dā",
+     "morph": "3.sg.act-opt (root dā)"
+    },
+    {
+     "surface": "snehena",
+     "gloss": "with-affection",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anyebhyaḥ",
+     "gloss": "to-others",
+     "grounds": "dative plural masculine",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt (root bhū)"
+    },
+    {
+     "surface": "āpadāmpadam",
+     "gloss": "of-calamities-abode",
+     "grounds": "nominative singular neuter compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What becomes of one who gives to others with affection?",
+   "premises": [
+    "one who gives to others with affection",
+    "he becomes the abode of calamities"
+   ],
+   "inference": "such giving makes him an abode of calamities",
+   "uncertainties": [],
+   "plain_english": "He who gives to others with affection becomes the abode of calamities."
+  },
+  {
+   "verse": 861,
+   "rows": [
+    {
+     "surface": "snehāt",
+     "gloss": "from-affection",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "lobhāt",
+     "gloss": "from-greed",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhayāt",
+     "gloss": "from-fear",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "vā",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāśāpam",
+     "gloss": "curse-of-deity",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtain",
+     "grounds": "optative of āp",
+     "morph": "3.sg.act-opt (root āp)"
+    }
+   ],
+   "question": "How might one obtain a deity's curse?",
+   "premises": [
+    "from affection, greed, or fear",
+    "one obtains a deity's curse"
+   ],
+   "inference": "these motives lead to obtaining the deity's curse",
+   "uncertainties": [],
+   "plain_english": "From affection, greed, or fear, one obtains a deity's curse."
+  },
+  {
+   "verse": 862,
+   "rows": [
+    {
+     "surface": "pūjāgṛhāt",
+     "gloss": "from-puja-house",
+     "grounds": "ablative singular neuter compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act-opt (root kṛ)"
+    },
+    {
+     "surface": "trikoṇe",
+     "gloss": "triangle",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhāntare",
+     "gloss": "in-house",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the act be done relative to the puja house?",
+   "premises": [
+    "outside the puja house one does it",
+    "in the triangle within the house"
+   ],
+   "inference": "the act is done outside the puja house and in the triangle inside",
+   "uncertainties": [],
+   "plain_english": "Do it outside the puja house, and in the triangle within the house."
+  }
+ ]
+}

@@ -1,0 +1,1167 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2651,
+   "rows": [
+    {
+     "surface": "dattvārghyaṃ",
+     "gloss": "having-given-water-offering",
+     "grounds": "gerund of dā with arghya",
+     "morph": "gerund"
+    },
+    {
+     "surface": "mṛdam",
+     "gloss": "clay",
+     "grounds": "object taken for cleansing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "gerund of ā-dā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "both-feet",
+     "grounds": "object of washing",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "prakṣālayet",
+     "gloss": "one-should-wash",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √prakṣal"
+    },
+    {
+     "surface": "anu",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What cleansing action must follow the offering of arghya water?",
+   "premises": [
+    "Arghya water has been given",
+    "Clay is taken for cleansing",
+    "Both feet require washing afterward"
+   ],
+   "inference": "After giving arghya, one should take clay and wash the feet.",
+   "uncertainties": [],
+   "plain_english": "After giving the water offering, one should take clay and then wash the feet."
+  },
+  {
+   "verse": 2652,
+   "rows": [
+    {
+     "surface": "toyair",
+     "gloss": "with-waters",
+     "grounds": "means of rinsing",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ācamanaṃ",
+     "gloss": "mouth-rinsing",
+     "grounds": "ritual sipping action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāntaḥ",
+     "gloss": "having-rinsed-mouth",
+     "grounds": "completed purification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃpraveśya",
+     "gloss": "having-led-in",
+     "grounds": "gerund of saṃ-pra-viś causative",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purification and entry steps follow the washing of the feet?",
+   "premises": [
+    "Mouth-rinsing is done with water",
+    "The performer becomes purified by rinsing",
+    "The guests are then led inside"
+   ],
+   "inference": "After washing, one performs mouth-rinsing and then leads the guests in.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, one should perform mouth-rinsing with water, and having rinsed, lead them in."
+  },
+  {
+   "verse": 2653,
+   "rows": [
+    {
+     "surface": "āsaneṣu",
+     "gloss": "on-seats",
+     "grounds": "location for seating",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sudhauteṣu",
+     "gloss": "well-washed",
+     "grounds": "seats properly cleaned",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-recognized",
+     "grounds": "gerund of jñā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "the invited guests",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "upaveśayet",
+     "gloss": "one-should-seat",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.caus.act √upa-viś"
+    }
+   ],
+   "question": "Where and how should the invited guests be seated after entry?",
+   "premises": [
+    "Seats have been well washed",
+    "The guests are recognized and present",
+    "The officiant must seat them properly"
+   ],
+   "inference": "The guests should be seated on well-washed seats.",
+   "uncertainties": [],
+   "plain_english": "Recognizing them, one should seat them on seats that have been well washed."
+  },
+  {
+   "verse": 2654,
+   "rows": [
+    {
+     "surface": "kuruṣva",
+     "gloss": "do",
+     "grounds": "request for permission or action",
+     "morph": "2.sg.imp.mid √kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyanujñātaḥ",
+     "gloss": "having-been-permitted",
+     "grounds": "authorization received",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "darbhāsanaṃ",
+     "gloss": "darbha-seat",
+     "grounds": "seat made of darbha grass",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvayoḥ",
+     "gloss": "to-two",
+     "grounds": "recipients of the seats",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What seating material must be given to the two recipients after permission?",
+   "premises": [
+    "Permission is granted with the word kuruṣva",
+    "Two recipients are involved",
+    "A darbha seat is to be offered"
+   ],
+   "inference": "After being permitted, one should give a darbha seat to the two.",
+   "uncertainties": [],
+   "plain_english": "Having been permitted with the words 'do so,' one should give a darbha-grass seat to the two."
+  },
+  {
+   "verse": 2655,
+   "rows": [
+    {
+     "surface": "udagagram",
+     "gloss": "north-pointed",
+     "grounds": "orientation of the seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ajātena",
+     "gloss": "with-unborn-mantra",
+     "grounds": "mantra designation, Sadyojāta",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "savye",
+     "gloss": "on-left",
+     "grounds": "placement relative to body",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-placed",
+     "grounds": "gerund of kṛ",
+     "morph": "gerund"
+    },
+    {
+     "surface": "uttarīyakam",
+     "gloss": "upper-garment",
+     "grounds": "garment adjusted during rite",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How must the upper garment be arranged while placing the north-pointed seat?",
+   "premises": [
+    "The seat is oriented northward",
+    "The Sadyojāta mantra is used",
+    "The upper garment is placed on the left"
+   ],
+   "inference": "One places the north-pointed seat with the Sadyojāta mantra while arranging the upper garment on the left.",
+   "uncertainties": [
+    "ajātena interpreted as the Sadyojāta mantra by tradition"
+   ],
+   "plain_english": "Placing the north-pointed seat with the Sadyojāta mantra, one should arrange the upper garment on the left."
+  },
+  {
+   "verse": 2656,
+   "rows": [
+    {
+     "surface": "āvāhaya",
+     "gloss": "invite",
+     "grounds": "command to invoke presence",
+     "morph": "2.sg.imp.caus.act √ā-vah"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anujñātaḥ",
+     "gloss": "having-been-permitted",
+     "grounds": "authorization received",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svanāmnā",
+     "gloss": "by-own-name",
+     "grounds": "invocation using personal name",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "praṇavādinā",
+     "gloss": "beginning-with-om",
+     "grounds": "name prefixed by praṇava",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "By what form of address must the officiant invite the guests after permission?",
+   "premises": [
+    "Permission is given to invite",
+    "The invitation uses the guest's own name",
+    "The name begins with the praṇava"
+   ],
+   "inference": "After permission, one should invite using the guest's own name prefixed by om.",
+   "uncertainties": [],
+   "plain_english": "Having been permitted with the word 'invite,' one should invoke them by their own name beginning with om."
+  },
+  {
+   "verse": 2657,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks next ritual step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣārtham",
+     "gloss": "for-protection",
+     "grounds": "purpose of scattering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "gerund of ā-dā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "yavān",
+     "gloss": "barley-grains",
+     "grounds": "protective substance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "avakiret",
+     "gloss": "one-should-scatter",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √ava-kṛ"
+    },
+    {
+     "surface": "pari",
+     "gloss": "around",
+     "grounds": "direction of scattering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective substance must be scattered around the ritual area next?",
+   "premises": [
+    "Protection is required at this stage",
+    "Barley grains are taken",
+    "They are scattered around"
+   ],
+   "inference": "For protection, one should take barley grains and scatter them around.",
+   "uncertainties": [],
+   "plain_english": "Then, for protection, one should take barley grains and scatter them all around."
+  },
+  {
+   "verse": 2658,
+   "rows": [
+    {
+     "surface": "rūpiṇā",
+     "gloss": "with-rūpi-mantra",
+     "grounds": "mantra designation used in rite",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃnidhānāya",
+     "gloss": "for-presence",
+     "grounds": "purpose of invocation",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "dvitayasya",
+     "gloss": "of-the-pair",
+     "grounds": "two recipients",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "single repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "single repetition for each",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times must the presence of the pair be invoked with the rūpi mantra?",
+   "premises": [
+    "The rūpi mantra is employed",
+    "The goal is the presence of the pair",
+    "The action is done once for each"
+   ],
+   "inference": "Using the rūpi mantra, one invokes the presence of the pair once each.",
+   "uncertainties": [
+    "rūpiṇā taken as a mantra name following tradition"
+   ],
+   "plain_english": "With the rūpi mantra, for the presence of the pair, one should do so once and once."
+  },
+  {
+   "verse": 2659,
+   "rows": [
+    {
+     "surface": "jānubhyām",
+     "gloss": "on-knees",
+     "grounds": "posture of worship",
+     "morph": "n.ins.du"
+    },
+    {
+     "surface": "avanau",
+     "gloss": "on-ground",
+     "grounds": "place of kneeling",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sthitvā",
+     "gloss": "having-stood",
+     "grounds": "gerund of sthā, here kneeling posture",
+     "morph": "gerund"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "with-aghora-mantra",
+     "grounds": "mantra used for worship",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "abhyarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √abhi-arc"
+    },
+    {
+     "surface": "yavaiḥ",
+     "gloss": "with-barley-grains",
+     "grounds": "offering material",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "In what posture and with which mantra must worship with barley be performed?",
+   "premises": [
+    "The worshipper kneels on the ground",
+    "The Aghora mantra is used",
+    "Barley grains are the offering"
+   ],
+   "inference": "Kneeling on the ground, one should worship with barley using the Aghora mantra.",
+   "uncertainties": [],
+   "plain_english": "Kneeling on the ground, one should worship with barley grains using the Aghora mantra."
+  },
+  {
+   "verse": 2660,
+   "rows": [
+    {
+     "surface": "gandhair",
+     "gloss": "with-scents",
+     "grounds": "substances for anointing",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ālipya",
+     "gloss": "having-anointed",
+     "grounds": "gerund of ā-lip",
+     "morph": "gerund"
+    },
+    {
+     "surface": "sarvāṅgaṃ",
+     "gloss": "all-limbs",
+     "grounds": "entire body",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūṣayat",
+     "gloss": "adorning",
+     "grounds": "present participle of bhūṣ",
+     "morph": "m.nom.sg.pres.part.act √bhūṣ"
+    },
+    {
+     "surface": "puṣpadāmabhiḥ",
+     "gloss": "with-flower-garlands",
+     "grounds": "ornaments offered",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How should the entire body be anointed and adorned during the worship?",
+   "premises": [
+    "Scents are applied to the body",
+    "All limbs are anointed",
+    "Flower garlands are used for adornment"
+   ],
+   "inference": "One should anoint all limbs with scents and adorn them with flower garlands.",
+   "uncertainties": [],
+   "plain_english": "Having anointed all the limbs with scents, one should adorn them with flower garlands."
+  },
+  {
+   "verse": 2661,
+   "rows": [
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "light offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "instrumental reference to mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃdadyāt",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √sam-dā"
+    },
+    {
+     "surface": "īśānena",
+     "gloss": "with-īśāna-mantra",
+     "grounds": "mantra used for offering",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pavitrakam",
+     "gloss": "purifier",
+     "grounds": "purifying item offered",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mantra governs the placement of the lamp and the purifier?",
+   "premises": [
+    "A lamp is to be placed",
+    "A purifier is also offered",
+    "The Īśāna mantra is specified"
+   ],
+   "inference": "One should place the lamp and the purifier with the Īśāna mantra.",
+   "uncertainties": [],
+   "plain_english": "And one should place the lamp and the purifier with the Īśāna mantra."
+  },
+  {
+   "verse": 2662,
+   "rows": [
+    {
+     "surface": "tadaṅgam",
+     "gloss": "its-part",
+     "grounds": "another part related to it",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aparaṃ",
+     "gloss": "another",
+     "grounds": "additional item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "upavītikrameṇa",
+     "gloss": "by-sacred-thread-order",
+     "grounds": "manner of offering",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner must another related item be given at this stage?",
+   "premises": [
+    "Another part or item is to be given",
+    "The manner follows the sacred-thread order",
+    "The giving is a prescribed step"
+   ],
+   "inference": "One should give another related item in the sacred-thread order.",
+   "uncertainties": [
+    "tadaṅgam interpreted as another part of the purifier or offering"
+   ],
+   "plain_english": "Then one should give another part of it in the manner of the sacred thread."
+  },
+  {
+   "verse": 2663,
+   "rows": [
+    {
+     "surface": "kuśāṃs",
+     "gloss": "kuśa-grasses",
+     "grounds": "ritual grass blades",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "twofold",
+     "grounds": "doubled quantity or form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "gerund of dā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "sadyojātena",
+     "gloss": "with-sadyojāta-mantra",
+     "grounds": "mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "by-mantra",
+     "grounds": "mantric mode of action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the kuśa grasses be offered using the Sadyojāta mantra?",
+   "premises": [
+    "Kuśa grasses are to be given",
+    "They are given twofold",
+    "The Sadyojāta mantra is recited"
+   ],
+   "inference": "One should give twofold kuśa grasses with the Sadyojāta mantra.",
+   "uncertainties": [],
+   "plain_english": "Having given twofold kuśa grasses, one should do so with the Sadyojāta mantra."
+  },
+  {
+   "verse": 2664,
+   "rows": [
+    {
+     "surface": "sthāpanādi",
+     "gloss": "establishment-and-so-on",
+     "grounds": "beginning of a threefold sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "three ritual acts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund of kṛ",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vāmena",
+     "gloss": "with-vāma-mantra",
+     "grounds": "mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apradakṣiṇam",
+     "gloss": "counter-clockwise",
+     "grounds": "direction of movement",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "In what direction and with which mantra must the threefold establishment be performed?",
+   "premises": [
+    "A triad beginning with establishment is performed",
+    "The Vāma mantra is used",
+    "The movement is counter-clockwise"
+   ],
+   "inference": "One should perform the threefold act beginning with establishment counter-clockwise with the Vāma mantra.",
+   "uncertainties": [],
+   "plain_english": "Having performed the three acts beginning with establishment, one should do so counter-clockwise with the Vāma mantra."
+  },
+  {
+   "verse": 2665,
+   "rows": [
+    {
+     "surface": "trayāṇāṃ",
+     "gloss": "of-the-three",
+     "grounds": "three recipients or presences",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṃnidhānārtham",
+     "gloss": "for-presence",
+     "grounds": "purpose of the act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "with-aghora-mantra",
+     "grounds": "mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "añjalau",
+     "gloss": "in-palms",
+     "grounds": "joined hands as vessel",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "individually for each",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the presence of the three be invoked separately with the Aghora mantra?",
+   "premises": [
+    "The presence of three is sought",
+    "The Aghora mantra is employed",
+    "The act is done separately in the palms"
+   ],
+   "inference": "For the presence of the three, one should act separately in the palms with the Aghora mantra.",
+   "uncertainties": [],
+   "plain_english": "For the presence of the three, one should do so separately in the joined palms with the Aghora mantra."
+  },
+  {
+   "verse": 2666,
+   "rows": [
+    {
+     "surface": "bhūmiṣṭhajānu",
+     "gloss": "knee-on-ground",
+     "grounds": "kneeling posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśena",
+     "gloss": "with-īśa-mantra",
+     "grounds": "mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śirasaḥ",
+     "gloss": "from-head",
+     "grounds": "starting point of sequence",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "beginning",
+     "grounds": "starting from",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential manner",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what point and in what posture must the sequence proceed with the Īśa mantra?",
+   "premises": [
+    "One knee rests on the ground",
+    "The Īśa mantra is used",
+    "The sequence proceeds from the head in order"
+   ],
+   "inference": "With one knee on the ground and the Īśa mantra, one proceeds in order beginning from the head.",
+   "uncertainties": [],
+   "plain_english": "With one knee on the ground, using the Īśa mantra, one should proceed in order beginning from the head."
+  },
+  {
+   "verse": 2667,
+   "rows": [
+    {
+     "surface": "gandhādyaṃ",
+     "gloss": "scents-and-so-on",
+     "grounds": "offerings beginning with scents",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhūpadīpau",
+     "gloss": "incense-and-lamp",
+     "grounds": "additional offerings",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpiṇā",
+     "gloss": "with-rūpi-mantra",
+     "grounds": "mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "one-should-cause-to-give",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.caus.act √dā"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which offerings must be presented next using the rūpi mantra?",
+   "premises": [
+    "Scents and related items are offered",
+    "Incense and lamp are included",
+    "The rūpi mantra governs the offering"
+   ],
+   "inference": "Then one should have scents and so on, along with incense and lamp, offered with the rūpi mantra.",
+   "uncertainties": [
+    "rūpiṇā taken as a mantra name following tradition"
+   ],
+   "plain_english": "Then one should cause offerings beginning with scents, and incense and lamp, to be given with the rūpi mantra."
+  },
+  {
+   "verse": 2668,
+   "rows": [
+    {
+     "surface": "pūrṇam",
+     "gloss": "full",
+     "grounds": "declaration of completeness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "optative wish",
+     "morph": "3.sg.imp.act √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktavyaṃ",
+     "gloss": "to-be-said",
+     "grounds": "prescribed utterance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇam",
+     "gloss": "full",
+     "grounds": "repeated declaration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "optative wish",
+     "morph": "3.sg.imp.act √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tairapi",
+     "gloss": "by-them-too",
+     "grounds": "response by recipients",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What reciprocal declaration of fullness must be spoken by both parties?",
+   "premises": [
+    "The officiant must say 'let it be full'",
+    "The recipients must respond likewise",
+    "The utterance affirms completeness"
+   ],
+   "inference": "The officiant should say 'let it be full,' and they too should say 'let it be full.'",
+   "uncertainties": [],
+   "plain_english": "One should say, 'May it be full,' and they too should say, 'May it be full.'"
+  },
+  {
+   "verse": 2669,
+   "rows": [
+    {
+     "surface": "pitṛsthānam",
+     "gloss": "ancestors-place",
+     "grounds": "designation of the vessel's role",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asi",
+     "gloss": "you-are",
+     "grounds": "identifying statement",
+     "morph": "2.sg.pres.act √as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner of statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyubjaṃ",
+     "gloss": "inverted",
+     "grounds": "orientation of vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "ritual container",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "downward",
+     "grounds": "placement direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √ni-as"
+    }
+   ],
+   "question": "How must the vessel designated as the ancestors' place be positioned?",
+   "premises": [
+    "The vessel is identified as the ancestors' place",
+    "It is to be inverted",
+    "It is placed downward"
+   ],
+   "inference": "Saying 'you are the place of the ancestors,' one should place the vessel inverted and downward.",
+   "uncertainties": [],
+   "plain_english": "Saying, 'You are the place of the ancestors,' one should place the vessel inverted, facing downward."
+  },
+  {
+   "verse": 2670,
+   "rows": [
+    {
+     "surface": "bhājanaṃ",
+     "gloss": "vessel",
+     "grounds": "container for food",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śuddham",
+     "gloss": "pure",
+     "grounds": "ritually clean",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "gerund of ā-dā",
+     "morph": "gerund"
+    },
+    {
+     "surface": "bhojanāya",
+     "gloss": "for-food",
+     "grounds": "purpose of provision",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "upapādayet",
+     "gloss": "one-should-provide",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.caus.act √upa-pad"
+    }
+   ],
+   "question": "What kind of vessel must be provided for serving the food?",
+   "premises": [
+    "A vessel is taken for serving",
+    "The vessel must be pure",
+    "It is provided for food"
+   ],
+   "inference": "One should take a pure vessel and provide it for the food.",
+   "uncertainties": [],
+   "plain_english": "Taking a pure vessel, one should provide it for the food."
+  },
+  {
+   "verse": 2671,
+   "rows": [
+    {
+     "surface": "paṅktidoṣanivṛttyarthaṃ",
+     "gloss": "for-removing-row-fault",
+     "grounds": "purpose of protective measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund of kṛ",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parihārakān",
+     "gloss": "protective-separators",
+     "grounds": "items preventing row impurity",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What protective measure must be taken to remove faults in the dining row?",
+   "premises": [
+    "Faults in the row must be removed",
+    "Protective separators are employed",
+    "The action is preparatory"
+   ],
+   "inference": "To remove faults in the row, one should set out protective separators.",
+   "uncertainties": [
+    "parihārakān interpreted as protective separators or screens"
+   ],
+   "plain_english": "Then, to remove faults in the row, one should set out protective separators."
+  },
+  {
+   "verse": 2672,
+   "rows": [
+    {
+     "surface": "śivānale",
+     "gloss": "in-śiva-fire",
+     "grounds": "sacred fire of Śiva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kariṣye",
+     "gloss": "i-will-do",
+     "grounds": "declaration of intent",
+     "morph": "1.sg.fut.mid √kṛ"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "pṛcchet",
+     "gloss": "one-should-ask",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √praś"
+    },
+    {
+     "surface": "homam",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "brahmins addressed",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What permission must the officiant seek from the twice-born before the fire oblation?",
+   "premises": [
+    "An oblation in the Śiva-fire is intended",
+    "The officiant declares intent to perform it",
+    "The twice-born must be asked for permission"
+   ],
+   "inference": "One should ask the twice-born, saying 'I will perform the oblation in the Śiva-fire.'",
+   "uncertainties": [],
+   "plain_english": "One should ask the twice-born, saying, 'I will perform the oblation in the fire of Śiva.'"
+  },
+  {
+   "verse": 2673,
+   "rows": [
+    {
+     "surface": "somāya",
+     "gloss": "to-soma",
+     "grounds": "deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "pitṛmacchabdaṃ",
+     "gloss": "with-ancestors-word",
+     "grounds": "epithet including pitṛmat",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturthyantaṃ",
+     "gloss": "ending-in-fourth-case",
+     "grounds": "grammatical form of address",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "svadhā",
+     "gloss": "svadhā",
+     "grounds": "ritual exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "ritual salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula must be uttered when addressing Soma with the ancestors' epithet?",
+   "premises": [
+    "Soma is addressed in the dative form",
+    "The word includes the epithet for ancestors",
+    "The formula ends with svadhā and namaḥ"
+   ],
+   "inference": "One should utter the dative formula to Soma with the ancestors' epithet, followed by svadhā and namaḥ.",
+   "uncertainties": [],
+   "plain_english": "One should say the formula to Soma, with the word for 'accompanied by the ancestors' in the dative, followed by 'svadhā, homage.'"
+  },
+  {
+   "verse": 2674,
+   "rows": [
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "gerund of vac",
+     "morph": "gerund"
+    },
+    {
+     "surface": "agnaye",
+     "gloss": "to-fire",
+     "grounds": "deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavyavāhanāya",
+     "gloss": "to-oblation-bearer",
+     "grounds": "epithet of Agni",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svadhā",
+     "gloss": "svadhā",
+     "grounds": "ritual exclamation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "ritual salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula must follow when addressing Agni as the bearer of offerings?",
+   "premises": [
+    "The previous formula has been uttered",
+    "Agni is addressed as kavyavāhana",
+    "The formula ends with svadhā and namaḥ"
+   ],
+   "inference": "After that, one should say the formula to Agni, the bearer of offerings, followed by svadhā and namaḥ.",
+   "uncertainties": [],
+   "plain_english": "Having said that, one should then say to Agni, the bearer of offerings, 'svadhā, homage.'"
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+ "song": "kul-p01",
+ "items": [
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "kadācillabhate",
+     "gloss": "sometimes-obtains",
+     "grounds": "verb labh with kadācit",
+     "morph": "3.sg.act-pres root labh"
+    },
+    {
+     "surface": "janturmānuṣyaṃ",
+     "gloss": "creature-humanity",
+     "grounds": "fused jantuḥ + mānuṣyaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṇyasañcayāt",
+     "gloss": "by-merit-accumulation",
+     "grounds": "ablative of puṇyasañcaya",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How does a creature sometimes obtain human birth?",
+   "premises": [
+    "human birth is rare",
+    "merit accumulation causes it"
+   ],
+   "inference": "a creature obtains human birth only through accumulated merit",
+   "uncertainties": [],
+   "plain_english": "A creature sometimes obtains human birth through accumulated merit."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "yastārayati",
+     "gloss": "who-saves",
+     "grounds": "relative verb tārayati",
+     "morph": "3.sg.act-pres root tṛ"
+    },
+    {
+     "surface": "nātmānaṃ",
+     "gloss": "not-self",
+     "grounds": "negated accusative ātmānaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpataro'tra",
+     "gloss": "more-sinful-here",
+     "grounds": "comparative pāpatara with atra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "who",
+     "grounds": "interrogative pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is more sinful than one who does not save himself?",
+   "premises": [
+    "failing to save oneself is sinful",
+    "a greater sinner is asked about"
+   ],
+   "inference": "one who does not save himself is surpassed in sin by another",
+   "uncertainties": [],
+   "plain_english": "Who is more sinful here than one who does not save himself?"
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vettyātmahitaṃ",
+     "gloss": "knows-self-benefit",
+     "grounds": "fused vetti + ātmahitaṃ",
+     "morph": "3.sg.act-pres root vid"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "he-who",
+     "grounds": "relative with tu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act-opt root bhū"
+    },
+    {
+     "surface": "ātmaghātakaḥ",
+     "gloss": "self-killer",
+     "grounds": "compound ātma + ghātaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes of one who does not know his own benefit?",
+   "premises": [
+    "not knowing self-benefit is harmful",
+    "such a person becomes a self-killer"
+   ],
+   "inference": "one who does not know his own benefit becomes a self-killer",
+   "uncertainties": [],
+   "plain_english": "One who does not know his own benefit becomes a self-killer."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "tasmāddehadhanaṃ",
+     "gloss": "therefore-body-wealth",
+     "grounds": "fused tasmād + dehadhanaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive prāp",
+     "morph": "absolutive root prāp"
+    },
+    {
+     "surface": "puṇyakarmāṇi",
+     "gloss": "meritorious-actions",
+     "grounds": "plural accusative",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "verb sādh",
+     "morph": "3.sg.act-opt root sādh"
+    }
+   ],
+   "question": "What should one accomplish after obtaining the wealth of a body?",
+   "premises": [
+    "the body is valuable wealth",
+    "meritorious actions should be accomplished"
+   ],
+   "inference": "having obtained bodily wealth one should accomplish meritorious actions",
+   "uncertainties": [],
+   "plain_english": "Therefore, having obtained the wealth of a body, one should accomplish meritorious actions."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "rakṣaṇe",
+     "gloss": "in-protection",
+     "grounds": "locative rakṣaṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yatnamātiṣṭhet",
+     "gloss": "effort-stand",
+     "grounds": "fused yatnam + ātiṣṭhet",
+     "morph": "3.sg.act-opt root sthā"
+    },
+    {
+     "surface": "yāvattattvaṃ",
+     "gloss": "until-truth",
+     "grounds": "fused yāvat + tattvaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "verb paś",
+     "morph": "3.sg.act-pres root dṛś"
+    }
+   ],
+   "question": "How long should one strive to protect the body?",
+   "premises": [
+    "protection requires effort",
+    "effort continues until truth is seen"
+   ],
+   "inference": "one should strive to protect the body until truth is seen",
+   "uncertainties": [],
+   "plain_english": "One should strive in protection until truth is seen."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhāśubhaṃ",
+     "gloss": "auspicious-inauspicious",
+     "grounds": "compound śubha + aśubha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "noun karma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śarīraṃ",
+     "gloss": "body",
+     "grounds": "noun śarīra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to auspicious and inauspicious action and the body?",
+   "premises": [
+    "action is auspicious or inauspicious",
+    "the body is not repeated again and again"
+   ],
+   "inference": "auspicious and inauspicious action does not make the body recur repeatedly",
+   "uncertainties": [
+    "syntax of repeated punaḥ is compressed"
+   ],
+   "plain_english": "Auspicious and inauspicious action does not make the body recur again and again."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "nahīcchanti",
+     "gloss": "not-desire",
+     "grounds": "fused na + hi + icchanti",
+     "morph": "3.pl.act-pres root iṣ"
+    },
+    {
+     "surface": "tanutyāgamapi",
+     "gloss": "even-body-abandonment",
+     "grounds": "fused tanutyāgam + api",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṣṭhādirogataḥ",
+     "gloss": "from-leprosy-disease",
+     "grounds": "ablative from kuṣṭhādiroga",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Do even those with leprosy desire to abandon the body?",
+   "premises": [
+    "people do not desire body abandonment",
+    "even leprosy sufferers do not desire it"
+   ],
+   "inference": "even those afflicted by leprosy do not desire to abandon the body",
+   "uncertainties": [],
+   "plain_english": "Even those afflicted by leprosy do not desire to abandon the body."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "jñānañca",
+     "gloss": "knowledge-and",
+     "grounds": "fused jñānam + ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānayogārthaṃ",
+     "gloss": "for-meditation-yoga",
+     "grounds": "compound dhyāna + yoga + arthaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "so'cirāt",
+     "gloss": "he-soon",
+     "grounds": "fused saḥ + acirāt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parimucyate",
+     "gloss": "is-liberated",
+     "grounds": "verb parimuc",
+     "morph": "3.sg.pass-pres root muc"
+    }
+   ],
+   "question": "What does knowledge for meditation yoga accomplish soon?",
+   "premises": [
+    "knowledge serves meditation yoga",
+    "he is soon liberated"
+   ],
+   "inference": "knowledge for meditation yoga soon liberates him",
+   "uncertainties": [],
+   "plain_english": "Knowledge for meditation yoga soon liberates him."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "ko'nyo",
+     "gloss": "who-else",
+     "grounds": "fused kaḥ + anyaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hitakarastasmādātmānaṃ",
+     "gloss": "benefactor-therefore-self",
+     "grounds": "fused hitakaraḥ + tasmād + ātmānaṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tārayiṣyati",
+     "gloss": "will-save",
+     "grounds": "future verb tāray",
+     "morph": "3.sg.act-fut root tṛ"
+    }
+   ],
+   "question": "Who else will save the self as a benefactor?",
+   "premises": [
+    "a benefactor saves the self",
+    "no other will do so"
+   ],
+   "inference": "no one else will save the self as a benefactor",
+   "uncertainties": [],
+   "plain_english": "Who else will save the self as a benefactor?"
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive gam",
+     "morph": "absolutive root gam"
+    },
+    {
+     "surface": "nirauṣadhaṃ",
+     "gloss": "without-medicine",
+     "grounds": "compound nir + auṣadha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "noun sthāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyādhisthaḥ",
+     "gloss": "diseased",
+     "grounds": "compound vyādhi + stha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kariṣyati",
+     "gloss": "will-do",
+     "grounds": "future verb kar",
+     "morph": "3.sg.act-fut root kṛ"
+    }
+   ],
+   "question": "What will a diseased person do in a place without medicine?",
+   "premises": [
+    "a diseased person goes to a place",
+    "that place lacks medicine"
+   ],
+   "inference": "a diseased person can do nothing useful in a place without medicine",
+   "uncertainties": [],
+   "plain_english": "Having gone to a place without medicine, what will a diseased person do?"
+  }
+ ]
+}

@@ -1,0 +1,943 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 551,
+   "rows": [
+    {
+     "surface": "yacca",
+     "gloss": "and-which",
+     "grounds": "relative pronoun with conjunction",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "yadviṣayaṃ",
+     "gloss": "having-which-object",
+     "grounds": "bahuvrihi compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñānaṃ",
+     "gloss": "knowledge",
+     "grounds": "cognition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jajjanyaṃ",
+     "gloss": "born-from-that",
+     "grounds": "tatpuruṣa compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dṛṣṭavat",
+     "gloss": "as-seen",
+     "grounds": "comparative or participial sense",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is knowledge related to its object and source as observed?",
+   "premises": [
+    "Knowledge has a specific object",
+    "Knowledge arises from a particular source",
+    "The relation is understood by observation"
+   ],
+   "inference": "Knowledge is characterized by its object and its originating cause as seen in experience.",
+   "uncertainties": [
+    "Exact syntactic role of dṛṣṭavat in this fragment"
+   ],
+   "plain_english": "And whatever knowledge has a certain object and is born from that is understood as seen."
+  },
+  {
+   "verse": 552,
+   "rows": [
+    {
+     "surface": "kakṣabhūrjādijo",
+     "gloss": "born-from-grass-bark-etc",
+     "grounds": "bahuvrihi/tatpuruṣa compound describing fire",
+     "morph": "compound"
+    },
+    {
+     "surface": "vahnir",
+     "gloss": "fire",
+     "grounds": "agent or subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guhākāre",
+     "gloss": "in-cave-shaped",
+     "grounds": "describing location",
+     "morph": "compound"
+    },
+    {
+     "surface": "jvalan",
+     "gloss": "blazing",
+     "grounds": "present participle",
+     "morph": "m.nom.sg.pres.part"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What example illustrates fire arising and blazing in an enclosed space?",
+   "premises": [
+    "Fire can arise from grass or bark",
+    "Fire may blaze in a cave-like house",
+    "The example shows fire in a confined place"
+   ],
+   "inference": "A fire born from materials like grass and bark can blaze within a cave-shaped house.",
+   "uncertainties": [],
+   "plain_english": "A fire born from grass, bark, and such materials blazes in a cave-shaped house."
+  },
+  {
+   "verse": 553,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevaladhūmāsthā",
+     "gloss": "reliance-on-smoke-only",
+     "grounds": "compound indicating mere smoke",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahniprāptir",
+     "gloss": "attainment-of-fire",
+     "grounds": "tatpuruṣa compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "existential verb",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "for-you",
+     "grounds": "dative of interest",
+     "morph": "pron.gen/dat.sg"
+    }
+   ],
+   "question": "Why does mere observation of smoke fail to establish the presence of fire?",
+   "premises": [
+    "Only smoke is observed in that place",
+    "Smoke alone does not guarantee fire",
+    "Attainment of fire is not established"
+   ],
+   "inference": "Relying solely on smoke does not amount to actually reaching or establishing fire.",
+   "uncertainties": [
+    "Case nuance of te as genitive or dative"
+   ],
+   "plain_english": "There, if one relies only on smoke, there is no attainment of fire for you."
+  },
+  {
+   "verse": 554,
+   "rows": [
+    {
+     "surface": "vīkṣyātmanā",
+     "gloss": "having-seen-by-self",
+     "grounds": "gerund with instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "object of perception",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinītavadavasthitam",
+     "gloss": "situated-like-humble",
+     "grounds": "compound with comparative element",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should one perceive the self when it is situated in humility?",
+   "premises": [
+    "The self is seen by oneself",
+    "The self is situated like one who is humble",
+    "Such seeing is direct and personal"
+   ],
+   "inference": "One should directly perceive the self as abiding in a humble state.",
+   "uncertainties": [],
+   "plain_english": "Having seen by oneself, one should thus regard the self as situated like one who is humble."
+  },
+  {
+   "verse": 555,
+   "rows": [
+    {
+     "surface": "parānumāne",
+     "gloss": "in-inference-for-others",
+     "grounds": "locative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pakṣādau",
+     "gloss": "in-subject-etc",
+     "grounds": "locative with adi",
+     "morph": "compound"
+    },
+    {
+     "surface": "dharmāder",
+     "gloss": "of-property-etc",
+     "grounds": "ablative/genitive with adi",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedyabheditā",
+     "gloss": "divisible-indivisible-state",
+     "grounds": "abstract noun from compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What problem of divisibility arises in inference for others regarding subject and property?",
+   "premises": [
+    "Inference for others involves a subject and properties",
+    "These elements may be treated as divisible or indivisible",
+    "This creates a logical difficulty"
+   ],
+   "inference": "In inference for others, the subject and its properties face the issue of being divisible or indivisible.",
+   "uncertainties": [],
+   "plain_english": "In inference for others, in the subject and so on, there is the state of being divisible or indivisible with respect to properties and the like."
+  },
+  {
+   "verse": 556,
+   "rows": [
+    {
+     "surface": "avasthādeśakālānām",
+     "gloss": "of-states-places-times",
+     "grounds": "genitive plural compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ityādibhir",
+     "gloss": "by-such-etc",
+     "grounds": "instrumental plural with adi",
+     "morph": "compound"
+    },
+    {
+     "surface": "udāhṛtaiḥ",
+     "gloss": "by-exemplified",
+     "grounds": "past participle instrumental",
+     "morph": "m/n.inst.pl.past.part"
+    }
+   ],
+   "question": "How do variations in states, places, and times serve as exemplifying factors?",
+   "premises": [
+    "States, places, and times vary",
+    "Such variations are used as examples",
+    "They illustrate the point under discussion"
+   ],
+   "inference": "Differences of state, place, and time function as exemplifying factors in the argument.",
+   "uncertainties": [],
+   "plain_english": "By such examples as states, places, and times, and so forth, as illustrated."
+  },
+  {
+   "verse": 557,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "emphatic locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavahāritvasambandhāntaratā",
+     "gloss": "otherness-of-practical-relation",
+     "grounds": "abstract compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "causal conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does practical usage entail a distinct relational status in that context?",
+   "premises": [
+    "Practical usage involves relations",
+    "These relations differ in that context",
+    "The difference arises for a specific reason"
+   ],
+   "inference": "Because of that, there is an otherness in the relations involved in practical usage.",
+   "uncertainties": [],
+   "plain_english": "Because there alone arises an otherness in the relations of practical usage."
+  },
+  {
+   "verse": 558,
+   "rows": [
+    {
+     "surface": "sūryaḥ",
+     "gloss": "sun",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśakaḥ",
+     "gloss": "illuminator",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kvāpi",
+     "gloss": "somewhere",
+     "grounds": "indefinite locative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-time",
+     "grounds": "locative of time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-place",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "How can the sun's role as illuminator vary across different times and places?",
+   "premises": [
+    "The sun is an illuminator",
+    "Its effect depends on time and place",
+    "It may be otherwise in different contexts"
+   ],
+   "inference": "The sun, though an illuminator, may function otherwise depending on time and place.",
+   "uncertainties": [],
+   "plain_english": "The sun is an illuminator, yet somewhere, at some time or place, it may be otherwise."
+  },
+  {
+   "verse": 559,
+   "rows": [
+    {
+     "surface": "sphoṭādarthapratītiśced",
+     "gloss": "if-meaning-cognition-from-sphota",
+     "grounds": "conditional compound with sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyajyate",
+     "gloss": "is-manifested",
+     "grounds": "passive verb",
+     "morph": "3.sg.pres.pass √vyaj"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "by-them",
+     "grounds": "instrumental plural",
+     "morph": "pron.inst.pl"
+    },
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirṇayaḥ",
+     "gloss": "determination",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "If meaning-cognition arises from sphota manifested by sounds, where is certainty found?",
+   "premises": [
+    "Meaning-cognition is said to arise from sphota",
+    "Sphota is manifested by sounds",
+    "This raises a question about determination"
+   ],
+   "inference": "If meaning depends on sphota manifested by sounds, the basis for determinate cognition is unclear.",
+   "uncertainties": [
+    "Technical term sphota kept as concept in grounds"
+   ],
+   "plain_english": "If cognition of meaning comes from sphota and is manifested by them, where is the determination?"
+  },
+  {
+   "verse": 560,
+   "rows": [
+    {
+     "surface": "bhojanāderaceṣṭatve",
+     "gloss": "in-inactivity-of-eating-etc",
+     "grounds": "locative abstract compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyavahāravilopitā",
+     "gloss": "destruction-of-practice",
+     "grounds": "abstract noun compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What consequence follows for practical life if activities like eating cease?",
+   "premises": [
+    "Activities such as eating may become inactive",
+    "Practical life depends on such activities",
+    "Their cessation disrupts practice"
+   ],
+   "inference": "If activities like eating cease, ordinary practical life is destroyed.",
+   "uncertainties": [],
+   "plain_english": "If there is inactivity in eating and the like, practical life is destroyed."
+  },
+  {
+   "verse": 561,
+   "rows": [
+    {
+     "surface": "gopālaghaṭikānyaiśca",
+     "gloss": "and-by-cowherd-clock-others",
+     "grounds": "instrumental compound with conjunction",
+     "morph": "compound"
+    },
+    {
+     "surface": "ghaṭitā",
+     "gloss": "joined",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past.part"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hyasambhavāt",
+     "gloss": "indeed-because-impossibility",
+     "grounds": "ablative with emphatic particle",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why cannot conventional arrangements like cowherd or clock be validly joined here?",
+   "premises": [
+    "Examples like cowherd and clock are proposed",
+    "Such joining is considered",
+    "It is impossible in this case"
+   ],
+   "inference": "Such conventional arrangements cannot be joined here because of their impossibility.",
+   "uncertainties": [],
+   "plain_english": "And it is not joined by the cowherd, the clock, and others, indeed because of impossibility."
+  },
+  {
+   "verse": 562,
+   "rows": [
+    {
+     "surface": "tasmādvarṇanikaiveyaṃ",
+     "gloss": "therefore-this-only-description",
+     "grounds": "compound with sandhi fusion",
+     "morph": "compound"
+    },
+    {
+     "surface": "parasyāndhyāya",
+     "gloss": "for-blindness-of-other",
+     "grounds": "dative purpose compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalpitā",
+     "gloss": "imagined",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past.part"
+    }
+   ],
+   "question": "Why is this account considered merely a description imagined for another's blindness?",
+   "premises": [
+    "The preceding view is untenable",
+    "This account serves only as description",
+    "It is imagined for the blindness of another"
+   ],
+   "inference": "Therefore this is merely a descriptive account imagined for the blindness of the other.",
+   "uncertainties": [],
+   "plain_english": "Therefore this is only a description, imagined for the blindness of the other."
+  },
+  {
+   "verse": 563,
+   "rows": [
+    {
+     "surface": "atreti",
+     "gloss": "here-thus",
+     "grounds": "locative with quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatprayogatvād",
+     "gloss": "because-of-its-application",
+     "grounds": "ablative abstract compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "digdeśādyair",
+     "gloss": "by-direction-place-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "viśeṣitā",
+     "gloss": "specified",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past.part"
+    }
+   ],
+   "question": "How does application in a context specify meaning through direction and place?",
+   "premises": [
+    "The term is applied in a specific context",
+    "Application involves direction and place",
+    "Such factors specify the meaning"
+   ],
+   "inference": "Because of its application here, meaning is specified by factors like direction and place.",
+   "uncertainties": [],
+   "plain_english": "Thus, here, because of its application, it is specified by direction, place, and so on."
+  },
+  {
+   "verse": 564,
+   "rows": [
+    {
+     "surface": "viśeṣapūrvatādhyakṣe",
+     "gloss": "in-perception-preceded-by-particular",
+     "grounds": "locative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aviśeṣo",
+     "gloss": "non-particular",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asty",
+     "gloss": "is",
+     "grounds": "existential verb",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "anumānataḥ",
+     "gloss": "from-inference",
+     "grounds": "ablative adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can non-particularity be known through inference when perception is particular?",
+   "premises": [
+    "Perception is preceded by particularity",
+    "Non-particularity is not directly given in that way",
+    "Inference can establish non-particularity"
+   ],
+   "inference": "Although perception involves particularity, non-particularity is established through inference.",
+   "uncertainties": [],
+   "plain_english": "In perception preceded by particularity, non-particularity exists through inference."
+  },
+  {
+   "verse": 565,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental demonstrative",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pūrvoktayā",
+     "gloss": "by-previously-stated",
+     "grounds": "instrumental compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nītyā",
+     "gloss": "by-method",
+     "grounds": "instrumental noun",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhāvānāṃ",
+     "gloss": "of-things",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svagrahaḥ",
+     "gloss": "self-grasp",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.past.part"
+    }
+   ],
+   "question": "How is the self-grasp of things established by the previously stated method?",
+   "premises": [
+    "A method was previously stated",
+    "That method applies to things",
+    "Self-grasp of things is thereby established"
+   ],
+   "inference": "By the previously stated method, the self-grasp of things is established.",
+   "uncertainties": [],
+   "plain_english": "Therefore, by the previously stated method, the self-grasp of things is established."
+  },
+  {
+   "verse": 566,
+   "rows": [
+    {
+     "surface": "sāmānyād",
+     "gloss": "from-generality",
+     "grounds": "ablative noun",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "anumānoktadūṣaṇaṃ",
+     "gloss": "refutation-stated-for-inference",
+     "grounds": "compound object",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadviśeṣataḥ",
+     "gloss": "by-that-particularity",
+     "grounds": "ablative/instrumental compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How does particularity refute objections raised against inference from generality?",
+   "premises": [
+    "Objections to inference arise from generality",
+    "Particularity provides a counterpoint",
+    "The refutation is based on that particularity"
+   ],
+   "inference": "The refutation stated against inference from generality is made through that particularity.",
+   "uncertainties": [],
+   "plain_english": "The refutation stated against inference from generality is made by that particularity."
+  },
+  {
+   "verse": 567,
+   "rows": [
+    {
+     "surface": "svātantryaṃ",
+     "gloss": "independence",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naca",
+     "gloss": "and-not",
+     "grounds": "negation with conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdasya",
+     "gloss": "of-word",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "racanātvena",
+     "gloss": "as-composition",
+     "grounds": "instrumental abstract",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "yujyate",
+     "gloss": "is-fitting",
+     "grounds": "passive verb",
+     "morph": "3.sg.pres.pass √yuj"
+    }
+   ],
+   "question": "Why is independence not fitting for a word understood as mere composition?",
+   "premises": [
+    "A word may be viewed as a composition",
+    "Independence would require more than composition",
+    "Such independence is not fitting for the word"
+   ],
+   "inference": "Independence is not fitting for a word when it is treated merely as a composition.",
+   "uncertainties": [],
+   "plain_english": "And independence is not fitting for a word as mere composition."
+  },
+  {
+   "verse": 568,
+   "rows": [
+    {
+     "surface": "arthāpattyādinā",
+     "gloss": "by-postulation-etc",
+     "grounds": "instrumental compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāpi",
+     "gloss": "not-even",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadanarhopayogataḥ",
+     "gloss": "because-of-its-unfit-use",
+     "grounds": "ablative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Why can postulation and similar means not justify an unfit use of the word?",
+   "premises": [
+    "Postulation and other means are considered",
+    "The use in question is unfit",
+    "Unfit use cannot be justified by such means"
+   ],
+   "inference": "Not even by postulation and the like, because of its unfit use.",
+   "uncertainties": [],
+   "plain_english": "Not even by postulation and so on, because of its unfit use."
+  },
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "kākatālīyarūpatvād",
+     "gloss": "because-of-crow-palm-nature",
+     "grounds": "ablative abstract compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aśvādeḥ",
+     "gloss": "of-horse-etc",
+     "grounds": "ablative/genitive with adi",
+     "morph": "compound"
+    },
+    {
+     "surface": "taraṇād",
+     "gloss": "from-crossing",
+     "grounds": "ablative noun",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle introducing alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can accidental coincidence in cases like a horse crossing explain the phenomenon?",
+   "premises": [
+    "Some events appear coincidental like crow and palm fruit",
+    "A horse crossing may seem accidental",
+    "Accidental coincidence is proposed as explanation"
+   ],
+   "inference": "The phenomenon might be attributed to mere coincidence, as in the accidental crossing of a horse.",
+   "uncertainties": [],
+   "plain_english": "Or else, because of its accidental nature, like the crossing of a horse and so on."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "tattajjātīyadharmo",
+     "gloss": "property-of-that-class",
+     "grounds": "compound subject",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathājñānasvabhāvatā",
+     "gloss": "nature-of-such-knowledge",
+     "grounds": "abstract compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Is the explanation a class property or the very nature of such knowledge?",
+   "premises": [
+    "An explanation may be sought in class properties",
+    "Alternatively it may lie in the nature of knowledge",
+    "These are presented as alternatives"
+   ],
+   "inference": "The explanation is either a property of that class or the nature of such knowledge.",
+   "uncertainties": [],
+   "plain_english": "Or it is a property of that class, or the nature of such knowledge."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "tasmādetacca",
+     "gloss": "therefore-and-this",
+     "grounds": "compound with conjunction",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃjñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "sarvaḥ",
+     "gloss": "everyone",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svātmānam",
+     "gloss": "own-self",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātmanā",
+     "gloss": "by-self",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Why must everyone know their own self by the self itself?",
+   "premises": [
+    "The preceding reasoning establishes a conclusion",
+    "Knowledge of the self is required",
+    "The self is known by the self"
+   ],
+   "inference": "Therefore everyone must know their own self by the self itself.",
+   "uncertainties": [],
+   "plain_english": "Therefore this too must be known: everyone knows their own self by the self."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "pratyakṣādiprakriyāyāḥ",
+     "gloss": "of-process-of-perception-etc",
+     "grounds": "genitive compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivakṛtasthiteḥ",
+     "gloss": "of-state-made-by-shiva",
+     "grounds": "genitive compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the process of perception grounded in the state established by Shiva?",
+   "premises": [
+    "Perception and other processes operate in experience",
+    "Their operation has a grounding state",
+    "That state is established by Shiva"
+   ],
+   "inference": "The process of perception and the like is grounded in the state established by Shiva.",
+   "uncertainties": [],
+   "plain_english": "Thus, of the process of perception and so on, as established by Shiva."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "yamasainikasaddṛṣṭidharādeś",
+     "gloss": "of-holder-of-true-view-of-yama-soldier-etc",
+     "grounds": "genitive compound with sandhi",
+     "morph": "compound"
+    },
+    {
+     "surface": "calanodgamāt",
+     "gloss": "from-rise-of-movement",
+     "grounds": "ablative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What arises from the movement associated with the true view of Yama's soldiers and others?",
+   "premises": [
+    "There is a true view held by Yama's soldiers and others",
+    "Movement arises in that context",
+    "This arising has significance for the argument"
+   ],
+   "inference": "From the arising of movement in those holding such a view, a certain consequence follows.",
+   "uncertainties": [
+    "Exact referent of the compound subject is context-dependent"
+   ],
+   "plain_english": "From the arising of movement in those holding the true view of Yama's soldiers and others."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "gamāgamena",
+     "gloss": "by-going-and-coming",
+     "grounds": "instrumental compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāyvādeḥ",
+     "gloss": "of-air-etc",
+     "grounds": "genitive/ablative with adi",
+     "morph": "compound"
+    },
+    {
+     "surface": "kānyā",
+     "gloss": "what-other",
+     "grounds": "interrogative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "is",
+     "grounds": "existential verb",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "cetanā",
+     "gloss": "consciousness",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Can mere going and coming of air and the like constitute consciousness?",
+   "premises": [
+    "Air and similar elements move by going and coming",
+    "Consciousness is being questioned",
+    "Mere movement is insufficient for consciousness"
+   ],
+   "inference": "The going and coming of air and the like cannot amount to consciousness.",
+   "uncertainties": [],
+   "plain_english": "What other consciousness could there be from the going and coming of air and the like?"
+  }
+ ]
+}

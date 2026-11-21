@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "sindhuḥ",
+     "gloss": "ocean",
+     "grounds": "names a cosmic realm",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛthivī",
+     "gloss": "earth",
+     "grounds": "names a cosmic realm",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uta",
+     "gloss": "and",
+     "grounds": "connects listed realms",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dyauḥ",
+     "gloss": "heaven",
+     "grounds": "names a cosmic realm",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which cosmic realms are encompassed by the claimed lordship over riches?",
+   "premises": [
+    "The ocean is named as a realm.",
+    "The earth is named as a realm.",
+    "Heaven is included alongside them."
+   ],
+   "inference": "The claimed lordship over riches encompasses ocean, earth, and heaven.",
+   "uncertainties": [
+    "The syntactic role of these nominatives depends on the preceding context."
+   ],
+   "plain_english": "The ocean, the earth, and heaven."
+  }
+ ]
+}

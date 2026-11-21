@@ -1,0 +1,251 @@
+{
+ "song": "kul-p46",
+ "items": [
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "anugṛhṇanti",
+     "gloss": "bless",
+     "grounds": "verb of blessing",
+     "morph": "3.pl.act-pres root anu-grah"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "pronoun object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "prayacchanti",
+     "gloss": "grant",
+     "grounds": "verb of giving",
+     "morph": "3.pl.act-pres root pra-yam"
+    },
+    {
+     "surface": "manoratham",
+     "gloss": "wish",
+     "grounds": "compound mind-chariot",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Who blesses and grants the wish?",
+   "premises": [
+    "The goddess blesses him.",
+    "The goddess grants his wish."
+   ],
+   "inference": "The goddess blesses him and grants his wish.",
+   "uncertainties": [
+    "devi is vocative, so speaker attribution is implied."
+   ],
+   "plain_english": "The goddess blesses him and grants his wish."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "tava loke",
+     "gloss": "in-your-world",
+     "grounds": "locative phrase",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nivaset",
+     "gloss": "dwells",
+     "grounds": "verb of dwelling",
+     "morph": "3.sg.act-opt root nivas"
+    },
+    {
+     "surface": "sarvaiśvaryasamanvitaḥ",
+     "gloss": "with-all-sovereignty",
+     "grounds": "compound all-sovereignty-endowed",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Where does he dwell with sovereignty?",
+   "premises": [
+    "He dwells in your world.",
+    "He is endowed with all sovereignty."
+   ],
+   "inference": "He dwells in your world endowed with all sovereignty.",
+   "uncertainties": [
+    "tava loke is treated as one token despite internal space."
+   ],
+   "plain_english": "He dwells in your world endowed with all sovereignty."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "brāhme muhūrtte",
+     "gloss": "brahma-muhurta",
+     "grounds": "locative time phrase",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "utthāya",
+     "gloss": "rising",
+     "grounds": "absolutive of rising",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bath",
+     "grounds": "ritual object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sandhyām",
+     "gloss": "twilight",
+     "grounds": "ritual object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "upāsya",
+     "gloss": "worship",
+     "grounds": "absolutive of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rites follow rising at brahma-muhurta?",
+   "premises": [
+    "One rises at brahma-muhurta.",
+    "One bathes and worships twilight."
+   ],
+   "inference": "After rising at brahma-muhurta, one bathes and worships twilight.",
+   "uncertainties": [
+    "brāhme muhūrtte is treated as one token despite internal space."
+   ],
+   "plain_english": "Rising at brahma-muhurta, one bathes and worships twilight."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "ātmānam",
+     "gloss": "oneself",
+     "grounds": "reflexive object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-incense-flowers-etc",
+     "grounds": "instrumental list",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "alaṅkṛtya",
+     "gloss": "adorn",
+     "grounds": "absolutive of adorning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhānavit",
+     "gloss": "ritual-knower",
+     "grounds": "compound ritual-knower",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Who adorns oneself with incense and flowers?",
+   "premises": [
+    "The ritual knower adorns oneself.",
+    "The adornment uses incense and flowers."
+   ],
+   "inference": "The ritual knower adorns oneself with incense, flowers, and the like.",
+   "uncertainties": [
+    "ātmānam may refer to the deity or practitioner depending on context."
+   ],
+   "plain_english": "The ritual knower adorns oneself with incense, flowers, and the like."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "kiñcidabhyudite",
+     "gloss": "slightly-risen",
+     "grounds": "participial adjective",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sūrye",
+     "gloss": "sun",
+     "grounds": "locative time",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "locative sphere",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "sveṣṭadevatām",
+     "gloss": "own-chosen-deity",
+     "grounds": "compound own-chosen-deity",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "When is the chosen deity worshipped?",
+   "premises": [
+    "The sun is slightly risen.",
+    "The chosen deity is worshipped in its circle."
+   ],
+   "inference": "When the sun is slightly risen, one worships one's chosen deity in its circle.",
+   "uncertainties": [
+    "maṇḍale may refer to solar disk or ritual circle."
+   ],
+   "plain_english": "When the sun is slightly risen, one worships one's chosen deity in its circle."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "ṣoḍaśairupacāraiḥ",
+     "gloss": "with-sixteen-services",
+     "grounds": "instrumental compound",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrapūjāpuraḥsaram",
+     "gloss": "circle-worship-foremost",
+     "grounds": "compound circle-worship-foremost",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How is the chosen deity worshipped?",
+   "premises": [
+    "The worship uses sixteen services.",
+    "Circle worship is foremost."
+   ],
+   "inference": "The chosen deity is worshipped with sixteen services, circle worship being foremost.",
+   "uncertainties": [
+    "cakrapūjāpuraḥsaram modifies the deity or the worship."
+   ],
+   "plain_english": "The chosen deity is worshipped with sixteen services, circle worship being foremost."
+  }
+ ]
+}

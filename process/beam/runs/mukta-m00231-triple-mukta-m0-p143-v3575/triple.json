@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ikṣantāṃ",
+     "gloss": "should-look",
+     "grounds": "optative of ikṣ",
+     "morph": "3.pl.act-opt (ikṣ)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "diśaṃ",
+     "gloss": "direction",
+     "grounds": "noun diś accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhītyā",
+     "gloss": "out-of-fear",
+     "grounds": "instrumental of bhīti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tarjitā",
+     "gloss": "threatened",
+     "grounds": "past participle of tarj",
+     "morph": "f.nom.sg (tarj)"
+    },
+    {
+     "surface": "devatā+ājñayā",
+     "gloss": "by-deity-command",
+     "grounds": "instrumental of ājñā governed by devatā",
+     "morph": "f.inst.sg (compound)"
+    }
+   ],
+   "question": "Should threatened deities command that no one look toward that direction out of fear?",
+   "premises": [
+    "Threatened deities issue commands.",
+    "Fear motivates directional avoidance.",
+    "No one should look there."
+   ],
+   "inference": "The verse prescribes avoiding a feared direction under threatened deities' command.",
+   "uncertainties": [
+    "Exact syntactic scope of na with ikṣantāṃ."
+   ],
+   "plain_english": "Let them not look toward that direction out of fear; the threatened deities command it."
+  }
+ ]
+}

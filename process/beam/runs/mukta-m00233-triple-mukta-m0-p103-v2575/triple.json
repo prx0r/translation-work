@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "mūlenāvāhya",
+     "gloss": "by-root-invoking",
+     "grounds": "mūlena instrumental plus āvāhya gerund fused in one surface",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tanmūrtiṃ",
+     "gloss": "that-form",
+     "grounds": "accusative object of invocation",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "mantradehaṃ",
+     "gloss": "mantra-body",
+     "grounds": "accusative object qualified by mantra",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking objects",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "meditate",
+     "grounds": "optative verb of meditation",
+     "morph": "3.sg.act.opt. (bhū)"
+    }
+   ],
+   "question": "How does one invoke the deity's form as mantra-body by its root and meditate?",
+   "premises": [
+    "root invokes that form",
+    "mantra-body is meditated",
+    "invocation precedes meditation"
+   ],
+   "inference": "The rite invokes the deity's form as mantra-body by its root before meditation.",
+   "uncertainties": [
+    "mūlenāvāhya remains one fused surface",
+    "gender of tanmūrtiṃ inferred from mūrti"
+   ],
+   "plain_english": "By the root, invoke that form, the mantra-body, and meditate."
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "rakṣa",
+     "gloss": "protect",
+     "grounds": "imperative request for protection",
+     "morph": "2.sg.act.imp root-rakṣ"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "sarvagātreṣu",
+     "gloss": "in-all-limbs",
+     "grounds": "locative indicating scope of protection; sarva+gātra compound",
+     "morph": "loc.pl.nt compound"
+    },
+    {
+     "surface": "durge",
+     "gloss": "o-durgā",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative epithet",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "expression of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "optative/imperative wish",
+     "morph": "3.sg.act.imp root-as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of homage",
+     "morph": "dat.sg"
+    }
+   ],
+   "question": "Which goddess is invoked to protect all the devotee's limbs and receive homage?",
+   "premises": [
+    "The devotee directly addresses Durgā, the goddess.",
+    "The devotee requests protection in all limbs.",
+    "The devotee offers homage to the addressed goddess."
+   ],
+   "inference": "Durgā is the invoked deity from whom bodily protection and to whom reverence are directed.",
+   "uncertainties": [],
+   "plain_english": "Protect me in all my limbs, O Durgā, O goddess; homage be to you."
+  }
+ ]
+}

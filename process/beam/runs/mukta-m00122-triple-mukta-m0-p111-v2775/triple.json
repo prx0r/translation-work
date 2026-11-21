@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "pratyabdaṃ",
+     "gloss": "annually",
+     "grounds": "adverb of time; annual recurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "locative of gṛha",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent noun in nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvedādyāmahodayaḥ",
+     "gloss": "may-live-first-day-great-rising",
+     "grounds": "fused sandhi form kept whole; internal parts not split",
+     "morph": "v.3.sg.act-opt + indecl."
+    }
+   ],
+   "question": "May a mantra-practitioner live in the house with annual first-day great rising?",
+   "premises": [
+    "annual recurrence is permitted",
+    "household residence is allowed",
+    "first-day great rising accompanies it"
+   ],
+   "inference": "The verse permits annual household residence with first-day great rising.",
+   "uncertainties": [
+    "fused final token not split; exact ritual sense of ādyāmahodayaḥ uncertain"
+   ],
+   "plain_english": "Or the mantra-practitioner may live in the house annually, with the first-day great rising."
+  }
+ ]
+}

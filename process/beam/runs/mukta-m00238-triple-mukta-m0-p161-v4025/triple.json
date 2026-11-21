@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p161",
+ "items": [
+  {
+   "verse": 4025,
+   "rows": [
+    {
+     "surface": "maṃtraṃ",
+     "gloss": "mantra",
+     "grounds": "mantra in accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dyūta",
+     "gloss": "gambling",
+     "grounds": "gambling as accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pramāṇāni",
+     "gloss": "measures",
+     "grounds": "measures in accusative plural neuter",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "nāyakābhyudayaḥ",
+     "gloss": "hero-rise",
+     "grounds": "compound hero-rise in nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What items are listed alongside garden water sports and honey-drinking festivals as being proclaimed in the puranas?",
+   "premises": [
+    "Puranas proclaim these topics.",
+    "The list includes mantra gambling measures hero-rise.",
+    "Tathā indicates continuation."
+   ],
+   "inference": "The verse enumerates additional puranic topics beyond the preceding festivities.",
+   "uncertainties": [
+    "Exact syntactic case of dyūta and nāyakābhyudayaḥ in the list is not fully resolved."
+   ],
+   "plain_english": "Mantra, gambling, measures, the rise of heroes, and so on are proclaimed in the puranas."
+  }
+ ]
+}

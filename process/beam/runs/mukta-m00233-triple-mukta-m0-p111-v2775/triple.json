@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "dṛṣṭādṛṣṭaphalaṃ",
+     "gloss": "seen-unseen-fruit",
+     "grounds": "compound of dṛṣṭa (seen), adṛṣṭa (unseen), and phala (fruit); neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "sarvamabhīṣṭaṃ",
+     "gloss": "all-desired",
+     "grounds": "sarva (all) with abhīṣṭa (desired); neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "sulabhaṃ",
+     "gloss": "easily-obtained",
+     "grounds": "adjective modifying the fruit; neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū (to become); third person singular",
+     "morph": "3.sg.opt."
+    }
+   ],
+   "question": "What fruits are obtained by performing Durga worship on Mahanavami and Kartika full moon?",
+   "premises": [
+    "Durga worship on Mahanavami and Kartika full moon yields fruit.",
+    "Seen and unseen desired fruits become easily obtained.",
+    "All desired results are included."
+   ],
+   "inference": "Therefore the rite grants every desired seen and unseen fruit without difficulty.",
+   "uncertainties": [
+    "The exact syntactic role of dṛṣṭādṛṣṭaphalaṃ is not fully certain."
+   ],
+   "plain_english": "All desired fruits, seen and unseen, become easily obtained."
+  }
+ ]
+}

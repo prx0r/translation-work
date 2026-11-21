@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "instrument",
+     "grounds": "means or instrument required for action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition indicating absence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartuḥ",
+     "gloss": "of-agent",
+     "grounds": "the doer or agent performing action",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kṛtiḥ",
+     "gloss": "action",
+     "grounds": "the act or doing performed by the agent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-object",
+     "grounds": "the locus or object upon which action is directed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "observed or perceived to occur",
+     "morph": "3.sg.pass-pres √dṛś"
+    }
+   ],
+   "question": "Is an instrument necessary for an agent's action upon an object?",
+   "premises": [
+    "An agent performs action directed toward an object.",
+    "Action upon an object is not observed without an instrument.",
+    "Observation supports the dependence of action on an instrument."
+   ],
+   "inference": "Therefore an instrument is necessary for an agent's action upon an object.",
+   "uncertainties": [],
+   "plain_english": "Without an instrument, an agent's action upon an object is not observed."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "śūnyakūpe",
+     "gloss": "empty-well",
+     "grounds": "locative of śūnya-kūpa, the empty well",
+     "morph": "loc.sg.m (compound: empty+well)"
+    },
+    {
+     "surface": "bheka",
+     "gloss": "frog",
+     "grounds": "nominative subject of the simile",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "simile particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of avidaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svārthamavidaṃ",
+     "gloss": "own-purpose-not-knew",
+     "grounds": "fused form svārtham + avidaṃ; first-person singular aorist of vid with object svārtham",
+     "morph": "1sg.act.aor (root vid) with object svārtham"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indefinite adverb qualifying avidaṃ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What self-knowledge did the speaker lack while wandering blindly like a frog in an empty well?",
+   "premises": [
+    "speaker compares himself to frog in empty well",
+    "he never knew his own purpose",
+    "guru's guidance is praised in preceding verses"
+   ],
+   "inference": "The verse confesses ignorance of self-purpose before receiving the guru's path.",
+   "uncertainties": [
+    "exact tense and voice of avidaṃ remain uncertain",
+    "sandhi fusion svārthamavidaṃ is analyzed as fused, not split into separate rows"
+   ],
+   "plain_english": "Like a frog in an empty well, I never knew my own purpose at any time."
+  }
+ ]
+}

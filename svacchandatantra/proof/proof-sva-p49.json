@@ -1,0 +1,86 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p49",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1212 ratio=0.844",
+  "ALIGN_NODISP v1221 ratio=0.857"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "f3fe000907ac29e2",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 72
+ },
+ "align": {
+  "min_ratio": 0.839,
+  "sub090": {
+   "1212": {
+    "ratio": 0.844,
+    "disposition": null
+   },
+   "1221": {
+    "ratio": 0.857,
+    "disposition": null
+   },
+   "1222": {
+    "ratio": 0.839,
+    "disposition": "sandhi-only: āi>e, ḥ>s"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 54,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 72,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v1212",
+  "fix: word-order/gloss vs source for v1221"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "540e3871cdade39861a836ed93b90b313396fcd7077ee007ffa8ee4a7569d7a0",
+  "l0": "17d39b37d5ab883db63c79e2fcca8a7f3e59485363a70bdf6bfdfc714d6c3f6f",
+  "argmap": "e19672d40a755218188dd625123b74f782cbff9d1e5b88b674af9a238bcbe378",
+  "l2": "63000344375fe283f19cdf9ad014091b2462d44232b2a45fb9a1b4908662840d",
+  "c1": "c28191caa1ebedf5ebe68269a065ffb900add759cb2fcf871dfc1647e75b689e"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "f3fe000907ac29e2",
+  "t1": "sva-p49/data/sva-p49.t1.json",
+  "l0": "sva-p49/data/sva-p49.l0.json",
+  "l2": "sva-p49/data/sva-p49.l2.json",
+  "c1": "sva-p49/data/sva-p49.c1.json"
+ }
+}

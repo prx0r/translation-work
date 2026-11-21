@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "locative singular feminine of caturdaśī",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyamanyacca",
+     "gloss": "should-do-other-and",
+     "grounds": "fused form kartavyam + anyat + ca with internal sandhi",
+     "morph": "n.acc.sg + n.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "śubhakarma",
+     "gloss": "auspicious-work",
+     "grounds": "neuter accusative singular compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What activities are prohibited on the fourteenth lunar day?",
+   "premises": [
+    "fourteenth day prohibits other work",
+    "auspicious work also prohibited",
+    "no additional tasks allowed"
+   ],
+   "inference": "On caturdaśī, neither other work nor auspicious work should be undertaken.",
+   "uncertainties": [
+    "exact scope of 'other' work is unspecified",
+    "verse gives a prescriptive calendar rule"
+   ],
+   "plain_english": "On the fourteenth day, nothing else should be done, nor any auspicious work."
+  }
+ ]
+}

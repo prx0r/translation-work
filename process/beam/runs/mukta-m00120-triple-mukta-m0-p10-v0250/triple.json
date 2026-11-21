@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "prakāśamātraṃ",
+     "gloss": "manifestation-only",
+     "grounds": "neuter accusative singular of prakāśamātra; compound of prakāśa and mātra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "adjective accusative singular neuter agreeing with bhāvācāraṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhāvācāraṃ",
+     "gloss": "state-conduct",
+     "grounds": "neuter accusative singular compound of bhāva and ācāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative singular feminine address to Maheśvarī",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What is the threefold state-conduct that is manifestation-only, addressed to the supreme goddess?",
+   "premises": [
+    "Manifestation-only qualifies threefold state-conduct.",
+    "Supreme goddess is directly addressed.",
+    "Verse names conduct as threefold."
+   ],
+   "inference": "The verse presents a threefold conduct of states as mere manifestation addressed to Maheśvarī.",
+   "uncertainties": [
+    "prakāśamātraṃ may modify bhāvācāraṃ or stand as a separate qualifier.",
+    "The exact three divisions are not specified in this verse."
+   ],
+   "plain_english": "O supreme goddess, the threefold conduct of states is manifestation only."
+  }
+ ]
+}

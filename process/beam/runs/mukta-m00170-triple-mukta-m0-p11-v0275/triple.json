@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "ekottarasahasraṃ",
+     "gloss": "one-thousand-and-one",
+     "grounds": "numeral compound expressing the total count of 1001",
+     "morph": "adj.nom.sg.nt"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing the resulting prescribed amount",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "śṛṅgāṇāṃ",
+     "gloss": "of-spires",
+     "grounds": "denotes the architectural elements being counted",
+     "morph": "n.gen.pl.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatārddhake",
+     "gloss": "in-half-hundred",
+     "grounds": "locative specifying the measure or case of fifty",
+     "morph": "n.loc.sg.nt"
+    }
+   ],
+   "question": "What total number of spires arises in the half-hundred measure?",
+   "premises": [
+    "The verse specifies a resulting total count of spires.",
+    "The applicable case or measure is the half-hundred.",
+    "The stated total is one thousand and one."
+   ],
+   "inference": "Therefore, in the half-hundred measure the spires number one thousand and one.",
+   "uncertainties": [
+    "The exact referent of śatārddhake (e.g. fifty hands or another unit) is implied by context rather than stated explicitly."
+   ],
+   "plain_english": "And in the case of fifty, the spires should number one thousand and one."
+  }
+ ]
+}

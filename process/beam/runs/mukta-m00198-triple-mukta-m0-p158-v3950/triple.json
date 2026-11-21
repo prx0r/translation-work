@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p158",
+ "items": [
+  {
+   "verse": 3950,
+   "rows": [
+    {
+     "surface": "nāgaraṃ",
+     "gloss": "nāgara-style",
+     "grounds": "name of an architectural style; taken as describing the form to be made",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "drāviḍaṃ",
+     "gloss": "drāviḍa-style",
+     "grounds": "name of an architectural style; alternative form",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "conjunction vā with particle api indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara-style",
+     "grounds": "name of an architectural style; alternative form",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "caturāyatam",
+     "gloss": "four-sided",
+     "grounds": "compound catur (four) + āyata (extended/measured) describing the layout",
+     "morph": "n.acc.sg.nt"
+    }
+   ],
+   "question": "Which architectural styles and layout are permitted for the prescribed construction?",
+   "premises": [
+    "The nāgara style is an admissible form.",
+    "The drāviḍa style is an admissible form.",
+    "The vesara style is an admissible form.",
+    "The construction is to be four-sided in layout."
+   ],
+   "inference": "The prescribed construction may be executed in nāgara, drāviḍa, or vesara style, provided it is four-sided.",
+   "uncertainties": [
+    "Whether caturāyatam specifies a strictly quadrangular plan or a more general fourfold extension is not fully explicit."
+   ],
+   "plain_english": "One may make it in the nāgara, drāviḍa, or vesara style, in a four-sided form."
+  }
+ ]
+}

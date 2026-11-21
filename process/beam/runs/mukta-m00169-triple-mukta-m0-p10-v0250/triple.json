@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "yayā",
+     "gloss": "by-which",
+     "grounds": "relative pronoun referring to the previously mentioned divine elixir/substance",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "āsya",
+     "gloss": "in-mouth",
+     "grounds": "locative sense indicating place where the substance remains",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthaya",
+     "gloss": "staying",
+     "grounds": "describes the state of remaining in the mouth; agrees with yayā",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "adṛśyaḥ",
+     "gloss": "invisible",
+     "grounds": "predicate adjective describing the transformed person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "predicate adjective describing the transformed person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthāyī",
+     "gloss": "steadfast",
+     "grounds": "predicate adjective indicating enduring or stable condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaven",
+     "gloss": "may-become",
+     "grounds": "expresses potential result of retaining the substance",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "subject who undergoes the transformation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformative qualities arise in a person from retaining the divine elixir in the mouth?",
+   "premises": [
+    "A divine elixir has been given in the preceding context.",
+    "The elixir remains situated in the mouth.",
+    "Retaining it produces a transformative effect on a person."
+   ],
+   "inference": "By keeping that elixir in the mouth, a person may become invisible, pure, and steadfast.",
+   "uncertainties": [
+    "The exact referent of yayā is inferred from the preceding verses as the divine elixir or ritual substance."
+   ],
+   "plain_english": "By keeping it in the mouth, a man may become invisible, pure, and steadfast."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "bhasma",
+     "gloss": "sacred-ash",
+     "grounds": "object to be applied; neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tripuṇḍraṃ",
+     "gloss": "three-lined-mark",
+     "grounds": "ritual mark made with ash; neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃdhārya",
+     "gloss": "having-applied",
+     "grounds": "gerund expressing prior action",
+     "morph": "gerund.sam-√dhṛ"
+    },
+    {
+     "surface": "rudrākṣān",
+     "gloss": "rudrākṣa-beads",
+     "grounds": "sacred beads to be worn; masculine noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bibhṛyāttataḥ",
+     "gloss": "should-wear-then",
+     "grounds": "fused form: optative verb + indeclinable; internal sandhi noted, row kept unsplit",
+     "morph": "3.sg.opt.√bhṛ+tataḥ(indecl.)"
+    }
+   ],
+   "question": "What sacred substances must be worn after marking the specified body locations?",
+   "premises": [
+    "Sacred ash is to be applied as the tripuṇḍra mark.",
+    "Rudrākṣa beads are to be worn as a subsequent act.",
+    "These actions follow the prior marking of the specified body locations."
+   ],
+   "inference": "After marking the specified body locations, one should apply the ash tripuṇḍra and then wear rudrākṣa beads.",
+   "uncertainties": [],
+   "plain_english": "Having applied sacred ash as the three-lined mark, one should then wear rudrākṣa beads."
+  }
+ ]
+}

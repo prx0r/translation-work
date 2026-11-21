@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "annapānādibhiścaiva",
+     "gloss": "with-food-drink-and-others-and-indeed",
+     "grounds": "Fused form: annapānādibhiḥ (anna-pāna-ādibhiḥ, food-drink-etc.) + ca + eva; sandhi ś+c.",
+     "morph": "compound+instr.pl.nt+indecl.+indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connective particle reinforcing inclusion.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "Emphatic particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadabhīṣṭapradānataḥ",
+     "gloss": "by-giving-what-is-desired",
+     "grounds": "Compound: tad-abhīṣṭa-pradānataḥ; denotes giving what is desired to that one.",
+     "morph": "compound+abl.sg.nt"
+    }
+   ],
+   "question": "By what additional offerings is the worshipper's identity with Śiva affirmed?",
+   "premises": [
+    "The worshipper is identified with Śiva at the conclusion of worship.",
+    "Offerings include food, drink, and similar items.",
+    "Giving what is desired to that worshipper is also included."
+   ],
+   "inference": "Therefore, honoring the worshipper with food, drink, and desired gifts affirms the same identity with Śiva.",
+   "uncertainties": [
+    "The exact syntactic link to the preceding verse's predicate is implied rather than explicit."
+   ],
+   "plain_english": "And indeed, through offerings of food, drink, and the like, and by giving what is desired, that same identity is affirmed."
+  }
+ ]
+}

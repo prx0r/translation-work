@@ -1,0 +1,1215 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1301,
+   "rows": [
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "salutation offered to the deity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tubhyam",
+     "gloss": "to-you",
+     "grounds": "addressee of the salutation",
+     "morph": "d.sg"
+    },
+    {
+     "surface": "anujñāṃ",
+     "gloss": "permission",
+     "grounds": "authorization sought for the rite",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dātum",
+     "gloss": "to-give",
+     "grounds": "purpose of granting permission",
+     "morph": "inf. (√dā)"
+    },
+    {
+     "surface": "arhasi",
+     "gloss": "you-should",
+     "grounds": "request addressed to the deity",
+     "morph": "2.sg.act.pres.ind. (√arh)"
+    }
+   ],
+   "question": "Why must the deity be asked to grant permission before the ritual proceeds?",
+   "premises": [
+    "Ritual action requires divine authorization",
+    "The practitioner addresses the deity with obeisance",
+    "Permission is explicitly requested"
+   ],
+   "inference": "The rite begins only after the deity is petitioned to grant permission.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to you; you should grant permission."
+  },
+  {
+   "verse": 1302,
+   "rows": [
+    {
+     "surface": "saṃskuryāt",
+     "gloss": "one-should-consecrate",
+     "grounds": "ritual purification of the place",
+     "morph": "3.sg.act.opt. (sam-√kṛ)"
+    },
+    {
+     "surface": "āsana",
+     "gloss": "seat",
+     "grounds": "first member of compound naming the place",
+     "morph": "āsana+sthānaṃ (compound)"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "location to be consecrated",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "with-four",
+     "grounds": "number of methods employed",
+     "morph": "inst.pl"
+    },
+    {
+     "surface": "vīkṣaṇa",
+     "gloss": "gazing",
+     "grounds": "first member of compound naming the methods",
+     "morph": "vīkṣaṇa+ādibhiḥ (compound)"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-others",
+     "grounds": "indicates gazing and similar acts",
+     "morph": "inst.pl.n"
+    }
+   ],
+   "question": "By what means must the seat-place be consecrated before worship?",
+   "premises": [
+    "The seat-place requires consecration",
+    "Consecration uses four methods",
+    "Gazing is the first of these methods"
+   ],
+   "inference": "The practitioner should consecrate the seat-place by gazing and three other prescribed methods.",
+   "uncertainties": [],
+   "plain_english": "One should consecrate the seat-place with four methods, beginning with gazing."
+  },
+  {
+   "verse": 1303,
+   "rows": [
+    {
+     "surface": "ādhāraśaktim",
+     "gloss": "support-power",
+     "grounds": "foundational power invoked first",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-with",
+     "grounds": "marks the starting point of placement",
+     "morph": "abs. (ā-√rabh)"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "first member of compound qualifying the seat",
+     "morph": "sva+āsanaṃ (compound)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "the practitioner's own seat",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location where placement occurs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual installation on the seat",
+     "morph": "3.sg.act.opt. (vi-ni-√as)"
+    }
+   ],
+   "question": "What sequence governs the placement of the practitioner's own seat in the ritual space?",
+   "premises": [
+    "Placement begins with the support-power",
+    "The practitioner's own seat is the object placed",
+    "The placement occurs in that consecrated location"
+   ],
+   "inference": "Beginning with the support-power, one should place one's own seat there.",
+   "uncertainties": [],
+   "plain_english": "Beginning with the support-power, one should place one's own seat there."
+  },
+  {
+   "verse": 1304,
+   "rows": [
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "prescribes proper ritual procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "mental recollection as ritual act",
+     "morph": "3.sg.act.opt. (√smṛ)"
+    },
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "viṣṇu",
+     "grounds": "deity to be remembered",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "spiritual teacher to be remembered",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "includes the teacher in the same act",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom must the practitioner remember according to rule during the seat ritual?",
+   "premises": [
+    "Remembrance must follow prescribed rule",
+    "Viṣṇu is an object of remembrance",
+    "The teacher is likewise remembered"
+   ],
+   "inference": "The practitioner should remember Viṣṇu and likewise the teacher according to rule.",
+   "uncertainties": [],
+   "plain_english": "One should remember Viṣṇu and likewise the teacher according to rule."
+  },
+  {
+   "verse": 1305,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "divine presence associated with the seat",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "stated in the ritual teaching",
+     "morph": "nom.sg.f (ppp. pra-√vac)"
+    },
+    {
+     "surface": "viniyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual assignment or use",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nija",
+     "gloss": "own",
+     "grounds": "first member of compound qualifying the seat",
+     "morph": "nija+āsane (compound)"
+    },
+    {
+     "surface": "āsane",
+     "gloss": "seat",
+     "grounds": "location of the application",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What ritual application is declared for the practitioner's own seat?",
+   "premises": [
+    "A deity is declared in this context",
+    "An application is specified",
+    "The application pertains to one's own seat"
+   ],
+   "inference": "The deity and its application are declared for one's own seat.",
+   "uncertainties": [
+    "The specific deity and application are not named in this verse."
+   ],
+   "plain_english": "The deity and its application are declared for one's own seat."
+  },
+  {
+   "verse": 1306,
+   "rows": [
+    {
+     "surface": "dhāraya",
+     "gloss": "support",
+     "grounds": "request for the goddess to uphold the practitioner",
+     "morph": "2.sg.act.impv. (√dhṛ)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "the practitioner seeking support",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "pavitraṃ",
+     "gloss": "pure",
+     "grounds": "desired state of the seat",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "request to purify the seat",
+     "morph": "2.sg.act.impv. (√kṛ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two requests",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "object to be made pure",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What two requests does the practitioner make to the goddess regarding support and the seat?",
+   "premises": [
+    "The goddess is asked to support the practitioner",
+    "The goddess is asked to purify the seat",
+    "Both requests are addressed directly to the goddess"
+   ],
+   "inference": "The practitioner asks the goddess to support him and to make the seat pure.",
+   "uncertainties": [],
+   "plain_english": "O goddess, support me and make the seat pure."
+  },
+  {
+   "verse": 1307,
+   "rows": [
+    {
+     "surface": "īśāne",
+     "gloss": "in-northeast",
+     "grounds": "direction for the worship",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kṣaṃ",
+     "gloss": "kṣaṃ",
+     "grounds": "seed-syllable used in the invocation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣetrapataye",
+     "gloss": "to-lord-of-field",
+     "grounds": "deity receiving worship",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed act of worship",
+     "morph": "3.sg.act.opt. (sam-√arc)"
+    }
+   ],
+   "question": "How and where should Kṣetrapati be worshipped in this ritual sequence?",
+   "premises": [
+    "Worship is directed to the northeast",
+    "The syllable kṣaṃ is used in the invocation",
+    "Kṣetrapati receives obeisance and worship"
+   ],
+   "inference": "One should worship Kṣetrapati in the northeast with the syllable kṣaṃ and obeisance.",
+   "uncertainties": [],
+   "plain_english": "In the northeast, one should worship Kṣetrapati with 'kṣaṃ, obeisance.'"
+  },
+  {
+   "verse": 1308,
+   "rows": [
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "introduces an alternative posture",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛju",
+     "gloss": "straight",
+     "grounds": "first member of compound describing the body",
+     "morph": "ṛju+kāyaḥ (compound)"
+    },
+    {
+     "surface": "kāyaḥ",
+     "gloss": "body",
+     "grounds": "physical posture of the practitioner",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "manas",
+     "gloss": "mind",
+     "grounds": "mental state of the practitioner",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sthiraḥ",
+     "gloss": "steady",
+     "grounds": "required steadiness of mind",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What bodily and mental condition is prescribed as an alternative for the practitioner?",
+   "premises": [
+    "An alternative condition is indicated",
+    "The body should be straight",
+    "The mind should be steady"
+   ],
+   "inference": "Alternatively, the practitioner should keep the body straight and the mind steady.",
+   "uncertainties": [],
+   "plain_english": "Or else, with a straight body and a steady mind."
+  },
+  {
+   "verse": 1309,
+   "rows": [
+    {
+     "surface": "suvāsita",
+     "gloss": "well-fragrant",
+     "grounds": "first member of compound describing the water",
+     "morph": "suvāsita+ambu (compound)"
+    },
+    {
+     "surface": "ambu",
+     "gloss": "water",
+     "grounds": "substance filling the pitcher",
+     "morph": "ambu+sampūrṇaṃ (compound)"
+    },
+    {
+     "surface": "sampūrṇaṃ",
+     "gloss": "filled",
+     "grounds": "state of the pitcher",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "savye",
+     "gloss": "on-left",
+     "grounds": "placement side for the pitcher",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kumbhaṃ",
+     "gloss": "pitcher",
+     "grounds": "ritual vessel to be placed",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "suśobhanam",
+     "gloss": "very-beautiful",
+     "grounds": "quality of the pitcher",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What kind of pitcher must be placed on the left side of the ritual space?",
+   "premises": [
+    "A pitcher is to be placed on the left",
+    "The pitcher is filled with fragrant water",
+    "The pitcher is very beautiful"
+   ],
+   "inference": "A very beautiful pitcher filled with fragrant water should be placed on the left.",
+   "uncertainties": [],
+   "plain_english": "On the left, place a very beautiful pitcher filled with fragrant water."
+  },
+  {
+   "verse": 1310,
+   "rows": [
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "first member of compound naming lamp fuel",
+     "morph": "ghṛta+ādi (compound)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-others",
+     "grounds": "indicates ghee and similar fuels",
+     "morph": "ghṛta+ādi (compound)"
+    },
+    {
+     "surface": "jvalitān",
+     "gloss": "kindled",
+     "grounds": "state of the lamps",
+     "morph": "acc.pl.m (ppp. √jval)"
+    },
+    {
+     "surface": "dīpān",
+     "gloss": "lamps",
+     "grounds": "objects to be placed",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "prescribed placement of lamps",
+     "morph": "3.sg.act.opt. (caus. √sthā)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "placement around the ritual area",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhān",
+     "gloss": "auspicious",
+     "grounds": "quality of the lamps",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "Where and how should auspicious lamps fueled with ghee and similar substances be arranged?",
+   "premises": [
+    "Lamps are kindled with ghee and similar fuels",
+    "The lamps are auspicious",
+    "They should be placed all around"
+   ],
+   "inference": "One should place auspicious lamps, kindled with ghee and the like, all around.",
+   "uncertainties": [],
+   "plain_english": "One should place auspicious lamps, kindled with ghee and the like, all around."
+  },
+  {
+   "verse": 1311,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "prior act of arranging the items",
+     "morph": "abs. (sam-√sthā)"
+    },
+    {
+     "surface": "saṃskuryāt",
+     "gloss": "one-should-consecrate",
+     "grounds": "ritual purification of the items",
+     "morph": "3.sg.act.opt. (sam-√kṛ)"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "those",
+     "grounds": "refers to the previously placed items",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects placement and consecration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmavān",
+     "gloss": "self-possessed",
+     "grounds": "required state of the practitioner",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "In what state must the practitioner consecrate the items after placing them?",
+   "premises": [
+    "The items have been placed",
+    "The items must be consecrated",
+    "The practitioner must be self-possessed"
+   ],
+   "inference": "Having placed those items, the self-possessed practitioner should consecrate them.",
+   "uncertainties": [],
+   "plain_english": "Having placed them, the self-possessed practitioner should consecrate them."
+  },
+  {
+   "verse": 1312,
+   "rows": [
+    {
+     "surface": "nārāca",
+     "gloss": "nārāca",
+     "grounds": "first member of compound naming the hand-seal",
+     "morph": "nārāca+mudrayā (compound)"
+    },
+    {
+     "surface": "mudrayā",
+     "gloss": "with-hand-seal",
+     "grounds": "ritual gesture used for gazing",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-gazed",
+     "grounds": "act of ritual looking",
+     "morph": "abs. (√dṛś)"
+    },
+    {
+     "surface": "samayān",
+     "gloss": "conventions",
+     "grounds": "ritual observances to be regarded",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects gazing and observing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilokayan",
+     "gloss": "observing",
+     "grounds": "continued attentive regard",
+     "morph": "nom.sg.m (pres.part. vi-√lok)"
+    }
+   ],
+   "question": "How should the practitioner regard the ritual conventions during consecration?",
+   "premises": [
+    "The nārāca hand-seal is used",
+    "The practitioner gazes with that seal",
+    "The practitioner observes the conventions"
+   ],
+   "inference": "Having gazed with the nārāca hand-seal, the practitioner should observe the conventions.",
+   "uncertainties": [],
+   "plain_english": "Having gazed with the nārāca hand-seal, and observing the conventions."
+  },
+  {
+   "verse": 1313,
+   "rows": [
+    {
+     "surface": "aspṛśya",
+     "gloss": "untouchable",
+     "grounds": "first member of compound describing contact",
+     "morph": "aspṛśya+sparśanaṃ (compound)"
+    },
+    {
+     "surface": "sparśanaṃ",
+     "gloss": "touching",
+     "grounds": "contact with what is untouchable",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "introduces an alternative impurity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "refers to improperly acquired items",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anyāya",
+     "gloss": "unjustly",
+     "grounds": "manner of acquisition",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "ārjitam",
+     "gloss": "acquired",
+     "grounds": "items obtained improperly",
+     "morph": "nom.sg.n (ppp. ā-√arj)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative cases",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of impurity in ritual materials are identified as needing removal?",
+   "premises": [
+    "Contact with the untouchable is a possible impurity",
+    "Unjustly acquired items are another impurity",
+    "Both cases are presented as alternatives"
+   ],
+   "inference": "Impurity may arise from touching the untouchable or from using what was unjustly acquired.",
+   "uncertainties": [],
+   "plain_english": "Whether there has been contact with the untouchable, or what has been unjustly acquired."
+  },
+  {
+   "verse": 1314,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the impurity mentioned before",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "as-before",
+     "grounds": "indicates prior or former state",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "removal of the impurity",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "attains",
+     "grounds": "resulting disappearance of impurity",
+     "morph": "3.sg.act.pres.ind. (ā-√yā)"
+    },
+    {
+     "surface": "naivedya",
+     "gloss": "offering",
+     "grounds": "first member of compound naming items looked at",
+     "morph": "naivedya+ādi (compound)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-others",
+     "grounds": "indicates offerings and similar items",
+     "morph": "naivedya+ādi (compound)"
+    },
+    {
+     "surface": "avalokanāt",
+     "gloss": "by-looking",
+     "grounds": "ritual gazing that removes impurity",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How is prior impurity in offerings and similar items removed during the rite?",
+   "premises": [
+    "A prior impurity is present",
+    "Offerings and similar items are ritually gazed upon",
+    "Gazing causes the impurity to be destroyed"
+   ],
+   "inference": "That prior impurity is destroyed by looking at the offerings and the like.",
+   "uncertainties": [],
+   "plain_english": "That prior impurity is destroyed by looking at the offerings and the like."
+  },
+  {
+   "verse": 1315,
+   "rows": [
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "states the effect of the lamp",
+     "morph": "3.sg.act.opt. (√as)"
+    },
+    {
+     "surface": "śubha",
+     "gloss": "auspiciousness",
+     "grounds": "first member of compound describing the lamp",
+     "morph": "śubha+daḥ (compound)"
+    },
+    {
+     "surface": "daḥ",
+     "gloss": "giving",
+     "grounds": "lamp gives auspiciousness",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dīpaḥ",
+     "gloss": "lamp",
+     "grounds": "subject producing the effects",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "niṣkravyādaḥ",
+     "gloss": "flesh-eater-destroying",
+     "grounds": "lamp wards off harmful beings",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "happiness",
+     "grounds": "first member of compound describing the lamp",
+     "morph": "sukha+pradaḥ (compound)"
+    },
+    {
+     "surface": "pradaḥ",
+     "gloss": "giving",
+     "grounds": "lamp gives happiness",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What beneficial effects does the ritual lamp produce for the worship setting?",
+   "premises": [
+    "The lamp gives auspiciousness",
+    "The lamp destroys flesh-eaters",
+    "The lamp gives happiness"
+   ],
+   "inference": "The lamp becomes a giver of auspiciousness, a destroyer of flesh-eaters, and a giver of happiness.",
+   "uncertainties": [],
+   "plain_english": "The lamp gives auspiciousness, destroys flesh-eaters, and gives happiness."
+  },
+  {
+   "verse": 1316,
+   "rows": [
+    {
+     "surface": "vasā",
+     "gloss": "fat",
+     "grounds": "first member of compound listing substances",
+     "morph": "vasā+majjā (compound)"
+    },
+    {
+     "surface": "majjā",
+     "gloss": "marrow",
+     "grounds": "second member of compound listing substances",
+     "morph": "vasā+majjā+ādi (compound)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-others",
+     "grounds": "indicates fat, marrow, and similar substances",
+     "morph": "vasā+majjā+ādi (compound)"
+    },
+    {
+     "surface": "sambhūtaiḥ",
+     "gloss": "produced",
+     "grounds": "origin of the improper fuels",
+     "morph": "inst.pl.n (ppp. sam-√bhū)"
+    },
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "first member of compound naming proper fuels",
+     "morph": "ghṛta+ādyaiḥ (compound)"
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "and-others",
+     "grounds": "indicates ghee and similar proper fuels",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "upayojitam",
+     "gloss": "used",
+     "grounds": "application of the substances in the lamp",
+     "morph": "nom.sg.n (ppp. upa-√yuj)"
+    }
+   ],
+   "question": "What contrast in lamp substances is implied by mentioning fat, marrow, and ghee?",
+   "premises": [
+    "Substances produced from fat, marrow, and the like are mentioned",
+    "Ghee and similar substances are mentioned",
+    "These substances are described as used"
+   ],
+   "inference": "The verse contrasts improper substances like fat and marrow with proper ones like ghee for use in the lamp.",
+   "uncertainties": [
+    "The verse states the substances but does not explicitly prohibit or prescribe them."
+   ],
+   "plain_english": "What is produced from fat, marrow, and the like is used, as are ghee and similar substances."
+  },
+  {
+   "verse": 1317,
+   "rows": [
+    {
+     "surface": "dīrghayā",
+     "gloss": "with-long",
+     "grounds": "qualifies the means of touching, likely a long syllable or gesture",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "expresses possibility or prescription",
+     "morph": "3.sg.act.opt. (√bhū)"
+    },
+    {
+     "surface": "saṃspṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "prescribed act of touching",
+     "morph": "3.sg.act.opt. (sam-√spṛś)"
+    }
+   ],
+   "question": "By what means should the practitioner perform the act of touching in this step?",
+   "premises": [
+    "Touching is prescribed",
+    "A long form is specified as the means",
+    "The action is expressed as a ritual instruction"
+   ],
+   "inference": "One should touch with the long form.",
+   "uncertainties": [
+    "The referent of 'long' is not specified in this verse."
+   ],
+   "plain_english": "One should touch with the long one."
+  },
+  {
+   "verse": 1318,
+   "rows": [
+    {
+     "surface": "pāṇinā",
+     "gloss": "with-hand",
+     "grounds": "instrument used for holding",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "holding",
+     "grounds": "prior act of grasping the pot",
+     "morph": "abs. (√dhṛ)"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member of compound indicating side",
+     "morph": "vāma+pārśva (compound)"
+    },
+    {
+     "surface": "pārśva",
+     "gloss": "side",
+     "grounds": "location where the pot is situated",
+     "morph": "vāma+pārśva+sthitaṃ (compound)"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "position of the pot",
+     "morph": "acc.sg.m (ppp. √sthā)"
+    },
+    {
+     "surface": "ghaṭam",
+     "gloss": "pot",
+     "grounds": "vessel to be held",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Which vessel must be held by hand and from what position is it taken?",
+   "premises": [
+    "The pot is situated on the left side",
+    "The pot is held with the hand",
+    "Holding precedes the next ritual action"
+   ],
+   "inference": "Holding with the hand the pot situated on the left side.",
+   "uncertainties": [],
+   "plain_english": "Holding with the hand the pot situated on the left side."
+  },
+  {
+   "verse": 1319,
+   "rows": [
+    {
+     "surface": "jalāśaya",
+     "gloss": "water-reservoir",
+     "grounds": "first member of compound naming sources of contact",
+     "morph": "jalāśaya+śava (compound)"
+    },
+    {
+     "surface": "śava",
+     "gloss": "corpse",
+     "grounds": "second member of compound naming sources of contact",
+     "morph": "jalāśaya+śava+sparśāt (compound)"
+    },
+    {
+     "surface": "sparśāt",
+     "gloss": "from-touch",
+     "grounds": "contact causing impurity",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "substance affected by contact",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "location of the contacted water",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements of the condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgatam",
+     "gloss": "contacted",
+     "grounds": "state of the water after contact",
+     "morph": "nom.sg.n (ppp. sam-√gam)"
+    }
+   ],
+   "question": "What source of contact can render water in its place ritually impure?",
+   "premises": [
+    "Contact with a water-reservoir or corpse is mentioned",
+    "Water in its place may be contacted",
+    "Such contact affects the water's condition"
+   ],
+   "inference": "Water in its place may become contacted through touch associated with a water-reservoir or a corpse.",
+   "uncertainties": [
+    "The exact ritual implication of this contact is completed in surrounding verses."
+   ],
+   "plain_english": "Water in its place may be contacted by touch from a water-reservoir or a corpse."
+  },
+  {
+   "verse": 1320,
+   "rows": [
+    {
+     "surface": "kṛta",
+     "gloss": "made",
+     "grounds": "first member of compound describing the gesture",
+     "morph": "kṛta+añjaliḥ (compound)"
+    },
+    {
+     "surface": "añjaliḥ",
+     "gloss": "folded-hands",
+     "grounds": "gesture of reverence",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pūtaḥ",
+     "gloss": "purified",
+     "grounds": "state of the practitioner",
+     "morph": "nom.sg.m (ppp. √pū)"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member of compound naming sides",
+     "morph": "vāma+dakṣiṇa (compound)"
+    },
+    {
+     "surface": "dakṣiṇa",
+     "gloss": "right",
+     "grounds": "second member of compound naming sides",
+     "morph": "vāma+dakṣiṇa+pārśvayoḥ (compound)"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-sides",
+     "grounds": "location relative to the practitioner",
+     "morph": "loc.du.n"
+    }
+   ],
+   "question": "In what purified posture should the practitioner position himself at the left and right sides?",
+   "premises": [
+    "The practitioner is purified",
+    "The folded-hands gesture is made",
+    "The left and right sides are involved"
+   ],
+   "inference": "Purified and with folded hands, the practitioner attends to the left and right sides.",
+   "uncertainties": [],
+   "plain_english": "Purified, with folded hands, at the left and right sides."
+  },
+  {
+   "verse": 1321,
+   "rows": [
+    {
+     "surface": "sugandha",
+     "gloss": "fragrant",
+     "grounds": "first member of compound describing flowers",
+     "morph": "sugandha+puṣpāṇi (compound)"
+    },
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "ritual offerings to be taken",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "act of picking up the flowers",
+     "morph": "abs. (ā-√dā)"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandal",
+     "grounds": "first member of compound describing the flowers",
+     "morph": "candana+aktāni (compound)"
+    },
+    {
+     "surface": "aktāni",
+     "gloss": "smeared",
+     "grounds": "flowers anointed with sandal paste",
+     "morph": "acc.pl.n (ppp. √añj)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "first member of compound describing the practitioner",
+     "morph": "mantra+vit (compound)"
+    },
+    {
+     "surface": "vit",
+     "gloss": "knower",
+     "grounds": "practitioner skilled in mantra",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What prepared flowers must the mantra-knowing practitioner take for the ritual act?",
+   "premises": [
+    "The practitioner knows mantra",
+    "Fragrant flowers are taken",
+    "The flowers are smeared with sandal paste"
+   ],
+   "inference": "The mantra-knower should take fragrant flowers smeared with sandal paste.",
+   "uncertainties": [],
+   "plain_english": "The mantra-knower, having taken fragrant flowers smeared with sandal paste."
+  },
+  {
+   "verse": 1322,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member of compound naming the hand",
+     "morph": "vāma+hastena (compound)"
+    },
+    {
+     "surface": "hastena",
+     "gloss": "with-hand",
+     "grounds": "instrument for taking",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "act of gathering or taking up",
+     "morph": "abs. (sam-ā-√dā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mastakam",
+     "gloss": "head",
+     "grounds": "body part involved in the action",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "With which hand and toward what body part does the practitioner perform the taking action?",
+   "premises": [
+    "The left hand is used",
+    "Something is taken up",
+    "The head is involved in the action"
+   ],
+   "inference": "Having taken with the left hand, and toward the head.",
+   "uncertainties": [
+    "The object taken toward the head is implied from the previous verse."
+   ],
+   "plain_english": "Having taken with the left hand, and to the head."
+  },
+  {
+   "verse": 1323,
+   "rows": [
+    {
+     "surface": "pūrvam",
+     "gloss": "first",
+     "grounds": "indicates the initial recitation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribed verbal act",
+     "morph": "3.sg.act.opt. (√paṭh)"
+    },
+    {
+     "surface": "ślokam",
+     "gloss": "verse",
+     "grounds": "text to be recited",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "imam",
+     "gloss": "this",
+     "grounds": "points to the following verse",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "first member of compound praising the practitioner",
+     "morph": "sādhaka+sattamaḥ (compound)"
+    },
+    {
+     "surface": "sattamaḥ",
+     "gloss": "best",
+     "grounds": "excellence of the practitioner",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What must the best practitioner recite before proceeding with the next ritual act?",
+   "premises": [
+    "Recitation is prescribed as a first step",
+    "A specific verse is to be recited",
+    "The best practitioner performs this recitation"
+   ],
+   "inference": "The best practitioner should first recite this verse.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should first recite this verse."
+  },
+  {
+   "verse": 1324,
+   "rows": [
+    {
+     "surface": "mṛtyu",
+     "gloss": "death",
+     "grounds": "first member of compound listing afflictions",
+     "morph": "mṛtyu+roga (compound)"
+    },
+    {
+     "surface": "roga",
+     "gloss": "disease",
+     "grounds": "second member of compound listing afflictions",
+     "morph": "mṛtyu+roga+bhaya (compound)"
+    },
+    {
+     "surface": "bhaya",
+     "gloss": "fear",
+     "grounds": "third member of compound listing afflictions",
+     "morph": "mṛtyu+roga+bhaya+kleśāḥ (compound)"
+    },
+    {
+     "surface": "kleśāḥ",
+     "gloss": "afflictions",
+     "grounds": "collective harms to be expelled",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "patantu",
+     "gloss": "let-fall",
+     "grounds": "wish for afflictions to fall away",
+     "morph": "3.pl.act.impv. (√pat)"
+    },
+    {
+     "surface": "ripu",
+     "gloss": "enemy",
+     "grounds": "first member of compound naming the target",
+     "morph": "ripu+mastake (compound)"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "location where afflictions are directed",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Where are death, disease, fear, and afflictions directed by the recited verse?",
+   "premises": [
+    "Death, disease, fear, and afflictions are named",
+    "They are commanded to fall",
+    "Their target is the enemy's head"
+   ],
+   "inference": "The recited verse directs death, disease, fear, and afflictions to fall on the enemy's head.",
+   "uncertainties": [],
+   "plain_english": "Let death, disease, fear, and afflictions fall on the enemy's head."
+  }
+ ]
+}

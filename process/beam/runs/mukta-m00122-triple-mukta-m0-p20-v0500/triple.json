@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "elsewhere; locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anuvidhānāt",
+     "gloss": "by-prescription",
+     "grounds": "from anuvidhāna, prescription or following rule, ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "everywhere; locative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the remaining mantras be worshipped when no special rule is given?",
+   "premises": [
+    "Other mantras follow prescription.",
+    "Prescription applies everywhere.",
+    "Elsewhere means other contexts."
+   ],
+   "inference": "The general rule governs all remaining mantras in every place.",
+   "uncertainties": [
+    "Exact scope of anuvidhāna is unclear."
+   ],
+   "plain_english": "The remaining mantras are worshipped everywhere according to prescription."
+  }
+ ]
+}

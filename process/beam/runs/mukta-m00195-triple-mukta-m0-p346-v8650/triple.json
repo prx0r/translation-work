@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p346",
+ "items": [
+  {
+   "verse": 8650,
+   "rows": [
+    {
+     "surface": "dvādaśe",
+     "gloss": "in-twelfth",
+     "grounds": "ordinal numeral qualifying vatsare; locative sense in fused temporal expression",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vatsare",
+     "gloss": "year",
+     "grounds": "time noun marking the stage reached in practice",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "prāpte",
+     "gloss": "reached",
+     "grounds": "past participle agreeing with vatsare; indicates attainment of the stated year",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhakṣitā",
+     "gloss": "consumed",
+     "grounds": "past passive participle agreeing with sā; refers to the feminine entity taken in",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine demonstrative pronoun referring to the entity whose consumption yields the result",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kavitva+kṛt",
+     "gloss": "poetry-making",
+     "grounds": "compound agent noun: kavitva (poetic capacity) + kṛt (maker/producer)",
+     "morph": "compound.nom.sg.f"
+    }
+   ],
+   "question": "What poetic power arises upon reaching the twelfth year of accomplished mantra practice?",
+   "premises": [
+    "The twelfth year of practice is reached.",
+    "A feminine entity is consumed in that context.",
+    "The consumed entity produces poetic capacity."
+   ],
+   "inference": "Upon reaching the twelfth year, consuming that feminine entity brings about the power of composing poetry.",
+   "uncertainties": [
+    "The specific referent of sā is not explicitly named in this verse and depends on prior context."
+   ],
+   "plain_english": "When the twelfth year is reached, that consumed feminine entity becomes the maker of poetry."
+  }
+ ]
+}

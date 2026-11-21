@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "liṅge",
+     "gloss": "in-linga",
+     "grounds": "locative of liṅga in the partless-liṅga worship context",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śiromānam",
+     "gloss": "head-measurement",
+     "grounds": "compound śiras + māna; subject of passive verb",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhyate",
+     "gloss": "is-obtained",
+     "grounds": "passive present of labh",
+     "morph": "3.sg.pass.pres (labh)"
+    }
+   ],
+   "question": "Why is head-measurement not obtained in the partless liṅga's worship portion when the head is absent?",
+   "premises": [
+    "partless liṅga lacks a head",
+    "worship portion excludes the head",
+    "head-measurement cannot be obtained there"
+   ],
+   "inference": "Without a head in the partless liṅga's worship portion, no head-measurement is obtained.",
+   "uncertainties": [
+    "exact grammatical role of śiromānam in the passive construction"
+   ],
+   "plain_english": "In the partless liṅga, in the worship portion, head-measurement is not obtained."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "talapoṭaka+puṣpāṇi",
+     "gloss": "talapotaka-flowers",
+     "grounds": "token given as fused compound form with plus marker",
+     "morph": "compound (talapoṭaka+puṣpa)"
+    },
+    {
+     "surface": "koṭapi",
+     "gloss": "kotapi",
+     "grounds": "flower or offering name as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb form",
+     "morph": "3.sg.act.opt-pūj"
+    },
+    {
+     "surface": "guha",
+     "gloss": "O-Guha",
+     "grounds": "addressed deity",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "Which flowers and offering are to be worshipped for Guha in this instruction?",
+   "premises": [
+    "talapotaka flowers are prescribed for worship",
+    "kotapi is included in the prescription",
+    "the address is to Guha"
+   ],
+   "inference": "The verse directs worship of talapotaka flowers and kotapi to Guha.",
+   "uncertainties": [
+    "identification of kotapi remains uncertain",
+    "the plus in the first token marks a compound rather than a separate token"
+   ],
+   "plain_english": "Worship talapotaka flowers and kotapi, O Guha."
+  }
+ ]
+}

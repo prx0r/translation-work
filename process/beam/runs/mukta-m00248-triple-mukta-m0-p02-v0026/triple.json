@@ -1,0 +1,1139 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "mayūra+vāhanaṃ",
+     "gloss": "peacock-vehicle",
+     "grounds": "compound form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śakti+tomara+dhāriṇam",
+     "gloss": "spear-iron-club-holding",
+     "grounds": "compound form",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which god is described as riding a peacock and holding spear and iron club?",
+   "premises": [
+    "the verse names a peacock vehicle",
+    "it names a god",
+    "it names spear and iron club holding"
+   ],
+   "inference": "the described deity is the peacock-riding god with spear and iron club",
+   "uncertainties": [
+    "exact deity name not stated in these tokens"
+   ],
+   "plain_english": "The peacock-vehicle god holds spear and iron club."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upavītaṃ",
+     "gloss": "sacred-thread",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa+saṃvatsara+ākṛtim",
+     "gloss": "ten-year-form",
+     "grounds": "compound form",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What additional attributes are given to the described form?",
+   "premises": [
+    "fearlessness is named",
+    "sacred thread is named",
+    "ten-year form is named"
+   ],
+   "inference": "the form includes fearlessness, sacred thread, and ten-year appearance",
+   "uncertainties": [
+    "subject of attributes not restated"
+   ],
+   "plain_english": "It has fearlessness, sacred thread, and a ten-year form."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-mantra",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa+mūrteḥ",
+     "gloss": "eight-form",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "future verb",
+     "morph": "1.sg.act-fut root vac"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp root śru"
+    },
+    {
+     "surface": "ṣaṇmukha",
+     "gloss": "six-faced",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What does the speaker promise to tell the six-faced one?",
+   "premises": [
+    "seed mantra is named",
+    "eight form is named in genitive",
+    "I shall tell is stated",
+    "listen is commanded",
+    "six-faced is addressed"
+   ],
+   "inference": "the speaker will tell the seed mantra of the eight form",
+   "uncertainties": [
+    "exact mantra not given here"
+   ],
+   "plain_english": "Listen, six-faced one: I shall tell the seed mantra of the eight form."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "śaṅkha+go+kṣīra+dhavalaṃ",
+     "gloss": "conch-cow-milk-white",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+netraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catur+bhujam",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What visual attributes are assigned to this form?",
+   "premises": [
+    "conch-cow-milk-white is stated",
+    "three-eyed is stated",
+    "four-armed is stated"
+   ],
+   "inference": "the form is white like conch cow milk, three-eyed, and four-armed",
+   "uncertainties": [
+    "which deity or direction not stated here"
+   ],
+   "plain_english": "It is conch-cow-milk white, three-eyed, and four-armed."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "pūrva+dik",
+     "gloss": "eastern-direction",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root sthā"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "child",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śveta+padma+upari+sthitam",
+     "gloss": "white-lotus-upon-standing",
+     "grounds": "compound participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should this form be placed?",
+   "premises": [
+    "eastern direction is named",
+    "one should place is stated",
+    "white lotus upon standing is named"
+   ],
+   "inference": "the form should be placed in the eastern direction upon a white lotus",
+   "uncertainties": [
+    "exact form not restated"
+   ],
+   "plain_english": "Child, place it in the eastern direction, standing upon a white lotus."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "catur+bhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+netraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārtāṇḍa+udaya+saprabham",
+     "gloss": "sun-rise-splendor",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What appearance is given to this four-armed three-eyed form?",
+   "premises": [
+    "four-armed is stated",
+    "three-eyed is stated",
+    "sun-rise splendor is stated"
+   ],
+   "inference": "the form is four-armed, three-eyed, and radiant like sunrise",
+   "uncertainties": [
+    "deity name not stated here"
+   ],
+   "plain_english": "It is four-armed, three-eyed, and radiant like the rising sun."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "īśānam",
+     "gloss": "Īśāna",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "īśaṃ",
+     "gloss": "lord",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dik+bhāge",
+     "gloss": "direction-part",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "caturthe",
+     "gloss": "in-fourth",
+     "grounds": "ordinal locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svaram",
+     "gloss": "vowel",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is identified with the fourth direction part?",
+   "premises": [
+    "Īśāna lord is named",
+    "direction part is named",
+    "fourth is stated",
+    "vowel is named",
+    "that is stated"
+   ],
+   "inference": "that vowel belongs to Īśāna in the fourth direction part",
+   "uncertainties": [
+    "exact vowel not specified"
+   ],
+   "plain_english": "That vowel is indeed Īśāna, lord, in the fourth direction part."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "catur+bhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+netraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraśu+dhāriṇam",
+     "gloss": "axe-holding",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What weapons does this four-armed three-eyed form hold?",
+   "premises": [
+    "four-armed is stated",
+    "three-eyed is stated",
+    "trident is named",
+    "axe-holding is stated"
+   ],
+   "inference": "the form holds trident and axe",
+   "uncertainties": [
+    "deity name not stated here"
+   ],
+   "plain_english": "It is four-armed, three-eyed, and holds trident and axe."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "catur+bhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+netraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmya+bhāge",
+     "gloss": "southern-direction",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vyavasthitam",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where is this four-armed three-eyed form situated?",
+   "premises": [
+    "four-armed is stated",
+    "three-eyed is stated",
+    "southern direction is named",
+    "situated is stated"
+   ],
+   "inference": "the form is situated in the southern direction",
+   "uncertainties": [
+    "deity name not stated here"
+   ],
+   "plain_english": "The four-armed three-eyed form is situated in the southern direction."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "rudraṃ",
+     "gloss": "Rudra",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nir-ṛti+dik+bhāge",
+     "gloss": "Nirṛti-direction-part",
+     "grounds": "compound locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dvi+netraṃ",
+     "gloss": "two-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catur+bhujam",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What form is assigned to Rudra in the Nirṛti direction?",
+   "premises": [
+    "Rudra is named",
+    "Nirṛti direction part is named",
+    "two-eyed is stated",
+    "four-armed is stated"
+   ],
+   "inference": "Rudra there is two-eyed and four-armed",
+   "uncertainties": [
+    "additional attributes not stated"
+   ],
+   "plain_english": "Rudra in the Nirṛti direction is two-eyed and four-armed."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "bindu+śekhara+mārūḍhaṃ",
+     "gloss": "bindu-crest-mounted",
+     "grounds": "compound participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jaṭā+makuṭa+dhāriṇam",
+     "gloss": "matted-hair-crown-wearing",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What adornment and mounting are described?",
+   "premises": [
+    "bindu crest mounted is stated",
+    "matted hair crown wearing is stated"
+   ],
+   "inference": "the form is mounted on bindu crest and wears matted hair crown",
+   "uncertainties": [
+    "subject not restated"
+   ],
+   "plain_english": "It is mounted on the bindu crest and wears a matted-hair crown."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "catur+bhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+netraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṭā+makuṭa+maṇḍitam",
+     "gloss": "matted-hair-crown-adorned",
+     "grounds": "compound participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What adornment accompanies the four-armed three-eyed form?",
+   "premises": [
+    "four-armed is stated",
+    "three-eyed is stated",
+    "matted hair crown adorned is stated"
+   ],
+   "inference": "the form is adorned with a matted-hair crown",
+   "uncertainties": [
+    "deity name not stated here"
+   ],
+   "plain_english": "It is four-armed, three-eyed, and adorned with a matted-hair crown."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaṣṭha+vargasya",
+     "gloss": "sixth-class",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "caturtha+svara+saṃyutam",
+     "gloss": "fourth-vowel-joined",
+     "grounds": "compound participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is joined with the fourth of the sixth class?",
+   "premises": [
+    "fourth is stated",
+    "sixth class is stated in genitive",
+    "fourth vowel joined is stated"
+   ],
+   "inference": "the fourth of the sixth class is joined with the fourth vowel",
+   "uncertainties": [
+    "exact class system not explained"
+   ],
+   "plain_english": "The fourth of the sixth class is joined with the fourth vowel."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "catur+bhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+netraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraśu+dhāriṇam",
+     "gloss": "axe-holding",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which weapons are held by this form?",
+   "premises": [
+    "four-armed is stated",
+    "three-eyed is stated",
+    "trident is named",
+    "axe-holding is stated"
+   ],
+   "inference": "the form holds trident and axe",
+   "uncertainties": [
+    "deity name not stated here"
+   ],
+   "plain_english": "It is four-armed, three-eyed, and holds trident and axe."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "catur+bhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+netraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmyāyāṃ",
+     "gloss": "in-southern-direction",
+     "grounds": "locative form",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-imagine",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root kḷp"
+    },
+    {
+     "surface": "guha",
+     "gloss": "Guha",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What should be imagined in the southern direction?",
+   "premises": [
+    "four-armed is stated",
+    "three-eyed is stated",
+    "southern direction is named",
+    "one should imagine is stated",
+    "Guha is addressed"
+   ],
+   "inference": "Guha should imagine the four-armed three-eyed form in the southern direction",
+   "uncertainties": [
+    "exact form identity beyond attributes"
+   ],
+   "plain_english": "Guha, one should imagine the four-armed three-eyed form in the southern direction."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "padma+āsana",
+     "gloss": "lotus-seat",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ahi+ete",
+     "gloss": "indeed-these",
+     "grounds": "fused form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarva+śakti",
+     "gloss": "all-power",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samanvitāḥ",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What seat and endowment are assigned to all these?",
+   "premises": [
+    "all is stated",
+    "lotus seat is named",
+    "indeed these is stated",
+    "all power is named",
+    "endowed with is stated"
+   ],
+   "inference": "all these are on lotus seats and endowed with all power",
+   "uncertainties": [
+    "subject group not fully named here"
+   ],
+   "plain_english": "All these are on lotus seats and endowed with all power."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "mahādevo",
+     "gloss": "Mahādeva",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haraḥ",
+     "gloss": "Hara",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudraḥ",
+     "gloss": "Rudra",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkaro",
+     "gloss": "Śaṅkara",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nīlalohitaḥ",
+     "gloss": "Nīlalohita",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which divine names are listed together?",
+   "premises": [
+    "Mahādeva is named",
+    "Hara is named",
+    "Rudra is named",
+    "Śaṅkara is named",
+    "Nīlalohita is named"
+   ],
+   "inference": "these five divine names form one listed group",
+   "uncertainties": [
+    "grammatical relation to following verse"
+   ],
+   "plain_english": "Mahādeva, Hara, Rudra, Śaṅkara, and Nīlalohita."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "kapālīśasya",
+     "gloss": "Kapālīśa",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vijeyā",
+     "gloss": "to-be-known",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rudrāḥ",
+     "gloss": "Rudras",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many Rudras are remembered for Kapālīśa?",
+   "premises": [
+    "Kapālīśa is named in genitive",
+    "Rudras is named",
+    "eleven is stated",
+    "remembered is stated"
+   ],
+   "inference": "eleven Rudras are remembered for Kapālīśa",
+   "uncertainties": [
+    "exact list of Rudras not given"
+   ],
+   "plain_english": "Eleven Rudras are remembered for Kapālīśa."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "sva+nāma+ādya+akṣaraṃ",
+     "gloss": "own-name-first-syllable",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bindu+nāda+samanvitam",
+     "gloss": "bindu-nāda-endowed-with",
+     "grounds": "compound participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the first syllable of each name endowed with?",
+   "premises": [
+    "own name first syllable is named",
+    "of these is stated",
+    "bindu nāda endowed with is stated"
+   ],
+   "inference": "the first syllable of each name is endowed with bindu and nāda",
+   "uncertainties": [
+    "exact phonetic form not given"
+   ],
+   "plain_english": "The first syllable of each name is indeed endowed with bindu and nāda."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "jaṭā+makuṭa+dhāraṃ",
+     "gloss": "matted-hair-crown-wearing",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+ābharaṇa+bhūṣitam",
+     "gloss": "all-ornament-adorned",
+     "grounds": "compound participle",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What adornment is added to the matted-hair crown?",
+   "premises": [
+    "matted hair crown wearing is stated",
+    "all ornament adorned is stated"
+   ],
+   "inference": "the form wears a matted-hair crown and all ornaments",
+   "uncertainties": [
+    "subject not restated"
+   ],
+   "plain_english": "It wears a matted-hair crown and is adorned with all ornaments."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "puṣṭiḥ",
+     "gloss": "Puṣṭi",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tuṣṭiḥ",
+     "gloss": "Tuṣṭi",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "*",
+     "gloss": "*",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "Lakṣmī",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "Sarasvatī",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess names appear in this list?",
+   "premises": [
+    "Puṣṭi is named",
+    "Tuṣṭi is named",
+    "Lakṣmī is named",
+    "Sarasvatī is named",
+    "two editorial markers appear"
+   ],
+   "inference": "the list includes Puṣṭi, Tuṣṭi, Lakṣmī, and Sarasvatī with two unreadable items",
+   "uncertainties": [
+    "two starred tokens are unresolved"
+   ],
+   "plain_english": "Puṣṭi, Tuṣṭi, and likewise two unreadable items, Lakṣmī, and Sarasvatī."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "ekāḥ",
+     "gloss": "one",
+     "grounds": "numeral adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśāḥ",
+     "gloss": "eleven",
+     "grounds": "numeral adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktyo",
+     "gloss": "powers",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rudrāḥ",
+     "gloss": "Rudras",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekā",
+     "gloss": "eleven",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśaḥ",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What numerical relation is stated among powers and Rudras?",
+   "premises": [
+    "one is stated",
+    "eleven is stated",
+    "powers is named",
+    "Rudras is named",
+    "eleven is repeated"
+   ],
+   "inference": "powers and Rudras are counted as one and eleven",
+   "uncertainties": [
+    "exact arithmetic relation is unclear"
+   ],
+   "plain_english": "One and eleven powers, and Rudras are indeed eleven and."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "loka+prakāśakaḥ",
+     "gloss": "world-illuminating",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "loka+sākṣī",
+     "gloss": "world-witness",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trivikramaḥ",
+     "gloss": "Trivikrama",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What epithets are given to Trivikrama?",
+   "premises": [
+    "world-illuminating is stated",
+    "world-witness is stated",
+    "Trivikrama is named"
+   ],
+   "inference": "Trivikrama is world-illuminating and world-witness",
+   "uncertainties": [
+    "additional attributes not stated"
+   ],
+   "plain_english": "Trivikrama is indeed world-illuminating and world-witness."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa+ādityāḥ",
+     "gloss": "twelve-Ādityas",
+     "grounds": "compound noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt root pūj"
+    },
+    {
+     "surface": "pīṭha+vāhyataḥ",
+     "gloss": "pedestal-outside",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should these twelve Ādityas be worshipped?",
+   "premises": [
+    "these is stated",
+    "twelve Ādityas is named",
+    "one should worship is stated",
+    "pedestal outside is stated"
+   ],
+   "inference": "these twelve Ādityas should be worshipped outside the pedestal",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "These twelve Ādityas should be worshipped outside the pedestal."
+  }
+ ]
+}

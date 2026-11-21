@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "praṇavaḥ",
+     "gloss": "sacred-syllable-om",
+     "grounds": "mantra name for the syllable om",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "as-key",
+     "grounds": "ritual fixing element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "direct address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks sequence in the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual body parts or mantra limbs",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "should-place",
+     "grounds": "instruction to arrange ritually",
+     "morph": "3.sg.act-opt pra-vi-ni-√as"
+    }
+   ],
+   "question": "Which mantra element functions as the key before the limbs are ritually placed?",
+   "premises": [
+    "The praṇava is designated as the kīlaka.",
+    "The limbs are to be placed after this designation.",
+    "The instruction is addressed directly to the goddess."
+   ],
+   "inference": "After assigning the praṇava as the key, the practitioner should ritually place the limbs.",
+   "uncertainties": [
+    "The specific set of aṅgāni intended is not named in this verse."
+   ],
+   "plain_english": "O goddess, then one should set the praṇava as the key and place the limbs."
+  }
+ ]
+}

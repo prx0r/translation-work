@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "viṃśati+padaṃ",
+     "gloss": "twenty-part",
+     "grounds": "compound denoting a division consisting of twenty parts; analyzed as fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūrya+viśālaṃ",
+     "gloss": "sun-vast",
+     "grounds": "compound name of the division; analyzed as fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "by-name",
+     "grounds": "indeclinable indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "division",
+     "grounds": "the designated division or part",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what name is the division consisting of twenty parts designated?",
+   "premises": [
+    "A division consists of twenty parts.",
+    "This division bears the name sūryaviśāla.",
+    "The designation is specified by name."
+   ],
+   "inference": "The twenty-part division is designated sūryaviśāla.",
+   "uncertainties": [],
+   "plain_english": "The twenty-part division is called Sūryaviśāla by name."
+  }
+ ]
+}

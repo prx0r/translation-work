@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "antaryāgavidhiṃ",
+     "gloss": "inner-rite-procedure",
+     "grounds": "compound antar-yāga-vidhi; accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahiryāgaṃ",
+     "gloss": "outer-rite",
+     "grounds": "compound bahis-yāga; accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verb sam-ā-car, optative 3sg",
+     "morph": "3.sg.par-opt"
+    }
+   ],
+   "question": "Should one perform the outer rite after having performed the inner rite?",
+   "premises": [
+    "inner rite is performed first",
+    "outer rite follows it",
+    "performance is prescribed"
+   ],
+   "inference": "The verse prescribes performing the outer rite after the inner rite.",
+   "uncertainties": [
+    "exact ritual sequence beyond the verse is not specified"
+   ],
+   "plain_english": "Having performed the inner rite, one should perform the outer rite."
+  }
+ ]
+}

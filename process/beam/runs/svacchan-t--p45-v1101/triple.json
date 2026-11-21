@@ -1,0 +1,445 @@
+{
+ "song": "sva-p45",
+ "items": [
+  {
+   "verse": 1101,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun in instrumental sense",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "by-order",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what order is the meaning intended here?",
+   "premises": [
+    "yena indicates by-which",
+    "krameṇa indicates by-order",
+    "arthaḥ indicates meaning"
+   ],
+   "inference": "The verse states the meaning is by a certain order.",
+   "uncertainties": [],
+   "plain_english": "The meaning is by that order."
+  },
+  {
+   "verse": 1102,
+   "rows": [
+    {
+     "surface": "śrī",
+     "gloss": "glorious",
+     "grounds": "honorific prefix",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataṅgapārameśvare",
+     "gloss": "matanga-parama-ishvara",
+     "grounds": "locative singular masculine compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vitatya",
+     "gloss": "having-spread",
+     "grounds": "absolutive form",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vyākhyātāḥ",
+     "gloss": "explained",
+     "grounds": "nominative plural masculine passive participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where were these matters explained after spreading?",
+   "premises": [
+    "śrī is glorious",
+    "mataṅgapārameśvare is locative",
+    "vitatya is having-spread",
+    "vyākhyātāḥ is explained"
+   ],
+   "inference": "The matters were explained in the glorious Mataṅgapārameśvara after spreading.",
+   "uncertainties": [],
+   "plain_english": "They were explained in the glorious Mataṅgapārameśvara after being spread."
+  },
+  {
+   "verse": 1103,
+   "rows": [
+    {
+     "surface": "puṃstattve",
+     "gloss": "in-purusha-principle",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śodhanīyam",
+     "gloss": "to-be-purified",
+     "grounds": "neuter accusative singular gerundive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "nominative singular neuter passive participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is said to be purified in the purusha principle?",
+   "premises": [
+    "puṃstattve is in-purusha-principle",
+    "śodhanīyam is to-be-purified",
+    "uktam is said"
+   ],
+   "inference": "Purification in the purusha principle is what is said.",
+   "uncertainties": [],
+   "plain_english": "It is said that purification is in the purusha principle."
+  },
+  {
+   "verse": 1104,
+   "rows": [
+    {
+     "surface": "bhogyalakṣaṇaṃ",
+     "gloss": "having-enjoyment-mark",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pudgalo",
+     "gloss": "individual",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māyāpramātā",
+     "gloss": "maya-knower",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is the individual whose mark is enjoyment?",
+   "premises": [
+    "bhogyalakṣaṇaṃ is having-enjoyment-mark",
+    "yasya is whose",
+    "sa is he",
+    "pudgalo is individual",
+    "māyāpramātā is maya-knower"
+   ],
+   "inference": "The individual whose mark is enjoyment is the maya-knower.",
+   "uncertainties": [],
+   "plain_english": "He is the individual whose mark is enjoyment, the maya-knower."
+  },
+  {
+   "verse": 1105,
+   "rows": [
+    {
+     "surface": "daśadikkam",
+     "gloss": "ten-directions",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avasthitā",
+     "gloss": "situated",
+     "grounds": "nominative singular feminine participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of being situated in ten directions?",
+   "premises": [
+    "daśadikkam is ten-directions",
+    "avasthitā is situated",
+    "arthaḥ is meaning"
+   ],
+   "inference": "The meaning is being situated in ten directions.",
+   "uncertainties": [],
+   "plain_english": "The meaning is situated in ten directions."
+  },
+  {
+   "verse": 1106,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvoktasvarūpaṃ",
+     "gloss": "previously-described-form",
+     "grounds": "nominative singular neuter compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smartavyam",
+     "gloss": "to-be-remembered",
+     "grounds": "neuter nominative singular gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "buddhipramātṛtvāyogāt",
+     "gloss": "not-fitting-cognition-knower",
+     "grounds": "ablative singular masculine compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why must the previously described form be remembered?",
+   "premises": [
+    "pūrvoktasvarūpaṃ is previously-described-form",
+    "smartavyam is to-be-remembered",
+    "anyathā is otherwise",
+    "buddhipramātṛtvāyogāt is not-fitting-cognition-knower"
+   ],
+   "inference": "The previously described form must be remembered, otherwise cognition-knower does not fit.",
+   "uncertainties": [],
+   "plain_english": "The previously described form must be remembered; otherwise cognition-knower does not fit."
+  },
+  {
+   "verse": 1107,
+   "rows": [
+    {
+     "surface": "akṣararāṭ",
+     "gloss": "imperishable-king",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śambhurāḍ",
+     "gloss": "shambhu-king",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "nominative dual masculine",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which two kings are named here?",
+   "premises": [
+    "akṣararāṭ is imperishable-king",
+    "śambhurāḍ is shambhu-king",
+    "dvau is two"
+   ],
+   "inference": "The two named kings are the imperishable king and Shambhu king.",
+   "uncertainties": [],
+   "plain_english": "The two are the imperishable king and Shambhu king."
+  },
+  {
+   "verse": 1108,
+   "rows": [
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the remainder concerning those?",
+   "premises": [
+    "tān is those",
+    "śeṣaḥ is remainder"
+   ],
+   "inference": "The remainder concerns those.",
+   "uncertainties": [],
+   "plain_english": "The remainder is those."
+  },
+  {
+   "verse": 1109,
+   "rows": [
+    {
+     "surface": "kṛtam",
+     "gloss": "done",
+     "grounds": "nominative singular neuter passive participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "nominative plural masculine numeral",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gurava",
+     "gloss": "gurus",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradarśanāya",
+     "gloss": "for-display",
+     "grounds": "dative singular neuter",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "Why are five gurus shown here?",
+   "premises": [
+    "kṛtam is done",
+    "atra is here",
+    "pañca is five",
+    "gurava is gurus",
+    "pradarśanāya is for-display"
+   ],
+   "inference": "Five gurus are shown here for display.",
+   "uncertainties": [],
+   "plain_english": "Here five gurus are shown for display."
+  },
+  {
+   "verse": 1110,
+   "rows": [
+    {
+     "surface": "bhuvanam",
+     "gloss": "world",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvanāni",
+     "gloss": "worlds",
+     "grounds": "nominative plural neuter",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of world and worlds?",
+   "premises": [
+    "bhuvanam is world",
+    "bhuvanāni is worlds",
+    "arthaḥ is meaning"
+   ],
+   "inference": "The meaning is world and worlds.",
+   "uncertainties": [],
+   "plain_english": "The meaning is world and worlds."
+  },
+  {
+   "verse": 1111,
+   "rows": [
+    {
+     "surface": "proktabhuvanavibhāgena",
+     "gloss": "described-world-division",
+     "grounds": "instrumental singular masculine compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śodhanīyam",
+     "gloss": "to-be-purified",
+     "grounds": "nominative singular neuter gerundive",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is to be purified by the described world division?",
+   "premises": [
+    "proktabhuvanavibhāgena is described-world-division",
+    "śodhanīyam is to-be-purified"
+   ],
+   "inference": "Purification is by the described world division.",
+   "uncertainties": [],
+   "plain_english": "It is to be purified by the described world division."
+  },
+  {
+   "verse": 1112,
+   "rows": [
+    {
+     "surface": "duṣpariharāḥ",
+     "gloss": "hard-to-remove",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What quality is attributed to these items?",
+   "premises": [
+    "duṣpariharāḥ is hard-to-remove"
+   ],
+   "inference": "These items are hard to remove.",
+   "uncertainties": [],
+   "plain_english": "They are hard to remove."
+  }
+ ]
+}

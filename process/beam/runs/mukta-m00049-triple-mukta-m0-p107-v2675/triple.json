@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2675,
+   "rows": [
+    {
+     "surface": "śameḥ",
+     "gloss": "from-root-śam",
+     "grounds": "base root śam cited as the input for affixation",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ḍha",
+     "gloss": "ḍha",
+     "grounds": "technical suffix designation, kept as grammatical marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or derivational marker introducing the resulting form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍhaḥ",
+     "gloss": "ḍhaḥ",
+     "grounds": "resulting derived form produced by adding the suffix to the root",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what derivational rule does the root śam yield the form ḍhaḥ?",
+   "premises": [
+    "The root śam serves as the derivational base.",
+    "The suffix ḍha is applied to that base.",
+    "The marker iti indicates the resulting derived form."
+   ],
+   "inference": "Applying the suffix ḍha to the root śam produces the form ḍhaḥ.",
+   "uncertainties": [
+    "The precise grammatical framework or sūtra context for this derivation is not explicit in the verse alone."
+   ],
+   "plain_english": "From the root śam, with the suffix ḍha, the resulting form is ḍhaḥ."
+  }
+ ]
+}

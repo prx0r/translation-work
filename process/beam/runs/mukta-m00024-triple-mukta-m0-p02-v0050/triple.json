@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "experience of enjoyment; first member of compound with tattvaṃ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "nature",
+     "grounds": "principle or essential nature; compounded with bhukti",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal or conditional particle introducing the circumstance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cetaṃ",
+     "gloss": "consciousness",
+     "grounds": "mind or consciousness; archaic/non-standard form of cetas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring back to the same consciousness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cettam",
+     "gloss": "consciousness",
+     "grounds": "mind or consciousness; archaic/non-standard form of cetas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "release or liberation; first member of compound with lakṣaṇam",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "mark",
+     "grounds": "characteristic or defining mark; compounded with mukti",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Under what condition does consciousness bear the mark of liberation?",
+   "premises": [
+    "Consciousness can take enjoyment as its nature.",
+    "The same consciousness is referred to again in the consequent.",
+    "Liberation can be described as a defining mark of consciousness."
+   ],
+   "inference": "When consciousness has enjoyment as its nature, that same consciousness is marked by liberation.",
+   "uncertainties": [
+    "The forms cetaṃ and cettam are archaic or non-standard spellings of cetas.",
+    "The gender agreement of sa with neuter consciousness forms is irregular and may reflect archaic usage."
+   ],
+   "plain_english": "When consciousness is of the nature of enjoyment, that same consciousness bears the mark of liberation."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable particle introducing the next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṅgāṭamadhyastha",
+     "gloss": "placed-in-triangle-middle",
+     "grounds": "compound adjective describing placement in the middle of the triangle",
+     "morph": "compound (śṛṅgāṭa+madhya+stha)"
+    },
+    {
+     "surface": "śaktidvayapuṭīkṛtam",
+     "gloss": "made-into-sheath-of-two-shaktis",
+     "grounds": "past participle with compound śakti-dvaya-puṭī",
+     "morph": "past participle (kṛta)"
+    }
+   ],
+   "question": "What is the spatial relation of the two-shakti sheath to the triangle's middle?",
+   "premises": [
+    "atha introduces the next topic",
+    "śṛṅgāṭamadhyastha places it in the triangle's middle",
+    "śaktidvayapuṭīkṛtam makes it a sheath of two shaktis"
+   ],
+   "inference": "The two-shakti sheath is situated in the middle of the triangle.",
+   "uncertainties": [
+    "The exact referent of śaktidvaya is not specified by this verse alone."
+   ],
+   "plain_english": "Then, placed in the middle of the triangle, it is made into a sheath of two shaktis."
+  }
+ ]
+}

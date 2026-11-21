@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "māyayā",
+     "gloss": "with-māyā",
+     "grounds": "instrumental singular of māyā",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "puṭitaṃ",
+     "gloss": "enclosed",
+     "grounds": "past participle of puṭ, accusative neuter singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "accusative plural neuter of aṅga",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṣaṭ+kramāt",
+     "gloss": "in-sixfold-order",
+     "grounds": "ablative singular of krama in compound with ṣaṣ",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should the six limbs be performed after being enclosed by māyā?",
+   "premises": [
+    "māyā encloses the limbs",
+    "sixfold order governs performance",
+    "absolutive precedes optative action"
+   ],
+   "inference": "The limbs are to be performed in sixfold order after being enclosed by māyā.",
+   "uncertainties": [
+    "puṭitaṃ agreement with aṅgāni is unclear"
+   ],
+   "plain_english": "Having enclosed them with māyā, one should perform the limbs in sixfold order."
+  }
+ ]
+}

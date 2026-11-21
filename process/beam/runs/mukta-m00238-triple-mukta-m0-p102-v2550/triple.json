@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "kanakavarṇā",
+     "gloss": "golden-colored",
+     "grounds": "compound kanaka+varṇā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇupatnīlakṣmīvat",
+     "gloss": "like-lakshmi-wife-of-vishnu",
+     "grounds": "compound viṣṇu+patnī+lakṣmī plus vat",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ni0",
+     "gloss": "ni0",
+     "grounds": "abbreviation as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What color and divine likeness characterize the goddess described here?",
+   "premises": [
+    "The goddess is golden-colored.",
+    "She is compared to Lakshmi, wife of Vishnu.",
+    "The line ends with the marker ni0."
+   ],
+   "inference": "The verse identifies the goddess by golden color and Lakshmi-likeness.",
+   "uncertainties": [
+    "The abbreviation ni0 is not expanded in this context."
+   ],
+   "plain_english": "Golden-colored, like Lakshmi, wife of Vishnu, ni0."
+  }
+ ]
+}

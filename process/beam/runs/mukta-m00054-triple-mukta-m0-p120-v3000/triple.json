@@ -1,0 +1,81 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "taraṅga",
+     "gloss": "wave",
+     "grounds": "first member of compound taraṅgavide",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vide",
+     "gloss": "knower",
+     "grounds": "second member of compound taraṅgavide; recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "first member of compound tridaśāya, forming 'thirty'",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daśāya",
+     "gloss": "ten",
+     "grounds": "second member of compound tridaśāya; refers to the thirty gods",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "first member of compound trikāladhṛṣe",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "second member of compound trikāladhṛṣe, referring to the three times",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhṛṣe",
+     "gloss": "bearer",
+     "grounds": "final member of compound trikāladhṛṣe; recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which three aspects of the deity are honored through these repeated salutations?",
+   "premises": [
+    "Obeisance is offered to the knower of waves.",
+    "Obeisance is offered to the one associated with the thirty gods.",
+    "Obeisance is offered to the bearer of the three times."
+   ],
+   "inference": "The deity is saluted as possessing knowledge of waves, connection to the thirty gods, and mastery over the three times.",
+   "uncertainties": [
+    "The precise sense of 'taraṅga' (wave) in this context is not specified."
+   ],
+   "plain_english": "Obeisance to the knower of waves, obeisance to the one of the thirty gods, obeisance to the bearer of the three times."
+  }
+ ]
+}

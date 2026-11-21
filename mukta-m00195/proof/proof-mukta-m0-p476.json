@@ -1,0 +1,89 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p476",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v11891 ratio=0.884",
+  "ALIGN_NODISP v11896 ratio=0.891",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "4e759d23dff7a37d",
+ "source_digest_normalized_sha256": "4e759d23dff7a37d18d115a446f4098c62de7f3bd0da79ac9b8acbda0be45939",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 114
+ },
+ "align": {
+  "min_ratio": 0.884,
+  "sub090": {
+   "11891": {
+    "ratio": 0.884,
+    "disposition": null
+   },
+   "11896": {
+    "ratio": 0.891,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "One should recite the armor mantra as the supreme, auspicious, all-encompassing formula."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 53,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 114,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v11891",
+  "fix: word-order/gloss vs source for v11896"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "cd58b38be6d2c41334bf97f82dda4263eed5e899d791e1cc5d0e85f3dcdbb4d8",
+  "l0": "0edb81450aa77ca91b6f209a5e74abd7f925085117831d6afd89ecb5c1e8487e",
+  "argmap": "e0d1654042ec862c63cac98379244a059dc9069e4a46288c36eb40e6fdf1d8ca",
+  "l2": "d80dfb87c9fed6b4765dc543b8028313e6a45a0fa051fb26d557eed6be3a0bc6",
+  "c1": "41296d77e5b861636d69f395a65d5b01c02c373bb86abca5b11c94bb6e072499"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "4e759d23dff7a37d",
+  "t1": "mukta-m0-p476/data/mukta-m0-p476.t1.json",
+  "l0": "mukta-m0-p476/data/mukta-m0-p476.l0.json",
+  "l2": "mukta-m0-p476/data/mukta-m0-p476.l2.json",
+  "c1": "mukta-m0-p476/data/mukta-m0-p476.c1.json"
+ }
+}

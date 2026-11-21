@@ -1,0 +1,948 @@
+{
+ "song": "mukta-m0-p220",
+ "items": [
+  {
+   "verse": 5476,
+   "rows": [
+    {
+     "surface": "puṣṭiṃ",
+     "gloss": "nourishment",
+     "grounds": "object bestowed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samṛddhiṃ",
+     "gloss": "prosperity",
+     "grounds": "object bestowed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects objects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakāya",
+     "gloss": "to-practitioner",
+     "grounds": "recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prayacchati",
+     "gloss": "bestows",
+     "grounds": "action performed",
+     "morph": "3.sg.pres.act √pradā"
+    }
+   ],
+   "question": "What benefits are bestowed upon the practitioner by this means?",
+   "premises": [
+    "Nourishment is granted",
+    "Prosperity is granted",
+    "The practitioner is the recipient"
+   ],
+   "inference": "The practitioner receives nourishment and prosperity.",
+   "uncertainties": [],
+   "plain_english": "It bestows nourishment and prosperity upon the practitioner."
+  },
+  {
+   "verse": 5477,
+   "rows": [
+    {
+     "surface": "śuddha+vāk",
+     "gloss": "pure-speech",
+     "grounds": "quality of speech",
+     "morph": "compound: śuddha+vāk (bahuvrīhi), m.nom.sg"
+    },
+    {
+     "surface": "śuddho",
+     "gloss": "pure",
+     "grounds": "quality of person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "by-mind",
+     "grounds": "instrument or locus of purity",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends purity to mind",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What qualities of speech and mind characterize the qualified practitioner?",
+   "premises": [
+    "The practitioner is pure in speech",
+    "The practitioner is pure in mind",
+    "Purity applies in both domains"
+   ],
+   "inference": "The qualified practitioner must be pure in both speech and mind.",
+   "uncertainties": [],
+   "plain_english": "He should be pure in speech and likewise pure in mind."
+  },
+  {
+   "verse": 5478,
+   "rows": [
+    {
+     "surface": "dambha+ahaṅkāra+moha+ādi+vikalo",
+     "gloss": "devoid-of-deceit-ego-delusion-etc",
+     "grounds": "negative qualities absent",
+     "morph": "compound: dambha+ahaṅkāra+moha+ādi+vikala (bahuvrīhi), m.nom.sg"
+    },
+    {
+     "surface": "jñāna+vit+tamaḥ",
+     "gloss": "best-among-knowers-of-knowledge",
+     "grounds": "positive qualification",
+     "morph": "compound: jñāna+vid+tama (tatpuruṣa/superlative), m.nom.sg"
+    }
+   ],
+   "question": "What moral and cognitive qualifications define the ideal practitioner?",
+   "premises": [
+    "Deceit, ego, and delusion are absent",
+    "Knowledge is possessed in the highest degree",
+    "Both absence of faults and presence of knowledge qualify him"
+   ],
+   "inference": "The ideal practitioner is free from deceit, ego, and delusion, and is foremost in knowledge.",
+   "uncertainties": [],
+   "plain_english": "He is devoid of deceit, ego, delusion, and the like, and is the best among those who possess knowledge."
+  },
+  {
+   "verse": 5479,
+   "rows": [
+    {
+     "surface": "maṃtra+rājam",
+     "gloss": "mantra-king",
+     "grounds": "object obtained",
+     "morph": "compound: mantra+rāja (tatpuruṣa), m.acc.sg"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "specifies the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "labdhvā",
+     "gloss": "having-obtained",
+     "grounds": "prior action",
+     "morph": "(gerund) √labh"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūpatiḥ",
+     "gloss": "lord-of-earth",
+     "grounds": "resulting status",
+     "morph": "compound: bhū+pati (tatpuruṣa), m.nom.sg"
+    }
+   ],
+   "question": "What status does one attain after obtaining this king of mantras?",
+   "premises": [
+    "This mantra-king is obtained",
+    "Obtaining it leads to a transformation",
+    "The resulting status is lordship over the earth"
+   ],
+   "inference": "One who obtains this mantra-king becomes a king.",
+   "uncertainties": [],
+   "plain_english": "Having obtained this king of mantras, he becomes a lord of the earth."
+  },
+  {
+   "verse": 5480,
+   "rows": [
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "statement of teaching",
+     "morph": "m.nom.sg (past participle) √prac"
+    },
+    {
+     "surface": "chando",
+     "gloss": "metre",
+     "grounds": "technical attribute of mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anuṣṭup",
+     "gloss": "anuṣṭup",
+     "grounds": "name of metre",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "emphatic declaration",
+     "morph": "n.nom.sg (past participle) √kīrt"
+    }
+   ],
+   "question": "What metrical form is declared for this mantra?",
+   "premises": [
+    "The metre is explicitly stated",
+    "The stated metre is anuṣṭup",
+    "This declaration is proclaimed as authoritative"
+   ],
+   "inference": "The mantra's metre is anuṣṭup.",
+   "uncertainties": [],
+   "plain_english": "Its metre is declared and proclaimed to be anuṣṭup."
+  },
+  {
+   "verse": 5481,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhīṣṭeṣu",
+     "gloss": "in-desired-aims",
+     "grounds": "domain of application",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "tathāvidhaḥ",
+     "gloss": "of-such-kind",
+     "grounds": "refers to qualified practitioner or mantra",
+     "morph": "compound: tathā+vidha (bahuvrīhi), m.nom.sg"
+    }
+   ],
+   "question": "In what contexts is such a qualified agent or means effective?",
+   "premises": [
+    "There are desired aims",
+    "The agent or means is of such a kind",
+    "Effectiveness relates to those desired aims"
+   ],
+   "inference": "One of such a kind is effective in achieving desired aims.",
+   "uncertainties": [
+    "Whether tathāvidhaḥ refers to the practitioner or the mantra is context-dependent."
+   ],
+   "plain_english": "Indeed, one of such a kind is effective in attaining desired aims."
+  },
+  {
+   "verse": 5482,
+   "rows": [
+    {
+     "surface": "saṃśodhya",
+     "gloss": "having-purified",
+     "grounds": "preparatory ritual action",
+     "morph": "(gerund) √śudh with sam"
+    },
+    {
+     "surface": "pañca+gavyena",
+     "gloss": "with-five-cow-products",
+     "grounds": "purifying substance",
+     "morph": "compound: pañca+gavya (dvigu/tatpuruṣa), n.inst.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or further step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purificatory substance must be used before further ritual application?",
+   "premises": [
+    "Purification is required",
+    "The purification uses the five cow-products",
+    "This purification is performed again or as a further step"
+   ],
+   "inference": "Ritual preparation requires purification with the five products of the cow.",
+   "uncertainties": [
+    "The object being purified is not explicitly stated in this verse."
+   ],
+   "plain_english": "Having purified it again with the five products of the cow."
+  },
+  {
+   "verse": 5483,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence after purification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhaṃ",
+     "gloss": "accomplished",
+     "grounds": "state of the mantra",
+     "morph": "m.acc.sg (past participle) √sidh"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be employed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāryeṣu",
+     "gloss": "in-activities",
+     "grounds": "contexts of application",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-employ",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act √yuj"
+    }
+   ],
+   "question": "When and how should the accomplished mantra be applied in ritual activities?",
+   "premises": [
+    "The mantra becomes accomplished after prior steps",
+    "There are various activities requiring application",
+    "Employment of the mantra is enjoined"
+   ],
+   "inference": "After it is accomplished, the mantra should be employed in ritual activities.",
+   "uncertainties": [],
+   "plain_english": "Then one should employ the accomplished mantra in various activities."
+  },
+  {
+   "verse": 5484,
+   "rows": [
+    {
+     "surface": "maṃtra+rājaḥ",
+     "gloss": "mantra-king",
+     "grounds": "subject designation",
+     "morph": "compound: mantra+rāja (tatpuruṣa), m.nom.sg"
+    }
+   ],
+   "question": "What designation identifies the supreme mantra under discussion?",
+   "premises": [
+    "A specific mantra is being named",
+    "It is designated as king among mantras"
+   ],
+   "inference": "The mantra in question is the king of mantras.",
+   "uncertainties": [
+    "This verse is fragmentary and likely continues in adjacent verses."
+   ],
+   "plain_english": "The king of mantras."
+  },
+  {
+   "verse": 5485,
+   "rows": [
+    {
+     "surface": "brāhmaṇe",
+     "gloss": "in-a-brāhmaṇa",
+     "grounds": "target or context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "agent or subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viparīta+phalo",
+     "gloss": "opposite-result",
+     "grounds": "undesired outcome",
+     "morph": "compound: viparīta+phala (bahuvrīhi), m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What adverse consequence arises if the mantra is applied to a brāhmaṇa?",
+   "premises": [
+    "The mantra is applied in relation to a brāhmaṇa",
+    "The result can be contrary to intention",
+    "Such reversal is a possible outcome"
+   ],
+   "inference": "Applied to a brāhmaṇa, the mantra may produce the opposite result.",
+   "uncertainties": [
+    "The specific ritual context or intent is not stated."
+   ],
+   "plain_english": "In the case of a brāhmaṇa, the mantra may yield the opposite result."
+  },
+  {
+   "verse": 5486,
+   "rows": [
+    {
+     "surface": "prakurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.mid √kṛ with pra"
+    },
+    {
+     "surface": "tat+vidhānaṃ",
+     "gloss": "its-procedure",
+     "grounds": "ritual method",
+     "morph": "compound: tad+vidhāna (tatpuruṣa), n.acc.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement",
+     "morph": "3.sg.pres.pass √gad with ni"
+    }
+   ],
+   "question": "How is the prescribed procedure for this rite to be undertaken?",
+   "premises": [
+    "A procedure exists for this rite",
+    "The procedure is being declared",
+    "Performance of that procedure is enjoined"
+   ],
+   "inference": "One should perform the procedure as it is declared.",
+   "uncertainties": [
+    "The referent of tat (its) depends on preceding context."
+   ],
+   "plain_english": "One should perform its procedure as it is declared."
+  },
+  {
+   "verse": 5487,
+   "rows": [
+    {
+     "surface": "śakvarī",
+     "gloss": "śakvarī",
+     "grounds": "name of metre",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "statement of teaching",
+     "morph": "f.nom.sg (past participle) √prac"
+    },
+    {
+     "surface": "śānti+arthaṃ",
+     "gloss": "for-peace",
+     "grounds": "purpose of application",
+     "morph": "compound: śānti+artha (tatpuruṣa), n.acc.sg (used adverbially)"
+    },
+    {
+     "surface": "viniyojanam",
+     "gloss": "application",
+     "grounds": "ritual employment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What metre and purpose are prescribed for this ritual application?",
+   "premises": [
+    "The metre is declared as śakvarī",
+    "The application is specified",
+    "The purpose of application is peace"
+   ],
+   "inference": "The śakvarī metre is declared for application aimed at peace.",
+   "uncertainties": [],
+   "plain_english": "The metre is declared to be śakvarī, and its application is for the sake of peace."
+  },
+  {
+   "verse": 5488,
+   "rows": [
+    {
+     "surface": "daivī",
+     "gloss": "divine",
+     "grounds": "quality of well-being",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svastiḥ",
+     "gloss": "well-being",
+     "grounds": "blessing sought",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative.act √as"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "to-us",
+     "grounds": "recipients of blessing",
+     "morph": "pron.dat.pl"
+    }
+   ],
+   "question": "What divine blessing is invoked for the practitioners?",
+   "premises": [
+    "Well-being is sought",
+    "The well-being is divine in nature",
+    "The blessing is directed to us"
+   ],
+   "inference": "A prayer is made for divine well-being to be granted to us.",
+   "uncertainties": [],
+   "plain_english": "May divine well-being be ours."
+  },
+  {
+   "verse": 5489,
+   "rows": [
+    {
+     "surface": "dvipade",
+     "gloss": "to-two-footed",
+     "grounds": "recipient of welfare",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "welfare",
+     "grounds": "blessing sought",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catuṣpade",
+     "gloss": "to-four-footed",
+     "grounds": "recipient of welfare",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "For which beings is welfare invoked in this benediction?",
+   "premises": [
+    "Welfare is invoked",
+    "Two-footed beings are included",
+    "Four-footed beings are included"
+   ],
+   "inference": "The benediction seeks welfare for both humans and animals.",
+   "uncertainties": [],
+   "plain_english": "Welfare to the two-footed and to the four-footed."
+  },
+  {
+   "verse": 5490,
+   "rows": [
+    {
+     "surface": "vātaye",
+     "gloss": "to-wind",
+     "grounds": "recipient or addressee",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "object offered or directed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "To which elemental power is the mind directed in this invocation?",
+   "premises": [
+    "The mind is mentioned",
+    "The wind is addressed",
+    "A directional or dedicatory relation is implied"
+   ],
+   "inference": "The mind is directed toward the wind.",
+   "uncertainties": [
+    "The exact ritual sense of directing the mind to the wind is not fully explicit."
+   ],
+   "plain_english": "May the mind be directed to the wind."
+  },
+  {
+   "verse": 5491,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "mantra to be recited",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aṣṭa+uttara+śataṃ",
+     "gloss": "hundred-and-eight-times",
+     "grounds": "number of repetitions",
+     "morph": "compound: aṣṭa+uttara+śata (dvigu), n.acc.sg (adverbial)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √jap"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "main action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act √car with sam+ā"
+    }
+   ],
+   "question": "What preparatory recitation must precede the performance of the rite?",
+   "premises": [
+    "The gāyatrī is to be chanted",
+    "It must be chanted one hundred and eight times",
+    "The rite is performed after this chanting"
+   ],
+   "inference": "One should chant the gāyatrī 108 times before performing the rite.",
+   "uncertainties": [],
+   "plain_english": "Having chanted the gāyatrī one hundred and eight times, one should perform the rite."
+  },
+  {
+   "verse": 5492,
+   "rows": [
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "domain of designation",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "essential component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "energetic component",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīm",
+     "gloss": "hrīm",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed syllable and power are identified for the mantras here?",
+   "premises": [
+    "Mantras have a seed component",
+    "The seed is identified as oṃ",
+    "The power here is identified as hrīm"
+   ],
+   "inference": "In this context, oṃ is the seed of the mantras and hrīm is their power.",
+   "uncertainties": [],
+   "plain_english": "The seed of the mantras is oṃ, and the power here is hrīm."
+  },
+  {
+   "verse": 5493,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding divine principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "niyogaḥ",
+     "gloss": "application",
+     "grounds": "ritual assignment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhīṣṭa+siddhaye",
+     "gloss": "for-desired-accomplishment",
+     "grounds": "purpose",
+     "morph": "compound: abhīṣṭa+siddhi (tatpuruṣa), f.dat.sg"
+    }
+   ],
+   "question": "What deity and ritual application are assigned for accomplishing desired aims?",
+   "premises": [
+    "This mantra has a deity",
+    "This mantra has a prescribed application",
+    "The application is for accomplishing desired aims"
+   ],
+   "inference": "The mantra's deity and application are specified for the accomplishment of desired aims.",
+   "uncertainties": [
+    "The specific deity is not named in this verse."
+   ],
+   "plain_english": "And its deity and application are for the accomplishment of desired aims."
+  },
+  {
+   "verse": 5494,
+   "rows": [
+    {
+     "surface": "pratyak+kartāram",
+     "gloss": "back-upon-doer",
+     "grounds": "target of return",
+     "morph": "compound: pratyak+kartṛ (tatpuruṣa/avyayībhāva-like), m.acc.sg"
+    },
+    {
+     "surface": "ṛcchatu",
+     "gloss": "may-reach",
+     "grounds": "benedictive or imprecatory wish",
+     "morph": "3.sg.imperative.act √ṛ"
+    }
+   ],
+   "question": "Upon whom should the effect of the action return?",
+   "premises": [
+    "An action has a doer",
+    "The effect is directed back",
+    "The doer is the intended target"
+   ],
+   "inference": "The effect should return upon the doer.",
+   "uncertainties": [
+    "Whether this is protective or punitive depends on context."
+   ],
+   "plain_english": "May it return upon the doer."
+  },
+  {
+   "verse": 5495,
+   "rows": [
+    {
+     "surface": "hrīṃ+bīja+antaiḥ",
+     "gloss": "ending-with-hrīṃ-seed",
+     "grounds": "mantric form used",
+     "morph": "compound: hrīṃ+bīja+anta (bahuvrīhi), m.inst.pl"
+    },
+    {
+     "surface": "ṣaḍ+aṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual components",
+     "morph": "compound: ṣaṣ+aṅga (dvigu), n.acc.pl"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "possessor of limbs",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act √car with sam+ā"
+    }
+   ],
+   "question": "How should the six limbs of the mantra be ritually performed?",
+   "premises": [
+    "The mantra has six limbs",
+    "The limbs are performed with forms ending in the hrīṃ seed",
+    "Performance is enjoined"
+   ],
+   "inference": "One should perform the mantra's six limbs using forms ending with the hrīṃ seed.",
+   "uncertainties": [],
+   "plain_english": "One should perform the six limbs of the mantra with forms ending in the hrīṃ seed."
+  },
+  {
+   "verse": 5496,
+   "rows": [
+    {
+     "surface": "nābhau",
+     "gloss": "on-navel",
+     "grounds": "placement location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ūrvoḥ",
+     "gloss": "on-thighs",
+     "grounds": "placement location",
+     "morph": "f.loc.du"
+    },
+    {
+     "surface": "jānunoḥ",
+     "gloss": "on-knees",
+     "grounds": "placement location",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padāni",
+     "gloss": "feet",
+     "grounds": "placement location or items placed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "padayoḥ",
+     "gloss": "on-feet",
+     "grounds": "placement location",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "On which parts of the body should the ritual placements be made?",
+   "premises": [
+    "Ritual placement is enjoined",
+    "Specific body locations are named",
+    "The sequence includes navel, thighs, knees, and feet"
+   ],
+   "inference": "One should place the elements on the navel, thighs, knees, and feet.",
+   "uncertainties": [
+    "The exact referent of padāni in this placement sequence is slightly ambiguous."
+   ],
+   "plain_english": "One should place them on the navel, on the thighs, on the knees, and on the feet."
+  },
+  {
+   "verse": 5497,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act √dhyai"
+    },
+    {
+     "surface": "siṃha+mukhīṃ",
+     "gloss": "lion-faced",
+     "grounds": "visualized form",
+     "morph": "compound: siṃha+mukha (bahuvrīhi), f.acc.sg"
+    },
+    {
+     "surface": "mukta+keśāṃ",
+     "gloss": "loosened-hair",
+     "grounds": "visualized attribute",
+     "morph": "compound: mukta+keśa (bahuvrīhi), f.acc.sg"
+    },
+    {
+     "surface": "dig+ambarām",
+     "gloss": "sky-clad",
+     "grounds": "visualized attribute",
+     "morph": "compound: diś+ambara (bahuvrīhi), f.acc.sg"
+    }
+   ],
+   "question": "What form should be visualized in the prescribed meditation?",
+   "premises": [
+    "Meditation is enjoined",
+    "The form is lion-faced",
+    "The form has loosened hair and is sky-clad"
+   ],
+   "inference": "One should meditate on a lion-faced, loose-haired, sky-clad form.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on her as lion-faced, with loosened hair, and clad in the directions."
+  },
+  {
+   "verse": 5498,
+   "rows": [
+    {
+     "surface": "grasantīm",
+     "gloss": "devouring",
+     "grounds": "action of visualized form",
+     "morph": "f.acc.sg (present participle) √gras"
+    },
+    {
+     "surface": "ahitān",
+     "gloss": "enemies",
+     "grounds": "objects devoured",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nudra+tejasā",
+     "gloss": "with-fierce-splendour",
+     "grounds": "manner or attribute; possible textual issue",
+     "morph": "compound: nudra+tejas (bahuvrīhi/tatpuruṣa), n.inst.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "subject of declaration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg (past participle) √īr"
+    }
+   ],
+   "question": "What fierce activity characterizes the deity in this declared meditation?",
+   "premises": [
+    "The visualized form devours enemies",
+    "This occurs with fierce splendour",
+    "This visualization is declared as the meditation"
+   ],
+   "inference": "The declared meditation depicts the deity devouring enemies with fierce splendour.",
+   "uncertainties": [
+    "The form nudra+tejasā is unusual and may reflect a textual variant (e.g. rudra/ugra)."
+   ],
+   "plain_english": "The meditation is declared as her devouring enemies with fierce splendour."
+  },
+  {
+   "verse": 5499,
+   "rows": [
+    {
+     "surface": "apāmārga+samidbhiḥ",
+     "gloss": "with-apāmārga-fuel-sticks",
+     "grounds": "ritual material",
+     "morph": "compound: apāmārga+samidh (tatpuruṣa), f.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homo",
+     "gloss": "oblation",
+     "grounds": "ritual act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "havya+ghṛta+ādibhiḥ",
+     "gloss": "with-offering-ghee-etc",
+     "grounds": "additional ritual materials",
+     "morph": "compound: havya+ghṛta+ādi (bahuvrīhi), n.inst.pl"
+    }
+   ],
+   "question": "What materials are prescribed for performing the fire oblation?",
+   "premises": [
+    "A fire oblation is prescribed",
+    "Apāmārga fuel-sticks are used",
+    "Offerings such as ghee and others are used"
+   ],
+   "inference": "The oblation should be performed with apāmārga fuel-sticks and offerings including ghee.",
+   "uncertainties": [],
+   "plain_english": "The oblation is indeed performed with apāmārga fuel-sticks and with offerings such as ghee and the like."
+  }
+ ]
+}

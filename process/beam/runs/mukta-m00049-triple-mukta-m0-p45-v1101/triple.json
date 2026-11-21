@@ -1,0 +1,1285 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1101,
+   "rows": [
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "first member of offering list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "second member of offering list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-others",
+     "grounds": "indicates additional offerings",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "number of Bhairavas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavān",
+     "gloss": "bhairavas",
+     "grounds": "deities to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "agent of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uttamo",
+     "gloss": "best",
+     "grounds": "qualifies practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √yaj"
+    }
+   ],
+   "question": "With what offerings should the best practitioner worship the eight Bhairavas?",
+   "premises": [
+    "Fragrance, flowers, and other items are prescribed offerings.",
+    "Eight Bhairavas are the recipients of worship.",
+    "The best practitioner is the agent of this worship."
+   ],
+   "inference": "The best practitioner should worship the eight Bhairavas with fragrance, flowers, and similar offerings.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should worship the eight Bhairavas with fragrance, flowers, and other such offerings."
+  },
+  {
+   "verse": 1102,
+   "rows": [
+    {
+     "surface": "pūjyān",
+     "gloss": "to-be-worshipped",
+     "grounds": "qualifies the eight Bhairavas",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "number of Bhairavas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavān",
+     "gloss": "bhairavas",
+     "grounds": "deities named",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "āha",
+     "gloss": "declares",
+     "grounds": "introduces scriptural statement",
+     "morph": "3.sg.act-perfect √ah"
+    },
+    {
+     "surface": "asitāṅga",
+     "gloss": "asitāṅga",
+     "grounds": "name of first Bhairava",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quotation or enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādyā",
+     "gloss": "beginning-with",
+     "grounds": "indicates start of list",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "refers to a single verse",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "How are the eight worshippable Bhairavas identified in the teaching?",
+   "premises": [
+    "Eight Bhairavas are designated as worshippable.",
+    "The text declares their names beginning with Asitāṅga.",
+    "This identification is given in one verse."
+   ],
+   "inference": "The eight worshippable Bhairavas are identified in one verse beginning with Asitāṅga.",
+   "uncertainties": [
+    "The full list of names is not contained in this verse alone."
+   ],
+   "plain_english": "The text declares the eight worshippable Bhairavas, beginning with Asitāṅga, in a single verse."
+  },
+  {
+   "verse": 1103,
+   "rows": [
+    {
+     "surface": "indra",
+     "gloss": "indra",
+     "grounds": "first member of guardian list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-others",
+     "grounds": "indicates additional guardians",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "number of directions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dik",
+     "gloss": "direction",
+     "grounds": "qualifies guardians",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pālāṃs",
+     "gloss": "guardians",
+     "grounds": "recipients of satisfaction",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative-causative √tṛp"
+    }
+   ],
+   "question": "Which directional guardians must be satisfied in the ritual sequence?",
+   "premises": [
+    "Guardians beginning with Indra are specified.",
+    "They are the guardians of the ten directions.",
+    "The ritual requires their satisfaction."
+   ],
+   "inference": "One should satisfy the ten directional guardians beginning with Indra.",
+   "uncertainties": [],
+   "plain_english": "One should satisfy the ten guardians of the directions, beginning with Indra."
+  },
+  {
+   "verse": 1104,
+   "rows": [
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "mental state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefix indicating accompaniment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avadhānaḥ",
+     "gloss": "attentiveness",
+     "grounds": "focused awareness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior condition for offering",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual gift",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √dā"
+    }
+   ],
+   "question": "In what mental state should the offering be given to the goddess?",
+   "premises": [
+    "The practitioner must become composed and attentive.",
+    "The offering is directed to the goddess.",
+    "Giving the offering is a prescribed act."
+   ],
+   "inference": "Having become composed and attentive, one should give the offering to the goddess.",
+   "uncertainties": [],
+   "plain_english": "Having become composed and attentive, one should give the offering to the goddess."
+  },
+  {
+   "verse": 1105,
+   "rows": [
+    {
+     "surface": "praśastāḥ",
+     "gloss": "excellent",
+     "grounds": "evaluates offerings or victims",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "are-remembered",
+     "grounds": "traditional designation",
+     "morph": "m.nom.pl (past-participle) √smṛ"
+    }
+   ],
+   "question": "How are the prescribed offerings regarded in the tradition?",
+   "premises": [
+    "Certain items are described as excellent.",
+    "This evaluation is remembered in tradition.",
+    "The verse affirms their approved status."
+   ],
+   "inference": "The prescribed items are traditionally remembered as excellent.",
+   "uncertainties": [
+    "The specific referent of 'excellent' depends on the preceding context."
+   ],
+   "plain_english": "They are remembered as excellent."
+  },
+  {
+   "verse": 1106,
+   "rows": [
+    {
+     "surface": "kintu",
+     "gloss": "but",
+     "grounds": "introduces qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "agent whose desire matters",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "icchā",
+     "gloss": "desire",
+     "grounds": "guiding intention",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anusārataḥ",
+     "gloss": "according-to",
+     "grounds": "indicates conformity to desire",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyān",
+     "gloss": "other",
+     "grounds": "alternative victims",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśūn",
+     "gloss": "animals",
+     "grounds": "sacrificial victims",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √dā"
+    }
+   ],
+   "question": "May the practitioner offer animals other than those previously specified?",
+   "premises": [
+    "The practitioner’s desire is a guiding factor.",
+    "Other animals are possible offerings.",
+    "The goddess remains the recipient."
+   ],
+   "inference": "According to the practitioner’s desire, other animals may also be offered to the goddess.",
+   "uncertainties": [],
+   "plain_english": "But according to the practitioner's desire, one may also offer other animals to the goddess."
+  },
+  {
+   "verse": 1107,
+   "rows": [
+    {
+     "surface": "arghya",
+     "gloss": "arghya",
+     "grounds": "ritual water offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "udakena",
+     "gloss": "with-water",
+     "grounds": "instrument of sprinkling",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "samprokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "purificatory action",
+     "morph": "(gerund) sam-pra-√ukṣ"
+    },
+    {
+     "surface": "dhenu",
+     "gloss": "cow",
+     "grounds": "name of hand gesture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mudrā",
+     "gloss": "gesture",
+     "grounds": "ritual seal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "amṛtīkṛtam",
+     "gloss": "made-immortal",
+     "grounds": "result of consecration",
+     "morph": "n.acc.sg (past-participle)"
+    }
+   ],
+   "question": "How is the sacrificial victim consecrated before further rites?",
+   "premises": [
+    "The victim is sprinkled with arghya water.",
+    "The dhenu gesture is applied.",
+    "The action renders the victim immortalized."
+   ],
+   "inference": "Sprinkling with arghya water and using the dhenu gesture consecrates the victim as immortalized.",
+   "uncertainties": [
+    "The object made immortal is implied from context."
+   ],
+   "plain_english": "Having sprinkled it with arghya water and made it immortal with the dhenu gesture."
+  },
+  {
+   "verse": 1108,
+   "rows": [
+    {
+     "surface": "gāyatrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "mantra to be recited",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "location of recitation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "ear",
+     "grounds": "place where mantra is spoken",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive mantra action",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "pāśa",
+     "gloss": "bond",
+     "grounds": "what is released",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vimocanīm",
+     "gloss": "releasing",
+     "grounds": "qualifies the gāyatrī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which mantra should be recited into the victim’s right ear?",
+   "premises": [
+    "Recitation is directed to the right ear.",
+    "The mantra is a gāyatrī.",
+    "Its function is to release bonds."
+   ],
+   "inference": "One should recite the bond-releasing gāyatrī into the right ear.",
+   "uncertainties": [],
+   "plain_english": "One should recite the bond-releasing gāyatrī in the right ear."
+  },
+  {
+   "verse": 1109,
+   "rows": [
+    {
+     "surface": "viśvakarmaṇi",
+     "gloss": "viśvakarmaṇi",
+     "grounds": "mantra word element",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padāt",
+     "gloss": "after-word",
+     "grounds": "sequence in mantra",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dhīmahī",
+     "gloss": "dhīmahi",
+     "grounds": "mantra syllables",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantra unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive utterance",
+     "morph": "3.sg.act-optative √vad"
+    }
+   ],
+   "question": "What mantra word must be uttered after the term viśvakarmaṇi?",
+   "premises": [
+    "The sequence follows the word viśvakarmaṇi.",
+    "The next unit is the word dhīmahi.",
+    "This utterance is prescribed."
+   ],
+   "inference": "After viśvakarmaṇi, one should utter the word dhīmahi.",
+   "uncertainties": [],
+   "plain_english": "After the word viśvakarmaṇi, one should say the word dhīmahi."
+  },
+  {
+   "verse": 1110,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "identifies the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśu",
+     "gloss": "animal",
+     "grounds": "qualifies gāyatrī",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "name of mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paśu",
+     "gloss": "animal",
+     "grounds": "qualifies bond",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāśa",
+     "gloss": "bond",
+     "grounds": "what is released",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vimocanī",
+     "gloss": "releasing",
+     "grounds": "function of mantra",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the identity and function of the mantra described here?",
+   "premises": [
+    "The mantra is identified as this gāyatrī.",
+    "It is specifically the animal gāyatrī.",
+    "Its function is to release the animal’s bond."
+   ],
+   "inference": "This is the animal gāyatrī, which releases the animal’s bond.",
+   "uncertainties": [],
+   "plain_english": "This indeed is the animal gāyatrī, which releases the animal's bond."
+  },
+  {
+   "verse": 1111,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "its",
+     "grounds": "refers to the sword or object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "first part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "second part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūleṣu",
+     "gloss": "at-roots",
+     "grounds": "locations for worship",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "prescribes sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "imān",
+     "gloss": "these",
+     "grounds": "deities or entities to worship",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "In what sequence should worship be performed at the tip, middle, and root?",
+   "premises": [
+    "Worship is directed to the tip, middle, and root.",
+    "The action must follow an order.",
+    "Specific entities are to be worshipped there."
+   ],
+   "inference": "One should worship these entities in order at the tip, middle, and root.",
+   "uncertainties": [
+    "The referent of 'these' is supplied by adjacent context."
+   ],
+   "plain_english": "One should worship these in order at its tip, middle, and root."
+  },
+  {
+   "verse": 1112,
+   "rows": [
+    {
+     "surface": "mṛga",
+     "gloss": "deer",
+     "grounds": "example animal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādīnām",
+     "gloss": "and-others",
+     "grounds": "extends to similar animals",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upalakṣaṇaṃ",
+     "gloss": "indication",
+     "grounds": "serves as representative example",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pātho",
+     "gloss": "pāthaḥ",
+     "grounds": "mantra or term element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "mantra or term element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "|| 107",
+     "gloss": "verse-107",
+     "grounds": "verse marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "How broadly does the instruction about deer apply to other animals?",
+   "premises": [
+    "Deer and others are mentioned.",
+    "Their mention functions as an indication.",
+    "The terms pāthaḥ and jalam are given."
+   ],
+   "inference": "The mention of deer and others serves as an indication extending the rule, with pāthaḥ as jalam.",
+   "uncertainties": [
+    "The syntactic relation of pātho jalam to the first clause is unclear."
+   ],
+   "plain_english": "This is also an indication for deer and others; pāthaḥ means water. (107)"
+  },
+  {
+   "verse": 1113,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes formation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "mantra produced",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātā",
+     "gloss": "is-produced",
+     "grounds": "completion of mantra",
+     "morph": "f.nom.sg (past-participle) √jan"
+    },
+    {
+     "surface": "|| 109",
+     "gloss": "verse-109",
+     "grounds": "verse marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What is the result of the preceding mantra construction instructions?",
+   "premises": [
+    "The preceding instructions specify mantra components.",
+    "The verse concludes with 'thus'.",
+    "A gāyatrī is said to be produced."
+   ],
+   "inference": "Thus the gāyatrī is produced from the preceding instructions.",
+   "uncertainties": [],
+   "plain_english": "Thus the gāyatrī is formed. (109)"
+  },
+  {
+   "verse": 1114,
+   "rows": [
+    {
+     "surface": "khaḍga",
+     "gloss": "sword",
+     "grounds": "object of ritual attention",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "first part of sword",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "second part of sword",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūleṣu",
+     "gloss": "at-roots",
+     "grounds": "locations on sword",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Which parts of the sword are designated for ritual action?",
+   "premises": [
+    "The sword is the ritual object.",
+    "Tip, middle, and root are specified.",
+    "These locations are marked for action."
+   ],
+   "inference": "The tip, middle, and root of the sword are the designated ritual locations.",
+   "uncertainties": [
+    "The specific action is supplied by surrounding verses."
+   ],
+   "plain_english": "At the tip, middle, and root of the sword."
+  },
+  {
+   "verse": 1115,
+   "rows": [
+    {
+     "surface": "umā",
+     "gloss": "umā",
+     "grounds": "first deity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maheśvarau",
+     "gloss": "maheśvara",
+     "grounds": "divine pair",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "agent of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uttamaḥ",
+     "gloss": "best",
+     "grounds": "qualifies practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities should the best practitioner worship at the sword’s root?",
+   "premises": [
+    "The location specified is the root.",
+    "Umā and Maheśvara are the deities named.",
+    "The best practitioner performs the worship."
+   ],
+   "inference": "The best practitioner should worship Umā and Maheśvara at the root.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should worship Umā and Maheśvara at the root."
+  },
+  {
+   "verse": 1116,
+   "rows": [
+    {
+     "surface": "khaḍgāya",
+     "gloss": "to-sword",
+     "grounds": "recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antam",
+     "gloss": "ending-with",
+     "grounds": "describes mantra form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anunā",
+     "gloss": "by-formula",
+     "grounds": "instrumental mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "khaḍga",
+     "gloss": "sword",
+     "grounds": "object of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What mantra formula is used for the worship of the sword?",
+   "premises": [
+    "The sword is the object of worship.",
+    "A formula ending with 'khaḍgāya namaḥ' is specified.",
+    "This formula performs the worship."
+   ],
+   "inference": "The sword is worshipped with the formula ending in 'khaḍgāya namaḥ'.",
+   "uncertainties": [],
+   "plain_english": "The worship of the sword is performed with the formula ending in 'obeisance to the sword'."
+  },
+  {
+   "verse": 1117,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indicates conformity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktena",
+     "gloss": "stated",
+     "grounds": "refers to prior instruction",
+     "morph": "n.ins.sg (past-participle) √vac"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-procedure",
+     "grounds": "ritual method",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tubhyam",
+     "gloss": "to-you",
+     "grounds": "recipient of offering",
+     "morph": "(pronoun) dat.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "let-be",
+     "grounds": "optative dedication",
+     "morph": "3.sg.act-imperative √as"
+    },
+    {
+     "surface": "samarpitam",
+     "gloss": "offered",
+     "grounds": "act of dedication",
+     "morph": "n.nom.sg (past-participle) sam-√ṛ"
+    }
+   ],
+   "question": "How should the offering be formally dedicated according to the stated procedure?",
+   "premises": [
+    "A procedure has been previously stated.",
+    "The offering is directed to a recipient.",
+    "The dedication is expressed as a formal wish."
+   ],
+   "inference": "According to the stated procedure, let it be offered to you.",
+   "uncertainties": [
+    "The recipient 'you' is context-dependent."
+   ],
+   "plain_english": "According to the procedure stated, let this be offered to you."
+  },
+  {
+   "verse": 1118,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "object of devotional absorption",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhāva",
+     "gloss": "state",
+     "grounds": "mental absorption",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "intent-on",
+     "grounds": "fully absorbed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior condition",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "one-should-strike",
+     "grounds": "prescriptive sacrificial action",
+     "morph": "3.sg.act-optative √han"
+    },
+    {
+     "surface": "tīvra",
+     "gloss": "fierce",
+     "grounds": "quality of blow",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prahārataḥ",
+     "gloss": "with-blow",
+     "grounds": "manner of striking",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what inner state and manner should the sacrificial strike be delivered?",
+   "premises": [
+    "The practitioner must become absorbed in the goddess.",
+    "The strike is a prescribed action.",
+    "The blow must be fierce."
+   ],
+   "inference": "Having become absorbed in the goddess, one should strike with a fierce blow.",
+   "uncertainties": [],
+   "plain_english": "Having become absorbed in the state of the goddess, one should strike with a fierce blow."
+  },
+  {
+   "verse": 1119,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefix indicating accompaniment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "piṇḍena",
+     "gloss": "body",
+     "grounds": "together with the body",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chedyaḥ",
+     "gloss": "to-be-cut",
+     "grounds": "prescribed action on victim",
+     "morph": "m.nom.sg (gerundive) √chid"
+    },
+    {
+     "surface": "nāri",
+     "gloss": "enemy",
+     "grounds": "prohibited party",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pakṣaṃ",
+     "gloss": "side",
+     "grounds": "faction or party",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-not-employ",
+     "grounds": "prohibitive instruction",
+     "morph": "3.sg.act-optative ni-√yuj"
+    }
+   ],
+   "question": "What restriction applies regarding the enemy’s side during the cutting of the victim?",
+   "premises": [
+    "The victim may be cut with the body or otherwise.",
+    "The enemy’s side is mentioned.",
+    "Employing the enemy’s side is prohibited."
+   ],
+   "inference": "The victim should be cut, but one should not employ the enemy’s side.",
+   "uncertainties": [
+    "The exact ritual meaning of employing the enemy’s side is unclear."
+   ],
+   "plain_english": "It should be cut with the body, or alternatively; one should not employ the enemy's side."
+  },
+  {
+   "verse": 1120,
+   "rows": [
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "agent of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uttamaḥ",
+     "gloss": "best",
+     "grounds": "qualifies practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √pūj"
+    }
+   ],
+   "question": "Who is enjoined to perform the act of worship in this context?",
+   "premises": [
+    "Worship is prescribed.",
+    "The agent is specified as a practitioner.",
+    "The practitioner is qualified as best."
+   ],
+   "inference": "The best practitioner should perform the worship.",
+   "uncertainties": [
+    "The object of worship is supplied by context."
+   ],
+   "plain_english": "The best practitioner should worship."
+  },
+  {
+   "verse": 1121,
+   "rows": [
+    {
+     "surface": "khaḍgāya",
+     "gloss": "to-sword",
+     "grounds": "recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antam",
+     "gloss": "ending-with",
+     "grounds": "describes mantra form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anunā",
+     "gloss": "by-formula",
+     "grounds": "instrumental mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "khaḍga",
+     "gloss": "sword",
+     "grounds": "object of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √kṛ"
+    }
+   ],
+   "question": "How should the practitioner carry out the worship of the sword?",
+   "premises": [
+    "The sword is the object of worship.",
+    "A formula ending with 'khaḍgāya namaḥ' is specified.",
+    "The act of worship must be performed."
+   ],
+   "inference": "One should perform the worship of the sword with the formula ending in 'khaḍgāya namaḥ'.",
+   "uncertainties": [],
+   "plain_english": "One should perform the worship of the sword with the formula ending in 'obeisance to the sword'."
+  },
+  {
+   "verse": 1122,
+   "rows": [
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive utterance",
+     "morph": "3.sg.act-optative √vad"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locates the utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "speaks",
+     "grounds": "introduces scriptural statement",
+     "morph": "3.sg.act-perfect √ah"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "begins quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates continuation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the practitioner instructed to recite at that point in the rite?",
+   "premises": [
+    "An utterance is prescribed at that point.",
+    "The text introduces a formula beginning with 'yathā'.",
+    "The formula continues beyond what is quoted."
+   ],
+   "inference": "There one should say the formula beginning with 'yathā' and so on.",
+   "uncertainties": [
+    "The full formula is not given in this verse."
+   ],
+   "plain_english": "There one should say it; the text states 'as...' and so on."
+  },
+  {
+   "verse": 1123,
+   "rows": [
+    {
+     "surface": "paśu",
+     "gloss": "animal",
+     "grounds": "victim in rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hanane",
+     "gloss": "in-killing",
+     "grounds": "context of action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ari",
+     "gloss": "enemy",
+     "grounds": "prohibited party",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pakṣaṃ",
+     "gloss": "side",
+     "grounds": "faction or party",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-employ",
+     "grounds": "prohibited action",
+     "morph": "3.sg.act-optative ni-√yuj"
+    },
+    {
+     "surface": "pravartayet",
+     "gloss": "one-should-cause-to-proceed",
+     "grounds": "prohibited instigation",
+     "morph": "3.sg.act-optative-causative pra-√vṛt"
+    },
+    {
+     "surface": "|| 115",
+     "gloss": "verse-115",
+     "grounds": "verse marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What involvement of the enemy’s side is forbidden during the killing of the animal?",
+   "premises": [
+    "The context is the killing of the animal.",
+    "The enemy’s side is mentioned.",
+    "Employing or instigating that side is prohibited."
+   ],
+   "inference": "In killing the animal, one should not employ or instigate the enemy’s side.",
+   "uncertainties": [],
+   "plain_english": "In the killing of the animal, one should not employ or set in motion the enemy's side. (115)"
+  },
+  {
+   "verse": 1124,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefix indicating accompaniment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradīpa",
+     "gloss": "lamp",
+     "grounds": "accompanying item",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śīrṣa",
+     "gloss": "head",
+     "grounds": "part of offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "ritual gift",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyai",
+     "gloss": "to-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative-causative ni-√vid"
+    }
+   ],
+   "question": "How should the head offering accompanied by a lamp be presented to the goddess?",
+   "premises": [
+    "The offering includes the head and a lamp.",
+    "The goddess is the recipient.",
+    "The offering is made with obeisance."
+   ],
+   "inference": "One should offer the head offering with a lamp to the goddess with obeisance.",
+   "uncertainties": [],
+   "plain_english": "One should offer the head offering together with a lamp to the goddess with obeisance."
+  }
+ ]
+}

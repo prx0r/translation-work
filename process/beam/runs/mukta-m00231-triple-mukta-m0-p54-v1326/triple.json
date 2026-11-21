@@ -1,0 +1,1091 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1326,
+   "rows": [
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japa",
+     "gloss": "japa",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhānāni",
+     "gloss": "rites",
+     "grounds": "noun plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yatkiñcit",
+     "gloss": "whatever",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukṛtāni",
+     "gloss": "good-deeds",
+     "grounds": "noun plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which worship, japa, and rites count as good deeds?",
+   "premises": [
+    "worship and japa are named",
+    "rites are named",
+    "whatever good deeds are included"
+   ],
+   "inference": "The verse lists worship, japa, rites, and whatever good deeds as relevant acts.",
+   "uncertainties": [
+    "exact ritual scope is not specified"
+   ],
+   "plain_english": "Worship, japa, rites, and whatever good deeds are included."
+  },
+  {
+   "verse": 1327,
+   "rows": [
+    {
+     "surface": "avaśyam",
+     "gloss": "necessarily",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "annapānena",
+     "gloss": "by-food-and-drink",
+     "grounds": "instrumental compound",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toṣayecchivām",
+     "gloss": "should-please",
+     "grounds": "fused verb with accusative object",
+     "morph": "verb 3.sg.opt.act (root toṣ)"
+    }
+   ],
+   "question": "How must Śivā be pleased through food and drink?",
+   "premises": [
+    "food and drink are the means",
+    "pleasing is required",
+    "the act is necessary"
+   ],
+   "inference": "Śivā must necessarily be pleased by food and drink.",
+   "uncertainties": [
+    "exact offering form is not specified"
+   ],
+   "plain_english": "One must necessarily please Śivā by food and drink."
+  },
+  {
+   "verse": 1328,
+   "rows": [
+    {
+     "surface": "tadaiva",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśaktīnāṃ",
+     "gloss": "of-all-powers",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "delight",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramadurlabhā",
+     "gloss": "extremely-rare",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When does delight of all powers become extremely rare?",
+   "premises": [
+    "delight belongs to all powers",
+    "the delight is extremely rare",
+    "it follows the prior act"
+   ],
+   "inference": "The delight of all powers is extremely rare at that time.",
+   "uncertainties": [
+    "the exact condition is implied"
+   ],
+   "plain_english": "Then the delight of all powers is extremely rare."
+  },
+  {
+   "verse": 1329,
+   "rows": [
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "f.nom.sg ppp"
+    },
+    {
+     "surface": "viguṇaṃ",
+     "gloss": "defective",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saguṇaṃ",
+     "gloss": "good-quality",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sādhayed",
+     "gloss": "accomplishes",
+     "grounds": "verb",
+     "morph": "verb 3.sg.opt.act (root sādh)"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does worshipped action accomplish defective and good-quality karma?",
+   "premises": [
+    "worshipped action is the agent",
+    "defective karma is mentioned",
+    "good-quality karma is mentioned"
+   ],
+   "inference": "Because worshipped action accomplishes both defective and good-quality karma.",
+   "uncertainties": [
+    "mechanism of accomplishment is not explained"
+   ],
+   "plain_english": "Because worshipped action accomplishes defective and good-quality karma."
+  },
+  {
+   "verse": 1330,
+   "rows": [
+    {
+     "surface": "rājādibhayamāpanne",
+     "gloss": "king-etc-fear-arisen",
+     "grounds": "compound participle",
+     "morph": "loc/abs sg"
+    },
+    {
+     "surface": "grahādibhayameva",
+     "gloss": "planet-etc-fear-indeed",
+     "grounds": "compound with eva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fears arise alongside king and planet fears?",
+   "premises": [
+    "king and similar fears arise",
+    "planet and similar fears arise",
+    "the two are joined"
+   ],
+   "inference": "King-related and planet-related fears arise together.",
+   "uncertainties": [
+    "exact list of fears is not given"
+   ],
+   "plain_english": "When king and similar fears arise, planet and similar fears also arise."
+  },
+  {
+   "verse": 1331,
+   "rows": [
+    {
+     "surface": "bilvamūle",
+     "gloss": "at-bilva-root",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "prāntare",
+     "gloss": "in-forest",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where may the practitioner perform the rite?",
+   "premises": [
+    "bilva root is a place",
+    "forest is a place",
+    "cremation ground is a place"
+   ],
+   "inference": "The practitioner may act at bilva root, forest, or cremation ground.",
+   "uncertainties": [
+    "which place is preferred is not stated"
+   ],
+   "plain_english": "The practitioner may be at bilva root, in forest, or even in cremation ground."
+  },
+  {
+   "verse": 1332,
+   "rows": [
+    {
+     "surface": "gṛhṇa",
+     "gloss": "accept",
+     "grounds": "imperative verb",
+     "morph": "verb 2.sg.imp.act (root gṛh)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahābhāge",
+     "gloss": "greatly-fortunate",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "śivā",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālāgnirūpiṇi",
+     "gloss": "time-fire-formed",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who is invoked to accept the offering?",
+   "premises": [
+    "the goddess is addressed",
+    "she is greatly fortunate",
+    "she is time-fire-formed"
+   ],
+   "inference": "The goddess Śivā, time-fire-formed, is invoked to accept.",
+   "uncertainties": [
+    "exact offering is named later"
+   ],
+   "plain_english": "Accept, O goddess, greatly fortunate Śivā, formed of time-fire."
+  },
+  {
+   "verse": 1333,
+   "rows": [
+    {
+     "surface": "evamuccārya",
+     "gloss": "thus-uttering",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "dātavyo",
+     "gloss": "to-be-given",
+     "grounds": "future passive participle",
+     "morph": "m.nom.sg pfp"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulajanapriyaḥ",
+     "gloss": "dear-to-family-people",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What offering is to be given after uttering thus?",
+   "premises": [
+    "uttering comes first",
+    "offering is to be given",
+    "it is dear to family people"
+   ],
+   "inference": "The offering dear to family people is to be given after uttering thus.",
+   "uncertainties": [
+    "exact recipients are implied"
+   ],
+   "plain_english": "After uttering thus, the offering dear to family people is to be given."
+  },
+  {
+   "verse": 1334,
+   "rows": [
+    {
+     "surface": "paśurūpā",
+     "gloss": "animal-formed",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samāyāti",
+     "gloss": "arrives",
+     "grounds": "verb",
+     "morph": "verb 3.sg.pres.act (root yā)"
+    },
+    {
+     "surface": "parivāragaṇaiḥ",
+     "gloss": "with-attendant-groups",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who arrives with attendant groups?",
+   "premises": [
+    "animal-formed one is subject",
+    "arrival is stated",
+    "attendant groups accompany"
+   ],
+   "inference": "The animal-formed one arrives with attendant groups.",
+   "uncertainties": [
+    "identity of the animal-formed one is not explicit"
+   ],
+   "plain_english": "The animal-formed one arrives with attendant groups."
+  },
+  {
+   "verse": 1335,
+   "rows": [
+    {
+     "surface": "tadaiva",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṅgalaṃ",
+     "gloss": "auspiciousness",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakasya",
+     "gloss": "of-practitioner",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is auspiciousness for the practitioner not otherwise?",
+   "premises": [
+    "auspiciousness is named",
+    "it belongs to him",
+    "it belongs to practitioner"
+   ],
+   "inference": "Then auspiciousness for him and the practitioner is not otherwise.",
+   "uncertainties": [
+    "exact condition is implied"
+   ],
+   "plain_english": "Then auspiciousness for him and the practitioner is not otherwise."
+  },
+  {
+   "verse": 1336,
+   "rows": [
+    {
+     "surface": "nitye",
+     "gloss": "in-daily",
+     "grounds": "locative adjective",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "in-occasional",
+     "grounds": "locative adjective",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kāmye",
+     "gloss": "in-desired",
+     "grounds": "locative adjective",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "verb",
+     "morph": "verb 3.sg.opt.act (root dā)"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the offering be given with effort?",
+   "premises": [
+    "daily occasion is named",
+    "occasional occasion is named",
+    "desired occasion is named"
+   ],
+   "inference": "The offering should be given with effort in daily, occasional, and desired rites.",
+   "uncertainties": [
+    "exact effort level is not quantified"
+   ],
+   "plain_english": "In daily, occasional, and desired rites, one should give the offering with effort."
+  },
+  {
+   "verse": 1337,
+   "rows": [
+    {
+     "surface": "kulapūjāṃ",
+     "gloss": "family-worship",
+     "grounds": "accusative compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-will-declare",
+     "grounds": "verb",
+     "morph": "verb 1.sg.fut.act (root vac)"
+    },
+    {
+     "surface": "yathāśāstravidhānataḥ",
+     "gloss": "according-to-scripture-rite",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What will be declared according to scripture rite?",
+   "premises": [
+    "family worship is the object",
+    "declaration is promised",
+    "scripture rite is the standard"
+   ],
+   "inference": "Family worship will be declared according to scripture rite.",
+   "uncertainties": [
+    "scope of declaration is not detailed"
+   ],
+   "plain_english": "I will declare family worship according to scripture rite."
+  },
+  {
+   "verse": 1338,
+   "rows": [
+    {
+     "surface": "kulatithau",
+     "gloss": "on-family-tithi",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "kularkṣe",
+     "gloss": "in-family-nakshatra",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulapūjāṃ",
+     "gloss": "family-worship",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verb",
+     "morph": "verb 3.sg.opt.act (root car)"
+    }
+   ],
+   "question": "When should family worship be performed?",
+   "premises": [
+    "family tithi is named",
+    "family nakshatra is named",
+    "performance is enjoined"
+   ],
+   "inference": "Family worship should be performed on family tithi and in family nakshatra.",
+   "uncertainties": [
+    "exact tithi and nakshatra are not specified"
+   ],
+   "plain_english": "On family tithi and in family nakshatra, one should perform family worship."
+  },
+  {
+   "verse": 1339,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇutithau",
+     "gloss": "on-viṣṇu-tithi",
+     "grounds": "locative compound",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjito",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "m.nom.sg ppp"
+    },
+    {
+     "surface": "vāñchitapradaḥ",
+     "gloss": "desire-granting",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when Viṣṇu is worshipped on Viṣṇu tithi?",
+   "premises": [
+    "Viṣṇu tithi is named",
+    "Viṣṇu is worshipped",
+    "desire-granting is stated"
+   ],
+   "inference": "When Viṣṇu is worshipped on Viṣṇu tithi, he grants desires.",
+   "uncertainties": [
+    "comparison to family worship is implied"
+   ],
+   "plain_english": "As Viṣṇu worshipped on Viṣṇu tithi grants desires."
+  },
+  {
+   "verse": 1340,
+   "rows": [
+    {
+     "surface": "nityaśrāddhaṃ",
+     "gloss": "daily-śrāddha",
+     "grounds": "compound noun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyāvandanaṃ",
+     "gloss": "sandhyā-vandana",
+     "grounds": "compound noun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "pitṛtarpaṇam",
+     "gloss": "ancestor-libation",
+     "grounds": "compound noun",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What daily rites are grouped with family worship?",
+   "premises": [
+    "daily śrāddha is named",
+    "sandhyā vandana is named",
+    "ancestor libation is named"
+   ],
+   "inference": "Daily śrāddha, sandhyā vandana, and ancestor libation are grouped likewise.",
+   "uncertainties": [
+    "exact relation to family worship is implied"
+   ],
+   "plain_english": "Likewise daily śrāddha, sandhyā vandana, and ancestor libation."
+  },
+  {
+   "verse": 1341,
+   "rows": [
+    {
+     "surface": "ekarātraṃ",
+     "gloss": "one-night",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvirātraṃ",
+     "gloss": "two-night",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "if-not",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "family-worship",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulapūjanam",
+     "gloss": "family-worship",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What happens if family worship is not done for one or two nights?",
+   "premises": [
+    "one night is named",
+    "two nights are named",
+    "family worship is the topic"
+   ],
+   "inference": "If family worship is not done for one or two nights, the stated condition applies.",
+   "uncertainties": [
+    "exact consequence is not explicit in this verse"
+   ],
+   "plain_english": "For one night or two nights, if not, family worship."
+  },
+  {
+   "verse": 1342,
+   "rows": [
+    {
+     "surface": "kulapūjāsamaṃ",
+     "gloss": "equal-to-family-worship",
+     "grounds": "compound adjective",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "verb",
+     "morph": "verb 3.sg.pres.act (root as)"
+    },
+    {
+     "surface": "puṇyamanyajjagattraye",
+     "gloss": "merit-other",
+     "grounds": "compound locative",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "Is any merit equal to family worship in the three worlds?",
+   "premises": [
+    "family worship is the standard",
+    "no equal merit exists",
+    "three worlds are the scope"
+   ],
+   "inference": "No other merit in the three worlds equals family worship.",
+   "uncertainties": [
+    "exact three worlds are not listed"
+   ],
+   "plain_english": "No other merit in the three worlds equals family worship."
+  },
+  {
+   "verse": 1343,
+   "rows": [
+    {
+     "surface": "anadhīto'pyaśāstrajño",
+     "gloss": "unstudied-even",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gurubhakto",
+     "gloss": "guru-devotee",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dṛḍhavrataḥ",
+     "gloss": "firm-vow",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who may receive the fruit despite being unstudied?",
+   "premises": [
+    "unstudied person is named",
+    "guru devotion is named",
+    "firm vow is named"
+   ],
+   "inference": "An unstudied person devoted to the guru and firm in vow may receive the fruit.",
+   "uncertainties": [
+    "exact fruit is named in next verse"
+   ],
+   "plain_english": "Even one unstudied and unlearned in scripture, devoted to the guru and firm in vow."
+  },
+  {
+   "verse": 1344,
+   "rows": [
+    {
+     "surface": "icchāsiddhiphalaṃ",
+     "gloss": "desire-accomplishment-fruit",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "gives",
+     "grounds": "verb",
+     "morph": "verb 3.sg.opt.act (root dā)"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "f.nom.sg ppp"
+    },
+    {
+     "surface": "suvadhūriva",
+     "gloss": "good-wife-like",
+     "grounds": "compound with iva",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fruit does the worshipped one give?",
+   "premises": [
+    "desire accomplishment fruit is named",
+    "giving is stated",
+    "worshipped one is subject"
+   ],
+   "inference": "The worshipped one gives the fruit of desire accomplishment, like a good wife.",
+   "uncertainties": [
+    "exact recipient is implied"
+   ],
+   "plain_english": "The worshipped one gives the fruit of desire accomplishment, like a good wife."
+  },
+  {
+   "verse": 1345,
+   "rows": [
+    {
+     "surface": "kulapūjāntarāyaṃ",
+     "gloss": "family-worship-obstacle",
+     "grounds": "compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "verb 3.sg.pres.act (root kṛ)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "evil-minded",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durmatiḥ",
+     "gloss": "evil-minded",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who creates an obstacle to family worship?",
+   "premises": [
+    "obstacle to family worship is named",
+    "agent is who",
+    "evil-minded person is named"
+   ],
+   "inference": "An evil-minded person who creates an obstacle to family worship is condemned.",
+   "uncertainties": [
+    "exact consequence is not stated"
+   ],
+   "plain_english": "Indeed, an evil-minded person who creates an obstacle to family worship."
+  },
+  {
+   "verse": 1346,
+   "rows": [
+    {
+     "surface": "viguṇaṃ",
+     "gloss": "defective",
+     "grounds": "adjective",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadyat",
+     "gloss": "whatever",
+     "grounds": "pronoun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "verb",
+     "morph": "verb 3.sg.opt.act (root as)"
+    },
+    {
+     "surface": "saguṇaṃ",
+     "gloss": "good-quality",
+     "grounds": "adjective",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "kulapūjanāt",
+     "gloss": "by-family-worship",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What becomes good-quality through family worship?",
+   "premises": [
+    "defective is named",
+    "whatever is named",
+    "good-quality is named"
+   ],
+   "inference": "Whatever is defective becomes good-quality through family worship.",
+   "uncertainties": [
+    "exact scope of whatever is not listed"
+   ],
+   "plain_english": "Whatever is defective becomes good-quality through family worship."
+  },
+  {
+   "verse": 1347,
+   "rows": [
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "noun",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhiḥ",
+     "gloss": "purity",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsaviśodhanam",
+     "gloss": "nyāsa-purification",
+     "grounds": "compound noun",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "Where are bathing, purity, and nyāsa purification found?",
+   "premises": [
+    "bathing is questioned",
+    "purity is questioned",
+    "nyāsa purification is questioned"
+   ],
+   "inference": "The verse questions where bathing, purity, and nyāsa purification are found.",
+   "uncertainties": [
+    "answer is implied by family worship"
+   ],
+   "plain_english": "Where is bathing, where purity, and where nyāsa purification?"
+  },
+  {
+   "verse": 1348,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "verb 3.sg.pres.mid (root labh)"
+    },
+    {
+     "surface": "sarvasiddhiñca",
+     "gloss": "all-accomplishments-and",
+     "grounds": "fused accusative with ca",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "future passive participle",
+     "morph": "f.nom.sg pfp"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is obtained without deliberation here?",
+   "premises": [
+    "all accomplishments are obtained",
+    "no deliberation is to be done",
+    "here is the place"
+   ],
+   "inference": "All accomplishments are obtained here, and no deliberation is to be done.",
+   "uncertainties": [
+    "exact place is implied"
+   ],
+   "plain_english": "One obtains all accomplishments; here no deliberation is to be done."
+  },
+  {
+   "verse": 1349,
+   "rows": [
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daśamī",
+     "gloss": "tenth",
+     "grounds": "ordinal adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭhī",
+     "gloss": "sixth",
+     "grounds": "ordinal adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulākulamudāhṛtam",
+     "gloss": "family-nonfamily",
+     "grounds": "compound participle",
+     "morph": "n.nom/acc.sg ppp"
+    }
+   ],
+   "question": "Which tithis are called family and non-family?",
+   "premises": [
+    "second is named",
+    "tenth is named",
+    "sixth is named"
+   ],
+   "inference": "The second, tenth, and sixth are called family and non-family.",
+   "uncertainties": [
+    "exact classification among them is not explicit"
+   ],
+   "plain_english": "Second, tenth, and sixth are called family and non-family."
+  }
+ ]
+}

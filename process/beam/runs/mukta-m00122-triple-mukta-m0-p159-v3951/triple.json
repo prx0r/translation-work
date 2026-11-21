@@ -1,0 +1,1047 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3951,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthūlahomam",
+     "gloss": "thick-homa",
+     "grounds": "object of kathayāmi",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-tell",
+     "grounds": "first-person statement",
+     "morph": "1.sg.act-pres root-kath"
+    },
+    {
+     "surface": "arimarddanam",
+     "gloss": "enemy-crushing",
+     "grounds": "purpose of homa",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What ritual topic is introduced for enemy-crushing thick homa?",
+   "premises": [
+    "idānīṃ marks present instruction",
+    "sthūlahomam is the ritual object",
+    "arimarddanam states its purpose"
+   ],
+   "inference": "The verse introduces instruction on thick homa for crushing enemies.",
+   "uncertainties": [
+    "exact ritual mechanics not given here"
+   ],
+   "plain_english": "Now I tell the thick homa for crushing enemies."
+  },
+  {
+   "verse": 3952,
+   "rows": [
+    {
+     "surface": "vidhānaiḥ",
+     "gloss": "by-rites",
+     "grounds": "instrumental means",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "dveṣanidhanaroganigrahacāṭanam",
+     "gloss": "hatred-destruction-disease-subjugation-expulsion",
+     "grounds": "compound object",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "By what means are hatred, disease, subjugation, and expulsion accomplished?",
+   "premises": [
+    "vidhānaiḥ gives instrumental means",
+    "compound lists hostile operations"
+   ],
+   "inference": "These hostile operations are accomplished by rites.",
+   "uncertainties": [
+    "specific rites unspecified"
+   ],
+   "plain_english": "By rites, hatred, destruction, disease, subjugation, and expulsion."
+  },
+  {
+   "verse": 3953,
+   "rows": [
+    {
+     "surface": "tadātmikagrahāṇāñca",
+     "gloss": "tad-ātmika-grahas-and",
+     "grounds": "genitive compound with ca",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sthitim",
+     "gloss": "position",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "aṣṭakavargakam",
+     "gloss": "eightfold-group",
+     "grounds": "appositional object",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What positional scheme governs the tad-ātmika grahas?",
+   "premises": [
+    "tadātmikagrahāṇām is genitive",
+    "sthitim is position",
+    "aṣṭakavargakam names scheme"
+   ],
+   "inference": "Their position is reckoned in the eightfold group.",
+   "uncertainties": [
+    "exact mapping not stated"
+   ],
+   "plain_english": "The position of those grahas is the eightfold group."
+  },
+  {
+   "verse": 3954,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "conditional adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krūrakarmāṇi",
+     "gloss": "cruel-acts",
+     "grounds": "object",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "kurvāṇam",
+     "gloss": "doing",
+     "grounds": "participle",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "nāśayanti",
+     "gloss": "destroy",
+     "grounds": "main verb",
+     "morph": "3.pl.act-pres root-nāś"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to one who performs cruel acts otherwise?",
+   "premises": [
+    "anyathā sets contrary condition",
+    "krūrakarmāṇi are cruel acts",
+    "nāśayanti states destruction"
+   ],
+   "inference": "Those performing cruel acts otherwise are destroyed.",
+   "uncertainties": [
+    "agent of destruction unspecified"
+   ],
+   "plain_english": "Otherwise, cruel acts destroy the doer indeed."
+  },
+  {
+   "verse": 3955,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative instruction",
+     "morph": "3.sg.opt.act root-kṛ"
+    },
+    {
+     "surface": "taddevatābhaktim",
+     "gloss": "that-deity-devotion",
+     "grounds": "object",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "āstikyam",
+     "gloss": "theism",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "varttanam",
+     "gloss": "conduct",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What devotional and ethical supports must accompany the rite?",
+   "premises": [
+    "kuryāt gives instruction",
+    "taddevatābhaktim is deity devotion",
+    "āstikyam and varttanam are supports",
+    "gurum is required guide"
+   ],
+   "inference": "One should maintain deity devotion, theism, proper conduct, and guru.",
+   "uncertainties": [
+    "relation among objects implicit"
+   ],
+   "plain_english": "One should do devotion to that deity, theism, conduct, and guru."
+  },
+  {
+   "verse": 3956,
+   "rows": [
+    {
+     "surface": "cāṭanam",
+     "gloss": "expulsion",
+     "grounds": "first operation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "uccāṭanam",
+     "gloss": "great-expulsion",
+     "grounds": "second operation",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which two expulsion operations are named here?",
+   "premises": [
+    "cāṭanam is expulsion",
+    "uccāṭanam is great-expulsion"
+   ],
+   "inference": "The verse names expulsion and great expulsion.",
+   "uncertainties": [
+    "procedural distinction not stated"
+   ],
+   "plain_english": "Expulsion and great expulsion."
+  },
+  {
+   "verse": 3957,
+   "rows": [
+    {
+     "surface": "vidadhyāt",
+     "gloss": "should-perform",
+     "grounds": "optative instruction",
+     "morph": "3.sg.opt.act root-vidh"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "conditional adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "by-power",
+     "grounds": "instrumental means",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "naiṣphalyam",
+     "gloss": "fruitlessness",
+     "grounds": "result",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanāśanam",
+     "gloss": "self-destruction",
+     "grounds": "alternative result",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What consequences follow from performing the rite otherwise or by power?",
+   "premises": [
+    "vidadhyāt is instruction",
+    "anyathā sets contrary condition",
+    "śaktyā gives means",
+    "naiṣphalyam and ātmanāśanam are results"
+   ],
+   "inference": "Otherwise, by power, there is fruitlessness or self-destruction.",
+   "uncertainties": [
+    "exact causal chain implicit"
+   ],
+   "plain_english": "Otherwise, by power, fruitlessness or self-destruction."
+  },
+  {
+   "verse": 3958,
+   "rows": [
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative setting",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative instruction",
+     "morph": "3.sg.opt.act root-kṛ"
+    },
+    {
+     "surface": "aniṣṭāni",
+     "gloss": "inauspicious-things",
+     "grounds": "object",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "tadvināśāya",
+     "gloss": "for-that-destruction",
+     "grounds": "purpose",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "sādhaka",
+     "grounds": "agent",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Where should the sādhaka perform inauspicious acts?",
+   "premises": [
+    "sthāne gives location",
+    "kuryāt gives instruction",
+    "aniṣṭāni are inauspicious things",
+    "tadvināśāya states purpose",
+    "sādhakaḥ is agent"
+   ],
+   "inference": "The sādhaka should do inauspicious things in place for that destruction.",
+   "uncertainties": [
+    "specific place not named"
+   ],
+   "plain_english": "In place, the sādhaka should do inauspicious things for that destruction."
+  },
+  {
+   "verse": 3959,
+   "rows": [
+    {
+     "surface": "kulīra",
+     "gloss": "cancer",
+     "grounds": "zodiac sign",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "siṃha",
+     "gloss": "lion",
+     "grounds": "zodiac sign",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanniṛtyām",
+     "gloss": "in-southwest",
+     "grounds": "locative direction",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "kanyakā",
+     "gloss": "virgo",
+     "grounds": "zodiac sign",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which signs are placed in the southwest for this operation?",
+   "premises": [
+    "kulīra and siṃha are signs",
+    "tanniṛtyām is southwest",
+    "kanyakā is sign",
+    "sthitā marks placement"
+   ],
+   "inference": "Cancer, Leo, and Virgo are situated in the southwest.",
+   "uncertainties": [
+    "exact ritual use implicit"
+   ],
+   "plain_english": "Cancer, Leo, then Virgo situated in the southwest."
+  },
+  {
+   "verse": 3960,
+   "rows": [
+    {
+     "surface": "tatprayoktṛnāśanam",
+     "gloss": "that-practitioner-destruction",
+     "grounds": "result",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root-bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative result is stated for the practitioner?",
+   "premises": [
+    "tatprayoktṛnāśanam is practitioner destruction",
+    "vā gives alternative",
+    "bhavati states result",
+    "iti closes statement"
+   ],
+   "inference": "Destruction of that practitioner becomes the alternative result.",
+   "uncertainties": [
+    "condition for alternative implicit"
+   ],
+   "plain_english": "Or destruction of that practitioner becomes, thus."
+  },
+  {
+   "verse": 3961,
+   "rows": [
+    {
+     "surface": "sthāneṣu",
+     "gloss": "in-places",
+     "grounds": "locative setting",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "dvādaśasu",
+     "gloss": "twelve",
+     "grounds": "numeral locative",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "tadvināśāya",
+     "gloss": "for-that-destruction",
+     "grounds": "purpose",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "ripuvināśāya",
+     "gloss": "for-enemy-destruction",
+     "grounds": "purpose",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "For what two purposes are the twelve places used?",
+   "premises": [
+    "sthāneṣu gives places",
+    "dvādaśasu gives twelve",
+    "tadvināśāya is that destruction",
+    "ripuvināśāya is enemy destruction"
+   ],
+   "inference": "The twelve places serve that destruction and enemy destruction.",
+   "uncertainties": [
+    "place list not given"
+   ],
+   "plain_english": "In twelve places, for that destruction and enemy destruction."
+  },
+  {
+   "verse": 3962,
+   "rows": [
+    {
+     "surface": "nakrakumbhāvṛttarataḥ",
+     "gloss": "crocodile-pot-revolved",
+     "grounds": "compound descriptor",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mīna",
+     "gloss": "fish",
+     "grounds": "zodiac sign",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "īśe",
+     "gloss": "in-īśa",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Where is the fish sign situated in this scheme?",
+   "premises": [
+    "nakrakumbhāvṛttarataḥ describes motion",
+    "mīna is fish sign",
+    "īśe gives location",
+    "saṃsthitam marks placement"
+   ],
+   "inference": "The fish sign is situated in īśa.",
+   "uncertainties": [
+    "exact īśa corner implicit"
+   ],
+   "plain_english": "The crocodile-pot-revolved fish is situated in īśa."
+  },
+  {
+   "verse": 3963,
+   "rows": [
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "copula",
+     "morph": "3.pl.opt.act root-as"
+    },
+    {
+     "surface": "ghaṭikāḥ",
+     "gloss": "ghaṭikās",
+     "grounds": "subject",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "kramayogataḥ",
+     "gloss": "by-sequence-yoga",
+     "grounds": "instrumental means",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many ghaṭikās occur by sequence-yoga?",
+   "premises": [
+    "kāle gives time",
+    "pañca pañca gives ten",
+    "syuḥ states are",
+    "ghaṭikāḥ are units",
+    "kramayogataḥ gives method"
+   ],
+   "inference": "Ten ghaṭikās occur by sequence-yoga.",
+   "uncertainties": [
+    "exact time unit implicit"
+   ],
+   "plain_english": "In time, but five and five are ghaṭikās by sequence-yoga."
+  },
+  {
+   "verse": 3964,
+   "rows": [
+    {
+     "surface": "meṣādirāśigo",
+     "gloss": "aries-etc-sign-going",
+     "grounds": "compound subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root-yā"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyairgrahamaṇḍalaiḥ",
+     "gloss": "by-other-planet-orbs",
+     "grounds": "instrumental means",
+     "morph": "instr.pl.n"
+    }
+   ],
+   "question": "How does the aries sign sequence proceed with other planets?",
+   "premises": [
+    "meṣādirāśigo is sign-going",
+    "yāti states goes",
+    "tathā gives thus",
+    "anyairgrahamaṇḍalaiḥ gives other orbs"
+   ],
+   "inference": "The aries sign sequence goes thus by other planet orbs.",
+   "uncertainties": [
+    "exact progression implicit"
+   ],
+   "plain_english": "The aries sign-going goes, thus by other planet orbs."
+  },
+  {
+   "verse": 3965,
+   "rows": [
+    {
+     "surface": "mūrddhādicaraṇāntam",
+     "gloss": "from-head-to-foot",
+     "grounds": "range",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "object",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "dvādaśasu",
+     "gloss": "in-twelve",
+     "grounds": "locative numeral",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "lakṣayet",
+     "gloss": "should-mark",
+     "grounds": "optative instruction",
+     "morph": "3.sg.opt.act root-lakṣ"
+    }
+   ],
+   "question": "How should the twelve items be marked from head to foot?",
+   "premises": [
+    "mūrddhādicaraṇāntam gives range",
+    "tān are those",
+    "dvādaśasu gives twelve",
+    "lakṣayet gives instruction"
+   ],
+   "inference": "One should mark those twelve from head to foot.",
+   "uncertainties": [
+    "items unspecified"
+   ],
+   "plain_english": "From head to foot, one should mark those in twelve."
+  },
+  {
+   "verse": 3966,
+   "rows": [
+    {
+     "surface": "īśe",
+     "gloss": "in-īśa-corner",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "koṇe",
+     "gloss": "corner",
+     "grounds": "apposition",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "susthitam",
+     "gloss": "well-situated",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kālacakrastharāśicakravat",
+     "gloss": "time-wheel-placed-sign-wheel-like",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhramati",
+     "gloss": "revolves",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root-bhram"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "interpretive close",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Why does the well-situated sign not revolve?",
+   "premises": [
+    "īśe koṇe gives corner",
+    "susthitam marks placement",
+    "kālacakrastharāśicakravat gives comparison",
+    "na bhramati states non-revolution",
+    "ityarthaḥ closes meaning"
+   ],
+   "inference": "It is well-situated in the corner like the time-wheel sign wheel, so it does not revolve.",
+   "uncertainties": [
+    "exact corner implicit"
+   ],
+   "plain_english": "In the īśa corner, well-situated like the time-wheel sign wheel, it does not revolve, thus meaning."
+  },
+  {
+   "verse": 3967,
+   "rows": [
+    {
+     "surface": "sūryyādhiṣṭhitarāśyādikramayogataḥ",
+     "gloss": "by-sun-presided-sign-etc-sequence-yoga",
+     "grounds": "instrumental compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what sequence-yoga are the sun-presided signs ordered?",
+   "premises": [
+    "sūryyādhiṣṭhitarāśyādikramayogataḥ gives method"
+   ],
+   "inference": "They are ordered by sun-presided sign sequence-yoga.",
+   "uncertainties": [
+    "full sequence not stated"
+   ],
+   "plain_english": "By sun-presided sign etc. sequence-yoga."
+  },
+  {
+   "verse": 3968,
+   "rows": [
+    {
+     "surface": "tattadgrahaparivṛttiproktakālaviśeṣairityarthaḥ",
+     "gloss": "by-those-planet-revolutions-stated-time-specialties-thus-meaning",
+     "grounds": "instrumental compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What time specialties are determined by planet revolutions?",
+   "premises": [
+    "tattadgrahaparivṛttiproktakālaviśeṣair gives time specialties",
+    "ityarthaḥ closes meaning"
+   ],
+   "inference": "Time specialties are determined by stated planet revolutions.",
+   "uncertainties": [
+    "specific specialties implicit"
+   ],
+   "plain_english": "By those planet revolutions stated time specialties, thus meaning."
+  },
+  {
+   "verse": 3969,
+   "rows": [
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "object",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "rāśīn",
+     "gloss": "signs",
+     "grounds": "object",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "dvādaśasu",
+     "gloss": "in-twelve",
+     "grounds": "locative numeral",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "sthāneṣu",
+     "gloss": "places",
+     "grounds": "locative setting",
+     "morph": "loc.pl.n"
+    }
+   ],
+   "question": "Where are the twelve signs placed?",
+   "premises": [
+    "tān rāśīn are signs",
+    "dvādaśasu gives twelve",
+    "sthāneṣu gives places"
+   ],
+   "inference": "The twelve signs are placed in places.",
+   "uncertainties": [
+    "place list not given"
+   ],
+   "plain_english": "Those signs in twelve places."
+  },
+  {
+   "verse": 3970,
+   "rows": [
+    {
+     "surface": "śubhāśubhāni",
+     "gloss": "auspicious-inauspicious",
+     "grounds": "subject",
+     "morph": "nom/acc.pl.n"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "nom/acc.pl.n"
+    },
+    {
+     "surface": "phalanti",
+     "gloss": "fructify",
+     "grounds": "main verb",
+     "morph": "3.pl.act-pres root-phal"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "locative participle",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do all auspicious and inauspicious results fructify when done thus?",
+   "premises": [
+    "śubhāśubhāni are results",
+    "sarvāṇi quantifies all",
+    "phalanti states fructify",
+    "evam kṛte gives condition",
+    "dhruvam gives certainty"
+   ],
+   "inference": "All auspicious and inauspicious results certainly fructify when done thus.",
+   "uncertainties": [
+    "exact ritual condition implicit"
+   ],
+   "plain_english": "All auspicious and inauspicious fructify; thus done, certainly."
+  },
+  {
+   "verse": 3971,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidadhyāt",
+     "gloss": "should-perform",
+     "grounds": "optative instruction",
+     "morph": "3.sg.opt.act root-vidh"
+    },
+    {
+     "surface": "puttalyāḥ",
+     "gloss": "effigy",
+     "grounds": "genitive object",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "prayāgam",
+     "gloss": "confluence",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sarvatas",
+     "gloss": "from-all-sides",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be performed after knowing the effigy confluence?",
+   "premises": [
+    "jñātvā gives prior knowledge",
+    "vidadhyāt gives instruction",
+    "puttalyāḥ is effigy",
+    "prayāgam is confluence",
+    "sarvatas and tathā qualify"
+   ],
+   "inference": "After knowing, one should perform the effigy confluence from all sides thus.",
+   "uncertainties": [
+    "exact rite implicit"
+   ],
+   "plain_english": "Having known, perform the effigy confluence from all sides thus."
+  },
+  {
+   "verse": 3972,
+   "rows": [
+    {
+     "surface": "bhrūśaṅkhamūrddhamadhyeṣu",
+     "gloss": "in-brow-temple-crown-middles",
+     "grounds": "locative setting",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrūśaṅkhamadhyataḥ",
+     "gloss": "from-brow-temple-middle",
+     "grounds": "ablative source",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which bodily middle does the placement begin?",
+   "premises": [
+    "bhrūśaṅkhamūrddhamadhyeṣu gives locations",
+    "tatra gives there",
+    "bhrūśaṅkhamadhyataḥ gives source"
+   ],
+   "inference": "Placement begins from the brow-temple middle.",
+   "uncertainties": [
+    "exact sequence implicit"
+   ],
+   "plain_english": "In brow, temple, and crown middles; there from brow-temple middle."
+  },
+  {
+   "verse": 3973,
+   "rows": [
+    {
+     "surface": "savyakaṇṭhastanataṭe",
+     "gloss": "left-neck-breast-bank",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "locative setting",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyake",
+     "gloss": "in-secret",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Which bodily locations are named for placement?",
+   "premises": [
+    "savyakaṇṭhastanataṭe is left neck-breast bank",
+    "hṛdi is heart",
+    "nābhau is navel",
+    "guhyake is secret place"
+   ],
+   "inference": "The named locations are left neck-breast bank, heart, navel, and secret place.",
+   "uncertainties": [
+    "exact placement order implicit"
+   ],
+   "plain_english": "Left neck-breast bank, heart, navel, and secret place."
+  },
+  {
+   "verse": 3974,
+   "rows": [
+    {
+     "surface": "aṅghrau",
+     "gloss": "in-foot",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sandhau",
+     "gloss": "in-joint",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jānuguhye",
+     "gloss": "in-knee-secret",
+     "grounds": "locative setting",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "locative setting",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "and-thus",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sitatare",
+     "gloss": "in-white-etc",
+     "grounds": "locative setting",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Which further bodily locations are named for placement?",
+   "premises": [
+    "aṅghrau is foot",
+    "sandhau is joint",
+    "jānuguhye is knee-secret",
+    "nābhau is navel",
+    "sitatare is white-etc"
+   ],
+   "inference": "Further locations are foot, joint, knee-secret, navel, and white-etc.",
+   "uncertainties": [
+    "exact color or placement implicit"
+   ],
+   "plain_english": "In foot, joint, knee-secret, navel, and thus in white-etc."
+  }
+ ]
+}

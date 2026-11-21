@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "urvītattve",
+     "gloss": "in-earth-principle",
+     "grounds": "locative singular neuter compound (urvī+tattva); denotes the tattva of earth",
+     "morph": "urvī+tattva.loc.sg.n"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "situated",
+     "grounds": "past passive participle of √sthā, agreeing with jarāyujodbhijāṇḍajāḥ",
+     "morph": "√sthā.ppp.nom.pl.m"
+    },
+    {
+     "surface": "śodhyā",
+     "gloss": "to-be-purified",
+     "grounds": "gerundive of √śudh, indicating ritual purification required",
+     "morph": "√śudh.gerundive.nom.pl.m"
+    },
+    {
+     "surface": "jarāyujodbhijāṇḍajāḥ",
+     "gloss": "womb-born-sprout-born-egg-born",
+     "grounds": "compound of jarāyu-ja, udbhija, and aṇḍa-ja; classes of beings by mode of birth",
+     "morph": "jarāyu-ja+udbhija+aṇḍa-ja.nom.pl.m"
+    }
+   ],
+   "question": "Which classes of beings situated in the earth principle require ritual purification?",
+   "premises": [
+    "Certain beings are situated in the earth principle (urvītattva).",
+    "These beings include those born from a womb, from sprouts, and from eggs.",
+    "Such beings are designated as requiring purification (śodhya)."
+   ],
+   "inference": "All womb-born, sprout-born, and egg-born beings located in the earth principle must undergo ritual purification.",
+   "uncertainties": [
+    "The precise scope of udbhija (sprout-born) in this ritual classification is not specified in the verse."
+   ],
+   "plain_english": "Those born from a womb, from sprouts, and from eggs, who are situated in the earth principle, are to be purified."
+  }
+ ]
+}

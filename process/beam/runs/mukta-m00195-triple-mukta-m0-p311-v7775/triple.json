@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p311",
+ "items": [
+  {
+   "verse": 7775,
+   "rows": [
+    {
+     "surface": "maṇḍape",
+     "gloss": "in-pavilion",
+     "grounds": "locative of maṇḍapa, the place of contemplation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ratna",
+     "gloss": "jewel",
+     "grounds": "first member of compound describing construction material",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nirmite",
+     "gloss": "made",
+     "grounds": "past passive participle agreeing with maṇḍape, forming compound with ratna",
+     "morph": "m.loc.sg.ppp-nir-mā"
+    }
+   ],
+   "question": "What kind of constructed pavilion serves as the setting for contemplation?",
+   "premises": [
+    "The setting specified is a pavilion.",
+    "The pavilion is described as constructed.",
+    "The pavilion is constructed from jewels."
+   ],
+   "inference": "The contemplation is to occur in a pavilion made of jewels.",
+   "uncertainties": [
+    "ratna-nirmite is taken as a compound qualifying maṇḍape based on context."
+   ],
+   "plain_english": "In a pavilion made of jewels."
+  }
+ ]
+}

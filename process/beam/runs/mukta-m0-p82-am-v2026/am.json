@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p82",
+ "verse": 2026,
+ "question": "How many padas are clearly counted beyond the two hundred in this arrangement?",
+ "premises": [
+  "The verse gives a count of padas.",
+  "It specifies two hundred as base.",
+  "It adds an excess beyond that base."
+ ],
+ "inference": "The total count exceeds two hundred by the stated excess.",
+ "uncertainties": [
+  "Exact arithmetic depends on the fused count token."
+ ],
+ "plain_english": "Two hundred padas are clearly exceeded by the stated count."
+}

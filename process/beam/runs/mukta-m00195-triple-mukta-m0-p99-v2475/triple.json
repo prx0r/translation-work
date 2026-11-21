@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2475,
+   "rows": [
+    {
+     "surface": "vanasthānāṃ",
+     "gloss": "of-forest-dwellers",
+     "grounds": "genitive plural of vanastha, recipients of the declaration",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "past passive participle serving as predicate",
+     "morph": "ppp.nom.sg.m (pra-√vac)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmavādinām",
+     "gloss": "of-brahman-speakers",
+     "grounds": "compound brahma-vādin in genitive plural, qualifying vanasthānāṃ",
+     "morph": "brahma+vādin (tatpuruṣa).m.gen.pl"
+    }
+   ],
+   "question": "For which group of practitioners is this ritual observance declared?",
+   "premises": [
+    "The preceding verses describe a ritual procedure of washing and offering.",
+    "This procedure is declared for forest-dwellers.",
+    "These forest-dwellers are characterized as speakers of brahman."
+   ],
+   "inference": "The described ritual observance is prescribed specifically for forest-dwelling speakers of brahman.",
+   "uncertainties": [
+    "The exact scope of the ritual referred to depends on the preceding verses."
+   ],
+   "plain_english": "Indeed, this is declared for forest-dwellers who are speakers of Brahman."
+  }
+ ]
+}

@@ -1,0 +1,921 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 701,
+   "rows": [
+    {
+     "surface": "sthāṇuṃ",
+     "gloss": "pillar",
+     "grounds": "object of bowing",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "bow",
+     "grounds": "first-person act",
+     "morph": "1.sg.act-pres root-nam"
+    },
+    {
+     "surface": "śirasā",
+     "gloss": "head",
+     "grounds": "instrument of bowing",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "sarvadeva",
+     "gloss": "all-gods",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "namaskṛtam",
+     "gloss": "saluted",
+     "grounds": "past participle",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Which pillar receives head-bowing and salutation from all gods?",
+   "premises": [
+    "pillar is bowed to",
+    "head is the instrument",
+    "all gods salute it"
+   ],
+   "inference": "The verse identifies a pillar honored by universal divine salutation.",
+   "uncertainties": [
+    "compound analysis of sarvadeva not fully resolved"
+   ],
+   "plain_english": "I bow with my head to the pillar saluted by all gods."
+  },
+  {
+   "verse": 702,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is white",
+    "form is named"
+   ],
+   "inference": "The verse states the color white.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 703,
+   "rows": [
+    {
+     "surface": "hṛdayasthaḥ",
+     "gloss": "heart-residing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyāt",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-bhū"
+    },
+    {
+     "surface": "bhargobhayavināśanaḥ",
+     "gloss": "bhargo-fear-destroyer",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should always reside in the heart as destroyer of fear?",
+   "premises": [
+    "residence is in heart",
+    "duration is always",
+    "destroyer of fear is named"
+   ],
+   "inference": "The verse petitions a fear-destroying presence to dwell always in the heart.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "May the fear-destroying Bhargo always reside in the heart."
+  },
+  {
+   "verse": 704,
+   "rows": [
+    {
+     "surface": "śyāma",
+     "gloss": "dark",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is dark",
+    "form is named"
+   ],
+   "inference": "The verse states the color dark.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is dark."
+  },
+  {
+   "verse": 705,
+   "rows": [
+    {
+     "surface": "rudrobhūtvāharannaṃte",
+     "gloss": "rudra-becoming-taking-end",
+     "grounds": "fused sandhi form",
+     "morph": "compound"
+    },
+    {
+     "surface": "gatiḥ",
+     "gloss": "path",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "me",
+     "gloss": "mine",
+     "grounds": "possessive",
+     "morph": "gen.sg.1"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "predicate",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What path is always Shiva for one who becomes Rudra and takes at the end?",
+   "premises": [
+    "becoming Rudra is stated",
+    "taking at end is stated",
+    "path is always Shiva"
+   ],
+   "inference": "The verse declares Shiva as the constant path.",
+   "uncertainties": [
+    "fused form not split"
+   ],
+   "plain_english": "Becoming Rudra and taking at the end, my path is always Shiva."
+  },
+  {
+   "verse": 706,
+   "rows": [
+    {
+     "surface": "śyāmala",
+     "gloss": "dark-blue",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is dark-blue",
+    "form is named"
+   ],
+   "inference": "The verse states the color dark-blue.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is dark-blue."
+  },
+  {
+   "verse": 707,
+   "rows": [
+    {
+     "surface": "kalyāṇaguṇadhāmne",
+     "gloss": "auspicious-qualities-abode",
+     "grounds": "dative compound",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "śivāya",
+     "gloss": "to-shiva",
+     "grounds": "dative",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "vihitānatiḥ",
+     "gloss": "offered-salutation",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "To whom is salutation offered as abode of auspicious qualities?",
+   "premises": [
+    "abode of auspicious qualities is named",
+    "salutation is offered",
+    "recipient is Shiva"
+   ],
+   "inference": "The verse offers salutation to Shiva as abode of auspicious qualities.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Salutation is offered to Shiva, abode of auspicious qualities."
+  },
+  {
+   "verse": 708,
+   "rows": [
+    {
+     "surface": "pīta",
+     "gloss": "yellow",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is yellow",
+    "form is named"
+   ],
+   "inference": "The verse states the color yellow.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is yellow."
+  },
+  {
+   "verse": 709,
+   "rows": [
+    {
+     "surface": "pinākāṃkitahastāya",
+     "gloss": "pinaka-marked-hand",
+     "grounds": "dative compound",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "harāya",
+     "gloss": "to-hara",
+     "grounds": "dative",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "namaskṛtiḥ",
+     "gloss": "salutation",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "To whom is salutation given as Pinaka-marked hand?",
+   "premises": [
+    "Pinaka-marked hand is named",
+    "recipient is Hara",
+    "salutation is given"
+   ],
+   "inference": "The verse gives salutation to Hara bearing the Pinaka mark.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Salutation to Hara with Pinaka-marked hand."
+  },
+  {
+   "verse": 710,
+   "rows": [
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is black",
+    "form is named"
+   ],
+   "inference": "The verse states the color black.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is black."
+  },
+  {
+   "verse": 711,
+   "rows": [
+    {
+     "surface": "khaḍgapāṇi",
+     "gloss": "sword-handed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tīkṣṇadaṃṣṭra",
+     "gloss": "sharp-fanged",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śarvākhya",
+     "gloss": "sharva-named",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mude",
+     "gloss": "joy",
+     "grounds": "dative",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "mama",
+     "gloss": "mine",
+     "grounds": "possessive",
+     "morph": "gen.sg.1"
+    }
+   ],
+   "question": "For whose joy is the sword-handed sharp-fanged Sharva-named form?",
+   "premises": [
+    "sword-handed is stated",
+    "sharp-fanged is stated",
+    "Sharva-named is stated",
+    "joy is mine"
+   ],
+   "inference": "The verse assigns the fierce Sharva form to the speaker's joy.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "The sword-handed, sharp-fanged Sharva-named form is for my joy."
+  },
+  {
+   "verse": 712,
+   "rows": [
+    {
+     "surface": "babhru",
+     "gloss": "tawny",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is tawny",
+    "form is named"
+   ],
+   "inference": "The verse states the color tawny.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is tawny."
+  },
+  {
+   "verse": 713,
+   "rows": [
+    {
+     "surface": "śūlapāṇi",
+     "gloss": "trident-handed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sukhāya",
+     "gloss": "for-happiness",
+     "grounds": "dative",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-as"
+    },
+    {
+     "surface": "kapālī",
+     "gloss": "kapali",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "dat.sg.1"
+    },
+    {
+     "surface": "aharniśam",
+     "gloss": "day-night",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who may be trident-handed Kapali for happiness day and night?",
+   "premises": [
+    "trident-handed is stated",
+    "Kapali is named",
+    "happiness is sought",
+    "duration is day and night"
+   ],
+   "inference": "The verse petitions Kapali as trident-handed source of happiness always.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "May trident-handed Kapali be for my happiness day and night."
+  },
+  {
+   "verse": 714,
+   "rows": [
+    {
+     "surface": "pāṭala",
+     "gloss": "pale-red",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is pale-red",
+    "form is named"
+   ],
+   "inference": "The verse states the color pale-red.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is pale-red."
+  },
+  {
+   "verse": 715,
+   "rows": [
+    {
+     "surface": "vedāṃtakṛta",
+     "gloss": "vedanta-made",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃcāraṃ",
+     "gloss": "movement",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "bhavaṃtaṃ",
+     "gloss": "bhavantam",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śaraṇaṃ",
+     "gloss": "refuge",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "first-person act",
+     "morph": "1.sg.act-pres root-bhaj"
+    }
+   ],
+   "question": "Whom does one worship as refuge with Vedanta-made movement?",
+   "premises": [
+    "Vedanta-made is stated",
+    "movement is stated",
+    "Bhavantam is object",
+    "refuge is stated",
+    "worship is first person"
+   ],
+   "inference": "The verse worships Bhavantam as refuge with Vedanta-made movement.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "I worship Bhavantam as refuge with Vedanta-made movement."
+  },
+  {
+   "verse": 716,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "color adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is white",
+    "form is named"
+   ],
+   "inference": "The verse states the color white.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 717,
+   "rows": [
+    {
+     "surface": "rudraṃ",
+     "gloss": "rudra",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "triṇetra",
+     "gloss": "three-eyed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aruṇaṃ",
+     "gloss": "reddish",
+     "grounds": "adjective",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "jaṭāmaṃḍaladhāriṇam",
+     "gloss": "matted-hair-wearing",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which Rudra is three-eyed, reddish, and matted-hair-wearing?",
+   "premises": [
+    "Rudra is object",
+    "three-eyed is stated",
+    "reddish is stated",
+    "matted-hair-wearing is stated"
+   ],
+   "inference": "The verse describes a three-eyed reddish Rudra wearing matted hair.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Rudra, three-eyed, reddish, wearing matted hair."
+  },
+  {
+   "verse": 718,
+   "rows": [
+    {
+     "surface": "vaiyyāghracarmavasanaṃ",
+     "gloss": "tiger-skin-garment",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "all-ornaments-adorned",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What garment and adornment characterize this form?",
+   "premises": [
+    "tiger-skin garment is stated",
+    "all ornaments adorn it"
+   ],
+   "inference": "The verse describes the form in tiger skin and all ornaments.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Tiger-skin garment and adorned with all ornaments."
+  },
+  {
+   "verse": 719,
+   "rows": [
+    {
+     "surface": "aparābhyāṃ",
+     "gloss": "with-two-other",
+     "grounds": "instrumental dual",
+     "morph": "instr.du.m"
+    },
+    {
+     "surface": "hastābhyāṃ",
+     "gloss": "hands",
+     "grounds": "instrumental dual",
+     "morph": "instr.du.m"
+    },
+    {
+     "surface": "bibhrāṇaṃ",
+     "gloss": "bearing",
+     "grounds": "participle",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "mṛgam",
+     "gloss": "deer",
+     "grounds": "object",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What does the form bear in its two other hands?",
+   "premises": [
+    "two other hands are instrumental",
+    "bearing is stated",
+    "axe is object",
+    "deer is object"
+   ],
+   "inference": "The verse states the form bears axe and deer in two other hands.",
+   "uncertainties": [
+    "participle tense not specified"
+   ],
+   "plain_english": "Bearing axe and deer in the two other hands."
+  },
+  {
+   "verse": 720,
+   "rows": [
+    {
+     "surface": "pītaḥ",
+     "gloss": "yellow",
+     "grounds": "color adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "kala",
+     "grounds": "name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "babhruvarṇakaḥ",
+     "gloss": "tawny-color",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāṭalaḥ",
+     "gloss": "pale-red",
+     "grounds": "color adjective",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sitaḥ",
+     "gloss": "white",
+     "grounds": "color adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which colors are listed for Kala and the others?",
+   "premises": [
+    "yellow is stated",
+    "Kala is named",
+    "thus is stated",
+    "tawny-color is stated",
+    "pale-red is stated",
+    "white is stated"
+   ],
+   "inference": "The verse lists yellow, tawny, pale-red, and white colors.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Yellow Kala, thus tawny-colored, pale-red, white."
+  },
+  {
+   "verse": 721,
+   "rows": [
+    {
+     "surface": "ekādaśānāṃ",
+     "gloss": "of-eleven",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "rudrāṇāṃ",
+     "gloss": "rudras",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samudāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is declared as the color of the eleven Rudras?",
+   "premises": [
+    "eleven Rudras are genitive",
+    "color is subject",
+    "this is demonstrative",
+    "declared is participle"
+   ],
+   "inference": "The verse declares this color for the eleven Rudras.",
+   "uncertainties": [
+    "referent of this color is contextual"
+   ],
+   "plain_english": "This color is declared for the eleven Rudras."
+  },
+  {
+   "verse": 722,
+   "rows": [
+    {
+     "surface": "ṛjutanu",
+     "gloss": "straight-bodied",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "samapāda",
+     "gloss": "even-footed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthānakaṃ",
+     "gloss": "stance",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vidrumābhaṃ",
+     "gloss": "coral-colored",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hariṇa",
+     "gloss": "deer",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "paraśupāṇiṃ",
+     "gloss": "axe-handed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmapīṭha",
+     "gloss": "lotus-pedestal",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "upariṣṭham",
+     "gloss": "upon",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What stance is straight-bodied, even-footed, coral-colored, deer and axe-handed, upon lotus pedestal?",
+   "premises": [
+    "straight-bodied is stated",
+    "even-footed is stated",
+    "stance is subject",
+    "coral-colored is stated",
+    "deer and axe-handed is stated",
+    "upon lotus pedestal is stated"
+   ],
+   "inference": "The verse describes a stance with these attributes upon a lotus pedestal.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "Straight-bodied, even-footed stance, coral-colored, deer and axe-handed, upon lotus pedestal."
+  },
+  {
+   "verse": 723,
+   "rows": [
+    {
+     "surface": "pravāla",
+     "gloss": "coral",
+     "grounds": "color noun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "color is coral",
+    "form is named"
+   ],
+   "inference": "The verse states the color coral.",
+   "uncertainties": [
+    "referent of form is contextual"
+   ],
+   "plain_english": "The color is coral."
+  },
+  {
+   "verse": 724,
+   "rows": [
+    {
+     "surface": "savye",
+     "gloss": "on-right",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "nīlotpalacāruhastāṃ",
+     "gloss": "blue-lotus-beautiful-handed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "vāmasthitapadmapīṭhām",
+     "gloss": "left-situated-lotus-pedestal",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is on the right and left-situated lotus pedestal of the god?",
+   "premises": [
+    "on right is stated",
+    "blue-lotus beautiful-handed is stated",
+    "of god is genitive",
+    "left-situated lotus pedestal is stated"
+   ],
+   "inference": "The verse places a blue-lotus-handed figure on the right and a left-situated lotus pedestal.",
+   "uncertainties": [
+    "compound internal members not split"
+   ],
+   "plain_english": "On the right, blue-lotus beautiful-handed; of the god, left-situated lotus pedestal."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1675,
+   "rows": [
+    {
+     "surface": "tatkathāśravaṇaṃ",
+     "gloss": "that-story-hearing",
+     "grounds": "compound tat+kathā+śravaṇa; neuter singular nominative/accusative",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of root as",
+     "morph": "v.3.sg.opt.act"
+    },
+    {
+     "surface": "tattalpagamanaṃ",
+     "gloss": "that-bed-going",
+     "grounds": "compound tat+talpa+gamana; neuter singular nominative/accusative",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "Does hearing that story entail going to that bed?",
+   "premises": [
+    "Hearing that story is posited.",
+    "Going to that bed follows.",
+    "The conditional links them."
+   ],
+   "inference": "The verse states a conditional relation between hearing and going.",
+   "uncertainties": [
+    "Exact ritual referent of talpa remains unclear."
+   ],
+   "plain_english": "If there is hearing of that story, then there is going to that bed."
+  }
+ ]
+}

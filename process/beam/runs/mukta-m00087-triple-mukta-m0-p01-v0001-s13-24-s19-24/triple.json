@@ -1,0 +1,246 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guptatamā",
+     "gloss": "most-secret",
+     "grounds": "superlative of gupta",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidya",
+     "grounds": "feminine noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstreṣu",
+     "gloss": "in-scriptures",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.n"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle of prakīrt",
+     "morph": "part.nom.sg.f"
+    }
+   ],
+   "question": "What is said about the most secret vidya in relation to the scriptures?",
+   "premises": [
+    "the most secret vidya is not proclaimed in scriptures",
+    "this statement follows the preceding context",
+    "the verse names vidya and scriptures"
+   ],
+   "inference": "The most secret vidya is withheld from scriptural proclamation.",
+   "uncertainties": [
+    "legacy hints are approximate glosses"
+   ],
+   "plain_english": "Then the most secret vidya is not proclaimed in the scriptures."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "śāktaṃ",
+     "gloss": "shakta",
+     "grounds": "adjectival or neuter accusative form",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative of śru",
+     "morph": "verb.2.sg.act-imp root-śru"
+    },
+    {
+     "surface": "vadāmyatha",
+     "gloss": "i-tell-then",
+     "grounds": "vadāmi plus atha fused",
+     "morph": "verb.1.sg.act-pres root-vad + (indecl.)"
+    }
+   ],
+   "question": "What instruction is given before the Shakta teaching is spoken?",
+   "premises": [
+    "the speaker addresses the listener",
+    "the listener is told to listen",
+    "the speaker then says I tell",
+    "the topic is Shakta"
+   ],
+   "inference": "The verse commands listening before presenting the Shakta teaching.",
+   "uncertainties": [
+    "exact syntactic role of śāktaṃ is not fully certain"
+   ],
+   "plain_english": "Listen; I now tell the Shakta teaching."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverbial comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmaśaktyākhyau",
+     "gloss": "desire-power-named",
+     "grounds": "compound naming two letters",
+     "morph": "adj.nom.du.m"
+    },
+    {
+     "surface": "varṇau",
+     "gloss": "two-letters",
+     "grounds": "dual noun",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "niṣkīlitātmakau",
+     "gloss": "lock-free-natured",
+     "grounds": "compound describing the two letters",
+     "morph": "adj.nom.du.m"
+    }
+   ],
+   "question": "How are the two letters named desire and power described?",
+   "premises": [
+    "the two letters are named desire and power",
+    "they are described as lock-free in nature",
+    "the description is as before"
+   ],
+   "inference": "The two letters called desire and power are lock-free in nature.",
+   "uncertainties": [
+    "pūrvavat refers to an earlier unstated procedure"
+   ],
+   "plain_english": "As before, the two letters named desire and power are lock-free in nature."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "vāgīśvarī",
+     "gloss": "Vageshvari",
+     "grounds": "feminine deity name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "jñānaśaktirvāgbhave",
+     "gloss": "knowledge-power-in-vagbhava",
+     "grounds": "jñānaśaktiḥ plus vāgbhave fused",
+     "morph": "n.nom.sg.f + loc.sg.m"
+    },
+    {
+     "surface": "mokṣadāyinī",
+     "gloss": "liberation-giving",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is Vageshvari as knowledge power in vagbhava said to give?",
+   "premises": [
+    "Vageshvari is knowledge power in vagbhava",
+    "she is described as liberation-giving",
+    "the verse names her directly"
+   ],
+   "inference": "Vageshvari, knowledge power in vagbhava, gives liberation.",
+   "uncertainties": [
+    "compound boundary inside the fused token is inferred"
+   ],
+   "plain_english": "Vageshvari, knowledge power in vagbhava, is liberation-giving."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "śaktibīje",
+     "gloss": "in-power-seed",
+     "grounds": "locative of śaktibīja",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "feminine noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śivaśaktisvarūpiṇī",
+     "gloss": "Shiva-Shakti-natured",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is mahamaya in the power seed said to be?",
+   "premises": [
+    "the location is the power seed",
+    "mahamaya is named there",
+    "she is Shiva-Shakti-natured"
+   ],
+   "inference": "In the power seed, mahamaya is Shiva-Shakti-natured.",
+   "uncertainties": [
+    "śaktibīje may be locative or instrumental in context"
+   ],
+   "plain_english": "In the power seed, mahamaya is Shiva-Shakti-natured."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine pronoun",
+     "morph": "pron.nom.sg.f"
+    },
+    {
+     "surface": "tryakṣarī",
+     "gloss": "three-syllabled",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidya",
+     "grounds": "feminine noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "great-Tripurasundari",
+     "grounds": "feminine deity name",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "How is the three-syllabled vidya identified after this description?",
+   "premises": [
+    "the description is thus",
+    "she is the three-syllabled vidya",
+    "she is great Tripurasundari"
+   ],
+   "inference": "The three-syllabled vidya is great Tripurasundari.",
+   "uncertainties": [
+    "the exact referent of sā depends on prior context"
+   ],
+   "plain_english": "Thus she is the three-syllabled vidya, great Tripurasundari."
+  }
+ ]
+}

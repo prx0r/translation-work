@@ -1,0 +1,915 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "mārgeṇa",
+     "gloss": "by-path",
+     "grounds": "instrumental of mārga, the prescribed way",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tatsthāne",
+     "gloss": "in-that-place",
+     "grounds": "locative compound tat+sthāna",
+     "morph": "compound: tat+sthāna; n.loc.sg"
+    },
+    {
+     "surface": "tāntrikaḥ",
+     "gloss": "the-tāntrika",
+     "grounds": "practitioner following tantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the tāntrika proceed again in that place by the prescribed path?",
+   "premises": [
+    "A specific place has already been indicated.",
+    "A prescribed path governs the action.",
+    "The tāntrika is the agent who acts again."
+   ],
+   "inference": "The tāntrika must act again in that place according to the prescribed path.",
+   "uncertainties": [],
+   "plain_english": "The tāntrika should again act in that place according to the prescribed path."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "kālabhairavabhedasya",
+     "gloss": "of-kālabhairava-division",
+     "grounds": "genitive compound kālabhairava+bheda",
+     "morph": "compound: kālabhairava+bheda; m.gen.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whichever",
+     "grounds": "relative pronoun referring to a division",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "of-any",
+     "grounds": "indefinite pronoun kaścit with api",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right-side",
+     "grounds": "locative indicating position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which division of Kālabhairava is specified as the locus on the right side?",
+   "premises": [
+    "Kālabhairava has multiple divisions.",
+    "Any one of these divisions may be indicated.",
+    "The relevant position is on the right side."
+   ],
+   "inference": "The instruction applies to any division of Kālabhairava located on the right side.",
+   "uncertainties": [],
+   "plain_english": "On the right side of any division of Kālabhairava."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "by-practitioners",
+     "grounds": "agents who undertake the practice",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "grāhyaḥ",
+     "gloss": "to-be-accepted",
+     "grounds": "gerundive expressing obligation or suitability",
+     "morph": "m.nom.sg (gerundive, √grah)"
+    },
+    {
+     "surface": "svarṇākarṣaṇabhairavaḥ",
+     "gloss": "svarṇākarṣaṇa-bhairava",
+     "grounds": "name of a specific form of Bhairava",
+     "morph": "compound: svarṇākarṣaṇa+bhairava; m.nom.sg"
+    }
+   ],
+   "question": "Which form of Bhairava must practitioners accept in this context?",
+   "premises": [
+    "Practitioners are the agents of acceptance.",
+    "A specific form of Bhairava is named.",
+    "Acceptance is prescribed as appropriate."
+   ],
+   "inference": "Practitioners should accept Svarṇākarṣaṇa Bhairava.",
+   "uncertainties": [],
+   "plain_english": "Practitioners should accept Svarṇākarṣaṇa Bhairava."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt (√kṛ)"
+    },
+    {
+     "surface": "gṛhyoktamārgeṇa",
+     "gloss": "by-household-stated-path",
+     "grounds": "instrumental compound gṛhya+ukta+mārga",
+     "morph": "compound: gṛhya+ukta+mārga; m.ins.sg"
+    },
+    {
+     "surface": "tasminsthāne",
+     "gloss": "in-that-place",
+     "grounds": "locative compound tad+sthāna",
+     "morph": "compound: tad+sthāna; n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāntrikaḥ",
+     "gloss": "the-tāntrika",
+     "grounds": "practitioner following tantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By which path should the tāntrika perform the rites in that place?",
+   "premises": [
+    "The tāntrika is the prescribed agent.",
+    "The action is to be performed in that place.",
+    "The path is that stated in the household tradition."
+   ],
+   "inference": "The tāntrika should perform the rites in that place according to the path stated in the household tradition.",
+   "uncertainties": [
+    "The exact scope of gṛhyokta in this tantric context is not fully specified."
+   ],
+   "plain_english": "Indeed, the tāntrika should perform the rites in that place according to the path stated in the household tradition."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "pūjādimantrān",
+     "gloss": "worship-etc-mantras",
+     "grounds": "accusative compound pūjā+ādi+mantra",
+     "morph": "compound: pūjā+ādi+mantra; m.acc.pl"
+    },
+    {
+     "surface": "tacchikṣāṃ",
+     "gloss": "their-instruction",
+     "grounds": "accusative compound tad+śikṣā",
+     "morph": "compound: tad+śikṣā; f.acc.sg"
+    },
+    {
+     "surface": "taddravyaniyamān",
+     "gloss": "their-substance-rules",
+     "grounds": "accusative compound tad+dravya+niyama",
+     "morph": "compound: tad+dravya+niyama; m.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual elements must be observed together with the mantras of worship?",
+   "premises": [
+    "Mantras of worship and related rites are included.",
+    "Their instruction is to be followed.",
+    "Rules concerning their substances are also included."
+   ],
+   "inference": "The mantras of worship, their instruction, and the rules for their substances must all be observed.",
+   "uncertainties": [],
+   "plain_english": "One should observe the mantras of worship and so forth, their instruction, and likewise the rules for their substances."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative indicating location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.act.opt (√bhū)"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "ritual initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sveṣṭamantre",
+     "gloss": "in-own-desired-mantra",
+     "grounds": "locative compound sva+iṣṭa+mantra",
+     "morph": "compound: sva+iṣṭa+mantra; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāntrike",
+     "gloss": "in-tāntrika-context",
+     "grounds": "locative referring to the tantric setting",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where and in which mantra should initiation take place in the tantric context?",
+   "premises": [
+    "Initiation is prescribed to occur.",
+    "The location is specified as the place.",
+    "The initiation is in one's own chosen mantra within the tantric context."
+   ],
+   "inference": "In the tantric context, initiation should take place in that place in one's own chosen mantra.",
+   "uncertainties": [],
+   "plain_english": "In the tantric context, initiation should take place in that place in one's own chosen mantra."
+  },
+  {
+   "verse": 232,
+   "rows": [
+    {
+     "surface": "tāntrikaḥ",
+     "gloss": "the-tāntrika",
+     "grounds": "practitioner following tantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt (√kṛ)"
+    },
+    {
+     "surface": "sarvapāpavimokṣaṇam",
+     "gloss": "all-sin-liberation",
+     "grounds": "accusative compound sarva+pāpa+vimokṣaṇa",
+     "morph": "compound: sarva+pāpa+vimokṣaṇa; n.acc.sg"
+    }
+   ],
+   "question": "What liberating effect should the tāntrika bring about through the prescribed rite?",
+   "premises": [
+    "The tāntrika is the agent of the rite.",
+    "The rite is to be performed.",
+    "The intended result is liberation from all sins."
+   ],
+   "inference": "The tāntrika should perform the rite that brings liberation from all sins.",
+   "uncertainties": [],
+   "plain_english": "The tāntrika should perform the rite for liberation from all sins."
+  },
+  {
+   "verse": 233,
+   "rows": [
+    {
+     "surface": "satyavācā",
+     "gloss": "with-truthful-speech",
+     "grounds": "instrumental compound satya+vāc",
+     "morph": "compound: satya+vāc; f.ins.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samprārthayet",
+     "gloss": "one-should-pray",
+     "grounds": "optative prescribing prayer",
+     "morph": "3.sg.act.opt (sam-pra-√arth)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "introduces the words of prayer",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How and when should the practitioner offer the prayer that follows?",
+   "premises": [
+    "The prayer follows a prior action.",
+    "The prayer must be made with truthful speech.",
+    "The word iti introduces the prayer's content."
+   ],
+   "inference": "Afterward, one should pray with truthful speech as follows.",
+   "uncertainties": [],
+   "plain_english": "Then, with truthful speech, one should pray thus."
+  },
+  {
+   "verse": 234,
+   "rows": [
+    {
+     "surface": "kurve",
+     "gloss": "i-do",
+     "grounds": "first person declaration of action",
+     "morph": "1.sg.mid.pres (√kṛ)"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "gods",
+     "grounds": "deities invoked as witnesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "santu",
+     "gloss": "let-be",
+     "grounds": "imperative expressing wish or invocation",
+     "morph": "3.pl.act.imp (√as)"
+    },
+    {
+     "surface": "sākṣiṇaḥ",
+     "gloss": "witnesses",
+     "grounds": "those who bear witness",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Whom does the practitioner invoke as witnesses to the declared act?",
+   "premises": [
+    "The practitioner declares an act.",
+    "Deities are addressed.",
+    "The deities are asked to be witnesses."
+   ],
+   "inference": "The practitioner invokes the deities to be witnesses.",
+   "uncertainties": [],
+   "plain_english": "I act; let the deities be witnesses."
+  },
+  {
+   "verse": 235,
+   "rows": [
+    {
+     "surface": "pāpāni",
+     "gloss": "sins",
+     "grounds": "accusative plural of pāpa",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "present tense indicating current state",
+     "morph": "3.pl.act.pres (√sthā)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "gods",
+     "grounds": "deities addressed in the prayer",
+     "morph": "f.voc.pl"
+    }
+   ],
+   "question": "What condition regarding sins does the practitioner confess before the deities?",
+   "premises": [
+    "Sins are the subject of the statement.",
+    "The sins are said to remain present.",
+    "The statement is addressed to the deities."
+   ],
+   "inference": "The practitioner confesses that sins remain in him before the deities.",
+   "uncertainties": [],
+   "plain_english": "O deities, my sins remain."
+  },
+  {
+   "verse": 236,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlative introducing manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandṛśyatāṃ",
+     "gloss": "let-be-seen",
+     "grounds": "passive imperative requesting revelation",
+     "morph": "3.sg.pass.imp (sam-√dṛś)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative completing the request",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the practitioner request the deities to reveal regarding the sins?",
+   "premises": [
+    "The prayer concerns the state of sins.",
+    "A request for visibility is made.",
+    "The correlative yathā-tathā frames the request."
+   ],
+   "inference": "The practitioner asks that the sins be revealed as they truly are.",
+   "uncertainties": [],
+   "plain_english": "And let them be seen as they are."
+  },
+  {
+   "verse": 237,
+   "rows": [
+    {
+     "surface": "dakṣakukṣisthitaṃ",
+     "gloss": "right-belly-situated",
+     "grounds": "accusative compound dakṣa+kukṣi+sthita",
+     "morph": "compound: dakṣa+kukṣi+sthita; m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇam",
+     "gloss": "black",
+     "grounds": "describes the appearance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aṅguṣṭhaparimāṇakam",
+     "gloss": "thumb-sized",
+     "grounds": "accusative compound aṅguṣṭha+parimāṇaka",
+     "morph": "compound: aṅguṣṭha+parimāṇaka; m.acc.sg"
+    }
+   ],
+   "question": "What visual form and location characterize the sin-figure to be perceived?",
+   "premises": [
+    "The figure is located in the right side of the belly.",
+    "The figure is black in color.",
+    "The figure is the size of a thumb."
+   ],
+   "inference": "The sin-figure appears as a black, thumb-sized form situated in the right belly.",
+   "uncertainties": [],
+   "plain_english": "One should perceive it as black, thumb-sized, and situated in the right side of the belly."
+  },
+  {
+   "verse": 238,
+   "rows": [
+    {
+     "surface": "gurutalpakaṭīyutam",
+     "gloss": "guru-bed-waist-endowed",
+     "grounds": "accusative compound gurutalpa+kaṭī+yuta describing the figure",
+     "morph": "compound: gurutalpa+kaṭī+yuta; m.acc.sg"
+    }
+   ],
+   "question": "What additional attribute marks the sin-figure associated with grave transgression?",
+   "premises": [
+    "The sin-figure is being further described.",
+    "The description includes association with the guru's bed.",
+    "The attribute is expressed as being endowed with that mark."
+   ],
+   "inference": "The sin-figure is marked by the attribute associated with violating the guru's bed.",
+   "uncertainties": [
+    "The precise iconographic meaning of kaṭīyuta in this compound is uncertain."
+   ],
+   "plain_english": "It is marked by the sign associated with violating the guru's bed."
+  },
+  {
+   "verse": 239,
+   "rows": [
+    {
+     "surface": "duṣṭam",
+     "gloss": "wicked",
+     "grounds": "describes the moral quality of the figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "adhovaktraṃ",
+     "gloss": "downward-faced",
+     "grounds": "accusative compound adhas+vaktra",
+     "morph": "compound: adhas+vaktra; m.acc.sg"
+    },
+    {
+     "surface": "sudussaham",
+     "gloss": "very-hard-to-bear",
+     "grounds": "describes the figure as extremely difficult to endure",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What further qualities intensify the terrifying appearance of the sin-figure?",
+   "premises": [
+    "The figure is morally wicked.",
+    "The figure faces downward.",
+    "The figure is extremely difficult to bear."
+   ],
+   "inference": "The sin-figure appears wicked, downward-faced, and very hard to bear.",
+   "uncertainties": [],
+   "plain_english": "It is wicked, downward-faced, and very hard to bear."
+  },
+  {
+   "verse": 240,
+   "rows": [
+    {
+     "surface": "pāpanaraṃ",
+     "gloss": "sin-man",
+     "grounds": "accusative compound pāpa+nara, personification of sin",
+     "morph": "compound: pāpa+nara; m.acc.sg"
+    },
+    {
+     "surface": "japānte",
+     "gloss": "at-recitation-end",
+     "grounds": "locative compound japa+anta",
+     "morph": "compound: japa+anta; m.loc.sg"
+    },
+    {
+     "surface": "prekṣayet",
+     "gloss": "one-should-behold",
+     "grounds": "optative prescribing visualization",
+     "morph": "3.sg.act.opt (pra-√īkṣ)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the practitioner behold the personified sin-man again?",
+   "premises": [
+    "The object of vision is the personified sin-man.",
+    "The time specified is the end of recitation.",
+    "The act of beholding is to be repeated."
+   ],
+   "inference": "At the end of recitation, one should again behold the sin-man.",
+   "uncertainties": [],
+   "plain_english": "At the end of the recitation, one should again behold the sin-man."
+  },
+  {
+   "verse": 241,
+   "rows": [
+    {
+     "surface": "nirgataṃ",
+     "gloss": "departed",
+     "grounds": "describes the sin as having gone out",
+     "morph": "n.nom.sg (past participle, nis-√gam)"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "the sin that has departed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puraścaraṇayogyatā",
+     "gloss": "preliminary-rite-fitness",
+     "grounds": "compound puraścaraṇa+yogyatā indicating eligibility",
+     "morph": "compound: puraścaraṇa+yogyatā; f.nom.sg"
+    }
+   ],
+   "question": "What condition follows the departure of sin in relation to preliminary rites?",
+   "premises": [
+    "The sin is described as having departed.",
+    "Fitness for preliminary rites is stated.",
+    "The departure of sin and fitness are linked."
+   ],
+   "inference": "Once the sin has departed, fitness for the preliminary rite arises.",
+   "uncertainties": [],
+   "plain_english": "When the sin has departed, there is fitness for the preliminary rite."
+  },
+  {
+   "verse": 242,
+   "rows": [
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-rite",
+     "grounds": "the preparatory ritual practice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg (gerundive, √kṛ)"
+    },
+    {
+     "surface": "tāntrikairjanaiḥ",
+     "gloss": "by-tāntrika-people",
+     "grounds": "instrumental compound tāntrika+jana",
+     "morph": "compound: tāntrika+jana; m.ins.pl"
+    }
+   ],
+   "question": "Who is obligated to perform the preliminary rite after attaining fitness?",
+   "premises": [
+    "The preliminary rite is prescribed.",
+    "The obligation is expressed as something to be done.",
+    "Tāntrika people are the agents."
+   ],
+   "inference": "Tāntrika people must perform the preliminary rite.",
+   "uncertainties": [],
+   "plain_english": "The preliminary rite should be performed by tāntrika people."
+  },
+  {
+   "verse": 243,
+   "rows": [
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act.opt (√kṛ)"
+    },
+    {
+     "surface": "cakrapūjāṃ",
+     "gloss": "circle-worship",
+     "grounds": "accusative compound cakra+pūjā",
+     "morph": "compound: cakra+pūjā; f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "locative indicating time",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What practices should be performed at night as part of the rite?",
+   "premises": [
+    "Recitation is prescribed.",
+    "Circle worship is likewise prescribed.",
+    "The time for these practices is night."
+   ],
+   "inference": "One should perform recitation and likewise circle worship at night.",
+   "uncertainties": [],
+   "plain_english": "One should perform recitation and likewise circle worship at night."
+  },
+  {
+   "verse": 244,
+   "rows": [
+    {
+     "surface": "siddhim",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "one-obtains",
+     "grounds": "present tense stating result",
+     "morph": "3.sg.act.pres (ava-√āp)"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negation of alternative means",
+     "morph": "compound: na+anyathā; (indecl.)"
+    },
+    {
+     "surface": "japakoṭibhiḥ",
+     "gloss": "by-recitation-crores",
+     "grounds": "instrumental compound japa+koṭi indicating vast recitation",
+     "morph": "compound: japa+koṭi; f.ins.pl"
+    }
+   ],
+   "question": "By what means is success obtained and by what means is it not obtained?",
+   "premises": [
+    "Success is said to be obtained.",
+    "An alternative of mere vast recitation is rejected.",
+    "The prescribed method is implied as necessary."
+   ],
+   "inference": "Success is obtained by the prescribed method, not merely by crores of recitations.",
+   "uncertainties": [],
+   "plain_english": "One obtains success, and not otherwise, not even by crores of recitations."
+  },
+  {
+   "verse": 245,
+   "rows": [
+    {
+     "surface": "vidhavāyāḥ",
+     "gloss": "of-widow",
+     "grounds": "genitive indicating the woman concerned",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vivāham",
+     "gloss": "marriage",
+     "grounds": "the marriage rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pippalenaiva",
+     "gloss": "with-pippala-alone",
+     "grounds": "instrumental of pippala with emphatic eva",
+     "morph": "m.ins.sg + (indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "causative optative prescribing the act",
+     "morph": "3.sg.act.caus.opt (√kṛ)"
+    }
+   ],
+   "question": "With what ritual substitute should a widow's marriage be performed?",
+   "premises": [
+    "The marriage of a widow is under consideration.",
+    "A specific substitute is prescribed.",
+    "The substitute is the pippala tree alone."
+   ],
+   "inference": "One should cause a widow's marriage to be performed with the pippala tree alone.",
+   "uncertainties": [],
+   "plain_english": "Indeed, one should have a widow's marriage performed with the pippala tree alone."
+  },
+  {
+   "verse": 246,
+   "rows": [
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative in conditional context",
+     "morph": "3.sg.act.opt (√kṛ)"
+    },
+    {
+     "surface": "anyam",
+     "gloss": "another",
+     "grounds": "accusative indicating a different person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral qualifying the husband",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates an alternative case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patim",
+     "gloss": "husband",
+     "grounds": "accusative object of making or taking",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What alternative marital arrangement is considered if another husband is taken?",
+   "premises": [
+    "A conditional case is introduced.",
+    "Another husband may be taken.",
+    "The verse states this as an alternative possibility."
+   ],
+   "inference": "If one were to take another husband, that alternative case is likewise considered.",
+   "uncertainties": [
+    "The normative stance toward taking another husband is not fully explicit in this verse alone."
+   ],
+   "plain_english": "If one should likewise take another single husband."
+  },
+  {
+   "verse": 247,
+   "rows": [
+    {
+     "surface": "vaidikaḥ",
+     "gloss": "vedic",
+     "grounds": "follower of the Vedic path",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāntrikaḥ",
+     "gloss": "tāntrika",
+     "grounds": "follower of the tantric path",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasthāne",
+     "gloss": "in-god-place",
+     "grounds": "locative compound deva+sthāna",
+     "morph": "compound: deva+sthāna; n.loc.sg"
+    },
+    {
+     "surface": "svadevatām",
+     "gloss": "own-deity",
+     "grounds": "accusative compound sva+devatā",
+     "morph": "compound: sva+devatā; f.acc.sg"
+    }
+   ],
+   "question": "Where should both Vedic and tāntrika practitioners worship their own deity?",
+   "premises": [
+    "Both Vedic and tāntrika practitioners are included.",
+    "The place specified is the god's place.",
+    "Each worships their own deity."
+   ],
+   "inference": "Both Vedic and tāntrika practitioners should worship their own deity there in the god's place.",
+   "uncertainties": [],
+   "plain_english": "There, in the god's place, the Vedic and the tāntrika should worship their own deity."
+  },
+  {
+   "verse": 248,
+   "rows": [
+    {
+     "surface": "yajamānasya",
+     "gloss": "of-sacrificer",
+     "grounds": "genitive indicating the patron or performer",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mārgasthaḥ",
+     "gloss": "path-situated",
+     "grounds": "compound mārga+stha indicating adherence to a path",
+     "morph": "compound: mārga+stha; m.nom.sg"
+    },
+    {
+     "surface": "tadabhāvataḥ",
+     "gloss": "in-its-absence",
+     "grounds": "ablative compound tad+abhāva indicating absence",
+     "morph": "compound: tad+abhāva; m.abl.sg"
+    }
+   ],
+   "question": "Whose path is followed and what condition applies in the absence of that arrangement?",
+   "premises": [
+    "The sacrificer is the reference point.",
+    "One is situated in the sacrificer's path.",
+    "An alternative applies in the absence of that."
+   ],
+   "inference": "One follows the path of the sacrificer, or acts according to the alternative in its absence.",
+   "uncertainties": [
+    "The exact referent of tad in tadabhāvataḥ is context-dependent."
+   ],
+   "plain_english": "One follows the path of the sacrificer, and in its absence acts accordingly."
+  },
+  {
+   "verse": 249,
+   "rows": [
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "members of the twice-born classes",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kaulamārgāḥ",
+     "gloss": "kaula-path-followers",
+     "grounds": "compound kaula+mārga indicating followers of the Kaula path",
+     "morph": "compound: kaula+mārga; m.nom.pl"
+    },
+    {
+     "surface": "cakrārcane",
+     "gloss": "in-circle-worship",
+     "grounds": "locative compound cakra+arcana",
+     "morph": "compound: cakra+arcana; n.loc.sg"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "regarded",
+     "grounds": "past participle indicating accepted view",
+     "morph": "m.nom.pl (past participle, √man)"
+    }
+   ],
+   "question": "How are twice-born followers of the Kaula path regarded in circle worship?",
+   "premises": [
+    "Twice-born followers of the Kaula path are the subject.",
+    "The context is circle worship.",
+    "They are regarded in a particular way."
+   ],
+   "inference": "Twice-born followers of the Kaula path are regarded as participants in circle worship.",
+   "uncertainties": [
+    "The specific status or role implied by matāḥ is not fully explicit."
+   ],
+   "plain_english": "Twice-born followers of the Kaula path are regarded as such in circle worship."
+  }
+ ]
+}

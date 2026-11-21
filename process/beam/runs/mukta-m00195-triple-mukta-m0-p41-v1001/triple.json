@@ -1,0 +1,1209 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1001,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "fire whose flame is addressed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jvālā",
+     "gloss": "flame",
+     "grounds": "object to be removed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirāsāya",
+     "gloss": "for-removal",
+     "grounds": "purpose of the action",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "hṛn",
+     "gloss": "heart-mantra",
+     "grounds": "mantra syllable used in rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of removal",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "with-kusha-grass",
+     "grounds": "ritual material used",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence in ritual procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means is the flame of fire removed during ritual preparation?",
+   "premises": [
+    "The flame of fire requires removal in the ritual sequence.",
+    "The heart-mantra serves as the operative mantra.",
+    "Kusha grass is employed as the ritual instrument."
+   ],
+   "inference": "The fire's flame is removed using kusha grass together with the heart-mantra.",
+   "uncertainties": [],
+   "plain_english": "Then, for the removal of the fire's flame, one should use kusha grass with the heart-mantra."
+  },
+  {
+   "verse": 1002,
+   "rows": [
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "with-kusha-grass",
+     "grounds": "ritual material applied",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "astra",
+     "gloss": "weapon",
+     "grounds": "first member of compound naming mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantritaiḥ",
+     "gloss": "consecrated-by-mantra",
+     "grounds": "kusha grass empowered by weapon-mantra",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kuṇḍa",
+     "gloss": "fire-pit",
+     "grounds": "first member of compound locating action",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhittiṣu",
+     "gloss": "on-walls",
+     "grounds": "place where action is performed",
+     "morph": "f.loc.pl"
+    }
+   ],
+   "question": "How are the walls of the fire pit ritually treated with consecrated kusha grass?",
+   "premises": [
+    "Kusha grass is used in the purification procedure.",
+    "The kusha grass is consecrated with the weapon-mantra.",
+    "The action is performed on the walls of the fire pit."
+   ],
+   "inference": "The fire pit's walls are treated with kusha grass consecrated by the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "Then, with kusha grass consecrated by the weapon-mantra, one should act upon the walls of the fire pit."
+  },
+  {
+   "verse": 1003,
+   "rows": [
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "m.nom.pl.past-passive-participle"
+    },
+    {
+     "surface": "saṃskārāḥ",
+     "gloss": "purifications",
+     "grounds": "ritual consecratory acts",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dhṛti",
+     "gloss": "steadfastness",
+     "grounds": "first member indicating number eighteen",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sammitāḥ",
+     "gloss": "equal-in-number",
+     "grounds": "counted as equal to dhṛti",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many purificatory rites are declared for this stage of the ritual?",
+   "premises": [
+    "Purificatory rites are being enumerated.",
+    "Their number is equated with dhṛti.",
+    "Dhṛti conventionally signifies the number eighteen."
+   ],
+   "inference": "The declared purifications are eighteen in number.",
+   "uncertainties": [
+    "dhṛti is taken as the numerical symbol for eighteen by convention"
+   ],
+   "plain_english": "The purifications are declared to be equal in number to dhṛti, that is, eighteen."
+  },
+  {
+   "verse": 1004,
+   "rows": [
+    {
+     "surface": "saṃskārāḥ",
+     "gloss": "purifications",
+     "grounds": "ritual consecratory acts",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ādyāḥ",
+     "gloss": "first",
+     "grounds": "initial in the sequence",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "catvāraḥ",
+     "gloss": "four",
+     "grounds": "specific count",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "for",
+     "grounds": "explanatory particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many initial purifications are specifically identified at the beginning of the sequence?",
+   "premises": [
+    "The purifications form an ordered sequence.",
+    "The initial subset is being specified.",
+    "The count of that subset is four."
+   ],
+   "inference": "The first purifications in the sequence are exactly four.",
+   "uncertainties": [],
+   "plain_english": "For the first purifications are indeed four."
+  },
+  {
+   "verse": 1005,
+   "rows": [
+    {
+     "surface": "prāṅ",
+     "gloss": "east",
+     "grounds": "first member indicating direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mukha",
+     "gloss": "facing",
+     "grounds": "second member indicating orientation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agrāṇāṃ",
+     "gloss": "of-tips",
+     "grounds": "tips oriented eastward",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "deities to be invoked or drawn",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "first deity named",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśa",
+     "gloss": "īśa",
+     "grounds": "second deity named",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāsavāḥ",
+     "gloss": "vāsava-and-others",
+     "grounds": "group including Vāsava",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which deities are associated with the east-facing tips in this ritual arrangement?",
+   "premises": [
+    "The tips are oriented toward the east.",
+    "Specific deities are assigned to this arrangement.",
+    "The named deities include Viṣṇu, Īśa, and Vāsava."
+   ],
+   "inference": "The gods Viṣṇu, Īśa, and Vāsava are associated with the east-facing tips.",
+   "uncertainties": [],
+   "plain_english": "For the east-facing tips, the gods are Viṣṇu, Īśa, and Vāsava."
+  },
+  {
+   "verse": 1006,
+   "rows": [
+    {
+     "surface": "vilikhet",
+     "gloss": "one-should-draw",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-active √likh"
+    },
+    {
+     "surface": "darbha",
+     "gloss": "darbha",
+     "grounds": "first member naming material",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāṇḍena",
+     "gloss": "with-stalk",
+     "grounds": "instrument used for drawing",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "first member indicating path",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "on-path",
+     "grounds": "location or manner of drawing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "astra",
+     "gloss": "weapon",
+     "grounds": "first member naming mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "with-mantra",
+     "grounds": "accompanied by weapon-mantra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what instrument and mantra should one draw along the leftward path?",
+   "premises": [
+    "A drawing action is prescribed.",
+    "A darbha stalk is the instrument.",
+    "The action follows the left path and uses the weapon-mantra."
+   ],
+   "inference": "One should draw on the left path with a darbha stalk using the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "One should draw with a darbha stalk along the left path, using the weapon-mantra."
+  },
+  {
+   "verse": 1007,
+   "rows": [
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "first deity in group",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "īśa",
+     "gloss": "īśa",
+     "grounds": "second deity in group",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāsava",
+     "gloss": "vāsava",
+     "grounds": "third deity in group",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādīnāṃ",
+     "gloss": "and-others",
+     "grounds": "indicates additional members of group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ṣaṇṇāṃ",
+     "gloss": "of-six",
+     "grounds": "total number in the group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "ritual act prescribed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What worship is prescribed there for the group of six deities beginning with Viṣṇu, Īśa, and Vāsava?",
+   "premises": [
+    "A group of six deities is identified.",
+    "The group begins with Viṣṇu, Īśa, and Vāsava.",
+    "Worship is prescribed at that location."
+   ],
+   "inference": "Worship of the six deities beginning with Viṣṇu, Īśa, and Vāsava is to be performed there.",
+   "uncertainties": [
+    "the remaining three deities are not named in this verse"
+   ],
+   "plain_english": "There, indeed, worship is to be performed for the six deities beginning with Viṣṇu, Īśa, and Vāsava."
+  },
+  {
+   "verse": 1008,
+   "rows": [
+    {
+     "surface": "praṇavena",
+     "gloss": "with-praṇava",
+     "grounds": "sacred syllable used in worship",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence in ritual procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "first member of compound naming seat",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "ritual seat to be worshipped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-active √arc"
+    }
+   ],
+   "question": "How should the yoga seat be worshipped in the next stage of the rite?",
+   "premises": [
+    "The ritual proceeds to a new stage.",
+    "The yoga seat is the object of worship.",
+    "The praṇava is the mantra to be used."
+   ],
+   "inference": "One should worship the yoga seat with the praṇava.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship the yoga seat with the praṇava."
+  },
+  {
+   "verse": 1009,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the previously mentioned seat",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "location relative to the seat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "with-power",
+     "grounds": "first member indicating union with śakti",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "united",
+     "grounds": "joined with śakti",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "prescribed contemplative act",
+     "morph": "3.sg.optative-active √cint"
+    }
+   ],
+   "question": "What should be visualized above the yoga seat in union with śakti?",
+   "premises": [
+    "The yoga seat has already been established.",
+    "A visualization above it is prescribed.",
+    "The object visualized is united with śakti."
+   ],
+   "inference": "One should visualize that which is united with śakti above the yoga seat.",
+   "uncertainties": [
+    "the specific referent of the neuter object is supplied by context"
+   ],
+   "plain_english": "Above that, one should visualize what is united with śakti."
+  },
+  {
+   "verse": 1010,
+   "rows": [
+    {
+     "surface": "śvetadvīpaṃ",
+     "gloss": "white-island",
+     "grounds": "mythic realm to be contemplated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of contemplation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintyaṃ",
+     "gloss": "to-be-contemplated",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg.future-passive-participle"
+    },
+    {
+     "surface": "sudhā",
+     "gloss": "nectar",
+     "grounds": "first member describing surrounding ocean",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sindhu",
+     "gloss": "ocean",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "suveṣṭitam",
+     "gloss": "well-surrounded",
+     "grounds": "encircled by ocean of nectar",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What realm should be contemplated there as surrounded by an ocean of nectar?",
+   "premises": [
+    "A contemplative object is prescribed at that location.",
+    "The object is Śvetadvīpa.",
+    "Śvetadvīpa is surrounded by an ocean of nectar."
+   ],
+   "inference": "One should contemplate Śvetadvīpa there, surrounded by an ocean of nectar.",
+   "uncertainties": [],
+   "plain_english": "There one should contemplate Śvetadvīpa, well surrounded by an ocean of nectar."
+  },
+  {
+   "verse": 1011,
+   "rows": [
+    {
+     "surface": "kalpa",
+     "gloss": "wish-fulfilling",
+     "grounds": "first member describing trees",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛkṣān",
+     "gloss": "trees",
+     "grounds": "objects of contemplation and worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of contemplation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ciṃtayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "prescribed contemplative act",
+     "morph": "3.sg.optative-active √cint"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual act",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional objects in that realm should be both contemplated and worshipped?",
+   "premises": [
+    "The visualization continues in the same realm.",
+    "Wish-fulfilling trees are present there.",
+    "Both contemplation and worship are prescribed for them."
+   ],
+   "inference": "One should contemplate and also worship the wish-fulfilling trees there.",
+   "uncertainties": [],
+   "plain_english": "There one should contemplate and also worship the wish-fulfilling trees."
+  },
+  {
+   "verse": 1012,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "location within that realm",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the seat or structure",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pādān",
+     "gloss": "feet",
+     "grounds": "supports to be visualized",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "prescribed contemplative act",
+     "morph": "3.sg.optative-active √cint"
+    }
+   ],
+   "question": "What structural supports should be visualized in the middle of that contemplated realm?",
+   "premises": [
+    "The visualization focuses on the middle of that realm.",
+    "The supports of that structure are specified.",
+    "Visualization of these supports is prescribed."
+   ],
+   "inference": "One should visualize its feet in the middle of that realm.",
+   "uncertainties": [
+    "the referent of tasya is contextually the yoga seat or pīṭha"
+   ],
+   "plain_english": "In its middle, one should visualize its feet."
+  },
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "aiśvaryam",
+     "gloss": "sovereignty",
+     "grounds": "power identified as part of seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "components of the seat",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-seat",
+     "grounds": "possessor of the limbs",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "uktāni",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "n.nom.pl.past-passive-participle"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location in the ritual schema",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What components are declared to constitute the limbs of the ritual seat in that context?",
+   "premises": [
+    "The seat possesses constituent limbs.",
+    "Sovereignty is included among these components.",
+    "These components are declared in the teaching."
+   ],
+   "inference": "Sovereignty and the limbs of the seat are declared as its components there.",
+   "uncertainties": [],
+   "plain_english": "There, sovereignty and the limbs of the seat are indeed declared."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the seat",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "uktāḥ",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "m.nom.pl.past-passive-participle"
+    },
+    {
+     "surface": "vikāra",
+     "gloss": "transformation",
+     "grounds": "first member describing composition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "maya",
+     "gloss": "consisting-of",
+     "grounds": "second member indicating material nature",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kesarāḥ",
+     "gloss": "filaments",
+     "grounds": "parts of the seat likened to lotus filaments",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Of what nature are the filaments of the ritual seat declared to consist?",
+   "premises": [
+    "The seat has filaments as parts.",
+    "These filaments are described in the teaching.",
+    "They are said to consist of transformations."
+   ],
+   "inference": "The filaments of that seat are declared to consist of transformations.",
+   "uncertainties": [
+    "vikāra-maya may refer to specific cosmic transformations in this system"
+   ],
+   "plain_english": "Its filaments are declared to consist of transformations."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "pāvakasya",
+     "gloss": "of-fire",
+     "grounds": "fire as the locus of circles",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "maṇḍala",
+     "gloss": "circle",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tritayaṃ",
+     "gloss": "triad",
+     "grounds": "threefold set of circles",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence in ritual procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What threefold structure of fire is introduced at this stage of the visualization?",
+   "premises": [
+    "The ritual visualization proceeds to a new element.",
+    "Fire is the subject of this element.",
+    "A triad of circles belonging to fire is specified."
+   ],
+   "inference": "Then the triad of fire's circles is introduced.",
+   "uncertainties": [],
+   "plain_english": "Then comes the triad of the circles of fire."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "antar",
+     "gloss": "inner",
+     "grounds": "first member qualifying self",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yutaḥ",
+     "gloss": "united-with",
+     "grounds": "joined with inner self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "individual self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "first member qualifying self",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "supreme self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence in enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "transcending the previous",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ascending sequence of selves is articulated in this stage of the teaching?",
+   "premises": [
+    "A sequence of self-levels is being enumerated.",
+    "The inner self and the self are included.",
+    "The supreme self and what is beyond follow in order."
+   ],
+   "inference": "The sequence moves from the inner self and self to the supreme self and beyond.",
+   "uncertainties": [],
+   "plain_english": "United with the inner self, there is the self, then the supreme self, and then what is beyond."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "first member naming principle",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "knowledge principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the next principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "supreme principle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "first member naming seat",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "ritual seat identified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "n.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "How is the yoga seat identified in terms of the knowledge principle and the supreme principle?",
+   "premises": [
+    "The knowledge principle is named.",
+    "The supreme principle is named.",
+    "The yoga seat is identified in relation to them."
+   ],
+   "inference": "The yoga seat is declared as the knowledge principle and the supreme principle.",
+   "uncertainties": [],
+   "plain_english": "The knowledge principle and the supreme principle are thus declared to be the yoga seat."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual act",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "refers to goddesses to be named",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "jayām",
+     "gloss": "jayā",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayāṃ",
+     "gloss": "vijayā",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are first prescribed for worship in this sequence of invocations?",
+   "premises": [
+    "Worship of specific goddesses is prescribed.",
+    "Jayā is named among them.",
+    "Vijayā is named likewise."
+   ],
+   "inference": "One should worship these goddesses, namely Jayā and likewise Vijayā.",
+   "uncertainties": [],
+   "plain_english": "One should worship these goddesses: Jayā and likewise Vijayā."
+  },
+  {
+   "verse": 1019,
+   "rows": [
+    {
+     "surface": "dogdhrīm",
+     "gloss": "dogdhrī",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aghorām",
+     "gloss": "aghorā",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṅgalām",
+     "gloss": "maṅgalā",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence in ritual procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional goddesses are to be worshipped in continuation of the same sequence?",
+   "premises": [
+    "The list of goddesses continues.",
+    "Dogdhrī and Aghorā are named.",
+    "Maṅgalā is named likewise in that context."
+   ],
+   "inference": "One should also worship Dogdhrī, Aghorā, and likewise Maṅgalā there.",
+   "uncertainties": [],
+   "plain_english": "Then there, indeed, one should worship Dogdhrī, Aghorā, and likewise Maṅgalā."
+  },
+  {
+   "verse": 1020,
+   "rows": [
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-fire-pit",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribed ritual act",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "bhuvaneśvarīm",
+     "gloss": "bhuvaneśvarī",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which goddess is specifically prescribed for worship within the fire pit?",
+   "premises": [
+    "The fire pit is the designated location.",
+    "Worship is prescribed there.",
+    "Bhuvaneśvarī is the deity named."
+   ],
+   "inference": "One should worship Bhuvaneśvarī in the fire pit.",
+   "uncertainties": [],
+   "plain_english": "In the fire pit, one should worship Bhuvaneśvarī."
+  },
+  {
+   "verse": 1021,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "deity to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ṛtumatīṃ",
+     "gloss": "ṛtumatī",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddess is likewise to be worshipped at that same ritual location?",
+   "premises": [
+    "The ritual location remains the same.",
+    "Another goddess is prescribed for worship.",
+    "The goddess named is Ṛtumatī."
+   ],
+   "inference": "One should likewise worship the goddess Ṛtumatī there.",
+   "uncertainties": [],
+   "plain_english": "There, likewise, one should worship the goddess Ṛtumatī."
+  },
+  {
+   "verse": 1022,
+   "rows": [
+    {
+     "surface": "saure",
+     "gloss": "in-solar-rite",
+     "grounds": "ritual context specified",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lakṣmīm",
+     "gloss": "lakṣmī",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ṛtumatīṃ",
+     "gloss": "ṛtumatī",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescribed contemplative act",
+     "morph": "3.sg.optative-active √smṛ"
+    }
+   ],
+   "question": "Which goddesses should be remembered in the context of a solar rite?",
+   "premises": [
+    "The ritual context is a solar rite.",
+    "Remembrance is prescribed instead of or alongside worship.",
+    "Lakṣmī and Ṛtumatī are named."
+   ],
+   "inference": "In a solar rite, one should remember Lakṣmī and Ṛtumatī.",
+   "uncertainties": [],
+   "plain_english": "In a solar rite, one should remember Lakṣmī and Ṛtumatī."
+  },
+  {
+   "verse": 1023,
+   "rows": [
+    {
+     "surface": "vipra",
+     "gloss": "brahmin",
+     "grounds": "first member indicating source house",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gehāt",
+     "gloss": "from-house",
+     "grounds": "source from which fire may be taken",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribed act of providing fire",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "agniṃ",
+     "gloss": "fire",
+     "grounds": "ritual fire to be obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kumārikā",
+     "gloss": "maiden",
+     "grounds": "alternative provider of fire",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "From what sources may the ritual fire be obtained according to this instruction?",
+   "premises": [
+    "The ritual requires obtaining fire.",
+    "A brahmin's house is named as one source.",
+    "A maiden is named as an alternative source."
+   ],
+   "inference": "The fire may be taken from a brahmin's house or given by a maiden.",
+   "uncertainties": [],
+   "plain_english": "One may take the fire from a brahmin's house, or a maiden may give it."
+  },
+  {
+   "verse": 1024,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hite",
+     "gloss": "placed",
+     "grounds": "fire placed in a vessel",
+     "morph": "m.loc.sg.past-passive-participle"
+    },
+    {
+     "surface": "tāmra",
+     "gloss": "copper",
+     "grounds": "first member describing vessel",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pātra",
+     "gloss": "vessel",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādike",
+     "gloss": "and-so-forth",
+     "grounds": "indicates similar vessels",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "auspicious",
+     "grounds": "qualifies the vessel",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what kind of vessel should the obtained ritual fire be placed?",
+   "premises": [
+    "The fire has been obtained for the rite.",
+    "It must be placed in a suitable vessel.",
+    "A copper vessel and similar auspicious vessels are indicated."
+   ],
+   "inference": "The fire should be placed in an auspicious copper vessel or the like.",
+   "uncertainties": [],
+   "plain_english": "And also, when placed in an auspicious copper vessel or the like."
+  }
+ ]
+}

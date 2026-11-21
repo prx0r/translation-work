@@ -1,0 +1,16 @@
+{
+ "song": "mukta-m0-p187",
+ "verse": 4675,
+ "question": "What does the colophon declare about the completion of the ninth kautuka treasury in the Śrītattvanidhi?",
+ "premises": [
+  "The line is a colophon.",
+  "It names the Śrītattvanidhi.",
+  "It states the ninth kautuka nidhi is completed."
+ ],
+ "inference": "The ninth kautuka treasury of the Śrītattvanidhi is declared complete.",
+ "uncertainties": [
+  "The supplied line is treated as one token despite internal spaces.",
+  "Sandhi and word boundaries are not separately resolved."
+ ],
+ "plain_english": "Thus, in the text called Śrītattvanidhi, the ninth kautuka treasury is completed."
+}

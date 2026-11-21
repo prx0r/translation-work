@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p207",
+ "items": [
+  {
+   "verse": 5175,
+   "rows": [
+    {
+     "surface": "kuṇḍāṇi",
+     "gloss": "fire-pits",
+     "grounds": "ritual fire-pits used in the ceremony",
+     "morph": "n.nom.pl.nt"
+    },
+    {
+     "surface": "aśrāṇi",
+     "gloss": "square",
+     "grounds": "having corners; polygonal in shape",
+     "morph": "n.nom.pl.nt"
+    },
+    {
+     "surface": "vṛttāni",
+     "gloss": "round",
+     "grounds": "circular in shape",
+     "morph": "n.nom.pl.nt"
+    },
+    {
+     "surface": "taddigaśrāṇi",
+     "gloss": "oriented-to-those-directions",
+     "grounds": "compound: tad-diś-aśrāṇi; having corners aligned with those directions",
+     "morph": "compound n.nom.pl.nt"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "they",
+     "grounds": "refers back to the fire-pits",
+     "morph": "pron.nom.pl.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative permissible options",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative shapes or orientations are permissible for the ritual fire-pits?",
+   "premises": [
+    "The fire-pits may be square.",
+    "The fire-pits may be round.",
+    "The fire-pits may be oriented toward those directions."
+   ],
+   "inference": "Multiple alternative shapes and orientations are permitted for the ritual fire-pits.",
+   "uncertainties": [
+    "The specific directions indicated by taddiś are inferred from the preceding context."
+   ],
+   "plain_english": "The fire-pits may be square, round, or oriented toward those directions."
+  }
+ ]
+}

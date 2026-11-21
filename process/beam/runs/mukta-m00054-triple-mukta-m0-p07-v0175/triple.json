@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle indicating completion of the preceding exposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee of the teaching",
+     "morph": "d.sg"
+    },
+    {
+     "surface": "kathitam",
+     "gloss": "told",
+     "grounds": "declared or communicated teaching",
+     "morph": "n.nom.sg.ppp √kath"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "direct address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "guhyāt",
+     "gloss": "than-secret",
+     "grounds": "standard of secrecy surpassed by the teaching",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "guhyataram",
+     "gloss": "more-secret",
+     "grounds": "comparative degree indicating greater secrecy",
+     "morph": "n.nom.sg.comparative"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "highest or ultimate status of the teaching",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What level of secrecy characterizes the supreme teaching declared to the goddess?",
+   "premises": [
+    "The speaker directly addresses the goddess.",
+    "A teaching has been declared to the addressee.",
+    "The declared teaching is more secret than the secret.",
+    "The declared teaching is characterized as supreme."
+   ],
+   "inference": "Thus a supreme teaching, surpassing even the secret in secrecy, has been communicated to the goddess.",
+   "uncertainties": [
+    "The exact referent of the preceding teaching summarized by iti is not specified within this verse."
+   ],
+   "plain_english": "Thus, O goddess, what is more secret than the secret, the supreme, has been told to you."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "dakṣaiḥ",
+     "gloss": "right-hands",
+     "grounds": "dakṣa right hand instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "aṃkuśa+pustakeṣu+kusumaṃ+khaḍgaṃ+kapāla+abhayaṃ",
+     "gloss": "goad-book-flower-sword-skull-fearlessness",
+     "grounds": "six objects in accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "māṇikya+ābharaṇa+ujjvalāṃ",
+     "gloss": "maṇikya-ornament-radiant",
+     "grounds": "radiant with maṇikya ornaments accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tri+ṇayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "three eyes accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nityāṃ",
+     "gloss": "eternal",
+     "grounds": "eternal accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhavānīṃ",
+     "gloss": "bhavānī",
+     "grounds": "Bhavānī accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "worship",
+     "grounds": "first person singular present active of bhaj",
+     "morph": "1.sg.act-pres root bhaj"
+    },
+    {
+     "surface": "rakta+varṇaḥ",
+     "gloss": "red-color",
+     "grounds": "red color nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which eternal three-eyed goddess is worshipped with red color and six right-hand attributes?",
+   "premises": [
+    "Bhavānī is eternal and three-eyed.",
+    "Her right hands hold six listed objects.",
+    "The worshipper describes her as red-colored."
+   ],
+   "inference": "The verse identifies Bhavānī as the red-colored eternal goddess worshipped with those attributes.",
+   "uncertainties": [
+    "Compound boundaries and exact object list depend on sandhi."
+   ],
+   "plain_english": "With right hands holding goad, book, flower, sword, skull, and fearlessness, radiant with maṇikya ornaments, three-eyed, eternal Bhavānī, I worship, red-colored."
+  }
+ ]
+}

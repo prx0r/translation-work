@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1775,
+   "rows": [
+    {
+     "surface": "śikhāsūtraparityāgāt",
+     "gloss": "tuft-thread-abandonment",
+     "grounds": "ablative compound expressing cause; śikhā = tuft, sūtra = sacred thread, parityāga = abandonment",
+     "morph": "compound:śikhā-sūtra-parityāga+abl.sg.m"
+    },
+    {
+     "surface": "dehī",
+     "gloss": "embodied-one",
+     "grounds": "the one possessing a body, subject of transformation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmamayaḥ",
+     "gloss": "brahman-consisting",
+     "grounds": "composed of or identified with brahman",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "expresses potential or resulting state",
+     "morph": "3.sg.act.opt~bhū"
+    }
+   ],
+   "question": "What state does the embodied one attain through abandoning the tuft and sacred thread?",
+   "premises": [
+    "Abandonment of the tuft and sacred thread takes place",
+    "The embodied one is the subject of this abandonment",
+    "Such abandonment effects a transformation into a brahman-consisting state"
+   ],
+   "inference": "Therefore the embodied one becomes brahman-consisting",
+   "uncertainties": [],
+   "plain_english": "Through abandoning the tuft and sacred thread, the embodied one becomes consisting of Brahman."
+  }
+ ]
+}

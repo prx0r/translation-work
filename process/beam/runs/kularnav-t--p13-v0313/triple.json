@@ -1,0 +1,587 @@
+{
+ "song": "kul-p13",
+ "items": [
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "āvayoḥ",
+     "gloss": "of-us",
+     "grounds": "genitive dual pronoun",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "paramākāram",
+     "gloss": "supreme-form",
+     "grounds": "accusative object of vetti",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "root vid present active",
+     "morph": "3.sg.act-pres (vid)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "shiva",
+     "grounds": "predicate nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who knows the supreme form of us two?",
+   "premises": [
+    "The knower of supreme form is shiva himself."
+   ],
+   "inference": "Recognition of the supreme form identifies the knower with shiva.",
+   "uncertainties": [
+    "paramākāram may be accusative object or predicate."
+   ],
+   "plain_english": "He who knows our supreme form is himself shiva."
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "niśvāsocchvāsarūpeṇa",
+     "gloss": "by-exhalation-inhalation-form",
+     "grounds": "instrumental compound",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varttate",
+     "gloss": "exists",
+     "grounds": "root vṛt present middle",
+     "morph": "3.sg.mid-pres (vṛt)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How does this mantra exist in beloved?",
+   "premises": [
+    "The mantra exists as exhalation and inhalation."
+   ],
+   "inference": "Mantra is identified with breath movement.",
+   "uncertainties": [
+    "rūpeṇa may modify mantra or existence."
+   ],
+   "plain_english": "This mantra exists, beloved, in the form of exhalation and inhalation."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "parāprasādamantreṇa",
+     "gloss": "without-supreme-grace-mantra",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lokaḥ",
+     "gloss": "world",
+     "grounds": "subject nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What happens to world without supreme grace mantra?",
+   "premises": [
+    "The world is thus without supreme grace mantra."
+   ],
+   "inference": "Supreme grace mantra is necessary for worldly order.",
+   "uncertainties": [
+    "parāprasāda may mean supreme grace or supreme prasāda."
+   ],
+   "plain_english": "Thus, beloved, the world is without the supreme grace mantra."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "abhinnaṃ",
+     "gloss": "undivided",
+     "grounds": "accusative predicate",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-reality",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tālavṛnte",
+     "gloss": "as-in-fan",
+     "grounds": "locative comparison",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yathānilaḥ",
+     "gloss": "like-wind",
+     "grounds": "nominative comparison",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is reality undivided like wind in fan?",
+   "premises": [
+    "Reality is undivided like wind in a fan."
+   ],
+   "inference": "The supreme reality remains one despite apparent movement.",
+   "uncertainties": [
+    "tālavṛnte may be locative of comparison."
+   ],
+   "plain_english": "In reality, goddess, it is undivided, like wind in a fan."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "candre",
+     "gloss": "in-moon",
+     "grounds": "locative of presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jyotsnā",
+     "gloss": "moonlight",
+     "grounds": "subject nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "analaḥ",
+     "gloss": "fire",
+     "grounds": "subject nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāṣṭhe",
+     "gloss": "in-wood",
+     "grounds": "locative of presence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gandhaḥ",
+     "gloss": "fragrance",
+     "grounds": "subject nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣpe",
+     "gloss": "in-flower",
+     "grounds": "locative of presence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dravaḥ",
+     "gloss": "fluid",
+     "grounds": "subject nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "locative of presence",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where do moonlight fire fragrance and fluid reside?",
+   "premises": [
+    "Moonlight is in moon, fire in wood, fragrance in flower, fluid in water."
+   ],
+   "inference": "Each quality inheres in its proper substrate.",
+   "uncertainties": [
+    "analaḥ may be fire or digestive fire."
+   ],
+   "plain_english": "Moonlight is in the moon, fire in wood, fragrance in flower, and fluid in water."
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "śarkarāyām",
+     "gloss": "in-sugar",
+     "grounds": "locative of presence",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mādhuryam",
+     "gloss": "sweetness",
+     "grounds": "subject nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ghanasāre",
+     "gloss": "in-camphor",
+     "grounds": "locative of presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śītalam",
+     "gloss": "coolness",
+     "grounds": "subject nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where do sweetness and coolness reside?",
+   "premises": [
+    "Sweetness is in sugar and coolness in camphor."
+   ],
+   "inference": "Qualities inhere in their natural substrates.",
+   "uncertainties": [
+    "ghanasāra may mean camphor or dense essence."
+   ],
+   "plain_english": "Sweetness is in sugar, and coolness is in camphor."
+  },
+  {
+   "verse": 319,
+   "rows": [
+    {
+     "surface": "parāprasādamantre",
+     "gloss": "in-supreme-grace-mantra",
+     "grounds": "locative of presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapañcaḥ",
+     "gloss": "this-world",
+     "grounds": "subject nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "stands",
+     "grounds": "participle predicate",
+     "morph": "m.nom.sg (sthā)"
+    }
+   ],
+   "question": "How does this world stand in supreme grace mantra?",
+   "premises": [
+    "This world also stands thus in supreme grace mantra."
+   ],
+   "inference": "The world is contained within the supreme grace mantra.",
+   "uncertainties": [
+    "prapañcaḥ and ayaṃ may be appositional."
+   ],
+   "plain_english": "This world also stands thus in the supreme grace mantra."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "parāprāsādamantre",
+     "gloss": "in-supreme-grace-mantra",
+     "grounds": "locative of presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative demonstrative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmāṇḍaḥ",
+     "gloss": "universe",
+     "grounds": "subject nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "stands",
+     "grounds": "participle predicate",
+     "morph": "m.nom.sg (sthā)"
+    }
+   ],
+   "question": "How does universe stand in this supreme grace mantra?",
+   "premises": [
+    "The universe also stands thus in this supreme grace mantra."
+   ],
+   "inference": "The universe is contained within the supreme grace mantra.",
+   "uncertainties": [
+    "parāprāsāda spelling may be variant of parāprasāda."
+   ],
+   "plain_english": "The universe also stands thus in this supreme grace mantra."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "lavaṇena",
+     "gloss": "without-salt",
+     "grounds": "instrumental with vinā",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svādu",
+     "gloss": "sweet",
+     "grounds": "subject nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhoktuḥ",
+     "gloss": "for-eater",
+     "grounds": "genitive agent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "root jan present middle",
+     "morph": "3.sg.mid-pres (jan)"
+    }
+   ],
+   "question": "Why does sweetness not arise for eater without salt?",
+   "premises": [
+    "Sweetness does not arise for the eater without salt."
+   ],
+   "inference": "Salt is necessary for the experience of sweetness.",
+   "uncertainties": [
+    "lavaṇena may mean by salt rather than without salt."
+   ],
+   "plain_english": "As sweetness does not arise for the eater without salt."
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "object accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayacchanti",
+     "gloss": "give",
+     "grounds": "root pracch present active",
+     "morph": "3.pl.act-pres (pracch)"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktivivajītāḥ",
+     "gloss": "devoid-of-power",
+     "grounds": "nominative predicate",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why do powerless mantras not give fruit?",
+   "premises": [
+    "Mantras devoid of power do not give fruit."
+   ],
+   "inference": "Mantra efficacy depends on power.",
+   "uncertainties": [
+    "śaktivivajītāḥ may modify te or mantram."
+   ],
+   "plain_english": "Those devoid of power do not give fruit to the mantra."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparāmantraḥ",
+     "gloss": "glorious-prasada-supreme-mantra",
+     "grounds": "compound subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gopanīyaḥ",
+     "gloss": "to-be-hidden",
+     "grounds": "gerundive predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "carefully",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should glorious supreme mantra be hidden?",
+   "premises": [
+    "The glorious prasada supreme mantra should be hidden carefully."
+   ],
+   "inference": "The supreme mantra requires careful concealment.",
+   "uncertainties": [
+    "gopanīyaḥ may be imperative or gerundive."
+   ],
+   "plain_english": "The glorious prasada supreme mantra should be carefully hidden."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "grasamān",
+     "gloss": "grasping",
+     "grounds": "participle object",
+     "morph": "m.acc.pl (gras)"
+    },
+    {
+     "surface": "vedmi",
+     "gloss": "I-know",
+     "grounds": "root vid present active",
+     "morph": "1.sg.act-pres (vid)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "subject nominative",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "mantrān",
+     "gloss": "mantras",
+     "grounds": "object accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śāstrāṇi",
+     "gloss": "scriptures",
+     "grounds": "object accusative",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vividhāni",
+     "gloss": "various",
+     "grounds": "adjective accusative",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does speaker know while grasping mantras and scriptures?",
+   "premises": [
+    "I know mantras and various scriptures while grasping them."
+   ],
+   "inference": "The speaker claims direct knowledge of mantras and scriptures.",
+   "uncertainties": [
+    "grasamān may modify mantrān or the speaker."
+   ],
+   "plain_english": "Grasping them, I know mantras and various scriptures."
+  }
+ ]
+}

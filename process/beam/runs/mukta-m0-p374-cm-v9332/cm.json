@@ -1,0 +1,31 @@
+{
+ "song": "Merutantra (M00195)",
+ "verse": 1,
+ "rows": [
+  {
+   "lemma": "śrīmad-ekajaṭā",
+   "morph": "f.voc.sg (compound: śrīmat+ekajaṭā)",
+   "grounds": "gloss 'glorious+ekajaṭā'; vocative singular feminine address to Ekajaṭā"
+  },
+  {
+   "lemma": "oṃ hrīṃ śrīmadekajaṭe nīlasarasvati mahogratāre devi khakhasarvabhūtapiśācarākṣasān grasagrasa mama jāḍyaṃ chedayachedaya śrīṃhrīṃphaṭsvāhā",
+   "morph": "(mantra)",
+   "grounds": "gloss identical to surface; mantra sequence containing bījas (oṃ, hrīṃ, śrīṃ, phaṭ, svāhā), vocatives, imperatives (grasagrasa, chedayachedaya), and objects; kept byte-exact, internal morphology not segmented as given as a single token"
+  },
+  {
+   "lemma": "nīla-sarasvatī",
+   "morph": "f.voc.sg (compound: nīla+sarasvatī)",
+   "grounds": "gloss 'blue+sarasvatī'; vocative singular feminine (form consistent with address in mantra context)"
+  },
+  {
+   "lemma": "mahā-ugra",
+   "morph": "(compound stem: mahā+ugra)",
+   "grounds": "gloss 'great+fierce'; compound member/stem, likely first part of mahogratārā (AMBIGUOUS in isolation)"
+  },
+  {
+   "lemma": "ca",
+   "morph": "(indecl.)",
+   "grounds": "gloss 'and'; indeclinable conjunction"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "yugmam",
+     "gloss": "pair",
+     "grounds": "accusative object; repeated to enumerate each pair",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yugmam",
+     "gloss": "pair",
+     "grounds": "accusative object; second repetition in enumeration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yugmam",
+     "gloss": "pair",
+     "grounds": "accusative object; third repetition in enumeration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadanti",
+     "gloss": "they-declare",
+     "grounds": "verb of declaration attributing the count",
+     "morph": "3.pl.pres.act √vad"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral stating the total count",
+     "morph": "num.(indecl.)"
+    }
+   ],
+   "question": "What total count is declared for the three enumerated pairs?",
+   "premises": [
+    "The term yugmam is repeated three times.",
+    "The verb vadanti expresses a declaration.",
+    "The numeral ṣaṭ specifies the total as six."
+   ],
+   "inference": "Three declared pairs together amount to a total of six.",
+   "uncertainties": [
+    "The specific pairs referred to are implied by the preceding verses rather than named here."
+   ],
+   "plain_english": "They declare pair, pair, pair — six in all."
+  }
+ ]
+}

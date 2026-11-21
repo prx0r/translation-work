@@ -1,0 +1,963 @@
+{
+ "song": "mukta-m0-p90",
+ "items": [
+  {
+   "verse": 2226,
+   "rows": [
+    {
+     "surface": "vāstūpaśamanaṃ",
+     "gloss": "site-pacification",
+     "grounds": "compound naming the rite; vāstu (site) + upaśamana (pacification)",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadoṣavināśanam",
+     "gloss": "all-defects-destroying",
+     "grounds": "compound describing the rite's effect; sarva (all) + doṣa (defect) + vināśana (destroying)",
+     "morph": "compound=n.nom.sg"
+    }
+   ],
+   "question": "What is the name and primary effect of the site-pacification rite?",
+   "premises": [
+    "The rite is called vāstūpaśamana.",
+    "It is designated as destroying all defects."
+   ],
+   "inference": "The site-pacification rite is defined as a procedure that removes all defects.",
+   "uncertainties": [],
+   "plain_english": "It is called site-pacification, and it destroys all defects."
+  },
+  {
+   "verse": 2227,
+   "rows": [
+    {
+     "surface": "vāyvagnijalasaṃbādhe",
+     "gloss": "wind-fire-water-affliction",
+     "grounds": "compound locative describing disturbance by elements; vāyu (wind) + agni (fire) + jala (water) + saṃbādha (affliction)",
+     "morph": "compound=m.loc.sg"
+    },
+    {
+     "surface": "nṛpacorādibādhake",
+     "gloss": "king-thief-etc-trouble",
+     "grounds": "compound locative describing troubles from rulers, thieves, and others; nṛpa (king) + cora (thief) + ādi (etc.) + bādhaka (troubling)",
+     "morph": "compound=m.loc.sg"
+    }
+   ],
+   "question": "Which external afflictions call for the application of site-pacification?",
+   "premises": [
+    "Afflictions arise from wind, fire, and water.",
+    "Troubles arise from kings, thieves, and similar sources."
+   ],
+   "inference": "Such elemental and human disturbances are conditions requiring site-pacification.",
+   "uncertainties": [],
+   "plain_english": "When there is affliction from wind, fire, or water, or trouble from kings, thieves, and the like,"
+  },
+  {
+   "verse": 2228,
+   "rows": [
+    {
+     "surface": "nyūnātireke",
+     "gloss": "deficiency-excess",
+     "grounds": "compound locative indicating lack or surplus; nyūna (deficient) + atireka (excess)",
+     "morph": "compound=m.loc.sg"
+    },
+    {
+     "surface": "mānasya",
+     "gloss": "of-measurement",
+     "grounds": "refers to the measure or dimensions of the site",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dvāranirgamabhedane",
+     "gloss": "door-exit-irregularity",
+     "grounds": "compound locative describing faults in doors or exits; dvāra (door) + nirgama (exit) + bhedana (irregularity)",
+     "morph": "compound=n.loc.sg"
+    }
+   ],
+   "question": "What structural faults in a site necessitate pacification measures?",
+   "premises": [
+    "There may be deficiency or excess in measurement.",
+    "There may be irregularity in doors or exits."
+   ],
+   "inference": "Dimensional and access faults in the site warrant pacification.",
+   "uncertainties": [],
+   "plain_english": "when there is deficiency or excess in measurement, or irregularity in doors and exits,"
+  },
+  {
+   "verse": 2229,
+   "rows": [
+    {
+     "surface": "yajamānāntare",
+     "gloss": "among-sacrificers",
+     "grounds": "locative indicating a change or difference among patrons; yajamāna (sacrificer) + antara (difference/among)",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding another condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnalakṣaṇavāstuke",
+     "gloss": "deficient-marks-site",
+     "grounds": "compound locative describing a site lacking proper characteristics; hīna (deficient) + lakṣaṇa (mark) + vāstuka (site)",
+     "morph": "compound=n.loc.sg"
+    }
+   ],
+   "question": "What social or qualitative site conditions require pacification?",
+   "premises": [
+    "A change among sacrificers may occur.",
+    "The site may lack proper auspicious marks."
+   ],
+   "inference": "Changes in patronage and defective site characteristics require pacification.",
+   "uncertainties": [],
+   "plain_english": "when there is a change among sacrificers, or when the site lacks proper characteristics,"
+  },
+  {
+   "verse": 2230,
+   "rows": [
+    {
+     "surface": "ābhicārakṛte",
+     "gloss": "sorcery-caused",
+     "grounds": "compound locative describing a defect produced by hostile ritual; ābhicāraka (sorcery) + kṛta (done/caused)",
+     "morph": "compound=m.loc.sg"
+    },
+    {
+     "surface": "doṣe",
+     "gloss": "defect",
+     "grounds": "fault or harmful condition",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vyādhimārībhaye",
+     "gloss": "disease-epidemic-fear",
+     "grounds": "compound locative indicating fear of illness and plague; vyādhi (disease) + mārī (epidemic) + bhaya (fear)",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What harmful supernatural or health threats justify site-pacification?",
+   "premises": [
+    "A defect may be caused by sorcery.",
+    "There may be fear of disease or epidemic."
+   ],
+   "inference": "Sorcery-induced defects and threats of illness justify site-pacification.",
+   "uncertainties": [],
+   "plain_english": "when there is a defect caused by sorcery, and also when there is fear of disease or epidemic,"
+  },
+  {
+   "verse": 2231,
+   "rows": [
+    {
+     "surface": "vāstūpaśamanaṃ",
+     "gloss": "site-pacification",
+     "grounds": "the rite named earlier",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "injunctive/optative sense prescribing action; root kṛ (do/make)",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "indeclinable indicating promptness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "skilled-expert",
+     "grounds": "the competent ritualist who performs the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must perform site-pacification and with what urgency in these cases?",
+   "premises": [
+    "The prescribed action is site-pacification.",
+    "The agent is a skilled expert.",
+    "The action must be done immediately."
+   ],
+   "inference": "A skilled expert should perform site-pacification without delay when such defects arise.",
+   "uncertainties": [],
+   "plain_english": "the skilled expert should perform site-pacification immediately."
+  },
+  {
+   "verse": 2232,
+   "rows": [
+    {
+     "surface": "anyeṣvaśubhayukteṣu",
+     "gloss": "in-other-inauspicious-linked",
+     "grounds": "compound locative plural referring to other things joined with inauspiciousness; anya (other) + aśubha (inauspicious) + yukta (joined)",
+     "morph": "compound=n.loc.pl"
+    },
+    {
+     "surface": "gṛhadevālayeṣu",
+     "gloss": "in-houses-temples",
+     "grounds": "compound locative plural listing dwellings and temples; gṛha (house) + devālaya (temple)",
+     "morph": "compound=n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction extending the scope",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what other locations affected by inauspiciousness should remedial action be taken?",
+   "premises": [
+    "Other inauspicious conditions may occur.",
+    "These may affect houses and temples."
+   ],
+   "inference": "Remedial action extends to houses and temples affected by other inauspicious conditions.",
+   "uncertainties": [],
+   "plain_english": "And in other inauspicious situations in houses and temples,"
+  },
+  {
+   "verse": 2233,
+   "rows": [
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "remedial ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "indeclinable indicating particular emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyamāṇam",
+     "gloss": "to-be-described",
+     "grounds": "future passive participle referring to what will be explained; root vac (speak)",
+     "morph": "n.acc.sg.future-passive-participle √vac"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun pointing to the expiation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing that one should carry out the rite; root nī (lead/carry out)",
+     "morph": "3.sg.optative-active √nī"
+    }
+   ],
+   "question": "What specific remedial procedure should be carried out in those inauspicious cases?",
+   "premises": [
+    "A particular expiation is to be described.",
+    "This expiation is especially applicable."
+   ],
+   "inference": "One should carry out this specific expiation that will be described.",
+   "uncertainties": [],
+   "plain_english": "one should especially perform this expiation that will now be described."
+  },
+  {
+   "verse": 2234,
+   "rows": [
+    {
+     "surface": "ahatābhyāṃ",
+     "gloss": "with-unworn",
+     "grounds": "instrumental dual describing new, uncut garments",
+     "morph": "n.ins.dual"
+    },
+    {
+     "surface": "suvāsobhyāṃ",
+     "gloss": "with-fine-garments",
+     "grounds": "compound instrumental dual; su (good) + vāsa (garment)",
+     "morph": "compound=n.ins.dual"
+    },
+    {
+     "surface": "saṃyuktaḥ",
+     "gloss": "endowed",
+     "grounds": "past passive participle indicating being clothed; root yuj (join)",
+     "morph": "m.nom.sg.past-passive-participle √yuj"
+    },
+    {
+     "surface": "sottarīyakaḥ",
+     "gloss": "with-upper-garment",
+     "grounds": "compound describing wearing an upper cloth; sa (with) + uttarīyaka (upper garment)",
+     "morph": "compound=m.nom.sg"
+    }
+   ],
+   "question": "How must the officiant be dressed before beginning the expiation rite?",
+   "premises": [
+    "The officiant wears two unworn fine garments.",
+    "The officiant also wears an upper garment."
+   ],
+   "inference": "Proper ritual dress for the officiant consists of fresh garments including an upper cloth.",
+   "uncertainties": [],
+   "plain_english": "Clad in two unworn fine garments and wearing an upper cloth,"
+  },
+  {
+   "verse": 2235,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship; root pūj (worship)",
+     "morph": "absolutive √pūj"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "according-to-rule",
+     "grounds": "instrumental indicating prescribed procedure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "deities to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "anyān",
+     "gloss": "other",
+     "grounds": "additional deities besides the main ones",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating similar manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preliminary worship must precede the main site-pacification procedures?",
+   "premises": [
+    "The officiant must worship according to rule.",
+    "Other gods must also be worshipped in the same manner."
+   ],
+   "inference": "Preliminary worship of other deities according to rule is required before proceeding.",
+   "uncertainties": [],
+   "plain_english": "having worshipped the other gods according to the prescribed rule,"
+  },
+  {
+   "verse": 2236,
+   "rows": [
+    {
+     "surface": "darbhamālādibhiryuktāṃ",
+     "gloss": "kuśa-garland-etc-equipped",
+     "grounds": "compound describing something furnished with darbha garlands and the like; darbha (kuśa grass) + mālā (garland) + ādi (etc.) + yukta (equipped)",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "sarvālaṅkārasaṃyutām",
+     "gloss": "all-ornaments-adorned",
+     "grounds": "compound describing full adornment; sarva (all) + alaṅkāra (ornament) + saṃyuta (adorned)",
+     "morph": "compound=f.acc.sg"
+    }
+   ],
+   "question": "How should the ritual area or arrangement be adorned for the rite?",
+   "premises": [
+    "It should be equipped with darbha garlands and similar items.",
+    "It should be adorned with all ornaments."
+   ],
+   "inference": "The ritual setting must be fully adorned with darbha garlands and all ornaments.",
+   "uncertainties": [
+    "The exact referent of the adorned object is supplied by context in surrounding verses."
+   ],
+   "plain_english": "equipped with garlands of darbha grass and the like, and adorned with all ornaments,"
+  },
+  {
+   "verse": 2237,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "compound locative indicating the center of that area; tad (that) + madhya (middle)",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "daṇḍamātreṇa",
+     "gloss": "by-staff-measure",
+     "grounds": "instrumental indicating size measured by a staff; daṇḍa (staff) + mātra (measure)",
+     "morph": "compound=n.ins.sg"
+    },
+    {
+     "surface": "vedīṃ",
+     "gloss": "altar",
+     "grounds": "the ritual platform to be prepared",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pañcāṅgulocchritām",
+     "gloss": "five-fingers-high",
+     "grounds": "compound describing the altar's height; pañca (five) + aṅgula (finger) + ucchrita (raised)",
+     "morph": "compound=f.acc.sg"
+    }
+   ],
+   "question": "What are the specified dimensions and placement of the altar in the ritual space?",
+   "premises": [
+    "An altar is placed in the middle of that area.",
+    "Its measure is one staff and its height is five fingers."
+   ],
+   "inference": "The altar must be centrally placed with a staff-length measure and five-finger height.",
+   "uncertainties": [],
+   "plain_english": "in its middle one should make an altar measuring a staff in extent and raised five fingers high."
+  },
+  {
+   "verse": 2238,
+   "rows": [
+    {
+     "surface": "caturṇavavikārāṃśca",
+     "gloss": "four-nine-divisions-and",
+     "grounds": "compound accusative plural indicating divisions of four and nine; catur (four) + nava (nine) + vikāra (division) with ca (and)",
+     "morph": "compound=m.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaviṃśatpadaṃ",
+     "gloss": "twenty-five-squares",
+     "grounds": "compound describing a grid of twenty-five divisions; pañcaviṃśat (twenty-five) + pada (square/division)",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What grid layouts are permitted for the ritual diagram on the altar?",
+   "premises": [
+    "Divisions of four and nine may be used.",
+    "Alternatively a twenty-five-square layout may be used."
+   ],
+   "inference": "The altar diagram may be arranged in a four-by-nine or a twenty-five-square grid.",
+   "uncertainties": [
+    "The exact interpretation of caturṇavavikāra as a combined or alternative grid is context-dependent."
+   ],
+   "plain_english": "It may have divisions of four and nine, or indeed twenty-five squares,"
+  },
+  {
+   "verse": 2239,
+   "rows": [
+    {
+     "surface": "aṣṭāṣṭakapadaṃ",
+     "gloss": "eight-by-eight-squares",
+     "grounds": "compound describing a grid of sixty-four divisions; aṣṭa (eight) + aṣṭaka (group of eight) + pada (square)",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "combined particles vā (or) and api (also) giving another option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtravargapadaṃ",
+     "gloss": "thread-group-squares",
+     "grounds": "compound describing divisions formed by thread lines; sūtra (thread) + varga (group) + pada (square)",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional grid configurations may be used for the altar diagram?",
+   "premises": [
+    "An eight-by-eight square layout is permitted.",
+    "A layout defined by thread-group divisions is also permitted."
+   ],
+   "inference": "Further acceptable altar grids include an eight-by-eight layout or one marked by thread divisions.",
+   "uncertainties": [],
+   "plain_english": "or an eight-by-eight square layout, or indeed one divided by thread lines."
+  },
+  {
+   "verse": 2240,
+   "rows": [
+    {
+     "surface": "śālibhiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "instrumental plural indicating material used",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "ritual-ground",
+     "grounds": "prepared ritual surface or altar base",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior preparation; root kṛ (do/make)",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "taṇḍulaistilamiśrakaiḥ",
+     "gloss": "with-husked-rice-sesame-mixed",
+     "grounds": "compound instrumental plural describing mixed grains; taṇḍula (husked rice) + tila (sesame) + miśraka (mixed)",
+     "morph": "compound=m.ins.pl"
+    }
+   ],
+   "question": "What materials are used to prepare the ritual ground for the rite?",
+   "premises": [
+    "A ritual ground is prepared.",
+    "It is made with rice grains and with husked rice mixed with sesame."
+   ],
+   "inference": "The ritual ground must be formed using rice and a mixture of husked rice and sesame.",
+   "uncertainties": [],
+   "plain_english": "Having prepared the ritual ground with rice grains and with husked rice mixed with sesame,"
+  },
+  {
+   "verse": 2241,
+   "rows": [
+    {
+     "surface": "caruṃ",
+     "gloss": "oblation",
+     "grounds": "cooked ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable indicating location on the prepared ground",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating placement; root sthā with sam (establish/place)",
+     "morph": "absolutive sam-√sthā"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "instrumental indicating clarified butter",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhārya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive indicating pouring or sprinkling over; root dhṛ with abhi (sprinkle/pour over)",
+     "morph": "absolutive abhi-√dhṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the oblation be prepared and treated on the ritual ground?",
+   "premises": [
+    "The oblation is placed there.",
+    "It is sprinkled with ghee."
+   ],
+   "inference": "The oblation must be set on the ritual ground and consecrated by sprinkling with ghee.",
+   "uncertainties": [],
+   "plain_english": "and having placed the oblation there and sprinkled it with ghee,"
+  },
+  {
+   "verse": 2242,
+   "rows": [
+    {
+     "surface": "vedyāstu",
+     "gloss": "of-altar-but",
+     "grounds": "vedyāḥ (of the altar) with sandhi to following tu (but/indeed); refers to the altar's location",
+     "morph": "f.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-western",
+     "grounds": "locative indicating direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "region",
+     "grounds": "place or area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "fire-pit",
+     "grounds": "ritual pit for offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating construction; root kṛ (do/make)",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "trimekhalam",
+     "gloss": "three-girdled",
+     "grounds": "compound describing a pit with three rims; tri (three) + mekhalā (girdle/rim)",
+     "morph": "compound=n.acc.sg"
+    }
+   ],
+   "question": "Where and in what form should the fire pit be constructed relative to the altar?",
+   "premises": [
+    "The fire pit is made to the west of the altar.",
+    "The fire pit has three girdles."
+   ],
+   "inference": "A three-girdled fire pit must be constructed in the western region of the altar.",
+   "uncertainties": [],
+   "plain_english": "then, to the west of the altar, having made a fire pit with three girdles,"
+  },
+  {
+   "verse": 2243,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable indicating location in the fire pit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "sacred ritual fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samādhāya",
+     "gloss": "having-established",
+     "grounds": "absolutive indicating installation of fire; root dhā with sam-ā (place/establish)",
+     "morph": "absolutive sam-ā-√dhā"
+    },
+    {
+     "surface": "vahnikāryoktamārgataḥ",
+     "gloss": "by-fire-rite-prescribed-method",
+     "grounds": "compound indicating procedure stated for fire rites; vahni (fire) + kārya (rite) + ukta (stated) + mārga (method) + tas (by way of)",
+     "morph": "compound=(indecl.)"
+    }
+   ],
+   "question": "According to what procedure must the sacred fire be established in the pit?",
+   "premises": [
+    "The fire is established there in the pit.",
+    "It must follow the method prescribed for fire rites."
+   ],
+   "inference": "The sacred fire must be installed in the pit according to the prescribed fire-rite procedure.",
+   "uncertainties": [],
+   "plain_english": "having established the fire there according to the method prescribed for fire rites,"
+  },
+  {
+   "verse": 2244,
+   "rows": [
+    {
+     "surface": "madhvājyakṣīrasaṃyuktadūrvayā",
+     "gloss": "with-honey-ghee-milk-mixed-dūrvā",
+     "grounds": "compound instrumental describing dūrvā grass combined with honey, ghee, and milk; madhu (honey) + ājya (ghee) + kṣīra (milk) + saṃyukta (mixed) + dūrvā (dūrvā grass)",
+     "morph": "compound=f.ins.sg"
+    },
+    {
+     "surface": "homam",
+     "gloss": "fire-offering",
+     "grounds": "oblation into the fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing ritual action; root car (perform/practice)",
+     "morph": "3.sg.optative-active √car"
+    }
+   ],
+   "question": "What substance and action constitute the fire offering in this pacification rite?",
+   "premises": [
+    "Dūrvā grass is mixed with honey, ghee, and milk.",
+    "A fire offering must be performed with it."
+   ],
+   "inference": "The officiant should perform a fire offering using dūrvā mixed with honey, ghee, and milk.",
+   "uncertainties": [],
+   "plain_english": "one should perform a fire offering with dūrvā grass mixed with honey, ghee, and milk."
+  },
+  {
+   "verse": 2245,
+   "rows": [
+    {
+     "surface": "aghoreṇa",
+     "gloss": "with-aghora-mantra",
+     "grounds": "instrumental referring to the Aghora mantra used in the offering",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle giving an alternative count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "alternative count, i.e. fifty",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "with-substances",
+     "grounds": "instrumental plural referring to the offering materials",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pūrvaistu",
+     "gloss": "with-former-but",
+     "grounds": "pūrvaiḥ (with the former) with sandhi to tu (but/indeed)",
+     "morph": "n.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "with-five",
+     "grounds": "instrumental indicating five substances",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How many offerings and with which mantra and substances should the oblation be made?",
+   "premises": [
+    "Offerings are made with the Aghora mantra.",
+    "The count is one hundred or half that amount.",
+    "They are made with the five former substances."
+   ],
+   "inference": "One should offer one hundred or fifty oblations with the Aghora mantra using the five previously mentioned substances.",
+   "uncertainties": [
+    "The identity of the five former substances depends on earlier context."
+   ],
+   "plain_english": "With the Aghora mantra, one should make a hundred or fifty offerings using the five former substances."
+  },
+  {
+   "verse": 2246,
+   "rows": [
+    {
+     "surface": "pūrṇāhutiṃ",
+     "gloss": "full-offering",
+     "grounds": "the concluding complete oblation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive indicating completion of the offering; root hu (offer into fire)",
+     "morph": "absolutive √hu"
+    },
+    {
+     "surface": "vāstudevān",
+     "gloss": "site-deities",
+     "grounds": "compound accusative plural naming the deities of the site; vāstu (site) + deva (deity)",
+     "morph": "compound=m.acc.pl"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship; root arc with sam (worship)",
+     "morph": "3.sg.optative-active sam-√arc"
+    }
+   ],
+   "question": "What ritual actions must follow the counted fire offerings in the sequence?",
+   "premises": [
+    "A full offering is made after the counted oblations.",
+    "The site deities must then be worshipped."
+   ],
+   "inference": "After completing the full offering, the officiant should worship the site deities.",
+   "uncertainties": [],
+   "plain_english": "Then, having made the full offering, one should worship the deities of the site."
+  },
+  {
+   "verse": 2247,
+   "rows": [
+    {
+     "surface": "brahmāṇaṃ",
+     "gloss": "brahmā",
+     "grounds": "the deity Brahmā as recipient of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "indeclinable/adverbial indicating priority in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ceṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship; root iṣ/yaj in ritual sense (worship)",
+     "morph": "absolutive √yaj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāṃśca",
+     "gloss": "all-and",
+     "grounds": "sarvān (all) with sandhi to ca (and)",
+     "morph": "m.acc.pl + (indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship; root pūj (worship)",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "In what order should Brahmā and the other site deities be worshipped?",
+   "premises": [
+    "Brahmā is worshipped first.",
+    "All the other deities are worshipped afterward."
+   ],
+   "inference": "The worship sequence requires honoring Brahmā first and then all remaining site deities.",
+   "uncertainties": [],
+   "plain_english": "Having first worshipped Brahmā, one should then worship all the others."
+  },
+  {
+   "verse": 2248,
+   "rows": [
+    {
+     "surface": "sarvalakṣaṇasaṃpūrṇāṃ",
+     "gloss": "all-marks-complete",
+     "grounds": "compound describing a female figure endowed with all auspicious marks; sarva (all) + lakṣaṇa (mark) + saṃpūrṇa (complete)",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "nānābharaṇabhūṣitām",
+     "gloss": "various-ornaments-adorned",
+     "grounds": "compound describing adornment with diverse ornaments; nānā (various) + ābharaṇa (ornament) + bhūṣita (adorned)",
+     "morph": "compound=f.acc.sg"
+    }
+   ],
+   "question": "What qualities must the female figure possess for the subsequent worship?",
+   "premises": [
+    "She must be complete in all auspicious marks.",
+    "She must be adorned with various ornaments."
+   ],
+   "inference": "The female figure to be honored must be auspiciously marked and richly adorned.",
+   "uncertainties": [
+    "The identity of the female figure is clarified in the following verse."
+   ],
+   "plain_english": "She should be complete in all auspicious marks and adorned with various ornaments,"
+  },
+  {
+   "verse": 2249,
+   "rows": [
+    {
+     "surface": "śuklavastrottarīyāṃ",
+     "gloss": "white-garment-upper-cloth",
+     "grounds": "compound describing attire of white garment and upper cloth; śukla (white) + vastra (garment) + uttarīya (upper cloth)",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "demonstrative pronoun referring to the female figure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃpūjyā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating prior worship; root pūj with sam (worship)",
+     "morph": "absolutive sam-√pūj"
+    },
+    {
+     "surface": "annādibhiḥ",
+     "gloss": "with-food-and-others",
+     "grounds": "instrumental plural indicating offerings of food and similar items; anna (food) + ādi (etc.)",
+     "morph": "compound=n.ins.pl"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "comfortably",
+     "grounds": "indeclinable/adverbial indicating ease or proper comfort",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the adorned female figure be honored at the conclusion of this sequence?",
+   "premises": [
+    "She is clothed in white garments with an upper cloth.",
+    "She is worshipped with food and other offerings."
+   ],
+   "inference": "The properly attired female figure should be comfortably worshipped with food and related offerings.",
+   "uncertainties": [],
+   "plain_english": "clothed in white garments with an upper cloth; having worshipped her comfortably with food and other offerings."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "muktakeśaśirāḥ",
+     "gloss": "loose-haired-headed",
+     "grounds": "bahuvrihi compound mukta-keśa-śiras; describes a figure whose head has loosened hair",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle continuing the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikīrṇākeśasaṃyutāḥ",
+     "gloss": "scattered-hair-endowed",
+     "grounds": "compound vikīrṇa-keśa-saṃyuta; describes one furnished with disheveled hair",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which hair-disheveled figures are included among the enumerated ominous apparitions?",
+   "premises": [
+    "The verse names a figure with loose hair on the head.",
+    "The verse names a figure endowed with scattered hair.",
+    "These figures continue the preceding list of ominous signs."
+   ],
+   "inference": "Disheveled-haired figures are counted among the ominous apparitions in this sequence.",
+   "uncertainties": [
+    "The exact referent of the figures is not specified within this verse alone."
+   ],
+   "plain_english": "And indeed one with loose hair on the head, and one endowed with scattered hair."
+  }
+ ]
+}

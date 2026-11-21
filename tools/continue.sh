@@ -34,7 +34,7 @@ step_gates_commit() {
     git add -A >/dev/null 2>&1
     git reset -q process/beam/queue.json process/beam/claims process/beam/w1.log process/beam/w2.log process/beam/w3.log process/beam/w4.log process/beam/w5.log process/beam/ralph.log process/beam/continue.log process/beam/validate_all.log ipvv/cm/beam process/beam/runs 2>/dev/null
     if ! git diff --cached --quiet; then
-      git commit -qm "continue: swarm progress (machine-proposed)" && git push -q origin master && log "pushed"
+      git commit -qm "continue: swarm progress (machine-proposed)" && git push -q origin HEAD && log "pushed"
     else
       log "clean tree, nothing to push"
     fi

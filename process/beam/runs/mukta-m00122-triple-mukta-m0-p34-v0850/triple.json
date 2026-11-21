@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "yaiḥ",
+     "gloss": "by-which",
+     "grounds": "instrumental plural of yad",
+     "morph": "rel.pron instr.pl.m/n"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "accusative singular neuter of viśva",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "subjection",
+     "grounds": "accusative singular neuter of vaśa",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "āyāti",
+     "gloss": "comes",
+     "grounds": "third singular active present of ā-yā",
+     "morph": "verb 3.sg.act-pres root yā"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "ablative singular masculine of kṣaṇa",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "neuter singular of tad",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "bhāvanādinā",
+     "gloss": "meditation-etc",
+     "grounds": "instrumental singular of bhāvanādi",
+     "morph": "compound instr.sg.m/n"
+    }
+   ],
+   "question": "Which means cause the universe to come under control instantly?",
+   "premises": [
+    "universe comes into subjection instantly",
+    "that is accomplished by meditation etc"
+   ],
+   "inference": "meditation etc is the means",
+   "uncertainties": [
+    "scope of bhāvanādinā unspecified"
+   ],
+   "plain_english": "By which the universe comes into subjection instantly—that by meditation and so on."
+  }
+ ]
+}

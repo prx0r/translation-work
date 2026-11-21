@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "śivātmanā",
+     "gloss": "by-śiva-self",
+     "grounds": "instrumental compound expressing the nature or self through which knowing occurs; continues mutual cognition from prior verses",
+     "morph": "śiva+ātman, m.inst.sg"
+    },
+    {
+     "surface": "yajñadattaḥ",
+     "gloss": "yajñadatta",
+     "grounds": "proper name of an individual subject, parallel to the pot example in the preceding verse",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajñadattātmanā",
+     "gloss": "by-yajñadatta-self",
+     "grounds": "instrumental compound expressing the individual nature as the medium of Śiva's knowing",
+     "morph": "yajñadatta+ātman, m.inst.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "the supreme consciousness as subject, reciprocally knowing through the individual's nature",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do Śiva and an individual self mutually know through each other's nature?",
+   "premises": [
+    "All beings are established as omniscient through the nature of all selves.",
+    "Knowing can occur through the self-nature of another, as shown in the preceding example.",
+    "Śiva and the individual Yajñadatta share a reciprocal identity of self-nature."
+   ],
+   "inference": "Therefore, Yajñadatta knows by Śiva's nature and Śiva knows by Yajñadatta's nature.",
+   "uncertainties": [
+    "The verb of knowing is carried over from the previous verse and not explicitly stated here."
+   ],
+   "plain_english": "By the nature of Śiva, Yajñadatta knows; by the nature of Yajñadatta, Śiva knows."
+  }
+ ]
+}

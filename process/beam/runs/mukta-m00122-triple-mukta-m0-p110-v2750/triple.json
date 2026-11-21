@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "indraḥ",
+     "gloss": "indra",
+     "grounds": "named deity in the nakshatra-devata enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirṛti+toyākhyau",
+     "gloss": "nirrti-water-named",
+     "grounds": "compound naming nirrti and the water-named deity; dual form in the list",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "viśvedevāḥ",
+     "gloss": "vishvedevas",
+     "grounds": "all-gods group named in the enumeration",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hariḥ",
+     "gloss": "hari",
+     "grounds": "named deity in the nakshatra-devata enumeration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "particle closing the enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities complete the enumeration of nakshatra-devatas in this passage?",
+   "premises": [
+    "The verse continues a list of nakshatra-devatas.",
+    "It names Indra, Nirrti, the water-named deity, Vishvedevas, and Hari.",
+    "The particle tathā closes the enumeration."
+   ],
+   "inference": "The named deities are the final entries in the nakshatra-devata list.",
+   "uncertainties": [
+    "Exact nakshatra assignments are not stated in this verse.",
+    "The morphological case of nirṛti+toyākhyau is inferred from context."
+   ],
+   "plain_english": "Indra, Nirrti and the water-named deity, the Vishvedevas, and Hari—thus."
+  }
+ ]
+}

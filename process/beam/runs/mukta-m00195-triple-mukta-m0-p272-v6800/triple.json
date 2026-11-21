@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p272",
+ "items": [
+  {
+   "verse": 6800,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "specifies the number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-recite",
+     "grounds": "prescribes the act of recitation",
+     "morph": "3.sg.act-opt √prajap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of the prescribed recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sādhakasattamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "agent performing the recitation; compound of sādhaka and sattama",
+     "morph": "compound m.nom.sg (sādhaka+sattama)"
+    }
+   ],
+   "question": "What quantity of mantra recitation is required of the foremost practitioner?",
+   "premises": [
+    "The foremost practitioner is the agent of the prescribed act.",
+    "The act prescribed is recitation of the mantra.",
+    "The specified quantity of recitation is one thousand repetitions."
+   ],
+   "inference": "The foremost practitioner should recite the mantra one thousand times.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should recite the mantra a thousand times."
+  }
+ ]
+}

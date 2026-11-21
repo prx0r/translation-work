@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "ahirmukhyaś",
+     "gloss": "ahirmukhya",
+     "grounds": "proper name in a list; nominative singular with sandhi before ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle connecting listed figures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhallāṭaḥ",
+     "gloss": "bhallāṭa",
+     "grounds": "proper name in a list; nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "somasarpau",
+     "gloss": "soma-and-sarpa",
+     "grounds": "dvandva compound naming two figures; dual nominative",
+     "morph": "compound=soma+sarpa; m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhugau",
+     "gloss": "on-arms",
+     "grounds": "placement term indicating location on the two arms; form analyzed as given",
+     "morph": "m.loc.du?"
+    }
+   ],
+   "question": "Which figures are specified as being located on the arms in this part of the sequence?",
+   "premises": [
+    "Ahirmukhya and Bhallāṭa are named in the sequence.",
+    "Soma and Sarpa are named together as a pair.",
+    "The term bāhugau indicates placement on the arms."
+   ],
+   "inference": "Ahirmukhya, Bhallāṭa, Soma, and Sarpa are assigned to the arms.",
+   "uncertainties": [
+    "The exact morphological analysis of bāhugau is uncertain, though its locational sense is clear from context."
+   ],
+   "plain_english": "Ahirmukhya and Bhallāṭa, and Soma and Sarpa, are placed on the arms."
+  }
+ ]
+}

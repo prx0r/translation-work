@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "vijayā",
+     "gloss": "Vijayā",
+     "grounds": "name of a guardian goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative indicating the right side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative/imperative sense of protection",
+     "morph": "3.sg.imp.act √pā"
+    },
+    {
+     "surface": "medhā",
+     "gloss": "Medhā",
+     "grounds": "name of a guardian goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "imperative expressing protection",
+     "morph": "3.sg.imp.act √rakṣ"
+    },
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-west",
+     "grounds": "locative indicating the western direction associated with Varuṇa",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which guardian goddesses are assigned to protect the right side and the western direction?",
+   "premises": [
+    "Vijayā is invoked for protection.",
+    "The right side is specified as the location for Vijayā's protection.",
+    "Medhā is invoked for protection.",
+    "The western direction is specified as the location for Medhā's protection."
+   ],
+   "inference": "Vijayā protects the right side, while Medhā protects the western direction.",
+   "uncertainties": [
+    "vāruṇe may refer specifically to the direction of Varuṇa rather than a general western location."
+   ],
+   "plain_english": "May Vijayā protect on the right side, and may Medhā protect in the western direction."
+  }
+ ]
+}

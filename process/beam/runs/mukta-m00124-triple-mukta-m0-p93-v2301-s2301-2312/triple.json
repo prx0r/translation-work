@@ -1,0 +1,755 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2301,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral; legacy hint five",
+     "morph": "num"
+    },
+    {
+     "surface": "bhāga",
+     "gloss": "part",
+     "grounds": "legacy hint +part; context of measure/division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avasāna",
+     "gloss": "end",
+     "grounds": "legacy hint +end; end/limit of a part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "limit",
+     "grounds": "legacy hint +limit; accusative of anta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "legacy hint hall; hall/room",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "width",
+     "grounds": "legacy hint +width; breadth/width",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "legacy hint is-desired; passive of iṣ",
+     "morph": "3.sg.pass.-present"
+    }
+   ],
+   "question": "What width measure is prescribed for the hall at the end of five parts?",
+   "premises": [
+    "The hall is located at the limit after five parts.",
+    "A specific width is stated for that hall.",
+    "The statement presents that width as the desired measure."
+   ],
+   "inference": "The width of the hall at the end-limit of five parts is prescribed as the stated measure (iṣyate).",
+   "uncertainties": [
+    "Exact numeric value of vistāra is not written in these tokens."
+   ],
+   "plain_english": "The width of the hall at the end limit of five parts is declared as desired."
+  },
+  {
+   "verse": 2302,
+   "rows": [
+    {
+     "surface": "alindaḥ",
+     "gloss": "verandah",
+     "grounds": "legacy hint verandah; alinda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛthu",
+     "gloss": "wide",
+     "grounds": "legacy hint with-wide; wide/broad",
+     "morph": "adj"
+    },
+    {
+     "surface": "dvāreṇa",
+     "gloss": "by-door",
+     "grounds": "legacy hint +door; instrumental of dvāra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "samaḥ",
+     "gloss": "equal",
+     "grounds": "legacy hint equal; equal to",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or; disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and; conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "legacy hint +half; half measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "by-measure",
+     "grounds": "legacy hint +in-measure; ablative/in terms of measure",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How is the width of the verandah specified in relation to the door or by measure?",
+   "premises": [
+    "The verandah is described with reference to the door.",
+    "Its width is said to be equal by the door or alternatively by measure.",
+    "Options include equal to the door or half by measure."
+   ],
+   "inference": "The verandah is either equal in width to the door or taken as half in measure.",
+   "uncertainties": [
+    "Whether pṛthu qualifies alinda directly is implied by context."
+   ],
+   "plain_english": "The verandah is wide: equal to the door, or else half by measure."
+  },
+  {
+   "verse": 2303,
+   "rows": [
+    {
+     "surface": "garbha",
+     "gloss": "conception",
+     "grounds": "legacy hint conception; inner chamber/garbha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādhāna",
+     "gloss": "placing",
+     "grounds": "legacy hint +placing; placing/establishment",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramaṇakaṃ",
+     "gloss": "procedure",
+     "grounds": "legacy hint +procedure; stepwise procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kabhittiḥ",
+     "gloss": "wall",
+     "grounds": "legacy hint wall; wall (kā bhittiḥ contextually)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukhya",
+     "gloss": "main",
+     "grounds": "legacy hint +in-main; principal/main",
+     "morph": "adj"
+    },
+    {
+     "surface": "dhāmani",
+     "gloss": "abode",
+     "grounds": "legacy hint +abode; in the abode/dhāman",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the procedure of placing the garbha carried out with respect to the main wall?",
+   "premises": [
+    "A procedure for placing the garbha is mentioned.",
+    "A wall is named in relation to the main abode.",
+    "The procedure is situated in that main abode context."
+   ],
+   "inference": "The procedure of garbha placing is set in the main abode in relation to the stated wall.",
+   "uncertainties": [
+    "Exact referent of kabhittiḥ depends on manuscript reading context."
+   ],
+   "plain_english": "The procedure of placing the garbha is in the main abode, by the wall as stated."
+  },
+  {
+   "verse": 2304,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "legacy hint or; alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahma",
+     "grounds": "legacy hint in-brahma; brahman/brahma wall context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhittau",
+     "gloss": "in-wall",
+     "grounds": "legacy hint +wall; locative of bhitti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or; disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbha",
+     "gloss": "conception",
+     "grounds": "legacy hint conception; garbha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādhānaṃ",
+     "gloss": "placing",
+     "grounds": "legacy hint +placing; accusative of ādhāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "legacy hint is-prescribed; passive of vidhā",
+     "morph": "3.sg.pass.-present"
+    }
+   ],
+   "question": "Where is the placing of the garbha alternatively prescribed to be done?",
+   "premises": [
+    "An alternative location is offered.",
+    "Placing of the garbha is prescribed.",
+    "The location is in the brahma wall or stated alternative."
+   ],
+   "inference": "Alternatively, the placing of the garbha is prescribed in the brahma wall.",
+   "uncertainties": [
+    "Precise architectural sense of brahma bhitti may vary by tradition."
+   ],
+   "plain_english": "Or else the placing of the garbha is prescribed in the brahma wall."
+  },
+  {
+   "verse": 2305,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "legacy hint in-north; locative of uttara",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "raṅ",
+     "gloss": "raṅ",
+     "grounds": "legacy hint raṅ; unclear token in this form (possible abbreviation/name)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint +thus-said; quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "said",
+     "grounds": "legacy hint +said; past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "legacy hint that; demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhiṇyāḥ",
+     "gloss": "of-housewife",
+     "grounds": "legacy hint +of-housewife; genitive of gṛhiṇī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "gṛhaṃ",
+     "gloss": "house",
+     "grounds": "legacy hint house; accusative of gṛha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be; optative of bhū",
+     "morph": "3.sg.opt.-present"
+    }
+   ],
+   "question": "What is said about the house of the housewife in the northern direction?",
+   "premises": [
+    "Something is said (uktaṃ) with iti in the northern context.",
+    "That is stated to be the house of the housewife.",
+    "It should be (bhavet) in that sense."
+   ],
+   "inference": "In the north, what is called by that term is said to be the house of the housewife.",
+   "uncertainties": [
+    "Meaning of token raṅ is unclear from given form."
+   ],
+   "plain_english": "In the north, it is said: that should be the house of the housewife."
+  },
+  {
+   "verse": 2306,
+   "rows": [
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "legacy hint in-nine; numeral nine",
+     "morph": "num"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "legacy hint +part; locative of bhāga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "legacy hint house; locative of gṛha",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "legacy hint there; locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "legacy hint in-south; locative of dakṣiṇa",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "legacy hint five; numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "bhāgakam",
+     "gloss": "part",
+     "grounds": "legacy hint +part; part/division (diminutive/derived form)",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are parts assigned in the house divided into nine, especially in the southern area?",
+   "premises": [
+    "The house is considered in nine parts.",
+    "There, in the south, five parts are specified.",
+    "A part division is indicated there."
+   ],
+   "inference": "In a house divided into nine parts, the southern portion is specified as five parts.",
+   "uncertainties": [
+    "Exact layout mapping of five parts in south is not fully explicit here."
+   ],
+   "plain_english": "In the house divided into nine parts, there in the south are five parts."
+  },
+  {
+   "verse": 2307,
+   "rows": [
+    {
+     "surface": "alinde",
+     "gloss": "in-verandah",
+     "grounds": "legacy hint in-verandah; locative of alinda",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvāram",
+     "gloss": "door",
+     "grounds": "legacy hint door; accusative of dvāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "legacy hint +thus; manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be; optative of as",
+     "morph": "3.sg.opt.-present"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "legacy hint +elsewhere; locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint +also; emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "legacy hint +thus; manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint +indeed; emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but; contrast particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the door be placed according to this rule, including elsewhere?",
+   "premises": [
+    "In the verandah the door should be thus placed.",
+    "Elsewhere also it should be thus indeed.",
+    "A contrastive particle marks the statement."
+   ],
+   "inference": "The door should be placed thus in the verandah and likewise elsewhere as well.",
+   "uncertainties": [
+    "The precise placement details are not fully specified in these tokens."
+   ],
+   "plain_english": "In the verandah the door should be thus; elsewhere also it should be just so."
+  },
+  {
+   "verse": 2308,
+   "rows": [
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "legacy hint in-wall; wall (stem/context)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāse",
+     "gloss": "in-thickness",
+     "grounds": "legacy hint +thickness; locative of vyāsa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "arka",
+     "gloss": "twelve",
+     "grounds": "legacy hint +twelve; arka = 12 in some counts",
+     "morph": "num"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "legacy hint +part; accusative of bhāga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but; contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "legacy hint outside; locative of bāhya",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "bāhya",
+     "gloss": "outer",
+     "grounds": "legacy hint outer; outer",
+     "morph": "adj"
+    },
+    {
+     "surface": "śara",
+     "gloss": "five",
+     "grounds": "legacy hint +five; śara = 5 in some counts",
+     "morph": "num"
+    },
+    {
+     "surface": "aṃśakam",
+     "gloss": "part",
+     "grounds": "legacy hint +part; part/share",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is wall thickness measured in parts on the outside versus the outer portion?",
+   "premises": [
+    "Wall thickness is given in parts.",
+    "Outside a twelve-part measure is mentioned.",
+    "An outer five-part measure is also mentioned."
+   ],
+   "inference": "In wall thickness, outside it is taken as twelve parts and the outer portion as five parts.",
+   "uncertainties": [
+    "Numeric coding arka/śara interpreted by legacy hints; exact counting convention may vary."
+   ],
+   "plain_english": "For wall thickness: outside take twelve parts, but the outer part is five parts."
+  },
+  {
+   "verse": 2309,
+   "rows": [
+    {
+     "surface": "bhitti",
+     "gloss": "wall",
+     "grounds": "legacy hint wall; wall",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "legacy hint +middle; accusative of madhya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "legacy hint of-those-two; genitive dual of tad",
+     "morph": "pron.gen.du"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "legacy hint +middle; middle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "pillar",
+     "grounds": "legacy hint pillar; pillar/base",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "legacy hint +middle; middle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but; contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or; disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "legacy hint equal; equal",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is taken as the middle reference among wall, those two, and pillar, or as equal?",
+   "premises": [
+    "Middle is mentioned for wall and for those two and for pillar.",
+    "A choice or equality is indicated.",
+    "The middle/pillar middle is treated as equal in some option."
+   ],
+   "inference": "The middle is taken as the wall middle, the middle of those two, or the pillar middle, optionally as equal.",
+   "uncertainties": [
+    "Referents of tayoḥ and exact structural mapping are unclear."
+   ],
+   "plain_english": "The middle of the wall, the middle of those two, or the middle of the pillar is taken, or else as equal."
+  },
+  {
+   "verse": 2310,
+   "rows": [
+    {
+     "surface": "koṇāt",
+     "gloss": "from-corner",
+     "grounds": "legacy hint from-corner; ablative of koṇa",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tṛtīya",
+     "gloss": "third",
+     "grounds": "legacy hint +third; third part",
+     "morph": "adj"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "legacy hint +part; locative of bhāga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but; contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "legacy hint water; water",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "outlet",
+     "grounds": "legacy hint +outlet; going out/outlet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "legacy hint is-desired; passive of iṣ",
+     "morph": "3.sg.pass.-present"
+    }
+   ],
+   "question": "From where is the water outlet desired to be placed?",
+   "premises": [
+    "A water outlet is desired.",
+    "Its position is given from the corner.",
+    "It is placed in the third part."
+   ],
+   "inference": "The water outlet is desired to be in the third part from the corner.",
+   "uncertainties": [
+    "Direction/orientation of the third part from corner not specified here."
+   ],
+   "plain_english": "From the corner, in the third part, a water outlet is desired."
+  },
+  {
+   "verse": 2311,
+   "rows": [
+    {
+     "surface": "bhallāṭe",
+     "gloss": "at-front",
+     "grounds": "legacy hint at-front; locative of bhallāṭa/front place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and; conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint +indeed; emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "legacy hint in-middle; locative of madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and; conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāram",
+     "gloss": "door",
+     "grounds": "legacy hint door; accusative of dvāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āsu",
+     "gloss": "in-these",
+     "grounds": "legacy hint +in-these; locative plural of idam",
+     "morph": "pron.loc.pl"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "legacy hint is-prescribed; passive of vidhā",
+     "morph": "3.sg.pass.-present"
+    }
+   ],
+   "question": "In which places is a door prescribed among these locations?",
+   "premises": [
+    "A door is prescribed.",
+    "It is prescribed at the front and indeed in the middle.",
+    "This is said in these places."
+   ],
+   "inference": "A door is prescribed at the front and in the middle among these places.",
+   "uncertainties": [
+    "Which specific places āsu refers to depends on prior context."
+   ],
+   "plain_english": "In these places a door is prescribed at the front and indeed in the middle."
+  },
+  {
+   "verse": 2312,
+   "rows": [
+    {
+     "surface": "devānām",
+     "gloss": "of-gods",
+     "grounds": "legacy hint of-gods; genitive plural of deva",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ubhayaṃ",
+     "gloss": "both",
+     "grounds": "legacy hint +both; both things",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "legacy hint to-be-taken; gerundive of grah",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "legacy hint middle; middle",
+     "morph": "adj"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "legacy hint +door; accusative of dvāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but; contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed; emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tale",
+     "gloss": "at-bottom",
+     "grounds": "legacy hint at-bottom; locative of tala",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is to be taken for the gods and where is the middle door placed?",
+   "premises": [
+    "Both are to be taken for the gods.",
+    "The middle door is mentioned.",
+    "It is placed at the bottom (tale)."
+   ],
+   "inference": "For the gods both are to be taken, and the middle door is indeed placed at the bottom.",
+   "uncertainties": [
+    "What the two (ubhayaṃ) refer to is not specified in these tokens."
+   ],
+   "plain_english": "For the gods both are to be taken; but the middle door is indeed at the bottom."
+  }
+ ]
+}

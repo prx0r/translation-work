@@ -1,0 +1,423 @@
+{
+ "song": "sva-p02",
+ "items": [
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "ukāreṇopetaḥ",
+     "gloss": "endowed-with-u-syllable",
+     "grounds": "sandhi fusion of ukāreṇa and upetaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aukārānusaraṇanyāyena",
+     "gloss": "by-rule-of-following-au",
+     "grounds": "instrumental compound expressing method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "uccāratāyuktaḥ",
+     "gloss": "endowed-with-pronunciation",
+     "grounds": "compound adjective describing the mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the mantra's pronunciation formed by adding the u-syllable?",
+   "premises": [
+    "The mantra is endowed with the u-syllable.",
+    "It follows the rule of following au.",
+    "It is endowed with a specific pronunciation."
+   ],
+   "inference": "The mantra's pronunciation is determined by adding the u-syllable according to the rule of following au.",
+   "uncertainties": [],
+   "plain_english": "Endowed with the syllable u and following the rule of au, it is endowed with its proper pronunciation."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "au",
+     "gloss": "au",
+     "grounds": "syllable name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etadakṣarasaṃghātātmā",
+     "gloss": "whose-nature-is-this-syllable-aggregate",
+     "grounds": "compound describing the mantra's composition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vindvādiyuktaḥ",
+     "gloss": "joined-with-bindu-and-others",
+     "grounds": "compound adjective qualifying the mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What constitutes the essential composition of this mantra as au?",
+   "premises": [
+    "The syllable au is specified.",
+    "This mantra's nature is an aggregate of these syllables.",
+    "The mantra is joined with bindu and other elements."
+   ],
+   "inference": "This mantra is constituted as au, formed from that syllable aggregate and joined with bindu and other elements.",
+   "uncertainties": [
+    "The exact elements included in 'and others' are not specified here."
+   ],
+   "plain_english": "This mantra, whose nature is the aggregate of these syllables, is au, joined with bindu and other elements."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "sabindukaḥ",
+     "gloss": "with-bindu",
+     "grounds": "compound adjective indicating accompaniment by bindu",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What additional element must accompany the mantra in its form?",
+   "premises": [
+    "The mantra is described as having bindu.",
+    "Bindu is presented as an accompanying element."
+   ],
+   "inference": "The mantra's form includes bindu as an essential accompaniment.",
+   "uncertainties": [],
+   "plain_english": "It is accompanied by bindu."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇa",
+     "gloss": "to-be-spoken",
+     "grounds": "future passive participle qualifying accomplishments",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tattatsiddhi",
+     "gloss": "various-accomplishments",
+     "grounds": "compound denoting specific accomplishments",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sādhakatvāt",
+     "gloss": "because-of-causing",
+     "grounds": "ablative abstract noun expressing reason",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "evamabhidhānāḥ",
+     "gloss": "thus-named",
+     "grounds": "compound adjective describing how they are called",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "uktāḥ",
+     "gloss": "spoken",
+     "grounds": "past passive participle indicating declaration",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Why are these mantras given their specific names in the teaching?",
+   "premises": [
+    "They cause various accomplishments to be spoken of.",
+    "Their naming corresponds to that causal function.",
+    "They are declared with those names."
+   ],
+   "inference": "They are named thus because they bring about the various accomplishments that will be described.",
+   "uncertainties": [],
+   "plain_english": "Because they bring about the various accomplishments to be described, they are spoken of by these names."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "pradarśayiṣyamāṇa",
+     "gloss": "to-be-shown",
+     "grounds": "future passive participle qualifying the form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhyānasvarūpam",
+     "gloss": "form-of-meditation",
+     "grounds": "compound noun denoting the nature of meditation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What aspect of meditation is indicated as forthcoming in the exposition?",
+   "premises": [
+    "A form of meditation is to be shown.",
+    "This form is presented as forthcoming."
+   ],
+   "inference": "The exposition will next present the form of meditation.",
+   "uncertainties": [],
+   "plain_english": "The form of meditation to be shown."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "saṃgati",
+     "gloss": "connection",
+     "grounds": "noun indicating logical or textual connection",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "darśayati",
+     "gloss": "shows",
+     "grounds": "present active verb",
+     "morph": "3.sg.pres.act √dṛś"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "lord",
+     "grounds": "honorific subject noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who establishes the connection between the preceding and following teachings?",
+   "premises": [
+    "A connection is to be shown.",
+    "The Lord performs the act of showing.",
+    "The showing links parts of the teaching."
+   ],
+   "inference": "The Lord shows the connection between the teachings.",
+   "uncertainties": [],
+   "plain_english": "The Lord shows the connection."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "mantroddhāraprakāśanaṃ",
+     "gloss": "illumination-of-mantra-extraction",
+     "grounds": "compound naming the chapter's subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable indicating designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun denoting a textual section",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the designated title and position of this chapter in the text?",
+   "premises": [
+    "The subject is the illumination of mantra extraction.",
+    "It is designated by name.",
+    "It is identified as the first chapter."
+   ],
+   "inference": "This section is designated as the first chapter, named the illumination of mantra extraction.",
+   "uncertainties": [],
+   "plain_english": "The first chapter, named the illumination of mantra extraction."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "tṛṇakeśaparṇakāṣṭhādi",
+     "gloss": "grass-hair-leaf-wood-and-so-on",
+     "grounds": "compound listing materials to be removed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "astramantreṇa",
+     "gloss": "with-astra-mantra",
+     "grounds": "instrumental compound indicating means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "coddharet",
+     "gloss": "and-should-remove",
+     "grounds": "optative verb with prefixed conjunction in sandhi",
+     "morph": "3.sg.opt.act √hṛ"
+    }
+   ],
+   "question": "By what ritual means should impurities like grass and wood be removed?",
+   "premises": [
+    "Materials such as grass, hair, leaf, and wood are specified.",
+    "The astra mantra is the instrument.",
+    "Removal is prescribed as an action."
+   ],
+   "inference": "One should remove grass, hair, leaves, wood, and similar materials using the astra mantra.",
+   "uncertainties": [],
+   "plain_english": "One should remove grass, hair, leaves, wood, and so on with the astra mantra."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "vyākhyātam",
+     "gloss": "explained",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadatyantāsamanvitatvāt",
+     "gloss": "because-of-its-extreme-unconnectedness",
+     "grounds": "ablative abstract noun giving reason",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "upekṣyam",
+     "gloss": "to-be-ignored",
+     "grounds": "gerundive indicating what should be done",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why should a previously explained matter be disregarded in this context?",
+   "premises": [
+    "Something has been explained.",
+    "It is extremely unconnected to the present matter.",
+    "Disregard is prescribed."
+   ],
+   "inference": "What was explained should be ignored because it is entirely unconnected here.",
+   "uncertainties": [
+    "The specific referent of 'that' is not identified in this verse."
+   ],
+   "plain_english": "That has been explained, but because it is entirely unconnected, it should be ignored."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "sūryaspṛṣṭaṃ",
+     "gloss": "touched-by-sun",
+     "grounds": "compound adjective describing an object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadadarśane",
+     "gloss": "when-that-not-seen",
+     "grounds": "locative compound expressing condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prāṇaspṛṣṭaṃ",
+     "gloss": "touched-by-breath",
+     "grounds": "compound adjective offering an alternative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative ritual contact is prescribed when sunlight is unavailable?",
+   "premises": [
+    "Contact with the sun is one option.",
+    "A condition of not seeing that is specified.",
+    "Contact with breath is offered as an alternative."
+   ],
+   "inference": "If sunlight is unavailable, one should make it touched by breath instead.",
+   "uncertainties": [
+    "The object to be touched is not explicitly named in this verse."
+   ],
+   "plain_english": "Having made it touched by the sun, or, if that is not seen, having made it touched by the breath."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "śuddhatattvasṛṣṭivyāptyā",
+     "gloss": "by-pervasion-of-pure-principle-creation",
+     "grounds": "instrumental compound indicating means",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadāguṇṭhyeti",
+     "gloss": "thus-having-covered-that",
+     "grounds": "sandhi fusion of tadā, āguṇṭhya, and iti",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liptvā",
+     "gloss": "having-smeared",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the object ritually enveloped through the pure-principle creation?",
+   "premises": [
+    "Pervasion by the creation of pure principles is the means.",
+    "The object is to be covered.",
+    "Smearing is performed as part of the act."
+   ],
+   "inference": "By pervading it with the creation of pure principles, one smears and thus covers this object.",
+   "uncertainties": [],
+   "plain_english": "Having smeared this by pervading it with the creation of the pure principles, thus having covered it."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "yathākramaśabdārthaḥ",
+     "gloss": "meaning-according-to-proper-order",
+     "grounds": "compound indicating sequential meaning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāstradrṛṣṭena",
+     "gloss": "by-what-is-seen-in-scripture",
+     "grounds": "instrumental compound indicating authority",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vedādisiddhena",
+     "gloss": "by-what-is-established-in-veda-and-so-on",
+     "grounds": "instrumental compound indicating established tradition",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What authorities determine the proper sequential meaning in this procedure?",
+   "premises": [
+    "Meaning follows a proper order.",
+    "Scriptural vision provides a basis.",
+    "What is established in the Veda and other sources provides a basis."
+   ],
+   "inference": "The proper sequential meaning is determined by what is seen in scripture and established in the Veda and related sources.",
+   "uncertainties": [],
+   "plain_english": "The meaning follows the proper order, as seen in scripture and as established in the Veda and so on."
+  }
+ ]
+}

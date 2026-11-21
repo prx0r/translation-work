@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṃkālamākhyātam",
+     "gloss": "kankala-called",
+     "grounds": "fused compound form as given",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-color",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhūtaḥ",
+     "gloss": "bhuta",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇavarṇaḥ",
+     "gloss": "black-color",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What colors are assigned to the kankala and bhuta deities in this ritual prescription?",
+   "premises": [
+    "evaṃ introduces the named form",
+    "kaṃkālamākhyātam names kankala",
+    "deva receives red and black colors"
+   ],
+   "inference": "The verse assigns red color to the god and black color to the bhuta.",
+   "uncertainties": [
+    "case and vocative force of deva remain unresolved",
+    "quotation boundary in the compendium is unknown"
+   ],
+   "plain_english": "Thus the kankala is called; the god is red-colored, the bhuta black-colored."
+  }
+ ]
+}

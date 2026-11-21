@@ -1,0 +1,1011 @@
+{
+ "song": "mukta-m0-p250",
+ "items": [
+  {
+   "verse": 6226,
+   "rows": [
+    {
+     "surface": "samṛddhyāyutam",
+     "gloss": "endowed-with-prosperity",
+     "grounds": "Describes the deity as possessing prosperity.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhyarcet",
+     "gloss": "one-should-worship",
+     "grounds": "Prescribes worship as the ritual action.",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "pramodaṃ",
+     "gloss": "pramoda",
+     "grounds": "Names the deity to be worshipped.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vahnikoṇake",
+     "gloss": "in-fire-corner",
+     "grounds": "Specifies the southeast ritual location.",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the prosperity-endowed Pramoda be worshipped in the ritual layout?",
+   "premises": [
+    "Pramoda is endowed with prosperity.",
+    "Worship of Pramoda is prescribed.",
+    "The fire corner is the specified location."
+   ],
+   "inference": "Pramoda endowed with prosperity should be worshipped in the fire corner.",
+   "uncertainties": [],
+   "plain_english": "One should worship Pramoda, endowed with prosperity, in the southeast fire corner."
+  },
+  {
+   "verse": 6227,
+   "rows": [
+    {
+     "surface": "madanāvatyā",
+     "gloss": "with-madanavati",
+     "grounds": "Names the female consort accompanying the worship.",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yajed",
+     "gloss": "one-should-worship",
+     "grounds": "Prescribes the act of worship.",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "vāruṇakoṇagam",
+     "gloss": "gone-to-west-corner",
+     "grounds": "Indicates the deity located in the western corner.",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who should be worshipped with Madanavati in the western corner?",
+   "premises": [
+    "Worship is prescribed as a ritual action.",
+    "Madanavati accompanies the worship.",
+    "The deity is located in the western corner."
+   ],
+   "inference": "The deity in the western corner should be worshipped together with Madanavati.",
+   "uncertainties": [
+    "The specific name of the deity in the western corner is not stated."
+   ],
+   "plain_english": "One should worship the deity in the western corner together with Madanavati."
+  },
+  {
+   "verse": 6228,
+   "rows": [
+    {
+     "surface": "vighnakarttāraṃ",
+     "gloss": "obstacle-maker",
+     "grounds": "Names the deity as the creator of obstacles.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "drāviṇyā",
+     "gloss": "with-dravini",
+     "grounds": "Names the female consort accompanying the worship.",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sahitaṃ",
+     "gloss": "accompanied",
+     "grounds": "Indicates accompaniment by Dravini.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "Prescribes the act of worship.",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "How should the obstacle-maker deity be worshipped with Dravini?",
+   "premises": [
+    "The obstacle-maker is the object of worship.",
+    "Dravini accompanies the obstacle-maker.",
+    "Worship of this pair is prescribed."
+   ],
+   "inference": "The obstacle-maker accompanied by Dravini should be worshipped.",
+   "uncertainties": [],
+   "plain_english": "One should worship the obstacle-maker together with Dravini."
+  },
+  {
+   "verse": 6229,
+   "rows": [
+    {
+     "surface": "raktāraktāmbarālepabhūṣaṇā",
+     "gloss": "red-garment-unguent-ornaments",
+     "grounds": "Compound describing red garments, unguents, and ornaments.",
+     "morph": "f.nom.pl (bahuvrihi)"
+    },
+    {
+     "surface": "madavihvalāḥ",
+     "gloss": "overwhelmed-with-intoxication",
+     "grounds": "Describes the figures as overcome by intoxication.",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What appearance and state characterize the female figures being described?",
+   "premises": [
+    "The figures wear red garments, unguents, and ornaments.",
+    "The figures are overwhelmed with intoxication.",
+    "Both descriptions apply to the same group."
+   ],
+   "inference": "The described female figures are red-adorned and overwhelmed with intoxication.",
+   "uncertainties": [
+    "The referent of these figures depends on the preceding context."
+   ],
+   "plain_english": "They are adorned with red garments, unguents, and ornaments, and overwhelmed with intoxication."
+  },
+  {
+   "verse": 6230,
+   "rows": [
+    {
+     "surface": "śaṃkhanidhiṃ",
+     "gloss": "conch-treasure",
+     "grounds": "Names the treasure deity Shankha-nidhi.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vām",
+     "gloss": "or",
+     "grounds": "Introduces an alternative option.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "Prescribes the act of worship.",
+     "morph": "3.sg.opt.act √arc"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "Indicates the worship is performed in the same manner.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative treasure deity may be worshipped in the same manner?",
+   "premises": [
+    "Worship is prescribed as an option.",
+    "Shankha-nidhi is named as the object.",
+    "The worship follows the same manner as before."
+   ],
+   "inference": "One may likewise worship Shankha-nidhi as an alternative.",
+   "uncertainties": [],
+   "plain_english": "Or one should likewise worship the conch treasure."
+  },
+  {
+   "verse": 6231,
+   "rows": [
+    {
+     "surface": "lokānāṃ",
+     "gloss": "of-worlds",
+     "grounds": "Indicates the worlds as recipients.",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "meghavat",
+     "gloss": "like-cloud",
+     "grounds": "Provides a simile comparing the deity to a cloud.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "Indicates continual action.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the deity continually relate to the worlds like a cloud?",
+   "premises": [
+    "The worlds are the recipients of the action.",
+    "A cloud provides the comparison.",
+    "The relation is continual."
+   ],
+   "inference": "The deity continually benefits the worlds like a cloud.",
+   "uncertainties": [
+    "The specific verb is implied from context rather than stated."
+   ],
+   "plain_english": "Always like a cloud for the worlds."
+  },
+  {
+   "verse": 6232,
+   "rows": [
+    {
+     "surface": "ṣaḍāvaraṇasaṃyuktam",
+     "gloss": "endowed-with-six-enclosures",
+     "grounds": "Describes the deity as surrounded by six enclosures.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "Refers to the manner described above.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "Names the deity as the object of worship.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "Prescribes thorough worship.",
+     "morph": "3.sg.opt.act √arc"
+    }
+   ],
+   "question": "In what form should the deity with six enclosures be worshipped?",
+   "premises": [
+    "The deity is endowed with six enclosures.",
+    "The manner of worship has been described.",
+    "Thorough worship is prescribed."
+   ],
+   "inference": "The deity endowed with six enclosures should be worshipped in this manner.",
+   "uncertainties": [],
+   "plain_english": "Thus one should worship the deity endowed with six enclosures."
+  },
+  {
+   "verse": 6233,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "Specifies the quantity as one tenth.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "juhuyād",
+     "gloss": "one-should-offer",
+     "grounds": "Prescribes the fire offering.",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "aṣṭadravyair",
+     "gloss": "with-eight-substances",
+     "grounds": "Specifies eight substances for the offering.",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ekākṣaroditaiḥ",
+     "gloss": "uttered-with-one-syllable",
+     "grounds": "Indicates the substances are consecrated with a single syllable.",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What quantity and materials are required for the prescribed fire offering?",
+   "premises": [
+    "A fire offering is prescribed.",
+    "The offering should be a tenth part.",
+    "Eight substances uttered with one syllable are used."
+   ],
+   "inference": "One should offer a tenth part using eight substances consecrated with a single syllable.",
+   "uncertainties": [],
+   "plain_english": "One should offer a tenth part into the fire with eight substances uttered with the single syllable."
+  },
+  {
+   "verse": 6234,
+   "rows": [
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "Indicates bowing before dismissal.",
+     "morph": "(gerund) √nam"
+    },
+    {
+     "surface": "visṛjed",
+     "gloss": "one-should-dismiss",
+     "grounds": "Prescribes ritual dismissal.",
+     "morph": "3.sg.opt.act √sṛj"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "Refers to the completed procedure.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "Describes the resulting state of the mantra.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaven",
+     "gloss": "should-become",
+     "grounds": "States the result of the procedure.",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "Identifies the mantra as the subject.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What result follows when the deity is bowed to and dismissed in this manner?",
+   "premises": [
+    "Bowing and dismissal are prescribed.",
+    "The procedure is completed in this manner.",
+    "The mantra is the subject of accomplishment."
+   ],
+   "inference": "When performed thus, the mantra becomes accomplished.",
+   "uncertainties": [],
+   "plain_english": "Having bowed, one should dismiss the deity thus; then the mantra becomes accomplished."
+  },
+  {
+   "verse": 6235,
+   "rows": [
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "Prescribes performing the ritual.",
+     "morph": "3.sg.opt.mid √kṛ"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "Names the desired results.",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syur",
+     "gloss": "would-be",
+     "grounds": "States the conditional result.",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "Negates the alternative outcome.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "Connects clauses; sandhi form of ca.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyathā",
+     "gloss": "otherwise",
+     "grounds": "Indicates the contrary condition.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition do the ritual accomplishments arise for the practitioner?",
+   "premises": [
+    "The ritual should be performed.",
+    "Accomplishments arise from proper performance.",
+    "Accomplishments do not arise otherwise."
+   ],
+   "inference": "Accomplishments arise if performed properly, but not otherwise.",
+   "uncertainties": [],
+   "plain_english": "One should perform it; accomplishments would arise, and not otherwise."
+  },
+  {
+   "verse": 6236,
+   "rows": [
+    {
+     "surface": "sahasrāṣṭakam",
+     "gloss": "eight-thousand",
+     "grounds": "Specifies the number of offerings.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "Refers to the ritual or mantra context.",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nte",
+     "gloss": "at-end",
+     "grounds": "Indicates the conclusion of the rite.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "Prescribes the fire offering.",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "karavīrajaiḥ",
+     "gloss": "with-oleander-born",
+     "grounds": "Specifies oleander-derived materials for offering.",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What concluding fire offering should be made with oleander materials?",
+   "premises": [
+    "A concluding offering is prescribed.",
+    "The quantity is eight thousand.",
+    "Oleander-derived materials are used."
+   ],
+   "inference": "At the end one should offer eight thousand times with oleander materials.",
+   "uncertainties": [
+    "The exact referent of asyā is context-dependent."
+   ],
+   "plain_english": "At its end, one should offer eight thousand times with oleander materials."
+  },
+  {
+   "verse": 6237,
+   "rows": [
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "Indicates attaining a state.",
+     "morph": "(gerund) √bhū"
+    },
+    {
+     "surface": "sāmātyaḥ",
+     "gloss": "with-ministers",
+     "grounds": "Describes being accompanied by ministers.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sanniṣevakaḥ",
+     "gloss": "with-attendants",
+     "grounds": "Describes being accompanied by attendants.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What retinue accompanies the practitioner as a result of the rite?",
+   "premises": [
+    "A resulting state is attained.",
+    "Ministers accompany the practitioner.",
+    "Attendants accompany the practitioner."
+   ],
+   "inference": "The practitioner becomes accompanied by ministers and attendants.",
+   "uncertainties": [
+    "The subject is implied from the preceding ritual context."
+   ],
+   "plain_english": "Having become endowed with ministers and attendants."
+  },
+  {
+   "verse": 6238,
+   "rows": [
+    {
+     "surface": "vighnāḥ",
+     "gloss": "obstacles",
+     "grounds": "Names obstacles as the subject.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syur",
+     "gloss": "would-be",
+     "grounds": "States the resulting condition.",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "vaśās",
+     "gloss": "subdued",
+     "grounds": "Describes obstacles as brought under control.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "Refers to the practitioner.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "Negates doubt.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "Asserts certainty of the result.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to obstacles for the practitioner who completes the rite?",
+   "premises": [
+    "Obstacles are the subject of the result.",
+    "The obstacles become subdued.",
+    "There is no doubt about this outcome."
+   ],
+   "inference": "For that practitioner, obstacles become subdued without doubt.",
+   "uncertainties": [],
+   "plain_english": "Obstacles would be subdued for him; there is no doubt."
+  },
+  {
+   "verse": 6239,
+   "rows": [
+    {
+     "surface": "vipulāṃ",
+     "gloss": "abundant",
+     "grounds": "Describes the result as abundant.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "cirakālānubandhinīm",
+     "gloss": "long-time-lasting",
+     "grounds": "Describes the result as enduring over a long time.",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What qualities characterize the benefit obtained from the ritual practice?",
+   "premises": [
+    "The benefit is described as abundant.",
+    "The benefit is described as long-lasting.",
+    "Both qualities apply to the same result."
+   ],
+   "inference": "The obtained benefit is abundant and long-lasting.",
+   "uncertainties": [
+    "The specific noun qualified by these adjectives is supplied by context."
+   ],
+   "plain_english": "Abundant and lasting for a long time."
+  },
+  {
+   "verse": 6240,
+   "rows": [
+    {
+     "surface": "lavaṇājyasurābhiś",
+     "gloss": "with-salt-ghee-liquor",
+     "grounds": "Lists salt, ghee, and liquor as purifying agents.",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connects elements in the procedure.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śodhayitvā",
+     "gloss": "having-purified",
+     "grounds": "Indicates purification as a prior action.",
+     "morph": "(gerund) √śudh"
+    },
+    {
+     "surface": "sya",
+     "gloss": "of-this",
+     "grounds": "Refers to the object being purified; sandhi form.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ashes",
+     "grounds": "Names the resulting ashes.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "Marks a shift to the result.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the ashes prepared using salt, ghee, and liquor?",
+   "premises": [
+    "Salt, ghee, and liquor are used in the process.",
+    "Purification is performed with these substances.",
+    "Ashes result from this procedure."
+   ],
+   "inference": "The ashes are prepared by purifying the material with salt, ghee, and liquor.",
+   "uncertainties": [
+    "The object whose ashes are taken is implied by context."
+   ],
+   "plain_english": "But having purified it with salt, ghee, and liquor, its ashes."
+  },
+  {
+   "verse": 6241,
+   "rows": [
+    {
+     "surface": "bhavaty",
+     "gloss": "becomes",
+     "grounds": "States the resulting condition.",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "āmaraṇāṃtaṃ",
+     "gloss": "until-death",
+     "grounds": "Indicates duration lasting until death.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "Refers to the woman affected by the rite.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dāsītoṣy",
+     "gloss": "than-maidservant",
+     "grounds": "Provides a comparison to a maidservant; sandhi form.",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "more",
+     "grounds": "Indicates a greater degree of submission.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśā",
+     "gloss": "submissive",
+     "grounds": "Describes her as under control.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What degree of lasting submission results for the woman affected by the rite?",
+   "premises": [
+    "A woman becomes affected by the rite.",
+    "Her submission lasts until death.",
+    "Her submission exceeds that of a maidservant."
+   ],
+   "inference": "She becomes submissive until death, even more than a maidservant.",
+   "uncertainties": [],
+   "plain_english": "She becomes submissive until death, even more than a maidservant."
+  },
+  {
+   "verse": 6242,
+   "rows": [
+    {
+     "surface": "mokṣam",
+     "gloss": "liberation",
+     "grounds": "Names liberation as the goal.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "States attainment of liberation.",
+     "morph": "3.sg.opt.act √āp"
+    }
+   ],
+   "question": "What ultimate spiritual attainment may result from the prescribed practice?",
+   "premises": [
+    "Liberation is named as an attainable goal.",
+    "Attainment is expressed as a possible result.",
+    "The result follows from the practice."
+   ],
+   "inference": "The practitioner may obtain liberation.",
+   "uncertainties": [
+    "The subject is implied from the ritual context."
+   ],
+   "plain_english": "One may obtain liberation."
+  },
+  {
+   "verse": 6243,
+   "rows": [
+    {
+     "surface": "vedārthakaraṇe",
+     "gloss": "in-understanding-veda-meaning",
+     "grounds": "Specifies understanding the meaning of the Vedas.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "buddhiṃ",
+     "gloss": "intellect",
+     "grounds": "Names intellect as what is obtained.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "States the attainment of intellect.",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "Identifies the practitioner as the subject.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What intellectual capacity does the practitioner gain regarding Vedic meaning?",
+   "premises": [
+    "The practitioner is the subject.",
+    "Understanding Vedic meaning is the domain.",
+    "Intellect is obtained in that domain."
+   ],
+   "inference": "The practitioner obtains intellect for understanding the meaning of the Vedas.",
+   "uncertainties": [],
+   "plain_english": "The practitioner obtains intellect for understanding the meaning of the Vedas."
+  },
+  {
+   "verse": 6244,
+   "rows": [
+    {
+     "surface": "tasyā",
+     "gloss": "of-him",
+     "grounds": "Refers to the practitioner; sandhi form of tasya.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lpamṛtyurogādyā",
+     "gloss": "premature-death-disease-etc",
+     "grounds": "Lists premature death, disease, and similar afflictions.",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naśyanty",
+     "gloss": "perish",
+     "grounds": "States that afflictions are destroyed.",
+     "morph": "3.pl.pres.act √naś"
+    },
+    {
+     "surface": "āyuś",
+     "gloss": "lifespan",
+     "grounds": "Names lifespan as increasing.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connects the two results.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vardhate",
+     "gloss": "increases",
+     "grounds": "States that lifespan grows.",
+     "morph": "3.sg.pres.mid √vṛdh"
+    }
+   ],
+   "question": "What protective and life-extending effects arise for the practitioner?",
+   "premises": [
+    "Premature death, disease, and similar afflictions affect the practitioner.",
+    "These afflictions perish.",
+    "The practitioner's lifespan increases."
+   ],
+   "inference": "For him, premature death and diseases perish and lifespan increases.",
+   "uncertainties": [],
+   "plain_english": "For him, premature death, disease, and the like perish, and lifespan increases."
+  },
+  {
+   "verse": 6245,
+   "rows": [
+    {
+     "surface": "uccāṭayed",
+     "gloss": "one-should-expel",
+     "grounds": "Prescribes the act of driving away.",
+     "morph": "3.sg.opt.caus.act √caṭ"
+    },
+    {
+     "surface": "vairisaṅghān",
+     "gloss": "enemy-groups",
+     "grounds": "Names groups of enemies as targets.",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "grāmaṃ",
+     "gloss": "village",
+     "grounds": "Names a village as a target.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deśaṃ",
+     "gloss": "country",
+     "grounds": "Names a country as a target.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "purādikam",
+     "gloss": "city-etc",
+     "grounds": "Names a city and similar places as targets.",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What enemies and places can be expelled through this ritual application?",
+   "premises": [
+    "Expulsion is prescribed as a ritual action.",
+    "Enemy groups are targets of expulsion.",
+    "Villages, countries, and cities can be targeted."
+   ],
+   "inference": "One should expel enemy groups from villages, countries, cities, and the like.",
+   "uncertainties": [],
+   "plain_english": "One should expel groups of enemies, or a village, country, city, and so on."
+  },
+  {
+   "verse": 6246,
+   "rows": [
+    {
+     "surface": "raṇḍās",
+     "gloss": "widows",
+     "grounds": "Names widows as the subject.",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "Refers to the practitioner.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaśyā",
+     "gloss": "subdued",
+     "grounds": "Describes widows as brought under control.",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jīvena",
+     "gloss": "by-life",
+     "grounds": "Indicates control extending to life.",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connects life and wealth.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanena",
+     "gloss": "by-wealth",
+     "grounds": "Indicates control extending to wealth.",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Adds emphasis or continuation.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what respects do widows become subdued to the practitioner?",
+   "premises": [
+    "Widows are the subject of the result.",
+    "They become subdued to the practitioner.",
+    "Subjugation extends to life and wealth."
+   ],
+   "inference": "Widows become subdued to him with respect to life and wealth.",
+   "uncertainties": [],
+   "plain_english": "Widows become subdued to him, with their lives and wealth."
+  },
+  {
+   "verse": 6247,
+   "rows": [
+    {
+     "surface": "ūttarapadārthasya",
+     "gloss": "of-latter-word-meaning",
+     "grounds": "Refers to the meaning of the latter term.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "buddhyā",
+     "gloss": "by-intellect",
+     "grounds": "Indicates discernment by intellect.",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pravibhāgāt",
+     "gloss": "by-distinction",
+     "grounds": "Indicates analysis or division.",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pratyavamarśaḥ]",
+     "gloss": "reflection",
+     "grounds": "Names reflective awareness as the result.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connects this element to the context.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does reflective awareness arise from distinguishing the latter term's meaning?",
+   "premises": [
+    "The meaning of the latter term is considered.",
+    "Distinction is made by intellect.",
+    "Reflective awareness arises from this distinction."
+   ],
+   "inference": "Reflective awareness arises through intellectual distinction of the latter term's meaning.",
+   "uncertainties": [
+    "The bracket in the surface token is preserved as given."
+   ],
+   "plain_english": "And reflective awareness arises by intellectually distinguishing the meaning of the latter term."
+  },
+  {
+   "verse": 6248,
+   "rows": [
+    {
+     "surface": "pravaded",
+     "gloss": "one-should-declare",
+     "grounds": "Prescribes uttering a formula.",
+     "morph": "3.sg.opt.act √vad"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "Refers to the formula or statement.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "amukaṃ",
+     "gloss": "so-and-so",
+     "grounds": "Placeholder for a specified name or target.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "Connects elements of the formula; sandhi form of ca.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukena",
+     "gloss": "by-so-and-so",
+     "grounds": "Placeholder indicating means or agent in the formula.",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connects elements of the formula.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What formulaic declaration should be uttered using placeholder names?",
+   "premises": [
+    "A declaration is prescribed.",
+    "The formula includes placeholder terms.",
+    "The placeholders specify target and means."
+   ],
+   "inference": "One should declare the formula containing 'so-and-so' and 'by so-and-so'.",
+   "uncertainties": [
+    "The exact ritual formula structure is abbreviated by placeholders."
+   ],
+   "plain_english": "One should declare this: 'so-and-so' and 'by so-and-so'."
+  },
+  {
+   "verse": 6249,
+   "rows": [
+    {
+     "surface": "mantrayed",
+     "gloss": "one-should-consecrate",
+     "grounds": "Prescribes consecration with mantra.",
+     "morph": "3.sg.opt.caus.act √mantr"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "one-hundred-eight",
+     "grounds": "Specifies the number one hundred and eight.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "Refers to the object to be consecrated; sandhi form of tat.",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connects quantities or actions.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "Specifies the number one thousand.",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many times should the object be consecrated with the mantra?",
+   "premises": [
+    "Consecration with mantra is prescribed.",
+    "The counts one hundred eight and one thousand are given.",
+    "The same object is to be consecrated."
+   ],
+   "inference": "One should consecrate that object one hundred eight times and a thousand times.",
+   "uncertainties": [
+    "Whether the counts are alternatives or sequential depends on context."
+   ],
+   "plain_english": "One should consecrate that one hundred and eight times and a thousand times."
+  }
+ ]
+}

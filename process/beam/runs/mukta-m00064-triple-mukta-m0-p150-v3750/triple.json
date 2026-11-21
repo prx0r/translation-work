@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative/demonstrative adverb indicating the present point in the text",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭalasamāptiḥ",
+     "gloss": "chapter-completion",
+     "grounds": "compound denoting the conclusion of a paṭala (chapter)",
+     "morph": "compound: paṭala+samāptiḥ; f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle denying existence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "asserts existence, here negated",
+     "morph": "3.sg.pres.act.ind √as"
+    }
+   ],
+   "question": "Is a formal conclusion of the chapter present at this point in the text?",
+   "premises": [
+    "atra indicates the present location in the text.",
+    "paṭalasamāptiḥ denotes the completion of a chapter.",
+    "na asti explicitly negates the existence of that completion."
+   ],
+   "inference": "No formal chapter conclusion occurs at this point.",
+   "uncertainties": [],
+   "plain_english": "Here there is no conclusion of the chapter."
+  }
+ ]
+}

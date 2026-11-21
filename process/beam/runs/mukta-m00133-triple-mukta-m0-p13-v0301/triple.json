@@ -1,0 +1,997 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 301,
+   "rows": [
+    {
+     "surface": "sarvadharmeṣu",
+     "gloss": "in-all-duties",
+     "grounds": "locative plural indicating all domains of duty",
+     "morph": "loc.pl.m, compound sarva+member dharma+head"
+    },
+    {
+     "surface": "yatkarma",
+     "gloss": "whatever-action",
+     "grounds": "relative compound denoting any action performed",
+     "morph": "nom.sg.n, compound yad+member karman+head"
+    },
+    {
+     "surface": "sarvayajñeṣu",
+     "gloss": "in-all-sacrifices",
+     "grounds": "locative plural indicating all sacrificial rites",
+     "morph": "loc.pl.m, compound sarva+member yajña+head"
+    },
+    {
+     "surface": "yatphalam",
+     "gloss": "whatever-fruit",
+     "grounds": "relative compound denoting any resulting fruit",
+     "morph": "nom.sg.n, compound yad+member phala+head"
+    }
+   ],
+   "question": "What merit arises from actions in all duties and sacrifices?",
+   "premises": [
+    "Actions are performed in all duties.",
+    "Fruits are obtained in all sacrifices.",
+    "Both domains yield meritorious results."
+   ],
+   "inference": "The total merit of all duties and sacrifices is identified as a single attainable fruit.",
+   "uncertainties": [],
+   "plain_english": "Whatever action is performed in all duties and whatever fruit is gained in all sacrifices—"
+  },
+  {
+   "verse": 302,
+   "rows": [
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "refers back to the fruit mentioned previously",
+     "morph": "acc.sg.n, compound tad+member phala+head"
+    },
+    {
+     "surface": "samavāpnoti",
+     "gloss": "fully-obtains",
+     "grounds": "attainment of the stated result",
+     "morph": "3.sg.act-pres √āp with sam-ava"
+    },
+    {
+     "surface": "varṇānāṃ",
+     "gloss": "of-syllables",
+     "grounds": "genitive plural referring to sacred syllables or letters",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "dhyānamātrataḥ",
+     "gloss": "by-meditation-alone",
+     "grounds": "indicates meditation as the sole means",
+     "morph": "abl.sg.n, compound dhyāna+member mātra+head with ablative suffix"
+    }
+   ],
+   "question": "How can one obtain the fruit of all duties and sacrifices through syllable meditation?",
+   "premises": [
+    "The previously stated fruit is attainable.",
+    "Meditation is directed toward the syllables.",
+    "Meditation alone suffices as the means."
+   ],
+   "inference": "By meditating solely on the syllables, one fully obtains the fruit of all duties and sacrifices.",
+   "uncertainties": [
+    "varṇānāṃ may refer to letters, syllables, or social classes; mantra context favors syllables."
+   ],
+   "plain_english": "One fully obtains that fruit merely by meditating on the syllables."
+  },
+  {
+   "verse": 303,
+   "rows": [
+    {
+     "surface": "purāṇavācakaḥ",
+     "gloss": "purana-reciter",
+     "grounds": "one who recites or expounds the Puranas",
+     "morph": "nom.sg.m, compound purāṇa+member vācaka+head"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "certainly",
+     "grounds": "asserts inevitability of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakam",
+     "gloss": "hell",
+     "grounds": "destination of negative consequence",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "potential or prescriptive result",
+     "morph": "3.sg.act-opt √āp"
+    }
+   ],
+   "question": "What consequence befalls a person who recites the Puranas?",
+   "premises": [
+    "A person may act as a reciter of the Puranas.",
+    "The text assigns a definite outcome to such recitation.",
+    "The stated outcome is hell."
+   ],
+   "inference": "The reciter of the Puranas certainly obtains hell.",
+   "uncertainties": [],
+   "plain_english": "Whoever recites the Puranas will certainly attain hell."
+  },
+  {
+   "verse": 304,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "correlative particle introducing comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktā",
+     "gloss": "speaker",
+     "grounds": "one who speaks or recites",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative particle completing comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotā",
+     "gloss": "hearer",
+     "grounds": "one who listens",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dvayoḥ",
+     "gloss": "of-both",
+     "grounds": "refers to speaker and hearer together",
+     "morph": "gen.dual.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "resulting consequence",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "indicates identical outcome for both",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Do the speaker and hearer of the Puranas share the same consequence?",
+   "premises": [
+    "There is a speaker of the Puranas.",
+    "There is a hearer of the Puranas.",
+    "The fruit is assigned to both."
+   ],
+   "inference": "The speaker and the hearer receive an equal fruit.",
+   "uncertainties": [],
+   "plain_english": "As is the speaker, so is the hearer; the fruit for both is equal."
+  },
+  {
+   "verse": 305,
+   "rows": [
+    {
+     "surface": "purāṇāni",
+     "gloss": "puranas",
+     "grounds": "the texts being recited",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "paṭhitvā",
+     "gloss": "having-recited",
+     "grounds": "completed act of recitation",
+     "morph": "(gerund) √paṭh"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścayam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakam",
+     "gloss": "hell",
+     "grounds": "destination of negative consequence",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-go",
+     "grounds": "potential or prescriptive result",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "What destination awaits one who has recited the Puranas?",
+   "premises": [
+    "A person may recite the Puranas.",
+    "Recitation leads to a definite consequence.",
+    "The consequence is going to hell."
+   ],
+   "inference": "Having recited the Puranas, one certainly goes to hell.",
+   "uncertainties": [],
+   "plain_english": "Indeed, having recited the Puranas, one certainly goes to hell."
+  },
+  {
+   "verse": 306,
+   "rows": [
+    {
+     "surface": "niścayam",
+     "gloss": "certainly",
+     "grounds": "asserts certainty of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogam",
+     "gloss": "disease",
+     "grounds": "affliction obtained as consequence",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "attainment of the stated result",
+     "morph": "3.sg.act-pres √āp"
+    },
+    {
+     "surface": "jambūdvīpasya",
+     "gloss": "of-jambu-island",
+     "grounds": "specifies the geographical domain",
+     "morph": "gen.sg.m, compound jambū+member dvīpa+head"
+    },
+    {
+     "surface": "bhārate",
+     "gloss": "in-bharata",
+     "grounds": "specifies the region within Jambudvipa",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What affliction arises in the land of Bharata within Jambudvipa?",
+   "premises": [
+    "A consequence is stated for the context.",
+    "The consequence is disease.",
+    "The location is Bharata in Jambudvipa."
+   ],
+   "inference": "One certainly obtains disease in Bharata within Jambudvipa.",
+   "uncertainties": [
+    "The subject obtaining disease is implied from the preceding verses."
+   ],
+   "plain_english": "One certainly obtains disease in the land of Bharata in Jambudvipa."
+  },
+  {
+   "verse": 307,
+   "rows": [
+    {
+     "surface": "sarvāsām",
+     "gloss": "of-all",
+     "grounds": "universal qualifier",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "yuvatīnām",
+     "gloss": "of-young-women",
+     "grounds": "group over which sovereignty is asserted",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavānī",
+     "gloss": "bhavani",
+     "grounds": "name of the goddess",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ādhidevatā",
+     "gloss": "supreme-goddess",
+     "grounds": "presiding deity status",
+     "morph": "nom.sg.f, compound ādhi+member devatā+head"
+    }
+   ],
+   "question": "Who is the presiding goddess of all young women?",
+   "premises": [
+    "All young women are considered as a group.",
+    "A presiding deity is identified for them.",
+    "Bhavani is named as that deity."
+   ],
+   "inference": "Bhavani is the supreme goddess of all young women.",
+   "uncertainties": [],
+   "plain_english": "Bhavani is the supreme goddess of all young women."
+  },
+  {
+   "verse": 308,
+   "rows": [
+    {
+     "surface": "raktapadmāsanagatām",
+     "gloss": "seated-on-red-lotus",
+     "grounds": "describes the goddess's seat",
+     "morph": "acc.sg.f, compound rakta+member padma+member āsana+member gata+head"
+    },
+    {
+     "surface": "raktām",
+     "gloss": "red",
+     "grounds": "describes the goddess's color",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "śukapariṣkṛtām",
+     "gloss": "adorned-with-parrot",
+     "grounds": "describes an adornment or attribute",
+     "morph": "acc.sg.f, compound śuka+member pariṣkṛta+head"
+    }
+   ],
+   "question": "How is Bhavani visually described in her red lotus form?",
+   "premises": [
+    "The goddess is seated on a red lotus.",
+    "The goddess is red in color.",
+    "The goddess is adorned with a parrot."
+   ],
+   "inference": "Bhavani is visualized as red, seated on a red lotus, and adorned with a parrot.",
+   "uncertainties": [
+    "śukapariṣkṛtām could also suggest adornment with a garment; parrot is a possible reading."
+   ],
+   "plain_english": "She is seated on a red lotus, red in color, and adorned with a parrot."
+  },
+  {
+   "verse": 309,
+   "rows": [
+    {
+     "surface": "raktabimbaphalābhāsām",
+     "gloss": "shining-like-red-bimba-fruit",
+     "grounds": "simile describing her radiance",
+     "morph": "acc.sg.f, compound rakta+member bimba+member phala+member ābhāsa+head"
+    },
+    {
+     "surface": "rākācandramukhīm",
+     "gloss": "with-full-moon-face",
+     "grounds": "describes her face as like the full moon",
+     "morph": "acc.sg.f, compound rākā+member candra+member mukha+head"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "indicates her transcendent status",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What qualities characterize the supreme goddess's radiance and face?",
+   "premises": [
+    "Her radiance resembles a red bimba fruit.",
+    "Her face resembles the full moon.",
+    "She is described as supreme."
+   ],
+   "inference": "The supreme goddess shines like a red bimba fruit and has a face like the full moon.",
+   "uncertainties": [],
+   "plain_english": "She shines like a red bimba fruit, has a face like the full moon, and is supreme."
+  },
+  {
+   "verse": 310,
+   "rows": [
+    {
+     "surface": "kaṭākṣaśatasaṃyuktām",
+     "gloss": "endowed-with-hundred-sidelong-glances",
+     "grounds": "describes her expressive glances",
+     "morph": "acc.sg.f, compound kaṭākṣa+member śata+member saṃyukta+head"
+    },
+    {
+     "surface": "cārucūḍāvinodinīm",
+     "gloss": "delighting-with-beautiful-crest",
+     "grounds": "describes her charming head ornament",
+     "morph": "acc.sg.f, compound cāru+member cūḍā+member vinodinī+head"
+    }
+   ],
+   "question": "What features of glance and adornment distinguish the goddess's appearance?",
+   "premises": [
+    "She is endowed with many sidelong glances.",
+    "She delights with a beautiful crest.",
+    "Both features enhance her charm."
+   ],
+   "inference": "The goddess is characterized by captivating glances and a delightful beautiful crest.",
+   "uncertainties": [],
+   "plain_english": "She is endowed with hundreds of sidelong glances and delights with a beautiful crest."
+  },
+  {
+   "verse": 311,
+   "rows": [
+    {
+     "surface": "hāsyayuktām",
+     "gloss": "endowed-with-laughter",
+     "grounds": "describes her smiling expression",
+     "morph": "acc.sg.f, compound hāsya+member yukta+head"
+    },
+    {
+     "surface": "praphullāsyām",
+     "gloss": "with-blossomed-face",
+     "grounds": "describes her radiant, open face",
+     "morph": "acc.sg.f, compound praphulla+member āsya+head"
+    },
+    {
+     "surface": "jyotsnājālasamacchavim",
+     "gloss": "with-splendor-like-moonlight-net",
+     "grounds": "simile comparing her radiance to moonlight",
+     "morph": "acc.sg.f, compound jyotsnā+member jāla+member sama+member chavi+head"
+    }
+   ],
+   "question": "How are the goddess's smile and radiance depicted in meditation imagery?",
+   "premises": [
+    "She is endowed with laughter.",
+    "Her face is fully blossomed.",
+    "Her splendor resembles a net of moonlight."
+   ],
+   "inference": "The goddess is visualized as smiling, radiant-faced, and shining like moonlight.",
+   "uncertainties": [],
+   "plain_english": "She is smiling, with a blossomed face, and her splendor is like a net of moonlight."
+  },
+  {
+   "verse": 312,
+   "rows": [
+    {
+     "surface": "kañculīsaṃyutām",
+     "gloss": "adorned-with-bodice",
+     "grounds": "describes her garment",
+     "morph": "acc.sg.f, compound kañculī+member saṃyuta+head"
+    },
+    {
+     "surface": "ramyām",
+     "gloss": "delightful",
+     "grounds": "general aesthetic quality",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kadambakorakastanīm",
+     "gloss": "with-breasts-like-kadamba-buds",
+     "grounds": "simile describing her breasts",
+     "morph": "acc.sg.f, compound kadamba+member koraka+member stanī+head"
+    }
+   ],
+   "question": "What garments and bodily features adorn the delightful goddess?",
+   "premises": [
+    "She wears a bodice.",
+    "She is delightful in appearance.",
+    "Her breasts resemble kadamba buds."
+   ],
+   "inference": "The delightful goddess is adorned with a bodice and has breasts like kadamba buds.",
+   "uncertainties": [],
+   "plain_english": "She is adorned with a bodice, delightful, and has breasts like kadamba buds."
+  },
+  {
+   "verse": 313,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to the preceding visualization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "completed act of meditation",
+     "morph": "(gerund) √dhyai"
+    },
+    {
+     "surface": "mahāmāyām",
+     "gloss": "great-maya",
+     "grounds": "epithet of the goddess",
+     "morph": "acc.sg.f, compound mahā+member māyā+head"
+    },
+    {
+     "surface": "bhavānīm",
+     "gloss": "bhavani",
+     "grounds": "name of the goddess",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "śivamohinīm",
+     "gloss": "deluder-of-shiva",
+     "grounds": "epithet indicating her power over Shiva",
+     "morph": "acc.sg.f, compound śiva+member mohinī+head"
+    }
+   ],
+   "question": "Which form of Bhavani should be meditated upon as described above?",
+   "premises": [
+    "The preceding verses describe a specific form.",
+    "Meditation is to be performed on that form.",
+    "The form is identified as Mahamaya Bhavani who deludes Shiva."
+   ],
+   "inference": "One should meditate thus on Mahamaya Bhavani, the deluder of Shiva.",
+   "uncertainties": [],
+   "plain_english": "Thus having meditated on Mahamaya Bhavani, the deluder of Shiva—"
+  },
+  {
+   "verse": 314,
+   "rows": [
+    {
+     "surface": "hṛtpadme",
+     "gloss": "in-heart-lotus",
+     "grounds": "location of meditation",
+     "morph": "loc.sg.n, compound hṛd+member padma+head"
+    },
+    {
+     "surface": "dvādaśadale",
+     "gloss": "twelve-petaled",
+     "grounds": "describes the heart lotus",
+     "morph": "loc.sg.n, compound dvādaśa+member dala+head"
+    },
+    {
+     "surface": "varāhopari",
+     "gloss": "above-varaha",
+     "grounds": "specifies the seat or support in meditation",
+     "morph": "loc.sg.n, compound varāha+member upari+head"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-meditate",
+     "grounds": "prescriptive instruction for meditation",
+     "morph": "3.sg.act-opt √bhū with causative sense"
+    }
+   ],
+   "question": "Where should the practitioner visualize Bhavani during meditation?",
+   "premises": [
+    "Meditation requires a specific locus.",
+    "The locus is the twelve-petaled heart lotus.",
+    "The visualization is placed above Varaha."
+   ],
+   "inference": "One should meditate on her in the twelve-petaled heart lotus above Varaha.",
+   "uncertainties": [
+    "varāhopari may refer to a support associated with Varaha in the meditative diagram."
+   ],
+   "plain_english": "One should meditate on her in the twelve-petaled heart lotus, above Varaha."
+  },
+  {
+   "verse": 315,
+   "rows": [
+    {
+     "surface": "dhyātvādevīm",
+     "gloss": "having-meditated-on-goddess",
+     "grounds": "completed act of meditating on the goddess",
+     "morph": "acc.sg.f, compound dhyātvā+member devī+head"
+    },
+    {
+     "surface": "yathāśaktyā",
+     "gloss": "according-to-ability",
+     "grounds": "indicates effort proportional to capacity",
+     "morph": "(indecl.), compound yathā+member śakti+head with instrumental sense"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "indicates result arising from meditation",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "āvirbhavet",
+     "gloss": "may-manifest",
+     "grounds": "appearance of the goddess",
+     "morph": "3.sg.act-opt √bhū with āvis"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "herself",
+     "grounds": "emphasizes direct manifestation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result follows from meditating on the goddess according to one's ability?",
+   "premises": [
+    "The goddess is meditated upon according to ability.",
+    "Meditation produces a result.",
+    "The result is the goddess's manifestation."
+   ],
+   "inference": "From such meditation, the goddess herself may manifest.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the goddess according to one's ability, she herself manifests from that."
+  },
+  {
+   "verse": 316,
+   "rows": [
+    {
+     "surface": "bījāt",
+     "gloss": "from-seed",
+     "grounds": "source of manifestation, referring to the seed mantra",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "emergence or birth",
+     "morph": "3.sg.mid-pres √pad with ud"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the manifested deity",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "parambrahma",
+     "gloss": "supreme-brahman",
+     "grounds": "identifies the goddess with ultimate reality",
+     "morph": "nom.sg.n, compound parama+member brahman+head"
+    },
+    {
+     "surface": "nirañjanam",
+     "gloss": "stainless",
+     "grounds": "describes supreme reality as untainted",
+     "morph": "nom.sg.n, compound nis+member añjana+head"
+    }
+   ],
+   "question": "What reality emerges from the seed mantra during this practice?",
+   "premises": [
+    "The seed mantra is the source.",
+    "The goddess arises from it.",
+    "The goddess is identified as stainless supreme Brahman."
+   ],
+   "inference": "From the seed arises the goddess, who is the stainless supreme Brahman.",
+   "uncertainties": [],
+   "plain_english": "From the seed the goddess arises as the stainless supreme Brahman."
+  },
+  {
+   "verse": 317,
+   "rows": [
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadashiva",
+     "grounds": "name of the supreme deity",
+     "morph": "nom.sg.m, compound sadā+member śiva+head"
+    },
+    {
+     "surface": "mahādevaḥ",
+     "gloss": "great-god",
+     "grounds": "epithet of Shiva",
+     "morph": "nom.sg.m, compound mahā+member deva+head"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative expressing the paradox",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "emergence or birth",
+     "morph": "3.sg.mid-pres √pad with ud"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphasizes self-arising",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can Sadashiva, the great god, be said to arise himself?",
+   "premises": [
+    "Sadashiva is identified as the great god.",
+    "Arising implies origination.",
+    "The question challenges how the supreme can arise."
+   ],
+   "inference": "The verse poses the paradox of how Sadashiva himself arises.",
+   "uncertainties": [],
+   "plain_english": "How does Sadashiva, the great god, himself arise?"
+  },
+  {
+   "verse": 318,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the preceding question or teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the knower",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "act of understanding",
+     "morph": "3.sg.act-pres √vid"
+    },
+    {
+     "surface": "saḥ-jñānī",
+     "gloss": "he-knower",
+     "grounds": "identifies the one who knows as a knower",
+     "morph": "nom.sg.m, compound saḥ+member jñānī+head"
+    },
+    {
+     "surface": "saḥ-eva",
+     "gloss": "he-alone",
+     "grounds": "emphatic identification",
+     "morph": "nom.sg.m, compound saḥ+member eva+head"
+    },
+    {
+     "surface": "vīrasattamaḥ",
+     "gloss": "best-of-heroes",
+     "grounds": "highest praise for the knower",
+     "morph": "nom.sg.m, compound vīra+member sattama+head"
+    }
+   ],
+   "question": "What status belongs to one who understands this paradox of arising?",
+   "premises": [
+    "The paradox of Sadashiva's arising is posed.",
+    "Someone may know this truth.",
+    "Such knowledge confers supreme status."
+   ],
+   "inference": "Whoever knows this is a knower and indeed the best of heroes.",
+   "uncertainties": [],
+   "plain_english": "Whoever knows this is a knower; he alone is the best of heroes."
+  },
+  {
+   "verse": 319,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "universal qualifier",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījānām",
+     "gloss": "of-seeds",
+     "grounds": "refers to seed mantras",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to the described method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "the practice to be performed",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act-opt √car with sam-ā"
+    }
+   ],
+   "question": "How should meditation be performed for all seed mantras?",
+   "premises": [
+    "There are many seed mantras.",
+    "A method of meditation has been described.",
+    "The same method applies universally."
+   ],
+   "inference": "One should perform meditation in this way for all seed mantras.",
+   "uncertainties": [],
+   "plain_english": "Thus one should perform meditation for all seed mantras."
+  },
+  {
+   "verse": 320,
+   "rows": [
+    {
+     "surface": "kaṭākṣaviśikhaiḥ",
+     "gloss": "with-sidelong-glance-arrows",
+     "grounds": "metaphor for piercing glances",
+     "morph": "ins.pl.m, compound kaṭākṣa+member viśikha+head"
+    },
+    {
+     "surface": "yuktām",
+     "gloss": "endowed-with",
+     "grounds": "describes possession of the attribute",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "caturbāhu",
+     "gloss": "four-armed",
+     "grounds": "describes the goddess's form",
+     "morph": "acc.sg.f, compound catur+member bāhu+head"
+    },
+    {
+     "surface": "samanvitām",
+     "gloss": "endowed-with",
+     "grounds": "further describes her form",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What form and attributes characterize the goddess in this meditation?",
+   "premises": [
+    "The goddess is endowed with sidelong-glance arrows.",
+    "The goddess has four arms.",
+    "These attributes define her visualized form."
+   ],
+   "inference": "The goddess is visualized as four-armed and endowed with arrow-like sidelong glances.",
+   "uncertainties": [],
+   "plain_english": "She is endowed with arrow-like sidelong glances and is four-armed."
+  },
+  {
+   "verse": 321,
+   "rows": [
+    {
+     "surface": "puṇḍarīkopaviṣṭām",
+     "gloss": "seated-on-white-lotus",
+     "grounds": "describes the goddess's seat",
+     "morph": "acc.sg.f, compound puṇḍarīka+member upaviṣṭa+head"
+    },
+    {
+     "surface": "rākācandramukhīm",
+     "gloss": "with-full-moon-face",
+     "grounds": "describes her face as like the full moon",
+     "morph": "acc.sg.f, compound rākā+member candra+member mukha+head"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "indicates her transcendent status",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What seat and facial radiance define the supreme goddess's form?",
+   "premises": [
+    "She is seated on a white lotus.",
+    "Her face resembles the full moon.",
+    "She is supreme."
+   ],
+   "inference": "The supreme goddess is visualized seated on a white lotus with a full-moon face.",
+   "uncertainties": [],
+   "plain_english": "She is seated on a white lotus, has a face like the full moon, and is supreme."
+  },
+  {
+   "verse": 322,
+   "rows": [
+    {
+     "surface": "nānābharaṇa",
+     "gloss": "with-various-ornaments",
+     "grounds": "first member of compound describing adornment",
+     "morph": "compound nānā+member ābharaṇa+member"
+    },
+    {
+     "surface": "dīptāṅgīm",
+     "gloss": "with-radiant-limbs",
+     "grounds": "describes her shining body",
+     "morph": "acc.sg.f, compound dīpta+member aṅga+head"
+    },
+    {
+     "surface": "meghāṃśukapariṣkṛtām",
+     "gloss": "adorned-with-cloud-garment",
+     "grounds": "describes her dark garment",
+     "morph": "acc.sg.f, compound megha+member aṃśuka+member pariṣkṛta+head"
+    }
+   ],
+   "question": "How are the goddess's ornaments and garments described in this form?",
+   "premises": [
+    "She wears various ornaments.",
+    "Her limbs are radiant.",
+    "She is adorned with a cloud-like garment."
+   ],
+   "inference": "The goddess is visualized with radiant limbs, various ornaments, and a cloud-colored garment.",
+   "uncertainties": [],
+   "plain_english": "Her limbs shine with various ornaments, and she is adorned with a garment like a cloud."
+  },
+  {
+   "verse": 323,
+   "rows": [
+    {
+     "surface": "ādyām",
+     "gloss": "primordial",
+     "grounds": "describes her as the original goddess",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "brahmamayīm",
+     "gloss": "consisting-of-brahman",
+     "grounds": "identifies her nature with Brahman",
+     "morph": "acc.sg.f, compound brahma+member maya+head"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "the deity being described",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "iṣṭabījasvarūpiṇīm",
+     "gloss": "having-form-of-desired-seed",
+     "grounds": "identifies her with the chosen seed mantra",
+     "morph": "acc.sg.f, compound iṣṭa+member bīja+member svarūpiṇī+head"
+    }
+   ],
+   "question": "What essential nature and identity define the primordial goddess?",
+   "premises": [
+    "She is primordial.",
+    "She consists of Brahman.",
+    "She embodies the form of the desired seed mantra."
+   ],
+   "inference": "The primordial goddess is Brahman-natured and embodies the desired seed mantra.",
+   "uncertainties": [],
+   "plain_english": "She is the primordial goddess, consisting of Brahman, and embodying the form of the desired seed."
+  },
+  {
+   "verse": 324,
+   "rows": [
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "act of devotion by the speaker",
+     "morph": "1.sg.act-pres √bhaj"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker of the verse",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "mātṛkādevīm",
+     "gloss": "matrika-goddess",
+     "grounds": "goddess of the syllabic matrix",
+     "morph": "acc.sg.f, compound mātṛkā+member devī+head"
+    },
+    {
+     "surface": "vedamātā",
+     "gloss": "mother-of-vedas",
+     "grounds": "epithet identifying her as source of the Vedas",
+     "morph": "acc.sg.f, compound veda+member mātṛ+head"
+    },
+    {
+     "surface": "sanātanīm",
+     "gloss": "eternal",
+     "grounds": "describes her timeless nature",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Whom does the speaker worship as the eternal mother of the Vedas?",
+   "premises": [
+    "The speaker performs worship.",
+    "The object of worship is the Matrika goddess.",
+    "She is identified as the eternal mother of the Vedas."
+   ],
+   "inference": "The speaker worships the eternal Matrika goddess, mother of the Vedas.",
+   "uncertainties": [],
+   "plain_english": "I worship the Matrika goddess, the eternal mother of the Vedas."
+  }
+ ]
+}

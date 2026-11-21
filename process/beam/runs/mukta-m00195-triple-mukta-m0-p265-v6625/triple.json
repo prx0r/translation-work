@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p265",
+ "items": [
+  {
+   "verse": 6625,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative of vāma indicating left side location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb indicating next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "on-right",
+     "grounds": "locative of dakṣa indicating right side location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karṇayoḥ",
+     "gloss": "on-both-ears",
+     "grounds": "locative dual of karṇa indicating both ears",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cibuke",
+     "gloss": "on-chin",
+     "grounds": "locative of cibuka indicating chin location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential adverb indicating subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific bodily locations continue the prescribed ritual placement sequence?",
+   "premises": [
+    "The placement is directed to the left side.",
+    "The placement then proceeds to the right side.",
+    "The placement includes both ears and the chin in sequence."
+   ],
+   "inference": "The ritual placement sequence extends to the left, right, ears, and chin.",
+   "uncertainties": [],
+   "plain_english": "Then on the left, then on the right, on both ears, and then on the chin."
+  }
+ ]
+}

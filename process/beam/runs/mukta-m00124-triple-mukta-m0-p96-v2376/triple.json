@@ -1,0 +1,923 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2376,
+   "rows": [
+    {
+     "surface": "puṣpadante",
+     "gloss": "in-puṣpadanta",
+     "grounds": "locative of site name Puṣpadanta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhallāṭe",
+     "gloss": "in-bhallāṭa",
+     "grounds": "locative of site name Bhallāṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahendre",
+     "gloss": "in-mahendra",
+     "grounds": "locative of site name Mahendra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhakṣate",
+     "gloss": "in-house-site",
+     "grounds": "locative of compound gṛha-kṣata (house plot)",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "At which specific sites should the prescribed gateway construction be carried out?",
+   "premises": [
+    "The locations named are Puṣpadanta, Bhallāṭa, and Mahendra.",
+    "These locations are specified as house sites."
+   ],
+   "inference": "The prescribed construction applies at the house sites of Puṣpadanta, Bhallāṭa, and Mahendra.",
+   "uncertainties": [
+    "The exact technical identification of Puṣpadanta, Bhallāṭa, and Mahendra within the vāstu grid is not specified here."
+   ],
+   "plain_english": "One should carry out the prescribed work at the house sites in Puṣpadanta, Bhallāṭa, and Mahendra."
+  },
+  {
+   "verse": 2377,
+   "rows": [
+    {
+     "surface": "khalūrikāyutaṃ",
+     "gloss": "with-khalūrikā",
+     "grounds": "compound khalūrikā-yuta (endowed with a khalūrikā)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopuraṃ",
+     "gloss": "gateway",
+     "grounds": "object of the prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhinācaret",
+     "gloss": "should-make-by-rule",
+     "grounds": "optative of ā-car with instrumental vidhinā (by prescribed rule)",
+     "morph": "3.sg.act-opt √car"
+    }
+   ],
+   "question": "How should the gateway be constructed according to the prescribed rule?",
+   "premises": [
+    "A gateway is the object to be made.",
+    "The gateway must be furnished with a khalūrikā.",
+    "The action must follow the prescribed rule."
+   ],
+   "inference": "One should construct a gateway furnished with a khalūrikā according to the prescribed rule.",
+   "uncertainties": [
+    "The precise architectural form of a khalūrikā is not defined in this verse."
+   ],
+   "plain_english": "One should indeed make a gateway furnished with a khalūrikā according to the prescribed rule."
+  },
+  {
+   "verse": 2378,
+   "rows": [
+    {
+     "surface": "garbhāgārayutaṃ",
+     "gloss": "with-inner-sanctum",
+     "grounds": "compound garbhāgāra-yuta (endowed with a sanctum)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative particle vā with api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhaktiyutaṃ",
+     "gloss": "with-devotion",
+     "grounds": "compound bhakti-yuta (endowed with devotion)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative forms may the central structure take in this construction?",
+   "premises": [
+    "The structure may be furnished with an inner sanctum.",
+    "The structure may alternatively be furnished with devotion in the middle.",
+    "The verse presents these as alternatives."
+   ],
+   "inference": "The central structure may be made either with an inner sanctum or with devotion.",
+   "uncertainties": [
+    "The sense of bhaktiyutaṃ as a structural or ritual qualification is ambiguous."
+   ],
+   "plain_english": "Alternatively, one may make it in the middle with an inner sanctum, or with devotion."
+  },
+  {
+   "verse": 2379,
+   "rows": [
+    {
+     "surface": "caturaṃśādibhānvantabhāgān",
+     "gloss": "four-part-and-other-divisions",
+     "grounds": "compound catur-aṃśa-ādi-bhānu-anta-bhāga (divisions from four parts onward)",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛtvaikabhāgakam",
+     "gloss": "having-made-one-part",
+     "grounds": "absolutive kṛtvā with compound eka-bhāgaka (having made one part)",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the site be divided before determining the structural measures?",
+   "premises": [
+    "Divisions beginning with four parts are to be made.",
+    "One of these parts is to be taken as a unit."
+   ],
+   "inference": "One should divide the area into four or more parts and take one part as the unit.",
+   "uncertainties": [
+    "The upper limit implied by ādi and bhānu-anta is not explicit."
+   ],
+   "plain_english": "Having divided it into four parts or other such divisions, one should take one part as the unit."
+  },
+  {
+   "verse": 2380,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānādiṣaḍvargaṃ",
+     "gloss": "sixfold-group-from-base",
+     "grounds": "compound adhiṣṭhāna-ādi-ṣaḍ-varga (sixfold group beginning with the base)",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tanmānamupapīṭhake",
+     "gloss": "its-measure-on-platform",
+     "grounds": "compound tat-māna with locative upapīṭhaka (its measure on the platform)",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What structural group and measure are applied on the platform?",
+   "premises": [
+    "A sixfold group beginning with the base is specified.",
+    "Its measure is to be applied on the platform."
+   ],
+   "inference": "The sixfold structural group beginning with the base is to be measured on the platform.",
+   "uncertainties": [
+    "The six members of the ṣaḍvarga are not enumerated in this verse."
+   ],
+   "plain_english": "On the platform, one should apply the sixfold group beginning with the base according to its measure."
+  },
+  {
+   "verse": 2381,
+   "rows": [
+    {
+     "surface": "khalūrikātalaṃ",
+     "gloss": "khalūrikā-base",
+     "grounds": "compound khalūrikā-tala (base level of the khalūrikā)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yadvattadvadatra",
+     "gloss": "as-so-here",
+     "grounds": "correlative yadvat-tadvat with atra (as there, so here)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive present of vi-dhā (to prescribe)",
+     "morph": "3.sg.pass-pres √dhā"
+    }
+   ],
+   "question": "How is the base level of the khalūrikā to be determined in this context?",
+   "premises": [
+    "The khalūrikā base is the subject.",
+    "A correlative rule states it is to be done as before.",
+    "This is prescribed for the present case."
+   ],
+   "inference": "The khalūrikā base is prescribed here in the same manner as previously stated.",
+   "uncertainties": [
+    "The earlier reference point for yadvat-tadvat is not given in this verse."
+   ],
+   "plain_english": "The base of the khalūrikā is prescribed here just as it was before."
+  },
+  {
+   "verse": 2382,
+   "rows": [
+    {
+     "surface": "sālagopurayostuṅgastvadhikaścāpi",
+     "gloss": "of-hall-and-gateway-high-and-more-also",
+     "grounds": "compound sāla-gopura with tuṅga, adhika, ca, api (tall and also higher for hall and gateway)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūlataḥ",
+     "gloss": "from-base",
+     "grounds": "ablative adverb indicating measurement from the base",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the height of the hall and gateway be determined from the base?",
+   "premises": [
+    "The hall and gateway are the structures in question.",
+    "Their height is described as tall and even greater.",
+    "The measurement is taken from the base."
+   ],
+   "inference": "The hall and gateway should be made tall and somewhat higher when measured from the base.",
+   "uncertainties": [
+    "The exact proportional increase over the base height is not specified."
+   ],
+   "plain_english": "The hall and the gateway should be tall and even higher, measured from the base."
+  },
+  {
+   "verse": 2383,
+   "rows": [
+    {
+     "surface": "sabhākāraśiroyuktaṃ",
+     "gloss": "with-assembly-shaped-top",
+     "grounds": "compound sabhā-ākāra-śiras-yukta (joined with a top shaped like an assembly hall)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śālākāraśiraḥkriyam",
+     "gloss": "make-hall-shaped-top",
+     "grounds": "compound śālā-ākāra-śiras-kriyā (making a top shaped like a hall)",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What forms should the upper portions of the structures take in this design?",
+   "premises": [
+    "One form is a top shaped like an assembly hall.",
+    "Another form is a top shaped like a hall.",
+    "Both are prescribed as design options."
+   ],
+   "inference": "The upper portion should be made either in the form of an assembly-hall top or a hall-shaped top.",
+   "uncertainties": [
+    "Whether these apply to different structures or alternative designs is not explicit."
+   ],
+   "plain_english": "One should make it with a top shaped like an assembly hall, or make a top shaped like a hall."
+  },
+  {
+   "verse": 2384,
+   "rows": [
+    {
+     "surface": "agrato'lindakopetamaṭṭālaṃ",
+     "gloss": "in-front-with-veranda-upper-story",
+     "grounds": "compound agratas-alindaka-upeta-aṭṭāla (upper story in front furnished with a veranda)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sālakāntare",
+     "gloss": "between-halls",
+     "grounds": "locative of compound sāla-antara (space between halls)",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should an upper story with a front veranda be placed within the complex?",
+   "premises": [
+    "An upper story furnished with a veranda in front is specified.",
+    "The location given is between halls."
+   ],
+   "inference": "An upper story with a front veranda should be placed between the halls.",
+   "uncertainties": [
+    "The exact dimensions and orientation of the aṭṭāla are not stated."
+   ],
+   "plain_english": "Between the halls, one should place an upper story with a veranda in front."
+  },
+  {
+   "verse": 2385,
+   "rows": [
+    {
+     "surface": "caturbhāgaikabhāgastu",
+     "gloss": "one-part-of-four-parts",
+     "grounds": "compound catur-bhāga-eka-bhāga with tu (one part out of four)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcabhāgaikabhāgikaḥ",
+     "gloss": "one-part-of-five-parts",
+     "grounds": "compound pañca-bhāga-eka-bhāgika (one part out of five)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are prescribed for the gateway and related structure?",
+   "premises": [
+    "One prescribed proportion is one part out of four.",
+    "Another prescribed proportion is one part out of five."
+   ],
+   "inference": "The prescribed measure may be one-fourth or one-fifth, depending on the scheme.",
+   "uncertainties": [
+    "Which structural element each proportion applies to is clarified only by context."
+   ],
+   "plain_english": "The measure should be one part out of four, or one part out of five."
+  },
+  {
+   "verse": 2386,
+   "rows": [
+    {
+     "surface": "gopuraṃ",
+     "gloss": "gateway",
+     "grounds": "subject of the proportional rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khalūrī",
+     "gloss": "khalūrī",
+     "grounds": "architectural element named khalūrī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlavāstunirīkṣitam",
+     "gloss": "examined-by-base-site",
+     "grounds": "compound mūla-vāstu-nirīkṣita (determined by examining the base site)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "On what basis should the gateway and khalūrī be proportioned?",
+   "premises": [
+    "The gateway and the khalūrī are the elements in question.",
+    "Their measure is to be examined in relation to the base site."
+   ],
+   "inference": "The gateway and khalūrī should be proportioned according to the base site.",
+   "uncertainties": [
+    "The method of inspection or calculation from the base site is not detailed."
+   ],
+   "plain_english": "The gateway and the khalūrī should be determined by examining the base site."
+  },
+  {
+   "verse": 2387,
+   "rows": [
+    {
+     "surface": "pradhānamahiṣīgehaṃ",
+     "gloss": "chief-queen-house",
+     "grounds": "compound pradhāna-mahiṣī-geha (house of the chief queen)",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāmabhāge",
+     "gloss": "on-left-side",
+     "grounds": "locative of vāma-bhāga (left side)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-place",
+     "grounds": "optative of sam-ā-car (should arrange or make)",
+     "morph": "3.sg.act-opt √car"
+    }
+   ],
+   "question": "Where should the house of the chief queen be placed within the layout?",
+   "premises": [
+    "The house of the chief queen is specified.",
+    "The left side is given as its location."
+   ],
+   "inference": "The house of the chief queen should be placed on the left side.",
+   "uncertainties": [
+    "The reference point for left side is not explicitly stated."
+   ],
+   "plain_english": "One should place the house of the chief queen on the left side."
+  },
+  {
+   "verse": 2388,
+   "rows": [
+    {
+     "surface": "anyeṣāmapi",
+     "gloss": "of-others-also",
+     "grounds": "genitive plural with api (of others as well)",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "locative of compound tad-bāhya (outside that area)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karturicchāvaśena",
+     "gloss": "by-maker-wish",
+     "grounds": "instrumental of compound kartuḥ-icchā-vaśa (according to the maker's wish)",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking qualification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the placement of houses for others be determined in relation to the chief queen's house?",
+   "premises": [
+    "Houses for others are also considered.",
+    "Their placement is outside that area.",
+    "The maker's wish governs their arrangement."
+   ],
+   "inference": "The houses of others should be placed outside that area according to the maker's wish.",
+   "uncertainties": [
+    "The degree of freedom allowed by the maker's wish is not specified."
+   ],
+   "plain_english": "The houses of others should be placed outside that, according to the maker's wish."
+  },
+  {
+   "verse": 2389,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative indicating southern direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jayadaṃ",
+     "gloss": "victory-giving",
+     "grounds": "compound jaya-da (giving victory)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rājñāṃ",
+     "gloss": "for-kings",
+     "grounds": "genitive plural indicating beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nairṛte",
+     "gloss": "in-southwest",
+     "grounds": "locative of the southwest direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ripuvardhanam",
+     "gloss": "enemy-increasing",
+     "grounds": "compound ripu-vardhana (increasing enemies)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What outcomes for kings are associated with building in the south and southwest directions?",
+   "premises": [
+    "The south is associated with giving victory to kings.",
+    "The southwest is associated with increasing enemies."
+   ],
+   "inference": "Building in the south brings victory to kings, while building in the southwest increases enemies.",
+   "uncertainties": [],
+   "plain_english": "In the south it brings victory to kings, but in the southwest it increases enemies."
+  },
+  {
+   "verse": 2390,
+   "rows": [
+    {
+     "surface": "udīcyāṃ",
+     "gloss": "in-north",
+     "grounds": "locative indicating northern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kośavṛddhiḥ",
+     "gloss": "treasury-increase",
+     "grounds": "compound kośa-vṛddhi (increase of treasury)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "optative of as (to be)",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "īśāne",
+     "gloss": "in-northeast",
+     "grounds": "locative of the northeast direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "result associated with the northeast",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certain",
+     "grounds": "adjective indicating certainty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What outcomes are associated with building in the north and northeast directions?",
+   "premises": [
+    "The north is associated with increase of treasury.",
+    "The northeast is associated with certain death."
+   ],
+   "inference": "Building in the north increases the treasury, while building in the northeast brings certain death.",
+   "uncertainties": [],
+   "plain_english": "In the north there would be increase of treasury, but in the northeast there is certain death."
+  },
+  {
+   "verse": 2391,
+   "rows": [
+    {
+     "surface": "devānāmanyajātīnāmapi",
+     "gloss": "of-gods-and-other-beings-also",
+     "grounds": "genitive plural compound deva-anya-jāti with api (of gods and other kinds as well)",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "yogyaṃ",
+     "gloss": "suitable",
+     "grounds": "predicate adjective indicating fitness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sanātanam",
+     "gloss": "eternal",
+     "grounds": "adjective indicating enduring applicability",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For whom are these directional prescriptions considered suitable and enduring?",
+   "premises": [
+    "The prescriptions apply to gods.",
+    "The prescriptions also apply to other kinds of beings.",
+    "They are described as suitable and eternal."
+   ],
+   "inference": "These prescriptions are eternally suitable for gods and for other kinds of beings as well.",
+   "uncertainties": [
+    "The scope of anyajātīnām is not further specified."
+   ],
+   "plain_english": "This is eternally suitable for gods and for other kinds of beings as well."
+  },
+  {
+   "verse": 2392,
+   "rows": [
+    {
+     "surface": "kumbhasthe",
+     "gloss": "in-aquarius",
+     "grounds": "locative of compound kumbha-stha (when situated in Aquarius)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "makarasthe'rke",
+     "gloss": "in-capricorn-sun",
+     "grounds": "locative compound makara-stha with arka (when the sun is in Capricorn)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūrvagehamathārabhet",
+     "gloss": "then-should-begin-east-house",
+     "grounds": "optative of ā-rabh with compound pūrva-geha (should begin the eastern house)",
+     "morph": "3.sg.act-opt √rabh"
+    }
+   ],
+   "question": "When should construction of the eastern house be begun according to the sun's position?",
+   "premises": [
+    "The sun may be in Aquarius.",
+    "The sun may be in Capricorn.",
+    "These times are linked to beginning the eastern house."
+   ],
+   "inference": "One should begin the eastern house when the sun is in Aquarius or Capricorn.",
+   "uncertainties": [],
+   "plain_english": "When the sun is in Aquarius or in Capricorn, one should begin the eastern house."
+  },
+  {
+   "verse": 2393,
+   "rows": [
+    {
+     "surface": "tulāyāṃ",
+     "gloss": "in-libra",
+     "grounds": "locative of the zodiac sign Libra",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vṛścike",
+     "gloss": "in-scorpio",
+     "grounds": "locative of the zodiac sign Scorpio",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saumyaṃ",
+     "gloss": "auspicious",
+     "grounds": "predicate adjective indicating favorability",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "neṣṭamanyaccatuṣṭayam",
+     "gloss": "not-desired-other-four",
+     "grounds": "compound na-iṣṭa-anya-catuṣṭaya (the other four are not desired)",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which zodiacal positions are auspicious and which are to be avoided for this undertaking?",
+   "premises": [
+    "Libra and Scorpio are described as auspicious.",
+    "The other four are described as not desired."
+   ],
+   "inference": "Libra and Scorpio are favorable, while the remaining four positions are unfavorable.",
+   "uncertainties": [
+    "The identity of the other four signs is implied by context but not listed here."
+   ],
+   "plain_english": "In Libra and Scorpio it is auspicious; the other four are not desirable."
+  },
+  {
+   "verse": 2394,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādgṛhaṃ",
+     "gloss": "one-should-make-house",
+     "grounds": "optative of kṛ with object gṛha (should make a house)",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "tattu",
+     "gloss": "that-indeed",
+     "grounds": "demonstrative with emphatic particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vatsare",
+     "gloss": "in-year",
+     "grounds": "locative indicating time frame",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "future or present of vi-naś (to perish)",
+     "morph": "3.sg.act-pres √naś"
+    }
+   ],
+   "question": "What consequence follows if a house is built at an inauspicious time?",
+   "premises": [
+    "A house may be made under the stated condition.",
+    "The consequence is destruction within a year."
+   ],
+   "inference": "If a house is built at such a time, it will perish within a year.",
+   "uncertainties": [
+    "The exact inauspicious condition is carried over from the previous verse."
+   ],
+   "plain_english": "If one were to build a house then, it would perish within a year."
+  },
+  {
+   "verse": 2395,
+   "rows": [
+    {
+     "surface": "bhaumasthe",
+     "gloss": "mars-placed",
+     "grounds": "locative of compound bhauma-stha (when Mars is placed)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking the case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpitaṃ",
+     "gloss": "established",
+     "grounds": "past passive participle of sthā in causative sense (established)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāśitaṃ",
+     "gloss": "destroyed",
+     "grounds": "past passive participle of naś in causative sense (destroyed)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū (to become)",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What happens to a house site established when Mars is in that position?",
+   "premises": [
+    "The condition is Mars being placed in that position.",
+    "A house site established then is described as destroyed."
+   ],
+   "inference": "A house site established when Mars is so placed becomes destroyed.",
+   "uncertainties": [
+    "The specific astrological position of Mars is implied by context."
+   ],
+   "plain_english": "But if it is established when Mars is in that position, it becomes destroyed."
+  },
+  {
+   "verse": 2396,
+   "rows": [
+    {
+     "surface": "jīvasthāne",
+     "gloss": "in-jupiter-place",
+     "grounds": "locative of compound jīva-sthāna (in Jupiter's position)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gṛhakṣetraṃ",
+     "gloss": "house-site",
+     "grounds": "compound gṛha-kṣetra (house site)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasampatkaraṃ",
+     "gloss": "all-prosperity-making",
+     "grounds": "compound sarva-sampat-kara (producing all prosperity)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū (to become)",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What result follows from establishing a house site in Jupiter's position?",
+   "premises": [
+    "The condition is Jupiter's position.",
+    "The house site is said to produce all prosperity."
+   ],
+   "inference": "A house site established in Jupiter's position brings all prosperity.",
+   "uncertainties": [],
+   "plain_english": "In Jupiter's position, the house site becomes a source of all prosperity."
+  },
+  {
+   "verse": 2397,
+   "rows": [
+    {
+     "surface": "budhasya",
+     "gloss": "of-mercury",
+     "grounds": "genitive indicating Mercury's influence",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying the result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saukhyaṃ",
+     "gloss": "comfort",
+     "grounds": "result associated with Mercury",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candraḥ",
+     "gloss": "moon",
+     "grounds": "subject associated with another result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puruṣadainyakṛt",
+     "gloss": "man-misery-making",
+     "grounds": "compound puruṣa-dainya-kṛt (causing misery to a person)",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What different effects are attributed to Mercury and the Moon in this context?",
+   "premises": [
+    "Mercury is associated with supreme comfort.",
+    "The Moon is associated with causing misery to a person."
+   ],
+   "inference": "Mercury brings supreme comfort, whereas the Moon brings human misery.",
+   "uncertainties": [],
+   "plain_english": "Mercury brings supreme comfort, but the Moon causes misery to a person."
+  },
+  {
+   "verse": 2398,
+   "rows": [
+    {
+     "surface": "aṃśakādiṣu",
+     "gloss": "in-degrees-and-others",
+     "grounds": "locative plural of compound aṃśaka-ādi (in degrees and so forth)",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vijñeyamevaṃ",
+     "gloss": "to-be-known-thus",
+     "grounds": "gerundive vijñeya with evam (thus to be understood)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā (having understood)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-act",
+     "grounds": "optative of sam-ā-car (should act accordingly)",
+     "morph": "3.sg.act-opt √car"
+    }
+   ],
+   "question": "How should one proceed after understanding the astrological details such as degrees?",
+   "premises": [
+    "The details in degrees and so forth must be understood.",
+    "One must know them in this way.",
+    "Action should follow that knowledge."
+   ],
+   "inference": "After understanding the astrological details in this way, one should act accordingly.",
+   "uncertainties": [
+    "The specific astrological subdivisions included in aṃśakādiṣu are not enumerated."
+   ],
+   "plain_english": "Knowing in this way what is to be understood in the degrees and so forth, one should act accordingly."
+  },
+  {
+   "verse": 2399,
+   "rows": [
+    {
+     "surface": "chāyāyāṃ",
+     "gloss": "in-shadow",
+     "grounds": "locative indicating placement in shadow",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "ordained",
+     "grounds": "past passive participle of vi-dhā (prescribed or made)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "veśma",
+     "gloss": "dwelling",
+     "grounds": "subject of the prescription",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "girerdevālayasya",
+     "gloss": "of-mountain-of-temple",
+     "grounds": "genitive compound giri-devālaya (of a mountain or a temple)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In whose shadow is a dwelling said to be improperly or specially situated?",
+   "premises": [
+    "A dwelling is described as placed in a shadow.",
+    "The shadow may be that of a mountain.",
+    "The shadow may be that of a temple."
+   ],
+   "inference": "A dwelling may be situated in the shadow of a mountain or of a temple.",
+   "uncertainties": [
+    "Whether this placement is prohibited or merely described is not explicit in this verse alone."
+   ],
+   "plain_english": "A dwelling placed in the shadow of a mountain or of a temple."
+  }
+ ]
+}

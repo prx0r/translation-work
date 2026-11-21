@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "second-person pronoun in nominative singular",
+     "morph": "pron.2.nom.sg"
+    },
+    {
+     "surface": "tiṣṭhā",
+     "gloss": "stay",
+     "grounds": "imperative of root sthā, second person singular active",
+     "morph": "2.sg.act-impv + root sthā"
+    },
+    {
+     "surface": "antaḥpure",
+     "gloss": "in-inner-apartment",
+     "grounds": "locative singular of antaḥpura",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "krīḍhan",
+     "gloss": "playing",
+     "grounds": "present participle, nominative singular masculine, from root krīḍ",
+     "morph": "nom.sg.m.participle + root krīḍ"
+    },
+    {
+     "surface": "suravāragaṇaiḥ",
+     "gloss": "with-gods-groups",
+     "grounds": "instrumental plural of suravāragaṇa",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable particle accompanying instrumental",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What conduct is prescribed for the goddess within the inner apartment?",
+   "premises": [
+    "The addressee is commanded to stay.",
+    "The prescribed location is the inner apartment.",
+    "The prescribed activity is playing with gods."
+   ],
+   "inference": "The verse prescribes secluded divine play in the inner apartment.",
+   "uncertainties": [
+    "The exact addressee and ritual context are not explicit in this verse."
+   ],
+   "plain_english": "You stay in the inner apartment, playing with groups of gods."
+  }
+ ]
+}

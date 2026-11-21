@@ -1,0 +1,1048 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3826,
+   "rows": [
+    {
+     "surface": "bhadrakoṣṭham",
+     "gloss": "beautiful-chamber",
+     "grounds": "named beautiful chamber",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative reference",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental of name",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "sarvālaṅkārasaṃyutam",
+     "gloss": "all-ornament-endowed",
+     "grounds": "endowed with all ornaments",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What name and ornamentation characterize this beautiful chamber?",
+   "premises": [
+    "bhadrakoṣṭha names the chamber",
+    "idaṃ points to this chamber",
+    "sarvālaṅkārasaṃyutam means fully ornamented"
+   ],
+   "inference": "The chamber is named bhadrakoṣṭha and is fully ornamented.",
+   "uncertainties": [
+    "bhadrakoṣṭha is a technical architectural term"
+   ],
+   "plain_english": "This beautiful chamber, named bhadrakoṣṭha, is endowed with all ornaments."
+  },
+  {
+   "verse": 3827,
+   "rows": [
+    {
+     "surface": "mastakaṃ",
+     "gloss": "mastaka",
+     "grounds": "top part of structure",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "possessive reference",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "round shape",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "conditional copula",
+     "morph": "v.3.sg.act-opt+as"
+    },
+    {
+     "surface": "caturṇāsisamanvitam",
+     "gloss": "four-corner-endowed",
+     "grounds": "endowed with four corners",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What shape and corner count belong to its mastaka?",
+   "premises": [
+    "mastaka is the top",
+    "vṛttaṃ means round",
+    "caturṇāsisamanvitam means four-cornered"
+   ],
+   "inference": "Its mastaka is round and four-cornered.",
+   "uncertainties": [
+    "caturṇāsi is a technical measure"
+   ],
+   "plain_english": "Its mastaka would be round and endowed with four corners."
+  },
+  {
+   "verse": 3828,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "same referent",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "aṣṭāṃśadairghyeṇa",
+     "gloss": "eight-part-length",
+     "grounds": "length by eight parts",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "sāyataṃ",
+     "gloss": "elongated",
+     "grounds": "elongated form",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "square shape",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How is the same structure elongated into a square?",
+   "premises": [
+    "tadeva refers to same structure",
+    "aṣṭāṃśadairghyeṇa gives eight-part length",
+    "caturaśrakam means square"
+   ],
+   "inference": "The same structure becomes an elongated square by eight-part length.",
+   "uncertainties": [
+    "aṣṭāṃśa is a proportional measure"
+   ],
+   "plain_english": "That same structure, elongated by eight parts in length, becomes square."
+  },
+  {
+   "verse": 3829,
+   "rows": [
+    {
+     "surface": "koṣṭhabhadravihīnaṃ",
+     "gloss": "chamber-beautiful-devoid",
+     "grounds": "devoid of beautiful chamber",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining part",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrvavad",
+     "gloss": "as-before",
+     "grounds": "same as previous",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-be-done",
+     "grounds": "prescriptive action",
+     "morph": "v.3.sg.act-opt+ācar"
+    }
+   ],
+   "question": "What should be done with the remainder when the beautiful chamber is omitted?",
+   "premises": [
+    "koṣṭhabhadravihīnaṃ means without beautiful chamber",
+    "śeṣaṃ means remainder",
+    "pūrvavad means as before"
+   ],
+   "inference": "The remainder should be treated as before.",
+   "uncertainties": [
+    "koṣṭhabhadra is a technical chamber type"
+   ],
+   "plain_english": "Or, when devoid of the beautiful chamber, the remainder should be done as before."
+  },
+  {
+   "verse": 3830,
+   "rows": [
+    {
+     "surface": "pañcādaśakaraṃ",
+     "gloss": "fifteen-hasta",
+     "grounds": "fifteen hasta measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "breadth",
+     "grounds": "breadth or diameter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "daśabhāgena",
+     "gloss": "by-tenth-part",
+     "grounds": "by tenth part",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "yojayem",
+     "gloss": "should-join",
+     "grounds": "prescriptive joining",
+     "morph": "v.1.pl.act-opt+yoj"
+    }
+   ],
+   "question": "How is the fifteen-hasta breadth joined by tenths?",
+   "premises": [
+    "pañcādaśakaraṃ means fifteen hasta",
+    "vyāsaṃ means breadth",
+    "daśabhāgena means by tenth part"
+   ],
+   "inference": "The fifteen-hasta breadth is joined by tenth parts.",
+   "uncertainties": [
+    "kara is a hasta unit"
+   ],
+   "plain_english": "The breadth of fifteen hasta should be joined by tenth parts."
+  },
+  {
+   "verse": 3831,
+   "rows": [
+    {
+     "surface": "alīndram",
+     "gloss": "alinda",
+     "grounds": "alinda structure",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "aṃśamaṃśena",
+     "gloss": "part-by-part",
+     "grounds": "part by part",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "khaṇḍaharmyaṃ",
+     "gloss": "fragmented-palace",
+     "grounds": "fragmented palace",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bahiṣkramāt",
+     "gloss": "from-outside",
+     "grounds": "from outside",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "How is the alinda arranged part by part from outside?",
+   "premises": [
+    "alīndram is alinda",
+    "aṃśamaṃśena means part by part",
+    "bahiṣkramāt means from outside"
+   ],
+   "inference": "The alinda is arranged part by part from outside.",
+   "uncertainties": [
+    "alīnda and khaṇḍaharmya are technical"
+   ],
+   "plain_english": "The alinda, part by part, forms a fragmented palace from outside."
+  },
+  {
+   "verse": 3832,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "by part",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "koṣṭhakāyāmaṃ",
+     "gloss": "chamber-length",
+     "grounds": "chamber length",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "double measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sammataṃ",
+     "gloss": "approved",
+     "grounds": "approved by wise",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "budhāḥ",
+     "gloss": "wise-ones",
+     "grounds": "wise authorities",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "What chamber length is approved as double by the wise?",
+   "premises": [
+    "koṣṭhakāyāmaṃ means chamber length",
+    "dviguṇaṃ means double",
+    "budhāḥ means wise ones"
+   ],
+   "inference": "The wise approve a double chamber length.",
+   "uncertainties": [
+    "koṣṭhaka is a chamber type"
+   ],
+   "plain_english": "The wise approve a chamber length that is double by part."
+  },
+  {
+   "verse": 3833,
+   "rows": [
+    {
+     "surface": "koṣṭhakaṃ",
+     "gloss": "chamber",
+     "grounds": "chamber structure",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dviguṇāyāmaṃ",
+     "gloss": "double-length",
+     "grounds": "double length",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hāraṃ",
+     "gloss": "garland",
+     "grounds": "garland element",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "by part",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "prescriptive joining",
+     "morph": "v.3.sg.act-opt+yoj"
+    }
+   ],
+   "question": "How should a double-length chamber be joined with a garland?",
+   "premises": [
+    "koṣṭhakaṃ means chamber",
+    "dviguṇāyāmaṃ means double length",
+    "hāraṃ means garland"
+   ],
+   "inference": "A double-length chamber should be joined with a garland by parts.",
+   "uncertainties": [
+    "hāra is an architectural garland"
+   ],
+   "plain_english": "A chamber of double length should be joined with a garland by part."
+  },
+  {
+   "verse": 3834,
+   "rows": [
+    {
+     "surface": "daṇḍena",
+     "gloss": "by-staff",
+     "grounds": "by staff measure",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "adhyardhadaṇḍena",
+     "gloss": "one-and-half-staff",
+     "grounds": "one and half staff",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "dvidaṇḍena",
+     "gloss": "two-staff",
+     "grounds": "two staffs",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "conditional result",
+     "morph": "v.3.sg.act-opt+bhū"
+    }
+   ],
+   "question": "Which staff measures may determine the resulting dimension?",
+   "premises": [
+    "daṇḍena means by staff",
+    "adhyardhadaṇḍena means one and half staff",
+    "dvidaṇḍena means two staffs"
+   ],
+   "inference": "The result may be by one, one and a half, or two staffs.",
+   "uncertainties": [
+    "daṇḍa is a measuring staff"
+   ],
+   "plain_english": "It would be by one staff, or one and a half staffs, or two staffs."
+  },
+  {
+   "verse": 3835,
+   "rows": [
+    {
+     "surface": "vasukūṭaṃ",
+     "gloss": "vasu-kūṭa",
+     "grounds": "vasu kūṭa element",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīḍaṃ",
+     "gloss": "nest",
+     "grounds": "nest element",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "koṣṭhakaṃ",
+     "gloss": "chamber",
+     "grounds": "chamber element",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-indeed",
+     "grounds": "indeed likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which elements are included thus in the structure?",
+   "premises": [
+    "vasukūṭaṃ names an element",
+    "nīḍaṃ means nest",
+    "koṣṭhakaṃ means chamber"
+   ],
+   "inference": "Vasu-kūṭa, nest, and chamber are included thus.",
+   "uncertainties": [
+    "vasukūṭa and nīḍa are technical"
+   ],
+   "plain_english": "Thus vasu-kūṭa, nest, and chamber are indeed included."
+  },
+  {
+   "verse": 3836,
+   "rows": [
+    {
+     "surface": "nāsikādyaṅgasaṃyuktaṃ",
+     "gloss": "nose-etc-limb-endowed",
+     "grounds": "endowed with nose and limbs",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sarvāvayavasaṃyutam",
+     "gloss": "all-limb-endowed",
+     "grounds": "endowed with all limbs",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What limb endowment characterizes the complete structure?",
+   "premises": [
+    "nāsikādyaṅgasaṃyuktaṃ means nose and limbs",
+    "sarvāvayavasaṃyutam means all limbs"
+   ],
+   "inference": "The structure is endowed with nose and all limbs.",
+   "uncertainties": [
+    "nāsikā is a technical projection"
+   ],
+   "plain_english": "It is endowed with nose and other limbs, and with all limbs."
+  },
+  {
+   "verse": 3837,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāndhāram",
+     "gloss": "gāndhāra",
+     "grounds": "gāndhāra element",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "atroktaṃ",
+     "gloss": "measure-spoken",
+     "grounds": "spoken measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "aṣṭāśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "eight corners",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galaṃ",
+     "gloss": "neck",
+     "grounds": "neck element",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "head element",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What eight-cornered or neck and head elements are spoken here?",
+   "premises": [
+    "gāndhāram names an element",
+    "aṣṭāśraṃ means eight-cornered",
+    "galaṃ and śiraḥ mean neck and head"
+   ],
+   "inference": "Gāndhāra is spoken as eight-cornered, or as neck and head.",
+   "uncertainties": [
+    "gāndhāra is a technical form"
+   ],
+   "plain_english": "Thus gāndhāra is spoken as eight-cornered, or as neck and head."
+  },
+  {
+   "verse": 3838,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining part",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrvavaduddiṣṭaṃ",
+     "gloss": "as-before-described",
+     "grounds": "described as before",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "by name",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "śrībhogam",
+     "gloss": "śrī-bhoga",
+     "grounds": "śrī bhoga name",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "will-be",
+     "grounds": "future result",
+     "morph": "v.3.sg.pass-pres+iṣ"
+    }
+   ],
+   "question": "What remainder is described by name as śrībhoga?",
+   "premises": [
+    "śeṣaṃ means remainder",
+    "pūrvavaduddiṣṭaṃ means as before described",
+    "śrībhogam names it"
+   ],
+   "inference": "The remainder is described by name as śrībhoga.",
+   "uncertainties": [
+    "śrībhoga is a technical form"
+   ],
+   "plain_english": "The remainder, described as before, is called śrībhoga."
+  },
+  {
+   "verse": 3839,
+   "rows": [
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "round shape",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vṛttāyataṃ",
+     "gloss": "elongated-round",
+     "grounds": "elongated round",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dvyaśraṃ",
+     "gloss": "two-cornered",
+     "grounds": "two corners",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vṛttamaṣṭaṣaḍaśrakam",
+     "gloss": "round-eight-sixteen-cornered",
+     "grounds": "round with eight or sixteen corners",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which round, elongated, two-cornered, and multi-cornered forms are listed?",
+   "premises": [
+    "vṛttaṃ means round",
+    "vṛttāyataṃ means elongated round",
+    "dvyaśraṃ means two-cornered"
+   ],
+   "inference": "Round, elongated round, two-cornered, and eight or sixteen cornered round forms are listed.",
+   "uncertainties": [
+    "aśra counts are technical"
+   ],
+   "plain_english": "Round, elongated round, two-cornered, and round eight- or sixteen-cornered forms are listed."
+  },
+  {
+   "verse": 3840,
+   "rows": [
+    {
+     "surface": "ṛjubhāgaviśālāt",
+     "gloss": "straight-part-wide",
+     "grounds": "wide straight part",
+     "morph": "adj.abl.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaśravṛtte",
+     "gloss": "two-cornered-round",
+     "grounds": "two-cornered round",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "atha",
+     "gloss": "atha",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartule",
+     "gloss": "circular",
+     "grounds": "circular form",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "From what wide straight part do two-cornered round and circular forms arise?",
+   "premises": [
+    "ṛjubhāgaviśālāt means wide straight part",
+    "dvyaśravṛtte means two-cornered round",
+    "vartule means circular"
+   ],
+   "inference": "Wide straight parts yield two-cornered round and circular forms.",
+   "uncertainties": [
+    "ṛjubhāga is a technical proportion"
+   ],
+   "plain_english": "From a wide straight part, two-cornered round and circular forms arise."
+  },
+  {
+   "verse": 3841,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśena",
+     "gloss": "eight-part",
+     "grounds": "by eight part",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "daśāṃśena",
+     "gloss": "ten-part",
+     "grounds": "by ten part",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cordhvāṃśasyodayāṃśakān",
+     "gloss": "upper-part-rise-parts",
+     "grounds": "rise parts of upper part",
+     "morph": "n.acc.pl.m"
+    }
+   ],
+   "question": "By which parts are the rise parts of the upper part measured?",
+   "premises": [
+    "aṣṭāṃśena means by eight part",
+    "daśāṃśena means by ten part",
+    "cordhvāṃśasyodayāṃśakān means upper rise parts"
+   ],
+   "inference": "Upper rise parts are measured by eight or ten parts.",
+   "uncertainties": [
+    "cordhvāṃśa is a technical upper part"
+   ],
+   "plain_english": "The rise parts of the upper part are measured by eight or ten parts."
+  },
+  {
+   "verse": 3842,
+   "rows": [
+    {
+     "surface": "vakṣye",
+     "gloss": "will-speak",
+     "grounds": "future speech",
+     "morph": "v.1.sg.act-fut+vac"
+    },
+    {
+     "surface": "atha",
+     "gloss": "atha",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munayaḥ+śreṣṭhāḥ",
+     "gloss": "sages-best",
+     "grounds": "best sages",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "caturbhaumaniketanam",
+     "gloss": "four-bhūma-dwelling",
+     "grounds": "four bhūma dwelling",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What four-bhūma dwelling will be spoken to the best sages?",
+   "premises": [
+    "vakṣye means will speak",
+    "munayaḥ+śreṣṭhāḥ means best sages",
+    "caturbhaumaniketanam means four bhūma dwelling"
+   ],
+   "inference": "A four-bhūma dwelling will be spoken to the best sages.",
+   "uncertainties": [
+    "bhūma is a level or storey"
+   ],
+   "plain_english": "I will speak of a four-bhūma dwelling to the best sages."
+  },
+  {
+   "verse": 3843,
+   "rows": [
+    {
+     "surface": "ekaviṃśatihastānto",
+     "gloss": "twenty-one-hasta-end",
+     "grounds": "end at twenty-one hasta",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vyāsatuṅgaḥ",
+     "gloss": "breadth-height",
+     "grounds": "breadth and height",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "as before",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What breadth and height end at twenty-one hasta as before?",
+   "premises": [
+    "ekaviṃśatihastānto means end at twenty-one hasta",
+    "vyāsatuṅgaḥ means breadth and height",
+    "pūrvavat means as before"
+   ],
+   "inference": "Breadth and height end at twenty-one hasta as before.",
+   "uncertainties": [
+    "hasta is a unit"
+   ],
+   "plain_english": "Breadth and height end at twenty-one hasta, as before."
+  },
+  {
+   "verse": 3844,
+   "rows": [
+    {
+     "surface": "ekāṃśaḥ",
+     "gloss": "one-part",
+     "grounds": "one part",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "kūṭavistāraḥ",
+     "gloss": "kūṭa-width",
+     "grounds": "kūṭa width",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "śālāyāmaḥ",
+     "gloss": "hall-length",
+     "grounds": "hall length",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dvibhāgataḥ",
+     "gloss": "two-part",
+     "grounds": "from two parts",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "How do one part, kūṭa width, and hall length relate by two parts?",
+   "premises": [
+    "ekāṃśaḥ means one part",
+    "kūṭavistāraḥ means kūṭa width",
+    "śālāyāmaḥ means hall length"
+   ],
+   "inference": "One part, kūṭa width, and hall length are related by two parts.",
+   "uncertainties": [
+    "kūṭa is a technical projection"
+   ],
+   "plain_english": "One part, kūṭa width, and hall length are reckoned from two parts."
+  },
+  {
+   "verse": 3845,
+   "rows": [
+    {
+     "surface": "prāgvadeva",
+     "gloss": "as-before-indeed",
+     "grounds": "as before indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sabhāśālāpañjarāṇāṃ",
+     "gloss": "hall-pañjara",
+     "grounds": "hall and pañjara",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpanam",
+     "gloss": "planning",
+     "grounds": "planning",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is the planning of hall and pañjara done as before?",
+   "premises": [
+    "prāgvadeva means as before indeed",
+    "sabhāśālāpañjarāṇāṃ means hall and pañjara",
+    "kalpanam means planning"
+   ],
+   "inference": "The planning of hall and pañjara is as before.",
+   "uncertainties": [
+    "pañjara is a lattice or cage"
+   ],
+   "plain_english": "The planning of hall and pañjara is indeed as before."
+  },
+  {
+   "verse": 3846,
+   "rows": [
+    {
+     "surface": "dvibhāgaḥ",
+     "gloss": "two-part",
+     "grounds": "two part",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "koṣṭhakāyāmaḥ",
+     "gloss": "chamber-length",
+     "grounds": "chamber length",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nīḍaṃ",
+     "gloss": "nest",
+     "grounds": "nest element",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhāgordhvam",
+     "gloss": "part-upward",
+     "grounds": "part upward",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "will-be",
+     "grounds": "future result",
+     "morph": "v.3.sg.pass-pres+iṣ"
+    }
+   ],
+   "question": "What chamber length and nest are reckoned upward by two parts?",
+   "premises": [
+    "dvibhāgaḥ means two part",
+    "koṣṭhakāyāmaḥ means chamber length",
+    "nīḍaṃ means nest"
+   ],
+   "inference": "Chamber length and nest are reckoned upward by two parts.",
+   "uncertainties": [
+    "nīḍa is a technical element"
+   ],
+   "plain_english": "A two-part chamber length and nest are reckoned upward."
+  },
+  {
+   "verse": 3847,
+   "rows": [
+    {
+     "surface": "uccaṃ",
+     "gloss": "high",
+     "grounds": "high measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "would-divide",
+     "grounds": "would divide",
+     "morph": "v.3.sg.act-opt+vibhaj"
+    },
+    {
+     "surface": "dhāmnaḥ",
+     "gloss": "dhāmnaḥ",
+     "grounds": "of dhāman",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "navatriṃśatisaṃkhyayā",
+     "gloss": "thirty-nine-number",
+     "grounds": "by thirty-nine number",
+     "morph": "n.inst.sg.f"
+    }
+   ],
+   "question": "By what number would the high part of dhāman be divided?",
+   "premises": [
+    "uccaṃ means high",
+    "dhāmnaḥ means of dhāman",
+    "navatriṃśatisaṃkhyayā means by thirty-nine"
+   ],
+   "inference": "The high part of dhāman would be divided by thirty-nine.",
+   "uncertainties": [
+    "dhāman is a technical dwelling part"
+   ],
+   "plain_english": "The high part of dhāman would be divided by thirty-nine."
+  },
+  {
+   "verse": 3848,
+   "rows": [
+    {
+     "surface": "tasyārdha",
+     "gloss": "its-half",
+     "grounds": "half of it",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "prastarotsedhaḥ",
+     "gloss": "prastara-height",
+     "grounds": "prastara height",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "satripādayugāṃśakaiḥ",
+     "gloss": "with-tripāda-yuga-parts",
+     "grounds": "with tripāda yuga parts",
+     "morph": "n.inst.pl.m"
+    }
+   ],
+   "question": "What is the prastara height as half with tripāda yuga parts?",
+   "premises": [
+    "tasyārdha means its half",
+    "prastarotsedhaḥ means prastara height",
+    "satripādayugāṃśakaiḥ means with tripāda yuga parts"
+   ],
+   "inference": "The prastara height is half with tripāda yuga parts.",
+   "uncertainties": [
+    "tripāda and yuga are technical measures"
+   ],
+   "plain_english": "Its half is the prastara height, with tripāda yuga parts."
+  },
+  {
+   "verse": 3849,
+   "rows": [
+    {
+     "surface": "jaṅghā",
+     "gloss": "jaṅghā",
+     "grounds": "jaṅghā element",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "double measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "cordhve",
+     "gloss": "cordhve",
+     "grounds": "upward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃśena",
+     "gloss": "two-part",
+     "grounds": "by two part",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "prastarodayaḥ",
+     "gloss": "prastara-rise",
+     "grounds": "prastara rise",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How does jaṅghā become double upward with two-part prastara rise?",
+   "premises": [
+    "jaṅghā names an element",
+    "dviguṇaṃ means double",
+    "prastarodayaḥ means prastara rise"
+   ],
+   "inference": "Jaṅghā becomes double upward with two-part prastara rise.",
+   "uncertainties": [
+    "jaṅghā and prastarodaya are technical"
+   ],
+   "plain_english": "Jaṅghā is double, and upward there is a two-part prastara rise."
+  }
+ ]
+}

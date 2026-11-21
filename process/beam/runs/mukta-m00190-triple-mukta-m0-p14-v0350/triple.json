@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "tri+sahasram",
+     "gloss": "three-thousand",
+     "grounds": "compound indicating an extent of three thousand; analyzed as fused form",
+     "morph": "compound tri+three+sahasra+thousand; n.acc.sg.nt"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle continuing the preceding claims",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+dinaṃ",
+     "gloss": "three-days",
+     "grounds": "compound indicating a duration of three days; analyzed as fused form",
+     "morph": "compound tri+three+dina+day; n.acc.sg.nt"
+    },
+    {
+     "surface": "iṣṭam",
+     "gloss": "desired-one",
+     "grounds": "object of attraction, referring to the desired person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākarṣayet",
+     "gloss": "one-should-attract",
+     "grounds": "expresses the prescribed act of attraction",
+     "morph": "3.sg.opt.act √ākṛṣ"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "asserts the certainty of the result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what extent and within what time is the desired one certainly attracted?",
+   "premises": [
+    "The desired one can be attracted from a distance of three thousand.",
+    "The attraction can be accomplished within three days.",
+    "The result of this attraction is declared certain."
+   ],
+   "inference": "Therefore the desired one is certainly attracted from three thousand within three days.",
+   "uncertainties": [
+    "The unit or measure implied by tri+sahasram is not explicitly specified."
+   ],
+   "plain_english": "And one should certainly attract the desired one from three thousand away within three days."
+  }
+ ]
+}

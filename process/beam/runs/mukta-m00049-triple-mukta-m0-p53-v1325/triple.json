@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "varmaṇaḥ",
+     "gloss": "of-armor",
+     "grounds": "genitive form of varman, denoting armor or protective sheath",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kavacasya",
+     "gloss": "of-protective-covering",
+     "grounds": "genitive form of kavaca, denoting a protective covering or mail; synonymous in referent with varmaṇaḥ",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "|| 69",
+     "gloss": "verse-69",
+     "grounds": "verse-end marker and number",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What protective designation is identified by the terms armor and kavaca in this unit?",
+   "premises": [
+    "varmaṇaḥ refers to armor or a protective sheath.",
+    "kavacasya refers to a protective covering or mail.",
+    "Both genitive terms point to the same protective referent."
+   ],
+   "inference": "The unit identifies its subject as the armor or protective covering.",
+   "uncertainties": [
+    "The surrounding syntactic construction is incomplete in this isolated unit.",
+    "The precise ritual or textual referent of the protective designation is not specified here."
+   ],
+   "plain_english": "Of the armor, of the protective covering. || 69"
+  }
+ ]
+}

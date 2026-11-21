@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-perform",
+     "grounds": "causative verb directing performance of a ritual act",
+     "morph": "3.sg.opt.act-caus √kṛ"
+    },
+    {
+     "surface": "saṃhitāhomam",
+     "gloss": "saṃhitā-fire-offering",
+     "grounds": "compound object naming the fire offering according to the saṃhitā",
+     "morph": "compound: saṃhitā+homam (acc.sg.m.)"
+    },
+    {
+     "surface": "ghoraṃ",
+     "gloss": "fierce",
+     "grounds": "qualifies the ritual act as intense or formidable",
+     "morph": "acc.sg.m."
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative ritual option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescribes recitation as the alternative act",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates the alternative is performed in the same manner or context",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual alternatives are prescribed for initiated Śiva devotees following the prescribed bathing?",
+   "premises": [
+    "The context prescribes ritual action after bathing initiated Śiva devotees.",
+    "One option is to have a fierce saṃhitā fire offering performed.",
+    "Another option is to perform recitation likewise."
+   ],
+   "inference": "After the prescribed bathing, the officiant may either arrange a fierce saṃhitā fire offering or perform recitation as an equivalent alternative.",
+   "uncertainties": [
+    "The exact referent and character of the fierce recitation implied by ghoraṃ with japet is not fully specified in this verse alone."
+   ],
+   "plain_english": "One should have a fierce saṃhitā fire offering performed, or likewise should recite."
+  }
+ ]
+}

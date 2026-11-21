@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3600,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptāṃśatrayam",
+     "gloss": "three six-sevenths-parts",
+     "grounds": "fused compound object; accusative neuter singular",
+     "morph": "n.acc.sg.n (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśam",
+     "gloss": "veda-part",
+     "grounds": "compound accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative prescription",
+     "morph": "v.3sg.par.opt (root prakḷp)"
+    }
+   ],
+   "question": "Which alternative fractional or veda-based measures may be assigned to the central cavity?",
+   "premises": [
+    "three six-sevenths parts may be assigned",
+    "a veda-part may be assigned",
+    "arrangement is prescribed as an alternative"
+   ],
+   "inference": "the central cavity admits these alternative fractional measures",
+   "uncertainties": [
+    "exact referent of vedāṃśa remains unclear",
+    "internal compound analysis of ṣaṭsaptāṃśatrayam is not fully resolved"
+   ],
+   "plain_english": "Or three six-sevenths parts, or then a veda-part, one should arrange."
+  }
+ ]
+}

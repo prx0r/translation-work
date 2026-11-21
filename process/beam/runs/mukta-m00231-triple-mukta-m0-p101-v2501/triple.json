@@ -1,0 +1,1121 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2501,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "that",
+     "grounds": "relative pronoun feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahātārā",
+     "gloss": "great-tara",
+     "grounds": "compound noun feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karālā",
+     "gloss": "terrifying",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrttitā",
+     "gloss": "proclaimed",
+     "grounds": "passive participle feminine nominative singular from kīrt",
+     "morph": "verb.3.sg.passive-past root kīrt"
+    }
+   ],
+   "question": "Which vidyā is proclaimed as mahātārā and karālā?",
+   "premises": [
+    "The verse names a vidyā.",
+    "It calls that vidyā mahātārā.",
+    "It also calls that vidyā karālā."
+   ],
+   "inference": "The named vidyā is identified by both epithets mahātārā and karālā.",
+   "uncertainties": [
+    "The exact ritual identity of this vidyā beyond the epithets is not specified."
+   ],
+   "plain_english": "That vidyā, called mahātārā and karālā, is proclaimed thus."
+  },
+  {
+   "verse": 2502,
+   "rows": [
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "nominative singular noun used as salutation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "indeclinable offering formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daśākṣaraḥ",
+     "gloss": "ten-syllable",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udīritaḥ",
+     "gloss": "uttered",
+     "grounds": "passive participle masculine nominative singular from udīr",
+     "morph": "verb.3.sg.passive-past root udīr"
+    }
+   ],
+   "question": "What is the syllable count of the mantra beginning with namaḥ and svāhā?",
+   "premises": [
+    "The mantra begins with namaḥ and svāhā.",
+    "The verse calls this mantra daśākṣaraḥ.",
+    "The verse states that this mantra is uttered."
+   ],
+   "inference": "The mantra beginning with namaḥ and svāhā is a ten-syllable mantra.",
+   "uncertainties": [
+    "The full phonetic breakdown of the ten syllables is not given."
+   ],
+   "plain_english": "This mantra, beginning with namaḥ and svāhā, is the uttered ten-syllable mantra."
+  },
+  {
+   "verse": 2503,
+   "rows": [
+    {
+     "surface": "ebhiḥ",
+     "gloss": "by-these",
+     "grounds": "instrumental plural pronoun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "āmantritam",
+     "gloss": "consecrated",
+     "grounds": "passive participle neuter nominative or accusative singular from āmantr",
+     "morph": "verb.3.sg.passive-past root āmantr"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "by-root",
+     "grounds": "instrumental singular noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "neuter accusative singular noun or adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What quantity is consecrated by these together with the root?",
+   "premises": [
+    "The verse says consecrated by these.",
+    "It adds consecrated by the root indeed.",
+    "It names the quantity thousand."
+   ],
+   "inference": "A thousand is consecrated by these together with the root.",
+   "uncertainties": [
+    "Whether sahasrakam refers to repetitions, offerings, or another counted item is not explicit."
+   ],
+   "plain_english": "By these and indeed by the root, a thousand is consecrated."
+  },
+  {
+   "verse": 2504,
+   "rows": [
+    {
+     "surface": "mahāṣṭamīnavamyoḥ",
+     "gloss": "great-eighth-ninth",
+     "grounds": "genitive dual noun or adjective",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyoge",
+     "gloss": "conjunction",
+     "grounds": "locative singular noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "purataḥ",
+     "gloss": "before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "active participle masculine nominative singular from sthā",
+     "morph": "verb.3.sg.act-past root sthā"
+    }
+   ],
+   "question": "Where does the practitioner stand during the conjunction of the great eighth and ninth?",
+   "premises": [
+    "The verse names the conjunction of the great eighth and ninth.",
+    "It says standing before.",
+    "The standing is tied to that conjunction."
+   ],
+   "inference": "The practitioner stands before during the conjunction of the great eighth and ninth.",
+   "uncertainties": [
+    "The exact ritual object or deity before whom one stands is not specified."
+   ],
+   "plain_english": "During the conjunction of the great eighth and ninth, one stands before."
+  },
+  {
+   "verse": 2505,
+   "rows": [
+    {
+     "surface": "kabandham",
+     "gloss": "headless-body",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muṇḍapuñjam",
+     "gloss": "skull-heap",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpādibhiḥ",
+     "gloss": "lamps-etc",
+     "grounds": "instrumental plural noun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "alaṃkṛtam",
+     "gloss": "adorned",
+     "grounds": "passive participle neuter nominative or accusative singular from alaṃkṛ",
+     "morph": "verb.3.sg.passive-past root alaṃkṛ"
+    }
+   ],
+   "question": "What is adorned with lamps and similar items in this rite?",
+   "premises": [
+    "The verse names a headless body.",
+    "It names a heap of skulls.",
+    "It says adorned with lamps and similar items."
+   ],
+   "inference": "The headless body and skull heap are adorned with lamps and similar items.",
+   "uncertainties": [
+    "Whether both items or only the ritual space are adorned is not fully explicit."
+   ],
+   "plain_english": "A headless body and a heap of skulls are adorned with lamps and the like."
+  },
+  {
+   "verse": 2506,
+   "rows": [
+    {
+     "surface": "tāmbūlapūravaktram",
+     "gloss": "betel-filled-mouth",
+     "grounds": "neuter accusative singular compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "añjanāñcitalocanam",
+     "gloss": "collyrium-bent-eye",
+     "grounds": "neuter accusative singular compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What facial features are specified for the ritual figure?",
+   "premises": [
+    "The verse names a betel-filled mouth.",
+    "It names a collyrium-bent eye.",
+    "Both are accusative descriptive features."
+   ],
+   "inference": "The ritual figure has a betel-filled mouth and a collyrium-bent eye.",
+   "uncertainties": [
+    "The exact ritual figure being described is not named in this verse."
+   ],
+   "plain_english": "The figure has a mouth filled with betel and an eye bent with collyrium."
+  },
+  {
+   "verse": 2507,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable transitional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvodite",
+     "gloss": "previously-said",
+     "grounds": "locative singular adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "locative singular noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "crossroads",
+     "grounds": "locative singular noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the rite to be performed especially?",
+   "premises": [
+    "The verse says then.",
+    "It names a previously said place.",
+    "It names a crossroads especially."
+   ],
+   "inference": "The rite is to be performed especially at a crossroads in the previously said place.",
+   "uncertainties": [
+    "The exact previously said place is not repeated here."
+   ],
+   "plain_english": "Then, especially at a crossroads in the previously mentioned place."
+  },
+  {
+   "verse": 2508,
+   "rows": [
+    {
+     "surface": "saptamāṣṭamamāsīyam",
+     "gloss": "seventh-eighth-month",
+     "grounds": "neuter accusative singular adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "garbhajam",
+     "gloss": "womb-born",
+     "grounds": "neuter accusative singular adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śavam",
+     "gloss": "corpse",
+     "grounds": "masculine accusative singular noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kind of corpse may be used if it is womb-born in the seventh or eighth month?",
+   "premises": [
+    "The verse names a seventh or eighth month item.",
+    "It names womb-born.",
+    "It names corpse as an alternative."
+   ],
+   "inference": "A womb-born corpse from the seventh or eighth month, or another corpse, may be used.",
+   "uncertainties": [
+    "The precise ritual distinction between the two alternatives is not explained."
+   ],
+   "plain_english": "If womb-born in the seventh or eighth month, or otherwise a corpse."
+  },
+  {
+   "verse": 2509,
+   "rows": [
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "gerund from ānī",
+     "morph": "verb.gerund root ānī"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "place",
+     "grounds": "optative third singular active from sthā",
+     "morph": "verb.3.sg.act-opt root sthā"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsajālam",
+     "gloss": "nyāsa-net",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "perform",
+     "grounds": "optative third singular active from samācar",
+     "morph": "verb.3.sg.act-opt root samācar"
+    }
+   ],
+   "question": "What should be done first after bringing and placing the corpse?",
+   "premises": [
+    "The verse says having brought.",
+    "It says place first.",
+    "It says perform the nyāsa-net."
+   ],
+   "inference": "After bringing and placing, one should first perform the nyāsa-net.",
+   "uncertainties": [
+    "The exact placement location is not restated in this verse."
+   ],
+   "plain_english": "Having brought it, place it first, then perform the nyāsa-net."
+  },
+  {
+   "verse": 2510,
+   "rows": [
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund from abhyarc",
+     "morph": "verb.gerund root abhyarc"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "gerund from dā",
+     "morph": "verb.gerund root dā"
+    },
+    {
+     "surface": "rakṣām",
+     "gloss": "protection",
+     "grounds": "feminine accusative singular noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "locative singular noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "cause",
+     "grounds": "optative third singular causative from kṛ",
+     "morph": "verb.3.sg.act-opt root kṛ"
+    }
+   ],
+   "question": "What protection is to be caused in oneself after worship and giving a seat?",
+   "premises": [
+    "The verse says having worshipped.",
+    "It says having given a seat.",
+    "It says cause protection in oneself."
+   ],
+   "inference": "After worship and giving a seat, protection is to be caused in oneself.",
+   "uncertainties": [
+    "The specific protective rite or mantra is not named here."
+   ],
+   "plain_english": "Having worshipped and given a seat, cause protection in oneself."
+  },
+  {
+   "verse": 2511,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "gerund from jap",
+     "morph": "verb.gerund root jap"
+    },
+    {
+     "surface": "sarvamantra",
+     "gloss": "all-mantra",
+     "grounds": "masculine accusative singular compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvasiddhīśvaraḥ",
+     "gloss": "all-siddhi-lord",
+     "grounds": "masculine nominative singular compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative third singular active from bhū",
+     "morph": "verb.3.sg.act-opt root bhū"
+    }
+   ],
+   "question": "What status is attained by chanting all mantras then?",
+   "premises": [
+    "The verse says then.",
+    "It says having chanted all mantra.",
+    "It says one becomes all-siddhi-lord."
+   ],
+   "inference": "By chanting all mantras then, one becomes lord of all siddhis.",
+   "uncertainties": [
+    "The duration or conditions of this lordship are not specified."
+   ],
+   "plain_english": "Then, having chanted all mantras, one becomes lord of all siddhis."
+  },
+  {
+   "verse": 2512,
+   "rows": [
+    {
+     "surface": "śavasthāpanamantraḥ",
+     "gloss": "corpse-placement-mantra",
+     "grounds": "masculine nominative singular compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śavāsanamanum",
+     "gloss": "corpse-seat-mantra",
+     "grounds": "masculine accusative singular compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What two mantras are named in this instruction?",
+   "premises": [
+    "The verse names a corpse-placement mantra.",
+    "It names a corpse-seat mantra.",
+    "It says then."
+   ],
+   "inference": "The instruction names a corpse-placement mantra and a corpse-seat mantra.",
+   "uncertainties": [
+    "The exact wording of these mantras is not provided."
+   ],
+   "plain_english": "This is the corpse-placement mantra; then the corpse-seat mantra."
+  },
+  {
+   "verse": 2513,
+   "rows": [
+    {
+     "surface": "karakāñcīm",
+     "gloss": "skull-garland",
+     "grounds": "feminine accusative singular noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "gerund from samādā",
+     "morph": "verb.gerund root samādā"
+    },
+    {
+     "surface": "muṇḍamālāvibhūṣitaḥ",
+     "gloss": "skull-garland-adorned",
+     "grounds": "masculine nominative singular passive participle or adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What adornment is taken and worn in this rite?",
+   "premises": [
+    "The verse says having taken a skull-garland.",
+    "It says adorned with a skull-garland.",
+    "The subject is masculine nominative singular."
+   ],
+   "inference": "The practitioner takes and wears a skull-garland as adornment.",
+   "uncertainties": [
+    "Whether karakāñcīm and muṇḍamālā are identical or distinct items is not explicit."
+   ],
+   "plain_english": "Having taken a skull-garland, one is adorned with a skull-garland."
+  },
+  {
+   "verse": 2514,
+   "rows": [
+    {
+     "surface": "śmaśāne",
+     "gloss": "cremation-ground",
+     "grounds": "locative singular noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakṛjjaptvā",
+     "gloss": "once-chanted",
+     "grounds": "gerund from jap with sakṛt",
+     "morph": "verb.gerund root jap"
+    },
+    {
+     "surface": "sarvasiddhīśvaraḥ",
+     "gloss": "all-siddhi-lord",
+     "grounds": "masculine nominative singular compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative third singular active from bhū",
+     "morph": "verb.3.sg.act-opt root bhū"
+    }
+   ],
+   "question": "What result follows from chanting once in the cremation ground?",
+   "premises": [
+    "The verse names the cremation ground.",
+    "It says once chanted.",
+    "It says one becomes all-siddhi-lord."
+   ],
+   "inference": "Chanting once in the cremation ground makes one lord of all siddhis.",
+   "uncertainties": [
+    "The specific mantra to be chanted once is not restated here."
+   ],
+   "plain_english": "In the cremation ground, having chanted once, one becomes lord of all siddhis."
+  },
+  {
+   "verse": 2515,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakṛjjapitvā",
+     "gloss": "once-chanted",
+     "grounds": "gerund from jap with sakṛt",
+     "morph": "verb.gerund root jap"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāmelanam",
+     "gloss": "deity-meeting",
+     "grounds": "neuter nominative or accusative singular compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative third singular active from bhū",
+     "morph": "verb.3.sg.act-opt root bhū"
+    }
+   ],
+   "question": "What occurs there after chanting once?",
+   "premises": [
+    "The verse says there.",
+    "It says once chanted.",
+    "It says deity-meeting becomes."
+   ],
+   "inference": "There, after chanting once, a meeting with the deity occurs.",
+   "uncertainties": [
+    "The identity of the deity and the manner of meeting are not specified."
+   ],
+   "plain_english": "There, after chanting once, there is a meeting with the deity."
+  },
+  {
+   "verse": 2516,
+   "rows": [
+    {
+     "surface": "tadbhasmatilakam",
+     "gloss": "that-ash-tilaka",
+     "grounds": "neuter accusative singular compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund from kṛ",
+     "morph": "verb.gerund root kṛ"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "oneself",
+     "grounds": "indeclinable pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīreśvaraḥ",
+     "gloss": "hero-lord",
+     "grounds": "masculine nominative singular compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative third singular active from bhū",
+     "morph": "verb.3.sg.act-opt root bhū"
+    }
+   ],
+   "question": "What status is attained by making that ash tilaka oneself?",
+   "premises": [
+    "The verse says having made that ash tilaka.",
+    "It says oneself.",
+    "It says one becomes hero-lord."
+   ],
+   "inference": "By making that ash tilaka oneself, one becomes hero-lord.",
+   "uncertainties": [
+    "The source or preparation of the ash is not described in this verse."
+   ],
+   "plain_english": "Having made that ash tilaka oneself, one becomes hero-lord."
+  },
+  {
+   "verse": 2517,
+   "rows": [
+    {
+     "surface": "digvāsāḥ",
+     "gloss": "sky-clad",
+     "grounds": "masculine nominative plural adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vimalaḥ",
+     "gloss": "pure",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhasmabhūṣaṇaḥ",
+     "gloss": "ash-adorned",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktakeśakaḥ",
+     "gloss": "loose-haired",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bodily and ascetic marks are prescribed here?",
+   "premises": [
+    "The verse says sky-clad.",
+    "It says pure.",
+    "It says ash-adorned and loose-haired."
+   ],
+   "inference": "The prescribed marks are sky-cladness, purity, ash adornment, and loose hair.",
+   "uncertainties": [
+    "Whether all marks apply to one person or describe a group is not fully explicit."
+   ],
+   "plain_english": "Sky-clad, pure, adorned with ash, and loose-haired."
+  },
+  {
+   "verse": 2518,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive singular pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mahāsiddhiḥ",
+     "gloss": "great-siddhi",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present third singular active from jan",
+     "morph": "verb.3.sg.act-pres root jan"
+    },
+    {
+     "surface": "śatajāpataḥ",
+     "gloss": "hundred-chanting",
+     "grounds": "ablative singular noun",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "When does great siddhi arise for him?",
+   "premises": [
+    "The verse says then.",
+    "It says his great siddhi arises.",
+    "It says from hundred chanting."
+   ],
+   "inference": "Great siddhi arises for him from hundred chanting.",
+   "uncertainties": [
+    "Whether the hundred chanting is completed in one session or over time is not specified."
+   ],
+   "plain_english": "Then his great siddhi arises from chanting a hundred times."
+  },
+  {
+   "verse": 2519,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "gerund from ānī",
+     "morph": "verb.gerund root ānī"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "well-worshipped",
+     "grounds": "gerund from sampūj",
+     "morph": "verb.gerund root sampūj"
+    },
+    {
+     "surface": "gajāntakasahasrakam",
+     "gloss": "gajāntaka-thousand",
+     "grounds": "neuter accusative singular compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is brought and worshipped there in addition?",
+   "premises": [
+    "The verse says there also.",
+    "It says having brought.",
+    "It says well worshipped and names gajāntaka-thousand."
+   ],
+   "inference": "There, a thousand gajāntaka items are also brought and worshipped.",
+   "uncertainties": [
+    "The exact nature of gajāntaka-thousand is not explained in this verse."
+   ],
+   "plain_english": "There also, having brought and worshipped, a thousand gajāntaka."
+  },
+  {
+   "verse": 2520,
+   "rows": [
+    {
+     "surface": "mahāśavāḥ",
+     "gloss": "great-corpses",
+     "grounds": "masculine nominative plural noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "praśastāḥ",
+     "gloss": "praised",
+     "grounds": "masculine nominative plural adjective or participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "are",
+     "grounds": "optative third plural active from as",
+     "morph": "verb.3.pl.act-opt root as"
+    },
+    {
+     "surface": "pradhānaśavasādhane",
+     "gloss": "principal-corpse-sadhana",
+     "grounds": "locative singular compound noun",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which corpses are praised for the principal corpse sādhana?",
+   "premises": [
+    "The verse names great corpses.",
+    "It says they are praised.",
+    "It names principal corpse sādhana."
+   ],
+   "inference": "Great corpses are praised for the principal corpse sādhana.",
+   "uncertainties": [
+    "The criteria distinguishing great corpses are not specified."
+   ],
+   "plain_english": "Great corpses are praised for the principal corpse sādhana."
+  },
+  {
+   "verse": 2521,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "genitive plural pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "jīvahīnānām",
+     "gloss": "lifeless",
+     "grounds": "genitive plural adjective",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "jantūnām",
+     "gloss": "creatures",
+     "grounds": "genitive plural noun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "nīlasādhane",
+     "gloss": "blue-sadhana",
+     "grounds": "locative singular compound noun",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which creatures are relevant to the blue sādhana?",
+   "premises": [
+    "The verse says of all.",
+    "It says lifeless.",
+    "It says creatures in blue sādhana."
+   ],
+   "inference": "Lifeless creatures among all are relevant to the blue sādhana.",
+   "uncertainties": [
+    "Whether this means all lifeless creatures or a selected class is not explicit."
+   ],
+   "plain_english": "Of all lifeless creatures, for the blue sādhana."
+  },
+  {
+   "verse": 2522,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlakramam",
+     "gloss": "blue-procedure",
+     "grounds": "masculine accusative singular compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitam",
+     "gloss": "told",
+     "grounds": "passive participle neuter nominative or accusative singular from kath",
+     "morph": "verb.3.sg.passive-past root kath"
+    },
+    {
+     "surface": "śubhāvaham",
+     "gloss": "auspicious",
+     "grounds": "neuter accusative singular adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What has been told about the blue procedure?",
+   "premises": [
+    "The verse says thus.",
+    "It names the blue procedure.",
+    "It says told and auspicious."
+   ],
+   "inference": "The blue procedure has been told as auspicious.",
+   "uncertainties": [
+    "The full content of the blue procedure is not restated here."
+   ],
+   "plain_english": "Thus the blue procedure has been told as auspicious."
+  },
+  {
+   "verse": 2523,
+   "rows": [
+    {
+     "surface": "kuje",
+     "gloss": "mars",
+     "grounds": "locative singular noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śanivāre",
+     "gloss": "saturday",
+     "grounds": "locative singular noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naramuṇḍam",
+     "gloss": "human-skull",
+     "grounds": "neuter accusative singular compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "collected",
+     "grounds": "masculine nominative singular adjective or participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "On which days is the human skull to be collected?",
+   "premises": [
+    "The verse names Mars.",
+    "It names Saturday.",
+    "It says human skull collected."
+   ],
+   "inference": "The human skull is to be collected on Mars day or Saturday.",
+   "uncertainties": [
+    "Whether both days are equally prescribed or alternatives is not explicit."
+   ],
+   "plain_english": "On Mars day or Saturday, the human skull is collected."
+  },
+  {
+   "verse": 2524,
+   "rows": [
+    {
+     "surface": "niḥkṣipya",
+     "gloss": "having-placed",
+     "grounds": "gerund from niḥkṣip",
+     "morph": "verb.gerund root niḥkṣip"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative singular noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "hastārdhamānataḥ",
+     "gloss": "hand-half-measure",
+     "grounds": "ablative singular compound noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kānanāntare",
+     "gloss": "in-forest",
+     "grounds": "locative singular compound noun",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where and how is the skull to be placed?",
+   "premises": [
+    "The verse says having placed.",
+    "It says on ground.",
+    "It says in forest and hand-half-measure."
+   ],
+   "inference": "The skull is to be placed on the ground in the forest at a hand-half measure.",
+   "uncertainties": [
+    "The exact meaning of hand-half-measure as depth or distance is not specified."
+   ],
+   "plain_english": "Having placed it on the ground in the forest, at a hand-half measure."
+  }
+ ]
+}

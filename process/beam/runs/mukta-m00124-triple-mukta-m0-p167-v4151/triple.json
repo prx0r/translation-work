@@ -1,0 +1,1148 @@
+{
+ "song": "mukta-m0-p167",
+ "items": [
+  {
+   "verse": 4151,
+   "rows": [
+    {
+     "surface": "tāmrake",
+     "gloss": "in-copper",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kāṃsyapātre",
+     "gloss": "in-bronze-vessel",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhvājyābhyāṃ",
+     "gloss": "with-honey-and-ghee",
+     "grounds": "instrumental dual compound",
+     "morph": "n.instr.du"
+    },
+    {
+     "surface": "samanvite",
+     "gloss": "accompanied",
+     "grounds": "locative singular neuter participle",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What materials accompany the copper or bronze vessel in this rite?",
+   "premises": [
+    "copper or bronze vessel is specified",
+    "honey and ghee accompany it",
+    "the vessel is accompanied"
+   ],
+   "inference": "The rite uses a copper or bronze vessel accompanied by honey and ghee.",
+   "uncertainties": [
+    "exact ritual function is not stated"
+   ],
+   "plain_english": "In a copper or bronze vessel, accompanied by honey and ghee."
+  },
+  {
+   "verse": 4152,
+   "rows": [
+    {
+     "surface": "dhānyarāśiṃ",
+     "gloss": "grain-heap",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāṃ",
+     "gloss": "cow",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savatsāṃ",
+     "gloss": "with-calf",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "brahmaṇāṃstathā",
+     "gloss": "and-brahmins",
+     "grounds": "accusative plural masculine with sandhi",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What offerings and recipients are named after the grain heap?",
+   "premises": [
+    "a grain heap is named",
+    "a cow with calf is named",
+    "brahmins are named"
+   ],
+   "inference": "The passage names a grain heap, a cow with calf, and brahmins.",
+   "uncertainties": [
+    "grammatical relation to prior verse is implicit"
+   ],
+   "plain_english": "Then a grain heap, a cow with calf, and brahmins."
+  },
+  {
+   "verse": 4153,
+   "rows": [
+    {
+     "surface": "pracchannapaṭamānīya",
+     "gloss": "bringing-hidden-cloth",
+     "grounds": "absolutive compound",
+     "morph": "abs"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nayecchivam",
+     "gloss": "lead-shiva",
+     "grounds": "optative third singular with sandhi",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Where is Shiva led after bringing the hidden cloth?",
+   "premises": [
+    "hidden cloth is brought",
+    "a place is specified twice",
+    "Shiva is led"
+   ],
+   "inference": "Shiva is led to the specified place after the hidden cloth is brought.",
+   "uncertainties": [
+    "repeated sthāne may be editorial"
+   ],
+   "plain_english": "Bringing the hidden cloth, lead Shiva to the place, to the place."
+  },
+  {
+   "verse": 4154,
+   "rows": [
+    {
+     "surface": "tasyottare",
+     "gloss": "to-north-of-that",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavānyāstu",
+     "gloss": "of-bhavani",
+     "grounds": "genitive singular feminine with sandhi",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "installation",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is Bhavani installed relative to that place?",
+   "premises": [
+    "north of that is specified",
+    "Bhavani installation is named",
+    "there or again is possible"
+   ],
+   "inference": "Bhavani is installed to the north of that place, there or again.",
+   "uncertainties": [
+    "alternative reading is possible"
+   ],
+   "plain_english": "To the north of that, Bhavani's installation, there or again."
+  },
+  {
+   "verse": 4155,
+   "rows": [
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samāropya",
+     "gloss": "mounting",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "rathādāvapramādataḥ",
+     "gloss": "on-chariot-etc-carefully",
+     "grounds": "ablative singular masculine compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How are god and goddess mounted in this procession?",
+   "premises": [
+    "god is named",
+    "goddess is named",
+    "mounting is named",
+    "chariot etc carefully is named"
+   ],
+   "inference": "God and goddess are mounted on chariot etc carefully.",
+   "uncertainties": [
+    "rathādāvapramādataḥ is compact"
+   ],
+   "plain_english": "Mounting god and goddess on chariot etc carefully."
+  },
+  {
+   "verse": 4156,
+   "rows": [
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "temple",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahābhāgā",
+     "gloss": "fortunate",
+     "grounds": "vocative plural feminine",
+     "morph": "f.voc.pl"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "special",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaściducyate",
+     "gloss": "is-said",
+     "grounds": "present passive third singular with sandhi",
+     "morph": "3.sg.pass"
+    }
+   ],
+   "question": "What special option is said for the fortunate ones?",
+   "premises": [
+    "temple or is named",
+    "fortunate ones are addressed",
+    "special is named",
+    "is said is named"
+   ],
+   "inference": "A special option involving temple or is said for the fortunate ones.",
+   "uncertainties": [
+    "syntax is compressed"
+   ],
+   "plain_english": "Temple or, O fortunate ones, a special thing is said."
+  },
+  {
+   "verse": 4157,
+   "rows": [
+    {
+     "surface": "pratiṣṭhādivasāt",
+     "gloss": "from-consecration-day",
+     "grounds": "ablative singular masculine compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sandhāpya",
+     "gloss": "joining",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilānvitam",
+     "gloss": "with-stone",
+     "grounds": "accusative singular neuter participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is joined to the linga from consecration day?",
+   "premises": [
+    "from consecration day is named",
+    "linga is named",
+    "joining is named",
+    "with stone is named"
+   ],
+   "inference": "From consecration day, the linga is joined with stone.",
+   "uncertainties": [
+    "exact temporal scope is unclear"
+   ],
+   "plain_english": "From consecration day, joining the linga with stone."
+  },
+  {
+   "verse": 4158,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "snapanam",
+     "gloss": "bathing",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādo",
+     "gloss": "first",
+     "grounds": "adverb with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrādiṣu",
+     "gloss": "in-thousands-etc",
+     "grounds": "locative plural masculine",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sambhavaiḥ",
+     "gloss": "with-materials",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "What bathing should be done first with materials?",
+   "premises": [
+    "should do is named",
+    "bathing is named",
+    "first is named",
+    "in thousands etc is named",
+    "with materials is named"
+   ],
+   "inference": "One should first do bathing with materials in thousands etc.",
+   "uncertainties": [
+    "sahasrādiṣu scope is vague"
+   ],
+   "plain_english": "One should first do bathing with materials in thousands etc."
+  },
+  {
+   "verse": 4159,
+   "rows": [
+    {
+     "surface": "kautukaṃ",
+     "gloss": "thread",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bandhayitvā",
+     "gloss": "tying",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgapīṭhe",
+     "gloss": "on-linga-pedestal",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the thread tied in order?",
+   "premises": [
+    "thread is named",
+    "tying is named",
+    "on linga pedestal is named",
+    "in order is named"
+   ],
+   "inference": "The thread is tied on the linga pedestal in order.",
+   "uncertainties": [
+    "tu repetition is stylistic"
+   ],
+   "plain_english": "Tying the thread on the linga pedestal in order."
+  },
+  {
+   "verse": 4160,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śayanaṃ",
+     "gloss": "bed",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What should be arranged on the altar in the circle?",
+   "premises": [
+    "altar is named",
+    "in circle is named",
+    "making is named",
+    "bed is named",
+    "there is named",
+    "should arrange is named"
+   ],
+   "inference": "One should arrange a bed there on the altar made in the circle.",
+   "uncertainties": [
+    "ritual bed meaning is technical"
+   ],
+   "plain_english": "Making an altar in a circle, arrange a bed there."
+  },
+  {
+   "verse": 4161,
+   "rows": [
+    {
+     "surface": "anyatsarvaṃ",
+     "gloss": "all-other",
+     "grounds": "nominative singular neuter compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samānaṃ",
+     "gloss": "same",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "garbhāgre",
+     "gloss": "in-sanctum-front",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "nominative singular neuter participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is considered the same in the sanctum front?",
+   "premises": [
+    "all other is named",
+    "same would be is named",
+    "in sanctum front is named",
+    "altar is named",
+    "considered is named"
+   ],
+   "inference": "All other is considered the same, with altar in the sanctum front.",
+   "uncertainties": [
+    "sentence is elliptical"
+   ],
+   "plain_english": "All other would be the same; altar in the sanctum front is considered."
+  },
+  {
+   "verse": 4162,
+   "rows": [
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "adhivāsayet",
+     "gloss": "should-immerse",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvitrirātraṃ",
+     "gloss": "two-or-three-nights",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sapīṭhakam",
+     "gloss": "with-pedestal",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How long should god with pedestal be immersed in water?",
+   "premises": [
+    "in water is named",
+    "should immerse is named",
+    "god is named",
+    "two or three nights is named",
+    "with pedestal is named"
+   ],
+   "inference": "God with pedestal should be immersed in water for two or three nights.",
+   "uncertainties": [
+    "dvitrirātraṃ exact duration is compound"
+   ],
+   "plain_english": "Immerse god with pedestal in water for two or three nights."
+  },
+  {
+   "verse": 4163,
+   "rows": [
+    {
+     "surface": "nābhimātrodake",
+     "gloss": "waist-deep-water",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "prapāmaṇḍapamaṇḍitām",
+     "gloss": "decorated-pandal",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What decorated structure is made in waist-deep water?",
+   "premises": [
+    "waist-deep water is named",
+    "making is named",
+    "decorated pandal is named"
+   ],
+   "inference": "A decorated pandal is made in waist-deep water.",
+   "uncertainties": [
+    "object of kṛtvā is implicit"
+   ],
+   "plain_english": "Making waist-deep water, a decorated pandal."
+  },
+  {
+   "verse": 4164,
+   "rows": [
+    {
+     "surface": "bhadrapīṭhe",
+     "gloss": "on-auspicious-seat",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samāropya",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are god and goddess placed in order?",
+   "premises": [
+    "on auspicious seat is named",
+    "placing is named",
+    "god is named",
+    "goddess is named",
+    "in order is named"
+   ],
+   "inference": "God and goddess are placed on the auspicious seat in order.",
+   "uncertainties": [
+    "tu is emphatic"
+   ],
+   "plain_english": "Placing god and goddess on the auspicious seat in order."
+  },
+  {
+   "verse": 4165,
+   "rows": [
+    {
+     "surface": "abhito",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭān",
+     "gloss": "pots",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śambhordevyāḥ",
+     "gloss": "of-shambhu-and-goddess",
+     "grounds": "genitive singular feminine compound",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "nominative singular masculine participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is placed around for Shambhu and the goddess?",
+   "premises": [
+    "around is named",
+    "eight is named",
+    "pots is named",
+    "placing is named",
+    "of Shambhu and goddess is named",
+    "composed is named"
+   ],
+   "inference": "Eight pots are placed around for Shambhu and the goddess by the composed one.",
+   "uncertainties": [
+    "samāhitaḥ subject is implicit"
+   ],
+   "plain_english": "Placing eight pots around, for Shambhu and the goddess, composed."
+  },
+  {
+   "verse": 4166,
+   "rows": [
+    {
+     "surface": "jalamadhye",
+     "gloss": "in-water-middle",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ghaṭāṃśca",
+     "gloss": "and-pots",
+     "grounds": "accusative plural masculine with sandhi",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What should be placed in the water middle afterwards?",
+   "premises": [
+    "in water middle is named",
+    "should place is named",
+    "afterwards is named",
+    "god is named",
+    "goddess is named",
+    "and pots is named",
+    "those is named"
+   ],
+   "inference": "Afterwards god, goddess, and those pots should be placed in the water middle.",
+   "uncertainties": [
+    "sequence with prior verse is implicit"
+   ],
+   "plain_english": "Afterwards place god, goddess, and those pots in the water middle."
+  },
+  {
+   "verse": 4167,
+   "rows": [
+    {
+     "surface": "visṛjya",
+     "gloss": "dismissing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śilpinaṃ",
+     "gloss": "artisan",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣite",
+     "gloss": "sprinkled",
+     "grounds": "locative singular neuter participle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yāgamaṇṭape",
+     "gloss": "in-sacrifice-pavilion",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What happens after dismissing the artisan?",
+   "premises": [
+    "dismissing is named",
+    "artisan is named",
+    "afterwards is named",
+    "sprinkled is named",
+    "in sacrifice pavilion is named"
+   ],
+   "inference": "After dismissing the artisan, the sacrifice pavilion is sprinkled.",
+   "uncertainties": [
+    "subject is implicit"
+   ],
+   "plain_english": "Dismissing the artisan, afterwards in the sprinkled sacrifice pavilion."
+  },
+  {
+   "verse": 4168,
+   "rows": [
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vācayitvā",
+     "gloss": "reciting",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāstuhomaṃ",
+     "gloss": "house-sacrifice",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What should be performed after reciting the auspicious day?",
+   "premises": [
+    "auspicious day is named",
+    "reciting is named",
+    "and is named",
+    "house sacrifice is named",
+    "should perform is named"
+   ],
+   "inference": "After reciting the auspicious day, one should perform the house sacrifice.",
+   "uncertainties": [
+    "vācayitvā object is puṇyāham"
+   ],
+   "plain_english": "Reciting the auspicious day, perform the house sacrifice."
+  },
+  {
+   "verse": 4169,
+   "rows": [
+    {
+     "surface": "kṛtasnānaḥ",
+     "gloss": "bathed",
+     "grounds": "nominative singular masculine participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivācāryaḥ",
+     "gloss": "shiva-priest",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuddhavastrottarīyakaḥ",
+     "gloss": "with-pure-upper-garment",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the state of the Shiva priest?",
+   "premises": [
+    "bathed is named",
+    "Shiva priest is named",
+    "with pure upper garment is named"
+   ],
+   "inference": "The Shiva priest is bathed and wears a pure upper garment.",
+   "uncertainties": [
+    "compound is descriptive"
+   ],
+   "plain_english": "The bathed Shiva priest with pure upper garment."
+  },
+  {
+   "verse": 4170,
+   "rows": [
+    {
+     "surface": "mūrtipā",
+     "gloss": "image-bearers",
+     "grounds": "nominative plural masculine compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhūṣitāḥ",
+     "gloss": "adorned",
+     "grounds": "nominative plural masculine participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kintūṣṇīṣavivarjitāḥ",
+     "gloss": "but-without-turban",
+     "grounds": "nominative plural masculine compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the image bearers adorned?",
+   "premises": [
+    "image bearers is named",
+    "adorned is named",
+    "likewise is named",
+    "but without turban is named"
+   ],
+   "inference": "The image bearers are adorned likewise but without turban.",
+   "uncertainties": [
+    "mūrtipā is compound"
+   ],
+   "plain_english": "Image bearers adorned likewise, but without turban."
+  },
+  {
+   "verse": 4171,
+   "rows": [
+    {
+     "surface": "dvārāṇi",
+     "gloss": "doors",
+     "grounds": "accusative plural neuter",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "worshipping",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "pūrvādidvārapālayutāni",
+     "gloss": "with-door-guardians-east-etc",
+     "grounds": "accusative plural neuter compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is worshipped with door guardians?",
+   "premises": [
+    "doors is named",
+    "worshipping is named",
+    "with door guardians east etc is named",
+    "and is named"
+   ],
+   "inference": "Doors are worshipped with door guardians from east etc.",
+   "uncertainties": [
+    "compound is dense"
+   ],
+   "plain_english": "Worshipping doors with door guardians from east etc."
+  },
+  {
+   "verse": 4172,
+   "rows": [
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-west",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛṣabhaskandau",
+     "gloss": "bull-and-skanda",
+     "grounds": "nominative dual masculine compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "devīcaṇḍau",
+     "gloss": "goddess-and-chanda",
+     "grounds": "nominative dual masculine compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāumyake",
+     "gloss": "in-north",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What figures are placed in west and north?",
+   "premises": [
+    "in west is named",
+    "bull and skanda is named",
+    "goddess and chanda is named",
+    "and is named",
+    "in north is named"
+   ],
+   "inference": "Bull and Skanda, goddess and Chanda are placed in west and north.",
+   "uncertainties": [
+    "exact pairing is compressed"
+   ],
+   "plain_english": "In west bull and Skanda, goddess and Chanda, and in north."
+  },
+  {
+   "verse": 4173,
+   "rows": [
+    {
+     "surface": "toraṇe",
+     "gloss": "at-gateway",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrvamārabhya",
+     "gloss": "starting-east",
+     "grounds": "absolutive compound",
+     "morph": "abs"
+    },
+    {
+     "surface": "dvāre",
+     "gloss": "at-door",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāntyādikāḥ",
+     "gloss": "peace-etc",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "arts",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What arts begin at the gateway from east?",
+   "premises": [
+    "at gateway is named",
+    "starting east is named",
+    "at door is named",
+    "peace etc is named",
+    "arts is named"
+   ],
+   "inference": "Peace etc arts begin at the gateway from east at the door.",
+   "uncertainties": [
+    "kalāḥ technical sense"
+   ],
+   "plain_english": "At gateway, starting east at door, peace etc arts."
+  },
+  {
+   "verse": 4174,
+   "rows": [
+    {
+     "surface": "viśuddhakāyo",
+     "gloss": "pure-bodied",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrātmā",
+     "gloss": "mantra-souled",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtāntaryajano",
+     "gloss": "having-internal-sacrifice",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities define the teacher?",
+   "premises": [
+    "pure-bodied is named",
+    "mantra-souled is named",
+    "having internal sacrifice is named",
+    "teacher is named"
+   ],
+   "inference": "The teacher is pure-bodied, mantra-souled, and has internal sacrifice.",
+   "uncertainties": [
+    "compound boundaries are interpretive"
+   ],
+   "plain_english": "The teacher is pure-bodied, mantra-souled, having internal sacrifice."
+  }
+ ]
+}

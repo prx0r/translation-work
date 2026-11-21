@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p163",
+ "items": [
+  {
+   "verse": 4075,
+   "rows": [
+    {
+     "surface": "kumbhāmbhaḥśoṣaṇāt",
+     "gloss": "before-drying-of-pot-water",
+     "grounds": "ablative of kumbha-ambhas-śoṣaṇa, temporal 'before drying of pot water'",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhatoyena",
+     "gloss": "with-fragrant-water",
+     "grounds": "instrumental of gandha-toya",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pūrayet",
+     "gloss": "one-should-fill",
+     "grounds": "optative of pūr, causative sense 'fill'",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Should the pot be filled with fragrant water before its water dries?",
+   "premises": [
+    "Pot water must not dry first.",
+    "Fragrant water fills the pot.",
+    "Filling occurs before drying."
+   ],
+   "inference": "Therefore fill the pot with fragrant water before the pot water dries.",
+   "uncertainties": [
+    "The ablative may mark temporal 'before' rather than source."
+   ],
+   "plain_english": "Before the water in the pot dries, one should fill it with fragrant water."
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund of kṛ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "teṣvapi",
+     "gloss": "among-them-too",
+     "grounds": "teṣu + api",
+     "morph": "loc.pl.m/n"
+    },
+    {
+     "surface": "tābhistu",
+     "gloss": "by-them-however",
+     "grounds": "tābhiḥ + tu",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "vṛttāṃ",
+     "gloss": "middle",
+     "grounds": "feminine accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pūjāsu",
+     "gloss": "in-worships",
+     "grounds": "locative plural",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "madhyamāḥ",
+     "gloss": "madhyamāḥ",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.m/f"
+    }
+   ],
+   "question": "Which worshippers are designated madhyamāḥ after performing the middle worship among them?",
+   "premises": [
+    "kṛtvā indicates completed action",
+    "teṣvapi locates among them",
+    "tābhistu marks agency",
+    "vṛttāṃ pūjāsu denotes middle worship",
+    "madhyamāḥ names the class"
+   ],
+   "inference": "The verse identifies madhyamāḥ as those who perform the middle worship among the group.",
+   "uncertainties": [
+    "Exact syntactic relation of tābhistu to vṛttāṃ is unclear from fragment."
+   ],
+   "plain_english": "Having done so among them too, by them the middle worship is performed; they are the madhyamāḥ."
+  }
+ ]
+}

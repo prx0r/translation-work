@@ -1,0 +1,1199 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "throat",
+     "grounds": "object of protection",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's possession",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive request",
+     "morph": "3.sg.impv.act √pā"
+    },
+    {
+     "surface": "prahlādānandanāthakaḥ",
+     "gloss": "prahlada-joy-lord",
+     "grounds": "name of guardian deity; compound",
+     "morph": "m.nom.sg (prahlāda+ānanda+nāthaka)"
+    }
+   ],
+   "question": "Which guardian deity is invoked to protect the speaker's throat at all times?",
+   "premises": [
+    "The throat is named as the part to be protected.",
+    "Protection is requested continuously.",
+    "Prahlādānandanāthaka is invoked as the protector."
+   ],
+   "inference": "Prahlādānandanāthaka is the deity who should always protect the speaker's throat.",
+   "uncertainties": [],
+   "plain_english": "May Prahlādānandanāthaka always protect my throat."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "vaśiṣṭhanandanāthaśca",
+     "gloss": "vasishtha-joy-lord-and",
+     "grounds": "name of guardian deity with conjunction; sandhi ca",
+     "morph": "m.nom.sg (vaśiṣṭha+nandana+nātha) + (indecl.)"
+    },
+    {
+     "surface": "hṛdayaṃ",
+     "gloss": "heart",
+     "grounds": "object of protection",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "benedictive request continued",
+     "morph": "3.sg.impv.act √pā"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "constant duration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which guardian deity is invoked to protect the speaker's heart at all times?",
+   "premises": [
+    "The heart is named as the part to be protected.",
+    "Protection is requested continuously.",
+    "Vaśiṣṭhanandanātha is invoked as the protector."
+   ],
+   "inference": "Vaśiṣṭhanandanātha is the deity who should always protect the speaker's heart.",
+   "uncertainties": [],
+   "plain_english": "And may Vaśiṣṭhanandanātha always protect my heart."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "dhyānānandaśca",
+     "gloss": "meditation-joy-and",
+     "grounds": "name of guardian deity with conjunction; sandhi ca",
+     "morph": "m.nom.sg (dhyāna+ānanda) + (indecl.)"
+    },
+    {
+     "surface": "sarvāṅgaṃ",
+     "gloss": "all-limbs",
+     "grounds": "entire body as object of protection; compound",
+     "morph": "n.acc.sg (sarva+aṅga)"
+    },
+    {
+     "surface": "bodhānandaśca",
+     "gloss": "awakening-joy-and",
+     "grounds": "name of guardian deity with conjunction; sandhi ca",
+     "morph": "m.nom.sg (bodha+ānanda) + (indecl.)"
+    },
+    {
+     "surface": "kānane",
+     "gloss": "in-forest",
+     "grounds": "location where protection is sought",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which guardian deities are invoked to protect the whole body in the forest?",
+   "premises": [
+    "The whole body is named as needing protection.",
+    "The forest is specified as the place of protection.",
+    "Dhyānānanda and Bodhānanda are invoked as protectors."
+   ],
+   "inference": "Dhyānānanda and Bodhānanda are invoked to protect the entire body in the forest.",
+   "uncertainties": [
+    "The verb of protection is implied from the preceding verses."
+   ],
+   "plain_english": "And may Dhyānānanda protect all my limbs, and Bodhānanda in the forest."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes preceding section",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "declaration of transmission",
+     "morph": "n.nom.sg.past-passive-participle √kath"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "protective text taught",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the armor",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What supreme protective teaching has been declared to the auspicious goddess?",
+   "premises": [
+    "The speaker addresses the goddess as auspicious and as Śivā.",
+    "Something has been told to her.",
+    "That thing is identified as the supreme armor."
+   ],
+   "inference": "The supreme armor has thus been told to the auspicious goddess Śivā.",
+   "uncertainties": [],
+   "plain_english": "Thus, O auspicious one, O Śivā, the supreme armor has been told to you."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "asyaiva",
+     "gloss": "of-this-alone",
+     "grounds": "emphatic reference to the armor; sandhi eva",
+     "morph": "pron.gen.sg.n + (indecl.)"
+    },
+    {
+     "surface": "paṭhanād",
+     "gloss": "from-recitation",
+     "grounds": "means of efficacy",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dhāraṇācchravaṇāt",
+     "gloss": "from-wearing-and-hearing",
+     "grounds": "additional means of efficacy; internal sandhi dhāraṇāt+śravaṇāt",
+     "morph": "n.abl.sg + n.abl.sg (compound-like sandhi)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what practices does this armor become effective for the goddess?",
+   "premises": [
+    "The armor itself is the subject of efficacy.",
+    "Recitation is named as one means.",
+    "Wearing and hearing are named as additional means."
+   ],
+   "inference": "This armor becomes effective through recitation, wearing, and hearing.",
+   "uncertainties": [
+    "The specific result of these practices is stated in following verses."
+   ],
+   "plain_english": "O goddess, O beloved, by reciting this alone, by wearing it, and by hearing it..."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "on-throat",
+     "grounds": "place of wearing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "qualifies arm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bāhau",
+     "gloss": "on-arm",
+     "grounds": "place of wearing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śikhāyāṃ",
+     "gloss": "on-topknot",
+     "grounds": "place of wearing",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vīravandite",
+     "gloss": "o-honored-by-heroes",
+     "grounds": "vocative address; compound",
+     "morph": "f.voc.sg (vīra+vandita)"
+    }
+   ],
+   "question": "Where may the armor be worn by the one honored by heroes?",
+   "premises": [
+    "The throat is given as a possible location.",
+    "The right arm is given as an alternative location.",
+    "The topknot is given as another location."
+   ],
+   "inference": "The armor may be worn on the throat, on the right arm, or on the topknot.",
+   "uncertainties": [],
+   "plain_english": "On the throat, or on the right arm, or on the topknot, O you honored by heroes."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to armor",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kavacam",
+     "gloss": "armor",
+     "grounds": "object not known",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ajñātvā",
+     "gloss": "not-having-known",
+     "grounds": "condition of ignorance",
+     "morph": "(indecl.) absolutive √jñā"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "hypothetical action",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What conditional action is warned against without knowing this armor?",
+   "premises": [
+    "A condition of not knowing this armor is stated.",
+    "Reciting a mantra is posed as a possible action.",
+    "The warning is addressed to the beloved."
+   ],
+   "inference": "One should not recite the mantra without knowing this armor.",
+   "uncertainties": [
+    "The consequence of this ignorance is implied by the following verse."
+   ],
+   "plain_english": "O beloved, if one should recite the mantra without knowing this armor..."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative or locative reference to deity; context suggests deity angered",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ruṣṭe",
+     "gloss": "when-angered",
+     "grounds": "condition of divine displeasure",
+     "morph": "f.loc.sg.past-passive-participle √ruṣ"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "protector in that condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trātā",
+     "gloss": "protector",
+     "grounds": "role of the guru",
+     "morph": "m.nom.sg.agent-noun √trai"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "when-guru",
+     "grounds": "condition of guru's displeasure",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ruṣṭe",
+     "gloss": "angered",
+     "grounds": "condition of displeasure",
+     "morph": "m.loc.sg.past-passive-participle √ruṣ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaścana",
+     "gloss": "anyone",
+     "grounds": "absence of any protector",
+     "morph": "pron.nom.sg.m"
+    }
+   ],
+   "question": "Who can protect the practitioner when Śiva or the guru becomes angered?",
+   "premises": [
+    "If Śiva is angered, the guru can protect.",
+    "If the guru is angered, no one can protect.",
+    "The guru's role is uniquely decisive."
+   ],
+   "inference": "The guru protects when Śiva is angered, but no one protects when the guru is angered.",
+   "uncertainties": [],
+   "plain_english": "When Śivā is angered, the guru is the protector; but when the guru is angered, there is no one at all."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "lokeśa",
+     "gloss": "o-lord-of-worlds",
+     "grounds": "vocative address to the deity",
+     "morph": "m.voc.sg (loka+īśa)"
+    },
+    {
+     "surface": "kathyatām",
+     "gloss": "may-be-told",
+     "grounds": "request for teaching",
+     "morph": "3.sg.impv.passive √kath"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "gurugītā",
+     "gloss": "guru-song",
+     "grounds": "text requested; compound",
+     "morph": "f.nom.sg (guru+gītā)"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "to-me",
+     "grounds": "recipient of teaching",
+     "morph": "pron.loc.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What teaching does the speaker request the lord of worlds to reveal?",
+   "premises": [
+    "The lord of worlds is addressed and petitioned.",
+    "The request is for something to be told.",
+    "The requested teaching is named the Gurugītā."
+   ],
+   "inference": "The speaker asks the lord of worlds to tell the Gurugītā.",
+   "uncertainties": [],
+   "plain_english": "O lord of worlds, O god, O lord, may the Gurugītā be told to me."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "subject identified as revealer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "emphatic self-identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśāstrāṇām",
+     "gloss": "of-all-scriptures",
+     "grounds": "scope of revelation; compound",
+     "morph": "n.gen.pl (sarva+śāstra)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker's identity",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśakaḥ",
+     "gloss": "revealer",
+     "grounds": "role of the speaker/guru",
+     "morph": "m.nom.sg.agent-noun √kāś"
+    }
+   ],
+   "question": "Who is declared to be the revealer of all scriptures in this teaching?",
+   "premises": [
+    "The guru is identified as himself.",
+    "All scriptures are named as the domain.",
+    "The speaker declares himself the revealer."
+   ],
+   "inference": "The guru, who is the speaker himself, is the revealer of all scriptures.",
+   "uncertainties": [],
+   "plain_english": "The guru himself, I alone, am the revealer of all scriptures."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "gayā",
+     "gloss": "gaya",
+     "grounds": "sacred place named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaṅgā",
+     "gloss": "ganga",
+     "grounds": "sacred river named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāśikā",
+     "gloss": "kashi",
+     "grounds": "sacred city named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "addressee identified with sacred sites",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "entire",
+     "grounds": "totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "cosmic totality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How completely is the addressee identified with sacred places and the world?",
+   "premises": [
+    "Gayā, Gaṅgā, and Kāśikā are named.",
+    "The addressee is emphatically identified with them.",
+    "The addressee is also identified with the entire world."
+   ],
+   "inference": "The addressee is identical with the sacred places named and with the entire world.",
+   "uncertainties": [],
+   "plain_english": "Gayā, Gaṅgā, and Kāśikā—you indeed are the entire world."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "candrabhāgā",
+     "gloss": "chandrabhaga",
+     "grounds": "sacred river named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gautamī",
+     "gloss": "gautami",
+     "grounds": "sacred river named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "addressee identified with rivers and protector role",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulapālikā",
+     "gloss": "family-protectress",
+     "grounds": "role of the addressee; compound",
+     "morph": "f.nom.sg (kula+pālikā)"
+    }
+   ],
+   "question": "What sacred rivers and protective role are attributed to the addressee?",
+   "premises": [
+    "Candrabhāgā and Gautamī are named.",
+    "The addressee is emphatically identified with them.",
+    "The addressee is called the protectress of the family or lineage."
+   ],
+   "inference": "The addressee is identical with Candrabhāgā and Gautamī and is the protectress of the lineage.",
+   "uncertainties": [
+    "kulapālikā may refer to the Kula lineage in a tantric sense."
+   ],
+   "plain_english": "Candrabhāgā and Gautamī—you indeed are the protectress of the lineage."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "nahi",
+     "gloss": "not-at-all",
+     "grounds": "strong negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of speech",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vaktum",
+     "gloss": "to-speak",
+     "grounds": "action deemed inappropriate",
+     "morph": "(indecl.) infinitive √vac"
+    },
+    {
+     "surface": "arhāmi",
+     "gloss": "i-am-able",
+     "grounds": "speaker's capacity or entitlement denied",
+     "morph": "1.sg.pres.act √arh"
+    },
+    {
+     "surface": "kriyājālaṃ",
+     "gloss": "network-of-rites",
+     "grounds": "ritual complexity; compound",
+     "morph": "n.acc.sg (kriyā+jāla)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg (mahā+īśvarī)"
+    }
+   ],
+   "question": "Why does the speaker refrain from explaining ritual procedures to the great goddess?",
+   "premises": [
+    "The speaker addresses the great goddess.",
+    "A network of rites is the potential topic.",
+    "The speaker states he is not able or fit to tell it to her."
+   ],
+   "inference": "The speaker refrains from explaining the network of rites to the great goddess.",
+   "uncertainties": [
+    "The reason for inability may be her transcendent status rather than lack of knowledge."
+   ],
+   "plain_english": "O great goddess, I am not able to speak to you of the network of rites."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "addressee as mother",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "jananī",
+     "gloss": "mother",
+     "grounds": "role of the addressee",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior state",
+     "morph": "(indecl.) absolutive √bhū"
+    },
+    {
+     "surface": "badhū",
+     "gloss": "bride",
+     "grounds": "paradoxical role attributed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "repeated addressee",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "speaker's relation",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "dehinām",
+     "gloss": "of-embodied-beings",
+     "grounds": "context of embodied existence",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What paradoxical relationship is questioned between mother and bride roles?",
+   "premises": [
+    "The addressee is acknowledged as having become mother.",
+    "The addressee is also called the speaker's bride.",
+    "The question expresses the paradox of these roles."
+   ],
+   "inference": "The speaker questions how the one who is mother can also be his bride.",
+   "uncertainties": [
+    "The phrase dehinām is syntactically ambiguous in this context."
+   ],
+   "plain_english": "How can you, having become the mother, also be my bride, among embodied beings?"
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concludes the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "told",
+     "grounds": "declaration of transmission",
+     "morph": "f.nom.sg.past-passive-participle √kath"
+    },
+    {
+     "surface": "gītā",
+     "gloss": "song",
+     "grounds": "text transmitted",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gurudevasya",
+     "gloss": "of-guru-god",
+     "grounds": "source of the song; compound",
+     "morph": "m.gen.sg (guru+deva)"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahman",
+     "grounds": "identification of the guru-god",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What sacred song is declared to have been transmitted to the listener?",
+   "premises": [
+    "The teaching is concluded with 'thus'.",
+    "A song is said to have been told to the listener.",
+    "The song belongs to the guru-god identified as Brahman."
+   ],
+   "inference": "The song of the guru-god Brahman has thus been told to the listener.",
+   "uncertainties": [],
+   "plain_english": "Thus the song of the guru-god, of Brahman, has been told to you."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "subject of placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samastam",
+     "gloss": "entire",
+     "grounds": "totality of the world",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astheyaṃ",
+     "gloss": "not-to-be-placed",
+     "grounds": "negated placement; gerundive sense",
+     "morph": "n.nom.sg.gerundive √sthā"
+    },
+    {
+     "surface": "gurustheyaḥ",
+     "gloss": "to-be-placed-in-guru",
+     "grounds": "proper placement; compound with gerundive",
+     "morph": "m.nom.sg (guru+stheya)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the entire world be placed according to this teaching?",
+   "premises": [
+    "The entire world is the subject under consideration.",
+    "It is said not to be placed elsewhere.",
+    "It is to be placed only in the guru."
+   ],
+   "inference": "The entire world should be placed only in the guru.",
+   "uncertainties": [
+    "astheyaṃ is an unusual form; taken as negated gerundive of placement."
+   ],
+   "plain_english": "The entire world is not to be placed elsewhere; it is to be placed only in the guru."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "nānāvidhadravyadānaiḥ",
+     "gloss": "by-various-gifts-of-things",
+     "grounds": "means of attainment; compound",
+     "morph": "n.ins.pl (nānā+vidha+dravya+dāna)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "perfection",
+     "grounds": "result attained",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "recipient of perfection; compound",
+     "morph": "m.nom.sg (sādhaka+uttama)"
+    }
+   ],
+   "question": "How may the best practitioner attain perfection through material offerings?",
+   "premises": [
+    "Various kinds of gifts of things are mentioned as means.",
+    "Perfection is stated as a possible result.",
+    "The best practitioner is the one who may attain it."
+   ],
+   "inference": "Through various gifts of things, the best practitioner may attain perfection.",
+   "uncertainties": [],
+   "plain_english": "By giving various kinds of gifts, the best practitioner may attain perfection."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "colophon marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīdakṣiṇāmnāye",
+     "gloss": "in-shri-dakshinamnaya",
+     "grounds": "scriptural tradition; compound",
+     "morph": "m.loc.sg (śrī+dakṣiṇa+āmnāya)"
+    },
+    {
+     "surface": "sārdhalakṣagranthe",
+     "gloss": "in-text-of-one-and-half-lakh",
+     "grounds": "extent of the larger work; compound",
+     "morph": "m.loc.sg (sārdha+lakṣa+grantha)"
+    },
+    {
+     "surface": "kaṅkālamālinītantre",
+     "gloss": "in-kankalamalini-tantra",
+     "grounds": "name of the tantra; compound",
+     "morph": "n.loc.sg (kaṅkālamālinī+tantra)"
+    },
+    {
+     "surface": "śrīgurupūjanakavacagurugītā",
+     "gloss": "shri-guru-worship-armor-guru-song",
+     "grounds": "title of the section; compound",
+     "morph": "f.nom.sg (śrī+guru+pūjana+kavaca+gurugītā)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "title marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section designation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes with the title of the guru worship armor and guru song?",
+   "premises": [
+    "The colophon locates the text in the Śrī Dakṣiṇāmnāya tradition.",
+    "It identifies the Kaṅkālamālinī Tantra as the source work.",
+    "The section is named the third chapter, the Śrī Gurupūjana Kavaca Gurugītā."
+   ],
+   "inference": "This is the third chapter, named Śrī Gurupūjana Kavaca Gurugītā, in the Kaṅkālamālinī Tantra.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the Śrī Dakṣiṇāmnāya, in the text of one hundred and fifty thousand verses, in the Kaṅkālamālinī Tantra, the third chapter named the Śrī Gurupūjana Kavaca Gurugītā."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun referring to knowledge or subject",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "vijñānamātreṇa",
+     "gloss": "by-mere-knowledge",
+     "grounds": "sole means of attainment; compound",
+     "morph": "n.ins.sg (vijñāna+mātra)"
+    },
+    {
+     "surface": "sarvasiddhīśvaraḥ",
+     "gloss": "lord-of-all-perfections",
+     "grounds": "resulting status; compound",
+     "morph": "m.nom.sg (sarva+siddhi+īśvara)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "potential attainment",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What exalted status is attained through mere knowledge of this teaching?",
+   "premises": [
+    "Mere knowledge is stated as the sufficient means.",
+    "The result is becoming lord of all perfections.",
+    "The attainment is expressed as a potential outcome."
+   ],
+   "inference": "By mere knowledge of this, one would become the lord of all perfections.",
+   "uncertainties": [
+    "yasya may refer to the guru, the teaching, or the knowledge itself."
+   ],
+   "plain_english": "By mere knowledge of whom, one would become the lord of all perfections."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "śaucena",
+     "gloss": "in-purity",
+     "grounds": "quality of comparison",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śucinā",
+     "gloss": "with-pure-one",
+     "grounds": "standard of comparison",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tulyo",
+     "gloss": "equal",
+     "grounds": "comparison of purity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "balena",
+     "gloss": "in-strength",
+     "grounds": "quality of comparison",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "pavanopamaḥ",
+     "gloss": "like-wind",
+     "grounds": "comparison of strength; compound",
+     "morph": "m.nom.sg (pavana+upama)"
+    }
+   ],
+   "question": "To whom is the knower compared in purity and in strength?",
+   "premises": [
+    "In purity the knower is equal to the pure one.",
+    "In strength the knower is compared to the wind.",
+    "These comparisons describe the knower's qualities."
+   ],
+   "inference": "The knower becomes equal to the pure in purity and like the wind in strength.",
+   "uncertainties": [
+    "śucinā may refer to a specific pure being or purity in general."
+   ],
+   "plain_english": "In purity equal to the pure, and in strength like the wind."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "sārvajñe",
+     "gloss": "in-omniscience",
+     "grounds": "quality of comparison",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śambhunā",
+     "gloss": "with-shambhu",
+     "grounds": "standard of comparison",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tulyo",
+     "gloss": "equal",
+     "grounds": "comparison of omniscience",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dāne",
+     "gloss": "in-giving",
+     "grounds": "quality of comparison",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dādhīcinā",
+     "gloss": "with-dadhichi",
+     "grounds": "standard of comparison in generosity",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "samaḥ",
+     "gloss": "equal",
+     "grounds": "comparison of generosity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To whom is the knower compared in omniscience and in generosity?",
+   "premises": [
+    "In omniscience the knower is equal to Śambhu.",
+    "In giving the knower is equal to Dadhīci.",
+    "These comparisons exalt the knower's qualities."
+   ],
+   "inference": "The knower becomes equal to Śambhu in omniscience and to Dadhīci in generosity.",
+   "uncertainties": [],
+   "plain_english": "In omniscience equal to Śambhu, and in giving equal to Dadhīci."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "bhṛgoriva",
+     "gloss": "like-bhrigu",
+     "grounds": "comparison in austerity; sandhi iva",
+     "morph": "m.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "tapasvī",
+     "gloss": "ascetic",
+     "grounds": "quality of austerity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candravat",
+     "gloss": "like-moon",
+     "grounds": "comparison in delight; compound with vat",
+     "morph": "(indecl.) (candra+vat)"
+    },
+    {
+     "surface": "prītivardhanaḥ",
+     "gloss": "joy-increasing",
+     "grounds": "quality of bringing delight; compound",
+     "morph": "m.nom.sg (prīti+vardhana)"
+    }
+   ],
+   "question": "What qualities of austerity and delight are attributed to the knower?",
+   "premises": [
+    "The knower is compared to Bhṛgu in austerity.",
+    "The knower is compared to the moon in increasing joy.",
+    "Both ascetic and pleasing qualities are affirmed."
+   ],
+   "inference": "The knower becomes an ascetic like Bhṛgu and one who increases joy like the moon.",
+   "uncertainties": [],
+   "plain_english": "An ascetic like Bhṛgu, and increasing joy like the moon."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "rūpeṇa",
+     "gloss": "in-beauty",
+     "grounds": "quality of comparison",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "madanaḥ",
+     "gloss": "madana",
+     "grounds": "standard of comparison in beauty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphatic identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratāpe",
+     "gloss": "in-majesty",
+     "grounds": "quality of comparison",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhānusannibhaḥ",
+     "gloss": "like-sun",
+     "grounds": "comparison in splendor; compound",
+     "morph": "m.nom.sg (bhānu+sannibha)"
+    }
+   ],
+   "question": "To whom is the knower compared in beauty and in majestic splendor?",
+   "premises": [
+    "In beauty the knower is directly Madana.",
+    "In majesty the knower is like the sun.",
+    "These comparisons describe outward and radiant qualities."
+   ],
+   "inference": "The knower is directly Madana in beauty and like the sun in majesty.",
+   "uncertainties": [],
+   "plain_english": "In beauty he is Madana himself, and in majesty like the sun."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "siddhānāṃ",
+     "gloss": "of-perfect-beings",
+     "grounds": "group among whom comparison is made",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhairavaḥ",
+     "gloss": "bhairava",
+     "grounds": "standard of comparison",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphatic identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṅgeva",
+     "gloss": "like-ganga",
+     "grounds": "comparison in purification; sandhi iva",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "malanāśakaḥ",
+     "gloss": "impurity-destroyer",
+     "grounds": "purifying quality; compound",
+     "morph": "m.nom.sg (mala+nāśaka)"
+    }
+   ],
+   "question": "What identities of power and purification are attributed to the knower?",
+   "premises": [
+    "Among the perfected beings the knower is directly Bhairava.",
+    "The knower is compared to the Gaṅgā.",
+    "The knower is described as a destroyer of impurities."
+   ],
+   "inference": "The knower is directly Bhairava among the perfected and, like the Gaṅgā, destroys impurities.",
+   "uncertainties": [],
+   "plain_english": "Among the perfected beings he is Bhairava himself, and like the Gaṅgā he destroys impurities."
+  }
+ ]
+}

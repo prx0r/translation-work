@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "vṛṣe",
+     "gloss": "in-taurus",
+     "grounds": "locative of vṛṣa (zodiac sign Taurus); indicates condition or circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maraṇamāpnoti",
+     "gloss": "obtains-death",
+     "grounds": "fused form maraṇam + āpnoti; maraṇam as object of √āp (to obtain, reach)",
+     "morph": "3.sg.pres.act (√āp) + n.acc.sg"
+    },
+    {
+     "surface": "mithune",
+     "gloss": "in-gemini",
+     "grounds": "locative of mithuna (zodiac sign Gemini); parallel condition to vṛṣe",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "'patyanāśanam",
+     "gloss": "offspring-destruction",
+     "grounds": "avagraha marks initial a (apatyanāśanam); compound denoting loss of progeny",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What distinct harms arise under the signs Taurus and Gemini?",
+   "premises": [
+    "Being in Taurus results in obtaining death.",
+    "Being in Gemini results in the destruction of offspring.",
+    "Each zodiacal condition is linked to a specific misfortune."
+   ],
+   "inference": "Therefore, Taurus and Gemini are associated respectively with death and loss of progeny.",
+   "uncertainties": [],
+   "plain_english": "In Taurus one meets death; in Gemini there is loss of offspring."
+  }
+ ]
+}

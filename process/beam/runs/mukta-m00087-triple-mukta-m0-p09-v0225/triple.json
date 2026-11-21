@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "yatprasādāt",
+     "gloss": "by-whose-grace",
+     "grounds": "relative pronoun yat plus prasāda in ablative; fused form",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "himself",
+     "grounds": "indeclinable reflexive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇo",
+     "gloss": "krishna",
+     "grounds": "proper name in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bibharti",
+     "gloss": "bears",
+     "grounds": "present active third singular of root bhṛ",
+     "morph": "3.sg.act-pres, root bhṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇatrayam",
+     "gloss": "three-gunas",
+     "grounds": "compound of guṇa and traya in accusative singular",
+     "morph": "n.acc.sg, compound"
+    }
+   ],
+   "question": "By whose grace does Krishna himself bear the three gunas?",
+   "premises": [
+    "Krishna bears the three gunas.",
+    "This bearing occurs by grace.",
+    "The grace is referenced by yat."
+   ],
+   "inference": "The verse states that Krishna's bearing of the three gunas depends on grace.",
+   "uncertainties": [
+    "The antecedent of yat is not explicit in this excerpt."
+   ],
+   "plain_english": "By whose grace Krishna himself bears the three gunas."
+  }
+ ]
+}

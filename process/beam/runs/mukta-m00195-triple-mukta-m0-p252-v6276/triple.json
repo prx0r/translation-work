@@ -1,0 +1,965 @@
+{
+ "song": "mukta-m0-p252",
+ "items": [
+  {
+   "verse": 6276,
+   "rows": [
+    {
+     "surface": "vicintya",
+     "gloss": "having-reflected",
+     "grounds": "gerund expressing prior mental contemplation",
+     "morph": "gerund √cint"
+    },
+    {
+     "surface": "sva+kare",
+     "gloss": "in-own-hand",
+     "grounds": "location of taking after reflection",
+     "morph": "compound sva+kare loc.sg.m"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "one-should-take",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative.act √grah"
+    },
+    {
+     "surface": "tat+manuṃ",
+     "gloss": "that-mantra",
+     "grounds": "object of taking and recitation",
+     "morph": "compound tat+manuṃ acc.sg.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive repetition of the mantra",
+     "morph": "3.sg.optative.act √jap"
+    }
+   ],
+   "question": "What ritual actions must follow reflection to activate the mantra?",
+   "premises": [
+    "Reflection precedes the ritual handling of the mantra.",
+    "The practitioner should take the mantra in their own hand.",
+    "The practitioner should recite that mantra."
+   ],
+   "inference": "After mental reflection, one secures and activates the mantra by taking it in hand and reciting it.",
+   "uncertainties": [
+    "The exact referent of taking the mantra in hand is not specified."
+   ],
+   "plain_english": "After reflecting, one should take that mantra in one's own hand and recite it."
+  },
+  {
+   "verse": 6277,
+   "rows": [
+    {
+     "surface": "prabhāvāt",
+     "gloss": "by-power",
+     "grounds": "causal force producing protection",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "na+āyānti",
+     "gloss": "not-come",
+     "grounds": "negated approach of threats",
+     "morph": "na+3.pl.pres.act √yā"
+    },
+    {
+     "surface": "caura+vyāghra+uraga+ādayaḥ",
+     "gloss": "thief-tiger-snake-and-others",
+     "grounds": "enumerated dangers kept away",
+     "morph": "compound caura+vyāghra+uraga+ādayaḥ nom.pl.m"
+    }
+   ],
+   "question": "What protective effect does the mantra's power produce against dangers?",
+   "premises": [
+    "The mantra possesses an effective power.",
+    "Thieves, tigers, snakes, and similar threats are potential dangers.",
+    "These dangers do not approach because of that power."
+   ],
+   "inference": "By the mantra's power, thieves, tigers, snakes, and other such dangers are kept away.",
+   "uncertainties": [],
+   "plain_english": "By its power, thieves, tigers, snakes, and other such dangers do not come near."
+  },
+  {
+   "verse": 6278,
+   "rows": [
+    {
+     "surface": "rājānaḥ",
+     "gloss": "kings",
+     "grounds": "agents brought under influence",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vaśyatāṃ",
+     "gloss": "to-subjugation",
+     "grounds": "state of being brought under control",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "attainment of the resulting state",
+     "morph": "3.pl.pres.act √yā"
+    },
+    {
+     "surface": "sundarīṇām",
+     "gloss": "of-beautiful-women",
+     "grounds": "group among whom one becomes dear",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "ati+priyaḥ",
+     "gloss": "very-dear",
+     "grounds": "resulting status of affection",
+     "morph": "compound ati+priyaḥ nom.sg.m"
+    }
+   ],
+   "question": "What powers of attraction and influence does the mantra confer on the practitioner?",
+   "premises": [
+    "Kings come under the practitioner's control.",
+    "The practitioner becomes very dear to beautiful women.",
+    "Both outcomes are presented as results of the practice."
+   ],
+   "inference": "The mantra grants the practitioner control over kings and great favor among beautiful women.",
+   "uncertainties": [],
+   "plain_english": "Kings come under one's control, and one becomes very dear to beautiful women."
+  },
+  {
+   "verse": 6279,
+   "rows": [
+    {
+     "surface": "brahmadaṇḍī",
+     "gloss": "brahmadaṇḍī",
+     "grounds": "named ingredient in the mixture",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "himaṃ",
+     "gloss": "camphor",
+     "grounds": "named ingredient in the mixture",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kṛṣṇa+aguruḥ",
+     "gloss": "black-aloewood",
+     "grounds": "named ingredient in the mixture",
+     "morph": "compound kṛṣṇa+aguruḥ nom.sg.m"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "equal proportion of ingredients",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Which ingredients must be combined in equal measure for the preparation?",
+   "premises": [
+    "Brahmadaṇḍī is included in the preparation.",
+    "Camphor is included in the preparation.",
+    "Black aloewood is included in equal measure."
+   ],
+   "inference": "The preparation requires brahmadaṇḍī, camphor, and black aloewood in equal parts.",
+   "uncertainties": [
+    "The exact botanical identity of brahmadaṇḍī is uncertain."
+   ],
+   "plain_english": "Take brahmadaṇḍī, camphor, and black aloewood in equal parts."
+  },
+  {
+   "verse": 6280,
+   "rows": [
+    {
+     "surface": "mohaḥ",
+     "gloss": "delusion",
+     "grounds": "named substance or effect in the recipe",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-gaṇeśa",
+     "grounds": "deity associated with the power",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "prabhāvataḥ",
+     "gloss": "by-power",
+     "grounds": "causal source of the effect",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What force of Gaṇeśa empowers the prepared substance or effect?",
+   "premises": [
+    "Moha is named in this context.",
+    "Gaṇeśa is the associated deity.",
+    "The effect arises by Gaṇeśa's power."
+   ],
+   "inference": "The moha operates through the power of Gaṇeśa.",
+   "uncertainties": [
+    "Whether moha names an ingredient or a resulting effect is ambiguous."
+   ],
+   "plain_english": "This is moha, effective by the power of Gaṇeśa."
+  },
+  {
+   "verse": 6281,
+   "rows": [
+    {
+     "surface": "tat+cūrṇena",
+     "gloss": "with-that-powder",
+     "grounds": "instrumental substance used for smearing",
+     "morph": "compound tat+cūrṇena ins.sg.n"
+    },
+    {
+     "surface": "karau",
+     "gloss": "both-hands",
+     "grounds": "body parts to be smeared",
+     "morph": "acc.du.m"
+    },
+    {
+     "surface": "liptvā",
+     "gloss": "having-smeared",
+     "grounds": "prior preparatory action",
+     "morph": "gerund √lip"
+    },
+    {
+     "surface": "aṣṭa+adhikaṃ",
+     "gloss": "eight-more",
+     "grounds": "quantity added to a thousand",
+     "morph": "compound aṣṭa+adhikaṃ acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "numerical count in the ritual",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How should the prepared powder be applied and in what count?",
+   "premises": [
+    "The powder prepared earlier is used.",
+    "Both hands are to be smeared with it.",
+    "A count of one thousand and eight is specified."
+   ],
+   "inference": "One should smear both hands with that powder in connection with a count of one thousand and eight.",
+   "uncertainties": [
+    "Whether the count refers to recitations or another action is not explicit."
+   ],
+   "plain_english": "Having smeared both hands with that powder, one should do so with a count of one thousand and eight."
+  },
+  {
+   "verse": 6282,
+   "rows": [
+    {
+     "surface": "nāgāḥ",
+     "gloss": "elephants",
+     "grounds": "beings affected by the ritual",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "airāvata+samāḥ",
+     "gloss": "equal-to-airāvata",
+     "grounds": "comparison indicating excellence",
+     "morph": "compound airāvata+samāḥ nom.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle extending scope",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What extraordinary quality of elephants can the ritual bring under control?",
+   "premises": [
+    "Elephants are the subject of the result.",
+    "They are compared to Airāvata.",
+    "The comparison indicates exceptional quality."
+   ],
+   "inference": "The ritual can affect even elephants comparable to Airāvata.",
+   "uncertainties": [],
+   "plain_english": "Even elephants equal to Airāvata are affected."
+  },
+  {
+   "verse": 6283,
+   "rows": [
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-to-make",
+     "grounds": "prescriptive causative action",
+     "morph": "3.sg.optative.caus.act √kṛ"
+    },
+    {
+     "surface": "śālāṃ",
+     "gloss": "shed",
+     "grounds": "structure to be constructed",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "dṛḍhāṃ",
+     "gloss": "firm",
+     "grounds": "required quality of the structure",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gaja+nibandhinīm",
+     "gloss": "elephant-binding",
+     "grounds": "purpose of the structure",
+     "morph": "compound gaja+nibandhinīm acc.sg.f"
+    }
+   ],
+   "question": "What kind of structure must be built to secure the elephants?",
+   "premises": [
+    "A shed is to be constructed.",
+    "The shed must be firm.",
+    "Its purpose is to bind or secure elephants."
+   ],
+   "inference": "One should have a firm shed built for securing elephants.",
+   "uncertainties": [],
+   "plain_english": "One should have a firm shed built for restraining elephants."
+  },
+  {
+   "verse": 6284,
+   "rows": [
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive act of worship",
+     "morph": "3.sg.optative.act √pūj"
+    }
+   ],
+   "question": "What ritual act of worship must be performed at this stage?",
+   "premises": [
+    "A worship action is prescribed.",
+    "The verb indicates thorough worship.",
+    "The object is implied by the ritual context."
+   ],
+   "inference": "At this stage one should perform worship.",
+   "uncertainties": [
+    "The specific deity or object of worship is not named in this verse."
+   ],
+   "plain_english": "One should perform worship."
+  },
+  {
+   "verse": 6285,
+   "rows": [
+    {
+     "surface": "gaṇapataye",
+     "gloss": "to-gaṇapati",
+     "grounds": "recipient of worship and oblation",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "padena",
+     "gloss": "with-word",
+     "grounds": "formula or name used in the rite",
+     "morph": "ins.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homayet",
+     "gloss": "one-should-offer-oblation",
+     "grounds": "prescriptive fire offering",
+     "morph": "3.sg.optative.caus.act √hu"
+    }
+   ],
+   "question": "To whom and by what means should the fire oblation be offered?",
+   "premises": [
+    "Gaṇapati is the recipient.",
+    "A word or formula is used in the offering.",
+    "A fire oblation is prescribed."
+   ],
+   "inference": "One should offer a fire oblation to Gaṇapati using the appropriate word or formula.",
+   "uncertainties": [
+    "The exact word or formula is not specified."
+   ],
+   "plain_english": "One should also offer an oblation to Gaṇapati with the appropriate word."
+  },
+  {
+   "verse": 6286,
+   "rows": [
+    {
+     "surface": "edhaiḥ",
+     "gloss": "with-fuel-sticks",
+     "grounds": "material used in the fire",
+     "morph": "ins.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "go+ghṛtaiḥ",
+     "gloss": "with-cow-ghee",
+     "grounds": "oblation substance used with fuel",
+     "morph": "compound go+ghṛtaiḥ ins.pl.n"
+    }
+   ],
+   "question": "What materials must be used to perform the fire oblation?",
+   "premises": [
+    "Fuel sticks are required.",
+    "Cow ghee is required.",
+    "Both are used together in the oblation."
+   ],
+   "inference": "The fire oblation should be performed with fuel sticks and cow ghee.",
+   "uncertainties": [],
+   "plain_english": "Use fuel sticks and cow ghee."
+  },
+  {
+   "verse": 6287,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive act of offering",
+     "morph": "3.sg.optative.act √hu"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava+āhutīḥ",
+     "gloss": "nine-oblations",
+     "grounds": "specified number of offerings",
+     "morph": "compound nava+āhutīḥ acc.pl.f"
+    }
+   ],
+   "question": "How many oblations must be offered in this phase of the rite?",
+   "premises": [
+    "An offering action is prescribed.",
+    "The offerings are counted.",
+    "The specified number is nine."
+   ],
+   "inference": "One should offer nine oblations.",
+   "uncertainties": [],
+   "plain_english": "One should offer nine oblations."
+  },
+  {
+   "verse": 6288,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker after previous offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa+dravyaiḥ",
+     "gloss": "with-eight-substances",
+     "grounds": "materials used in the next offering",
+     "morph": "compound aṣṭa+dravyaiḥ ins.pl.n"
+    },
+    {
+     "surface": "svādu+traya+anvitaiḥ",
+     "gloss": "endowed-with-sweet-triad",
+     "grounds": "qualification of the eight substances",
+     "morph": "compound svādu+traya+anvitaiḥ ins.pl.n"
+    }
+   ],
+   "question": "What combination of substances is required for the subsequent offering?",
+   "premises": [
+    "The next step follows the previous oblations.",
+    "Eight substances are to be used.",
+    "These substances are endowed with the three sweets."
+   ],
+   "inference": "After that, one should proceed with eight substances endowed with the sweet triad.",
+   "uncertainties": [
+    "The exact identity of the eight substances and the sweet triad is not specified."
+   ],
+   "plain_english": "Then one should proceed with eight substances endowed with the three sweets."
+  },
+  {
+   "verse": 6289,
+   "rows": [
+    {
+     "surface": "bahūn",
+     "gloss": "many",
+     "grounds": "quantity of recipients to be fed",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "sambhojayet",
+     "gloss": "one-should-feed",
+     "grounds": "prescriptive act of feeding",
+     "morph": "3.sg.optative.caus.act √bhuj"
+    },
+    {
+     "surface": "viprān",
+     "gloss": "brahmins",
+     "grounds": "recipients of the feeding",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time of the resulting blessing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśīrbhiḥ",
+     "gloss": "by-blessings",
+     "grounds": "means of increase or support",
+     "morph": "ins.pl.f"
+    },
+    {
+     "surface": "vivardhitaḥ",
+     "gloss": "increased",
+     "grounds": "resulting state of the practitioner",
+     "morph": "nom.sg.m past-participle √vṛdh"
+    }
+   ],
+   "question": "What benefit follows from feeding many brahmins in this ritual sequence?",
+   "premises": [
+    "Many brahmins should be fed.",
+    "The feeding occurs at that stage of the rite.",
+    "Their blessings increase the practitioner."
+   ],
+   "inference": "Feeding many brahmins leads to the practitioner's increase through their blessings.",
+   "uncertainties": [],
+   "plain_english": "One should feed many brahmins; then, increased by their blessings, one prospers."
+  },
+  {
+   "verse": 6290,
+   "rows": [
+    {
+     "surface": "tat+daśāṃśaṃ",
+     "gloss": "its-tenth-part",
+     "grounds": "portion to be given as dakṣiṇā or offering",
+     "morph": "compound tat+daśāṃśaṃ acc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior act of giving",
+     "morph": "gerund √dā"
+    },
+    {
+     "surface": "santoṣya",
+     "gloss": "having-satisfied",
+     "grounds": "prior act of pleasing",
+     "morph": "gerund caus. √tuṣ"
+    },
+    {
+     "surface": "sat+gurum",
+     "gloss": "true-guru",
+     "grounds": "recipient to be satisfied",
+     "morph": "compound sat+gurum acc.sg.m"
+    }
+   ],
+   "question": "What offering should be made to satisfy the true guru after the rite?",
+   "premises": [
+    "A tenth part is mentioned as an offering.",
+    "The offering may be given as an alternative measure.",
+    "The true guru is to be satisfied."
+   ],
+   "inference": "One should give a tenth part, or otherwise satisfy the true guru.",
+   "uncertainties": [
+    "The basis for calculating the tenth part is not specified."
+   ],
+   "plain_english": "Or, having given a tenth part, one should satisfy the true guru."
+  },
+  {
+   "verse": 6291,
+   "rows": [
+    {
+     "surface": "aṅga+mātṛ+dig+īśānāṃ",
+     "gloss": "of-limbs-mothers-direction-lords",
+     "grounds": "groups of deities addressed in oblation",
+     "morph": "compound aṅga+mātṛ+dig+īśānāṃ gen.pl.m"
+    },
+    {
+     "surface": "tat+maṃtraiḥ",
+     "gloss": "with-their-mantras",
+     "grounds": "formulas used for the offerings",
+     "morph": "compound tat+maṃtraiḥ ins.pl.m"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "substance offered in the fire",
+     "morph": "ins.sg.n"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive fire offering",
+     "morph": "3.sg.optative.act √hu"
+    }
+   ],
+   "question": "How should oblations be made to the limbs, mothers, and directional lords?",
+   "premises": [
+    "The limbs, mothers, and directional lords are recipients.",
+    "Their respective mantras are to be used.",
+    "Ghee is the offering substance."
+   ],
+   "inference": "One should offer ghee with their mantras to the limbs, mothers, and directional lords.",
+   "uncertainties": [],
+   "plain_english": "One should offer ghee with their mantras to the limbs, mothers, and lords of the directions."
+  },
+  {
+   "verse": 6292,
+   "rows": [
+    {
+     "surface": "varāhau",
+     "gloss": "varāhau",
+     "grounds": "invocatory or identifying term in the formula",
+     "morph": "voc.du.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker for the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "number of pairs",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "mithunāni",
+     "gloss": "pairs",
+     "grounds": "paired entities enumerated",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What paired entities are specified beginning with the term varāhau?",
+   "premises": [
+    "The term varāhau is stated as part of the enumeration.",
+    "Four pairs are mentioned.",
+    "The verse introduces a list of pairs."
+   ],
+   "inference": "Beginning with varāhau, four pairs are specified.",
+   "uncertainties": [
+    "The full identity and role of the pairs is only partly given in this verse."
+   ],
+   "plain_english": "Saying 'varāhau,' there are indeed four pairs."
+  },
+  {
+   "verse": 6293,
+   "rows": [
+    {
+     "surface": "durmukhasya",
+     "gloss": "of-durmukha",
+     "grounds": "named figure in the pair",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "priya+uktā",
+     "gloss": "called-dear",
+     "grounds": "designation of the consort or counterpart",
+     "morph": "compound priya+uktā nom.sg.f"
+    },
+    {
+     "surface": "madanāvatī",
+     "gloss": "madanāvatī",
+     "grounds": "named counterpart in the pair",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which named pair is identified in relation to Durmukha in this enumeration?",
+   "premises": [
+    "Durmukha is named.",
+    "A beloved counterpart is indicated.",
+    "Madanāvatī is named as that counterpart."
+   ],
+   "inference": "The pair associated with Durmukha is identified as Madanāvatī, called his beloved.",
+   "uncertainties": [],
+   "plain_english": "Madanāvatī is spoken of as the beloved of Durmukha."
+  },
+  {
+   "verse": 6294,
+   "rows": [
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "number of gaṇeśas declared",
+     "morph": "nom.pl"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "authoritative statement of enumeration",
+     "morph": "nom.pl.m past-participle √vac"
+    },
+    {
+     "surface": "gaṇeśāḥ",
+     "gloss": "gaṇeśas",
+     "grounds": "deities enumerated",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhi+dvayam",
+     "gloss": "treasure-pair",
+     "grounds": "additional pair included in the enumeration",
+     "morph": "compound nidhi+dvayam nom.sg.n"
+    }
+   ],
+   "question": "What additional entities are declared alongside the six Gaṇeśas?",
+   "premises": [
+    "Six Gaṇeśas are declared.",
+    "An additional pair is mentioned.",
+    "That pair is identified as the two treasures."
+   ],
+   "inference": "Along with six Gaṇeśas, a pair of treasures is declared.",
+   "uncertainties": [],
+   "plain_english": "Six Gaṇeśas are declared, and also the pair of treasures."
+  },
+  {
+   "verse": 6295,
+   "rows": [
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual action to be completed",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "prior completion of the oblation",
+     "morph": "gerund √āp with sam"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker for next action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "offering to be performed next",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive performance of the offering",
+     "morph": "3.sg.optative.act √car with sam+ā"
+    }
+   ],
+   "question": "What ritual action must follow immediately after completing the oblation?",
+   "premises": [
+    "The oblation is completed first.",
+    "A food offering is the next item.",
+    "The food offering must be performed."
+   ],
+   "inference": "After completing the oblation, one should perform the food offering.",
+   "uncertainties": [],
+   "plain_english": "Having completed the oblation, one should then perform the food offering."
+  },
+  {
+   "verse": 6296,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "internal locus of dismissal",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "samudvāsya",
+     "gloss": "having-dismissed",
+     "grounds": "ritual dismissal of the deity inwardly",
+     "morph": "gerund caus. √vas with sam+ud"
+    },
+    {
+     "surface": "vicaret",
+     "gloss": "one-should-move",
+     "grounds": "post-ritual conduct",
+     "morph": "3.sg.optative.act √car with vi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā+sukham",
+     "gloss": "as-pleases",
+     "grounds": "manner of free movement",
+     "morph": "compound yathā+sukham (indecl.)"
+    }
+   ],
+   "question": "What conduct is permitted after inwardly dismissing the deity from the heart?",
+   "premises": [
+    "The deity is dismissed in the heart.",
+    "The ritual sequence has concluded.",
+    "Free movement is permitted afterward."
+   ],
+   "inference": "After inward dismissal in the heart, one may go about freely as one wishes.",
+   "uncertainties": [],
+   "plain_english": "Having dismissed the deity in the heart, one may then move about as one pleases."
+  },
+  {
+   "verse": 6297,
+   "rows": [
+    {
+     "surface": "kalabhāḥ",
+     "gloss": "young-elephants",
+     "grounds": "animals appearing as a result",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śataśaḥ",
+     "gloss": "by-hundreds",
+     "grounds": "large quantity of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation of the described result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What abundance of young elephants results from the completed practice?",
+   "premises": [
+    "Young elephants are mentioned as a result.",
+    "They appear in hundreds.",
+    "The result continues in the same manner."
+   ],
+   "inference": "The practice yields young elephants by the hundreds.",
+   "uncertainties": [],
+   "plain_english": "Likewise, young elephants appear by the hundreds."
+  },
+  {
+   "verse": 6298,
+   "rows": [
+    {
+     "surface": "prokta+rūpaṃ",
+     "gloss": "declared-form",
+     "grounds": "form of the deity as previously described",
+     "morph": "compound prokta+rūpaṃ acc.sg.m"
+    },
+    {
+     "surface": "gaṇeśaṃ",
+     "gloss": "gaṇeśa",
+     "grounds": "deity to be worshipped",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive act of worship",
+     "morph": "3.sg.optative.act √arc"
+    }
+   ],
+   "question": "In what form and manner should Gaṇeśa be worshipped in this rite?",
+   "premises": [
+    "Gaṇeśa is the object of worship.",
+    "His form is the one previously declared.",
+    "The worship must be performed properly."
+   ],
+   "inference": "One should properly worship Gaṇeśa in the form previously described.",
+   "uncertainties": [],
+   "plain_english": "One should properly worship Gaṇeśa in the form that has been declared."
+  },
+  {
+   "verse": 6299,
+   "rows": [
+    {
+     "surface": "saṃyuktaiḥ",
+     "gloss": "with-mixed",
+     "grounds": "flowers combined or prepared together",
+     "morph": "ins.pl.m past-participle √yuj with sam"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "offerings used in worship",
+     "morph": "ins.pl.n"
+    },
+    {
+     "surface": "śarkarayā",
+     "gloss": "with-sugar",
+     "grounds": "additional offering substance",
+     "morph": "ins.sg.f"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings should accompany the worship of Gaṇeśa in this context?",
+   "premises": [
+    "Flowers are used in the worship.",
+    "The flowers are mixed or combined.",
+    "Sugar is also included as an offering."
+   ],
+   "inference": "The worship should be accompanied by mixed flowers and also sugar.",
+   "uncertainties": [],
+   "plain_english": "One should worship with mixed flowers and also with sugar."
+  }
+ ]
+}

@@ -1,0 +1,1377 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2101,
+   "rows": [
+    {
+     "surface": "tyajati",
+     "gloss": "abandons",
+     "grounds": "main verb asserting non-abandonment",
+     "morph": "3.sg.act-pres √tyaj"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not",
+     "grounds": "negates the verb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "subha",
+     "gloss": "auspicious",
+     "grounds": "first member of compound describing the abode",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vanam",
+     "gloss": "abode",
+     "grounds": "final member of compound, subject of non-abandonment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What assurance guarantees that an auspicious abode never abandons its recipients?",
+   "premises": [
+    "An auspicious abode is the subject.",
+    "Abandonment is explicitly negated.",
+    "The recipients are specified as those people."
+   ],
+   "inference": "The auspicious abode remains with them and does not abandon them.",
+   "uncertainties": [
+    "The exact referent of 'teṣāṃ' depends on the preceding context."
+   ],
+   "plain_english": "The auspicious abode does not abandon them."
+  },
+  {
+   "verse": 2102,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "alabhyam",
+     "gloss": "unattainable",
+     "grounds": "describes the object as unobtainable",
+     "morph": "n.nom.sg.gerundive √labh"
+    },
+    {
+     "surface": "divi",
+     "gloss": "in-heaven",
+     "grounds": "locates the comparison group",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ṣadām",
+     "gloss": "by-dwellers",
+     "grounds": "denotes those dwelling in heaven",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What kind of attainment remains unattainable even for the dwellers of heaven?",
+   "premises": [
+    "Something is described as unattainable.",
+    "The heaven-dwellers are the comparison group.",
+    "Even they cannot obtain it."
+   ],
+   "inference": "The attainment in question surpasses what even heavenly beings can obtain.",
+   "uncertainties": [
+    "The specific attainment is implied by the surrounding verses."
+   ],
+   "plain_english": "That which is unattainable even by the dwellers of heaven."
+  },
+  {
+   "verse": 2103,
+   "rows": [
+    {
+     "surface": "suta",
+     "gloss": "son",
+     "grounds": "first member of compound describing desire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ārtthī",
+     "gloss": "desiring",
+     "grounds": "final member of compound, subject seeking a son",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "main verb stating the result",
+     "morph": "3.sg.mid-pres √labh"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "object obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "stavasya",
+     "gloss": "of-hymn",
+     "grounds": "specifies the hymn",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "points to this particular hymn",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prakīrttanāt",
+     "gloss": "by-recitation",
+     "grounds": "states the means of attainment",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How can a person desiring a son obtain one through this hymn?",
+   "premises": [
+    "A person desires a son.",
+    "This hymn is recited.",
+    "Recitation is presented as the means."
+   ],
+   "inference": "By reciting this hymn, one who desires a son obtains a son.",
+   "uncertainties": [],
+   "plain_english": "One who desires a son obtains a son by reciting this hymn."
+  },
+  {
+   "verse": 2104,
+   "rows": [
+    {
+     "surface": "jaya",
+     "gloss": "victory",
+     "grounds": "first member of compound describing desire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ārtthīṃ",
+     "gloss": "desiring",
+     "grounds": "final member of compound, subject seeking victory; surface retained as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭhanāt",
+     "gloss": "by-reciting",
+     "grounds": "states the means of attainment",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "points to this particular text",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jayam",
+     "gloss": "victory",
+     "grounds": "object obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "main verb stating the result",
+     "morph": "3.sg.act-pres pra-√āp"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty of the result",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result does reciting this text guarantee for one desiring victory?",
+   "premises": [
+    "A person desires victory.",
+    "This text is recited.",
+    "The result is stated as certain."
+   ],
+   "inference": "By reciting this text, one who desires victory certainly obtains victory.",
+   "uncertainties": [],
+   "plain_english": "One who desires victory certainly obtains victory by reciting this."
+  },
+  {
+   "verse": 2105,
+   "rows": [
+    {
+     "surface": "kubera",
+     "gloss": "Kubera",
+     "grounds": "first member of comparison compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sama",
+     "gloss": "equal",
+     "grounds": "second member of comparison compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sampattiḥ",
+     "gloss": "wealth",
+     "grounds": "final member, describes the resulting wealth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject who recites",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "expresses the potential result",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "hṛdayam",
+     "gloss": "heart",
+     "grounds": "object of recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭhan",
+     "gloss": "reciting",
+     "grounds": "describes the action of the subject",
+     "morph": "m.nom.sg.act-pres-part √paṭh"
+    }
+   ],
+   "question": "What level of wealth can result from reciting the heart portion?",
+   "premises": [
+    "A person recites the heart portion.",
+    "The result is compared to Kubera.",
+    "The outcome is expressed as a possibility."
+   ],
+   "inference": "One who recites the heart portion may attain wealth equal to Kubera's.",
+   "uncertainties": [
+    "The exact referent of 'hṛdayam' may be a specific section of the text."
+   ],
+   "plain_english": "One who recites the heart portion may become equal to Kubera in wealth."
+  },
+  {
+   "verse": 2106,
+   "rows": [
+    {
+     "surface": "mātaṅgī",
+     "gloss": "Mātaṅgī",
+     "grounds": "first member of compound naming the hymn",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hṛdaya",
+     "gloss": "heart",
+     "grounds": "second member of compound naming the hymn",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stotra",
+     "gloss": "hymn",
+     "grounds": "third member of compound naming the hymn",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāṭhāt",
+     "gloss": "by-recitation",
+     "grounds": "states the means of attainment",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "points to the previously mentioned attainments",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "indicates totality of attainments",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "expresses the potential result",
+     "morph": "3.sg.act-opt √āp"
+    }
+   ],
+   "question": "What comprehensive benefit follows from reciting the Mātaṅgī heart hymn?",
+   "premises": [
+    "The Mātaṅgī heart hymn is recited.",
+    "The result encompasses all previously mentioned things.",
+    "The outcome is expressed as attainable."
+   ],
+   "inference": "By reciting the Mātaṅgī heart hymn, one may obtain all those things.",
+   "uncertainties": [
+    "The scope of 'tat sarvam' depends on prior verses."
+   ],
+   "plain_english": "By reciting the Mātaṅgī heart hymn, one may obtain all of that."
+  },
+  {
+   "verse": 2107,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the secret",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "describes the subject as hidden",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying tantras",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tantreṣu",
+     "gloss": "in-tantras",
+     "grounds": "locates the scope of secrecy",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "kenāpi",
+     "gloss": "by-anyone",
+     "grounds": "indicates no revealer at all",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates revelation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "states that it has not been disclosed",
+     "morph": "n.nom.sg.past-pass-part pra-√kāś"
+    }
+   ],
+   "question": "What claim establishes the unparalleled secrecy of this teaching across all tantras?",
+   "premises": [
+    "The teaching is described as secret.",
+    "All tantras are included in the scope.",
+    "No one has revealed it."
+   ],
+   "inference": "This teaching is a secret not revealed by anyone in any tantra.",
+   "uncertainties": [],
+   "plain_english": "This is a secret that has not been revealed by anyone in all the tantras."
+  },
+  {
+   "verse": 2108,
+   "rows": [
+    {
+     "surface": "nākhyeya/",
+     "gloss": "not-to-be-told",
+     "grounds": "prohibits disclosure; surface retained as given",
+     "morph": "n.nom.sg.gerundive"
+    },
+    {
+     "surface": "yyatra",
+     "gloss": "anywhere",
+     "grounds": "indicates unrestricted location; surface retained as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutrāpi",
+     "gloss": "anywhere",
+     "grounds": "reinforces unrestricted location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhanīyam",
+     "gloss": "to-be-recited",
+     "grounds": "enjoins recitation",
+     "morph": "n.nom.sg.gerundive √paṭh"
+    },
+    {
+     "surface": "para",
+     "gloss": "supreme",
+     "grounds": "first member of compound expressing highest status",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "atparam",
+     "gloss": "supreme",
+     "grounds": "final member of compound expressing highest status",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should this supremely secret teaching be handled regarding disclosure and recitation?",
+   "premises": [
+    "The teaching must not be told anywhere.",
+    "The teaching is to be recited.",
+    "It is described as supreme beyond supreme."
+   ],
+   "inference": "Though supremely exalted and fit for recitation, it must not be disclosed anywhere.",
+   "uncertainties": [
+    "The apparent tension between recitation and non-disclosure may depend on ritual context."
+   ],
+   "plain_english": "It must not be told anywhere, yet it is to be recited, being supreme beyond the supreme."
+  },
+  {
+   "verse": 2109,
+   "rows": [
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "main verb stating destruction",
+     "morph": "3.pl.act-pres √naś"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "in-that-moment",
+     "grounds": "indicates immediacy",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vahninā",
+     "gloss": "by-fire",
+     "grounds": "agent in the simile",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tūla",
+     "gloss": "cotton",
+     "grounds": "first member of simile compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rāśi",
+     "gloss": "heap",
+     "grounds": "second member of simile compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vat",
+     "gloss": "like",
+     "grounds": "marks the comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How swiftly are obstacles destroyed when this teaching is invoked, O goddess?",
+   "premises": [
+    "Destruction happens in that very moment.",
+    "The comparison is to cotton burned by fire.",
+    "The goddess is addressed directly."
+   ],
+   "inference": "Obstacles perish instantly, like a heap of cotton consumed by fire.",
+   "uncertainties": [
+    "The subject that perishes is implied by context."
+   ],
+   "plain_english": "O goddess, they perish in that very moment, like a heap of cotton by fire."
+  },
+  {
+   "verse": 2110,
+   "rows": [
+    {
+     "surface": "kṣaumā",
+     "gloss": "silken-garment",
+     "grounds": "first member of compound describing attire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "baddha",
+     "gloss": "bound",
+     "grounds": "second member of compound describing attire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nitamba",
+     "gloss": "hip",
+     "grounds": "third member of compound describing the body",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bimba",
+     "gloss": "curve",
+     "grounds": "fourth member of compound describing the body",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lalitā/",
+     "gloss": "adorned",
+     "grounds": "describes the goddess; surface retained as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vvande",
+     "gloss": "I-bow",
+     "grounds": "main verb expressing reverence; surface retained as given",
+     "morph": "1.sg.mid-pres √vand"
+    },
+    {
+     "surface": "aravinda",
+     "gloss": "lotus",
+     "grounds": "first member of compound indicating seat",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthitām",
+     "gloss": "seated",
+     "grounds": "describes the goddess's posture",
+     "morph": "f.acc.sg.past-pass-part √sthā"
+    }
+   ],
+   "question": "How is the goddess visualized and honored in this devotional salutation?",
+   "premises": [
+    "The goddess is adorned with a silken garment at her hips.",
+    "She is seated on a lotus.",
+    "The speaker offers reverence."
+   ],
+   "inference": "The speaker bows to the adorned goddess seated on a lotus.",
+   "uncertainties": [],
+   "plain_english": "I bow to her, adorned with a silken garment bound at her hips, seated on a lotus."
+  },
+  {
+   "verse": 2111,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "introduces the comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "subject of the comparison",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "acalā",
+     "gloss": "immovable",
+     "grounds": "describes steadfastness in the comparison",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "in-Kṛṣṇa",
+     "grounds": "object of steadfastness in the comparison",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "completes the comparison",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "imperative request",
+     "morph": "2.sg.act-imper √bhū"
+    },
+    {
+     "surface": "mayi",
+     "gloss": "in-me",
+     "grounds": "object of requested steadfastness",
+     "morph": "pron.loc.sg"
+    },
+    {
+     "surface": "sthirā",
+     "gloss": "steady",
+     "grounds": "describes the requested state",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What steadfast presence is requested from the goddess through comparison with her devotion to Kṛṣṇa?",
+   "premises": [
+    "The goddess is immovable in Kṛṣṇa.",
+    "A parallel is drawn to the speaker.",
+    "Steadfastness is requested."
+   ],
+   "inference": "The goddess is asked to be as steady in the speaker as she is in Kṛṣṇa.",
+   "uncertainties": [],
+   "plain_english": "As you are immovable in Kṛṣṇa, so be steady in me."
+  },
+  {
+   "verse": 2112,
+   "rows": [
+    {
+     "surface": "padmā",
+     "gloss": "Padmā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "first member of compound describing abode",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ālayā",
+     "gloss": "dwelling",
+     "grounds": "final member of compound describing abode",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "fully",
+     "grounds": "emphasizes completeness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaiḥ",
+     "gloss": "on-high",
+     "grounds": "indicates exalted manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "Śrī",
+     "grounds": "first member of compound describing attribute",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "second member of compound describing attribute",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhāriṇī",
+     "gloss": "holding",
+     "grounds": "final member of compound describing attribute",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attributes characterize Padmā as the lotus-dwelling and lotus-holding goddess?",
+   "premises": [
+    "Padmā dwells in a lotus.",
+    "She holds the auspicious lotus.",
+    "Her presence is described as fully exalted."
+   ],
+   "inference": "Padmā is invoked as the exalted goddess who dwells in and holds the lotus.",
+   "uncertainties": [],
+   "plain_english": "Padmā, dwelling in the lotus, fully exalted, holding the auspicious lotus."
+  },
+  {
+   "verse": 2113,
+   "rows": [
+    {
+     "surface": "sthirā",
+     "gloss": "steady",
+     "grounds": "describes the desired state of Lakṣmī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "Lakṣmī",
+     "grounds": "subject whose steadiness is sought",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "expresses the desired result",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "identifies the beneficiary",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "putra",
+     "gloss": "sons",
+     "grounds": "first member of compound listing family",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dārā",
+     "gloss": "wives",
+     "grounds": "second member of compound listing family",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-others",
+     "grounds": "extends the list of family and associates",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "indicates accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What blessing of stable prosperity is sought for a person and their household?",
+   "premises": [
+    "Lakṣmī is asked to be steady.",
+    "The beneficiary is a specific person.",
+    "The blessing includes sons, wives, and others."
+   ],
+   "inference": "May Lakṣmī remain steady for him together with his sons, wives, and others.",
+   "uncertainties": [],
+   "plain_english": "May Lakṣmī be steady for him, together with his sons, wives, and others."
+  },
+  {
+   "verse": 2114,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun identifying the subject",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vijñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound describing the means",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "mere",
+     "grounds": "final member of compound emphasizing sufficiency",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "emphasizes immediacy and reality of the state",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "Sadāśiva",
+     "grounds": "the realized identity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformative realization arises from merely knowing this teaching?",
+   "premises": [
+    "Mere knowledge is the means.",
+    "The result is becoming Sadāśiva.",
+    "The transformation is described as direct."
+   ],
+   "inference": "By mere knowledge of this, one becomes Sadāśiva directly.",
+   "uncertainties": [
+    "The content of 'vijñāna' refers to the teaching in context."
+   ],
+   "plain_english": "By merely knowing this, one becomes Sadāśiva himself."
+  },
+  {
+   "verse": 2115,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject who attains the result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.act-opt √bhū"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "Pārvatī",
+     "grounds": "first member of compound identifying sonship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "putraḥ",
+     "gloss": "son",
+     "grounds": "final member of compound identifying sonship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying scriptures",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śāstra",
+     "gloss": "scriptures",
+     "grounds": "second member of compound qualifying expertise",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viśāradaḥ",
+     "gloss": "skilled",
+     "grounds": "final member of compound describing expertise",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What exalted status and mastery follow from the realization described previously?",
+   "premises": [
+    "The same person is the subject.",
+    "He becomes a son of Pārvatī.",
+    "He becomes skilled in all scriptures."
+   ],
+   "inference": "He becomes a son of Pārvatī and skilled in all scriptures.",
+   "uncertainties": [],
+   "plain_english": "He becomes a son of Pārvatī, skilled in all the scriptures."
+  },
+  {
+   "verse": 2116,
+   "rows": [
+    {
+     "surface": "dhama",
+     "gloss": "wealth",
+     "grounds": "first member of compound describing seekers; surface retained as given",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ārtthibhiḥ",
+     "gloss": "by-seekers",
+     "grounds": "identifies those who should serve",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continual practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevyā",
+     "gloss": "to-be-served",
+     "grounds": "enjoins worship or service",
+     "morph": "f.nom.sg.gerundive √sev"
+    },
+    {
+     "surface": "kamalā",
+     "gloss": "Kamalā",
+     "grounds": "name of the goddess to be served",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "Viṣṇu",
+     "grounds": "first member of compound describing the goddess",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "final member of compound describing the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who should continually serve Kamalā, the beloved of Viṣṇu, to attain wealth?",
+   "premises": [
+    "Seekers of wealth are specified.",
+    "Service is to be continual.",
+    "Kamalā, beloved of Viṣṇu, is the object of service."
+   ],
+   "inference": "Those who seek wealth should always serve Kamalā, the beloved of Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "Kamalā, the beloved of Viṣṇu, should always be served by those who seek wealth."
+  },
+  {
+   "verse": 2117,
+   "rows": [
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable invoked for protection",
+     "morph": "(bīja)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative request for protection",
+     "morph": "3.sg.act-imper √pā"
+    },
+    {
+     "surface": "cakṣuṣoḥ",
+     "gloss": "of-eyes",
+     "grounds": "specifies the area between the eyes",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locates the point of protection",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cakṣu",
+     "gloss": "eye",
+     "grounds": "first member of compound naming the pair",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yugme",
+     "gloss": "pair",
+     "grounds": "final member of compound naming the pair",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations of protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāṅkarī",
+     "gloss": "Śāṅkarī",
+     "grounds": "goddess invoked for protection",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which divine powers are invoked to protect the space between and within the eyes?",
+   "premises": [
+    "The bīja hrīṃ is invoked for protection.",
+    "The middle of the eyes is specified.",
+    "Śāṅkarī is invoked for the pair of eyes."
+   ],
+   "inference": "May hrīṃ protect the middle of the eyes, and may Śāṅkarī protect the pair of eyes.",
+   "uncertainties": [],
+   "plain_english": "May hrīṃ protect the middle of the eyes, and may Śāṅkarī protect the pair of eyes."
+  },
+  {
+   "verse": 2118,
+   "rows": [
+    {
+     "surface": "oṣṭha",
+     "gloss": "lip",
+     "grounds": "first member of compound locating the lower lip",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "adhare",
+     "gloss": "lower-lip",
+     "grounds": "final member of compound locating the lower lip",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "danta",
+     "gloss": "tooth",
+     "grounds": "first member of compound locating the teeth row",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "paṅktau",
+     "gloss": "row",
+     "grounds": "final member of compound locating the teeth row",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tālu",
+     "gloss": "palate",
+     "grounds": "first member of compound locating the palate root",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "root",
+     "grounds": "final member of compound locating the palate root",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hanau",
+     "gloss": "jaw",
+     "grounds": "locates the jaw",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continues the protective enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which parts of the mouth and jaw are included in this continuing protective invocation?",
+   "premises": [
+    "The lower lip is named.",
+    "The row of teeth is named.",
+    "The root of the palate and the jaw are named."
+   ],
+   "inference": "Protection is invoked for the lower lip, the row of teeth, the root of the palate, and the jaw.",
+   "uncertainties": [
+    "The protecting deity for these parts is carried over from adjacent verses."
+   ],
+   "plain_english": "Again, in the lower lip, the row of teeth, the root of the palate, and the jaw."
+  },
+  {
+   "verse": 2119,
+   "rows": [
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative request for protection",
+     "morph": "3.sg.act-imper √pā"
+    },
+    {
+     "surface": "mā/",
+     "gloss": "me",
+     "grounds": "object of protection; surface retained as given",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "Viṣṇu",
+     "grounds": "first member of compound identifying the consort",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vanitā",
+     "gloss": "consort",
+     "grounds": "final member of compound identifying the consort",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "Lakṣmī",
+     "grounds": "name of the protecting goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "Śrī",
+     "grounds": "first member of compound describing her form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "Viṣṇu",
+     "grounds": "second member of compound describing her form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpiṇī",
+     "gloss": "having-form",
+     "grounds": "final member of compound describing her form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which form of Lakṣmī is invoked to grant protection to the practitioner?",
+   "premises": [
+    "Protection is requested for the speaker.",
+    "Lakṣmī is identified as Viṣṇu's consort.",
+    "She is described as having the form of Śrī and Viṣṇu."
+   ],
+   "inference": "May Lakṣmī, the consort of Viṣṇu in the form of Śrī-Viṣṇu, protect me.",
+   "uncertainties": [],
+   "plain_english": "May Lakṣmī, the consort of Viṣṇu, having the form of Śrī and Viṣṇu, protect me."
+  },
+  {
+   "verse": 2120,
+   "rows": [
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locates protection in the heart",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maṇibandhe",
+     "gloss": "in-wrist",
+     "grounds": "locates protection in the wrist",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grīvāyām",
+     "gloss": "in-neck",
+     "grounds": "locates protection in the neck",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "in-sides",
+     "grounds": "locates protection in the sides",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continues the protective enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which regions of the torso and upper body are covered in this protective enumeration?",
+   "premises": [
+    "The heart and wrist are named.",
+    "The neck is named.",
+    "Both sides are named."
+   ],
+   "inference": "Protection is invoked for the heart, wrist, neck, and both sides.",
+   "uncertainties": [
+    "The protecting deity is carried over from adjacent verses."
+   ],
+   "plain_english": "Again, in the heart, in the wrist, in the neck, and in the two sides."
+  },
+  {
+   "verse": 2121,
+   "rows": [
+    {
+     "surface": "upasthe",
+     "gloss": "in-groin",
+     "grounds": "locates protection in the groin",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nitambe",
+     "gloss": "in-hips",
+     "grounds": "locates protection in the hips",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "locates protection in the navel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jaṅghā",
+     "gloss": "thigh",
+     "grounds": "first member of compound naming the pair",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dvaye",
+     "gloss": "pair",
+     "grounds": "final member of compound naming the pair",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continues the protective enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which lower bodily regions are included in this continuing protective invocation?",
+   "premises": [
+    "The groin and hips are named.",
+    "The navel is named.",
+    "The pair of thighs is named."
+   ],
+   "inference": "Protection is invoked for the groin, hips, navel, and both thighs.",
+   "uncertainties": [
+    "The protecting deity is carried over from adjacent verses."
+   ],
+   "plain_english": "Again, in the groin, in the hips, in the navel, and in the pair of thighs."
+  },
+  {
+   "verse": 2122,
+   "rows": [
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "first member of compound qualifying inner constituents",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhātu",
+     "gloss": "element",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prāṇa",
+     "gloss": "vital-breath",
+     "grounds": "third member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "fourth member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "fifth member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sīmante",
+     "gloss": "in-parting-of-hair",
+     "grounds": "locates protection at the hair parting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "in-head",
+     "grounds": "locates protection at the head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "continues the protective enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What inner constituents and head regions are included in this protective invocation?",
+   "premises": [
+    "One's own elements, vital breath, power, and self are named.",
+    "The parting of the hair is named.",
+    "The head is named."
+   ],
+   "inference": "Protection is invoked for one's own elements, breath, power, and self, as well as the hair parting and head.",
+   "uncertainties": [
+    "The compound 'sva-dhātu-prāṇa-śakti-ātma' may be parsed in more than one way."
+   ],
+   "plain_english": "Again, in one's own elements, vital breath, power, and self, in the parting of the hair, and in the head."
+  },
+  {
+   "verse": 2123,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅge",
+     "gloss": "limbs",
+     "grounds": "final member of compound indicating all body parts",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative request for protection",
+     "morph": "3.sg.act-imper √pā"
+    },
+    {
+     "surface": "kāmeśī",
+     "gloss": "Kāmeśī",
+     "grounds": "name of the protecting goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound describing the goddess",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "final member of compound describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "Sarasvatī",
+     "grounds": "name of the great goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is invoked to protect all the limbs of the body?",
+   "premises": [
+    "Protection is requested for all limbs.",
+    "Kāmeśī is invoked.",
+    "She is identified as the great goddess Sarasvatī."
+   ],
+   "inference": "May Kāmeśī, the great goddess Sarasvatī, protect all the limbs.",
+   "uncertainties": [],
+   "plain_english": "May Kāmeśī, the great goddess Sarasvatī, protect all the limbs."
+  },
+  {
+   "verse": 2124,
+   "rows": [
+    {
+     "surface": "ṛddhiḥ",
+     "gloss": "Ṛddhi",
+     "grounds": "name of the protecting goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative request for protection",
+     "morph": "3.sg.act-imper √pā"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound describing the goddess",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "final member of compound describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates universal scope of protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śambhu",
+     "gloss": "Śambhu",
+     "grounds": "first member of compound describing the goddess",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "final member of compound describing the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What universal protection is sought from Ṛddhi, the beloved of Śambhu?",
+   "premises": [
+    "Ṛddhi is invoked as the great goddess.",
+    "She is described as beloved of Śambhu.",
+    "Protection is requested everywhere."
+   ],
+   "inference": "May Ṛddhi, the great goddess beloved of Śambhu, protect everywhere.",
+   "uncertainties": [],
+   "plain_english": "May Ṛddhi, the great goddess beloved of Śambhu, protect everywhere."
+  }
+ ]
+}

@@ -1,0 +1,1235 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2501,
+   "rows": [
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "*",
+     "gloss": "illegible",
+     "grounds": "editorial marker for unreadable text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "ordinal qualifying lakṣaṇaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "object of śṛṇu",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative command to listener",
+     "morph": "2.sg.act.imp-√śru"
+    }
+   ],
+   "question": "What seventh defining characteristic must the listener now attend to?",
+   "premises": [
+    "A sequence of characteristics is being taught.",
+    "The seventh characteristic is introduced here.",
+    "The listener is commanded to hear it."
+   ],
+   "inference": "Attention is directed to the seventh characteristic in the ongoing exposition.",
+   "uncertainties": [
+    "The first eight tokens are illegible in the source."
+   ],
+   "plain_english": "Hear now the seventh characteristic."
+  },
+  {
+   "verse": 2502,
+   "rows": [
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "element-portion",
+     "grounds": "measure or part related to elements",
+     "morph": "m.acc.sg (compound: bhūta+aṃśa)"
+    },
+    {
+     "surface": "nāladīrghaṃ",
+     "gloss": "not-stalk-long",
+     "grounds": "negated length of the stalk",
+     "morph": "n.acc.sg (compound: na+āla+dīrgha)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvavadeva",
+     "gloss": "just-as-before",
+     "grounds": "comparison to prior rule",
+     "morph": "(indecl., compound: pūrvavat+eva)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the element portion and the remaining stalk length be determined?",
+   "premises": [
+    "The element portion is specified.",
+    "The stalk is not to be long.",
+    "The remainder follows the previous rule."
+   ],
+   "inference": "The element portion is fixed while the rest conforms to the earlier prescription.",
+   "uncertainties": [
+    "The exact technical sense of bhūtāṃśaṃ in this context is unclear."
+   ],
+   "plain_english": "The element portion is not long in the stalk, but the remainder is indeed just as before."
+  },
+  {
+   "verse": 2503,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "summarizing prior description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭavidhaṃ",
+     "gloss": "eightfold",
+     "grounds": "number of kinds",
+     "morph": "n.nom.sg (compound: aṣṭa+vidha)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or recognized",
+     "morph": "n.nom.sg (past-participle, √khyā)"
+    },
+    {
+     "surface": "nālāyāmaṃ",
+     "gloss": "stalk-length",
+     "grounds": "measure of the stalk",
+     "morph": "n.nom.sg (compound: nāla+āyāma)"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg (compound: dvija+uttama)"
+    },
+    {
+     "surface": "!",
+     "gloss": "!",
+     "grounds": "punctuation",
+     "morph": "(punct.)"
+    }
+   ],
+   "question": "How many recognized kinds of stalk length are established in this teaching?",
+   "premises": [
+    "The preceding rules define stalk length.",
+    "The stalk length is declared eightfold.",
+    "The address confirms authoritative teaching."
+   ],
+   "inference": "Stalk length is authoritatively classified into eight kinds.",
+   "uncertainties": [],
+   "plain_english": "Thus, O best of the twice-born, the stalk length is known to be eightfold."
+  },
+  {
+   "verse": 2504,
+   "rows": [
+    {
+     "surface": "yatheṣṭa",
+     "gloss": "as-desired",
+     "grounds": "according to preference",
+     "morph": "(indecl., compound: yathā+iṣṭa)"
+    },
+    {
+     "surface": "nāla",
+     "gloss": "stalk",
+     "grounds": "object to be made",
+     "morph": "n.nom.sg (compound-member)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "obligation or prescription",
+     "morph": "n.nom.sg (gerundive, √kṛ)"
+    },
+    {
+     "surface": "vasusaṃkhyāsu",
+     "gloss": "in-eight-measures",
+     "grounds": "within eightfold count",
+     "morph": "f.loc.pl (compound: vasu+saṃkhyā)"
+    },
+    {
+     "surface": "me",
+     "gloss": "by-me",
+     "grounds": "speaker reference",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Within what prescribed range may the stalk be fashioned according to desire?",
+   "premises": [
+    "The stalk may be made as desired.",
+    "This freedom operates within eight measures.",
+    "The instruction is addressed to the twice-born."
+   ],
+   "inference": "Choice of stalk length is permitted within the eightfold prescribed measures.",
+   "uncertainties": [
+    "The precise referent of vasusaṃkhyāsu is context-dependent."
+   ],
+   "plain_english": "O twice-born, the stalk may be made as desired within the eight measures taught by me."
+  },
+  {
+   "verse": 2505,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "ritual installation action",
+     "morph": "3.sg.act.opt-√sthā (causative)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "procedural continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "thereafter",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "object to be installed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgudagraṃ",
+     "gloss": "east-north-facing",
+     "grounds": "orientation of the linga",
+     "morph": "n.acc.sg (compound: prāc+udac+agra)"
+    },
+    {
+     "surface": "duraṣṭake",
+     "gloss": "duraṣṭaka",
+     "grounds": "ritual context or location term",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How and in what orientation should the linga be installed thereafter?",
+   "premises": [
+    "The linga is to be placed after prior steps.",
+    "Its orientation is toward east and north.",
+    "The placement occurs in the specified context."
+   ],
+   "inference": "The linga must be installed thereafter facing east and north in the stated setting.",
+   "uncertainties": [
+    "The meaning of duraṣṭake is unclear without further context."
+   ],
+   "plain_english": "Then one should place the linga facing east and north in the duraṣṭaka."
+  },
+  {
+   "verse": 2506,
+   "rows": [
+    {
+     "surface": "sthāpitaiḥ",
+     "gloss": "placed",
+     "grounds": "pots already set in position",
+     "morph": "m.inst.pl (past-participle, causative √sthā)"
+    },
+    {
+     "surface": "kalaśaiḥ",
+     "gloss": "with-pots",
+     "grounds": "instruments for bathing",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "snāpya",
+     "gloss": "having-bathed",
+     "grounds": "prior ritual action",
+     "morph": "(absolutive, causative √snā)"
+    },
+    {
+     "surface": "liṃgapīṭhau",
+     "gloss": "linga-and-pedestal",
+     "grounds": "objects bathed",
+     "morph": "n.acc.du (compound: liṃga+pīṭha)"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "mantra used in ritual",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who performs the bathing of the linga and pedestal and by what means?",
+   "premises": [
+    "Pots have been placed for the rite.",
+    "The linga and pedestal are bathed.",
+    "The teacher performs the act with the heart mantra."
+   ],
+   "inference": "The teacher bathes the linga and pedestal with the placed pots using the heart mantra.",
+   "uncertainties": [],
+   "plain_english": "Having bathed the linga and pedestal with the placed pots using the heart mantra, the teacher proceeds."
+  },
+  {
+   "verse": 2507,
+   "rows": [
+    {
+     "surface": "lambakūrcasamāyuktaṃ",
+     "gloss": "with-hanging-tuft",
+     "grounds": "equipped with a pendant tuft",
+     "morph": "n.acc.sg (compound: lamba+kūrca+samāyukta)"
+    },
+    {
+     "surface": "sarvālaṃkāraśobhitam",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "fully decorated",
+     "morph": "n.acc.sg (compound: sarva+alaṃkāra+śobhita)"
+    }
+   ],
+   "question": "What adornments must characterize the linga and pedestal after bathing?",
+   "premises": [
+    "The objects are fitted with a hanging tuft.",
+    "They are adorned with all ornaments.",
+    "These qualities describe the prepared state."
+   ],
+   "inference": "The linga and pedestal must be fully adorned with a hanging tuft and all ornaments.",
+   "uncertainties": [
+    "The syntactic object is carried over from the previous verse."
+   ],
+   "plain_english": "It should be equipped with a hanging tuft and beautified with all ornaments."
+  },
+  {
+   "verse": 2508,
+   "rows": [
+    {
+     "surface": "ācāryaṃ",
+     "gloss": "teacher",
+     "grounds": "recipient of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śilpinaṃ",
+     "gloss": "artisan",
+     "grounds": "recipient of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "(absolutive, √pūj)"
+    },
+    {
+     "surface": "vastra",
+     "gloss": "cloth",
+     "grounds": "gift item",
+     "morph": "n.nom.sg (compound-member)"
+    },
+    {
+     "surface": "hema",
+     "gloss": "gold",
+     "grounds": "gift item",
+     "morph": "n.nom.sg (compound-member)"
+    },
+    {
+     "surface": "aṃgulīyakaiḥ",
+     "gloss": "with-rings",
+     "grounds": "gift items offered",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Whom must be honored and with what gifts after the ritual preparation?",
+   "premises": [
+    "The teacher and artisan are to be worshipped.",
+    "Cloth, gold, and rings are offered.",
+    "These offerings follow the ritual acts."
+   ],
+   "inference": "The teacher and artisan must be honored with cloth, gold, and rings.",
+   "uncertainties": [
+    "The compound structure of vastra hema aṃgulīyakaiḥ is slightly ambiguous in segmentation."
+   ],
+   "plain_english": "Having worshipped the teacher and the artisan, one should honor them with cloth, gold, and rings."
+  },
+  {
+   "verse": 2509,
+   "rows": [
+    {
+     "surface": "lakṣaṇoddhāraṃ",
+     "gloss": "characteristic-extraction",
+     "grounds": "topic concluded",
+     "morph": "m.acc.sg (compound: lakṣaṇa+uddhāra)"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "statement of completion",
+     "morph": "n.nom.sg (past-participle, √khyā)"
+    },
+    {
+     "surface": "pratimālakṣaṇaṃ",
+     "gloss": "image-characteristic",
+     "grounds": "next topic introduced",
+     "morph": "n.acc.sg (compound: pratimā+lakṣaṇa)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative command",
+     "morph": "2.sg.act.imp-√śru"
+    }
+   ],
+   "question": "What new topic follows the completed teaching on characteristic extraction?",
+   "premises": [
+    "The extraction of characteristics has been declared.",
+    "A new subject is introduced.",
+    "The listener is asked to hear about image characteristics."
+   ],
+   "inference": "After concluding characteristic extraction, the teaching turns to the characteristics of images.",
+   "uncertainties": [],
+   "plain_english": "The extraction of characteristics has been declared; now hear the characteristics of images."
+  },
+  {
+   "verse": 2510,
+   "rows": [
+    {
+     "surface": "ityaṃ",
+     "gloss": "thus",
+     "grounds": "concluding formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śumān",
+     "gloss": "radiant",
+     "grounds": "epithet in title context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kāśyapa",
+     "grounds": "textual attribution or location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "lakṣaṇoddhāravidhipaṭalaḥ",
+     "gloss": "characteristic-extraction-rule-chapter",
+     "grounds": "name of the chapter",
+     "morph": "m.nom.sg (compound: lakṣaṇa+uddhāra+vidhi+paṭala)"
+    },
+    {
+     "surface": "catuḥpaṃcāśaḥ",
+     "gloss": "fifty-fourth",
+     "grounds": "ordinal number of chapter",
+     "morph": "m.nom.sg (compound: catur+paṃcāśa)"
+    }
+   ],
+   "question": "Which chapter of the Kāśyapa text concludes with the rule of characteristic extraction?",
+   "premises": [
+    "The passage ends with a colophon-like statement.",
+    "The chapter concerns the rule of characteristic extraction.",
+    "It is identified as the fifty-fourth chapter."
+   ],
+   "inference": "The fifty-fourth chapter on the rule of characteristic extraction in the Kāśyapa text is concluded.",
+   "uncertainties": [
+    "The form śumān is unusual and may reflect a textual variant or epithet."
+   ],
+   "plain_english": "Thus ends the fifty-fourth chapter, on the rule of characteristic extraction, in the radiant Kāśyapa."
+  },
+  {
+   "verse": 2511,
+   "rows": [
+    {
+     "surface": "acalaṃ",
+     "gloss": "immovable",
+     "grounds": "first category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "calaṃ",
+     "gloss": "movable",
+     "grounds": "second category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "calācalaṃ",
+     "gloss": "movable-immovable",
+     "grounds": "third category",
+     "morph": "n.nom.sg (compound: cala+acala)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or classification marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "number of divisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Into what three fundamental categories are images classified by mobility?",
+   "premises": [
+    "Images can be immovable.",
+    "Images can be movable.",
+    "Images can be both movable and immovable."
+   ],
+   "inference": "Images are classified threefold as immovable, movable, and movable-immovable.",
+   "uncertainties": [],
+   "plain_english": "Immovable, movable, and both movable and immovable—thus they are threefold."
+  },
+  {
+   "verse": 2512,
+   "rows": [
+    {
+     "surface": "śailajaṃ",
+     "gloss": "stone-born",
+     "grounds": "material origin",
+     "morph": "n.nom.sg (compound: śaila+ja)"
+    },
+    {
+     "surface": "dārujaṃ",
+     "gloss": "wood-born",
+     "grounds": "material origin",
+     "morph": "n.nom.sg (compound: dāru+ja)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhātujaṃ",
+     "gloss": "metal-born",
+     "grounds": "material origin",
+     "morph": "n.nom.sg (compound: dhātu+ja)"
+    },
+    {
+     "surface": "ratnajaṃ",
+     "gloss": "gem-born",
+     "grounds": "material origin",
+     "morph": "n.nom.sg (compound: ratna+ja)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation of list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What material origins are recognized for images in this classification?",
+   "premises": [
+    "Images may be born of stone.",
+    "Images may be born of wood, metal, or gems.",
+    "These form a material classification."
+   ],
+   "inference": "Images are classified by material as stone-born, wood-born, metal-born, and gem-born.",
+   "uncertainties": [],
+   "plain_english": "Stone-born, wood-born, metal-born, and likewise gem-born."
+  },
+  {
+   "verse": 2513,
+   "rows": [
+    {
+     "surface": "ardhacitraṃ",
+     "gloss": "half-image",
+     "grounds": "first representational type",
+     "morph": "n.nom.sg (compound: ardha+citra)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citraṃ",
+     "gloss": "full-image",
+     "grounds": "second representational type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citrābhāsaṃ",
+     "gloss": "image-like",
+     "grounds": "third representational type",
+     "morph": "n.nom.sg (compound: citra+ābhāsa)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "classification marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "number of divisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Into what three representational types are images divided by form?",
+   "premises": [
+    "One type is half-image.",
+    "Another is full-image.",
+    "Another is image-like appearance."
+   ],
+   "inference": "Images are threefold by representational form: half-image, full-image, and image-like.",
+   "uncertainties": [],
+   "plain_english": "Half-image, full-image, and image-like—thus they are threefold."
+  },
+  {
+   "verse": 2514,
+   "rows": [
+    {
+     "surface": "sarvāvayava",
+     "gloss": "all-limbs",
+     "grounds": "complete bodily parts",
+     "morph": "m.nom.sg (compound-member: sarva+avayava)"
+    },
+    {
+     "surface": "dṛṣṭaṃ",
+     "gloss": "seen",
+     "grounds": "visible or manifest",
+     "morph": "n.nom.sg (past-participle, √dṛś)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "correlative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "citraṃ",
+     "gloss": "full-image",
+     "grounds": "defined category",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "authoritative definition",
+     "morph": "3.sg.pass.pres.ind-√vidhā"
+    }
+   ],
+   "question": "What condition defines an image as a full-image in this system?",
+   "premises": [
+    "An image may show all limbs.",
+    "Such visibility is the defining criterion.",
+    "This is authoritatively prescribed as full-image."
+   ],
+   "inference": "An image in which all limbs are seen is prescribed as a full-image.",
+   "uncertainties": [],
+   "plain_english": "That in which all limbs are seen is indeed prescribed as a full-image."
+  },
+  {
+   "verse": 2515,
+   "rows": [
+    {
+     "surface": "ardhacitraṃ",
+     "gloss": "half-image",
+     "grounds": "category being defined",
+     "morph": "n.nom.sg (compound: ardha+citra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhayā",
+     "gloss": "with-plaster",
+     "grounds": "material used",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "with-others",
+     "grounds": "other materials",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "citravadardhakam",
+     "gloss": "half-like-full-image",
+     "grounds": "partly rendered like full image",
+     "morph": "n.nom.sg (compound: citravat+ardhaka)"
+    }
+   ],
+   "question": "How is a half-image constituted in relation to materials and form?",
+   "premises": [
+    "A half-image involves plaster and other materials.",
+    "It resembles a full-image only in part.",
+    "This distinguishes it from a full-image."
+   ],
+   "inference": "A half-image is made with plaster and other materials and is only partly like a full-image.",
+   "uncertainties": [
+    "The exact technical contrast between sudhayā and anyaiḥ is not fully specified."
+   ],
+   "plain_english": "A half-image, however, is made with plaster and other materials, being half like a full-image."
+  },
+  {
+   "verse": 2516,
+   "rows": [
+    {
+     "surface": "citraṃ",
+     "gloss": "full-image",
+     "grounds": "first ranked type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "citrārdhaṃ",
+     "gloss": "half-image",
+     "grounds": "second ranked type",
+     "morph": "n.nom.sg (compound: citra+ardha)"
+    },
+    {
+     "surface": "ābhāsaṃ",
+     "gloss": "image-like",
+     "grounds": "third ranked type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "result",
+     "grounds": "outcome or merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhāntarādhamam",
+     "gloss": "best-middle-lowest",
+     "grounds": "threefold ranking",
+     "morph": "n.nom.sg (compound: śreṣṭha+antara+adhama)"
+    }
+   ],
+   "question": "How are the three representational image types ranked by their resulting merit?",
+   "premises": [
+    "Full-image, half-image, and image-like are compared.",
+    "Their results are ranked.",
+    "The ranking is best, middle, and lowest."
+   ],
+   "inference": "Full-image yields the best result, half-image the middle, and image-like the lowest.",
+   "uncertainties": [],
+   "plain_english": "Full-image, half-image, and image-like yield results ranked as best, middle, and lowest."
+  },
+  {
+   "verse": 2517,
+   "rows": [
+    {
+     "surface": "ābhāsādardha",
+     "gloss": "than-image-like-half",
+     "grounds": "comparative starting point",
+     "morph": "n.abl.sg (compound-member: ābhāsa+ardha)"
+    },
+    {
+     "surface": "citraṃ",
+     "gloss": "image",
+     "grounds": "object compared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "than-that",
+     "grounds": "comparative reference",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛṇmayaṃ",
+     "gloss": "clay-made",
+     "grounds": "material alternative",
+     "morph": "n.nom.sg (compound: mṛd+maya)"
+    },
+    {
+     "surface": "varam",
+     "gloss": "better",
+     "grounds": "comparative evaluation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which material form is preferred over an image-like or half-image representation?",
+   "premises": [
+    "Image-like and half-image forms are lower in rank.",
+    "A clay-made form is compared to them.",
+    "The clay-made form is declared better."
+   ],
+   "inference": "A clay-made image is better than an image-like or half-image form.",
+   "uncertainties": [
+    "The compound ābhāsādardha is compressed and its exact scope is interpretive."
+   ],
+   "plain_english": "Better than an image-like or half-image is indeed a clay-made one."
+  },
+  {
+   "verse": 2518,
+   "rows": [
+    {
+     "surface": "śailajāt",
+     "gloss": "than-stone-born",
+     "grounds": "comparative baseline",
+     "morph": "n.abl.sg (compound: śaila+ja)"
+    },
+    {
+     "surface": "lohajaṃ",
+     "gloss": "metal-born",
+     "grounds": "compared material",
+     "morph": "n.nom.sg (compound: loha+ja)"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "evaluative ranking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartṝṇāṃ",
+     "gloss": "for-makers",
+     "grounds": "beneficiaries of merit",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "result",
+     "grounds": "merit or outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extension of principle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does a metal-born image compare to a stone-born one in merit for makers?",
+   "premises": [
+    "Stone-born and metal-born images are compared.",
+    "The metal-born is ranked best.",
+    "The result applies to the makers."
+   ],
+   "inference": "A metal-born image is superior to a stone-born one and yields corresponding merit for its makers.",
+   "uncertainties": [],
+   "plain_english": "A metal-born image is better than a stone-born one, and likewise in the result for its makers."
+  },
+  {
+   "verse": 2519,
+   "rows": [
+    {
+     "surface": "tāmrajaṃ",
+     "gloss": "copper-born",
+     "grounds": "material type",
+     "morph": "n.nom.sg (compound: tāmra+ja)"
+    },
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "smallest",
+     "grounds": "lowest rank",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared status",
+     "morph": "n.nom.sg (past-participle, √khyā)"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-those",
+     "grounds": "within that group",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-those",
+     "grounds": "repeated for emphasis or distribution",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "result",
+     "grounds": "merit or outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extension of principle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rank and resulting merit are assigned to copper-born images among materials?",
+   "premises": [
+    "Copper-born images are identified.",
+    "They are known as the smallest or lowest.",
+    "Their result follows that ranking among the group."
+   ],
+   "inference": "Copper-born images are ranked lowest among those materials and yield corresponding results.",
+   "uncertainties": [
+    "The repetition of teṣu teṣu may indicate distributive emphasis."
+   ],
+   "plain_english": "The copper-born is known as the lowest, and likewise is its result among those."
+  },
+  {
+   "verse": 2520,
+   "rows": [
+    {
+     "surface": "sarvadravyeṣu",
+     "gloss": "in-all-substances",
+     "grounds": "universal scope",
+     "morph": "n.loc.pl (compound: sarva+dravya)"
+    },
+    {
+     "surface": "daivatyaṃ",
+     "gloss": "divinity",
+     "grounds": "divine presence or status",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samameva",
+     "gloss": "equal-indeed",
+     "grounds": "assertion of equality",
+     "morph": "(indecl., compound: sama+eva)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-known",
+     "grounds": "established fact",
+     "morph": "3.sg.pass.pres.ind-√vid"
+    }
+   ],
+   "question": "Does the divine status of an image vary according to the substance used?",
+   "premises": [
+    "Images may be made from various substances.",
+    "Material rankings affect merit or quality.",
+    "Divinity is stated to be equal in all substances."
+   ],
+   "inference": "Despite material differences, the divinity present in all substances is equal.",
+   "uncertainties": [],
+   "plain_english": "In all substances, the divinity is indeed equal; thus it is known."
+  },
+  {
+   "verse": 2521,
+   "rows": [
+    {
+     "surface": "ūṣare",
+     "gloss": "in-saline-ground",
+     "grounds": "type of land",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sundhabhūmau",
+     "gloss": "in-fertile-ground",
+     "grounds": "type of land",
+     "morph": "f.loc.sg (compound: sundha+bhūmi)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārdave",
+     "gloss": "in-soft-ground",
+     "grounds": "type of land",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahītale",
+     "gloss": "on-earth-surface",
+     "grounds": "general location",
+     "morph": "n.loc.sg (compound: mahī+tala)"
+    }
+   ],
+   "question": "In what kinds of ground conditions may ritual or installation considerations apply?",
+   "premises": [
+    "Different ground types are listed.",
+    "These include saline, fertile, and soft ground.",
+    "All are on the earth's surface."
+   ],
+   "inference": "The teaching considers saline, fertile, and soft grounds on the earth as relevant contexts.",
+   "uncertainties": [
+    "The exact ritual implication is completed in the following verse."
+   ],
+   "plain_english": "On saline ground, on fertile ground, and on soft ground upon the earth."
+  },
+  {
+   "verse": 2522,
+   "rows": [
+    {
+     "surface": "phalasthalānusāreṇa",
+     "gloss": "by-fruit-place-accordance",
+     "grounds": "according to suitability of place and result",
+     "morph": "m.inst.sg (compound: phala+sthala+anusāra)"
+    },
+    {
+     "surface": "yathālābhaṃ",
+     "gloss": "as-available",
+     "grounds": "according to what is obtained",
+     "morph": "(indecl., compound: yathā+lābha)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "correlative manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-use",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.act.opt-√bhaj"
+    }
+   ],
+   "question": "By what principle should one select or use what is available in different places?",
+   "premises": [
+    "Places and results vary.",
+    "Availability differs by circumstance.",
+    "One should act according to suitability and availability."
+   ],
+   "inference": "One should use what is available in accordance with the suitability of place and result.",
+   "uncertainties": [],
+   "plain_english": "One should act according to the suitability of place and result, using what is available."
+  },
+  {
+   "verse": 2523,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation of principle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyaphalaṃ",
+     "gloss": "substance-result",
+     "grounds": "outcome related to material",
+     "morph": "n.nom.sg (compound: dravya+phala)"
+    },
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "equivalence in result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dravyabhede",
+     "gloss": "in-substance-difference",
+     "grounds": "despite material variation",
+     "morph": "m.loc.sg (compound: dravya+bheda)"
+    },
+    {
+     "surface": "phalapradam",
+     "gloss": "result-giving",
+     "grounds": "capable of yielding fruit",
+     "morph": "n.nom.sg (compound: phala+prada)"
+    }
+   ],
+   "question": "Does difference in material alter the capacity to yield the intended result?",
+   "premises": [
+    "Substances may differ.",
+    "The result of substances is considered.",
+    "The result is declared equal and fruit-giving despite difference."
+   ],
+   "inference": "Even when substances differ, their capacity to yield the intended result is equal.",
+   "uncertainties": [],
+   "plain_english": "Likewise, despite differences in substance, the result is equal and fruit-giving."
+  },
+  {
+   "verse": 2524,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "human agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtavān",
+     "gloss": "has-done",
+     "grounds": "completed action",
+     "morph": "m.nom.sg (perfect-participle, √kṛ)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-earth",
+     "grounds": "place of action",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "putramitrakalatra",
+     "gloss": "son-friend-wife",
+     "grounds": "family and companions",
+     "morph": "n.nom.sg (compound-member: putra+mitra+kalatra)"
+    },
+    {
+     "surface": "yuk",
+     "gloss": "endowed-with",
+     "grounds": "possessing or accompanied by",
+     "morph": "m.nom.sg (compound-member)"
+    }
+   ],
+   "question": "What human condition is associated with one who has performed this act on earth?",
+   "premises": [
+    "A person performs the prescribed act on earth.",
+    "The act is completed.",
+    "The person is described as endowed with son, friend, and wife."
+   ],
+   "inference": "The person who has performed this act on earth is endowed with son, friend, and wife.",
+   "uncertainties": [
+    "The sentence appears incomplete and may continue in the next verse."
+   ],
+   "plain_english": "The person who has done this on earth is endowed with son, friend, and wife."
+  }
+ ]
+}

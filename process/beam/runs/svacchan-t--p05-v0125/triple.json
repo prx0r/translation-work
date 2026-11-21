@@ -1,0 +1,63 @@
+{
+ "song": "sva-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "uttaratra",
+     "gloss": "later",
+     "grounds": "adverb of place/time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īdṛśa",
+     "gloss": "such",
+     "grounds": "demonstrative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramasya",
+     "gloss": "of-sequence",
+     "grounds": "genitive of krama",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhāvāt",
+     "gloss": "from-nature",
+     "grounds": "ablative of bhāva",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "thus",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krama",
+     "gloss": "order",
+     "grounds": "nominative of krama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why does the later sequence follow such an order?",
+   "premises": [
+    "later sequence has such nature",
+    "nature determines order",
+    "thus order follows"
+   ],
+   "inference": "the later order is determined by the nature of the sequence",
+   "uncertainties": [
+    "contextual referent of krama is not explicit"
+   ],
+   "plain_english": "Later, because of the nature of such a sequence, thus the order."
+  }
+ ]
+}

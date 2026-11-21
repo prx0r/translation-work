@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral indicating quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "entities identified as six parts",
+     "morph": "n.nom.pl (aṅga)"
+    },
+    {
+     "surface": "patreṣu",
+     "gloss": "on-petals",
+     "grounds": "location of placement",
+     "morph": "n.loc.pl (patra)"
+    },
+    {
+     "surface": "āvṛtti",
+     "gloss": "surrounding",
+     "grounds": "qualifies the deities as forming an enclosure",
+     "morph": "f.nom.pl (āvṛtti)"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "entities occupying the surrounding position",
+     "morph": "f.nom.pl (devatā)"
+    }
+   ],
+   "question": "Which six limb-deities constitute the surrounding enclosure upon the petals?",
+   "premises": [
+    "The petals serve as the locus of placement.",
+    "Six limbs are identified as distinct entities.",
+    "These entities function as surrounding deities."
+   ],
+   "inference": "The six limbs are established as the surrounding deities located on the petals.",
+   "uncertainties": [
+    "The precise referents of the six limbs depend on the wider ritual context."
+   ],
+   "plain_english": "The six limbs are the surrounding deities on the petals."
+  }
+ ]
+}

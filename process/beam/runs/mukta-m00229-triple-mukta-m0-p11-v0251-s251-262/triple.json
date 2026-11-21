@@ -1,0 +1,471 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "mantramātraprakathanam",
+     "gloss": "mantra-only-declaration",
+     "grounds": "compound: mantra-mātra-prakathana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upadeśaḥ",
+     "gloss": "instruction",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb root vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is called instruction (upadeśa) in this mantra rite?",
+   "premises": [
+    "instruction is declaration of mantra only",
+    "the verse defines upadeśa",
+    "mantra-only declaration is named instruction"
+   ],
+   "inference": "Instruction here means declaring the mantra alone.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "That is called instruction which is the declaration of the mantra alone."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "śaṅkhatoyam",
+     "gloss": "conch-water",
+     "grounds": "compound: śaṅkha-toya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "upādāya",
+     "gloss": "taking",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapuṣpakuśacandanaiḥ",
+     "gloss": "with-flowers-kush-sandal",
+     "grounds": "compound with instrumental plural",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What materials are taken with conch water for the rite?",
+   "premises": [
+    "conch water is taken",
+    "flowers kush and sandal accompany it",
+    "the verse lists ritual materials"
+   ],
+   "inference": "The rite uses conch water together with flowers, kush, and sandal.",
+   "uncertainties": [
+    "exact ritual sequence not stated"
+   ],
+   "plain_english": "Taking conch water along with flowers, kush, and sandal."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "saṃvadati",
+     "gloss": "speaks",
+     "grounds": "verb root vad",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "enaṃ",
+     "gloss": "to-him",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrīgārgya",
+     "gloss": "O-Gargya",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "saṃhitā",
+     "gloss": "samhita",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "To whom and what does the samhita speak in this instruction?",
+   "premises": [
+    "the samhita speaks",
+    "it speaks to him",
+    "it speaks the mantra",
+    "Gargya is addressed"
+   ],
+   "inference": "The samhita speaks the mantra to the disciple, addressing Gargya.",
+   "uncertainties": [
+    "enaṃ antecedent not explicit"
+   ],
+   "plain_english": "The samhita speaks the mantra to him, O Gargya."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "dakṣiṇe+karṇe",
+     "gloss": "in-right-ear",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kathayet",
+     "gloss": "should-tell",
+     "grounds": "verb root kath",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "trir",
+     "gloss": "thrice",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurūttamaḥ",
+     "gloss": "best-guru",
+     "grounds": "compound: guru-uttama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How and where should the best guru tell the mantra?",
+   "premises": [
+    "best guru tells",
+    "he tells thrice",
+    "he tells in right ear",
+    "the verse prescribes repetition and place"
+   ],
+   "inference": "The best guru should tell the mantra thrice in the right ear.",
+   "uncertainties": [
+    "whether aloud or whispered not stated"
+   ],
+   "plain_english": "The best guru should tell it thrice in the right ear."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "samutthāya",
+     "gloss": "rising",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍavat",
+     "gloss": "prostrate",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇamed",
+     "gloss": "should-bow",
+     "grounds": "verb root nam",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "to-guru",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What bodily homage should the disciple offer the guru?",
+   "premises": [
+    "rising is required",
+    "prostration is required",
+    "bowing to guru is required",
+    "the verse prescribes homage"
+   ],
+   "inference": "The disciple should rise, prostrate, and bow to the guru.",
+   "uncertainties": [
+    "exact posture details not stated"
+   ],
+   "plain_english": "Rising, he should prostrate and bow to the guru."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "verb root kṛ",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "gurupriyam",
+     "gloss": "guru-pleasing",
+     "grounds": "compound: guru-priya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ananyadhīḥ",
+     "gloss": "with-unwavering-mind",
+     "grounds": "compound: an-anya-dhī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the disciple do with unwavering mind?",
+   "premises": [
+    "disciple should do",
+    "what is done is guru-pleasing",
+    "mind must be unwavering",
+    "the verse prescribes guru-pleasing action"
+   ],
+   "inference": "With unwavering mind, the disciple should do what pleases the guru.",
+   "uncertainties": [
+    "specific actions not listed"
+   ],
+   "plain_english": "With unwavering mind, he should do what is pleasing to the guru."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "brahmacaryādiniyamān",
+     "gloss": "vows-beginning-brahmacharya",
+     "grounds": "compound: brahmacarya-ādi-niyama",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dīkṣākarmavad",
+     "gloss": "initiation-rite-like",
+     "grounds": "compound: dīkṣā-karma-vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "verb root car",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should vows beginning with brahmacharya be performed?",
+   "premises": [
+    "vows beginning with brahmacharya are required",
+    "they are performed like initiation rite",
+    "the verse prescribes their performance",
+    "initiation-rite likeness governs them"
+   ],
+   "inference": "Vows beginning with brahmacharya should be performed like an initiation rite.",
+   "uncertainties": [
+    "full list of vows not given"
+   ],
+   "plain_english": "He should perform vows beginning with brahmacharya as in an initiation rite."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "droṇamite",
+     "gloss": "in-drona-measure",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-chant",
+     "grounds": "verb root jap",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sahasrakam",
+     "gloss": "thousand",
+     "grounds": "numeral adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How many mantras should be chanted in a drona measure?",
+   "premises": [
+    "chanting is prescribed",
+    "mantra is chanted",
+    "quantity is thousand",
+    "measure is drona"
+   ],
+   "inference": "One should chant a thousand mantras in a drona measure.",
+   "uncertainties": [
+    "drona as volume measure not defined"
+   ],
+   "plain_english": "In a drona measure, he should chant the mantra a thousand times."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "vidhānena",
+     "gloss": "by-rite",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tvarimantrāt",
+     "gloss": "from-quick-mantra",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vimucyate",
+     "gloss": "is-freed",
+     "grounds": "verb root muc",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "From what is one freed by the rite?",
+   "premises": [
+    "rite is the means",
+    "freedom is the result",
+    "quick mantra is the source of bondage",
+    "the verse states release"
+   ],
+   "inference": "By the rite one is freed from the quick mantra.",
+   "uncertainties": [
+    "meaning of quick mantra not explained"
+   ],
+   "plain_english": "By the rite, one is freed from the quick mantra."
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "mantravimuktaḥ",
+     "gloss": "mantra-freed",
+     "grounds": "compound: mantra-vimukta",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb root as",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣṭaparamparā",
+     "gloss": "tradition-of-elders",
+     "grounds": "compound: śiṣṭa-paramparā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the tradition of elders say about being mantra-freed?",
+   "premises": [
+    "mantra-freed is the state",
+    "would-be is the modal",
+    "thus marks reported speech",
+    "tradition of elders is the authority"
+   ],
+   "inference": "The tradition of elders says that one would be mantra-freed.",
+   "uncertainties": [
+    "exact scope of mantra-freed not defined"
+   ],
+   "plain_english": "Thus, says the tradition of elders, one would be freed from the mantra."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-speak",
+     "grounds": "verb root vac",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristics",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruśiṣyayoḥ",
+     "gloss": "of-guru-and-disciple",
+     "grounds": "genitive dual compound",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What will be spoken about guru and disciple?",
+   "premises": [
+    "speaker will speak",
+    "topic is characteristics",
+    "guru and disciple are paired",
+    "the verse announces the topic"
+   ],
+   "inference": "The speaker will describe the characteristics of guru and disciple.",
+   "uncertainties": [
+    "whether both or their relation is primary"
+   ],
+   "plain_english": "I will speak the characteristics of guru and disciple."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "deśakālādividdeśe",
+     "gloss": "in-place-time-etc-known-place",
+     "grounds": "compound: deśa-kāla-ādi-vid-deśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "place",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśika",
+     "gloss": "teacher",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb root vac",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Where is a teacher (deśika) said to be called?",
+   "premises": [
+    "place time and so on are known",
+    "place is specified",
+    "teacher is named",
+    "the verse defines deśika"
+   ],
+   "inference": "A teacher is called so in a place where place, time, and so on are known.",
+   "uncertainties": [
+    "compound deśakālādividdeśe is obscure"
+   ],
+   "plain_english": "In a place where place, time, and the rest are known, a teacher is called deśika."
+  }
+ ]
+}

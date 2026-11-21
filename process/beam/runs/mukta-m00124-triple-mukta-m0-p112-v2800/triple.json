@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the previously described arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "at-back",
+     "grounds": "locative indicating rear position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadra+yuktam",
+     "gloss": "projection-joined",
+     "grounds": "compound describing inclusion of a bhadra; internal sandhi preserved in fused form",
+     "morph": "compound: bhadra+first-member, yukta+second-member; n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed condition",
+     "morph": "3.sg.act.optative (bhū)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing the stated case",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition must the rear arrangement include a projection?",
+   "premises": [
+    "The same arrangement may be placed at the back.",
+    "A rear arrangement can be joined with a projection.",
+    "The prescribed form depends on a stated condition."
+   ],
+   "inference": "If this same arrangement is at the back, it should be furnished with a projection.",
+   "uncertainties": [
+    "The precise architectural referent of bhadra in this context."
+   ],
+   "plain_english": "If this same arrangement is placed at the back, it should indeed be provided with a projection."
+  }
+ ]
+}

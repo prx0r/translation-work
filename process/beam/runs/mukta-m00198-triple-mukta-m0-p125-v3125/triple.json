@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhamevaṃ",
+     "gloss": "sixth-thus",
+     "grounds": "sandhi fusion of ṣaṣṭham and evam; internal sandhi noted, token not split",
+     "morph": "compound"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle describing what has been expounded",
+     "morph": "n.nom.sg.n ppp sam-ā-√khyā"
+    },
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "ordinal referring to the next item in sequence",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressed to the listener",
+     "morph": "2.sg.act.impv √śru"
+    },
+    {
+     "surface": "suvrata",
+     "gloss": "good-vowed",
+     "grounds": "vocative epithet addressing the listener",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What transition marks the completion of the sixth exposition and the beginning of the seventh?",
+   "premises": [
+    "The sixth topic has been declared in this manner.",
+    "A seventh topic is now presented as the next object of attention.",
+    "The listener is directly addressed and instructed to hear."
+   ],
+   "inference": "The exposition of the sixth topic is concluded, and the teaching proceeds to the seventh.",
+   "uncertainties": [
+    "The specific content of the sixth and seventh topics is not stated in this verse."
+   ],
+   "plain_english": "Thus the sixth has been declared; now hear the seventh, O you of good vows."
+  }
+ ]
+}

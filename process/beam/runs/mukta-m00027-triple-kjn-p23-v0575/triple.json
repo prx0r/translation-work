@@ -1,0 +1,51 @@
+{
+ "song": "kjn-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "specifies the spatial position for the act of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescribes the ritual action continued from the previous verses",
+     "morph": "3.sg.opt.act; √pūj"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "indicates the constant continuity of the prescribed worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuñjamānā",
+     "gloss": "while-eating",
+     "grounds": "describes the concurrent state of the addressed figure during worship",
+     "morph": "f.nom.sg.pres.mid.part; √bhuj"
+    },
+    {
+     "surface": "agra-nāyike",
+     "gloss": "O-foremost-leader",
+     "grounds": "vocative address to the principal female figure; compound agra+nāyikā",
+     "morph": "f.voc.sg; compound agra+nāyikā"
+    }
+   ],
+   "question": "Is constant frontal worship required of the foremost leader during her eating?",
+   "premises": [
+    "The practitioner should perform worship in front.",
+    "This worship is prescribed as a constant practice.",
+    "The worship occurs while the foremost leader is eating."
+   ],
+   "inference": "Constant frontal worship is enjoined during the foremost leader's act of eating.",
+   "uncertainties": [
+    "The precise identity or role of agra-nāyikā in this ritual context is not fully specified."
+   ],
+   "plain_english": "O foremost leader, one should always worship in front while you are eating."
+  }
+ ]
+}

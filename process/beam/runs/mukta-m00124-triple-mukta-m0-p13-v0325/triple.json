@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "puṭadvayapravāhe",
+     "gloss": "two-fold-flow",
+     "grounds": "compound puṭa+dvaya+pravāha; locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabodhaḥ",
+     "gloss": "awakening",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saumyaraudrayoḥ",
+     "gloss": "gentle-fierce",
+     "grounds": "compound saumya+raudra; genitive dual",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What kind of awakening occurs in the two-fold flow of gentle and fierce?",
+   "premises": [
+    "two-fold flow contains awakening",
+    "awakening belongs to gentle and fierce",
+    "the verse contrasts the two qualities"
+   ],
+   "inference": "awakening is situated in the two-fold flow of gentle and fierce",
+   "uncertainties": [
+    "exact referent of puṭa remains unclear"
+   ],
+   "plain_english": "But in the two-fold flow, awakening is of the gentle and the fierce."
+  }
+ ]
+}

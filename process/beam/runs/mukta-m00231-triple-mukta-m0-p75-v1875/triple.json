@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1875,
+   "rows": [
+    {
+     "surface": "jīrṇe",
+     "gloss": "worn-thread",
+     "grounds": "worn thread context",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "sūtre",
+     "gloss": "thread",
+     "grounds": "locative thread",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "accusative thread",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "prathayitvā",
+     "gloss": "having-stretched",
+     "grounds": "gerund of stretching",
+     "morph": "gerund.root-prath"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative recitation",
+     "morph": "3.sg.opt.act.root-jap"
+    }
+   ],
+   "question": "When a mala's thread is worn, what penance and recitation are prescribed after restringing it?",
+   "premises": [
+    "worn thread requires restringing",
+    "restrung mala needs purification",
+    "recite mantra one hundred times"
+   ],
+   "inference": "restring the worn thread then recite one hundred mantras as penance",
+   "uncertainties": [
+    "exact penance beyond recitation unclear",
+    "thread material unspecified"
+   ],
+   "plain_english": "If the thread is worn, restring it and recite the mantra one hundred times."
+  }
+ ]
+}

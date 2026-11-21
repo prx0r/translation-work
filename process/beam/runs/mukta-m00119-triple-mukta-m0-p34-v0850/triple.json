@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "token supplied as placeholder; no lexical resolution available",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "token supplied as placeholder; no lexical resolution available",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "token supplied as placeholder; no lexical resolution available",
+     "morph": "unknown"
+    },
+    {
+     "surface": "*",
+     "gloss": "unknown",
+     "grounds": "token supplied as placeholder; no lexical resolution available",
+     "morph": "unknown"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the divine feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kālavañcanam",
+     "gloss": "time-deception",
+     "grounds": "compound naming deception concerning time",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past participle indicating speech or declaration",
+     "morph": "v.3.sg.pass-past.part"
+    }
+   ],
+   "question": "What is declared to the goddess as time-deception?",
+   "premises": [
+    "kālavañcanam names time-deception",
+    "īritam marks a declaration",
+    "deveśi is the addressed goddess"
+   ],
+   "inference": "The verse declares time-deception to the goddess.",
+   "uncertainties": [
+    "four leading tokens are unresolved placeholders",
+    "full syntactic context is incomplete"
+   ],
+   "plain_english": "To the goddess, time-deception is declared."
+  }
+ ]
+}

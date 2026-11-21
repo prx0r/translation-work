@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "should-touch",
+     "grounds": "prohibitive or prescriptive optative",
+     "morph": "3.sg.optative.active spṛś"
+    },
+    {
+     "surface": "saptarātrañ",
+     "gloss": "seven-nights",
+     "grounds": "duration compound; final ñ shows sandhi before following ca",
+     "morph": "acc.sg.n (time-duration)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śākaṃ",
+     "gloss": "vegetables",
+     "grounds": "object of prohibition",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vāmahṛdi",
+     "gloss": "o-left-hearted",
+     "grounds": "vocative address; compound vāma-hṛd",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kāmeśvari",
+     "gloss": "o-kāmeśvarī",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What abstention from vegetables is required for seven nights after the ritual act?",
+   "premises": [
+    "The practitioner must not touch vegetables.",
+    "This abstention lasts for seven nights.",
+    "The instruction is addressed to Kāmeśvarī, the beloved left-hearted one."
+   ],
+   "inference": "After the specified ritual act, one must avoid vegetables for seven nights.",
+   "uncertainties": [
+    "The exact referent of the prior ritual act depends on the preceding verse."
+   ],
+   "plain_english": "O beloved Kāmeśvarī, dwelling in the left heart, one should not touch vegetables for seven nights."
+  }
+ ]
+}

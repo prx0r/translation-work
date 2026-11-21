@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "devam",
+     "gloss": "deity",
+     "grounds": "direct object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-fragrance-flower-and-others",
+     "grounds": "instrumental plural compound indicating offerings",
+     "morph": "compound=gandha-puṣpa-ādi+instr.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "With what offerings should one perform worship of the deity?",
+   "premises": [
+    "The deity is the object of worship.",
+    "Fragrances, flowers, and similar items serve as offerings.",
+    "The prescribed action is to worship."
+   ],
+   "inference": "One should worship the deity using fragrances, flowers, and other such offerings.",
+   "uncertainties": [],
+   "plain_english": "One should worship the deity with fragrances, flowers, and the like."
+  }
+ ]
+}

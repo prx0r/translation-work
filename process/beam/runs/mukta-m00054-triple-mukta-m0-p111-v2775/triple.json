@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2775,
+   "rows": [
+    {
+     "surface": "dakṣa",
+     "gloss": "dakṣa",
+     "grounds": "name of Dakṣa; first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "janmā",
+     "gloss": "birth",
+     "grounds": "one whose birth is from Dakṣa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣa",
+     "gloss": "dakṣa",
+     "grounds": "name of Dakṣa; first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "janur",
+     "gloss": "birth",
+     "grounds": "one whose birth/origin is Dakṣa",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ddakṣa",
+     "gloss": "dakṣa",
+     "grounds": "name of Dakṣa with initial doubling; first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "body; member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samudbhavā",
+     "gloss": "arisen-from",
+     "grounds": "one who has arisen from Dakṣa's body",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Through which forms of birth and embodiment is the goddess claimed to originate from Dakṣa?",
+   "premises": [
+    "The goddess is described as having birth from Dakṣa.",
+    "The goddess is described as having origin from Dakṣa.",
+    "The goddess is described as arising from Dakṣa's body."
+   ],
+   "inference": "The goddess's origin is repeatedly and directly identified with Dakṣa through birth and bodily emergence.",
+   "uncertainties": [
+    "The precise distinction between janmā and janur in this context is not fully certain."
+   ],
+   "plain_english": "She is born of Dakṣa, her origin is Dakṣa, and she has arisen from Dakṣa's body."
+  }
+ ]
+}

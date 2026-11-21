@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p334",
+ "items": [
+  {
+   "verse": 8350,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence after prior ritual steps",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "describes the state attained by the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "expresses the resulting condition of accomplishment",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject that becomes accomplished",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "applications",
+     "grounds": "ritual uses or practical operations to be undertaken",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes undertaking the applications after accomplishment",
+     "morph": "3.sg.act-optative √car+ā"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable marking the subsequent stage of action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "After mantra accomplishment, what ritual applications should be undertaken?",
+   "premises": [
+    "The mantra becomes accomplished after the preceding procedures.",
+    "Mantra accomplishment establishes readiness for further use.",
+    "Ritual applications are actions performed with an accomplished mantra."
+   ],
+   "inference": "Once the mantra is accomplished, the practitioner should proceed to perform its applications.",
+   "uncertainties": [
+    "The specific applications intended by prayogān are not specified in this verse."
+   ],
+   "plain_english": "Then the mantra becomes accomplished, and then one should perform its applications."
+  }
+ ]
+}

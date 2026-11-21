@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "brahmāṇī",
+     "gloss": "brahmani",
+     "grounds": "name of the goddess identified as Brahma's shakti; subject of the creative act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "denotes the act of carrying out creation",
+     "morph": "3.sg.mid-pres; √kṛ"
+    },
+    {
+     "surface": "sṛṣṭiṃ",
+     "gloss": "creation",
+     "grounds": "object of the act performed by Brahmāṇī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates agency attributed to Brahmā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast between Brahmāṇī's agency and Brahmā's non-agency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "the male deity contrasted with Brahmāṇī as non-agent of creation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "extends the negation to all times",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who holds the actual agency of creation, Brahmāṇī or Brahmā?",
+   "premises": [
+    "Brahmāṇī performs the act of creation.",
+    "Brahmā does not perform creation.",
+    "Brahmā's lack of creative agency applies at all times."
+   ],
+   "inference": "Creative agency belongs exclusively to Brahmāṇī and never to Brahmā.",
+   "uncertainties": [],
+   "plain_english": "Brahmāṇī performs creation, but Brahmā never does."
+  }
+ ]
+}

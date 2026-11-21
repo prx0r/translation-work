@@ -1,0 +1,593 @@
+{
+ "song": "kul-p51",
+ "items": [
+  {
+   "verse": 1251,
+   "rows": [
+    {
+     "surface": "bodhayanti",
+     "gloss": "enlighten",
+     "grounds": "causative present active third plural",
+     "morph": "3.pl.act-pres-root-bodh (caus.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛcchanti",
+     "gloss": "ask",
+     "grounds": "present active third plural",
+     "morph": "3.pl.act-pres-root-pṛch"
+    },
+    {
+     "surface": "nandanti",
+     "gloss": "rejoice",
+     "grounds": "present active third plural",
+     "morph": "3.pl.act-pres-root-nand"
+    },
+    {
+     "surface": "jñāninaḥ",
+     "gloss": "knowers",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How do knowers respond to the dear one?",
+   "premises": [
+    "knowers enlighten and ask",
+    "knowers rejoice dear one"
+   ],
+   "inference": "knowers respond with teaching inquiry and joy",
+   "uncertainties": [],
+   "plain_english": "Knowers enlighten, ask, and rejoice, dear one."
+  },
+  {
+   "verse": 1252,
+   "rows": [
+    {
+     "surface": "rudanti",
+     "gloss": "weep",
+     "grounds": "present active third plural",
+     "morph": "3.pl.act-pres-root-rud"
+    },
+    {
+     "surface": "striyam",
+     "gloss": "women",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "icchanti",
+     "gloss": "desire",
+     "grounds": "present active third plural",
+     "morph": "3.pl.act-pres-root-iṣ"
+    },
+    {
+     "surface": "nindanti",
+     "gloss": "blame",
+     "grounds": "present active third plural",
+     "morph": "3.pl.act-pres-root-nind"
+    },
+    {
+     "surface": "ajñāninaḥ",
+     "gloss": "unknowing",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How do the unknowing respond to women?",
+   "premises": [
+    "unknowing weep for women",
+    "unknowing desire and blame"
+   ],
+   "inference": "unknowing respond with weeping desire and blame",
+   "uncertainties": [],
+   "plain_english": "The unknowing weep for women, desire them, and blame them, dear one."
+  },
+  {
+   "verse": 1253,
+   "rows": [
+    {
+     "surface": "audāsīnyaṃ",
+     "gloss": "indifference",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "krodhaṃ",
+     "gloss": "anger",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cakramadhye",
+     "gloss": "in-wheel-middle",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "avoid",
+     "grounds": "optative third singular causative",
+     "morph": "3.sg.act-opt-root-vṛj (caus.)"
+    }
+   ],
+   "question": "What should be avoided in the wheel's middle?",
+   "premises": [
+    "avoid indifference fear anger",
+    "avoid them in wheel middle"
+   ],
+   "inference": "indifference fear and anger are to be avoided in the wheel's middle",
+   "uncertainties": [],
+   "plain_english": "One should avoid indifference, fear, and anger in the middle of the wheel."
+  },
+  {
+   "verse": 1254,
+   "rows": [
+    {
+     "surface": "pūrṇapātraṃ",
+     "gloss": "full-vessel",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund",
+     "morph": "ger."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhet",
+     "gloss": "stand",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt-root-sthā"
+    },
+    {
+     "surface": "ciraṃ",
+     "gloss": "long",
+     "grounds": "adverbial accusative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How long should one stand holding the full vessel?",
+   "premises": [
+    "make full vessel in hand",
+    "do not stand long"
+   ],
+   "inference": "one should not stand long with the full vessel in hand",
+   "uncertainties": [],
+   "plain_english": "Having made a full vessel in the hand, one should not stand long, dear one."
+  },
+  {
+   "verse": 1255,
+   "rows": [
+    {
+     "surface": "pādābhyāṃ",
+     "gloss": "by-feet",
+     "grounds": "instrumental dual masculine",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "touch",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt-root-spṛś"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "binduṃ",
+     "gloss": "drop",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pātayedadhaḥ",
+     "gloss": "let-fall-downward",
+     "grounds": "causative optative third singular fused form",
+     "morph": "3.sg.act-opt-root-pat (caus.)"
+    }
+   ],
+   "question": "What must not be done to the vessel and drop?",
+   "premises": [
+    "do not touch vessel with feet",
+    "do not let drop fall downward"
+   ],
+   "inference": "the vessel must not be touched by feet nor the drop let fall downward",
+   "uncertainties": [],
+   "plain_english": "One must not touch the vessel with the feet, nor let a drop fall downward."
+  },
+  {
+   "verse": 1256,
+   "rows": [
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cālayeta",
+     "gloss": "move",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act-opt-root-cal (caus.)"
+    },
+    {
+     "surface": "sthānān",
+     "gloss": "from-place",
+     "grounds": "accusative plural neuter",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt-root-kṛ"
+    },
+    {
+     "surface": "pātrasaṅkaram",
+     "gloss": "vessel-mixing",
+     "grounds": "accusative singular masculine or neuter compound",
+     "morph": "m/n.acc.sg (compound)"
+    }
+   ],
+   "question": "What must not be done to the vessel's place?",
+   "premises": [
+    "do not move vessel from place",
+    "do not do vessel mixing"
+   ],
+   "inference": "the vessel must not be moved from its place nor mixed with another",
+   "uncertainties": [],
+   "plain_english": "One must not move the vessel from its place, nor do vessel mixing."
+  },
+  {
+   "verse": 1257,
+   "rows": [
+    {
+     "surface": "nānyonyaṃ",
+     "gloss": "not-one-another",
+     "grounds": "fused negative with accusative singular masculine",
+     "morph": "m.acc.sg (with na)"
+    },
+    {
+     "surface": "tāḍayetpātraṃ",
+     "gloss": "strike-vessel",
+     "grounds": "fused causative optative third singular with accusative",
+     "morph": "3.sg.act-opt-root-taḍ (caus.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātayedadhaḥ",
+     "gloss": "let-fall-downward",
+     "grounds": "causative optative third singular fused form",
+     "morph": "3.sg.act-opt-root-pat (caus.)"
+    }
+   ],
+   "question": "What must not be done to vessels together?",
+   "premises": [
+    "do not strike vessels together",
+    "do not let fall downward"
+   ],
+   "inference": "vessels must not be struck against one another nor let fall downward",
+   "uncertainties": [],
+   "plain_english": "One must not strike vessels against one another, nor let them fall downward."
+  },
+  {
+   "verse": 1258,
+   "rows": [
+    {
+     "surface": "riktapātraṃ",
+     "gloss": "empty-vessel",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "make",
+     "grounds": "optative third singular middle",
+     "morph": "3.sg.mid-opt-root-kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhrāmayet",
+     "gloss": "whirl",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act-opt-root-bhrām (caus.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What must not be done to an empty vessel?",
+   "premises": [
+    "do not make vessel empty",
+    "do not whirl vessel"
+   ],
+   "inference": "one must not make an empty vessel nor whirl the vessel",
+   "uncertainties": [],
+   "plain_english": "One must not make an empty vessel, nor whirl the vessel, dear one."
+  },
+  {
+   "verse": 1259,
+   "rows": [
+    {
+     "surface": "prakṣālya",
+     "gloss": "having-washed",
+     "grounds": "gerund",
+     "morph": "ger."
+    },
+    {
+     "surface": "gopayet",
+     "gloss": "hide",
+     "grounds": "causative optative third singular",
+     "morph": "3.sg.act-opt-root-gup (caus.)"
+    },
+    {
+     "surface": "pātram",
+     "gloss": "vessel",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityājñā",
+     "gloss": "thus-command",
+     "grounds": "fused nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-lady",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What command is given about the washed vessel?",
+   "premises": [
+    "wash vessel then hide it",
+    "thus is the command"
+   ],
+   "inference": "after washing, the vessel should be hidden",
+   "uncertainties": [],
+   "plain_english": "Having washed the vessel, one should hide it; thus is the command, supreme lady."
+  },
+  {
+   "verse": 1260,
+   "rows": [
+    {
+     "surface": "paṭhed",
+     "gloss": "read",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt-root-paṭh"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśuśāstrāṇi",
+     "gloss": "beast-scriptures",
+     "grounds": "accusative plural neuter compound",
+     "morph": "n.acc.pl (compound)"
+    },
+    {
+     "surface": "saṅgacched",
+     "gloss": "associate",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt-root-saṅgam"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśustriyam",
+     "gloss": "beast-woman",
+     "grounds": "accusative singular feminine compound",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "What associations are forbidden for the practitioner?",
+   "premises": [
+    "do not read beast scriptures",
+    "do not associate with beast woman"
+   ],
+   "inference": "reading beast scriptures and associating with a beast woman are forbidden",
+   "uncertainties": [],
+   "plain_english": "One should not read beast scriptures, nor associate with a beast woman."
+  },
+  {
+   "verse": 1261,
+   "rows": [
+    {
+     "surface": "dharmārthāyuryaśaḥpuṇyam",
+     "gloss": "dharma-wealth-life-fame-merit",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "arthasaukhyādi",
+     "gloss": "wealth-happiness-etc",
+     "grounds": "nominative or accusative neuter compound",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perish",
+     "grounds": "present active third singular",
+     "morph": "3.sg.act-pres-root-naś"
+    }
+   ],
+   "question": "What perishes through forbidden associations?",
+   "premises": [
+    "dharma wealth life fame merit perish",
+    "wealth happiness etc perish"
+   ],
+   "inference": "dharma, wealth, life, fame, merit, and happiness perish",
+   "uncertainties": [],
+   "plain_english": "Dharma, wealth, life, fame, merit, wealth, happiness, and the rest perish."
+  },
+  {
+   "verse": 1262,
+   "rows": [
+    {
+     "surface": "snehāt",
+     "gloss": "from-affection",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "lobhāt",
+     "gloss": "from-greed",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhayāt",
+     "gloss": "from-fear",
+     "grounds": "ablative singular masculine or neuter",
+     "morph": "m/n.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "become",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act-opt-root-bhū"
+    },
+    {
+     "surface": "yoginīpaśuḥ",
+     "gloss": "yogini-beast",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "How does one become a beast of the yoginis?",
+   "premises": [
+    "from affection greed or fear",
+    "he becomes yogini beast"
+   ],
+   "inference": "through affection, greed, or fear one becomes a beast of the yoginis",
+   "uncertainties": [],
+   "plain_english": "Through affection, greed, or fear, he becomes a beast of the yoginis."
+  }
+ ]
+}

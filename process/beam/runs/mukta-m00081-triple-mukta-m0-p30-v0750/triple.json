@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner; refers to the state described in preceding verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitāsya",
+     "gloss": "of-one-abiding",
+     "grounds": "genitive of agent in that state; from sthita (abiding/situated)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhyānena",
+     "gloss": "by-meditation",
+     "grounds": "instrumental of means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bodhāt",
+     "gloss": "from-awareness",
+     "grounds": "ablative indicating source or cause; bodha as awakening/knowing",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternative means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the previously indicated reality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "reflexive possessive qualifying rūpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rūpa",
+     "gloss": "nature",
+     "grounds": "essential form or nature; object of partaking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāk",
+     "gloss": "partaking",
+     "grounds": "one who shares or partakes in; from bhaj",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what means does one abiding thus come to partake of that own nature?",
+   "premises": [
+    "One is abiding in the state described previously.",
+    "Meditation is presented as a means to realization.",
+    "Awareness is presented as an alternative means to realization."
+   ],
+   "inference": "Therefore, one abiding thus partakes of that own nature either through meditation or through awareness.",
+   "uncertainties": [
+    "Whether bodhāt indicates spontaneous awareness or a specific cognitive event is not fully explicit."
+   ],
+   "plain_english": "For one who abides thus, through meditation or through awareness, there is partaking of that own nature."
+  }
+ ]
+}

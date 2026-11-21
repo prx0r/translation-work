@@ -1,0 +1,1113 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3476,
+   "rows": [
+    {
+     "surface": "gandhādibhiḥ",
+     "gloss": "with-scents-and-others",
+     "grounds": "instrumental plural of compound gandha-ādi indicating scents and similar offerings",
+     "morph": "m.inst.pl (compound: gandha+ādi)"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive expressing prior act of worship",
+     "morph": "gerund (sam-abhi-arc)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "object of the ritual act to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb emphasizing special manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What special worship must be performed after offerings of scents and the like?",
+   "premises": [
+    "Scents and similar items are used as offerings.",
+    "Worship is performed after offering them.",
+    "This worship is to be done especially."
+   ],
+   "inference": "After offering scents and similar substances, worship must be carried out with special emphasis.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with scents and the like, one should perform the worship especially."
+  },
+  {
+   "verse": 3477,
+   "rows": [
+    {
+     "surface": "sviṣṭamagneti",
+     "gloss": "with-sviṣṭakṛt-formula",
+     "grounds": "mantra phrase referring to the sviṣṭakṛt invocation, kept as fused token",
+     "morph": "(indecl. mantra-phrase)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument by which the offering is made",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūrṇāhutim",
+     "gloss": "full-offering",
+     "grounds": "final complete oblation in the rite",
+     "morph": "f.acc.sg (compound: pūrṇa+āhuti)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive action for the officiant",
+     "morph": "3.sg.opt.act (ā-car)"
+    }
+   ],
+   "question": "By what mantra and at what stage should the full oblation be performed?",
+   "premises": [
+    "A specific mantra is prescribed for the act.",
+    "The act is the full oblation.",
+    "The oblation is performed as the next step."
+   ],
+   "inference": "After the preceding worship, the officiant should perform the full oblation with the sviṣṭakṛt mantra.",
+   "uncertainties": [
+    "Exact parsing of sviṣṭamagneti as a fused mantra citation is inferred from context."
+   ],
+   "plain_english": "Then one should perform the full oblation with the mantra 'sviṣṭam agne'."
+  },
+  {
+   "verse": 3478,
+   "rows": [
+    {
+     "surface": "maṇḍūkākhyapade",
+     "gloss": "in-frog-named-place",
+     "grounds": "location designated by the name maṇḍūka in the ritual diagram",
+     "morph": "n.loc.sg (compound: maṇḍūka+ākhya+pada)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "connective introducing another option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptasaptāṃśam",
+     "gloss": "seven-times-seven-part",
+     "grounds": "alternative division or placement based on sevenfold subdivision",
+     "morph": "n.acc.sg (compound: sapta+sapta+aṃśa)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the stated alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks another alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative locations or divisions are permitted for the prescribed placement?",
+   "premises": [
+    "The frog-named place is one option.",
+    "A seven-times-seven division is another option.",
+    "The alternatives are presented as permissible choices."
+   ],
+   "inference": "The placement may be made either in the frog-named place or according to a seven-times-seven division.",
+   "uncertainties": [
+    "The precise technical referent of saptasaptāṃśam in this ritual context is not fully explicit."
+   ],
+   "plain_english": "It may be in the place called Maṇḍūka, or else in the seven-times-seven division."
+  },
+  {
+   "verse": 3479,
+   "rows": [
+    {
+     "surface": "sthānakam",
+     "gloss": "standing-place",
+     "grounds": "designated position for installation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devikāṃśe",
+     "gloss": "in-goddess-portion",
+     "grounds": "location within the divine portion of the layout",
+     "morph": "m.loc.sg (compound: devikā+aṃśa)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle distinguishing placements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "designated seat or base placement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānuṣe",
+     "gloss": "in-human",
+     "grounds": "location within the human portion of the layout",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pade",
+     "gloss": "in-place",
+     "grounds": "specific spot or division in the diagram",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How are the standing place and seat assigned to the goddess and human portions?",
+   "premises": [
+    "A standing place is assigned to a specific portion.",
+    "A seat is assigned to another portion.",
+    "The portions are distinguished as goddess and human."
+   ],
+   "inference": "The standing place should be in the goddess portion, while the seat should be in the human portion.",
+   "uncertainties": [],
+   "plain_english": "The standing place is in the goddess portion, but the seat is in the human place."
+  },
+  {
+   "verse": 3480,
+   "rows": [
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "object to be placed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadrapīṭhe",
+     "gloss": "on-auspicious-pedestal",
+     "grounds": "location for the seat",
+     "morph": "n.loc.sg (compound: bhadra+pīṭha)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthānakam",
+     "gloss": "standing-place",
+     "grounds": "object to be placed in contrast",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedikopari",
+     "gloss": "upon-altar",
+     "grounds": "location above the altar platform",
+     "morph": "(indecl. compound: vedikā+upari)"
+    }
+   ],
+   "question": "Where must the seat and the standing place be positioned relative to pedestal and altar?",
+   "premises": [
+    "The seat has a specified location.",
+    "The standing place has a different specified location.",
+    "The locations are the auspicious pedestal and above the altar."
+   ],
+   "inference": "The seat should be placed on the auspicious pedestal, while the standing place should be above the altar.",
+   "uncertainties": [],
+   "plain_english": "The seat is on the auspicious pedestal, but the standing place is upon the altar."
+  },
+  {
+   "verse": 3481,
+   "rows": [
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-made",
+     "grounds": "prescriptive obligation",
+     "morph": "n.nom.sg.gerundive (kṛ)"
+    },
+    {
+     "surface": "sundaram",
+     "gloss": "beautiful",
+     "grounds": "quality required of the construction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "refers to the previously mentioned place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ādhārākhya",
+     "gloss": "support-named",
+     "grounds": "designation of the stone as a support",
+     "morph": "f.nom.sg (compound: ādhāra+ākhya)"
+    },
+    {
+     "surface": "śilām",
+     "gloss": "stone",
+     "grounds": "object to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.opt.act (ni-as)"
+    }
+   ],
+   "question": "What object must be placed beautifully in that location as the designated support?",
+   "premises": [
+    "Something must be made beautifully in that place.",
+    "The object is a stone called the support.",
+    "The stone must be placed there."
+   ],
+   "inference": "A beautiful support stone must be placed in that location.",
+   "uncertainties": [],
+   "plain_english": "One should make it beautiful and place the stone called the support there."
+  },
+  {
+   "verse": 3482,
+   "rows": [
+    {
+     "surface": "samāśram",
+     "gloss": "equal-sided",
+     "grounds": "possible shape with equal dimensions",
+     "morph": "n.nom.sg (compound: sama+aśra)"
+    },
+    {
+     "surface": "sāyatam",
+     "gloss": "elongated",
+     "grounds": "alternative shape with extended length",
+     "morph": "n.nom.sg (sa+āyata)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardham",
+     "gloss": "half-of-that",
+     "grounds": "thickness proportion relative to prior measure",
+     "morph": "n.nom.sg (compound: tad+ardha)"
+    },
+    {
+     "surface": "tadghanam",
+     "gloss": "its-thickness",
+     "grounds": "specifies the thickness dimension",
+     "morph": "n.nom.sg (compound: tad+ghana)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive specification",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What proportions of shape and thickness are prescribed for the support stone?",
+   "premises": [
+    "The stone may be equal-sided or elongated.",
+    "Its thickness is specified in relation to that measure.",
+    "The thickness should be half of that measure."
+   ],
+   "inference": "The support stone may be equal-sided or elongated, and its thickness should be half of that dimension.",
+   "uncertainties": [
+    "The exact reference of tad in tadardham depends on the chosen dimension."
+   ],
+   "plain_english": "It may be equal-sided or elongated, and its thickness should be half of that."
+  },
+  {
+   "verse": 3483,
+   "rows": [
+    {
+     "surface": "ādhārākhyaśilāyām",
+     "gloss": "in-support-named-stone",
+     "grounds": "location where the cavity is to be made",
+     "morph": "f.loc.sg (compound: ādhāra+ākhya+śilā)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks the next instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratnagartam",
+     "gloss": "gem-pit",
+     "grounds": "cavity intended for depositing gems",
+     "morph": "m.acc.sg (compound: ratna+garta)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-prepare",
+     "grounds": "prescriptive action to fashion the cavity",
+     "morph": "3.sg.opt.act (pra-kḷp)"
+    }
+   ],
+   "question": "What cavity must be prepared in the support stone for ritual deposits?",
+   "premises": [
+    "The action concerns the support-named stone.",
+    "A pit for gems is required.",
+    "This pit must be prepared."
+   ],
+   "inference": "A gem pit should be prepared in the support stone.",
+   "uncertainties": [],
+   "plain_english": "In the support stone, one should prepare a pit for gems."
+  },
+  {
+   "verse": 3484,
+   "rows": [
+    {
+     "surface": "mūle",
+     "gloss": "at-base",
+     "grounds": "location for depositing items",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navaratnam",
+     "gloss": "nine-gems",
+     "grounds": "first possible deposit",
+     "morph": "n.acc.sg (compound: nava+ratna)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hemam",
+     "gloss": "gold",
+     "grounds": "second possible deposit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the prepared pit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-deposit",
+     "grounds": "prescriptive act of placing items",
+     "morph": "3.sg.opt.act (ni-kṣip)"
+    }
+   ],
+   "question": "What materials may be deposited at the base within the prepared gem pit?",
+   "premises": [
+    "A deposit is to be made at the base.",
+    "Nine gems are one possible deposit.",
+    "Gold is an alternative deposit."
+   ],
+   "inference": "One should deposit either nine gems or gold at the base in that pit.",
+   "uncertainties": [],
+   "plain_english": "At the base there, one should deposit either the nine gems or gold."
+  },
+  {
+   "verse": 3485,
+   "rows": [
+    {
+     "surface": "prāgeva",
+     "gloss": "beforehand-indeed",
+     "grounds": "emphasizes prior preparation",
+     "morph": "(indecl. compound: prāk+eva)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-prepare",
+     "grounds": "prescriptive preparatory action",
+     "morph": "3.sg.opt.act (kḷp)"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified officiant performing the preparation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthāpanārtham",
+     "gloss": "for-installation",
+     "grounds": "purpose of the preparation",
+     "morph": "n.acc.sg (compound: sthāpana+artha)"
+    },
+    {
+     "surface": "balānvitam",
+     "gloss": "endowed-with-strength",
+     "grounds": "quality required for the prepared arrangement",
+     "morph": "n.acc.sg (compound: bala+anvita)"
+    }
+   ],
+   "question": "What prior preparation must the wise officiant make for the installation?",
+   "premises": [
+    "Preparation must be done beforehand.",
+    "The wise officiant is responsible for it.",
+    "The preparation must be strong and for installation."
+   ],
+   "inference": "The wise officiant should prepare a strong arrangement beforehand for the purpose of installation.",
+   "uncertainties": [
+    "The exact object of kalpayet is implied rather than explicitly named."
+   ],
+   "plain_english": "The wise one should prepare it beforehand, strong and fit for installation."
+  },
+  {
+   "verse": 3486,
+   "rows": [
+    {
+     "surface": "muhūrte",
+     "gloss": "at-auspicious-time",
+     "grounds": "designated ritual moment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samanuprāpte",
+     "gloss": "having-arrived",
+     "grounds": "indicates the appointed time has come",
+     "morph": "m.loc.sg (past-participle: sam-anu-pra-āp)"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-teacher",
+     "grounds": "recipient of the report",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "saṃnivedayet",
+     "gloss": "should-report",
+     "grounds": "prescriptive act of informing the teacher",
+     "morph": "3.sg.opt.caus.act (sam-ni-vid)"
+    }
+   ],
+   "question": "To whom must the arrival of the auspicious time be formally reported?",
+   "premises": [
+    "An auspicious time arrives.",
+    "A report must be made at that time.",
+    "The teacher is the recipient of the report."
+   ],
+   "inference": "When the auspicious time has arrived, one should report it to the teacher.",
+   "uncertainties": [],
+   "plain_english": "When the auspicious time has arrived, one should report it to the guru."
+  },
+  {
+   "verse": 3487,
+   "rows": [
+    {
+     "surface": "sarvātodyasamāyuktam",
+     "gloss": "accompanied-by-all-percussion",
+     "grounds": "describes the ritual setting with all percussion instruments",
+     "morph": "n.acc.sg (compound: sarva+ātodya+samāyukta)"
+    },
+    {
+     "surface": "sarvavādyasamanvitam",
+     "gloss": "endowed-with-all-music",
+     "grounds": "describes the ritual setting with all musical instruments",
+     "morph": "n.acc.sg (compound: sarva+vādya+samanvita)"
+    }
+   ],
+   "question": "What musical accompaniment must characterize the ritual setting at this stage?",
+   "premises": [
+    "All percussion instruments are to be present.",
+    "All musical instruments are to be present.",
+    "The setting is described as fully accompanied."
+   ],
+   "inference": "The ritual should be accompanied by all kinds of percussion and all kinds of musical instruments.",
+   "uncertainties": [
+    "The grammatical object qualified by these compounds is supplied from the surrounding context."
+   ],
+   "plain_english": "It should be accompanied by all percussion and all musical instruments."
+  },
+  {
+   "verse": 3488,
+   "rows": [
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-install",
+     "grounds": "prescriptive act of installation",
+     "morph": "3.sg.opt.caus.act (sthā)"
+    },
+    {
+     "surface": "avaṭe",
+     "gloss": "in-pit",
+     "grounds": "location of installation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūlatalādhastāt",
+     "gloss": "below-trident-base",
+     "grounds": "specific position beneath the base of the trident",
+     "morph": "(indecl. compound: śūla+tala+adhastāt)"
+    },
+    {
+     "surface": "dṛḍham",
+     "gloss": "firmly",
+     "grounds": "manner of installation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "so-that",
+     "grounds": "introduces the required manner or result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How and where must the object be installed beneath the trident base?",
+   "premises": [
+    "Installation is to be done in a pit.",
+    "The location is below the trident base.",
+    "The installation must be firm."
+   ],
+   "inference": "It should be installed firmly in the pit below the base of the trident.",
+   "uncertainties": [],
+   "plain_english": "One should install it firmly in the pit below the base of the trident."
+  },
+  {
+   "verse": 3489,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the previously installed object",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "relative position for the next installation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks an additional instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-installed",
+     "grounds": "absolutive indicating the act of installing",
+     "morph": "gerund (sam-sthā)"
+    },
+    {
+     "surface": "gaurīśūlam",
+     "gloss": "gaurī-trident",
+     "grounds": "object to be installed",
+     "morph": "n.acc.sg (compound: gaurī+śūla)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasizes the importance of this placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional trident must be installed to the left of the main installation?",
+   "premises": [
+    "A position to the left of that object is specified.",
+    "Another trident is to be installed there.",
+    "This installation is emphasized as special."
+   ],
+   "inference": "The Gaurī trident should be installed especially to the left of that.",
+   "uncertainties": [],
+   "plain_english": "To its left, one should especially install the Gaurī trident."
+  },
+  {
+   "verse": 3490,
+   "rows": [
+    {
+     "surface": "paṃcaṣaṭsaptamātram",
+     "gloss": "five-six-seven-measure",
+     "grounds": "possible measures for the pit width or depth",
+     "morph": "n.acc.sg (compound: pañca+ṣaṣ+sapta+mātra)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gartavyāsam",
+     "gloss": "pit-width",
+     "grounds": "dimension of the pit being specified",
+     "morph": "m.acc.sg (compound: garta+vyāsa)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds another option in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navam",
+     "gloss": "nine",
+     "grounds": "additional possible measure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What alternative measures are permitted for the width of the installation pit?",
+   "premises": [
+    "The pit width is being specified.",
+    "Measures of five, six, or seven are allowed.",
+    "A measure of nine is also allowed."
+   ],
+   "inference": "The width of the pit may be five, six, seven, or likewise nine measures.",
+   "uncertainties": [
+    "The unit of mātra is not explicitly stated in this verse."
+   ],
+   "plain_english": "The width of the pit may be five, six, or seven measures, or likewise nine."
+  },
+  {
+   "verse": 3491,
+   "rows": [
+    {
+     "surface": "prāgukta+vidhinā",
+     "gloss": "by-previously-stated-rule",
+     "grounds": "method prescribed earlier in the text",
+     "morph": "m.inst.sg (compound: prāgukta+vidhi)"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-installed",
+     "grounds": "absolutive indicating completion of installation",
+     "morph": "gerund (sthā)"
+    },
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-scents-flowers-and-others",
+     "grounds": "offerings used in subsequent worship",
+     "morph": "n.inst.pl (compound: gandha+puṣpa+ādi)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive act of worship after installation",
+     "morph": "3.sg.opt.act (yaj)"
+    }
+   ],
+   "question": "By what procedure and with what offerings should worship follow the installation?",
+   "premises": [
+    "Installation is done according to the previously stated rule.",
+    "Worship follows the installation.",
+    "Scents, flowers, and similar items are used in worship."
+   ],
+   "inference": "After installing according to the previously stated rule, one should worship with scents, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having installed it according to the previously stated rule, one should worship with scents, flowers, and the like."
+  },
+  {
+   "verse": 3492,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "introduces the context of remaining work",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "work left to be completed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "refers to any remaining task",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "work",
+     "grounds": "task to be done",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śilpibhiḥ",
+     "gloss": "by-artisans",
+     "grounds": "agents who may perform the remaining work",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasizes the role of artisans",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is especially responsible for completing whatever work remains at that stage?",
+   "premises": [
+    "Some work remains to be done.",
+    "Artisans are available to perform work.",
+    "Their role in the remaining work is emphasized."
+   ],
+   "inference": "Whatever work remains there should especially be done by artisans.",
+   "uncertainties": [],
+   "plain_english": "Whatever work remains there should especially be done by the artisans."
+  },
+  {
+   "verse": 3493,
+   "rows": [
+    {
+     "surface": "sthapatiḥ",
+     "gloss": "architect",
+     "grounds": "chief craftsman to be appointed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "citrakarmajñaḥ",
+     "gloss": "skilled-in-painting-work",
+     "grounds": "qualification of the appointed craftsman",
+     "morph": "m.nom.sg (compound: citra+karma+jña)"
+    },
+    {
+     "surface": "yojyaḥ",
+     "gloss": "to-be-employed",
+     "grounds": "prescriptive requirement for appointment",
+     "morph": "m.nom.sg.gerundive (yuj)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "by-others",
+     "grounds": "other agents who must not be used",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-do",
+     "grounds": "prohibits commissioning others",
+     "morph": "3.sg.opt.caus.act (kṛ)"
+    }
+   ],
+   "question": "Which qualified craftsman must be employed and who must not be commissioned for the work?",
+   "premises": [
+    "An architect skilled in painting work is required.",
+    "Such a person must be employed.",
+    "Others must not be made to do the work."
+   ],
+   "inference": "An architect skilled in painting work should be employed, and the work should not be commissioned to others.",
+   "uncertainties": [],
+   "plain_english": "An architect skilled in painting work should be employed, and one should not have it done by others."
+  },
+  {
+   "verse": 3494,
+   "rows": [
+    {
+     "surface": "ācāryam",
+     "gloss": "teacher",
+     "grounds": "ritual master to be honored",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-honor",
+     "grounds": "prescriptive act of worship or honoring",
+     "morph": "3.sg.opt.act (pūj)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location or occasion of honoring",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vastrahemāṃgulīyakaiḥ",
+     "gloss": "with-garments-gold-rings",
+     "grounds": "gifts offered in honoring the teacher",
+     "morph": "n.inst.pl (compound: vastra+hema+aṅgulīyaka)"
+    }
+   ],
+   "question": "With what gifts must the teacher be honored at that stage of the rite?",
+   "premises": [
+    "The teacher is to be honored.",
+    "The honoring takes place there.",
+    "Garments, gold, and rings are the prescribed gifts."
+   ],
+   "inference": "The teacher should be honored there with garments, gold, and rings.",
+   "uncertainties": [],
+   "plain_english": "There one should honor the teacher with garments, gold, and rings."
+  },
+  {
+   "verse": 3495,
+   "rows": [
+    {
+     "surface": "śūlasthāpanam",
+     "gloss": "trident-installation",
+     "grounds": "ritual topic declared completed",
+     "morph": "n.nom.sg (compound: śūla+sthāpana)"
+    },
+    {
+     "surface": "ākhyātam",
+     "gloss": "declared",
+     "grounds": "states that the topic has been explained",
+     "morph": "n.nom.sg.past-participle (ā-khyā)"
+    },
+    {
+     "surface": "rajjubandham",
+     "gloss": "rope-binding",
+     "grounds": "next ritual topic to be explained",
+     "morph": "m.acc.sg (compound: rajju+bandha)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to the next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressed to the listener",
+     "morph": "2.sg.imp.act (śru)"
+    }
+   ],
+   "question": "What ritual topic has been completed and what topic is introduced next for instruction?",
+   "premises": [
+    "The installation of the trident has been declared.",
+    "A new topic is introduced.",
+    "The listener is asked to hear about rope-binding."
+   ],
+   "inference": "Having declared the trident installation, the text now introduces the topic of rope-binding.",
+   "uncertainties": [],
+   "plain_english": "The installation of the trident has been declared; now hear about the binding with ropes."
+  },
+  {
+   "verse": 3496,
+   "rows": [
+    {
+     "surface": "ityam",
+     "gloss": "thus",
+     "grounds": "concluding marker of the section",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśumān",
+     "gloss": "aṃśumān",
+     "grounds": "name or epithet in the text title",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kāśyapa-text",
+     "grounds": "locative indicating the work attributed to Kāśyapa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūlasthāpanavidhipaṭalaḥ",
+     "gloss": "trident-installation-rule-chapter",
+     "grounds": "title of the completed chapter",
+     "morph": "m.nom.sg (compound: śūla+sthāpana+vidhi+paṭala)"
+    },
+    {
+     "surface": "caturaśītitamaḥ",
+     "gloss": "eighty-fourth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa text concludes with the trident installation rite?",
+   "premises": [
+    "The verse marks a conclusion.",
+    "It names the Aṃśumān Kāśyapa text.",
+    "It identifies the eighty-fourth chapter on trident installation."
+   ],
+   "inference": "This concludes the eighty-fourth chapter, on the rule for trident installation, in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the eighty-fourth chapter, on the rule for trident installation, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 3497,
+   "rows": [
+    {
+     "surface": "sarvāsu",
+     "gloss": "in-all",
+     "grounds": "indicates every instance of the junctions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "śūlasaṃdhyāsu",
+     "gloss": "in-trident-junctions",
+     "grounds": "locations to be wrapped",
+     "morph": "f.loc.pl (compound: śūla+saṃdhi)"
+    },
+    {
+     "surface": "tāmrapatraiḥ",
+     "gloss": "with-copper-sheets",
+     "grounds": "material used for wrapping",
+     "morph": "n.inst.pl (compound: tāmra+patra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "should-wrap",
+     "grounds": "prescriptive act of wrapping",
+     "morph": "3.sg.opt.caus.act (veṣṭ)"
+    }
+   ],
+   "question": "What material must be used to wrap all the junctions of the trident?",
+   "premises": [
+    "All trident junctions are concerned.",
+    "Copper sheets are specified as material.",
+    "Wrapping is the prescribed action."
+   ],
+   "inference": "All the junctions of the trident should be wrapped with copper sheets.",
+   "uncertainties": [],
+   "plain_english": "One should wrap all the junctions of the trident with copper sheets."
+  },
+  {
+   "verse": 3498,
+   "rows": [
+    {
+     "surface": "śrīveṣṭakam",
+     "gloss": "śrīveṣṭaka-resin",
+     "grounds": "first substance listed for the mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kunduruṣkam",
+     "gloss": "kunduruṣka-resin",
+     "grounds": "second substance listed for the mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guggulam",
+     "gloss": "guggulu-resin",
+     "grounds": "third substance listed for the mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gulam",
+     "gloss": "jaggery",
+     "grounds": "fourth substance listed for the mixture",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion in the same list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which substances are enumerated as components for the binding mixture?",
+   "premises": [
+    "Several substances are listed together.",
+    "The list includes śrīveṣṭaka, kunduruṣka, guggulu, and gula.",
+    "They are presented as components of the same preparation."
+   ],
+   "inference": "The mixture includes śrīveṣṭaka, kunduruṣka, guggulu, and jaggery.",
+   "uncertainties": [
+    "Exact botanical identification of śrīveṣṭaka and kunduruṣka is not specified here."
+   ],
+   "plain_english": "Use śrīveṣṭaka, kunduruṣka, guggulu, and likewise jaggery."
+  },
+  {
+   "verse": 3499,
+   "rows": [
+    {
+     "surface": "śrīveṣṭanam",
+     "gloss": "śrīveṣṭana-resin",
+     "grounds": "first component with specified proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturbhāgam",
+     "gloss": "four-parts",
+     "grounds": "proportion assigned to the first component",
+     "morph": "n.nom.sg (compound: catur+bhāga)"
+    },
+    {
+     "surface": "kunduruṣkam",
+     "gloss": "kunduruṣka-resin",
+     "grounds": "second component with specified proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃśakam",
+     "gloss": "three-parts",
+     "grounds": "proportion assigned to the second component, using guṇa as three",
+     "morph": "n.nom.sg (compound: guṇa+aṃśaka)"
+    }
+   ],
+   "question": "What proportional measures are prescribed for śrīveṣṭana and kunduruṣka in the mixture?",
+   "premises": [
+    "Śrīveṣṭana is assigned a specific proportion.",
+    "Kunduruṣka is assigned a specific proportion.",
+    "The proportions are four parts and three parts respectively."
+   ],
+   "inference": "The mixture should contain four parts of śrīveṣṭana and three parts of kunduruṣka.",
+   "uncertainties": [
+    "The term guṇāṃśakam is interpreted as three parts based on guṇa meaning three."
+   ],
+   "plain_english": "Take four parts of śrīveṣṭana and three parts of kunduruṣka."
+  }
+ ]
+}

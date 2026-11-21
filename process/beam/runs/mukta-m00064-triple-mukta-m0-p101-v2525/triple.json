@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "ritual gift or honorarium",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient of the gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "savitre",
+     "gloss": "to-Savitṛ",
+     "grounds": "solar deity as recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "ritual oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act caus. √nī+vi"
+    }
+   ],
+   "question": "What specific offerings are due to the guru and to Savitṛ?",
+   "premises": [
+    "A fee is to be given to the guru.",
+    "A water-offering is to be presented to Savitṛ.",
+    "Both actions are expressed as ritual obligations."
+   ],
+   "inference": "The prescribed ritual requires giving a fee to the guru and offering arghya to Savitṛ.",
+   "uncertainties": [],
+   "plain_english": "One should give a fee to the guru and offer a water-offering to Savitṛ."
+  }
+ ]
+}

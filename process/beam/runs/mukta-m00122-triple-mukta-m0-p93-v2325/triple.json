@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "sarpiṣājyāplutābhiḥ",
+     "gloss": "ghee-anointed",
+     "grounds": "legacy hint ghee-anointed; instrumental plural feminine adjective",
+     "morph": "adj.instr.pl.f"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "legacy hint they; pronoun subject",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "praṇamantyeva",
+     "gloss": "bow-indeed",
+     "grounds": "legacy hint bow-indeed; verb plus indeclinable eva",
+     "morph": "verb.3pl.act-pres (praṇam) + (indecl.)"
+    },
+    {
+     "surface": "pādayoḥ",
+     "gloss": "at-feet",
+     "grounds": "legacy hint at-feet; locative dual",
+     "morph": "loc.du.m"
+    }
+   ],
+   "question": "Do enemies bow at the practitioner's feet when ghee-anointed items are used?",
+   "premises": [
+    "Ghee-anointed items are used in rite.",
+    "Enemies are subdued by stambhana.",
+    "They bow at feet."
+   ],
+   "inference": "The rite causes enemies to submit.",
+   "uncertainties": [
+    "Exact grammatical gender and number of sarpiṣājyāplutābhiḥ remain uncertain.",
+    "Whether te refers to enemies or items remains uncertain."
+   ],
+   "plain_english": "Anointed with ghee, they indeed bow at the feet."
+  }
+ ]
+}

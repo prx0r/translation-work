@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p190",
+ "items": [
+  {
+   "verse": 4750,
+   "rows": [
+    {
+     "surface": "bhadra",
+     "gloss": "auspicious",
+     "grounds": "legacy hint with-bhadra; treated as auspicious element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upabhadra",
+     "gloss": "secondary-auspicious",
+     "grounds": "legacy hint and-upabhadra; paired with bhadra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃyuktam",
+     "gloss": "joined",
+     "grounds": "legacy hint joined; fused participle form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "central",
+     "grounds": "legacy hint central; modifies stambha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "stambha",
+     "gloss": "pillar",
+     "grounds": "legacy hint pillar; central support",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabhāsanam",
+     "gloss": "arrangement",
+     "grounds": "legacy hint arrangement; final display term",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are bhadra and upabhadra arranged around the central pillar?",
+   "premises": [
+    "bhadra and upabhadra are joined",
+    "central pillar forms arrangement",
+    "joined pair is displayed centrally"
+   ],
+   "inference": "The joined bhadra-upabhadra complex is arranged around the central pillar.",
+   "uncertainties": [
+    "exact ritual function of bhadra-upabhadra remains uncertain",
+    "whether prabhāsanam denotes display or placement is uncertain"
+   ],
+   "plain_english": "Bhadra and upabhadra, joined, form the central pillar arrangement."
+  }
+ ]
+}

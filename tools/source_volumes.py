@@ -102,6 +102,11 @@ def record_work_volume(work: str, edition: str = "", source_license: str = "",
             ahnika = cfg.get('ahnika', 1)
             parsed = {num: val for (a, num), val in units.items()
                       if a == ahnika}
+        elif kind == 'taloka':
+            units, _ = workcfg.parse_taloka(src)
+            ahnika = cfg.get('ahnika', 1)
+            parsed = {num: val for (a, num), val in units.items()
+                      if a == ahnika}
         elif kind in parsers:
             fn, paired = parsers[kind]
             parsed = fn(src)

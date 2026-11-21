@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3125,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-installed",
+     "grounds": "absolutive of sam-√sthā indicating prior action",
+     "morph": "(gerund) sam-√sthā"
+    },
+    {
+     "surface": "mūlaliṅgādyam",
+     "gloss": "root-liṅga-and-so-forth",
+     "grounds": "compound object including the original liṅga and related items",
+     "morph": "mūla+liṅga+ādi (compound) acc.sg.nt"
+    },
+    {
+     "surface": "arcayedarcanoktavat",
+     "gloss": "should-worship-as-prescribed-for-worship",
+     "grounds": "fused form: arcayet (optative of √arc) + arcana-ukta-vat (comparative adverbial compound)",
+     "morph": "3.sg.opt.act √arc + arcana+ukta+vat (compound, indecl.)"
+    }
+   ],
+   "question": "What ritual procedure must follow installing the root liṅga when the original remains unfound?",
+   "premises": [
+    "The root liṅga and related items have been installed.",
+    "Prescribed worship procedures already exist in the ritual texts.",
+    "Worship must conform to those established prescriptions."
+   ],
+   "inference": "After installing the root liṅga and related items, one should perform worship according to the prescribed manner.",
+   "uncertainties": [],
+   "plain_english": "Having installed the root liṅga and so forth, one should worship it in the manner prescribed for worship."
+  }
+ ]
+}

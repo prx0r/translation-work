@@ -1,0 +1,1233 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "bhānoḥ",
+     "gloss": "of-sun",
+     "grounds": "genitive of bhānu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "genitive of vahni",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "plural feminine noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ten kalas are assigned to sun and fire?",
+   "premises": [
+    "sun has ten kalas",
+    "fire has ten kalas"
+   ],
+   "inference": "the verse pairs sun and fire kalas",
+   "uncertainties": [
+    "exact kalas not listed here"
+   ],
+   "plain_english": "The sun and fire each have ten kalas."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "plural feminine noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yādyāḥ",
+     "gloss": "which-first",
+     "grounds": "compound interrogative",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "relative feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "f.nom.pl.pass-pp"
+    }
+   ],
+   "question": "Which first ten kalas are proclaimed among those?",
+   "premises": [
+    "first ten kalas are named",
+    "those kalas are proclaimed"
+   ],
+   "inference": "the verse identifies the first proclaimed kalas",
+   "uncertainties": [
+    "exact names deferred"
+   ],
+   "plain_english": "The first ten kalas are proclaimed."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural feminine",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "nāmnaḥ",
+     "gloss": "of-name",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what order are their names given first?",
+   "premises": [
+    "names are given first",
+    "order is specified"
+   ],
+   "inference": "the verse sets naming order",
+   "uncertainties": [
+    "names not shown"
+   ],
+   "plain_english": "Their names are given first in order."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third singular optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "svara",
+     "gloss": "vowel-born",
+     "grounds": "compound with bhavah",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavāḥ",
+     "gloss": "born",
+     "grounds": "plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What becomes born from vowels?",
+   "premises": [
+    "vowel-born forms arise",
+    "thus is stated"
+   ],
+   "inference": "the verse states vowel-born arising",
+   "uncertainties": [
+    "specific forms omitted"
+   ],
+   "plain_english": "Thus vowel-born forms arise."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "ebhiḥ",
+     "gloss": "by-these",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "padaiḥ",
+     "gloss": "words",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "by-all-worship",
+     "grounds": "instrumental singular",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "akhilaiḥ",
+     "gloss": "all",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is worship performed by all these words in order?",
+   "premises": [
+    "these words are used",
+    "worship proceeds in order"
+   ],
+   "inference": "the verse prescribes ordered worship",
+   "uncertainties": [
+    "exact words omitted"
+   ],
+   "plain_english": "Worship is performed by all these words in order."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "prāṇa",
+     "gloss": "in-life-installation-etc",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "installation",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "etc",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "demonstrative masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "accepted",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.pass-pp"
+    }
+   ],
+   "question": "What rite is accepted for life installation and so on?",
+   "premises": [
+    "life installation is first",
+    "this rite is accepted"
+   ],
+   "inference": "the verse accepts this rite",
+   "uncertainties": [
+    "full rite details omitted"
+   ],
+   "plain_english": "This rite is accepted for life installation and so on."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "prajapet",
+     "gloss": "recite",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "asūn",
+     "gloss": "breaths",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What should one recite and place after worship?",
+   "premises": [
+    "mantra is recited",
+    "breaths are placed"
+   ],
+   "inference": "the verse gives a ritual sequence",
+   "uncertainties": [
+    "mantra identity omitted"
+   ],
+   "plain_english": "Recite the mantra, worship, and place the breaths."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "paṭhet",
+     "gloss": "read",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "install",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "asūn",
+     "gloss": "breaths",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What should one read and install after worship?",
+   "premises": [
+    "mantra is read",
+    "breaths are installed"
+   ],
+   "inference": "the verse gives a ritual sequence",
+   "uncertainties": [
+    "mantra identity omitted"
+   ],
+   "plain_english": "Read the mantra, worship, and install the breaths."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "tryambakam",
+     "gloss": "tryambaka",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "recite",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "install",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "asūn",
+     "gloss": "breaths",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What mantra is recited and installed after worship?",
+   "premises": [
+    "tryambaka mantra is recited",
+    "breaths are installed"
+   ],
+   "inference": "the verse gives a ritual sequence",
+   "uncertainties": [
+    "full mantra omitted"
+   ],
+   "plain_english": "Recite the tryambaka mantra, worship, and install the breaths."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that-savitur",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "savitur",
+     "gloss": "savitur",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "recite",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "install",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "asūn",
+     "gloss": "breaths",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What savitur mantra is recited and installed after worship?",
+   "premises": [
+    "savitur mantra is recited",
+    "breaths are installed"
+   ],
+   "inference": "the verse gives a ritual sequence",
+   "uncertainties": [
+    "full mantra omitted"
+   ],
+   "plain_english": "Recite the savitur mantra, worship, and install the breaths."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "paṭhet",
+     "gloss": "read",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "install",
+     "grounds": "optative third singular",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "asūn",
+     "gloss": "breaths",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What should one read and install after worship?",
+   "premises": [
+    "mantra is read",
+    "breaths are installed"
+   ],
+   "inference": "the verse gives a ritual sequence",
+   "uncertainties": [
+    "mantra identity omitted"
+   ],
+   "plain_english": "Read the mantra, worship, and install the breaths."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "jñeyāḥ",
+     "gloss": "known",
+     "grounds": "feminine plural gerundive",
+     "morph": "f.nom.pl.ger"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svara",
+     "gloss": "vowel",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvikāḥ",
+     "gloss": "preceded",
+     "grounds": "feminine plural adjective",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are sixteen vowel kalas known in order?",
+   "premises": [
+    "sixteen vowel kalas exist",
+    "they are known in order"
+   ],
+   "inference": "the verse orders vowel kalas",
+   "uncertainties": [
+    "names deferred"
+   ],
+   "plain_english": "Sixteen vowel kalas are known in order."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "candrikā",
+     "gloss": "moonlight",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntiḥ",
+     "gloss": "radiance",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyotsnā",
+     "gloss": "moonlight",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "prosperity",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "affection",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "aṅgadā",
+     "gloss": "limb-giving",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What names are given for moonlight kalas?",
+   "premises": [
+    "moonlight kalas are named",
+    "six names are listed"
+   ],
+   "inference": "the verse lists moonlight kala names",
+   "uncertainties": [
+    "exact mapping omitted"
+   ],
+   "plain_english": "Moonlight kalas include candrika, kanti, jyotsna, sri, priti, and angada."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indu",
+     "gloss": "moon",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "plural feminine noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "f.nom.pl.pass-pp"
+    },
+    {
+     "surface": "bhānu",
+     "gloss": "sun-orb-going",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṇḍala",
+     "gloss": "orb",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "gāḥ",
+     "gloss": "going",
+     "grounds": "feminine plural participle",
+     "morph": "f.nom.pl.part"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How are sixteen moon kalas proclaimed in sun orb order?",
+   "premises": [
+    "sixteen moon kalas are proclaimed",
+    "sun orb order is used"
+   ],
+   "inference": "the verse orders moon kalas by sun orb",
+   "uncertainties": [
+    "exact names omitted"
+   ],
+   "plain_english": "Sixteen moon kalas are proclaimed in sun orb order."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "viśvā",
+     "gloss": "all",
+     "grounds": "feminine singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bodhinī",
+     "gloss": "enlightening",
+     "grounds": "feminine singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāriṇī",
+     "gloss": "supporting",
+     "grounds": "feminine singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣamā",
+     "gloss": "patience",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities are named among these kalas?",
+   "premises": [
+    "all-enlightening is named",
+    "supporting and patience are named"
+   ],
+   "inference": "the verse lists kala qualities",
+   "uncertainties": [
+    "exact grouping omitted"
+   ],
+   "plain_english": "All-enlightening, supporting, and patience are named."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "from-five-divisions",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhedebhyaḥ",
+     "gloss": "divisions",
+     "grounds": "ablative plural",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "pañcāśat",
+     "gloss": "fifty-letter-going",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "letter",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "gāḥ",
+     "gloss": "going",
+     "grounds": "feminine plural participle",
+     "morph": "f.nom.pl.part"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "plural feminine noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How do fifty letters become kalas from five divisions?",
+   "premises": [
+    "five divisions are source",
+    "fifty letters become kalas"
+   ],
+   "inference": "the verse derives kalas from letters",
+   "uncertainties": [
+    "division details omitted"
+   ],
+   "plain_english": "Fifty letters become kalas from five divisions."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "sthitiḥ",
+     "gloss": "stability",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "attainment",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "f.nom.pl.pass-pp"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten-form-kalas",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "ākāra",
+     "gloss": "form",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "plural feminine noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What ten form kalas are proclaimed in order?",
+   "premises": [
+    "stability and attainment are named",
+    "ten form kalas are proclaimed"
+   ],
+   "inference": "the verse lists form kalas",
+   "uncertainties": [
+    "full list omitted"
+   ],
+   "plain_english": "Stability, attainment, and other form kalas are proclaimed in order."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "prītiḥ",
+     "gloss": "affection",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīrghā",
+     "gloss": "long",
+     "grounds": "feminine singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "u",
+     "gloss": "u-born",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāra",
+     "gloss": "born",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāḥ",
+     "gloss": "born",
+     "grounds": "feminine plural participle",
+     "morph": "f.nom.pl.part"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What affection and long u-born kalas arise in order?",
+   "premises": [
+    "affection is named",
+    "long u-born kalas arise"
+   ],
+   "inference": "the verse lists u-born kalas",
+   "uncertainties": [
+    "exact count omitted"
+   ],
+   "plain_english": "Affection and long u-born kalas arise in order."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "utkārī",
+     "gloss": "uplifting",
+     "grounds": "feminine singular adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "be",
+     "grounds": "optative third plural",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "ma",
+     "gloss": "m-born-self-kalas",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāra",
+     "gloss": "born",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "plural feminine noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What m-born self kalas include uplifting and death?",
+   "premises": [
+    "uplifting is named",
+    "death is named",
+    "m-born self kalas arise"
+   ],
+   "inference": "the verse lists m-born self kalas",
+   "uncertainties": [
+    "exact count omitted"
+   ],
+   "plain_english": "Uplifting, death, and other m-born self kalas arise in order."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "sva",
+     "gloss": "own-class-standing",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "varga",
+     "gloss": "class",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthāḥ",
+     "gloss": "standing",
+     "grounds": "feminine plural participle",
+     "morph": "f.nom.pl.part"
+    },
+    {
+     "surface": "nāda",
+     "gloss": "sound-born",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāḥ",
+     "gloss": "born",
+     "grounds": "feminine plural participle",
+     "morph": "f.nom.pl.part"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "kalas",
+     "grounds": "plural feminine noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative of sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What own-class and sound-born kalas stand in order?",
+   "premises": [
+    "own-class standing kalas exist",
+    "sound-born kalas exist"
+   ],
+   "inference": "the verse lists standing kalas",
+   "uncertainties": [
+    "exact count omitted"
+   ],
+   "plain_english": "Own-class standing and sound-born kalas stand in order."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "dīpikā",
+     "gloss": "lamp",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rocikā",
+     "gloss": "shining",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mocikā",
+     "gloss": "releasing",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What lamp, shining, releasing, and supreme kalas are named?",
+   "premises": [
+    "lamp is named",
+    "shining is named",
+    "releasing is named",
+    "supreme is named"
+   ],
+   "inference": "the verse lists supreme kalas",
+   "uncertainties": [
+    "exact grouping omitted"
+   ],
+   "plain_english": "Lamp, shining, releasing, and supreme kalas are named."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "vyoma",
+     "gloss": "space-formed",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "rūpāḥ",
+     "gloss": "formed",
+     "grounds": "feminine plural adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "be",
+     "grounds": "optative third plural",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "anantāḥ",
+     "gloss": "infinite",
+     "grounds": "feminine plural adjective",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "svara",
+     "gloss": "vowel-powers",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What space-formed infinite vowel powers are there?",
+   "premises": [
+    "space-formed forms arise",
+    "infinite vowel powers exist"
+   ],
+   "inference": "the verse states infinite vowel powers",
+   "uncertainties": [
+    "exact powers omitted"
+   ],
+   "plain_english": "Space-formed infinite vowel powers arise."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "gāyatrīm",
+     "gloss": "gayatri",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jātavedaḥ",
+     "gloss": "jatavedas",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manum",
+     "gloss": "manu",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What gayatri and manu are mentioned with jatavedas?",
+   "premises": [
+    "gayatri is mentioned",
+    "manu is mentioned",
+    "jatavedas is mentioned"
+   ],
+   "inference": "the verse names ritual items",
+   "uncertainties": [
+    "context omitted"
+   ],
+   "plain_english": "Gayatri, jatavedas, and manu are mentioned."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vadanti",
+     "gloss": "say",
+     "grounds": "third plural present",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadeśa",
+     "gloss": "from-instruction-dull-grasp",
+     "grounds": "compound first member",
+     "morph": "compound"
+    },
+    {
+     "surface": "jaḍa",
+     "gloss": "dull",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "grahāt",
+     "gloss": "grasp",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why do some say instruction here is for dull grasp?",
+   "premises": [
+    "some say here",
+    "instruction is for dull grasp"
+   ],
+   "inference": "the verse notes a teaching limitation",
+   "uncertainties": [
+    "exact instruction omitted"
+   ],
+   "plain_english": "Some say here instruction is for dull grasp."
+  }
+ ]
+}

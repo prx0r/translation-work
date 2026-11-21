@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "madrakasya",
+     "gloss": "of-madraka",
+     "grounds": "genitive form of madraka; technical substance name in this recipe context, not glossed generically",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rasaṃ",
+     "gloss": "juice",
+     "grounds": "accusative object; in this pharmacological recipe denotes the extracted fluid/substance to be taken",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive of grah; marks the prescribed substance as that which is to be appropriated/collected for use",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣaṇasya",
+     "gloss": "of-laksana",
+     "grounds": "genitive of lakṣaṇa; technical term here likely denotes a specified type/substance rather than a general 'mark'",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "makarasya",
+     "gloss": "of-makara",
+     "grounds": "genitive of makara; technical substance/name in this recipe sequence, load-bearing in situ",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating enclitic linking the preceding items into a single prescription",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On what basis must the juice of madraka be taken together with the specified substances of lakṣaṇa and makara in this prescribed recipe?",
+   "premises": [
+    "The juice of madraka is designated as the substance to be taken.",
+    "The substances of lakṣaṇa and makara are specified as co-requisites in the prescription.",
+    "The coordinating particle links all three items into a single required combination."
+   ],
+   "inference": "Within this recipe sequence, the madraka juice is to be taken in conjunction with the specified lakṣaṇa and makara substances, not as a standalone item.",
+   "uncertainties": [
+    "The precise technical referents of madraka, lakṣaṇa, and makara remain context-bound to this tantra's pharmacological usage.",
+    "It is not determinable from this verse alone whether 'grāhyaṃ' marks collection, ingestion, or ritual appropriation."
+   ],
+   "plain_english": "The juice of madraka is to be taken, and likewise that of lakṣaṇa and of makara."
+  }
+ ]
+}

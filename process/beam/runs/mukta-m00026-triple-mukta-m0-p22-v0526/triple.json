@@ -1,0 +1,485 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 526,
+   "rows": [
+    {
+     "surface": "tārā",
+     "gloss": "tārā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "epithet for a supreme goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripurasundarī",
+     "gloss": "tripurasundarī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are identified as great knowledges alongside Tārā?",
+   "premises": [
+    "Tārā is named explicitly.",
+    "Tārā is identified as a great knowledge.",
+    "Tripurasundarī is likewise included."
+   ],
+   "inference": "Tārā and Tripurasundarī are both counted among the great knowledges.",
+   "uncertainties": [],
+   "plain_english": "Tārā indeed is a great knowledge, and likewise Tripurasundarī."
+  },
+  {
+   "verse": 527,
+   "rows": [
+    {
+     "surface": "tvaritā",
+     "gloss": "tvaritā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "annapūrṇā",
+     "gloss": "annapūrṇā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgvādinī",
+     "gloss": "vāgvādinī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which additional goddesses are enumerated in address to the beloved?",
+   "premises": [
+    "Tvaritā is named in the list.",
+    "Annapūrṇā is added by conjunction.",
+    "Vāgvādinī is likewise included."
+   ],
+   "inference": "Tvaritā, Annapūrṇā, and Vāgvādinī are included among the enumerated goddesses.",
+   "uncertainties": [],
+   "plain_english": "Tvaritā and Annapūrṇā, and likewise Vāgvādinī, O beloved."
+  },
+  {
+   "verse": 528,
+   "rows": [
+    {
+     "surface": "dhūmāvatī",
+     "gloss": "dhūmāvatī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyaṅgirā+ādikāḥ",
+     "gloss": "pratyaṅgirā-and-others",
+     "grounds": "compound naming Pratyaṅgirā and similar goddesses",
+     "morph": "compound: pratyaṅgirā+ādikāḥ (f.nom.pl)"
+    }
+   ],
+   "question": "Which further goddesses complete the enumerated group including Pratyaṅgirā?",
+   "premises": [
+    "Dhūmāvatī is named in the list.",
+    "Bhairavī is added by conjunction.",
+    "Pratyaṅgirā and others are likewise included."
+   ],
+   "inference": "Dhūmāvatī, Bhairavī, and Pratyaṅgirā with others complete this enumeration.",
+   "uncertainties": [],
+   "plain_english": "Dhūmāvatī and Bhairavī, and likewise Pratyaṅgirā and others."
+  },
+  {
+   "verse": 529,
+   "rows": [
+    {
+     "surface": "etāsāṃ",
+     "gloss": "of-these",
+     "grounds": "demonstrative referring to the previously named goddesses",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "japa+mantreṇa",
+     "gloss": "by-recitation-mantra",
+     "grounds": "compound indicating mantra used in recitation",
+     "morph": "compound: japa+mantreṇa (m.inst.sg)"
+    },
+    {
+     "surface": "nidrā+bhaṅgaḥ",
+     "gloss": "sleep-breaking",
+     "grounds": "compound denoting interruption of sleep",
+     "morph": "compound: nidrā+bhaṅgaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "abhijāyate",
+     "gloss": "arises",
+     "grounds": "verb expressing occurrence",
+     "morph": "3.sg.pres.pass (√jan)"
+    }
+   ],
+   "question": "What effect arises from reciting the mantras of these goddesses?",
+   "premises": [
+    "The referent is the previously named goddesses.",
+    "Their recitation mantra is employed.",
+    "Breaking of sleep arises from this practice."
+   ],
+   "inference": "Recitation of these goddesses' mantras causes the breaking of sleep.",
+   "uncertainties": [],
+   "plain_english": "By reciting the mantras of these goddesses, sleep is broken."
+  },
+  {
+   "verse": 530,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle introducing a rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāsāṃ",
+     "gloss": "of-these",
+     "grounds": "demonstrative referring to the goddesses",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "japa+pūjāyāṃ",
+     "gloss": "in-recitation-worship",
+     "grounds": "compound denoting recitation and worship",
+     "morph": "compound: japa+pūjāyāṃ (f.loc.sg)"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "harm",
+     "grounds": "loss or detriment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "uttara+uttaram",
+     "gloss": "higher-and-higher",
+     "grounds": "reduplicative compound indicating progressive increase",
+     "morph": "compound: uttara+uttaram (indecl.)"
+    }
+   ],
+   "question": "Does continued recitation and worship of these goddesses cause any harm?",
+   "premises": [
+    "The practice concerns recitation and worship of these goddesses.",
+    "The question asks about possible harm.",
+    "The practice is considered progressively higher and higher."
+   ],
+   "inference": "There is no harm in their recitation and worship; it becomes progressively superior.",
+   "uncertainties": [],
+   "plain_english": "What harm could there be in their recitation and worship? It becomes higher and higher."
+  },
+  {
+   "verse": 531,
+   "rows": [
+    {
+     "surface": "satyā+di",
+     "gloss": "satya-and-so-on",
+     "grounds": "compound referring to Satya and subsequent ages",
+     "morph": "compound: satyā+di (n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catur+yuge",
+     "gloss": "in-four-age",
+     "grounds": "compound denoting the cycle of four ages",
+     "morph": "compound: catur+yuge (n.loc.sg)"
+    },
+    {
+     "surface": "sarva+jātiṣu",
+     "gloss": "in-all-classes",
+     "grounds": "compound indicating all social classes",
+     "morph": "compound: sarva+jātiṣu (f.loc.pl)"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "name of the goddess Kālikā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "For whom and in which ages is Kālikā accessible as a deity?",
+   "premises": [
+    "The context spans the four ages beginning with Satya.",
+    "The context includes all classes.",
+    "Kālikā is affirmed in this universal scope."
+   ],
+   "inference": "Kālikā is accessible in all four ages and among all classes.",
+   "uncertainties": [],
+   "plain_english": "In the four ages beginning with Satya, and among all classes, there is Kālikā."
+  },
+  {
+   "verse": 532,
+   "rows": [
+    {
+     "surface": "upāyāṃs",
+     "gloss": "means",
+     "grounds": "methods or practices",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb referring to that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "i-shall-tell",
+     "grounds": "speaker's declaration of intent",
+     "morph": "1.sg.fut.act (√vac)"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun indicating instrument",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "verb expressing occurrence",
+     "morph": "3.sg.pres.pass (√jan)"
+    }
+   ],
+   "question": "What promise is made regarding the means to attain success with Kālikā?",
+   "premises": [
+    "The speaker intends to tell the means.",
+    "The means pertain to that context.",
+    "Success arises through those means."
+   ],
+   "inference": "The speaker will explain the means by which success in that context arises.",
+   "uncertainties": [],
+   "plain_english": "There I shall tell the means by which success arises."
+  },
+  {
+   "verse": 533,
+   "rows": [
+    {
+     "surface": "bahu+kāle",
+     "gloss": "in-long-time",
+     "grounds": "compound indicating a long duration",
+     "morph": "compound: bahu+kāle (m.loc.sg)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb expressing occurrence",
+     "morph": "3.sg.pres.pass (√jan)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb indicating this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśyaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty or hesitation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How certain and timely is the attainment of success through these means?",
+   "premises": [
+    "Success arises after a long time.",
+    "The arising of success is affirmed.",
+    "Doubt about this matter is explicitly denied."
+   ],
+   "inference": "Success will certainly arise, though only after a long time.",
+   "uncertainties": [
+    "Surface 'saṃśyaḥ' may reflect a variant spelling of 'saṃśayaḥ'."
+   ],
+   "plain_english": "Then success arises after a long time; there is no doubt about this."
+  },
+  {
+   "verse": 534,
+   "rows": [
+    {
+     "surface": "japa+pūjā",
+     "gloss": "recitation-worship",
+     "grounds": "compound denoting recitation and worship",
+     "morph": "compound: japa+pūjā (f.nom.sg)"
+    },
+    {
+     "surface": "sadaiva",
+     "gloss": "always",
+     "grounds": "adverb indicating constant practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsāṃ",
+     "gloss": "of-these",
+     "grounds": "demonstrative referring to the goddesses",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "praśastā",
+     "gloss": "commended",
+     "grounds": "praised or recommended",
+     "morph": "f.nom.sg (ppp)"
+    },
+    {
+     "surface": "vīra+vandite",
+     "gloss": "o-hero-praised-one",
+     "grounds": "vocative compound addressing one praised by heroes",
+     "morph": "compound: vīra+vandite (f.voc.sg)"
+    }
+   ],
+   "question": "What ongoing practice toward these goddesses is commended to the praised one?",
+   "premises": [
+    "Recitation and worship of these goddesses is the subject.",
+    "This practice is to be done always.",
+    "The practice is explicitly commended."
+   ],
+   "inference": "Constant recitation and worship of these goddesses is commended.",
+   "uncertainties": [],
+   "plain_english": "Recitation and worship of these goddesses is always commended, O one praised by heroes."
+  },
+  {
+   "verse": 535,
+   "rows": [
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb expressing occurrence",
+     "morph": "3.sg.pres.pass (√jan)"
+    },
+    {
+     "surface": "subhage",
+     "gloss": "o-fortunate-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mātaḥ",
+     "gloss": "o-mother",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "guru+bhaktiḥ",
+     "gloss": "guru-devotion",
+     "grounds": "compound denoting devotion to the guru",
+     "morph": "compound: guru+bhaktiḥ (f.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing condition or possibility",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does devotion to the guru arise in the practitioner?",
+   "premises": [
+    "Devotion to the guru is the outcome in question.",
+    "The arising of this devotion is conditional.",
+    "The condition is introduced by 'if'."
+   ],
+   "inference": "Devotion to the guru arises if the requisite condition is fulfilled.",
+   "uncertainties": [
+    "The protasis condition is not explicitly stated in this verse alone."
+   ],
+   "plain_english": "O fortunate one, O mother, devotion to the guru arises, if it may be."
+  }
+ ]
+}

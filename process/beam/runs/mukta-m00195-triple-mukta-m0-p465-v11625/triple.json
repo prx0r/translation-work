@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p465",
+ "items": [
+  {
+   "verse": 11625,
+   "rows": [
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "netradvaye",
+     "gloss": "on-eye-pair",
+     "grounds": "locative of compound indicating both eyes",
+     "morph": "netra+dvaya (compound), n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sumukhānte",
+     "gloss": "at-face-end",
+     "grounds": "locative of compound indicating the end of the face",
+     "morph": "sumukha+anta (compound), n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "on-heart",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which bodily locations are specified for placement in this nyāsa sequence?",
+   "premises": [
+    "The head is named as a location of placement.",
+    "The pair of eyes is named as a location of placement.",
+    "The end of the face and the heart are likewise named as locations of placement."
+   ],
+   "inference": "The nyāsa sequence assigns placement to the head, the two eyes, the end of the face, and the heart.",
+   "uncertainties": [
+    "The exact anatomical referent of sumukhānte in this ritual context is not fully explicit."
+   ],
+   "plain_english": "One should place them on the head, on the pair of eyes, likewise at the end of the face, and on the heart."
+  }
+ ]
+}

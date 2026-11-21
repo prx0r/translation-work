@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "955da041c7f0b055",
+ "source_digest_normalized_sha256": "955da041c7f0b05515ff5af4e2ba9c673de365a4a3b3ecdd1cc409aabf9309f2",
+ "source_sha256_raw": "c40f4e11545065b2acf905d3fd365dd3e18b99170918a276927b0cd8e978f161",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/ajadapramatrsiddhi.txt",
  "source_verses": 9,
  "t1_verses": 9,
  "l0": {
-  "parsed": 88,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 88
@@ -20,15 +24,15 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 7,
- "c1_words": 261,
+ "c1_iast_prose_info": 0,
+ "c1_words": 50,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 9,
   "failures": []
  },
  "ledger": {
-  "pairs": 9,
+  "pairs": 0,
   "gloss_missing_in_l2": []
  },
  "data_objects": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "955da041c7f0b055",
-  "t1": "T1-ajad-p03.md",
-  "l0": "T1-ajad-p03.l0.jsonl",
-  "l2": "L2-ajad-p03.md",
-  "c1": "c1/C1-ajad-p03.md"
+  "t1": "ajad-p03/data/ajad-p03.t1.json",
+  "l0": "ajad-p03/data/ajad-p03.l0.json",
+  "l2": "ajad-p03/data/ajad-p03.l2.json",
+  "c1": "ajad-p03/data/ajad-p03.c1.json"
  }
 }

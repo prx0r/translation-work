@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "tilakaṃ",
+     "gloss": "forehead-mark",
+     "grounds": "object of kṛtvā; ritual mark to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandal-paste",
+     "grounds": "material used to make the forehead-mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing prior action before vinyaset",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "object of vinyaset; item to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "location where the flower is to be placed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "prescriptive ritual injunction",
+     "morph": "3.sg.optative.active (vi-ni-as)"
+    }
+   ],
+   "question": "What bodily applications of sandal and flower are required following the preceding consecration?",
+   "premises": [
+    "A forehead-mark is to be made using sandal-paste.",
+    "A flower is to be placed on the head.",
+    "These actions are prescribed as ritual steps to be performed."
+   ],
+   "inference": "After the prior consecration, the practitioner must apply a sandal forehead-mark and place a flower on the head.",
+   "uncertainties": [
+    "The implicit subject performing vinyaset is not explicitly stated in this verse."
+   ],
+   "plain_english": "Having made a forehead-mark with sandal-paste, one should place a flower on the head."
+  }
+ ]
+}

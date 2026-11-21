@@ -1,0 +1,1003 @@
+{
+ "song": "mukta-m0-p194",
+ "items": [
+  {
+   "verse": 4826,
+   "rows": [
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "adverb indicating emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrakarmāpi",
+     "gloss": "prior-rite-performer-even",
+     "grounds": "compound pūra-karman with enclitic api; one who has performed prior rites",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "ritual atonement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvijottamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to foremost twice-born",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "Must even one who has completed prior rites perform expiation, O foremost twice-born?",
+   "premises": [
+    "The addressees are the foremost twice-born.",
+    "The subject has already performed prior rites.",
+    "Expiation is especially required even in that case."
+   ],
+   "inference": "Completion of prior rites does not remove the need for expiation.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, even one who has already performed the prior rites must especially undergo expiation."
+  },
+  {
+   "verse": 4827,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative particle introducing alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utsave",
+     "gloss": "in-festival",
+     "grounds": "ritual festival context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhvaje",
+     "gloss": "on-banner",
+     "grounds": "festival banner",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "siṃhaṃ",
+     "gloss": "lion",
+     "grounds": "emblem option",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vṛṣabhaṃ",
+     "gloss": "bull",
+     "grounds": "emblem option",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "one-should-paint",
+     "grounds": "prescriptive instruction for depiction",
+     "morph": "3.sg.optative-active √likh"
+    }
+   ],
+   "question": "Which emblem should be painted on the banner during the festival, a lion or a bull?",
+   "premises": [
+    "The context is a festival banner.",
+    "A lion is presented as one possible emblem.",
+    "A bull is presented as an alternative emblem."
+   ],
+   "inference": "The banner may bear either a lion or a bull as its emblem.",
+   "uncertainties": [],
+   "plain_english": "In the festival, should one paint a lion or a bull on the banner?"
+  },
+  {
+   "verse": 4828,
+   "rows": [
+    {
+     "surface": "śivotsave",
+     "gloss": "in-shiva-festival",
+     "grounds": "compound śiva-utsava",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "devyāstu",
+     "gloss": "of-goddess-but",
+     "grounds": "devyāḥ with enclitic tu marking contrast",
+     "morph": "f.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "each day",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cotsavo",
+     "gloss": "and-festival",
+     "grounds": "utsavaḥ with sandhi ca+utsavaḥ",
+     "morph": "(indecl.) + m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "regarded as prescribed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is a daily festival prescribed for the Goddess in the context of Śiva's festival?",
+   "premises": [
+    "The context mentioned is Śiva's festival.",
+    "The Goddess is treated as a distinct case.",
+    "A daily festival is stated as the accepted view for her."
+   ],
+   "inference": "For the Goddess, the festival is considered to be daily.",
+   "uncertainties": [],
+   "plain_english": "In Śiva's festival, however, a daily festival is considered proper for the Goddess."
+  },
+  {
+   "verse": 4829,
+   "rows": [
+    {
+     "surface": "cakrāstraṃ",
+     "gloss": "discus-weapon",
+     "grounds": "compound cakra-astra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśūlaṃ",
+     "gloss": "trident",
+     "grounds": "weapon option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyastra",
+     "gloss": "goddess-weapon",
+     "grounds": "compound devī-astra as vocative or address form",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "parigṛhyatām",
+     "gloss": "let-be-taken",
+     "grounds": "prescriptive instruction to adopt the weapon",
+     "morph": "3.sg.imperative-passive √grah with pari"
+    }
+   ],
+   "question": "Which weapon should be adopted as the Goddess's weapon, the discus or the trident?",
+   "premises": [
+    "The discus is offered as a possible weapon.",
+    "The trident is offered as an alternative weapon.",
+    "The instruction concerns the Goddess's weapon."
+   ],
+   "inference": "Either the discus or the trident may be taken as the Goddess's weapon.",
+   "uncertainties": [
+    "The exact vocative force of devyastra is slightly unclear in isolation."
+   ],
+   "plain_english": "Let the Goddess's weapon be taken as either the discus or the trident."
+  },
+  {
+   "verse": 4830,
+   "rows": [
+    {
+     "surface": "kṛtakautuka",
+     "gloss": "rite-completed",
+     "grounds": "compound kṛta-kautuka; after the auspicious rite is done",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devyāstu",
+     "gloss": "of-goddess-but",
+     "grounds": "devyāḥ with enclitic tu marking contrast",
+     "morph": "f.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "tadgrāmānnirmago",
+     "gloss": "from-that-village-departure",
+     "grounds": "compound tad-grāmāt-nirgamaḥ with final sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "After the auspicious rite is completed, may the Goddess depart from that village?",
+   "premises": [
+    "The auspicious rite for the Goddess has been completed.",
+    "Departure from that village is considered.",
+    "The text gives an emphatic negation."
+   ],
+   "inference": "The Goddess must not depart from that village after the rite is completed.",
+   "uncertainties": [],
+   "plain_english": "But once the auspicious rite has been performed, the Goddess must not depart from that village."
+  },
+  {
+   "verse": 4831,
+   "rows": [
+    {
+     "surface": "anyatrāpi",
+     "gloss": "elsewhere-also",
+     "grounds": "anyatra with enclitic api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yānaṃ",
+     "gloss": "procession",
+     "grounds": "movement or vehicle procession",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāmni",
+     "gloss": "in-shrine",
+     "grounds": "in the abode or sanctuary",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "everything kept in place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "accepted",
+     "grounds": "considered as valid opinion",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is a procession elsewhere or keeping everything within the shrine also considered acceptable?",
+   "premises": [
+    "A procession elsewhere is presented as an option.",
+    "Keeping everything in the shrine is presented as another option.",
+    "Both options are stated to be accepted."
+   ],
+   "inference": "Either a procession elsewhere or keeping all within the shrine is acceptable.",
+   "uncertainties": [],
+   "plain_english": "A procession elsewhere, or keeping everything in the shrine, is also considered acceptable."
+  },
+  {
+   "verse": 4832,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound sarva-deveṣu",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deveṣu",
+     "gloss": "among-gods",
+     "grounds": "all deities",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "common",
+     "grounds": "generally applicable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhānamidamagrajāḥ",
+     "gloss": "this-rule-foremost-born",
+     "grounds": "compound vidhānam-idam-agrajāḥ with sandhi; vocative address included",
+     "morph": "n.nom.sg + n.nom.sg + m.voc.pl"
+    }
+   ],
+   "question": "Is this prescribed rule common to all deities, O foremost twice-born?",
+   "premises": [
+    "The rule in question is being stated.",
+    "The scope mentioned is all deities.",
+    "The addressees are the foremost twice-born."
+   ],
+   "inference": "This rule applies commonly to all deities.",
+   "uncertainties": [],
+   "plain_english": "O foremost born, this rule is common to all the gods."
+  },
+  {
+   "verse": 4833,
+   "rows": [
+    {
+     "surface": "digdeva",
+     "gloss": "direction-deity",
+     "grounds": "first member of compound digdeva-mūrti",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūrtisaṃyuktaṃ",
+     "gloss": "form-joined",
+     "grounds": "compound mūrti-saṃyuktam; accompanied by forms",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṃbha",
+     "gloss": "pot",
+     "grounds": "ritual pot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "accompanied or furnished with",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Should the central pot be furnished with the forms of the directional deities?",
+   "premises": [
+    "A pot is placed in the middle.",
+    "Directional deities and their forms are mentioned.",
+    "The pot is to be endowed with them."
+   ],
+   "inference": "The central pot should be accompanied by the directional deities and their forms.",
+   "uncertainties": [],
+   "plain_english": "In the middle, the pot should be endowed with the forms of the directional deities."
+  },
+  {
+   "verse": 4834,
+   "rows": [
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the Goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "consecration",
+     "grounds": "ritual installation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bālasthānānvitā",
+     "gloss": "temporary-shrine-endowed",
+     "grounds": "compound bāla-sthāna-anvitā; accompanied by a temporary abode",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "May her consecration everywhere be performed with or without a temporary shrine?",
+   "premises": [
+    "The consecration of the Goddess is under discussion.",
+    "It may be accompanied by a temporary shrine.",
+    "The alternative of not having it is also allowed."
+   ],
+   "inference": "Her consecration may be done either with or without a temporary shrine.",
+   "uncertainties": [],
+   "plain_english": "Her consecration may everywhere be performed either with a temporary shrine or without one."
+  },
+  {
+   "verse": 4835,
+   "rows": [
+    {
+     "surface": "tasmāddevyagrataḥ",
+     "gloss": "therefore-before-goddess",
+     "grounds": "compound tasmāt-devī-agrataḥ with sandhi",
+     "morph": "(indecl.) + f.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "tvabhiṣekaṃ",
+     "gloss": "but-anointing",
+     "grounds": "tu with abhiṣekam; royal anointing",
+     "morph": "(indecl.) + m.acc.sg"
+    },
+    {
+     "surface": "nṛpasyatu",
+     "gloss": "of-king-but",
+     "grounds": "nṛpasya with enclitic tu",
+     "morph": "m.gen.sg + (indecl.)"
+    }
+   ],
+   "question": "Should the king's anointing therefore be performed in front of the Goddess?",
+   "premises": [
+    "The instruction follows from what precedes.",
+    "The rite in question is the king's anointing.",
+    "The location specified is in front of the Goddess."
+   ],
+   "inference": "The king's anointing should be performed before the Goddess.",
+   "uncertainties": [],
+   "plain_english": "Therefore, one should perform the king's anointing in front of the Goddess."
+  },
+  {
+   "verse": 4836,
+   "rows": [
+    {
+     "surface": "purādāvaṣṭadikṣvanta",
+     "gloss": "from-city-first-in-eight-directions",
+     "grounds": "compound purāt-ādau-aṣṭa-dikṣu-anta with sandhi; indicating directions from the city",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāntarāle",
+     "gloss": "or-in-intermediate-space",
+     "grounds": "vā with antarāle; intermediate directions or spaces",
+     "morph": "(indecl.) + n.loc.sg"
+    },
+    {
+     "surface": "tadālayaḥ",
+     "gloss": "her-abode",
+     "grounds": "compound tad-ālayaḥ; that abode",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where should her abode be established relative to the city, in the eight directions or intermediate spaces?",
+   "premises": [
+    "The location is described in relation to the city.",
+    "The eight directions are given as possible locations.",
+    "Intermediate spaces are given as alternatives."
+   ],
+   "inference": "Her abode may be established in the eight directions from the city or in the intermediate spaces.",
+   "uncertainties": [
+    "The internal segmentation of purādāvaṣṭadikṣvanta is compact and interpretive."
+   ],
+   "plain_english": "Her abode may be placed in the eight directions from the city or in the intermediate spaces."
+  },
+  {
+   "verse": 4837,
+   "rows": [
+    {
+     "surface": "caityavṛkṣādi",
+     "gloss": "sacred-tree-and-other",
+     "grounds": "compound caitya-vṛkṣa-ādi",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deśeṣu",
+     "gloss": "in-places",
+     "grounds": "locations",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tanmūle",
+     "gloss": "at-its-root",
+     "grounds": "compound tad-mūle; at the root of that tree",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akhilālaye",
+     "gloss": "in-all-abodes",
+     "grounds": "compound akhila-ālaya; in any abode or dwelling place",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "May the abode be established at sacred trees or at their roots in various dwelling places?",
+   "premises": [
+    "Sacred trees and similar places are mentioned as locations.",
+    "The root of such a tree is specified as an option.",
+    "Various dwelling places are included as possible sites."
+   ],
+   "inference": "The abode may be established at sacred trees, at their roots, or in other dwelling places.",
+   "uncertainties": [],
+   "plain_english": "It may be established in places with sacred trees and the like, at their roots, or in any dwelling place."
+  },
+  {
+   "verse": 4838,
+   "rows": [
+    {
+     "surface": "yatheṣṭadiśi",
+     "gloss": "in-desired-direction",
+     "grounds": "compound yathā-iṣṭa-diśi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "front or face of the image",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative possibility",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "vighneśasya",
+     "gloss": "of-vighnesha",
+     "grounds": "of Gaṇeśa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "stated in the tradition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "May Vighneśa's face be oriented in any desired direction according to the declared rule?",
+   "premises": [
+    "The subject is Vighneśa's face.",
+    "Any desired direction is mentioned as possible.",
+    "This orientation is stated as declared."
+   ],
+   "inference": "Vighneśa's face may be oriented in any desired direction.",
+   "uncertainties": [],
+   "plain_english": "Indeed, it is declared that Vighneśa's face may be oriented in any desired direction."
+  },
+  {
+   "verse": 4839,
+   "rows": [
+    {
+     "surface": "ekādi",
+     "gloss": "one-and-so-on",
+     "grounds": "compound beginning with one",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "navabhūmyantabhūmibhāga",
+     "gloss": "up-to-nine-story-section",
+     "grounds": "compound nava-bhūmi-anta-bhūmi-bhāga; sections up to nine stories",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "provided with or comprising",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Should the structure be endowed with sections ranging from one up to nine stories?",
+   "premises": [
+    "The structure is described by its sectional composition.",
+    "The range begins at one story.",
+    "The range extends up to nine stories."
+   ],
+   "inference": "The structure may comprise from one up to nine stories.",
+   "uncertainties": [],
+   "plain_english": "It should be endowed with sections ranging from one story up to nine stories."
+  },
+  {
+   "verse": 4840,
+   "rows": [
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "cardinal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vighneśvaropetaḥ",
+     "gloss": "with-vighneshvara",
+     "grounds": "compound vighneśvara-upetaḥ; accompanied by Vighneśvara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "koṇe",
+     "gloss": "in-corner",
+     "grounds": "intermediate corner direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūṣikasaṃyutaḥ",
+     "gloss": "joined-with-mouse",
+     "grounds": "compound mūṣika-saṃyutaḥ; accompanied by the mouse mount",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Should Vighneśvara be placed in the directions and accompanied by the mouse in the corners?",
+   "premises": [
+    "Vighneśvara is associated with the directions.",
+    "The mouse is associated with the corners.",
+    "Both placements are specified together."
+   ],
+   "inference": "Vighneśvara should be present in the directions and joined with the mouse in the corners.",
+   "uncertainties": [],
+   "plain_english": "In the directions it should be accompanied by Vighneśvara, and in the corners joined with the mouse."
+  },
+  {
+   "verse": 4841,
+   "rows": [
+    {
+     "surface": "pūrvavatkṛtasadgarbhaḥ",
+     "gloss": "as-before-made-proper-womb",
+     "grounds": "compound pūrvavat-kṛta-sad-garbhaḥ; with a proper foundation deposit made as before",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prathameṣṭakayānvitaḥ",
+     "gloss": "with-first-brick-endowed",
+     "grounds": "compound prathama-iṣṭakayā-anvitaḥ; furnished with the first brick",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Must the foundation be prepared as before with a proper womb deposit and the first brick?",
+   "premises": [
+    "The preparation follows the earlier method.",
+    "A proper womb deposit is required.",
+    "The first brick must be included."
+   ],
+   "inference": "The foundation should be made as before with a proper womb deposit and the first brick.",
+   "uncertainties": [],
+   "plain_english": "It should be prepared as before with a proper foundation deposit and endowed with the first brick."
+  },
+  {
+   "verse": 4842,
+   "rows": [
+    {
+     "surface": "dhāmnassaṃsthāpanenāpi",
+     "gloss": "by-shrine-installation-also",
+     "grounds": "compound dhāmnaḥ-saṃsthāpanena with enclitic api",
+     "morph": "n.gen.sg + n.inst.sg + (indecl.)"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "endowed",
+     "grounds": "properly furnished or conjoined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāguktavartmanā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound prāk-ukta-vartmanā; according to the path stated earlier",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "Should the installation of the shrine also follow the previously stated procedure?",
+   "premises": [
+    "The installation of the shrine is included.",
+    "A previously stated method exists.",
+    "The installation should conform to that method."
+   ],
+   "inference": "The shrine's installation should also be carried out according to the previously stated procedure.",
+   "uncertainties": [],
+   "plain_english": "It should also be furnished with the installation of the shrine according to the previously stated method."
+  },
+  {
+   "verse": 4843,
+   "rows": [
+    {
+     "surface": "maṇṭapo",
+     "gloss": "pavilion",
+     "grounds": "possible form of the abode",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "layastasya",
+     "gloss": "his-abode",
+     "grounds": "compound layaḥ-tasya with sandhi; abode of that deity",
+     "morph": "m.nom.sg + m.gen.sg"
+    },
+    {
+     "surface": "kūṭādyākāra",
+     "gloss": "peak-and-other-form",
+     "grounds": "compound kūṭa-ādi-ākāra; having a peaked or similar shape",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "May his abode be a pavilion or alternatively have a peaked and similar form?",
+   "premises": [
+    "A pavilion is given as one possible form.",
+    "A peaked or similar form is given as another possibility.",
+    "Both are presented as options for his abode."
+   ],
+   "inference": "His abode may be either a pavilion or a structure of peaked form.",
+   "uncertainties": [],
+   "plain_english": "His abode may be a pavilion, or indeed have a peaked or similar form."
+  },
+  {
+   "verse": 4844,
+   "rows": [
+    {
+     "surface": "viśvarūpaṃ",
+     "gloss": "universal-form",
+     "grounds": "compound viśva-rūpam; having all forms",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viśālākṣamakṣayaṃ",
+     "gloss": "wide-eyed-imperishable",
+     "grounds": "compound viśāla-akṣam-akṣayam with sandhi; wide-eyed and undecaying",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madavibhramam",
+     "gloss": "intoxication-swaying",
+     "grounds": "compound mada-vibhramam; displaying the agitation of intoxication",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the deity characterized by universal form, wide eyes, imperishability, and intoxicated bearing?",
+   "premises": [
+    "The deity is described as having universal form.",
+    "The deity is described as wide-eyed and imperishable.",
+    "The deity is described as swaying with intoxication."
+   ],
+   "inference": "The deity is characterized as universal-formed, wide-eyed, imperishable, and intoxicated in bearing.",
+   "uncertainties": [],
+   "plain_english": "He is of universal form, wide-eyed and imperishable, and swaying with intoxication."
+  },
+  {
+   "verse": 4845,
+   "rows": [
+    {
+     "surface": "asyāṣṭamūrtīśānvāṣṭapīṭhānidrādyadhiṣṭhitān",
+     "gloss": "her-eight-form-lords-or-eight-seats-nidra-etc-presided",
+     "grounds": "long compound asyāḥ-aṣṭa-mūrti-īśān-vā-aṣṭa-pīṭhān-nidrā-ādi-adhiṣṭhitān; objects presided over by Nidrā and others",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Are her eight lords of forms or eight seats to be understood as presided over by Nidrā and others?",
+   "premises": [
+    "Eight lords of forms are mentioned as one possibility.",
+    "Eight seats are mentioned as an alternative.",
+    "These are described as presided over by Nidrā and others."
+   ],
+   "inference": "Either the eight lords of forms or the eight seats are presided over by Nidrā and others.",
+   "uncertainties": [
+    "The compact compound allows more than one syntactic unpacking."
+   ],
+   "plain_english": "Her eight lords of forms, or the eight seats, are presided over by Nidrā and the others."
+  },
+  {
+   "verse": 4846,
+   "rows": [
+    {
+     "surface": "dvārapau",
+     "gloss": "two-doorkeepers",
+     "grounds": "guardians of the gate",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "kalpayeddvāri",
+     "gloss": "one-should-appoint-at-gate",
+     "grounds": "kalpayet with dvāri; prescribe placement at the door",
+     "morph": "3.sg.optative-active √kḷp + n.loc.sg"
+    },
+    {
+     "surface": "vikaṭaṃ",
+     "gloss": "vikata",
+     "grounds": "name of a doorkeeper",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhīmameva",
+     "gloss": "bhima-indeed",
+     "grounds": "name of a doorkeeper with emphasis",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should Vikaṭa and Bhīma be appointed as the two doorkeepers at the gate?",
+   "premises": [
+    "Two doorkeepers are to be appointed.",
+    "The location specified is the gate.",
+    "Vikaṭa and Bhīma are named as those doorkeepers."
+   ],
+   "inference": "Vikaṭa and Bhīma should be appointed as the doorkeepers at the gate.",
+   "uncertainties": [],
+   "plain_english": "One should appoint Vikaṭa and Bhīma as the two doorkeepers at the gate."
+  },
+  {
+   "verse": 4847,
+   "rows": [
+    {
+     "surface": "āmodaśca",
+     "gloss": "amoda-and",
+     "grounds": "name with connective particle",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "pramodaśca",
+     "gloss": "pramoda-and",
+     "grounds": "name with connective particle",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "sumukho",
+     "gloss": "sumukha",
+     "grounds": "name of an attendant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durmukhastathā",
+     "gloss": "durmukha-likewise",
+     "grounds": "name with tathā indicating inclusion",
+     "morph": "m.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "Are Āmoda, Pramoda, Sumukha, and Durmukha enumerated as the attendant figures?",
+   "premises": [
+    "Āmoda and Pramoda are named.",
+    "Sumukha and Durmukha are named.",
+    "The names are listed together as a group."
+   ],
+   "inference": "Āmoda, Pramoda, Sumukha, and Durmukha are enumerated together.",
+   "uncertainties": [],
+   "plain_english": "Āmoda, Pramoda, Sumukha, and likewise Durmukha are named."
+  },
+  {
+   "verse": 4848,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "refers to the previously named figures",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "aṣṭamūrtipāḥ",
+     "gloss": "eight-form-guardians",
+     "grounds": "compound aṣṭa-mūrti-pāḥ; protectors of the eight forms",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "khyātāstvanyathā",
+     "gloss": "known-but-otherwise",
+     "grounds": "khyātāḥ with tu and anyathā; known, but also stated differently",
+     "morph": "m.nom.pl + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-stated",
+     "grounds": "is declared in another way",
+     "morph": "3.sg.present-passive √gad with ni"
+    }
+   ],
+   "question": "Are these figures known as guardians of the eight forms, or are they also stated otherwise?",
+   "premises": [
+    "The named figures are identified as guardians of the eight forms.",
+    "They are said to be well known.",
+    "An alternative statement about them is also mentioned."
+   ],
+   "inference": "These are known as guardians of the eight forms, though they are also described otherwise.",
+   "uncertainties": [],
+   "plain_english": "These are known as the guardians of the eight forms, but they are also stated otherwise."
+  },
+  {
+   "verse": 4849,
+   "rows": [
+    {
+     "surface": "vināyakaikadantau",
+     "gloss": "vinayaka-and-ekadanta",
+     "grounds": "dual compound naming two figures",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣyapriyo",
+     "gloss": "fond-of-food",
+     "grounds": "compound bhakṣya-priyaḥ with sandhi; one who loves food offerings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahi",
+     "gloss": "serpent",
+     "grounds": "first member of compound ahi-mekhalaḥ",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mekhalaḥ",
+     "gloss": "girdle",
+     "grounds": "one having a serpent as girdle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Are Vināyaka and Ekadanta described as fond of food and wearing a serpent girdle?",
+   "premises": [
+    "Vināyaka and Ekadanta are named together.",
+    "Fondness for food is attributed.",
+    "A serpent girdle is attributed."
+   ],
+   "inference": "Vināyaka and Ekadanta are characterized as fond of food and wearing a serpent girdle.",
+   "uncertainties": [
+    "The singular descriptive compounds may qualify the pair collectively or one of them; the verse is compact."
+   ],
+   "plain_english": "Vināyaka and Ekadanta are fond of food and wear a serpent as a girdle."
+  }
+ ]
+}

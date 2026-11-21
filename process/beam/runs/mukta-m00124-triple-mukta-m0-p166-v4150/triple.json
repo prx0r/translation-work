@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p166",
+ "items": [
+  {
+   "verse": 4150,
+   "rows": [
+    {
+     "surface": "ācāryaḥ",
+     "gloss": "teacher",
+     "grounds": "qualified teacher in ritual context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrayogyaḥ",
+     "gloss": "mantra-worthy",
+     "grounds": "fit for mantra practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthapatiḥ",
+     "gloss": "master-builder",
+     "grounds": "construction supervisor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "work",
+     "grounds": "construction task",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "causes-to-do",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt (root kṛ)"
+    }
+   ],
+   "question": "Which qualified person should cause the construction work to be performed when the ācārya is mantra-worthy?",
+   "premises": [
+    "ācārya is mantra-worthy",
+    "sthapati causes work",
+    "defective lines harm patron and artisan"
+   ],
+   "inference": "mantra-worthiness of the ācārya does not make him the builder; the sthapati executes the work",
+   "uncertainties": [
+    "tu may mark contrast or exception",
+    "karma may mean ritual work or construction work"
+   ],
+   "plain_english": "The ācārya is mantra-worthy, but the master-builder should cause the work to be done."
+  }
+ ]
+}

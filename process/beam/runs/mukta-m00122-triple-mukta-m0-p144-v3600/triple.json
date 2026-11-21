@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3600,
+   "rows": [
+    {
+     "surface": "mahāśaktiśca",
+     "gloss": "great-power-and",
+     "grounds": "mahāśaktiḥ plus ca fused; subject of arising",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jāyeta",
+     "gloss": "arises",
+     "grounds": "middle voice optative of jan",
+     "morph": "3.sg.mid-opt"
+    },
+    {
+     "surface": "trayāṇāmaikyavaibhavāt",
+     "gloss": "from-three-unity-glory",
+     "grounds": "ablative of compound meaning glory of unity of three",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What arises from the glory of unity of the three?",
+   "premises": [
+    "Great power arises.",
+    "Unity of three has glory.",
+    "Glory causes arising."
+   ],
+   "inference": "The verse states that great power arises from the glory of the unity of the three.",
+   "uncertainties": [
+    "The exact referent of 'three' is not specified in this verse."
+   ],
+   "plain_english": "A great power arises from the glory of the unity of the three."
+  }
+ ]
+}

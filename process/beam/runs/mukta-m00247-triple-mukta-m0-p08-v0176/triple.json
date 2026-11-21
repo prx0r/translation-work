@@ -1,0 +1,1081 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "hāṃbījāni",
+     "gloss": "hāṃ-seed-syllables",
+     "grounds": "compound seed syllable list",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇyaparāṇi",
+     "gloss": "artificial-others",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed syllables are listed as four artificial others?",
+   "premises": [
+    "hāṃ seed syllables are named",
+    "four artificial others are named",
+    "and joins the list"
+   ],
+   "inference": "The verse lists hāṃ seed syllables plus four artificial others.",
+   "uncertainties": [
+    "exact ritual referent not stated"
+   ],
+   "plain_english": "Hāṃ seed syllables and four other artificial ones are listed."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "śukrabījaṃ",
+     "gloss": "śukra-seed",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "void",
+     "grounds": "seed syllable",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kamalā",
+     "gloss": "kamalā",
+     "grounds": "name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "rasanā",
+     "gloss": "rasanā",
+     "grounds": "name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which seed and names are grouped with śukra seed?",
+   "premises": [
+    "śukra seed is named",
+    "void seed is named",
+    "kamalā and rasanā are named"
+   ],
+   "inference": "The verse groups śukra seed, void seed, kamalā, and rasanā.",
+   "uncertainties": [
+    "ritual function not stated"
+   ],
+   "plain_english": "Śukra seed, void seed, kamalā, and rasanā are listed together."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "payo",
+     "gloss": "water",
+     "grounds": "seed",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "mantra term",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "prokta",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "v.3.sg.pass-past+root-vac"
+    },
+    {
+     "surface": "ekaviṃśākṣaraḥ",
+     "gloss": "twenty-one-syllabled",
+     "grounds": "compound numeral",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What mantra is declared at the end with water seed?",
+   "premises": [
+    "at end water is named",
+    "mantra is declared",
+    "twenty-one syllabled is stated"
+   ],
+   "inference": "A twenty-one-syllabled mantra with water seed is declared at the end.",
+   "uncertainties": [
+    "exact mantra text not given"
+   ],
+   "plain_english": "At the end, a twenty-one-syllabled mantra with water seed is declared."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "vroṃbījāni",
+     "gloss": "vroṃ-seed-syllables",
+     "grounds": "compound seed syllable list",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaiva",
+     "gloss": "five-only",
+     "grounds": "numeral particle",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇyaparāṇi",
+     "gloss": "artificial-others",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many artificial other seed syllables accompany vroṃ?",
+   "premises": [
+    "vroṃ seed syllables are named",
+    "five only are stated",
+    "artificial others are named"
+   ],
+   "inference": "Five artificial other seed syllables accompany vroṃ.",
+   "uncertainties": [
+    "exact list not given"
+   ],
+   "plain_english": "Vroṃ seed syllables and five other artificial ones are listed."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "hanumate",
+     "gloss": "to-hanumān",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāmadūtāya",
+     "gloss": "to-rāma-messenger",
+     "grounds": "dative compound",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is the mantra sequence directed after Hanumān?",
+   "premises": [
+    "to Hanumān is stated",
+    "then afterwards is stated",
+    "to Rāma messenger is stated"
+   ],
+   "inference": "After Hanumān, the sequence is directed to Rāma's messenger.",
+   "uncertainties": [
+    "exact mantra not given"
+   ],
+   "plain_english": "Then afterwards, again, it is directed to Rāma's messenger."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "bhūtāya",
+     "gloss": "to-bhūta",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "śākinī",
+     "gloss": "śākinī",
+     "grounds": "name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍākinī",
+     "gloss": "ḍākinī",
+     "grounds": "name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which beings are named after the bhūta recipient?",
+   "premises": [
+    "to bhūta is stated",
+    "śākinī is named",
+    "ḍākinī is named"
+   ],
+   "inference": "Śākinī and ḍākinī are named after the bhūta recipient.",
+   "uncertainties": [
+    "ritual order beyond stated"
+   ],
+   "plain_english": "To bhūta, then śākinī and ḍākinī are named thereafter."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "vibhīṣaṇāya",
+     "gloss": "to-vibhīṣaṇa",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "hanumaddevāya",
+     "gloss": "to-hanumān-god",
+     "grounds": "dative compound",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "thereafter",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which recipients follow in the mantra sequence?",
+   "premises": [
+    "to Vibhīṣaṇa is stated",
+    "to Hanumān god is stated",
+    "thereafter is stated"
+   ],
+   "inference": "Vibhīṣaṇa and Hanumān-god are named as recipients thereafter.",
+   "uncertainties": [
+    "exact mantra not given"
+   ],
+   "plain_english": "Thereafter, Vibhīṣaṇa and Hanumān-god are named."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "haram",
+     "gloss": "haram",
+     "grounds": "seed syllable",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "āpastathānte'pi",
+     "gloss": "water-likewise-at-end-also",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaṣaṣṭyakṣaro",
+     "gloss": "sixty-seven-syllabled",
+     "grounds": "compound numeral",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "mantra term",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What mantra is described with haram and water at the end?",
+   "premises": [
+    "haram is named",
+    "water likewise at end also is stated",
+    "sixty-seven syllabled mantra is stated"
+   ],
+   "inference": "A sixty-seven-syllabled mantra with haram and water at the end is described.",
+   "uncertainties": [
+    "exact mantra text not given"
+   ],
+   "plain_english": "Haram and water at the end form a sixty-seven-syllabled mantra."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "abdhibījaṃ",
+     "gloss": "ocean-seed",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kalpabījaṃ",
+     "gloss": "kalpa-seed",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "śataghnī bījasaṃyutam",
+     "gloss": "śataghnī-seed-endowed-with",
+     "grounds": "compound with space",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which seeds are said to be endowed with śataghnī seed?",
+   "premises": [
+    "ocean seed is named",
+    "kalpa seed is named",
+    "śataghnī seed endowed is stated"
+   ],
+   "inference": "Ocean seed and kalpa seed are endowed with śataghnī seed.",
+   "uncertainties": [
+    "exact mantra not given"
+   ],
+   "plain_english": "Ocean seed and kalpa seed are endowed with śataghnī seed."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "ante'po",
+     "gloss": "at-end-water",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavasyāyaṃ",
+     "gloss": "of-bhairava-this",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "manuraṣṭādaśākṣaraḥ",
+     "gloss": "mantra-eighteen-syllabled",
+     "grounds": "compound numeral",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What mantra of Bhairava is described at the end with water?",
+   "premises": [
+    "at end water is stated",
+    "of Bhairava this is stated",
+    "eighteen syllabled mantra is stated"
+   ],
+   "inference": "An eighteen-syllabled mantra of Bhairava with water at the end is described.",
+   "uncertainties": [
+    "exact mantra text not given"
+   ],
+   "plain_english": "At the end, water forms an eighteen-syllabled mantra of Bhairava."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "vīṃ bījāni",
+     "gloss": "vīṃ-seed-syllables",
+     "grounds": "compound seed syllable list",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaivam",
+     "gloss": "five-thus",
+     "grounds": "numeral adverb",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "anṛtānyaparāṇi",
+     "gloss": "unreal-others",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many unreal other seed syllables accompany vīṃ?",
+   "premises": [
+    "vīṃ seed syllables are named",
+    "five thus are stated",
+    "unreal others are named"
+   ],
+   "inference": "Five unreal other seed syllables accompany vīṃ.",
+   "uncertainties": [
+    "exact list not given"
+   ],
+   "plain_english": "Vīṃ seed syllables and five other unreal ones are listed."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "ruṃbījāni",
+     "gloss": "ruṃ-seed-syllables",
+     "grounds": "compound seed syllable list",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇyaparāṇi",
+     "gloss": "artificial-others",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many artificial other seed syllables accompany ruṃ?",
+   "premises": [
+    "ruṃ seed syllables are named",
+    "four are stated",
+    "artificial others are named"
+   ],
+   "inference": "Four artificial other seed syllables accompany ruṃ.",
+   "uncertainties": [
+    "exact list not given"
+   ],
+   "plain_english": "Ruṃ seed syllables and four other artificial ones are listed."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "dhruṃ bījānyevam",
+     "gloss": "dhruṃ-seed-syllables-thus",
+     "grounds": "compound seed syllable list",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtrimāṇyaparāṇi",
+     "gloss": "artificial-others",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many artificial other seed syllables accompany dhruṃ?",
+   "premises": [
+    "dhruṃ seed syllables are named",
+    "eight are stated",
+    "artificial others are named"
+   ],
+   "inference": "Eight artificial other seed syllables accompany dhruṃ.",
+   "uncertainties": [
+    "exact list not given"
+   ],
+   "plain_english": "Dhruṃ seed syllables and eight other artificial ones are listed."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "ghnīṃ bījāni",
+     "gloss": "ghnīṃ-seed-syllables",
+     "grounds": "compound seed syllable list",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaivam",
+     "gloss": "five-thus",
+     "grounds": "numeral adverb",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "asatyānyaparāṇi",
+     "gloss": "unreal-others",
+     "grounds": "compound",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many unreal other seed syllables accompany ghnīṃ?",
+   "premises": [
+    "ghnīṃ seed syllables are named",
+    "five thus are stated",
+    "unreal others are named"
+   ],
+   "inference": "Five unreal other seed syllables accompany ghnīṃ.",
+   "uncertainties": [
+    "exact list not given"
+   ],
+   "plain_english": "Ghnīṃ seed syllables and five other unreal ones are listed."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "tasmācchaktiḥ",
+     "gloss": "from-that-śakti",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "khaṃ",
+     "gloss": "khaṃ",
+     "grounds": "seed syllable",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "śarad",
+     "gloss": "śarat",
+     "grounds": "season term",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "dhṛjjatrāsau",
+     "gloss": "dhṛk-jatrā-this",
+     "grounds": "fused sandhi form",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mantroddhāro",
+     "gloss": "mantra-extraction",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "mṛtyuṃjayasya",
+     "gloss": "of-mṛtyuṃjaya",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    }
+   ],
+   "question": "What mantra extraction is declared for Mṛtyuṃjaya?",
+   "premises": [
+    "from that śakti is stated",
+    "khaṃ and śarat are named",
+    "mantra extraction of Mṛtyuṃjaya is stated"
+   ],
+   "inference": "A mantra extraction for Mṛtyuṃjaya is declared from that śakti with khaṃ and śarat.",
+   "uncertainties": [
+    "exact extraction method not stated"
+   ],
+   "plain_english": "From that śakti, with khaṃ and śarat, the Mṛtyuṃjaya mantra is extracted."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "name",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "padmau",
+     "gloss": "two-lotuses",
+     "grounds": "dual",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "kūrca",
+     "gloss": "kūrca",
+     "grounds": "term",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "padmau",
+     "gloss": "two-lotuses",
+     "grounds": "dual",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "samastā",
+     "gloss": "samastā",
+     "grounds": "term",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "padmau",
+     "gloss": "two-lotuses",
+     "grounds": "dual",
+     "morph": "n.nom.du.m"
+    },
+    {
+     "surface": "nīram",
+     "gloss": "water",
+     "grounds": "seed",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "sugrīvamantraḥ",
+     "gloss": "sugrīva-mantra",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What components make up the Sugrīva mantra?",
+   "premises": [
+    "Kālī is named",
+    "lotuses, kūrca, samastā, and water are named",
+    "this Sugrīva mantra is stated"
+   ],
+   "inference": "The Sugrīva mantra comprises Kālī, lotuses, kūrca, samastā, and water.",
+   "uncertainties": [
+    "exact arrangement not stated"
+   ],
+   "plain_english": "This Sugrīva mantra includes Kālī, lotuses, kūrca, samastā, and water."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "mayākhyātāḥ",
+     "gloss": "by-me-declared",
+     "grounds": "participle",
+     "morph": "v.1.sg.pass-past+root-khyā"
+    },
+    {
+     "surface": "sureśāni",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative compound",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "hyete",
+     "gloss": "indeed-these",
+     "grounds": "demonstrative particle",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "vai",
+     "gloss": "verily",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptabālakāḥ",
+     "gloss": "seven-children",
+     "grounds": "compound numeral",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "What has been declared to the goddess of gods?",
+   "premises": [
+    "by me declared is stated",
+    "o goddess of gods is addressed",
+    "these seven children are stated"
+   ],
+   "inference": "Seven children have been declared to the goddess of gods.",
+   "uncertainties": [
+    "identity of children not stated"
+   ],
+   "plain_english": "I have declared these seven children to you, goddess of gods."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "bravīmi",
+     "gloss": "I-speak",
+     "grounds": "verb",
+     "morph": "v.1.sg.act-pres+root-brū"
+    },
+    {
+     "surface": "bhavatāṃ",
+     "gloss": "of-you",
+     "grounds": "genitive",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "prītyā",
+     "gloss": "with-affection",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "ājñāpayitumarhatha",
+     "gloss": "to-command-you-should",
+     "grounds": "infinitive compound",
+     "morph": "v.2.pl.act-pres+root-ājñā"
+    }
+   ],
+   "question": "What does the speaker ask the listeners to do?",
+   "premises": [
+    "I speak is stated",
+    "of you is stated",
+    "with affection is stated",
+    "to command you should is stated"
+   ],
+   "inference": "The speaker asks the listeners to command with affection.",
+   "uncertainties": [
+    "command content not stated"
+   ],
+   "plain_english": "I speak; you should command with affection."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "kośākhyānaṃ",
+     "gloss": "kośa-explanation",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "chapter",
+     "grounds": "term",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is the name of the third chapter?",
+   "premises": [
+    "kośa explanation is named",
+    "named is stated",
+    "third chapter is stated"
+   ],
+   "inference": "The third chapter is named kośa explanation.",
+   "uncertainties": [
+    "chapter scope not stated"
+   ],
+   "plain_english": "The third chapter is named kośa explanation."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "navagrahāṇām",
+     "gloss": "of-nine-planets",
+     "grounds": "genitive compound",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "asmākaṃ",
+     "gloss": "of-us",
+     "grounds": "genitive",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "manūṃstvaṃ",
+     "gloss": "mantras-you",
+     "grounds": "fused sandhi form",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "vaktumarhasi",
+     "gloss": "to-tell-you-should",
+     "grounds": "infinitive",
+     "morph": "v.2.sg.act-pres+root-vac"
+    }
+   ],
+   "question": "What is requested regarding the nine planets' mantras?",
+   "premises": [
+    "of nine planets is stated",
+    "of us is stated",
+    "mantras you is stated",
+    "to tell you should is stated"
+   ],
+   "inference": "The speaker should tell the mantras of the nine planets.",
+   "uncertainties": [
+    "exact mantras not yet given"
+   ],
+   "plain_english": "You should tell us the mantras of the nine planets."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "navagrahāṇām",
+     "gloss": "of-nine-planets",
+     "grounds": "genitive compound",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "mantrāśca",
+     "gloss": "mantras-and",
+     "grounds": "fused sandhi form",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.pl.m"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-tell",
+     "grounds": "verb",
+     "morph": "v.1.sg.act-fut+root-vac"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "briefly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What will be told about the nine planets?",
+   "premises": [
+    "of nine planets is stated",
+    "mantras and them is stated",
+    "I shall tell briefly is stated"
+   ],
+   "inference": "The mantras of the nine planets will be told briefly.",
+   "uncertainties": [
+    "exact mantras not given"
+   ],
+   "plain_english": "I shall briefly tell the mantras of the nine planets."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "pañceṣorvāṇa devatāḥ",
+     "gloss": "of-five-arrows-arrow-deities",
+     "grounds": "compound with space",
+     "morph": "n.nom.pl.f"
+    }
+   ],
+   "question": "Which deities are identified as five?",
+   "premises": [
+    "these five are stated",
+    "o great goddess is addressed",
+    "of five arrows arrow deities is stated"
+   ],
+   "inference": "Five deities of the five-arrowed one are identified.",
+   "uncertainties": [
+    "exact deities not listed"
+   ],
+   "plain_english": "These five are deities of the five-arrowed one, O great goddess."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "khaṇḍa paraśorlocanatrayadevatāḥ",
+     "gloss": "of-khaṇḍa-paraśu-eye-triad-deities",
+     "grounds": "compound with space",
+     "morph": "n.nom.pl.f"
+    }
+   ],
+   "question": "Which deities are named for the god?",
+   "premises": [
+    "of god is stated",
+    "khaṇḍa paraśu eye triad deities is stated"
+   ],
+   "inference": "Deities of the god's khaṇḍa, paraśu, and eye triad are named.",
+   "uncertainties": [
+    "exact deities not listed"
+   ],
+   "plain_english": "The deities of the god's khaṇḍa, paraśu, and eye triad are named."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "navagrahāḥ",
+     "gloss": "nine-planets",
+     "grounds": "compound numeral",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "v.3.pl.pass-past+root-vac"
+    },
+    {
+     "surface": "śaṃbhunā",
+     "gloss": "by-śaṃbhu",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "rudrayāmale",
+     "gloss": "in-rudra-yāmala",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "By whom and where are the nine planets declared?",
+   "premises": [
+    "these nine planets are stated",
+    "declared is stated",
+    "by Śaṃbhu is stated",
+    "in Rudra Yāmala is stated"
+   ],
+   "inference": "The nine planets are declared by Śaṃbhu in the Rudra Yāmala.",
+   "uncertainties": [
+    "exact textual location not stated"
+   ],
+   "plain_english": "These nine planets are declared by Śaṃbhu in the Rudra Yāmala."
+  }
+ ]
+}

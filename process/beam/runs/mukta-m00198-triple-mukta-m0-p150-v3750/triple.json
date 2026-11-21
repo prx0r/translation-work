@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "tritaṃ",
+     "gloss": "three-fold",
+     "grounds": "adjective indicating a threefold quantity or division",
+     "morph": "adj.nom.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting this item to the preceding enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭcaturyuktaṃ",
+     "gloss": "six-four-joined",
+     "grounds": "compound: ṣaṭ (six) + catur (four) + yukta (joined); describes the measure as combined with six and four",
+     "morph": "compound adj.nom.acc.sg.n"
+    },
+    {
+     "surface": "karṇauṣakam",
+     "gloss": "karṇauṣaka",
+     "grounds": "name of the measure or unit being defined in the enumeration",
+     "morph": "n.nom.acc.sg.n"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "past passive participle stating the designation of the measure",
+     "morph": "ppp.nom.acc.sg.n (ud-ā-√hṛ)"
+    }
+   ],
+   "question": "What composition is designated for the karṇauṣaka measure in this enumeration?",
+   "premises": [
+    "The karṇauṣaka is the subject being designated.",
+    "It is described as threefold.",
+    "It is further described as joined with six and four."
+   ],
+   "inference": "Therefore, the karṇauṣaka is declared to be a threefold measure combined with six and four.",
+   "uncertainties": [
+    "The precise numerical total or structural interpretation of 'threefold joined with six and four' depends on the broader measurement system of the passage."
+   ],
+   "plain_english": "And the karṇauṣaka is declared to be threefold, combined with six and four."
+  }
+ ]
+}

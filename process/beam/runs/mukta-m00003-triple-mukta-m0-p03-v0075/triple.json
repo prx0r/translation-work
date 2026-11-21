@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating the state described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "embodiment of divine energy and siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "predicate asserting singularity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na+anyaḥ",
+     "gloss": "not-other",
+     "grounds": "negated compound denying otherness; fused form kept as one token",
+     "morph": "compound: na+anya (m.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle reinforcing the exclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyakaḥ",
+     "gloss": "second",
+     "grounds": "denotes a second entity, here negated in sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What singular non-dual status is affirmed of the yoginī in that state?",
+   "premises": [
+    "In that state the yoginī is declared one.",
+    "The yoginī is explicitly described as not other.",
+    "No second entity is admitted alongside the yoginī."
+   ],
+   "inference": "Therefore the yoginī abides as a singular reality without a second.",
+   "uncertainties": [
+    "The gender shift between yoginī and masculine predicates may reflect archaic usage or agreement with an implied subject."
+   ],
+   "plain_english": "Then that yoginī is indeed one, not other; there is truly no second."
+  }
+ ]
+}

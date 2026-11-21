@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative object referring to a ritual vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yanna",
+     "gloss": "which-not",
+     "grounds": "relative/negative fused form indicating a vessel that is not (the one meant); analyzed as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of being, expressing a conditional/state",
+     "morph": "3.sg.optative-root-bhū"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb of place/context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣaṇyadbhiḥ",
+     "gloss": "with-sprinkling-water",
+     "grounds": "instrumental plural of sprinkling water used for ritual purification",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-act",
+     "grounds": "optative/imperative-like injunction to perform the action",
+     "morph": "3.sg.optative-root-ā-car"
+    }
+   ],
+   "question": "What ritual action is prescribed when a vessel is unsuitable for use there?",
+   "premises": [
+    "A vessel is identified as not suitable in that context.",
+    "Sprinkling water is specified as the means to be used.",
+    "The performer is instructed to carry out the prescribed act."
+   ],
+   "inference": "If the vessel is not the proper one there, one should act by means of sprinkling water.",
+   "uncertainties": [
+    "Exact referent of 'which-not vessel' depends on prior verses.",
+    "Whether prokṣaṇyadbhiḥ denotes water prepared in a specific way is not stated here."
+   ],
+   "plain_english": "If there is no suitable vessel, one should proceed using sprinkling water."
+  }
+ ]
+}

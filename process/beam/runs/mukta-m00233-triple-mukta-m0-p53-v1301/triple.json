@@ -1,0 +1,953 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1301,
+   "rows": [
+    {
+     "surface": "kuryād",
+     "gloss": "should-make",
+     "grounds": "verb form as given",
+     "morph": "3.sg.act-opt-kr"
+    },
+    {
+     "surface": "ardhapramāṇena",
+     "gloss": "half-measure",
+     "grounds": "compound as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "srapanamaṇḍapam",
+     "gloss": "srapana-pavilion",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What measure and method are prescribed for making the srapana pavilion?",
+   "premises": [
+    "kuryād means should make",
+    "ardhapramāṇena means half measure",
+    "tadvat means thus"
+   ],
+   "inference": "The pavilion is to be made by the stated half measure in the prescribed manner.",
+   "uncertainties": [
+    "exact ritual context of srapana is not specified here"
+   ],
+   "plain_english": "One should make the srapana pavilion by half measure, thus."
+  },
+  {
+   "verse": 1302,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃśoccāṃ",
+     "gloss": "six-parts-high",
+     "grounds": "compound as given",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "paritas",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rasāṃśakaiḥ",
+     "gloss": "with-rasa-parts",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "How high and with what surrounding rasa parts is the pavilion to be arranged?",
+   "premises": [
+    "ṣaḍaṃśoccāṃ means six parts high",
+    "paritas means around",
+    "rasāṃśakaiḥ means with rasa parts"
+   ],
+   "inference": "The structure is six parts high and surrounded by rasa parts.",
+   "uncertainties": [
+    "precise measurement unit is not stated"
+   ],
+   "plain_english": "It is six parts high around, with rasa parts."
+  },
+  {
+   "verse": 1303,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "verb form as given",
+     "morph": "3.sg.act-opt-bhū"
+    },
+    {
+     "surface": "uttarataḥ",
+     "gloss": "northward",
+     "grounds": "directional adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What directional placement is declared auspicious for this arrangement?",
+   "premises": [
+    "ca means and",
+    "bhaved means would be",
+    "uttarataḥ means northward",
+    "śubham means auspicious"
+   ],
+   "inference": "The northward placement is declared auspicious.",
+   "uncertainties": [
+    "the exact object of placement is implicit"
+   ],
+   "plain_english": "And it would be auspicious northward."
+  },
+  {
+   "verse": 1304,
+   "rows": [
+    {
+     "surface": "nidrākumbhaṃ",
+     "gloss": "sleep-pot",
+     "grounds": "compound as given",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śāntikumbhāñ",
+     "gloss": "peace-pots",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "śivakumbhās",
+     "gloss": "shiva-pots",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "travardhanīḥ",
+     "gloss": "travardhanīs",
+     "grounds": "as given",
+     "morph": "acc.pl.f"
+    }
+   ],
+   "question": "Which pots and vessels are enumerated for the ritual setup?",
+   "premises": [
+    "nidrākumbhaṃ means sleep pot",
+    "śāntikumbhāñ means peace pots",
+    "śivakumbhās means shiva pots",
+    "travardhanīḥ means travardhanīs"
+   ],
+   "inference": "The setup includes sleep, peace, shiva pots, and travardhanīs.",
+   "uncertainties": [
+    "travardhanī is not glossed beyond the given form"
+   ],
+   "plain_english": "Sleep pot, peace pots, shiva pots, and travardhanīs."
+  },
+  {
+   "verse": 1305,
+   "rows": [
+    {
+     "surface": "abhyaṅgapātraṃ",
+     "gloss": "anointing-vessel",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vastrāṇi",
+     "gloss": "cloths",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "tadvacca",
+     "gloss": "thus-also",
+     "grounds": "compound as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭamaṅgalam",
+     "gloss": "eight-auspicious",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What anointing vessel, cloths, and auspicious items are included?",
+   "premises": [
+    "abhyaṅgapātraṃ means anointing vessel",
+    "vastrāṇi means cloths",
+    "tadvacca means thus also",
+    "aṣṭamaṅgalam means eight auspicious"
+   ],
+   "inference": "The list includes an anointing vessel, cloths, and eight auspicious items.",
+   "uncertainties": [
+    "the eight auspicious items are not itemized"
+   ],
+   "plain_english": "Anointing vessel, cloths, thus also eight auspicious."
+  },
+  {
+   "verse": 1306,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarṇaṃ",
+     "gloss": "gold",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prabhūte",
+     "gloss": "abundant",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "madhusarpiṣī",
+     "gloss": "honey-ghee",
+     "grounds": "dual compound as given",
+     "morph": "acc.du.n"
+    }
+   ],
+   "question": "What precious substance and abundant offerings are mentioned?",
+   "premises": [
+    "ca means and",
+    "svarṇaṃ means gold",
+    "prabhūte means abundant",
+    "madhusarpiṣī means honey ghee"
+   ],
+   "inference": "Gold and abundant honey-ghee are included among the materials.",
+   "uncertainties": [
+    "the exact quantity of gold is not stated"
+   ],
+   "plain_english": "And gold, abundant honey and ghee."
+  },
+  {
+   "verse": 1307,
+   "rows": [
+    {
+     "surface": "vṛṣebhaśṛṅga",
+     "gloss": "bull-horn",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "valmīka",
+     "gloss": "ant-hill",
+     "grounds": "compound member",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "sarastīra",
+     "gloss": "lake-bank",
+     "grounds": "compound member",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhuvo",
+     "gloss": "earth",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "mṛdaḥ",
+     "gloss": "clays",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "Which clays and natural substances are to be gathered?",
+   "premises": [
+    "vṛṣebhaśṛṅga means bull horn",
+    "valmīka means ant hill",
+    "sarastīra means lake bank",
+    "bhuvo means earth",
+    "mṛdaḥ means clays"
+   ],
+   "inference": "Clays from bull horn, ant hill, lake bank, and earth are gathered.",
+   "uncertainties": [
+    "whether these are separate or combined clays is implicit"
+   ],
+   "plain_english": "Bull horn, ant hill, lake bank, earth clays."
+  },
+  {
+   "verse": 1308,
+   "rows": [
+    {
+     "surface": "kṣīrāgajambvāmratvacaḥ",
+     "gloss": "milk-elephant-mango-bark",
+     "grounds": "compound as given",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "kisalayāni",
+     "gloss": "sprouts",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What barks and sprouts are added to the materials?",
+   "premises": [
+    "kṣīrāgajambvāmratvacaḥ means milk elephant mango bark",
+    "kisalayāni means sprouts",
+    "ca means and"
+   ],
+   "inference": "Milk, elephant, mango barks and sprouts are added.",
+   "uncertainties": [
+    "the compound may list multiple barks rather than one substance"
+   ],
+   "plain_english": "Milk, elephant, mango barks, and sprouts, and."
+  },
+  {
+   "verse": 1309,
+   "rows": [
+    {
+     "surface": "sarvauṣadhīḥ",
+     "gloss": "all-herbs",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "dhātubīja",
+     "gloss": "metals-seeds",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "loha",
+     "gloss": "iron-etc",
+     "grounds": "compound member",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "musalādikam",
+     "gloss": "pestle-etc",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What herbs, metals, seeds, and implements are required?",
+   "premises": [
+    "sarvauṣadhīḥ means all herbs",
+    "dhātubīja means metals seeds",
+    "loha means iron etc",
+    "musalādikam means pestle etc"
+   ],
+   "inference": "All herbs, metal seeds, iron, and pestle-like implements are required.",
+   "uncertainties": [
+    "loha may stand for metals generally"
+   ],
+   "plain_english": "All herbs, metal seeds, iron, pestle and so on."
+  },
+  {
+   "verse": 1310,
+   "rows": [
+    {
+     "surface": "kādhikārān",
+     "gloss": "with-kha-adhikaras",
+     "grounds": "compound as given",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "gulakhaṇḍaṃ",
+     "gloss": "gula-piece",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guggulum",
+     "gloss": "guggulu",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What adhikaras, gula piece, and resin are mentioned?",
+   "premises": [
+    "kādhikārān means with kha adhikaras",
+    "gulakhaṇḍaṃ means gula piece",
+    "ca means and",
+    "guggulum means guggulu"
+   ],
+   "inference": "The materials include kha adhikaras, a gula piece, and guggulu.",
+   "uncertainties": [
+    "kādhikārān is not fully transparent"
+   ],
+   "plain_english": "With kha adhikaras, gula piece, and guggulu."
+  },
+  {
+   "verse": 1311,
+   "rows": [
+    {
+     "surface": "tailaṃ",
+     "gloss": "oil",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "khaṭvāṃ",
+     "gloss": "cot",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phalakāṃ",
+     "gloss": "plank",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "navām",
+     "gloss": "new",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What oil, cot, or new plank is prescribed?",
+   "premises": [
+    "tailaṃ means oil",
+    "khaṭvāṃ means cot",
+    "vā means or",
+    "phalakāṃ means plank",
+    "navām means new"
+   ],
+   "inference": "Oil is listed, with a cot or a new plank as alternatives.",
+   "uncertainties": [
+    "whether oil applies to both alternatives is implicit"
+   ],
+   "plain_english": "Oil, cot, or new plank."
+  },
+  {
+   "verse": 1312,
+   "rows": [
+    {
+     "surface": "lakṣaṇoddhāramaṇḍape",
+     "gloss": "auspicious-mark-pavilion",
+     "grounds": "locative singular compound",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "In what pavilion are auspicious marks to be raised?",
+   "premises": [
+    "lakṣaṇoddhāramaṇḍape means auspicious mark pavilion"
+   ],
+   "inference": "The operation occurs in the auspicious-mark pavilion.",
+   "uncertainties": [
+    "the exact mark-raising rite is not detailed"
+   ],
+   "plain_english": "In the auspicious-mark pavilion."
+  },
+  {
+   "verse": 1313,
+   "rows": [
+    {
+     "surface": "śivakoṣṭhaṃ",
+     "gloss": "shiva-store",
+     "grounds": "compound as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb form as given",
+     "morph": "3.sg.act-opt-as"
+    },
+    {
+     "surface": "prāgādyaṣṭadiśāsvapi",
+     "gloss": "east-etc-eight-directions",
+     "grounds": "compound as given",
+     "morph": "loc.pl.f"
+    }
+   ],
+   "question": "Where should the shiva store be placed among directions?",
+   "premises": [
+    "śivakoṣṭhaṃ means shiva store",
+    "syāt means would be",
+    "prāgādyaṣṭadiśāsvapi means east etc eight directions"
+   ],
+   "inference": "The shiva store is to be in the eight directions beginning east.",
+   "uncertainties": [
+    "whether one store or multiple stores is intended"
+   ],
+   "plain_english": "The shiva store would be in the eight directions beginning east."
+  },
+  {
+   "verse": 1314,
+   "rows": [
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "verb form as given",
+     "morph": "3.pl.act-opt-as"
+    },
+    {
+     "surface": "tattvāntaṃ",
+     "gloss": "tattva-end",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "koṣṭhakāni",
+     "gloss": "small-stores",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What small stores extend to the tattva end?",
+   "premises": [
+    "syuḥ means would be",
+    "tattvāntaṃ means tattva end",
+    "koṣṭhakāni means small stores",
+    "tu means but"
+   ],
+   "inference": "Small stores would extend to the tattva end.",
+   "uncertainties": [
+    "the exact tattva count is not stated"
+   ],
+   "plain_english": "Small stores would be, but to the tattva end."
+  },
+  {
+   "verse": 1315,
+   "rows": [
+    {
+     "surface": "homopakaraṇaṃ",
+     "gloss": "homa-implements",
+     "grounds": "compound as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vāso",
+     "gloss": "cloth",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "dhūpopayogi",
+     "gloss": "incense-useful",
+     "grounds": "compound as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What homa implements, cloth, and incense-useful items are included?",
+   "premises": [
+    "homopakaraṇaṃ means homa implements",
+    "vāso means cloth",
+    "dhūpopayogi means incense useful",
+    "yat means what"
+   ],
+   "inference": "The list includes homa implements, cloth, and incense-useful items.",
+   "uncertainties": [
+    "the relative yat leaves the list open-ended"
+   ],
+   "plain_english": "Homa implements, cloth, incense-useful, what."
+  },
+  {
+   "verse": 1316,
+   "rows": [
+    {
+     "surface": "tvakkaṣāyādyam",
+     "gloss": "bark-decoction-etc",
+     "grounds": "compound as given",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anile",
+     "gloss": "in-wind",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eśe",
+     "gloss": "this",
+     "grounds": "as given",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "verb form as given",
+     "morph": "3.sg.act-opt-as"
+    },
+    {
+     "surface": "candanādikam",
+     "gloss": "sandal-etc",
+     "grounds": "compound as given",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What bark decoction and sandal items are assigned to wind?",
+   "premises": [
+    "tvakkaṣāyādyam means bark decoction etc",
+    "anile means in wind",
+    "ca means and",
+    "eśe means this",
+    "syāt means would be",
+    "candanādikam means sandal etc"
+   ],
+   "inference": "Bark decoction and sandal items are assigned in the wind context.",
+   "uncertainties": [
+    "eśe is irregular and its reference is unclear"
+   ],
+   "plain_english": "Bark decoction etc in wind, and this would be sandal etc."
+  },
+  {
+   "verse": 1317,
+   "rows": [
+    {
+     "surface": "plakṣodumbarāśvatthanyagrodhaiḥ",
+     "gloss": "plaksha-udumbara-ashvattha-nyagrodha",
+     "grounds": "instrumental plural compound",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "toraṇāni",
+     "gloss": "toranas",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which trees are used for making toranas?",
+   "premises": [
+    "plakṣodumbarāśvatthanyagrodhaiḥ means plaksha udumbara ashvattha nyagrodha",
+    "toraṇāni means toranas",
+    "tu means but"
+   ],
+   "inference": "Toranas are made with plaksha, udumbara, ashvattha, and nyagrodha.",
+   "uncertainties": [
+    "the exact construction method is not stated"
+   ],
+   "plain_english": "With plaksha, udumbara, ashvattha, nyagrodha, toranas, but."
+  },
+  {
+   "verse": 1318,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāditriliṅgānāṃ",
+     "gloss": "smallest-etc-three-lingas",
+     "grounds": "genitive plural compound",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "śarartumunikiṣkubhiḥ",
+     "gloss": "autumn-sage-sugarcane",
+     "grounds": "instrumental plural compound",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "What materials are associated with the three lingas?",
+   "premises": [
+    "kaniṣṭhāditriliṅgānāṃ means smallest etc three lingas",
+    "śarartumunikiṣkubhiḥ means autumn sage sugarcane"
+   ],
+   "inference": "The three lingas are associated with autumn, sage, and sugarcane materials.",
+   "uncertainties": [
+    "the exact relation between lingas and materials is implicit"
+   ],
+   "plain_english": "Of smallest etc three lingas, with autumn sage sugarcane."
+  },
+  {
+   "verse": 1319,
+   "rows": [
+    {
+     "surface": "nandarudrātijagatītuṅgaśūlāni",
+     "gloss": "nanda-rudra-ati-jagati-tunga-shula",
+     "grounds": "compound as given",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What shulas are arranged in order?",
+   "premises": [
+    "nandarudrātijagatītuṅgaśūlāni means nanda rudra ati jagati tunga shula",
+    "anukramāt means in order"
+   ],
+   "inference": "The named shulas are arranged in order.",
+   "uncertainties": [
+    "the full list and order details are compressed in the compound"
+   ],
+   "plain_english": "Nanda, rudra, ati, jagati, tunga shulas, in order."
+  },
+  {
+   "verse": 1320,
+   "rows": [
+    {
+     "surface": "śūlānām",
+     "gloss": "shulas",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "aryamā",
+     "gloss": "arya",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mitraḥ",
+     "gloss": "mitra",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tvaṣṭā",
+     "gloss": "tvashta",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaga",
+     "gloss": "bhaga",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "purandarau",
+     "gloss": "purandara",
+     "grounds": "nominative dual",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "Which deities are named for the shulas?",
+   "premises": [
+    "śūlānām means shulas",
+    "aryamā means arya",
+    "mitraḥ means mitra",
+    "tvaṣṭā means tvashta",
+    "bhaga means bhaga",
+    "purandarau means purandara"
+   ],
+   "inference": "Arya, mitra, tvashta, bhaga, and purandara are named for the shulas.",
+   "uncertainties": [
+    "the exact pairing of deities to shulas is not explicit"
+   ],
+   "plain_english": "Of shulas: arya, mitra, tvashta, bhaga, purandara."
+  },
+  {
+   "verse": 1321,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "spoken",
+     "grounds": "participle",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "prāgādyeṣu",
+     "gloss": "east-etc-three-three",
+     "grounds": "locative plural compound",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "tryastra",
+     "gloss": "tryastra",
+     "grounds": "compound as given",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "trayaḥ",
+     "gloss": "three",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What deities are spoken for the eastern and related directions?",
+   "premises": [
+    "ca means and",
+    "devatāḥ means deities",
+    "proktāḥ means spoken",
+    "prāgādyeṣu means east etc three three",
+    "tryastra means tryastra",
+    "trayaḥ means three"
+   ],
+   "inference": "Deities are spoken for the eastern and related three-three directions, with tryastra three.",
+   "uncertainties": [
+    "the exact directional mapping is compressed"
+   ],
+   "plain_english": "And deities spoken in east etc three three, tryastra three."
+  },
+  {
+   "verse": 1322,
+   "rows": [
+    {
+     "surface": "vibhūṣya",
+     "gloss": "adorn",
+     "grounds": "gerund",
+     "morph": "ger-√bhūṣ"
+    },
+    {
+     "surface": "ūrdhvam",
+     "gloss": "above",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "adhivāsanamaṇḍapam",
+     "gloss": "adivasana-pavilion",
+     "grounds": "compound as given",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What is to be adorned above the adivasana pavilion?",
+   "premises": [
+    "vibhūṣya means adorn",
+    "ūrdhvam means above",
+    "adhivāsanamaṇḍapam means adivasana pavilion"
+   ],
+   "inference": "The adivasana pavilion is to be adorned above.",
+   "uncertainties": [
+    "the object of adornment is implicit"
+   ],
+   "plain_english": "Adorning above the adivasana pavilion."
+  },
+  {
+   "verse": 1323,
+   "rows": [
+    {
+     "surface": "muktādāma",
+     "gloss": "pearl-garland",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "srag",
+     "gloss": "srag",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pūga",
+     "gloss": "betel",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "puṣpādyalaṅkṛtam",
+     "gloss": "flower-etc",
+     "grounds": "compound as given",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What pearl garland, srag, betel, and flower ornaments are used?",
+   "premises": [
+    "muktādāma means pearl garland",
+    "srag means srag",
+    "pūga means betel",
+    "puṣpādyalaṅkṛtam means flower etc"
+   ],
+   "inference": "The pavilion is ornamented with pearl garland, srag, betel, and flowers.",
+   "uncertainties": [
+    "srag is left as a technical term"
+   ],
+   "plain_english": "Pearl garland, srag, betel, flower etc ornamented."
+  },
+  {
+   "verse": 1324,
+   "rows": [
+    {
+     "surface": "darbhasandarbha",
+     "gloss": "darbha-bundle",
+     "grounds": "compound as given",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "mārjanyā",
+     "gloss": "mārjanī",
+     "grounds": "instrumental singular",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "sapalāśapalāśayā",
+     "gloss": "with-palasha-palasha",
+     "grounds": "compound as given",
+     "morph": "inst.sg.f"
+    }
+   ],
+   "question": "What darbha bundle and palasha items are used with the mārjanī?",
+   "premises": [
+    "darbhasandarbha means darbha bundle",
+    "mārjanyā means mārjanī",
+    "sapalāśapalāśayā means with palasha palasha"
+   ],
+   "inference": "A darbha bundle and palasha items are used with the mārjanī.",
+   "uncertainties": [
+    "the doubled palasha compound is not fully transparent"
+   ],
+   "plain_english": "Darbha bundle, with mārjanī, with palasha palasha."
+  }
+ ]
+}

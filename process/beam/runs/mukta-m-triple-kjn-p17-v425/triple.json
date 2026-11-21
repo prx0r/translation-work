@@ -1,0 +1,46 @@
+{
+ "song": "kjn-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "amṛtaṃ",
+     "gloss": "nectar",
+     "grounds": "neuter noun amṛta in accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaulasadbhāvaṃ",
+     "gloss": "true-nature-of-kaula",
+     "grounds": "compound kaula plus sadbhāva in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative form of root śru in second person singular",
+     "morph": "2.sg.act-imp + śru"
+    },
+    {
+     "surface": "kāmakalātmakam",
+     "gloss": "consisting-of-desire-art",
+     "grounds": "compound adjective kāmakalā plus ātmaka in accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What nectar consisting of kāmakalā constitutes the true nature of Kaula that one is urged to hear?",
+   "premises": [
+    "Amṛtaṃ is the object to be heard.",
+    "Kaulasadbhāvaṃ names the true nature of Kaula.",
+    "Kāmakalātmakam describes the nectar's constitution."
+   ],
+   "inference": "The verse identifies the nectar to be heard as the true Kaula nature consisting of kāmakalā.",
+   "uncertainties": [
+    "The exact syntactic relation of kaulasadbhāvaṃ to amṛtaṃ is inferred from context.",
+    "Kāmakalātmakam is read as modifying amṛtaṃ."
+   ],
+   "plain_english": "Hear the nectar, the true nature of Kaula, which consists of kāmakalā."
+  }
+ ]
+}

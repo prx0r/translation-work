@@ -1,0 +1,491 @@
+{
+ "song": "kul-p26",
+ "items": [
+  {
+   "verse": 626,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "knowing",
+     "grounds": "absolutive of jñā",
+     "morph": "(absolutive)"
+    },
+    {
+     "surface": "gurumukhāt",
+     "gloss": "from-guru's-mouth",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "seveta",
+     "gloss": "serves",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt.√sev"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "present passive third singular",
+     "morph": "3.sg.pass.pres.√muc"
+    }
+   ],
+   "question": "Who becomes liberated by serving after learning from the guru?",
+   "premises": [
+    "Learning from the guru precedes service.",
+    "Service leads to liberation."
+   ],
+   "inference": "The guru-taught servant is liberated.",
+   "uncertainties": [
+    "seveta mood is optative."
+   ],
+   "plain_english": "Knowing from the guru's mouth, O goddess, whoever serves is liberated."
+  },
+  {
+   "verse": 627,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "briefly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "O-lady-of-kula",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "more",
+     "grounds": "adverb/comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "(inf.)"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "you-desire",
+     "grounds": "present second singular active",
+     "morph": "2.sg.act.pres.√iṣ"
+    }
+   ],
+   "question": "What more does the kula lady desire to hear?",
+   "premises": [
+    "The speaker asks briefly.",
+    "The lady desires further hearing."
+   ],
+   "inference": "The dialogue requests additional teaching.",
+   "uncertainties": [
+    "kuleśāni may be vocative compound."
+   ],
+   "plain_english": "Briefly, O lady of kula, what more do you desire to hear?"
+  },
+  {
+   "verse": 628,
+   "rows": [
+    {
+     "surface": "kulamāhātmyakathanaṃ",
+     "gloss": "kula-glory-narration",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamollāsaḥ",
+     "gloss": "fifth-ullāsa",
+     "grounds": "compound noun nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the fifth ullāsa called?",
+   "premises": [
+    "The narration concerns kula glory.",
+    "The fifth ullāsa is named."
+   ],
+   "inference": "This section is the fifth ullāsa on kula glory.",
+   "uncertainties": [
+    "compound members not split."
+   ],
+   "plain_english": "The narration of kula's glory is named the fifth ullāsa."
+  },
+  {
+   "verse": 629,
+   "rows": [
+    {
+     "surface": "kuladravyādisaṃskāramarcanaṃ",
+     "gloss": "kula-materials-etc-purification-worship",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative second singular active",
+     "morph": "2.sg.act.imp.√vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "pronoun dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What purification and worship of kula materials is requested?",
+   "premises": [
+    "The speaker asks the lord.",
+    "The topic is kula materials and worship."
+   ],
+   "inference": "The lord is asked to explain kula purification and worship.",
+   "uncertainties": [
+    "compound is long and fused."
+   ],
+   "plain_english": "Tell me, lord, about purification and worship of kula materials and so forth."
+  },
+  {
+   "verse": 630,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "pronoun genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śravaṇamātreṇa",
+     "gloss": "by-mere-hearing",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "stūyate",
+     "gloss": "is-praised",
+     "grounds": "present passive third singular",
+     "morph": "3.sg.pass.pres.√stu"
+    },
+    {
+     "surface": "devadānavaiḥ",
+     "gloss": "by-gods-and-demons",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Who praises it by mere hearing?",
+   "premises": [
+    "Mere hearing suffices.",
+    "Gods and demons praise it."
+   ],
+   "inference": "Hearing alone brings praise from gods and demons.",
+   "uncertainties": [
+    "tasya referent is implicit."
+   ],
+   "plain_english": "By mere hearing of that, it is praised by gods and demons."
+  },
+  {
+   "verse": 631,
+   "rows": [
+    {
+     "surface": "kulajñānasusampannā",
+     "gloss": "kula-knowledge-well-endowed",
+     "grounds": "compound adjective nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhajante",
+     "gloss": "worship",
+     "grounds": "present third plural active",
+     "morph": "3.pl.act.pres.√bhaj"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dṛḍhavratāḥ",
+     "gloss": "firm-vowed",
+     "grounds": "compound adjective nominative plural masculine",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who worships among the well-endowed?",
+   "premises": [
+    "Some are well endowed with kula knowledge.",
+    "Firm-vowed ones worship."
+   ],
+   "inference": "Firm-vowed, kula-knowledge-endowed persons worship.",
+   "uncertainties": [
+    "subject agreement is loose."
+   ],
+   "plain_english": "Those well endowed with kula knowledge and firm-vowed worship."
+  },
+  {
+   "verse": 632,
+   "rows": [
+    {
+     "surface": "devatāgurubhaktastu",
+     "gloss": "deity-guru-devotee-but",
+     "grounds": "compound noun with tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "niyatātmārcayet",
+     "gloss": "controlled-self-worships",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt.√arc"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who worships with controlled self?",
+   "premises": [
+    "Devotee of deity and guru worships.",
+    "Self-control accompanies worship."
+   ],
+   "inference": "The deity-guru devotee worships with controlled self.",
+   "uncertainties": [
+    "compound fused with tu."
+   ],
+   "plain_english": "But the devotee of deity and guru, O dear, worships with controlled self."
+  },
+  {
+   "verse": 633,
+   "rows": [
+    {
+     "surface": "gurūpadeśasaṃyuktaḥ",
+     "gloss": "guru-instruction-united",
+     "grounds": "compound adjective nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt.√pūj"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-leader",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who should worship the kula leader?",
+   "premises": [
+    "Guru instruction unites the worshipper.",
+    "The kula leader is worshipped."
+   ],
+   "inference": "One united with guru instruction should worship the kula leader.",
+   "uncertainties": [
+    "kulanāyike may be accusative/vocative."
+   ],
+   "plain_english": "United with guru instruction, one should worship the kula leader."
+  },
+  {
+   "verse": 634,
+   "rows": [
+    {
+     "surface": "paśuvratādivimukhaḥ",
+     "gloss": "animal-vow-etc-averse",
+     "grounds": "compound adjective nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sumukhastu",
+     "gloss": "well-faced-but",
+     "grounds": "compound adjective with tu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-sacrifice",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt.√yaj"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Who should sacrifice while averse to animal vows?",
+   "premises": [
+    "Averse to animal vows, one is well-faced.",
+    "Such a one should sacrifice."
+   ],
+   "inference": "The well-faced, non-animal-vowed person should sacrifice.",
+   "uncertainties": [
+    "sumukha may mean auspicious."
+   ],
+   "plain_english": "Averse to animal vows and well-faced, O dear, one should sacrifice."
+  },
+  {
+   "verse": 635,
+   "rows": [
+    {
+     "surface": "matprasādena",
+     "gloss": "by-my-grace",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhūyāt",
+     "gloss": "may-there-be",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt.√bhū"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛḍhabhaktisamāgamaḥ",
+     "gloss": "firm-devotion-union",
+     "grounds": "compound noun nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What may arise by my grace?",
+   "premises": [
+    "My grace is the cause.",
+    "Firm devotion union may arise."
+   ],
+   "inference": "By grace, firm devotion union may occur.",
+   "uncertainties": [
+    "bhūyāt subject is implied."
+   ],
+   "plain_english": "By my grace, may there be union of firm devotion."
+  },
+  {
+   "verse": 636,
+   "rows": [
+    {
+     "surface": "gurūpadeśavidhinā",
+     "gloss": "by-guru-instruction-rite",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patanaṃ",
+     "gloss": "fall",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.act.opt.√bhū"
+    }
+   ],
+   "question": "What becomes otherwise without guru rite?",
+   "premises": [
+    "Guru instruction rite is required.",
+    "Otherwise there is fall."
+   ],
+   "inference": "Without guru rite, fall occurs.",
+   "uncertainties": [
+    "ca connects to prior verse."
+   ],
+   "plain_english": "By guru instruction rite, otherwise there is fall."
+  },
+  {
+   "verse": 637,
+   "rows": [
+    {
+     "surface": "tadahantu",
+     "gloss": "that-now-I",
+     "grounds": "compound pronoun",
+     "morph": "compound"
+    },
+    {
+     "surface": "tvayā+sārdhaṃ",
+     "gloss": "with-you",
+     "grounds": "instrumental with sandhi marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇāmi",
+     "gloss": "I-receive",
+     "grounds": "present first singular active",
+     "morph": "1.sg.act.pres.√grah"
+    },
+    {
+     "surface": "svayam+ādarāt",
+     "gloss": "myself-with-respect",
+     "grounds": "compound with sandhi marker",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the speaker now receive with you?",
+   "premises": [
+    "The speaker acts now.",
+    "Receiving occurs with you and respect."
+   ],
+   "inference": "The speaker now receives with you respectfully.",
+   "uncertainties": [
+    "tadahantu is fused."
+   ],
+   "plain_english": "That now I receive with you, myself with respect."
+  }
+ ]
+}

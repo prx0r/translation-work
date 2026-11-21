@@ -1,0 +1,473 @@
+{
+ "song": "sva-p12",
+ "items": [
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "sitaṃ",
+     "gloss": "white",
+     "grounds": "white color",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "rajaḥ",
+     "gloss": "dust",
+     "grounds": "dust particle",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "pātyamānam",
+     "gloss": "falling",
+     "grounds": "falling in process",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "first in order",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is the first falling white dust?",
+   "premises": [
+    "White dust falls first.",
+    "The dust is falling."
+   ],
+   "inference": "The first falling white dust is identified.",
+   "uncertainties": [
+    "Exact ritual referent remains unclear."
+   ],
+   "plain_english": "White dust falling first."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "pātratraye",
+     "gloss": "three-vessels",
+     "grounds": "three vessels",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "rite",
+     "grounds": "prescribed rite",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "nirodha",
+     "gloss": "restriction",
+     "grounds": "restriction of rite",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "prayojana",
+     "gloss": "purpose",
+     "grounds": "purpose of restriction",
+     "morph": "noun.nom.sg.n"
+    }
+   ],
+   "question": "What is the purpose of restricting the rite to three vessels?",
+   "premises": [
+    "The rite is restricted.",
+    "Three vessels are involved."
+   ],
+   "inference": "The restriction has a stated purpose.",
+   "uncertainties": [
+    "Purpose is not fully specified."
+   ],
+   "plain_english": "The rite is restricted to three vessels for a purpose."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "niṣkalena",
+     "gloss": "without-parts",
+     "grounds": "without parts",
+     "morph": "adj.instr.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "intended meaning",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does without-parts mean here?",
+   "premises": [
+    "The term is without-parts.",
+    "The meaning is stated."
+   ],
+   "inference": "The meaning is indeed without-parts.",
+   "uncertainties": [
+    "Context of without-parts is implicit."
+   ],
+   "plain_english": "Thus the meaning is indeed without-parts."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "pūjām",
+     "gloss": "worship",
+     "grounds": "worship act",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "ārabheta",
+     "gloss": "should-begin",
+     "grounds": "should begin worship",
+     "morph": "verb.3.sg.mid-opt+root"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "intended meaning",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What does it mean to begin worship?",
+   "premises": [
+    "Worship should begin.",
+    "The meaning is stated."
+   ],
+   "inference": "The meaning is to begin worship.",
+   "uncertainties": [
+    "Ritual details are not given."
+   ],
+   "plain_english": "Thus the meaning is to begin worship."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "in fire",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "remaining portion",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the remainder in fire?",
+   "premises": [
+    "The remainder is in fire.",
+    "The statement is emphatic."
+   ],
+   "inference": "The remainder indeed concerns fire.",
+   "uncertainties": [
+    "Remainder referent is unclear."
+   ],
+   "plain_english": "Thus the remainder is indeed in fire."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "prādhānyena",
+     "gloss": "primarily",
+     "grounds": "primarily",
+     "morph": "adv"
+    },
+    {
+     "surface": "avasthiteḥ",
+     "gloss": "established",
+     "grounds": "being established",
+     "morph": "noun.gen.sg.f"
+    },
+    {
+     "surface": "yuktatvāt",
+     "gloss": "fitness",
+     "grounds": "because of fitness",
+     "morph": "noun.abl.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is primary establishment fitting?",
+   "premises": [
+    "Establishment is primary.",
+    "Fitness supports it."
+   ],
+   "inference": "Primary establishment is fitting.",
+   "uncertainties": [
+    "Exact establishment is unspecified."
+   ],
+   "plain_english": "Thus primary establishment is fitting."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agniviśrāntyantam",
+     "gloss": "until-fire-rest",
+     "grounds": "until fire rests",
+     "morph": "adv"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What continues until fire rests?",
+   "premises": [
+    "The process continues thus.",
+    "It lasts until fire rests."
+   ],
+   "inference": "The process indeed continues until fire rests.",
+   "uncertainties": [
+    "Process referent is implicit."
+   ],
+   "plain_english": "Thus it indeed continues until fire rests."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "dhāmne",
+     "gloss": "abode",
+     "grounds": "to the abode",
+     "morph": "noun.dat.sg.n"
+    },
+    {
+     "surface": "kākākṣivat",
+     "gloss": "like-crow-eye",
+     "grounds": "like a crow's eye",
+     "morph": "adv"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is like a crow's eye in the abode?",
+   "premises": [
+    "The abode is mentioned.",
+    "The comparison is like a crow's eye."
+   ],
+   "inference": "The abode is compared to a crow's eye.",
+   "uncertainties": [
+    "Compared element is unclear."
+   ],
+   "plain_english": "Thus the abode is indeed like a crow's eye."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "vijñapter",
+     "gloss": "of-knowledge",
+     "grounds": "of knowledge",
+     "morph": "noun.gen.sg.f"
+    },
+    {
+     "surface": "āśayaḥ",
+     "gloss": "intention",
+     "grounds": "intention",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the intention of knowledge?",
+   "premises": [
+    "Knowledge has an intention.",
+    "The intention is stated."
+   ],
+   "inference": "The intention of knowledge is indeed stated.",
+   "uncertainties": [
+    "Intention content is unspecified."
+   ],
+   "plain_english": "Thus the intention of knowledge is indeed stated."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "prahṛṣṭātmā",
+     "gloss": "glad-self",
+     "grounds": "glad self",
+     "morph": "comp.adj.nom.sg.m"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "outside",
+     "morph": "adv"
+    },
+    {
+     "surface": "java",
+     "gloss": "speed",
+     "grounds": "speed",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "yāgadhāmnyeva",
+     "gloss": "in-fire-abode",
+     "grounds": "in the fire abode",
+     "morph": "noun.loc.sg.n"
+    }
+   ],
+   "question": "Where does the glad self move with speed?",
+   "premises": [
+    "The self is glad.",
+    "Speed is outside in the fire abode."
+   ],
+   "inference": "The glad self moves with speed in the fire abode.",
+   "uncertainties": [
+    "Exact movement is unclear."
+   ],
+   "plain_english": "The glad self moves with speed in the fire abode."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "mūrtyādīnāṃ",
+     "gloss": "of-forms",
+     "grounds": "of forms and so on",
+     "morph": "noun.gen.pl.m"
+    },
+    {
+     "surface": "pūrvokta",
+     "gloss": "prior",
+     "grounds": "previously stated",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vyāptiḥ",
+     "gloss": "pervasion",
+     "grounds": "pervasion",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in this way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the prior pervasion of forms?",
+   "premises": [
+    "Forms are pervaded.",
+    "The pervasion was previously stated."
+   ],
+   "inference": "The prior pervasion of forms is thus stated.",
+   "uncertainties": [
+    "Scope of forms is unclear."
+   ],
+   "plain_english": "Thus the prior pervasion of forms is stated."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "guru",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "should do",
+     "morph": "verb.3.sg.act-opt+root"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should the guru indeed do?",
+   "premises": [
+    "The guru should do.",
+    "The statement is emphatic."
+   ],
+   "inference": "The guru should indeed do it.",
+   "uncertainties": [
+    "Action is unspecified."
+   ],
+   "plain_english": "Thus the guru should indeed do it."
+  }
+ ]
+}

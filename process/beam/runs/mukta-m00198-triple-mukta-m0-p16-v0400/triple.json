@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "adhasthādvīrakāṇḍasya",
+     "gloss": "below-vīra-staff",
+     "grounds": "Fused form: adhasthāt (below) + vīra-kāṇḍasya (of the vīra-staff/section); internal sandhi noted, token kept unsplit.",
+     "morph": "indecl.+compound(gen.sg.n.)"
+    },
+    {
+     "surface": "phalakālakṣaṇaṃ",
+     "gloss": "plank-characteristic",
+     "grounds": "Compound: phalaka (plank/board) + lakṣaṇam (characteristic/mark).",
+     "morph": "compound(acc.sg.n.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "Imperative addressed to the listener.",
+     "morph": "2.sg.act.imp-√śru"
+    }
+   ],
+   "question": "What defining characteristics mark the plank situated below the vīra-staff?",
+   "premises": [
+    "A location below the vīra-staff is specified.",
+    "A plank associated with that location is identified.",
+    "The characteristics of that plank are presented for hearing."
+   ],
+   "inference": "The plank below the vīra-staff possesses specific defining characteristics to be learned.",
+   "uncertainties": [
+    "The precise architectural referent of vīrakāṇḍa is not fully determined from this verse alone."
+   ],
+   "plain_english": "Hear the characteristics of the plank below the vīra-staff."
+  }
+ ]
+}

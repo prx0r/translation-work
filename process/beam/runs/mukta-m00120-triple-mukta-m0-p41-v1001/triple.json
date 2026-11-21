@@ -1,0 +1,1077 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1001,
+   "rows": [
+    {
+     "surface": "pādyam",
+     "gloss": "foot-water",
+     "grounds": "foot-water offering",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ācamanīyam+ca",
+     "gloss": "and-sipping-water",
+     "grounds": "sipping-water and",
+     "morph": "n.acc.sg.n+indecl"
+    },
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ninth item",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "part.acc.sg.n"
+    }
+   ],
+   "question": "What is declared as the ninth offering in this ritual sequence?",
+   "premises": [
+    "pādya means foot-water",
+    "ācamanīya means sipping-water",
+    "navamaṃ means ninth"
+   ],
+   "inference": "the ninth declared offering includes foot-water and sipping-water",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "Foot-water and sipping-water are declared as the ninth offering."
+  },
+  {
+   "verse": 1002,
+   "rows": [
+    {
+     "surface": "śaktaye",
+     "gloss": "to-śakti",
+     "grounds": "to śakti",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "bhoga+pātrañca",
+     "gloss": "enjoyment-vessel-and",
+     "grounds": "enjoyment vessel and",
+     "morph": "n.acc.sg.n+indecl"
+    },
+    {
+     "surface": "pūjā+pātrād",
+     "gloss": "from-worship-vessel",
+     "grounds": "from worship vessel",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "should worship",
+     "morph": "3.sg.act.opt+root yaj"
+    },
+    {
+     "surface": "śivām",
+     "gloss": "śivā",
+     "grounds": "śivā",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "To whom should the enjoyment vessel be offered from the worship vessel?",
+   "premises": [
+    "śaktaye means to śakti",
+    "bhoga-pātra is enjoyment vessel",
+    "pūjā-pātrād means from worship vessel"
+   ],
+   "inference": "the enjoyment vessel is offered to śakti from the worship vessel",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "One should worship śivā by offering the enjoyment vessel to śakti from the worship vessel."
+  },
+  {
+   "verse": 1003,
+   "rows": [
+    {
+     "surface": "śaktimātre",
+     "gloss": "to-śakti-alone",
+     "grounds": "to śakti alone",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "śakti+pātraṃ",
+     "gloss": "śakti-vessel",
+     "grounds": "śakti vessel",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vīrāya",
+     "gloss": "to-hero",
+     "grounds": "to hero",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "vīra+pātrakam",
+     "gloss": "hero-vessel",
+     "grounds": "hero vessel",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Which vessels are assigned to śakti alone and to the hero?",
+   "premises": [
+    "śaktimātre means to śakti alone",
+    "śakti-pātra is śakti vessel",
+    "vīrāya means to hero"
+   ],
+   "inference": "śakti alone receives the śakti vessel and the hero receives the hero vessel",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "To śakti alone belongs the śakti vessel, and to the hero belongs the hero vessel."
+  },
+  {
+   "verse": 1004,
+   "rows": [
+    {
+     "surface": "śrī+pātrād",
+     "gloss": "from-śrī-vessel",
+     "grounds": "from śrī vessel",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "amṛtena",
+     "gloss": "with-nectar",
+     "grounds": "with nectar",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "indecl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "should worship",
+     "morph": "3.sg.act.opt+root yaj"
+    },
+    {
+     "surface": "arghādinā",
+     "gloss": "with-argha-etc",
+     "grounds": "with argha and so on",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "o beloved",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "With what should one worship from the śrī vessel?",
+   "premises": [
+    "śrī-pātrād means from śrī vessel",
+    "amṛtena means with nectar",
+    "arghādinā means with argha etc"
+   ],
+   "inference": "one should worship with nectar and argha from the śrī vessel",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "O beloved, one should worship with nectar and argha from the śrī vessel."
+  },
+  {
+   "verse": 1005,
+   "rows": [
+    {
+     "surface": "bhogārthaṃ",
+     "gloss": "for-enjoyment",
+     "grounds": "for enjoyment",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhoga+pātrañca",
+     "gloss": "enjoyment-vessel-and",
+     "grounds": "enjoyment vessel and",
+     "morph": "n.acc.sg.n+indecl"
+    },
+    {
+     "surface": "śaktaye",
+     "gloss": "to-śakti",
+     "grounds": "to śakti",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "indecl"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "should-give",
+     "grounds": "should give",
+     "morph": "3.sg.act.opt+root dā"
+    }
+   ],
+   "question": "For what purpose should the enjoyment vessel be given to śakti?",
+   "premises": [
+    "bhogārthaṃ means for enjoyment",
+    "bhoga-pātra is enjoyment vessel",
+    "śaktaye means to śakti"
+   ],
+   "inference": "the enjoyment vessel is given to śakti for enjoyment",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "For enjoyment, one should give the enjoyment vessel to śakti."
+  },
+  {
+   "verse": 1006,
+   "rows": [
+    {
+     "surface": "vaṭuka+kṣetrapālebhyo",
+     "gloss": "to-vaṭuka-and-kṣetrapāla",
+     "grounds": "to vaṭuka and kṣetrapāla",
+     "morph": "n.dat.pl.m"
+    },
+    {
+     "surface": "vali+pātraṃ",
+     "gloss": "offering-vessel",
+     "grounds": "offering vessel",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "should-offer",
+     "grounds": "should offer",
+     "morph": "3.sg.act.opt+root vid"
+    }
+   ],
+   "question": "To whom should the offering vessel be presented?",
+   "premises": [
+    "vaṭuka-kṣetrapālebhyaḥ means to vaṭuka and kṣetrapāla",
+    "vali-pātra is offering vessel",
+    "nivedayet means should offer"
+   ],
+   "inference": "the offering vessel should be offered to vaṭuka and kṣetrapāla",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "One should offer the offering vessel to vaṭuka and kṣetrapāla."
+  },
+  {
+   "verse": 1007,
+   "rows": [
+    {
+     "surface": "pādya+pātraṃ",
+     "gloss": "foot-water-vessel",
+     "grounds": "foot-water vessel",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pade",
+     "gloss": "at-foot",
+     "grounds": "at foot",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "should-give",
+     "grounds": "should give",
+     "morph": "3.sg.act.opt+root dā"
+    },
+    {
+     "surface": "devyā",
+     "gloss": "of-goddess",
+     "grounds": "of goddess",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "in mouth",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "ācamanīyakam",
+     "gloss": "sipping-water",
+     "grounds": "sipping water",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Where should foot-water and sipping-water be given for the goddess?",
+   "premises": [
+    "pādya-pātra is foot-water vessel",
+    "pade means at foot",
+    "devyā means of goddess",
+    "mukhe means in mouth"
+   ],
+   "inference": "foot-water is given at the foot and sipping-water in the mouth of the goddess",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "One should give the foot-water vessel at the foot and the sipping-water in the mouth of the goddess."
+  },
+  {
+   "verse": 1008,
+   "rows": [
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "cause",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "indecl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "should be",
+     "morph": "3.sg.act.opt+root bhū"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "effect",
+     "grounds": "effect",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "śrī+devyāś+caraṇāmbuje",
+     "gloss": "at-śrī-goddess-foot-lotus",
+     "grounds": "at śrī goddess foot lotus",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "What becomes the effect at the lotus feet of the śrī goddess?",
+   "premises": [
+    "kāraṇaṃ means cause",
+    "kāryaṃ means effect",
+    "śrī-devyāś-caraṇāmbuje means at śrī goddess foot lotus"
+   ],
+   "inference": "the cause becomes the effect at the lotus feet of the śrī goddess",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "Indeed the cause becomes the effect at the lotus feet of the śrī goddess."
+  },
+  {
+   "verse": 1009,
+   "rows": [
+    {
+     "surface": "mṛta+bhāvaṃ",
+     "gloss": "mortal-state",
+     "grounds": "mortal state",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "having abandoned",
+     "morph": "ger+root tyaj"
+    },
+    {
+     "surface": "amaraḥ",
+     "gloss": "immortal",
+     "grounds": "immortal",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "practitioner",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "should become",
+     "morph": "3.sg.act.opt+root bhū"
+    }
+   ],
+   "question": "What state must the practitioner abandon to become immortal?",
+   "premises": [
+    "mṛta-bhāvaṃ means mortal state",
+    "parityajya means having abandoned",
+    "amaraḥ means immortal"
+   ],
+   "inference": "by abandoning mortal state the practitioner becomes immortal",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "Having abandoned the mortal state, the practitioner should become immortal."
+  },
+  {
+   "verse": 1010,
+   "rows": [
+    {
+     "surface": "ataśca",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "indecl"
+    },
+    {
+     "surface": "sādhakāḥ",
+     "gloss": "practitioners",
+     "grounds": "practitioners",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "dadeyuḥ",
+     "gloss": "should-give",
+     "grounds": "should give",
+     "morph": "3.pl.act.opt+root dā"
+    },
+    {
+     "surface": "kāraṇaṃ",
+     "gloss": "cause",
+     "grounds": "cause",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "in mouth",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "What should all practitioners give in the mouth?",
+   "premises": [
+    "ataśca means therefore",
+    "sādhakāḥ sarve means all practitioners",
+    "kāraṇaṃ means cause",
+    "mukhe means in mouth"
+   ],
+   "inference": "all practitioners should give the cause in the mouth",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "Therefore all practitioners should give the cause in the mouth."
+  },
+  {
+   "verse": 1011,
+   "rows": [
+    {
+     "surface": "tadante",
+     "gloss": "at-end-of-that",
+     "grounds": "at end of that",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "practitioner",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "o goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "o supreme goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "pived",
+     "gloss": "should-drink",
+     "grounds": "should drink",
+     "morph": "3.sg.act.opt+root pā"
+    },
+    {
+     "surface": "oṣṭhādharaṃ",
+     "gloss": "lip-lower",
+     "grounds": "lip lower",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "honey",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What should the practitioner drink at the end of that rite?",
+   "premises": [
+    "tadante means at end of that",
+    "sādhako means practitioner",
+    "pived means should drink",
+    "madhu means honey"
+   ],
+   "inference": "the practitioner should drink honey from the lower lip",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "At the end of that, O goddess, O supreme goddess, the practitioner should drink honey from the lower lip."
+  },
+  {
+   "verse": 1012,
+   "rows": [
+    {
+     "surface": "nārī+deha+saṃśritā",
+     "gloss": "in-woman-body-dwelling",
+     "grounds": "in woman body dwelling",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "I",
+     "morph": "pron.nom.sg.1"
+    },
+    {
+     "surface": "amṛta+pāna+māśritā",
+     "gloss": "nectar-drinking-taking-refuge",
+     "grounds": "nectar drinking taking refuge",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "Who dwells in a woman's body and takes refuge in nectar drinking?",
+   "premises": [
+    "nārī-deha-saṃśritā means in woman body dwelling",
+    "aham means I",
+    "amṛta-pāna-māśritā means nectar drinking taking refuge"
+   ],
+   "inference": "I dwell in a woman's body and take refuge in nectar drinking",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "I dwell in a woman's body and take refuge in drinking nectar."
+  },
+  {
+   "verse": 1013,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "as",
+     "morph": "indecl"
+    },
+    {
+     "surface": "dehasya",
+     "gloss": "of-body",
+     "grounds": "of body",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "duḥkhe",
+     "gloss": "in-pain",
+     "grounds": "in pain",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "even",
+     "morph": "indecl"
+    },
+    {
+     "surface": "dehī",
+     "gloss": "embodied-one",
+     "grounds": "embodied one",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "3.sg.act.ind+root bhū"
+    },
+    {
+     "surface": "duḥkha+bhāk",
+     "gloss": "pain-sharer",
+     "grounds": "pain sharer",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "How does the embodied one share pain even in bodily pain?",
+   "premises": [
+    "dehasya duḥkhe means in pain of body",
+    "dehī means embodied one",
+    "duḥkha-bhāk means pain sharer"
+   ],
+   "inference": "as the body suffers, the embodied one becomes a sharer of pain",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "As the body suffers pain, even so the embodied one becomes a sharer of pain."
+  },
+  {
+   "verse": 1014,
+   "rows": [
+    {
+     "surface": "sādhakasyāpi",
+     "gloss": "of-practitioner",
+     "grounds": "of practitioner",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "muktyarthaṃ",
+     "gloss": "for-liberation",
+     "grounds": "for liberation",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pānāktā",
+     "gloss": "drink-anointed",
+     "grounds": "drink anointed",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kāmuka+ānvitā",
+     "gloss": "with-desire-endowed",
+     "grounds": "with desire endowed",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What is anointed with drink for the practitioner's liberation?",
+   "premises": [
+    "sādhakasyāpi means of practitioner",
+    "muktyarthaṃ means for liberation",
+    "pānāktā means drink anointed"
+   ],
+   "inference": "the drink-anointed one is endowed with desire for the practitioner's liberation",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "For the practitioner's liberation, the drink-anointed one is endowed with desire."
+  },
+  {
+   "verse": 1015,
+   "rows": [
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "supreme",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "śrī+kālikā+rūpā",
+     "gloss": "śrī-kālikā-form",
+     "grounds": "śrī kālikā form",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "strī",
+     "gloss": "woman",
+     "grounds": "woman",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "śrī+cakra+pālane",
+     "gloss": "in-śrī-cakra-protection",
+     "grounds": "in śrī cakra protection",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "varā",
+     "gloss": "excellent",
+     "grounds": "excellent",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "Who is the supreme excellent woman in śrī cakra protection?",
+   "premises": [
+    "parā means supreme",
+    "śrī-kālikā-rūpā means śrī kālikā form",
+    "strī means woman",
+    "śrī-cakra-pālane means in śrī cakra protection"
+   ],
+   "inference": "the supreme woman of śrī kālikā form is excellent in śrī cakra protection",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "The supreme woman of śrī kālikā form is excellent in the protection of the śrī cakra."
+  },
+  {
+   "verse": 1016,
+   "rows": [
+    {
+     "surface": "vara+abhaya+karā",
+     "gloss": "boon-and-fearlessness-handed",
+     "grounds": "boon and fearlessness handed",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "ghorā",
+     "gloss": "terrible",
+     "grounds": "terrible",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "rāva+yuktā",
+     "gloss": "with-sound-endowed",
+     "grounds": "with sound endowed",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vibhūṣaṇā",
+     "gloss": "adorned",
+     "grounds": "adorned",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "How is the terrible goddess described in adornment and gesture?",
+   "premises": [
+    "vara-abhaya-karā means boon and fearlessness handed",
+    "ghorā means terrible",
+    "rāva-yuktā means with sound endowed",
+    "vibhūṣaṇā means adorned"
+   ],
+   "inference": "the terrible goddess is adorned and endowed with sound while granting boon and fearlessness",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "The terrible goddess is adorned, endowed with sound, and grants boon and fearlessness."
+  },
+  {
+   "verse": 1017,
+   "rows": [
+    {
+     "surface": "nagnā",
+     "gloss": "naked",
+     "grounds": "naked",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "mattā",
+     "gloss": "intoxicated",
+     "grounds": "intoxicated",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "mahā+devī",
+     "gloss": "great-goddess",
+     "grounds": "great goddess",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "siṃha+pṛṣṭhe",
+     "gloss": "on-lion-back",
+     "grounds": "on lion back",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "śava+āsanā",
+     "gloss": "on-corpse-seat",
+     "grounds": "on corpse seat",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "Where does the great goddess sit while naked and intoxicated?",
+   "premises": [
+    "nagnā means naked",
+    "mattā means intoxicated",
+    "mahā-devī means great goddess",
+    "siṃha-pṛṣṭhe means on lion back",
+    "śava-āsanā means on corpse seat"
+   ],
+   "inference": "the great goddess sits on a lion's back and a corpse seat while naked and intoxicated",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "The great goddess, naked and intoxicated, sits on a lion's back and a corpse seat."
+  },
+  {
+   "verse": 1018,
+   "rows": [
+    {
+     "surface": "lakṣa",
+     "gloss": "lakh",
+     "grounds": "lakh",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "lakṣa",
+     "gloss": "lakh",
+     "grounds": "lakh",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samāyuktā",
+     "gloss": "with-united",
+     "grounds": "with united",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "śrī+cakraṃ",
+     "gloss": "śrī-cakra",
+     "grounds": "śrī cakra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pālayet",
+     "gloss": "should-protect",
+     "grounds": "should protect",
+     "morph": "3.sg.act.opt+root pāl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "always",
+     "morph": "indecl"
+    }
+   ],
+   "question": "How many lakhs are united in protecting the śrī cakra?",
+   "premises": [
+    "lakṣa lakṣa means lakh lakh",
+    "samāyuktā means with united",
+    "śrī-cakraṃ means śrī cakra",
+    "pālayet means should protect"
+   ],
+   "inference": "lakhs united should always protect the śrī cakra",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "United lakhs should always protect the śrī cakra."
+  },
+  {
+   "verse": 1019,
+   "rows": [
+    {
+     "surface": "darśane",
+     "gloss": "in-seeing",
+     "grounds": "in seeing",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "ghrāṇa+saṃsparśe",
+     "gloss": "in-smelling-touching",
+     "grounds": "in smelling touching",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "pāna+ānanda+pradāyikā",
+     "gloss": "drink-bliss-giver",
+     "grounds": "drink bliss giver",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "In what experiences does the drink-bliss giver act?",
+   "premises": [
+    "darśane means in seeing",
+    "ghrāṇa-saṃsparśe means in smelling touching",
+    "pāna-ānanda-pradāyikā means drink bliss giver"
+   ],
+   "inference": "the drink-bliss giver acts in seeing, smelling, and touching",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "In seeing, smelling, and touching, she is the giver of drink-bliss."
+  },
+  {
+   "verse": 1020,
+   "rows": [
+    {
+     "surface": "kṛpā+ānvitā",
+     "gloss": "with-compassion-endowed",
+     "grounds": "with compassion endowed",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What quality endows the goddess in this description?",
+   "premises": [
+    "kṛpā-ānvitā means with compassion endowed"
+   ],
+   "inference": "the goddess is endowed with compassion",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "She is endowed with compassion."
+  },
+  {
+   "verse": 1021,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "indecl"
+    },
+    {
+     "surface": "śrī+sarvānandanātha+viracite",
+     "gloss": "in-śrī-sarvānandanātha-composed",
+     "grounds": "in śrī sarvānandanātha composed",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "sarvollāse",
+     "gloss": "in-sarvollāsa",
+     "grounds": "in sarvollāsa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "dvātriṃśad+ullāsaḥ",
+     "gloss": "thirty-second-chapter",
+     "grounds": "thirty second chapter",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which chapter is completed in the work composed by śrī sarvānandanātha?",
+   "premises": [
+    "iti means thus",
+    "śrī-sarvānandanātha-viracite means in śrī sarvānandanātha composed",
+    "sarvollāse means in sarvollāsa",
+    "dvātriṃśad-ullāsaḥ means thirty-second chapter"
+   ],
+   "inference": "the thirty-second chapter in sarvollāsa composed by śrī sarvānandanātha is completed",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "Thus ends the thirty-second chapter in the sarvollāsa composed by śrī sarvānandanātha."
+  },
+  {
+   "verse": 1022,
+   "rows": [
+    {
+     "surface": "sarva+devā",
+     "gloss": "all-gods",
+     "grounds": "all gods",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "indecl"
+    },
+    {
+     "surface": "tṛpyanti",
+     "gloss": "are-satisfied",
+     "grounds": "are satisfied",
+     "morph": "3.pl.act.ind+root tṛp"
+    },
+    {
+     "surface": "smaraṇāt",
+     "gloss": "by-remembrance",
+     "grounds": "by remembrance",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "pūjanāt",
+     "gloss": "by-worship",
+     "grounds": "by worship",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śiva",
+     "grounds": "o śiva",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "What fails to satisfy all gods, O śiva?",
+   "premises": [
+    "sarva-devā means all gods",
+    "na tṛpyanti means are not satisfied",
+    "smaraṇāt means by remembrance",
+    "pūjanāt means by worship"
+   ],
+   "inference": "all gods are not satisfied by remembrance or worship",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "O śiva, all gods are not satisfied by remembrance or worship."
+  },
+  {
+   "verse": 1023,
+   "rows": [
+    {
+     "surface": "sarva+dravya+samāyuktaṃ",
+     "gloss": "with-all-substances-endowed",
+     "grounds": "with all substances endowed",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "with mantra",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "pātrakaṃ",
+     "gloss": "vessel",
+     "grounds": "vessel",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "should-give",
+     "grounds": "should give",
+     "morph": "3.sg.act.opt+root dā"
+    }
+   ],
+   "question": "What should be given endowed with all substances and mantra?",
+   "premises": [
+    "sarva-dravya-samāyuktaṃ means with all substances endowed",
+    "manunā means with mantra",
+    "pātrakaṃ means vessel",
+    "dadet means should give"
+   ],
+   "inference": "one should give the vessel endowed with all substances and mantra",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "One should give the vessel endowed with all substances and mantra."
+  },
+  {
+   "verse": 1024,
+   "rows": [
+    {
+     "surface": "kapilānte",
+     "gloss": "o-kapilānta",
+     "grounds": "o kapilānta",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "jaṭā+bhāra",
+     "gloss": "o-matted-hair-mass",
+     "grounds": "o matted hair mass",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "bhāsurānte",
+     "gloss": "o-bhāsurānta",
+     "grounds": "o bhāsurānta",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "tri+netra",
+     "gloss": "o-three-eyed",
+     "grounds": "o three-eyed",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "o",
+     "grounds": "o",
+     "morph": "indecl"
+    }
+   ],
+   "question": "Which divine epithets are invoked in this closing address?",
+   "premises": [
+    "kapilānte means o kapilānta",
+    "jaṭā-bhāra means o matted hair mass",
+    "bhāsurānte means o bhāsurānta",
+    "tri-netra means o three-eyed"
+   ],
+   "inference": "the closing address invokes kapilānta, matted hair mass, bhāsurānta, and three-eyed",
+   "uncertainties": [
+    "sandhi fusion retained"
+   ],
+   "plain_english": "O kapilānta, O matted hair mass, O bhāsurānta, O three-eyed."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "cakṣuṣā",
+     "gloss": "by-eye",
+     "grounds": "instrument of sensory presentation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "introduces a conditional supposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arpitaṃ",
+     "gloss": "offered",
+     "grounds": "past participle indicating something presented or placed before",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the presentation",
+     "morph": "pron.dat.sg.1"
+    },
+    {
+     "surface": "manasātmanyathārpyate",
+     "gloss": "by-mind-in-self-then-offered",
+     "grounds": "fused form: manasā + ātmani + atha + arpyate; mind presents in the self",
+     "morph": "fused: n.ins.sg + n.loc.sg + (indecl.) + 3.sg.pass-pres (√ṛ/arp)"
+    }
+   ],
+   "question": "By what means is an object presented through the eye ultimately offered in the self?",
+   "premises": [
+    "An object may be presented to the subject through the eye.",
+    "The mind serves as the inner instrument of presentation.",
+    "Presentation in the self follows the mind's offering."
+   ],
+   "inference": "Therefore, what the eye presents is ultimately offered in the self through the mind.",
+   "uncertainties": [
+    "The exact referent of 'me' as individual subject or universal self is context-dependent."
+   ],
+   "plain_english": "If something is offered to me through the eye, then it is offered in the self by the mind."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kālottara",
+     "grounds": "locative of text name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcaṣaṣṭitamaḥ",
+     "gloss": "sixty-fifth",
+     "grounds": "ordinal chapter number",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter designation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Kālottara is identified as the sixty-fifth?",
+   "premises": [
+    "iti marks conclusion of preceding teaching",
+    "kālottare locates text in Kālottara",
+    "pañcaṣaṣṭitamaḥ denotes sixty-fifth",
+    "paṭalaḥ denotes chapter"
+   ],
+   "inference": "This verse names the sixty-fifth chapter of the Kālottara.",
+   "uncertainties": [
+    "Edition numbering may vary; witness marker only."
+   ],
+   "plain_english": "Thus, in the Kālottara, the sixty-fifth chapter."
+  }
+ ]
+}

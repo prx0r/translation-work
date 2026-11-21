@@ -1,0 +1,1273 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 551,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun referring to previously mentioned fault",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pāpam",
+     "gloss": "sin",
+     "grounds": "object of declaration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "will-tell",
+     "grounds": "promise to declare",
+     "morph": "1.sg.middle-future √vac"
+    },
+    {
+     "surface": "sāvadhāna",
+     "gloss": "with-attention",
+     "grounds": "vocative addressed to listener",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "avadhāraya",
+     "gloss": "listen-carefully",
+     "grounds": "command to heed",
+     "morph": "2.sg.active-imperative √dhṛ+ava"
+    }
+   ],
+   "question": "What sin will be declared and how must the listener attend?",
+   "premises": [
+    "the speaker promises to declare that sin",
+    "the listener is addressed as attentive",
+    "the listener is commanded to heed carefully"
+   ],
+   "inference": "the declaration of sin requires focused attention from the listener",
+   "uncertainties": [
+    "the specific referent of tasya depends on prior context"
+   ],
+   "plain_english": "I will tell you its sin; be attentive and listen carefully."
+  },
+  {
+   "verse": 552,
+   "rows": [
+    {
+     "surface": "yaṃ",
+     "gloss": "which",
+     "grounds": "distributive relative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "which",
+     "grounds": "repeated for distributive force",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "narakam",
+     "gloss": "hell",
+     "grounds": "place of punishment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "attainment of a hell",
+     "morph": "3.sg.active-present √āp"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "correlative demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "repeated for distributive force",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.active-present √āp+pra"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "human",
+     "grounds": "subject who suffers consequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which hells befall a human who commits that sin?",
+   "premises": [
+    "each hell obtained is specified distributively",
+    "the same hell is obtained as consequence",
+    "a human is the subject of this consequence"
+   ],
+   "inference": "a human who commits that sin obtains every corresponding hell",
+   "uncertainties": [],
+   "plain_english": "Whatever hell one obtains, that very hell the human obtains."
+  },
+  {
+   "verse": 553,
+   "rows": [
+    {
+     "surface": "koṭi",
+     "gloss": "ten-million",
+     "grounds": "numeral indicating vast number",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "vaṃśān",
+     "gloss": "lineages",
+     "grounds": "familial lines taken along",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "taking-along",
+     "grounds": "inclusive accompaniment",
+     "morph": "(indecl.) absolutive √dā+sam+ā"
+    },
+    {
+     "surface": "pacyante",
+     "gloss": "are-tormented",
+     "grounds": "punishment imagery of cooking",
+     "morph": "3.pl.passive-present √pac"
+    },
+    {
+     "surface": "manuja",
+     "gloss": "human",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "adhamāḥ",
+     "gloss": "lowest",
+     "grounds": "lowest humans as compound head",
+     "morph": "m.nom.pl compound-final"
+    }
+   ],
+   "question": "How extensive is the punishment suffered by the lowest humans?",
+   "premises": [
+    "ten million lineages are taken along",
+    "the lowest humans are tormented",
+    "the punishment extends beyond the individual"
+   ],
+   "inference": "the lowest humans suffer torment together with vast numbers of their lineages",
+   "uncertainties": [],
+   "plain_english": "Taking along ten million lineages, the lowest humans are tormented."
+  },
+  {
+   "verse": 554,
+   "rows": [
+    {
+     "surface": "pacyante",
+     "gloss": "are-tormented",
+     "grounds": "continued punishment statement",
+     "morph": "3.pl.passive-present √pac"
+    },
+    {
+     "surface": "narake",
+     "gloss": "in-hell",
+     "grounds": "location of torment",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ghore",
+     "gloss": "terrible",
+     "grounds": "quality of the hell",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śūdrasya",
+     "gloss": "of-śūdra",
+     "grounds": "person for whom writing is done",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "likhanāt",
+     "gloss": "from-writing",
+     "grounds": "cause of punishment",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What specific act causes torment in a terrible hell?",
+   "premises": [
+    "torment occurs in a terrible hell",
+    "the cause is writing for a śūdra",
+    "the beloved is addressed directly"
+   ],
+   "inference": "writing for a śūdra leads to torment in a terrible hell",
+   "uncertainties": [
+    "the exact nature of the prohibited writing is not specified"
+   ],
+   "plain_english": "They are tormented in a terrible hell because of writing for a śūdra, O beloved."
+  },
+  {
+   "verse": 555,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior warning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvaśyakaṃ",
+     "gloss": "necessarily",
+     "grounds": "expresses obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāminī",
+     "gloss": "on-kāminī",
+     "grounds": "object of meditation in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "practice to be performed",
+     "morph": "n.acc.sg compound-final"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.active-optative √car+ud"
+    }
+   ],
+   "question": "What practice is prescribed as necessary in response to that danger?",
+   "premises": [
+    "a consequence follows from the prior warning",
+    "meditation on Kāminī is specified",
+    "the practice is enjoined as necessary"
+   ],
+   "inference": "one must necessarily perform meditation on Kāminī",
+   "uncertainties": [],
+   "plain_english": "Therefore, O goddess, one must necessarily perform meditation on Kāminī."
+  },
+  {
+   "verse": 556,
+   "rows": [
+    {
+     "surface": "kāminī",
+     "gloss": "kāminī",
+     "grounds": "object of meditation in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhyāna",
+     "gloss": "meditation",
+     "grounds": "practice in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere",
+     "grounds": "emphasizes sufficiency of meditation alone",
+     "morph": "n.ins.sg compound-final"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "totality in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "powers",
+     "grounds": "accomplishments in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mayaḥ",
+     "gloss": "consisting-of",
+     "grounds": "state of being composed of all powers",
+     "morph": "m.nom.sg compound-final"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.active-optative √bhū"
+    }
+   ],
+   "question": "What result follows from merely meditating on Kāminī?",
+   "premises": [
+    "meditation on Kāminī alone is sufficient",
+    "all powers are included in the result",
+    "a transformative state is attained"
+   ],
+   "inference": "mere meditation on Kāminī makes one consist of all powers",
+   "uncertainties": [],
+   "plain_english": "By merely meditating on Kāminī, one becomes endowed with all powers."
+  },
+  {
+   "verse": 557,
+   "rows": [
+    {
+     "surface": "tava+bhaktyā",
+     "gloss": "by-devotion-to-you",
+     "grounds": "reason for disclosure",
+     "morph": "f.ins.sg compound(tava+bhaktyā)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker as agent",
+     "morph": "1.ins.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "told",
+     "grounds": "act of revelation",
+     "morph": "n.nom.sg past-passive-participle √khyā+ā"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun for secret content",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gopyaṃ",
+     "gloss": "secret",
+     "grounds": "hidden teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuvana+traye",
+     "gloss": "in-three-worlds",
+     "grounds": "scope of secrecy",
+     "morph": "n.loc.sg compound(bhuvana+traya)"
+    }
+   ],
+   "question": "Why has the speaker revealed what is secret in the three worlds?",
+   "premises": [
+    "the speaker has told a secret teaching",
+    "the teaching is secret in the three worlds",
+    "devotion to the listener motivates the disclosure"
+   ],
+   "inference": "devotion to the listener caused the speaker to reveal a teaching secret in the three worlds",
+   "uncertainties": [],
+   "plain_english": "Out of devotion to you, I have told what is secret in the three worlds."
+  },
+  {
+   "verse": 558,
+   "rows": [
+    {
+     "surface": "saphalā",
+     "gloss": "fruitful",
+     "grounds": "successful result of worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "potential result",
+     "morph": "3.sg.active-optative √bhū"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects worship and recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saphalaṃ",
+     "gloss": "fruitful",
+     "grounds": "successful result of recitation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "constant efficacy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What efficacy do worship and recitation gain from this teaching?",
+   "premises": [
+    "that worship becomes fruitful",
+    "recitation is included alongside worship",
+    "recitation becomes always fruitful"
+   ],
+   "inference": "this teaching makes both worship and recitation fruitful",
+   "uncertainties": [],
+   "plain_english": "That worship would become fruitful, and recitation would always be fruitful."
+  },
+  {
+   "verse": 559,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "priority in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāminīṃ",
+     "gloss": "kāminī",
+     "grounds": "object of meditation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "preliminary act",
+     "morph": "(indecl.) absolutive √dhyai"
+    },
+    {
+     "surface": "japa",
+     "gloss": "recitation",
+     "grounds": "first ritual act in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "second ritual act",
+     "morph": "f.acc.sg compound-final"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.active-optative √car+sam+ā"
+    }
+   ],
+   "question": "What sequence must precede the performance of recitation and worship?",
+   "premises": [
+    "meditation on Kāminī comes first",
+    "recitation and worship follow",
+    "the combined practice is enjoined"
+   ],
+   "inference": "one should first meditate on Kāminī and then perform recitation and worship",
+   "uncertainties": [],
+   "plain_english": "First, having meditated on Kāminī, one should perform recitation and worship."
+  },
+  {
+   "verse": 560,
+   "rows": [
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "divine form in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rūpī",
+     "gloss": "having-form",
+     "grounds": "possessing Viṣṇu's form",
+     "morph": "m.nom.sg compound-final"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject of identification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "state of being",
+     "morph": "3.sg.active-optative √as"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "identified divine power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject repeated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What divine identities are attributed to the accomplished practitioner?",
+   "premises": [
+    "the practitioner would have Viṣṇu's form",
+    "the practitioner is identified as Mahāmāyā",
+    "both identifications are emphatically asserted"
+   ],
+   "inference": "the accomplished practitioner is identified with Viṣṇu's form and with Mahāmāyā",
+   "uncertainties": [
+    "the referent of saḥ may be the practitioner or the mantra's power"
+   ],
+   "plain_english": "He indeed would be of Viṣṇu's form; he indeed is Mahāmāyā."
+  },
+  {
+   "verse": 561,
+   "rows": [
+    {
+     "surface": "kāmadhenum",
+     "gloss": "wish-fulfilling-cow",
+     "grounds": "metaphor for granting desires",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative specifying mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praśastaṃ",
+     "gloss": "excellent",
+     "grounds": "praise of the mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sura+pūjite",
+     "gloss": "O-worshipped-by-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg compound(sura+pūjita)"
+    }
+   ],
+   "question": "How is this mantra characterized for the one worshipped by gods?",
+   "premises": [
+    "this mantra is called a wish-fulfilling cow",
+    "the mantra is praised as excellent",
+    "the address honors the listener as worshipped by gods"
+   ],
+   "inference": "this mantra is an excellent wish-fulfilling power for the listener",
+   "uncertainties": [],
+   "plain_english": "This mantra is an excellent wish-fulfilling cow, O you who are worshipped by the gods."
+  },
+  {
+   "verse": 562,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative referring to mantra practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of the practice",
+     "morph": "(indecl.) absolutive √kṛ"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent who performs practice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "attainment of destination",
+     "morph": "3.sg.active-present √yā"
+    },
+    {
+     "surface": "durlabhaṃ",
+     "gloss": "hard-to-attain",
+     "grounds": "quality of the abode",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mokṣa",
+     "gloss": "liberation",
+     "grounds": "goal in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mandiram",
+     "gloss": "abode",
+     "grounds": "destination of liberation",
+     "morph": "n.acc.sg compound-final"
+    }
+   ],
+   "question": "What ultimate destination does the practitioner reach through this practice?",
+   "premises": [
+    "the practitioner performs the prescribed act",
+    "the destination is hard to attain",
+    "the destination is the abode of liberation"
+   ],
+   "inference": "by performing this practice the practitioner reaches the hard-to-attain abode of liberation",
+   "uncertainties": [],
+   "plain_english": "Having done this, the practitioner goes to the hard-to-attain abode of liberation."
+  },
+  {
+   "verse": 563,
+   "rows": [
+    {
+     "surface": "ajñātvā",
+     "gloss": "without-knowing",
+     "grounds": "lack of required knowledge",
+     "morph": "(indecl.) absolutive √jñā+a"
+    },
+    {
+     "surface": "kāminī",
+     "gloss": "kāminī",
+     "grounds": "object of meditation in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "required practice",
+     "morph": "n.acc.sg compound-final"
+    },
+    {
+     "surface": "sahasā",
+     "gloss": "suddenly",
+     "grounds": "immediacy of failure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyarthatām",
+     "gloss": "to-futility",
+     "grounds": "state of being useless",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iyāt",
+     "gloss": "goes",
+     "grounds": "resulting failure",
+     "morph": "3.sg.active-optative √i"
+    }
+   ],
+   "question": "What consequence follows from lacking knowledge of Kāminī meditation?",
+   "premises": [
+    "Kāminī meditation is not known",
+    "the result occurs suddenly",
+    "the outcome is futility"
+   ],
+   "inference": "without knowing Kāminī meditation one suddenly falls into futility",
+   "uncertainties": [],
+   "plain_english": "Without knowing the meditation on Kāminī, one suddenly falls into futility."
+  },
+  {
+   "verse": 564,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from prior warning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "expresses obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtavyaṃ",
+     "gloss": "to-be-recited",
+     "grounds": "obligatory recitation",
+     "morph": "n.nom.sg future-passive-participle √jap"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "continually",
+     "grounds": "unbroken practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāma+dīpanīm",
+     "gloss": "desire-kindling",
+     "grounds": "epithet of the mantra or formula",
+     "morph": "f.acc.sg compound(kāma+dīpanī)"
+    }
+   ],
+   "question": "What continual recitation is required to avoid futility?",
+   "premises": [
+    "a consequence follows from the risk of futility",
+    "recitation is obligatory",
+    "the desire-kindling formula must be recited continually"
+   ],
+   "inference": "one must necessarily recite the desire-kindling formula continually",
+   "uncertainties": [
+    "kāma+dīpanīm may refer to a specific mantra or to Kāminī meditation"
+   ],
+   "plain_english": "Therefore, the desire-kindling one must necessarily be recited continually."
+  },
+  {
+   "verse": 565,
+   "rows": [
+    {
+     "surface": "kasmai",
+     "gloss": "to-whom",
+     "grounds": "interrogative about recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "one-should-impart",
+     "grounds": "transmission of mantra",
+     "morph": "3.sg.active-optative √ṛ+sam+arpa causative"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be imparted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "request for instruction",
+     "morph": "2.sg.active-imperative √vad"
+    },
+    {
+     "surface": "deva",
+     "gloss": "O-god",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "purātana",
+     "gloss": "ancient",
+     "grounds": "epithet of the god",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "To whom should the mantra be imparted according to proper transmission?",
+   "premises": [
+    "a question is asked about the proper recipient",
+    "the mantra is the object of transmission",
+    "the ancient god is asked to tell"
+   ],
+   "inference": "the proper recipient of the mantra must be specified by the ancient god",
+   "uncertainties": [],
+   "plain_english": "To whom should one impart the mantra? Tell me, O ancient god."
+  },
+  {
+   "verse": 566,
+   "rows": [
+    {
+     "surface": "nistejāḥ",
+     "gloss": "without-power",
+     "grounds": "loss of efficacy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "subject affected",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "O-god",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tadaiva",
+     "gloss": "then-indeed",
+     "grounds": "immediate consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasā",
+     "gloss": "suddenly",
+     "grounds": "abruptness of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.active-optative √bhū"
+    }
+   ],
+   "question": "What happens to the practitioner if the mantra is imparted improperly?",
+   "premises": [
+    "the practitioner is the affected subject",
+    "loss of power occurs immediately and suddenly",
+    "the condition is stated as a consequence"
+   ],
+   "inference": "improper transmission causes the practitioner to become suddenly powerless",
+   "uncertainties": [
+    "the triggering condition is implied from the preceding question"
+   ],
+   "plain_english": "Then the practitioner suddenly becomes powerless, O god."
+  },
+  {
+   "verse": 567,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "requested instruction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of instruction",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "request for explanation",
+     "morph": "2.sg.active-imperative √vad"
+    },
+    {
+     "surface": "mahābhāga",
+     "gloss": "O-greatly-fortunate-one",
+     "grounds": "honorific vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "out-of-compassion",
+     "grounds": "motive for answering",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "O-supreme-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What response is requested from the supreme lord regarding proper transmission?",
+   "premises": [
+    "the speaker asks to be told that instruction",
+    "the request appeals to compassion",
+    "the supreme lord is addressed honorifically"
+   ],
+   "inference": "the supreme lord is asked to compassionately explain the proper transmission",
+   "uncertainties": [],
+   "plain_english": "Tell that to me out of compassion, O greatly fortunate one, O supreme lord."
+  },
+  {
+   "verse": 568,
+   "rows": [
+    {
+     "surface": "japitvā",
+     "gloss": "having-recited",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.) absolutive √jap"
+    },
+    {
+     "surface": "cañcalā+apāṅgi",
+     "gloss": "O-trembling-eyed-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg compound(cañcala+apāṅga)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.active-optative √dhyai"
+    },
+    {
+     "surface": "parama",
+     "gloss": "supreme",
+     "grounds": "epithet of Kāminī",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāminīm",
+     "gloss": "kāminī",
+     "grounds": "object of meditation",
+     "morph": "f.acc.sg compound-final"
+    }
+   ],
+   "question": "What meditation should follow recitation according to this instruction?",
+   "premises": [
+    "recitation is completed first",
+    "meditation is enjoined afterward",
+    "the object is the supreme Kāminī"
+   ],
+   "inference": "after recitation one should meditate on the supreme Kāminī",
+   "uncertainties": [],
+   "plain_english": "Having recited, O trembling-eyed one, one should meditate on the supreme Kāminī."
+  },
+  {
+   "verse": 569,
+   "rows": [
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "first element in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "bindu",
+     "grounds": "second element in compound; mantra mark",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "endowed-with",
+     "grounds": "joined with moon and bindu",
+     "morph": "n.acc.sg compound-final"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "preparatory act",
+     "morph": "(indecl.) absolutive √kṛ"
+    },
+    {
+     "surface": "eka+ekaṃ",
+     "gloss": "each-one",
+     "grounds": "distributive repetition",
+     "morph": "n.acc.sg compound(eka+eka)"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "ten-times",
+     "grounds": "number of repetitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.active-optative √jap"
+    }
+   ],
+   "question": "How should each unit be prepared and recited in this practice?",
+   "premises": [
+    "each unit is made endowed with moon and bindu",
+    "the preparation precedes recitation",
+    "each unit is recited ten times"
+   ],
+   "inference": "one should prepare each unit with moon and bindu and recite it ten times",
+   "uncertainties": [
+    "the exact referent of eka+ekaṃ depends on ritual context"
+   ],
+   "plain_english": "Having made each one endowed with the moon and bindu, one should recite it ten times."
+  },
+  {
+   "verse": 570,
+   "rows": [
+    {
+     "surface": "ataḥ+paraṃ",
+     "gloss": "after-this",
+     "grounds": "marks next stage",
+     "morph": "(indecl.) compound(atas+param)"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "O-beautiful-hipped-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "prerequisite knowledge",
+     "morph": "(indecl.) absolutive √jñā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāminīṃ",
+     "gloss": "kāminī",
+     "grounds": "object of knowledge",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "epithet of Kāminī",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What knowledge must be attained before proceeding to the next stage?",
+   "premises": [
+    "a new stage begins after this",
+    "knowledge of Kāminī is required",
+    "Kāminī is qualified as supreme"
+   ],
+   "inference": "after this one must know the supreme Kāminī before proceeding",
+   "uncertainties": [],
+   "plain_english": "After this, O beautiful-hipped one, having known the supreme Kāminī..."
+  },
+  {
+   "verse": 571,
+   "rows": [
+    {
+     "surface": "kāminī",
+     "gloss": "kāminī",
+     "grounds": "possessor in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "garbha",
+     "gloss": "womb",
+     "grounds": "inner locus in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location within the womb",
+     "morph": "n.loc.sg compound-final"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viyat",
+     "gloss": "space",
+     "grounds": "first element joined",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "second element joined",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "joined-with",
+     "grounds": "combined with space and fire",
+     "morph": "n.acc.sg compound-final"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is to be contemplated in the middle of Kāminī's womb?",
+   "premises": [
+    "the locus is the middle of Kāminī's womb",
+    "space and fire are joined there",
+    "the instruction is addressed to the beloved"
+   ],
+   "inference": "one should contemplate what is joined with space and fire in the middle of Kāminī's womb",
+   "uncertainties": [
+    "the grammatical object of contemplation is continued in the next verse"
+   ],
+   "plain_english": "In the middle of Kāminī's womb, indeed, joined with space and fire, O beloved..."
+  },
+  {
+   "verse": 572,
+   "rows": [
+    {
+     "surface": "tataḥ+tu",
+     "gloss": "then-indeed",
+     "grounds": "marks subsequent step",
+     "morph": "(indecl.) compound(tatas+tu)"
+    },
+    {
+     "surface": "kāminī",
+     "gloss": "kāminī",
+     "grounds": "principle in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "object of contemplation",
+     "morph": "n.acc.sg compound-final"
+    },
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "location of contemplation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paricintya",
+     "gloss": "having-contemplated",
+     "grounds": "meditative act",
+     "morph": "(indecl.) absolutive √cint+pari"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the Kāminī principle be contemplated in the next step?",
+   "premises": [
+    "the next step follows the previous contemplation",
+    "the object is the Kāminī principle",
+    "the location is the forehead"
+   ],
+   "inference": "then one should contemplate the Kāminī principle on the forehead",
+   "uncertainties": [],
+   "plain_english": "Then indeed, having contemplated the Kāminī principle on the forehead..."
+  },
+  {
+   "verse": 573,
+   "rows": [
+    {
+     "surface": "pañcāśat",
+     "gloss": "fifty",
+     "grounds": "number of places",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "sacred syllables in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-places",
+     "grounds": "locations for recitation",
+     "morph": "n.loc.sg compound-final"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.active-optative √jap+pra"
+    },
+    {
+     "surface": "mātṛkā",
+     "gloss": "mātṛkā",
+     "grounds": "mantra type in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg compound-final"
+    }
+   ],
+   "question": "Where and what should be recited in the fiftyfold mātṛkā practice?",
+   "premises": [
+    "there are fifty mātṛkā places",
+    "recitation is enjoined in those places",
+    "the object is the mātṛkā mantra"
+   ],
+   "inference": "one should recite the mātṛkā mantra in the fifty mātṛkā places",
+   "uncertainties": [],
+   "plain_english": "In the fifty mātṛkā places, one should recite the mātṛkā mantra."
+  },
+  {
+   "verse": 574,
+   "rows": [
+    {
+     "surface": "daśadhā",
+     "gloss": "ten-times",
+     "grounds": "number of repetitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.active-optative √jap+pra"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kāminī",
+     "gloss": "kāminī",
+     "grounds": "seed in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "bīja syllable or seed mantra",
+     "morph": "n.acc.sg compound-final"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "epithet of the seed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many times should the supreme Kāminī seed be recited?",
+   "premises": [
+    "recitation is enjoined",
+    "the object is the supreme Kāminī seed",
+    "the number of repetitions is ten times"
+   ],
+   "inference": "one should recite the supreme Kāminī seed ten times",
+   "uncertainties": [],
+   "plain_english": "One should recite the supreme Kāminī seed ten times, O goddess."
+  }
+ ]
+}

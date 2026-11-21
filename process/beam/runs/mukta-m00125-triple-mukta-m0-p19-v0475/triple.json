@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "genitive dual pronoun referring to the two previously described objects",
+     "morph": "pron.gen.dual"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṣabhaḥ",
+     "gloss": "bull",
+     "grounds": "subject designated for worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjyaḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive expressing prescribed worship",
+     "morph": "m.nom.sg (gerundive, √pūj)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anantaḥ",
+     "gloss": "Ananta",
+     "grounds": "alternative figure designated for worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating traditional prescription",
+     "morph": "m.nom.sg (past participle, pra-√kīrt)"
+    }
+   ],
+   "question": "Which divine figures are prescribed for worship upon the two pādukās?",
+   "premises": [
+    "The two previously described pādukās form the locus for worship.",
+    "The bull is prescribed as a figure to be worshipped upon them.",
+    "Ananta is alternatively proclaimed as a figure to be worshipped upon them."
+   ],
+   "inference": "Either the bull or Ananta may be worshipped upon the two pādukās.",
+   "uncertainties": [
+    "The referent of tayoḥ is inferred from the preceding verses to be the two pādukās."
+   ],
+   "plain_english": "Upon those two, the bull is indeed to be worshipped, or else Ananta is proclaimed."
+  }
+ ]
+}

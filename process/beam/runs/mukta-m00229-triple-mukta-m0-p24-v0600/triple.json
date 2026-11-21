@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative verb form expressing an injunction",
+     "morph": "3.sg.act-opt (root varj)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "accusative singular masculine pronoun serving as object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "carefully",
+     "grounds": "adverb modifying the avoidance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one carefully avoid that arrangement with effort?",
+   "premises": [
+    "varjayet expresses an injunction to avoid",
+    "taṃ is the object to be avoided",
+    "prayatnataḥ intensifies the avoidance"
+   ],
+   "inference": "The verse commands careful avoidance of that object.",
+   "uncertainties": [
+    "The antecedent of taṃ is not explicit in this verse alone"
+   ],
+   "plain_english": "One should carefully avoid that."
+  }
+ ]
+}

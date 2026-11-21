@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "tapodhanajanārādhyā",
+     "gloss": "austerity-wealthy-people-worshipped",
+     "grounds": "epithet for one worshipped by people rich in austerity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tapodhanajanaprasūḥ",
+     "gloss": "austerity-wealthy-people-mother",
+     "grounds": "epithet for mother of people rich in austerity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is worshipped by and mother of people rich in austerity?",
+   "premises": [
+    "tapodhana denotes austerity wealth",
+    "janārādhyā means worshipped by people",
+    "janaprasūḥ means mother of people"
+   ],
+   "inference": "The verse names a figure worshipped by and mother of austerity-rich people.",
+   "uncertainties": [
+    "Exact deity and surrounding verse context are not supplied"
+   ],
+   "plain_english": "Worshipped by people rich in austerity; mother of people rich in austerity."
+  }
+ ]
+}

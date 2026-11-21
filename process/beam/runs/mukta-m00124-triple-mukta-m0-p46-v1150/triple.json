@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "the liquid used for filling",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭkṛtvaḥ",
+     "gloss": "six-times",
+     "grounds": "specifies the number of repetitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣpīḍya",
+     "gloss": "having-squeezed",
+     "grounds": "action of pressing out the water",
+     "morph": "gerund niṣ-pīḍ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muhurmu?huḥ",
+     "gloss": "again-and-again",
+     "grounds": "indicates repeated action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times and in what manner must the water be squeezed before use?",
+   "premises": [
+    "Water is the substance being prepared.",
+    "The water must be squeezed six times.",
+    "The squeezing must be done repeatedly."
+   ],
+   "inference": "The water is to be prepared by squeezing it six times repeatedly.",
+   "uncertainties": [
+    "The surface muhurmu?huḥ contains an unexpected character, possibly a textual corruption of muhurmuhuḥ."
+   ],
+   "plain_english": "But indeed, having squeezed the water six times and again and again."
+  }
+ ]
+}

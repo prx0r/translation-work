@@ -1,0 +1,578 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "nārikelodakaiḥ",
+     "gloss": "coconut-water",
+     "grounds": "instrumental plural of coconut-water",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "bhāvyaṃ",
+     "gloss": "impregnated",
+     "grounds": "past participle passive",
+     "morph": "ppp.neut.nom.sg"
+    },
+    {
+     "surface": "yāmāntaṃ",
+     "gloss": "until-yama",
+     "grounds": "compound accusative endpoint",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "peṣayetsamam",
+     "gloss": "grind-evenly",
+     "grounds": "causative optative with evenly",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "How is the preparation impregnated and ground with coconut water?",
+   "premises": [
+    "coconut water is used",
+    "impregnation precedes grinding",
+    "grinding continues until yama"
+   ],
+   "inference": "The remedy is prepared by impregnating and evenly grinding with coconut water for a yama period.",
+   "uncertainties": [
+    "exact yama duration"
+   ],
+   "plain_english": "Impregnate it with coconut water and grind it evenly until a yama has passed."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-them",
+     "grounds": "instrumental plural",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "vaṭikā",
+     "gloss": "pill",
+     "grounds": "feminine noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-make",
+     "grounds": "gerundive feminine",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "madhvājyābhyāṃ",
+     "gloss": "with-honey-ghee",
+     "grounds": "dual instrumental compound",
+     "morph": "instr.du.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-eat",
+     "grounds": "optative third singular",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "How should the pill be made and consumed after preparation?",
+   "premises": [
+    "pills are made likewise",
+    "honey and ghee are used",
+    "the pill is eaten"
+   ],
+   "inference": "One should make pills in the same manner and eat them with honey and ghee.",
+   "uncertainties": [
+    "dosage amount"
+   ],
+   "plain_english": "Likewise make pills with them, and eat them with honey and ghee."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "satāmbūlaṃ",
+     "gloss": "with-betel",
+     "grounds": "compound with betel",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śatāmūlam",
+     "gloss": "hundred-roots",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "anupānaṃ",
+     "gloss": "vehicle",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "nirantaram",
+     "gloss": "constantly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vehicle and accompaniment are taken constantly with the remedy?",
+   "premises": [
+    "betel is included",
+    "hundred roots are included",
+    "vehicle is constant"
+   ],
+   "inference": "The remedy is taken constantly with betel, hundred roots, and a vehicle.",
+   "uncertainties": [
+    "identity of vehicle"
+   ],
+   "plain_english": "With betel and hundred roots as a constant vehicle."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "nābhipralepena",
+     "gloss": "navel-anointing",
+     "grounds": "compound instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "bondage",
+     "grounds": "masculine noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimuñcati",
+     "gloss": "releases",
+     "grounds": "present third singular",
+     "morph": "3sg.pres.act"
+    }
+   ],
+   "question": "What effect does navel anointing with the preparation have?",
+   "premises": [
+    "navel anointing is used",
+    "bondage is released",
+    "release is immediate"
+   ],
+   "inference": "Anointing the navel with it immediately releases bondage.",
+   "uncertainties": [
+    "type of bondage"
+   ],
+   "plain_english": "By that navel anointing, bondage is immediately released."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "liṅgapralepena",
+     "gloss": "penis-anointing",
+     "grounds": "compound instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "ramet",
+     "gloss": "enjoys",
+     "grounds": "optative third singular",
+     "morph": "3sg.opt.mid"
+    },
+    {
+     "surface": "rāmāśataṃ",
+     "gloss": "hundred-women",
+     "grounds": "compound accusative",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "masculine noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What result follows from anointing the penis with the preparation?",
+   "premises": [
+    "penis anointing is used",
+    "a man enjoys",
+    "hundred women are mentioned"
+   ],
+   "inference": "A man anointing the penis with it enjoys a hundred women.",
+   "uncertainties": [
+    "literal or hyperbolic count"
+   ],
+   "plain_english": "By that penis anointing, a man enjoys a hundred women."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "yaṣṭī",
+     "gloss": "licorice",
+     "grounds": "feminine noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nāgabalā",
+     "gloss": "nagabala",
+     "grounds": "proper herb name",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kacūra",
+     "gloss": "kacura",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "madanaṃ",
+     "gloss": "madana",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "jātīphalaṃ",
+     "gloss": "nutmeg",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saindhavam",
+     "gloss": "rock-salt",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "Which ingredients are listed for the next preparation?",
+   "premises": [
+    "licorice is included",
+    "nagabala is included",
+    "kacura is included",
+    "madana is included",
+    "nutmeg is included",
+    "rock salt is included"
+   ],
+   "inference": "The preparation includes licorice, nagabala, kacura, madana, nutmeg, and rock salt.",
+   "uncertainties": [
+    "exact proportions"
+   ],
+   "plain_english": "Licorice, nagabala, kacura, madana, nutmeg, and rock salt."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "neuter noun",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "saṃvijayā",
+     "gloss": "samvijaya",
+     "grounds": "feminine noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sitādviguṇitā",
+     "gloss": "sugar-double",
+     "grounds": "compound participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "madhvājyayoḥ",
+     "gloss": "honey-ghee",
+     "grounds": "dual genitive compound",
+     "morph": "gen.du.n"
+    },
+    {
+     "surface": "piṃḍitam",
+     "gloss": "lump",
+     "grounds": "past participle",
+     "morph": "ppp.neut.nom.sg"
+    }
+   ],
+   "question": "How is the powder combined and formed?",
+   "premises": [
+    "powder is used",
+    "samvijaya is used",
+    "sugar is doubled",
+    "honey and ghee are used",
+    "lump is formed"
+   ],
+   "inference": "The powder with samvijaya and doubled sugar is made into a lump with honey and ghee.",
+   "uncertainties": [
+    "exact binding ratio"
+   ],
+   "plain_english": "Powder with samvijaya and doubled sugar, made into a lump with honey and ghee."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "kṣīṇe",
+     "gloss": "when-depleted",
+     "grounds": "locative absolute",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "puṣṭikaraṃ",
+     "gloss": "nourishing",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "gadakṣayakaraṃ",
+     "gloss": "disease-destruction",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hantyāśu",
+     "gloss": "kills-quickly",
+     "grounds": "verb with quickly",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "sarvāmayam",
+     "gloss": "all-diseases",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What benefits and disease effects does the remedy have when depleted?",
+   "premises": [
+    "it nourishes when depleted",
+    "it destroys disease",
+    "it quickly kills all diseases"
+   ],
+   "inference": "When depleted, it nourishes, destroys disease, and quickly kills all diseases.",
+   "uncertainties": [
+    "depletion context"
+   ],
+   "plain_english": "When depleted, it nourishes, destroys disease, and quickly kills all diseases."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "dhatte",
+     "gloss": "gives",
+     "grounds": "present third singular",
+     "morph": "3sg.pres.act"
+    },
+    {
+     "surface": "sarvaguṇaṃ",
+     "gloss": "all-virtues",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "forcefully",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svavadaśādhyānapradhānaṃ",
+     "gloss": "own-state-meditation-chief",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What virtues and meditative priority does the remedy confer?",
+   "premises": [
+    "it gives all virtues",
+    "it acts forcefully",
+    "meditation on own state is chief",
+    "it acts again"
+   ],
+   "inference": "It forcefully gives all virtues and makes meditation on one's own state chief, again.",
+   "uncertainties": [
+    "meaning of svavadaśā"
+   ],
+   "plain_english": "It forcefully gives all virtues and makes meditation on one's own state chief, again."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "siddho'yaṃ",
+     "gloss": "accomplished-this",
+     "grounds": "demonstrative compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "samadṛṣṭapratyayakarī",
+     "gloss": "equal-vision-faith-causing",
+     "grounds": "compound nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "rājñā",
+     "gloss": "by-king",
+     "grounds": "instrumental singular",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevyatām",
+     "gloss": "should-be-used",
+     "grounds": "passive optative",
+     "morph": "3sg.opt.pass"
+    }
+   ],
+   "question": "Who should always use this accomplished remedy?",
+   "premises": [
+    "this is accomplished",
+    "it causes equal vision and faith",
+    "it is for the king",
+    "it should always be used"
+   ],
+   "inference": "This accomplished remedy, causing equal vision and faith, should always be used by the king.",
+   "uncertainties": [
+    "royal context"
+   ],
+   "plain_english": "This accomplished remedy, causing equal vision and faith, should always be used by the king."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "naro",
+     "gloss": "man",
+     "grounds": "masculine noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vīryakarānyogān",
+     "gloss": "vigor-causing-yogas",
+     "grounds": "compound accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddho",
+     "gloss": "purified",
+     "grounds": "past participle",
+     "morph": "ppp.m.nom.sg"
+    },
+    {
+     "surface": "nirāmayaḥ",
+     "gloss": "disease-free",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What condition must a man have to properly use vigor-causing yogas?",
+   "premises": [
+    "a man uses yogas",
+    "yogas cause vigor",
+    "proper use is required",
+    "purification is required",
+    "disease-free state is required"
+   ],
+   "inference": "A purified, disease-free man should properly use vigor-causing yogas.",
+   "uncertainties": [
+    "purification method"
+   ],
+   "plain_english": "A purified, disease-free man should properly use vigor-causing yogas."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśādvarṣāt",
+     "gloss": "sixteen-years",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "saptatyāḥ parato",
+     "gloss": "after-seventy",
+     "grounds": "ablative phrase",
+     "morph": "abl.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What age limits are set for using this remedy?",
+   "premises": [
+    "not before sixteen years",
+    "not after seventy",
+    "both limits apply"
+   ],
+   "inference": "The remedy is not to be used before sixteen years or after seventy.",
+   "uncertainties": [
+    "whether inclusive"
+   ],
+   "plain_english": "Not before sixteen years, nor after seventy."
+  }
+ ]
+}

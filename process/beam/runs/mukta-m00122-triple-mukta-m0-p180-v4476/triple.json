@@ -1,0 +1,827 @@
+{
+ "song": "mukta-m0-p180",
+ "items": [
+  {
+   "verse": 4476,
+   "rows": [
+    {
+     "surface": "madhyādi",
+     "gloss": "middle-etc",
+     "grounds": "compound of madhya and ādi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vilikhenmantravarṇān",
+     "gloss": "draw-mantra-letters",
+     "grounds": "fused verb+object form",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many mantra letters are drawn in the middle and related positions?",
+   "premises": [
+    "madhyādi marks middle and related positions",
+    "vilikhenmantravarṇān means draw mantra letters",
+    "ṣoḍaśa means sixteen"
+   ],
+   "inference": "Sixteen mantra letters are to be drawn in the middle and related positions.",
+   "uncertainties": [
+    "exact positional scheme not stated"
+   ],
+   "plain_english": "Draw sixteen mantra letters in the middle and related positions."
+  },
+  {
+   "verse": 4477,
+   "rows": [
+    {
+     "surface": "tattatprayogānuguṇamiti",
+     "gloss": "that-that-use-according",
+     "grounds": "fused compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How far does the drawing extend according to each use?",
+   "premises": [
+    "tattatprayogānuguṇam means according to each use",
+    "yāvat means as far as"
+   ],
+   "inference": "The drawing extends as far as each particular use requires.",
+   "uncertainties": [
+    "scope of each use not specified"
+   ],
+   "plain_english": "Draw as far as each particular use requires."
+  },
+  {
+   "verse": 4478,
+   "rows": [
+    {
+     "surface": "samastābhīṣṭasaṃsiddhyai",
+     "gloss": "all-desired-accomplishment",
+     "grounds": "dative compound",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "siddhalakṣmī",
+     "gloss": "siddha-lakshmi",
+     "grounds": "compound name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nityaśaḥ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "For what purpose is siddhalakshmi always invoked?",
+   "premises": [
+    "samastābhīṣṭasaṃsiddhyai means for accomplishment of all desires",
+    "siddhalakṣmī is the goddess",
+    "nityaśaḥ means always"
+   ],
+   "inference": "Siddhalakshmi is always invoked for accomplishment of all desires.",
+   "uncertainties": [
+    "ritual context not fully stated"
+   ],
+   "plain_english": "Siddhalakshmi is always invoked for the accomplishment of all desires."
+  },
+  {
+   "verse": 4479,
+   "rows": [
+    {
+     "surface": "sarvanārīsamārambhādakarodvivaśaṃ",
+     "gloss": "all-women-beginning-made-subject",
+     "grounds": "fused compound verb phrase",
+     "morph": "3.sg.act.aor."
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What effect did the beginning with all women have on the world?",
+   "premises": [
+    "sarvanārīsamārambhād means beginning with all women",
+    "akarodvivaśaṃ means made subject",
+    "jagat means world"
+   ],
+   "inference": "Beginning with all women, the world was made subject.",
+   "uncertainties": [
+    "exact agent not stated"
+   ],
+   "plain_english": "Beginning with all women, the world was made subject."
+  },
+  {
+   "verse": 4480,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vinodāya",
+     "gloss": "for-amusement",
+     "grounds": "dative noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣoḍhā",
+     "gloss": "sixfold",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpayadvapuḥ",
+     "gloss": "fashioned-body",
+     "grounds": "fused participle+noun",
+     "morph": "3.sg.act.impf."
+    }
+   ],
+   "question": "For what purpose did that one fashion his own body sixfold?",
+   "premises": [
+    "vinodāya means for amusement",
+    "svaṃ means own",
+    "ṣoḍhā means sixfold",
+    "kalpayadvapuḥ means fashioned body"
+   ],
+   "inference": "That one fashioned his own body sixfold for amusement.",
+   "uncertainties": [
+    "identity of that one not stated"
+   ],
+   "plain_english": "Then that one fashioned his own body sixfold for amusement."
+  },
+  {
+   "verse": 4481,
+   "rows": [
+    {
+     "surface": "tairyantrapūjāhavanajapatarpaṇasecanaiḥ",
+     "gloss": "by-those-yantra-worship-offering-recitation-satisfaction-sprinkling",
+     "grounds": "fused instrumental compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By what ritual actions are the six steps to be performed?",
+   "premises": [
+    "tair means by those",
+    "yantrapūjāhavanajapatarpaṇasecanaiḥ lists ritual actions"
+   ],
+   "inference": "The six steps are performed by yantra worship, offering, recitation, satisfaction, and sprinkling.",
+   "uncertainties": [
+    "exact mapping to steps not stated"
+   ],
+   "plain_english": "By those yantra worship, offering, recitation, satisfaction, and sprinkling."
+  },
+  {
+   "verse": 4482,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act.imp."
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ṣaṭkramānmantrān",
+     "gloss": "six-steps-mantras",
+     "grounds": "fused compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dhyānārccāviniyogakaiḥ",
+     "gloss": "meditation-worship-allotment",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What six-step mantras are to be heard with meditation, worship, and allotment?",
+   "premises": [
+    "śṛṇu means hear",
+    "ṣaṭkramānmantrān means six-step mantras",
+    "dhyānārccāviniyogakaiḥ means with meditation, worship, and allotment"
+   ],
+   "inference": "One should hear the six-step mantras with meditation, worship, and allotment.",
+   "uncertainties": [
+    "specific mantras not listed"
+   ],
+   "plain_english": "Hear those six-step mantras with meditation, worship, and allotment."
+  },
+  {
+   "verse": 4483,
+   "rows": [
+    {
+     "surface": "praṇavadvayamadhyasthaḥ",
+     "gloss": "om-two-between-situated",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhagopālakābhidhaḥ",
+     "gloss": "siddha-gopala-named",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mantra is situated between two oms and named siddha gopala?",
+   "premises": [
+    "praṇavadvayamadhyasthaḥ means situated between two oms",
+    "siddhagopālakābhidhaḥ means named siddha gopala"
+   ],
+   "inference": "The mantra situated between two oms is named siddha gopala.",
+   "uncertainties": [
+    "full mantra text not given"
+   ],
+   "plain_english": "Situated between two oms is the mantra named siddha gopala."
+  },
+  {
+   "verse": 4484,
+   "rows": [
+    {
+     "surface": "vidyāyāḥ",
+     "gloss": "of-vidya",
+     "grounds": "genitive noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "saptadaśārṇān",
+     "gloss": "seventeen-letters",
+     "grounds": "compound numeral",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vilikhediti",
+     "gloss": "draw-thus",
+     "grounds": "fused verb+iti",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "How many letters of the vidya are drawn in order?",
+   "premises": [
+    "vidyāyāḥ means of the vidya",
+    "saptadaśārṇān means seventeen letters",
+    "krameṇa means in order"
+   ],
+   "inference": "Seventeen letters of the vidya are drawn in order.",
+   "uncertainties": [
+    "exact vidya not named"
+   ],
+   "plain_english": "Draw the seventeen letters of the vidya in order."
+  },
+  {
+   "verse": 4485,
+   "rows": [
+    {
+     "surface": "tvakṣarādhikyaṃ",
+     "gloss": "letter-excess",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "divyatvāt",
+     "gloss": "due-to-divinity",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is there an excess of letters?",
+   "premises": [
+    "tvakṣarādhikyaṃ means excess of letters",
+    "divyatvāt means due to divinity"
+   ],
+   "inference": "The excess of letters is due to divinity.",
+   "uncertainties": [
+    "which letters are excess not specified"
+   ],
+   "plain_english": "The excess of letters is due to divinity."
+  },
+  {
+   "verse": 4486,
+   "rows": [
+    {
+     "surface": "praṇavadvayamadhyasthaḥ",
+     "gloss": "om-two-between-situated",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praṇavapuṭitaḥ",
+     "gloss": "om-enclosed",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the mantra situated and enclosed?",
+   "premises": [
+    "praṇavadvayamadhyasthaḥ means situated between two oms",
+    "praṇavapuṭitaḥ means enclosed by om"
+   ],
+   "inference": "The mantra is situated between two oms and enclosed by om.",
+   "uncertainties": [
+    "exact enclosure operation not stated"
+   ],
+   "plain_english": "Situated between two oms and enclosed by om."
+  },
+  {
+   "verse": 4487,
+   "rows": [
+    {
+     "surface": "puṭanānnāmatastasmādvāṇaistaiḥ",
+     "gloss": "from-enclosure-name-from-that-arrow-those",
+     "grounds": "fused compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "puṭanādbhavet",
+     "gloss": "from-enclosure-becomes",
+     "grounds": "fused ablative+verb",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What results from enclosure and naming?",
+   "premises": [
+    "puṭanāt means from enclosure",
+    "nāmataḥ means from name",
+    "puṭanādbhavet means becomes from enclosure"
+   ],
+   "inference": "From enclosure and naming, the result becomes as stated.",
+   "uncertainties": [
+    "exact result not fully clear"
+   ],
+   "plain_english": "From enclosure and naming, it becomes as stated."
+  },
+  {
+   "verse": 4488,
+   "rows": [
+    {
+     "surface": "ādyaḥ",
+     "gloss": "first",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcāṅgako",
+     "gloss": "five-limbed",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrastvitare",
+     "gloss": "mantra-others",
+     "grounds": "fused noun+pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.pl.act.opt."
+    }
+   ],
+   "question": "How many limbs does the first mantra have compared with the others?",
+   "premises": [
+    "ādyaḥ means first",
+    "pañcāṅgako means five-limbed",
+    "itare means others",
+    "syuḥ means would be"
+   ],
+   "inference": "The first mantra is five-limbed, while the others would be six-limbed.",
+   "uncertainties": [
+    "exact others not specified"
+   ],
+   "plain_english": "The first mantra is five-limbed; the others would be six-limbed."
+  },
+  {
+   "verse": 4489,
+   "rows": [
+    {
+     "surface": "aṣṭapatrāvjamadhyasthaṃ",
+     "gloss": "eight-petaled-lotus-middle-situated",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "saptātikramāt",
+     "gloss": "seven-steps",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Where and after how many steps is worship performed?",
+   "premises": [
+    "aṣṭapatrāvjamadhyasthaṃ means situated in middle of eight-petaled lotus",
+    "pūjayet means worship",
+    "saptātikramāt means after seven steps"
+   ],
+   "inference": "Worship is performed in the middle of the eight-petaled lotus after seven steps.",
+   "uncertainties": [
+    "exact deity not named"
+   ],
+   "plain_english": "Worship in the middle of the eight-petaled lotus after seven steps."
+  },
+  {
+   "verse": 4490,
+   "rows": [
+    {
+     "surface": "vāreṣu",
+     "gloss": "days",
+     "grounds": "locative noun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "bhāskarādyeṣu",
+     "gloss": "sun-etc",
+     "grounds": "locative compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "their",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "On which days is their worship performed in order?",
+   "premises": [
+    "vāreṣu means on days",
+    "bhāskarādyeṣu means beginning with sun",
+    "teṣāṃ means their",
+    "pūjā means worship",
+    "krameṇa means in order"
+   ],
+   "inference": "Their worship is performed in order on days beginning with the sun.",
+   "uncertainties": [
+    "exact weekday sequence not stated"
+   ],
+   "plain_english": "Their worship is performed in order on days beginning with the sun."
+  },
+  {
+   "verse": 4491,
+   "rows": [
+    {
+     "surface": "saptasvanyatamāṃ",
+     "gloss": "among-seven-one",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is chosen among the seven?",
+   "premises": [
+    "saptasu means among seven",
+    "anyatamāṃ means one"
+   ],
+   "inference": "One among the seven is chosen.",
+   "uncertainties": [
+    "what the seven are not stated"
+   ],
+   "plain_english": "One among the seven."
+  },
+  {
+   "verse": 4492,
+   "rows": [
+    {
+     "surface": "pāyasairnārikelaiśca",
+     "gloss": "with-milk-rice-coconuts-and",
+     "grounds": "fused instrumental compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sasitaiḥ",
+     "gloss": "with-sugar",
+     "grounds": "instrumental adjective",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kadalīphalaiḥ",
+     "gloss": "with-banana-fruits",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "With what offerings is the chosen one worshipped?",
+   "premises": [
+    "pāyasair means with milk-rice",
+    "nārikelaiḥ means with coconuts",
+    "sasitaiḥ means with sugar",
+    "kadalīphalaiḥ means with banana fruits"
+   ],
+   "inference": "The chosen one is worshipped with milk-rice, coconuts, sugar, and banana fruits.",
+   "uncertainties": [
+    "exact ritual use not stated"
+   ],
+   "plain_english": "With milk-rice, coconuts, sugar, and banana fruits."
+  },
+  {
+   "verse": 4493,
+   "rows": [
+    {
+     "surface": "itīritaiḥ",
+     "gloss": "thus-spoken",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saptabhistaiḥ",
+     "gloss": "seven-those",
+     "grounds": "compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sarvamiṣṭamavāpnuyāt",
+     "gloss": "all-desired-obtain",
+     "grounds": "fused verb phrase",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What is obtained by the seven thus-spoken items?",
+   "premises": [
+    "itīritaiḥ means thus spoken",
+    "saptabhiḥ means by seven",
+    "sarvamiṣṭam means all desired",
+    "avāpnuyāt means obtain"
+   ],
+   "inference": "By the seven thus-spoken items, all desired things are obtained.",
+   "uncertainties": [
+    "exact seven items not listed"
+   ],
+   "plain_english": "By the seven thus-spoken items, all desired things are obtained."
+  },
+  {
+   "verse": 4494,
+   "rows": [
+    {
+     "surface": "puṇḍrekṣucāpapuṣpeṣūn",
+     "gloss": "sugarcane-bow-flower-arrows",
+     "grounds": "compound accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dadhānaṃ",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "by-shaktis",
+     "grounds": "instrumental noun",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "remember",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What form should be remembered as holding sugarcane bow flower and arrows?",
+   "premises": [
+    "puṇḍrekṣucāpapuṣpeṣūn means sugarcane bow flower arrows",
+    "dadhānaṃ means holding",
+    "śaktibhiḥ means by shaktis",
+    "smaret means remember"
+   ],
+   "inference": "One should remember the form holding sugarcane bow, flower, and arrows by the shaktis.",
+   "uncertainties": [
+    "exact deity not named"
+   ],
+   "plain_english": "Remember the form holding sugarcane bow, flower, and arrows by the shaktis."
+  },
+  {
+   "verse": 4495,
+   "rows": [
+    {
+     "surface": "hṛtkaṇṭhājñālepanato",
+     "gloss": "heart-throat-forehead-anointing-from",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "devatādarśanaṃ",
+     "gloss": "deity-vision",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "From what anointing does deity vision arise?",
+   "premises": [
+    "hṛtkaṇṭhājñālepanato means from anointing heart throat forehead",
+    "devatādarśanaṃ means deity vision",
+    "bhavet means becomes"
+   ],
+   "inference": "Deity vision arises from anointing the heart, throat, and forehead.",
+   "uncertainties": [
+    "substance not stated"
+   ],
+   "plain_english": "Deity vision arises from anointing the heart, throat, and forehead."
+  },
+  {
+   "verse": 4496,
+   "rows": [
+    {
+     "surface": "āragvadhaṃ",
+     "gloss": "cassia",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muṇḍinīṃ",
+     "gloss": "mundini",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śākoṭaṃ",
+     "gloss": "shakota",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jambumūlakam",
+     "gloss": "jambu-root",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which plants are listed for the ritual?",
+   "premises": [
+    "āragvadhaṃ means cassia",
+    "muṇḍinīṃ means mundini",
+    "śākoṭaṃ means shakota",
+    "jambumūlakam means jambu root"
+   ],
+   "inference": "The listed plants are cassia, mundini, shakota, and jambu root.",
+   "uncertainties": [
+    "ritual use not stated"
+   ],
+   "plain_english": "Cassia, mundini, shakota, and jambu root."
+  },
+  {
+   "verse": 4497,
+   "rows": [
+    {
+     "surface": "nārikelaiḥ",
+     "gloss": "with-coconuts",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dugdhādyaiḥ",
+     "gloss": "with-milk-etc",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "With what additional substances is the ritual performed?",
+   "premises": [
+    "nārikelaiḥ means with coconuts",
+    "dugdhādyaiḥ means with milk and so on"
+   ],
+   "inference": "The ritual is performed with coconuts, milk, and so on.",
+   "uncertainties": [
+    "exact list not stated"
+   ],
+   "plain_english": "With coconuts, milk, and so on."
+  },
+  {
+   "verse": 4498,
+   "rows": [
+    {
+     "surface": "śaktibhirgopīveṣadharābhiriti",
+     "gloss": "by-shaktis-gopi-garb-possessing-thus",
+     "grounds": "fused compound",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How far do the shaktis possessing gopi garb extend?",
+   "premises": [
+    "śaktibhiḥ means by shaktis",
+    "gopīveṣadharābhiḥ means possessing gopi garb",
+    "yāvat means as far as"
+   ],
+   "inference": "The shaktis possessing gopi garb extend as far as stated.",
+   "uncertainties": [
+    "exact extent not stated"
+   ],
+   "plain_english": "By shaktis possessing gopi garb, as far as stated."
+  },
+  {
+   "verse": 4499,
+   "rows": [
+    {
+     "surface": "gurumukhādavagantavyam",
+     "gloss": "from-guru-mouth-to-be-understood",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "From where must the remaining teaching be understood?",
+   "premises": [
+    "gurumukhāt means from guru's mouth",
+    "avagantavyam means to be understood"
+   ],
+   "inference": "The remaining teaching must be understood from the guru's mouth.",
+   "uncertainties": [
+    "scope of remaining teaching not stated"
+   ],
+   "plain_english": "The rest must be understood from the guru's mouth."
+  }
+ ]
+}

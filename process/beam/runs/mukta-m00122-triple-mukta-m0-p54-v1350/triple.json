@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "anyayoḥ",
+     "gloss": "in-other-two",
+     "grounds": "locative dual of anya, referring to the remaining two directions",
+     "morph": "pron.loc.dual.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśoḥ",
+     "gloss": "in-directions",
+     "grounds": "locative dual of diś, qualified by anyayoḥ",
+     "morph": "f.loc.dual"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "object of worship; the śaktis to be honored",
+     "morph": "f.acc.plural"
+    },
+    {
+     "surface": "proktāḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle qualifying śaktīḥ",
+     "morph": "ppp.nom.plural.f (pra+√vac)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral specifying the count of śaktīḥ",
+     "morph": "num.acc.plural.f"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive optative enjoining ritual worship",
+     "morph": "3.sg.optative.active (sam+√arc)"
+    }
+   ],
+   "question": "What worship is prescribed for the ten declared śaktis in the remaining two directions?",
+   "premises": [
+    "Two other directions remain for the ritual placement.",
+    "Ten śaktis have already been declared in the preceding instruction.",
+    "The prescribed action for these śaktis is worship."
+   ],
+   "inference": "Therefore, in the remaining two directions one should worship the ten śaktis that have been declared.",
+   "uncertainties": [
+    "The specific identities of the ten śaktis depend on the preceding verses not included here."
+   ],
+   "plain_english": "And in the other two directions, one should worship the ten śaktis that have been declared."
+  }
+ ]
+}

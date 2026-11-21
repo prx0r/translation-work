@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "brāhmaṇāya",
+     "gloss": "to-brahmin",
+     "grounds": "dative recipient of the mantra-gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "susiddhā",
+     "gloss": "well-accomplished",
+     "grounds": "adjective qualifying the recipient",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvābhīṣṭapradāyinī",
+     "gloss": "all-desires-giving",
+     "grounds": "compound adjective describing the mantra's fruit",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which qualified recipient receives the mantra that grants every desired object?",
+   "premises": [
+    "Mantra is given to brahmin.",
+    "Recipient must be well-accomplished.",
+    "Mantra grants all desires."
+   ],
+   "inference": "Well-accomplished brahmin receives all-desire-granting mantra.",
+   "uncertainties": [
+    "No explicit verb in verse; relation inferred from context."
+   ],
+   "plain_english": "That mantra is all-desires-giving to the well-accomplished brahmin."
+  }
+ ]
+}

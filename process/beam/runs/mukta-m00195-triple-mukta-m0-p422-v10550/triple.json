@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p422",
+ "items": [
+  {
+   "verse": 10550,
+   "rows": [
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "quantity of recitations",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prajapen",
+     "gloss": "one-should-mutter",
+     "grounds": "prescribed act of recitation",
+     "morph": "3.sg.act.opt √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "the previously described Nṛhari mantra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sādhayed",
+     "gloss": "one-should-accomplish",
+     "grounds": "ritual perfection of the mantra",
+     "morph": "3.sg.act.opt.caus √sidh"
+    },
+    {
+     "surface": "dhaviṣā",
+     "gloss": "with-oblation",
+     "grounds": "offering substance used in accomplishment",
+     "morph": "n.ins.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence after recitation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What number of recitations and oblation perfect this mantra?",
+   "premises": [
+    "One should mutter the mantra ten-thousand times.",
+    "One should accomplish the mantra with oblation.",
+    "The accomplishment follows the prescribed recitation."
+   ],
+   "inference": "Ten-thousand recitations followed by oblation accomplish the mantra.",
+   "uncertainties": [
+    "The surface form dhaviṣā may reflect a variant spelling of haviṣā."
+   ],
+   "plain_english": "One should recite this mantra ten thousand times and then accomplish it with an oblation."
+  }
+ ]
+}

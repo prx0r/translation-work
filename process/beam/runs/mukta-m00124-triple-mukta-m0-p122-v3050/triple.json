@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p122",
+ "items": [
+  {
+   "verse": 3050,
+   "rows": [
+    {
+     "surface": "jyeṣṭhe",
+     "gloss": "eldest",
+     "grounds": "locative singular of jyeṣṭha",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ṣaṭpañcavedāgnipādabhāgānadhastyajet",
+     "gloss": "abandon-below-six-five-veda-portions",
+     "grounds": "fused accusative plural object, adverb adhaḥ, and optative verb tyajet",
+     "morph": "v.3.sg.act.opt (tyaj)"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "below",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "abandon",
+     "grounds": "optative third singular of tyaj",
+     "morph": "v.3.sg.act.opt (tyaj)"
+    }
+   ],
+   "question": "Which veda-fire-foot portions must be abandoned below in the eldest case?",
+   "premises": [
+    "Eldest case governs abandonment.",
+    "Six-five veda-fire-foot portions are abandoned.",
+    "Abandonment occurs below."
+   ],
+   "inference": "The eldest case requires abandoning specified portions below.",
+   "uncertainties": [
+    "Fused token obscures exact sandhi boundaries."
+   ],
+   "plain_english": "In the eldest case, abandon the six-and-five veda-fire-foot portions below."
+  }
+ ]
+}

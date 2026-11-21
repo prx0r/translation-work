@@ -1,0 +1,959 @@
+{
+ "song": "mukta-m0-p33",
+ "items": [
+  {
+   "verse": 801,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "locative of dakṣiṇa indicating position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative of kara",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "katrīṃ",
+     "gloss": "scissors",
+     "grounds": "object held in the right hand",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "muṇḍamālāvibhūṣitām",
+     "gloss": "adorned-with-skull-garland",
+     "grounds": "compound muṇḍa-mālā-vibhūṣita describing the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What implement adorns the goddess in her right hand?",
+   "premises": [
+    "The right hand is specified",
+    "Scissors are held there",
+    "The goddess is adorned with a skull garland"
+   ],
+   "inference": "The goddess holds scissors in her right hand while wearing a skull garland",
+   "uncertainties": [],
+   "plain_english": "In her right hand she holds scissors, adorned with a garland of skulls."
+  },
+  {
+   "verse": 802,
+   "rows": [
+    {
+     "surface": "asthimālādharāṃ",
+     "gloss": "bearing-bone-garland",
+     "grounds": "compound asthi-mālā-dhara describing the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of visualization or worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nāgayajñopavītinīm",
+     "gloss": "wearing-snake-sacred-thread",
+     "grounds": "compound nāga-yajñopavītin describing the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What distinctive ornaments identify the goddess in this description?",
+   "premises": [
+    "The goddess bears a bone garland",
+    "She wears a snake as sacred thread",
+    "Both are defining attributes"
+   ],
+   "inference": "The goddess is identified by a bone garland and a snake sacred thread",
+   "uncertainties": [],
+   "plain_english": "The goddess bears a garland of bones and wears a snake as her sacred thread."
+  },
+  {
+   "verse": 803,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb indicating permanence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśavarṣīyāṃ",
+     "gloss": "sixteen-years-old",
+     "grounds": "compound ṣoḍaśa-varṣīya describing age",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pīnonnatapayodharām",
+     "gloss": "with-full-raised-breasts",
+     "grounds": "compound pīna-unnata-payodhara describing form",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What youthful bodily form is attributed to the goddess?",
+   "premises": [
+    "She is always sixteen years old",
+    "Her breasts are full and raised",
+    "These traits define her form"
+   ],
+   "inference": "The goddess is eternally depicted as a sixteen-year-old with full, raised breasts",
+   "uncertainties": [],
+   "plain_english": "She is always sixteen years old, with full and uplifted breasts."
+  },
+  {
+   "verse": 804,
+   "rows": [
+    {
+     "surface": "yonimudrāsamārūḍhāṃ",
+     "gloss": "seated-in-yoni-seal",
+     "grounds": "compound yoni-mudrā-samārūḍha describing posture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vicitrāsanasaṃsthitām",
+     "gloss": "placed-on-varied-seat",
+     "grounds": "compound vicitra-āsana-saṃsthita describing position",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What posture and seat characterize the goddess's placement?",
+   "premises": [
+    "She is seated in yoni-mudra",
+    "She is placed on a varied seat",
+    "Both describe her ritual posture"
+   ],
+   "inference": "The goddess is seated in yoni-mudra upon a varied seat",
+   "uncertainties": [],
+   "plain_english": "She is seated in the yoni-mudra upon a varied seat."
+  },
+  {
+   "verse": 805,
+   "rows": [
+    {
+     "surface": "pūjanīyāḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental indicating manner",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sarvakāmārthasiddhaye",
+     "gloss": "for-all-desire-wealth-success",
+     "grounds": "compound sarva-kāma-artha-siddhi indicating purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should the goddess be worshipped diligently?",
+   "premises": [
+    "Worship is enjoined with effort",
+    "The goal is accomplishment of all desires and aims",
+    "Diligence is required"
+   ],
+   "inference": "The goddess should be worshipped diligently to accomplish all desires and aims",
+   "uncertainties": [],
+   "plain_english": "She should be worshipped with diligence for the accomplishment of all desires and aims."
+  },
+  {
+   "verse": 806,
+   "rows": [
+    {
+     "surface": "merukailāsabhūsaṃjñā",
+     "gloss": "named-meru-kailasa-earth",
+     "grounds": "compound meru-kailāsa-bhū-saṃjñā naming divisions",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhedāstasya",
+     "gloss": "divisions-of-that",
+     "grounds": "bhedāḥ + tasya with sandhi; divisions of the prior subject",
+     "morph": "m.nom.pl + m.gen.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb indicating three divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing classification",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Into how many named divisions is the subject classified?",
+   "premises": [
+    "Divisions are named Meru, Kailasa, and Earth",
+    "The classification is threefold",
+    "This is stated as a rule"
+   ],
+   "inference": "The subject has three divisions named Meru, Kailasa, and Earth",
+   "uncertainties": [
+    "The exact referent of tasya depends on prior context"
+   ],
+   "plain_english": "Its divisions should be threefold, named Meru, Kailasa, and Earth."
+  },
+  {
+   "verse": 807,
+   "rows": [
+    {
+     "surface": "mātṛkāyāstu",
+     "gloss": "but-of-matrix",
+     "grounds": "mātṛkāyāḥ + tu with sandhi; genitive of mātṛkā",
+     "morph": "f.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "kailāsaprastārākhyaṃ",
+     "gloss": "called-kailasa-expanse",
+     "grounds": "compound kailāsa-prastāra-ākhya naming a form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which named expanse of the mātṛkā is addressed to Sureśvarī?",
+   "premises": [
+    "The mātṛkā is the subject",
+    "A form called Kailasa-prastara is named",
+    "Sureśvarī is addressed"
+   ],
+   "inference": "The mātṛkā has a form called the Kailasa expanse",
+   "uncertainties": [],
+   "plain_english": "O Sureśvarī, of the mātṛkā there is the one called the Kailasa expanse."
+  },
+  {
+   "verse": 808,
+   "rows": [
+    {
+     "surface": "sṛṣṭikramaṃ",
+     "gloss": "creation-order",
+     "grounds": "compound sṛṣṭi-krama naming a type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "merucakraṃ",
+     "gloss": "meru-wheel",
+     "grounds": "compound meru-cakra naming a type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kailāsaṃ",
+     "gloss": "kailasa",
+     "grounds": "name of a type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cārddhamerukam",
+     "gloss": "and-half-meru",
+     "grounds": "ca + ardha-meruka with sandhi",
+     "morph": "(indecl.) + n.acc.sg"
+    }
+   ],
+   "question": "What four types are enumerated in this classification?",
+   "premises": [
+    "Creation-order is listed",
+    "Meru-wheel is listed",
+    "Kailasa and half-Meru are listed"
+   ],
+   "inference": "The enumeration includes creation-order, Meru-wheel, Kailasa, and half-Meru",
+   "uncertainties": [
+    "Grammatical role depends on surrounding verses"
+   ],
+   "plain_english": "The creation order, the Meru wheel, Kailasa, and the half-Meru."
+  },
+  {
+   "verse": 809,
+   "rows": [
+    {
+     "surface": "ekaikasva",
+     "gloss": "of-each-one",
+     "grounds": "ekaika with following element; refers to each individually",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrasya",
+     "gloss": "of-wheel",
+     "grounds": "genitive specifying the wheel",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tribhedāstu",
+     "gloss": "but-three-divisions",
+     "grounds": "tri-bhedāḥ + tu with sandhi",
+     "morph": "m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "are",
+     "grounds": "present tense stating fact",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many divisions does each wheel possess according to this claim?",
+   "premises": [
+    "Each wheel is considered individually",
+    "Three divisions are stated",
+    "The statement is emphatic"
+   ],
+   "inference": "Each wheel indeed has three divisions",
+   "uncertainties": [],
+   "plain_english": "Indeed, each wheel has three divisions."
+  },
+  {
+   "verse": 810,
+   "rows": [
+    {
+     "surface": "sṛṣṭikramaṃ",
+     "gloss": "creation-order",
+     "grounds": "compound sṛṣṭi-krama as subject term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samayamataṃ",
+     "gloss": "samaya-doctrine",
+     "grounds": "compound samaya-mata naming the doctrine",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing identification",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "sthitisaṃjñakam",
+     "gloss": "named-stability",
+     "grounds": "compound sthiti-saṃjñaka giving designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What designation is assigned to the creation-order in samaya doctrine?",
+   "premises": [
+    "The creation-order is identified",
+    "It belongs to samaya doctrine",
+    "It is named stability"
+   ],
+   "inference": "In samaya doctrine the creation-order is designated as stability",
+   "uncertainties": [],
+   "plain_english": "The creation order, in the samaya doctrine, should be known as the stability order."
+  },
+  {
+   "verse": 811,
+   "rows": [
+    {
+     "surface": "merucakre",
+     "gloss": "in-meru-wheel",
+     "grounds": "locative specifying context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhārakramapūjā",
+     "gloss": "dissolution-order-worship",
+     "grounds": "compound saṃhāra-krama-pūjā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "present passive indicating existence",
+     "morph": "3.sg.pres.pass √vid"
+    }
+   ],
+   "question": "Is dissolution-order worship present within the Meru wheel?",
+   "premises": [
+    "The context is the Meru wheel",
+    "Dissolution-order worship is considered",
+    "Its existence is denied"
+   ],
+   "inference": "Dissolution-order worship does not exist in the Meru wheel",
+   "uncertainties": [],
+   "plain_english": "In the Meru wheel, however, worship in the order of dissolution does not exist."
+  },
+  {
+   "verse": 812,
+   "rows": [
+    {
+     "surface": "saṃhārapūjā",
+     "gloss": "dissolution-worship",
+     "grounds": "compound saṃhāra-pūjā as subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kailāsaprastāre'tra",
+     "gloss": "in-kailasa-expanse-here",
+     "grounds": "kailāsa-prastāre + atra with sandhi and elision",
+     "morph": "m.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb reinforcing location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "present passive indicating injunction",
+     "morph": "3.sg.pres.pass √vidh"
+    }
+   ],
+   "question": "Where is dissolution worship prescribed according to this injunction?",
+   "premises": [
+    "Dissolution worship is the subject",
+    "The Kailasa expanse is specified",
+    "It is prescribed there"
+   ],
+   "inference": "Dissolution worship is prescribed in the Kailasa expanse",
+   "uncertainties": [],
+   "plain_english": "Dissolution worship is prescribed here in the Kailasa expanse."
+  },
+  {
+   "verse": 813,
+   "rows": [
+    {
+     "surface": "sthitikramo",
+     "gloss": "stability-order",
+     "grounds": "compound sthiti-krama as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gṛhasthasya",
+     "gloss": "of-householder",
+     "grounds": "genitive indicating suitability",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "saṃhāro",
+     "gloss": "dissolution",
+     "grounds": "subject of second clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaninoyateḥ",
+     "gloss": "of-forest-dwelling-ascetic",
+     "grounds": "compound-like form vaninaḥ + yateḥ with sandhi; refers to forest ascetic",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Which ritual orders are assigned to householder and forest ascetic?",
+   "premises": [
+    "Stability-order is linked to the householder",
+    "Dissolution is linked to the forest ascetic",
+    "Different orders suit different practitioners"
+   ],
+   "inference": "The stability-order belongs to the householder and dissolution to the forest ascetic",
+   "uncertainties": [
+    "The exact parsing of vaninoyateḥ is slightly compressed in transmission"
+   ],
+   "plain_english": "The stability order is for the householder, and dissolution is for the forest-dwelling ascetic."
+  },
+  {
+   "verse": 814,
+   "rows": [
+    {
+     "surface": "sauvarṇe",
+     "gloss": "in-gold",
+     "grounds": "locative of material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rājate",
+     "gloss": "in-silver",
+     "grounds": "locative of material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tāmre",
+     "gloss": "in-copper",
+     "grounds": "locative of material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sphāṭike",
+     "gloss": "in-crystal",
+     "grounds": "locative of material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaidrume",
+     "gloss": "in-coral",
+     "grounds": "locative of material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "particle extending the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials are listed as suitable for making the wheel?",
+   "premises": [
+    "Gold is listed",
+    "Silver, copper, crystal, and coral are listed",
+    "These are material options"
+   ],
+   "inference": "The wheel may be made in gold, silver, copper, crystal, or coral",
+   "uncertainties": [],
+   "plain_english": "In gold, silver, copper, crystal, and also in coral."
+  },
+  {
+   "verse": 815,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "cakrasya",
+     "gloss": "of-wheel",
+     "grounds": "genitive specifying object constructed",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirmāṇaṃ",
+     "gloss": "construction",
+     "grounds": "object of kṛtvā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-install",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.act √sthā"
+    },
+    {
+     "surface": "pūjayedapi",
+     "gloss": "and-should-worship",
+     "grounds": "pūjayet + api with sandhi; optative with inclusive particle",
+     "morph": "3.sg.opt.act √pūj + (indecl.)"
+    }
+   ],
+   "question": "What actions must follow the construction of the wheel?",
+   "premises": [
+    "The wheel is first constructed",
+    "Installation is prescribed",
+    "Worship is also prescribed"
+   ],
+   "inference": "After constructing the wheel one should install and worship it",
+   "uncertainties": [],
+   "plain_english": "Having made the wheel, one should install it and also worship it."
+  },
+  {
+   "verse": 816,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "among-them",
+     "grounds": "genitive plural referring to listed materials",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sphāṭikaṃ",
+     "gloss": "crystal",
+     "grounds": "subject material singled out",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvasiddhipradaṃ",
+     "gloss": "giving-all-accomplishment",
+     "grounds": "compound sarva-siddhi-prada describing effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative stating result",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "Which material among those listed grants all accomplishments?",
+   "premises": [
+    "Several materials were listed",
+    "Crystal is singled out",
+    "It gives all accomplishments"
+   ],
+   "inference": "Among them, crystal is the material that grants all accomplishments",
+   "uncertainties": [],
+   "plain_english": "Among them, crystal indeed grants all accomplishments."
+  },
+  {
+   "verse": 817,
+   "rows": [
+    {
+     "surface": "suvarṇaracitaṃ",
+     "gloss": "made-of-gold",
+     "grounds": "compound suvarṇa-racita describing the yantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "subject of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvarājavaśaṅkaram",
+     "gloss": "bringing-all-kings-under-control",
+     "grounds": "compound sarva-rāja-vaśaṅkara describing effect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What power is attributed to a yantra made of gold?",
+   "premises": [
+    "The yantra is made of gold",
+    "It affects all kings",
+    "It brings them under control"
+   ],
+   "inference": "A gold-made yantra brings all kings under control",
+   "uncertainties": [],
+   "plain_english": "A yantra made of gold brings all kings under control."
+  },
+  {
+   "verse": 818,
+   "rows": [
+    {
+     "surface": "tāmre",
+     "gloss": "in-copper",
+     "grounds": "locative of material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "racitaṃ",
+     "gloss": "made",
+     "grounds": "past participle describing yantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "subject of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaiśvaryapradaṃ",
+     "gloss": "giving-all-sovereignty",
+     "grounds": "compound sarva-aiśvarya-prada describing effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past participle indicating accepted view",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What benefit is ascribed to a yantra fashioned in copper?",
+   "premises": [
+    "The yantra is made in copper",
+    "It is said to give all sovereignty",
+    "This is the accepted view"
+   ],
+   "inference": "A copper yantra is considered to grant all sovereignty",
+   "uncertainties": [],
+   "plain_english": "A yantra made in copper is considered to grant all sovereignty."
+  },
+  {
+   "verse": 819,
+   "rows": [
+    {
+     "surface": "lohatrayodbhavaṃ",
+     "gloss": "born-from-three-metals",
+     "grounds": "compound loha-traya-udbhava describing origin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "subject of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhikaraṃ",
+     "gloss": "causing-all-accomplishment",
+     "grounds": "compound sarva-siddhi-kara describing effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past participle indicating accepted view",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What effect is attributed to a yantra born from three metals?",
+   "premises": [
+    "The yantra arises from three metals",
+    "It causes all accomplishments",
+    "This is the accepted view"
+   ],
+   "inference": "A yantra made from three metals is considered to cause all accomplishments",
+   "uncertainties": [
+    "The specific three metals are not named here"
+   ],
+   "plain_english": "A yantra born from three metals is considered to bring about all accomplishments."
+  },
+  {
+   "verse": 820,
+   "rows": [
+    {
+     "surface": "tanme",
+     "gloss": "that-to-me",
+     "grounds": "tat + me with sandhi; request for instruction",
+     "morph": "n.acc.sg + pron.1.dat.sg"
+    },
+    {
+     "surface": "vadasva",
+     "gloss": "tell",
+     "grounds": "imperative requesting explanation",
+     "morph": "2.sg.imp.mid √vad"
+    },
+    {
+     "surface": "kṛpayā",
+     "gloss": "with-compassion",
+     "grounds": "instrumental indicating manner",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "yadyahaṃ",
+     "gloss": "if-i",
+     "grounds": "yadi + aham with sandhi; conditional clause",
+     "morph": "(indecl.) + pron.1.nom.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive expressing relation",
+     "morph": "pron.2.gen.sg"
+    },
+    {
+     "surface": "vallabhā",
+     "gloss": "beloved",
+     "grounds": "predicate describing the speaker",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What compassionate instruction is requested by the beloved speaker?",
+   "premises": [
+    "The speaker asks to be told",
+    "The request is made with compassion",
+    "The speaker claims to be beloved"
+   ],
+   "inference": "The beloved speaker requests compassionate instruction",
+   "uncertainties": [],
+   "plain_english": "Tell that to me with compassion, if I am dear to you."
+  },
+  {
+   "verse": 821,
+   "rows": [
+    {
+     "surface": "tāmrasya",
+     "gloss": "of-copper",
+     "grounds": "genitive specifying material",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ravibhāgena",
+     "gloss": "by-sun-portion",
+     "grounds": "instrumental indicating proportion or measure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryān",
+     "gloss": "one-should-make",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "charming",
+     "grounds": "adjective describing the seat",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should a charming seat of copper be fashioned?",
+   "premises": [
+    "Copper is the material",
+    "A sun-portion measure is specified",
+    "A charming seat should be made"
+   ],
+   "inference": "One should make a charming copper seat using the sun-portion measure",
+   "uncertainties": [
+    "The exact technical meaning of ravibhāgena is unclear"
+   ],
+   "plain_english": "One should make a charming seat of copper by the sun-portion."
+  },
+  {
+   "verse": 822,
+   "rows": [
+    {
+     "surface": "śāntidaṃ",
+     "gloss": "giving-peace",
+     "grounds": "compound śānti-da describing effect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṣṭikaṃ",
+     "gloss": "giving-nourishment",
+     "grounds": "adjective describing effect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaśatrunivarhaṇam",
+     "gloss": "destroying-all-enemies",
+     "grounds": "compound sarva-śatru-nivarhaṇa describing effect",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What beneficial effects are declared for this prescribed seat?",
+   "premises": [
+    "It gives peace",
+    "It gives nourishment",
+    "It destroys all enemies"
+   ],
+   "inference": "The seat is declared to give peace, nourishment, and destroy all enemies",
+   "uncertainties": [],
+   "plain_english": "It is declared to give peace, nourishment, and to destroy all enemies."
+  },
+  {
+   "verse": 823,
+   "rows": [
+    {
+     "surface": "traividhyaṃ",
+     "gloss": "threefold-nature",
+     "grounds": "object to be heard",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressing the listener",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "cakrasya",
+     "gloss": "of-wheel",
+     "grounds": "genitive specifying subject",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "bhūprastāro'rdhamerukam",
+     "gloss": "earth-expanse-and-half-meru",
+     "grounds": "bhū-prastāraḥ + ardha-merukam with sandhi and elision",
+     "morph": "m.nom.sg + n.nom.sg"
+    }
+   ],
+   "question": "What threefold nature of the wheel is the listener asked to hear?",
+   "premises": [
+    "The listener is told to hear",
+    "The wheel has a threefold nature",
+    "Earth-expanse and half-Meru are named"
+   ],
+   "inference": "The listener is asked to hear the wheel's threefold nature including earth-expanse and half-Meru",
+   "uncertainties": [
+    "The third element of the threefold nature is not fully explicit in this verse"
+   ],
+   "plain_english": "Hear the threefold nature of the wheel: the earth expanse and the half-Meru."
+  },
+  {
+   "verse": 824,
+   "rows": [
+    {
+     "surface": "ūrdhvarekho",
+     "gloss": "upward-line",
+     "grounds": "ūrdhva-rekhaḥ with sandhi; subject term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāśāntirmartyalokanivāsinām",
+     "gloss": "great-peace-for-mortal-world-dwellers",
+     "grounds": "compound mahā-śānti-martya-loka-nivāsinām describing effect and recipients",
+     "morph": "f.nom.sg + m.gen.pl"
+    }
+   ],
+   "question": "What benefit does the upward line provide for mortal-world dwellers?",
+   "premises": [
+    "The upward line is named",
+    "Great peace is associated with it",
+    "Mortal-world dwellers are the recipients"
+   ],
+   "inference": "The upward line brings great peace to dwellers of the mortal world",
+   "uncertainties": [],
+   "plain_english": "The upward line brings great peace to the dwellers of the mortal world."
+  }
+ ]
+}

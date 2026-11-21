@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "nābhyantoddhṛtajānuḥ",
+     "gloss": "navel-raised-knee",
+     "grounds": "compound adjective describing a knee raised from the navel region",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative of as, third singular active",
+     "morph": "3.sg.act.opt-as"
+    },
+    {
+     "surface": "vāmo",
+     "gloss": "left",
+     "grounds": "adjective agreeing with aṅghriḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṅghriḥ",
+     "gloss": "foot",
+     "grounds": "noun naming the limb in the posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kālahṛdgataḥ",
+     "gloss": "kāla-heart-gone",
+     "grounds": "compound describing kāla as gone to the heart",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which limb posture places the left foot with knee raised from the navel and kāla in the heart?",
+   "premises": [
+    "left foot is named vāmo aṅghriḥ",
+    "knee is raised from the navel",
+    "kāla is placed in the heart"
+   ],
+   "inference": "The verse prescribes a left-foot posture with raised knee and kāla-heart placement.",
+   "uncertainties": [
+    "exact ritual referent of kālahṛdgataḥ remains undecidable from this verse alone"
+   ],
+   "plain_english": "The left foot should be the one with knee raised from the navel, kāla gone to the heart."
+  }
+ ]
+}

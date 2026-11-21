@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "pīṭhatāra",
+     "gloss": "pedestal-width",
+     "grounds": "compound pīṭha-tāra; subject of the prescribed measurement",
+     "morph": "compound"
+    },
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "one-three-part",
+     "grounds": "compound tri-bhāga-eka; specifies a measure of one third",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "gomukhādīrgham",
+     "gloss": "cow-mouth-long",
+     "grounds": "compound go-mukha-dīrgha; indicates length equal to the spout",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "predicate declaring the prescribed measurement",
+     "morph": "3.sg.passive-present √vac"
+    }
+   ],
+   "question": "What proportional width and length are prescribed for the pedestal and its spout?",
+   "premises": [
+    "The pedestal width is the measured element under specification.",
+    "Its width is defined as one third part.",
+    "Its length is defined as equal to the cow-mouth spout."
+   ],
+   "inference": "The pedestal width is prescribed as one third, with a length equal to the spout.",
+   "uncertainties": [
+    "The exact referent of tribhāgaikaṃ as one third of which whole is not explicit in this verse alone."
+   ],
+   "plain_english": "The width of the pedestal is stated to be one third, and its length is said to be equal to that of the cow-mouth spout."
+  }
+ ]
+}

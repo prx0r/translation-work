@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p467",
+ "items": [
+  {
+   "verse": 11675,
+   "rows": [
+    {
+     "surface": "arcen",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb expressing ritual injunction",
+     "morph": "3.sg.optative-active √arc"
+    },
+    {
+     "surface": "musala",
+     "gloss": "pestle",
+     "grounds": "first member of dual object pair with khaḍgau",
+     "morph": "m.acc.dual"
+    },
+    {
+     "surface": "khaḍgau",
+     "gloss": "sword",
+     "grounds": "second member of dual object pair with musala",
+     "morph": "m.acc.dual"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking objects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vanamālāṃ",
+     "gloss": "forest-garland",
+     "grounds": "additional object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dala",
+     "gloss": "petal",
+     "grounds": "first member of compound with agrataḥ indicating location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "at-tips",
+     "grounds": "locative adverbial indicating position on petal tips",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which weapons and ornament must be worshipped at the petal tips for these forms?",
+   "premises": [
+    "The verb arcen prescribes an act of worship.",
+    "The objects to be worshipped include a pestle, a sword, and a forest-garland.",
+    "The location specified for this worship is the tips of the petals."
+   ],
+   "inference": "The practitioner should worship the pestle, sword, and forest-garland at the petal tips.",
+   "uncertainties": [
+    "The exact petal location within the diagram is supplied by the preceding context."
+   ],
+   "plain_english": "One should worship the pestle, the sword, and the forest-garland at the tips of the petals."
+  }
+ ]
+}

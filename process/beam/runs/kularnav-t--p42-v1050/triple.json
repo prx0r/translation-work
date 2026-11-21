@@ -1,0 +1,57 @@
+{
+ "song": "kul-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "surāḥ",
+     "gloss": "gods",
+     "grounds": "gods",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kulapriyāḥ",
+     "gloss": "kula-dear",
+     "grounds": "compound kula+priya, dear to kula",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "all",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikam",
+     "gloss": "kaulika",
+     "grounds": "kaulika practitioner",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "worship",
+     "grounds": "optative of arc",
+     "morph": "3.sg.act.opt (arc)"
+    }
+   ],
+   "question": "Why should one worship the Kaulika?",
+   "premises": [
+    "All gods are dear to Kula.",
+    "The Kaulika belongs to Kula.",
+    "Therefore one should worship the Kaulika."
+   ],
+   "inference": "Divine regard for Kula supports worship of the Kaulika.",
+   "uncertainties": [
+    "Edition and verse numbering may vary."
+   ],
+   "plain_english": "All the gods are dear to Kula; therefore one should worship the Kaulika."
+  }
+ ]
+}

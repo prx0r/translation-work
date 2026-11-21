@@ -1,0 +1,969 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "kṛtasandhyādikaḥ",
+     "gloss": "having-done-twilight-rites-etc",
+     "grounds": "bahuvrīhi compound; agent who has completed sandhyā and related rites",
+     "morph": "compound=kṛta+sandhyā+ādi+ka; m.nom.sg"
+    },
+    {
+     "surface": "sampāditapuṣpādisādhanaḥ",
+     "gloss": "having-prepared-flowers-etc-materials",
+     "grounds": "bahuvrīhi compound; agent who has gathered flowers and other requisites",
+     "morph": "compound=sampādita+puṣpa+ādi+sādhana; m.nom.sg"
+    }
+   ],
+   "question": "What preparatory state must the practitioner attain before beginning the ritual worship?",
+   "premises": [
+    "The practitioner has completed twilight rites and related observances.",
+    "The practitioner has prepared flowers and other ritual materials."
+   ],
+   "inference": "Ritual worship requires prior completion of daily rites and assembly of necessary materials.",
+   "uncertainties": [],
+   "plain_english": "Having performed the twilight rites and the rest, and having prepared flowers and other materials,"
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "catuṣṭayaṃ",
+     "gloss": "set-of-four",
+     "grounds": "object indicating number of lamps",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīpikānāṃ",
+     "gloss": "of-lamps",
+     "grounds": "genitive plural specifying the items counted",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prajvālya",
+     "gloss": "having-lighted",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund; root=pra-jval"
+    },
+    {
+     "surface": "dvayameva",
+     "gloss": "pair-only",
+     "grounds": "alternative number with emphatic particle",
+     "morph": "compound=dvaya+eva; n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many lamps may be lit as an acceptable alternative in the rite?",
+   "premises": [
+    "Four lamps may be lighted.",
+    "Alternatively, only two lamps may be lighted."
+   ],
+   "inference": "The ritual permits flexibility in the number of lamps, allowing either four or two.",
+   "uncertainties": [],
+   "plain_english": "having lighted four lamps, or else only two,"
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "deśakālau",
+     "gloss": "place-and-time",
+     "grounds": "dvandva compound denoting ritual context",
+     "morph": "compound=deśa+kāla; m.acc.du"
+    },
+    {
+     "surface": "susaṃkīrtya",
+     "gloss": "having-well-proclaimed",
+     "grounds": "absolutive indicating formal declaration",
+     "morph": "gerund; root=sam-kīrt"
+    },
+    {
+     "surface": "ceṣṭaliṅgasya",
+     "gloss": "of-chosen-linga",
+     "grounds": "genitive specifying the object of worship",
+     "morph": "compound=ceṣṭa+liṅga; n.gen.sg"
+    },
+    {
+     "surface": "prītaye",
+     "gloss": "for-delight",
+     "grounds": "dative expressing purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what purpose must place and time be formally proclaimed in this rite?",
+   "premises": [
+    "Place and time are to be clearly proclaimed.",
+    "The proclamation is made for the delight of the chosen linga."
+   ],
+   "inference": "Declaring place and time situates the worship as an offering for the linga's delight.",
+   "uncertainties": [],
+   "plain_english": "having clearly proclaimed the place and time for the delight of the chosen linga,"
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "bhasmacandanapuṣpāṇi",
+     "gloss": "ashes-sandal-flowers",
+     "grounds": "dvandva compound listing offerings",
+     "morph": "compound=bhasma+candana+puṣpa; n.acc.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to ritual place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund; root=ni-kṣip"
+    },
+    {
+     "surface": "nirmalam",
+     "gloss": "pure",
+     "grounds": "adjective qualifying the offerings or act",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What pure substances must be placed at the ritual site during preparation?",
+   "premises": [
+    "Ashes, sandal, and flowers are to be placed there.",
+    "These substances are characterized as pure."
+   ],
+   "inference": "Pure ashes, sandal, and flowers are required offerings at the ritual site.",
+   "uncertainties": [],
+   "plain_english": "having placed pure ashes, sandal, and flowers there,"
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "instrumental plural indicating means of consecration",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sammantrya",
+     "gloss": "having-consecrated",
+     "grounds": "absolutive expressing consecration by mantra",
+     "morph": "gerund; root=sam-mantr"
+    },
+    {
+     "surface": "saṃskāraiḥ",
+     "gloss": "with-purifications",
+     "grounds": "instrumental plural indicating ritual purifications",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃskuryāt",
+     "gloss": "one-should-purify",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.optative-active; root=sam-kṛ"
+    },
+    {
+     "surface": "vakṣyamāṇakaiḥ",
+     "gloss": "to-be-described",
+     "grounds": "future passive participle referring to purifications explained later",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "By what means should the offerings be consecrated and purified in this stage?",
+   "premises": [
+    "The offerings are first consecrated with mantras.",
+    "They should be purified with purifications to be described."
+   ],
+   "inference": "Consecration and purification require both mantras and specific ritual purifications.",
+   "uncertainties": [],
+   "plain_english": "having consecrated them with mantras, one should purify them with the purifications to be described."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "dhenvākhyayā",
+     "gloss": "by-called-dhenu",
+     "grounds": "instrumental of the mantra or gesture named dhenu",
+     "morph": "compound=dhenu+ākhyā; f.inst.sg"
+    },
+    {
+     "surface": "amṛtīkṛtya",
+     "gloss": "having-made-nectar",
+     "grounds": "absolutive indicating transformation into nectar",
+     "morph": "gerund; root=amṛtī-kṛ"
+    },
+    {
+     "surface": "padmaliṅge",
+     "gloss": "in-lotus-linga",
+     "grounds": "locative specifying the ritual support",
+     "morph": "compound=padma+liṅga; n.loc.sg"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "one-should-display",
+     "grounds": "optative prescribing ritual display",
+     "morph": "3.sg.optative-active; root=pra-dṛś"
+    }
+   ],
+   "question": "How should the offerings be transformed and presented upon the lotus linga?",
+   "premises": [
+    "The offerings are made into nectar by means of the dhenu.",
+    "They should be displayed in the lotus linga."
+   ],
+   "inference": "The dhenu transforms the offerings into nectar for presentation on the lotus linga.",
+   "uncertainties": [
+    "dhenvākhyayā may refer to a mudrā or mantra named dhenu"
+   ],
+   "plain_english": "Having made them into nectar by means of the dhenu, one should display them in the lotus linga."
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "taduttareṇa",
+     "gloss": "after-that",
+     "grounds": "instrumental used adverbially indicating sequence",
+     "morph": "compound=tad+uttara; n.inst.sg"
+    },
+    {
+     "surface": "vinyasyet",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.optative-active; root=vi-ni-as"
+    },
+    {
+     "surface": "pādyapātre",
+     "gloss": "in-foot-water-vessel",
+     "grounds": "locative specifying the vessel",
+     "morph": "compound=pādya+pātra; n.loc.sg"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-proper-order",
+     "grounds": "adverbial compound indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order and location should the next ritual items be placed?",
+   "premises": [
+    "Placement follows after the previous step.",
+    "Items are placed in the foot-water vessel in proper order."
+   ],
+   "inference": "The next items must be arranged sequentially in the foot-water vessel.",
+   "uncertainties": [],
+   "plain_english": "After that, one should place them in the foot-water vessel in proper order."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "bhasmacandanapuṣpāṇi",
+     "gloss": "ashes-sandal-flowers",
+     "grounds": "dvandva compound listing items to be placed",
+     "morph": "compound=bhasma+candana+puṣpa; n.acc.pl"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.optative-active; root=ni-kṣip"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound denoting the qualified ritual agent",
+     "morph": "compound=sādhaka+uttama; m.nom.sg"
+    }
+   ],
+   "question": "Who is responsible for placing ashes, sandal, and flowers in the vessel?",
+   "premises": [
+    "Ashes, sandal, and flowers are to be placed.",
+    "The best practitioner performs this placement."
+   ],
+   "inference": "The qualified practitioner must place these offerings in the vessel.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should place ashes, sandal, and flowers there."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "taduttarepyarghyapātre",
+     "gloss": "after-that-in-arghya-vessel",
+     "grounds": "fused locative compound indicating next vessel; internal sandhi taduttare+api+arghyapātre",
+     "morph": "compound=tad+uttara+api+arghya+pātra; n.loc.sg"
+    },
+    {
+     "surface": "kuśādīn",
+     "gloss": "kuśa-grass-etc",
+     "grounds": "accusative plural of items beginning with kuśa",
+     "morph": "compound=kuśa+ādi; m.acc.pl"
+    },
+    {
+     "surface": "vikṣipet",
+     "gloss": "one-should-scatter",
+     "grounds": "optative prescribing scattering",
+     "morph": "3.sg.optative-active; root=vi-kṣip"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating similar procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials should be placed in the arghya vessel following the previous step?",
+   "premises": [
+    "After that, action is taken in the arghya vessel.",
+    "Kuśa grass and similar items should be scattered there likewise."
+   ],
+   "inference": "The arghya vessel is prepared by scattering kuśa and related materials in sequence.",
+   "uncertainties": [],
+   "plain_english": "After that, likewise, one should scatter kuśa grass and the rest in the arghya vessel."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgair",
+     "gloss": "with-six-limbs",
+     "grounds": "instrumental plural referring to six-limbed mantra",
+     "morph": "compound=ṣaṣ+aṅga; n.inst.pl"
+    },
+    {
+     "surface": "jalamāpūrya",
+     "gloss": "having-filled-water",
+     "grounds": "absolutive expressing prior action of filling",
+     "morph": "gerund; compound=jala+āpūrya; root=ā-pṛ"
+    },
+    {
+     "surface": "sadyādyair",
+     "gloss": "with-sadya-etc",
+     "grounds": "instrumental plural referring to mantras beginning with sadyojāta",
+     "morph": "compound=sadya+ādi; m.inst.pl"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "optative prescribing mantra consecration",
+     "morph": "3.sg.optative-active; root=abhi-mantr"
+    }
+   ],
+   "question": "Which mantras are used to consecrate the water after filling the vessel?",
+   "premises": [
+    "The vessel is filled with water.",
+    "The water is consecrated with the six-limbed mantras and those beginning with sadyojāta."
+   ],
+   "inference": "Consecration of the filled water requires the six-limbed and sadyojāta-group mantras.",
+   "uncertainties": [],
+   "plain_english": "Having filled it with water, one should consecrate it with the six-limbed mantras and with those beginning with Sadyojāta."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "uṣṇaṃ",
+     "gloss": "hot",
+     "grounds": "adjective qualifying water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalamāpūrya",
+     "gloss": "having-filled-water",
+     "grounds": "absolutive expressing prior action of filling",
+     "morph": "gerund; compound=jala+āpūrya; root=ā-pṛ"
+    },
+    {
+     "surface": "prāsādena",
+     "gloss": "with-prāsāda-mantra",
+     "grounds": "instrumental specifying mantra used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "optative prescribing mantra consecration",
+     "morph": "3.sg.optative-active; root=abhi-mantr"
+    }
+   ],
+   "question": "With which mantra should hot water be consecrated after being poured?",
+   "premises": [
+    "Hot water is filled into the vessel.",
+    "It should be consecrated with the prāsāda mantra."
+   ],
+   "inference": "Hot water requires consecration specifically by the prāsāda mantra.",
+   "uncertainties": [],
+   "plain_english": "Having filled it with hot water, one should indeed consecrate it with the Prāsāda mantra."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "candanodakamāpūrya",
+     "gloss": "having-filled-sandal-water",
+     "grounds": "absolutive compound indicating filling with sandal water",
+     "morph": "gerund; compound=candana+udaka+āpūrya; root=ā-pṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking steps",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "with-aghora-mantra",
+     "grounds": "instrumental specifying mantra used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "optative prescribing mantra consecration",
+     "morph": "3.sg.optative-active; root=abhi-mantr"
+    }
+   ],
+   "question": "With which mantra should sandal water be consecrated in the ritual sequence?",
+   "premises": [
+    "Sandal water is filled into the vessel.",
+    "It should be consecrated with the aghora mantra."
+   ],
+   "inference": "Sandal water is consecrated specifically by the aghora mantra.",
+   "uncertainties": [],
+   "plain_english": "And having filled it with sandal water, one should consecrate it with the Aghora mantra."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "śītalodakamāpūrya",
+     "gloss": "having-filled-cool-water",
+     "grounds": "absolutive compound indicating filling with cool water",
+     "morph": "gerund; compound=śītala+udaka+āpūrya; root=ā-pṛ"
+    },
+    {
+     "surface": "vāmadevena",
+     "gloss": "with-vāmadeva-mantra",
+     "grounds": "instrumental specifying mantra used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantrayet",
+     "gloss": "one-should-mantra",
+     "grounds": "optative prescribing mantra consecration",
+     "morph": "3.sg.optative-active; root=mantr"
+    }
+   ],
+   "question": "With which mantra should cool water be consecrated during the preparation?",
+   "premises": [
+    "Cool water is filled into the vessel.",
+    "It should be consecrated with the vāmadeva mantra."
+   ],
+   "inference": "Cool water is consecrated specifically by the vāmadeva mantra.",
+   "uncertainties": [],
+   "plain_english": "Having filled it with cool water, one should consecrate it with the Vāmadeva mantra."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.optative-active; root=vi-ni-as"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to ritual place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding another step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhārapātrāṇi",
+     "gloss": "support-vessels",
+     "grounds": "compound denoting vessels used as supports",
+     "morph": "compound=ādhāra+pātra; n.acc.pl"
+    },
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "numeral specifying quantity",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "paṅtiśaḥ",
+     "gloss": "in-rows",
+     "grounds": "adverb indicating arrangement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many support vessels must be arranged and in what formation?",
+   "premises": [
+    "Three support vessels are to be placed there.",
+    "They should be arranged in rows."
+   ],
+   "inference": "The ritual requires three support vessels set out in rows.",
+   "uncertainties": [],
+   "plain_english": "And there one should place three support vessels in rows."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to vessels",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhasmādi",
+     "gloss": "ashes-etc",
+     "grounds": "compound indicating ashes and related items",
+     "morph": "compound=bhasma+ādi; n.acc.sg"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund; root=ni-kṣip"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pānīyakaṃ",
+     "gloss": "drinking",
+     "grounds": "adjective qualifying water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What substances are placed in the support vessels after ashes and the rest?",
+   "premises": [
+    "Ashes and related items are placed there.",
+    "Then drinking water is placed."
+   ],
+   "inference": "After placing ashes and similar items, drinking water is added to the vessels.",
+   "uncertainties": [],
+   "plain_english": "Having placed ashes and the rest there, one should then place drinking water."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "āpo vā idaṃ sarvam",
+     "gloss": "water-indeed-this-all",
+     "grounds": "quoted Vedic formula treated as a single token",
+     "morph": "quotation"
+    },
+    {
+     "surface": "ityanena",
+     "gloss": "with-this-formula",
+     "grounds": "instrumental referring to the quoted formula",
+     "morph": "compound=iti+anena; n.inst.sg"
+    },
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "absolutive expressing consecration by mantra",
+     "morph": "gerund; root=abhi-mantr"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred formula is used to consecrate the water in this step?",
+   "premises": [
+    "The formula 'āpo vā idaṃ sarvam' is employed.",
+    "The water is consecrated with this formula."
+   ],
+   "inference": "Consecration of the water is performed using the Vedic formula identifying all as water.",
+   "uncertainties": [],
+   "plain_english": "And having consecrated it with the formula, 'Water indeed is all this,'"
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "sāmānyārghyagataṃ",
+     "gloss": "contained-in-common-arghya",
+     "grounds": "compound describing water located in the common arghya vessel",
+     "morph": "compound=sāmānya+arghya+gata; n.acc.sg"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "object to be distributed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pādyāditriṣu",
+     "gloss": "in-foot-water-etc-three",
+     "grounds": "locative compound referring to three vessels beginning with pādya",
+     "morph": "compound=pādya+ādi+tri; n.loc.pl"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.optative-active; root=ni-kṣip"
+    }
+   ],
+   "question": "Where should the water from the common arghya vessel be distributed?",
+   "premises": [
+    "Water contained in the common arghya is taken.",
+    "It should be placed in the three vessels beginning with the foot-water vessel."
+   ],
+   "inference": "Water from the common arghya is distributed into the pādya and related vessels.",
+   "uncertainties": [],
+   "plain_english": "one should place the water from the common arghya into the three vessels beginning with the foot-water vessel."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "tīrthaprasādau",
+     "gloss": "holy-water-and-grace",
+     "grounds": "dvandva compound denoting sanctified water and prasāda",
+     "morph": "compound=tīrtha+prasāda; m.acc.du"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "one-should-take",
+     "grounds": "optative prescribing reception",
+     "morph": "3.sg.optative-active; root=grah"
+    },
+    {
+     "surface": "matpūjāyogyatāptaye",
+     "gloss": "for-attaining-fitness-for-my-worship",
+     "grounds": "dative compound expressing purpose",
+     "morph": "compound=mat+pūjā+yogyatā+āpti; f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should the practitioner receive holy water and grace?",
+   "premises": [
+    "Holy water and grace are to be taken.",
+    "They are taken to attain fitness for worship of the deity."
+   ],
+   "inference": "Receiving tīrtha and prasāda confers eligibility for the deity's worship.",
+   "uncertainties": [
+    "matpūjā may refer to worship of Śiva or the speaker's worship depending on context"
+   ],
+   "plain_english": "One should take the holy water and grace in order to attain fitness for my worship."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "ayaṃ me hasta",
+     "gloss": "this-my-hand",
+     "grounds": "quoted formula treated as a single token",
+     "morph": "quotation"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastaśuddhiṃ",
+     "gloss": "hand-purification",
+     "grounds": "compound denoting purification of the hand",
+     "morph": "compound=hasta+śuddhi; f.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund; root=vi-dhā"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what formula and action is purification of the hand accomplished?",
+   "premises": [
+    "The formula 'ayaṃ me hasta' is used.",
+    "Hand purification is performed with this formula."
+   ],
+   "inference": "Reciting the specified formula effects the ritual purification of the hand.",
+   "uncertainties": [],
+   "plain_english": "Having indeed performed the purification of the hand with the formula, 'This is my hand,'"
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "sarvaliṅgaṃ",
+     "gloss": "all-linga",
+     "grounds": "compound referring to the linga as encompassing all",
+     "morph": "compound=sarva+liṅga; n.acc.sg"
+    },
+    {
+     "surface": "sthāpayati",
+     "gloss": "establishes",
+     "grounds": "present verb in quoted formula context",
+     "morph": "3.sg.present-active; root=sthā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.optative-active; root=ni-kṣip"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative specifying placement",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "With what formula should the linga be placed in the practitioner's hand?",
+   "premises": [
+    "The formula 'sarvaliṅgaṃ sthāpayati' is recited.",
+    "The linga is placed in the hand with this formula."
+   ],
+   "inference": "The linga is ritually placed in the hand accompanied by the stated formula.",
+   "uncertainties": [],
+   "plain_english": "with the formula, 'It establishes the all-linga,' one should place the linga in the hand."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral indicating count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaṭchataṃ",
+     "gloss": "six-hundred",
+     "grounds": "numeral compound indicating alternative count",
+     "morph": "compound=ṣaṣ+śata; n.acc.sg"
+    },
+    {
+     "surface": "vā'pi",
+     "gloss": "or-even",
+     "grounds": "fused disjunctive and emphatic particles; internal sandhi vā+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japedeva",
+     "gloss": "one-should-recite-indeed",
+     "grounds": "fused optative verb and emphatic particle; internal sandhi japet+eva",
+     "morph": "3.sg.optative-active; root=jap"
+    },
+    {
+     "surface": "ṣaḍakṣarīm",
+     "gloss": "six-syllabled-mantra",
+     "grounds": "adjective referring to the six-syllable mantra",
+     "morph": "compound=ṣaṣ+akṣara; f.acc.sg"
+    }
+   ],
+   "question": "How many recitations of the six-syllabled mantra are prescribed as alternatives?",
+   "premises": [
+    "One may recite the six-syllabled mantra a thousand times.",
+    "Alternatively, one may recite it six hundred times."
+   ],
+   "inference": "The ritual allows either one thousand or six hundred recitations of the six-syllabled mantra.",
+   "uncertainties": [],
+   "plain_english": "One should indeed recite the six-syllabled mantra a thousand times, or even six hundred."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "abhyukṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund; root=abhi-ukṣ"
+    },
+    {
+     "surface": "nānudhyāyet",
+     "gloss": "one-should-not-meditate",
+     "grounds": "prohibitive optative with negative particle",
+     "morph": "3.sg.optative-active; root=anu-dhyai"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking instructions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tamevaikam",
+     "gloss": "that-very-one",
+     "grounds": "compound emphasizing singular focus; internal sandhi tam+eva+ekam",
+     "morph": "compound=tad+eva+eka; m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle indicating manner or thought",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle expressing continuous recollection",
+     "morph": "m.nom.sg.present-participle-active; root=smṛ"
+    }
+   ],
+   "question": "What mental focus is required while sprinkling during this ritual action?",
+   "premises": [
+    "After sprinkling, one should not meditate on anything else.",
+    "One should remember that very one alone."
+   ],
+   "inference": "Sprinkling must be accompanied by exclusive remembrance of the single deity.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled, one should not meditate on anything else, but should remember that very one alone."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "nīrājanaṃ",
+     "gloss": "light-waving",
+     "grounds": "ritual act of waving light",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sānurāgaṃ",
+     "gloss": "with-affection",
+     "grounds": "adverbial compound indicating devotional mood",
+     "morph": "compound=sa+anurāga; n.acc.sg"
+    },
+    {
+     "surface": "yā te rudra",
+     "gloss": "which-to-you-rudra",
+     "grounds": "quoted Vedic formula treated as a single token",
+     "morph": "quotation"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirdiśet",
+     "gloss": "one-should-indicate",
+     "grounds": "optative prescribing performance or designation",
+     "morph": "3.sg.optative-active; root=nir-diś"
+    }
+   ],
+   "question": "How should the waving of light be performed and with which formula?",
+   "premises": [
+    "The waving of light is to be performed with affection.",
+    "It is indicated with the formula 'yā te rudra'."
+   ],
+   "inference": "Affectionate light-waving is ritually enacted using the 'yā te rudra' formula.",
+   "uncertainties": [],
+   "plain_english": "One should perform the waving of light with affection, indicating it with the formula, 'Which to you, O Rudra.'"
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "mūlenaiva",
+     "gloss": "with-root-mantra-only",
+     "grounds": "instrumental with emphatic particle; internal sandhi mūlena+eva",
+     "morph": "compound=mūla+eva; n.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgāgre",
+     "gloss": "at-linga-tip",
+     "grounds": "locative compound specifying place on the linga",
+     "morph": "compound=liṅga+agra; n.loc.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund; root=ni-kṣip"
+    },
+    {
+     "surface": "mantritam",
+     "gloss": "consecrated",
+     "grounds": "past passive participle describing the flower",
+     "morph": "n.acc.sg.past-passive-participle; root=mantr"
+    }
+   ],
+   "question": "How must the flower be consecrated and placed upon the tip of the linga?",
+   "premises": [
+    "A flower consecrated with the root mantra is used.",
+    "It is placed at the tip of the linga."
+   ],
+   "inference": "The root mantra alone consecrates the flower for placement on the linga's tip.",
+   "uncertainties": [],
+   "plain_english": "Having placed a flower consecrated with the root mantra alone at the tip of the linga,"
+  }
+ ]
+}

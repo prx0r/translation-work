@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "ṣoḍaśasvarasaṃbhūtā",
+     "gloss": "born-from-sixteen-vowels",
+     "grounds": "compound adjective describing elements arising from the sixteen vowels",
+     "morph": "adj.f.nom.pl"
+    },
+    {
+     "surface": "amṭādyā",
+     "gloss": "am-and-following-elements",
+     "grounds": "am-group beginning with am, with following members",
+     "morph": "noun.f.nom.pl"
+    },
+    {
+     "surface": "vidhikramāt",
+     "gloss": "by-ritual-order",
+     "grounds": "ablative of ritual sequence or prescribed procedure",
+     "morph": "noun.m.abl.sg"
+    }
+   ],
+   "question": "Which sixteen-vowel-born am-group elements are arranged by ritual order?",
+   "premises": [
+    "sixteen vowels generate am-group elements",
+    "ritual order governs their arrangement",
+    "the verse names the governing sequence"
+   ],
+   "inference": "the am-group is ordered by ritual sequence derived from the sixteen vowels",
+   "uncertainties": [
+    "exact referent of the am-group is not fully specified",
+    "grammatical number and gender remain partly unresolved"
+   ],
+   "plain_english": "The elements beginning with am, born from the sixteen vowels, are arranged according to ritual order."
+  }
+ ]
+}

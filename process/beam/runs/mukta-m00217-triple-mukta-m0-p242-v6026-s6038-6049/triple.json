@@ -1,0 +1,493 @@
+{
+ "song": "mukta-m0-p242",
+ "items": [
+  {
+   "verse": 6038,
+   "rows": [
+    {
+     "surface": "nārasiṃhena mantreṇa",
+     "gloss": "with-narasimha-mantra",
+     "grounds": "instrumental compound phrase naming the mantra used for touching",
+     "morph": "compound=nārasiṃha+mantreṇa; m.ins.sg"
+    },
+    {
+     "surface": "devatīrthena",
+     "gloss": "with-divine-water",
+     "grounds": "instrumental noun indicating the sacred water used",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃspṛśet",
+     "gloss": "should-touch",
+     "grounds": "optative verb prescribing the ritual action",
+     "morph": "3.sg.act.opt; √spṛś"
+    }
+   ],
+   "question": "By what mantra and substance should the practitioner perform the ritual touching?",
+   "premises": [
+    "The Narasimha mantra is specified as the means",
+    "Divine water is specified as the substance",
+    "Touching is prescribed as the action"
+   ],
+   "inference": "The practitioner should touch using the Narasimha mantra together with divine water.",
+   "uncertainties": [
+    "The exact referent of devatīrtha in this ritual context is not fully specified"
+   ],
+   "plain_english": "One should touch with the Narasimha mantra and with divine water."
+  },
+  {
+   "verse": 6039,
+   "rows": [
+    {
+     "surface": "vāmena",
+     "gloss": "with-left",
+     "grounds": "instrumental adjective qualifying the hand",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pāṇinā",
+     "gloss": "with-hand",
+     "grounds": "instrumental noun indicating the instrument of holding",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-held",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund); √dhṛ"
+    },
+    {
+     "surface": "vāmapārśvasthitaṃ",
+     "gloss": "standing-on-left-side",
+     "grounds": "compound describing the position of what is held",
+     "morph": "compound=vāma+pārśva+sthitaṃ; m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable marking the time of the action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How and where must the object be held before the subsequent ritual action?",
+   "premises": [
+    "The left hand is specified as the instrument",
+    "Holding is performed as a prior action",
+    "The object is positioned on the left side"
+   ],
+   "inference": "At that time, one should hold the object standing on the left side with the left hand.",
+   "uncertainties": [
+    "The specific object being held is implied from context rather than named"
+   ],
+   "plain_english": "Then, holding it on the left side with the left hand."
+  },
+  {
+   "verse": 6040,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "whatever",
+     "grounds": "relative pronoun introducing the contamination",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ajñānāt",
+     "gloss": "from-ignorance",
+     "grounds": "ablative indicating the cause of contact",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "apeyādisaṃsṛṣṭiḥ",
+     "gloss": "contact-with-impure-things",
+     "grounds": "compound naming contact with undrinkable or impure substances",
+     "morph": "compound=apeya+ādi+saṃsṛṣṭiḥ; f.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "indeclinable indicating the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgatā",
+     "gloss": "has-occurred",
+     "grounds": "past participle stating that contact has taken place",
+     "morph": "f.nom.sg; √gam"
+    }
+   ],
+   "question": "What kind of contamination may have occurred here through ignorance?",
+   "premises": [
+    "Ignorance is identified as the cause",
+    "Contact with impure things is named",
+    "Such contact is stated to have occurred"
+   ],
+   "inference": "Whatever contact with impure things has occurred here through ignorance must be addressed.",
+   "uncertainties": [
+    "The full range of items included by ādi is unspecified"
+   ],
+   "plain_english": "Whatever contact with undrinkable or other impure things has occurred here through ignorance."
+  },
+  {
+   "verse": 6041,
+   "rows": [
+    {
+     "surface": "jalāśayaśavasparśāñjanasnānācca",
+     "gloss": "from-touching-corpse-in-water-and-bathing",
+     "grounds": "long compound listing sources of impurity, with enclitic ca",
+     "morph": "compound=jalāśaya+śava+sparśa+añjana+snānāt+ca; n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective adding further cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgatam",
+     "gloss": "has-occurred",
+     "grounds": "past participle indicating resulting contact or impurity",
+     "morph": "n.nom.sg; √gam"
+    }
+   ],
+   "question": "What additional sources of impurity are included in the contamination to be removed?",
+   "premises": [
+    "Touching a corpse in a water reservoir is mentioned",
+    "Bathing or anointing in that context is included",
+    "Such contact is stated to have occurred"
+   ],
+   "inference": "Impurity arising from contact with a corpse in water and related acts is also included.",
+   "uncertainties": [
+    "The exact parsing of añjana within the compound is context-dependent"
+   ],
+   "plain_english": "And whatever impurity has arisen from touching a corpse in a water reservoir and from related bathing or anointing."
+  },
+  {
+   "verse": 6042,
+   "rows": [
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "absolutive indicating reverential action before the rite",
+     "morph": "(gerund); √nam"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "to-guru",
+     "grounds": "accusative object of reverence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaṇeśānaṃ",
+     "gloss": "to-lord-of-ganas",
+     "grounds": "accusative name of the deity honored",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "purataḥ",
+     "gloss": "in-front",
+     "grounds": "indeclinable indicating position before the deity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sveṣṭadevatām",
+     "gloss": "one's-chosen-deity",
+     "grounds": "compound accusative naming the personal deity",
+     "morph": "compound=sva+iṣṭa+devatām; f.acc.sg"
+    }
+   ],
+   "question": "To whom must the practitioner offer reverence before performing the purification acts?",
+   "premises": [
+    "Bowing is prescribed as a preliminary act",
+    "The guru and Ganesha are named as recipients",
+    "The chosen deity is also present before the practitioner"
+   ],
+   "inference": "The practitioner should bow to the guru, to Ganesha, and before one's chosen deity.",
+   "uncertainties": [
+    "Whether purataḥ governs only the chosen deity or the whole sequence is slightly ambiguous"
+   ],
+   "plain_english": "Having bowed to the guru and to Ganesha, in front of one's chosen deity."
+  },
+  {
+   "verse": 6043,
+   "rows": [
+    {
+     "surface": "mardayitvā",
+     "gloss": "having-rubbed",
+     "grounds": "causative absolutive indicating the preparatory action",
+     "morph": "(gerund); caus. √mṛd"
+    },
+    {
+     "surface": "karau",
+     "gloss": "both-hands",
+     "grounds": "accusative dual object being rubbed",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "thoroughly",
+     "grounds": "indeclinable adverb qualifying the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "surabhīkṛtya",
+     "gloss": "having-made-fragrant",
+     "grounds": "absolutive indicating making the hands fragrant",
+     "morph": "(gerund); compound verb surabhī+kṛ"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative subject performing the actions",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What preparatory actions must the practitioner perform on the hands before disposal?",
+   "premises": [
+    "The practitioner is the agent",
+    "Both hands are to be rubbed thoroughly",
+    "The hands are to be made fragrant"
+   ],
+   "inference": "The practitioner should thoroughly rub both hands and make them fragrant.",
+   "uncertainties": [],
+   "plain_english": "The practitioner, having thoroughly rubbed both hands and made them fragrant."
+  },
+  {
+   "verse": 6044,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇena mantreṇa",
+     "gloss": "with-mantra-to-be-spoken",
+     "grounds": "instrumental phrase referring to a mantra given later",
+     "morph": "compound=vakṣyamāṇena+mantreṇa; m.ins.sg"
+    },
+    {
+     "surface": "caiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "locative indicating the direction of disposal",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "durataḥ",
+     "gloss": "far-away",
+     "grounds": "indeclinable adverb specifying distance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-discard",
+     "grounds": "optative verb prescribing disposal",
+     "morph": "3.sg.act.opt; √tyaj"
+    }
+   ],
+   "question": "Where and by what means should the practitioner discard the used material?",
+   "premises": [
+    "A mantra to be spoken is prescribed as the means",
+    "The northeast direction is specified",
+    "Discarding is to be done far away"
+   ],
+   "inference": "The practitioner should discard it far away in the northeast using the mantra to be spoken.",
+   "uncertainties": [
+    "The exact mantra referred to is given in a later verse"
+   ],
+   "plain_english": "One should discard it far away in the northeast with the mantra that will be stated."
+  },
+  {
+   "verse": 6045,
+   "rows": [
+    {
+     "surface": "vimardanārthaṃ",
+     "gloss": "for-rubbing",
+     "grounds": "compound expressing purpose of taking the material",
+     "morph": "compound=vimardana+artham; n.acc.sg"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "should-take",
+     "grounds": "optative verb prescribing acquisition",
+     "morph": "3.sg.act.opt; √grah"
+    },
+    {
+     "surface": "karaśodhanakarmaṇi",
+     "gloss": "in-hand-purification-act",
+     "grounds": "locative compound specifying the ritual context",
+     "morph": "compound=kara+śodhana+karmaṇi; n.loc.sg"
+    }
+   ],
+   "question": "For what purpose and in what ritual act should the material be taken?",
+   "premises": [
+    "Rubbing is stated as the purpose",
+    "Taking is prescribed",
+    "The act is hand purification"
+   ],
+   "inference": "One should take the material for rubbing in the act of hand purification.",
+   "uncertainties": [
+    "The specific material to be taken is not named in this verse"
+   ],
+   "plain_english": "One should take it for rubbing in the act of purifying the hands."
+  },
+  {
+   "verse": 6046,
+   "rows": [
+    {
+     "surface": "prasādena",
+     "gloss": "with-grace-offering",
+     "grounds": "instrumental noun indicating the means of disposal",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "parityāgo",
+     "gloss": "discarding",
+     "grounds": "action noun naming the act of abandonment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "diśyaiśānyāṃ",
+     "gloss": "in-northeast-direction",
+     "grounds": "locative phrase specifying the direction",
+     "morph": "compound=diśi+aiśānyāṃ; f.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "indeclinable emphasizing the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How and in which direction should the discarding be performed with special emphasis?",
+   "premises": [
+    "Discarding is the prescribed act",
+    "The grace offering is involved as means",
+    "The northeast direction is especially specified"
+   ],
+   "inference": "The discarding should be done with the grace offering, especially in the northeast direction.",
+   "uncertainties": [
+    "The precise ritual sense of prasāda here may depend on context"
+   ],
+   "plain_english": "The discarding should be done with the grace offering, especially in the northeast direction."
+  },
+  {
+   "verse": 6047,
+   "rows": [
+    {
+     "surface": "aṃgulyāgrāṇi",
+     "gloss": "fingertips",
+     "grounds": "nominative plural subject becoming pure",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śuddhāni",
+     "gloss": "pure",
+     "grounds": "predicate adjective describing the fingertips",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "puṣpāṇāṃ grahaṇāt",
+     "gloss": "from-taking-flowers",
+     "grounds": "ablative compound phrase giving the cause of purity",
+     "morph": "compound=puṣpāṇāṃ+grahaṇāt; n.abl.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative verb stating the result",
+     "morph": "3.sg.act.opt; √bhū"
+    }
+   ],
+   "question": "What ritual action renders the fingertips pure according to this instruction?",
+   "premises": [
+    "Fingertips are the subject of purification",
+    "Taking flowers is named as the cause",
+    "Purity is stated as the result"
+   ],
+   "inference": "The fingertips become pure from the act of taking flowers.",
+   "uncertainties": [],
+   "plain_english": "The fingertips become pure from taking flowers."
+  },
+  {
+   "verse": 6048,
+   "rows": [
+    {
+     "surface": "nirmanthanāt",
+     "gloss": "from-rubbing",
+     "grounds": "ablative indicating the cause of purification for the hand back",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pāṇipṛṣṭhaṃ",
+     "gloss": "back-of-hand",
+     "grounds": "compound naming the part made pure",
+     "morph": "compound=pāṇi+pṛṣṭhaṃ; n.nom.sg"
+    },
+    {
+     "surface": "ghrāṇāt",
+     "gloss": "from-smelling",
+     "grounds": "ablative indicating the cause of purification for the nose tip",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nāsāgram",
+     "gloss": "tip-of-nose",
+     "grounds": "compound naming the part made pure",
+     "morph": "compound=nāsā+agram; n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "adjective qualifying the resulting purity or state",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which bodily parts become excellently pure through rubbing and smelling respectively?",
+   "premises": [
+    "Rubbing is linked to the back of the hand",
+    "Smelling is linked to the tip of the nose",
+    "The resulting state is described as excellent"
+   ],
+   "inference": "Rubbing purifies the back of the hand and smelling purifies the tip of the nose excellently.",
+   "uncertainties": [
+    "The verb of becoming is implied rather than explicitly stated"
+   ],
+   "plain_english": "From rubbing, the back of the hand becomes pure; from smelling, the tip of the nose becomes excellently pure."
+  },
+  {
+   "verse": 6049,
+   "rows": [
+    {
+     "surface": "upāntyaḥ",
+     "gloss": "penultimate",
+     "grounds": "nominative adjective referring to a syllable or element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sāgnicandreṇa",
+     "gloss": "with-fire-and-moon",
+     "grounds": "instrumental compound indicating added phonetic or symbolic elements",
+     "morph": "compound=sa+agni+candreṇa; m.ins.sg"
+    },
+    {
+     "surface": "rañjitaḥ",
+     "gloss": "colored",
+     "grounds": "past participle describing modification of the element",
+     "morph": "m.nom.sg; √rañj"
+    },
+    {
+     "surface": "śūnyasaṃyutaḥ",
+     "gloss": "joined-with-void",
+     "grounds": "compound participle indicating conjunction with the void element",
+     "morph": "compound=śūnya+saṃyutaḥ; m.nom.sg"
+    }
+   ],
+   "question": "How is the penultimate element modified by fire, moon, and void in the mantra instruction?",
+   "premises": [
+    "The penultimate element is the subject",
+    "It is colored with fire and moon",
+    "It is joined with the void"
+   ],
+   "inference": "The penultimate element is to be modified by adding fire and moon and joined with the void.",
+   "uncertainties": [
+    "The exact technical identity of the penultimate element depends on the mantra context"
+   ],
+   "plain_english": "The penultimate element, colored with fire and moon, is joined with the void."
+  }
+ ]
+}

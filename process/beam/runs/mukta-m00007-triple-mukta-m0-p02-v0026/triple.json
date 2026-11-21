@@ -1,0 +1,895 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "vidyākhyaṃ",
+     "gloss": "knowledge-named",
+     "grounds": "bahuvrīhi compound qualifying tattvam",
+     "morph": "vidyā+ākhya (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tattvam",
+     "gloss": "principle",
+     "grounds": "refers to the vidyā-tattva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg (ppp, √vac)"
+    },
+    {
+     "surface": "taistais",
+     "gloss": "by-various-those",
+     "grounds": "reduplicated pronoun indicating various authorities",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the principle named vidyā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āgameṣu",
+     "gloss": "in-scriptures",
+     "grounds": "locative of source texts",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ittham",
+     "gloss": "in-this-way",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the principle called vidyā described in various scriptural traditions?",
+   "premises": [
+    "Various scriptures speak about a principle.",
+    "That principle is named vidyā in those texts.",
+    "The naming is presented as an established statement."
+   ],
+   "inference": "The vidyā principle is acknowledged under that name in multiple scriptural sources.",
+   "uncertainties": [
+    "The specific āgamas referred to by taistais are not identified."
+   ],
+   "plain_english": "That principle is thus stated as named vidyā in various scriptures in this way."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "marks the present doctrinal context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar",
+     "gloss": "but",
+     "grounds": "introduces a contrasting position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "different",
+     "grounds": "qualifies vāg as distinct from prior view",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "stated",
+     "grounds": "past passive participle agreeing with vāg",
+     "morph": "f.nom.sg (ppp, √vac)"
+    },
+    {
+     "surface": "puruṣāsamavāyinī",
+     "gloss": "not-inherent-in-person",
+     "grounds": "compound: puruṣa + a-samavāyinī, negating inherence in the individual self",
+     "morph": "puruṣa+a-samavāyin (compound, f.nom.sg)"
+    },
+    {
+     "surface": "vāg",
+     "gloss": "speech",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "introduces reason for the revised view",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must speech be understood as not inherently residing in the individual self?",
+   "premises": [
+    "A different account of speech is presented here.",
+    "Speech is stated as not inherent in the individual self.",
+    "A reason is introduced to justify this account."
+   ],
+   "inference": "The present teaching rejects inherence of speech in the individual self and offers a distinct explanation.",
+   "uncertainties": [
+    "The full causal clause continues into the next verse."
+   ],
+   "plain_english": "But here speech is stated differently, as indeed not inherent in the individual self, because..."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "yuktam,",
+     "gloss": "fitting",
+     "grounds": "evaluative term, likely negated in effect by following reasoning",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pariṇāmitvaprasaṅgāt;",
+     "gloss": "due-to-mutability-entailment",
+     "grounds": "compound: pariṇāmitva + prasaṅga, giving reason against inherence",
+     "morph": "pariṇāmitva+prasaṅga (compound, m.abl.sg)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to speech",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative of doctrinal context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktā",
+     "gloss": "stated",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg (ppp, √vac)"
+    }
+   ],
+   "question": "What consequence prevents speech from being affirmed as inherent in the individual self?",
+   "premises": [
+    "Attributing speech as inherent would entail mutability.",
+    "Mutability is an unacceptable consequence in this context.",
+    "Therefore that attribution is rejected."
+   ],
+   "inference": "Speech is not affirmed here as inherent in the individual self because that would imply mutability.",
+   "uncertainties": [
+    "The exact target of yuktam is compressed and context-dependent."
+   ],
+   "plain_english": "Because that would entail mutability, this speech is therefore not stated as such here."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "bahudhā",
+     "gloss": "in-many-ways",
+     "grounds": "adverb indicating multiplicity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthātuṃ",
+     "gloss": "to-remain",
+     "grounds": "infinitive expressing capacity or state",
+     "morph": "(inf., √sthā)"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caitanyavinākṛtau",
+     "gloss": "in-consciousness-deprivation",
+     "grounds": "compound: caitanya + vinākṛti, locative condition",
+     "morph": "caitanya+vinākṛti (compound, f.loc.sg)"
+    },
+    {
+     "surface": "vikāritvāt",
+     "gloss": "due-to-mutability",
+     "grounds": "ablative of reason",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What additional reasons argue against locating speech inherently in the individual self?",
+   "premises": [
+    "Remaining in many ways implies change.",
+    "Deprivation of consciousness is incompatible with inherent speech.",
+    "Both conditions indicate mutability."
+   ],
+   "inference": "The capacity for manifold states or loss of consciousness further shows that speech cannot be inherently located there due to mutability.",
+   "uncertainties": [
+    "The syntactic connection to the previous verse is elliptical."
+   ],
+   "plain_english": "Or because of mutability, whether in remaining in many ways or in the deprivation of consciousness."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws conclusion from prior reasoning",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratipuruṣāt",
+     "gloss": "for-each-person",
+     "grounds": "compound: prati + puruṣa, indicating distribution per individual self",
+     "morph": "prati+puruṣa (compound, m.abl.sg)"
+    },
+    {
+     "surface": "tacchakteśca",
+     "gloss": "and-from-that-power",
+     "grounds": "compound with sandhi: tat + śakteḥ + ca",
+     "morph": "tat+śakti (compound, f.abl.sg) + ca (indecl.)"
+    },
+    {
+     "surface": "bhinnā",
+     "gloss": "distinct",
+     "grounds": "qualifies kuṇḍalinī as different from person and power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍalinī",
+     "gloss": "kuṇḍalinī",
+     "grounds": "technical term retained as name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nādakāraṇaṃ",
+     "gloss": "cause-of-sound",
+     "grounds": "compound: nāda + kāraṇa, identifying function",
+     "morph": "nāda+kāraṇa (compound, n.nom.sg)"
+    },
+    {
+     "surface": "siddhā",
+     "gloss": "established",
+     "grounds": "past passive participle indicating doctrinal conclusion",
+     "morph": "f.nom.sg (ppp, √sidh)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closes the conclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What entity is established as the distinct cause of sound for each individual self?",
+   "premises": [
+    "Speech cannot be inherent in the individual self or its power.",
+    "A distinct source for sound is required.",
+    "Kuṇḍalinī is identified as that source."
+   ],
+   "inference": "Kuṇḍalinī, distinct from each individual self and its power, is established as the cause of sound.",
+   "uncertainties": [
+    "The precise relation between tacchakti and the individual self is not fully specified."
+   ],
+   "plain_english": "Therefore, kuṇḍalinī, distinct from each individual self and from that power, is established as the cause of sound."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "acit",
+     "gloss": "non-conscious",
+     "grounds": "qualifies kuṇḍalinī implicitly",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhatvāt",
+     "gloss": "due-to-purity",
+     "grounds": "ablative of reason",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "māyātaḥ",
+     "gloss": "from-māyā",
+     "grounds": "ablative indicating distinction from māyā",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyā",
+     "gloss": "other",
+     "grounds": "marks distinction from māyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadūrdhvagā",
+     "gloss": "going-above-that",
+     "grounds": "compound: tat + ūrdhva + gā, indicating higher position",
+     "morph": "tat+ūrdhva+ga (compound, f.nom.sg)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "f.nom.sg (ppp, √kath)"
+    }
+   ],
+   "question": "How can kuṇḍalinī be non-conscious yet distinct from and higher than māyā?",
+   "premises": [
+    "Kuṇḍalinī is described as non-conscious.",
+    "Its purity distinguishes it from māyā.",
+    "It is located above māyā."
+   ],
+   "inference": "Despite being non-conscious, kuṇḍalinī is declared pure, distinct from māyā, and situated above it.",
+   "uncertainties": [
+    "The sense of śuddhatva relative to non-consciousness is doctrinally compressed."
+   ],
+   "plain_english": "Though non-conscious, it is declared, due to its purity, to be other than māyā and going above it."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing cited statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg (ppp, √vac)"
+    },
+    {
+     "surface": "māyopari",
+     "gloss": "above-māyā",
+     "grounds": "compound/adverbial form: māyā + upari",
+     "morph": "māyā+upari (compound, indecl.)"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-māyā",
+     "grounds": "technical term naming a higher principle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What scriptural statement supports locating a principle above māyā?",
+   "premises": [
+    "A statement places something above māyā.",
+    "That higher principle is called mahāmāyā.",
+    "This citation supports the preceding claim."
+   ],
+   "inference": "The teaching that mahāmāyā is above māyā corroborates the higher placement described earlier.",
+   "uncertainties": [
+    "The source of the cited statement is not specified."
+   ],
+   "plain_english": "As it is said: above māyā is mahāmāyā."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "adhvani",
+     "gloss": "in-the-path",
+     "grounds": "locative referring to the cosmic or doctrinal path",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "uktaṃ",
+     "gloss": "stated",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg (ppp, √vac)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "by-others",
+     "grounds": "instrumental of other authorities",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sadāgamaiḥ",
+     "gloss": "by-true-scriptures",
+     "grounds": "compound: sat + āgamaiḥ, qualifying authorities",
+     "morph": "sat+āgama (compound, m.inst.pl)"
+    },
+    {
+     "surface": "śreyase",
+     "gloss": "for-welfare",
+     "grounds": "dative of purpose",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taddhetuḥ",
+     "gloss": "its-cause",
+     "grounds": "compound: tat + hetuḥ, referring to cause of welfare",
+     "morph": "tat+hetu (compound, m.nom.sg)"
+    }
+   ],
+   "question": "What role do other true scriptures assign to this principle within the path?",
+   "premises": [
+    "Other true scriptures make statements about the path.",
+    "This principle is connected to welfare.",
+    "It is identified as a cause of that welfare."
+   ],
+   "inference": "Other authoritative scriptures place this principle in the path as a cause of welfare.",
+   "uncertainties": [
+    "The exact referent of taddhetuḥ depends on the broader context."
+   ],
+   "plain_english": "And it is stated in the path by other true scriptures, and as the cause of welfare."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "one of the results attributed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muktiśca",
+     "gloss": "and-liberation",
+     "grounds": "mukti with enclitic ca",
+     "morph": "f.nom.sg + ca (indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "qualifies liberation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nādajñānakriyā",
+     "gloss": "sound-knowledge-action",
+     "grounds": "compound: nāda + jñāna + kriyā",
+     "morph": "nāda+jñāna+kriyā (compound, f.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saphalā",
+     "gloss": "fruitful",
+     "grounds": "qualifies knowledge-action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closes the reported claim",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accomplishments are attributed to knowledge and action grounded in sound?",
+   "premises": [
+    "Accomplishment and supreme liberation are mentioned as results.",
+    "Knowledge and action related to sound are described.",
+    "These are said to be fruitful."
+   ],
+   "inference": "Sound-based knowledge and action are presented as yielding accomplishment and supreme liberation.",
+   "uncertainties": [
+    "The precise scope of nādajñānakriyā is doctrinally technical."
+   ],
+   "plain_english": "Accomplishment and supreme liberation, and knowledge and action of sound, are fruitful, thus they say."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "kathayanti",
+     "gloss": "they-say",
+     "grounds": "present active verb reporting authorities",
+     "morph": "3.pl.act-pres (√kath)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvakriyānuṣaṅgaḥ",
+     "gloss": "connection-with-prior-action",
+     "grounds": "compound: pūrva + kriyā + anuṣaṅga, indicating linkage to earlier discussion",
+     "morph": "pūrva+kriyā+anuṣaṅga (compound, m.nom.sg)"
+    }
+   ],
+   "question": "How does the reported teaching connect to the preceding discussion of action?",
+   "premises": [
+    "Authorities report the preceding claims.",
+    "The statement is linked to prior action.",
+    "This linkage frames the current argument."
+   ],
+   "inference": "The cited teaching is presented as connected to the previously discussed action.",
+   "uncertainties": [
+    "The exact prior action referred to is not explicit in this unit."
+   ],
+   "plain_english": "Thus they say, in connection with the previous action."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "tatkāryam",
+     "gloss": "its-effect",
+     "grounds": "compound: tat + kāryam, referring to effect of that cause",
+     "morph": "tat+kārya (compound, n.nom.sg)"
+    },
+    {
+     "surface": "abhiṣvaṅgāt",
+     "gloss": "from-attachment",
+     "grounds": "ablative of reason",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dṛkkriyayormīlanācca",
+     "gloss": "and-from-seeing-action-union",
+     "grounds": "compound with sandhi: dṛk + kriyayoḥ + mīlanāt + ca",
+     "morph": "dṛk+kriyā+mīlana (compound, n.abl.sg) + ca (indecl.)"
+    },
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "distinct",
+     "grounds": "qualifies the effect as differentiated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the effect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What factors produce a distinct effect in the operation of seeing and action?",
+   "premises": [
+    "An effect arises from a prior cause.",
+    "Attachment contributes to differentiation.",
+    "The union of seeing and action contributes to differentiation."
+   ],
+   "inference": "The effect becomes distinct due to attachment and the union of seeing and action.",
+   "uncertainties": [
+    "The referent of tat in tatkāryam is context-dependent."
+   ],
+   "plain_english": "That effect, which is distinct, arises from attachment and from the union of seeing and action."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "tattvaparikalpanābhāvaprasaṅgāt",
+     "gloss": "due-to-no-principle-conception-entailment",
+     "grounds": "long compound: tattva + parikalpanā + abhāva + prasaṅga, giving a reason",
+     "morph": "tattva+parikalpanā+abhāva+prasaṅga (compound, m.abl.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another reason to the argument",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What problematic entailment further supports the argument about differentiated effects?",
+   "premises": [
+    "An alternative view would entail absence of principle-conception.",
+    "Such absence is problematic for the doctrine.",
+    "This serves as an additional reason."
+   ],
+   "inference": "The entailment of no conception of principles provides further support for the stated position.",
+   "uncertainties": [
+    "The clause is elliptical and depends on the preceding verse for its main predicate."
+   ],
+   "plain_english": "And because it would entail the absence of any conception of principles."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun indicating instrument or means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sthūlaṃ",
+     "gloss": "gross",
+     "grounds": "qualifies sound or mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śabdaṃ",
+     "gloss": "sound",
+     "grounds": "object manifested or set forth",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object in apposition or parallel to sound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tantrātmakaṃ",
+     "gloss": "tantra-natured",
+     "grounds": "compound: tantra + ātmaka, qualifying mantra",
+     "morph": "tantra+ātmaka (compound, m.acc.sg)"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "present middle verb",
+     "morph": "3.sg.mid-pres (√vṛt with pra)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative or inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what means does gross sound or tantra-natured mantra come forth?",
+   "premises": [
+    "Gross sound and mantra are manifested phenomena.",
+    "Their proceeding requires a means or cause.",
+    "The verse identifies that means as the operative factor."
+   ],
+   "inference": "Gross sound and tantra-natured mantra proceed by means of the factor indicated by the relative pronoun.",
+   "uncertainties": [
+    "The antecedent of yena is not explicitly stated in this verse."
+   ],
+   "plain_english": "By which the gross sound, or the tantra-natured mantra, proceeds."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "sthūlasya",
+     "gloss": "of-the-gross",
+     "grounds": "genitive referring to gross sound or mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadabhivyañjakatvāt",
+     "gloss": "due-to-manifesting-that",
+     "grounds": "compound: tat + abhivyañjaka + tva, ablative of reason",
+     "morph": "tat+abhivyañjaka+tva (compound, n.abl.sg)"
+    },
+    {
+     "surface": "vācakatvam",
+     "gloss": "denotative-nature",
+     "grounds": "abstract noun indicating capacity to denote",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg (ppp, √vac)"
+    }
+   ],
+   "question": "Why is denotative capacity attributed to the gross level of expression?",
+   "premises": [
+    "The gross level manifests something prior.",
+    "Manifestation grounds denotative function.",
+    "This denotative nature is explicitly stated."
+   ],
+   "inference": "The gross level is called denotative because it manifests that which it expresses.",
+   "uncertainties": [
+    "The referent of tat in tadabhivyañjakatvāt is implicit."
+   ],
+   "plain_english": "But the gross is stated to have denotative nature because it manifests that."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "vācakajātaṃ",
+     "gloss": "collection-of-denoters",
+     "grounds": "compound: vācaka + jāta, object created",
+     "morph": "vācaka+jāta (compound, n.acc.sg)"
+    },
+    {
+     "surface": "nirmāya",
+     "gloss": "having-created",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(abs., √mā with nis)"
+    },
+    {
+     "surface": "antarataḥ",
+     "gloss": "from-within",
+     "grounds": "adverb indicating inner origin",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative object manifested outwardly",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyanakti",
+     "gloss": "manifests",
+     "grounds": "present active verb",
+     "morph": "3.sg.act-pres (√añj with vi)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "in-the-external",
+     "grounds": "locative indicating outer domain",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does inner formation of denoters lead to external manifestation?",
+   "premises": [
+    "A collection of denoters is formed inwardly.",
+    "What is formed within can be expressed outwardly.",
+    "The same agency manifests it externally."
+   ],
+   "inference": "After forming denoters from within, that agency manifests them in the external domain as well.",
+   "uncertainties": [
+    "The subject of nirmāya and vyanakti is not explicitly named."
+   ],
+   "plain_english": "Having created the collection of denoters from within, it manifests that in the external sphere as well."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "vācyavibhinnāṃ",
+     "gloss": "distinct-from-denoted",
+     "grounds": "compound: vācya + vibhinnā, qualifying cognition",
+     "morph": "vācya+vibhinna (compound, f.acc.sg)"
+    },
+    {
+     "surface": "buddhiṃ",
+     "gloss": "cognition",
+     "grounds": "object produced in hearers or agents",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kurvantaḥ",
+     "gloss": "making",
+     "grounds": "present participle indicating ongoing activity",
+     "morph": "m.nom.pl (prap, √kṛ)"
+    },
+    {
+     "surface": "vardhayanti",
+     "gloss": "they-increase",
+     "grounds": "present active verb",
+     "morph": "3.pl.act-pres (√vṛdh caus.)"
+    },
+    {
+     "surface": "janayātrām",
+     "gloss": "course-of-people",
+     "grounds": "compound: jana + yātrā, object of increase",
+     "morph": "jana+yātrā (compound, f.acc.sg)"
+    }
+   ],
+   "question": "How does differentiated cognition contribute to the ongoing course of human life?",
+   "premises": [
+    "Agents produce cognition distinct from the denoted object.",
+    "Such cognition shapes understanding and activity.",
+    "This process expands the course of people."
+   ],
+   "inference": "By producing cognition distinct from the denoted, they increase the course of human life.",
+   "uncertainties": [
+    "The subject of kurvantaḥ and vardhayanti is implied rather than explicit."
+   ],
+   "plain_english": "Making cognition distinct from what is denoted, they increase the course of people."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "nārāyaṇakaṇṭhasutaḥ",
+     "gloss": "son-of-nārāyaṇakaṇṭha",
+     "grounds": "compound identifying the author as Nārāyaṇakaṇṭha's son",
+     "morph": "nārāyaṇakaṇṭha+suta (compound, m.nom.sg)"
+    },
+    {
+     "surface": "kāśmīre",
+     "gloss": "in-kashmir",
+     "grounds": "locative of place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vṛttapañcaviṃśatyā",
+     "gloss": "by-twenty-five-verses",
+     "grounds": "compound: vṛtta + pañcaviṃśati, instrumental indicating composition extent",
+     "morph": "vṛtta+pañcaviṃśati (compound, f.inst.sg)"
+    }
+   ],
+   "question": "What authorship and compositional detail concludes this section of the work?",
+   "premises": [
+    "The author is identified as the son of Nārāyaṇakaṇṭha.",
+    "The place Kashmir is mentioned.",
+    "A composition of twenty-five verses is indicated."
+   ],
+   "inference": "The section concludes by attributing a twenty-five-verse composition in Kashmir to the son of Nārāyaṇakaṇṭha.",
+   "uncertainties": [
+    "The count vṛttapañcaviṃśatyā may refer to a subsection rather than the whole work."
+   ],
+   "plain_english": "The son of Nārāyaṇakaṇṭha, in Kashmir, by twenty-five verses."
+  }
+ ]
+}

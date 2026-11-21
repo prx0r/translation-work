@@ -1,0 +1,530 @@
+{
+ "song": "mukta-m0-p142",
+ "items": [
+  {
+   "verse": 3526,
+   "rows": [
+    {
+     "surface": "devyai",
+     "gloss": "to-the-goddess",
+     "grounds": "dative of devī",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "gerund of dā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āhuteḥ",
+     "gloss": "of-the-oblation",
+     "grounds": "genitive of āhuti",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "aṃśaṃ",
+     "gloss": "portion",
+     "grounds": "accusative of aṃśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratimā+mūrdhni",
+     "gloss": "on-the-image's-head",
+     "grounds": "compound locative",
+     "morph": "compound loc.sg"
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "one-should-place",
+     "grounds": "optative of niḥ-kṣip",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be done with a portion of the oblation after it is given to the goddess?",
+   "premises": [
+    "a portion of oblation is given to the goddess",
+    "that portion is placed on the image's head"
+   ],
+   "inference": "the ritual directs the oblation portion onto the deity image",
+   "uncertainties": [
+    "exact ritual context of niḥkṣipet"
+   ],
+   "plain_english": "Having given a portion of the oblation to the goddess, one should place it on the head of the image."
+  },
+  {
+   "verse": 3527,
+   "rows": [
+    {
+     "surface": "bhojayet",
+     "gloss": "one-should-feed",
+     "grounds": "optative of bhuj",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sādhakān",
+     "gloss": "practitioners",
+     "grounds": "accusative plural of sādhaka",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "viprān",
+     "gloss": "brahmins",
+     "grounds": "accusative plural of vipra",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dīnān",
+     "gloss": "and-the-poor",
+     "grounds": "accusative plural of dīna",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "āthān",
+     "gloss": "and-the-helpless",
+     "grounds": "accusative plural of ātha",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "causative optative of tuṣ",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Whom should the practitioner feed and satisfy during this rite?",
+   "premises": [
+    "practitioners brahmins poor and helpless are fed",
+    "they are also to be satisfied"
+   ],
+   "inference": "the rite includes feeding and satisfying these groups",
+   "uncertainties": [
+    "whether āthān is a standard form"
+   ],
+   "plain_english": "One should feed practitioners, brahmins, the poor, and the helpless, and satisfy them."
+  },
+  {
+   "verse": 3528,
+   "rows": [
+    {
+     "surface": "snāpayitvā",
+     "gloss": "having-bathed",
+     "grounds": "gerund of snāpay",
+     "morph": "indecl."
+    },
+    {
+     "surface": "arcayan",
+     "gloss": "worshipping",
+     "grounds": "present participle of arc",
+     "morph": "m.nom.sg.part"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "according-to-ability",
+     "grounds": "instrumental of śakti",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "śrāvayet",
+     "gloss": "one-should-cause-to-hear",
+     "grounds": "causative optative of śru",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "accusative of nāman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "accusative of devatā",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What worship acts follow bathing the deity?",
+   "premises": [
+    "after bathing one worships according to ability",
+    "one causes the deity's name to be heard"
+   ],
+   "inference": "worship includes ability-based worship and recitation of the deity's name",
+   "uncertainties": [
+    "exact scope of śrāvayet"
+   ],
+   "plain_english": "Having bathed and worshipped according to ability, one should cause the deity's name to be heard."
+  },
+  {
+   "verse": 3529,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "durgā+ādi+vidyānāṃ",
+     "gloss": "of-Durgā-and-other-vidyās",
+     "grounds": "genitive plural compound",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "maheśa+ādi+divaukasām",
+     "gloss": "of-Maheśa-and-other-gods",
+     "grounds": "genitive plural compound",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "To which vidyās and gods does this procedure apply?",
+   "premises": [
+    "the procedure is thus to be used",
+    "it applies to Durgā and other vidyās",
+    "it applies to Maheśa and other gods"
+   ],
+   "inference": "the rite is general for these vidyās and gods",
+   "uncertainties": [
+    "whether divaukasām includes all gods"
+   ],
+   "plain_english": "Thus this procedure is to be used for Durgā and other vidyās, and for Maheśa and other gods."
+  },
+  {
+   "verse": 3530,
+   "rows": [
+    {
+     "surface": "prayoktavyaḥ",
+     "gloss": "to-be-employed",
+     "grounds": "gerundive of prayuj",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhāna+jñaiḥ",
+     "gloss": "by-those-knowing-the-procedure",
+     "grounds": "instrumental plural compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "mantra+nāma+uha+pūrvakam",
+     "gloss": "preceded-by-mantra-and-name",
+     "grounds": "compound adjective",
+     "morph": "compound acc.sg"
+    }
+   ],
+   "question": "Who should employ this procedure and with what preparation?",
+   "premises": [
+    "it is to be employed by those knowing the procedure",
+    "it is preceded by mantra and name"
+   ],
+   "inference": "qualified practitioners perform it with mantra and name preparation",
+   "uncertainties": [
+    "parsing of uha in compound"
+   ],
+   "plain_english": "It is to be employed by those knowing the procedure, preceded by mantra and name."
+  },
+  {
+   "verse": 3531,
+   "rows": [
+    {
+     "surface": "kathitaṃ",
+     "gloss": "it-has-been-told",
+     "grounds": "past participle of kath",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of aham",
+     "morph": "1.sg.dat"
+    },
+    {
+     "surface": "kṛpā+nātha",
+     "gloss": "O-lord-of-compassion",
+     "grounds": "vocative compound",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tṛptā",
+     "gloss": "satisfied",
+     "grounds": "past participle of tṛp",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asmi",
+     "gloss": "I-am",
+     "grounds": "present of as",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "tava",
+     "gloss": "by-your",
+     "grounds": "genitive of tvam",
+     "morph": "2.sg.gen"
+    },
+    {
+     "surface": "bhāvataḥ",
+     "gloss": "disposition",
+     "grounds": "ablative adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What does the speaker express after hearing the teaching?",
+   "premises": [
+    "the teaching has been told to the speaker",
+    "the speaker is satisfied by the lord's disposition"
+   ],
+   "inference": "the speaker declares satisfaction with the compassionate lord's teaching",
+   "uncertainties": [
+    "whether bhāvataḥ is ablative or adverb"
+   ],
+   "plain_english": "It has been told to me, O lord of compassion; I am satisfied by your disposition."
+  },
+  {
+   "verse": 3532,
+   "rows": [
+    {
+     "surface": "acalasya",
+     "gloss": "of-the-immovable",
+     "grounds": "genitive of acala",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratiṣṭhāyāṃ",
+     "gloss": "in-the-consecration",
+     "grounds": "locative of pratiṣṭhā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "nominative of phala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "procedure",
+     "grounds": "nominative of vidhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kaḥ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What fruit and procedure belong to consecration of the immovable?",
+   "premises": [
+    "the question concerns consecration of the immovable",
+    "it asks what fruit and what procedure"
+   ],
+   "inference": "the verse poses the doctrinal question about consecration's result and method",
+   "uncertainties": [
+    "whether acala means immovable image or deity"
+   ],
+   "plain_english": "In the consecration of the immovable, what is the fruit, and what is the procedure indeed?"
+  },
+  {
+   "verse": 3533,
+   "rows": [
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "truth",
+     "grounds": "nominative of tattva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "praṣṭuṃ",
+     "gloss": "to-ask",
+     "grounds": "infinitive of pracch",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative of vad",
+     "morph": "2.sg.act.imp"
+    },
+    {
+     "surface": "vṛṇomi",
+     "gloss": "I-choose",
+     "grounds": "present of vṛ",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "kam",
+     "gloss": "whom",
+     "grounds": "interrogative pronoun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why does the speaker ask the lord to tell this supreme truth?",
+   "premises": [
+    "this is the supreme truth to ask",
+    "the speaker asks the lord to tell",
+    "the speaker chooses whom to ask"
+   ],
+   "inference": "the speaker seeks authoritative disclosure of supreme truth",
+   "uncertainties": [
+    "exact referent of kam"
+   ],
+   "plain_english": "This indeed is the supreme truth to ask; tell, I choose whom."
+  },
+  {
+   "verse": 3534,
+   "rows": [
+    {
+     "surface": "āśu+toṣaḥ",
+     "gloss": "quickly-pleased",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīna+nāthaḥ",
+     "gloss": "lord-of-the-poor",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "genitive of aham",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "ānanda+vibardhanaḥ",
+     "gloss": "joy-increaser",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the deity addressed in this appeal?",
+   "premises": [
+    "the deity is quickly pleased",
+    "the deity is lord of the poor",
+    "the deity increases joy"
+   ],
+   "inference": "the appeal praises the deity's compassionate and joyful nature",
+   "uncertainties": [
+    "whether mama modifies all epithets"
+   ],
+   "plain_english": "Quickly pleased, lord of the poor, increaser of my joy."
+  },
+  {
+   "verse": 3535,
+   "rows": [
+    {
+     "surface": "bhāvataḥ",
+     "gloss": "by-disposition",
+     "grounds": "ablative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prītitaḥ",
+     "gloss": "by-affection",
+     "grounds": "ablative adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "By what qualities is the deity's favor sought?",
+   "premises": [
+    "favor is sought by disposition",
+    "favor is sought by affection"
+   ],
+   "inference": "the appeal relies on disposition and affection",
+   "uncertainties": [
+    "whether these are separate or parallel"
+   ],
+   "plain_english": "By disposition, by affection."
+  },
+  {
+   "verse": 3536,
+   "rows": [
+    {
+     "surface": "tattvam",
+     "gloss": "the-truth-etc",
+     "grounds": "accusative of tattva",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What kind of teaching is being requested here?",
+   "premises": [
+    "the truth is requested",
+    "and so forth indicates more topics"
+   ],
+   "inference": "the request extends beyond one truth to related teachings",
+   "uncertainties": [
+    "exact list abbreviated by ityādi"
+   ],
+   "plain_english": "The truth, and so forth."
+  },
+  {
+   "verse": 3537,
+   "rows": [
+    {
+     "surface": "sarva+vit",
+     "gloss": "all-knowing",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva+vicārakaḥ",
+     "gloss": "examiner-of-all",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities justify asking this figure?",
+   "premises": [
+    "the figure is all-knowing",
+    "the figure examines all"
+   ],
+   "inference": "the figure's omniscience and discernment justify the question",
+   "uncertainties": [
+    "whether sarva+vit is vocative or nominative"
+   ],
+   "plain_english": "All-knowing, examiner of all."
+  }
+ ]
+}

@@ -1,0 +1,1085 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2601,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "points to that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior bathing action",
+     "morph": "gerund (snā)"
+    },
+    {
+     "surface": "naro",
+     "gloss": "a-man",
+     "grounds": "the person who bathes",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "movement to a destination",
+     "morph": "3.sg.pres.act (yā)"
+    },
+    {
+     "surface": "bhāskarasya+ālayaṃ",
+     "gloss": "of-sun+abode",
+     "grounds": "dwelling of the sun deity",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "indicates direction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What destination does a man reach after bathing at that place?",
+   "premises": [
+    "A man bathes there",
+    "After bathing he goes onward",
+    "His destination is the sun's abode"
+   ],
+   "inference": "Bathing at that place leads a man toward the abode of the sun.",
+   "uncertainties": [],
+   "plain_english": "Having bathed there, a man goes toward the abode of the sun."
+  },
+  {
+   "verse": 2602,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "by means of this formula or act",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "ritual bathing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt+tu",
+     "gloss": "should-do+but",
+     "grounds": "injunction to perform bathing",
+     "morph": "3.sg.opt.act (kṛ)+(indecl.)"
+    },
+    {
+     "surface": "paśyet",
+     "gloss": "should-see",
+     "grounds": "injunction to behold the deity",
+     "morph": "3.sg.opt.act (dṛś)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "the deity to be seen",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tri+locanam",
+     "gloss": "three-eyed",
+     "grounds": "epithet of Śiva",
+     "morph": "compound m.acc.sg"
+    }
+   ],
+   "question": "What ritual actions must one perform to behold the three-eyed god?",
+   "premises": [
+    "One should perform a bath by this means",
+    "One should then behold the deity",
+    "The deity is the three-eyed god"
+   ],
+   "inference": "Performing the prescribed bath enables one to behold the three-eyed god.",
+   "uncertainties": [
+    "The referent of anena is not specified in this verse."
+   ],
+   "plain_english": "By this one should perform the bath and behold the three-eyed god."
+  },
+  {
+   "verse": 2603,
+   "rows": [
+    {
+     "surface": "gokarṇaṃ",
+     "gloss": "gokarṇa",
+     "grounds": "name of a deity or form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vṛṣabha+ākāraṃ",
+     "gloss": "bull-shaped",
+     "grounds": "having the form of a bull",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "vikarṇaṃ",
+     "gloss": "vikarṇa",
+     "grounds": "name of a deity or form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puruṣa+ākṛtim",
+     "gloss": "man-formed",
+     "grounds": "having the form of a man",
+     "morph": "compound m.acc.sg"
+    }
+   ],
+   "question": "Which divine forms are to be beheld at this sacred site?",
+   "premises": [
+    "Gokarṇa is present in bull-shaped form",
+    "Vikarṇa is present in man-shaped form",
+    "Both forms are objects of vision"
+   ],
+   "inference": "The site presents Gokarṇa as bull-shaped and Vikarṇa as man-shaped.",
+   "uncertainties": [],
+   "plain_english": "One should see Gokarṇa in the form of a bull and Vikarṇa in the form of a man."
+  },
+  {
+   "verse": 2604,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "northern direction or region",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saras+tīre",
+     "gloss": "lake-shore",
+     "grounds": "shore of a lake",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "parvate",
+     "gloss": "on-mountain",
+     "grounds": "mountain location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhadrakāśake",
+     "gloss": "bhadrakāśaka",
+     "grounds": "name of the mountain",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the next sacred location situated in relation to the landscape?",
+   "premises": [
+    "The location is in the north",
+    "It lies on a lake shore",
+    "It is on Mount Bhadrakāśaka"
+   ],
+   "inference": "The sacred location is on the shore of a lake on Mount Bhadrakāśaka in the north.",
+   "uncertainties": [],
+   "plain_english": "And in the north, on the shore of a lake, on Mount Bhadrakāśaka."
+  },
+  {
+   "verse": 2605,
+   "rows": [
+    {
+     "surface": "pañca+dhanvantare",
+     "gloss": "five-bow-lengths",
+     "grounds": "measure of distance",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "extent or limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vara+vīthī+iti",
+     "gloss": "vara-vīthī+thus",
+     "grounds": "name of the sacred area",
+     "morph": "compound f.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "kṣetrakam",
+     "gloss": "sacred-area",
+     "grounds": "small sacred field or precinct",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the extent and name of the sacred area at this location?",
+   "premises": [
+    "The area extends five bow-lengths",
+    "The area is called Varavīthī",
+    "It is designated a sacred precinct"
+   ],
+   "inference": "A sacred precinct extending five bow-lengths is known as Varavīthī.",
+   "uncertainties": [
+    "The exact length of a dhanvantara is not specified."
+   ],
+   "plain_english": "Extending five bow-lengths, there is a sacred area called Varavīthī."
+  },
+  {
+   "verse": 2606,
+   "rows": [
+    {
+     "surface": "sampādya",
+     "gloss": "having-accomplished",
+     "grounds": "having prepared or completed",
+     "morph": "gerund (sam-pad)"
+    },
+    {
+     "surface": "vidhivat+bhaktyā",
+     "gloss": "according-to-rule+with-devotion",
+     "grounds": "proper ritual manner and devotion",
+     "morph": "(indecl.)+f.ins.sg"
+    },
+    {
+     "surface": "gandhaiḥ",
+     "gloss": "with-fragrances",
+     "grounds": "offerings of scented substances",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "offerings of flowers",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "pṛthag+vidhaiḥ",
+     "gloss": "of-various-kinds",
+     "grounds": "of different sorts",
+     "morph": "compound m.ins.pl"
+    }
+   ],
+   "question": "How should worship be prepared and performed in this sacred area?",
+   "premises": [
+    "Worship should be accomplished according to rule",
+    "It should be done with devotion",
+    "It should use fragrances and various flowers"
+   ],
+   "inference": "Worship in this area must be properly prepared with devotion, fragrances, and various flowers.",
+   "uncertainties": [],
+   "plain_english": "Having prepared it according to rule and with devotion, one should worship with fragrances and various kinds of flowers."
+  },
+  {
+   "verse": 2607,
+   "rows": [
+    {
+     "surface": "triśūla+abhaya+hastāya",
+     "gloss": "to-trident-fearlessness-handed",
+     "grounds": "epithet of the deity holding trident and fearlessness gesture",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "yat+jaṭā+bhāra+dhāriṇe",
+     "gloss": "who-matted-hair-mass-bearing",
+     "grounds": "epithet of one bearing a mass of matted hair",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "jaṭā+bhāra+vidhāriṇe",
+     "gloss": "matted-hair-mass-wearing",
+     "grounds": "epithet of one wearing a mass of matted hair",
+     "morph": "compound m.dat.sg"
+    }
+   ],
+   "question": "Which attributes of the deity are invoked in this offering formula?",
+   "premises": [
+    "The deity holds a trident and grants fearlessness",
+    "The deity bears a mass of matted hair",
+    "The deity is addressed as wearing matted hair"
+   ],
+   "inference": "The offering is directed to a deity characterized by trident, fearlessness gesture, and matted hair.",
+   "uncertainties": [
+    "The initial yat may function as a relative or honorific element; interpretation follows the epithet chain."
+   ],
+   "plain_english": "To the one who holds a trident and the gesture of fearlessness, who bears and wears a mass of matted hair."
+  },
+  {
+   "verse": 2608,
+   "rows": [
+    {
+     "surface": "yuga+rūpāya",
+     "gloss": "to-yoke-formed",
+     "grounds": "epithet describing form like a yoke or age",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "devāya",
+     "gloss": "to-god",
+     "grounds": "address to the deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "candra+hastāya",
+     "gloss": "to-moon-handed",
+     "grounds": "epithet of one holding or bearing the moon",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "viṣṇave",
+     "gloss": "to-viṣṇu",
+     "grounds": "address to Viṣṇu",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "To which divine identities are the subsequent salutations directed?",
+   "premises": [
+    "The deity is addressed as yoke-formed",
+    "The deity is addressed as moon-handed",
+    "The deity is named as Viṣṇu"
+   ],
+   "inference": "The salutation is directed to a god identified with Viṣṇu and bearing moon-related and yoke-like attributes.",
+   "uncertainties": [
+    "The compound yuga+rūpāya admits multiple readings; taken here as an epithet of form."
+   ],
+   "plain_english": "To the god of yoke-like form, to the moon-handed one, to Viṣṇu."
+  },
+  {
+   "verse": 2609,
+   "rows": [
+    {
+     "surface": "mahā+īśāya",
+     "gloss": "to-great-lord",
+     "grounds": "epithet of the supreme lord",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "vṛṣa+sthāya",
+     "gloss": "to-bull-standing",
+     "grounds": "epithet of one standing on or with a bull",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "jñāna+rūpāya",
+     "gloss": "to-knowledge-formed",
+     "grounds": "epithet of one whose form is knowledge",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "jñānine",
+     "gloss": "to-knower",
+     "grounds": "epithet of one who possesses knowledge",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "What lordly and cognitive qualities are attributed to the deity in this invocation?",
+   "premises": [
+    "The deity is called the great lord",
+    "The deity is associated with the bull",
+    "The deity is identified as knowledge-formed and a knower"
+   ],
+   "inference": "The invoked deity combines supreme lordship, bull association, and the nature of knowledge.",
+   "uncertainties": [],
+   "plain_english": "To the great lord, who stands with the bull, whose form is knowledge, to the knower."
+  },
+  {
+   "verse": 2610,
+   "rows": [
+    {
+     "surface": "a+punar+bhava+pūrve",
+     "gloss": "non-rebirth-preceded",
+     "grounds": "epithet linked to absence of rebirth",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava+dhanvantarāya",
+     "gloss": "nine-bow-lengths",
+     "grounds": "measure or area of nine bow-lengths",
+     "morph": "compound n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What spatial measure and liberative quality are specified in this part of the invocation?",
+   "premises": [
+    "An epithet indicates absence of rebirth",
+    "A measure of nine bow-lengths is named",
+    "Both are included in the address"
+   ],
+   "inference": "The invocation links a nine-bow-length area with a state free from rebirth.",
+   "uncertainties": [
+    "The syntactic role of nava+dhanvantarāya as epithet or location is ambiguous."
+   ],
+   "plain_english": "And to the one associated with non-rebirth, and to the area of nine bow-lengths."
+  },
+  {
+   "verse": 2611,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior bathing action",
+     "morph": "gerund (snā)"
+    },
+    {
+     "surface": "mahā+īśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound f.voc.sg"
+    },
+    {
+     "surface": "mṛto",
+     "gloss": "dead",
+     "grounds": "one who has died",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mokṣam",
+     "gloss": "liberation",
+     "grounds": "release from bondage",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.opt.act (ava-āp)"
+    }
+   ],
+   "question": "What ultimate result is promised for one who dies after bathing there?",
+   "premises": [
+    "One bathes at that place",
+    "One dies there",
+    "Liberation is obtained"
+   ],
+   "inference": "Dying after bathing at that place leads to the attainment of liberation.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, having bathed there, one who dies would obtain liberation."
+  },
+  {
+   "verse": 2612,
+   "rows": [
+    {
+     "surface": "sarva+pāpa+vinirmuktaḥ",
+     "gloss": "all-sins-freed",
+     "grounds": "released from all sins",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "would-go",
+     "grounds": "potential movement",
+     "morph": "3.sg.opt.act (gam)"
+    },
+    {
+     "surface": "brahmaṇaḥ",
+     "gloss": "of-brahman",
+     "grounds": "belonging to Brahman",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "abode",
+     "grounds": "state or realm",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What destination awaits the person freed from all sins at this site?",
+   "premises": [
+    "The person is freed from all sins",
+    "That person would go onward",
+    "The destination is the abode of Brahman"
+   ],
+   "inference": "One freed from all sins would reach the abode of Brahman.",
+   "uncertainties": [],
+   "plain_english": "Freed from all sins, he would go to the abode of Brahman."
+  },
+  {
+   "verse": 2613,
+   "rows": [
+    {
+     "surface": "sakṛd",
+     "gloss": "once",
+     "grounds": "a single time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārāṇasī+kuṇḍe",
+     "gloss": "in-vārāṇasī-pool",
+     "grounds": "pool named Vārāṇasī",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior bathing action",
+     "morph": "gerund (snā)"
+    },
+    {
+     "surface": "tat+phalam",
+     "gloss": "that-fruit",
+     "grounds": "the same result",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.opt.act (āp)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "actual attainment",
+     "morph": "3.sg.pres.mid (labh)"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "in a moment",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What reward comes from bathing once in the Vārāṇasī pool?",
+   "premises": [
+    "One bathes once in the Vārāṇasī pool",
+    "One would obtain that fruit",
+    "One obtains it instantly"
+   ],
+   "inference": "A single bath in the Vārāṇasī pool yields that fruit instantly.",
+   "uncertainties": [
+    "The referent of tat+phalam is implied from prior context."
+   ],
+   "plain_english": "Having bathed once in the Vārāṇasī pool, one would obtain that fruit and obtains it instantly."
+  },
+  {
+   "verse": 2614,
+   "rows": [
+    {
+     "surface": "mārkaṇḍeya+hrado",
+     "gloss": "mārkaṇḍeya-pool",
+     "grounds": "pool named after Mārkaṇḍeya",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "called by this name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior bathing action",
+     "morph": "gerund (snā)"
+    },
+    {
+     "surface": "vrajet+śivam",
+     "gloss": "would-go-to+śiva",
+     "grounds": "would reach Śiva",
+     "morph": "3.sg.opt.act (vraj)+m.acc.sg"
+    }
+   ],
+   "question": "What spiritual destination follows bathing in the pool named Mārkaṇḍeya?",
+   "premises": [
+    "There is a pool named Mārkaṇḍeya",
+    "One bathes there",
+    "One would go to Śiva"
+   ],
+   "inference": "Bathing in the Mārkaṇḍeya pool leads one to Śiva.",
+   "uncertainties": [],
+   "plain_english": "There is a pool named Mārkaṇḍeya; having bathed there, one would go to Śiva."
+  },
+  {
+   "verse": 2615,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "those persons",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative or inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyanti",
+     "gloss": "see",
+     "grounds": "behold the site or deity",
+     "morph": "3.pl.pres.act (dṛś)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior bathing action",
+     "morph": "gerund (snā)"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-pool",
+     "grounds": "in the sacred pool",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māheśvare",
+     "gloss": "of-great-lord",
+     "grounds": "belonging to the great lord",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "as a result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who qualifies for the subsequent reward by acting at the pool of the great lord?",
+   "premises": [
+    "Some people see the place",
+    "They bathe in the pool of the great lord",
+    "These actions lead to a result"
+   ],
+   "inference": "Those who see and bathe in the pool of the great lord qualify for the stated reward.",
+   "uncertainties": [],
+   "plain_english": "Those who see and, having bathed in the pool of the great lord, then..."
+  },
+  {
+   "verse": 2616,
+   "rows": [
+    {
+     "surface": "sarva+pāpa+vinirmuktā",
+     "gloss": "all-sins-freed",
+     "grounds": "released from all sins",
+     "morph": "compound m.nom.pl"
+    },
+    {
+     "surface": "vimāna+vara+m+āsthitāḥ",
+     "gloss": "celestial-car-best-seated",
+     "grounds": "seated in an excellent celestial car",
+     "morph": "compound m.nom.pl"
+    }
+   ],
+   "question": "What condition and conveyance do the qualified devotees attain after their ritual acts?",
+   "premises": [
+    "They are freed from all sins",
+    "They are seated in an excellent celestial car",
+    "This follows their prior actions"
+   ],
+   "inference": "The devotees become freed from all sins and seated in an excellent celestial car.",
+   "uncertainties": [
+    "The sandhi in vimāna+vara+m+āsthitāḥ is preserved as given."
+   ],
+   "plain_english": "Freed from all sins, they are seated in an excellent celestial car."
+  },
+  {
+   "verse": 2617,
+   "rows": [
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "they-remain",
+     "grounds": "they stay",
+     "morph": "3.pl.pres.act (sthā)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muditāḥ",
+     "gloss": "delighted",
+     "grounds": "joyful",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kalpam",
+     "gloss": "eon",
+     "grounds": "a cosmic age",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "a single eon",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vara+ānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative address",
+     "morph": "compound f.voc.sg"
+    }
+   ],
+   "question": "How long and in what state do the devotees remain in that exalted realm?",
+   "premises": [
+    "They remain there",
+    "They are delighted",
+    "They stay for one eon"
+   ],
+   "inference": "The devotees remain there delighted for one eon.",
+   "uncertainties": [],
+   "plain_english": "O fair-faced one, they remain there delighted for one eon."
+  },
+  {
+   "verse": 2618,
+   "rows": [
+    {
+     "surface": "vikhyāto",
+     "gloss": "renowned",
+     "grounds": "widely known",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrado",
+     "gloss": "pool",
+     "grounds": "sacred pool",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varaḥ",
+     "gloss": "excellent",
+     "grounds": "best or superior",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What reputation does this sacred pool hold among such sites?",
+   "premises": [
+    "The pool is renowned",
+    "The pool is excellent",
+    "Its status is affirmed"
+   ],
+   "inference": "The pool is indeed renowned and excellent.",
+   "uncertainties": [],
+   "plain_english": "Indeed, the pool is renowned and excellent."
+  },
+  {
+   "verse": 2619,
+   "rows": [
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "śrāddha",
+     "grounds": "ancestral rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "injunction to perform",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "with care and diligence",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "upavāsaṃ",
+     "gloss": "fast",
+     "grounds": "ritual fasting",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-observe",
+     "grounds": "injunction to observe",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "What ritual observances are required at this renowned pool?",
+   "premises": [
+    "One should perform śrāddha with effort",
+    "One should observe a fast",
+    "Both are prescribed actions"
+   ],
+   "inference": "At this pool one should diligently perform śrāddha and observe a fast.",
+   "uncertainties": [],
+   "plain_english": "One should perform the śrāddha rite with effort and should observe a fast."
+  },
+  {
+   "verse": 2620,
+   "rows": [
+    {
+     "surface": "gokarṇasya",
+     "gloss": "of-gokarṇa",
+     "grounds": "of the deity Gokarṇa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-god",
+     "grounds": "of the deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vikarṇasya",
+     "gloss": "of-vikarṇa",
+     "grounds": "of the deity Vikarṇa",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na+atidūre",
+     "gloss": "not-far",
+     "grounds": "nearby",
+     "morph": "(indecl.)+n.loc.sg"
+    },
+    {
+     "surface": "mahā+īśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound f.voc.sg"
+    }
+   ],
+   "question": "Where is the next sacred spot located relative to Gokarṇa and Vikarṇa?",
+   "premises": [
+    "The spot is near Gokarṇa",
+    "The spot is near Vikarṇa",
+    "The goddess is addressed about this location"
+   ],
+   "inference": "The next sacred spot lies not far from the deities Gokarṇa and Vikarṇa.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, not far from the god Gokarṇa and from Vikarṇa."
+  },
+  {
+   "verse": 2621,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior bathing action",
+     "morph": "gerund (snā)"
+    },
+    {
+     "surface": "klama+haraṃ",
+     "gloss": "fatigue-removing",
+     "grounds": "removing weariness",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punar+bhavam",
+     "gloss": "rebirth",
+     "grounds": "renewed existence",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "ādiśet",
+     "gloss": "should-ordain",
+     "grounds": "should assign or incur",
+     "morph": "3.sg.opt.act (ā-diś)"
+    }
+   ],
+   "question": "What consequence is avoided by bathing at that fatigue-removing place?",
+   "premises": [
+    "One bathes there",
+    "The place removes fatigue",
+    "Rebirth should not be ordained"
+   ],
+   "inference": "Bathing at that fatigue-removing place prevents the ordaining of rebirth.",
+   "uncertainties": [
+    "The subject of ādiśet is implicit; taken as the ritual result or fate."
+   ],
+   "plain_english": "Having bathed there, at that fatigue-removing place, one should not be ordained to rebirth."
+  },
+  {
+   "verse": 2622,
+   "rows": [
+    {
+     "surface": "brahma+kuṇḍa",
+     "gloss": "o-brahma-pool",
+     "grounds": "vocative address to the pool of Brahma",
+     "morph": "compound m.voc.sg"
+    },
+    {
+     "surface": "mahā+bhāga",
+     "gloss": "o-fortunate-one",
+     "grounds": "vocative epithet",
+     "morph": "compound m.voc.sg"
+    },
+    {
+     "surface": "trāhi",
+     "gloss": "save",
+     "grounds": "imperative plea for protection",
+     "morph": "2.sg.imp.act (trā)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "the speaker",
+     "morph": "1.sg.acc"
+    },
+    {
+     "surface": "bhava+sāgarāt",
+     "gloss": "from-ocean-of-existence",
+     "grounds": "from the cycle of worldly existence",
+     "morph": "compound m.abl.sg"
+    }
+   ],
+   "question": "What salvation is sought from the Brahma pool in this prayer?",
+   "premises": [
+    "The Brahma pool is addressed as fortunate",
+    "The speaker asks to be saved",
+    "The danger is the ocean of existence"
+   ],
+   "inference": "The prayer asks the Brahma pool to save the speaker from the ocean of existence.",
+   "uncertainties": [],
+   "plain_english": "O Brahma pool, O fortunate one, save me from the ocean of existence."
+  },
+  {
+   "verse": 2623,
+   "rows": [
+    {
+     "surface": "kṛṣṇa+ākhyaḥ",
+     "gloss": "kṛṣṇa-named",
+     "grounds": "called Kṛṣṇa",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "śaila+rūpaḥ+ca",
+     "gloss": "mountain-formed+and",
+     "grounds": "having the form of a mountain",
+     "morph": "compound m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "varāho",
+     "gloss": "varāha",
+     "grounds": "the boar form or name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "called by name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "by-name",
+     "grounds": "in name",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which named and mountain-formed manifestation is identified at this location?",
+   "premises": [
+    "A manifestation is named Kṛṣṇa",
+    "It is mountain-formed",
+    "It is also called Varāha by name"
+   ],
+   "inference": "The site features a mountain-formed manifestation known as Kṛṣṇa and also as Varāha.",
+   "uncertainties": [
+    "The relationship between the names Kṛṣṇa and Varāha is stated but not explained."
+   ],
+   "plain_english": "There is one named Kṛṣṇa, mountain-formed, and also called Varāha by name."
+  },
+  {
+   "verse": 2624,
+   "rows": [
+    {
+     "surface": "namas+te",
+     "gloss": "salutation+to-you",
+     "grounds": "homage to you",
+     "morph": "(indecl.)+2.sg.dat"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukti+pradāya",
+     "gloss": "to-liberation-giver",
+     "grounds": "to the giver of liberation",
+     "morph": "compound m.dat.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "let there be",
+     "morph": "3.sg.imp.act (as)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "salutation",
+     "grounds": "homage",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namas+te",
+     "gloss": "salutation+to-you",
+     "grounds": "homage to you",
+     "morph": "(indecl.)+2.sg.dat"
+    }
+   ],
+   "question": "What form of homage is offered to the giver of liberation?",
+   "premises": [
+    "Salutation is offered to you",
+    "The addressee is the giver of liberation",
+    "The salutation is repeated"
+   ],
+   "inference": "Repeated homage is offered to the deity who grants liberation.",
+   "uncertainties": [],
+   "plain_english": "Salutation to you, and may there be salutation to the giver of liberation; homage, salutation to you."
+  }
+ ]
+}

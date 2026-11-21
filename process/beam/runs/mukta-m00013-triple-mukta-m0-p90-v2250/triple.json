@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p90",
+ "items": [
+  {
+   "verse": 2250,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb indicating location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajvalitā",
+     "gloss": "blazing",
+     "grounds": "describes the flame as kindled or brightly burning",
+     "morph": "f.nom.sg (ppp, pra-√jval)"
+    },
+    {
+     "surface": "jvālā",
+     "gloss": "flame",
+     "grounds": "subject identified in the location",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring back to the flame",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jihvā",
+     "gloss": "tongue",
+     "grounds": "predicate identifying the flame's nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jātavedasaḥ",
+     "gloss": "of-jātavedas",
+     "grounds": "epithet of the fire-god, possessor of the tongue",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What does a blazing flame represent as the tongue of Jātavedas?",
+   "premises": [
+    "A flame is present and blazing in a given location.",
+    "That same blazing flame is singled out for identification.",
+    "Jātavedas is characterized as possessing a tongue."
+   ],
+   "inference": "The blazing flame is identified as the tongue of Jātavedas.",
+   "uncertainties": [],
+   "plain_english": "Where the flame blazes brightly, that is the tongue of Jātavedas."
+  }
+ ]
+}

@@ -1,0 +1,273 @@
+{
+ "song": "mukta-m00293-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "vakṣye",
+     "gloss": "i-shall-tell",
+     "grounds": "√vac; future declaration by speaker",
+     "morph": "1.sg.fut.mid √vac"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the goddess previously implied; UNC specific referent absent in this excerpt",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "saparyā",
+     "gloss": "worship",
+     "grounds": "ritual worship or service",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradāya+anusārataḥ",
+     "gloss": "according-to-tradition",
+     "grounds": "compound/phrase indicating conformity to transmitted method; UNC exact internal analysis",
+     "morph": "compound: pradāya+anusārataḥ (indecl.)"
+    }
+   ],
+   "question": "In what manner is the worship of her to be declared according to tradition?",
+   "premises": [
+    "The speaker declares an intention to tell something.",
+    "The subject to be told is her worship.",
+    "The worship is to follow tradition."
+   ],
+   "inference": "The text undertakes to expound her traditional worship.",
+   "uncertainties": [
+    "The identity of tasyāḥ is not specified in this excerpt."
+   ],
+   "plain_english": "I shall indeed tell of her worship according to tradition."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "māsa+iti",
+     "gloss": "month-thus",
+     "grounds": "quotation marker indicating the term māsa",
+     "morph": "compound: māsa+iti (indecl.)"
+    },
+    {
+     "surface": "ṛṣi+ādi",
+     "gloss": "sage-and-so-forth",
+     "grounds": "compound indicating ṛṣi and others in a ritual placement sequence",
+     "morph": "compound: ṛṣi+ādi (m.nom.sg)"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "ritual placement or installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "√as; asserts existence or presence",
+     "morph": "3.sg.pres.act √as"
+    }
+   ],
+   "question": "What ritual placement involving the month and the sage and others is present?",
+   "premises": [
+    "The term māsa is explicitly indicated.",
+    "A placement involving ṛṣi and others is named.",
+    "This placement is stated to exist."
+   ],
+   "inference": "There is a nyāsa beginning with the month and including the sage and others.",
+   "uncertainties": [
+    "The full structure and sequence of the nyāsa are not detailed in this verse."
+   ],
+   "plain_english": "There is a placement of the month, the sage, and so forth."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "kavyavahāyai",
+     "gloss": "to-kavyavaha",
+     "grounds": "dative of recipient or dedication; name of a deity or power; UNC exact identity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "metrical or sectional marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "10",
+     "gloss": "ten",
+     "grounds": "numerical marker",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "metrical or sectional marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or formula-closing particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "√pūj with sam; prior ritual action",
+     "morph": "gerund √sam-pūj"
+    },
+    {
+     "surface": "tad+upari",
+     "gloss": "upon-that",
+     "grounds": "locative compound indicating position above that",
+     "morph": "compound: tad+upari (indecl.)"
+    },
+    {
+     "surface": "asra+kṣālitaṃ",
+     "gloss": "washed-with-water",
+     "grounds": "compound describing purification of the vessel; asra taken as water per context, UNC",
+     "morph": "compound: asra+kṣālitaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "√dhā with ni; subsequent ritual action",
+     "morph": "gerund √ni-dhā"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "metrical or sectional marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What ritual actions follow the worship addressed to Kavyavaha in this sequence?",
+   "premises": [
+    "Worship is performed with the formula ending in dedication to Kavyavaha.",
+    "A vessel washed with water is involved.",
+    "The vessel is placed upon that after worship."
+   ],
+   "inference": "After worshipping Kavyavaha, one should place a washed vessel upon that.",
+   "uncertainties": [
+    "The referent of tad in tad+upari is not specified in this excerpt.",
+    "The exact meaning of asra in asra+kṣālitaṃ is uncertain."
+   ],
+   "plain_english": "Having worshipped thus for Kavyavaha, one should place upon that a vessel washed with water."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "jvālāmukha",
+     "gloss": "o-flame-mouthed-one",
+     "grounds": "vocative address to a fiery deity or power",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarva+vighnān",
+     "gloss": "all-obstacles",
+     "grounds": "compound denoting every obstacle",
+     "morph": "compound: sarva+vighnān (m.acc.pl)"
+    },
+    {
+     "surface": "nāśayaḥ",
+     "gloss": "destroy",
+     "grounds": "√naś causative; imperative request or command; UNC exact form analysis",
+     "morph": "2.sg.imp.act √nāśaya"
+    }
+   ],
+   "question": "What request is made to the flame-mouthed one regarding all obstacles?",
+   "premises": [
+    "The flame-mouthed one is directly addressed.",
+    "All obstacles are the object of the action.",
+    "The action requested is destruction."
+   ],
+   "inference": "The flame-mouthed one is asked to destroy all obstacles.",
+   "uncertainties": [
+    "The precise identity of jvālāmukha is not specified in this excerpt."
+   ],
+   "plain_english": "O flame-mouthed one, destroy all obstacles."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "māyāvānpaṃcā",
+     "gloss": "mayavanpanca",
+     "grounds": "technical or mantra-like term; UNC meaning and segmentation",
+     "morph": "(uncertain)"
+    },
+    {
+     "surface": "śrīpādukāṃ0",
+     "gloss": "revered-foot-rest-0",
+     "grounds": "honorific term for sacred sandals or seat with appended marker; UNC exact function of 0",
+     "morph": "(uncertain)"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "metrical or sectional marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "10",
+     "gloss": "ten",
+     "grounds": "numerical marker",
+     "morph": "(numeral)"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "metrical or sectional marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to groups named",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "siddha+aughāḥ",
+     "gloss": "streams-of-siddhas",
+     "grounds": "compound denoting groups or lineages of siddhas",
+     "morph": "compound: siddha+aughāḥ (m.nom.pl)"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-end",
+     "grounds": "metrical or sectional marker",
+     "morph": "(marker)"
+    }
+   ],
+   "question": "What entities are identified as the streams of siddhas in this concluding statement?",
+   "premises": [
+    "A formula or designation precedes the identification.",
+    "The demonstrative ete points to specific entities.",
+    "Those entities are named as streams of siddhas."
+   ],
+   "inference": "The verse identifies these as the streams of siddhas.",
+   "uncertainties": [
+    "The meaning of māyāvānpaṃcā is uncertain.",
+    "The function of śrīpādukāṃ0 and the appended 0 is uncertain."
+   ],
+   "plain_english": "Māyāvānpaṃcā, revered foot-rest 0. These are the streams of siddhas."
+  }
+ ]
+}

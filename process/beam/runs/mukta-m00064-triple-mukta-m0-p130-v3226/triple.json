@@ -1,0 +1,1173 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3226,
+   "rows": [
+    {
+     "surface": "kurukṣetraṃ",
+     "gloss": "kurukshetra",
+     "grounds": "name of the sacred field",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahā+kṣetraṃ",
+     "gloss": "great-field",
+     "grounds": "compound describing Kurukshetra as a great sacred field",
+     "morph": "compound"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb locating Brahma's lake",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+saraḥ",
+     "gloss": "brahma-lake",
+     "grounds": "compound naming the sacred lake",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "states traditional recognition of the place",
+     "morph": "m.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "What sacred feature establishes Kurukshetra as a great holy field?",
+   "premises": [
+    "Kurukshetra is called a great field.",
+    "Brahma's lake is located there.",
+    "That location is traditionally remembered as sacred."
+   ],
+   "inference": "The presence of Brahma's lake establishes Kurukshetra as a great holy field.",
+   "uncertainties": [],
+   "plain_english": "Kurukshetra is remembered as a great sacred field where Brahma's lake is located."
+  },
+  {
+   "verse": 3227,
+   "rows": [
+    {
+     "surface": "daśa+aśvamedha+jaṃ",
+     "gloss": "ten-horse-sacrifice-born",
+     "grounds": "compound qualifying merit as arising from ten horse sacrifices",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "spiritual merit obtained at the site",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "expresses potential attainment of merit",
+     "morph": "3.sg.optative-active √prāp"
+    },
+    {
+     "surface": "na+atra",
+     "gloss": "not-here",
+     "grounds": "negation applied to doubt in this matter",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty about the result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What level of merit can be obtained there without any doubt?",
+   "premises": [
+    "Merit equal to ten horse sacrifices is attainable there.",
+    "The verse asserts this attainment as possible.",
+    "No doubt exists regarding this result."
+   ],
+   "inference": "One may obtain merit equal to ten horse sacrifices there without doubt.",
+   "uncertainties": [],
+   "plain_english": "One may obtain merit equal to that of ten horse sacrifices there, without any doubt."
+  },
+  {
+   "verse": 3228,
+   "rows": [
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "refers to the previously mentioned sacred place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this benefit to the preceding context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "indicates bathing performed according to prescribed ritual",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual action performed at the site",
+     "morph": "absolutive √snā"
+    },
+    {
+     "surface": "brahmahatyāṃ",
+     "gloss": "brahmin-killing",
+     "grounds": "grave sin removed by the ritual act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vyapohati",
+     "gloss": "removes",
+     "grounds": "states the purifying effect of bathing there",
+     "morph": "3.sg.present-active √vyapoh"
+    }
+   ],
+   "question": "Which grave sin is removed by bathing there according to rule?",
+   "premises": [
+    "A person may bathe there according to ritual rule.",
+    "Ritual bathing has purifying power.",
+    "The sin of killing a brahmin is specifically named."
+   ],
+   "inference": "Bathing there according to rule removes the sin of killing a brahmin.",
+   "uncertainties": [],
+   "plain_english": "And by bathing there according to rule, one removes the sin of killing a brahmin."
+  },
+  {
+   "verse": 3229,
+   "rows": [
+    {
+     "surface": "udakāpsarā",
+     "gloss": "water-apsaras",
+     "grounds": "name of the first sacred water or apsaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathame",
+     "gloss": "in-first",
+     "grounds": "locates the first named entity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "identifies the next in sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paścimā+apsarāḥ",
+     "gloss": "western-apsaras",
+     "grounds": "compound naming the western apsaras",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which sacred apsaras are identified in the first and second positions?",
+   "premises": [
+    "Udakāpsarā is named in the first position.",
+    "A second entity is identified as western apsaras.",
+    "The verse enumerates these sacred figures in sequence."
+   ],
+   "inference": "The first is Udakāpsarā and the second is the western apsaras.",
+   "uncertainties": [
+    "The exact referent of prathame is elliptical and may imply a place or stage."
+   ],
+   "plain_english": "Indeed, Udakāpsarā is in the first, and the western apsaras is the second."
+  },
+  {
+   "verse": 3230,
+   "rows": [
+    {
+     "surface": "kavilāyāṃ",
+     "gloss": "in-kavila",
+     "grounds": "name of the sacred bathing place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "the human agent performing the bath",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual bathing action",
+     "morph": "absolutive √snā"
+    },
+    {
+     "surface": "makara+sthe",
+     "gloss": "capricorn-standing",
+     "grounds": "compound indicating the sun's position in Capricorn",
+     "morph": "compound"
+    },
+    {
+     "surface": "divākare",
+     "gloss": "sun",
+     "grounds": "celestial condition for the bath",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Under what solar condition should a person bathe at Kavilā?",
+   "premises": [
+    "A person bathes at Kavilā.",
+    "The sun is specified as standing in Capricorn.",
+    "The timing is linked to that solar position."
+   ],
+   "inference": "A person should bathe at Kavilā when the sun stands in Capricorn.",
+   "uncertainties": [],
+   "plain_english": "A person, having bathed at Kavilā when the sun is in Capricorn..."
+  },
+  {
+   "verse": 3231,
+   "rows": [
+    {
+     "surface": "muktaye",
+     "gloss": "for-liberation",
+     "grounds": "purpose of the sacred place's creation",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sarva+pāpānāṃ",
+     "gloss": "of-all-sins",
+     "grounds": "compound indicating liberation from all sins",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmaṇā",
+     "gloss": "by-brahma",
+     "grounds": "divine creator of the place",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nirmitā",
+     "gloss": "created",
+     "grounds": "states the divine origin of the site",
+     "morph": "f.nom.sg.past-passive-participle √nirmā"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "indicates ancient creation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purpose was this sacred place created by Brahmā long ago?",
+   "premises": [
+    "Brahmā created the place in ancient times.",
+    "The stated purpose is liberation.",
+    "Liberation is specified as freedom from all sins."
+   ],
+   "inference": "Brahmā formerly created this place for liberation from all sins.",
+   "uncertainties": [],
+   "plain_english": "...for liberation from all sins, it was created by Brahmā long ago."
+  },
+  {
+   "verse": 3232,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "refers to the prescribed manner or place",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "the ritual act of bathing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of the bathing ritual",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the subsequent instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt+arghyaṃ",
+     "gloss": "one-should-offer-water-offering",
+     "grounds": "fused form expressing the injunction to offer arghya",
+     "morph": "compound"
+    },
+    {
+     "surface": "vibhūtaye",
+     "gloss": "to-the-lord",
+     "grounds": "recipient of the offering, interpreted as the deity",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "What offering should be made to the lord after completing the bath?",
+   "premises": [
+    "The bath is performed by this means.",
+    "After bathing, an offering is enjoined.",
+    "The offering is directed to the lord."
+   ],
+   "inference": "After bathing, one should offer arghya to the lord.",
+   "uncertainties": [
+    "The identity of vibhūti as a specific deity is context-dependent."
+   ],
+   "plain_english": "Having performed the bath by this means, one should indeed offer arghya to the lord."
+  },
+  {
+   "verse": 3233,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "perception preceding the offering",
+     "morph": "absolutive √dṛś"
+    },
+    {
+     "surface": "kṣīrañ",
+     "gloss": "milk",
+     "grounds": "one of the substances seen; final nasal shows sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects milk and water",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toyañ",
+     "gloss": "water",
+     "grounds": "second substance seen; final nasal shows sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds emphasis or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence after seeing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "the ritual offering being defined",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samudīritam",
+     "gloss": "declared",
+     "grounds": "states the traditional definition of the offering",
+     "morph": "n.nom.sg.past-passive-participle √samudīr"
+    }
+   ],
+   "question": "What substances define the arghya offering after they are seen?",
+   "premises": [
+    "Milk and water are seen.",
+    "The offering is made after seeing them.",
+    "The arghya is declared in that context."
+   ],
+   "inference": "After seeing milk and water, the arghya offering is declared.",
+   "uncertainties": [],
+   "plain_english": "Having seen milk and water, the arghya offering is then declared."
+  },
+  {
+   "verse": 3234,
+   "rows": [
+    {
+     "surface": "mahāsenaṃ",
+     "gloss": "to-mahasena",
+     "grounds": "invocation directed to Mahāsena",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vahnijāya",
+     "gloss": "fire-born",
+     "grounds": "epithet of Mahāsena as born of fire",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "arghya+mantraḥ",
+     "gloss": "water-offering-mantra",
+     "grounds": "compound naming the mantra for arghya",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaḍakṣaraḥ",
+     "gloss": "six-syllabled",
+     "grounds": "specifies the mantra's length",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the form of the arghya mantra addressed to Mahāsena?",
+   "premises": [
+    "The mantra is for the arghya offering.",
+    "It is addressed to Mahāsena, the fire-born.",
+    "The mantra consists of six syllables."
+   ],
+   "inference": "The arghya mantra to the fire-born Mahāsena is six-syllabled.",
+   "uncertainties": [
+    "The exact six syllables are not specified in this verse."
+   ],
+   "plain_english": "The arghya mantra to Mahāsena, the fire-born, is six-syllabled."
+  },
+  {
+   "verse": 3235,
+   "rows": [
+    {
+     "surface": "pūrṇāyāṃ",
+     "gloss": "on-full-moon",
+     "grounds": "specifies the lunar day for the act",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indicates an alternative occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā+īśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the great goddess",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-shiva",
+     "grounds": "identifies the deity whose abode is visited",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "abode",
+     "grounds": "the sacred dwelling to be reached",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "one-should-go",
+     "grounds": "injunction to visit the abode",
+     "morph": "3.sg.optative-active √vraj"
+    }
+   ],
+   "question": "On which occasion should one go to the abode of Śiva?",
+   "premises": [
+    "The full-moon day is named as an occasion.",
+    "The destination is Śiva's abode.",
+    "The verse gives an injunction to go there."
+   ],
+   "inference": "One should go to Śiva's abode on the full-moon day.",
+   "uncertainties": [
+    "The particle vā suggests an alternative not fully specified here."
+   ],
+   "plain_english": "O great goddess, on the full-moon day one should go to the abode of Śiva."
+  },
+  {
+   "verse": 3236,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "in-this",
+     "grounds": "points to the present world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "loke",
+     "gloss": "world",
+     "grounds": "the earthly realm of experience",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu+arogī",
+     "gloss": "indeed-disease-free",
+     "grounds": "fused form stating freedom from disease",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "saṃprāpya",
+     "gloss": "having-obtained",
+     "grounds": "attainment accompanying the state",
+     "morph": "absolutive √saṃprāp"
+    },
+    {
+     "surface": "ca+uttamaṃ",
+     "gloss": "and-supreme",
+     "grounds": "fused form qualifying the happiness as supreme",
+     "morph": "compound"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "the benefit obtained in this world",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What benefits does one gain in this world by that visit?",
+   "premises": [
+    "The result occurs in this world.",
+    "One becomes free from disease.",
+    "One obtains supreme happiness."
+   ],
+   "inference": "By that visit one becomes disease-free and obtains supreme happiness in this world.",
+   "uncertainties": [],
+   "plain_english": "In this world one would be free from disease and obtain supreme happiness."
+  },
+  {
+   "verse": 3237,
+   "rows": [
+    {
+     "surface": "kuśāvarte",
+     "gloss": "in-kushavarta",
+     "grounds": "name of a sacred place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "daivate",
+     "gloss": "and-deity",
+     "grounds": "refers to the divine presence or deity there; form as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations or conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samprāpte",
+     "gloss": "having-arrived",
+     "grounds": "arrival at the sacred site",
+     "morph": "m.loc.sg.past-passive-participle √samprāp"
+    },
+    {
+     "surface": "saṃgate",
+     "gloss": "having-met",
+     "grounds": "confluence or meeting at the site",
+     "morph": "m.loc.sg.past-passive-participle √saṃgam"
+    },
+    {
+     "surface": "kubjikā+mukhe",
+     "gloss": "at-kubjika-mouth",
+     "grounds": "compound naming the mouth or source of Kubjikā",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which sacred locations are reached at the mouth of Kubjikā?",
+   "premises": [
+    "Kuśāvarta is named as a location.",
+    "Arrival and confluence are described.",
+    "The meeting occurs at the mouth of Kubjikā."
+   ],
+   "inference": "One reaches Kuśāvarta and the confluence at the mouth of Kubjikā.",
+   "uncertainties": [
+    "The exact syntactic role of daivate is unclear in this elliptical verse."
+   ],
+   "plain_english": "At Kuśāvarta and the deity, having arrived and met at the mouth of Kubjikā..."
+  },
+  {
+   "verse": 3238,
+   "rows": [
+    {
+     "surface": "mānase",
+     "gloss": "at-manasa",
+     "grounds": "name of a sacred site or lake",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kubji+dhārā",
+     "gloss": "kubji-stream",
+     "grounds": "compound naming the stream of Kubji",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the named streams",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prācī+dhārā",
+     "gloss": "eastern-stream",
+     "grounds": "compound naming the eastern stream",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvati",
+     "grounds": "identifies the river or stream as Sarasvatī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which streams are identified at Mānasa as forms of Sarasvatī?",
+   "premises": [
+    "The location Mānasa is named.",
+    "Kubji-dhārā and Prācī-dhārā are listed.",
+    "Sarasvatī is identified in this context."
+   ],
+   "inference": "At Mānasa, the Kubji stream and the eastern stream are identified as Sarasvatī.",
+   "uncertainties": [],
+   "plain_english": "At Mānasa are the Kubji stream and the eastern stream, Sarasvatī."
+  },
+  {
+   "verse": 3239,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the previously named sacred place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship performed there",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "japo",
+     "gloss": "recitation",
+     "grounds": "mantra recitation performed there",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "fire oblation performed there",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "indicates acts performed by devotees",
+     "morph": "n.nom.sg.past-passive-participle √kṛ"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states the efficacy of the acts",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "dehinām",
+     "gloss": "of-embodied-beings",
+     "grounds": "beneficiaries of the ritual acts",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What ritual acts become effective for embodied beings at that place?",
+   "premises": [
+    "Worship, recitation, and oblation are performed there.",
+    "These acts are done by embodied beings.",
+    "The verse states they become effective."
+   ],
+   "inference": "Worship, recitation, and oblation performed there become effective for embodied beings.",
+   "uncertainties": [],
+   "plain_english": "There, worship, recitation, and oblation performed by embodied beings become effective."
+  },
+  {
+   "verse": 3240,
+   "rows": [
+    {
+     "surface": "datta+śrāddhaṃ",
+     "gloss": "given-shraddha",
+     "grounds": "compound referring to ancestral offering given there",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates the time or occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the same sacred place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "the act of offering performed",
+     "morph": "n.nom.sg.past-passive-participle √kṛ"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states the result of the offering",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "ca+akṣayam",
+     "gloss": "and-imperishable",
+     "grounds": "fused form declaring the offering imperishable",
+     "morph": "compound"
+    }
+   ],
+   "question": "What lasting result comes from offering śrāddha at that sacred place?",
+   "premises": [
+    "Śrāddha is given there.",
+    "The act is performed at that sacred place.",
+    "Its result is declared imperishable."
+   ],
+   "inference": "Śrāddha offered there becomes imperishable.",
+   "uncertainties": [],
+   "plain_english": "Then, śrāddha given there becomes imperishable."
+  },
+  {
+   "verse": 3241,
+   "rows": [
+    {
+     "surface": "ūrdhva+bhāge",
+     "gloss": "in-upper-part",
+     "grounds": "compound indicating the upper region",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasizes the specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāma+ardhe",
+     "gloss": "in-half-watch",
+     "grounds": "compound indicating a time division",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekasya+eva",
+     "gloss": "of-one-alone",
+     "grounds": "fused form emphasizing a single confluence",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "reinforces exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgamam",
+     "gloss": "confluence",
+     "grounds": "the meeting point being described",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where is the confluence of only one stream said to occur?",
+   "premises": [
+    "The upper part is specified.",
+    "A half-watch of time is mentioned.",
+    "Only one confluence is indicated."
+   ],
+   "inference": "In the upper part, at a half-watch, there is the confluence of one alone.",
+   "uncertainties": [
+    "The precise spatial and temporal meaning of yāma-ardhe is unclear."
+   ],
+   "plain_english": "Indeed, in the upper part, at half a watch, there is the confluence of one alone."
+  },
+  {
+   "verse": 3242,
+   "rows": [
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-that",
+     "grounds": "refers to the previously mentioned confluence",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "continues the description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāru+vān",
+     "gloss": "beautiful-water",
+     "grounds": "compound describing the water as beautiful; form as given",
+     "morph": "compound"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "ritual bathing at the confluence",
+     "morph": "absolutive √snā"
+    },
+    {
+     "surface": "rogī",
+     "gloss": "diseased",
+     "grounds": "the afflicted person who bathes",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "na+anyathā",
+     "gloss": "not-otherwise",
+     "grounds": "fused form asserting certainty of the result",
+     "morph": "compound"
+    }
+   ],
+   "question": "What certain outcome follows for a sick person bathing in that beautiful water?",
+   "premises": [
+    "A sick person bathes in that beautiful water.",
+    "The verse states a resulting condition.",
+    "The result is affirmed as not otherwise."
+   ],
+   "inference": "A sick person who bathes there certainly becomes well.",
+   "uncertainties": [
+    "The verse states 'rogī bhavati' literally, but the context and 'na anyathā' suggest a curative outcome; interpretation is context-dependent."
+   ],
+   "plain_english": "And having bathed in that beautiful water, a sick person becomes so without fail."
+  },
+  {
+   "verse": 3243,
+   "rows": [
+    {
+     "surface": "pūrvasyāñ",
+     "gloss": "in-east",
+     "grounds": "locates the stream in the eastern direction; nasal shows sandhi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "fused form adding emphasis",
+     "morph": "compound"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the stream",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhārā",
+     "gloss": "stream",
+     "grounds": "the water stream being identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "states traditional identification",
+     "morph": "f.nom.sg.past-passive-participle √kīrt"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun identifying the stream",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvati",
+     "grounds": "name of the sacred river",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which eastern stream is proclaimed to be the river Sarasvatī?",
+   "premises": [
+    "A stream is located in the east.",
+    "That stream is traditionally proclaimed.",
+    "It is identified as Sarasvatī."
+   ],
+   "inference": "The stream in the east is proclaimed to be Sarasvatī.",
+   "uncertainties": [],
+   "plain_english": "And indeed, the stream in the east that is proclaimed is Sarasvatī."
+  },
+  {
+   "verse": 3244,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "specifies the northern direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṣetra",
+     "gloss": "in-field",
+     "grounds": "refers to the sacred field; form as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aiśānye",
+     "gloss": "in-northeast",
+     "grounds": "specifies the northeast direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhanuṣāñ",
+     "gloss": "by-bow-lengths",
+     "grounds": "unit of measurement; nasal shows sandhi",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects measurement details",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "by-measure",
+     "grounds": "indicates measurement standard",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the location in the northern and northeastern field measured?",
+   "premises": [
+    "The location is in the north and northeast of the field.",
+    "A unit of bow-lengths is mentioned.",
+    "The verse specifies measurement."
+   ],
+   "inference": "The location in the northern and northeastern field is determined by measurement in bow-lengths.",
+   "uncertainties": [
+    "The exact distance in bow-lengths is not stated in this verse."
+   ],
+   "plain_english": "In the north of the field, in the northeast, by the measure of bow-lengths."
+  },
+  {
+   "verse": 3245,
+   "rows": [
+    {
+     "surface": "kubji+prāptaṃ",
+     "gloss": "kubji-reached",
+     "grounds": "compound describing one who has reached Kubji",
+     "morph": "compound"
+    },
+    {
+     "surface": "sutaṃ",
+     "gloss": "son",
+     "grounds": "the offspring seen at the sacred place",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act of seeing the son there",
+     "morph": "absolutive √dṛś"
+    },
+    {
+     "surface": "pitṛṇām",
+     "gloss": "of-ancestors",
+     "grounds": "those to whom debt is owed",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "anṛṇo",
+     "gloss": "free-from-debt",
+     "grounds": "state of being released from ancestral debt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What ancestral obligation is removed by seeing a son who has reached Kubji?",
+   "premises": [
+    "A son who has reached Kubji is seen.",
+    "Ancestors are owed a debt.",
+    "Seeing such a son affects that debt."
+   ],
+   "inference": "By seeing a son who has reached Kubji, one becomes free from debt to the ancestors.",
+   "uncertainties": [],
+   "plain_english": "Having seen a son who has reached Kubji, one becomes free from debt to the ancestors."
+  },
+  {
+   "verse": 3246,
+   "rows": [
+    {
+     "surface": "kubjikāyāḥ",
+     "gloss": "of-kubjika",
+     "grounds": "the goddess whose grace is invoked",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prasādena",
+     "gloss": "by-grace",
+     "grounds": "divine favor causing liberation",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "one-is-freed",
+     "grounds": "states release from sin",
+     "morph": "3.sg.present-passive √muc"
+    },
+    {
+     "surface": "brahmahatyayā",
+     "gloss": "from-brahmin-killing",
+     "grounds": "the sin from which one is freed",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "By whose grace is one freed from the sin of killing a brahmin?",
+   "premises": [
+    "Freedom from the sin of killing a brahmin is attained.",
+    "The cause is divine grace.",
+    "The grace belongs to Kubjikā."
+   ],
+   "inference": "By the grace of Kubjikā, one is freed from the sin of killing a brahmin.",
+   "uncertainties": [],
+   "plain_english": "By the grace of Kubjikā, one is freed from the sin of killing a brahmin."
+  },
+  {
+   "verse": 3247,
+   "rows": [
+    {
+     "surface": "haṃsa+yukta+vimānena",
+     "gloss": "swan-yoked-chariot",
+     "grounds": "compound describing the celestial vehicle yoked with swans",
+     "morph": "compound"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "movement to the heavenly realm",
+     "morph": "3.pl.present-active √yā"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "all who receive this benefit",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "triviṣṭapam",
+     "gloss": "to-heaven",
+     "grounds": "the celestial destination",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "By what celestial vehicle do all the blessed go to heaven?",
+   "premises": [
+    "All go to heaven.",
+    "Their conveyance is a celestial vehicle.",
+    "That vehicle is yoked with swans."
+   ],
+   "inference": "All go to heaven in a chariot yoked with swans.",
+   "uncertainties": [],
+   "plain_english": "All go to heaven in a chariot yoked with swans."
+  },
+  {
+   "verse": 3248,
+   "rows": [
+    {
+     "surface": "tāvat",
+     "gloss": "so-far",
+     "grounds": "indicates extent or continuation of the sacred field",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "the sacred field being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhadrakālyā",
+     "gloss": "of-bhadrakali",
+     "grounds": "the goddess associated with the field",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "act of going to the place",
+     "morph": "absolutive √gam"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "act of worship performed there",
+     "morph": "absolutive √sampūj"
+    },
+    {
+     "surface": "kālikām",
+     "gloss": "kalika",
+     "grounds": "the goddess worshipped at the site",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What acts should be performed upon reaching the field of Bhadrakālī?",
+   "premises": [
+    "The field extends to Bhadrakālī's domain.",
+    "One goes to that place.",
+    "One worships Kālikā there."
+   ],
+   "inference": "Upon reaching the field of Bhadrakālī, one should worship Kālikā.",
+   "uncertainties": [],
+   "plain_english": "So far extends the field of Bhadrakālī; having gone there, one should worship Kālikā."
+  },
+  {
+   "verse": 3249,
+   "rows": [
+    {
+     "surface": "kali+dvāparayoḥ",
+     "gloss": "of-kali-dvapara",
+     "grounds": "compound naming the two ages",
+     "morph": "compound"
+    },
+    {
+     "surface": "sandhau",
+     "gloss": "at-junction",
+     "grounds": "the transitional period between the ages",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gupta+kālī",
+     "gloss": "hidden-kali",
+     "grounds": "compound identifying the hidden form of Kālī",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvati",
+     "grounds": "identifies Sarasvatī with hidden Kālī at that junction",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is identified as hidden Kālī at the junction of Kali and Dvāpara?",
+   "premises": [
+    "The junction of Kali and Dvāpara is specified.",
+    "A hidden form of Kālī is named.",
+    "Sarasvatī is identified with that form."
+   ],
+   "inference": "At the junction of Kali and Dvāpara, Sarasvatī is identified as hidden Kālī.",
+   "uncertainties": [],
+   "plain_english": "At the junction of the Kali and Dvāpara ages, Sarasvatī is the hidden Kālī."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "śāpena",
+     "gloss": "by-curse",
+     "grounds": "instrumental of śāpa",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "daityatāṃ",
+     "gloss": "demonhood",
+     "grounds": "accusative of daityatā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "prāptastripurābhaktaśekharaḥ",
+     "gloss": "obtained-tripura-devotee-crown",
+     "grounds": "prāpta participle with compound tripurābhaktaśekharaḥ",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How did the crown of Tripura's devotees become a demon by curse?",
+   "premises": [
+    "A curse caused demonhood.",
+    "The devotee crown obtained it."
+   ],
+   "inference": "The verse states the crown of Tripura's devotees became a demon through a curse.",
+   "uncertainties": [
+    "Exact referent of the crown is unclear."
+   ],
+   "plain_english": "By a curse, the crown of Tripura's devotees obtained demonhood."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "bhajati",
+     "gloss": "worships",
+     "grounds": "root bhaj, present active third singular",
+     "morph": "3.sg.act-pres + root bhaj"
+    },
+    {
+     "surface": "janani",
+     "gloss": "mother",
+     "grounds": "feminine noun janani, vocative singular",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "yuṣmatpādapadmotthabhaktyā",
+     "gloss": "by-devotion-from-your-foot-lotus",
+     "grounds": "compound yuṣmat-pāda-padma-uttha-bhakti, instrumental singular feminine",
+     "morph": "inst.sg.f"
+    }
+   ],
+   "question": "What does the mother worship through devotion arising from your foot-lotus?",
+   "premises": [
+    "Mother worships by devotion.",
+    "Devotion arises from your foot-lotus.",
+    "The object is implied by context."
+   ],
+   "inference": "The verse presents maternal worship mediated by foot-lotus devotion.",
+   "uncertainties": [
+    "The direct object of bhajati is not stated in these three tokens."
+   ],
+   "plain_english": "The mother worships by devotion arising from your foot-lotus."
+  }
+ ]
+}

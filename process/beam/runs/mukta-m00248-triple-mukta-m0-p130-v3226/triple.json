@@ -1,0 +1,1223 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3226,
+   "rows": [
+    {
+     "surface": "yugapat",
+     "gloss": "simultaneously",
+     "grounds": "adverb of simultaneity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaśo",
+     "gloss": "gradually",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "palīpalitanāśanam",
+     "gloss": "wrinkle-grey-hair-destruction",
+     "grounds": "compound naming destruction of wrinkles and grey hair",
+     "morph": "compound"
+    }
+   ],
+   "question": "Can wrinkles and grey hair be destroyed simultaneously or gradually?",
+   "premises": [
+    "wrinkles and grey hair are destroyed",
+    "simultaneous destruction is possible",
+    "gradual destruction is possible"
+   ],
+   "inference": "The practice allows either simultaneous or gradual destruction of wrinkles and grey hair.",
+   "uncertainties": [
+    "compound internal parsing is not fully resolved"
+   ],
+   "plain_english": "Wrinkles and grey hair may be destroyed either simultaneously or gradually."
+  },
+  {
+   "verse": 3227,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-the-Kālottara",
+     "grounds": "locative of text name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vajrakavāṭalakṣaṇe",
+     "gloss": "in-the-vajra-door-characteristics",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kavāṭarandhradhāraṇapaṭalaḥ",
+     "gloss": "the-door-aperture-retention-chapter",
+     "grounds": "compound naming chapter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triṣaṣṭi",
+     "gloss": "sixty-third",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "name",
+     "grounds": "nominative naming term",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which chapter of Kālottara treats vajra door aperture retention?",
+   "premises": [
+    "Kālottara contains vajra door characteristics",
+    "chapter sixty-three is named",
+    "it concerns door aperture retention"
+   ],
+   "inference": "The sixty-third chapter is the door-aperture-retention chapter in Kālottara.",
+   "uncertainties": [
+    "triṣaṣṭi may mean sixty-three or sixty-third"
+   ],
+   "plain_english": "Thus in Kālottara, the sixty-third chapter on vajra door characteristics concerns retaining the door aperture."
+  },
+  {
+   "verse": 3228,
+   "rows": [
+    {
+     "surface": "dalaiḥ",
+     "gloss": "with-petals",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ṣoḍaśabhir",
+     "gloss": "with-sixteen",
+     "grounds": "instrumental numeral",
+     "morph": "num.inst.pl"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "endowed",
+     "grounds": "past participle",
+     "morph": "ppp"
+    },
+    {
+     "surface": "pralayāgni",
+     "gloss": "with-dissolution-fire",
+     "grounds": "compound with dissolution fire",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "past participle",
+     "morph": "ppp"
+    }
+   ],
+   "question": "What is the sixteen-petaled lotus accompanied by dissolution fire?",
+   "premises": [
+    "the lotus has sixteen petals",
+    "it is endowed with dissolution fire",
+    "it is accompanied by that fire"
+   ],
+   "inference": "The sixteen-petaled lotus is accompanied by dissolution fire.",
+   "uncertainties": [
+    "pralayāgni may modify an implied object"
+   ],
+   "plain_english": "Endowed with sixteen petals and accompanied by dissolution fire."
+  },
+  {
+   "verse": 3229,
+   "rows": [
+    {
+     "surface": "caturdaśa",
+     "gloss": "with-fourteenth",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "sama",
+     "gloss": "with-equal",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "upetaṃ",
+     "gloss": "endowed",
+     "grounds": "past participle",
+     "morph": "ppp"
+    },
+    {
+     "surface": "ṣaṣṭhena",
+     "gloss": "with-sixth",
+     "grounds": "instrumental numeral",
+     "morph": "num.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "past participle",
+     "morph": "ppp"
+    }
+   ],
+   "question": "How is the fourteenth item endowed and accompanied by the sixth?",
+   "premises": [
+    "the fourteenth is equal and endowed",
+    "the sixth accompanies it",
+    "tu adds conjunction"
+   ],
+   "inference": "The fourteenth is endowed equally and accompanied by the sixth.",
+   "uncertainties": [
+    "referents of fourteenth and sixth are unspecified"
+   ],
+   "plain_english": "The fourteenth, equally endowed, is accompanied by the sixth."
+  },
+  {
+   "verse": 3230,
+   "rows": [
+    {
+     "surface": "koṭisūrya",
+     "gloss": "with-crore-sun",
+     "grounds": "compound with crore suns",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sama",
+     "gloss": "equal",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "prakhyaṃ",
+     "gloss": "splendor",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahāmāṇikya",
+     "gloss": "with-great-ruby",
+     "grounds": "compound with great ruby",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sannibham",
+     "gloss": "resembling",
+     "grounds": "adjective",
+     "morph": "adj"
+    }
+   ],
+   "question": "What splendor equals a crore suns and resembles a great ruby?",
+   "premises": [
+    "the splendor equals crore suns",
+    "it resembles a great ruby",
+    "both comparisons apply"
+   ],
+   "inference": "The splendor equals a crore suns and resembles a great ruby.",
+   "uncertainties": [
+    "the subject is omitted"
+   ],
+   "plain_english": "Its splendor equals a crore suns and resembles a great ruby."
+  },
+  {
+   "verse": 3231,
+   "rows": [
+    {
+     "surface": "viṣṇuṃ",
+     "gloss": "Viṣṇu",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahmāgame",
+     "gloss": "Brahmā+in-the-Āgama",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huḥ",
+     "gloss": "they-say",
+     "grounds": "verb form",
+     "morph": "v.3pl"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "Śiva",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āhur",
+     "gloss": "they-say",
+     "grounds": "verb form",
+     "morph": "v.3pl"
+    },
+    {
+     "surface": "manīṣiṇaḥ",
+     "gloss": "the-wise",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "Do wise authorities identify Viṣṇu or Śiva in Brahmā's āgama?",
+   "premises": [
+    "the wise say Viṣṇu in Brahmā's āgama",
+    "they also say Śiva",
+    "vā marks an alternative"
+   ],
+   "inference": "Wise authorities present Viṣṇu or Śiva as named in Brahmā's āgama.",
+   "uncertainties": [
+    "huḥ and āhur both mean they say, possibly variant readings"
+   ],
+   "plain_english": "The wise say Viṣṇu, or indeed Śiva, in Brahmā's āgama."
+  },
+  {
+   "verse": 3232,
+   "rows": [
+    {
+     "surface": "ārya",
+     "gloss": "noble",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jagataḥ",
+     "gloss": "of-the-moving-world",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tasthuṣaś",
+     "gloss": "and-of-the-stationary",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "adjective",
+     "morph": "adj"
+    }
+   ],
+   "question": "What is the noble self of moving and stationary worlds?",
+   "premises": [
+    "the noble self belongs to the moving world",
+    "it also belongs to the stationary world",
+    "it is supreme and great"
+   ],
+   "inference": "The noble self is the supreme great self of both moving and stationary worlds.",
+   "uncertainties": [
+    "ārya may modify ātmā"
+   ],
+   "plain_english": "The noble self is the supreme great self of the moving and stationary worlds."
+  },
+  {
+   "verse": 3233,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "nominative or accusative",
+     "morph": "pron"
+    },
+    {
+     "surface": "māheśvaraṃ",
+     "gloss": "belonging-to-Maheśvara",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "nominative or accusative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "beneficial",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "ādityarūpakam",
+     "gloss": "having-sun-form",
+     "grounds": "compound adjective",
+     "morph": "adj"
+    }
+   ],
+   "question": "Is all Maheśvara's form beneficial and sun-formed?",
+   "premises": [
+    "all form belongs to Maheśvara",
+    "it is beneficial",
+    "it has sun form"
+   ],
+   "inference": "All Maheśvara's form is beneficial and has sun form.",
+   "uncertainties": [
+    "sarvaṃ may be object rather than subject"
+   ],
+   "plain_english": "All Maheśvara's form is beneficial and sun-formed."
+  },
+  {
+   "verse": 3234,
+   "rows": [
+    {
+     "surface": "prajāpatir",
+     "gloss": "Prajāpati",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "nominative object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hutabhug",
+     "gloss": "with-fire",
+     "grounds": "compound with fire",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "with-bindu",
+     "grounds": "noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "past participle",
+     "morph": "ppp"
+    }
+   ],
+   "question": "What is Prajāpati's eighth seed joined with fire and bindu?",
+   "premises": [
+    "Prajāpati has an eighth seed",
+    "the seed is joined with fire",
+    "the seed is joined with bindu"
+   ],
+   "inference": "Prajāpati's eighth seed is joined with fire and bindu.",
+   "uncertainties": [
+    "hutabhug could denote a fire deity"
+   ],
+   "plain_english": "Prajāpati's eighth seed is joined with fire and bindu."
+  },
+  {
+   "verse": 3235,
+   "rows": [
+    {
+     "surface": "anādhāram",
+     "gloss": "without-support",
+     "grounds": "adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaduḥkha",
+     "gloss": "all-suffering",
+     "grounds": "compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vināśanam",
+     "gloss": "destroying",
+     "grounds": "noun or adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does this unsupported seed destroy all suffering?",
+   "premises": [
+    "this seed is without support",
+    "it destroys all suffering",
+    "the seed is the subject"
+   ],
+   "inference": "This unsupported seed destroys all suffering.",
+   "uncertainties": [
+    "anādhāram may modify the seed or the practice"
+   ],
+   "plain_english": "This unsupported seed destroys all suffering."
+  },
+  {
+   "verse": 3236,
+   "rows": [
+    {
+     "surface": "māyāgnibindusaṃyuktaṃ",
+     "gloss": "with-māyā+fire+bindu",
+     "grounds": "compound joined with māyā fire and bindu",
+     "morph": "adj"
+    },
+    {
+     "surface": "saṃpuṭīkṛtya",
+     "gloss": "having-enclosed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "optative verb",
+     "morph": "v.3sg.opt"
+    }
+   ],
+   "question": "How should one visualize the seed enclosed with māyā, fire, and bindu?",
+   "premises": [
+    "the seed is joined with māyā fire and bindu",
+    "one encloses it",
+    "one should visualize"
+   ],
+   "inference": "One should visualize the seed enclosed with māyā, fire, and bindu.",
+   "uncertainties": [
+    "the seed is omitted but implied"
+   ],
+   "plain_english": "Having enclosed it with māyā, fire, and bindu, one should visualize."
+  },
+  {
+   "verse": 3237,
+   "rows": [
+    {
+     "surface": "ṣaṣṭir",
+     "gloss": "sixty",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ghaṭikā",
+     "gloss": "ghaṭikā",
+     "grounds": "noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yogīndraḥ",
+     "gloss": "yogin-lord",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kālas",
+     "gloss": "time",
+     "grounds": "nominative object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "pron"
+    },
+    {
+     "surface": "avalambya",
+     "gloss": "having-resorted-to",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What time does the yogin lord resort to?",
+   "premises": [
+    "sixty ghaṭikās are time",
+    "the yogin lord resorts to that",
+    "tu marks contrast"
+   ],
+   "inference": "The yogin lord resorts to that time of sixty ghaṭikās.",
+   "uncertainties": [
+    "kālas may be an object rather than subject"
+   ],
+   "plain_english": "The yogin lord, however, resorts to that time of sixty ghaṭikās."
+  },
+  {
+   "verse": 3238,
+   "rows": [
+    {
+     "surface": "pūrvād",
+     "gloss": "from-the-east",
+     "grounds": "directional ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "according-to-rule",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the concentrated mantrin begin placing all syllables from the east according to rule?",
+   "premises": [
+    "Placement begins from the east.",
+    "Rule governs the placement.",
+    "Concentration is required."
+   ],
+   "inference": "The ritual starts with ordered eastern placement by a focused practitioner.",
+   "uncertainties": [
+    "Exact syllable set is not specified here."
+   ],
+   "plain_english": "Beginning from the east, one should place all syllables according to rule while concentrated."
+  },
+  {
+   "verse": 3239,
+   "rows": [
+    {
+     "surface": "abhimukhaṃ",
+     "gloss": "facing",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrarājasya",
+     "gloss": "of-the-mantra-king",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyayed",
+     "gloss": "one-should-meditate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "guha",
+     "gloss": "O-Guha",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "After placing the mantra-king facing forward, how should one meditate, O Guha?",
+   "premises": [
+    "The mantra-king is placed facing forward.",
+    "Meditation follows placement.",
+    "Guha is addressed."
+   ],
+   "inference": "The practice combines placement of the mantra-king with subsequent meditation.",
+   "uncertainties": [
+    "The exact meditation object is not fully stated."
+   ],
+   "plain_english": "Having placed the mantra-king facing forward, one should meditate, O Guha."
+  },
+  {
+   "verse": 3240,
+   "rows": [
+    {
+     "surface": "cā",
+     "gloss": "cā",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jā",
+     "gloss": "jā",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyased",
+     "gloss": "one-should-place",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhṛṅgadale",
+     "gloss": "on-the-petal",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kiñjalkasadṛśa",
+     "gloss": "resembling-filament",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prabhau",
+     "gloss": "in-splendor",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the syllables cā and jā be placed with filament-like splendor?",
+   "premises": [
+    "The syllables cā and jā are placed.",
+    "Placement is on the petal.",
+    "Their splendor resembles a filament."
+   ],
+   "inference": "These syllables belong to the petal with filament-like radiance.",
+   "uncertainties": [
+    "The exact petal and color mapping remain implicit."
+   ],
+   "plain_english": "One should place cā and jā on the petal, resembling a filament in splendor."
+  },
+  {
+   "verse": 3241,
+   "rows": [
+    {
+     "surface": "cī",
+     "gloss": "cī",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jī",
+     "gloss": "jī",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyased",
+     "gloss": "one-should-place",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vitathe",
+     "gloss": "on-the-pericarp",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bālārkasadṛśa",
+     "gloss": "resembling-young-sun",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "prabhau",
+     "gloss": "in-splendor",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the syllables cī and jī be placed with young-sun-like splendor?",
+   "premises": [
+    "The syllables cī and jī are placed.",
+    "Placement is on the pericarp.",
+    "Their splendor resembles a young sun."
+   ],
+   "inference": "These syllables belong to the pericarp with young-sun radiance.",
+   "uncertainties": [
+    "The exact pericarp location is not further specified."
+   ],
+   "plain_english": "One should place cī and jī on the pericarp, resembling a young sun in splendor."
+  },
+  {
+   "verse": 3242,
+   "rows": [
+    {
+     "surface": "chū",
+     "gloss": "chū",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jū",
+     "gloss": "jū",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣe",
+     "gloss": "on-the-remainder",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kākavarṇasamaprabhau",
+     "gloss": "resembling-crow-color",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the syllables chū and jū be placed with crow-colored splendor?",
+   "premises": [
+    "The syllables chū and jū are placed.",
+    "Placement is on the remainder.",
+    "Their splendor resembles crow color."
+   ],
+   "inference": "These syllables belong to the remaining places with crow-like radiance.",
+   "uncertainties": [
+    "The remainder's exact scope is not defined."
+   ],
+   "plain_english": "Having placed chū and jū on the remainder, they resemble crow color in splendor."
+  },
+  {
+   "verse": 3243,
+   "rows": [
+    {
+     "surface": "chai",
+     "gloss": "chai",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jai",
+     "gloss": "jai",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ballāṭake",
+     "gloss": "on-the-ballāṭaka",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kujavarṇasamaprabhau",
+     "gloss": "resembling-badara-color",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the syllables chai and jai be placed with badara-colored splendor?",
+   "premises": [
+    "The syllables chai and jai are placed.",
+    "Placement is on the ballāṭaka.",
+    "Their splendor resembles badara color."
+   ],
+   "inference": "These syllables belong to the ballāṭaka with badara-like radiance.",
+   "uncertainties": [
+    "The term ballāṭaka is not explained here."
+   ],
+   "plain_english": "Having placed chai and jai on the ballāṭaka, they resemble badara color in splendor."
+  },
+  {
+   "verse": 3244,
+   "rows": [
+    {
+     "surface": "chau",
+     "gloss": "chau",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jau",
+     "gloss": "jau",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aditau",
+     "gloss": "on-the-aditi",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "nīvārasadṛśaprabhau",
+     "gloss": "resembling-nīvāra",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the syllables chau and jau be placed with nīvāra-like splendor?",
+   "premises": [
+    "The syllables chau and jau are placed.",
+    "Placement is on the aditi.",
+    "Their splendor resembles nīvāra."
+   ],
+   "inference": "These syllables belong to the aditi with nīvāra-like radiance.",
+   "uncertainties": [
+    "The exact aditi referent is not clarified."
+   ],
+   "plain_english": "Having placed chau and jau on the aditi, they resemble nīvāra in splendor."
+  },
+  {
+   "verse": 3245,
+   "rows": [
+    {
+     "surface": "chaḥ",
+     "gloss": "chaḥ",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaḥ",
+     "gloss": "jaḥ",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṭe",
+     "gloss": "on-the-matted-hair",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nyased",
+     "gloss": "one-should-place",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhasphaṭikasannibhauḥ",
+     "gloss": "resembling-pure-crystal",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the two syllables chaḥ and jaḥ be placed with pure-crystal splendor?",
+   "premises": [
+    "The syllables chaḥ and jaḥ are placed.",
+    "Placement is on the matted hair.",
+    "Their splendor resembles pure crystal."
+   ],
+   "inference": "These two syllables belong to the matted hair with crystal-like radiance.",
+   "uncertainties": [
+    "The exact matted-hair locus is not specified."
+   ],
+   "plain_english": "One should place the two syllables chaḥ and jaḥ on the matted hair, resembling pure crystal."
+  },
+  {
+   "verse": 3246,
+   "rows": [
+    {
+     "surface": "indraṃ",
+     "gloss": "indra",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāsāpuṭīkṛtya",
+     "gloss": "having-enclosed-by-nostrils",
+     "grounds": "absolutive compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dhyāyen",
+     "gloss": "one-should-meditate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atantritaḥ",
+     "gloss": "uninterrupted",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should one meditate on Indra enclosed by the nostrils without interruption?",
+   "premises": [
+    "Indra is enclosed by the nostrils.",
+    "Meditation is constant.",
+    "The practitioner remains uninterrupted."
+   ],
+   "inference": "The practice requires steady meditation on Indra through the nostrils.",
+   "uncertainties": [
+    "The exact nostril technique is not detailed."
+   ],
+   "plain_english": "Having enclosed Indra by the nostrils, one should meditate always, uninterrupted."
+  },
+  {
+   "verse": 3247,
+   "rows": [
+    {
+     "surface": "bhāvayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthaṅ",
+     "gloss": "separately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "the-mantrin",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛtyuṃ",
+     "gloss": "death",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jīyān",
+     "gloss": "one-may-conquer",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can the mantrin separately contemplate and conquer death without doubt?",
+   "premises": [
+    "The mantrin contemplates separately.",
+    "Death is to be conquered.",
+    "There is no doubt."
+   ],
+   "inference": "Separate contemplation enables conquest of death with certainty.",
+   "uncertainties": [
+    "The separate contemplation object is not specified."
+   ],
+   "plain_english": "The mantrin should contemplate separately; death may be conquered, without doubt."
+  },
+  {
+   "verse": 3248,
+   "rows": [
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṃ",
+     "gloss": "gam",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "yam",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśadvāraṃ",
+     "gloss": "ten-times",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitān",
+     "gloss": "the-offered",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saṃyahluṃ",
+     "gloss": "saṃyahluṃ",
+     "grounds": "syllable token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the syllables gam and yam be directed properly toward the offered ten times?",
+   "premises": [
+    "The syllables gam and yam are used.",
+    "Direction is proper.",
+    "The offered are addressed ten times."
+   ],
+   "inference": "The syllables are directed properly toward the offered in a tenfold manner.",
+   "uncertainties": [
+    "The exact ritual direction is unclear."
+   ],
+   "plain_english": "Properly, gam and yam are directed toward the offered, ten times."
+  },
+  {
+   "verse": 3249,
+   "rows": [
+    {
+     "surface": "romakūpeṣu",
+     "gloss": "in-the-hair-pores",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "in-all",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūrayitvā",
+     "gloss": "having-filled",
+     "grounds": "absolutive",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "After filling all hair pores, what should one visualize?",
+   "premises": [
+    "All hair pores are filled.",
+    "Visualization follows filling.",
+    "The practice is contemplative."
+   ],
+   "inference": "Filling the hair pores prepares for subsequent visualization.",
+   "uncertainties": [
+    "The visualization content is not stated."
+   ],
+   "plain_english": "Having filled all hair pores, one should visualize."
+  }
+ ]
+}

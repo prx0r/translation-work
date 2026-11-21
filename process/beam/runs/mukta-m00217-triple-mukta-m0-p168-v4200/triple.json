@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p168",
+ "items": [
+  {
+   "verse": 4200,
+   "rows": [
+    {
+     "surface": "darbhaśayyāṃ",
+     "gloss": "darbha-grass-bed",
+     "grounds": "object of motion/rest context; compound of darbha and śayyā",
+     "morph": "compound.acc.sg.f"
+    },
+    {
+     "surface": "gato",
+     "gloss": "having-gone",
+     "grounds": "describes the subject who has gone to the bed",
+     "morph": "m.nom.sg.past-participle √gam"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "specifies the time of the action",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "prior action leading to reporting",
+     "morph": "(gerund) √dṛś"
+    },
+    {
+     "surface": "svapnaṃ",
+     "gloss": "a-dream",
+     "grounds": "object of seeing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-report",
+     "grounds": "prescribes the required action after seeing the dream",
+     "morph": "3.sg.optative.act causative ni-√vid"
+    }
+   ],
+   "question": "What must one do after seeing a dream while lying on a darbha bed at night?",
+   "premises": [
+    "One has gone to lie on a darbha-grass bed at night.",
+    "While there, one has seen a dream.",
+    "A prescriptive injunction requires reporting what has been seen."
+   ],
+   "inference": "Therefore, after seeing a dream in that state, one should report it.",
+   "uncertainties": [
+    "The intended recipient of the report is not specified in this verse."
+   ],
+   "plain_english": "Having gone to lie on a bed of darbha grass at night and having seen a dream, one should report it."
+  }
+ ]
+}

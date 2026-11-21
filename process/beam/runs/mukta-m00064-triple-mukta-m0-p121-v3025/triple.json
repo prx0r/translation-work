@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating the place reached in the preceding verse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ratnāhvayaṃ",
+     "gloss": "named-ratna",
+     "grounds": "bahuvrīhi/tatpuruṣa compound qualifying liṅgaṃ; ratna (jewel) + āhvaya (name/called)",
+     "morph": "compound: ratna+āhvaya, acc.sg.n."
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "object of worship",
+     "morph": "acc.sg.n."
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "should-worship",
+     "grounds": "prescriptive optative enjoining ritual worship",
+     "morph": "opt.3sg.act, √pūj"
+    },
+    {
+     "surface": "vijitendriyaḥ",
+     "gloss": "senses-conquered",
+     "grounds": "bahuvrīhi compound describing the qualified worshipper; vijita (conquered) + indriya (senses)",
+     "morph": "compound: vijita+indriya, nom.sg.m."
+    }
+   ],
+   "question": "What ritual act is required of a sense-conquered practitioner at the liṅga named Ratna?",
+   "premises": [
+    "The practitioner has arrived at that specified place.",
+    "A liṅga named Ratna is present there.",
+    "The prescribed worshipper is one who has conquered the senses."
+   ],
+   "inference": "Therefore, a sense-conquered practitioner should worship the liṅga named Ratna at that place.",
+   "uncertainties": [],
+   "plain_english": "There, one who has conquered the senses should worship the liṅga named Ratna."
+  }
+ ]
+}

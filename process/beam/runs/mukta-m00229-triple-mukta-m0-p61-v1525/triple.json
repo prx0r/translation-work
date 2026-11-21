@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p61",
+ "items": [
+  {
+   "verse": 1525,
+   "rows": [
+    {
+     "surface": "padāttarpayāmi",
+     "gloss": "satisfy-by-foot",
+     "grounds": "padāt = by foot; tarpayāmi = I satisfy",
+     "morph": "1.sg.act-pres (root tṛp)"
+    },
+    {
+     "surface": "namo'ntataḥ",
+     "gloss": "salutation-at-end",
+     "grounds": "namas + antataḥ fused",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should the final tarpaṇa be offered by foot and concluded with a salutation?",
+   "premises": [
+    "final offering is made by foot",
+    "concluding act is a salutation"
+   ],
+   "inference": "rite ends with foot-offering then salutation",
+   "uncertainties": [
+    "exact referent of padāt unclear"
+   ],
+   "plain_english": "I satisfy by foot; salutation at the end."
+  }
+ ]
+}

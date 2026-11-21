@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p176",
+ "verse": 4376,
+ "question": "How many dice or pieces are placed in each of the four directions?",
+ "premises": [
+  "The verse lists counts one two three and five",
+  "The counts are distributed across directions",
+  "The game board has four sides"
+ ],
+ "inference": "The verse enumerates directional placements for the dice game.",
+ "uncertainties": [
+  "Exact mapping of counts to directions is not explicit"
+ ],
+ "plain_english": "One in one direction, two in another, three and five elsewhere."
+}

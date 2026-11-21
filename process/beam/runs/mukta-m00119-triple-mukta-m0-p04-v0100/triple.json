@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "śaive",
+     "gloss": "in-shaiva",
+     "grounds": "locative form of śaiva, naming the Shaiva tradition",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śākte",
+     "gloss": "in-shakta",
+     "grounds": "locative form of śākta, naming the Shakta tradition",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "gāṇapate",
+     "gloss": "in-ganapatya",
+     "grounds": "locative form of gāṇapata, naming the Ganapatya tradition",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "saure",
+     "gloss": "in-saurya",
+     "grounds": "locative form of saura, naming the Saurya tradition",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "svāyambhuve",
+     "gloss": "in-svayambhuva",
+     "grounds": "locative form of svāyambhuva, naming the Svayambhuva tradition",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable particle marking continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which five sectarian traditions are enumerated alongside the thus marker?",
+   "premises": [
+    "Verse lists five traditions.",
+    "Locative forms name traditions.",
+    "Thus marks continuation."
+   ],
+   "inference": "The verse enumerates Shaiva, Shakta, Ganapatya, Saurya, and Svayambhuva traditions.",
+   "uncertainties": [
+    "Exact syntactic role of the locative forms remains unresolved."
+   ],
+   "plain_english": "In the Shaiva, Shakta, Ganapatya, Saurya, and Svayambhuva traditions, thus."
+  }
+ ]
+}

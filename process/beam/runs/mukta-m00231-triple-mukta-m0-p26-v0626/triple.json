@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 626,
+   "rows": [
+    {
+     "surface": "sālaṅkārāṃ",
+     "gloss": "with-ornaments",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "suveśāñca",
+     "gloss": "well-dressed-and",
+     "grounds": "legacy hint",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "place",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+sthā"
+    },
+    {
+     "surface": "tūlikopari",
+     "gloss": "on-cushion",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should the adorned and well-dressed figure be positioned for the rite?",
+   "premises": [
+    "The figure is adorned.",
+    "The figure is well-dressed.",
+    "It is placed on a cushion."
+   ],
+   "inference": "The rite requires placing the adorned, well-dressed figure on a cushion.",
+   "uncertainties": [
+    "Exact ritual referent is unclear."
+   ],
+   "plain_english": "Place the adorned, well-dressed figure on a cushion."
+  },
+  {
+   "verse": 627,
+   "rows": [
+    {
+     "surface": "mātṛkānyāsam",
+     "gloss": "mātṛkā-nyāsa",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ācarya",
+     "gloss": "having-done",
+     "grounds": "legacy hint",
+     "morph": "abs+ācar"
+    },
+    {
+     "surface": "kalānyāsaṃ",
+     "gloss": "kalā-nyāsa",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "perform",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+samācar"
+    }
+   ],
+   "question": "What sequence of nyāsa practices should the practitioner perform?",
+   "premises": [
+    "Mātṛkā-nyāsa is done first.",
+    "Kalā-nyāsa is performed next.",
+    "The practitioner performs both."
+   ],
+   "inference": "The practitioner performs kalā-nyāsa after mātṛkā-nyāsa.",
+   "uncertainties": [
+    "Specific nyāsa details are not given."
+   ],
+   "plain_english": "After performing mātṛkā-nyāsa, perform kalā-nyāsa."
+  },
+  {
+   "verse": 628,
+   "rows": [
+    {
+     "surface": "aiṅkāraṃ",
+     "gloss": "aiṅkāra",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "bluṅkārameva",
+     "gloss": "bluṅkāra-indeed",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where are aiṅkāra and bluṅkāra placed in the body?",
+   "premises": [
+    "Aiṅkāra is placed in the heart.",
+    "Bluṅkāra is placed in the navel.",
+    "Both placements are affirmed."
+   ],
+   "inference": "The syllables are assigned to heart and navel respectively.",
+   "uncertainties": [
+    "Exact phonetic form is unclear."
+   ],
+   "plain_english": "Place aiṅkāra in the heart and bluṅkāra in the navel."
+  },
+  {
+   "verse": 629,
+   "rows": [
+    {
+     "surface": "ṛṣyādikaṃ",
+     "gloss": "ṛṣi-etc",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "svakalpoktaṃ",
+     "gloss": "by-own-kalpa-stated",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pādyādibhiḥ",
+     "gloss": "with-pādya-etc",
+     "grounds": "legacy hint",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worship",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+yaj"
+    }
+   ],
+   "question": "How should the ṛṣi and related elements be worshipped?",
+   "premises": [
+    "The ṛṣi-etc is stated by one's own kalpa.",
+    "Pādya and related offerings are used.",
+    "Worship follows then."
+   ],
+   "inference": "Worship the ṛṣi-etc with pādya and related offerings as stated.",
+   "uncertainties": [
+    "Kalpa-specific details are not supplied."
+   ],
+   "plain_english": "Then worship the ṛṣi and related elements with pādya and other offerings as stated in one's kalpa."
+  },
+  {
+   "verse": 630,
+   "rows": [
+    {
+     "surface": "ādhāre",
+     "gloss": "in-ādhāra",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhruvormadhye",
+     "gloss": "in-middle-of-brows",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+nyas"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "In what order are placements made in ādhāra, heart, and brow?",
+   "premises": [
+    "Placements occur in ādhāra.",
+    "Placements occur in heart.",
+    "Placements occur between the brows in order."
+   ],
+   "inference": "The nyāsa placements proceed in order through ādhāra, heart, and brow-middle.",
+   "uncertainties": [
+    "Exact items placed are not specified."
+   ],
+   "plain_english": "Place items in order in the ādhāra, heart, and middle of the brows."
+  },
+  {
+   "verse": 631,
+   "rows": [
+    {
+     "surface": "mūrddhādipādaparyantaṃ",
+     "gloss": "from-head-to-foot",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "nyāsa",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+kṛ"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "param",
+     "gloss": "afterwards",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What bodily range should the nyāsa cover?",
+   "premises": [
+    "Nyāsa extends from head.",
+    "Nyāsa extends to foot.",
+    "It is done then afterwards."
+   ],
+   "inference": "The nyāsa should cover the whole body from head to foot.",
+   "uncertainties": [
+    "Specific nyāsa sequence is not detailed."
+   ],
+   "plain_english": "Then perform nyāsa from head to foot."
+  },
+  {
+   "verse": 632,
+   "rows": [
+    {
+     "surface": "sīmante",
+     "gloss": "on-parting",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "likhanaṃ",
+     "gloss": "writing",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "nakhaiḥ",
+     "gloss": "with-nails",
+     "grounds": "legacy hint",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "urasijaṃ",
+     "gloss": "breast-born",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gṛhṇīta",
+     "gloss": "grasp",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+grah"
+    },
+    {
+     "surface": "gāḍhaṃ",
+     "gloss": "firmly",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What physical actions accompany the rite after writing on the parting?",
+   "premises": [
+    "Writing is done on the parting with nails.",
+    "The breast-born is grasped firmly.",
+    "Then the rite proceeds."
+   ],
+   "inference": "The practitioner writes on the parting with nails and firmly grasps the breast-born.",
+   "uncertainties": [
+    "Referent of breast-born is unclear."
+   ],
+   "plain_english": "Write on the parting with nails, then firmly grasp the breast-born."
+  },
+  {
+   "verse": 633,
+   "rows": [
+    {
+     "surface": "jaṅghāṅguṣṭhapadorugulphahananaṃ",
+     "gloss": "calf-thumb-foot-thigh-ankle-striking",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anyo'nyataḥ",
+     "gloss": "mutually",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāminoḥ",
+     "gloss": "of-lovers",
+     "grounds": "legacy hint",
+     "morph": "gen.du.m"
+    }
+   ],
+   "question": "What mutual striking actions occur between the lovers?",
+   "premises": [
+    "Calf, thumb, foot, thigh, and ankle striking is named.",
+    "The action is mutual.",
+    "It belongs to the lovers."
+   ],
+   "inference": "The lovers mutually strike calf, thumb, foot, thigh, and ankle.",
+   "uncertainties": [
+    "Exact choreography is unclear."
+   ],
+   "plain_english": "The lovers mutually strike calf, thumb, foot, thigh, and ankle."
+  },
+  {
+   "verse": 634,
+   "rows": [
+    {
+     "surface": "ekādaśasvareṇāḍhyaṃ",
+     "gloss": "eleven-vowels-rich",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "candrabindusamanvitam",
+     "gloss": "with-candrabindu",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What phonetic features characterize the mantra or formula?",
+   "premises": [
+    "It is rich in eleven vowels.",
+    "It is accompanied by candrabindu.",
+    "Both features define it."
+   ],
+   "inference": "The formula is characterized by eleven vowels and candrabindu.",
+   "uncertainties": [
+    "Full mantra text is not given."
+   ],
+   "plain_english": "The formula is rich in eleven vowels and includes candrabindu."
+  },
+  {
+   "verse": 635,
+   "rows": [
+    {
+     "surface": "vāmā",
+     "gloss": "left",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "legacy hint",
+     "morph": "rel.nom.sg.f"
+    },
+    {
+     "surface": "capalacitte",
+     "gloss": "fickle-minded",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "reto",
+     "gloss": "semen",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "muñcadvayaṃ",
+     "gloss": "release-two",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "recite",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+paṭh"
+    }
+   ],
+   "question": "What is recited concerning the fickle-minded left one and semen release?",
+   "premises": [
+    "The left one is fickle-minded.",
+    "Semen release of two is named.",
+    "The practitioner recites."
+   ],
+   "inference": "The practitioner recites concerning the fickle-minded left one and release of two.",
+   "uncertainties": [
+    "Exact recitation content is unclear."
+   ],
+   "plain_english": "Recite concerning the fickle-minded left one and the release of two."
+  },
+  {
+   "verse": 636,
+   "rows": [
+    {
+     "surface": "somavadhūsamāyuktaṃ",
+     "gloss": "with-moon-bride",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "candramantyasvarānvitam",
+     "gloss": "with-final-moon-vowel",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What accompanies the moon-bride formula?",
+   "premises": [
+    "It is joined with the moon-bride.",
+    "It includes the final moon vowel.",
+    "Both features are named."
+   ],
+   "inference": "The formula is joined with the moon-bride and includes the final moon vowel.",
+   "uncertainties": [
+    "Exact phonetic sequence is unclear."
+   ],
+   "plain_english": "The formula is joined with the moon-bride and includes the final moon vowel."
+  },
+  {
+   "verse": 637,
+   "rows": [
+    {
+     "surface": "tasyā yonau",
+     "gloss": "in-her-yoni",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "nyasedvidyāṃ",
+     "gloss": "place-vidyā",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+nyas"
+    },
+    {
+     "surface": "ret thu mā to ca mai na ta",
+     "gloss": "mantra",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where is the vidyā placed and what mantra is used?",
+   "premises": [
+    "The vidyā is placed in her yoni.",
+    "A mantra string is given.",
+    "Placement and mantra are linked."
+   ],
+   "inference": "The practitioner places the vidyā in her yoni with the given mantra.",
+   "uncertainties": [
+    "Mantra segmentation is unclear."
+   ],
+   "plain_english": "Place the vidyā in her yoni with the mantra."
+  },
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "niṃ gha yed ṅge yo na rṣa li mūlam",
+     "gloss": "mantra",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uccārya",
+     "gloss": "uttering",
+     "grounds": "legacy hint",
+     "morph": "abs+uccār"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does the practitioner utter as the root mantra?",
+   "premises": [
+    "A mantra string is given.",
+    "The practitioner utters it.",
+    "The practitioner is the sādhaka."
+   ],
+   "inference": "The sādhaka utters the given mantra as root.",
+   "uncertainties": [
+    "Mantra segmentation is unclear."
+   ],
+   "plain_english": "The practitioner utters the given root mantra."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "suṣumnāvartmanā",
+     "gloss": "through-suṣumnā",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "akṣavṛttīḥ",
+     "gloss": "eye-rounds",
+     "grounds": "legacy hint",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "juhomyaham",
+     "gloss": "I-offer",
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres+hu"
+    }
+   ],
+   "question": "What is offered through the suṣumnā path?",
+   "premises": [
+    "The path is through suṣumnā.",
+    "The offering is always made.",
+    "Eye-rounds are offered."
+   ],
+   "inference": "The practitioner always offers eye-rounds through the suṣumnā path.",
+   "uncertainties": [
+    "Exact ritual mechanics are unclear."
+   ],
+   "plain_english": "I always offer eye-rounds through the suṣumnā path."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japet",
+     "gloss": "recite",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+jap"
+    },
+    {
+     "surface": "striyaṃ gacchan",
+     "gloss": "going-to-woman",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m pres.part"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "jihvāmṛtaṃ",
+     "gloss": "tongue-nectar",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pivet",
+     "gloss": "drink",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+pā"
+    }
+   ],
+   "question": "What should be recited and drunk during union with a woman?",
+   "premises": [
+    "The practitioner goes to a woman.",
+    "He recites then.",
+    "He drinks tongue-nectar in the mouth."
+   ],
+   "inference": "During union, the practitioner recites and drinks tongue-nectar from the mouth.",
+   "uncertainties": [
+    "Exact mantra is not specified."
+   ],
+   "plain_english": "Then, going to a woman, recite and drink the tongue-nectar in the mouth."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "varuṇaṃ",
+     "gloss": "varuṇa",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "svarasaṃyukta",
+     "gloss": "with-vowel",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pañcadīrghasamanvitam",
+     "gloss": "with-five-long",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What features characterize the varuṇa formula?",
+   "premises": [
+    "Varuṇa is named.",
+    "It is joined with a vowel.",
+    "It includes five long vowels."
+   ],
+   "inference": "The varuṇa formula is joined with a vowel and includes five long vowels.",
+   "uncertainties": [
+    "Exact phonetic form is unclear."
+   ],
+   "plain_english": "The varuṇa formula is joined with a vowel and includes five long vowels."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "muhurmuhuḥ",
+     "gloss": "again-and-again",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pibet",
+     "gloss": "drink",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+pā"
+    },
+    {
+     "surface": "pānaṃ",
+     "gloss": "drink",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śaktijihvāviloḍitam",
+     "gloss": "stirred-by-śakti-tongue",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How often and what kind of drink is consumed?",
+   "premises": [
+    "Drinking happens again and again.",
+    "The drink is stirred by śakti's tongue.",
+    "The practitioner drinks it."
+   ],
+   "inference": "The practitioner repeatedly drinks the drink stirred by śakti's tongue.",
+   "uncertainties": [
+    "Exact substance is unclear."
+   ],
+   "plain_english": "Drink again and again the drink stirred by śakti's tongue."
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śaktisaṃyogāt",
+     "gloss": "by-śakti-union",
+     "grounds": "legacy hint",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "ekībhūtāṃ",
+     "gloss": "become-one",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "meditate",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+vicint"
+    }
+   ],
+   "question": "What meditation follows union with śakti?",
+   "premises": [
+    "Union with śakti occurs.",
+    "The self becomes one.",
+    "The practitioner meditates on that."
+   ],
+   "inference": "The practitioner meditates on becoming one with śakti in the self.",
+   "uncertainties": [
+    "Exact visualization is unclear."
+   ],
+   "plain_english": "Meditate in the self on becoming one through union with śakti."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "jihvāṃ",
+     "gloss": "tongue",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "mūlamayīṃ",
+     "gloss": "root-form",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "cintya",
+     "gloss": "meditating",
+     "grounds": "legacy hint",
+     "morph": "abs+cint"
+    },
+    {
+     "surface": "yoniñca",
+     "gloss": "and-yoni",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kularūpiṇīm",
+     "gloss": "clan-formed",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What forms are meditated upon for tongue and yoni?",
+   "premises": [
+    "The tongue is root-form.",
+    "The yoni is clan-formed.",
+    "Both are meditated upon."
+   ],
+   "inference": "The practitioner meditates on the tongue as root-form and the yoni as clan-formed.",
+   "uncertainties": [
+    "Exact symbolic meaning is unclear."
+   ],
+   "plain_english": "Meditate on the tongue as root-form and the yoni as clan-formed."
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "śuddhamantrauṣadhenaiva",
+     "gloss": "with-pure-mantra-medicine",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "ret ma na neḥ ñca pra tha yo",
+     "gloss": "mantra",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What accompanies the mantra in this rite?",
+   "premises": [
+    "Pure mantra-medicine is used.",
+    "A mantra string is given.",
+    "Both are linked."
+   ],
+   "inference": "The rite uses pure mantra-medicine together with the given mantra.",
+   "uncertainties": [
+    "Mantra segmentation is unclear."
+   ],
+   "plain_english": "Use pure mantra-medicine with the given mantra."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "tattvatyāge",
+     "gloss": "on-tattva-abandonment",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "pīṭhenmūlaṃ",
+     "gloss": "press-root",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+pīḍ"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sthiramānasaḥ",
+     "gloss": "steady-minded",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What should the steady-minded practitioner do on tattva abandonment?",
+   "premises": [
+    "Tattva abandonment occurs.",
+    "The root is pressed.",
+    "The practitioner is steady-minded."
+   ],
+   "inference": "On tattva abandonment, the steady-minded practitioner presses the root.",
+   "uncertainties": [
+    "Exact tattva sense is unclear."
+   ],
+   "plain_english": "On abandoning tattva, the steady-minded practitioner presses the root."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "dharmādharmakalāsnehapūrṇa",
+     "gloss": "dharma-adharma-kalā-oil-full",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "legacy hint",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "juhomyaham",
+     "gloss": "I-offer",
+     "grounds": "legacy hint",
+     "morph": "1.sg.act-pres+hu"
+    }
+   ],
+   "question": "What is offered into the fire?",
+   "premises": [
+    "It is full of dharma-adharma-kalā oil.",
+    "It is offered in fire.",
+    "The speaker offers it."
+   ],
+   "inference": "The speaker offers the dharma-adharma-kalā-oil-full substance into fire.",
+   "uncertainties": [
+    "Exact substance is unclear."
+   ],
+   "plain_english": "I offer the dharma-adharma-kalā-oil-full substance into the fire."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "śivaśaktisamāyogo",
+     "gloss": "śiva-śakti-union",
+     "grounds": "legacy hint",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yatra yatra",
+     "gloss": "wherever",
+     "grounds": "legacy hint",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "legacy hint",
+     "morph": "3.sg.mid-pres+pra-jan"
+    }
+   ],
+   "question": "Wherever śiva-śakti union arises, what follows?",
+   "premises": [
+    "Śiva-śakti union is named.",
+    "It arises wherever.",
+    "The verse states its arising."
+   ],
+   "inference": "Wherever śiva-śakti union arises, that arising is affirmed.",
+   "uncertainties": [
+    "Consequence is not explicitly stated."
+   ],
+   "plain_english": "Wherever śiva-śakti union arises, it arises."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "take",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act-opt+grah"
+    },
+    {
+     "surface": "tatprayatnena",
+     "gloss": "with-effort",
+     "grounds": "legacy hint",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuṇḍodbhavaṃ",
+     "gloss": "kuṇḍa-born",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "legacy hint",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What kuṇḍa-born substance should be taken with effort?",
+   "premises": [
+    "A substance is kuṇḍa-born.",
+    "It is remembered.",
+    "It should be taken with effort."
+   ],
+   "inference": "The practitioner should take the remembered kuṇḍa-born substance with effort.",
+   "uncertainties": [
+    "Exact substance is unclear."
+   ],
+   "plain_english": "Take with effort the remembered kuṇḍa-born substance."
+  }
+ ]
+}

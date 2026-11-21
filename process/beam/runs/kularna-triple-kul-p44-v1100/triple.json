@@ -1,0 +1,64 @@
+{
+ "song": "kul-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-holder",
+     "grounds": "compound of mantra and holder",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of snā (bathe)",
+     "morph": "absol."
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śuddhātmā",
+     "gloss": "pure-soul",
+     "grounds": "compound of śuddha and ātman",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act.opt. (kṛ)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to devī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kramārcanam",
+     "gloss": "sequential-worship",
+     "grounds": "compound of krama and arcana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Who should perform sequential worship after bathing?",
+   "premises": [
+    "mantra-holder bathes before worship",
+    "pure soul performs the rite",
+    "goddess is addressed directly"
+   ],
+   "inference": "A purified mantra-holder performs sequential worship after bathing.",
+   "uncertainties": [
+    "whether devi is Pārvatī or a general goddess",
+    "whether kramārcanam names a fixed ritual sequence"
+   ],
+   "plain_english": "O goddess, the mantra-holder, having bathed and being pure-souled, should then perform sequential worship."
+  }
+ ]
+}

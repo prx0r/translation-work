@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2650,
+   "rows": [
+    {
+     "surface": "anuttamottamaṃ",
+     "gloss": "unsurpassed-supreme",
+     "grounds": "bahuvrīhi/compound adjective qualifying kṣetraṃ; highest excellence",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "sacred-place",
+     "grounds": "predicate noun identifying the site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śailaṃ",
+     "gloss": "mountain",
+     "grounds": "noun in apposition specifying the sacred place",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mandārakaṃ",
+     "gloss": "mandāraka",
+     "grounds": "proper name of the mountain, in apposition to śailaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What exalted status is attributed to the Mandāraka mountain as a sacred site?",
+   "premises": [
+    "The site is declared an unsurpassed and supreme sacred place.",
+    "This sacred place is identified as the Mandāraka mountain.",
+    "The declaration is addressed directly to the beloved."
+   ],
+   "inference": "The Mandāraka mountain is affirmed as the highest sacred place.",
+   "uncertainties": [
+    "The exact case relation of śailaṃ mandārakaṃ in apposition to kṣetraṃ is contextually inferred."
+   ],
+   "plain_english": "O beloved, it is the unsurpassed, supreme sacred place—the Mandāraka mountain."
+  }
+ ]
+}

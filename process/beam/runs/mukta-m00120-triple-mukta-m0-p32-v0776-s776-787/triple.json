@@ -1,0 +1,552 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 776,
+   "rows": [
+    {
+     "surface": "kṛṣṇaśāpaṃ",
+     "gloss": "kṛṣṇa-curse",
+     "grounds": "compound kṛṣṇa + śāpaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "śukraśāpaṃ",
+     "gloss": "śukra-curse",
+     "grounds": "compound śukra + śāpaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "brahmaśāpaṃ",
+     "gloss": "brahma-curse",
+     "grounds": "compound brahma + śāpaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vimocayet",
+     "gloss": "should-release",
+     "grounds": "causative optative of vimuc",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Which three curses must be released from the seed?",
+   "premises": [
+    "kṛṣṇaśāpaṃ names curse of kṛṣṇa",
+    "śukraśāpaṃ names curse of śukra",
+    "brahmaśāpaṃ names curse of brahma",
+    "vimocayet commands release"
+   ],
+   "inference": "The rite releases curses of kṛṣṇa, śukra, and brahma from the seed.",
+   "uncertainties": [
+    "Exact ritual context is not stated in this verse."
+   ],
+   "plain_english": "Release the curses of kṛṣṇa, śukra, and brahma."
+  },
+  {
+   "verse": 777,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then-and",
+     "grounds": "tatas + ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "bīja",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "madyaṃ",
+     "gloss": "wine",
+     "grounds": "madya",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "hi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "tatra",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śāpaṃ",
+     "gloss": "curse",
+     "grounds": "śāpa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "kathaṃ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "vad",
+     "morph": "v.2.sg.act-imp"
+    }
+   ],
+   "question": "How can the seed-wine there be cursed?",
+   "premises": [
+    "tataśca moves to next point",
+    "bījaṃ is seed",
+    "madyaṃ is wine",
+    "tatra locates it there",
+    "śāpaṃ is curse",
+    "kathaṃ asks how",
+    "vada commands tell"
+   ],
+   "inference": "The speaker asks how the seed-wine there carries a curse.",
+   "uncertainties": [
+    "The addressee and full ritual setting are not stated."
+   ],
+   "plain_english": "Then tell me, how is the seed-wine cursed there?"
+  },
+  {
+   "verse": 778,
+   "rows": [
+    {
+     "surface": "śaktihīne",
+     "gloss": "powerless",
+     "grounds": "śakti + hīne",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "madyapāne",
+     "gloss": "in-wine-drinking",
+     "grounds": "madya + pāne",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "śukro",
+     "gloss": "śukra",
+     "grounds": "śukraḥ",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "brahmā",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "janārdanaḥ",
+     "gloss": "janārdana",
+     "grounds": "janārdanaḥ",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who are cursed when wine is drunk without power?",
+   "premises": [
+    "śaktihīne means powerless",
+    "madyapāne means in wine-drinking",
+    "śukro names śukra",
+    "brahmā names brahmā",
+    "janārdanaḥ names janārdana"
+   ],
+   "inference": "Śukra, brahmā, and janārdana are named in the powerless wine-drinking context.",
+   "uncertainties": [
+    "Whether all three are cursed is implied rather than explicit."
+   ],
+   "plain_english": "In powerless wine-drinking, śukra, brahmā, and janārdana."
+  },
+  {
+   "verse": 779,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then-and",
+     "grounds": "tatas + ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "supreme-goddess",
+     "grounds": "parameśāni",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "śāpaṃ",
+     "gloss": "curse",
+     "grounds": "śāpa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tyajya",
+     "gloss": "abandoning",
+     "grounds": "tyajya",
+     "morph": "ger."
+    },
+    {
+     "surface": "pivenmadhu",
+     "gloss": "drink-honey",
+     "grounds": "piven + madhu",
+     "morph": "v.3.pl.act-imp"
+    }
+   ],
+   "question": "After abandoning the curse, what should the supreme goddess drink?",
+   "premises": [
+    "tataśca continues instruction",
+    "parameśāni addresses supreme goddess",
+    "śāpaṃ is curse",
+    "tyajya means abandoning",
+    "pivenmadhu means drink honey"
+   ],
+   "inference": "The supreme goddess should abandon the curse and drink honey.",
+   "uncertainties": [
+    "Whether madhu means honey or wine is not settled here."
+   ],
+   "plain_english": "Then, O supreme goddess, abandoning the curse, drink honey."
+  },
+  {
+   "verse": 780,
+   "rows": [
+    {
+     "surface": "śāpādimocanaṃ",
+     "gloss": "curse-release",
+     "grounds": "śāpa + ādi + mocanaṃ",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "dravya",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "devānāmapi",
+     "gloss": "even-for-gods",
+     "grounds": "devānām + api",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "rare",
+     "grounds": "durlabha",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "How rare is the substance that releases curses?",
+   "premises": [
+    "śāpādimocanaṃ is curse-release",
+    "dravyaṃ is substance",
+    "devānāmapi means even for gods",
+    "durlabham means rare"
+   ],
+   "inference": "The curse-releasing substance is rare even for gods.",
+   "uncertainties": [
+    "The exact substance is not named in this verse."
+   ],
+   "plain_english": "The substance that releases curses is rare even for gods."
+  },
+  {
+   "verse": 781,
+   "rows": [
+    {
+     "surface": "mocanārthe",
+     "gloss": "for-release",
+     "grounds": "mocana + arthe",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "tri + dhā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "mantra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "daśa + dhā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāraṇe",
+     "gloss": "in-cause",
+     "grounds": "kāraṇa",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-chant",
+     "grounds": "jap",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How should the mantra be chanted for release?",
+   "premises": [
+    "mocanārthe means for release",
+    "tridhā means threefold",
+    "mantraṃ is mantra",
+    "daśadhā means tenfold",
+    "kāraṇe means in cause",
+    "japet means should chant"
+   ],
+   "inference": "For release, the mantra should be chanted threefold and tenfold in the cause.",
+   "uncertainties": [
+    "The exact mantra and cause are not specified here."
+   ],
+   "plain_english": "For release, chant the mantra threefold and tenfold in the cause."
+  },
+  {
+   "verse": 782,
+   "rows": [
+    {
+     "surface": "dravyamadhye",
+     "gloss": "in-substance",
+     "grounds": "dravya + madhye",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "gandhapiṣpair",
+     "gloss": "with-scent-pastes",
+     "grounds": "gandha + piṣpaiḥ",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "yajed",
+     "gloss": "should-sacrifice",
+     "grounds": "yaj",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "vīra",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "trivārakam",
+     "gloss": "three-times",
+     "grounds": "tri + vārakam",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should the hero sacrifice in the substance?",
+   "premises": [
+    "dravyamadhye means in substance",
+    "gandhapiṣpair means with scent-pastes",
+    "yajed means should sacrifice",
+    "vīraḥ means hero",
+    "trivārakam means three times"
+   ],
+   "inference": "The hero should sacrifice in the substance with scent-pastes three times.",
+   "uncertainties": [
+    "The deity or exact offering is not named in this verse."
+   ],
+   "plain_english": "In the substance, the hero should sacrifice with scent-pastes three times."
+  },
+  {
+   "verse": 783,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrīsarvānandanāthaviracite",
+     "gloss": "composed-by-śrī-sarvānandanātha",
+     "grounds": "śrī + sarvānanda + nātha + viracite",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "sarvollāse",
+     "gloss": "in-sarvollāsa",
+     "grounds": "sarvollāsa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "pañcaviṃśatyullāsaḥ",
+     "gloss": "twenty-fifth-chapter",
+     "grounds": "pañcaviṃśati + ullāsaḥ",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which chapter of sarvollāsa concludes here?",
+   "premises": [
+    "iti marks conclusion",
+    "śrīsarvānandanāthaviracite names composer",
+    "sarvollāse names work",
+    "pañcaviṃśatyullāsaḥ names twenty-fifth chapter"
+   ],
+   "inference": "This concludes the twenty-fifth chapter of sarvollāsa composed by śrī sarvānandanātha.",
+   "uncertainties": [
+    "No doctrinal content beyond colophon is stated."
+   ],
+   "plain_english": "Thus ends the twenty-fifth chapter of sarvollāsa composed by śrī sarvānandanātha."
+  },
+  {
+   "verse": 784,
+   "rows": [
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "dhyāna",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "mad",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "paramānandaṃ",
+     "gloss": "supreme-bliss",
+     "grounds": "parama + ānandaṃ",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kathaya",
+     "gloss": "tell",
+     "grounds": "kath",
+     "morph": "v.2.sg.act-imp"
+    },
+    {
+     "surface": "prāṇavallabha",
+     "gloss": "beloved-of-life",
+     "grounds": "prāṇa + vallabha",
+     "morph": "n.voc.sg.m"
+    }
+   ],
+   "question": "What meditation should be told to the beloved of life?",
+   "premises": [
+    "dhyānaṃ is meditation",
+    "me means to me",
+    "paramānandaṃ is supreme bliss",
+    "kathaya means tell",
+    "prāṇavallabha means beloved of life"
+   ],
+   "inference": "The speaker asks to be told the meditation of supreme bliss.",
+   "uncertainties": [
+    "The exact meditation is not given in this verse."
+   ],
+   "plain_english": "Tell me, beloved of life, the meditation of supreme bliss."
+  },
+  {
+   "verse": 785,
+   "rows": [
+    {
+     "surface": "aṣṭādaśabhujaṃ",
+     "gloss": "eighteen-armed",
+     "grounds": "aṣṭādaśa + bhujaṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deva",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "pañcavaktraṃ",
+     "gloss": "five-faced",
+     "grounds": "pañca + vaktraṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "trilocanam",
+     "gloss": "three-eyed",
+     "grounds": "tri + locanam",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What form of the god is described here?",
+   "premises": [
+    "aṣṭādaśabhujaṃ means eighteen-armed",
+    "devaṃ means god",
+    "pañcavaktraṃ means five-faced",
+    "trilocanam means three-eyed"
+   ],
+   "inference": "The god is described as eighteen-armed, five-faced, and three-eyed.",
+   "uncertainties": [
+    "The god's name is not stated in this verse."
+   ],
+   "plain_english": "The god is eighteen-armed, five-faced, and three-eyed."
+  },
+  {
+   "verse": 786,
+   "rows": [
+    {
+     "surface": "vṛṣāruḍhaṃ",
+     "gloss": "bull-mounted",
+     "grounds": "vṛṣa + āruḍhaṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "nīlakaṇṭhaṃ",
+     "gloss": "blue-throated",
+     "grounds": "nīla + kaṇṭhaṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "sarva + ābharaṇa + bhūṣitam",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What additional features describe the god?",
+   "premises": [
+    "vṛṣāruḍhaṃ means bull-mounted",
+    "nīlakaṇṭhaṃ means blue-throated",
+    "sarvābharaṇabhūṣitam means adorned with all ornaments"
+   ],
+   "inference": "The god is bull-mounted, blue-throated, and adorned with all ornaments.",
+   "uncertainties": [
+    "The god's name remains implicit."
+   ],
+   "plain_english": "Bull-mounted, blue-throated, and adorned with all ornaments."
+  },
+  {
+   "verse": 787,
+   "rows": [
+    {
+     "surface": "pāśāṅkuśadharaṃ",
+     "gloss": "bearing-noose-and-goad",
+     "grounds": "pāśa + aṅkuśa + dharaṃ",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deva",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "gadāmusaladhāriṇam",
+     "gloss": "holding-mace-and-pestle",
+     "grounds": "gadā + musala + dhāriṇam",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What weapons does the god bear and hold?",
+   "premises": [
+    "pāśāṅkuśadharaṃ means bearing noose and goad",
+    "devaṃ means god",
+    "gadāmusaladhāriṇam means holding mace and pestle"
+   ],
+   "inference": "The god bears a noose and goad and holds a mace and pestle.",
+   "uncertainties": [
+    "The god's name is not explicitly stated."
+   ],
+   "plain_english": "The god bears a noose and goad and holds a mace and pestle."
+  }
+ ]
+}

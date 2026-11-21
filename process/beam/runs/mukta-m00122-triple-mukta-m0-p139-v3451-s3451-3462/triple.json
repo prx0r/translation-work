@@ -1,0 +1,683 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3451,
+   "rows": [
+    {
+     "surface": "rāhuḥ",
+     "gloss": "rāhu",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūnyam",
+     "gloss": "empty",
+     "grounds": "predicate adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverbial scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśāya",
+     "gloss": "for-destruction",
+     "grounds": "purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "kṣaṇāt",
+     "gloss": "instantly",
+     "grounds": "temporal ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What is the consequence when Rāhu is empty everywhere?",
+   "premises": [
+    "Rāhu empty everywhere brings destruction.",
+    "The destruction occurs instantly."
+   ],
+   "inference": "An empty Rāhu is destructive in every place without delay.",
+   "uncertainties": [],
+   "plain_english": "When Rāhu is empty everywhere, it becomes destructive instantly."
+  },
+  {
+   "verse": 3452,
+   "rows": [
+    {
+     "surface": "saṃgrahaḥ",
+     "gloss": "collection",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akhilam",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "candre",
+     "gloss": "in-the-moon",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root sidh"
+    },
+    {
+     "surface": "ayatnataḥ",
+     "gloss": "effortlessly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where does the complete collection of other things succeed effortlessly?",
+   "premises": [
+    "The collection is other and complete.",
+    "It succeeds in the moon effortlessly."
+   ],
+   "inference": "The full collection of other things succeeds in the moon without effort.",
+   "uncertainties": [],
+   "plain_english": "The complete collection of other things succeeds effortlessly in the moon."
+  },
+  {
+   "verse": 3453,
+   "rows": [
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "first member of dual compound",
+     "morph": "compound member"
+    },
+    {
+     "surface": "sūryābhyām",
+     "gloss": "by-sun-and-moon",
+     "grounds": "instrumental dual",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "cakāraḥ",
+     "gloss": "circle",
+     "grounds": "object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samāhāre",
+     "gloss": "in-combination",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is made by combining sun and moon?",
+   "premises": [
+    "Sun and moon are combined.",
+    "A circle is formed in that combination."
+   ],
+   "inference": "The combination of sun and moon produces a circle.",
+   "uncertainties": [],
+   "plain_english": "By combining sun and moon, a circle is formed."
+  },
+  {
+   "verse": 3454,
+   "rows": [
+    {
+     "surface": "sāmānyam",
+     "gloss": "common",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upadiśati",
+     "gloss": "teaches",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root upadiś"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāskarāḥ",
+     "gloss": "suns",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śūnya",
+     "gloss": "empty",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpa",
+     "gloss": "form",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhurāḥ",
+     "gloss": "moons",
+     "grounds": "subject",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What common result is taught there for suns and moons?",
+   "premises": [
+    "A common result is taught there.",
+    "Suns are empty and moons have form."
+   ],
+   "inference": "The teaching gives a common result distinguishing empty suns from formed moons.",
+   "uncertainties": [],
+   "plain_english": "There a common result is taught: suns are empty, moons have form."
+  },
+  {
+   "verse": 3455,
+   "rows": [
+    {
+     "surface": "niścitya",
+     "gloss": "having-decided",
+     "grounds": "absolutive",
+     "morph": "absolutive root niści"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "main verb",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "past participle",
+     "morph": "n.nom.sg pass-pp root vac"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows if the stated decision is otherwise?",
+   "premises": [
+    "A decision is stated.",
+    "If otherwise, that becomes otherwise."
+   ],
+   "inference": "The outcome changes if the stated decision is otherwise.",
+   "uncertainties": [],
+   "plain_english": "Having decided, it becomes so; if otherwise, that is otherwise."
+  },
+  {
+   "verse": 3456,
+   "rows": [
+    {
+     "surface": "śūnye",
+     "gloss": "in-empty",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "garbha",
+     "gloss": "embryo",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vipattiḥ",
+     "gloss": "misfortune",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "conditional verb",
+     "morph": "3.sg.opt root as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūhya",
+     "gloss": "to-be-inferred",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg gerundive root ūh"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "optative",
+     "morph": "3.sg.opt root vad"
+    },
+    {
+     "surface": "dṛḍham",
+     "gloss": "firmly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What misfortune is said to arise in an empty embryo?",
+   "premises": [
+    "In an empty embryo misfortune would arise.",
+    "Such consequences are to be inferred firmly."
+   ],
+   "inference": "An empty embryo entails misfortune, and related consequences should be stated firmly.",
+   "uncertainties": [],
+   "plain_english": "In an empty embryo there would be misfortune; and so forth should be stated firmly."
+  },
+  {
+   "verse": 3457,
+   "rows": [
+    {
+     "surface": "śubhāni",
+     "gloss": "auspicious-things",
+     "grounds": "subject",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "main verb",
+     "morph": "3.pl.act-pres root naś"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "O-supreme-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What happens to all auspicious things there?",
+   "premises": [
+    "All auspicious things are there.",
+    "They perish there."
+   ],
+   "inference": "Every auspicious thing in that place is destroyed.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, all auspicious things there perish."
+  },
+  {
+   "verse": 3458,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "absolutive root sthā"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇe",
+     "gloss": "in-ear",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kathayet",
+     "gloss": "one-should-tell",
+     "grounds": "optative",
+     "morph": "3.sg.opt root kath"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be told in the ear after placing that in place?",
+   "premises": [
+    "After placing that in place.",
+    "The mantra should be told in the ear."
+   ],
+   "inference": "Once the object is placed, the mantra is to be whispered in the ear.",
+   "uncertainties": [],
+   "plain_english": "Having placed that in place, one should tell the mantra in his ear."
+  },
+  {
+   "verse": 3459,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūnya",
+     "gloss": "empty",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rāhoḥ",
+     "gloss": "of-Rāhu",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśāya",
+     "gloss": "for-destruction",
+     "grounds": "purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "guru",
+     "gloss": "teacher",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyayoḥ",
+     "gloss": "of-teacher-and-student",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What is the danger of an otherwise empty Rāhu for teacher and student?",
+   "premises": [
+    "Otherwise Rāhu is empty.",
+    "That emptiness is for destruction of teacher and student."
+   ],
+   "inference": "An otherwise empty Rāhu destroys both teacher and student.",
+   "uncertainties": [],
+   "plain_english": "Otherwise, an empty Rāhu is for the destruction of teacher and student."
+  },
+  {
+   "verse": 3460,
+   "rows": [
+    {
+     "surface": "śūnya",
+     "gloss": "empty",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nabhaḥ",
+     "gloss": "sky",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rāhuṣu",
+     "gloss": "in-Rāhus",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "main verb",
+     "morph": "3.pl.act-pres root naś"
+    },
+    {
+     "surface": "aśubhāni",
+     "gloss": "inauspicious-things",
+     "grounds": "subject",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "main verb",
+     "morph": "3.pl.act-pres root bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of empty sky and Rāhus?",
+   "premises": [
+    "In empty sky and Rāhus, inauspicious things perish.",
+    "They become otherwise."
+   ],
+   "inference": "The meaning is that inauspicious things perish and transform in empty sky and Rāhus.",
+   "uncertainties": [],
+   "plain_english": "In empty sky and Rāhus, inauspicious things perish and become; this is the meaning."
+  },
+  {
+   "verse": 3461,
+   "rows": [
+    {
+     "surface": "tāsām",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ṣaṣṭyā",
+     "gloss": "by-sixty",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrṇam",
+     "gloss": "full",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "conditional verb",
+     "morph": "3.sg.opt root as"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many days make a full day for them?",
+   "premises": [
+    "Sixty of them make a full day.",
+    "That day would be again and again."
+   ],
+   "inference": "A full day for them consists of sixty, repeated.",
+   "uncertainties": [],
+   "plain_english": "Sixty of them make a full day; that day would be again and again."
+  },
+  {
+   "verse": 3462,
+   "rows": [
+    {
+     "surface": "ṣaṭśatam",
+     "gloss": "six-hundred",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svarūpam",
+     "gloss": "own-form",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp root śru"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "O-beautiful-one",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What should the beautiful one hear about their own form?",
+   "premises": [
+    "Six hundred and then their own form.",
+    "She is asked to hear it."
+   ],
+   "inference": "The beautiful one should hear the six hundred and their own form.",
+   "uncertainties": [],
+   "plain_english": "Six hundred, and then their own form; hear it, O beautiful one."
+  }
+ ]
+}

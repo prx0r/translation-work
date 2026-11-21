@@ -1,0 +1,858 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1401,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective describing color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is white"
+   ],
+   "inference": "the deity's color is white",
+   "uncertainties": [
+    "exact deity not named in this fragment"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1402,
+   "rows": [
+    {
+     "surface": "dadhānāḥ",
+     "gloss": "bearing",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pāśa",
+     "gloss": "noose",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kalaśau",
+     "gloss": "pot",
+     "grounds": "noun",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "muktā",
+     "gloss": "pearl",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ābharaṇa",
+     "gloss": "ornament",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūṣitāḥ",
+     "gloss": "adorned",
+     "grounds": "participle",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What implements and ornaments are borne and worn by the described figures?",
+   "premises": [
+    "the figures bear a noose and pots",
+    "they are adorned with pearls and ornaments"
+   ],
+   "inference": "the figures carry ritual implements and pearl ornaments",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "They bear a noose and pots, adorned with pearls and ornaments."
+  },
+  {
+   "verse": 1403,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What color is assigned to the figures in this description?",
+   "premises": [
+    "the verse states a color",
+    "the color is white"
+   ],
+   "inference": "the figures are white in color",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "Their color is white."
+  },
+  {
+   "verse": 1404,
+   "rows": [
+    {
+     "surface": "umā",
+     "gloss": "Umā",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bibharti",
+     "gloss": "bears",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "hasteṣu",
+     "gloss": "in-hands",
+     "grounds": "noun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tridaśairapi",
+     "gloss": "by-gods",
+     "grounds": "noun",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Who bears objects in her hands and is worshipped by the gods?",
+   "premises": [
+    "Umā bears objects in her hands",
+    "she is worshipped even by the gods"
+   ],
+   "inference": "Umā is the worshipped bearer of hand-held objects",
+   "uncertainties": [
+    "the objects are not specified here"
+   ],
+   "plain_english": "Umā bears objects in her hands and is worshipped by the gods."
+  },
+  {
+   "verse": 1405,
+   "rows": [
+    {
+     "surface": "svarṇa",
+     "gloss": "golden",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is golden"
+   ],
+   "inference": "the deity's color is golden",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is golden."
+  },
+  {
+   "verse": 1406,
+   "rows": [
+    {
+     "surface": "caturbhujo",
+     "gloss": "four-armed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "meṣagamo",
+     "gloss": "ram-vehicle",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varadassyāt",
+     "gloss": "boon-giving",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharāsutaḥ",
+     "gloss": "earth-son",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form, vehicle, boon, and identity are assigned to this deity?",
+   "premises": [
+    "the deity is four-armed",
+    "the vehicle is a ram",
+    "the deity gives boons",
+    "the deity is earth's son"
+   ],
+   "inference": "this is a four-armed boon-giving earth-son riding a ram",
+   "uncertainties": [
+    "exact deity name is not given"
+   ],
+   "plain_english": "The four-armed earth-son rides a ram and gives boons."
+  },
+  {
+   "verse": 1407,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is red"
+   ],
+   "inference": "the deity's color is red",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is red."
+  },
+  {
+   "verse": 1408,
+   "rows": [
+    {
+     "surface": "caturbhujā",
+     "gloss": "four-armed",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saumyavapuś",
+     "gloss": "gentle-bodied",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caṃḍāṃśu",
+     "gloss": "moon-ray-like",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadṛśāṃbarā",
+     "gloss": "garment",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What bodily form and garment are assigned to this four-armed figure?",
+   "premises": [
+    "the figure is four-armed",
+    "the body is gentle",
+    "the garment is moon-ray-like"
+   ],
+   "inference": "the figure is a gentle four-armed being with a moon-ray-like garment",
+   "uncertainties": [
+    "exact deity name is not given"
+   ],
+   "plain_english": "The four-armed figure is gentle-bodied and wears a moon-ray-like garment."
+  },
+  {
+   "verse": 1409,
+   "rows": [
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhuvoyā",
+     "gloss": "earth",
+     "grounds": "noun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "davanaṃdana",
+     "gloss": "descendant-of-Yadu",
+     "grounds": "compound noun",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What object should be placed in the hand according to this instruction?",
+   "premises": [
+    "a lotus is to be made in the hand",
+    "the instruction addresses a descendant of Yadu"
+   ],
+   "inference": "the hand should hold a lotus",
+   "uncertainties": [
+    "the exact ritual context is not explicit"
+   ],
+   "plain_english": "A lotus is to be made in the hand, O descendant of Yadu."
+  },
+  {
+   "verse": 1410,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is white"
+   ],
+   "inference": "the deity's color is white",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1411,
+   "rows": [
+    {
+     "surface": "raktāṃbaradharaḥ",
+     "gloss": "red-garment-wearing",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayūravaravāhanaḥ",
+     "gloss": "peacock-vehicle",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What garment and vehicle are assigned to this god?",
+   "premises": [
+    "the god wears a red garment",
+    "the vehicle is a peacock"
+   ],
+   "inference": "this god wears red and rides a peacock",
+   "uncertainties": [
+    "exact deity name is not given"
+   ],
+   "plain_english": "The god wears a red garment and rides a peacock."
+  },
+  {
+   "verse": 1412,
+   "rows": [
+    {
+     "surface": "patākā",
+     "gloss": "banner",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaijayaṃtī",
+     "gloss": "vaijayantī",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "and",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "śakti",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca vāmayoḥ",
+     "gloss": "on-left",
+     "grounds": "compound phrase",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What banner and weapon are to be made on the left side?",
+   "premises": [
+    "a vaijayantī banner is specified",
+    "a śakti is to be made on the left"
+   ],
+   "inference": "the left side should bear a vaijayantī banner and a śakti",
+   "uncertainties": [
+    "the exact figure is not named"
+   ],
+   "plain_english": "A vaijayantī banner and a śakti are to be made on the left."
+  },
+  {
+   "verse": 1413,
+   "rows": [
+    {
+     "surface": "pāṭala",
+     "gloss": "pale-red",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is pale red"
+   ],
+   "inference": "the deity's color is pale red",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is pale red."
+  },
+  {
+   "verse": 1414,
+   "rows": [
+    {
+     "surface": "khaḍgacarmagadāpāṇiḥ",
+     "gloss": "sword-shield-mace-handed",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siṃhastho",
+     "gloss": "lion-seated",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varado",
+     "gloss": "boon-giving",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What weapons, seat, boon, and quality are assigned to this figure?",
+   "premises": [
+    "the figure holds sword, shield, and mace",
+    "the figure is seated on a lion",
+    "the figure gives boons",
+    "the figure is wise"
+   ],
+   "inference": "this wise boon-giver sits on a lion and holds sword, shield, and mace",
+   "uncertainties": [
+    "exact deity name is not given"
+   ],
+   "plain_english": "The wise boon-giver sits on a lion and holds sword, shield, and mace."
+  },
+  {
+   "verse": 1415,
+   "rows": [
+    {
+     "surface": "kanaka",
+     "gloss": "golden",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is golden"
+   ],
+   "inference": "the deity's color is golden",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is golden."
+  },
+  {
+   "verse": 1416,
+   "rows": [
+    {
+     "surface": "pradakṣiṇaṃ",
+     "gloss": "clockwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇādhaḥ",
+     "gloss": "from-right-lower",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karād",
+     "gloss": "hand",
+     "grounds": "noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaśaḥ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what direction and from which hand should the rite always begin?",
+   "premises": [
+    "the movement is clockwise",
+    "it begins from the lower right hand",
+    "it is done always"
+   ],
+   "inference": "the rite always begins clockwise from the lower right hand",
+   "uncertainties": [
+    "the exact rite is not specified"
+   ],
+   "plain_english": "Always begin clockwise from the lower right hand."
+  },
+  {
+   "verse": 1417,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is white"
+   ],
+   "inference": "the deity's color is white",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1418,
+   "rows": [
+    {
+     "surface": "svarṇa",
+     "gloss": "golden",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is golden"
+   ],
+   "inference": "the deity's color is golden",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is golden."
+  },
+  {
+   "verse": 1419,
+   "rows": [
+    {
+     "surface": "tiṣṭhan",
+     "gloss": "stands",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tarati",
+     "gloss": "moves",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṣaṃ",
+     "gloss": "year",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rāśau",
+     "gloss": "in-sign",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rāśau",
+     "gloss": "in-sign",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bṛhaspatiḥ",
+     "gloss": "Jupiter",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does Jupiter move through the zodiacal signs?",
+   "premises": [
+    "Jupiter stands and moves",
+    "it moves year by year through signs"
+   ],
+   "inference": "Jupiter advances through zodiacal signs year by year",
+   "uncertainties": [
+    "the exact rate is not fully specified"
+   ],
+   "plain_english": "Jupiter stands and moves through the signs year by year."
+  },
+  {
+   "verse": 1420,
+   "rows": [
+    {
+     "surface": "daṃḍinau",
+     "gloss": "staff-bearers",
+     "grounds": "compound noun",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "varadau",
+     "gloss": "boon-givers",
+     "grounds": "compound adjective",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "kāryau",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "sākṣasūtrakamaṇḍalū",
+     "gloss": "with-rosary-and-waterpot",
+     "grounds": "compound noun",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What attributes and function are assigned to the two staff-bearing figures?",
+   "premises": [
+    "the two figures bear staffs",
+    "they give boons",
+    "they carry rosary and waterpot"
+   ],
+   "inference": "the two staff-bearing boon-givers carry rosary and waterpot",
+   "uncertainties": [
+    "exact deity names are not given"
+   ],
+   "plain_english": "The two staff-bearing boon-givers carry rosary and waterpot."
+  },
+  {
+   "verse": 1421,
+   "rows": [
+    {
+     "surface": "kanaka",
+     "gloss": "golden",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is golden"
+   ],
+   "inference": "the deity's color is golden",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is golden."
+  },
+  {
+   "verse": 1422,
+   "rows": [
+    {
+     "surface": "prācīpatiḥ",
+     "gloss": "eastern-lord",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakartavyo",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nānābharaṇabhūṣitaḥ",
+     "gloss": "variously-ornamented",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the eastern lord be made and adorned?",
+   "premises": [
+    "the eastern lord is to be made",
+    "he is adorned with various ornaments"
+   ],
+   "inference": "the eastern lord should be made and variously ornamented",
+   "uncertainties": [
+    "exact ritual context is not explicit"
+   ],
+   "plain_english": "The eastern lord is to be made and variously ornamented."
+  },
+  {
+   "verse": 1423,
+   "rows": [
+    {
+     "surface": "svarṇa",
+     "gloss": "golden",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is golden"
+   ],
+   "inference": "the deity's color is golden",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is golden."
+  },
+  {
+   "verse": 1424,
+   "rows": [
+    {
+     "surface": "pāṭala",
+     "gloss": "pale-red",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is assigned to this deity in the iconographic description?",
+   "premises": [
+    "the verse names a color",
+    "the color is pale red"
+   ],
+   "inference": "the deity's color is pale red",
+   "uncertainties": [
+    "subject identity is not explicit"
+   ],
+   "plain_english": "The color is pale red."
+  }
+ ]
+}

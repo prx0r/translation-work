@@ -1,0 +1,103 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p29",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v702 ratio=0.878",
+  "ALIGN_NODISP v704 ratio=0.895",
+  "ALIGN_NODISP v706 ratio=0.800",
+  "ALIGN_NODISP v709 ratio=0.800",
+  "ALIGN_NODISP v715 ratio=0.889"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "5fdcba819c1e6d75",
+ "source_digest_normalized_sha256": "5fdcba819c1e6d756ef6938cd7c22c01f6371e0ace8ad3c29d5cb172fd1fc540",
+ "source_sha256_raw": "8e7e8d7fd151603f3f5de9ac2e6ea6093a479e422d9cd4df2f1020b1afffbed1",
+ "source_sha256_raw_file": "/root/translation-work/svacchandatantra/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 100
+ },
+ "align": {
+  "min_ratio": 0.8,
+  "sub090": {
+   "702": {
+    "ratio": 0.878,
+    "disposition": null
+   },
+   "704": {
+    "ratio": 0.895,
+    "disposition": null
+   },
+   "706": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "709": {
+    "ratio": 0.8,
+    "disposition": null
+   },
+   "715": {
+    "ratio": 0.889,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 39,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 100,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v702",
+  "fix: word-order/gloss vs source for v704",
+  "fix: word-order/gloss vs source for v706",
+  "fix: word-order/gloss vs source for v709",
+  "fix: word-order/gloss vs source for v715"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "06a43954ed2f12c0dc75d6b920dc8febc6729597060a0d905cdcaa9f416aae33",
+  "l0": "d1c2c09621db0ead28006746227628ff82991e0cf0e3a01fb8055554dd31e1ea",
+  "argmap": "43d3124d65ad37d77c1157517e58ccc5207febde64ef5754772a468ba0fd8887",
+  "l2": "6e913ef10cbb1492389c3666610f25c5d8132f48b69857f6626e1a90e99d85b3",
+  "c1": "1ba37bc2e7e55121dd59210188b5254caa7e405fc466f2a163b80defb856d60f"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "5fdcba819c1e6d75",
+  "t1": "sva-p29/data/sva-p29.t1.json",
+  "l0": "sva-p29/data/sva-p29.l0.json",
+  "l2": "sva-p29/data/sva-p29.l2.json",
+  "c1": "sva-p29/data/sva-p29.c1.json"
+ }
+}

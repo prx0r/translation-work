@@ -1,0 +1,425 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "vaśiṣṭhaṃ",
+     "gloss": "to-vasiṣṭha",
+     "grounds": "proper name, object of address",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāha",
+     "gloss": "spoke",
+     "grounds": "utterance by the speaker",
+     "morph": "3.sg.perf.act √prāh"
+    },
+    {
+     "surface": "majñānaṃ",
+     "gloss": "my-ignorance",
+     "grounds": "compound expressing speaker's lack of knowledge",
+     "morph": "n.acc.sg (mat+jñāna)"
+    },
+    {
+     "surface": "cīnācāra+adhikāraṇān",
+     "gloss": "because-of-china-practice-authority",
+     "grounds": "reason for ignorance regarding Cīnācāra",
+     "morph": "n.abl.sg (cīnācāra+adhikāraṇa)"
+    }
+   ],
+   "question": "Why did the speaker address Vasiṣṭha despite admitting ignorance of Cīnācāra?",
+   "premises": [
+    "The speaker addressed Vasiṣṭha directly.",
+    "The speaker admitted personal ignorance.",
+    "The ignorance concerned the authority of Cīnācāra."
+   ],
+   "inference": "The speaker's address to Vasiṣṭha proceeds despite a declared lack of knowledge about Cīnācāra.",
+   "uncertainties": [],
+   "plain_english": "The speaker said to Vasiṣṭha: because of my ignorance regarding the authority of the Cīnācāra."
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessive referring to Vasiṣṭha",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "bhakti+vaśena",
+     "gloss": "by-power-of-devotion",
+     "grounds": "cause motivating the speaker's action",
+     "morph": "m.inst.sg (bhakti+vaśa)"
+    },
+    {
+     "surface": "asmi",
+     "gloss": "am",
+     "grounds": "speaker's present state",
+     "morph": "1.sg.pres.act √as"
+    },
+    {
+     "surface": "prakāśya",
+     "gloss": "revealing",
+     "grounds": "action of making known",
+     "morph": "gerund √prakāś"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative context of revelation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatparaḥ",
+     "gloss": "intent-on-that",
+     "grounds": "speaker's focused disposition",
+     "morph": "m.nom.sg (tad+para)"
+    }
+   ],
+   "question": "What motivates the speaker to reveal the teaching to Vasiṣṭha here?",
+   "premises": [
+    "Vasiṣṭha possesses devotion.",
+    "The speaker is intent on revealing the teaching.",
+    "The revelation occurs in this context."
+   ],
+   "inference": "The speaker reveals the teaching here out of intent, compelled by Vasiṣṭha's devotion.",
+   "uncertainties": [],
+   "plain_english": "By the power of your devotion, I am intent on revealing it here."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "relative pronoun referring to the teaching or practice",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "anuṣṭhāna+mātreṇa",
+     "gloss": "by-practice-merely",
+     "grounds": "minimal condition of performance",
+     "morph": "n.inst.sg (anuṣṭhāna+mātra)"
+    },
+    {
+     "surface": "bhava+abdhau",
+     "gloss": "in-ocean-of-existence",
+     "grounds": "metaphor for worldly bondage",
+     "morph": "m.loc.sg (bhava+abdhi)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of sinking",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimajjasi",
+     "gloss": "you-sink",
+     "grounds": "result avoided by the practitioner",
+     "morph": "2.sg.pres.act √nimajj"
+    }
+   ],
+   "question": "What effect does merely practicing this teaching have on worldly bondage?",
+   "premises": [
+    "The teaching requires only its practice.",
+    "Worldly existence is likened to an ocean.",
+    "Sinking in that ocean is negated."
+   ],
+   "inference": "Merely practicing this teaching prevents one from sinking in the ocean of existence.",
+   "uncertainties": [],
+   "plain_english": "By merely practicing it, you do not sink in the ocean of existence."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "tattva+jñāna+mayaṃ",
+     "gloss": "consisting-of-truth-knowledge",
+     "grounds": "essential nature of the teaching or practice",
+     "morph": "n.acc.sg (tattva+jñāna+maya)"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "immediacy of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimukti+phala+dāyakam",
+     "gloss": "giving-fruit-of-liberation",
+     "grounds": "result bestowed by the teaching or practice",
+     "morph": "n.acc.sg (vimukti+phala+dāyaka)"
+    }
+   ],
+   "question": "What essential nature and direct result characterize the revealed teaching?",
+   "premises": [
+    "The teaching consists of truth-knowledge.",
+    "The teaching directly gives a fruit.",
+    "That fruit is liberation."
+   ],
+   "inference": "The revealed teaching is constituted of truth-knowledge and directly grants liberation.",
+   "uncertainties": [],
+   "plain_english": "It consists of truth-knowledge and directly gives the fruit of liberation."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "internal mode of worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "elevated quality of the practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "internal mode applied to libation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tarpaṇa+ādikam",
+     "gloss": "libation-and-so-forth",
+     "grounds": "ritual offerings including libation",
+     "morph": "n.nom.sg (tarpaṇa+ādika)"
+    }
+   ],
+   "question": "What form and quality define the worship and offerings prescribed here?",
+   "premises": [
+    "Worship is prescribed.",
+    "Libation and related acts are prescribed.",
+    "Both are characterized as mental and divine."
+   ],
+   "inference": "The prescribed worship and libation are mental and divine in nature.",
+   "uncertainties": [],
+   "plain_english": "The worship is mental and divine, as are the mental libation and so forth."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣo",
+     "gloss": "distinction",
+     "grounds": "difference in ritual timing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "divā+rātrau",
+     "gloss": "in-day-and-night",
+     "grounds": "temporal pair",
+     "morph": "m.loc.du (divā+rātri)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyāyāṃ",
+     "gloss": "in-twilight",
+     "grounds": "transitional ritual time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mahā+niśi",
+     "gloss": "in-great-night",
+     "grounds": "special nocturnal time",
+     "morph": "f.loc.sg (mahā+niśā)"
+    }
+   ],
+   "question": "Do conventional ritual time distinctions apply to this prescribed practice?",
+   "premises": [
+    "Day and night are considered as times.",
+    "Twilight and the great night are considered as times.",
+    "No distinction is made among these times."
+   ],
+   "inference": "This practice is not restricted by distinctions of day, night, twilight, or great night.",
+   "uncertainties": [],
+   "plain_english": "There is no distinction between day and night, nor in twilight or the great night."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "śuddhiṃ",
+     "gloss": "purification",
+     "grounds": "ritual cleansing act",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √ācar"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that practice context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirvikalpaṃ",
+     "gloss": "without-conceptualization",
+     "grounds": "non-conceptual state of mind",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "mental faculty to be directed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-direct",
+     "grounds": "prescriptive injunction for the mind",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "What ritual purification and mental state are required in this practice?",
+   "premises": [
+    "Purification is not to be performed in this context.",
+    "The mind is to be directed.",
+    "The mind should be without conceptualization."
+   ],
+   "inference": "In this practice one should forgo purification and maintain a non-conceptual mind.",
+   "uncertainties": [],
+   "plain_english": "One should not perform purification there; one should let the mind move without conceptualization."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "unrestricted time for worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "asnātaḥ",
+     "gloss": "unbathed",
+     "grounds": "condition contrary to usual purity rules",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛta+bhojanaḥ",
+     "gloss": "having-done-eating",
+     "grounds": "condition contrary to usual purity rules",
+     "morph": "m.nom.sg (kṛta+bhojana)"
+    }
+   ],
+   "question": "Under what bodily conditions may one continually worship the goddess?",
+   "premises": [
+    "Worship of the goddess should be continual.",
+    "The worshipper may be unbathed.",
+    "The worshipper may have eaten."
+   ],
+   "inference": "One should always worship the goddess, even when unbathed or having eaten.",
+   "uncertainties": [],
+   "plain_english": "One should always worship the goddess, even unbathed and having eaten."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "strī+dveṣo",
+     "gloss": "hatred-of-women",
+     "grounds": "attitude prohibited in this practice",
+     "morph": "m.nom.sg (strī+dveṣa)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyo",
+     "gloss": "to-be-done",
+     "grounds": "prescriptive obligation negated",
+     "morph": "m.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "emphasis on a particular case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act to be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "striyāṃ",
+     "gloss": "in-woman",
+     "grounds": "locus of worship",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What attitude toward women and what locus of worship are enjoined in this practice?",
+   "premises": [
+    "Hatred of women must not be done.",
+    "Worship is especially enjoined.",
+    "The worship is located in a woman."
+   ],
+   "inference": "One must not harbor hatred of women and should especially perform worship in a woman.",
+   "uncertainties": [],
+   "plain_english": "Hatred of women must not be practiced; especially, worship should be performed in a woman."
+  }
+ ]
+}

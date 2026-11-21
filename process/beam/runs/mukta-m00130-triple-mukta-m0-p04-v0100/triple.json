@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "lambayet",
+     "gloss": "should-cause-to-descend",
+     "grounds": "Causative optative expressing a prescribed ritual action of lowering or drawing down.",
+     "morph": "3.sg.opt.act √lamb (caus.)"
+    },
+    {
+     "surface": "praṇavaiḥ",
+     "gloss": "by-praṇavas",
+     "grounds": "Instrumental plural indicating the sacred syllables used as the means of the action.",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "Vocative address to the goddess within the revelatory dialogue.",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "purīṃ",
+     "gloss": "city",
+     "grounds": "Accusative object denoting the subtle city or abode to be acted upon.",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prati+dhvanimayīṃ",
+     "gloss": "toward-echo-made",
+     "grounds": "Fused form with internal boundary marked by '+'; describes the city as constituted of echo or reverberant sound.",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "prati",
+     "gloss": "toward",
+     "grounds": "Indeclinable particle reinforcing direction toward the object.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what sonic means is the echo-formed city to be ritually drawn down?",
+   "premises": [
+    "A ritual action of causing descent is enjoined.",
+    "The praṇavas serve as the instrumental means of this action.",
+    "The object of descent is a city characterized as made of echo or sound."
+   ],
+   "inference": "The echo-formed city is to be drawn down through the application of the praṇavas.",
+   "uncertainties": [
+    "The precise referent of 'purīṃ' as a subtle body, diagrammatic abode, or other locus is not specified in this verse.",
+    "The function of the repeated 'prati' is contextually ambiguous."
+   ],
+   "plain_english": "O Goddess, one should cause the echo-made city to descend by means of the praṇavas."
+  }
+ ]
+}

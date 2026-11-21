@@ -1,0 +1,52 @@
+{
+ "song": "vij-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "evameva",
+     "gloss": "thus-thus",
+     "grounds": "exact token evameva; indeclinable repeated adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagatsarvaṃ",
+     "gloss": "world-all",
+     "grounds": "exact token jagatsarvaṃ; accusative object of meditation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dagdhaṃ",
+     "gloss": "burned",
+     "grounds": "exact token dagdhaṃ; accusative participle modifying world-all",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "exact token dhyātvā; absolutive from dhyā",
+     "morph": "abs."
+    },
+    {
+     "surface": "vikalpitaḥ",
+     "gloss": "imagined",
+     "grounds": "exact token vikalpitaḥ; nominative participle, subject or result",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How does meditation on the burned world function?",
+   "premises": [
+    "whole world is meditated as burned",
+    "meditation is performed in this manner",
+    "imagined state follows the meditation"
+   ],
+   "inference": "meditation on the burned world yields an imagined state",
+   "uncertainties": [
+    "syntactic role of vikalpitaḥ remains ambiguous",
+    "whether vikalpitaḥ names practitioner or world"
+   ],
+   "plain_english": "Having meditated thus on the entire world as burned, it is imagined."
+  }
+ ]
+}

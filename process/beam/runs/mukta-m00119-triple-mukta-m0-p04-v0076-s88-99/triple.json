@@ -1,0 +1,481 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "reṇukā",
+     "gloss": "renuka",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇācārā",
+     "gloss": "right-practice",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvanyā",
+     "gloss": "and-other",
+     "grounds": "sandhi tv+anyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devyaśca",
+     "gloss": "goddesses-and",
+     "grounds": "sandhi devyaḥ+ca",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dakṣiṇāḥ",
+     "gloss": "right",
+     "grounds": "adjective",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which goddesses are said to follow right-handed practice?",
+   "premises": [
+    "Renuka is named",
+    "other goddesses are named",
+    "they are called right-practicing"
+   ],
+   "inference": "The verse assigns right-handed practice to Renuka and other goddesses.",
+   "uncertainties": [
+    "exact list beyond Renuka is not specified"
+   ],
+   "plain_english": "Renuka and other goddesses are right-handed practitioners."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "bālāyām",
+     "gloss": "in-bala",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ubhayācāraḥ",
+     "gloss": "both-practices",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīvidyāṃ",
+     "gloss": "sri-vidya",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In Bala, which practice applies to Sri Vidya?",
+   "premises": [
+    "Bala is the locus",
+    "both practices are mentioned",
+    "Sri Vidya is the object"
+   ],
+   "inference": "The verse links Sri Vidya in Bala with both practices.",
+   "uncertainties": [
+    "whether both means left and right is implicit"
+   ],
+   "plain_english": "In Bala, Sri Vidya is connected with both practices."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "saiva",
+     "gloss": "she-indeed",
+     "grounds": "sandhi sa+eva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāmapriyā",
+     "gloss": "left-beloved",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāmācchīghraphalapradā",
+     "gloss": "left-quick-fruit-giving",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is beloved of the left and gives quick fruit?",
+   "premises": [
+    "she is indeed the goddess",
+    "she is left-beloved",
+    "she gives quick fruit"
+   ],
+   "inference": "The verse identifies a goddess as left-beloved and quick-fruit-giving.",
+   "uncertainties": [
+    "antecedent of saiva is not explicit"
+   ],
+   "plain_english": "She is the goddess beloved of the left and giver of quick fruit."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavi",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "sandhi ca+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātaṅgī",
+     "gloss": "matangi",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāmācārapriyā",
+     "gloss": "left-practice-beloved",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are always beloved of left-handed practice?",
+   "premises": [
+    "Bhairavi is named",
+    "Matangi is named",
+    "they are left-practice-beloved always"
+   ],
+   "inference": "The verse assigns constant left-practice devotion to Bhairavi and Matangi.",
+   "uncertainties": [
+    "whether caiva joins both names or adds emphasis"
+   ],
+   "plain_english": "Bhairavi and Matangi are always beloved of left-handed practice."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "mātaṅgyāṃ",
+     "gloss": "in-matangi",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "laghumātaṅgyāṃ",
+     "gloss": "small-matangi",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sumukhī",
+     "gloss": "sumukhi",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāmatatparā",
+     "gloss": "left-devoted",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which figures are devoted to the left in Matangi and small Matangi?",
+   "premises": [
+    "Matangi is the locus",
+    "small Matangi is the locus",
+    "Sumukhi is named",
+    "left-devoted is stated"
+   ],
+   "inference": "The verse places left-devoted figures in Matangi and small Matangi.",
+   "uncertainties": [
+    "exact relation of Sumukhi to both loci"
+   ],
+   "plain_english": "In Matangi and small Matangi, Sumukhi is left-devoted."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "vāmācāro",
+     "gloss": "left-practice",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaidike'pi",
+     "gloss": "in-vedic-too",
+     "grounds": "sandhi vaidike+api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhairavā",
+     "gloss": "bhairavas",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vāmatatparāḥ",
+     "gloss": "left-devoted",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which Bhairavas are left-devoted even in Vedic practice?",
+   "premises": [
+    "left practice is stated",
+    "Vedic context is included",
+    "Bhairavas are named",
+    "they are left-devoted"
+   ],
+   "inference": "The verse says Bhairavas remain left-devoted even in Vedic practice.",
+   "uncertainties": [
+    "scope of vaidike'pi"
+   ],
+   "plain_english": "Even in Vedic practice, the Bhairavas are left-devoted."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśupatā",
+     "gloss": "pashupatas",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "deva",
+     "gloss": "deva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vāmamārge",
+     "gloss": "left-path",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pratiṣṭhitāḥ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Where are the Pashupatas established?",
+   "premises": [
+    "Pashupatas are named",
+    "left path is stated",
+    "they are established"
+   ],
+   "inference": "The verse places the Pashupatas on the left path.",
+   "uncertainties": [
+    "deva is vocative and not part of the main clause"
+   ],
+   "plain_english": "The Pashupatas are established on the left path."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "cāndrāstvaghorā",
+     "gloss": "moon-ones",
+     "grounds": "sandhi cāndrāḥ+tu+aghorā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vāmadvāra+parāyaṇāḥ",
+     "gloss": "left-door-devoted",
+     "grounds": "compound with plus",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which moon-ones are devoted to the left door?",
+   "premises": [
+    "moon-ones are named",
+    "goddess is addressed",
+    "left-door-devoted is stated"
+   ],
+   "inference": "The verse describes moon-ones as devoted to the left door.",
+   "uncertainties": [
+    "aghorā may modify moon-ones or be separate"
+   ],
+   "plain_english": "The moon-ones are devoted to the left door."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "cīnā",
+     "gloss": "chinas",
+     "grounds": "plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vāmaparā",
+     "gloss": "left-devoted",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bauddhācāraparāyaṇāḥ",
+     "gloss": "buddhist-practice-devoted",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which Chinas are devoted to left practice and Buddhist practice?",
+   "premises": [
+    "Chinas are named",
+    "left-devoted is stated",
+    "Buddhist-practice-devoted is stated"
+   ],
+   "inference": "The verse assigns both left devotion and Buddhist practice devotion to the Chinas.",
+   "uncertainties": [
+    "whether cīnā refers to people or a group"
+   ],
+   "plain_english": "The Chinas are devoted to left practice and Buddhist practice."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "śrībrahmasundarī",
+     "gloss": "sri-brahma-sundari",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidya",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmasundarī",
+     "gloss": "left-sundari",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which vidya is called left Sundari?",
+   "premises": [
+    "Sri Brahma Sundari is named",
+    "vidya is stated",
+    "left Sundari is stated"
+   ],
+   "inference": "The verse identifies a vidya as left Sundari.",
+   "uncertainties": [
+    "whether tathaiva equates the two names"
+   ],
+   "plain_english": "Sri Brahma Sundari vidya is thus left Sundari."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "yakṣiṇyādyāḥ",
+     "gloss": "yakshini-etc",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvavidyāḥ",
+     "gloss": "all-vidyas",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kāminīyoganāyikāḥ",
+     "gloss": "kamini-yoga-nayikas",
+     "grounds": "compound",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which vidyas are called Kamini-yoga nayikas?",
+   "premises": [
+    "Yakshini and others are named",
+    "all vidyas are stated",
+    "Kamini-yoga nayikas is stated"
+   ],
+   "inference": "The verse calls Yakshini and other vidyas Kamini-yoga nayikas.",
+   "uncertainties": [
+    "exact scope of ādyāḥ"
+   ],
+   "plain_english": "Yakshini and other vidyas are Kamini-yoga nayikas."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrtirhayagrīvagaṇeśayoḥ",
+     "gloss": "right-formed-hayagriva-ganesha",
+     "grounds": "compound",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "Which deities are named in this compound?",
+   "premises": [
+    "Dakshinamurti is named",
+    "Hayagriva is named",
+    "Ganesha is named"
+   ],
+   "inference": "The verse names Dakshinamurti, Hayagriva, and Ganesha in one compound.",
+   "uncertainties": [
+    "syntactic role of the compound in the larger sentence"
+   ],
+   "plain_english": "Dakshinamurti, Hayagriva, and Ganesha are named together."
+  }
+ ]
+}

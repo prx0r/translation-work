@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2425,
+   "rows": [
+    {
+     "surface": "vighneśam",
+     "gloss": "obstacle-lord",
+     "grounds": "accusative singular masculine form of vighneśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaṇapatim",
+     "gloss": "host-lord",
+     "grounds": "accusative singular masculine form of gaṇapati",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vighneśam",
+     "gloss": "obstacle-lord",
+     "grounds": "repeated accusative singular masculine form of vighneśa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaṇapatim",
+     "gloss": "host-lord",
+     "grounds": "repeated accusative singular masculine form of gaṇapati",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deity is invoked twice as obstacle-remover and lord-of-hosts?",
+   "premises": [
+    "vighneśam means obstacle-lord",
+    "gaṇapatim means host-lord",
+    "both names repeat twice"
+   ],
+   "inference": "the verse invokes Gaṇapati as obstacle-remover and host-lord",
+   "uncertainties": [
+    "repetition may reflect mantra cadence rather than separate invocations"
+   ],
+   "plain_english": "Obstacle-lord, host-lord, obstacle-lord, host-lord."
+  }
+ ]
+}

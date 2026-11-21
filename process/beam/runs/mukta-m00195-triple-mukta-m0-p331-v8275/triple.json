@@ -1,0 +1,62 @@
+{
+ "song": "mukta-m0-p331",
+ "items": [
+  {
+   "verse": 8275,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject of the declaration; the presiding deity of the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "points to the previously described mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "the mantra whose deity is being specified",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "predicate stating the traditional identification",
+     "morph": "m.nom.sg.ppp (pra-√vac)"
+    },
+    {
+     "surface": "savitā",
+     "gloss": "savitṛ",
+     "grounds": "name of the deity identified for the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sura",
+     "gloss": "god",
+     "grounds": "first member of compound describing the deity as worshipped by gods",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "qualifies Savitṛ as honored by the gods",
+     "morph": "m.nom.sg.ppp (√pūj)"
+    }
+   ],
+   "question": "Which deity is declared to preside over this mantra?",
+   "premises": [
+    "The verse refers to the previously described mantra.",
+    "A presiding deity is declared for this mantra.",
+    "Savitṛ is named as that presiding deity.",
+    "Savitṛ is described as worshipped by the gods."
+   ],
+   "inference": "Therefore, Savitṛ, worshipped by the gods, is the declared deity of this mantra.",
+   "uncertainties": [],
+   "plain_english": "The deity of this mantra is declared to be Savitṛ, who is worshipped by the gods."
+  }
+ ]
+}

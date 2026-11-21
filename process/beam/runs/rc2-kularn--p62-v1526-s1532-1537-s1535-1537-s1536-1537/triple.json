@@ -1,0 +1,133 @@
+{
+ "song": "kul-p62",
+ "items": [
+  {
+   "verse": 1536,
+   "rows": [
+    {
+     "surface": "vedham",
+     "gloss": "piercing",
+     "grounds": "object of knowledge or action defining the guru",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍvidhaṃ",
+     "gloss": "sixfold",
+     "grounds": "qualifies the piercing as having six kinds",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject identified as the guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedhakaraḥ",
+     "gloss": "piercer",
+     "grounds": "one who performs the piercing; compound vedha-kara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "predicate identifying the qualified teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mastery of the sixfold piercing establishes someone as the true guru?",
+   "premises": [
+    "The piercing is characterized as sixfold.",
+    "A person is identified as the performer of that piercing.",
+    "Such a performer is declared to be the guru."
+   ],
+   "inference": "Mastery of the sixfold piercing qualifies a person to be recognized as the guru.",
+   "uncertainties": [
+    "The specific nature of the sixfold piercing is not detailed in this verse."
+   ],
+   "plain_english": "O goddess, he who is the performer of the sixfold piercing is indeed the guru."
+  },
+  {
+   "verse": 1537,
+   "rows": [
+    {
+     "surface": "śodhayet",
+     "gloss": "may-purify",
+     "grounds": "action attributed to the qualified person",
+     "morph": "3.sg.optative-active √śudh"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral qualifying the paths",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhvānaṃ",
+     "gloss": "paths",
+     "grounds": "object to be purified, understood as the sixfold path",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "correlative subject identified as the guru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "predicate identifying the qualified teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "states the traditional designation",
+     "morph": "m.nom.sg.past-passive-participle √kath"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the beloved",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whose capacity to purify the six paths defines the true guru?",
+   "premises": [
+    "A person is described as able to purify the six paths.",
+    "This person is explicitly identified by the text.",
+    "That person is declared to be the guru."
+   ],
+   "inference": "The ability to purify the six paths is a defining qualification of the guru.",
+   "uncertainties": [
+    "The specific six paths are not enumerated in this verse."
+   ],
+   "plain_english": "O beloved, he who can purify the six paths is declared to be the guru."
+  }
+ ]
+}

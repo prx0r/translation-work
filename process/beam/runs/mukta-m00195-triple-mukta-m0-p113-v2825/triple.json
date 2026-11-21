@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "aṃgulyaḥ",
+     "gloss": "fingers",
+     "grounds": "subject of the described hand configuration",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "viralā",
+     "gloss": "spread-apart",
+     "grounds": "qualifies the fingers as separated",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "namrā",
+     "gloss": "bent",
+     "grounds": "qualifies the fingers as curved or inclined",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nimnaṃ",
+     "gloss": "hollow",
+     "grounds": "qualifies the palm as concave",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kara+talaṃ",
+     "gloss": "hand-palm",
+     "grounds": "compound denoting the palm of the hand",
+     "morph": "compound: kara+talatva; n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates the resulting state of the hand configuration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific configuration of fingers and palm defines this hand gesture?",
+   "premises": [
+    "The fingers are spread apart.",
+    "The fingers are bent.",
+    "The palm is hollow."
+   ],
+   "inference": "Together these features define a hand gesture with separated, bent fingers and a concave palm.",
+   "uncertainties": [
+    "The exact degree of bending or spreading is not specified in this verse alone."
+   ],
+   "plain_english": "The fingers are spread apart and bent, and the palm is hollow likewise."
+  }
+ ]
+}

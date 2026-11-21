@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1150,
+   "rows": [
+    {
+     "surface": "pañcagavye",
+     "gloss": "in-five-cows-products",
+     "grounds": "locative of pañcagavya, the five cow products",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "throws",
+     "grounds": "optative of kṣip, to throw or cast",
+     "morph": "3.sg.act-opt.root-kṣip"
+    },
+    {
+     "surface": "mālāṃ",
+     "gloss": "garland",
+     "grounds": "accusative of mālā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "sivamantreṇa",
+     "gloss": "shiva-mantra",
+     "grounds": "instrumental of śivamantra",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "mantritām",
+     "gloss": "consecrated",
+     "grounds": "past-participle adjective mantrita in accusative feminine",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What ritual action is prescribed for a garland consecrated with the Shiva mantra?",
+   "premises": [
+    "the garland is consecrated with the Shiva mantra",
+    "the garland is thrown into the five cow products",
+    "the action is expressed as an optative prescription"
+   ],
+   "inference": "The verse prescribes casting a Shiva-mantra-consecrated garland into the five cow products.",
+   "uncertainties": [
+    "whether kṣipet is optative prescription or narrative statement",
+    "whether mantritām modifies mālāṃ directly"
+   ],
+   "plain_english": "One should throw the garland, consecrated with the Shiva mantra, into the five cow products."
+  }
+ ]
+}

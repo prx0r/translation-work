@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p159",
+ "items": [
+  {
+   "verse": 3975,
+   "rows": [
+    {
+     "surface": "rathamāyāti",
+     "gloss": "chariot-comes",
+     "grounds": "fused form of ratham (chariot) and āyāti (comes); sandhi noted within token",
+     "morph": "ratham(acc.sg.m)+āyāti(3.sg.pres.act;ā-√yā)"
+    },
+    {
+     "surface": "tacchīghraṃ",
+     "gloss": "that-quickly",
+     "grounds": "fused form of tat (that) and śīghram (quickly)",
+     "morph": "tat(n.nom.sg)+śīghram(indecl.)"
+    },
+    {
+     "surface": "śaratkāle",
+     "gloss": "in-autumn-time",
+     "grounds": "compound with locative ending indicating time",
+     "morph": "śarat-kāle(loc.sg.m;compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānuvat",
+     "gloss": "like-the-sun",
+     "grounds": "comparative formation with suffix -vat",
+     "morph": "bhānu-vat(indecl.)"
+    }
+   ],
+   "question": "What timing and appearance characterize the swift arrival of the chariot?",
+   "premises": [
+    "The chariot comes quickly.",
+    "The arrival occurs in the autumn season.",
+    "The arrival is like the sun in appearance."
+   ],
+   "inference": "The chariot’s arrival is marked by swiftness, autumn timing, and a sun-like quality.",
+   "uncertainties": [
+    "The broader omen context from preceding verses is not fully specified within this verse alone."
+   ],
+   "plain_english": "The chariot comes quickly in the autumn time, and like the sun."
+  }
+ ]
+}

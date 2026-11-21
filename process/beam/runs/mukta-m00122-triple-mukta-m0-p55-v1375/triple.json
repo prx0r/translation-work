@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "vastūni",
+     "gloss": "objects",
+     "grounds": "objects to be obtained",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "avāpnoti+iti+anvayaḥ",
+     "gloss": "obtains-thus-connection",
+     "grounds": "fused compound with + marks obtains thus connection",
+     "morph": "compound"
+    },
+    {
+     "surface": "vratī",
+     "gloss": "vow-observer",
+     "grounds": "one observing a vow",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt+√bhū"
+    },
+    {
+     "surface": "sva+saṅkalpa+sahitaḥ",
+     "gloss": "endowed-with-own-resolve",
+     "grounds": "fused compound with + marks own resolve endowed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What must a vow-observer be endowed with to obtain objects through the prescribed rites?",
+   "premises": [
+    "Vow-observer obtains objects through rites.",
+    "He must be endowed with own resolve.",
+    "Thus connection is stated."
+   ],
+   "inference": "The verse states that a vow-observer obtains objects when endowed with his own resolve.",
+   "uncertainties": [
+    "Exact ritual referents remain context-dependent."
+   ],
+   "plain_english": "The vow-observer obtains objects; he should be endowed with his own resolve."
+  }
+ ]
+}

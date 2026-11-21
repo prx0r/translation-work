@@ -5,26 +5,30 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "36188fb3670e5b6f",
+ "source_digest_normalized_sha256": "36188fb3670e5b6fc1915774e55a936e53dfdb8e835c1a2c3857689e1a45c313",
+ "source_sha256_raw": "29d7b1a2b9214bef0039118baa5b567fcfc64d08ad0c7b7ed36b342a98970145",
+ "source_sha256_raw_file": "/root/translation-work/mahopadeshavimshatika/source/edition.txt",
  "source_verses": 10,
  "t1_verses": 10,
  "l0": {
-  "parsed": 96,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 96
  },
  "align": {
-  "min_ratio": 0.993,
+  "min_ratio": 1.0,
   "sub090": {}
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 4,
- "c1_words": 480,
+ "c1_iast_prose_info": 0,
+ "c1_words": 127,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 10,
+  "checked": 20,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "36188fb3670e5b6f",
-  "t1": "T1-mpa-p02.md",
-  "l0": "T1-mpa-p02.l0.jsonl",
-  "l2": "L2-mpa-p02.md",
-  "c1": "c1/C1-mpa-p02.md"
+  "t1": "mpa-p02/data/mpa-p02.t1.json",
+  "l0": "mpa-p02/data/mpa-p02.l0.json",
+  "l2": "mpa-p02/data/mpa-p02.l2.json",
+  "c1": "mpa-p02/data/mpa-p02.c1.json"
  }
 }

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p182",
+ "items": [
+  {
+   "verse": 4550,
+   "rows": [
+    {
+     "surface": "pūjādravyaṃ",
+     "gloss": "worship-material",
+     "grounds": "object or item used in the rite; compound of pūjā (worship) and dravya (substance)",
+     "morph": "compound pūjā+dravyaṃ; n.acc.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-nearness",
+     "grounds": "indicates placement close at hand",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dūre",
+     "gloss": "in-distance",
+     "grounds": "indicates placement far away",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cottarasādhakam",
+     "gloss": "and-superior-practitioner",
+     "grounds": "fused form of ca and uttarasādhakam; refers to the higher assistant or practitioner",
+     "morph": "compound ca+uttara-sādhakam; m.acc.sg"
+    }
+   ],
+   "question": "What flexibility is permitted in placing the worship materials and the superior practitioner during the offering?",
+   "premises": [
+    "The worship material is mentioned as an item of the rite.",
+    "Placement is specified as both in nearness and in distance.",
+    "The superior practitioner is included alongside the worship material."
+   ],
+   "inference": "Both the worship materials and the superior practitioner may be situated either near or far during the offering.",
+   "uncertainties": [
+    "The exact ritual role of the uttarasādhaka in this context is not fully specified."
+   ],
+   "plain_english": "The worship materials and the superior practitioner may be placed either nearby or at a distance."
+  }
+ ]
+}

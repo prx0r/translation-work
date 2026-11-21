@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "aṅkolais",
+     "gloss": "with-aṅkola-trees",
+     "grounds": "instrumental plural of aṅkola, a type of tree",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛkṣair",
+     "gloss": "with-trees",
+     "grounds": "instrumental plural of vṛkṣa",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "mārjālair",
+     "gloss": "with-cats",
+     "grounds": "instrumental plural of mārjāla",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "nakulais",
+     "gloss": "with-mongooses",
+     "grounds": "instrumental plural of nakula",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional trees and animals are associated with the eastern land?",
+   "premises": [
+    "The eastern land is characterized by specific flora.",
+    "Aṅkola trees and other trees are included among its flora.",
+    "Cats and mongooses are included among its fauna."
+   ],
+   "inference": "The eastern land is further identified by the presence of aṅkola and other trees, as well as cats and mongooses.",
+   "uncertainties": [],
+   "plain_english": "The eastern land is also associated with aṅkola trees and other trees, and likewise with cats and mongooses."
+  }
+ ]
+}

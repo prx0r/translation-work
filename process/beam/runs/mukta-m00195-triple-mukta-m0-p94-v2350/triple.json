@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "madyapalābhyāṃ",
+     "gloss": "with-wine-and-flesh",
+     "grounds": "dual instrumental naming the substances used in the offering",
+     "morph": "instr.du.n. (dvandva: madya+palāla/palā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental naming the mantra accompanying the offering",
+     "morph": "instr.sg.m. (compound: mūla+mantra)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent performing the prescribed rite",
+     "morph": "nom.sg.m."
+    }
+   ],
+   "question": "With what substances and mantra must the practitioner make the ritual offering?",
+   "premises": [
+    "The practitioner is the agent of the prescribed action.",
+    "The offering is to be made with wine and flesh.",
+    "The offering is to be accompanied by the root mantra."
+   ],
+   "inference": "Therefore, the practitioner should perform the offering using wine and flesh together with the root mantra.",
+   "uncertainties": [
+    "The exact second member of the compound madyapalābhyāṃ (palāla or palā/māṃsa-related term) is interpreted here as flesh based on context and legacy hint."
+   ],
+   "plain_english": "The practitioner should make the offering with wine and flesh, using the root mantra."
+  }
+ ]
+}

@@ -1,0 +1,1009 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1601,
+   "rows": [
+    {
+     "surface": "prākāratati",
+     "gloss": "enclosure-row",
+     "grounds": "compound denoting the line or row of the surrounding wall",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīrghamadhye",
+     "gloss": "in-long-middle",
+     "grounds": "compound indicating the middle of the long side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veśanam",
+     "gloss": "entrance",
+     "grounds": "place of entry or access",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where must the entrance be positioned within the enclosure layout?",
+   "premises": [
+    "The enclosure row has a middle position.",
+    "The long side also has a middle position.",
+    "An entrance is to be placed in these locations."
+   ],
+   "inference": "The entrance should be situated in the middle of the enclosure row and in the middle of the long side.",
+   "uncertainties": [],
+   "plain_english": "The entrance is to be placed in the middle of the enclosure row and in the middle of the long side."
+  },
+  {
+   "verse": 1602,
+   "rows": [
+    {
+     "surface": "pradhānadvāram",
+     "gloss": "main-gate",
+     "grounds": "compound denoting the principal gateway",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral specifying a single gate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "additional gates as alternatives",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jālakaṃ",
+     "gloss": "lattice-window",
+     "grounds": "perforated or latticed opening",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "o-twice-born",
+     "grounds": "vocative address to the brahmin",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What alternative forms of gateway openings are permitted in the enclosure?",
+   "premises": [
+    "A single main gate may be provided.",
+    "Other gates may be provided as alternatives.",
+    "A lattice opening may be provided as an alternative."
+   ],
+   "inference": "The enclosure may have one main gate, other gates, or a lattice opening.",
+   "uncertainties": [],
+   "plain_english": "O twice-born one, there may be one main gate, or other gates, or a lattice opening."
+  },
+  {
+   "verse": 1603,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃca",
+     "gloss": "one-two-three-four-five",
+     "grounds": "compound numeral series indicating possible counts",
+     "morph": "compound"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "rod-measure",
+     "grounds": "unit of linear measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhivistṛtam",
+     "gloss": "rule-prescribed-extent",
+     "grounds": "extent determined according to prescribed rule",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What range of widths is allowed for the prescribed gateway measure?",
+   "premises": [
+    "The measure may be one, two, three, four, or five rods.",
+    "Alternatively the extent may follow the prescribed rule.",
+    "Both options are permitted for the width."
+   ],
+   "inference": "The gateway width may be from one to five rods or as prescribed by rule.",
+   "uncertainties": [],
+   "plain_english": "The width may be one, two, three, four, or five rods, or as prescribed by the rule."
+  },
+  {
+   "verse": 1604,
+   "rows": [
+    {
+     "surface": "śaivānāṃ",
+     "gloss": "of-shaivas",
+     "grounds": "followers or attendants devoted to Śiva",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "paricārāṇā",
+     "gloss": "of-attendants",
+     "grounds": "service personnel or attendants",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prācyām",
+     "gloss": "in-east",
+     "grounds": "eastern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "āvāsam",
+     "gloss": "dwelling",
+     "grounds": "place of residence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-declared",
+     "grounds": "prescriptive statement of placement",
+     "morph": "3.sg.pass-pres (√vac)"
+    }
+   ],
+   "question": "In which direction must the dwelling of Śaiva attendants be located?",
+   "premises": [
+    "Śaiva attendants require a designated dwelling.",
+    "The eastern direction is specified for this dwelling.",
+    "This placement is authoritatively declared."
+   ],
+   "inference": "The dwelling of Śaiva attendants is to be located in the east.",
+   "uncertainties": [],
+   "plain_english": "The dwelling of the Śaiva attendants is declared to be in the east."
+  },
+  {
+   "verse": 1605,
+   "rows": [
+    {
+     "surface": "daivajñāmbaṣṭhabhiṣajāṃ",
+     "gloss": "of-astrologers-physicians",
+     "grounds": "compound listing astrologers, ambaṣṭhas, and physicians",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vādakānāṃ",
+     "gloss": "of-musicians",
+     "grounds": "those who play instruments or perform vocally",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmyake",
+     "gloss": "in-south",
+     "grounds": "southern direction",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which groups are assigned residence in the southern quarter of the complex?",
+   "premises": [
+    "Astrologers, ambaṣṭhas, and physicians form one group.",
+    "Musicians form another group.",
+    "The southern quarter is designated for their residence."
+   ],
+   "inference": "Astrologers, ambaṣṭhas, physicians, and musicians are to reside in the south.",
+   "uncertainties": [
+    "ambaṣṭha may denote a specific mixed-caste group or medical practitioners depending on context"
+   ],
+   "plain_english": "Astrologers, ambaṣṭhas, physicians, and musicians are to be placed in the south."
+  },
+  {
+   "verse": 1606,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "inclusive reference to every member",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktānāṃ",
+     "gloss": "of-devotees",
+     "grounds": "devotees or worshippers",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vāsam",
+     "gloss": "dwelling",
+     "grounds": "place of residence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttarapārśvataḥ",
+     "gloss": "on-north-side",
+     "grounds": "northern side or quarter",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the dwelling for all devotees be situated within the layout?",
+   "premises": [
+    "All devotees require a dwelling place.",
+    "The northern side is specified for this dwelling.",
+    "The placement applies inclusively to all devotees."
+   ],
+   "inference": "The dwelling for all devotees should be situated on the northern side.",
+   "uncertainties": [],
+   "plain_english": "The dwelling for all devotees should be placed on the northern side."
+  },
+  {
+   "verse": 1607,
+   "rows": [
+    {
+     "surface": "kālāmukhaṃ",
+     "gloss": "kalamukha-seat",
+     "grounds": "seat or establishment of the Kālāmukha sect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "southwestern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bauddhālayaṃ",
+     "gloss": "buddhist-shrine",
+     "grounds": "compound denoting a Buddhist abode or shrine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāruṇe",
+     "gloss": "in-west",
+     "grounds": "western direction",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which directions are assigned to the Kālāmukha seat and the Buddhist shrine?",
+   "premises": [
+    "A Kālāmukha seat is to be placed in the southwest.",
+    "A Buddhist shrine is to be placed in the west.",
+    "Each establishment has a distinct directional assignment."
+   ],
+   "inference": "The Kālāmukha seat belongs in the southwest and the Buddhist shrine in the west.",
+   "uncertainties": [],
+   "plain_english": "Place the Kālāmukha establishment in the southwest and the Buddhist shrine in the west."
+  },
+  {
+   "verse": 1608,
+   "rows": [
+    {
+     "surface": "jñānābhyāsālayaṃ",
+     "gloss": "knowledge-practice-hall",
+     "grounds": "compound denoting a place for the study and practice of knowledge",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt (√kṛ)"
+    },
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "northeastern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasizing particular importance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should a hall for the practice of knowledge be especially established?",
+   "premises": [
+    "A hall for the practice of knowledge is to be made.",
+    "The northeast direction is specified for it.",
+    "This placement is given special emphasis."
+   ],
+   "inference": "A hall for the practice of knowledge should especially be established in the northeast.",
+   "uncertainties": [],
+   "plain_english": "One should especially establish a hall for the practice of knowledge in the northeast."
+  },
+  {
+   "verse": 1609,
+   "rows": [
+    {
+     "surface": "yāmyapāvakayormadhye",
+     "gloss": "between-south-and-southeast",
+     "grounds": "compound indicating the intermediate space between south and the fire quarter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jaladānaprapāṃ",
+     "gloss": "water-giving-pavilion",
+     "grounds": "compound denoting a pavilion for distributing water",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "2.sg.act-imp (√kṛ)"
+    }
+   ],
+   "question": "Where must a pavilion for the distribution of water be constructed?",
+   "premises": [
+    "A water-giving pavilion is to be constructed.",
+    "The location is between the south and the fire quarter.",
+    "The instruction is given as a direct command."
+   ],
+   "inference": "A water-distribution pavilion should be made between the south and the southeast.",
+   "uncertainties": [],
+   "plain_english": "Make a water-distribution pavilion between the south and the southeast."
+  },
+  {
+   "verse": 1610,
+   "rows": [
+    {
+     "surface": "varuṇanair-ṛtayormadhye",
+     "gloss": "between-west-and-southwest",
+     "grounds": "compound indicating the intermediate space between west and southwest",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sutikā",
+     "gloss": "maternity-house",
+     "grounds": "place for childbirth and postpartum care",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating an alternative designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samucyate",
+     "gloss": "is-declared",
+     "grounds": "prescriptive statement of placement or designation",
+     "morph": "3.sg.pass-pres (sam-√vac)"
+    }
+   ],
+   "question": "What facility is designated for the space between the west and southwest quarters?",
+   "premises": [
+    "The space between west and southwest is specified.",
+    "A maternity house is associated with this location.",
+    "This designation is authoritatively declared."
+   ],
+   "inference": "A maternity house is declared to be located between the west and the southwest.",
+   "uncertainties": [],
+   "plain_english": "A maternity house is declared to be between the west and the southwest."
+  },
+  {
+   "verse": 1611,
+   "rows": [
+    {
+     "surface": "saumyānilayormadhye",
+     "gloss": "between-north-and-northwest",
+     "grounds": "compound indicating the intermediate space between north and northwest",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bālaśikṣārthamaṇṭapam",
+     "gloss": "child-instruction-pavilion",
+     "grounds": "compound denoting a pavilion for the education of children",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What structure is prescribed for the space between the north and northwest quarters?",
+   "premises": [
+    "The space between north and northwest is specified.",
+    "A pavilion for child instruction is designated for this location.",
+    "The structure serves an educational purpose."
+   ],
+   "inference": "A pavilion for the instruction of children should be placed between the north and the northwest.",
+   "uncertainties": [],
+   "plain_english": "A pavilion for the instruction of children is to be placed between the north and the northwest."
+  },
+  {
+   "verse": 1612,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "location external to the previously described area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parito",
+     "gloss": "all-around",
+     "grounds": "surrounding on all sides",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brahmin",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "dāsīnāṃ+gaṇikādinām",
+     "gloss": "of-servant-women-courtesans-etc",
+     "grounds": "compound listing female servants, courtesans, and similar groups",
+     "morph": "f.gen.pl"
+    }
+   ],
+   "question": "Which groups are to be housed in the area surrounding the outer boundary?",
+   "premises": [
+    "The area outside the previous boundary is specified.",
+    "Female servants, courtesans, and similar groups are named.",
+    "Their placement is all around that outer area."
+   ],
+   "inference": "Female servants, courtesans, and similar groups are to be housed all around outside that boundary.",
+   "uncertainties": [],
+   "plain_english": "O brahmin, outside that area, all around, are the dwellings of female servants, courtesans, and others."
+  },
+  {
+   "verse": 1613,
+   "rows": [
+    {
+     "surface": "cakriṇāṃ",
+     "gloss": "of-wheelwrights",
+     "grounds": "makers or users of wheels",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "puṣpajīvīnāṃ",
+     "gloss": "of-flower-sellers",
+     "grounds": "those who live by dealing in flowers",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kulālānāṃ",
+     "gloss": "of-potters",
+     "grounds": "makers of pottery",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicating similar inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional occupational groups are included in the outer residential arrangement?",
+   "premises": [
+    "Wheelwrights are included among the groups.",
+    "Flower sellers and potters are included.",
+    "These groups are placed in the same outer arrangement."
+   ],
+   "inference": "Wheelwrights, flower sellers, and potters are likewise to be housed in that outer area.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the dwellings of wheelwrights, flower sellers, and potters are to be placed there."
+  },
+  {
+   "verse": 1614,
+   "rows": [
+    {
+     "surface": "nāpitaśmaśrukārāṇāṃ",
+     "gloss": "of-barbers-beard-trimmers",
+     "grounds": "compound listing barbers and those who trim beards",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gopālānāṃ",
+     "gloss": "of-cowherds",
+     "grounds": "tenders of cattle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāruṇām",
+     "gloss": "of-artisans",
+     "grounds": "craftspeople or artisans",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which further service and artisan groups are assigned to the outer area?",
+   "premises": [
+    "Barbers and beard-trimmers are named.",
+    "Cowherds and artisans are named.",
+    "These groups belong to the same outer placement."
+   ],
+   "inference": "Barbers, beard-trimmers, cowherds, and artisans are to be housed in the outer area.",
+   "uncertainties": [],
+   "plain_english": "The dwellings of barbers, beard-trimmers, cowherds, and artisans are also to be placed there."
+  },
+  {
+   "verse": 1615,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "surrounding on all sides",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayed",
+     "gloss": "one-should-arrange",
+     "grounds": "injunctive prescription",
+     "morph": "3.sg.act-opt (√kḷp)"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable planner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvādīnāṃ",
+     "gloss": "of-eastern-and-others",
+     "grounds": "beginning with the east and continuing to other directions",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vasānakam",
+     "gloss": "dwelling",
+     "grounds": "place of residence",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the wise planner arrange the dwellings of the eastern and other groups?",
+   "premises": [
+    "The wise planner is responsible for arrangement.",
+    "Dwellings are to be arranged all around.",
+    "The arrangement proceeds from the east and other directions."
+   ],
+   "inference": "The wise planner should arrange the dwellings of the eastern and other groups all around in order.",
+   "uncertainties": [],
+   "plain_english": "The wise one should arrange the dwellings of those in the east and other directions all around."
+  },
+  {
+   "verse": 1616,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "southern direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "northern direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "external area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "carmakārādi",
+     "gloss": "leather-workers-and-others",
+     "grounds": "compound beginning with leather workers",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāsakam",
+     "gloss": "dwelling",
+     "grounds": "place of residence",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where must the dwellings of leather workers and similar groups be located?",
+   "premises": [
+    "Leather workers and similar groups are specified.",
+    "Their dwellings are to be outside.",
+    "The south and north are designated for these dwellings."
+   ],
+   "inference": "The dwellings of leather workers and similar groups should be located outside in the south and north.",
+   "uncertainties": [],
+   "plain_english": "The dwellings of leather workers and others should be placed outside in the south and in the north."
+  },
+  {
+   "verse": 1617,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "location external to the previously described area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "krośamātre",
+     "gloss": "at-krosha-distance",
+     "grounds": "at a distance measuring one krośa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or specifying particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍālaśreṇi",
+     "gloss": "outcaste-row",
+     "grounds": "row or settlement of caṇḍālas",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rucyate",
+     "gloss": "is-preferred",
+     "grounds": "is approved or deemed proper",
+     "morph": "3.sg.pass-pres (√ruc)"
+    }
+   ],
+   "question": "At what distance outside the settlement is the row of caṇḍāla dwellings preferred?",
+   "premises": [
+    "A location outside the previous boundary is specified.",
+    "The distance is one krośa.",
+    "A row of caṇḍāla dwellings is preferred there."
+   ],
+   "inference": "The row of caṇḍāla dwellings is preferred at a distance of one krośa outside.",
+   "uncertainties": [],
+   "plain_english": "Outside that, at a distance of one krośa, a row of caṇḍāla dwellings is preferred."
+  },
+  {
+   "verse": 1618,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshumat-kashyapa",
+     "grounds": "colophon locating the statement in the Aṃśumatkāśyapa text",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prākāralakṣaṇavidhipaṭalaḥ",
+     "gloss": "enclosure-characteristics-rule-chapter",
+     "grounds": "compound naming the chapter on rules for enclosure characteristics",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvicatvāriṃśaḥ",
+     "gloss": "forty-second",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumatkāśyapa concludes with the rules on enclosure characteristics?",
+   "premises": [
+    "The text is identified as the Aṃśumatkāśyapa.",
+    "The chapter concerns the rules for enclosure characteristics.",
+    "The chapter is numbered forty-second."
+   ],
+   "inference": "This concludes the forty-second chapter on the rules for enclosure characteristics in the Aṃśumatkāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the forty-second chapter, on the rules for the characteristics of enclosures, in the Aṃśumatkāśyapa."
+  },
+  {
+   "verse": 1619,
+   "rows": [
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrumental use of the astra mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "hastasandhānaṃ",
+     "gloss": "hand-joining",
+     "grounds": "ritual joining or placement of the hands",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "feet",
+     "grounds": "the two feet",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "sadyena",
+     "gloss": "with-sadya-mantra",
+     "grounds": "instrumental use of the Sadyojāta mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sandhayet",
+     "gloss": "one-should-join",
+     "grounds": "injunctive prescription for ritual joining",
+     "morph": "3.sg.act-opt (sam-√dhā)"
+    }
+   ],
+   "question": "Which mantras are prescribed for ritually joining the hands and the feet?",
+   "premises": [
+    "The hands are to be joined using the astra mantra.",
+    "The feet are to be joined using the Sadyojāta mantra.",
+    "Both actions are prescribed ritual procedures."
+   ],
+   "inference": "One should join the hands with the astra mantra and the feet with the Sadyojāta mantra.",
+   "uncertainties": [],
+   "plain_english": "One should perform the joining of the hands with the astra mantra and join the feet with the Sadyojāta mantra."
+  },
+  {
+   "verse": 1620,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "initial stage of the procedure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścāttu",
+     "gloss": "then-afterward",
+     "grounds": "subsequent stage following the initial one",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃdhānaṃ",
+     "gloss": "joining",
+     "grounds": "the act of ritual joining",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-sequence",
+     "grounds": "following the proper order",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saṃpūrṇam",
+     "gloss": "complete",
+     "grounds": "brought to full completion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive prescription for performance",
+     "morph": "3.sg.act-opt (ā-√car)"
+    }
+   ],
+   "question": "In what sequence must the ritual joining be carried out to completion?",
+   "premises": [
+    "The joining begins at the initial stage.",
+    "It continues afterward in proper order.",
+    "The procedure must be performed to completion."
+   ],
+   "inference": "The ritual joining should be performed first, then afterward in sequence, until complete.",
+   "uncertainties": [],
+   "plain_english": "One should perform the joining first and then afterward in due sequence until it is complete."
+  },
+  {
+   "verse": 1621,
+   "rows": [
+    {
+     "surface": "aṣṭatriṃśatkalānyāsaṃ",
+     "gloss": "thirty-eight-kala-installation",
+     "grounds": "compound denoting the ritual installation of thirty-eight kalās",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sthānamaṃgam",
+     "gloss": "place-limb",
+     "grounds": "compound indicating the place or limb for installation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "is-declared",
+     "grounds": "authoritatively stated",
+     "morph": "n.nom.sg ppp (ud-ā-√hṛ)"
+    }
+   ],
+   "question": "What ritual installation of thirty-eight kalās is declared for the designated place or limb?",
+   "premises": [
+    "An installation of thirty-eight kalās is specified.",
+    "It is associated with a designated place or limb.",
+    "This procedure is authoritatively declared."
+   ],
+   "inference": "The installation of thirty-eight kalās in the designated place or limb is declared.",
+   "uncertainties": [
+    "sthānamaṃgam is ambiguous and may refer to a place and limb or be a textual fusion"
+   ],
+   "plain_english": "The installation of the thirty-eight kalās in the designated place or limb is declared."
+  },
+  {
+   "verse": 1622,
+   "rows": [
+    {
+     "surface": "dharmatālāttritālānta",
+     "gloss": "from-dharma-tala-to-tri-tala",
+     "grounds": "compound indicating the range from dharma-tāla to tri-tāla",
+     "morph": "compound"
+    },
+    {
+     "surface": "śreṣṭhāntarādhamaṃ",
+     "gloss": "best-middle-lowest",
+     "grounds": "threefold qualitative grading",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "division into three categories",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the range from dharma-tāla to tri-tāla classified by quality?",
+   "premises": [
+    "The range extends from dharma-tāla to tri-tāla.",
+    "The classification includes best, middle, and lowest grades.",
+    "The division is threefold."
+   ],
+   "inference": "The range from dharma-tāla to tri-tāla is classified threefold as best, middle, and lowest.",
+   "uncertainties": [],
+   "plain_english": "From dharma-tāla to tri-tāla, the classification is threefold: best, middle, and lowest."
+  },
+  {
+   "verse": 1623,
+   "rows": [
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "the intermediate grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśatālaṃ",
+     "gloss": "ten-tala",
+     "grounds": "measure of ten tālas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syā",
+     "gloss": "should-be",
+     "grounds": "optative or prescriptive form indicating designation",
+     "morph": "3.sg.act-opt (√as)"
+    },
+    {
+     "surface": "bhanupaṃktyāṃgulaṃ",
+     "gloss": "twelve-row-finger-measure",
+     "grounds": "compound indicating a measure in aṅgulas based on twelve",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement of resulting measure",
+     "morph": "3.sg.act-opt (√bhū)"
+    }
+   ],
+   "question": "What measurement defines the middle grade in the ten-tāla system?",
+   "premises": [
+    "The middle grade is specified as ten tālas.",
+    "Its measure is expressed in aṅgulas based on twelve.",
+    "This measurement is prescribed as the standard."
+   ],
+   "inference": "The middle grade should be ten tālas, measured in aṅgulas based on twelve.",
+   "uncertainties": [
+    "bhanupaṃktyāṃgulaṃ is metrically compressed and its exact numerical parsing is uncertain"
+   ],
+   "plain_english": "The middle measure should be ten tālas, amounting to the prescribed aṅgula measure based on twelve."
+  },
+  {
+   "verse": 1624,
+   "rows": [
+    {
+     "surface": "sadvādaśaśataṃ",
+     "gloss": "six-twelve-hundred",
+     "grounds": "compound numeral expression indicating a count of twelve hundred and six",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "division or unit part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral nine",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tālottamaṃ",
+     "gloss": "tala-best",
+     "grounds": "compound denoting the best grade of tāla measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement of resulting measure",
+     "morph": "3.sg.act-opt (√bhū)"
+    }
+   ],
+   "question": "What numerical measure defines the best grade of the nine-tāla system?",
+   "premises": [
+    "The best grade is associated with nine tālas.",
+    "A numerical measure of parts is specified.",
+    "This measure is prescribed as the standard."
+   ],
+   "inference": "The best nine-tāla measure should consist of the specified number of parts.",
+   "uncertainties": [
+    "sadvādaśaśataṃ is metrically compressed and its exact numerical value is uncertain"
+   ],
+   "plain_english": "The best nine-tāla measure should consist of the specified twelve hundred and six parts."
+  }
+ ]
+}

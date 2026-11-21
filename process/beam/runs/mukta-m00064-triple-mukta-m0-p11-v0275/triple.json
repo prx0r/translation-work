@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "sārdhayāmagatāyām",
+     "gloss": "half-watch-passed",
+     "grounds": "locative absolute expression indicating the passing of half a watch; internal sandhi within the compound",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśāyāṃ",
+     "gloss": "in-night",
+     "grounds": "denotes the time period in which the action is situated",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound of sādhaka (practitioner) and uttama (best), referring to the foremost adept",
+     "morph": "compound; m.nom.sg"
+    }
+   ],
+   "question": "At what point in the night must the foremost practitioner be situated for the practice?",
+   "premises": [
+    "Half a watch of the night has passed.",
+    "The time specified is within the night.",
+    "The foremost practitioner is the subject at this time."
+   ],
+   "inference": "The foremost practitioner is situated when half a watch of the night has passed.",
+   "uncertainties": [
+    "The specific action of the practitioner is not stated in this verse and depends on following context."
+   ],
+   "plain_english": "Indeed, when half a watch of the night has passed, the foremost practitioner..."
+  }
+ ]
+}

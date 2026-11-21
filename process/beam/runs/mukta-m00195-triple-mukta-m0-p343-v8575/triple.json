@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p343",
+ "items": [
+  {
+   "verse": 8575,
+   "rows": [
+    {
+     "surface": "pṛthakprayogaḥ",
+     "gloss": "separate-application",
+     "grounds": "compound of pṛthak and prayogaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "object or coordinate practice named alongside application",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking practices",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāśadvarṇaśobhitām",
+     "gloss": "adorned-with-fifty-letters",
+     "grounds": "compound describing the meditated form; qualifies an implied feminine object",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What additional application and visualization are prescribed alongside the preceding oblation practice?",
+   "premises": [
+    "A separate application is prescribed.",
+    "Meditation is also prescribed.",
+    "The meditated form is adorned with fifty letters."
+   ],
+   "inference": "The ritual practice extends beyond oblation to include a distinct application and meditation on a form adorned with fifty letters.",
+   "uncertainties": [
+    "The feminine accusative paṃcāśadvarṇaśobhitām implies an unstated object, likely the goddess."
+   ],
+   "plain_english": "There is also a separate application and meditation on her who is adorned with the fifty letters."
+  }
+ ]
+}

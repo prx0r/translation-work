@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "sāṣṭāṅgaḥ",
+     "gloss": "with-eight-limbs",
+     "grounds": "bahuvrīhi compound sa+aṣṭa+aṅga indicating a prostration involving eight body parts",
+     "morph": "compound: sa+aṣṭa+aṅga; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking a subsequent point in the ritual instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāṅgaḥ",
+     "gloss": "with-five-limbs",
+     "grounds": "bahuvrīhi compound pañca+aṅga indicating a prostration involving five body parts",
+     "morph": "compound: pañca+aṅga; m.nom.sg"
+    },
+    {
+     "surface": "pūjā+karmasu",
+     "gloss": "in-worship-acts",
+     "grounds": "tatpuruṣa compound pūjā+karman denoting ritual acts of worship",
+     "morph": "compound: pūjā+karman; n.loc.pl"
+    },
+    {
+     "surface": "sammataḥ",
+     "gloss": "approved",
+     "grounds": "past participle expressing sanctioned acceptance in ritual practice",
+     "morph": "m.nom.sg; ppp; sam-√man"
+    }
+   ],
+   "question": "Which bodily forms of prostration are sanctioned for acts of worship?",
+   "premises": [
+    "Prostration may be performed with eight limbs.",
+    "Prostration may alternatively be performed with five limbs.",
+    "Both forms are approved in acts of worship."
+   ],
+   "inference": "Therefore, either eight-limbed or five-limbed prostration is sanctioned in worship acts.",
+   "uncertainties": [],
+   "plain_english": "Then, in acts of worship, prostration performed with eight limbs or with five limbs is approved."
+  }
+ ]
+}

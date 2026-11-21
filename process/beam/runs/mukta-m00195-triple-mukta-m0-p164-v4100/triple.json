@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p164",
+ "items": [
+  {
+   "verse": 4100,
+   "rows": [
+    {
+     "surface": "karāṃgulīmūlasandhau",
+     "gloss": "hand-finger-root-joint",
+     "grounds": "compound locative indicating the joint at the base of the fingers of the hand",
+     "morph": "compound: kara-aṅgulī-mūla-sandhi; m.loc.sg"
+    },
+    {
+     "surface": "maṇibandhe",
+     "gloss": "wrist",
+     "grounds": "bodily location for placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle adding further locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūrpare",
+     "gloss": "elbow",
+     "grounds": "bodily location for placement",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What further limb joints are designated as sites for the prescribed placement?",
+   "premises": [
+    "The sequence of placement continues to additional bodily locations.",
+    "The joint at the base of the hand fingers is specified as a site.",
+    "The wrist and the elbow are also specified as sites."
+   ],
+   "inference": "These limb joints are included among the sites for the prescribed placement.",
+   "uncertainties": [],
+   "plain_english": "And at the joint at the base of the fingers of the hand, at the wrist, and at the elbow."
+  }
+ ]
+}

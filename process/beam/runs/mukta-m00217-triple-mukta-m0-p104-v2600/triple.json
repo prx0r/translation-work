@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "tattaddravyeṇa",
+     "gloss": "with-each-respective-substance",
+     "grounds": "compound of tat-tat and dravya indicating each appropriate material",
+     "morph": "compound: tat-tat+dravya; instr.sg.n"
+    },
+    {
+     "surface": "hotavyaṃ",
+     "gloss": "to-be-offered",
+     "grounds": "gerundive expressing obligation in the ritual offering",
+     "morph": "gerundive.nom.sg.n; root hu"
+    },
+    {
+     "surface": "tīrthena",
+     "gloss": "with-sacred-water",
+     "grounds": "ritual water used in the act of offering",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "ārṣeṇa",
+     "gloss": "with-seer-consecrated",
+     "grounds": "qualifies the sacred water as pertaining to the seers",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "in-that-manner",
+     "grounds": "refers to the manner previously indicated",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What type of sacred water is prescribed for offering each respective substance in the rite?",
+   "premises": [
+    "Each respective substance is to be offered in the ritual.",
+    "The offering is to be made with sacred water.",
+    "The sacred water may be seer-consecrated or used in the stated manner."
+   ],
+   "inference": "Therefore, each respective substance should be offered using seer-consecrated sacred water or water applied in that manner.",
+   "uncertainties": [
+    "The exact referent of tathā depends on the preceding ritual instructions."
+   ],
+   "plain_english": "Each respective substance should be offered with sacred water that is consecrated by the seers, or in that manner."
+  }
+ ]
+}

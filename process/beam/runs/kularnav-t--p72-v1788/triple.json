@@ -1,0 +1,555 @@
+{
+ "song": "kul-p72",
+ "items": [
+  {
+   "verse": 1788,
+   "rows": [
+    {
+     "surface": "siddhasusiddho'rddhajapāt",
+     "gloss": "from-half-recitation-of-siddha-and-susiddha",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhārirhanti",
+     "gloss": "siddha-enemy-kills",
+     "grounds": "fused compound",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "kills",
+     "grounds": "root han",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "bāndhavān",
+     "gloss": "kinsmen",
+     "grounds": "bāndhava",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Who does the siddha-enemy kill through half-recitation?",
+   "premises": [
+    "half-recitation of siddha and susiddha is named",
+    "the siddha-enemy kills",
+    "kinsmen are killed"
+   ],
+   "inference": "The siddha-enemy kills kinsmen through half-recitation.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "Through half-recitation of siddha and susiddha, the siddha-enemy kills kinsmen."
+  },
+  {
+   "verse": 1789,
+   "rows": [
+    {
+     "surface": "sādhyasusiddho",
+     "gloss": "sādhya-susiddha",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhajanāt",
+     "gloss": "from-worship",
+     "grounds": "bhajana",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyārihanti",
+     "gloss": "sādhya-enemy-kills",
+     "grounds": "fused compound",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "kills",
+     "grounds": "root han",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "gotrajān",
+     "gloss": "clan-born",
+     "grounds": "gotra-ja",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Whom does the sādhya-enemy kill through worship?",
+   "premises": [
+    "sādhya-susiddha acts through worship",
+    "the sādhya-enemy kills",
+    "clan-born are killed"
+   ],
+   "inference": "The sādhya-enemy kills clan-born through worship.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "Through worship, the sādhya-enemy kills those born in the clan."
+  },
+  {
+   "verse": 1790,
+   "rows": [
+    {
+     "surface": "tatsusiddho",
+     "gloss": "that-susiddha",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "grahādeva",
+     "gloss": "from-planet-only",
+     "grounds": "fused grahāt eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "susiddhāriḥ",
+     "gloss": "susiddha-enemy",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svagotrahā",
+     "gloss": "own-clan-killer",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the susiddha-enemy do from the planet?",
+   "premises": [
+    "that-susiddha is named",
+    "from the planet only",
+    "the susiddha-enemy is named",
+    "own-clan-killer is named"
+   ],
+   "inference": "The susiddha-enemy kills one's own clan from the planet.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "From the planet, the susiddha-enemy kills one's own clan."
+  },
+  {
+   "verse": 1791,
+   "rows": [
+    {
+     "surface": "tatsusiddhaḥ",
+     "gloss": "that-susiddha",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "family",
+     "grounds": "kula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "kills",
+     "grounds": "root han",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "svātmānaṃ",
+     "gloss": "own-self",
+     "grounds": "sva-ātman",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "kills",
+     "grounds": "root han",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tadripuḥ",
+     "gloss": "that-enemy",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does that enemy kill besides the family?",
+   "premises": [
+    "that-susiddha is named",
+    "the family is killed",
+    "one's own self is killed",
+    "that-enemy is named"
+   ],
+   "inference": "That enemy kills both the family and one's own self.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "That enemy kills the family and one's own self."
+  },
+  {
+   "verse": 1792,
+   "rows": [
+    {
+     "surface": "susiddhāḥ",
+     "gloss": "susiddhas",
+     "grounds": "susiddha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "poṣakā",
+     "gloss": "nourishers",
+     "grounds": "poṣaka",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "jñeyāḥ",
+     "gloss": "to-be-known",
+     "grounds": "jñeya",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śatravo",
+     "gloss": "enemies",
+     "grounds": "śatru",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ghātakāḥ",
+     "gloss": "killers",
+     "grounds": "ghātaka",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "smṛta",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the nourishing susiddhas classified?",
+   "premises": [
+    "susiddhas are nourishers",
+    "they are to be known",
+    "enemies are killers",
+    "they are remembered"
+   ],
+   "inference": "The nourishing susiddhas are known as enemies and killers.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "The nourishing susiddhas are known as enemies and killers."
+  },
+  {
+   "verse": 1793,
+   "rows": [
+    {
+     "surface": "varṇāḥ",
+     "gloss": "letters",
+     "grounds": "varṇa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "krama",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarāntau",
+     "gloss": "vowel-ended",
+     "grounds": "svara-anta",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "revatyaṃśagatau",
+     "gloss": "gone-into-revatī-portion",
+     "grounds": "revatī-aṃśa-gata",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "tadā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When are the vowel-ended letters in Revatī's portion?",
+   "premises": [
+    "letters are in order",
+    "vowel-ended pair is named",
+    "they have gone into Revatī's portion",
+    "then is named"
+   ],
+   "inference": "The vowel-ended letters are then in Revatī's portion.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "Then the vowel-ended letters are in Revatī's portion."
+  },
+  {
+   "verse": 1794,
+   "rows": [
+    {
+     "surface": "mitraṃ",
+     "gloss": "friend",
+     "grounds": "mitra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramamitrañca",
+     "gloss": "and-supreme-friend",
+     "grounds": "parama-mitra ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "janmādīni",
+     "gloss": "birth-and-the-rest",
+     "grounds": "janma-ādi",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "punaḥ punaḥ",
+     "gloss": "again-and-again",
+     "grounds": "punaḥ punaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is repeated again and again from birth?",
+   "premises": [
+    "friend is named",
+    "supreme friend is named",
+    "birth and the rest are named",
+    "again and again is named"
+   ],
+   "inference": "Friend and supreme friend recur again and again from birth.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "Friend and supreme friend recur again and again from birth."
+  },
+  {
+   "verse": 1795,
+   "rows": [
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "krama",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bheditā",
+     "gloss": "divided",
+     "grounds": "bhedita",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "letters",
+     "grounds": "varṇa",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kanyāyāṃ",
+     "gloss": "in-the-girl",
+     "grounds": "kanyā",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śādayaḥ",
+     "gloss": "śa-and-the-rest",
+     "grounds": "śādi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "smṛta",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where are the divided letters remembered?",
+   "premises": [
+    "letters are divided in order",
+    "they are in the girl",
+    "śa and the rest are named",
+    "remembered is named"
+   ],
+   "inference": "The divided letters are remembered in the girl.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "The divided letters are remembered in the girl."
+  },
+  {
+   "verse": 1796,
+   "rows": [
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "maraṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dharmakarmāya",
+     "gloss": "for-dharma-and-action",
+     "grounds": "dharma-karma",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyayā",
+     "gloss": "expenditure",
+     "grounds": "vyaya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "dvādaśa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāśayaḥ",
+     "gloss": "zodiac-signs",
+     "grounds": "rāśi",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What are the twelve zodiac signs for?",
+   "premises": [
+    "death is named",
+    "for dharma and action is named",
+    "expenditure is named",
+    "twelve zodiac signs are named"
+   ],
+   "inference": "The twelve zodiac signs concern death, dharma, action, and expenditure.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "The twelve zodiac signs concern death, dharma, action, and expenditure."
+  },
+  {
+   "verse": 1797,
+   "rows": [
+    {
+     "surface": "ajñāte",
+     "gloss": "when-unknown",
+     "grounds": "ajñāta",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāśinakṣatre",
+     "gloss": "zodiac-sign-and-lunar-mansion",
+     "grounds": "rāśi-nakṣatra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nāmādyakṣararāśitaḥ",
+     "gloss": "from-the-zodiac-sign-of-the-first-letter-of-the-name",
+     "grounds": "nāma-ādi-akṣara-rāśi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is used when the zodiac sign and lunar mansion are unknown?",
+   "premises": [
+    "when unknown is named",
+    "zodiac sign and lunar mansion are named",
+    "from the zodiac sign of the first letter of the name is named"
+   ],
+   "inference": "When the zodiac sign and lunar mansion are unknown, use the zodiac sign of the first letter of the name.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "When the zodiac sign and lunar mansion are unknown, use the zodiac sign of the first letter of the name."
+  },
+  {
+   "verse": 1798,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "in-three-ways",
+     "grounds": "tridhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "kṛ",
+     "morph": "gerund"
+    },
+    {
+     "surface": "svaraibhindyāttadanyadviparītakam",
+     "gloss": "with-vowels-divide-then-other-opposite",
+     "grounds": "fused svaraiḥ bhindyāt tad anyat viparītakam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadanyadviparītakam",
+     "gloss": "that-other-opposite",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viparītakam",
+     "gloss": "opposite",
+     "grounds": "viparīta",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the opposite made in three ways?",
+   "premises": [
+    "in three ways is named",
+    "having made is named",
+    "with vowels divide then other opposite is named",
+    "that other opposite is named",
+    "opposite is named"
+   ],
+   "inference": "In three ways, having made, one divides with vowels and takes the opposite.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "In three ways, having made, one divides with vowels and takes the opposite."
+  },
+  {
+   "verse": 1799,
+   "rows": [
+    {
+     "surface": "svayamṛṇī",
+     "gloss": "oneself-a-debtor",
+     "grounds": "svayam ṛṇī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cettanmantraṃ",
+     "gloss": "if-that-mantra",
+     "grounds": "fused cet tan mantraṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japetpūrvamṛṇī",
+     "gloss": "let-him-recite-first-debtor",
+     "grounds": "fused japet pūrvam ṛṇī",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "yataḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why should the debtor recite the mantra first?",
+   "premises": [
+    "oneself is a debtor",
+    "if that mantra is named",
+    "let him recite first debtor is named",
+    "because is named"
+   ],
+   "inference": "The debtor should recite the mantra first because he is a debtor.",
+   "uncertainties": [
+    "compound boundaries are editorial"
+   ],
+   "plain_english": "The debtor should recite the mantra first because he is a debtor."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "name of the mantra or goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "established",
+     "grounds": "past passive participle indicating situated presence",
+     "morph": "f.nom.sg.ppp (sam-√sthā)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pāpa",
+     "gloss": "sin",
+     "grounds": "first member of compound describing the object to be removed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uccāṭana",
+     "gloss": "driving-away",
+     "grounds": "second member of compound indicating eradication",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "in-rite",
+     "grounds": "locative indicating the ritual action; part of pāpa-uccāṭana-karmaṇi compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In what ritual action is Gāyatrī established for the eradication of sin?",
+   "premises": [
+    "Gāyatrī is established in a specific ritual context.",
+    "The ritual context is defined as an action of driving away sin.",
+    "The goddess is directly addressed as Devi."
+   ],
+   "inference": "Gāyatrī is established in the rite of driving away sin.",
+   "uncertainties": [],
+   "plain_english": "O goddess, Gāyatrī is established in the rite of driving away sin."
+  }
+ ]
+}

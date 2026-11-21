@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p426",
+ "items": [
+  {
+   "verse": 10650,
+   "rows": [
+    {
+     "surface": "yajñopavītī",
+     "gloss": "sacred-thread-wearing",
+     "grounds": "possessive adjective describing Vāmana as wearing the sacred thread",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nīla",
+     "gloss": "blue",
+     "grounds": "first member qualifying the hue",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ābho",
+     "gloss": "hued",
+     "grounds": "second member of a bahuvrīhi-like description meaning having a blue hue",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhyātavyaḥ",
+     "gloss": "to-be-meditated-on",
+     "grounds": "gerundive prescribing visualization",
+     "morph": "gerundive.m.nom.sg (√dhyai)"
+    },
+    {
+     "surface": "chadma",
+     "gloss": "disguised",
+     "grounds": "qualifies Vāmana as appearing in a deceptive or disguised form",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāmanaḥ",
+     "gloss": "Vāmana",
+     "grounds": "name of the deity-form to be visualized",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What visual form of the disguised Vāmana is prescribed for meditation?",
+   "premises": [
+    "Vāmana is to be meditated upon.",
+    "He is described as wearing the sacred thread.",
+    "He is described as blue-hued and disguised."
+   ],
+   "inference": "The practitioner should visualize Vāmana as a sacred-thread-wearing, blue-hued, disguised figure.",
+   "uncertainties": [
+    "The exact nuance of chadma as deceptive appearance or disguise is context-dependent."
+   ],
+   "plain_english": "One should meditate on Vāmana as wearing the sacred thread, blue in hue, and appearing in a disguised form."
+  }
+ ]
+}

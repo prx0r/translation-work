@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p104",
+ "items": [
+  {
+   "verse": 2600,
+   "rows": [
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative of sannidhi indicating proximity or presence",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sva+gurum",
+     "gloss": "own-guru",
+     "grounds": "compound object referring to one's own teacher",
+     "morph": "compound: sva+gurum (m.acc.sg)"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "should-bow",
+     "grounds": "optative expressing prescribed conduct",
+     "morph": "3.sg.act-optative (pra-√nam)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "subject described as discerning or wise",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Should a wise disciple refrain from bowing to his own guru while in the guru's presence?",
+   "premises": [
+    "The context concerns proper conduct in the guru's presence.",
+    "A wise disciple is the subject of the prescribed behavior.",
+    "The act under consideration is bowing to one's own guru."
+   ],
+   "inference": "A wise disciple should not bow to his own guru when already in the guru's presence.",
+   "uncertainties": [],
+   "plain_english": "A wise person should not bow to his own guru while in the guru's presence."
+  }
+ ]
+}

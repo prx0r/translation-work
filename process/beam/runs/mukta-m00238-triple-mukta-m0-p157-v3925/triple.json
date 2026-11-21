@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3925,
+   "rows": [
+    {
+     "surface": "procyate",
+     "gloss": "is-called",
+     "grounds": "passive present form meaning is said or called",
+     "morph": "3.sg.pass-pres root-proc"
+    },
+    {
+     "surface": "brahmakaivartaṃ",
+     "gloss": "brahmakaivarta",
+     "grounds": "accusative object naming the purana",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "taddvādaśasahasrakam",
+     "gloss": "that-twelve-thousand",
+     "grounds": "compound adjective giving the verse count",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "12000 ślo0",
+     "gloss": "twelve-thousand-verses",
+     "grounds": "numeral plus sloka count token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Purāṇa is said to contain twelve thousand ślokas?",
+   "premises": [
+    "procyate means is called",
+    "brahmakaivarta is named",
+    "taddvādaśasahasrakam gives count"
+   ],
+   "inference": "The Brahmakaivarta Purāṇa is said to contain twelve thousand ślokas.",
+   "uncertainties": [
+    "token four is a numeral-sloka count rather than standard Sanskrit",
+    "its exact grammatical role is unclear"
+   ],
+   "plain_english": "It is called the Brahmakaivarta, that twelve-thousand-verse Purāṇa."
+  }
+ ]
+}

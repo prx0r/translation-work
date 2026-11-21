@@ -1,0 +1,761 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2501,
+   "rows": [
+    {
+     "surface": "vātātmākṣiprakopī",
+     "gloss": "wind-nature-quick-anger",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmānmāheṃdrayogajaḥ",
+     "gloss": "glorious-indra-yoga-born",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deity's wind-natured quick-tempered form is praised here?",
+   "premises": [
+    "The verse names a wind-natured deity.",
+    "It calls him quick-tempered.",
+    "It links him to glorious Indra-yoga."
+   ],
+   "inference": "The verse presents a specific deity for veneration.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "A wind-natured, quick-tempered deity born of glorious Indra-yoga is praised."
+  },
+  {
+   "verse": 2502,
+   "rows": [
+    {
+     "surface": "satyavāndhanavāntyāgī",
+     "gloss": "truth-wealth-renunciation",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaidhṛtau",
+     "gloss": "in-ritual-obligation",
+     "grounds": "locative form",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vikaṭekṣaṇaḥ",
+     "gloss": "fierce-eyed",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which truth-wealth-renouncing fierce-eyed figure is named in ritual obligation?",
+   "premises": [
+    "The verse names a truth-wealth-renouncing figure.",
+    "It places him in ritual obligation.",
+    "It calls him fierce-eyed."
+   ],
+   "inference": "The verse identifies a ritual figure by qualities.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "A truth-wealth-renouncing, fierce-eyed figure is named in ritual obligation."
+  },
+  {
+   "verse": 2503,
+   "rows": [
+    {
+     "surface": "iṃdratoyāhivahnyarka",
+     "gloss": "indra-water-serpent-fire-sun",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūmarudbhagatoyapāḥ",
+     "gloss": "earth-wind-bhaga-water-drinkers",
+     "grounds": "compound token",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which group of elemental deities is listed as drinkers?",
+   "premises": [
+    "The verse lists elemental names.",
+    "It ends with drinkers.",
+    "It forms a compound list."
+   ],
+   "inference": "The verse enumerates elemental deities.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "Elemental deities including earth, wind, and water are listed as drinkers."
+  },
+  {
+   "verse": 2504,
+   "rows": [
+    {
+     "surface": "sāvitrīkamalāgaurī",
+     "gloss": "savitrī-lotus-gaurī",
+     "grounds": "compound token",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāsatyaupitaroditiḥ",
+     "gloss": "nasatya-father-dawn",
+     "grounds": "compound token",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are named in this compound list?",
+   "premises": [
+    "The verse names Savitri.",
+    "It names Kamala and Gauri.",
+    "It names Nasatya-related dawn."
+   ],
+   "inference": "The verse lists goddess names.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "Savitri, Kamala, Gauri, and related dawn names are listed."
+  },
+  {
+   "verse": 2505,
+   "rows": [
+    {
+     "surface": "viṣkaṃbhādikayogānāmadhi",
+     "gloss": "from-vishkambha-yoga-names-above",
+     "grounds": "compound token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devavarā",
+     "gloss": "best-gods",
+     "grounds": "compound token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "amī",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which best gods are named from the Vishkambha yogas?",
+   "premises": [
+    "The verse refers to Vishkambha yogas.",
+    "It calls the gods best.",
+    "It points to these gods."
+   ],
+   "inference": "The verse identifies a group of best gods.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "These best gods are named from the Vishkambha yogas."
+  },
+  {
+   "verse": 2506,
+   "rows": [
+    {
+     "surface": "daṃḍapāśadharaṃvaṃde",
+     "gloss": "staff-noose-bearer-I-bow",
+     "grounds": "compound token",
+     "morph": "1sg.act.ind"
+    },
+    {
+     "surface": "dakṣiṇāśāpatiṃ",
+     "gloss": "south-direction-lord",
+     "grounds": "compound token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "all-pervading",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which all-pervading lord of the south direction is bowed to?",
+   "premises": [
+    "The verse bows to a bearer of staff and noose.",
+    "It names the south-direction lord.",
+    "It calls him all-pervading."
+   ],
+   "inference": "The verse venerates the south-direction lord.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "I bow to the all-pervading lord of the south direction, bearer of staff and noose."
+  },
+  {
+   "verse": 2507,
+   "rows": [
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which blue-colored form is being described?",
+   "premises": [
+    "The verse gives a color.",
+    "It is blue.",
+    "It describes a form."
+   ],
+   "inference": "The verse states a blue color.",
+   "uncertainties": [
+    "No deity name in this token."
+   ],
+   "plain_english": "The form is blue-colored."
+  },
+  {
+   "verse": 2508,
+   "rows": [
+    {
+     "surface": "śaṃkhacakragadāpāṇiṃ",
+     "gloss": "conch-discus-mace-handed",
+     "grounds": "compound token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaṃde",
+     "gloss": "I-bow",
+     "grounds": "verb",
+     "morph": "1sg.act.ind"
+    },
+    {
+     "surface": "sarvārthasiddhaye",
+     "gloss": "for-all-purposes-success",
+     "grounds": "dative compound",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Which conch-discus-mace-handed figure is bowed to for success?",
+   "premises": [
+    "The verse bows to a handed figure.",
+    "It names conch, discus, and mace.",
+    "It seeks all-purposes success."
+   ],
+   "inference": "The verse venerates a multi-armed deity for success.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "I bow to the conch-discus-mace-handed figure for success in all purposes."
+  },
+  {
+   "verse": 2509,
+   "rows": [
+    {
+     "surface": "caturviṃśatimṛrttisthaviṣṇuvat 2 ni0",
+     "gloss": "twenty-four-forms-vishnu-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Vishnu-like twenty-four-form comparison is indicated?",
+   "premises": [
+    "The verse gives a number.",
+    "It mentions twenty-four forms.",
+    "It compares to Vishnu."
+   ],
+   "inference": "The verse indicates a Vishnu-like comparison.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "It is like Vishnu in twenty-four forms."
+  },
+  {
+   "verse": 2510,
+   "rows": [
+    {
+     "surface": "lakṣmīsahodaraṃvaṃde",
+     "gloss": "Lakshmi-brother-I-bow",
+     "grounds": "compound token",
+     "morph": "1sg.act.ind"
+    },
+    {
+     "surface": "kṣīrasāgaranaṃdanam",
+     "gloss": "milk-ocean-son",
+     "grounds": "compound token",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which milk-ocean-born brother of Lakshmi is bowed to?",
+   "premises": [
+    "The verse bows to a brother of Lakshmi.",
+    "It calls him milk-ocean-born.",
+    "It venerates him."
+   ],
+   "inference": "The verse venerates Lakshmi's milk-ocean-born brother.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "I bow to the milk-ocean-born brother of Lakshmi."
+  },
+  {
+   "verse": 2511,
+   "rows": [
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "navagrahacaṃdravat 5 nio",
+     "gloss": "nine-planet-moon-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which white-colored moon-like nine-planet form is described?",
+   "premises": [
+    "The verse gives white color.",
+    "It compares to the moon.",
+    "It mentions nine planets."
+   ],
+   "inference": "The verse describes a white moon-like form.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "The form is white-colored, like the moon among nine planets."
+  },
+  {
+   "verse": 2512,
+   "rows": [
+    {
+     "surface": "akṣasrakkuṃḍikāpāṇi",
+     "gloss": "rosary-pot-handed",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyāye",
+     "gloss": "I-meditate",
+     "grounds": "verb",
+     "morph": "1sg.act.ind"
+    },
+    {
+     "surface": "tvāṃpāhimāṃ",
+     "gloss": "you-protect-me",
+     "grounds": "compound token",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which rosary-pot-handed lord is meditated upon for protection?",
+   "premises": [
+    "The verse meditates on a handed figure.",
+    "It names rosary and pot.",
+    "It asks protection."
+   ],
+   "inference": "The verse meditates on a protective lord.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "I meditate on you, rosary-and-pot-handed lord; protect me."
+  },
+  {
+   "verse": 2513,
+   "rows": [
+    {
+     "surface": "pāṭalavarṇaḥ",
+     "gloss": "pale-red-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bṛhaspatipratyadhidevatāvat 5ni0",
+     "gloss": "Brihaspati-presiding-deity-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which pale-red form is compared to Brihaspati's presiding deity?",
+   "premises": [
+    "The verse gives pale-red color.",
+    "It compares to Brihaspati's presiding deity.",
+    "It describes a form."
+   ],
+   "inference": "The verse describes a pale-red comparable form.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "The form is pale-red, like Brihaspati's presiding deity."
+  },
+  {
+   "verse": 2514,
+   "rows": [
+    {
+     "surface": "jīvamāṃpāhi",
+     "gloss": "life-me-protect",
+     "grounds": "compound token",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "satatamanayā",
+     "gloss": "always-by-this",
+     "grounds": "compound token",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "pūjayā",
+     "gloss": "by-worship",
+     "grounds": "instrumental noun",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which lord is asked to protect life through constant worship?",
+   "premises": [
+    "The verse asks protection of life.",
+    "It mentions constant worship.",
+    "It addresses the lord."
+   ],
+   "inference": "The verse requests protection through worship.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "Protect my life, lord, through this constant worship."
+  },
+  {
+   "verse": 2515,
+   "rows": [
+    {
+     "surface": "kanakavarṇaḥ",
+     "gloss": "golden-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "navagrahasthaguruvat 5 ni0",
+     "gloss": "nine-planet-stationed-teacher-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which golden-colored form is compared to the nine-planet stationed teacher?",
+   "premises": [
+    "The verse gives golden color.",
+    "It compares to a stationed teacher.",
+    "It mentions nine planets."
+   ],
+   "inference": "The verse describes a golden comparable form.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "The form is golden-colored, like the teacher stationed among nine planets."
+  },
+  {
+   "verse": 2516,
+   "rows": [
+    {
+     "surface": "ūrdhvakeśaṃ",
+     "gloss": "upward-hair",
+     "grounds": "compound token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "virūpākṣamatigaṃḍeśvaraṃ",
+     "gloss": "Virupaksha-Matigandesha-lord",
+     "grounds": "compound token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "verb",
+     "morph": "1sg.act.ind"
+    }
+   ],
+   "question": "Which upward-haired Virupaksha-Matigandesha lord is worshipped?",
+   "premises": [
+    "The verse worships a lord.",
+    "It names Virupaksha and Matigandesha.",
+    "It mentions upward hair."
+   ],
+   "inference": "The verse worships a named lord.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "I worship the upward-haired lord Virupaksha-Matigandesha."
+  },
+  {
+   "verse": 2517,
+   "rows": [
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dikpālanir-ṛtivat 4 ni0",
+     "gloss": "direction-guardian-Nirriti-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which blue-colored form is compared to direction-guardian Nirriti?",
+   "premises": [
+    "The verse gives blue color.",
+    "It compares to Nirriti.",
+    "It mentions a direction guardian."
+   ],
+   "inference": "The verse describes a blue comparable form.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "The form is blue-colored, like direction-guardian Nirriti."
+  },
+  {
+   "verse": 2518,
+   "rows": [
+    {
+     "surface": "śacīnāthanamastubhyaṃ",
+     "gloss": "Shachi-lord-bow-to-you",
+     "grounds": "compound token",
+     "morph": "2sg.dat"
+    },
+    {
+     "surface": "pāhimāṃ",
+     "gloss": "protect-me",
+     "grounds": "verb",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "svarṇanāyaka",
+     "gloss": "golden-leader",
+     "grounds": "compound token",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Which golden leader and lord of Shachi is asked to protect?",
+   "premises": [
+    "The verse bows to a lord of Shachi.",
+    "It asks protection.",
+    "It addresses a golden leader."
+   ],
+   "inference": "The verse requests protection from a named leader.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "Bow to you, lord of Shachi; protect me, golden leader."
+  },
+  {
+   "verse": 2519,
+   "rows": [
+    {
+     "surface": "kanakavarṇaḥ",
+     "gloss": "golden-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lokapāleṃdravat 4 ni0",
+     "gloss": "world-guardian-Indra-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which golden-colored form is compared to world-guardian Indra?",
+   "premises": [
+    "The verse gives golden color.",
+    "It compares to Indra.",
+    "It mentions a world guardian."
+   ],
+   "inference": "The verse describes a golden comparable form.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "The form is golden-colored, like world-guardian Indra."
+  },
+  {
+   "verse": 2520,
+   "rows": [
+    {
+     "surface": "prāṇadāḥ",
+     "gloss": "life-givers",
+     "grounds": "compound token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvalokasya",
+     "gloss": "of-all-worlds",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pāṃtumāṃ",
+     "gloss": "protect-me",
+     "grounds": "compound token",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "viṣṇusaṃbhavāḥ",
+     "gloss": "Vishnu-born",
+     "grounds": "compound token",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which Vishnu-born life-givers of all worlds are asked to protect?",
+   "premises": [
+    "The verse names life-givers.",
+    "It says of all worlds.",
+    "It asks protection."
+   ],
+   "inference": "The verse requests protection from Vishnu-born life-givers.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "Vishnu-born life-givers of all worlds, protect me."
+  },
+  {
+   "verse": 2521,
+   "rows": [
+    {
+     "surface": "śvetavarṇāḥ",
+     "gloss": "white-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paṃcabhūtāsthābdevatāvat 4 ni0",
+     "gloss": "five-elements-stationed-deity-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which white-colored forms are compared to five-element stationed deities?",
+   "premises": [
+    "The verse gives white color.",
+    "It compares to stationed deities.",
+    "It mentions five elements."
+   ],
+   "inference": "The verse describes white comparable forms.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "The forms are white-colored, like deities stationed among five elements."
+  },
+  {
+   "verse": 2522,
+   "rows": [
+    {
+     "surface": "namaskurmassadāśāṃtiṃ",
+     "gloss": "we-bow-always-peace",
+     "grounds": "compound token",
+     "morph": "1pl.act.ind"
+    },
+    {
+     "surface": "prayacchaṃ",
+     "gloss": "grant",
+     "grounds": "verb",
+     "morph": "2sg.act.imp"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṇābhṛtaḥ",
+     "gloss": "serpent-bearer",
+     "grounds": "compound token",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Which serpent-bearer is asked to grant peace?",
+   "premises": [
+    "The verse bows always for peace.",
+    "It asks to grant.",
+    "It names a serpent-bearer."
+   ],
+   "inference": "The verse requests peace from a serpent-bearer.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "We bow for peace; grant it, serpent-bearer."
+  },
+  {
+   "verse": 2523,
+   "rows": [
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-colored",
+     "grounds": "compound token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāhvadhidevatāsarpavat 4 ni0",
+     "gloss": "Rahu-presiding-deity-serpent-like",
+     "grounds": "compound token with editorial note",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which white-colored form is compared to Rahu's presiding serpent deity?",
+   "premises": [
+    "The verse gives white color.",
+    "It compares to Rahu's presiding deity.",
+    "It mentions a serpent."
+   ],
+   "inference": "The verse describes a white comparable form.",
+   "uncertainties": [
+    "Editorial note included in token."
+   ],
+   "plain_english": "The form is white-colored, like Rahu's presiding serpent deity."
+  },
+  {
+   "verse": 2524,
+   "rows": [
+    {
+     "surface": "meghavāhanamārūḍhaṃ",
+     "gloss": "cloud-vehicle-mounted",
+     "grounds": "compound token",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "verb",
+     "morph": "3sg.act.opt"
+    },
+    {
+     "surface": "sarvārthasiddhaye",
+     "gloss": "for-all-purposes-success",
+     "grounds": "dative compound",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Which cloud-vehicle-mounted figure should be meditated upon for success?",
+   "premises": [
+    "The verse says to meditate.",
+    "It names a cloud-vehicle-mounted figure.",
+    "It seeks all-purposes success."
+   ],
+   "inference": "The verse prescribes meditation for success.",
+   "uncertainties": [
+    "Compound boundaries are not split."
+   ],
+   "plain_english": "One should meditate on the cloud-vehicle-mounted figure for success in all purposes."
+  }
+ ]
+}

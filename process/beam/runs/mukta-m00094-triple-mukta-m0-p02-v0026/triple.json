@@ -1,0 +1,1059 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "bodhānandaḥ",
+     "gloss": "awakening-bliss",
+     "grounds": "compound of bodha and ananda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇānanda+nanditāḥ",
+     "gloss": "delighted-in-cause-bliss",
+     "grounds": "fused compound with sandhi",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What state is said to arise after the prior ritual act?",
+   "premises": [
+    "bodhānandaḥ is named",
+    "tataḥ marks sequence",
+    "nityaṃ qualifies duration"
+   ],
+   "inference": "The verse states an enduring awakening-bliss follows.",
+   "uncertainties": [
+    "exact referent of tataḥ"
+   ],
+   "plain_english": "Then awakening-bliss always delights in cause-bliss."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindu+sphuran+mādhvī-dhārayā",
+     "gloss": "with-stream-of-drop-quivering-nectar",
+     "grounds": "fused compound with sandhi",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "pronoun accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pratarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Whom should one satisfy and by what means?",
+   "premises": [
+    "tān is accusative object",
+    "vindu+sphuran+mādhvī-dhārayā is instrumental",
+    "pratarpayet is optative verb"
+   ],
+   "inference": "One should satisfy them with the stream of quivering nectar-drop.",
+   "uncertainties": [
+    "identity of tān"
+   ],
+   "plain_english": "Then one should satisfy them with the stream of quivering nectar-drop."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "tat+prabhā+paṭalaiḥ",
+     "gloss": "with-layers-of-its-radiance",
+     "grounds": "fused compound with sandhi",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pāṭalaṃ",
+     "gloss": "red-mass",
+     "grounds": "adjective or noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svaṃ",
+     "gloss": "own",
+     "grounds": "reflexive adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should the goddess visualize as her own red mass?",
+   "premises": [
+    "tat+prabhā+paṭalaiḥ is instrumental",
+    "pāṭalaṃ is accusative",
+    "svaṃ modifies pāṭalaṃ",
+    "vicintayet is optative"
+   ],
+   "inference": "One should visualize one's own red mass with layers of its radiance.",
+   "uncertainties": [
+    "exact color sense of pāṭalaṃ"
+   ],
+   "plain_english": "O goddess, one should visualize one's own red mass with layers of its radiance."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "gopanīyaṃ",
+     "gloss": "to-be-kept-secret",
+     "grounds": "gerundive adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama+prīti+kṛte",
+     "gloss": "for-my-pleasure",
+     "grounds": "fused compound with sandhi",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "certainly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What must certainly be kept secret for the speaker's pleasure?",
+   "premises": [
+    "gopanīyaṃ is gerundive",
+    "mama+prīti+kṛte is dative purpose",
+    "avaśyaṃ is adverb",
+    "sureśvari is vocative"
+   ],
+   "inference": "The matter must certainly be kept secret for the speaker's pleasure.",
+   "uncertainties": [
+    "referent of gopanīyaṃ"
+   ],
+   "plain_english": "O lady of gods, this must certainly be kept secret for my pleasure."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "mahācīnā+ākhya+tantre",
+     "gloss": "in-tantra-named-mahācīnā",
+     "grounds": "fused compound with sandhi",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What threefold worship is mentioned in the Mahācīnā tantra?",
+   "premises": [
+    "mahācīnā+ākhya+tantre is locative",
+    "trividhaṃ modifies pūjanaṃ",
+    "yat is relative"
+   ],
+   "inference": "The verse refers to a threefold worship in that tantra.",
+   "uncertainties": [
+    "exact threefold division"
+   ],
+   "plain_english": "And indeed in the tantra named Mahācīnā there is threefold worship."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mental",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yāntrikaṃ",
+     "gloss": "and-diagrammatic",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-also",
+     "grounds": "fused conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "i-wish",
+     "grounds": "first person verb",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "māmpratam",
+     "gloss": "now",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What two kinds of worship does the speaker wish to hear now?",
+   "premises": [
+    "mānasaṃ and yāntrikaṃ are accusative objects",
+    "śrotum is infinitive",
+    "icchāmi is first person",
+    "māmpratam is adverb"
+   ],
+   "inference": "The speaker wishes now to hear mental and diagrammatic worship.",
+   "uncertainties": [
+    "exact scope of yāntrikaṃ"
+   ],
+   "plain_english": "I wish now to hear mental and diagrammatic worship."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "akṛte",
+     "gloss": "when-not-done",
+     "grounds": "locative absolute",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyāsa+jāle",
+     "gloss": "net-of-nyāsas",
+     "grounds": "fused compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikāraḥ",
+     "gloss": "qualification",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is said about qualification when the net of nyāsas is not done?",
+   "premises": [
+    "akṛte is locative absolute",
+    "nyāsa+jāle is locative",
+    "adhikāraḥ is subject",
+    "na vidyate is negation"
+   ],
+   "inference": "There is no qualification when the net of nyāsas is not done.",
+   "uncertainties": [
+    "scope of nyāsa+jāle"
+   ],
+   "plain_english": "Indeed when the net of nyāsas is not done, qualification does not exist."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "varṇa+vyāpaka+vinyāsau",
+     "gloss": "letter-pervading-placements",
+     "grounds": "fused compound",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "pīṭha+nyāsaḥ",
+     "gloss": "seat-placement",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What placements are said to come after the seat-placement?",
+   "premises": [
+    "varṇa+vyāpaka+vinyāsau is nominative dual",
+    "pīṭha+nyāsaḥ is nominative singular",
+    "tataḥ param marks sequence"
+   ],
+   "inference": "Letter-pervading placements come after seat-placement.",
+   "uncertainties": [
+    "exact relation of dual"
+   ],
+   "plain_english": "Letter-pervading placements, then seat-placement after."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "ugratārā",
+     "gloss": "ugratārā",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devatā+uktā",
+     "gloss": "spoken-as-deity",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kūrcca+vīja",
+     "gloss": "kūrcca-seed",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "su+udāhṛtam",
+     "gloss": "well-declared",
+     "grounds": "fused compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is well declared concerning Ugratārā and the kūrcca seed?",
+   "premises": [
+    "ugratārā is nominative",
+    "devatā+uktā is fused",
+    "kūrcca+vīja is nominative",
+    "su+udāhṛtam is adjective"
+   ],
+   "inference": "Ugratārā spoken as deity and kūrcca seed are well declared.",
+   "uncertainties": [
+    "exact doctrinal content"
+   ],
+   "plain_english": "Ugratārā, spoken as deity, and the kūrcca seed are well declared."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "akhila+vāk+rūpiṇīm+uktvā",
+     "gloss": "having-said-embodiment-of-all-speech",
+     "grounds": "fused compound with sandhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdayāya",
+     "gloss": "to-the-heart",
+     "grounds": "dative noun",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What obeisance should one say to the heart after naming all-speech embodiment?",
+   "premises": [
+    "akhila+vāk+rūpiṇīm+uktvā is absolutive",
+    "hṛdayāya is dative",
+    "namaḥ is nominative",
+    "vadet is optative"
+   ],
+   "inference": "One should say obeisance to the heart.",
+   "uncertainties": [
+    "exact mantra wording"
+   ],
+   "plain_english": "Having said embodiment of all speech, one should say obeisance to the heart."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "brahma+vāk+rūpiṇīm+uktvā",
+     "gloss": "having-said-embodiment-of-brahmā's-speech",
+     "grounds": "fused compound with sandhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śikhāyai",
+     "gloss": "to-the-head",
+     "grounds": "dative noun",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vaṣaṭ",
+     "gloss": "vaṣaṭ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+api",
+     "gloss": "thus-also",
+     "grounds": "fused particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should one say to the head after naming Brahmā's speech embodiment?",
+   "premises": [
+    "brahma+vāk+rūpiṇīm+uktvā is absolutive",
+    "śikhāyai is dative",
+    "vaṣaṭ is mantra syllable",
+    "iti+api is particle"
+   ],
+   "inference": "One should say vaṣaṭ to the head.",
+   "uncertainties": [
+    "exact ritual placement"
+   ],
+   "plain_english": "Having said embodiment of Brahmā's speech, one should say vaṣaṭ to the head, thus also."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "viṣṇu+vāk+rūpiṇī",
+     "gloss": "embodiment-of-viṣṇu's-speech",
+     "grounds": "fused compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "netra+trayāya",
+     "gloss": "to-the-three-eyes",
+     "grounds": "fused compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vauṣaṭ",
+     "gloss": "vauṣaṭ",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti+api",
+     "gloss": "thus-also",
+     "grounds": "fused particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should one say to the three eyes after naming Viṣṇu's speech embodiment?",
+   "premises": [
+    "viṣṇu+vāk+rūpiṇī is nominative",
+    "netra+trayāya is dative",
+    "vauṣaṭ is mantra syllable",
+    "iti+api is particle"
+   ],
+   "inference": "One should say vauṣaṭ to the three eyes.",
+   "uncertainties": [
+    "exact ritual placement"
+   ],
+   "plain_english": "Embodiment of Viṣṇu's speech, to the three eyes vauṣaṭ, thus also."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "ṣaṭ+dīrgham+āyayā",
+     "gloss": "with-six-long-by-māyā",
+     "grounds": "fused compound",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-also",
+     "grounds": "fused conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vījānām",
+     "gloss": "of-the-seeds",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "one-should-utter",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should one utter the seeds with six long by māyā?",
+   "premises": [
+    "ṣaṭ+dīrgham+āyayā is instrumental",
+    "vījānām is genitive",
+    "uccaret is optative"
+   ],
+   "inference": "One should utter the seeds with six long by māyā.",
+   "uncertainties": [
+    "exact phonetic rule"
+   ],
+   "plain_english": "And also one should utter the seeds with six long by māyā."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "ādi+ḹ+varṇa+paryyantān",
+     "gloss": "from-initial-ḹ-letter-up-to",
+     "grounds": "fused compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-the-heart",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where should one place letters from initial ḹ up to?",
+   "premises": [
+    "ādi+ḹ+varṇa+paryyantān is accusative",
+    "hṛdaye is locative",
+    "vinyaset is optative",
+    "priye is vocative"
+   ],
+   "inference": "One should place them in the heart.",
+   "uncertainties": [
+    "endpoint of letter series"
+   ],
+   "plain_english": "O beloved, one should place letters from initial ḹ up to in the heart."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "ṇa+ādi+bhāntān",
+     "gloss": "from-ṇa-up-to-bha",
+     "grounds": "fused compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ma+kāra+ādi+kṣāntān",
+     "gloss": "from-ma-up-to-kṣa",
+     "grounds": "fused compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "jaṅghā+dvaye",
+     "gloss": "on-the-two-legs",
+     "grounds": "fused compound",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where should one place letters from ṇa to bha and from ma to kṣa?",
+   "premises": [
+    "ṇa+ādi+bhāntān is accusative",
+    "ma+kāra+ādi+kṣāntān is accusative",
+    "jaṅghā+dvaye is locative dual",
+    "priye is vocative"
+   ],
+   "inference": "One should place them on the two legs.",
+   "uncertainties": [
+    "exact letter grouping"
+   ],
+   "plain_english": "O beloved, place letters from ṇa to bha and from ma to kṣa on the two legs."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "hṛt+saroje",
+     "gloss": "in-the-heart-lotus",
+     "grounds": "fused compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sudhā+sindhuṃ",
+     "gloss": "ocean-of-nectar",
+     "grounds": "fused compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvīpaṃ",
+     "gloss": "island",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "suvarṇajam",
+     "gloss": "golden",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be visualized in the heart-lotus?",
+   "premises": [
+    "hṛt+saroje is locative",
+    "sudhā+sindhuṃ is accusative",
+    "madhye is locative",
+    "dvīpaṃ is accusative",
+    "suvarṇajam modifies dvīpaṃ"
+   ],
+   "inference": "An ocean of nectar with a golden island in the middle.",
+   "uncertainties": [
+    "exact visualization sequence"
+   ],
+   "plain_english": "In the heart-lotus, an ocean of nectar, in the middle a golden island."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "tat+mūle",
+     "gloss": "at-its-base",
+     "grounds": "fused compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hema+nirmmāṇaṃ",
+     "gloss": "made-of-gold",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvāḥ+catuṣṭaya+bhūṣitam",
+     "gloss": "adorned-with-four-gates",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is at the base of the island?",
+   "premises": [
+    "tat+mūle is locative",
+    "hema+nirmmāṇaṃ is accusative",
+    "dvāḥ+catuṣṭaya+bhūṣitam modifies it"
+   ],
+   "inference": "A gold-made structure adorned with four gates.",
+   "uncertainties": [
+    "exact structure type"
+   ],
+   "plain_english": "At its base, a gold-made structure adorned with four gates."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantraṃ+pratiṣṭhāpya",
+     "gloss": "having-established-the-diagram",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one perform after establishing the diagram there?",
+   "premises": [
+    "yantraṃ+pratiṣṭhāpya is absolutive",
+    "tatra is adverb",
+    "pūjāṃ is accusative",
+    "samācaret is optative"
+   ],
+   "inference": "One should perform worship there.",
+   "uncertainties": [
+    "exact diagram"
+   ],
+   "plain_english": "There, having established the diagram, one should perform worship there."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "hṛdi",
+     "gloss": "in-the-heart",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāṇi+agram+ādāya",
+     "gloss": "having-taken-the-fingertips",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jīva+nyāsaṃ",
+     "gloss": "life-placement",
+     "grounds": "fused compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What placement should one perform in the heart with fingertips?",
+   "premises": [
+    "hṛdi is locative",
+    "pāṇi+agram+ādāya is absolutive",
+    "jīva+nyāsaṃ is accusative",
+    "samācaret is optative"
+   ],
+   "inference": "One should perform life-placement.",
+   "uncertainties": [
+    "exact fingertip gesture"
+   ],
+   "plain_english": "In the heart, having taken the fingertips, one should perform life-placement."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "paripāṭī",
+     "gloss": "procedure",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "from-the-guru",
+     "grounds": "genitive noun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyāsānāṃ",
+     "gloss": "of-the-nyāsas",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "racanaṃ",
+     "gloss": "arrangement",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative adjective",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "From whom should the procedure and arrangement of nyāsas be known?",
+   "premises": [
+    "paripāṭī is nominative",
+    "guroḥ is genitive",
+    "jñeyā is gerundive",
+    "nyāsānāṃ is genitive",
+    "racanaṃ is nominative",
+    "priye is vocative"
+   ],
+   "inference": "The procedure and arrangement of nyāsas are to be known from the guru.",
+   "uncertainties": [
+    "exact guru lineage"
+   ],
+   "plain_english": "O beloved, the procedure and arrangement of nyāsas are to be known from the guru."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "snāyāt+ca",
+     "gloss": "and-one-should-bathe",
+     "grounds": "fused verb with sandhi",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vimale",
+     "gloss": "in-pure",
+     "grounds": "locative adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tīrthe",
+     "gloss": "sacred-place",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣkare",
+     "gloss": "in-the-lotus",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdaya+āśrite",
+     "gloss": "situated-in-the-heart",
+     "grounds": "fused compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should one bathe in the pure sacred place?",
+   "premises": [
+    "snāyāt+ca is optative",
+    "vimale is locative",
+    "tīrthe is locative",
+    "puṣkare is locative",
+    "hṛdaya+āśrite is locative"
+   ],
+   "inference": "One should bathe in the pure sacred place situated in the heart-lotus.",
+   "uncertainties": [
+    "exact tīrtha"
+   ],
+   "plain_english": "And one should bathe in the pure sacred place, the lotus situated in the heart."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "vindu+cyuta+sudhābhiḥ",
+     "gloss": "with-nectars-flowing-from-the-drop",
+     "grounds": "fused compound",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "pronoun accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "prāṇa+vallabhe",
+     "gloss": "o-beloved-of-life",
+     "grounds": "fused compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whom should one satisfy with nectars flowing from the drop?",
+   "premises": [
+    "vindu+cyuta+sudhābhiḥ is instrumental",
+    "tāṃ is accusative",
+    "tarpayet is optative",
+    "prāṇa+vallabhe is vocative"
+   ],
+   "inference": "One should satisfy her, beloved of life.",
+   "uncertainties": [
+    "identity of tāṃ"
+   ],
+   "plain_english": "O beloved of life, one should satisfy her with nectars flowing from the drop."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "udvarttana+ādikaṃ+dattvā",
+     "gloss": "having-given-unguent-and-so-forth",
+     "grounds": "fused compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "one-should-bathe",
+     "grounds": "causative optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "divya+vāriṇā",
+     "gloss": "with-divine-water",
+     "grounds": "fused compound",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "With what should one bathe after giving unguent and so forth?",
+   "premises": [
+    "udvarttana+ādikaṃ+dattvā is absolutive",
+    "snāpayet is optative",
+    "divya+vāriṇā is instrumental"
+   ],
+   "inference": "One should bathe with divine water.",
+   "uncertainties": [
+    "exact unguent"
+   ],
+   "plain_english": "Having given unguent and so forth, one should bathe with divine water."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-the-forehead",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-also",
+     "grounds": "fused conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sindūraṃ",
+     "gloss": "vermilion",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "alaktaṃ",
+     "gloss": "lac-dye",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caraṇa+ambuje",
+     "gloss": "on-the-lotus-feet",
+     "grounds": "fused compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should vermilion and lac-dye be applied?",
+   "premises": [
+    "lalāṭe is locative",
+    "ca+eva is conjunction",
+    "sindūraṃ is accusative",
+    "alaktaṃ is accusative",
+    "caraṇa+ambuje is locative"
+   ],
+   "inference": "Vermilion on the forehead and lac-dye on the lotus feet.",
+   "uncertainties": [
+    "exact application order"
+   ],
+   "plain_english": "And also vermilion on the forehead, lac-dye on the lotus feet."
+  }
+ ]
+}

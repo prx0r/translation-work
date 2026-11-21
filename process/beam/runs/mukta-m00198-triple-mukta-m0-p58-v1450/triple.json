@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "pārvatīkamidaṃ",
+     "gloss": "parvati-type-this",
+     "grounds": "fused form of pārvatīkam (related to Pārvatī) and idam (this); sandhi within token",
+     "morph": "n.nom.sg + pron.n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known-called",
+     "grounds": "past participle used predicatively",
+     "morph": "ppp.n.nom.sg (√khyā)"
+    },
+    {
+     "surface": "upapratikaraṃ",
+     "gloss": "subsidiary-ornament",
+     "grounds": "architectural term for a secondary or supporting ornamental element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing designation or prescription",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What name and subsidiary function are assigned to the previously described architectural configuration?",
+   "premises": [
+    "The described configuration is identified as Pārvatīka.",
+    "It is designated as a subsidiary ornament.",
+    "This designation is prescribed for that configuration."
+   ],
+   "inference": "Therefore the previously described configuration is to be known as the Pārvatīka subsidiary ornament.",
+   "uncertainties": [
+    "The precise architectural sense of upapratikara in this context."
+   ],
+   "plain_english": "This should be known as the Pārvatīka, a subsidiary ornament."
+  }
+ ]
+}

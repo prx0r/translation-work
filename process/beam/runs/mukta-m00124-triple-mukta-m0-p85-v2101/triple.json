@@ -1,0 +1,1067 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2101,
+   "rows": [
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "alternative conjunction introducing another option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karadvayenaiva",
+     "gloss": "with-two-hands-indeed",
+     "grounds": "instrumental measure using both hands; eva emphasizes exclusivity",
+     "morph": "kara-dvaya+instrumental+eva (indecl.)"
+    },
+    {
+     "surface": "mūlasthānaṃ",
+     "gloss": "root-place",
+     "grounds": "the base location or foundation area",
+     "morph": "mūla-sthāna (compound, acc.sg.n.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-establish",
+     "grounds": "prescriptive injunction to determine or lay out",
+     "morph": "3.sg.opt.act (pra-kḷp)"
+    }
+   ],
+   "question": "What alternative method may determine the root place of the structure?",
+   "premises": [
+    "An alternative procedure is presented",
+    "The measure uses two hands only",
+    "The root place is to be established"
+   ],
+   "inference": "The root place may alternatively be established using the measure of two hands.",
+   "uncertainties": [
+    "Exact practical span implied by karadvaya is not specified"
+   ],
+   "plain_english": "Or one should establish the root place using the measure of two hands alone."
+  },
+  {
+   "verse": 2102,
+   "rows": [
+    {
+     "surface": "mūlabhāgaviśālena",
+     "gloss": "by-root-part-width",
+     "grounds": "width taken from the root portion as basis",
+     "morph": "mūla-bhāga-viśāla (compound, inst.sg.m./n.)"
+    },
+    {
+     "surface": "bhittiḥ",
+     "gloss": "wall",
+     "grounds": "the enclosing wall of the structure",
+     "morph": "nom.sg.f."
+    },
+    {
+     "surface": "dvitriguṇā",
+     "gloss": "two-or-three-times",
+     "grounds": "multiple of two or three relative to the base width",
+     "morph": "dvi-tri-guṇa (compound, nom.sg.f.)"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "prescribed or regarded in the rule",
+     "morph": "nom.sg.f. past-passive-participle (man)"
+    }
+   ],
+   "question": "What proportional thickness is prescribed for the wall relative to the root part?",
+   "premises": [
+    "The wall thickness is measured from the root part width",
+    "The prescribed multiple is two or three times",
+    "This proportion is authoritatively considered correct"
+   ],
+   "inference": "The wall should be made two or three times the width of the root part.",
+   "uncertainties": [
+    "Conditions for choosing twofold versus threefold are not stated"
+   ],
+   "plain_english": "The wall is considered to be two or three times the width of the root part."
+  },
+  {
+   "verse": 2103,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to the previously mentioned structure",
+     "morph": "gen.sg.m./n."
+    },
+    {
+     "surface": "garbhagṛhārdhaṃ",
+     "gloss": "sanctum-half",
+     "grounds": "half the measure of the sanctum",
+     "morph": "garbha-gṛha-ardha (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnamadhyārdhakaṃ",
+     "gloss": "less-or-middle-half",
+     "grounds": "a reduced or intermediate half measure",
+     "morph": "hīna-madhya-ardhaka (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle reinforcing specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the measure",
+     "morph": "nom./acc.sg.n."
+    }
+   ],
+   "question": "What portion of the sanctum determines the specified reduced measure?",
+   "premises": [
+    "The measure relates to that structure",
+    "Half of the sanctum is the reference",
+    "A reduced or middle half is indicated"
+   ],
+   "inference": "The specified measure is a reduced or intermediate half of the sanctum’s half.",
+   "uncertainties": [
+    "The exact referent of the resulting measure is completed in the next verse"
+   ],
+   "plain_english": "That measure is a reduced or intermediate half of half the sanctum."
+  },
+  {
+   "verse": 2104,
+   "rows": [
+    {
+     "surface": "liṅgāyāmaṃ",
+     "gloss": "linga-length",
+     "grounds": "the vertical extent of the linga",
+     "morph": "liṅga-āyāma (compound, nom.sg.n.)"
+    },
+    {
+     "surface": "suvṛttaṃ",
+     "gloss": "well-rounded",
+     "grounds": "properly circular in form",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "nāhāyāmau",
+     "gloss": "girth-and-length",
+     "grounds": "circumferential width and vertical length",
+     "morph": "nāha-āyāma (compound, nom.du.m.)"
+    },
+    {
+     "surface": "samau",
+     "gloss": "equal",
+     "grounds": "of the same measure",
+     "morph": "nom.du.m."
+    },
+    {
+     "surface": "matau",
+     "gloss": "considered",
+     "grounds": "regarded as correct",
+     "morph": "nom.du.m. past-passive-participle (man)"
+    }
+   ],
+   "question": "What proportions of length and girth are prescribed for the linga?",
+   "premises": [
+    "The linga length is specified as well rounded",
+    "Girth and length are measured together",
+    "They are considered equal"
+   ],
+   "inference": "The linga should be well rounded with its girth and length equal.",
+   "uncertainties": [
+    "How equality is applied to a rounded form is not fully explicit"
+   ],
+   "plain_english": "The linga’s length should be well rounded, and its girth and length are considered equal."
+  },
+  {
+   "verse": 2105,
+   "rows": [
+    {
+     "surface": "navāṅgulaṃ",
+     "gloss": "nine-finger-units",
+     "grounds": "a measure of nine aṅgulas",
+     "morph": "nava-aṅgula (compound, acc.sg.n.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "starting at the stated measure",
+     "morph": "absolutive (sam-ā-rabh)"
+    },
+    {
+     "surface": "dvidvyaṅgulavivardhanāt",
+     "gloss": "by-two-finger-increases",
+     "grounds": "incremental increase of two aṅgulas at a time",
+     "morph": "dvi-dvi-aṅgula-vivardhana (compound, abl.sg.n.)"
+    }
+   ],
+   "question": "What starting measure and increment govern the linga’s size progression?",
+   "premises": [
+    "The sequence begins at nine aṅgulas",
+    "The increase proceeds stepwise",
+    "Each step adds two aṅgulas"
+   ],
+   "inference": "Linga sizes should begin at nine aṅgulas and increase by two aṅgulas at each step.",
+   "uncertainties": [
+    "The upper limit of the progression is not stated here"
+   ],
+   "plain_english": "Beginning from nine aṅgulas, the size increases by two aṅgulas at a time."
+  },
+  {
+   "verse": 2106,
+   "rows": [
+    {
+     "surface": "talliṅgaṃ",
+     "gloss": "that-linga",
+     "grounds": "the linga previously described",
+     "morph": "tad-liṅga (compound, acc.sg.n.)"
+    },
+    {
+     "surface": "tricaturbhāgamānena",
+     "gloss": "by-three-or-four-part-measure",
+     "grounds": "division into three or four parts as the standard",
+     "morph": "tri-catur-bhāga-māna (compound, inst.sg.n.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-install",
+     "grounds": "prescriptive placement or installation",
+     "morph": "3.sg.opt.caus.act (ni-viś)"
+    }
+   ],
+   "question": "By what proportional division should the linga be installed?",
+   "premises": [
+    "The linga in question is to be installed",
+    "A measure based on parts is prescribed",
+    "The division is into three or four parts"
+   ],
+   "inference": "The linga should be installed according to a three-part or four-part measure.",
+   "uncertainties": [
+    "Which dimension is divided into three or four parts is not explicit"
+   ],
+   "plain_english": "One should install that linga according to a measure of three or four parts."
+  },
+  {
+   "verse": 2107,
+   "rows": [
+    {
+     "surface": "vasudhā",
+     "gloss": "ground",
+     "grounds": "the earth or base measure",
+     "morph": "nom.sg.f."
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "when-divided",
+     "grounds": "condition of being partitioned",
+     "morph": "loc.sg.n. past-passive-participle (bhaj)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that divided arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navaliṅgocchrayā",
+     "gloss": "nine-linga-heights",
+     "grounds": "nine possible heights for the linga",
+     "morph": "nava-liṅga-ucchraya (compound, nom.pl.m.)"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "recognized as valid options",
+     "morph": "nom.pl.m. past-passive-participle (man)"
+    }
+   ],
+   "question": "How many linga height options arise when the ground measure is divided?",
+   "premises": [
+    "The ground measure is divided",
+    "The division yields height options",
+    "Nine linga heights are recognized"
+   ],
+   "inference": "When the ground is divided, nine linga heights are considered valid.",
+   "uncertainties": [],
+   "plain_english": "When the ground is divided, nine heights for the linga are considered."
+  },
+  {
+   "verse": 2108,
+   "rows": [
+    {
+     "surface": "taruṇapratimānāṃ",
+     "gloss": "of-young-images",
+     "grounds": "images or icons in a youthful form",
+     "morph": "taruṇa-pratimā (compound, gen.pl.f.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "ninefold",
+     "grounds": "in nine ways or divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "the prescribed measurement",
+     "morph": "nom./acc.sg.n."
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "nom./acc.sg.n. past-passive-participle (īr)"
+    }
+   ],
+   "question": "What measurement scheme is declared for young images?",
+   "premises": [
+    "The subject is young images",
+    "A measurement scheme is declared",
+    "The scheme is ninefold"
+   ],
+   "inference": "The measure for young images is declared to be ninefold.",
+   "uncertainties": [
+    "The specific dimensions covered by the ninefold measure are not detailed"
+   ],
+   "plain_english": "For young images, the measure is declared to be ninefold."
+  },
+  {
+   "verse": 2109,
+   "rows": [
+    {
+     "surface": "mūlabimbārdhamānaṃ",
+     "gloss": "root-image-half-measure",
+     "grounds": "half the measure of the main image",
+     "morph": "mūla-bimba-ardha-māna (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "the most excellent option",
+     "morph": "nom./acc.sg.n."
+    },
+    {
+     "surface": "vedāṃśamānataḥ",
+     "gloss": "by-four-part-measure",
+     "grounds": "measured according to four parts (veda = four)",
+     "morph": "veda-aṃśa-māna (compound, abl.sg.n. + -tas)"
+    }
+   ],
+   "question": "What measure is considered best relative to the root image?",
+   "premises": [
+    "The reference is half the root image measure",
+    "A four-part standard is applied",
+    "This option is called best"
+   ],
+   "inference": "Half the root image measure, determined by a four-part standard, is considered best.",
+   "uncertainties": [
+    "The exact derivation by the four-part standard is compressed"
+   ],
+   "plain_english": "Half the measure of the root image, by the four-part standard, is considered best."
+  },
+  {
+   "verse": 2110,
+   "rows": [
+    {
+     "surface": "niṣkalasya",
+     "gloss": "of-formless",
+     "grounds": "pertaining to the niṣkala aspect",
+     "morph": "gen.sg.m./n."
+    },
+    {
+     "surface": "viśālena",
+     "gloss": "by-width",
+     "grounds": "according to breadth or extent",
+     "morph": "inst.sg.m./n."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "the base or pedestal seat",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "best",
+     "grounds": "the highest or most suitable",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (bhū)"
+    }
+   ],
+   "question": "What seat proportion is best for the formless aspect?",
+   "premises": [
+    "The context concerns the formless aspect",
+    "The seat is measured by width",
+    "This proportion is deemed best"
+   ],
+   "inference": "For the formless aspect, a seat proportioned by its width is best.",
+   "uncertainties": [
+    "The specific width ratio is not stated"
+   ],
+   "plain_english": "For the formless, the seat proportioned by its width should be the best."
+  },
+  {
+   "verse": 2111,
+   "rows": [
+    {
+     "surface": "liṅgamānavaśenāpi",
+     "gloss": "even-by-linga-measure",
+     "grounds": "alternatively according to the linga’s measure; api indicates inclusion",
+     "morph": "liṅga-māna-vaśa (compound, inst.sg.m.) + api (indecl.)"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "the base supporting the linga",
+     "morph": "acc.sg.n."
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-calculate",
+     "grounds": "prescriptive determination or design",
+     "morph": "3.sg.opt.act (pari-kḷp)"
+    }
+   ],
+   "question": "What alternative basis may determine the pedestal’s measure?",
+   "premises": [
+    "The pedestal must be determined",
+    "An alternative basis is allowed",
+    "That basis is the linga’s measure"
+   ],
+   "inference": "The pedestal may also be calculated according to the measure of the linga.",
+   "uncertainties": [],
+   "plain_english": "One may also calculate the pedestal according to the measure of the linga."
+  },
+  {
+   "verse": 2112,
+   "rows": [
+    {
+     "surface": "kṣīravṛkṣaiḥ",
+     "gloss": "with-milk-trees",
+     "grounds": "trees that yield milky sap",
+     "morph": "kṣīra-vṛkṣa (compound, inst.pl.m.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "palāśairvā",
+     "gloss": "or-with-palasha-trees",
+     "grounds": "palāśa wood as alternative; vā fused in token",
+     "morph": "inst.pl.m. + vā (indecl.)"
+    },
+    {
+     "surface": "vaṭodumbarapippalaiḥ",
+     "gloss": "with-banyan-udumbara-pippala",
+     "grounds": "three specified tree types as material",
+     "morph": "vaṭa-udumbara-pippala (compound, inst.pl.m.)"
+    }
+   ],
+   "question": "Which types of wood are permitted for making the linga image?",
+   "premises": [
+    "Wood materials are being specified",
+    "Several tree types are listed as options",
+    "The options include milk trees, palāśa, banyan, udumbara, and pippala"
+   ],
+   "inference": "The linga image may be made from milk trees, palāśa, or banyan, udumbara, and pippala.",
+   "uncertainties": [
+    "Whether the last three are used together or as alternatives is ambiguous"
+   ],
+   "plain_english": "One may use milk trees, or palāśa, or banyan, udumbara, and pippala."
+  },
+  {
+   "verse": 2113,
+   "rows": [
+    {
+     "surface": "saralāmaravṛkṣābhyāṃ",
+     "gloss": "with-sarala-and-amara-trees",
+     "grounds": "two additional tree types as material",
+     "morph": "sarala-amara-vṛkṣa (compound, inst.du.m.)"
+    },
+    {
+     "surface": "liṅgaberaṃ",
+     "gloss": "linga-image",
+     "grounds": "the linga form or image to be made",
+     "morph": "liṅga-bera (compound, acc.sg.n.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-make",
+     "grounds": "prescriptive action to fashion or perform",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "What additional woods may be used to fashion the linga image?",
+   "premises": [
+    "The object to be made is the linga image",
+    "Sarala and amara trees are named",
+    "Their use is prescribed"
+   ],
+   "inference": "The linga image may also be made using sarala and amara trees.",
+   "uncertainties": [],
+   "plain_english": "One should make the linga image with sarala and amara trees."
+  },
+  {
+   "verse": 2114,
+   "rows": [
+    {
+     "surface": "sphoṭanādiṣu",
+     "gloss": "in-cracking-and-such",
+     "grounds": "defects such as cracking and similar flaws",
+     "morph": "sphoṭana-ādi (compound, loc.pl.m.)"
+    },
+    {
+     "surface": "doṣeṣu",
+     "gloss": "in-defects",
+     "grounds": "faults affecting the material or image",
+     "morph": "loc.pl.m."
+    },
+    {
+     "surface": "bālasthānaṃ",
+     "gloss": "subsidiary-place",
+     "grounds": "a secondary or provisional installation place",
+     "morph": "bāla-sthāna (compound, acc.sg.n.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "prescriptive causative action",
+     "morph": "3.sg.opt.caus.act (kṛ)"
+    }
+   ],
+   "question": "What remedial action is required when defects like cracking appear?",
+   "premises": [
+    "Defects such as cracking may occur",
+    "A remedial location is specified",
+    "One should arrange a subsidiary place"
+   ],
+   "inference": "If defects like cracking occur, one should make a subsidiary place.",
+   "uncertainties": [
+    "The exact nature of bālasthāna as temporary or secondary is interpretive"
+   ],
+   "plain_english": "If there are defects such as cracking, one should make a subsidiary place."
+  },
+  {
+   "verse": 2115,
+   "rows": [
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "higher than that subsidiary place",
+     "morph": "tad-ūrdhva (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "neṣṭam",
+     "gloss": "not-desired",
+     "grounds": "not approved or not proper",
+     "morph": "na-iṣṭa (compound, nom./acc.sg.n. past-passive-participle)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in any other location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "in that very place; eva emphasizes restriction",
+     "morph": "tatra + eva (indecl.)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-install",
+     "grounds": "prescriptive placement",
+     "morph": "3.sg.opt.caus.act (sthā)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "nom.sg.m."
+    }
+   ],
+   "question": "Where must the wise practitioner install the image when defects occur?",
+   "premises": [
+    "Placement above that level is not desired",
+    "Placement elsewhere is not approved",
+    "The wise one must install it in that very place"
+   ],
+   "inference": "When defects occur, the wise practitioner should install it in that very place and not above or elsewhere.",
+   "uncertainties": [],
+   "plain_english": "Placing it above that or elsewhere is not desired; the wise one should install it there itself."
+  },
+  {
+   "verse": 2116,
+   "rows": [
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "same measure as the reference",
+     "morph": "tad-sama (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half the reference measure",
+     "morph": "tad-ardha (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "three parts out of four of the reference",
+     "morph": "tri-pāda (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agramaṇḍapam",
+     "gloss": "front-pavilion",
+     "grounds": "the pavilion in front of the main structure",
+     "morph": "agra-maṇḍapa (compound, nom./acc.sg.n.)"
+    }
+   ],
+   "question": "What proportional sizes are permitted for the front pavilion?",
+   "premises": [
+    "The front pavilion’s size is being specified",
+    "Multiple proportional options are given",
+    "The options are equal, half, or three-quarters"
+   ],
+   "inference": "The front pavilion may be equal to, half of, or three-quarters of the reference measure.",
+   "uncertainties": [
+    "The reference measure for comparison is not explicitly named in this verse"
+   ],
+   "plain_english": "The front pavilion may be equal to that, or half of that, or three-quarters of that."
+  },
+  {
+   "verse": 2117,
+   "rows": [
+    {
+     "surface": "vistārasamatuṅgāḍhyaṃ",
+     "gloss": "equal-in-width-and-height",
+     "grounds": "having breadth and height of equal measure",
+     "morph": "vistāra-sama-tuṅga-āḍhya (compound, acc.sg.n.)"
+    },
+    {
+     "surface": "daṇḍikācūlikānvitam",
+     "gloss": "with-staff-and-crest",
+     "grounds": "equipped with daṇḍikā and cūlikā architectural elements",
+     "morph": "daṇḍikā-cūlikā-anvita (compound, acc.sg.n.)"
+    }
+   ],
+   "question": "What structural features should characterize the front pavilion?",
+   "premises": [
+    "The pavilion’s proportions are described",
+    "Its width and height should be equal",
+    "It should include staff and crest elements"
+   ],
+   "inference": "The front pavilion should have equal width and height and be equipped with staff and crest features.",
+   "uncertainties": [
+    "Exact architectural forms of daṇḍikā and cūlikā are not defined here"
+   ],
+   "plain_english": "It should have equal width and height and be equipped with staff and crest elements."
+  },
+  {
+   "verse": 2118,
+   "rows": [
+    {
+     "surface": "turyāśramaṣṭavṛttaṃ",
+     "gloss": "fourth-part-eight-circular",
+     "grounds": "a form described as fourth-part and eightfold circular",
+     "morph": "turya-aśra-aṣṭa-vṛtta (compound, nom./acc.sg.n.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "in three forms or divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhākṛtiḥ",
+     "gloss": "pedestal-form",
+     "grounds": "the shape of the pedestal",
+     "morph": "pīṭha-ākṛti (compound, nom.sg.f.)"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "recognized as valid",
+     "morph": "nom.sg.f. past-passive-participle (man)"
+    }
+   ],
+   "question": "What forms are considered valid for the pedestal’s shape?",
+   "premises": [
+    "The pedestal form is under discussion",
+    "Alternative shapes are given",
+    "The form is considered threefold or of a specified circular type"
+   ],
+   "inference": "The pedestal form is considered to be of a specified circular type or threefold.",
+   "uncertainties": [
+    "The precise meaning of turyāśramaṣṭavṛttaṃ is technically compressed"
+   ],
+   "plain_english": "The pedestal form is considered to be of that circular type or threefold."
+  },
+  {
+   "verse": 2119,
+   "rows": [
+    {
+     "surface": "iṣṭakābhiḥ",
+     "gloss": "with-bricks",
+     "grounds": "bricks as construction material",
+     "morph": "inst.pl.f."
+    },
+    {
+     "surface": "supakvābhiḥ",
+     "gloss": "with-well-fired",
+     "grounds": "properly baked or fired",
+     "morph": "su-pakva (compound, inst.pl.f.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "linga",
+     "grounds": "the linga to be made",
+     "morph": "nom.sg.n."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act (as)"
+    },
+    {
+     "surface": "sudhayā",
+     "gloss": "with-plaster",
+     "grounds": "lime plaster or binding material",
+     "morph": "inst.sg.f."
+    },
+    {
+     "surface": "mṛdā",
+     "gloss": "with-clay",
+     "grounds": "clay as material",
+     "morph": "inst.sg.f."
+    }
+   ],
+   "question": "What materials may be used to construct the linga?",
+   "premises": [
+    "The linga’s construction materials are specified",
+    "Well-fired bricks are permitted",
+    "Plaster and clay are also permitted"
+   ],
+   "inference": "The linga may be made with well-fired bricks, plaster, or clay.",
+   "uncertainties": [
+    "Whether materials are used together or as alternatives is not fully explicit"
+   ],
+   "plain_english": "The linga may be made with well-fired bricks, with plaster, or with clay."
+  },
+  {
+   "verse": 2120,
+   "rows": [
+    {
+     "surface": "prāgeva",
+     "gloss": "beforehand-indeed",
+     "grounds": "prior to the main act; eva emphasizes precedence",
+     "morph": "prāk + eva (indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the rite to be performed",
+     "morph": "acc.sg.n."
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-rite",
+     "grounds": "according to prescribed procedure",
+     "morph": "inst.sg.m."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkurārpaṇam",
+     "gloss": "sprout-offering",
+     "grounds": "the ritual offering of sprouts",
+     "morph": "aṅkura-arpaṇa (compound, acc.sg.n.)"
+    }
+   ],
+   "question": "What preliminary ritual must the wise practitioner perform beforehand?",
+   "premises": [
+    "A preliminary action is required",
+    "The wise practitioner must perform it",
+    "The rite is the sprout offering done according to rule"
+   ],
+   "inference": "The wise practitioner should beforehand perform the sprout-offering rite according to the prescribed procedure.",
+   "uncertainties": [],
+   "plain_english": "The wise one should beforehand perform the sprout-offering according to the prescribed rite."
+  },
+  {
+   "verse": 2121,
+   "rows": [
+    {
+     "surface": "daśarandhrāṣṭahastairvā",
+     "gloss": "by-ten-or-eight-hands-or",
+     "grounds": "measure of ten or eight hastas; vā fused in token",
+     "morph": "daśa-randhra-aṣṭa-hasta (compound, inst.pl.m.) + vā (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapaḥ",
+     "gloss": "pavilion",
+     "grounds": "the ritual pavilion",
+     "morph": "nom.sg.m."
+    },
+    {
+     "surface": "saptahastataḥ",
+     "gloss": "from-seven-hands",
+     "grounds": "a measure of seven hastas",
+     "morph": "sapta-hasta (compound, abl.sg.m. + -tas)"
+    }
+   ],
+   "question": "What size options are prescribed for the ritual pavilion?",
+   "premises": [
+    "The pavilion’s size is being specified",
+    "Multiple hand-based measures are given",
+    "The options include ten, eight, or seven hastas"
+   ],
+   "inference": "The pavilion may measure ten, eight, or seven hastas.",
+   "uncertainties": [
+    "The expression daśarandhra as ten is interpretive based on numeric convention"
+   ],
+   "plain_english": "The pavilion may be ten or eight hastas, or seven hastas in measure."
+  },
+  {
+   "verse": 2122,
+   "rows": [
+    {
+     "surface": "paṅktitrayasamāyuktaṃ",
+     "gloss": "with-three-rows",
+     "grounds": "equipped with three lines or rows",
+     "morph": "paṅkti-traya-samāyukta (compound, acc.sg.n.)"
+    },
+    {
+     "surface": "caturaśraṃ",
+     "gloss": "square",
+     "grounds": "having four sides or corners",
+     "morph": "acc.sg.n."
+    },
+    {
+     "surface": "satoraṇam",
+     "gloss": "with-archways",
+     "grounds": "provided with toraṇas",
+     "morph": "sa-toraṇa (compound, acc.sg.n.)"
+    }
+   ],
+   "question": "What layout features must the ritual pavilion possess?",
+   "premises": [
+    "The pavilion’s form is described",
+    "It should have three rows",
+    "It should be square and have archways"
+   ],
+   "inference": "The pavilion should be square, have three rows, and be equipped with archways.",
+   "uncertainties": [
+    "The arrangement of the three rows is not specified"
+   ],
+   "plain_english": "It should be square, equipped with three rows, and furnished with archways."
+  },
+  {
+   "verse": 2123,
+   "rows": [
+    {
+     "surface": "madhyāṃśe",
+     "gloss": "in-middle-part",
+     "grounds": "in the central section",
+     "morph": "madhya-aṃśa (compound, loc.sg.m.)"
+    },
+    {
+     "surface": "vedikāṃ",
+     "gloss": "altar",
+     "grounds": "the raised ritual platform",
+     "morph": "acc.sg.f."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the altar or its measure",
+     "morph": "acc.sg.n."
+    },
+    {
+     "surface": "caturthāṃśakonnatam",
+     "gloss": "raised-by-fourth-part",
+     "grounds": "elevated by one fourth of the measure",
+     "morph": "caturtha-aṃśaka-unnata (compound, acc.sg.n.)"
+    }
+   ],
+   "question": "Where and how high should the altar be constructed in the pavilion?",
+   "premises": [
+    "The altar is to be made in the middle part",
+    "Its height is specified proportionally",
+    "The elevation is one fourth part"
+   ],
+   "inference": "An altar should be made in the middle part, raised by one fourth of the measure.",
+   "uncertainties": [
+    "The base measure for the fourth part is not explicitly stated"
+   ],
+   "plain_english": "In the middle part one should make an altar raised by one fourth."
+  },
+  {
+   "verse": 2124,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "refers to the altar",
+     "morph": "gen.sg.f."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "on all sides",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "in-eight-directions",
+     "grounds": "in the eight cardinal and intermediate directions",
+     "morph": "aṣṭa-diś (compound, loc.pl.f.)"
+    },
+    {
+     "surface": "kuṇḍāni",
+     "gloss": "fire-pits",
+     "grounds": "ritual fire receptacles",
+     "morph": "acc.pl.n."
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "prescriptive arrangement",
+     "morph": "3.sg.opt.act (kḷp)"
+    }
+   ],
+   "question": "Where should the ritual fire pits be arranged relative to the altar?",
+   "premises": [
+    "The altar is the central reference",
+    "Fire pits are to be arranged around it",
+    "They should be placed in the eight directions"
+   ],
+   "inference": "Fire pits should be arranged around the altar in the eight directions.",
+   "uncertainties": [],
+   "plain_english": "Around that altar, one should arrange fire pits in the eight directions."
+  }
+ ]
+}

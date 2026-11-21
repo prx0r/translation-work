@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "yuvā",
+     "gloss": "youth",
+     "grounds": "masculine nominative singular descriptor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prauḍhaḥ",
+     "gloss": "mature",
+     "grounds": "masculine nominative singular descriptor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catvāriṃśallipiḥ",
+     "gloss": "forty-syllabled",
+     "grounds": "compound adjective in masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the forty-syllabled mantra described as both youthful and mature?",
+   "premises": [
+    "youth qualifies the mantra",
+    "maturity qualifies the mantra",
+    "forty syllables qualify the mantra",
+    "manuḥ names the mantra"
+   ],
+   "inference": "The verse presents a mantra characterized as youthful, mature, and forty-syllabled.",
+   "uncertainties": [
+    "The exact doctrinal relation among the three descriptors is not explicit in this verse."
+   ],
+   "plain_english": "A youthful, mature, forty-syllabled mantra."
+  }
+ ]
+}

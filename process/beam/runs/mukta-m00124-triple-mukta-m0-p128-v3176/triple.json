@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3176,
+   "rows": [
+    {
+     "surface": "etanmaṇimaye",
+     "gloss": "in-this-jewel-made",
+     "grounds": "compound surface kept fused",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bāṇādau",
+     "gloss": "in-arrow-etc",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-establish",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should a jewel-made liṅga be established among arrow and other forms?",
+   "premises": [
+    "jewel-made liṅga is named",
+    "arrow and related forms are alternatives",
+    "establishment is prescribed"
+   ],
+   "inference": "The verse directs establishment of a jewel-made liṅga in arrow and related forms.",
+   "uncertainties": [
+    "exact scope of bāṇādau"
+   ],
+   "plain_english": "In this jewel-made liṅga, or in arrow and related forms, one should establish it."
+  },
+  {
+   "verse": 3177,
+   "rows": [
+    {
+     "surface": "pañcāśatkaraparyantaṃ",
+     "gloss": "fifty-hands-limit",
+     "grounds": "compound limit",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "navaliṅgeṣu",
+     "gloss": "in-nine-liṅgas",
+     "grounds": "locative plural",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "ablative/instrumental sense",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What is the ordered limit for nine liṅgas?",
+   "premises": [
+    "limit is fifty hands",
+    "nine liṅgas are named",
+    "order is specified"
+   ],
+   "inference": "The nine liṅgas are arranged in order up to a fifty-hand limit.",
+   "uncertainties": [
+    "whether hands measure size"
+   ],
+   "plain_english": "Up to a fifty-hand limit, the nine liṅgas are arranged in order."
+  },
+  {
+   "verse": 3178,
+   "rows": [
+    {
+     "surface": "liṅgavat",
+     "gloss": "like-liṅga",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pedestal",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "anyena",
+     "gloss": "by-another",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "saikena",
+     "gloss": "with-one",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "trayamantaram",
+     "gloss": "three-interval",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is a pedestal like a liṅga spaced by another and one?",
+   "premises": [
+    "pedestal is compared to liṅga",
+    "another and one are measures",
+    "three-interval spacing is named"
+   ],
+   "inference": "The pedestal is treated like a liṅga with a three-interval spacing using another and one.",
+   "uncertainties": [
+    "exact measurement convention"
+   ],
+   "plain_english": "Like a liṅga, the pedestal has a three-interval spacing by another and one."
+  },
+  {
+   "verse": 3179,
+   "rows": [
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śilāsu",
+     "gloss": "on-stones",
+     "grounds": "locative plural",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krodhe",
+     "gloss": "in-anger",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhittipañcāṃśavarjitāḥ",
+     "gloss": "wall-five-parts-excepted",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Which wall parts are excepted in liṅga and stone anger contexts?",
+   "premises": [
+    "liṅga and stones are named",
+    "anger is named",
+    "wall five parts are excepted"
+   ],
+   "inference": "In liṅga and stone contexts, anger excludes five wall parts.",
+   "uncertainties": [
+    "whether krodhe is ritual anger"
+   ],
+   "plain_english": "In liṅga and on stones, anger excludes five wall parts."
+  },
+  {
+   "verse": 3180,
+   "rows": [
+    {
+     "surface": "talastambhottarāḥ",
+     "gloss": "pillar-top-above",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sarvasāmānyāḥ",
+     "gloss": "all-common",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What is declared common above pillar top?",
+   "premises": [
+    "pillar-top-above is named",
+    "all-common is named",
+    "declared is stated"
+   ],
+   "inference": "The forms above pillar top are declared common to all.",
+   "uncertainties": [
+    "exact architectural referent"
+   ],
+   "plain_english": "Those above the pillar top are declared common to all."
+  },
+  {
+   "verse": 3181,
+   "rows": [
+    {
+     "surface": "ācchāditā",
+     "gloss": "covered",
+     "grounds": "participle",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prapā",
+     "gloss": "canopy",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prastaraṃ",
+     "gloss": "slab",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapaḥ",
+     "gloss": "pavilion",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What covered canopy and slab are named here as pavilion?",
+   "premises": [
+    "covered canopy is named",
+    "slab is named",
+    "pavilion is named here"
+   ],
+   "inference": "Here the covered canopy and slab are named as pavilion.",
+   "uncertainties": [
+    "whether prapā is canopy or water shed"
+   ],
+   "plain_english": "Here the covered canopy and slab are called a pavilion."
+  },
+  {
+   "verse": 3182,
+   "rows": [
+    {
+     "surface": "anekabhūmiyuktā",
+     "gloss": "many-floors-endowed",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālākārā",
+     "gloss": "garland-maker",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mālikā",
+     "gloss": "garland",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "How are many-floored and garland-maker forms distinguished?",
+   "premises": [
+    "many-floors-endowed is named",
+    "garland-maker is named",
+    "garland is named"
+   ],
+   "inference": "The verse distinguishes a many-floored form and a garland-maker garland.",
+   "uncertainties": [
+    "exact architectural class"
+   ],
+   "plain_english": "A many-floored form and a garland-maker garland are distinguished."
+  },
+  {
+   "verse": 3183,
+   "rows": [
+    {
+     "surface": "nāsikāmukhyapaṭyaṃśā",
+     "gloss": "nose-chief-paṭyaṃśa",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "śālā",
+     "gloss": "hall",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What nose-chief paṭyaṃśa halls are declared?",
+   "premises": [
+    "nose-chief-paṭyaṃśa is named",
+    "hall is named",
+    "declared is stated"
+   ],
+   "inference": "Halls called nose-chief paṭyaṃśa are declared.",
+   "uncertainties": [
+    "meaning of paṭyaṃśa"
+   ],
+   "plain_english": "Halls called nose-chief paṭyaṃśa are declared."
+  },
+  {
+   "verse": 3184,
+   "rows": [
+    {
+     "surface": "andhāryāndhārihāroktakhaṇḍaharmyaviśeṣitam",
+     "gloss": "darkness-removing-garland-described-segment-mansion-special",
+     "grounds": "long compound kept fused",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What mansion special is described by darkness-removing garland segment?",
+   "premises": [
+    "darkness-removing garland is named",
+    "segment is named",
+    "mansion special is named"
+   ],
+   "inference": "A mansion special is described by a darkness-removing garland segment.",
+   "uncertainties": [
+    "exact compound segmentation"
+   ],
+   "plain_english": "A mansion special is described by a darkness-removing garland segment."
+  },
+  {
+   "verse": 3185,
+   "rows": [
+    {
+     "surface": "hastipṛṣṭhayutaṃ",
+     "gloss": "elephant-back-endowed",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "endraśālābhiśca",
+     "gloss": "with-indra-halls",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.f"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "participle",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is elephant-back-endowed and accompanied by indra halls?",
+   "premises": [
+    "elephant-back-endowed is named",
+    "indra halls are named",
+    "accompanied is stated"
+   ],
+   "inference": "The form is elephant-back-endowed and accompanied by indra halls.",
+   "uncertainties": [
+    "exact architectural form"
+   ],
+   "plain_english": "It is elephant-back-endowed and accompanied by indra halls."
+  },
+  {
+   "verse": 3186,
+   "rows": [
+    {
+     "surface": "brahmadvārapatākādyairaṅgairyuktaṃ",
+     "gloss": "with-brahma-gate-banner-etc-limbs",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vimānakam",
+     "gloss": "vimāna",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What vimāna is endowed with brahma gate banner and limbs?",
+   "premises": [
+    "brahma gate banner etc limbs are named",
+    "vimāna is named",
+    "endowed is stated"
+   ],
+   "inference": "The vimāna is endowed with brahma gate, banner, and limbs.",
+   "uncertainties": [
+    "exact limb list"
+   ],
+   "plain_english": "The vimāna is endowed with brahma gate, banner, and limbs."
+  },
+  {
+   "verse": 3187,
+   "rows": [
+    {
+     "surface": "mūlakūṭasamāyuktā",
+     "gloss": "root-peak-endowed",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bālakūṭasamanvitā",
+     "gloss": "child-peak-endowed",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What is endowed with root peak and child peak?",
+   "premises": [
+    "root-peak-endowed is named",
+    "child-peak-endowed is named"
+   ],
+   "inference": "The form is endowed with both root peak and child peak.",
+   "uncertainties": [
+    "exact peak relation"
+   ],
+   "plain_english": "It is endowed with root peak and child peak."
+  },
+  {
+   "verse": 3188,
+   "rows": [
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vastumukhyaṃ",
+     "gloss": "principal-substance",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "gauṇamanyat",
+     "gloss": "secondary-other",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What principal and secondary substances may be declared?",
+   "premises": [
+    "various principal substance may be",
+    "secondary other is named",
+    "declared is stated"
+   ],
+   "inference": "Various principal substance may be, while secondary other is declared.",
+   "uncertainties": [
+    "exact substance categories"
+   ],
+   "plain_english": "Various principal substance may be, and secondary other is declared."
+  },
+  {
+   "verse": 3189,
+   "rows": [
+    {
+     "surface": "aindre",
+     "gloss": "in-indra-or",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cottare",
+     "gloss": "in-north",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "caiśe",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prapā",
+     "gloss": "canopy",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Where may peak, pavilion, or canopy be placed?",
+   "premises": [
+    "indra or north or aiśa are named",
+    "peak pavilion canopy are named",
+    "alternatives are stated"
+   ],
+   "inference": "Peak, pavilion, or canopy may be in indra, north, or aiśa directions.",
+   "uncertainties": [
+    "whether caiśe means aiśa direction"
+   ],
+   "plain_english": "Peak, pavilion, or canopy may be in indra, north, or aiśa directions."
+  },
+  {
+   "verse": 3190,
+   "rows": [
+    {
+     "surface": "darbhamālāsamāyuktāṃ",
+     "gloss": "darbha-garland-endowed",
+     "grounds": "compound",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "diggajaiśca",
+     "gloss": "with-dig-gajas",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "participle",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is darbha-garland-endowed and accompanied by dig-gajas?",
+   "premises": [
+    "darbha garland endowed is named",
+    "dig gajas are named",
+    "accompanied is stated"
+   ],
+   "inference": "The form is darbha-garland-endowed and accompanied by dig-gajas.",
+   "uncertainties": [
+    "exact dig-gaja role"
+   ],
+   "plain_english": "It is darbha-garland-endowed and accompanied by dig-gajas."
+  },
+  {
+   "verse": 3191,
+   "rows": [
+    {
+     "surface": "ekahastaṃ",
+     "gloss": "one-hand",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dvihastaṃ",
+     "gloss": "two-hand",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muṣṭimātrasamanvitam",
+     "gloss": "fist-measure-endowed",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What hand and fist measures are alternatives?",
+   "premises": [
+    "one-hand is named",
+    "two-hand is named",
+    "fist-measure is named"
+   ],
+   "inference": "The measures are one hand, two hands, or fist measure.",
+   "uncertainties": [
+    "what object is measured"
+   ],
+   "plain_english": "The measures are one hand, two hands, or fist measure."
+  },
+  {
+   "verse": 3192,
+   "rows": [
+    {
+     "surface": "pañcavācaikakuṇḍaṃ",
+     "gloss": "five-vāca-one-kuṇḍa",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What five-vāca one-kuṇḍa round or square forms are alternatives?",
+   "premises": [
+    "five-vāca one-kuṇḍa is named",
+    "round is named",
+    "square is named"
+   ],
+   "inference": "The alternatives are five-vāca one-kuṇḍa, round, or square.",
+   "uncertainties": [
+    "exact kuṇḍa context"
+   ],
+   "plain_english": "The alternatives are five-vāca one-kuṇḍa, round, or square."
+  },
+  {
+   "verse": 3193,
+   "rows": [
+    {
+     "surface": "pañcagavyena",
+     "gloss": "with-five-cow-products",
+     "grounds": "instrumental",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "saṃprokṣya",
+     "gloss": "sprinkling",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "hṛdayenānumantrataḥ",
+     "gloss": "by-heart",
+     "grounds": "compound",
+     "morph": "inst.sg.n"
+    }
+   ],
+   "question": "How is sprinkling done with five cow products by heart?",
+   "premises": [
+    "five cow products are named",
+    "sprinkling is named",
+    "heart mantra is named"
+   ],
+   "inference": "Sprinkling is done with five cow products by heart mantra.",
+   "uncertainties": [
+    "exact mantra procedure"
+   ],
+   "plain_english": "Sprinkle with five cow products by heart mantra."
+  },
+  {
+   "verse": 3194,
+   "rows": [
+    {
+     "surface": "aṣṭatriṃśāṅgulāntāstu",
+     "gloss": "thirty-eight-angula-limit",
+     "grounds": "compound",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "ceṣṭakā",
+     "gloss": "bricks",
+     "grounds": "nominative",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "vistarā",
+     "gloss": "width",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "participle",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "What brick width is considered thirty-eight angulas?",
+   "premises": [
+    "thirty-eight angula limit is named",
+    "bricks are named",
+    "width is named"
+   ],
+   "inference": "Bricks are considered to have a width of thirty-eight angulas.",
+   "uncertainties": [
+    "whether limit is maximum"
+   ],
+   "plain_english": "Bricks are considered thirty-eight angulas in width."
+  },
+  {
+   "verse": 3195,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistarastāsāṃ",
+     "gloss": "width",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pādavyāsaṃ",
+     "gloss": "foot-diameter",
+     "grounds": "compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "mahālaye",
+     "gloss": "in-great-shrine",
+     "grounds": "locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What width or foot diameter applies in great shrine?",
+   "premises": [
+    "or is stated",
+    "width is named",
+    "foot diameter is named",
+    "great shrine is named"
+   ],
+   "inference": "In a great shrine, width or foot diameter is specified.",
+   "uncertainties": [
+    "exact measurement relation"
+   ],
+   "plain_english": "In a great shrine, width or foot diameter is specified."
+  },
+  {
+   "verse": 3196,
+   "rows": [
+    {
+     "surface": "iṣṭakāyā",
+     "gloss": "brick",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "stated",
+     "grounds": "participle",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "vistārārdhaṃ",
+     "gloss": "width-half",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tripādakam",
+     "gloss": "three-footed",
+     "grounds": "compound",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What brick width half and three-footed measure is stated here?",
+   "premises": [
+    "brick is named",
+    "here is named",
+    "stated is named",
+    "width half is named",
+    "three-footed is named"
+   ],
+   "inference": "Here the brick width half and three-footed measure are stated.",
+   "uncertainties": [
+    "exact arithmetic"
+   ],
+   "plain_english": "Here the brick width half and three-footed measure are stated."
+  },
+  {
+   "verse": 3197,
+   "rows": [
+    {
+     "surface": "ācārya",
+     "gloss": "teacher",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ādiśaivastu",
+     "gloss": "ādi-śaiva",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śivadīkṣāsamanvitaḥ",
+     "gloss": "with-śiva-initiation",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What teacher is ādi-śaiva with śiva initiation?",
+   "premises": [
+    "teacher is named",
+    "ādi-śaiva is named",
+    "śiva initiation is named"
+   ],
+   "inference": "The teacher is ādi-śaiva and endowed with śiva initiation.",
+   "uncertainties": [
+    "grade distinctions"
+   ],
+   "plain_english": "The teacher is ādi-śaiva and endowed with śiva initiation."
+  },
+  {
+   "verse": 3198,
+   "rows": [
+    {
+     "surface": "suśuklavastraḥ",
+     "gloss": "very-white-garment",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "soṣṇīṣaḥ",
+     "gloss": "with-turban",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sottarīyaḥ",
+     "gloss": "with-upper-garment",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "subhūṣitaḥ",
+     "gloss": "well-adorned",
+     "grounds": "compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What well-adorned figure wears white garment turban and upper garment?",
+   "premises": [
+    "very white garment is named",
+    "turban is named",
+    "upper garment is named",
+    "well adorned is named"
+   ],
+   "inference": "The figure is well adorned with white garment, turban, and upper garment.",
+   "uncertainties": [
+    "ritual role"
+   ],
+   "plain_english": "The figure is well adorned with white garment, turban, and upper garment."
+  },
+  {
+   "verse": 3199,
+   "rows": [
+    {
+     "surface": "iṣṭakāḥ",
+     "gloss": "bricks",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "pañjagavyaiśca",
+     "gloss": "with-five-cow-products",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "kṣālayedvarmaṇā",
+     "gloss": "wash",
+     "grounds": "verb with instrumental",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How does guru wash bricks with five cow products?",
+   "premises": [
+    "bricks are named",
+    "five cow products are named",
+    "wash is named",
+    "guru is named"
+   ],
+   "inference": "The guru washes bricks with five cow products.",
+   "uncertainties": [
+    "exact washing rite"
+   ],
+   "plain_english": "The guru washes bricks with five cow products."
+  }
+ ]
+}

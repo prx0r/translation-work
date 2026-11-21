@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3600,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun referring to the previously described ritual acts",
+     "morph": "pron.instr.sg.n"
+    },
+    {
+     "surface": "viddhān",
+     "gloss": "those-struck",
+     "grounds": "persons affected or targeted by the ritual procedure",
+     "morph": "ppp.acc.pl.m (√vyadh)"
+    },
+    {
+     "surface": "bhavet+siddho",
+     "gloss": "becomes-accomplished",
+     "grounds": "fused form expressing attainment of accomplishment; internal sandhi noted",
+     "morph": "verb.3.sg.opt.act (√bhū) + adj.nom.sg.m"
+    },
+    {
+     "surface": "nṛpatiṃ",
+     "gloss": "king",
+     "grounds": "object made into a worshipper",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurute+arcakam",
+     "gloss": "makes-worshipper",
+     "grounds": "fused form expressing causing the king to become a worshipper; internal sandhi noted",
+     "morph": "verb.3.sg.pres.mid (√kṛ) + m.acc.sg"
+    }
+   ],
+   "question": "What accomplishment and influence over the king result from performing this ritual procedure?",
+   "premises": [
+    "The previously described ritual acts serve as the effective means.",
+    "Through that procedure the practitioner becomes accomplished.",
+    "Through that procedure the practitioner makes the king a worshipper."
+   ],
+   "inference": "Therefore, the completed ritual yields both personal accomplishment and the power to bring the king into worship.",
+   "uncertainties": [
+    "The exact sense of viddhān as 'those struck' or otherwise affected is contextually inferred."
+   ],
+   "plain_english": "By that procedure one becomes accomplished and makes the king a worshipper."
+  }
+ ]
+}

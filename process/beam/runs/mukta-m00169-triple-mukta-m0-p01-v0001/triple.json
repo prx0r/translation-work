@@ -1,0 +1,1051 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "absolutive of pra-ṇam",
+     "morph": "absolutive (pra-ṇam)"
+    },
+    {
+     "surface": "śirasā",
+     "gloss": "with-head",
+     "grounds": "instrument of bowing",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject, Gaurī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaurī",
+     "gloss": "gaurī",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pṛcchati",
+     "gloss": "asks",
+     "grounds": "main verb",
+     "morph": "3.sg.pres.act (praś)"
+    },
+    {
+     "surface": "śaṅkaram",
+     "gloss": "śaṅkara",
+     "grounds": "object of asking",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What inquiry does Goddess Gaurī make to Śaṅkara after bowing?",
+   "premises": [
+    "Goddess Gaurī bows with her head",
+    "Gaurī addresses Śaṅkara directly",
+    "Gaurī initiates a question"
+   ],
+   "inference": "Gaurī respectfully approaches Śaṅkara to seek instruction.",
+   "uncertainties": [],
+   "plain_english": "Having bowed with her head, the goddess Gaurī asks Śaṅkara."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "prasādaṃ",
+     "gloss": "favor",
+     "grounds": "object of request",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (kṛ)"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "vocative address to Śaṅkara",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "brūhi",
+     "gloss": "tell",
+     "grounds": "imperative request for teaching",
+     "morph": "2.sg.imp.act (brū)"
+    },
+    {
+     "surface": "dharmārthasādhakam",
+     "gloss": "duty-wealth-accomplishing",
+     "grounds": "describes what is to be told; compound dharma+artha+sādhaka",
+     "morph": "n.acc.sg (dharma+artha+sādhaka)"
+    }
+   ],
+   "question": "What kind of teaching does Gaurī request from the lord of gods?",
+   "premises": [
+    "Gaurī asks for favor",
+    "Gaurī addresses Śaṅkara as lord of gods",
+    "Gaurī requests instruction accomplishing duty and wealth"
+   ],
+   "inference": "Gaurī seeks a gracious teaching that accomplishes dharma and artha.",
+   "uncertainties": [],
+   "plain_english": "Grant your favor, lord of gods, and tell me that which accomplishes dharma and wealth."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "śāntikaṃ",
+     "gloss": "pacifying",
+     "grounds": "type of rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pauṣṭikaṃ",
+     "gloss": "nourishing",
+     "grounds": "type of rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-also",
+     "grounds": "connective particle; vā+atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇāni",
+     "gloss": "rites",
+     "grounds": "object of inquiry",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "bahūni",
+     "gloss": "many",
+     "grounds": "qualifies rites",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which kinds of ritual practices does Gaurī ask Śaṅkara to explain?",
+   "premises": [
+    "Pacifying rites are mentioned",
+    "Nourishing rites are mentioned",
+    "Many rites are requested"
+   ],
+   "inference": "Gaurī requests instruction on various rites including pacifying and nourishing ones.",
+   "uncertainties": [],
+   "plain_english": "Tell me of pacifying and nourishing rites, and many other practices."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "jñānahāniṃ",
+     "gloss": "knowledge-loss",
+     "grounds": "object of inquiry; compound jñāna+hāni",
+     "morph": "f.acc.sg (jñāna+hāni)"
+    },
+    {
+     "surface": "kriyāhāniṃ",
+     "gloss": "action-loss",
+     "grounds": "object of inquiry; compound kriyā+hāni",
+     "morph": "f.acc.sg (kriyā+hāni)"
+    },
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "obstruction",
+     "grounds": "object of inquiry",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāparam",
+     "gloss": "likewise-other",
+     "grounds": "additional matter; compound tathā+apara",
+     "morph": "n.acc.sg (tathā+apara)"
+    }
+   ],
+   "question": "What impairments and obstructions does Gaurī want Śaṅkara to address?",
+   "premises": [
+    "Loss of knowledge is named",
+    "Loss of action is named",
+    "Obstruction and other matters are included"
+   ],
+   "inference": "Gaurī seeks knowledge about losses, obstructions, and related issues.",
+   "uncertainties": [],
+   "plain_english": "Tell me of the loss of knowledge, the loss of action, obstruction, and likewise other matters."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "mantradhyānaṃ",
+     "gloss": "mantra-meditation",
+     "grounds": "object of request; compound mantra+dhyāna",
+     "morph": "n.acc.sg (mantra+dhyāna)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasizes request",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "that-all",
+     "grounds": "refers to all requested topics; compound tat+sarva",
+     "morph": "n.acc.sg (tat+sarva)"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (vad)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What comprehensive instruction does Gaurī especially request from the lord?",
+   "premises": [
+    "Mantra meditation is specifically requested",
+    "All previously mentioned topics are included",
+    "Gaurī directly asks the lord to speak"
+   ],
+   "inference": "Gaurī asks the lord to explain mantra meditation and all the requested matters.",
+   "uncertainties": [],
+   "plain_english": "Especially tell me, lord, about mantra meditation and all of that."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-which",
+     "grounds": "relative pronoun referring to knowledge",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vijñānamātreṇa",
+     "gloss": "knowledge-mere",
+     "grounds": "instrumental cause; compound vijñāna+mātra",
+     "morph": "n.ins.sg (vijñāna+mātra)"
+    },
+    {
+     "surface": "manuṣyo",
+     "gloss": "human",
+     "grounds": "subject who becomes rare",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "predicate describing the human",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What effect does mere knowledge of this teaching have on a human being?",
+   "premises": [
+    "The teaching is referred to by a relative pronoun",
+    "Mere knowledge of it is sufficient",
+    "A human becomes rare on earth through it"
+   ],
+   "inference": "By merely knowing this teaching, a human becomes rare on earth.",
+   "uncertainties": [],
+   "plain_english": "By the mere knowledge of which a human becomes rare on earth."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "tadvadiṣyāmi",
+     "gloss": "that-will-tell",
+     "grounds": "promise to teach; compound tat+vadiṣyāmi",
+     "morph": "1.sg.fut.act (tat+vad)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "that-all",
+     "grounds": "content to be declared; compound tat+sarva",
+     "morph": "n.acc.sg (tat+sarva)"
+    },
+    {
+     "surface": "samudāhṛtam",
+     "gloss": "declared",
+     "grounds": "describes the teaching as stated",
+     "morph": "n.acc.sg (past-participle sam-ud-ā-hṛ)"
+    }
+   ],
+   "question": "How does Śaṅkara respond to Gaurī’s request for comprehensive instruction?",
+   "premises": [
+    "Śaṅkara promises to tell Gaurī",
+    "The content is all that was asked",
+    "The teaching is presented as declared"
+   ],
+   "inference": "Śaṅkara agrees to declare all the requested teachings to Gaurī.",
+   "uncertainties": [],
+   "plain_english": "I will tell you, goddess, all that has been declared."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "uḍḍīśāt",
+     "gloss": "from-uḍḍīśa",
+     "grounds": "source of the teaching",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sāramākṛṣya",
+     "gloss": "essence-having-drawn",
+     "grounds": "absolutive describing extraction; compound sāra+ākṛṣya",
+     "morph": "absolutive (sāra+ā-kṛṣ)"
+    },
+    {
+     "surface": "mayoktaṃ",
+     "gloss": "by-me-spoken",
+     "grounds": "statement of authorship; sandhi mayā+uktam",
+     "morph": "n.nom.sg (past-participle mayā+vac)"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessive referring to devotion",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "out-of-devotion",
+     "grounds": "reason for speaking",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what source and for what reason does Śaṅkara present this teaching?",
+   "premises": [
+    "The essence is drawn from Uḍḍīśa",
+    "Śaṅkara speaks the teaching",
+    "The teaching is given because of Gaurī’s devotion"
+   ],
+   "inference": "Śaṅkara conveys the essence drawn from Uḍḍīśa out of devotion to Gaurī.",
+   "uncertainties": [],
+   "plain_english": "Having drawn the essence from Uḍḍīśa, I have spoken it to you out of devotion."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "kapardinaṃ",
+     "gloss": "kapardin",
+     "grounds": "name or form invoked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "virūpākṣaṃ",
+     "gloss": "virūpākṣa",
+     "grounds": "name or form invoked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvabhūtabhayāpaham",
+     "gloss": "all-beings-fear-removing",
+     "grounds": "descriptive epithet; compound sarva+bhūta+bhaya+apaha",
+     "morph": "m.acc.sg (sarva+bhūta+bhaya+apaha)"
+    }
+   ],
+   "question": "Which divine forms are invoked as removers of fear for all beings?",
+   "premises": [
+    "Kapardin is named",
+    "Virūpākṣa is named",
+    "The invoked form removes fear of all beings"
+   ],
+   "inference": "Kapardin and Virūpākṣa are invoked as powers that remove fear from all beings.",
+   "uncertainties": [],
+   "plain_english": "Kapardin, Virūpākṣa, the remover of fear from all beings."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "taistu",
+     "gloss": "by-those-indeed",
+     "grounds": "instrumental agents; sandhi taiḥ+tu",
+     "morph": "pron.ins.pl (taiḥ+tu)"
+    },
+    {
+     "surface": "prayojitaiḥ",
+     "gloss": "employed",
+     "grounds": "describes agents as applied",
+     "morph": "m.ins.pl (past-participle pra-yuj)"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "time of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāṇān",
+     "gloss": "life-breaths",
+     "grounds": "object destroyed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "kills",
+     "grounds": "main verb",
+     "morph": "3.sg.pres.act (han)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation in fixed phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "asserts certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What lethal effect is claimed when these powers are properly employed?",
+   "premises": [
+    "The powers are employed as agents",
+    "They immediately destroy life-breaths",
+    "The result is stated without doubt"
+   ],
+   "inference": "When employed, these powers immediately kill, without doubt.",
+   "uncertainties": [],
+   "plain_english": "When these are employed, they immediately destroy the life-breaths; there is no doubt."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal item in list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dveṣaṇaṃ",
+     "gloss": "causing-hatred",
+     "grounds": "name of practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cātha",
+     "gloss": "and-then",
+     "grounds": "connective; sandhi ca+atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "turyam",
+     "gloss": "fourth",
+     "grounds": "ordinal item in list",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "eradication",
+     "grounds": "name of practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which third and fourth ritual operations are enumerated in this sequence?",
+   "premises": [
+    "A third operation is named",
+    "A fourth operation is named",
+    "The operations are causing hatred and eradication"
+   ],
+   "inference": "The third operation is causing hatred and the fourth is eradication.",
+   "uncertainties": [],
+   "plain_english": "The third is causing hatred, and likewise the fourth is eradication."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "object affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "stambhakaraṃ",
+     "gloss": "paralyzing-making",
+     "grounds": "describes effect; compound stambha+kara",
+     "morph": "n.acc.sg (stambha+kara)"
+    },
+    {
+     "surface": "cātha",
+     "gloss": "and-then",
+     "grounds": "connective; sandhi ca+atha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśīkaraṇamuttamam",
+     "gloss": "subjugation-supreme",
+     "grounds": "name of practice; compound vaśīkaraṇa+uttama",
+     "morph": "n.acc.sg (vaśīkaraṇa+uttama)"
+    }
+   ],
+   "question": "What additional powers over fire and beings are listed in this teaching?",
+   "premises": [
+    "Paralyzing of fire is mentioned",
+    "Supreme subjugation is mentioned",
+    "Both are presented as further operations"
+   ],
+   "inference": "The teaching includes paralyzing fire and supreme subjugation.",
+   "uncertainties": [],
+   "plain_english": "And then that which paralyzes fire, and supreme subjugation."
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "śivena",
+     "gloss": "by-śiva",
+     "grounds": "agent of teaching",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "told",
+     "grounds": "describes yogas as spoken",
+     "morph": "f.nom.pl (past-participle kath)"
+    },
+    {
+     "surface": "yogā",
+     "gloss": "practices",
+     "grounds": "subject taught",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "uḍḍīśe",
+     "gloss": "in-uḍḍīśa",
+     "grounds": "location or textual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śāstraniścaye",
+     "gloss": "scripture-determination",
+     "grounds": "authoritative context; compound śāstra+niścaya",
+     "morph": "m.loc.sg (śāstra+niścaya)"
+    }
+   ],
+   "question": "Where and by whom were these yogic practices authoritatively declared?",
+   "premises": [
+    "Śiva is the speaker",
+    "The practices are called yogas",
+    "They are declared in Uḍḍīśa as scriptural determination"
+   ],
+   "inference": "Śiva declared these yogas in the authoritative teaching of Uḍḍīśa.",
+   "uncertainties": [
+    "uḍḍīśe may refer to a place or a textual tradition"
+   ],
+   "plain_english": "These practices were told by Śiva in Uḍḍīśa, in the determined scripture."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "bhūtajvarasya",
+     "gloss": "spirit-fever-of",
+     "grounds": "object of causing; compound bhūta+jvara",
+     "morph": "m.gen.sg (bhūta+jvara)"
+    },
+    {
+     "surface": "karaṇam",
+     "gloss": "causing",
+     "grounds": "action named",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astraśastrasya",
+     "gloss": "missile-weapon-of",
+     "grounds": "object of spoiling; compound astra+śastra",
+     "morph": "n.gen.sg (astra+śastra)"
+    },
+    {
+     "surface": "dūṣaṇam",
+     "gloss": "spoiling",
+     "grounds": "action named",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What harmful effects on spirits and weapons are attributed to these practices?",
+   "premises": [
+    "Causing spirit-fever is named",
+    "Spoiling missiles and weapons is named",
+    "Both are presented as operations"
+   ],
+   "inference": "The practices can cause spirit-fever and spoil missiles and weapons.",
+   "uncertainties": [],
+   "plain_english": "The causing of spirit-fever and the spoiling of missiles and weapons."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "vināśaṃ",
+     "gloss": "destruction",
+     "grounds": "action named",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mattakaraṇaṃ",
+     "gloss": "maddening-making",
+     "grounds": "action named; compound matta+karaṇa",
+     "morph": "n.acc.sg (matta+karaṇa)"
+    },
+    {
+     "surface": "gajavājiprakopanam",
+     "gloss": "elephant-horse-enraging",
+     "grounds": "action named; compound gaja+vāji+prakopana",
+     "morph": "n.acc.sg (gaja+vāji+prakopana)"
+    }
+   ],
+   "question": "What destructive and agitating effects on beings are included among these operations?",
+   "premises": [
+    "Destruction is named",
+    "Causing madness is named",
+    "Enraging elephants and horses is named"
+   ],
+   "inference": "The operations include destruction, maddening, and enraging elephants and horses.",
+   "uncertainties": [],
+   "plain_english": "Destruction, causing madness, and enraging elephants and horses."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "vahnervināśanaṃ",
+     "gloss": "of-fire-destruction",
+     "grounds": "action named; sandhi vahneḥ+vināśanam",
+     "morph": "n.acc.sg (vahni+vināśana)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "parṇānāṃ",
+     "gloss": "of-leaves",
+     "grounds": "object affected",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vināśanam",
+     "gloss": "destruction",
+     "grounds": "action named",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What destructive acts involving fire and leaves may a practitioner perform?",
+   "premises": [
+    "Destruction of fire is stated",
+    "An optative injunction is given",
+    "Destruction of leaves is also stated"
+   ],
+   "inference": "One may perform the destruction of fire and indeed the destruction of leaves.",
+   "uncertainties": [],
+   "plain_english": "One should bring about the destruction of fire and indeed the destruction of leaves."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "vetālapādukāsiddhim",
+     "gloss": "vetāla-sandal-attainment",
+     "grounds": "supernatural attainment; compound vetāla+pādukā+siddhi",
+     "morph": "f.acc.sg (vetāla+pādukā+siddhi)"
+    },
+    {
+     "surface": "ulvakājjvalanaṃ",
+     "gloss": "from-meteor-blazing",
+     "grounds": "fiery effect; sandhi ulvakāt+jvalanam",
+     "morph": "n.acc.sg (ulvakā+jvalana)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What supernatural attainments and fiery phenomena are attributed to this knowledge?",
+   "premises": [
+    "Attainment of vetāla sandals is named",
+    "Blazing from a meteor is named",
+    "Both are included as results"
+   ],
+   "inference": "The knowledge yields vetāla-sandal attainment and blazing like a meteor.",
+   "uncertainties": [
+    "ulvakājjvalanaṃ may indicate blazing from or like a meteor"
+   ],
+   "plain_english": "The attainment of vetāla sandals and likewise blazing from a meteor."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "vidyāmantraprayogādīn",
+     "gloss": "knowledge-mantra-applications-etc",
+     "grounds": "applications listed; compound vidyā+mantra+prayoga+ādi",
+     "morph": "m.acc.pl (vidyā+mantra+prayoga+ādi)"
+    },
+    {
+     "surface": "auṣadhāṃśca",
+     "gloss": "herbs-and",
+     "grounds": "additional means; sandhi auṣadhān+ca",
+     "morph": "m.acc.pl (auṣadha+ca)"
+    },
+    {
+     "surface": "ābhicārikān",
+     "gloss": "magical",
+     "grounds": "qualifies herbs or applications",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What kinds of applications and substances are included in these magical operations?",
+   "premises": [
+    "Applications of vidyā and mantra are named",
+    "Herbs are included",
+    "These are characterized as magical"
+   ],
+   "inference": "The operations include vidyā-mantra applications and magical herbs.",
+   "uncertainties": [
+    "ābhicārikān may qualify herbs, applications, or both"
+   ],
+   "plain_english": "Applications of vidyā and mantra and other such things, and magical herbs."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "uḍḍīśaṃ",
+     "gloss": "uḍḍīśa",
+     "grounds": "object of knowing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "verb of knowing",
+     "morph": "3.sg.pres.act (jñā)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative subject",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "ruṣṭaḥ",
+     "gloss": "angry",
+     "grounds": "state of the ignorant one",
+     "morph": "m.nom.sg (past-participle ruṣ)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kariṣyati",
+     "gloss": "will-do",
+     "grounds": "future capability",
+     "morph": "3.sg.fut.act (kṛ)"
+    }
+   ],
+   "question": "What limitation is asserted for someone who lacks knowledge of Uḍḍīśa?",
+   "premises": [
+    "A person may not know Uḍḍīśa",
+    "Such a person may be angry",
+    "Anger without this knowledge is ineffective"
+   ],
+   "inference": "One who does not know Uḍḍīśa can accomplish nothing even in anger.",
+   "uncertainties": [],
+   "plain_english": "He who does not know Uḍḍīśa—what can he do, even if angry?"
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "sūryaṃ",
+     "gloss": "sun",
+     "grounds": "object caused to fall",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātayedbhūmau",
+     "gloss": "may-cause-to-fall-on-earth",
+     "grounds": "potential act; sandhi pātayet+bhūmau",
+     "morph": "3.sg.opt.caus.act+f.loc.sg (pat+bhūmi)"
+    },
+    {
+     "surface": "nedaṃ",
+     "gloss": "not-this",
+     "grounds": "negation of falsehood; sandhi na+idam",
+     "morph": "(indecl.)+pron.nom.sg.n"
+    },
+    {
+     "surface": "mithyā",
+     "gloss": "false",
+     "grounds": "denies falsehood",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "asserts future truth",
+     "morph": "3.sg.fut.act (bhū)"
+    }
+   ],
+   "question": "What extraordinary power is claimed as a true result of this knowledge?",
+   "premises": [
+    "Causing the sun to fall to earth is stated",
+    "The claim is explicitly affirmed",
+    "The statement denies falsehood"
+   ],
+   "inference": "The teaching claims the power to bring down the sun, and asserts this is not false.",
+   "uncertainties": [],
+   "plain_english": "One could even cause the sun to fall to the earth; this will not be false."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "yamasya",
+     "gloss": "of-yama",
+     "grounds": "possessor of staff",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "object of comparison",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuberasya",
+     "gloss": "of-kubera",
+     "grounds": "possessor of mace",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gadā",
+     "gloss": "mace",
+     "grounds": "object of comparison",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparison marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which divine weapons are these practices compared for their force?",
+   "premises": [
+    "Yama’s staff is invoked as comparison",
+    "Kubera’s mace is invoked as comparison",
+    "Comparisons imply great power"
+   ],
+   "inference": "The practices are likened in force to the staff of Yama and the mace of Kubera.",
+   "uncertainties": [],
+   "plain_english": "As is the staff of Yama, and as is the mace of Kubera."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "śūlapāṇinaḥ",
+     "gloss": "of-trident-holder",
+     "grounds": "possessor of trident; compound śūla+pāṇi",
+     "morph": "m.gen.sg (śūla+pāṇi)"
+    }
+   ],
+   "question": "Which additional divine weapon-bearer completes the comparison of power?",
+   "premises": [
+    "The trident-holder is named",
+    "The verse continues the comparison series",
+    "The reference implies formidable power"
+   ],
+   "inference": "The comparison extends to the weapon of the trident-holder.",
+   "uncertainties": [
+    "The compared weapon is implied rather than explicitly named"
+   ],
+   "plain_english": "As is that of the trident-holder."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "tathaite",
+     "gloss": "likewise-these",
+     "grounds": "correlative comparison; sandhi tathā+ete",
+     "morph": "pron.nom.pl.m (tathā+etad)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāyogāḥ",
+     "gloss": "great-practices",
+     "grounds": "subject of comparison; compound mahā+yoga",
+     "morph": "m.nom.pl (mahā+yoga)"
+    },
+    {
+     "surface": "prayuktāḥ",
+     "gloss": "employed",
+     "grounds": "condition of use",
+     "morph": "m.nom.pl (past-participle pra-yuj)"
+    },
+    {
+     "surface": "śatrukāraṇe",
+     "gloss": "enemy-cause",
+     "grounds": "purpose or context; compound śatru+kāraṇa",
+     "morph": "n.loc.sg (śatru+kāraṇa)"
+    }
+   ],
+   "question": "How effective are these great practices when directed against an enemy?",
+   "premises": [
+    "The practices are called great yogas",
+    "They are compared to divine weapons",
+    "They are employed for the sake of an enemy"
+   ],
+   "inference": "When employed against an enemy, these great practices are as powerful as divine weapons.",
+   "uncertainties": [],
+   "plain_english": "Likewise, these great practices, when employed against an enemy, are of such power."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "santuṣṭena",
+     "gloss": "by-satisfied",
+     "grounds": "qualified agent",
+     "morph": "m.ins.sg (past-participle sam-tuṣ)"
+    },
+    {
+     "surface": "prayuktena",
+     "gloss": "by-employed",
+     "grounds": "qualified agent applying practice",
+     "morph": "m.ins.sg (past-participle pra-yuj)"
+    },
+    {
+     "surface": "sidhyanti",
+     "gloss": "succeed",
+     "grounds": "result of proper application",
+     "morph": "3.pl.pres.act (sidh)"
+    },
+    {
+     "surface": "suvicārataḥ",
+     "gloss": "with-good-consideration",
+     "grounds": "manner of application; compound su+vicāra",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what conditions do these employed practices achieve success?",
+   "premises": [
+    "The practitioner is satisfied",
+    "The practices are properly employed",
+    "They are applied with good consideration"
+   ],
+   "inference": "These practices succeed when employed by a satisfied practitioner with careful consideration.",
+   "uncertainties": [],
+   "plain_english": "When employed by one who is satisfied and acts with good consideration, they succeed."
+  }
+ ]
+}

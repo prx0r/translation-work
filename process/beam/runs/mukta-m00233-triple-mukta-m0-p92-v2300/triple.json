@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "kuṅkumādbhiḥ",
+     "gloss": "with-saffron-water",
+     "grounds": "instrumental plural form of kuṅkuma-water; sandhi fusion in the surface form",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "sāvitryā",
+     "gloss": "with-sāvitrī",
+     "grounds": "instrumental singular feminine form of sāvitrī",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "ghanasārakaiḥ",
+     "gloss": "with-camphor",
+     "grounds": "instrumental plural form of ghanasāra (camphor)",
+     "morph": "instr.pl.m/n"
+    }
+   ],
+   "question": "Which substances and mantra are prescribed for this purification rite?",
+   "premises": [
+    "Saffron water is prescribed.",
+    "Sāvitrī is prescribed.",
+    "Camphor is prescribed."
+   ],
+   "inference": "The rite employs saffron water, Sāvitrī, and camphor.",
+   "uncertainties": [
+    "Exact sandhi decomposition of kuṅkumādbhiḥ is not fully resolved."
+   ],
+   "plain_english": "With saffron water, by Sāvitrī, with camphor."
+  }
+ ]
+}

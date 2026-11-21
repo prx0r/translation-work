@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3450,
+   "rows": [
+    {
+     "surface": "ekādaśavidhau",
+     "gloss": "in-eleventh-mode",
+     "grounds": "locative singular of compound ekādaśa-vidhi/vidha, indicating the eleventh mode or form",
+     "morph": "ekādaśa+vidhi.comp.loc.sg.m"
+    },
+    {
+     "surface": "candra+bhāskarau",
+     "gloss": "moon-and-sun",
+     "grounds": "copulative compound or dvandva, dual subject referring to moon and sun",
+     "morph": "candra+bhāskara.comp.nom.du.m"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "indeclinable adverb qualifying the declaration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritau",
+     "gloss": "declared",
+     "grounds": "past participle from root īr, agreeing with dual subject",
+     "morph": "ppp.nom.du.m(√īr)"
+    }
+   ],
+   "question": "What status do the moon and sun hold in the eleventh mode?",
+   "premises": [
+    "The preceding verses describe ten intermediate lunar positions.",
+    "The eleventh mode involves the moon and the sun together.",
+    "In this mode the moon and sun are properly declared."
+   ],
+   "inference": "Therefore the moon and sun are correctly identified as present in the eleventh mode.",
+   "uncertainties": [
+    "The precise technical sense of vidhi/vidha in this context may be mode, form, or procedure."
+   ],
+   "plain_english": "In the eleventh mode, the moon and the sun are properly declared."
+  }
+ ]
+}

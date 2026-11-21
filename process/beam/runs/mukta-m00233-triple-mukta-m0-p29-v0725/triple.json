@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "trapuṣa+ākāraṃ",
+     "gloss": "tin-shaped",
+     "grounds": "compound of trapuṣa and ākāra in accusative singular neuter; plus marks compound boundary",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "kukkuṭa+aṇḍa+nibhaṃ",
+     "gloss": "cock-egg-like",
+     "grounds": "compound of kukkuṭa, aṇḍa, and nibha in accusative singular neuter; plus marks compound boundaries",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the prescribed shapes for the ritual object being described?",
+   "premises": [
+    "The object is tin-shaped.",
+    "The object is also egg-like.",
+    "The description continues with tathā."
+   ],
+   "inference": "The ritual object is described as having tin-shaped and egg-like forms.",
+   "uncertainties": [
+    "The exact ritual referent of the shaped object is not stated in this verse."
+   ],
+   "plain_english": "Tin-shaped and egg-like, and..."
+  }
+ ]
+}

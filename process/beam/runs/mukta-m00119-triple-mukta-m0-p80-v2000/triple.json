@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "kṛśarasya",
+     "gloss": "of-kṛśara",
+     "grounds": "genitive singular of kṛśara",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ramā",
+     "gloss": "ramā",
+     "grounds": "nominative subject goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "appositive to ramā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramānnasya",
+     "gloss": "of-supreme-food",
+     "grounds": "genitive singular of paramānna",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "nominative subject goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is paired with kṛśara and which with paramānna in this food-deity list?",
+   "premises": [
+    "kṛśara takes Ramā as goddess",
+    "paramānna takes Kālikā as goddess"
+   ],
+   "inference": "The verse assigns Ramā to kṛśara and Kālikā to paramānna.",
+   "uncertainties": [
+    "exact dish denoted by kṛśara is not specified here",
+    "paramānna scope is not further defined here"
+   ],
+   "plain_english": "For kṛśara, the goddess is Ramā; for paramānna, Kālikā."
+  }
+ ]
+}

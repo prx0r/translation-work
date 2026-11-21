@@ -1,0 +1,56 @@
+{
+ "song": "kul-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "mantra stem with nominative plural ending",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "parāṅmukhā",
+     "gloss": "averse",
+     "grounds": "parāṅmukha adjective agreeing with mantrāḥ",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "verb yā in present active third plural",
+     "morph": "3.pl.act-pres + root yā"
+    },
+    {
+     "surface": "vighnaḥ",
+     "gloss": "obstacle",
+     "grounds": "vighna nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca plus eva indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pade pade",
+     "gloss": "at-every-step",
+     "grounds": "repeated locative dual phrase used idiomatically",
+     "morph": "loc.du.m (indecl. phrase)"
+    }
+   ],
+   "question": "What happens when mantras become averse?",
+   "premises": [
+    "Mantras become averse without proper association.",
+    "Obstacles arise at every step."
+   ],
+   "inference": "Improper association causes mantra aversion and obstacles.",
+   "uncertainties": [
+    "Exact scope of the pade pade idiom."
+   ],
+   "plain_english": "The mantras turn away, and obstacles arise at every step."
+  }
+ ]
+}

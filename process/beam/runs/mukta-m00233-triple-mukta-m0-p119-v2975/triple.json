@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2975,
+   "rows": [
+    {
+     "surface": "bāhye",
+     "gloss": "externally",
+     "grounds": "locative form of bāhya, 'external'",
+     "morph": "loc.sg.m/n"
+    },
+    {
+     "surface": "yojyā",
+     "gloss": "to-be-joined",
+     "grounds": "feminine plural nominative participle of yuj, 'to join'",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "they-are",
+     "grounds": "third person plural present active of bhū, 'to be'",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle emphasizing the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are the twenty-eight names joined externally with svāhā in homa?",
+   "premises": [
+    "names ending in nat are joined with svāhā",
+    "external placement requires joining",
+    "the statement affirms this joining"
+   ],
+   "inference": "therefore the external names are to be joined with svāhā",
+   "uncertainties": [
+    "exact referent of bāhye remains context-dependent"
+   ],
+   "plain_english": "Externally, they are to be joined indeed."
+  }
+ ]
+}

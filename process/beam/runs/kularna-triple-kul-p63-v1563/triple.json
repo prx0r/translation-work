@@ -1,0 +1,534 @@
+{
+ "song": "kul-p63",
+ "items": [
+  {
+   "verse": 1563,
+   "rows": [
+    {
+     "surface": "durlabhaṃ",
+     "gloss": "hard-to-find",
+     "grounds": "rare, difficult to obtain",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "know",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "teacher, spiritual guide",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "saṃsāratārakam",
+     "gloss": "world-crossing",
+     "grounds": "compound saṃsāra + tāraka",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "How should one recognize the rare guru who crosses saṃsāra?",
+   "premises": [
+    "rare guru crosses saṃsāra",
+    "disciple should know him"
+   ],
+   "inference": "The rare guru is to be recognized as the one who carries disciples across saṃsāra.",
+   "uncertainties": [],
+   "plain_english": "One should know that rare guru, the world-crosser."
+  },
+  {
+   "verse": 1564,
+   "rows": [
+    {
+     "surface": "kriyāyāsādirahitaṃ",
+     "gloss": "action-effort-etc-free",
+     "grounds": "free from action, effort, and related burdens",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devadurlabhaḥ",
+     "gloss": "god-rare",
+     "grounds": "rare even for gods",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What kind of guru is rare even for gods?",
+   "premises": [
+    "guru free from action-effort etc",
+    "such guru is god-rare"
+   ],
+   "inference": "A guru free from action and effort is rare even for gods.",
+   "uncertainties": [],
+   "plain_english": "He, the guru free from action and effort, is rare even for gods."
+  },
+  {
+   "verse": 1565,
+   "rows": [
+    {
+     "surface": "jñānopadeśaṃ",
+     "gloss": "knowledge-instruction",
+     "grounds": "instruction in knowledge",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "present middle third singular",
+     "morph": "3.sg.mid.pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devadurlabhaḥ",
+     "gloss": "god-rare",
+     "grounds": "rare even for gods",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Who is rare even for gods when giving knowledge-instruction?",
+   "premises": [
+    "guru gives knowledge-instruction",
+    "such guru is god-rare"
+   ],
+   "inference": "A guru who gives knowledge-instruction is rare even for gods.",
+   "uncertainties": [],
+   "plain_english": "He, the guru who gives knowledge-instruction, is rare even for gods."
+  },
+  {
+   "verse": 1566,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "gives",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "knowledge given",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "abhyāsādivivarjītam",
+     "gloss": "practice-etc-free",
+     "grounds": "free from practice and related requirements",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Who counts as guru when giving knowledge free from practice?",
+   "premises": [
+    "who gives knowledge",
+    "knowledge free from practice etc",
+    "that one is guru"
+   ],
+   "inference": "One who gives knowledge free from practice and related requirements is the guru.",
+   "uncertainties": [],
+   "plain_english": "Whoever gives knowledge free from practice and the like, he is the guru."
+  },
+  {
+   "verse": 1567,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadeśamātreṇa",
+     "gloss": "instruction-only",
+     "grounds": "by instruction alone",
+     "morph": "noun.instr.sg.m"
+    },
+    {
+     "surface": "jñānadaḥ",
+     "gloss": "knowledge-giver",
+     "grounds": "one who gives knowledge",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "difficult to find",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "How rare is a guru who gives knowledge by instruction alone?",
+   "premises": [
+    "instruction alone gives knowledge",
+    "such knowledge-giver guru is rare"
+   ],
+   "inference": "A guru who gives knowledge by instruction alone is rare.",
+   "uncertainties": [],
+   "plain_english": "Thus, a guru who gives knowledge by instruction alone is rare."
+  },
+  {
+   "verse": 1568,
+   "rows": [
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "difficult to find",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "sūryavat",
+     "gloss": "sun-like",
+     "grounds": "like the sun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadīpakaḥ",
+     "gloss": "all-illuminating",
+     "grounds": "illuminating all",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Why is this guru compared to the sun?",
+   "premises": [
+    "this guru is rare",
+    "this guru is all-illuminating like sun"
+   ],
+   "inference": "This rare guru illuminates all like the sun.",
+   "uncertainties": [],
+   "plain_english": "This guru, O goddess, is rare and all-illuminating like the sun."
+  },
+  {
+   "verse": 1569,
+   "rows": [
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "difficult to find",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "paratattvārthapāragaḥ",
+     "gloss": "supreme-principle-meaning-crosser",
+     "grounds": "one who crosses to the meaning of supreme principle",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What makes this guru rare in relation to supreme principle?",
+   "premises": [
+    "this guru is rare",
+    "this guru crosses to supreme principle meaning"
+   ],
+   "inference": "This rare guru reaches the meaning of the supreme principle.",
+   "uncertainties": [],
+   "plain_english": "This guru, O goddess, is rare and crosses to the meaning of the supreme principle."
+  },
+  {
+   "verse": 1570,
+   "rows": [
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "difficult to find",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "lokeṣu",
+     "gloss": "in-worlds",
+     "grounds": "in the worlds",
+     "morph": "noun.loc.pl.m"
+    },
+    {
+     "surface": "ātmaprakāśakaḥ",
+     "gloss": "self-revealer",
+     "grounds": "one who reveals the self",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Where is this self-revealing guru rare?",
+   "premises": [
+    "this guru is rare",
+    "this guru reveals self in worlds"
+   ],
+   "inference": "This rare guru reveals the self in the worlds.",
+   "uncertainties": [],
+   "plain_english": "This guru, O goddess, is rare in the worlds and reveals the self."
+  },
+  {
+   "verse": 1571,
+   "rows": [
+    {
+     "surface": "nigamāgamaśāstroktamantrajñaḥ",
+     "gloss": "veda-agama-scripture-stated-mantra-knower",
+     "grounds": "knower of mantras stated in veda, agama, and scripture",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "difficult to find",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "on earth",
+     "morph": "noun.loc.sg.f"
+    }
+   ],
+   "question": "Who is rare on earth among mantra knowers?",
+   "premises": [
+    "knower of stated mantras",
+    "such knower is rare on earth"
+   ],
+   "inference": "One who knows mantras stated in veda, agama, and scripture is rare on earth.",
+   "uncertainties": [],
+   "plain_english": "A knower of mantras stated in veda, agama, and scripture is rare on earth."
+  },
+  {
+   "verse": 1572,
+   "rows": [
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "difficult to find",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "śiṣyaduḥkhāpahārakaḥ",
+     "gloss": "disciple-sorrow-remover",
+     "grounds": "one who removes disciple sorrow",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What rare quality does this guru have toward disciples?",
+   "premises": [
+    "this guru is rare",
+    "this guru removes disciple sorrow"
+   ],
+   "inference": "This rare guru removes the sorrow of disciples.",
+   "uncertainties": [],
+   "plain_english": "This guru, O goddess, is rare and removes the sorrow of disciples."
+  },
+  {
+   "verse": 1573,
+   "rows": [
+    {
+     "surface": "sarvasaṅkalpahīnaḥ",
+     "gloss": "all-resolve-free",
+     "grounds": "free from all resolves",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "noun.voc.sg.f"
+    },
+    {
+     "surface": "durlabhaḥ",
+     "gloss": "rare",
+     "grounds": "difficult to find",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Who is the rare guru free from all resolves?",
+   "premises": [
+    "who is free from all resolves",
+    "that one is rare guru"
+   ],
+   "inference": "One free from all resolves is the rare guru.",
+   "uncertainties": [],
+   "plain_english": "He who is free from all resolves, O goddess, is the rare guru."
+  },
+  {
+   "verse": 1574,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "teacher",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "tam",
+     "gloss": "him",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṇuyāt",
+     "gloss": "choose",
+     "grounds": "optative third singular active",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "nāparam",
+     "gloss": "not-other",
+     "grounds": "not another",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matimānnaraḥ",
+     "gloss": "wise-man",
+     "grounds": "wise man",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "Whom should a wise man choose as guru?",
+   "premises": [
+    "wise man chooses guru",
+    "he chooses that one only not another"
+   ],
+   "inference": "A wise man should choose that guru alone, not another.",
+   "uncertainties": [],
+   "plain_english": "A wise man should choose that guru alone, not another."
+  }
+ ]
+}

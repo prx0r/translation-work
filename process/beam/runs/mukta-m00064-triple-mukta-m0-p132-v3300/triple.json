@@ -1,0 +1,31 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "gṛha+gopura+saṃyuktaṃ",
+     "gloss": "endowed-with-houses-and-gateways",
+     "grounds": "compound adjective describing the sacred site as furnished with dwellings and entrance towers",
+     "morph": "compound adj. n.nom.sg"
+    },
+    {
+     "surface": "mahā+catvara+bhūṣitam",
+     "gloss": "adorned-with-great-squares",
+     "grounds": "compound adjective describing the sacred site as decorated or distinguished by large public squares",
+     "morph": "compound adj. n.nom.sg"
+    }
+   ],
+   "question": "What architectural features characterize the sacred Bhadrapīṭha site?",
+   "premises": [
+    "The site is endowed with houses and gateways.",
+    "The site is adorned with great public squares.",
+    "These built features define the site's physical character."
+   ],
+   "inference": "Bhadrapīṭha is distinguished by specific residential, gateway, and open-square structures.",
+   "uncertainties": [],
+   "plain_english": "It is furnished with houses and gateways, and adorned with great squares."
+  }
+ ]
+}

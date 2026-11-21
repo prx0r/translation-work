@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p82",
+ "verse": 2048,
+ "question": "How many puṭas are in the field with middle padas?",
+ "premises": [
+  "The verse names a field.",
+  "It names one-less-forty-nine puṭas.",
+  "It names middle padas."
+ ],
+ "inference": "The field has one-less-forty-nine puṭas with middle padas.",
+ "uncertainties": [
+  "The exact total is forty-nine minus one."
+ ],
+ "plain_english": "The field has forty-eight puṭas with middle padas."
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "kuṇḍam",
+     "gloss": "pit",
+     "grounds": "neuter noun kuṇḍa",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "aśaktau",
+     "gloss": "in-weakness",
+     "grounds": "locative of aśakti",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhake",
+     "gloss": "in-smallest",
+     "grounds": "locative of kaniṣṭhaka",
+     "morph": "adj.loc.sg"
+    }
+   ],
+   "question": "When the smallest grade lacks capacity, should a single pit be used instead?",
+   "premises": [
+    "smallest grade lacks capacity",
+    "single pit should be used",
+    "alternative applies in weakness"
+   ],
+   "inference": "A single pit suffices for the smallest grade when capacity is lacking.",
+   "uncertainties": [
+    "kaniṣṭhake gender and number are not fully resolved from surface alone"
+   ],
+   "plain_english": "If there is lack of capacity, a pit should be for the smallest."
+  }
+ ]
+}

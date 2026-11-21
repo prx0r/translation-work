@@ -1,0 +1,989 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "pañcadaśāṅgulaṃ",
+     "gloss": "fifteen-fingers",
+     "grounds": "measure of depth",
+     "morph": "pañcadaśan+aṅgula+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "khātaṃ",
+     "gloss": "pit",
+     "grounds": "excavated hollow",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "ramaṇīyam",
+     "gloss": "pleasing",
+     "grounds": "quality of the pit",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "injunction to construct",
+     "morph": "3.sg.opt.act caus √kṛ"
+    }
+   ],
+   "question": "What depth and pleasing quality must the excavated sacrificial pit possess?",
+   "premises": [
+    "The pit is to be excavated.",
+    "Its depth is specified as fifteen fingers.",
+    "The pit should be made pleasing in appearance."
+   ],
+   "inference": "One should have a pleasing pit excavated to a depth of fifteen fingers.",
+   "uncertainties": [],
+   "plain_english": "One should have a pleasing pit dug to a depth of fifteen fingers."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "kuṇḍānāṃ",
+     "gloss": "of-pits",
+     "grounds": "sacrificial fire-pits",
+     "morph": "gen.pl.nt"
+    },
+    {
+     "surface": "yādṛśaṃ",
+     "gloss": "of-what-kind",
+     "grounds": "correlative form",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "shape or appearance",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "mekhalānām",
+     "gloss": "of-rims",
+     "grounds": "surrounding ledges",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśam",
+     "gloss": "of-that-kind",
+     "grounds": "corresponding form",
+     "morph": "nom.sg.nt"
+    }
+   ],
+   "question": "How must the form of the rims correspond to the form of the pits?",
+   "premises": [
+    "The pits have a certain form.",
+    "The rims are associated with the pits.",
+    "The rims must match that form."
+   ],
+   "inference": "The form of the rims should be of the same kind as the form of the pits.",
+   "uncertainties": [],
+   "plain_english": "Whatever form the pits have, the rims should have that same form."
+  },
+  {
+   "verse": 53,
+   "rows": [
+    {
+     "surface": "daśahastāntam",
+     "gloss": "up-to-ten-cubits",
+     "grounds": "upper limit of measure",
+     "morph": "daśan+hasta+anta+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "anyeṣām",
+     "gloss": "of-others",
+     "grounds": "other pits or measures",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "arddhāṅgulaṃ",
+     "gloss": "half-finger",
+     "grounds": "incremental measure",
+     "morph": "arddha+aṅgula+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "individually applied",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "repeated for emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What incremental increase applies separately to other pits up to ten cubits?",
+   "premises": [
+    "Measures extend up to ten cubits for other cases.",
+    "An increment of half a finger is specified.",
+    "This increment is applied separately in each case."
+   ],
+   "inference": "For others, up to ten cubits, a half-finger increase is applied separately in each case.",
+   "uncertainties": [
+    "The exact referent of 'others' is context-dependent."
+   ],
+   "plain_english": "For the others, up to ten cubits, one should add half a finger separately in each case."
+  },
+  {
+   "verse": 54,
+   "rows": [
+    {
+     "surface": "tadbāhya-mekhalotsedham",
+     "gloss": "its-outer-rim-height",
+     "grounds": "height of the outer rim of that pit",
+     "morph": "tad+bāhya+mekhalā+utsedha+am (compound, nom.sg.nt)"
+    },
+    {
+     "surface": "aṅguladvitayaṃ",
+     "gloss": "two-fingers",
+     "grounds": "measure of height",
+     "morph": "aṅgula+dvitiya+am (compound, nom.sg.nt)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What height must the outer rim of that sacrificial pit have?",
+   "premises": [
+    "The outer rim of the pit is under consideration.",
+    "A specific height is prescribed for it.",
+    "The prescribed height is two fingers."
+   ],
+   "inference": "The height of its outer rim should be two fingers.",
+   "uncertainties": [],
+   "plain_english": "The height of its outer rim should be two fingers."
+  },
+  {
+   "verse": 55,
+   "rows": [
+    {
+     "surface": "vedāgnipakṣavistārāḥ",
+     "gloss": "four-three-two-widths",
+     "grounds": "widths measured as four, three, and two fingers",
+     "morph": "veda+agni+pakṣa+vistāra+āḥ (compound, nom.pl.f)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-made",
+     "grounds": "injunction",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "mekhalāḥ",
+     "gloss": "rims",
+     "grounds": "surrounding ledges",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "desirable quality",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "What auspicious widths must the three sacrificial rims be made to have?",
+   "premises": [
+    "Three rims are to be constructed.",
+    "Their widths are specified as four, three, and two fingers.",
+    "The rims should be auspicious."
+   ],
+   "inference": "The auspicious rims should be made with widths of four, three, and two fingers.",
+   "uncertainties": [
+    "The order of assignment of widths to specific rims is implied by convention."
+   ],
+   "plain_english": "The auspicious rims should be made with widths of four, three, and two fingers."
+  },
+  {
+   "verse": 56,
+   "rows": [
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-made",
+     "grounds": "injunction",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khātaṃ",
+     "gloss": "pit",
+     "grounds": "excavated hollow",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "dvādaśāṅgulasammitam",
+     "gloss": "twelve-fingers-measured",
+     "grounds": "depth of twelve fingers",
+     "morph": "dvādaśan+aṅgula+sammitam (compound, nom.sg.nt)"
+    }
+   ],
+   "question": "What alternative depth measurement may be used for making the pit?",
+   "premises": [
+    "An alternative construction is offered.",
+    "The pit is the object to be made.",
+    "The alternative measure is twelve fingers."
+   ],
+   "inference": "Alternatively, the pit may be made with a depth of twelve fingers.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, the pit should be made to a depth of twelve fingers."
+  },
+  {
+   "verse": 57,
+   "rows": [
+    {
+     "surface": "ucchritā",
+     "gloss": "raised",
+     "grounds": "elevated in height",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "mekhalāḥ",
+     "gloss": "rims",
+     "grounds": "surrounding ledges",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "every rim",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "caturaṅgulavistṛtāḥ",
+     "gloss": "four-fingers-wide",
+     "grounds": "width of four fingers",
+     "morph": "catur+aṅgula+vistṛta+āḥ (compound, nom.pl.f)"
+    }
+   ],
+   "question": "What uniform width must all the raised sacrificial rims have?",
+   "premises": [
+    "All rims are to be raised.",
+    "A uniform width is prescribed.",
+    "The prescribed width is four fingers."
+   ],
+   "inference": "All the raised rims should be four fingers wide.",
+   "uncertainties": [],
+   "plain_english": "All the raised rims should be four fingers wide."
+  },
+  {
+   "verse": 58,
+   "rows": [
+    {
+     "surface": "khanet",
+     "gloss": "one-should-dig",
+     "grounds": "injunction to excavate",
+     "morph": "3.sg.opt.act √khan"
+    },
+    {
+     "surface": "ṣaḍaṅgulotsedhā",
+     "gloss": "six-fingers-high",
+     "grounds": "height of the rim",
+     "morph": "ṣaṣ+aṅgula+utsedha+ā (compound, nom.sg.f)"
+    },
+    {
+     "surface": "mekhalā",
+     "gloss": "rim",
+     "grounds": "surrounding ledge",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vedavistṛtā",
+     "gloss": "four-fingers-wide",
+     "grounds": "width of four fingers",
+     "morph": "veda+vistṛta+ā (compound, nom.sg.f)"
+    }
+   ],
+   "question": "What height and width must the rim have when one digs this configuration?",
+   "premises": [
+    "One should dig according to this option.",
+    "The rim has a specified height.",
+    "The rim has a specified width."
+   ],
+   "inference": "One should dig so that the rim is six fingers high and four fingers wide.",
+   "uncertainties": [],
+   "plain_english": "One should dig so that the rim is six fingers high and four fingers wide."
+  },
+  {
+   "verse": 59,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakuṇḍaṃ",
+     "gloss": "every-pit",
+     "grounds": "all types of pits",
+     "morph": "sarva+kuṇḍa+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "one-should-dig",
+     "grounds": "injunction to excavate",
+     "morph": "3.sg.opt.act √khan"
+    },
+    {
+     "surface": "hastaikamānataḥ",
+     "gloss": "one-cubit-measured",
+     "grounds": "measured as one cubit",
+     "morph": "hasta+eka+māna+tas (compound, indecl.)"
+    }
+   ],
+   "question": "What uniform measurement may alternatively be applied when digging every pit?",
+   "premises": [
+    "An alternative rule is given for all pits.",
+    "The excavation is to be performed.",
+    "The measure specified is one cubit."
+   ],
+   "inference": "Alternatively, one should indeed dig every pit to the measure of one cubit.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, one should dig every pit to the measure of one cubit."
+  },
+  {
+   "verse": 60,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-much-as",
+     "grounds": "correlative extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍasya",
+     "gloss": "of-pit",
+     "grounds": "the sacrificial pit",
+     "morph": "gen.sg.nt"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "width",
+     "grounds": "breadth of the pit",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "khananaṃ",
+     "gloss": "digging",
+     "grounds": "depth of excavation",
+     "morph": "nom.sg.nt"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "corresponding extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement",
+     "morph": "nom.sg.nt ppp √īr"
+    }
+   ],
+   "question": "How should the depth of digging relate to the width of the pit?",
+   "premises": [
+    "The pit has a certain width.",
+    "The digging has a certain depth.",
+    "The depth is declared to match the width."
+   ],
+   "inference": "The depth of digging is declared to be equal to the width of the pit.",
+   "uncertainties": [],
+   "plain_english": "The depth of the excavation is declared to be as much as the width of the pit."
+  },
+  {
+   "verse": 61,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tritayī",
+     "gloss": "threefold",
+     "grounds": "three-part arrangement",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "injunction",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vedāgninayanāṅgulaiḥ",
+     "gloss": "with-four-three-two-fingers",
+     "grounds": "measures of four, three, and two fingers",
+     "morph": "veda+agni+nayana+aṅgula+aiḥ (compound, ins.pl.nt)"
+    }
+   ],
+   "question": "What threefold alternative measurement may be used for constructing the rims?",
+   "premises": [
+    "An alternative construction is proposed.",
+    "The arrangement is threefold.",
+    "The measures are four, three, and two fingers."
+   ],
+   "inference": "Alternatively, a threefold arrangement should be made with four, three, and two fingers.",
+   "uncertainties": [],
+   "plain_english": "Alternatively, a threefold arrangement should be made using four, three, and two fingers."
+  },
+  {
+   "verse": 62,
+   "rows": [
+    {
+     "surface": "uttamā",
+     "gloss": "best",
+     "grounds": "highest grade",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "intermediate grade",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "nyūnā",
+     "gloss": "least",
+     "grounds": "lowest grade",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "parikīrtitāḥ",
+     "gloss": "are-declared",
+     "grounds": "authoritative classification",
+     "morph": "nom.pl.f ppp pari+√kīrt"
+    }
+   ],
+   "question": "How are the threefold rim measurements classified in descending order of quality?",
+   "premises": [
+    "There are three grades of measurement.",
+    "They are ordered sequentially.",
+    "They are declared as best, middle, and least."
+   ],
+   "inference": "The three measures are declared in order as best, middle, and least.",
+   "uncertainties": [],
+   "plain_english": "They are declared in order as the best, the middle, and the least."
+  },
+  {
+   "verse": 63,
+   "rows": [
+    {
+     "surface": "aratrimātrakuṇḍe",
+     "gloss": "in-cubit-measured-pit",
+     "grounds": "pit measuring one cubit",
+     "morph": "aratni+mātra+kuṇḍa+e (compound, loc.sg.nt)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri-dvyekāṅgulasaṃyutāḥ",
+     "gloss": "with-three-two-one-fingers",
+     "grounds": "rims joined with three, two, and one fingers",
+     "morph": "tri+dvi+eka+aṅgula+saṃyuta+āḥ (compound, nom.pl.f)"
+    }
+   ],
+   "question": "What rim measurements are prescribed for a pit measuring one cubit?",
+   "premises": [
+    "The pit measures one cubit.",
+    "Specific rim measurements are required.",
+    "The measurements are three, two, and one fingers."
+   ],
+   "inference": "In a pit measuring one cubit, the rims should be three, two, and one fingers.",
+   "uncertainties": [],
+   "plain_english": "But in a pit measuring one cubit, the rims should be three, two, and one finger."
+  },
+  {
+   "verse": 64,
+   "rows": [
+    {
+     "surface": "mekhalā",
+     "gloss": "rims",
+     "grounds": "surrounding ledges",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "dvikare",
+     "gloss": "in-two-cubit",
+     "grounds": "measuring two cubits",
+     "morph": "dvi+kara+e (compound, loc.sg.nt)"
+    },
+    {
+     "surface": "kuṇḍe",
+     "gloss": "in-pit",
+     "grounds": "sacrificial fire-pit",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "rasa-vedaguṇāṅgulāḥ",
+     "gloss": "with-six-four-three-fingers",
+     "grounds": "measures of six, four, and three fingers",
+     "morph": "rasa+veda+guṇa+aṅgula+āḥ (compound, nom.pl.f)"
+    }
+   ],
+   "question": "What rim measurements are prescribed for a pit measuring two cubits?",
+   "premises": [
+    "The pit measures two cubits.",
+    "Rim measurements are specified for this size.",
+    "The measurements are six, four, and three fingers."
+   ],
+   "inference": "In a two-cubit pit, the rims should be six, four, and three fingers.",
+   "uncertainties": [],
+   "plain_english": "In a two-cubit pit, the rims should be six, four, and three fingers."
+  },
+  {
+   "verse": 65,
+   "rows": [
+    {
+     "surface": "daśāṣṭāṅgāṅgulaiḥ",
+     "gloss": "with-ten-eight-six-fingers",
+     "grounds": "measures of ten, eight, and six fingers",
+     "morph": "daśan+aṣṭan+aṅga+aṅgula+aiḥ (compound, ins.pl.nt)"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "to be understood as",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "rasahaste",
+     "gloss": "in-six-cubit",
+     "grounds": "pit measuring six cubits",
+     "morph": "rasa+hasta+e (compound, loc.sg.nt)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mekhalāḥ",
+     "gloss": "rims",
+     "grounds": "surrounding ledges",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "What rim measurements must be known for a pit measuring six cubits?",
+   "premises": [
+    "The pit measures six cubits.",
+    "Rim measurements are to be known for this size.",
+    "The measurements are ten, eight, and six fingers."
+   ],
+   "inference": "In a six-cubit pit, the rims are to be known as ten, eight, and six fingers.",
+   "uncertainties": [],
+   "plain_english": "But in a six-cubit pit, the rims should be known as ten, eight, and six fingers."
+  },
+  {
+   "verse": 66,
+   "rows": [
+    {
+     "surface": "utsedhāyāmato",
+     "gloss": "in-height-and-width",
+     "grounds": "with respect to height and breadth",
+     "morph": "utsedha+āyāma+tas (compound, indecl.)"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "to be understood as",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "mekhalāḥ",
+     "gloss": "rims",
+     "grounds": "surrounding ledges",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "sarvato",
+     "gloss": "in-all-respects",
+     "grounds": "comprehensively",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "by knowledgeable persons",
+     "morph": "ins.pl.m"
+    }
+   ],
+   "question": "How should the wise understand the rims with respect to height and width in all cases?",
+   "premises": [
+    "The rims must be assessed in height and width.",
+    "This assessment applies in all respects.",
+    "The wise are the ones who should know this."
+   ],
+   "inference": "The wise should know the rims in all respects with regard to their height and width.",
+   "uncertainties": [],
+   "plain_english": "The wise should understand the rims in all respects with regard to their height and width."
+  },
+  {
+   "verse": 67,
+   "rows": [
+    {
+     "surface": "aśvatthapatrarūpāṃ",
+     "gloss": "sacred-fig-leaf-shaped",
+     "grounds": "shaped like an aśvattha leaf",
+     "morph": "aśvattha+patra+rūpa+ām (compound, acc.sg.f)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikoṇāṃ",
+     "gloss": "triangular",
+     "grounds": "having three corners",
+     "morph": "tri+koṇa+ām (compound, acc.sg.f)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "the-skilled-one",
+     "grounds": "the expert practitioner",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What alternative shapes may the skilled practitioner give to the channel?",
+   "premises": [
+    "The skilled practitioner shapes the channel.",
+    "One possible shape is like a sacred fig leaf.",
+    "Another possible shape is triangular."
+   ],
+   "inference": "The skilled one may make it shaped like a sacred fig leaf or triangular.",
+   "uncertainties": [
+    "The object shaped is understood from context as the yoni/channel."
+   ],
+   "plain_english": "The skilled practitioner may make it shaped like a sacred fig leaf or triangular."
+  },
+  {
+   "verse": 68,
+   "rows": [
+    {
+     "surface": "ekāṅgulam",
+     "gloss": "one-finger",
+     "grounds": "measure of one finger",
+     "morph": "eka+aṅgula+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonyagraṃ",
+     "gloss": "channel-tip",
+     "grounds": "the tip of the channel",
+     "morph": "yoni+agra+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "īṣadadhomukham",
+     "gloss": "slightly-downward-facing",
+     "grounds": "inclined slightly downward",
+     "morph": "īṣat+adhas+mukha+am (compound, acc.sg.nt)"
+    }
+   ],
+   "question": "How should the tip of the channel be sized and oriented?",
+   "premises": [
+    "The tip of the channel must be made.",
+    "Its size is specified as one finger.",
+    "Its orientation should be slightly downward."
+   ],
+   "inference": "One should make the channel tip one finger in size and slightly downward-facing.",
+   "uncertainties": [],
+   "plain_english": "One should make the tip of the channel one finger long and slightly facing downward."
+  },
+  {
+   "verse": 69,
+   "rows": [
+    {
+     "surface": "ekaikāṅgulato",
+     "gloss": "by-one-finger-each",
+     "grounds": "increment of one finger at a time",
+     "morph": "eka+eka+aṅgula+tas (compound, indecl.)"
+    },
+    {
+     "surface": "yoniṃ",
+     "gloss": "channel",
+     "grounds": "the sacrificial channel",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kuṇḍeṣvanyeṣu",
+     "gloss": "in-other-pits",
+     "grounds": "in the remaining pits",
+     "morph": "kuṇḍa+eṣu+anya+eṣu (compound, loc.pl.nt)"
+    },
+    {
+     "surface": "varddhayet",
+     "gloss": "one-should-increase",
+     "grounds": "injunction to enlarge",
+     "morph": "3.sg.opt.act caus √vṛdh"
+    }
+   ],
+   "question": "How should the channel be increased in size for the other pits?",
+   "premises": [
+    "Other pits require adjusted channel dimensions.",
+    "The channel is to be increased.",
+    "The increase is by one finger each time."
+   ],
+   "inference": "In the other pits, one should increase the channel by one finger each.",
+   "uncertainties": [],
+   "plain_english": "In the other pits, one should increase the channel by one finger each."
+  },
+  {
+   "verse": 70,
+   "rows": [
+    {
+     "surface": "dvādaśāṅguladīrghām",
+     "gloss": "twelve-fingers-long",
+     "grounds": "length of twelve fingers",
+     "morph": "dvādaśan+aṅgula+dīrgha+ām (compound, acc.sg.f)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāṣṭāṅgulavistṛtām",
+     "gloss": "and-eight-fingers-wide",
+     "grounds": "width of eight fingers",
+     "morph": "tathā+aṣṭan+aṅgula+vistṛta+ām (compound, acc.sg.f)"
+    }
+   ],
+   "question": "What length and width are specified for the channel in this configuration?",
+   "premises": [
+    "The channel has specified dimensions.",
+    "Its length is twelve fingers.",
+    "Its width is eight fingers."
+   ],
+   "inference": "The channel should be twelve fingers long and eight fingers wide.",
+   "uncertainties": [
+    "The governing verb is carried over from the preceding injunction."
+   ],
+   "plain_english": "It should be twelve fingers long and eight fingers wide."
+  },
+  {
+   "verse": 71,
+   "rows": [
+    {
+     "surface": "daśahastāntakaṃ",
+     "gloss": "up-to-ten-cubits",
+     "grounds": "upper limit of ten cubits",
+     "morph": "daśan+hasta+antaka+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "dimension or scale",
+     "morph": "acc.sg.nt"
+    },
+    {
+     "surface": "pūrvavad",
+     "gloss": "as-before",
+     "grounds": "following the previous rule",
+     "morph": "pūrva+vat (compound, indecl.)"
+    },
+    {
+     "surface": "varddhayet",
+     "gloss": "one-should-increase",
+     "grounds": "injunction to enlarge",
+     "morph": "3.sg.opt.act caus √vṛdh"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "gradually and sequentially",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How should the measure be increased progressively up to ten cubits?",
+   "premises": [
+    "The measure can extend up to ten cubits.",
+    "The increase follows the previous method.",
+    "The increase proceeds in order."
+   ],
+   "inference": "One should increase the measure in order, as before, up to ten cubits.",
+   "uncertainties": [],
+   "plain_english": "One should increase the measure in order, as before, up to ten cubits."
+  },
+  {
+   "verse": 72,
+   "rows": [
+    {
+     "surface": "tridvyekāṅgulavistāraṃ",
+     "gloss": "three-two-one-finger-width",
+     "grounds": "width of three, two, and one fingers",
+     "morph": "tri+dvi+eka+aṅgula+vistāra+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "mūlāgram",
+     "gloss": "from-root-to-tip",
+     "grounds": "from base to end",
+     "morph": "mūla+agra+am (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-intended",
+     "grounds": "is prescribed or desired",
+     "morph": "3.sg.pres.pass √iṣ"
+    }
+   ],
+   "question": "What sequential width from root to tip is intended for the channel?",
+   "premises": [
+    "The channel has varying width from root to tip.",
+    "The widths are three, two, and one fingers.",
+    "This sequence is intended in order."
+   ],
+   "inference": "A width of three, two, and one fingers in order from root to tip is intended.",
+   "uncertainties": [],
+   "plain_english": "A width of three, two, and one fingers in order from root to tip is intended."
+  },
+  {
+   "verse": 73,
+   "rows": [
+    {
+     "surface": "muṣṭyaratnekahastānāṃ",
+     "gloss": "of-fist-cubit-one-cubit",
+     "grounds": "of pits measuring a fist, a cubit, and one cubit",
+     "morph": "muṣṭi+aratni+eka+hasta+ānām (compound, gen.pl.m)"
+    },
+    {
+     "surface": "nābhiḥ",
+     "gloss": "navel",
+     "grounds": "central depression",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "utsedhabhāvataḥ",
+     "gloss": "by-height-condition",
+     "grounds": "according to the state of height",
+     "morph": "utsedha+bhāva+tas (compound, indecl.)"
+    }
+   ],
+   "question": "How is the navel determined for pits of fist, cubit, and one-cubit measures?",
+   "premises": [
+    "Pits of different measures are considered.",
+    "Each has a navel or central depression.",
+    "The navel is determined according to height."
+   ],
+   "inference": "For pits measuring a fist, a cubit, and one cubit, the navel is determined according to height.",
+   "uncertainties": [
+    "The exact resulting dimensions of the navel are not explicitly stated."
+   ],
+   "plain_english": "For pits measuring a fist, a cubit, and one cubit, the navel is determined according to the height."
+  },
+  {
+   "verse": 74,
+   "rows": [
+    {
+     "surface": "yavadvayakrameṇa",
+     "gloss": "by-two-barley-grains-sequence",
+     "grounds": "in increments of two barley grains",
+     "morph": "yava+dvaya+krama+eṇa (compound, ins.sg.m)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nābhiṃ",
+     "gloss": "navel",
+     "grounds": "central depression",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "individually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udāradhīḥ",
+     "gloss": "the-noble-minded-one",
+     "grounds": "the wise practitioner",
+     "morph": "udāra+dhī+ḥ (compound, nom.sg.m)"
+    }
+   ],
+   "question": "How should the noble-minded practitioner adjust the navel separately in sequence?",
+   "premises": [
+    "The navel requires adjustment.",
+    "The adjustment follows a sequence of two barley grains.",
+    "The noble-minded practitioner applies this separately."
+   ],
+   "inference": "The noble-minded one should indeed adjust the navel separately in a sequence of two barley grains.",
+   "uncertainties": [
+    "The governing verb for adjusting is implied from context."
+   ],
+   "plain_english": "The noble-minded practitioner should indeed adjust the navel separately in increments of two barley grains."
+  }
+ ]
+}

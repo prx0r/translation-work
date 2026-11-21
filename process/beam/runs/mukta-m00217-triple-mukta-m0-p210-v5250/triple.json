@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p210",
+ "items": [
+  {
+   "verse": 5250,
+   "rows": [
+    {
+     "surface": "vidarbhyādyena",
+     "gloss": "beginning-with-Vidarbha",
+     "grounds": "compound qualifier indicating what comes first; instrumental of means",
+     "morph": "compound vidarbhī-ādi + m.inst.sg"
+    },
+    {
+     "surface": "kāmena",
+     "gloss": "by-Kama",
+     "grounds": "instrumental of the means employed in the practice",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "manmathāntargataṃ",
+     "gloss": "entered-within-Manmatha",
+     "grounds": "compound describing the state to be effected in the target",
+     "morph": "compound manmatha-antar-gata + m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative command to effect the stated condition",
+     "morph": "2.sg.imp.act (√kṛ)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "repeated imperative for emphasis",
+     "morph": "2.sg.imp.act (√kṛ)"
+    }
+   ],
+   "question": "What means places the target within Manmatha’s power in this enchanting practice?",
+   "premises": [
+    "The practice employs Kama beginning with Vidarbha as its means.",
+    "The intended result is a state of being entered within Manmatha.",
+    "A repeated imperative commands the effecting of this state."
+   ],
+   "inference": "Therefore, by applying the Kama beginning with Vidarbha, the practitioner is to make the target absorbed within Manmatha.",
+   "uncertainties": [
+    "The exact referent of vidarbhī in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "By means of Kama beginning with Vidarbha, make the target enter within Manmatha—make it so!"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p222",
+ "items": [
+  {
+   "verse": 5550,
+   "rows": [
+    {
+     "surface": "vivādādau",
+     "gloss": "in-dispute-and-so-forth",
+     "grounds": "compound vivāda+ādi in locative singular, indicating disputes and similar situations; continues the context of application from v5548",
+     "morph": "vivāda+ādi; loc.sg.m"
+    },
+    {
+     "surface": "jayāya",
+     "gloss": "for-victory",
+     "grounds": "dative singular expressing purpose or aim",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction linking purposes",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific aims are served by the prescribed application in contested contexts?",
+   "premises": [
+    "The application pertains to disputes and similar situations.",
+    "Victory is explicitly named as a purpose.",
+    "These aims are presented together as applicable goals."
+   ],
+   "inference": "The prescribed application is intended for use in disputes and for attaining victory.",
+   "uncertainties": [
+    "The exact scope of 'ādi' (and so forth) beyond disputes is not specified in this verse."
+   ],
+   "plain_english": "In disputes and the like, and for victory."
+  }
+ ]
+}

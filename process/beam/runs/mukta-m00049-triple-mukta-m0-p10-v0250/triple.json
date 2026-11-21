@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "śatalakṣaprajapto",
+     "gloss": "hundred-lakh-recited",
+     "grounds": "Compound adjective describing the mantra as having been recited one hundred lakhs of times.",
+     "morph": "compound adj.m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "Indeclinable particle indicating concession or emphasis.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "Refers to the person who has caused harm, as described in the preceding verses.",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "The sacred formula whose efficacy is in question.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "Negates the accomplishment of the mantra.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "Denotes the successful accomplishment or fruition of the mantra.",
+     "morph": "3.sg.pres.act √sidh"
+    }
+   ],
+   "question": "Can extensive mantra recitation bring success to one who harms beings?",
+   "premises": [
+    "A mantra may be recited a hundred lakhs of times.",
+    "The reciter in question has committed harm against a being.",
+    "Harm against beings obstructs the accomplishment of a mantra."
+   ],
+   "inference": "Therefore, even extensively recited, the mantra does not succeed for such a person.",
+   "uncertainties": [
+    "The exact referent of tasya relies on the preceding context of one who causes harm."
+   ],
+   "plain_english": "Even if recited a hundred lakhs of times, his mantra does not succeed."
+  }
+ ]
+}

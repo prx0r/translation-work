@@ -1,0 +1,251 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2276,
+   "rows": [
+    {
+     "surface": "pauṣe",
+     "gloss": "in-pauṣa",
+     "grounds": "locative month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jñānakṣayo",
+     "gloss": "knowledge-decay",
+     "grounds": "compound knowledge+decay",
+     "morph": "compound"
+    },
+    {
+     "surface": "māghe",
+     "gloss": "in-māgha",
+     "grounds": "locative month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhavenmedhāvivardhanam",
+     "gloss": "becomes-intellect-increase",
+     "grounds": "fused bhavet+medhā-vivardhanam",
+     "morph": "verb.3.sg.act-pres+compound"
+    }
+   ],
+   "question": "What happens to knowledge and intellect in pauṣa and māgha months?",
+   "premises": [
+    "pauṣa month brings knowledge decay",
+    "māgha month brings intellect increase"
+   ],
+   "inference": "The two months have opposite effects on knowledge and intellect.",
+   "uncertainties": [
+    "exact ritual context not stated"
+   ],
+   "plain_english": "In Pauṣa knowledge decays; in Māgha intellect increases."
+  },
+  {
+   "verse": 2277,
+   "rows": [
+    {
+     "surface": "mārgaphālgunake",
+     "gloss": "in-phālguna-month",
+     "grounds": "locative month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śreṣṭhā",
+     "gloss": "best",
+     "grounds": "superlative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jyaiṣṭhe",
+     "gloss": "in-jyaiṣṭha",
+     "grounds": "locative month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "caiva tu sādhamā",
+     "gloss": "indeed-inferior",
+     "grounds": "fused ca+eva+tu+sādhamā",
+     "morph": "indecl.+adj"
+    }
+   ],
+   "question": "Which months are best and inferior for this practice?",
+   "premises": [
+    "phālguna month is best",
+    "jyaiṣṭha month is inferior"
+   ],
+   "inference": "Phālguna is praised while Jyaiṣṭha is ranked lower.",
+   "uncertainties": [
+    "practice unnamed"
+   ],
+   "plain_english": "Phālguna is best; Jyaiṣṭha is inferior."
+  },
+  {
+   "verse": 2278,
+   "rows": [
+    {
+     "surface": "ānandadā",
+     "gloss": "bliss-giving",
+     "grounds": "compound bliss+giving",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrāvaṇe",
+     "gloss": "in-śrāvaṇa",
+     "grounds": "locative month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pauṣe",
+     "gloss": "in-pauṣa",
+     "grounds": "locative month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhādre",
+     "gloss": "in-bhādra",
+     "grounds": "locative month name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca ninditā",
+     "gloss": "blamed",
+     "grounds": "fused ca+ninditā",
+     "morph": "indecl.+adj"
+    }
+   ],
+   "question": "Which months are bliss-giving and which are blamed?",
+   "premises": [
+    "śrāvaṇa is bliss-giving",
+    "pauṣa and bhādra are blamed"
+   ],
+   "inference": "Śrāvaṇa is favorable while Pauṣa and Bhādra are criticized.",
+   "uncertainties": [
+    "subject of sā unclear"
+   ],
+   "plain_english": "Śrāvaṇa gives bliss; Pauṣa and Bhādra are blamed."
+  },
+  {
+   "verse": 2279,
+   "rows": [
+    {
+     "surface": "śukle",
+     "gloss": "in-bright-fortnight",
+     "grounds": "locative fortnight",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvasamṛddhiḥ",
+     "gloss": "all-prosperity",
+     "grounds": "compound all+prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "kṛṣṇe",
+     "gloss": "in-dark-fortnight",
+     "grounds": "locative fortnight",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madhyamato",
+     "gloss": "middling",
+     "grounds": "adverb from middle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How do bright and dark fortnights compare in prosperity?",
+   "premises": [
+    "bright fortnight gives all prosperity",
+    "dark fortnight is middling"
+   ],
+   "inference": "The bright fortnight is superior to the dark fortnight.",
+   "uncertainties": [
+    "exact rite unspecified"
+   ],
+   "plain_english": "Bright fortnight brings full prosperity; dark fortnight is middling."
+  },
+  {
+   "verse": 2280,
+   "rows": [
+    {
+     "surface": "hastacitrāsvātimaitraviśākhāśca",
+     "gloss": "hasta-citrā-svāti-maitrā-viśākhā",
+     "grounds": "fused nakshatra list plus ca",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "dhaniṣṭhayā",
+     "gloss": "with-dhaniṣṭhā",
+     "grounds": "instrumental nakshatra",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "Which nakshatras are grouped with Dhaniṣṭhā?",
+   "premises": [
+    "hasta citrā svāti maitrā viśākhā are listed",
+    "dhaniṣṭhā is joined with them"
+   ],
+   "inference": "These nakshatras form one favorable group.",
+   "uncertainties": [
+    "exact grouping purpose unclear"
+   ],
+   "plain_english": "Hasta, Citrā, Svāti, Maitrā, Viśākhā, and Dhaniṣṭhā are grouped together."
+  },
+  {
+   "verse": 2281,
+   "rows": [
+    {
+     "surface": "svātīrādhe revatī",
+     "gloss": "svāti-ārdrā-revatī",
+     "grounds": "fused nakshatra list",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uttarātrayam",
+     "gloss": "uttarā-trio",
+     "grounds": "compound uttarā three",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which nakshatras are paired with the uttarā trio?",
+   "premises": [
+    "svāti ārdrā revatī are listed",
+    "uttarā trio is added"
+   ],
+   "inference": "These nakshatras are grouped with the three Uttarās.",
+   "uncertainties": [
+    "exact ritual use unclear"
+   ],
+   "plain_english": "Svāti, Ārdrā, Revatī, and the three Uttarās are grouped together."
+  }
+ ]
+}

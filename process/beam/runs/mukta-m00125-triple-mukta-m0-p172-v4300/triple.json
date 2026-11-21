@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4300,
+   "rows": [
+    {
+     "surface": "viśeṣādbhasmajaṃ",
+     "gloss": "especially-ash-born",
+     "grounds": "Fused form: viśeṣāt (especially) + bhasma-jaṃ (born-from-ash); sandhi t+b → db.",
+     "morph": "indecl. + compound-adj.n.nom/acc.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "emblem",
+     "grounds": "Object or subject described as made of ash.",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "sarvavyādhi nivāraṇam",
+     "gloss": "all-disease-removing",
+     "grounds": "Compound: sarva (all) + vyādhi (disease) + nivāraṇam (removing).",
+     "morph": "compound-adj.n.nom/acc.sg"
+    }
+   ],
+   "question": "What distinctive therapeutic power belongs to a liṅga fashioned from ash?",
+   "premises": [
+    "A liṅga may be fashioned from ash.",
+    "An ash-born liṅga has special distinction.",
+    "This liṅga removes all diseases."
+   ],
+   "inference": "Therefore an ash-made liṅga is especially effective in removing all diseases.",
+   "uncertainties": [],
+   "plain_english": "Especially, a liṅga made of ash removes all diseases."
+  }
+ ]
+}

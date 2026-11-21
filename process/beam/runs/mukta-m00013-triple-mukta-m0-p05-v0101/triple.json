@@ -1,0 +1,929 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past passive participle indicating traditional teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kālikāyāḥ+ca",
+     "gloss": "of-kālikā+and",
+     "grounds": "compound with conjunction linking deities",
+     "morph": "compound: kālikāyāḥ+first, ca+second"
+    },
+    {
+     "surface": "tārāyāḥ",
+     "gloss": "of-tārā",
+     "grounds": "genitive relation to the circle",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tārā+cakraṃ",
+     "gloss": "star-circle",
+     "grounds": "compound naming the auspicious configuration",
+     "morph": "compound: tārā+first, cakram+second; n.nom.sg"
+    },
+    {
+     "surface": "śubha+āvaham",
+     "gloss": "auspicious-bringing",
+     "grounds": "compound describing beneficial effect",
+     "morph": "compound: śubha+first, āvaham+second; n.nom.sg"
+    }
+   ],
+   "question": "What auspicious configuration is traditionally prescribed for Kālikā and Tārā?",
+   "premises": [
+    "A star-circle is remembered in tradition",
+    "It is associated with Kālikā and Tārā",
+    "This configuration brings auspicious results"
+   ],
+   "inference": "The star-circle of Kālikā and Tārā is prescribed as auspicious",
+   "uncertainties": [],
+   "plain_english": "For Kālikā and Tārā, the star-circle is remembered as bringing auspicious results."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "muni+sattamaiḥ",
+     "gloss": "by-best-of-sages",
+     "grounds": "compound indicating authoritative teachers",
+     "morph": "compound: muni+first, sattamaiḥ+second; m.inst.pl"
+    }
+   ],
+   "question": "Which authorities affirm the prescribed auspicious configuration?",
+   "premises": [
+    "The teaching is attributed to sages",
+    "These sages are described as the best",
+    "Their authority supports the prescription"
+   ],
+   "inference": "The best of sages affirm this prescription",
+   "uncertainties": [],
+   "plain_english": "This is taught by the best of sages."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "ṛṇe",
+     "gloss": "in-debt",
+     "grounds": "locative indicating a condition or state",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpti+mātreṇa",
+     "gloss": "by-mere-attainment",
+     "grounds": "compound expressing sufficiency of attainment",
+     "morph": "compound: prāpti+first, mātreṇa+second; n.inst.sg"
+    },
+    {
+     "surface": "sarvā+siddhiḥ",
+     "gloss": "all-accomplishment",
+     "grounds": "compound denoting complete success",
+     "morph": "compound: sarvā+first, siddhiḥ+second; f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb stating the outcome",
+     "morph": "3.sg.present-middle; root jan"
+    }
+   ],
+   "question": "What result arises merely upon attainment in the context of debt?",
+   "premises": [
+    "A condition involving debt is considered",
+    "Mere attainment is sufficient",
+    "All accomplishment arises as a result"
+   ],
+   "inference": "Mere attainment in debt leads to all accomplishment",
+   "uncertainties": [
+    "The specific nature of ṛṇe in this ritual context is unclear"
+   ],
+   "plain_english": "And in the case of debt, by mere attainment, all accomplishment indeed arises."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "darbha+śayyāṃ",
+     "gloss": "darbha-grass-bed",
+     "grounds": "compound naming the prepared seat",
+     "morph": "compound: darbha+first, śayyām+second; f.acc.sg"
+    },
+    {
+     "surface": "pariṣkṛtya",
+     "gloss": "having-prepared",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.) absolutive; root kṛ with pari"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "object of placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the prepared place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "should-place",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.optative-active; root viś with ni"
+    }
+   ],
+   "question": "Where and how should the disciple be placed during the ritual preparation?",
+   "premises": [
+    "A bed of darbha grass must be prepared",
+    "The disciple is the one to be placed",
+    "Placement should occur on that prepared bed"
+   ],
+   "inference": "The disciple should be placed on a prepared darbha-grass bed",
+   "uncertainties": [],
+   "plain_english": "Having prepared a bed of darbha grass, one should place the disciple there."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "śiṣya+abhimantraṇam",
+     "gloss": "disciple-consecration",
+     "grounds": "compound naming the ritual act",
+     "morph": "compound: śiṣya+first, abhimantraṇam+second; n.nom.sg"
+    }
+   ],
+   "question": "What ritual act concerning the disciple is being specified here?",
+   "premises": [
+    "The topic is a ritual action",
+    "The action involves the disciple",
+    "The action is consecration by mantra"
+   ],
+   "inference": "The specified act is the consecration of the disciple",
+   "uncertainties": [],
+   "plain_english": "This concerns the consecration of the disciple."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "yoginī+tantrāt",
+     "gloss": "from-yoginī-tantra",
+     "grounds": "compound indicating the source text",
+     "morph": "compound: yoginī+first, tantrāt+second; n.abl.sg"
+    },
+    {
+     "surface": "na+anyatra",
+     "gloss": "not-elsewhere",
+     "grounds": "compound restricting the source",
+     "morph": "compound: na+first, anyatra+second; (indecl.)"
+    }
+   ],
+   "question": "From which textual source must the disciple consecration be taken?",
+   "premises": [
+    "A specific source is named",
+    "The source is the Yoginī Tantra",
+    "No other source is permitted"
+   ],
+   "inference": "The consecration must be taken from the Yoginī Tantra alone",
+   "uncertainties": [],
+   "plain_english": "It is taken from the Yoginī Tantra and not from elsewhere."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "duḥkha+pradaḥ",
+     "gloss": "sorrow-giving",
+     "grounds": "compound describing a negative result",
+     "morph": "compound: duḥkha+first, pradaḥ+second; m.nom.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "adverb indicating constant effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb summarizing the procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māsa+vidhi+kramaḥ",
+     "gloss": "month-procedure-sequence",
+     "grounds": "compound naming the ordered monthly rule",
+     "morph": "compound: māsa+first, vidhi+second, kramaḥ+third; m.nom.sg"
+    }
+   ],
+   "question": "What is the consequence of the described monthly procedural sequence?",
+   "premises": [
+    "A monthly procedure sequence is described",
+    "Its effect is characterized as sorrow-giving",
+    "This effect is said to be constant"
+   ],
+   "inference": "The described monthly procedure sequence always brings sorrow",
+   "uncertainties": [
+    "The exact scope of the monthly procedure referred to is unclear"
+   ],
+   "plain_english": "Thus, this sequence of monthly procedures always brings sorrow."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "dvitīyāyāṃ",
+     "gloss": "on-second-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhavet+jñānaṃ",
+     "gloss": "becomes-knowledge",
+     "grounds": "compound expressing arising of knowledge",
+     "morph": "compound: bhavet+first, jñānam+second"
+    },
+    {
+     "surface": "tṛtīyāyāṃ",
+     "gloss": "on-third-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śuciḥ+bhavet",
+     "gloss": "pure-becomes",
+     "grounds": "compound expressing attainment of purity",
+     "morph": "compound: śuciḥ+first, bhavet+second"
+    }
+   ],
+   "question": "What outcomes are associated with the second and third lunar days?",
+   "premises": [
+    "The second lunar day is specified",
+    "Knowledge arises on the second day",
+    "Purity arises on the third day"
+   ],
+   "inference": "The second day yields knowledge and the third day yields purity",
+   "uncertainties": [],
+   "plain_english": "On the second day knowledge arises, and on the third day one becomes pure."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhyāṃ",
+     "gloss": "on-sixth-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jñāna+kṣayaḥ",
+     "gloss": "knowledge-destruction",
+     "grounds": "compound indicating loss of knowledge",
+     "morph": "compound: jñāna+first, kṣayaḥ+second; m.nom.sg"
+    },
+    {
+     "surface": "saukhyam",
+     "gloss": "happiness",
+     "grounds": "result obtained on another day",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb stating attainment",
+     "morph": "3.sg.present-middle; root labh"
+    },
+    {
+     "surface": "saptamī+dine",
+     "gloss": "on-seventh-day",
+     "grounds": "compound specifying lunar day",
+     "morph": "compound: saptamī+first, dine+second; n.loc.sg"
+    }
+   ],
+   "question": "What contrasting outcomes occur on the sixth and seventh lunar days?",
+   "premises": [
+    "The sixth lunar day brings loss of knowledge",
+    "The seventh lunar day is specified",
+    "Happiness is obtained on the seventh day"
+   ],
+   "inference": "The sixth day causes loss of knowledge while the seventh day brings happiness",
+   "uncertainties": [],
+   "plain_english": "On the sixth day there is loss of knowledge, and on the seventh day one obtains happiness."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "on-eighth-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "buddhi+nāśam",
+     "gloss": "intellect-destruction",
+     "grounds": "compound indicating loss of intellect",
+     "morph": "compound: buddhi+first, nāśam+second; m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.optative-active; root as"
+    },
+    {
+     "surface": "navamyāṃ",
+     "gloss": "on-ninth-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vapuṣaḥ+kṣayaḥ",
+     "gloss": "of-body-destruction",
+     "grounds": "compound indicating bodily decline",
+     "morph": "compound: vapuṣaḥ+first, kṣayaḥ+second; m.nom.sg"
+    }
+   ],
+   "question": "What harmful outcomes are assigned to the eighth and ninth lunar days?",
+   "premises": [
+    "The eighth lunar day is associated with loss of intellect",
+    "The ninth lunar day is specified",
+    "Destruction of the body occurs on the ninth day"
+   ],
+   "inference": "The eighth day brings loss of intellect and the ninth day brings bodily destruction",
+   "uncertainties": [],
+   "plain_english": "On the eighth day there is destruction of intellect, and on the ninth day there is destruction of the body."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "daśamyāṃ",
+     "gloss": "on-tenth-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "rāja+saubhāgya",
+     "gloss": "royal-fortune",
+     "grounds": "compound indicating royal good fortune",
+     "morph": "compound: rāja+first, saubhāgya+second; n.nom.sg"
+    },
+    {
+     "surface": "ekādaśyāṃ",
+     "gloss": "on-eleventh-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śuciḥ+bhavet",
+     "gloss": "pure-becomes",
+     "grounds": "compound expressing attainment of purity",
+     "morph": "compound: śuciḥ+first, bhavet+second"
+    }
+   ],
+   "question": "What favorable outcomes are linked to the tenth and eleventh lunar days?",
+   "premises": [
+    "The tenth lunar day is specified",
+    "Royal fortune is associated with the tenth day",
+    "Purity arises on the eleventh day"
+   ],
+   "inference": "The tenth day brings royal fortune and the eleventh day brings purity",
+   "uncertainties": [],
+   "plain_english": "On the tenth day there is royal fortune, and on the eleventh day one becomes pure."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "dvādaśyāṃ",
+     "gloss": "on-twelfth-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarva+śuddhiḥ",
+     "gloss": "all-purity",
+     "grounds": "compound indicating complete purification",
+     "morph": "compound: sarva+first, śuddhiḥ+second; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.optative-active; root as"
+    },
+    {
+     "surface": "trayodaśyām",
+     "gloss": "on-thirteenth-day",
+     "grounds": "locative specifying lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "daridratā",
+     "gloss": "poverty",
+     "grounds": "negative outcome on the specified day",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What opposite outcomes are assigned to the twelfth and thirteenth lunar days?",
+   "premises": [
+    "The twelfth lunar day brings complete purity",
+    "The thirteenth lunar day is specified",
+    "Poverty is associated with the thirteenth day"
+   ],
+   "inference": "The twelfth day brings complete purity while the thirteenth day brings poverty",
+   "uncertainties": [],
+   "plain_english": "On the twelfth day there is complete purity, and on the thirteenth day there is poverty."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "dharma+vṛddhiḥ",
+     "gloss": "dharma-increase",
+     "grounds": "compound indicating growth of dharma",
+     "morph": "compound: dharma+first, vṛddhiḥ+second; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.optative-active; root as"
+    },
+    {
+     "surface": "asvādhyāyam",
+     "gloss": "non-study",
+     "grounds": "term indicating suspension of recitation or study",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "optative prescribing avoidance",
+     "morph": "3.sg.optative-active; root vṛj with vi"
+    }
+   ],
+   "question": "What practice should be avoided when an increase of dharma occurs?",
+   "premises": [
+    "An increase of dharma is stated to occur",
+    "A practice called non-study is mentioned",
+    "This practice should be avoided"
+   ],
+   "inference": "One should avoid non-study when dharma increases",
+   "uncertainties": [
+    "The relation between dharma increase and avoiding asvādhyāyam is contextually compressed"
+   ],
+   "plain_english": "There is an increase of dharma, and one should avoid non-study."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "sandhyā+garjita+nirghoṣa",
+     "gloss": "twilight-thunder-roar",
+     "grounds": "compound naming ominous twilight sound",
+     "morph": "compound: sandhyā+first, garjita+second, nirghoṣa+third; m.nom.sg"
+    },
+    {
+     "surface": "bhūkampa+ullakā+nipātanam",
+     "gloss": "earthquake-meteor-falling",
+     "grounds": "compound listing portentous events",
+     "morph": "compound: bhūkampa+first, ullakā+second, nipātanam+third; n.nom.sg"
+    }
+   ],
+   "question": "What portentous natural signs are listed as significant conditions?",
+   "premises": [
+    "A thunderous roar at twilight is mentioned",
+    "Earthquake and meteor falling are mentioned",
+    "These are presented as notable signs"
+   ],
+   "inference": "Twilight thunder, earthquake, and meteor fall are listed as portentous signs",
+   "uncertainties": [
+    "The ritual consequence of these signs is not stated in this verse"
+   ],
+   "plain_english": "A thunderous roar at twilight, an earthquake, and the falling of meteors are mentioned."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "śaiva+āgama+antare",
+     "gloss": "in-another-śaiva-scripture",
+     "grounds": "compound indicating an alternative textual source",
+     "morph": "compound: śaiva+first, āgama+second, antare+third; n.loc.sg"
+    }
+   ],
+   "question": "Which alternative textual authority is cited for the teaching?",
+   "premises": [
+    "A textual source is being indicated",
+    "The source belongs to Śaiva scripture",
+    "It is described as another such scripture"
+   ],
+   "inference": "The teaching is attributed to another Śaiva scripture",
+   "uncertainties": [],
+   "plain_english": "This is stated in another Śaiva scripture."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "kṛttikāyāṃ",
+     "gloss": "in-kṛttikā",
+     "grounds": "locative specifying lunar mansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bhavet+duḥkhī",
+     "gloss": "becomes-unhappy",
+     "grounds": "compound expressing resulting sorrow",
+     "morph": "compound: bhavet+first, duḥkhī+second"
+    },
+    {
+     "surface": "rohiṇyāṃ",
+     "gloss": "in-rohiṇī",
+     "grounds": "locative specifying lunar mansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vāk+patiḥ+bhavet",
+     "gloss": "lord-of-speech-becomes",
+     "grounds": "compound expressing attainment of eloquence or mastery of speech",
+     "morph": "compound: vāk+first, patiḥ+second, bhavet+third"
+    }
+   ],
+   "question": "What different outcomes arise under the lunar mansions Kṛttikā and Rohiṇī?",
+   "premises": [
+    "Kṛttikā is associated with becoming unhappy",
+    "Rohiṇī is specified as another mansion",
+    "One becomes lord of speech in Rohiṇī"
+   ],
+   "inference": "Kṛttikā brings unhappiness while Rohiṇī brings mastery of speech",
+   "uncertainties": [],
+   "plain_english": "In Kṛttikā one becomes unhappy, and in Rohiṇī one becomes a lord of speech."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "pūrva+phalgunyāṃ",
+     "gloss": "in-pūrva-phalgunī",
+     "grounds": "compound specifying lunar mansion",
+     "morph": "compound: pūrva+first, phalgunyām+second; f.loc.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb stating attainment",
+     "morph": "3.sg.present-active; root āp with pra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certainty is asserted about results under Pūrva Phalgunī?",
+   "premises": [
+    "Pūrva Phalgunī is the specified mansion",
+    "An attainment is stated to occur",
+    "Doubt is explicitly denied"
+   ],
+   "inference": "Under Pūrva Phalgunī one obtains the result without doubt",
+   "uncertainties": [
+    "The specific object obtained is not stated in this verse"
+   ],
+   "plain_english": "In Pūrva Phalgunī one obtains it, and there is no doubt."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "sutra+hāniḥ",
+     "gloss": "thread-loss",
+     "grounds": "compound indicating loss; exact referent uncertain",
+     "morph": "compound: sutra+first, hāniḥ+second; f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "becomes",
+     "grounds": "optative expressing result",
+     "morph": "3.sg.optative-active; root as"
+    },
+    {
+     "surface": "mūlāyāṃ",
+     "gloss": "in-mūlā",
+     "grounds": "locative specifying lunar mansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kīrti+varddhanam",
+     "gloss": "fame-increase",
+     "grounds": "compound indicating growth of fame",
+     "morph": "compound: kīrti+first, varddhanam+second; n.nom.sg"
+    }
+   ],
+   "question": "What contrasting outcomes are associated with the lunar mansion Mūlā?",
+   "premises": [
+    "A loss termed sutra-hāniḥ is stated",
+    "The mansion Mūlā is specified",
+    "An increase of fame is also stated"
+   ],
+   "inference": "Mūlā is associated with both a loss and an increase of fame",
+   "uncertainties": [
+    "The meaning of sutra+hāniḥ is ambiguous in this context"
+   ],
+   "plain_english": "There is loss of sutra, and in Mūlā there is an increase of fame."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "saukhyam",
+     "gloss": "happiness",
+     "grounds": "favorable outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca+uttara+bhādre",
+     "gloss": "and-in-uttara-bhādra",
+     "grounds": "compound specifying lunar mansion with conjunction",
+     "morph": "compound: ca+first, uttara+second, bhādre+third; f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking mansions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "revatyāṃ",
+     "gloss": "in-revatī",
+     "grounds": "locative specifying lunar mansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kīrti+varddhanam",
+     "gloss": "fame-increase",
+     "grounds": "compound indicating growth of fame",
+     "morph": "compound: kīrti+first, varddhanam+second; n.nom.sg"
+    }
+   ],
+   "question": "What beneficial outcomes occur in Uttara Bhādra and Revatī?",
+   "premises": [
+    "Uttara Bhādra is associated with happiness",
+    "Revatī is specified as another mansion",
+    "An increase of fame is associated with Revatī"
+   ],
+   "inference": "Uttara Bhādra brings happiness and Revatī brings increase of fame",
+   "uncertainties": [],
+   "plain_english": "There is happiness in Uttara Bhādra, and in Revatī there is an increase of fame."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "praśasyate",
+     "gloss": "is-recommended",
+     "grounds": "passive verb expressing approval",
+     "morph": "3.sg.present-passive; root śaṃs with pra"
+    },
+    {
+     "surface": "yat+īśasya",
+     "gloss": "when-of-lord",
+     "grounds": "compound indicating condition related to the lord",
+     "morph": "compound: yat+first, īśasya+second"
+    },
+    {
+     "surface": "kṛśānoḥ+vā",
+     "gloss": "or-of-fire",
+     "grounds": "compound offering an alternative association",
+     "morph": "compound: kṛśānoḥ+first, vā+second"
+    },
+    {
+     "surface": "mantra+ārambhaḥ",
+     "gloss": "mantra-commencement",
+     "grounds": "compound naming the beginning of mantra practice",
+     "morph": "compound: mantra+first, ārambhaḥ+second; m.nom.sg"
+    },
+    {
+     "surface": "yathā+kramam",
+     "gloss": "according-to-order",
+     "grounds": "compound indicating proper sequence",
+     "morph": "compound: yathā+first, kramam+second; (indecl.)"
+    }
+   ],
+   "question": "Under what conditions is the commencement of mantra practice recommended?",
+   "premises": [
+    "Commencement of mantra practice is the subject",
+    "It is recommended in relation to the lord or fire",
+    "It should follow the proper order"
+   ],
+   "inference": "Mantra commencement is recommended in proper order in relation to the lord or fire",
+   "uncertainties": [
+    "The precise astrological or ritual referent of īśasya and kṛśānoḥ is unclear"
+   ],
+   "plain_english": "The commencement of mantra practice is recommended, in proper order, when related to the lord or to fire."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "tatra+āma+viṣayam",
+     "gloss": "there-that-subject",
+     "grounds": "compound referring to the matter under discussion",
+     "morph": "compound: tatra+first, āma+second, viṣayam+third; n.acc.sg"
+    },
+    {
+     "surface": "agastya+saṃhitā+uktatvāt",
+     "gloss": "because-stated-in-agastya-saṃhitā",
+     "grounds": "compound giving textual authority as reason",
+     "morph": "compound: agastya+first, saṃhitā+second, uktatvāt+third; n.abl.sg"
+    }
+   ],
+   "question": "Why is the stated subject accepted as authoritative in this context?",
+   "premises": [
+    "A particular subject is being referred to",
+    "The Agastya Saṃhitā states it",
+    "Being stated there provides authority"
+   ],
+   "inference": "The subject is accepted because it is stated in the Agastya Saṃhitā",
+   "uncertainties": [
+    "The exact content of tatra+āma+viṣayam is not explicit"
+   ],
+   "plain_english": "That subject is accepted because it is stated in the Agastya Saṃhitā."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "conjunction",
+     "grounds": "subject denoting an auspicious conjunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatra+tantre",
+     "gloss": "in-all-tantras",
+     "grounds": "compound indicating universal textual scope",
+     "morph": "compound: sarvatra+first, tantre+second; n.loc.sg"
+    },
+    {
+     "surface": "śubha+āvahāḥ",
+     "gloss": "auspicious-bringing",
+     "grounds": "compound describing beneficial effect",
+     "morph": "compound: śubha+first, āvahāḥ+second; m.nom.pl"
+    }
+   ],
+   "question": "How are such conjunctions regarded across all tantric texts?",
+   "premises": [
+    "Conjunctions are the subject",
+    "All tantras are taken as the scope",
+    "These conjunctions are described as bringing auspiciousness"
+   ],
+   "inference": "Such conjunctions are regarded as auspicious in all tantras",
+   "uncertainties": [],
+   "plain_english": "Likewise, such conjunctions are said to bring auspicious results in all tantras."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "harṣaṇaḥ",
+     "gloss": "harṣaṇa",
+     "grounds": "name of a yoga or period",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varīyāṃśca",
+     "gloss": "varīyān",
+     "grounds": "name of a yoga or period; fused with conjunction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "name of a yoga or period",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "siddha",
+     "grounds": "name of a yoga or period",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahma",
+     "grounds": "name of a yoga or period",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aindraḥ",
+     "gloss": "aindra",
+     "grounds": "name of a yoga or period",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral indicating count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which named yogas are included in the stated group of sixteen?",
+   "premises": [
+    "Several yogas are named explicitly",
+    "The list includes Harṣaṇa, Varīyān, Śiva, Siddha, Brahma, and Aindra",
+    "The group is identified as sixteen"
+   ],
+   "inference": "These named yogas belong to a group of sixteen",
+   "uncertainties": [
+    "The remaining members of the sixteen are not listed in this verse"
+   ],
+   "plain_english": "Harṣaṇa, Varīyān, Śiva, Siddha, Brahma, and Aindra are among the sixteen."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "śubhāni",
+     "gloss": "auspicious-things",
+     "grounds": "describes the listed items as favorable",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+tantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "compound indicating universal textual scope",
+     "morph": "compound: sarva+first, tantreṣu+second; n.loc.pl"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "stated",
+     "grounds": "past passive participle indicating authoritative statement",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are these items characterized across all tantric texts?",
+   "premises": [
+    "The items are described as auspicious",
+    "All tantras are the scope of the statement",
+    "The characterization is authoritatively stated"
+   ],
+   "inference": "These items are stated to be auspicious in all tantras",
+   "uncertainties": [],
+   "plain_english": "They are indeed stated to be auspicious in all tantras."
+  }
+ ]
+}

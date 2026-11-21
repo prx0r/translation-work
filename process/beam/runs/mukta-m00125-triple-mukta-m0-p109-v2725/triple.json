@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "jñātibandhusuhṛcchiṣyair",
+     "gloss": "relatives-friends-disciples",
+     "grounds": "compound of jñāti, bandhu, suhṛd, and śiṣya; instrumental plural expressing accompaniment",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "bhṛtyācāryaiś",
+     "gloss": "servants-teachers",
+     "grounds": "compound of bhṛtya and ācārya; instrumental plural with sandhi before ca",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking groups of companions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣitaiḥ",
+     "gloss": "initiated-ones",
+     "grounds": "past participle used substantively; instrumental plural expressing accompaniment",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "Which companions share in the benefits attained by the faithful person?",
+   "premises": [
+    "The faithful person continually obtains the desired benefits.",
+    "These benefits are enjoyed in the company of others.",
+    "The companions include relatives, friends, disciples, servants, teachers, and initiated ones."
+   ],
+   "inference": "The faithful person enjoys the attained benefits together with a wide circle of kin, dependents, teachers, and initiates.",
+   "uncertainties": [
+    "The exact syntactic scope of ca in grouping the listed companions is not fully explicit."
+   ],
+   "plain_english": "He enjoys these benefits together with relatives, friends, disciples, servants, teachers, and those who are initiated."
+  }
+ ]
+}

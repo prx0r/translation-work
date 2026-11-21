@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p266",
+ "items": [
+  {
+   "verse": 6650,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive indicating prior completion of the ritual action",
+     "morph": "(gerund) kṛ"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full-oblation",
+     "grounds": "refers to the concluding complete offering in the fire ritual",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating taking up something from the fire",
+     "morph": "(gerund) sam-ā-dā"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "points to the fire or ritual locus mentioned previously",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ash",
+     "grounds": "sacred ash remaining after the fire oblations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "should-dismiss",
+     "grounds": "prescriptive injunction for releasing or disposing of the ash",
+     "morph": "3.sg.act-opt vi-sṛj"
+    }
+   ],
+   "question": "How must the sacred ash be handled after completing the full oblation in the fire?",
+   "premises": [
+    "The full oblation must first be performed in the ritual fire.",
+    "Ash is to be taken from that same fire after the oblation.",
+    "The taken ash must then be ritually dismissed."
+   ],
+   "inference": "Therefore, upon completing the full oblation, the officiant should take ash from the fire and dismiss it according to ritual procedure.",
+   "uncertainties": [
+    "The exact manner or location of dismissal implied by visarjayet is not specified in this verse."
+   ],
+   "plain_english": "Having performed the full oblation, one should take the ash from that fire and then dismiss it."
+  }
+ ]
+}

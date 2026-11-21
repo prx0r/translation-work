@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpadharāṃ",
+     "gloss": "form-bearing",
+     "grounds": "compound rūpa+dharā, accusative feminine singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtyāṃ",
+     "gloss": "kṛtyā",
+     "grounds": "accusative feminine singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "I-salute",
+     "grounds": "first person singular active present",
+     "morph": "1.sg.act-pres + root nam"
+    },
+    {
+     "surface": "ripunāśinīm",
+     "gloss": "enemy-destroying",
+     "grounds": "compound ripu+nāśinī, accusative feminine singular",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What form of kṛtyā is being saluted as enemy-destroying?",
+   "premises": [
+    "The form bears a shape.",
+    "The kṛtyā is saluted.",
+    "She destroys enemies."
+   ],
+   "inference": "The speaker salutes the enemy-destroying kṛtyā in that form.",
+   "uncertainties": [
+    "Exact ritual referent of kṛtyā unspecified."
+   ],
+   "plain_english": "Thus I salute the form-bearing kṛtyā, destroyer of enemies."
+  }
+ ]
+}

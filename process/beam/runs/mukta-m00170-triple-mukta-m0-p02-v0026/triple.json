@@ -1,0 +1,1119 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "’rddhā+di",
+     "gloss": "half-beginning",
+     "grounds": "compound indicating starting measure",
+     "morph": "compound=’rddha+ādi"
+    },
+    {
+     "surface": "śatā+rddhā+ntaṃ",
+     "gloss": "hundred-half-limit",
+     "grounds": "compound indicating upper limit of fifty",
+     "morph": "compound=śata+ardha+anta, m.acc.sg"
+    },
+    {
+     "surface": "kūrmo",
+     "gloss": "tortoise",
+     "grounds": "ritual tortoise figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manv+aṅgulo",
+     "gloss": "manu-finger-measure",
+     "grounds": "measured in manu finger units",
+     "morph": "compound=manu+aṅgula, m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "prescribed or held to be",
+     "morph": "m.nom.sg, past-passive-participle √man"
+    }
+   ],
+   "question": "What range of finger-measures is prescribed for the ritual tortoise figure?",
+   "premises": [
+    "The tortoise figure is measured in manu finger units.",
+    "Its size begins from half a unit.",
+    "Its size extends up to fifty units."
+   ],
+   "inference": "The ritual tortoise should be made in manu finger-measures ranging from half to fifty.",
+   "uncertainties": [
+    "The exact value of a manu finger unit is not specified here."
+   ],
+   "plain_english": "Then the tortoise figure is prescribed to measure from half a manu-finger up to fifty manu-fingers."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "sauvarṇo",
+     "gloss": "golden",
+     "grounds": "made of gold",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūpy+ajo",
+     "gloss": "silver-born",
+     "grounds": "made of silver; alternative material",
+     "morph": "compound=rūpya+aja, m.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāpyaḥ",
+     "gloss": "to-be-bathed",
+     "grounds": "ritually bathed",
+     "morph": "m.nom.sg, future-passive-participle √snā"
+    },
+    {
+     "surface": "pañcā+sṛtena",
+     "gloss": "five-nectars",
+     "grounds": "with the five nectars",
+     "morph": "compound=pañca+amṛta, n.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials and ritual bathing substance are required for the tortoise figure?",
+   "premises": [
+    "The tortoise figure may be made of gold.",
+    "Alternatively it may be made of silver.",
+    "It must be ritually bathed with the five nectars."
+   ],
+   "inference": "A golden or silver tortoise figure is to be bathed with the five nectars.",
+   "uncertainties": [],
+   "plain_english": "The tortoise, made of gold or of silver, should indeed be bathed with the five nectars."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "īśānā+d",
+     "gloss": "from-īśāna",
+     "grounds": "starting from the Īśāna direction",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "agni+koṇā+d",
+     "gloss": "from-fire-corner",
+     "grounds": "starting from the southeast corner; alternative",
+     "morph": "compound=agni+koṇa, m.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces alternative starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilāḥ",
+     "gloss": "stones",
+     "grounds": "foundation or ritual stones",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sthāpyāḥ",
+     "gloss": "to-be-placed",
+     "grounds": "to be installed",
+     "morph": "f.nom.pl, future-passive-participle √sthā"
+    },
+    {
+     "surface": "pradakṣiṇāḥ",
+     "gloss": "clockwise",
+     "grounds": "in clockwise order",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "From which directions and in what order should the ritual stones be placed?",
+   "premises": [
+    "Placement may begin from the Īśāna direction.",
+    "Placement may alternatively begin from the fire corner.",
+    "The stones must be placed in clockwise order."
+   ],
+   "inference": "The stones are to be placed clockwise, starting from Īśāna or from the fire corner.",
+   "uncertainties": [],
+   "plain_english": "The stones should be placed in clockwise order, starting from the Īśāna direction or from the fire corner."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "bali+dānaṃ",
+     "gloss": "offering-giving",
+     "grounds": "presentation of ritual offerings",
+     "morph": "compound=bali+dāna, n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "food presented to the deity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vividhā+nnaṃ",
+     "gloss": "various-food",
+     "grounds": "consisting of various kinds of food",
+     "morph": "compound=vividha+anna, n.nom.sg"
+    },
+    {
+     "surface": "ghṛta+plutam",
+     "gloss": "ghee-soaked",
+     "grounds": "drenched in clarified butter",
+     "morph": "compound=ghṛta+pluta, n.nom.sg"
+    }
+   ],
+   "question": "What kinds of offerings and food preparations are required in the ritual?",
+   "premises": [
+    "An offering presentation is required.",
+    "A food offering is also required.",
+    "The food should be varied and soaked in ghee."
+   ],
+   "inference": "The ritual requires bali offerings and a varied food offering soaked in ghee.",
+   "uncertainties": [],
+   "plain_english": "One should give bali offerings and a naivedya of various foods soaked in ghee."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "brāhme",
+     "gloss": "in-brāhma",
+     "grounds": "under the Brāhma lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣye",
+     "gloss": "in-puṣya",
+     "grounds": "under the Puṣya lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛge",
+     "gloss": "in-mṛga",
+     "grounds": "under the Mṛga lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maitre",
+     "gloss": "in-maitra",
+     "grounds": "under the Maitra lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pauṣṇa+vāsava+vāruṇe",
+     "gloss": "in-pauṣṇa-vāsava-vāruṇa",
+     "grounds": "under Pauṣṇa, Vāsava, or Vāruṇa lunar mansions",
+     "morph": "compound=pauṣṇa+vāsava+vāruṇa, n.loc.sg"
+    }
+   ],
+   "question": "Which lunar mansions are listed as suitable times for the ritual action?",
+   "premises": [
+    "Brāhma, Puṣya, Mṛga, and Maitra are named.",
+    "Pauṣṇa, Vāsava, and Vāruṇa are also named.",
+    "These are given as suitable lunar mansions."
+   ],
+   "inference": "The ritual may be performed under Brāhma, Puṣya, Mṛga, Maitra, Pauṣṇa, Vāsava, or Vāruṇa.",
+   "uncertainties": [],
+   "plain_english": "The rite may be done under Brāhma, Puṣya, Mṛga, Maitra, Pauṣṇa, Vāsava, or Vāruṇa."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "mṛgaśīrṣe",
+     "gloss": "in-mṛgaśīrṣa",
+     "grounds": "under the Mṛgaśīrṣa lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "revatyām",
+     "gloss": "in-revatī",
+     "grounds": "under the Revatī lunar mansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "uttarā+tritaye",
+     "gloss": "in-northern-triad",
+     "grounds": "under the three northern lunar mansions",
+     "morph": "compound=uttarā+tritaya, n.loc.sg"
+    },
+    {
+     "surface": "śubhaḥ",
+     "gloss": "auspicious",
+     "grounds": "favorable for the rite",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which additional lunar mansions are declared auspicious for the ritual?",
+   "premises": [
+    "Mṛgaśīrṣa is named as a suitable time.",
+    "Revatī is named as a suitable time.",
+    "The three northern lunar mansions are also auspicious."
+   ],
+   "inference": "Mṛgaśīrṣa, Revatī, and the northern triad are auspicious for the ritual.",
+   "uncertainties": [
+    "The exact identity of the northern triad is assumed from common usage."
+   ],
+   "plain_english": "It is auspicious under Mṛgaśīrṣa, Revatī, and the three northern lunar mansions."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "vāṭī+vāpi+taḍāgā+di",
+     "gloss": "garden-well-pond-etc",
+     "grounds": "places such as gardens, wells, and ponds",
+     "morph": "compound=vāṭī+vāpi+taḍāga+ādi, n.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "at a location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "to-be-done",
+     "grounds": "should be constructed",
+     "morph": "n.nom.sg, future-passive-participle √kṛ"
+    },
+    {
+     "surface": "murā+layam",
+     "gloss": "mura-abode",
+     "grounds": "temple of Viṣṇu",
+     "morph": "compound=mura+ālaya, n.nom.sg"
+    }
+   ],
+   "question": "In what kinds of locations may a temple of Viṣṇu be constructed?",
+   "premises": [
+    "Gardens, wells, and ponds are named as locations.",
+    "A temple of Viṣṇu is the structure to be built.",
+    "Such construction is prescribed in these places."
+   ],
+   "inference": "A temple of Viṣṇu may be constructed in places such as gardens, wells, and ponds.",
+   "uncertainties": [],
+   "plain_english": "A temple of Viṣṇu should be built in places such as gardens, wells, or ponds."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "devatā+yatanaṃ",
+     "gloss": "deity-abode",
+     "grounds": "a shrine or temple",
+     "morph": "compound=devatā+āyatana, n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "one should construct",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "dharmā+rtha+kāma+mokṣa+dam",
+     "gloss": "dharma-wealth-desire-liberation-giving",
+     "grounds": "bestowing the four human aims",
+     "morph": "compound=dharma+artha+kāma+mokṣa+da, n.acc.sg"
+    }
+   ],
+   "question": "What spiritual and worldly benefits result from constructing a deity's abode?",
+   "premises": [
+    "One should construct a deity's abode.",
+    "Such a construction gives dharma.",
+    "It also gives wealth, desire, and liberation."
+   ],
+   "inference": "Building a deity's abode yields dharma, wealth, desire, and liberation.",
+   "uncertainties": [],
+   "plain_english": "One should build a deity's abode, for it grants dharma, wealth, desire, and liberation."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "dharma+vṛddhir",
+     "gloss": "dharma-increase",
+     "grounds": "growth of dharma",
+     "morph": "compound=dharma+vṛddhi, f.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "arises or occurs",
+     "morph": "3.sg.optative-active √bhū"
+    },
+    {
+     "surface": "athaḥ",
+     "gloss": "wealth",
+     "grounds": "material prosperity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmo",
+     "gloss": "desire",
+     "grounds": "fulfillment of desire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mokṣas",
+     "gloss": "liberation",
+     "grounds": "final release",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "as a result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-people",
+     "grounds": "for human beings",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What sequence of benefits do people obtain from building a deity's abode?",
+   "premises": [
+    "Dharma increases for people.",
+    "Wealth and desire follow.",
+    "Liberation is obtained as a result."
+   ],
+   "inference": "From building a deity's abode, people gain increase in dharma, wealth, desire, and liberation.",
+   "uncertainties": [
+    "The token 'athaḥ' is read as 'arthaḥ' in sense; surface kept as given."
+   ],
+   "plain_english": "From it, people gain increase in dharma, wealth, desire, and then liberation."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "aiṣṭake",
+     "gloss": "in-brick",
+     "grounds": "in a brick-built structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śata+koṭi+ghnaṃ",
+     "gloss": "hundred-crore-multiplied",
+     "grounds": "multiplied a hundred crore times",
+     "morph": "compound=śata+koṭi+ghna, n.nom.sg"
+    },
+    {
+     "surface": "śaile",
+     "gloss": "in-stone",
+     "grounds": "in a stone-built structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "’nantaṃ",
+     "gloss": "infinite",
+     "grounds": "limitless",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "meritorious result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "in a temple-house",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How does the meritorious fruit differ between brick and stone temple construction?",
+   "premises": [
+    "A brick-built temple yields fruit multiplied a hundred crore times.",
+    "A stone-built temple yields infinite fruit.",
+    "Both results pertain to the temple-house."
+   ],
+   "inference": "Building in brick gives vastly multiplied merit, while building in stone gives infinite merit.",
+   "uncertainties": [],
+   "plain_english": "In a brick temple the fruit is multiplied a hundred crore times, but in a stone temple the fruit is infinite."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "ghaṭe",
+     "gloss": "in-pot",
+     "grounds": "on the ritual pot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhvaje",
+     "gloss": "in-banner",
+     "grounds": "on the banner",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pratiṣṭhāyām",
+     "gloss": "in-consecration",
+     "grounds": "during installation rites",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyāha+saptakam",
+     "gloss": "auspicious-day-seven",
+     "grounds": "a set of seven auspicious-day rites",
+     "morph": "compound=puṇyāha+saptaka, n.nom.sg"
+    }
+   ],
+   "question": "What auspicious-day observance is required during consecration involving pot and banner?",
+   "premises": [
+    "The context includes the pot and the banner.",
+    "The occasion is consecration.",
+    "A set of seven auspicious-day rites is prescribed."
+   ],
+   "inference": "During consecration involving pot and banner, seven auspicious-day rites should be performed.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the consecration involving the pot and the banner, seven puṇyāha rites should be performed."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "khure",
+     "gloss": "on-hoof",
+     "grounds": "on the base or hoof element",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvāro+cchraye",
+     "gloss": "on-door-height",
+     "grounds": "on the raised door frame",
+     "morph": "compound=dvāra+ucchraya, m.loc.sg"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "on-pitcher",
+     "grounds": "on the pitcher element",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paṭṭe",
+     "gloss": "on-slab",
+     "grounds": "on the slab or band",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "padma+śilāsu",
+     "gloss": "on-lotus-stones",
+     "grounds": "on the lotus-shaped stones",
+     "morph": "compound=padma+śilā, f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which architectural elements are specified as locations for ritual observances?",
+   "premises": [
+    "The hoof, door height, pitcher, and slab are named.",
+    "Lotus stones are also named.",
+    "These serve as locations for prescribed rites."
+   ],
+   "inference": "Ritual observances are to be performed on the hoof, door height, pitcher, slab, and lotus stones.",
+   "uncertainties": [
+    "The exact ritual action is carried over from the preceding verse."
+   ],
+   "plain_english": "These rites are also to be done on the hoof, the door height, the pitcher, the slab, and the lotus stones."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "dhvajo+cchrāya",
+     "gloss": "banner-raising",
+     "grounds": "the raising of the banner",
+     "morph": "compound=dhvaja+ucchrāya, m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "one-should-perform",
+     "grounds": "one should carry out",
+     "morph": "3.sg.optative-middle √kṛ"
+    },
+    {
+     "surface": "śāntikāni",
+     "gloss": "pacificatory-rites",
+     "grounds": "rites for appeasement",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "caturdaśaṃ",
+     "gloss": "fourteen",
+     "grounds": "fourteen in number",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many pacificatory rites accompany the raising of the ritual banner?",
+   "premises": [
+    "The banner raising is to be performed.",
+    "Pacifactory rites accompany it.",
+    "These rites number fourteen."
+   ],
+   "inference": "One should perform the banner raising along with fourteen pacificatory rites.",
+   "uncertainties": [
+    "The form 'caturdaśaṃ' is read as indicating fourteen rites; surface kept as given."
+   ],
+   "plain_english": "One should perform the banner raising and carry out fourteen pacificatory rites."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "measure",
+     "grounds": "prescribed measurement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kumbhake",
+     "gloss": "in-pitcher",
+     "grounds": "at the pitcher element",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūla+nāsike",
+     "gloss": "root-nose",
+     "grounds": "at the base nose element",
+     "morph": "compound=mūla+nāsikā, n.loc.sg"
+    },
+    {
+     "surface": "bhitti+bāhyataḥ",
+     "gloss": "wall-outside",
+     "grounds": "from outside the wall",
+     "morph": "compound=bhitti+bāhyatas, (indecl.)"
+    }
+   ],
+   "question": "Where should the prescribed measurement be taken relative to pitcher, base nose, and wall?",
+   "premises": [
+    "A measure is specified at the pitcher element.",
+    "It is also specified at the base nose element.",
+    "The reference point is outside the wall."
+   ],
+   "inference": "The measure at the pitcher and base nose is to be taken from outside the wall.",
+   "uncertainties": [],
+   "plain_english": "The measure at the pitcher and the base nose should be taken from outside the wall."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "pīṭhasya",
+     "gloss": "of-pedestal",
+     "grounds": "of the pedestal",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nirgamo",
+     "gloss": "projection",
+     "grounds": "outward projection",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bāhyas",
+     "gloss": "outside",
+     "grounds": "external",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cchādyakasya",
+     "gloss": "of-covering",
+     "grounds": "of the covering element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the outward projection of the pedestal and covering be determined?",
+   "premises": [
+    "The pedestal has an outward projection.",
+    "The covering element also has a projection.",
+    "Both projections are external in the same manner."
+   ],
+   "inference": "The pedestal and the covering should both have an outward external projection.",
+   "uncertainties": [],
+   "plain_english": "The outward projection of the pedestal, and likewise of the covering, should be external."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "prāsāda+m+aṅga+sraṃkhyā",
+     "gloss": "temple-limb-number",
+     "grounds": "the count of temple limbs",
+     "morph": "compound=prāsāda+aṅga+saṃkhyā, f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāri+mārgā+ntara+sthitāḥ",
+     "gloss": "water-channel-interval-situated",
+     "grounds": "situated at intervals of water channels",
+     "morph": "compound=vāri+mārga+antara+sthita, f.nom.pl"
+    }
+   ],
+   "question": "How are temple limb counts related to the placement of water channel intervals?",
+   "premises": [
+    "The number of temple limbs is specified.",
+    "Water channel intervals are also specified.",
+    "These are situated in relation to each other."
+   ],
+   "inference": "The count of temple limbs corresponds to elements situated at water channel intervals.",
+   "uncertainties": [
+    "The exact syntactic relation between singular and plural forms is compressed in the verse."
+   ],
+   "plain_english": "The number of temple limbs and those elements situated at the intervals of water channels are specified."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "sāmānyo",
+     "gloss": "general",
+     "grounds": "common or general",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "’yaṃ",
+     "gloss": "this",
+     "grounds": "this rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhis",
+     "gloss": "rule",
+     "grounds": "prescribed procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tulyo",
+     "gloss": "equal",
+     "grounds": "uniform",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hastā+ṅgulaś",
+     "gloss": "cubit-finger",
+     "grounds": "measured in cubits and fingers",
+     "morph": "compound=hasta+aṅgula, m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgamaḥ",
+     "gloss": "projection",
+     "grounds": "outward projection",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What general rule governs the uniformity of projection measurements in cubits and fingers?",
+   "premises": [
+    "This is stated as a general rule.",
+    "The projection is measured in cubits and fingers.",
+    "The rule applies uniformly."
+   ],
+   "inference": "This general rule prescribes a uniform projection measured in cubits and fingers.",
+   "uncertainties": [],
+   "plain_english": "This is a general rule: the projection is uniform and measured in cubits and fingers."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "colophon marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+sūtradhāra+maṇḍana+viracite",
+     "gloss": "śrī-sūtradhāra-maṇḍana-composed",
+     "grounds": "composed by Śrī Sūtradhāra Maṇḍana",
+     "morph": "compound=śrī+sūtradhāra+maṇḍana+viracita, n.loc.sg"
+    },
+    {
+     "surface": "prāsāda+maṇḍane",
+     "gloss": "in-prāsāda-maṇḍana",
+     "grounds": "in the work Prāsādamaṇḍana",
+     "morph": "compound=prāsāda+maṇḍana, n.loc.sg"
+    },
+    {
+     "surface": "vāstu+śāstre",
+     "gloss": "in-architecture-treatise",
+     "grounds": "in the treatise on architecture",
+     "morph": "compound=vāstu+śāstra, n.loc.sg"
+    },
+    {
+     "surface": "miśraka+lakṣaṇe",
+     "gloss": "in-mixed-characteristics",
+     "grounds": "in the section on mixed characteristics",
+     "morph": "compound=miśraka+lakṣaṇa, n.loc.sg"
+    },
+    {
+     "surface": "prathamo+’dhyāyaḥ",
+     "gloss": "first-chapter",
+     "grounds": "the first chapter",
+     "morph": "compound=prathama+adhyāya, m.nom.sg"
+    }
+   ],
+   "question": "What work, author, section, and chapter are identified in this colophon?",
+   "premises": [
+    "The work is Prāsādamaṇḍana, an architecture treatise.",
+    "It was composed by Śrī Sūtradhāra Maṇḍana.",
+    "This concludes the first chapter on mixed characteristics."
+   ],
+   "inference": "The colophon identifies the first chapter on mixed characteristics in Prāsādamaṇḍana by Śrī Sūtradhāra Maṇḍana.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the first chapter, on mixed characteristics, in the architectural treatise Prāsādamaṇḍana composed by Śrī Sūtradhāra Maṇḍana."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siṃhā+sanaṃ",
+     "gloss": "lion-seat",
+     "grounds": "throne",
+     "morph": "compound=siṃha+āsana, n.nom.sg"
+    },
+    {
+     "surface": "rājñāṃ",
+     "gloss": "of-kings",
+     "grounds": "belonging to kings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prāsādasya",
+     "gloss": "of-temple",
+     "grounds": "belonging to the temple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "that platform",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What analogy explains the status of the temple platform relative to the temple?",
+   "premises": [
+    "A lion-seat belongs to kings.",
+    "The platform belongs to the temple.",
+    "The relationship is presented as analogous."
+   ],
+   "inference": "The temple platform is to the temple as a throne is to kings.",
+   "uncertainties": [],
+   "plain_english": "Just as a throne belongs to kings, so the platform belongs to the temple."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "jagatī",
+     "gloss": "platform",
+     "grounds": "the temple platform",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "in five ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "f.nom.sg, past-passive-participle √pra-vac"
+    },
+    {
+     "surface": "prāsādasyā+nurūpyataḥ",
+     "gloss": "of-temple-conformity",
+     "grounds": "in conformity with the temple",
+     "morph": "compound=prāsāda+anurūpyatā, (indecl.)"
+    }
+   ],
+   "question": "How many types of temple platform are declared and by what principle are they determined?",
+   "premises": [
+    "The platform is declared to be fivefold.",
+    "Its types conform to the temple.",
+    "The classification follows the temple's form."
+   ],
+   "inference": "The temple platform is declared fivefold in conformity with the temple.",
+   "uncertainties": [],
+   "plain_english": "The platform is declared to be fivefold, in conformity with the temple."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca+guṇā",
+     "gloss": "fivefold",
+     "grounds": "in five degrees",
+     "morph": "compound=pañca+guṇa, f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "f.nom.sg, past-passive-participle √pra-vac"
+    },
+    {
+     "surface": "jyeṣṭhā",
+     "gloss": "largest",
+     "grounds": "superior size",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyā",
+     "gloss": "middle",
+     "grounds": "intermediate size",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanīyasī",
+     "gloss": "smallest",
+     "grounds": "inferior size",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What graded sizes are assigned to the fivefold temple platform?",
+   "premises": [
+    "The platform is declared fivefold in sequence.",
+    "It has largest, middle, and smallest grades.",
+    "These grades form a progressive classification."
+   ],
+   "inference": "The fivefold platform is graded sequentially as largest, middle, and smallest.",
+   "uncertainties": [],
+   "plain_english": "It is declared fivefold in sequence, as largest, middle, and smallest."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "for the temple",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jagatī",
+     "gloss": "platform",
+     "grounds": "the temple platform",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "should be constructed",
+     "morph": "f.nom.sg, future-passive-participle √kṛ"
+    },
+    {
+     "surface": "su+rūpā",
+     "gloss": "well-formed",
+     "grounds": "of good form",
+     "morph": "compound=su+rūpa, f.nom.sg"
+    },
+    {
+     "surface": "lakṣaṇā+nvitā",
+     "gloss": "characteristics-endowed",
+     "grounds": "possessing proper characteristics",
+     "morph": "compound=lakṣaṇa+anvita, f.nom.sg"
+    }
+   ],
+   "question": "What qualities must the temple platform possess when constructed for a temple?",
+   "premises": [
+    "A platform should be made for the temple.",
+    "It must be well-formed.",
+    "It must be endowed with proper characteristics."
+   ],
+   "inference": "The temple platform should be constructed well-formed and endowed with proper characteristics.",
+   "uncertainties": [],
+   "plain_english": "In a temple, the platform should be made well-formed and endowed with the proper characteristics."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "dvārakāyāṃ",
+     "gloss": "in-doorway",
+     "grounds": "at the doorway",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "should be made",
+     "morph": "f.nom.sg, future-passive-participle √kṛ"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣa+traye",
+     "gloss": "in-three-persons",
+     "grounds": "in the three human size classes",
+     "morph": "compound=puruṣa+traya, n.loc.sg"
+    }
+   ],
+   "question": "Where and for which human size classes should the platform be constructed?",
+   "premises": [
+    "The platform should be made at the doorway.",
+    "The same applies to the three human size classes.",
+    "The construction follows the same rule."
+   ],
+   "inference": "The platform should be made at the doorway likewise for the three human size classes.",
+   "uncertainties": [
+    "The referent of 'puruṣa-traye' as three size classes follows architectural convention."
+   ],
+   "plain_english": "It should indeed be made at the doorway, and likewise for the three classes of persons."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "dvi+guṇā",
+     "gloss": "twofold",
+     "grounds": "doubled in measure",
+     "morph": "compound=dvi+guṇa, f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatā",
+     "gloss": "extended",
+     "grounds": "stretched or extended",
+     "morph": "f.nom.sg, past-passive-participle √yam"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "should be constructed",
+     "morph": "f.nom.sg, future-passive-participle √kṛ"
+    },
+    {
+     "surface": "sahasrā+yatane",
+     "gloss": "in-thousand-abode",
+     "grounds": "in a temple with a thousand shrines",
+     "morph": "compound=sahasra+āyatana, n.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed rule",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What special dimensional rule applies to the platform in a thousand-shrine temple?",
+   "premises": [
+    "The platform may be made twofold.",
+    "Alternatively it may be made extended.",
+    "This rule applies in a thousand-shrine temple."
+   ],
+   "inference": "In a thousand-shrine temple, the platform should be made twofold or extended according to rule.",
+   "uncertainties": [
+    "The exact sense of 'yatā' as extended is inferred from context."
+   ],
+   "plain_english": "In a thousand-shrine temple, the rule is that the platform should be made twofold or extended."
+  }
+ ]
+}

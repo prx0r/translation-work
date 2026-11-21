@@ -1,0 +1,27 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "bindunādalasanmūrdhābījaṃnaraharerviduḥ",
+     "gloss": "bindu-nada-shining-crown-bija-narasimha",
+     "grounds": "fused sandhi token; internal parse bindu-nada-lasan-murdha-bija of narahari with viduh",
+     "morph": "compound.acc.sg+gen.sg+3.pl.act-pres+root vid"
+    }
+   ],
+   "question": "Which bija of Narahari is known with bindu, nada, and shining crown?",
+   "premises": [
+    "Narahari bija has bindu",
+    "Narahari bija has nada",
+    "Narahari bija has shining crown"
+   ],
+   "inference": "The verse identifies Narahari's bija by bindu, nada, and shining crown.",
+   "uncertainties": [
+    "Fused sandhi token; internal parse uncertain."
+   ],
+   "plain_english": "They know the bija of Narahari, whose crown shines with bindu and nada."
+  }
+ ]
+}

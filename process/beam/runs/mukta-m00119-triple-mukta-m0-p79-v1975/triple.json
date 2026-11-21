@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "mālikāyāmidaṃ",
+     "gloss": "in-garland-this",
+     "grounds": "locative feminine singular mālikāyām fused with neuter idam; no visible sandhi marker",
+     "morph": "loc.sg.f + nom/acc.neu.sg"
+    },
+    {
+     "surface": "noktamanyamālāvidhau",
+     "gloss": "not-said-in-other-garland-vidhi",
+     "grounds": "na + uktam fused with anyamālāvidhau in locative singular masculine",
+     "morph": "past-participle + loc.sg.m"
+    },
+    {
+     "surface": "matam",
+     "gloss": "view",
+     "grounds": "past participle of man, used as noun for doctrine or opinion",
+     "morph": "nom.sg.neu"
+    }
+   ],
+   "question": "Which garland procedure accepts this doctrine as its view?",
+   "premises": [
+    "this is not said in the garland",
+    "the other garland-vidhi holds it as view"
+   ],
+   "inference": "the doctrine belongs to the other garland-vidhi, not the garland itself",
+   "uncertainties": [
+    "exact scope of mālikā versus anyamālāvidhi is not specified"
+   ],
+   "plain_english": "This is not said in the garland; in the other garland-vidhi it is the view."
+  }
+ ]
+}

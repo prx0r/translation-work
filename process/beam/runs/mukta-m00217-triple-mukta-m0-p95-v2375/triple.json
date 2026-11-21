@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "niśārajo",
+     "gloss": "night-dust",
+     "grounds": "compound of night and dust",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhavetpītaṃ",
+     "gloss": "becomes-yellow",
+     "grounds": "fused form of bhavet and pītam",
+     "morph": "verb 3.sg.act-pres + adj.acc.sg.n"
+    },
+    {
+     "surface": "śuklaṃ",
+     "gloss": "white",
+     "grounds": "color term in accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "taṇḍulajaṃ",
+     "gloss": "rice-born",
+     "grounds": "compound meaning born from rice",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle in accusative",
+     "morph": "verb participle.acc.sg.n"
+    }
+   ],
+   "question": "Which ritual substance is remembered as white and rice-born while night-dust becomes yellow?",
+   "premises": [
+    "night-dust becomes yellow",
+    "white is remembered as rice-born"
+   ],
+   "inference": "The verse assigns yellow to night-dust and white rice-born status to the remembered substance.",
+   "uncertainties": [
+    "exact ritual referent of night-dust is not specified in this verse"
+   ],
+   "plain_english": "Night-dust becomes yellow; white is remembered as rice-born."
+  }
+ ]
+}

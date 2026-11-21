@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p194",
+ "items": [
+  {
+   "verse": 4850,
+   "rows": [
+    {
+     "surface": "agnijvālāmālikāḥ",
+     "gloss": "fire-flame-garlands",
+     "grounds": "compound of agni, jvālā, and mālikā; subject of the imperative",
+     "morph": "compound: agni+stem, jvālā+stem, mālikā+f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle continuing the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhantu",
+     "gloss": "let-stand",
+     "grounds": "imperative expressing a wish or command for abiding presence",
+     "morph": "3.pl.act.imperative √sthā"
+    },
+    {
+     "surface": "bahuśo",
+     "gloss": "abundantly",
+     "grounds": "adverb indicating manifold or repeated presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "pronoun indicating the beneficiary of the invoked presence",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "Which fiery garlands are commanded to abide abundantly for the speaker?",
+   "premises": [
+    "Garlands composed of fire-flames are the invoked entities.",
+    "These garlands are commanded to stand or remain present.",
+    "Their abiding presence is requested abundantly for the speaker."
+   ],
+   "inference": "Garlands of fire-flames are to remain abundantly with the speaker.",
+   "uncertainties": [],
+   "plain_english": "And let garlands of fire-flames stand abundantly for me."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge",
+     "grounds": "compound of mahā (great) and vidyā (knowledge/mantra); subject of the verse",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "anādyā",
+     "gloss": "beginningless",
+     "grounds": "negative compound a-nādyā; qualifies mahāvidyā as without beginning",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "viśadasukhade",
+     "gloss": "clear-bliss-giving",
+     "grounds": "compound viśada (clear) + sukha (bliss) + da (giving); qualifies pade",
+     "morph": "compound; n.loc.sg"
+    },
+    {
+     "surface": "yac",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the state bestowed",
+     "morph": "pronoun; n.nom.sg"
+    },
+    {
+     "surface": "chatu",
+     "gloss": "may-grant",
+     "grounds": "verb expressing the bestowal effected by mahāvidyā",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "pade",
+     "gloss": "in-state",
+     "grounds": "locative noun denoting the supreme abode or condition",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What supreme state does the beginningless great knowledge bestow upon the seeker?",
+   "premises": [
+    "The great knowledge is beginningless.",
+    "This beginningless great knowledge has the power to grant a state.",
+    "The state granted is characterized by clear bliss."
+   ],
+   "inference": "Therefore, the beginningless great knowledge bestows the state of clear bliss.",
+   "uncertainties": [
+    "The precise verbal root and form of chatu are uncertain in this context."
+   ],
+   "plain_english": "May the beginningless great knowledge grant that state which gives clear bliss."
+  }
+ ]
+}

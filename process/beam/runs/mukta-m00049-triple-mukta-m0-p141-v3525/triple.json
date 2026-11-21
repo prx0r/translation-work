@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "pañca+pañca+āhutīḥ",
+     "gloss": "five-five-oblations",
+     "grounds": "reduplicated numeral compound indicating two sets of five; object of offering",
+     "morph": "compound; f.acc.pl"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive injunction to perform the offering",
+     "morph": "3.sg.act-optative √dā"
+    },
+    {
+     "surface": "prati+saṃskāra+karmaṇi",
+     "gloss": "in-each-consecration-rite",
+     "grounds": "locative compound specifying the ritual context for each act",
+     "morph": "compound; n.loc.sg"
+    }
+   ],
+   "question": "What quantity of oblations is required for each consecration rite?",
+   "premises": [
+    "The ritual procedure prescribes oblations as part of consecration.",
+    "The specified amount is five oblations repeated as five.",
+    "This offering applies to each consecration act."
+   ],
+   "inference": "Ten oblations in total must be offered in every consecration rite.",
+   "uncertainties": [],
+   "plain_english": "One should offer five and five oblations in each consecration rite."
+  }
+ ]
+}

@@ -1,0 +1,1225 @@
+{
+ "song": "mukta-m0-p201",
+ "items": [
+  {
+   "verse": 5001,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "should-sacrifice",
+     "grounds": "optative verb expressing ritual action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun indicating the sacrificer",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "fortune",
+     "grounds": "goddess or prosperity personified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "by-herself",
+     "grounds": "indicates spontaneous approach",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upatiṣṭhate",
+     "gloss": "approaches",
+     "grounds": "present verb describing fortune's arrival",
+     "morph": "3.sg.pres.mid √sthā+upa"
+    }
+   ],
+   "question": "What causes fortune to approach a sacrificer of her own accord?",
+   "premises": [
+    "A person performs the prescribed sacrifice",
+    "Fortune is personified as an approaching presence",
+    "Fortune comes spontaneously to that sacrificer"
+   ],
+   "inference": "Performing the sacrifice brings fortune to approach the sacrificer by herself",
+   "uncertainties": [],
+   "plain_english": "For whoever performs the sacrifice, fortune herself indeed comes to him."
+  },
+  {
+   "verse": 5002,
+   "rows": [
+    {
+     "surface": "paśūnāṃ",
+     "gloss": "of-cattle",
+     "grounds": "refers to sacrificial or domestic animals",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibitive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bheḥ",
+     "gloss": "fear",
+     "grounds": "prohibitive injunctive expressing command",
+     "morph": "2.sg.aor.inj.act √bhī"
+    },
+    {
+     "surface": "mā",
+     "gloss": "do-not",
+     "grounds": "prohibitive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "roṅ",
+     "gloss": "cry",
+     "grounds": "prohibitive injunctive expressing command",
+     "morph": "2.sg.aor.inj.act √rud"
+    },
+    {
+     "surface": "mocanaḥ",
+     "gloss": "release",
+     "grounds": "act or state of freeing",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiñca",
+     "gloss": "somewhat",
+     "grounds": "indefinite particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mat",
+     "gloss": "from-me",
+     "grounds": "ablative sense indicating source of release",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What assurance is given regarding fear and weeping for the cattle?",
+   "premises": [
+    "Concern for cattle may cause fear and crying",
+    "A prohibition is issued against fearing and crying",
+    "Release is declared to come from the speaker"
+   ],
+   "inference": "One should not fear or cry for the cattle because release comes from the speaker",
+   "uncertainties": [
+    "mat taken as ablative sense 'from me' though form is abbreviated"
+   ],
+   "plain_english": "Do not fear for the cattle, do not cry; there is indeed some release from me."
+  },
+  {
+   "verse": 5003,
+   "rows": [
+    {
+     "surface": "vāsāṃsi",
+     "gloss": "garments",
+     "grounds": "clothing produced or obtained",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "present verb indicating result",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb indicating abundance or manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "repeated for emphasis or variety",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What material result is said to come about in this manner?",
+   "premises": [
+    "Garments are mentioned as an outcome",
+    "The outcome comes into being",
+    "The manner is indicated as thus and thus"
+   ],
+   "inference": "Garments come into being in various such ways",
+   "uncertainties": [
+    "tathā tathā may indicate abundance or specific manners not fully specified"
+   ],
+   "plain_english": "And garments come into being in this way and that."
+  },
+  {
+   "verse": 5004,
+   "rows": [
+    {
+     "surface": "urṇābhāḥ",
+     "gloss": "wool-bearers",
+     "grounds": "creatures bearing wool, possibly sheep or spiders",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ajīvat",
+     "gloss": "lived",
+     "grounds": "past action of living",
+     "morph": "3.sg.imperf.act √jīv"
+    },
+    {
+     "surface": "avestanūṃ",
+     "gloss": "covering-body",
+     "grounds": "compound denoting outer covering or skin",
+     "morph": "f.acc.sg compound aveṣa+tanū"
+    },
+    {
+     "surface": "vihāya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund) √hā+vi"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the wool-bearing creatures continue living after shedding their covering?",
+   "premises": [
+    "Wool-bearing creatures are the subject",
+    "They abandon their covering or body-sheath",
+    "They continue to live after abandoning it"
+   ],
+   "inference": "The wool-bearers live on even after having shed their covering",
+   "uncertainties": [
+    "urṇābhāḥ and avestanūṃ may refer to sheep shedding wool or to spiders; context ambiguous"
+   ],
+   "plain_english": "And the wool-bearers lived on, having abandoned their covering."
+  },
+  {
+   "verse": 5005,
+   "rows": [
+    {
+     "surface": "sampramantyā",
+     "gloss": "being-agitated",
+     "grounds": "present participle describing a state of disturbance",
+     "morph": "f.inst.sg.pres.part.mid √mad+sam-pra"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "numeral specifying count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "granthayaḥ",
+     "gloss": "knots",
+     "grounds": "ritual knots tied in a thread or cord",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "are-remembered",
+     "grounds": "traditional prescription stated as remembered",
+     "morph": "m.nom.pl.past.pass.part √smṛ"
+    }
+   ],
+   "question": "How many ritual knots are traditionally prescribed in the state of agitation?",
+   "premises": [
+    "A state of agitation is the context",
+    "Knots are ritually prescribed",
+    "The traditional count is eleven"
+   ],
+   "inference": "In that agitated condition, eleven knots are traditionally prescribed",
+   "uncertainties": [
+    "referent of sampramantyā is unclear without wider context"
+   ],
+   "plain_english": "Then, in that agitated state, eleven knots are traditionally prescribed."
+  },
+  {
+   "verse": 5006,
+   "rows": [
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "specifies the left side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "hand",
+     "grounds": "location for tying or holding",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhiṇyāḥ",
+     "gloss": "of-pregnant-woman",
+     "grounds": "recipient or subject of the rite",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the woman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suvīta",
+     "gloss": "should-bear",
+     "grounds": "optative expressing desired outcome of birth",
+     "morph": "3.sg.opt.mid √sū"
+    },
+    {
+     "surface": "sukhaṃ",
+     "gloss": "happily",
+     "grounds": "manner of giving birth",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sutam",
+     "gloss": "son",
+     "grounds": "child born",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What outcome is ensured for a pregnant woman when the rite is applied to her left hand?",
+   "premises": [
+    "The rite involves the left hand of a pregnant woman",
+    "The desired outcome concerns childbirth",
+    "The birth is to be happy and produce a son"
+   ],
+   "inference": "Applied to a pregnant woman's left hand, the rite enables her to bear a son happily",
+   "uncertainties": [],
+   "plain_english": "But on the left hand of a pregnant woman, she should happily give birth to a son."
+  },
+  {
+   "verse": 5007,
+   "rows": [
+    {
+     "surface": "sūtram",
+     "gloss": "thread",
+     "grounds": "ritual thread used in the rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of consecration",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhimantritam",
+     "gloss": "consecrated",
+     "grounds": "thread empowered by mantra recitation",
+     "morph": "n.nom.sg.past.pass.part √mantr+abhi"
+    }
+   ],
+   "question": "By what means must the ritual thread be consecrated for use?",
+   "premises": [
+    "A thread is required for the rite",
+    "Consecration is performed by a specific means",
+    "The means is a mantra"
+   ],
+   "inference": "The thread must be consecrated by means of a mantra",
+   "uncertainties": [],
+   "plain_english": "But the thread must indeed be consecrated with a mantra."
+  },
+  {
+   "verse": 5008,
+   "rows": [
+    {
+     "surface": "kadācit",
+     "gloss": "sometimes",
+     "grounds": "indefinite time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamarṇāt",
+     "gloss": "from-creditor",
+     "grounds": "source of potential danger",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhayam",
+     "gloss": "fear",
+     "grounds": "danger or threat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "person protected by the rite",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "present verb indicating non-occurrence",
+     "morph": "3.sg.pres.mid √jan"
+    }
+   ],
+   "question": "What protection from a creditor does this ritual practice provide?",
+   "premises": [
+    "Fear from a creditor may arise at times",
+    "The protected person is specified",
+    "Such fear does not arise for him"
+   ],
+   "inference": "Through this practice, no fear arises for him from a creditor",
+   "uncertainties": [],
+   "plain_english": "Indeed, no fear ever arises for him from a creditor."
+  },
+  {
+   "verse": 5009,
+   "rows": [
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative referring to the protected person or place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āturam",
+     "gloss": "sick",
+     "grounds": "state of illness",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What state of illness is absent in the one protected by this rite?",
+   "premises": [
+    "A subject or locus is indicated",
+    "Sickness is considered",
+    "Sickness is negated"
+   ],
+   "inference": "In him there is no sickness",
+   "uncertainties": [
+    "asmin may refer to a person or a place; referent unclear"
+   ],
+   "plain_english": "In this one there is no sickness."
+  },
+  {
+   "verse": 5010,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound indicating severity",
+     "morph": "compound-member mahā"
+    },
+    {
+     "surface": "jvara",
+     "gloss": "fever",
+     "grounds": "second member of compound",
+     "morph": "compound-member jvara"
+    },
+    {
+     "surface": "upaghāte",
+     "gloss": "affliction",
+     "grounds": "locative condition of being struck by fever",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛta",
+     "gloss": "dead",
+     "grounds": "first member of compound indicating near-death",
+     "morph": "compound-member mṛta"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "like",
+     "grounds": "second member indicating resemblance",
+     "morph": "m.nom.sg compound-member kalpa"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "subject who survives",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "present verb indicating survival",
+     "morph": "3.sg.pres.act √jīv"
+    }
+   ],
+   "question": "What survival outcome occurs even under affliction by great fever?",
+   "premises": [
+    "A person is afflicted by great fever",
+    "The person appears as if dead",
+    "Despite this, the person lives"
+   ],
+   "inference": "Even when afflicted by great fever and seemingly dead, he lives",
+   "uncertainties": [],
+   "plain_english": "Even when struck by great fever and seemingly dead, he lives."
+  },
+  {
+   "verse": 5011,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound",
+     "morph": "compound-member mahā"
+    },
+    {
+     "surface": "graha",
+     "gloss": "seizer",
+     "grounds": "planetary or demonic influence",
+     "morph": "compound-member graha"
+    },
+    {
+     "surface": "jvara",
+     "gloss": "fever",
+     "grounds": "fever component of compound",
+     "morph": "compound-member jvara"
+    },
+    {
+     "surface": "ādibhyaḥ",
+     "gloss": "and-others",
+     "grounds": "ablative plural indicating sources of affliction",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "abhicārāt",
+     "gloss": "from-sorcery",
+     "grounds": "ablative indicating harmful ritual attack",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "is-released",
+     "grounds": "passive verb indicating liberation",
+     "morph": "3.sg.pres.pass √muc+pra"
+    }
+   ],
+   "question": "From which afflictions including sorcery is one released by this practice?",
+   "premises": [
+    "Great seizers, fevers, and similar afflictions threaten a person",
+    "Sorcery is also a source of harm",
+    "The person is released from these"
+   ],
+   "inference": "One is released from great seizers, fevers, sorcery, and similar afflictions",
+   "uncertainties": [],
+   "plain_english": "He is released from great seizers, fevers, and the like, and from sorcery."
+  },
+  {
+   "verse": 5012,
+   "rows": [
+    {
+     "surface": "pīḍā",
+     "gloss": "pain",
+     "grounds": "affliction or suffering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "indicates instant result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaśyati",
+     "gloss": "is-destroyed",
+     "grounds": "present verb indicating removal of pain",
+     "morph": "3.sg.pres.act √naś+vi"
+    }
+   ],
+   "question": "How quickly is pain removed as a result of this ritual efficacy?",
+   "premises": [
+    "Pain is present as an affliction",
+    "The ritual produces an effect",
+    "The effect is immediate destruction of pain"
+   ],
+   "inference": "The pain is destroyed immediately",
+   "uncertainties": [],
+   "plain_english": "The pain is indeed destroyed immediately."
+  },
+  {
+   "verse": 5013,
+   "rows": [
+    {
+     "surface": "tuṣān",
+     "gloss": "husks",
+     "grounds": "oblation material for fire offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prajuhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √hu+pra"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happiness",
+     "grounds": "result of the offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "edhate",
+     "gloss": "increases",
+     "grounds": "present verb indicating growth",
+     "morph": "3.sg.pres.mid √edh"
+    }
+   ],
+   "question": "What benefit arises from offering ten thousand husks in the fire?",
+   "premises": [
+    "Husks are offered as oblations",
+    "The prescribed number is ten thousand",
+    "Happiness increases as a result"
+   ],
+   "inference": "Offering ten thousand husks causes happiness to increase",
+   "uncertainties": [],
+   "plain_english": "One should offer ten thousand husks; happiness increases."
+  },
+  {
+   "verse": 5014,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound indicating totality",
+     "morph": "compound-member sarva"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "second member of compound",
+     "morph": "compound-member śakti"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "making",
+     "grounds": "third member indicating production of power",
+     "morph": "n.nom.sg compound-member kara"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "is-remembered",
+     "grounds": "traditional teaching",
+     "morph": "n.nom.sg.past.pass.part √smṛ"
+    }
+   ],
+   "question": "What power-conferring result is traditionally ascribed to offering one hundred thousand oblations?",
+   "premises": [
+    "One hundred thousand oblations are offered",
+    "The result is described as producing all powers",
+    "This result is traditionally remembered"
+   ],
+   "inference": "Offering one hundred thousand oblations is traditionally held to confer all powers",
+   "uncertainties": [],
+   "plain_english": "One should offer one hundred thousand; it is remembered as conferring all powers."
+  },
+  {
+   "verse": 5015,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive indicating preparatory ritual action",
+     "morph": "(gerund) √sthā+sam"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aikaṅkatīḥ",
+     "gloss": "of-wikankata",
+     "grounds": "oblations made from wikankata wood or sticks",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "first member of compound indicating soaking substance",
+     "morph": "compound-member ghṛta"
+    },
+    {
+     "surface": "plutāḥ",
+     "gloss": "soaked",
+     "grounds": "past participle describing the oblations",
+     "morph": "f.acc.pl.past.pass.part √plu"
+    }
+   ],
+   "question": "What alternative oblation material soaked in ghee should be offered after establishment?",
+   "premises": [
+    "A ritual establishment is performed first",
+    "An offering is then made",
+    "The oblations may be wikankata sticks soaked in ghee"
+   ],
+   "inference": "After establishing the rite, one may offer wikankata sticks soaked in ghee",
+   "uncertainties": [],
+   "plain_english": "Having established the rite, one should offer wikankata sticks soaked in ghee."
+  },
+  {
+   "verse": 5016,
+   "rows": [
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "first member of compound indicating smearing substance",
+     "morph": "compound-member ghṛta"
+    },
+    {
+     "surface": "aktānāṃ",
+     "gloss": "of-smeared",
+     "grounds": "describes oblations anointed with ghee",
+     "morph": "m.gen.pl.past.pass.part √añj"
+    },
+    {
+     "surface": "prajuhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √hu+pra"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound",
+     "morph": "compound-member mahā"
+    },
+    {
+     "surface": "jvara",
+     "gloss": "fever",
+     "grounds": "second member of compound",
+     "morph": "compound-member jvara"
+    },
+    {
+     "surface": "mukhāḥ",
+     "gloss": "headed-by",
+     "grounds": "compound member indicating foremost among",
+     "morph": "m.nom.pl compound-member mukha"
+    },
+    {
+     "surface": "grahāḥ",
+     "gloss": "seizers",
+     "grounds": "harmful influences or entities",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which harmful influences led by great fever are addressed by offering ghee-smeared oblations?",
+   "premises": [
+    "Oblations smeared with ghee are offered",
+    "Harmful seizers are present",
+    "Great fever is foremost among these seizers"
+   ],
+   "inference": "Offering ghee-smeared oblations addresses seizers headed by great fever",
+   "uncertainties": [
+    "syntactic connection to result is implicit from context"
+   ],
+   "plain_english": "One should offer oblations smeared with ghee when seizers headed by great fever are present."
+  },
+  {
+   "verse": 5017,
+   "rows": [
+    {
+     "surface": "gajaṃ",
+     "gloss": "elephant",
+     "grounds": "animal possibly released in ritual",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśvaṃ",
+     "gloss": "horse",
+     "grounds": "alternative animal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "having-released",
+     "grounds": "absolutive indicating ritual release",
+     "morph": "(gerund) √muc"
+    },
+    {
+     "surface": "gacchanti",
+     "gloss": "they-go",
+     "grounds": "present verb indicating departure",
+     "morph": "3.pl.pres.act √gam"
+    },
+    {
+     "surface": "dūrataḥ",
+     "gloss": "far-away",
+     "grounds": "indicates distance of departure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What departure occurs after releasing an elephant or a horse in the rite?",
+   "premises": [
+    "An elephant or a horse is released",
+    "The release is part of the ritual action",
+    "The harmful influences go far away"
+   ],
+   "inference": "After releasing an elephant or horse, they depart far away",
+   "uncertainties": [
+    "subject of gacchanti may be the animals or the afflictions; context suggests afflictions depart"
+   ],
+   "plain_english": "Having released an elephant or a horse, they go far away."
+  },
+  {
+   "verse": 5018,
+   "rows": [
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "possible negative outcome",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that situation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "peace",
+     "grounds": "pacification or cessation of harm",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "udīryate",
+     "gloss": "is-declared",
+     "grounds": "passive verb indicating traditional statement",
+     "morph": "3.sg.pres.pass √īr+ud"
+    }
+   ],
+   "question": "What alternative outcomes of loss or peace are declared in that situation?",
+   "premises": [
+    "A situation of danger or affliction is considered",
+    "Loss is one possible outcome",
+    "Peace is declared as the alternative outcome"
+   ],
+   "inference": "In that situation, either loss occurs or peace is declared",
+   "uncertainties": [
+    "exact contrast between hāniḥ and śāntiḥ depends on ritual context"
+   ],
+   "plain_english": "There, either loss or peace is declared."
+  },
+  {
+   "verse": 5019,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound",
+     "morph": "compound-member mahā"
+    },
+    {
+     "surface": "mārī",
+     "gloss": "epidemic",
+     "grounds": "deadly plague or pestilence",
+     "morph": "compound-member mārī"
+    },
+    {
+     "surface": "vyāghra",
+     "gloss": "tiger",
+     "grounds": "dangerous animal threat",
+     "morph": "compound-member vyāghra"
+    },
+    {
+     "surface": "ādibhyaḥ",
+     "gloss": "and-others",
+     "grounds": "ablative plural indicating sources of fear",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "danger or threat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What freedom from fear of epidemic and tigers is assured by this practice?",
+   "premises": [
+    "Great epidemics and tigers are sources of fear",
+    "Other similar dangers are included",
+    "Fear from these does not arise"
+   ],
+   "inference": "There is indeed no fear from great epidemics, tigers, and the like",
+   "uncertainties": [],
+   "plain_english": "Indeed, there is no fear from great epidemics, tigers, and other such dangers."
+  },
+  {
+   "verse": 5020,
+   "rows": [
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "first member of compound indicating central location",
+     "morph": "compound-member madhya"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "locative indicating place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "fire",
+     "grounds": "first member of compound referring to ritual fire",
+     "morph": "compound-member vahni"
+    },
+    {
+     "surface": "sthāpanam",
+     "gloss": "placing",
+     "grounds": "act of establishing the fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √car+ā"
+    }
+   ],
+   "question": "Where should the ritual placement of the fire be performed?",
+   "premises": [
+    "A ritual fire must be established",
+    "The location is specified as the middle part",
+    "The practitioner should perform this placement"
+   ],
+   "inference": "One should perform the placement of the fire in the middle part",
+   "uncertainties": [
+    "madhya bhāge may refer to middle of a diagram, altar, or space"
+   ],
+   "plain_english": "But one should perform the placing of the fire in the middle part."
+  },
+  {
+   "verse": 5021,
+   "rows": [
+    {
+     "surface": "sthāpyāḥ",
+     "gloss": "having-placed",
+     "grounds": "absolutive-like participial sense indicating prior establishment",
+     "morph": "m.nom.sg.past.pass.part √sthā (gerundive/absolutive use)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "particle marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action to be performed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sāvadhānaḥ",
+     "gloss": "with-attention",
+     "grounds": "state of careful focus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √car+sam-ā"
+    }
+   ],
+   "question": "How should the ritual action be performed after the establishment is completed?",
+   "premises": [
+    "The establishment has been completed",
+    "The rite follows afterward",
+    "The practitioner must act with attention"
+   ],
+   "inference": "After establishing it, one should perform the rite attentively",
+   "uncertainties": [
+    "sthāpyāḥ taken in absolutive sense though morphologically a participle"
+   ],
+   "plain_english": "Then, having established it, one should perform the rite with full attention."
+  },
+  {
+   "verse": 5022,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "particle marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardharātra",
+     "gloss": "midnight",
+     "grounds": "first member of compound indicating time",
+     "morph": "compound-member ardharātra"
+    },
+    {
+     "surface": "samaye",
+     "gloss": "time",
+     "grounds": "locative indicating occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "odanam",
+     "gloss": "cooked-rice",
+     "grounds": "offering material",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa+ghṛtam",
+     "gloss": "with-ghee",
+     "grounds": "compound indicating rice accompanied by ghee",
+     "morph": "m.acc.sg compound sa+ghṛta"
+    },
+    {
+     "surface": "tilān",
+     "gloss": "sesame",
+     "grounds": "additional offering material",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What offerings are prepared at the time of midnight in this ritual sequence?",
+   "premises": [
+    "The ritual continues at midnight",
+    "Specific food offerings are required",
+    "The offerings include cooked rice with ghee and sesame"
+   ],
+   "inference": "At midnight one should prepare cooked rice with ghee and sesame",
+   "uncertainties": [],
+   "plain_english": "Then, at midnight, one should take cooked rice with ghee and sesame."
+  },
+  {
+   "verse": 5023,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative prescribing offering action",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative indicating location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "repeated to indicate various places",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "particle marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual oblation presented",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where should the ritual offering be given in the prescribed sequence?",
+   "premises": [
+    "An offering is to be given",
+    "The giving occurs in specific places",
+    "The repetition indicates place after place"
+   ],
+   "inference": "One should then give the offering in place after place",
+   "uncertainties": [],
+   "plain_english": "Then one should give the offering in place after place."
+  },
+  {
+   "verse": 5024,
+   "rows": [
+    {
+     "surface": "pakṣam",
+     "gloss": "fortnight",
+     "grounds": "duration of the ritual practice",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "numeral specifying duration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound indicating totality",
+     "morph": "compound-member sarva"
+    },
+    {
+     "surface": "upadrava",
+     "gloss": "calamity",
+     "grounds": "second member of compound indicating troubles",
+     "morph": "compound-member upadrava"
+    },
+    {
+     "surface": "nāśanam",
+     "gloss": "destruction",
+     "grounds": "result of performing the rite for one fortnight",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What result follows from performing this practice for the duration of one fortnight?",
+   "premises": [
+    "The practice is performed for one fortnight",
+    "Calamities of all kinds are considered",
+    "The result is their destruction"
+   ],
+   "inference": "Performing the practice for one fortnight brings destruction of all calamities",
+   "uncertainties": [],
+   "plain_english": "For one fortnight, this brings the destruction of all calamities."
+  }
+ ]
+}

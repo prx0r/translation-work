@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "paramākhyo",
+     "gloss": "named-supreme",
+     "grounds": "supreme-named epithet of the guru",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "the guru himself",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative wish for protection",
+     "morph": "verb.3.sg.act.opt-pā"
+    },
+    {
+     "surface": "śirasaṃ",
+     "gloss": "head",
+     "grounds": "object of protection",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ma",
+     "gloss": "my",
+     "grounds": "possessive relation to head",
+     "morph": "pron.1.sg.acc"
+    },
+    {
+     "surface": "vallabhe",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the beloved",
+     "morph": "adj.voc.sg.f"
+    }
+   ],
+   "question": "What protective blessing does the supreme-named guru bestow upon the devotee's head?",
+   "premises": [
+    "the guru is Shiva himself",
+    "the guru dwells in the thousand-petaled lotus",
+    "the guru is white as camphor"
+   ],
+   "inference": "the supreme-named guru protects the devotee's head",
+   "uncertainties": [
+    "ma may function as accusative or genitive in this sandhi context"
+   ],
+   "plain_english": "May the supreme-named guru protect my head, O beloved."
+  }
+ ]
+}

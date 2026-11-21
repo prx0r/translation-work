@@ -1,0 +1,503 @@
+{
+ "song": "kul-p76",
+ "items": [
+  {
+   "verse": 1876,
+   "rows": [
+    {
+     "surface": "īpsitaṃ",
+     "gloss": "desired",
+     "grounds": "desired object sought",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb of gaining",
+     "morph": "3.sg.mid-pres root-labh"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental relative pronoun",
+     "morph": "rel.instr.sg.m"
+    },
+    {
+     "surface": "pūjāhomādikaṃ",
+     "gloss": "worship-offering-etc",
+     "grounds": "compound of worship offering and rest",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What desired thing is obtained without worship and offerings?",
+   "premises": [
+    "Desired result is obtained",
+    "No worship or offering is needed",
+    "Instrumental means is specified"
+   ],
+   "inference": "The desired result comes by the stated means rather than ritual worship.",
+   "uncertainties": [
+    "Exact referent of yena is not explicit"
+   ],
+   "plain_english": "The desired thing is obtained by that means, without worship, offerings, and the rest."
+  },
+  {
+   "verse": 1877,
+   "rows": [
+    {
+     "surface": "sthito",
+     "gloss": "seated",
+     "grounds": "past participle seated",
+     "morph": "pp.nom.sg.m"
+    },
+    {
+     "surface": "mṛdvāsane",
+     "gloss": "on-soft-seat",
+     "grounds": "locative compound soft seat",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "dhyāyed",
+     "gloss": "meditate",
+     "grounds": "optative verb of meditation",
+     "morph": "3.sg.act-opt root-dhyai"
+    },
+    {
+     "surface": "guruvandanapūrvakam",
+     "gloss": "after-guru-salutation",
+     "grounds": "compound after guru salutation",
+     "morph": "adv"
+    }
+   ],
+   "question": "How should one meditate while seated on a soft seat?",
+   "premises": [
+    "One is seated on a soft seat",
+    "Meditation follows guru salutation",
+    "Guru salutation precedes practice"
+   ],
+   "inference": "Meditation is performed seated, after saluting the guru.",
+   "uncertainties": [
+    "Whether guru salutation is verbal or ritual is unspecified"
+   ],
+   "plain_english": "Seated on a soft seat, one meditates after first saluting the guru."
+  },
+  {
+   "verse": 1878,
+   "rows": [
+    {
+     "surface": "śrīprāsādaparābījaṃ",
+     "gloss": "śrī-prāsāda-supreme-seed",
+     "grounds": "compound seed syllable",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ṣoḍaśasvarasaṃyutam",
+     "gloss": "joined-with-sixteen-vowels",
+     "grounds": "compound joined with sixteen vowels",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What seed syllable is joined with sixteen vowels?",
+   "premises": [
+    "Seed syllable is śrī-prāsāda supreme",
+    "It is joined with sixteen vowels",
+    "The compound describes mantra seed"
+   ],
+   "inference": "The supreme seed syllable is combined with sixteen vowels.",
+   "uncertainties": [
+    "Exact mantra pronunciation is not given"
+   ],
+   "plain_english": "The supreme seed syllable of śrī-prāsāda is joined with the sixteen vowels."
+  },
+  {
+   "verse": 1879,
+   "rows": [
+    {
+     "surface": "saccandrabimbasañjātasudhāplāvitavigraham",
+     "gloss": "true-moon-disk-born-nectar-bathed-form",
+     "grounds": "long compound describing form",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What form is bathed in nectar born from the true moon disk?",
+   "premises": [
+    "Form is born from true moon disk",
+    "Form is bathed in nectar",
+    "Compound describes divine form"
+   ],
+   "inference": "The form arises from the true moon disk and is bathed in nectar.",
+   "uncertainties": [
+    "Whether this modifies deity or practitioner is implicit"
+   ],
+   "plain_english": "The form born from the true moon disk and bathed in nectar."
+  },
+  {
+   "verse": 1880,
+   "rows": [
+    {
+     "surface": "sarvāriṣṭaṃ",
+     "gloss": "all-misfortune",
+     "grounds": "compound all misfortune",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "vilīyeta",
+     "gloss": "dissolves",
+     "grounds": "optative verb of dissolving",
+     "morph": "3.sg.mid-opt root-lī"
+    },
+    {
+     "surface": "śubhaśrīpuṣṭikārakam",
+     "gloss": "auspicious-śrī-nourishment-causing",
+     "grounds": "compound causing auspicious śrī nourishment",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What happens to all misfortune through this practice?",
+   "premises": [
+    "All misfortune dissolves",
+    "The practice causes auspicious śrī nourishment",
+    "Dissolution and nourishment are paired"
+   ],
+   "inference": "All misfortune dissolves while auspicious śrī nourishment is caused.",
+   "uncertainties": [
+    "Subject of dissolution is implied by context"
+   ],
+   "plain_english": "All misfortune dissolves, and auspicious śrī nourishment is caused."
+  },
+  {
+   "verse": 1881,
+   "rows": [
+    {
+     "surface": "taruṇollāsasahito",
+     "gloss": "youthful-excitement-accompanied",
+     "grounds": "compound accompanied by youthful excitement",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "maṇḍala",
+     "grounds": "ritual circle",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative verb of worship",
+     "morph": "3.sg.act-opt root-pūj"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative address to dear one",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What should one worship while accompanied by youthful excitement?",
+   "premises": [
+    "Maṇḍala is worshipped",
+    "Worship is addressed to dear one",
+    "Youthful excitement accompanies worship"
+   ],
+   "inference": "One worships the maṇḍala with youthful excitement.",
+   "uncertainties": [
+    "Whether maṇḍala is inner or outer is not stated"
+   ],
+   "plain_english": "O dear one, worship the maṇḍala accompanied by youthful excitement."
+  },
+  {
+   "verse": 1882,
+   "rows": [
+    {
+     "surface": "grahāpasmāravetālabhūtonmādādijaṃ",
+     "gloss": "graha-epilepsy-vetāla-bhūta-madness-etc-born",
+     "grounds": "long compound of afflictions",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhayam",
+     "gloss": "fear",
+     "grounds": "noun fear",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What fear arises from graha epilepsy vetāla bhūta madness and the rest?",
+   "premises": [
+    "Fear is born from those afflictions",
+    "Compound lists graha epilepsy vetāla bhūta madness",
+    "Fear is the object affected"
+   ],
+   "inference": "Fear born from those afflictions is the stated object.",
+   "uncertainties": [
+    "Whether fear is removed or merely named is implicit"
+   ],
+   "plain_english": "Fear born from graha, epilepsy, vetāla, bhūta, madness, and the rest."
+  },
+  {
+   "verse": 1883,
+   "rows": [
+    {
+     "surface": "jīved",
+     "gloss": "live",
+     "grounds": "optative verb of living",
+     "morph": "3.sg.act-opt root-jīv"
+    },
+    {
+     "surface": "varṣaśataṃ",
+     "gloss": "hundred-years",
+     "grounds": "compound hundred years",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "sāgraṃ",
+     "gloss": "with-extra",
+     "grounds": "adjective with extra",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "past participle worshipped",
+     "morph": "pp.nom.sg.m"
+    },
+    {
+     "surface": "sarvamānavaḥ",
+     "gloss": "all-human",
+     "grounds": "compound all human",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "How long does a worshipped human live?",
+   "premises": [
+    "Worshipped human lives",
+    "Lifespan is hundred years with extra",
+    "Worship is the condition"
+   ],
+   "inference": "A worshipped human lives a hundred years plus extra.",
+   "uncertainties": [
+    "Exact extra amount is unspecified"
+   ],
+   "plain_english": "A worshipped human lives a hundred years and more."
+  },
+  {
+   "verse": 1884,
+   "rows": [
+    {
+     "surface": "cinmayo",
+     "gloss": "consciousness-made",
+     "grounds": "compound made of consciousness",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb of arising",
+     "morph": "3.sg.mid-pres root-jan"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb directly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negative adverb here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive to be done",
+     "morph": "gerundive.nom.sg.f"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "noun deliberation",
+     "morph": "noun.nom.sg.f"
+    }
+   ],
+   "question": "What arises directly and needs no deliberation here?",
+   "premises": [
+    "Consciousness-made arises directly",
+    "No deliberation is to be done here",
+    "Direct arising excludes deliberation"
+   ],
+   "inference": "What is consciousness-made arises directly, so no deliberation is needed here.",
+   "uncertainties": [
+    "Subject of arising is implied by context"
+   ],
+   "plain_english": "Consciousness-made arises directly; here no deliberation is to be done."
+  },
+  {
+   "verse": 1885,
+   "rows": [
+    {
+     "surface": "tattatsthāneṣu",
+     "gloss": "in-those-places",
+     "grounds": "locative compound in those places",
+     "morph": "noun.loc.pl.n"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb as before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayan",
+     "gloss": "meditating",
+     "grounds": "present participle meditating",
+     "morph": "pres.part.nom.sg.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "chant",
+     "grounds": "optative verb of chanting",
+     "morph": "3.sg.act-opt root-jap"
+    }
+   ],
+   "question": "Where should one meditate and chant as before?",
+   "premises": [
+    "Meditation and chanting occur in those places",
+    "Goddess is addressed",
+    "Practice follows previous pattern"
+   ],
+   "inference": "In those places one meditates and chants as before.",
+   "uncertainties": [
+    "Which places are intended depends on prior context"
+   ],
+   "plain_english": "O goddess, in those places meditate and chant as before."
+  },
+  {
+   "verse": 1886,
+   "rows": [
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "from-that-moment",
+     "grounds": "ablative compound from that moment",
+     "morph": "adv"
+    },
+    {
+     "surface": "śāntim",
+     "gloss": "peace",
+     "grounds": "noun peace",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "āyānti",
+     "gloss": "come",
+     "grounds": "verb of coming",
+     "morph": "3.pl.act-pres root-yā"
+    },
+    {
+     "surface": "rogāḥ",
+     "gloss": "diseases",
+     "grounds": "noun diseases",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "adjective all",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun doubt",
+     "morph": "noun.nom.sg.m"
+    }
+   ],
+   "question": "What comes from that moment and leaves no doubt?",
+   "premises": [
+    "Peace comes from that moment",
+    "All diseases come too",
+    "No doubt remains"
+   ],
+   "inference": "From that moment peace and all diseases come, with no doubt.",
+   "uncertainties": [
+    "Whether diseases come as affliction or are removed is ambiguous"
+   ],
+   "plain_english": "From that moment peace comes, all diseases come, and there is no doubt."
+  },
+  {
+   "verse": 1887,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb where",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "noun seed syllable",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "remembers",
+     "grounds": "optative verb of remembering",
+     "morph": "3.sg.act-opt root-smṛ"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative adverb there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatphalaṃ",
+     "gloss": "that-fruit",
+     "grounds": "compound that fruit",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb of becoming",
+     "morph": "3.sg.act-pres root-bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certain",
+     "grounds": "adverb certainly",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What becomes certain where the seed is remembered?",
+   "premises": [
+    "Seed is remembered in a place",
+    "There that fruit becomes",
+    "The result is certain"
+   ],
+   "inference": "Where the seed is remembered, its fruit certainly becomes there.",
+   "uncertainties": [
+    "What fruit is meant depends on prior context"
+   ],
+   "plain_english": "Where one remembers the seed, its fruit certainly becomes there."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive singular of tad",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "locative singular of pūrva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sūrya+tīrthaṃ",
+     "gloss": "sūrya-tīrtha",
+     "grounds": "compound of sūrya and tīrtha in accusative",
+     "morph": "compound (sūrya+tīrtha), n.acc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative singular of paścima",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāruṇaṃ",
+     "gloss": "vāruṇa",
+     "grounds": "accusative singular masculine of vāruṇa",
+     "morph": "adj/n.acc.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative third singular active of bhū",
+     "morph": "verb 3.sg.opt.act, root bhū"
+    }
+   ],
+   "question": "Which tīrthas lie to the east and west of that place?",
+   "premises": [
+    "East of that place is sūrya-tīrtha.",
+    "West of that place is vāruṇa.",
+    "Bhavet marks prescribed placement."
+   ],
+   "inference": "The verse prescribes sūrya-tīrtha east and vāruṇa west of the referenced place.",
+   "uncertainties": [
+    "The exact referent of tasya is not stated in this verse."
+   ],
+   "plain_english": "To its east is the sūrya tīrtha, and to its west is the vāruṇa tīrtha."
+  }
+ ]
+}

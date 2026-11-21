@@ -1,0 +1,521 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3588,
+   "rows": [
+    {
+     "surface": "aśvapādasya",
+     "gloss": "horse-foot",
+     "grounds": "genitive singular of aśvapāda",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vistāram",
+     "gloss": "width",
+     "grounds": "accusative singular of vistāra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dviguṇam",
+     "gloss": "double",
+     "grounds": "accusative singular of dviguṇa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturguṇam",
+     "gloss": "quadruple",
+     "grounds": "accusative singular of caturguṇa",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width is prescribed for the horse-foot stair?",
+   "premises": [
+    "aśvapāda stair width is given",
+    "it is double or quadruple",
+    "the measure follows the stated rule"
+   ],
+   "inference": "The horse-foot stair has a prescribed doubled or quadrupled width.",
+   "uncertainties": [
+    "exact base unit is not stated in these verses"
+   ],
+   "plain_english": "The horse-foot stair has a width that is double or quadruple."
+  },
+  {
+   "verse": 3589,
+   "rows": [
+    {
+     "surface": "śayitaphalakavyāsa",
+     "gloss": "lying-plank-diameter",
+     "grounds": "compound noun in accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgulam",
+     "gloss": "six-angula",
+     "grounds": "accusative singular measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "past participle of udāhṛ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What diameter is stated for the lying plank?",
+   "premises": [
+    "the lying plank diameter is named",
+    "it is six angulas",
+    "the verse states this measure"
+   ],
+   "inference": "The lying plank diameter is six angulas.",
+   "uncertainties": [
+    "context of the plank is not fully given"
+   ],
+   "plain_english": "The lying plank diameter is stated as six angulas."
+  },
+  {
+   "verse": 3590,
+   "rows": [
+    {
+     "surface": "dairghyam",
+     "gloss": "length",
+     "grounds": "nominative singular of dairghya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tithiguṇāntam",
+     "gloss": "tithi-multiplied-end",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "yathākāmam",
+     "gloss": "as-desired",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How may the length of the stair be determined?",
+   "premises": [
+    "length may be tithi-multiplied-end",
+    "length may be as desired",
+    "either option may obtain"
+   ],
+   "inference": "The stair length may be either tithi-multiplied or as desired.",
+   "uncertainties": [
+    "which option is preferred is not stated"
+   ],
+   "plain_english": "The length may be tithi-multiplied or as desired."
+  },
+  {
+   "verse": 3591,
+   "rows": [
+    {
+     "surface": "hastisopānakam",
+     "gloss": "elephant-stair",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lājasopānam",
+     "gloss": "parched-rice-stair",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛddhisaṃjñakam",
+     "gloss": "growth-named",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What names are given to these stair types?",
+   "premises": [
+    "one stair is elephant-stair",
+    "one stair is parched-rice-stair",
+    "the growth-named stair is included"
+   ],
+   "inference": "The stair types include elephant, parched-rice, and growth-named forms.",
+   "uncertainties": [
+    "exact distinction among them is not stated"
+   ],
+   "plain_english": "The stair types are elephant-stair, parched-rice-stair, and growth-named."
+  },
+  {
+   "verse": 3592,
+   "rows": [
+    {
+     "surface": "hastavyāsam",
+     "gloss": "elephant-diameter",
+     "grounds": "accusative singular of hastavyāsa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍāditridaṇḍāntam",
+     "gloss": "staff-from-three-staff-end",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "employ",
+     "grounds": "optative of prayuj",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What range is prescribed for the elephant stair diameter?",
+   "premises": [
+    "elephant stair diameter is employed",
+    "it ranges from staff to three staff",
+    "the rule uses this range"
+   ],
+   "inference": "The elephant stair diameter ranges from one staff to three staffs.",
+   "uncertainties": [
+    "exact staff measure is not stated"
+   ],
+   "plain_english": "The elephant stair diameter ranges from one staff to three staffs."
+  },
+  {
+   "verse": 3593,
+   "rows": [
+    {
+     "surface": "ayugmam",
+     "gloss": "odd-only",
+     "grounds": "accusative singular of ayugma",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sopānam",
+     "gloss": "stair",
+     "grounds": "accusative singular of sopāna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prādakṣiṇyakramāt",
+     "gloss": "clockwise-order",
+     "grounds": "ablative singular of prādakṣiṇyakrama",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "lead",
+     "grounds": "optative of nī",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should the odd stair be led?",
+   "premises": [
+    "the stair is odd only",
+    "it is led in clockwise order",
+    "the rule prescribes this movement"
+   ],
+   "inference": "The odd stair should be led in clockwise order.",
+   "uncertainties": [
+    "whether even stairs differ is not stated"
+   ],
+   "plain_english": "The odd stair should be led in clockwise order."
+  },
+  {
+   "verse": 3594,
+   "rows": [
+    {
+     "surface": "tanmūlam",
+     "gloss": "that-root",
+     "grounds": "nominative singular of tanmūla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "adhiṣṭhānam",
+     "gloss": "base",
+     "grounds": "nominative singular of adhiṣṭhāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādaprastaravargayuk",
+     "gloss": "foot-slab-group-equipped",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What may serve as the base of that stair?",
+   "premises": [
+    "that root may be the base",
+    "the base is foot-slab-group-equipped",
+    "the rule allows this"
+   ],
+   "inference": "The base may be that root equipped with foot-slab groups.",
+   "uncertainties": [
+    "exact composition of the group is not stated"
+   ],
+   "plain_english": "That root may be the base, equipped with foot-slab groups."
+  },
+  {
+   "verse": 3595,
+   "rows": [
+    {
+     "surface": "īdṛglakṣaṇasaṃyuktam",
+     "gloss": "such-characteristic-equipped",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sopānam",
+     "gloss": "stair",
+     "grounds": "nominative singular of sopāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sampadām",
+     "gloss": "prosperity",
+     "grounds": "genitive plural of sampad",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "padam",
+     "gloss": "abode",
+     "grounds": "nominative singular of pada",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is a stair equipped with such characteristics?",
+   "premises": [
+    "the stair has such characteristics",
+    "it is an abode of prosperity",
+    "the verse identifies it thus"
+   ],
+   "inference": "Such a stair is an abode of prosperity.",
+   "uncertainties": [
+    "which characteristics are included is not stated"
+   ],
+   "plain_english": "A stair with such characteristics is an abode of prosperity."
+  },
+  {
+   "verse": 3596,
+   "rows": [
+    {
+     "surface": "janmādipañcavarge",
+     "gloss": "birth-etc-five-group",
+     "grounds": "locative singular of janmādipañcavarga",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "locative singular of bāhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nālam",
+     "gloss": "not-suitable",
+     "grounds": "nominative singular of nāla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "employ",
+     "grounds": "optative of prayuj",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Where should the birth-etc five group not be employed?",
+   "premises": [
+    "the birth-etc five group is named",
+    "it is not suitable outside",
+    "the rule forbids employing it there"
+   ],
+   "inference": "The birth-etc five group should not be employed outside.",
+   "uncertainties": [
+    "exact five items are not listed here"
+   ],
+   "plain_english": "The birth-etc five group should not be employed outside."
+  },
+  {
+   "verse": 3597,
+   "rows": [
+    {
+     "surface": "pañcāṅgulam",
+     "gloss": "five-angula",
+     "grounds": "accusative singular measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund of samārabh",
+     "morph": "ger."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekaikāṅgulavardhanāt",
+     "gloss": "one-by-one-angula-increase",
+     "grounds": "ablative singular of ekaikāṅgulavardhana",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does the five-angula measure increase?",
+   "premises": [
+    "it begins at five angulas",
+    "it increases one angula at a time",
+    "the rule states this progression"
+   ],
+   "inference": "The measure begins at five angulas and increases by one angula at a time.",
+   "uncertainties": [
+    "upper limit is not stated"
+   ],
+   "plain_english": "Beginning at five angulas, it increases by one angula at a time."
+  },
+  {
+   "verse": 3598,
+   "rows": [
+    {
+     "surface": "aṅgulatrayam",
+     "gloss": "three-angula",
+     "grounds": "accusative singular measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund of ārabh",
+     "morph": "ger."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardhāṅgulavivardhanāt",
+     "gloss": "half-angula-increase",
+     "grounds": "ablative singular of ardhāṅgulavivardhana",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does the three-angula measure increase?",
+   "premises": [
+    "it begins at three angulas",
+    "it increases by half an angula",
+    "the rule states this progression"
+   ],
+   "inference": "The measure begins at three angulas and increases by half an angula.",
+   "uncertainties": [
+    "upper limit is not stated"
+   ],
+   "plain_english": "Beginning at three angulas, it increases by half an angula."
+  },
+  {
+   "verse": 3599,
+   "rows": [
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "nominative singular of sama",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripādamadhyam",
+     "gloss": "three-foot-middle",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghanacchidram",
+     "gloss": "solid-hole",
+     "grounds": "nominative singular of ghanacchidra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "middle",
+     "grounds": "locative singular of madhyama",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What middle arrangement is prescribed for the solid hole?",
+   "premises": [
+    "the middle may be equal",
+    "the three-foot middle is an option",
+    "the solid hole is in the middle"
+   ],
+   "inference": "The solid hole is placed in the middle, with equal or three-foot-middle options.",
+   "uncertainties": [
+    "exact relation between options is not stated"
+   ],
+   "plain_english": "The solid hole is in the middle, with equal or three-foot-middle options."
+  }
+ ]
+}

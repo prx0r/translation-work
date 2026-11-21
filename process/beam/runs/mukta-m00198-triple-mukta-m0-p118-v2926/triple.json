@@ -1,0 +1,933 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2926,
+   "rows": [
+    {
+     "surface": "varadaṃ",
+     "gloss": "boon-giving",
+     "grounds": "attribute of hand gesture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmahastaṃ",
+     "gloss": "left-hand",
+     "grounds": "compound indicating left hand",
+     "morph": "compound: vāma-left + hasta-hand; m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utpalaṃ",
+     "gloss": "blue-lotus",
+     "grounds": "object held in hand",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "locates the hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "hand",
+     "grounds": "body part holding object",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which attributes are assigned to the goddess's left and right hands?",
+   "premises": [
+    "The left hand is boon-giving",
+    "The right hand holds a blue lotus"
+   ],
+   "inference": "The goddess displays a boon-giving left hand and a right hand holding a blue lotus",
+   "uncertainties": [],
+   "plain_english": "The left hand is boon-giving, and the right hand holds a blue lotus."
+  },
+  {
+   "verse": 2927,
+   "rows": [
+    {
+     "surface": "varadaṃ",
+     "gloss": "boon-giving",
+     "grounds": "attribute of gesture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cāti",
+     "gloss": "and-also",
+     "grounds": "conjunction with emphatic particle",
+     "morph": "compound: ca-and + ati-also; (indecl.)"
+    },
+    {
+     "surface": "vikhyātaṃ",
+     "gloss": "well-known",
+     "grounds": "describes recognition of gesture",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puṣpadhṛtsiṃhakarṇavat",
+     "gloss": "like-flower-bearing-lion-ear",
+     "grounds": "comparison to another iconographic form",
+     "morph": "compound: puṣpa-flower + dhṛt-bearing + siṃhakarṇa-lion-ear + vat-like; (indecl.)"
+    }
+   ],
+   "question": "How is the boon-giving gesture further characterized in iconographic tradition?",
+   "premises": [
+    "The boon-giving gesture is well-known",
+    "It resembles the flower-bearing lion-ear form"
+   ],
+   "inference": "The boon-giving gesture is recognized as similar to the flower-bearing lion-ear form",
+   "uncertainties": [],
+   "plain_english": "The boon-giving gesture is also well-known, like that of the flower-bearing lion-ear form."
+  },
+  {
+   "verse": 2928,
+   "rows": [
+    {
+     "surface": "raktāmbaradharā",
+     "gloss": "wearing-red-garment",
+     "grounds": "describes goddess's attire",
+     "morph": "compound: rakta-red + āmbara-garment + dharā-wearing; f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject of description",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "channavīrasamanvitā",
+     "gloss": "accompanied-by-hidden-heroes",
+     "grounds": "describes retinue or attendants",
+     "morph": "compound: channa-hidden + vīra-heroes + samanvitā-accompanied; f.nom.sg"
+    }
+   ],
+   "question": "What attire and retinue characterize the goddess in this form?",
+   "premises": [
+    "The goddess wears a red garment",
+    "The goddess is accompanied by hidden heroes"
+   ],
+   "inference": "The goddess is depicted in red garments together with hidden heroes",
+   "uncertainties": [
+    "The exact identity or number implied by channavīra is unclear"
+   ],
+   "plain_english": "The goddess wears red garments and is accompanied by hidden heroes."
+  },
+  {
+   "verse": 2929,
+   "rows": [
+    {
+     "surface": "vāmoru",
+     "gloss": "left-thigh",
+     "grounds": "body part for placement",
+     "morph": "compound: vāma-left + ūru-thigh; n.acc.sg"
+    },
+    {
+     "surface": "bāhyapīṭhāttu",
+     "gloss": "from-outer-seat",
+     "grounds": "source location for placement",
+     "morph": "compound: bāhya-outer + pīṭha-seat + tu-from; n.abl.sg"
+    },
+    {
+     "surface": "vāmahaste",
+     "gloss": "on-left-hand",
+     "grounds": "location of placement",
+     "morph": "compound: vāma-left + hasta-hand; m.loc.sg"
+    },
+    {
+     "surface": "tale",
+     "gloss": "on-palm",
+     "grounds": "specific part of hand",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active; √nyas"
+    }
+   ],
+   "question": "Where should the left thigh be placed in relation to the outer seat and left hand?",
+   "premises": [
+    "The left thigh is taken from the outer seat",
+    "It should be placed on the palm of the left hand"
+   ],
+   "inference": "The left thigh should be positioned on the palm of the left hand from the outer seat",
+   "uncertainties": [],
+   "plain_english": "One should place the left thigh, from the outer seat, on the palm of the left hand."
+  },
+  {
+   "verse": 2930,
+   "rows": [
+    {
+     "surface": "pīṭhāttu",
+     "gloss": "from-seat",
+     "grounds": "source location",
+     "morph": "compound: pīṭha-seat + tu-from; n.abl.sg"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "specifies which knee",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jānuṃ",
+     "gloss": "knee",
+     "grounds": "body part to be positioned",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kiṃciduddhṛtasaṃyutam",
+     "gloss": "joined-with-slightly-raised",
+     "grounds": "describes posture of knee",
+     "morph": "compound: kiṃcit-somewhat + uddhṛta-raised + saṃyutam-joined; n.acc.sg"
+    }
+   ],
+   "question": "How should the right knee be positioned relative to the seat?",
+   "premises": [
+    "The right knee is positioned from the seat",
+    "It should be somewhat raised"
+   ],
+   "inference": "The right knee should be placed from the seat in a slightly raised position",
+   "uncertainties": [],
+   "plain_english": "The right knee, from the seat, should be positioned somewhat raised."
+  },
+  {
+   "verse": 2931,
+   "rows": [
+    {
+     "surface": "ṣaṭsaptāṣṭāṃgulaṃ",
+     "gloss": "six-seven-eight-fingers",
+     "grounds": "measurement range",
+     "morph": "compound: ṣaṭ-six + sapta-seven + aṣṭa-eight + aṃgula-fingers; n.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-also",
+     "grounds": "alternative specification",
+     "morph": "compound: vā-or + atha-also; (indecl.)"
+    },
+    {
+     "surface": "pīṭhājjānvantaraṃ",
+     "gloss": "space-between-seat-and-knee",
+     "grounds": "measured interval",
+     "morph": "compound: pīṭha-seat + jānu-knee + antara-space; n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.optative-active; √bhū"
+    }
+   ],
+   "question": "What measurement range is prescribed for the space between seat and knee?",
+   "premises": [
+    "The space between seat and knee is measured",
+    "The measure may be six, seven, or eight fingers"
+   ],
+   "inference": "The interval between the seat and the knee should be six, seven, or eight fingers",
+   "uncertainties": [],
+   "plain_english": "The space between the seat and the knee should be six, seven, or eight fingers."
+  },
+  {
+   "verse": 2932,
+   "rows": [
+    {
+     "surface": "strīmānasyoktamārgeṇa",
+     "gloss": "by-path-taught-for-female-measure",
+     "grounds": "method of measurement",
+     "morph": "compound: strī-woman + māna-measure + ukta-taught + mārga-path; m.inst.sg"
+    },
+    {
+     "surface": "devīmānaṃ",
+     "gloss": "goddess-measure",
+     "grounds": "object to be determined",
+     "morph": "compound: devī-goddess + māna-measure; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what method should the measurements of the goddess be determined?",
+   "premises": [
+    "A path for female measure has been taught",
+    "The goddess's measure should follow that path"
+   ],
+   "inference": "The goddess's measurements should be determined according to the prescribed method for female measures",
+   "uncertainties": [
+    "The verse is syntactically incomplete without an explicit verb"
+   ],
+   "plain_english": "The measure of the goddess should be taken according to the method taught for female measurements."
+  },
+  {
+   "verse": 2933,
+   "rows": [
+    {
+     "surface": "āsane",
+     "gloss": "in-seat",
+     "grounds": "context of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāsanaṃ",
+     "gloss": "and-seat",
+     "grounds": "object whose arrangement is discussed",
+     "morph": "compound: ca-and + āsana-seat; n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "states established rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viparītaṃ",
+     "gloss": "reversed",
+     "grounds": "incorrect arrangement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vipatkaram",
+     "gloss": "causing-misfortune",
+     "grounds": "consequence of reversal",
+     "morph": "compound: vipat-misfortune + karam-causing; n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows from reversing the prescribed seat arrangement?",
+   "premises": [
+    "The proper seat arrangement is known",
+    "A reversed arrangement causes misfortune"
+   ],
+   "inference": "Reversing the prescribed seat arrangement is harmful and brings misfortune",
+   "uncertainties": [],
+   "plain_english": "In the seat, the proper arrangement is known; a reversed arrangement brings misfortune."
+  },
+  {
+   "verse": 2934,
+   "rows": [
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "figure to be placed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deveśayormadhye",
+     "gloss": "between-two-lords-of-gods",
+     "grounds": "location of placement",
+     "morph": "compound: deva-god + īśa-lord + madhye-between; n.loc.sg"
+    },
+    {
+     "surface": "sthāpayetskandamūrtinam",
+     "gloss": "one-should-place-skanda-form",
+     "grounds": "ritual instruction for installation",
+     "morph": "compound: sthāpayet-should-place + skanda-Skanda + mūrtinam-form; 3.sg.optative-active + m.acc.sg"
+    }
+   ],
+   "question": "Where should the goddess in Skanda's form be installed relative to the two divine lords?",
+   "premises": [
+    "The goddess is to be installed",
+    "The location is between the two lords of gods"
+   ],
+   "inference": "The goddess in Skanda's form should be placed between the two lords of gods",
+   "uncertainties": [
+    "The compound skandamūrtinam and its exact referent are somewhat ambiguous"
+   ],
+   "plain_english": "One should place the goddess, in the form associated with Skanda, between the two lords of gods."
+  },
+  {
+   "verse": 2935,
+   "rows": [
+    {
+     "surface": "stanākṣāntaṃ",
+     "gloss": "up-to-breast-and-eye",
+     "grounds": "measurement limit",
+     "morph": "compound: stana-breast + akṣa-eye + anta-end; n.nom.sg"
+    },
+    {
+     "surface": "kaniṣṭha",
+     "gloss": "smallest",
+     "grounds": "qualifies measure or finger",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāttayormadhye'ṣṭabhājite",
+     "gloss": "should-be-in-their-middle-divided-in-eight",
+     "grounds": "prescribes division of interval",
+     "morph": "compound: syāt-should-be + tayoḥ-their + madhye-middle + aṣṭa-eight + bhājite-divided; 3.sg.optative + n.loc.sg"
+    }
+   ],
+   "question": "How should the interval up to the breast and eye be divided between the two figures?",
+   "premises": [
+    "The interval reaches up to the breast and eye",
+    "The middle between them is divided into eight parts"
+   ],
+   "inference": "The smallest measure up to the breast and eye should be set in the middle divided into eight parts",
+   "uncertainties": [
+    "The exact anatomical reference of stanākṣāntaṃ is unclear"
+   ],
+   "plain_english": "The smallest measure up to the breast and eye should be in their middle, divided into eight parts."
+  },
+  {
+   "verse": 2936,
+   "rows": [
+    {
+     "surface": "jātyaṃśakayutaṃ",
+     "gloss": "joined-with-natural-part",
+     "grounds": "possible adjustment to measure",
+     "morph": "compound: jāti-natural + aṃśaka-part + yutam-joined; n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative option",
+     "morph": "compound: vā-or + api-also; (indecl.)"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "reduced",
+     "grounds": "alternative adjustment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative option",
+     "morph": "compound: vā-or + api-also; (indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active; pra-√kḷp"
+    }
+   ],
+   "question": "What alternative adjustments may be made to the prescribed measurement?",
+   "premises": [
+    "The measure may be joined with a natural part",
+    "The measure may alternatively be reduced"
+   ],
+   "inference": "One may arrange the measure either with an added natural part or in a reduced form",
+   "uncertainties": [
+    "The precise meaning of jātyaṃśaka in this context is uncertain"
+   ],
+   "plain_english": "One may arrange it joined with a natural part, or alternatively reduced."
+  },
+  {
+   "verse": 2937,
+   "rows": [
+    {
+     "surface": "ekāṃśamaṃgulaṃ",
+     "gloss": "one-part-finger",
+     "grounds": "defines unit of measure",
+     "morph": "compound: eka-one + aṃśa-part + aṃgula-finger; n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "states established definition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadaṣṭāṃśaṃ",
+     "gloss": "its-eighth-part",
+     "grounds": "subdivision of the unit",
+     "morph": "compound: tad-that + aṣṭa-eight + aṃśa-part; n.nom.sg"
+    },
+    {
+     "surface": "yavaṃ",
+     "gloss": "barley-grain",
+     "grounds": "name of subdivision",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive definition",
+     "morph": "3.sg.optative-active; √bhū"
+    }
+   ],
+   "question": "How is the basic finger unit subdivided into smaller measures?",
+   "premises": [
+    "One part is known as a finger",
+    "An eighth part of that is a barley grain"
+   ],
+   "inference": "A finger is the basic unit and its eighth part is defined as a barley grain",
+   "uncertainties": [],
+   "plain_english": "One part is known as a finger, and its eighth part should be a barley grain."
+  },
+  {
+   "verse": 2938,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "measurement value",
+     "morph": "compound: dvi-two + bhāga-parts; n.nom.sg"
+    },
+    {
+     "surface": "netrasūtrāntaṃ",
+     "gloss": "end-of-eye-line",
+     "grounds": "anatomical boundary",
+     "morph": "compound: netra-eye + sūtra-line + anta-end; n.nom.sg"
+    },
+    {
+     "surface": "puṭāntaṃ",
+     "gloss": "end-of-fold",
+     "grounds": "anatomical boundary",
+     "morph": "compound: puṭa-fold + anta-end; n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "connective particle",
+     "morph": "compound: ca-and + eva-also; (indecl.)"
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "equal-to-that",
+     "grounds": "states equivalence of measures",
+     "morph": "compound: tad-that + samam-equal; n.nom.sg"
+    }
+   ],
+   "question": "What equivalence is established between the eye-line end and the fold end?",
+   "premises": [
+    "The end of the eye-line measures two parts",
+    "The end of the fold is equal to that"
+   ],
+   "inference": "The distance to the eye-line end and to the fold end are both two parts and equal",
+   "uncertainties": [
+    "The precise anatomical referents of netrasūtra and puṭa are uncertain"
+   ],
+   "plain_english": "The end of the eye-line is two parts, and the end of the fold is equal to that."
+  },
+  {
+   "verse": 2939,
+   "rows": [
+    {
+     "surface": "hikkāsūtrātstanāntaṃ",
+     "gloss": "from-hiccup-line-to-breast-end",
+     "grounds": "measured interval",
+     "morph": "compound: hikkā-hiccup + sūtra-line + stana-breast + anta-end; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navabhāgamudāhṛtam",
+     "gloss": "declared-as-nine-parts",
+     "grounds": "states measurement value",
+     "morph": "compound: nava-nine + bhāga-parts + udāhṛtam-declared; n.nom.sg"
+    }
+   ],
+   "question": "What measurement is declared for the interval from the hiccup line to the breast end?",
+   "premises": [
+    "The interval runs from the hiccup line to the breast end",
+    "This interval is declared as nine parts"
+   ],
+   "inference": "The distance from the hiccup line to the breast end measures nine parts",
+   "uncertainties": [
+    "The anatomical meaning of hikkāsūtra is uncertain"
+   ],
+   "plain_english": "From the hiccup line to the end of the breast is declared to be nine parts."
+  },
+  {
+   "verse": 2940,
+   "rows": [
+    {
+     "surface": "vāmestu",
+     "gloss": "of-left-indeed",
+     "grounds": "specifies side",
+     "morph": "compound: vāma-left + astu-indeed; m.gen.sg"
+    },
+    {
+     "surface": "meḍhramūlāntaṃ",
+     "gloss": "to-root-of-genitals-end",
+     "grounds": "measured interval",
+     "morph": "compound: meḍhra-genitals + mūla-root + anta-end; n.nom.sg"
+    },
+    {
+     "surface": "saptabhāgamiti",
+     "gloss": "seven-parts-thus",
+     "grounds": "states measurement value",
+     "morph": "compound: sapta-seven + bhāga-parts + iti-thus; n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditional authority",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What traditional measurement is given for the left side to the root of the genitals?",
+   "premises": [
+    "The interval on the left reaches the root of the genitals",
+    "It is remembered as seven parts"
+   ],
+   "inference": "The left-side measure to the root of the genitals is traditionally seven parts",
+   "uncertainties": [],
+   "plain_english": "On the left side, the distance to the root of the genitals is remembered as seven parts."
+  },
+  {
+   "verse": 2941,
+   "rows": [
+    {
+     "surface": "jaṃghādīrghorutattulyaṃ",
+     "gloss": "shank-length-equal-to-thigh",
+     "grounds": "states proportional equivalence",
+     "morph": "compound: jaṃghā-shank + dīrgha-length + ūru-thigh + tat-that + tulya-equal; n.nom.sg"
+    },
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "refers to middle measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādatalānvitam",
+     "gloss": "joined-with-foot-sole",
+     "grounds": "includes sole in measure",
+     "morph": "compound: pāda-foot + tala-sole + anvitam-joined; n.nom.sg"
+    }
+   ],
+   "question": "What proportional relationship holds between the shank, thigh, and foot sole?",
+   "premises": [
+    "The length of the shank is equal to that of the thigh",
+    "The middle measure is joined with the foot sole"
+   ],
+   "inference": "The shank and thigh are equal in length and the measure includes the foot sole",
+   "uncertainties": [
+    "The syntactic role of madhyaṃ is somewhat unclear"
+   ],
+   "plain_english": "The length of the shank is equal to that of the thigh, and the middle measure includes the sole of the foot."
+  },
+  {
+   "verse": 2942,
+   "rows": [
+    {
+     "surface": "koṣṭhāyāmaṃ",
+     "gloss": "abdomen-length",
+     "grounds": "measured dimension",
+     "morph": "compound: koṣṭha-abdomen + āyāma-length; n.nom.sg"
+    },
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "ten-parts",
+     "grounds": "measurement value",
+     "morph": "compound: daśa-ten + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talaṃ",
+     "gloss": "sole",
+     "grounds": "measured body part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vedāṃgulāyatam",
+     "gloss": "four-fingers-long",
+     "grounds": "measurement value for sole",
+     "morph": "compound: veda-four + aṃgula-fingers + āyatam-long; n.nom.sg"
+    }
+   ],
+   "question": "What measurements are prescribed for the abdomen length and the sole?",
+   "premises": [
+    "The abdomen length is ten parts",
+    "The sole is four fingers long"
+   ],
+   "inference": "The abdomen should measure ten parts and the sole four fingers in length",
+   "uncertainties": [],
+   "plain_english": "The length of the abdomen is ten parts, and the sole is four fingers long."
+  },
+  {
+   "verse": 2943,
+   "rows": [
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "states equivalence",
+     "morph": "compound: tad-that + samam-equal; n.nom.sg"
+    },
+    {
+     "surface": "tarjanī",
+     "gloss": "index-finger",
+     "grounds": "body part measured",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīrghaṃ",
+     "gloss": "long",
+     "grounds": "dimension described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaniṣṭhoccaṃ",
+     "gloss": "little-finger-height",
+     "grounds": "another measured dimension",
+     "morph": "compound: kaniṣṭha-little-finger + ucca-height; n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃgulam",
+     "gloss": "three-fingers",
+     "grounds": "measurement value",
+     "morph": "compound: guṇa-three + aṃgula-fingers; n.nom.sg"
+    }
+   ],
+   "question": "What measurements are specified for the index finger length and little finger height?",
+   "premises": [
+    "The index finger length is equal to that",
+    "The little finger height is three fingers"
+   ],
+   "inference": "The index finger is equal in length to the prior measure and the little finger height is three fingers",
+   "uncertainties": [
+    "The referent of tatsamaṃ depends on the previous verse"
+   ],
+   "plain_english": "The index finger is equal in length to that, and the height of the little finger is three fingers."
+  },
+  {
+   "verse": 2944,
+   "rows": [
+    {
+     "surface": "prakoṣṭhāgraṃ",
+     "gloss": "forearm-tip",
+     "grounds": "measured part",
+     "morph": "compound: prakoṣṭha-forearm + agra-tip; n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "measurement value",
+     "morph": "compound: guṇa-three + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmūlaṃ",
+     "gloss": "its-root",
+     "grounds": "base of forearm",
+     "morph": "compound: tad-that + mūla-root; n.nom.sg"
+    },
+    {
+     "surface": "caturaṃgulam",
+     "gloss": "four-fingers",
+     "grounds": "measurement value",
+     "morph": "compound: catur-four + aṃgula-fingers; n.nom.sg"
+    }
+   ],
+   "question": "What measurements are assigned to the forearm tip and its root?",
+   "premises": [
+    "The forearm tip measures three parts",
+    "Its root measures four fingers"
+   ],
+   "inference": "The forearm tip is three parts and its root is four fingers",
+   "uncertainties": [],
+   "plain_english": "The tip of the forearm is three parts, and its root is four fingers."
+  },
+  {
+   "verse": 2945,
+   "rows": [
+    {
+     "surface": "sārdhāṣṭāṃśaṃ",
+     "gloss": "eight-and-half-parts",
+     "grounds": "measurement value",
+     "morph": "compound: sa-with + ardha-half + aṣṭa-eight + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "mukha",
+     "gloss": "face",
+     "grounds": "measured feature",
+     "morph": "compound member in mukha-vyāsa; n."
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "breadth",
+     "grounds": "dimension measured",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saptāṃśaṃ",
+     "gloss": "seven-parts",
+     "grounds": "measurement value",
+     "morph": "compound: sapta-seven + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "karṇavistṛtam",
+     "gloss": "ear-width",
+     "grounds": "dimension measured",
+     "morph": "compound: karṇa-ear + vistṛtam-width; n.nom.sg"
+    }
+   ],
+   "question": "What breadth measurements are prescribed for the face and the ears?",
+   "premises": [
+    "The face breadth is eight and a half parts",
+    "The ear width is seven parts"
+   ],
+   "inference": "The face should be eight and a half parts broad and the ears seven parts wide",
+   "uncertainties": [],
+   "plain_english": "The breadth of the face is eight and a half parts, and the width of the ear is seven parts."
+  },
+  {
+   "verse": 2946,
+   "rows": [
+    {
+     "surface": "bhānvaṃśaṃ",
+     "gloss": "twelve-parts",
+     "grounds": "measurement value using sun-number",
+     "morph": "compound: bhānu-sun + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "hṛdayavistāraṃ",
+     "gloss": "heart-width",
+     "grounds": "dimension measured",
+     "morph": "compound: hṛdaya-heart + vistāra-width; n.nom.sg"
+    },
+    {
+     "surface": "rudrāṃśaṃ",
+     "gloss": "eleven-parts",
+     "grounds": "measurement value using Rudra-number",
+     "morph": "compound: rudra-Rudra + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "madhyavistṛtam",
+     "gloss": "middle-width",
+     "grounds": "dimension measured",
+     "morph": "compound: madhya-middle + vistṛtam-width; n.nom.sg"
+    }
+   ],
+   "question": "What widths are prescribed for the heart region and the middle of the body?",
+   "premises": [
+    "The heart width is twelve parts",
+    "The middle width is eleven parts"
+   ],
+   "inference": "The heart region should be twelve parts wide and the middle eleven parts wide",
+   "uncertainties": [],
+   "plain_english": "The width of the heart is twelve parts, and the width of the middle is eleven parts."
+  },
+  {
+   "verse": 2947,
+   "rows": [
+    {
+     "surface": "urumūlaviśālaṃ",
+     "gloss": "thigh-root-width",
+     "grounds": "dimension measured",
+     "morph": "compound: ūru-thigh + mūla-root + viśāla-width; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasvaṃgulamudāhṛtam",
+     "gloss": "declared-as-eight-fingers",
+     "grounds": "states measurement value",
+     "morph": "compound: vasu-eight + aṃgula-fingers + udāhṛtam-declared; n.nom.sg"
+    }
+   ],
+   "question": "What width is declared for the root of the thigh?",
+   "premises": [
+    "The width at the root of the thigh is measured",
+    "It is declared as eight fingers"
+   ],
+   "inference": "The root of the thigh should be eight fingers wide",
+   "uncertainties": [],
+   "plain_english": "The width at the root of the thigh is declared to be eight fingers."
+  },
+  {
+   "verse": 2948,
+   "rows": [
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "measurement value",
+     "morph": "compound: guṇa-three + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "nalakātāraṃ",
+     "gloss": "forearm-length",
+     "grounds": "dimension measured",
+     "morph": "compound: nalika-forearm + ātāra-length; n.nom.sg"
+    },
+    {
+     "surface": "ṣaḍaṃśaṃ",
+     "gloss": "six-parts",
+     "grounds": "measurement value",
+     "morph": "compound: ṣaṣ-six + aṃśa-parts; n.nom.sg"
+    },
+    {
+     "surface": "talavistṛtam",
+     "gloss": "sole-width",
+     "grounds": "dimension measured",
+     "morph": "compound: tala-sole + vistṛtam-width; n.nom.sg"
+    }
+   ],
+   "question": "What measurements are prescribed for the forearm length and the sole width?",
+   "premises": [
+    "The forearm length is three parts",
+    "The sole width is six parts"
+   ],
+   "inference": "The forearm should be three parts long and the sole six parts wide",
+   "uncertainties": [
+    "The term nalakātāraṃ is an uncommon form for forearm length"
+   ],
+   "plain_english": "The length of the forearm is three parts, and the width of the sole is six parts."
+  },
+  {
+   "verse": 2949,
+   "rows": [
+    {
+     "surface": "keśānte",
+     "gloss": "at-hair-end",
+     "grounds": "location on head",
+     "morph": "compound: keśa-hair + anta-end; m.loc.sg"
+    },
+    {
+     "surface": "vāsikopetaṃ",
+     "gloss": "provided-with-braid",
+     "grounds": "describes hair arrangement",
+     "morph": "compound: vāsikā-braid + upeta-provided; n.acc.sg"
+    },
+    {
+     "surface": "karaṇḍamakuṭānvitam",
+     "gloss": "adorned-with-basket-crown",
+     "grounds": "describes head ornament",
+     "morph": "compound: karaṇḍa-basket + makuṭa-crown + anvitam-adorned; n.acc.sg"
+    }
+   ],
+   "question": "What hair arrangement and crown adorn the goddess at the end of her hair?",
+   "premises": [
+    "The hair end is provided with a braid",
+    "It is adorned with a basket crown"
+   ],
+   "inference": "At the hair end the goddess should have a braid and be adorned with a basket crown",
+   "uncertainties": [
+    "The verse lacks an explicit finite verb"
+   ],
+   "plain_english": "At the end of the hair there should be a braid, adorned with a basket-shaped crown."
+  }
+ ]
+}

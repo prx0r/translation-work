@@ -1,0 +1,85 @@
+{
+ "format": "svatantrya-source-volume/1",
+ "work": "tantraloka-a34",
+ "vol": "tantraloka",
+ "source_file": "../ipvv/site/data/sanskrit/tantraloka.txt",
+ "source_id": "tantraloka-a34-tantraloka-6c84580d946fa3c9",
+ "content_sha256": "6c84580d946fa3c91c3aa6b922700f9d8eca011087a66fa48a6e1ae8c685c805",
+ "bytes": 781387,
+ "edition": "Provenance: GRETIL KSTS 1918-38 (Jayaratha Viveka ed.)",
+ "license": "CC BY-NC-SA 4.0 per source header (study-only; no commercial reuse incl. books)",
+ "source_url": "",
+ "spans": [
+  {
+   "passage_id": "tal-a34-v00",
+   "start": 758290,
+   "end": 758347,
+   "vol_lines": [
+    17190,
+    17190
+   ],
+   "legacy_coords": null,
+   "text_sha256": "e99bdfe120c31b04947a545a90ae6ab54c7f17e8894f65cd8565734894c13aa4"
+  },
+  {
+   "passage_id": "tal-a34-v01",
+   "start": 758347,
+   "end": 758463,
+   "vol_lines": [
+    17191,
+    17192
+   ],
+   "legacy_coords": null,
+   "text_sha256": "aaa0ecd925b83c69b760fb59346e8732028073d1a7bd1e2d8d381f8e0cbb55c8"
+  },
+  {
+   "passage_id": "tal-a34-v02",
+   "start": 758464,
+   "end": 758596,
+   "vol_lines": [
+    17194,
+    17195
+   ],
+   "legacy_coords": null,
+   "text_sha256": "ae2ba82ddef27b788a6eb61224501fb922391a464dff92927af49a7bbb5b8cdb"
+  },
+  {
+   "passage_id": "tal-a34-v03",
+   "start": 758597,
+   "end": 758778,
+   "vol_lines": [
+    17197,
+    17198
+   ],
+   "legacy_coords": null,
+   "text_sha256": "d6f810c0d558607ab7edc4cb0af1372cc7c573e4ece35d155bd3817aa54c64f3"
+  },
+  {
+   "passage_id": "tal-a34-v04",
+   "start": 758779,
+   "end": 758848,
+   "vol_lines": [
+    17200,
+    17200
+   ],
+   "legacy_coords": null,
+   "text_sha256": "2a28889eea59a89df35b3f16b27f7ce9bcec4529a89a174b527ad629ec115769"
+  }
+ ],
+ "overlaps": [],
+ "gaps": [
+  {
+   "start": 0,
+   "end": 758290,
+   "note": "non-whitespace bytes in no chunk span",
+   "preview": "### Provenance: GRETIL KSTS 1918-38 (Jayaratha Viveka ed.) · CC BY-NC-SA 4.0\n###"
+  },
+  {
+   "start": 758848,
+   "end": 781387,
+   "note": "trailing non-whitespace in no chunk span",
+   "preview": "\n:C35 atha śrītantrāloke pañcatriṃśamāhnikam\n\nathocyate samastānāṃ śāstrāṇāmiha "
+  }
+ ],
+ "supersedes": null
+}

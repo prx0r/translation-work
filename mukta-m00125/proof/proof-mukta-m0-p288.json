@@ -1,0 +1,73 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p288",
+ "work": "mukta-m00125",
+ "date": "2026-11-01",
+ "blocking": [
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "c5479913603c79b1",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 126
+ },
+ "align": {
+  "min_ratio": 0.938,
+  "sub090": {}
+ },
+ "c1_l2_shared": [
+  "The guru should cover it with pradhāna while remembering the Śiva-mantra."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 56,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 126,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "9ad54e797d02bb7537b5e3d56f7bb8f8137edccfac8dd617df843bbbffe2cb30",
+  "l0": "680a1358f6b9b3d540e6279e17ab56ed5be6b7a289a6c91fb474a362104fd240",
+  "argmap": "47074929a4f28444aed9d393333af5aa89686ae6272349fb5be5c90930054438",
+  "l2": "e87aed47c49a5887833fb082a5d58a5647647f67c153c68b2328d2e5a7af810a",
+  "c1": "f4cf77faab77689a742266b38360cc36bf00e71d320f4a9bc01ce234d7503ec4"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "c5479913603c79b1",
+  "t1": "mukta-m0-p288/data/mukta-m0-p288.t1.json",
+  "l0": "mukta-m0-p288/data/mukta-m0-p288.l0.json",
+  "l2": "mukta-m0-p288/data/mukta-m0-p288.l2.json",
+  "c1": "mukta-m0-p288/data/mukta-m0-p288.c1.json"
+ }
+}

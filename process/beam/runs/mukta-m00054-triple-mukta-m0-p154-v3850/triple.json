@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3850,
+   "rows": [
+    {
+     "surface": "nirāhāro",
+     "gloss": "without-food",
+     "grounds": "bahuvrihi adjective describing the practitioner as fasting; nominative singular masculine",
+     "morph": "compound: nir+āhāra, m.nom.sg"
+    },
+    {
+     "surface": "ravim",
+     "gloss": "the-sun",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrument expressing the manner of worship",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive optative enjoining the ritual act",
+     "morph": "3.sg.act.opt, √pūj"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "according-to-rule",
+     "grounds": "instrument indicating conformity to prescribed ritual method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nṛpa",
+     "gloss": "o-king",
+     "grounds": "vocative address to the practitioner",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What fasting and ritual discipline is required for proper worship of the sun?",
+   "premises": [
+    "The practitioner must remain without food.",
+    "The sun is the designated object of worship.",
+    "Worship must be performed with devotion.",
+    "Worship must follow the prescribed ritual rule."
+   ],
+   "inference": "Proper solar worship requires fasting combined with devoted observance of the prescribed ritual method.",
+   "uncertainties": [
+    "The vocative nṛpa may address a literal king or serve as a conventional address to the practitioner."
+   ],
+   "plain_english": "O king, while fasting, one should worship the sun with devotion according to the prescribed rule."
+  }
+ ]
+}

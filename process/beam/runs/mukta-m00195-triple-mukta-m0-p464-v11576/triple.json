@@ -1,0 +1,1419 @@
+{
+ "song": "mukta-m0-p464",
+ "items": [
+  {
+   "verse": 11576,
+   "rows": [
+    {
+     "surface": "vastra",
+     "gloss": "garment",
+     "grounds": "first member of a series of offerings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "alaṅkaraṇa",
+     "gloss": "ornament",
+     "grounds": "second member of a series of offerings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādyaiś",
+     "gloss": "and-others",
+     "grounds": "indicates additional similar items",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "recipients of the feeding",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "one-should-feed",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.opt.act √bhuj"
+    }
+   ],
+   "question": "What offerings should accompany the feeding of brahmins in this practice?",
+   "premises": [
+    "Garments, ornaments, and similar items are specified as offerings.",
+    "Brahmins are the designated recipients.",
+    "Feeding them is prescribed as a ritual action."
+   ],
+   "inference": "The practitioner should feed brahmins and also give them garments, ornaments, and similar gifts.",
+   "uncertainties": [],
+   "plain_english": "One should also feed brahmins and give them garments, ornaments, and other such offerings."
+  },
+  {
+   "verse": 11577,
+   "rows": [
+    {
+     "surface": "sūryya",
+     "gloss": "sun",
+     "grounds": "first member of compound denoting the sun's disk",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bimbe",
+     "gloss": "in-disk",
+     "grounds": "locative object of visual fixation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyasta",
+     "gloss": "fixed",
+     "grounds": "describes the gaze as placed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dṛṣṭir",
+     "gloss": "gaze",
+     "grounds": "subject performing the fixation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abdena",
+     "gloss": "for-a-year",
+     "grounds": "specifies the duration of practice",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "constantly",
+     "grounds": "indicates uninterrupted continuity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribes mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "What sustained practice of gazing and recitation is prescribed for one year?",
+   "premises": [
+    "The gaze is to be fixed on the sun's disk.",
+    "The practice continues for a full year.",
+    "Constant recitation is enjoined during this period."
+   ],
+   "inference": "One should constantly recite the mantra for a year while keeping the gaze fixed on the sun's disk.",
+   "uncertainties": [],
+   "plain_english": "With one's gaze fixed on the sun's disk, one should recite the mantra constantly for a year."
+  },
+  {
+   "verse": 11578,
+   "rows": [
+    {
+     "surface": "aṣṭā",
+     "gloss": "eight",
+     "grounds": "numerical component of the count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "more-than",
+     "grounds": "indicates addition to the base number",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "base number in the recitation count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "states the resulting condition",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "go",
+     "gloss": "cow",
+     "grounds": "first member of compound denoting endowment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ramā",
+     "gloss": "fortune",
+     "grounds": "second member referring to wealth or Lakshmi",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nvitaḥ",
+     "gloss": "endowed-with",
+     "grounds": "describes possession of cows and fortune",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What prosperity results from reciting the mantra one thousand and eight times?",
+   "premises": [
+    "The recitation count is one thousand and eight.",
+    "The practitioner becomes endowed with cows.",
+    "The practitioner becomes endowed with fortune."
+   ],
+   "inference": "Reciting the mantra one thousand and eight times makes the practitioner endowed with cows and fortune.",
+   "uncertainties": [
+    "ramā may refer specifically to the goddess Lakshmi or more generally to wealth"
+   ],
+   "plain_english": "By reciting it one thousand and eight times, he becomes endowed with cows and fortune."
+  },
+  {
+   "verse": 11579,
+   "rows": [
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numerical qualifier of actions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "ritual acts that are accomplished",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhyanti",
+     "gloss": "are-accomplished",
+     "grounds": "states successful attainment",
+     "morph": "3.pl.pres.pass √sidh"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "one-goes",
+     "grounds": "states movement to a destination",
+     "morph": "3.sg.pres.act √yā"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-vishnu",
+     "grounds": "possessor of the supreme abode",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies the abode",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "abode",
+     "grounds": "ultimate destination attained",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual accomplishments and ultimate destination result from this mantra practice?",
+   "premises": [
+    "The six ritual actions are accomplished.",
+    "The practitioner goes to Vishnu's abode.",
+    "That abode is described as supreme."
+   ],
+   "inference": "Through this practice the six actions succeed and the practitioner reaches Vishnu's supreme abode.",
+   "uncertainties": [],
+   "plain_english": "The six ritual actions are accomplished, and one goes to the supreme abode of Vishnu."
+  },
+  {
+   "verse": 11580,
+   "rows": [
+    {
+     "surface": "yaj",
+     "gloss": "whose",
+     "grounds": "first part of a fused relative form referring to recitation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "japenā",
+     "gloss": "by-recitation",
+     "grounds": "instrumental cause of the result; sandhi fusion noted in surface",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vatāro",
+     "gloss": "descent",
+     "grounds": "subject that grants fruits; sandhi fusion noted in surface",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tra",
+     "gloss": "here",
+     "grounds": "locative particle indicating this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member qualifying time",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "second member qualifying fruit",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruit",
+     "grounds": "object granted by the descent",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradaḥ",
+     "gloss": "giver",
+     "grounds": "describes the descent as bestowing results",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power does recitation of this mantra confer upon the divine descent here?",
+   "premises": [
+    "Recitation of this mantra is the operative cause.",
+    "A divine descent is present in this context.",
+    "That descent grants fruits at all times."
+   ],
+   "inference": "By recitation of this mantra, the divine descent here becomes a giver of fruits at all times.",
+   "uncertainties": [
+    "surface forms yaj-japenā and vatāro-tra show sandhi fusion affecting segmentation"
+   ],
+   "plain_english": "By reciting this mantra, the divine descent here becomes the giver of fruits at all times."
+  },
+  {
+   "verse": 11581,
+   "rows": [
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negates ordinary incarnation status; sandhi fusion noted in surface",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatāraḥ",
+     "gloss": "descent",
+     "grounds": "subject being reidentified",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the same divine presence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "evā",
+     "gloss": "indeed",
+     "grounds": "emphatic particle; sandhi fusion noted in surface",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tra",
+     "gloss": "here",
+     "grounds": "locative particle indicating this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "identifies the presence as the deity himself",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyakṣatā",
+     "gloss": "visibility",
+     "grounds": "state of direct perceptibility",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone-to",
+     "grounds": "indicates attainment of visible presence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the divine presence in this context identified beyond being a mere descent?",
+   "premises": [
+    "The presence is not merely a descent.",
+    "The same presence is identified as the god himself.",
+    "He has become directly visible here."
+   ],
+   "inference": "In this context the presence is not just an incarnation but the god himself become directly manifest.",
+   "uncertainties": [],
+   "plain_english": "He is not merely a descent here; he is the god himself, become directly visible."
+  },
+  {
+   "verse": 11582,
+   "rows": [
+    {
+     "surface": "avatāro",
+     "gloss": "descent",
+     "grounds": "subject identified as mantra; sandhi fusion noted in surface",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tra",
+     "gloss": "here",
+     "grounds": "locative particle indicating this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantras",
+     "gloss": "mantra",
+     "grounds": "equated with the descent; sandhi fusion noted in surface",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīkṛṣṇaḥ",
+     "gloss": "shri-krishna",
+     "grounds": "divine form addressed as refuge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaraṇaṃ",
+     "gloss": "refuge",
+     "grounds": "object of taking shelter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "marks the speaker's personal reliance",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What identity and refuge are affirmed for the mantra in this context?",
+   "premises": [
+    "The mantra is identified as a divine descent here.",
+    "Shri Krishna is named in this context.",
+    "The speaker declares Shri Krishna as refuge."
+   ],
+   "inference": "The mantra here is a descent, and Shri Krishna is affirmed as the speaker's refuge.",
+   "uncertainties": [],
+   "plain_english": "Here the mantra is a divine descent: Shri Krishna is my refuge."
+  },
+  {
+   "verse": 11583,
+   "rows": [
+    {
+     "surface": "dhyāna",
+     "gloss": "meditation",
+     "grounds": "first member of a list of ritual elements",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "second member of the ritual list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prayoga",
+     "gloss": "application",
+     "grounds": "third member of the ritual list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional similar elements",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "first member specifying syllable count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣara",
+     "gloss": "syllable",
+     "grounds": "second member specifying the mantra type",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vad",
+     "gloss": "like",
+     "grounds": "indicates similarity to the ten-syllable case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "states that the procedure has been taught",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are meditation, worship, and application prescribed for this mantra?",
+   "premises": [
+    "Meditation, worship, application, and related elements are under discussion.",
+    "A ten-syllable mantra provides the model.",
+    "The procedure is declared to be like that model."
+   ],
+   "inference": "The meditation, worship, application, and so forth for this mantra are declared to be as for the ten-syllable mantra.",
+   "uncertainties": [],
+   "plain_english": "Meditation, worship, application, and so forth are declared to be just as for the ten-syllable mantra."
+  },
+  {
+   "verse": 11584,
+   "rows": [
+    {
+     "surface": "sabhyatvān",
+     "gloss": "from-being-outside",
+     "grounds": "states the reason for exclusion; sandhi fusion noted in surface",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates eligibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijātīnām",
+     "gloss": "of-twice-born",
+     "grounds": "group whose eligibility is denied",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhikāro",
+     "gloss": "eligibility",
+     "grounds": "subject of the negation; sandhi fusion noted in surface",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sti",
+     "gloss": "is",
+     "grounds": "asserts existence of eligibility; sandhi fusion noted in surface",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "karhicit",
+     "gloss": "ever",
+     "grounds": "emphasizes absolute exclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why are the twice-born declared ineligible for this mantra under any circumstance?",
+   "premises": [
+    "The twice-born are described as being outside in this context.",
+    "Eligibility for this mantra is denied to them.",
+    "The denial is stated as applying at any time."
+   ],
+   "inference": "Because they are outside in this context, the twice-born never have eligibility for this mantra.",
+   "uncertainties": [
+    "sabhyatvān is interpreted as being outside the intended group; exact nuance is context-dependent"
+   ],
+   "plain_english": "Because they stand outside in this context, the twice-born never have eligibility for this mantra."
+  },
+  {
+   "verse": 11585,
+   "rows": [
+    {
+     "surface": "golakāś",
+     "gloss": "golakas",
+     "grounds": "first group named; sandhi fusion noted in surface",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jātyā",
+     "gloss": "by-birth",
+     "grounds": "specifies the basis of classification",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kāyasthā",
+     "gloss": "kayasthas",
+     "grounds": "second group named",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "daya",
+     "gloss": "and-others",
+     "grounds": "indicates additional similar groups; sandhi fusion noted in surface",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional birth-based groups are included in the scope of this mantra?",
+   "premises": [
+    "Golakas are explicitly named.",
+    "Kayasthas are named as a birth-based group.",
+    "Other similar groups are included as well."
+   ],
+   "inference": "The mantra's scope includes Golakas, Kayasthas by birth, and other such groups.",
+   "uncertainties": [
+    "daya is read as the start of ādayaḥ/ādaya in sandhi, indicating 'and others'"
+   ],
+   "plain_english": "Golakas, and likewise Kayasthas by birth, and others of that kind are included."
+  },
+  {
+   "verse": 11586,
+   "rows": [
+    {
+     "surface": "patitānām",
+     "gloss": "of-the-fallen",
+     "grounds": "identifies the intended recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "points to the mantra being discussed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the declaration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samproktaḥ",
+     "gloss": "declared",
+     "grounds": "states authoritative teaching",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaraṇa",
+     "gloss": "refuge",
+     "grounds": "first member describing the mantra's function",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradaḥ",
+     "gloss": "giver",
+     "grounds": "describes the mantra as granting refuge",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What function is this mantra declared to serve for those who are fallen?",
+   "premises": [
+    "The mantra is addressed to the fallen.",
+    "It is authoritatively declared.",
+    "It is described as giving refuge."
+   ],
+   "inference": "This mantra is declared to be a giver of refuge for the fallen.",
+   "uncertainties": [],
+   "plain_english": "This mantra is declared to be a giver of refuge for the fallen."
+  },
+  {
+   "verse": 11587,
+   "rows": [
+    {
+     "surface": "kali",
+     "gloss": "kali",
+     "grounds": "first member naming the age",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kālād",
+     "gloss": "from-age",
+     "grounds": "source of fear; sandhi fusion noted in surface",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker expressing fear and refuge-taking",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "bhītaḥ",
+     "gloss": "afraid",
+     "grounds": "describes the speaker's condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaraṇyaṃ",
+     "gloss": "to-protector",
+     "grounds": "object worthy of giving refuge",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaraṇaṃ",
+     "gloss": "refuge",
+     "grounds": "state sought by the speaker",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone-to",
+     "grounds": "indicates the act of taking refuge",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What motivates the speaker to seek refuge in the protector named here?",
+   "premises": [
+    "The speaker is afraid of the Kali age.",
+    "There is a protector worthy of refuge.",
+    "The speaker has gone to that protector for refuge."
+   ],
+   "inference": "Fear of the Kali age motivates the speaker to take refuge in the protector.",
+   "uncertainties": [],
+   "plain_english": "Afraid of the Kali age, I have gone for refuge to the one who gives refuge."
+  },
+  {
+   "verse": 11588,
+   "rows": [
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numerical qualifier of limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "second member of the ritual procedure name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidhir",
+     "gloss": "procedure",
+     "grounds": "subject declared; sandhi fusion noted in surface",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ākhyātaḥ",
+     "gloss": "declared",
+     "grounds": "states that the procedure has been taught",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarveṇa",
+     "gloss": "with-all",
+     "grounds": "indicates total or pervasive application",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervading",
+     "grounds": "describes the manner of performance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "How should the six-limb procedure be performed according to this instruction?",
+   "premises": [
+    "The six-limb procedure has been declared.",
+    "The performance is to be done with all.",
+    "The performance is to be done in a pervading manner."
+   ],
+   "inference": "After the six-limb procedure is declared, one should perform it pervasively with all its parts.",
+   "uncertainties": [
+    "sarveṇa vyāpakaṃ may refer to pervading the whole body or using all elements"
+   ],
+   "plain_english": "The six-limb procedure has been declared; one should perform it in a pervading manner with all its parts."
+  },
+  {
+   "verse": 11589,
+   "rows": [
+    {
+     "surface": "gauraṃ",
+     "gloss": "white",
+     "grounds": "describes the visualized form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "muṇḍita",
+     "gloss": "shaved",
+     "grounds": "first member describing the limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "second member indicating totality of limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅgaṃ",
+     "gloss": "limbs",
+     "grounds": "describes the body as fully shaved",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāna",
+     "gloss": "in-meditation",
+     "grounds": "first member describing the eyes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stimita",
+     "gloss": "motionless",
+     "grounds": "second member describing the eyes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "locanam",
+     "gloss": "eyes",
+     "grounds": "describes the gaze in meditation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What visual form should be contemplated in this meditation instruction?",
+   "premises": [
+    "The form is white in color.",
+    "All limbs are shaved.",
+    "The eyes are motionless in meditation."
+   ],
+   "inference": "One should contemplate a white form with all limbs shaved and eyes motionless in meditation.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on a white form, with all limbs shaved and eyes motionless in meditation."
+  },
+  {
+   "verse": 11590,
+   "rows": [
+    {
+     "surface": "indra",
+     "gloss": "indra",
+     "grounds": "first member naming the guardians",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-other",
+     "grounds": "indicates additional guardians",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "loka",
+     "gloss": "world",
+     "grounds": "third member of the guardian compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pālaiś",
+     "gloss": "by-guardians",
+     "grounds": "agents surrounding the form; sandhi fusion noted in surface",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāmra",
+     "gloss": "copper",
+     "grounds": "first member describing garment color",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇa",
+     "gloss": "colored",
+     "grounds": "second member describing garment color",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āmbarā",
+     "gloss": "garment",
+     "grounds": "third member describing attire; sandhi fusion noted in surface",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛtam",
+     "gloss": "surrounded",
+     "grounds": "describes the form as encompassed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "By whom and in what attire is the visualized form surrounded?",
+   "premises": [
+    "The world-guardians beginning with Indra surround the form.",
+    "Those surrounding figures wear copper-colored garments.",
+    "The visualized form is encompassed by them."
+   ],
+   "inference": "The contemplated form is surrounded by the world-guardians beginning with Indra, who wear copper-colored garments.",
+   "uncertainties": [],
+   "plain_english": "He is surrounded by the world-guardians beginning with Indra, who are clothed in copper-colored garments."
+  },
+  {
+   "verse": 11591,
+   "rows": [
+    {
+     "surface": "karṇikāyāṃ",
+     "gloss": "in-pericarp",
+     "grounds": "central location of worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numerical qualifier of limbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual components to be worshipped",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dale",
+     "gloss": "on-petal",
+     "grounds": "location for worshipping disciples",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śiṣyān",
+     "gloss": "disciples",
+     "grounds": "additional recipients of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "specifies sequential procedure",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Where and in what order should the six limbs and disciples be worshipped?",
+   "premises": [
+    "The six limbs are to be worshipped in the pericarp.",
+    "The disciples are to be worshipped on the petal.",
+    "The worship is to proceed in order."
+   ],
+   "inference": "One should worship the six limbs in the pericarp and the disciples on the petal, in due order.",
+   "uncertainties": [],
+   "plain_english": "One should worship the six limbs in the pericarp and the disciples on the petal, in proper order."
+  },
+  {
+   "verse": 11592,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of an epithet meaning all-knowing",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jñaṃ",
+     "gloss": "knowing",
+     "grounds": "second member of the epithet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sugataṃ",
+     "gloss": "well-gone",
+     "grounds": "epithet of the Buddha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "buddhaṃ",
+     "gloss": "buddha",
+     "grounds": "name of the awakened one",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārśvanāthaṃ",
+     "gloss": "parshvanatha",
+     "grounds": "name of the Jina",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathāgatam",
+     "gloss": "thus-gone",
+     "grounds": "epithet of the Buddha",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which enlightened figures are named for worship in this sequence?",
+   "premises": [
+    "The all-knowing Sugata Buddha is named.",
+    "Parshvanatha is named.",
+    "The Tathagata is named."
+   ],
+   "inference": "The sequence names the all-knowing Sugata Buddha, Parshvanatha, and the Tathagata for worship.",
+   "uncertainties": [],
+   "plain_english": "One should worship the all-knowing Sugata, the Buddha, Parshvanatha, and the Tathagata."
+  },
+  {
+   "verse": 11593,
+   "rows": [
+    {
+     "surface": "kāminīṃ",
+     "gloss": "kamini",
+     "grounds": "female figure named for worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of an epithet",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "illusion",
+     "grounds": "figure named as great Maya",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śrīkṛṣṇaṃ",
+     "gloss": "shri-krishna",
+     "grounds": "divine figure named for worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vināyakam",
+     "gloss": "vinayaka",
+     "grounds": "deity named for worship",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which additional deities and figures are included in this worship sequence?",
+   "premises": [
+    "Kamini is named.",
+    "Maha Maya is named.",
+    "Shri Krishna and Vinayaka are named."
+   ],
+   "inference": "The worship sequence also includes Kamini, Maha Maya, Shri Krishna, and Vinayaka.",
+   "uncertainties": [
+    "kāminīṃ may be a specific figure or an epithet depending on tradition"
+   ],
+   "plain_english": "And one should worship Kamini, Maha Maya, Shri Krishna, and Vinayaka."
+  },
+  {
+   "verse": 11594,
+   "rows": [
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numerical qualifier of superknowledges",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhijñaṃ",
+     "gloss": "superknowledges",
+     "grounds": "epithet denoting possession of six superknowledges",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numerical qualifier of powers",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "balaṃ",
+     "gloss": "powers",
+     "grounds": "epithet denoting possession of ten powers",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāstāraṃ",
+     "gloss": "teacher",
+     "grounds": "epithet of the guiding figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrīghanaṃ",
+     "gloss": "shrighana",
+     "grounds": "name or epithet of the figure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣayam",
+     "gloss": "kshaya",
+     "grounds": "name or epithet of the figure",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which further epithets and figures complete this list of worshipped beings?",
+   "premises": [
+    "A figure possessing six superknowledges and ten powers is named.",
+    "The Teacher is named.",
+    "Shrighana and Kshaya are named."
+   ],
+   "inference": "The list continues with the one of six superknowledges and ten powers, the Teacher, Shrighana, and Kshaya.",
+   "uncertainties": [
+    "śrīghanaṃ and kṣayam may be proper names or descriptive epithets"
+   ],
+   "plain_english": "One should worship the one endowed with six superknowledges and ten powers, the Teacher, Shrighana, and Kshaya."
+  },
+  {
+   "verse": 11595,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "specifies the outer location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhū",
+     "gloss": "ground",
+     "grounds": "first member of the enclosure term",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pure",
+     "gloss": "in-enclosure",
+     "grounds": "location for worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dik",
+     "gloss": "direction",
+     "grounds": "first member naming the guardians",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāṃs",
+     "gloss": "guardians",
+     "grounds": "directional guardians to be worshipped; sandhi fusion noted in surface",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tad",
+     "gloss": "their",
+     "grounds": "first member referring to the guardians' weapons",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "astrāṇi",
+     "gloss": "weapons",
+     "grounds": "objects to be worshipped",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What should be worshipped in the ground enclosure outside the central area?",
+   "premises": [
+    "The location is outside that central area in the ground enclosure.",
+    "The directional guardians are to be worshipped.",
+    "Their weapons are also to be worshipped."
+   ],
+   "inference": "In the outer ground enclosure one should worship the directional guardians and their weapons.",
+   "uncertainties": [],
+   "plain_english": "Outside that, in the ground enclosure, one should worship the directional guardians and their weapons."
+  },
+  {
+   "verse": 11596,
+   "rows": [
+    {
+     "surface": "tulasī",
+     "gloss": "tulasi",
+     "grounds": "first member specifying the mixture",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "miśra",
+     "gloss": "mixed",
+     "grounds": "second member describing the waters",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "toyaiś",
+     "gloss": "with-waters",
+     "grounds": "instrument used for propitiation; sandhi fusion noted in surface",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavantaṃ",
+     "gloss": "the-lord",
+     "grounds": "recipient of propitiation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratarppayet",
+     "gloss": "one-should-propitiate",
+     "grounds": "prescribes the ritual offering",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    }
+   ],
+   "question": "With what substance should the lord be propitiated in this rite?",
+   "premises": [
+    "Waters mixed with tulasi are specified.",
+    "The lord is the recipient of the rite.",
+    "Propitiation is prescribed."
+   ],
+   "inference": "One should propitiate the lord with waters mixed with tulasi.",
+   "uncertainties": [],
+   "plain_english": "One should propitiate the Lord with waters mixed with tulasi."
+  },
+  {
+   "verse": 11597,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to the previously described practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartamānasya",
+     "gloss": "of-one-practicing",
+     "grounds": "identifies the practitioner following the method",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāk",
+     "gloss": "speech",
+     "grounds": "first member of the accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhy",
+     "gloss": "accomplishment",
+     "grounds": "second member of the accomplishment; sandhi fusion noted in surface",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indicates additional accomplishments",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "arises",
+     "grounds": "states the result that comes into being",
+     "morph": "3.sg.pres.pass √jan"
+    }
+   ],
+   "question": "What accomplishments arise for one who practices in the manner described?",
+   "premises": [
+    "The practitioner follows the prescribed method.",
+    "Speech accomplishment is specifically mentioned.",
+    "Other similar accomplishments are included."
+   ],
+   "inference": "For one who practices thus, accomplishment in speech and other powers arises.",
+   "uncertainties": [],
+   "plain_english": "For one who practices in this way, accomplishment in speech and other powers arises."
+  },
+  {
+   "verse": 11598,
+   "rows": [
+    {
+     "surface": "bhūta",
+     "gloss": "spirit",
+     "grounds": "first member naming afflicting beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "preta",
+     "gloss": "ghost",
+     "grounds": "second member naming afflicting beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-other",
+     "grounds": "indicates additional afflicting beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīḍāyāṃ",
+     "gloss": "in-affliction",
+     "grounds": "context of harm from such beings",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member qualifying disease",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gada",
+     "gloss": "disease",
+     "grounds": "second member naming severe illness",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhaye",
+     "gloss": "in-fear",
+     "grounds": "context of danger from disease",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends the application to this case",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what situations of affliction and danger is the following remedy applicable?",
+   "premises": [
+    "Affliction caused by spirits, ghosts, and similar beings is mentioned.",
+    "Fear arising from great disease is mentioned.",
+    "Both situations are included by extension."
+   ],
+   "inference": "The remedy applies in afflictions caused by spirits and ghosts and likewise in fear of great disease.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in affliction caused by spirits, ghosts, and others, and in fear of great disease..."
+  },
+  {
+   "verse": 11599,
+   "rows": [
+    {
+     "surface": "kaṃkalkine",
+     "gloss": "kamkalkine",
+     "grounds": "mantra syllables or opening formula as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛd",
+     "gloss": "heart",
+     "grounds": "mantra element indicating the heart ending; sandhi fusion noted in surface",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "anta",
+     "gloss": "ending",
+     "grounds": "indicates termination with the heart element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "toyaṃ",
+     "gloss": "water",
+     "grounds": "substance to be empowered or used",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject declared",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "states authoritative teaching",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numerical qualifier of syllables",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣaraḥ",
+     "gloss": "syllable",
+     "grounds": "describes the mantra's length",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What six-syllable mantra formula is declared for use with water in this context?",
+   "premises": [
+    "A specific mantra formula beginning with kaṃkalkine is given.",
+    "The formula ends with the heart element.",
+    "The mantra is declared to be six syllables and associated with water."
+   ],
+   "inference": "The declared remedy is a six-syllable mantra, 'kaṃkalkine' ending with the heart element, used with water.",
+   "uncertainties": [
+    "exact syllabic parsing of kaṃkalkine hṛd-anta is uncertain from the given tokenization"
+   ],
+   "plain_english": "The mantra declared for the water is the six-syllable formula 'kaṃkalkine' ending with the heart element."
+  }
+ ]
+}

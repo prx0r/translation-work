@@ -1,0 +1,38 @@
+{
+ "song": "sva-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇa",
+     "gloss": "to-be-stated",
+     "grounds": "future passive participle of vac",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kapālīśādibhairavatadaṅgapūjā",
+     "gloss": "kapalisha-etc-bhairava-and-limb-worship",
+     "grounds": "compound naming Kapālīśa etc. Bhairava and limb worship",
+     "morph": "f.nom.sg; compound=kapālīśa-ādi-bhairava-tad-aṅga-pūjā"
+    },
+    {
+     "surface": "mantavyā",
+     "gloss": "to-be-considered",
+     "grounds": "future passive participle of man",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What worship is to be considered here?",
+   "premises": [
+    "The stated worship is to be considered.",
+    "Kapalisha etc. Bhairava limb worship is stated."
+   ],
+   "inference": "The to-be-stated Kapalisha etc. Bhairava limb worship is to be considered.",
+   "uncertainties": [
+    "Compound and sandhi boundaries are analyzed as the fused token."
+   ],
+   "plain_english": "The to-be-stated worship of Kapālīśa and the other Bhairavas and their limbs is to be considered."
+  }
+ ]
+}

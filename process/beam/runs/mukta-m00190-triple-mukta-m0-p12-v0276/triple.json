@@ -1,0 +1,1375 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "ākarṣaṇe",
+     "gloss": "in-attraction",
+     "grounds": "ritual aim of drawing near",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lavaṇaṃ",
+     "gloss": "salt",
+     "grounds": "substance used in offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priyaṅgu",
+     "gloss": "priyangu",
+     "grounds": "plant substance named as ingredient",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pauṣṭika",
+     "gloss": "nourishing",
+     "grounds": "qualifying ingredient or type",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "oditaiḥ",
+     "gloss": "with-mentioned",
+     "grounds": "things declared for the rite",
+     "morph": "m.ins.pl (ud-√vad ppp)"
+    }
+   ],
+   "question": "Which substances are prescribed for performing the ritual of attraction?",
+   "premises": [
+    "The ritual context is attraction.",
+    "Salt is specified as an ingredient.",
+    "Priyangu and nourishing items mentioned are included."
+   ],
+   "inference": "Attraction rites employ salt together with priyaṅgu and the nourishing substances mentioned.",
+   "uncertainties": [
+    "Exact compound relation of priyaṅgu and pauṣṭika is unclear from tokenization."
+   ],
+   "plain_english": "For attraction, one should use salt together with priyaṅgu and the nourishing substances that have been mentioned."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "kārpāsa",
+     "gloss": "cotton",
+     "grounds": "plant material for offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nimba",
+     "gloss": "neem",
+     "grounds": "plant material for offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "takra",
+     "gloss": "buttermilk",
+     "grounds": "substance mixed or used with others",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "with-etcetera",
+     "grounds": "indicates additional similar items",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "navakeśaiḥ",
+     "gloss": "with-new-hairs",
+     "grounds": "fresh hair used as offering material",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative materials may be used in the attraction offering?",
+   "premises": [
+    "Cotton, neem, buttermilk and similar items are listed.",
+    "New hairs are given as another material.",
+    "Particles indicate alternatives and inclusion."
+   ],
+   "inference": "The attraction rite may alternatively use cotton, neem, buttermilk and the like, or new hairs.",
+   "uncertainties": [
+    "The ritual action is implied from the preceding verse."
+   ],
+   "plain_english": "Alternatively, one may use cotton, neem, buttermilk and such things, or likewise new hairs."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "unmatta",
+     "gloss": "datura",
+     "grounds": "plant whose seeds are used",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījaiḥ",
+     "gloss": "with-seeds",
+     "grounds": "seed material for oblation",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescribed fire oblation",
+     "morph": "3.sg.act.opt (√hu)"
+    },
+    {
+     "surface": "viṣa",
+     "gloss": "poison",
+     "grounds": "toxic substance in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "raktena",
+     "gloss": "with-blood",
+     "grounds": "blood used in the rite",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "māraṇe",
+     "gloss": "in-killing",
+     "grounds": "ritual aim of causing death",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What oblation materials are prescribed for the ritual of killing?",
+   "premises": [
+    "The ritual aim is killing.",
+    "Datura seeds are specified for offering.",
+    "Poison and blood are included as materials."
+   ],
+   "inference": "For killing, one should offer oblations with datura seeds together with poison and blood.",
+   "uncertainties": [
+    "The exact relation between poison and blood as a compound or separate ingredients is context-dependent."
+   ],
+   "plain_english": "In a rite of killing, one should make an oblation with datura seeds, along with poison and blood."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to previously mentioned material",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "flesh",
+     "grounds": "bodily substance for offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyasya",
+     "gloss": "of-target",
+     "grounds": "person against whom rite is directed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nakha",
+     "gloss": "nail",
+     "grounds": "bodily part of the target",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "roma",
+     "gloss": "hair",
+     "grounds": "bodily part of the target",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "naraiḥ",
+     "gloss": "with-human-parts",
+     "grounds": "human-derived materials",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bodily materials of the target may be used in the killing rite?",
+   "premises": [
+    "Flesh is included as an offering material.",
+    "The materials belong to the target.",
+    "Nails and hair of humans are also specified."
+   ],
+   "inference": "The killing rite may employ the target's flesh as well as human nails and hair.",
+   "uncertainties": [
+    "The syntactic role of naraiḥ alongside nakha-roma is somewhat compressed."
+   ],
+   "plain_english": "One may also use that flesh, and likewise the nails and hair of the intended target."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "laśunaiḥ",
+     "gloss": "with-garlic",
+     "grounds": "substance used in the rite",
+     "morph": "m/n.ins.pl"
+    },
+    {
+     "surface": "asṛjā",
+     "gloss": "with-blood",
+     "grounds": "blood used for sprinkling or mixing",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "abhyukṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "preparatory ritual action",
+     "morph": "indecl. (abhi-√ukṣ gerund)"
+    },
+    {
+     "surface": "gardabhasya",
+     "gloss": "of-donkey",
+     "grounds": "source of material or referent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māraṇe",
+     "gloss": "in-killing",
+     "grounds": "ritual aim of causing death",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should garlic and blood be employed in the killing ritual?",
+   "premises": [
+    "The ritual context is killing.",
+    "Garlic and blood are specified.",
+    "Sprinkling is the prescribed preparatory action."
+   ],
+   "inference": "In a killing rite, one should sprinkle with garlic and blood, including that of a donkey.",
+   "uncertainties": [
+    "The exact object sprinkled and the role of gardabhasya are inferred from context."
+   ],
+   "plain_english": "In a rite of killing, having sprinkled with garlic and blood, and also with that of a donkey, one proceeds with the rite."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "rohī",
+     "gloss": "rohī",
+     "grounds": "plant or seed name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījaiḥ",
+     "gloss": "with-seeds",
+     "grounds": "seed material for oblation",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tila",
+     "gloss": "sesame",
+     "grounds": "substance combined with seeds",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "upetaiḥ",
+     "gloss": "with-endowed",
+     "grounds": "accompanied by sesame",
+     "morph": "m/n.ins.pl (upa-√i ppp)"
+    },
+    {
+     "surface": "utsāde",
+     "gloss": "in-uprooting",
+     "grounds": "ritual aim of eradication",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescribed fire oblation",
+     "morph": "3.sg.act.opt (√hu)"
+    },
+    {
+     "surface": "yavaiḥ",
+     "gloss": "with-barley",
+     "grounds": "additional offering material",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What materials are prescribed for oblations in the uprooting ritual?",
+   "premises": [
+    "The ritual aim is uprooting.",
+    "Rohī seeds endowed with sesame are specified.",
+    "Barley is also included as an offering material."
+   ],
+   "inference": "For uprooting, one should offer oblations with rohī seeds mixed with sesame and with barley.",
+   "uncertainties": [
+    "The identity of rohī is not fully specified in the text."
+   ],
+   "plain_english": "In a rite of uprooting, one should offer oblations with rohī seeds combined with sesame, and with barley."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "sarṣapaiḥ",
+     "gloss": "with-mustard",
+     "grounds": "seed material for oblation",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tila",
+     "gloss": "sesame",
+     "grounds": "substance mixed with mustard",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃmiśraiḥ",
+     "gloss": "with-mixed",
+     "grounds": "combined with sesame",
+     "morph": "m.ins.pl (sam-√miśr ppp)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "prescribed fire oblation",
+     "morph": "3.sg.act.opt (√hu)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies the scope of sorcery",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhicārake",
+     "gloss": "in-sorcery",
+     "grounds": "ritual aim of hostile magic",
+     "morph": "m/n.loc.sg"
+    }
+   ],
+   "question": "What oblation mixture is prescribed for all forms of sorcery?",
+   "premises": [
+    "The ritual context is all sorcery.",
+    "Mustard seeds are specified.",
+    "The mustard is mixed with sesame."
+   ],
+   "inference": "For all sorcery, one should offer oblations with mustard seeds mixed with sesame.",
+   "uncertainties": [],
+   "plain_english": "In all acts of sorcery, one should make an oblation with mustard seeds mixed with sesame."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "marīcaiḥ",
+     "gloss": "with-black-pepper",
+     "grounds": "pungent substance for offering",
+     "morph": "m/n.ins.pl"
+    },
+    {
+     "surface": "sarṣapaiḥ",
+     "gloss": "with-mustard",
+     "grounds": "seed material for offering",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "siddhaiḥ",
+     "gloss": "with-prepared",
+     "grounds": "materials ritually prepared or perfected",
+     "morph": "m/n.ins.pl (√sidh ppp)"
+    },
+    {
+     "surface": "arka",
+     "gloss": "arka",
+     "grounds": "plant associated with milky sap",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṣīraiḥ",
+     "gloss": "with-milks",
+     "grounds": "milky substances or sap",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kaṭu",
+     "gloss": "pungent",
+     "grounds": "qualifies the trees or substances",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "drumaiḥ",
+     "gloss": "with-trees",
+     "grounds": "materials derived from pungent trees",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which prepared pungent substances are listed for ritual oblations here?",
+   "premises": [
+    "Black pepper and mustard are specified.",
+    "The materials are described as prepared.",
+    "Arka milk and pungent trees are included."
+   ],
+   "inference": "Prepared black pepper, mustard, arka milk, and materials from pungent trees are prescribed as oblation substances.",
+   "uncertainties": [
+    "The exact ritual aim continues from previous verses and is not restated."
+   ],
+   "plain_english": "One should use prepared black pepper and mustard, along with arka milk and materials from pungent trees."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "āyuḥ",
+     "gloss": "long-life",
+     "grounds": "desired outcome of longevity",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāmaiḥ",
+     "gloss": "by-those-desiring",
+     "grounds": "practitioners seeking long life",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "offering substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tilaiḥ",
+     "gloss": "with-sesame",
+     "grounds": "offering substance combined with ghee",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhirāma",
+     "gloss": "delightful",
+     "grounds": "qualifies the mango sprouts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "amra",
+     "gloss": "mango",
+     "grounds": "tree whose sprouts are used",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pallavaiḥ",
+     "gloss": "with-sprouts",
+     "grounds": "fresh shoots for oblation",
+     "morph": "m/n.ins.pl"
+    }
+   ],
+   "question": "What offerings are prescribed for those who desire long life?",
+   "premises": [
+    "The practitioners desire long life.",
+    "Ghee and sesame are given as one option.",
+    "Delightful mango sprouts are given as an alternative."
+   ],
+   "inference": "Those desiring long life should offer ghee with sesame or delightful mango sprouts.",
+   "uncertainties": [
+    "The verb for offering is implied from earlier verses."
+   ],
+   "plain_english": "Those who desire long life should offer ghee with sesame, or else beautiful mango sprouts."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "guḍūcī",
+     "gloss": "guḍūcī",
+     "grounds": "plant used in ritual",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mṛtyu",
+     "gloss": "death",
+     "grounds": "first member of victory-over-death name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jayena",
+     "gloss": "with-conquering",
+     "grounds": "associated with conquering death",
+     "morph": "m/n.ins.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connects to another application",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntau",
+     "gloss": "in-pacification",
+     "grounds": "ritual aim of calming",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "gaja",
+     "gloss": "elephant",
+     "grounds": "first of two animals to be pacified",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aśvayoḥ",
+     "gloss": "of-horse-pair",
+     "grounds": "elephant and horse as targets of pacification",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "How is guḍūcī applied for conquering death and pacifying animals?",
+   "premises": [
+    "Guḍūcī is named as the material.",
+    "It is associated with conquering death.",
+    "It is likewise used in pacification of elephants and horses."
+   ],
+   "inference": "Guḍūcī is used for overcoming death and likewise for pacifying elephants and horses.",
+   "uncertainties": [
+    "The exact ritual procedure with guḍūcī is not fully specified."
+   ],
+   "plain_english": "Guḍūcī is used for conquering death, and likewise in rites of pacification for elephants and horses."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "vṛṣṭi",
+     "gloss": "rain",
+     "grounds": "desired outcome of rainfall",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desiring",
+     "grounds": "practitioner seeking rain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaitasībhiḥ",
+     "gloss": "with-vetasa",
+     "grounds": "made of or from vetasa cane",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "samidbhiḥ",
+     "gloss": "with-fuel-sticks",
+     "grounds": "wood pieces for fire oblation",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "patrakaiḥ",
+     "gloss": "with-leaves",
+     "grounds": "leaf materials for offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds another material",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials should a person desiring rain use in oblation?",
+   "premises": [
+    "The practitioner desires rain.",
+    "Vetasa fuel sticks are specified.",
+    "Leaves are likewise included."
+   ],
+   "inference": "One who desires rain should offer oblations with vetasa fuel sticks and leaves.",
+   "uncertainties": [
+    "The verb for offering is implied from context."
+   ],
+   "plain_english": "One who desires rain should use vetasa fuel sticks and likewise leaves in the oblation."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "ghṛta",
+     "gloss": "ghee",
+     "grounds": "offering substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "guggulu",
+     "gloss": "guggulu",
+     "grounds": "resin used in oblation",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "homena",
+     "gloss": "by-oblation",
+     "grounds": "fire offering act",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vāk",
+     "gloss": "speech",
+     "grounds": "faculty of eloquence or speech",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "patitvaṃ",
+     "gloss": "lordship",
+     "grounds": "state of mastery over speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajāyate",
+     "gloss": "is-produced",
+     "grounds": "result arises from the rite",
+     "morph": "3.sg.pass.pres (pra-√jan)"
+    }
+   ],
+   "question": "What result is produced by an oblation of ghee and guggulu?",
+   "premises": [
+    "The oblation uses ghee and guggulu.",
+    "The stated result concerns speech.",
+    "Lordship over speech is produced."
+   ],
+   "inference": "An oblation of ghee and guggulu produces lordship over speech.",
+   "uncertainties": [],
+   "plain_english": "By offering ghee and guggulu in the fire, one attains mastery over speech."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "floral offering materials",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "sarasvatī",
+     "grounds": "goddess or power of speech and learning",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "attainment of the desired power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds another result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies purposes",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "artha",
+     "gloss": "purpose",
+     "grounds": "aims or goals",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "accomplishment",
+     "grounds": "means of achieving all purposes",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What accomplishments result from making offerings with flowers?",
+   "premises": [
+    "Flowers are used as offering materials.",
+    "Accomplishment related to Sarasvatī is stated.",
+    "Accomplishment of all purposes is likewise stated."
+   ],
+   "inference": "Offerings with flowers bring accomplishment of Sarasvatī and the fulfillment of all purposes.",
+   "uncertainties": [
+    "The ritual action is implied rather than explicitly stated."
+   ],
+   "plain_english": "With flowers one attains the accomplishment of Sarasvatī, and likewise the fulfillment of all aims."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "color qualifying flowers",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "floral offering materials",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "apāmārgaiḥ",
+     "gloss": "with-apāmārga",
+     "grounds": "plant materials for offering",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "aṅkolaiḥ",
+     "gloss": "with-aṅkola",
+     "grounds": "plant materials for offering",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "subhadrakaiḥ",
+     "gloss": "with-subhadraka",
+     "grounds": "plant materials for offering",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which red flowers and plants are specified as ritual offering materials?",
+   "premises": [
+    "Red flowers are specified.",
+    "Apāmārga plants are included.",
+    "Aṅkola and subhadraka are also included."
+   ],
+   "inference": "The rite may use red flowers together with apāmārga, aṅkola, and subhadraka.",
+   "uncertainties": [
+    "The specific ritual purpose continues from surrounding verses."
+   ],
+   "plain_english": "One may use red flowers, along with apāmārga, aṅkola, and subhadraka."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "vāta",
+     "gloss": "wind",
+     "grounds": "agent that has tossed the materials",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "uddhūtaiḥ",
+     "gloss": "with-blown-up",
+     "grounds": "carried or shaken by wind",
+     "morph": "m/n.ins.pl (ud-√dhū ppp)"
+    },
+    {
+     "surface": "śuṣka",
+     "gloss": "dry",
+     "grounds": "condition of the leaves",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "patraiḥ",
+     "gloss": "with-leaves",
+     "grounds": "leaf materials for offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kāṣṭhaiḥ",
+     "gloss": "with-sticks",
+     "grounds": "wood pieces for offering",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "aśani",
+     "gloss": "thunderbolt",
+     "grounds": "lightning as striking agent",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pātitaiḥ",
+     "gloss": "with-felled",
+     "grounds": "brought down by lightning",
+     "morph": "m/n.ins.pl (√pat caus. ppp)"
+    }
+   ],
+   "question": "What kinds of wind-tossed and lightning-struck materials are prescribed for use?",
+   "premises": [
+    "Dry leaves blown up by wind are specified.",
+    "Sticks felled by a thunderbolt are specified.",
+    "Both types are given as ritual materials."
+   ],
+   "inference": "The rite may employ dry leaves tossed by wind and sticks struck down by lightning.",
+   "uncertainties": [
+    "The intended ritual application is implied by the sequence."
+   ],
+   "plain_english": "One may use dry leaves blown about by the wind, and sticks felled by a thunderbolt."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "dūrvā",
+     "gloss": "dūrvā-grass",
+     "grounds": "sacred grass used in ritual",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guḍūcī",
+     "gloss": "guḍūcī",
+     "grounds": "plant used in ritual",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gavyena",
+     "gloss": "with-cow-product",
+     "grounds": "substance derived from the cow",
+     "morph": "m/n.ins.sg"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "clarified butter for offering",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tila",
+     "gloss": "sesame",
+     "grounds": "seed material in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "taṇḍulaiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "rice grains combined with sesame",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which grasses, cow products, and grains are listed as ritual materials?",
+   "premises": [
+    "Dūrvā grass and guḍūcī are named.",
+    "A cow product and ghee are included.",
+    "Sesame and rice grains are included."
+   ],
+   "inference": "The ritual materials include dūrvā, guḍūcī, a cow product, ghee, sesame, and rice grains.",
+   "uncertainties": [
+    "The precise ritual action connecting these materials is not stated in this verse."
+   ],
+   "plain_english": "Dūrvā grass, guḍūcī, a cow product, ghee, and sesame with rice grains are to be used."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "su",
+     "gloss": "good",
+     "grounds": "qualifies the ford or sacred place",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tīrthe",
+     "gloss": "at-ford",
+     "grounds": "sacred bathing place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribed mantra recitation",
+     "morph": "3.sg.act.opt (pra-√jap)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "prior or preliminary action",
+     "morph": "n.acc.sg (adverbial)"
+    },
+    {
+     "surface": "pāpa",
+     "gloss": "sin",
+     "grounds": "impurity or fault to be removed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vimuktaye",
+     "gloss": "for-liberation",
+     "grounds": "purpose of release from sin",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Where and for what purpose should the mantra be recited first?",
+   "premises": [
+    "Recitation of the mantra is prescribed.",
+    "The place is a good sacred ford.",
+    "The purpose is liberation from sin."
+   ],
+   "inference": "One should first recite the mantra at a good sacred ford for liberation from sin.",
+   "uncertainties": [],
+   "plain_english": "One should first recite the mantra at a good sacred ford for liberation from sin."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātaḥ",
+     "gloss": "meditated",
+     "grounds": "mantra not contemplated",
+     "morph": "m.nom.sg (√dhyai ppp)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcitaḥ",
+     "gloss": "worshipped",
+     "grounds": "mantra not honored",
+     "morph": "m.nom.sg (√arc ppp)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "su",
+     "gloss": "well",
+     "grounds": "intensifier for accomplished",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "state of being perfected",
+     "morph": "m.nom.sg (√sidh ppp)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates becoming pleased",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "becomes-pleased",
+     "grounds": "mantra does not grant favor",
+     "morph": "3.sg.act.pres (pra-√sad)"
+    }
+   ],
+   "question": "Under what conditions does a mantra fail to become pleased and effective?",
+   "premises": [
+    "The mantra is not meditated upon.",
+    "The mantra is not worshipped.",
+    "A well-accomplished mantra does not become pleased without these."
+   ],
+   "inference": "A mantra that is neither meditated upon nor worshipped does not become pleased, even if otherwise accomplished.",
+   "uncertainties": [],
+   "plain_english": "A mantra that is not meditated upon and not worshipped does not become pleased, even if it is well accomplished."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "ritual honor",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "contemplative practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "repetition of mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "according to proper order or manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "ritual act in compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "fourfold",
+     "grounds": "group of four actions",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What four ritual actions constitute the prescribed set of mantra practices?",
+   "premises": [
+    "Worship is listed as a practice.",
+    "Meditation and recitation are listed.",
+    "Oblation completes a fourfold set of actions."
+   ],
+   "inference": "The prescribed fourfold ritual practice consists of worship, meditation, recitation, and oblation.",
+   "uncertainties": [
+    "The force of yathā may indicate proper sequence or manner."
+   ],
+   "plain_english": "Worship, meditation, recitation, and oblation form the fourfold set of ritual actions."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "japasya",
+     "gloss": "of-recitation",
+     "grounds": "mantra repetition practice",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "end",
+     "grounds": "conclusion of recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "śiva",
+     "grounds": "deity to be contemplated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescribed contemplative act",
+     "morph": "3.sg.act.opt (√dhyai)"
+    },
+    {
+     "surface": "dhyānasya",
+     "gloss": "of-meditation",
+     "grounds": "contemplative practice",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "end",
+     "grounds": "conclusion of meditation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "resumption of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition resumed",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should recitation and meditation be alternated at their conclusions?",
+   "premises": [
+    "At the end of recitation one should meditate on Śiva.",
+    "At the end of meditation recitation resumes.",
+    "The two practices are linked in sequence."
+   ],
+   "inference": "Recitation should conclude with meditation on Śiva, and meditation should conclude with renewed recitation.",
+   "uncertainties": [],
+   "plain_english": "At the end of recitation one should meditate on Śiva, and at the end of meditation one should again recite."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "kāraskara",
+     "gloss": "kāraskara",
+     "grounds": "name of a plant or tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rakṣyāmalaka",
+     "gloss": "rakṣyāmalaka",
+     "grounds": "name of a plant or tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "udumbara",
+     "gloss": "udumbara",
+     "grounds": "fig tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jambu",
+     "gloss": "jambu",
+     "grounds": "rose-apple tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃjñakaḥ",
+     "gloss": "named",
+     "grounds": "collective designation of listed items",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which trees are included in the group designated by this list?",
+   "premises": [
+    "Kāraskara and rakṣyāmalaka are named.",
+    "Udumbara and jambu are named.",
+    "The list forms a named group."
+   ],
+   "inference": "The named group includes kāraskara, rakṣyāmalaka, udumbara, and jambu.",
+   "uncertainties": [
+    "The ritual use of this group is not specified in this verse."
+   ],
+   "plain_english": "The group so named consists of kāraskara, rakṣyāmalaka, udumbara, and jambu."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "palāśa",
+     "gloss": "palāśa",
+     "grounds": "name of a tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣa",
+     "gloss": "lakṣa",
+     "grounds": "name of a plant or tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kāmbaṣṭha",
+     "gloss": "kāmbaṣṭha",
+     "grounds": "name of a plant or tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bilva",
+     "gloss": "bilva",
+     "grounds": "wood-apple tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arjuna",
+     "gloss": "arjuna",
+     "grounds": "name of a tree",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vikaṅkatāḥ",
+     "gloss": "vikaṅkata",
+     "grounds": "name of a tree in plural listing",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which additional trees are enumerated in this continuation of the list?",
+   "premises": [
+    "Palāśa, lakṣa, and kāmbaṣṭha are named.",
+    "Bilva and arjuna are named.",
+    "Vikaṅkata trees are included."
+   ],
+   "inference": "The list continues with palāśa, lakṣa, kāmbaṣṭha, bilva, arjuna, and vikaṅkata.",
+   "uncertainties": [
+    "The identification of lakṣa and kāmbaṣṭha may vary by tradition."
+   ],
+   "plain_english": "The list includes palāśa, lakṣa, kāmbaṣṭha, bilva, arjuna, and vikaṅkata."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "associative prefix-like element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "binduḥ",
+     "gloss": "bindu",
+     "grounds": "seed point or syllabic element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "associative prefix-like element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "parākrāntaḥ",
+     "gloss": "parākrānta",
+     "grounds": "technical mantra term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tumburuḥ",
+     "gloss": "tumburu",
+     "grounds": "mantric or divine name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adds another item",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśaḥ",
+     "gloss": "īśa",
+     "grounds": "lordly name or mantra element",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantra elements and names are enumerated in this sequence?",
+   "premises": [
+    "Bindu is named with an associative element.",
+    "Parākrānta is named with an associative element.",
+    "Tumburu and Īśa are also included."
+   ],
+   "inference": "The sequence enumerates bindu, parākrānta, tumburu, and īśa as mantra elements or names.",
+   "uncertainties": [
+    "The technical functions of these mantra terms are not explained in this verse."
+   ],
+   "plain_english": "The list gives bindu, parākrānta, tumburu, and likewise īśa."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "kromaṅkuśaḥ",
+     "gloss": "kromaṅkuśa",
+     "grounds": "mantric name or formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krodhaḥ",
+     "gloss": "krodha",
+     "grounds": "wrathful mantra element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "i",
+     "gloss": "i",
+     "grounds": "syllabic element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "divine name or mantra element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parāparaḥ",
+     "gloss": "parāpara",
+     "grounds": "higher-and-lower principle or name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which bīja syllables and mantra names conclude this enumerated sequence?",
+   "premises": [
+    "Kromaṅkuśa is named.",
+    "The bīja syllable huṃ and krodha are included.",
+    "The syllable i, Viṣṇu, and parāpara are included."
+   ],
+   "inference": "The concluding sequence includes kromaṅkuśa, huṃ, krodha, i, Viṣṇu, and parāpara.",
+   "uncertainties": [
+    "The precise ritual deployment of these mantra elements is not specified here."
+   ],
+   "plain_english": "The list concludes with kromaṅkuśa, the syllable huṃ, krodha, the syllable i, Viṣṇu, and parāpara."
+  }
+ ]
+}

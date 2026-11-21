@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "navakāntaḥ",
+     "gloss": "inside-the-nine",
+     "grounds": "compound of navaka (nine) and antaḥ (inside); fused form retained",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthapadānāṃ",
+     "gloss": "of-positions",
+     "grounds": "genitive plural of sthapada",
+     "morph": "gen.pl.m/n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "quadruple",
+     "grounds": "neuter singular accusative/nominative of catuṣṭaya",
+     "morph": "acc/nom.sg.n"
+    }
+   ],
+   "question": "How many positions are established inside the ninefold arrangement?",
+   "premises": [
+    "The ninefold arrangement contains positions.",
+    "Four positions are specified inside it."
+   ],
+   "inference": "The ritual arrangement has four positions within the nine.",
+   "uncertainties": [
+    "The exact referent of navaka remains context-dependent."
+   ],
+   "plain_english": "Within the nine, indeed, there are four positions."
+  }
+ ]
+}

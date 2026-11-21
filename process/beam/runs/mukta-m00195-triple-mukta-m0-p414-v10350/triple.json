@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p414",
+ "items": [
+  {
+   "verse": 10350,
+   "rows": [
+    {
+     "surface": "jina",
+     "gloss": "jina",
+     "grounds": "first member of compound jina-ādi-kṣetram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-other",
+     "grounds": "middle member of compound jina-ādi-kṣetram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṣetram",
+     "gloss": "field",
+     "grounds": "final member of compound jina-ādi-kṣetram; object of āsādya",
+     "morph": "n.acc.sg, compound-final"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-reached",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund), ā-√sad"
+    },
+    {
+     "surface": "vādinaḥ",
+     "gloss": "disputants",
+     "grounds": "object of prajayet",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prajayet",
+     "gloss": "one-should-conquer",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act, pra-√ji"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates continual action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What continual power over disputants is gained by reaching a field associated with Jinas and others?",
+   "premises": [
+    "A practitioner reaches a field associated with Jinas and others.",
+    "Reaching such a field enables a specific power.",
+    "The enabled power is directed against disputants."
+   ],
+   "inference": "Therefore, having reached a field associated with Jinas and others, one should always conquer disputants.",
+   "uncertainties": [
+    "The specific identity or nature of the 'jina-ādi-kṣetra' is not specified."
+   ],
+   "plain_english": "Having reached a field of Jinas and others, one should always conquer disputants."
+  }
+ ]
+}

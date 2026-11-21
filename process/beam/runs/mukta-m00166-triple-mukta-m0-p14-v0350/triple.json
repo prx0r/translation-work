@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "prabhātābhyāṃ",
+     "gloss": "by-two-dawns",
+     "grounds": "instrumental dual of prabhāta (dawn); denotes the two occasions of dawning",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "khyātaḥ",
+     "gloss": "known",
+     "grounds": "past passive participle of khyā (to be known, famed)",
+     "morph": "m.nom.sg.ppp(khyā)"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equally",
+     "grounds": "adverbial indeclinable indicating sameness or equality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative indeclinable referring to the present context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "fitting",
+     "grounds": "past passive participle of yuj (to be joined, proper, fitting)",
+     "morph": "m.nom.sg.ppp(yuj)"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphatic particle indicating common report or certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable indicating manner or such a way",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can equal fame through two dawns be considered fitting in this context?",
+   "premises": [
+    "The subject is known by two dawns.",
+    "This recognition is presented as equal in both cases.",
+    "Such equal attribution is declared not fitting here."
+   ],
+   "inference": "Equal attribution of fame to two dawns is therefore inappropriate in this instance.",
+   "uncertainties": [
+    "The exact referent of the subject described as known by two dawns depends on the preceding context."
+   ],
+   "plain_english": "Being known equally by two dawns is indeed not fitting here in that way."
+  }
+ ]
+}

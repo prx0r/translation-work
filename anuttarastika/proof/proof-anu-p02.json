@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "44e40ff3aa2c14cd",
+ "source_digest_normalized_sha256": "44e40ff3aa2c14cdf993a72e42a901dd2c96453633c9fad0eae7bbb71f5238fd",
+ "source_sha256_raw": "036e3d11f86702b010a8608733604d652773e78866445ad0a9420e0fa37012ad",
+ "source_sha256_raw_file": "/root/translation-work/anuttarastika/T1.md",
  "source_verses": 1,
  "t1_verses": 1,
  "l0": {
-  "parsed": 24,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 24
@@ -21,10 +25,10 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 6,
+ "c1_words": 35,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 1,
+  "checked": 2,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "44e40ff3aa2c14cd",
-  "t1": "T1-anu-p02.md",
-  "l0": "T1-anu-p02.l0.jsonl",
-  "l2": "L2-anu-p02.md",
-  "c1": "c1/C1-anu-p02.md"
+  "t1": "anu-p02/data/anu-p02.t1.json",
+  "l0": "anu-p02/data/anu-p02.l0.json",
+  "l2": "anu-p02/data/anu-p02.l2.json",
+  "c1": "anu-p02/data/anu-p02.c1.json"
  }
 }

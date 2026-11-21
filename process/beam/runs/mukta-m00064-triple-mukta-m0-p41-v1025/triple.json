@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "daitya+vighnaṃ",
+     "gloss": "demon-obstacle",
+     "grounds": "compound denoting an obstacle caused by demons; object of destruction implied by the final epithet",
+     "morph": "compound: daitya+vighna (acc.sg.nt.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the certainty of the statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavitā",
+     "gloss": "will-be",
+     "grounds": "future predicate indicating what she will become in that context",
+     "morph": "fut.part.nom.sg.f (√bhū)"
+    },
+    {
+     "surface": "sarva+daitya+niṣūdanī",
+     "gloss": "all-demon-destroying",
+     "grounds": "compound epithet describing her as the destroyer of all demons",
+     "morph": "compound: sarva+daitya+niṣūdanī (nom.sg.f.)"
+    }
+   ],
+   "question": "What role will she fulfill regarding obstacles caused by demons?",
+   "premises": [
+    "An obstacle caused by demons is at issue.",
+    "She will indeed come to be in that situation.",
+    "She is characterized as the destroyer of all demons."
+   ],
+   "inference": "Therefore, she will be the one who destroys the obstacle posed by demons.",
+   "uncertainties": [
+    "The exact syntactic relation between daitya+vighnaṃ and sarva+daitya+niṣūdanī is contextually inferred rather than explicitly marked."
+   ],
+   "plain_english": "Indeed, she will be the destroyer of all demons and will remove the obstacle caused by the demons."
+  }
+ ]
+}

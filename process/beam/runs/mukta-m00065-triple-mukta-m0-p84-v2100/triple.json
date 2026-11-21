@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "tilābrīhiśca",
+     "gloss": "sesame-and-rice",
+     "grounds": "compound of tilā (sesame) and vrīhi (rice) with enclitic ca fused by sandhi",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "rogaghnaṃ",
+     "gloss": "disease-destroying",
+     "grounds": "substance that removes disease",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rocanāṃ",
+     "gloss": "yellow-pigment",
+     "grounds": "rocanā, a bright yellow pigment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahāṃ",
+     "gloss": "sahā-plant",
+     "grounds": "the plant sahā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion in the same manner as previously stated",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional substances are to be placed likewise in the prescribed ritual arrangement?",
+   "premises": [
+    "Sesame and rice are included among the items.",
+    "A disease-destroying substance is included.",
+    "Yellow pigment and the sahā plant are likewise included."
+   ],
+   "inference": "These specified substances are to be placed in the same manner within the ongoing ritual procedure.",
+   "uncertainties": [
+    "The exact identity of the disease-destroying substance is not specified in this verse."
+   ],
+   "plain_english": "Sesame and rice, a disease-destroying substance, yellow pigment, and the sahā plant should likewise be placed."
+  }
+ ]
+}

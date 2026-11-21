@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "pibadvandvaṃ",
+     "gloss": "drink-pair",
+     "grounds": "fused compound of pibat (drinking) + dvandvaṃ (pair), accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "kula",
+     "grounds": "accusative singular neuter of kula",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "proktvā",
+     "gloss": "having-spoken",
+     "grounds": "absolutive of prac (to speak)",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuṇḍalini",
+     "gloss": "kuṇḍalini",
+     "grounds": "nominative singular feminine of kuṇḍalini",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-speak",
+     "grounds": "optative third singular active of vad (to speak)",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What should the practitioner speak after drinking the pair and addressing kuṇḍalini?",
+   "premises": [
+    "The verse lists drinking pair then kula then kuṇḍalini then speech.",
+    "It prescribes a sequence of ritual utterance.",
+    "The final verb is an optative instruction."
+   ],
+   "inference": "The practitioner should speak after the prescribed drinking and kuṇḍalini invocation.",
+   "uncertainties": [
+    "The exact referent of pibadvandvaṃ and kula remains context-dependent."
+   ],
+   "plain_english": "Having spoken the kula of the drinking pair, then one should speak kuṇḍalini."
+  }
+ ]
+}

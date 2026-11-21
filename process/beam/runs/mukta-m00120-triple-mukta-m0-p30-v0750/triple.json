@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "kalase",
+     "gloss": "in-pot",
+     "grounds": "locative of kalasa, pot",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative third singular active of pūj",
+     "morph": "3.sg.act-opt+pūj"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "nominative singular masculine subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sakalaṃ",
+     "gloss": "entire",
+     "grounds": "accusative singular neuter adjective modifying sun-mandala",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sūryamaṇḍalam",
+     "gloss": "sun-mandala",
+     "grounds": "accusative singular neuter direct object",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How should a vīra worship the entire sun-mandala?",
+   "premises": [
+    "kalase locative indicates pot",
+    "pūjayet optative indicates should worship",
+    "vīraḥ nominative indicates hero",
+    "sakalaṃ accusative modifies sun-mandala",
+    "sūryamaṇḍalam accusative indicates object"
+   ],
+   "inference": "A vīra should worship the entire sun-mandala in the pot.",
+   "uncertainties": [
+    "exact ritual context of pot worship remains unspecified"
+   ],
+   "plain_english": "In the pot, the hero should worship the entire sun-mandala."
+  }
+ ]
+}

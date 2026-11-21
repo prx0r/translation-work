@@ -1,0 +1,866 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1026,
+   "rows": [
+    {
+     "surface": "prastaraṃ",
+     "gloss": "entablature",
+     "grounds": "architectural member above pillars",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cāgnibhāgena",
+     "gloss": "and-by-fire-part",
+     "grounds": "ca + agni-bhāga; portion of three units",
+     "morph": "compound+indecl.+m.inst.sg"
+    },
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "element-part",
+     "grounds": "bhūta-aṃśa; portion of five units",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "talipāyatam",
+     "gloss": "extended-base",
+     "grounds": "talipa-āyata; stretched base platform",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional measures define the entablature and extended base in this temple scheme?",
+   "premises": [
+    "The entablature is measured by a fire-part portion.",
+    "The element-part relates to the extended base.",
+    "These measures assign fixed proportions to lower members."
+   ],
+   "inference": "The verse prescribes specific proportional units for the entablature and the extended base.",
+   "uncertainties": [
+    "Exact numeric value of agni-bhāga depends on the division system.",
+    "Precise architectural referent of talipāyata may vary by tradition."
+   ],
+   "plain_english": "The entablature is set by a fire-part measure, and the extended base is set by an element-part measure."
+  },
+  {
+   "verse": 1027,
+   "rows": [
+    {
+     "surface": "sapādadvibhāgamaṃcoccaṃ",
+     "gloss": "with-quarter-two-part-platform-height",
+     "grounds": "sa-pāda-dvi-bhāga-mañca-ucca; platform height of two and a quarter parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhavedāṃghriṇodayam",
+     "gloss": "with-half-veda-foot-rise",
+     "grounds": "sa-ardha-veda-aṃghri-udaya; rise of four and a half parts",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What heights are prescribed for the platform and the foot-rise in this division?",
+   "premises": [
+    "The platform height is given as two and a quarter parts.",
+    "The foot-rise is given as four and a half parts.",
+    "Both measures belong to the same proportional scheme."
+   ],
+   "inference": "The verse fixes the vertical proportions of the platform and foot-rise with fractional part measures.",
+   "uncertainties": [
+    "The term aṃghri may refer to foot or pillar base depending on context."
+   ],
+   "plain_english": "The platform height should be two and a quarter parts, and the foot-rise four and a half parts."
+  },
+  {
+   "verse": 1028,
+   "rows": [
+    {
+     "surface": "adhyardhāṃśaṃ",
+     "gloss": "one-and-half-part",
+     "grounds": "adhyardha-aṃśa; one and a half units",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "galotsedhaṃ",
+     "gloss": "neck-height",
+     "grounds": "gala-utsedha; height of the neck member",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yugāṃśaṃ",
+     "gloss": "yoke-part",
+     "grounds": "yuga-aṃśa; portion of four units",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikharodayam",
+     "gloss": "spire-rise",
+     "grounds": "śikhara-udaya; height of the spire",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional heights are assigned to the neck and the spire in this scheme?",
+   "premises": [
+    "The neck height is set at one and a half parts.",
+    "The spire rise is set at a yoke-part measure.",
+    "These values regulate upper temple members."
+   ],
+   "inference": "The verse specifies the neck and spire heights as fixed proportional units.",
+   "uncertainties": [
+    "The numeric value of yuga-aṃśa is conventionally four but context-dependent."
+   ],
+   "plain_english": "The neck should be one and a half parts high, and the spire should rise by a yoke-part measure."
+  },
+  {
+   "verse": 1029,
+   "rows": [
+    {
+     "surface": "paṃcāśadvibhajeddhāmatuṃgaṃ",
+     "gloss": "fifty-divide-shrine-height",
+     "grounds": "pañcāśat-vibhajet-dhāma-tuṅga; divide the shrine height into fifty parts",
+     "morph": "compound+3.sg.opt.act+√bhaj+m.acc.sg"
+    },
+    {
+     "surface": "stūpyavasānakam",
+     "gloss": "ending-at-finial",
+     "grounds": "stūpī-avasānaka; terminating at the finial",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the total shrine height be divided up to the finial?",
+   "premises": [
+    "The shrine height is to be divided into fifty parts.",
+    "The division extends up to the finial.",
+    "This establishes a total proportional grid."
+   ],
+   "inference": "The verse mandates a fifty-part division of the entire shrine height ending at the finial.",
+   "uncertainties": [],
+   "plain_english": "One should divide the total height of the shrine into fifty parts, up to the finial."
+  },
+  {
+   "verse": 1030,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "tat-ardha; half of that total",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṃcamānaṃ",
+     "gloss": "platform-measure",
+     "grounds": "mañca-māna; measure of the platform",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍaṃśaṃ",
+     "gloss": "six-part",
+     "grounds": "ṣaṣ-aṃśa; one sixth part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "foot-rise",
+     "grounds": "caraṇa-udaya; height of the foot or pillar",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measures are assigned to the platform and foot-rise within the fifty-part division?",
+   "premises": [
+    "The platform measure is half of the total division.",
+    "The foot-rise is assigned a six-part measure.",
+    "These values fit within the fifty-part scheme."
+   ],
+   "inference": "The verse allocates half the total height to the platform and a six-part measure to the foot-rise.",
+   "uncertainties": [
+    "Whether ṣaḍaṃśa means one-sixth or six parts requires contextual confirmation."
+   ],
+   "plain_english": "The platform should measure half of that, and the foot-rise should be a six-part measure."
+  },
+  {
+   "verse": 1031,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-part",
+     "grounds": "tri-bhāga; three parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prastarotsedhaṃ",
+     "gloss": "entablature-height",
+     "grounds": "prastara-utsedha; height of the entablature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādoccaṃ",
+     "gloss": "foot-height",
+     "grounds": "pāda-ucca; height of the foot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhapaṃcakam",
+     "gloss": "with-half-five",
+     "grounds": "sa-ardha-pañcaka; five and a half parts",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What heights are prescribed for the entablature and the foot in this proportional system?",
+   "premises": [
+    "The entablature height is set at three parts.",
+    "The foot height is set at five and a half parts.",
+    "Both belong to the same measured division."
+   ],
+   "inference": "The verse fixes the entablature at three parts and the foot at five and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The entablature height should be three parts, and the foot height five and a half parts."
+  },
+  {
+   "verse": 1032,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "dvi-bhāga; two parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "galamānaṃ",
+     "gloss": "neck-measure",
+     "grounds": "gala-māna; measure of the neck",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śarāṃśaṃ",
+     "gloss": "arrow-part",
+     "grounds": "śara-aṃśa; portion of five units",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikharodayam",
+     "gloss": "spire-rise",
+     "grounds": "śikhara-udaya; height of the spire",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional measures are given for the neck and the spire in this arrangement?",
+   "premises": [
+    "The neck measure is set at two parts.",
+    "The spire rise is set at an arrow-part measure.",
+    "These measures define upper structural proportions."
+   ],
+   "inference": "The verse assigns two parts to the neck and an arrow-part measure to the spire rise.",
+   "uncertainties": [
+    "The numeric value of śara-aṃśa is conventionally five but context-dependent."
+   ],
+   "plain_english": "The neck should measure two parts, and the spire rise should be an arrow-part measure."
+  },
+  {
+   "verse": 1033,
+   "rows": [
+    {
+     "surface": "upānādi+sthūpiparyantaṃ",
+     "gloss": "from-base-to-finial-end",
+     "grounds": "upāna-ādi-sthūpī-paryanta; from the base onward up to the finial",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṃcāśadvibhajedbudhaḥ",
+     "gloss": "fifty-divide-wise-one",
+     "grounds": "pañcāśat-vibhajet-budha; the wise one should divide into fifty",
+     "morph": "compound+3.sg.opt.act+√bhaj+m.nom.sg"
+    }
+   ],
+   "question": "Who should divide the structure from base to finial and into how many parts?",
+   "premises": [
+    "The division spans from the base to the finial.",
+    "The total is to be divided into fifty parts.",
+    "The wise practitioner is the agent of this division."
+   ],
+   "inference": "The verse instructs the knowledgeable builder to divide the whole structure from base to finial into fifty parts.",
+   "uncertainties": [],
+   "plain_english": "The wise one should divide the structure from the base up to the finial into fifty parts."
+  },
+  {
+   "verse": 1034,
+   "rows": [
+    {
+     "surface": "talocca+sadṛśaṃ",
+     "gloss": "equal-to-base-height",
+     "grounds": "tala-ucca-sadṛśa; equal in measure to the base height",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṃcatalīpaṃ",
+     "gloss": "platform-base",
+     "grounds": "mañca-talīpa; the base of the platform",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sārdhaṣaḍbhavet",
+     "gloss": "with-half-six-should-be",
+     "grounds": "sa-ardha-ṣaṣ-bhavet; should be six and a half",
+     "morph": "compound+3.sg.opt.act+√bhū"
+    }
+   ],
+   "question": "What measure should the platform base have relative to the base height?",
+   "premises": [
+    "The platform base is compared to the base height.",
+    "Its measure is prescribed as six and a half.",
+    "The prescription is stated as a rule to be followed."
+   ],
+   "inference": "The verse sets the platform base at six and a half parts, equal in relation to the base height.",
+   "uncertainties": [
+    "The exact sense of equality with talocca is contextually ambiguous."
+   ],
+   "plain_english": "The platform base, equal to the base height, should be six and a half parts."
+  },
+  {
+   "verse": 1035,
+   "rows": [
+    {
+     "surface": "pādoccaṃ",
+     "gloss": "foot-height",
+     "grounds": "pāda-ucca; height of the foot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "rasabhāgena",
+     "gloss": "by-flavor-part",
+     "grounds": "rasa-bhāga; portion of six units",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "quality-part",
+     "grounds": "guṇa-aṃśa; portion of three units",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prastarodayam",
+     "gloss": "entablature-rise",
+     "grounds": "prastara-udaya; height of the entablature",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional measures determine the foot height and entablature rise in this scheme?",
+   "premises": [
+    "The foot height is determined by a flavor-part measure.",
+    "The entablature rise is set at a quality-part measure.",
+    "Both measures follow the established proportional system."
+   ],
+   "inference": "The verse prescribes a rasa-part for the foot height and a guṇa-part for the entablature rise.",
+   "uncertainties": [
+    "Numeric values of rasa and guṇa parts rely on conventional associations."
+   ],
+   "plain_english": "The foot height should be by a rasa-part measure, and the entablature rise should be a guṇa-part."
+  },
+  {
+   "verse": 1036,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "eka-aṃśa; a single part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedikāmānaṃ",
+     "gloss": "platform-rail-measure",
+     "grounds": "vedikā-māna; measure of the vedikā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "dvi-bhāga; two parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syādgalodayam",
+     "gloss": "should-be-neck-rise",
+     "grounds": "syāt-gala-udaya; the neck rise should be",
+     "morph": "3.sg.opt.act+√as+m.acc.sg"
+    }
+   ],
+   "question": "What measures should be assigned to the vedikā and the neck rise?",
+   "premises": [
+    "The vedikā measure is set at one part.",
+    "The neck rise should be two parts.",
+    "These are prescriptive proportional assignments."
+   ],
+   "inference": "The verse assigns one part to the vedikā and two parts to the neck rise.",
+   "uncertainties": [],
+   "plain_english": "The vedikā should measure one part, and the neck rise should be two parts."
+  },
+  {
+   "verse": 1037,
+   "rows": [
+    {
+     "surface": "adbhutaṃ",
+     "gloss": "wondrous",
+     "grounds": "adbhuta; marvelous or extraordinary",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadanaṃ",
+     "gloss": "dwelling",
+     "grounds": "sadana; abode or temple structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hyevaṃ",
+     "gloss": "indeed-thus",
+     "grounds": "hi-evam; in this very manner",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "kalpayetkalpavittamaḥ",
+     "gloss": "should-design-best-knower-of-rules",
+     "grounds": "kalpayet-kalpa-vit-tama; the most skilled in ritual design should fashion",
+     "morph": "3.sg.opt.act+√kḷp+m.nom.sg"
+    }
+   ],
+   "question": "Who should fashion the wondrous dwelling according to the prescribed proportions?",
+   "premises": [
+    "A wondrous dwelling is the intended result.",
+    "The construction must follow the stated manner.",
+    "The most skilled knower of rules is the proper agent."
+   ],
+   "inference": "The verse enjoins the expert designer to fashion a wondrous dwelling according to these rules.",
+   "uncertainties": [],
+   "plain_english": "Thus the most skilled expert in design should fashion a wondrous dwelling."
+  },
+  {
+   "verse": 1038,
+   "rows": [
+    {
+     "surface": "sārdhāgnyaṃśamadhiṣṭhānaṃ",
+     "gloss": "with-half-fire-part-base",
+     "grounds": "sa-ardha-agni-aṃśa-adhiṣṭhāna; base of three and a half parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhālvaṃśaṃ",
+     "gloss": "slope-part",
+     "grounds": "dhālu-aṃśa; portion for the slope or band",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "foot-rise",
+     "grounds": "caraṇa-udaya; height of the foot",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measures are prescribed for the base, slope part, and foot-rise in this variant?",
+   "premises": [
+    "The base is set at three and a half parts.",
+    "A slope-part measure is specified.",
+    "The foot-rise is included in this proportional set."
+   ],
+   "inference": "The verse defines the base as three and a half parts along with measures for the slope part and foot-rise.",
+   "uncertainties": [
+    "The exact architectural meaning of dhālvaṃśa is uncertain."
+   ],
+   "plain_english": "The base should be three and a half parts, with a slope-part measure and the foot-rise as specified."
+  },
+  {
+   "verse": 1039,
+   "rows": [
+    {
+     "surface": "sapādāgnyaṃśa",
+     "gloss": "with-quarter-fire-part",
+     "grounds": "sa-pāda-agni-aṃśa; three and a quarter parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṃcaṃ",
+     "gloss": "platform",
+     "grounds": "mañca; the platform member",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt+talipaṃ",
+     "gloss": "should-be-base",
+     "grounds": "syāt-talipa; the base should be",
+     "morph": "3.sg.opt.act+√as+n.nom.sg"
+    },
+    {
+     "surface": "sārdhaṣaṭkakam",
+     "gloss": "with-half-six",
+     "grounds": "sa-ardha-ṣaṭkaka; six and a half parts",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures should the platform and its base have in this configuration?",
+   "premises": [
+    "The platform is associated with three and a quarter parts.",
+    "The base should be six and a half parts.",
+    "These are prescriptive measures for the structure."
+   ],
+   "inference": "The verse prescribes three and a quarter parts for the platform and six and a half for the base.",
+   "uncertainties": [],
+   "plain_english": "The platform should be three and a quarter parts, and the base should be six and a half parts."
+  },
+  {
+   "verse": 1040,
+   "rows": [
+    {
+     "surface": "pādonāgnyaṃśamaṃcoccaṃ",
+     "gloss": "less-quarter-fire-part-platform-height",
+     "grounds": "pāda-ūna-agni-aṃśa-mañca-ucca; platform height of two and three quarters parts",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "auspicious-part",
+     "grounds": "śiva-aṃśa; portion associated with śiva, often one unit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vedikodayam",
+     "gloss": "platform-rail-rise",
+     "grounds": "vedikā-udaya; height of the vedikā",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What heights are assigned to the platform and the vedikā in this arrangement?",
+   "premises": [
+    "The platform height is set at two and three quarters parts.",
+    "The vedikā rise is set at a śiva-part measure.",
+    "Both measures belong to the same proportional scheme."
+   ],
+   "inference": "The verse fixes the platform height at two and three quarters parts and the vedikā rise at a śiva-part.",
+   "uncertainties": [
+    "The numeric value of śivāṃśa may vary by convention."
+   ],
+   "plain_english": "The platform height should be two and three quarters parts, and the vedikā rise a śiva-part."
+  },
+  {
+   "verse": 1041,
+   "rows": [
+    {
+     "surface": "vyomāṃśaṃ",
+     "gloss": "sky-part",
+     "grounds": "vyoma-aṃśa; portion of zero or one unit by convention",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu+śikhāmānaṃ",
+     "gloss": "and-spire-measure",
+     "grounds": "tu-śikhā-māna; and the measure of the spire",
+     "morph": "indecl.+n.acc.sg"
+    },
+    {
+     "surface": "vimānaṃ",
+     "gloss": "shrine",
+     "grounds": "vimāna; the temple tower or shrine",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sārvadeśikam",
+     "gloss": "common-to-all-regions",
+     "grounds": "sārva-deśika; applicable in all regions",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What spire measure and regional applicability characterize this shrine type?",
+   "premises": [
+    "The spire measure is given as a sky-part.",
+    "The shrine is described as common to all regions.",
+    "These attributes define a recognized vimāna type."
+   ],
+   "inference": "The verse prescribes a sky-part spire measure for a shrine type valid in all regions.",
+   "uncertainties": [
+    "The numeric interpretation of vyomāṃśa is convention-dependent."
+   ],
+   "plain_english": "The spire measure is a sky-part, and this shrine is of a type common to all regions."
+  },
+  {
+   "verse": 1042,
+   "rows": [
+    {
+     "surface": "bhānukūṭaṃ",
+     "gloss": "sun-peak",
+     "grounds": "bhānu-kūṭa; a peak count related to twelve",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "tathā; in the same manner",
+     "morph": "indecl."
+    },
+    {
+     "surface": "koṣṭhaṃ",
+     "gloss": "niche",
+     "grounds": "koṣṭha; architectural niche or cell",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhānudviguṇapaṃjaram",
+     "gloss": "sun-double-cage",
+     "grounds": "bhānu-dvi-guṇa-pañjara; cage elements twice twelve in number",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What counts of peaks, niches, and cage elements define this temple form?",
+   "premises": [
+    "The peak count is described as sun-related.",
+    "Niches are included in the same specification.",
+    "Cage elements are twice the sun number."
+   ],
+   "inference": "The verse specifies sun-based counts for peaks, niches, and doubled cage elements.",
+   "uncertainties": [
+    "Exact numeric values depend on the conventional number for bhānu."
+   ],
+   "plain_english": "It should have sun-peaks, likewise niches, and cage elements numbering twice the sun count."
+  },
+  {
+   "verse": 1043,
+   "rows": [
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "pāda; the base or pillar section",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratyalpanāsyāḍhyaṃ",
+     "gloss": "endowed-with-very-small-noses",
+     "grounds": "prati-alpa-nāsya-āḍhya; furnished with very small dormer faces",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikharolpāṣṭanāsikāḥ",
+     "gloss": "spire-small-eight-noses",
+     "grounds": "śikhara-alpa-aṣṭa-nāsikā; spire with eight small dormer faces",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What ornamental dormer features characterize the foot and spire of this structure?",
+   "premises": [
+    "The foot is endowed with very small dormer faces.",
+    "The spire has eight small dormer faces.",
+    "These features distinguish the temple's ornamentation."
+   ],
+   "inference": "The verse prescribes very small dormers on the foot and eight small dormers on the spire.",
+   "uncertainties": [],
+   "plain_english": "The foot should have very small dormer faces, and the spire should have eight small dormer faces."
+  },
+  {
+   "verse": 1044,
+   "rows": [
+    {
+     "surface": "ekākāratalastaṃbhaṃ",
+     "gloss": "one-form-base-pillar",
+     "grounds": "eka-ākāra-tala-stambha; having base and pillars of uniform form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "subhadramiti",
+     "gloss": "auspicious-thus",
+     "grounds": "subhadra-iti; called Subhadra",
+     "morph": "n.acc.sg+indecl."
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-known",
+     "grounds": "known or recognized as such",
+     "morph": "3.sg.pres.pass+√vid"
+    }
+   ],
+   "question": "What structural uniformity defines the temple type known as Subhadra?",
+   "premises": [
+    "The base and pillars share a single uniform form.",
+    "This configuration is identified by a specific name.",
+    "The name Subhadra is applied to this type."
+   ],
+   "inference": "A temple with uniform base and pillars is recognized as the Subhadra type.",
+   "uncertainties": [],
+   "plain_english": "A structure with base and pillars of one uniform form is known as Subhadra."
+  },
+  {
+   "verse": 1045,
+   "rows": [
+    {
+     "surface": "tadbrāhmyamiti",
+     "gloss": "that-brahmic-thus",
+     "grounds": "tat-brāhmya-iti; that is called Brāhmya",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "vikhyātaṃ",
+     "gloss": "renowned",
+     "grounds": "vikhyāta; well known or celebrated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvadeva+priyāvaham",
+     "gloss": "bringing-delight-to-all-gods",
+     "grounds": "sarva-deva-priya-āvaha; pleasing to all deities",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and divine favor are attributed to this temple type?",
+   "premises": [
+    "The type is renowned under the name Brāhmya.",
+    "It is said to bring delight to all gods.",
+    "These attributes establish its sacred status."
+   ],
+   "inference": "The verse identifies this renowned type as Brāhmya, pleasing to all deities.",
+   "uncertainties": [],
+   "plain_english": "That is renowned as Brāhmya, bringing delight to all the gods."
+  },
+  {
+   "verse": 1046,
+   "rows": [
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "vasu-aśra; having eight corners or sides",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīrṣakaṃ",
+     "gloss": "head",
+     "grounds": "śīrṣaka; the top or crown member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "neck",
+     "grounds": "kaṇṭha; the neck member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmaṇḍanamudāhṛtam",
+     "gloss": "called-shri-ornament",
+     "grounds": "śrī-maṇḍana-udāhṛta; declared as Śrīmaṇḍana",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form of head and neck defines the type called Śrīmaṇḍana?",
+   "premises": [
+    "The head is eight-cornered.",
+    "The neck is included in this designation.",
+    "The configuration is called Śrīmaṇḍana."
+   ],
+   "inference": "An eight-cornered head and neck configuration is designated as Śrīmaṇḍana.",
+   "uncertainties": [],
+   "plain_english": "An eight-cornered head and neck is declared to be the Śrīmaṇḍana type."
+  },
+  {
+   "verse": 1047,
+   "rows": [
+    {
+     "surface": "śrīvantamiti",
+     "gloss": "possessing-shri-thus",
+     "grounds": "śrīvant-iti; called Śrīvanta",
+     "morph": "n.acc.sg+indecl."
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "khyāta; recognized or famed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śālābhadrayutaṃ",
+     "gloss": "joined-with-hall-auspicious",
+     "grounds": "śālā-bhadra-yuta; accompanied by auspicious halls",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu+vā",
+     "gloss": "or-indeed",
+     "grounds": "tu-vā; or alternatively",
+     "morph": "indecl.+indecl."
+    }
+   ],
+   "question": "What name and hall feature identify the Śrīvanta temple type?",
+   "premises": [
+    "The type is known as Śrīvanta.",
+    "It is joined with auspicious halls.",
+    "The verse presents this as a recognized designation."
+   ],
+   "inference": "The verse identifies the Śrīvanta type as one accompanied by auspicious halls.",
+   "uncertainties": [
+    "The alternative particle vā may indicate a variant form."
+   ],
+   "plain_english": "It is known as Śrīvanta, or alternatively as joined with auspicious halls."
+  },
+  {
+   "verse": 1048,
+   "rows": [
+    {
+     "surface": "śrīkāntaṃ",
+     "gloss": "beloved-of-shri",
+     "grounds": "śrī-kānta; called Śrīkānta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śikharelpāṣṭa",
+     "gloss": "on-spire-small-eight",
+     "grounds": "śikhara-alpa-aṣṭa; on the spire eight small elements",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāsyāḍhyaṃ",
+     "gloss": "endowed-with-noses",
+     "grounds": "nāsya-āḍhya; furnished with dormer faces",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrīviśālakam",
+     "gloss": "shri-spacious",
+     "grounds": "śrī-viśālaka; called Śrīviśālaka",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What spire ornamentation and names characterize the Śrīkānta and Śrīviśālaka types?",
+   "premises": [
+    "The type is named Śrīkānta.",
+    "The spire is endowed with eight small dormer faces.",
+    "The type is also called Śrīviśālaka."
+   ],
+   "inference": "The verse describes a spire with eight small dormers as the Śrīkānta or Śrīviśālaka type.",
+   "uncertainties": [
+    "Whether Śrīkānta and Śrīviśālaka are synonyms or variants is unclear."
+   ],
+   "plain_english": "The Śrīkānta type, also called Śrīviśālaka, has a spire endowed with eight small dormer faces."
+  },
+  {
+   "verse": 1049,
+   "rows": [
+    {
+     "surface": "vistārādhyardhamāyāmaṃ",
+     "gloss": "length-one-and-half-of-width",
+     "grounds": "vistāra-adhyardha-āyāma; length one and a half times the width",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sabhākāraṃ",
+     "gloss": "assembly-hall-shaped",
+     "grounds": "sabhā-ākāra; having the form of an assembly hall",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu+śīrṣakam",
+     "gloss": "and-head",
+     "grounds": "tu-śīrṣaka; and the head or crown",
+     "morph": "indecl.+n.acc.sg"
+    }
+   ],
+   "question": "What proportions and form define the head in this assembly-hall-shaped design?",
+   "premises": [
+    "The length is one and a half times the width.",
+    "The form resembles an assembly hall.",
+    "These features apply to the head member."
+   ],
+   "inference": "The verse prescribes a head whose length is one and a half times its width and shaped like an assembly hall.",
+   "uncertainties": [],
+   "plain_english": "The head should have a length one and a half times its width and be shaped like an assembly hall."
+  }
+ ]
+}

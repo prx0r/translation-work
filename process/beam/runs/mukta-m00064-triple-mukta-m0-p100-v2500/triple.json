@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p100",
+ "items": [
+  {
+   "verse": 2500,
+   "rows": [
+    {
+     "surface": "agniṣṭomaśatasyāpi",
+     "gloss": "of-hundred-agniṣṭoma-sacrifices-even",
+     "grounds": "fused form: agniṣṭoma-śata (hundred Agniṣṭoma rites) in genitive with enclitic api (even); internal sandhi noted, token not split",
+     "morph": "agniṣṭoma-śata+gen.sg.n+api(indecl.)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb expressing acquisition of a result or reward",
+     "morph": "3.sg.pres.middle(labh)"
+    },
+    {
+     "surface": "phalamuttamam",
+     "gloss": "fruit-supreme",
+     "grounds": "compound: phala (fruit, result) + uttama (supreme, highest); object of labhate",
+     "morph": "phala+uttama+acc.sg.n"
+    }
+   ],
+   "question": "What supreme reward is gained that equals the merit of a hundred Agniṣṭoma sacrifices?",
+   "premises": [
+    "A hundred Agniṣṭoma sacrifices constitute a great ritual measure of merit.",
+    "The verse asserts the obtaining of a fruit associated with even that hundredfold performance.",
+    "The fruit obtained is characterized as supreme."
+   ],
+   "inference": "Therefore, the stated attainment yields the supreme fruit equivalent to performing a hundred Agniṣṭoma sacrifices.",
+   "uncertainties": [
+    "The subject who obtains this fruit is supplied by the preceding verses and is not explicit in this verse alone."
+   ],
+   "plain_english": "One obtains the supreme fruit, equal to that of even a hundred Agniṣṭoma sacrifices."
+  }
+ ]
+}

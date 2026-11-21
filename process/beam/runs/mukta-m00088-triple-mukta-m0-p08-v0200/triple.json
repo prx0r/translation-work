@@ -1,0 +1,27 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "digvātārkapraceto'śvi-vahnīndropendramitra-kāḥ",
+     "gloss": "direction-wind-sun-varuna-ashvin-fire",
+     "grounds": "fused sandhi compound listing deities; internal apostrophe marks sandhi before aśvi; legacy hint expands to dig-vāta-arka-pracetas-aśvin-fire-indra-upendra-mitra",
+     "morph": "compound.nom.pl.m"
+    }
+   ],
+   "question": "Which deities are enumerated in this compound naming the ten divine powers?",
+   "premises": [
+    "The compound lists directional and elemental deities.",
+    "It appears among the ten devatā enumeration.",
+    "Its fused sandhi form preserves multiple deity names."
+   ],
+   "inference": "It names a set of deities including direction, wind, sun, Varuna, Ashvins, fire, Indra, Upendra, and Mitra.",
+   "uncertainties": [
+    "Exact deity count and sandhi resolution remain editorially uncertain."
+   ],
+   "plain_english": "The directions, wind, sun, Varuna, Ashvins, fire, Indra, Upendra, and Mitra."
+  }
+ ]
+}

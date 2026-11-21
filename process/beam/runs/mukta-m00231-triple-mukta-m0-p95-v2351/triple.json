@@ -1,0 +1,1036 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2351,
+   "rows": [
+    {
+     "surface": "vajreśvari",
+     "gloss": "vajra-goddess",
+     "grounds": "compound",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "padasya+ante",
+     "gloss": "word-end",
+     "grounds": "sandhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "lauhadaṇḍaś+ca",
+     "gloss": "iron-staff-and",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṅe+yutaḥ",
+     "gloss": "with-nga",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What implement is named at the end of the vajra-goddess word?",
+   "premises": [
+    "The verse names an iron staff.",
+    "It places it at word-end.",
+    "It joins it with nga."
+   ],
+   "inference": "The rite specifies an iron staff marked by nga.",
+   "uncertainties": [
+    "Exact ritual use is not stated."
+   ],
+   "plain_english": "At the end of the vajra-goddess word stands an iron staff joined with nga."
+  },
+  {
+   "verse": 2352,
+   "rows": [
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māyā+yugaṃ",
+     "gloss": "maya-pair",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāli+yugmaṃ",
+     "gloss": "kali-pair",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikaṭa+śabdataḥ",
+     "gloss": "from-fierce-word",
+     "grounds": "sandhi",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What pairs are named alongside poison and fierce word?",
+   "premises": [
+    "The verse names poison.",
+    "It names maya-pair and kali-pair.",
+    "It names fierce word."
+   ],
+   "inference": "The rite lists poison, two pairs, and a fierce word.",
+   "uncertainties": [
+    "Operational meaning is not stated."
+   ],
+   "plain_english": "Poison, the maya-pair, the kali-pair, and a fierce word are named."
+  },
+  {
+   "verse": 2353,
+   "rows": [
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chedaya+yugmañ+ca",
+     "gloss": "cut-pair",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+duṣṭāṃś+ca",
+     "gloss": "all-wicked-ones",
+     "grounds": "sandhi",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "māraya",
+     "gloss": "kill",
+     "grounds": "imperative",
+     "morph": "2.sg.act.imp"
+    }
+   ],
+   "question": "What action is commanded against all wicked ones?",
+   "premises": [
+    "The verse names a cut-pair.",
+    "It names all wicked ones.",
+    "It commands killing."
+   ],
+   "inference": "The practitioner is told to kill all wicked ones.",
+   "uncertainties": [
+    "Scope of wicked ones is not defined."
+   ],
+   "plain_english": "Cut the pair and kill all wicked ones."
+  },
+  {
+   "verse": 2354,
+   "rows": [
+    {
+     "surface": "ciki+dvandvaṃ",
+     "gloss": "blood-pair",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "piba+dvandvaṃ",
+     "gloss": "drink-pair",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudhiraṃ",
+     "gloss": "blood",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sphroṃ+sphoṃ",
+     "gloss": "sphrom-end",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What blood-related pair and ending are named?",
+   "premises": [
+    "The verse names a blood-pair.",
+    "It names a drink-pair.",
+    "It names blood and sphrom-end."
+   ],
+   "inference": "The rite names blood-pair, drink-pair, blood, and sphrom-end.",
+   "uncertainties": [
+    "Exact pronunciation is not stated."
+   ],
+   "plain_english": "Blood-pair, drink-pair, blood, and sphrom-end are named."
+  },
+  {
+   "verse": 2355,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mantritaṃ",
+     "gloss": "consecrated",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khaḍgam",
+     "gloss": "sword",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uttolya",
+     "gloss": "lifting",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sādhaka+uttamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the best practitioner do with the consecrated sword?",
+   "premises": [
+    "The verse names a consecrated sword.",
+    "It says lifting.",
+    "It names best practitioner."
+   ],
+   "inference": "The best practitioner lifts the consecrated sword.",
+   "uncertainties": [
+    "Further use is not stated."
+   ],
+   "plain_english": "The best practitioner lifts the consecrated sword."
+  },
+  {
+   "verse": 2356,
+   "rows": [
+    {
+     "surface": "āṃ",
+     "gloss": "āṃ",
+     "grounds": "mantra-syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hūṃ",
+     "gloss": "hūṃ",
+     "grounds": "mantra-syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phaḍ",
+     "gloss": "phaṭ",
+     "grounds": "mantra-syllable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iti+mantreṇa",
+     "gloss": "mantra",
+     "grounds": "sandhi",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "chedayitvā",
+     "gloss": "cutting",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tataḥ+param",
+     "gloss": "then-beyond",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What mantra syllables are used before cutting?",
+   "premises": [
+    "The verse gives āṃ hūṃ phaṭ.",
+    "It calls them mantra.",
+    "It says cutting."
+   ],
+   "inference": "The practitioner cuts using the āṃ hūṃ phaṭ mantra.",
+   "uncertainties": [
+    "Target of cutting is not stated."
+   ],
+   "plain_english": "Using the āṃ hūṃ phaṭ mantra, one cuts, then goes beyond."
+  },
+  {
+   "verse": 2357,
+   "rows": [
+    {
+     "surface": "gandha+puṣpānvitaṃ",
+     "gloss": "perfume-flowers",
+     "grounds": "sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "making",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "utsṛjen",
+     "gloss": "release",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantram+uccaran",
+     "gloss": "mantra-reciting",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is made with perfume and flowers before release?",
+   "premises": [
+    "The verse names perfume-flowers.",
+    "It says making.",
+    "It says release while reciting mantra."
+   ],
+   "inference": "One makes an offering with perfume and flowers, then releases it while reciting mantra.",
+   "uncertainties": [
+    "Recipient is not stated."
+   ],
+   "plain_english": "Making it with perfume and flowers, one releases it while reciting mantra."
+  },
+  {
+   "verse": 2358,
+   "rows": [
+    {
+     "surface": "rudhireṇa",
+     "gloss": "by-blood",
+     "grounds": "noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tataḥ+paścād",
+     "gloss": "then-after",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āpyāyatāṃ",
+     "gloss": "moisten",
+     "grounds": "imperative",
+     "morph": "3.sg.act.imp"
+    },
+    {
+     "surface": "tataḥ+param",
+     "gloss": "then-beyond",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is done with blood after the prior step?",
+   "premises": [
+    "The verse says by blood.",
+    "It says then-after.",
+    "It says moisten."
+   ],
+   "inference": "Afterward one moistens by blood, then goes beyond.",
+   "uncertainties": [
+    "Object moistened is not stated."
+   ],
+   "plain_english": "Afterward, moisten by blood, then go beyond."
+  },
+  {
+   "verse": 2359,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "directions",
+     "grounds": "noun",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vīkṣaṇaṃ",
+     "gloss": "looking",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "do",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bandhu+samāgamam",
+     "gloss": "kinsman-meeting",
+     "grounds": "sandhi",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What two actions are forbidden during the rite?",
+   "premises": [
+    "The verse forbids looking in directions.",
+    "It forbids kinsman-meeting.",
+    "It uses na twice."
+   ],
+   "inference": "One must not look around or meet kinsmen.",
+   "uncertainties": [
+    "Duration is not stated."
+   ],
+   "plain_english": "Do not look in the directions, nor meet kinsmen."
+  },
+  {
+   "verse": 2360,
+   "rows": [
+    {
+     "surface": "pakṣi+kīṭa+piśācānāṃ",
+     "gloss": "of-birds-insects-demons",
+     "grounds": "sandhi",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manasi",
+     "gloss": "in-mind",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What beings may be situated in the mind?",
+   "premises": [
+    "The verse names birds, insects, demons.",
+    "It says or.",
+    "It says situated in mind."
+   ],
+   "inference": "Birds, insects, or demons may be situated in the mind.",
+   "uncertainties": [
+    "Whether this is obstacle or vision is not stated."
+   ],
+   "plain_english": "Birds, insects, or demons may be situated in the mind."
+  },
+  {
+   "verse": 2361,
+   "rows": [
+    {
+     "surface": "sādhanañ+ca",
+     "gloss": "rite",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samāpya+atha",
+     "gloss": "completing",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "gift",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "noun",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadet",
+     "gloss": "give",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "To whom must the gift be given after completing the rite?",
+   "premises": [
+    "The verse says completing rite.",
+    "It names gift.",
+    "It says to guru."
+   ],
+   "inference": "After completing the rite, one gives a gift to the guru.",
+   "uncertainties": [
+    "Gift type is not stated."
+   ],
+   "plain_english": "After completing the rite, give a gift to the guru."
+  },
+  {
+   "verse": 2362,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "siddha+eka+mantrasya",
+     "gloss": "perfected-one-mantra",
+     "grounds": "sandhi",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "asādhyaṃ",
+     "gloss": "impossible",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "verb",
+     "morph": "3.sg.pass.prs"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is impossible for a properly perfected single mantra?",
+   "premises": [
+    "The verse says properly.",
+    "It names perfected one-mantra.",
+    "It says nothing impossible exists anywhere."
+   ],
+   "inference": "For a properly perfected single mantra, nothing is impossible anywhere.",
+   "uncertainties": [
+    "Conditions of perfection are not stated."
+   ],
+   "plain_english": "For a properly perfected single mantra, nothing is impossible anywhere."
+  },
+  {
+   "verse": 2363,
+   "rows": [
+    {
+     "surface": "sva+kulānte",
+     "gloss": "own-lineage-end",
+     "grounds": "sandhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puraścaryā",
+     "gloss": "preliminary-rite",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cānyathā",
+     "gloss": "otherwise",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    }
+   ],
+   "question": "When and where must the preliminary rite be done?",
+   "premises": [
+    "The verse says own-lineage-end.",
+    "It says preliminary-rite.",
+    "It says at-night and to-be-done."
+   ],
+   "inference": "The preliminary rite must be done at night at the end of one's own lineage, not otherwise.",
+   "uncertainties": [
+    "Exact location is not stated."
+   ],
+   "plain_english": "The preliminary rite must be done at night at the end of one's own lineage, not otherwise."
+  },
+  {
+   "verse": 2364,
+   "rows": [
+    {
+     "surface": "sarva+pāpa+haraṃ",
+     "gloss": "all-sin-removing",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "ca",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarva+roga+vināśanam",
+     "gloss": "all-disease-destroying",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What two benefits are attributed to this rite?",
+   "premises": [
+    "The verse says all-sin-removing.",
+    "It says ca.",
+    "It says all-disease-destroying."
+   ],
+   "inference": "The rite removes all sin and destroys all disease.",
+   "uncertainties": [
+    "Mechanism is not stated."
+   ],
+   "plain_english": "It removes all sin and destroys all disease."
+  },
+  {
+   "verse": 2365,
+   "rows": [
+    {
+     "surface": "mahā+balaḥ",
+     "gloss": "great-strong",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā+buddhiḥ",
+     "gloss": "great-wise",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā+sāhasikaḥ",
+     "gloss": "great-daring",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What four qualities describe the practitioner?",
+   "premises": [
+    "The verse says great-strong.",
+    "It says great-wise.",
+    "It says great-daring and pure."
+   ],
+   "inference": "The practitioner is great-strong, great-wise, great-daring, and pure.",
+   "uncertainties": [
+    "Whether these are prerequisites is not stated."
+   ],
+   "plain_english": "The practitioner is great-strong, great-wise, great-daring, and pure."
+  },
+  {
+   "verse": 2366,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "for-them",
+     "grounds": "pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "for-sake",
+     "grounds": "noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "i-will-declare",
+     "grounds": "verb",
+     "morph": "1.sg.act.fut"
+    },
+    {
+     "surface": "vīra+sādhanaṃ+uttamam",
+     "gloss": "hero-rite-best",
+     "grounds": "sandhi",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What will be declared for them?",
+   "premises": [
+    "The verse says for-them.",
+    "It says for-sake.",
+    "It says i-will-declare best hero-rite."
+   ],
+   "inference": "The speaker will declare the best hero-rite for them.",
+   "uncertainties": [
+    "Identity of them is not stated."
+   ],
+   "plain_english": "For them, I will declare the best hero-rite."
+  },
+  {
+   "verse": 2367,
+   "rows": [
+    {
+     "surface": "sarva+siddhiḥ",
+     "gloss": "all-success",
+     "grounds": "sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati+eva",
+     "gloss": "becomes",
+     "grounds": "sandhi",
+     "morph": "3.sg.act.prs"
+    },
+    {
+     "surface": "ahorātre",
+     "gloss": "day-night",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kalau+yuge",
+     "gloss": "kali-age",
+     "grounds": "sandhi",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "When does all success become possible?",
+   "premises": [
+    "The verse says all-success.",
+    "It says becomes.",
+    "It says day-night and kali-age."
+   ],
+   "inference": "All success becomes possible in a day-night during kali-age.",
+   "uncertainties": [
+    "Exact duration is not stated."
+   ],
+   "plain_english": "All success becomes possible in a day and night during kali-age."
+  },
+  {
+   "verse": 2368,
+   "rows": [
+    {
+     "surface": "kṛte",
+     "gloss": "in-krta",
+     "grounds": "noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "daśabhiḥ+varṣaḥ",
+     "gloss": "by-ten-years",
+     "grounds": "sandhi",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na+saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How long does success take in krta age?",
+   "premises": [
+    "The verse says in-krta.",
+    "It says by-ten-years.",
+    "It says success no-doubt."
+   ],
+   "inference": "In krta age, success takes ten years, without doubt.",
+   "uncertainties": [
+    "Whether this contrasts kali-age is implied."
+   ],
+   "plain_english": "In krta age, success takes ten years, without doubt."
+  },
+  {
+   "verse": 2369,
+   "rows": [
+    {
+     "surface": "dbāhye",
+     "gloss": "outside",
+     "grounds": "adjective",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punar+vastraṃ",
+     "gloss": "again-cloth",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "by-root",
+     "grounds": "noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "candanādikam",
+     "gloss": "sandal-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is applied outside again by root?",
+   "premises": [
+    "The verse says outside.",
+    "It says again-cloth.",
+    "It says by-root and sandal-etc."
+   ],
+   "inference": "Outside, cloth is again applied by root with sandal and similar substances.",
+   "uncertainties": [
+    "Exact procedure is not stated."
+   ],
+   "plain_english": "Outside, cloth is again applied by root with sandal and similar substances."
+  },
+  {
+   "verse": 2370,
+   "rows": [
+    {
+     "surface": "iṣṭa+devaṃ",
+     "gloss": "favored-deity",
+     "grounds": "sandhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "bowing",
+     "grounds": "gerund",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "prahara+madhyataḥ",
+     "gloss": "middle-watch",
+     "grounds": "sandhi",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Whom does one bow to before the night rite?",
+   "premises": [
+    "The verse says favored-deity.",
+    "It says guru.",
+    "It says bowing at-night middle-watch."
+   ],
+   "inference": "One bows to the favored deity and guru before the night rite in the middle watch.",
+   "uncertainties": [
+    "Order of bowing is not stated."
+   ],
+   "plain_english": "Bowing to the favored deity and guru, one performs the rite at night in the middle watch."
+  },
+  {
+   "verse": 2371,
+   "rows": [
+    {
+     "surface": "akṣubdho",
+     "gloss": "unagitated",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhukta+bhojyaḥ+tu",
+     "gloss": "having-eaten-food",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "vīra+sādhakaḥ",
+     "gloss": "hero-practitioner",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition is set for the hero-practitioner?",
+   "premises": [
+    "The verse says unagitated.",
+    "It says having-eaten-food.",
+    "It says if be hero-practitioner."
+   ],
+   "inference": "The hero-practitioner should be unagitated and having eaten food.",
+   "uncertainties": [
+    "Whether both are required is not stated."
+   ],
+   "plain_english": "If the hero-practitioner is unagitated and has eaten food, he may proceed."
+  },
+  {
+   "verse": 2372,
+   "rows": [
+    {
+     "surface": "pūrva+ukta+divase",
+     "gloss": "previously-said-day",
+     "grounds": "sandhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vīro",
+     "gloss": "hero",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nānā+upacāra+saṃyutaḥ",
+     "gloss": "various-offerings",
+     "grounds": "sandhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the hero equipped on the previously said day?",
+   "premises": [
+    "The verse says previously-said-day.",
+    "It says hero.",
+    "It says various-offerings."
+   ],
+   "inference": "On the previously said day, the hero is equipped with various offerings.",
+   "uncertainties": [
+    "Exact offerings are not stated."
+   ],
+   "plain_english": "On the previously said day, the hero is equipped with various offerings."
+  },
+  {
+   "verse": 2373,
+   "rows": [
+    {
+     "surface": "pāyasa+annaṃ",
+     "gloss": "milk-rice",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "surāṃ",
+     "gloss": "liquor",
+     "grounds": "noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "ca",
+     "grounds": "sandhi",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māṣa+bhakta+baliṃ",
+     "gloss": "bean-food-offering",
+     "grounds": "sandhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What foods and offerings are named?",
+   "premises": [
+    "The verse says milk-rice.",
+    "It says liquor.",
+    "It says bean-food-offering and likewise."
+   ],
+   "inference": "Milk-rice, liquor, and bean-food offering are named, likewise.",
+   "uncertainties": [
+    "Whether all are offered is not stated."
+   ],
+   "plain_english": "Milk-rice, liquor, and bean-food offering are named, likewise."
+  },
+  {
+   "verse": 2374,
+   "rows": [
+    {
+     "surface": "elā+lavaṅga+karpūra+jāti+khadira+mārdrakam",
+     "gloss": "cardamom-clove-camphor-nutmeg-khadira-ginger",
+     "grounds": "sandhi",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What six substances are named in this compound?",
+   "premises": [
+    "The verse gives one compound.",
+    "It names cardamom, clove, camphor, nutmeg, khadira, ginger."
+   ],
+   "inference": "The compound names six substances: cardamom, clove, camphor, nutmeg, khadira, and ginger.",
+   "uncertainties": [
+    "Their ritual use is not stated."
+   ],
+   "plain_english": "Cardamom, clove, camphor, nutmeg, khadira, and ginger are named."
+  }
+ ]
+}

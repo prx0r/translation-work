@@ -1,0 +1,82 @@
+{
+ "song": "kul-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajvā",
+     "gloss": "sacrificer",
+     "grounds": "agent noun from yaj meaning sacrifice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūtātmā",
+     "gloss": "pure-souled",
+     "grounds": "compound of pūta pure and ātmā soul",
+     "morph": "compound (pūta+ātmā)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāpī",
+     "gloss": "reciter",
+     "grounds": "agent noun from jap meaning mutter or recite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun referring to the person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent noun from sādh meaning accomplish",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which four qualities characterize this person?",
+   "premises": [
+    "He is a sacrificer.",
+    "He is pure-souled.",
+    "He is a reciter.",
+    "He is a practitioner."
+   ],
+   "inference": "The verse presents four linked identities of the same person.",
+   "uncertainties": [
+    "jāpī is rendered as reciter rather than left untranslated."
+   ],
+   "plain_english": "He is a sacrificer, he is pure-souled, he is a reciter, and he is a practitioner."
+  }
+ ]
+}

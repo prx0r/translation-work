@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "māraṇe",
+     "gloss": "in-killing",
+     "grounds": "Locative context indicating the ritual application of lethal magic.",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viṣa",
+     "gloss": "poison",
+     "grounds": "First member of a compound with the following token, indicating poison-related application.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃhāre",
+     "gloss": "in-removal",
+     "grounds": "Locative context indicating the removal or destruction of poison.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "graha",
+     "gloss": "seizing-spirit",
+     "grounds": "First member of a compound sequence referring to afflicting entities.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhūta",
+     "gloss": "spirit",
+     "grounds": "Middle member of a compound sequence referring to spirits or beings.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vinigrahe",
+     "gloss": "in-subjugation",
+     "grounds": "Locative context indicating the restraint or subjugation of such entities.",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "For which specific ritual applications is the prescribed mantra practice to be employed?",
+   "premises": [
+    "The mantra practice applies in the context of killing.",
+    "The mantra practice applies in the context of removing poison.",
+    "The mantra practice applies in the context of subjugating seizing spirits and beings."
+   ],
+   "inference": "The prescribed mantra practice is intended for use in these specific applied ritual operations.",
+   "uncertainties": [
+    "The exact syntactic grouping of viṣa with saṃhāre and graha-bhūta with vinigrahe is inferred from context and common usage."
+   ],
+   "plain_english": "It is to be used in killing, in the removal of poison, and in the subjugation of seizing spirits and other beings."
+  }
+ ]
+}

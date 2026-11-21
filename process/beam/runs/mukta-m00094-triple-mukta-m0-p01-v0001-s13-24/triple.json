@@ -1,0 +1,469 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "gandhapuṣpādibhūṣāḍhyaṃ",
+     "gloss": "scent-flowers-etc-ornament-adorned",
+     "grounds": "compound describing ornamented state",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "dayitāśakta mānasam",
+     "gloss": "beloved-powerless-mind",
+     "grounds": "fused phrase with internal space",
+     "morph": "m.acc.sg.n"
+    }
+   ],
+   "question": "How is the mind described when it is powerless before the beloved?",
+   "premises": [
+    "The mind is powerless before the beloved.",
+    "The state is ornamented with scent and flowers."
+   ],
+   "inference": "The verse portrays devotion as an ornamented yet powerless mental state.",
+   "uncertainties": [
+    "Exact syntactic relation of the two tokens is unclear."
+   ],
+   "plain_english": "The mind, powerless before the beloved, is adorned with scent, flowers, and ornaments."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "indeclinable numeral adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "indeclinable numeral adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "indeclinable numeral adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajapenmanum",
+     "gloss": "should-recite-mantra",
+     "grounds": "fused verb and object",
+     "morph": "3.sg.act.opt.+root"
+    }
+   ],
+   "question": "In how many ways may the mantra be recited?",
+   "premises": [
+    "Recitation may be threefold.",
+    "Recitation may be sevenfold.",
+    "Recitation may be tenfold."
+   ],
+   "inference": "The mantra may be recited in three, seven, or ten ways.",
+   "uncertainties": [
+    "The exact ritual distinction among the counts is not stated."
+   ],
+   "plain_english": "One should recite the mantra threefold, sevenfold, or tenfold."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "śrīpādukāṃ",
+     "gloss": "holy-sandal",
+     "grounds": "accusative object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayāmi",
+     "gloss": "I-worship",
+     "grounds": "first-person verb",
+     "morph": "1.sg.act.pres.+root"
+    },
+    {
+     "surface": "namo mantro",
+     "gloss": "salutation-mantra",
+     "grounds": "fused phrase with internal space",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurupriyaḥ",
+     "gloss": "guru-pleasing",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is worshipped with salutation and guru-pleasing devotion?",
+   "premises": [
+    "The holy sandal is worshipped.",
+    "The worshipper is guru-pleasing."
+   ],
+   "inference": "Worship of the holy sandal is accompanied by salutation and guru-pleasing devotion.",
+   "uncertainties": [
+    "The exact role of the salutation mantra is not fully explicit."
+   ],
+   "plain_english": "I worship the holy sandal with salutation mantra, being pleasing to the guru."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "guhyātimantrato",
+     "gloss": "secret-supreme-mantra",
+     "grounds": "ablative or instrumental source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "agent noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samarpya",
+     "gloss": "offering",
+     "grounds": "gerund",
+     "morph": "ger.+root"
+    },
+    {
+     "surface": "stavam",
+     "gloss": "praise",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt.+root"
+    }
+   ],
+   "question": "What should the mantrin do after offering praise from the secret supreme mantra?",
+   "premises": [
+    "The mantrin offers praise.",
+    "The praise comes from the secret supreme mantra."
+   ],
+   "inference": "The mantrin should perform the prescribed act after offering praise.",
+   "uncertainties": [
+    "The exact action denoted by ācaret is not specified."
+   ],
+   "plain_english": "The mantrin, having offered praise from the secret supreme mantra, should perform the rite."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "vidyāvatārasaṃsiddhau",
+     "gloss": "vidya-avatar-accomplishment",
+     "grounds": "locative of accomplishment",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "svīkṛtānekavigraha",
+     "gloss": "accepted-many-forms",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is accomplished through the avatar of vidya with many accepted forms?",
+   "premises": [
+    "Vidya avatar reaches accomplishment.",
+    "Many forms are accepted."
+   ],
+   "inference": "Accomplishment occurs through the vidya avatar that accepts many forms.",
+   "uncertainties": [
+    "The precise ritual result is not stated."
+   ],
+   "plain_english": "In the accomplishment of the vidya avatar, many forms are accepted."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "sarvājñānatamobheda",
+     "gloss": "all-ignorance-darkness-splitting",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhānave",
+     "gloss": "sun",
+     "grounds": "dative recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "cinmayāya",
+     "gloss": "consciousness-formed",
+     "grounds": "dative adjective",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "To whom is the sun-like splitter of all ignorance-darkness offered?",
+   "premises": [
+    "The sun splits all ignorance-darkness.",
+    "The recipient is consciousness-formed."
+   ],
+   "inference": "The sun-like power that splits ignorance-darkness is offered to the consciousness-formed recipient.",
+   "uncertainties": [
+    "The exact recipient identity is not fully explicit."
+   ],
+   "plain_english": "To you, the sun-like splitter of all ignorance-darkness, consciousness-formed."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "paratantrāya",
+     "gloss": "dependent",
+     "grounds": "dative adjective",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhaktānāṃ",
+     "gloss": "of-devotees",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhavyānāṃ",
+     "gloss": "auspicious",
+     "grounds": "genitive plural adjective",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhavadāyine",
+     "gloss": "giver-of-existence",
+     "grounds": "dative agent",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "Who is the giver of existence to dependent auspicious devotees?",
+   "premises": [
+    "The devotees are dependent.",
+    "The devotees are auspicious.",
+    "Existence is given to them."
+   ],
+   "inference": "The giver of existence serves dependent and auspicious devotees.",
+   "uncertainties": [
+    "The exact theological relation is not fully explicit."
+   ],
+   "plain_english": "To the giver of existence, for dependent and auspicious devotees."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "prakāśināṃ",
+     "gloss": "of-manifesting",
+     "grounds": "genitive plural participle",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prakāśāya",
+     "gloss": "for-manifestation",
+     "grounds": "dative purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "jñānināṃ",
+     "gloss": "of-knowers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "jñānarūpiṇe",
+     "gloss": "knowledge-formed",
+     "grounds": "dative adjective",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "For what purpose is manifestation given to knowers?",
+   "premises": [
+    "Manifestation belongs to manifesting ones.",
+    "Knowers are knowledge-formed."
+   ],
+   "inference": "Manifestation is for the knowledge-formed knowers.",
+   "uncertainties": [
+    "The exact ritual application is not stated."
+   ],
+   "plain_english": "For manifestation, to the knowledge-formed knowers."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "mūlādhāre",
+     "gloss": "root-support",
+     "grounds": "locative place",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūlavidyā",
+     "gloss": "root-vidya",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svarūpāṃ",
+     "gloss": "own-form",
+     "grounds": "accusative adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kulakuṇḍalīm",
+     "gloss": "kula-kundalini",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is the own-form kula-kundalini in the root support?",
+   "premises": [
+    "The root support contains root vidya.",
+    "Kula-kundalini has its own form."
+   ],
+   "inference": "In the root support, root vidya is the own-form kula-kundalini.",
+   "uncertainties": [
+    "The exact identification of root vidya with kundalini is interpretive."
+   ],
+   "plain_english": "In the root support, root vidya is the own-form kula-kundalini."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "sūryyakoṭi pratīkāśāṃ",
+     "gloss": "sun-million-like",
+     "grounds": "fused phrase with internal space",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viṣatantutanīyamīm",
+     "gloss": "poison-thread-subtle",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What is described as like a million suns and subtle as poison thread?",
+   "premises": [
+    "The object is like a million suns.",
+    "The object is subtle as poison thread."
+   ],
+   "inference": "The described power is both sun-like and thread-subtle.",
+   "uncertainties": [
+    "The exact referent is not stated in this verse."
+   ],
+   "plain_english": "Like a million suns, subtle as a poison thread."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "haṃso - mantreṇa",
+     "gloss": "hamsa-mantra",
+     "grounds": "fused phrase with spaces and hyphen",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyāśca",
+     "gloss": "of-her",
+     "grounds": "genitive pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "caitanyaṃ",
+     "gloss": "consciousness",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yojayettataḥ",
+     "gloss": "should-unite",
+     "grounds": "fused verb with then",
+     "morph": "3.sg.act.opt.+root"
+    }
+   ],
+   "question": "What should be united with her consciousness by the hamsa mantra?",
+   "premises": [
+    "The hamsa mantra is used.",
+    "Her consciousness is the object."
+   ],
+   "inference": "The hamsa mantra unites consciousness with her.",
+   "uncertainties": [
+    "The exact mechanics of union are not stated."
+   ],
+   "plain_english": "By the hamsa mantra, her consciousness should then be united."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsmaret",
+     "gloss": "should-remember",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt.+root"
+    },
+    {
+     "surface": "kaulān",
+     "gloss": "kaulas",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "gurūn",
+     "gloss": "gurus",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "demonstrative adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "kuleshvari",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whom should one remember after this, O Kuleshvari?",
+   "premises": [
+    "One should remember the kaulas.",
+    "One should remember these gurus."
+   ],
+   "inference": "After the preceding rite, one remembers the kaula gurus.",
+   "uncertainties": [
+    "The exact list of gurus is not given."
+   ],
+   "plain_english": "Then, O Kuleshvari, one should remember these kaula gurus."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "net-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "avyaktaḥ",
+     "gloss": "unmanifest",
+     "grounds": "unmanifest, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityetadākhyaḥ",
+     "gloss": "thus-called",
+     "grounds": "thus called, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "that, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "also, indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkalaḥ",
+     "gloss": "partless",
+     "grounds": "partless, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suśāntasvarūpaḥ",
+     "gloss": "very-peaceful-nature",
+     "grounds": "very peaceful nature, nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is that partless one described?",
+   "premises": [
+    "The one is unmanifest.",
+    "The one is thus called.",
+    "The one is partless."
+   ],
+   "inference": "The partless one is unmanifest and very peaceful in nature.",
+   "uncertainties": [
+    "The fused form ityetadākhyaḥ is analyzed as given without splitting."
+   ],
+   "plain_english": "That partless one, thus called, is also unmanifest and of very peaceful nature."
+  }
+ ]
+}

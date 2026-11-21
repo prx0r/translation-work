@@ -1,0 +1,857 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1376,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "saṃpātābhihutān",
+     "gloss": "scattered-offerings",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "gururmūrtidharaiḥ",
+     "gloss": "guru-with-image-bearers",
+     "grounds": "sandhi guruḥ + mūrtidharaiḥ",
+     "morph": "noun+adj.instr.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who performs the scattered offerings together with the guru and image-bearers?",
+   "premises": [
+    "the guru acts with image-bearers",
+    "scattered offerings are made first"
+   ],
+   "inference": "the ritual begins with guru-led scattered offerings",
+   "uncertainties": [
+    "exact referent of saṃpāta"
+   ],
+   "plain_english": "Having made scattered offerings, the guru acts together with the image-bearers."
+  },
+  {
+   "verse": 1377,
+   "rows": [
+    {
+     "surface": "tacca",
+     "gloss": "and-that",
+     "grounds": "sandhi tat + ca",
+     "morph": "pron.acc.sg.n+(indecl.)"
+    },
+    {
+     "surface": "uttare'thavaiśānyām",
+     "gloss": "or-north-east",
+     "grounds": "sandhi uttare + atha + vaiśānyām",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "adhivāsanamaṇḍapāt",
+     "gloss": "from-consecration-pavilion",
+     "grounds": "ablative of compound",
+     "morph": "noun.abl.sg.m"
+    }
+   ],
+   "question": "From where is that object moved toward the north-east?",
+   "premises": [
+    "movement is from the consecration pavilion",
+    "direction is north-east"
+   ],
+   "inference": "the liṅga is transferred from the consecration pavilion",
+   "uncertainties": [
+    "exact object referred to by tat"
+   ],
+   "plain_english": "And that is moved from the consecration pavilion toward the north-east."
+  },
+  {
+   "verse": 1378,
+   "rows": [
+    {
+     "surface": "dakṣiṇavedyāṃ",
+     "gloss": "on-south-altar",
+     "grounds": "locative of compound",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of nidhā",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the liṅga placed on the south altar?",
+   "premises": [
+    "the liṅga is placed on a seat",
+    "placement occurs on the south altar"
+   ],
+   "inference": "the liṅga rests on a seat on the south altar",
+   "uncertainties": [
+    "relation between vedyā and pīṭha"
+   ],
+   "plain_english": "But on the south altar, the liṅga is placed on a seat."
+  },
+  {
+   "verse": 1379,
+   "rows": [
+    {
+     "surface": "puroktābhiḥ",
+     "gloss": "by-aforesaid",
+     "grounds": "instrumental plural",
+     "morph": "adj.instr.pl.f"
+    },
+    {
+     "surface": "kaṣāyaiśca",
+     "gloss": "dyes",
+     "grounds": "sandhi kaṣāyaiḥ + ca",
+     "morph": "noun.instr.pl.m+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramoditaiḥ",
+     "gloss": "in-order",
+     "grounds": "instrumental plural",
+     "morph": "adj.instr.pl.m"
+    }
+   ],
+   "question": "By what aforesaid dyes and ordered means is the rite performed?",
+   "premises": [
+    "aforesaid dyes are used",
+    "ordered means are specified"
+   ],
+   "inference": "the rite uses previously named dyes in sequence",
+   "uncertainties": [
+    "exact list of dyes"
+   ],
+   "plain_english": "By the aforesaid dyes and in the prescribed order."
+  },
+  {
+   "verse": 1380,
+   "rows": [
+    {
+     "surface": "dvitīyāyāṃ",
+     "gloss": "on-second",
+     "grounds": "locative feminine",
+     "morph": "adj.loc.sg.f"
+    },
+    {
+     "surface": "vedyāṃ",
+     "gloss": "altar",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-prepared-ground",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "having-made",
+     "grounds": "locative participle",
+     "morph": "verb.loc.part"
+    }
+   ],
+   "question": "On which second altar or prepared ground is the rite performed?",
+   "premises": [
+    "a second altar is possible",
+    "a prepared ground is possible"
+   ],
+   "inference": "the rite may be done on either a second altar or prepared ground",
+   "uncertainties": [
+    "which option is preferred"
+   ],
+   "plain_english": "On a second altar, or on a prepared ground that has been made."
+  },
+  {
+   "verse": 1381,
+   "rows": [
+    {
+     "surface": "vidhānena",
+     "gloss": "by-rite",
+     "grounds": "instrumental",
+     "morph": "noun.instr.sg.n"
+    },
+    {
+     "surface": "lakṣaṇoddhāram",
+     "gloss": "mark-extraction",
+     "grounds": "compound accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What rite should be performed for mark extraction?",
+   "premises": [
+    "mark extraction is the action",
+    "it is done by rite"
+   ],
+   "inference": "the prescribed rite accomplishes mark extraction",
+   "uncertainties": [
+    "specific marks involved"
+   ],
+   "plain_english": "By the rite, one should perform mark extraction."
+  },
+  {
+   "verse": 1382,
+   "rows": [
+    {
+     "surface": "spṛśeyuḥ",
+     "gloss": "they-should-touch",
+     "grounds": "optative plural",
+     "morph": "verb.3.pl.act-opt"
+    },
+    {
+     "surface": "talliṅgaṃ",
+     "gloss": "that-liṅga",
+     "grounds": "sandhi tat + liṅgam",
+     "morph": "pron+adj.acc.sg.n"
+    },
+    {
+     "surface": "kuryuḥ",
+     "gloss": "they-should-do",
+     "grounds": "optative plural",
+     "morph": "verb.3.pl.act-opt"
+    },
+    {
+     "surface": "nīrājanaṃ",
+     "gloss": "lamp-waving",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done to that liṅga after touching it?",
+   "premises": [
+    "they should touch that liṅga",
+    "they should perform lamp-waving"
+   ],
+   "inference": "touching is followed by lamp-waving",
+   "uncertainties": [
+    "identity of agents"
+   ],
+   "plain_english": "They should touch that liṅga and perform lamp-waving thus."
+  },
+  {
+   "verse": 1383,
+   "rows": [
+    {
+     "surface": "svamantreṇāthavā",
+     "gloss": "by-own-mantra",
+     "grounds": "sandhi svamantreṇa + atha + vā",
+     "morph": "noun.instr.sg.m+(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "sādhāraṇena",
+     "gloss": "common",
+     "grounds": "instrumental",
+     "morph": "adj.instr.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By which mantra should worship be performed?",
+   "premises": [
+    "worship may use one's own mantra",
+    "worship may use a common mantra"
+   ],
+   "inference": "worship is performed by either own or common mantra",
+   "uncertainties": [
+    "which mantra is default"
+   ],
+   "plain_english": "One should perform worship by one's own mantra or by a common one."
+  },
+  {
+   "verse": 1384,
+   "rows": [
+    {
+     "surface": "pañcagavyakuśāmbubhyāṃ",
+     "gloss": "with-five-cow-products-and-kuśa-water",
+     "grounds": "instrumental dual compound",
+     "morph": "noun.instr.du.n"
+    },
+    {
+     "surface": "gandhādbhiśca",
+     "gloss": "with-sandal-pastes",
+     "grounds": "sandhi gandhādbhiḥ + ca",
+     "morph": "noun.instr.pl.m+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhiṣecayet",
+     "gloss": "should-sprinkle",
+     "grounds": "causative optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "With what substances should sprinkling be performed?",
+   "premises": [
+    "five cow products and kuśa water are used",
+    "sandal pastes are used"
+   ],
+   "inference": "sprinkling uses cow products, kuśa water, and sandal pastes",
+   "uncertainties": [
+    "exact composition of pañcagavya"
+   ],
+   "plain_english": "One should sprinkle with five cow products and kuśa water, and with sandal pastes."
+  },
+  {
+   "verse": 1385,
+   "rows": [
+    {
+     "surface": "rathādāvāropya",
+     "gloss": "having-mounted-on-chariot-etc",
+     "grounds": "absolutive compound",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "bherīpaṭahaḍiṇḍimaiḥ",
+     "gloss": "with-drums-and-kettledrums",
+     "grounds": "instrumental plural compound",
+     "morph": "noun.instr.pl.m"
+    }
+   ],
+   "question": "How is the liṅga mounted and accompanied?",
+   "premises": [
+    "it is mounted on chariot etc.",
+    "drums and kettledrums accompany it"
+   ],
+   "inference": "processional mounting includes drum accompaniment",
+   "uncertainties": [
+    "scope of ādi"
+   ],
+   "plain_english": "Having mounted it on a chariot and the like, with drums and kettledrums."
+  },
+  {
+   "verse": 1386,
+   "rows": [
+    {
+     "surface": "veṇumaḍḍukavīṇādivāditradhvanimaṅgalaiḥ",
+     "gloss": "with-flute-drum-lute-etc-music",
+     "grounds": "instrumental plural compound",
+     "morph": "noun.instr.pl.m"
+    }
+   ],
+   "question": "What auspicious music accompanies the procession?",
+   "premises": [
+    "flute, drum, and lute are named",
+    "other instruments are included"
+   ],
+   "inference": "the procession is accompanied by auspicious instrumental music",
+   "uncertainties": [
+    "exact instrument list"
+   ],
+   "plain_english": "With auspicious sounds of flute, drum, lute, and other instruments."
+  },
+  {
+   "verse": 1387,
+   "rows": [
+    {
+     "surface": "prekṣaṇīyairdhvajaiścānyaiḥ",
+     "gloss": "with-spectacles-and-banners",
+     "grounds": "sandhi prekṣaṇīyaiḥ + dhvajaiḥ + ca + anyaiḥ",
+     "morph": "adj.instr.pl.m"
+    },
+    {
+     "surface": "grāmādestu",
+     "gloss": "of-village-etc",
+     "grounds": "sandhi grāmādeḥ + tu",
+     "morph": "noun.gen.sg.m+(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "indeclinable accusative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accompanies circumambulation of the village and surroundings?",
+   "premises": [
+    "spectacles and banners accompany it",
+    "circumambulation is of village etc."
+   ],
+   "inference": "processional circumambulation includes spectacles and banners",
+   "uncertainties": [
+    "scope of anyaiḥ"
+   ],
+   "plain_english": "With spectacles and banners, circumambulation of the village and so forth."
+  },
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "svālipte",
+     "gloss": "having-anointed",
+     "grounds": "locative participle",
+     "morph": "verb.loc.part"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "absolutive",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done after anointing and establishing the god?",
+   "premises": [
+    "the god is anointed",
+    "the god is established"
+   ],
+   "inference": "worship follows anointing and establishment",
+   "uncertainties": [
+    "exact anointing substance"
+   ],
+   "plain_english": "Having anointed and established the god, one should worship."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-middle",
+     "grounds": "sandhi tat + madhye",
+     "morph": "pron+adv"
+    },
+    {
+     "surface": "pīṭhādau",
+     "gloss": "on-seat-etc",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "śāyayecchivam",
+     "gloss": "should-lay-śiva",
+     "grounds": "sandhi śāyayet + śivam",
+     "morph": "verb.3.sg.caus-opt+noun.acc.sg.m"
+    }
+   ],
+   "question": "Where should Śiva be laid in the middle?",
+   "premises": [
+    "placement is in the middle",
+    "seat and related items are involved"
+   ],
+   "inference": "Śiva is laid on a seat in the middle",
+   "uncertainties": [
+    "scope of ādi"
+   ],
+   "plain_english": "In the middle, on a seat and the like, one should lay Śiva."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "tatpārśve",
+     "gloss": "beside-that",
+     "grounds": "sandhi tat + pārśve",
+     "morph": "pron+adv"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "darbhavastrādibhūṣitam",
+     "gloss": "adorned-with-kuśa-cloth-etc",
+     "grounds": "compound participle",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What seat should be placed beside that?",
+   "premises": [
+    "placement is beside that",
+    "the seat is adorned with kuśa cloth etc."
+   ],
+   "inference": "an adorned seat is placed beside the central liṅga",
+   "uncertainties": [
+    "exact adornments"
+   ],
+   "plain_english": "Beside that, one should place a seat adorned with kuśa, cloth, and the like."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣiṇastathā",
+     "gloss": "guards",
+     "grounds": "sandhi rakṣiṇaḥ + tathā",
+     "morph": "noun.acc.pl.m+(indecl.)"
+    }
+   ],
+   "question": "What should be worshipped around with guards?",
+   "premises": [
+    "worship occurs first",
+    "guards are placed around"
+   ],
+   "inference": "guards are stationed around after worship",
+   "uncertainties": [
+    "what is guarded"
+   ],
+   "plain_english": "Having worshipped, one places guards around."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "atītya",
+     "gloss": "having-crossed",
+     "grounds": "absolutive",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "uttārayelliṅgaṃ",
+     "gloss": "should-lift-liṅga",
+     "grounds": "sandhi uttārayet + liṅgam",
+     "morph": "verb.3.sg.caus-opt+noun.acc.sg.n"
+    },
+    {
+     "surface": "tīre",
+     "gloss": "on-bank",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done after crossing and lifting the liṅga to the bank?",
+   "premises": [
+    "the liṅga is lifted",
+    "it is placed on the bank"
+   ],
+   "inference": "worship follows placement on the bank",
+   "uncertainties": [
+    "what is crossed"
+   ],
+   "plain_english": "Having crossed, one should lift the liṅga, place it on the bank, and worship."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "gandhapaṅktena",
+     "gloss": "with-sandal-paste-row",
+     "grounds": "instrumental",
+     "morph": "noun.instr.sg.m"
+    },
+    {
+     "surface": "raktakauśeyavāsasā",
+     "gloss": "with-red-silk-garment",
+     "grounds": "instrumental",
+     "morph": "noun.instr.sg.n"
+    }
+   ],
+   "question": "With what sandal paste and garment is the liṅga adorned?",
+   "premises": [
+    "sandal paste row is used",
+    "red silk garment is used"
+   ],
+   "inference": "adornment uses sandal paste and red silk",
+   "uncertainties": [
+    "exact ritual action"
+   ],
+   "plain_english": "With a row of sandal paste and a red silk garment."
+  },
+  {
+   "verse": 1394,
+   "rows": [
+    {
+     "surface": "rathādiyānamāropya",
+     "gloss": "having-mounted-on-chariot-etc",
+     "grounds": "absolutive compound",
+     "morph": "verb.abs.act"
+    },
+    {
+     "surface": "nṛttagītādimaṅgalaiḥ",
+     "gloss": "with-dance-song-etc-auspicious",
+     "grounds": "instrumental plural compound",
+     "morph": "noun.instr.pl.m"
+    }
+   ],
+   "question": "What auspicious accompaniments follow mounting on a chariot?",
+   "premises": [
+    "mounting on chariot etc. occurs",
+    "dance and song are auspicious accompaniments"
+   ],
+   "inference": "processional mounting is accompanied by dance and song",
+   "uncertainties": [
+    "scope of ādi"
+   ],
+   "plain_english": "Having mounted on a chariot and the like, with dance, song, and other auspicious things."
+  },
+  {
+   "verse": 1395,
+   "rows": [
+    {
+     "surface": "kārayet",
+     "gloss": "should-do",
+     "grounds": "causative optative",
+     "morph": "verb.3.sg.caus-opt"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiraṇyavasanādikam",
+     "gloss": "gold-garment-etc",
+     "grounds": "accusative compound",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What should be done there with gold garment and the like?",
+   "premises": [
+    "the action occurs there",
+    "gold garment etc. is involved"
+   ],
+   "inference": "a gold-garment rite is performed there",
+   "uncertainties": [
+    "exact action of kārayet"
+   ],
+   "plain_english": "There one should have gold garments and the like done."
+  },
+  {
+   "verse": 1396,
+   "rows": [
+    {
+     "surface": "puṣpavṛṣṭīśca",
+     "gloss": "and-abundant-flower-showers",
+     "grounds": "sandhi puṣpavṛṣṭīḥ + ca",
+     "morph": "noun.acc.pl.f+(indecl.)"
+    },
+    {
+     "surface": "puṣkalāḥ",
+     "gloss": "abundant",
+     "grounds": "accusative plural",
+     "morph": "adj.acc.pl.f"
+    }
+   ],
+   "question": "What abundant flower showers are mentioned?",
+   "premises": [
+    "flower showers are mentioned",
+    "they are abundant"
+   ],
+   "inference": "the rite includes abundant flower showers",
+   "uncertainties": [
+    "who performs them"
+   ],
+   "plain_english": "And abundant showers of flowers."
+  },
+  {
+   "verse": 1397,
+   "rows": [
+    {
+     "surface": "sāmānyārghyajalairmārgaṃ",
+     "gloss": "with-common-arghya-water",
+     "grounds": "sandhi sāmānyārghyajalaiḥ + mārgam",
+     "morph": "noun.instr.pl.n+noun.acc.sg.m"
+    },
+    {
+     "surface": "siñceyurmūrtidhārakāḥ",
+     "gloss": "should-sprinkle",
+     "grounds": "sandhi siñceyuḥ + mūrtidhārakāḥ",
+     "morph": "verb.3.pl.act-opt+noun.nom.pl.m"
+    }
+   ],
+   "question": "Who should sprinkle the path with common arghya water?",
+   "premises": [
+    "common arghya water is used",
+    "image-bearers are the agents"
+   ],
+   "inference": "image-bearers sprinkle the path with common arghya water",
+   "uncertainties": [
+    "exact path"
+   ],
+   "plain_english": "The image-bearers should sprinkle the path with common arghya water."
+  },
+  {
+   "verse": 1398,
+   "rows": [
+    {
+     "surface": "maṇḍapadvāri",
+     "gloss": "at-pavilion-door",
+     "grounds": "locative compound",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "samavatārayet",
+     "gloss": "should-lower",
+     "grounds": "causative optative",
+     "morph": "verb.3.sg.caus-opt"
+    }
+   ],
+   "question": "Where should the god be lowered?",
+   "premises": [
+    "lowering occurs at the pavilion door",
+    "the god is the object"
+   ],
+   "inference": "the god is lowered at the pavilion door",
+   "uncertainties": [
+    "manner of lowering"
+   ],
+   "plain_english": "At the pavilion door, one should lower the god."
+  },
+  {
+   "verse": 1399,
+   "rows": [
+    {
+     "surface": "bhadrapīṭhasya",
+     "gloss": "in-cavity-of-auspicious-seat",
+     "grounds": "genitive compound",
+     "morph": "noun.gen.sg.n"
+    },
+    {
+     "surface": "vivare",
+     "gloss": "vivare",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "sthāpayecchivam",
+     "gloss": "should-place-śiva",
+     "grounds": "sandhi sthāpayet + śivam",
+     "morph": "verb.3.sg.caus-opt+noun.acc.sg.m"
+    }
+   ],
+   "question": "Where should Śiva be placed in the auspicious seat?",
+   "premises": [
+    "placement is in the cavity",
+    "the auspicious seat is involved"
+   ],
+   "inference": "Śiva is placed in the cavity of the auspicious seat",
+   "uncertainties": [
+    "exact cavity"
+   ],
+   "plain_english": "In the cavity of the auspicious seat, one should place Śiva."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p498",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v12440 ratio=0.886",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "c7bb3d9e77ced5a8",
+ "source_digest_normalized_sha256": "c7bb3d9e77ced5a8f85c069c58adbc7f8978656480530ed3b5634bc8efaf9b8a",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 140
+ },
+ "align": {
+  "min_ratio": 0.886,
+  "sub090": {
+   "12440": {
+    "ratio": 0.886,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "One should offer libations of the same number with white sesame seeds and likewise with black sesame seeds."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 72,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 140,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v12440"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "119bf21e542cb5080ee66acf6603c3d3ea2bd78157e4cc814ca5142be0ae1565",
+  "l0": "db9e68d70208c2836ddb0509e8ffebdcfc843ccc1fc7662874013a0c128832ef",
+  "argmap": "cb92788ebcd3f453ad1646af739f3452895546c53d5a1d0b1442de8b88ad9e72",
+  "l2": "3a5844f304d7c9679d89101c1c4580c9526cae9327b7b195e31d879764ee94b3",
+  "c1": "e54510bf111575b99b8f0317147da93965ca8207788b4de943eabe2531ab77f1"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "c7bb3d9e77ced5a8",
+  "t1": "mukta-m0-p498/data/mukta-m0-p498.t1.json",
+  "l0": "mukta-m0-p498/data/mukta-m0-p498.l0.json",
+  "l2": "mukta-m0-p498/data/mukta-m0-p498.l2.json",
+  "c1": "mukta-m0-p498/data/mukta-m0-p498.c1.json"
+ }
+}

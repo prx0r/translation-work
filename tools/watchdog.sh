@@ -57,7 +57,14 @@ for t in q:
     if age > 1500:  # 25 min: orphan cleanup only. Active tasks heartbeat every
         # 5 min (beam_swarm worker_loop) so only truly dead claims reach here;
         # live claims are stolen earlier via the 15-min claim path.
-        t['status']='pending'; t['attempts']=min(t.get('attempts',0),2); n+=1
+        # NEVER resurrect exhausted tasks (attempts >= max) — that was the
+        # overnight poison loop: reap reset attempts to 2, task reclaimable
+        # forever on the same schema-fail verses.
+        if t.get('attempts',0) >= t.get('max_attempts',4):
+            t['status']='failed'
+        else:
+            t['status']='pending'
+        n+=1
         try: os.unlink(f)
         except OSError: pass
 if n:
@@ -89,7 +96,11 @@ import json
 p='process/beam/queue.json'; q=json.load(open(p))
 for t in q:
     if t.get('status')=='claimed':
-        t['status']='pending'; t['attempts']=min(t.get('attempts',0), 2)
+        # same rule as reap: exhausted stays failed, never resets to pending
+        if t.get('attempts',0) >= t.get('max_attempts',4):
+            t['status']='failed'
+        else:
+            t['status']='pending'
 json.dump(q,open(p,'w'),indent=1)
 PY
     start_workers

@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālaniyamaḥ",
+     "gloss": "time-restriction",
+     "grounds": "compound denoting temporal limitation; subject of negation",
+     "morph": "kāla+niyama (compound, m.nom.sg)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle extending the negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaucāśaucam",
+     "gloss": "purity-impurity",
+     "grounds": "dvandva compound pairing ritual purity and impurity",
+     "morph": "śauca+aśauca (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "emphatic adverb indicating the same absence applies",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking the two negated conditions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do temporal restrictions or purity-impurity distinctions constrain this ritual act?",
+   "premises": [
+    "No temporal restriction applies in this context.",
+    "No distinction of purity and impurity applies here.",
+    "The inclusive particles extend the absence to both conditions."
+   ],
+   "inference": "Therefore this ritual act is free from time and purity regulations.",
+   "uncertainties": [],
+   "plain_english": "Here there is no restriction of time, nor likewise any distinction of purity and impurity."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "naivedyañ+ca",
+     "gloss": "food-offering+and",
+     "grounds": "naivedya (food-offering) joined with ca (and); sandhi fusion naivedyam+ca",
+     "morph": "n.nom.sg.nt+indecl."
+    },
+    {
+     "surface": "pradātavyaṃ",
+     "gloss": "to-be-offered",
+     "grounds": "gerundive expressing obligation to give or offer",
+     "morph": "gerundive.n.nom.sg.nt (pra-√dā)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "indicates continual or regular practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāridrya+śāntaye",
+     "gloss": "for-poverty-pacification",
+     "grounds": "compound expressing purpose: calming or removal of poverty",
+     "morph": "compound.d.sg.f (dāridrya+śānti)"
+    }
+   ],
+   "question": "What additional offering must be given daily for the pacification of poverty?",
+   "premises": [
+    "A food-offering is included as something to be given.",
+    "The act of giving must be performed daily.",
+    "The stated purpose of this giving is the pacification of poverty."
+   ],
+   "inference": "Therefore a food-offering should be offered daily to bring about the pacification of poverty.",
+   "uncertainties": [],
+   "plain_english": "And a food-offering should be given daily for the pacification of poverty."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "pāyasaṃ",
+     "gloss": "rice-pudding",
+     "grounds": "legacy hint rice-pudding; accusative object of offering",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "piṣṭakaṃ",
+     "gloss": "cake",
+     "grounds": "legacy hint cake; accusative object of offering",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and",
+     "grounds": "ca plus eva fused; conjunction with emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānārasasamanvitam",
+     "gloss": "endowed-with-various-flavors",
+     "grounds": "compound nānā-rasa-sam-anvita; modifies the offerings",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Which foods and flavorings are to be offered in this Kaula rite?",
+   "premises": [
+    "Rice pudding is offered.",
+    "Cake is offered.",
+    "Offerings are endowed with various flavors."
+   ],
+   "inference": "The rite prescribes sweet and varied food offerings.",
+   "uncertainties": [
+    "Exact ritual recipient and sequence are not stated in this verse."
+   ],
+   "plain_english": "Rice pudding, cake, and variously flavored foods are offered."
+  }
+ ]
+}

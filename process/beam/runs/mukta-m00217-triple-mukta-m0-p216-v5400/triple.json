@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p216",
+ "items": [
+  {
+   "verse": 5400,
+   "rows": [
+    {
+     "surface": "vismitā",
+     "gloss": "astonished",
+     "grounds": "past participle adjective describing paśavaḥ",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "vilayaṃ",
+     "gloss": "dissolution",
+     "grounds": "object of motion expressed by yānti",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "finite verb with subject paśavaḥ",
+     "morph": "3.pl.pres.act √yā"
+    },
+    {
+     "surface": "paśavaḥ",
+     "gloss": "bound-souls",
+     "grounds": "subject of yānti",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śāstramohitāḥ",
+     "gloss": "scripture-deluded",
+     "grounds": "compound adjective describing paśavaḥ; śāstra+mohita",
+     "morph": "adj.nom.pl.m, compound"
+    }
+   ],
+   "question": "What fate befalls bound souls who are deluded by scripture alone?",
+   "premises": [
+    "Bound souls can be deluded by scripture.",
+    "Scriptural delusion leaves them astonished.",
+    "Such astonished bound souls go to dissolution."
+   ],
+   "inference": "Bound souls deluded by scripture alone meet an astonished dissolution rather than the promised fulfillment.",
+   "uncertainties": [
+    "The exact sense of vilayaṃ here, whether mere dissolution or a negative end, is context-dependent."
+   ],
+   "plain_english": "Astonished, the bound souls deluded by scripture go to dissolution."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3650,
+   "rows": [
+    {
+     "surface": "rathārūḍhāśca",
+     "gloss": "chariot-mounted-and",
+     "grounds": "ratha-ārūḍha plus ca; those mounted on chariots, and",
+     "morph": "adj.nom.pl.m + (indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "first-person pronoun in accusative",
+     "morph": "pron.acc.sg.1"
+    },
+    {
+     "surface": "pāntu",
+     "gloss": "protect",
+     "grounds": "imperative plural of root pā",
+     "morph": "verb.3.pl.act.imp + pā"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "everywhere",
+     "grounds": "indeclinable adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṇe",
+     "gloss": "in-battle",
+     "grounds": "locative singular of raṇa",
+     "morph": "noun.loc.sg.n"
+    }
+   ],
+   "question": "Which divine protectors mounted on chariots guard the devotee everywhere and always in battle?",
+   "premises": [
+    "chariot-mounted protectors guard the devotee",
+    "protection extends everywhere and always",
+    "protection applies specifically in battle"
+   ],
+   "inference": "The verse asks chariot-mounted divine protectors to guard the devotee in every place and time, especially in battle.",
+   "uncertainties": [
+    "The exact divine identity of the chariot-mounted protectors is not specified in this verse."
+   ],
+   "plain_english": "May those mounted on chariots protect me everywhere and always in battle."
+  }
+ ]
+}

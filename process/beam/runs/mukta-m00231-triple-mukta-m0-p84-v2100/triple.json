@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "circle",
+     "grounds": "circle to be drawn in the kuṇḍa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣitigṛhaṃ",
+     "gloss": "earth-house",
+     "grounds": "earth-house to be drawn in the kuṇḍa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two figures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍamadhye",
+     "gloss": "in-middle-of-kuṇḍa",
+     "grounds": "compound locating the drawing",
+     "morph": "compound (loc.sg)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-draw",
+     "grounds": "drawing instruction",
+     "morph": "3.sg.act.opt.√likh"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence after the lines",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What geometric figures should be drawn in the middle of the kuṇḍa after the lines?",
+   "premises": [
+    "three lines are drawn in the heart",
+    "upper lines correspond to brahma vaivasvata indra",
+    "circle and earth-house are drawn in kuṇḍa middle"
+   ],
+   "inference": "The rite prescribes adding a circle and earth-house to the kuṇḍa after line construction.",
+   "uncertainties": [
+    "exact ritual referent of kṣitigṛha is uncertain",
+    "whether likhet is imperative or optative"
+   ],
+   "plain_english": "Then in the middle of the kuṇḍa one should draw a circle and an earth-house."
+  }
+ ]
+}

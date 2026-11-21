@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p230",
+ "items": [
+  {
+   "verse": 5750,
+   "rows": [
+    {
+     "surface": "gandharvaḥ",
+     "gloss": "gandharva",
+     "grounds": "a class of celestial being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kinnaro",
+     "gloss": "kinnara",
+     "grounds": "a class of celestial being; final visarga becomes o before voiced initial of next token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daitya",
+     "gloss": "daitya",
+     "grounds": "first member of compound with nāyako",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāyako",
+     "gloss": "leader",
+     "grounds": "head of compound with daitya; final visarga becomes o before voiced initial of next token",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dānavādhipaḥ",
+     "gloss": "danava-lord",
+     "grounds": "compound of dānava and adhipa",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "Which celestial and demonic figures are included among the attendants mentioned in this context?",
+   "premises": [
+    "The preceding context describes an adorned setting with attendants.",
+    "Gandharvas and kinnaras are named as present beings.",
+    "A leader of daityas and a lord of danavas are also named."
+   ],
+   "inference": "The attendants include both celestial beings and leaders of demonic groups.",
+   "uncertainties": [
+    "Whether these figures are enumerated exhaustively or as examples is not specified in this verse alone."
+   ],
+   "plain_english": "A gandharva, a kinnara, a leader of the daityas, and a lord of the danavas."
+  }
+ ]
+}

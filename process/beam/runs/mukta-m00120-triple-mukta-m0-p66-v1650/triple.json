@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "svapna",
+     "gloss": "dream",
+     "grounds": "first member of compound describing the source of obtaining",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "labdha",
+     "gloss": "obtained",
+     "grounds": "past passive participle qualifying wealth; forms compound with svapna",
+     "morph": "ppp-compound-member (√labh)"
+    },
+    {
+     "surface": "dhanena",
+     "gloss": "by-wealth",
+     "grounds": "instrumental of means or cause",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanavān",
+     "gloss": "wealthy",
+     "grounds": "predicate adjective describing the subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun serving as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-become",
+     "grounds": "optative expressing hypothetical condition",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle introducing the hypothetical",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can wealth obtained in a dream make a person truly wealthy?",
+   "premises": [
+    "Wealth may be obtained in a dream.",
+    "A person might be thought wealthy by means of that dream-wealth.",
+    "The condition is hypothetical, as indicated by 'if' and the optative."
+   ],
+   "inference": "Since dream-obtained wealth is not real, it cannot make one truly wealthy, illustrating that bondage or liberation cannot arise from an unreal basis.",
+   "uncertainties": [
+    "The verse functions as an analogy whose target is supplied by the preceding context (bondage and liberation from the will of śakti)."
+   ],
+   "plain_english": "If someone could become wealthy by wealth obtained in a dream, then he would indeed be wealthy."
+  }
+ ]
+}

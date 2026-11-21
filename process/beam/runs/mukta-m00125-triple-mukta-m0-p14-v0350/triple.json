@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "gandhapuṣpaṃ",
+     "gloss": "fragrance-flower",
+     "grounds": "compound of gandha (fragrance) and puṣpa (flower), taken as offering item",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "sadhūpaṃ",
+     "gloss": "with-incense",
+     "grounds": "compound with sa- (with) and dhūpa (incense)",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting offering items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpam",
+     "gloss": "lamp",
+     "grounds": "ritual lamp offered before the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "respectful-offering",
+     "grounds": "arghya, a ritual offering of water or materials",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-arranged",
+     "grounds": "gerund indicating prior action of arranging the offerings",
+     "morph": "gerund(vi-√dhā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction completing the list of actions or items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual offerings must be arranged before the deity at this stage?",
+   "premises": [
+    "The verse lists gandhapuṣpaṃ, sadhūpaṃ, dīpam, and arghyaṃ as offering items.",
+    "The gerund vidhāya indicates that these items are to be arranged.",
+    "The conjunctions ca link the listed offerings together."
+   ],
+   "inference": "Fragrance and flowers, incense, a lamp, and the arghya offering are to be arranged.",
+   "uncertainties": [],
+   "plain_english": "Having arranged fragrance and flowers, incense, a lamp, and the arghya offering."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "sa-syllable",
+     "grounds": "bija syllable sa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāra",
+     "gloss": "letter-maker",
+     "grounds": "suffix forming syllable name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antān",
+     "gloss": "ending-in",
+     "grounds": "accusative plural masculine participle",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "bindu",
+     "gloss": "dot",
+     "grounds": "nominative/accusative singular masculine noun",
+     "morph": "nom/acc.sg.m"
+    },
+    {
+     "surface": "bhūṣita",
+     "gloss": "adorned",
+     "grounds": "past participle adjective",
+     "morph": "adj"
+    },
+    {
+     "surface": "mastakān",
+     "gloss": "heads",
+     "grounds": "accusative plural masculine noun",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "Which mantras ending in sa-kāra are described as having bindu-adorned heads?",
+   "premises": [
+    "Mantras end in sa-kāra.",
+    "Their heads are adorned with bindu.",
+    "The verse specifies plural heads."
+   ],
+   "inference": "The verse identifies sa-kāra-final mantras as bindu-crowned.",
+   "uncertainties": [
+    "Exact syntactic relation between tokens is inferred."
+   ],
+   "plain_english": "Those mantras ending in sa, whose heads are adorned with a bindu."
+  }
+ ]
+}

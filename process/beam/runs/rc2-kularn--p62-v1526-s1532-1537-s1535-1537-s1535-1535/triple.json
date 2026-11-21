@@ -1,0 +1,63 @@
+{
+ "song": "kul-p62",
+ "items": [
+  {
+   "verse": 1535,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the principle/reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "principle",
+     "grounds": "the truth or reality to be known",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viditaṃ",
+     "gloss": "known",
+     "grounds": "understood or realized",
+     "morph": "n.nom.sg (past-passive-participle, √vid)"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "agent who has knowledge",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "that person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "the spiritual teacher",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-lady-of-the-kula",
+     "grounds": "vocative address to Pārvatī as mistress of the Kula",
+     "morph": "f.voc.sg (compound: kula+nāyikā)"
+    }
+   ],
+   "question": "What knowledge qualifies a person to be recognized as the true guru?",
+   "premises": [
+    "There is a specific principle or reality to be known.",
+    "A person may have direct knowledge of that principle.",
+    "The title of guru is attributed based on possessing that knowledge."
+   ],
+   "inference": "Therefore, the one by whom that principle is known is the guru.",
+   "uncertainties": [
+    "The specific content of 'tat tattvaṃ' is not explicitly defined in this verse and depends on context."
+   ],
+   "plain_english": "O lady of the Kula, he by whom that principle is known is the guru."
+  }
+ ]
+}

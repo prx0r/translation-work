@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "ārātrikamimaṃ",
+     "gloss": "this-arati",
+     "grounds": "fused accusative form combining arati and this; sandhi not expanded",
+     "morph": "acc.sg.neut/masc"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.fem"
+    },
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "accept",
+     "grounds": "imperative verb of taking or receiving",
+     "morph": "2.sg.act-imp root-gṛh"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "first-person possessive pronoun",
+     "morph": "gen.sg.1st"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-success",
+     "grounds": "dative of purpose from siddhi",
+     "morph": "dat.sg.fem"
+    }
+   ],
+   "question": "What arati offering is presented to the goddess for the practitioner's success?",
+   "premises": [
+    "The practitioner offers arati to the goddess.",
+    "The offering is accepted by the goddess.",
+    "The purpose is the practitioner's success."
+   ],
+   "inference": "The verse petitions the goddess to accept the arati for the devotee's success.",
+   "uncertainties": [
+    "The fused token combines arati and this; its internal sandhi boundary is not expanded."
+   ],
+   "plain_english": "Accept this arati, O goddess, for my success."
+  }
+ ]
+}

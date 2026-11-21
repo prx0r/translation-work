@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p183",
+ "items": [
+  {
+   "verse": 4575,
+   "rows": [
+    {
+     "surface": "hiriyaranutoḍiśaṭhaṇe",
+     "gloss": "elder-deceitful-one",
+     "grounds": "fused Kannada form treated as one token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṃdanaḍayevanṭeyāguvakaṇḍavaramaneyamuridutanamanekaṭṭegījaganumarulutanadim",
+     "gloss": "today-consequence-phrase",
+     "grounds": "long fused Kannada form treated as one token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence follows for one who acts deceitfully toward elders?",
+   "premises": [
+    "deceit toward elders is condemned",
+    "the verse names a deceitful person",
+    "a consequence is implied"
+   ],
+   "inference": "The verse warns that deceit toward elders brings an adverse outcome.",
+   "uncertainties": [
+    "Kannada sandhi and exact lexical segmentation are not analyzed here"
+   ],
+   "plain_english": "The deceitful person who wrongs elders faces a stated adverse consequence."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "putrāṇāṃ",
+     "gloss": "of-sons",
+     "grounds": "genitive plural of putra; denotes those affected by death",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maraṇaṃ",
+     "gloss": "death",
+     "grounds": "action noun from √mṛ; subject of the resulting condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun referring back to the stated śalya or its effect",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bandhubhiḥ",
+     "gloss": "from-relatives",
+     "grounds": "instrumental plural of bandhu; construed with viyogitā as separation from kin",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing possible consequence",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "viyogitā",
+     "gloss": "separation",
+     "grounds": "abstract noun from vi-yuj; state resulting from the prior death",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What familial harm may result from an unremoved śalya affecting the site?",
+   "premises": [
+    "An unremoved śalya produces harmful consequences.",
+    "One such consequence is the death of sons.",
+    "The death of sons leads to separation from relatives."
+   ],
+   "inference": "Therefore an unremoved śalya may cause the death of sons and consequent separation from kin.",
+   "uncertainties": [
+    "The antecedent of tena is inferred from the preceding verse as the śalya or its effect."
+   ],
+   "plain_english": "Because of that, there may be the death of sons and separation from relatives."
+  }
+ ]
+}

@@ -1,0 +1,973 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1851,
+   "rows": [
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-part-portion",
+     "grounds": "measure of a portion equal to three parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikharotsedhaṃ",
+     "gloss": "peak-height",
+     "grounds": "height of the peak or spire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śikhāmānaṃ",
+     "gloss": "crest-measure",
+     "grounds": "measurement of the crest",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śivāṃśakam",
+     "gloss": "shiva-portion",
+     "grounds": "portion equal to one shiva-part",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What specific proportional measures define the peak height, crest measure, and shiva portion in this architectural scheme?",
+   "premises": [
+    "A three-part portion is specified as a measure",
+    "The peak height is assigned a defined proportion",
+    "The crest measure and shiva portion are given fixed values"
+   ],
+   "inference": "The architectural elements of peak, crest, and shiva portion are regulated by precise proportional measures.",
+   "uncertainties": [],
+   "plain_english": "The peak height is a three-part portion, the crest measure is specified, and the shiva portion is defined accordingly."
+  },
+  {
+   "verse": 1852,
+   "rows": [
+    {
+     "surface": "śikhāntamuttarādyaṃ",
+     "gloss": "from-beam-to-crest-end",
+     "grounds": "span beginning from the upper beam to the crest end",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayoviṃśati",
+     "gloss": "twenty-three",
+     "grounds": "numerical value twenty-three",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "when-divided",
+     "grounds": "when divided into parts",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many equal parts must the span from beam to crest end be divided for measurement?",
+   "premises": [
+    "The span from beam to crest end is the measured length",
+    "This span is subjected to division",
+    "The division yields twenty-three parts"
+   ],
+   "inference": "The vertical span from the upper beam to the crest end is to be divided into twenty-three equal parts.",
+   "uncertainties": [],
+   "plain_english": "When the span from the upper beam to the crest end is divided, it is divided into twenty-three parts."
+  },
+  {
+   "verse": 1853,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half of the previously mentioned measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṃcamānaṃ",
+     "gloss": "platform-measure",
+     "grounds": "measurement of the platform or entablature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative or prescriptive sense",
+     "morph": "3.sg.opt-act √as"
+    },
+    {
+     "surface": "pādāyāmaṃ",
+     "gloss": "pillar-length",
+     "grounds": "length or height of the pillar",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇāṃśakam",
+     "gloss": "three-part-portion",
+     "grounds": "portion equal to three parts",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are prescribed for the platform and the pillar length in this division?",
+   "premises": [
+    "Half of the prior measure defines the platform",
+    "The pillar length is assigned a specific portion",
+    "That pillar length equals a three-part portion"
+   ],
+   "inference": "The platform measure should be half of that, and the pillar length should be a three-part portion.",
+   "uncertainties": [],
+   "plain_english": "The platform measure should be half of that, and the pillar length should be a three-part portion."
+  },
+  {
+   "verse": 1854,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half of the previously mentioned measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṃcamānaṃ",
+     "gloss": "platform-measure",
+     "grounds": "measurement of the platform or entablature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "measure of two parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "pillar-rise",
+     "grounds": "height or rise of the pillar base",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What measures are assigned to the platform and the pillar rise in this specification?",
+   "premises": [
+    "The platform measure is half of the prior unit",
+    "The pillar rise is separately specified",
+    "The pillar rise equals two parts"
+   ],
+   "inference": "The platform measure is half of that, while the pillar rise is two parts.",
+   "uncertainties": [],
+   "plain_english": "The platform measure is indeed half of that, and the pillar rise is two parts."
+  },
+  {
+   "verse": 1855,
+   "rows": [
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "one-and-half-two-part",
+     "grounds": "measure of two and a half parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śirottuṃgaṃ",
+     "gloss": "head-height",
+     "grounds": "height of the head or capital",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekādaśaṃ",
+     "gloss": "eleven",
+     "grounds": "numerical value eleven",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthūpi",
+     "gloss": "finial",
+     "grounds": "finial or crowning element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mānakam",
+     "gloss": "measure",
+     "grounds": "measurement or dimension",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the prescribed measurements for the head height and the finial in this scheme?",
+   "premises": [
+    "The head height is given a fractional part measure",
+    "The finial has its own numerical measure",
+    "Both measures are explicitly stated"
+   ],
+   "inference": "The head height is two and a half parts, and the finial measure is eleven.",
+   "uncertainties": [
+    "Exact unit basis for ekādaśaṃ is not explicitly stated in this verse"
+   ],
+   "plain_english": "The head height is two and a half parts, and the finial measure is eleven."
+  },
+  {
+   "verse": 1856,
+   "rows": [
+    {
+     "surface": "uttarādi",
+     "gloss": "from-beam-onward",
+     "grounds": "beginning from the upper beam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhāntaṃ",
+     "gloss": "to-crest-end",
+     "grounds": "up to the end of the crest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekona+triṃśadaṃśake",
+     "gloss": "twenty-nine-part-division",
+     "grounds": "division into twenty-nine parts; internal sandhi at +",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many parts is the span from beam to crest end divided in this alternative scheme?",
+   "premises": [
+    "The measured span runs from beam to crest end",
+    "This span is divided into equal parts",
+    "The total number of parts is twenty-nine"
+   ],
+   "inference": "In this scheme, the span from the upper beam to the crest end is divided into twenty-nine parts.",
+   "uncertainties": [],
+   "plain_english": "The span from the upper beam to the crest end is divided into twenty-nine parts."
+  },
+  {
+   "verse": 1857,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tripādaśivāṃśaṃ",
+     "gloss": "three-quarter-shiva-part",
+     "grounds": "a shiva portion with three quarters",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prastarodayamīritam",
+     "gloss": "entablature-rise-declared",
+     "grounds": "declared as the rise of the entablature",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What measure is declared for the rise of the entablature in this twenty-nine-part division?",
+   "premises": [
+    "A specific fractional shiva portion is identified",
+    "This portion is assigned to the entablature rise",
+    "The assignment is explicitly declared"
+   ],
+   "inference": "The rise of the entablature is declared to be three quarters of a shiva portion.",
+   "uncertainties": [],
+   "plain_english": "That is declared to be the entablature rise, measuring three quarters of a shiva portion."
+  },
+  {
+   "verse": 1858,
+   "rows": [
+    {
+     "surface": "sārdhadvyaṃśāṃghri+tuṃgaṃ",
+     "gloss": "two-and-half-part-pillar-height",
+     "grounds": "pillar height of two and a half parts; internal sandhi at +",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasyārdhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half of that measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prastarodayam",
+     "gloss": "entablature-rise",
+     "grounds": "rise of the entablature",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the pillar height and entablature rise proportioned relative to each other in this rule?",
+   "premises": [
+    "The pillar height is set at two and a half parts",
+    "The entablature rise is derived from that height",
+    "The entablature rise equals half of that measure"
+   ],
+   "inference": "The pillar height is two and a half parts, and the entablature rise is half of that.",
+   "uncertainties": [],
+   "plain_english": "The pillar height is two and a half parts, and the entablature rise is half of that."
+  },
+  {
+   "verse": 1859,
+   "rows": [
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "shiva-portion",
+     "grounds": "portion equal to one shiva-part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "galamānaṃ",
+     "gloss": "neck-measure",
+     "grounds": "measurement of the neck",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdhadvyaṃśaṃ",
+     "gloss": "two-and-half-part",
+     "grounds": "measure of two and a half parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śirodayam",
+     "gloss": "head-rise",
+     "grounds": "rise or height of the head",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are prescribed for the neck and the head rise in this configuration?",
+   "premises": [
+    "The neck measure is assigned a shiva portion",
+    "The head rise is assigned a different fractional measure",
+    "The head rise equals two and a half parts"
+   ],
+   "inference": "The neck measure is one shiva portion, and the head rise is two and a half parts.",
+   "uncertainties": [],
+   "plain_english": "The neck measure is one shiva portion, and the head rise is two and a half parts."
+  },
+  {
+   "verse": 1860,
+   "rows": [
+    {
+     "surface": "uttarādi",
+     "gloss": "from-beam-onward",
+     "grounds": "beginning from the upper beam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhāntaṃ",
+     "gloss": "to-crest-end",
+     "grounds": "up to the end of the crest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "the measurement or span",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭtriṃśadaṃśake",
+     "gloss": "thirty-six-part-division",
+     "grounds": "division into thirty-six parts",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Into how many parts is the span from beam to crest end divided in this third proportional scheme?",
+   "premises": [
+    "The span from beam to crest end is taken as the measure",
+    "This measure is divided into equal parts",
+    "The division results in thirty-six parts"
+   ],
+   "inference": "In this scheme, the span from the upper beam to the crest end is divided into thirty-six parts.",
+   "uncertainties": [],
+   "plain_english": "The measure from the upper beam to the crest end is divided into thirty-six parts."
+  },
+  {
+   "verse": 1861,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "measure of two parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prastaroccaṃ",
+     "gloss": "entablature-height",
+     "grounds": "height of the entablature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-part-portion",
+     "grounds": "portion equal to four parts",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "pillar-rise",
+     "grounds": "rise or height of the pillar",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What heights are prescribed for the entablature and the pillar rise in the thirty-six-part division?",
+   "premises": [
+    "The entablature height is specified as two parts",
+    "The pillar rise is specified separately",
+    "The pillar rise equals a four-part portion"
+   ],
+   "inference": "The entablature height is two parts, and the pillar rise is four parts.",
+   "uncertainties": [],
+   "plain_english": "The entablature height is two parts, and the pillar rise is four parts."
+  },
+  {
+   "verse": 1862,
+   "rows": [
+    {
+     "surface": "pādona",
+     "gloss": "quarter-less",
+     "grounds": "less by one quarter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃśamaṃcoccaṃ",
+     "gloss": "two-part-platform-height",
+     "grounds": "platform height of two parts; compound form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-part-portion",
+     "grounds": "portion equal to three parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādamānakam",
+     "gloss": "pillar-measure",
+     "grounds": "measurement of the pillar",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the specified measures for the platform height and the pillar measure in this arrangement?",
+   "premises": [
+    "The platform height is two parts less a quarter",
+    "The pillar measure is given as a three-part portion",
+    "Both elements receive explicit proportional values"
+   ],
+   "inference": "The platform height is a quarter less than two parts, and the pillar measure is three parts.",
+   "uncertainties": [],
+   "plain_english": "The platform height is a quarter less than two parts, and the pillar measure is three parts."
+  },
+  {
+   "verse": 1863,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "half-of-that",
+     "grounds": "half of the previously mentioned measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṃcamānaṃ",
+     "gloss": "platform-measure",
+     "grounds": "measurement of the platform",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "measure of two parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "talipāyatam",
+     "gloss": "talipaya-extent",
+     "grounds": "extent or length of the talipaya element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures are assigned to the platform and the talipaya extent in this specification?",
+   "premises": [
+    "The platform measure is half of the prior unit",
+    "The talipaya extent is separately defined",
+    "The talipaya extent equals two parts"
+   ],
+   "inference": "The platform measure is half of that, and the talipaya extent is two parts.",
+   "uncertainties": [
+    "The exact architectural referent of talipāyatam is not fully certain"
+   ],
+   "plain_english": "The platform measure is half of that, and the talipaya extent is two parts."
+  },
+  {
+   "verse": 1864,
+   "rows": [
+    {
+     "surface": "pādahīnāgnibhāgaṃ",
+     "gloss": "quarter-less-three-part",
+     "grounds": "three parts less by one quarter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiraśśeṣaṃ",
+     "gloss": "head-remainder",
+     "grounds": "the remaining portion of the head",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śikhodayam",
+     "gloss": "crest-rise",
+     "grounds": "rise or height of the crest",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the crest rise determined in relation to the remaining head portion?",
+   "premises": [
+    "A measure of three parts less a quarter is specified",
+    "This measure applies to the head remainder",
+    "The crest rise is identified with this remainder"
+   ],
+   "inference": "The crest rise, as the remainder of the head, is three parts less a quarter.",
+   "uncertainties": [],
+   "plain_english": "The crest rise, being the remainder of the head, is three parts less a quarter."
+  },
+  {
+   "verse": 1865,
+   "rows": [
+    {
+     "surface": "maṇṭapasā",
+     "gloss": "with-mandapa",
+     "grounds": "in accordance with or together with a mandapa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative or manner particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāraśālāṃ",
+     "gloss": "gate-hall",
+     "grounds": "hall at the gateway",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt-act √kṛ"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to the best of twice-born",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What construction is the best of the twice-born instructed to make in relation to the mandapa?",
+   "premises": [
+    "The instruction is addressed to the best twice-born",
+    "A gate hall is the object to be made",
+    "Its construction should follow the manner of a mandapa"
+   ],
+   "inference": "One should construct the gate hall in the manner of a mandapa.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, one should make the gate hall in the manner of a mandapa."
+  },
+  {
+   "verse": 1866,
+   "rows": [
+    {
+     "surface": "mālikākṛti",
+     "gloss": "garland-form",
+     "grounds": "having the form of a garland",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "obligation to be constructed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvāraharmyaṃ",
+     "gloss": "gate-palace",
+     "grounds": "palatial structure at the gate",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to the best of twice-born",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What form must the gate palace take according to this architectural injunction?",
+   "premises": [
+    "The gate palace is the subject of construction",
+    "A specific form is prescribed for it",
+    "That prescribed form is a garland form"
+   ],
+   "inference": "The gate palace should be made in the form of a garland.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, the gate palace should be made in the form of a garland."
+  },
+  {
+   "verse": 1867,
+   "rows": [
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "all of them",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopurābhaṃ",
+     "gloss": "gopura-like",
+     "grounds": "resembling a gopura tower",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayetkalpavittamaḥ",
+     "gloss": "should-design-best-planner",
+     "grounds": "the best knower of ritual design should plan; fused compound",
+     "morph": "3.sg.opt-act √kḷp + m.nom.sg"
+    }
+   ],
+   "question": "What alternative form may the best ritual planner assign to all these gate structures?",
+   "premises": [
+    "All the structures are included in this option",
+    "An alternative form is permitted",
+    "The best planner may design them like a gopura"
+   ],
+   "inference": "The best planner may alternatively design all of them in the likeness of a gopura.",
+   "uncertainties": [],
+   "plain_english": "Or the best knower of design may plan all of them to resemble a gopura."
+  },
+  {
+   "verse": 1868,
+   "rows": [
+    {
+     "surface": "ekadvitritalaṃ",
+     "gloss": "one-two-three-storied",
+     "grounds": "having one, two, or three stories",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvālaṃkārasaṃyutam",
+     "gloss": "endowed-with-all-ornaments",
+     "grounds": "furnished with all ornaments",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What variations in stories and ornamentation are permitted for these gate structures?",
+   "premises": [
+    "The structure may have one, two, or three stories",
+    "This variation is presented as an option",
+    "The structure should be endowed with all ornaments"
+   ],
+   "inference": "The gate structure may be one, two, or three stories high and furnished with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "It may have one, two, or three stories and be endowed with all ornaments."
+  },
+  {
+   "verse": 1869,
+   "rows": [
+    {
+     "surface": "vasvakṛtyālpanāsāḍhyaṃ",
+     "gloss": "rich-with-small-nose-elements",
+     "grounds": "abundant with small nose-like projections; exact count implied by vasu-akṛti",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāguktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "according to the method stated earlier",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address to the twice-born",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "By what method and with what features should the twice-born construct the structure's projections?",
+   "premises": [
+    "The structure should be rich in small nose-like projections",
+    "The construction must follow a previously stated method",
+    "The instruction is addressed to the twice-born"
+   ],
+   "inference": "The twice-born should make it rich with small nose-like projections according to the previously stated method.",
+   "uncertainties": [
+    "The precise numerical sense of vasvakṛti in this compound is uncertain"
+   ],
+   "plain_english": "O twice-born, make it rich with small nose-like projections according to the previously stated method."
+  },
+  {
+   "verse": 1870,
+   "rows": [
+    {
+     "surface": "maṇṭapākṛtikaṃ",
+     "gloss": "mandapa-shaped",
+     "grounds": "having the form of a mandapa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīkāntaṃ",
+     "gloss": "shrikanta",
+     "grounds": "named shrikanta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-declared",
+     "grounds": "that is declared or cited",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name is given to the gate structure when it is made in the form of a mandapa?",
+   "premises": [
+    "A mandapa-shaped form is presented as an option",
+    "This form receives a specific designation",
+    "The designation is declared as shrikanta"
+   ],
+   "inference": "When made in the form of a mandapa, it is declared to be shrikanta.",
+   "uncertainties": [],
+   "plain_english": "Or, if it is made in the form of a mandapa, that is declared to be shrikanta."
+  },
+  {
+   "verse": 1871,
+   "rows": [
+    {
+     "surface": "pāśvayorvaṃśanāsāḍhyaṃ",
+     "gloss": "rich-with-side-bamboo-noses",
+     "grounds": "abundant with bamboo-like nose projections on the sides",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ayugmasthūpasamanvitam",
+     "gloss": "accompanied-by-odd-finials",
+     "grounds": "provided with an odd number of finials",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What side projections and finial arrangement characterize this form of the gate structure?",
+   "premises": [
+    "The sides are to have bamboo-like nose projections",
+    "The structure must be accompanied by finials",
+    "The number of finials must be odd"
+   ],
+   "inference": "The structure should have bamboo-like nose projections on the sides and be accompanied by an odd number of finials.",
+   "uncertainties": [],
+   "plain_english": "It should be rich with bamboo-like nose projections on the sides and accompanied by an odd number of finials."
+  },
+  {
+   "verse": 1872,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "on the front face",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "on each front face, repeated for emphasis",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṇṇāsī",
+     "gloss": "six-noses",
+     "grounds": "six nose-like projections",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pārśvayorvaṃśanāsikā",
+     "gloss": "side-bamboo-nose",
+     "grounds": "bamboo-like nose projection on the sides",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many nose projections are prescribed for each face and for the sides of the structure?",
+   "premises": [
+    "Each face is to have nose projections",
+    "The number on each face is six",
+    "The sides are to have bamboo-like nose projections"
+   ],
+   "inference": "Each face should have six nose projections, and the sides should have bamboo-like nose projections.",
+   "uncertainties": [],
+   "plain_english": "On each face there should be six nose projections, and on the sides there should be bamboo-like nose projections."
+  },
+  {
+   "verse": 1873,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhanītyā",
+     "gloss": "by-threefold-method",
+     "grounds": "according to a threefold procedure",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāraśobhāḥ",
+     "gloss": "gate-beauties",
+     "grounds": "ornamental gate structures",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-design",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt-act √kḷp"
+    }
+   ],
+   "question": "By what procedural framework should the ornamental gate structures be designed?",
+   "premises": [
+    "The gate structures are to be designed",
+    "A threefold method is prescribed",
+    "This method governs their arrangement"
+   ],
+   "inference": "The ornamental gate structures should be designed according to this threefold method.",
+   "uncertainties": [],
+   "plain_english": "Thus, one should design the ornamental gate structures according to the threefold method."
+  },
+  {
+   "verse": 1874,
+   "rows": [
+    {
+     "surface": "ardhakoṭi",
+     "gloss": "half-end",
+     "grounds": "half-corner or half-extremity element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "catasrāḍhyaṃ",
+     "gloss": "rich-with-four",
+     "grounds": "abundant with four elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage-structure",
+     "grounds": "cage-like architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadākṛtiḥ",
+     "gloss": "that-form",
+     "grounds": "having that form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What structural elements and form define the cage-like feature in this gate design?",
+   "premises": [
+    "A cage-like structure is specified",
+    "It is rich with four half-end elements",
+    "Its overall form is defined accordingly"
+   ],
+   "inference": "The cage-like structure is endowed with four half-end elements and takes that form.",
+   "uncertainties": [
+    "The precise architectural meaning of ardhakoṭi is uncertain"
+   ],
+   "plain_english": "The cage-like structure is rich with four half-end elements and has that form."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "daśāhakramayogena",
+     "gloss": "ten-day-sequence-yoga",
+     "grounds": "compound daśa-aha-krama-yoga in instrumental case",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "bhraṣṭo",
+     "gloss": "fallen",
+     "grounds": "nominative singular masculine participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "third person singular active present of bhū",
+     "morph": "3.sg.act-pres (bhū)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does a practitioner become fallen through the ten-day sequence yoga?",
+   "premises": [
+    "ten-day sequence yoga is named",
+    "the practitioner becomes fallen",
+    "the result is stated directly"
+   ],
+   "inference": "The verse states that a practitioner becomes fallen by the ten-day sequence yoga.",
+   "uncertainties": [
+    "exact ritual referent of the ten-day sequence is not specified in this verse"
+   ],
+   "plain_english": "Through the ten-day sequence yoga, the practitioner becomes fallen."
+  }
+ ]
+}

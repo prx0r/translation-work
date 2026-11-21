@@ -1,0 +1,1139 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 501,
+   "rows": [
+    {
+     "surface": "anenādibhir",
+     "gloss": "by-this-and-others",
+     "grounds": "instrumental reference to preceding items; fused form",
+     "morph": "pron.+adj.ins.pl.m"
+    },
+    {
+     "surface": "āhutyor",
+     "gloss": "of-oblations",
+     "grounds": "pair or class of oblations",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "nirviṣaṃ",
+     "gloss": "poisonless",
+     "grounds": "resulting state of being free from poison",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "yāty",
+     "gloss": "becomes",
+     "grounds": "attainment of a state",
+     "morph": "3.sg.pres.act √yā"
+    },
+    {
+     "surface": "asaṃśayaḥ",
+     "gloss": "without-doubt",
+     "grounds": "asserts certainty of the result",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What certain result follows from using these and similar oblations?",
+   "premises": [
+    "These and similar oblations are employed.",
+    "The oblations act on a poisoned condition.",
+    "The outcome is stated as certain."
+   ],
+   "inference": "Using these oblations certainly renders one poisonless.",
+   "uncertainties": [
+    "Whether āhutyor refers to two specific oblations or oblations in general is unclear."
+   ],
+   "plain_english": "By means of this and similar oblations, one becomes free from poison, without doubt."
+  },
+  {
+   "verse": 502,
+   "rows": [
+    {
+     "surface": "gṛdhrakarṇā",
+     "gloss": "gṛdhrakarṇā",
+     "grounds": "name of the mantra being introduced",
+     "morph": "f.nom.sg (name)"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "ritual formula to be taught",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker declares intention to teach",
+     "morph": "1.sg.pres.act √kath"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "command to attend to the teaching",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address expressing intimacy",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which mantra is the speaker about to teach the goddess?",
+   "premises": [
+    "The speaker addresses the goddess directly.",
+    "The speaker announces an intention to tell.",
+    "The mantra named is gṛdhrakarṇā."
+   ],
+   "inference": "The speaker is about to teach the gṛdhrakarṇā mantra to the goddess.",
+   "uncertainties": [],
+   "plain_english": "O goddess, I shall tell you the gṛdhrakarṇā mantra; listen, O beloved."
+  },
+  {
+   "verse": 503,
+   "rows": [
+    {
+     "surface": "lambastani",
+     "gloss": "lambastani",
+     "grounds": "mantra word or epithet to be uttered",
+     "morph": "f.voc.sg (mantra-word)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "designates a mantra unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahorari",
+     "gloss": "mahorari",
+     "grounds": "mantra word to be uttered next",
+     "morph": "f.voc.sg (mantra-word)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "designates a mantra unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive instruction for recitation",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "What sequence of mantra words must be spoken in this instruction?",
+   "premises": [
+    "The word lambastani is specified.",
+    "The word mahorari is specified afterwards.",
+    "Both are to be spoken as mantra words."
+   ],
+   "inference": "One should say the word lambastani and then the word mahorari.",
+   "uncertainties": [
+    "Whether lambastani and mahorari function as epithets or bīja-like mantra units is not fully explicit."
+   ],
+   "plain_english": "One should say the word 'lambastani' and afterwards say the word 'mahorari'."
+  },
+  {
+   "verse": 504,
+   "rows": [
+    {
+     "surface": "padāni",
+     "gloss": "words",
+     "grounds": "mantra units previously given",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "points to the specified words",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "vīpsāyai",
+     "gloss": "for-repetition",
+     "grounds": "purpose of repeated utterance",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act √vad"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "identifies the resulting formula",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "the complete ritual formula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic identification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do the previously stated words constitute the complete mantra?",
+   "premises": [
+    "These words are to be spoken for repetition.",
+    "The repeated utterance forms a unit.",
+    "That unit is identified as the mantra."
+   ],
+   "inference": "Repeating these words constitutes the mantra itself.",
+   "uncertainties": [
+    "The exact number or pattern of repetitions implied by vīpsāyai is not specified."
+   ],
+   "plain_english": "One should repeat these words, and that indeed is the mantra."
+  },
+  {
+   "verse": 505,
+   "rows": [
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "specified count of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrasiddhyarthaṃ",
+     "gloss": "for-mantra-accomplishment",
+     "grounds": "purpose of the recitation; compound",
+     "morph": "n.acc.sg (mantra+siddhi+artha)"
+    },
+    {
+     "surface": "mātṛkānyāsatatparaḥ",
+     "gloss": "devoted-to-mātṛkā-installation",
+     "grounds": "practitioner engaged in mātṛkā-nyāsa; compound",
+     "morph": "m.nom.sg (mātṛkā+nyāsa+tatpara)"
+    }
+   ],
+   "question": "What practice and quantity are required for accomplishing this mantra?",
+   "premises": [
+    "Ten thousand recitations are specified.",
+    "The goal is mantra accomplishment.",
+    "The practitioner is devoted to mātṛkā-nyāsa."
+   ],
+   "inference": "One devoted to mātṛkā-nyāsa should recite the mantra ten thousand times for its accomplishment.",
+   "uncertainties": [],
+   "plain_english": "For the accomplishment of the mantra, one devoted to mātṛkā-nyāsa should recite it ten thousand times."
+  },
+  {
+   "verse": 506,
+   "rows": [
+    {
+     "surface": "svayameva",
+     "gloss": "by-itself",
+     "grounds": "emphasizes inherent completeness",
+     "morph": "(indecl.)+ (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāṅga",
+     "gloss": "five-limbed",
+     "grounds": "describes the mantra as having five parts",
+     "morph": "adj.nom.sg.n (pañcan+aṅga)"
+    },
+    {
+     "surface": "bhadrakālī",
+     "gloss": "bhadrakālī",
+     "grounds": "name of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "identifies the presiding deity",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What structure and presiding deity belong to this mantra?",
+   "premises": [
+    "The mantra is described as five-limbed by itself.",
+    "Bhadrakālī is named.",
+    "Bhadrakālī is identified as the deity."
+   ],
+   "inference": "The mantra is inherently five-limbed and its deity is Bhadrakālī.",
+   "uncertainties": [],
+   "plain_english": "The mantra is itself five-limbed, and Bhadrakālī is indeed its deity."
+  },
+  {
+   "verse": 507,
+   "rows": [
+    {
+     "surface": "pramattanayanā",
+     "gloss": "intoxicated-eyes",
+     "grounds": "descriptive epithet of the deity; compound",
+     "morph": "f.nom.sg (pramatta+nayana)"
+    },
+    {
+     "surface": "śūrā",
+     "gloss": "heroic",
+     "grounds": "descriptive quality of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dīrghaghoṇā",
+     "gloss": "long-nosed",
+     "grounds": "descriptive epithet of the deity; compound",
+     "morph": "f.nom.sg (dīrgha+ghoṇā)"
+    },
+    {
+     "surface": "madānvitā",
+     "gloss": "filled-with-fury",
+     "grounds": "descriptive state of the deity; compound",
+     "morph": "f.nom.sg (mada+anvita)"
+    }
+   ],
+   "question": "What fierce physical and emotional traits characterize Bhadrakālī here?",
+   "premises": [
+    "Bhadrakālī has intoxicated eyes.",
+    "She is heroic and long-nosed.",
+    "She is filled with fury."
+   ],
+   "inference": "Bhadrakālī is depicted as a fierce, heroic, and frenzied figure.",
+   "uncertainties": [
+    "mada may suggest intoxication or fury; rendered as fury in this fierce context."
+   ],
+   "plain_english": "She has intoxicated eyes, is heroic, long-nosed, and filled with fury."
+  },
+  {
+   "verse": 508,
+   "rows": [
+    {
+     "surface": "bhrukuṭyā",
+     "gloss": "by-frown",
+     "grounds": "instrumental cause of her blazing appearance",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "agnīva",
+     "gloss": "like-fire",
+     "grounds": "simile describing blazing intensity; fused form",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "saṃdīptā",
+     "gloss": "blazing",
+     "grounds": "describes her radiant fierceness",
+     "morph": "f.nom.sg (past-part.)"
+    },
+    {
+     "surface": "mahāvadana",
+     "gloss": "great-mouthed",
+     "grounds": "descriptive epithet; compound",
+     "morph": "f.nom.sg (mahā+vadana)"
+    },
+    {
+     "surface": "bhīṣaṇā",
+     "gloss": "terrifying",
+     "grounds": "describes her fearsome nature",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is Bhadrakālī's terrifying appearance conveyed through her expression?",
+   "premises": [
+    "Her frown makes her blaze like fire.",
+    "She has a great mouth.",
+    "She is terrifying."
+   ],
+   "inference": "Bhadrakālī appears terrifying, blazing like fire with a frowning, great-mouthed visage.",
+   "uncertainties": [],
+   "plain_english": "Blazing like fire with her frown, great-mouthed and terrifying."
+  },
+  {
+   "verse": 509,
+   "rows": [
+    {
+     "surface": "triśūlair",
+     "gloss": "with-tridents",
+     "grounds": "weapons associated with her",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ugradordaṇḍā",
+     "gloss": "fierce-arm-staffs",
+     "grounds": "describes her formidable arms; compound",
+     "morph": "f.nom.sg (ugra+dordaṇḍa)"
+    },
+    {
+     "surface": "narakīṭapalāśinī",
+     "gloss": "devourer-of-human-worms",
+     "grounds": "describes her consuming humans; compound",
+     "morph": "f.nom.sg (nara+kīṭa+palāśinī)"
+    }
+   ],
+   "question": "What weapons and fearsome actions define Bhadrakālī in this description?",
+   "premises": [
+    "She bears tridents.",
+    "She has fierce, staff-like arms.",
+    "She devours humans likened to worms."
+   ],
+   "inference": "Bhadrakālī is armed with tridents and depicted as a fierce devourer of humans.",
+   "uncertainties": [
+    "narakīṭa is a pejorative compound; rendered literally as human-worms."
+   ],
+   "plain_english": "Bearing tridents, with fierce arms, she devours humans like worms."
+  },
+  {
+   "verse": 510,
+   "rows": [
+    {
+     "surface": "śiromālā",
+     "gloss": "skull-garlanded",
+     "grounds": "wears a garland of heads or skulls; compound",
+     "morph": "f.nom.sg (śiras+mālā)"
+    },
+    {
+     "surface": "vicitrāṅgī",
+     "gloss": "variegated-limbed",
+     "grounds": "describes her adorned or multiform body; compound",
+     "morph": "f.nom.sg (vicitra+aṅga)"
+    },
+    {
+     "surface": "pibantī",
+     "gloss": "drinking",
+     "grounds": "ongoing action",
+     "morph": "f.nom.sg.pres.part.act √pā"
+    },
+    {
+     "surface": "śoṇitāsavam",
+     "gloss": "blood-liquor",
+     "grounds": "object she drinks; compound",
+     "morph": "m.acc.sg (śoṇita+āsava)"
+    }
+   ],
+   "question": "What adornments and ritual consumption mark Bhadrakālī's iconography?",
+   "premises": [
+    "She wears a garland of skulls.",
+    "Her limbs are variegated.",
+    "She drinks blood-liquor."
+   ],
+   "inference": "Bhadrakālī is iconographically marked by a skull garland and the drinking of blood-liquor.",
+   "uncertainties": [],
+   "plain_english": "Garlanded with skulls, with variegated limbs, she drinks blood-liquor."
+  },
+  {
+   "verse": 511,
+   "rows": [
+    {
+     "surface": "piśācaskandham",
+     "gloss": "goblin-shoulder",
+     "grounds": "mount she rides upon; compound",
+     "morph": "m.acc.sg (piśāca+skandha)"
+    },
+    {
+     "surface": "āruhya",
+     "gloss": "having-mounted",
+     "grounds": "action preceding her roaming",
+     "morph": "(indecl. abs.) √āruh"
+    },
+    {
+     "surface": "bhramantī",
+     "gloss": "wandering",
+     "grounds": "ongoing movement",
+     "morph": "f.nom.sg.pres.part.act √bhram"
+    },
+    {
+     "surface": "vasudhātalam",
+     "gloss": "earth-surface",
+     "grounds": "domain of her wandering; compound",
+     "morph": "n.acc.sg (vasudhā+tala)"
+    }
+   ],
+   "question": "How and where does Bhadrakālī move in this depiction?",
+   "premises": [
+    "She mounts the shoulder of a goblin.",
+    "She wanders after mounting.",
+    "Her movement covers the earth's surface."
+   ],
+   "inference": "Bhadrakālī roams over the earth mounted on a goblin's shoulder.",
+   "uncertainties": [],
+   "plain_english": "Having mounted the shoulder of a goblin, she wanders over the surface of the earth."
+  },
+  {
+   "verse": 512,
+   "rows": [
+    {
+     "surface": "itthaṃbhūtā",
+     "gloss": "thus-constituted",
+     "grounds": "summarizes the preceding description; compound",
+     "morph": "f.nom.sg (ittham+bhūta)"
+    },
+    {
+     "surface": "bhadrakālī",
+     "gloss": "bhadrakālī",
+     "grounds": "name of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mātṛbhiḥ",
+     "gloss": "by-mother-goddesses",
+     "grounds": "attendant group surrounding her",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "parivāritā",
+     "gloss": "surrounded",
+     "grounds": "state of being encircled by attendants",
+     "morph": "f.nom.sg (past-part.)"
+    }
+   ],
+   "question": "Who accompanies Bhadrakālī in her fully described form?",
+   "premises": [
+    "Bhadrakālī is constituted as described above.",
+    "Mother goddesses are present.",
+    "She is surrounded by them."
+   ],
+   "inference": "Bhadrakālī, in this form, is surrounded by the mother goddesses.",
+   "uncertainties": [],
+   "plain_english": "Thus constituted, Bhadrakālī is surrounded by the mother goddesses."
+  },
+  {
+   "verse": 513,
+   "rows": [
+    {
+     "surface": "dhūmāvatyāś",
+     "gloss": "of-dhūmāvatī",
+     "grounds": "reference to procedures associated with Dhūmāvatī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "what",
+     "grounds": "relative pronoun referring to declared procedure",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "declared",
+     "grounds": "previously taught instruction",
+     "morph": "n.nom.sg (past-part.)"
+    },
+    {
+     "surface": "anayā",
+     "gloss": "by-this-one",
+     "grounds": "instrumental reference to the present deity or mantra",
+     "morph": "pron.ins.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates application in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.opt.act √ācar"
+    }
+   ],
+   "question": "How should procedures declared for Dhūmāvatī be applied in this context?",
+   "premises": [
+    "Certain procedures are declared for Dhūmāvatī.",
+    "The present context involves this deity or mantra.",
+    "The instruction prescribes performance."
+   ],
+   "inference": "One should perform with this deity the procedures previously declared for Dhūmāvatī.",
+   "uncertainties": [
+    "anayā could refer to Bhadrakālī or to the mantra; the referent is not explicit."
+   ],
+   "plain_english": "And what has been declared for Dhūmāvatī, one should then perform with this one."
+  },
+  {
+   "verse": 514,
+   "rows": [
+    {
+     "surface": "vijñāya",
+     "gloss": "having-recognized",
+     "grounds": "prior act of discerning a sign",
+     "morph": "(indecl. abs.) √vijñā"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "points to the specific sound",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirghoṣam",
+     "gloss": "sound",
+     "grounds": "auditory sign to be recognized",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekasūtraṃ",
+     "gloss": "single-stream",
+     "grounds": "describes the sound as continuous; compound",
+     "morph": "m.acc.sg (eka+sūtra)"
+    },
+    {
+     "surface": "vanāntarāt",
+     "gloss": "from-forest-interior",
+     "grounds": "source location of the sound; compound",
+     "morph": "n.abl.sg (vana+antara)"
+    }
+   ],
+   "question": "What specific auditory sign must be recognized before the ritual action?",
+   "premises": [
+    "A sound must be recognized.",
+    "The sound is continuous and single-streamed.",
+    "The sound comes from within the forest."
+   ],
+   "inference": "One must first recognize a continuous sound coming from the forest interior.",
+   "uncertainties": [
+    "The nature of the nirghoṣa (natural or supernatural) is not specified."
+   ],
+   "plain_english": "Having recognized that continuous sound coming from within the forest."
+  },
+  {
+   "verse": 515,
+   "rows": [
+    {
+     "surface": "śūnyāgāre",
+     "gloss": "in-empty-house",
+     "grounds": "possible ritual location; compound",
+     "morph": "n.loc.sg (śūnya+āgāra)"
+    },
+    {
+     "surface": "vane",
+     "gloss": "in-forest",
+     "grounds": "alternative ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "presents an alternative; fused form",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "ritual fire-pit to be prepared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "preparatory action",
+     "morph": "(indecl. abs.) √kṛ"
+    },
+    {
+     "surface": "trikoṇakam",
+     "gloss": "triangular",
+     "grounds": "shape of the pit; compound",
+     "morph": "n.acc.sg (tri+koṇa+ka)"
+    }
+   ],
+   "question": "Where and in what shape should the ritual pit be prepared?",
+   "premises": [
+    "The location may be an empty house or a forest.",
+    "A pit must be made.",
+    "The pit must be triangular."
+   ],
+   "inference": "One should make a triangular pit in an empty house or in a forest.",
+   "uncertainties": [],
+   "plain_english": "In an empty house or in a forest, one should make a triangular pit."
+  },
+  {
+   "verse": 516,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next ritual step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pit",
+     "grounds": "location of the recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japen",
+     "gloss": "should-mutter",
+     "grounds": "prescribed mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣavṛkṣasya",
+     "gloss": "of-poison-tree",
+     "grounds": "specifies material or location associated with the pit; compound",
+     "morph": "m.gen.sg (viṣa+vṛkṣa)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "ritual agent performing the practice",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who should perform mantra recitation at the prepared pit and with what association?",
+   "premises": [
+    "The next step follows pit preparation.",
+    "The mantra-practitioner and sādhaka perform recitation.",
+    "The pit is associated with a poison tree."
+   ],
+   "inference": "The mantra-practitioner, the sādhaka, should then recite at the pit of the poison tree.",
+   "uncertainties": [
+    "Whether viṣavṛkṣasya qualifies kuṇḍaṃ as made from or near a poison tree is ambiguous."
+   ],
+   "plain_english": "Then the mantra-practitioner, the sādhaka, should recite at the pit of the poison tree."
+  },
+  {
+   "verse": 517,
+   "rows": [
+    {
+     "surface": "suvinītaṃ",
+     "gloss": "well-disciplined",
+     "grounds": "qualification of the assistant",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvijaṃ",
+     "gloss": "twice-born",
+     "grounds": "social-ritual status of the assistant",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhīraṃ",
+     "gloss": "steadfast",
+     "grounds": "qualification of the assistant",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-appointed",
+     "grounds": "act of setting someone in a role",
+     "morph": "(indecl. abs.) √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttarasākṣiṇam",
+     "gloss": "northern-witness",
+     "grounds": "role assigned to the assistant; compound",
+     "morph": "m.acc.sg (uttara+sākṣin)"
+    }
+   ],
+   "question": "What kind of assistant must be appointed and in what ritual role?",
+   "premises": [
+    "The assistant must be well-disciplined, twice-born, and steadfast.",
+    "The assistant is appointed to a role.",
+    "The role is that of northern witness."
+   ],
+   "inference": "One should appoint a well-disciplined, steadfast twice-born man as the northern witness.",
+   "uncertainties": [],
+   "plain_english": "And having appointed a well-disciplined, steadfast twice-born man as the northern witness."
+  },
+  {
+   "verse": 518,
+   "rows": [
+    {
+     "surface": "kṛtarakṣaḥ",
+     "gloss": "protection-performed",
+     "grounds": "practitioner has completed protective rites; compound",
+     "morph": "m.nom.sg (kṛta+rakṣa)"
+    },
+    {
+     "surface": "samārādhyo",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescribes worship of the fire",
+     "morph": "m.nom.sg (gerundive)"
+    },
+    {
+     "surface": "vahniḥ",
+     "gloss": "fire",
+     "grounds": "ritual fire to be worshipped",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krodhasamanvitaḥ",
+     "gloss": "endowed-with-anger",
+     "grounds": "describes the fire's fierce aspect; compound",
+     "morph": "m.nom.sg (krodha+samanvita)"
+    }
+   ],
+   "question": "In what state must the practitioner worship the ritual fire?",
+   "premises": [
+    "The practitioner has performed protective rites.",
+    "The fire must be worshipped.",
+    "The fire is endowed with anger."
+   ],
+   "inference": "Having performed protection, one should worship the fire endowed with anger.",
+   "uncertainties": [
+    "krodhasamanvitaḥ may describe the fire or the practitioner's attitude; taken as describing the fire."
+   ],
+   "plain_english": "Having performed protection, one should worship the fire, which is endowed with anger."
+  },
+  {
+   "verse": 519,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-placed",
+     "grounds": "preparatory act before offering",
+     "morph": "(indecl. abs.) √dā"
+    },
+    {
+     "surface": "siddhārthake",
+     "gloss": "white-mustard-seeds",
+     "grounds": "ritual substance used in oblation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "prescribed fire oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "savanadvayam",
+     "gloss": "two-oblations",
+     "grounds": "number of offering sessions; compound",
+     "morph": "n.acc.sg (savana+dvaya)"
+    }
+   ],
+   "question": "What substance and how many oblation sessions should the practitioner offer?",
+   "premises": [
+    "White mustard seeds are used.",
+    "The mantra-practitioner performs the offering.",
+    "Two oblation sessions are prescribed."
+   ],
+   "inference": "The mantra-practitioner should place white mustard seeds and perform two oblation sessions.",
+   "uncertainties": [],
+   "plain_english": "Having placed white mustard seeds, the mantra-practitioner should perform two oblation sessions."
+  },
+  {
+   "verse": 520,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescribed fire oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "sahasradvayam",
+     "gloss": "two-thousand",
+     "grounds": "number of offerings; compound",
+     "morph": "n.acc.sg (sahasra+dvaya)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative reference to this rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "visṛjya",
+     "gloss": "having-dismissed",
+     "grounds": "concluding act for the fire",
+     "morph": "(indecl. abs.) √visṛj"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "ritual fire to be dismissed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "balidānapūrvakam",
+     "gloss": "preceded-by-bali-offering",
+     "grounds": "dismissal follows a bali offering; compound",
+     "morph": "n.acc.sg (bali+dāna+pūrvaka)"
+    }
+   ],
+   "question": "How many offerings must be made before dismissing the ritual fire?",
+   "premises": [
+    "Two thousand offerings are prescribed here.",
+    "The wise practitioner performs them.",
+    "The fire is dismissed after a bali offering."
+   ],
+   "inference": "The wise one should make two thousand offerings here and then dismiss the fire after giving bali.",
+   "uncertainties": [],
+   "plain_english": "Here the wise one should offer two thousand oblations, and then dismiss the fire after first making a bali offering."
+  },
+  {
+   "verse": 521,
+   "rows": [
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "targets of the ritual action",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṅgham",
+     "gloss": "host",
+     "grounds": "collective body of enemies",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccaiḥ",
+     "gloss": "aloud",
+     "grounds": "manner of the terrifying sound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karavidhṛtaśilādaṇḍanirghoṣaghoram",
+     "gloss": "terrible-with-hand-held-stone-stick-sound",
+     "grounds": "describes the host as fearsome by clashing stone and stick; compound",
+     "morph": "m.acc.sg (kara+vidhṛta+śilā+daṇḍa+nirghoṣa+ghora)"
+    }
+   ],
+   "question": "What hostile target is confronted with a terrifying clashing sound?",
+   "premises": [
+    "A host of enemies is the target.",
+    "A loud sound is involved.",
+    "The sound comes from hand-held stone and stick and is terrible."
+   ],
+   "inference": "One confronts the host of enemies with a loud, terrible sound of stone and stick held in hand.",
+   "uncertainties": [
+    "The compound may describe the practitioner’s action or the enemy host’s terrifying noise; syntax is compressed."
+   ],
+   "plain_english": "The host of enemies, terrible with the loud clashing sound of stone and stick held in hand."
+  },
+  {
+   "verse": 522,
+   "rows": [
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "movement to a distance",
+     "morph": "(indecl. abs.) √gam"
+    },
+    {
+     "surface": "dūreṇa",
+     "gloss": "from-far",
+     "grounds": "indicates distance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "visṛjet",
+     "gloss": "should-discharge",
+     "grounds": "prescribed release of the ritual force",
+     "morph": "3.sg.opt.act √visṛj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks subsequent action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krodhānale",
+     "gloss": "in-anger-fire",
+     "grounds": "state or locus of wrathful power; compound",
+     "morph": "m.loc.sg (krodha+anala)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "posture or state of the practitioner",
+     "morph": "m.nom.sg (past-part.)"
+    }
+   ],
+   "question": "From what position and in what state should the practitioner discharge the ritual force?",
+   "premises": [
+    "The practitioner goes far away.",
+    "The discharge is performed while standing in the fire of anger.",
+    "The action follows the previous steps."
+   ],
+   "inference": "Having gone far away, one should discharge it while standing in the fire of anger.",
+   "uncertainties": [
+    "The object of visṛjet is implicit from context."
+   ],
+   "plain_english": "Having gone far away, one should then discharge it while standing in the fire of anger."
+  },
+  {
+   "verse": 523,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "purificatory action",
+     "morph": "(indecl. abs.) √snā"
+    },
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "emphasizes obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śucir",
+     "gloss": "pure",
+     "grounds": "required ritual state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "attainment of purity",
+     "morph": "(indecl. abs.) √bhū"
+    },
+    {
+     "surface": "kaṇṭhamātra",
+     "gloss": "neck-deep",
+     "grounds": "depth of immersion; compound",
+     "morph": "n.acc.sg (kaṇṭha+mātra)"
+    },
+    {
+     "surface": "udake",
+     "gloss": "in-water",
+     "grounds": "location of immersion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "posture during the rite",
+     "morph": "m.nom.sg (past-part.)"
+    }
+   ],
+   "question": "What purificatory posture in water is required before the next recitation?",
+   "premises": [
+    "Bathing and becoming pure are necessary.",
+    "The practitioner must stand in water.",
+    "The water must reach neck depth."
+   ],
+   "inference": "One must bathe, become pure, and stand neck-deep in water.",
+   "uncertainties": [],
+   "plain_english": "Having bathed and necessarily become pure, one should stand neck-deep in water."
+  },
+  {
+   "verse": 524,
+   "rows": [
+    {
+     "surface": "aṣṭottarasahasraṃ",
+     "gloss": "thousand-and-eight",
+     "grounds": "specified recitation count; compound",
+     "morph": "n.acc.sg (aṣṭa+uttara+sahasra)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "prescribed mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "anyac",
+     "gloss": "another",
+     "grounds": "additional quantity; sandhi form",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "additional count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "repeated for emphasis or total count",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What total mantra recitation counts are prescribed in this final instruction?",
+   "premises": [
+    "A recitation of one thousand and eight is prescribed.",
+    "Another hundred is added.",
+    "The word hundred is repeated."
+   ],
+   "inference": "One should recite one thousand and eight times and then another hundred and hundred.",
+   "uncertainties": [
+    "The repetition śataṃ śatam may indicate two hundred or emphatic repetition; the exact total is ambiguous."
+   ],
+   "plain_english": "One should recite one thousand and eight times, and another hundred, a hundred."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p209",
+ "items": [
+  {
+   "verse": 5225,
+   "rows": [
+    {
+     "surface": "dvātriṃnnṛttamātrāntaṃ",
+     "gloss": "extending-to-thirty-two-dance-measures",
+     "grounds": "Compound dvātriṃśat-nṛtta-mātrā-anta; qualifies the length.",
+     "morph": "compound.adj.n.acc.sg"
+    },
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "Nominal form indicating extent or length.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "Optative expressing prescribed measure.",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "satu",
+     "gloss": "that-however",
+     "grounds": "Fused form treated as a single token; functions as a connective.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pustakaḥ",
+     "gloss": "manuscript",
+     "grounds": "Subject whose prescribed length is stated.",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What prescribed length in dance-measure units must the manuscript have?",
+   "premises": [
+    "The manuscript is the subject whose length is prescribed.",
+    "The prescribed extent reaches thirty-two dance-measure units.",
+    "The optative verb expresses a normative requirement."
+   ],
+   "inference": "Therefore, the manuscript should have a length extending to thirty-two dance-measure units.",
+   "uncertainties": [
+    "The exact technical meaning of nṛttamātrā as a unit of measure is unclear from this verse alone.",
+    "The internal analysis of the fused token satu is uncertain."
+   ],
+   "plain_english": "The manuscript, however, should have a length extending to thirty-two dance-measure units."
+  }
+ ]
+}

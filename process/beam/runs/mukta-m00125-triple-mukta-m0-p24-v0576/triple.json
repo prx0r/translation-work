@@ -1,0 +1,1161 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 576,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpādya",
+     "gloss": "having-accomplished",
+     "grounds": "completing prior action",
+     "morph": "gerund (sam-pad)"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "ritual pedestal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-to-make",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative (kṛ-caus.)"
+    },
+    {
+     "surface": "śilpita",
+     "gloss": "crafted",
+     "grounds": "made by artisan",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "toṣaṇam",
+     "gloss": "pleasing",
+     "grounds": "act of satisfaction",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual action must follow the proper preparation of the pedestal?",
+   "premises": [
+    "The pedestal has been properly accomplished",
+    "A crafted pleasing act is prescribed",
+    "The officiant should cause it to be made"
+   ],
+   "inference": "After preparing the pedestal, one should arrange a crafted act of pleasing.",
+   "uncertainties": [
+    "The exact nature of śilpita toṣaṇam is context-dependent"
+   ],
+   "plain_english": "Thus, having prepared the pedestal, one should have a crafted act of pleasing performed."
+  },
+  {
+   "verse": 577,
+   "rows": [
+    {
+     "surface": "darbhaiḥ",
+     "gloss": "with-kuśa-grass",
+     "grounds": "ritual grass material",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "daṇḍam",
+     "gloss": "staff",
+     "grounds": "ritual pole",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samāveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "covering action",
+     "morph": "gerund (sam-ā-veṣṭ)"
+    },
+    {
+     "surface": "vṛṣakumbham",
+     "gloss": "bull-pot",
+     "grounds": "pot associated with bull",
+     "morph": "m.acc.sg (vṛṣa+kumbha)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭam",
+     "gloss": "cloth",
+     "grounds": "ritual fabric",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which ritual objects must be wrapped with kuśa grass in this procedure?",
+   "premises": [
+    "Kuśa grass is used as wrapping material",
+    "The staff is to be wrapped",
+    "The bull-pot and that cloth are included"
+   ],
+   "inference": "The staff, the bull-pot, and the cloth must be wrapped with kuśa grass.",
+   "uncertainties": [],
+   "plain_english": "Having wrapped the staff with kuśa grass, one should also wrap the bull-pot and that cloth."
+  },
+  {
+   "verse": 578,
+   "rows": [
+    {
+     "surface": "dhāmnaḥ",
+     "gloss": "of-shrine",
+     "grounds": "sacred abode",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pradakṣiṇa",
+     "gloss": "clockwise",
+     "grounds": "circumambulatory direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaśāt",
+     "gloss": "by-way-of",
+     "grounds": "according to manner",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-led",
+     "grounds": "carrying around",
+     "morph": "gerund (nī)"
+    },
+    {
+     "surface": "daṇḍasya",
+     "gloss": "of-staff",
+     "grounds": "ritual pole",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sannidhim",
+     "gloss": "near-presence",
+     "grounds": "proximity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the wrapped objects be carried in relation to the shrine and staff?",
+   "premises": [
+    "Movement follows the shrine's clockwise direction",
+    "The objects are led around accordingly",
+    "They are brought near the staff"
+   ],
+   "inference": "The objects should be carried clockwise around the shrine and brought near the staff.",
+   "uncertainties": [],
+   "plain_english": "Having led them clockwise around the shrine, one should bring them into the presence of the staff."
+  },
+  {
+   "verse": 579,
+   "rows": [
+    {
+     "surface": "koṇamadhye",
+     "gloss": "in-corner-middle",
+     "grounds": "central point of corner",
+     "morph": "n.loc.sg (koṇa+madhya)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmādīn",
+     "gloss": "dharma-and-others",
+     "grounds": "group beginning with dharma",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "adharmādīn",
+     "gloss": "adharma-and-others",
+     "grounds": "group beginning with adharma",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "ritual placement instruction",
+     "morph": "3.sg.act-optative (pra-kḷp)"
+    }
+   ],
+   "question": "What principles must be ritually arranged in the middle of the corner?",
+   "premises": [
+    "The location specified is the corner's middle",
+    "Dharma and related principles are included",
+    "Adharma and related principles are included"
+   ],
+   "inference": "One should arrange dharma and adharma with their associates in the middle of the corner.",
+   "uncertainties": [
+    "The full set of dharmādīn and adharmādīn is not enumerated here"
+   ],
+   "plain_english": "And in the middle of the corner, one should arrange dharma and the others, and adharma and the others."
+  },
+  {
+   "verse": 580,
+   "rows": [
+    {
+     "surface": "daṇḍe",
+     "gloss": "on-staff",
+     "grounds": "location of worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sadāśivam",
+     "gloss": "sadāśiva",
+     "grounds": "deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ceṣṭvā",
+     "gloss": "having-worshipped",
+     "grounds": "performing worship",
+     "morph": "gerund (yaj/iṣṭvā)"
+    },
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-fragrance-flowers-etc",
+     "grounds": "offerings",
+     "morph": "n.inst.pl (gandha+puṣpa+ādi)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential procedure",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How should Sadāśiva be worshipped upon the ritual staff?",
+   "premises": [
+    "Sadāśiva is worshipped on the staff",
+    "Fragrance, flowers, and other offerings are used",
+    "The worship follows a prescribed order"
+   ],
+   "inference": "Sadāśiva should be worshipped on the staff in due order with fragrance, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped Sadāśiva on the staff with fragrance, flowers, and so forth, in due order."
+  },
+  {
+   "verse": 581,
+   "rows": [
+    {
+     "surface": "trivargasahitā",
+     "gloss": "with-three-aims",
+     "grounds": "accompanied by dharma artha kāma",
+     "morph": "f.nom.sg (trivarga+sahita)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "refers to prior feminine entity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanokta",
+     "gloss": "stated-in-bathing",
+     "grounds": "prescribed in bathing rite",
+     "morph": "compound-member (snapana+ukta)"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-procedure",
+     "grounds": "following prescribed method",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "According to which ritual procedure should the accompanying three aims be observed?",
+   "premises": [
+    "She is accompanied by the three aims",
+    "A bathing rite prescribes the method",
+    "The procedure must be followed accordingly"
+   ],
+   "inference": "The observance accompanied by the three aims should follow the procedure stated in the bathing rite.",
+   "uncertainties": [
+    "The referent of sā is not explicit in this verse alone"
+   ],
+   "plain_english": "And she, accompanied by the three aims, should be treated according to the procedure stated in the bathing rite."
+  },
+  {
+   "verse": 582,
+   "rows": [
+    {
+     "surface": "kṣudra",
+     "gloss": "small",
+     "grounds": "minor size",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ghaṇṭām",
+     "gloss": "bell",
+     "grounds": "ritual bell",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samāyojya",
+     "gloss": "having-attached",
+     "grounds": "joining together",
+     "morph": "gerund (sam-ā-yuj)"
+    },
+    {
+     "surface": "śastramantram",
+     "gloss": "weapon-mantra",
+     "grounds": "mantra of the weapon",
+     "morph": "m.acc.sg (śastra+mantra)"
+    },
+    {
+     "surface": "anusmaran",
+     "gloss": "remembering",
+     "grounds": "mentally recollecting",
+     "morph": "m.nom.sg.act-present-participle (anu-smṛ)"
+    }
+   ],
+   "question": "What mental and physical actions accompany attaching the small bell?",
+   "premises": [
+    "A small bell is to be attached",
+    "The weapon-mantra must be remembered",
+    "Attachment and recollection occur together"
+   ],
+   "inference": "One should attach a small bell while remembering the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "Having attached a small bell, one should do so while remembering the weapon-mantra."
+  },
+  {
+   "verse": 583,
+   "rows": [
+    {
+     "surface": "vṛṣendrahṛdaye",
+     "gloss": "in-bull-lord-heart",
+     "grounds": "heart region of bull",
+     "morph": "n.loc.sg (vṛṣa+indra+hṛdaya)"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "ritual placement",
+     "morph": "gerund (ni-as)"
+    },
+    {
+     "surface": "gandhapuṣpādibhiḥ",
+     "gloss": "with-fragrance-flowers-etc",
+     "grounds": "offerings",
+     "morph": "n.inst.pl (gandha+puṣpa+ādi)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual worship instruction",
+     "morph": "3.sg.act-optative (yaj)"
+    }
+   ],
+   "question": "Where and with what offerings should worship be performed after placement?",
+   "premises": [
+    "Placement occurs in the bull-lord's heart",
+    "Fragrance, flowers, and other offerings are used",
+    "Worship is prescribed after placement"
+   ],
+   "inference": "After placing there, one should worship in the bull-lord's heart with fragrance, flowers, and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Having placed it in the heart of the bull-lord, one should worship with fragrance, flowers, and so forth."
+  },
+  {
+   "verse": 584,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "initially",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "spṛṣṭvā",
+     "gloss": "having-touched",
+     "grounds": "making contact",
+     "morph": "gerund (spṛś)"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "oneself",
+     "grounds": "by one's own action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyam",
+     "gloss": "another",
+     "grounds": "another person",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prerayed",
+     "gloss": "one-should-urge",
+     "grounds": "prompting action",
+     "morph": "3.sg.act-optative (pra-īr-caus.)"
+    },
+    {
+     "surface": "rohaṇāya",
+     "gloss": "for-mounting",
+     "grounds": "purpose of ascent",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who may initiate the mounting action after the initial touch?",
+   "premises": [
+    "One first touches it oneself",
+    "Another person may be urged",
+    "The purpose is mounting"
+   ],
+   "inference": "After touching it oneself, one may urge another to mount, or do so oneself.",
+   "uncertainties": [
+    "The exact referent of rohaṇāya depends on ritual context"
+   ],
+   "plain_english": "First having touched it oneself, one should urge another to mount, or do so oneself."
+  },
+  {
+   "verse": 585,
+   "rows": [
+    {
+     "surface": "paṭordhvage",
+     "gloss": "on-cloth-top",
+     "grounds": "upper part of cloth",
+     "morph": "m.loc.sg (paṭa+ūrdhvaga)"
+    },
+    {
+     "surface": "vṛṣeḥ",
+     "gloss": "of-bull",
+     "grounds": "the bull",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rājñaḥ",
+     "gloss": "of-king",
+     "grounds": "the ruler",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jayo",
+     "gloss": "victory",
+     "grounds": "triumph",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devāditṛptaye",
+     "gloss": "for-gods-satisfaction",
+     "grounds": "pleasing gods and others",
+     "morph": "f.dat.sg (deva+ādi+tṛpti)"
+    }
+   ],
+   "question": "What outcome is associated with the bull's position on the cloth's top?",
+   "premises": [
+    "The bull is on the top of the cloth",
+    "Victory for the king is indicated",
+    "The result serves the satisfaction of gods and others"
+   ],
+   "inference": "If the bull is on the top of the cloth, it signifies the king's victory and satisfaction of the gods.",
+   "uncertainties": [],
+   "plain_english": "If the bull is on the top of the cloth, it brings victory to the king and satisfaction to the gods and others."
+  },
+  {
+   "verse": 586,
+   "rows": [
+    {
+     "surface": "kṣemā",
+     "gloss": "welfare",
+     "grounds": "security",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ārogya",
+     "gloss": "health",
+     "grounds": "freedom from disease",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jayāḥ",
+     "gloss": "victories",
+     "grounds": "triumphs",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puṣṭiḥ",
+     "gloss": "nourishment",
+     "grounds": "prosperity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "stated",
+     "morph": "n.nom.sg.past-passive-participle (īr)"
+    }
+   ],
+   "question": "What sequential results are declared from the ritual signs?",
+   "premises": [
+    "Welfare, health, victories, and nourishment are named",
+    "These occur in order",
+    "They are declared as fruits"
+   ],
+   "inference": "The declared fruits in sequence are welfare, health, victories, and nourishment.",
+   "uncertainties": [
+    "The specific signs corresponding to each fruit are implied by context"
+   ],
+   "plain_english": "Welfare, health, victories, and nourishment are declared as the fruits in due order."
+  },
+  {
+   "verse": 587,
+   "rows": [
+    {
+     "surface": "vāyau",
+     "gloss": "in-wind-direction",
+     "grounds": "northwest or wind quarter",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhayam",
+     "gloss": "fear",
+     "grounds": "danger",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "one should recognize",
+     "morph": "3.sg.act-optative (vi-jñā)"
+    },
+    {
+     "surface": "pucche",
+     "gloss": "in-tail",
+     "grounds": "tail position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would occur",
+     "morph": "3.sg.act-optative (bhū)"
+    }
+   ],
+   "question": "What ominous result should be recognized from specific positions of the bull?",
+   "premises": [
+    "A position in the wind quarter indicates fear",
+    "A position at the tail gives a similar result",
+    "One should recognize this outcome"
+   ],
+   "inference": "If the bull is in the wind quarter or at the tail, one should know that fear would be the result.",
+   "uncertainties": [
+    "The exact spatial referent of pucche in this ritual layout is contextual"
+   ],
+   "plain_english": "If it is in the wind quarter, one should know there is fear; likewise, if at the tail, such would be the result."
+  },
+  {
+   "verse": 588,
+   "rows": [
+    {
+     "surface": "doṣaśāntim",
+     "gloss": "fault-pacification",
+     "grounds": "removal of defect",
+     "morph": "f.acc.sg (doṣa+śānti)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "ritual remedy instruction",
+     "morph": "3.sg.act-optative (kṛ)"
+    },
+    {
+     "surface": "bahurūpam",
+     "gloss": "many-formed",
+     "grounds": "mantra or deity epithet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anusmaran",
+     "gloss": "remembering",
+     "grounds": "mentally recollecting",
+     "morph": "m.nom.sg.act-present-participle (anu-smṛ)"
+    }
+   ],
+   "question": "What remedial action must be taken when an inauspicious sign appears?",
+   "premises": [
+    "An inauspicious result has occurred",
+    "Pacification of the fault is required",
+    "The many-formed one must be remembered"
+   ],
+   "inference": "When a fault appears, one should perform its pacification while remembering the many-formed one.",
+   "uncertainties": [
+    "bahurūpam may refer to a specific mantra or deity form"
+   ],
+   "plain_english": "Then one should perform the pacification of the fault while remembering the many-formed one."
+  },
+  {
+   "verse": 589,
+   "rows": [
+    {
+     "surface": "vṛṣakumbhasthatoyena",
+     "gloss": "with-bull-pot-water",
+     "grounds": "water situated in bull-pot",
+     "morph": "n.inst.sg (vṛṣa+kumbha+stha+toya)"
+    },
+    {
+     "surface": "prokṣyet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "ritual sprinkling",
+     "morph": "3.sg.act-optative (pra-ukṣ)"
+    },
+    {
+     "surface": "daṇḍamūlakam",
+     "gloss": "staff-base",
+     "grounds": "root or base of staff",
+     "morph": "n.acc.sg (daṇḍa+mūlaka)"
+    }
+   ],
+   "question": "What substance should be used to sprinkle the base of the staff?",
+   "premises": [
+    "Water is taken from the bull-pot",
+    "The staff base is the target",
+    "Sprinkling is prescribed"
+   ],
+   "inference": "One should sprinkle the base of the staff with water from the bull-pot.",
+   "uncertainties": [],
+   "plain_english": "One should sprinkle the base of the staff with the water from the bull-pot."
+  },
+  {
+   "verse": 590,
+   "rows": [
+    {
+     "surface": "tattoyaiḥ",
+     "gloss": "with-that-water",
+     "grounds": "same water as before",
+     "morph": "n.inst.pl (tad+toya)"
+    },
+    {
+     "surface": "dalāna",
+     "gloss": "petals",
+     "grounds": "parts or leaves",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "number eight",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "ritual sprinkling",
+     "morph": "3.sg.act-optative (pra-ukṣ)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "ritual preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must sprinkle the eight petals and in what manner?",
+   "premises": [
+    "The same water is used",
+    "Eight petals are to be sprinkled",
+    "The teacher performs the act in order"
+   ],
+   "inference": "The teacher should sprinkle the eight petals in order with that water.",
+   "uncertainties": [
+    "dalāna may refer to petals or sections depending on ritual object"
+   ],
+   "plain_english": "The teacher should sprinkle the eight petals in order with that water."
+  },
+  {
+   "verse": 591,
+   "rows": [
+    {
+     "surface": "puṇyāham",
+     "gloss": "auspicious-day-rite",
+     "grounds": "benedictory declaration",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "starting from",
+     "morph": "gerund (sam-ā-rabh)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "up to",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivedyadānakam",
+     "gloss": "food-offering-giving",
+     "grounds": "act of giving naivedya",
+     "morph": "n.acc.sg (naivedya+dānaka)"
+    }
+   ],
+   "question": "What ritual span is defined from the auspicious declaration to the food offering?",
+   "premises": [
+    "The sequence begins with the auspicious-day rite",
+    "It continues up to a specific act",
+    "That act is the giving of food offering"
+   ],
+   "inference": "The ritual period extends from the auspicious-day rite until the giving of the food offering.",
+   "uncertainties": [],
+   "plain_english": "Beginning with that auspicious-day rite, continuing until the giving of the food offering."
+  },
+  {
+   "verse": 592,
+   "rows": [
+    {
+     "surface": "caturdiṅnartanam",
+     "gloss": "four-direction-dance",
+     "grounds": "dance in four quarters",
+     "morph": "n.acc.sg (catur+diś+nartana)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-optative (kṛ)"
+    },
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "with distinction",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śuddhanartanam",
+     "gloss": "pure-dance",
+     "grounds": "unmixed dance",
+     "morph": "n.acc.sg (śuddha+nartana)"
+    }
+   ],
+   "question": "What kind of dance should be performed especially during this ritual phase?",
+   "premises": [
+    "Dance in the four directions is prescribed",
+    "A pure dance is emphasized",
+    "The performance is especially required"
+   ],
+   "inference": "One should perform dance in the four directions, especially a pure dance.",
+   "uncertainties": [],
+   "plain_english": "One should perform dance in the four directions, especially a pure dance."
+  },
+  {
+   "verse": 593,
+   "rows": [
+    {
+     "surface": "ekakālam",
+     "gloss": "one-time",
+     "grounds": "once",
+     "morph": "n.acc.sg (eka+kāla)"
+    },
+    {
+     "surface": "dvikālam",
+     "gloss": "two-times",
+     "grounds": "twice",
+     "morph": "n.acc.sg (dvi+kāla)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikālam",
+     "gloss": "three-times",
+     "grounds": "thrice",
+     "morph": "n.acc.sg (tri+kāla)"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "one-should-worship",
+     "grounds": "ritual worship instruction",
+     "morph": "3.sg.act-optative (pūj)"
+    },
+    {
+     "surface": "vṛṣam",
+     "gloss": "bull",
+     "grounds": "ritual bull",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How many times may the bull be worshipped in this rite?",
+   "premises": [
+    "Worship of the bull is prescribed",
+    "One time is an option",
+    "Two or three times are alternatives"
+   ],
+   "inference": "One should worship the bull once, twice, or three times.",
+   "uncertainties": [],
+   "plain_english": "One should worship the bull once, twice, or three times."
+  },
+  {
+   "verse": 594,
+   "rows": [
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akālamṛtyuḥ",
+     "gloss": "untimely-death",
+     "grounds": "death at wrong time",
+     "morph": "m.nom.sg (akāla+mṛtyu)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "exists",
+     "morph": "3.sg.act-present (as)"
+    },
+    {
+     "surface": "nā",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alakṣmīḥ",
+     "gloss": "misfortune",
+     "grounds": "inauspiciousness",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāpakṛt",
+     "gloss": "sin-doer",
+     "grounds": "one who commits sin",
+     "morph": "m.nom.sg (pāpa+kṛt)"
+    },
+    {
+     "surface": "svapi",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective benefits are said to prevail in that ritual context?",
+   "premises": [
+    "Untimely death is absent there",
+    "Misfortune is absent there",
+    "Even a sin-doer is included in this protection"
+   ],
+   "inference": "In that context there is no untimely death and no misfortune, even for a sin-doer.",
+   "uncertainties": [
+    "The scope of protection for pāpakṛt is stated broadly"
+   ],
+   "plain_english": "There is no untimely death there, nor misfortune, not even for a sinner."
+  },
+  {
+   "verse": 595,
+   "rows": [
+    {
+     "surface": "viparītā",
+     "gloss": "reversed",
+     "grounds": "perverted or contrary",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matayo",
+     "gloss": "minds",
+     "grounds": "thoughts or intentions",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rogiṇām",
+     "gloss": "of-sick",
+     "grounds": "of diseased persons",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyasā",
+     "gloss": "mostly",
+     "grounds": "for the most part",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What mental condition is prevented even among the sick by this rite?",
+   "premises": [
+    "Reversed minds are negated",
+    "The sick are specifically mentioned",
+    "This holds for the most part"
+   ],
+   "inference": "Even the sick generally do not have perverted minds in that context.",
+   "uncertainties": [],
+   "plain_english": "Even the minds of the sick are not, for the most part, perverted."
+  },
+  {
+   "verse": 596,
+   "rows": [
+    {
+     "surface": "śāntāni",
+     "gloss": "pacified",
+     "grounds": "calmed",
+     "morph": "n.nom.pl.past-passive-participle (śam)"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "entire",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāpāni",
+     "gloss": "sins",
+     "grounds": "evil deeds",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "payasvinyaḥ",
+     "gloss": "milk-bearing",
+     "grounds": "yielding milk",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "payobhṛtaḥ",
+     "gloss": "milk-carrying",
+     "grounds": "full of milk",
+     "morph": "f.nom.pl (payas+bhṛt)"
+    }
+   ],
+   "question": "What dual outcome of pacification and abundance results from the ritual?",
+   "premises": [
+    "All sins become pacified",
+    "Milk-bearing beings are present",
+    "They are full of milk"
+   ],
+   "inference": "The rite results in the pacification of all sins and abundance of milk-bearing cattle.",
+   "uncertainties": [
+    "The subjects of payasvinyaḥ and payobhṛtaḥ are implied as cows or cattle"
+   ],
+   "plain_english": "All sins are pacified, and the milk-bearing ones are full of milk."
+  },
+  {
+   "verse": 597,
+   "rows": [
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "attains",
+     "morph": "3.sg.act-present (pra-āp)"
+    },
+    {
+     "surface": "pāpanirmokṣam",
+     "gloss": "sin-release",
+     "grounds": "liberation from sin",
+     "morph": "m.acc.sg (pāpa+nirmokṣa)"
+    },
+    {
+     "surface": "makhakartuḥ",
+     "gloss": "of-sacrifice-performer",
+     "grounds": "one who performs the rite",
+     "morph": "m.gen.sg (makha+kartṛ)"
+    },
+    {
+     "surface": "kuladvayam",
+     "gloss": "two-families",
+     "grounds": "both lineages",
+     "morph": "n.nom.sg (kula+dvaya)"
+    }
+   ],
+   "question": "Who gains release from sin through the performance of this sacrifice?",
+   "premises": [
+    "Release from sin is obtained",
+    "The sacrifice performer is involved",
+    "Both families benefit"
+   ],
+   "inference": "The two families of the sacrifice performer obtain release from sin.",
+   "uncertainties": [
+    "kuladvayam is traditionally understood as maternal and paternal families"
+   ],
+   "plain_english": "The two families of the performer of the sacrifice obtain release from sin."
+  },
+  {
+   "verse": 598,
+   "rows": [
+    {
+     "surface": "sthaṇḍiladvitayam",
+     "gloss": "two-altars",
+     "grounds": "pair of ritual platforms",
+     "morph": "n.acc.sg (sthaṇḍila+dvita ya)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-optative (kṛ)"
+    },
+    {
+     "surface": "devadevasya",
+     "gloss": "of-god-of-gods",
+     "grounds": "supreme deity",
+     "morph": "m.gen.sg (deva+deva)"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "nearby",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should the two ritual altars be prepared in this context?",
+   "premises": [
+    "Two altars are to be made",
+    "The location is specified",
+    "They are placed in the presence of the god of gods"
+   ],
+   "inference": "One should make two altars in the presence of the god of gods.",
+   "uncertainties": [],
+   "plain_english": "One should make two altars in the presence of the god of gods."
+  },
+  {
+   "verse": 599,
+   "rows": [
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "on one side",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement",
+     "morph": "3.sg.act-optative (vi-ni-as)"
+    },
+    {
+     "surface": "śūlam",
+     "gloss": "trident",
+     "grounds": "ritual weapon emblem",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bherīm",
+     "gloss": "drum",
+     "grounds": "ritual kettle-drum",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatsannidhau",
+     "gloss": "in-its-presence",
+     "grounds": "near that",
+     "morph": "m.loc.sg (tad+sannidhi)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual placement",
+     "morph": "3.sg.act-optative (ni-as)"
+    }
+   ],
+   "question": "How should the trident and drum be positioned on the prepared altars?",
+   "premises": [
+    "The trident is placed in one location",
+    "The drum is placed near it",
+    "Both placements are ritually prescribed"
+   ],
+   "inference": "One should place the trident in one place and place the drum near it.",
+   "uncertainties": [],
+   "plain_english": "One should place the trident in one place and place the drum near it."
+  }
+ ]
+}

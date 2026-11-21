@@ -1,0 +1,941 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2426,
+   "rows": [
+    {
+     "surface": "padāni",
+     "gloss": "words",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vighnagāyatryāḥ",
+     "gloss": "of-obstacle-gayatri",
+     "grounds": "compound genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "padādhvānye",
+     "gloss": "padādhvāni",
+     "grounds": "fused form",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the obstacle-gayatri's word-paths handled relative to the earlier procedure?",
+   "premises": [
+    "The verse names obstacle-gayatri words.",
+    "It says they are handled as before."
+   ],
+   "inference": "The earlier word-path procedure applies here too.",
+   "uncertainties": [
+    "Exact sandhi of padādhvānye is not expanded."
+   ],
+   "plain_english": "The words of the obstacle-gayatri are treated like the earlier word-paths."
+  },
+  {
+   "verse": 2427,
+   "rows": [
+    {
+     "surface": "mantrapādoditā",
+     "gloss": "mantra-padas",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "pronoun",
+     "morph": "pron.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrā",
+     "gloss": "mantras",
+     "grounds": "plural noun",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vighneśvarasya",
+     "gloss": "of-obstacle-lord",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantras of the obstacle-lord are distinguished from the mantra-padas?",
+   "premises": [
+    "The verse distinguishes mantra-padas.",
+    "It names mantras of the obstacle-lord."
+   ],
+   "inference": "The obstacle-lord's mantras are set apart from the mantra-padas.",
+   "uncertainties": [
+    "The exact relation of tu is contextual."
+   ],
+   "plain_english": "The mantra-padas and the obstacle-lord's mantras are distinguished."
+  },
+  {
+   "verse": 2428,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāpyās",
+     "gloss": "are-to-be-established",
+     "grounds": "passive participle",
+     "morph": "part.pass.nom.pl"
+    },
+    {
+     "surface": "tanmantrā",
+     "gloss": "those-mantras",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "varaṇādibhiḥ",
+     "gloss": "with-covering-etc",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How are those mantras to be established?",
+   "premises": [
+    "The mantras are to be established.",
+    "Covering and related rites are used."
+   ],
+   "inference": "Those mantras are established with covering and similar rites.",
+   "uncertainties": [
+    "varaṇādibhiḥ includes unspecified further rites."
+   ],
+   "plain_english": "Those mantras are to be established with covering and the rest."
+  },
+  {
+   "verse": 2429,
+   "rows": [
+    {
+     "surface": "triguṇārkādibimbeśa",
+     "gloss": "in-three-guna-sun-etc-image",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmaviṣṇvīśapaṅkaje",
+     "gloss": "brahma-vishnu-ishvara-lotus",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which images and lotus are the rites situated?",
+   "premises": [
+    "The verse names a three-guna sun image.",
+    "It names a brahma-vishnu-ishvara lotus."
+   ],
+   "inference": "The rite is situated in those named images and lotus.",
+   "uncertainties": [
+    "The exact ritual action is not stated."
+   ],
+   "plain_english": "The rites are situated in the three-guna sun image and the brahma-vishnu-ishvara lotus."
+  },
+  {
+   "verse": 2430,
+   "rows": [
+    {
+     "surface": "mūrtipaiścāpi",
+     "gloss": "images-too",
+     "grounds": "compound",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthakam",
+     "gloss": "fourth",
+     "grounds": "ordinal",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What third and fourth items concern the images?",
+   "premises": [
+    "Images are mentioned.",
+    "Third and fourth items are named."
+   ],
+   "inference": "The images involve a third and a fourth item.",
+   "uncertainties": [
+    "The exact items are not specified."
+   ],
+   "plain_english": "The images also involve third and fourth items."
+  },
+  {
+   "verse": 2431,
+   "rows": [
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + bhū"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vighnapāriṣadāya",
+     "gloss": "for-obstacle-attendant",
+     "grounds": "dative",
+     "morph": "n.dat.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What becomes due at the end for the obstacle attendant?",
+   "premises": [
+    "Something becomes due at the end.",
+    "It is for the obstacle attendant."
+   ],
+   "inference": "An end rite becomes due for the obstacle attendant.",
+   "uncertainties": [
+    "The exact rite is not named."
+   ],
+   "plain_english": "At the end, something becomes due for the obstacle attendant."
+  },
+  {
+   "verse": 2432,
+   "rows": [
+    {
+     "surface": "gaṇādhīśaṃ",
+     "gloss": "ganadhipa",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sthirādyairatha",
+     "gloss": "with-sthira-etc",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saptabhiḥ",
+     "gloss": "with-seven",
+     "grounds": "numeral instrumental",
+     "morph": "num.inst.pl"
+    }
+   ],
+   "question": "With what limbs is the gaṇādhīśa established?",
+   "premises": [
+    "The gaṇādhīśa is named.",
+    "Seven limbs beginning with sthira are used."
+   ],
+   "inference": "The gaṇādhīśa is established with seven limbs beginning with sthira.",
+   "uncertainties": [
+    "The full list of seven limbs is not given."
+   ],
+   "plain_english": "The gaṇādhīśa is established with seven limbs beginning with sthira."
+  },
+  {
+   "verse": 2433,
+   "rows": [
+    {
+     "surface": "aṅgair",
+     "gloss": "limbs",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "gaṇeśagāyatryā",
+     "gloss": "of-ganesha-gayatri",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "gaṇānāṃ",
+     "gloss": "of-ganas",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "tvādinā",
+     "gloss": "tvādi",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the gaṇas' limbs connected to the gaṇeśa-gāyatrī?",
+   "premises": [
+    "Limbs are used.",
+    "The gaṇeśa-gāyatrī and gaṇas are named."
+   ],
+   "inference": "The gaṇas' limbs are connected to the gaṇeśa-gāyatrī.",
+   "uncertainties": [
+    "tvādinā's exact referent is unclear."
+   ],
+   "plain_english": "The limbs are used with the gaṇeśa-gāyatrī and the gaṇas, then tvādi."
+  },
+  {
+   "verse": 2434,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "abs + hu"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-led",
+     "grounds": "absolutive",
+     "morph": "abs + nī"
+    },
+    {
+     "surface": "dinatrayam",
+     "gloss": "three-days",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What is done everywhere over three days?",
+   "premises": [
+    "Offering and leading are performed.",
+    "The period is three days."
+   ],
+   "inference": "Offering and leading are performed everywhere for three days.",
+   "uncertainties": [
+    "The object led is not specified."
+   ],
+   "plain_english": "Having offered and led, the rite continues everywhere for three days."
+  },
+  {
+   "verse": 2435,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs + kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pariṣecanāt",
+     "gloss": "sprinkling",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "What rite is done with sprinkling?",
+   "premises": [
+    "A rite is done.",
+    "Sprinkling is mentioned."
+   ],
+   "inference": "The rite is performed with sprinkling.",
+   "uncertainties": [
+    "The exact rite is not named."
+   ],
+   "plain_english": "Having done the rite, sprinkling is also performed."
+  },
+  {
+   "verse": 2436,
+   "rows": [
+    {
+     "surface": "kumbhalokeśadvārapāṃs",
+     "gloss": "pot-world-gatekeepers",
+     "grounds": "compound accusative",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "toraṇadhvajān",
+     "gloss": "torana-flags",
+     "grounds": "compound accusative",
+     "morph": "n.acc.pl.m"
+    }
+   ],
+   "question": "Which gatekeepers and flags are set up?",
+   "premises": [
+    "Pot-world gatekeepers are named.",
+    "Torana flags are named."
+   ],
+   "inference": "The pot-world gatekeepers and torana flags are set up.",
+   "uncertainties": [
+    "The exact placement is not stated."
+   ],
+   "plain_english": "The pot-world gatekeepers and torana flags are set up."
+  },
+  {
+   "verse": 2437,
+   "rows": [
+    {
+     "surface": "vikīrya",
+     "gloss": "having-scattered",
+     "grounds": "absolutive",
+     "morph": "abs + vikṛ"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "locative",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāvibhavam",
+     "gloss": "according-to-capacity",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcanam",
+     "gloss": "worship",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How is worship performed at night?",
+   "premises": [
+    "Worship is performed.",
+    "It is according to capacity."
+   ],
+   "inference": "Worship is performed at night according to capacity.",
+   "uncertainties": [
+    "The scattered substance is not specified."
+   ],
+   "plain_english": "Having scattered, worship is performed at night according to capacity."
+  },
+  {
+   "verse": 2438,
+   "rows": [
+    {
+     "surface": "nityotsave",
+     "gloss": "daily-festival",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "gaṇeśasya",
+     "gloss": "of-ganesha",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "dvāḥsthāḥ",
+     "gloss": "door-keepers",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "kuṇḍodarādayaḥ",
+     "gloss": "kundodara-etc",
+     "grounds": "compound nominative",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Who are the door-keepers in gaṇeśa's daily festival?",
+   "premises": [
+    "The daily festival of gaṇeśa is named.",
+    "Door-keepers are named."
+   ],
+   "inference": "Kuṇḍodara and others are the door-keepers in gaṇeśa's daily festival.",
+   "uncertainties": [
+    "The full list after ādayaḥ is not given."
+   ],
+   "plain_english": "In gaṇeśa's daily festival, Kuṇḍodara and others are the door-keepers."
+  },
+  {
+   "verse": 2439,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vāyau",
+     "gloss": "vayu",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tāro",
+     "gloss": "tara",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "nāge",
+     "gloss": "in-naga",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍikā",
+     "gloss": "caṇḍikā",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "Which deities are placed in the west and nāga directions?",
+   "premises": [
+    "The west and nāga directions are named.",
+    "Tāra and caṇḍikā are named."
+   ],
+   "inference": "Tāra and caṇḍikā are placed in the west and nāga directions.",
+   "uncertainties": [
+    "The exact pairing is not fully explicit."
+   ],
+   "plain_english": "In the west and nāga directions are Tāra and Caṇḍikā."
+  },
+  {
+   "verse": 2440,
+   "rows": [
+    {
+     "surface": "gaṇacaṇḍaśca",
+     "gloss": "ganachanda",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etān",
+     "gloss": "those",
+     "grounds": "pronoun accusative",
+     "morph": "pron.acc.pl"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "abs + saṃpūj"
+    },
+    {
+     "surface": "vikired",
+     "gloss": "scatter",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + vikṛ"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What is done after worshipping those gaṇas there?",
+   "premises": [
+    "Those gaṇas are worshipped there.",
+    "An offering is scattered."
+   ],
+   "inference": "After worshipping those gaṇas there, the offering is scattered.",
+   "uncertainties": [
+    "The scattered offering's contents are not specified."
+   ],
+   "plain_english": "Having worshipped those gaṇas there, one scatters the offering."
+  },
+  {
+   "verse": 2441,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāraśrīr",
+     "gloss": "door-shri",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "madhyagopari",
+     "gloss": "middle-above",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where is the door-śrī placed?",
+   "premises": [
+    "The door-śrī is named.",
+    "Above and middle-above are named."
+   ],
+   "inference": "The door-śrī is placed above or in the middle-above position.",
+   "uncertainties": [
+    "The exact placement is ambiguous."
+   ],
+   "plain_english": "The door-śrī is placed above or in the middle-above position."
+  },
+  {
+   "verse": 2442,
+   "rows": [
+    {
+     "surface": "madhyahārāyāma",
+     "gloss": "middle-garland-measure",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "eight-directions",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.f"
+    },
+    {
+     "surface": "gaṇeśvarāḥ",
+     "gloss": "ganesha-lords",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Where are the gaṇeśvaras placed by middle-garland measure?",
+   "premises": [
+    "The middle-garland measure is named.",
+    "Eight directions are named."
+   ],
+   "inference": "The gaṇeśvaras are placed in the eight directions by middle-garland measure.",
+   "uncertainties": [
+    "The exact measure is not explained."
+   ],
+   "plain_english": "By middle-garland measure, the gaṇeśvaras are placed in the eight directions."
+  },
+  {
+   "verse": 2443,
+   "rows": [
+    {
+     "surface": "virūpākṣo",
+     "gloss": "virupaksha",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vikaṭo",
+     "gloss": "vikata",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bahubhakṣyabhuk",
+     "gloss": "much-food-eater",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which gaṇa leaders are named here?",
+   "premises": [
+    "Virūpākṣa is named.",
+    "Vikaṭa and a much-food-eater are named."
+   ],
+   "inference": "Virūpākṣa, Vikaṭa, and a much-food-eater are named gaṇa leaders.",
+   "uncertainties": [
+    "Their exact roles are not stated."
+   ],
+   "plain_english": "Virūpākṣa, Vikaṭa, and the much-food-eater are named."
+  },
+  {
+   "verse": 2444,
+   "rows": [
+    {
+     "surface": "prāgādi",
+     "gloss": "east-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "gajavaktraśca",
+     "gloss": "elephant-faced",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vighneśagaṇanāyakau",
+     "gloss": "obstacle-gana-leaders",
+     "grounds": "compound nominative dual",
+     "morph": "n.nom.du.m"
+    }
+   ],
+   "question": "Which obstacle-gaṇa leaders are named from the east onward?",
+   "premises": [
+    "The east and following directions are named.",
+    "Elephant-faced leaders are named."
+   ],
+   "inference": "Elephant-faced obstacle-gaṇa leaders are named from the east onward.",
+   "uncertainties": [
+    "The full directional list is not given."
+   ],
+   "plain_english": "From the east onward, elephant-faced obstacle-gaṇa leaders are named."
+  },
+  {
+   "verse": 2445,
+   "rows": [
+    {
+     "surface": "nāgadanto",
+     "gloss": "naga-tusk",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "rudravaktro",
+     "gloss": "rudra-faced",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dbhavastataḥ",
+     "gloss": "born-thence",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Which born-thence gaṇa leaders are named?",
+   "premises": [
+    "Nāgadanta is named.",
+    "Rudravaktra and a born-thence leader are named."
+   ],
+   "inference": "Nāgadanta, Rudravaktra, and a born-thence leader are named.",
+   "uncertainties": [
+    "The exact birth source is not specified."
+   ],
+   "plain_english": "Nāgadanta, Rudravaktra, and the born-thence leader are named."
+  },
+  {
+   "verse": 2446,
+   "rows": [
+    {
+     "surface": "nityotsavavidhistulyas",
+     "gloss": "daily-festival-rite-similar",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "tulyaścaiṣa",
+     "gloss": "similar",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "mahotsave",
+     "gloss": "great-festival",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "How does the great festival compare to the daily festival rite?",
+   "premises": [
+    "The daily festival rite is named.",
+    "The great festival is named."
+   ],
+   "inference": "The great festival rite is similar to the daily festival rite.",
+   "uncertainties": [
+    "The exact similarities are not listed."
+   ],
+   "plain_english": "The great festival rite is similar to the daily festival rite."
+  },
+  {
+   "verse": 2447,
+   "rows": [
+    {
+     "surface": "yathāpūrvaṃ",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇān",
+     "gloss": "ganas",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "adjective accusative",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "having-invoked",
+     "grounds": "absolutive",
+     "morph": "abs + āvah"
+    },
+    {
+     "surface": "vikired",
+     "gloss": "scatter",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + vikṛ"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What is done after invoking all the gaṇas as before?",
+   "premises": [
+    "All gaṇas are invoked as before.",
+    "An offering is scattered."
+   ],
+   "inference": "After invoking all the gaṇas as before, the offering is scattered.",
+   "uncertainties": [
+    "The offering's contents are not specified."
+   ],
+   "plain_english": "As before, all gaṇas are invoked and the offering is scattered."
+  },
+  {
+   "verse": 2448,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "daśadiśāsvapi",
+     "gloss": "ten-directions",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.f"
+    }
+   ],
+   "question": "Where outside are the ten directions involved?",
+   "premises": [
+    "Outside is named.",
+    "Ten directions are named."
+   ],
+   "inference": "The ten directions are involved outside.",
+   "uncertainties": [
+    "The exact action is not stated."
+   ],
+   "plain_english": "Outside, the ten directions are involved."
+  },
+  {
+   "verse": 2449,
+   "rows": [
+    {
+     "surface": "sārvabhaumaṃ",
+     "gloss": "universal",
+     "grounds": "adjective accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "supratīkaṃ",
+     "gloss": "good-trunk",
+     "grounds": "adjective accusative",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dikkramāt",
+     "gloss": "direction-order",
+     "grounds": "ablative",
+     "morph": "n.abl.sg.m"
+    }
+   ],
+   "question": "What universal good-trunk item is arranged by direction-order?",
+   "premises": [
+    "A universal item is named.",
+    "A good-trunk item is named."
+   ],
+   "inference": "A universal good-trunk item is arranged by direction-order.",
+   "uncertainties": [
+    "The exact item is not specified."
+   ],
+   "plain_english": "The universal good-trunk item is arranged by direction-order."
+  }
+ ]
+}

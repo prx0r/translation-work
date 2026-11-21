@@ -1,0 +1,1391 @@
+{
+ "song": "mukta-m0-p75",
+ "items": [
+  {
+   "verse": 1851,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "in-all",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vedeṣu",
+     "gloss": "vedas",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dharmaḥ",
+     "gloss": "merit",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "in-all",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dāneṣu",
+     "gloss": "gifts",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What merit and fruit are said to be present in all vedas and gifts?",
+   "premises": [
+    "all vedas contain merit",
+    "all gifts contain fruit"
+   ],
+   "inference": "the verse equates universal merit and fruit across vedas and gifts",
+   "uncertainties": [
+    "exact syntactic relation of yat clauses"
+   ],
+   "plain_english": "All vedas contain merit and all gifts contain fruit."
+  },
+  {
+   "verse": 1852,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "koṭi",
+     "gloss": "crore",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "guṇitaṃ",
+     "gloss": "multiplied",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pāṭhāt",
+     "gloss": "from-recitation",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "would-obtain",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What multiplied fruit does a man obtain from one recitation?",
+   "premises": [
+    "that fruit is multiplied by crore",
+    "one recitation yields it"
+   ],
+   "inference": "a single recitation gives crore-multiplied fruit",
+   "uncertainties": [
+    "whether sakṛt modifies pāṭha or labha"
+   ],
+   "plain_english": "A man obtains that fruit multiplied by a crore from one recitation."
+  },
+  {
+   "verse": 1853,
+   "rows": [
+    {
+     "surface": "śrutvā",
+     "gloss": "having-heard",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ati",
+     "gloss": "strength",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "balavān",
+     "gloss": "possessing",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vān",
+     "gloss": "possessing",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sampadaḥ",
+     "gloss": "prosperity",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What qualities are gained by hearing this hymn?",
+   "premises": [
+    "hearing makes one strong",
+    "hearing brings son and wealth"
+   ],
+   "inference": "the hymn's hearing confers strength, progeny, and prosperity",
+   "uncertainties": [
+    "compound boundaries in mahā-ati-balavān"
+   ],
+   "plain_english": "Having heard it, one becomes very strong and gains sons and wealth."
+  },
+  {
+   "verse": 1854,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāsyati",
+     "gloss": "will-go",
+     "grounds": "future",
+     "morph": "3.sg.act.fut"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stava",
+     "gloss": "of-hymn",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rājasya",
+     "gloss": "king",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kīrttanāt",
+     "gloss": "from-recitation",
+     "grounds": "ablative singular",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What result follows from reciting this king of hymns?",
+   "premises": [
+    "he will go without doubt",
+    "recitation of the hymn king causes it"
+   ],
+   "inference": "reciting the hymn king removes doubt about the outcome",
+   "uncertainties": [
+    "whether stava-rājasya is one compound"
+   ],
+   "plain_english": "He will go without doubt from reciting this king of hymns."
+  },
+  {
+   "verse": 1855,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "honorific",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrṇānanda",
+     "gloss": "Pūrṇānanda",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramahaṃsa",
+     "gloss": "Paramahaṃsa",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viracite",
+     "gloss": "composed",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrī",
+     "gloss": "śrī",
+     "grounds": "honorific",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tattvacintāmaṇau",
+     "gloss": "Tattvacintāmaṇi",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pañcaviṃśatitamaḥ",
+     "gloss": "twenty-fifth",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakāśaḥ",
+     "gloss": "chapter",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is completed in the Tattvacintāmaṇi?",
+   "premises": [
+    "composed by Pūrṇānanda Paramahaṃsa",
+    "twenty-fifth chapter of Tattvacintāmaṇi"
+   ],
+   "inference": "the colophon closes the twenty-fifth chapter",
+   "uncertainties": [
+    "exact scope of viracite"
+   ],
+   "plain_english": "Thus ends the twenty-fifth chapter of the Tattvacintāmaṇi composed by Pūrṇānanda Paramahaṃsa."
+  },
+  {
+   "verse": 1856,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-taught",
+     "grounds": "passive present",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yantra",
+     "gloss": "yantra",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃskāraḥ",
+     "gloss": "consecration",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhūti",
+     "gloss": "prosperity",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "daḥ",
+     "gloss": "giving",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What consecration is now taught as giving all prosperity?",
+   "premises": [
+    "now the great yantra consecration is taught",
+    "it gives all prosperity"
+   ],
+   "inference": "the section teaches great yantra consecration for prosperity",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Now the consecration of the great yantra, giving all prosperity, is taught."
+  },
+  {
+   "verse": 1857,
+   "rows": [
+    {
+     "surface": "kṛta",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nitya",
+     "gloss": "daily",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kriyaḥ",
+     "gloss": "rites",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṅmukhaḥ",
+     "gloss": "facing-east",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "udaṅmukhaḥ",
+     "gloss": "facing-north",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which directions should the mantrin face during daily rites?",
+   "premises": [
+    "daily rites are done",
+    "mantrin faces east or north"
+   ],
+   "inference": "the practitioner performs rites facing east or north",
+   "uncertainties": [
+    "whether kṛta modifies nitya-kriyaḥ"
+   ],
+   "plain_english": "The mantrin, having done daily rites, faces east or north."
+  },
+  {
+   "verse": 1858,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṅkalpya",
+     "gloss": "having-resolved",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "Śiva",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśodhitam",
+     "gloss": "purified",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must the pure self resolve and purify?",
+   "premises": [
+    "then having resolved",
+    "pure self purifies with Śiva mantra"
+   ],
+   "inference": "the practitioner resolves and purifies using the Śiva mantra",
+   "uncertainties": [
+    "object of viśodhitam"
+   ],
+   "plain_english": "Then, having resolved, the pure self purifies with the Śiva mantra."
+  },
+  {
+   "verse": 1859,
+   "rows": [
+    {
+     "surface": "suvarṇa",
+     "gloss": "in-gold",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc.",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "maṇau",
+     "gloss": "gem",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kḷptaṃ",
+     "gloss": "fashioned",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-cast",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "praṇavam",
+     "gloss": "praṇava",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccaran",
+     "gloss": "uttering",
+     "grounds": "absolutive",
+     "morph": "abs"
+    }
+   ],
+   "question": "Into what fashioned gem should one cast the praṇava?",
+   "premises": [
+    "gold etc. gem fashioned",
+    "cast praṇava while uttering"
+   ],
+   "inference": "the praṇava is cast into a fashioned gold or gem",
+   "uncertainties": [
+    "whether kḷptaṃ modifies maṇau"
+   ],
+   "plain_english": "One should cast the praṇava, while uttering it, into a fashioned gold or gem."
+  },
+  {
+   "verse": 1860,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "with-five",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "amṛtena",
+     "gloss": "nectars",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tīrthena",
+     "gloss": "with-holy-water",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śītalena",
+     "gloss": "cool",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "With what five nectars and waters is the yantra bathed?",
+   "premises": [
+    "with five nectars",
+    "with holy water and cool water"
+   ],
+   "inference": "bathing uses five nectars plus holy and cool water",
+   "uncertainties": [
+    "exact list of five nectars"
+   ],
+   "plain_english": "With five nectars, holy water, and cool water."
+  },
+  {
+   "verse": 1861,
+   "rows": [
+    {
+     "surface": "susnāpya",
+     "gloss": "having-bathed-well",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viśuddhena",
+     "gloss": "with-pure",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttolya",
+     "gloss": "having-lifted",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "taijase",
+     "gloss": "in-vessel",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the yantra bathed and water handled?",
+   "premises": [
+    "having bathed well",
+    "with pure water lifted in vessel"
+   ],
+   "inference": "the yantra is bathed and pure water is lifted in a vessel",
+   "uncertainties": [
+    "object of susnāpya"
+   ],
+   "plain_english": "Having bathed well, with pure water lifted in a vessel."
+  },
+  {
+   "verse": 1862,
+   "rows": [
+    {
+     "surface": "pīṭha",
+     "gloss": "seat",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpa",
+     "gloss": "ritual",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ukta",
+     "gloss": "prescribed",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "method",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "When and how should seat worship be performed?",
+   "premises": [
+    "then perform seat worship",
+    "by prescribed ritual method"
+   ],
+   "inference": "seat worship follows the prescribed ritual method",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Then one should perform seat worship according to the prescribed ritual method."
+  },
+  {
+   "verse": 1863,
+   "rows": [
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "with-kuśa-grass",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "spṛśan",
+     "gloss": "touching",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rājaṃ",
+     "gloss": "king",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "eight-more",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How many times should the king mantra be recited?",
+   "premises": [
+    "touching with kuśa grass",
+    "recite king mantra one hundred eight times"
+   ],
+   "inference": "the king mantra is recited one hundred eight times",
+   "uncertainties": [
+    "whether aṣṭottaraṃ modifies śatam"
+   ],
+   "plain_english": "Touching with kuśa grass, one should recite the king mantra one hundred eight times."
+  },
+  {
+   "verse": 1864,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "to-great",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mantrāya",
+     "gloss": "mantra",
+     "grounds": "dative singular",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dhī",
+     "gloss": "wisdom",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mahī",
+     "gloss": "mahī",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What form should be written for the great mantra?",
+   "premises": [
+    "write form of wisdom for great mantra",
+    "then mahī thus and"
+   ],
+   "inference": "one writes the wisdom-form for the great mantra",
+   "uncertainties": [
+    "meaning of mahī iti ca"
+   ],
+   "plain_english": "One should write the form of wisdom for the great mantra, then mahī, thus and."
+  },
+  {
+   "verse": 1865,
+   "rows": [
+    {
+     "surface": "imāṃ",
+     "gloss": "this",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yantrasya",
+     "gloss": "of-yantra",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "gāyattrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "devatvam",
+     "gloss": "deity-hood",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālabhet",
+     "gloss": "should-obtain",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What is obtained by reciting this yantra's gāyatrī?",
+   "premises": [
+    "having recited this yantra's gāyatrī",
+    "one should obtain deity-hood"
+   ],
+   "inference": "reciting the yantra gāyatrī grants deity-hood",
+   "uncertainties": [
+    "whether imāṃ modifies gāyattrīṃ"
+   ],
+   "plain_english": "Having recited this yantra's gāyatrī, one should obtain deity-hood."
+  },
+  {
+   "verse": 1866,
+   "rows": [
+    {
+     "surface": "jīva",
+     "gloss": "life",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "installation",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "iṣṭa",
+     "gloss": "chosen",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What follows after performing life installation?",
+   "premises": [
+    "having done life installation",
+    "then worship chosen deity"
+   ],
+   "inference": "life installation precedes worship of the chosen deity",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "Having done life installation, then one should worship the chosen deity."
+  },
+  {
+   "verse": 1867,
+   "rows": [
+    {
+     "surface": "nṛtya",
+     "gloss": "with-dances",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gītaiḥ",
+     "gloss": "songs",
+     "grounds": "instrumental plural",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vādyaiḥ",
+     "gloss": "with-instruments",
+     "grounds": "instrumental plural",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ghoṣa",
+     "gloss": "sounds",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "puraḥsaram",
+     "gloss": "preceded-by",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What accompanies the worship with dances and songs?",
+   "premises": [
+    "with dances and songs",
+    "with instruments and five sounds"
+   ],
+   "inference": "worship is accompanied by dances, songs, instruments, and five sounds",
+   "uncertainties": [
+    "exact syntactic role of puraḥsaram"
+   ],
+   "plain_english": "With dances, songs, instruments, and five sounds preceding."
+  },
+  {
+   "verse": 1868,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kalpa",
+     "gloss": "ritual",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "uktam",
+     "gloss": "prescribed",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āsādya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "haviṣā",
+     "gloss": "oblation",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃskṛte",
+     "gloss": "in-consecrated",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anale",
+     "gloss": "fire",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is done with oblation in consecrated fire?",
+   "premises": [
+    "then having obtained prescribed ritual",
+    "with oblation in consecrated fire"
+   ],
+   "inference": "the prescribed ritual is performed with oblation in consecrated fire",
+   "uncertainties": [
+    "object of āsādya"
+   ],
+   "plain_english": "Then, having obtained the prescribed ritual, with oblation in consecrated fire."
+  },
+  {
+   "verse": 1869,
+   "rows": [
+    {
+     "surface": "toṣayet",
+     "gloss": "should-satisfy",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "svarṇa",
+     "gloss": "with-gold",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ratna",
+     "gloss": "gems",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ādyaiḥ",
+     "gloss": "etc.",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "pradadyāt",
+     "gloss": "should-give",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "dakṣiṇām",
+     "gloss": "fee",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What gifts satisfy and what fee is given?",
+   "premises": [
+    "should satisfy with gold, gems, etc.",
+    "should also give fee"
+   ],
+   "inference": "satisfaction and fee-giving accompany the rite",
+   "uncertainties": [
+    "recipient of toṣayet"
+   ],
+   "plain_english": "One should satisfy with gold, gems, etc., and also give a fee."
+  },
+  {
+   "verse": 1870,
+   "rows": [
+    {
+     "surface": "prasārayet",
+     "gloss": "should-spread",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ubhau",
+     "gloss": "both",
+     "grounds": "accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "hastau",
+     "gloss": "hands",
+     "grounds": "accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "hṛt",
+     "gloss": "in-heart",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "deśe",
+     "gloss": "region",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viniyojayet",
+     "gloss": "should-place",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How are both hands spread and placed?",
+   "premises": [
+    "should spread both hands",
+    "place in heart region"
+   ],
+   "inference": "both hands are spread and placed at the heart region",
+   "uncertainties": [
+    "whether hṛt-deśe is one compound"
+   ],
+   "plain_english": "One should spread both hands and place them in the heart region."
+  },
+  {
+   "verse": 1871,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "āsana",
+     "gloss": "seat",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyāsa",
+     "gloss": "placement",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pañca",
+     "gloss": "fifth",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mudrāṃ",
+     "gloss": "mudrā",
+     "grounds": "accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pradarśayet",
+     "gloss": "should-display",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Which mudrā should be displayed for deity seat placement?",
+   "premises": [
+    "deity seat placement",
+    "fifth mudrā should be displayed"
+   ],
+   "inference": "the fifth mudrā is displayed for deity seat placement",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "One should display the fifth mudrā for deity seat placement."
+  },
+  {
+   "verse": 1872,
+   "rows": [
+    {
+     "surface": "namre",
+     "gloss": "bent",
+     "grounds": "locative dual",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "kaniṣṭha",
+     "gloss": "little-finger",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tarjanyau",
+     "gloss": "forefinger",
+     "grounds": "nominative dual",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "karayoḥ",
+     "gloss": "of-both-hands",
+     "grounds": "genitive dual",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "agra",
+     "gloss": "tip",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṅgate",
+     "gloss": "joined",
+     "grounds": "locative dual",
+     "morph": "m.loc.du"
+    }
+   ],
+   "question": "How are the little and forefingers joined?",
+   "premises": [
+    "bent little finger",
+    "forefingers of both hands joined at tips"
+   ],
+   "inference": "the little finger is bent and forefinger tips are joined",
+   "uncertainties": [
+    "exact hand configuration"
+   ],
+   "plain_english": "With bent little finger, the forefingers of both hands are joined at the tips."
+  },
+  {
+   "verse": 1873,
+   "rows": [
+    {
+     "surface": "iṣat",
+     "gloss": "slightly",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "namra",
+     "gloss": "bent",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṅguliḥ",
+     "gloss": "fingers",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣā",
+     "gloss": "right",
+     "grounds": "compound member",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃveṣṭya",
+     "gloss": "enclosing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "aṅguṣṭhakaṃ",
+     "gloss": "thumb",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "other",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the thumb enclosed in this mudrā?",
+   "premises": [
+    "fingers slightly bent",
+    "right hand enclosing thumb of other"
+   ],
+   "inference": "the right hand slightly bent fingers enclose the other thumb",
+   "uncertainties": [
+    "whether aṅguliḥ is singular or collective"
+   ],
+   "plain_english": "With fingers slightly bent, the right hand encloses the other thumb."
+  },
+  {
+   "verse": 1874,
+   "rows": [
+    {
+     "surface": "upacāre",
+     "gloss": "in-offering",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "svāgate",
+     "gloss": "in-welcome",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prayoktavyā",
+     "gloss": "to-be-used",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg.ger"
+    },
+    {
+     "surface": "vipaścitā",
+     "gloss": "by-wise-one",
+     "grounds": "instrumental singular",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "When is this mudrā to be used by the wise?",
+   "premises": [
+    "in offering or welcome",
+    "to be used by wise one"
+   ],
+   "inference": "the wise use this mudrā in offering or welcome",
+   "uncertainties": [
+    "whether svāgate modifies upacāre"
+   ],
+   "plain_english": "In offering or welcome, it is to be used by the wise."
+  }
+ ]
+}

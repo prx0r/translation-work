@@ -1,0 +1,50 @@
+{
+ "song": "kul-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "pūjayedvidhinā'nena",
+     "gloss": "worship-by-this-rite",
+     "grounds": "fused token keeps verb plus instrumental and pronoun; @ marks sandhi fusion",
+     "morph": "verb 3.sg.act.opt (pūj)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.m/n"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "neuter noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇyate",
+     "gloss": "counted",
+     "grounds": "passive present",
+     "morph": "verb 3.sg.pass.pres (gaṇ)"
+    }
+   ],
+   "question": "What merit is counted for one who worships by this rite?",
+   "premises": [
+    "Worship is performed by this rite.",
+    "Its merit is not counted."
+   ],
+   "inference": "The rite's merit transcends ordinary reckoning.",
+   "uncertainties": [
+    "Exact sandhi split of the fused first token is not expanded."
+   ],
+   "plain_english": "Worship by this rite; its merit is not counted."
+  }
+ ]
+}

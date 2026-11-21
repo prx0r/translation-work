@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p49",
+ "items": [
+  {
+   "verse": 1225,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "naivedya = food offering; accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "caṇḍikādevyā",
+     "gloss": "of-caṇḍikā-goddess",
+     "grounds": "compound caṇḍikā-devī; genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vāñchanti",
+     "gloss": "desire",
+     "grounds": "third person plural active present of vāñch",
+     "morph": "3.pl.act-pres + root vāñch"
+    },
+    {
+     "surface": "vibudhāḥ",
+     "gloss": "gods",
+     "grounds": "vibudha = god; nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do the gods always desire the food-offering of Caṇḍikā?",
+   "premises": [
+    "gods desire food-offering",
+    "offering belongs to Caṇḍikā",
+    "desire is eternal"
+   ],
+   "inference": "The gods eternally desire Caṇḍikā's food-offering.",
+   "uncertainties": [
+    "ritual context of the offering is unclear"
+   ],
+   "plain_english": "The gods always desire the food-offering of Caṇḍikā."
+  }
+ ]
+}

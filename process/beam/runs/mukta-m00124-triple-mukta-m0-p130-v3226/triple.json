@@ -1,0 +1,1191 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3226,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāreṇa",
+     "gloss": "by-manner",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "third singular active optative",
+     "morph": "3.sg.act.opt.+samācar"
+    }
+   ],
+   "question": "By what manner should the prescribed action be performed?",
+   "premises": [
+    "The action is to be performed by this very manner.",
+    "The manner is specified in the preceding instruction."
+   ],
+   "inference": "The ritual action follows the stated manner exactly.",
+   "uncertainties": [
+    "The exact action is not named in this verse."
+   ],
+   "plain_english": "By this very manner, that action should be performed."
+  },
+  {
+   "verse": 3227,
+   "rows": [
+    {
+     "surface": "ekahastaṃ",
+     "gloss": "one-hand",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvihastaṃ",
+     "gloss": "two-hand",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trihastaṃ",
+     "gloss": "three-hand",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parito",
+     "gloss": "around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikam",
+     "gloss": "more",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many hands may extend around the structure?",
+   "premises": [
+    "The measure may be one hand.",
+    "The measure may be two hands or three hands.",
+    "The extension may be more around."
+   ],
+   "inference": "The surrounding measure is one, two, or three hands, possibly more.",
+   "uncertainties": [
+    "The exact unit of hand-measure is not specified."
+   ],
+   "plain_english": "One hand, two hands, or three hands around, or more."
+  },
+  {
+   "verse": 3228,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cikvaṇa",
+     "gloss": "clay-lump",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pāṣāṇa",
+     "gloss": "stone",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "muṣṭi",
+     "gloss": "fist",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mṛdvālukā",
+     "gloss": "soft-sand",
+     "grounds": "instrumental singular",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "etc",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What materials are used for the surrounding construction?",
+   "premises": [
+    "Clay lump is used there.",
+    "Stone, fist, and soft sand are used there.",
+    "Other materials are included by etc."
+   ],
+   "inference": "The surrounding work uses clay, stone, fist, soft sand, and similar materials.",
+   "uncertainties": [
+    "The exact role of each material is not stated."
+   ],
+   "plain_english": "There, with clay lump, stone, fist, soft sand, and so on."
+  },
+  {
+   "verse": 3229,
+   "rows": [
+    {
+     "surface": "pañcāṃśa",
+     "gloss": "five-parts",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dbyaṃśa",
+     "gloss": "two-parts",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tryaṃśa",
+     "gloss": "three-parts",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "less",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-consider",
+     "grounds": "third singular active optative",
+     "morph": "3.sg.act.opt.+parikalp"
+    }
+   ],
+   "question": "What proportional divisions may be assigned?",
+   "premises": [
+    "Five parts may be assigned.",
+    "Two parts or three parts may be assigned.",
+    "A lesser amount may also be considered."
+   ],
+   "inference": "The division may be five, two, or three parts, or less.",
+   "uncertainties": [
+    "The base whole for these parts is not specified."
+   ],
+   "plain_english": "Five parts, two parts, or three parts, or less, should be considered."
+  },
+  {
+   "verse": 3230,
+   "rows": [
+    {
+     "surface": "jalena",
+     "gloss": "by-water",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pūrite",
+     "gloss": "filled",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tatsthaṃ",
+     "gloss": "that-place",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nirūnam",
+     "gloss": "without-water",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udakaṃ",
+     "gloss": "water",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when the filled place lacks water?",
+   "premises": [
+    "The place is filled with water.",
+    "That place is without water.",
+    "Water is mentioned again conditionally."
+   ],
+   "inference": "The condition concerns a filled place that has no water.",
+   "uncertainties": [
+    "The exact consequence is stated in the next verse."
+   ],
+   "plain_english": "If the place filled with water is without water."
+  },
+  {
+   "verse": 3231,
+   "rows": [
+    {
+     "surface": "patite",
+     "gloss": "fallen",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāramātre",
+     "gloss": "weight-measure",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimnaṃ",
+     "gloss": "low",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "third singular active optative",
+     "morph": "3.sg.act.opt.+bhū"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does the ground not become low?",
+   "premises": [
+    "The weight-measure has fallen.",
+    "Then it would not be low.",
+    "This holds if the condition is met."
+   ],
+   "inference": "The ground does not become low under the stated weight condition.",
+   "uncertainties": [
+    "The precise weight threshold is not given."
+   ],
+   "plain_english": "If the weight-measure has fallen, then it would not be low."
+  },
+  {
+   "verse": 3232,
+   "rows": [
+    {
+     "surface": "ādau",
+     "gloss": "initially",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtibhūmiḥ",
+     "gloss": "original-ground",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular active optative",
+     "morph": "3.sg.act.opt.+as"
+    },
+    {
+     "surface": "triprakārā",
+     "gloss": "three-kinds",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many kinds of original ground are remembered?",
+   "premises": [
+    "Initially the original ground would be.",
+    "It is of three kinds.",
+    "That ground is remembered."
+   ],
+   "inference": "The original ground is remembered as three kinds.",
+   "uncertainties": [
+    "The three kinds are not named here."
+   ],
+   "plain_english": "Initially the original ground would be of three kinds; that is remembered."
+  },
+  {
+   "verse": 3233,
+   "rows": [
+    {
+     "surface": "aṣṭādaśāṅgulā",
+     "gloss": "eighteen-angulas",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "less",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "third singular active optative",
+     "morph": "3.sg.act.opt.+as"
+    },
+    {
+     "surface": "dvādaśāṅgulā",
+     "gloss": "twelve-angulas",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What measurement applies in the middle when less?",
+   "premises": [
+    "Eighteen angulas applies in the middle.",
+    "When less, it would be.",
+    "Twelve angulas is the lesser measure."
+   ],
+   "inference": "The middle measure is eighteen angulas, or twelve when less.",
+   "uncertainties": [
+    "The exact condition for less is not specified."
+   ],
+   "plain_english": "Eighteen angulas in the middle; when less, twelve angulas."
+  },
+  {
+   "verse": 3234,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgulakṣayeṇa",
+     "gloss": "six-angula-decrease",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "initially",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturardhaṃ",
+     "gloss": "quarter-half",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvitīyake",
+     "gloss": "second",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What decrease applies in the second stage?",
+   "premises": [
+    "The decrease is by six angulas.",
+    "Initially the measure is set.",
+    "The second stage takes quarter-half."
+   ],
+   "inference": "The second stage involves a six-angula decrease and quarter-half measure.",
+   "uncertainties": [
+    "The exact relation between decrease and quarter-half is unclear."
+   ],
+   "plain_english": "By a six-angula decrease initially, quarter-half in the second."
+  },
+  {
+   "verse": 3235,
+   "rows": [
+    {
+     "surface": "tadupānam",
+     "gloss": "that-foundation",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "called",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saiva",
+     "gloss": "that-same",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhaumā",
+     "gloss": "earthen",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the earthen foundation called?",
+   "premises": [
+    "That foundation is called thus.",
+    "That same foundation is earthen.",
+    "It is declared as such."
+   ],
+   "inference": "The earthen foundation is called that foundation.",
+   "uncertainties": [
+    "The exact technical name is not expanded."
+   ],
+   "plain_english": "That foundation is thus called; the same is declared earthen."
+  },
+  {
+   "verse": 3236,
+   "rows": [
+    {
+     "surface": "pādavistāramānena",
+     "gloss": "foot-spread-measure",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sādhyardhadvitridaṇḍakam",
+     "gloss": "one-and-half-two-three-dandas",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measure is taken by foot-spread measure?",
+   "premises": [
+    "The measure is by foot-spread.",
+    "The result is one and a half, two, or three dandas."
+   ],
+   "inference": "The foot-spread measure yields one and a half, two, or three dandas.",
+   "uncertainties": [
+    "The selection among these measures is not specified."
+   ],
+   "plain_english": "By foot-spread measure, one and a half, two, or three dandas."
+  },
+  {
+   "verse": 3237,
+   "rows": [
+    {
+     "surface": "upāna",
+     "gloss": "foundation",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "upari",
+     "gloss": "above",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sopānaṃ",
+     "gloss": "staircase",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvataḥ",
+     "gloss": "that-above",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What may be placed above the foundation?",
+   "premises": [
+    "Above the foundation, a lotus may be placed.",
+    "Or a staircase may be placed.",
+    "That placement is above it."
+   ],
+   "inference": "Above the foundation there may be a lotus or a staircase.",
+   "uncertainties": [
+    "The choice between lotus and staircase is not explained."
+   ],
+   "plain_english": "Above the foundation, a lotus or a staircase, but that above."
+  },
+  {
+   "verse": 3238,
+   "rows": [
+    {
+     "surface": "unnatārthaṃ",
+     "gloss": "raised-purpose",
+     "grounds": "purpose of raised height",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhārthaṃ",
+     "gloss": "beauty-purpose",
+     "grounds": "purpose of beauty",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "rakṣārthaṃ",
+     "gloss": "protection-purpose",
+     "grounds": "purpose of protection",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balārthakam",
+     "gloss": "strength-purpose",
+     "grounds": "purpose of strength",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which proportional parts govern raised purpose beauty protection and strength of the temple base?",
+   "premises": [
+    "Raised beauty protection strength each take proportional parts."
+   ],
+   "inference": "The base proportions serve multiple purposes.",
+   "uncertainties": [
+    "Exact mapping of parts to purposes unclear."
+   ],
+   "plain_english": "The base is proportioned for raised height, beauty, protection, and strength."
+  },
+  {
+   "verse": 3239,
+   "rows": [
+    {
+     "surface": "upapīṭhaṃ",
+     "gloss": "sub-foundation",
+     "grounds": "lower foundation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vidhātavyam",
+     "gloss": "should-be-made",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "adhiṣṭhānodayārdhataḥ",
+     "gloss": "from-base-up-half",
+     "grounds": "from base upward half",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "From what base proportion should the sub-foundation be made?",
+   "premises": [
+    "Sub-foundation is made from base upward half."
+   ],
+   "inference": "The sub-foundation derives from the base proportion.",
+   "uncertainties": [
+    "Exact base measure unclear."
+   ],
+   "plain_english": "The sub-foundation should be made from half the base upward."
+  },
+  {
+   "verse": 3240,
+   "rows": [
+    {
+     "surface": "pañcāṃśe",
+     "gloss": "five-parts",
+     "grounds": "in five parts",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayāṃśena",
+     "gloss": "three-parts",
+     "grounds": "by three parts",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "vahnyaṃśe",
+     "gloss": "fire-part",
+     "grounds": "in fire part",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tvā",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgataḥ",
+     "gloss": "one-part",
+     "grounds": "from one part",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How do five three fire and one parts combine in this proportion?",
+   "premises": [
+    "Five parts then three parts fire part then one part."
+   ],
+   "inference": "The proportion combines multiple fractional parts.",
+   "uncertainties": [
+    "Combination rule unclear."
+   ],
+   "plain_english": "The proportion uses five, three, fire, and one parts."
+  },
+  {
+   "verse": 3241,
+   "rows": [
+    {
+     "surface": "dvidaṇḍaṃ",
+     "gloss": "two-danda",
+     "grounds": "two danda measure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridaṇḍaṃ",
+     "gloss": "three-danda",
+     "grounds": "three danda measure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgamaṃ",
+     "gloss": "exit",
+     "grounds": "exit passage",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pādabāhyataḥ",
+     "gloss": "foot-outside",
+     "grounds": "outside the foot",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What exit measures are allowed outside the foot?",
+   "premises": [
+    "Exit may be two danda or three danda outside foot."
+   ],
+   "inference": "The exit width has two allowed measures.",
+   "uncertainties": [
+    "Context of danda unclear."
+   ],
+   "plain_english": "The exit outside the foot may be two or three danda."
+  },
+  {
+   "verse": 3242,
+   "rows": [
+    {
+     "surface": "navapaṅktyaṃśakaṃ",
+     "gloss": "nine-row-parts",
+     "grounds": "nine row parts",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund",
+     "morph": "ger."
+    },
+    {
+     "surface": "tryaṃśoccopānabhiṣyate",
+     "gloss": "three-parts-high",
+     "grounds": "made high by three parts",
+     "morph": "3.sg.pass"
+    }
+   ],
+   "question": "How is the stair made high after nine row parts?",
+   "premises": [
+    "Nine row parts are made then stair high by three parts."
+   ],
+   "inference": "The stair height follows the row construction.",
+   "uncertainties": [
+    "Exact stair relation unclear."
+   ],
+   "plain_english": "After making nine row parts, the stair is raised by three parts."
+  },
+  {
+   "verse": 3243,
+   "rows": [
+    {
+     "surface": "ṣaḍaṃśaḥ",
+     "gloss": "six-parts",
+     "grounds": "six parts",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "karṇa",
+     "gloss": "ear",
+     "grounds": "ear measure",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "miṣṭaḥ",
+     "gloss": "desired",
+     "grounds": "desired",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "cheṣaṃ",
+     "gloss": "remainder",
+     "grounds": "remainder",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "as before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is the desired ear measure and remainder?",
+   "premises": [
+    "Six parts is desired ear measure remainder as before."
+   ],
+   "inference": "The ear measure and remainder follow prior rule.",
+   "uncertainties": [
+    "Remainder referent unclear."
+   ],
+   "plain_english": "The desired ear measure is six parts, with the remainder as before."
+  },
+  {
+   "verse": 3244,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "same thing",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ūrdhvam",
+     "gloss": "above",
+     "grounds": "above",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "below",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ambujena",
+     "gloss": "lotus",
+     "grounds": "with lotus",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "vihīnakam",
+     "gloss": "without",
+     "grounds": "lacking",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What happens if the same thing above and below lacks lotus?",
+   "premises": [
+    "If same above and below is without lotus."
+   ],
+   "inference": "The lotus absence changes the construction.",
+   "uncertainties": [
+    "Exact consequence unclear."
+   ],
+   "plain_english": "If the same element above and below lacks lotus, it is without."
+  },
+  {
+   "verse": 3245,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "that-half",
+     "grounds": "half of that",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "karaṇaṃ",
+     "gloss": "making",
+     "grounds": "making",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "as before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśena",
+     "gloss": "part",
+     "grounds": "by part",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "uttaram",
+     "gloss": "upper",
+     "grounds": "upper",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "desired",
+     "grounds": "desired",
+     "morph": "3.sg.pass"
+    }
+   ],
+   "question": "How is the upper making desired by part?",
+   "premises": [
+    "That half making as before by part upper desired."
+   ],
+   "inference": "The upper making follows the prior part rule.",
+   "uncertainties": [
+    "Part referent unclear."
+   ],
+   "plain_english": "The upper making is desired as before by that part."
+  },
+  {
+   "verse": 3246,
+   "rows": [
+    {
+     "surface": "alindāntaritaṃ",
+     "gloss": "alcove-inside",
+     "grounds": "inside alcove",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dvyaṃśaṃ",
+     "gloss": "two-parts",
+     "grounds": "two parts",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pratyutsedhaṃ",
+     "gloss": "projection",
+     "grounds": "projection",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsamam",
+     "gloss": "that-same",
+     "grounds": "same as that",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What projection inside the alcove equals two parts?",
+   "premises": [
+    "Inside alcove two parts projection then same as that."
+   ],
+   "inference": "The alcove projection equals two parts.",
+   "uncertainties": [
+    "Projection relation unclear."
+   ],
+   "plain_english": "The projection inside the alcove is two parts and same as that."
+  },
+  {
+   "verse": 3247,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "upper",
+     "grounds": "upper",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgaṃ",
+     "gloss": "one-part",
+     "grounds": "one part",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative",
+     "morph": "3.sg.act"
+    },
+    {
+     "surface": "rudrabhāgena",
+     "gloss": "rudra-part",
+     "grounds": "by rudra part",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What upper one part is declared by rudra part?",
+   "premises": [
+    "Upper and one part would be by rudra part declared."
+   ],
+   "inference": "The upper part is declared through rudra part.",
+   "uncertainties": [
+    "Rudra part value unclear."
+   ],
+   "plain_english": "The upper one part would be declared by the rudra part."
+  },
+  {
+   "verse": 3248,
+   "rows": [
+    {
+     "surface": "antarītaṃ",
+     "gloss": "inside",
+     "grounds": "inside",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "by part",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "bhāgābhyāṃ",
+     "gloss": "by-two-parts",
+     "grounds": "by two parts",
+     "morph": "instr.du.m"
+    },
+    {
+     "surface": "prati",
+     "gloss": "respectively",
+     "grounds": "respectively",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "desired",
+     "grounds": "desired",
+     "morph": "3.sg.pass"
+    }
+   ],
+   "question": "How are inside parts desired by part and two parts?",
+   "premises": [
+    "Inside then by part by two parts respectively desired."
+   ],
+   "inference": "The inside parts follow part and two-part measures.",
+   "uncertainties": [
+    "Respective mapping unclear."
+   ],
+   "plain_english": "The inside is desired by part and by two parts respectively."
+  },
+  {
+   "verse": 3249,
+   "rows": [
+    {
+     "surface": "triḥ",
+     "gloss": "thrice",
+     "grounds": "three times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptāṃśata",
+     "gloss": "seven-parts",
+     "grounds": "seven parts",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "utsedho",
+     "gloss": "height",
+     "grounds": "height",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "by two",
+     "morph": "instr.du.m"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "birth",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "then",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ambujam",
+     "gloss": "lotus",
+     "grounds": "lotus",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How do thrice seven parts height and lotus relate?",
+   "premises": [
+    "Thrice seven parts height by two birth then lotus."
+   ],
+   "inference": "Height and lotus are linked by repeated parts.",
+   "uncertainties": [
+    "Exact relation unclear."
+   ],
+   "plain_english": "The height is thrice seven parts, with birth by two and lotus."
+  }
+ ]
+}

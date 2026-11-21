@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p195",
+ "items": [
+  {
+   "verse": 4875,
+   "rows": [
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "back side; accusative object of vihāya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vihāya",
+     "gloss": "leaving",
+     "grounds": "absolutive of vi-hā, having left or abandoned",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tritayam",
+     "gloss": "triad",
+     "grounds": "threefold group; accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "single item; accusative",
+     "morph": "num.acc.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "front",
+     "grounds": "locative adverb, in front",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "be",
+     "grounds": "optative of bhū, may be or should be",
+     "morph": "3.sg.optative"
+    }
+   ],
+   "question": "When arranging the selected deities, should the back triad be abandoned so that one remains in front, or may another arrangement obtain?",
+   "premises": [
+    "back triad is left aside",
+    "one item is placed front",
+    "alternative arrangement is permitted"
+   ],
+   "inference": "The verse prescribes leaving three rear items and placing one forward, with an optional alternative.",
+   "uncertainties": [
+    "exact referent of triad not explicit in this verse",
+    "whether bhavet is prescriptive or permissive"
+   ],
+   "plain_english": "Leaving the back triad, one [is placed] in front, or it may be [otherwise]."
+  }
+ ]
+}

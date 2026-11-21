@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "akṣaṃ",
+     "gloss": "die",
+     "grounds": "accusative singular of akṣa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khetaṃ",
+     "gloss": "shield",
+     "grounds": "accusative singular of kheṭa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaḍgaṃ",
+     "gloss": "sword",
+     "grounds": "accusative singular of khaḍga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "accusative singular of pātra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhatte",
+     "gloss": "holds",
+     "grounds": "third singular middle present of dhā",
+     "morph": "3.sg.mid.pres (root dhā)"
+    },
+    {
+     "surface": "caturbhujā",
+     "gloss": "four-armed",
+     "grounds": "feminine nominative singular adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What objects does the four-armed figure hold in her hands?",
+   "premises": [
+    "The verse lists four held objects.",
+    "The subject is described as four-armed.",
+    "The verb dhatte means holds."
+   ],
+   "inference": "The four-armed figure holds a die, a shield, a sword, and a vessel.",
+   "uncertainties": [
+    "The exact iconographic sense of akṣa and kheṭa remains uncertain."
+   ],
+   "plain_english": "The four-armed one holds a die, a shield, a sword, and a vessel."
+  }
+ ]
+}

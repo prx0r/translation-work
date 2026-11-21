@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "6b137b20f4951ab4",
+ "source_digest_normalized_sha256": "6b137b20f4951ab4ec7d7b17a45567aa927889caff8980247fbfc778494585b4",
+ "source_sha256_raw": "699f1db9c54d3a102f80a38c00fa62a75ef8345e46b7e646fec33c1f138e5dfa",
+ "source_sha256_raw_file": "/root/translation-work/pancashloki/T1.md",
  "source_verses": 1,
  "t1_verses": 1,
  "l0": {
-  "parsed": 25,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 25
@@ -21,10 +25,10 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 6,
+ "c1_words": 21,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 1,
+  "checked": 2,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "6b137b20f4951ab4",
-  "t1": "T1-pan-p03.md",
-  "l0": "T1-pan-p03.l0.jsonl",
-  "l2": "L2-pan-p03.md",
-  "c1": "c1/C1-pan-p03.md"
+  "t1": "pan-p03/data/pan-p03.t1.json",
+  "l0": "pan-p03/data/pan-p03.l0.json",
+  "l2": "pan-p03/data/pan-p03.l2.json",
+  "c1": "pan-p03/data/pan-p03.c1.json"
  }
 }

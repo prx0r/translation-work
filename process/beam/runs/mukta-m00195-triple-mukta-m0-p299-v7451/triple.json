@@ -1,0 +1,1015 @@
+{
+ "song": "mukta-m0-p299",
+ "items": [
+  {
+   "verse": 7451,
+   "rows": [
+    {
+     "surface": "varadā",
+     "gloss": "boon-giver",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vindhyavāsinya",
+     "gloss": "vindhya-dweller",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sura+mardinī",
+     "gloss": "demon-crusher",
+     "grounds": "compound epithet of the goddess",
+     "morph": "compound=f.nom.sg"
+    }
+   ],
+   "question": "Which divine epithets identify the goddess invoked in this ritual sequence?",
+   "premises": [
+    "The goddess is called boon-giver",
+    "The goddess is called vindhya-dweller",
+    "The goddess is called demon-crusher"
+   ],
+   "inference": "These epithets name the goddess addressed in the rite",
+   "uncertainties": [],
+   "plain_english": "She is the boon-giver, the dweller of the Vindhya mountains, and the crusher of demons."
+  },
+  {
+   "verse": 7452,
+   "rows": [
+    {
+     "surface": "su+mahā+yoga+īśvarī",
+     "gloss": "supreme-great-yoga-sovereign",
+     "grounds": "compound epithet of the goddess",
+     "morph": "compound=f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaditāḥ",
+     "gloss": "spoken",
+     "grounds": "refers to the epithets",
+     "morph": "f.nom.pl.past-passive-participle gad"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "they",
+     "grounds": "refers to the named forms",
+     "morph": "f.nom.pl.pronoun"
+    }
+   ],
+   "question": "How are the previously named forms of the goddess collectively designated?",
+   "premises": [
+    "The goddess is called supreme great yoga sovereign",
+    "These names are spoken as a set",
+    "The forms are referred to together"
+   ],
+   "inference": "The listed epithets constitute the declared forms of the goddess",
+   "uncertainties": [],
+   "plain_english": "And thus they are spoken of as the supreme great sovereign of yoga."
+  },
+  {
+   "verse": 7453,
+   "rows": [
+    {
+     "surface": "pāśaṃ",
+     "gloss": "noose",
+     "grounds": "ritual object or attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devy+agrataḥ",
+     "gloss": "goddess-in-front",
+     "grounds": "location before the goddess",
+     "morph": "compound=(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "refers to the named forms or items",
+     "morph": "m.acc.pl.pronoun"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active pūj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "ritual action",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What worship actions must be performed before the goddess in this rite?",
+   "premises": [
+    "The noose is placed before the goddess",
+    "These forms should be worshipped",
+    "Circumambulation should be performed"
+   ],
+   "inference": "The rite requires worship and circumambulation before the goddess",
+   "uncertainties": [
+    "Whether etān refers to the epithets, forms, or objects"
+   ],
+   "plain_english": "One should worship these before the goddess, along with the noose, and perform circumambulation."
+  },
+  {
+   "verse": 7454,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "fire oblation injunction",
+     "morph": "3.sg.optative-active hu"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the oblation amount",
+     "morph": "n.acc.sg.pronoun"
+    },
+    {
+     "surface": "daśa+aṃśataḥ",
+     "gloss": "tenth-part",
+     "grounds": "proportion of oblations relative to recitation",
+     "morph": "compound=(indecl.)"
+    }
+   ],
+   "question": "What proportion of fire oblations is required relative to mantra recitation?",
+   "premises": [
+    "The mantra should be recited",
+    "Oblations should be offered",
+    "The offering is a tenth part"
+   ],
+   "inference": "Fire oblations must be performed as one tenth of the recitation",
+   "uncertainties": [],
+   "plain_english": "One should recite the mantra and offer oblations in the fire as a tenth part of that."
+  },
+  {
+   "verse": 7455,
+   "rows": [
+    {
+     "surface": "viprān",
+     "gloss": "brahmins",
+     "grounds": "recipients of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "procedural manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "attitude of worship",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "gerund abhi-arc"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "spiritual teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whom must the practitioner worship before proceeding with the guru's instruction?",
+   "premises": [
+    "Brahmins should be worshipped according to rule",
+    "Worship should be done with devotion",
+    "The guru should be worshipped afterward"
+   ],
+   "inference": "Proper worship of brahmins and the guru precedes further ritual steps",
+   "uncertainties": [],
+   "plain_english": "Then, having duly worshipped the brahmins with devotion, one should worship the guru."
+  },
+  {
+   "verse": 7456,
+   "rows": [
+    {
+     "surface": "vidhānena",
+     "gloss": "according-to-procedure",
+     "grounds": "ritual manner",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "guror+ājñā",
+     "gloss": "guru-command",
+     "grounds": "authorization from the guru",
+     "morph": "compound=f.nom.sg"
+    },
+    {
+     "surface": "puraḥsaram",
+     "gloss": "preceded-by",
+     "grounds": "taking precedence",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What authorization must precede the ritual procedure performed by the practitioner?",
+   "premises": [
+    "The procedure must follow proper method",
+    "The guru's command is required",
+    "That command must come first"
+   ],
+   "inference": "The ritual must be undertaken under the prior command of the guru",
+   "uncertainties": [],
+   "plain_english": "According to the proper procedure, with the guru's command going before."
+  },
+  {
+   "verse": 7457,
+   "rows": [
+    {
+     "surface": "vicintya",
+     "gloss": "having-contemplated",
+     "grounds": "mental preparation",
+     "morph": "gerund vi-cint"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active pra-jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun for practitioner",
+     "morph": "m.nom.sg.pronoun"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "object to be touched",
+     "morph": "m.acc.sg.pronoun"
+    },
+    {
+     "surface": "spṛṣṭvā",
+     "gloss": "having-touched",
+     "grounds": "ritual contact action",
+     "morph": "gerund spṛś"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "procedural manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the practitioner perform mantra recitation upon the designated target?",
+   "premises": [
+    "The practitioner contemplates first",
+    "The practitioner touches the target according to rule",
+    "The practitioner recites the mantra"
+   ],
+   "inference": "Mantra recitation requires contemplation and ritual touch of the target",
+   "uncertainties": [
+    "The referent of taṃ is not specified in this verse"
+   ],
+   "plain_english": "Whoever, having contemplated and duly touched that, should recite the mantra according to rule."
+  },
+  {
+   "verse": 7458,
+   "rows": [
+    {
+     "surface": "tadānīṃ",
+     "gloss": "at-that-time",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūta+saṅghaḥ",
+     "gloss": "being-host",
+     "grounds": "group of beings or spirits",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "palāyate",
+     "gloss": "flees",
+     "grounds": "result of the rite",
+     "morph": "3.sg.present-middle palāy"
+    }
+   ],
+   "question": "What immediate effect does the ritual produce upon hostile beings?",
+   "premises": [
+    "The ritual action has just been performed",
+    "A host of beings is present",
+    "That host flees at that time"
+   ],
+   "inference": "The rite causes the host of beings to flee immediately",
+   "uncertainties": [],
+   "plain_english": "And at that very moment, the host of beings flees."
+  },
+  {
+   "verse": 7459,
+   "rows": [
+    {
+     "surface": "vidravanti",
+     "gloss": "run-away",
+     "grounds": "flight of harmful influences",
+     "morph": "3.pl.present-active vi-dru"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "speed of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grahāḥ",
+     "gloss": "seizers",
+     "grounds": "planetary or possessing influences",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upa+graha+ādayaḥ",
+     "gloss": "secondary-seizers-and-others",
+     "grounds": "lesser harmful influences",
+     "morph": "compound=m.nom.pl"
+    }
+   ],
+   "question": "Which harmful influences are driven away quickly by the ritual power?",
+   "premises": [
+    "Seizers run away quickly",
+    "Secondary seizers and others also run away",
+    "Their flight is immediate"
+   ],
+   "inference": "The ritual dispels seizers and related harmful influences",
+   "uncertainties": [
+    "Exact scope of grahāḥ and upa+graha+ādayaḥ in this context"
+   ],
+   "plain_english": "The seizers and the secondary seizers and others quickly run away."
+  },
+  {
+   "verse": 7460,
+   "rows": [
+    {
+     "surface": "prajuhuyāt",
+     "gloss": "one-should-offer-oblations",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active pra-hu"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "target of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yamasya",
+     "gloss": "of-yama",
+     "grounds": "lord of death",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ātithyam",
+     "gloss": "guesthood",
+     "grounds": "euphemism for death",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "result for the enemy",
+     "morph": "3.sg.optative-active āp"
+    }
+   ],
+   "question": "What fatal consequence befalls an enemy when the oblation rite is performed?",
+   "premises": [
+    "Oblations should be offered",
+    "The enemy is the target",
+    "The enemy obtains Yama's guesthood"
+   ],
+   "inference": "The oblation rite can bring the enemy to death",
+   "uncertainties": [],
+   "plain_english": "If one should offer the oblations, the enemy may become a guest of Yama."
+  },
+  {
+   "verse": 7461,
+   "rows": [
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "efficacy of the rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra or rite",
+     "morph": "m.gen.sg.pronoun"
+    },
+    {
+     "surface": "apratihatā",
+     "gloss": "unobstructed",
+     "grounds": "unimpeded efficacy",
+     "morph": "f.nom.sg.past-passive-participle a-prati-han"
+    },
+    {
+     "surface": "vatsarāt",
+     "gloss": "from-year",
+     "grounds": "time limit",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prāk",
+     "gloss": "before",
+     "grounds": "prior to the limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential state",
+     "morph": "3.sg.optative-active bhū"
+    },
+    {
+     "surface": "alam",
+     "gloss": "sufficient",
+     "grounds": "adequate power",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For how long does the unobstructed power of this rite remain effective?",
+   "premises": [
+    "The power of this is unobstructed",
+    "Its sufficiency lasts before a year",
+    "The effect is time-bound"
+   ],
+   "inference": "The rite's unobstructed power remains sufficient for up to a year",
+   "uncertainties": [],
+   "plain_english": "Its power may remain unobstructed and sufficient for up to a year."
+  },
+  {
+   "verse": 7462,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "correct performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa+uttara+śataṃ",
+     "gloss": "eight-over-hundred",
+     "grounds": "count of one hundred eight",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "completed oblation",
+     "morph": "gerund hu"
+    },
+    {
+     "surface": "uṣpitam",
+     "gloss": "heated",
+     "grounds": "state of affliction or burning",
+     "morph": "n.acc.sg.past-passive-participle uṣ"
+    },
+    {
+     "surface": "upavrajet",
+     "gloss": "one-should-approach",
+     "grounds": "ritual approach",
+     "morph": "3.sg.optative-active upa-vraj"
+    }
+   ],
+   "question": "What ritual action enables one to approach a heated or afflicted condition?",
+   "premises": [
+    "One hundred eight oblations are properly offered",
+    "The target is heated or afflicted",
+    "One should then approach it"
+   ],
+   "inference": "After one hundred eight oblations one may approach the heated target",
+   "uncertainties": [
+    "Meaning of uṣpitam as heated, scorched, or afflicted"
+   ],
+   "plain_english": "Having properly offered one hundred and eight oblations, one should approach what is heated."
+  },
+  {
+   "verse": 7463,
+   "rows": [
+    {
+     "surface": "tri+sahasra+mitam",
+     "gloss": "three-thousand-measured",
+     "grounds": "count of three thousand",
+     "morph": "compound=n.acc.sg"
+    },
+    {
+     "surface": "japtam",
+     "gloss": "recited",
+     "grounds": "completed recitation",
+     "morph": "n.acc.sg.past-passive-participle jap"
+    },
+    {
+     "surface": "yiyāsoḥ",
+     "gloss": "of-one-wishing-to-go",
+     "grounds": "person intending to depart",
+     "morph": "m.gen.sg.desiderative-participle yā"
+    },
+    {
+     "surface": "dvāri+saṅkhanet",
+     "gloss": "at-door-count",
+     "grounds": "counting or marking at the door",
+     "morph": "compound=3.sg.optative-active"
+    }
+   ],
+   "question": "What recitation count must be performed at the door for one wishing to depart?",
+   "premises": [
+    "Three thousand recitations are measured",
+    "The recitation is for one wishing to go",
+    "It should be counted at the door"
+   ],
+   "inference": "A departing person requires three thousand recitations counted at the door",
+   "uncertainties": [
+    "Exact ritual sense of dvāri+saṅkhanet"
+   ],
+   "plain_english": "For one wishing to depart, three thousand recitations should be counted at the door."
+  },
+  {
+   "verse": 7464,
+   "rows": [
+    {
+     "surface": "nikhātaṃ",
+     "gloss": "buried",
+     "grounds": "ritually placed in the ground",
+     "morph": "n.acc.sg.past-passive-participle ni-khan"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "senā+stambhaṃ",
+     "gloss": "army-paralysis",
+     "grounds": "magical immobilization of an army",
+     "morph": "compound=m.acc.sg"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "it-makes",
+     "grounds": "produces the effect",
+     "morph": "3.sg.present-active kṛ"
+    },
+    {
+     "surface": "alam",
+     "gloss": "sufficiently",
+     "grounds": "complete effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What military effect is achieved by the buried ritual object?",
+   "premises": [
+    "Something is buried ritually",
+    "It produces army paralysis",
+    "The effect is sufficient"
+   ],
+   "inference": "The buried object effectively paralyzes an army",
+   "uncertainties": [
+    "The specific buried object is implied from context"
+   ],
+   "plain_english": "And when buried, it thoroughly brings about the paralysis of an army."
+  },
+  {
+   "verse": 7465,
+   "rows": [
+    {
+     "surface": "pānīya+anna+karāṃ",
+     "gloss": "water-food-making",
+     "grounds": "producing water and food",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasannāṃ",
+     "gloss": "pleased",
+     "grounds": "gracious state of the goddess",
+     "morph": "f.acc.sg.past-passive-participle pra-sad"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active pra-jap"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the mantra be recited to obtain water and food from the pleased goddess?",
+   "premises": [
+    "The goddess can provide water and food",
+    "She is pleased",
+    "The mantra should be recited to her"
+   ],
+   "inference": "Reciting the mantra to the pleased goddess yields water and food",
+   "uncertainties": [],
+   "plain_english": "One should recite the mantra to her, pleased and granting water and food."
+  },
+  {
+   "verse": 7466,
+   "rows": [
+    {
+     "surface": "sahasra+bhṛtya+vargeṇa",
+     "gloss": "thousand-servant-group",
+     "grounds": "large retinue",
+     "morph": "compound=m.inst.sg"
+    },
+    {
+     "surface": "sahito",
+     "gloss": "accompanied-by",
+     "grounds": "together with",
+     "morph": "m.nom.sg.past-passive-participle sah"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What assurance is given about obtaining a large retinue through this practice?",
+   "premises": [
+    "One becomes accompanied by a thousand servants",
+    "This result is stated",
+    "There is no doubt here"
+   ],
+   "inference": "The practice assuredly grants a retinue of a thousand servants",
+   "uncertainties": [],
+   "plain_english": "One becomes accompanied by a group of a thousand servants; there is no doubt about this."
+  },
+  {
+   "verse": 7467,
+   "rows": [
+    {
+     "surface": "vaśyāḥ",
+     "gloss": "subdued",
+     "grounds": "brought under control",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśvattha+samid+varaiḥ",
+     "gloss": "aśvattha-fuel-stick-excellent",
+     "grounds": "superior fuel sticks of the aśvattha tree",
+     "morph": "compound=f.inst.pl"
+    }
+   ],
+   "question": "What ritual material is used to bring targets under control in this application?",
+   "premises": [
+    "Targets become subdued",
+    "This occurs likewise by a ritual means",
+    "Excellent aśvattha fuel sticks are used"
+   ],
+   "inference": "Using excellent aśvattha fuel sticks brings targets under control",
+   "uncertainties": [
+    "The verb or full ritual action is implied from context"
+   ],
+   "plain_english": "Likewise, they become subdued by means of excellent aśvattha fuel sticks."
+  },
+  {
+   "verse": 7468,
+   "rows": [
+    {
+     "surface": "durgā+kalpa+uditān",
+     "gloss": "durgā-ritual-stated",
+     "grounds": "applications taught in the Durgā ritual manual",
+     "morph": "compound=m.acc.pl.past-passive-participle vad"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "totality of applications",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "applications",
+     "grounds": "ritual uses",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-causative-active sidh"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "skilled practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is qualified to accomplish all the applications taught in the Durgā ritual manual?",
+   "premises": [
+    "All applications stated in the Durgā ritual are available",
+    "These applications should be accomplished",
+    "The wise one performs them"
+   ],
+   "inference": "A wise practitioner can accomplish all applications taught in the Durgā ritual",
+   "uncertainties": [],
+   "plain_english": "The wise one should accomplish all the applications taught in the Durgā ritual manual."
+  },
+  {
+   "verse": 7469,
+   "rows": [
+    {
+     "surface": "sādhaka+abhīṣṭa+dāyinī",
+     "gloss": "practitioner-desired-giving",
+     "grounds": "epithet of the goddess granting wishes",
+     "morph": "compound=f.nom.sg"
+    }
+   ],
+   "question": "What role does the goddess fulfill for the practitioner seeking desired results?",
+   "premises": [
+    "The goddess is addressed by an epithet",
+    "The epithet means giver of what is desired",
+    "The recipient is the practitioner"
+   ],
+   "inference": "The goddess grants the desired aims of the practitioner",
+   "uncertainties": [],
+   "plain_english": "She is the giver of what the practitioner desires."
+  },
+  {
+   "verse": 7470,
+   "rows": [
+    {
+     "surface": "vṛtte",
+     "gloss": "in-completed-form",
+     "grounds": "when the form or meter is completed",
+     "morph": "n.loc.sg.past-passive-participle vṛt"
+    },
+    {
+     "surface": "svāhā+antaḥ",
+     "gloss": "svāhā-ending",
+     "grounds": "ending with the syllable svāhā",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "dvi+nakha+akṣaraḥ",
+     "gloss": "two-nine-syllable",
+     "grounds": "mantra of twenty syllables by numerical code",
+     "morph": "compound=m.nom.sg"
+    }
+   ],
+   "question": "What structural features define the mantra's ending and syllable count?",
+   "premises": [
+    "The mantra form is completed",
+    "It ends with svāhā",
+    "It has two and nine syllables"
+   ],
+   "inference": "The mantra is a twenty-syllable formula ending in svāhā",
+   "uncertainties": [
+    "Numerical code dvi+nakha interpreted as 2 and 9"
+   ],
+   "plain_english": "When completed, it ends with svāhā and consists of twenty syllables."
+  },
+  {
+   "verse": 7471,
+   "rows": [
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "remaining aspect",
+     "morph": "n.nom.sg.pronoun"
+    },
+    {
+     "surface": "śūlinī+durgā+vat",
+     "gloss": "śūlinī-durgā-like",
+     "grounds": "similar to the Śūlinī Durgā form",
+     "morph": "compound=(indecl.)"
+    },
+    {
+     "surface": "sa+varma",
+     "gloss": "with-armor",
+     "grounds": "including the protective armor mantra",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to this goddess",
+     "morph": "f.gen.sg.pronoun"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "taught in the text",
+     "morph": "n.nom.sg.past-passive-participle pra-kīrt"
+    }
+   ],
+   "question": "How is the remaining ritual structure of this goddess described in relation to Śūlinī Durgā?",
+   "premises": [
+    "Another aspect is declared for her",
+    "It is like that of Śūlinī Durgā",
+    "It includes the armor"
+   ],
+   "inference": "Her remaining ritual form, including armor, follows the Śūlinī Durgā model",
+   "uncertainties": [],
+   "plain_english": "The rest, including the armor, is declared for her as being like that of Śūlinī Durgā."
+  },
+  {
+   "verse": 7472,
+   "rows": [
+    {
+     "surface": "sva+daṃṣṭrā",
+     "gloss": "own-tusk",
+     "grounds": "name or epithet of the yoginī",
+     "morph": "compound=f.nom.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "associated with this form",
+     "morph": "m.gen.sg.pronoun"
+    },
+    {
+     "surface": "nānā+saṅgīta+kovidā",
+     "gloss": "various-music-skilled",
+     "grounds": "skilled in diverse music",
+     "morph": "compound=f.nom.sg"
+    }
+   ],
+   "question": "What identity and artistic skill characterize the yoginī associated with this form?",
+   "premises": [
+    "The yoginī is called Svadaṃṣṭrā",
+    "She belongs to this form",
+    "She is skilled in various music"
+   ],
+   "inference": "The associated yoginī is Svadaṃṣṭrā, skilled in diverse music",
+   "uncertainties": [],
+   "plain_english": "And her yoginī is Svadaṃṣṭrā, skilled in various kinds of music."
+  },
+  {
+   "verse": 7473,
+   "rows": [
+    {
+     "surface": "lakṣa+mitaḥ",
+     "gloss": "lakh-measured",
+     "grounds": "count of one hundred thousand",
+     "morph": "compound=m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "regarded as prescribed",
+     "morph": "m.nom.sg.past-passive-participle man"
+    }
+   ],
+   "question": "What quantity of recitation is prescribed for this practice?",
+   "premises": [
+    "A measured count is stated",
+    "The count is one lakh",
+    "This count is considered prescribed"
+   ],
+   "inference": "The prescribed recitation count is one hundred thousand",
+   "uncertainties": [
+    "The object counted is implied as mantra recitations"
+   ],
+   "plain_english": "It is considered to be measured as one hundred thousand."
+  },
+  {
+   "verse": 7474,
+   "rows": [
+    {
+     "surface": "viśāla+locanāṃ",
+     "gloss": "wide-eyed",
+     "grounds": "epithet of the goddess",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "i-salute",
+     "grounds": "act of reverence",
+     "morph": "1.sg.present-middle vand"
+    },
+    {
+     "surface": "nīra+kṣīra+vidhāyinīm",
+     "gloss": "water-milk-making",
+     "grounds": "epithet indicating discriminating or providing power",
+     "morph": "compound=f.acc.sg"
+    }
+   ],
+   "question": "Which qualities of the goddess are honored in this concluding salutation?",
+   "premises": [
+    "The goddess is wide-eyed",
+    "The goddess is called maker of water and milk",
+    "The speaker salutes her"
+   ],
+   "inference": "The salutation honors the wide-eyed goddess who effects water and milk",
+   "uncertainties": [
+    "Symbolic sense of nīra+kṣīra+vidhāyinīm may imply discernment or nourishment"
+   ],
+   "plain_english": "I salute the wide-eyed goddess who brings forth water and milk."
+  }
+ ]
+}

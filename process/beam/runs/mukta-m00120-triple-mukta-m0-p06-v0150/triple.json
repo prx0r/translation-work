@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "mano'pi",
+     "gloss": "mind-also",
+     "grounds": "fused form mano+api; sandhi apostrophe retained",
+     "morph": "indecl."
+    },
+    {
+     "surface": "naiṣṭhikaṃ",
+     "gloss": "final",
+     "grounds": "adjective modifying mind in context",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatrendriyalayaṃ",
+     "gloss": "there-sense-dissolution",
+     "grounds": "fused tattra+indriyalayaṃ; sandhi retained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certain",
+     "grounds": "adverbial certainty marker",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where the mind becomes final, is sense-dissolution there certain?",
+   "premises": [
+    "mind becomes final there",
+    "sense-dissolution occurs there",
+    "certainty is asserted there"
+   ],
+   "inference": "sense-dissolution is certain where the mind is final",
+   "uncertainties": [
+    "exact case and gender of naiṣṭhikaṃ in fused context",
+    "internal sandhi of tatrendriyalayaṃ not expanded"
+   ],
+   "plain_english": "Where the mind is final, sense-dissolution is certain there."
+  }
+ ]
+}

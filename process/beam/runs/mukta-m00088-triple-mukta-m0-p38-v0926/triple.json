@@ -1,0 +1,1126 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 926,
+   "rows": [
+    {
+     "surface": "vidyesvarī",
+     "gloss": "vidyesvari-goddess",
+     "grounds": "nominative feminine deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sivadūtikā",
+     "gloss": "shiva-messenger-goddess",
+     "grounds": "nominative feminine deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are named in this vidya enumeration?",
+   "premises": [
+    "vidyesvari is named",
+    "sivadutika is named",
+    "tatha links the names"
+   ],
+   "inference": "The verse enumerates vidya goddesses.",
+   "uncertainties": [
+    "Exact ritual function is not stated"
+   ],
+   "plain_english": "Vidyesvari and Sivadutika are thus named likewise."
+  },
+  {
+   "verse": 927,
+   "rows": [
+    {
+     "surface": "jvālāmayī",
+     "gloss": "flame-filled-goddess",
+     "grounds": "nominative feminine deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nigadanti",
+     "gloss": "they-say",
+     "grounds": "third plural active present root nigad",
+     "morph": "3pl.act-pres"
+    },
+    {
+     "surface": "vicitrakā",
+     "gloss": "variegated-goddess",
+     "grounds": "nominative feminine deity name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which two goddesses are said to be named in this enumeration?",
+   "premises": [
+    "jvalamayi is named",
+    "vicitraka is named",
+    "nigadanti introduces the names"
+   ],
+   "inference": "The verse names two goddesses in the list.",
+   "uncertainties": [
+    "Their precise roles are not stated"
+   ],
+   "plain_english": "They say Jvalamayi and Vicitraka thus."
+  },
+  {
+   "verse": 928,
+   "rows": [
+    {
+     "surface": "yakṣendradarpakagaṇesvaravahnimukhyān",
+     "gloss": "yaksha-lord-pride-removing-ganesvara-fire-chiefs",
+     "grounds": "compound accusative plural masculine",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which beings are grouped as yaksha lord pride remover ganesvara fire chiefs?",
+   "premises": [
+    "the compound names yaksha lord",
+    "it names ganesvara and fire chiefs",
+    "the ending is accusative plural"
+   ],
+   "inference": "The verse names a group of beings in compound form.",
+   "uncertainties": [
+    "The exact syntactic role is not fully clear"
+   ],
+   "plain_english": "Yaksha lord pride remover Ganesvara fire chiefs."
+  },
+  {
+   "verse": 929,
+   "rows": [
+    {
+     "surface": "jihvāgrataḥ",
+     "gloss": "from-tongue-tip",
+     "grounds": "ablative or adverbial form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukṛtinaḥ",
+     "gloss": "virtuous-ones",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paripālayanti",
+     "gloss": "they-protect",
+     "grounds": "third plural active present root paripal",
+     "morph": "3pl.act-pres"
+    }
+   ],
+   "question": "Who protects virtuous ones from the tongue tip?",
+   "premises": [
+    "jihvagratah sets the place",
+    "sukrtinah are virtuous ones",
+    "paripalayanti means they protect"
+   ],
+   "inference": "Virtuous ones are protected from the tongue tip.",
+   "uncertainties": [
+    "The protector is not explicitly named"
+   ],
+   "plain_english": "Virtuous ones protect from the tongue tip."
+  },
+  {
+   "verse": 930,
+   "rows": [
+    {
+     "surface": "srībrahmaviṣṇuguṇasaktivarā",
+     "gloss": "sri-brahma-vishnu-guna-shakti-bestower",
+     "grounds": "compound nominative feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvamekā",
+     "gloss": "you-one",
+     "grounds": "fused pronoun and numeral",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tvamekā",
+     "gloss": "you-one",
+     "grounds": "repeated fused pronoun and numeral",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "Who is praised as the one bestower of Brahma Vishnu guna shakti?",
+   "premises": [
+    "the compound names sri brahma vishnu guna shakti",
+    "tvameka means you alone",
+    "the phrase is repeated for emphasis"
+   ],
+   "inference": "The goddess alone is praised as that bestower.",
+   "uncertainties": [
+    "The exact goddess name is implicit"
+   ],
+   "plain_english": "You alone, bestower of Sri Brahma Vishnu guna shakti, you alone."
+  },
+  {
+   "verse": 931,
+   "rows": [
+    {
+     "surface": "jānanti",
+     "gloss": "they-know",
+     "grounds": "third plural active present root jan",
+     "morph": "3pl.act-pres"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaḍadhiyaḥ",
+     "gloss": "dull-minded-ones",
+     "grounds": "nominative plural masculine compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive singular pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "amba",
+     "gloss": "mother",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Can dull minds know your form, mother?",
+   "premises": [
+    "jananti means they know",
+    "jadadhiyah means dull minded ones",
+    "tava rupam means your form"
+   ],
+   "inference": "The verse questions whether dull minds can know the goddess's form.",
+   "uncertainties": [
+    "The expected answer is implied not stated"
+   ],
+   "plain_english": "Do dull minds know your form, mother?"
+  },
+  {
+   "verse": 932,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "why",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stūyase",
+     "gloss": "you-are-praised",
+     "grounds": "second singular passive present root stu",
+     "morph": "2sg.pass-pres"
+    },
+    {
+     "surface": "khalu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paramesvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "nominative singular pronoun",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "Why are you praised then, supreme goddess?",
+   "premises": [
+    "kim asks why",
+    "stuyase means you are praised",
+    "paramesvari addresses the goddess"
+   ],
+   "inference": "The verse asks why the supreme goddess is praised then.",
+   "uncertainties": [
+    "The reason is not given in this verse"
+   ],
+   "plain_english": "Why are you indeed praised then, supreme goddess, you?"
+  },
+  {
+   "verse": 933,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "genitive singular pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "mātaraṇimādibhiḥ",
+     "gloss": "mother-anima-and-other-powers",
+     "grounds": "instrumental plural compound",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "alpikābhiḥ",
+     "gloss": "small-ones",
+     "grounds": "instrumental plural adjective",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "What are small powers like anima compared to him?",
+   "premises": [
+    "kim asks what",
+    "tasya means his",
+    "matra anima adibhih names small powers"
+   ],
+   "inference": "The verse diminishes small powers beside him.",
+   "uncertainties": [
+    "The comparison is rhetorical"
+   ],
+   "plain_english": "What are his small powers like anima and the rest?"
+  },
+  {
+   "verse": 934,
+   "rows": [
+    {
+     "surface": "bhaktārthasiddhikararatnam",
+     "gloss": "devotee-purpose-accomplishment-making-gem",
+     "grounds": "compound nominative neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "nominative singular neuter pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyadhāyi",
+     "gloss": "was-placed",
+     "grounds": "third singular passive aorist root dhā",
+     "morph": "3sg.pass-aor"
+    }
+   ],
+   "question": "What gem accomplishes devotees purposes?",
+   "premises": [
+    "bhakta artha siddhi kara ratnam names the gem",
+    "idam points to it",
+    "vyadhayi means it was placed"
+   ],
+   "inference": "The verse presents a gem that accomplishes devotees' purposes.",
+   "uncertainties": [
+    "The exact ritual placement is not detailed"
+   ],
+   "plain_english": "This gem, maker of devotees' accomplished purposes, was placed."
+  },
+  {
+   "verse": 935,
+   "rows": [
+    {
+     "surface": "samastāpadvimuktyarthaṃ",
+     "gloss": "all-danger-liberation-for",
+     "grounds": "compound accusative singular neuter purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samastasampadāptaye",
+     "gloss": "all-prosperity-gaining-for",
+     "grounds": "compound dative singular feminine purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "For what two aims is this kavaca used?",
+   "premises": [
+    "samasta apad vimukti artham means liberation from all dangers",
+    "samasta sampad aptaye means gaining all prosperity",
+    "both are purpose phrases"
+   ],
+   "inference": "The kavaca is for liberation from danger and gaining prosperity.",
+   "uncertainties": [
+    "The kavaca itself is named in nearby verses"
+   ],
+   "plain_english": "For liberation from all dangers and for gaining all prosperity."
+  },
+  {
+   "verse": 936,
+   "rows": [
+    {
+     "surface": "samastaroganāsāya",
+     "gloss": "all-disease-destruction-for",
+     "grounds": "compound dative singular masculine purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "samare",
+     "gloss": "in-battle",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vijayāya",
+     "gloss": "for-victory",
+     "grounds": "dative singular masculine",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For what purposes is this kavaca recited in battle?",
+   "premises": [
+    "samasta roga nasaya means destruction of all disease",
+    "samare means in battle",
+    "vijayaya means for victory"
+   ],
+   "inference": "The kavaca is for disease destruction and battle victory.",
+   "uncertainties": [
+    "The exact recitation context is implied"
+   ],
+   "plain_english": "For destruction of all diseases, in battle and for victory."
+  },
+  {
+   "verse": 937,
+   "rows": [
+    {
+     "surface": "araṇye",
+     "gloss": "in-forest",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sailagahane",
+     "gloss": "in-mountain-thicket",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "on-path",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "durbhikṣake",
+     "gloss": "in-famine",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which dangerous places is this kavaca useful?",
+   "premises": [
+    "aranye means in forest",
+    "sailagahane means in mountain thicket",
+    "marge means on path",
+    "durbhiksake means in famine"
+   ],
+   "inference": "The kavaca is useful in forest, mountain thicket, path, and famine.",
+   "uncertainties": [
+    "The exact danger in each place is implied"
+   ],
+   "plain_english": "In forest, mountain thicket, path, and famine likewise."
+  },
+  {
+   "verse": 938,
+   "rows": [
+    {
+     "surface": "prajapya",
+     "gloss": "having-recited",
+     "grounds": "absolutive from root jap",
+     "morph": "abs"
+    },
+    {
+     "surface": "nityakavacaṃ",
+     "gloss": "daily-kavaca",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyajatyasau",
+     "gloss": "that-one-abandons",
+     "grounds": "fused tyajati plus asau",
+     "morph": "3sg.act-pres"
+    },
+    {
+     "surface": "tyajatyasau",
+     "gloss": "that-one-abandons",
+     "grounds": "repeated fused form",
+     "morph": "3sg.act-pres"
+    }
+   ],
+   "question": "What happens when one recites the daily kavaca once?",
+   "premises": [
+    "prajapya means having recited",
+    "nityakavacam means daily kavaca",
+    "sakrt means once",
+    "sarvam means all"
+   ],
+   "inference": "Reciting the daily kavaca once makes that one abandon all.",
+   "uncertainties": [
+    "The fused form tyajatyasau is treated as one token"
+   ],
+   "plain_english": "Having recited the daily kavaca once, that one abandons all."
+  },
+  {
+   "verse": 939,
+   "rows": [
+    {
+     "surface": "sṛṇu",
+     "gloss": "hear",
+     "grounds": "second singular imperative root sru",
+     "morph": "2sg.imp"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "accusative singular neuter pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "kavaca",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-speak",
+     "grounds": "first singular future root vac",
+     "morph": "1sg.fut"
+    },
+    {
+     "surface": "bhavabhavāntakam",
+     "gloss": "existence-existence-ending",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kavaca will the speaker declare to the goddess?",
+   "premises": [
+    "srnu means hear",
+    "tat kavacam means that kavaca",
+    "devi addresses the goddess",
+    "bhavabhavantakam means ending existence and existence"
+   ],
+   "inference": "The speaker will declare the kavaca that ends repeated existence.",
+   "uncertainties": [
+    "The exact addressee context is implied"
+   ],
+   "plain_english": "Hear, goddess, I will speak that kavaca, ending existence and existence."
+  },
+  {
+   "verse": 940,
+   "rows": [
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadātmānaṃ",
+     "gloss": "always-self",
+     "grounds": "fused compound accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "lalitā",
+     "gloss": "lalita",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "let-her-protect",
+     "grounds": "third singular imperative root pa",
+     "morph": "3sg.imp"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who protects the self everywhere and always?",
+   "premises": [
+    "sarvatah means from everywhere",
+    "sarvadatmanam means always self",
+    "lalita is the protector",
+    "patu means let her protect"
+   ],
+   "inference": "Lalita protects the self everywhere and always.",
+   "uncertainties": [
+    "The fused form sarvadatmanam is treated as one token"
+   ],
+   "plain_english": "Lalita, protect the self everywhere and always."
+  },
+  {
+   "verse": 941,
+   "rows": [
+    {
+     "surface": "disaṃ",
+     "gloss": "direction",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "let-it-protect",
+     "grounds": "third singular imperative root pa",
+     "morph": "3sg.imp"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣaṃ",
+     "gloss": "right",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pārsvaṃ",
+     "gloss": "side",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "let-it-protect",
+     "grounds": "third singular imperative root pa",
+     "morph": "3sg.imp"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which directions and sides are protected always?",
+   "premises": [
+    "disam means direction",
+    "patu means let it protect",
+    "daksham parsvam means right side",
+    "sarvada means always"
+   ],
+   "inference": "Direction and right side are protected always.",
+   "uncertainties": [
+    "The protector sa is not named beyond pronoun"
+   ],
+   "plain_english": "Let it protect the direction, likewise the right side, always."
+  },
+  {
+   "verse": 942,
+   "rows": [
+    {
+     "surface": "athaiva",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "athaiva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pascime",
+     "gloss": "in-western",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rakṣet",
+     "gloss": "let-her-protect",
+     "grounds": "third singular optative root raks",
+     "morph": "3sg.opt"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative singular feminine pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vahnivāsinī",
+     "gloss": "fire-dweller",
+     "grounds": "nominative singular feminine compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who protects the western part?",
+   "premises": [
+    "pascime bhage means western part",
+    "rakshet means let her protect",
+    "vahnivasini names the protector"
+   ],
+   "inference": "Vahnivasini protects the western part.",
+   "uncertainties": [
+    "The exact fire association is implied"
+   ],
+   "plain_english": "Then indeed in the western part let Vahnivasini protect."
+  },
+  {
+   "verse": 943,
+   "rows": [
+    {
+     "surface": "vāmapārsvaṃ",
+     "gloss": "left-side",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāyāduḍḍī",
+     "gloss": "protect-uddi",
+     "grounds": "fused pāyāt plus uḍḍī",
+     "morph": "3sg.opt"
+    },
+    {
+     "surface": "pāyāduḍḍī",
+     "gloss": "protect-uddi",
+     "grounds": "repeated fused form",
+     "morph": "3sg.opt"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive singular pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "tvaritā",
+     "gloss": "swift-one",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who protects the left side always?",
+   "premises": [
+    "vamaparsvam means left side",
+    "sada means always",
+    "tvarita is named as protector",
+    "pāyāduḍḍī is a fused form"
+   ],
+   "inference": "Tvarita protects the left side always.",
+   "uncertainties": [
+    "The fused form pāyāduḍḍī is treated as one token"
+   ],
+   "plain_english": "Let Tvarita protect my left side always."
+  },
+  {
+   "verse": 944,
+   "rows": [
+    {
+     "surface": "nityā",
+     "gloss": "nitya",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "me",
+     "grounds": "accusative singular pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "mūrdhvataḥ",
+     "gloss": "from-above",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "let-her-protect",
+     "grounds": "third singular imperative root pa",
+     "morph": "3sg.imp"
+    },
+    {
+     "surface": "mādhavaḥ",
+     "gloss": "madhava",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "let-him-protect",
+     "grounds": "third singular imperative root pa",
+     "morph": "3sg.imp"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who protects from above and always?",
+   "premises": [
+    "nitya is named",
+    "murdhvatah means from above",
+    "madhava is named",
+    "sarvada means always"
+   ],
+   "inference": "Nitya and Madhava protect from above always.",
+   "uncertainties": [
+    "The exact pairing of protectors is implied"
+   ],
+   "plain_english": "Let Nitya protect me from above; let Madhava protect always."
+  },
+  {
+   "verse": 945,
+   "rows": [
+    {
+     "surface": "karotu",
+     "gloss": "let-her-do",
+     "grounds": "third singular imperative root kr",
+     "morph": "3sg.imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "genitive singular pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "mangalāni",
+     "gloss": "auspicious-things",
+     "grounds": "accusative plural neuter",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvamangalā",
+     "gloss": "all-auspicious-goddess",
+     "grounds": "nominative singular feminine compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is asked to do auspicious things always?",
+   "premises": [
+    "karotu means let her do",
+    "me mangalani means my auspicious things",
+    "sarvamangala names the goddess"
+   ],
+   "inference": "Sarvamangala is asked to do auspicious things always.",
+   "uncertainties": [
+    "The exact goddess identity is by epithet"
+   ],
+   "plain_english": "Let Sarvamangala do auspicious things for me always."
+  },
+  {
+   "verse": 946,
+   "rows": [
+    {
+     "surface": "vicitrā",
+     "gloss": "variegated-one",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvato",
+     "gloss": "from-everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rakṣet",
+     "gloss": "let-her-protect",
+     "grounds": "third singular optative root raks",
+     "morph": "3sg.opt"
+    },
+    {
+     "surface": "ṣoḍasī",
+     "gloss": "shodashi",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "let-her-protect",
+     "grounds": "third singular imperative root pa",
+     "morph": "3sg.imp"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "beautiful-one",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses protect from everywhere?",
+   "premises": [
+    "vicitra is named",
+    "sarvato means from everywhere",
+    "shodashi is named",
+    "sundari is named"
+   ],
+   "inference": "Vicitra, Shodashi, and Sundari protect from everywhere.",
+   "uncertainties": [
+    "The exact pairing of protectors is implied"
+   ],
+   "plain_english": "Let Vicitra protect from everywhere; let Shodashi protect; let Sundari protect."
+  },
+  {
+   "verse": 947,
+   "rows": [
+    {
+     "surface": "catvāro",
+     "gloss": "four",
+     "grounds": "nominative plural masculine numeral",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pāntu",
+     "gloss": "let-them-protect",
+     "grounds": "third plural imperative root pa",
+     "morph": "3pl.imp"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive singular pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "aniṣṭavināsakāḥ",
+     "gloss": "misfortune-destroyers",
+     "grounds": "nominative plural masculine compound",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the four teachers that destroy misfortune?",
+   "premises": [
+    "catvaro means four",
+    "guravah means teachers",
+    "anistavinashakah means misfortune destroyers",
+    "pantu means let them protect"
+   ],
+   "inference": "Four teachers who destroy misfortune protect the speaker.",
+   "uncertainties": [
+    "The four teachers are not individually named"
+   ],
+   "plain_english": "Let the four teachers, destroyers of misfortune, protect me."
+  },
+  {
+   "verse": 948,
+   "rows": [
+    {
+     "surface": "vighnaṃ",
+     "gloss": "obstacle",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "genitive singular pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "parighnantu",
+     "gloss": "let-them-destroy",
+     "grounds": "third plural imperative root parighn",
+     "morph": "3pl.imp"
+    },
+    {
+     "surface": "prasiddhāḥ",
+     "gloss": "well-known",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "siddhayo",
+     "gloss": "siddhis",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dasa",
+     "gloss": "ten",
+     "grounds": "nominative plural numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who destroys the speaker's obstacles?",
+   "premises": [
+    "vighnam means obstacle",
+    "mama means my",
+    "parighnantu means let them destroy",
+    "prasiddhah siddhayo dasa means ten well-known siddhis"
+   ],
+   "inference": "Ten well-known siddhis destroy the speaker's obstacles.",
+   "uncertainties": [
+    "The ten siddhis are not individually named"
+   ],
+   "plain_english": "Let the ten well-known siddhis destroy my obstacle."
+  },
+  {
+   "verse": 949,
+   "rows": [
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "nominative plural numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgdevatā",
+     "gloss": "speech-goddesses",
+     "grounds": "nominative plural feminine compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhavyamūrtayaḥ",
+     "gloss": "beautiful-formed-ones",
+     "grounds": "nominative plural feminine compound",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pālayantu",
+     "gloss": "let-them-protect",
+     "grounds": "third plural imperative root pal",
+     "morph": "3pl.imp"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "accusative singular pronoun",
+     "morph": "pron.acc.sg"
+    }
+   ],
+   "question": "Who are the eight speech goddesses that protect the speaker?",
+   "premises": [
+    "astau means eight",
+    "vagdevata means speech goddesses",
+    "bhavyamurtayah means beautiful formed ones",
+    "palayantu means let them protect"
+   ],
+   "inference": "Eight beautiful-formed speech goddesses protect the speaker.",
+   "uncertainties": [
+    "The eight goddesses are not individually named"
+   ],
+   "plain_english": "Let the eight beautiful-formed speech goddesses protect me."
+  }
+ ]
+}

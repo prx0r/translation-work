@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "tārkkṣeśvarī",
+     "gloss": "garuda-lady",
+     "grounds": "compound of tārkṣa (Garuḍa) and īśvarī (lady, goddess)",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "tārkkṣamātā",
+     "gloss": "garuda-mother",
+     "grounds": "compound of tārkṣa (Garuḍa) and mātā (mother)",
+     "morph": "compound; f.nom.sg"
+    },
+    {
+     "surface": "tārkkṣeśīvaradāyinī",
+     "gloss": "garuda-lady-boon-giver",
+     "grounds": "compound of tārkṣa (Garuḍa), īśī (lady), vara (boon), and dāyinī (giver)",
+     "morph": "compound; f.nom.sg"
+    }
+   ],
+   "question": "Which Garuda-related identities and boon-granting power characterize this goddess?",
+   "premises": [
+    "The goddess is identified as the lady associated with Garuda.",
+    "The goddess is identified as the mother of Garuda.",
+    "The goddess is identified as the giver of boons in her Garuda-associated form."
+   ],
+   "inference": "This verse attributes to the goddess sovereign, maternal, and boon-granting roles in relation to Garuda.",
+   "uncertainties": [
+    "The internal segmentation of tārkkṣeśīvaradāyinī follows the legacy hint but may admit alternative compound analysis."
+   ],
+   "plain_english": "She is the lady of Garuda, the mother of Garuda, and the boon-giving lady of Garuda."
+  }
+ ]
+}

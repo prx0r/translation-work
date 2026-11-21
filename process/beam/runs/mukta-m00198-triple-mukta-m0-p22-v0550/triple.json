@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "vājanasya",
+     "gloss": "of-projection",
+     "grounds": "genitive dependent indicating the architectural member whose feature is specified",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or contrast in the sequence of specifications",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkrāntiṃ",
+     "gloss": "protrusion",
+     "grounds": "object denoting the outward extension or exit of the projection",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "uttarādvājanonnatam",
+     "gloss": "north-from-projection-raised",
+     "grounds": "fused form expressing elevation measured from the northern projection; internal sandhi/compound members uttarāt+vājana+unnatam",
+     "morph": "compound"
+    }
+   ],
+   "question": "What elevation defines the protrusion measured from the northern projection?",
+   "premises": [
+    "The protrusion belongs to the projection.",
+    "The measurement is taken from the northern side.",
+    "The specified feature is an elevated height."
+   ],
+   "inference": "The protrusion of the projection is defined as the height raised from the northern projection.",
+   "uncertainties": [
+    "The exact architectural referent of vājana in this context is not fully specified."
+   ],
+   "plain_english": "But the protrusion of the projection is the height raised from the northern projection."
+  }
+ ]
+}

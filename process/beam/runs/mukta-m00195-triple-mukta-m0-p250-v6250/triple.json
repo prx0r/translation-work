@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p250",
+ "items": [
+  {
+   "verse": 6250,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "finite verb expressing the resulting state",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "niścayena",
+     "gloss": "with-certainty",
+     "grounds": "instrumental form indicating assured outcome",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yamātithiḥ",
+     "gloss": "guest-of-death",
+     "grounds": "compound denoting one who becomes Yama's guest; subject of the clause",
+     "morph": "compound: yama+atithi; m.nom.sg"
+    }
+   ],
+   "question": "What certain fate results from the prescribed mantra recitation?",
+   "premises": [
+    "The preceding verses prescribe a specific mantra recitation.",
+    "The recitation is to be performed a stated number of times.",
+    "The outcome of this act is described as certain."
+   ],
+   "inference": "Performing the prescribed recitation certainly results in becoming a guest of Death.",
+   "uncertainties": [
+    "The expression yamātithiḥ is taken as becoming Yama's guest, i.e. dying, though the precise ritual consequence depends on the broader context."
+   ],
+   "plain_english": "He certainly becomes a guest of Death."
+  }
+ ]
+}

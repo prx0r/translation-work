@@ -1,0 +1,77 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m00642-p01",
+ "work": "mukta-m00642",
+ "date": "2026-11-01",
+ "blocking": [
+  "L2_CITE_FAIL 1",
+  "DATA_OBJECTS 1 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "1e16a4ff3cceab84",
+ "source_verses": 2,
+ "t1_verses": 2,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 14
+ },
+ "align": {
+  "min_ratio": 0.926,
+  "sub090": {}
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 25,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 2,
+  "failures": [
+   "rākṣasīcajapet mahādevaṃsnānaṃ re a ci mū tṛ 15 7"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[mukta-m00642-p01-v1]: cite part not byte-exact in source: rākṣasīcajapet mahādevaṃsnānaṃ re a ci mū tṛ 15 7"
+  ],
+  "counts": {
+   "t1": 2,
+   "l0": 14,
+   "argmap": 2,
+   "l2": 2,
+   "l3": 0,
+   "l4": 0,
+   "essence": 2,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "13404e03f6100e96d77043469df32325f1cc9bf5e4bd480f8b626aa995ca18f8",
+  "l0": "a588b62a45835d070a46a1fe2898033a4bb6b41b4eca5648e0ccbeed7dcefd47",
+  "argmap": "2afd9feedb7a84746793b08c545bd41c57fee85b840c958ab968c1f758b9c12b",
+  "l2": "ac9e0305b9e3a9184e336609a5483bed73ecb79ebe42ab589e1bb6c0a6400899",
+  "c1": "df3fc028ad695ca658fe7d9cb4addaa1bdb30156ef8fbb7913ce7b9a718c619a"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1e16a4ff3cceab84",
+  "t1": "mukta-m00642-p01/data/mukta-m00642-p01.t1.json",
+  "l0": "mukta-m00642-p01/data/mukta-m00642-p01.l0.json",
+  "l2": "mukta-m00642-p01/data/mukta-m00642-p01.l2.json",
+  "c1": "mukta-m00642-p01/data/mukta-m00642-p01.c1.json"
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "mantric oblation syllable, kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hsau",
+     "gloss": "hsau",
+     "grounds": "bīja seed-syllable, kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hsau",
+     "gloss": "hsau",
+     "grounds": "bīja seed-syllable repeated, kept byte-exact",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyeyaṃ",
+     "gloss": "knowledge-this",
+     "grounds": "fused form of vidyā and iyam identifying the mantra as this vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śambhavīmūla",
+     "gloss": "śambhavī-root",
+     "grounds": "compound qualifying the vidyā as rooted in Śambhavī",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvikā",
+     "gloss": "primordial",
+     "grounds": "qualifies the vidyā as original or prior",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which mantra syllables constitute the primordial vidyā rooted in Śambhavī?",
+   "premises": [
+    "The mantra syllables given are svāhā, hsau, and hsau.",
+    "This sequence is identified as a specific vidyā.",
+    "The vidyā is characterized as rooted in Śambhavī and primordial."
+   ],
+   "inference": "The sequence svāhā hsau hsau constitutes the primordial Śambhavī-root vidyā.",
+   "uncertainties": [
+    "The precise doctrinal sense of śambhavīmūla within this Śrīvidyā context is not fully specified in the verse alone."
+   ],
+   "plain_english": "Svāhā, hsau, hsau — this is the primordial vidyā rooted in Śambhavī."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescribes the act of giving in the ritual context",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative indicating the intended recipient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "repeated demonstrative emphasizing the specific recipient",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddiśya",
+     "gloss": "having-designated",
+     "grounds": "expresses the prior act of specifying the recipient",
+     "morph": "(gerund) ud-√diś"
+    },
+    {
+     "surface": "daivatam",
+     "gloss": "deity",
+     "grounds": "identifies the divine recipient of the offering",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "To which specific deity must the bali offering be given after designation?",
+   "premises": [
+    "The ritual context prescribes the act of giving an offering.",
+    "The offering must be directed toward a specific recipient.",
+    "Designation of the deity precedes the act of giving."
+   ],
+   "inference": "Therefore, one should give the offering to that particular deity after having designated it.",
+   "uncertainties": [],
+   "plain_english": "Having designated that particular deity, one should give the offering to that deity."
+  }
+ ]
+}

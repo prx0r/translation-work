@@ -1,0 +1,1119 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 526,
+   "rows": [
+    {
+     "surface": "tattribhāgaikabhāgaṃ",
+     "gloss": "that-third-part-one-part",
+     "grounds": "compound indicating one part of its third division",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "refers to the previously mentioned element",
+     "morph": "m.sg.gen"
+    },
+    {
+     "surface": "nīvram",
+     "gloss": "waist",
+     "grounds": "architectural waist or middle band",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated as defined",
+     "morph": "n.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "What proportional measure defines the waist of that element?",
+   "premises": [
+    "A specific third-part division is taken as reference.",
+    "One part of that division is assigned.",
+    "This measure is declared as its waist."
+   ],
+   "inference": "The waist is defined as one part out of a third division of that element.",
+   "uncertainties": [
+    "The exact referent of tasya depends on the preceding context."
+   ],
+   "plain_english": "One part of its third division is declared to be its waist."
+  },
+  {
+   "verse": 527,
+   "rows": [
+    {
+     "surface": "kavāṭāgre",
+     "gloss": "door-front",
+     "grounds": "at the front edge of the door panel",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "middle",
+     "grounds": "in the middle position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmapaṭṭikapārśvayoḥ",
+     "gloss": "left-strip-sides",
+     "grounds": "on the sides of the left strip",
+     "morph": "compound+n.loc.du"
+    }
+   ],
+   "question": "At which locations on the door structure should fittings be placed?",
+   "premises": [
+    "The door front is specified as a location.",
+    "The middle is specified as a location.",
+    "The sides of the left strip are specified as locations."
+   ],
+   "inference": "Fittings are to be placed at the door front, the middle, and the sides of the left strip.",
+   "uncertainties": [
+    "The exact nature of the fittings is supplied by the following verse."
+   ],
+   "plain_english": "At the front of the door, in the middle, and on the sides of the left strip."
+  },
+  {
+   "verse": 528,
+   "rows": [
+    {
+     "surface": "lohajaṃ",
+     "gloss": "iron-born",
+     "grounds": "made of iron",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dārujaṃ",
+     "gloss": "wood-born",
+     "grounds": "made of wood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-then",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhyābhyantara",
+     "gloss": "outer-inner",
+     "grounds": "placed on outer and inner sides",
+     "morph": "compound"
+    },
+    {
+     "surface": "yaṣṭayaḥ",
+     "gloss": "rods",
+     "grounds": "bars or rods used as fittings",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What materials and placement are prescribed for the door rods?",
+   "premises": [
+    "Rods may be made of iron.",
+    "Rods may alternatively be made of wood.",
+    "Rods are placed on outer and inner sides."
+   ],
+   "inference": "Iron or wooden rods are to be used on both outer and inner sides.",
+   "uncertainties": [],
+   "plain_english": "Rods made of iron or wood should be placed on the outer and inner sides."
+  },
+  {
+   "verse": 529,
+   "rows": [
+    {
+     "surface": "badhvā",
+     "gloss": "having-bound",
+     "grounds": "after fastening",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "kapāṭayogau",
+     "gloss": "door-joints",
+     "grounds": "the two joining fittings of the door panels",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral indicating a pair",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "dārulohair",
+     "gloss": "wood-iron-by",
+     "grounds": "by means of wood and iron",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "dṛḍhīkṛtam",
+     "gloss": "strengthened",
+     "grounds": "made firm",
+     "morph": "n.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "How should the two door joints be secured for strength?",
+   "premises": [
+    "Two door joints are to be fastened.",
+    "Wood and iron are used in fastening.",
+    "The result is a strengthened construction."
+   ],
+   "inference": "The two door joints must be fastened with wood and iron to make them strong.",
+   "uncertainties": [],
+   "plain_english": "Having fastened the two door joints with wood and iron, they should be made strong."
+  },
+  {
+   "verse": 530,
+   "rows": [
+    {
+     "surface": "pareṣāṃ",
+     "gloss": "others",
+     "grounds": "for other people or outsiders",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ghāṭanodghāṭayantram",
+     "gloss": "locking-unlocking-mechanism",
+     "grounds": "device for closing and opening",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "avyaktam",
+     "gloss": "hidden",
+     "grounds": "not visible or concealed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-make",
+     "grounds": "one should arrange or implement",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "How should the door locking mechanism be arranged against outsiders?",
+   "premises": [
+    "A locking and unlocking mechanism is required.",
+    "The mechanism must be hidden from others.",
+    "One should arrange it accordingly."
+   ],
+   "inference": "The locking and unlocking mechanism should be made concealed from others.",
+   "uncertainties": [],
+   "plain_english": "One should make the locking and unlocking mechanism hidden from others."
+  },
+  {
+   "verse": 531,
+   "rows": [
+    {
+     "surface": "dvāram",
+     "gloss": "door",
+     "grounds": "the door construction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "fully explained",
+     "morph": "n.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "kampadvāram",
+     "gloss": "swing-door",
+     "grounds": "the swinging door type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "from here onward",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "listen to the following",
+     "morph": "2.sg.imperative-active"
+    }
+   ],
+   "question": "What transition marks the end of the door description and the next topic?",
+   "premises": [
+    "The door has been declared in this manner.",
+    "The next topic is the swing-door.",
+    "The listener is asked to hear further."
+   ],
+   "inference": "The description of the door concludes and the teaching turns to the swing-door.",
+   "uncertainties": [],
+   "plain_english": "Thus the door has been declared; now hear about the swing-door."
+  },
+  {
+   "verse": 532,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśumān",
+     "gloss": "Aṃśumān",
+     "grounds": "name or epithet in the text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-Kāśyapa",
+     "grounds": "in the Kāśyapa text or teaching",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvaralakṣaṇapaṭalaḥ",
+     "gloss": "door-characteristics-chapter",
+     "grounds": "chapter on the characteristics of doors",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteenth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa text concludes at this point?",
+   "premises": [
+    "The passage ends with a closing formula.",
+    "The chapter concerns door characteristics.",
+    "It is identified as the sixteenth."
+   ],
+   "inference": "This marks the end of the sixteenth chapter on door characteristics in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the sixteenth chapter on the characteristics of doors in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 533,
+   "rows": [
+    {
+     "surface": "prāsādamaṇṭapādīnāṃ",
+     "gloss": "palace-pavilion-etc",
+     "grounds": "of palaces, pavilions and similar structures",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "four-directions",
+     "grounds": "in the four cardinal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vidikṣu",
+     "gloss": "intermediate-directions",
+     "grounds": "in the intermediate directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which directions of palaces and pavilions may swing-doors be placed?",
+   "premises": [
+    "Palaces, pavilions and similar structures are the context.",
+    "The four cardinal directions are included.",
+    "The intermediate directions are included."
+   ],
+   "inference": "Swing-doors may be placed in the cardinal and intermediate directions of such structures.",
+   "uncertainties": [],
+   "plain_english": "For palaces, pavilions and the like, in the four directions and the intermediate directions."
+  },
+  {
+   "verse": 534,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there-indeed",
+     "grounds": "in those very places",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "one should construct or install",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "correctly and completely",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṃpadvāraṃ",
+     "gloss": "swing-door",
+     "grounds": "a swinging door",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative address to the foremost twice-born",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How should a swing-door be installed in those designated directions?",
+   "premises": [
+    "The locations have already been specified.",
+    "A swing-door is the object to be installed.",
+    "It must be arranged properly."
+   ],
+   "inference": "A swing-door should be properly arranged in those very locations.",
+   "uncertainties": [],
+   "plain_english": "There itself, O best of the twice-born, one should properly arrange a swing-door."
+  },
+  {
+   "verse": 535,
+   "rows": [
+    {
+     "surface": "sthālāduttarasīmāntaṃ",
+     "gloss": "from-threshold-north-boundary",
+     "grounds": "from the threshold up to the northern boundary",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "kaṃpadvārodayaṃ",
+     "gloss": "swing-door-rise",
+     "grounds": "the height of the swing-door",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What vertical extent determines the height of the swing-door?",
+   "premises": [
+    "The lower reference is the threshold.",
+    "The upper reference is the northern boundary.",
+    "This span defines the swing-door height."
+   ],
+   "inference": "The swing-door height should extend from the threshold to the northern boundary.",
+   "uncertainties": [
+    "The term uttarasīmāntaṃ may have a specific architectural referent in context."
+   ],
+   "plain_english": "The height of the swing-door should extend from the threshold to the upper boundary."
+  },
+  {
+   "verse": 536,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "after making",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dṛḍhataraṃ",
+     "gloss": "firmer",
+     "grounds": "very firm or stronger",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "badhva",
+     "gloss": "having-bound",
+     "grounds": "after fastening",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "one should fit or attach",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "antaraṃghrayaḥ",
+     "gloss": "inner-feet",
+     "grounds": "inner supports or feet",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How should the inner supports of the swing-door be installed?",
+   "premises": [
+    "The supports must be made very firm.",
+    "They must be fastened securely.",
+    "They should then be joined in place."
+   ],
+   "inference": "The inner supports should be made firm, fastened, and then fitted.",
+   "uncertainties": [
+    "The exact form of antaraṃghrayaḥ is context-dependent."
+   ],
+   "plain_english": "Having made them very firm and fastened them, one should fit the inner supports."
+  },
+  {
+   "verse": 537,
+   "rows": [
+    {
+     "surface": "mūlāgrayoḥ",
+     "gloss": "at-base-top",
+     "grounds": "at the base and at the top",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "peaks",
+     "grounds": "projecting points or tips",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "these specified elements",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tārāṃghriṃ",
+     "gloss": "star-foot",
+     "grounds": "a support or foot of star-like form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "one should fashion or set up",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "Where and how should the peak elements and star-foot be arranged?",
+   "premises": [
+    "Base and top positions are specified.",
+    "Peak elements are to be placed there.",
+    "A star-foot support should be arranged."
+   ],
+   "inference": "At base and top one should arrange these peaks and fashion the star-foot.",
+   "uncertainties": [
+    "The technical meaning of tārāṃghriṃ is not fully certain."
+   ],
+   "plain_english": "At the base and top one should arrange these peaks and set up the star-foot."
+  },
+  {
+   "verse": 538,
+   "rows": [
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "numeral option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃca",
+     "gloss": "five",
+     "grounds": "numeral option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṣṭau",
+     "gloss": "six-eight",
+     "grounds": "numeral options six or eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What numerical options are permitted for the number of divisions or elements?",
+   "premises": [
+    "Four and five are permitted counts.",
+    "Six or eight are permitted counts.",
+    "Ten or twelve are permitted counts."
+   ],
+   "inference": "The construction allows four, five, six, eight, ten, or twelve elements.",
+   "uncertainties": [
+    "The counted items are implied by the surrounding verses."
+   ],
+   "plain_english": "One may use four, five, six, eight, ten, or twelve."
+  },
+  {
+   "verse": 539,
+   "rows": [
+    {
+     "surface": "antarāyantarāmatyā",
+     "gloss": "interval-interval-measure",
+     "grounds": "by the measure of successive intervals",
+     "morph": "compound+f.ins.sg"
+    },
+    {
+     "surface": "gamāgamakṣamaṃ",
+     "gloss": "going-coming-capable",
+     "grounds": "allowing passage in and out",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "excluding or without obstruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What spacing condition must be maintained to allow passage through the structure?",
+   "premises": [
+    "Intervals are measured successively.",
+    "The arrangement must permit going and coming.",
+    "No obstruction should prevent passage."
+   ],
+   "inference": "Intervals must be set so that movement in and out remains unobstructed.",
+   "uncertainties": [
+    "The precise syntactic role of vinā in this technical context is slightly unclear."
+   ],
+   "plain_english": "By proper spacing of intervals, it should allow going and coming without obstruction."
+  },
+  {
+   "verse": 540,
+   "rows": [
+    {
+     "surface": "yojayet",
+     "gloss": "should-join",
+     "grounds": "one should fit",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavāṭaṃ",
+     "gloss": "door-panel",
+     "grounds": "the door leaf or panel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyomai",
+     "gloss": "in-spaces",
+     "grounds": "in the openings or spaces",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pratyekameva",
+     "gloss": "each-one-indeed",
+     "grounds": "individually in each case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should door panels be fitted within the available openings?",
+   "premises": [
+    "Door panels are to be joined.",
+    "They are placed in the openings.",
+    "They may be fitted individually in each opening."
+   ],
+   "inference": "One should fit a door panel in each opening, individually as required.",
+   "uncertainties": [
+    "The form vyomai is unusual and may reflect a technical locative usage."
+   ],
+   "plain_english": "One should fit the door panel in the openings, each one individually if needed."
+  },
+  {
+   "verse": 541,
+   "rows": [
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "one should construct",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "sudṛḍhaṃ",
+     "gloss": "very-firm",
+     "grounds": "extremely strong",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "the door structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "calaṃ",
+     "gloss": "moving",
+     "grounds": "shaking or movable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hastināpi",
+     "gloss": "even-by-elephant",
+     "grounds": "even by the force of an elephant",
+     "morph": "m.ins.sg+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "emphatic connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What degree of firmness is required for the constructed swing-door?",
+   "premises": [
+    "The door must be arranged very firmly.",
+    "It must not move.",
+    "It must resist even the force of an elephant."
+   ],
+   "inference": "The swing-door should be built so firmly that even an elephant cannot move it.",
+   "uncertainties": [],
+   "plain_english": "One should make the door very firm, so that it does not move even when pushed by an elephant."
+  },
+  {
+   "verse": 542,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃśumān",
+     "gloss": "Aṃśumān",
+     "grounds": "name or epithet in the text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-Kāśyapa",
+     "grounds": "in the Kāśyapa text or teaching",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kaṃpadvāralakṣaṇapaṭalaḥ",
+     "gloss": "swing-door-characteristics-chapter",
+     "grounds": "chapter on the characteristics of swing-doors",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saptadaśa",
+     "gloss": "seventeenth",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter on swing-door characteristics concludes at this point?",
+   "premises": [
+    "The passage ends with a closing formula.",
+    "The chapter concerns swing-door characteristics.",
+    "It is identified as the seventeenth."
+   ],
+   "inference": "This marks the end of the seventeenth chapter on swing-door characteristics in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the seventeenth chapter on the characteristics of swing-doors in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 543,
+   "rows": [
+    {
+     "surface": "staṃbhārdhaṃ",
+     "gloss": "pillar-half",
+     "grounds": "half the pillar measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṃcamānaṃ",
+     "gloss": "platform-measure",
+     "grounds": "the measure of the platform",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpotsedhāṃśam",
+     "gloss": "height-part",
+     "grounds": "a part of the total height",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative measures define the platform height in relation to the pillar?",
+   "premises": [
+    "Half the pillar is given as a measure.",
+    "A part of the total height is given as an alternative.",
+    "Both define the platform measure."
+   ],
+   "inference": "The platform measure may be half the pillar or a part of the total height.",
+   "uncertainties": [
+    "The exact parsing of āpotsedhāṃśam is context-dependent."
+   ],
+   "plain_english": "The platform measure should be half the pillar, or alternatively a part of the total height."
+  },
+  {
+   "verse": 544,
+   "rows": [
+    {
+     "surface": "vājanaṃ",
+     "gloss": "projection",
+     "grounds": "a projecting architectural member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgena",
+     "gloss": "one-part",
+     "grounds": "by one part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhūtamālāṃ",
+     "gloss": "element-garland",
+     "grounds": "a decorative band or garland motif",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataṃ",
+     "gloss": "spread",
+     "grounds": "extended or laid out",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "by-three",
+     "grounds": "by three parts",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What proportional parts are assigned to the projection and the element garland?",
+   "premises": [
+    "The projection is assigned one part.",
+    "The element garland is extended over three parts.",
+    "These proportions are specified together."
+   ],
+   "inference": "The projection takes one part and the element garland extends over three parts.",
+   "uncertainties": [
+    "The technical meaning of bhūtamālāṃ may vary in architectural usage."
+   ],
+   "plain_english": "The projection should be one part, and the element garland should extend over three parts."
+  },
+  {
+   "verse": 545,
+   "rows": [
+    {
+     "surface": "saptāṃśaṃ",
+     "gloss": "seven-part",
+     "grounds": "divided into seven parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapotoccaṃ",
+     "gloss": "cornice-height",
+     "grounds": "the height of the cornice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āliṃgaṃ",
+     "gloss": "embrace-member",
+     "grounds": "an architectural molding or member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgayā",
+     "gloss": "one-part",
+     "grounds": "by one part",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "How are the cornice height and the āliṅga member proportioned within seven parts?",
+   "premises": [
+    "The total is divided into seven parts.",
+    "The cornice height is defined within this division.",
+    "The āliṅga member takes one part."
+   ],
+   "inference": "Within a seven-part division, the cornice height is set and the āliṅga takes one part.",
+   "uncertainties": [
+    "The exact allocation of remaining parts to kapotocca is implied rather than explicit."
+   ],
+   "plain_english": "In a seven-part division, the cornice height is set accordingly and the āliṅga member takes one part."
+  },
+  {
+   "verse": 546,
+   "rows": [
+    {
+     "surface": "vājanaṃ",
+     "gloss": "projection",
+     "grounds": "a projecting architectural member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhāgena",
+     "gloss": "one-part",
+     "grounds": "by one part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaprakārataḥ",
+     "gloss": "another-way",
+     "grounds": "according to another method",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative method is allowed for proportioning the projection?",
+   "premises": [
+    "The projection may be one part.",
+    "An alternative method is also permitted.",
+    "The choice depends on another arrangement."
+   ],
+   "inference": "The projection may be made one part or proportioned according to another method.",
+   "uncertainties": [],
+   "plain_english": "The projection should be one part, or alternatively arranged in another way."
+  },
+  {
+   "verse": 547,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-part",
+     "grounds": "by one part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "projection",
+     "grounds": "a projecting architectural member",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "one should construct",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "agnyaṃśair",
+     "gloss": "by-fire-parts",
+     "grounds": "by three parts",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "What proportional division assigns one part and three parts in this alternative scheme?",
+   "premises": [
+    "The projection is made with one part.",
+    "Another element is made with three parts.",
+    "The term agnyaṃśair indicates three parts."
+   ],
+   "inference": "In this scheme the projection takes one part and the associated element takes three parts.",
+   "uncertainties": [
+    "The element measured by agnyaṃśair is implied from context."
+   ],
+   "plain_english": "One should make the projection with one part, and the other element should be three parts."
+  },
+  {
+   "verse": 548,
+   "rows": [
+    {
+     "surface": "āliṃgamaṃśam",
+     "gloss": "embrace-part",
+     "grounds": "the āliṅga portion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṃgena",
+     "gloss": "by-part",
+     "grounds": "by one part",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "one should construct",
+     "morph": "3.sg.optative-active"
+    },
+    {
+     "surface": "antaritaṃ",
+     "gloss": "interior",
+     "grounds": "the intervening or inner portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "is to be",
+     "morph": "3.sg.optative-active"
+    }
+   ],
+   "question": "How should the āliṅga part and the intervening portion be proportioned?",
+   "premises": [
+    "The āliṅga part is made with one part.",
+    "An intervening portion is specified.",
+    "Both are included in the arrangement."
+   ],
+   "inference": "The āliṅga should be one part and the intervening portion should be set accordingly.",
+   "uncertainties": [
+    "The exact measure of antaritaṃ is not explicitly stated."
+   ],
+   "plain_english": "One should make the āliṅga part with one part, and the intervening portion should be arranged."
+  },
+  {
+   "verse": 549,
+   "rows": [
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "the vertical measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evamākhyātaṃ",
+     "gloss": "thus-declared",
+     "grounds": "explained in this manner",
+     "morph": "n.nom.sg.past-passive-participle"
+    },
+    {
+     "surface": "aṃganīvram",
+     "gloss": "courtyard-waist",
+     "grounds": "the waist or middle band of the courtyard structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "athocyate",
+     "gloss": "now-is-stated",
+     "grounds": "now it is being explained",
+     "morph": "3.sg.present-passive"
+    }
+   ],
+   "question": "What topic follows after the height has been declared in this manner?",
+   "premises": [
+    "The height has been declared as described.",
+    "A new topic is introduced.",
+    "That topic is the courtyard waist."
+   ],
+   "inference": "After declaring the height, the text proceeds to explain the courtyard waist.",
+   "uncertainties": [
+    "The compound aṃganīvram may have a specific technical architectural meaning."
+   ],
+   "plain_english": "Thus the height has been declared; now the courtyard waist is explained."
+  }
+ ]
+}

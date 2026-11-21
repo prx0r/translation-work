@@ -1,0 +1,1103 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1301,
+   "rows": [
+    {
+     "surface": "śrīhaṭṭam",
+     "gloss": "śrīhaṭṭa",
+     "grounds": "place name, object of implied location",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "locative of direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upapīṭhāni",
+     "gloss": "subsidiary-seats",
+     "grounds": "compound upa+pīṭha, object to be heard",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "atho",
+     "gloss": "now",
+     "grounds": "particle introducing next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative addressed to listener",
+     "morph": "2.sg.imp.act-√śru"
+    }
+   ],
+   "question": "What subsidiary seats lie in the east including Śrīhaṭṭa?",
+   "premises": [
+    "Śrīhaṭṭa is located in the east.",
+    "Subsidiary seats are also present there.",
+    "The listener is instructed to hear about them."
+   ],
+   "inference": "The teaching turns to subsidiary seats in the east, beginning with Śrīhaṭṭa.",
+   "uncertainties": [],
+   "plain_english": "Śrīhaṭṭa is also in the east; now listen to the subsidiary seats."
+  },
+  {
+   "verse": 1302,
+   "rows": [
+    {
+     "surface": "prastāre",
+     "gloss": "in-expanse",
+     "grounds": "locative indicating breadth",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "oḍrapīṭhasya",
+     "gloss": "of-oḍrapīṭha",
+     "grounds": "genitive of the seat name",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "locative indicating length",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ati",
+     "gloss": "exceeding",
+     "grounds": "prefix/particle indicating excess",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇaṃ",
+     "gloss": "multiplied",
+     "grounds": "accusative indicating multiplication factor",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.opt.act-√bhū"
+    }
+   ],
+   "question": "How should the length of Oḍrapīṭha compare to its expanse?",
+   "premises": [
+    "Oḍrapīṭha has an expanse and a length.",
+    "The length is described in relation to the expanse.",
+    "The measure is prescribed as exceeding by multiplication."
+   ],
+   "inference": "The length of Oḍrapīṭha should be a multiple greater than its expanse.",
+   "uncertainties": [
+    "The exact multiplier implied by ati guṇaṃ is not specified."
+   ],
+   "plain_english": "In length, Oḍrapīṭha should be many times greater than its breadth."
+  },
+  {
+   "verse": 1303,
+   "rows": [
+    {
+     "surface": "caturdvāra",
+     "gloss": "four-doored",
+     "grounds": "compound catur+dvāra",
+     "morph": "compound"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "past participle describing the seat",
+     "morph": "n.nom.sg.ppp-√yuj+sam+ā"
+    },
+    {
+     "surface": "vāyuvimbena",
+     "gloss": "by-wind-form",
+     "grounds": "instrumental of marking emblem, compound vāyu+bimba",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "cihnitam",
+     "gloss": "marked",
+     "grounds": "past participle describing the seat",
+     "morph": "n.nom.sg.ppp-√cihn"
+    }
+   ],
+   "question": "What structural features and emblem characterize the described seat?",
+   "premises": [
+    "The seat is endowed with four doors.",
+    "The seat bears a distinguishing mark.",
+    "The mark is the form of wind."
+   ],
+   "inference": "The seat is four-doored and marked by the emblem of wind.",
+   "uncertainties": [],
+   "plain_english": "It is furnished with four doors and marked with the emblem of wind."
+  },
+  {
+   "verse": 1304,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "someśvaraṃ",
+     "gloss": "someśvara",
+     "grounds": "name of the liṅga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "liṅga",
+     "grounds": "sacred emblem",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādipīṭhaṃ",
+     "gloss": "primordial-seat",
+     "grounds": "compound ādi+pīṭha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying the seat",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred liṅga and seat are present at that location?",
+   "premises": [
+    "The location contains a liṅga named Someśvara.",
+    "The location also contains a primordial seat.",
+    "That seat is described as supreme."
+   ],
+   "inference": "There the Someśvara liṅga and the supreme primordial seat are present.",
+   "uncertainties": [],
+   "plain_english": "There is the Someśvara liṅga and likewise the supreme primordial seat."
+  },
+  {
+   "verse": 1305,
+   "rows": [
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "sacred field",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "virajasaṃjñaṃ",
+     "gloss": "named-viraja",
+     "grounds": "compound viraja+saṃjña, bearing that name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekāmraṃ",
+     "gloss": "ekāmra",
+     "grounds": "place name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "compound tad+anantara, indicating sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which sacred field and subsequent place follow in the enumeration?",
+   "premises": [
+    "A sacred field named Viraja is included.",
+    "Ekāmra comes after that.",
+    "Both are listed in sequence."
+   ],
+   "inference": "The field named Viraja and, after it, Ekāmra are enumerated.",
+   "uncertainties": [],
+   "plain_english": "There is the field named Viraja, and after that Ekāmra."
+  },
+  {
+   "verse": 1306,
+   "rows": [
+    {
+     "surface": "kuśasthalī",
+     "gloss": "kuśasthalī",
+     "grounds": "place name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāpuṇyā",
+     "gloss": "greatly-meritorious",
+     "grounds": "compound mahā+puṇya, describing the place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "daṇḍakasya",
+     "gloss": "of-daṇḍaka",
+     "grounds": "genitive of the forest name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vanaṃ",
+     "gloss": "forest",
+     "grounds": "sacred forest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which meritorious place and forest are added to the list?",
+   "premises": [
+    "Kuśasthalī is named as greatly meritorious.",
+    "The forest of Daṇḍaka is also named.",
+    "Both are included in the enumeration."
+   ],
+   "inference": "The greatly meritorious Kuśasthalī and the forest of Daṇḍaka are added.",
+   "uncertainties": [],
+   "plain_english": "There is the greatly meritorious Kuśasthalī, and likewise the forest of Daṇḍaka."
+  },
+  {
+   "verse": 1307,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative of direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhenukāraṇye",
+     "gloss": "in-dhenuka-forest",
+     "grounds": "compound dhenuka+araṇya, locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "locative of direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gayāśiraḥ",
+     "gloss": "gayā-head",
+     "grounds": "compound gayā+śiras, place name",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred locations are identified in the west and north?",
+   "premises": [
+    "A location in the west is the Dhenuka forest.",
+    "A location in the north is Gayāśiras.",
+    "The two directions are contrasted."
+   ],
+   "inference": "The Dhenuka forest lies in the west and Gayāśiras in the north.",
+   "uncertainties": [],
+   "plain_english": "In the west is the Dhenuka forest, and in the north is Gayāśiras."
+  },
+  {
+   "verse": 1308,
+   "rows": [
+    {
+     "surface": "triṃśadyojana",
+     "gloss": "thirty-yojana",
+     "grounds": "compound triṃśat+yojana, measure of breadth",
+     "morph": "compound"
+    },
+    {
+     "surface": "vistīrṇam",
+     "gloss": "extended",
+     "grounds": "past participle describing extent",
+     "morph": "n.nom.sg.ppp-√stṛ+vi"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "locative indicating length",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śatayojanam",
+     "gloss": "hundred-yojana",
+     "grounds": "compound śata+yojana, measure of length",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the breadth and length measurements of the described region?",
+   "premises": [
+    "The region extends thirty yojanas in breadth.",
+    "The region measures one hundred yojanas in length.",
+    "Both dimensions are specified."
+   ],
+   "inference": "The region is thirty yojanas wide and one hundred yojanas long.",
+   "uncertainties": [],
+   "plain_english": "It extends thirty yojanas in breadth and one hundred yojanas in length."
+  },
+  {
+   "verse": 1309,
+   "rows": [
+    {
+     "surface": "bhūgolapīṭhakaṃ",
+     "gloss": "earth-globe-seat",
+     "grounds": "compound bhū+gola+pīṭhaka, name of seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "indeclinable indicating name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "golakeśvaraḥ",
+     "gloss": "golakeśvara",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What seat is named and which deity presides there?",
+   "premises": [
+    "The seat is called Bhūgolapīṭhaka.",
+    "Golakeśvara is present at that seat.",
+    "The location and presiding deity are linked."
+   ],
+   "inference": "The seat named Bhūgolapīṭhaka is where Golakeśvara indeed resides.",
+   "uncertainties": [],
+   "plain_english": "It is the seat named Bhūgolapīṭhaka, where indeed Golakeśvara is present."
+  },
+  {
+   "verse": 1310,
+   "rows": [
+    {
+     "surface": "avimuktaṃ",
+     "gloss": "avimukta",
+     "grounds": "sacred place name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahākṣetraṃ",
+     "gloss": "great-field",
+     "grounds": "compound mahā+kṣetra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haṃsaprapatanaṃ",
+     "gloss": "haṃsaprapatana",
+     "grounds": "place name, compound haṃsa+prapatana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which great field and additional sacred place are named here?",
+   "premises": [
+    "Avimukta is identified as a great field.",
+    "Haṃsaprapatana is also named.",
+    "Both are included together."
+   ],
+   "inference": "The great field Avimukta and likewise Haṃsaprapatana are named.",
+   "uncertainties": [],
+   "plain_english": "There is the great field Avimukta, and likewise Haṃsaprapatana."
+  },
+  {
+   "verse": 1311,
+   "rows": [
+    {
+     "surface": "kurukṣetraṃ",
+     "gloss": "kurukṣetra",
+     "grounds": "sacred field name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatraiva",
+     "gloss": "there-only",
+     "grounds": "compound tatra+eva, emphatic location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māyāsvanā",
+     "gloss": "māyāsvanā",
+     "grounds": "river name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "common noun for river",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where is Kurukṣetra located in relation to the Māyāsvanā river?",
+   "premises": [
+    "Kurukṣetra is named as present there.",
+    "The Māyāsvanā river is located there.",
+    "The field and river share the same location."
+   ],
+   "inference": "Kurukṣetra is located precisely where the Māyāsvanā river flows.",
+   "uncertainties": [],
+   "plain_english": "Kurukṣetra is there indeed, where the Māyāsvanā river is."
+  },
+  {
+   "verse": 1312,
+   "rows": [
+    {
+     "surface": "kacātmakaṃ",
+     "gloss": "grass-made",
+     "grounds": "compound kaca+ātmaka, composed of grass",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahāraṇyaṃ",
+     "gloss": "great-forest",
+     "grounds": "compound mahā+araṇya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātālaśaṅkaraḥ",
+     "gloss": "pātālaśaṅkara",
+     "grounds": "deity name, compound pātāla+śaṅkara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What great forest and presiding deity are found at that place?",
+   "premises": [
+    "A great forest made of grass is present there.",
+    "Pātālaśaṅkara is present there.",
+    "The forest and deity are co-located."
+   ],
+   "inference": "There is a great grass-made forest where Pātālaśaṅkara resides.",
+   "uncertainties": [],
+   "plain_english": "There is a great forest made of grass, and there is Pātālaśaṅkara."
+  },
+  {
+   "verse": 1313,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative of direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vṛṣabhaṃ",
+     "gloss": "vṛṣabha",
+     "grounds": "name qualifying the liṅga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "liṅga",
+     "grounds": "sacred emblem",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "locative of direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kadalīvanam",
+     "gloss": "banana-forest",
+     "grounds": "compound kadalī+vana",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred features are located to the south and north?",
+   "premises": [
+    "The Vṛṣabha liṅga is in the south.",
+    "The banana forest is in the north.",
+    "The two locations are specified by direction."
+   ],
+   "inference": "The Vṛṣabha liṅga lies to the south and the banana forest to the north.",
+   "uncertainties": [],
+   "plain_english": "In the south is the Vṛṣabha liṅga, and in the north is the banana forest."
+  },
+  {
+   "verse": 1314,
+   "rows": [
+    {
+     "surface": "ānana+nābhaṃ",
+     "gloss": "face-navel",
+     "grounds": "compound ānana+nābha, describing the lotus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "object of visualization",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "raktavarṇaṃ",
+     "gloss": "red-colored",
+     "grounds": "compound rakta+varṇa, describing the lotus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhāvayet",
+     "gloss": "one-should-visualize",
+     "grounds": "optative prescribing meditation",
+     "morph": "3.sg.opt.act.caus-√bhū+vi"
+    }
+   ],
+   "question": "What lotus form and color should be visualized in this practice?",
+   "premises": [
+    "A lotus is the object of visualization.",
+    "The lotus is characterized as face-navel.",
+    "The lotus is red in color."
+   ],
+   "inference": "One should visualize a red lotus characterized as face-navel.",
+   "uncertainties": [
+    "The exact ritual meaning of ānana+nābhaṃ is not fully explicit."
+   ],
+   "plain_english": "One should visualize a red lotus with face and navel."
+  },
+  {
+   "verse": 1315,
+   "rows": [
+    {
+     "surface": "aśītyaṣṭau",
+     "gloss": "eighty-eight",
+     "grounds": "numeral compound aśīti+aṣṭau",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prastāre",
+     "gloss": "in-expanse",
+     "grounds": "locative indicating extent",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "trikoṇaṃ",
+     "gloss": "triangular",
+     "grounds": "compound tri+koṇa, describing shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "seat",
+     "grounds": "sacred seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "adjective qualifying the seat",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shape, extent, and status define the supreme seat described?",
+   "premises": [
+    "The seat measures eighty-eight in expanse.",
+    "The seat is triangular in shape.",
+    "The seat is described as supreme."
+   ],
+   "inference": "The supreme seat is triangular and eighty-eight in expanse.",
+   "uncertainties": [
+    "The unit of the measure eighty-eight is not stated."
+   ],
+   "plain_english": "The supreme seat is triangular and eighty-eight in extent."
+  },
+  {
+   "verse": 1316,
+   "rows": [
+    {
+     "surface": "sītāyāḥ",
+     "gloss": "of-sītā",
+     "grounds": "genitive of the name",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahākṣetram",
+     "gloss": "great-field",
+     "grounds": "compound mahā+kṣetra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agastasya",
+     "gloss": "of-agastya",
+     "grounds": "genitive of the sage name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āśramaḥ",
+     "gloss": "hermitage",
+     "grounds": "dwelling place",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which great field and hermitage are included in this enumeration?",
+   "premises": [
+    "A great field of Sītā is named.",
+    "The hermitage of Agastya is named.",
+    "Both are listed together."
+   ],
+   "inference": "The great field of Sītā and the hermitage of Agastya are included.",
+   "uncertainties": [],
+   "plain_english": "There is the great field of Sītā, and likewise the hermitage of Agastya."
+  },
+  {
+   "verse": 1317,
+   "rows": [
+    {
+     "surface": "mādhavāraṇyakaṃ",
+     "gloss": "mādhava-forest",
+     "grounds": "compound mādhava+āraṇyaka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣetraṃ",
+     "gloss": "field",
+     "grounds": "sacred field",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "harasya",
+     "gloss": "of-hara",
+     "grounds": "genitive of the deity name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āraṇyakaṃ",
+     "gloss": "forest",
+     "grounds": "forest region",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle of addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Mādhava field and forest of Hara are named together?",
+   "premises": [
+    "The Mādhavāraṇyaka field is named.",
+    "The forest of Hara is named.",
+    "Both are included in the list."
+   ],
+   "inference": "The Mādhavāraṇyaka field and the forest of Hara are named together.",
+   "uncertainties": [],
+   "plain_english": "There is the Mādhavāraṇyaka field, and likewise the forest of Hara."
+  },
+  {
+   "verse": 1318,
+   "rows": [
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "locative of direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmakṣetraṃ",
+     "gloss": "brahma-field",
+     "grounds": "compound brahma+kṣetra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative of direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sāgarāvadhi",
+     "gloss": "up-to-ocean",
+     "grounds": "compound sāgara+avadhi, boundary at the ocean",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What northern field and southern boundary define this region?",
+   "premises": [
+    "Brahmakṣetra is located in the north.",
+    "The southern limit extends to the ocean.",
+    "The region is bounded by these markers."
+   ],
+   "inference": "The region has Brahmakṣetra in the north and reaches the ocean in the south.",
+   "uncertainties": [],
+   "plain_english": "In the north is Brahmakṣetra, and in the south it extends up to the ocean."
+  },
+  {
+   "verse": 1319,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyatamaṃ",
+     "gloss": "middle",
+     "grounds": "superlative adjective indicating central position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pīṭaṃ",
+     "gloss": "seat",
+     "grounds": "sacred seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyākhyaṃ",
+     "gloss": "named-puṇya",
+     "grounds": "compound puṇya+ākhya, called Puṇya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "indeclinable indicating name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmataḥ",
+     "gloss": "by-name",
+     "grounds": "ablative adverb reinforcing naming",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the name and position of this central seat?",
+   "premises": [
+    "This seat is described as the middle one.",
+    "It is called Puṇya by name.",
+    "Its identity and position are explicitly stated."
+   ],
+   "inference": "This middle seat is known by the name Puṇya.",
+   "uncertainties": [],
+   "plain_english": "This is the middle seat, known by the name Puṇya."
+  },
+  {
+   "verse": 1320,
+   "rows": [
+    {
+     "surface": "śivarātrau",
+     "gloss": "on-śivarātri",
+     "grounds": "locative of time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gamanaṃ",
+     "gloss": "going",
+     "grounds": "action noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sauramāsena",
+     "gloss": "by-solar-month",
+     "grounds": "instrumental indicating duration, compound saura+māsa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "māsakam",
+     "gloss": "for-a-month",
+     "grounds": "accusative of duration",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What pilgrimage timing and duration are specified for Śivarātri?",
+   "premises": [
+    "Going on Śivarātri is mentioned.",
+    "The duration is measured by a solar month.",
+    "The period lasts for a month."
+   ],
+   "inference": "Going on Śivarātri for the duration of a solar month is prescribed.",
+   "uncertainties": [],
+   "plain_english": "Going there on Śivarātri for a solar month is prescribed."
+  },
+  {
+   "verse": 1321,
+   "rows": [
+    {
+     "surface": "tatpuṇyaṃ",
+     "gloss": "that-merit",
+     "grounds": "compound tad+puṇya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "compound tad+sama, indicating equivalence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vettha",
+     "gloss": "you-should-know",
+     "grounds": "imperative or present form addressed to listener",
+     "morph": "2.sg.imp.act-√vid"
+    },
+    {
+     "surface": "navavyūhaṃ",
+     "gloss": "ninefold-array",
+     "grounds": "compound nava+vyūha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trimaṇḍalam",
+     "gloss": "three-circles",
+     "grounds": "compound tri+maṇḍala",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ritual configuration is declared equal in merit to that observance?",
+   "premises": [
+    "A certain merit is referred to as that merit.",
+    "Something is declared equal to that merit.",
+    "The ninefold array and three circles are named."
+   ],
+   "inference": "The ninefold array with three circles should be known as equal in merit to that.",
+   "uncertainties": [],
+   "plain_english": "Know that merit to be equal to that: the ninefold array with three circles."
+  },
+  {
+   "verse": 1322,
+   "rows": [
+    {
+     "surface": "madhyapīṭhaṃ",
+     "gloss": "middle-seat",
+     "grounds": "compound madhya+pīṭha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahāpīṭhaṃ",
+     "gloss": "great-seat",
+     "grounds": "compound mahā+pīṭha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmeśvaro",
+     "gloss": "kāmeśvara",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative indicating presence",
+     "morph": "3.sg.opt.act-√bhū"
+    }
+   ],
+   "question": "Which middle and great seat is associated with Kāmeśvara?",
+   "premises": [
+    "A middle seat is identified as a great seat.",
+    "Kāmeśvara may be present there.",
+    "The seat and deity are linked by location."
+   ],
+   "inference": "The middle seat, a great seat, is where Kāmeśvara may be present.",
+   "uncertainties": [],
+   "plain_english": "The middle seat is a great seat where Kāmeśvara may be present."
+  },
+  {
+   "verse": 1323,
+   "rows": [
+    {
+     "surface": "kanyāśramaṃ",
+     "gloss": "kanyā-hermitage",
+     "grounds": "compound kanyā+āśrama",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahākṣetraṃ",
+     "gloss": "great-field",
+     "grounds": "compound mahā+kṣetra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pada+dvayam",
+     "gloss": "two-feet",
+     "grounds": "compound pada+dvaya, pair of feet",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudra",
+     "gloss": "of-rudra",
+     "grounds": "genitive sense in compound context, name of deity",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What great field contains the two feet of Rudra?",
+   "premises": [
+    "Kanyāśrama is identified as a great field.",
+    "The two feet of Rudra are located there.",
+    "The place and sacred trace are connected."
+   ],
+   "inference": "Kanyāśrama is the great field where the two feet of Rudra are found.",
+   "uncertainties": [],
+   "plain_english": "Kanyāśrama is a great field where the two feet of Rudra are present."
+  },
+  {
+   "verse": 1324,
+   "rows": [
+    {
+     "surface": "mānasaṃ",
+     "gloss": "mānasa",
+     "grounds": "name qualifying the field",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣetrakaṃ",
+     "gloss": "field",
+     "grounds": "diminutive or specific form of field",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśveśvaro",
+     "gloss": "viśveśvara",
+     "grounds": "deity name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haraḥ",
+     "gloss": "hara",
+     "grounds": "deity name, appositive to viśveśvara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which field is the abode of Viśveśvara Hara?",
+   "premises": [
+    "The Mānasa field is named.",
+    "Viśveśvara Hara is present there.",
+    "The field and deity are identified together."
+   ],
+   "inference": "The Mānasa field is indeed where Viśveśvara Hara resides.",
+   "uncertainties": [],
+   "plain_english": "And indeed the Mānasa field is where Viśveśvara Hara is present."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "tantram",
+     "gloss": "tantra",
+     "grounds": "names the scripture class being enumerated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "ordinal position among the listed tantras",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tantrantrailokyamohanam",
+     "gloss": "trailokya-mohana-tantra",
+     "grounds": "compound naming the first tantra; fused form kept as one token",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which tantra is named as the first among those enumerated?",
+   "premises": [
+    "tantram names the scripture class",
+    "ādyaṃ marks first position",
+    "trailokya-mohana names the tantra"
+   ],
+   "inference": "The first tantra enumerated is the Trailokya-mohana Tantra.",
+   "uncertainties": [
+    "exact syntactic relation to preceding enumeration is not fully explicit"
+   ],
+   "plain_english": "The first tantra is the Trailokya-mohana Tantra."
+  }
+ ]
+}

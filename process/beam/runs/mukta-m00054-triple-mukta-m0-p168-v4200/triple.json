@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p168",
+ "items": [
+  {
+   "verse": 4200,
+   "rows": [
+    {
+     "surface": "parama+ānanda+dātā",
+     "gloss": "supreme-bliss-giver",
+     "grounds": "compound bahuvrīhi/tatpuruṣa agent noun; dātṛ 'giver' in fused nominative singular masculine form",
+     "morph": "compound(parama+ānanda+dātṛ).nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiva+ācārya+yaśaḥ+pradaḥ",
+     "gloss": "śiva-teacher-fame-bestower",
+     "grounds": "compound agent noun; prada 'bestower' in nominative singular masculine form",
+     "morph": "compound(śiva+ācārya+yaśas+prada).nom.sg.m"
+    }
+   ],
+   "question": "What gifts of bliss and renown does this figure bestow upon others?",
+   "premises": [
+    "The figure is described as a giver of supreme bliss.",
+    "The figure is described as a bestower of fame to Śiva-teachers.",
+    "These beneficent attributes are conjoined with the figure's prior qualities."
+   ],
+   "inference": "The figure confers both supreme spiritual bliss and renown upon Śiva-teachers.",
+   "uncertainties": [
+    "The exact compound analysis of parama+ānanda+dātā as tatpuruṣa or descriptive compound is not fully determined."
+   ],
+   "plain_english": "And he is the giver of supreme bliss and the bestower of fame to Śiva-teachers."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p278",
+ "items": [
+  {
+   "verse": 6950,
+   "rows": [
+    {
+     "surface": "śvetācalo",
+     "gloss": "white-mountain",
+     "grounds": "compound denoting a white mountain; nominative subject of the description",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "instrumental indicating division into two portions",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "svarṇayuk",
+     "gloss": "gold-joined",
+     "grounds": "compound indicating conjunction or mixture with gold",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetavarṇakaḥ",
+     "gloss": "white-colored",
+     "grounds": "compound specifying the overall white coloration",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What division and coloration define the prescribed white-mountain form?",
+   "premises": [
+    "The white-mountain form is divided into two parts.",
+    "One aspect of this form is joined with gold.",
+    "The resulting form is characterized as white-colored."
+   ],
+   "inference": "The prescribed white-mountain form consists of two parts combined with gold while retaining a white coloration.",
+   "uncertainties": [
+    "The exact spatial distribution of gold within the two parts is not specified."
+   ],
+   "plain_english": "The white mountain is to be understood as divided into two parts, joined with gold, and white in color."
+  }
+ ]
+}

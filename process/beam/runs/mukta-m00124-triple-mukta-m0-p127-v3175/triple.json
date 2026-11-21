@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p127",
+ "items": [
+  {
+   "verse": 3175,
+   "rows": [
+    {
+     "surface": "pañca+ālindaṃ",
+     "gloss": "five-corridors",
+     "grounds": "compound describing a structure having five corridors or verandas",
+     "morph": "compound: pañca+ālinda"
+    },
+    {
+     "surface": "sa+ṣaṭ+kuḍyaṃ",
+     "gloss": "with-six-walls",
+     "grounds": "compound with prefix sa- indicating possession of six walls",
+     "morph": "compound: sa+ṣaṭ+kuḍya"
+    },
+    {
+     "surface": "bahis+āndhārikā",
+     "gloss": "outer-corridor",
+     "grounds": "compound denoting an external covered passage or corridor",
+     "morph": "compound: bahis+āndhārikā"
+    },
+    {
+     "surface": "āvṛtam",
+     "gloss": "surrounded",
+     "grounds": "describes the structure as enclosed by the preceding features",
+     "morph": "ppp.n.nom.sg: ā-vṛ"
+    }
+   ],
+   "question": "What enclosing architectural features surround the described temple structure?",
+   "premises": [
+    "The structure is characterized by five corridors.",
+    "The structure is characterized by six walls.",
+    "The structure is enclosed by an outer corridor."
+   ],
+   "inference": "The described temple structure is surrounded by five corridors, six walls, and an outer corridor.",
+   "uncertainties": [
+    "The precise architectural form of āndhārikā in this context is not fully specified."
+   ],
+   "plain_english": "It is surrounded by five corridors, six walls, and an outer corridor."
+  }
+ ]
+}

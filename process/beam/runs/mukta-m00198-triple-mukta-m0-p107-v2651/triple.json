@@ -1,0 +1,1086 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2651,
+   "rows": [
+    {
+     "surface": "adharaṃ",
+     "gloss": "lower-lip",
+     "grounds": "object of measurement being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pālikā",
+     "gloss": "lip-edge",
+     "grounds": "term for the lip margin or guard",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sārdha",
+     "gloss": "with-half",
+     "grounds": "indicates one and a half in measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavamānam",
+     "gloss": "barley-grain-measure",
+     "grounds": "compound specifying unit of length",
+     "morph": "n.nom.sg, compound=yava+māna"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks transition to next specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "introduces the prescribed measure",
+     "morph": "3.sg.pass-pres, √vac"
+    }
+   ],
+   "question": "What measurement is prescribed for the lower lip edge?",
+   "premises": [
+    "The lower lip is the subject of measurement.",
+    "Its edge is specified as one and a half barley grains.",
+    "The specification is formally stated."
+   ],
+   "inference": "The lower lip edge should measure one and a half barley grains.",
+   "uncertainties": [
+    "The exact anatomical sense of pālikā as lip-edge or lip-guard is context-dependent."
+   ],
+   "plain_english": "Now the lower lip edge is stated to measure one and a half barley grains."
+  },
+  {
+   "verse": 2652,
+   "rows": [
+    {
+     "surface": "kiṃcit",
+     "gloss": "slightly",
+     "grounds": "qualifies the degree of expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prahasitākāraṃ",
+     "gloss": "smiling-appearance",
+     "grounds": "compound describing the mouth's form",
+     "morph": "n.acc.sg, compound=prahasita+ākāra"
+    },
+    {
+     "surface": "āsya",
+     "gloss": "mouth",
+     "grounds": "object to be shaped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yuktānukārayet",
+     "gloss": "should-properly-fashion",
+     "grounds": "prescriptive instruction for depiction",
+     "morph": "3.sg.opt.act, compound=yukta+anukārayet, √kṛ"
+    }
+   ],
+   "question": "What facial expression should be given to the mouth?",
+   "premises": [
+    "The mouth is the feature to be fashioned.",
+    "It should have a slightly smiling appearance.",
+    "The shaping must be done properly."
+   ],
+   "inference": "The mouth should be fashioned with a slight smile.",
+   "uncertainties": [],
+   "plain_english": "One should properly fashion the mouth with a slightly smiling appearance."
+  },
+  {
+   "verse": 2653,
+   "rows": [
+    {
+     "surface": "cibukāttu",
+     "gloss": "from-chin",
+     "grounds": "starting point of the measurement; tu adds emphasis",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "hanorvaṃśaṃ",
+     "gloss": "jaw-line",
+     "grounds": "compound naming the line or ridge of the jaw",
+     "morph": "m.acc.sg, compound=hanu+vaṃśa"
+    },
+    {
+     "surface": "sārdhāṣṭayavam",
+     "gloss": "eight-and-half-barley-grains",
+     "grounds": "compound specifying the length",
+     "morph": "m.acc.sg, compound=sārdha+aṣṭa+yava"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "introduces the prescribed measure",
+     "morph": "3.sg.pass-pres, √vac"
+    }
+   ],
+   "question": "What length is prescribed for the jaw line from the chin?",
+   "premises": [
+    "The measurement begins at the chin.",
+    "The jaw line is the measured feature.",
+    "Its length is stated as eight and a half barley grains."
+   ],
+   "inference": "The jaw line from the chin should measure eight and a half barley grains.",
+   "uncertainties": [],
+   "plain_english": "From the chin, the jaw line is stated to be eight and a half barley grains."
+  },
+  {
+   "verse": 2654,
+   "rows": [
+    {
+     "surface": "hanoḥ",
+     "gloss": "of-jaw",
+     "grounds": "specifies the starting region",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sandhya",
+     "gloss": "junction",
+     "grounds": "point of connection at the jaw",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekarṇa",
+     "gloss": "one-ear",
+     "grounds": "compound indicating the ear attachment point",
+     "morph": "compound member=eka+karṇa"
+    },
+    {
+     "surface": "bandhāntaṃ",
+     "gloss": "attachment-end",
+     "grounds": "endpoint of the ear attachment",
+     "morph": "m.acc.sg, compound=bandha+anta"
+    },
+    {
+     "surface": "tvantaraṃ",
+     "gloss": "indeed-interval",
+     "grounds": "tu emphasizes the interval being measured",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "dvādaśāṃgulam",
+     "gloss": "twelve-finger-units",
+     "grounds": "compound specifying the distance",
+     "morph": "n.nom.sg, compound=dvādaśa+aṅgula"
+    }
+   ],
+   "question": "What distance is prescribed from the jaw junction to the ear attachment end?",
+   "premises": [
+    "The interval runs from the jaw junction to the ear attachment end.",
+    "This interval is a defined measurement.",
+    "Its measure is twelve finger units."
+   ],
+   "inference": "The distance from the jaw junction to the ear attachment end is twelve finger units.",
+   "uncertainties": [
+    "The exact parsing of sandhya and ekarṇa as separate elements in the compound chain is interpretive."
+   ],
+   "plain_english": "The interval from the jaw junction to the end of the ear attachment is twelve finger units."
+  },
+  {
+   "verse": 2655,
+   "rows": [
+    {
+     "surface": "karṇaveśam",
+     "gloss": "ear-attachment",
+     "grounds": "names the region just measured",
+     "morph": "m.acc.sg, compound=karṇa+veśa"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the naming",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "states the conventional designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "transitions to the next topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇaṃ",
+     "gloss": "ear",
+     "grounds": "object of the next description",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadāmite",
+     "gloss": "i-shall-tell-you",
+     "grounds": "announces further instruction; form appears nonstandard",
+     "morph": "1.sg.pres.act, √vad"
+    }
+   ],
+   "question": "What designation is given to the measured ear region before describing the ear?",
+   "premises": [
+    "The previously measured region is called the ear attachment.",
+    "This designation is conventionally known.",
+    "The description now turns to the ear itself."
+   ],
+   "inference": "The region is known as the ear attachment, and the ear is described next.",
+   "uncertainties": [
+    "The form vadāmite is unusual and may reflect a textual or sandhi variant."
+   ],
+   "plain_english": "This is known as the ear attachment; then I shall tell you about the ear."
+  },
+  {
+   "verse": 2656,
+   "rows": [
+    {
+     "surface": "karṇasya",
+     "gloss": "of-ear",
+     "grounds": "specifies the feature being measured",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "breadth",
+     "grounds": "the dimension being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭādaśa",
+     "gloss": "eighteen",
+     "grounds": "numerical quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavāḥ",
+     "gloss": "barley-grains",
+     "grounds": "unit of measurement",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "states traditional prescription",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What breadth is traditionally prescribed for the ear?",
+   "premises": [
+    "The ear's breadth is the dimension in question.",
+    "The measure is given in barley grains.",
+    "Tradition records it as eighteen barley grains."
+   ],
+   "inference": "The breadth of the ear is traditionally eighteen barley grains.",
+   "uncertainties": [],
+   "plain_english": "The breadth of the ear is remembered as eighteen barley grains."
+  },
+  {
+   "verse": 2657,
+   "rows": [
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of the previously stated measure",
+     "morph": "n.nom.sg, compound=tad+ardha"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects parts of the description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvabandhā",
+     "gloss": "upper-attachment",
+     "grounds": "upper part or band of the ear",
+     "morph": "f.nom.sg, compound=ūrdhva+bandha"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛttam",
+     "gloss": "rounded",
+     "grounds": "shape of the remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "amūrdhvataḥ",
+     "gloss": "not-upward",
+     "grounds": "indicates the lower or non-upper part",
+     "morph": "(indecl.), compound=a+mūrdhvataḥ"
+    }
+   ],
+   "question": "How are the upper attachment and remaining part of the ear shaped?",
+   "premises": [
+    "The upper attachment measures half of the ear's breadth.",
+    "The remainder is described separately.",
+    "The non-upper remainder is rounded."
+   ],
+   "inference": "The upper attachment is half the breadth and the lower remainder is rounded.",
+   "uncertainties": [
+    "The precise anatomical referent of ūrdhvabandhā and amūrdhvataḥ is interpretive."
+   ],
+   "plain_english": "The upper attachment is half of that, and the remainder below is rounded."
+  },
+  {
+   "verse": 2658,
+   "rows": [
+    {
+     "surface": "sārdhavedāṃgulaṃ",
+     "gloss": "four-and-half-finger-units",
+     "grounds": "compound specifying length; veda often indicates four",
+     "morph": "n.acc.sg, compound=sārdha+veda+aṅgula"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "from-that",
+     "grounds": "indicates the point of origin",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "refers back to the ear",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nālaṃ",
+     "gloss": "stalk",
+     "grounds": "the ear lobe or stalk-like part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pralambayet",
+     "gloss": "should-make-hang",
+     "grounds": "prescriptive instruction for depiction",
+     "morph": "3.sg.opt.act, √lamb"
+    }
+   ],
+   "question": "What length is prescribed for the hanging ear stalk?",
+   "premises": [
+    "The ear has a stalk-like part.",
+    "This stalk should hang down from that point.",
+    "Its length is four and a half finger units."
+   ],
+   "inference": "The ear stalk should be made to hang four and a half finger units.",
+   "uncertainties": [
+    "The identification of nāla as the earlobe or stalk is based on context."
+   ],
+   "plain_english": "From that point, its stalk should hang down four and a half finger units."
+  },
+  {
+   "verse": 2659,
+   "rows": [
+    {
+     "surface": "nālayoḥ",
+     "gloss": "of-stalks",
+     "grounds": "refers to the two stalks or sides",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "vyāsam",
+     "gloss": "width",
+     "grounds": "dimension being specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "states the prescribed measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ghanam",
+     "gloss": "thickness",
+     "grounds": "dimension of solidity or thickness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ardhāṃgulaṃ",
+     "gloss": "half-finger-unit",
+     "grounds": "compound specifying the measure",
+     "morph": "n.nom.sg, compound=ardha+aṅgula"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "refers back to the two stalks",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "What width and thickness are declared for the two ear stalks?",
+   "premises": [
+    "The two stalks have measurable width and thickness.",
+    "These dimensions are formally declared.",
+    "The thickness of the two is half a finger unit."
+   ],
+   "inference": "The two ear stalks are declared to have a thickness of half a finger unit.",
+   "uncertainties": [
+    "Whether vyāsam and ghanam denote distinct dimensions or are used together is slightly ambiguous."
+   ],
+   "plain_english": "The width and thickness of the two stalks are declared to be half a finger unit."
+  },
+  {
+   "verse": 2660,
+   "rows": [
+    {
+     "surface": "karṇatuṃgama",
+     "gloss": "ear-projection",
+     "grounds": "compound naming the projecting part of the ear",
+     "morph": "n.nom.sg, compound=karṇa+tuṅga"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining measure or part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yavaikona",
+     "gloss": "less-by-one-barley-grain",
+     "grounds": "compound indicating subtraction of one barley grain",
+     "morph": "compound member=yava+eka+ūna"
+    },
+    {
+     "surface": "navāṃgulam",
+     "gloss": "nine-finger-units",
+     "grounds": "compound specifying the base measure",
+     "morph": "n.nom.sg, compound=nava+aṅgula"
+    }
+   ],
+   "question": "What measurement is prescribed for the remaining ear projection?",
+   "premises": [
+    "The ear projection is the feature being measured.",
+    "Its measure is based on nine finger units.",
+    "One barley grain is subtracted from that measure."
+   ],
+   "inference": "The ear projection should measure nine finger units less one barley grain.",
+   "uncertainties": [],
+   "plain_english": "The remaining ear projection is nine finger units less one barley grain."
+  },
+  {
+   "verse": 2661,
+   "rows": [
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "vertical dimension being specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhamātraṃ",
+     "gloss": "one-and-half-measure",
+     "grounds": "compound specifying the height",
+     "morph": "m.acc.sg, compound=sārdha+mātra"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act, √as"
+    },
+    {
+     "surface": "mūlādagraṃ",
+     "gloss": "from-root-to-tip",
+     "grounds": "compound indicating the full extent",
+     "morph": "n.acc.sg, compound=mūla+agra"
+    },
+    {
+     "surface": "kṣayānugam",
+     "gloss": "following-decrease",
+     "grounds": "compound indicating gradual tapering",
+     "morph": "n.acc.sg, compound=kṣaya+anuga"
+    }
+   ],
+   "question": "How should the height from root to tip be proportioned and shaped?",
+   "premises": [
+    "The height is specified as one and a half measures.",
+    "The extent runs from root to tip.",
+    "It should follow a gradual decrease."
+   ],
+   "inference": "The height from root to tip should be one and a half measures and taper gradually.",
+   "uncertainties": [
+    "The exact unit implied by mātra in this context is not explicitly stated."
+   ],
+   "plain_english": "The height should be one and a half measures, tapering gradually from root to tip."
+  },
+  {
+   "verse": 2662,
+   "rows": [
+    {
+     "surface": "akṣasūtrādayaḥ",
+     "gloss": "rosary-and-others",
+     "grounds": "compound listing items beginning with a rosary",
+     "morph": "m.nom.pl, compound=akṣasūtra+ādi"
+    },
+    {
+     "surface": "karṇadvāram",
+     "gloss": "ear-opening",
+     "grounds": "compound naming the ear hole",
+     "morph": "n.nom.sg, compound=karṇa+dvāra"
+    },
+    {
+     "surface": "ardhāṃgulaṃ",
+     "gloss": "half-finger-unit",
+     "grounds": "compound specifying the measure",
+     "morph": "n.nom.sg, compound=ardha+aṅgula"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act, √bhū"
+    }
+   ],
+   "question": "What size is prescribed for the ear opening in relation to ornaments?",
+   "premises": [
+    "Items such as a rosary are associated with the ear.",
+    "The ear opening is the feature measured.",
+    "Its size should be half a finger unit."
+   ],
+   "inference": "The ear opening for items like a rosary should be half a finger unit.",
+   "uncertainties": [
+    "The syntactic role of akṣasūtrādayaḥ in relation to karṇadvāram is somewhat unclear."
+   ],
+   "plain_english": "For a rosary and such, the ear opening should be half a finger unit."
+  },
+  {
+   "verse": 2663,
+   "rows": [
+    {
+     "surface": "karṇapālī",
+     "gloss": "ear-rim",
+     "grounds": "compound naming the edge of the ear",
+     "morph": "f.nom.sg, compound=karṇa+pālī"
+    },
+    {
+     "surface": "ghanaṃ",
+     "gloss": "thickness",
+     "grounds": "dimension being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhayavanīvaṃ",
+     "gloss": "one-and-half-barley-grains-like",
+     "grounds": "compound indicating approximate thickness",
+     "morph": "n.nom.sg, compound=sārdha+yava+nīva"
+    },
+    {
+     "surface": "caturyavam",
+     "gloss": "four-barley-grains",
+     "grounds": "compound specifying another measure",
+     "morph": "n.nom.sg, compound=catur+yava"
+    }
+   ],
+   "question": "What thickness measurements are prescribed for the ear rim?",
+   "premises": [
+    "The ear rim is the feature being measured.",
+    "One measure given is about one and a half barley grains.",
+    "Another measure given is four barley grains."
+   ],
+   "inference": "The ear rim's thickness is prescribed as about one and a half and four barley grains.",
+   "uncertainties": [
+    "The relation between sārdhayavanīvaṃ and caturyavam as alternative or distinct dimensions is unclear."
+   ],
+   "plain_english": "The ear rim should be about one and a half barley grains thick, or four barley grains."
+  },
+  {
+   "verse": 2664,
+   "rows": [
+    {
+     "surface": "keśāntāt",
+     "gloss": "from-hair-end",
+     "grounds": "starting point of the measurement",
+     "morph": "m.abl.sg, compound=keśa+anta"
+    },
+    {
+     "surface": "pṛṣṭhakarṇaṃ",
+     "gloss": "back-of-ear",
+     "grounds": "compound naming the rear ear region",
+     "morph": "n.nom.sg, compound=pṛṣṭha+karṇa"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyantaṃ",
+     "gloss": "two-units-end",
+     "grounds": "compound indicating a measure of two",
+     "morph": "n.nom.sg, compound=dvi+anta"
+    },
+    {
+     "surface": "dvyardhamātrakam",
+     "gloss": "two-and-half-measures",
+     "grounds": "compound specifying the extent",
+     "morph": "n.nom.sg, compound=dvi+ardha+mātraka"
+    }
+   ],
+   "question": "What distance is prescribed from the hairline to the back of the ear?",
+   "premises": [
+    "The measurement starts at the hairline.",
+    "The back of the ear is the endpoint.",
+    "The distance is given as two and a half measures."
+   ],
+   "inference": "The distance from the hairline to the back of the ear is two and a half measures.",
+   "uncertainties": [
+    "The precise contribution of dvyantaṃ alongside dvyardhamātrakam is interpretive."
+   ],
+   "plain_english": "From the hairline to the back of the ear is two and a half measures."
+  },
+  {
+   "verse": 2665,
+   "rows": [
+    {
+     "surface": "tasyādhaḥ",
+     "gloss": "below-that",
+     "grounds": "indicates position below the previous point",
+     "morph": "n.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhadīrghoccaṃ",
+     "gloss": "back-length-height",
+     "grounds": "compound describing back dimensions",
+     "morph": "n.nom.sg, compound=pṛṣṭha+dīrgha+ucca"
+    },
+    {
+     "surface": "yugāṃśaṃ",
+     "gloss": "pair-part",
+     "grounds": "compound indicating two parts or units",
+     "morph": "n.nom.sg, compound=yuga+aṃśa"
+    },
+    {
+     "surface": "triyavādhikam",
+     "gloss": "exceeding-by-three-barley-grains",
+     "grounds": "compound adding three barley grains",
+     "morph": "n.nom.sg, compound=tri+yava+adhika"
+    }
+   ],
+   "question": "What measurement is prescribed below that point for the back's length and height?",
+   "premises": [
+    "The location is below the previously described point.",
+    "The back's length and height are measured.",
+    "The measure is two parts plus three barley grains."
+   ],
+   "inference": "Below that, the back's length and height measure two parts plus three barley grains.",
+   "uncertainties": [
+    "The exact unit denoted by yugāṃśaṃ is context-dependent."
+   ],
+   "plain_english": "Below that, the back's length and height are two parts plus three barley grains."
+  },
+  {
+   "verse": 2666,
+   "rows": [
+    {
+     "surface": "pṛṣṭhagrīvasya",
+     "gloss": "of-back-neck",
+     "grounds": "compound specifying the nape region",
+     "morph": "f.gen.sg, compound=pṛṣṭha+grīvā"
+    },
+    {
+     "surface": "mūlasya",
+     "gloss": "of-base",
+     "grounds": "refers to the root or base",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "width",
+     "grounds": "dimension being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhadaśāṃgulam",
+     "gloss": "ten-and-half-finger-units",
+     "grounds": "compound specifying the measure",
+     "morph": "n.nom.sg, compound=sārdha+daśa+aṅgula"
+    }
+   ],
+   "question": "What width is prescribed for the base of the back of the neck?",
+   "premises": [
+    "The base of the back of the neck is measured.",
+    "The dimension specified is its width.",
+    "The width is ten and a half finger units."
+   ],
+   "inference": "The base of the back of the neck should be ten and a half finger units wide.",
+   "uncertainties": [],
+   "plain_english": "The width of the base of the back of the neck is ten and a half finger units."
+  },
+  {
+   "verse": 2667,
+   "rows": [
+    {
+     "surface": "hikkāsūtropari",
+     "gloss": "above-hiccup-line",
+     "grounds": "compound indicating a reference line above the hikkā point",
+     "morph": "(indecl.), compound=hikkā+sūtra+upari"
+    },
+    {
+     "surface": "skandhasaṃdhī",
+     "gloss": "shoulder-joints",
+     "grounds": "compound naming the shoulder junctions",
+     "morph": "m.nom.du, compound=skandha+saṃdhi"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "dimension being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yugāṃgulam",
+     "gloss": "two-finger-units",
+     "grounds": "compound specifying the measure",
+     "morph": "n.nom.sg, compound=yuga+aṅgula"
+    }
+   ],
+   "question": "What height is prescribed for the shoulder joints above the hikkā line?",
+   "premises": [
+    "The shoulder joints are located above the hikkā line.",
+    "Their height is the dimension specified.",
+    "The height is two finger units."
+   ],
+   "inference": "The shoulder joints above the hikkā line should have a height of two finger units.",
+   "uncertainties": [
+    "The anatomical reference point of hikkāsūtra is traditional and context-specific."
+   ],
+   "plain_english": "Above the hikkā line, the shoulder joints have a height of two finger units."
+  },
+  {
+   "verse": 2668,
+   "rows": [
+    {
+     "surface": "saptāṃgulaghanaṃ",
+     "gloss": "seven-finger-units-thick",
+     "grounds": "compound specifying thickness",
+     "morph": "m.acc.sg, compound=sapta+aṅgula+ghana"
+    },
+    {
+     "surface": "skandhaṃ",
+     "gloss": "shoulder",
+     "grounds": "feature being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hikkāvadhi",
+     "gloss": "up-to-hikkā",
+     "grounds": "compound indicating the lower limit",
+     "morph": "(indecl.), compound=hikkā+avadhi"
+    },
+    {
+     "surface": "kramātkṣayam",
+     "gloss": "gradually-decreasing",
+     "grounds": "compound indicating tapering progression",
+     "morph": "m.acc.sg, compound=kramāt+kṣaya"
+    }
+   ],
+   "question": "How should the shoulder's thickness change down to the hikkā point?",
+   "premises": [
+    "The shoulder is seven finger units thick.",
+    "The measurement extends down to the hikkā point.",
+    "The thickness decreases gradually."
+   ],
+   "inference": "The shoulder should be seven finger units thick and taper gradually down to the hikkā point.",
+   "uncertainties": [],
+   "plain_english": "The shoulder is seven finger units thick, gradually decreasing down to the hikkā point."
+  },
+  {
+   "verse": 2669,
+   "rows": [
+    {
+     "surface": "tasmādā",
+     "gloss": "from-that-up-to",
+     "grounds": "indicates the starting point and extent; form may be fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭisaṃdhānta",
+     "gloss": "up-to-hip-joint-end",
+     "grounds": "compound indicating the endpoint at the hip joint",
+     "morph": "m.acc.sg, compound=kaṭi+saṃdhā+anta"
+    },
+    {
+     "surface": "vaśam",
+     "gloss": "extent",
+     "grounds": "term indicating range or measure; reading uncertain",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṛkṣāṃśam",
+     "gloss": "twenty-seven-part",
+     "grounds": "compound indicating a measure of twenty-seven units; ṛkṣa often denotes 27",
+     "morph": "m.acc.sg, compound=ṛkṣa+aṃśa"
+    },
+    {
+     "surface": "āyatam",
+     "gloss": "extended",
+     "grounds": "describes the length or extent",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What extent is prescribed from that point down to the hip joint?",
+   "premises": [
+    "The measurement runs from that point to the hip joint.",
+    "The extent is described as a specific part measure.",
+    "The length is given as twenty-seven parts."
+   ],
+   "inference": "The extent from that point to the hip joint is twenty-seven parts.",
+   "uncertainties": [
+    "The forms tasmādā and vaśam are textually uncertain in this context.",
+    "The unit implied by ṛkṣāṃśam depends on the measurement system used."
+   ],
+   "plain_english": "From that point down to the hip joint, the extent is twenty-seven parts."
+  },
+  {
+   "verse": 2670,
+   "rows": [
+    {
+     "surface": "vaṃśamānād",
+     "gloss": "from-spine-measure",
+     "grounds": "compound indicating measurement from the spine",
+     "morph": "n.abl.sg, compound=vaṃśa+māna"
+    },
+    {
+     "surface": "adhastāttu",
+     "gloss": "below-indeed",
+     "grounds": "indicates position below with emphasis",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "vaṃśamūlaṃ",
+     "gloss": "spine-base",
+     "grounds": "compound naming the base of the spine",
+     "morph": "n.nom.sg, compound=vaṃśa+mūla"
+    },
+    {
+     "surface": "guṇāṃgulam",
+     "gloss": "three-finger-units",
+     "grounds": "compound specifying the measure; guṇa often indicates three",
+     "morph": "n.nom.sg, compound=guṇa+aṅgula"
+    }
+   ],
+   "question": "What measurement is prescribed for the base of the spine below the spine measure?",
+   "premises": [
+    "The reference is below the spine measure.",
+    "The base of the spine is the feature measured.",
+    "Its measure is three finger units."
+   ],
+   "inference": "Below the spine measure, the base of the spine is three finger units.",
+   "uncertainties": [],
+   "plain_english": "Below the spine measure, the base of the spine is three finger units."
+  },
+  {
+   "verse": 2671,
+   "rows": [
+    {
+     "surface": "sārdha",
+     "gloss": "with-half",
+     "grounds": "indicates one and a half",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛkṣāṃgulaṃ",
+     "gloss": "twenty-seven-finger-units",
+     "grounds": "compound specifying the measure; ṛkṣa often denotes 27",
+     "morph": "n.nom.sg, compound=ṛkṣa+aṅgula"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "states the prescribed measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kakṣayor",
+     "gloss": "of-armpits",
+     "grounds": "specifies the two armpits",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "distance between the armpits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address to the recipient",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What interval is declared between the two armpits, O twice-born?",
+   "premises": [
+    "The interval between the two armpits is measured.",
+    "The measure is declared as twenty-seven and a half finger units.",
+    "The instruction is addressed to the twice-born."
+   ],
+   "inference": "The interval between the armpits is declared to be twenty-seven and a half finger units.",
+   "uncertainties": [
+    "The interpretation of ṛkṣāṃgulaṃ as twenty-seven finger units follows a traditional numerical association."
+   ],
+   "plain_english": "O twice-born, the interval between the armpits is declared to be twenty-seven and a half finger units."
+  },
+  {
+   "verse": 2672,
+   "rows": [
+    {
+     "surface": "kakṣordhve",
+     "gloss": "above-armpit",
+     "grounds": "compound indicating the region above the armpit",
+     "morph": "n.loc.sg, compound=kakṣa+ūrdhva"
+    },
+    {
+     "surface": "bāhusīmāntaṃ",
+     "gloss": "up-to-arm-limit",
+     "grounds": "compound indicating the boundary of the arm",
+     "morph": "n.nom.sg, compound=bāhu+sīmā+anta"
+    },
+    {
+     "surface": "saptāṃgulam",
+     "gloss": "seven-finger-units",
+     "grounds": "compound specifying the measure",
+     "morph": "n.nom.sg, compound=sapta+aṅgula"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "reports the prescribed measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distance is stated from above the armpit to the arm's limit?",
+   "premises": [
+    "The measurement starts above the armpit.",
+    "It extends to the limit of the arm.",
+    "The distance is stated as seven finger units."
+   ],
+   "inference": "The distance from above the armpit to the arm's limit is seven finger units.",
+   "uncertainties": [],
+   "plain_english": "Above the armpit up to the limit of the arm is stated to be seven finger units."
+  },
+  {
+   "verse": 2673,
+   "rows": [
+    {
+     "surface": "nābhisūtre",
+     "gloss": "at-navel-line",
+     "grounds": "compound indicating the level of the navel",
+     "morph": "n.loc.sg, compound=nābhi+sūtra"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "dimension being specified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhaviṃśāṃgulaṃ",
+     "gloss": "twenty-and-half-finger-units",
+     "grounds": "compound specifying the measure",
+     "morph": "m.acc.sg, compound=sārdha+viṃśa+aṅgula"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act, √bhū"
+    }
+   ],
+   "question": "What width is prescribed at the level of the navel line?",
+   "premises": [
+    "The measurement is taken at the navel line.",
+    "The dimension specified is width.",
+    "The width should be twenty and a half finger units."
+   ],
+   "inference": "The width at the navel line should be twenty and a half finger units.",
+   "uncertainties": [],
+   "plain_english": "At the navel line, the width should be twenty and a half finger units."
+  },
+  {
+   "verse": 2674,
+   "rows": [
+    {
+     "surface": "pādona",
+     "gloss": "less-by-quarter",
+     "grounds": "compound indicating reduction by one quarter",
+     "morph": "compound member=pāda+ūna"
+    },
+    {
+     "surface": "dharmabhāgaṃ",
+     "gloss": "dharma-part",
+     "grounds": "compound indicating a measure of ten parts; dharma can denote ten",
+     "morph": "m.acc.sg, compound=dharma+bhāga"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sphik",
+     "gloss": "buttock",
+     "grounds": "feature being measured",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "mass",
+     "grounds": "refers to the rounded mass",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prativistṛtam",
+     "gloss": "respectively-extended",
+     "grounds": "describes the spread or width",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width is prescribed for the buttock mass in this measurement system?",
+   "premises": [
+    "The buttock mass is the feature being measured.",
+    "Its width is described as respectively extended.",
+    "The measure is a dharma-part less by a quarter."
+   ],
+   "inference": "The buttock mass should be extended to a dharma-part less by a quarter.",
+   "uncertainties": [
+    "The numerical value of dharmabhāga depends on the traditional counting system used."
+   ],
+   "plain_english": "The buttock mass should be extended to a dharma-part less by a quarter."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker of the preceding instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "in-this-way",
+     "grounds": "adverbial confirmation of the stated manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhayaḥ",
+     "gloss": "purifications",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "khyātāḥ",
+     "gloss": "are-known",
+     "grounds": "passive participle describing the purifications",
+     "morph": "f.nom.pl.pass.part"
+    },
+    {
+     "surface": "tāsām",
+     "gloss": "of-them",
+     "grounds": "genitive referring to the known purifications",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "ekāṃ",
+     "gloss": "one",
+     "grounds": "accusative object selected from the group",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-perform",
+     "grounds": "causative optative giving the ritual instruction",
+     "morph": "3.sg.caus.opt"
+    }
+   ],
+   "question": "How many of the known purifications should a practitioner perform?",
+   "premises": [
+    "Purifications are known in this way.",
+    "Among them one is to be performed.",
+    "The instruction selects a single purification."
+   ],
+   "inference": "A practitioner should perform exactly one of the known purifications.",
+   "uncertainties": [
+    "The verse does not identify which specific purification is to be performed."
+   ],
+   "plain_english": "Thus these purifications are known; among them, one should indeed perform one."
+  }
+ ]
+}

@@ -1,0 +1,600 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1826,
+   "rows": [
+    {
+     "surface": "nṛtyagītādibhiḥ",
+     "gloss": "dance-song-and-such",
+     "grounds": "instrumental plural masculine/neuter of compound nṛtya-gīta-ādi",
+     "morph": "instr.pl.m/n"
+    },
+    {
+     "surface": "sarvaiḥ",
+     "gloss": "with-all",
+     "grounds": "instrumental plural masculine/neuter of sarva",
+     "morph": "instr.pl.m/n"
+    },
+    {
+     "surface": "guruśuśrūṣaṇaiḥ",
+     "gloss": "guru-service",
+     "grounds": "instrumental plural neuter of guru-śuśrūṣaṇa",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accompanying practices are prescribed alongside dance and song for Kālī worship?",
+   "premises": [
+    "dance and song accompany worship",
+    "guru service is included",
+    "all such practices are used"
+   ],
+   "inference": "Worship includes dance, song, and guru service among its accompanying practices.",
+   "uncertainties": [
+    "exact ritual sequence is not specified"
+   ],
+   "plain_english": "Worship is accompanied by dance, song, and similar practices, along with service to the guru."
+  },
+  {
+   "verse": 1827,
+   "rows": [
+    {
+     "surface": "amāyāṃ",
+     "gloss": "on-new-moon-day",
+     "grounds": "locative singular feminine of amāvāsyā form",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "devadeveśi",
+     "gloss": "O-goddess-of-gods",
+     "grounds": "vocative singular feminine of devadeveśī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "bhaume",
+     "gloss": "on-Tuesday",
+     "grounds": "locative singular masculine/neuter of bhauma",
+     "morph": "loc.sg.m/n"
+    },
+    {
+     "surface": "śukragrahatraye",
+     "gloss": "in-Venus-planet-triad",
+     "grounds": "locative singular masculine of śukra-graha-traya compound",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "On which lunar day, weekday, and planetary triad is Kālī worship performed?",
+   "premises": [
+    "worship occurs on new moon",
+    "worship occurs on Tuesday",
+    "worship occurs in Venus planet triad"
+   ],
+   "inference": "The rite is timed to new moon, Tuesday, and the Venus planetary triad.",
+   "uncertainties": [
+    "exact calendrical conversion is not given"
+   ],
+   "plain_english": "Kālī worship is performed on the new moon, on Tuesday, and in the Venus planetary triad."
+  },
+  {
+   "verse": 1828,
+   "rows": [
+    {
+     "surface": "svaśaktyā",
+     "gloss": "with-own-ability",
+     "grounds": "instrumental singular feminine of sva-śakti",
+     "morph": "instr.sg.f"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyā",
+     "gloss": "to-be-worshipped",
+     "grounds": "feminine nominative/accusative singular of pūjya",
+     "morph": "nom/acc.sg.f"
+    },
+    {
+     "surface": "anantarā",
+     "gloss": "thereafter",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaparvaṇi",
+     "gloss": "in-five-parvans",
+     "grounds": "locative singular neuter of pañca-parvan compound",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "When and how often should Kālī be worshipped after the initial rite?",
+   "premises": [
+    "worship uses one's own ability",
+    "worship is always performed",
+    "worship follows thereafter in five parvans"
+   ],
+   "inference": "Kālī is to be worshipped with one's own ability, always, and thereafter in the five parvans.",
+   "uncertainties": [
+    "meaning of parvan here is ritual-specific"
+   ],
+   "plain_english": "With one's own power, Kālī is always to be worshipped, and thereafter in the five parvans."
+  },
+  {
+   "verse": 1829,
+   "rows": [
+    {
+     "surface": "agamyāgamanaṃ",
+     "gloss": "with-unapproachable-intercourse",
+     "grounds": "accusative singular neuter of agamya-āgamana compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "sandhi-fused conjunction ca + eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhakṣyasya",
+     "gloss": "of-uneatable",
+     "grounds": "genitive singular masculine/neuter of abhakṣya",
+     "morph": "gen.sg.m/n"
+    },
+    {
+     "surface": "bhakṣaṇam",
+     "gloss": "eating",
+     "grounds": "accusative singular neuter of bhakṣaṇa",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which transgressive acts are included among Kālī worship practices?",
+   "premises": [
+    "unapproachable intercourse is included",
+    "eating uneatable things is included",
+    "both are listed together"
+   ],
+   "inference": "The practices include intercourse with the unapproachable and eating what is uneatable.",
+   "uncertainties": [
+    "ritual interpretation of transgression is not explained"
+   ],
+   "plain_english": "The practices include intercourse with the unapproachable and eating what is forbidden to eat."
+  },
+  {
+   "verse": 1830,
+   "rows": [
+    {
+     "surface": "paiṣṭī",
+     "gloss": "made-from-flour",
+     "grounds": "nominative singular feminine of paiṣṭī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "gauḍī",
+     "gloss": "made-from-molasses",
+     "grounds": "nominative singular feminine of gauḍī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mādhvī",
+     "gloss": "made-from-honey",
+     "grounds": "nominative singular feminine of mādhvī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tālakharjūrasambhavā",
+     "gloss": "from-palm-date-born",
+     "grounds": "nominative singular feminine of tāla-kharjūra-sambhava compound",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which kinds of liquor are distinguished by their source ingredients?",
+   "premises": [
+    "flour liquor is named",
+    "molasses liquor is named",
+    "honey liquor is named",
+    "palm-date liquor is named"
+   ],
+   "inference": "The liquors are classified by source: flour, molasses, honey, and palm-date.",
+   "uncertainties": [
+    "exact brewing distinctions are not detailed"
+   ],
+   "plain_english": "The liquors named are those made from flour, molasses, honey, and palm-date."
+  },
+  {
+   "verse": 1831,
+   "rows": [
+    {
+     "surface": "paiṣṭī",
+     "gloss": "made-from-flour",
+     "grounds": "nominative singular feminine of paiṣṭī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śūdrasya",
+     "gloss": "of-śūdra",
+     "grounds": "genitive singular masculine of śūdra",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "mādhvī",
+     "gloss": "made-from-honey",
+     "grounds": "nominative singular feminine of mādhvī",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣatriyasya",
+     "gloss": "of-kṣatriya",
+     "grounds": "genitive singular masculine of kṣatriya",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "the-two",
+     "grounds": "nominative/accusative singular neuter of dvaya",
+     "morph": "nom/acc.sg.n"
+    }
+   ],
+   "question": "Which liquors are assigned to which social classes?",
+   "premises": [
+    "flour liquor belongs to śūdra",
+    "honey liquor belongs to kṣatriya",
+    "the two are paired"
+   ],
+   "inference": "Flour liquor is for the śūdra and honey liquor is for the kṣatriya.",
+   "uncertainties": [
+    "whether other classes receive other liquors is not stated"
+   ],
+   "plain_english": "Flour liquor is for the śūdra, and honey liquor is for the kṣatriya; these two are paired."
+  },
+  {
+   "verse": 1832,
+   "rows": [
+    {
+     "surface": "brāhmaṇena",
+     "gloss": "by-brāhmaṇa",
+     "grounds": "instrumental singular masculine of brāhmaṇa",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyā",
+     "gloss": "to-be-given",
+     "grounds": "feminine nominative singular of dātavya",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mādhvīṃ",
+     "gloss": "made-from-honey",
+     "grounds": "accusative singular feminine of mādhvī",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kathañcana",
+     "gloss": "in-any-way",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What restriction applies to a brāhmaṇa giving honey liquor?",
+   "premises": [
+    "a brāhmaṇa gives liquor",
+    "honey liquor is excluded",
+    "exclusion applies in any way"
+   ],
+   "inference": "A brāhmaṇa may give liquor, but never honey liquor in any way.",
+   "uncertainties": [
+    "whether other liquors are permitted is not stated"
+   ],
+   "plain_english": "A brāhmaṇa should give liquor, but in no way honey liquor."
+  },
+  {
+   "verse": 1833,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulamadhyena",
+     "gloss": "by-one-in-kula-midst",
+     "grounds": "instrumental singular masculine/neuter of kula-madhya compound",
+     "morph": "instr.sg.m/n"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "third person singular active optative of pūj",
+     "morph": "3.sg.act.opt.√pūj"
+    },
+    {
+     "surface": "kulasundarīm",
+     "gloss": "kula-beauty",
+     "grounds": "accusative singular feminine of kulasundarī",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How may Kulasundarī be worshipped within the kula?",
+   "premises": [
+    "worship may be done by one in kula midst",
+    "Kulasundarī is the object",
+    "worship is enjoined"
+   ],
+   "inference": "Kulasundarī may be worshipped by one situated in the midst of the kula.",
+   "uncertainties": [
+    "exact role of the worshipper is not specified"
+   ],
+   "plain_english": "Or, one in the midst of the kula should worship Kulasundarī."
+  },
+  {
+   "verse": 1834,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyam",
+     "gloss": "immediately",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pānayogyaṃ",
+     "gloss": "fit-for-drinking",
+     "grounds": "nominative/accusative singular neuter of pāna-yogya compound",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "third person singular active optative of as",
+     "morph": "3.sg.act.opt.√as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madyam",
+     "gloss": "liquor",
+     "grounds": "nominative/accusative singular neuter of madya",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "guḍamiśritam",
+     "gloss": "with-jaggery-mixed",
+     "grounds": "nominative/accusative singular neuter of guḍa-miśrita compound",
+     "morph": "nom/acc.sg.n"
+    }
+   ],
+   "question": "What condition makes liquor unfit for immediate drinking?",
+   "premises": [
+    "liquor is not immediately drinkable",
+    "jaggery-mixed liquor is excluded",
+    "fitness for drinking is denied"
+   ],
+   "inference": "Liquor mixed with jaggery should not be considered fit for immediate drinking.",
+   "uncertainties": [
+    "whether aging or preparation changes this is not stated"
+   ],
+   "plain_english": "Liquor mixed with jaggery should not be drunk immediately."
+  },
+  {
+   "verse": 1835,
+   "rows": [
+    {
+     "surface": "brāhmaṇaḥ",
+     "gloss": "brāhmaṇa",
+     "grounds": "nominative singular masculine of brāhmaṇa",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tāmrapātre",
+     "gloss": "in-copper-vessel",
+     "grounds": "locative singular neuter of tāmra-pātra compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "accusative singular neuter of madhu",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "madyam",
+     "gloss": "liquor",
+     "grounds": "accusative singular neuter of madya",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-prepare",
+     "grounds": "third person singular active optative of prakalp",
+     "morph": "3.sg.act.opt.√prakalp"
+    }
+   ],
+   "question": "In what vessel should a brāhmaṇa prepare honey liquor?",
+   "premises": [
+    "a brāhmaṇa prepares liquor",
+    "honey liquor is specified",
+    "copper vessel is specified"
+   ],
+   "inference": "A brāhmaṇa should prepare honey liquor in a copper vessel.",
+   "uncertainties": [
+    "whether other vessels are prohibited is not stated"
+   ],
+   "plain_english": "A brāhmaṇa should prepare honey liquor in a copper vessel."
+  },
+  {
+   "verse": 1836,
+   "rows": [
+    {
+     "surface": "no",
+     "gloss": "not",
+     "grounds": "indeclinable negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhikarī",
+     "gloss": "success-causing",
+     "grounds": "nominative singular feminine of siddhi-karī compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative singular feminine of devī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "prajaptaiḥ",
+     "gloss": "even-by-muttered",
+     "grounds": "instrumental plural masculine/neuter of prajapta",
+     "morph": "instr.pl.m/n"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṭibhiḥ",
+     "gloss": "by-crores",
+     "grounds": "instrumental plural feminine/masculine/neuter of koṭi",
+     "morph": "instr.pl.f/m/n"
+    }
+   ],
+   "question": "What happens if betel is omitted during Kālikā repetition?",
+   "premises": [
+    "omission is considered",
+    "success-causing power is denied",
+    "even crores of muttered repetitions fail"
+   ],
+   "inference": "Without betel, even crores of muttered repetitions do not make the rite success-causing.",
+   "uncertainties": [
+    "exact number or ritual count is not specified"
+   ],
+   "plain_english": "If betel is omitted, O goddess, even crores of muttered repetitions will not be success-causing."
+  },
+  {
+   "verse": 1837,
+   "rows": [
+    {
+     "surface": "tāmbūlena",
+     "gloss": "without-betel",
+     "grounds": "instrumental singular neuter of tāmbūla, used with vinā",
+     "morph": "instr.sg.n"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative singular masculine of yad",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālikāṃ",
+     "gloss": "Kālikā",
+     "grounds": "accusative singular feminine of Kālikā",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "ten-times",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "may-mutter",
+     "grounds": "third person singular active optative of jap",
+     "morph": "3.sg.act.opt.√jap"
+    }
+   ],
+   "question": "What is the consequence of muttering Kālikā ten times without betel?",
+   "premises": [
+    "betel is omitted",
+    "Kālikā is muttered",
+    "muttering occurs ten times"
+   ],
+   "inference": "Muttering Kālikā ten times without betel is the condition under discussion.",
+   "uncertainties": [
+    "the exact consequence is stated in the following verse"
+   ],
+   "plain_english": "Whoever mutters Kālikā ten times without betel is addressed in this rule."
+  }
+ ]
+}

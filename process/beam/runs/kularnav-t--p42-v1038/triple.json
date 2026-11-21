@@ -1,0 +1,623 @@
+{
+ "song": "kul-p42",
+ "items": [
+  {
+   "verse": 1038,
+   "rows": [
+    {
+     "surface": "kulajñāḥ",
+     "gloss": "kula-knowers",
+     "grounds": "kula-knowers",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "where",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "stand",
+     "morph": "3.pl.act-pres+sthā"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhāmi",
+     "gloss": "stand",
+     "grounds": "stand",
+     "morph": "1.sg.act-pres+sthā"
+    },
+    {
+     "surface": "bhāmini",
+     "gloss": "beautiful-one",
+     "grounds": "beautiful-one",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Where do kula-knowers stand and where does the speaker stand?",
+   "premises": [
+    "kula-knowers stand where they stand",
+    "the speaker stands there too",
+    "the addressee is beautiful"
+   ],
+   "inference": "The speaker identifies his presence with the place of kula-knowers.",
+   "uncertainties": [
+    "exact vocative force of bhāmini"
+   ],
+   "plain_english": "Where kula-knowers stand, there I stand too, O beautiful one."
+  },
+  {
+   "verse": 1039,
+   "rows": [
+    {
+     "surface": "draṣṭavyam",
+     "gloss": "to-be-seen",
+     "grounds": "to-be-seen",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "effort",
+     "grounds": "effort",
+     "morph": "n.instr.sg.m"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "there",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sannihitaḥ",
+     "gloss": "present",
+     "grounds": "present",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "I",
+     "morph": "pron.nom.sg.1"
+    }
+   ],
+   "question": "What must be seen with effort where the speaker is present?",
+   "premises": [
+    "seeing is to be done with effort",
+    "the speaker is present there",
+    "the speaker affirms his presence"
+   ],
+   "inference": "The speaker's presence is something to be sought and seen deliberately.",
+   "uncertainties": [
+    "whether draṣṭavyam is neuter nominative or accusative"
+   ],
+   "plain_english": "It must be seen with effort, for I am indeed present there."
+  },
+  {
+   "verse": 1040,
+   "rows": [
+    {
+     "surface": "samīpe",
+     "gloss": "near",
+     "grounds": "near",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "varttamānaḥ",
+     "gloss": "existing",
+     "grounds": "existing",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "even",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "draṣṭavyaḥ",
+     "gloss": "seen",
+     "grounds": "seen",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "beast",
+     "grounds": "beast",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "beloved",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Why is a beast not to be seen even when near?",
+   "premises": [
+    "even one existing nearby is not seen",
+    "the unseen one is called a beast",
+    "the addressee is beloved"
+   ],
+   "inference": "Mere proximity does not make someone fit to be seen as a kula-knower.",
+   "uncertainties": [
+    "whether paśuḥ is literal or figurative"
+   ],
+   "plain_english": "Even one existing nearby is not to be seen, O beloved; he is a beast."
+  },
+  {
+   "verse": 1041,
+   "rows": [
+    {
+     "surface": "darśanādarcana",
+     "gloss": "seeing-worship",
+     "grounds": "seeing-worship",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "his",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "trisaptakulam",
+     "gloss": "twenty-one-kulas",
+     "grounds": "twenty-one-kulas",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "uplifts",
+     "grounds": "uplifts",
+     "morph": "3.sg.act-opt+uddhṛ"
+    }
+   ],
+   "question": "What does seeing and worshipping him uplift?",
+   "premises": [
+    "seeing and worship belong to him",
+    "twenty-one kulas are uplifted",
+    "the verb is optative"
+   ],
+   "inference": "The act of seeing and worshipping him raises twenty-one kulas.",
+   "uncertainties": [
+    "exact scope of trisaptakulam"
+   ],
+   "plain_english": "By seeing and worshipping him, twenty-one kulas are uplifted."
+  },
+  {
+   "verse": 1042,
+   "rows": [
+    {
+     "surface": "śaṃsanti",
+     "gloss": "praise",
+     "grounds": "praise",
+     "morph": "3.pl.act-pres+śaṃs"
+    },
+    {
+     "surface": "pitaras",
+     "gloss": "ancestors",
+     "grounds": "ancestors",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "his",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "yāsyāmaḥ",
+     "gloss": "we-go",
+     "grounds": "we-go",
+     "morph": "1.pl.act-fut+yā"
+    },
+    {
+     "surface": "paramām",
+     "gloss": "supreme",
+     "grounds": "supreme",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "goal",
+     "grounds": "goal",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What do his ancestors praise and where do they go?",
+   "premises": [
+    "his ancestors praise him",
+    "they will go to the supreme goal",
+    "the goal is supreme"
+   ],
+   "inference": "His ancestors praise him and expect to reach the supreme goal.",
+   "uncertainties": [
+    "whether yāsyāmaḥ is first person plural future"
+   ],
+   "plain_english": "His ancestors praise him: we shall go to the supreme goal."
+  },
+  {
+   "verse": 1043,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "who",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "asmatkuleṣu",
+     "gloss": "our-kulas",
+     "grounds": "our-kulas",
+     "morph": "n.loc.pl.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "putraḥ",
+     "gloss": "son",
+     "grounds": "son",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pautraḥ",
+     "gloss": "grandson",
+     "grounds": "grandson",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaulika",
+     "grounds": "kaulika",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "3.sg.act-opt+bhū"
+    }
+   ],
+   "question": "Who among our kulas becomes a kaulika?",
+   "premises": [
+    "a son or grandson may be meant",
+    "the person is in our kulas",
+    "he becomes a kaulika"
+   ],
+   "inference": "A son or grandson in our kulas may become a kaulika.",
+   "uncertainties": [
+    "whether vā is disjunctive or locative in this context"
+   ],
+   "plain_english": "Whoever in our kulas, whether son or grandson, becomes a kaulika."
+  },
+  {
+   "verse": 1044,
+   "rows": [
+    {
+     "surface": "yatsamīpam",
+     "gloss": "whose-near",
+     "grounds": "whose-near",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samāyānti",
+     "gloss": "come",
+     "grounds": "come",
+     "morph": "3.pl.act-pres+samāyā"
+    },
+    {
+     "surface": "kulācāryāḥ",
+     "gloss": "kula-teachers",
+     "grounds": "kula-teachers",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "joy",
+     "grounds": "joy",
+     "morph": "n.instr.sg.f"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "beloved",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Who comes joyfully near him?",
+   "premises": [
+    "kula-teachers come to his nearness",
+    "they come with joy",
+    "the addressee is beloved"
+   ],
+   "inference": "Kula-teachers joyfully gather near him.",
+   "uncertainties": [
+    "whether yatsamīpam is accusative of direction"
+   ],
+   "plain_english": "Kula-teachers come joyfully to his nearness, O beloved."
+  },
+  {
+   "verse": 1045,
+   "rows": [
+    {
+     "surface": "samāyānti",
+     "gloss": "come",
+     "grounds": "come",
+     "morph": "3.pl.act-pres+samāyā"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "joy",
+     "grounds": "joy",
+     "morph": "n.instr.sg.f"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "goddess",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "yoginis",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "yogibhiḥ",
+     "gloss": "with",
+     "grounds": "with",
+     "morph": "n.instr.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "saha",
+     "grounds": "saha",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who comes with joy along with yogis?",
+   "premises": [
+    "yoginis come with joy",
+    "they come with yogis",
+    "the addressee is goddess"
+   ],
+   "inference": "Yoginis come joyfully together with yogis.",
+   "uncertainties": [
+    "whether saha is redundant with yogibhiḥ"
+   ],
+   "plain_english": "Yoginis come with joy, O goddess, together with yogis."
+  },
+  {
+   "verse": 1046,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampūjayet",
+     "gloss": "worship",
+     "grounds": "worship",
+     "morph": "3.sg.act-opt+sampūj"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "devotion",
+     "grounds": "devotion",
+     "morph": "n.instr.sg.f"
+    },
+    {
+     "surface": "kulajñānaparāyaṇān",
+     "gloss": "kula-knowledge-devoted",
+     "grounds": "kula-knowledge-devoted",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "Whom should one worship with devotion?",
+   "premises": [
+    "therefore worship follows",
+    "worship is with devotion",
+    "the devoted are kula-knowledge-devoted"
+   ],
+   "inference": "One should worship those devoted to kula-knowledge with devotion.",
+   "uncertainties": [
+    "whether sampūjayet is third person singular optative"
+   ],
+   "plain_english": "Therefore one should worship with devotion those devoted to kula-knowledge."
+  },
+  {
+   "verse": 1047,
+   "rows": [
+    {
+     "surface": "pāpiṣṭhāḥ",
+     "gloss": "sinners",
+     "grounds": "sinners",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "tvatprasādasya",
+     "gloss": "your-grace",
+     "grounds": "your-grace",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "vessel",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "become",
+     "morph": "3.pl.act-pres+bhū"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "they",
+     "morph": "pron.nom.pl.m"
+    }
+   ],
+   "question": "Why are sinners not vessels of your grace?",
+   "premises": [
+    "sinners are not vessels",
+    "they do not become vessels",
+    "your grace is the measure"
+   ],
+   "inference": "Sinners are not fit vessels for your grace.",
+   "uncertainties": [
+    "whether bhājanam is nominative predicate"
+   ],
+   "plain_english": "Sinners do not become vessels of your grace."
+  },
+  {
+   "verse": 1048,
+   "rows": [
+    {
+     "surface": "rasān",
+     "gloss": "flavors",
+     "grounds": "flavors",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "bhaktasya",
+     "gloss": "devotee",
+     "grounds": "devotee",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "jihvāgrāt",
+     "gloss": "tongue-tip",
+     "grounds": "tongue-tip",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "aśnāmi",
+     "gloss": "eat",
+     "grounds": "eat",
+     "morph": "1.sg.act-pres+aś"
+    },
+    {
+     "surface": "kamalekṣaṇe",
+     "gloss": "lotus-eyed",
+     "grounds": "lotus-eyed",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "From whose tongue-tip does the speaker eat flavors?",
+   "premises": [
+    "flavors are eaten",
+    "they come from a devotee's tongue-tip",
+    "the addressee is lotus-eyed"
+   ],
+   "inference": "The speaker eats flavors from the devotee's tongue-tip.",
+   "uncertainties": [
+    "whether jihvāgrāt is ablative source"
+   ],
+   "plain_english": "I eat flavors from the tongue-tip of a devotee, O lotus-eyed one."
+  },
+  {
+   "verse": 1049,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "therefore",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "my",
+     "morph": "pron.gen.sg.1"
+    },
+    {
+     "surface": "priyākāṅkṣī",
+     "gloss": "dear-desiring",
+     "grounds": "dear-desiring",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tvadbhaktān",
+     "gloss": "your-devotees",
+     "grounds": "your-devotees",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "only",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "worship",
+     "morph": "3.sg.act-opt+pūj"
+    }
+   ],
+   "question": "Whom should one desiring the dear worship?",
+   "premises": [
+    "therefore worship follows",
+    "one desiring the dear worships",
+    "only your devotees are worshipped"
+   ],
+   "inference": "One who desires the dear should worship only your devotees.",
+   "uncertainties": [
+    "whether priyākāṅkṣī is nominative subject"
+   ],
+   "plain_english": "Therefore one desiring my dear should worship only your devotees."
+  }
+ ]
+}

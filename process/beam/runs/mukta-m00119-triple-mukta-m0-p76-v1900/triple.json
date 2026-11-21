@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "māyābījena",
+     "gloss": "by-māyā-seed",
+     "grounds": "compound of māyā and bīja in instrumental case",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "yajanaṃ",
+     "gloss": "worship",
+     "grounds": "accusative object of the implied ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hūṃbījenopaveśanam",
+     "gloss": "sitting-by-hūṃ-seed",
+     "grounds": "compound of hūṃbīja and upaveśana in accusative case",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which seed is used for worship and which seed is used for sitting in this rite?",
+   "premises": [
+    "Worship is performed with māyābīja.",
+    "Sitting is performed with hūṃbīja.",
+    "The rite occurs at specified places."
+   ],
+   "inference": "The verse assigns distinct bījas to worship and sitting.",
+   "uncertainties": [
+    "Exact ritual sequence beyond the verse is not specified."
+   ],
+   "plain_english": "Worship is done with the māyā seed, and sitting is done with the hūṃ seed."
+  }
+ ]
+}

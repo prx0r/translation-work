@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4300,
+   "rows": [
+    {
+     "surface": "vakṣaḥ",
+     "gloss": "chest",
+     "grounds": "object of the act of tearing; neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dārayantīm",
+     "gloss": "tearing-apart",
+     "grounds": "present active participle describing the goddess's action; causative formation",
+     "morph": "f.acc.sg.prap.caus-dṛ"
+    },
+    {
+     "surface": "bhayaṃkarām",
+     "gloss": "fear-inspiring",
+     "grounds": "qualifies the agent as terrifying in this destructive act",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What fearsome act of bodily destruction does the goddess enact upon the enemy?",
+   "premises": [
+    "The goddess is described as tearing apart a chest.",
+    "The act of tearing is directed at the enemy's body in context.",
+    "The goddess is characterized as fear-inspiring while performing this act."
+   ],
+   "inference": "The goddess manifests her terrifying power by violently rending the enemy's chest.",
+   "uncertainties": [
+    "The specific identity of the enemy is carried over from the preceding verses."
+   ],
+   "plain_english": "She is fear-inspiring, tearing apart the enemy's chest."
+  }
+ ]
+}

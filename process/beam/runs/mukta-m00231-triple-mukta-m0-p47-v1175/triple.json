@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "labheta",
+     "gloss": "obtain",
+     "grounds": "optative of labh, 'obtain'.",
+     "morph": "3.sg.mid-opt+labh"
+    },
+    {
+     "surface": "sarvakarmāṇi",
+     "gloss": "all-acts",
+     "grounds": "neuter accusative plural of sarvakarman, 'all acts'.",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "dehānte",
+     "gloss": "at-end",
+     "grounds": "locative singular of dehānta, 'end of body'.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhairavo",
+     "gloss": "bhairava",
+     "grounds": "nominative singular of Bhairava.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "become",
+     "grounds": "optative of bhū, 'become'.",
+     "morph": "3.sg.act-opt+bhū"
+    }
+   ],
+   "question": "What result follows at the end of the body?",
+   "premises": [
+    "One obtains all acts.",
+    "At body's end one becomes Bhairava."
+   ],
+   "inference": "Completion yields full ritual efficacy and final transformation into Bhairava.",
+   "uncertainties": [
+    "Exact referent of all acts unspecified."
+   ],
+   "plain_english": "One obtains all acts; at the end of the body one becomes Bhairava."
+  }
+ ]
+}

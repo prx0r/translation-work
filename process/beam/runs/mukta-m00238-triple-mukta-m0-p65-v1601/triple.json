@@ -1,0 +1,1049 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1601,
+   "rows": [
+    {
+     "surface": "jayābhilāpī",
+     "gloss": "victory-desirous",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "viṣayānurakto",
+     "gloss": "attached-to-sense-objects",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jātojayābde",
+     "gloss": "born-in-jaya-year",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "manujo",
+     "gloss": "man",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahaujāḥ",
+     "gloss": "great-vigor",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Which character traits are assigned to a man born in the jaya year?",
+   "premises": [
+    "Verse assigns traits to birth year.",
+    "It names jaya as that year.",
+    "It describes the man."
+   ],
+   "inference": "The verse maps the jaya year to a victory-desirous, sense-attached, vigorous man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in the jaya year is victory-desirous, attached to sense objects, and of great vigor."
+  },
+  {
+   "verse": 1602,
+   "rows": [
+    {
+     "surface": "sadgītanṛtyābhirataḥ",
+     "gloss": "devoted-to-good-song-and-dance",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "enjoyer",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manmathābde",
+     "gloss": "in-manmatha-year",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "jananaṃ",
+     "gloss": "birth",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prapannaḥ",
+     "gloss": "attained",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which traits belong to one born in the manmatha year?",
+   "premises": [
+    "Verse links manmatha year to birth.",
+    "It names devotion to song and dance.",
+    "It calls him an enjoyer."
+   ],
+   "inference": "The verse maps the manmatha year to a devoted, enjoying person.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the manmatha year is devoted to good song and dance and is an enjoyer."
+  },
+  {
+   "verse": 1603,
+   "rows": [
+    {
+     "surface": "krūroddhato",
+     "gloss": "cruel-arrogant",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "niṃdyamatiḥ",
+     "gloss": "blameworthy-minded",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "lubdho",
+     "gloss": "greedy",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vakrāsya",
+     "gloss": "crooked-faced",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bāhvaṃghri",
+     "gloss": "arm-foot",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aruśaṃ?+priyaḥ+syāt",
+     "gloss": "dear-maybe",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "viruddhabāṣī",
+     "gloss": "contradictory-speaking",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bahuduṣṭaceṣṭo",
+     "gloss": "much-wicked-acting",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hāyane",
+     "gloss": "in-year",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "durmukhināmnijātaḥ",
+     "gloss": "born-named-durmukhi",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which traits are assigned to one born in the durmukhi year?",
+   "premises": [
+    "Verse names durmukhi year.",
+    "It lists cruel and greedy traits.",
+    "It describes wicked conduct."
+   ],
+   "inference": "The verse maps the durmukhi year to a cruel, greedy, contradictory person.",
+   "uncertainties": [
+    "Token contains unresolved sandhi markers."
+   ],
+   "plain_english": "One born in the durmukhi year is cruel, arrogant, blameworthy, greedy, crooked-faced, and wicked in conduct."
+  },
+  {
+   "verse": 1604,
+   "rows": [
+    {
+     "surface": "samastavastugrahaṇaikabuddhiḥ",
+     "gloss": "all-object-grasping-one-minded",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hemalaṃbi",
+     "gloss": "hemalambi",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabhavaḥ",
+     "gloss": "origin",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pumāntsyāt",
+     "gloss": "man-may-be",
+     "grounds": "compound verb phrase",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of man originates in the hemalambi year?",
+   "premises": [
+    "Verse names hemalambi origin.",
+    "It describes one-minded grasping.",
+    "It says man may be."
+   ],
+   "inference": "The verse maps hemalambi origin to a man fixed on grasping all objects.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man originating in the hemalambi year is single-minded in grasping all objects."
+  },
+  {
+   "verse": 1605,
+   "rows": [
+    {
+     "surface": "prārabdhakāryetitarāṃ",
+     "gloss": "undertaken-work-exceedingly",
+     "grounds": "compound adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pralāpī",
+     "gloss": "babbling",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vimalaṃbisaṃvatsarassaṃbhavassyāt",
+     "gloss": "vimalambi-year",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What traits are tied to birth in the vimalambi year?",
+   "premises": [
+    "Verse names vimalambi year.",
+    "It mentions excessive undertaken work.",
+    "It calls him babbling."
+   ],
+   "inference": "The verse maps the vimalambi year to an excessively babbling person.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the vimalambi year babbles excessively about undertaken work."
+  },
+  {
+   "verse": 1606,
+   "rows": [
+    {
+     "surface": "analpajalpaḥ",
+     "gloss": "not-small-talk",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "svasuhṛdvikalpo",
+     "gloss": "friend-doubting",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vikārisaṃvatsarajonarassyāt",
+     "gloss": "vikari-year-born",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What traits are tied to birth in the vikari year?",
+   "premises": [
+    "Verse names vikari year.",
+    "It says talk is not small.",
+    "It says he doubts friends."
+   ],
+   "inference": "The verse maps the vikari year to a talkative, friend-doubting man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the vikari year talks much and doubts friends."
+  },
+  {
+   "verse": 1607,
+   "rows": [
+    {
+     "surface": "anekavidyābhyasanānuraktaḥ",
+     "gloss": "many-knowledge-practice-attached",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "saṃvatsare",
+     "gloss": "in-year",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śārvarināmnijātaḥ",
+     "gloss": "named-sharvari-born",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits are tied to birth in the sharvari year?",
+   "premises": [
+    "Verse names sharvari year.",
+    "It says attached to many studies.",
+    "It says born named sharvari."
+   ],
+   "inference": "The verse maps the sharvari year to a man attached to many studies.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the sharvari year is attached to practicing many kinds of knowledge."
+  },
+  {
+   "verse": 1608,
+   "rows": [
+    {
+     "surface": "suguptabuddhiḥ",
+     "gloss": "well-hidden-mind",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "capalasvabhāvaḥ",
+     "gloss": "fickle-nature",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "plavābhidhānābdabhavonarassyāt",
+     "gloss": "plava-named-year-born",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What traits are tied to birth in the plava year?",
+   "premises": [
+    "Verse names plava year.",
+    "It says mind is well hidden.",
+    "It says nature is fickle."
+   ],
+   "inference": "The verse maps the plava year to a hidden-minded, fickle man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the plava year has a well-hidden mind and a fickle nature."
+  },
+  {
+   "verse": 1609,
+   "rows": [
+    {
+     "surface": "syānmānavaḥ",
+     "gloss": "may-be-man",
+     "grounds": "compound verb phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūnudhanorusaṃpad",
+     "gloss": "son-wealth-great-abundance",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prasūtiḥ",
+     "gloss": "birth",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śubhakṛtsamāsu",
+     "gloss": "auspicious-years",
+     "grounds": "compound locative",
+     "morph": "loc.pl.f"
+    }
+   ],
+   "question": "What abundance is tied to birth in auspicious years?",
+   "premises": [
+    "Verse names auspicious years.",
+    "It mentions son and wealth abundance.",
+    "It says man may be."
+   ],
+   "inference": "The verse maps auspicious years to a man with abundant sons and wealth.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in auspicious years may have abundant sons and wealth."
+  },
+  {
+   "verse": 1610,
+   "rows": [
+    {
+     "surface": "kāṃtovinītaḥ",
+     "gloss": "beloved",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śubhakṛt",
+     "gloss": "auspicious-doer",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "pravīṇaḥ",
+     "gloss": "skilled",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śobhakṛdvatsarasaṃbhavaḥ",
+     "gloss": "shobhakrit-year-born",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What traits are tied to birth in the shobhakrit year?",
+   "premises": [
+    "Verse names shobhakrit year.",
+    "It calls him beloved and skilled.",
+    "It says may be."
+   ],
+   "inference": "The verse maps the shobhakrit year to a beloved, auspicious, skilled man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the shobhakrit year may be beloved, auspicious in action, and skilled."
+  },
+  {
+   "verse": 1611,
+   "rows": [
+    {
+     "surface": "ācāratolpatvaśaṭhatvayuktaḥ",
+     "gloss": "conduct-lowness-deceit-endowed",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "parābhave",
+     "gloss": "defeat",
+     "grounds": "locative noun",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "prasūtiḥ",
+     "gloss": "birth",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What conduct is tied to birth in a year of defeat?",
+   "premises": [
+    "Verse names defeat.",
+    "It says birth would be.",
+    "It describes low conduct and deceit."
+   ],
+   "inference": "The verse maps defeat-year birth to low, deceitful conduct.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One whose birth is in a year of defeat is endowed with low conduct and deceit."
+  },
+  {
+   "verse": 1612,
+   "rows": [
+    {
+     "surface": "dhūrtassadācāravicārahīnaḥ",
+     "gloss": "rogue",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "plavaṃgajovaimanujaḥ",
+     "gloss": "monkey-born",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛśāṃgaḥ",
+     "gloss": "thin-limbed",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What traits are tied to a monkey-born man?",
+   "premises": [
+    "Verse names monkey-born man.",
+    "It calls him rogue.",
+    "It says thin-limbed."
+   ],
+   "inference": "The verse maps monkey-born birth to a rogue, thin-limbed man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A monkey-born man is a rogue lacking good conduct and is thin-limbed."
+  },
+  {
+   "verse": 1613,
+   "rows": [
+    {
+     "surface": "sthūlāṃghri",
+     "gloss": "thick-foot",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sanmauliḥ",
+     "gloss": "good-crown",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "alaṃbalīyān",
+     "gloss": "very-strong",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jātaḥ",
+     "gloss": "born",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "orikīlaḥ",
+     "gloss": "orikila",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kilakīlakābde",
+     "gloss": "kilakilaka-year",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What traits are tied to birth in the kilakilaka year?",
+   "premises": [
+    "Verse names kilakilaka year.",
+    "It says thick-footed and strong.",
+    "It says good-crowned."
+   ],
+   "inference": "The verse maps the kilakilaka year to a strong, thick-footed man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the kilakilaka year is thick-footed, good-crowned, and very strong."
+  },
+  {
+   "verse": 1614,
+   "rows": [
+    {
+     "surface": "sāttvikaḥ",
+     "gloss": "sattvic",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kṛśakalebarayaṣṭiḥ",
+     "gloss": "thin-body-staff",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saumyavatsarabhavomanujastu",
+     "gloss": "gentle-year-born",
+     "grounds": "compound phrase",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits are tied to birth in a gentle year?",
+   "premises": [
+    "Verse names gentle year.",
+    "It calls him sattvic.",
+    "It says thin body staff."
+   ],
+   "inference": "The verse maps a gentle year to a sattvic, thin-bodied man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in a gentle year is sattvic and has a thin body like a staff."
+  },
+  {
+   "verse": 1615,
+   "rows": [
+    {
+     "surface": "krodhī",
+     "gloss": "angry",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "śucirbhoganivṛttacetāḥ",
+     "gloss": "pure",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prāṇī",
+     "gloss": "being",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sādhāraṇajaḥ",
+     "gloss": "common-born",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "pragītaḥ",
+     "gloss": "sung",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits are tied to common-born beings?",
+   "premises": [
+    "Verse names common-born.",
+    "It calls him angry and pure.",
+    "It says sung."
+   ],
+   "inference": "The verse maps common birth to an angry yet pure being.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A common-born being is angry, pure in mind, and is sung of."
+  },
+  {
+   "verse": 1616,
+   "rows": [
+    {
+     "surface": "parāṅmukhastātavacasyatīvavirodhikṛnnāmni",
+     "gloss": "averse",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What birth is tied to an averse and contradictory person?",
+   "premises": [
+    "Verse describes averse person.",
+    "It mentions birth.",
+    "It says whose."
+   ],
+   "inference": "The verse maps such birth to an averse, contradictory person.",
+   "uncertainties": [
+    "Token contains unresolved sandhi markers."
+   ],
+   "plain_english": "One whose birth is in that named year is averse and strongly contradictory."
+  },
+  {
+   "verse": 1617,
+   "rows": [
+    {
+     "surface": "vyāpārasaṃprāptamahatpratiṣṭhaḥ",
+     "gloss": "business-attained-great-fame",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "pumānbhavedvai",
+     "gloss": "man",
+     "grounds": "compound verb phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paridhāvināmni",
+     "gloss": "paridhavi-named",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What fame is tied to birth in the paridhavi year?",
+   "premises": [
+    "Verse names paridhavi year.",
+    "It says man may be.",
+    "It mentions business fame."
+   ],
+   "inference": "The verse maps the paridhavi year to a man of business fame.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in the paridhavi year attains great fame through business."
+  },
+  {
+   "verse": 1618,
+   "rows": [
+    {
+     "surface": "syādalpadhīrgarhitakarmakarttā",
+     "gloss": "may-be",
+     "grounds": "compound verb phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pramādi",
+     "gloss": "careless",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "janmā",
+     "gloss": "birth",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manujaḥ",
+     "gloss": "man",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pramādī",
+     "gloss": "careless",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What traits are tied to a careless man's birth?",
+   "premises": [
+    "Verse names careless man.",
+    "It says may be.",
+    "It mentions birth."
+   ],
+   "inference": "The verse maps such birth to a careless, blameworthy man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in that year may be of small intellect, do blameworthy deeds, and be careless."
+  },
+  {
+   "verse": 1619,
+   "rows": [
+    {
+     "surface": "prājñaḥ",
+     "gloss": "wise",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kṛtajñaḥ",
+     "gloss": "grateful",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sutarāṃvinītopyānaṃdajāto",
+     "gloss": "exceedingly",
+     "grounds": "compound phrase",
+     "morph": "indecl."
+    },
+    {
+     "surface": "manujovadānyaḥ",
+     "gloss": "man",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits are tied to an ananda-born man?",
+   "premises": [
+    "Verse names ananda birth.",
+    "It calls him wise and grateful.",
+    "It says exceedingly modest."
+   ],
+   "inference": "The verse maps ananda birth to a wise, grateful, modest man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in ananda is wise, grateful, exceedingly modest, and generous."
+  },
+  {
+   "verse": 1620,
+   "rows": [
+    {
+     "surface": "dayāvihīnaśca",
+     "gloss": "compassion-lacking",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sasāhasopi",
+     "gloss": "with-boldness",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "bhavennaro",
+     "gloss": "may-be",
+     "grounds": "compound verb phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rākṣasavarṣajanmā",
+     "gloss": "rakshasa-year-born",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits are tied to birth in a rakshasa year?",
+   "premises": [
+    "Verse names rakshasa year.",
+    "It says compassion lacking.",
+    "It says bold."
+   ],
+   "inference": "The verse maps a rakshasa year to a bold, compassionless man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in a rakshasa year may be lacking compassion and bold."
+  },
+  {
+   "verse": 1621,
+   "rows": [
+    {
+     "surface": "syādalpavitto",
+     "gloss": "may-be",
+     "grounds": "compound verb phrase",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahupālakaśca",
+     "gloss": "many-protector",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jātonalābde",
+     "gloss": "born",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "capalomanuṣyaḥ",
+     "gloss": "fickle",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits are tied to birth in the nalabde year?",
+   "premises": [
+    "Verse names nalabde year.",
+    "It says little wealth.",
+    "It says many protector."
+   ],
+   "inference": "The verse maps that year to a fickle man with little wealth but many dependents.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in that year may have little wealth, protect many, and be a fickle man."
+  },
+  {
+   "verse": 1622,
+   "rows": [
+    {
+     "surface": "tyāgīśaṭhotyaṃtakaṭhoravākyo",
+     "gloss": "giver",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "jātonaraḥ",
+     "gloss": "born",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "piṃgalanāmadheye",
+     "gloss": "named-pingala",
+     "grounds": "compound locative",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "What traits are tied to birth in the pingala year?",
+   "premises": [
+    "Verse names pingala year.",
+    "It calls him giver.",
+    "It says harsh speech."
+   ],
+   "inference": "The verse maps the pingala year to a giving but harsh-spoken man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in the pingala year is a giver, deceitful, and speaks harshly."
+  },
+  {
+   "verse": 1623,
+   "rows": [
+    {
+     "surface": "nareṃdramaṃtrī",
+     "gloss": "king-minister",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bahupūjitārthaḥ",
+     "gloss": "much-honored-wealth",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "siddhārthijāto",
+     "gloss": "siddharthi-born",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manujaḥ",
+     "gloss": "man",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samarthaḥ",
+     "gloss": "capable",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What traits are tied to birth in the siddharthi year?",
+   "premises": [
+    "Verse names siddharthi year.",
+    "It calls him king's minister.",
+    "It says capable."
+   ],
+   "inference": "The verse maps the siddharthi year to a capable, honored minister.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "A man born in the siddharthi year is a king's minister, much honored in wealth, and capable."
+  },
+  {
+   "verse": 1624,
+   "rows": [
+    {
+     "surface": "jātāpakīrtiḥ",
+     "gloss": "born-infamy",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "khalacittavṛttirnarotiraudraḥ",
+     "gloss": "wicked-mind-disposition",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khaluraudrijanmā",
+     "gloss": "khala-raudri-born",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What traits are tied to birth in the khala-raudri year?",
+   "premises": [
+    "Verse names khala-raudri year.",
+    "It says born in infamy.",
+    "It says wicked mind."
+   ],
+   "inference": "The verse maps that year to an infamous, wicked-minded man.",
+   "uncertainties": [
+    "Compound boundaries unresolved."
+   ],
+   "plain_english": "One born in the khala-raudri year is infamous, wicked in mind and conduct, and fierce."
+  }
+ ]
+}

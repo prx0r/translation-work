@@ -1,0 +1,1271 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3401,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūdreṇa",
+     "gloss": "by-shudra",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "arcitam",
+     "gloss": "worshipped",
+     "grounds": "past participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "linga",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viṣṇum",
+     "gloss": "vishnu",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇamet",
+     "gloss": "bows",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to a man who bows to a linga or Vishnu worshipped by a shudra?",
+   "premises": [
+    "A man bows to a linga or Vishnu.",
+    "That image was worshipped by a shudra.",
+    "The verse states the consequence."
+   ],
+   "inference": "Such a man undergoes the stated result.",
+   "uncertainties": [
+    "Exact consequence is given in the next verse."
+   ],
+   "plain_english": "A man who bows to a linga or Vishnu worshipped by a shudra."
+  },
+  {
+   "verse": 3402,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarva-yātanā",
+     "gloss": "all-torments",
+     "grounds": "compound",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "bhogī",
+     "gloss": "experiencing",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candra-tārakam",
+     "gloss": "moon-stars",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How long does that man experience all torments?",
+   "premises": [
+    "He is the man from the previous verse.",
+    "He experiences all torments.",
+    "The duration reaches moon and stars."
+   ],
+   "inference": "His torment lasts until the moon and stars.",
+   "uncertainties": [
+    "Cosmic duration is figurative."
+   ],
+   "plain_english": "He experiences all torments until the moon and stars."
+  },
+  {
+   "verse": 3403,
+   "rows": [
+    {
+     "surface": "paṃkābham",
+     "gloss": "mud-colored",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "barbaram",
+     "gloss": "barbarian",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgendra-sadṛśa",
+     "gloss": "lion-like",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ākṛtim",
+     "gloss": "form",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What forms are described as mud-colored, barbarian, and lion-like?",
+   "premises": [
+    "The verse lists forms.",
+    "One is mud-colored.",
+    "One is barbarian and lion-like."
+   ],
+   "inference": "These forms are among the unsuitable images.",
+   "uncertainties": [
+    "The exact referent is contextual."
+   ],
+   "plain_english": "Mud-colored, barbarian, and lion-like forms."
+  },
+  {
+   "verse": 3404,
+   "rows": [
+    {
+     "surface": "saumyaḥ",
+     "gloss": "gentle",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ced",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhibhiḥ",
+     "gloss": "by-householders",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pūjyaḥ",
+     "gloss": "worshipable",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When is an image worshipable by householders and when is worship not proper?",
+   "premises": [
+    "If the image is gentle, householders may worship it.",
+    "Otherwise worship is not proper.",
+    "The verse gives a conditional rule."
+   ],
+   "inference": "Gentleness determines worshipability for householders.",
+   "uncertainties": [
+    "No further criteria are given."
+   ],
+   "plain_english": "If gentle, householders may worship it; otherwise worship is not proper."
+  },
+  {
+   "verse": 3405,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "wheels",
+     "grounds": "nominative",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "dvārakāyāḥ",
+     "gloss": "of-dvaraka",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nārcyam",
+     "gloss": "not-worshipable",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūrya-dvayam",
+     "gloss": "two-suns",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which Dvaraka wheels and two suns are not worshipable?",
+   "premises": [
+    "Two wheels of Dvaraka are mentioned.",
+    "Two suns are mentioned.",
+    "Both are not worshipable."
+   ],
+   "inference": "These named items are excluded from worship.",
+   "uncertainties": [
+    "The exact images are not described."
+   ],
+   "plain_english": "The two wheels of Dvaraka and two suns are not worshipable."
+  },
+  {
+   "verse": 3406,
+   "rows": [
+    {
+     "surface": "bhagnām",
+     "gloss": "broken",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimām",
+     "gloss": "image",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matsyādi",
+     "gloss": "fish-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśakam",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What broken image and fish-etc ten are also excluded?",
+   "premises": [
+    "A broken image is mentioned.",
+    "Fish and similar ten are mentioned.",
+    "These are excluded from worship."
+   ],
+   "inference": "Broken images and the fish group are not worshipable.",
+   "uncertainties": [
+    "The ten items are not enumerated."
+   ],
+   "plain_english": "A broken image and the fish group of ten are also excluded."
+  },
+  {
+   "verse": 3407,
+   "rows": [
+    {
+     "surface": "etāsām",
+     "gloss": "of-these",
+     "grounds": "genitive",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pūjanāt",
+     "gloss": "worship",
+     "grounds": "ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "nityam",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udvegam",
+     "gloss": "distress",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prāpnuyāt",
+     "gloss": "obtains",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "gṛhī",
+     "gloss": "householder",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does a householder obtain from worshipping these excluded images?",
+   "premises": [
+    "These images are the excluded ones.",
+    "A householder worships them.",
+    "He obtains distress."
+   ],
+   "inference": "Worship of excluded images brings distress to the householder.",
+   "uncertainties": [
+    "No remedy is stated."
+   ],
+   "plain_english": "A householder obtains distress from worshipping these."
+  },
+  {
+   "verse": 3408,
+   "rows": [
+    {
+     "surface": "viṣama",
+     "gloss": "odd",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "worshipable",
+     "grounds": "nominative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣameṣu",
+     "gloss": "in-odds",
+     "grounds": "locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which odd images are worshipable and how many among odd ones?",
+   "premises": [
+    "Odd images are worshipable.",
+    "Among odd ones only one is worshipable.",
+    "The verse states this restriction."
+   ],
+   "inference": "Only one odd image is worshipable.",
+   "uncertainties": [
+    "The specific one is not named."
+   ],
+   "plain_english": "Odd images are worshipable, but only one among odd ones."
+  },
+  {
+   "verse": 3409,
+   "rows": [
+    {
+     "surface": "sarva-pāpa-vinirmuktaḥ",
+     "gloss": "all-sins-freed",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṣṇu-sāyujyam",
+     "gloss": "vishnu-union",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What result comes to one freed from all sins?",
+   "premises": [
+    "One is freed from all sins.",
+    "That person obtains Vishnu-union.",
+    "The verse states the result."
+   ],
+   "inference": "Freedom from all sins leads to union with Vishnu.",
+   "uncertainties": [
+    "No method is specified."
+   ],
+   "plain_english": "Freed from all sins, one obtains union with Vishnu."
+  },
+  {
+   "verse": 3410,
+   "rows": [
+    {
+     "surface": "dhāryam",
+     "gloss": "to-be-held",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muninā",
+     "gloss": "by-sage",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "lakṣmīpatim",
+     "gloss": "lakshmi-lord",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ude",
+     "gloss": "ude",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should a sage always hold with devotion?",
+   "premises": [
+    "A sage should hold something.",
+    "He holds it with devotion.",
+    "The object is Lakshmi's lord."
+   ],
+   "inference": "A sage should always hold Lakshmi's lord with devotion.",
+   "uncertainties": [
+    "The exact sense of ude is unclear."
+   ],
+   "plain_english": "A sage should always hold Lakshmi's lord with devotion."
+  },
+  {
+   "verse": 3411,
+   "rows": [
+    {
+     "surface": "dharmārtha-kāma-mokṣa",
+     "gloss": "dharma-artha-kama-moksha",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "for",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhaktimān",
+     "gloss": "devotee",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yassame",
+     "gloss": "yassame",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "dear",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "For what four aims is the devotee dear?",
+   "premises": [
+    "The four aims are dharma, artha, kama, and moksha.",
+    "The devotee is dear for these aims.",
+    "The verse states this."
+   ],
+   "inference": "Devotion makes one dear for all four aims.",
+   "uncertainties": [
+    "The word yassame is unclear."
+   ],
+   "plain_english": "The devotee is dear for dharma, artha, kama, and moksha."
+  },
+  {
+   "verse": 3412,
+   "rows": [
+    {
+     "surface": "śrāddhalāle",
+     "gloss": "shraddha-lale",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitṝṇām",
+     "gloss": "of-ancestors",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dattam",
+     "gloss": "given",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "akṣayam",
+     "gloss": "imperishable",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is especially imperishable when given to ancestors in shraddha?",
+   "premises": [
+    "Something is given to ancestors.",
+    "It is given especially in shraddha.",
+    "It is imperishable."
+   ],
+   "inference": "The offering given to ancestors is imperishable.",
+   "uncertainties": [
+    "The exact offering is not named."
+   ],
+   "plain_english": "What is given to ancestors in shraddha is especially imperishable."
+  },
+  {
+   "verse": 3413,
+   "rows": [
+    {
+     "surface": "prāṇam",
+     "gloss": "life",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "padayuga-paṃkaje",
+     "gloss": "two-feet-lotus",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidhātuḥ",
+     "gloss": "of-creator",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tat-pūjām",
+     "gloss": "that-worship",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "akuruta-nāradaḥ",
+     "gloss": "did-narada",
+     "grounds": "compound",
+     "morph": "3.sg.act-past"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What did Narada do with devotion at the creator's two-foot lotus?",
+   "premises": [
+    "Narada acted with devotion.",
+    "He acted at the creator's two-foot lotus.",
+    "He performed that worship."
+   ],
+   "inference": "Narada devotedly worshipped at the creator's lotus feet.",
+   "uncertainties": [
+    "The exact ritual is summarized."
+   ],
+   "plain_english": "Narada devotedly performed that worship at the creator's lotus feet."
+  },
+  {
+   "verse": 3414,
+   "rows": [
+    {
+     "surface": "kathitaḥ",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavatā",
+     "gloss": "by-you",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "brahman",
+     "gloss": "brahman",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kṣetra-varṇam",
+     "gloss": "field-color",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śubhāśubham",
+     "gloss": "auspicious-inauspicious",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What field color and auspicious or inauspicious quality was told by you?",
+   "premises": [
+    "You told something.",
+    "It concerns field color.",
+    "It concerns auspicious and inauspicious quality."
+   ],
+   "inference": "The field's color and auspiciousness were explained.",
+   "uncertainties": [
+    "The addressee is not specified."
+   ],
+   "plain_english": "You told, O Brahman, the field's color and auspicious or inauspicious quality."
+  },
+  {
+   "verse": 3415,
+   "rows": [
+    {
+     "surface": "śyāmam",
+     "gloss": "dark",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇam",
+     "gloss": "black",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlam",
+     "gloss": "blue",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "vai",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīta-varṇakam",
+     "gloss": "yellow-color",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which colors are listed for the field or stone?",
+   "premises": [
+    "Dark is listed.",
+    "Black and blue are listed.",
+    "Yellow color is listed."
+   ],
+   "inference": "The colors include dark, black, blue, and yellow.",
+   "uncertainties": [
+    "The exact object is contextual."
+   ],
+   "plain_english": "Dark, black, blue, and yellow colors."
+  },
+  {
+   "verse": 3416,
+   "rows": [
+    {
+     "surface": "dhūmra-varṇam",
+     "gloss": "smoky-color",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "tathā",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dagdham",
+     "gloss": "burnt",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "iti",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nānāvidhāḥ",
+     "gloss": "various",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śilāḥ",
+     "gloss": "stones",
+     "grounds": "nominative",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What various stones are described as smoky-colored and burnt?",
+   "premises": [
+    "Smoky color is mentioned.",
+    "Burnt is mentioned.",
+    "Various stones are the subject."
+   ],
+   "inference": "The stones include smoky-colored and burnt varieties.",
+   "uncertainties": [
+    "No full list is given."
+   ],
+   "plain_english": "Various stones are smoky-colored and burnt."
+  },
+  {
+   "verse": 3417,
+   "rows": [
+    {
+     "surface": "puṣṭi-vṛddhi-pradā",
+     "gloss": "nourishment-growth-giving",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śyāmā",
+     "gloss": "dark",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śuklā",
+     "gloss": "white",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣa-pradāyinī",
+     "gloss": "liberation-giving",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the dark nourishing stone and white liberating stone give?",
+   "premises": [
+    "The dark stone gives nourishment and growth.",
+    "The white stone gives liberation.",
+    "The verse pairs color with result."
+   ],
+   "inference": "Dark stones nourish and grow; white stones liberate.",
+   "uncertainties": [
+    "The exact stone type is not named."
+   ],
+   "plain_english": "The dark stone gives nourishment and growth; the white gives liberation."
+  },
+  {
+   "verse": 3418,
+   "rows": [
+    {
+     "surface": "atiriktā",
+     "gloss": "excessive",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mṛtyu-karī",
+     "gloss": "death-causing",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "black",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kīrti-pradāyinī",
+     "gloss": "fame-giving",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What are the effects of excessive, death-causing, black, and fame-giving stones?",
+   "premises": [
+    "One stone is excessive and death-causing.",
+    "One is black.",
+    "One gives fame."
+   ],
+   "inference": "These stones have distinct harmful or beneficial effects.",
+   "uncertainties": [
+    "The exact mapping is compressed."
+   ],
+   "plain_english": "Excessive and death-causing, black, and fame-giving stones."
+  },
+  {
+   "verse": 3419,
+   "rows": [
+    {
+     "surface": "vāsudevaḥ",
+     "gloss": "vasudeva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sitaḥ",
+     "gloss": "white",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktaḥ",
+     "gloss": "red",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃkarṣaṇaḥ",
+     "gloss": "sankarshana",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "smṛtaḥ",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deity is known as white Vasudeva and which as red Sankarshana?",
+   "premises": [
+    "White is Vasudeva.",
+    "Red is Sankarshana.",
+    "The verse states these identifications."
+   ],
+   "inference": "Vasudeva is white and Sankarshana is red.",
+   "uncertainties": [
+    "No further attributes are given."
+   ],
+   "plain_english": "Vasudeva is white and Sankarshana is red."
+  },
+  {
+   "verse": 3420,
+   "rows": [
+    {
+     "surface": "śyāmaḥ",
+     "gloss": "dark",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nārāyaṇaḥ",
+     "gloss": "narayana",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "deva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "krishna",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaiṣṇavaḥ",
+     "gloss": "vaishnava",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "ucyate",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Which dark deity is called Narayana and which Krishna Vaishnava?",
+   "premises": [
+    "The dark one is Narayana.",
+    "Krishna is called Vaishnava.",
+    "The verse states these names."
+   ],
+   "inference": "Narayana is dark and Krishna is Vaishnava.",
+   "uncertainties": [
+    "The exact relation is compressed."
+   ],
+   "plain_english": "Narayana is dark; Krishna is called Vaishnava."
+  },
+  {
+   "verse": 3421,
+   "rows": [
+    {
+     "surface": "pāṃḍuraḥ",
+     "gloss": "pale",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāsudevaḥ",
+     "gloss": "vasudeva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuklaḥ",
+     "gloss": "white",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śukla",
+     "gloss": "white",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhokṣajaḥ",
+     "gloss": "adhokshaja",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which pale Vasudeva and white Adhokshaja are named?",
+   "premises": [
+    "Vasudeva is pale.",
+    "Adhokshaja is white.",
+    "The verse names both."
+   ],
+   "inference": "Vasudeva is pale and Adhokshaja is white.",
+   "uncertainties": [
+    "The color terms overlap."
+   ],
+   "plain_english": "Vasudeva is pale and Adhokshaja is white."
+  },
+  {
+   "verse": 3422,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṣetrasya",
+     "gloss": "of-field",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "told",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "extent",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muni-puṃgava",
+     "gloss": "sage-best",
+     "grounds": "compound",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What extent of the field was told by me to the best sage?",
+   "premises": [
+    "I told something.",
+    "It is the extent of the field.",
+    "The addressee is the best sage."
+   ],
+   "inference": "The field's extent was explained to the best sage.",
+   "uncertainties": [
+    "No measurements are given."
+   ],
+   "plain_english": "I told the field's extent, O best sage."
+  },
+  {
+   "verse": 3423,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī-tattvanidhi",
+     "gloss": "shri-tattvanidhi",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "granthē",
+     "gloss": "grantha",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viṣṇu-kṣetra-vaiṣṇava-sāligrāma-ādi",
+     "gloss": "vishnu-field-vaishnava-shaligrama-etc",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣaṇa-ādi",
+     "gloss": "characteristics",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirūpaṇam",
+     "gloss": "nirupana",
+     "grounds": "nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭha-nidhiḥ",
+     "gloss": "sixth-nidhi",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃpūrṇaḥ",
+     "gloss": "complete",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What section of the Shri Tattvanidhi is completed here?",
+   "premises": [
+    "The text is Shri Tattvanidhi.",
+    "The section concerns Vishnu field, Vaishnava, Shaligrama, etc.",
+    "It is called the sixth nidhi."
+   ],
+   "inference": "The sixth nidhi on these topics is complete.",
+   "uncertainties": [
+    "The scope is summarized."
+   ],
+   "plain_english": "Thus the sixth nidhi of Shri Tattvanidhi, on Vishnu field and related topics, is complete."
+  },
+  {
+   "verse": 3424,
+   "rows": [
+    {
+     "surface": "kailāsādrau",
+     "gloss": "on-kailasa",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paraśivaḥ",
+     "gloss": "para-shiva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūrya-biṃbe",
+     "gloss": "in-sun-disc",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sada-shiva",
+     "grounds": "nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where are Parashiva and Sadashiva located?",
+   "premises": [
+    "Parashiva is on Kailasa.",
+    "Sadashiva is in the sun disc.",
+    "The verse states both locations."
+   ],
+   "inference": "Parashiva resides on Kailasa and Sadashiva in the sun disc.",
+   "uncertainties": [
+    "No further context is given."
+   ],
+   "plain_english": "Parashiva is on Kailasa and Sadashiva is in the sun disc."
+  }
+ ]
+}

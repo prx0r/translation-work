@@ -1,0 +1,551 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1301,
+   "rows": [
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel-leaf",
+     "grounds": "ritual offering item",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yonicakraṃ",
+     "gloss": "yoni-wheel",
+     "grounds": "ritual diagram",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muṇḍamālā",
+     "gloss": "skull-garland",
+     "grounds": "ritual ornament",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "śavāsanam",
+     "gloss": "corpse-posture",
+     "grounds": "ritual seat",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Which ritual items are named as part of this Kali worship context?",
+   "premises": [
+    "betel leaf is named",
+    "yoni wheel is named",
+    "skull garland is named"
+   ],
+   "inference": "The verse lists ritual items associated with the rite.",
+   "uncertainties": [
+    "exact ritual function of each item"
+   ],
+   "plain_english": "Betel leaf, yoni wheel, and skull garland, along with corpse posture."
+  },
+  {
+   "verse": 1302,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "absence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pūjayetkālīṃ",
+     "gloss": "worships-Kali",
+     "grounds": "fused verb and object",
+     "morph": "3.sg.act.opt.+root pūj"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "Raurava",
+     "grounds": "hell name",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "destination",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "verb of motion",
+     "morph": "3.sg.act.opt.+root vraj"
+    }
+   ],
+   "question": "What consequence follows for one who worships Kali without these items?",
+   "premises": [
+    "worship lacks required items",
+    "Kali worship is performed",
+    "Raurava hell is named"
+   ],
+   "inference": "The worshipper goes to Raurava hell.",
+   "uncertainties": [
+    "which items are required"
+   ],
+   "plain_english": "Whoever worships Kali without them goes to Raurava hell."
+  },
+  {
+   "verse": 1303,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkṣepataḥ",
+     "gloss": "briefly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "said",
+     "grounds": "past participle",
+     "morph": "nom.sg.n+ppp"
+    },
+    {
+     "surface": "kimanyat",
+     "gloss": "what-else",
+     "grounds": "interrogative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "desire",
+     "grounds": "second person verb",
+     "morph": "2.sg.act.pres+root iṣ"
+    }
+   ],
+   "question": "What does the speaker ask after giving this brief account?",
+   "premises": [
+    "account is brief",
+    "speaker has spoken",
+    "hearing more is offered"
+   ],
+   "inference": "The speaker asks what else the listener wishes to hear.",
+   "uncertainties": [
+    "scope of remaining teaching"
+   ],
+   "plain_english": "Thus it has been said briefly; what else do you wish to hear?"
+  },
+  {
+   "verse": 1304,
+   "rows": [
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "title word",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "numeral",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section title",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the name of this chapter?",
+   "premises": [
+    "name is given",
+    "number is twenty",
+    "section is chapter"
+   ],
+   "inference": "This is the twentieth chapter.",
+   "uncertainties": [
+    "exact chapter subject"
+   ],
+   "plain_english": "The twentieth chapter, by name."
+  },
+  {
+   "verse": 1305,
+   "rows": [
+    {
+     "surface": "mahācīnakramaḥ",
+     "gloss": "great-China-rite",
+     "grounds": "rite name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "told",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass.pres+root kath"
+    },
+    {
+     "surface": "kṣiprataḥ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "What rite is the speaker about to explain quickly to the goddess?",
+   "premises": [
+    "great China rite is named",
+    "goddess is addressed",
+    "speaker tells it quickly"
+   ],
+   "inference": "The speaker will explain the great China rite.",
+   "uncertainties": [
+    "content of the rite"
+   ],
+   "plain_english": "The great China rite, O goddess, is told quickly by me."
+  },
+  {
+   "verse": 1306,
+   "rows": [
+    {
+     "surface": "brahmacīnaḥ",
+     "gloss": "Brahma-China",
+     "grounds": "first type",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "divyacīnaḥ",
+     "gloss": "divine-China",
+     "grounds": "second type",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vīracīnaḥ",
+     "gloss": "hero-China",
+     "grounds": "third type",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "tṛtīyakaḥ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Which three China rites are distinguished here?",
+   "premises": [
+    "Brahma China is named",
+    "divine China is named",
+    "hero China is named"
+   ],
+   "inference": "The rite has Brahma, divine, and hero forms.",
+   "uncertainties": [
+    "exact relation to third"
+   ],
+   "plain_english": "Brahma-China, divine-China, and hero-China, the third."
+  },
+  {
+   "verse": 1307,
+   "rows": [
+    {
+     "surface": "mahācīnakramaḥ",
+     "gloss": "great-China-rite",
+     "grounds": "rite name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "dvividhaḥ",
+     "gloss": "twofold",
+     "grounds": "number",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "nom.sg.m+ppp"
+    }
+   ],
+   "question": "How is the great China rite classified?",
+   "premises": [
+    "great China rite is named",
+    "goddess is addressed",
+    "rite is twofold"
+   ],
+   "inference": "The great China rite is proclaimed as twofold.",
+   "uncertainties": [
+    "the two divisions"
+   ],
+   "plain_english": "The great China rite, O goddess, is proclaimed twofold."
+  },
+  {
+   "verse": 1308,
+   "rows": [
+    {
+     "surface": "niṣkalaḥ",
+     "gloss": "without-parts",
+     "grounds": "first division",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "brāhmaṇānām",
+     "gloss": "of-Brahmins",
+     "grounds": "genitive group",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative",
+     "morph": "2.sg.act.imper+root śru"
+    }
+   ],
+   "question": "What are the two divisions of this rite?",
+   "premises": [
+    "first is without parts",
+    "Brahmins are named",
+    "second is to be heard"
+   ],
+   "inference": "The rite has a partless form and a second form.",
+   "uncertainties": [
+    "meaning of partless"
+   ],
+   "plain_english": "The partless one of the Brahmins, and hear the second."
+  },
+  {
+   "verse": 1309,
+   "rows": [
+    {
+     "surface": "keciddevāḥ",
+     "gloss": "some-gods",
+     "grounds": "group",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "narāḥ",
+     "gloss": "men",
+     "grounds": "group",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "keciddānavāḥ",
+     "gloss": "some-demons",
+     "grounds": "group",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "yakṣarākṣasāḥ",
+     "gloss": "yakshas-rakshasas",
+     "grounds": "group",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Which beings are said to be devoted to bad paths?",
+   "premises": [
+    "some gods are named",
+    "men are named",
+    "some demons are named"
+   ],
+   "inference": "Gods, men, demons, yakshas, and rakshasas are included.",
+   "uncertainties": [
+    "exact scope of devotion"
+   ],
+   "plain_english": "Some gods, men, some demons, yakshas and rakshasas."
+  },
+  {
+   "verse": 1310,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśumṛgāpakṣāḥ",
+     "gloss": "beast-bird-winged",
+     "grounds": "compound group",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "ye",
+     "gloss": "those",
+     "grounds": "relative",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "indefinite",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "jagatīgatāḥ",
+     "gloss": "world-dwellers",
+     "grounds": "compound group",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What further classes of beings are included among world dwellers?",
+   "premises": [
+    "beast bird winged beings are named",
+    "world dwellers are named",
+    "some are included"
+   ],
+   "inference": "Beast, bird, winged, and world-dwelling beings are included.",
+   "uncertainties": [
+    "exact taxonomy"
+   ],
+   "plain_english": "Those beast, bird, and winged beings, and some world dwellers."
+  },
+  {
+   "verse": 1311,
+   "rows": [
+    {
+     "surface": "kukalpe",
+     "gloss": "bad-age",
+     "grounds": "locative time",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "niratāḥ",
+     "gloss": "devoted",
+     "grounds": "participle",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kumārgadarśanotsukāḥ",
+     "gloss": "bad-path-sight-eager",
+     "grounds": "compound",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "What characterizes beings in the bad age?",
+   "premises": [
+    "bad age is named",
+    "all are devoted",
+    "bad path sight is desired"
+   ],
+   "inference": "In the bad age all are devoted and eager for bad paths.",
+   "uncertainties": [
+    "scope of all"
+   ],
+   "plain_english": "In the bad age all are devoted and eager to see bad paths."
+  },
+  {
+   "verse": 1312,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānanti",
+     "gloss": "know",
+     "grounds": "plural verb",
+     "morph": "3.pl.act.pres+root jñā"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-lady",
+     "grounds": "address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "tell",
+     "grounds": "first person verb",
+     "morph": "1.sg.act.pres+root kath"
+    },
+    {
+     "surface": "te",
+     "gloss": "you",
+     "grounds": "dative",
+     "morph": "dat.sg.m"
+    }
+   ],
+   "question": "Why does the speaker say he will tell the goddess how that is?",
+   "premises": [
+    "they do not know",
+    "great lady is addressed",
+    "speaker will tell her"
+   ],
+   "inference": "Because they do not know, the speaker will explain it to her.",
+   "uncertainties": [
+    "what that refers to"
+   ],
+   "plain_english": "They do not know, O great lady; how shall I tell that to you?"
+  }
+ ]
+}

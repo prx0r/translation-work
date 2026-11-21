@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p135",
+ "items": [
+  {
+   "verse": 3375,
+   "rows": [
+    {
+     "surface": "khaṇḍa+uttaram",
+     "gloss": "fragment-superior",
+     "grounds": "compound phrase naming the superior fragment form",
+     "morph": "compound (khaṇḍa+uttara)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "conclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādena+utsedha+saṃyutam",
+     "gloss": "pillar-height-endowed",
+     "grounds": "compound phrase describing height joined with a pillar",
+     "morph": "compound (pāda+utsedha+saṃyuta)"
+    }
+   ],
+   "question": "What is to be known as the fragment-superior form endowed with pillar height?",
+   "premises": [
+    "Fragment-superior form is to be known.",
+    "It is endowed with pillar height.",
+    "Thus marks the concluding statement."
+   ],
+   "inference": "The verse designates the fragment-superior configuration as pillar-height-endowed.",
+   "uncertainties": [
+    "Exact architectural referent of khaṇḍottara remains context-dependent."
+   ],
+   "plain_english": "Thus the fragment-superior form is to be known as endowed with the height of a pillar."
+  }
+ ]
+}

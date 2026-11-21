@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "pathibhyām",
+     "gloss": "by-two-paths",
+     "grounds": "instrumental dual of pathin, denoting two channels or ways",
+     "morph": "i.du.m"
+    },
+    {
+     "surface": "ūrubhyāṃ",
+     "gloss": "by-two-thighs",
+     "grounds": "instrumental dual of ūru, denoting the pair of thighs",
+     "morph": "i.du.m"
+    },
+    {
+     "surface": "nakhakusumaśākhābhiḥ",
+     "gloss": "by-nail-flower-branches",
+     "grounds": "compound: nakha+nail, kusuma+flower, śākhā+branch; instrumental plural describing toe-nails as flowering branches",
+     "morph": "nakha-kusuma-śākhā+i.pl.f"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "risen",
+     "grounds": "past passive participle of ud-i, indicating emergence or appearance",
+     "morph": "ppp.n.nom.sg (ud-√i)"
+    }
+   ],
+   "question": "Through which limb-paths and nail-flower branches is the embodied form manifested as risen?",
+   "premises": [
+    "The two paths and two thighs function as instrumental channels.",
+    "The nail-flower branches adorn these bodily limbs.",
+    "An emergent state is expressed through these adorned features."
+   ],
+   "inference": "The embodied form is manifested as risen through the adorned paths and thighs.",
+   "uncertainties": [
+    "The precise referent of pathibhyām in this bodily imagery is contextually ambiguous."
+   ],
+   "plain_english": "Through the two paths and the two thighs, adorned with nail-flower branches, it has risen forth."
+  }
+ ]
+}

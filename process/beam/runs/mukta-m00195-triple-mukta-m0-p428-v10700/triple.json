@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p428",
+ "items": [
+  {
+   "verse": 10700,
+   "rows": [
+    {
+     "surface": "sūryyagrahe",
+     "gloss": "at-solar-eclipse",
+     "grounds": "locative indicating the occasion of a solar eclipse",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kurukṣetre",
+     "gloss": "at-kurukṣetra",
+     "grounds": "locative indicating the sacred place Kurukṣetra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rāmo",
+     "gloss": "rāma",
+     "grounds": "subject of the sentence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "goes",
+     "grounds": "present tense verb expressing presence or movement",
+     "morph": "3.sg.pres.act √gam"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb indicating perpetual occurrence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "At which occasion and location is Rāma claimed to be perpetually present?",
+   "premises": [
+    "A solar eclipse is specified as the occasion.",
+    "Kurukṣetra is specified as the sacred location.",
+    "Rāma is stated to go there always."
+   ],
+   "inference": "Therefore Rāma is perpetually present at Kurukṣetra during a solar eclipse.",
+   "uncertainties": [],
+   "plain_english": "At a solar eclipse in Kurukṣetra, Rāma is always present."
+  }
+ ]
+}

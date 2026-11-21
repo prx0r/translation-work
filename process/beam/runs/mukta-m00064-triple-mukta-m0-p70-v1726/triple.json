@@ -1,0 +1,1108 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1726,
+   "rows": [
+    {
+     "surface": "āgneye",
+     "gloss": "in-southeast",
+     "grounds": "locative indicating the fire quarter",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "points to previously mentioned field",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "kṣetrasya",
+     "gloss": "of-field",
+     "grounds": "sacred area",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "somewhat",
+     "grounds": "indicates slight extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścima+gocare",
+     "gloss": "in-western-region",
+     "grounds": "compound locating western range",
+     "morph": "loc.sg.m (compound)"
+    }
+   ],
+   "question": "Where within the southeast of that sacred field is the next location situated?",
+   "premises": [
+    "The reference point is the southeast of that field.",
+    "The location lies somewhat in the western region of that quarter."
+   ],
+   "inference": "The next sacred spot is slightly west within the southeast part of the field.",
+   "uncertainties": [],
+   "plain_english": "Somewhat in the western region of the southeast of that field."
+  },
+  {
+   "verse": 1727,
+   "rows": [
+    {
+     "surface": "vāsave",
+     "gloss": "in-indra",
+     "grounds": "locative of Vāsava/Indra",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "parame",
+     "gloss": "supreme",
+     "grounds": "qualifies the tirtha",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tīrthe",
+     "gloss": "at-tirtha",
+     "grounds": "sacred bathing place",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "snātvā+abhyarcya",
+     "gloss": "having-bathed-and-worshipped",
+     "grounds": "two sequential ritual acts",
+     "morph": "abs. (√snā + √arc)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsavam",
+     "gloss": "indra",
+     "grounds": "object of worship",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What ritual actions must be performed at Indra's supreme tirtha?",
+   "premises": [
+    "The location is Indra's supreme tirtha.",
+    "One must bathe and worship Vāsava there."
+   ],
+   "inference": "At Indra's supreme tirtha, bathing and worship of Indra are required.",
+   "uncertainties": [],
+   "plain_english": "At Indra's supreme tirtha, having bathed and worshipped Vāsava."
+  },
+  {
+   "verse": 1728,
+   "rows": [
+    {
+     "surface": "vakṣyamāṇena",
+     "gloss": "with-to-be-spoken",
+     "grounds": "future passive participle qualifying mantra",
+     "morph": "ins.sg.m (fut.pass.ptc. √vac)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of offering",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "dharaṇi+ārghyaṃ",
+     "gloss": "earth-offering",
+     "grounds": "compound for an arghya of earth",
+     "morph": "acc.sg.n (compound)"
+    },
+    {
+     "surface": "indrāya",
+     "gloss": "to-indra",
+     "grounds": "recipient of offering",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (√nived)"
+    }
+   ],
+   "question": "How should the earth offering be presented to Indra at this tirtha?",
+   "premises": [
+    "A mantra to be spoken is specified.",
+    "An earth offering is to be given to Indra."
+   ],
+   "inference": "One should offer the earth arghya to Indra with the mantra that will be stated.",
+   "uncertainties": [],
+   "plain_english": "One should offer an earth arghya to Indra with the mantra to be spoken."
+  },
+  {
+   "verse": 1729,
+   "rows": [
+    {
+     "surface": "tatra+ambhasi",
+     "gloss": "there-in-water",
+     "grounds": "locative compound indicating immersion place",
+     "morph": "loc.sg.n (compound)"
+    },
+    {
+     "surface": "nimajya+atha",
+     "gloss": "having-immersed-then",
+     "grounds": "absolutive followed by temporal particle",
+     "morph": "abs. (√majj) + (indecl.)"
+    },
+    {
+     "surface": "yathā+ukta+phala+daḥ",
+     "gloss": "as-stated-fruit-giver",
+     "grounds": "compound describing one who grants promised results",
+     "morph": "nom.sg.m (compound)"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "become",
+     "grounds": "imperative addressed to practitioner",
+     "morph": "2.sg.imp.act (√bhū)"
+    }
+   ],
+   "question": "What result follows immersion in the waters at that sacred place?",
+   "premises": [
+    "One immerses in the water there.",
+    "The rite confers the stated fruit."
+   ],
+   "inference": "After immersing there, one becomes a recipient of the promised fruit.",
+   "uncertainties": [],
+   "plain_english": "Then, having immersed in the water there, become one who grants the stated fruit."
+  },
+  {
+   "verse": 1730,
+   "rows": [
+    {
+     "surface": "dhanuḥ+sapta+pramāṇena",
+     "gloss": "by-bow-seven-measure",
+     "grounds": "instrumental compound giving distance",
+     "morph": "ins.sg.n (compound)"
+    },
+    {
+     "surface": "rambhā+tīrthaṃ",
+     "gloss": "rambha-tirtha",
+     "grounds": "name of the sacred place",
+     "morph": "nom.sg.n (compound)"
+    },
+    {
+     "surface": "mahā+īśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f (compound)"
+    }
+   ],
+   "question": "At what measured distance is Rambha tirtha located, O great goddess?",
+   "premises": [
+    "The distance is measured in bows.",
+    "The measure given is seven bows."
+   ],
+   "inference": "Rambha tirtha is located at a distance of seven bows.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, Rambha tirtha is at a distance of seven bows."
+  },
+  {
+   "verse": 1731,
+   "rows": [
+    {
+     "surface": "saha+bhartrā",
+     "gloss": "with-husband",
+     "grounds": "compound indicating accompaniment in death",
+     "morph": "ins.sg.m (compound)"
+    },
+    {
+     "surface": "mṛtā",
+     "gloss": "died",
+     "grounds": "past participle describing the woman",
+     "morph": "nom.sg.f (past.ptc. √mṛ)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñānāt+nārī",
+     "gloss": "by-knowledge-woman",
+     "grounds": "compound indicating a woman acting knowingly",
+     "morph": "nom.sg.f (compound)"
+    },
+    {
+     "surface": "pati+vratā",
+     "gloss": "husband-devoted",
+     "grounds": "epithet of a faithful wife",
+     "morph": "nom.sg.f (compound)"
+    }
+   ],
+   "question": "Which devoted wife attains the promised result by dying with her husband?",
+   "premises": [
+    "The woman is devoted to her husband.",
+    "She dies with her husband knowingly."
+   ],
+   "inference": "A devoted wife who knowingly dies with her husband is the subject of the promise.",
+   "uncertainties": [
+    "The sense of jñānāt as 'knowingly' or 'with awareness' is interpretive."
+   ],
+   "plain_english": "And the devoted wife who knowingly dies together with her husband."
+  },
+  {
+   "verse": 1732,
+   "rows": [
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "states attainment of destination",
+     "morph": "3.sg.pres.act (√yā)"
+    },
+    {
+     "surface": "na+asti+atra",
+     "gloss": "not-is-here",
+     "grounds": "negation of doubt in this matter",
+     "morph": "(indecl.) + 3.sg.pres.act (√as) + (indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śeṣe",
+     "gloss": "in-remainder",
+     "grounds": "locative indicating remaining time or case",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guru+vāsare",
+     "gloss": "on-guru-day",
+     "grounds": "compound for Thursday",
+     "morph": "loc.sg.m (compound)"
+    }
+   ],
+   "question": "What certainty and timing are affirmed for the devoted wife's attainment?",
+   "premises": [
+    "The devoted wife goes to the promised state.",
+    "There is no doubt in this matter.",
+    "A special condition applies on Thursday."
+   ],
+   "inference": "Her attainment is certain, with particular mention of Thursday.",
+   "uncertainties": [
+    "The exact force of śeṣe in this context is unclear."
+   ],
+   "plain_english": "She goes; there is no doubt here, and also on Thursday."
+  },
+  {
+   "verse": 1733,
+   "rows": [
+    {
+     "surface": "kāma+dravi",
+     "gloss": "o-desire-melter",
+     "grounds": "vocative epithet of the deity",
+     "morph": "voc.sg.m (compound)"
+    },
+    {
+     "surface": "namaḥ+te+astu",
+     "gloss": "homage-to-you-be",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.) + dat.sg. + 3.sg.imp.act (√as)"
+    },
+    {
+     "surface": "trāhi",
+     "gloss": "save",
+     "grounds": "imperative plea for protection",
+     "morph": "2.sg.imp.act (√trā)"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "acc.sg."
+    },
+    {
+     "surface": "bhava+sāgarāt",
+     "gloss": "from-existence-ocean",
+     "grounds": "ablative compound for worldly bondage",
+     "morph": "abl.sg.m (compound)"
+    }
+   ],
+   "question": "What prayer is addressed to the desire-melting deity for liberation from existence?",
+   "premises": [
+    "Homage is offered to the desire-melter.",
+    "Protection is sought from the ocean of existence."
+   ],
+   "inference": "The practitioner salutes the deity and asks to be saved from the ocean of worldly existence.",
+   "uncertainties": [],
+   "plain_english": "O melter of desire, homage to you; save me from the ocean of existence."
+  },
+  {
+   "verse": 1734,
+   "rows": [
+    {
+     "surface": "kṣetrasya",
+     "gloss": "of-field",
+     "grounds": "sacred area",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-western",
+     "grounds": "directional qualifier",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "location within the field",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dhanuḥ+triṃśat",
+     "gloss": "bow-thirty",
+     "grounds": "compound giving distance measure",
+     "morph": "nom.sg.f (compound)"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "in-measure",
+     "grounds": "ablative used adverbially for measurement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What distance marks the next location in the western part of the field?",
+   "premises": [
+    "The location is in the western part of the field.",
+    "The distance is thirty bows."
+   ],
+   "inference": "The next spot lies thirty bows away in the western part of the field.",
+   "uncertainties": [],
+   "plain_english": "In the western part of the field, at a distance of thirty bows."
+  },
+  {
+   "verse": 1735,
+   "rows": [
+    {
+     "surface": "mukhasya",
+     "gloss": "of-mouth",
+     "grounds": "object of cleansing",
+     "morph": "gen.sg.n"
+    },
+    {
+     "surface": "kṣālanam",
+     "gloss": "washing",
+     "grounds": "ritual act of cleansing",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior action",
+     "morph": "abs. (√kṛ)"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "possible practitioner",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣaḥ+api",
+     "gloss": "man-also",
+     "grounds": "inclusive alternative practitioner",
+     "morph": "nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who may perform the mouth-washing ritual at this stage of practice?",
+   "premises": [
+    "Mouth washing is performed.",
+    "Both woman and man are mentioned as possible agents."
+   ],
+   "inference": "Either a woman or a man may perform the mouth-washing rite.",
+   "uncertainties": [],
+   "plain_english": "Having washed the mouth, whether a woman or a man."
+  },
+  {
+   "verse": 1736,
+   "rows": [
+    {
+     "surface": "snānam",
+     "gloss": "bathing",
+     "grounds": "ritual bathing act",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "kandarpa+bījena",
+     "gloss": "with-kandarpa-seed",
+     "grounds": "instrumental compound naming the seed mantra",
+     "morph": "ins.sg.n (compound)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative introducing instruction",
+     "morph": "2.sg.imp.act (√śru)"
+    },
+    {
+     "surface": "kṣālana+mantrakam",
+     "gloss": "washing-mantra",
+     "grounds": "compound naming the mantra for washing",
+     "morph": "acc.sg.n (compound)"
+    }
+   ],
+   "question": "What mantra is to be heard for bathing and washing in this rite?",
+   "premises": [
+    "Bathing is performed with the Kandarpa seed.",
+    "A washing mantra is to be heard."
+   ],
+   "inference": "The practitioner should hear the washing mantra associated with bathing by the Kandarpa seed.",
+   "uncertainties": [],
+   "plain_english": "Bathing is done with the Kandarpa seed; hear the washing mantra."
+  },
+  {
+   "verse": 1737,
+   "rows": [
+    {
+     "surface": "rūpa+vān+aśvinoḥ+yāti",
+     "gloss": "beautiful-to-ashvins-goes",
+     "grounds": "fused expression stating attainment of beauty and going to the Ashvins",
+     "morph": "nom.sg.m + gen.du.m + 3.sg.pres.act (√yā) (compound/fused)"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "beauty",
+     "grounds": "object requested",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "satyena",
+     "gloss": "by-truth",
+     "grounds": "instrumental indicating basis of request",
+     "morph": "ins.sg.n"
+    },
+    {
+     "surface": "dehi",
+     "gloss": "give",
+     "grounds": "imperative plea",
+     "morph": "2.sg.imp.act (√dā)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the boon",
+     "morph": "dat.sg."
+    }
+   ],
+   "question": "What boon of beauty is sought through truth in connection with the Ashvins?",
+   "premises": [
+    "The beautiful one goes to the Ashvins.",
+    "Beauty is requested by truth."
+   ],
+   "inference": "The rite seeks the gift of beauty, associated with the Ashvins and truth.",
+   "uncertainties": [
+    "The fused token rūpa+vān+aśvinoḥ+yāti is syntactically compressed and interpreted as stating attainment."
+   ],
+   "plain_english": "The beautiful one goes to the Ashvins; by truth, give me beauty."
+  },
+  {
+   "verse": 1738,
+   "rows": [
+    {
+     "surface": "pitṝṇām",
+     "gloss": "of-ancestors",
+     "grounds": "genitive specifying the tirtha",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "paramam",
+     "gloss": "supreme",
+     "grounds": "qualifies the tirtha",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "tirtha",
+     "grounds": "sacred place",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "snānāt",
+     "gloss": "from-bathing",
+     "grounds": "ablative indicating cause",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "states attainment",
+     "morph": "3.sg.pres.act (√yā)"
+    },
+    {
+     "surface": "parām",
+     "gloss": "to-supreme",
+     "grounds": "qualifies the state attained",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "state",
+     "grounds": "goal or destination",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What supreme attainment results from bathing at the ancestors' supreme tirtha?",
+   "premises": [
+    "The place is the supreme tirtha of the ancestors.",
+    "Bathing there leads to a supreme state."
+   ],
+   "inference": "Bathing at the ancestors' supreme tirtha leads one to the supreme state.",
+   "uncertainties": [],
+   "plain_english": "It is the supreme tirtha of the ancestors; by bathing there one goes to the supreme state."
+  },
+  {
+   "verse": 1739,
+   "rows": [
+    {
+     "surface": "tṛpti+hetoḥ+mahā+bhāga",
+     "gloss": "for-satisfaction-o-fortunate-one",
+     "grounds": "fused vocative expression stating purpose and address",
+     "morph": "gen.sg.m + voc.sg.m (compound/fused)"
+    },
+    {
+     "surface": "aghorāt+mām",
+     "gloss": "from-aghora-me",
+     "grounds": "ablative source and object of purification",
+     "morph": "abl.sg.m + acc.sg."
+    },
+    {
+     "surface": "punīhi",
+     "gloss": "purify",
+     "grounds": "imperative plea for purification",
+     "morph": "2.sg.imp.act (√pū)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What purification is requested for the sake of ancestral satisfaction?",
+   "premises": [
+    "The request is made for the sake of satisfaction.",
+    "Purification is sought from Aghora."
+   ],
+   "inference": "The practitioner asks Aghora to purify them for the satisfaction of the ancestors.",
+   "uncertainties": [
+    "The exact referent of aghorāt (deity, mantra, or state) is context-dependent."
+   ],
+   "plain_english": "O greatly fortunate one, for the sake of satisfaction, purify me from Aghora."
+  },
+  {
+   "verse": 1740,
+   "rows": [
+    {
+     "surface": "agastyasya",
+     "gloss": "of-agastya",
+     "grounds": "genitive specifying the place",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣe",
+     "gloss": "to-south",
+     "grounds": "directional locative",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive of movement",
+     "morph": "abs. (√gam)"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of bathing",
+     "morph": "abs. (√snā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpya",
+     "gloss": "having-offered-libations",
+     "grounds": "absolutive of ancestral offering",
+     "morph": "abs. (√tṛp)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of ritual acts is prescribed south of Agastya's place?",
+   "premises": [
+    "One goes to the south of Agastya's place.",
+    "Bathing and offering libations are performed."
+   ],
+   "inference": "South of Agastya's place, one should go, bathe, and offer libations.",
+   "uncertainties": [],
+   "plain_english": "Going south of Agastya's place, having bathed and offered libations."
+  },
+  {
+   "verse": 1741,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive of movement",
+     "morph": "abs. (√gam)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamyām",
+     "gloss": "on-seventh-day",
+     "grounds": "locative indicating lunar day",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "pitṝṇām+anṛṇaḥ",
+     "gloss": "of-ancestors-debt-free",
+     "grounds": "compound indicating freedom from ancestral debt",
+     "morph": "nom.sg.m (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative stating result",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What freedom from ancestral debt is attained by going there on the seventh day?",
+   "premises": [
+    "One goes there on the seventh day.",
+    "The result is freedom from debt to the ancestors."
+   ],
+   "inference": "By going there on the seventh day, one becomes free from debt to the ancestors.",
+   "uncertainties": [],
+   "plain_english": "Having gone there on the seventh day, one becomes free from debt to the ancestors."
+  },
+  {
+   "verse": 1742,
+   "rows": [
+    {
+     "surface": "pāvanaḥ",
+     "gloss": "purifying",
+     "grounds": "epithet of the purifying agent",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sarva+tīrtheṣu",
+     "gloss": "in-all-tirthas",
+     "grounds": "locative compound indicating universality",
+     "morph": "loc.pl.n (compound)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of purification",
+     "morph": "acc.sg."
+    },
+    {
+     "surface": "punātu",
+     "gloss": "may-purify",
+     "grounds": "imperative prayer",
+     "morph": "3.sg.imp.act (√pū)"
+    },
+    {
+     "surface": "pāpataḥ",
+     "gloss": "from-sin",
+     "grounds": "ablative indicating what is removed",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "What purifying power is invoked to cleanse one from sin in all tirthas?",
+   "premises": [
+    "A purifying agent is present in all tirthas.",
+    "Purification from sin is requested."
+   ],
+   "inference": "May that purifier in all tirthas purify me from sin.",
+   "uncertainties": [],
+   "plain_english": "May that purifier in all tirthas purify me from sin."
+  },
+  {
+   "verse": 1743,
+   "rows": [
+    {
+     "surface": "pidhāya",
+     "gloss": "having-covered",
+     "grounds": "absolutive indicating preparatory act",
+     "morph": "abs. (√dhā with pi)"
+    },
+    {
+     "surface": "tilakam",
+     "gloss": "forehead-mark",
+     "grounds": "ritual mark",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "kṣetram",
+     "gloss": "field",
+     "grounds": "object of offering or ritual action",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "ritual act of circling",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What ritual actions involving marking, giving, and circumambulation are prescribed here?",
+   "premises": [
+    "A tilaka mark is applied or covered.",
+    "A field-related offering and circumambulation are enjoined."
+   ],
+   "inference": "One should apply the mark, make the offering, and perform circumambulation.",
+   "uncertainties": [
+    "The exact sense of pidhāya tilakam and dadyāt kṣetram is context-dependent."
+   ],
+   "plain_english": "Having applied the tilaka, one should give the field and perform circumambulation."
+  },
+  {
+   "verse": 1744,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "ṣoḍaśake",
+     "gloss": "in-sixteenth",
+     "grounds": "locative indicating a group or division of sixteen",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pitṝn",
+     "gloss": "ancestors",
+     "grounds": "objects of worship",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√arc with sam)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How should the wise practitioner worship the ancestors in the sixteenth division there?",
+   "premises": [
+    "The location and sixteenth division are specified.",
+    "The wise one should worship the ancestors."
+   ],
+   "inference": "There, in the sixteenth division, the wise one should worship the ancestors.",
+   "uncertainties": [
+    "The referent of ṣoḍaśake is not fully explicit."
+   ],
+   "plain_english": "There, O goddess, in the sixteenth, the wise one should worship the ancestors."
+  },
+  {
+   "verse": 1745,
+   "rows": [
+    {
+     "surface": "dakṣiṇa+ādi",
+     "gloss": "from-south-beginning",
+     "grounds": "compound indicating starting direction",
+     "morph": "nom.sg.n (compound)"
+    },
+    {
+     "surface": "kramāt+ca+atra",
+     "gloss": "in-order-and-here",
+     "grounds": "ablative with particles indicating sequential order",
+     "morph": "abl.sg.m + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "eka+ekaiḥ+hastakam",
+     "gloss": "by-each-one-hand-measure",
+     "grounds": "fused expression giving unit measure per item",
+     "morph": "ins.pl.m + acc.sg.n (compound/fused)"
+    },
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "numeral indicating count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ordered spatial arrangement of four units is prescribed starting from the south?",
+   "premises": [
+    "The arrangement begins from the south.",
+    "It proceeds in order with one-hand measures for four units."
+   ],
+   "inference": "Four units are to be arranged in order from the south, each by a hand measure.",
+   "uncertainties": [
+    "The exact syntactic relation in eka+ekaiḥ+hastakam is compressed."
+   ],
+   "plain_english": "Beginning from the south and in order here, four units, each by one hand measure."
+  },
+  {
+   "verse": 1746,
+   "rows": [
+    {
+     "surface": "gayā+kūpe",
+     "gloss": "in-gaya-well",
+     "grounds": "locative compound naming the place",
+     "morph": "loc.sg.m (compound)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "practitioner",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of bathing",
+     "morph": "abs. (√snā)"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "absolutive of seeing",
+     "morph": "abs. (√dṛś)"
+    },
+    {
+     "surface": "devam+umā+patim",
+     "gloss": "god-uma-lord",
+     "grounds": "compound epithet for Shiva",
+     "morph": "acc.sg.m (compound)"
+    }
+   ],
+   "question": "What ritual acts are performed at the Gaya well before beholding the lord of Uma?",
+   "premises": [
+    "A man bathes in the Gaya well.",
+    "He then beholds the god who is Uma's lord."
+   ],
+   "inference": "At the Gaya well, one bathes and then sees the lord of Uma.",
+   "uncertainties": [],
+   "plain_english": "A man, having bathed in the Gaya well and having seen the god, the lord of Uma."
+  },
+  {
+   "verse": 1747,
+   "rows": [
+    {
+     "surface": "viṣṇuḥ+brahmā",
+     "gloss": "vishnu-brahma",
+     "grounds": "pair of deities named together",
+     "morph": "nom.sg.m + nom.sg.m (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraḥ+ca",
+     "gloss": "rudra-and",
+     "grounds": "deity named with connective",
+     "morph": "nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "agastyaḥ+ca",
+     "gloss": "agastya-and",
+     "grounds": "sage named with connective",
+     "morph": "nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "śata+kratuḥ",
+     "gloss": "hundred-sacrifice",
+     "grounds": "epithet of Indra",
+     "morph": "nom.sg.m (compound)"
+    }
+   ],
+   "question": "Which deities and sages are enumerated as present in this sacred context?",
+   "premises": [
+    "Vishnu, Brahma, Rudra, Agastya, and Indra are named.",
+    "They are listed together in sequence."
+   ],
+   "inference": "The verse enumerates Vishnu, Brahma, Rudra, Agastya, and Indra as present.",
+   "uncertainties": [],
+   "plain_english": "Vishnu and Brahma, and Rudra, and Agastya, and Indra of a hundred sacrifices."
+  },
+  {
+   "verse": 1748,
+   "rows": [
+    {
+     "surface": "cyavanaḥ",
+     "gloss": "cyavana",
+     "grounds": "name of a sage",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kaśyapaḥ+ca+eva",
+     "gloss": "kashyapa-and-indeed",
+     "grounds": "sage named with emphatic connective",
+     "morph": "nom.sg.m + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "pulastyaḥ+ca",
+     "gloss": "pulastya-and",
+     "grounds": "sage named with connective",
+     "morph": "nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "yathā+kramāt",
+     "gloss": "in-order",
+     "grounds": "compound indicating sequential listing",
+     "morph": "(indecl.) (compound)"
+    }
+   ],
+   "question": "Which additional sages continue the ordered enumeration in this sacred list?",
+   "premises": [
+    "Cyavana, Kashyapa, and Pulastya are named.",
+    "The list proceeds in order."
+   ],
+   "inference": "Cyavana, Kashyapa, and Pulastya are added in sequence to the enumeration.",
+   "uncertainties": [],
+   "plain_english": "Cyavana, and indeed Kashyapa, and Pulastya, in due order."
+  },
+  {
+   "verse": 1749,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātuḥ",
+     "gloss": "of-mother",
+     "grounds": "genitive specifying recipient",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb indicating separate offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "piṇḍam+anyatra",
+     "gloss": "rice-ball-elsewhere",
+     "grounds": "compound indicating a separate offering elsewhere",
+     "morph": "acc.sg.m + (indecl.) (compound)"
+    },
+    {
+     "surface": "patinā",
+     "gloss": "with-husband",
+     "grounds": "instrumental indicating accompaniment",
+     "morph": "ins.sg.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "postposition indicating accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the mother's rice-ball offering be made in relation to the husband here?",
+   "premises": [
+    "A separate rice-ball is offered for the mother.",
+    "Another offering is made together with the husband."
+   ],
+   "inference": "Here the mother's rice-ball is offered separately, while another is offered together with the husband.",
+   "uncertainties": [
+    "The distribution of piṇḍam+anyatra between the two offerings is slightly compressed."
+   ],
+   "plain_english": "Here a rice-ball for the mother is offered separately, and elsewhere together with the husband."
+  }
+ ]
+}

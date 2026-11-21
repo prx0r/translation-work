@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of pūj, indicating a completed act of worship prior to the main action",
+     "morph": "abs. + pūj"
+    },
+    {
+     "surface": "yathā+uktena",
+     "gloss": "as-stated",
+     "grounds": "compound yathā+ukta qualifying the prescribed manner",
+     "morph": "compound: yathā+ukta; i.sg.n"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-method",
+     "grounds": "instrumental noun denoting the prescribed procedure or rule",
+     "morph": "i.sg.n"
+    },
+    {
+     "surface": "hara+priye",
+     "gloss": "o-beloved-of-hara",
+     "grounds": "vocative compound addressing Śivā as dear to Hara",
+     "morph": "compound: hara+priyā; voc.sg.f"
+    }
+   ],
+   "question": "By what prescribed method should the beloved of Hara be worshipped?",
+   "premises": [
+    "The act of worship is to be performed.",
+    "The worship must follow a stated method.",
+    "The beloved of Hara is the recipient of this worship."
+   ],
+   "inference": "Therefore, the beloved of Hara should be worshipped according to the method as stated.",
+   "uncertainties": [
+    "The specific details of the stated method are not specified within this verse."
+   ],
+   "plain_english": "O beloved of Hara, having worshipped you according to the method as stated."
+  }
+ ]
+}

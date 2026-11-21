@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "anyān",
+     "gloss": "other",
+     "grounds": "accusative plural masculine adjective qualifying paśūn",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśūn",
+     "gloss": "animals",
+     "grounds": "accusative plural masculine noun, object of offering",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative verb expressing prescribed action of offering",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "sādhakecchānusārataḥ",
+     "gloss": "according-to-practitioner-wish",
+     "grounds": "compound: sādhaka+icchā+anusārataḥ indicating conformity to the practitioner's desire",
+     "morph": "compound (indecl.)"
+    }
+   ],
+   "question": "Are other animals permissible as offerings according to the practitioner's wish?",
+   "premises": [
+    "The preceding verses prescribe specific animals for offering.",
+    "The verse permits other animals as well.",
+    "The choice follows the practitioner's wish."
+   ],
+   "inference": "Therefore, beyond the listed animals, additional animals may be offered in accordance with the practitioner's wish.",
+   "uncertainties": [
+    "Whether any restrictions limit which other animals may be chosen is not specified in this verse."
+   ],
+   "plain_english": "One may also offer other animals, according to the wish of the practitioner."
+  }
+ ]
+}

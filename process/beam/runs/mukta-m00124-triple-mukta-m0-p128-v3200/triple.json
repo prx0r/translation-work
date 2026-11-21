@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "ritual-altar",
+     "grounds": "altar/ground to be prepared; accusative object of kārayet",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kārayedvidvān",
+     "gloss": "learned-one-should-make",
+     "grounds": "sandhi fusion of kārayet and vidvān; optative 'should make/cause' with learned one as subject",
+     "morph": "3.sg.act-opt+nom.sg.m"
+    },
+    {
+     "surface": "aṣṭadroṇaiśca",
+     "gloss": "and-with-eight-droṇas",
+     "grounds": "eight droṇa measures; instrumental quantity; ca adds 'and'",
+     "morph": "instr.pl.m+(indecl.)"
+    },
+    {
+     "surface": "śālibhiḥ",
+     "gloss": "with-rice",
+     "grounds": "rice grains; instrumental material",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "What material and measure should the learned one use to make the ritual altar?",
+   "premises": [
+    "learned one makes altar",
+    "eight droṇas of rice are used",
+    "rice is instrumental material"
+   ],
+   "inference": "altar construction requires eight droṇas of rice",
+   "uncertainties": [
+    "droṇa measure unspecified",
+    "altar type unspecified"
+   ],
+   "plain_english": "The learned one should make the altar with eight droṇas of rice."
+  }
+ ]
+}

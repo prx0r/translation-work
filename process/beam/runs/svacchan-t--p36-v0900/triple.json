@@ -1,0 +1,31 @@
+{
+ "song": "sva-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "lavaṇāmbhaḥ",
+     "gloss": "salt-water",
+     "grounds": "compound of lavaṇa (salt) and ambhas (water), nominative singular masculine",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kṣārasamudraḥ",
+     "gloss": "salt-ocean",
+     "grounds": "compound of kṣāra (salt/alkali) and samudra (ocean), nominative singular masculine",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What is identified as the salt-ocean?",
+   "premises": [
+    "Salt-water is called salt-ocean."
+   ],
+   "inference": "The verse equates salt-water with salt-ocean.",
+   "uncertainties": [
+    "Exact syntactic relation is not explicit beyond juxtaposition."
+   ],
+   "plain_english": "Salt-water is the salt-ocean."
+  }
+ ]
+}

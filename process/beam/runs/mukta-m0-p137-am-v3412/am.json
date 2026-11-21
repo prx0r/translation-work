@@ -1,0 +1,16 @@
+{
+ "song": "mukta-m0-p137",
+ "verse": 3412,
+ "question": "How many eye diseases and other diseases are removed?",
+ "premises": [
+  "Seventy-six is stated",
+  "Eye-diseases are included",
+  "Damaged tokens obscure details"
+ ],
+ "inference": "The seed removes seventy-six eye diseases and further damaged-listed diseases.",
+ "uncertainties": [
+  "Damaged tokens",
+  "Exact total"
+ ],
+ "plain_english": "It removes seventy-six eye diseases and further diseases, with damaged text in between."
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "pitṛ+dānava+nāgāḥ",
+     "gloss": "ancestors-demons-serpents",
+     "grounds": "compound naming classes of beings as recipients of the offering",
+     "morph": "compound pitṛ+dānava+nāga, m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle extending the list of recipients",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+ādi",
+     "gloss": "beginning-with-brahma",
+     "grounds": "compound indicating the starting point of a range of deities",
+     "morph": "compound brahma+ādi, m.nom.pl"
+    },
+    {
+     "surface": "aiśāna+antakam",
+     "gloss": "ending-with-aiśāna",
+     "grounds": "compound indicating the terminal point of the range up to Aiśāna",
+     "morph": "compound aiśāna+antaka, m.acc.sg"
+    }
+   ],
+   "question": "Which beings and divine range are included as recipients of the bali offering?",
+   "premises": [
+    "The ritual context prescribes giving bali at the eastern seat.",
+    "Ancestors, demons, and serpents are named as recipients.",
+    "A divine range from Brahma to Aiśāna is included."
+   ],
+   "inference": "The bali offering extends to ancestors, demons, serpents, and the full range of deities from Brahma to Aiśāna.",
+   "uncertainties": [
+    "The exact scope implied by the range from Brahma to Aiśāna depends on the ritual layout."
+   ],
+   "plain_english": "The ancestors, demons, and serpents, and also the deities from Brahma up to Aiśāna, are to receive the bali offering."
+  }
+ ]
+}

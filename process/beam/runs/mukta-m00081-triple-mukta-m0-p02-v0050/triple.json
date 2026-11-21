@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "protkṛṣṭādi",
+     "gloss": "superior-and-so-on",
+     "grounds": "compound qualifier indicating a graded series beginning with the superior; continues the protkṛṣṭa-adhama-madhyama triad of the preceding verse",
+     "morph": "compound: protkṛṣṭa+ādi"
+    },
+    {
+     "surface": "deva[1 ]",
+     "gloss": "god",
+     "grounds": "first member of the compound naming the superior embodied form; bracketed marker retained as in source",
+     "morph": "compound-member: deva"
+    },
+    {
+     "surface": "manuṣya",
+     "gloss": "human",
+     "grounds": "middle member of the compound naming the intermediate embodied form",
+     "morph": "compound-member: manuṣya"
+    },
+    {
+     "surface": "tiryagyonirūpaṃ",
+     "gloss": "animal-womb-form",
+     "grounds": "compound object specifying the inferior embodied form as birth in an animal womb; tiryak-yoni = horizontal/animal birth",
+     "morph": "n.acc.sg, compound: tiryak+yoni+rūpa"
+    },
+    {
+     "surface": "gṛhṇāti",
+     "gloss": "takes",
+     "grounds": "main verb expressing the soul's assumption of these embodied forms after abandoning the māyā-form",
+     "morph": "3.sg.pres.act, √grah"
+    }
+   ],
+   "question": "Which graded embodied forms are assumed as superior, intermediate, and inferior births?",
+   "premises": [
+    "The preceding context states that, abandoning the māyā-form, a form graded as superior, inferior, or middling is taken.",
+    "The series beginning with the superior is specified as divine, human, and animal-womb forms.",
+    "The act of taking these forms is predicated by the verb gṛhṇāti."
+   ],
+   "inference": "The graded forms assumed by the soul are concretely identified as divine for the superior, human for the intermediate, and animal-womb for the inferior.",
+   "uncertainties": [
+    "The bracketed marker in deva[1 ] may indicate an editorial note or variant whose specific function is not explained here."
+   ],
+   "plain_english": "It takes on forms beginning with the superior: the form of a god, a human, or a being born from an animal womb."
+  }
+ ]
+}

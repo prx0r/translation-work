@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1375,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇuśivānāñca",
+     "gloss": "of-brahma-vishnu-shiva-and",
+     "grounds": "fused genitive plural of the brahma-vishnu-shiva compound plus ca; sandhi retained in the fused form",
+     "morph": "m.gen.pl + indecl."
+    },
+    {
+     "surface": "yonir",
+     "gloss": "yoni",
+     "grounds": "nominative singular feminine yoniḥ before utpattikāriṇī with sandhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "utpattikāriṇī",
+     "gloss": "birth-causing",
+     "grounds": "nominative singular feminine adjective agreeing with yoni",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which yoni is said to cause the birth of Brahma, Vishnu, and Shiva?",
+   "premises": [
+    "The yoni causes birth of the triad.",
+    "Brahma, Vishnu, and Shiva are named together."
+   ],
+   "inference": "The verse identifies a birth-causing yoni associated with Brahma, Vishnu, and Shiva.",
+   "uncertainties": [
+    "The exact referent of yoni is not specified beyond its birth-causing role.",
+    "The fused compound and ca are analyzed as one token."
+   ],
+   "plain_english": "And the yoni that causes the birth of Brahma, Vishnu, and Shiva."
+  }
+ ]
+}

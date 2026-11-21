@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "bhū",
+     "gloss": "earth",
+     "grounds": "first member of compound indicating location of entry",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "praviṣṭa",
+     "gloss": "entered",
+     "grounds": "past participle describing what has entered the earth; forms compound with bhū",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pramāṇaṃ",
+     "gloss": "measure",
+     "grounds": "nominal head denoting the extent or measurement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the measure being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daṇḍa",
+     "gloss": "pole",
+     "grounds": "first member of locative compound indicating the pole's tip",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-tip",
+     "grounds": "locative noun forming compound with daṇḍa to denote the pole's end",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yaṣṭi",
+     "gloss": "staff",
+     "grounds": "first member of compound denoting the staff whose length is measured",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dairghyakam",
+     "gloss": "length",
+     "grounds": "nominal head denoting the length of the staff",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measure corresponds to the staff length at the pole tip relative to the earth-entered portion?",
+   "premises": [
+    "A portion of the pole is entered into the earth.",
+    "That earth-entered portion constitutes a specific measure.",
+    "The staff length at the pole tip is identified with that measure."
+   ],
+   "inference": "The length of the staff at the pole's tip is determined by the measure of the portion that has entered the earth.",
+   "uncertainties": [
+    "The exact syntactic relation between daṇḍa-agre and yaṣṭi-dairghyakam depends on the broader measurement procedure in surrounding verses."
+   ],
+   "plain_english": "The measure that has entered the earth is the length of the staff at the tip of the pole."
+  }
+ ]
+}

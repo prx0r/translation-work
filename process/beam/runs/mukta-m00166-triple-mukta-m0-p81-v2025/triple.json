@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "numeral indicating the count of three; forms part of the designation tri-puṣkarā",
+     "morph": "numeral.compound-member"
+    },
+    {
+     "surface": "puṣkarā",
+     "gloss": "lotus-pond",
+     "grounds": "name of the sacred site Pushkara; taken with tri as the three Pushkaras",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "sacred-ford",
+     "grounds": "a holy crossing or pilgrimage place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyā",
+     "gloss": "holy",
+     "grounds": "qualifies the site as meritorious and pure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "a location or abode designated as sacred",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sacred and meritorious status is attributed to the three Pushkaras?",
+   "premises": [
+    "The three Pushkaras are identified as a sacred ford.",
+    "The three Pushkaras are characterized as a holy place."
+   ],
+   "inference": "The three Pushkaras constitute a site possessing both sacred-ford status and meritorious holiness.",
+   "uncertainties": [
+    "The exact syntactic relation between tīrtham, puṇyā, and sthānam is compact and allows slight variation in parsing."
+   ],
+   "plain_english": "The three Pushkaras are a sacred ford and a holy place."
+  }
+ ]
+}

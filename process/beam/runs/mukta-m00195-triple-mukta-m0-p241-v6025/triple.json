@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p241",
+ "items": [
+  {
+   "verse": 6025,
+   "rows": [
+    {
+     "surface": "kutrāpi",
+     "gloss": "somewhere",
+     "grounds": "indefinite locative adverb indicating an unspecified place or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurutvam",
+     "gloss": "guru-hood",
+     "grounds": "abstract noun denoting the status or quality of being a guru",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding to the preceding descriptions of transmissions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilokitam",
+     "gloss": "observed",
+     "grounds": "past passive participle indicating what is seen or recognized",
+     "morph": "n.nom.sg (ppp, vi-lok)"
+    }
+   ],
+   "question": "In which context is the status of guruhood observed within these transmissions?",
+   "premises": [
+    "Guruhood is a recognized status in the discussed transmissions.",
+    "This status is observed in some unspecified context.",
+    "The observation is presented alongside other transmission distinctions."
+   ],
+   "inference": "The status of guruhood is recognized somewhere among these transmissions.",
+   "uncertainties": [
+    "The specific location or transmission where guruhood is observed is not specified."
+   ],
+   "plain_english": "And guruhood is observed somewhere."
+  }
+ ]
+}

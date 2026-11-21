@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "anukteṣu",
+     "gloss": "in-unspoken-ones",
+     "grounds": "locative plural of anukta, referring to positions not explicitly spoken",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmāni",
+     "gloss": "names",
+     "grounds": "accusative plural object of yojayet",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "causative optative third singular of yuj",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "koṣṭhamadhyataḥ",
+     "gloss": "from-koshta-middle",
+     "grounds": "ablative adverb indicating origin in the middle of the koshta",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When positions are left unspoken, should their names still be joined from the middle of the koshta?",
+   "premises": [
+    "Unspoken positions still require names.",
+    "Names are joined from koshta middle.",
+    "This applies even when unspoken."
+   ],
+   "inference": "Therefore unspoken positions receive names joined from the middle of the koshta.",
+   "uncertainties": [
+    "The exact ritual referent of koshta in this context is not specified."
+   ],
+   "plain_english": "Even for positions not explicitly named, join their names from the middle of the koshta."
+  }
+ ]
+}

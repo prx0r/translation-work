@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p112",
+ "items": [
+  {
+   "verse": 2800,
+   "rows": [
+    {
+     "surface": "garbha",
+     "gloss": "womb",
+     "grounds": "womb or embryo sense in context",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "bereft",
+     "grounds": "bereft or lacking",
+     "morph": "adj.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāmāṇāṃ",
+     "gloss": "villages",
+     "grounds": "genitive plural of village",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "gṛhāṇāṃ",
+     "gloss": "houses",
+     "grounds": "genitive plural of house",
+     "morph": "n.gen.pl.n"
+    },
+    {
+     "surface": "nāśam",
+     "gloss": "destruction",
+     "grounds": "accusative singular of destruction",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "truly",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to houses when a village is bereft of a womb?",
+   "premises": [
+    "a village bereft of a womb is stated",
+    "houses of such villages are mentioned",
+    "destruction is asserted for them"
+   ],
+   "inference": "A village lacking a womb brings destruction upon its houses.",
+   "uncertainties": [
+    "exact doctrinal sense of garbha in this context",
+    "whether hīne modifies grāmāṇāṃ directly"
+   ],
+   "plain_english": "But in a village bereft of a womb, there is indeed destruction of houses."
+  }
+ ]
+}

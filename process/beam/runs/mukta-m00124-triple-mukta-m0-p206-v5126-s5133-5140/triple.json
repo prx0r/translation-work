@@ -1,0 +1,341 @@
+{
+ "song": "mukta-m0-p206",
+ "items": [
+  {
+   "verse": 5133,
+   "rows": [
+    {
+     "surface": "viśverudrāśvinī",
+     "gloss": "all-rudras-aśvinī",
+     "grounds": "legacy hint all-rudras-aśvinī; fused compound naming the aśvinī placement",
+     "morph": "compound (viśva+rudra+aśvinī)"
+    },
+    {
+     "surface": "proktāś",
+     "gloss": "are-declared",
+     "grounds": "legacy hint are-declared",
+     "morph": "verb 3.pl.act-pres root prokta"
+    },
+    {
+     "surface": "catuṣpañcadaśānvite",
+     "gloss": "with-fourteen-and-five",
+     "grounds": "legacy hint with-fourteen-and-five",
+     "morph": "compound (catuṣ+pañcadaśa+anvita)"
+    }
+   ],
+   "question": "Which aśvinī placement is declared when fourteen and five are joined?",
+   "premises": [
+    "viśverudrāśvinī is declared",
+    "catuṣpañcadaśānvite qualifies the placement"
+   ],
+   "inference": "The verse declares the all-rudras-aśvinī placement in the fourteen-and-five joined arrangement.",
+   "uncertainties": [
+    "exact ritual referent of catuṣpañcadaśa not specified"
+   ],
+   "plain_english": "The all-rudras-aśvinī is declared in the arrangement joined with fourteen and five."
+  },
+  {
+   "verse": 5134,
+   "rows": [
+    {
+     "surface": "tattatsvanāmamantreṇa",
+     "gloss": "by-its-own-named-mantra",
+     "grounds": "legacy hint by-its-own-named-mantra",
+     "morph": "compound (tat+tat+sva+nāma+mantra)+instr"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "legacy hint one-should-place",
+     "morph": "verb 3.sg.act-opt root nyas"
+    },
+    {
+     "surface": "taddhāmni",
+     "gloss": "in-that-abode",
+     "grounds": "legacy hint in-that-abode",
+     "morph": "compound (tat+dhāman)+loc.sg"
+    },
+    {
+     "surface": "nirmite",
+     "gloss": "constructed",
+     "grounds": "legacy hint constructed",
+     "morph": "participle loc.sg (nir+mā)"
+    }
+   ],
+   "question": "By what mantra should placement occur in the constructed abode?",
+   "premises": [
+    "placement is by its own named mantra",
+    "placement occurs in that abode",
+    "the abode is constructed"
+   ],
+   "inference": "One should place using each thing's own named mantra in the constructed abode.",
+   "uncertainties": [
+    "whether taddhāmni refers to a specific constructed shrine"
+   ],
+   "plain_english": "One should place by its own named mantra in the constructed abode."
+  },
+  {
+   "verse": 5135,
+   "rows": [
+    {
+     "surface": "pūrvoktavidhinā",
+     "gloss": "by-the-previously-stated-rite",
+     "grounds": "legacy hint by-the-previously-stated-rite",
+     "morph": "compound (pūrva+ukta+vidhi)+instr"
+    },
+    {
+     "surface": "yuktakuṇḍe",
+     "gloss": "fitted",
+     "grounds": "legacy hint fitted",
+     "morph": "compound (yukta+kuṇḍa)+loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile'pi",
+     "gloss": "on-the-altar",
+     "grounds": "legacy hint on-the-altar; apostrophe marks sandhi",
+     "morph": "compound (sthaṇḍila)+loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the previously stated rite be performed with a fitted vessel?",
+   "premises": [
+    "the rite is by the previously stated rite",
+    "it may be in a fitted vessel",
+    "or on the altar"
+   ],
+   "inference": "The rite may be performed either in a fitted vessel or on the altar.",
+   "uncertainties": [
+    "whether both options are equally permitted"
+   ],
+   "plain_english": "By the previously stated rite, either in a fitted vessel or on the altar."
+  },
+  {
+   "verse": 5136,
+   "rows": [
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-the-altar",
+     "grounds": "legacy hint on-the-altar",
+     "morph": "compound (sthaṇḍila)+loc.sg"
+    },
+    {
+     "surface": "vedikordhve",
+     "gloss": "above-the-altar",
+     "grounds": "legacy hint above-the-altar",
+     "morph": "compound (vedikā+ūrdhva)+loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "legacy hint eight",
+     "morph": "numeral nom/acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayed",
+     "gloss": "one-should-place",
+     "grounds": "legacy hint one-should-place",
+     "morph": "verb 3.sg.act-opt root sthā"
+    },
+    {
+     "surface": "ghaṭān",
+     "gloss": "jars",
+     "grounds": "legacy hint jars",
+     "morph": "noun acc.pl.m"
+    }
+   ],
+   "question": "How many jars should be placed above the altar on the altar?",
+   "premises": [
+    "placement is on the altar",
+    "placement is above the altar",
+    "eight jars are to be placed"
+   ],
+   "inference": "Eight jars should be placed above the altar on the altar.",
+   "uncertainties": [
+    "whether vedikordhve modifies sthaṇḍile or ghaṭān"
+   ],
+   "plain_english": "On the altar, above the altar, one should place eight jars."
+  },
+  {
+   "verse": 5137,
+   "rows": [
+    {
+     "surface": "śatasaṃkhyaistadardhairvā",
+     "gloss": "with-hundred-numbers",
+     "grounds": "legacy hint with-hundred-numbers; fused form includes or-with-half-of-that",
+     "morph": "compound (śata+saṃkhyā+tad+ardha)+instr.pl"
+    },
+    {
+     "surface": "tanmantraiḥ",
+     "gloss": "with-those-mantras",
+     "grounds": "legacy hint or-with-half-of-that; fused form includes with-those-mantras",
+     "morph": "compound (tat+mantra)+instr.pl"
+    },
+    {
+     "surface": "samidādibhiḥ",
+     "gloss": "with-those-mantras",
+     "grounds": "legacy hint with-those-mantras; legacy hint says with-samid-and-the-rest",
+     "morph": "compound (samid+ādi)+instr.pl"
+    }
+   ],
+   "question": "With what numbers and mantras should the offering materials be used?",
+   "premises": [
+    "hundred numbers or half of that are used",
+    "those mantras are used",
+    "samid and the rest are used"
+   ],
+   "inference": "The offering uses hundred or half that number, those mantras, and samid with the rest.",
+   "uncertainties": [
+    "exact relation between śatasaṃkhya and tadardha"
+   ],
+   "plain_english": "With hundred numbers or half of that, with those mantras, and with samid and the rest."
+  },
+  {
+   "verse": 5138,
+   "rows": [
+    {
+     "surface": "śāntyādīnādito",
+     "gloss": "having-placed-peace-and-the-rest-first",
+     "grounds": "legacy hint having-placed-peace-and-the-rest-first",
+     "morph": "compound (śānti+ādi)+abl/adv"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "legacy hint having-placed",
+     "morph": "absolutive (ni+as)"
+    },
+    {
+     "surface": "tanmanūnabhiṣecayet",
+     "gloss": "with-those-mantras",
+     "grounds": "legacy hint with-those-mantras",
+     "morph": "verb 3.sg.act-opt (abhi+sic)"
+    }
+   ],
+   "question": "What should be done after placing peace and the rest first?",
+   "premises": [
+    "peace and the rest are placed first",
+    "placement is completed",
+    "one should consecrate with those mantras"
+   ],
+   "inference": "After placing peace and the rest first, one should consecrate with those mantras.",
+   "uncertainties": [
+    "whether tanmanūnabhiṣecayet includes anointing or sprinkling"
+   ],
+   "plain_english": "Having placed peace and the rest first, one should consecrate with those mantras."
+  },
+  {
+   "verse": 5139,
+   "rows": [
+    {
+     "surface": "anyatrāpyanukalpaṃ",
+     "gloss": "elsewhere-too",
+     "grounds": "legacy hint elsewhere-too; fused form includes anukalpa",
+     "morph": "compound (anyatra+api+anukalpa)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "legacy hint would-be",
+     "morph": "verb 3.sg.act-opt root as"
+    },
+    {
+     "surface": "pracurā",
+     "gloss": "abundant",
+     "grounds": "legacy hint abundant",
+     "morph": "adj nom.sg.f"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "is-declared",
+     "grounds": "legacy hint is-declared",
+     "morph": "participle nom.sg.f (pra+kīrt)"
+    }
+   ],
+   "question": "Is an abundant alternative declared elsewhere too?",
+   "premises": [
+    "elsewhere too an alternative would be",
+    "it may be abundant",
+    "it is declared"
+   ],
+   "inference": "An abundant alternative is also declared elsewhere.",
+   "uncertainties": [
+    "whether pracurā modifies the alternative or the declaration"
+   ],
+   "plain_english": "Elsewhere too an abundant alternative would be declared."
+  },
+  {
+   "verse": 5140,
+   "rows": [
+    {
+     "surface": "niṣkale",
+     "gloss": "in-the-partless",
+     "grounds": "legacy hint in-the-partless",
+     "morph": "compound (niṣ+kala)+loc.sg"
+    },
+    {
+     "surface": "paścimadvāraṃ",
+     "gloss": "western-door",
+     "grounds": "legacy hint western-door",
+     "morph": "compound (paścima+dvāra)+nom/acc.sg"
+    },
+    {
+     "surface": "sakale",
+     "gloss": "in-the-parted",
+     "grounds": "legacy hint in-the-parted",
+     "morph": "compound (sa+kala)+loc.sg"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "southern",
+     "grounds": "legacy hint southern",
+     "morph": "adj nom/acc.sg.n"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "is-favorable",
+     "grounds": "legacy hint is-favorable",
+     "morph": "participle nom/acc.sg.n (hi)"
+    }
+   ],
+   "question": "Which door is favorable in the partless and which in the parted?",
+   "premises": [
+    "in the partless the western door is favorable",
+    "in the parted the southern is favorable"
+   ],
+   "inference": "The western door is favorable in the partless, and the southern in the parted.",
+   "uncertainties": [
+    "whether hitam agrees with paścimadvāraṃ or dakṣiṇaṃ"
+   ],
+   "plain_english": "In the partless the western door is favorable; in the parted the southern is favorable."
+  }
+ ]
+}

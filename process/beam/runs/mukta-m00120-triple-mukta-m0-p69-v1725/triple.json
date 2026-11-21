@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "vyaktā",
+     "gloss": "manifest",
+     "grounds": "adjective describing the deity or state being worshipped",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayed",
+     "gloss": "may-worship",
+     "grounds": "optative form of root pūj",
+     "morph": "3.sg.act-potential root pūj"
+    },
+    {
+     "surface": "vīro",
+     "gloss": "hero",
+     "grounds": "nominative subject of the verb",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāhye'",
+     "gloss": "outside",
+     "grounds": "locative form with sandhi apostrophe",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirjane",
+     "gloss": "in-solitary-place",
+     "grounds": "locative expression of place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "May a vīra worship the manifest deity outside in a solitary place?",
+   "premises": [
+    "Manifest deity may be worshipped outside.",
+    "Solitary place is permitted for worship.",
+    "Hero may perform the worship."
+   ],
+   "inference": "External solitary worship is allowed for the manifest deity.",
+   "uncertainties": [
+    "The vocative priye does not specify the addressee."
+   ],
+   "plain_english": "Even when manifest, the hero may worship outside also, in a solitary place, O beloved."
+  }
+ ]
+}

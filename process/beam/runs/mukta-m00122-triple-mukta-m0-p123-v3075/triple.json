@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3075,
+   "rows": [
+    {
+     "surface": "sādhayet",
+     "gloss": "accomplish",
+     "grounds": "optative of sādh, 'accomplish'",
+     "morph": "3.sg.act.opt-√sādh"
+    },
+    {
+     "surface": "pararūpantu",
+     "gloss": "other-form-and",
+     "grounds": "fused pararūpam + tu; accusative neuter singular of pararūpa plus enclitic tu",
+     "morph": "n.acc.sg.n + (indecl.)"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "to-be-accomplished",
+     "grounds": "gerundive of sādh, 'to be accomplished'",
+     "morph": "n.acc.sg.n (gerundive)"
+    },
+    {
+     "surface": "sādhanasiddhaye",
+     "gloss": "for-accomplishment-success",
+     "grounds": "dative singular of sādhanasiddhi, 'success of accomplishment'",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What other form must be accomplished for success of accomplishment?",
+   "premises": [
+    "the practitioner accomplishes the other form",
+    "the other form is the to-be-accomplished",
+    "accomplishment aims at success of accomplishment"
+   ],
+   "inference": "The verse directs accomplishing the other form of the to-be-accomplished for success of accomplishment.",
+   "uncertainties": [
+    "exact referent of pararūpa in this ritual context is not specified by the verse alone"
+   ],
+   "plain_english": "One should accomplish the other form, the to-be-accomplished, for success of accomplishment."
+  }
+ ]
+}

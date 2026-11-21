@@ -1,0 +1,986 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 101,
+   "rows": [
+    {
+     "surface": "brahmaviṣṇumaheśāder",
+     "gloss": "of-brahma-viṣṇu-maheśa-and-others",
+     "grounds": "compound of brahma, viṣṇu, maheśa, and ādi; genitive singular ending",
+     "morph": "compound+gen.sg.m"
+    },
+    {
+     "surface": "ma",
+     "gloss": "mantra",
+     "grounds": "technical term for mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astram",
+     "gloss": "weapon",
+     "grounds": "mantric weapon",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle",
+     "morph": "ppp.nom.sg.n"
+    }
+   ],
+   "question": "Which mantra-weapon is proclaimed as belonging to Brahma, Viṣṇu, Maheśa, and others?",
+   "premises": [
+    "A mantra-weapon is associated with Brahma, Viṣṇu, Maheśa, and others.",
+    "This mantra-weapon is explicitly proclaimed."
+   ],
+   "inference": "The text identifies a specific mantra-weapon as belonging to Brahma, Viṣṇu, Maheśa, and others.",
+   "uncertainties": [
+    "The exact referent of 'ma' as mantra or syllable is context-dependent."
+   ],
+   "plain_english": "This is proclaimed as the mantra-weapon of Brahma, Viṣṇu, Maheśa, and others."
+  },
+  {
+   "verse": 102,
+   "rows": [
+    {
+     "surface": "praṇave",
+     "gloss": "in-praṇava",
+     "grounds": "locative of praṇava (oṃ)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṭitā",
+     "gloss": "enclosed",
+     "grounds": "past passive participle; enclosed on both sides",
+     "morph": "ppp.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge-mantra",
+     "grounds": "sacred formula or knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "setur",
+     "gloss": "bridge",
+     "grounds": "metaphor for a connecting or protective formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "passive present of abhidhā",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What designation is given to the knowledge-mantra when enclosed within the praṇava?",
+   "premises": [
+    "The knowledge-mantra is enclosed within the praṇava.",
+    "A specific name is assigned to this enclosed form."
+   ],
+   "inference": "The knowledge-mantra enclosed in the praṇava is called the bridge.",
+   "uncertainties": [],
+   "plain_english": "The knowledge-mantra enclosed in the praṇava is called the bridge."
+  },
+  {
+   "verse": 103,
+   "rows": [
+    {
+     "surface": "hakāraḥ",
+     "gloss": "ha-syllable",
+     "grounds": "the letter ha as a seed element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saccidānando",
+     "gloss": "being-consciousness-bliss",
+     "grounds": "compound of sat, cit, and ānanda",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "repho",
+     "gloss": "ra-syllable",
+     "grounds": "the letter ra as a seed element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirvāṇadāyakaḥ",
+     "gloss": "liberation-giver",
+     "grounds": "compound of nirvāṇa and dāyaka",
+     "morph": "compound+m.nom.sg"
+    }
+   ],
+   "question": "What essential natures are attributed to the syllables hakāra and repha?",
+   "premises": [
+    "The syllable hakāra is identified with being-consciousness-bliss.",
+    "The syllable repha is identified as the giver of liberation."
+   ],
+   "inference": "Hakāra embodies being-consciousness-bliss, while repha bestows liberation.",
+   "uncertainties": [],
+   "plain_english": "The syllable ha is being-consciousness-bliss, and the syllable ra is the giver of liberation."
+  },
+  {
+   "verse": 104,
+   "rows": [
+    {
+     "surface": "kāmena",
+     "gloss": "with-kāma",
+     "grounds": "instrumental of kāma (seed/syllable)",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "māyayā",
+     "gloss": "with-māyā",
+     "grounds": "instrumental of māyā (seed/syllable)",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṭitaḥ",
+     "gloss": "enclosed",
+     "grounds": "past passive participle; enclosed on both sides",
+     "morph": "ppp.nom.sg.m"
+    },
+    {
+     "surface": "kāmavījakaḥ",
+     "gloss": "kāma-seed",
+     "grounds": "compound of kāma and vījaka",
+     "morph": "compound+m.nom.sg"
+    }
+   ],
+   "question": "By which seed elements is the kāma-seed enclosed in this formulation?",
+   "premises": [
+    "The kāma-seed is enclosed by kāma.",
+    "The kāma-seed is also enclosed by māyā."
+   ],
+   "inference": "The kāma-seed is enclosed by both kāma and māyā.",
+   "uncertainties": [
+    "Kāma and māyā may refer to specific bīja syllables rather than abstract principles."
+   ],
+   "plain_english": "The kāma-seed is enclosed by kāma and by māyā."
+  },
+  {
+   "verse": 105,
+   "rows": [
+    {
+     "surface": "navākṣare",
+     "gloss": "in-nine-syllable",
+     "grounds": "compound of nava and akṣara; locative",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "kāmavījaṃ",
+     "gloss": "kāma-seed",
+     "grounds": "compound of kāma and vīja",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "cidrūpaṃ",
+     "gloss": "consciousness-form",
+     "grounds": "compound of cit and rūpa",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "śambhur",
+     "gloss": "śambhu",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttamaḥ",
+     "gloss": "supreme",
+     "grounds": "superlative adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What identity is assigned to the kāma-seed within the nine-syllable formula?",
+   "premises": [
+    "The context is the nine-syllable formula.",
+    "The kāma-seed is described as consciousness-form.",
+    "The kāma-seed is identified as supreme Śambhu."
+   ],
+   "inference": "Within the nine-syllable formula, the kāma-seed is the supreme Śambhu in the form of consciousness.",
+   "uncertainties": [],
+   "plain_english": "In the nine-syllable formula, the kāma-seed is of the form of consciousness and is the supreme Śambhu."
+  },
+  {
+   "verse": 106,
+   "rows": [
+    {
+     "surface": "navākṣare",
+     "gloss": "in-nine-syllable",
+     "grounds": "compound of nava and akṣara; locative",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇeti",
+     "gloss": "dakṣiṇā-thus",
+     "grounds": "dakṣiṇā with quotation marker iti",
+     "morph": "f.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramārthadā",
+     "gloss": "supreme-truth-giver",
+     "grounds": "compound of paramārtha and dā",
+     "morph": "compound+f.nom.sg"
+    }
+   ],
+   "question": "Which goddess in the nine-syllable formula is identified as the giver of supreme truth?",
+   "premises": [
+    "The context is the nine-syllable formula.",
+    "Kālikā is called Dakṣiṇā in this context.",
+    "She is described as the giver of supreme truth."
+   ],
+   "inference": "In the nine-syllable formula, Dakṣiṇā Kālikā is the giver of supreme truth.",
+   "uncertainties": [],
+   "plain_english": "In the nine-syllable formula, Kālikā, called Dakṣiṇā, is the giver of the supreme truth."
+  },
+  {
+   "verse": 107,
+   "rows": [
+    {
+     "surface": "ekādaśe",
+     "gloss": "in-eleven-syllable",
+     "grounds": "compound of ekādaśa and akṣara; locative",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "kāmavījaṃ",
+     "gloss": "kāma-seed",
+     "grounds": "compound of kāma and vīja",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt+√bhū"
+    },
+    {
+     "surface": "saṃsāratārakam",
+     "gloss": "world-deliverer",
+     "grounds": "compound of saṃsāra and tāraka",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "What salvific function does the kāma-seed serve within the eleven-syllable formula?",
+   "premises": [
+    "The context is the eleven-syllable formula.",
+    "The kāma-seed is present in this formula.",
+    "It is described as delivering from the world."
+   ],
+   "inference": "In the eleven-syllable formula, the kāma-seed acts as the deliverer from worldly existence.",
+   "uncertainties": [],
+   "plain_english": "In the eleven-syllable formula, the kāma-seed should be the deliverer from the world."
+  },
+  {
+   "verse": 108,
+   "rows": [
+    {
+     "surface": "pañcadaśī",
+     "gloss": "fifteen-syllabled",
+     "grounds": "adjective referring to a fifteen-syllable mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāmantraṃ",
+     "gloss": "great-mantra",
+     "grounds": "compound of mahā and mantra",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "sarvakāmaphalapradam",
+     "gloss": "all-desire-fruit-giver",
+     "grounds": "compound of sarva, kāma, phala, and prada",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "What benefit is attributed to the fifteen-syllabled great mantra?",
+   "premises": [
+    "The fifteen-syllabled formula is a great mantra.",
+    "It grants the fruits of all desires."
+   ],
+   "inference": "The fifteen-syllabled great mantra bestows the fulfillment of all desires.",
+   "uncertainties": [],
+   "plain_english": "The fifteen-syllabled great mantra grants the fruits of all desires."
+  },
+  {
+   "verse": 109,
+   "rows": [
+    {
+     "surface": "guhyakālī",
+     "gloss": "guhyakālī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśārṇā",
+     "gloss": "sixteen-syllabled",
+     "grounds": "compound of ṣoḍaśa and arṇa",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "kevalā",
+     "gloss": "alone",
+     "grounds": "adjective indicating sole or absolute nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmarūpiṇī",
+     "gloss": "brahman-form",
+     "grounds": "compound of brahman and rūpiṇī",
+     "morph": "compound+f.nom.sg"
+    }
+   ],
+   "question": "What essential nature is ascribed to the sixteen-syllabled Guhyakālī?",
+   "premises": [
+    "Guhyakālī is associated with a sixteen-syllable formula.",
+    "She is described as alone or absolute.",
+    "She is described as having the form of Brahman."
+   ],
+   "inference": "The sixteen-syllabled Guhyakālī is the absolute reality in the form of Brahman.",
+   "uncertainties": [],
+   "plain_english": "Guhyakālī, the sixteen-syllabled one, is alone and of the form of Brahman."
+  },
+  {
+   "verse": 110,
+   "rows": [
+    {
+     "surface": "navākṣarī",
+     "gloss": "nine-syllabled",
+     "grounds": "compound of nava and akṣara",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-knowledge-mantra",
+     "grounds": "compound of mahā and vidyā",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "kāmavījoparisthitā",
+     "gloss": "situated-above-kāma-seed",
+     "grounds": "compound of kāmavīja, upari, and sthita",
+     "morph": "compound+f.nom.sg"
+    }
+   ],
+   "question": "How is the nine-syllabled great knowledge-mantra positioned in relation to the kāma-seed?",
+   "premises": [
+    "There is a nine-syllabled great knowledge-mantra.",
+    "This mantra is situated above the kāma-seed."
+   ],
+   "inference": "The nine-syllabled great knowledge-mantra is established above the kāma-seed.",
+   "uncertainties": [],
+   "plain_english": "The nine-syllabled great knowledge-mantra is situated above the kāma-seed."
+  },
+  {
+   "verse": 111,
+   "rows": [
+    {
+     "surface": "vāgdevī",
+     "gloss": "speech-goddess",
+     "grounds": "compound of vāc and devī",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "plural noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "adjective qualifying deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "aikārarūpiṇī",
+     "gloss": "ai-syllable-form",
+     "grounds": "compound of aikāra and rūpiṇī",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective indicating highest status",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What supreme form encompasses all deities as the goddess of speech?",
+   "premises": [
+    "Vāgdevī is the goddess of speech.",
+    "All deities are included in her.",
+    "She has the form of the syllable ai and is supreme."
+   ],
+   "inference": "The supreme goddess of speech, in the form of the syllable ai, encompasses all deities.",
+   "uncertainties": [],
+   "plain_english": "The goddess of speech, supreme and of the form of the syllable ai, is all the deities."
+  },
+  {
+   "verse": 112,
+   "rows": [
+    {
+     "surface": "kāmākhyā",
+     "gloss": "kāmākhyā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśī",
+     "gloss": "bhuvaneśī",
+     "grounds": "name of the goddess, lady of worlds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalā",
+     "gloss": "alone",
+     "grounds": "adjective indicating sole or absolute nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmarūpiṇī",
+     "gloss": "desire-form",
+     "grounds": "compound of kāma and rūpiṇī",
+     "morph": "compound+f.nom.sg"
+    }
+   ],
+   "question": "What absolute identity is affirmed for Kāmākhyā and Bhuvaneśī?",
+   "premises": [
+    "Kāmākhyā and Bhuvaneśī are named.",
+    "They are described as alone or absolute.",
+    "They are described as having the form of desire."
+   ],
+   "inference": "Kāmākhyā and Bhuvaneśī are the absolute reality in the form of desire.",
+   "uncertainties": [],
+   "plain_english": "Kāmākhyā and Bhuvaneśī are alone and of the form of desire."
+  },
+  {
+   "verse": 113,
+   "rows": [
+    {
+     "surface": "mahābhujaṅgīrūpeṇa",
+     "gloss": "in-great-serpent-form",
+     "grounds": "compound of mahā, bhujaṅgī, and rūpa; instrumental",
+     "morph": "compound+n.ins.sg"
+    },
+    {
+     "surface": "pṛthivīdhāriṇī",
+     "gloss": "earth-supporter",
+     "grounds": "compound of pṛthivī and dhāriṇī",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what form does the goddess perpetually support the earth?",
+   "premises": [
+    "The goddess supports the earth.",
+    "She does so in the form of a great serpent.",
+    "This support is constant."
+   ],
+   "inference": "The goddess always supports the earth in the form of a great serpent.",
+   "uncertainties": [],
+   "plain_english": "In the form of a great serpent, she always supports the earth."
+  },
+  {
+   "verse": 114,
+   "rows": [
+    {
+     "surface": "kūrccabījaṃ",
+     "gloss": "kūrca-seed",
+     "grounds": "compound of kūrca and bīja",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "mahāviṣṇuḥ",
+     "gloss": "mahāviṣṇu",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "phaṭkāraḥ",
+     "gloss": "phaṭ-syllable",
+     "grounds": "the syllable phaṭ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpanāśanaḥ",
+     "gloss": "sin-destroyer",
+     "grounds": "compound of pāpa and nāśana",
+     "morph": "compound+m.nom.sg"
+    }
+   ],
+   "question": "What divine identities and functions are assigned to the kūrca-seed and the phaṭ-syllable?",
+   "premises": [
+    "The kūrca-seed is identified as Mahāviṣṇu.",
+    "The phaṭ-syllable is identified as the destroyer of sin."
+   ],
+   "inference": "The kūrca-seed is Mahāviṣṇu, and the phaṭ-syllable destroys sin.",
+   "uncertainties": [],
+   "plain_english": "The kūrca-seed is Mahāviṣṇu, and the phaṭ-syllable is the destroyer of sin."
+  },
+  {
+   "verse": 115,
+   "rows": [
+    {
+     "surface": "kāmabījaṃ",
+     "gloss": "kāma-seed",
+     "grounds": "compound of kāma and bīja",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "kalānāthaḥ",
+     "gloss": "moon-lord",
+     "grounds": "compound of kalā and nātha",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "adjective indicating sole or absolute nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmarūpadhṛk",
+     "gloss": "desire-form-bearer",
+     "grounds": "compound of kāmarūpa and dhṛk",
+     "morph": "compound+m.nom.sg"
+    }
+   ],
+   "question": "What identity is attributed to the kāma-seed as the lord of the moon?",
+   "premises": [
+    "The kāma-seed is identified as the lord of the moon.",
+    "It is described as alone or absolute.",
+    "It bears the form of desire."
+   ],
+   "inference": "The kāma-seed is the absolute lord of the moon bearing the form of desire.",
+   "uncertainties": [],
+   "plain_english": "The kāma-seed is the lord of the moon, alone and bearing the form of desire."
+  },
+  {
+   "verse": 116,
+   "rows": [
+    {
+     "surface": "kūrcabījaṃ",
+     "gloss": "kūrca-seed",
+     "grounds": "compound of kūrca and bīja",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahāpuṇyapradāyakam",
+     "gloss": "great-merit-giver",
+     "grounds": "compound of mahā, puṇya, and pradāyaka",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "What spiritual benefit does the kūrca-seed confer according to the address to the great goddess?",
+   "premises": [
+    "The kūrca-seed is being described.",
+    "It is said to grant great merit."
+   ],
+   "inference": "The kūrca-seed bestows great merit.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, the kūrca-seed is the giver of great merit."
+  },
+  {
+   "verse": 117,
+   "rows": [
+    {
+     "surface": "kṣakāraś",
+     "gloss": "kṣa-syllable",
+     "grounds": "the letter kṣa with sandhi for ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṣetrajñaḥ",
+     "gloss": "knower-of-field",
+     "grounds": "compound of kṣetra and jña",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle",
+     "morph": "ppp.nom.sg.m"
+    }
+   ],
+   "question": "What identity is proclaimed for the syllable kṣa in this teaching?",
+   "premises": [
+    "The syllable kṣa is the subject.",
+    "It is proclaimed to be the knower of the field."
+   ],
+   "inference": "The syllable kṣa is proclaimed as the knower of the field.",
+   "uncertainties": [],
+   "plain_english": "And, O great goddess, the syllable kṣa is proclaimed to be the knower of the field."
+  },
+  {
+   "verse": 118,
+   "rows": [
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-her",
+     "grounds": "genitive of feminine demonstrative/pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "smaraṇamātreṇa",
+     "gloss": "by-remembrance-alone",
+     "grounds": "compound of smaraṇa and mātra; instrumental",
+     "morph": "compound+n.ins.sg"
+    },
+    {
+     "surface": "jīvanmuktaś",
+     "gloss": "living-liberated",
+     "grounds": "compound of jīvat and mukta with sandhi for ca",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "one who practices spiritual discipline",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What state does the practitioner attain through mere remembrance of her?",
+   "premises": [
+    "The practitioner remembers her.",
+    "Mere remembrance is sufficient.",
+    "The practitioner becomes living-liberated."
+   ],
+   "inference": "By mere remembrance of her, the practitioner becomes liberated while living.",
+   "uncertainties": [
+    "The referent of 'her' depends on the preceding context."
+   ],
+   "plain_english": "By merely remembering her, the practitioner becomes liberated while still living."
+  },
+  {
+   "verse": 119,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present middle of labh",
+     "morph": "3.sg.mid-pres+√labh"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative of śru",
+     "morph": "2.sg.act-imp+√śru"
+    },
+    {
+     "surface": "kalyāṇi",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "smaraṇenaiva",
+     "gloss": "by-remembrance-alone",
+     "grounds": "instrumental of smaraṇa with emphatic eva",
+     "morph": "n.ins.sg+(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or reward",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the practitioner invited to hear regarding the fruit obtained by remembrance alone?",
+   "premises": [
+    "The practitioner obtains a fruit.",
+    "This fruit comes by remembrance alone.",
+    "The auspicious one is asked to hear about this fruit."
+   ],
+   "inference": "The text invites the listener to hear what fruit is obtained by remembrance alone.",
+   "uncertainties": [],
+   "plain_english": "Hear, O auspicious one, what fruit is obtained by remembrance alone."
+  },
+  {
+   "verse": 120,
+   "rows": [
+    {
+     "surface": "koṭikoṭimahātīrtham",
+     "gloss": "crore-crore-great-pilgrimage",
+     "grounds": "compound of koṭi, koṭi, mahā, and tīrtha",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "aśvamedhāyutaṃ",
+     "gloss": "ten-thousand-horse-sacrifices",
+     "grounds": "compound of aśvamedha and ayuta",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or reward",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What immense ritual merits are equated with the fruit of this remembrance?",
+   "premises": [
+    "The fruit is compared to vast pilgrimage merit.",
+    "The fruit is compared to ten thousand horse sacrifices."
+   ],
+   "inference": "The fruit equals the merit of countless great pilgrimages and ten thousand horse sacrifices.",
+   "uncertainties": [],
+   "plain_english": "The fruit is that of countless great pilgrimages and ten thousand horse sacrifices."
+  },
+  {
+   "verse": 121,
+   "rows": [
+    {
+     "surface": "japec",
+     "gloss": "should-recite",
+     "grounds": "optative of jap with sandhi for ca",
+     "morph": "3.sg.act-opt+√jap"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vaktuṃ",
+     "gloss": "to-tell",
+     "grounds": "infinitive of vac",
+     "morph": "inf+√vac"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-at-all",
+     "grounds": "negative particle with emphatic eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "is-possible",
+     "grounds": "passive present of śak",
+     "morph": "3.sg.pass-pres+√śak"
+    }
+   ],
+   "question": "What limitation is expressed regarding the ability to describe the fruit of recitation?",
+   "premises": [
+    "One should recite, O great goddess.",
+    "The fruit of this recitation is beyond description.",
+    "It is not possible to tell it."
+   ],
+   "inference": "The fruit of recitation is so great that it cannot be described.",
+   "uncertainties": [],
+   "plain_english": "And if one should recite, O great goddess, it is not possible to tell the fruit."
+  },
+  {
+   "verse": 122,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound of aṣṭa, uttara, and śata",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive of jap",
+     "morph": "abs+√jap"
+    },
+    {
+     "surface": "gajāntakasahasrakam",
+     "gloss": "thousand-elephant-slayings",
+     "grounds": "compound of gajāntaka and sahasraka",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "What specific recitation count is mentioned in connection with a thousand slayings of the elephant-demon?",
+   "premises": [
+    "A recitation of one hundred and eight is performed.",
+    "This is connected with a thousand slayings of the elephant-demon."
+   ],
+   "inference": "Reciting one hundred and eight times is associated with the merit of a thousand slayings of the elephant-demon.",
+   "uncertainties": [
+    "The exact ritual or mythic reference of gajāntaka-sahasraka is context-dependent."
+   ],
+   "plain_english": "Having recited one hundred and eight times, one gains the merit of a thousand slayings of the elephant-demon."
+  },
+  {
+   "verse": 123,
+   "rows": [
+    {
+     "surface": "nirguṇaḥ",
+     "gloss": "without-qualities",
+     "grounds": "compound of nis and guṇa",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "saguṇomantro",
+     "gloss": "with-qualities-mantra",
+     "grounds": "compound of saguṇa and mantra with sandhi",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "adverb indicating division into two",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Into what two categories is the mantra divided according to the presence or absence of qualities?",
+   "premises": [
+    "The mantra can be without qualities.",
+    "The mantra can be with qualities.",
+    "This division is twofold."
+   ],
+   "inference": "The mantra is twofold: without qualities and with qualities.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, the mantra is indeed twofold: without qualities and with qualities."
+  },
+  {
+   "verse": 124,
+   "rows": [
+    {
+     "surface": "mātṛkāpuṭitaṃ",
+     "gloss": "enclosed-by-mātṛkā",
+     "grounds": "compound of mātṛkā and puṭita",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs+√kṛ"
+    },
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "hundred-and-eight",
+     "grounds": "compound of aṣṭa, uttara, and śata",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative of jap",
+     "morph": "3.sg.act-opt+√jap"
+    }
+   ],
+   "question": "What preparatory enclosure and recitation count are prescribed for the mantra practice?",
+   "premises": [
+    "The mantra is to be enclosed by the mātṛkā.",
+    "After this preparation, one should recite.",
+    "The recitation count is one hundred and eight."
+   ],
+   "inference": "One should enclose the mantra with the mātṛkā and recite it one hundred and eight times.",
+   "uncertainties": [],
+   "plain_english": "Having enclosed it with the mātṛkā, one should recite it one hundred and eight times."
+  }
+ ]
+}

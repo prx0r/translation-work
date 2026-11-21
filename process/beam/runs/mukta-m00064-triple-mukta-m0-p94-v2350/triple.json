@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2350,
+   "rows": [
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "location specified for the offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahiṣaṃ",
+     "gloss": "buffalo",
+     "grounds": "object of the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāddevakasya",
+     "gloss": "one-should-give-of-devaka",
+     "grounds": "sandhi fusion of dadyāt and devakasya; verb governs offering and recipient context",
+     "morph": "compound: dadyāt(3.sg.opt.act √dā)+devakasya(m.gen.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "specifies proximity to the recipient",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What location and recipient are required for the prescribed buffalo offering?",
+   "premises": [
+    "A buffalo is prescribed as the object to be given.",
+    "The act of giving is to occur in a cremation ground.",
+    "The offering is to be made in the presence of Devaka."
+   ],
+   "inference": "The buffalo offering must be performed in a cremation ground in the presence of Devaka.",
+   "uncertainties": [
+    "The identity or specific role of Devaka in this ritual context is not specified in the verse."
+   ],
+   "plain_english": "One should give a buffalo in the cremation ground and in the presence of Devaka."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "refers to the entirety of what is experienced",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle linking to prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etaj",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun indicating the present totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jṛmbhitaṃ",
+     "gloss": "unfolding",
+     "grounds": "past participle expressing manifestation or display",
+     "morph": "n.nom.sg (ppp, √jṛmbh)"
+    },
+    {
+     "surface": "kaitavasya",
+     "gloss": "of-deceit",
+     "grounds": "identifies deceit as the source of the unfolding",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What is identified as the source of all this unfolding manifestation?",
+   "premises": [
+    "All things are encompassed within this totality.",
+    "This totality is characterized as an unfolding.",
+    "The unfolding is attributed to deceit."
+   ],
+   "inference": "Therefore, all experienced reality is understood as a manifestation arising from deceit.",
+   "uncertainties": [
+    "The precise scope of 'sarvaṃ' in relation to the preceding verses is context-dependent."
+   ],
+   "plain_english": "And all this is the unfolding of deceit."
+  }
+ ]
+}

@@ -1,0 +1,925 @@
+{
+ "song": "mukta-m0-p94",
+ "items": [
+  {
+   "verse": 2326,
+   "rows": [
+    {
+     "surface": "home",
+     "gloss": "in-fire-offering",
+     "grounds": "locative of homa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vaiśvadeve",
+     "gloss": "in-offering-to-all-gods",
+     "grounds": "locative of vaiśvadeva",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "surārcane",
+     "gloss": "in-god-worship",
+     "grounds": "locative of compound sura+arcana",
+     "morph": "n.loc.sg (sura+arcana)"
+    }
+   ],
+   "question": "In which ritual contexts is the wearing of rudrākṣa beads appropriate?",
+   "premises": [
+    "The fire-offering is named as a context.",
+    "The offering to all gods is named as a context.",
+    "The worship of gods is named as a context."
+   ],
+   "inference": "Wearing rudrākṣa is appropriate in fire-offering, the offering to all gods, and god-worship.",
+   "uncertainties": [],
+   "plain_english": "In the fire-offering, in the offering to all gods, and in the worship of the gods."
+  },
+  {
+   "verse": 2327,
+   "rows": [
+    {
+     "surface": "rudrākṣadhārī",
+     "gloss": "wearing-rudrākṣa",
+     "grounds": "agent noun from rudrākṣa+dhārin",
+     "morph": "m.nom.sg (rudrākṣa+dhārin)"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive of √bhū",
+     "morph": "abs. (√bhū)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yatkiñcitkarma",
+     "gloss": "whatever-deed",
+     "grounds": "compound yat+kiñcit+karma",
+     "morph": "n.acc.sg (yat+kiñcit+karma)"
+    },
+    {
+     "surface": "vaidikam",
+     "gloss": "vedic",
+     "grounds": "adjective qualifying karma",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What condition and scope of action accompany the performance of Vedic deeds?",
+   "premises": [
+    "One becomes a wearer of rudrākṣa.",
+    "The action includes any deed whatsoever.",
+    "The deed is specified as Vedic."
+   ],
+   "inference": "Having become a rudrākṣa-wearer, one may perform any Vedic deed.",
+   "uncertainties": [],
+   "plain_english": "And having become a wearer of rudrākṣa, one may perform whatever Vedic deed."
+  },
+  {
+   "verse": 2328,
+   "rows": [
+    {
+     "surface": "haste",
+     "gloss": "on-hand",
+     "grounds": "locative of hasta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karṇayoḥ",
+     "gloss": "on-both-ears",
+     "grounds": "locative dual of karṇa",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "upavītake",
+     "gloss": "on-sacred-thread",
+     "grounds": "locative of upavītaka",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "On which parts of the body or attire may rudrākṣa be worn?",
+   "premises": [
+    "The hand is named as a place of wearing.",
+    "Both ears are named as places of wearing.",
+    "The sacred thread is named as a place of wearing."
+   ],
+   "inference": "Rudrākṣa may be worn on the hand, on both ears, and on the sacred thread.",
+   "uncertainties": [],
+   "plain_english": "On the hand, on both ears, and on the sacred thread."
+  },
+  {
+   "verse": 2329,
+   "rows": [
+    {
+     "surface": "pibanmadyaṃ",
+     "gloss": "drinking-wine",
+     "grounds": "compound of present participle pibat and madya",
+     "morph": "m.nom.sg (pibat+madya)"
+    },
+    {
+     "surface": "saṅgacchan",
+     "gloss": "associating",
+     "grounds": "present participle of sam+√gam",
+     "morph": "m.nom.sg pres.part.act (sam+√gam)"
+    },
+    {
+     "surface": "antyajādiṣu",
+     "gloss": "with-outcastes-and-others",
+     "grounds": "locative plural of compound antyaja+ādi",
+     "morph": "m.loc.pl (antyaja+ādi)"
+    }
+   ],
+   "question": "What transgressive behaviors are compatible with the state described for the rudrākṣa-wearer?",
+   "premises": [
+    "Drinking wine is mentioned.",
+    "Associating with others is mentioned.",
+    "The association includes outcastes and similar people."
+   ],
+   "inference": "Even while drinking wine and associating with outcastes and others, the described state holds.",
+   "uncertainties": [],
+   "plain_english": "Even while drinking wine and associating with outcastes and others."
+  },
+  {
+   "verse": 2330,
+   "rows": [
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "accusative plural of deva",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "puṣṇanti",
+     "gloss": "they-nourish",
+     "grounds": "present active of √puṣ",
+     "morph": "3.pl.pres.act (√puṣ)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "gods",
+     "grounds": "nominative plural of deva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "paśavaḥ",
+     "gloss": "beasts",
+     "grounds": "nominative plural of paśu",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaidikāḥ",
+     "gloss": "vedic",
+     "grounds": "adjective qualifying paśavaḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the Vedic gods characterized in relation to those who nourish them?",
+   "premises": [
+    "Some beings nourish the gods.",
+    "Those gods are identified in that context.",
+    "Those gods are described as Vedic beasts."
+   ],
+   "inference": "The gods who are nourished are, in that context, the Vedic beasts.",
+   "uncertainties": [
+    "The exact rhetorical force of calling the gods paśavaḥ is context-dependent."
+   ],
+   "plain_english": "Those who nourish the gods—those gods there are the Vedic beasts."
+  },
+  {
+   "verse": 2331,
+   "rows": [
+    {
+     "surface": "saṃrakṣaṇārthāya",
+     "gloss": "for-protection",
+     "grounds": "dative of compound saṃrakṣaṇa+artha",
+     "morph": "m.dat.sg (saṃrakṣaṇa+artha)"
+    },
+    {
+     "surface": "nānyo",
+     "gloss": "no-other",
+     "grounds": "sandhi of na and anyaḥ",
+     "morph": "m.nom.sg (na+anya)"
+    },
+    {
+     "surface": "rudrākṣato",
+     "gloss": "than-rudrākṣa",
+     "grounds": "ablative of rudrākṣa with ablative suffix -tas",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative of bhū",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What object is claimed to be the supreme means of protection on earth?",
+   "premises": [
+    "Protection is stated as the purpose.",
+    "No other means is admitted.",
+    "Rudrākṣa is set as the standard of comparison on earth."
+   ],
+   "inference": "For protection on earth, there is no other means than rudrākṣa.",
+   "uncertainties": [],
+   "plain_english": "For protection on earth, there is no other means than rudrākṣa."
+  },
+  {
+   "verse": 2332,
+   "rows": [
+    {
+     "surface": "kaṇṭhamāśritya",
+     "gloss": "having-reached-throat",
+     "grounds": "absolutive of ā+√śri with kaṇṭha as object",
+     "morph": "abs. (kaṇṭha+ā+√śri)"
+    },
+    {
+     "surface": "śūkaro",
+     "gloss": "boar",
+     "grounds": "nominative singular of śūkara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mriyate",
+     "gloss": "dies",
+     "grounds": "present middle/passive of √mṛ",
+     "morph": "3.sg.pres.mid (√mṛ)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What hypothetical case illustrates the power associated with rudrākṣa reaching the throat?",
+   "premises": [
+    "A boar is the subject.",
+    "The boar reaches the throat.",
+    "The boar dies in that condition."
+   ],
+   "inference": "If a boar dies with rudrākṣa reaching its throat, this illustrates rudrākṣa's power.",
+   "uncertainties": [
+    "The connection to rudrākṣa is completed in the following verse."
+   ],
+   "plain_english": "If a boar dies having reached the throat—"
+  },
+  {
+   "verse": 2333,
+   "rows": [
+    {
+     "surface": "rudrākṣadhāraṇāt",
+     "gloss": "from-wearing-rudrākṣa",
+     "grounds": "ablative of compound rudrākṣa+dhāraṇa",
+     "morph": "n.abl.sg (rudrākṣa+dhāraṇa)"
+    }
+   ],
+   "question": "What cause is attributed to the salvific effect described in the preceding case?",
+   "premises": [
+    "Wearing rudrākṣa is named.",
+    "The ablative indicates cause or source.",
+    "This completes the condition stated previously."
+   ],
+   "inference": "The effect arises from the wearing of rudrākṣa.",
+   "uncertainties": [],
+   "plain_english": "—from the wearing of rudrākṣa."
+  },
+  {
+   "verse": 2334,
+   "rows": [
+    {
+     "surface": "pāpakarmāpi",
+     "gloss": "even-sinful-doer",
+     "grounds": "compound pāpa+karma with enclitic api",
+     "morph": "m.nom.sg (pāpa+karma+api)"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraloke",
+     "gloss": "in-rudra-world",
+     "grounds": "locative of compound rudra+loka",
+     "morph": "m.loc.sg (rudra+loka)"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "present passive of √mah",
+     "morph": "3.sg.pres.pass (√mah)"
+    }
+   ],
+   "question": "What posthumous honor is granted to a constant rudrākṣa-wearer despite sinful deeds?",
+   "premises": [
+    "The subject may be a doer of sinful deeds.",
+    "The subject is characterized as constant in wearing.",
+    "The subject is honored in the world of Rudra."
+   ],
+   "inference": "Even a sinful doer who always wears rudrākṣa is honored in Rudra's world.",
+   "uncertainties": [],
+   "plain_english": "Even one who does sinful deeds, if he always wears it, is honored in the world of Rudra."
+  },
+  {
+   "verse": 2335,
+   "rows": [
+    {
+     "surface": "mauḍyāt",
+     "gloss": "from-foolishness",
+     "grounds": "ablative of mauḍya",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "nāsau",
+     "gloss": "not-he",
+     "grounds": "sandhi of na and asau",
+     "morph": "m.nom.sg (na+adas)"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present active of √āp",
+     "morph": "3.sg.pres.act (√āp)"
+    },
+    {
+     "surface": "tatphalam",
+     "gloss": "that-fruit",
+     "grounds": "compound tat+phala",
+     "morph": "n.acc.sg (tat+phala)"
+    }
+   ],
+   "question": "What prevents a person from obtaining the fruit associated with rudrākṣa?",
+   "premises": [
+    "Foolishness is named as a cause.",
+    "The person does not obtain something.",
+    "The object not obtained is that fruit."
+   ],
+   "inference": "Because of foolishness, he does not obtain that fruit.",
+   "uncertainties": [
+    "The referent of 'he' may be the sinful wearer or a general person; context suggests the former."
+   ],
+   "plain_english": "But out of foolishness he does not obtain that fruit."
+  },
+  {
+   "verse": 2336,
+   "rows": [
+    {
+     "surface": "gaṇeśasūryaviṣṇvīśadurgāḥ",
+     "gloss": "gaṇeśa-sūrya-viṣṇu-īśa-durgā",
+     "grounds": "compound listing five deities in accusative plural",
+     "morph": "f.acc.pl (gaṇeśa+sūrya+viṣṇu+īśa+durgā)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam+√pūj",
+     "morph": "abs. (sam+√pūj)"
+    },
+    {
+     "surface": "bhaktitaḥ",
+     "gloss": "with-devotion",
+     "grounds": "ablative used adverbially from bhakti",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "Which deities must be worshipped with devotion at the start of the ritual procedure?",
+   "premises": [
+    "Gaṇeśa, Sūrya, Viṣṇu, Īśa, and Durgā are named.",
+    "They are to be worshipped.",
+    "The worship is to be done with devotion."
+   ],
+   "inference": "The ritual begins by worshipping Gaṇeśa, Sūrya, Viṣṇu, Īśa, and Durgā with devotion.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped Gaṇeśa, Sūrya, Viṣṇu, Īśa, and Durgā with devotion,"
+  },
+  {
+   "verse": 2337,
+   "rows": [
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "one-hundred-eight",
+     "grounds": "numeral compound aṣṭa+uttara+śata",
+     "morph": "n.acc.sg (aṣṭa+uttara+śata)"
+    },
+    {
+     "surface": "pañcagavye",
+     "gloss": "in-five-cow-products",
+     "grounds": "locative of compound pañca+gavya",
+     "morph": "n.loc.sg (pañca+gavya)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "it",
+     "grounds": "demonstrative pronoun, accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sthāpayetryaham",
+     "gloss": "place-for-three-days",
+     "grounds": "fused form of sthāpayet and tryaham",
+     "morph": "3.sg.opt.act (√sthā)+n.acc.sg (tri+aha)"
+    }
+   ],
+   "question": "How long and in what substance should the object be placed during this ritual stage?",
+   "premises": [
+    "The number one hundred and eight is specified.",
+    "The five cow-products are the medium.",
+    "The placement lasts for three days."
+   ],
+   "inference": "One should place it one hundred and eight times in the five cow-products for three days.",
+   "uncertainties": [
+    "The referent of tāṃ and the role of aṣṭottaraśataṃ depend on ritual context."
+   ],
+   "plain_english": "One should place it in the five cow-products for three days, one hundred and eight times."
+  },
+  {
+   "verse": 2338,
+   "rows": [
+    {
+     "surface": "granthayitvā",
+     "gloss": "having-strung",
+     "grounds": "absolutive of causative of √granth",
+     "morph": "abs.caus. (√granth)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative of sthaṇḍila",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "it",
+     "grounds": "demonstrative pronoun, accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "should-deposit",
+     "grounds": "optative causative of ni+√dhā",
+     "morph": "3.sg.opt.act.caus. (ni+√dhā)"
+    }
+   ],
+   "question": "What actions should be performed with the object after the initial placement period?",
+   "premises": [
+    "The object is to be strung together.",
+    "An altar is the place of deposit.",
+    "The object should be deposited there."
+   ],
+   "inference": "After stringing it, one should deposit it on the altar.",
+   "uncertainties": [],
+   "plain_english": "Having strung it, one should deposit it on the ritual altar."
+  },
+  {
+   "verse": 2339,
+   "rows": [
+    {
+     "surface": "saṃsnāpya",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of sam+√snā causative",
+     "morph": "abs.caus. (sam+√snā)"
+    },
+    {
+     "surface": "śītalena",
+     "gloss": "with-cool",
+     "grounds": "instrumental of śītala",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "instrumental of jala",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what substance should the object be bathed in this stage of the rite?",
+   "premises": [
+    "Bathing is prescribed.",
+    "The water is described as cool.",
+    "Water is the bathing substance."
+   ],
+   "inference": "The object should be bathed with cool water.",
+   "uncertainties": [],
+   "plain_english": "And having bathed it with cool water,"
+  },
+  {
+   "verse": 2340,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative of √kṛ",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "dhasauṃmantreṇa",
+     "gloss": "with-dhasauṃ-mantra",
+     "grounds": "instrumental of compound dhasauṃ+mantra",
+     "morph": "m.ins.sg (dhasauṃ+mantra)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative singular of sādhaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who performs the rite and with which mantra is it to be carried out?",
+   "premises": [
+    "The practitioner is the agent.",
+    "The action is to be performed.",
+    "The dhasauṃ mantra is the instrument."
+   ],
+   "inference": "The practitioner should perform the rite with the dhasauṃ mantra.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should perform the rite with the dhasauṃ mantra."
+  },
+  {
+   "verse": 2341,
+   "rows": [
+    {
+     "surface": "navagrahān",
+     "gloss": "nine-planets",
+     "grounds": "accusative plural of compound nava+graha",
+     "morph": "m.acc.pl (nava+graha)"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of √pūj causative",
+     "morph": "abs.caus. (√pūj)"
+    },
+    {
+     "surface": "dikpālāṃś",
+     "gloss": "guardians-of-directions",
+     "grounds": "accusative plural of compound dik+pāla with sandhi",
+     "morph": "m.acc.pl (dik+pāla)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative of √pūj",
+     "morph": "3.sg.opt.act (√pūj)"
+    }
+   ],
+   "question": "Which cosmic guardians must be worshipped in this phase of the ritual?",
+   "premises": [
+    "The nine planets are to be worshipped.",
+    "The guardians of the directions are named.",
+    "The guardians of the directions are also to be worshipped."
+   ],
+   "inference": "After worshipping the nine planets, one should also worship the guardians of the directions.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the nine planets, one should also worship the guardians of the directions."
+  },
+  {
+   "verse": 2342,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative of √dā",
+     "morph": "3.sg.opt.act (√dā)"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "dative of guru",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "maṇisaṅkhyakam",
+     "gloss": "equal-to-bead-count",
+     "grounds": "accusative of compound maṇi+saṅkhyaka",
+     "morph": "n.acc.sg (maṇi+saṅkhyaka)"
+    }
+   ],
+   "question": "What offering should be given to the guru in relation to the number of beads?",
+   "premises": [
+    "A gift is to be given.",
+    "The guru is the recipient.",
+    "The amount corresponds to the number of beads."
+   ],
+   "inference": "One should give to the guru an amount corresponding to the number of beads.",
+   "uncertainties": [
+    "The exact substance of the gift is not specified in this verse."
+   ],
+   "plain_english": "One should give to the guru an offering equal in number to the beads."
+  },
+  {
+   "verse": 2343,
+   "rows": [
+    {
+     "surface": "svarṇapatrasya",
+     "gloss": "of-gold-leaf",
+     "grounds": "genitive of compound svarṇa+patra",
+     "morph": "n.gen.sg (svarṇa+patra)"
+    },
+    {
+     "surface": "grāhyam",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive of √grah",
+     "morph": "n.nom.sg gerundive (√grah)"
+    },
+    {
+     "surface": "aśvatthapatrakam",
+     "gloss": "aśvattha-leaf",
+     "grounds": "nominative of compound aśvattha+patraka",
+     "morph": "n.nom.sg (aśvattha+patraka)"
+    }
+   ],
+   "question": "What substitute is acceptable in place of a gold leaf in the ritual?",
+   "premises": [
+    "A gold leaf is the reference item.",
+    "An aśvattha leaf is named.",
+    "The aśvattha leaf is to be taken as acceptable."
+   ],
+   "inference": "In place of a gold leaf, an aśvattha leaf may be taken.",
+   "uncertainties": [],
+   "plain_english": "In place of a gold leaf, an aśvattha leaf may be taken."
+  },
+  {
+   "verse": 2344,
+   "rows": [
+    {
+     "surface": "kīkasādikamālānāṃ",
+     "gloss": "of-garlands-beginning-with-kīkasa",
+     "grounds": "genitive plural of compound kīkasa+ādi+kamālā",
+     "morph": "f.gen.pl (kīkasa+ādi+kamālā)"
+    },
+    {
+     "surface": "kaulikānām",
+     "gloss": "of-kaula-practitioners",
+     "grounds": "genitive plural of kaulika",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāminām",
+     "gloss": "of-vāma-practitioners",
+     "grounds": "genitive plural of vāmin",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "For which practitioners and types of garlands do the following ritual instructions apply?",
+   "premises": [
+    "Garlands beginning with kīkasa are mentioned.",
+    "Kaula practitioners are mentioned.",
+    "Vāma practitioners are mentioned."
+   ],
+   "inference": "The instructions apply to garlands beginning with kīkasa for Kaula and Vāma practitioners.",
+   "uncertainties": [
+    "The exact identity of kīkasa garlands is not specified."
+   ],
+   "plain_english": "For garlands beginning with kīkasa, belonging to Kaula and Vāma practitioners,"
+  },
+  {
+   "verse": 2345,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative of √pūj",
+     "morph": "3.sg.opt.act (√pūj)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "locative adverbial of ādi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vastragandhānulepanaiḥ",
+     "gloss": "with-clothes-scents-unguents",
+     "grounds": "instrumental plural of compound vastra+gandha+anulepana",
+     "morph": "n.ins.pl (vastra+gandha+anulepana)"
+    }
+   ],
+   "question": "With what offerings should the garlands first be worshipped?",
+   "premises": [
+    "Worship is prescribed first.",
+    "Clothes are included among the offerings.",
+    "Scents and unguents are included among the offerings."
+   ],
+   "inference": "One should first worship them with clothes, scents, and unguents.",
+   "uncertainties": [],
+   "plain_english": "One should first worship them with clothes, scents, and unguents."
+  },
+  {
+   "verse": 2346,
+   "rows": [
+    {
+     "surface": "pañcāśanmaṇibhiḥ",
+     "gloss": "with-fifty-beads",
+     "grounds": "instrumental plural of compound pañcāśat+maṇi",
+     "morph": "m.ins.pl (pañcāśat+maṇi)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive of √kṛ",
+     "morph": "f.nom.sg gerundive (√kṛ)"
+    },
+    {
+     "surface": "ṛtumatyā+bage",
+     "gloss": "in-menstruating-woman-vulva",
+     "grounds": "locative of compound ṛtumatī+bhaga with sandhi fusion marked by +",
+     "morph": "m.loc.sg (ṛtumatī+bhaga)"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-place",
+     "grounds": "optative of √kṣip",
+     "morph": "3.sg.opt.act (√kṣip)"
+    }
+   ],
+   "question": "What specific ritual placement is prescribed for a garland made of fifty beads?",
+   "premises": [
+    "A garland is to be made with fifty beads.",
+    "The placement is in the vulva of a menstruating woman.",
+    "The act of placing is prescribed."
+   ],
+   "inference": "A garland made of fifty beads should be placed in the vulva of a menstruating woman.",
+   "uncertainties": [
+    "The ritual may be read operationally or symbolically; the verse states the act directly."
+   ],
+   "plain_english": "One should make it with fifty beads and place it in the vulva of a menstruating woman."
+  },
+  {
+   "verse": 2347,
+   "rows": [
+    {
+     "surface": "śuddhodaiḥ",
+     "gloss": "with-pure-waters",
+     "grounds": "instrumental plural of compound śuddha+uda",
+     "morph": "n.ins.pl (śuddha+uda)"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "instrumental of compound mūla+mantra",
+     "morph": "m.ins.sg (mūla+mantra)"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "should-consecrate",
+     "grounds": "optative of abhi+√sic",
+     "morph": "3.sg.opt.act (abhi+√sic)"
+    },
+    {
+     "surface": "vijayārasaiḥ",
+     "gloss": "with-vijayā-juices",
+     "grounds": "instrumental plural of compound vijayā+rasa",
+     "morph": "m.ins.pl (vijayā+rasa)"
+    }
+   ],
+   "question": "With which substances and mantra should the consecration be performed?",
+   "premises": [
+    "Consecration is prescribed.",
+    "Pure waters and vijayā juices are the substances.",
+    "The root mantra is the accompanying formula."
+   ],
+   "inference": "One should consecrate it with pure waters and vijayā juices using the root mantra.",
+   "uncertainties": [
+    "The identity of vijayā is not specified in this verse."
+   ],
+   "plain_english": "One should consecrate it with pure waters and with vijayā juices, using the root mantra."
+  },
+  {
+   "verse": 2348,
+   "rows": [
+    {
+     "surface": "sveṣṭajape",
+     "gloss": "in-desired-recitation",
+     "grounds": "locative of compound sva+iṣṭa+japa",
+     "morph": "m.loc.sg (sva+iṣṭa+japa)"
+    },
+    {
+     "surface": "nīlaṃ",
+     "gloss": "blue",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇaṃ",
+     "gloss": "black",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māraṇakarmaṇi",
+     "gloss": "in-killing-rite",
+     "grounds": "locative of compound māraṇa+karman",
+     "morph": "n.loc.sg (māraṇa+karman)"
+    }
+   ],
+   "question": "Which colors are prescribed for desired recitation and for the rite of killing?",
+   "premises": [
+    "A desired recitation is named as a context.",
+    "Blue and black are named as colors.",
+    "The rite of killing is named as a context."
+   ],
+   "inference": "Blue is used in desired recitation and black in the rite of killing.",
+   "uncertainties": [
+    "The exact assignment of nīlaṃ and kṛṣṇaṃ to the two contexts is inferred from their order."
+   ],
+   "plain_english": "In desired recitation use blue, and in the rite of killing use black."
+  },
+  {
+   "verse": 2349,
+   "rows": [
+    {
+     "surface": "vaśye",
+     "gloss": "in-subjugation",
+     "grounds": "locative of vaśya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pītaṃ",
+     "gloss": "yellow",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kaṣāyam",
+     "gloss": "astringent-brown",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikṣepakaraṇe",
+     "gloss": "in-dispelling-rite",
+     "grounds": "locative of compound vikṣepa+karaṇa",
+     "morph": "n.loc.sg (vikṣepa+karaṇa)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "past passive participle of √man",
+     "morph": "n.nom.sg ppp. (√man)"
+    }
+   ],
+   "question": "Which colors are considered appropriate for subjugation and for the rite of dispelling?",
+   "premises": [
+    "Subjugation is named as a context.",
+    "Yellow and astringent-brown are named as colors.",
+    "The rite of dispelling is named as a context."
+   ],
+   "inference": "Yellow is considered appropriate for subjugation and astringent-brown for the rite of dispelling.",
+   "uncertainties": [
+    "The exact assignment of pītaṃ and kaṣāyam to the two contexts is inferred from their order."
+   ],
+   "plain_english": "In subjugation yellow is considered appropriate, and in the rite of dispelling, astringent-brown."
+  }
+ ]
+}

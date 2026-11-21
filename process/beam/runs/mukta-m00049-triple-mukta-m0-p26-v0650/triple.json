@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "vāmahaste",
+     "gloss": "in-left-hand",
+     "grounds": "locative of compound vāma-hasta indicating location",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund (sam-ā-√dā)"
+    },
+    {
+     "surface": "chādayet",
+     "gloss": "one-should-cover",
+     "grounds": "optative expressing ritual injunction",
+     "morph": "3.sg.act.opt (√chad)"
+    },
+    {
+     "surface": "dakṣapāṇinā",
+     "gloss": "with-right-hand",
+     "grounds": "instrumental of compound dakṣa-pāṇi indicating means",
+     "morph": "compound.ins.sg.m"
+    }
+   ],
+   "question": "By what manual procedure must the consecrated water be secured after mantra recitation?",
+   "premises": [
+    "The consecrated water is taken into the left hand.",
+    "The right hand serves as the instrument of covering.",
+    "Covering the held water is prescribed as the required action."
+   ],
+   "inference": "Therefore, after recitation the consecrated water must be held in the left hand and covered with the right hand.",
+   "uncertainties": [],
+   "plain_english": "Having taken it in the left hand, one should cover it with the right hand."
+  }
+ ]
+}

@@ -1,0 +1,1175 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2051,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental demonstrative referring to previously specified means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "ritual bathing act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrumental demonstrative referring to same or specified means",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "water-offering",
+     "grounds": "ritual oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act.opt caus. √nived"
+    }
+   ],
+   "question": "Which specified means governs both ritual bathing and water-offering?",
+   "premises": [
+    "Bathing should be performed with this specified means.",
+    "Water-offering should be offered with this specified means."
+   ],
+   "inference": "The same specified means applies to both bathing and the water-offering.",
+   "uncertainties": [
+    "The referent of anena is not explicit within this verse."
+   ],
+   "plain_english": "With this one should perform the bath, and with this one should offer the water-offering."
+  },
+  {
+   "verse": 2052,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśat",
+     "gloss": "twenty-eight",
+     "grounds": "numeral specifying extent",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow-lengths",
+     "grounds": "unit of measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "extent or dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-site",
+     "grounds": "holy place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vadarikāśramam",
+     "gloss": "badarikashrama",
+     "grounds": "name of the sacred site",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What extent and identity define the sacred site named Badarikashrama?",
+   "premises": [
+    "The measure is twenty-eight bow-lengths.",
+    "The sacred site is Badarikashrama."
+   ],
+   "inference": "Badarikashrama is identified as a sacred site measuring twenty-eight bow-lengths.",
+   "uncertainties": [
+    "The exact spatial interpretation of the measure is not specified."
+   ],
+   "plain_english": "The sacred site Badarikashrama measures twenty-eight bow-lengths."
+  },
+  {
+   "verse": 2053,
+   "rows": [
+    {
+     "surface": "go",
+     "gloss": "cow",
+     "grounds": "first member of compound",
+     "morph": "compound:go+first"
+    },
+    {
+     "surface": "sahasra",
+     "gloss": "thousand",
+     "grounds": "second member of compound",
+     "morph": "compound:sahasra+second"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāpyaṃ",
+     "gloss": "to-be-obtained",
+     "grounds": "attainable merit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāptaṃ",
+     "gloss": "obtained",
+     "grounds": "merit actually gained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.) gerund √snā"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.) gerund √arc"
+    },
+    {
+     "surface": "harerdine",
+     "gloss": "on-hari-day",
+     "grounds": "compound indicating sacred day of Hari",
+     "morph": "compound:hareḥ+first,dine+second n.loc.sg"
+    }
+   ],
+   "question": "What merit is gained by bathing and worshipping on Hari's day?",
+   "premises": [
+    "Bathing and worshipping are performed on Hari's day.",
+    "The merit equals that of a thousand cows."
+   ],
+   "inference": "One obtains the merit of giving a thousand cows by bathing and worshipping on Hari's day.",
+   "uncertainties": [
+    "The specific identity of Hari's day is not defined here."
+   ],
+   "plain_english": "By bathing and worshipping on Hari's day, one obtains the merit equivalent to giving a thousand cows."
+  },
+  {
+   "verse": 2054,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "single instance",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śatakoṭīnāṃ",
+     "gloss": "of-hundred-crores",
+     "grounds": "large numerical quantity",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "vratasya",
+     "gloss": "of-vow",
+     "grounds": "religious observance",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or merit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.act.opt √āp"
+    }
+   ],
+   "question": "What magnitude of vow-merit can be obtained by a single act?",
+   "premises": [
+    "A single act is performed.",
+    "The merit equals that of a hundred crore vows."
+   ],
+   "inference": "One may obtain the fruit of a hundred crore vows through that single act.",
+   "uncertainties": [
+    "The specific act yielding this merit is implied from context."
+   ],
+   "plain_english": "By that one act, one may obtain the fruit of a hundred crore vows."
+  },
+  {
+   "verse": 2055,
+   "rows": [
+    {
+     "surface": "prāsādena",
+     "gloss": "with-prasada-mantra",
+     "grounds": "ritual means, likely the Prasada mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped-well",
+     "grounds": "completed worship",
+     "morph": "(indecl.) gerund √arc"
+    },
+    {
+     "surface": "rudratvam",
+     "gloss": "rudra-hood",
+     "grounds": "state of becoming Rudra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhigacchati",
+     "gloss": "one-attains",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.act.pres √gam"
+    }
+   ],
+   "question": "What spiritual state is attained through worship with the Prasada?",
+   "premises": [
+    "Worship is performed well with the Prasada.",
+    "The attained state is Rudra-hood."
+   ],
+   "inference": "One attains Rudra-hood by worshipping well with the Prasada.",
+   "uncertainties": [
+    "Whether prāsādena refers to a mantra or a temple structure is context-dependent."
+   ],
+   "plain_english": "Having worshipped well with the Prasada, one attains Rudra-hood."
+  },
+  {
+   "verse": 2056,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.) gerund √pūj"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location previously indicated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraṃ",
+     "gloss": "rudra",
+     "grounds": "deity worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasannaṃ",
+     "gloss": "gracious",
+     "grounds": "favorable disposition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "epithet of Rudra",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which divine form is worshipped there as gracious supreme lord?",
+   "premises": [
+    "Worship is performed there.",
+    "The object of worship is Rudra, gracious and supreme lord."
+   ],
+   "inference": "At that place one worships Rudra as the gracious supreme lord.",
+   "uncertainties": [
+    "The location referred to by tatra depends on prior context."
+   ],
+   "plain_english": "Having worshipped there, one worships Rudra, the gracious supreme lord."
+  },
+  {
+   "verse": 2057,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.) gerund √pūj"
+    },
+    {
+     "surface": "namaskuryād",
+     "gloss": "one-should-bow",
+     "grounds": "prescriptive act of reverence",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "gośatānāṃ",
+     "gloss": "of-hundred-cows",
+     "grounds": "compound indicating quantity of cows",
+     "morph": "compound:go+first,śatānāṃ+second n.gen.pl"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or merit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-may-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.act.opt √labh"
+    }
+   ],
+   "question": "What merit results from worship followed by reverential bowing?",
+   "premises": [
+    "One worships and then bows in reverence.",
+    "The merit equals that of a hundred cows."
+   ],
+   "inference": "One may obtain the fruit of giving a hundred cows by worshipping and bowing.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped and bowed down, one may obtain the merit of giving a hundred cows."
+  },
+  {
+   "verse": 2058,
+   "rows": [
+    {
+     "surface": "kumāratīrthe",
+     "gloss": "at-kumara-tirtha",
+     "grounds": "sacred site named Kumara-tirtha",
+     "morph": "compound:kumāra+first,tīrthe+second n.loc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snāyād",
+     "gloss": "may-bathe",
+     "grounds": "ritual bathing",
+     "morph": "3.sg.act.opt √snā"
+    },
+    {
+     "surface": "gāṇapatyam",
+     "gloss": "ganapati-state",
+     "grounds": "attainment associated with Ganapati",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vindati",
+     "gloss": "obtains",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.act.pres √vid"
+    }
+   ],
+   "question": "What attainment follows from bathing at the sacred site Kumara-tirtha?",
+   "premises": [
+    "A person bathes at Kumara-tirtha.",
+    "The attainment is the state associated with Ganapati."
+   ],
+   "inference": "One who bathes at Kumara-tirtha obtains the state of Ganapati.",
+   "uncertainties": [],
+   "plain_english": "Whoever bathes at Kumara-tirtha obtains the state of Ganapati."
+  },
+  {
+   "verse": 2059,
+   "rows": [
+    {
+     "surface": "naramāraṇyakaṃ",
+     "gloss": "naramaranyaka",
+     "grounds": "name of the sacred site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-site",
+     "grounds": "holy place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva+deva",
+     "gloss": "all-gods",
+     "grounds": "compound indicating all deities",
+     "morph": "compound:sarva+first,deva+second"
+    },
+    {
+     "surface": "gaṇaiḥ",
+     "gloss": "by-groups",
+     "grounds": "hosts or groups",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vṛtam",
+     "gloss": "surrounded",
+     "grounds": "encompassed or attended",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the sacred site Naramaranyaka characterized in relation to divine hosts?",
+   "premises": [
+    "Naramaranyaka is a sacred site.",
+    "It is surrounded by groups of all gods."
+   ],
+   "inference": "Naramaranyaka is a sacred site attended by the hosts of all gods.",
+   "uncertainties": [],
+   "plain_english": "O goddess, the sacred site Naramaranyaka is surrounded by the hosts of all the gods."
+  },
+  {
+   "verse": 2060,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "sacred syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īṃ",
+     "gloss": "im",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hūṃ",
+     "gloss": "hum",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagadvyāpta",
+     "gloss": "world-pervading",
+     "grounds": "compound describing sin as spread through the world",
+     "morph": "compound:jagat+first,vyāpta+second"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "impurity or wrongdoing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hara",
+     "gloss": "remove",
+     "grounds": "imperative request",
+     "morph": "2.sg.act.imp √hṛ"
+    },
+    {
+     "surface": "kumāraka",
+     "gloss": "o-kumara",
+     "grounds": "vocative address to Kumara",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What request is made to Kumara regarding world-pervading sin?",
+   "premises": [
+    "The mantra invokes sacred syllables and addresses Kumara.",
+    "The request is to remove world-pervading sin."
+   ],
+   "inference": "Kumara is invoked through the mantra to remove world-pervading sin.",
+   "uncertainties": [],
+   "plain_english": "Om, om, im, hum—O Kumara, remove the world-pervading sin."
+  },
+  {
+   "verse": 2061,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location previously indicated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "deity present there",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahādevaḥ",
+     "gloss": "great-god",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthāṇuḥ",
+     "gloss": "sthanu",
+     "grounds": "name or epithet of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.pass.pres √dhā"
+    }
+   ],
+   "question": "By what name is the great god at that place designated?",
+   "premises": [
+    "A god is present there.",
+    "That great god is called Sthanu."
+   ],
+   "inference": "The great god at that place is designated as Sthanu.",
+   "uncertainties": [
+    "The location referred to by tatra depends on prior context."
+   ],
+   "plain_english": "There the god, the great god, is called Sthanu."
+  },
+  {
+   "verse": 2062,
+   "rows": [
+    {
+     "surface": "tat+vanaṃ",
+     "gloss": "that-forest",
+     "grounds": "compound referring to a specific forest",
+     "morph": "compound:tat+first,vanaṃ+second n.nom.sg"
+    },
+    {
+     "surface": "campakaṃ",
+     "gloss": "campaka",
+     "grounds": "name of the forest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "naming marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddha",
+     "gloss": "siddha",
+     "grounds": "first member of compound indicating accomplished beings",
+     "morph": "compound:siddha+first"
+    },
+    {
+     "surface": "brahma+ṛṣi",
+     "gloss": "brahma-sage",
+     "grounds": "compound indicating Brahma-sages",
+     "morph": "compound:brahma+first,ṛṣi+second"
+    },
+    {
+     "surface": "vanditam",
+     "gloss": "praised",
+     "grounds": "honored or revered",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and reverence characterize the forest mentioned there?",
+   "premises": [
+    "That forest is named Campaka.",
+    "It is praised by siddhas and Brahma-sages."
+   ],
+   "inference": "The forest called Campaka is revered by siddhas and Brahma-sages.",
+   "uncertainties": [],
+   "plain_english": "That forest, named Campaka, is praised by siddhas and Brahma-sages."
+  },
+  {
+   "verse": 2063,
+   "rows": [
+    {
+     "surface": "brahmakūṭasya",
+     "gloss": "of-brahmakuta",
+     "grounds": "name of a place or peak",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dhanade",
+     "gloss": "o-dhanada",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "rock or slab",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcaka",
+     "gloss": "fivefold",
+     "grounds": "group of five",
+     "morph": "compound:pañcaka+first"
+    },
+    {
+     "surface": "madhyagam",
+     "gloss": "situated-in-middle",
+     "grounds": "located in the middle",
+     "morph": "compound:madhya+first,gam+second n.nom.sg"
+    }
+   ],
+   "question": "Where is the stone situated in relation to Brahmakuta's fivefold formation?",
+   "premises": [
+    "The context concerns Brahmakuta.",
+    "A stone is situated in the middle of a fivefold formation."
+   ],
+   "inference": "At Brahmakuta there is a stone situated in the middle of a group of five.",
+   "uncertainties": [
+    "The exact nature of the fivefold formation is not specified."
+   ],
+   "plain_english": "O Dhanada, at Brahmakuta there is a stone situated in the middle of a group of five."
+  },
+  {
+   "verse": 2064,
+   "rows": [
+    {
+     "surface": "daśa+akṣareṇa",
+     "gloss": "with-ten-syllable",
+     "grounds": "compound describing the mantra",
+     "morph": "compound:daśa+first,akṣareṇa+second m.ins.sg"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "ritual formula",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.) gerund √snā"
+    },
+    {
+     "surface": "kāmān",
+     "gloss": "desires",
+     "grounds": "objects of desire",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.act.opt √āp"
+    }
+   ],
+   "question": "What result follows from bathing with the ten-syllable mantra?",
+   "premises": [
+    "One bathes using the ten-syllable mantra.",
+    "The result is the attainment of desires."
+   ],
+   "inference": "Bathing with the ten-syllable mantra enables one to obtain desires.",
+   "uncertainties": [
+    "The specific ten-syllable mantra is not identified here."
+   ],
+   "plain_english": "Having bathed with the ten-syllable mantra, one may obtain one's desires."
+  },
+  {
+   "verse": 2065,
+   "rows": [
+    {
+     "surface": "trikṛtvā",
+     "gloss": "three-times",
+     "grounds": "repetition of an action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "alternative count or element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "also",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "with-black",
+     "grounds": "first member describing flowers",
+     "morph": "compound:kṛṣṇa+first"
+    },
+    {
+     "surface": "vijaya+puṣpakaiḥ",
+     "gloss": "vijaya-flowers",
+     "grounds": "compound indicating vijaya flowers",
+     "morph": "compound:vijaya+first,puṣpakaiḥ+second n.ins.pl"
+    }
+   ],
+   "question": "What ritual options involving repetition and vijaya flowers are prescribed?",
+   "premises": [
+    "An action may be done three times or as a fifth.",
+    "Black vijaya flowers are used."
+   ],
+   "inference": "The ritual allows repetition three times or a fifth alternative using black vijaya flowers.",
+   "uncertainties": [
+    "The exact action being repeated is supplied by context."
+   ],
+   "plain_english": "Three times, or also as a fifth, with black vijaya flowers."
+  },
+  {
+   "verse": 2066,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual act",
+     "morph": "(indecl.) gerund √pūj"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deity worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "the worshipper",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śruti+dharaḥ",
+     "gloss": "veda-knower",
+     "grounds": "compound indicating one who holds sacred knowledge",
+     "morph": "compound:śruti+first,dharaḥ+second m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What knowledge attainment follows from worshipping the supreme god?",
+   "premises": [
+    "A person worships the supreme god.",
+    "The result is becoming a knower of sacred knowledge."
+   ],
+   "inference": "By worshipping the supreme god, a person becomes a knower of sacred knowledge.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped the supreme god, a person becomes a knower of sacred knowledge."
+  },
+  {
+   "verse": 2067,
+   "rows": [
+    {
+     "surface": "sā+api",
+     "gloss": "she-also",
+     "grounds": "compound including emphatic particle",
+     "morph": "compound:sā+first,api+second f.nom.sg"
+    },
+    {
+     "surface": "tat+gatim",
+     "gloss": "that-state",
+     "grounds": "compound referring to the same attainment",
+     "morph": "compound:tat+first,gatim+second f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "attainment",
+     "morph": "3.sg.act.pres √āp"
+    },
+    {
+     "surface": "śarat+kāle",
+     "gloss": "in-autumn-time",
+     "grounds": "compound indicating season",
+     "morph": "compound:śarat+first,kāle+second m.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphatic qualification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what seasonal condition does she also obtain that same state?",
+   "premises": [
+    "She also obtains that same state.",
+    "This attainment is especially in autumn."
+   ],
+   "inference": "She too obtains that state, especially during the autumn season.",
+   "uncertainties": [
+    "The identity of sā and the specific state depend on prior context."
+   ],
+   "plain_english": "She also obtains that state, especially in the autumn season."
+  },
+  {
+   "verse": 2068,
+   "rows": [
+    {
+     "surface": "bilva+patreṇa",
+     "gloss": "with-bilva-leaf",
+     "grounds": "compound indicating ritual offering material",
+     "morph": "compound:bilva+first,patreṇa+second n.ins.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śāśvatīṃ",
+     "gloss": "eternal",
+     "grounds": "lasting or perpetual",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "perfection",
+     "grounds": "spiritual accomplishment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "potential attainment",
+     "morph": "3.sg.act.opt √āp"
+    }
+   ],
+   "question": "What lasting accomplishment is gained through offering with a bilva leaf?",
+   "premises": [
+    "An offering is made with a bilva leaf.",
+    "The attainment is eternal perfection."
+   ],
+   "inference": "One may obtain eternal perfection by offering with a bilva leaf.",
+   "uncertainties": [
+    "The specific ritual act performed with the bilva leaf is implied by context."
+   ],
+   "plain_english": "O lady of the gods, with a bilva leaf one may obtain eternal perfection."
+  },
+  {
+   "verse": 2069,
+   "rows": [
+    {
+     "surface": "kaulaḥ",
+     "gloss": "kaula",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuśailaḥ",
+     "gloss": "vishnushaila",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṅkaraḥ",
+     "gloss": "shankara",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "name or epithet in a list",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sacred figures or sites are enumerated in this sequence?",
+   "premises": [
+    "Kaula and Vishnushaila are named.",
+    "Shankara and Parameshvara are named."
+   ],
+   "inference": "The verse enumerates Kaula, Vishnushaila, Shankara, and Parameshvara.",
+   "uncertainties": [
+    "Whether these are deities, mountains, or sites depends on surrounding context."
+   ],
+   "plain_english": "Kaula, Vishnushaila, Shankara, and Parameshvara."
+  },
+  {
+   "verse": 2070,
+   "rows": [
+    {
+     "surface": "nīlaśvetaḥ",
+     "gloss": "nilashveta",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhū+bhāge",
+     "gloss": "on-earth-part",
+     "grounds": "compound indicating a region of earth",
+     "morph": "compound:bhū+first,bhāge+second m.loc.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃsthita+acalaḥ",
+     "gloss": "situated-mountain",
+     "grounds": "compound indicating a mountain situated there",
+     "morph": "compound:saṃsthita+first,acalaḥ+second m.nom.sg"
+    }
+   ],
+   "question": "Where is the mountain named Nilashveta located geographically?",
+   "premises": [
+    "Nilashveta is a situated mountain.",
+    "Its location is in the northern region of the earth."
+   ],
+   "inference": "The mountain Nilashveta is situated in the northern part of the earth.",
+   "uncertainties": [],
+   "plain_english": "Nilashveta is the mountain situated in the northern region of the earth."
+  },
+  {
+   "verse": 2071,
+   "rows": [
+    {
+     "surface": "kamalaḥ",
+     "gloss": "kamala",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "shikha",
+     "grounds": "name in a list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapotaḥ",
+     "gloss": "kapota",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maruta+acalaḥ",
+     "gloss": "maruta-mountain",
+     "grounds": "compound naming a mountain",
+     "morph": "compound:maruta+first,acalaḥ+second m.nom.sg"
+    }
+   ],
+   "question": "Which mountains are enumerated together in this directional listing?",
+   "premises": [
+    "Kamala and Shikha are named.",
+    "Kapota and Maruta-mountain are named."
+   ],
+   "inference": "The verse enumerates Kamala, Shikha, Kapota, and Maruta-mountain.",
+   "uncertainties": [
+    "The directional association may be clarified by adjacent verses."
+   ],
+   "plain_english": "Kamala, Shikha, Kapota, and Maruta-mountain."
+  },
+  {
+   "verse": 2072,
+   "rows": [
+    {
+     "surface": "dyumantaḥ",
+     "gloss": "dyumant",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kanakaḥ",
+     "gloss": "kanaka",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyavyo",
+     "gloss": "in-northwest",
+     "grounds": "directional location",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nīlalohitaḥ",
+     "gloss": "nilalohita",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mountains are associated with the northwest direction here?",
+   "premises": [
+    "Dyumant and Kanaka are named.",
+    "Nilalohita is named in the northwest."
+   ],
+   "inference": "Dyumant, Kanaka, and Nilalohita are enumerated in association with the northwest.",
+   "uncertainties": [
+    "The exact syntactic grouping of vāyavyo with the names is slightly ambiguous."
+   ],
+   "plain_english": "Dyumant, Kanaka, and Nilalohita in the northwest."
+  },
+  {
+   "verse": 2073,
+   "rows": [
+    {
+     "surface": "lohitaḥ",
+     "gloss": "lohita",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kamalaḥ",
+     "gloss": "kamala",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nair-ṛte",
+     "gloss": "in-southwest",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nir-ṛtiḥ",
+     "gloss": "nirriti",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mountains are associated with the southwest direction here?",
+   "premises": [
+    "Lohita and Kamala are named.",
+    "Nirriti is named in the southwest."
+   ],
+   "inference": "Lohita, Kamala, and Nirriti are enumerated in association with the southwest.",
+   "uncertainties": [],
+   "plain_english": "Lohita, Kamala, and likewise Nirriti in the southwest."
+  },
+  {
+   "verse": 2074,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmayūpaḥ",
+     "gloss": "brahmayupa",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hayamedhaḥ",
+     "gloss": "hayamedha",
+     "grounds": "name in a list",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "girīśvaraḥ",
+     "gloss": "lord-of-mountains",
+     "grounds": "name or epithet in a list",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mountains are associated with the western direction here?",
+   "premises": [
+    "The location is the west.",
+    "Brahmayupa, Hayamedha, and Girishvara are named."
+   ],
+   "inference": "Brahmayupa, Hayamedha, and Girishvara are enumerated in the west.",
+   "uncertainties": [],
+   "plain_english": "In the west are Brahmayupa, Hayamedha, and Girishvara."
+  }
+ ]
+}

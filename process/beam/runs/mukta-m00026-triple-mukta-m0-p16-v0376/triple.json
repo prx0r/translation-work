@@ -1,0 +1,1069 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 376,
+   "rows": [
+    {
+     "surface": "gāyatrījapakāle",
+     "gloss": "at-gayatri-recitation-time",
+     "grounds": "compound: gāyatrī-japa-kāle",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhikā",
+     "gloss": "female-practitioner",
+     "grounds": "subject of inquiry",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "o-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What mantra must a female practitioner recite during the Gāyatrī recitation period?",
+   "premises": [
+    "The context is the time of Gāyatrī recitation.",
+    "A female practitioner seeks specific instruction.",
+    "The lord is addressed for authoritative guidance."
+   ],
+   "inference": "The appropriate recitation for a female practitioner at Gāyatrī time requires explicit prescription.",
+   "uncertainties": [],
+   "plain_english": "But, O lord, what should the female practitioner recite at the time of Gāyatrī recitation?"
+  },
+  {
+   "verse": 377,
+   "rows": [
+    {
+     "surface": "pūrvoktena",
+     "gloss": "by-previously-stated",
+     "grounds": "compound: pūrva-uktena",
+     "morph": "compound.inst.sg.n"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "by-method",
+     "grounds": "instrument of procedure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior action",
+     "morph": "absolutive √dhyai"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "prior action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "object of kṛtvā",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which preparatory ritual actions must precede the prescribed recitation practice?",
+   "premises": [
+    "A previously stated method is to be followed.",
+    "Meditation must be performed first.",
+    "Worship must also be performed."
+   ],
+   "inference": "The practitioner must meditate and perform worship according to the previously stated method before proceeding.",
+   "uncertainties": [],
+   "plain_english": "Having meditated and performed worship according to the previously stated method."
+  },
+  {
+   "verse": 378,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhadinaṃ",
+     "gloss": "sixth-day",
+     "grounds": "compound: ṣaṣṭha-dinam",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-reached",
+     "grounds": "prior action",
+     "morph": "absolutive √prāp"
+    },
+    {
+     "surface": "prātaḥ",
+     "gloss": "in-morning",
+     "grounds": "time of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "object of action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative sam-ā-√car"
+    }
+   ],
+   "question": "What ritual action must be performed on the sixth day of the observance?",
+   "premises": [
+    "The sequence continues after prior rites.",
+    "The sixth day is reached.",
+    "A morning bath is prescribed."
+   ],
+   "inference": "Upon reaching the sixth day, one should perform a morning bath.",
+   "uncertainties": [],
+   "plain_english": "Then, having reached the sixth day, one should perform a bath in the morning."
+  },
+  {
+   "verse": 379,
+   "rows": [
+    {
+     "surface": "kūrmabījaṃ",
+     "gloss": "tortoise-seed-syllable",
+     "grounds": "compound: kūrma-bījam",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "likhed",
+     "gloss": "one-should-write",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative √likh"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fair-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvetacandanaiḥ",
+     "gloss": "with-white-sandalwood",
+     "grounds": "compound: śveta-candanaiḥ; instrument",
+     "morph": "compound.inst.pl.n"
+    }
+   ],
+   "question": "What sacred mark should be written and with what substance as an alternative?",
+   "premises": [
+    "The tortoise seed-syllable is to be written.",
+    "The instruction is addressed to the fair one.",
+    "White sandalwood is offered as an alternative material."
+   ],
+   "inference": "One should write the tortoise seed-syllable, or do so with white sandalwood.",
+   "uncertainties": [
+    "Whether śvetacandanaiḥ specifies the writing material or an alternative substance is context-dependent."
+   ],
+   "plain_english": "O fair one, one should write the tortoise seed-syllable, or with white sandalwood."
+  },
+  {
+   "verse": 380,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "absolutive vi-√dhā"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhvī",
+     "gloss": "virtuous-woman",
+     "grounds": "qualified subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhako'pi",
+     "gloss": "male-practitioner-also",
+     "grounds": "fused token with sandhi marker @: sādhakaḥ + api",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "prasannadhīḥ",
+     "gloss": "with-pleased-mind",
+     "grounds": "compound: prasanna-dhīḥ",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What mental disposition must both female and male practitioners maintain after completing the rite?",
+   "premises": [
+    "The prescribed actions have been thus performed.",
+    "The virtuous woman is included.",
+    "The male practitioner is also included."
+   ],
+   "inference": "Both the virtuous woman and the male practitioner should proceed with a pleased mind after performing the rite.",
+   "uncertainties": [],
+   "plain_english": "Having done thus, that virtuous woman, and also the male practitioner, with a pleased mind."
+  },
+  {
+   "verse": 381,
+   "rows": [
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "quantity of recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "puraścaryāvidhau",
+     "gloss": "in-preliminary-rite-procedure",
+     "grounds": "compound: puraścaryā-vidhau",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "vidhividhānataḥ",
+     "gloss": "according-to-rule-prescription",
+     "grounds": "compound: vidhi-vidhānataḥ",
+     "morph": "compound.(indecl.)"
+    }
+   ],
+   "question": "How many recitations are required in the preliminary rite according to prescribed rules?",
+   "premises": [
+    "Recitation is prescribed.",
+    "The context is the preliminary rite procedure.",
+    "The action must follow rule and prescription."
+   ],
+   "inference": "One should recite one hundred thousand times in the preliminary rite according to the prescribed rules.",
+   "uncertainties": [],
+   "plain_english": "One should recite one hundred thousand times in the procedure of the preliminary rite, according to the prescribed rules."
+  },
+  {
+   "verse": 382,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "bīja/mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "bīja/mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ka/",
+     "gloss": "ka",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hu/",
+     "gloss": "hu",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bha/",
+     "gloss": "bha",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa/",
+     "gloss": "sa",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prātaḥ",
+     "gloss": "morning",
+     "grounds": "time element in compound context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snānottara",
+     "gloss": "after-bath",
+     "grounds": "compound: snāna-uttara",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifier",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mantra syllables and timing are specified for the supreme morning recitation?",
+   "premises": [
+    "Specific bīja syllables are enumerated.",
+    "The goddess is addressed.",
+    "The timing is after the morning bath."
+   ],
+   "inference": "The supreme recitation after the morning bath involves the syllables oṃ oṃ ka hu bha sa addressed to the goddess.",
+   "uncertainties": [
+    "The exact syntactic role of prātaḥ snānottara param in this verse is compressed and may depend on following context."
+   ],
+   "plain_english": "Oṃ, oṃ, ka, hu, bha, sa, O goddess, supreme after the morning bath."
+  },
+  {
+   "verse": 383,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then-and",
+     "grounds": "fused: tataḥ + ca",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "prajapenmantraṃ",
+     "gloss": "should-recite-mantra",
+     "grounds": "fused: prajapet + mantram",
+     "morph": "3.sg.act-optative pra-√jap + n.acc.sg"
+    },
+    {
+     "surface": "maunī",
+     "gloss": "observing-silence",
+     "grounds": "state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhyandināvadhi",
+     "gloss": "until-midday",
+     "grounds": "compound: madhyandina-avadhi",
+     "morph": "compound.(indecl.)"
+    }
+   ],
+   "question": "Under what condition and until what time must the mantra be recited after the morning rite?",
+   "premises": [
+    "The recitation follows the previous step.",
+    "The practitioner must observe silence.",
+    "The recitation continues until midday."
+   ],
+   "inference": "Then, observing silence, one should recite the mantra until midday.",
+   "uncertainties": [],
+   "plain_english": "Then, observing silence, one should recite the mantra until midday."
+  },
+  {
+   "verse": 384,
+   "rows": [
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "male-practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivarūpaśca",
+     "gloss": "shiva-form-and",
+     "grounds": "fused: śivarūpaḥ + ca; compound śiva-rūpaḥ",
+     "morph": "compound.nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "sādhikā",
+     "gloss": "female-practitioner",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivarūpiṇī",
+     "gloss": "having-shiva-form",
+     "grounds": "compound: śiva-rūpiṇī",
+     "morph": "compound.nom.sg.f"
+    }
+   ],
+   "question": "What divine identity must male and female practitioners assume during the recitation?",
+   "premises": [
+    "The male practitioner is identified as having Śiva's form.",
+    "The female practitioner is identified as having Śiva's form.",
+    "Both identities are affirmed together."
+   ],
+   "inference": "During the practice, the male practitioner is of Śiva's form and the female practitioner is of Śiva's form.",
+   "uncertainties": [],
+   "plain_english": "The male practitioner is of Śiva's form, and the female practitioner is of Śiva's form."
+  },
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "ādāvante",
+     "gloss": "at-beginning-and-end",
+     "grounds": "compound: ādau-ante",
+     "morph": "compound.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "pranava",
+     "grounds": "object placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "absolutive √dā"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative √jap"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How must the wise practitioner frame the mantra with the praṇava during recitation?",
+   "premises": [
+    "The praṇava is to be placed.",
+    "It must be placed at the beginning and end.",
+    "The wise one should then recite the mantra."
+   ],
+   "inference": "The wise practitioner should recite the mantra after placing the praṇava at its beginning and end.",
+   "uncertainties": [],
+   "plain_english": "The wise one should place the praṇava at the beginning and end and recite the mantra."
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "prātaḥkālaṃ",
+     "gloss": "morning-time",
+     "grounds": "compound: prātaḥ-kālam",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "prior action",
+     "morph": "absolutive sam-ā-√rabh"
+    },
+    {
+     "surface": "japenmadhyandināvadhi",
+     "gloss": "should-recite-until-midday",
+     "grounds": "fused: japet + madhyandina-avadhi",
+     "morph": "3.sg.act-optative √jap + compound.(indecl.)"
+    }
+   ],
+   "question": "What time span defines the daily period for the prescribed mantra recitation?",
+   "premises": [
+    "Recitation begins at morning time.",
+    "The recitation continues for a defined duration.",
+    "The endpoint is midday."
+   ],
+   "inference": "One should begin at morning time and recite until midday.",
+   "uncertainties": [],
+   "plain_english": "Beginning at morning time, one should recite until midday."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "dvitīyapraharādūrdhvaṃ",
+     "gloss": "after-second-watch",
+     "grounds": "compound: dvitīya-praharāt-ūrdhvam",
+     "morph": "compound.(indecl.)"
+    },
+    {
+     "surface": "nityapūjādikaṃ",
+     "gloss": "daily-worship-and-so-on",
+     "grounds": "compound: nitya-pūjā-ādikam",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative √car"
+    }
+   ],
+   "question": "What ritual duties must be performed after the second watch of the day?",
+   "premises": [
+    "A specific time threshold is given as after the second watch.",
+    "Daily worship and related acts are indicated.",
+    "These acts are to be performed."
+   ],
+   "inference": "After the second watch, one should perform daily worship and related rites.",
+   "uncertainties": [],
+   "plain_english": "After the second watch, one should perform daily worship and so forth."
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "tatpatnī",
+     "gloss": "his-wife",
+     "grounds": "compound: tat-patnī",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "śaktirūpā",
+     "gloss": "having-shakti-form",
+     "grounds": "compound: śakti-rūpā",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātivratyaparāyaṇā",
+     "gloss": "devoted-to-conjugal-fidelity",
+     "grounds": "compound: pātivratya-parāyaṇā",
+     "morph": "compound.nom.sg.f"
+    }
+   ],
+   "question": "What identity and virtue must the practitioner's wife embody in this ritual context?",
+   "premises": [
+    "The practitioner's wife is mentioned.",
+    "She is identified as having the form of Śakti.",
+    "She is devoted to conjugal fidelity."
+   ],
+   "inference": "The practitioner's wife should be regarded as Śakti's form and devoted to conjugal fidelity.",
+   "uncertainties": [],
+   "plain_english": "His wife is of the form of Śakti and devoted to conjugal fidelity."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "daśadaṇḍagate",
+     "gloss": "when-ten-dandas-passed",
+     "grounds": "compound: daśa-daṇḍa-gate",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śayyāyāṃ",
+     "gloss": "on-bed",
+     "grounds": "place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "prajapenmanum",
+     "gloss": "should-recite-mantra",
+     "grounds": "fused: prajapet + manum",
+     "morph": "3.sg.act-optative pra-√jap + m.acc.sg"
+    }
+   ],
+   "question": "At what nighttime moment and location should the mantra be recited?",
+   "premises": [
+    "The time is after ten daṇḍas have passed at night.",
+    "The location is on the bed.",
+    "Mantra recitation is prescribed."
+   ],
+   "inference": "When ten daṇḍas have passed at night, one should recite the mantra on the bed.",
+   "uncertainties": [],
+   "plain_english": "When ten daṇḍas have passed at night, one should recite the mantra on the bed."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīśaktirūpā",
+     "gloss": "auspicious-shakti-form",
+     "grounds": "compound: śrī-śakti-rūpā",
+     "morph": "compound.nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japecca",
+     "gloss": "should-recite-and",
+     "grounds": "fused: japet + ca",
+     "morph": "3.sg.act-optative √jap + (indecl.)"
+    },
+    {
+     "surface": "sādhakākṣaram",
+     "gloss": "practitioner-syllable",
+     "grounds": "compound: sādhaka-akṣaram",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "What syllable must be recited beside the partner identified as auspicious Śakti's form?",
+   "premises": [
+    "The partner on the left is identified as auspicious Śakti's form.",
+    "Recitation is prescribed.",
+    "The object of recitation is the practitioner's syllable."
+   ],
+   "inference": "With the one on the left as auspicious Śakti's form, one should recite the practitioner's syllable.",
+   "uncertainties": [],
+   "plain_english": "On the left, she being of the form of auspicious Śakti, one should recite the practitioner's syllable."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "ādyantagopanaṃ",
+     "gloss": "beginning-end-concealment",
+     "grounds": "compound: ādi-anta-gopanam",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajaped",
+     "gloss": "should-recite",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative pra-√jap"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what daily recitation condition must the mantra be concealed at beginning and end?",
+   "premises": [
+    "Concealment at beginning and end is performed.",
+    "The practice is done every day.",
+    "Recitation is conditional."
+   ],
+   "inference": "If one recites every day, one should do so after concealing the mantra at beginning and end.",
+   "uncertainties": [],
+   "plain_english": "If one recites every day, having concealed it at the beginning and end, one should recite."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "mātṛkāpuṭitaṃ",
+     "gloss": "enclosed-by-matrika",
+     "grounds": "compound: mātṛkā-puṭitam",
+     "morph": "compound.acc.sg.n"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action",
+     "morph": "absolutive √kṛ"
+    },
+    {
+     "surface": "candrabindusamanvitam",
+     "gloss": "endowed-with-moon-and-dot",
+     "grounds": "compound: candra-bindu-samanvitam",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "What ritual modifications must be applied to the mantra before daily recitation?",
+   "premises": [
+    "The mantra is to be enclosed by the mātṛkā.",
+    "It is to be endowed with moon and dot.",
+    "These modifications are preparatory actions."
+   ],
+   "inference": "Before recitation, the mantra should be made enclosed by the mātṛkā and endowed with the moon and dot.",
+   "uncertainties": [],
+   "plain_english": "Having enclosed it with the mātṛkā and endowed it with the moon and dot."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "japādau",
+     "gloss": "at-recitation-beginning",
+     "grounds": "compound: japa-ādau",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "subhage",
+     "gloss": "o-fortunate-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "prauḍhe",
+     "gloss": "o-mature-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajapenmanum",
+     "gloss": "should-recite-mantra",
+     "grounds": "fused: prajapet + manum",
+     "morph": "3.sg.act-optative pra-√jap + m.acc.sg"
+    }
+   ],
+   "question": "When and how often must the prepared mantra be recited by the addressed practitioner?",
+   "premises": [
+    "The recitation occurs at the beginning of japa.",
+    "The instruction is addressed to the fortunate and mature one.",
+    "The practice is to be done every day."
+   ],
+   "inference": "At the beginning of recitation, the fortunate, mature one should recite the mantra every day.",
+   "uncertainties": [],
+   "plain_english": "O fortunate one, O mature one, at the beginning of recitation one should recite the mantra every day."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "samāpte",
+     "gloss": "when-completed",
+     "grounds": "temporal condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puraścaraṇe",
+     "gloss": "preliminary-rite",
+     "grounds": "completed rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gurudevaṃ",
+     "gloss": "guru-god",
+     "grounds": "compound: guru-devam",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative pra-√pūj"
+    }
+   ],
+   "question": "What obligatory act must follow the completion of the preliminary rite?",
+   "premises": [
+    "The preliminary rite is completed.",
+    "The guru-god is the object of worship.",
+    "Worship is prescribed."
+   ],
+   "inference": "When the preliminary rite is completed, one should worship the guru-god.",
+   "uncertainties": [],
+   "plain_english": "When the preliminary rite is completed, one should worship the guru-god."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "jambūdvīpasya",
+     "gloss": "of-jambudvipa",
+     "grounds": "compound: jambū-dvīpasya",
+     "morph": "compound.gen.sg.m"
+    },
+    {
+     "surface": "varṣe",
+     "gloss": "in-region",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalikāle",
+     "gloss": "in-kali-age",
+     "grounds": "compound: kali-kāle",
+     "morph": "compound.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhārate",
+     "gloss": "in-bharata",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which geographical and temporal setting do the following ritual rules apply?",
+   "premises": [
+    "The region of Jambūdvīpa is specified.",
+    "The age of Kali is specified.",
+    "The land of Bhārata is specified."
+   ],
+   "inference": "The following rules apply in the region of Jambūdvīpa, in the Kali age, in Bhārata.",
+   "uncertainties": [],
+   "plain_english": "In the region of Jambūdvīpa, and in the Kali age, and in Bhārata."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "compound: daśa-aṃśam",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "kramato",
+     "gloss": "in-order",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pañcāṅgavidhinā",
+     "gloss": "by-five-limb-method",
+     "grounds": "compound: pañca-aṅga-vidhinā",
+     "morph": "compound.inst.sg.m"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "time",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What proportional recitation method is prescribed in the Kali age using the five-limb procedure?",
+   "premises": [
+    "A tenth part is specified.",
+    "The procedure follows an order.",
+    "The five-limb method is used in the Kali age."
+   ],
+   "inference": "In the Kali age, one should perform a tenth part in order by the five-limb method.",
+   "uncertainties": [
+    "The exact object of daśāṃśaṃ (e.g. of japa or homa) is implied by context."
+   ],
+   "plain_english": "O goddess, in the Kali age, a tenth part in order by the five-limb method."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "bhramād",
+     "gloss": "by-error",
+     "grounds": "cause",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-to-do",
+     "grounds": "causative prescriptive verb",
+     "morph": "3.sg.act-optative caus. √kṛ"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound: sādhaka-uttamaḥ",
+     "morph": "compound.nom.sg.m"
+    }
+   ],
+   "question": "What remedial action may the best practitioner undertake if a ritual error occurs?",
+   "premises": [
+    "An error may occur.",
+    "The situation is addressed to the great goddess.",
+    "The best practitioner may act to remedy it."
+   ],
+   "inference": "If by error something occurs, the best practitioner should cause the appropriate remedial action to be done.",
+   "uncertainties": [
+    "The specific object of kārayet is not explicit in this verse alone."
+   ],
+   "plain_english": "O great goddess, if by error, the best practitioner should cause it to be done."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "daśāṃśaṃ",
+     "gloss": "tenth-part",
+     "grounds": "compound: daśa-aṃśam",
+     "morph": "compound.nom.sg.n"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.mid-present √jan"
+    },
+    {
+     "surface": "pūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "resulting state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gurudevasya",
+     "gloss": "of-guru-god",
+     "grounds": "compound: guru-devasya",
+     "morph": "compound.gen.sg.m"
+    },
+    {
+     "surface": "pūjanāt",
+     "gloss": "by-worship",
+     "grounds": "cause/instrument",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "How does worship of the guru-god complete the required tenth-part observance?",
+   "premises": [
+    "The tenth part is the subject.",
+    "Completion is achieved.",
+    "Worship of the guru-god is the cause."
+   ],
+   "inference": "The tenth part becomes complete through worship of the guru-god.",
+   "uncertainties": [],
+   "plain_english": "The tenth part becomes complete by worship of the guru-god."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "offering-fee",
+     "grounds": "object to be given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gurave",
+     "gloss": "to-guru",
+     "grounds": "recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive verb",
+     "morph": "3.sg.act-optative √dā"
+    },
+    {
+     "surface": "suvarṇaṃ",
+     "gloss": "gold",
+     "grounds": "item given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāsasānvitam",
+     "gloss": "endowed-with-garment",
+     "grounds": "compound: vāsasā-anvitam",
+     "morph": "compound.acc.sg.n"
+    }
+   ],
+   "question": "What offerings must be given to the guru as dakṣiṇā after the rite?",
+   "premises": [
+    "A dakṣiṇā is to be given to the guru.",
+    "Gold is specified.",
+    "The offering is accompanied by a garment."
+   ],
+   "inference": "One should give the guru a dakṣiṇā of gold together with a garment.",
+   "uncertainties": [],
+   "plain_english": "One should give the guru a dakṣiṇā of gold together with a garment."
+  }
+ ]
+}

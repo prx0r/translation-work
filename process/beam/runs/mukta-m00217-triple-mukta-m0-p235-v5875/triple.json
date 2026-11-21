@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p235",
+ "items": [
+  {
+   "verse": 5875,
+   "rows": [
+    {
+     "surface": "mārjayitvā",
+     "gloss": "having-wiped",
+     "grounds": "absolutive expressing prior act of cleansing",
+     "morph": "gerund √mṛj"
+    },
+    {
+     "surface": "upalipyātha",
+     "gloss": "having-anointed-then",
+     "grounds": "fused form of absolutive upalipya and particle atha indicating sequence",
+     "morph": "gerund √lip+upa + (indecl.)"
+    },
+    {
+     "surface": "bhaktiyuktastu",
+     "gloss": "endowed-with-devotion-and",
+     "grounds": "fused form of compound bhakti-yuktaḥ and particle tu",
+     "morph": "bhakti+member-yukta+member.nom.sg.m. + (indecl.)"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "with-powers",
+     "grounds": "instrumental denoting means or accompaniment in the ritual act",
+     "morph": "inst.pl.f."
+    }
+   ],
+   "question": "What purificatory acts must the devotion-endowed practitioner perform with the powers before worship?",
+   "premises": [
+    "The practitioner has already risen, discarded night garments, and put on fresh clothes.",
+    "The practitioner must perform wiping as a preparatory act.",
+    "The practitioner must then perform anointing while endowed with devotion and accompanied by the powers."
+   ],
+   "inference": "Therefore, ritual preparation requires sequential cleansing and anointing performed with devotion and the powers.",
+   "uncertainties": [
+    "The specific identity or nature of the śaktibhiḥ in this ritual context is not specified in this verse."
+   ],
+   "plain_english": "Having wiped and then anointed, the one endowed with devotion should proceed with the powers."
+  }
+ ]
+}

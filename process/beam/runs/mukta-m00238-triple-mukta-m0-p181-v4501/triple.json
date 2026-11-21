@@ -1,0 +1,746 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4501,
+   "rows": [
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgayā",
+     "gloss": "hunting",
+     "grounds": "instrumental noun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "yuktassa",
+     "gloss": "engaged-in",
+     "grounds": "past participle fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sālvo",
+     "gloss": "salva",
+     "grounds": "proper noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyabhave",
+     "gloss": "became-not",
+     "grounds": "negative verb",
+     "morph": "3.sg.act-past"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What rebirth is assigned to one constantly engaged in hunting?",
+   "premises": [
+    "constant hunting is named",
+    "a specific rebirth follows",
+    "the verse states consequence"
+   ],
+   "inference": "The verse links habitual hunting to a stated rebirth outcome.",
+   "uncertainties": [
+    "exact sandhi and compound boundaries are not expanded"
+   ],
+   "plain_english": "One who is always engaged in hunting becomes a salva."
+  },
+  {
+   "verse": 4502,
+   "rows": [
+    {
+     "surface": "calacittassatkriyāsubhavenyasmin",
+     "gloss": "restless-mind-good-deeds",
+     "grounds": "fused compound phrase",
+     "morph": "compound"
+    },
+    {
+     "surface": "mṛgo",
+     "gloss": "deer",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hisaḥ",
+     "gloss": "slayer",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What animal rebirth follows from a restless mind and good deeds?",
+   "premises": [
+    "restless mind is named",
+    "good deeds are named",
+    "deer slayer is named"
+   ],
+   "inference": "The verse assigns a deer-related rebirth to the described person.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "With restless mind and good deeds, one becomes a deer slayer."
+  },
+  {
+   "verse": 4503,
+   "rows": [
+    {
+     "surface": "parabudhdhyāyastu",
+     "gloss": "other-intelligence",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jīvedbuddhihīnaḥ",
+     "gloss": "lives-intelligence-lacking",
+     "grounds": "fused verb and adjective",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śuko",
+     "gloss": "parrot",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What rebirth is given to one living by another's intelligence?",
+   "premises": [
+    "other intelligence is named",
+    "intelligence lacking is named",
+    "parrot is named"
+   ],
+   "inference": "The verse assigns parrot rebirth to one lacking own intelligence.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "One who lives by another's intelligence becomes a parrot."
+  },
+  {
+   "verse": 4504,
+   "rows": [
+    {
+     "surface": "patiṃsaṃbhartsayānāstrī",
+     "gloss": "wife-scolding",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "poṭā",
+     "gloss": "pot",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyasminbhavebhavet",
+     "gloss": "in-birth-would-be",
+     "grounds": "fused locative and verb",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What rebirth follows from a wife who scolds her husband?",
+   "premises": [
+    "wife scolding is named",
+    "pot is named",
+    "birth result is named"
+   ],
+   "inference": "The verse assigns a pot-related rebirth to the scolding wife.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "A wife who scolds her husband becomes a pot."
+  },
+  {
+   "verse": 4505,
+   "rows": [
+    {
+     "surface": "ekāśītitamegehe",
+     "gloss": "eighty-first-house",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "patiṃhitvā",
+     "gloss": "leaving-husband",
+     "grounds": "absolutive verb",
+     "morph": "abs"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "another",
+     "grounds": "accusative adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "naram",
+     "gloss": "man",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What happens in the eighty-first house when a wife leaves her husband?",
+   "premises": [
+    "eighty-first house is named",
+    "leaving husband is named",
+    "another man is named"
+   ],
+   "inference": "The verse describes a wife leaving her husband for another man in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the eighty-first house, a wife leaves her husband for another man."
+  },
+  {
+   "verse": 4506,
+   "rows": [
+    {
+     "surface": "aśītitamasaṃkhyāke",
+     "gloss": "eightieth-numbered",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadane",
+     "gloss": "house",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vakṣyatedhunā",
+     "gloss": "will-be-said-now",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "What is said now about the eightieth-numbered house?",
+   "premises": [
+    "eightieth numbered is named",
+    "house is named",
+    "will be said now is named"
+   ],
+   "inference": "The verse introduces a statement about the eightieth house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "Now the eightieth-numbered house will be described."
+  },
+  {
+   "verse": 4507,
+   "rows": [
+    {
+     "surface": "pañcāśītitamenārīparaputrānasūyatī",
+     "gloss": "eighty-fifth-woman-not-envying-others-sons",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is stated about the eighty-fifth house and a woman not envying others' sons?",
+   "premises": [
+    "eighty-fifth is named",
+    "woman is named",
+    "not envying others sons is named"
+   ],
+   "inference": "The verse gives a condition for the eighty-fifth house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the eighty-fifth house, a woman does not envy others' sons."
+  },
+  {
+   "verse": 4508,
+   "rows": [
+    {
+     "surface": "ekonenavatitamelajjāṃhitvā",
+     "gloss": "ninety-first-shame-leaving",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "caret",
+     "gloss": "wanders",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "pathi",
+     "gloss": "on-path",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What conduct is described for the ninety-first house?",
+   "premises": [
+    "ninety-first is named",
+    "shame leaving is named",
+    "wanders on path is named"
+   ],
+   "inference": "The verse describes wandering after abandoning shame in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the ninety-first house, one wanders on the path after abandoning shame."
+  },
+  {
+   "verse": 4509,
+   "rows": [
+    {
+     "surface": "gṛhenavati",
+     "gloss": "house-ninety",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃkhyāke",
+     "gloss": "numbered",
+     "grounds": "locative adjective",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mātṛsvasrādi",
+     "gloss": "mother-sister-etc",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bandhutām",
+     "gloss": "kinship",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kinship is mentioned for the ninety-numbered house?",
+   "premises": [
+    "ninety numbered house is named",
+    "mother sister etc is named",
+    "kinship is named"
+   ],
+   "inference": "The verse mentions kinship with mother, sister, and others in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the ninety-numbered house, kinship with mother, sister, and others is mentioned."
+  },
+  {
+   "verse": 4510,
+   "rows": [
+    {
+     "surface": "saptayaṅnavatitametryaṃśaṃdroṇaṃ",
+     "gloss": "ninety-seventh-drona",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What action is assigned to the ninety-seventh house?",
+   "premises": [
+    "ninety-seventh is named",
+    "drona is named",
+    "does is named"
+   ],
+   "inference": "The verse states that someone performs a drona-related action in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the ninety-seventh house, one performs a drona-related action."
+  },
+  {
+   "verse": 4511,
+   "rows": [
+    {
+     "surface": "aṣṭādhikanavatyākhyasaṃkhyākesadanedhruvam",
+     "gloss": "ninety-eight-numbered-house-certainly",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is stated about the ninety-eight-numbered house?",
+   "premises": [
+    "ninety-eight numbered is named",
+    "house is named",
+    "certainly is named"
+   ],
+   "inference": "The verse gives a certain statement about the ninety-eight-numbered house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "The ninety-eight-numbered house is certainly described."
+  },
+  {
+   "verse": 4512,
+   "rows": [
+    {
+     "surface": "ekonaśatasaṃkhyākesvānuṣṭhitasukarmaṇām",
+     "gloss": "ninety-nine-numbered-self-performed-good-deeds",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is stated about the ninety-nine-numbered house?",
+   "premises": [
+    "ninety-nine numbered is named",
+    "self performed good deeds is named"
+   ],
+   "inference": "The verse links the ninety-nine-numbered house with self-performed good deeds.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "The ninety-nine-numbered house concerns self-performed good deeds."
+  },
+  {
+   "verse": 4513,
+   "rows": [
+    {
+     "surface": "navayukchatasaṃkhyāke",
+     "gloss": "hundred-ninth-numbered",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadane",
+     "gloss": "house",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naro",
+     "gloss": "man",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What is stated about the hundred-ninth-numbered house?",
+   "premises": [
+    "hundred-ninth numbered is named",
+    "house is named",
+    "man would be is named"
+   ],
+   "inference": "The verse states a condition for a man in the hundred-ninth house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the hundred-ninth-numbered house, a man would be as stated."
+  },
+  {
+   "verse": 4514,
+   "rows": [
+    {
+     "surface": "saptadaśottaraśatakegehe",
+     "gloss": "hundred-seventeenth-house",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "whom",
+     "grounds": "relative pronoun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmanāyuktaḥ",
+     "gloss": "desire-joined",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What desire-related condition is stated for the hundred-seventeenth house?",
+   "premises": [
+    "hundred-seventeenth house is named",
+    "who is named",
+    "desire joined is named"
+   ],
+   "inference": "The verse describes a desire-joined person in the hundred-seventeenth house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the hundred-seventeenth house, a desire-joined person is described."
+  },
+  {
+   "verse": 4515,
+   "rows": [
+    {
+     "surface": "sapādaśatasaṃkhyākeyastu",
+     "gloss": "hundred-and-quarter-numbered",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śāstrānusārataḥ",
+     "gloss": "according-to-scripture",
+     "grounds": "ablative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is stated about the hundred-and-quarter-numbered house?",
+   "premises": [
+    "hundred and quarter numbered is named",
+    "according to scripture is named"
+   ],
+   "inference": "The verse links that house with scriptural conformity.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "The hundred-and-quarter-numbered house is according to scripture."
+  },
+  {
+   "verse": 4516,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśottaraśatagehekūpahṛdādikam",
+     "gloss": "hundred-twenty-eighth-house-well-heart-etc",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is stated about the hundred-twenty-eighth house?",
+   "premises": [
+    "hundred twenty eighth house is named",
+    "well heart etc is named"
+   ],
+   "inference": "The verse mentions well, heart, and related items for that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "The hundred-twenty-eighth house mentions well, heart, and related items."
+  },
+  {
+   "verse": 4517,
+   "rows": [
+    {
+     "surface": "ekaviṃśacchatatameyo",
+     "gloss": "hundred-twenty-first",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhajennīcadevatāḥ",
+     "gloss": "worships-low-deities",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What worship is stated for the hundred-twenty-first house?",
+   "premises": [
+    "hundred twenty first is named",
+    "worships low deities is named"
+   ],
+   "inference": "The verse states worship of low deities in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the hundred-twenty-first house, one worships low deities."
+  },
+  {
+   "verse": 4518,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśaduttaraśatasaṃkhyedāsyatiyonaraḥ",
+     "gloss": "hundred-thirty-six-numbered-gives-servitude-man",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What servitude is stated for the hundred-thirty-six-numbered house?",
+   "premises": [
+    "hundred thirty six numbered is named",
+    "gives servitude man is named"
+   ],
+   "inference": "The verse states a man gives servitude in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the hundred-thirty-six-numbered house, a man gives servitude."
+  },
+  {
+   "verse": 4519,
+   "rows": [
+    {
+     "surface": "sārdheśatesāṃgavedānuccarannādarātsadā",
+     "gloss": "one-and-half-hundred-veda-reciting-without-respect-always",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What veda recitation practice is stated for the one-and-half-hundred house?",
+   "premises": [
+    "one and half hundred is named",
+    "veda reciting is named",
+    "without respect always is named"
+   ],
+   "inference": "The verse describes veda recitation without respect in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the one-and-half-hundred house, veda is recited without respect always."
+  },
+  {
+   "verse": 4520,
+   "rows": [
+    {
+     "surface": "pañcapañcāśadadhikaśatasaṃkhyākaveśmani",
+     "gloss": "hundred-fifty-five-numbered-house",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is stated about the hundred-fifty-five-numbered house?",
+   "premises": [
+    "hundred fifty five numbered is named",
+    "house is named"
+   ],
+   "inference": "The verse names the hundred-fifty-five-numbered house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "The hundred-fifty-five-numbered house is named."
+  },
+  {
+   "verse": 4521,
+   "rows": [
+    {
+     "surface": "saptapaṃcāśadadhikaśatasaṃkhyākaveśmani",
+     "gloss": "hundred-fifty-seven-numbered-house",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is stated about the hundred-fifty-seven-numbered house?",
+   "premises": [
+    "hundred fifty seven numbered is named",
+    "house is named"
+   ],
+   "inference": "The verse names the hundred-fifty-seven-numbered house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "The hundred-fifty-seven-numbered house is named."
+  },
+  {
+   "verse": 4522,
+   "rows": [
+    {
+     "surface": "ekonaṣaṣṭisaṃkhyāyukchatasaṃkhye",
+     "gloss": "hundred-fifty-nine-numbered",
+     "grounds": "fused compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What action is stated for the hundred-fifty-nine-numbered house?",
+   "premises": [
+    "hundred fifty nine numbered is named",
+    "does is named",
+    "who is named"
+   ],
+   "inference": "The verse states an action performed by someone in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the hundred-fifty-nine-numbered house, someone performs an action."
+  },
+  {
+   "verse": 4523,
+   "rows": [
+    {
+     "surface": "ekaṣaṣṭyuttaraśatedharmasūkṣmaṃvicāyan",
+     "gloss": "hundred-sixty-one-dharma-subtle-considering",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What dharma consideration is stated for the hundred-sixty-one house?",
+   "premises": [
+    "hundred sixty one is named",
+    "dharma subtle considering is named"
+   ],
+   "inference": "The verse describes considering subtle dharma in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the hundred-sixty-one house, subtle dharma is considered."
+  },
+  {
+   "verse": 4524,
+   "rows": [
+    {
+     "surface": "saptaṣaṣṭyuttaraśateyuddhānnāpasaranmṛtaḥ",
+     "gloss": "hundred-sixty-seven-dying-not-retreating-from-battle",
+     "grounds": "fused compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What death in battle is stated for the hundred-sixty-seven house?",
+   "premises": [
+    "hundred sixty seven is named",
+    "dying not retreating from battle is named"
+   ],
+   "inference": "The verse describes dying without retreating from battle in that house.",
+   "uncertainties": [
+    "fused token not split"
+   ],
+   "plain_english": "In the hundred-sixty-seven house, one dies without retreating from battle."
+  }
+ ]
+}

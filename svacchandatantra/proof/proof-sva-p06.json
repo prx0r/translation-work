@@ -1,0 +1,208 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p06",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v126 ratio=0.400",
+  "ALIGN_NODISP v127 ratio=0.844",
+  "ALIGN_NODISP v128 ratio=0.812",
+  "ALIGN_NODISP v129 ratio=0.400",
+  "ALIGN_NODISP v130 ratio=0.400",
+  "ALIGN_NODISP v131 ratio=0.400",
+  "ALIGN_NODISP v134 ratio=0.400",
+  "ALIGN_NODISP v136 ratio=0.831",
+  "ALIGN_NODISP v137 ratio=0.744",
+  "ALIGN_NODISP v138 ratio=0.400",
+  "ALIGN_NODISP v139 ratio=0.667",
+  "ALIGN_NODISP v140 ratio=0.667",
+  "ALIGN_NODISP v142 ratio=0.667",
+  "ALIGN_NODISP v143 ratio=0.400",
+  "ALIGN_NODISP v144 ratio=0.400",
+  "ALIGN_NODISP v145 ratio=0.878",
+  "ALIGN_NODISP v146 ratio=0.400",
+  "ALIGN_NODISP v147 ratio=0.851",
+  "ALIGN_NODISP v148 ratio=0.667",
+  "ALIGN_NODISP v149 ratio=0.737",
+  "ALIGN_NODISP v150 ratio=0.845",
+  "L2_CITE_FAIL 3",
+  "DATA_OBJECTS 3 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "7ac4074ee74fea77",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 100
+ },
+ "align": {
+  "min_ratio": 0.4,
+  "sub090": {
+   "126": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "127": {
+    "ratio": 0.844,
+    "disposition": null
+   },
+   "128": {
+    "ratio": 0.812,
+    "disposition": null
+   },
+   "129": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "130": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "131": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "134": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "136": {
+    "ratio": 0.831,
+    "disposition": null
+   },
+   "137": {
+    "ratio": 0.744,
+    "disposition": null
+   },
+   "138": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "139": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "140": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "142": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "143": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "144": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "145": {
+    "ratio": 0.878,
+    "disposition": null
+   },
+   "146": {
+    "ratio": 0.4,
+    "disposition": null
+   },
+   "147": {
+    "ratio": 0.851,
+    "disposition": null
+   },
+   "148": {
+    "ratio": 0.667,
+    "disposition": null
+   },
+   "149": {
+    "ratio": 0.737,
+    "disposition": null
+   },
+   "150": {
+    "ratio": 0.845,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 57,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": [
+   "dhāmnā niṣkalena idhmā asphuṭitā ṛjvyaḥ satvacaḥ śakhāḥ",
+   "vividhā iti uttamamadhyamādhamāḥ homayediti homena sādhayet",
+   "kalpanā kāryā darbha iti jātāvekavacanam"
+  ]
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "l2[sva-p06-v137]: cite part not byte-exact in source: dhāmnā niṣkalena idhmā asphuṭitā ṛjvyaḥ satvacaḥ śakhāḥ",
+   "l2[sva-p06-v147]: cite part not byte-exact in source: vividhā iti uttamamadhyamādhamāḥ homayediti homena sādhayet",
+   "l2[sva-p06-v149]: cite part not byte-exact in source: kalpanā kāryā darbha iti jātāvekavacanam"
+  ],
+  "counts": {
+   "t1": 25,
+   "l0": 100,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate L2_CITE_FAIL",
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v126",
+  "fix: word-order/gloss vs source for v127",
+  "fix: word-order/gloss vs source for v128",
+  "fix: word-order/gloss vs source for v129",
+  "fix: word-order/gloss vs source for v130",
+  "fix: word-order/gloss vs source for v131",
+  "fix: word-order/gloss vs source for v134",
+  "fix: word-order/gloss vs source for v136",
+  "fix: word-order/gloss vs source for v137",
+  "fix: word-order/gloss vs source for v138",
+  "fix: word-order/gloss vs source for v139",
+  "fix: word-order/gloss vs source for v140",
+  "fix: word-order/gloss vs source for v142",
+  "fix: word-order/gloss vs source for v143",
+  "fix: word-order/gloss vs source for v144",
+  "fix: word-order/gloss vs source for v145",
+  "fix: word-order/gloss vs source for v146",
+  "fix: word-order/gloss vs source for v147",
+  "fix: word-order/gloss vs source for v148",
+  "fix: word-order/gloss vs source for v149",
+  "fix: word-order/gloss vs source for v150"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "7d211515ece64058fcf610a810d56a5856cb9368b782e506eadbbb8a971ca9cc",
+  "l0": "dc1713ad265bd2d8ff6aef2e577ada9a9f525dd0fee233e76b7b65e157495c2b",
+  "argmap": "e1f87eed890a65e942b2db8439af4ff121dbf3ef28d0b65b9f9b16b62dab788e",
+  "l2": "b49dbcaea1c67f1eee6947f6f4ecdac871fd84282a8a99444b0b80b0418c5a5d",
+  "c1": "02210d33267f9179d8a51d8ae67f8fa9fb32eada545e6482f1532dd2ce6ea0b5"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "7ac4074ee74fea77",
+  "t1": "sva-p06/data/sva-p06.t1.json",
+  "l0": "sva-p06/data/sva-p06.l0.json",
+  "l2": "sva-p06/data/sva-p06.l2.json",
+  "c1": "sva-p06/data/sva-p06.c1.json"
+ }
+}

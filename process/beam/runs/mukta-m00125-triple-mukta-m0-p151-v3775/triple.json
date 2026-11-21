@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3775,
+   "rows": [
+    {
+     "surface": "dṛśyante",
+     "gloss": "are-seen",
+     "grounds": "passive verb indicating visible appearance",
+     "morph": "3.pl.pass-pres √dṛś"
+    },
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "first color term in a descriptive series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "raktādi",
+     "gloss": "red-and-others",
+     "grounds": "compound indicating red and similar colors; rakta+ādi",
+     "morph": "compound rakta+ādi"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colors",
+     "grounds": "nominal head denoting hues or appearances",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nakṣatra",
+     "gloss": "star-like",
+     "grounds": "describes the forms as resembling stars or constellations",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What kinds of colored and star-like forms become visibly manifest in the sky?",
+   "premises": [
+    "Certain forms become visible to perception.",
+    "These visible forms display white, red, and other colors.",
+    "These visible forms appear in a star-like manner."
+   ],
+   "inference": "Therefore, white, red, and other colored forms resembling stars are seen manifesting.",
+   "uncertainties": [
+    "The exact syntactic relation of nakṣatra to varṇā is ambiguous in isolation."
+   ],
+   "plain_english": "White, red, and other colored forms, like stars, are seen."
+  }
+ ]
+}

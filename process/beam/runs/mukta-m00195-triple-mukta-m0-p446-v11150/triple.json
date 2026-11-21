@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p446",
+ "items": [
+  {
+   "verse": 11150,
+   "rows": [
+    {
+     "surface": "calat",
+     "gloss": "moving",
+     "grounds": "present active participle of √cal; first member of compound describing bees",
+     "morph": "pr.part.act + √cal, compound-first"
+    },
+    {
+     "surface": "bhṛṅga",
+     "gloss": "bee",
+     "grounds": "member of compound denoting the sounding agents",
+     "morph": "m.stem, compound-member"
+    },
+    {
+     "surface": "aṅganā",
+     "gloss": "female",
+     "grounds": "specifies the bees as female; member of compound",
+     "morph": "f.stem, compound-member"
+    },
+    {
+     "surface": "śabda",
+     "gloss": "sound",
+     "grounds": "sound produced by the moving female bees; member of compound",
+     "morph": "m.stem, compound-member"
+    },
+    {
+     "surface": "vācālita",
+     "gloss": "made-resonant",
+     "grounds": "causative past participle of √vac; describes the quarters as filled with sound",
+     "morph": "caus.past.p.part + √vac, compound-member"
+    },
+    {
+     "surface": "dik",
+     "gloss": "quarter",
+     "grounds": "denotes the directions; member of compound",
+     "morph": "f.stem, compound-member"
+    },
+    {
+     "surface": "antare",
+     "gloss": "in-intervals",
+     "grounds": "locative indicating the spaces within the quarters",
+     "morph": "n.loc.sg, compound-last"
+    }
+   ],
+   "question": "What auditory pervasion fills the quarters within the sacred space of divine play?",
+   "premises": [
+    "Female bees are moving in the setting.",
+    "The moving female bees produce sound.",
+    "That sound makes the intervals of the quarters resonant."
+   ],
+   "inference": "The entire surrounding space is pervaded by the humming of moving female bees.",
+   "uncertainties": [
+    "The exact compound segmentation is inferred from context and standard sandhi resolution."
+   ],
+   "plain_english": "In the intervals of the quarters, made resonant by the sound of moving female bees."
+  }
+ ]
+}

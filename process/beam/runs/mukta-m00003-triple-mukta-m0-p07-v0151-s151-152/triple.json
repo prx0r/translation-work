@@ -1,0 +1,97 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "formerly",
+     "grounds": "time adverb indicating prior teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to teachings",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktāḥ",
+     "gloss": "spoken",
+     "grounds": "past passive participle of vac",
+     "morph": "m.nom.pl.past-passive-participle √vac"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "quantifier for the teachings or practitioners",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "anvaya+mārge",
+     "gloss": "in-lineage-path",
+     "grounds": "compound: anvaya (lineage) + mārga (path), location of practice",
+     "morph": "compound m.loc.sg (anvaya+mārga)"
+    },
+    {
+     "surface": "kaulike",
+     "gloss": "in-kaulika",
+     "grounds": "qualifies the lineage path as Kaulika",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which teachings were previously declared for all within the Kaulika lineage path?",
+   "premises": [
+    "Certain teachings were spoken formerly.",
+    "These teachings apply to all practitioners.",
+    "The context is the Kaulika lineage path."
+   ],
+   "inference": "All previously declared teachings pertain to those situated in the Kaulika lineage path.",
+   "uncertainties": [
+    "Whether sarve qualifies the teachings or the practitioners is contextually ambiguous."
+   ],
+   "plain_english": "All that was formerly spoken applies within the Kaulika lineage path."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "parama+amṛta+santṛptāḥ",
+     "gloss": "satisfied-by-supreme-nectar",
+     "grounds": "compound: parama (supreme) + amṛta (nectar) + santṛpta (satisfied)",
+     "morph": "compound m.nom.pl (parama+amṛta+santṛpta)"
+    },
+    {
+     "surface": "sahaja+ānandaṃ",
+     "gloss": "innate-bliss",
+     "grounds": "compound: sahaja (innate) + ānanda (bliss), object of experience",
+     "morph": "compound n.acc.sg (sahaja+ānanda)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "alone",
+     "grounds": "emphasizes exclusivity or absoluteness",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What exclusive state of fulfillment characterizes those satisfied by the supreme nectar?",
+   "premises": [
+    "Practitioners are satisfied by supreme nectar.",
+    "They experience innate bliss.",
+    "This bliss is characterized as alone or absolute."
+   ],
+   "inference": "Those satisfied by the supreme nectar experience innate bliss alone.",
+   "uncertainties": [
+    "Whether kevalam qualifies sahaja+ānandaṃ as exclusive or indicates a non-dual absolute state."
+   ],
+   "plain_english": "Satisfied by the supreme nectar, they experience innate bliss alone."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "nirmālya",
+     "gloss": "sacred-remnant",
+     "grounds": "first member of compound with bhakṣaṇe, denoting offerings removed from the deity",
+     "morph": "compound:nirmālya+first-member"
+    },
+    {
+     "surface": "bhakṣaṇe",
+     "gloss": "in-eating",
+     "grounds": "locative expressing the circumstance of consuming the remnant",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ghoraṃ",
+     "gloss": "grave",
+     "grounds": "qualifies the offense implied by the act of eating nirmālya",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pramādāt",
+     "gloss": "through-negligence",
+     "grounds": "ablative indicating the cause or manner of the transgression",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "specifies the number of recitations required as expiation",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribes the expiatory mantra recitation",
+     "morph": "3.sg.act.opt√jap"
+    }
+   ],
+   "question": "What expiation is required for negligently eating the deity's sacred remnants?",
+   "premises": [
+    "Eating nirmālya constitutes a grave offense.",
+    "Such an offense may occur through negligence.",
+    "Reciting a mantra ten thousand times functions as expiation."
+   ],
+   "inference": "Therefore, one who negligently eats nirmālya should recite the mantra ten thousand times.",
+   "uncertainties": [
+    "ghoraṃ may qualify an implied noun such as sin rather than directly modifying the act."
+   ],
+   "plain_english": "If one negligently eats the deity's sacred remnants, one should recite the mantra ten thousand times as expiation for that grave offense."
+  }
+ ]
+}

@@ -1,0 +1,1063 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2351,
+   "rows": [
+    {
+     "surface": "sādhakāṃś",
+     "gloss": "practitioners",
+     "grounds": "object of feeding",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhojayen",
+     "gloss": "one-should-feed",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √bhuj"
+    },
+    {
+     "surface": "maṇisaṅkhyakān",
+     "gloss": "bead-numbered",
+     "grounds": "maṇi+saṅkhyaka; equal in number to beads",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How many practitioners should be fed in connection with the rosary?",
+   "premises": [
+    "Practitioners are to be fed.",
+    "Their number should match the beads."
+   ],
+   "inference": "The ritual feeding should include practitioners equal in number to the rosary beads.",
+   "uncertainties": [],
+   "plain_english": "One should also feed practitioners equal in number to the beads."
+  },
+  {
+   "verse": 2352,
+   "rows": [
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to rosary",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "string of beads",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛtā",
+     "gloss": "made",
+     "grounds": "prepared for use",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tantu",
+     "gloss": "thread",
+     "grounds": "material of the rosary",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunction for mantra repetition",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "with-that",
+     "grounds": "instrument for recitation",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "With which prepared rosary should mantra recitation be performed?",
+   "premises": [
+    "A rosary is made with thread.",
+    "Recitation should be done with that rosary."
+   ],
+   "inference": "Mantra recitation should be performed using the thread-made rosary.",
+   "uncertainties": [],
+   "plain_english": "One should recite with that rosary which has been made on a thread."
+  },
+  {
+   "verse": 2353,
+   "rows": [
+    {
+     "surface": "niyuñjīta",
+     "gloss": "one-should-employ",
+     "grounds": "injunction to use the rosary",
+     "morph": "3.sg.mid-opt √yuj"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra repetition",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthagito",
+     "gloss": "concealed",
+     "grounds": "kept covered during recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "manner of concealment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what concealed manner should the rosary be employed during recitation?",
+   "premises": [
+    "The rosary should be employed for recitation.",
+    "Recitation should be done while it is concealed."
+   ],
+   "inference": "One should use the rosary for recitation in a concealed manner.",
+   "uncertainties": [
+    "The exact method of concealment is not specified."
+   ],
+   "plain_english": "One should employ it and recite, but in such a way that it remains concealed."
+  },
+  {
+   "verse": 2354,
+   "rows": [
+    {
+     "surface": "tarjanyā",
+     "gloss": "with-index-finger",
+     "grounds": "finger to be avoided",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "contact with the thread",
+     "morph": "3.sg.act-opt √spṛś"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "rosary string",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kampayet",
+     "gloss": "one-should-shake",
+     "grounds": "prohibited motion",
+     "morph": "3.sg.act-caus-opt √kamp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūnayet",
+     "gloss": "one-should-swing",
+     "grounds": "prohibited motion",
+     "morph": "3.sg.act-caus-opt √dhū"
+    }
+   ],
+   "question": "What physical contacts and motions are forbidden when handling the rosary thread?",
+   "premises": [
+    "The index finger must not touch the thread.",
+    "The thread must not be shaken or swung."
+   ],
+   "inference": "Handling the rosary requires avoiding index-finger contact and agitating motions.",
+   "uncertainties": [],
+   "plain_english": "One should not touch the thread with the index finger, nor shake it, nor swing it."
+  },
+  {
+   "verse": 2355,
+   "rows": [
+    {
+     "surface": "cālane",
+     "gloss": "in-moving",
+     "grounds": "during movement of beads",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṃguṣṭhaś",
+     "gloss": "thumb",
+     "grounds": "finger used in moving beads",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyam",
+     "gloss": "other",
+     "grounds": "another bead",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "akṣaṃ",
+     "gloss": "bead",
+     "grounds": "rosary bead",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃspṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "contact with another bead",
+     "morph": "3.sg.act-opt √spṛś"
+    }
+   ],
+   "question": "What contact must the thumb avoid while moving the rosary beads?",
+   "premises": [
+    "The thumb moves the beads.",
+    "The thumb must not touch another bead."
+   ],
+   "inference": "While moving beads, the thumb should contact only the intended bead.",
+   "uncertainties": [],
+   "plain_english": "While moving the beads, the thumb should not touch any other bead."
+  },
+  {
+   "verse": 2356,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅghaṭṭaṃ",
+     "gloss": "clashing",
+     "grounds": "striking of beads together",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "causing beads to strike",
+     "morph": "3.sg.act-caus-opt √kṛ"
+    }
+   ],
+   "question": "What audible disturbance of the beads must be avoided during recitation?",
+   "premises": [
+    "Beads can be made to clash.",
+    "Causing them to clash is prohibited."
+   ],
+   "inference": "The practitioner must avoid making the beads strike against each other.",
+   "uncertainties": [],
+   "plain_english": "But one should not cause the beads to clash together."
+  },
+  {
+   "verse": 2357,
+   "rows": [
+    {
+     "surface": "vidveṣaḥ",
+     "gloss": "hostility",
+     "grounds": "negative consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sphuṭite",
+     "gloss": "when-broken",
+     "grounds": "condition of a bead breaking",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vyādhi",
+     "gloss": "disease",
+     "grounds": "first member of compound",
+     "morph": "vyādhi+sambhava"
+    },
+    {
+     "surface": "sambhavaḥ",
+     "gloss": "arising",
+     "grounds": "second member of compound; occurrence of disease",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What harmful consequences arise if a rosary bead breaks during use?",
+   "premises": [
+    "A bead may break.",
+    "Breaking leads to hostility and disease."
+   ],
+   "inference": "A broken bead is said to bring hostility and the arising of disease.",
+   "uncertainties": [],
+   "plain_english": "If a bead breaks, hostility and the arising of disease result."
+  },
+  {
+   "verse": 2358,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃgulimālābhir",
+     "gloss": "with-finger-rosaries",
+     "grounds": "aṃguli+mālā; using fingers as beads",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to finger recitation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What alternative method of recitation uses the fingers as a rosary?",
+   "premises": [
+    "Recitation can be done with finger rosaries.",
+    "This method is given a specific designation."
+   ],
+   "inference": "One may perform recitation using the fingers as a rosary.",
+   "uncertainties": [
+    "The specific name is stated in the following verse."
+   ],
+   "plain_english": "Or one should perform recitation with the fingers as a rosary; that is what is called so."
+  },
+  {
+   "verse": 2359,
+   "rows": [
+    {
+     "surface": "mūlaparyantā",
+     "gloss": "base-to-end",
+     "grounds": "mūla+paryanta; extending from base to tip",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "karamālā",
+     "gloss": "hand-rosary",
+     "grounds": "kara+mālā; rosary formed by the hand",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "traditional designation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the hand-rosary defined in terms of its extent on the fingers?",
+   "premises": [
+    "The hand can serve as a rosary.",
+    "It extends from base to end."
+   ],
+   "inference": "The hand-rosary is defined as extending from the base to the end of the fingers.",
+   "uncertainties": [],
+   "plain_english": "The hand-rosary is declared to extend from the base to the end."
+  },
+  {
+   "verse": 2360,
+   "rows": [
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāmikāmūlāt",
+     "gloss": "from-ring-finger-base",
+     "grounds": "anāmikā+mūla; starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kaniṣṭhā",
+     "gloss": "little-finger",
+     "grounds": "finger in the sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anukrameṇa",
+     "gloss": "in-order",
+     "grounds": "sequential progression",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which finger base and in what order should the hand-rosary counting proceed?",
+   "premises": [
+    "Counting begins at the ring-finger base.",
+    "It proceeds in sequence including the little finger."
+   ],
+   "inference": "The hand-rosary count starts from the base of the ring finger and proceeds in order.",
+   "uncertainties": [
+    "The full sequence of fingers is continued in the next verse."
+   ],
+   "plain_english": "And starting from the base of the ring finger, proceeding in order to the little finger."
+  },
+  {
+   "verse": 2361,
+   "rows": [
+    {
+     "surface": "kalpayen",
+     "gloss": "one-should-designate",
+     "grounds": "ritual assignment",
+     "morph": "3.sg.act-opt √kḷp"
+    },
+    {
+     "surface": "meruṃ",
+     "gloss": "summit-bead",
+     "grounds": "central marker of the rosary",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhyā",
+     "gloss": "middle-finger",
+     "grounds": "finger involved in designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anāmā",
+     "gloss": "ring-finger",
+     "grounds": "finger involved in designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ādiparvakam",
+     "gloss": "first-joint",
+     "grounds": "ādi+parvaka; initial joint as meru",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which finger joint should be designated as the meru in the hand-rosary?",
+   "premises": [
+    "A meru must be designated in the hand-rosary.",
+    "The first joint of the middle or ring finger serves this role."
+   ],
+   "inference": "The first joint of the middle or ring finger should be designated as the meru.",
+   "uncertainties": [],
+   "plain_english": "One should designate the first joint of the middle or ring finger as the meru."
+  },
+  {
+   "verse": 2362,
+   "rows": [
+    {
+     "surface": "proktas",
+     "gloss": "declared",
+     "grounds": "stated in teaching",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "in that manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantri",
+     "gloss": "restraining",
+     "grounds": "first member of compound",
+     "morph": "yantri+vidha"
+    },
+    {
+     "surface": "vidho",
+     "gloss": "method",
+     "grounds": "second member of compound; regulated procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "regarded",
+     "grounds": "accepted view",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the regulated method of finger recitation regarded in this teaching?",
+   "premises": [
+    "A restraining method has been described.",
+    "It is declared and accepted as such."
+   ],
+   "inference": "The described procedure is regarded as the proper regulated method.",
+   "uncertainties": [],
+   "plain_english": "Thus the regulated method has been declared and is so regarded."
+  },
+  {
+   "verse": 2363,
+   "rows": [
+    {
+     "surface": "aṃgulyākhyo",
+     "gloss": "finger-named",
+     "grounds": "aṃguli+ākhya; called finger recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "stated in teaching",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "matonyo",
+     "gloss": "other-than-this",
+     "grounds": "mata+anya; different from this view",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's position",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What authoritative position is taken regarding finger recitation versus other methods?",
+   "premises": [
+    "Finger recitation has been declared.",
+    "No other method is accepted by the speaker."
+   ],
+   "inference": "The speaker affirms finger recitation and rejects any other method as their own view.",
+   "uncertainties": [],
+   "plain_english": "This is declared as finger recitation, and no other method is accepted by me."
+  },
+  {
+   "verse": 2364,
+   "rows": [
+    {
+     "surface": "viyuñjīta",
+     "gloss": "one-should-separate",
+     "grounds": "disengage or interrupt",
+     "morph": "3.sg.mid-opt √yuj"
+    },
+    {
+     "surface": "japakāle",
+     "gloss": "at-recitation-time",
+     "grounds": "japa+kāla; during recitation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What interruption must never occur during the time of recitation?",
+   "premises": [
+    "Recitation has a designated time.",
+    "Separation or interruption must never happen then."
+   ],
+   "inference": "One should never interrupt or disengage during the time of recitation.",
+   "uncertainties": [],
+   "plain_english": "One should never break off at the time of recitation."
+  },
+  {
+   "verse": 2365,
+   "rows": [
+    {
+     "surface": "guṇavān",
+     "gloss": "qualified",
+     "grounds": "possessing proper qualities",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "somewhat",
+     "grounds": "slight degree",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkocayet",
+     "gloss": "one-should-contract",
+     "grounds": "draw in or restrain",
+     "morph": "3.sg.act-caus-opt √kuc"
+    },
+    {
+     "surface": "talam",
+     "gloss": "palm",
+     "grounds": "surface of the hand",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should a qualified practitioner position the palm during recitation?",
+   "premises": [
+    "The practitioner is qualified.",
+    "The palm should be slightly contracted."
+   ],
+   "inference": "A qualified practitioner should keep the palm slightly contracted.",
+   "uncertainties": [],
+   "plain_english": "A qualified person should slightly contract the palm."
+  },
+  {
+   "verse": 2366,
+   "rows": [
+    {
+     "surface": "mātsaryaṃ",
+     "gloss": "jealousy",
+     "grounds": "mental fault to avoid",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "desire",
+     "grounds": "mental fault to avoid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dveṣañ",
+     "gloss": "hatred",
+     "grounds": "mental fault to avoid",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḍanam",
+     "gloss": "striking",
+     "grounds": "physical act to avoid",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mental faults and physical acts must be avoided during recitation practice?",
+   "premises": [
+    "Jealousy, desire, and hatred are to be avoided.",
+    "Striking is also to be avoided."
+   ],
+   "inference": "The practitioner must avoid jealousy, desire, hatred, and striking.",
+   "uncertainties": [],
+   "plain_english": "One should avoid jealousy, desire, hatred, and striking."
+  },
+  {
+   "verse": 2367,
+   "rows": [
+    {
+     "surface": "vādyaṃ",
+     "gloss": "musical-instrument",
+     "grounds": "sound to avoid",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhu",
+     "gloss": "honey",
+     "grounds": "substance to avoid",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cchāyāṃ",
+     "gloss": "shade",
+     "grounds": "place or shadow to avoid",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vibhītakakarañjayoḥ",
+     "gloss": "of-vibhītaka-and-karañja",
+     "grounds": "vibhītaka+karañja; two trees whose shade is avoided",
+     "morph": "m.gen.dual"
+    }
+   ],
+   "question": "Which sounds, substances, and specific tree-shades must be avoided during recitation?",
+   "premises": [
+    "Musical instruments and honey are to be avoided.",
+    "The shade of vibhītaka and karañja trees is to be avoided."
+   ],
+   "inference": "The practitioner must avoid musical instruments, honey, and the shade of vibhītaka and karañja.",
+   "uncertainties": [],
+   "plain_english": "One should avoid musical instruments, honey, and the shade of the vibhītaka and karañja trees."
+  },
+  {
+   "verse": 2368,
+   "rows": [
+    {
+     "surface": "varjayed",
+     "gloss": "one-should-avoid",
+     "grounds": "general prohibition",
+     "morph": "3.sg.act-caus-opt √vṛj"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartavyāny",
+     "gloss": "duties",
+     "grounds": "things to be done",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "transition to injunctions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "from-me",
+     "grounds": "speaker as source",
+     "morph": "1.sg.abl"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.act-imp √śru"
+    }
+   ],
+   "question": "What transition marks the shift from prohibitions to required duties for the wise practitioner?",
+   "premises": [
+    "The wise one should avoid certain things.",
+    "The duties to be performed are now to be heard."
+   ],
+   "inference": "After listing prohibitions, the teaching turns to the duties the wise practitioner must hear and perform.",
+   "uncertainties": [],
+   "plain_english": "The wise one should avoid these; now hear from me what must be done."
+  },
+  {
+   "verse": 2369,
+   "rows": [
+    {
+     "surface": "śrauta",
+     "gloss": "scriptural",
+     "grounds": "first member of compound",
+     "morph": "śrauta+mauna"
+    },
+    {
+     "surface": "maune",
+     "gloss": "silences",
+     "grounds": "second member of compound; forms of silence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parasaṅgasya",
+     "gloss": "of-other-association",
+     "grounds": "para+saṅga; contact with others",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "varjanam",
+     "gloss": "avoidance",
+     "grounds": "duty to refrain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What observances of silence and social avoidance are required as duties?",
+   "premises": [
+    "Scriptural silence is required.",
+    "Association with others must be avoided."
+   ],
+   "inference": "The practitioner must observe scriptural silence and avoid association with others.",
+   "uncertainties": [],
+   "plain_english": "One must observe scriptural silence and avoid association with others."
+  },
+  {
+   "verse": 2370,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "object of worship",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pādapūjā",
+     "gloss": "foot-worship",
+     "grounds": "pāda+pūjā; reverence to teacher's feet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hāra",
+     "gloss": "food",
+     "grounds": "first member of compound",
+     "morph": "āhāra+nimantraṇa"
+    },
+    {
+     "surface": "nimantraṇe",
+     "gloss": "in-invitation",
+     "grounds": "second member of compound; invitation to eat",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What duties toward the teacher and food invitations must be observed?",
+   "premises": [
+    "Worship of the teacher's feet is required.",
+    "Proper conduct regarding food invitations is required."
+   ],
+   "inference": "The practitioner must worship the teacher's feet and observe proper conduct in food invitations.",
+   "uncertainties": [
+    "The exact obligation in food invitation is contextually implied."
+   ],
+   "plain_english": "One must worship the teacher's feet and respond properly to invitations for food."
+  },
+  {
+   "verse": 2371,
+   "rows": [
+    {
+     "surface": "pañcayajñās",
+     "gloss": "five-offerings",
+     "grounds": "pañca+yajña; five daily sacrifices",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tarpaṇameva",
+     "gloss": "libation-indeed",
+     "grounds": "tarpaṇa+eva; offering of satisfaction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual obligations of offerings and libations must be maintained?",
+   "premises": [
+    "The five offerings are required.",
+    "Libation is also required."
+   ],
+   "inference": "The practitioner must perform the five offerings and libation.",
+   "uncertainties": [],
+   "plain_english": "The five offerings and libation must indeed be performed."
+  },
+  {
+   "verse": 2372,
+   "rows": [
+    {
+     "surface": "sakṛdu",
+     "gloss": "once",
+     "grounds": "single occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccarite",
+     "gloss": "when-uttered",
+     "grounds": "condition of speech occurring",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śabde",
+     "gloss": "sound",
+     "grounds": "spoken word",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "sacred-syllable-om",
+     "grounds": "praṇava mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samudīrayet",
+     "gloss": "one-should-utter",
+     "grounds": "corrective utterance",
+     "morph": "3.sg.act-caus-opt √īr"
+    }
+   ],
+   "question": "What corrective utterance must follow any accidental spoken sound during practice?",
+   "premises": [
+    "A sound may be uttered once accidentally.",
+    "The praṇava should be uttered in response."
+   ],
+   "inference": "If any sound is uttered, one should immediately utter the praṇava.",
+   "uncertainties": [],
+   "plain_english": "If any sound is uttered even once, one should utter the praṇava."
+  },
+  {
+   "verse": 2373,
+   "rows": [
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "obligatory action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyasyā",
+     "gloss": "having-placed",
+     "grounds": "ritual placement on body",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅgāni",
+     "gloss": "limbs",
+     "grounds": "body parts for ritual placement",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence after placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra repetition",
+     "morph": "3.sg.act-opt √jap"
+    }
+   ],
+   "question": "What preparatory bodily ritual must precede mantra recitation?",
+   "premises": [
+    "The limbs must be ritually placed.",
+    "Recitation follows that placement."
+   ],
+   "inference": "One must necessarily perform placement on the limbs and then recite.",
+   "uncertainties": [],
+   "plain_english": "One must necessarily place the mantras on the limbs and then recite."
+  },
+  {
+   "verse": 2374,
+   "rows": [
+    {
+     "surface": "japen",
+     "gloss": "one-should-recite",
+     "grounds": "mantra repetition",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vaiṣṇavaṃ",
+     "gloss": "of-viṣṇu",
+     "grounds": "related to Viṣṇu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smared",
+     "gloss": "one-should-remember",
+     "grounds": "mental recollection",
+     "morph": "3.sg.act-opt √smṛ"
+    },
+    {
+     "surface": "harim",
+     "gloss": "hari",
+     "grounds": "Viṣṇu as object of remembrance",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What alternative devotional focus on Viṣṇu is permitted during recitation?",
+   "premises": [
+    "One may recite a Vaiṣṇava mantra.",
+    "Alternatively one may remember Hari."
+   ],
+   "inference": "The practitioner may either recite a Vaiṣṇava mantra or remember Hari.",
+   "uncertainties": [],
+   "plain_english": "One should recite a Vaiṣṇava mantra or remember Hari."
+  }
+ ]
+}

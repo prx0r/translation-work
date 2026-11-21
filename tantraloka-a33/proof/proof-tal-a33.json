@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "c5c5845674b5cc75",
+ "source_digest_normalized_sha256": "c5c5845674b5cc75de3a6d0b765beb7dbd3706d3eba9bfa9d982bfee1db63132",
+ "source_sha256_raw": "6c84580d946fa3c91c3aa6b922700f9d8eca011087a66fa48a6e1ae8c685c805",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/tantraloka.txt",
  "source_verses": 33,
  "t1_verses": 33,
  "l0": {
-  "parsed": 230,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 230
@@ -20,11 +24,11 @@
  },
  "c1_l2_shared": [],
  "c1_quotes": 0,
- "c1_iast_prose_info": 210,
- "c1_words": 648,
+ "c1_iast_prose_info": 0,
+ "c1_words": 150,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 33,
+  "checked": 65,
   "failures": []
  },
  "ledger": {
@@ -64,9 +68,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "c5c5845674b5cc75",
-  "t1": "T1-tal-a33.md",
-  "l0": "T1-tal-a33.l0.jsonl",
-  "l2": "L2-tal-a33.md",
-  "c1": "c1/C1-tal-a33.md"
+  "t1": "tal-a33/data/tal-a33.t1.json",
+  "l0": "tal-a33/data/tal-a33.l0.json",
+  "l2": "tal-a33/data/tal-a33.l2.json",
+  "c1": "tal-a33/data/tal-a33.c1.json"
  }
 }

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-accepted",
+     "grounds": "gerundive of grah, expressing what should be accepted",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "tasyājñayā",
+     "gloss": "by-his-command",
+     "grounds": "fused form of tasya and ājñayā, indicating agency or authority",
+     "morph": "pron.m.gen.sg+noun.f.inst.sg"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "instrumental expressing the manner of acceptance",
+     "morph": "noun.f.inst.sg"
+    }
+   ],
+   "question": "In what spirit must the guru's directive be accepted by the disciple?",
+   "premises": [
+    "The guru's command carries binding authority for the disciple.",
+    "Disciplinary actions from the guru are to be received as grace.",
+    "Acceptance of the guru's directive must be accompanied by joy."
+   ],
+   "inference": "Therefore the disciple should joyfully accept what is given by the guru's command.",
+   "uncertainties": [
+    "The implied object of grāhyaṃ is supplied from the preceding verses."
+   ],
+   "plain_english": "It should be accepted, by his command, with joy."
+  }
+ ]
+}

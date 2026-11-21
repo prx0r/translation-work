@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "niṣkalā",
+     "gloss": "without-parts",
+     "grounds": "adjective describing the goddess as undivided or partless",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking two attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sakalā",
+     "gloss": "with-parts",
+     "grounds": "adjective describing the goddess as having parts or manifest",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parikīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle indicating traditional declaration",
+     "morph": "f.nom.sg.past-passive-participle"
+    }
+   ],
+   "question": "In what dual modes is the great goddess proclaimed to exist?",
+   "premises": [
+    "The great goddess is addressed directly in the vocative.",
+    "She is declared to be without parts.",
+    "She is declared to be with parts."
+   ],
+   "inference": "The great goddess is proclaimed to exist in both partless and partite modes.",
+   "uncertainties": [
+    "The precise doctrinal scope of niṣkalā and sakalā in this context is not fully specified."
+   ],
+   "plain_english": "And, O great goddess, you are proclaimed to be both without parts and with parts."
+  }
+ ]
+}

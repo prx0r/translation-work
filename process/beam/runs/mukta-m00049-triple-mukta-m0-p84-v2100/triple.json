@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "prāyaścittam",
+     "gloss": "expiation",
+     "grounds": "object of the act to be performed",
+     "morph": "n.acc.sg.nt"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "marks sequence after the preceding acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "prior action completed before the main offering",
+     "morph": "abs. (√kṛ)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-offer",
+     "grounds": "prescriptive injunction for the ritual act",
+     "morph": "3.sg.act.opt (√dā)"
+    },
+    {
+     "surface": "pūrṇa+āhutim",
+     "gloss": "full-oblation",
+     "grounds": "compound denoting the complete offering into fire",
+     "morph": "compound pūrṇa+āhuti; n.acc.sg.f"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "agent responsible for performing the rite",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What expiatory and oblation duties must the father fulfill after the preceding rites?",
+   "premises": [
+    "The preceding rites have already been completed near the fire.",
+    "An expiation is required as a subsequent ritual act.",
+    "A full oblation is to be offered as part of the sequence."
+   ],
+   "inference": "Therefore the father must perform the expiation and then offer a full oblation.",
+   "uncertainties": [
+    "The specific form or cause of the expiation is not specified in this verse."
+   ],
+   "plain_english": "Then, having performed the expiation, the father should offer a full oblation."
+  }
+ ]
+}

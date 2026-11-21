@@ -1,0 +1,1159 @@
+{
+ "song": "mukta-m0-p144",
+ "items": [
+  {
+   "verse": 3576,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescribes recitation as expiation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "pañcaśataṃ",
+     "gloss": "five-hundred",
+     "grounds": "specifies the number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-holder",
+     "grounds": "identifies the ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "patite",
+     "gloss": "fallen",
+     "grounds": "describes the mishap requiring expiation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "extends the rule to this case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indicates the prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the prescription",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "reinforces the statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation must the mantra-holder perform when a ritual object has fallen?",
+   "premises": [
+    "A ritual object has fallen",
+    "The mantra-holder is the responsible agent",
+    "Five hundred recitations are prescribed"
+   ],
+   "inference": "The mantra-holder should recite five hundred times when a ritual object has fallen.",
+   "uncertainties": [],
+   "plain_english": "Indeed, when something has fallen, the mantra-holder should thus recite five hundred times."
+  },
+  {
+   "verse": 3577,
+   "rows": [
+    {
+     "surface": "āyudha",
+     "gloss": "weapon",
+     "grounds": "first member of compound denoting ritual implements",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "astrān",
+     "gloss": "missile",
+     "grounds": "second member in compound with āyudha; ablative sense in context",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "naliṅgeśa",
+     "gloss": "liṅga-lord",
+     "grounds": "first member of compound referring to the deity's vehicle",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāhane",
+     "gloss": "vehicle",
+     "grounds": "locative object indicating what has fallen",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "patite",
+     "gloss": "fallen",
+     "grounds": "describes the mishap",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "specifies the place of falling",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which fallen weapons, missiles, or divine vehicles on earth trigger the prescribed recitation?",
+   "premises": [
+    "Weapons or missiles may fall on earth",
+    "The liṅga-lord's vehicle may fall on earth",
+    "Such falls constitute ritual mishaps"
+   ],
+   "inference": "The prescribed recitation applies when a weapon, missile, or the liṅga-lord's vehicle falls on earth.",
+   "uncertainties": [
+    "The exact parsing of āyudhāstrān as a compound is inferred from context."
+   ],
+   "plain_english": "This applies when a weapon or missile, or the vehicle of the liṅga-lord, falls on the earth."
+  },
+  {
+   "verse": 3578,
+   "rows": [
+    {
+     "surface": "pūjāyāḥ",
+     "gloss": "of-worship",
+     "grounds": "denotes the ritual worship",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects this case to previous ones",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhyādi",
+     "gloss": "twilight-etc",
+     "grounds": "first member of compound indicating parts of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vibhinnāyāḥ",
+     "gloss": "disrupted",
+     "grounds": "qualifies the worship as broken or divided",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vilopane",
+     "gloss": "in-destruction",
+     "grounds": "locative indicating the occasion of loss",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What disruption or destruction of worship and twilight rites requires expiatory action?",
+   "premises": [
+    "Worship includes twilight and other rites",
+    "Such worship may be disrupted",
+    "Destruction of these rites may occur"
+   ],
+   "inference": "Expiatory action is required when worship, including twilight rites, is disrupted or destroyed.",
+   "uncertainties": [],
+   "plain_english": "And also when worship, including the twilight rites and so forth, is disrupted or destroyed."
+  },
+  {
+   "verse": 3579,
+   "rows": [
+    {
+     "surface": "anirvāṇa",
+     "gloss": "unextinguished",
+     "grounds": "first member of compound describing the lamp",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradīpasya",
+     "gloss": "of-lamp",
+     "grounds": "denotes the ritual lamp",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the proper state or continuity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naivadyāder",
+     "gloss": "of-food-offering-etc",
+     "grounds": "denotes food offerings and similar items",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vilopane",
+     "gloss": "in-destruction",
+     "grounds": "locative indicating loss or removal",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What failure regarding the lamp or destruction of food offerings requires expiation?",
+   "premises": [
+    "The lamp should remain unextinguished",
+    "Food offerings and similar items may be destroyed",
+    "Such failures disrupt the ritual"
+   ],
+   "inference": "Expiation is required when the lamp is not kept unextinguished or when food offerings and the like are destroyed.",
+   "uncertainties": [
+    "The scope of negation with na in relation to anirvāṇapradīpasya is contextually inferred."
+   ],
+   "plain_english": "When the lamp is not kept burning, or when the food offering and the like are destroyed."
+  },
+  {
+   "verse": 3580,
+   "rows": [
+    {
+     "surface": "vilupte",
+     "gloss": "destroyed",
+     "grounds": "describes the fire rite as lost",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vahnikārye",
+     "gloss": "fire-rite",
+     "grounds": "denotes the ritual fire activity",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homadravyavilopane",
+     "gloss": "fire-offering-material-destruction",
+     "grounds": "compound denoting loss of oblation materials",
+     "morph": "n.loc.sg compound"
+    }
+   ],
+   "question": "What loss of the fire rite or oblation materials requires expiatory action?",
+   "premises": [
+    "The fire rite may be destroyed",
+    "Oblation materials may be destroyed",
+    "Either case disrupts the ritual"
+   ],
+   "inference": "Expiatory action is required when the fire rite is destroyed or when oblation materials are lost.",
+   "uncertainties": [],
+   "plain_english": "Or when the fire rite is destroyed, or when the materials for the fire offering are lost."
+  },
+  {
+   "verse": 3581,
+   "rows": [
+    {
+     "surface": "rathārohaḥ",
+     "gloss": "chariot-mounting",
+     "grounds": "denotes the act of mounting the chariot",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "vihīnaḥ",
+     "gloss": "lacking",
+     "grounds": "indicates absence of the act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīcāḥ",
+     "gloss": "low",
+     "grounds": "describes the condition of people",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "expresses the resulting state",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "manujāḥ",
+     "gloss": "people",
+     "grounds": "denotes the affected humans",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "specifies the realm affected",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What social consequence follows if the chariot-mounting rite is omitted?",
+   "premises": [
+    "Chariot-mounting may be lacking",
+    "Ritual omission has social consequences",
+    "People on earth are affected"
+   ],
+   "inference": "If chariot-mounting is lacking, people on earth would become low.",
+   "uncertainties": [],
+   "plain_english": "If the mounting of the chariot is omitted, people on earth would become degraded."
+  },
+  {
+   "verse": 3582,
+   "rows": [
+    {
+     "surface": "yānakāle",
+     "gloss": "at-procession-time",
+     "grounds": "locative indicating the time of the vehicle procession",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "rathādīnāṃ",
+     "gloss": "of-chariot-etc",
+     "grounds": "denotes chariots and similar vehicles",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhaṅge",
+     "gloss": "in-breakage",
+     "grounds": "locative indicating damage",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhaṅgaḥ",
+     "gloss": "breakage",
+     "grounds": "denotes ruin as consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvaḥ",
+     "gloss": "of-earth",
+     "grounds": "denotes the affected realm",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "expresses the resulting consequence",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What consequence for the earth follows from breakage of chariots during procession time?",
+   "premises": [
+    "Chariots and similar vehicles may break during procession",
+    "Ritual mishaps have broader consequences",
+    "The earth is subject to such consequences"
+   ],
+   "inference": "If chariots and the like break during procession time, there would be ruin for the earth.",
+   "uncertainties": [],
+   "plain_english": "If chariots and the like break at the time of the procession, there would be ruin for the earth."
+  },
+  {
+   "verse": 3583,
+   "rows": [
+    {
+     "surface": "taddeśa",
+     "gloss": "that-place",
+     "grounds": "first member of compound indicating location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhāmni",
+     "gloss": "in-shrine",
+     "grounds": "locative denoting the sacred abode",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescribes remedial action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "yānādau",
+     "gloss": "at-procession-start",
+     "grounds": "locative indicating the beginning of the procession",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "doṣaśāntaye",
+     "gloss": "for-fault-pacification",
+     "grounds": "dative expressing purpose of remedy",
+     "morph": "f.dat.sg compound"
+    }
+   ],
+   "question": "Where and for what purpose should remedial rites be performed after a procession mishap?",
+   "premises": [
+    "A fault has occurred in the procession",
+    "Remedial action is required",
+    "The shrine or procession start is a suitable place"
+   ],
+   "inference": "One should perform rites in that place's shrine or at the start of the procession for pacification of the fault.",
+   "uncertainties": [],
+   "plain_english": "One should perform rites in that place's shrine, or at the beginning of the procession, for the pacification of the fault."
+  },
+  {
+   "verse": 3584,
+   "rows": [
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund √ānī"
+    },
+    {
+     "surface": "śivikādyaṃ",
+     "gloss": "palanquin-etc",
+     "grounds": "denotes a palanquin or similar vehicle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indicates an alternative means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "specifies the location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āropya",
+     "gloss": "having-mounted",
+     "grounds": "absolutive indicating placing the deity",
+     "morph": "gerund √āruh"
+    },
+    {
+     "surface": "maheśvaram",
+     "gloss": "great-lord",
+     "grounds": "denotes the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What substitute arrangement should be made for the deity after a vehicle mishap?",
+   "premises": [
+    "A vehicle mishap has occurred",
+    "A substitute vehicle can be brought",
+    "The deity must be mounted and conveyed"
+   ],
+   "inference": "One should bring a palanquin or the like and mount the great lord upon it there.",
+   "uncertainties": [],
+   "plain_english": "Having brought a palanquin or the like, one should mount the great lord upon it there."
+  },
+  {
+   "verse": 3585,
+   "rows": [
+    {
+     "surface": "vinodadarśanakāle",
+     "gloss": "at-entertainment-viewing-time",
+     "grounds": "locative compound indicating the time of spectacle",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "jātaḥ",
+     "gloss": "arisen",
+     "grounds": "describes the occurrence of conflict",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalahaḥ",
+     "gloss": "quarrel",
+     "grounds": "denotes the disturbance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahān",
+     "gloss": "great",
+     "grounds": "qualifies the severity of the quarrel",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What disturbance during the entertainment viewing constitutes a serious ritual fault?",
+   "premises": [
+    "Entertainment viewing is part of the ritual occasion",
+    "A quarrel may arise during it",
+    "The quarrel may be great"
+   ],
+   "inference": "A great quarrel arising at the time of entertainment viewing constitutes a serious fault.",
+   "uncertainties": [],
+   "plain_english": "If a great quarrel arises at the time of the entertainment viewing."
+  },
+  {
+   "verse": 3586,
+   "rows": [
+    {
+     "surface": "vinodadarśane",
+     "gloss": "in-entertainment-viewing",
+     "grounds": "locative denoting the spectacle",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "lacking",
+     "grounds": "indicates omission or deficiency",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃhitāhomam",
+     "gloss": "saṃhitā-fire-offering",
+     "grounds": "denotes the prescribed oblation rite",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes remedial action",
+     "morph": "3.sg.opt.act √ācar"
+    }
+   ],
+   "question": "What remedial rite should be performed when the entertainment viewing is lacking?",
+   "premises": [
+    "Entertainment viewing may be lacking",
+    "A remedial rite is required",
+    "The saṃhitā fire offering is prescribed"
+   ],
+   "inference": "One should perform the saṃhitā fire offering when the entertainment viewing is lacking.",
+   "uncertainties": [],
+   "plain_english": "If the entertainment viewing is lacking, one should perform the saṃhitā fire offering."
+  },
+  {
+   "verse": 3587,
+   "rows": [
+    {
+     "surface": "yānāntasnasnapane",
+     "gloss": "at-procession-end-bathing",
+     "grounds": "locative compound denoting bathing at the end of procession",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "lacking",
+     "grounds": "indicates omission of the bathing",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāntihomavilopite",
+     "gloss": "peace-offering-destroyed",
+     "grounds": "compound indicating loss of the pacification oblation",
+     "morph": "n.loc.sg compound"
+    }
+   ],
+   "question": "What ritual omissions at the end of the procession require further remedial measures?",
+   "premises": [
+    "Bathing at the end of the procession may be lacking",
+    "The peace offering may be destroyed",
+    "These omissions require remedy"
+   ],
+   "inference": "Remedial measures are required when the end-of-procession bathing is lacking and the peace offering is destroyed.",
+   "uncertainties": [
+    "The compound yānāntasnasnapane appears irregular; interpreted as bathing at the end of the procession."
+   ],
+   "plain_english": "When the bathing at the end of the procession is lacking and the peace offering is destroyed."
+  },
+  {
+   "verse": 3588,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "denotes the ritual bath",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-offering",
+     "grounds": "denotes the pacification fire offering",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-perform",
+     "grounds": "prescribes carrying out the rites",
+     "morph": "3.sg.opt.act √nī"
+    },
+    {
+     "surface": "sannidhi",
+     "gloss": "in-presence",
+     "grounds": "locative indicating before the deity",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "dative expressing purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What rites must be performed in the deity's presence to accomplish remedy for omissions?",
+   "premises": [
+    "Bathing and peace offering may have been omitted",
+    "These rites must be carried out",
+    "Performance in the deity's presence brings accomplishment"
+   ],
+   "inference": "One should perform the bathing and the peace offering in the deity's presence for accomplishment.",
+   "uncertainties": [],
+   "plain_english": "One should perform the bathing and the peace offering in the presence of the deity for accomplishment."
+  },
+  {
+   "verse": 3589,
+   "rows": [
+    {
+     "surface": "pracurasnapanaṃ",
+     "gloss": "abundant-bathing",
+     "grounds": "compound denoting extensive ritual bathing",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-offering",
+     "grounds": "denotes the pacification fire offering",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "mahattaram",
+     "gloss": "greater",
+     "grounds": "qualifies the offering as more extensive",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What intensified remedial rites should be performed in serious cases of ritual fault?",
+   "premises": [
+    "A serious ritual fault requires remedy",
+    "Bathing can be performed abundantly",
+    "The peace offering can be made greater"
+   ],
+   "inference": "One should perform abundant bathing and a greater peace offering.",
+   "uncertainties": [],
+   "plain_english": "One should perform abundant bathing and a greater peace offering."
+  },
+  {
+   "verse": 3590,
+   "rows": [
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-offering",
+     "grounds": "denotes the pacification fire offering",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates the time of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior completion",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "tailābhyaṅgaṃ",
+     "gloss": "oil-anointing",
+     "grounds": "compound denoting anointing with oil",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes the subsequent action",
+     "morph": "3.sg.opt.act √samācar"
+    }
+   ],
+   "question": "What ritual action should follow the performance of the peace offering?",
+   "premises": [
+    "The peace offering is performed first",
+    "A subsequent rite is prescribed",
+    "Oil anointing is that rite"
+   ],
+   "inference": "After performing the peace offering, one should perform the oil anointing.",
+   "uncertainties": [],
+   "plain_english": "Then, having performed the peace offering, one should perform the oil anointing."
+  },
+  {
+   "verse": 3591,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "states the resulting condition",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "pāpinaḥ",
+     "gloss": "sinful",
+     "grounds": "describes those affected by the fault",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "indicates totality of those affected",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "for-that",
+     "grounds": "expresses purpose of remedy",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "śāntim",
+     "gloss": "pacification",
+     "grounds": "denotes the remedial rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes the remedy",
+     "morph": "3.sg.opt.act √ācar"
+    }
+   ],
+   "question": "What consequence affects all involved and what remedy must be performed for it?",
+   "premises": [
+    "A ritual fault has occurred",
+    "All involved become sinful",
+    "Pacification is required for that fault"
+   ],
+   "inference": "All become sinful, therefore one should perform pacification for that purpose.",
+   "uncertainties": [],
+   "plain_english": "All become sinful; therefore one should perform pacification for that."
+  },
+  {
+   "verse": 3592,
+   "rows": [
+    {
+     "surface": "yātrādānasya",
+     "gloss": "of-procession-gift",
+     "grounds": "genitive compound denoting the giving of the procession",
+     "morph": "n.gen.sg compound"
+    },
+    {
+     "surface": "vicchede",
+     "gloss": "in-interruption",
+     "grounds": "locative indicating cessation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the procession",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yātrā",
+     "gloss": "procession",
+     "grounds": "denotes the ritual procession",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "niṣphalā",
+     "gloss": "fruitless",
+     "grounds": "describes the consequence of interruption",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What consequence follows from interruption of the procession offering?",
+   "premises": [
+    "The procession offering may be interrupted",
+    "Interruption affects the ritual's efficacy",
+    "The procession's result depends on completion"
+   ],
+   "inference": "If the procession offering is interrupted, that procession would be fruitless.",
+   "uncertainties": [],
+   "plain_english": "If the giving of the procession is interrupted, that procession would be fruitless."
+  },
+  {
+   "verse": 3593,
+   "rows": [
+    {
+     "surface": "mṛgayāyāḥ",
+     "gloss": "of-hunt",
+     "grounds": "denotes the ritual hunt",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks a contrast or new case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaikalye",
+     "gloss": "in-deficiency",
+     "grounds": "locative indicating incompleteness",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nṛpasya",
+     "gloss": "of-king",
+     "grounds": "denotes the affected ruler",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "apajayaḥ",
+     "gloss": "defeat",
+     "grounds": "denotes the adverse consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "expresses the resulting consequence",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What consequence for the king follows from deficiency in the ritual hunt?",
+   "premises": [
+    "The ritual hunt may be deficient",
+    "The king is connected to this rite",
+    "Deficiency brings adverse consequences"
+   ],
+   "inference": "If the hunt is deficient, there would be defeat for the king.",
+   "uncertainties": [],
+   "plain_english": "But if the hunt is deficient, there would be defeat for the king."
+  },
+  {
+   "verse": 3594,
+   "rows": [
+    {
+     "surface": "hīne",
+     "gloss": "lacking",
+     "grounds": "indicates omission or deficiency",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kautukatīrthe",
+     "gloss": "festival-bathing-place",
+     "grounds": "compound denoting the sacred bathing site of the festival",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "expresses the resulting condition",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes the negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṅgādisannidhiḥ",
+     "gloss": "gaṅgā-etc-presence",
+     "grounds": "compound denoting the presence of Gaṅgā and other sacred waters",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What sacred presence is absent when the festival bathing place is lacking?",
+   "premises": [
+    "The festival bathing place may be lacking",
+    "Sacred waters are invoked in such rites",
+    "Their presence depends on proper observance"
+   ],
+   "inference": "If the festival bathing place is lacking, the presence of Gaṅgā and other sacred waters would not be there.",
+   "uncertainties": [],
+   "plain_english": "If the festival bathing place is lacking, the presence of Gaṅgā and the other sacred waters would indeed not be there."
+  },
+  {
+   "verse": 3595,
+   "rows": [
+    {
+     "surface": "niṣkṛtiḥ",
+     "gloss": "expiation",
+     "grounds": "denotes the remedial measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "expresses the prescribed remedy",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential application",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śāntihomaḥ",
+     "gloss": "peace-offering",
+     "grounds": "denotes one remedial rite",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative remedy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhitāhutiḥ",
+     "gloss": "saṃhitā-oblation",
+     "grounds": "denotes another remedial rite",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What expiatory rites should be performed in due order for the stated fault?",
+   "premises": [
+    "A fault requires expiation",
+    "Remedies are applied in order",
+    "Peace offering and saṃhitā oblation are options"
+   ],
+   "inference": "The expiation should be, in order, a peace offering or a saṃhitā oblation.",
+   "uncertainties": [],
+   "plain_english": "The expiation should be, in due order, a peace offering or a saṃhitā oblation."
+  },
+  {
+   "verse": 3596,
+   "rows": [
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "indicates an alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kautuka",
+     "gloss": "festival",
+     "grounds": "first member of compound denoting the rite",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "denotes the ritual bath",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "prescribes arranging the rite",
+     "morph": "3.sg.opt.act √kḷp"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "prescribes omission as alternative",
+     "morph": "3.sg.opt.act √vṛj"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast between options",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative actions are permitted regarding the festival bathing when the proper place is unavailable?",
+   "premises": [
+    "The proper bathing place may be unavailable",
+    "The festival bathing must be addressed",
+    "Arranging it elsewhere or avoiding it are options"
+   ],
+   "inference": "One should arrange the festival bathing elsewhere, or alternatively avoid it.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the festival bathing elsewhere, or else avoid it."
+  },
+  {
+   "verse": 3597,
+   "rows": [
+    {
+     "surface": "śāntihomaḥ",
+     "gloss": "peace-offering",
+     "grounds": "denotes the pacification fire offering",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "expresses the prescribed remedy",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "first member indicating a part",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅge",
+     "gloss": "in-limb",
+     "grounds": "locative indicating each part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "expresses the prescribed remedy",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "saṃhitāhutiḥ",
+     "gloss": "saṃhitā-oblation",
+     "grounds": "denotes the saṃhitā fire offering",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What remedial offerings should be performed for faults affecting each ritual limb?",
+   "premises": [
+    "Faults may affect individual ritual limbs",
+    "Remedies must correspond to the fault",
+    "Peace offering and saṃhitā oblation are prescribed"
+   ],
+   "inference": "There should be a peace offering, and for each limb there should be a saṃhitā oblation.",
+   "uncertainties": [
+    "The distributive sense of aṅge aṅge is inferred from the repetition."
+   ],
+   "plain_english": "There should be a peace offering, and for each limb there should be a saṃhitā oblation."
+  },
+  {
+   "verse": 3598,
+   "rows": [
+    {
+     "surface": "cūrṇotsavabhrame",
+     "gloss": "powder-festival-disturbance",
+     "grounds": "compound denoting confusion in the powder festival",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "lacking",
+     "grounds": "indicates deficiency or omission",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃhitāhomam",
+     "gloss": "saṃhitā-fire-offering",
+     "grounds": "denotes the prescribed remedial oblation",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes the remedial action",
+     "morph": "3.sg.opt.act √ācar"
+    }
+   ],
+   "question": "What remedial rite should be performed when the powder festival is disturbed or deficient?",
+   "premises": [
+    "The powder festival may be disturbed or deficient",
+    "Such a fault requires remedy",
+    "The saṃhitā fire offering is prescribed"
+   ],
+   "inference": "One should perform the saṃhitā fire offering when the powder festival is disturbed or deficient.",
+   "uncertainties": [],
+   "plain_english": "If the powder festival is disturbed or deficient, one should perform the saṃhitā fire offering."
+  },
+  {
+   "verse": 3599,
+   "rows": [
+    {
+     "surface": "śāntiṃ",
+     "gloss": "pacification",
+     "grounds": "denotes the remedial rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior completion",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "tadarthaṃ",
+     "gloss": "for-that",
+     "grounds": "expresses purpose related to the fault",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks transition to next action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthakāryaṃ",
+     "gloss": "sacred-water-rite",
+     "grounds": "compound denoting the rite at the sacred bathing place",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indicates sequence after pacification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-conduct",
+     "grounds": "prescribes carrying out the rite",
+     "morph": "3.sg.opt.act √nī"
+    }
+   ],
+   "question": "What sequence of actions should follow after performing pacification for the fault?",
+   "premises": [
+    "Pacification must be performed for the fault",
+    "The sacred-water rite remains to be done",
+    "The rite should be conducted after pacification"
+   ],
+   "inference": "After performing pacification for that purpose, one should then conduct the sacred-water rite.",
+   "uncertainties": [],
+   "plain_english": "But having performed pacification for that, one should then conduct the sacred-water rite."
+  }
+ ]
+}

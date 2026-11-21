@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "puraścaraṇakāle",
+     "gloss": "puraścaraṇa-time",
+     "grounds": "compound of puraścaraṇa with kāle in locative sense",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative third singular of as",
+     "morph": "3.sg.opt (root as)"
+    },
+    {
+     "surface": "pīṭhadarśanam",
+     "gloss": "pīṭha-sight",
+     "grounds": "compound of pīṭha with darśana",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What condition governs the practitioner's conduct during puraścaraṇa when the pīṭha becomes visible?",
+   "premises": [
+    "puraścaraṇa time is singled out",
+    "visibility of the pīṭha is conditional",
+    "the verse sets a rule for that moment"
+   ],
+   "inference": "The practitioner's conduct during puraścaraṇa is qualified by whether the pīṭha is seen.",
+   "uncertainties": [
+    "the exact consequence of pīṭha-sight is not stated in this verse",
+    "the relation to the prior day-night rule is implicit"
+   ],
+   "plain_english": "But at the time of puraścaraṇa, if there is sight of the pīṭha."
+  }
+ ]
+}

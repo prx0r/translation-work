@@ -1,0 +1,1004 @@
+{
+ "song": "mukta-m0-p119",
+ "items": [
+  {
+   "verse": 2951,
+   "rows": [
+    {
+     "surface": "nālikā",
+     "gloss": "pillar-ring",
+     "grounds": "architectural member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "andhārikā",
+     "gloss": "support",
+     "grounds": "architectural member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāra",
+     "gloss": "support",
+     "grounds": "architectural member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hāra",
+     "gloss": "breast",
+     "grounds": "body part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "urasya",
+     "gloss": "of-breast",
+     "grounds": "genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "abhimaṇḍanam",
+     "gloss": "adornment",
+     "grounds": "decoration",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What adornment belongs to the breast of the pillar-ring support?",
+   "premises": [
+    "nālikā andhārikā dhāra are architectural supports",
+    "hāra urasya denotes breast adornment",
+    "abhimaṇḍanam names decoration"
+   ],
+   "inference": "The verse identifies an adornment associated with the breast of the support structure.",
+   "uncertainties": [
+    "exact architectural referent uncertain"
+   ],
+   "plain_english": "The pillar-ring support is adorned at the breast."
+  },
+  {
+   "verse": 2952,
+   "rows": [
+    {
+     "surface": "śukanāsikayā",
+     "gloss": "parrot-nose",
+     "grounds": "instrumental relation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "upetam",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "fitting",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramukhamaṇṭapam",
+     "gloss": "fore-hall",
+     "grounds": "architectural space",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fore-hall is fitting and endowed with a parrot-nose?",
+   "premises": [
+    "śukanāsikayā is instrumental",
+    "upetam means endowed with",
+    "yuktam means fitting",
+    "pramukhamaṇṭapam is fore-hall"
+   ],
+   "inference": "The fore-hall is fitting and endowed with a parrot-nose feature.",
+   "uncertainties": [
+    "parrot-nose architectural sense uncertain"
+   ],
+   "plain_english": "The fore-hall is fitting and endowed with a parrot-nose."
+  },
+  {
+   "verse": 2953,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭsaptabhaumam",
+     "gloss": "six-seven-storied",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triḥpañcatriḥ",
+     "gloss": "three-times-five-times",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptabhāgabhāk",
+     "gloss": "seven-part-possessing",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What storied structure is thus described with three-times-five-times and seven-part possession?",
+   "premises": [
+    "tathā means thus",
+    "ṣaṭsaptabhaumam means six-seven-storied",
+    "triḥpañcatriḥ means three-times-five-times",
+    "saptabhāgabhāk means seven-part-possessing"
+   ],
+   "inference": "The verse describes a storied structure with specified part possession.",
+   "uncertainties": [
+    "numerical interpretation uncertain"
+   ],
+   "plain_english": "Thus a six-seven-storied structure is described with three-times-five-times and seven-part possession."
+  },
+  {
+   "verse": 2954,
+   "rows": [
+    {
+     "surface": "saptadaśadviraṣṭāṃśa",
+     "gloss": "seventeen-two-eight-part",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "navāṣṭadaśakāṃśakam",
+     "gloss": "nine-eight-ten-part-possessing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What part-measure is specified by seventeen-two-eight and nine-eight-ten?",
+   "premises": [
+    "saptadaśadviraṣṭāṃśa means seventeen-two-eight-part",
+    "navāṣṭadaśakāṃśakam means nine-eight-ten-part-possessing"
+   ],
+   "inference": "The verse gives a part-measure specification.",
+   "uncertainties": [
+    "exact numerical sense uncertain"
+   ],
+   "plain_english": "A part-measure is specified by seventeen-two-eight and nine-eight-ten."
+  },
+  {
+   "verse": 2955,
+   "rows": [
+    {
+     "surface": "madhyakarṇa",
+     "gloss": "middle-ear",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinirgacchat",
+     "gloss": "issuing-from",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pramāṇa",
+     "gloss": "measure",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavanānvitam",
+     "gloss": "building-endowed-with",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What building is endowed with measure issuing from the middle ear?",
+   "premises": [
+    "madhyakarṇa means middle-ear",
+    "vinirgacchat means issuing-from",
+    "pramāṇa means measure",
+    "bhavanānvitam means building-endowed-with"
+   ],
+   "inference": "The building is endowed with a measure issuing from the middle ear.",
+   "uncertainties": [
+    "middle-ear architectural sense uncertain"
+   ],
+   "plain_english": "The building is endowed with a measure issuing from the middle ear."
+  },
+  {
+   "verse": 2956,
+   "rows": [
+    {
+     "surface": "yuktam",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "drāmiḍavinyāsam",
+     "gloss": "Drāvida-arrangement",
+     "grounds": "compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāgarakriyayānvitam",
+     "gloss": "Nāgara-practice-endowed-with",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is endowed with Drāvida arrangement and Nāgara practice?",
+   "premises": [
+    "yuktam means endowed-with",
+    "drāmiḍavinyāsam means Drāvida-arrangement",
+    "nāgarakriyayānvitam means Nāgara-practice-endowed-with"
+   ],
+   "inference": "The subject is endowed with both Drāvida arrangement and Nāgara practice.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "It is endowed with Drāvida arrangement and Nāgara practice."
+  },
+  {
+   "verse": 2957,
+   "rows": [
+    {
+     "surface": "sakhaṇḍākhaṇḍaharmyam",
+     "gloss": "with-parts-without-parts-mansion",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaṇḍaharmyobhayātmakam",
+     "gloss": "parted-mansion-both-nature",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What mansion has both parted and unparted nature?",
+   "premises": [
+    "sakhaṇḍākhaṇḍaharmyam means with-parts-without-parts-mansion",
+    "tu is particle",
+    "khaṇḍaharmyobhayātmakam means parted-mansion-both-nature"
+   ],
+   "inference": "The mansion has both parted and unparted nature.",
+   "uncertainties": [
+    "exact mansion type uncertain"
+   ],
+   "plain_english": "The mansion has both parted and unparted nature."
+  },
+  {
+   "verse": 2958,
+   "rows": [
+    {
+     "surface": "evamādi",
+     "gloss": "thus-beginning",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vicitrāṅgam",
+     "gloss": "variegated-limbed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vimānam",
+     "gloss": "vimāna",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "noun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vesaram",
+     "gloss": "Vesara",
+     "grounds": "proper name",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What variegated-limbed vimāna is named Vesara?",
+   "premises": [
+    "evamādi means thus-beginning",
+    "vicitrāṅgam means variegated-limbed",
+    "vimānam means vimāna",
+    "nāma means name",
+    "vesaram means Vesara"
+   ],
+   "inference": "The Vesara vimāna is variegated-limbed and thus-beginning.",
+   "uncertainties": [
+    "exact scope of evamādi uncertain"
+   ],
+   "plain_english": "Thus-beginning variegated-limbed vimāna is named Vesara."
+  },
+  {
+   "verse": 2959,
+   "rows": [
+    {
+     "surface": "tadupari",
+     "gloss": "above-that",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucitagrīva",
+     "gloss": "suitable-neck",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śikhara",
+     "gloss": "spire",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthūpikānvitam",
+     "gloss": "finial-endowed-with",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What spire above that is endowed with a suitable neck and finial?",
+   "premises": [
+    "tadupari means above-that",
+    "ucitagrīva means suitable-neck",
+    "śikhara means spire",
+    "sthūpikānvitam means finial-endowed-with"
+   ],
+   "inference": "The spire above that has a suitable neck and finial.",
+   "uncertainties": [
+    "antecedent of tad uncertain"
+   ],
+   "plain_english": "Above that, the spire has a suitable neck and finial."
+  },
+  {
+   "verse": 2960,
+   "rows": [
+    {
+     "surface": "sādhāraṇatala",
+     "gloss": "common-platform",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āsakta",
+     "gloss": "attached",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāyastambha",
+     "gloss": "body-pillar",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niveśanam",
+     "gloss": "arrangement",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What arrangement attaches a body-pillar to a common platform?",
+   "premises": [
+    "sādhāraṇatala means common-platform",
+    "āsakta means attached",
+    "kāyastambha means body-pillar",
+    "niveśanam means arrangement"
+   ],
+   "inference": "The arrangement attaches a body-pillar to a common platform.",
+   "uncertainties": [
+    "exact architectural relation uncertain"
+   ],
+   "plain_english": "The arrangement attaches a body-pillar to a common platform."
+  },
+  {
+   "verse": 2961,
+   "rows": [
+    {
+     "surface": "evamādi",
+     "gloss": "thus-beginning",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṅgavaicitryam",
+     "gloss": "limb-variegation",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varāṭam",
+     "gloss": "Varāṭa",
+     "grounds": "proper name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhāma",
+     "gloss": "abode",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sammatam",
+     "gloss": "approved",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What approved abode is Varāṭa with limb-variegation?",
+   "premises": [
+    "evamādi means thus-beginning",
+    "aṅgavaicitryam means limb-variegation",
+    "varāṭam means Varāṭa",
+    "dhāma means abode",
+    "sammatam means approved"
+   ],
+   "inference": "The Varāṭa abode is approved and has limb-variegation.",
+   "uncertainties": [
+    "exact scope uncertain"
+   ],
+   "plain_english": "The approved Varāṭa abode has limb-variegation."
+  },
+  {
+   "verse": 2962,
+   "rows": [
+    {
+     "surface": "uttarādhaḥ",
+     "gloss": "upper-lower",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upārohakriyā",
+     "gloss": "superstructure-action",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "andhārikayānvitam",
+     "gloss": "andhārikā-endowed-with",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is endowed with upper-lower superstructure action and andhārikā?",
+   "premises": [
+    "uttarādhaḥ means upper-lower",
+    "upārohakriyā means superstructure-action",
+    "andhārikayānvitam means andhārikā-endowed-with"
+   ],
+   "inference": "The subject is endowed with upper-lower superstructure action and andhārikā.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "It is endowed with upper-lower superstructure action and andhārikā."
+  },
+  {
+   "verse": 2963,
+   "rows": [
+    {
+     "surface": "caturaśrāṣṭavṛttābham",
+     "gloss": "four-sided-eight-circular-like",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "grīvāśikhara",
+     "gloss": "neck-spire",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saurabham",
+     "gloss": "fragrant",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What neck-spire is four-sided-eight-circular-like and fragrant?",
+   "premises": [
+    "caturaśrāṣṭavṛttābham means four-sided-eight-circular-like",
+    "grīvāśikhara means neck-spire",
+    "saurabham means fragrant"
+   ],
+   "inference": "The neck-spire is four-sided-eight-circular-like and fragrant.",
+   "uncertainties": [
+    "exact shape sense uncertain"
+   ],
+   "plain_english": "The neck-spire is four-sided-eight-circular-like and fragrant."
+  },
+  {
+   "verse": 2964,
+   "rows": [
+    {
+     "surface": "nālikā",
+     "gloss": "pillar-ring",
+     "grounds": "architectural member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "andhārikā",
+     "gloss": "support",
+     "grounds": "architectural member",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāra",
+     "gloss": "support",
+     "grounds": "architectural member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hāra",
+     "gloss": "breast",
+     "grounds": "body part",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "urasya",
+     "gloss": "of-breast",
+     "grounds": "genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "abhimaṇḍanam",
+     "gloss": "adornment",
+     "grounds": "decoration",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What adornment belongs to the breast of the pillar-ring support?",
+   "premises": [
+    "nālikā andhārikā dhāra are architectural supports",
+    "hāra urasya denotes breast adornment",
+    "abhimaṇḍanam names decoration"
+   ],
+   "inference": "The verse identifies an adornment associated with the breast of the support structure.",
+   "uncertainties": [
+    "exact architectural referent uncertain"
+   ],
+   "plain_english": "The pillar-ring support is adorned at the breast."
+  },
+  {
+   "verse": 2965,
+   "rows": [
+    {
+     "surface": "ṣaḍvidhākṛti",
+     "gloss": "six-kinds-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yuk",
+     "gloss": "endowed-with",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadma",
+     "gloss": "mansion",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sammatam",
+     "gloss": "approved",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārvadeśikam",
+     "gloss": "all-countries",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What approved mansion of six kinds is all-countries?",
+   "premises": [
+    "ṣaḍvidhākṛti means six-kinds-form",
+    "yuk means endowed-with",
+    "sadma means mansion",
+    "sammatam means approved",
+    "sārvadeśikam means all-countries"
+   ],
+   "inference": "The approved mansion of six kinds is all-countries.",
+   "uncertainties": [
+    "exact scope uncertain"
+   ],
+   "plain_english": "The approved six-kinds mansion is all-countries."
+  },
+  {
+   "verse": 2966,
+   "rows": [
+    {
+     "surface": "hastaccheda",
+     "gloss": "hand-cut",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parīhāra",
+     "gloss": "avoidance",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyūnādhika",
+     "gloss": "less-more",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samīkṛtam",
+     "gloss": "made-equal",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is made equal by avoiding hand-cut excess or deficiency?",
+   "premises": [
+    "hastaccheda means hand-cut",
+    "parīhāra means avoidance",
+    "nyūnādhika means less-more",
+    "samīkṛtam means made-equal"
+   ],
+   "inference": "The subject is made equal by avoiding hand-cut excess or deficiency.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "It is made equal by avoiding hand-cut excess or deficiency."
+  },
+  {
+   "verse": 2967,
+   "rows": [
+    {
+     "surface": "hastacchede",
+     "gloss": "hand-cut",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parīhṛtyaiḥ",
+     "gloss": "avoiding",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "hṛtvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhāmavidhāvit",
+     "gloss": "abode-knowing",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What abode-knowing agent takes after avoiding hand-cut?",
+   "premises": [
+    "hastacchede means hand-cut",
+    "parīhṛtyaiḥ means avoiding",
+    "hṛtvā means having-taken",
+    "dhāmavidhāvit means abode-knowing"
+   ],
+   "inference": "The abode-knowing agent takes after avoiding hand-cut.",
+   "uncertainties": [
+    "exact action uncertain"
+   ],
+   "plain_english": "The abode-knowing agent takes after avoiding hand-cut."
+  },
+  {
+   "verse": 2968,
+   "rows": [
+    {
+     "surface": "labdhamātra",
+     "gloss": "measure-only",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vihīnam",
+     "gloss": "without",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nātiriktam",
+     "gloss": "not-excessive",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "savaktrakam",
+     "gloss": "with-face",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is without measure-only, not excessive, and with-face?",
+   "premises": [
+    "labdhamātra means measure-only",
+    "vihīnam means without",
+    "tu is particle",
+    "nātiriktam means not-excessive",
+    "savaktrakam means with-face"
+   ],
+   "inference": "The subject is without measure-only, not excessive, and with-face.",
+   "uncertainties": [
+    "subject omitted"
+   ],
+   "plain_english": "It is without measure-only, not excessive, and with-face."
+  },
+  {
+   "verse": 2969,
+   "rows": [
+    {
+     "surface": "tripañcasaptadvicatuḥṣaṭ",
+     "gloss": "three-five-seven-two-four-six",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhaktyaikatalakramāt",
+     "gloss": "by-division-one-storey-order",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What order follows three-five-seven-two-four-six by division one storey?",
+   "premises": [
+    "tripañcasaptadvicatuḥṣaṭ means three-five-seven-two-four-six",
+    "abhaktyaikatalakramāt means by-division-one-storey-order"
+   ],
+   "inference": "The verse gives an order by division one storey.",
+   "uncertainties": [
+    "exact numerical order uncertain"
+   ],
+   "plain_english": "The order follows three-five-seven-two-four-six by division one storey."
+  },
+  {
+   "verse": 2970,
+   "rows": [
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitricatuṣpañca",
+     "gloss": "two-three-four-five",
+     "grounds": "compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "talam aṣṭanavāṃśakam",
+     "gloss": "storey-eight-nine-part",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What storey is directly two-three-four-five and eight-nine-part?",
+   "premises": [
+    "sākṣāt means directly",
+    "dvitricatuṣpañca means two-three-four-five",
+    "talam aṣṭanavāṃśakam means storey-eight-nine-part"
+   ],
+   "inference": "The storey is directly two-three-four-five and eight-nine-part.",
+   "uncertainties": [
+    "exact storey count uncertain"
+   ],
+   "plain_english": "The storey is directly two-three-four-five and eight-nine-part."
+  },
+  {
+   "verse": 2971,
+   "rows": [
+    {
+     "surface": "śreṣṭham",
+     "gloss": "best",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayodaśāṃśam",
+     "gloss": "thirteen-part",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśāṃśam",
+     "gloss": "twelve-part",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is remembered as best thirteen-part or twelve-part?",
+   "premises": [
+    "śreṣṭham means best",
+    "trayodaśāṃśam means thirteen-part",
+    "tu is particle",
+    "dvādaśāṃśam means twelve-part",
+    "iti means thus",
+    "smṛtam means remembered"
+   ],
+   "inference": "The best is remembered as thirteen-part or twelve-part.",
+   "uncertainties": [
+    "alternative reading uncertain"
+   ],
+   "plain_english": "The best is remembered as thirteen-part or twelve-part."
+  },
+  {
+   "verse": 2972,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭatalam",
+     "gloss": "eight-storeyed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "proclaimed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navabhaumam",
+     "gloss": "nine-storied",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niketanam",
+     "gloss": "dwelling",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What dwelling is proclaimed as eight-storeyed and nine-storied?",
+   "premises": [
+    "tathā means thus",
+    "ca means ca",
+    "aṣṭatalam means eight-storeyed",
+    "proktam means proclaimed",
+    "navabhaumam means nine-storied",
+    "niketanam means dwelling"
+   ],
+   "inference": "The dwelling is proclaimed as eight-storeyed and nine-storied.",
+   "uncertainties": [
+    "exact dwelling type uncertain"
+   ],
+   "plain_english": "Thus the dwelling is proclaimed as eight-storeyed and nine-storied."
+  },
+  {
+   "verse": 2973,
+   "rows": [
+    {
+     "surface": "vimānam",
+     "gloss": "vimāna",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśabhaumam",
+     "gloss": "ten-storied",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvātriṃśatsaptabhāgayuk",
+     "gloss": "thirty-two-seven-part-endowed",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ten-storied vimāna is endowed with thirty-two-seven-part?",
+   "premises": [
+    "vimānam means vimāna",
+    "daśabhaumam means ten-storied",
+    "tu is particle",
+    "dvātriṃśatsaptabhāgayuk means thirty-two-seven-part-endowed"
+   ],
+   "inference": "The ten-storied vimāna is endowed with thirty-two-seven-part.",
+   "uncertainties": [
+    "exact part sense uncertain"
+   ],
+   "plain_english": "The ten-storied vimāna is endowed with thirty-two-seven-part."
+  },
+  {
+   "verse": 2974,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvādaśabhaumam",
+     "gloss": "twelve-storied",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuḥṣaṭpañcabhāgabhāk",
+     "gloss": "four-six-five-part-possessing",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What twelve-storied structure possesses four-six-five-part?",
+   "premises": [
+    "tathā means thus",
+    "dvādaśabhaumam means twelve-storied",
+    "tu is particle",
+    "catuḥṣaṭpañcabhāgabhāk means four-six-five-part-possessing"
+   ],
+   "inference": "The twelve-storied structure possesses four-six-five-part.",
+   "uncertainties": [
+    "exact structure type uncertain"
+   ],
+   "plain_english": "Thus the twelve-storied structure possesses four-six-five-part."
+  }
+ ]
+}

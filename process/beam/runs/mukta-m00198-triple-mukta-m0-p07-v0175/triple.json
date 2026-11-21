@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "iṣṭakāḥ",
+     "gloss": "sacred-bricks",
+     "grounds": "direct object of the worship enjoined; accusative plural in form and function",
+     "morph": "f.acc.pl."
+    },
+    {
+     "surface": "kalaśāgniṃ",
+     "gloss": "pot-and-fire",
+     "grounds": "compound object denoting the ritual pot and the fire; internal compound boundary at kalaśa-agni",
+     "morph": "m.acc.sg. (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the objects to be worshipped",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayettu",
+     "gloss": "should-worship",
+     "grounds": "optative injunction; fused with emphatic particle tu",
+     "morph": "3.sg.opt.act. (√pūj) + (indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "marks special emphasis in the prescribed worship",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which ritual objects must the preeminent teacher worship with special emphasis at dawn?",
+   "premises": [
+    "The preceding context places the action at dawn after the night vigil.",
+    "The preeminent teacher is the officiating agent in this ritual sequence.",
+    "The sacred bricks and the pot-and-fire are specified as objects of worship."
+   ],
+   "inference": "Therefore, at dawn the preeminent teacher should especially worship the sacred bricks and the pot-and-fire.",
+   "uncertainties": [
+    "Whether kalaśāgniṃ refers to the pot and fire as a single ritual unit or as two closely associated objects is not fully explicit."
+   ],
+   "plain_english": "At dawn, the preeminent teacher should especially worship the sacred bricks and the pot and fire."
+  }
+ ]
+}

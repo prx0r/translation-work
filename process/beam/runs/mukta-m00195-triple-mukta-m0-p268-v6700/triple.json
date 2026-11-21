@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p268",
+ "items": [
+  {
+   "verse": 6700,
+   "rows": [
+    {
+     "surface": "nirmālyabhojinī",
+     "gloss": "eater-of-remnants",
+     "grounds": "compound nirmālya-bhojinī, one who consumes offered remnants",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "his",
+     "grounds": "pronoun indicating association with the preceding deity or mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "feminine deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tripuracaṇḍikā",
+     "gloss": "tripuracaṇḍikā",
+     "grounds": "proper name of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess is identified as the eater of his remnants?",
+   "premises": [
+    "A goddess is associated with him.",
+    "This goddess is named Tripuracaṇḍikā.",
+    "This goddess consumes the offered remnants."
+   ],
+   "inference": "Tripuracaṇḍikā is his goddess who eats the remnants.",
+   "uncertainties": [],
+   "plain_english": "And his goddess Tripuracaṇḍikā is the eater of remnants."
+  }
+ ]
+}

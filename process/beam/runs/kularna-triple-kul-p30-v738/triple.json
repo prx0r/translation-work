@@ -1,0 +1,425 @@
+{
+ "song": "kul-p30",
+ "items": [
+  {
+   "verse": 738,
+   "rows": [
+    {
+     "surface": "nātheti",
+     "gloss": "o-lord-thus",
+     "grounds": "nātha + iti fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kapilajaṭābhārabhāsvarapiṅgala",
+     "gloss": "shining-tawny-with-burden-of-tawny-matted-hair",
+     "grounds": "compound describing tawny shining hair burden",
+     "morph": "compound (bahuvrīhi)"
+    }
+   ],
+   "question": "What form of address opens this vaṭuka invocation?",
+   "premises": [
+    "The verse opens with nātheti.",
+    "It names a tawny matted-haired lord."
+   ],
+   "inference": "The invocation addresses a tawny-haired lord.",
+   "uncertainties": [
+    "Exact deity identification is not explicit."
+   ],
+   "plain_english": "O lord, thus shining tawny with the burden of tawny matted hair."
+  },
+  {
+   "verse": 739,
+   "rows": [
+    {
+     "surface": "ukto",
+     "gloss": "spoken",
+     "grounds": "past participle of vac",
+     "morph": "m.nom.sg (past part.)"
+    },
+    {
+     "surface": "vaṭukamantro'yaṃ",
+     "gloss": "this-vaṭuka-mantra",
+     "grounds": "vaṭuka + mantra + ayam fused",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "catuścatvāriṃśadakṣaraiḥ",
+     "gloss": "with-forty-four-syllables",
+     "grounds": "catuścatvāriṃśat + akṣara",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "How many syllables does this vaṭuka mantra have?",
+   "premises": [
+    "The mantra is spoken.",
+    "It has forty-four syllables."
+   ],
+   "inference": "This vaṭuka mantra is a forty-four-syllable mantra.",
+   "uncertainties": [
+    "No full mantra text is given."
+   ],
+   "plain_english": "This vaṭuka mantra, spoken, has forty-four syllables."
+  },
+  {
+   "verse": 740,
+   "rows": [
+    {
+     "surface": "śāntiṃ karotu me nityaṃ",
+     "gloss": "may-it-make-peace-for-me-always",
+     "grounds": "śānti + karotu + me + nityam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtavetālasevitaḥ",
+     "gloss": "served-by-spirits-and-vetālas",
+     "grounds": "bhūta + vetāla + sevita",
+     "morph": "m.nom.sg (past part.)"
+    }
+   ],
+   "question": "What blessing is sought from the spirit-served power?",
+   "premises": [
+    "Peace is requested always.",
+    "The power is served by spirits and vetālas."
+   ],
+   "inference": "The spirit-served power is asked to grant lasting peace.",
+   "uncertainties": [
+    "The exact referent of 'it' is implicit."
+   ],
+   "plain_english": "May it make peace for me always, served by spirits and vetālas."
+  },
+  {
+   "verse": 741,
+   "rows": [
+    {
+     "surface": "tatpaścāt",
+     "gloss": "thereafter",
+     "grounds": "tat + paścāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savarbhūtebhyaḥ",
+     "gloss": "to-all-beings",
+     "grounds": "sarva + bhūta",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "sarvabhūtādhivattī ca",
+     "gloss": "and-lord-of-all-beings",
+     "grounds": "sarva + bhūta + adhipati",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "To whom is the next offering directed after this?",
+   "premises": [
+    "The sequence moves thereafter.",
+    "The offering goes to all beings and their lord."
+   ],
+   "inference": "Afterwards the rite addresses all beings and the lord of all beings.",
+   "uncertainties": [
+    "The exact ritual action is abbreviated."
+   ],
+   "plain_english": "Thereafter, to all beings and the lord of all beings."
+  },
+  {
+   "verse": 742,
+   "rows": [
+    {
+     "surface": "trailokyeti padaṃ caiva",
+     "gloss": "the-word-trailokya-too",
+     "grounds": "trailokya + iti + pada",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsinībhya",
+     "gloss": "to-dwellers",
+     "grounds": "vāsinī",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "imāṃ vadet",
+     "gloss": "speak-this",
+     "grounds": "idam + vad",
+     "morph": "3.sg.act. (imperative)"
+    }
+   ],
+   "question": "What word is spoken to the dwellers?",
+   "premises": [
+    "The word trailokya is used.",
+    "It is spoken to dwellers."
+   ],
+   "inference": "The practitioner speaks 'trailokya' to the dwellers.",
+   "uncertainties": [
+    "The full sentence is elliptical."
+   ],
+   "plain_english": "The word trailokya too, speak this to the dwellers."
+  },
+  {
+   "verse": 743,
+   "rows": [
+    {
+     "surface": "kathito'yaṃ",
+     "gloss": "this-is-told",
+     "grounds": "kathita + ayam",
+     "morph": "m.nom.sg (past part.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "mahā + īśānī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcādaśākṣaraḥ",
+     "gloss": "fifteen-syllabled",
+     "grounds": "pañcadaśa + akṣara",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What mantra is told to the great goddess?",
+   "premises": [
+    "A mantra is told.",
+    "It is fifteen-syllabled."
+   ],
+   "inference": "The told mantra is a fifteen-syllabled mantra.",
+   "uncertainties": [
+    "The mantra's full text is not supplied."
+   ],
+   "plain_english": "This mantra is told, O great goddess: fifteen-syllabled."
+  },
+  {
+   "verse": 744,
+   "rows": [
+    {
+     "surface": "khecarī",
+     "gloss": "sky-going",
+     "grounds": "khe + carī",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "bhūcarī",
+     "gloss": "earth-going",
+     "grounds": "bhū + carī",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "vyomacarī",
+     "gloss": "space-going",
+     "grounds": "vyoma + carī",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "prītāstu me sadā",
+     "gloss": "may-they-be-pleased-with-me-always",
+     "grounds": "prīta + astu + me + sadā",
+     "morph": "3.pl.act. (optative)"
+    }
+   ],
+   "question": "Which beings are asked to be pleased always?",
+   "premises": [
+    "Sky-going, earth-going, and space-going beings are named.",
+    "They are asked to be pleased with the speaker always."
+   ],
+   "inference": "The sky-, earth-, and space-going beings are invoked for lasting favor.",
+   "uncertainties": [
+    "Their exact class is not specified."
+   ],
+   "plain_english": "Sky-going, earth-going, space-going: may they be pleased with me always."
+  },
+  {
+   "verse": 745,
+   "rows": [
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "paścāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtapatibhyo",
+     "gloss": "to-lords-of-beings",
+     "grounds": "bhūta + pati",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "hṛdyuktaḥ",
+     "gloss": "joined-with-heart",
+     "grounds": "hṛd + yukta",
+     "morph": "m.nom.sg (past part.)"
+    },
+    {
+     "surface": "saptadaśākṣaraḥ",
+     "gloss": "seventeen-syllabled",
+     "grounds": "saptadaśa + akṣara",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What mantra follows for the lords of beings?",
+   "premises": [
+    "Afterwards the lords of beings are addressed.",
+    "The mantra is joined with heart and has seventeen syllables."
+   ],
+   "inference": "A heart-joined seventeen-syllabled mantra follows for the lords of beings.",
+   "uncertainties": [
+    "The mantra text is omitted."
+   ],
+   "plain_english": "Afterwards, to the lords of beings, heart-joined, seventeen-syllabled."
+  },
+  {
+   "verse": 746,
+   "rows": [
+    {
+     "surface": "pātālasaṃsthā",
+     "gloss": "situated-in-netherworld",
+     "grounds": "pātāla + saṃstha",
+     "morph": "f.nom.pl (compound)"
+    },
+    {
+     "surface": "me kevicchivayogena",
+     "gloss": "some-of-mine-by-shiva-yoga",
+     "grounds": "me + kecit + śiva + yoga",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvitāḥ",
+     "gloss": "made-manifest",
+     "grounds": "bhāvita",
+     "morph": "m.nom.pl (past part.)"
+    }
+   ],
+   "question": "Who are made manifest by Shiva yoga?",
+   "premises": [
+    "Some beings situated in the netherworld are mentioned.",
+    "They are made manifest by Shiva yoga."
+   ],
+   "inference": "Certain netherworld beings of the speaker are made manifest through Shiva yoga.",
+   "uncertainties": [
+    "The exact beings are unspecified."
+   ],
+   "plain_english": "Some of mine situated in the netherworld are made manifest by Shiva yoga."
+  },
+  {
+   "verse": 747,
+   "rows": [
+    {
+     "surface": "tṛpyantu",
+     "gloss": "may-they-be-satisfied",
+     "grounds": "tṛp",
+     "morph": "3.pl.act. (optative)"
+    },
+    {
+     "surface": "prītamanasaḥ",
+     "gloss": "pleased-minded",
+     "grounds": "prīta + manas",
+     "morph": "m.nom.pl (compound)"
+    },
+    {
+     "surface": "pratigṛhṇantvimaṃ balim",
+     "gloss": "may-they-accept-this-offering",
+     "grounds": "prati + gṛh + imam + balim",
+     "morph": "3.pl.act. (imperative)"
+    }
+   ],
+   "question": "What is asked of the pleased-minded beings?",
+   "premises": [
+    "They are asked to be satisfied.",
+    "They are asked to accept this offering."
+   ],
+   "inference": "The pleased-minded beings are asked to be satisfied and accept the offering.",
+   "uncertainties": [
+    "The offering's exact contents are not stated."
+   ],
+   "plain_english": "May they be satisfied, pleased-minded; may they accept this offering."
+  },
+  {
+   "verse": 748,
+   "rows": [
+    {
+     "surface": "sarvavighnān",
+     "gloss": "all-obstacles",
+     "grounds": "sarva + vighna",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "pada",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "paścāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśayadvitayaṃ",
+     "gloss": "destroying-two",
+     "grounds": "nāśayat + dvitaya",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "tathā",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is destroyed afterwards in this sequence?",
+   "premises": [
+    "All obstacles are mentioned.",
+    "A destroying pair follows afterwards."
+   ],
+   "inference": "Afterwards all obstacles are destroyed in a paired manner.",
+   "uncertainties": [
+    "The exact pair is not explicit."
+   ],
+   "plain_english": "All obstacles, the word; afterwards destroying two, thus."
+  },
+  {
+   "verse": 749,
+   "rows": [
+    {
+     "surface": "gṛhṇa gṛhṇa",
+     "gloss": "accept-accept",
+     "grounds": "gṛh",
+     "morph": "2.sg.act. (imperative)"
+    },
+    {
+     "surface": "dviṭhānto'yaṃ",
+     "gloss": "this-ending-in-two-ṭha",
+     "grounds": "dvi + ṭha + anta + ayam",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "kṣetrapālamanuḥ",
+     "gloss": "kṣetrapāla-mantra",
+     "grounds": "kṣetrapāla + manu",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-dear",
+     "grounds": "priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What mantra ending in two ṭha is given to the dear one?",
+   "premises": [
+    "The mantra ends in two ṭha.",
+    "It is the kṣetrapāla mantra."
+   ],
+   "inference": "The dear one receives the kṣetrapāla mantra ending in two ṭha.",
+   "uncertainties": [
+    "The full mantra text is not given."
+   ],
+   "plain_english": "Accept, accept; this ending in two ṭha, the kṣetrapāla mantra, O dear."
+  }
+ ]
+}

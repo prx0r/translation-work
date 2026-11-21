@@ -1,0 +1,1265 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1926,
+   "rows": [
+    {
+     "surface": "dinaśaḥ",
+     "gloss": "daily",
+     "grounds": "adverb of repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "should-write",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "prātaḥ",
+     "gloss": "in-morning",
+     "grounds": "time of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abdāt",
+     "gloss": "for-year",
+     "grounds": "duration of practice",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mūkaḥ",
+     "gloss": "mute",
+     "grounds": "initial condition of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "kaviḥ",
+     "gloss": "poet",
+     "grounds": "attained eloquence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transformation results from daily morning writing practiced for a year?",
+   "premises": [
+    "The practice requires daily writing in the morning.",
+    "The practice is continued for a year.",
+    "A mute person undergoes transformation through this practice."
+   ],
+   "inference": "A mute person who writes daily in the morning for a year becomes a poet.",
+   "uncertainties": [],
+   "plain_english": "If a mute person writes daily in the morning for a year, he becomes a poet."
+  },
+  {
+   "verse": 1927,
+   "rows": [
+    {
+     "surface": "kubera",
+     "gloss": "kubera",
+     "grounds": "name in planetary-name series",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "ravi",
+     "gloss": "sun",
+     "grounds": "name in planetary-name series",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "name in planetary-name series",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "king",
+     "grounds": "name in planetary-name series",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "jña",
+     "gloss": "jupiter",
+     "grounds": "name in planetary-name series",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "guru",
+     "gloss": "venus",
+     "grounds": "name in planetary-name series",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "usita",
+     "gloss": "saturn",
+     "grounds": "name in planetary-name series",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "saurayaḥ",
+     "gloss": "and-mars",
+     "grounds": "final name in series",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which planetary and divine names form the enumerated series for ritual use?",
+   "premises": [
+    "A series of names is enumerated.",
+    "The names include Kubera, Sun, Moon, King, Jupiter, Venus, Saturn, and Mars.",
+    "These names are presented as a group."
+   ],
+   "inference": "The enumerated series consists of Kubera, Ravi, Candra, Rāja, Jña, Guru, Usita, and Saurayaḥ.",
+   "uncertainties": [
+    "The exact identification of rāja and jña with specific planets follows traditional associations but is not explicit here."
+   ],
+   "plain_english": "The names are Kubera, the Sun, the Moon, the King, Jupiter, Venus, Saturn, and Mars."
+  },
+  {
+   "verse": 1928,
+   "rows": [
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "object of ritual application",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "saptākṣarī",
+     "gloss": "seven-syllable",
+     "grounds": "mantra characterized by seven syllables",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "with-method",
+     "grounds": "proper application",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual act",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-offer-libations",
+     "grounds": "ritual act",
+     "morph": "3.sg.caus.opt.act √tṛp"
+    },
+    {
+     "surface": "dhunet",
+     "gloss": "one-should-offer-oblations",
+     "grounds": "ritual act",
+     "morph": "3.sg.opt.act √dhū"
+    }
+   ],
+   "question": "What ritual acts should be performed with the seven-syllable name-mantra?",
+   "premises": [
+    "A seven-syllable name-mantra is specified.",
+    "The mantra is to be applied with proper method.",
+    "Worship, libation, and oblation are prescribed."
+   ],
+   "inference": "One should worship, offer libations, and offer oblations using the seven-syllable name-mantra with proper method.",
+   "uncertainties": [
+    "The exact ritual sense of dhunet in this context may vary."
+   ],
+   "plain_english": "Using the seven-syllable name-mantra with proper method, one should worship, offer libations, and make oblations."
+  },
+  {
+   "verse": 1929,
+   "rows": [
+    {
+     "surface": "mātṛkānyāsa",
+     "gloss": "mother-syllable-placement",
+     "grounds": "ritual placement of syllables",
+     "morph": "m.stem+compound"
+    },
+    {
+     "surface": "sahitaṃ",
+     "gloss": "accompanied-by",
+     "grounds": "inclusion of prior rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "ritual action",
+     "morph": "3.sg.opt.act √spṛś"
+    },
+    {
+     "surface": "rakṣākṛte",
+     "gloss": "for-protection",
+     "grounds": "purpose of touching",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "manum",
+     "gloss": "the-mantra",
+     "grounds": "object empowered by touch",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the mantra be ritually empowered for protection?",
+   "premises": [
+    "The mantra is accompanied by mātṛkānyāsa.",
+    "Touching the mantra is prescribed.",
+    "The purpose of the act is protection."
+   ],
+   "inference": "One should touch the mantra, accompanied by mātṛkānyāsa, for the sake of protection.",
+   "uncertainties": [],
+   "plain_english": "Accompanied by the placement of the mother-syllables, one should touch the mantra for protection."
+  },
+  {
+   "verse": 1930,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental cause",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "beneficiaries",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sukhinaḥ",
+     "gloss": "happy",
+     "grounds": "resulting state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "become",
+     "grounds": "resulting change",
+     "morph": "3.pl.opt.act √bhū"
+    },
+    {
+     "surface": "sānvayā",
+     "gloss": "with-descendants",
+     "grounds": "inclusion of lineage",
+     "morph": "m.nom.pl+compound"
+    },
+    {
+     "surface": "yāvadāyuṣam",
+     "gloss": "as-long-as-life",
+     "grounds": "duration of benefit",
+     "morph": "(indecl.)+compound"
+    }
+   ],
+   "question": "What lasting benefit arises for people and their descendants from that ritual act?",
+   "premises": [
+    "A prior ritual act produces an effect.",
+    "The beneficiaries become happy.",
+    "The benefit extends to descendants and lasts for life."
+   ],
+   "inference": "By that, they become happy together with their descendants for as long as they live.",
+   "uncertainties": [],
+   "plain_english": "By that, they become happy, together with their descendants, for as long as they live."
+  },
+  {
+   "verse": 1931,
+   "rows": [
+    {
+     "surface": "tadghṛtaṃ",
+     "gloss": "that-ghee",
+     "grounds": "ritually prepared substance",
+     "morph": "n.acc.sg+compound"
+    },
+    {
+     "surface": "lihataḥ",
+     "gloss": "of-one-licking",
+     "grounds": "agent consuming ghee",
+     "morph": "m.gen.sg.pres.part.act √lih"
+    },
+    {
+     "surface": "saṃvatsarāt",
+     "gloss": "after-year",
+     "grounds": "time until result",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "prokta+phala",
+     "gloss": "stated-result",
+     "grounds": "previously declared outcome",
+     "morph": "n.stem+compound"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "attainment of result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accomplishment follows from licking that ghee for a year?",
+   "premises": [
+    "The ghee has been ritually prepared.",
+    "A person licks that ghee.",
+    "A year passes and the stated result is attained."
+   ],
+   "inference": "For one who licks that ghee, the accomplishment of the stated result occurs after a year.",
+   "uncertainties": [],
+   "plain_english": "For one who licks that ghee, the stated result is accomplished after a year."
+  },
+  {
+   "verse": 1932,
+   "rows": [
+    {
+     "surface": "tat+tanmaṇḍale",
+     "gloss": "in-that-diagram",
+     "grounds": "ritual locus",
+     "morph": "n.loc.sg+compound"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "f.stem"
+    },
+    {
+     "surface": "tarpaṇa",
+     "gloss": "libation",
+     "grounds": "ritual act",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "homa",
+     "gloss": "oblation",
+     "grounds": "ritual act",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "ādinā",
+     "gloss": "and-so-forth",
+     "grounds": "inclusive marker",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vāñchita+siddhīḥ",
+     "gloss": "desired-accomplishments",
+     "grounds": "intended results",
+     "morph": "f.nom.pl+compound"
+    },
+    {
+     "surface": "riti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What accomplishments arise from worship and related rites in that maṇḍala?",
+   "premises": [
+    "Rites are performed in that maṇḍala.",
+    "The rites include worship, libation, oblation, and so forth.",
+    "Desired accomplishments are the outcome."
+   ],
+   "inference": "By worship, libation, oblation, and so forth in that maṇḍala, desired accomplishments are attained.",
+   "uncertainties": [
+    "The token riti may be a textual variant or sandhi form of iti."
+   ],
+   "plain_english": "Through worship, libation, oblation, and so forth in that maṇḍala, the desired accomplishments are attained."
+  },
+  {
+   "verse": 1933,
+   "rows": [
+    {
+     "surface": "navakoṣṭhe",
+     "gloss": "in-nine-cells",
+     "grounds": "diagrammatic grid",
+     "morph": "n.loc.sg+compound"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "number of entities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktān",
+     "gloss": "declared",
+     "grounds": "previously specified",
+     "morph": "m.acc.pl.past.part.pass √vac"
+    },
+    {
+     "surface": "rāhu",
+     "gloss": "rahu",
+     "grounds": "celestial node",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "ketu",
+     "gloss": "and-ketu",
+     "grounds": "celestial node",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "samanvitān",
+     "gloss": "accompanied",
+     "grounds": "inclusion of rahu and ketu",
+     "morph": "m.acc.pl.past.part.pass sam-√anv-i"
+    }
+   ],
+   "question": "Which nine declared entities including Rāhu and Ketu are placed in the nine cells?",
+   "premises": [
+    "A diagram of nine cells is specified.",
+    "Nine entities previously declared are to be placed there.",
+    "These entities are accompanied by Rāhu and Ketu."
+   ],
+   "inference": "The nine declared entities, accompanied by Rāhu and Ketu, are placed in the nine cells.",
+   "uncertainties": [],
+   "plain_english": "In the nine cells, one places the nine declared entities together with Rāhu and Ketu."
+  },
+  {
+   "verse": 1934,
+   "rows": [
+    {
+     "surface": "koṣṭhe",
+     "gloss": "in-cells",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "entities to be worshipped",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-those",
+     "grounds": "associated means or forms",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual act",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "speed of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukta+rogaḥ",
+     "gloss": "freed-from-disease",
+     "grounds": "resulting condition",
+     "morph": "m.nom.sg+compound"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "resulting condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What immediate benefit follows from worshipping those entities in the cells?",
+   "premises": [
+    "Those entities are worshipped in the cells.",
+    "The worship is performed with the prescribed means.",
+    "Immediate freedom from disease and happiness result."
+   ],
+   "inference": "One who worships them in the cells immediately becomes free from disease and happy.",
+   "uncertainties": [
+    "The referent of taiḥ is context-dependent."
+   ],
+   "plain_english": "One should worship them in the cells with those means; one immediately becomes free from disease and happy."
+  },
+  {
+   "verse": 1935,
+   "rows": [
+    {
+     "surface": "utpāte",
+     "gloss": "in-calamity",
+     "grounds": "adverse circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samara",
+     "gloss": "battle",
+     "grounds": "conflict circumstance",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "udyoge",
+     "gloss": "in-undertaking",
+     "grounds": "initiatory circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "ukta+arcana",
+     "gloss": "stated-worship",
+     "grounds": "previously described rite",
+     "morph": "n.stem+compound"
+    },
+    {
+     "surface": "ādikam",
+     "gloss": "and-so-forth",
+     "grounds": "inclusive marker",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "In which critical situations should the stated worship and related rites be performed?",
+   "premises": [
+    "Situations of calamity, battle, and undertaking are specified.",
+    "The stated worship and related rites are prescribed.",
+    "These rites are to be performed in those situations."
+   ],
+   "inference": "In calamity, battle, or undertaking, one should perform the stated worship and so forth.",
+   "uncertainties": [],
+   "plain_english": "In times of calamity, battle, or undertaking, one should perform the stated worship and related rites."
+  },
+  {
+   "verse": 1936,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental cause",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarva+āpad",
+     "gloss": "all-misfortunes",
+     "grounds": "total adversity",
+     "morph": "f.stem+compound"
+    },
+    {
+     "surface": "unmuktaḥ",
+     "gloss": "freed",
+     "grounds": "liberation from adversity",
+     "morph": "m.nom.sg.past.part.pass ud-√muc"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "continued life",
+     "morph": "3.sg.pres.act √jīv"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "place of living",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What condition of life results from being freed from all misfortunes by that rite?",
+   "premises": [
+    "The prior rite has a protective effect.",
+    "One becomes freed from all misfortunes.",
+    "One lives happily on earth."
+   ],
+   "inference": "By that, freed from all misfortunes, one lives happily on earth.",
+   "uncertainties": [],
+   "plain_english": "By that, freed from all misfortunes, one lives happily on earth."
+  },
+  {
+   "verse": 1937,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker's declaration",
+     "morph": "1.sg.pres.act √kath"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "pair of topics",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "adya",
+     "gloss": "now",
+     "grounds": "present moment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "i-shall-speak",
+     "grounds": "future declaration",
+     "morph": "1.sg.fut.mid √vac"
+    },
+    {
+     "surface": "tat+paṭale",
+     "gloss": "in-that-section",
+     "grounds": "textual location",
+     "morph": "m.loc.sg+compound"
+    },
+    {
+     "surface": "akhilam",
+     "gloss": "all",
+     "grounds": "completeness of exposition",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the speaker promise to explain now and in that section?",
+   "premises": [
+    "The speaker addresses the listener directly.",
+    "Two things are told now.",
+    "Everything will be spoken in that section."
+   ],
+   "inference": "The speaker tells two things now and promises to speak all of it in that section.",
+   "uncertainties": [],
+   "plain_english": "I tell you two things now, and I shall explain everything in that section."
+  },
+  {
+   "verse": 1938,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual body parts of mantra",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṣaḍ+vargaiḥ",
+     "gloss": "with-six-groups",
+     "grounds": "syllable groups",
+     "morph": "m.inst.pl+compound"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "syllable count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "syllable count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa+akṣaraiḥ",
+     "gloss": "and-ten-syllables",
+     "grounds": "syllable count",
+     "morph": "n.inst.pl+compound"
+    }
+   ],
+   "question": "How should the mantra limbs be formed using specified syllable groups and counts?",
+   "premises": [
+    "The limbs of the mantra are to be made.",
+    "Six groups are used.",
+    "Syllable counts of five, five, and ten are specified."
+   ],
+   "inference": "One should form the limbs with six groups using five, five, and ten syllables.",
+   "uncertainties": [
+    "The exact mapping of groups to limb positions is not specified in this verse."
+   ],
+   "plain_english": "One should form the limbs with six groups, using five, five, and ten syllables."
+  },
+  {
+   "verse": 1939,
+   "rows": [
+    {
+     "surface": "ukta+prakāraiḥ",
+     "gloss": "by-stated-methods",
+     "grounds": "previously described procedures",
+     "morph": "m.inst.pl+compound"
+    },
+    {
+     "surface": "dina+nityā",
+     "gloss": "daily-rites",
+     "grounds": "regular observances",
+     "morph": "f.nom.sg+compound"
+    },
+    {
+     "surface": "saptākṣarī",
+     "gloss": "seven-syllable",
+     "grounds": "mantra form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhya+gataiḥ",
+     "gloss": "situated-in-middle",
+     "grounds": "positional qualifier",
+     "morph": "m.inst.pl+compound"
+    },
+    {
+     "surface": "navabhiḥ",
+     "gloss": "with-nine",
+     "grounds": "number of mantras",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "nāma+mantraiḥ",
+     "gloss": "name-mantras",
+     "grounds": "mantras based on names",
+     "morph": "m.inst.pl+compound"
+    }
+   ],
+   "question": "How are daily rites performed using the seven-syllable and nine middle name-mantras?",
+   "premises": [
+    "Daily rites are performed by stated methods.",
+    "The seven-syllable mantra is involved.",
+    "Nine name-mantras situated in the middle are used."
+   ],
+   "inference": "Daily rites are performed by the stated methods with the seven-syllable mantra and the nine middle name-mantras.",
+   "uncertainties": [
+    "The precise structural meaning of madhya+gataiḥ depends on the ritual diagram context."
+   ],
+   "plain_english": "The daily rites are performed by the stated methods, using the seven-syllable mantra and the nine name-mantras situated in the middle."
+  },
+  {
+   "verse": 1940,
+   "rows": [
+    {
+     "surface": "sarva+āpadbhyaḥ",
+     "gloss": "from-all-misfortunes",
+     "grounds": "source of danger",
+     "morph": "f.abl.pl+compound"
+    },
+    {
+     "surface": "vimuktaḥ",
+     "gloss": "freed",
+     "grounds": "liberation from danger",
+     "morph": "m.nom.sg.past.part.pass vi-√muc"
+    },
+    {
+     "surface": "sukhī",
+     "gloss": "happy",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resulting transformation",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What state is attained by one freed from all misfortunes through this practice?",
+   "premises": [
+    "Freedom from all misfortunes is achieved.",
+    "Happiness is the resulting state.",
+    "This is stated as the outcome."
+   ],
+   "inference": "One freed from all misfortunes becomes happy.",
+   "uncertainties": [],
+   "plain_english": "Thus, freed from all misfortunes, one becomes happy."
+  },
+  {
+   "verse": 1941,
+   "rows": [
+    {
+     "surface": "tat+paṭale",
+     "gloss": "in-that-section",
+     "grounds": "textual reference",
+     "morph": "m.loc.sg+compound"
+    },
+    {
+     "surface": "mātṛkā+paṭale",
+     "gloss": "in-mother-syllable-section",
+     "grounds": "specific textual section",
+     "morph": "m.loc.sg+compound"
+    },
+    {
+     "surface": "akhilaṃ",
+     "gloss": "all",
+     "grounds": "completeness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "remaining material",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti+śeṣaḥ",
+     "gloss": "thus-remainder",
+     "grounds": "elliptical completion marker",
+     "morph": "(indecl.)+m.nom.sg+compound"
+    }
+   ],
+   "question": "Where is the remaining material to be found according to this textual reference?",
+   "premises": [
+    "A reference is made to that section.",
+    "The mātṛkā section is specified.",
+    "All other material is indicated as remainder there."
+   ],
+   "inference": "All the rest is to be found in that section, namely the mātṛkā section.",
+   "uncertainties": [],
+   "plain_english": "All the rest is in that section, in the section on the mother-syllables."
+  },
+  {
+   "verse": 1942,
+   "rows": [
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "body locus",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "aṅgayoḥ",
+     "gloss": "and-limbs",
+     "grounds": "body loci",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "vidhāyet",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.caus.act vi-√dhā"
+    },
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "manner of performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with-a",
+     "grounds": "start of syllable range",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "kṣānta",
+     "gloss": "ending-with-kṣa",
+     "grounds": "end of syllable range",
+     "morph": "m.stem+compound"
+    },
+    {
+     "surface": "akṣarāṇi",
+     "gloss": "syllables",
+     "grounds": "objects of placement",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which range of syllables should be placed on the hands and limbs in this manner?",
+   "premises": [
+    "Placement is to be performed on hands and limbs.",
+    "The syllables range from a to kṣa.",
+    "The procedure is to be done in this manner."
+   ],
+   "inference": "One should thus place the syllables from a to kṣa on the hands and limbs.",
+   "uncertainties": [],
+   "plain_english": "Thus one should place the syllables from a to kṣa on the hands and limbs."
+  },
+  {
+   "verse": 1943,
+   "rows": [
+    {
+     "surface": "oṣṭha",
+     "gloss": "lips",
+     "grounds": "placement locus",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "danta",
+     "gloss": "teeth",
+     "grounds": "placement locus",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "placement locus",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "jihvāsu",
+     "gloss": "and-tongues",
+     "grounds": "placement locus",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ekaśaḥ",
+     "gloss": "one-by-one",
+     "grounds": "mode of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act vi-ni-√as"
+    },
+    {
+     "surface": "svarān",
+     "gloss": "vowels",
+     "grounds": "syllables to be placed",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Where should the vowels be placed one by one in this nyāsa?",
+   "premises": [
+    "Vowels are the objects of placement.",
+    "The loci are lips, teeth, head, and tongues.",
+    "Placement is to be done one by one."
+   ],
+   "inference": "One should place the vowels one by one on the lips, teeth, head, and tongues.",
+   "uncertainties": [],
+   "plain_english": "One should place the vowels one by one on the lips, teeth, head, and tongues."
+  },
+  {
+   "verse": 1944,
+   "rows": [
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act vi-ni-√as"
+    },
+    {
+     "surface": "caturaḥ+vargān",
+     "gloss": "four-groups",
+     "grounds": "consonant groups",
+     "morph": "m.acc.pl+compound"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "the-fifth",
+     "grounds": "fifth group",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pārśva",
+     "gloss": "sides",
+     "grounds": "placement locus",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "pṛṣṭhataḥ",
+     "gloss": "and-back",
+     "grounds": "placement locus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the four groups and the fifth group be placed on the body?",
+   "premises": [
+    "Four groups and a fifth group are specified.",
+    "Placement is prescribed.",
+    "The sides and back are the loci."
+   ],
+   "inference": "One should place the four groups and the fifth on the sides and back.",
+   "uncertainties": [
+    "The exact distribution between sides and back is not fully explicit."
+   ],
+   "plain_english": "One should place the four groups and the fifth on the sides and the back."
+  },
+  {
+   "verse": 1945,
+   "rows": [
+    {
+     "surface": "tvak",
+     "gloss": "skin",
+     "grounds": "bodily constituent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sṛk",
+     "gloss": "blood",
+     "grounds": "bodily constituent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māṃsa",
+     "gloss": "flesh",
+     "grounds": "bodily constituent",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "medaḥ",
+     "gloss": "fat",
+     "grounds": "bodily constituent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "asthi",
+     "gloss": "bone",
+     "grounds": "bodily constituent",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "majjā",
+     "gloss": "marrow",
+     "grounds": "bodily constituent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śukra",
+     "gloss": "semen",
+     "grounds": "bodily constituent",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "anta+gāmiṣu",
+     "gloss": "going-to-end",
+     "grounds": "pervading to the final constituent",
+     "morph": "n.loc.pl+compound"
+    }
+   ],
+   "question": "Which bodily constituents are enumerated as the loci extending to the final element?",
+   "premises": [
+    "A sequence of bodily constituents is listed.",
+    "The sequence runs from skin to semen.",
+    "These are described as extending to the end."
+   ],
+   "inference": "The enumerated constituents are skin, blood, flesh, fat, bone, marrow, and semen, extending to the final one.",
+   "uncertainties": [],
+   "plain_english": "The constituents are skin, blood, flesh, fat, bone, marrow, and semen, extending to the final element."
+  },
+  {
+   "verse": 1946,
+   "rows": [
+    {
+     "surface": "hṛdaya+sparśināṃ",
+     "gloss": "of-those-touching-heart",
+     "grounds": "syllables associated with heart",
+     "morph": "m.gen.pl+compound"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "referent group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "mental act during placement",
+     "morph": "m.nom.sg.pres.part.act √smṛ"
+    },
+    {
+     "surface": "dhātuśu",
+     "gloss": "in-constituents",
+     "grounds": "bodily loci",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act vi-ni-√as"
+    }
+   ],
+   "question": "How should the heart-touching syllables be placed in the bodily constituents?",
+   "premises": [
+    "Certain syllables are identified as touching the heart.",
+    "The practitioner remembers them.",
+    "They are to be placed in the bodily constituents."
+   ],
+   "inference": "Remembering those heart-touching syllables, one should place them in the bodily constituents.",
+   "uncertainties": [],
+   "plain_english": "Remembering those heart-touching syllables, one should place them in the bodily constituents."
+  },
+  {
+   "verse": 1947,
+   "rows": [
+    {
+     "surface": "hṛdaya+adhasta",
+     "gloss": "below-heart",
+     "grounds": "placement locus",
+     "morph": "(indecl.)+compound"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-likewise",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāda",
+     "gloss": "feet",
+     "grounds": "placement locus",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "jaṭhare",
+     "gloss": "in-belly",
+     "grounds": "placement locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vadane",
+     "gloss": "in-face",
+     "grounds": "placement locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act ni-√as"
+    }
+   ],
+   "question": "Which additional bodily locations receive placement below the heart and elsewhere?",
+   "premises": [
+    "Placement below the heart is specified.",
+    "Additional loci include feet, belly, and face.",
+    "The act of placement is prescribed."
+   ],
+   "inference": "One should place below the heart, and likewise at the feet, in the belly, and in the face.",
+   "uncertainties": [],
+   "plain_english": "One should place them below the heart, and likewise at the feet, in the belly, and in the face."
+  },
+  {
+   "verse": 1948,
+   "rows": [
+    {
+     "surface": "jāti+yuktaiḥ+mantraiḥ",
+     "gloss": "with-mantras-having-jati",
+     "grounds": "mantras endowed with seed-class markers",
+     "morph": "m.inst.pl+compound"
+    },
+    {
+     "surface": "kara",
+     "gloss": "hand",
+     "grounds": "placement locus",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "aṅga",
+     "gloss": "limb",
+     "grounds": "placement locus",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "placement",
+     "grounds": "ritual installation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what kind of mantras should the hand and limb placement be performed?",
+   "premises": [
+    "Hand and limb placement is prescribed.",
+    "The mantras used are endowed with jāti.",
+    "The procedure is concluded as stated."
+   ],
+   "inference": "One should perform the hand and limb placement with mantras endowed with jāti.",
+   "uncertainties": [
+    "The technical meaning of jāti in this mantra context is tradition-specific."
+   ],
+   "plain_english": "Thus one should perform the placement on the hands and limbs with mantras endowed with jāti."
+  },
+  {
+   "verse": 1949,
+   "rows": [
+    {
+     "surface": "prapada",
+     "gloss": "sole",
+     "grounds": "body part",
+     "morph": "n.stem"
+    },
+    {
+     "surface": "aṅguli+sandhī",
+     "gloss": "finger-joints",
+     "grounds": "body parts",
+     "morph": "m.nom.du+compound"
+    },
+    {
+     "surface": "ucyete",
+     "gloss": "are-stated",
+     "grounds": "identification",
+     "morph": "3.du.pres.pass √vac"
+    },
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "the-fifth",
+     "grounds": "ordinal group",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vargam",
+     "gloss": "group",
+     "grounds": "syllable group",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "iti+śeṣaḥ",
+     "gloss": "thus-remainder",
+     "grounds": "elliptical completion marker",
+     "morph": "(indecl.)+m.nom.sg+compound"
+    }
+   ],
+   "question": "Which body parts are identified in relation to the fifth group in this remainder note?",
+   "premises": [
+    "The sole and finger-joints are mentioned.",
+    "They are stated in relation to the fifth group.",
+    "The verse functions as a remainder note."
+   ],
+   "inference": "The sole and finger-joints are stated as related to the fifth group.",
+   "uncertainties": [
+    "The exact syntactic relation to pañcamaṃ vargam is elliptical."
+   ],
+   "plain_english": "The sole and the finger-joints are stated in relation to the fifth group."
+  }
+ ]
+}

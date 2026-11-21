@@ -1,0 +1,548 @@
+{
+ "song": "net-p11",
+ "items": [
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "vauṣaḍantamantrarājakṛtāpyāyanam",
+     "gloss": "nourishment-done-by-king-of-mantras-ending-in-vauṣaḍ",
+     "grounds": "compound token as given",
+     "morph": "compound"
+    }
+   ],
+   "question": "What nourishment is accomplished by the king of mantras ending in vauṣaḍ?",
+   "premises": [
+    "the token names nourishment",
+    "it is done by the king of mantras",
+    "the mantra ends in vauṣaḍ"
+   ],
+   "inference": "The verse identifies a nourishment rite performed by the vauṣaḍ-ending king of mantras.",
+   "uncertainties": [
+    "single-token verse; no syntactic context"
+   ],
+   "plain_english": "Nourishment is accomplished by the king of mantras ending in vauṣaḍ."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "kalaśena",
+     "gloss": "by-pot",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apapāṭhaḥ",
+     "gloss": "misreading",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is declared to be a misreading when the pot is mentioned?",
+   "premises": [
+    "kalaśena means by pot",
+    "apapāṭhaḥ means misreading",
+    "iti marks the statement"
+   ],
+   "inference": "The verse labels the pot-based reading as a misreading.",
+   "uncertainties": [
+    "context of the misread passage is not supplied"
+   ],
+   "plain_english": "The pot-based reading is a misreading."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "vajreṇa",
+     "gloss": "by-vajra",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "caturaśram",
+     "gloss": "square",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "mandala",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative compound",
+     "morph": "loc"
+    },
+    {
+     "surface": "nyasyet",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What square mandala should be made with the vajra and what should be placed in its middle?",
+   "premises": [
+    "vajreṇa means by vajra",
+    "caturaśram maṇḍalam means square mandala",
+    "tanmadhye means in its middle",
+    "nyasyet means should place"
+   ],
+   "inference": "One makes a square mandala with the vajra and places something in its middle.",
+   "uncertainties": [
+    "the object to be placed is not named in this verse"
+   ],
+   "plain_english": "Having made a square mandala with the vajra, one should place it in its middle."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "having-drawn",
+     "grounds": "absolutive",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "ṣaḍaṅgam",
+     "gloss": "six-limbs",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What lotus and six-limbed form are drawn as before for the dear one?",
+   "premises": [
+    "pūrvavat means as before",
+    "padmam means lotus",
+    "ālikhya means having drawn",
+    "ṣaḍaṅgam means six limbs",
+    "priye means dear one"
+   ],
+   "inference": "As before, one draws a lotus and six-limbed form for the dear one.",
+   "uncertainties": [
+    "the exact six limbs are not specified here"
+   ],
+   "plain_english": "As before, draw a lotus and the six-limbed form, dear one."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "netrodyote",
+     "gloss": "in-netrodyota",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptadaśo",
+     "gloss": "seventeenth",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhikāraḥ",
+     "gloss": "chapter",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is located in the netrodyota section?",
+   "premises": [
+    "netrodyote means in netrodyota",
+    "saptadaśo means seventeenth",
+    "adhikāraḥ means chapter"
+   ],
+   "inference": "The seventeenth chapter is in the netrodyota section.",
+   "uncertainties": [
+    "no doctrinal content beyond chapter placement"
+   ],
+   "plain_english": "In the netrodyota, the seventeenth chapter."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "siddhikāraṇāni",
+     "gloss": "causes-of-accomplishment",
+     "grounds": "nominative plural neuter",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "genitive plural",
+     "morph": "gen.pl"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "practice",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ātmāyattatāpādanam",
+     "gloss": "bringing-dependence-on-self",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "third singular present active",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What does the practitioner know about the causes of accomplishment and practice?",
+   "premises": [
+    "siddhikāraṇāni means causes of accomplishment",
+    "teṣām means of them",
+    "sādhanam means practice",
+    "ātmāyattatāpādanam means bringing dependence on self",
+    "jānāti means knows"
+   ],
+   "inference": "The practitioner knows that practice brings dependence on the self regarding the causes of accomplishment.",
+   "uncertainties": [
+    "the exact relation between causes and practice is compressed"
+   ],
+   "plain_english": "One knows the causes of accomplishment, their practice, and bringing dependence upon the self."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "viniyojanam",
+     "gloss": "application",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "sādhakeśvarāḥ",
+     "gloss": "lord-practitioners",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "siddhyanti",
+     "gloss": "succeed",
+     "grounds": "third plural present active",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "āpnuvanti",
+     "gloss": "attain",
+     "grounds": "third plural present active",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "abhīṣṭam",
+     "gloss": "desired",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What do lord-practitioners succeed in and attain through application?",
+   "premises": [
+    "viniyojanam means application",
+    "tena means by that",
+    "sādhakeśvarāḥ means lord-practitioners",
+    "siddhyanti means succeed",
+    "āpnuvanti means attain",
+    "abhīṣṭam means desired"
+   ],
+   "inference": "Through application, lord-practitioners succeed and attain the desired goal.",
+   "uncertainties": [
+    "the exact desired object is not specified"
+   ],
+   "plain_english": "Through that application, lord-practitioners succeed and attain the desired."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "udayāstamayau",
+     "gloss": "rising-and-setting",
+     "grounds": "nominative dual masculine",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vyāptim",
+     "gloss": "pervasion",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mudrām",
+     "gloss": "seal",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svarūpataḥ",
+     "gloss": "in-true-form",
+     "grounds": "ablative singular",
+     "morph": "abl.sg"
+    }
+   ],
+   "question": "What rising and setting, pervasion, meditation, and seal are known in true form?",
+   "premises": [
+    "udayāstamayau means rising and setting",
+    "vyāptim means pervasion",
+    "dhyānam means meditation",
+    "mudrām means seal",
+    "svarūpataḥ means in true form"
+   ],
+   "inference": "Rising and setting, pervasion, meditation, and seal are to be known in true form.",
+   "uncertainties": [
+    "the exact meditation or seal is not named"
+   ],
+   "plain_english": "Rising and setting, pervasion, meditation, and seal are known in true form."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "by-others",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "aśeṣaiḥ",
+     "gloss": "countless",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvabhedaiḥ",
+     "gloss": "distinctions-of-states",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What countless distinctions of states are made by others, O lady of gods?",
+   "premises": [
+    "evam means thus",
+    "anyaiḥ means by others",
+    "aśeṣaiḥ means countless",
+    "bhāvabhedaiḥ means distinctions of states",
+    "sureśvari means O lady of gods"
+   ],
+   "inference": "Others make countless distinctions of states, addressed to the lady of gods.",
+   "uncertainties": [
+    "the specific states are not listed"
+   ],
+   "plain_english": "Thus, by others, countless distinctions of states, O lady of gods."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "bhāgyāvaham",
+     "gloss": "bringing-fortune",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "imam",
+     "gloss": "this",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is this bringing-fortune object or teaching?",
+   "premises": [
+    "bhāgyāvaham means bringing fortune",
+    "imam means this"
+   ],
+   "inference": "This is identified as bringing fortune.",
+   "uncertainties": [
+    "the referent of this is not explicit"
+   ],
+   "plain_english": "This is bringing fortune."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "tiśabdalopa",
+     "gloss": "omission-of-ti-word",
+     "grounds": "compound nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eśaḥ",
+     "gloss": "this",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "endravāruṇe",
+     "gloss": "in-indra-varuṇa",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvāparāyatāni",
+     "gloss": "east-west-extents",
+     "grounds": "nominative plural neuter",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the omission of the ti word in the indra-varuṇa context?",
+   "premises": [
+    "tiśabdalopa means omission of ti word",
+    "eśaḥ means this",
+    "endravāruṇe means in indra-varuṇa",
+    "pūrvāparāyatāni means east-west extents",
+    "arthaḥ means meaning"
+   ],
+   "inference": "The verse explains that the omission of the ti word in the indra-varuṇa context concerns east-west extents.",
+   "uncertainties": [
+    "the grammatical operation is compressed and technical"
+   ],
+   "plain_english": "This omission of the ti word in the indra-varuṇa context means east-west extents."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "susamatvam",
+     "gloss": "good-equality",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhramāṇām",
+     "gloss": "of-whirls",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "svātmani",
+     "gloss": "in-own-self",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samāṃśatvam",
+     "gloss": "equal-share-ness",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parasparam",
+     "gloss": "mutually",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What good equality of whirls and equal share in one's own self are mutually related?",
+   "premises": [
+    "susamatvam means good equality",
+    "bhramāṇām means of whirls",
+    "svātmani means in own self",
+    "samāṃśatvam means equal share-ness",
+    "parasparam means mutually"
+   ],
+   "inference": "Good equality of whirls and equal share in one's own self are mutually related.",
+   "uncertainties": [
+    "the metaphysical referent of whirls is not explicit"
+   ],
+   "plain_english": "Good equality of whirls and equal share in one's own self are mutually related."
+  }
+ ]
+}

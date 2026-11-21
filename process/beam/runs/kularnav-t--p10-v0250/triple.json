@@ -1,0 +1,63 @@
+{
+ "song": "kul-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "ūdrdhva",
+     "gloss": "upward",
+     "grounds": "legacy hint ūrdhva; adverb of direction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nābhestrirātrantu",
+     "gloss": "of-navel",
+     "grounds": "legacy hint nābheḥ; genitive within fused token",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "nābhestrirātrantu",
+     "gloss": "three-nights",
+     "grounds": "legacy hint tri+rātram; accusative duration within fused token",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nābhestrirātrantu",
+     "gloss": "but",
+     "grounds": "legacy hint tu; particle within fused token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madyasya",
+     "gloss": "of-wine",
+     "grounds": "genitive singular of madya",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sparśane",
+     "gloss": "in-touching",
+     "grounds": "locative singular of sparśana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "nominative singular of vidhi",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the rule for touching wine above the navel?",
+   "premises": [
+    "Wine touching has a rule.",
+    "The rule applies above navel.",
+    "It lasts three nights."
+   ],
+   "inference": "Touching wine above the navel requires three nights.",
+   "uncertainties": [
+    "Fused token split by legacy hints; exact sandhi uncertain."
+   ],
+   "plain_english": "Above the navel, the rule for touching wine is three nights."
+  }
+ ]
+}

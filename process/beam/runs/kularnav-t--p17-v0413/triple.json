@@ -1,0 +1,606 @@
+{
+ "song": "kul-p17",
+ "items": [
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "guṇāntaḥkaraṇāvasthāḥ",
+     "gloss": "qualities-inner-faculties-states",
+     "grounds": "compound of guṇa, antaḥkaraṇa, avasthā in nominative plural",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "optative third singular active of dhyai",
+     "morph": "v.3.sg.act.opt"
+    },
+    {
+     "surface": "doṣān",
+     "gloss": "faults",
+     "grounds": "accusative plural masculine of doṣa",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "daśānilān",
+     "gloss": "ten-winds",
+     "grounds": "compound daśa + anila in accusative plural masculine",
+     "morph": "n.acc.pl.m"
+    }
+   ],
+   "question": "How are qualities, faults, and winds to be meditated upon?",
+   "premises": [
+    "qualities-inner-faculties-states are meditated",
+    "faults are included",
+    "ten-winds are included"
+   ],
+   "inference": "The verse directs meditation on qualities, faults, and ten winds together.",
+   "uncertainties": [
+    "exact grammatical gender of the compound is inferred"
+   ],
+   "plain_english": "Meditate on the states of the inner faculties of qualities, faults, and the ten winds."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "vidyātmikāḥ",
+     "gloss": "vidyā-natured",
+     "grounds": "nominative plural feminine adjective",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "pañcabhūta",
+     "gloss": "five-elements",
+     "grounds": "compound of pañca and bhūta",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "vyāpaka",
+     "gloss": "pervading",
+     "grounds": "nominative singular masculine adjective",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "adhīśvarāḥ",
+     "gloss": "lords",
+     "grounds": "nominative plural masculine noun",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Who are the pervading lords among the five elements?",
+   "premises": [
+    "vidyā-natured lords are named",
+    "five-elements are named",
+    "pervading lords are named"
+   ],
+   "inference": "The verse names vidyā-natured pervading lords of the five elements.",
+   "uncertainties": [
+    "number of pañcabhūta is read as singular compound"
+   ],
+   "plain_english": "The vidyā-natured pervading lords of the five elements."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "tritāramūlīvidyānta",
+     "gloss": "three-tāra-root-vidyā-end",
+     "grounds": "compound ending in anta",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mātṛkākṣarataḥ",
+     "gloss": "from-mātṛkā-letters",
+     "grounds": "ablative singular from mātṛkākṣara",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "indeclinable adjective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lies beyond the mātṛkā letters at the end of the three-tāra root vidyā?",
+   "premises": [
+    "three-tāra-root-vidyā-end is named",
+    "from-mātṛkā-letters is named",
+    "beyond is named"
+   ],
+   "inference": "The verse points beyond the mātṛkā letters at the end of the three-tāra root vidyā.",
+   "uncertainties": [
+    "exact case of the compound is inferred"
+   ],
+   "plain_english": "Beyond the mātṛkā letters at the end of the three-tāra root vidyā."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "mātṛkānyāsasaṃprokta",
+     "gloss": "by-mātṛkā-nyāsa",
+     "grounds": "compound in nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sthāneṣu",
+     "gloss": "in-places",
+     "grounds": "locative plural neuter of sthāna",
+     "morph": "n.loc.pl.n"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "optative third singular active of nyas",
+     "morph": "v.3.sg.act.opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "How should the mātṛkā nyāsa be placed in the places?",
+   "premises": [
+    "by-mātṛkā-nyāsa is named",
+    "in-places is named",
+    "thus place is directed"
+   ],
+   "inference": "The verse directs placing the mātṛkā nyāsa in the places, dear one.",
+   "uncertainties": [
+    "exact voice of nyaset is optative"
+   ],
+   "plain_english": "Thus, dear one, place the mātṛkā nyāsa in the places."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "āyai",
+     "gloss": "to-āyai",
+     "grounds": "dative singular feminine",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "parāmbādevyai",
+     "gloss": "supreme-mother-goddess",
+     "grounds": "dative singular feminine compound",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "namaḥ",
+     "grounds": "indeclinable salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "saying",
+     "grounds": "gerund of vac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyāpakaṃ",
+     "gloss": "pervading",
+     "grounds": "accusative singular masculine",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "optative third singular active of nyas",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "What is said and placed for the supreme mother goddess?",
+   "premises": [
+    "to-āyai is named",
+    "supreme-mother-goddess is named",
+    "namaḥ is said",
+    "pervading is placed"
+   ],
+   "inference": "The verse says namaḥ to the supreme mother goddess and places the pervading.",
+   "uncertainties": [
+    "āyai is treated as a distinct dative form"
+   ],
+   "plain_english": "Saying namaḥ to the supreme mother goddess, place the pervading."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "tritāramūlamantrānte",
+     "gloss": "three-tāra-root-mantra-end",
+     "grounds": "locative singular masculine compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "a",
+     "gloss": "a",
+     "grounds": "indeclinable syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āṃ",
+     "gloss": "āṃ",
+     "grounds": "indeclinable syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṃ",
+     "gloss": "iṃ",
+     "grounds": "indeclinable syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atalaṃ",
+     "gloss": "atala",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "say",
+     "grounds": "optative third singular active of vad",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "What syllables are said at the end of the three-tāra root mantra?",
+   "premises": [
+    "three-tāra-root-mantra-end is named",
+    "a āṃ iṃ are said",
+    "atala is named"
+   ],
+   "inference": "The verse says a, āṃ, and iṃ, atala, at the end of the three-tāra root mantra.",
+   "uncertainties": [
+    "atalaṃ is read as accusative neuter"
+   ],
+   "plain_english": "At the end of the three-tāra root mantra, say a, āṃ, iṃ, atala."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "guhyādyā",
+     "gloss": "secret-beginning",
+     "grounds": "nominative singular feminine compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "nominative singular feminine noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "eyutantu",
+     "gloss": "with-eyuta",
+     "grounds": "compound form in accusative singular masculine",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "say",
+     "grounds": "optative third singular active of vad",
+     "morph": "v.3.sg.act.opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What is said about the secret-beginning yoginī root?",
+   "premises": [
+    "secret-beginning yoginī is named",
+    "root is named",
+    "with-eyuta is named"
+   ],
+   "inference": "The verse says the root with eyuta for the secret-beginning yoginī, dear one.",
+   "uncertainties": [
+    "eyutantu is treated as a compound accusative form"
+   ],
+   "plain_english": "Dear one, say the root with eyuta for the secret-beginning yoginī."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-said",
+     "grounds": "gerund of prac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gulphayoḥ",
+     "gloss": "at-ankles",
+     "grounds": "locative dual masculine of gulpha",
+     "morph": "n.loc.du.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "optative third singular active of vinyas",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "Where is the remainder placed after saying it as before?",
+   "premises": [
+    "remainder is named",
+    "as-before is named",
+    "at-ankles is named"
+   ],
+   "inference": "The verse places the remainder at the ankles after saying it as before.",
+   "uncertainties": [
+    "gulphayoḥ is read as locative dual masculine"
+   ],
+   "plain_english": "Having said the remainder as before, place it at the ankles, goddess."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-said",
+     "grounds": "gerund of prac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṅghayoḥ",
+     "gloss": "at-calves",
+     "grounds": "locative dual feminine of jaṅghā",
+     "morph": "n.loc.du.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "optative third singular active of vinyas",
+     "morph": "v.3.sg.act.opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "Where is the remainder placed after saying it as before?",
+   "premises": [
+    "remainder is named",
+    "as-before is named",
+    "at-calves is named"
+   ],
+   "inference": "The verse places the remainder at the calves after saying it as before.",
+   "uncertainties": [
+    "jaṅghayoḥ is read as locative dual feminine"
+   ],
+   "plain_english": "Having said the remainder as before, place it at the calves, dear one."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-said",
+     "grounds": "gerund of prac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "jānvoḥ",
+     "gloss": "at-knees",
+     "grounds": "locative dual masculine of jānu",
+     "morph": "n.loc.du.m"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "carefully-place",
+     "grounds": "optative third singular active of pravinyas",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "Where is the remainder carefully placed after saying it as before?",
+   "premises": [
+    "remainder is named",
+    "as-before is named",
+    "at-knees is named"
+   ],
+   "inference": "The verse carefully places the remainder at the knees after saying it as before.",
+   "uncertainties": [
+    "jānvoḥ is read as locative dual masculine"
+   ],
+   "plain_english": "Having said the remainder as before, carefully place it at the knees, goddess."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-said",
+     "grounds": "gerund of prac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrvoḥ",
+     "gloss": "at-thighs",
+     "grounds": "locative dual feminine of ūru",
+     "morph": "n.loc.du.f"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "optative third singular active of vinyas",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "Where is the remainder placed after saying it as before?",
+   "premises": [
+    "remainder is named",
+    "as-before is named",
+    "at-thighs is named"
+   ],
+   "inference": "The verse places the remainder at the thighs after saying it as before.",
+   "uncertainties": [
+    "ūrvoḥ is read as locative dual feminine"
+   ],
+   "plain_english": "Having said the remainder as before, place it at the thighs, goddess."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "śeṣam",
+     "gloss": "remainder",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procya",
+     "gloss": "having-said",
+     "grounds": "gerund of prac",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyadeśe",
+     "gloss": "at-secret-place",
+     "grounds": "locative singular masculine of guhyadeśa",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "carefully-place",
+     "grounds": "optative third singular active of pravinyas",
+     "morph": "v.3.sg.act.opt"
+    }
+   ],
+   "question": "Where is the remainder carefully placed after saying it as before?",
+   "premises": [
+    "remainder is named",
+    "as-before is named",
+    "at-secret-place is named"
+   ],
+   "inference": "The verse carefully places the remainder at the secret place after saying it as before.",
+   "uncertainties": [
+    "guhyadeśe is read as locative singular masculine"
+   ],
+   "plain_english": "Having said the remainder as before, carefully place it at the secret place."
+  }
+ ]
+}

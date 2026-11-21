@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p381",
+ "items": [
+  {
+   "verse": 9525,
+   "rows": [
+    {
+     "surface": "vyatyasya",
+     "gloss": "having-reversed",
+     "grounds": "absolutive indicating inversion or transposition of position",
+     "morph": "(gerund) vi-ati-as"
+    },
+    {
+     "surface": "pṛṣṭhataḥ",
+     "gloss": "from-behind",
+     "grounds": "spatial adverb indicating position at the back",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-bound",
+     "grounds": "absolutive expressing prior act of binding",
+     "morph": "(gerund) bandh"
+    },
+    {
+     "surface": "keśa",
+     "gloss": "hair",
+     "grounds": "first member of compound with pāśena",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāśena",
+     "gloss": "by-noose",
+     "grounds": "instrument denoting a tie made of hair",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "refers to the targeted person from prior verses",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescribes mantra recitation as the ritual act",
+     "morph": "3.sg.opt.act √jap"
+    }
+   ],
+   "question": "What physical procedure must accompany mantra recitation over the targeted person?",
+   "premises": [
+    "The practitioner must first reverse position relative to the target.",
+    "The practitioner must bind the target from behind.",
+    "The binding must be done using a noose made of hair.",
+    "The practitioner must then recite the mantra over the bound target."
+   ],
+   "inference": "Effective mantra recitation over the target requires reversing position and binding him from behind with a hair noose.",
+   "uncertainties": [
+    "The exact referent of vyatyasya (reversing the target, the practitioner, or their relative positions) is context-dependent."
+   ],
+   "plain_english": "Having reversed position, one should bind him from behind with a noose of hair and then recite the mantra."
+  }
+ ]
+}

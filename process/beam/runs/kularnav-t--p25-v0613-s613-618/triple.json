@@ -1,0 +1,319 @@
+{
+ "song": "kul-p25",
+ "items": [
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "keśasaṃkhyā",
+     "gloss": "hair-count",
+     "grounds": "exact surface; legacy hint hair-count",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "exact surface; legacy hint remembered",
+     "morph": "ppp.nom.sg.f"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "exact surface; legacy hint as-long-as",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "exact surface; legacy hint so-long",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stay",
+     "grounds": "exact surface; legacy hint stay",
+     "morph": "3.pl.act-pres (root sthā)"
+    },
+    {
+     "surface": "raurave",
+     "gloss": "in-raurava",
+     "grounds": "exact surface; legacy hint in-Raurava",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "How long do they stay in Raurava?",
+   "premises": [
+    "hair count remembered sets duration",
+    "as-long-as that count so-long stay",
+    "they stay in Raurava"
+   ],
+   "inference": "The duration of stay in Raurava is measured by the remembered hair count.",
+   "uncertainties": [
+    "gender and case of raurave inferred from locative ending"
+   ],
+   "plain_english": "As long as the remembered hair count, so long they stay in Raurava."
+  },
+  {
+   "verse": 614,
+   "rows": [
+    {
+     "surface": "tadaṅgaromasaṃkhyātaṃ",
+     "gloss": "that-body-hair-count",
+     "grounds": "exact surface; legacy hint that-body-hair-count",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhūtayoniṣu",
+     "gloss": "in-element-wombs",
+     "grounds": "exact surface; legacy hint in-element-wombs",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "exact surface; legacy hint is-born",
+     "morph": "3.sg.mid-pres (root jan)"
+    }
+   ],
+   "question": "Where is one born according to that body-hair count?",
+   "premises": [
+    "that body-hair count is given",
+    "birth occurs in element-wombs",
+    "the count governs the births"
+   ],
+   "inference": "One is born in the element-wombs according to that body-hair count.",
+   "uncertainties": [
+    "exact case and gender of the compound inferred from ending"
+   ],
+   "plain_english": "According to that body-hair count, one is born in the element-wombs."
+  },
+  {
+   "verse": 615,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "exact surface; legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "exact surface; legacy hint meditation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "exact surface; legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapo",
+     "gloss": "austerity",
+     "grounds": "exact surface; legacy hint austerity",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "exact surface; legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcā",
+     "gloss": "worship",
+     "grounds": "exact surface; legacy hint worship",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "exact surface; legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharmo",
+     "gloss": "dharma",
+     "grounds": "exact surface; legacy hint dharma",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "exact surface; legacy hint not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "exact surface; legacy hint and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satkriyā",
+     "gloss": "good-rite",
+     "grounds": "exact surface; legacy hint good-rite",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which practices are said to be absent here?",
+   "premises": [
+    "meditation is not present",
+    "austerity is not present",
+    "worship is not present",
+    "dharma is not present",
+    "good rite is not present"
+   ],
+   "inference": "None of these practices is present in the stated condition.",
+   "uncertainties": [
+    "syntactic relation of dharmo and satkriyā inferred from accusative-nominative endings"
+   ],
+   "plain_english": "There is no meditation, no austerity, no worship, no dharma, and no good rite."
+  },
+  {
+   "verse": 616,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "exact surface; legacy hint only",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣayāsaktaḥ",
+     "gloss": "attached-to-sense-objects",
+     "grounds": "exact surface; legacy hint attached-to-sense-objects",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "patatyeva",
+     "gloss": "falls-indeed",
+     "grounds": "exact surface; legacy hint falls-indeed",
+     "morph": "3.sg.act-pres (root pat)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "exact surface; legacy hint no",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "exact surface; legacy hint doubt",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What happens to one attached only to sense objects?",
+   "premises": [
+    "only sense-object attachment is stated",
+    "such a person falls indeed",
+    "there is no doubt about it"
+   ],
+   "inference": "One attached only to sense objects certainly falls.",
+   "uncertainties": [
+    "patatyeva treated as fused verb-plus-particle surface"
+   ],
+   "plain_english": "One attached only to sense objects falls indeed; there is no doubt."
+  },
+  {
+   "verse": 617,
+   "rows": [
+    {
+     "surface": "kaulopadeśahīnaḥ",
+     "gloss": "without-kaula-instruction",
+     "grounds": "exact surface; legacy hint without-Kaula-instruction",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "exact surface; legacy hint who",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "exact surface; legacy hint he",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "akṣayaṃ",
+     "gloss": "imperishable",
+     "grounds": "exact surface; legacy hint imperishable",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "exact surface; legacy hint hell",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "exact surface; legacy hint would-go",
+     "morph": "3.sg.opt.act (root vraj)"
+    }
+   ],
+   "question": "Where would one without Kaula instruction go?",
+   "premises": [
+    "one without Kaula instruction is named",
+    "he would go to hell",
+    "that hell is imperishable"
+   ],
+   "inference": "One lacking Kaula instruction would go to imperishable hell.",
+   "uncertainties": [
+    "akṣayaṃ parsed as adjective modifying narakaṃ"
+   ],
+   "plain_english": "He who is without Kaula instruction would go to imperishable hell."
+  },
+  {
+   "verse": 618,
+   "rows": [
+    {
+     "surface": "kuleśi",
+     "gloss": "O-kuleśī",
+     "grounds": "exact surface; legacy hint O-Kuleśī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "brahmaniṣṭhaḥ",
+     "gloss": "devoted-to-brahma",
+     "grounds": "exact surface; legacy hint devoted-to-Brahma",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "exact surface; legacy hint even",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nindyatām",
+     "gloss": "reproach",
+     "grounds": "exact surface; legacy hint reproach",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "adhigacchati",
+     "gloss": "obtains",
+     "grounds": "exact surface; legacy hint obtains",
+     "morph": "3.sg.act-pres (root gam)"
+    }
+   ],
+   "question": "What does even a Brahma-devoted person obtain here?",
+   "premises": [
+    "the addressee is Kuleśī",
+    "even a Brahma-devoted person is named",
+    "he obtains reproach"
+   ],
+   "inference": "Even one devoted to Brahma obtains reproach.",
+   "uncertainties": [
+    "compound brahmaniṣṭhaḥ parsed as devoted-to-Brahma"
+   ],
+   "plain_english": "O Kuleśī, even one devoted to Brahma obtains reproach."
+  }
+ ]
+}

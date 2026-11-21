@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 600,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral one",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "yugmaṃ",
+     "gloss": "pair",
+     "grounds": "pairing unit",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "numeral two",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "dvandvamekaṃ",
+     "gloss": "pair-pair",
+     "grounds": "compound dvandva+eka",
+     "morph": "compound=dvandva+eka"
+    },
+    {
+     "surface": "dvandvaṃ",
+     "gloss": "dvandva",
+     "grounds": "paired compound",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "trayātmakam",
+     "gloss": "three-natured",
+     "grounds": "compound traya+ātmaka",
+     "morph": "compound=traya+ātmaka"
+    }
+   ],
+   "question": "How are the fourteen vowels grouped into one pair two pair-pair dvandva and three-natured sets?",
+   "premises": [
+    "verse lists five vowel groupings",
+    "groupings include one pair and two",
+    "groupings include pair-pair dvandva and three-natured"
+   ],
+   "inference": "The verse enumerates five named groupings of vowels.",
+   "uncertainties": [
+    "exact referent of each grouping is not specified"
+   ],
+   "plain_english": "One pair, two, pair-pair, dvandva, three-natured."
+  }
+ ]
+}

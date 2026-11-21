@@ -1,0 +1,1137 @@
+{
+ "song": "kjn-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "aṣṭādaśavidhaṃ",
+     "gloss": "eighteen-fold",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jñānam",
+     "gloss": "knowledge",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kula+gocare",
+     "gloss": "in-kula-sphere",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is the eighteen-fold knowledge situated in the kula sphere?",
+   "premises": [
+    "Knowledge is eighteen-fold.",
+    "It is situated in the kula sphere."
+   ],
+   "inference": "The verse identifies a structured knowledge within the kula sphere.",
+   "uncertainties": [
+    "Exact enumeration of the eighteen kinds is not given."
+   ],
+   "plain_english": "O goddess, knowledge is eighteen-fold in the kula sphere."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "candra+dvīpa+vinirgate",
+     "gloss": "emerged-from-candra-dvīpa",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter emerges from candra-dvīpa?",
+   "premises": [
+    "The first chapter emerges from candra-dvīpa."
+   ],
+   "inference": "The first chapter is located in the candra-dvīpa emergence.",
+   "uncertainties": [
+    "No further chapter content is supplied."
+   ],
+   "plain_english": "The first chapter emerges from candra-dvīpa."
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "sṛṣṭi+yogaṃ",
+     "gloss": "creation-yoga",
+     "grounds": "compound object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jñātaṃ",
+     "gloss": "known",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃhāraṃ",
+     "gloss": "dissolution",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kathayasva",
+     "gloss": "tell",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "What creation and dissolution knowledge should be told?",
+   "premises": [
+    "Creation-yoga is known by me.",
+    "Dissolution should be told to me."
+   ],
+   "inference": "The verse requests instruction on creation and dissolution.",
+   "uncertainties": [
+    "The exact teaching requested is not specified."
+   ],
+   "plain_english": "Tell me the dissolution, since creation-yoga is known by me."
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "kālāgni+rudra+saṃjñā",
+     "gloss": "named-kālāgni-rudra",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nakha+agre",
+     "gloss": "at-tip-of-nail",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nitya+saṃsthitam",
+     "gloss": "eternally-situated",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the kālāgni-rudra eternally situated?",
+   "premises": [
+    "It is named kālāgni-rudra.",
+    "It is eternally situated at the nail tip."
+   ],
+   "inference": "The verse locates kālāgni-rudra at the nail tip.",
+   "uncertainties": [
+    "The nail's owner or context is not stated."
+   ],
+   "plain_english": "Indeed, kālāgni-rudra is eternally situated at the tip of the nail."
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "vaḍavā+mukha+mahattvam",
+     "gloss": "greatness-of-vaḍavāmukha",
+     "grounds": "compound subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātāle",
+     "gloss": "in-netherworld",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saha+saṃsthitaḥ",
+     "gloss": "situated-together",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is vaḍavāmukha's greatness situated together?",
+   "premises": [
+    "Vaḍavāmukha's greatness is named.",
+    "It is situated together in the netherworld."
+   ],
+   "inference": "The verse places vaḍavāmukha's greatness in the netherworld.",
+   "uncertainties": [
+    "The companion entity is not specified."
+   ],
+   "plain_english": "And the greatness of vaḍavāmukha is situated together in the netherworld."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "told",
+     "grounds": "participle",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-fair-one",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhuvanāni",
+     "gloss": "worlds",
+     "grounds": "subject",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "caturdaśa",
+     "gloss": "fourteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many worlds have been told?",
+   "premises": [
+    "These worlds are told.",
+    "There are fourteen worlds."
+   ],
+   "inference": "The verse states that fourteen worlds have been told.",
+   "uncertainties": [
+    "The list of worlds is not included."
+   ],
+   "plain_english": "O fair one, these fourteen worlds have been told."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "sarvajñā",
+     "gloss": "all-knowing",
+     "grounds": "compound adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yatna",
+     "gloss": "effort",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃlīnaṃ",
+     "gloss": "dissolved",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "layam",
+     "gloss": "dissolution",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti+gocare",
+     "gloss": "in-sphere-of-śakti",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is dissolution dissolved in the all-knowing effort?",
+   "premises": [
+    "All-knowing effort is named.",
+    "Dissolution is dissolved in the sphere of śakti."
+   ],
+   "inference": "The verse connects dissolution with the sphere of śakti.",
+   "uncertainties": [
+    "The exact relation of effort and dissolution is unclear."
+   ],
+   "plain_english": "All-knowing effort dissolves dissolution in the sphere of śakti."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "jñāna+madhye",
+     "gloss": "in-knowledge",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "līnā",
+     "gloss": "dissolved",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "action",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "līyati",
+     "gloss": "dissolves",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "icchayā",
+     "gloss": "in-will",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How does action dissolve in knowledge and will?",
+   "premises": [
+    "Action is dissolved in knowledge.",
+    "Action dissolves in will."
+   ],
+   "inference": "The verse describes action dissolving through knowledge and will.",
+   "uncertainties": [
+    "The exact causal order is not explicit."
+   ],
+   "plain_english": "In knowledge action is dissolved; action dissolves in will."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "saṃhāram",
+     "gloss": "dissolution",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhedena",
+     "gloss": "by-division",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kathitam",
+     "gloss": "told",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śobhane",
+     "gloss": "o-beautiful-one",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How has this dissolution been told to you?",
+   "premises": [
+    "This dissolution is told.",
+    "It is told by division to you."
+   ],
+   "inference": "The verse states that dissolution has been explained by division.",
+   "uncertainties": [
+    "The divisions themselves are not listed."
+   ],
+   "plain_english": "Indeed, this dissolution has been told to you, o beautiful one, by division."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "sṛṣṭi+yogaṃ",
+     "gloss": "creation-yoga",
+     "grounds": "compound object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pada+nyastaṃ",
+     "gloss": "placed-in-positions",
+     "grounds": "compound participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sṛjati",
+     "gloss": "creates",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cara+acaram",
+     "gloss": "moving-and-unmoving",
+     "grounds": "compound object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does creation-yoga create when placed in positions?",
+   "premises": [
+    "Creation-yoga is placed in positions.",
+    "It creates moving and unmoving things."
+   ],
+   "inference": "The verse says creation-yoga produces both moving and unmoving entities.",
+   "uncertainties": [
+    "The positions are not enumerated."
+   ],
+   "plain_english": "Thus creation-yoga, placed in positions, creates moving and unmoving things."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "previously",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sūcitaṃ",
+     "gloss": "indicated",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sṛṣṭi+yogaṃ",
+     "gloss": "creation-yoga",
+     "grounds": "compound object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "to-you",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "What creation-yoga was previously indicated to you?",
+   "premises": [
+    "Creation-yoga was previously indicated.",
+    "It was indicated by me to you."
+   ],
+   "inference": "The verse recalls a prior indication of creation-yoga.",
+   "uncertainties": [
+    "The prior indication's details are not repeated."
+   ],
+   "plain_english": "O goddess, creation-yoga was previously indicated to you by me."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "kim+anyam",
+     "gloss": "what-else",
+     "grounds": "compound interrogative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pṛcchase",
+     "gloss": "do-you-ask",
+     "grounds": "verb",
+     "morph": "2.sg.act-pres"
+    },
+    {
+     "surface": "nāthe",
+     "gloss": "o-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "su+gopyaṃ",
+     "gloss": "very-secret",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakaṭī+kṛtam",
+     "gloss": "made-manifest",
+     "grounds": "compound participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why ask anything else when the very secret is manifest?",
+   "premises": [
+    "You ask what else.",
+    "The very secret has been made manifest."
+   ],
+   "inference": "The verse discourages further questioning because the secret is already manifest.",
+   "uncertainties": [
+    "The identity of the secret is not restated."
+   ],
+   "plain_english": "O lord, why do you ask anything else when the very secret has been made manifest?"
+  },
+  {
+   "verse": 13,
+   "rows": [
+    {
+     "surface": "candra+dvīpa+vinirgate",
+     "gloss": "emerged-from-candra-dvīpa",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter emerges from candra-dvīpa second?",
+   "premises": [
+    "The second chapter emerges from candra-dvīpa."
+   ],
+   "inference": "The second chapter is located in the candra-dvīpa emergence.",
+   "uncertainties": [
+    "No further chapter content is supplied."
+   ],
+   "plain_english": "The second chapter emerges from candra-dvīpa."
+  },
+  {
+   "verse": 14,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "prasādī+bhava",
+     "gloss": "be-gracious",
+     "grounds": "compound imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "śaṅkaraḥ",
+     "gloss": "o-śaṅkara",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What doubt should Śaṅkara graciously resolve?",
+   "premises": [
+    "This is my doubt.",
+    "Be gracious, o Śaṅkara."
+   ],
+   "inference": "The verse requests gracious resolution of a doubt.",
+   "uncertainties": [
+    "The doubt's content is not stated."
+   ],
+   "plain_english": "This is my doubt, o lord; be gracious, o Śaṅkara."
+  },
+  {
+   "verse": 15,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭiḥ",
+     "gloss": "sight",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūta+indriya+m+apudgalaḥ",
+     "gloss": "elements-senses-and-individual",
+     "grounds": "compound subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where are elements, senses, and individual located?",
+   "premises": [
+    "Where sight and mind are, there they are.",
+    "Elements, senses, and individual are there."
+   ],
+   "inference": "The verse ties elements, senses, and individual to the locus of sight and mind.",
+   "uncertainties": [
+    "The exact metaphysical relation is not explained."
+   ],
+   "plain_english": "Where sight and mind are, there are elements, senses, and the individual."
+  },
+  {
+   "verse": 16,
+   "rows": [
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānam",
+     "gloss": "meditation",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "color",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣam",
+     "gloss": "mark",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣṭayam",
+     "gloss": "tetrad",
+     "grounds": "predicate",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fourfold set includes place, meditation, color, and mark?",
+   "premises": [
+    "Place, meditation, color, and mark are named.",
+    "They form a tetrad."
+   ],
+   "inference": "The verse defines a fourfold set of place, meditation, color, and mark.",
+   "uncertainties": [
+    "The tetrad's application is not specified."
+   ],
+   "plain_english": "Place, meditation, color, and mark indeed form a tetrad."
+  },
+  {
+   "verse": 17,
+   "rows": [
+    {
+     "surface": "varṇa+rūpaṃ",
+     "gloss": "having-color-form",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinirdiṣṭaṃ",
+     "gloss": "designated",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "mark",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpa+varjitam",
+     "gloss": "devoid-of-form",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the mark designated with color-form and formlessness?",
+   "premises": [
+    "The mark is designated having color-form.",
+    "It is devoid of form."
+   ],
+   "inference": "The verse describes the mark as both designated with color-form and devoid of form.",
+   "uncertainties": [
+    "The apparent contradiction is not resolved."
+   ],
+   "plain_english": "The mark designated with color-form is indeed devoid of form."
+  },
+  {
+   "verse": 18,
+   "rows": [
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "in-place",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "ekaikasya",
+     "gloss": "of-each-one",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is fourfold for each one in place?",
+   "premises": [
+    "It is situated in place.",
+    "For each one it is fourfold."
+   ],
+   "inference": "The verse states a fourfold arrangement for each entity in place.",
+   "uncertainties": [
+    "The four items are not listed."
+   ],
+   "plain_english": "O goddess, situated in place, for each one it is fourfold."
+  },
+  {
+   "verse": 19,
+   "rows": [
+    {
+     "surface": "pañca+āraṃ",
+     "gloss": "five-spoked",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣoḍaśa+āram",
+     "gloss": "sixteen-spoked",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuḥ+ṣaṣṭi+dala+m",
+     "gloss": "sixty-four-petaled",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What spoke and petal counts are named?",
+   "premises": [
+    "Five-spoked and sixteen-spoked are named.",
+    "Sixty-four-petaled is named."
+   ],
+   "inference": "The verse lists wheel-like counts of five, sixteen, and sixty-four.",
+   "uncertainties": [
+    "The wheels' identities are not specified."
+   ],
+   "plain_english": "O beloved, five-spoked, sixteen-spoked, and sixty-four-petaled."
+  },
+  {
+   "verse": 20,
+   "rows": [
+    {
+     "surface": "koṭi+patraṃ",
+     "gloss": "million-petaled",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "su+teja+āḍhyaṃ",
+     "gloss": "endowed-with-great-splendor",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasya+ūrdhe",
+     "gloss": "above-that",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    }
+   ],
+   "question": "What lies above the million-petaled splendor?",
+   "premises": [
+    "A million-petaled splendor is named.",
+    "Listen otherwise above that."
+   ],
+   "inference": "The verse directs attention to what is above the million-petaled splendor.",
+   "uncertainties": [
+    "The higher entity is not named in this verse."
+   ],
+   "plain_english": "Listen otherwise: above that million-petaled, greatly splendid thing."
+  },
+  {
+   "verse": 21,
+   "rows": [
+    {
+     "surface": "karṇikā+keśaraiḥ+yuktaṃ",
+     "gloss": "endowed-with-pericarp-and-filaments",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīpyamānaṃ",
+     "gloss": "shining",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is shining and endowed with pericarp and filaments?",
+   "premises": [
+    "It is endowed with pericarp and filaments.",
+    "It is shining likewise."
+   ],
+   "inference": "The verse describes a shining lotus-like structure with pericarp and filaments.",
+   "uncertainties": [
+    "The structure's name is not given."
+   ],
+   "plain_english": "Likewise, shining and endowed with pericarp and filaments."
+  },
+  {
+   "verse": 22,
+   "rows": [
+    {
+     "surface": "svātantram",
+     "gloss": "autonomous",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abjam",
+     "gloss": "lotus",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "acalaṃ",
+     "gloss": "immovable",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva+vyāpī",
+     "gloss": "all-pervading",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirañjanam",
+     "gloss": "stainless",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities belong to the autonomous lotus?",
+   "premises": [
+    "The lotus is autonomous.",
+    "It is immovable, all-pervading, and stainless."
+   ],
+   "inference": "The verse attributes autonomy, immovability, all-pervasiveness, and stainlessness to the lotus.",
+   "uncertainties": [
+    "The lotus's location is not stated."
+   ],
+   "plain_english": "The autonomous lotus is immovable, all-pervading, and stainless."
+  },
+  {
+   "verse": 23,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "liṅgam",
+     "gloss": "liṅga",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātaṃ",
+     "gloss": "celebrated",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "līnaṃ",
+     "gloss": "dissolved",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cara+acaram",
+     "gloss": "moving-and-unmoving",
+     "grounds": "compound subject",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is the celebrated liṅga with moving and unmoving dissolved?",
+   "premises": [
+    "By that the liṅga is celebrated.",
+    "Moving and unmoving are dissolved there."
+   ],
+   "inference": "The verse locates the celebrated liṅga where moving and unmoving dissolve.",
+   "uncertainties": [
+    "The antecedent of 'that' is not explicit."
+   ],
+   "plain_english": "Indeed, by that the liṅga is celebrated, where moving and unmoving are dissolved."
+  },
+  {
+   "verse": 24,
+   "rows": [
+    {
+     "surface": "ajñātvā",
+     "gloss": "without-knowing",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandham",
+     "gloss": "bondage",
+     "grounds": "object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhaiḥ",
+     "gloss": "from-bonds",
+     "grounds": "ablative",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "one-is-released",
+     "grounds": "verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How is one released from bonds?",
+   "premises": [
+    "Without knowing, bondage is declared.",
+    "Having known, one is released from bonds."
+   ],
+   "inference": "The verse contrasts bondage through ignorance with release through knowledge.",
+   "uncertainties": [
+    "The object of knowledge is not specified."
+   ],
+   "plain_english": "Without knowing, bondage is declared; having known, one is released from bonds."
+  }
+ ]
+}

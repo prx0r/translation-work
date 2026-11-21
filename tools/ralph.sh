@@ -65,7 +65,7 @@ for ((i = 1; i <= MAX_ITER; i++)); do
   git reset -q process/beam/queue.json process/beam/claims process/beam/w1.log process/beam/w2.log process/beam/w3.log process/beam/w4.log process/beam/w5.log process/beam/ralph.log ipvv/cm/beam 2>/dev/null
   if ! git diff --cached --quiet; then
     if python3 tools/validate_all.py --quick >/dev/null 2>&1; then
-      git commit -qm "ralph pass $i: swarm progress (machine-proposed)" && git push -q origin master 2>&1 | while IFS= read -r l; do log "push: $l"; done
+      git commit -qm "ralph pass $i: swarm progress (machine-proposed)" && git push -q origin HEAD 2>&1 | while IFS= read -r l; do log "push: $l"; done
       log "committed+pushed pass $i"
     else
       log "validate_all (--quick) FAILED — holding commit, needs assessor"

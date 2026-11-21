@@ -1,0 +1,575 @@
+{
+ "song": "kul-p38",
+ "items": [
+  {
+   "verse": 938,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāṇīvidhātārau",
+     "gloss": "speech-creator-pair",
+     "grounds": "compound vāṇī plus vidhātṛ in dual nominative",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable correlative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saśaktikaḥ",
+     "gloss": "with-shakti",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the hero with shakti compare to speech creators?",
+   "premises": [
+    "speech creators are paired",
+    "the hero acts with shakti",
+    "comparison is stated directly"
+   ],
+   "inference": "the hero with shakti is likened to the pair of speech creators",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "As the pair of speech creators, so is the hero with shakti."
+  },
+  {
+   "verse": 939,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tuṣyāmi",
+     "gloss": "satisfied",
+     "grounds": "first person singular present active of root tuṣ",
+     "morph": "1.sg.act.pres"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "best-exalted",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhagaliṅgāmṛtaṃ",
+     "gloss": "bhaga-linga-nectar",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is satisfaction absent without bhaga-linga nectar?",
+   "premises": [
+    "satisfaction is denied",
+    "the addressee is best-exalted",
+    "bhaga-linga nectar is required"
+   ],
+   "inference": "satisfaction depends on bhaga-linga nectar",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "I am not satisfied, best-exalted one, without bhaga-linga nectar."
+  },
+  {
+   "verse": 940,
+   "rows": [
+    {
+     "surface": "liṅgāṅkaṃ",
+     "gloss": "linga-mark",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagāṅkaṃ",
+     "gloss": "bhaga-mark",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "indeclinable ablative-derived particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiśivātmakam",
+     "gloss": "shakti-shiva-nature",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why are linga-mark and bhaga-mark both needed?",
+   "premises": [
+    "linga-mark is named",
+    "bhaga-mark is named",
+    "both are shakti-shiva nature"
+   ],
+   "inference": "the two marks together express shakti-shiva nature",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Linga-mark and bhaga-mark are therefore shakti-shiva nature."
+  },
+  {
+   "verse": 941,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "feminine nominative singular pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kulaniṣṭhānāṃ",
+     "gloss": "kula-steadfast-ones",
+     "grounds": "genitive plural masculine or neuter",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samādhiḥ",
+     "gloss": "samadhi",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "masculine nominative singular pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "third person singular present passive of root vidhā",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "What is prescribed as samadhi for kula-steadfast ones?",
+   "premises": [
+    "that twilight is named",
+    "kula-steadfast ones are referenced",
+    "samadhi is prescribed"
+   ],
+   "inference": "that twilight is the prescribed samadhi for kula-steadfast ones",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "That twilight is the samadhi prescribed for kula-steadfast ones."
+  },
+  {
+   "verse": 942,
+   "rows": [
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskārasaṃśuddhāṃ",
+     "gloss": "purified-by-rite",
+     "grounds": "accusative singular feminine participle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vihitatvāt",
+     "gloss": "by-prescription",
+     "grounds": "ablative singular neuter of vihitatva",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "striyaṃ",
+     "gloss": "woman",
+     "grounds": "accusative singular feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "approach",
+     "grounds": "third person singular optative active of root vraj",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "When may one approach a woman immediately?",
+   "premises": [
+    "immediacy is stated",
+    "purification by rite is stated",
+    "prescription is the reason"
+   ],
+   "inference": "one may approach a woman immediately because she is purified by rite",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Immediately approach a woman purified by rite, by prescription."
+  },
+  {
+   "verse": 943,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "kula-lady",
+     "grounds": "vocative plural feminine",
+     "morph": "f.voc.pl"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "more",
+     "grounds": "indeclinable comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive of root śru",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "wish",
+     "grounds": "second person singular present active of root iṣ",
+     "morph": "2.sg.act.pres"
+    }
+   ],
+   "question": "What more does the kula-lady wish to hear in brief?",
+   "premises": [
+    "brief speech is requested",
+    "kula-lady is addressed",
+    "hearing more is desired"
+   ],
+   "inference": "the speaker asks what more the kula-lady wishes to hear",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "In brief, kula-lady, what more do you wish to hear?"
+  },
+  {
+   "verse": 944,
+   "rows": [
+    {
+     "surface": "tattvatritayapānādibhedakathanaṃ",
+     "gloss": "three-principles-drinking-etc-difference-discourse",
+     "grounds": "compound nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭamollāsaḥ",
+     "gloss": "eighth-delight",
+     "grounds": "compound nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the eighth delight named?",
+   "premises": [
+    "a discourse is named",
+    "it concerns three principles and drinking",
+    "it is the eighth delight"
+   ],
+   "inference": "the eighth delight is named as that discourse",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "The discourse on difference of three principles and drinking is named the eighth delight."
+  },
+  {
+   "verse": 945,
+   "rows": [
+    {
+     "surface": "kulabhaktyārcanaphalaṃ",
+     "gloss": "kula-devotion-worship-fruit",
+     "grounds": "compound accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "second person singular imperative active of root vad",
+     "morph": "2.sg.impv.act"
+    },
+    {
+     "surface": "me",
+     "gloss": "me",
+     "grounds": "first person singular dative or genitive pronoun",
+     "morph": "1.sg.dat"
+    },
+    {
+     "surface": "karuṇānidhe",
+     "gloss": "compassion-ocean",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What fruit of kula devotion and worship should be told?",
+   "premises": [
+    "fruit is requested",
+    "the addressee is compassion-ocean",
+    "telling is commanded"
+   ],
+   "inference": "the speaker asks the compassion-ocean to tell the fruit of kula devotion and worship",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Tell me, ocean of compassion, the fruit of kula devotion and worship."
+  },
+  {
+   "verse": 946,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive singular pronoun",
+     "morph": "gen.sg"
+    },
+    {
+     "surface": "śravaṇa",
+     "gloss": "hearing",
+     "grounds": "neuter noun in compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "merely",
+     "grounds": "instrumental singular neuter",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines",
+     "grounds": "third person singular present active of root prakāś",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "What shines directly through mere hearing?",
+   "premises": [
+    "hearing alone is enough",
+    "yoga is named",
+    "direct shining is stated"
+   ],
+   "inference": "yoga shines directly through mere hearing",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Through mere hearing of it, yoga shines directly."
+  },
+  {
+   "verse": 947,
+   "rows": [
+    {
+     "surface": "sākāraṃ",
+     "gloss": "with-form",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthūlam",
+     "gloss": "gross",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityāhu",
+     "gloss": "thus",
+     "grounds": "third person plural present active of root ah",
+     "morph": "3.pl.act.pres"
+    },
+    {
+     "surface": "nirākāraṃ",
+     "gloss": "formless",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "adversative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkṣmakam",
+     "gloss": "subtle",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How do gross and subtle forms differ?",
+   "premises": [
+    "with-form is gross",
+    "formless is subtle",
+    "the distinction is stated"
+   ],
+   "inference": "gross reality has form while subtle reality is formless",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "With form is gross, they say; formless is subtle."
+  },
+  {
+   "verse": 948,
+   "rows": [
+    {
+     "surface": "sthūle",
+     "gloss": "in-gross",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścalaṃ",
+     "gloss": "motionless",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ceto",
+     "gloss": "mind",
+     "grounds": "neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third person singular optative active of root bhū",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "sūkṣme",
+     "gloss": "in-subtle",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niścalam",
+     "gloss": "motionless",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Can mind become motionless in gross and subtle states?",
+   "premises": [
+    "mind becomes motionless in gross",
+    "mind becomes motionless in subtle",
+    "both states are named"
+   ],
+   "inference": "mind can become motionless in both gross and subtle states",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "In the gross, mind becomes motionless; in the subtle, also motionless."
+  },
+  {
+   "verse": 949,
+   "rows": [
+    {
+     "surface": "sarvatejomayaṃ",
+     "gloss": "all-radiance-filled",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "third person singular optative active of root dhyai",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "saccidānandaniṣkalam",
+     "gloss": "being-consciousness-bliss-attributeless",
+     "grounds": "compound accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should one meditate upon as all-radiance-filled?",
+   "premises": [
+    "meditation is commanded",
+    "all-radiance-filled object is named",
+    "being-consciousness-bliss-attributeless is named"
+   ],
+   "inference": "one should meditate on the all-radiance-filled being-consciousness-bliss-attributeless",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Meditate on the all-radiance-filled, being-consciousness-bliss-attributeless."
+  }
+ ]
+}

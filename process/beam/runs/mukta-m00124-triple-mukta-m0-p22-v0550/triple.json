@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "tarjanyāṅguṣṭhake",
+     "gloss": "index-thumb-junction",
+     "grounds": "compound locative form with fused sandhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "subject of the statement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvāsvaṅguṣṭhato",
+     "gloss": "all-from-thumb",
+     "grounds": "fused ablative expression",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of root bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where is nyāsa placed at the index-thumb junction, and how does it apply to all?",
+   "premises": [
+    "nyāsa occurs at index-thumb junction",
+    "all placements proceed from thumb",
+    "verse states this rule"
+   ],
+   "inference": "The index-thumb junction is the nyāsa point for all.",
+   "uncertainties": [
+    "exact sandhi resolution of sarvāsvaṅguṣṭhato remains uncertain"
+   ],
+   "plain_english": "Nyāsa is placed at the junction of index finger and thumb; for all, it proceeds from the thumb."
+  }
+ ]
+}

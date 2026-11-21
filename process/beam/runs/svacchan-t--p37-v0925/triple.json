@@ -1,0 +1,45 @@
+{
+ "song": "sva-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "dīkṣyam",
+     "gloss": "to-be-initiated",
+     "grounds": "gerundive of dīkṣ, 'to initiate'",
+     "morph": "gerundive.neu.nom.sg"
+    },
+    {
+     "surface": "dīkṣyam",
+     "gloss": "to-be-initiated",
+     "grounds": "gerundive of dīkṣ, 'to initiate'",
+     "morph": "gerundive.neu.nom.sg"
+    },
+    {
+     "surface": "dīkṣyam",
+     "gloss": "to-be-initiated",
+     "grounds": "gerundive of dīkṣ, 'to initiate'",
+     "morph": "gerundive.neu.nom.sg"
+    },
+    {
+     "surface": "dīkṣyam",
+     "gloss": "to-be-initiated",
+     "grounds": "gerundive of dīkṣ, 'to initiate'",
+     "morph": "gerundive.neu.nom.sg"
+    }
+   ],
+   "question": "Why is the to-be-initiated repeated four times?",
+   "premises": [
+    "The verse repeats dīkṣyam four times.",
+    "Repetition emphasizes initiation.",
+    "Initiation is the topic."
+   ],
+   "inference": "The passage stresses that initiation is to be performed.",
+   "uncertainties": [
+    "Exact syntactic role of repeated gerundive is unclear."
+   ],
+   "plain_english": "To be initiated, to be initiated, to be initiated, to be initiated."
+  }
+ ]
+}

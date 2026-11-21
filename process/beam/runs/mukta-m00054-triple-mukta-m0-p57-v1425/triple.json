@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "tvām",
+     "gloss": "you",
+     "grounds": "object of address and declaration",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "adrirājatanaye",
+     "gloss": "o-mountain-king-daughter",
+     "grounds": "vocative epithet; compound adri-rāja-tanayā",
+     "morph": "f.voc.sg (compound)"
+    },
+    {
+     "surface": "vibudhā",
+     "gloss": "the-wise-ones",
+     "grounds": "agents of the declaration",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vadanti",
+     "gloss": "say",
+     "grounds": "main verb governing the declaration",
+     "morph": "3.pl.pres.act √vad"
+    }
+   ],
+   "question": "What identity do the wise ones attribute to the addressed goddess?",
+   "premises": [
+    "The wise ones make a declaration.",
+    "The declaration is directed to an addressed you.",
+    "The addressed one is called mountain-king's daughter."
+   ],
+   "inference": "The wise ones identify the addressed goddess as the daughter of the mountain-king.",
+   "uncertainties": [],
+   "plain_english": "The wise ones call you, O daughter of the mountain-king."
+  }
+ ]
+}

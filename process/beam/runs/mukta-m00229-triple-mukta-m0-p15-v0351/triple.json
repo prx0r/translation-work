@@ -1,0 +1,1067 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "pacyate",
+     "gloss": "is-cooked",
+     "grounds": "verb from pac",
+     "morph": "3.sg.pass-pres+pac"
+    },
+    {
+     "surface": "puruṣa",
+     "gloss": "man",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhamaḥ",
+     "gloss": "lowest",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens to the lowest man?",
+   "premises": [
+    "lowest man is cooked",
+    "cooking implies punishment",
+    "verse states this fate"
+   ],
+   "inference": "The lowest man undergoes cooking or punishment.",
+   "uncertainties": [
+    "exact ritual sense of pacyate"
+   ],
+   "plain_english": "The lowest man is cooked."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive guru",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivamayaḥ",
+     "gloss": "śiva-filled",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.opt-act+bhū"
+    }
+   ],
+   "question": "How does a disciple become filled with Śiva through the teacher?",
+   "premises": [
+    "disciple becomes śiva-filled",
+    "this follows from teacher",
+    "thus indicates sequence"
+   ],
+   "inference": "Through the teacher the disciple becomes Śiva-filled.",
+   "uncertainties": [
+    "exact optative force"
+   ],
+   "plain_english": "Thus the disciple becomes filled with Śiva through the teacher."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāyāṃ",
+     "gloss": "shadow",
+     "grounds": "accusative chāyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "laṅghayet",
+     "gloss": "should-cross",
+     "grounds": "verb laṅgh",
+     "morph": "3.sg.opt-act+laṅgh"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should one ever cross the teacher's shadow?",
+   "premises": [
+    "one should not cross shadow",
+    "ever emphasizes prohibition",
+    "thus connects prior rule"
+   ],
+   "inference": "One should never cross the shadow.",
+   "uncertainties": [
+    "ritual scope of shadow"
+   ],
+   "plain_english": "Thus one should never cross the shadow."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyākhyāṃ",
+     "gloss": "explanation",
+     "grounds": "accusative vyākhyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prabhutva",
+     "gloss": "lordship",
+     "grounds": "compound member",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive guru",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "should-abandon",
+     "grounds": "verb parityaj",
+     "morph": "3.sg.opt-act+parityaj"
+    }
+   ],
+   "question": "What should one abandon before the teacher regarding initiation and lordship?",
+   "premises": [
+    "initiation and explanation listed",
+    "lordship etc belong to teacher",
+    "one should abandon before teacher"
+   ],
+   "inference": "One should abandon claims of initiation, explanation, lordship, etc. before the teacher.",
+   "uncertainties": [
+    "exact list scope"
+   ],
+   "plain_english": "One should abandon initiation, explanation, lordship, and so on before the teacher."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "kurvanti",
+     "gloss": "do",
+     "grounds": "verb kṛ",
+     "morph": "3.pl.act-pres+kṛ"
+    },
+    {
+     "surface": "pāpiṣṭhāḥ",
+     "gloss": "most-sinful",
+     "grounds": "superlative adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puruṣa",
+     "gloss": "man",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adhamāḥ",
+     "gloss": "lowest",
+     "grounds": "adjective",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who are the most sinful lowest men?",
+   "premises": [
+    "most sinful do something",
+    "lowest men are subject",
+    "verse condemns them"
+   ],
+   "inference": "The most sinful lowest men perform condemned acts.",
+   "uncertainties": [
+    "object of kurvanti omitted"
+   ],
+   "plain_english": "The most sinful lowest men do this."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "śaśvat",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārādhyāḥ",
+     "gloss": "worshipped",
+     "grounds": "participle ārādh",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "guravaḥ",
+     "gloss": "teachers",
+     "grounds": "noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avamānitāḥ",
+     "gloss": "dishonored",
+     "grounds": "participle avaman",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What happens when teachers are always worshipped but dishonored?",
+   "premises": [
+    "teachers are always worshipped",
+    "they are dishonored",
+    "contrast is stated"
+   ],
+   "inference": "Dishonoring worshipped teachers is condemned.",
+   "uncertainties": [
+    "exact causal relation"
+   ],
+   "plain_english": "Teachers are always worshipped, yet they are dishonored."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "mohāt",
+     "gloss": "from-delusion",
+     "grounds": "ablative moha",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "paruṣaṃ",
+     "gloss": "harsh",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pravadanti",
+     "gloss": "speak",
+     "grounds": "verb pravad",
+     "morph": "3.pl.act-pres+pravad"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who speaks harshly from delusion?",
+   "premises": [
+    "from delusion causes harsh speech",
+    "those who speak are identified",
+    "verse marks them"
+   ],
+   "inference": "Those who speak harshly from delusion are at fault.",
+   "uncertainties": [
+    "target of speech omitted"
+   ],
+   "plain_english": "Those who speak harshly from delusion."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "duṣkṛtaṃ",
+     "gloss": "evil-deed",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there doubt that this is an evil deed?",
+   "premises": [
+    "that is an evil deed",
+    "no doubt remains",
+    "verse asserts certainty"
+   ],
+   "inference": "There is no doubt that it is an evil deed.",
+   "uncertainties": [
+    "antecedent of tat"
+   ],
+   "plain_english": "That is an evil deed, without doubt."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive kṛ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathama",
+     "gloss": "first",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "means",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is always to be done as the first means?",
+   "premises": [
+    "that is always to be done",
+    "it is indeed first",
+    "it is a means"
+   ],
+   "inference": "That practice is always to be done as the first means.",
+   "uncertainties": [
+    "referent of sā"
+   ],
+   "plain_english": "That is always to be done; indeed it is the first means."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "viśvāsaḥ",
+     "gloss": "trust",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddheḥ",
+     "gloss": "of-accomplishment",
+     "grounds": "genitive siddhi",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "mark",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the mark of accomplishment?",
+   "premises": [
+    "trust is this",
+    "this is mark",
+    "mark belongs to accomplishment"
+   ],
+   "inference": "Trust is the mark of accomplishment.",
+   "uncertainties": [
+    "scope of etat"
+   ],
+   "plain_english": "Trust is the mark of accomplishment."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japaiḥ",
+     "gloss": "with-japas",
+     "grounds": "instrumental japa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "nyāsa",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vistaraiḥ",
+     "gloss": "expansions",
+     "grounds": "instrumental vistara",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What use are japas and mantra-nyāsa expansions?",
+   "premises": [
+    "verse questions japas",
+    "verse questions mantra nyāsa expansions",
+    "rhetorical doubt is raised"
+   ],
+   "inference": "The verse questions the value of japas and mantra-nyāsa expansions.",
+   "uncertainties": [
+    "expected answer omitted"
+   ],
+   "plain_english": "What are japas, and what are mantra-nyāsa expansions?"
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "genitive mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adverb/adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb vac",
+     "morph": "3.sg.pass-pres+vac"
+    }
+   ],
+   "question": "What is first called the seed of a mantra?",
+   "premises": [
+    "mantra has a seed",
+    "seed is first",
+    "it is called so"
+   ],
+   "inference": "The first seed of a mantra is called its bīja.",
+   "uncertainties": [
+    "exact seed identity"
+   ],
+   "plain_english": "Indeed the first seed of a mantra is called its bīja."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "is-proclaimed",
+     "grounds": "participle prakīrt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the mantra proclaimed?",
+   "premises": [
+    "mantra is proclaimed",
+    "thus links prior seed",
+    "verse states proclamation"
+   ],
+   "inference": "Thus the mantra is proclaimed.",
+   "uncertainties": [
+    "proclamation context"
+   ],
+   "plain_english": "Thus the mantra is proclaimed."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "nadītīraṃ",
+     "gloss": "river-bank",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guhā",
+     "gloss": "cave",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parvata",
+     "gloss": "mountain",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mastakam",
+     "gloss": "top",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which secluded places are listed for practice?",
+   "premises": [
+    "river bank is listed",
+    "cave is listed",
+    "mountain top is listed"
+   ],
+   "inference": "River bank, cave, and mountain top are listed places.",
+   "uncertainties": [
+    "whether exhaustive"
+   ],
+   "plain_english": "River bank, cave, and mountain top."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "viviktāni",
+     "gloss": "secluded",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "bilvamūlaṃ",
+     "gloss": "bilva-root",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taṭaṃ",
+     "gloss": "bank",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gireḥ",
+     "gloss": "of-mountain",
+     "grounds": "genitive giri",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What secluded places include bilva root and mountain bank?",
+   "premises": [
+    "secluded places are listed",
+    "bilva root is one",
+    "mountain bank is one"
+   ],
+   "inference": "Secluded places include bilva root and mountain bank.",
+   "uncertainties": [
+    "exact list scope"
+   ],
+   "plain_english": "Secluded places: bilva root and mountain bank."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "aśvattha",
+     "gloss": "aśvattha",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āmalakīmūlaṃ",
+     "gloss": "amalakī-root",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gośālā",
+     "gloss": "cow-shed",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jalamadhyataḥ",
+     "gloss": "in-water",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further places are listed for practice?",
+   "premises": [
+    "aśvattha is listed",
+    "amalakī root is listed",
+    "cow shed and in water are listed"
+   ],
+   "inference": "Further listed places include aśvattha, amalakī root, cow shed, and in water.",
+   "uncertainties": [
+    "exact ritual use"
+   ],
+   "plain_english": "Aśvattha, amalakī root, cow shed, and in water."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "saṃnidhānaṃ",
+     "gloss": "proximity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "citta",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāgra",
+     "gloss": "one-pointed",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthalaṃ",
+     "gloss": "place",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What place is suitable when mind is one-pointed?",
+   "premises": [
+    "proximity is listed",
+    "one-pointed mind place is listed",
+    "thus connects list"
+   ],
+   "inference": "A place with one-pointed mind and proximity is suitable.",
+   "uncertainties": [
+    "exact proximity object"
+   ],
+   "plain_english": "Proximity and a place of one-pointed mind, thus."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "sthānam",
+     "gloss": "place",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśritya",
+     "gloss": "resorting",
+     "grounds": "absolutive āśri",
+     "morph": "abs+āśri"
+    },
+    {
+     "surface": "japam",
+     "gloss": "japa",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "verb ācar",
+     "morph": "3.sg.opt-act+ācar"
+    }
+   ],
+   "question": "How should one perform japa after resorting to a place?",
+   "premises": [
+    "one resorts to place",
+    "japa is performed",
+    "verse prescribes practice"
+   ],
+   "inference": "Having resorted to a place, one should perform japa.",
+   "uncertainties": [
+    "which place"
+   ],
+   "plain_english": "Resorting to a place, one should perform japa."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "kāmbalaṃ",
+     "gloss": "blanket",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "duḥkha",
+     "gloss": "sorrow",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mocanam",
+     "gloss": "release",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What does a blanket seat release?",
+   "premises": [
+    "blanket is listed",
+    "sorrow is mentioned",
+    "release is result"
+   ],
+   "inference": "A blanket seat releases sorrow.",
+   "uncertainties": [
+    "exact seat material"
+   ],
+   "plain_english": "A blanket releases sorrow."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "rogaharaṃ",
+     "gloss": "disease-removing",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiyāghraṃ",
+     "gloss": "tiger-skin",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhidam",
+     "gloss": "accomplishments",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What are the effects of a tiger-skin seat?",
+   "premises": [
+    "tiger skin removes disease",
+    "it gives all accomplishments",
+    "verse states effects"
+   ],
+   "inference": "A tiger-skin seat removes disease and gives all accomplishments.",
+   "uncertainties": [
+    "exact material"
+   ],
+   "plain_english": "Tiger skin removes disease and gives all accomplishments."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "dhavalaṃ",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "is-said",
+     "grounds": "participle pracakṣ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vicitraṃ",
+     "gloss": "variegated",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "in-all",
+     "grounds": "adjective",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "karmasu",
+     "gloss": "works",
+     "grounds": "locative karman",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "What is said about white and variegated seats in all works?",
+   "premises": [
+    "white is said",
+    "variegated is said",
+    "both apply in all works"
+   ],
+   "inference": "White and variegated seats are said to apply in all works.",
+   "uncertainties": [
+    "exact distinction"
+   ],
+   "plain_english": "White and variegated are said for all works."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccāṭe",
+     "gloss": "for-uccāṭa",
+     "grounds": "locative uccāṭa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "khaḍgijaṃ",
+     "gloss": "sword-born",
+     "grounds": "compound adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaśya",
+     "gloss": "for-subjugation",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmaṇi",
+     "gloss": "work",
+     "grounds": "locative karman",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which seats are used for uccāṭa and subjugation works?",
+   "premises": [
+    "uccāṭa work is mentioned",
+    "sword-born seat is mentioned",
+    "subjugation work is mentioned"
+   ],
+   "inference": "Sword-born seat is for uccāṭa and subjugation works.",
+   "uncertainties": [
+    "exact seat material"
+   ],
+   "plain_english": "Thus sword-born seat is for uccāṭa and subjugation work."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "dāridryaṃ",
+     "gloss": "poverty",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daurbhāgyaṃ",
+     "gloss": "misfortune",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dāru",
+     "gloss": "wood",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jāsane",
+     "gloss": "seat",
+     "grounds": "locative āsana",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What results from a wooden seat?",
+   "premises": [
+    "poverty is mentioned",
+    "misfortune is mentioned",
+    "wooden seat is mentioned"
+   ],
+   "inference": "A wooden seat brings poverty and misfortune.",
+   "uncertainties": [
+    "exact wood type"
+   ],
+   "plain_english": "Poverty and misfortune from a wooden seat."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "tṛṇāsane",
+     "gloss": "grass-seat",
+     "grounds": "locative tṛṇāsana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yaśohāniḥ",
+     "gloss": "loss-of-fame",
+     "grounds": "compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pallave",
+     "gloss": "leaf",
+     "grounds": "locative pallava",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "citta",
+     "gloss": "mind",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vibhramaḥ",
+     "gloss": "confusion",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What results from grass and leaf seats?",
+   "premises": [
+    "grass seat causes loss of fame",
+    "leaf seat causes mind confusion",
+    "verse states effects"
+   ],
+   "inference": "Grass seat causes loss of fame and leaf seat causes mind confusion.",
+   "uncertainties": [
+    "exact leaf type"
+   ],
+   "plain_english": "Grass seat causes loss of fame; leaf seat causes mind confusion."
+  }
+ ]
+}

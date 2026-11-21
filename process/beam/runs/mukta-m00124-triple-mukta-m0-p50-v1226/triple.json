@@ -1,0 +1,959 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1226,
+   "rows": [
+    {
+     "surface": "vṛttakuṇḍasamaṃ",
+     "gloss": "equal-to-round-altar",
+     "grounds": "compound adjective describing another form as equal to a round altar",
+     "morph": "compound (vṛtta-kuṇḍa-sama, n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction adding an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyad",
+     "gloss": "other",
+     "grounds": "pronoun/adjective indicating another type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaprakārataḥ",
+     "gloss": "in-other-manner",
+     "grounds": "ablative adverbial compound indicating another manner",
+     "morph": "compound (anya-prakāra, abl.sg as adverb)"
+    }
+   ],
+   "question": "What alternative forms may the altar take besides the previously described shape?",
+   "premises": [
+    "Another form may be equal to a round altar.",
+    "An alternative form may be made in another manner."
+   ],
+   "inference": "The altar's form admits alternatives, either round-like or otherwise configured.",
+   "uncertainties": [
+    "The exact referent of 'other' depends on the preceding description."
+   ],
+   "plain_english": "And another form may be like a round altar, or it may be made in some other manner."
+  },
+  {
+   "verse": 1227,
+   "rows": [
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "object denoting the elevation to be made",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions or features",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb indicating manner as stated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive (√kṛ)"
+    },
+    {
+     "surface": "karṇikā",
+     "gloss": "pericarp",
+     "grounds": "central raised part of the altar",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sārdhataḥ",
+     "gloss": "with-half",
+     "grounds": "adverbial expression indicating inclusion of a half measure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed result",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "How should the height and central pericarp be proportioned in the altar construction?",
+   "premises": [
+    "The height is to be made accordingly.",
+    "The pericarp should be made with an additional half measure."
+   ],
+   "inference": "After setting the height, the pericarp is constructed with a half-measure increment.",
+   "uncertainties": [
+    "The base unit for 'half' is not explicitly stated in this verse."
+   ],
+   "plain_english": "Having made the height thus, the pericarp should be made with an additional half."
+  },
+  {
+   "verse": 1228,
+   "rows": [
+    {
+     "surface": "kṣetrārdhadaśamaṃ",
+     "gloss": "tenth-of-half-field",
+     "grounds": "compound specifying a fractional measure of the field",
+     "morph": "compound (kṣetra-ardha-daśama, m.acc.sg)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "portion or division to be marked",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "catudikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "locative compound indicating all four directions",
+     "morph": "compound (catur-diś, loc.pl)"
+    },
+    {
+     "surface": "taduttare",
+     "gloss": "above-that",
+     "grounds": "locative phrase indicating position beyond or above that",
+     "morph": "compound (tad-uttara, loc.sg)"
+    }
+   ],
+   "question": "What fractional division must be marked in the four directions above the specified area?",
+   "premises": [
+    "A part equal to a tenth of half the field is specified.",
+    "This part is to be applied in the four directions above that."
+   ],
+   "inference": "The layout requires marking a tenth of half the field in all four directions above the given reference.",
+   "uncertainties": [
+    "The precise geometric reference of 'above that' is context-dependent."
+   ],
+   "plain_english": "A part equal to a tenth of half the field should be marked in the four directions above that."
+  },
+  {
+   "verse": 1229,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun referring to the previously mentioned figure",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "karṇapramāṇena",
+     "gloss": "by-diagonal-measure",
+     "grounds": "instrumental compound indicating measurement by the diagonal",
+     "morph": "compound (karṇa-pramāṇa, n.inst.sg)"
+    },
+    {
+     "surface": "tadbhujāṃścāpi",
+     "gloss": "and-also-its-sides",
+     "grounds": "compound with enclitics denoting its sides as well",
+     "morph": "compound (tad-bhuja, m.acc.pl) + ca + api"
+    },
+    {
+     "surface": "lāñchayet",
+     "gloss": "should-mark",
+     "grounds": "optative prescribing the act of marking",
+     "morph": "3.sg.optative-active (√lāñch)"
+    }
+   ],
+   "question": "By what measure should the sides of that figure be marked on the altar?",
+   "premises": [
+    "The diagonal measure of that figure is the standard.",
+    "Its sides are also to be marked accordingly."
+   ],
+   "inference": "The sides should be marked using the figure's diagonal as the measure.",
+   "uncertainties": [
+    "Whether 'karṇa' means diagonal or ear/corner depends on geometric context."
+   ],
+   "plain_english": "One should mark its sides also by the measure of its diagonal."
+  },
+  {
+   "verse": 1230,
+   "rows": [
+    {
+     "surface": "vistārasadṛśaḥ",
+     "gloss": "equal-to-width",
+     "grounds": "compound adjective indicating equality with the width",
+     "morph": "compound (vistāra-sadṛśa, m.nom.sg)"
+    },
+    {
+     "surface": "khāto",
+     "gloss": "excavation",
+     "grounds": "dug hollow or trench of the altar",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mekhalāśeṣa",
+     "gloss": "remainder-for-girdles",
+     "grounds": "compound indicating the remaining space for girdles",
+     "morph": "compound (mekhalā-śeṣa, m.nom.sg)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the excavation depth relate to the width and the space for girdles?",
+   "premises": [
+    "The excavation may be equal to the width.",
+    "Alternatively, it may be just the remainder for the girdles."
+   ],
+   "inference": "The excavation is prescribed either as equal to the width or as the space left for girdles.",
+   "uncertainties": [
+    "The exact construction of 'mekhalāśeṣa' as a measure is somewhat compressed."
+   ],
+   "plain_english": "The excavation should be equal to the width, or else just the remainder for the girdles."
+  },
+  {
+   "verse": 1231,
+   "rows": [
+    {
+     "surface": "kaṇṭhamānam",
+     "gloss": "neck-measure",
+     "grounds": "compound denoting the measure of the neck",
+     "morph": "compound (kaṇṭha-māna, n.nom.sg)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the stated measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating what has been taught",
+     "morph": "n.nom.sg past-passive-participle (pra-√vac)"
+    },
+    {
+     "surface": "mekhalāṃ",
+     "gloss": "girdle",
+     "grounds": "object of hearing, the altar girdle",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śṛṇuta",
+     "gloss": "hear",
+     "grounds": "imperative addressing the listeners",
+     "morph": "2.pl.imperative-active (√śru)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "vocative addressing the initiated listeners",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "What instruction follows after declaring the measure of the altar's neck?",
+   "premises": [
+    "The measure of the neck has been declared.",
+    "The twice-born are instructed to hear about the girdle."
+   ],
+   "inference": "After stating the neck measure, the teaching turns to the girdle.",
+   "uncertainties": [],
+   "plain_english": "This measure of the neck has been declared; now hear about the girdle, O twice-born ones."
+  },
+  {
+   "verse": 1232,
+   "rows": [
+    {
+     "surface": "mekhalādvitayaṃ",
+     "gloss": "pair-of-girdles",
+     "grounds": "compound indicating two girdles",
+     "morph": "compound (mekhalā-dvitaya, n.nom.sg)"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg gerundive (√kṛ)"
+    },
+    {
+     "surface": "aṅgulārdhāṅgulakramāt",
+     "gloss": "by-finger-half-finger-sequence",
+     "grounds": "ablative compound indicating sequential measures in fingers and half-fingers",
+     "morph": "compound (aṅgula-ardha-aṅgula-krama, abl.sg)"
+    }
+   ],
+   "question": "What sequence of measures governs the construction of the first pair of girdles?",
+   "premises": [
+    "A pair of girdles is to be made.",
+    "Their measures follow a sequence of a finger and a half-finger."
+   ],
+   "inference": "The two girdles are constructed in a sequence of one finger and half a finger.",
+   "uncertainties": [
+    "The order of application of finger and half-finger to each girdle is not explicit."
+   ],
+   "plain_english": "A pair of girdles should be made in the sequence of a finger and a half-finger."
+  },
+  {
+   "verse": 1233,
+   "rows": [
+    {
+     "surface": "anyanemidvayaṃ",
+     "gloss": "another-pair-of-rims",
+     "grounds": "compound indicating a different pair of rims or girdles",
+     "morph": "compound (anya-nemi-dvitaya, n.nom.sg)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "demonstrative pronoun referring to the altar or prior set",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "tṛtīyārdhāṅgulā",
+     "gloss": "third-half-finger",
+     "grounds": "compound describing the measure as a third of a half-finger or related fraction",
+     "morph": "compound (tṛtīya-ardha-aṅgula, f.nom.sg)"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle indicating accepted measure",
+     "morph": "f.nom.sg past-passive-participle (√man)"
+    }
+   ],
+   "question": "What measure is prescribed for another pair of rims in the altar design?",
+   "premises": [
+    "Another pair of rims is specified for it.",
+    "That pair is considered to measure a third of a half-finger."
+   ],
+   "inference": "The additional pair of rims is assigned a measure of a third of a half-finger.",
+   "uncertainties": [
+    "The compound 'tṛtīyārdhāṅgulā' is metrically compressed and its exact fractional parsing is uncertain."
+   ],
+   "plain_english": "Another pair of rims for it is considered to be a third of a half-finger."
+  },
+  {
+   "verse": 1234,
+   "rows": [
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg gerundive (√kṛ)"
+    },
+    {
+     "surface": "mekhalā",
+     "gloss": "girdle",
+     "grounds": "the altar girdle to be constructed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cānyā",
+     "gloss": "and-another",
+     "grounds": "conjunction with adjective indicating another girdle",
+     "morph": "ca + f.nom.sg"
+    },
+    {
+     "surface": "tridvyaṅgulakramāt",
+     "gloss": "by-three-two-finger-sequence",
+     "grounds": "ablative compound indicating a sequence of three and two fingers",
+     "morph": "compound (tri-dvi-aṅgula-krama, abl.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation of the same method",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What finger sequence is prescribed for making another girdle in this series?",
+   "premises": [
+    "Another girdle is to be made.",
+    "It follows a sequence of three and two fingers."
+   ],
+   "inference": "This girdle is constructed according to a three-finger and two-finger sequence.",
+   "uncertainties": [
+    "Whether the sequence applies to successive girdles or dimensions is not fully explicit."
+   ],
+   "plain_english": "And another girdle should likewise be made in the sequence of three and two fingers."
+  },
+  {
+   "verse": 1235,
+   "rows": [
+    {
+     "surface": "anyāṅgulacatuṣkā",
+     "gloss": "another-four-fingers",
+     "grounds": "compound indicating a measure of four fingers for another element",
+     "morph": "compound (anya-aṅgula-catuṣka, f.nom.sg)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed measure",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "ordinal indicating the third in the series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvaṅgulaistribhiḥ",
+     "gloss": "but-with-three-fingers",
+     "grounds": "particle with instrumental indicating three fingers",
+     "morph": "tu + aṅgula (m.inst.pl) + tri (inst.pl)"
+    }
+   ],
+   "question": "What measurements distinguish the next and third girdles in the stated sequence?",
+   "premises": [
+    "Another element should measure four fingers.",
+    "The third should measure three fingers."
+   ],
+   "inference": "The sequence assigns four fingers to one girdle and three fingers to the third.",
+   "uncertainties": [
+    "The referent of 'another' versus 'third' depends on the preceding series."
+   ],
+   "plain_english": "Another should be four fingers, and the third should be three fingers."
+  },
+  {
+   "verse": 1236,
+   "rows": [
+    {
+     "surface": "ṣaḍbhiranyāṅgulaiḥ",
+     "gloss": "with-six-other-fingers",
+     "grounds": "instrumental phrase specifying six fingers for another element",
+     "morph": "ṣaṣ (inst.pl) + compound (anya-aṅgula, m.inst.pl)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg gerundive (√kṛ)"
+    },
+    {
+     "surface": "caturbhiraparāṅgulaiḥ",
+     "gloss": "with-four-other-fingers",
+     "grounds": "instrumental phrase specifying four fingers for another element",
+     "morph": "catur (inst.pl) + compound (apara-aṅgula, m.inst.pl)"
+    }
+   ],
+   "question": "What finger measures are assigned to the next two girdles in this construction sequence?",
+   "premises": [
+    "One girdle is to be made with six fingers.",
+    "Another is to be made with four fingers."
+   ],
+   "inference": "The prescribed measures for these two girdles are six fingers and four fingers respectively.",
+   "uncertainties": [],
+   "plain_english": "One should be made with six fingers, and another with four fingers."
+  },
+  {
+   "verse": 1237,
+   "rows": [
+    {
+     "surface": "aṅgulairaṣṭabhiścānyā",
+     "gloss": "and-another-with-eight-fingers",
+     "grounds": "instrumental phrase with conjunction indicating another of eight fingers",
+     "morph": "aṅgula (m.inst.pl) + aṣṭan (inst.pl) + ca + f.nom.sg"
+    },
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "ordinal indicating the third in this set",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍbhiraṅgulaiḥ",
+     "gloss": "with-six-fingers",
+     "grounds": "instrumental phrase specifying six fingers",
+     "morph": "ṣaṣ (inst.pl) + aṅgula (m.inst.pl)"
+    }
+   ],
+   "question": "What measures are specified for another girdle and the third in this set?",
+   "premises": [
+    "Another girdle is made with eight fingers.",
+    "The third in this set is made with six fingers."
+   ],
+   "inference": "This set prescribes eight fingers for one girdle and six for the third.",
+   "uncertainties": [
+    "The grouping of 'third' relative to previous verses is context-dependent."
+   ],
+   "plain_english": "Another should be made with eight fingers, and the third with six fingers."
+  },
+  {
+   "verse": 1238,
+   "rows": [
+    {
+     "surface": "daśāṅgulā",
+     "gloss": "ten-fingers",
+     "grounds": "compound indicating a measure of ten fingers",
+     "morph": "compound (daśa-aṅgula, f.nom.sg)"
+    },
+    {
+     "surface": "dvitīyā",
+     "gloss": "second",
+     "grounds": "ordinal indicating the second in the series",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyāṣṭāṅgulā",
+     "gloss": "third-eight-fingers",
+     "grounds": "compound indicating the third as eight fingers",
+     "morph": "compound (tṛtīya-aṣṭa-aṅgula, f.nom.sg)"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "past participle indicating accepted measure",
+     "morph": "f.nom.sg past-passive-participle (√man)"
+    }
+   ],
+   "question": "What finger measures are considered correct for the second and third girdles here?",
+   "premises": [
+    "The second is ten fingers.",
+    "The third is considered to be eight fingers."
+   ],
+   "inference": "The accepted measures for this pair are ten fingers and eight fingers.",
+   "uncertainties": [],
+   "plain_english": "The second is ten fingers, but the third is considered to be eight fingers."
+  },
+  {
+   "verse": 1239,
+   "rows": [
+    {
+     "surface": "athavānyaprakāreṇa",
+     "gloss": "or-by-other-method",
+     "grounds": "compound adverbial phrase introducing an alternative method",
+     "morph": "compound (athavā-anya-prakāra, inst.sg)"
+    },
+    {
+     "surface": "mekhalāmānam",
+     "gloss": "girdle-measure",
+     "grounds": "compound denoting the measurement of girdles",
+     "morph": "compound (mekhalā-māna, n.nom.sg)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "present passive indicating what is being taught",
+     "morph": "3.sg.present-passive (√vac)"
+    }
+   ],
+   "question": "How is an alternative method for determining girdle measurements introduced?",
+   "premises": [
+    "An alternative method is possible.",
+    "The measure of the girdles is stated by that other method."
+   ],
+   "inference": "The text introduces another procedure for specifying girdle measurements.",
+   "uncertainties": [],
+   "plain_english": "Or, the measure of the girdles is stated by another method."
+  },
+  {
+   "verse": 1240,
+   "rows": [
+    {
+     "surface": "tadekabhāgamātraṃ",
+     "gloss": "only-one-part-of-that",
+     "grounds": "compound indicating a single part as the base measure",
+     "morph": "compound (tad-eka-bhāga-mātra, n.nom.sg)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed base",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental pronoun referring to the base part",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "dvitricaturguṇaiḥ",
+     "gloss": "by-two-three-four-multiples",
+     "grounds": "compound instrumental indicating multiplication by two, three, and four",
+     "morph": "compound (dvi-tri-catur-guṇa, m/n.inst.pl)"
+    }
+   ],
+   "question": "What base unit and multipliers determine the alternative girdle measurements?",
+   "premises": [
+    "A single part of that serves as the base measure.",
+    "That base is multiplied by two, three, and four."
+   ],
+   "inference": "The alternative girdle measures are derived by taking one part and multiplying it by two, three, and four.",
+   "uncertainties": [
+    "The referent of 'that' as the source of the one part is implied by context."
+   ],
+   "plain_english": "There should be just one part of that as the base, and by that, multiplied by two, three, and four."
+  },
+  {
+   "verse": 1241,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgulaviśāloccā",
+     "gloss": "six-finger-broad-high",
+     "grounds": "compound describing breadth and height as six fingers",
+     "morph": "compound (ṣaḍ-aṅgula-viśāla-ucca, f.nom.sg)"
+    },
+    {
+     "surface": "mekhalaikā",
+     "gloss": "one-girdle",
+     "grounds": "compound indicating a single girdle",
+     "morph": "compound (mekhalā-ekā, f.nom.sg)"
+    },
+    {
+     "surface": "bhavedyadi",
+     "gloss": "if-should-be",
+     "grounds": "optative with conditional particle",
+     "morph": "3.sg.optative-active (√bhū) + yadi"
+    }
+   ],
+   "question": "What condition is stated for a girdle measuring six fingers in breadth and height?",
+   "premises": [
+    "A single girdle may be six fingers broad and high.",
+    "This is presented as a conditional case."
+   ],
+   "inference": "If one girdle is made, it may measure six fingers in both breadth and height.",
+   "uncertainties": [],
+   "plain_english": "If one girdle is made, it should be six fingers broad and high."
+  },
+  {
+   "verse": 1242,
+   "rows": [
+    {
+     "surface": "mekhalāmadhyagā",
+     "gloss": "situated-in-middle-of-girdle",
+     "grounds": "compound describing location in the middle of the girdle",
+     "morph": "compound (mekhalā-madhya-ga, f.nom.sg)"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "outlet",
+     "grounds": "the yoni-shaped channel of the altar",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvyaṅgulocchrāyasaṃyutā",
+     "gloss": "joined-with-two-finger-height",
+     "grounds": "compound indicating a height of two fingers",
+     "morph": "compound (dvi-aṅgula-ucchrāya-saṃyuta, f.nom.sg)"
+    }
+   ],
+   "question": "Where is the altar outlet placed and what height is prescribed for it?",
+   "premises": [
+    "The outlet is situated in the middle of the girdle.",
+    "It is joined with a height of two fingers."
+   ],
+   "inference": "The outlet is placed at the girdle's middle and made two fingers high.",
+   "uncertainties": [],
+   "plain_english": "The outlet, situated in the middle of the girdle, should have a height of two fingers."
+  },
+  {
+   "verse": 1243,
+   "rows": [
+    {
+     "surface": "dvihastādiṣu",
+     "gloss": "in-two-cubits-and-others",
+     "grounds": "locative compound indicating altars of two cubits and so on",
+     "morph": "compound (dvi-hasta-ādi, loc.pl)"
+    },
+    {
+     "surface": "kuṇḍeṣu",
+     "gloss": "in-altars",
+     "grounds": "locative plural referring to fire altars",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "vistāre",
+     "gloss": "in-width",
+     "grounds": "locative indicating the dimension of width",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvyaṅgulādhikā",
+     "gloss": "increased-by-two-fingers",
+     "grounds": "compound indicating an addition of two fingers",
+     "morph": "compound (dvi-aṅgula-adhika, f.nom.sg)"
+    }
+   ],
+   "question": "How much additional width is required for the outlet in altars of two cubits and larger?",
+   "premises": [
+    "The rule applies to altars of two cubits and so on.",
+    "In width, an increase of two fingers is prescribed."
+   ],
+   "inference": "For altars of two cubits or more, the outlet's width is increased by two fingers.",
+   "uncertainties": [],
+   "plain_english": "In altars of two cubits and so on, the width should be increased by two fingers."
+  },
+  {
+   "verse": 1244,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the outlet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoniḥ",
+     "gloss": "outlet",
+     "grounds": "the yoni-shaped channel",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvakuṇḍānāṃ",
+     "gloss": "of-all-altars",
+     "grounds": "genitive compound indicating applicability to all altars",
+     "morph": "compound (sarva-kuṇḍa, n.gen.pl)"
+    },
+    {
+     "surface": "svārdhamānena",
+     "gloss": "by-its-own-half-measure",
+     "grounds": "instrumental compound indicating construction by half its own measure",
+     "morph": "compound (sva-ardha-māna, n.inst.sg)"
+    },
+    {
+     "surface": "nirmitā",
+     "gloss": "constructed",
+     "grounds": "past participle indicating how it is made",
+     "morph": "f.nom.sg past-passive-participle (nis-√mā)"
+    }
+   ],
+   "question": "By what proportional measure is the outlet constructed for all types of altars?",
+   "premises": [
+    "The outlet applies to all altars.",
+    "It is constructed by its own half-measure."
+   ],
+   "inference": "For every altar, the outlet is made using half of its own measure.",
+   "uncertainties": [
+    "The specific dimension taken as 'its own measure' is implied by prior rules."
+   ],
+   "plain_english": "That outlet, for all altars, is constructed by its own half-measure."
+  },
+  {
+   "verse": 1245,
+   "rows": [
+    {
+     "surface": "praṇālena",
+     "gloss": "with-channel",
+     "grounds": "instrumental indicating accompaniment by a drainage channel",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "samāyuktā",
+     "gloss": "joined",
+     "grounds": "past participle indicating connection",
+     "morph": "f.nom.sg past-passive-participle (sam-ā-√yuj)"
+    },
+    {
+     "surface": "kuṇḍamānayutena",
+     "gloss": "endowed-with-altar-measure",
+     "grounds": "instrumental compound indicating the channel has the altar's measure",
+     "morph": "compound (kuṇḍa-māna-yuta, m/n.inst.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional feature must be joined to the outlet and by what measure?",
+   "premises": [
+    "The outlet is joined with a channel.",
+    "That channel is endowed with the measure of the altar."
+   ],
+   "inference": "A drainage channel matching the altar's measure must be attached to the outlet.",
+   "uncertainties": [],
+   "plain_english": "It should be joined with a channel that is proportioned according to the measure of the altar."
+  },
+  {
+   "verse": 1246,
+   "rows": [
+    {
+     "surface": "nābhiḥ",
+     "gloss": "navel",
+     "grounds": "central navel-like feature of the altar",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed construction",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "kuṇḍamadhye",
+     "gloss": "in-middle-of-altar",
+     "grounds": "locative compound indicating the altar's center",
+     "morph": "compound (kuṇḍa-madhya, loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svārdhamānena",
+     "gloss": "by-its-own-half-measure",
+     "grounds": "instrumental compound indicating construction by half its own measure",
+     "morph": "compound (sva-ardha-māna, n.inst.sg)"
+    },
+    {
+     "surface": "nirmitā",
+     "gloss": "constructed",
+     "grounds": "past participle indicating how it is made",
+     "morph": "f.nom.sg past-passive-participle (nis-√mā)"
+    }
+   ],
+   "question": "Where should the altar's navel be placed and by what measure should it be made?",
+   "premises": [
+    "The navel should be in the middle of the altar.",
+    "It is constructed by its own half-measure."
+   ],
+   "inference": "A navel is made at the altar's center using half of its own measure.",
+   "uncertainties": [],
+   "plain_english": "In the middle of the altar there should be a navel, constructed by its own half-measure."
+  },
+  {
+   "verse": 1247,
+   "rows": [
+    {
+     "surface": "ekāśītipadā",
+     "gloss": "eighty-one-squares",
+     "grounds": "compound indicating a grid of eighty-one divisions",
+     "morph": "compound (ekāśīti-pada, f.nom.sg)"
+    },
+    {
+     "surface": "vedī",
+     "gloss": "platform",
+     "grounds": "the altar platform or vedī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maṇḍapena",
+     "gloss": "with-pavilion",
+     "grounds": "instrumental indicating relation to the pavilion",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "bahirbhavet",
+     "gloss": "should-be-outside",
+     "grounds": "optative with adverb indicating external placement",
+     "morph": "bahis + 3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What grid division and placement are prescribed for the platform outside the pavilion?",
+   "premises": [
+    "The platform should have eighty-one squares.",
+    "It should be located outside the pavilion."
+   ],
+   "inference": "An eighty-one-square platform is to be made outside the pavilion.",
+   "uncertainties": [
+    "The exact spatial relation to the pavilion may depend on ritual context."
+   ],
+   "plain_english": "The platform should consist of eighty-one squares and be placed outside the pavilion."
+  },
+  {
+   "verse": 1248,
+   "rows": [
+    {
+     "surface": "caturdhā",
+     "gloss": "fourfold",
+     "grounds": "adverb indicating division into four parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedikāṃ",
+     "gloss": "platform",
+     "grounds": "the altar platform to be divided",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-divided",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive (√kṛ)"
+    },
+    {
+     "surface": "vedikā",
+     "gloss": "platform",
+     "grounds": "the platform placed in the middle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍamadhyame",
+     "gloss": "in-middle-of-altar",
+     "grounds": "locative compound indicating the altar's center",
+     "morph": "compound (kuṇḍa-madhyama, loc.sg)"
+    }
+   ],
+   "question": "How should the platform be divided and placed in relation to the altar's center?",
+   "premises": [
+    "The platform is to be divided fourfold.",
+    "A platform is placed in the middle of the altar."
+   ],
+   "inference": "After dividing the platform into four parts, it is situated in the altar's middle.",
+   "uncertainties": [
+    "The repetition of 'vedikā' may indicate a specific sub-platform; interpretation is slightly compressed."
+   ],
+   "plain_english": "Having divided the platform fourfold, the platform is placed in the middle of the altar."
+  },
+  {
+   "verse": 1249,
+   "rows": [
+    {
+     "surface": "pradhānavāyusomeśakuṇḍeṣu",
+     "gloss": "in-main-air-moon-lord-altars",
+     "grounds": "locative compound listing specific altar types or directions",
+     "morph": "compound (pradhāna-vāyu-soma-īśa-kuṇḍa, loc.pl)"
+    },
+    {
+     "surface": "prāṅmukho",
+     "gloss": "facing-east",
+     "grounds": "compound adjective indicating eastward orientation",
+     "morph": "compound (prāñc-mukha, m.nom.sg)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle indicating manner or accordance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What orientation is prescribed for the specified principal, air, moon, and lord altars?",
+   "premises": [
+    "The instruction concerns the principal, Vāyu, Soma, and Īśa altars.",
+    "An east-facing orientation is indicated."
+   ],
+   "inference": "These specified altars are to be oriented facing east.",
+   "uncertainties": [
+    "The verse is syntactically incomplete and likely continues into the next verse."
+   ],
+   "plain_english": "In the principal, Vāyu, Soma, and Īśa altars, facing east, as..."
+  }
+ ]
+}

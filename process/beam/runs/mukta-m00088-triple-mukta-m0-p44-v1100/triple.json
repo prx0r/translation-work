@@ -1,0 +1,48 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "ekam-aṅgaṃ",
+     "gloss": "one-limb",
+     "grounds": "hyphenated compound/adjective-noun phrase; neuter accusative singular limb",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "vihīyeta",
+     "gloss": "if-omitted",
+     "grounds": "passive optative form indicating possible omission",
+     "morph": "3.sg.pass.opt"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the sentence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "duṣṭatvaṃ",
+     "gloss": "impurity",
+     "grounds": "abstract quality taken as object of obtains",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "optative verb expressing the resulting condition",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What happens to a mantra if one of its limbs is omitted?",
+   "premises": [
+    "one limb is omitted",
+    "the mantra obtains impurity"
+   ],
+   "inference": "Omitting one limb makes the mantra impure.",
+   "uncertainties": [],
+   "plain_english": "If one limb is omitted, the mantra becomes impure."
+  }
+ ]
+}

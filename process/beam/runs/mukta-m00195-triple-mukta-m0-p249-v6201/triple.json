@@ -1,0 +1,893 @@
+{
+ "song": "mukta-m0-p249",
+ "items": [
+  {
+   "verse": 6201,
+   "rows": [
+    {
+     "surface": "svādhiṣṭhāne",
+     "gloss": "in-svadhisthana",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūlādhāre",
+     "gloss": "in-muladhara",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tadagrimān",
+     "gloss": "those-preceding",
+     "grounds": "elements placed earlier in sequence",
+     "morph": "pron+adj.acc.pl.m"
+    }
+   ],
+   "question": "Where must the preceding elements be placed within svādhiṣṭhāna and mūlādhāra?",
+   "premises": [
+    "The ritual sequence includes preceding elements.",
+    "svādhiṣṭhāna and mūlādhāra are specified locations.",
+    "Those preceding elements are assigned to these locations."
+   ],
+   "inference": "The preceding elements are to be placed in svādhiṣṭhāna and mūlādhāra.",
+   "uncertainties": [
+    "The exact identity of tadagrimān depends on prior context."
+   ],
+   "plain_english": "Place the preceding elements in the svādhiṣṭhāna and mūlādhāra."
+  },
+  {
+   "verse": 6202,
+   "rows": [
+    {
+     "surface": "pādayoḥ",
+     "gloss": "on-both-feet",
+     "grounds": "location for placement",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "glau",
+     "gloss": "glau",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location for placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or further instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratyaṅgaṃ",
+     "gloss": "on-each-limb",
+     "grounds": "distribution across body parts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījameva",
+     "gloss": "seed-indeed",
+     "grounds": "emphasizes the bīja itself; eva fused",
+     "morph": "n.nom.sg+indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects instructions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the bīja glau be placed on the feet, heart, and each limb?",
+   "premises": [
+    "The bīja glau is specified for placement.",
+    "The feet, heart, and each limb are named locations.",
+    "The instruction emphasizes placing the seed itself."
+   ],
+   "inference": "The bīja glau should be placed on both feet, in the heart, and again on each limb.",
+   "uncertainties": [],
+   "plain_english": "Place the bīja glau on both feet, in the heart, and again on each limb."
+  },
+  {
+   "verse": 6203,
+   "rows": [
+    {
+     "surface": "nyāsavidhiṃ",
+     "gloss": "placement-procedure",
+     "grounds": "ritual act of nyāsa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completing the prior action",
+     "morph": "(gerund), root kṛ"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of visualization",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "object of visualization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-visualize",
+     "grounds": "prescriptive meditation instruction",
+     "morph": "3.sg.optative-active, root cint"
+    }
+   ],
+   "question": "What must be done in the heart after completing the placement procedure?",
+   "premises": [
+    "The placement procedure is to be completed.",
+    "The heart is the specified locus.",
+    "The deity is the object of contemplation."
+   ],
+   "inference": "After performing the placement procedure, one should visualize the deity in the heart.",
+   "uncertainties": [],
+   "plain_english": "After performing the placement procedure, one should visualize the deity in the heart."
+  },
+  {
+   "verse": 6204,
+   "rows": [
+    {
+     "surface": "tattaraṅgalasattoyaiḥ",
+     "gloss": "by-those-wave-shining-waters",
+     "grounds": "instrumental description of purifying waters",
+     "morph": "compound: tat-taraṅga-lasat-toya, n.inst.pl"
+    },
+    {
+     "surface": "dhaute",
+     "gloss": "washed",
+     "grounds": "describes the ground as cleansed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śīte",
+     "gloss": "cool",
+     "grounds": "quality of the ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahītale",
+     "gloss": "on-great-ground",
+     "grounds": "location of visualization",
+     "morph": "compound: mahī-tala, n.loc.sg"
+    }
+   ],
+   "question": "What qualities characterize the great ground washed by those shining wave waters?",
+   "premises": [
+    "The great ground is washed by shining wave waters.",
+    "The ground is described as cool.",
+    "These qualities set the visualized setting."
+   ],
+   "inference": "The visualization is set on a cool great ground washed by those shining, wave-filled waters.",
+   "uncertainties": [
+    "The referent of tat in tattaraṅga is context-dependent."
+   ],
+   "plain_english": "Visualize a cool, great ground washed by those shining, wave-filled waters."
+  },
+  {
+   "verse": 6205,
+   "rows": [
+    {
+     "surface": "patadbhiḥ",
+     "gloss": "by-falling",
+     "grounds": "describes waters or streams falling",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "samalaṅkṛte",
+     "gloss": "well-adorned",
+     "grounds": "describes the ground as beautified",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the visualized ground further adorned by falling elements?",
+   "premises": [
+    "Falling elements are present in the scene.",
+    "The ground is described as well adorned.",
+    "The adornment results from these falling elements."
+   ],
+   "inference": "The ground is well adorned by falling waters or streams.",
+   "uncertainties": [
+    "The exact falling elements are implied from the previous verse."
+   ],
+   "plain_english": "The ground is beautifully adorned by falling streams."
+  },
+  {
+   "verse": 6206,
+   "rows": [
+    {
+     "surface": "anekaphalasaṅkīrṇe",
+     "gloss": "with-many-fruits-filled",
+     "grounds": "describes abundance on the ground",
+     "morph": "compound: aneka-phala-saṅkīrṇa, n.loc.sg"
+    },
+    {
+     "surface": "sevite",
+     "gloss": "attended",
+     "grounds": "describes presence of attendants",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another quality",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apsarogaṇaiḥ",
+     "gloss": "by-apsaras-groups",
+     "grounds": "celestial attendants in the scene",
+     "morph": "compound: apsaras-gaṇa, m.inst.pl"
+    }
+   ],
+   "question": "What abundance and attendants further characterize the visualized ground?",
+   "premises": [
+    "The ground is filled with many fruits.",
+    "Groups of apsaras attend the place.",
+    "Both qualities enrich the visualized setting."
+   ],
+   "inference": "The ground is filled with many fruits and attended by groups of apsaras.",
+   "uncertainties": [],
+   "plain_english": "The ground is filled with many fruits and attended by groups of apsaras."
+  },
+  {
+   "verse": 6207,
+   "rows": [
+    {
+     "surface": "vilasatpadmarāgaughakuṭṭimāruṇabhūtale",
+     "gloss": "on-shining-ruby-mass-pavement-reddened-ground",
+     "grounds": "describes a ground reddened by shining ruby pavement",
+     "morph": "compound: vilasat-padmarāga-ogha-kuṭṭima-aruṇa-bhūtala, n.loc.sg"
+    }
+   ],
+   "question": "What radiant pavement reddens the ground in this visualization?",
+   "premises": [
+    "The ground is described as reddened.",
+    "The redness comes from a pavement of shining rubies.",
+    "This forms part of the visualized setting."
+   ],
+   "inference": "The visualization includes a ground reddened by a pavement of shining ruby masses.",
+   "uncertainties": [],
+   "plain_english": "Visualize a ground reddened by a pavement of shining rubies."
+  },
+  {
+   "verse": 6208,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers back to the previously described setting",
+     "morph": "pron.gen.sg.n"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "below",
+     "grounds": "spatial relation within the visualization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siṃhāsanaṃ",
+     "gloss": "lion-throne",
+     "grounds": "seat to be visualized",
+     "morph": "compound: siṃha-āsana, n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescriptive visualization instruction",
+     "morph": "3.sg.optative-active, root smṛ"
+    }
+   ],
+   "question": "What seat should be remembered below that visualized setting?",
+   "premises": [
+    "A previously described setting is established.",
+    "A spatial position below it is indicated.",
+    "A lion-throne is the object to be remembered."
+   ],
+   "inference": "One should remember a lion-throne below that setting.",
+   "uncertainties": [],
+   "plain_english": "Below that place, one should visualize a lion-throne."
+  },
+  {
+   "verse": 6209,
+   "rows": [
+    {
+     "surface": "gaṇeśaṃ",
+     "gloss": "ganesha",
+     "grounds": "deity to be visualized",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects visualized figures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsaṃsthaṃ",
+     "gloss": "seated-on-that",
+     "grounds": "position relative to the throne",
+     "morph": "compound: tat-saṃstha, m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another figure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāgaṇam",
+     "gloss": "great-gana",
+     "grounds": "attendant figure or group leader",
+     "morph": "compound: mahā-gaṇa, m.acc.sg"
+    }
+   ],
+   "question": "Which figures seated on that throne must be visualized together?",
+   "premises": [
+    "A lion-throne has been established in the visualization.",
+    "Gaṇeśa is named as present.",
+    "A great gaṇa seated there is also named."
+   ],
+   "inference": "One should visualize Gaṇeśa and the great gaṇa seated on that throne.",
+   "uncertainties": [
+    "Whether mahāgaṇam refers to a single figure or a group is ambiguous."
+   ],
+   "plain_english": "Visualize Gaṇeśa and the great gaṇa seated on that throne."
+  },
+  {
+   "verse": 6210,
+   "rows": [
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "weapon held by the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bibhraṃtaṃ",
+     "gloss": "bearing",
+     "grounds": "describes the deity holding the trident",
+     "morph": "m.acc.sg.present-participle, root bhṛ"
+    },
+    {
+     "surface": "hastapaṅkajaiḥ",
+     "gloss": "with-hand-lotuses",
+     "grounds": "hands likened to lotuses",
+     "morph": "compound: hasta-paṅkaja, n.inst.pl"
+    }
+   ],
+   "question": "What weapon is borne by the deity with lotus-like hands?",
+   "premises": [
+    "The deity is described as bearing an object.",
+    "The trident is specified.",
+    "The bearing is done with lotus-like hands."
+   ],
+   "inference": "The deity bears a trident with lotus-like hands.",
+   "uncertainties": [],
+   "plain_english": "Visualize him bearing a trident in his lotus-like hands."
+  },
+  {
+   "verse": 6211,
+   "rows": [
+    {
+     "surface": "ardhendumauliṃ",
+     "gloss": "half-moon-crested",
+     "grounds": "describes the deity's head ornament",
+     "morph": "compound: ardha-indu-mauli, m.acc.sg"
+    },
+    {
+     "surface": "tryakṣaṃ",
+     "gloss": "three-eyed",
+     "grounds": "describes the deity's form",
+     "morph": "compound: tri-akṣa, m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpyamānaṃ",
+     "gloss": "shining",
+     "grounds": "describes radiant appearance",
+     "morph": "m.acc.sg.present-participle-middle, root dīp"
+    },
+    {
+     "surface": "kṛpākaram",
+     "gloss": "compassion-mine",
+     "grounds": "describes the deity as a source of compassion",
+     "morph": "compound: kṛpā-ākara, m.acc.sg"
+    }
+   ],
+   "question": "What divine attributes characterize the shining deity in this visualization?",
+   "premises": [
+    "The deity is crested with a half-moon.",
+    "The deity is three-eyed and shining.",
+    "The deity is a mine of compassion."
+   ],
+   "inference": "The deity is visualized as half-moon-crested, three-eyed, shining, and full of compassion.",
+   "uncertainties": [],
+   "plain_english": "Visualize him as half-moon-crested, three-eyed, shining, and a mine of compassion."
+  },
+  {
+   "verse": 6212,
+   "rows": [
+    {
+     "surface": "maṇimuktāpravālādīn",
+     "gloss": "gems-pearls-corals-etc",
+     "grounds": "precious substances being showered",
+     "morph": "compound: maṇi-muktā-pravāla-ādi, m.acc.pl"
+    },
+    {
+     "surface": "varṣantaṃ",
+     "gloss": "showering",
+     "grounds": "describes the deity's action",
+     "morph": "m.acc.sg.present-participle, root vṛṣ"
+    },
+    {
+     "surface": "dhārayā",
+     "gloss": "in-stream",
+     "grounds": "manner of showering",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "muhuḥ",
+     "gloss": "again-and-again",
+     "grounds": "repeated action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What precious substances does the deity shower repeatedly in a stream?",
+   "premises": [
+    "The deity performs a showering action.",
+    "Gems, pearls, corals, and others are the objects.",
+    "The showering occurs repeatedly in a stream."
+   ],
+   "inference": "The deity repeatedly showers gems, pearls, corals, and other treasures in a stream.",
+   "uncertainties": [],
+   "plain_english": "Visualize him repeatedly showering gems, pearls, corals, and other treasures in a stream."
+  },
+  {
+   "verse": 6213,
+   "rows": [
+    {
+     "surface": "karṇatālaiḥ",
+     "gloss": "with-ear-claps",
+     "grounds": "gestures or sounds used to ward off",
+     "morph": "compound: karṇa-tāla, m.inst.pl"
+    },
+    {
+     "surface": "vārayantaṃ",
+     "gloss": "warding-off",
+     "grounds": "describes protective action",
+     "morph": "m.acc.sg.present-participle-causative, root vṛ"
+    },
+    {
+     "surface": "muhur+muhuḥ",
+     "gloss": "again-and-again",
+     "grounds": "repeated action; + marks internal boundary",
+     "morph": "(indecl.+indecl.)"
+    }
+   ],
+   "question": "How does the deity repeatedly ward off obstacles with ear-claps?",
+   "premises": [
+    "The deity performs a warding-off action.",
+    "Ear-claps are the means employed.",
+    "The action is repeated again and again."
+   ],
+   "inference": "The deity repeatedly wards off obstacles with ear-claps.",
+   "uncertainties": [
+    "The specific obstacles being warded off are not named."
+   ],
+   "plain_english": "Visualize him repeatedly warding off obstacles with ear-claps."
+  },
+  {
+   "verse": 6214,
+   "rows": [
+    {
+     "surface": "nānābharaṇabhūṣitam",
+     "gloss": "with-various-ornaments-adorned",
+     "grounds": "describes the deity's adornment",
+     "morph": "compound: nānā-ābharaṇa-bhūṣita, m.acc.sg"
+    }
+   ],
+   "question": "What kind of adornment completes the deity's visualized appearance?",
+   "premises": [
+    "The deity's appearance is being described.",
+    "Various ornaments are mentioned.",
+    "These ornaments adorn the deity."
+   ],
+   "inference": "The deity is adorned with various ornaments.",
+   "uncertainties": [],
+   "plain_english": "Visualize him adorned with various ornaments."
+  },
+  {
+   "verse": 6215,
+   "rows": [
+    {
+     "surface": "pūrvokte",
+     "gloss": "in-aforementioned",
+     "grounds": "refers to a previously described location or structure",
+     "morph": "compound: pūrva-ukta, n.loc.sg"
+    },
+    {
+     "surface": "tīvrādinavaśaktike",
+     "gloss": "tivra-etc-nine-shakti",
+     "grounds": "refers to the nine śaktis beginning with Tīvrā",
+     "morph": "compound: tīvrā-ādi-nava-śakti, n.loc.sg"
+    }
+   ],
+   "question": "In which previously mentioned locus of the nine śaktis beginning with Tīvrā should worship proceed?",
+   "premises": [
+    "A previously mentioned locus is indicated.",
+    "The nine śaktis beginning with Tīvrā are specified.",
+    "This locus serves as the setting for further ritual action."
+   ],
+   "inference": "The ritual proceeds in the aforementioned locus associated with the nine śaktis beginning with Tīvrā.",
+   "uncertainties": [
+    "The exact structure referred to by pūrvokte depends on prior context."
+   ],
+   "plain_english": "In the aforementioned place of the nine śaktis beginning with Tīvrā..."
+  },
+  {
+   "verse": 6216,
+   "rows": [
+    {
+     "surface": "caturdvārasamāyuktaṃ",
+     "gloss": "with-four-doors-endowed",
+     "grounds": "describes a structure with four entrances",
+     "morph": "compound: catur-dvāra-samāyukta, n.acc.sg"
+    },
+    {
+     "surface": "caturasratrayāvṛtam",
+     "gloss": "with-square-three-enclosures",
+     "grounds": "describes a structure with three square enclosures",
+     "morph": "compound: caturasra-traya-āvṛta, n.acc.sg"
+    }
+   ],
+   "question": "What architectural features define the ritual structure to be used in worship?",
+   "premises": [
+    "The structure is endowed with four doors.",
+    "The structure is surrounded by three square enclosures.",
+    "These features define the ritual space."
+   ],
+   "inference": "The ritual structure has four doors and is surrounded by three square enclosures.",
+   "uncertainties": [],
+   "plain_english": "Use a structure with four doors and three square enclosures."
+  },
+  {
+   "verse": 6217,
+   "rows": [
+    {
+     "surface": "trikoṇāt",
+     "gloss": "from-triangle",
+     "grounds": "reference point for outward worship",
+     "morph": "compound: tri-koṇa, n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects spatial instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "direction relative to the triangle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "means of worship",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active, root yaj"
+    },
+    {
+     "surface": "surān",
+     "gloss": "gods",
+     "grounds": "objects of worship",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Where and with what means should the gods be worshipped relative to the triangle?",
+   "premises": [
+    "The triangle serves as a reference point.",
+    "The direction outside the triangle is specified.",
+    "Mantras are the means and gods are the objects of worship."
+   ],
+   "inference": "One should worship the gods with mantras outside the triangle.",
+   "uncertainties": [],
+   "plain_english": "Outside the triangle, one should worship the gods with mantras."
+  },
+  {
+   "verse": 6218,
+   "rows": [
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active, root yaj"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "refers to the deity to be worshipped",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects worship and meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescriptive meditation instruction",
+     "morph": "3.sg.optative-active, root dhyai"
+    },
+    {
+     "surface": "bilvatale",
+     "gloss": "at-bilva-root",
+     "grounds": "location of the deity in meditation",
+     "morph": "compound: bilva-tala, n.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "situated",
+     "grounds": "describes the deity's position",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the deity be worshipped and meditated upon at the root of the bilva tree?",
+   "premises": [
+    "The deity is the object of worship and meditation.",
+    "The root of the bilva tree is the specified location.",
+    "The deity is situated there."
+   ],
+   "inference": "One should worship and meditate on him as situated at the root of the bilva tree.",
+   "uncertainties": [],
+   "plain_english": "One should worship him and meditate on him as situated at the root of the bilva tree."
+  },
+  {
+   "verse": 6219,
+   "rows": [
+    {
+     "surface": "hrīṃgaurahirābhyāṃ",
+     "gloss": "with-hrim-gaurahi-ra",
+     "grounds": "mantra components; hrīṃ is a bīja syllable",
+     "morph": "compound: hrīṃ-gaurahi-rā, inst.du/instrumental sense"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects mantra description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdantaḥ",
+     "gloss": "ending-with-hrd",
+     "grounds": "indicates mantra ends with hṛd",
+     "morph": "compound: hṛd-anta, m.nom.sg"
+    },
+    {
+     "surface": "navavarṇakaḥ",
+     "gloss": "nine-syllabled",
+     "grounds": "specifies mantra length",
+     "morph": "compound: nava-varṇaka, m.nom.sg"
+    }
+   ],
+   "question": "What nine-syllabled mantra ending with hṛd is formed from hrīṃ and gaurahi-rā?",
+   "premises": [
+    "The components hrīṃ and gaurahi-rā are given.",
+    "The mantra ends with hṛd.",
+    "The mantra consists of nine syllables."
+   ],
+   "inference": "The mantra formed from hrīṃ and gaurahi-rā, ending with hṛd, is nine-syllabled.",
+   "uncertainties": [
+    "The exact syllabic parsing of gaurahirābhyāṃ requires mantra tradition knowledge."
+   ],
+   "plain_english": "The mantra formed with hrīṃ and gaurahi-rā, ending with hṛd, has nine syllables."
+  },
+  {
+   "verse": 6220,
+   "rows": [
+    {
+     "surface": "jaṭādhastāt",
+     "gloss": "below-matted-hair",
+     "grounds": "location in the visualized form",
+     "morph": "compound: jaṭā-adhastāt, (indecl.)"
+    },
+    {
+     "surface": "suvarṇarajataprabhau",
+     "gloss": "gold-silver-splendor",
+     "grounds": "describes radiance of two figures or aspects",
+     "morph": "compound: suvarṇa-rajata-prabhā, m.nom.du"
+    }
+   ],
+   "question": "What gold and silver splendors appear below the matted hair in the visualization?",
+   "premises": [
+    "A location below the matted hair is specified.",
+    "Two splendors, gold and silver, are described.",
+    "These appear in that location."
+   ],
+   "inference": "Below the matted hair appear two splendors, one of gold and one of silver.",
+   "uncertainties": [
+    "The exact referents bearing these splendors depend on adjacent verses."
+   ],
+   "plain_english": "Below the matted hair appear splendors of gold and silver."
+  },
+  {
+   "verse": 6221,
+   "rows": [
+    {
+     "surface": "ratikāmābhyāṃ",
+     "gloss": "with-rati-kama",
+     "grounds": "mantra components or associated names",
+     "morph": "compound: rati-kāma, inst.du"
+    },
+    {
+     "surface": "hṛdantaḥ",
+     "gloss": "ending-with-hrd",
+     "grounds": "indicates mantra ends with hṛd",
+     "morph": "compound: hṛd-anta, m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "points to the mantra being defined",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "navākṣaraḥ",
+     "gloss": "nine-syllabled",
+     "grounds": "specifies mantra length",
+     "morph": "compound: nava-akṣara, m.nom.sg"
+    }
+   ],
+   "question": "What nine-syllabled mantra ending with hṛd is associated with Rati and Kāma?",
+   "premises": [
+    "Rati and Kāma are named as components or associates.",
+    "The mantra ends with hṛd.",
+    "The mantra consists of nine syllables."
+   ],
+   "inference": "This mantra associated with Rati and Kāma, ending with hṛd, is nine-syllabled.",
+   "uncertainties": [
+    "The precise mantra construction requires tradition-specific knowledge."
+   ],
+   "plain_english": "This mantra associated with Rati and Kāma, ending with hṛd, has nine syllables."
+  },
+  {
+   "verse": 6222,
+   "rows": [
+    {
+     "surface": "nālayuktotpaladvandvacāpapuṣpeṣusaṃyutau",
+     "gloss": "with-stalked-blue-lotus-pair-bow-flower-arrows-joined",
+     "grounds": "describes figures holding lotus pair, bow, and flower arrows",
+     "morph": "compound: nāla-yukta-utpala-dvandva-cāpa-puṣpa-iṣu-saṃyuta, m.nom.du"
+    }
+   ],
+   "question": "What implements are held by the pair joined with stalked blue lotuses, bow, and flower arrows?",
+   "premises": [
+    "A pair of figures is described.",
+    "They are joined with a stalked blue-lotus pair.",
+    "They are also joined with a bow and flower arrows."
+   ],
+   "inference": "The pair is equipped with stalked blue lotuses, a bow, and flower arrows.",
+   "uncertainties": [
+    "The identity of the pair depends on the preceding verse."
+   ],
+   "plain_english": "They are equipped with a pair of stalked blue lotuses, a bow, and flower arrows."
+  },
+  {
+   "verse": 6223,
+   "rows": [
+    {
+     "surface": "priyaṅgoḥ",
+     "gloss": "of-priyangu",
+     "grounds": "location or reference point for worship",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "marks emphasis or transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahīkolau",
+     "gloss": "earth-boar",
+     "grounds": "deities or forms to be worshipped",
+     "morph": "compound: mahī-kola, m.acc.du"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active, root yaj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence in ritual procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which earth and boar forms should be worshipped in relation to Priyaṅgu?",
+   "premises": [
+    "Priyaṅgu is named as a reference point.",
+    "Earth and boar forms are specified as objects.",
+    "Worship is prescribed as the next step."
+   ],
+   "inference": "One should then worship the earth and boar forms in relation to Priyaṅgu.",
+   "uncertainties": [
+    "The exact ritual relation indicated by the genitive priyaṅgoḥ is context-dependent."
+   ],
+   "plain_english": "Then one should worship the earth and boar forms in relation to Priyaṅgu."
+  },
+  {
+   "verse": 6224,
+   "rows": [
+    {
+     "surface": "lakṣmīgaṇakābhyāṃ",
+     "gloss": "with-lakshmi-ganaka",
+     "grounds": "mantra components or associated names",
+     "morph": "compound: lakṣmī-gaṇaka, inst.du"
+    },
+    {
+     "surface": "hṛdantaḥ",
+     "gloss": "ending-with-hrd",
+     "grounds": "indicates mantra ends with hṛd",
+     "morph": "compound: hṛd-anta, m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "points to the mantra being defined",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "daśākṣaraḥ",
+     "gloss": "ten-syllabled",
+     "grounds": "specifies mantra length",
+     "morph": "compound: daśa-akṣara, m.nom.sg"
+    }
+   ],
+   "question": "What ten-syllabled mantra ending with hṛd is associated with Lakṣmī and Gaṇaka?",
+   "premises": [
+    "Lakṣmī and Gaṇaka are named as components or associates.",
+    "The mantra ends with hṛd.",
+    "The mantra consists of ten syllables."
+   ],
+   "inference": "This mantra associated with Lakṣmī and Gaṇaka, ending with hṛd, is ten-syllabled.",
+   "uncertainties": [
+    "The precise mantra construction requires tradition-specific knowledge."
+   ],
+   "plain_english": "This mantra associated with Lakṣmī and Gaṇaka, ending with hṛd, has ten syllables."
+  }
+ ]
+}

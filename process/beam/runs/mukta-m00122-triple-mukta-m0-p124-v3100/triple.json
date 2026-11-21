@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p124",
+ "items": [
+  {
+   "verse": 3100,
+   "rows": [
+    {
+     "surface": "cintayet",
+     "gloss": "should-meditate",
+     "grounds": "optative of root cint; action directed by practitioner",
+     "morph": "3.sg.act-opt (root cint)"
+    },
+    {
+     "surface": "sakalāḥ",
+     "gloss": "all",
+     "grounds": "feminine plural nominative agreeing with prior fierce forms",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "sarvvakṣudrakarmmasu",
+     "gloss": "all-petty-actions",
+     "grounds": "locative plural neuter; site of meditation",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative singular masculine agent",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What should the practitioner meditate upon in all petty actions?",
+   "premises": [
+    "practitioner meditates on all",
+    "meditation occurs in petty actions",
+    "all refers to prior fierce forms"
+   ],
+   "inference": "The practitioner should contemplate all fierce forms during every petty action.",
+   "uncertainties": [
+    "exact referent of sakalāḥ depends on preceding verse",
+    "sarvvakṣudrakarmmasu may be locative of scope or instrument"
+   ],
+   "plain_english": "The practitioner should meditate on all of them in all petty actions."
+  }
+ ]
+}

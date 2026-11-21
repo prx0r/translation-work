@@ -1,0 +1,1115 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2801,
+   "rows": [
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "he-should-take",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root gṛh)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍodbhavaṃ",
+     "gloss": "born-in-kunda",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śubham",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substance should the practitioner take with effort for this rite?",
+   "premises": [
+    "The verse names a substance.",
+    "It is born in kunda.",
+    "It is auspicious."
+   ],
+   "inference": "The practitioner should carefully obtain the auspicious kunda-born substance.",
+   "uncertainties": [
+    "Exact ritual use is not stated here."
+   ],
+   "plain_english": "He should take that auspicious substance born in kunda with effort."
+  },
+  {
+   "verse": 2802,
+   "rows": [
+    {
+     "surface": "eteṣāṃ",
+     "gloss": "among-these",
+     "grounds": "genitive plural pronoun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dravyamadhye",
+     "gloss": "in-substance",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svayambhūkusumaṃ",
+     "gloss": "self-born-flower",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substance among these is declared greatest?",
+   "premises": [
+    "The verse compares substances.",
+    "It names a self-born flower.",
+    "It calls it great."
+   ],
+   "inference": "The self-born flower is the greatest among these substances.",
+   "uncertainties": [
+    "The full list of substances is not given here."
+   ],
+   "plain_english": "Among these substances, indeed, the self-born flower is great."
+  },
+  {
+   "verse": 2803,
+   "rows": [
+    {
+     "surface": "labdhvā",
+     "gloss": "having-obtained",
+     "grounds": "absolutive verb",
+     "morph": "abs (root labh)"
+    },
+    {
+     "surface": "tatparamaṃ",
+     "gloss": "that-supreme",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dravyaṃ",
+     "gloss": "substance",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lākṣārasasamanvitam",
+     "gloss": "lac-juice-endowed",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What quality must the supreme substance possess after it is obtained?",
+   "premises": [
+    "The verse speaks of obtaining a supreme substance.",
+    "It describes that substance.",
+    "It is endowed with lac juice."
+   ],
+   "inference": "The obtained supreme substance must be endowed with lac juice.",
+   "uncertainties": [
+    "The exact preparation is not specified here."
+   ],
+   "plain_english": "Having obtained that supreme substance, it is endowed with lac juice."
+  },
+  {
+   "verse": 2804,
+   "rows": [
+    {
+     "surface": "raktena",
+     "gloss": "with-red",
+     "grounds": "instrumental adjective",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "candanenāpi",
+     "gloss": "sandalwood",
+     "grounds": "instrumental noun with api",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vaṭīṃ",
+     "gloss": "pill",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive verb",
+     "morph": "abs (root kṛ)"
+    },
+    {
+     "surface": "sugopayet",
+     "gloss": "well-protect",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root gup)"
+    }
+   ],
+   "question": "What should be made and well protected from red sandalwood?",
+   "premises": [
+    "The verse names red sandalwood.",
+    "It names a pill.",
+    "It commands protection."
+   ],
+   "inference": "A pill made from red sandalwood should be well protected.",
+   "uncertainties": [
+    "The pill's later use is not stated here."
+   ],
+   "plain_english": "Having made a pill with red sandalwood, one should protect it well."
+  },
+  {
+   "verse": 2805,
+   "rows": [
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "absolutive verb",
+     "morph": "abs (root likh)"
+    },
+    {
+     "surface": "pūjayedbhaktyā",
+     "gloss": "worship-with-devotion",
+     "grounds": "fused sandhi form",
+     "morph": "3.sg.act-opt (root pūj)"
+    },
+    {
+     "surface": "yāṃ",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tithiṃ",
+     "gloss": "tithi",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive verb",
+     "morph": "abs (root prāp)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the practitioner do after obtaining the proper tithi?",
+   "premises": [
+    "The verse names a practitioner.",
+    "It names a tithi.",
+    "It commands worship with devotion."
+   ],
+   "inference": "After obtaining the proper tithi, the practitioner worships with devotion.",
+   "uncertainties": [
+    "The written object is not specified here."
+   ],
+   "plain_english": "Having written and obtained the proper tithi, the practitioner worships with devotion."
+  },
+  {
+   "verse": 2806,
+   "rows": [
+    {
+     "surface": "prabuddhāḥ",
+     "gloss": "awakened",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tatprayogena",
+     "gloss": "by-that-practice",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punarāgatā",
+     "gloss": "again-arrived",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How long does the awakened state last in this practice?",
+   "premises": [
+    "The verse names awakened ones.",
+    "It names that practice.",
+    "It lasts until she returns."
+   ],
+   "inference": "The awakened state continues until she arrives again.",
+   "uncertainties": [
+    "The identity of she is not explicit here."
+   ],
+   "plain_english": "Awakened by that practice, they remain so until she returns again."
+  },
+  {
+   "verse": 2807,
+   "rows": [
+    {
+     "surface": "tithikrameṇa",
+     "gloss": "by-tithi-order",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paurṇamāsyāṃ",
+     "gloss": "on-full-moon",
+     "grounds": "locative noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "phalapradā",
+     "gloss": "fruit-giving",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "When does the goddess become fruit-giving in tithi order?",
+   "premises": [
+    "The verse names the goddess.",
+    "It names tithi order.",
+    "It names full moon."
+   ],
+   "inference": "In tithi order, the goddess becomes fruit-giving on the full moon.",
+   "uncertainties": [
+    "The fruit is not specified here."
+   ],
+   "plain_english": "By tithi order, that goddess is fruit-giving on the full moon."
+  },
+  {
+   "verse": 2808,
+   "rows": [
+    {
+     "surface": "kṣīṇāti",
+     "gloss": "diminishes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres (root kṣi)"
+    },
+    {
+     "surface": "pūrṇatāṃ",
+     "gloss": "fullness",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres (root yā)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "nominative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tithirāgatā",
+     "gloss": "tithi-arrived",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What happens to fullness until the tithi arrives?",
+   "premises": [
+    "The verse names fullness.",
+    "It names diminishment.",
+    "It names tithi arrival."
+   ],
+   "inference": "Fullness diminishes until that tithi arrives.",
+   "uncertainties": [
+    "The exact tithi is not named here."
+   ],
+   "plain_english": "Fullness diminishes and goes until that tithi arrives."
+  },
+  {
+   "verse": 2809,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabuddhā",
+     "gloss": "awakened",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "nominative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛk",
+     "gloss": "such",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does the awakened goddess ever become such again?",
+   "premises": [
+    "The verse says thus.",
+    "It names the awakened one.",
+    "It denies such ever."
+   ],
+   "inference": "The awakened goddess never becomes such again.",
+   "uncertainties": [
+    "The referent of such is not explicit here."
+   ],
+   "plain_english": "Thus, as awakened, she is never such again."
+  },
+  {
+   "verse": 2810,
+   "rows": [
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "nominative noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahānāgā",
+     "gloss": "great-serpents",
+     "grounds": "nominative noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rākṣasāḥ",
+     "gloss": "demons",
+     "grounds": "nominative noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dānavāḥ",
+     "gloss": "danavas",
+     "grounds": "nominative noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings are named in this list?",
+   "premises": [
+    "The verse names yoginis.",
+    "It names great serpents.",
+    "It names demons and danavas."
+   ],
+   "inference": "Yoginis, great serpents, demons, and danavas are named.",
+   "uncertainties": [
+    "Their role in the rite is not stated here."
+   ],
+   "plain_english": "Yoginis, great serpents, demons, and danavas are named."
+  },
+  {
+   "verse": 2811,
+   "rows": [
+    {
+     "surface": "etenā",
+     "gloss": "by-this",
+     "grounds": "instrumental pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "akṣatayogān",
+     "gloss": "unbroken-yoga",
+     "grounds": "accusative compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "madhumatīsiddhim",
+     "gloss": "madhumati-siddhi",
+     "grounds": "accusative compound",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ālabhet",
+     "gloss": "obtains",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root ālabh)"
+    }
+   ],
+   "question": "What does one obtain by this unbroken yoga?",
+   "premises": [
+    "The verse names this.",
+    "It names unbroken yoga.",
+    "It names madhumati siddhi."
+   ],
+   "inference": "By this unbroken yoga one obtains madhumati siddhi.",
+   "uncertainties": [
+    "The nature of madhumati siddhi is not explained here."
+   ],
+   "plain_english": "By this, through unbroken yoga, one obtains madhumati siddhi."
+  },
+  {
+   "verse": 2812,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "I-will-speak",
+     "grounds": "future verb",
+     "morph": "1.sg.act-fut (root vac)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāktānāṃ",
+     "gloss": "of-Shaktas",
+     "grounds": "genitive noun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kāmyapūjanam",
+     "gloss": "desired-worship",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme topic will now be spoken for Shaktas?",
+   "premises": [
+    "The verse says now I will speak.",
+    "It names Shaktas.",
+    "It names desired worship."
+   ],
+   "inference": "The speaker will now describe supreme desired worship for Shaktas.",
+   "uncertainties": [
+    "The full ritual details follow later."
+   ],
+   "plain_english": "Now I will speak the supreme desired worship of the Shaktas."
+  },
+  {
+   "verse": 2813,
+   "rows": [
+    {
+     "surface": "vidhivallikhite",
+     "gloss": "according-to-rite-written",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yantre",
+     "gloss": "yantra",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kulācāreṇa",
+     "gloss": "by-kula-practice",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rātrike",
+     "gloss": "at-night",
+     "grounds": "locative adjective",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Where and when is this kula practice performed?",
+   "premises": [
+    "The verse names a written yantra.",
+    "It names kula practice.",
+    "It names night."
+   ],
+   "inference": "The kula practice is performed at night with the rite-written yantra.",
+   "uncertainties": [
+    "The exact yantra design is not given here."
+   ],
+   "plain_english": "In the yantra written according to rite, by kula practice, at night."
+  },
+  {
+   "verse": 2814,
+   "rows": [
+    {
+     "surface": "janmāntarakṛtāḥ",
+     "gloss": "birth-other-done",
+     "grounds": "nominative compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nāśamāyānti",
+     "gloss": "destruction-come",
+     "grounds": "verb",
+     "morph": "3.pl.act-pres (root yā)"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certain",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certainly happens to all deeds done in another birth?",
+   "premises": [
+    "The verse names deeds from another birth.",
+    "It says all.",
+    "It says destruction comes."
+   ],
+   "inference": "All deeds done in another birth certainly come to destruction.",
+   "uncertainties": [
+    "The mechanism of destruction is not stated here."
+   ],
+   "plain_english": "All deeds done in another birth certainly come to destruction."
+  },
+  {
+   "verse": 2815,
+   "rows": [
+    {
+     "surface": "javāpuṣpaiḥ",
+     "gloss": "hibiscus-flowers",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "cakrarājaṃ",
+     "gloss": "chakra-king",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root pūj)"
+    },
+    {
+     "surface": "māsamātrakam",
+     "gloss": "for-month",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How long should the chakra king be worshipped with hibiscus flowers?",
+   "premises": [
+    "The verse names hibiscus flowers.",
+    "It names chakra king.",
+    "It names a month."
+   ],
+   "inference": "The chakra king should be worshipped with hibiscus flowers for a month.",
+   "uncertainties": [
+    "The specific chakra king is not identified here."
+   ],
+   "plain_english": "One should worship the chakra king with hibiscus flowers for a month."
+  },
+  {
+   "verse": 2816,
+   "rows": [
+    {
+     "surface": "brahmahatyādi",
+     "gloss": "brahmahatya-etc",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpān",
+     "gloss": "sins",
+     "grounds": "accusative noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvajanmakṛtān",
+     "gloss": "previous-birth-done",
+     "grounds": "accusative compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sins are included along with those from a previous birth?",
+   "premises": [
+    "The verse names brahmahatya and so on.",
+    "It names sins.",
+    "It names previous birth."
+   ],
+   "inference": "Sins such as brahmahatya and those done in a previous birth are included.",
+   "uncertainties": [
+    "The full list of sins is not given here."
+   ],
+   "plain_english": "Sins such as brahmahatya and those done in a previous birth also."
+  },
+  {
+   "verse": 2817,
+   "rows": [
+    {
+     "surface": "ketakītaruṇaiḥ",
+     "gloss": "ketaki-young",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "patraiḥ",
+     "gloss": "leaves",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root pūj)"
+    },
+    {
+     "surface": "śivām",
+     "gloss": "Shiva",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should Shiva be worshipped with young ketaki leaves?",
+   "premises": [
+    "The verse names young ketaki leaves.",
+    "It says as before.",
+    "It names Shiva."
+   ],
+   "inference": "Shiva should be worshipped with young ketaki leaves as before.",
+   "uncertainties": [
+    "The exact prior procedure is not restated here."
+   ],
+   "plain_english": "With young ketaki leaves, as before, one should worship Shiva."
+  },
+  {
+   "verse": 2818,
+   "rows": [
+    {
+     "surface": "saubhāgyamatulaṃ",
+     "gloss": "good-fortune-incomparable",
+     "grounds": "nominative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres (root jan)"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "no-here",
+     "grounds": "negative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What arises for him without doubt?",
+   "premises": [
+    "The verse names incomparable good fortune.",
+    "It names him.",
+    "It denies doubt."
+   ],
+   "inference": "Incomparable good fortune arises for him without doubt.",
+   "uncertainties": [
+    "The cause is implied by prior worship."
+   ],
+   "plain_english": "Incomparable good fortune arises for him; there is no doubt here."
+  },
+  {
+   "verse": 2819,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative noun",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvapāpaṃ",
+     "gloss": "all-sin",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "destroy",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root naś, caus.)"
+    }
+   ],
+   "question": "What should be destroyed for the supreme goddess as before?",
+   "premises": [
+    "The verse says as before.",
+    "It names supreme goddess.",
+    "It names all sin."
+   ],
+   "inference": "All sin should be destroyed for the supreme goddess as before.",
+   "uncertainties": [
+    "The prior method is not restated here."
+   ],
+   "plain_english": "As before, O supreme goddess, one should destroy all sin."
+  },
+  {
+   "verse": 2820,
+   "rows": [
+    {
+     "surface": "māsamātreṇa",
+     "gloss": "in-month",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hantyeva",
+     "gloss": "kills-indeed",
+     "grounds": "verb with eva",
+     "morph": "3.sg.act-pres (root han)"
+    },
+    {
+     "surface": "pātakān",
+     "gloss": "sins",
+     "grounds": "accusative noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pūrvajanmajān",
+     "gloss": "previous-birth-born",
+     "grounds": "accusative compound",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What does the rite kill within a month?",
+   "premises": [
+    "The verse names a month.",
+    "It names killing.",
+    "It names sins from previous birth."
+   ],
+   "inference": "Within a month it indeed kills sins born from previous birth.",
+   "uncertainties": [
+    "The exact rite is implied by context."
+   ],
+   "plain_english": "Within a month it indeed kills sins born from a previous birth."
+  },
+  {
+   "verse": 2821,
+   "rows": [
+    {
+     "surface": "śvetapadmair",
+     "gloss": "white-lotuses",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mahādevīṃ",
+     "gloss": "great-goddess",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root pūj)"
+    },
+    {
+     "surface": "bhaktibhāvataḥ",
+     "gloss": "with-devotion",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the great goddess be worshipped with white lotuses?",
+   "premises": [
+    "The verse names white lotuses.",
+    "It names great goddess.",
+    "It names devotion."
+   ],
+   "inference": "The great goddess should be worshipped with white lotuses in a devotional attitude.",
+   "uncertainties": [
+    "The duration is not stated here."
+   ],
+   "plain_english": "One should worship the great goddess with white lotuses, with devotion."
+  },
+  {
+   "verse": 2822,
+   "rows": [
+    {
+     "surface": "māsamātreṇa",
+     "gloss": "in-month",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sakalān",
+     "gloss": "all",
+     "grounds": "accusative adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mokṣaḥ",
+     "gloss": "liberation",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "situated",
+     "grounds": "nominative adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where is liberation situated after a month?",
+   "premises": [
+    "The verse names a month.",
+    "It names liberation.",
+    "It names his hand."
+   ],
+   "inference": "After a month, liberation is situated in his hand.",
+   "uncertainties": [
+    "The metaphorical sense is not explained here."
+   ],
+   "plain_english": "Within a month, liberation is situated in his hand."
+  },
+  {
+   "verse": 2823,
+   "rows": [
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaśagaṃ",
+     "gloss": "subjugated",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvapāpaṃ",
+     "gloss": "all-sin",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praṇāśayet",
+     "gloss": "destroy",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt (root naś, caus.)"
+    }
+   ],
+   "question": "What becomes subjugated and what is destroyed for him?",
+   "premises": [
+    "The verse names three worlds.",
+    "It names subjugated.",
+    "It names all sin."
+   ],
+   "inference": "The three worlds become subjugated and all sin is destroyed for him.",
+   "uncertainties": [
+    "The causal rite is implied by context."
+   ],
+   "plain_english": "The three worlds become subjugated, and all sin is destroyed for him."
+  },
+  {
+   "verse": 2824,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśānīṃ",
+     "gloss": "supreme-goddess",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māsamātraṃ",
+     "gloss": "for-month",
+     "grounds": "accusative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there doubt about worshipping the supreme goddess for a month as before?",
+   "premises": [
+    "The verse says as before.",
+    "It names supreme goddess.",
+    "It denies doubt."
+   ],
+   "inference": "There is no doubt about worshipping the supreme goddess for a month as before.",
+   "uncertainties": [
+    "The prior method is not restated here."
+   ],
+   "plain_english": "As before, the supreme goddess for a month; there is no doubt."
+  }
+ ]
+}

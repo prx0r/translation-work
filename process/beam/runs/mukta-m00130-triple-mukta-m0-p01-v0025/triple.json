@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "śivaṃ",
+     "gloss": "shiva",
+     "grounds": "object of veṣṭya; the deity visualized in the preceding verse",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "veṣṭya",
+     "gloss": "having-enveloped",
+     "grounds": "absolutive indicating prior act of surrounding or encompassing",
+     "morph": "gerund (√veṣṭ)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the supreme goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "marks the constancy of Śiva's presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to the locus described in the preceding visualization",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "asserts Śiva's abiding presence in that locus",
+     "morph": "3.sg.pres.act (√sthā)"
+    }
+   ],
+   "question": "What enduring presence does Śiva maintain within that visualized locus after being enveloped?",
+   "premises": [
+    "Śiva is enveloped within the visualized locus.",
+    "The enveloped Śiva remains in that locus.",
+    "This abiding presence is constant."
+   ],
+   "inference": "Śiva abides perpetually in that visualized locus once enveloped.",
+   "uncertainties": [
+    "The precise manner of enveloping implied by veṣṭya is not specified."
+   ],
+   "plain_english": "O Great Goddess, having enveloped Śiva, he always stands there."
+  }
+ ]
+}

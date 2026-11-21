@@ -1,0 +1,855 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1476,
+   "rows": [
+    {
+     "surface": "sarvajñādyāḥ",
+     "gloss": "all-knowing-and-others",
+     "grounds": "bahuvrīhi/compound beginning with sarvajña",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "attendant goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "jvalatpāvakatejasaḥ",
+     "gloss": "blazing-fire-radiance",
+     "grounds": "bahuvrīhi compound describing brilliance",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What qualities characterize the yoginis beginning with Sarvajñā?",
+   "premises": [
+    "The yoginis include Sarvajñā and others",
+    "They possess blazing fire-like radiance"
+   ],
+   "inference": "The Sarvajñā group of yoginis is defined by their fiery brilliance",
+   "uncertainties": [],
+   "plain_english": "The yoginis beginning with Sarvajñā shine with the radiance of blazing fire."
+  },
+  {
+   "verse": 1477,
+   "rows": [
+    {
+     "surface": "pāśaṭaṅkāyudhajñānamudrāvaradasatkarāḥ",
+     "gloss": "noose-axe-weapon-knowledge-gesture-boon-hands",
+     "grounds": "bahuvrīhi compound listing attributes held in hands",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which implements and gestures do these yoginis bear in their hands?",
+   "premises": [
+    "The yoginis hold a noose and an axe-weapon",
+    "They display the knowledge gesture and the boon-giving hand"
+   ],
+   "inference": "Their iconography combines binding, cutting, knowledge, and granting boons",
+   "uncertainties": [],
+   "plain_english": "They hold a noose, an axe, the gesture of knowledge, and the hand granting boons."
+  },
+  {
+   "verse": 1478,
+   "rows": [
+    {
+     "surface": "devyai",
+     "gloss": "to-the-goddess",
+     "grounds": "recipient of the showing",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "saṃdarśayed",
+     "gloss": "one-should-show",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √dṛś with sam"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mudrāṃsarvamahāṃkuśām",
+     "gloss": "gesture-all-great-goad",
+     "grounds": "compound naming the mudrā; sandhi within token",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which sacred gesture must be displayed to the goddess in this rite?",
+   "premises": [
+    "The practitioner is instructed to show a gesture",
+    "The gesture named is the all-great-goad mudrā"
+   ],
+   "inference": "The ritual requires displaying the sarvamahāṅkuśā mudrā to the goddess",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should show to the goddess the mudrā of the all-great goad."
+  },
+  {
+   "verse": 1479,
+   "rows": [
+    {
+     "surface": "cakre",
+     "gloss": "in-the-wheel",
+     "grounds": "location of offering",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samudrāityādi",
+     "gloss": "samudrā-and-so-forth",
+     "grounds": "citation marker for mantra/formula; sandhi within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "puṣpāñjaliṃ",
+     "gloss": "flower-offering",
+     "grounds": "object offered",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering follows in the wheel after the preceding gesture?",
+   "premises": [
+    "The action takes place in the wheel",
+    "A flower offering is to be given with the formula beginning samudrā"
+   ],
+   "inference": "After the mudrā, a flower offering with the samudrā formula is made in the wheel",
+   "uncertainties": [],
+   "plain_english": "Then, in the wheel, one should offer a handful of flowers with the formula beginning 'samudrā' and so forth."
+  },
+  {
+   "verse": 1480,
+   "rows": [
+    {
+     "surface": "paścimādi",
+     "gloss": "beginning-from-west",
+     "grounds": "directional starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇaiva",
+     "gloss": "in-order-indeed",
+     "grounds": "emphatic sequential instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśinyādyā",
+     "gloss": "vaśinī-and-others",
+     "grounds": "group of yoginis to be worshipped",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-sequence",
+     "grounds": "order of worship",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order and direction should the Vaśinī group be worshipped?",
+   "premises": [
+    "Worship begins from the west",
+    "Vaśinī and the others are to be worshipped in due sequence"
+   ],
+   "inference": "The Vaśinī group must be worshipped sequentially starting from the western direction",
+   "uncertainties": [],
+   "plain_english": "Beginning from the west, one should worship Vaśinī and the others in proper sequence."
+  },
+  {
+   "verse": 1481,
+   "rows": [
+    {
+     "surface": "jayinī",
+     "gloss": "victorious",
+     "grounds": "name of a yoginī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarveśvarī",
+     "gloss": "lady-of-all",
+     "grounds": "name of a yoginī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulinī",
+     "gloss": "kaulinī",
+     "grounds": "name of a yoginī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāgaghīśvarī",
+     "gloss": "lady-of-speech",
+     "grounds": "name of a yoginī; internal sandhi in token",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which specific yoginis are named in this part of the sequence?",
+   "premises": [
+    "The verse lists individual names",
+    "The names given are Jayinī, Sarveśvarī, Kaulinī, and Vāgīśvarī"
+   ],
+   "inference": "These four named yoginis belong to the worship sequence",
+   "uncertainties": [
+    "Exact sandhi resolution of vāgaghīśvarī follows the given fused form"
+   ],
+   "plain_english": "Jayinī, Sarveśvarī, Kaulinī, and Vāgīśvarī are named."
+  },
+  {
+   "verse": 1482,
+   "rows": [
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "subject group",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kāmadāyinyau",
+     "gloss": "desire-granting",
+     "grounds": "attribute of the yoginis",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dāḍimīkusumaprabhāḥ",
+     "gloss": "pomegranate-flower-radiance",
+     "grounds": "bahuvrīhi compound describing appearance",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What powers and appearance distinguish the yoginis described here?",
+   "premises": [
+    "The yoginis grant desires",
+    "They have the radiance of pomegranate flowers"
+   ],
+   "inference": "These yoginis are desire-granting and shine like pomegranate blossoms",
+   "uncertainties": [],
+   "plain_english": "The yoginis grant desires and have the radiance of pomegranate flowers."
+  },
+  {
+   "verse": 1483,
+   "rows": [
+    {
+     "surface": "nānābharaṇasampannāḥ",
+     "gloss": "various-ornament-endowed",
+     "grounds": "bahuvrīhi compound describing adornment",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pañcabāṇadhanurdharāḥ",
+     "gloss": "five-arrow-bow-bearing",
+     "grounds": "bahuvrīhi compound describing weapons held",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the adornments and weapons of these yoginis characterized?",
+   "premises": [
+    "They are endowed with various ornaments",
+    "They bear a bow and five arrows"
+   ],
+   "inference": "The yoginis are richly adorned and armed with the five-arrow bow",
+   "uncertainties": [],
+   "plain_english": "They are adorned with various ornaments and bear a bow with five arrows."
+  },
+  {
+   "verse": 1484,
+   "rows": [
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "tripurasiddhāṃ",
+     "gloss": "tripura-siddhā",
+     "grounds": "name of a deity/yoginī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakreśīṃ",
+     "gloss": "wheel-lady",
+     "grounds": "name/title of a deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vaśinīpuraḥ",
+     "gloss": "before-vaśinī",
+     "grounds": "locational/positional compound indicating placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deities are to be worshipped in front of Vaśinī?",
+   "premises": [
+    "Tripurasiddhā is to be worshipped",
+    "Cakreśī is to be worshipped before Vaśinī"
+   ],
+   "inference": "The worship sequence includes Tripurasiddhā and Cakreśī positioned before Vaśinī",
+   "uncertainties": [],
+   "plain_english": "One should worship Tripurasiddhā and Cakreśī in front of Vaśinī."
+  },
+  {
+   "verse": 1485,
+   "rows": [
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative referring to previous group",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "rahasyayoginya",
+     "gloss": "secret-yoginis",
+     "grounds": "designation of the group; sandhi within token",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-and-so-forth",
+     "grounds": "citation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are the previously named yoginis collectively identified in this address?",
+   "premises": [
+    "The group is referred to as these",
+    "They are called secret yoginis and so forth"
+   ],
+   "inference": "The named yoginis are identified as the secret yoginis",
+   "uncertainties": [],
+   "plain_english": "O great lady, these are the secret yoginis, and so forth."
+  },
+  {
+   "verse": 1486,
+   "rows": [
+    {
+     "surface": "antarāle",
+     "gloss": "in-the-interval",
+     "grounds": "location within the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahācakre",
+     "gloss": "in-great-wheel",
+     "grounds": "location of worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvasiddhipradābhidhe",
+     "gloss": "all-siddhi-giving-named",
+     "grounds": "bahuvrīhi compound naming the wheel",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where within the great wheel does the next worship occur?",
+   "premises": [
+    "The location is in the interval",
+    "It is within the great wheel named giver of all siddhis"
+   ],
+   "inference": "The next worship takes place in the interval of the great wheel called Sarvasiddhiprada",
+   "uncertainties": [],
+   "plain_english": "In the interval of the great wheel named the giver of all siddhis."
+  },
+  {
+   "verse": 1487,
+   "rows": [
+    {
+     "surface": "kāmeśvarasya",
+     "gloss": "of-kāmeśvara",
+     "grounds": "possessor of arrow deities",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kāmeśyā",
+     "gloss": "of-kāmeśī",
+     "grounds": "possessor of arrow deities",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "jṛmbhakā",
+     "gloss": "yawning",
+     "grounds": "name/epithet of arrow deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bāṇadevatāḥ",
+     "gloss": "arrow-deities",
+     "grounds": "deities associated with arrows",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which arrow deities of Kāmeśvara and Kāmeśī are present in this location?",
+   "premises": [
+    "The deities belong to Kāmeśvara and Kāmeśī",
+    "They are the yawning arrow deities"
+   ],
+   "inference": "The yawning arrow deities of Kāmeśvara and Kāmeśī are located there",
+   "uncertainties": [],
+   "plain_english": "There are the yawning arrow deities of Kāmeśvara and Kāmeśī."
+  },
+  {
+   "verse": 1488,
+   "rows": [
+    {
+     "surface": "stambhakākhyā",
+     "gloss": "stambhaka-named",
+     "grounds": "bahuvrīhi compound naming the deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "comparison/continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃkuśadevatāḥ",
+     "gloss": "goad-deities",
+     "grounds": "deities associated with the goad",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which goad deities are likewise present, as addressed to the great goddess?",
+   "premises": [
+    "The deities are named Stambhaka",
+    "They are likewise the goad deities"
+   ],
+   "inference": "The goad deities known as Stambhaka are also present",
+   "uncertainties": [],
+   "plain_english": "O great goddess, likewise there are the goad deities known as Stambhaka."
+  },
+  {
+   "verse": 1489,
+   "rows": [
+    {
+     "surface": "rudrātmaśaktisahitā",
+     "gloss": "with-rudra-self-power",
+     "grounds": "bahuvrīhi compound describing accompaniment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmeśī",
+     "gloss": "kāmeśī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhidā",
+     "gloss": "all-siddhi-giving",
+     "grounds": "epithet describing function",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is Kāmeśī characterized in relation to Rudra's power and siddhis?",
+   "premises": [
+    "Kāmeśī is accompanied by Rudra's own power",
+    "She grants all siddhis"
+   ],
+   "inference": "Kāmeśī, united with Rudra's power, is the giver of all siddhis",
+   "uncertainties": [],
+   "plain_english": "Kāmeśī, accompanied by Rudra's own power, is the giver of all siddhis."
+  },
+  {
+   "verse": 1490,
+   "rows": [
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-the-seat",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrṇagirau",
+     "gloss": "in-pūrṇagiri",
+     "grounds": "name of the seat/location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uḍḍīśanāthātmikā",
+     "gloss": "uḍḍīśa-lord-natured",
+     "grounds": "bahuvrīhi compound identifying essence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine presence is identified at the Pūrṇagiri seat?",
+   "premises": [
+    "The location is the seat at Pūrṇagiri",
+    "The presence is of the nature of Uḍḍīśanātha"
+   ],
+   "inference": "At the Pūrṇagiri seat, the presence is identified as Uḍḍīśanāthātmikā",
+   "uncertainties": [],
+   "plain_english": "Then, on the seat at Pūrṇagiri, is she whose nature is Uḍḍīśanātha."
+  },
+  {
+   "verse": 1491,
+   "rows": [
+    {
+     "surface": "vajreśvarī",
+     "gloss": "vajreśvarī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "epithet",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyakoṇake",
+     "gloss": "in-third-corner",
+     "grounds": "location in the diagram",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which goddess is located in the third corner of the diagram?",
+   "premises": [
+    "The goddess named is Vajreśvarī, the great goddess",
+    "Her location is the third corner"
+   ],
+   "inference": "Vajreśvarī, the great goddess, is situated in the third corner",
+   "uncertainties": [],
+   "plain_english": "Then, in the third corner, is the great goddess Vajreśvarī."
+  },
+  {
+   "verse": 1492,
+   "rows": [
+    {
+     "surface": "ṣaṣṭheśanāthātmikā",
+     "gloss": "sixth-lord-natured",
+     "grounds": "bahuvrīhi compound identifying essence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suṣuptyadhiṣṭhitā",
+     "gloss": "deep-sleep-presiding",
+     "grounds": "compound describing state presided over",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What nature and state of consciousness does this goddess preside over?",
+   "premises": [
+    "She is of the nature of Ṣaṣṭheśanātha",
+    "She presides over deep sleep"
+   ],
+   "inference": "This goddess embodies Ṣaṣṭheśanātha and presides over the state of deep sleep",
+   "uncertainties": [],
+   "plain_english": "And likewise, she is of the nature of Ṣaṣṭheśanātha and presides over deep sleep."
+  },
+  {
+   "verse": 1493,
+   "rows": [
+    {
+     "surface": "bindumadhye",
+     "gloss": "in-bindu-middle",
+     "grounds": "location in the śrīcakra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-lady",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kūṭatrayavijṛmbhite",
+     "gloss": "three-peaks-unfolded",
+     "grounds": "compound describing the bindu's manifestation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the central bindu described in this stage of worship?",
+   "premises": [
+    "The location is the middle of the bindu",
+    "The bindu is unfolded by the three peaks"
+   ],
+   "inference": "Worship centers in the bindu as manifested by the three peaks",
+   "uncertainties": [],
+   "plain_english": "O great lady, in the middle of the bindu, unfolded by the three peaks."
+  },
+  {
+   "verse": 1494,
+   "rows": [
+    {
+     "surface": "caryānāthātmikā",
+     "gloss": "caryā-lord-natured",
+     "grounds": "bahuvrīhi compound identifying essence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "turīyādhiṣṭhitā",
+     "gloss": "fourth-presiding",
+     "grounds": "compound describing state presided over",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What nature and transcendent state does the goddess in the bindu preside over?",
+   "premises": [
+    "She is of the nature of Caryānātha",
+    "She presides over the fourth state"
+   ],
+   "inference": "The goddess in the bindu embodies Caryānātha and presides over turīya",
+   "uncertainties": [],
+   "plain_english": "Then, she is of the nature of Caryānātha and presides over the fourth state."
+  },
+  {
+   "verse": 1495,
+   "rows": [
+    {
+     "surface": "sarvasiddhiprade",
+     "gloss": "all-siddhi-giving",
+     "grounds": "epithet of the wheel",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cakre",
+     "gloss": "in-wheel",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "deities present",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "siddhidāyikāḥ",
+     "gloss": "siddhi-giving",
+     "grounds": "epithet of the yoginis",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What function do the yoginis serve in the all-siddhi-giving wheel?",
+   "premises": [
+    "The yoginis are in the all-siddhi-giving wheel",
+    "They themselves are givers of siddhi"
+   ],
+   "inference": "In the Sarvasiddhiprada wheel, the yoginis bestow siddhis",
+   "uncertainties": [],
+   "plain_english": "In the wheel that grants all siddhis are the yoginis who bestow siddhis."
+  },
+  {
+   "verse": 1496,
+   "rows": [
+    {
+     "surface": "kāmeśvarīmukhāḥ",
+     "gloss": "kāmeśvarī-headed",
+     "grounds": "bahuvrīhi compound indicating the foremost",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tisraḥ",
+     "gloss": "three",
+     "grounds": "number of yoginis",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "koṇatrayavirājitāḥ",
+     "gloss": "corner-triad-radiant",
+     "grounds": "compound describing their placement",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many yoginis headed by Kāmeśvarī shine in the three corners?",
+   "premises": [
+    "There are three yoginis headed by Kāmeśvarī",
+    "They shine in the three corners"
+   ],
+   "inference": "Three yoginis, led by Kāmeśvarī, are radiant in the triad of corners",
+   "uncertainties": [],
+   "plain_english": "Three yoginis, headed by Kāmeśvarī, shine in the three corners."
+  },
+  {
+   "verse": 1497,
+   "rows": [
+    {
+     "surface": "raktāḥ",
+     "gloss": "red",
+     "grounds": "color attribute",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vidyullatākārā",
+     "gloss": "lightning-vine-shaped",
+     "grounds": "bahuvrīhi compound describing form",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "uddāmakusumānvitāḥ",
+     "gloss": "uddāma-flower-endowed",
+     "grounds": "compound describing adornment",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What color, form, and floral adornment characterize these three yoginis?",
+   "premises": [
+    "They are red in color",
+    "They are shaped like lightning vines and endowed with uddāma flowers"
+   ],
+   "inference": "The three yoginis are red, lightning-like in form, and adorned with uddāma flowers",
+   "uncertainties": [
+    "Identity of uddāma flower is not specified"
+   ],
+   "plain_english": "They are red, shaped like streaks of lightning, and adorned with uddāma flowers."
+  },
+  {
+   "verse": 1498,
+   "rows": [
+    {
+     "surface": "varābhaye",
+     "gloss": "boon-and-fearlessness",
+     "grounds": "dvandva compound naming gestures",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "sudhāpātraṃ",
+     "gloss": "nectar-vessel",
+     "grounds": "object held",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhārayantyaḥ",
+     "gloss": "holding",
+     "grounds": "describes the yoginis' action",
+     "morph": "f.nom.pl.present-participle-active √dhṛ"
+    },
+    {
+     "surface": "sukhāvahāḥ",
+     "gloss": "happiness-bringing",
+     "grounds": "epithet describing effect",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What gestures and object do these happiness-bringing yoginis hold?",
+   "premises": [
+    "They hold the gestures of boon and fearlessness",
+    "They hold a vessel of nectar and bring happiness"
+   ],
+   "inference": "The yoginis display boon and fearlessness while holding a nectar vessel, bringing happiness",
+   "uncertainties": [],
+   "plain_english": "Holding the gestures of boon and fearlessness and a vessel of nectar, they bring happiness."
+  },
+  {
+   "verse": 1499,
+   "rows": [
+    {
+     "surface": "muktāphalasphuradbhūṣā",
+     "gloss": "pearl-shining-ornaments",
+     "grounds": "bahuvrīhi compound describing ornaments",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nānābharaṇabhūṣitā",
+     "gloss": "various-ornament-adorned",
+     "grounds": "compound describing adornment",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the ornaments of these yoginis further described?",
+   "premises": [
+    "Their ornaments shine with pearls",
+    "They are adorned with various ornaments"
+   ],
+   "inference": "The yoginis are richly adorned with shining pearls and diverse ornaments",
+   "uncertainties": [],
+   "plain_english": "They are adorned with ornaments shining with pearls and decorated with various jewels."
+  }
+ ]
+}

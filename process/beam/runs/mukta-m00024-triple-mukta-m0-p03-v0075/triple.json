@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "tri+pathaṃ",
+     "gloss": "triple-path",
+     "grounds": "compound of tri (three) and patha (path), object of declaration",
+     "morph": "compound.acc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking transition or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle indicating completed statement",
+     "morph": "ppp.nom.sg.nt; sam-ā-√khyā"
+    },
+    {
+     "surface": "nagnaṃ",
+     "gloss": "naked",
+     "grounds": "substantivized adjective naming the topic to be explained",
+     "morph": "adj.acc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle introducing the next instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "i-tell",
+     "grounds": "speaker's promise to expound the next topic",
+     "morph": "1.sg.pres.act.ind; √kath"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressee of the promised explanation",
+     "morph": "pron.dat.sg"
+    }
+   ],
+   "question": "What further instruction is promised after the triple path has been declared?",
+   "premises": [
+    "The triple path has already been declared.",
+    "The naked remains as a topic to be explained.",
+    "The speaker addresses the listener with a promise to tell."
+   ],
+   "inference": "After declaring the triple path, the speaker will now explain the naked to the listener.",
+   "uncertainties": [
+    "The doctrinal meaning of nagnaṃ (naked) in this context is not specified in the verse."
+   ],
+   "plain_english": "But the triple path has been declared; now I will tell you about the naked."
+  }
+ ]
+}

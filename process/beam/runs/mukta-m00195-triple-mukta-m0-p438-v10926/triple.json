@@ -1,0 +1,913 @@
+{
+ "song": "mukta-m0-p438",
+ "items": [
+  {
+   "verse": 10926,
+   "rows": [
+    {
+     "surface": "itthaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmakare",
+     "gloss": "on-left-hand",
+     "grounds": "location of placement",
+     "morph": "compound: vāma+kara; m.loc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "gerund; √nyas"
+    },
+    {
+     "surface": "nyāsaḥ+tu+aṣṭādaśaḥ",
+     "gloss": "placement-indeed-eighteenth",
+     "grounds": "identifies the placement number",
+     "morph": "compound: nyāsa+tu+aṣṭādaśa; m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative; √bhū"
+    }
+   ],
+   "question": "Which numbered placement results from placing thus on the left hand?",
+   "premises": [
+    "The action is performed in this manner.",
+    "The placement is made on the left hand.",
+    "The resulting placement is identified as the eighteenth."
+   ],
+   "inference": "Placing thus on the left hand constitutes the eighteenth placement.",
+   "uncertainties": [],
+   "plain_english": "Thus, having placed on the left hand, this should be the eighteenth placement."
+  },
+  {
+   "verse": 10927,
+   "rows": [
+    {
+     "surface": "aṅguli+agre",
+     "gloss": "on-finger-tip",
+     "grounds": "location of placement",
+     "morph": "compound: aṅguli+agra; n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continues the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅguṣṭha+ādau",
+     "gloss": "on-thumb-beginning",
+     "grounds": "location of placement",
+     "morph": "compound: aṅguṣṭha+ādi; m.loc.sg"
+    },
+    {
+     "surface": "nyāsaḥ+tu+ūnaviṃśakaḥ",
+     "gloss": "placement-indeed-nineteenth",
+     "grounds": "identifies the placement number",
+     "morph": "compound: nyāsa+tu+ūnaviṃśaka; m.nom.sg"
+    }
+   ],
+   "question": "Which numbered placement is performed on the fingertip and thumb beginning?",
+   "premises": [
+    "The placement continues in the same manner.",
+    "The locations are the fingertip and the beginning of the thumb.",
+    "The placement is identified as the nineteenth."
+   ],
+   "inference": "Placement on the fingertip and thumb beginning constitutes the nineteenth placement.",
+   "uncertainties": [],
+   "plain_english": "Likewise, on the fingertip and at the beginning of the thumb, this is indeed the nineteenth placement."
+  },
+  {
+   "verse": 10928,
+   "rows": [
+    {
+     "surface": "bāhu+yugye",
+     "gloss": "on-arm-pair",
+     "grounds": "location of placement",
+     "morph": "compound: bāhu+yugya; n.loc.sg"
+    },
+    {
+     "surface": "sandhi+yugme",
+     "gloss": "on-joint-pair",
+     "grounds": "location of placement",
+     "morph": "compound: sandhi+yugma; n.loc.sg"
+    },
+    {
+     "surface": "nyāsaḥ+ayam+ca+ekaviṃśakaḥ",
+     "gloss": "placement-this-and-twenty-first",
+     "grounds": "identifies the placement number",
+     "morph": "compound: nyāsa+ayam+ca+ekaviṃśaka; m.nom.sg"
+    }
+   ],
+   "question": "Which numbered placement is assigned to the pair of arms and joints?",
+   "premises": [
+    "The locations are the pair of arms.",
+    "The locations include the pair of joints.",
+    "This placement is identified as the twenty-first."
+   ],
+   "inference": "Placement on the pair of arms and joints constitutes the twenty-first placement.",
+   "uncertainties": [],
+   "plain_english": "On the pair of arms and the pair of joints, this is the twenty-first placement."
+  },
+  {
+   "verse": 10929,
+   "rows": [
+    {
+     "surface": "liṅge",
+     "gloss": "on-genitals",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jānuni",
+     "gloss": "on-knee",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāde",
+     "gloss": "on-foot",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects locations",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvāviṃśaḥ+ayam",
+     "gloss": "twenty-second-this",
+     "grounds": "identifies the placement number",
+     "morph": "compound: dvāviṃśa+ayam; m.nom.sg"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg; past participle; √kīrt"
+    }
+   ],
+   "question": "Which numbered placement is declared for the genitals, knee, and foot?",
+   "premises": [
+    "The locations include the genitals, knee, and foot.",
+    "The placement is explicitly declared.",
+    "It is identified as the twenty-second."
+   ],
+   "inference": "Placement on the genitals, knee, and foot is declared as the twenty-second placement.",
+   "uncertainties": [],
+   "plain_english": "On the genitals, the knee, and the foot, this is declared to be the twenty-second placement."
+  },
+  {
+   "verse": 10930,
+   "rows": [
+    {
+     "surface": "yugma+nyāsaḥ+ayam",
+     "gloss": "pair-placement-this",
+     "grounds": "names the placement type",
+     "morph": "compound: yugma+nyāsa+ayam; m.nom.sg"
+    },
+    {
+     "surface": "ākhyātaḥ",
+     "gloss": "is-called",
+     "grounds": "designation",
+     "morph": "m.nom.sg; past participle; √khyā"
+    },
+    {
+     "surface": "trayoviṃśati+saṃkhyakaḥ",
+     "gloss": "twenty-third-numbered",
+     "grounds": "specifies the count",
+     "morph": "compound: trayoviṃśati+saṃkhyaka; m.nom.sg"
+    }
+   ],
+   "question": "What number and designation are given to this pair placement?",
+   "premises": [
+    "This placement is performed in pairs.",
+    "It is explicitly named.",
+    "It is numbered as the twenty-third."
+   ],
+   "inference": "This pair placement is called the twenty-third in number.",
+   "uncertainties": [],
+   "plain_english": "This pair placement is called the twenty-third in number."
+  },
+  {
+   "verse": 10931,
+   "rows": [
+    {
+     "surface": "vibhūti+pañjaraḥ",
+     "gloss": "power-cage",
+     "grounds": "name of the placement",
+     "morph": "compound: vibhūti+pañjara; m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "by-name",
+     "grounds": "indicates naming",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "refers to the placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement",
+     "morph": "m.nom.sg; past participle; √kīrt"
+    }
+   ],
+   "question": "What specific name is declared for this placement practice?",
+   "premises": [
+    "This placement is being identified.",
+    "It is given a specific name.",
+    "The name declared is vibhūti-pañjara, the cage of power."
+   ],
+   "inference": "This placement is indeed declared by the name vibhūti-pañjara.",
+   "uncertainties": [],
+   "plain_english": "And this very placement is declared by the name vibhūti-pañjara, the cage of power."
+  },
+  {
+   "verse": 10932,
+   "rows": [
+    {
+     "surface": "bhukti+mukti+pradaḥ",
+     "gloss": "enjoyment-liberation-giving",
+     "grounds": "describes its fruit",
+     "morph": "compound: bhukti+mukti+prada; m.nom.sg"
+    },
+    {
+     "surface": "bhakti+pradaḥ",
+     "gloss": "devotion-giving",
+     "grounds": "describes its fruit",
+     "morph": "compound: bhakti+prada; m.nom.sg"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-Viṣṇu",
+     "grounds": "object of devotion",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pada+ambuje",
+     "gloss": "at-foot-lotus",
+     "grounds": "locus of devotion",
+     "morph": "compound: pada+ambuja; n.loc.sg"
+    }
+   ],
+   "question": "What spiritual fruits does this placement bestow upon the practitioner?",
+   "premises": [
+    "The placement grants enjoyment and liberation.",
+    "The placement grants devotion.",
+    "The devotion is directed to Viṣṇu's lotus feet."
+   ],
+   "inference": "This placement bestows enjoyment, liberation, and devotion to Viṣṇu's lotus feet.",
+   "uncertainties": [],
+   "plain_english": "It grants enjoyment and liberation, and gives devotion to the lotus feet of Viṣṇu."
+  },
+  {
+   "verse": 10933,
+   "rows": [
+    {
+     "surface": "mūrtti+pañjara+nāma+ākhyaṃ",
+     "gloss": "form-cage-name-called",
+     "grounds": "names the placement",
+     "morph": "compound: mūrtti+pañjara+nāma+ākhya; n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "n.nom.sg; past participle; √vac"
+    },
+    {
+     "surface": "pāpa+praṇāśanam",
+     "gloss": "sin-destroying",
+     "grounds": "describes its effect",
+     "morph": "compound: pāpa+praṇāśana; n.nom.sg"
+    }
+   ],
+   "question": "What name and purifying effect are attributed to this declared placement?",
+   "premises": [
+    "The placement is declared by a specific name.",
+    "Its name is mūrtti-pañjara, the cage of the form.",
+    "It is described as destroying sin."
+   ],
+   "inference": "The placement called mūrtti-pañjara is declared to destroy sin.",
+   "uncertainties": [],
+   "plain_english": "It is declared to be called mūrtti-pañjara, the cage of the form, and it destroys sin."
+  },
+  {
+   "verse": 10934,
+   "rows": [
+    {
+     "surface": "proktam+ādya+prakāreṇa",
+     "gloss": "declared-first-method-by",
+     "grounds": "refers to prior instruction",
+     "morph": "compound: prokta+ādya+prakāra; m.inst.sg"
+    },
+    {
+     "surface": "nyāsānām",
+     "gloss": "of-placements",
+     "grounds": "object of application",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "upakalpane",
+     "gloss": "in-application",
+     "grounds": "context of use",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "By what method should the application of these placements be understood?",
+   "premises": [
+    "The placements have been previously declared.",
+    "They are to be applied in practice.",
+    "Their application follows the first method described."
+   ],
+   "inference": "The application of the placements follows the first declared method.",
+   "uncertainties": [],
+   "plain_english": "In the application of the placements, it is as declared by the first method."
+  },
+  {
+   "verse": 10935,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizes prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of ritual",
+     "morph": "gerund; √kṛ"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "according-to-rule",
+     "grounds": "prescribed manner",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantra+kalevaram",
+     "gloss": "mantra-bodied",
+     "grounds": "resulting state",
+     "morph": "compound: mantra+kalevara; m.nom.sg"
+    }
+   ],
+   "question": "What state does the practitioner attain after performing the rite according to rule?",
+   "premises": [
+    "The practitioner performs the rite according to rule.",
+    "The procedure is completed as prescribed.",
+    "The practitioner becomes embodied by mantra."
+   ],
+   "inference": "Having performed the rite according to rule, the mantra practitioner becomes mantra-bodied.",
+   "uncertainties": [],
+   "plain_english": "Thus, having done this according to the prescribed rule, the mantra practitioner becomes embodied by mantra."
+  },
+  {
+   "verse": 10936,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "sequence of meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛndāvanaṃ",
+     "gloss": "Vṛndāvana",
+     "grounds": "object of meditation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ramyaṃ",
+     "gloss": "delightful",
+     "grounds": "quality of the place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-meditate",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative; √smṛ"
+    },
+    {
+     "surface": "puṣpa+virājitam",
+     "gloss": "flower-resplendent",
+     "grounds": "quality of the place",
+     "morph": "compound: puṣpa+virājita; n.acc.sg"
+    }
+   ],
+   "question": "What sacred place should the practitioner visualize first in meditation?",
+   "premises": [
+    "Meditation follows a prescribed sequence.",
+    "The first object of meditation is Vṛndāvana.",
+    "Vṛndāvana is visualized as delightful and resplendent with flowers."
+   ],
+   "inference": "The practitioner should first meditate on delightful, flower-resplendent Vṛndāvana.",
+   "uncertainties": [],
+   "plain_english": "First, one should meditate on the delightful Vṛndāvana, resplendent with flowers."
+  },
+  {
+   "verse": 10937,
+   "rows": [
+    {
+     "surface": "madhupaiḥ",
+     "gloss": "by-bees",
+     "grounds": "agents of sound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kṛta+rāṅkāraiḥ",
+     "gloss": "made-humming-sounds",
+     "grounds": "describes the bees",
+     "morph": "compound: kṛta+rāṅkāra; m.inst.pl"
+    },
+    {
+     "surface": "kīra+ādyaiḥ",
+     "gloss": "by-parrots-and-others",
+     "grounds": "agents of sound",
+     "morph": "compound: kīra+ādi; m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects agents",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nināditam",
+     "gloss": "resounded",
+     "grounds": "describes the place",
+     "morph": "n.acc.sg; past participle; √nad"
+    }
+   ],
+   "question": "What sounds fill the visualized Vṛndāvana in this meditation?",
+   "premises": [
+    "Vṛndāvana is filled with sound.",
+    "Bees make humming sounds there.",
+    "Parrots and other creatures also resound there."
+   ],
+   "inference": "The visualized Vṛndāvana resounds with humming bees and parrots and others.",
+   "uncertainties": [],
+   "plain_english": "It is resounded by bees making humming sounds and by parrots and other birds."
+  },
+  {
+   "verse": 10938,
+   "rows": [
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locates the next object",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vane",
+     "gloss": "forest",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kalpa+taruṃ",
+     "gloss": "wish-fulfilling-tree",
+     "grounds": "object of meditation",
+     "morph": "compound: kalpa+taru; m.acc.sg"
+    },
+    {
+     "surface": "nava+pallava+śobhitam",
+     "gloss": "new-sprout-shining",
+     "grounds": "describes the tree",
+     "morph": "compound: nava+pallava+śobhita; m.acc.sg"
+    }
+   ],
+   "question": "What central feature should be visualized within that forest?",
+   "premises": [
+    "The meditation continues within that forest.",
+    "A wish-fulfilling tree is present there.",
+    "The tree shines with new sprouts."
+   ],
+   "inference": "Within that forest one should visualize a wish-fulfilling tree shining with new sprouts.",
+   "uncertainties": [],
+   "plain_english": "In that forest, one should visualize a wish-fulfilling tree shining with new sprouts."
+  },
+  {
+   "verse": 10939,
+   "rows": [
+    {
+     "surface": "divya+amṛta+ogha+varṣeṇa",
+     "gloss": "divine-nectar-stream-shower-with",
+     "grounds": "means of sprinkling",
+     "morph": "compound: divya+amṛta+ogha+varṣa; m.inst.sg"
+    },
+    {
+     "surface": "siñcantaṃ",
+     "gloss": "sprinkling",
+     "grounds": "action of the tree",
+     "morph": "m.acc.sg; present participle; √sic"
+    },
+    {
+     "surface": "viśvam",
+     "gloss": "universe",
+     "grounds": "object sprinkled",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucchritam",
+     "gloss": "lofty",
+     "grounds": "describes the tree",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What cosmic action is attributed to the lofty wish-fulfilling tree?",
+   "premises": [
+    "The tree is lofty.",
+    "It showers a stream of divine nectar.",
+    "It sprinkles the entire universe."
+   ],
+   "inference": "The lofty wish-fulfilling tree sprinkles the entire universe with a shower of divine nectar.",
+   "uncertainties": [],
+   "plain_english": "Lofty, it sprinkles the entire universe with a shower of streams of divine nectar."
+  },
+  {
+   "verse": 10940,
+   "rows": [
+    {
+     "surface": "ṣaḍ+ūrmi+rahitāṃ",
+     "gloss": "six-wave-devoid",
+     "grounds": "describes the earth",
+     "morph": "compound: ṣaḍ+ūrmi+rahita; f.acc.sg"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative; √dhyai"
+    },
+    {
+     "surface": "tasya+adhastāt",
+     "gloss": "beneath-it",
+     "grounds": "location",
+     "morph": "compound: tad+adhastāt; (indecl.)"
+    },
+    {
+     "surface": "vasundharām",
+     "gloss": "earth",
+     "grounds": "object of meditation",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of earth should be visualized beneath the wish-fulfilling tree?",
+   "premises": [
+    "The meditation focuses beneath the tree.",
+    "The earth is the object of visualization.",
+    "The earth is devoid of the six waves."
+   ],
+   "inference": "One should meditate on the earth beneath the tree as devoid of the six waves.",
+   "uncertainties": [
+    "The specific six waves (ṣaḍūrmi) are not enumerated here."
+   ],
+   "plain_english": "Beneath it, one should meditate on the earth, devoid of the six waves."
+  },
+  {
+   "verse": 10941,
+   "rows": [
+    {
+     "surface": "padmam",
+     "gloss": "lotus",
+     "grounds": "object of meditation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭa+dalaṃ",
+     "gloss": "eight-petaled",
+     "grounds": "describes the lotus",
+     "morph": "compound: aṣṭa+dala; n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā+uktaṃ",
+     "gloss": "as-described",
+     "grounds": "refers to prior description",
+     "morph": "compound: yathā+ukta; n.acc.sg"
+    },
+    {
+     "surface": "ratna+parṇakam",
+     "gloss": "jewel-petaled",
+     "grounds": "describes the lotus",
+     "morph": "compound: ratna+parṇaka; n.acc.sg"
+    }
+   ],
+   "question": "What lotus should be visualized there according to prior description?",
+   "premises": [
+    "A lotus is to be visualized in that place.",
+    "The lotus has eight petals.",
+    "Its petals are jewel-like as previously described."
+   ],
+   "inference": "There one should visualize an eight-petaled lotus with jewel petals as previously described.",
+   "uncertainties": [],
+   "plain_english": "There, one should visualize an eight-petaled lotus with jewel petals, as previously described."
+  },
+  {
+   "verse": 10942,
+   "rows": [
+    {
+     "surface": "udyat+āditya+saṅkāśaṃ",
+     "gloss": "rising-sun-resembling",
+     "grounds": "describes the deity's radiance",
+     "morph": "compound: udyat+āditya+saṅkāśa; m.acc.sg"
+    },
+    {
+     "surface": "prasanna+vadanaṃ",
+     "gloss": "serene-faced",
+     "grounds": "describes the deity's expression",
+     "morph": "compound: prasanna+vadana; m.acc.sg"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "all-pervading-lord",
+     "grounds": "object of meditation",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the all-pervading lord visualized in radiance and expression?",
+   "premises": [
+    "The all-pervading lord is the object of meditation.",
+    "He resembles the rising sun in radiance.",
+    "He has a serene face."
+   ],
+   "inference": "The all-pervading lord should be visualized as radiant like the rising sun with a serene face.",
+   "uncertainties": [],
+   "plain_english": "One should visualize the all-pervading lord, resembling the rising sun, with a serene face."
+  },
+  {
+   "verse": 10943,
+   "rows": [
+    {
+     "surface": "māyūreṇa",
+     "gloss": "with-peacock",
+     "grounds": "describes the feather",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "su+picchena",
+     "gloss": "beautiful-feather-with",
+     "grounds": "ornament",
+     "morph": "compound: su+piccha; n.inst.sg"
+    },
+    {
+     "surface": "rājamāna+śubha+aṅgakam",
+     "gloss": "shining-auspicious-limbed",
+     "grounds": "describes the deity's body",
+     "morph": "compound: rājamāna+śubha+aṅgaka; m.acc.sg"
+    }
+   ],
+   "question": "What ornament and bodily appearance characterize the visualized lord?",
+   "premises": [
+    "The lord is adorned with a beautiful peacock feather.",
+    "His limbs are auspicious.",
+    "His body shines."
+   ],
+   "inference": "The lord is visualized with a beautiful peacock feather and shining auspicious limbs.",
+   "uncertainties": [],
+   "plain_english": "He has shining, auspicious limbs and is adorned with a beautiful peacock feather."
+  },
+  {
+   "verse": 10944,
+   "rows": [
+    {
+     "surface": "kuṭila+alaka+vibhrājat",
+     "gloss": "curly-lock-resplendent",
+     "grounds": "describes the face",
+     "morph": "compound: kuṭila+alaka+vibhrājat; n.acc.sg"
+    },
+    {
+     "surface": "āsyam",
+     "gloss": "face",
+     "grounds": "part of the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇa+kṛta+utpalam",
+     "gloss": "ear-placed-lotus-with",
+     "grounds": "describes the face",
+     "morph": "compound: karṇa+kṛta+utpala; n.acc.sg"
+    }
+   ],
+   "question": "What features adorn the face of the visualized deity?",
+   "premises": [
+    "The deity's face is resplendent with curly locks.",
+    "A lotus is placed at the ear.",
+    "These features characterize the visualized face."
+   ],
+   "inference": "The deity's face is resplendent with curly locks and adorned with a lotus at the ear.",
+   "uncertainties": [],
+   "plain_english": "His face is resplendent with curly locks and adorned with a lotus placed at the ear."
+  },
+  {
+   "verse": 10945,
+   "rows": [
+    {
+     "surface": "padma+netram",
+     "gloss": "lotus-eyed",
+     "grounds": "describes the deity's eyes",
+     "morph": "compound: padma+netra; m.acc.sg"
+    },
+    {
+     "surface": "dīpta+maṇim",
+     "gloss": "shining-jewel-with",
+     "grounds": "describes adornment",
+     "morph": "compound: dīpta+maṇi; m.acc.sg"
+    },
+    {
+     "surface": "makara+ākṛti+kuṇḍalam",
+     "gloss": "crocodile-shaped-earring-with",
+     "grounds": "describes earrings",
+     "morph": "compound: makara+ākṛti+kuṇḍala; m.acc.sg"
+    }
+   ],
+   "question": "What eye and earring features distinguish the visualized deity?",
+   "premises": [
+    "The deity has lotus-like eyes.",
+    "He wears shining jewels.",
+    "His earrings are shaped like crocodiles."
+   ],
+   "inference": "The deity is lotus-eyed and adorned with shining jewels and crocodile-shaped earrings.",
+   "uncertainties": [],
+   "plain_english": "He is lotus-eyed, adorned with shining jewels and crocodile-shaped earrings."
+  },
+  {
+   "verse": 10946,
+   "rows": [
+    {
+     "surface": "ati+adbhuta+unnāsikam",
+     "gloss": "very-wonderful-raised-nose-with",
+     "grounds": "describes the nose",
+     "morph": "compound: ati+adbhuta+unnāsika; m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects features",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakva+bimba+phala+adharam",
+     "gloss": "ripe-bimba-fruit-lip-with",
+     "grounds": "describes the lips",
+     "morph": "compound: pakva+bimba+phala+adhara; m.acc.sg"
+    }
+   ],
+   "question": "How are the nose and lips of the deity described in this visualization?",
+   "premises": [
+    "The deity has a very wonderful raised nose.",
+    "His lips resemble a ripe bimba fruit.",
+    "Both features are part of the visualization."
+   ],
+   "inference": "The deity is visualized with a wonderfully raised nose and lips like a ripe bimba fruit.",
+   "uncertainties": [],
+   "plain_english": "He has a very wonderful raised nose and lips like a ripe bimba fruit."
+  },
+  {
+   "verse": 10947,
+   "rows": [
+    {
+     "surface": "āraṇyaiḥ",
+     "gloss": "with-forest",
+     "grounds": "describes materials",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pallavaiḥ",
+     "gloss": "with-sprouts",
+     "grounds": "materials of adornment",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "materials of adornment",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kṛta+graiveya+sampadam",
+     "gloss": "made-necklace-splendor-with",
+     "grounds": "describes adornment",
+     "morph": "compound: kṛta+graiveya+sampad; m.acc.sg"
+    }
+   ],
+   "question": "What natural materials form the splendor of the deity's necklace?",
+   "premises": [
+    "The deity wears a necklace.",
+    "The necklace is made of forest sprouts.",
+    "The necklace is made of forest flowers."
+   ],
+   "inference": "The deity's necklace is splendidly made of forest sprouts and flowers.",
+   "uncertainties": [],
+   "plain_english": "He has the splendor of a necklace made of forest sprouts and flowers."
+  },
+  {
+   "verse": 10948,
+   "rows": [
+    {
+     "surface": "śrīvatsa+aṅka+aṅkita+uraskam",
+     "gloss": "Śrīvatsa-mark-marked-chest-with",
+     "grounds": "describes the chest",
+     "morph": "compound: śrīvatsa+aṅka+aṅkita+uras; m.acc.sg"
+    },
+    {
+     "surface": "vṛṣa+skandham",
+     "gloss": "bull-shouldered",
+     "grounds": "describes the shoulders",
+     "morph": "compound: vṛṣa+skandha; m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects features",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hāriṇam",
+     "gloss": "charming",
+     "grounds": "overall quality",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What chest and shoulder marks characterize the charming deity?",
+   "premises": [
+    "The deity's chest is marked with the Śrīvatsa mark.",
+    "He has shoulders like a bull.",
+    "He is charming in appearance."
+   ],
+   "inference": "The charming deity has a chest marked with Śrīvatsa and bull-like shoulders.",
+   "uncertainties": [],
+   "plain_english": "He is charming, with a chest marked by the Śrīvatsa mark and shoulders like a bull."
+  },
+  {
+   "verse": 10949,
+   "rows": [
+    {
+     "surface": "kṣudra+ghaṇṭikayā",
+     "gloss": "with-small-bell",
+     "grounds": "ornament at the waist",
+     "morph": "compound: kṣudra+ghaṇṭikā; f.inst.sg"
+    },
+    {
+     "surface": "baddha+kaṭim",
+     "gloss": "bound-waist-with",
+     "grounds": "describes the waist",
+     "morph": "compound: baddha+kaṭi; m.acc.sg"
+    },
+    {
+     "surface": "graiveya+rājitam",
+     "gloss": "with-necklace-adorned",
+     "grounds": "describes adornment",
+     "morph": "compound: graiveya+rājita; m.acc.sg"
+    }
+   ],
+   "question": "What ornaments adorn the waist and body of the visualized deity?",
+   "premises": [
+    "The deity's waist is bound with a small bell.",
+    "He is adorned with a necklace.",
+    "These ornaments complete the visualization."
+   ],
+   "inference": "The deity is visualized with a waist bound by a small bell and adorned with a necklace.",
+   "uncertainties": [],
+   "plain_english": "His waist is bound with a small bell, and he is adorned with a necklace."
+  }
+ ]
+}

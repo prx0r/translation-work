@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "chatraṃ",
+     "gloss": "umbrella",
+     "grounds": "object to be prepared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃpādayet",
+     "gloss": "should-make",
+     "grounds": "injunctive instruction to the worshipper",
+     "morph": "3.sg.opt.act √saṃ-pad"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise-one",
+     "grounds": "qualified agent performing the action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktā+jāla+vibhūṣitam",
+     "gloss": "pearl-net-adorned",
+     "grounds": "describes the umbrella; compound with internal sandhi",
+     "morph": "n.acc.sg (compound: muktā-jāla+vibhūṣita)"
+    }
+   ],
+   "question": "What kind of umbrella should a wise worshipper prepare for the ritual?",
+   "premises": [
+    "A wise person should prepare an umbrella.",
+    "The umbrella must be adorned with a net of pearls."
+   ],
+   "inference": "Ritual preparation requires a wise worshipper to make a pearl-net-adorned umbrella.",
+   "uncertainties": [],
+   "plain_english": "The wise one should prepare an umbrella adorned with a net of pearls."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces the next instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajñīya+vṛkṣeṇa",
+     "gloss": "with-sacrificial-tree",
+     "grounds": "material or instrument for making the vessel; compound",
+     "morph": "m.inst.sg (compound: yajñīya+vṛkṣa)"
+    },
+    {
+     "surface": "mṛdā",
+     "gloss": "with-clay",
+     "grounds": "material for making the vessel",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-cause-make",
+     "grounds": "injunctive instruction to have the vessel made",
+     "morph": "3.sg.opt.caus.act √kṛ"
+    }
+   ],
+   "question": "From what materials should the ritual vessel be made?",
+   "premises": [
+    "A vessel is to be made for the ritual.",
+    "The vessel should be made using wood from a sacrificial tree and clay."
+   ],
+   "inference": "The ritual vessel must be fashioned from sacrificial tree wood and clay.",
+   "uncertainties": [
+    "Whether yajñīya+vṛkṣeṇa and mṛdā indicate combined materials or alternative materials is not explicit."
+   ],
+   "plain_english": "Then one should have a vessel made from wood of a sacrificial tree and from clay."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "vijane",
+     "gloss": "in-secluded-place",
+     "grounds": "possible location for worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sva+gṛhe",
+     "gloss": "in-own-house",
+     "grounds": "alternative location for worship; compound",
+     "morph": "n.loc.sg (compound: sva+gṛha)"
+    },
+    {
+     "surface": "vā'pi",
+     "gloss": "or-even",
+     "grounds": "indicates alternative; fused form with sandhi marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajed",
+     "gloss": "should-worship",
+     "grounds": "injunctive instruction for worship",
+     "morph": "3.sg.opt.act √yaj"
+    },
+    {
+     "surface": "ekāgra+mānasaḥ",
+     "gloss": "one-pointed-minded",
+     "grounds": "mental qualification of the worshipper; compound",
+     "morph": "m.nom.sg (compound: ekāgra+mānasa)"
+    }
+   ],
+   "question": "Where and with what mental state should worship be performed?",
+   "premises": [
+    "Worship may be performed in a secluded place or in one's own house.",
+    "The worshipper must have a one-pointed mind."
+   ],
+   "inference": "Worship is valid in seclusion or at home when performed with single-pointed concentration.",
+   "uncertainties": [],
+   "plain_english": "One should worship in a secluded place or even in one's own house with a one-pointed mind."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "droṇa+puṣpa+sahasrair",
+     "gloss": "with-thousand-droṇa-flowers",
+     "grounds": "first option for offering quantity and type; compound",
+     "morph": "n.inst.pl (compound: droṇa-puṣpa+sahasra)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpair",
+     "gloss": "with-flowers",
+     "grounds": "general alternative offering",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arka+saṃbhavaiḥ",
+     "gloss": "arka-born",
+     "grounds": "flowers originating from the arka plant; compound",
+     "morph": "n.inst.pl (compound: arka+saṃbhava)"
+    }
+   ],
+   "question": "What kinds and quantities of flowers may be used for worship?",
+   "premises": [
+    "Worship may be performed with a thousand droṇa flowers.",
+    "Alternatively, other flowers or flowers born from the arka plant may be used."
+   ],
+   "inference": "Multiple flower options, including droṇa, arka, or other flowers, are acceptable for worship.",
+   "uncertainties": [
+    "Whether the thousand-count applies only to droṇa flowers or also to the alternatives is not explicit."
+   ],
+   "plain_english": "One may worship with a thousand droṇa flowers, or with other flowers, or with flowers born from the arka plant."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "śatam+aṣṭa+uttaraṃ",
+     "gloss": "hundred-eight-more",
+     "grounds": "specified count of offerings; compound",
+     "morph": "n.acc.sg (compound: śata+aṣṭa+uttara)"
+    },
+    {
+     "surface": "vā'pi",
+     "gloss": "or-even",
+     "grounds": "marks alternative; fused form with sandhi marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+aṣṭāviṃśati+saṃkhyayā",
+     "gloss": "and-twenty-eight-count",
+     "grounds": "alternative specified count; compound with initial conjunction",
+     "morph": "f.inst.sg (compound: ca+aṣṭāviṃśati+saṃkhyā)"
+    }
+   ],
+   "question": "What alternative numerical counts of offerings are permitted in worship?",
+   "premises": [
+    "An offering count of one hundred and eight is permitted.",
+    "Alternatively, a count of twenty-eight is permitted."
+   ],
+   "inference": "Worship may be performed with either one hundred and eight or twenty-eight offerings.",
+   "uncertainties": [
+    "The object being counted is implied from the previous verse but not restated."
+   ],
+   "plain_english": "One may offer one hundred and eight, or even twenty-eight in number."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "laukika+anya+kathā+lāpaṃ",
+     "gloss": "worldly-other-talk-conversation",
+     "grounds": "prohibited speech during worship; compound",
+     "morph": "m.acc.sg (compound: laukika-anya-kathā+lāpa)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "injunctive prohibition",
+     "morph": "3.sg.opt.act √vṛj"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "identifies the deity whose worshipper is addressed",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pūjakaḥ",
+     "gloss": "worshipper",
+     "grounds": "agent subject to the prohibition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of speech must the deity's worshipper avoid during worship?",
+   "premises": [
+    "The worshipper belongs to the speaking deity.",
+    "Worldly and other irrelevant conversation must be avoided."
+   ],
+   "inference": "A worshipper of the deity must refrain from worldly or irrelevant talk during worship.",
+   "uncertainties": [],
+   "plain_english": "My worshipper should avoid worldly and other irrelevant conversation."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "anya+pūjā+arha+puṣpāṇi",
+     "gloss": "other-worship-worthy-flowers",
+     "grounds": "flowers fit for worship of others; compound",
+     "morph": "n.acc.pl (compound: anya-pūjā-arha+puṣpa)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahyaṃ",
+     "gloss": "to-me",
+     "grounds": "recipient deity",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "should-offer",
+     "grounds": "injunctive instruction regarding offering",
+     "morph": "3.sg.opt.caus.act √ṛ"
+    }
+   ],
+   "question": "Which flowers are prohibited as offerings to the deity?",
+   "premises": [
+    "Some flowers are worthy for the worship of other deities.",
+    "Such flowers must not be offered to this deity."
+   ],
+   "inference": "Flowers designated for other deities' worship are not to be offered to this deity.",
+   "uncertainties": [],
+   "plain_english": "One should not offer to me flowers that are worthy for the worship of others."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "yācanā+labdha+puṣpāṇi",
+     "gloss": "begging-obtained-flowers",
+     "grounds": "flowers obtained by begging; compound",
+     "morph": "n.nom.pl (compound: yācanā-labdha+puṣpa)"
+    },
+    {
+     "surface": "aprāśastāni",
+     "gloss": "inauspicious",
+     "grounds": "evaluative judgment on such flowers",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mad+arcane",
+     "gloss": "in-my-worship",
+     "grounds": "context where they are inauspicious; compound with internal sandhi",
+     "morph": "n.loc.sg (compound: mad+arcana)"
+    }
+   ],
+   "question": "Why are flowers obtained by begging unsuitable for the deity's worship?",
+   "premises": [
+    "Flowers obtained by begging are inauspicious.",
+    "They are inauspicious specifically in the worship of this deity."
+   ],
+   "inference": "Begged flowers must be excluded from the deity's worship because they are inauspicious.",
+   "uncertainties": [],
+   "plain_english": "Flowers obtained by begging are inauspicious in my worship."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "dhūpa+dīpau",
+     "gloss": "incense-and-lamp",
+     "grounds": "offerings to be presented; compound dual",
+     "morph": "m.acc.du (compound: dhūpa+dīpa)"
+    },
+    {
+     "surface": "samarpya+atha",
+     "gloss": "having-offered-then",
+     "grounds": "prior action before the next step; fused form",
+     "morph": "gerund √sam-ṛ + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of delay",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilambet",
+     "gloss": "should-delay",
+     "grounds": "prohibited action after offering incense and lamp",
+     "morph": "3.sg.opt.act √vi-lamb"
+    },
+    {
+     "surface": "nivedane",
+     "gloss": "in-offering-food",
+     "grounds": "the next ritual act where delay is prohibited",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What timing rule governs the transition from incense and lamp to food offering?",
+   "premises": [
+    "Incense and lamp are to be offered first.",
+    "After offering them, one must not delay in making the food offering."
+   ],
+   "inference": "The food offering must follow immediately after the offering of incense and lamp.",
+   "uncertainties": [],
+   "plain_english": "Having offered incense and lamp, one should not delay in making the food offering."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "pañca+dravyāṇi",
+     "gloss": "five-substances",
+     "grounds": "materials to be prepared; compound",
+     "morph": "n.acc.pl (compound: pañca+dravya)"
+    },
+    {
+     "surface": "kalaśe",
+     "gloss": "in-pot",
+     "grounds": "vessel receiving the substances",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cūrṇayitvā",
+     "gloss": "having-powdered",
+     "grounds": "preparatory action before placing",
+     "morph": "gerund √cūrṇ"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "should-place",
+     "grounds": "injunctive instruction for placement",
+     "morph": "3.sg.opt.act √vi-ni-kṣip"
+    }
+   ],
+   "question": "How should the five substances be prepared and placed in the ritual pot?",
+   "premises": [
+    "Five substances are required for the ritual.",
+    "They must be powdered and placed in the pot."
+   ],
+   "inference": "The five substances should be powdered and then deposited in the pot.",
+   "uncertainties": [
+    "The specific identity of the five substances is not stated in this verse."
+   ],
+   "plain_english": "Having powdered the five substances, one should place them in the pot."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "candraṃ",
+     "gloss": "camphor",
+     "grounds": "substance to be placed; legacy hint suggests moon but ritual context indicates camphor/karpūra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kusumaṃ",
+     "gloss": "flower",
+     "grounds": "substance to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-even",
+     "grounds": "emphatic connective; fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādya+pātre",
+     "gloss": "in-foot-water-vessel",
+     "grounds": "vessel for foot-water offering; compound",
+     "morph": "n.loc.sg (compound: pādya+pātra)"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "should-place",
+     "grounds": "injunctive instruction for placement",
+     "morph": "3.sg.opt.act √vi-ni-kṣip"
+    }
+   ],
+   "question": "What substances must be placed in the vessel for foot-water offering?",
+   "premises": [
+    "Camphor and a flower are to be used.",
+    "They must be placed in the foot-water vessel."
+   ],
+   "inference": "The foot-water vessel should receive camphor and a flower.",
+   "uncertainties": [
+    "The term candraṃ may mean camphor in ritual context rather than moon."
+   ],
+   "plain_english": "One should place camphor and a flower in the vessel for foot-water."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandal",
+     "grounds": "substance to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "sacred-ash",
+     "grounds": "substance to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kusuma+marghya+pātre",
+     "gloss": "flower-in-arghya-vessel",
+     "grounds": "flower and the arghya vessel location; fused compound token",
+     "morph": "n.acc.sg + n.loc.sg (compound: kusuma + arghya+pātra)"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "should-place",
+     "grounds": "injunctive instruction for placement",
+     "morph": "3.sg.opt.act √vi-ni-kṣip"
+    }
+   ],
+   "question": "What substances must be placed in the arghya vessel during worship?",
+   "premises": [
+    "Sandal, sacred ash, and a flower are to be used.",
+    "These must be placed in the arghya vessel."
+   ],
+   "inference": "The arghya vessel should receive sandal, sacred ash, and a flower.",
+   "uncertainties": [
+    "The fused token kusuma+marghya+pātre combines an object and a location; analysis follows the fused form."
+   ],
+   "plain_english": "One should place sandal, sacred ash, and a flower in the arghya vessel."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "bhasma+candana+puṣpāṇi",
+     "gloss": "ash-sandal-flowers",
+     "grounds": "substances to be placed; compound",
+     "morph": "n.acc.pl (compound: bhasma-candana+puṣpa)"
+    },
+    {
+     "surface": "pātreṣu+anyeṣu",
+     "gloss": "in-other-vessels",
+     "grounds": "location for placement; fused compound token",
+     "morph": "n.loc.pl (compound: pātra+anya)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-place",
+     "grounds": "injunctive instruction for placement",
+     "morph": "3.sg.opt.act √ni-kṣip"
+    }
+   ],
+   "question": "Where should sacred ash, sandal, and flowers be placed besides the specified vessels?",
+   "premises": [
+    "Sacred ash, sandal, and flowers are required substances.",
+    "They should be placed in other vessels as well."
+   ],
+   "inference": "Sacred ash, sandal, and flowers must also be distributed into other vessels.",
+   "uncertainties": [],
+   "plain_english": "One should place sacred ash, sandal, and flowers in the other vessels."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "ānanda+pātre",
+     "gloss": "in-bliss-vessel",
+     "grounds": "designated vessel to be filled; compound",
+     "morph": "n.loc.sg (compound: ānanda+pātra)"
+    },
+    {
+     "surface": "śītaṃ",
+     "gloss": "cool",
+     "grounds": "quality of the water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "substance to fill the vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpūrayet",
+     "gloss": "should-fill",
+     "grounds": "injunctive instruction for filling",
+     "morph": "3.sg.opt.caus.act √ā-pṛ"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of ritual procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be used to fill the bliss vessel in the ritual?",
+   "premises": [
+    "There is a designated bliss vessel.",
+    "It should be filled with cool water."
+   ],
+   "inference": "The bliss vessel must be filled with cool water as part of the ritual.",
+   "uncertainties": [],
+   "plain_english": "Likewise, one should fill the bliss vessel with cool water."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "ekānte",
+     "gloss": "in-seclusion",
+     "grounds": "place for meditation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mīlita+akṣeṇa",
+     "gloss": "with-closed-eyes",
+     "grounds": "physical posture for meditation; compound",
+     "morph": "m.inst.sg (compound: mīlita+akṣa)"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "practice to be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "should-be-done",
+     "grounds": "injunctive obligation",
+     "morph": "n.nom.sg (gerundive)"
+    },
+    {
+     "surface": "vipaścitā",
+     "gloss": "by-wise-one",
+     "grounds": "qualified agent performing meditation",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How and where should a wise person perform meditation in this ritual context?",
+   "premises": [
+    "Meditation is to be performed by a wise person.",
+    "It must be done in seclusion with closed eyes."
+   ],
+   "inference": "A wise person should practice meditation in seclusion with eyes closed.",
+   "uncertainties": [],
+   "plain_english": "The wise one should perform meditation in seclusion with closed eyes."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "mano+dārḍhyena",
+     "gloss": "with-firmness-of-mind",
+     "grounds": "mental quality of the worshipper; compound",
+     "morph": "n.inst.sg (compound: manas+dārḍhya)"
+    },
+    {
+     "surface": "sampannaḥ",
+     "gloss": "endowed",
+     "grounds": "describes the worshipper's qualification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjayet+māṃ",
+     "gloss": "should-worship-me",
+     "grounds": "injunctive command with object; fused form",
+     "morph": "3.sg.opt.act √pūj + pron.acc.sg"
+    },
+    {
+     "surface": "dṛḍha+vrataḥ",
+     "gloss": "firm-vowed",
+     "grounds": "additional qualification of the worshipper; compound",
+     "morph": "m.nom.sg (compound: dṛḍha+vrata)"
+    }
+   ],
+   "question": "What inner qualities must characterize the worshipper who worships the deity?",
+   "premises": [
+    "The worshipper must be endowed with firmness of mind.",
+    "The worshipper must be firm in vows."
+   ],
+   "inference": "Only a worshipper with mental firmness and firm vows should worship the deity.",
+   "uncertainties": [],
+   "plain_english": "Endowed with firmness of mind and firm in vows, one should worship me."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "namaskāra+priyo",
+     "gloss": "salutation-loving",
+     "grounds": "describes the sun's preference; compound",
+     "morph": "m.nom.sg (compound: namaskāra+priya)"
+    },
+    {
+     "surface": "bhānuḥ",
+     "gloss": "sun",
+     "grounds": "subject who loves salutations",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive indicating relation to the deity",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "stotra+priyā",
+     "gloss": "hymn-loving",
+     "grounds": "describes the hosts' preference; compound",
+     "morph": "m.nom.pl (compound: stotra+priya)"
+    },
+    {
+     "surface": "gaṇāḥ",
+     "gloss": "hosts",
+     "grounds": "subjects who love hymns",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What forms of devotion are especially pleasing to the sun and the deity's hosts?",
+   "premises": [
+    "The sun is fond of salutations.",
+    "The deity's hosts are fond of hymns."
+   ],
+   "inference": "Salutations please the sun, while hymns please the deity's hosts.",
+   "uncertainties": [],
+   "plain_english": "The sun loves salutations, and my hosts love hymns."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "stotra+mātreṇa",
+     "gloss": "by-hymn-alone",
+     "grounds": "sufficient means of pleasing the deity; compound",
+     "morph": "n.inst.sg (compound: stotra+mātra)"
+    },
+    {
+     "surface": "saṃtuṣṭaḥ",
+     "gloss": "satisfied",
+     "grounds": "state of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu+aham",
+     "gloss": "indeed-I",
+     "grounds": "emphatic self-reference by the deity; fused form",
+     "morph": "(indecl.) + pron.nom.sg"
+    },
+    {
+     "surface": "iṣṭa+phala+pradaḥ",
+     "gloss": "desired-fruit-giver",
+     "grounds": "resulting role of the satisfied deity; compound",
+     "morph": "m.nom.sg (compound: iṣṭa-phala+prada)"
+    }
+   ],
+   "question": "What minimal act suffices to satisfy the deity and obtain desired results?",
+   "premises": [
+    "The deity is satisfied by hymn alone.",
+    "When satisfied, the deity grants the desired fruit."
+   ],
+   "inference": "Hymn alone is sufficient to satisfy the deity and secure the desired fruit.",
+   "uncertainties": [],
+   "plain_english": "I am satisfied by hymn alone and grant the desired fruit."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "dhyāna+anuguṇam",
+     "gloss": "according-to-meditation",
+     "grounds": "qualifies the other practice as conforming to meditation; compound",
+     "morph": "n.nom.sg (compound: dhyāna+anuguṇa)"
+    },
+    {
+     "surface": "eva+anyat",
+     "gloss": "indeed-other",
+     "grounds": "refers to another practice; fused form",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "mukhyaṃ",
+     "gloss": "principal",
+     "grounds": "status attributed to meditation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "the principal practice declared",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "is-declared",
+     "grounds": "authoritative statement of status",
+     "morph": "n.nom.sg (past participle) √pra-kīrt"
+    }
+   ],
+   "question": "What is the principal practice and how do other practices relate to it?",
+   "premises": [
+    "Meditation is declared to be the principal practice.",
+    "Other practices are to be in accordance with meditation."
+   ],
+   "inference": "Meditation is primary, and other practices derive their validity from conformity to it.",
+   "uncertainties": [
+    "The specific 'other' practice is not named in this verse."
+   ],
+   "plain_english": "Meditation is declared the principal practice, and any other practice should be in accordance with meditation."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "gandha+dravyeṇa",
+     "gloss": "with-fragrant-substance",
+     "grounds": "material to be mixed; compound",
+     "morph": "n.inst.sg (compound: gandha+dravya)"
+    },
+    {
+     "surface": "miśrau",
+     "gloss": "mixed-two",
+     "grounds": "state of two items after mixing",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "preparatory action before worship",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of worship",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "abhipūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive instruction for worship",
+     "morph": "3.sg.opt.act √abhi-pūj"
+    }
+   ],
+   "question": "How should fragrant substances be prepared before worshipping the deity?",
+   "premises": [
+    "Two items are to be mixed with a fragrant substance.",
+    "After mixing, the deity should be worshipped."
+   ],
+   "inference": "Worship should be performed after mixing two items with a fragrant substance.",
+   "uncertainties": [
+    "The identity of the two items to be mixed is not specified in this verse."
+   ],
+   "plain_english": "Having mixed the two with a fragrant substance, one should worship me."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "lavaṅga+tvak+jāṭāmāṃsyau",
+     "gloss": "clove-bark-spikenard",
+     "grounds": "listed fragrant substances; compound dual",
+     "morph": "f.acc.du (compound: lavaṅga-tvak+jāṭāmāṃsī)"
+    },
+    {
+     "surface": "takkolaṃ",
+     "gloss": "takkola",
+     "grounds": "listed fragrant substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṣṭham",
+     "gloss": "costus",
+     "grounds": "listed fragrant substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva+ca",
+     "gloss": "indeed-and",
+     "grounds": "emphatic connective; fused form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific fragrant substances are included in the prescribed worship materials?",
+   "premises": [
+    "Clove, bark, and spikenard are prescribed substances.",
+    "Takkola and costus are also prescribed substances."
+   ],
+   "inference": "The prescribed materials include clove, bark, spikenard, takkola, and costus.",
+   "uncertainties": [
+    "The exact botanical identification of takkola and tvak may vary in tradition."
+   ],
+   "plain_english": "Clove, bark, spikenard, takkola, and costus are to be used."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "devadāruṃ",
+     "gloss": "deodar",
+     "grounds": "listed fragrant substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gugguluṃ",
+     "gloss": "guggulu",
+     "grounds": "listed fragrant substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kauṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "listed fragrant substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṣpam",
+     "gloss": "flower",
+     "grounds": "listed offering material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva+ca",
+     "gloss": "indeed-and",
+     "grounds": "emphatic connective; fused form",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional substances complete the list of materials for worship?",
+   "premises": [
+    "Deodar, guggulu, and saffron are prescribed substances.",
+    "A flower is also included among the materials."
+   ],
+   "inference": "The list of worship materials further includes deodar, guggulu, saffron, and a flower.",
+   "uncertainties": [],
+   "plain_english": "Deodar, guggulu, saffron, and a flower are also to be used."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "sarva+dravyāṇi",
+     "gloss": "all-substances",
+     "grounds": "collective reference to previously listed materials; compound",
+     "morph": "n.acc.pl (compound: sarva+dravya)"
+    },
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "preparatory action before worship",
+     "morph": "gerund √ni-kṣip"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "injunctive instruction for worship",
+     "morph": "3.sg.opt.act √pūj"
+    },
+    {
+     "surface": "liṅga+rūpiṇam",
+     "gloss": "linga-formed",
+     "grounds": "form of the deity to be worshipped; compound",
+     "morph": "m.acc.sg (compound: liṅga+rūpin)"
+    }
+   ],
+   "question": "How should all the listed substances be used in worship of the linga-formed deity?",
+   "premises": [
+    "All the previously listed substances are to be gathered.",
+    "They must be placed and used to worship the deity in linga form."
+   ],
+   "inference": "After placing all the substances, one should worship the deity in the form of the linga.",
+   "uncertainties": [],
+   "plain_english": "Having placed all the substances, one should worship the deity in the form of the linga."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "ela+uśīraiḥ",
+     "gloss": "with-cardamom-vetiver",
+     "grounds": "substances available to a non-poor worshipper; compound",
+     "morph": "n.inst.pl (compound: elā+uśīra)"
+    },
+    {
+     "surface": "daridraḥ",
+     "gloss": "poor",
+     "grounds": "condition of the worshipper",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ced+na",
+     "gloss": "if-not",
+     "grounds": "conditional marker; fused form",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "kevala+jalaiḥ",
+     "gloss": "with-pure-water",
+     "grounds": "alternative offering for the poor; compound",
+     "morph": "n.inst.pl (compound: kevala+jala)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "injunctive instruction for worship",
+     "morph": "3.sg.opt.act √yaj"
+    }
+   ],
+   "question": "What concession is granted to a poor worshipper lacking cardamom and vetiver?",
+   "premises": [
+    "Cardamom and vetiver may be used if the worshipper is not poor.",
+    "A poor worshipper may worship with pure water alone."
+   ],
+   "inference": "If a worshipper is poor and lacks cardamom and vetiver, worship with pure water alone is sufficient.",
+   "uncertainties": [],
+   "plain_english": "If one is not poor, one may worship with cardamom and vetiver; if poor, one should worship with pure water alone."
+  }
+ ]
+}

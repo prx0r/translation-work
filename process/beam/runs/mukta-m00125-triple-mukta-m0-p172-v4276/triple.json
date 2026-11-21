@@ -1,0 +1,937 @@
+{
+ "song": "mukta-m0-p172:4276-4299",
+ "items": [
+  {
+   "verse": 4276,
+   "rows": [
+    {
+     "surface": "śrī",
+     "gloss": "prosperity",
+     "grounds": "desired benefit named at start of list",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāmasya",
+     "gloss": "for-one-desiring",
+     "grounds": "qualifies intended beneficiary",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "suvarṇottha",
+     "gloss": "gold-born",
+     "grounds": "compound: suvarṇa+uttha",
+     "morph": "compound"
+    },
+    {
+     "surface": "rājyakāmasya",
+     "gloss": "for-one-desiring-kingship",
+     "grounds": "compound: rājya+kāmasya",
+     "morph": "compound, m.gen.sg"
+    },
+    {
+     "surface": "rājatam",
+     "gloss": "silver-made",
+     "grounds": "material of liṅga implied from context",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which liṅga materials suit desires for prosperity and kingship?",
+   "premises": [
+    "A gold-born liṅga is associated with desire for prosperity",
+    "A silver liṅga is associated with desire for kingship"
+   ],
+   "inference": "Material choice of the liṅga corresponds to the specific desire sought",
+   "uncertainties": [
+    "The word liṅga is implied rather than explicitly stated in this verse"
+   ],
+   "plain_english": "For one desiring prosperity, a liṅga born of gold is prescribed; for one desiring kingship, a silver one."
+  },
+  {
+   "verse": 4277,
+   "rows": [
+    {
+     "surface": "utsāde",
+     "gloss": "for-uprooting",
+     "grounds": "purpose or context of use",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rītijaṃ",
+     "gloss": "brass-born",
+     "grounds": "compound: rīti+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "prescriptive statement",
+     "morph": "n.nom.sg, gerundive"
+    },
+    {
+     "surface": "trapujaṃ",
+     "gloss": "tin-born",
+     "grounds": "compound: trapu+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "putra vṛddhaye",
+     "gloss": "for-increase-of-sons",
+     "grounds": "compound: putra+vṛddhaye; written as two tokens in text but given as one token here",
+     "morph": "compound, f.dat.sg"
+    }
+   ],
+   "question": "Which liṅga materials serve uprooting and increase of offspring?",
+   "premises": [
+    "A brass-born liṅga is to be known for uprooting",
+    "A tin-born liṅga is for the increase of sons"
+   ],
+   "inference": "Different metals are prescribed for destructive and progenitive aims",
+   "uncertainties": [
+    "The exact sense of utsāda as uprooting or eradication depends on ritual context"
+   ],
+   "plain_english": "For uprooting, a liṅga made of brass should be known; for the increase of sons, one made of tin."
+  },
+  {
+   "verse": 4278,
+   "rows": [
+    {
+     "surface": "lohaliṃgaṃ",
+     "gloss": "iron-liṅga",
+     "grounds": "compound: loha+liṃgaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "scriptural declaration",
+     "morph": "n.nom.sg, past-participle"
+    },
+    {
+     "surface": "ratnaliṃga",
+     "gloss": "jewel-liṅga",
+     "grounds": "compound: ratna+liṅga",
+     "morph": "compound"
+    },
+    {
+     "surface": "mathocyate",
+     "gloss": "now-is-spoken",
+     "grounds": "sandhi fusion marked by context: atha+ucyate",
+     "morph": "3.sg.pass-present"
+    }
+   ],
+   "question": "How does the text transition from iron liṅgas to jewel liṅgas?",
+   "premises": [
+    "The iron liṅga has been declared",
+    "The jewel liṅga is now spoken of"
+   ],
+   "inference": "The teaching proceeds sequentially from metal liṅgas to gem liṅgas",
+   "uncertainties": [],
+   "plain_english": "The iron liṅga has been declared, and now the jewel liṅga is spoken of."
+  },
+  {
+   "verse": 4279,
+   "rows": [
+    {
+     "surface": "indra nīlamayālliṃgāt",
+     "gloss": "from-sapphire-made-liṅga",
+     "grounds": "compound with sandhi: indra+nīla+mayāt+liṅgāt",
+     "morph": "compound, n.abl.sg"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "qualifies desires",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kāmān",
+     "gloss": "desires",
+     "grounds": "objects attained",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samaśrute",
+     "gloss": "one-attains",
+     "grounds": "result of worship with this liṅga",
+     "morph": "3.sg.middle-present"
+    }
+   ],
+   "question": "What result follows from worship using a sapphire-made liṅga?",
+   "premises": [
+    "The liṅga is made of sapphire",
+    "All desires are attained from it"
+   ],
+   "inference": "A sapphire liṅga grants fulfillment of all desires",
+   "uncertainties": [],
+   "plain_english": "From a liṅga made of sapphire, one attains all desires."
+  },
+  {
+   "verse": 4280,
+   "rows": [
+    {
+     "surface": "vaḍūryād",
+     "gloss": "from-cat's-eye",
+     "grounds": "gem material source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vyādhināśaḥ",
+     "gloss": "destruction-of-disease",
+     "grounds": "compound: vyādhi+nāśaḥ",
+     "morph": "compound, m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "expresses result",
+     "morph": "3.sg.optative, √as"
+    },
+    {
+     "surface": "saubhāgyaṃ",
+     "gloss": "good-fortune",
+     "grounds": "benefit obtained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣparāgajān",
+     "gloss": "from-topaz-born",
+     "grounds": "compound: puṣparāga+jān; ablative sense in context",
+     "morph": "compound, n.abl.sg"
+    }
+   ],
+   "question": "What benefits arise from cat's-eye and topaz liṅgas respectively?",
+   "premises": [
+    "From cat's-eye comes destruction of disease",
+    "From a topaz-born liṅga comes good fortune"
+   ],
+   "inference": "Different gems yield distinct therapeutic and auspicious results",
+   "uncertainties": [
+    "The form puṣparāgajān is read with ablative force by context"
+   ],
+   "plain_english": "From cat's-eye there would be destruction of disease, and from a topaz-born liṅga, good fortune."
+  },
+  {
+   "verse": 4281,
+   "rows": [
+    {
+     "surface": "rājāvartamayālliṃgāt",
+     "gloss": "from-lapis-made-liṅga",
+     "grounds": "compound with sandhi: rājāvarta+mayāt+liṅgāt",
+     "morph": "compound, n.abl.sg"
+    },
+    {
+     "surface": "mahābhogaṃ",
+     "gloss": "great-enjoyment",
+     "grounds": "compound: mahā+bhogaṃ",
+     "morph": "compound, m.acc.sg"
+    },
+    {
+     "surface": "samaśrute",
+     "gloss": "one-attains",
+     "grounds": "result of worship",
+     "morph": "3.sg.middle-present"
+    }
+   ],
+   "question": "What attainment results from a liṅga made of rājāvarta gem?",
+   "premises": [
+    "The liṅga is made of rājāvarta",
+    "One attains great enjoyment from it"
+   ],
+   "inference": "A rājāvarta liṅga confers great enjoyment",
+   "uncertainties": [
+    "Identification of rājāvarta as lapis or another gem varies in sources"
+   ],
+   "plain_english": "From a liṅga made of rājāvarta, one attains great enjoyment."
+  },
+  {
+   "verse": 4282,
+   "rows": [
+    {
+     "surface": "śūlākṣa maṇijaṃ",
+     "gloss": "born-of-śūlākṣa-gem",
+     "grounds": "compound: śūlākṣa+maṇi+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "śatru kṣayāya",
+     "gloss": "for-destruction-of-enemies",
+     "grounds": "compound: śatru+kṣayāya",
+     "morph": "compound, m.dat.sg"
+    },
+    {
+     "surface": "pulakaṃ",
+     "gloss": "pulaka-gem-born",
+     "grounds": "gem name; liṅga implied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends same purpose",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which gem-born liṅgas are prescribed for destroying enemies?",
+   "premises": [
+    "A liṅga born of śūlākṣa gem is for destruction of enemies",
+    "A pulaka gem liṅga serves likewise"
+   ],
+   "inference": "Both śūlākṣa and pulaka gem liṅgas are used against enemies",
+   "uncertainties": [
+    "Exact identification of śūlākṣa and pulaka gems is uncertain"
+   ],
+   "plain_english": "A liṅga born of śūlākṣa gem is for the destruction of enemies, and likewise one of pulaka."
+  },
+  {
+   "verse": 4283,
+   "rows": [
+    {
+     "surface": "candrakāntaṃ",
+     "gloss": "moonstone",
+     "grounds": "gem material; liṅga implied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛtyujite",
+     "gloss": "for-conquering-death",
+     "grounds": "compound: mṛtyu+jite",
+     "morph": "compound, m.dat.sg"
+    },
+    {
+     "surface": "bhūtidaṃ",
+     "gloss": "giver-of-prosperity",
+     "grounds": "compound: bhūti+daṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "padmarāgajam",
+     "gloss": "ruby-born",
+     "grounds": "compound: padmarāga+jam",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "What purposes do moonstone and ruby liṅgas fulfill?",
+   "premises": [
+    "A moonstone liṅga is for conquering death",
+    "A ruby-born liṅga gives prosperity"
+   ],
+   "inference": "Moonstone and ruby liṅgas serve distinct protective and prospering aims",
+   "uncertainties": [],
+   "plain_english": "A moonstone liṅga is for conquering death, and a ruby-born one gives prosperity."
+  },
+  {
+   "verse": 4284,
+   "rows": [
+    {
+     "surface": "vaikrāntakaṃ",
+     "gloss": "vaikrānta-gem",
+     "grounds": "gem material; liṅga implied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahāvṛttaraktāyathaskāndajaṃ",
+     "gloss": "great-round-red-iron-skanda-born",
+     "grounds": "complex compound as given: mahā+vṛtta+rakta+āyatha+skānda+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "beneficial",
+     "grounds": "declares beneficial effect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What beneficial liṅga materials are named in this prescription?",
+   "premises": [
+    "A vaikrānta gem liṅga is beneficial",
+    "A liṅga of the described composite material is beneficial"
+   ],
+   "inference": "Both named materials are prescribed as beneficial for worship",
+   "uncertainties": [
+    "The internal analysis of mahāvṛttaraktāyathaskāndajaṃ is uncertain"
+   ],
+   "plain_english": "A vaikrānta gem liṅga is beneficial, and so is one made of the great, round, red, iron-related Skanda-born material."
+  },
+  {
+   "verse": 4285,
+   "rows": [
+    {
+     "surface": "guṇādaṣṭaphala",
+     "gloss": "eightfold-fruit-by-quality",
+     "grounds": "compound: guṇāt+aṣṭa+phala",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "scriptural statement",
+     "morph": "n.nom.sg, past-participle"
+    },
+    {
+     "surface": "parāsu",
+     "gloss": "in-other",
+     "grounds": "refers to remaining categories",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "maṇijātiṣu",
+     "gloss": "in-gem-kinds",
+     "grounds": "compound: maṇi+jātiṣu",
+     "morph": "compound, f.loc.pl"
+    }
+   ],
+   "question": "What fruit is declared for the remaining kinds of gems?",
+   "premises": [
+    "Other gem kinds are considered",
+    "An eightfold fruit by quality is declared for them"
+   ],
+   "inference": "Remaining gem liṅgas yield an eightfold result according to their quality",
+   "uncertainties": [
+    "The precise measure of eightfold fruit is not specified here"
+   ],
+   "plain_english": "In the other kinds of gems, an eightfold fruit according to quality is declared."
+  },
+  {
+   "verse": 4286,
+   "rows": [
+    {
+     "surface": "sāravad",
+     "gloss": "having-essence",
+     "grounds": "qualifies wood type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛkṣajaṃ",
+     "gloss": "tree-born",
+     "grounds": "compound: vṛkṣa+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "bhūtyai",
+     "gloss": "for-prosperity",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "kṣīradrumajamāyuṣe",
+     "gloss": "milk-tree-born-for-longevity",
+     "grounds": "compound: kṣīra+druma+jaṃ+āyuṣe",
+     "morph": "compound, n.nom.sg+n.dat.sg"
+    }
+   ],
+   "question": "Which wooden liṅgas promote prosperity and long life?",
+   "premises": [
+    "A liṅga from strong-essenced wood is for prosperity",
+    "A liṅga from a milk-tree is for longevity"
+   ],
+   "inference": "Different types of wood are chosen according to the desired benefit",
+   "uncertainties": [],
+   "plain_english": "A liṅga made from strong, substantial wood is for prosperity, and one from a milk-tree is for long life."
+  },
+  {
+   "verse": 4287,
+   "rows": [
+    {
+     "surface": "raktāhvacandanāśokaṃ",
+     "gloss": "red-called-sandal-aśoka",
+     "grounds": "compound listing woods: raktā+hva+candana+āśokaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "śiṃśupāśoka",
+     "gloss": "śiṃśupā-aśoka",
+     "grounds": "compound: śiṃśupā+āśoka",
+     "morph": "compound"
+    },
+    {
+     "surface": "bilvajam",
+     "gloss": "bilva-born",
+     "grounds": "compound: bilva+jaṃ",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "Which specific woods are named as suitable for liṅga making?",
+   "premises": [
+    "Red sandal and aśoka are named",
+    "Śiṃśupā, aśoka, and bilva-born materials are named"
+   ],
+   "inference": "The text enumerates specific auspicious woods for liṅgas",
+   "uncertainties": [
+    "The syntactic grouping of the listed woods is compressed"
+   ],
+   "plain_english": "Liṅgas may be made from red sandal, aśoka, śiṃśupā, aśoka, and bilva wood."
+  },
+  {
+   "verse": 4288,
+   "rows": [
+    {
+     "surface": "yadvā",
+     "gloss": "or-else",
+     "grounds": "introduces alternative rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhaka",
+     "gloss": "practitioner",
+     "grounds": "the ritual agent",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nakṣatra",
+     "gloss": "lunar-mansion",
+     "grounds": "astrological factor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vaśālliṃga",
+     "gloss": "by-power-liṅga",
+     "grounds": "compound with sandhi: vaśāt+liṃga",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dārujam",
+     "gloss": "wood-born",
+     "grounds": "compound: dāru+jaṃ",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "What alternative principle governs selection of a wooden liṅga?",
+   "premises": [
+    "An alternative rule is introduced",
+    "A wooden liṅga may be chosen according to the practitioner's lunar mansion"
+   ],
+   "inference": "Astrological correspondence can determine the appropriate wooden liṅga",
+   "uncertainties": [],
+   "plain_english": "Or else, a wooden liṅga may be chosen according to the practitioner's birth lunar mansion."
+  },
+  {
+   "verse": 4289,
+   "rows": [
+    {
+     "surface": "khadiraḥ",
+     "gloss": "khadira",
+     "grounds": "tree name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇakakubhau",
+     "gloss": "black-kakubha-pair",
+     "grounds": "compound: kṛṣṇa+kakubhau",
+     "morph": "compound, m.nom.du"
+    },
+    {
+     "surface": "śirīṣāśvatthakau",
+     "gloss": "śirīṣa-aśvattha-pair",
+     "grounds": "compound: śirīṣa+āśvatthakau",
+     "morph": "compound, m.nom.du"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "continues enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which trees begin the nakṣatra-correlated series for liṅgas?",
+   "premises": [
+    "Khadira is named first",
+    "Black kakubha, śirīṣa, and aśvattha follow in pairs"
+   ],
+   "inference": "The text begins listing trees correlated with lunar mansions",
+   "uncertainties": [
+    "The exact nakṣatra mapping for each tree is not stated in this verse"
+   ],
+   "plain_english": "Khadira, the two black kakubhas, and then śirīṣa and aśvattha are named."
+  },
+  {
+   "verse": 4290,
+   "rows": [
+    {
+     "surface": "ambaṣṭa",
+     "gloss": "ambaṣṭa",
+     "grounds": "tree name",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bilvārjuna",
+     "gloss": "bilva-arjuna",
+     "grounds": "compound: bilva+arjuna",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāśśālmalī",
+     "gloss": "kāśa-śālmalī",
+     "grounds": "compound: kāśa+śālmalī",
+     "morph": "compound, f.nom.sg"
+    },
+    {
+     "surface": "vakulastathā",
+     "gloss": "vakula-likewise",
+     "grounds": "sandhi fusion: vakulaḥ+tathā",
+     "morph": "m.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "Which additional trees continue the nakṣatra-correlated list?",
+   "premises": [
+    "Ambaṣṭa, bilva, and arjuna are named",
+    "Kāśa, śālmalī, and vakula are likewise named"
+   ],
+   "inference": "The enumeration of nakṣatra-associated trees continues",
+   "uncertainties": [],
+   "plain_english": "Ambaṣṭa, bilva, arjuna, kāśa, śālmalī, and likewise vakula are named."
+  },
+  {
+   "verse": 4291,
+   "rows": [
+    {
+     "surface": "āmrārkau",
+     "gloss": "mango-arka-pair",
+     "grounds": "compound: āmra+arkau",
+     "morph": "compound, m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadambaśca",
+     "gloss": "kadamba-and",
+     "grounds": "sandhi fusion: kadambaḥ+ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "vahni",
+     "gloss": "vahni-tree",
+     "grounds": "tree name in list",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nimbau",
+     "gloss": "nimba-pair",
+     "grounds": "tree name, dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "sandhi fusion: tathā+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which trees complete the enumerated nakṣatra-correlated series?",
+   "premises": [
+    "Mango and arka are named as a pair",
+    "Kadamba, vahni, and nimba are likewise included"
+   ],
+   "inference": "The list of trees for nakṣatra-based liṅgas is brought to completion",
+   "uncertainties": [
+    "The identity of vahni as a specific tree name is context-dependent"
+   ],
+   "plain_english": "Mango and arka, and kadamba, and vahni and nimba likewise are included."
+  },
+  {
+   "verse": 4292,
+   "rows": [
+    {
+     "surface": "ebhi-ṛkṣairabhiruddhaistarubhiśśāntikādikam",
+     "gloss": "with-these-mansion-linked-trees-peace-etc",
+     "grounds": "fused compound chain: ebhiḥ+ṛkṣaiḥ+abhiruddhaiḥ+tarubhiḥ+śāntika+ādikam",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "What ritual purposes are served by trees linked to lunar mansions?",
+   "premises": [
+    "Trees are linked with the respective lunar mansions",
+    "Such trees are used for peace and related rites"
+   ],
+   "inference": "Nakṣatra-correlated trees are prescribed for śāntika and similar rituals",
+   "uncertainties": [
+    "The full range of rites included by ādikam is unspecified"
+   ],
+   "plain_english": "With these trees connected to the lunar mansions, rites of peace and so forth are performed."
+  },
+  {
+   "verse": 4293,
+   "rows": [
+    {
+     "surface": "śvetārkamūlajaṃ",
+     "gloss": "white-arka-root-born",
+     "grounds": "compound: śveta+arka+mūla+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "ritual object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jayārthaṃ",
+     "gloss": "for-victory",
+     "grounds": "compound: jaya+artham",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "vijayārthinām",
+     "gloss": "for-those-seeking-victory",
+     "grounds": "compound: vijaya+arthinām",
+     "morph": "compound, m.gen.pl"
+    }
+   ],
+   "question": "Which liṅga material is prescribed for those seeking victory?",
+   "premises": [
+    "A liṅga born from the root of white arka is named",
+    "It is for those seeking victory"
+   ],
+   "inference": "A white arka root liṅga is used to attain victory",
+   "uncertainties": [],
+   "plain_english": "A liṅga made from the root of white arka is for victory, for those who seek victory."
+  },
+  {
+   "verse": 4294,
+   "rows": [
+    {
+     "surface": "saralaṃ",
+     "gloss": "sarala-wood",
+     "grounds": "tree material; liṅga implied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvakāmyārthaṃ",
+     "gloss": "for-all-desired-ends",
+     "grounds": "compound: sarva+kāmya+artham",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "khadiraṃ",
+     "gloss": "khadira-wood",
+     "grounds": "tree material; liṅga implied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "roganāśanam",
+     "gloss": "destroyer-of-disease",
+     "grounds": "compound: roga+nāśanam",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "What purposes are served by sarala and khadira liṅgas?",
+   "premises": [
+    "Sarala is for all desired ends",
+    "Khadira is for destroying disease"
+   ],
+   "inference": "Sarala and khadira woods are prescribed for broad and therapeutic aims",
+   "uncertainties": [],
+   "plain_english": "A sarala liṅga is for all desired ends, and a khadira liṅga destroys disease."
+  },
+  {
+   "verse": 4295,
+   "rows": [
+    {
+     "surface": "viśeṣāt",
+     "gloss": "especially",
+     "grounds": "emphasizes general applicability",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva varṇānāṃ",
+     "gloss": "for-all-classes",
+     "grounds": "compound: sarva+varṇānāṃ",
+     "morph": "compound, m.gen.pl"
+    },
+    {
+     "surface": "sarvakāmārtha",
+     "gloss": "all-desire-purpose",
+     "grounds": "compound: sarva+kāma+artha",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhanam",
+     "gloss": "means-of-accomplishment",
+     "grounds": "instrumental efficacy",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For whom and for what ends is this liṅga especially effective?",
+   "premises": [
+    "It is especially for all classes",
+    "It is a means for accomplishing all desired ends"
+   ],
+   "inference": "The prescribed liṅga is universally applicable for fulfilling all desires",
+   "uncertainties": [
+    "The specific liṅga referred to is carried over from the preceding verse"
+   ],
+   "plain_english": "Especially for all classes, it is a means for accomplishing all desired ends."
+  },
+  {
+   "verse": 4296,
+   "rows": [
+    {
+     "surface": "vaśyāyāśvatthajaṃ",
+     "gloss": "for-subjugation-aśvattha-born",
+     "grounds": "compound: vaśyāya+āśvattha+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "ritual object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ārogye",
+     "gloss": "for-health",
+     "grounds": "purpose",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "khādiraṃ",
+     "gloss": "khadira-made",
+     "grounds": "material; liṅga implied",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.optative, √bhū"
+    }
+   ],
+   "question": "Which wooden liṅgas are prescribed for subjugation and health?",
+   "premises": [
+    "An aśvattha-born liṅga is for subjugation",
+    "A khadira liṅga should be for health"
+   ],
+   "inference": "Aśvattha and khadira liṅgas serve subjugation and health respectively",
+   "uncertainties": [],
+   "plain_english": "An aśvattha-born liṅga is for subjugation, and a khadira one should be for health."
+  },
+  {
+   "verse": 4297,
+   "rows": [
+    {
+     "surface": "dārujaṃ",
+     "gloss": "wood-born",
+     "grounds": "compound: dāru+jaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "liṃgamākhyātaṃ",
+     "gloss": "liṅga-declared",
+     "grounds": "compound with sandhi: liṃgaṃ+ākhyātaṃ",
+     "morph": "compound, n.nom.sg"
+    },
+    {
+     "surface": "kṣaṇikaṃ",
+     "gloss": "temporary",
+     "grounds": "qualifies next liṅga type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṅgamucyate",
+     "gloss": "liṅga-is-spoken",
+     "grounds": "sandhi fusion: liṅgaṃ+ucyate",
+     "morph": "n.nom.sg + 3.sg.pass-present"
+    }
+   ],
+   "question": "How does the text shift from wooden to temporary liṅgas?",
+   "premises": [
+    "The wood-born liṅga has been declared",
+    "The temporary liṅga is now spoken of"
+   ],
+   "inference": "The exposition moves from permanent wooden liṅgas to temporary ones",
+   "uncertainties": [],
+   "plain_english": "The wood-born liṅga has been declared, and now the temporary liṅga is spoken of."
+  },
+  {
+   "verse": 4298,
+   "rows": [
+    {
+     "surface": "annamannādya kāmasya",
+     "gloss": "food-for-one-desiring-food",
+     "grounds": "compound: annam+annādya+kāmasya",
+     "morph": "compound, n.nom.sg+m.gen.sg"
+    },
+    {
+     "surface": "paiṣṭaṃ",
+     "gloss": "flour-made",
+     "grounds": "material of temporary liṅga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣṭi pradāyakam",
+     "gloss": "giver-of-nourishment",
+     "grounds": "compound: puṣṭi+pradāyakam",
+     "morph": "compound, n.nom.sg"
+    }
+   ],
+   "question": "What temporary liṅga benefits one who desires food and nourishment?",
+   "premises": [
+    "The seeker desires food and edible provisions",
+    "A flour-made liṅga gives nourishment"
+   ],
+   "inference": "A flour liṅga is prescribed for obtaining food and nourishment",
+   "uncertainties": [],
+   "plain_english": "For one desiring food and provisions, a liṅga made of flour gives nourishment."
+  },
+  {
+   "verse": 4299,
+   "rows": [
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "material used to form liṅga",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kalpitaṃ",
+     "gloss": "fashioned",
+     "grounds": "made or formed",
+     "morph": "n.nom.sg, past-participle"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "ritual object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hlāda",
+     "gloss": "joy",
+     "grounds": "benefit; part of compound context",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dṛdduḥkhināmapi",
+     "gloss": "even-for-very-suffering",
+     "grounds": "compound with sandhi: dṛdduḥkhinām+api",
+     "morph": "compound, m.gen.pl + (indecl.)"
+    }
+   ],
+   "question": "What benefit does a ghee-fashioned liṅga offer the deeply suffering?",
+   "premises": [
+    "A liṅga is fashioned with ghee",
+    "It brings joy even to those who are greatly suffering"
+   ],
+   "inference": "A ghee liṅga is prescribed to bring relief and joy to the afflicted",
+   "uncertainties": [
+    "The compound hlāda dṛdduḥkhināmapi is read as giving joy to the very suffering"
+   ],
+   "plain_english": "A liṅga fashioned from ghee brings joy even to those who are deeply suffering."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "sarvatrāpyanapekṣastu",
+     "gloss": "everywhere-also-without-dependence-but",
+     "grounds": "Fused sandhi form: sarvatra + api + anapekṣaḥ + tu; contrasts with sāpekṣaḥ in prior verse.",
+     "morph": "indecl.+indecl.+m.nom.sg+indecl."
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "every-day",
+     "grounds": "Indicates daily recurrence of the prescribed act.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "Emphatic or contrastive particle reinforcing the prescription.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "States injunction for the practice described.",
+     "morph": "3.sg.pass-pres (√vidh)"
+    }
+   ],
+   "question": "Can ritual observance be prescribed daily without dependence in every context?",
+   "premises": [
+    "The prior case was shown to involve dependence on an adopted liṅga.",
+    "A state without dependence is applicable in all contexts.",
+    "Daily performance is enjoined as the prescribed mode."
+   ],
+   "inference": "Therefore ritual observance is prescribed daily in all contexts without dependence.",
+   "uncertainties": [
+    "The exact scope of sarvatra in relation to specific ritual settings is not fully specified."
+   ],
+   "plain_english": "But in every case, without dependence, it is prescribed to be performed daily."
+  }
+ ]
+}

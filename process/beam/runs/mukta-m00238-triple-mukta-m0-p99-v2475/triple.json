@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2475,
+   "rows": [
+    {
+     "surface": "dānam",
+     "gloss": "gift",
+     "grounds": "token 1; dāna means gift",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaidhṛtaukanakaṃhitam",
+     "gloss": "vaidhṛti-gold-benefit",
+     "grounds": "token 2; legacy hint; fused compound form retained",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What gift is declared beneficial in vaidhṛti yoga with gold?",
+   "premises": [
+    "dānam means gift",
+    "vaidhṛtaukanakaṃhitam indicates vaidhṛti-gold-benefit",
+    "the verse states gift beneficial"
+   ],
+   "inference": "The verse identifies gift as beneficial in the vaidhṛti-gold context.",
+   "uncertainties": [
+    "compound segmentation uncertain; legacy hint only"
+   ],
+   "plain_english": "Giving is beneficial in vaidhṛti yoga with gold."
+  }
+ ]
+}

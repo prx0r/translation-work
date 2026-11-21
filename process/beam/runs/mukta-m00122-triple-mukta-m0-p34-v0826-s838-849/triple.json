@@ -1,0 +1,595 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral count of powers",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priyadarśanā",
+     "gloss": "pleasant-seeing",
+     "grounds": "compound adjective for the powers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "commentarial gloss marker",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the sixteenth power named pleasant-seeing?",
+   "premises": [
+    "sixteen powers are enumerated",
+    "the sixteenth is called pleasant-seeing",
+    "thus-meaning marks the gloss"
+   ],
+   "inference": "The verse identifies the sixteenth power as pleasant-seeing.",
+   "uncertainties": [
+    "exact ritual function of this power is not stated here"
+   ],
+   "plain_english": "The sixteenth power is called pleasant-seeing."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "caturthāvaraṇe",
+     "gloss": "fourth-enclosure",
+     "grounds": "locative of worship setting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "spatial relation to enclosure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśapatreṣu",
+     "gloss": "sixteen-petals",
+     "grounds": "locative plural of lotus petals",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūjyāḥ",
+     "gloss": "worshipable",
+     "grounds": "adjective for powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "object of worship",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "upadiśati",
+     "gloss": "indicates",
+     "grounds": "verb of instruction",
+     "morph": "3.sg.act-pres root upadiś"
+    }
+   ],
+   "question": "Where are the sixteen worshipable powers indicated to be worshipped?",
+   "premises": [
+    "the fourth enclosure is outside",
+    "sixteen petals are the locus",
+    "powers are worshipable there"
+   ],
+   "inference": "The sixteen powers are worshipped outside the fourth enclosure on sixteen petals.",
+   "uncertainties": [
+    "whether all sixteen are simultaneous is not specified"
+   ],
+   "plain_english": "Outside the fourth enclosure, on sixteen petals, the sixteen powers are to be worshipped."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "baṭukaṃ",
+     "gloss": "baṭuka",
+     "grounds": "accusative deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaṇapaṃ",
+     "gloss": "gaṇapa",
+     "grounds": "accusative deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "durgāṃ",
+     "gloss": "durgā",
+     "grounds": "accusative deity name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṣetreśaṃ",
+     "gloss": "field-lord",
+     "grounds": "accusative deity title",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhitas",
+     "gloss": "around",
+     "grounds": "spatial adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative ritual instruction",
+     "morph": "3.sg.act-opt root yaj"
+    }
+   ],
+   "question": "Which deities should be worshipped around the ritual field?",
+   "premises": [
+    "baṭuka is named",
+    "gaṇapa is named",
+    "durgā is named",
+    "field-lord is named",
+    "worship is instructed around"
+   ],
+   "inference": "Baṭuka, Gaṇapa, Durgā, and the field-lord are to be worshipped around.",
+   "uncertainties": [
+    "exact placement of each deity is not given"
+   ],
+   "plain_english": "One should worship Baṭuka, Gaṇapa, Durgā, and the field-lord around."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "tannāmabhiḥ",
+     "gloss": "their-names",
+     "grounds": "instrumental plural of names",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tebhyaḥ",
+     "gloss": "to-them",
+     "grounds": "dative plural recipients",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative of giving",
+     "morph": "3.sg.act-opt root dā"
+    },
+    {
+     "surface": "gandhādi",
+     "gloss": "sandal-etc",
+     "grounds": "compound of offerings",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "coditaiḥ",
+     "gloss": "instructed",
+     "grounds": "instrumental plural participle",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How should the offering be given to those deities?",
+   "premises": [
+    "offering is to be given",
+    "recipients are those deities",
+    "names and instructed items are used"
+   ],
+   "inference": "The offering should be given to them by their names with instructed items such as sandal.",
+   "uncertainties": [
+    "complete list of instructed items is not given"
+   ],
+   "plain_english": "One should give them the offering by their names, with instructed items such as sandal."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "prāguktaiḥ",
+     "gloss": "previously-said",
+     "grounds": "instrumental plural participle",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "upacārādyaiḥ",
+     "gloss": "services-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "homa",
+     "grounds": "accusative ritual fire offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of performing",
+     "morph": "3.sg.act-opt root kṛ"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done with the homa after the services?",
+   "premises": [
+    "previously said services are used",
+    "homa is the object",
+    "performance is instructed then"
+   ],
+   "inference": "One should perform the homa with the previously mentioned services and then proceed thus.",
+   "uncertainties": [
+    "exact sequence after homa is not detailed"
+   ],
+   "plain_english": "One should perform the homa with the previously mentioned services, then proceed thus."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "kākinīśākinīhākinī",
+     "gloss": "kākinī-śākinī-hākinī",
+     "grounds": "compound triad of powers",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktitrayam",
+     "gloss": "power-triad",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "should-worship",
+     "grounds": "optative of worship",
+     "morph": "3.sg.act-opt root arc"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closing marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which three powers are to be worshipped as a triad?",
+   "premises": [
+    "kākinī is named",
+    "śākinī is named",
+    "hākinī is named",
+    "power-triad is the object",
+    "worship is instructed"
+   ],
+   "inference": "Kākinī, Śākinī, and Hākinī are to be worshipped as a power-triad.",
+   "uncertainties": [
+    "their individual ritual roles are not specified"
+   ],
+   "plain_english": "One should worship the triad of powers Kākinī, Śākinī, and Hākinī."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "gandhādicoditaiḥ",
+     "gloss": "sandal-etc-instructed",
+     "grounds": "instrumental plural compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vakṣyamāṇaiḥ",
+     "gloss": "will-be-spoken",
+     "grounds": "future participle instrumental",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "substances",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains to be done with the instructed substances?",
+   "premises": [
+    "instructed substances are named",
+    "future-spoken items are included",
+    "remainder is the subject"
+   ],
+   "inference": "The remainder is to be handled with the instructed and forthcoming substances.",
+   "uncertainties": [
+    "exact remainder ritual is not specified"
+   ],
+   "plain_english": "The remainder is to be done with the instructed and forthcoming substances."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "annādyābhyāṃ",
+     "gloss": "food-etc",
+     "grounds": "instrumental dual compound",
+     "morph": "n.inst.du"
+    },
+    {
+     "surface": "prajuhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative of offering",
+     "morph": "3.sg.act-opt root hu"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "should-complete",
+     "grounds": "optative of completing",
+     "morph": "3.sg.act-opt root samāp"
+    }
+   ],
+   "question": "How is the ritual to be completed after the food offering?",
+   "premises": [
+    "food and related items are offered",
+    "then completion is instructed",
+    "completion is as before"
+   ],
+   "inference": "After offering food and related items, one should complete the ritual as before.",
+   "uncertainties": [
+    "which prior steps are repeated is not specified"
+   ],
+   "plain_english": "One should offer food and related items, then complete the ritual as before."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "mahācamatkārakarān",
+     "gloss": "great-wonder-doing",
+     "grounds": "accusative plural compound",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "trailokyakṣobhaṇakṣamān",
+     "gloss": "three-worlds-shaking-capable",
+     "grounds": "accusative plural compound",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What qualities are attributed to the arrows being described?",
+   "premises": [
+    "great wonder doing is attributed",
+    "three worlds shaking capable is attributed",
+    "arrows are the implied object"
+   ],
+   "inference": "The arrows are described as great wonder-doing and capable of shaking the three worlds.",
+   "uncertainties": [
+    "the arrows are not explicitly named in this verse"
+   ],
+   "plain_english": "They are great wonder-doing and capable of shaking the three worlds."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "sasarja",
+     "gloss": "created",
+     "grounds": "perfect verb of creation",
+     "morph": "3.sg.act-perf root sṛj"
+    },
+    {
+     "surface": "bāṇān",
+     "gloss": "arrows",
+     "grounds": "accusative plural object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "uktān",
+     "gloss": "said",
+     "grounds": "accusative plural participle",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trividhān",
+     "gloss": "three-kinds",
+     "grounds": "accusative plural adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prāgudīritān",
+     "gloss": "previously-spoken",
+     "grounds": "accusative plural participle",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What was created among the previously spoken arrows?",
+   "premises": [
+    "creation verb is used",
+    "arrows are the object",
+    "three kinds are specified",
+    "previously spoken arrows are referenced"
+   ],
+   "inference": "Three kinds of previously spoken arrows were created.",
+   "uncertainties": [
+    "the three kinds are not enumerated here"
+   ],
+   "plain_english": "He created three kinds of arrows that had been previously spoken."
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "comparative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripaṅktikasya",
+     "gloss": "three-rows",
+     "grounds": "genitive singular compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāthanavakasya",
+     "gloss": "lord-nine",
+     "grounds": "genitive singular compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of performing",
+     "morph": "3.sg.act-opt root kṛ"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "commentarial gloss marker",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What worship should be performed as before?",
+   "premises": [
+    "as-before indicates repetition",
+    "three-rows is referenced",
+    "lord-nine is referenced",
+    "worship is the object",
+    "performance is instructed"
+   ],
+   "inference": "One should perform the worship of the three-rowed nine-lord arrangement as before.",
+   "uncertainties": [
+    "exact arrangement of the nine lords is not specified"
+   ],
+   "plain_english": "One should perform the worship of the three-rowed nine-lord arrangement as before."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "prāgudīritān",
+     "gloss": "previously-spoken",
+     "grounds": "accusative plural participle",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pañcame",
+     "gloss": "fifth",
+     "grounds": "locative ordinal",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paṭale",
+     "gloss": "chapter",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāṇāḥ",
+     "gloss": "arrows",
+     "grounds": "nominative plural subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative of being",
+     "morph": "3.pl.act-opt root as"
+    },
+    {
+     "surface": "ityādibhiḥ",
+     "gloss": "etc",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "proktān",
+     "gloss": "said",
+     "grounds": "accusative plural participle",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Where are the previously spoken arrows said to be?",
+   "premises": [
+    "previously spoken arrows are referenced",
+    "fifth chapter is the locus",
+    "arrows may be there",
+    "etcetera extends the statement"
+   ],
+   "inference": "The previously spoken arrows are said to be in the fifth chapter and related passages.",
+   "uncertainties": [
+    "the exact chapter contents are not enumerated"
+   ],
+   "plain_english": "The previously spoken arrows are said to be in the fifth chapter and so on."
+  }
+ ]
+}

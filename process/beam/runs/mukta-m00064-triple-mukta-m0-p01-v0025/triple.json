@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "guru+mūlam+idaṃ",
+     "gloss": "guru-rooted-this",
+     "grounds": "bahuvrihi compound guru+mūla with demonstrative idam",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "śāstraṃ",
+     "gloss": "scripture",
+     "grounds": "subject of first clause",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guru+mūlam+idaṃ",
+     "gloss": "guru-rooted-this",
+     "grounds": "bahuvrihi compound guru+mūla with demonstrative idam",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "subject of second clause",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In what way do both this scripture and this world share the guru as their root?",
+   "premises": [
+    "This scripture is described as rooted in the guru.",
+    "This world is described as rooted in the guru.",
+    "The same root is attributed to both scripture and world."
+   ],
+   "inference": "Therefore, the guru is the common foundational root of both scripture and world.",
+   "uncertainties": [],
+   "plain_english": "This scripture has the guru as its root; this world has the guru as its root."
+  }
+ ]
+}

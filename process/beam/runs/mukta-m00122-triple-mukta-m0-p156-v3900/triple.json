@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p156",
+ "items": [
+  {
+   "verse": 3900,
+   "rows": [
+    {
+     "surface": "vihāya",
+     "gloss": "having-abandoned",
+     "grounds": "gerund of vi-hā; introduces abandonment of straightness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛjutāṃ",
+     "gloss": "straightness",
+     "grounds": "accusative object of vihāya",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "main verb of the clause",
+     "morph": "verb 3.sg.act-pres root yā"
+    },
+    {
+     "surface": "svecchādaṇḍāhatā",
+     "gloss": "by-own-will-staff-struck",
+     "grounds": "compound adjective modifying satī; struck by staff of own will",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satī",
+     "gloss": "being",
+     "grounds": "present participle of as; subject of yāti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What becomes of a being who abandons straightness when struck by own-will staff?",
+   "premises": [
+    "straightness is abandoned by the being",
+    "own-will staff strikes the being",
+    "the being goes after abandonment"
+   ],
+   "inference": "abandoning straightness under self-will causes the being to go",
+   "uncertainties": [
+    "exact doctrinal referent of own-will staff remains unclear"
+   ],
+   "plain_english": "Having abandoned straightness, being struck by the staff of her own will, she goes."
+  }
+ ]
+}

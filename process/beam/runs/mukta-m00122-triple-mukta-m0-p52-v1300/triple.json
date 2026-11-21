@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "nirviṣo",
+     "gloss": "poison-free",
+     "grounds": "compound nir+viṣa; adjective describing the resulting mantra powers",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "middle voice present of root jan",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "acintyā",
+     "gloss": "inconceivable",
+     "grounds": "negative of cintyā; adjective agreeing with śaktayaḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mantrāṇāṃ",
+     "gloss": "of-mantras",
+     "grounds": "genitive plural of mantra",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural subject of jāyate",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śiva",
+     "grounds": "vocative address to Śiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How do mantra powers become poison-free and inconceivable for Śiva?",
+   "premises": [
+    "mantra powers become poison-free",
+    "mantra powers become inconceivable",
+    "the address is to Śiva"
+   ],
+   "inference": "The verse states that mantra powers become inconceivable and poison-free in relation to Śiva.",
+   "uncertainties": [
+    "the exact syntactic role of nirviṣo remains slightly unclear"
+   ],
+   "plain_english": "O Śiva, the powers of mantras become inconceivable and poison-free."
+  }
+ ]
+}

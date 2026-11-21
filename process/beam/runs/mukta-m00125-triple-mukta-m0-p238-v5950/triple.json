@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p238",
+ "items": [
+  {
+   "verse": 5950,
+   "rows": [
+    {
+     "surface": "naivedyādyaṃ",
+     "gloss": "food-offering-and-so-forth",
+     "grounds": "compound beginning with naivedya; object of offering implied by ritual context",
+     "morph": "compound naivedya-ādi, n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjānte",
+     "gloss": "at-worship-end",
+     "grounds": "locative indicating the concluding phase of worship",
+     "morph": "compound pūjā-anta, m.loc.sg"
+    },
+    {
+     "surface": "caṇḍeśasya",
+     "gloss": "of-caṇḍeśa",
+     "grounds": "denotes the recipient deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "arcakottamāḥ",
+     "gloss": "best-priests",
+     "grounds": "addressed agents responsible for the ritual act",
+     "morph": "compound arcaka-uttama, m.voc.pl"
+    }
+   ],
+   "question": "What offerings are due to Caṇḍeśa at the conclusion of worship by the best priests?",
+   "premises": [
+    "The worship sequence includes a concluding phase.",
+    "Food offerings and related items are designated for that concluding phase.",
+    "The best priests are the agents responsible for presenting offerings to Caṇḍeśa."
+   ],
+   "inference": "Therefore the best priests must present the food offering and related items to Caṇḍeśa at the end of worship.",
+   "uncertainties": [
+    "The specific items included under naivedyādyaṃ beyond food offering are not enumerated in this verse."
+   ],
+   "plain_english": "O best priests, at the end of the worship present the food offering and so forth to Caṇḍeśa."
+  }
+ ]
+}

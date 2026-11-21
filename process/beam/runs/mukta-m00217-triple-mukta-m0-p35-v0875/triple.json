@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "bhūpradeśe",
+     "gloss": "on-ground-spot",
+     "grounds": "locative of bhūpradeśa, indicating the place on the earth",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "same",
+     "gloss": "level",
+     "grounds": "locative of sama, qualifying the ground as even",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cāḍhye",
+     "gloss": "and-elevated",
+     "grounds": "fused form of ca and āḍhye, indicating an elevated place as alternative or additional quality",
+     "morph": "indecl.+m.loc.sg"
+    },
+    {
+     "surface": "sindūrarajasā",
+     "gloss": "with-vermilion-powder",
+     "grounds": "instrumental of sindūrarajas, specifying the drawing substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "indeclinable particle presenting an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "On what kind of ground and with what substance may the Śrīcakra be drawn?",
+   "premises": [
+    "The drawing place may be a level spot on the ground.",
+    "The drawing place may alternatively be an elevated spot on the ground.",
+    "Vermilion powder is specified as the substance for drawing."
+   ],
+   "inference": "The Śrīcakra may be drawn with vermilion powder on a level or elevated ground spot.",
+   "uncertainties": [
+    "The exact syntactic role of cāḍhye as an alternative to same or as an additional qualification is slightly ambiguous."
+   ],
+   "plain_english": "On a level or elevated spot on the ground, it may be drawn with vermilion powder, or alternatively."
+  }
+ ]
+}

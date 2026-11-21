@@ -1,0 +1,1233 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1726,
+   "rows": [
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-parts",
+     "grounds": "measure in parts",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "wide",
+     "grounds": "width dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvi",
+     "gloss": "two",
+     "grounds": "numeral element in compound",
+     "morph": "compound=two+first"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-parts",
+     "grounds": "measure in parts",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "adhika",
+     "gloss": "greater",
+     "grounds": "additional measure",
+     "morph": "compound=greater+first"
+    },
+    {
+     "surface": "āyatam",
+     "gloss": "long",
+     "grounds": "length dimension",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional width and length define the prescribed pavilion measure?",
+   "premises": [
+    "The width measures ten parts",
+    "The length exceeds width by two parts",
+    "Both dimensions use the same part unit"
+   ],
+   "inference": "The pavilion is prescribed as ten parts wide and twelve parts long.",
+   "uncertainties": [
+    "The exact unit denoted by bhakti is not specified in this verse"
+   ],
+   "plain_english": "It should be ten parts wide, but two parts longer in length."
+  },
+  {
+   "verse": 1727,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "surrounding position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lindam",
+     "gloss": "portico",
+     "grounds": "surrounding veranda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśam",
+     "gloss": "one-part",
+     "grounds": "measure of portico",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapāt",
+     "gloss": "from-pavilion",
+     "grounds": "reference structure",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dvyaṃśa",
+     "gloss": "two-part",
+     "grounds": "outer measure",
+     "morph": "compound=two-part+first"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "outside",
+     "grounds": "external position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the surrounding portico and outer extent proportioned relative to the pavilion?",
+   "premises": [
+    "A portico surrounds on all sides",
+    "The portico measures one part",
+    "The outer extent from the pavilion measures two parts"
+   ],
+   "inference": "The pavilion is surrounded by a one-part portico with a two-part outer extent.",
+   "uncertainties": [],
+   "plain_english": "All around there is a one-part portico, extending two parts outward from the pavilion."
+  },
+  {
+   "verse": 1728,
+   "rows": [
+    {
+     "surface": "iṣṭa",
+     "gloss": "desired",
+     "grounds": "chosen direction",
+     "morph": "compound=desired+first"
+    },
+    {
+     "surface": "dig",
+     "gloss": "direction",
+     "grounds": "cardinal orientation",
+     "morph": "compound=direction+first"
+    },
+    {
+     "surface": "bhadra",
+     "gloss": "projection",
+     "grounds": "auspicious front projection",
+     "morph": "compound=projection+first"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined-with",
+     "grounds": "provided with projection",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "ordinal type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "structure type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act.optative √bhū"
+    }
+   ],
+   "question": "What feature distinguishes the eighth pavilion type in this classification?",
+   "premises": [
+    "The pavilion is joined with a projection",
+    "The projection is placed in a desired direction",
+    "This configuration defines a specific type"
+   ],
+   "inference": "A pavilion joined with a projection in the desired direction is the eighth type.",
+   "uncertainties": [],
+   "plain_english": "Joined with a projection in the desired direction, it should be the eighth pavilion."
+  },
+  {
+   "verse": 1729,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "all-around",
+     "grounds": "surrounding position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lindam",
+     "gloss": "portico",
+     "grounds": "surrounding veranda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśam",
+     "gloss": "one-part",
+     "grounds": "measure of portico",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "reference structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃśa",
+     "gloss": "two-part",
+     "grounds": "outer measure",
+     "morph": "compound=two-part+first"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "outside",
+     "grounds": "external position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What surrounding portico and outer proportions are specified for this pavilion arrangement?",
+   "premises": [
+    "A portico surrounds on all sides",
+    "The portico measures one part",
+    "The outer extent measures two parts"
+   ],
+   "inference": "This arrangement has a one-part surrounding portico and a two-part outer extent.",
+   "uncertainties": [
+    "The syntactic role of maṇṭapaṃ is compressed in this verse"
+   ],
+   "plain_english": "All around there is a one-part portico, with a two-part extent outside the pavilion."
+  },
+  {
+   "verse": 1730,
+   "rows": [
+    {
+     "surface": "ādityāṃśa",
+     "gloss": "twelve-part",
+     "grounds": "width divided into twelve parts",
+     "morph": "compound=twelve-part+first"
+    },
+    {
+     "surface": "viśāle",
+     "gloss": "in-width",
+     "grounds": "width dimension",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāga",
+     "gloss": "two-part",
+     "grounds": "additional measure",
+     "morph": "compound=two-part+first"
+    },
+    {
+     "surface": "adhika",
+     "gloss": "greater",
+     "grounds": "excess measure",
+     "morph": "compound=greater+first"
+    },
+    {
+     "surface": "āyatam",
+     "gloss": "long",
+     "grounds": "length dimension",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed when the pavilion width is divided into twelve parts?",
+   "premises": [
+    "The width is set at twelve parts",
+    "The length exceeds the width",
+    "The excess is two parts"
+   ],
+   "inference": "A pavilion twelve parts wide should be fourteen parts long.",
+   "uncertainties": [],
+   "plain_english": "When the width is twelve parts, the length should be two parts greater."
+  },
+  {
+   "verse": 1731,
+   "rows": [
+    {
+     "surface": "bāhyake",
+     "gloss": "on-outer",
+     "grounds": "external area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lindam",
+     "gloss": "portico",
+     "grounds": "surrounding veranda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekāṃśam",
+     "gloss": "one-part",
+     "grounds": "measure of portico",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭape",
+     "gloss": "in-pavilion",
+     "grounds": "reference structure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvyaṃśa",
+     "gloss": "two-part",
+     "grounds": "outer measure",
+     "morph": "compound=two-part+first"
+    },
+    {
+     "surface": "bāhyake",
+     "gloss": "on-outer",
+     "grounds": "external position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How are the portico and outer divisions arranged in this pavilion configuration?",
+   "premises": [
+    "The portico measures one part",
+    "The outer division measures two parts",
+    "Both are located in the outer area"
+   ],
+   "inference": "The configuration includes a one-part portico and a two-part outer division.",
+   "uncertainties": [
+    "The repeated bāhyake may indicate distinct outer zones"
+   ],
+   "plain_english": "On the outside there is a one-part portico, and in the pavilion’s outer area a two-part division."
+  },
+  {
+   "verse": 1732,
+   "rows": [
+    {
+     "surface": "vistṛte",
+     "gloss": "when-extended",
+     "grounds": "expanded width condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagatyāṃśe",
+     "gloss": "in-platform-part",
+     "grounds": "width measured in platform parts",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "referent measure",
+     "morph": "compound=that+first"
+    },
+    {
+     "surface": "dvyaṃśa",
+     "gloss": "two-part",
+     "grounds": "additional measure",
+     "morph": "compound=two-part+first"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "greater",
+     "grounds": "excess measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māyatam",
+     "gloss": "long",
+     "grounds": "length dimension; fused form as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length adjustment applies when the width is measured in platform parts?",
+   "premises": [
+    "The width is extended in platform parts",
+    "The length is increased relative to that width",
+    "The increase is two parts"
+   ],
+   "inference": "When measured in platform parts, the length should be two parts greater than the width.",
+   "uncertainties": [
+    "The exact value of jagatyāṃśe is not stated in this verse"
+   ],
+   "plain_english": "When the width is extended in platform parts, the length should be two parts greater."
+  },
+  {
+   "verse": 1733,
+   "rows": [
+    {
+     "surface": "maṇṭape",
+     "gloss": "in-pavilion",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "deictic reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimānaṃ",
+     "gloss": "shrine",
+     "grounds": "central structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tad",
+     "gloss": "its",
+     "grounds": "referent pavilion",
+     "morph": "compound=its+first"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "external area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lindabhāgayā",
+     "gloss": "with-portico-part",
+     "grounds": "portico division",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How are the shrine and portico portion positioned within this pavilion layout?",
+   "premises": [
+    "A shrine is placed in the pavilion",
+    "The outside area is defined by a portico portion",
+    "The layout relates inner and outer divisions"
+   ],
+   "inference": "The pavilion contains a shrine here, with a portico portion on its outside.",
+   "uncertainties": [
+    "The precise spatial relation indicated by lindabhāgayā is somewhat compressed"
+   ],
+   "plain_english": "In this pavilion there is a shrine, and on its outside a portico portion."
+  },
+  {
+   "verse": 1734,
+   "rows": [
+    {
+     "surface": "bhadramaṇṭapam",
+     "gloss": "projection-pavilion",
+     "grounds": "named pavilion type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "called",
+     "grounds": "technical designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣṭa",
+     "gloss": "desired",
+     "grounds": "chosen direction",
+     "morph": "compound=desired+first"
+    },
+    {
+     "surface": "dig",
+     "gloss": "direction",
+     "grounds": "cardinal orientation",
+     "morph": "compound=direction+first"
+    },
+    {
+     "surface": "bhadra",
+     "gloss": "projection",
+     "grounds": "auspicious front projection",
+     "morph": "compound=projection+first"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined-with",
+     "grounds": "provided with projection",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What designation applies to a pavilion joined with a projection in the desired direction?",
+   "premises": [
+    "The pavilion has a projection in a desired direction",
+    "Such a configuration receives a specific name",
+    "The name identifies its form"
+   ],
+   "inference": "A pavilion joined with a projection in the desired direction is called a bhadra-pavilion.",
+   "uncertainties": [],
+   "plain_english": "It is called a bhadra-pavilion when joined with a projection in the desired direction."
+  },
+  {
+   "verse": 1735,
+   "rows": [
+    {
+     "surface": "dvicaturbhāga",
+     "gloss": "two-four-part",
+     "grounds": "proportional division",
+     "morph": "compound=two-four-part+first"
+    },
+    {
+     "surface": "dhāyāmaṃ",
+     "gloss": "length",
+     "grounds": "longitudinal measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāra",
+     "gloss": "width",
+     "grounds": "breadth measure",
+     "morph": "compound=width+first"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sabhāṃkaṇam",
+     "gloss": "hall-space",
+     "grounds": "central court or hall area",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the central hall space proportioned within the pavilion’s length and width?",
+   "premises": [
+    "The length is divided into two and four parts",
+    "The hall space is located in the middle",
+    "The measure relates to width and length"
+   ],
+   "inference": "A central hall space is set in the middle according to the two-and-four-part length and width.",
+   "uncertainties": [
+    "The exact parsing of dvicaturbhāga dhāyāmaṃ is ambiguous"
+   ],
+   "plain_english": "With a length of two and four parts, the hall space is in the middle of the width."
+  },
+  {
+   "verse": 1736,
+   "rows": [
+    {
+     "surface": "maṇṭapāt",
+     "gloss": "from-pavilion",
+     "grounds": "reference structure",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bāhyataḥ",
+     "gloss": "outside",
+     "grounds": "external position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lindam",
+     "gloss": "portico",
+     "grounds": "surrounding veranda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhāgam",
+     "gloss": "part",
+     "grounds": "measured division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "prescriptive manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "ritual-architectural rule",
+     "morph": "3.sg.pass.present √vidhā"
+    }
+   ],
+   "question": "What rule governs the placement of the portico outside the pavilion?",
+   "premises": [
+    "The portico is placed outside the pavilion",
+    "Its extent is measured as a part",
+    "The arrangement is formally prescribed"
+   ],
+   "inference": "A portico part outside the pavilion is prescribed in this manner.",
+   "uncertainties": [],
+   "plain_english": "Thus a portico part is prescribed outside the pavilion."
+  },
+  {
+   "verse": 1737,
+   "rows": [
+    {
+     "surface": "tripaṃcāṃśe",
+     "gloss": "in-three-five-parts",
+     "grounds": "width divided into fifteen parts",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "viśālaṃ",
+     "gloss": "wide",
+     "grounds": "width dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāga",
+     "gloss": "two-part",
+     "grounds": "additional measure",
+     "morph": "compound=two-part+first"
+    },
+    {
+     "surface": "adhika",
+     "gloss": "greater",
+     "grounds": "excess measure",
+     "morph": "compound=greater+first"
+    },
+    {
+     "surface": "māyatam",
+     "gloss": "long",
+     "grounds": "length dimension; fused form as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed when the pavilion width is divided into fifteen parts?",
+   "premises": [
+    "The width is set at fifteen parts",
+    "The length exceeds the width",
+    "The excess is two parts"
+   ],
+   "inference": "A pavilion fifteen parts wide should be seventeen parts long.",
+   "uncertainties": [],
+   "plain_english": "When the width is fifteen parts, the length should be two parts greater."
+  },
+  {
+   "verse": 1738,
+   "rows": [
+    {
+     "surface": "aṃkaṇa",
+     "gloss": "space",
+     "grounds": "central court area",
+     "morph": "compound=space+first"
+    },
+    {
+     "surface": "āvṛta",
+     "gloss": "enclosed",
+     "grounds": "surrounded by space",
+     "morph": "compound=enclosed+first"
+    },
+    {
+     "surface": "ekāṃśam",
+     "gloss": "one-part",
+     "grounds": "measure of portico",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "alindaṃ",
+     "gloss": "portico",
+     "grounds": "surrounding veranda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "ritual-architectural rule",
+     "morph": "3.sg.pass.present √vidhā"
+    }
+   ],
+   "question": "What portico measure is prescribed around the enclosed central space?",
+   "premises": [
+    "The central space is enclosed",
+    "A portico surrounds that space",
+    "The portico measures one part"
+   ],
+   "inference": "A one-part portico is prescribed around the enclosed central space.",
+   "uncertainties": [],
+   "plain_english": "A one-part portico is prescribed around the enclosed central space."
+  },
+  {
+   "verse": 1739,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "referent structure",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "āvṛtāṃśataḥ",
+     "gloss": "from-enclosed-parts",
+     "grounds": "division of enclosed area",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alindaṃ",
+     "gloss": "portico",
+     "grounds": "surrounding veranda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayodaśaṃ",
+     "gloss": "thirteenth",
+     "grounds": "ordinal type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "structure type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act.optative √bhū"
+    }
+   ],
+   "question": "Which pavilion type arises from the specified enclosed-part portico arrangement?",
+   "premises": [
+    "The arrangement is defined from its enclosed parts",
+    "A portico is included in that arrangement",
+    "This configuration yields a numbered type"
+   ],
+   "inference": "This enclosed-part arrangement with a portico should be the thirteenth pavilion.",
+   "uncertainties": [
+    "The precise technical sense of āvṛtāṃśataḥ is unclear"
+   ],
+   "plain_english": "From its enclosed parts with a portico, it should be the thirteenth pavilion."
+  },
+  {
+   "verse": 1740,
+   "rows": [
+    {
+     "surface": "caturviṃśāṃkaṇa",
+     "gloss": "twenty-four-space",
+     "grounds": "central area divided into twenty-four spaces",
+     "morph": "compound=twenty-four-space+first"
+    },
+    {
+     "surface": "upetaṃ",
+     "gloss": "provided-with",
+     "grounds": "endowed with spaces",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "on-outside",
+     "grounds": "external area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lindāṃśa",
+     "gloss": "portico-part",
+     "grounds": "portico division",
+     "morph": "compound=portico-part+first"
+    },
+    {
+     "surface": "mānataḥ",
+     "gloss": "by-measure",
+     "grounds": "according to measurement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What internal division and outer portico measure characterize this pavilion layout?",
+   "premises": [
+    "The layout contains twenty-four spaces",
+    "An outer portico part is included",
+    "The arrangement follows a stated measure"
+   ],
+   "inference": "The pavilion is provided with twenty-four spaces and an outer portico part by measure.",
+   "uncertainties": [],
+   "plain_english": "It is provided with twenty-four spaces, with a portico part on the outside by measure."
+  },
+  {
+   "verse": 1741,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "referent structure",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vṛtāṃśataḥ",
+     "gloss": "from-enclosed-parts",
+     "grounds": "division of enclosed area",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alindaṃ",
+     "gloss": "portico",
+     "grounds": "surrounding veranda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caturdaśaṃ",
+     "gloss": "fourteenth",
+     "grounds": "ordinal type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "structure type",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act.optative √bhū"
+    }
+   ],
+   "question": "Which pavilion type results from this enclosed-part portico configuration?",
+   "premises": [
+    "The arrangement is defined from its enclosed parts",
+    "A portico is included in that arrangement",
+    "This configuration yields a numbered type"
+   ],
+   "inference": "This enclosed-part arrangement with a portico should be the fourteenth pavilion.",
+   "uncertainties": [
+    "The form vṛtāṃśataḥ may be a variant of āvṛtāṃśataḥ"
+   ],
+   "plain_english": "From its enclosed parts with a portico, it should be the fourteenth pavilion."
+  },
+  {
+   "verse": 1742,
+   "rows": [
+    {
+     "surface": "jālakaṃ",
+     "gloss": "lattice",
+     "grounds": "perforated screen element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavāṭaṃ",
+     "gloss": "door-panel",
+     "grounds": "door leaf",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "should-be-taken",
+     "grounds": "to be adopted",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yuktyā",
+     "gloss": "with-skill",
+     "grounds": "appropriate method",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "with particular care",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fittings should be adopted with particular skill in the pavilion construction?",
+   "premises": [
+    "Lattice work is a possible fitting",
+    "Door panels are a possible fitting",
+    "Their adoption requires skill"
+   ],
+   "inference": "Lattice and door panels should be adopted especially with skill.",
+   "uncertainties": [],
+   "plain_english": "Lattice work and door panels should be adopted skillfully, especially."
+  },
+  {
+   "verse": 1743,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summary manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manubhedaṃ",
+     "gloss": "by-manu-divisions",
+     "grounds": "classification by manu divisions",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāyataṃ",
+     "gloss": "with-length",
+     "grounds": "elongated form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "pavilion",
+     "grounds": "structure type",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "they-know",
+     "grounds": "traditional knowledge",
+     "morph": "3.pl.act.perfect √vid"
+    }
+   ],
+   "question": "How do authorities classify the elongated pavilion according to traditional divisions?",
+   "premises": [
+    "The pavilion types have been described",
+    "A classification by manu divisions exists",
+    "Authorities recognize the elongated pavilion"
+   ],
+   "inference": "Thus authorities know the elongated pavilion according to manu divisions.",
+   "uncertainties": [
+    "The technical meaning of manubhedaṃ is uncertain"
+   ],
+   "plain_english": "Thus indeed they know the elongated pavilion according to the divisions of Manu."
+  },
+  {
+   "verse": 1744,
+   "rows": [
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal scope",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "maṇṭapānāṃ",
+     "gloss": "of-pavilions",
+     "grounds": "all pavilion types",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhittivyāsaṃ",
+     "gloss": "wall-thickness",
+     "grounds": "breadth of walls",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṃcadhā",
+     "gloss": "fivefold",
+     "grounds": "division into five",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What general rule governs wall thickness across all pavilion types?",
+   "premises": [
+    "The rule applies to all pavilions",
+    "The wall thickness is the subject",
+    "The measure is divided fivefold"
+   ],
+   "inference": "For all pavilions, the wall thickness is determined fivefold.",
+   "uncertainties": [
+    "The basis of the fivefold division is not specified"
+   ],
+   "plain_english": "For all pavilions, the wall thickness is to be divided fivefold."
+  },
+  {
+   "verse": 1745,
+   "rows": [
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal scope",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "mukhabhadrāṇāṃ",
+     "gloss": "of-front-projection-pavilions",
+     "grounds": "pavilions with front projections",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "aṃkaṇaṃ",
+     "gloss": "central-space",
+     "grounds": "inner court area",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maṇṭapākṛtiḥ",
+     "gloss": "pavilion-form",
+     "grounds": "overall pavilion shape",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What relationship holds between the central space and form in front-projection pavilions?",
+   "premises": [
+    "The rule applies to all front-projection pavilions",
+    "The central space is specified",
+    "The pavilion form is defined accordingly"
+   ],
+   "inference": "In all front-projection pavilions, the central space follows the pavilion form.",
+   "uncertainties": [
+    "The syntactic relation between aṃkaṇaṃ and maṇṭapākṛtiḥ is compressed"
+   ],
+   "plain_english": "For all front-projection pavilions, the central space conforms to the pavilion form."
+  },
+  {
+   "verse": 1746,
+   "rows": [
+    {
+     "surface": "paṃcaṣaṭsaptanandāṣṭa",
+     "gloss": "five-six-seven-nine-eight",
+     "grounds": "alternative rod counts as given",
+     "morph": "compound=five-six-seven-nine-eight+first"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "rods",
+     "grounds": "unit of measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "referent structure",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vistṛtam",
+     "gloss": "breadth",
+     "grounds": "width measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative rod measurements may define the breadth of this structure?",
+   "premises": [
+    "The breadth is measured in rods",
+    "Several numerical options are given",
+    "The options are alternatives"
+   ],
+   "inference": "The breadth may be five, six, seven, nine, or eight rods.",
+   "uncertainties": [
+    "The sequence paṃcaṣaṭsaptanandāṣṭa is unusual and may reflect a textual issue"
+   ],
+   "plain_english": "Its breadth may be five, six, seven, nine, or eight rods."
+  },
+  {
+   "verse": 1747,
+   "rows": [
+    {
+     "surface": "yaṣṭi",
+     "gloss": "pillar",
+     "grounds": "vertical support element",
+     "morph": "compound=pillar+first"
+    },
+    {
+     "surface": "nābhi",
+     "gloss": "navel",
+     "grounds": "central or middle section",
+     "morph": "compound=navel+first"
+    },
+    {
+     "surface": "utakalpya",
+     "gloss": "having-shaped",
+     "grounds": "constructed accordingly",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "prescriptive manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "octagonal form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gajahastakam",
+     "gloss": "elephant-trunk",
+     "grounds": "capital or projecting member",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What form should the pillar and its elephant-trunk member take when properly shaped?",
+   "premises": [
+    "The pillar’s middle section is shaped",
+    "The resulting form is specified",
+    "An elephant-trunk member is included"
+   ],
+   "inference": "When shaped thus at the middle, the pillar and elephant-trunk member should be eight-cornered.",
+   "uncertainties": [
+    "The exact architectural meaning of gajahastakam is uncertain"
+   ],
+   "plain_english": "Having shaped the pillar’s middle thus, it should be eight-cornered with an elephant-trunk member."
+  },
+  {
+   "verse": 1748,
+   "rows": [
+    {
+     "surface": "mūlāt",
+     "gloss": "from-base",
+     "grounds": "starting point at bottom",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "aṣṭāṃśa",
+     "gloss": "eighth-part",
+     "grounds": "fractional reduction",
+     "morph": "compound=eighth-part+first"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "less",
+     "grounds": "diminished measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "referent diameter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "agravyāsaṃ",
+     "gloss": "top-diameter",
+     "grounds": "upper breadth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "progressive tapering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛśam",
+     "gloss": "slender",
+     "grounds": "tapered form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the pillar taper from base to top in its prescribed proportions?",
+   "premises": [
+    "The top diameter is compared to the base",
+    "The reduction is one eighth",
+    "The tapering occurs gradually"
+   ],
+   "inference": "The top diameter should be one eighth less than the base, becoming gradually slender.",
+   "uncertainties": [],
+   "plain_english": "From the base, the top diameter should be one eighth less, gradually becoming slender."
+  },
+  {
+   "verse": 1749,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "one-rod",
+     "grounds": "base measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sapādadaṇḍaṃ",
+     "gloss": "one-and-quarter-rod",
+     "grounds": "alternative measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdha tripādapādakam",
+     "gloss": "one-and-half-or-three-quarter-foot",
+     "grounds": "alternative measures as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What alternative linear measures are permitted for this structural element?",
+   "premises": [
+    "A one-rod measure is possible",
+    "A one-and-quarter-rod measure is possible",
+    "Further alternative measures are given"
+   ],
+   "inference": "The element may measure one rod, one and a quarter rods, or the other stated alternatives.",
+   "uncertainties": [
+    "The compound sārdha tripādapādakam is difficult to parse precisely"
+   ],
+   "plain_english": "It may be one rod, or one and a quarter rods, or one and a half or three quarters of a foot."
+  }
+ ]
+}

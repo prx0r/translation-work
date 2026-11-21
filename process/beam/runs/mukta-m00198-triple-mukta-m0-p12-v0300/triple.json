@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "measure divided into two parts; accusative of extent or predicate measure",
+     "morph": "compound(dvi+bhāga).n.acc.sg"
+    },
+    {
+     "surface": "galamānaṃ",
+     "gloss": "neck-measure",
+     "grounds": "measure pertaining to the neck; compound of gala and māna",
+     "morph": "compound(gala+māna).n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive or continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "galamekāṃśamānataḥ",
+     "gloss": "neck-one-part-in-measure",
+     "grounds": "neck having the measure of one part; fused compound with ablative/adverbial suffix -tas indicating extent",
+     "morph": "compound(gala+eka+aṃśa+māna)-tas.(indecl.)"
+    }
+   ],
+   "question": "What proportional measures define the neck segment relative to its parts in this ritual configuration?",
+   "premises": [
+    "The neck-measure is specified as two-part.",
+    "The neck itself is measured as one part in extent.",
+    "The particle tu marks a further specification within the prescribed proportions."
+   ],
+   "inference": "The prescribed configuration assigns a two-part measure to the neck segment while defining the neck’s extent as one part.",
+   "uncertainties": [
+    "The exact syntactic relation between dvibhāgaṃ galamānaṃ and galamekāṃśamānataḥ is ambiguous without broader ritual context.",
+    "Whether galamānaṃ refers to a physical neck dimension or a technical ritual unit is not fully determined."
+   ],
+   "plain_english": "The neck-measure is two-part, but the neck itself is one part in measure."
+  }
+ ]
+}

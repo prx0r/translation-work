@@ -1,0 +1,943 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3251,
+   "rows": [
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon",
+     "grounds": "legacy hint astra",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "placing",
+     "grounds": "legacy hint vinyasya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dehalyāṃ",
+     "gloss": "on-threshold",
+     "grounds": "legacy hint dehalyām",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "vāstubrahmāsanārcanāt",
+     "gloss": "from-vāstu-brahma-seat-worship",
+     "grounds": "legacy hint vāstu-brahma-āsana-arcana-at",
+     "morph": "abl.sg.n"
+    }
+   ],
+   "question": "How is the weapon placed at the threshold through vāstu-brahma-seat worship?",
+   "premises": [
+    "weapon is placed",
+    "threshold is specified",
+    "worship is source"
+   ],
+   "inference": "The ritual places the weapon at the threshold by vāstu-brahma-seat worship.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Place the weapon at the threshold through vāstu-brahma-seat worship."
+  },
+  {
+   "verse": 3252,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "legacy hint pañca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vidhāyātha",
+     "gloss": "having-arranged-then",
+     "grounds": "legacy hint vidhāya+atha",
+     "morph": "absolutive+indecl."
+    },
+    {
+     "surface": "tilakī",
+     "gloss": "tilaka-marked",
+     "grounds": "legacy hint tilakī",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "puṣpaśekharaḥ",
+     "gloss": "flower-crowned",
+     "grounds": "legacy hint puṣpa-śekharaḥ",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What fivefold arrangement produces the tilaka-marked flower-crowned figure?",
+   "premises": [
+    "five is stated",
+    "arrangement is stated",
+    "figure is described"
+   ],
+   "inference": "The fivefold arrangement yields the tilaka-marked flower-crowned figure.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Having arranged five, then the tilaka-marked flower-crowned one."
+  },
+  {
+   "verse": 3253,
+   "rows": [
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "legacy hint paritaḥ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "legacy hint śaktīḥ",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "tryakṣaṃ",
+     "gloss": "three-eyed",
+     "grounds": "legacy hint tri-akṣam",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tanmūrtināmabhiḥ",
+     "gloss": "by-those-form-names",
+     "grounds": "legacy hint tat-mūrti-nāmabhiḥ",
+     "morph": "instr.pl.n"
+    }
+   ],
+   "question": "How are powers placed around the three-eyed form by its names?",
+   "premises": [
+    "powers are placed",
+    "around is stated",
+    "names are instrumental"
+   ],
+   "inference": "Powers are placed around the three-eyed form by its form-names.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Place powers around the three-eyed form by those form-names."
+  },
+  {
+   "verse": 3254,
+   "rows": [
+    {
+     "surface": "hṛdādīnyanalādyeṣu",
+     "gloss": "heart-and-so-forth-in-fire-and-so-forth",
+     "grounds": "legacy hint hṛd-ādīni+anala-ādyeṣu",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "legacy hint netram",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "purato",
+     "gloss": "in-front",
+     "grounds": "legacy hint purataḥ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "legacy hint yajet",
+     "morph": "3.sg.act.opt.+yaj"
+    }
+   ],
+   "question": "Where should the eye be worshipped among heart-fire and front positions?",
+   "premises": [
+    "heart-fire positions are stated",
+    "eye is object",
+    "front is stated"
+   ],
+   "inference": "The eye is worshipped in front among the heart-fire positions.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Worship the eye in front among heart-fire positions."
+  },
+  {
+   "verse": 3255,
+   "rows": [
+    {
+     "surface": "arghyādibhir",
+     "gloss": "with-arghya-and-so-forth",
+     "grounds": "legacy hint arghya-ādibhiḥ",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "nivedyāntaṃ",
+     "gloss": "up-to-offering",
+     "grounds": "legacy hint nivedya-antam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mūlāṅgair",
+     "gloss": "with-root-limbs",
+     "grounds": "legacy hint mūla-aṅgaiḥ",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "juhuyādapi",
+     "gloss": "should-offer-also",
+     "grounds": "legacy hint juhuyāt+api",
+     "morph": "3.sg.act.opt.+hu+indecl."
+    }
+   ],
+   "question": "How is offering performed with arghya and root-limbs up to nivedya?",
+   "premises": [
+    "arghya is instrumental",
+    "nivedya endpoint is stated",
+    "root-limbs are instrumental"
+   ],
+   "inference": "Offering is performed with arghya and root-limbs up to nivedya.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Offer with arghya and root-limbs up to nivedya."
+  },
+  {
+   "verse": 3256,
+   "rows": [
+    {
+     "surface": "parivārāṃstu",
+     "gloss": "attendants-but",
+     "grounds": "legacy hint parivārān+tu",
+     "morph": "acc.pl.m+indecl."
+    },
+    {
+     "surface": "nyased",
+     "gloss": "should-place",
+     "grounds": "legacy hint nyaset",
+     "morph": "3.sg.act.opt.+nyas"
+    },
+    {
+     "surface": "dvāri",
+     "gloss": "at-door",
+     "grounds": "legacy hint dvāri",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "kapālinam",
+     "gloss": "kapālin",
+     "grounds": "legacy hint kapālinam",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "Where should attendants and kapālin be placed?",
+   "premises": [
+    "attendants are object",
+    "door is location",
+    "kapālin is object"
+   ],
+   "inference": "Attendants and kapālin are placed at the door.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Place attendants and kapālin at the door."
+  },
+  {
+   "verse": 3257,
+   "rows": [
+    {
+     "surface": "lokeśatulyarūpāṃstān",
+     "gloss": "those-world-lord-equal-formed",
+     "grounds": "legacy hint lokeśa-tulya-rūpān+tān",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "nalāgnicarādikān",
+     "gloss": "fire-moving-and-so-forth",
+     "grounds": "legacy hint anala-agni-cara-ādikān",
+     "morph": "acc.pl.m"
+    }
+   ],
+   "question": "What forms are described as world-lord-equal and fire-moving?",
+   "premises": [
+    "world-lord-equal forms are stated",
+    "fire-moving ones are stated"
+   ],
+   "inference": "The forms are world-lord-equal and fire-moving.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Those world-lord-equal forms, fire-moving and so forth."
+  },
+  {
+   "verse": 3258,
+   "rows": [
+    {
+     "surface": "mātṝśca",
+     "gloss": "mothers-and",
+     "grounds": "legacy hint mātṝḥ+ca",
+     "morph": "acc.pl.f+indecl."
+    },
+    {
+     "surface": "balipīṭhaṃ",
+     "gloss": "offering-seat",
+     "grounds": "legacy hint bali-pīṭham",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyasyātra",
+     "gloss": "placing-here",
+     "grounds": "legacy hint vinyasya+atra",
+     "morph": "absolutive+indecl."
+    },
+    {
+     "surface": "hutāśane",
+     "gloss": "in-fire",
+     "grounds": "legacy hint hutāśane",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Where are mothers, offering-seat, and fire placement arranged?",
+   "premises": [
+    "mothers are stated",
+    "offering-seat is stated",
+    "fire is location"
+   ],
+   "inference": "Mothers and offering-seat are arranged here in fire.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Place mothers and offering-seat here in fire."
+  },
+  {
+   "verse": 3259,
+   "rows": [
+    {
+     "surface": "kṣetracaṇḍaṃ",
+     "gloss": "field-fierce-one",
+     "grounds": "legacy hint kṣetra-caṇḍam",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint tu",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "legacy hint pūrvavat",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the field-fierce one treated?",
+   "premises": [
+    "field-fierce one is object",
+    "as-before is stated"
+   ],
+   "inference": "The field-fierce one is treated as before.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "The field-fierce one as before."
+  },
+  {
+   "verse": 3260,
+   "rows": [
+    {
+     "surface": "gopuradvāḥsthau",
+     "gloss": "gate-door-standing-two",
+     "grounds": "legacy hint gopura-dvāḥ-sthau",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "saumyam",
+     "gloss": "gentle",
+     "grounds": "legacy hint saumyam",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ugraṃ",
+     "gloss": "fierce",
+     "grounds": "legacy hint ugram",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint vinyaset",
+     "morph": "3.sg.act.opt.+nyas"
+    }
+   ],
+   "question": "What two gate-door figures should be placed as gentle and fierce?",
+   "premises": [
+    "gate-door standing two is stated",
+    "gentle is stated",
+    "fierce is stated"
+   ],
+   "inference": "The two gate-door figures are placed as gentle and fierce.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Place the two gate-door figures, gentle and fierce."
+  },
+  {
+   "verse": 3261,
+   "rows": [
+    {
+     "surface": "jayādibhistataḥ",
+     "gloss": "with-jaya-and-so-forth-then",
+     "grounds": "legacy hint jayādibhiḥ+tataḥ",
+     "morph": "instr.pl.m+indecl."
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "legacy hint prāgvat",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prāyaścittaiśca",
+     "gloss": "with-expiations-and",
+     "grounds": "legacy hint prāyaścittaiḥ+ca",
+     "morph": "instr.pl.n+indecl."
+    },
+    {
+     "surface": "pūrṇayā",
+     "gloss": "with-full",
+     "grounds": "legacy hint pūrṇayā",
+     "morph": "instr.sg.f"
+    }
+   ],
+   "question": "What offerings and expiations are performed as before with full measure?",
+   "premises": [
+    "jaya offerings are stated",
+    "as-before is stated",
+    "expiations are stated"
+   ],
+   "inference": "Jaya offerings and expiations are performed as before with full measure.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "With jaya and so forth, as before, with expiations and full measure."
+  },
+  {
+   "verse": 3262,
+   "rows": [
+    {
+     "surface": "visṛjet",
+     "gloss": "should-release",
+     "grounds": "legacy hint visṛjet",
+     "morph": "3.sg.act.opt.+visṛj"
+    },
+    {
+     "surface": "prāgvad",
+     "gloss": "as-before",
+     "grounds": "legacy hint prāgvat",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dakṣiṇādyaṃ",
+     "gloss": "south-beginning",
+     "grounds": "legacy hint dakṣiṇa-ādyam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "should-give",
+     "grounds": "legacy hint dāpayet",
+     "morph": "3.sg.act.caus.opt.+dā"
+    }
+   ],
+   "question": "What should be released and given beginning from the south?",
+   "premises": [
+    "release is stated",
+    "as-before is stated",
+    "south-beginning is stated"
+   ],
+   "inference": "Release as before and give beginning from the south.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Release as before and give beginning from the south."
+  },
+  {
+   "verse": 3263,
+   "rows": [
+    {
+     "surface": "rātrīratītyātha",
+     "gloss": "night-having-passed-then",
+     "grounds": "legacy hint rātrīm+ati+itya+atha",
+     "morph": "acc.sg.f+indecl.+absolutive+indecl."
+    },
+    {
+     "surface": "kalaśair",
+     "gloss": "with-pots",
+     "grounds": "legacy hint kalaśaiḥ",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "upapattitaḥ",
+     "gloss": "according-to-occurrence",
+     "grounds": "legacy hint upapattitaḥ",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What is done with pots after the night has passed?",
+   "premises": [
+    "night passing is stated",
+    "pots are instrumental",
+    "occurrence is stated"
+   ],
+   "inference": "After the night passes, pots are used according to occurrence.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "After the night passes, with pots according to occurrence."
+  },
+  {
+   "verse": 3264,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "legacy hint saṃsthāpya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "dṛṣṭādṛṣṭaphalodayāt",
+     "gloss": "from-visible-invisible-result-arising",
+     "grounds": "legacy hint dṛṣṭa-adṛṣṭa-phala-udayāt",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "Why is establishment made from visible and invisible result arising?",
+   "premises": [
+    "establishment is stated",
+    "visible-invisible result arising is source"
+   ],
+   "inference": "Establishment is made from the arising of visible and invisible results.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Having established from visible and invisible result arising."
+  },
+  {
+   "verse": 3265,
+   "rows": [
+    {
+     "surface": "nityotsave",
+     "gloss": "in-perpetual-festival",
+     "grounds": "legacy hint nitya-utsave",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kṣetrapateḥ",
+     "gloss": "of-field-lord",
+     "grounds": "legacy hint kṣetra-pateḥ",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "prātarannamayaṃ",
+     "gloss": "morning-food-made",
+     "grounds": "legacy hint prātar-annamayam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "legacy hint smṛtam",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What is remembered for the field lord in perpetual festival?",
+   "premises": [
+    "perpetual festival is stated",
+    "field lord is genitive",
+    "morning food is stated"
+   ],
+   "inference": "Morning food is remembered for the field lord in perpetual festival.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "In perpetual festival, morning food is remembered for the field lord."
+  },
+  {
+   "verse": 3266,
+   "rows": [
+    {
+     "surface": "haimādyanyatamā",
+     "gloss": "golden-and-so-forth-one-of",
+     "grounds": "legacy hint haima-ādi-anyatamā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "prāgvadutsavapratimā",
+     "gloss": "as-before-festival-image",
+     "grounds": "legacy hint prāgvat+utsava-pratimā",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "legacy hint bhavet",
+     "morph": "3.sg.act.opt.+bhū"
+    }
+   ],
+   "question": "What kind of festival image should be made as before?",
+   "premises": [
+    "golden one is stated",
+    "as-before festival image is stated",
+    "should-be is stated"
+   ],
+   "inference": "A golden festival image should be made as before.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "A golden festival image should be as before."
+  },
+  {
+   "verse": 3267,
+   "rows": [
+    {
+     "surface": "chatrādyair",
+     "gloss": "with-umbrella-and-so-forth",
+     "grounds": "legacy hint chatra-ādyaiḥ",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "vibhavaiścātha",
+     "gloss": "with-resources-and-then",
+     "grounds": "legacy hint vibhavaiḥ+ca+atha",
+     "morph": "instr.pl.m+indecl.+indecl."
+    },
+    {
+     "surface": "dvāḥsthau",
+     "gloss": "door-standing-two",
+     "grounds": "legacy hint dvāḥ-sthau",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "śūlikapālinau",
+     "gloss": "trident-bearing-and-kapālin",
+     "grounds": "legacy hint śūlika-pālinau",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "What two door-standing figures are equipped with umbrella and resources?",
+   "premises": [
+    "umbrella is instrumental",
+    "resources are instrumental",
+    "door-standing two is stated"
+   ],
+   "inference": "The two door-standing figures are trident-bearing and kapālin with umbrella and resources.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "With umbrella and resources, the two door-standing trident-bearing and kapālin."
+  },
+  {
+   "verse": 3268,
+   "rows": [
+    {
+     "surface": "kṛṣṇākalpāḥ",
+     "gloss": "black-adorned",
+     "grounds": "legacy hint kṛṣṇa-ākalpāḥ",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kṛṣṇavarṇāḥ",
+     "gloss": "black-colored",
+     "grounds": "legacy hint kṛṣṇa-varṇāḥ",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "pūjyāścāpeṣupāṇayaḥ",
+     "gloss": "worshipful-and-bow-armed",
+     "grounds": "legacy hint pūjyāḥ+ca+āpeṣu-pāṇayaḥ",
+     "morph": "nom.pl.m+indecl."
+    }
+   ],
+   "question": "What black-adorned black-colored bow-armed figures are worshipful?",
+   "premises": [
+    "black-adorned is stated",
+    "black-colored is stated",
+    "bow-armed is stated"
+   ],
+   "inference": "Black-adorned black-colored bow-armed figures are worshipful.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Black-adorned, black-colored, worshipful bow-armed figures."
+  },
+  {
+   "verse": 3269,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vīrabhadragaṇādhipau",
+     "gloss": "vīrabhadra-troop-lords",
+     "grounds": "legacy hint vīrabhadra-gaṇa-adhipau",
+     "morph": "nom.du.m"
+    }
+   ],
+   "question": "Who are the two vīrabhadra-troop lords?",
+   "premises": [
+    "and is stated",
+    "vīrabhadra troop lords are stated"
+   ],
+   "inference": "The two vīrabhadra-troop lords are named.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "And the two vīrabhadra-troop lords."
+  },
+  {
+   "verse": 3270,
+   "rows": [
+    {
+     "surface": "saumyāya",
+     "gloss": "to-gentle",
+     "grounds": "legacy hint saumyāya",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ugrāya",
+     "gloss": "to-fierce",
+     "grounds": "legacy hint ugrāya",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint ca",
+     "morph": "indecl."
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "legacy hint balim",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-throw",
+     "grounds": "legacy hint kṣipet",
+     "morph": "3.sg.act.opt.+kṣip"
+    }
+   ],
+   "question": "To whom should the offering be thrown?",
+   "premises": [
+    "gentle is dative",
+    "fierce is dative",
+    "offering is object"
+   ],
+   "inference": "The offering should be thrown to gentle and fierce.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Throw the offering to gentle and fierce."
+  },
+  {
+   "verse": 3271,
+   "rows": [
+    {
+     "surface": "jagad",
+     "gloss": "world",
+     "grounds": "legacy hint jagat",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vyāpya",
+     "gloss": "having-pervaded",
+     "grounds": "legacy hint vyāpya",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "legacy hint tiṣṭhanti",
+     "morph": "3.pl.act.pres.+sthā"
+    },
+    {
+     "surface": "balikāṅkṣiṇaḥ",
+     "gloss": "offering-desiring",
+     "grounds": "legacy hint bali-kāṅkṣiṇaḥ",
+     "morph": "nom.pl.m"
+    }
+   ],
+   "question": "Who stands pervading the world desiring offerings?",
+   "premises": [
+    "world is pervaded",
+    "standing is stated",
+    "offering-desiring is stated"
+   ],
+   "inference": "Offering-desiring beings stand pervading the world.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Pervading the world stand offering-desiring beings."
+  },
+  {
+   "verse": 3272,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "legacy hint tataḥ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "in-eight-directions",
+     "grounds": "legacy hint aṣṭa-dikṣu",
+     "morph": "loc.pl.f"
+    },
+    {
+     "surface": "pūrvoktā",
+     "gloss": "previously-stated",
+     "grounds": "legacy hint pūrvoktāḥ",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "herukādyāḥ",
+     "gloss": "heruka-and-so-forth",
+     "grounds": "legacy hint heruka-ādyāḥ",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sthitāḥ",
+     "gloss": "standing",
+     "grounds": "legacy hint sthitāḥ",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "legacy hint kramāt",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where do previously stated heruka and others stand?",
+   "premises": [
+    "then is stated",
+    "eight directions are stated",
+    "heruka is stated"
+   ],
+   "inference": "Previously stated heruka and others stand in eight directions in order.",
+   "uncertainties": [
+    "compound segmentation uncertain"
+   ],
+   "plain_english": "Then in eight directions stand previously stated heruka and others in order."
+  },
+  {
+   "verse": 3273,
+   "rows": [
+    {
+     "surface": "ṣoḍaśaṃ",
+     "gloss": "sixteenth",
+     "grounds": "legacy hint ṣoḍaśam",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhūteśāḥ",
+     "gloss": "lords-of-beings",
+     "grounds": "legacy hint bhūteśāḥ",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kṣetrasenaśca",
+     "gloss": "field-army-and",
+     "grounds": "legacy hint kṣetra-senaḥ+ca",
+     "morph": "nom.sg.m+indecl."
+    },
+    {
+     "surface": "madhyataḥ",
+     "gloss": "in-middle",
+     "grounds": "legacy hint madhyataḥ",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sixteenth and field-army figures stand in the middle?",
+   "premises": [
+    "sixteenth is stated",
+    "lords of beings is stated",
+    "middle is stated"
+   ],
+   "inference": "The sixteenth and field-army figures stand in the middle.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "The sixteenth, lords of beings, and field-army in the middle."
+  },
+  {
+   "verse": 3274,
+   "rows": [
+    {
+     "surface": "ugraścāpy",
+     "gloss": "fierce-and-also",
+     "grounds": "legacy hint ugraḥ+ca+api",
+     "morph": "nom.sg.m+indecl.+indecl."
+    },
+    {
+     "surface": "ūrdhvabāhuḥ",
+     "gloss": "raised-arm",
+     "grounds": "legacy hint ūrdhva-bāhuḥ",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "syādṛṣabhastvṛbhavastathā",
+     "gloss": "should-be-ṛṣabha-and-ṛbhava-and-so",
+     "grounds": "legacy hint syāt+ṛṣabhaḥ+tu+ṛbhavaḥ+tathā",
+     "morph": "3.sg.act.opt.+bhū+nom.sg.m+indecl.+nom.sg.m+indecl."
+    }
+   ],
+   "question": "What fierce raised-arm and ṛṣabha-ṛbhava figures should be?",
+   "premises": [
+    "fierce is stated",
+    "raised-arm is stated",
+    "ṛṣabha and ṛbhava are stated"
+   ],
+   "inference": "Fierce raised-arm, ṛṣabha, and ṛbhava figures should be.",
+   "uncertainties": [
+    "sandhi split uncertain"
+   ],
+   "plain_english": "Fierce raised-arm, and ṛṣabha and ṛbhava likewise."
+  }
+ ]
+}

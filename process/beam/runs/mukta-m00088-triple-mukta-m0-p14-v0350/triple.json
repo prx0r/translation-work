@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "prītā",
+     "gloss": "pleased",
+     "grounds": "adjective modifying devyaḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "feminine nominative plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "us",
+     "grounds": "first-person plural accusative/dative",
+     "morph": "1.pl.acc/dat"
+    },
+    {
+     "surface": "subhabalividhinā",
+     "gloss": "with-good-strength-ritual",
+     "grounds": "compound instrumental singular; internal sandhi not split",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pāntu",
+     "gloss": "may-protect",
+     "grounds": "optative third plural from root pā",
+     "morph": "3.pl.act.opt (root pā)"
+    },
+    {
+     "surface": "vīrendravandyāḥ",
+     "gloss": "vīra-lord-venerable",
+     "grounds": "compound adjective modifying devyaḥ",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which goddesses, pleased by the good-strength ritual, always protect us and are venerable to vīra lords?",
+   "premises": [
+    "Pleased goddesses protect us always.",
+    "Good-strength ritual pleases them.",
+    "Vīra lords venerate them."
+   ],
+   "inference": "Proper performance of the good-strength ritual secures protection from the pleased goddesses.",
+   "uncertainties": [
+    "Segmentation of subhabalividhinā into subha, bali, and vidhi is interpretive.",
+    "vīrendravandyāḥ may describe the goddesses or the ritual context."
+   ],
+   "plain_english": "May the pleased goddesses, always venerable to vīra lords, protect us by the good-strength ritual."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "sarvamantraiḥ",
+     "gloss": "with-all-mantras",
+     "grounds": "instrumental plural of sarvamantra; all mantras",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "sakṛd",
+     "gloss": "once",
+     "grounds": "adverb meaning once",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "calf",
+     "grounds": "accusative singular object of consecration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "absolutive of abhimantr; having consecrated",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "sakṛtsakṛt",
+     "gloss": "once-once",
+     "grounds": "repeated adverb sakṛt sakṛt",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra repetition and consecration are prescribed for a calf after it is placed in a protected clay pot?",
+   "premises": [
+    "All mantras are used once.",
+    "The calf is consecrated.",
+    "The act is repeated once once."
+   ],
+   "inference": "The calf receives a single consecration with all mantras followed by a doubled repetition.",
+   "uncertainties": [
+    "The exact ritual referent of vatsa is not specified in this verse."
+   ],
+   "plain_english": "Consecrate the calf once with all mantras, then once again."
+  }
+ ]
+}

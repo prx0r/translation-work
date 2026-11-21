@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "paśurūpāṃ",
+     "gloss": "animal-formed",
+     "grounds": "paśu + rūpā, feminine accusative singular adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śivāṃ",
+     "gloss": "shiva",
+     "grounds": "feminine accusative singular of śivā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "feminine accusative singular of devī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nārcayati",
+     "gloss": "not-worships",
+     "grounds": "negative prefix na + arcayati, third singular active present",
+     "morph": "3.sg.act.pres, root arc"
+    },
+    {
+     "surface": "nirjane",
+     "gloss": "in-solitude",
+     "grounds": "locative singular of nirjana",
+     "morph": "loc.sg"
+    }
+   ],
+   "question": "What is the status of one who does not worship the animal-formed Śivā goddess in solitude?",
+   "premises": [
+    "The verse names an animal-formed Śivā goddess.",
+    "It identifies a person who does not worship her.",
+    "The worship is to occur in solitude."
+   ],
+   "inference": "The verse marks non-worship of the animal-formed Śivā goddess in solitude as a defining failure.",
+   "uncertainties": [
+    "The verse states no explicit consequence or penalty.",
+    "Whether nirjane modifies worship or the goddess is contextually inferred."
+   ],
+   "plain_english": "He who does not worship the animal-formed Śivā goddess in solitude."
+  }
+ ]
+}

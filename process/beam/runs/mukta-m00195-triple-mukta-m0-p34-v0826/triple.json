@@ -1,0 +1,979 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 826,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "circle",
+     "grounds": "ritual diagram or area",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paritaḥ",
+     "gloss": "around",
+     "grounds": "adverb/preposition indicating surrounding",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "ablative used adverbially for sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What sequential action should be performed around the ritual circle?",
+   "premises": [
+    "The ritual proceeds in sequence after a prior step.",
+    "An action is to be done around the maṇḍala.",
+    "The action follows a gradual order."
+   ],
+   "inference": "After the previous step, one should proceed gradually around the circle.",
+   "uncertainties": [],
+   "plain_english": "Then, one should proceed gradually around the circle."
+  },
+  {
+   "verse": 827,
+   "rows": [
+    {
+     "surface": "dakṣa+bhāge",
+     "gloss": "south-side",
+     "grounds": "compound indicating southern part; dakṣa = south/right, bhāga = side",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive expressing prior action",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "sthaṇḍilam",
+     "gloss": "altar",
+     "grounds": "prepared ritual ground",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "qualifies the altar as best",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where and what kind of altar must be prepared next?",
+   "premises": [
+    "An altar is to be prepared as part of the sequence.",
+    "The location specified is the southern side.",
+    "The altar should be of excellent quality."
+   ],
+   "inference": "One should prepare an excellent altar on the southern side.",
+   "uncertainties": [],
+   "plain_english": "Having made an excellent altar on the southern side."
+  },
+  {
+   "verse": 828,
+   "rows": [
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial compound indicating prescribed manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the altar",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandha+ādyaiḥ",
+     "gloss": "with-fragrance-etc",
+     "grounds": "compound indicating fragrance and other offerings",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "devatāṃ",
+     "gloss": "deity",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing ritual worship",
+     "morph": "3.sg.opt.act (yaj)"
+    }
+   ],
+   "question": "How and with what offerings should the deity be worshipped there?",
+   "premises": [
+    "Worship must follow the prescribed rule.",
+    "The worship takes place at the prepared altar.",
+    "Offerings include fragrance and similar items."
+   ],
+   "inference": "One should worship the deity there according to rule with fragrance and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Then, there, one should worship the deity according to rule with fragrance and other offerings."
+  },
+  {
+   "verse": 829,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "optative prescribing oblation into fire",
+     "morph": "3.sg.opt.act (hu)"
+    },
+    {
+     "surface": "mūla+mantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound indicating the primary mantra used",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "pāyasena",
+     "gloss": "with-milk-rice",
+     "grounds": "oblation substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "oblation substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking substances",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances and mantra should be used for the fire oblation?",
+   "premises": [
+    "A fire oblation is prescribed.",
+    "The oblation is performed with the root mantra.",
+    "The substances offered are milk-rice and ghee."
+   ],
+   "inference": "One should offer milk-rice and ghee with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "One should offer oblations with the root mantra using milk-rice and ghee."
+  },
+  {
+   "verse": 830,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "candana+ādyaiḥ",
+     "gloss": "with-sandal-etc",
+     "grounds": "compound indicating sandal and other substances",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "pīṭha+mūrtau",
+     "gloss": "in-seat-image",
+     "grounds": "compound indicating the image on the seat; internal sandhi in compound",
+     "morph": "compound f.loc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "one-should-place",
+     "grounds": "causative optative prescribing placement",
+     "morph": "3.sg.opt.caus.act (ni-dhā)"
+    }
+   ],
+   "question": "Where and with what should the deity be ritually placed?",
+   "premises": [
+    "The deity is to be placed in a specific locus.",
+    "The locus is the image on the seat.",
+    "Sandal and similar substances accompany the placement."
+   ],
+   "inference": "One should place the deity in the image on the seat with sandal and other substances.",
+   "uncertainties": [],
+   "plain_english": "One should place that deity in the image on the seat with sandal and other offerings."
+  },
+  {
+   "verse": 831,
+   "rows": [
+    {
+     "surface": "pārṣadebhyaḥ",
+     "gloss": "to-attendants",
+     "grounds": "recipients of offerings",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "candana+ādi+puṣpa+akṣata+samanvitam",
+     "gloss": "with-sandal-etc-flower-rice",
+     "grounds": "compound listing offerings: sandal, flowers, unbroken rice, etc.",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What offerings should be given to the attendant deities?",
+   "premises": [
+    "Attendant deities receive offerings.",
+    "The offerings include sandal and other items.",
+    "Flowers and unbroken rice are included."
+   ],
+   "inference": "One should offer sandal, flowers, unbroken rice, and similar items to the attendants.",
+   "uncertainties": [],
+   "plain_english": "To the attendants, one should offer sandal, flowers, unbroken rice, and the like."
+  },
+  {
+   "verse": 832,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.opt.act (yaj)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upacāraiḥ",
+     "gloss": "with-offerings",
+     "grounds": "ritual services or offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "with-five",
+     "grounds": "specifies number of offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "darśayet",
+     "gloss": "one-should-show",
+     "grounds": "causative optative prescribing display",
+     "morph": "3.sg.opt.caus.act (dṛś)"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating next step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What repeated worship and display should follow with the five offerings?",
+   "premises": [
+    "Worship is to be performed again.",
+    "The worship uses five offerings.",
+    "These offerings should then be shown."
+   ],
+   "inference": "One should worship again with five offerings and then display them.",
+   "uncertainties": [],
+   "plain_english": "Again one should worship with the five offerings and then display them."
+  },
+  {
+   "verse": 833,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "optative prescribing mantra recitation",
+     "morph": "3.sg.opt.act (jap)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual officiant skilled in mantras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūla+mantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "compound indicating the primary mantra",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "describes the practitioner's focused state",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How many times and in what state should the practitioner recite the root mantra?",
+   "premises": [
+    "The mantra practitioner performs recitation.",
+    "The root mantra is the object of recitation.",
+    "The recitation is done a thousand times with concentration."
+   ],
+   "inference": "The concentrated mantra practitioner should recite the root mantra a thousand times.",
+   "uncertainties": [],
+   "plain_english": "And the concentrated mantra practitioner should recite the root mantra a thousand times."
+  },
+  {
+   "verse": 834,
+   "rows": [
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "previously",
+     "grounds": "adverb indicating earlier time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpito",
+     "gloss": "established",
+     "grounds": "past participle indicating placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikiraḥ",
+     "gloss": "scattered-offering",
+     "grounds": "ritual offering of scattered grains or materials",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to current context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What previously established ritual element is relevant at this stage?",
+   "premises": [
+    "A scattered offering was established earlier.",
+    "That offering is relevant in the present context.",
+    "The verse identifies this element for the next action."
+   ],
+   "inference": "The scattered offering previously established is present here for use.",
+   "uncertainties": [],
+   "plain_english": "And the scattered offering previously established is here."
+  },
+  {
+   "verse": 835,
+   "rows": [
+    {
+     "surface": "devatāṃ",
+     "gloss": "deity",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ghora+rūpiṇīm",
+     "gloss": "of-terrible-form",
+     "grounds": "compound describing the deity's fierce appearance",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What form of the deity is addressed in this ritual context?",
+   "premises": [
+    "The deity is the focus of the ritual action.",
+    "The deity is characterized by a terrible form.",
+    "This description qualifies the deity being worshipped."
+   ],
+   "inference": "The ritual addresses the deity in her terrible form.",
+   "uncertainties": [],
+   "plain_english": "The deity of terrible form."
+  },
+  {
+   "verse": 836,
+   "rows": [
+    {
+     "surface": "tiṣṭhan",
+     "gloss": "standing",
+     "grounds": "present participle describing posture",
+     "morph": "m.nom.sg.pres.part.act (sthā)"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive expressing prior worship",
+     "morph": "absolutive (sam-pūj)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive expressing taking up",
+     "morph": "absolutive (grah)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "clockwise",
+     "grounds": "adverbial accusative indicating circumambulation direction",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What actions should be performed while standing after worshipping the deity?",
+   "premises": [
+    "The officiant stands while performing the rite.",
+    "The deity is worshipped before the next action.",
+    "The offering is taken and carried clockwise."
+   ],
+   "inference": "Standing and having worshipped, one should then take it and move clockwise.",
+   "uncertainties": [
+    "The referent of 'tam' is contextually the scattered offering but not explicit in this verse alone."
+   ],
+   "plain_english": "Standing and having worshipped, one should then take that and proceed clockwise."
+  },
+  {
+   "verse": 837,
+   "rows": [
+    {
+     "surface": "devatā+antārayet",
+     "gloss": "to-deity-should-carry",
+     "grounds": "compound verb form indicating carrying toward the deity's place; internal sandhi in compound",
+     "morph": "compound 3.sg.opt.caus.act"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating next step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the offering be carried after the clockwise movement?",
+   "premises": [
+    "The offering is being transported in the ritual.",
+    "The destination is associated with the deity.",
+    "This action precedes the next step."
+   ],
+   "inference": "One should carry it to the deity's place, and then proceed.",
+   "uncertainties": [
+    "The exact verbal analysis of devatā+antārayet is context-dependent; taken as causing to go toward the deity."
+   ],
+   "plain_english": "One should carry it to the deity, and then proceed."
+  },
+  {
+   "verse": 838,
+   "rows": [
+    {
+     "surface": "bhūyas",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the offering or deity context",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gandha+ādyaiḥ",
+     "gloss": "with-fragrance-etc",
+     "grounds": "compound indicating fragrance and other offerings",
+     "morph": "compound m.inst.pl"
+    },
+    {
+     "surface": "deśika+uttamaḥ",
+     "gloss": "teacher-best",
+     "grounds": "compound denoting the foremost teacher",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Who should again perform worship with fragrance and other offerings?",
+   "premises": [
+    "The ritual action is repeated.",
+    "Fragrance and similar offerings are used.",
+    "The foremost teacher performs this action."
+   ],
+   "inference": "The foremost teacher should again worship with fragrance and other offerings.",
+   "uncertainties": [],
+   "plain_english": "Again, the foremost teacher should worship that with fragrance and other offerings."
+  },
+  {
+   "verse": 839,
+   "rows": [
+    {
+     "surface": "devatā+iṣṭa+ādi+jepa+pātre",
+     "gloss": "in-deity-offering-etc-recitation-vessel",
+     "grounds": "compound indicating vessel for deity offerings and recitation items",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "kṣālite",
+     "gloss": "washed",
+     "grounds": "past participle indicating purification",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śara+aṇunā",
+     "gloss": "with-arrow-mantra",
+     "grounds": "compound indicating the śara mantra; aṇu used for mantra",
+     "morph": "compound m.inst.sg"
+    }
+   ],
+   "question": "How must the ritual vessel be prepared before the next offering?",
+   "premises": [
+    "A specific vessel is used in the rite.",
+    "The vessel must be washed.",
+    "The washing or purification involves the arrow mantra."
+   ],
+   "inference": "The vessel for deity offerings and recitation should be washed with the arrow mantra.",
+   "uncertainties": [
+    "The precise functional role of śara+aṇunā in washing is ritual-contextual."
+   ],
+   "plain_english": "And in the washed vessel for the deity's offerings and recitation, with the arrow mantra."
+  },
+  {
+   "verse": 840,
+   "rows": [
+    {
+     "surface": "tithi+prasṛti+mānena",
+     "gloss": "by-lunar-day-handful-measure",
+     "grounds": "compound indicating measure equal to a handful per lunar day",
+     "morph": "compound n.inst.sg"
+    },
+    {
+     "surface": "śara+aṇūn",
+     "gloss": "arrow-mantras",
+     "grounds": "compound indicating grains or items associated with śara mantra; aṇu here may denote grains/mantra-units",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "prapacet",
+     "gloss": "one-should-cook",
+     "grounds": "optative prescribing cooking",
+     "morph": "3.sg.opt.act (pra-pac)"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-throw",
+     "grounds": "optative prescribing placing or casting in",
+     "morph": "3.sg.opt.act (kṣip)"
+    }
+   ],
+   "question": "What quantity and action are prescribed for preparing the arrow-mantra offering?",
+   "premises": [
+    "A specific measure determines the quantity.",
+    "The measure is a handful according to the lunar day.",
+    "The items are to be cooked and then placed."
+   ],
+   "inference": "One should cook and place the arrow-mantra items in the measure of a handful per lunar day.",
+   "uncertainties": [
+    "The exact referent of śara+aṇūn (grains sanctified by mantra or mantra-units) is context-dependent."
+   ],
+   "plain_english": "One should cook and place the arrow-mantra offerings in the measure of a handful per lunar day."
+  },
+  {
+   "verse": 841,
+   "rows": [
+    {
+     "surface": "mūla+mantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound indicating the primary mantra",
+     "morph": "compound m.inst.sg"
+    },
+    {
+     "surface": "deśika+uttamaḥ",
+     "gloss": "teacher-best",
+     "grounds": "compound denoting the foremost teacher",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Who performs the action using the root mantra at this stage?",
+   "premises": [
+    "The root mantra is employed in the rite.",
+    "The foremost teacher is the agent.",
+    "This qualifies the preceding or following ritual action."
+   ],
+   "inference": "The foremost teacher acts with the root mantra.",
+   "uncertainties": [],
+   "plain_english": "The foremost teacher, with the root mantra."
+  },
+  {
+   "verse": 842,
+   "rows": [
+    {
+     "surface": "sruva+saṃsthena",
+     "gloss": "in-ladle-placed",
+     "grounds": "compound indicating what is contained in the ladle",
+     "morph": "compound n.inst.sg"
+    },
+    {
+     "surface": "ghṛtena",
+     "gloss": "with-ghee",
+     "grounds": "substance used for offering",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle indicating next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avatārayet",
+     "gloss": "one-should-bring-down",
+     "grounds": "causative optative prescribing pouring or bringing down",
+     "morph": "3.sg.opt.caus.act (ava-tṛ)"
+    }
+   ],
+   "question": "What substance in the ladle should be poured down next?",
+   "premises": [
+    "Ghee is held in the ladle.",
+    "A pouring action is prescribed.",
+    "This follows the previous ritual step."
+   ],
+   "inference": "One should then pour down the ghee held in the ladle.",
+   "uncertainties": [],
+   "plain_english": "Then one should pour down the ghee held in the ladle."
+  },
+  {
+   "verse": 843,
+   "rows": [
+    {
+     "surface": "tveka",
+     "gloss": "in-one",
+     "grounds": "fused form indicating 'tu eka' or locative-like usage; context suggests one portion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the offering or portion as supreme/other",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "locative indicating the fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "causative optative prescribing offering",
+     "morph": "3.sg.opt.caus.act (ni-vid)"
+    }
+   ],
+   "question": "How should the portions be distributed between the deity and the fire?",
+   "premises": [
+    "An offering is made to the deity.",
+    "Another portion is offered in the fire.",
+    "The distribution distinguishes these recipients."
+   ],
+   "inference": "One should offer one portion to the deity and the supreme portion in the fire.",
+   "uncertainties": [
+    "The exact parsing of 'tveka' is ambiguous; taken as indicating one portion in context."
+   ],
+   "plain_english": "One should offer one portion to the deity and the other in the fire."
+  },
+  {
+   "verse": 844,
+   "rows": [
+    {
+     "surface": "prādeśa+mātraṃ",
+     "gloss": "span-measure",
+     "grounds": "compound indicating the length of a span",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "hṛt+japtaṃ",
+     "gloss": "with-heart-muttered",
+     "grounds": "compound indicating consecrated by mental recitation at the heart",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "yathoktaṃ",
+     "gloss": "as-prescribed",
+     "grounds": "adverbial compound indicating accordance with prescription",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "danta+dhāvanam",
+     "gloss": "tooth-cleaning-stick",
+     "grounds": "compound indicating twig for cleaning teeth",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What specifications must the tooth-cleaning stick meet before being given?",
+   "premises": [
+    "A tooth-cleaning stick is required in the rite.",
+    "Its length should be the measure of a span.",
+    "It must be consecrated by recitation at the heart as prescribed."
+   ],
+   "inference": "The tooth-cleaning stick should be span-long, consecrated by heart recitation, and as prescribed.",
+   "uncertainties": [],
+   "plain_english": "A tooth-cleaning stick of span length, consecrated by recitation at the heart, as prescribed."
+  },
+  {
+   "verse": 845,
+   "rows": [
+    {
+     "surface": "śiṣyāya",
+     "gloss": "to-disciple",
+     "grounds": "recipient of the stick",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative prescribing giving",
+     "morph": "3.sg.opt.act (dā)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun referring to the disciple",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "radān",
+     "gloss": "teeth",
+     "grounds": "object to be cleansed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "viśodhya",
+     "gloss": "having-cleansed",
+     "grounds": "absolutive expressing cleansing",
+     "morph": "absolutive (vi-śudh)"
+    },
+    {
+     "surface": "kṣālitaṃ",
+     "gloss": "washed",
+     "grounds": "past participle describing the stick after use",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "one-should-discard",
+     "grounds": "optative prescribing disposal",
+     "morph": "3.sg.opt.act (tyaj)"
+    }
+   ],
+   "question": "What should the disciple do with the tooth-cleaning stick after receiving it?",
+   "premises": [
+    "The tooth-cleaning stick is given to the disciple.",
+    "The disciple uses it to cleanse the teeth.",
+    "After washing it, the disciple should discard it."
+   ],
+   "inference": "One should give it to the disciple, who cleanses his teeth and then discards the washed stick.",
+   "uncertainties": [],
+   "plain_english": "One should give it to the disciple; he should cleanse his teeth and then discard the washed stick."
+  },
+  {
+   "verse": 846,
+   "rows": [
+    {
+     "surface": "ṛtvijaḥ",
+     "gloss": "priests",
+     "grounds": "ritual officiants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "one-should-go",
+     "grounds": "optative prescribing movement",
+     "morph": "3.sg.opt.act (gam)"
+    },
+    {
+     "surface": "yajña+gṛhaṃ",
+     "gloss": "sacrifice-house",
+     "grounds": "compound indicating the ritual hall",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "postposition indicating direction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the priests proceed at this point in the ritual?",
+   "premises": [
+    "The priests are involved in the ongoing rite.",
+    "A movement to a specific place is prescribed.",
+    "The destination is the sacrifice house."
+   ],
+   "inference": "The priests should go towards the sacrifice house.",
+   "uncertainties": [
+    "Verb is singular in form but subject is plural; taken as prescriptive instruction applying to the priests."
+   ],
+   "plain_english": "And the priests should go towards the sacrifice house."
+  },
+  {
+   "verse": 847,
+   "rows": [
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "instrumental indicating use of a mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭa+uttara+sahasrakam",
+     "gloss": "eight-above-thousand",
+     "grounds": "compound indicating one thousand and eight",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What number of mantra repetitions is specified for this ritual action?",
+   "premises": [
+    "A mantra is used in the rite.",
+    "A specific count is prescribed.",
+    "The count is one thousand and eight."
+   ],
+   "inference": "The mantra should be used in a count of one thousand and eight.",
+   "uncertainties": [
+    "The exact action qualified by this count is supplied by context of surrounding verses."
+   ],
+   "plain_english": "Indeed, with the mantra, one thousand and eight times."
+  },
+  {
+   "verse": 848,
+   "rows": [
+    {
+     "surface": "snātaṃ",
+     "gloss": "bathed",
+     "grounds": "past participle describing the disciple",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañca+gavyaṃ",
+     "gloss": "five-cow-products",
+     "grounds": "compound indicating the five products of the cow",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "pāyayet",
+     "gloss": "one-should-make-drink",
+     "grounds": "causative optative prescribing giving to drink",
+     "morph": "3.sg.opt.caus.act (pā)"
+    },
+    {
+     "surface": "mantra+vit+tamaḥ",
+     "gloss": "mantra-knower-best",
+     "grounds": "compound denoting the foremost knower of mantras",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What purificatory substance should the foremost mantra-knower give the bathed disciple?",
+   "premises": [
+    "The disciple has bathed.",
+    "The foremost knower of mantras administers a substance.",
+    "The substance is the five products of the cow."
+   ],
+   "inference": "The foremost mantra-knower should make the bathed disciple drink the five cow-products.",
+   "uncertainties": [],
+   "plain_english": "The foremost knower of mantras should make the bathed disciple drink the five products of the cow."
+  },
+  {
+   "verse": 849,
+   "rows": [
+    {
+     "surface": "hṛt+puṇḍarīka+caitanyaṃ",
+     "gloss": "heart-lotus-consciousness",
+     "grounds": "compound indicating consciousness in the heart-lotus",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "śiṣyasya",
+     "gloss": "of-disciple",
+     "grounds": "possessive relation to the disciple",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ātmani",
+     "gloss": "in-self",
+     "grounds": "locative indicating the teacher's own self",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-unite",
+     "grounds": "causative optative prescribing uniting or joining",
+     "morph": "3.sg.opt.caus.act (yuj)"
+    }
+   ],
+   "question": "What inner unification should be performed between the disciple's consciousness and the teacher's self?",
+   "premises": [
+    "The disciple's consciousness in the heart-lotus is identified.",
+    "The teacher's own self is the locus of union.",
+    "A ritual act of uniting is prescribed."
+   ],
+   "inference": "One should unite the disciple's heart-lotus consciousness in one's own self.",
+   "uncertainties": [],
+   "plain_english": "One should unite the consciousness in the disciple's heart-lotus with one's own self."
+  }
+ ]
+}

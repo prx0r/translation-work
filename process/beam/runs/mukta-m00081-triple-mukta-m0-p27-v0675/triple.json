@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "akṛtvā",
+     "gloss": "without-having-made",
+     "grounds": "absolutive of kṛ with negative prefix a-; indicates absence of the act of making",
+     "morph": "neg-absolutive (kṛ)"
+    },
+    {
+     "surface": "akaraṇaṃ",
+     "gloss": "non-making",
+     "grounds": "action noun from kṛ with negative prefix a-; denotes the state of not being made or undone",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "locative indicating the locus where making or non-making would occur",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ; indicates the positive act of effecting or constituting",
+     "morph": "absolutive (kṛ)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "refers back to the pot as the subject whose nature is being established",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "svarūpitā",
+     "gloss": "own-nature-state",
+     "grounds": "abstract noun from sva-rūpa; denotes the condition of being constituted as its own essential nature",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the pot’s essential nature established without reducing it to mere non-existence?",
+   "premises": [
+    "Non-making in the pot is not brought about as its condition.",
+    "The pot is constituted through a positive act of making.",
+    "This making establishes the pot’s own essential nature."
+   ],
+   "inference": "Therefore, the pot’s reality consists in being positively constituted as its own nature rather than in being rendered non-existent.",
+   "uncertainties": [
+    "The exact syntactic subject of akṛtvā and kṛtvā is implicit and inferred from context."
+   ],
+   "plain_english": "Without making the pot into mere non-existence, one makes it what it is; thus its own essential nature is established."
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "aṣṭādaśāṅgulaṃ",
+     "gloss": "eighteen-angulas",
+     "grounds": "compound of aṣṭādaśa and aṅgula; accusative neuter singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "passive participle from jñā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aratnimānaṃ",
+     "gloss": "cubit-measure",
+     "grounds": "compound of aratni and māna; accusative neuter singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhīmatā",
+     "gloss": "by-wise-one",
+     "grounds": "instrumental singular of dhīmat",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "What measure should the wise know as the cubit?",
+   "premises": [
+    "cubit measure equals eighteen angulas",
+    "wise practitioner knows this measure"
+   ],
+   "inference": "The wise should know the cubit measure as eighteen angulas.",
+   "uncertainties": [
+    "aratni may denote elbow or cubit depending on ritual context"
+   ],
+   "plain_english": "The wise should know the cubit measure as eighteen angulas."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "ebhiḥ+nava+arṇakaiḥ+varṇaiḥ",
+     "gloss": "by-these-nine-syllabled-letters",
+     "grounds": "instrumental plural form naming the letters that designate Tripurā",
+     "morph": "instr.pl.m/n"
+    },
+    {
+     "surface": "tripurā",
+     "gloss": "Tripurā",
+     "grounds": "subject goddess named by the letters",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-spoken",
+     "grounds": "passive present third singular of kath",
+     "morph": "3.sg.pass-pres + root kath"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deity is identified by the nine-syllabled letters here?",
+   "premises": [
+    "nine-syllabled letters designate Tripurā",
+    "the letters are instrumental here",
+    "Tripurā is the subject"
+   ],
+   "inference": "Tripurā is identified by the nine-syllabled letters now.",
+   "uncertainties": [
+    "editorial sandhi fusion is preserved without splitting the token"
+   ],
+   "plain_english": "By these nine-syllabled letters, Tripurā is now spoken of."
+  }
+ ]
+}

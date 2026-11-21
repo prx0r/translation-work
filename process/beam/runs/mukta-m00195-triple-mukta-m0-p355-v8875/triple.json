@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p355",
+ "items": [
+  {
+   "verse": 8875,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "optative verb expressing prescribed ritual action",
+     "morph": "3.sg.optative.active √hu"
+    },
+    {
+     "surface": "nityaśaḥ",
+     "gloss": "daily",
+     "grounds": "indeclinable indicating regular repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental expressing the manner of offering",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "a-thousand",
+     "grounds": "numeral specifying the quantity of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vikacaiḥ",
+     "gloss": "with-blooming",
+     "grounds": "adjective qualifying the offered items",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "with-auspicious",
+     "grounds": "adjective qualifying the offered items",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What specific daily oblation practice is prescribed to secure the stated benefits?",
+   "premises": [
+    "Oblations should be performed on a daily basis.",
+    "The oblations must be performed with devotion.",
+    "A thousand blooming and auspicious items are to be offered."
+   ],
+   "inference": "A devoted daily offering of a thousand blooming auspicious items constitutes the prescribed ritual practice.",
+   "uncertainties": [
+    "The offered items are implied to be flowers but not explicitly named in this verse."
+   ],
+   "plain_english": "One should daily offer a thousand oblations with devotion using blooming, auspicious flowers."
+  }
+ ]
+}

@@ -1,0 +1,1057 @@
+{
+ "song": "mukta-m0-p556",
+ "items": [
+  {
+   "verse": 13876,
+   "rows": [
+    {
+     "surface": "dīn",
+     "gloss": "dīn",
+     "grounds": "mantra syllable/word as uttered",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣaya",
+     "gloss": "terrify",
+     "grounds": "imperative mantra element",
+     "morph": "2.sg.act.imp √bhīṣ"
+    },
+    {
+     "surface": "padānte",
+     "gloss": "at-word-end",
+     "grounds": "compound: pada+anta, locative of position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śabdodayapadaṃ",
+     "gloss": "sound-arising-word",
+     "grounds": "compound: śabda+udaya+pada, object of utterance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-utter",
+     "grounds": "injunction for mantra recitation",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "Which mantra words must be uttered at the end of the specified phrase?",
+   "premises": [
+    "The syllable dīn is prescribed",
+    "The command bhīṣaya is included",
+    "The sound-arising word is to be uttered at the word-end"
+   ],
+   "inference": "One should utter dīn, bhīṣaya, and the sound-arising word at the end of the phrase",
+   "uncertainties": [
+    "Exact referent of śabdodayapadaṃ depends on ritual context"
+   ],
+   "plain_english": "At the end of the phrase one should utter 'dīn', 'bhīṣaya', and the word of sound-arising."
+  },
+  {
+   "verse": 13877,
+   "rows": [
+    {
+     "surface": "cala",
+     "gloss": "move",
+     "grounds": "imperative mantra element",
+     "morph": "2.sg.act.imp √cal"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakala",
+     "gloss": "all",
+     "grounds": "mantra word",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-uttered",
+     "grounds": "prior action before next utterance",
+     "morph": "abs √vac"
+    },
+    {
+     "surface": "mantrāgapadato",
+     "gloss": "from-mantra-limb-word",
+     "grounds": "compound: mantra+aṅga+pada, source position",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-utter",
+     "grounds": "injunction for mantra recitation",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "What sequence of utterance follows after speaking the mantra-limb words?",
+   "premises": [
+    "The words cala and sakala are to be spoken",
+    "Each is marked by iti as quoted utterance",
+    "After speaking them one should utter from the mantra-limb word"
+   ],
+   "inference": "Having uttered 'cala' and 'sakala', one should then utter from the mantra-limb word",
+   "uncertainties": [
+    "Specific mantra-limb word intended is not named here"
+   ],
+   "plain_english": "Having said 'cala' and 'sakala', one should then utter the word from the mantra-limb."
+  },
+  {
+   "verse": 13878,
+   "rows": [
+    {
+     "surface": "jvaroccāṭana",
+     "gloss": "fever-driving-away",
+     "grounds": "compound: jvara+uccāṭana, mantra function",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "mantra word",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadec",
+     "gloss": "should-utter",
+     "grounds": "injunction for mantra recitation",
+     "morph": "3.sg.act.opt √vad"
+    },
+    {
+     "surface": "ca+vighnanāśana",
+     "gloss": "and-obstacle-destruction",
+     "grounds": "fused form: ca + vighnanāśana; compound vighna+nāśana",
+     "morph": "(indecl.)+n.nom.sg"
+    }
+   ],
+   "question": "Which additional mantra phrases for fever removal and obstacle destruction must be uttered?",
+   "premises": [
+    "The phrase jvaroccāṭana sarva is prescribed",
+    "It is marked by iti as quoted utterance",
+    "The phrase for obstacle destruction is added with ca"
+   ],
+   "inference": "One should utter 'jvaroccāṭana sarva' and also the phrase for obstacle destruction",
+   "uncertainties": [],
+   "plain_english": "One should utter 'jvaroccāṭana sarva' and also the phrase for the destruction of obstacles."
+  },
+  {
+   "verse": 13879,
+   "rows": [
+    {
+     "surface": "sarvaduṣṭapadānte",
+     "gloss": "at-all-evil-word-end",
+     "grounds": "compound: sarva+duṣṭa+pada+anta, locative of position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nibarhaṇapadaṃ",
+     "gloss": "destruction-word",
+     "grounds": "compound: nibarhaṇa+pada, object of utterance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What word must be added at the end of the phrase for all evils?",
+   "premises": [
+    "The position is at the end of the all-evil word",
+    "The destruction word is specified",
+    "The instruction continues likewise"
+   ],
+   "inference": "At the end of the all-evil phrase one should likewise add the destruction word",
+   "uncertainties": [],
+   "plain_english": "And likewise, at the end of the phrase for all evils, one should utter the word of destruction."
+  },
+  {
+   "verse": 13880,
+   "rows": [
+    {
+     "surface": "sarvaśatrucchedana",
+     "gloss": "all-enemy-cutting",
+     "grounds": "compound: sarva+śatru+ucchedana, mantra function",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaden",
+     "gloss": "should-utter",
+     "grounds": "injunction for mantra recitation",
+     "morph": "3.sg.act.opt √vad"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "possessive reference to practitioner",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "parasya",
+     "gloss": "of-another",
+     "grounds": "possessive reference to other",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For whose benefit must the phrase for cutting all enemies be uttered?",
+   "premises": [
+    "The phrase sarvaśatrucchedana is to be uttered",
+    "It is marked by iti as quoted utterance",
+    "References to me and another are included"
+   ],
+   "inference": "One should utter 'sarvaśatrucchedana' for oneself and for another",
+   "uncertainties": [
+    "Whether mama and parasya qualify enemies or beneficiaries is context-dependent"
+   ],
+   "plain_english": "One should utter 'sarvaśatrucchedana' for me and for another."
+  },
+  {
+   "verse": 13881,
+   "rows": [
+    {
+     "surface": "napuṃsakātmakaṃ",
+     "gloss": "neuter-natured",
+     "grounds": "compound: napuṃsaka+ātmaka, grammatical quality of word",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvānte",
+     "gloss": "at-end-of-all",
+     "grounds": "compound: sarva+anta, locative of position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vadej",
+     "gloss": "should-utter",
+     "grounds": "injunction for mantra recitation",
+     "morph": "3.sg.act.opt √vad"
+    },
+    {
+     "surface": "jīvaṃpadaṃ",
+     "gloss": "jīva-word",
+     "grounds": "compound: jīva+pada, object of utterance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What neuter-natured word must be uttered at the end of all phrases?",
+   "premises": [
+    "A neuter-natured form is required",
+    "It is to be uttered at the end of all",
+    "The jīva word is specified next"
+   ],
+   "inference": "At the end of all one should utter the neuter-natured jīva word, then proceed",
+   "uncertainties": [],
+   "plain_english": "At the end of all, one should utter the neuter-natured word 'jīva', and then continue."
+  },
+  {
+   "verse": 13882,
+   "rows": [
+    {
+     "surface": "sampādayad",
+     "gloss": "accomplishing",
+     "grounds": "present participle as mantra element",
+     "morph": "n.acc.sg.act.pres.part √sampad"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "indicates repetition or twofold utterance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "qualifier for meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munidhyeya",
+     "gloss": "sage-to-be-meditated",
+     "grounds": "compound: muni+dhyeya, object of meditation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-utter",
+     "grounds": "injunction for mantra recitation",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "What pair of accomplishing words must be uttered after meditating on the sage?",
+   "premises": [
+    "The accomplishing form is to be uttered as a pair",
+    "Meditation on the sage in various ways is indicated",
+    "Utterance follows thereafter"
+   ],
+   "inference": "After meditating on the sage, one should utter the accomplishing pair",
+   "uncertainties": [
+    "Identity of the sage to be meditated is not specified"
+   ],
+   "plain_english": "Then one should utter the accomplishing pair, having meditated in various ways on the sage."
+  },
+  {
+   "verse": 13883,
+   "rows": [
+    {
+     "surface": "sevakān",
+     "gloss": "servants",
+     "grounds": "object in mantra phrase",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kuruyugmaṃ",
+     "gloss": "make-pair",
+     "grounds": "compound: kuru+yugma, imperative pair",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśastrāstra",
+     "gloss": "all-weapons-missiles",
+     "grounds": "compound: sarva+śastra+astra, mantra element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃvadet",
+     "gloss": "should-utter-together",
+     "grounds": "injunction for mantra recitation",
+     "morph": "3.sg.act.opt √vad"
+    }
+   ],
+   "question": "Which commands regarding servants and all weapons must be uttered together?",
+   "premises": [
+    "Servants are addressed as objects",
+    "The make-pair command is included",
+    "All weapons and missiles are to be uttered together"
+   ],
+   "inference": "One should utter the pair 'make servants' and also utter together the phrase for all weapons and missiles",
+   "uncertainties": [],
+   "plain_english": "One should utter the pair 'make servants' and also utter together the phrase for all weapons and missiles."
+  },
+  {
+   "verse": 13884,
+   "rows": [
+    {
+     "surface": "hāhāhā",
+     "gloss": "hā-hā-hā",
+     "grounds": "mantra syllables as uttered",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāhi",
+     "gloss": "protect",
+     "grounds": "imperative mantra element",
+     "morph": "2.sg.act.imp √pā"
+    },
+    {
+     "surface": "pāhi",
+     "gloss": "protect",
+     "grounds": "imperative mantra element repeated",
+     "morph": "2.sg.act.imp √pā"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāguktaṃ",
+     "gloss": "previously-spoken",
+     "grounds": "compound: prāk+ukta, refers back",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūṭapañcakam",
+     "gloss": "seed-pentad",
+     "grounds": "compound: kūṭa+pañcaka, group of five seed elements",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does the previously spoken seed-pentad conclude with a call for protection?",
+   "premises": [
+    "The syllables hāhāhā are uttered",
+    "The command pāhi is repeated",
+    "This forms the previously spoken seed-pentad"
+   ],
+   "inference": "The previously spoken seed-pentad includes 'hāhāhā pāhi pāhi'",
+   "uncertainties": [],
+   "plain_english": "The previously spoken seed-pentad is 'hāhāhā, protect, protect'."
+  },
+  {
+   "verse": 13885,
+   "rows": [
+    {
+     "surface": "vṛttāni",
+     "gloss": "arrayed",
+     "grounds": "describes enemy armies",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "parasainyāni",
+     "gloss": "enemy-armies",
+     "grounds": "compound: para+sainya, object to be agitated",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kṣobhayad",
+     "gloss": "agitating",
+     "grounds": "present participle as mantra element",
+     "morph": "n.acc.sg.act.pres.part √kṣubh"
+    },
+    {
+     "surface": "vitayaṃ",
+     "gloss": "pair",
+     "grounds": "indicates twofold utterance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "possessive reference to practitioner",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "What agitating pair must be uttered against the arrayed enemy armies for the practitioner?",
+   "premises": [
+    "The enemy armies are arrayed",
+    "An agitating form is prescribed as a pair",
+    "The practitioner is referenced as mama"
+   ],
+   "inference": "One should utter the agitating pair against my arrayed enemy armies",
+   "uncertainties": [],
+   "plain_english": "One should utter the agitating pair against my arrayed enemy armies."
+  },
+  {
+   "verse": 13886,
+   "rows": [
+    {
+     "surface": "sarvaduṣṭadurjana",
+     "gloss": "all-evil-wicked",
+     "grounds": "compound: sarva+duṣṭa+durjana, mantra element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhyāni",
+     "gloss": "chief",
+     "grounds": "qualifies the targets or elements",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kīlayad",
+     "gloss": "pinning",
+     "grounds": "present participle as mantra element",
+     "morph": "n.acc.sg.act.pres.part √kīl"
+    },
+    {
+     "surface": "dvayam",
+     "gloss": "pair",
+     "grounds": "indicates twofold utterance",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What pinning pair must be uttered to restrain all evil and wicked beings?",
+   "premises": [
+    "The phrase sarvaduṣṭadurjana is specified",
+    "Chief targets are indicated",
+    "A pinning form is to be uttered as a pair"
+   ],
+   "inference": "One should utter the pinning pair against all chief evil and wicked beings",
+   "uncertainties": [],
+   "plain_english": "One should utter the pinning pair against all the chief evil and wicked ones."
+  },
+  {
+   "verse": 13887,
+   "rows": [
+    {
+     "surface": "mālāmantro",
+     "gloss": "garland-mantra",
+     "grounds": "compound: mālā+mantra, type of mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hanumato",
+     "gloss": "of-hanumat",
+     "grounds": "possessive reference to deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāganāgaśarākṣaraḥ",
+     "gloss": "nāga-nāga-arrow-syllabled",
+     "grounds": "compound: nāga+nāga+śara+akṣara, describes mantra structure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllabic structure characterizes the garland-mantra of Hanumat?",
+   "premises": [
+    "The mantra is identified as a garland-mantra",
+    "It belongs to Hanumat",
+    "Its syllables are described as nāga, nāga, and arrow"
+   ],
+   "inference": "Hanumat's garland-mantra is characterized by the nāga-nāga-arrow syllables",
+   "uncertainties": [
+    "Numeric or phonetic values of nāga and śara require traditional decoding"
+   ],
+   "plain_english": "The garland-mantra of Hanumat has the syllables of nāga, nāga, and arrow."
+  },
+  {
+   "verse": 13888,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "tāra",
+     "grounds": "seed syllable oṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavate",
+     "gloss": "to-lord",
+     "grounds": "honorific address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "cāñjaneyāya",
+     "gloss": "to-son-of-añjanā",
+     "grounds": "epithet of Hanumat",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "hṛnmanuḥ",
+     "gloss": "heart-mantra",
+     "grounds": "compound: hṛd+manu, identifies mantra type",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What formula constitutes the heart-mantra addressed to Hanumat as son of Añjanā?",
+   "premises": [
+    "The mantra begins with tāra",
+    "It includes obeisance to the lord",
+    "It is addressed to the son of Añjanā as the heart-mantra"
+   ],
+   "inference": "The heart-mantra is 'tāra, namo bhagavate cāñjaneyāya'",
+   "uncertainties": [],
+   "plain_english": "The heart-mantra is: 'oṃ, obeisance to the lord, to the son of Añjanā'."
+  },
+  {
+   "verse": 13889,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "tāra",
+     "grounds": "seed syllable oṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "salutation word",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavate",
+     "gloss": "to-lord",
+     "grounds": "honorific address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "identifies mantra as crest-mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāyusutāya",
+     "gloss": "to-son-of-vāyu",
+     "grounds": "epithet of Hanumat",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What formula constitutes the crest-mantra addressed to Hanumat as son of Vāyu?",
+   "premises": [
+    "The mantra begins with tāra",
+    "It includes obeisance to the lord",
+    "It is addressed to the son of Vāyu as the crest-mantra"
+   ],
+   "inference": "The crest-mantra is 'tāra, namo bhagavate vāyusutāya'",
+   "uncertainties": [],
+   "plain_english": "And the crest-mantra is: 'oṃ, obeisance to the lord, to the son of Vāyu'."
+  },
+  {
+   "verse": 13890,
+   "rows": [
+    {
+     "surface": "brahmāstranivāraṇāya",
+     "gloss": "for-brahma-missile-warding",
+     "grounds": "compound: brahma+astra+nivāraṇa, purpose of mantra",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "naravakttrāstramantrakaḥ",
+     "gloss": "man-face-missile-mantra",
+     "grounds": "compound: nara+vaktra+astra+mantraka, identifies mantra type",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which missile-mantra is designated for warding off the brahma-missile?",
+   "premises": [
+    "The purpose is warding off the brahma-missile",
+    "A specific mantra type is named",
+    "It is identified as the man-face missile-mantra"
+   ],
+   "inference": "The man-face missile-mantra is for warding off the brahma-missile",
+   "uncertainties": [],
+   "plain_english": "The man-face missile-mantra is for warding off the brahma-missile."
+  },
+  {
+   "verse": 13891,
+   "rows": [
+    {
+     "surface": "kuṇḍaladvayasaṃśobhi",
+     "gloss": "adorned-by-earring-pair",
+     "grounds": "compound: kuṇḍala+dvaya+saṃśobhin, describes face",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mukhāmbhojaṃ",
+     "gloss": "face-lotus",
+     "grounds": "compound: mukha+ambhoja, object of meditation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaren",
+     "gloss": "should-remember",
+     "grounds": "injunction for meditation",
+     "morph": "3.sg.act.opt √smṛ"
+    },
+    {
+     "surface": "muhuḥ",
+     "gloss": "repeatedly",
+     "grounds": "frequency of meditation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What visualized form of Hanumat must be remembered repeatedly in meditation?",
+   "premises": [
+    "The face-lotus is the object of remembrance",
+    "It is adorned by a pair of earrings",
+    "Remembrance should be done repeatedly"
+   ],
+   "inference": "One should repeatedly remember the lotus-face adorned with a pair of earrings",
+   "uncertainties": [],
+   "plain_english": "One should repeatedly remember his lotus-face adorned with a pair of earrings."
+  },
+  {
+   "verse": 13892,
+   "rows": [
+    {
+     "surface": "ayutañca",
+     "gloss": "and-ten-thousand",
+     "grounds": "fused form: ayuta + ca; number for recitation",
+     "morph": "n.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puraścaryyā",
+     "gloss": "preliminary-rite",
+     "grounds": "ritual preparation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rāmasyāgre",
+     "gloss": "before-rāma",
+     "grounds": "compound: rāma+agra, locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "possessive reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preliminary rite of ten thousand recitations must be performed before Rāma and Śiva?",
+   "premises": [
+    "Ten thousand recitations are prescribed",
+    "A preliminary rite is required",
+    "It is performed before Rāma and before Śiva"
+   ],
+   "inference": "The preliminary rite consists of ten thousand recitations before Rāma and Śiva",
+   "uncertainties": [],
+   "plain_english": "The preliminary rite is ten thousand recitations, performed before Rāma and before Śiva."
+  },
+  {
+   "verse": 13893,
+   "rows": [
+    {
+     "surface": "jitendriyaśca",
+     "gloss": "and-self-controlled",
+     "grounds": "fused form: jitendriya + ca; compound jita+indriya",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "ṇakāśī",
+     "gloss": "gram-eater",
+     "grounds": "compound: ṇaka+āśin as given, dietary observance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hanumaddhyānatatparaḥ",
+     "gloss": "intent-on-hanumat-meditation",
+     "grounds": "compound: hanumat+dhyāna+tatpara, mental focus",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What disciplines must the practitioner observe while devoted to meditation on Hanumat?",
+   "premises": [
+    "The practitioner must be self-controlled",
+    "A specific dietary observance is prescribed",
+    "The practitioner must be intent on meditation on Hanumat"
+   ],
+   "inference": "One should be self-controlled, eat gram, and be intent on meditation on Hanumat",
+   "uncertainties": [
+    "Exact meaning of ṇakāśī follows the transmitted form"
+   ],
+   "plain_english": "One should be self-controlled, eat gram, and be intent on meditation on Hanumat."
+  },
+  {
+   "verse": 13894,
+   "rows": [
+    {
+     "surface": "mahārogādiśāntyartham",
+     "gloss": "for-great-disease-etc-pacification",
+     "grounds": "compound: mahā+roga+ādi+śānti+artha, purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭottarasahasrakam",
+     "gloss": "thousand-and-eight",
+     "grounds": "compound: aṣṭa+uttara+sahasraka, number of recitations",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many recitations are prescribed for the pacification of great diseases and similar afflictions?",
+   "premises": [
+    "The purpose is pacification of great diseases and others",
+    "A specific number of recitations is given",
+    "The number is one thousand and eight"
+   ],
+   "inference": "One thousand and eight recitations are prescribed for pacifying great diseases and similar afflictions",
+   "uncertainties": [],
+   "plain_english": "For the pacification of great diseases and the like, one thousand and eight recitations are prescribed."
+  },
+  {
+   "verse": 13895,
+   "rows": [
+    {
+     "surface": "grahādayaśca",
+     "gloss": "and-planets-etc",
+     "grounds": "fused form: graha+ādayaḥ + ca",
+     "morph": "m.nom.pl+(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "are-destroyed",
+     "grounds": "result of the practice",
+     "morph": "3.pl.act.pres √naś"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "extends result to other cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of hostile acts",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "abhicārakāḥ",
+     "gloss": "hostile-rites",
+     "grounds": "acts of harmful magic",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What harmful influences are destroyed as a result of this mantra practice?",
+   "premises": [
+    "Planets and other influences are included",
+    "They are said to be destroyed",
+    "All hostile rites are likewise destroyed"
+   ],
+   "inference": "The practice destroys planetary afflictions and all hostile rites",
+   "uncertainties": [],
+   "plain_english": "Planets and other such influences are destroyed, and likewise all hostile rites."
+  },
+  {
+   "verse": 13896,
+   "rows": [
+    {
+     "surface": "dhyāyaṃs",
+     "gloss": "meditating",
+     "grounds": "present participle describing practitioner",
+     "morph": "m.nom.sg.act.pres.part √dhyai"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner of practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣahantāraṃ",
+     "gloss": "akṣa-slayer",
+     "grounds": "compound: akṣa+hantṛ, epithet of Hanumat",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃgrāme",
+     "gloss": "in-battle",
+     "grounds": "context of victory",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vijayeta",
+     "gloss": "would-conquer",
+     "grounds": "result of meditation",
+     "morph": "3.sg.act.opt √ji"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What victory in battle is gained by meditating on Hanumat as the slayer of Akṣa?",
+   "premises": [
+    "The practitioner meditates thus",
+    "Hanumat is contemplated as the slayer of Akṣa",
+    "The context is battle"
+   ],
+   "inference": "By meditating on Hanumat as the slayer of Akṣa, one would conquer in battle",
+   "uncertainties": [],
+   "plain_english": "Thus meditating on the slayer of Akṣa, one would conquer in battle."
+  },
+  {
+   "verse": 13897,
+   "rows": [
+    {
+     "surface": "ayutenāpi",
+     "gloss": "even-by-ten-thousand",
+     "grounds": "compound/fused: ayutena + api, number of recitations",
+     "morph": "n.ins.sg+(indecl.)"
+    },
+    {
+     "surface": "avicchinna",
+     "gloss": "unbroken",
+     "grounds": "qualifies the junction or continuity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sandhim",
+     "gloss": "junction",
+     "grounds": "object obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "result of recitation",
+     "morph": "3.sg.act.pres √āp"
+    },
+    {
+     "surface": "asaṃśayam",
+     "gloss": "without-doubt",
+     "grounds": "compound: a+saṃśaya, certainty of result",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What assured result is obtained by ten thousand unbroken recitations?",
+   "premises": [
+    "Ten thousand recitations are performed",
+    "The practice is unbroken",
+    "The result is obtained without doubt"
+   ],
+   "inference": "By ten thousand unbroken recitations one obtains the junction without doubt",
+   "uncertainties": [
+    "Specific meaning of sandhi in this ritual context is not explicit"
+   ],
+   "plain_english": "Even by ten thousand unbroken recitations, one obtains the junction without doubt."
+  },
+  {
+   "verse": 13898,
+   "rows": [
+    {
+     "surface": "hauṃbījaṃ",
+     "gloss": "hauṃ-seed",
+     "grounds": "compound: hauṃ+bīja, seed syllable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccāryya",
+     "gloss": "having-uttered",
+     "grounds": "prior action before next utterance",
+     "morph": "abs √uc"
+    },
+    {
+     "surface": "pūrvoktaṃ",
+     "gloss": "previously-spoken",
+     "grounds": "compound: pūrva+ukta, refers back",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūṭapañcakam",
+     "gloss": "seed-pentad",
+     "grounds": "compound: kūṭa+pañcaka, group of five seed elements",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must be uttered properly before reciting the previously spoken seed-pentad?",
+   "premises": [
+    "The hauṃ seed is specified",
+    "It must be uttered properly",
+    "The previously spoken seed-pentad follows"
+   ],
+   "inference": "Having properly uttered the hauṃ seed, one should recite the previously spoken seed-pentad",
+   "uncertainties": [],
+   "plain_english": "Having properly uttered the seed 'hauṃ', one should recite the previously spoken seed-pentad."
+  },
+  {
+   "verse": 13899,
+   "rows": [
+    {
+     "surface": "jagatīchanda",
+     "gloss": "jagatī-meter",
+     "grounds": "compound: jagatī+chandas, metrical designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "states the prescribed meter",
+     "morph": "n.nom.sg.past.pass.part √diś"
+    },
+    {
+     "surface": "hanumān",
+     "gloss": "hanumat",
+     "grounds": "name of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "ritual designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "states the accepted view",
+     "morph": "m.nom.sg.past.pass.part √man"
+    }
+   ],
+   "question": "What meter and deity are declared for this Hanumat mantra?",
+   "premises": [
+    "The jagatī meter is declared",
+    "Hanumat is named",
+    "Hanumat is considered the deity"
+   ],
+   "inference": "The mantra's meter is jagatī and its deity is Hanumat",
+   "uncertainties": [],
+   "plain_english": "The meter is declared to be jagatī, and Hanumat is considered the deity."
+  }
+ ]
+}

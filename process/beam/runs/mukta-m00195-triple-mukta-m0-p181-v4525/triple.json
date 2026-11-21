@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4525,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral indicating quantity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarṣapān",
+     "gloss": "mustard-seeds",
+     "grounds": "object employed in the ritual act",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "puṃvaśīkṛte",
+     "gloss": "for-man-subjugation",
+     "grounds": "compound denoting the purpose of subjugating a man; locative of purpose",
+     "morph": "compound: puṃs+vaśīkṛta, n.loc.sg"
+    }
+   ],
+   "question": "What quantity of mustard seeds is required for the subjugation of a man?",
+   "premises": [
+    "The ritual context specifies acts directed toward controlling others.",
+    "Mustard seeds are prescribed as the ritual material.",
+    "A specific quantity is stipulated for subjugating a man."
+   ],
+   "inference": "One thousand mustard seeds are to be used for the subjugation of a man.",
+   "uncertainties": [
+    "The exact ritual procedure accompanying the use of the mustard seeds is not stated in this verse."
+   ],
+   "plain_english": "But for the subjugation of a man, one thousand mustard seeds are used."
+  }
+ ]
+}

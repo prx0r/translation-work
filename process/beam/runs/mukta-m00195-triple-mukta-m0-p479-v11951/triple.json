@@ -1,0 +1,1137 @@
+{
+ "song": "mukta-m0-p479",
+ "items": [
+  {
+   "verse": 11951,
+   "rows": [
+    {
+     "surface": "varṣāhatulyasāhasraṃ",
+     "gloss": "year-day-equal-thousand",
+     "grounds": "compound indicating a thousand equal to a year of days",
+     "morph": "compound"
+    },
+    {
+     "surface": "japo",
+     "gloss": "recitation",
+     "grounds": "the act of mantra repetition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra being described",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "parikīrttitaḥ",
+     "gloss": "declared",
+     "grounds": "stated as prescribed",
+     "morph": "m.nom.sg.past-passive-participle (√kīrt)"
+    }
+   ],
+   "question": "What quantity of recitation is prescribed for this mantra?",
+   "premises": [
+    "The recitation count is specified as a thousand equal to a year of days.",
+    "This count is declared for this mantra."
+   ],
+   "inference": "The prescribed recitation for this mantra is one thousand repetitions equivalent to a year of days.",
+   "uncertainties": [
+    "The exact numerical value implied by varṣāhatulyasāhasraṃ is context-dependent."
+   ],
+   "plain_english": "The recitation of this mantra is declared to be a thousand, equal to the days of a year."
+  },
+  {
+   "verse": 11952,
+   "rows": [
+    {
+     "surface": "tarppaṇādi",
+     "gloss": "libation-and-so-forth",
+     "grounds": "libation and related rites",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence after recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryyād",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform the rites",
+     "morph": "3.sg.optative-active (√kṛ)"
+    },
+    {
+     "surface": "aṅgaiḥ",
+     "gloss": "with-limbs",
+     "grounds": "with the subsidiary parts of the mantra",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "states the result or designation",
+     "morph": "3.sg.optative-active (√as)"
+    },
+    {
+     "surface": "prathamāvṛtiḥ",
+     "gloss": "first-enclosure",
+     "grounds": "the first surrounding worship layer",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "What ritual actions establish the first enclosure after recitation?",
+   "premises": [
+    "Libation and related rites should be performed afterward.",
+    "These rites are performed with the mantra limbs.",
+    "This constitutes the first enclosure."
+   ],
+   "inference": "Performing libation and related rites with the mantra limbs establishes the first enclosure.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform libation and so forth with the limbs; this should be the first enclosure."
+  },
+  {
+   "verse": 11953,
+   "rows": [
+    {
+     "surface": "kāntī",
+     "gloss": "radiance",
+     "grounds": "name of a deity or power in the enclosure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ruciś",
+     "gloss": "splendor",
+     "grounds": "name of a deity or power in the enclosure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connects elements in the list",
+     "morph": "(indecl., sandhi cā = ca + ā)"
+    },
+    {
+     "surface": "ṣṭapatre",
+     "gloss": "on-eight-petal",
+     "grounds": "location in the eight-petaled lotus",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "bhūpure",
+     "gloss": "in-ground-enclosure",
+     "grounds": "location in the outer square enclosure",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "divyahetayaḥ",
+     "gloss": "divine-weapons",
+     "grounds": "divine weapons placed in the ground enclosure",
+     "morph": "f.nom.pl (compound)"
+    }
+   ],
+   "question": "Which powers and weapons are placed in the eight-petal and ground enclosures?",
+   "premises": [
+    "Radiance and splendor are placed on the eight-petaled lotus.",
+    "Divine weapons are placed in the ground enclosure."
+   ],
+   "inference": "The eight-petal enclosure holds Radiance and Splendor, while the ground enclosure holds the divine weapons.",
+   "uncertainties": [
+    "The exact identity of kāntī and ruciś as deities or qualities is not fully specified."
+   ],
+   "plain_english": "Radiance and Splendor are on the eight-petaled lotus, and the divine weapons are in the ground enclosure."
+  },
+  {
+   "verse": 11954,
+   "rows": [
+    {
+     "surface": "mallikākusumair",
+     "gloss": "with-jasmine-flowers",
+     "grounds": "offerings used in the oblation",
+     "morph": "n.inst.pl (compound)"
+    },
+    {
+     "surface": "homaś",
+     "gloss": "oblation",
+     "grounds": "fire offering ritual",
+     "morph": "m.nom.sg (sandhi homaś = homaḥ)"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl., sandhi cā = ca + ā)"
+    },
+    {
+     "surface": "yutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "number of oblations",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tviṣṭadāyakaḥ",
+     "gloss": "luster-giving",
+     "grounds": "produces radiance or brilliance",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What oblation practice yields the gift of luster?",
+   "premises": [
+    "An oblation is performed with jasmine flowers.",
+    "The oblation is done ten thousand times.",
+    "This practice gives luster."
+   ],
+   "inference": "Performing ten thousand oblations with jasmine flowers bestows luster.",
+   "uncertainties": [
+    "Whether yutaṃ means exactly ten thousand or a large number is context-dependent."
+   ],
+   "plain_english": "An oblation of ten thousand offerings with jasmine flowers gives luster."
+  },
+  {
+   "verse": 11955,
+   "rows": [
+    {
+     "surface": "anyān",
+     "gloss": "other",
+     "grounds": "additional applications beyond those stated",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "includes further possibilities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayogāṃś",
+     "gloss": "applications",
+     "grounds": "ritual applications or uses",
+     "morph": "m.acc.pl (sandhi prayogāṃś = prayogān)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryyād",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to perform",
+     "morph": "3.sg.optative-active (√kṛ)"
+    },
+    {
+     "surface": "aṣṭārṇakoditān",
+     "gloss": "by-eight-syllable-declared",
+     "grounds": "taught in connection with the eight-syllable mantra",
+     "morph": "m.acc.pl.past-passive-participle (compound, √vad)"
+    }
+   ],
+   "question": "What additional ritual applications may be performed according to the eight-syllable teaching?",
+   "premises": [
+    "Other applications also exist.",
+    "These applications are declared by the eight-syllable mantra tradition.",
+    "One should perform them."
+   ],
+   "inference": "One may also perform other applications taught in connection with the eight-syllable mantra.",
+   "uncertainties": [],
+   "plain_english": "One should also perform other applications declared in connection with the eight-syllable mantra."
+  },
+  {
+   "verse": 11956,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "oṃ",
+     "grounds": "the sacred syllable oṃ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": " [namo bhagavate narasiṃhāya namastejastejase āvirāvirbhava vajranakha vajradaṃṣṭhra karmāśayān rodhayarodhaya tamo grasagrasa svāhā abhayamātmani bhūyiṣṭhāḥ oṃ kṣraum ||]",
+     "gloss": "mantra-text",
+     "grounds": "full mantra formula as given in the source",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo bhagavate narasiṃhāya hṛdvade",
+     "gloss": "salutation-to-lord-narasimha-to-heart",
+     "grounds": "salutation formula directed to Narasimha for the heart",
+     "morph": "(indecl., compound phrase)"
+    }
+   ],
+   "question": "How does the Narasimha mantra begin and address the deity for the heart?",
+   "premises": [
+    "The mantra begins with the syllable oṃ.",
+    "The full mantra formula is given.",
+    "It includes salutation to Lord Narasimha for the heart."
+   ],
+   "inference": "The Narasimha mantra opens with oṃ and includes a heart-directed salutation to Lord Narasimha.",
+   "uncertainties": [
+    "The internal segmentation and ritual assignment of the bracketed mantra text are not fully analyzed here."
+   ],
+   "plain_english": "The mantra begins with oṃ, gives the full formula, and includes the salutation: 'namo bhagavate narasiṃhāya' for the heart."
+  },
+  {
+   "verse": 11957,
+   "rows": [
+    {
+     "surface": "vajranakha",
+     "gloss": "thunderbolt-nail",
+     "grounds": "epithet of Narasimha",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "vajradaṃṣṭra",
+     "gloss": "thunderbolt-tusk",
+     "grounds": "epithet of Narasimha",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence in recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmmāśayān",
+     "gloss": "karma-residues",
+     "grounds": "latent impressions of actions",
+     "morph": "m.acc.pl (compound)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "injunction to recite",
+     "morph": "3.sg.optative-active (√vad)"
+    }
+   ],
+   "question": "What epithets and request concerning karma residues are recited in this mantra portion?",
+   "premises": [
+    "The epithets thunderbolt-nail and thunderbolt-tusk are invoked.",
+    "One should then speak regarding karma residues."
+   ],
+   "inference": "After invoking Narasimha as thunderbolt-nail and thunderbolt-tusk, one should recite the phrase addressing karma residues.",
+   "uncertainties": [],
+   "plain_english": "One should say: 'O thunderbolt-nail, O thunderbolt-tusk,' and then speak concerning the karma residues."
+  },
+  {
+   "verse": 11958,
+   "rows": [
+    {
+     "surface": "svāhāṃ",
+     "gloss": "svāhā",
+     "grounds": "ritual exclamation for offering",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "adds another element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "state of being without fear",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl., sandhi cā = ca + ā)"
+    },
+    {
+     "surface": "tmani",
+     "gloss": "in-self",
+     "grounds": "located in oneself",
+     "morph": "m.loc.sg (sandhi tmani = ātmani)"
+    },
+    {
+     "surface": "bhūyiṣṭhā",
+     "gloss": "may-be-abundant",
+     "grounds": "wish that it may abound",
+     "morph": "3.sg.benedictive-active (√bhū)"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "oṃ",
+     "grounds": "the syllable oṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "injunction to recite",
+     "morph": "3.sg.optative-active (√vad)"
+    }
+   ],
+   "question": "What concluding words secure fearlessness in oneself within this mantra recitation?",
+   "premises": [
+    "The recitation includes svāhā.",
+    "It includes a wish for fearlessness in oneself.",
+    "It concludes with oṃ."
+   ],
+   "inference": "One should recite svāhā, wish for abundant fearlessness in oneself, and say oṃ.",
+   "uncertainties": [
+    "The form bhūyiṣṭhā is read as a benedictive wish; exact parsing may vary."
+   ],
+   "plain_english": "One should say 'svāhā', and also 'may there be abundant fearlessness in myself', and then say 'oṃ'."
+  },
+  {
+   "verse": 11959,
+   "rows": [
+    {
+     "surface": "śukadevo",
+     "gloss": "śukadeva",
+     "grounds": "name of the sage",
+     "morph": "m.nom.sg (sandhi śukadevo = śukadevaḥ)"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "seer associated with the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "stated as the sage",
+     "morph": "m.nom.sg.past-passive-participle (√vac)"
+    },
+    {
+     "surface": "mitaṃ",
+     "gloss": "measured",
+     "grounds": "part of the meter name as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chandaś",
+     "gloss": "meter",
+     "grounds": "metrical form of the mantra",
+     "morph": "n.nom.sg (sandhi chandaś = chandaḥ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity of the mantra",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who are the sage, meter, and deity declared for this mantra?",
+   "premises": [
+    "Śukadeva is declared as the sage.",
+    "The meter is given as mita.",
+    "A deity is also declared."
+   ],
+   "inference": "The mantra's sage is Śukadeva, its meter is mita, and it has a presiding deity.",
+   "uncertainties": [
+    "The exact identification of the meter named mita and the deity is not specified in this verse."
+   ],
+   "plain_english": "Śukadeva is declared the sage, mita is the meter, and there is a presiding deity."
+  },
+  {
+   "verse": 11960,
+   "rows": [
+    {
+     "surface": "daśāvatāra",
+     "gloss": "ten-incarnation",
+     "grounds": "referring to the ten incarnations",
+     "morph": "compound"
+    },
+    {
+     "surface": "nṛhares",
+     "gloss": "of-man-lion",
+     "grounds": "of Narasimha",
+     "morph": "m.gen.sg (compound)"
+    },
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "comparable in measure or manner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lakṣamito",
+     "gloss": "hundred-thousand-measured",
+     "grounds": "measured as one hundred thousand",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "japaḥ",
+     "gloss": "recitation",
+     "grounds": "mantra repetition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What recitation count is prescribed for the Narasimha of the ten incarnations?",
+   "premises": [
+    "The recitation is for Narasimha among the ten incarnations.",
+    "The recitation is measured as one hundred thousand.",
+    "It is described as equal or comparable."
+   ],
+   "inference": "The prescribed recitation for this Narasimha mantra is one hundred thousand repetitions.",
+   "uncertainties": [
+    "The force of tulyaṃ in this context is not fully explicit."
+   ],
+   "plain_english": "The recitation for Narasimha of the ten incarnations is equal to one hundred thousand."
+  },
+  {
+   "verse": 11961,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "name of the sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛṣir",
+     "gloss": "sage",
+     "grounds": "seer of the mantra",
+     "morph": "m.nom.sg (sandhi ṛṣir = ṛṣiḥ)"
+    },
+    {
+     "surface": "anuṣṭup",
+     "gloss": "anuṣṭup",
+     "grounds": "name of the meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cac",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl., sandhi cac = ca + c)"
+    },
+    {
+     "surface": "chando",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg (sandhi chando = chandaḥ)"
+    },
+    {
+     "surface": "devo",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "m.nom.sg (sandhi devo = devaḥ)"
+    },
+    {
+     "surface": "janārddanaḥ",
+     "gloss": "janārdana",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who are the sage, meter, and deity assigned to this mantra?",
+   "premises": [
+    "Brahmā is the sage.",
+    "Anuṣṭup is the meter.",
+    "Janārdana is the deity."
+   ],
+   "inference": "This mantra is assigned to Brahmā as sage, anuṣṭup as meter, and Janārdana as deity.",
+   "uncertainties": [],
+   "plain_english": "Brahmā is the sage, anuṣṭup is the meter, and the deity is Janārdana."
+  },
+  {
+   "verse": 11962,
+   "rows": [
+    {
+     "surface": "varābhaye",
+     "gloss": "boon-fearlessness",
+     "grounds": "gestures of granting boon and fearlessness",
+     "morph": "n.acc.du (compound)"
+    },
+    {
+     "surface": "cakragade",
+     "gloss": "discus-mace",
+     "grounds": "weapons discus and mace",
+     "morph": "n.acc.du (compound)"
+    },
+    {
+     "surface": "dadhataṃ",
+     "gloss": "holding",
+     "grounds": "bearing in the hands",
+     "morph": "m.acc.sg.present-participle (√dhā)"
+    },
+    {
+     "surface": "pītavāsasam",
+     "gloss": "yellow-garment",
+     "grounds": "wearing yellow clothing",
+     "morph": "m.acc.sg (compound)"
+    }
+   ],
+   "question": "How is the deity visualized in terms of gestures, weapons, and garment?",
+   "premises": [
+    "The deity holds boon and fearlessness gestures.",
+    "The deity holds discus and mace.",
+    "The deity wears a yellow garment."
+   ],
+   "inference": "The deity is visualized as holding boon and fearlessness, bearing discus and mace, and wearing yellow garments.",
+   "uncertainties": [],
+   "plain_english": "One should visualize him holding boon and fearlessness, the discus and mace, and wearing a yellow garment."
+  },
+  {
+   "verse": 11963,
+   "rows": [
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra or deity described",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "pūjāprayogādi",
+     "gloss": "worship-application-and-so-forth",
+     "grounds": "worship, applications, and related practices",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "japahomādikaṃ",
+     "gloss": "recitation-oblation-and-so-forth",
+     "grounds": "recitation, oblation, and related rites",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "indicates what is to be done",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What ritual practices should be undertaken for this mantra or deity?",
+   "premises": [
+    "Worship, applications, and related practices belong to this.",
+    "Recitation, oblation, and related rites should be performed."
+   ],
+   "inference": "For this mantra, one should perform worship, applications, recitation, oblation, and related rites.",
+   "uncertainties": [],
+   "plain_english": "For this, worship and applications, as well as recitation, oblation, and so forth, should be performed."
+  },
+  {
+   "verse": 11964,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsevite",
+     "gloss": "when-served",
+     "grounds": "when duly attended or worshiped",
+     "morph": "n.loc.sg.past-passive-participle (√sev)"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "release or spiritual freedom",
+     "morph": "f.nom.sg (sandhi muktir = muktiḥ)"
+    },
+    {
+     "surface": "ājanmabrahmacāribhiḥ",
+     "gloss": "by-from-birth-celibates",
+     "grounds": "by those celibate from birth",
+     "morph": "m.inst.pl (compound)"
+    }
+   ],
+   "question": "What spiritual result is attained by lifelong celibates who serve this practice?",
+   "premises": [
+    "The practice is duly served.",
+    "The practitioners are celibate from birth.",
+    "Liberation is attained."
+   ],
+   "inference": "When served by those celibate from birth, this practice leads to liberation.",
+   "uncertainties": [],
+   "plain_english": "Likewise, when it is served by those who are celibate from birth, liberation is attained."
+  },
+  {
+   "verse": 11965,
+   "rows": [
+    {
+     "surface": "upendramantraṃ",
+     "gloss": "upendra-mantra",
+     "grounds": "the mantra of Upendra",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "praṇavam",
+     "gloss": "praṇava",
+     "grounds": "the syllable oṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "um",
+     "gloss": "um",
+     "grounds": "the syllable um as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upendrāya",
+     "gloss": "to-upendra",
+     "grounds": "addressed to Upendra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "hṛnnamaḥ",
+     "gloss": "heart-salutation",
+     "grounds": "salutation formula for the heart",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "What is the structure of the Upendra mantra as stated here?",
+   "premises": [
+    "The Upendra mantra is presented.",
+    "It includes praṇava and the syllable um.",
+    "It includes the address to Upendra and the heart salutation."
+   ],
+   "inference": "The Upendra mantra consists of praṇava, um, the address to Upendra, and the heart salutation.",
+   "uncertainties": [],
+   "plain_english": "The Upendra mantra is: praṇava, um, 'to Upendra', and the heart salutation."
+  },
+  {
+   "verse": 11966,
+   "rows": [
+    {
+     "surface": "paṃktiś",
+     "gloss": "paṅkti",
+     "grounds": "name of the meter",
+     "morph": "f.nom.sg (sandhi paṃktiś = paṅktiḥ)"
+    },
+    {
+     "surface": "chanda",
+     "gloss": "meter",
+     "grounds": "metrical form",
+     "morph": "n.nom.sg (sandhi chanda = chandaḥ)"
+    },
+    {
+     "surface": "upendras",
+     "gloss": "upendra",
+     "grounds": "presiding deity",
+     "morph": "m.nom.sg (sandhi upendras = upendraḥ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devo",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "m.nom.sg (sandhi devo = devaḥ)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "seed syllable of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "also stated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "traditionally taught",
+     "morph": "n.nom.sg.past-passive-participle (√smṛ)"
+    }
+   ],
+   "question": "What meter, deity, and seed are traditionally assigned to the Upendra mantra?",
+   "premises": [
+    "Paṅkti is the meter.",
+    "Upendra is the deity.",
+    "A seed syllable is likewise remembered."
+   ],
+   "inference": "The Upendra mantra has paṅkti as meter, Upendra as deity, and an associated seed syllable.",
+   "uncertainties": [
+    "The specific seed syllable is not named in this verse."
+   ],
+   "plain_english": "The meter is paṅkti, the deity is Upendra, and the seed syllable is likewise remembered."
+  },
+  {
+   "verse": 11967,
+   "rows": [
+    {
+     "surface": "dhyānapujāprayogādyaṃ",
+     "gloss": "meditation-worship-application-and-so-forth",
+     "grounds": "meditation, worship, applications, and related practices",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "balivāmanavad",
+     "gloss": "like-bali-vāmana",
+     "grounds": "in the manner of the Bali-Vāmana practice",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "indicates how it should be done",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "How should meditation, worship, and applications be performed for this mantra?",
+   "premises": [
+    "Meditation, worship, and applications are to be performed.",
+    "They should follow the manner of the Bali-Vāmana practice."
+   ],
+   "inference": "Meditation, worship, and applications for this mantra should be performed like those of the Bali-Vāmana practice.",
+   "uncertainties": [],
+   "plain_english": "Meditation, worship, applications, and so forth should be done as in the case of Bali and Vāmana."
+  },
+  {
+   "verse": 11968,
+   "rows": [
+    {
+     "surface": "haraye",
+     "gloss": "to-hari",
+     "grounds": "addressed to Hari",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nama",
+     "gloss": "salutation",
+     "grounds": "expression of reverence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ity",
+     "gloss": "thus",
+     "grounds": "marks the quoted formula",
+     "morph": "(indecl., sandhi ity = iti)"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "refers to the mantra",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcākṣaro",
+     "gloss": "five-syllable",
+     "grounds": "consisting of five syllables",
+     "morph": "m.nom.sg (compound, sandhi pañcākṣaro = pañcākṣaraḥ)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "regarded as such",
+     "morph": "m.nom.sg.past-passive-participle (√man)"
+    }
+   ],
+   "question": "What is the form and syllable count of the mantra addressed to Hari?",
+   "premises": [
+    "The formula is 'haraye nama'.",
+    "This is identified as a mantra.",
+    "It is considered to have five syllables."
+   ],
+   "inference": "The mantra 'haraye nama' is regarded as a five-syllable mantra.",
+   "uncertainties": [],
+   "plain_english": "The mantra 'haraye nama' is considered to be a five-syllable mantra."
+  },
+  {
+   "verse": 11969,
+   "rows": [
+    {
+     "surface": "śrībījādyas",
+     "gloss": "with-śrī-seed-beginning",
+     "grounds": "beginning with the śrī seed syllable",
+     "morph": "m.nom.sg (compound, sandhi śrībījādyas = śrībījādyaḥ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāridrye",
+     "gloss": "in-poverty",
+     "grounds": "in the condition of poverty",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvanāśāya",
+     "gloss": "for-all-destruction",
+     "grounds": "for the destruction of all poverty",
+     "morph": "m.dat.sg (compound)"
+    },
+    {
+     "surface": "pakṣirāṭ",
+     "gloss": "bird-king",
+     "grounds": "the king of birds, Garuda",
+     "morph": "m.nom.sg (compound, sandhi pakṣirāṭ = pakṣirāj)"
+    }
+   ],
+   "question": "Which mantra form beginning with the śrī seed destroys poverty?",
+   "premises": [
+    "A form beginning with the śrī seed is indicated.",
+    "It is used in poverty.",
+    "It is for the destruction of all poverty and involves the bird-king."
+   ],
+   "inference": "The mantra beginning with the śrī seed, associated with the bird-king, is used for the destruction of all poverty.",
+   "uncertainties": [
+    "The exact mantra formula is not fully spelled out in this verse."
+   ],
+   "plain_english": "Beginning with the śrī seed, this mantra of the bird-king is for the destruction of all poverty."
+  },
+  {
+   "verse": 11970,
+   "rows": [
+    {
+     "surface": "aiṃsamanvitam",
+     "gloss": "with-aiṃ-endowed",
+     "grounds": "joined with the syllable aiṃ",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "antro",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg (sandhi antro = mantraḥ)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "this",
+     "grounds": "refers to the mantra",
+     "morph": "pron.nom.sg.m (sandhi yaṃ = ayam)"
+    },
+    {
+     "surface": "drutaṃ",
+     "gloss": "quickly",
+     "grounds": "without delay",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāpradāyakaḥ",
+     "gloss": "knowledge-giving",
+     "grounds": "bestows knowledge",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What effect does the mantra endowed with the syllable aiṃ produce?",
+   "premises": [
+    "This mantra is endowed with the syllable aiṃ.",
+    "It quickly gives knowledge."
+   ],
+   "inference": "The mantra endowed with aiṃ quickly bestows knowledge.",
+   "uncertainties": [],
+   "plain_english": "This mantra, endowed with the syllable aiṃ, quickly gives knowledge."
+  },
+  {
+   "verse": 11971,
+   "rows": [
+    {
+     "surface": "japankāmādikaṃ",
+     "gloss": "reciting-desire-and-so-forth",
+     "grounds": "reciting for desire and related aims",
+     "morph": "m.nom.sg.present-participle (compound, √jap)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mohayed",
+     "gloss": "one-should-enchant",
+     "grounds": "should cause fascination or delusion",
+     "morph": "3.sg.optative-active (√muh)"
+    },
+    {
+     "surface": "dhanināṃ",
+     "gloss": "of-wealthy-people",
+     "grounds": "of those who possess wealth",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "gaṇān",
+     "gloss": "groups",
+     "grounds": "assemblies or groups",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What effect does reciting this mantra for desire have on groups of wealthy people?",
+   "premises": [
+    "One recites the mantra for desire and related aims.",
+    "The recitation is directed in that context.",
+    "It enchants groups of wealthy people."
+   ],
+   "inference": "Reciting this mantra for desire can enchant groups of wealthy people.",
+   "uncertainties": [],
+   "plain_english": "Reciting it for desire and such aims, one should enchant groups of wealthy people."
+  },
+  {
+   "verse": 11972,
+   "rows": [
+    {
+     "surface": "hūṅkārapūrvakaṃ",
+     "gloss": "with-hūṃ-preceded",
+     "grounds": "preceded by the syllable hūṃ",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "after reciting",
+     "morph": "absolutive (√jap)"
+    },
+    {
+     "surface": "samare",
+     "gloss": "in-battle",
+     "grounds": "in combat",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vijayī",
+     "gloss": "victorious",
+     "grounds": "winning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "becomes as a result",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What result follows from reciting the mantra preceded by hūṃ in battle?",
+   "premises": [
+    "The mantra is recited preceded by hūṃ.",
+    "The recitation occurs in battle.",
+    "One becomes victorious."
+   ],
+   "inference": "Reciting the mantra preceded by hūṃ in battle leads to victory.",
+   "uncertainties": [],
+   "plain_english": "Having recited it preceded by hūṃ in battle, one becomes victorious."
+  },
+  {
+   "verse": 11973,
+   "rows": [
+    {
+     "surface": "kāmapūrvaṃ",
+     "gloss": "with-kāma-preceded",
+     "grounds": "preceded by the kāma element",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japato",
+     "gloss": "of-one-reciting",
+     "grounds": "for the person who recites",
+     "morph": "m.gen.sg.present-participle (√jap)"
+    },
+    {
+     "surface": "vaṃśaḥ",
+     "gloss": "lineage",
+     "grounds": "family line or progeny",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaśyapavad",
+     "gloss": "like-kaśyapa",
+     "grounds": "in the manner of Kaśyapa's lineage",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What happens to the lineage of one who recites the mantra preceded by kāma?",
+   "premises": [
+    "The mantra is recited preceded by kāma.",
+    "The reciter's lineage is affected.",
+    "It becomes like that of Kaśyapa."
+   ],
+   "inference": "For one who recites the mantra preceded by kāma, the lineage becomes like Kaśyapa's.",
+   "uncertainties": [
+    "The specific sense of kaśyapavad (numerous, illustrious, etc.) is not explicit."
+   ],
+   "plain_english": "And for one who recites it preceded by kāma, the lineage becomes like that of Kaśyapa."
+  },
+  {
+   "verse": 11974,
+   "rows": [
+    {
+     "surface": "harir",
+     "gloss": "hari",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg (sandhi harir = hariḥ)"
+    },
+    {
+     "surface": "devas",
+     "gloss": "deity",
+     "grounds": "presiding deity",
+     "morph": "m.nom.sg (sandhi devas = devaḥ)"
+    },
+    {
+     "surface": "tvā",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl., sandhi tvā = tu + ā)"
+    },
+    {
+     "surface": "dyapadaṃ",
+     "gloss": "first-word",
+     "grounds": "the first word or element",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "bījaśaktī",
+     "gloss": "seed-power",
+     "grounds": "seed and power of the mantra",
+     "morph": "f.nom.du (compound)"
+    },
+    {
+     "surface": "manor",
+     "gloss": "of-mantra",
+     "grounds": "belonging to the mantra",
+     "morph": "m.gen.sg (sandhi manor = manoḥ)"
+    },
+    {
+     "surface": "mate",
+     "gloss": "considered",
+     "grounds": "regarded as such",
+     "morph": "n.nom.du.past-passive-participle (√man)"
+    }
+   ],
+   "question": "What deity, first element, and seed-power are assigned to this mantra?",
+   "premises": [
+    "Hari is the deity.",
+    "The first word is identified.",
+    "The seed and power of the mantra are considered."
+   ],
+   "inference": "Hari is the deity, the first word is specified, and the seed and power are assigned to the mantra.",
+   "uncertainties": [
+    "The exact identity of the first word and the seed-power pair is not fully specified in this verse."
+   ],
+   "plain_english": "Hari is the deity; the first word, and the seed and power of the mantra, are considered as such."
+  }
+ ]
+}

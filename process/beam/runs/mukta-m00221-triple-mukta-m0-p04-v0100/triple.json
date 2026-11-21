@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "antardhānaṃ",
+     "gloss": "disappearance",
+     "grounds": "noun antardhāna in accusative singular neuter; object or destination of yayau",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "yayau",
+     "gloss": "went",
+     "grounds": "verb yā, third singular active aorist",
+     "morph": "3.sg.act-aor"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmādīnāṃ",
+     "gloss": "of-brahma-and-others",
+     "grounds": "compound brahma-ādi in genitive plural masculine; genitive absolute with prapaśyatām",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prapaśyatām",
+     "gloss": "seeing",
+     "grounds": "participle pra-paś in genitive plural masculine; genitive absolute with brahmādīnāṃ",
+     "morph": "m.gen.pl.act-pres-part"
+    }
+   ],
+   "question": "How does the goddess vanish from Indra's sight while Brahmā and others still see her?",
+   "premises": [
+    "The goddess announces she will reveal her form to Indra.",
+    "She then disappears in the sight of Brahmā and others.",
+    "The disappearance occurs at that place."
+   ],
+   "inference": "The verse records a sudden concealment witnessed by Brahmā and others.",
+   "uncertainties": [
+    "The subject of yayau is not explicit in this verse.",
+    "Whether antardhānaṃ is destination or result is ambiguous."
+   ],
+   "plain_english": "She vanished there, while Brahmā and the others looked on."
+  }
+ ]
+}

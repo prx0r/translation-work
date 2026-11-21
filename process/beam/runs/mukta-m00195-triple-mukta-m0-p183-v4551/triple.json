@@ -1,0 +1,1243 @@
+{
+ "song": "mukta-m0-p183",
+ "items": [
+  {
+   "verse": 4551,
+   "rows": [
+    {
+     "surface": "sūtikā",
+     "gloss": "childbirth",
+     "grounds": "first member indicating childbirth-related affliction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīḍāṃ",
+     "gloss": "affliction",
+     "grounds": "object of feared condition",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhayaṃ",
+     "gloss": "fear",
+     "grounds": "object of feared condition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekākino",
+     "gloss": "of-one-alone",
+     "grounds": "person who might experience affliction",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "expresses prescribed absence of affliction",
+     "morph": "3.sg.optative-act + bhū"
+    }
+   ],
+   "question": "What affliction and fear should not arise for a person who is alone?",
+   "premises": [
+    "Childbirth affliction is a possible suffering",
+    "Fear is a possible suffering",
+    "A person may be alone"
+   ],
+   "inference": "Neither childbirth affliction nor fear should befall one who is alone",
+   "uncertainties": [
+    "sūtikā may qualify pīḍāṃ as a compound sense though given as separate tokens"
+   ],
+   "plain_english": "One who is alone should not experience childbirth affliction or fear."
+  },
+  {
+   "verse": 4552,
+   "rows": [
+    {
+     "surface": "p. 270",
+     "gloss": "page-270",
+     "grounds": "editorial page marker in text",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "instrument referring to prior formula or rite",
+     "morph": "m/n.ins.sg"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "ghee",
+     "grounds": "oblation substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sahasran",
+     "gloss": "thousand-times",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "prior ritual action",
+     "morph": "(absolutive) + hu"
+    },
+    {
+     "surface": "śatru",
+     "gloss": "enemy",
+     "grounds": "first member of destination compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gṛhaṃ",
+     "gloss": "house",
+     "grounds": "destination of going",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "prescribed subsequent action",
+     "morph": "3.sg.optative-act + vraj"
+    }
+   ],
+   "question": "What ritual act permits one to go to the house of an enemy?",
+   "premises": [
+    "Ghee can be offered as oblation",
+    "A thousand offerings can be performed with this",
+    "Going to an enemy's house is the intended action"
+   ],
+   "inference": "After offering ghee a thousand times with this, one should go to the enemy's house",
+   "uncertainties": [
+    "anena refers to an unspecified prior mantra or procedure"
+   ],
+   "plain_english": "Having offered ghee a thousand times with this, one should go to the enemy's house."
+  },
+  {
+   "verse": 4553,
+   "rows": [
+    {
+     "surface": "suvarṇa",
+     "gloss": "gold",
+     "grounds": "first member indicating desired wealth",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vṛddhi",
+     "gloss": "increase",
+     "grounds": "first member of purpose compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhy",
+     "gloss": "accomplishment",
+     "grounds": "first member of purpose compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "for-sake",
+     "grounds": "expresses purpose",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ghṛtā",
+     "gloss": "ghee",
+     "grounds": "first part of smeared description as given",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ktāḥ",
+     "gloss": "smeared",
+     "grounds": "second part of smeared description as given",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "samidho",
+     "gloss": "fuel-sticks",
+     "grounds": "objects to be offered",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-act + hu"
+    }
+   ],
+   "question": "What oblation should be performed for the increase and attainment of gold?",
+   "premises": [
+    "Increase and accomplishment of gold are desired aims",
+    "Fuel-sticks can be smeared with ghee",
+    "Oblation is performed by offering into fire"
+   ],
+   "inference": "One should offer ghee-smeared fuel-sticks for the increase and attainment of gold",
+   "uncertainties": [
+    "ghṛtā and ktāḥ appear as separate tokens though forming ghṛtāktāḥ"
+   ],
+   "plain_english": "For the increase and attainment of gold, one should offer fuel-sticks smeared with ghee."
+  },
+  {
+   "verse": 4554,
+   "rows": [
+    {
+     "surface": "naukā",
+     "gloss": "boat",
+     "grounds": "first member indicating location",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stho",
+     "gloss": "standing",
+     "grounds": "one situated in a boat",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "location of possible sinking",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "as",
+     "grounds": "introduces comparison or condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "van",
+     "gloss": "like",
+     "grounds": "comparative particle as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates sinking",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "majjati",
+     "gloss": "sinks",
+     "grounds": "action that does not occur",
+     "morph": "3.sg.present-act + majj"
+    }
+   ],
+   "question": "Under what condition does one standing in a boat not sink in water?",
+   "premises": [
+    "A person may stand in a boat on water",
+    "Sinking in water is a possible danger",
+    "The verse states a condition of not sinking"
+   ],
+   "inference": "One standing in a boat does not sink in water as stated",
+   "uncertainties": [
+    "yad van may form yadvat; fragmentary context limits full condition"
+   ],
+   "plain_english": "One standing in a boat does not sink in the water, as it were."
+  },
+  {
+   "verse": 4555,
+   "rows": [
+    {
+     "surface": "śṛṇvan",
+     "gloss": "hearing",
+     "grounds": "concurrent action of the subject",
+     "morph": "m.nom.sg.present-participle-act + śru"
+    },
+    {
+     "surface": "ūtibhiḥ",
+     "gloss": "with-aids",
+     "grounds": "means or accompaniment",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "sīda",
+     "gloss": "sit",
+     "grounds": "commanded action",
+     "morph": "2.sg.imperative-act + sad"
+    },
+    {
+     "surface": "sādanam",
+     "gloss": "on-seat",
+     "grounds": "place of sitting",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What action is enjoined while hearing with protective aids?",
+   "premises": [
+    "Hearing occurs together with aids",
+    "A seat is available for sitting",
+    "An imperative directs the action"
+   ],
+   "inference": "While hearing with aids, one should sit on the seat",
+   "uncertainties": [
+    "mantric fragment; sādanam may function locatively in sense"
+   ],
+   "plain_english": "Hearing with aids, sit upon the seat."
+  },
+  {
+   "verse": 4556,
+   "rows": [
+    {
+     "surface": "samidha",
+     "gloss": "fuel-sticks",
+     "grounds": "ritual material named",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "audumbaryas",
+     "gloss": "of-udumbara",
+     "grounds": "specifies type of fuel-sticks",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connects to prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of fuel-sticks are likewise prescribed in this ritual context?",
+   "premises": [
+    "Fuel-sticks are used in oblation",
+    "Udumbara wood is a specified material",
+    "The instruction continues from before"
+   ],
+   "inference": "Fuel-sticks of udumbara are likewise prescribed",
+   "uncertainties": [
+    "fragmentary verse; full predicate may be in adjacent verses"
+   ],
+   "plain_english": "And likewise, fuel-sticks of udumbara."
+  },
+  {
+   "verse": 4557,
+   "rows": [
+    {
+     "surface": "vivardhate",
+     "gloss": "increases",
+     "grounds": "result or ongoing growth",
+     "morph": "3.sg.present-middle + vṛdh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces next instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual act to be performed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāc",
+     "gloss": "should-perform",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-act + kṛ"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-crossroads",
+     "grounds": "location of oblation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should one perform the oblation when increase is sought?",
+   "premises": [
+    "Increase is indicated as occurring",
+    "An oblation is a prescribed ritual act",
+    "A crossroads is a specified ritual location"
+   ],
+   "inference": "One should then perform the oblation at the crossroads",
+   "uncertainties": [
+    "subject of vivardhate is not explicit in this verse"
+   ],
+   "plain_english": "It increases; then one should perform the oblation at the crossroads."
+  },
+  {
+   "verse": 4558,
+   "rows": [
+    {
+     "surface": "mṛdā",
+     "gloss": "with-clay",
+     "grounds": "material for making",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "liṅga",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action",
+     "morph": "(absolutive) + kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "prescribed ritual action",
+     "morph": "3.sg.optative-causative-act + snā"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates manner or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions should be performed with a liṅga made of clay?",
+   "premises": [
+    "A liṅga can be made from clay",
+    "Bathing is a ritual act applied to a liṅga",
+    "The actions are sequentially prescribed"
+   ],
+   "inference": "Having made a liṅga of clay, one should likewise bathe it",
+   "uncertainties": [],
+   "plain_english": "Having made a liṅga with clay, one should likewise bathe it."
+  },
+  {
+   "verse": 4559,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefixal element in compound sense as given",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "stanūbhir",
+     "gloss": "with-bodies",
+     "grounds": "means by which life is attained",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "vyaśema",
+     "gloss": "may-we-attain",
+     "grounds": "prayer for attainment",
+     "morph": "1.pl.optative-act + aś"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "first member indicating divine ordainment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "hitaṃ",
+     "gloss": "ordained",
+     "grounds": "describes the life granted",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "introduces the life span",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "āyuḥ",
+     "gloss": "life",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What divinely ordained life do the speakers pray to attain with their bodies?",
+   "premises": [
+    "Life can be divinely ordained",
+    "Attainment is sought with one's bodies",
+    "The verse expresses a collective prayer"
+   ],
+   "inference": "May we attain with our bodies the life ordained by the god",
+   "uncertainties": [
+    "sa stanūbhir likely forms sastanūbhir; kept as separate tokens"
+   ],
+   "plain_english": "May we attain with our bodies the life ordained by the god."
+  },
+  {
+   "verse": 4560,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states a condition or result",
+     "morph": "3.sg.present-act + bhū"
+    },
+    {
+     "surface": "ṣaṇḍhatvāc",
+     "gloss": "from-impotence",
+     "grounds": "cause of the condition",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimucyate",
+     "gloss": "is-released",
+     "grounds": "resulting liberation from condition",
+     "morph": "3.sg.present-passive + muc"
+    }
+   ],
+   "question": "What condition arises from impotence and from what is one released?",
+   "premises": [
+    "Impotence can be a cause of a condition",
+    "Release from that condition is possible",
+    "The verse links cause and release"
+   ],
+   "inference": "From impotence it arises, and one is released from it",
+   "uncertainties": [
+    "subject of bhavati is implicit from context"
+   ],
+   "plain_english": "It arises from impotence, and one is released from it."
+  },
+  {
+   "verse": 4561,
+   "rows": [
+    {
+     "surface": "vṛddhā",
+     "gloss": "increased",
+     "grounds": "describes growth or abundance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yum",
+     "gloss": "life",
+     "grounds": "object or domain of increase as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anuvṛddhayo",
+     "gloss": "increases",
+     "grounds": "plural increases or growths",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "juṣṭā",
+     "gloss": "pleasing",
+     "grounds": "describes favored states",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavantu",
+     "gloss": "may-be",
+     "grounds": "benedictive wish",
+     "morph": "3.pl.imperative-act + bhū"
+    },
+    {
+     "surface": "juṣṭayaḥ",
+     "gloss": "pleasures",
+     "grounds": "favored enjoyments wished for",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What increases and pleasing enjoyments are wished to come into being?",
+   "premises": [
+    "Increase of life is desirable",
+    "Pleasing enjoyments are desirable",
+    "The verse expresses a benediction"
+   ],
+   "inference": "May increased life, further increases, and pleasing enjoyments come to be",
+   "uncertainties": [
+    "yum is an unusual form; likely related to āyus/life"
+   ],
+   "plain_english": "May increased life, further increases, and pleasing enjoyments come to be."
+  },
+  {
+   "verse": 4562,
+   "rows": [
+    {
+     "surface": "vṛṣṭir",
+     "gloss": "rain",
+     "grounds": "subject of occurrence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "possible occurrence",
+     "morph": "3.sg.optative-act + bhū"
+    },
+    {
+     "surface": "kālaṃ",
+     "gloss": "time",
+     "grounds": "expected season or time",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion of proper time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates that circumstance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What untimely natural event may occur under the stated circumstance?",
+   "premises": [
+    "Rain normally occurs at a proper time",
+    "Occurrence without proper time is possible",
+    "The verse states a conditional result"
+   ],
+   "inference": "Then rain may occur without its proper time",
+   "uncertainties": [
+    "tadā refers to a condition stated in preceding context"
+   ],
+   "plain_english": "Then rain may occur out of season."
+  },
+  {
+   "verse": 4563,
+   "rows": [
+    {
+     "surface": "jyotiṣāṃ",
+     "gloss": "of-lights",
+     "grounds": "source or class of lights",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "jyotir",
+     "gloss": "light",
+     "grounds": "supreme light identified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "singularity of the light",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative referring to light",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of the mind",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "subject of the wish",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "auspicious",
+     "grounds": "first member describing resolve",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃkalpam",
+     "gloss": "resolve",
+     "grounds": "desired state of mind",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative-act + as"
+    }
+   ],
+   "question": "What auspicious resolve is wished for the mind identified with the one light of lights?",
+   "premises": [
+    "There is one light among lights",
+    "The mind is the subject of resolve",
+    "An auspicious resolve is desired"
+   ],
+   "inference": "May my mind, that one light of lights, have an auspicious resolve",
+   "uncertainties": [
+    "apposition between tan me manaḥ and jyotir ekaṃ is interpretive"
+   ],
+   "plain_english": "That one light of lights, my mind, may it have an auspicious resolve."
+  },
+  {
+   "verse": 4564,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "auspicious",
+     "grounds": "describes the resolve",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃkalpam",
+     "gloss": "resolve",
+     "grounds": "desired mental state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative-act + as"
+    }
+   ],
+   "question": "What repeated benediction is sought for the mind's resolve?",
+   "premises": [
+    "A resolve can be auspicious",
+    "A benedictive wish is expressed",
+    "The phrase functions as a refrain"
+   ],
+   "inference": "May the resolve be auspicious",
+   "uncertainties": [],
+   "plain_english": "May the resolve be auspicious."
+  },
+  {
+   "verse": 4565,
+   "rows": [
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative referring to mind",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of the mind",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "subject of the wish",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "auspicious",
+     "grounds": "describes the resolve",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃkalpam",
+     "gloss": "resolve",
+     "grounds": "desired mental state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative-act + as"
+    }
+   ],
+   "question": "What auspicious resolve is again wished for the speaker's mind?",
+   "premises": [
+    "The speaker possesses a mind",
+    "An auspicious resolve is desirable",
+    "The refrain is repeated"
+   ],
+   "inference": "May that mind of mine have an auspicious resolve",
+   "uncertainties": [],
+   "plain_english": "May that mind of mine have an auspicious resolve."
+  },
+  {
+   "verse": 4566,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "auspicious",
+     "grounds": "describes the resolve",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃkalpam",
+     "gloss": "resolve",
+     "grounds": "desired mental state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative-act + as"
+    }
+   ],
+   "question": "What final refrain affirms the wish for an auspicious resolve?",
+   "premises": [
+    "A resolve can be auspicious",
+    "A benedictive wish is expressed",
+    "The phrase concludes the refrain"
+   ],
+   "inference": "May the resolve be auspicious",
+   "uncertainties": [],
+   "plain_english": "May the resolve be auspicious."
+  },
+  {
+   "verse": 4567,
+   "rows": [
+    {
+     "surface": "pārthivaṃ",
+     "gloss": "earthen",
+     "grounds": "material of the liṅga",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "liṃgam",
+     "gloss": "liṅga",
+     "grounds": "ritual object named",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "excellent",
+     "grounds": "evaluates the earthen liṅga",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "What quality is attributed to the liṅga made of earth?",
+   "premises": [
+    "A liṅga can be made of earth",
+    "Ritual objects can be evaluated as excellent",
+    "The verse names the earthen liṅga"
+   ],
+   "inference": "The earthen liṅga is excellent",
+   "uncertainties": [
+    "syntactic role may be nominative or accusative depending on context"
+   ],
+   "plain_english": "The earthen liṅga is excellent."
+  },
+  {
+   "verse": 4568,
+   "rows": [
+    {
+     "surface": "kroḍī",
+     "gloss": "having-gathered",
+     "grounds": "prior preparatory action as given",
+     "morph": "(absolutive)"
+    },
+    {
+     "surface": "kṛtyā",
+     "gloss": "having-made",
+     "grounds": "prior preparatory action",
+     "morph": "(absolutive)"
+    },
+    {
+     "surface": "kṣatāś",
+     "gloss": "unbroken-rice",
+     "grounds": "ritual material to be placed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpyāḥ",
+     "gloss": "to-be-placed",
+     "grounds": "prescribed action",
+     "morph": "m.nom.pl.future-passive-participle + sthā"
+    },
+    {
+     "surface": "sthāna",
+     "gloss": "place",
+     "grounds": "first member of location compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "catuṣṭaye",
+     "gloss": "in-fourfold",
+     "grounds": "location consisting of four places",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the prepared unbroken rice be placed in this ritual procedure?",
+   "premises": [
+    "Unbroken rice is prepared for ritual use",
+    "Placement is prescribed in a specific manner",
+    "Four places are designated for placement"
+   ],
+   "inference": "Thus the unbroken rice should be placed in the four places",
+   "uncertainties": [
+    "kroḍī kṛtyā is obscure in form; interpreted as preparatory actions"
+   ],
+   "plain_english": "Having gathered and prepared them, the unbroken rice should thus be placed in the four places."
+  },
+  {
+   "verse": 4569,
+   "rows": [
+    {
+     "surface": "ṛcāṃ",
+     "gloss": "of-verses",
+     "grounds": "source of recitation",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "pāṭham",
+     "gloss": "recitation",
+     "grounds": "ritual act performed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "single recitation unit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "(absolutive) + kṛ"
+    },
+    {
+     "surface": "kṣatān",
+     "gloss": "unbroken-rice",
+     "grounds": "objects to be placed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-act + ni-as"
+    }
+   ],
+   "question": "What action should follow the recitation of one verse in this rite?",
+   "premises": [
+    "Verses can be recited as part of ritual",
+    "One recitation is performed at a time",
+    "Unbroken rice is to be placed"
+   ],
+   "inference": "After reciting one verse, one should place the unbroken rice",
+   "uncertainties": [],
+   "plain_english": "Having performed one recitation of the verses, one should place the unbroken rice."
+  },
+  {
+   "verse": 4570,
+   "rows": [
+    {
+     "surface": "dvitīya",
+     "gloss": "second",
+     "grounds": "first member indicating sequence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-on",
+     "grounds": "indicates subsequent items in sequence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "praharake",
+     "gloss": "in-watch",
+     "grounds": "time period for placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "south",
+     "grounds": "first member indicating directions",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādyāsu",
+     "gloss": "and-so-on",
+     "grounds": "indicates directions beginning with south",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-act + vi-ni-as"
+    }
+   ],
+   "question": "When and in which directions should placement be performed in the subsequent watch?",
+   "premises": [
+    "Ritual actions are divided into watches",
+    "The second and following watches are specified",
+    "Directions beginning with the south are designated"
+   ],
+   "inference": "In the second and subsequent watches, one should place in the south and other directions",
+   "uncertainties": [
+    "exact sequence of directions is abbreviated by ādi/ādyāsu"
+   ],
+   "plain_english": "In the second and subsequent watches, one should place them in the south and the other directions."
+  },
+  {
+   "verse": 4571,
+   "rows": [
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "sets the temporal extent",
+     "morph": "3.sg.optative-act + as"
+    },
+    {
+     "surface": "āsāyaṃ",
+     "gloss": "until-evening",
+     "grounds": "time limit of the rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtyaṃ",
+     "gloss": "rite",
+     "grounds": "ritual action to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior completion of rite",
+     "morph": "(absolutive) + kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-eat",
+     "grounds": "prescribed concluding action",
+     "morph": "3.sg.optative-act + bhakṣ"
+    }
+   ],
+   "question": "What concluding action should be taken after performing the rite until evening?",
+   "premises": [
+    "The rite continues until evening",
+    "The rite must be completed",
+    "Eating is prescribed afterward"
+   ],
+   "inference": "Having performed the rite until evening, one should eat",
+   "uncertainties": [
+    "object of bhakṣayet is implicit from ritual context"
+   ],
+   "plain_english": "The rite should continue until evening, and having completed it, one should eat."
+  },
+  {
+   "verse": 4572,
+   "rows": [
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral component of count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vāra",
+     "gloss": "times",
+     "grounds": "numeral component indicating repetition",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sahasran",
+     "gloss": "thousand",
+     "grounds": "total number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāpyā",
+     "gloss": "to-be-chanted",
+     "grounds": "prescribed recitation",
+     "morph": "f.nom.pl.future-passive-participle + jap"
+    },
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "identifies the verses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṛcaḥ",
+     "gloss": "verses",
+     "grounds": "objects of chanting",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śubhāḥ",
+     "gloss": "auspicious",
+     "grounds": "describes the verses",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many times should these auspicious verses be chanted in the rite?",
+   "premises": [
+    "These verses are auspicious",
+    "Chanting is prescribed as a ritual act",
+    "A specific number of repetitions is required"
+   ],
+   "inference": "These auspicious verses should be chanted eight thousand times",
+   "uncertainties": [
+    "aṣṭa vāra sahasran interpreted as eight thousand repetitions"
+   ],
+   "plain_english": "These auspicious verses should indeed be chanted eight thousand times."
+  },
+  {
+   "verse": 4573,
+   "rows": [
+    {
+     "surface": "vartamānaṃ",
+     "gloss": "present",
+     "grounds": "current time or state",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyad",
+     "gloss": "future",
+     "grounds": "future time or state",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyate",
+     "gloss": "is-seen",
+     "grounds": "states visibility or manifestation",
+     "morph": "3.sg.present-passive + dṛś"
+    }
+   ],
+   "question": "What temporal states are said to be seen or manifested in this context?",
+   "premises": [
+    "Present and future are distinct temporal states",
+    "Something can be seen or manifested",
+    "The verse includes both alternatives"
+   ],
+   "inference": "The present or also the future is seen",
+   "uncertainties": [
+    "subject of dṛśyate is implicit from preceding context"
+   ],
+   "plain_english": "The present, or also the future, is seen."
+  },
+  {
+   "verse": 4574,
+   "rows": [
+    {
+     "surface": "dāridrya",
+     "gloss": "poverty",
+     "grounds": "first member of purpose compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśāya",
+     "gloss": "for-destruction",
+     "grounds": "expresses purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates existence of alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "other",
+     "grounds": "excludes alternatives",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kiñcin",
+     "gloss": "anything",
+     "grounds": "indefinite alternative",
+     "morph": "n.nom/acc.sg"
+    },
+    {
+     "surface": "nṛṇāṃ",
+     "gloss": "for-men",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "compares to prior statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative means exists for the destruction of poverty for human beings?",
+   "premises": [
+    "Poverty is a condition to be destroyed",
+    "Human beings seek its removal",
+    "The verse denies another means"
+   ],
+   "inference": "For the destruction of poverty for men, there is likewise nothing else",
+   "uncertainties": [
+    "tathā implies comparison with a previously stated means"
+   ],
+   "plain_english": "For the destruction of poverty for men, there is likewise nothing else."
+  }
+ ]
+}

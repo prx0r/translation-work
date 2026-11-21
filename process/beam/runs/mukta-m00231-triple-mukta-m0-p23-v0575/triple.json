@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "digbandhanaṃ",
+     "gloss": "direction-binding",
+     "grounds": "digbandhana = direction-binding; accusative object of prakurvīta",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prakurvīta",
+     "gloss": "should-perform",
+     "grounds": "optative of root kṛ; action commanded for the sādhaka",
+     "morph": "3.sg.opt.act-kṛ"
+    },
+    {
+     "surface": "choṭikābhiranantaram",
+     "gloss": "with-choṭikās-afterwards",
+     "grounds": "choṭikābhiḥ + anantaram fused; instrumental plural feminine with indeclinable afterwards",
+     "morph": "instr.pl.f+(indecl.)"
+    }
+   ],
+   "question": "What should the excellent practitioner do after displaying the invocation, placement, and covering mudrās?",
+   "premises": [
+    "The sādhaka has shown āvāhanī and sthāpanī mudrās.",
+    "The sādhaka has also shown avaguṇṭhana mudrā.",
+    "Direction-binding follows with choṭikās."
+   ],
+   "inference": "After those mudrās, the practitioner should perform digbandhana with choṭikās.",
+   "uncertainties": [
+    "The exact ritual force of choṭikās is not specified in this verse."
+   ],
+   "plain_english": "Afterwards, the excellent practitioner should perform direction-binding with choṭikās."
+  }
+ ]
+}

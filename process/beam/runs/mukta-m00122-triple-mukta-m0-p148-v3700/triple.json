@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "vidadhyāt",
+     "gloss": "one-should-make",
+     "grounds": "optative of vidhā, 'to make or arrange'; third person singular active",
+     "morph": "3.sg.act-opt (vidh)"
+    },
+    {
+     "surface": "navahastena",
+     "gloss": "with-nine-hands",
+     "grounds": "instrumental singular of the compound measure navahasta, 'nine hands'",
+     "morph": "instr.sg.m (compound)"
+    },
+    {
+     "surface": "vistārāyāmasaṃyutam",
+     "gloss": "endowed-with-breadth-and-length",
+     "grounds": "compound adjective joining vistāra, 'breadth', and āyāma, 'length', with saṃyuta, 'endowed with'",
+     "morph": "acc.sg.n (adj)"
+    }
+   ],
+   "question": "What measure should one use to make the form endowed with breadth and length?",
+   "premises": [
+    "One should make the form.",
+    "Nine hands supply the measure.",
+    "Breadth and length are joined."
+   ],
+   "inference": "The form is to be made with breadth and length measured by nine hands.",
+   "uncertainties": [
+    "The object of vidadhyāt is not explicit in this verse."
+   ],
+   "plain_english": "One should make it endowed with breadth and length, using nine hands as the measure."
+  }
+ ]
+}

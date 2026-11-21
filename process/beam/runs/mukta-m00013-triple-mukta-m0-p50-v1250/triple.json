@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p50",
+ "items": [
+  {
+   "verse": 1250,
+   "rows": [
+    {
+     "surface": "trailokya",
+     "gloss": "three-worlds",
+     "grounds": "first member of epithet denoting dominion over the three worlds",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vijayā",
+     "gloss": "conquering",
+     "grounds": "final member of epithet qualifying the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "subject of the statement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates perpetual abiding",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aukāra",
+     "gloss": "in-om-syllable",
+     "grounds": "locative locus of abiding; refers to the syllable oṃ",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "abiding",
+     "grounds": "predicate describing the goddess's established presence",
+     "morph": "f.nom.sg.ppp sam-√sthā"
+    }
+   ],
+   "question": "In which syllable does the goddess Trailokyavijaya eternally abide?",
+   "premises": [
+    "The goddess Trailokyavijaya is the subject.",
+    "Her abiding is described as perpetual.",
+    "The locus of her abiding is the syllable oṃ."
+   ],
+   "inference": "Therefore, the goddess Trailokyavijaya eternally abides in the syllable oṃ.",
+   "uncertainties": [
+    "The form aukāra is taken as a locative in sense despite its surface form."
+   ],
+   "plain_english": "The goddess Trailokyavijaya always abides indeed in the syllable Oṃ."
+  }
+ ]
+}

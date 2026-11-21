@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "navāni",
+     "gloss": "nine",
+     "grounds": "count of elements to be used",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "samarūpāṇi",
+     "gloss": "same-form",
+     "grounds": "uniform in form",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "sarvato'bhīṣṭasiddhaye",
+     "gloss": "for-all-desired-accomplishment",
+     "grounds": "dative purpose phrase with sandhi-marked fusion",
+     "morph": "noun.dat.sg.f"
+    }
+   ],
+   "question": "What nine same-form elements are to be employed for accomplishing every desired end?",
+   "premises": [
+    "nine same-form elements are specified",
+    "they are directed toward accomplishment",
+    "the goal is all desired ends"
+   ],
+   "inference": "the verse prescribes nine uniform elements for universal siddhi",
+   "uncertainties": [
+    "the exact referent of the nine elements is not explicit in this verse"
+   ],
+   "plain_english": "Nine same-form elements are for the accomplishment of all desired ends everywhere."
+  }
+ ]
+}

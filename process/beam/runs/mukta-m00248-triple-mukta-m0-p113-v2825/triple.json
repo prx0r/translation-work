@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "vicitra+yoge",
+     "gloss": "in-varied-yoga",
+     "grounds": "compound member vicitra (varied) plus yoge (yoga, locative singular masculine)",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "garbhaṃ",
+     "gloss": "embryo",
+     "grounds": "accusative singular masculine noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṣipet",
+     "gloss": "should-place",
+     "grounds": "optative third singular active from pra-kṣip",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mantra+pūrvakam",
+     "gloss": "mantra-preceded",
+     "grounds": "compound member mantra plus pūrvakam (preceded), accusative singular neuter adjective",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "Should the embryo be placed in varied yoga preceded by mantra?",
+   "premises": [
+    "varied yoga is the setting",
+    "embryo is the object",
+    "mantra precedes placement"
+   ],
+   "inference": "placement of the embryo in varied yoga requires mantra precedence",
+   "uncertainties": [
+    "exact ritual referent of embryo unverified"
+   ],
+   "plain_english": "In a varied yoga, one should place the embryo, preceded by mantra."
+  }
+ ]
+}

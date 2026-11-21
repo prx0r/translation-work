@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2850,
+   "rows": [
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "duration of time",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "numeral qualifying day",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirāhāraḥ",
+     "gloss": "without-food",
+     "grounds": "state of fasting; compound of nis + āhāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śudhyet",
+     "gloss": "should-become-pure",
+     "grounds": "result of the prescribed practice",
+     "morph": "3.sg.atm-optative (śudh)"
+    },
+    {
+     "surface": "pañcāmṛta+aśanāt",
+     "gloss": "from-eating-five-nectars",
+     "grounds": "cause or means of purification; compound pañcāmṛta + aśana",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What purification results from fasting one day and consuming the five nectars?",
+   "premises": [
+    "A person remains without food for one day.",
+    "The person then consumes the five nectars.",
+    "This combined practice produces ritual purification."
+   ],
+   "inference": "Fasting for one day followed by consuming the five nectars brings about purification.",
+   "uncertainties": [],
+   "plain_english": "Fasting for one day, one becomes pure by consuming the five nectars."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 1000,
+   "rows": [
+    {
+     "surface": "arghyaṃ",
+     "gloss": "offering",
+     "grounds": "object of giving; ritual oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund (√dā)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raupyeṇa",
+     "gloss": "with-silver",
+     "grounds": "instrument or material of the offering vessel",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "āyuḥ",
+     "gloss": "long-life",
+     "grounds": "first benefit obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "sovereignty",
+     "grounds": "second benefit obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sutān",
+     "gloss": "sons",
+     "grounds": "third benefit obtained",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-may-obtain",
+     "grounds": "potential result of the ritual act",
+     "morph": "3.sg.optative-active (√labh)"
+    }
+   ],
+   "question": "What specific benefits result from giving the ritual offering using silver?",
+   "premises": [
+    "A ritual offering is given using silver.",
+    "Ritual acts in this context yield specific rewards.",
+    "The stated rewards are long life, sovereignty, and sons."
+   ],
+   "inference": "Giving the offering with silver leads to obtaining long life, sovereignty, and sons.",
+   "uncertainties": [
+    "raupyeṇa may indicate a silver vessel or silver material more generally."
+   ],
+   "plain_english": "Having given the offering with silver, one may obtain long life, sovereignty, and sons."
+  }
+ ]
+}

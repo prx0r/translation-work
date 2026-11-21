@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "bāhupūrimasaṃyuktaṃ",
+     "gloss": "arm-bracelet-joined",
+     "grounds": "bahuvrīhi/tatpuruṣa compound bāhu-pūrima-saṃyuktam describing an item as joined with an arm-bracelet",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "channavīrasamanvitam",
+     "gloss": "covered-hero-band-endowed",
+     "grounds": "bahuvrīhi compound channa-vīra-samanvitam describing an item as endowed with a covered hero-band",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What arm ornament and heroic covering must complete the prescribed adornment?",
+   "premises": [
+    "The adornment includes an arm-bracelet.",
+    "The adornment is endowed with a covered hero-band.",
+    "These elements accompany the previously described ornaments."
+   ],
+   "inference": "The prescribed adornment is completed by the addition of an arm-bracelet and a covered hero-band.",
+   "uncertainties": [
+    "The precise form of pūrima as an arm ornament is context-dependent.",
+    "The exact meaning of channavīra as a ritual or decorative element is uncertain."
+   ],
+   "plain_english": "It should be joined with an arm-bracelet and endowed with a covered hero-band."
+  }
+ ]
+}

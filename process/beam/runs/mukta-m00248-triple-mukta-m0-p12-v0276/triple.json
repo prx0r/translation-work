@@ -1,0 +1,1092 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandalwood",
+     "grounds": "legacy hint sandalwood",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "legacy hint saffron",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "indecl."
+    },
+    {
+     "surface": "agaruṃ",
+     "gloss": "agaru",
+     "grounds": "legacy hint agaru",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khagam+eva",
+     "gloss": "sky-going-indeed",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which fragrant substances are listed among the prescribed offerings?",
+   "premises": [
+    "candanaṃ kuṅkumaṃ agaruṃ are named",
+    "khagam+eva ca are included",
+    "the list continues the offering sequence"
+   ],
+   "inference": "The verse enumerates sandalwood, saffron, agaru, and sky-going substances as offerings.",
+   "uncertainties": [
+    "exact ritual context beyond list"
+   ],
+   "plain_english": "Sandalwood, saffron, agaru, and sky-going substances are included among the offerings."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "niryāsaṃ",
+     "gloss": "resin",
+     "grounds": "legacy hint resin",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pākalaṃ",
+     "gloss": "pākala",
+     "grounds": "legacy hint pākala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māse+ekaikaṃ",
+     "gloss": "month-one-each",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "according-to",
+     "grounds": "legacy hint according-to",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kramam",
+     "gloss": "order",
+     "grounds": "legacy hint order",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How are resin and pākala to be offered across months?",
+   "premises": [
+    "niryāsaṃ pākalaṃ ca+eva are named",
+    "māse+ekaikaṃ specifies one each month",
+    "yathā kramam gives ordered sequence"
+   ],
+   "inference": "Resin and pākala are offered one each month in proper order.",
+   "uncertainties": [
+    "exact month mapping"
+   ],
+   "plain_english": "Resin and pākala are offered one each month in order."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "mahiṣā+guggulaṃ",
+     "gloss": "buffalo-guggulu",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "legacy hint best",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva+māseṣu",
+     "gloss": "all-months-in",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "legacy hint with-ghee",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "Which guggulu is best in all months and with what?",
+   "premises": [
+    "mahiṣā+guggulaṃ is named",
+    "śreṣṭhaṃ marks it best",
+    "sarva+māseṣu sarpiṣā qualify use"
+   ],
+   "inference": "Buffalo guggulu is best in all months when used with ghee.",
+   "uncertainties": [
+    "exact preparation"
+   ],
+   "plain_english": "Buffalo guggulu is best in all months with ghee."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "nivedyād",
+     "gloss": "should-offer",
+     "grounds": "legacy hint should-offer",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "daśa+guṇaṃ",
+     "gloss": "ten-fold",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "legacy hint merit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāli+vaiṇavaṃ",
+     "gloss": "rice-bamboo",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "combined",
+     "grounds": "legacy hint combined",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What merit results from offering ten-fold rice-bamboo combined?",
+   "premises": [
+    "nivedyād prescribes offering",
+    "daśa+guṇaṃ puṇyaṃ states ten-fold merit",
+    "śāli+vaiṇavaṃ saṃyutam names combined rice-bamboo"
+   ],
+   "inference": "Offering combined rice-bamboo yields ten-fold merit.",
+   "uncertainties": [
+    "exact offering context"
+   ],
+   "plain_english": "Offering combined rice-bamboo yields ten-fold merit."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kālottara",
+     "grounds": "legacy hint in-kālottara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣpa+viśeṣa+gandha+dhūpa+arghya+paṭalaḥ",
+     "gloss": "flower-special-fragrance-incense-offering-chapter",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭhaḥ",
+     "gloss": "sixth",
+     "grounds": "legacy hint sixth",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which chapter of Kālottara is named as the sixth?",
+   "premises": [
+    "iti closes the section",
+    "kālottare names the text",
+    "puṣpa+...+paṭalaḥ names the chapter",
+    "ṣaṣṭhaḥ numbers it sixth"
+   ],
+   "inference": "The flower-special-fragrance-incense-offering chapter is the sixth in Kālottara.",
+   "uncertainties": [
+    "chapter scope"
+   ],
+   "plain_english": "Thus in Kālottara the flower-special-fragrance-incense-offering chapter is sixth."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "bhūta+śuddhiṃ",
+     "gloss": "element-purification",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "purā",
+     "gloss": "first",
+     "grounds": "legacy hint first",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "legacy hint having-done",
+     "morph": "v.abs+root"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "indecl."
+    },
+    {
+     "surface": "antaḥ+karaṇaṃ",
+     "gloss": "inner-organ",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "legacy hint do",
+     "morph": "v.2.sg.act-imp+root"
+    }
+   ],
+   "question": "What must be done first before purifying the inner organ?",
+   "premises": [
+    "bhūta+śuddhiṃ purā kṛtvā means first do element purification",
+    "tato antaḥ+karaṇaṃ kuru means then do inner organ",
+    "the sequence is explicit"
+   ],
+   "inference": "Element purification must be done first, then the inner organ is purified.",
+   "uncertainties": [
+    "exact inner organ"
+   ],
+   "plain_english": "First perform element purification, then purify the inner organ."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "talikau",
+     "gloss": "palms",
+     "grounds": "legacy hint palms",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "hasta+pṛṣṭhau",
+     "gloss": "hand-backs",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "astra+bījena",
+     "gloss": "weapon-seed-by",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "should-purify",
+     "grounds": "legacy hint should-purify",
+     "morph": "v.3.sg.act-opt+root"
+    }
+   ],
+   "question": "Which hand parts should be purified by the weapon seed?",
+   "premises": [
+    "talikau names palms",
+    "hasta+pṛṣṭhau names hand backs",
+    "astra+bījena śodhayet prescribes purification"
+   ],
+   "inference": "The palms and hand backs should be purified by the weapon seed.",
+   "uncertainties": [
+    "exact weapon seed"
+   ],
+   "plain_english": "Purify the palms and hand backs with the weapon seed."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "īśānādyādisadyāntaṃ",
+     "gloss": "īśāna-beginning-etc-sadya-ending",
+     "grounds": "legacy hint īśāna+beginning+etc+sadya-ending",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "in-order",
+     "grounds": "legacy hint in-order",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "legacy hint having-placed",
+     "morph": "v.abs+root"
+    },
+    {
+     "surface": "buddhimān",
+     "gloss": "wise-one",
+     "grounds": "legacy hint wise-one",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What should the wise one place in order from īśāna to sadya?",
+   "premises": [
+    "īśānādyādisadyāntaṃ names the range",
+    "kramād vinyasya means place in order",
+    "buddhimān addresses the practitioner"
+   ],
+   "inference": "The wise one places the īśāna-to-sadya sequence in order.",
+   "uncertainties": [
+    "exact nyāsa mapping"
+   ],
+   "plain_english": "The wise one places the īśāna-to-sadya sequence in order."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "aṅguṣṭhādika+niṣṭhāntaṃ",
+     "gloss": "thumb-beginning-etc-little-finger-ending",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sṛṣṭi+nyāsa",
+     "gloss": "creation-placement",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "v.3.sg.pass-past+root"
+    }
+   ],
+   "question": "What placement is declared from thumb to little finger?",
+   "premises": [
+    "aṅguṣṭhādika+niṣṭhāntaṃ names thumb to little finger",
+    "sṛṣṭi+nyāsa names creation placement",
+    "udāhṛtaḥ means declared"
+   ],
+   "inference": "Creation placement is declared from thumb to little finger.",
+   "uncertainties": [
+    "exact finger order"
+   ],
+   "plain_english": "Creation placement is declared from thumb to little finger."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "madhyamādika+niṣṭhāntaṃ",
+     "gloss": "middle-finger-beginning-etc-little-finger-ending",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sṛṣṭi+nyāsa",
+     "gloss": "creation-placement",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "v.3.sg.pass-past+root"
+    }
+   ],
+   "question": "What placement is declared from middle finger to little finger?",
+   "premises": [
+    "madhyamādika+niṣṭhāntaṃ names middle to little finger",
+    "sṛṣṭi+nyāsa names creation placement",
+    "udāhṛtaḥ means declared"
+   ],
+   "inference": "Creation placement is declared from middle finger to little finger.",
+   "uncertainties": [
+    "exact finger order"
+   ],
+   "plain_english": "Creation placement is declared from middle finger to little finger."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "vyomavyāpin+nyaset",
+     "gloss": "vyomavyāpin-should-place",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "tābhyāṃ",
+     "gloss": "with-those-two",
+     "grounds": "legacy hint with-those-two",
+     "morph": "n.inst.du"
+    },
+    {
+     "surface": "sarvato+mukham",
+     "gloss": "all-directions-facing",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādiśet",
+     "gloss": "should-indicate",
+     "grounds": "legacy hint should-indicate",
+     "morph": "v.3.sg.act-opt+root"
+    }
+   ],
+   "question": "How should vyomavyāpin be placed with those two?",
+   "premises": [
+    "vyomavyāpin+nyaset prescribes placement",
+    "tābhyāṃ means with those two",
+    "sarvato+mukham ādiśet means indicate all directions facing"
+   ],
+   "inference": "Vyomavyāpin should be placed with those two, indicating all directions facing.",
+   "uncertainties": [
+    "exact two referents"
+   ],
+   "plain_english": "Place vyomavyāpin with those two, indicating all directions facing."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "vidyeśvarān",
+     "gloss": "lords-of-knowledge",
+     "grounds": "legacy hint lords-of-knowledge",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "legacy hint afterwards",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sadāśiva+maheśvarau",
+     "gloss": "sadāśiva-maheśvara",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.du"
+    }
+   ],
+   "question": "Which lords are placed afterwards with sadāśiva and maheśvara?",
+   "premises": [
+    "vidyeśvarān names lords of knowledge",
+    "nyaset paścāt prescribes afterwards placement",
+    "sadāśiva+maheśvarau names the pair"
+   ],
+   "inference": "The lords of knowledge are placed afterwards with sadāśiva and maheśvara.",
+   "uncertainties": [
+    "exact placement order"
+   ],
+   "plain_english": "Place the lords of knowledge afterwards with sadāśiva and maheśvara."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "trimūrtyādīn",
+     "gloss": "trimūrti-etc",
+     "grounds": "legacy hint trimūrti+etc",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dakṣa+haste",
+     "gloss": "right-hand-in",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "aṣṭa+devān",
+     "gloss": "eight-gods",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should be placed again in the right hand?",
+   "premises": [
+    "trimūrtyādīn names trimūrti etc",
+    "dakṣa+haste locates right hand",
+    "aṣṭa+devān nyaset punaḥ prescribes placing eight gods again"
+   ],
+   "inference": "Trimūrti and others, then eight gods, are placed again in the right hand.",
+   "uncertainties": [
+    "exact sequence"
+   ],
+   "plain_english": "Place trimūrti and others, then eight gods again, in the right hand."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "ātma+trayaṃ",
+     "gloss": "self-triad",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "legacy hint having-placed",
+     "morph": "v.abs+root"
+    },
+    {
+     "surface": "sarva+aṅgulim",
+     "gloss": "all-fingers",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-sequence",
+     "grounds": "legacy hint in-sequence",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Where is the self-triad placed in sequence?",
+   "premises": [
+    "ātma+trayaṃ tu vinyasya means having placed self-triad",
+    "sarva+aṅgulim anukramāt means all fingers in sequence",
+    "the placement is sequential"
+   ],
+   "inference": "The self-triad is placed on all fingers in sequence.",
+   "uncertainties": [
+    "exact finger assignment"
+   ],
+   "plain_english": "Place the self-triad on all fingers in sequence."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "karāṅguliṣu",
+     "gloss": "hand-fingers-on",
+     "grounds": "legacy hint hand+fingers-on",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "prāsāda-mantra",
+     "grounds": "legacy hint prāsāda-mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "legacy hint should-place",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What should be placed again on all hand fingers?",
+   "premises": [
+    "karāṅguliṣu sarveṣu locates all hand fingers",
+    "prāsādaṃ vinyaset punaḥ prescribes placing prāsāda again",
+    "the action is repeated"
+   ],
+   "inference": "The prāsāda mantra should be placed again on all hand fingers.",
+   "uncertainties": [
+    "exact mantra form"
+   ],
+   "plain_english": "Place the prāsāda mantra again on all hand fingers."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "legacy hint self",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "should-unite",
+     "grounds": "legacy hint should-unite",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "legacy hint afterwards",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śive",
+     "gloss": "in-śiva",
+     "grounds": "legacy hint in-śiva",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parama+kāraṇe",
+     "gloss": "supreme-cause",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "With whom should the self be united afterwards?",
+   "premises": [
+    "ātmānaṃ yojayet means should unite self",
+    "paścāt means afterwards",
+    "śive parama+kāraṇe locates supreme cause Śiva"
+   ],
+   "inference": "Afterwards the self should be united in Śiva, the supreme cause.",
+   "uncertainties": [
+    "exact union method"
+   ],
+   "plain_english": "Afterwards unite the self in Śiva, the supreme cause."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "śiva+tattve",
+     "gloss": "śiva-principle-in",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pare",
+     "gloss": "supreme",
+     "grounds": "legacy hint supreme",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sūkṣme",
+     "gloss": "subtle",
+     "grounds": "legacy hint subtle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jyotī+rūpe",
+     "gloss": "light-form-in",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nirmale",
+     "gloss": "stainless",
+     "grounds": "legacy hint stainless",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What qualities characterize the supreme subtle Śiva principle?",
+   "premises": [
+    "śiva+tattve pare names supreme Śiva principle",
+    "sūkṣme jyotī+rūpe tu nirmale qualify it",
+    "the qualities are subtle light-form stainless"
+   ],
+   "inference": "The supreme Śiva principle is subtle, light-formed, and stainless.",
+   "uncertainties": [
+    "exact meditation object"
+   ],
+   "plain_english": "The supreme Śiva principle is subtle, light-formed, and stainless."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "trikoṇe",
+     "gloss": "in-triangle",
+     "grounds": "legacy hint in-triangle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "agni+bhuvane",
+     "gloss": "fire-world-in",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "triyakteya",
+     "gloss": "triyakteya",
+     "grounds": "legacy hint triyakteya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvitīyake",
+     "gloss": "in-second",
+     "grounds": "legacy hint in-second",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is triyakteya placed in the second fire world?",
+   "premises": [
+    "trikoṇe ca agni+bhuvane names triangle fire world",
+    "triyakteya dvitīyake places it in second",
+    "the location is specified"
+   ],
+   "inference": "Triyakteya is placed in the second triangle of the fire world.",
+   "uncertainties": [
+    "exact triyakteya meaning"
+   ],
+   "plain_english": "Triyakteya is placed in the second triangle of the fire world."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "bhasma+kūṭam",
+     "gloss": "ash-heap",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "legacy hint here",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "legacy hint having-meditated",
+     "morph": "v.abs+root"
+    },
+    {
+     "surface": "nirdagdhvā",
+     "gloss": "having-burned",
+     "grounds": "legacy hint having-burned",
+     "morph": "v.abs+root"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svakī",
+     "gloss": "own",
+     "grounds": "legacy hint own",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tanum",
+     "gloss": "body",
+     "grounds": "legacy hint body",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be meditated and burned here?",
+   "premises": [
+    "bhasma+kūṭam iha dhyātvā means meditate ash heap here",
+    "nirdagdhvā tu svakī tanum means having burned own body",
+    "the action is transformative"
+   ],
+   "inference": "Meditate on the ash heap here and burn one's own body.",
+   "uncertainties": [
+    "exact meditation symbolism"
+   ],
+   "plain_english": "Meditate on the ash heap here and burn one's own body."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "śveta+padma+upaviṣṭaṃ",
+     "gloss": "white-lotus-seated",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yoga+pīṭham",
+     "gloss": "yoga-seat",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adho+mukham",
+     "gloss": "down-facing",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the yoga seat described as?",
+   "premises": [
+    "śveta+padma+upaviṣṭaṃ tu describes white lotus seated",
+    "yoga+pīṭham names yoga seat",
+    "adho+mukham gives down-facing"
+   ],
+   "inference": "The yoga seat is white-lotus seated and down-facing.",
+   "uncertainties": [
+    "exact seat use"
+   ],
+   "plain_english": "The yoga seat is white-lotus seated and down-facing."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "vidyā+tattvam",
+     "gloss": "knowledge-principle",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ukāras",
+     "gloss": "u-syllable",
+     "grounds": "legacy hint u-syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śiva+tattvaṃ",
+     "gloss": "śiva-principle",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "makārakam",
+     "gloss": "m-syllable-consisting",
+     "grounds": "legacy hint m-syllable-consisting",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which syllables correspond to knowledge and Śiva principles?",
+   "premises": [
+    "vidyā+tattvam ukāras tu links knowledge principle to u",
+    "śiva+tattvaṃ makārakam links Śiva principle to m",
+    "the correspondences are stated"
+   ],
+   "inference": "The knowledge principle corresponds to u and the Śiva principle to m.",
+   "uncertainties": [
+    "exact mantra usage"
+   ],
+   "plain_english": "The knowledge principle is u and the Śiva principle is m."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "legacy hint by-that",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "amṛtena",
+     "gloss": "by-nectar",
+     "grounds": "legacy hint by-nectar",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarva+aṅgaṃ",
+     "gloss": "all-limbs",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃplāvya",
+     "gloss": "having-flooded",
+     "grounds": "legacy hint having-flooded",
+     "morph": "v.abs+root"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "skilled-one",
+     "grounds": "legacy hint skilled-one",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What should the skilled one flood with nectar?",
+   "premises": [
+    "tena amṛtena means by that nectar",
+    "sarva+aṅgaṃ saṃplāvya means flood all limbs",
+    "vicakṣaṇaḥ addresses skilled one"
+   ],
+   "inference": "The skilled one should flood all limbs with that nectar.",
+   "uncertainties": [
+    "exact nectar source"
+   ],
+   "plain_english": "The skilled one floods all limbs with that nectar."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "bhūta+śuddhiṃ",
+     "gloss": "element-purification",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "purā+kṛtvā",
+     "gloss": "first-having-done",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "v.abs+root"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "indecl."
+    },
+    {
+     "surface": "antaḥ+karaṇaṃ",
+     "gloss": "inner-organ",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "legacy hint do",
+     "morph": "v.2.sg.act-imp+root"
+    }
+   ],
+   "question": "What sequence is prescribed for element and inner purification?",
+   "premises": [
+    "bhūta+śuddhiṃ purā+kṛtvā means first do element purification",
+    "tato antaḥ+karaṇaṃ kuru means then do inner organ",
+    "the sequence is explicit"
+   ],
+   "inference": "First perform element purification, then purify the inner organ.",
+   "uncertainties": [
+    "exact inner organ"
+   ],
+   "plain_english": "First perform element purification, then purify the inner organ."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "śiro+bījena",
+     "gloss": "head-seed-by",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śāpyaṃ",
+     "gloss": "śāpyaṃ",
+     "grounds": "legacy hint śāpyaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "should-hold",
+     "grounds": "legacy hint should-hold",
+     "morph": "v.3.sg.act-opt+root"
+    },
+    {
+     "surface": "sarva+kāma+dam",
+     "gloss": "all-desire-giving",
+     "grounds": "fused sandhi form kept whole",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be held by the head seed and what does it give?",
+   "premises": [
+    "śiro+bījena means by head seed",
+    "śāpyaṃ tu dhārayet means should hold śāpyaṃ",
+    "sarva+kāma+dam means all-desire-giving"
+   ],
+   "inference": "By the head seed one should hold śāpyaṃ, which gives all desires.",
+   "uncertainties": [
+    "exact śāpyaṃ"
+   ],
+   "plain_english": "By the head seed hold śāpyaṃ, which gives all desires."
+  }
+ ]
+}

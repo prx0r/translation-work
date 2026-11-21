@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "qualifies snapanaṃ as regular ritual bathing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "qualifies snapanaṃ as bathing performed on specific occasions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāmyaṃ",
+     "gloss": "desire-driven",
+     "grounds": "qualifies snapanaṃ as bathing performed for a specific wish",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "ritual-bathing",
+     "grounds": "act of bathing the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "predicate describing the classification of snapanaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "expresses the accepted doctrinal view; from √man",
+     "morph": "n.nom.sg ppp"
+    }
+   ],
+   "question": "What threefold classification applies to the ritual bathing of the deity?",
+   "premises": [
+    "Ritual bathing may be performed as a daily observance.",
+    "Ritual bathing may be performed on specific occasions.",
+    "Ritual bathing may be performed to fulfill a desired aim."
+   ],
+   "inference": "Therefore ritual bathing is considered threefold.",
+   "uncertainties": [],
+   "plain_english": "Daily, occasional, and desire-driven bathing is considered to be of three kinds."
+  }
+ ]
+}

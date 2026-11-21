@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p188",
+ "items": [
+  {
+   "verse": 4700,
+   "rows": [
+    {
+     "surface": "dhiṣṇya+avasāne",
+     "gloss": "at-platform-completion",
+     "grounds": "compound; locative of time/occasion indicating end of platform construction",
+     "morph": "dhiṣṇya+avasāna.loc.sg.nt"
+    },
+    {
+     "surface": "pūrva+ukte",
+     "gloss": "previously-stated",
+     "grounds": "compound adjective qualifying kāle",
+     "morph": "pūrva+ukta.loc.sg.m"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-time",
+     "grounds": "locative of time",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting to prior ritual prescriptions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅkura+arpaṇam",
+     "gloss": "sprout-offering",
+     "grounds": "compound naming the ritual act",
+     "morph": "aṅkura+arpaṇa.nom.sg.nt"
+    }
+   ],
+   "question": "At what ritual moment must the sprout offering be performed?",
+   "premises": [
+    "The sprout offering is a prescribed ritual act.",
+    "The act is linked to the completion of the platform.",
+    "The act is also tied to a previously stated time."
+   ],
+   "inference": "The sprout offering must be performed at the previously stated time upon completion of the platform.",
+   "uncertainties": [
+    "The specific previously stated time is not identified within this verse alone."
+   ],
+   "plain_english": "And at the previously stated time, upon the completion of the platform, the offering of sprouts is to be performed."
+  }
+ ]
+}

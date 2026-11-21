@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "bali",
+     "gloss": "food-offering",
+     "grounds": "ritual oblation; object in series with following items",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "homa",
+     "gloss": "fire-oblation",
+     "grounds": "ritual fire offering; object in series",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "utsavaṃ",
+     "gloss": "festival",
+     "grounds": "ritual celebration; object of samācaret",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nṛttaṃ",
+     "gloss": "dance",
+     "grounds": "ritual dance; object of samācaret",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathākālaṃ",
+     "gloss": "at-proper-time",
+     "grounds": "avyayībhāva compound indicating appropriate occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive/optative sense prescribing ritual action",
+     "morph": "3.sg.optative.act √car+sam+ā"
+    }
+   ],
+   "question": "Which additional ritual observances must be carried out at the appointed time?",
+   "premises": [
+    "Food-offering, fire-oblation, festival, and dance are prescribed ritual observances.",
+    "These observances are to be performed at the proper time.",
+    "The prescribed agent should duly carry out these ritual acts."
+   ],
+   "inference": "Therefore food-offering, fire-oblation, festival, and dance should be performed at the appointed time.",
+   "uncertainties": [
+    "The forms bali and homa are morphologically ambiguous between nominative and accusative singular; they are taken as accusative objects in parallel with utsavaṃ and nṛttaṃ."
+   ],
+   "plain_english": "One should perform the food offering, the fire oblation, the festival, and the dance at the proper time."
+  }
+ ]
+}

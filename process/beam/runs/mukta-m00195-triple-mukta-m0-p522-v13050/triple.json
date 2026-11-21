@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p522",
+ "items": [
+  {
+   "verse": 13050,
+   "rows": [
+    {
+     "surface": "keśān",
+     "gloss": "hair",
+     "grounds": "object of protection",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "optative/imperative wish for protection",
+     "morph": "3.sg.impv.act √pā"
+    },
+    {
+     "surface": "viśāla",
+     "gloss": "wide",
+     "grounds": "first member of epithet describing the protector",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣo",
+     "gloss": "eyed",
+     "grounds": "second member of epithet; nominative form with sandhi",
+     "morph": "m.nom.sg (compound-final)"
+    },
+    {
+     "surface": "mūrddhānañ",
+     "gloss": "head",
+     "grounds": "object of protection; final nasal shows sandhi before following word",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects the two objects of protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marut",
+     "gloss": "wind",
+     "grounds": "first member of epithet describing the second protector",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "priyaḥ",
+     "gloss": "beloved",
+     "grounds": "second member of epithet; nominative subject",
+     "morph": "m.nom.sg (compound-final)"
+    }
+   ],
+   "question": "Which divine guardians are assigned to protect the hair and the head?",
+   "premises": [
+    "The wide-eyed one is invoked to protect the hair.",
+    "The beloved of the wind is invoked to protect the head.",
+    "Both protections are expressed as parallel requests."
+   ],
+   "inference": "Different deities are assigned guardianship over specific parts of the body.",
+   "uncertainties": [
+    "The exact identity of viśālākṣa in this context is not specified in the verse.",
+    "The identity of marutpriya is not explicitly named beyond the epithet."
+   ],
+   "plain_english": "May the wide-eyed one protect the hair, and may the beloved of the wind protect the head."
+  }
+ ]
+}

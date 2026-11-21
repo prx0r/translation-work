@@ -1,0 +1,1097 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1626,
+   "rows": [
+    {
+     "surface": "uttamaṃ",
+     "gloss": "highest",
+     "grounds": "qualifies the measure/class",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśatālena",
+     "gloss": "by-ten-tāla-measure",
+     "grounds": "instrumental of measure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "brahmaviṣṇumaheśvarān",
+     "gloss": "Brahma-Viṣṇu-Maheśvara",
+     "grounds": "deities to be made in this measure",
+     "morph": "compound=brahma+viṣṇu+maheśvara; m.acc.pl"
+    }
+   ],
+   "question": "Which deities are prescribed to be made in the highest ten-tāla measure?",
+   "premises": [
+    "The highest class is specified.",
+    "The measure is ten tālas.",
+    "Brahma, Viṣṇu, and Maheśvara are named."
+   ],
+   "inference": "Brahma, Viṣṇu, and Maheśvara are to be made in the highest ten-tāla measure.",
+   "uncertainties": [],
+   "plain_english": "In the highest class, Brahma, Viṣṇu, and Maheśvara should be made according to the ten-tāla measure."
+  },
+  {
+   "verse": 1627,
+   "rows": [
+    {
+     "surface": "uṣābhūmī",
+     "gloss": "Uṣā-and-Bhūmī",
+     "grounds": "pair of goddesses",
+     "morph": "compound=uṣā+bhūmī; f.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durgāṃ",
+     "gloss": "Durgā",
+     "grounds": "goddess named",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmī",
+     "gloss": "Lakṣmī",
+     "grounds": "goddess named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātarastathā",
+     "gloss": "Mothers",
+     "grounds": "group of goddesses; sandhi mātaras+tathā",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are included alongside the previously specified deities in this measurement context?",
+   "premises": [
+    "Uṣā and Bhūmī are named.",
+    "Durgā and Lakṣmī are named.",
+    "The Mothers are included likewise."
+   ],
+   "inference": "Uṣā, Bhūmī, Durgā, Lakṣmī, and the Mothers are included in this group.",
+   "uncertainties": [
+    "Exact syntactic role of mātarastathā with repeated tathā is slightly compressed."
+   ],
+   "plain_english": "Uṣā and Bhūmī, and Durgā, and Lakṣmī, and likewise the Mothers are included."
+  },
+  {
+   "verse": 1628,
+   "rows": [
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "lowest",
+     "grounds": "qualifies the measure/class",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśatālena",
+     "gloss": "by-ten-tāla-measure",
+     "grounds": "instrumental of measure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √kṛ (causative)"
+    },
+    {
+     "surface": "dvijasattama",
+     "gloss": "O-best-twice-born",
+     "grounds": "vocative address",
+     "morph": "compound=dvija+sattama; m.voc.sg"
+    }
+   ],
+   "question": "What measure is prescribed for making figures in the lowest class?",
+   "premises": [
+    "The lowest class is specified.",
+    "The ten-tāla measure is named.",
+    "A prescriptive verb directs making."
+   ],
+   "inference": "Figures in the lowest class should be made using the ten-tāla measure.",
+   "uncertainties": [
+    "The specific figures for this lowest class are implied from context."
+   ],
+   "plain_english": "O best of the twice-born, one should make the lowest class according to the ten-tāla measure."
+  },
+  {
+   "verse": 1629,
+   "rows": [
+    {
+     "surface": "anye",
+     "gloss": "other",
+     "grounds": "qualifies deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāścaiva",
+     "gloss": "deities-and-indeed",
+     "grounds": "subject; sandhi devatāḥ+ca+eva",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navatālottamena",
+     "gloss": "by-highest-nine-tāla",
+     "grounds": "instrumental of measure",
+     "morph": "compound=navatāla+uttama; n.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurement standard applies to other deities not previously specified?",
+   "premises": [
+    "Other deities are mentioned.",
+    "The highest nine-tāla measure is specified.",
+    "The statement contrasts with prior prescriptions."
+   ],
+   "inference": "Other deities should be made according to the highest nine-tāla measure.",
+   "uncertainties": [],
+   "plain_english": "But other deities indeed should be made according to the highest nine-tāla measure."
+  },
+  {
+   "verse": 1630,
+   "rows": [
+    {
+     "surface": "paṃcatālottamena",
+     "gloss": "by-highest-five-tāla",
+     "grounds": "instrumental of measure",
+     "morph": "compound=paṃcatāla+uttama; n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vighneśaṃ",
+     "gloss": "Vighneśa",
+     "grounds": "deity to be made",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayed",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √kṛ (causative)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "the-wise-one",
+     "grounds": "agent of the action",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What tāla measure is prescribed for making the image of Vighneśa?",
+   "premises": [
+    "Vighneśa is the object to be made.",
+    "The highest five-tāla measure is specified.",
+    "A wise person is instructed to make it."
+   ],
+   "inference": "The wise one should make Vighneśa according to the highest five-tāla measure.",
+   "uncertainties": [],
+   "plain_english": "The wise one should indeed make Vighneśa according to the highest five-tāla measure."
+  },
+  {
+   "verse": 1631,
+   "rows": [
+    {
+     "surface": "bālāstu",
+     "gloss": "children-but",
+     "grounds": "subject; sandhi bālāḥ+tu",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedatālena",
+     "gloss": "by-four-tāla-measure",
+     "grounds": "instrumental of measure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tritālena",
+     "gloss": "by-three-tāla-measure",
+     "grounds": "instrumental of measure",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃnaraḥ",
+     "gloss": "Kiṃnara",
+     "grounds": "figure named",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What tāla measures are assigned to children and to a Kiṃnara?",
+   "premises": [
+    "Children are mentioned as one category.",
+    "The four-tāla measure is specified.",
+    "The three-tāla measure is specified for a Kiṃnara."
+   ],
+   "inference": "Children are to be made in four tālas and a Kiṃnara in three tālas.",
+   "uncertainties": [
+    "The verb for making is implied from previous verses."
+   ],
+   "plain_english": "Children should be made with the four-tāla measure, and a Kiṃnara indeed with the three-tāla measure."
+  },
+  {
+   "verse": 1632,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "summarizing adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tālakramaṃ",
+     "gloss": "sequence-of-tāla-measures",
+     "grounds": "object declared",
+     "morph": "compound=tāla+krama; m.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "predicate of declaration",
+     "morph": "n.nom.sg (past participle √vac)"
+    },
+    {
+     "surface": "berāṇām",
+     "gloss": "of-images",
+     "grounds": "possessive relation",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "anukūlyakam",
+     "gloss": "suitable",
+     "grounds": "qualifies the sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What has been established regarding the sequence of tāla measures for images?",
+   "premises": [
+    "A sequence of tāla measures is mentioned.",
+    "It is declared as stated.",
+    "It is suitable for images."
+   ],
+   "inference": "Thus the suitable sequence of tāla measures for images has been declared.",
+   "uncertainties": [],
+   "plain_english": "Thus the suitable sequence of tāla measures for images has been declared."
+  },
+  {
+   "verse": 1633,
+   "rows": [
+    {
+     "surface": "prāsāde",
+     "gloss": "in-temple",
+     "grounds": "locative context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "topic shift particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekabhūmau",
+     "gloss": "in-single-story",
+     "grounds": "qualifies temple; compound eka+bhūmi",
+     "morph": "compound=eka+bhūmi; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-declared",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.pres.pass √vac"
+    },
+    {
+     "surface": "mukhamaṇṭapam",
+     "gloss": "front-hall",
+     "grounds": "subject declared",
+     "morph": "compound=mukha+maṇṭapa; n.nom.sg"
+    }
+   ],
+   "question": "What structure is prescribed for a single-story temple?",
+   "premises": [
+    "The context is a temple.",
+    "The temple is single-story.",
+    "A front hall is declared."
+   ],
+   "inference": "A front hall is prescribed for a single-story temple.",
+   "uncertainties": [],
+   "plain_english": "In a single-story temple, a front hall is prescribed."
+  },
+  {
+   "verse": 1634,
+   "rows": [
+    {
+     "surface": "prāsādābhimukhe",
+     "gloss": "facing-the-temple",
+     "grounds": "locative/orientation; sandhi prāsāda+abhimukhe",
+     "morph": "compound=prāsāda+abhimukha; n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśāsu",
+     "gloss": "in-directions",
+     "grounds": "locative of placement",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vidiśāsu",
+     "gloss": "in-intermediate-directions",
+     "grounds": "locative of placement",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which orientations and directions may the prescribed structure be placed?",
+   "premises": [
+    "Placement facing the temple is mentioned.",
+    "The cardinal directions are mentioned.",
+    "The intermediate directions are mentioned."
+   ],
+   "inference": "The structure may be placed facing the temple and in the cardinal and intermediate directions.",
+   "uncertainties": [
+    "The subject structure is carried over from the previous verse."
+   ],
+   "plain_english": "It may be placed facing the temple, and in the cardinal and intermediate directions."
+  },
+  {
+   "verse": 1635,
+   "rows": [
+    {
+     "surface": "udyāne",
+     "gloss": "in-garden",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "first member of locative compound context",
+     "morph": "f.nom.sg (compound member)"
+    },
+    {
+     "surface": "tīre",
+     "gloss": "on-bank",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "taṭākartāra",
+     "gloss": "tank-maker",
+     "grounds": "possible location context; reading uncertain",
+     "morph": "compound=taṭāka+kartṛ; m.nom.sg (irregular form)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative locations are permitted for placing the structure?",
+   "premises": [
+    "A garden is mentioned as a location.",
+    "A river bank is mentioned as a location.",
+    "Another alternative location is indicated."
+   ],
+   "inference": "The structure may be placed in a garden, on a river bank, or in another such location.",
+   "uncertainties": [
+    "The form and meaning of taṭākartāra are unclear in this context."
+   ],
+   "plain_english": "It may be placed in a garden, or on a river bank, or indeed in another such place."
+  },
+  {
+   "verse": 1636,
+   "rows": [
+    {
+     "surface": "prāsādasyāgrake",
+     "gloss": "in-front-of-temple",
+     "grounds": "locative; sandhi prāsādasya+agrake",
+     "morph": "compound=prāsāda+agraka; n.loc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "maṇṭapaṃ",
+     "gloss": "hall",
+     "grounds": "object to be made",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "caturaśrakam",
+     "gloss": "square",
+     "grounds": "qualifies the hall",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What shape and placement are prescribed for the hall in front of the temple?",
+   "premises": [
+    "The location is in front of the temple.",
+    "A hall is to be made.",
+    "The hall is specified as square."
+   ],
+   "inference": "One should make a square hall in front of the temple.",
+   "uncertainties": [],
+   "plain_english": "One should make a square hall in front of the temple."
+  },
+  {
+   "verse": 1637,
+   "rows": [
+    {
+     "surface": "snapanārthaṃ",
+     "gloss": "for-bathing-purpose",
+     "grounds": "purpose of a hall",
+     "morph": "compound=snapana+artha; n.acc.sg"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal designation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nartanāntu",
+     "gloss": "for-dancing-but",
+     "grounds": "purpose; sandhi nartanāt+tu (reading uncertain)",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturthakam",
+     "gloss": "fourth",
+     "grounds": "ordinal designation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What purposes are assigned to the third and fourth halls?",
+   "premises": [
+    "A third hall is mentioned for bathing.",
+    "A fourth hall is mentioned in relation to dancing.",
+    "The purposes distinguish different halls."
+   ],
+   "inference": "The third hall is for bathing and the fourth is for dancing.",
+   "uncertainties": [
+    "The form nartanāntu is ambiguous; taken as related to dancing purpose."
+   ],
+   "plain_english": "The third hall is for bathing, and the fourth is for dancing."
+  },
+  {
+   "verse": 1638,
+   "rows": [
+    {
+     "surface": "antarmaṇḍalahārādi",
+     "gloss": "beginning-with-inner-enclosure-circuit",
+     "grounds": "starting point of range",
+     "morph": "compound=antar+maṇḍala+hāra+ādi; n.nom.sg"
+    },
+    {
+     "surface": "antarhārānta",
+     "gloss": "ending-with-inner-circuit",
+     "grounds": "ending point of range",
+     "morph": "compound=antar+hāra+anta; n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "What range of placement is permitted for constructing the hall in this context?",
+   "premises": [
+    "A starting point from the inner enclosure circuit is given.",
+    "An ending point at the inner circuit is given.",
+    "An imperative instructs construction."
+   ],
+   "inference": "One should construct it from the inner enclosure circuit up to the inner circuit.",
+   "uncertainties": [
+    "Exact architectural referents of hāra terms are context-dependent."
+   ],
+   "plain_english": "Make it from the inner enclosure circuit up to the inner circuit."
+  },
+  {
+   "verse": 1639,
+   "rows": [
+    {
+     "surface": "maṇṭapānmaṇṭapāntaṃ",
+     "gloss": "from-hall-to-hall-end",
+     "grounds": "range of placement; sandhi maṇṭapāt+maṇṭapa+antam",
+     "morph": "compound=maṇṭapa+anta; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sālādvā",
+     "gloss": "from-enclosure-wall-or",
+     "grounds": "alternative starting point; sandhi sālāt+vā",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "maṇṭapāntakam",
+     "gloss": "up-to-hall-end",
+     "grounds": "ending point of range",
+     "morph": "compound=maṇṭapa+antaka; n.acc.sg"
+    }
+   ],
+   "question": "What alternative spatial ranges are allowed for the extent of the hall?",
+   "premises": [
+    "A range from hall to hall-end is mentioned.",
+    "An alternative starting point from the enclosure wall is given.",
+    "The extent reaches up to the hall-end."
+   ],
+   "inference": "The extent may run from hall to hall-end, or from the enclosure wall to the hall-end.",
+   "uncertainties": [],
+   "plain_english": "It may extend from one hall to the end of a hall, or from the enclosure wall up to the end of the hall."
+  },
+  {
+   "verse": 1640,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃca",
+     "gloss": "one-two-three-four-five",
+     "grounds": "numerical sequence",
+     "morph": "compound=eka+dvi+tri+catur+pañca"
+    },
+    {
+     "surface": "ṣaṭsaptāṣṭakaraṃ",
+     "gloss": "six-seven-eight-cubits",
+     "grounds": "numerical measure in cubits",
+     "morph": "compound=ṣaṭ+sapta+aṣṭa+kara; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of cubit measurements is permitted for the specified dimension?",
+   "premises": [
+    "A sequence from one to five is given.",
+    "A sequence from six to eight cubits is given.",
+    "Alternatives are indicated."
+   ],
+   "inference": "The dimension may be one to eight cubits.",
+   "uncertainties": [
+    "The specific architectural dimension measured is implied by context."
+   ],
+   "plain_english": "It may measure one, two, three, four, five, six, seven, or eight cubits."
+  },
+  {
+   "verse": 1641,
+   "rows": [
+    {
+     "surface": "antarālaviśālaṃ",
+     "gloss": "width-of-intermediate-space",
+     "grounds": "dimension specified",
+     "morph": "compound=antarāla+viśāla; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrasaṃkhyāḥ",
+     "gloss": "Rudra-numbers",
+     "grounds": "numerical designation, eleven",
+     "morph": "compound=rudra+saṃkhyā; f.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "predicate of declaration",
+     "morph": "f.nom.pl (past participle √kīrt)"
+    }
+   ],
+   "question": "How many variants are declared for the width of the intermediate space?",
+   "premises": [
+    "The width of the intermediate space is the subject.",
+    "The Rudra number is specified.",
+    "These are declared as variants."
+   ],
+   "inference": "Eleven variants are declared for the width of the intermediate space.",
+   "uncertainties": [],
+   "plain_english": "The width of the intermediate space is declared in eleven variants, according to the Rudra number."
+  },
+  {
+   "verse": 1642,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃca",
+     "gloss": "one-two-three-four-five",
+     "grounds": "numerical options",
+     "morph": "compound=eka+dvi+tri+catur+pañca"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-preference",
+     "grounds": "basis of choice",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "vābhyantarālakam",
+     "gloss": "or-inner-intermediate-space",
+     "grounds": "object/dimension; sandhi vā+abhyantarālakam",
+     "morph": "compound=abhyantarāla+ka; n.nom.sg"
+    }
+   ],
+   "question": "What numerical options are allowed for the inner intermediate space by preference?",
+   "premises": [
+    "Options from one to five are given.",
+    "Choice is made by preference.",
+    "The inner intermediate space is specified."
+   ],
+   "inference": "The inner intermediate space may be chosen in one to five measures according to preference.",
+   "uncertainties": [
+    "The unit of measure is implied from context."
+   ],
+   "plain_english": "The inner intermediate space may be one, two, three, four, or five, according to preference."
+  },
+  {
+   "verse": 1643,
+   "rows": [
+    {
+     "surface": "bhittibandhāntarālaṃ",
+     "gloss": "wall-bound-intermediate-space",
+     "grounds": "subject condition",
+     "morph": "compound=bhitti+bandha+antarāla; n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvayorveśasaṃyutam",
+     "gloss": "on-sides-with-entrance-joined",
+     "grounds": "condition/result; sandhi pārśvayoḥ+veśa+saṃyutam",
+     "morph": "compound=veśa+saṃyuta; n.nom.sg"
+    }
+   ],
+   "question": "What condition applies when the intermediate space is bounded by walls?",
+   "premises": [
+    "The intermediate space is bounded by walls.",
+    "A conditional is stated.",
+    "It is joined with entrances on the sides."
+   ],
+   "inference": "If the intermediate space is bounded by walls, it should have entrances on the sides.",
+   "uncertainties": [],
+   "plain_english": "If the intermediate space is bounded by walls, it should be provided with entrances on the sides."
+  },
+  {
+   "verse": 1644,
+   "rows": [
+    {
+     "surface": "pārśvayormadhyame",
+     "gloss": "in-middle-of-sides",
+     "grounds": "locative of placement; sandhi pārśvayoḥ+madhyame",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "object to be arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jālakaṃ",
+     "gloss": "lattice-window",
+     "grounds": "alternative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act pra-√kḷp (causative)"
+    }
+   ],
+   "question": "What openings should be arranged in the middle of the sides?",
+   "premises": [
+    "The location is the middle of the sides.",
+    "A door is mentioned.",
+    "A lattice window is mentioned as an alternative."
+   ],
+   "inference": "One should arrange a door or a lattice window in the middle of the sides.",
+   "uncertainties": [],
+   "plain_english": "One should arrange a door or a lattice window in the middle of the sides."
+  },
+  {
+   "verse": 1645,
+   "rows": [
+    {
+     "surface": "ayugmakāṃ",
+     "gloss": "odd-numbered",
+     "grounds": "qualifies wall or space",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhittirvā",
+     "gloss": "wall-or",
+     "grounds": "subject option; sandhi bhittiḥ+vā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyantarālaṃ",
+     "gloss": "inner-intermediate-space",
+     "grounds": "alternative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "O-best-twice-born",
+     "grounds": "vocative address",
+     "morph": "compound=dvija+uttama; m.voc.sg"
+    }
+   ],
+   "question": "What numerical condition is permitted for the wall or the inner intermediate space?",
+   "premises": [
+    "An odd-numbered condition is mentioned.",
+    "The wall is given as an option.",
+    "The inner intermediate space is given as an option."
+   ],
+   "inference": "The wall or the inner intermediate space may be made in an odd number.",
+   "uncertainties": [
+    "The exact counted units are implied by architectural context."
+   ],
+   "plain_english": "O best of the twice-born, the wall or the inner intermediate space may be odd-numbered."
+  },
+  {
+   "verse": 1646,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veśahīnaṃ",
+     "gloss": "without-entrance",
+     "grounds": "qualifies the space",
+     "morph": "compound=veśa+hīna; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇṭapasya",
+     "gloss": "of-hall",
+     "grounds": "possessive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "predicate of equivalence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive/optative statement",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What alternative configuration is allowed when the space lacks an entrance?",
+   "premises": [
+    "An alternative is introduced.",
+    "The space may be without an entrance.",
+    "It may be equal to the hall."
+   ],
+   "inference": "Alternatively, it may be without an entrance and equal to the hall.",
+   "uncertainties": [],
+   "plain_english": "Or else it may be without an entrance and equal in measure to the hall."
+  },
+  {
+   "verse": 1647,
+   "rows": [
+    {
+     "surface": "trihastaṃ",
+     "gloss": "three-cubits",
+     "grounds": "starting measure",
+     "morph": "compound=tri+hasta; n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "indicates starting point",
+     "morph": "(gerund sam-ā-√rabh)"
+    },
+    {
+     "surface": "dvidvihastavivardhanāt",
+     "gloss": "by-increase-of-two-cubits-each",
+     "grounds": "rule of increment; compound dvi+dvi+hasta+vivardhana",
+     "morph": "compound=dvi+dvi+hasta+vivardhana; n.abl.sg"
+    }
+   ],
+   "question": "What starting point and increment rule govern the measurement progression?",
+   "premises": [
+    "The starting measure is three cubits.",
+    "The progression begins from that measure.",
+    "The increase is by two cubits at each step."
+   ],
+   "inference": "The measurement begins at three cubits and increases by two cubits at each step.",
+   "uncertainties": [
+    "The object being measured is implied from surrounding verses."
+   ],
+   "plain_english": "Beginning from three cubits, it should increase by two cubits at each step."
+  },
+  {
+   "verse": 1648,
+   "rows": [
+    {
+     "surface": "ābhāsa",
+     "gloss": "semblance",
+     "grounds": "first member in compound context",
+     "morph": "m.nom.sg (compound member)"
+    },
+    {
+     "surface": "sadanānāṃ",
+     "gloss": "of-temples",
+     "grounds": "possessive relation",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ābhāsaṃ",
+     "gloss": "semblance",
+     "grounds": "predicate/object in apposition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṇṭapastvime",
+     "gloss": "hall-but-these",
+     "grounds": "subject; sandhi maṇṭapaḥ+tu+ime",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ime",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are these halls characterized in relation to the temples?",
+   "premises": [
+    "Temples are mentioned as a reference.",
+    "These halls are identified.",
+    "They are described as semblances."
+   ],
+   "inference": "These halls are semblances corresponding to the temples.",
+   "uncertainties": [
+    "The compound-like sequence ābhāsa sadanānāṃ and repeated ābhāsaṃ is syntactically compressed."
+   ],
+   "plain_english": "These halls are semblances of the temples."
+  },
+  {
+   "verse": 1649,
+   "rows": [
+    {
+     "surface": "saptatriṃśati",
+     "gloss": "thirty-seven",
+     "grounds": "numerical limit",
+     "morph": "(indecl. numeral)"
+    },
+    {
+     "surface": "hastāntaṃ",
+     "gloss": "up-to-cubits",
+     "grounds": "upper limit of measure",
+     "morph": "compound=hasta+anta; n.acc.sg"
+    },
+    {
+     "surface": "vikalpaṃ",
+     "gloss": "variant",
+     "grounds": "subject of variation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "navadhā",
+     "gloss": "in-nine-ways",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What upper limit and number of variants are prescribed for this measurement range?",
+   "premises": [
+    "The upper limit is thirty-seven cubits.",
+    "Variants are specified.",
+    "They are divided into nine ways."
+   ],
+   "inference": "Up to thirty-seven cubits, there should be nine variants.",
+   "uncertainties": [],
+   "plain_english": "Up to thirty-seven cubits, there should be nine variants."
+  }
+ ]
+}

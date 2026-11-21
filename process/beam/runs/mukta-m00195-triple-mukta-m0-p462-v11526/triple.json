@@ -1,0 +1,1087 @@
+{
+ "song": "mukta-m0-p462",
+ "items": [
+  {
+   "verse": 11526,
+   "rows": [
+    {
+     "surface": "lakṣāyutasahasrāṇi",
+     "gloss": "hundred-thousand-ten-thousand-thousands",
+     "grounds": "compound numeral indicating a large count of repetitions",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "catvāryyasya",
+     "gloss": "four-of-this",
+     "grounds": "catvāri + asya; numeral with genitive pronoun",
+     "morph": "n.nom.pl + m.gen.sg"
+    },
+    {
+     "surface": "japo",
+     "gloss": "recitation",
+     "grounds": "repetition of the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "genitive of manus/mantra",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How many recitations are required for this mantra?",
+   "premises": [
+    "The count is four hundred-thousand-ten-thousand-thousands.",
+    "This count applies to recitation of this mantra."
+   ],
+   "inference": "The mantra requires four hundred-thousand-ten-thousand-thousands recitations.",
+   "uncertainties": [
+    "The exact numerical value of lakṣāyutasahasrāṇi catvāri is conventionally interpreted but not explicitly calculated here."
+   ],
+   "plain_english": "Four hundred-thousand-ten-thousand-thousands recitations of this mantra are required."
+  },
+  {
+   "verse": 11527,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates completion of the prior condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsiddhamantrastu",
+     "gloss": "accomplished-mantra-indeed",
+     "grounds": "saṃsiddha + mantraḥ + tu; mantra perfected by recitation",
+     "morph": "compound + m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "daśārṇoktaprayogakān",
+     "gloss": "ten-syllable-taught-applications",
+     "grounds": "applications taught for the ten-syllable mantra",
+     "morph": "compound + m.acc.pl"
+    }
+   ],
+   "question": "What becomes possible once the mantra is fully accomplished?",
+   "premises": [
+    "The mantra becomes accomplished through the prescribed recitation.",
+    "Applications taught for the ten-syllable mantra exist."
+   ],
+   "inference": "One whose mantra is thus accomplished may perform the applications taught for the ten-syllable mantra.",
+   "uncertainties": [],
+   "plain_english": "Thus, with the mantra accomplished, one may perform the applications taught for the ten-syllable mantra."
+  },
+  {
+   "verse": 11528,
+   "rows": [
+    {
+     "surface": "kuryyādiha",
+     "gloss": "one-should-perform-here",
+     "grounds": "kuryāt + iha; perform in this world",
+     "morph": "3.sg.opt.act + (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saubhāgyam",
+     "gloss": "good-fortune",
+     "grounds": "auspicious prosperity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "at the end of life",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "proceeds to a destination",
+     "morph": "3.sg.pres.act √yā"
+    },
+    {
+     "surface": "hareḥ",
+     "gloss": "of-hari",
+     "grounds": "of Viṣṇu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "puram",
+     "gloss": "abode",
+     "grounds": "city or realm",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What worldly and final rewards follow performing these applications?",
+   "premises": [
+    "One should perform the applications here.",
+    "Good fortune is attained in this life.",
+    "At the end one goes to Hari's abode."
+   ],
+   "inference": "Performing the applications yields good fortune now and attainment of Hari's abode at death.",
+   "uncertainties": [],
+   "plain_english": "One should perform them here and gain good fortune, and at the end go to the abode of Hari."
+  },
+  {
+   "verse": 11529,
+   "rows": [
+    {
+     "surface": "kāmabījāntare",
+     "gloss": "love-seed-within",
+     "grounds": "placed between instances of the kāma-bīja",
+     "morph": "compound + n.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇamantroyaṃ",
+     "gloss": "kṛṣṇa-mantra-this",
+     "grounds": "kṛṣṇa-mantraḥ + ayam; this mantra of Kṛṣṇa",
+     "morph": "compound + m.nom.sg + m.nom.sg"
+    },
+    {
+     "surface": "tryakṣaro",
+     "gloss": "three-syllabled",
+     "grounds": "consisting of three syllables",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "regarded or taught as such",
+     "morph": "m.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What is the structure of the three-syllable Kṛṣṇa mantra?",
+   "premises": [
+    "This is a mantra of Kṛṣṇa.",
+    "It is placed within the love-seed.",
+    "It is considered three-syllabled."
+   ],
+   "inference": "The Kṛṣṇa mantra is a three-syllable formula set within the kāma-bīja.",
+   "uncertainties": [],
+   "plain_english": "This Kṛṣṇa mantra, placed within the love-seed, is considered to have three syllables."
+  },
+  {
+   "verse": 11530,
+   "rows": [
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "kṛṣṇa",
+     "grounds": "the name or syllable kṛṣṇa in the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kakāro",
+     "gloss": "ka-letter",
+     "grounds": "the syllable ka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "seed syllable of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "is to be understood as",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "īkāraḥ",
+     "gloss": "ī-letter",
+     "grounds": "the syllable ī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktirucyate",
+     "gloss": "power-is-called",
+     "grounds": "śaktiḥ + ucyate; designated as the power",
+     "morph": "f.nom.sg + 3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "Which syllables function as seed and power in this mantra?",
+   "premises": [
+    "Kṛṣṇa and the letter ka are identified.",
+    "The letter ka should be the seed.",
+    "The letter ī is called the power."
+   ],
+   "inference": "In this mantra, ka is the seed and ī is the power.",
+   "uncertainties": [
+    "The exact role of 'kṛṣṇaḥ' alongside 'kakāro' as seed is slightly compressed in expression."
+   ],
+   "plain_english": "Kṛṣṇa: the letter ka should be the seed, and the letter ī is called the power."
+  },
+  {
+   "verse": 11531,
+   "rows": [
+    {
+     "surface": "dhyānapūjā",
+     "gloss": "meditation-worship",
+     "grounds": "meditation and ritual worship",
+     "morph": "compound + f.nom.sg"
+    },
+    {
+     "surface": "prayogādi",
+     "gloss": "application-etcetera",
+     "grounds": "applications and related procedures",
+     "morph": "compound + n.nom.sg"
+    },
+    {
+     "surface": "piṅgagopālavan",
+     "gloss": "piṅga-gopāla-like",
+     "grounds": "like that of Piṅga Gopāla",
+     "morph": "compound + (indecl.)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "held to be so",
+     "morph": "n.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "How should meditation, worship, and applications be performed for this mantra?",
+   "premises": [
+    "Meditation, worship, and applications are prescribed.",
+    "They are considered like those of Piṅga Gopāla."
+   ],
+   "inference": "The meditation, worship, and applications for this mantra follow the model of Piṅga Gopāla.",
+   "uncertainties": [],
+   "plain_english": "The meditation, worship, applications, and so on are considered to be like those of Piṅga Gopāla."
+  },
+  {
+   "verse": 11532,
+   "rows": [
+    {
+     "surface": "tāro",
+     "gloss": "oṃ",
+     "grounds": "the praṇava syllable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "namaśca",
+     "gloss": "obeisance-and",
+     "grounds": "namaḥ + ca; the word namaḥ",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "kṛṣṇāya",
+     "gloss": "to-kṛṣṇa",
+     "grounds": "dative of Kṛṣṇa",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "the formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rasamitārṇakaḥ",
+     "gloss": "six-measured-syllabled",
+     "grounds": "having six syllables",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the form and syllable count of the stated Kṛṣṇa mantra?",
+   "premises": [
+    "The mantra consists of oṃ, namaḥ, and kṛṣṇāya.",
+    "It is measured as having six syllables."
+   ],
+   "inference": "The mantra 'oṃ namaḥ kṛṣṇāya' is a six-syllable formula.",
+   "uncertainties": [],
+   "plain_english": "The mantra is oṃ, namaḥ, and kṛṣṇāya, consisting of six syllables."
+  },
+  {
+   "verse": 11533,
+   "rows": [
+    {
+     "surface": "p. 673",
+     "gloss": "page-673",
+     "grounds": "editorial page marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "athātaḥ",
+     "gloss": "now-then",
+     "grounds": "marks the beginning of a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sampravakṣyāmi",
+     "gloss": "i-shall-declare",
+     "grounds": "statement of intent to teach",
+     "morph": "1.sg.fut.act sam-pra-√vac"
+    },
+    {
+     "surface": "vasuṣaṣṭimite",
+     "gloss": "eight-sixty-measured",
+     "grounds": "measured as sixty-eight",
+     "morph": "compound + m.loc.sg"
+    },
+    {
+     "surface": "kalau",
+     "gloss": "in-kali-age",
+     "grounds": "in the Kali era",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What teaching is introduced for the sixty-eighth context in Kali age?",
+   "premises": [
+    "A new topic is introduced with 'now then'.",
+    "The speaker declares what follows.",
+    "The context is measured as sixty-eight in the Kali age."
+   ],
+   "inference": "The text now proceeds to declare the teaching pertaining to the sixty-eighth measure in the Kali age.",
+   "uncertainties": [
+    "The precise referent of 'vasuṣaṣṭimite' is not fully explicit in this verse alone."
+   ],
+   "plain_english": "Now then, I shall declare what pertains to the sixty-eighth in the Kali age."
+  },
+  {
+   "verse": 11534,
+   "rows": [
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhīṣayadvayaṃ",
+     "gloss": "terrify-pair",
+     "grounds": "two instances of 'terrify'",
+     "morph": "compound + n.acc.sg"
+    },
+    {
+     "surface": "hṛcca",
+     "gloss": "heart-and",
+     "grounds": "hṛt + ca; the heart-mantra syllable",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "humantaṃ",
+     "gloss": "huṃ-ending",
+     "grounds": "ending with huṃ",
+     "morph": "compound + n.acc.sg"
+    },
+    {
+     "surface": "trāsayadvayam",
+     "gloss": "frighten-pair",
+     "grounds": "two instances of 'frighten'",
+     "morph": "compound + n.acc.sg"
+    }
+   ],
+   "question": "Which mantra components form the first part of the eight limbs?",
+   "premises": [
+    "The sequence includes huṃ and a pair of 'terrify'.",
+    "It includes the heart syllable and a huṃ-ending pair of 'frighten'."
+   ],
+   "inference": "The first part of the limb sequence is huṃ, bhīṣaya twice, hṛt, and trāsaya twice ending with huṃ.",
+   "uncertainties": [
+    "Exact mantra-word forms are given functionally rather than as fully quoted formulas."
+   ],
+   "plain_english": "Huṃ, the pair 'terrify', the heart, and the pair 'frighten' ending with huṃ."
+  },
+  {
+   "verse": 11535,
+   "rows": [
+    {
+     "surface": "varma",
+     "gloss": "armor",
+     "grounds": "the armor-mantra syllable",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pradhvaṃsayayugaṃ",
+     "gloss": "destroy-pair",
+     "grounds": "two instances of 'destroy'",
+     "morph": "compound + n.acc.sg"
+    },
+    {
+     "surface": "varmāntaṃ",
+     "gloss": "armor-ending",
+     "grounds": "ending with the armor syllable",
+     "morph": "compound + n.acc.sg"
+    },
+    {
+     "surface": "rakṣayadvayam",
+     "gloss": "protect-pair",
+     "grounds": "two instances of 'protect'",
+     "morph": "compound + n.acc.sg"
+    }
+   ],
+   "question": "Which mantra components complete the stated eight-limb sequence?",
+   "premises": [
+    "The sequence includes the armor syllable and a pair of 'destroy'.",
+    "It includes a pair of 'protect' ending with armor."
+   ],
+   "inference": "The sequence continues with armor, pradhvaṃsaya twice, and rakṣaya twice ending with armor.",
+   "uncertainties": [
+    "Exact mantra-word forms are given functionally rather than as fully quoted formulas."
+   ],
+   "plain_english": "The armor, the pair 'destroy', and the pair 'protect' ending with armor."
+  },
+  {
+   "verse": 11536,
+   "rows": [
+    {
+     "surface": "aṣṭāṅgāni",
+     "gloss": "eight-limbs",
+     "grounds": "the eight parts of the mantra",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "nyasen",
+     "gloss": "should-place",
+     "grounds": "should ritually install",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "one who uses the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantravarṇair",
+     "gloss": "mantra-syllables-with",
+     "grounds": "using the syllables of the mantra",
+     "morph": "compound + m.inst.pl"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "following the prescribed method",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the practitioner install the eight limbs of the mantra?",
+   "premises": [
+    "There are eight limbs to be placed.",
+    "The practitioner uses the mantra syllables.",
+    "The placement must follow the prescribed rule."
+   ],
+   "inference": "The practitioner should place the eight limbs with the mantra syllables according to rule.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should place the eight limbs with the mantra syllables according to the prescribed rule."
+  },
+  {
+   "verse": 11537,
+   "rows": [
+    {
+     "surface": "vidadhyāt",
+     "gloss": "should-perform",
+     "grounds": "should carry out",
+     "morph": "3.sg.opt.act vi-√dhā"
+    },
+    {
+     "surface": "karayor",
+     "gloss": "on-two-hands",
+     "grounds": "on both hands",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "placement",
+     "grounds": "ritual installation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantrārṇair",
+     "gloss": "mantra-syllables-with",
+     "grounds": "using the syllables of the mantra",
+     "morph": "compound + m.inst.pl"
+    },
+    {
+     "surface": "aṣṭabhiḥ",
+     "gloss": "eight-with",
+     "grounds": "with eight syllables",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "the discerning practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where and with how many syllables should the wise practitioner perform nyāsa?",
+   "premises": [
+    "The placement is to be performed on both hands.",
+    "It uses the mantra syllables.",
+    "Eight syllables are employed."
+   ],
+   "inference": "The wise practitioner should perform the placement on both hands with eight mantra syllables.",
+   "uncertainties": [],
+   "plain_english": "The wise practitioner should perform the placement on both hands with the eight mantra syllables."
+  },
+  {
+   "verse": 11538,
+   "rows": [
+    {
+     "surface": "sṛṣṭir",
+     "gloss": "creation",
+     "grounds": "the creative mode",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "etadvaiparītyaṃ",
+     "gloss": "this-reverse",
+     "grounds": "the reverse of this",
+     "morph": "compound + n.nom.sg"
+    },
+    {
+     "surface": "saṃhāro",
+     "gloss": "dissolution",
+     "grounds": "the dissolutive mode",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gaditaḥ",
+     "gloss": "declared",
+     "grounds": "stated as",
+     "morph": "m.nom.sg.past-passive-participle √gad"
+    },
+    {
+     "surface": "sthitiḥ",
+     "gloss": "maintenance",
+     "grounds": "the sustaining mode",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How are creation, maintenance, and dissolution defined in this nyāsa scheme?",
+   "premises": [
+    "Creation is named as one mode.",
+    "The reverse of that is declared dissolution.",
+    "Maintenance is also declared."
+   ],
+   "inference": "The scheme defines creation, its reverse as dissolution, and maintenance as distinct modes.",
+   "uncertainties": [
+    "The exact order or mapping of maintenance relative to the other two is compressed in this verse."
+   ],
+   "plain_english": "Creation is stated, its reverse is declared dissolution, and maintenance is also declared."
+  },
+  {
+   "verse": 11539,
+   "rows": [
+    {
+     "surface": "drāvaṇyādyabījayutām",
+     "gloss": "drāvaṇī-etcetera-seed-joined",
+     "grounds": "joined with the seed of drāvaṇī and others",
+     "morph": "compound + f.acc.sg"
+    },
+    {
+     "surface": "aṃguṣṭhādiṣu",
+     "gloss": "thumb-beginning-in",
+     "grounds": "beginning with the thumb",
+     "morph": "compound + m.loc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "should ritually install",
+     "morph": "3.sg.opt.act vi-ni-√as"
+    }
+   ],
+   "question": "Where should the sequence joined with drāvaṇī and other seeds be placed?",
+   "premises": [
+    "A sequence joined with drāvaṇī and other seeds is specified.",
+    "The placement begins with the thumb."
+   ],
+   "inference": "One should place the sequence joined with drāvaṇī and other seeds starting at the thumb.",
+   "uncertainties": [],
+   "plain_english": "One should place it, joined with the seed of drāvaṇī and others, beginning with the thumb."
+  },
+  {
+   "verse": 11540,
+   "rows": [
+    {
+     "surface": "tāto",
+     "gloss": "then",
+     "grounds": "after that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāṇārṇapuṭitāṃ",
+     "gloss": "arrow-syllable-enclosed",
+     "grounds": "enclosed by the arrow syllable",
+     "morph": "compound + f.acc.sg"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "alphabet",
+     "grounds": "the mātṛkā sequence",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "one-should-place",
+     "grounds": "should ritually install",
+     "morph": "3.sg.opt.act pra-vi-ni-√as"
+    }
+   ],
+   "question": "What additional placement follows after the previous installation step?",
+   "premises": [
+    "The next step comes after the previous one.",
+    "The mātṛkā is enclosed by the arrow syllable.",
+    "It should be placed."
+   ],
+   "inference": "Then one should place the mātṛkā enclosed by the arrow syllable.",
+   "uncertainties": [
+    "The identity of the 'arrow syllable' (bāṇārṇa) is not specified in this verse."
+   ],
+   "plain_english": "Then one should place the mātṛkā enclosed by the arrow syllable."
+  },
+  {
+   "verse": 11541,
+   "rows": [
+    {
+     "surface": "teja",
+     "gloss": "fire",
+     "grounds": "the element fire",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āpo",
+     "gloss": "water",
+     "grounds": "the element water",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dharā",
+     "gloss": "earth",
+     "grounds": "the element earth",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvāṣṭakam",
+     "gloss": "element-eight",
+     "grounds": "a group of eight elements",
+     "morph": "compound + n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "stated as such",
+     "morph": "n.nom.sg.past-passive-participle ud-√īr"
+    }
+   ],
+   "question": "What constitutes the declared group of eight elements in this context?",
+   "premises": [
+    "Fire, water, and earth are named.",
+    "A group of eight elements is declared."
+   ],
+   "inference": "Fire, water, and earth are included in the declared group of eight elements.",
+   "uncertainties": [
+    "Only three elements are explicitly named in this verse; the remaining five are not listed here."
+   ],
+   "plain_english": "Fire, water, and earth—thus the group of eight elements is declared."
+  },
+  {
+   "verse": 11542,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "on the mouth",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śīrṣe",
+     "gloss": "on-head",
+     "grounds": "on the head",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "in the heart",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "further",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "in the heart region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sakalāṅgake",
+     "gloss": "in-all-limbs",
+     "grounds": "in all parts of the body",
+     "morph": "compound + n.loc.sg"
+    }
+   ],
+   "question": "Which bodily locations are specified for this placement sequence?",
+   "premises": [
+    "The mouth, head, and heart are named.",
+    "The heart again and all limbs are named."
+   ],
+   "inference": "The placement sequence involves the mouth, head, heart, heart again, and all limbs.",
+   "uncertainties": [],
+   "plain_english": "In the mouth, on the head, in the heart, again in the heart, and in all the limbs."
+  },
+  {
+   "verse": 11543,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "this described sequence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sṛṣṭiśca",
+     "gloss": "creation-and",
+     "grounds": "sṛṣṭiḥ + ca; the creative mode",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "nābhyādyā",
+     "gloss": "navel-beginning",
+     "grounds": "beginning from the navel",
+     "morph": "compound + f.nom.sg"
+    },
+    {
+     "surface": "hṛdantā",
+     "gloss": "heart-ending",
+     "grounds": "ending at the heart",
+     "morph": "compound + f.nom.sg"
+    },
+    {
+     "surface": "sthitir",
+     "gloss": "maintenance",
+     "grounds": "the sustaining mode",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "declared",
+     "grounds": "stated as such",
+     "morph": "f.nom.sg.past-passive-participle √īr"
+    }
+   ],
+   "question": "How are the creation and maintenance placements distinguished by bodily range?",
+   "premises": [
+    "This sequence is identified as creation.",
+    "A sequence beginning at the navel and ending at the heart is declared maintenance."
+   ],
+   "inference": "Creation is the described sequence, while maintenance runs from the navel to the heart.",
+   "uncertainties": [],
+   "plain_english": "This is creation, and the sequence beginning at the navel and ending at the heart is declared maintenance."
+  },
+  {
+   "verse": 11544,
+   "rows": [
+    {
+     "surface": "mantrārṇānām",
+     "gloss": "mantra-syllables-of",
+     "grounds": "of the syllables of the mantra",
+     "morph": "compound + m.gen.pl"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "this placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktas",
+     "gloss": "declared",
+     "grounds": "taught as",
+     "morph": "m.nom.sg.past-passive-participle pra-√vac"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "in three ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāso",
+     "gloss": "placement",
+     "grounds": "ritual installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanapradaḥ",
+     "gloss": "wealth-giving",
+     "grounds": "bestowing wealth",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the nature and fruit of the threefold placement of mantra syllables?",
+   "premises": [
+    "This is a placement of mantra syllables.",
+    "It is declared threefold.",
+    "It gives wealth."
+   ],
+   "inference": "The threefold placement of the mantra syllables is declared to bestow wealth.",
+   "uncertainties": [],
+   "plain_english": "This threefold placement of the mantra syllables is declared to bestow wealth."
+  },
+  {
+   "verse": 11545,
+   "rows": [
+    {
+     "surface": "mantrārṇān",
+     "gloss": "mantra-syllables",
+     "grounds": "the syllables of the mantra",
+     "morph": "compound + m.acc.pl"
+    },
+    {
+     "surface": "vinyasen",
+     "gloss": "should-place",
+     "grounds": "should ritually install",
+     "morph": "3.sg.opt.act vi-ni-√as"
+    },
+    {
+     "surface": "matrī",
+     "gloss": "practitioner",
+     "grounds": "one who uses the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsoyaṃ",
+     "gloss": "placement-this",
+     "grounds": "nyāsaḥ + ayam; this placement",
+     "morph": "m.nom.sg + m.nom.sg"
+    },
+    {
+     "surface": "dārḍhyakārakaḥ",
+     "gloss": "firmness-causing",
+     "grounds": "producing firmness or stability",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What effect does this placement of mantra syllables produce for the practitioner?",
+   "premises": [
+    "The practitioner should place the mantra syllables.",
+    "This placement is identified as causing firmness."
+   ],
+   "inference": "Placing the mantra syllables in this way produces firmness.",
+   "uncertainties": [],
+   "plain_english": "The practitioner should place the mantra syllables; this placement produces firmness."
+  },
+  {
+   "verse": 11546,
+   "rows": [
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "on the back",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyased",
+     "gloss": "one-should-place",
+     "grounds": "should ritually install",
+     "morph": "3.sg.opt.act vi-ni-√as"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "syllables",
+     "grounds": "the mantra syllables",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nyāsoyaṃ",
+     "gloss": "placement-this",
+     "grounds": "nyāsaḥ + ayam; this placement",
+     "morph": "m.nom.sg + m.nom.sg"
+    },
+    {
+     "surface": "śubhakārakaḥ",
+     "gloss": "auspiciousness-causing",
+     "grounds": "producing auspiciousness",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What result follows from placing the syllables on the back?",
+   "premises": [
+    "The syllables should be placed on the back.",
+    "This placement is identified as causing auspiciousness."
+   ],
+   "inference": "Placing the syllables on the back produces auspiciousness.",
+   "uncertainties": [],
+   "plain_english": "One should place the syllables on the back; this placement brings auspiciousness."
+  },
+  {
+   "verse": 11547,
+   "rows": [
+    {
+     "surface": "kūrpare",
+     "gloss": "on-elbow",
+     "grounds": "on the elbow",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃsake",
+     "gloss": "on-shoulder",
+     "grounds": "on the shoulder",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "after placing",
+     "morph": "absolutive √nyas"
+    },
+    {
+     "surface": "manorvarṇān",
+     "gloss": "mantra-syllables",
+     "grounds": "manoḥ + varṇān; syllables of the mantra",
+     "morph": "compound + m.acc.pl"
+    },
+    {
+     "surface": "dhanapradān",
+     "gloss": "wealth-giving",
+     "grounds": "bestowing wealth",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What benefit comes from placing the mantra syllables on elbow and shoulder?",
+   "premises": [
+    "The mantra syllables are placed on the elbow and shoulder.",
+    "These syllables are described as wealth-giving."
+   ],
+   "inference": "Placing the mantra syllables on the elbow and shoulder yields wealth.",
+   "uncertainties": [],
+   "plain_english": "Having placed the wealth-giving mantra syllables on the elbow and shoulder, one gains wealth."
+  },
+  {
+   "verse": 11548,
+   "rows": [
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "of the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vinyased",
+     "gloss": "one-should-place",
+     "grounds": "should ritually install",
+     "morph": "3.sg.opt.act vi-ni-√as"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "syllables",
+     "grounds": "the syllables",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nyāsoyaṃ",
+     "gloss": "placement-this",
+     "grounds": "nyāsaḥ + ayam; this placement",
+     "morph": "m.nom.sg + m.nom.sg"
+    },
+    {
+     "surface": "kāmyakaḥ",
+     "gloss": "desire-fulfilling",
+     "grounds": "fulfilling desired aims",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditionally known as",
+     "morph": "m.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "What is the traditional purpose of this placement of the mantra's syllables?",
+   "premises": [
+    "The syllables of the mantra should be placed.",
+    "This placement is remembered as desire-fulfilling."
+   ],
+   "inference": "This placement of the mantra's syllables is traditionally held to fulfill desires.",
+   "uncertainties": [],
+   "plain_english": "One should place the syllables of the mantra; this placement is remembered as fulfilling desires."
+  },
+  {
+   "verse": 11549,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhādau",
+     "gloss": "thumb-beginning-in",
+     "grounds": "beginning with the thumb",
+     "morph": "compound + m.loc.sg"
+    },
+    {
+     "surface": "nyased",
+     "gloss": "one-should-place",
+     "grounds": "should ritually install",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "varṇān",
+     "gloss": "syllables",
+     "grounds": "the mantra syllables",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pañcamo",
+     "gloss": "fifth",
+     "grounds": "the fifth placement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dharmavṛddhikṛt",
+     "gloss": "dharma-increase-making",
+     "grounds": "causing increase of dharma",
+     "morph": "compound + m.nom.sg"
+    }
+   ],
+   "question": "What is the effect of the fifth placement beginning at the thumb?",
+   "premises": [
+    "The syllables are placed beginning at the thumb.",
+    "This is the fifth placement.",
+    "It causes increase of dharma."
+   ],
+   "inference": "The fifth placement, beginning at the thumb, increases dharma.",
+   "uncertainties": [],
+   "plain_english": "One should place the syllables beginning at the thumb; this fifth placement increases dharma."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2650,
+   "rows": [
+    {
+     "surface": "bāhyaśālādvayaṃ",
+     "gloss": "outer-hall-two",
+     "grounds": "compound of outer, hall, and two; accusative neuter singular",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "netraṃ",
+     "gloss": "eye",
+     "grounds": "neuter accusative singular noun",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "yuktaṃ",
+     "gloss": "endowed",
+     "grounds": "past participle agreeing with outer-hall-two",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karkarīyutam",
+     "gloss": "karkarī-endowed",
+     "grounds": "compound adjective agreeing with outer-hall-two",
+     "morph": "neut.acc.sg"
+    }
+   ],
+   "question": "What must the outer hall pair be endowed with, and what additional feature is required?",
+   "premises": [
+    "outer hall pair is eye-endowed",
+    "but it is karkarī-endowed"
+   ],
+   "inference": "the outer hall pair requires both eye and karkarī endowment",
+   "uncertainties": [
+    "exact meaning of karkarī remains uncertain"
+   ],
+   "plain_english": "The pair of outer halls is endowed with an eye, but also with a karkarī."
+  }
+ ]
+}

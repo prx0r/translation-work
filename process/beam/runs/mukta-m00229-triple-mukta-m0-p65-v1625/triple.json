@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "sthitaṃ",
+     "gloss": "established",
+     "grounds": "past participle of sthā, neuter accusative singular, object of dhyāyet",
+     "morph": "m.acc.sg.n"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "optative of dhyai, third singular active, prescribes meditation",
+     "morph": "3.sg.act-opt.√dhyai"
+    },
+    {
+     "surface": "samiddhomeṣu",
+     "gloss": "in-samid-homas",
+     "grounds": "locative plural of samiddhoma, in the samid-homa rites",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "sadhaka",
+     "grounds": "nominative singular subject of dhyāyet",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the sadhaka meditate upon during samid-homa rites?",
+   "premises": [
+    "sadhaka is subject of meditation",
+    "samiddhomeṣu locates rite",
+    "sthitaṃ is meditation object"
+   ],
+   "inference": "the sadhaka meditates on the established object in samid-homa rites",
+   "uncertainties": [
+    "exact referent of sthitaṃ unspecified by verse"
+   ],
+   "plain_english": "The sadhaka should meditate on what is established during the samid-homa rites."
+  }
+ ]
+}

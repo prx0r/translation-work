@@ -1,0 +1,1381 @@
+{
+ "song": "mukta-m0-p287",
+ "items": [
+  {
+   "verse": 7151,
+   "rows": [
+    {
+     "surface": "puṇyāha",
+     "gloss": "auspicious-day",
+     "grounds": "compound member denoting auspicious-day declaration",
+     "morph": "compound: puṇya+āha"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "ritual act of sprinkling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "preceding",
+     "grounds": "indicates prior performance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhūta",
+     "gloss": "element",
+     "grounds": "compound member referring to elements",
+     "morph": "compound: bhūta+śuddhi"
+    },
+    {
+     "surface": "śuddhi",
+     "gloss": "purification",
+     "grounds": "purification of elements",
+     "morph": "compound: bhūta+śuddhi"
+    },
+    {
+     "surface": "purassaram",
+     "gloss": "preceded-by",
+     "grounds": "indicates what comes before the main rite",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What preliminary rites must precede the main ritual procedure?",
+   "premises": [
+    "Auspicious-day declaration is required beforehand",
+    "Sprinkling is performed as a preliminary act",
+    "Purification of elements precedes the main rite"
+   ],
+   "inference": "The main ritual must be preceded by auspicious-day declaration, sprinkling, and elemental purification",
+   "uncertainties": [],
+   "plain_english": "First, preceded by the auspicious-day declaration, sprinkling, and purification of the elements."
+  },
+  {
+   "verse": 7152,
+   "rows": [
+    {
+     "surface": "rudragāyatri",
+     "gloss": "rudra-gayatri",
+     "grounds": "name of a specific mantra",
+     "morph": "compound: rudra+gāyatrī"
+    },
+    {
+     "surface": "saṃjñaṃ",
+     "gloss": "named",
+     "grounds": "designates the mantra by name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajamānaḥ",
+     "gloss": "sacrificer",
+     "grounds": "the ritual patron performing the recitation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates the time of recitation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japeta",
+     "gloss": "should-recite",
+     "grounds": "prescribes mantra recitation",
+     "morph": "3.sg.act-optative √jap"
+    }
+   ],
+   "question": "Which mantra should the sacrificer recite at that stage?",
+   "premises": [
+    "The sacrificer is the agent of recitation",
+    "The recitation occurs at that time",
+    "The mantra is identified as Rudragayatri"
+   ],
+   "inference": "The sacrificer should then recite the mantra named Rudragayatri",
+   "uncertainties": [],
+   "plain_english": "Then the sacrificer should recite the mantra called Rudragayatri."
+  },
+  {
+   "verse": 7153,
+   "rows": [
+    {
+     "surface": "pūrva",
+     "gloss": "east",
+     "grounds": "compound member indicating eastern direction",
+     "morph": "compound: pūrva+dik"
+    },
+    {
+     "surface": "dika",
+     "gloss": "direction",
+     "grounds": "compound member indicating direction",
+     "morph": "compound: pūrva+dik+sthāna"
+    },
+    {
+     "surface": "sthāna",
+     "gloss": "place",
+     "grounds": "compound member indicating location",
+     "morph": "compound: pūrva+dik+sthāna+madhya"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "compound member indicating central position",
+     "morph": "compound: pūrva+dik+sthāna+madhya+stha"
+    },
+    {
+     "surface": "stha",
+     "gloss": "situated",
+     "grounds": "compound member indicating being situated",
+     "morph": "compound: pūrva+dik+sthāna+madhya+stha"
+    },
+    {
+     "surface": "paścima",
+     "gloss": "west",
+     "grounds": "compound member indicating western direction",
+     "morph": "compound: paścima+āli"
+    },
+    {
+     "surface": "āli",
+     "gloss": "row",
+     "grounds": "compound member indicating a row or line",
+     "morph": "compound: paścima+āli+mukha"
+    },
+    {
+     "surface": "mukhoya",
+     "gloss": "facing",
+     "grounds": "compound member indicating orientation; sandhi form within token",
+     "morph": "compound: paścima+āli+mukha"
+    },
+    {
+     "surface": "thā",
+     "gloss": "as",
+     "grounds": "indicates manner or position",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the sacrificer be positioned and oriented during the recitation?",
+   "premises": [
+    "The position is in the middle of the eastern place",
+    "The orientation is toward the western row",
+    "The posture is described as facing that direction"
+   ],
+   "inference": "The sacrificer should be situated in the middle of the eastern place facing the western row",
+   "uncertainties": [
+    "Exact parsing of the compound chain in mukhoya-thā is uncertain"
+   ],
+   "plain_english": "He should be situated in the middle of the eastern place, facing the western row."
+  },
+  {
+   "verse": 7154,
+   "rows": [
+    {
+     "surface": "veda",
+     "gloss": "veda",
+     "grounds": "compound member referring to Vedic recitation or instruments",
+     "morph": "compound: veda+ātodya"
+    },
+    {
+     "surface": "ātodya",
+     "gloss": "musical-instruments",
+     "grounds": "compound member referring to instruments",
+     "morph": "compound: veda+ātodya"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "accompanied-by",
+     "grounds": "indicates accompaniment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nṛtta",
+     "gloss": "dance",
+     "grounds": "compound member referring to dance",
+     "morph": "compound: nṛtta+gīta"
+    },
+    {
+     "surface": "gīta",
+     "gloss": "song",
+     "grounds": "compound member referring to song",
+     "morph": "compound: nṛtta+gīta"
+    },
+    {
+     "surface": "samanvutam",
+     "gloss": "endowed-with",
+     "grounds": "indicates being endowed with dance and song",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What musical and performative elements should accompany the ritual?",
+   "premises": [
+    "Vedic musical instruments are included",
+    "Dance is part of the accompaniment",
+    "Song is part of the accompaniment"
+   ],
+   "inference": "The ritual should be accompanied by Vedic instruments and endowed with dance and song",
+   "uncertainties": [],
+   "plain_english": "It should be accompanied by Vedic musical instruments and endowed with dance and song."
+  },
+  {
+   "verse": 7155,
+   "rows": [
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "compound member indicating one's own",
+     "morph": "compound: sva+kāya"
+    },
+    {
+     "surface": "kāyena",
+     "gloss": "body",
+     "grounds": "instrument by which the act is done",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indicates time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun indicating the agent or means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tulā",
+     "gloss": "balance",
+     "grounds": "compound member referring to the balance scale",
+     "morph": "compound: tulā+roha"
+    },
+    {
+     "surface": "rohaḥ",
+     "gloss": "mounting",
+     "grounds": "act of mounting the balance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "done",
+     "grounds": "completed action",
+     "morph": "m.nom.sg.past-passive-participle √kṛ"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive or potential state",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "By whose own body should the mounting of the balance be performed?",
+   "premises": [
+    "The mounting of the balance is the act in question",
+    "The act is done by one's own body",
+    "The act should be completed at that time"
+   ],
+   "inference": "The mounting of the balance should then be done by that person's own body",
+   "uncertainties": [],
+   "plain_english": "Then the mounting of the balance should be done by that person with his own body."
+  },
+  {
+   "verse": 7156,
+   "rows": [
+    {
+     "surface": "devendraṃ",
+     "gloss": "indra",
+     "grounds": "possible recipient or representative; name of the god Indra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartāraṃ",
+     "gloss": "performer",
+     "grounds": "the one performing the rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tulā",
+     "gloss": "balance",
+     "grounds": "compound member referring to the balance scale",
+     "morph": "compound: tulā+rohaṇa"
+    },
+    {
+     "surface": "rohaṇam",
+     "gloss": "mounting",
+     "grounds": "act of mounting the balance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "prescribes performance of the act",
+     "morph": "3.sg.act-optative √ā-car"
+    }
+   ],
+   "question": "Who may perform the act of mounting the balance in this rite?",
+   "premises": [
+    "Mounting the balance is the prescribed act",
+    "Indra is named as one possible option",
+    "The performer is named as an alternative option"
+   ],
+   "inference": "One should perform the mounting of the balance for Indra or for the performer",
+   "uncertainties": [
+    "The role of devendraṃ as recipient or representative is ambiguous"
+   ],
+   "plain_english": "One should perform the mounting of the balance for Indra or for the performer."
+  },
+  {
+   "verse": 7157,
+   "rows": [
+    {
+     "surface": "hotṛṃḥ",
+     "gloss": "priests",
+     "grounds": "recipients of the fee; form as given",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "fee",
+     "grounds": "ritual payment to priests",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tebhyaḥ",
+     "gloss": "to-them",
+     "grounds": "indicates recipients",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "pradadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribes giving",
+     "morph": "3.sg.act-optative √pra-dā"
+    },
+    {
+     "surface": "vidhipūrvakam",
+     "gloss": "according-to-rule",
+     "grounds": "indicates conformity with prescribed procedure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the ritual fees be given to the priests?",
+   "premises": [
+    "The priests are the recipients",
+    "A fee is to be given to them",
+    "The giving must follow prescribed rules"
+   ],
+   "inference": "One should give the fee to the priests according to the prescribed rule",
+   "uncertainties": [],
+   "plain_english": "And one should give the fee to the priests according to the prescribed rule."
+  },
+  {
+   "verse": 7158,
+   "rows": [
+    {
+     "surface": "ṛtitvigbhyaḥ",
+     "gloss": "to-officiating-priests",
+     "grounds": "recipients of the prescribed payment",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvebhyaḥ",
+     "gloss": "to-all",
+     "grounds": "indicates all recipients",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "number of niṣkas",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkāḥ",
+     "gloss": "nishkas",
+     "grounds": "units of payment",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "prescribed",
+     "grounds": "declared as the prescribed amount",
+     "morph": "m.nom.pl.past-passive-participle √pra-kīrt"
+    }
+   ],
+   "question": "What payment is prescribed for all the officiating priests?",
+   "premises": [
+    "All officiating priests are recipients",
+    "The payment is measured in niṣkas",
+    "The prescribed amount is ten"
+   ],
+   "inference": "Ten niṣkas are prescribed for all the officiating priests",
+   "uncertainties": [],
+   "plain_english": "Ten niṣkas are prescribed for all the officiating priests."
+  },
+  {
+   "verse": 7159,
+   "rows": [
+    {
+     "surface": "śiva",
+     "gloss": "shiva",
+     "grounds": "compound member referring to Śiva",
+     "morph": "compound: śiva+arcaka"
+    },
+    {
+     "surface": "arcakasya",
+     "gloss": "of-worshipper",
+     "grounds": "the worshipper of Śiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgva",
+     "gloss": "as-before",
+     "grounds": "indicates conformity with earlier instruction; sandhi form within token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle; form as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "stated as prescribed",
+     "morph": "f.nom.sg.past-passive-participle √sam-īr"
+    }
+   ],
+   "question": "How is the worship of Śiva's worshipper to be performed?",
+   "premises": [
+    "The worship concerns Śiva's worshipper",
+    "The manner is compared to earlier instruction",
+    "The procedure is declared in the text"
+   ],
+   "inference": "The worship of Śiva's worshipper is declared to be performed as before",
+   "uncertainties": [
+    "The token prāgva and deva may reflect sandhi or textual form requiring interpretation"
+   ],
+   "plain_english": "And the worship of Śiva's worshipper is declared to be done as before."
+  },
+  {
+   "verse": 7160,
+   "rows": [
+    {
+     "surface": "tulā",
+     "gloss": "balance",
+     "grounds": "compound member referring to the balance scale",
+     "morph": "compound: tulā+adhi"
+    },
+    {
+     "surface": "adhi",
+     "gloss": "upon",
+     "grounds": "compound member indicating position on",
+     "morph": "compound: tulā+adhi+rohita"
+    },
+    {
+     "surface": "rohitaṃ",
+     "gloss": "mounted",
+     "grounds": "placed or mounted on the balance",
+     "morph": "n.acc.sg.past-passive-participle √ruh"
+    },
+    {
+     "surface": "vittaṃ",
+     "gloss": "wealth",
+     "grounds": "the wealth to be given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brāhmaṇebhyaḥ",
+     "gloss": "to-brahmanas",
+     "grounds": "recipients of the gift",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "should-cause-to-give",
+     "grounds": "prescribes causing the gift to be given",
+     "morph": "3.sg.act-causative-optative √pra-dā"
+    }
+   ],
+   "question": "To whom should the wealth mounted on the balance be given?",
+   "premises": [
+    "The wealth has been mounted on the balance",
+    "The recipients are brahmanas",
+    "The act of giving is to be caused or performed"
+   ],
+   "inference": "One should cause the wealth mounted on the balance to be given to brahmanas",
+   "uncertainties": [],
+   "plain_english": "One should cause the wealth mounted on the balance to be given to the brahmanas."
+  },
+  {
+   "verse": 7161,
+   "rows": [
+    {
+     "surface": "deśikebhyaḥ",
+     "gloss": "to-teachers",
+     "grounds": "recipients, referring to spiritual teachers",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "marks special emphasis",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "prescribes giving",
+     "morph": "3.sg.act-optative √dā"
+    },
+    {
+     "surface": "chraddhā",
+     "gloss": "with-faith",
+     "grounds": "compound member indicating faith; spelling as given",
+     "morph": "compound: śraddhā+samanvita"
+    },
+    {
+     "surface": "samanvitaḥ",
+     "gloss": "endowed-with",
+     "grounds": "indicates being endowed with faith",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To whom should gifts be given with special emphasis and faith?",
+   "premises": [
+    "Teachers are specified as recipients",
+    "Special emphasis is placed on giving to them",
+    "The giver should be endowed with faith"
+   ],
+   "inference": "One should especially give to the teachers, being endowed with faith",
+   "uncertainties": [],
+   "plain_english": "One should especially give to the teachers, endowed with faith."
+  },
+  {
+   "verse": 7162,
+   "rows": [
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb indicating context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "ritual",
+     "grounds": "compound member referring to ritual action",
+     "morph": "compound: karma+kara"
+    },
+    {
+     "surface": "karāḥ",
+     "gloss": "doers",
+     "grounds": "those who perform the ritual",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the ritual doers",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates individual distribution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkaṃ",
+     "gloss": "nishka",
+     "grounds": "unit of payment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pratāpayet",
+     "gloss": "should-give",
+     "grounds": "prescribes giving; form as given",
+     "morph": "3.sg.act-causative-optative √pra-tap"
+    }
+   ],
+   "question": "What payment should be given separately to those who perform the ritual?",
+   "premises": [
+    "There are doers of the ritual",
+    "Each is to be considered separately",
+    "A niṣka is the prescribed payment"
+   ],
+   "inference": "One should give a niṣka separately to each of the ritual doers",
+   "uncertainties": [
+    "The verb pratāpayet is unusual in this context and may mean to bestow or give"
+   ],
+   "plain_english": "Where there are ritual performers, one should give a niṣka separately to each of them."
+  },
+  {
+   "verse": 7163,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "refers to what has been stated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāmānyaṃ",
+     "gloss": "general",
+     "grounds": "indicates general rule",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "stated or prescribed",
+     "morph": "n.nom.sg.past-passive-participle √ud-diś"
+    },
+    {
+     "surface": "dānānāṃ",
+     "gloss": "of-gifts",
+     "grounds": "refers to gifts or donations",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "dvijayattamāḥ",
+     "gloss": "o-best-twice-born",
+     "grounds": "vocative address to the audience",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "How is the preceding instruction about gifts characterized for the audience?",
+   "premises": [
+    "The instruction concerns gifts",
+    "It is described as general",
+    "It is addressed to the best of the twice-born"
+   ],
+   "inference": "This has been declared as the general rule regarding gifts, O best of the twice-born",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, this has been declared as the general rule for gifts."
+  },
+  {
+   "verse": 7164,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "prescribes making",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "sahasraniṣkeṇa",
+     "gloss": "with-thousand-nishkas",
+     "grounds": "indicates the value or amount used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "lower",
+     "grounds": "compound member indicating lower position",
+     "morph": "compound: adhaḥ+pātra"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "the vessel to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hiraṇyataḥ",
+     "gloss": "of-gold",
+     "grounds": "indicates material of gold",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of lower vessel should be made using a thousand niṣkas?",
+   "premises": [
+    "A lower vessel is to be made",
+    "The value involved is a thousand niṣkas",
+    "The vessel is to be of gold"
+   ],
+   "inference": "One should make the lower vessel of gold with a thousand niṣkas",
+   "uncertainties": [],
+   "plain_english": "One should make the lower vessel of gold with a thousand niṣkas."
+  },
+  {
+   "verse": 7165,
+   "rows": [
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "fractional measure option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "compound member indicating half",
+     "morph": "compound: ardha+māna"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "measure or proportion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapādaṃ",
+     "gloss": "with-quarter",
+     "grounds": "fractional measure option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sārdham",
+     "gloss": "with-half",
+     "grounds": "fractional measure option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative proportions are permitted for the vessel's measure?",
+   "premises": [
+    "Multiple fractional measures are listed",
+    "The options include three-quarters and half",
+    "The options include one-and-a-quarter and one-and-a-half"
+   ],
+   "inference": "The measure may be three-quarters, half, one-and-a-quarter, or one-and-a-half",
+   "uncertainties": [
+    "The exact base unit for these fractional measures is not specified in this verse"
+   ],
+   "plain_english": "The measure may be three-quarters, or half, or one-and-a-quarter, or one-and-a-half."
+  },
+  {
+   "verse": 7166,
+   "rows": [
+    {
+     "surface": "vṛkṣa",
+     "gloss": "wood",
+     "grounds": "compound member indicating wood",
+     "morph": "compound: vṛkṣa+ja"
+    },
+    {
+     "surface": "jaṃ",
+     "gloss": "born",
+     "grounds": "compound member indicating origin; made of wood",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "introduces alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action of making",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "svarṇa",
+     "gloss": "gold",
+     "grounds": "compound member indicating gold",
+     "morph": "compound: svarṇa+paṭṭa"
+    },
+    {
+     "surface": "paṭṭaiḥ",
+     "gloss": "with-plates",
+     "grounds": "instrument used for covering",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "should-cover",
+     "grounds": "prescribes covering",
+     "morph": "3.sg.act-causative-optative √veṣṭ"
+    }
+   ],
+   "question": "What alternative material and covering are permitted for making the vessel?",
+   "premises": [
+    "The vessel may be made of wood",
+    "After making it, covering is prescribed",
+    "Gold plates are used for covering"
+   ],
+   "inference": "Alternatively, having made it of wood, one should cover it with gold plates",
+   "uncertainties": [],
+   "plain_english": "Or, having made it of wood, one should cover it with gold plates."
+  },
+  {
+   "verse": 7167,
+   "rows": [
+    {
+     "surface": "ekona",
+     "gloss": "less-by-one",
+     "grounds": "compound member indicating one less",
+     "morph": "compound: eka+ūna"
+    },
+    {
+     "surface": "triṃśa",
+     "gloss": "thirty",
+     "grounds": "compound member indicating thirty",
+     "morph": "compound: ekona+triṃśa"
+    },
+    {
+     "surface": "mātraṃ",
+     "gloss": "matras",
+     "grounds": "unit of measurement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "compound member indicating base or root",
+     "morph": "compound: mūla+vistāra"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "width",
+     "grounds": "dimension of width",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "prescribed or desired measure",
+     "morph": "3.sg.pass-present √iṣ"
+    }
+   ],
+   "question": "What base width is prescribed for the vessel in mātra units?",
+   "premises": [
+    "The dimension concerns the root width",
+    "The measure is given in mātras",
+    "The prescribed amount is twenty-nine"
+   ],
+   "inference": "The root width is desired to be twenty-nine mātras",
+   "uncertainties": [],
+   "plain_english": "The root width is prescribed as twenty-nine mātras."
+  },
+  {
+   "verse": 7168,
+   "rows": [
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numerical measure option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numerical measure option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "numerical measure option",
+     "morph": "compound: tri+mātra"
+    },
+    {
+     "surface": "mātra",
+     "gloss": "matras",
+     "grounds": "compound member indicating unit of measure",
+     "morph": "compound: tri+mātra+anta"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "up-to",
+     "grounds": "indicates range limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "its",
+     "grounds": "refers to the vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "utsedhaḥ",
+     "gloss": "height",
+     "grounds": "dimension of height",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrtitaḥ",
+     "gloss": "prescribed",
+     "grounds": "declared as prescribed",
+     "morph": "m.nom.sg.past-passive-participle √pra-kīrt"
+    }
+   ],
+   "question": "What range of height is prescribed for the vessel in mātra units?",
+   "premises": [
+    "The dimension concerns height",
+    "The measures are given in mātras",
+    "The range includes five, seven, and three mātras"
+   ],
+   "inference": "Its height is prescribed as ranging up to five, seven, or three mātras",
+   "uncertainties": [
+    "The exact intended range or sequence of the three numbers is ambiguous"
+   ],
+   "plain_english": "Its height is prescribed as up to five, seven, or three mātras."
+  },
+  {
+   "verse": 7169,
+   "rows": [
+    {
+     "surface": "ardha",
+     "gloss": "half",
+     "grounds": "compound member indicating half",
+     "morph": "compound: ardha+adhika"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "more",
+     "grounds": "indicates increase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistārā",
+     "gloss": "than-width",
+     "grounds": "comparison base; form as given",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dāsya",
+     "gloss": "of-giving",
+     "grounds": "compound member indicating giving or extension; form as given",
+     "morph": "compound: dāsya+vistāra"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "width",
+     "grounds": "dimension of width",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "prescribed or desired measure",
+     "morph": "3.sg.pass-present √iṣ"
+    }
+   ],
+   "question": "How much greater should the giving width be compared to the base width?",
+   "premises": [
+    "A width is being specified",
+    "It is compared to another width",
+    "The increase is by half"
+   ],
+   "inference": "The width is desired to be half more than the other width",
+   "uncertainties": [
+    "The meaning of dāsya in this compound is uncertain"
+   ],
+   "plain_english": "The width is prescribed to be half more than the base width."
+  },
+  {
+   "verse": 7170,
+   "rows": [
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "compound member indicating three",
+     "morph": "compound: tri+mātra"
+    },
+    {
+     "surface": "mātrāt",
+     "gloss": "from-matras",
+     "grounds": "starting point of range",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "up-to",
+     "grounds": "particle indicating range; form as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "compound member indicating nine",
+     "morph": "compound: nava+mātra"
+    },
+    {
+     "surface": "mātra",
+     "gloss": "matras",
+     "grounds": "compound member indicating unit of measure",
+     "morph": "compound: nava+mātra+anta"
+    },
+    {
+     "surface": "antaṃ",
+     "gloss": "up-to",
+     "grounds": "indicates range limit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirgame",
+     "gloss": "in-projection",
+     "grounds": "location or dimension of projection",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mānam",
+     "gloss": "measure",
+     "grounds": "dimension being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "prescribed or desired measure",
+     "morph": "3.sg.pass-present √iṣ"
+    }
+   ],
+   "question": "What range of projection measure is prescribed for the vessel?",
+   "premises": [
+    "The measure concerns projection",
+    "The lower limit is three mātras",
+    "The upper limit is nine mātras"
+   ],
+   "inference": "The measure in projection is desired to range from three up to nine mātras",
+   "uncertainties": [
+    "The particle na in this range expression is unusual and interpreted as indicating extent"
+   ],
+   "plain_english": "The measure in projection is prescribed from three up to nine mātras."
+  },
+  {
+   "verse": 7171,
+   "rows": [
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "fractional thickness option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "alternative thickness option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaka",
+     "gloss": "plank",
+     "grounds": "compound member referring to plank",
+     "morph": "compound: phalaka+adhana"
+    },
+    {
+     "surface": "adhanam",
+     "gloss": "thickness",
+     "grounds": "dimension of thickness; form as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "prescribed or desired measure",
+     "morph": "3.sg.pass-present √iṣ"
+    }
+   ],
+   "question": "What thickness options are prescribed for the plank of the vessel?",
+   "premises": [
+    "The dimension concerns plank thickness",
+    "Three-quarters is one option",
+    "Equal measure is another option"
+   ],
+   "inference": "The plank thickness is desired to be three-quarters or equal",
+   "uncertainties": [
+    "The base for comparison of tripādaṃ and samaṃ is not explicitly stated"
+   ],
+   "plain_english": "The thickness of the plank is prescribed as three-quarters or equal."
+  },
+  {
+   "verse": 7172,
+   "rows": [
+    {
+     "surface": "māyāntā",
+     "gloss": "up-to-maya",
+     "grounds": "limit of pervasion up to māyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtyantā",
+     "gloss": "up-to-prakriti",
+     "grounds": "limit of pervasion up to prakṛti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "phelā",
+     "gloss": "pervasion",
+     "grounds": "term indicating pervasion; form as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāptiḥ",
+     "gloss": "extent",
+     "grounds": "extent or pervasion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgame",
+     "gloss": "in-scripture",
+     "grounds": "in the revealed scripture",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What limits of pervasion are taught in this scripture?",
+   "premises": [
+    "Pervasion or extent is the subject",
+    "One limit is up to māyā",
+    "Another limit is up to prakṛti"
+   ],
+   "inference": "In this scripture the pervasion is taught as extending up to māyā or up to prakṛti",
+   "uncertainties": [
+    "The term phelā is uncommon and its precise technical sense is uncertain"
+   ],
+   "plain_english": "In this scripture, the pervasion is said to extend up to māyā or up to prakṛti."
+  },
+  {
+   "verse": 7173,
+   "rows": [
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "self",
+     "grounds": "object of contemplation; the individual self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-contemplate",
+     "grounds": "prescribes contemplative visualization",
+     "morph": "3.sg.act-causative-optative √bhū"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "wise-one",
+     "grounds": "the knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to the procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhānam",
+     "gloss": "procedure",
+     "grounds": "the prescribed method",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-taught",
+     "grounds": "is stated or taught",
+     "morph": "3.sg.pass-present √vac"
+    }
+   ],
+   "question": "What contemplative practice and procedure are taught for the wise practitioner?",
+   "premises": [
+    "The wise one is the agent of contemplation",
+    "The self is the object of contemplation",
+    "The procedure for this is taught here"
+   ],
+   "inference": "The wise one should contemplate the self, and that procedure is taught here",
+   "uncertainties": [],
+   "plain_english": "The wise one should contemplate the self; that procedure is taught here."
+  },
+  {
+   "verse": 7174,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action completed",
+     "morph": "indeclinable-absolutive √kṛ"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūtvavat",
+     "gloss": "as-before",
+     "grounds": "indicates conformity with previous procedure; form as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the previously mentioned vessel or place",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location in the middle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāliṃ",
+     "gloss": "rice",
+     "grounds": "rice grains to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinikṣipet",
+     "gloss": "should-place",
+     "grounds": "prescribes placing",
+     "morph": "3.sg.act-optative √vi-ni-kṣip"
+    }
+   ],
+   "question": "What should be placed in the middle after performing the prior procedure?",
+   "premises": [
+    "The prior actions are done as before",
+    "The location is the middle of that object",
+    "Rice is the material to be placed"
+   ],
+   "inference": "Having done as before, one should place rice in its middle",
+   "uncertainties": [],
+   "plain_english": "Having done as before, one should place rice in its middle."
+  }
+ ]
+}

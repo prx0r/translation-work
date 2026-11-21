@@ -1,0 +1,531 @@
+{
+ "song": "mukta-m0-p151",
+ "items": [
+  {
+   "verse": 3763,
+   "rows": [
+    {
+     "surface": "abhaktamānasāṃ",
+     "gloss": "not-devoted-minded",
+     "grounds": "bahuvrīhi compound describing a woman lacking devotion",
+     "morph": "compound.f.acc.sg"
+    },
+    {
+     "surface": "dīnāṃ",
+     "gloss": "wretched",
+     "grounds": "describes pitiable or lowly condition",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "injunctive sense of exclusion",
+     "morph": "3.sg.optative.active √vṛj"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "tatpuruṣa compound indicating the foremost sādhaka",
+     "morph": "compound.m.nom.sg"
+    }
+   ],
+   "question": "Which kind of woman must the foremost practitioner avoid in ritual service?",
+   "premises": [
+    "A woman may be not devoted in mind.",
+    "A woman may be wretched in condition.",
+    "The foremost practitioner should avoid such a woman."
+   ],
+   "inference": "The foremost practitioner must exclude a wretched and devotionless woman from ritual service.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should avoid a wretched woman whose mind is not devoted."
+  },
+  {
+   "verse": 3764,
+   "rows": [
+    {
+     "surface": "liṅgayonirato",
+     "gloss": "delighting-in-liṅga-yoni",
+     "grounds": "compound indicating attachment to liṅga and yoni",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "one who employs mantras",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "raurava",
+     "grounds": "name of a hell realm",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "place of punishment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "expresses consequence or destination",
+     "morph": "3.sg.optative.active √vraj"
+    }
+   ],
+   "question": "What fate awaits a mantra practitioner who delights in liṅga and yoni?",
+   "premises": [
+    "A mantra practitioner may delight in liṅga and yoni.",
+    "Raurava is a hell realm.",
+    "Such conduct leads to that hell."
+   ],
+   "inference": "A mantra practitioner attached to liṅga and yoni goes to the Raurava hell.",
+   "uncertainties": [
+    "The exact ritual or moral sense of liṅgayonirataḥ is context-dependent."
+   ],
+   "plain_english": "A mantra practitioner who delights in liṅga and yoni would go to the Raurava hell."
+  },
+  {
+   "verse": 3765,
+   "rows": [
+    {
+     "surface": "pūjārhā",
+     "gloss": "worthy-of-worship",
+     "grounds": "compound indicating fitness for worship",
+     "morph": "compound.f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "correlative temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "designation of maternal status",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What status does a woman attain when she becomes worthy of worship?",
+   "premises": [
+    "A woman may become worthy of worship.",
+    "The address is made to the goddess.",
+    "The text asserts there is no doubt."
+   ],
+   "inference": "When worthy of worship, she is to be regarded as a mother without doubt.",
+   "uncertainties": [],
+   "plain_english": "O goddess, when she is worthy of worship, then she is a mother; there is no doubt."
+  },
+  {
+   "verse": 3766,
+   "rows": [
+    {
+     "surface": "samākīrṇe",
+     "gloss": "in-mixed-company",
+     "grounds": "locative indicating a gathered or mixed setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "niveśya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive √viś-with-ni"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.optative.active √pūj"
+    },
+    {
+     "surface": "kulanāyikām",
+     "gloss": "clan-leader-goddess",
+     "grounds": "compound referring to the female leader of the kula",
+     "morph": "compound.f.acc.sg"
+    }
+   ],
+   "question": "How should the clan leader goddess be worshipped in a mixed gathering?",
+   "premises": [
+    "The setting is a mixed company.",
+    "She is first to be placed or seated.",
+    "Worship should then be performed."
+   ],
+   "inference": "In mixed company, one should place and then worship the clan leader goddess.",
+   "uncertainties": [],
+   "plain_english": "Then, having placed her in the mixed gathering, one should worship the clan leader goddess."
+  },
+  {
+   "verse": 3767,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyaśuddhiḥ",
+     "gloss": "substance-purification",
+     "grounds": "compound naming the purification of ritual substances",
+     "morph": "compound.f.nom.sg"
+    }
+   ],
+   "question": "What ritual topic is concluded by this statement on purification?",
+   "premises": [
+    "The word iti marks conclusion.",
+    "The named topic is purification of substances.",
+    "The preceding instructions concern ritual materials or offerings."
+   ],
+   "inference": "This statement concludes the section on purification of substances.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the purification of substances."
+  },
+  {
+   "verse": 3768,
+   "rows": [
+    {
+     "surface": "vāmakāmo",
+     "gloss": "desiring-left-path",
+     "grounds": "compound indicating desire for the left-hand practice",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "brāhmaṇo",
+     "gloss": "brahmin",
+     "grounds": "member of the brāhmaṇa class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madyaṃ",
+     "gloss": "liquor",
+     "grounds": "intoxicating drink",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "animal flesh",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-consume",
+     "grounds": "prescriptive prohibition",
+     "morph": "3.sg.optative.active √bhakṣ"
+    }
+   ],
+   "question": "May a brahmin desiring the left-hand path consume liquor and meat?",
+   "premises": [
+    "The subject is a brahmin desiring the left-hand path.",
+    "Liquor and meat are the objects in question.",
+    "The text prohibits their consumption."
+   ],
+   "inference": "Even a brahmin inclined to the left-hand path must not consume liquor and meat.",
+   "uncertainties": [],
+   "plain_english": "Indeed, a brahmin who desires the left-hand path should not consume liquor and meat."
+  },
+  {
+   "verse": 3769,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "instrumental used as logical connector",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śūdrasya",
+     "gloss": "of-shudra",
+     "grounds": "refers to a member of the śūdra class",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "anukalpaḥ",
+     "gloss": "alternative",
+     "grounds": "secondary or substitute option",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What alternative provision applies in the case of a shudra?",
+   "premises": [
+    "The previous rule restricts certain consumption.",
+    "The connector tena indicates a consequence.",
+    "An alternative is assigned to the shudra."
+   ],
+   "inference": "Therefore, an alternative provision applies for a shudra.",
+   "uncertainties": [
+    "The specific content of the alternative is not stated in this verse alone."
+   ],
+   "plain_english": "Therefore, there is an alternative for the śūdra."
+  },
+  {
+   "verse": 3770,
+   "rows": [
+    {
+     "surface": "mādakasya",
+     "gloss": "of-intoxicant",
+     "grounds": "refers to an intoxicating substance",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "pāpahetukatvaṃ",
+     "gloss": "sin-causing-nature",
+     "grounds": "compound expressing causation of sin",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "refers to what has been declared",
+     "morph": "n.nom.sg.past-passive-participle √vac"
+    }
+   ],
+   "question": "What has been declared about the moral nature of intoxicants?",
+   "premises": [
+    "The subject is an intoxicant.",
+    "Its nature as a cause of sin is mentioned.",
+    "This has already been stated."
+   ],
+   "inference": "The intoxicant has been declared to be a cause of sin.",
+   "uncertainties": [],
+   "plain_english": "The sin-causing nature of the intoxicant has been stated."
+  },
+  {
+   "verse": 3771,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "logical connector indicating consequence",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kṣatriyādīnāṃ",
+     "gloss": "of-kshatriyas-and-others",
+     "grounds": "compound indicating kṣatriyas and similar classes",
+     "morph": "compound.m.gen.pl"
+    },
+    {
+     "surface": "mukhyasya",
+     "gloss": "of-primary",
+     "grounds": "refers to the primary substance or option",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "dāne'dhikāraḥ",
+     "gloss": "authority-in-giving",
+     "grounds": "compound with elided vowel in sandhi (dāne + adhikāraḥ) indicating eligibility to give",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāne",
+     "gloss": "in-drinking",
+     "grounds": "locative indicating the act of drinking",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What authority do kshatriyas and others have regarding giving versus drinking the primary substance?",
+   "premises": [
+    "The intoxicant is considered sinful in nature.",
+    "Kṣatriyas and others are the subjects.",
+    "Authority is affirmed in giving but denied in drinking."
+   ],
+   "inference": "Kṣatriyas and others may give the primary substance but may not drink it.",
+   "uncertainties": [],
+   "plain_english": "Therefore, kṣatriyas and others have authority in giving the primary substance, but not in drinking it."
+  },
+  {
+   "verse": 3772,
+   "rows": [
+    {
+     "surface": "utthāya",
+     "gloss": "having-risen",
+     "grounds": "absolutive indicating prior action",
+     "morph": "absolutive √sthā-with-ud"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb indicating repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pītvā",
+     "gloss": "having-drunk",
+     "grounds": "absolutive indicating the act of drinking",
+     "morph": "absolutive √pā"
+    },
+    {
+     "surface": "punarjanma",
+     "gloss": "rebirth",
+     "grounds": "compound indicating another birth",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "states non-existence of rebirth",
+     "morph": "3.sg.present.passive √vid"
+    }
+   ],
+   "question": "What spiritual result follows from rising and drinking again in this ritual context?",
+   "premises": [
+    "The sequence involves rising and drinking again.",
+    "Rebirth is the condition under consideration.",
+    "The text denies the existence of rebirth."
+   ],
+   "inference": "Having risen and drunk again, one is said to have no rebirth.",
+   "uncertainties": [
+    "The ritual context and precise meaning of rising and drinking again are not fully explicit."
+   ],
+   "plain_english": "And having risen and drunk again, there is no rebirth."
+  },
+  {
+   "verse": 3773,
+   "rows": [
+    {
+     "surface": "sabhraṣṭaḥ",
+     "gloss": "with-fallen",
+     "grounds": "compound indicating association with one who has fallen",
+     "morph": "compound.m.nom.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive verb in rhetorical context",
+     "morph": "3.sg.optative.active √pūj"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caṇḍīmantraṃ",
+     "gloss": "caṇḍī-mantra",
+     "grounds": "compound naming the mantra of Caṇḍī",
+     "morph": "compound.m.acc.sg"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb expressing impossibility or impropriety",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "prescriptive verb in rhetorical question",
+     "morph": "3.sg.optative.active √jap"
+    }
+   ],
+   "question": "How can one associated with the fallen properly worship the goddess or recite the Caṇḍī mantra?",
+   "premises": [
+    "The subject is associated with a fallen person.",
+    "Worship of the goddess is considered.",
+    "Recitation of the Caṇḍī mantra is considered."
+   ],
+   "inference": "One associated with the fallen cannot properly worship the goddess or recite the Caṇḍī mantra.",
+   "uncertainties": [
+    "The term sabhraṣṭaḥ may imply ritual or moral contamination depending on context."
+   ],
+   "plain_english": "How could one who is with the fallen worship the goddess or recite the Caṇḍī mantra?"
+  },
+  {
+   "verse": 3774,
+   "rows": [
+    {
+     "surface": "madyeṣu",
+     "gloss": "in-liquors",
+     "grounds": "locative plural referring to intoxicating drinks",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "mukhyānukalpeṣu",
+     "gloss": "in-primary-and-alternatives",
+     "grounds": "compound indicating primary options and substitutes",
+     "morph": "compound.n.loc.pl"
+    }
+   ],
+   "question": "What classification of liquors is being addressed in this concluding phrase?",
+   "premises": [
+    "Liquors are the subject matter.",
+    "Primary and alternative options are distinguished.",
+    "The phrase situates discussion within these categories."
+   ],
+   "inference": "The discussion concerns liquors in their primary and alternative forms.",
+   "uncertainties": [
+    "This verse is fragmentary and depends on the preceding or following context for a full predicate."
+   ],
+   "plain_english": "Regarding liquors, in their primary and alternative forms."
+  }
+ ]
+}

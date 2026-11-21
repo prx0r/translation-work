@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "śūnyayugmaṃ",
+     "gloss": "empty-pair",
+     "grounds": "compound of empty and pair; zero-two grouping",
+     "morph": "compound=śūnya+yugma"
+    },
+    {
+     "surface": "carayutaṃ",
+     "gloss": "moving-joined",
+     "grounds": "moving joined to the preceding pair",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hṛddāho",
+     "gloss": "heart-burning",
+     "grounds": "heart and burning combined",
+     "morph": "compound=hṛd+dāha"
+    },
+    {
+     "surface": "ambu",
+     "gloss": "water",
+     "grounds": "element water",
+     "morph": "noun.nom.sg.n"
+    },
+    {
+     "surface": "marudyutaḥ",
+     "gloss": "wind-joined",
+     "grounds": "wind joined to the sequence",
+     "morph": "compound=marut+yuta"
+    }
+   ],
+   "question": "What sequence of elements and motions is assigned to the heart-burning water-wind pair?",
+   "premises": [
+    "empty pair joins moving",
+    "heart burning precedes water",
+    "wind is joined last"
+   ],
+   "inference": "The verse lists empty pair, moving-joined, heart-burning, water, and wind-joined in order.",
+   "uncertainties": [
+    "exact doctrinal referent of the sequence is not specified in the supplied context"
+   ],
+   "plain_english": "Empty pair, moving-joined, heart-burning, water, wind-joined."
+  }
+ ]
+}

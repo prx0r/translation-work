@@ -1,0 +1,987 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2276,
+   "rows": [
+    {
+     "surface": "kaścit",
+     "gloss": "someone",
+     "grounds": "indefinite pronoun introducing an alternative view",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "said",
+     "grounds": "verb of speaking introducing a cited opinion",
+     "morph": "3.sg.act.perf-√ah/brū"
+    },
+    {
+     "surface": "putra",
+     "gloss": "son",
+     "grounds": "vocative or citation opening of the quoted formula",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-etcetera",
+     "grounds": "compound indicating continuation of the quoted formula",
+     "morph": "iti+ādi (indecl.+m.nom.sg)"
+    }
+   ],
+   "question": "What alternative ritual instruction is introduced by another authority in this context?",
+   "premises": [
+    "An unspecified authority speaks in that context.",
+    "The cited instruction begins with the word son.",
+    "The formula continues beyond what is explicitly stated."
+   ],
+   "inference": "Another authoritative view is being quoted regarding the ritual procedure.",
+   "uncertainties": [
+    "The full extent of the quoted formula marked by ityādi is not specified."
+   ],
+   "plain_english": "Someone there said, beginning with 'son' and so forth."
+  },
+  {
+   "verse": 2277,
+   "rows": [
+    {
+     "surface": "bhū+patim",
+     "gloss": "earth-lord",
+     "grounds": "compound denoting the lord of the earth as recipient",
+     "morph": "bhū+patim (f.+m.acc.sg)"
+    },
+    {
+     "surface": "bhūmi+svāminam",
+     "gloss": "earth-owner",
+     "grounds": "synonymous compound clarifying the same recipient",
+     "morph": "bhūmi+svāminam (f.+m.acc.sg)"
+    },
+    {
+     "surface": "puruṣam+ca",
+     "gloss": "and-man",
+     "grounds": "adds another recipient joined by ca",
+     "morph": "puruṣam+m.acc.sg + ca (indecl.)"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "adverb indicating sequential performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing ritual worship",
+     "morph": "3.sg.act.opt-√yaj"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-honor",
+     "grounds": "optative reinforcing the act of honoring",
+     "morph": "3.sg.act.opt-√pūj"
+    }
+   ],
+   "question": "Which recipients must be worshiped sequentially according to the cited instruction?",
+   "premises": [
+    "The earth-lord and earth-owner are named as recipients.",
+    "A man is also included as a recipient.",
+    "The acts of worship and honoring are to be done in order."
+   ],
+   "inference": "The ritual requires sequential worship of the earth-lord, the earth-owner, and the man.",
+   "uncertainties": [
+    "Whether bhū+patim and bhūmi+svāminam denote distinct figures or the same figure is not explicit."
+   ],
+   "plain_english": "One should worship in order the lord of the earth, the owner of the earth, and the man."
+  },
+  {
+   "verse": 2278,
+   "rows": [
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "with-five",
+     "grounds": "numeral indicating one possible count",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "navabhiḥ+vā+api",
+     "gloss": "or-with-nine-also",
+     "grounds": "numeral with alternatives vā and api",
+     "morph": "navabhiḥ+m/n.inst.pl + vā (indecl.) + api (indecl.)"
+    },
+    {
+     "surface": "saptabhiḥ",
+     "gloss": "with-seven",
+     "grounds": "numeral indicating another possible count",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "tribhiḥ+eva",
+     "gloss": "with-three-only",
+     "grounds": "numeral with emphatic eva",
+     "morph": "tribhiḥ+m/n.inst.pl + eva (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle marking alternatives",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative numbers of ritual elements are permitted in the prescribed worship?",
+   "premises": [
+    "Counts of five, nine, seven, and three are mentioned.",
+    "Disjunctive particles indicate these are alternatives.",
+    "The numbers qualify the manner of performing the rite."
+   ],
+   "inference": "The worship may be performed with five, nine, seven, or three elements as alternatives.",
+   "uncertainties": [
+    "The exact items being counted are not specified in this verse."
+   ],
+   "plain_english": "With five, or also with nine, with seven, or with only three."
+  },
+  {
+   "verse": 2279,
+   "rows": [
+    {
+     "surface": "sārddha+dvaya+āvartanena",
+     "gloss": "with-two-and-half-turns",
+     "grounds": "compound specifying the number of ritual turns",
+     "morph": "sārddha+dvaya+āvartanena (m.+n.+m.inst.sg)"
+    },
+    {
+     "surface": "ūrddhva+agraiḥ",
+     "gloss": "with-upward-points",
+     "grounds": "compound describing orientation of ritual items",
+     "morph": "ūrddhva+agraiḥ (m.+n.inst.pl)"
+    },
+    {
+     "surface": "acayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.act.opt-√arc"
+    },
+    {
+     "surface": "dvijān",
+     "gloss": "brahmins",
+     "grounds": "recipients of the worship",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How should brahmins be worshiped with respect to turns and orientation?",
+   "premises": [
+    "Two and a half turns are specified for the rite.",
+    "The items used have upward points.",
+    "Brahmins are the recipients of worship."
+   ],
+   "inference": "Brahmins should be worshiped using two and a half turns with upward-pointed items.",
+   "uncertainties": [
+    "The specific ritual items with upward points are not named."
+   ],
+   "plain_english": "One should worship the brahmins with two and a half turns using upward-pointed items."
+  },
+  {
+   "verse": 2280,
+   "rows": [
+    {
+     "surface": "ekoddiṣṭe",
+     "gloss": "in-single-dedication",
+     "grounds": "locative naming the ekoddiṣṭa rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast with previous cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "stated",
+     "grounds": "past participle indicating what is prescribed",
+     "morph": "m.nom.sg.past-pass.part-√kath"
+    },
+    {
+     "surface": "ekaḥ",
+     "gloss": "one",
+     "grounds": "numeral specifying the count",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "emphatic particle restricting the count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijaḥ",
+     "gloss": "brahmin",
+     "grounds": "recipient in the ekoddiṣṭa rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative addressing the deity",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How many brahmins are prescribed for the ekoddiṣṭa rite?",
+   "premises": [
+    "The context is the ekoddiṣṭa rite.",
+    "The prescription states a specific number.",
+    "The number is restricted by an emphatic particle."
+   ],
+   "inference": "In the ekoddiṣṭa rite only one brahmin is prescribed.",
+   "uncertainties": [],
+   "plain_english": "But in the ekoddiṣṭa rite, O Śiva, only one brahmin is prescribed."
+  },
+  {
+   "verse": 2281,
+   "rows": [
+    {
+     "surface": "kaubera+abhimukhān",
+     "gloss": "facing-north",
+     "grounds": "compound indicating direction toward Kubera's quarter",
+     "morph": "kaubera+abhimukhān (m.+m.acc.pl)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.)-√kṛ"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "causative optative prescribing bathing",
+     "morph": "3.sg.act.opt.caus-√snā"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "with-this",
+     "grounds": "demonstrative pronoun referring to a formula or means",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "the-wise-one",
+     "grounds": "subject described as wise practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wise practitioner orient and bathe the recipients in this rite?",
+   "premises": [
+    "The recipients are to be made to face north.",
+    "Bathing is prescribed as the ritual action.",
+    "The wise practitioner performs the act with a specified means."
+   ],
+   "inference": "The wise practitioner should make them face north and bathe them with this.",
+   "uncertainties": [
+    "The referent of amunā is not specified in this verse."
+   ],
+   "plain_english": "Having made them face north, the wise one should bathe them with this."
+  },
+  {
+   "verse": 2282,
+   "rows": [
+    {
+     "surface": "śaṃyorabhisravantu naḥ",
+     "gloss": "may-blessings-flow-to-us",
+     "grounds": "mantra formula treated as a single token in the text",
+     "morph": "(mantra-formula)"
+    }
+   ],
+   "question": "What mantra formula is employed during the bathing rite?",
+   "premises": [
+    "A specific formula is given as a single unit.",
+    "The formula expresses a wish for blessings to flow.",
+    "It is used in the ritual context of bathing."
+   ],
+   "inference": "The bathing is accompanied by the formula śaṃyorabhisravantu naḥ.",
+   "uncertainties": [
+    "Internal grammatical analysis of the mantra is not provided as separate tokens."
+   ],
+   "plain_english": "May blessings flow to us."
+  },
+  {
+   "verse": 2283,
+   "rows": [
+    {
+     "surface": "tataḥ+tu",
+     "gloss": "then-but",
+     "grounds": "temporal adverb with contrastive particle",
+     "morph": "tataḥ (indecl.) + tu (indecl.)"
+    },
+    {
+     "surface": "gandha+puṣpābhyām",
+     "gloss": "with-fragrance-and-flowers",
+     "grounds": "dual compound naming offerings",
+     "morph": "gandha+puṣpābhyām (m.+n.inst.dual)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "3.sg.act.opt-√pūj"
+    },
+    {
+     "surface": "kuśa+bhūsurān",
+     "gloss": "kuśa-brahmins",
+     "grounds": "compound denoting brahmins associated with kuśa grass",
+     "morph": "kuśa+bhūsurān (m.+m.acc.pl)"
+    }
+   ],
+   "question": "What offerings should be used to worship the brahmins after the bathing?",
+   "premises": [
+    "The action follows the previous bathing step.",
+    "Fragrance and flowers are specified as offerings.",
+    "Brahmins associated with kuśa are the recipients."
+   ],
+   "inference": "After bathing, one should worship the kuśa-brahmins with fragrance and flowers.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship the brahmins with kuśa using fragrance and flowers."
+  },
+  {
+   "verse": 2284,
+   "rows": [
+    {
+     "surface": "viprān",
+     "gloss": "brahmins",
+     "grounds": "recipients of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "racayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing ritual honoring",
+     "morph": "3.sg.act.opt-√rac"
+    }
+   ],
+   "question": "Who must be honored in this stage of the ritual procedure?",
+   "premises": [
+    "Brahmins are named as recipients.",
+    "An optative verb prescribes honoring them."
+   ],
+   "inference": "The brahmins should be honored.",
+   "uncertainties": [],
+   "plain_english": "One should honor the brahmins."
+  },
+  {
+   "verse": 2285,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apekṣāyām",
+     "gloss": "in-expectation",
+     "grounds": "locative indicating a context of requirement or inquiry",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "verb introducing further instruction",
+     "morph": "3.sg.act.perf-√ah/brū"
+    },
+    {
+     "surface": "vṛddhi+śrāddhe",
+     "gloss": "in-prosperity-śrāddha",
+     "grounds": "compound naming the vṛddhi śrāddha rite",
+     "morph": "vṛddhi+śrāddhe (f.+n.loc.sg)"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-etcetera",
+     "grounds": "indicates continuation of the cited instruction",
+     "morph": "iti+ādi (indecl.+m.nom.sg)"
+    }
+   ],
+   "question": "In what ritual context is the following instruction about vṛddhi śrāddha introduced?",
+   "premises": [
+    "A prior statement is concluded with iti.",
+    "A need or expectation prompts further instruction.",
+    "The instruction concerns vṛddhi śrāddha and continues beyond."
+   ],
+   "inference": "In response to that expectation, instruction is given for the vṛddhi śrāddha.",
+   "uncertainties": [
+    "The full content following ityādi is not given here."
+   ],
+   "plain_english": "Thus, in that expectation, it is said regarding the vṛddhi śrāddha, and so forth."
+  },
+  {
+   "verse": 2286,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating a preparatory action",
+     "morph": "(indecl.)-√kṛ"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "with-this",
+     "grounds": "demonstrative referring to a specific means",
+     "morph": "m/n.inst.sg"
+    },
+    {
+     "surface": "vakṣyamāṇena",
+     "gloss": "to-be-stated",
+     "grounds": "future passive participle indicating later specification",
+     "morph": "m/n.inst.sg.fut-pass.part-√vac"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument naming the mantra to be used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "causative optative prescribing bathing",
+     "morph": "3.sg.act.opt.caus-√snā"
+    }
+   ],
+   "question": "With what mantra should the bathing be performed in the stated rite?",
+   "premises": [
+    "A preparatory action is completed first.",
+    "The means is identified as a mantra.",
+    "The mantra is to be stated later."
+   ],
+   "inference": "One should bathe using this mantra that will be stated.",
+   "uncertainties": [
+    "The actual wording of the mantra is deferred to a later verse."
+   ],
+   "plain_english": "Having done so, one should bathe with this mantra that will be stated."
+  },
+  {
+   "verse": 2287,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or conclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādyam",
+     "gloss": "beginning-with",
+     "grounds": "adjective indicating the start of a sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What marks the beginning of the sequence described in the ritual instruction?",
+   "premises": [
+    "The word iti marks a boundary in the instruction.",
+    "The term ādyam indicates a beginning."
+   ],
+   "inference": "This marks the beginning of the prescribed sequence.",
+   "uncertainties": [
+    "The exact scope of what begins here is context-dependent."
+   ],
+   "plain_english": "Thus is the beginning."
+  },
+  {
+   "verse": 2288,
+   "rows": [
+    {
+     "surface": "ṣaṭ+pātrāṇi",
+     "gloss": "six-vessels",
+     "grounds": "compound specifying number and object",
+     "morph": "ṣaṭ+ (indecl.) + pātrāṇi (n.acc.pl)"
+    },
+    {
+     "surface": "sa+darbhāṇi",
+     "gloss": "with-darbha-grass",
+     "grounds": "compound indicating vessels accompanied by darbha",
+     "morph": "sa+darbhāṇi (indecl.+n.acc.pl)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "causative optative prescribing placement",
+     "morph": "3.sg.act.opt.caus-√sthā"
+    },
+    {
+     "surface": "tulasī+tilaiḥ",
+     "gloss": "with-tulasī-and-sesame",
+     "grounds": "compound naming materials placed with vessels",
+     "morph": "tulasī+tilaiḥ (f.+m.inst.pl)"
+    }
+   ],
+   "question": "How many vessels and with what materials should be placed in this rite?",
+   "premises": [
+    "Six vessels are specified.",
+    "The vessels are accompanied by darbha grass.",
+    "Tulasī and sesame are included with them."
+   ],
+   "inference": "One should place six vessels with darbha grass, tulasī, and sesame.",
+   "uncertainties": [],
+   "plain_english": "One should place six vessels with darbha grass, along with tulasī and sesame."
+  },
+  {
+   "verse": 2289,
+   "rows": [
+    {
+     "surface": "pūrva+āsyān",
+     "gloss": "facing-east",
+     "grounds": "compound describing orientation",
+     "morph": "pūrva+āsyān (m.+m.acc.pl)"
+    },
+    {
+     "surface": "uttara+mukhān",
+     "gloss": "facing-north",
+     "grounds": "compound describing alternative or additional orientation",
+     "morph": "uttara+mukhān (m.+m.acc.pl)"
+    },
+    {
+     "surface": "ṣaṭ+viprān",
+     "gloss": "six-brahmins",
+     "grounds": "compound specifying number and recipients",
+     "morph": "ṣaṭ+ (indecl.) + viprān (m.acc.pl)"
+    },
+    {
+     "surface": "upaveśayet",
+     "gloss": "should-seat",
+     "grounds": "causative optative prescribing seating",
+     "morph": "3.sg.act.opt.caus-√viś"
+    }
+   ],
+   "question": "How should the six brahmins be oriented and seated for the ritual?",
+   "premises": [
+    "Six brahmins are to be seated.",
+    "Orientations facing east and facing north are specified.",
+    "The seating is a prescribed ritual action."
+   ],
+   "inference": "One should seat six brahmins facing east and facing north.",
+   "uncertainties": [
+    "Whether the orientations apply to different groups or stages is not explicit."
+   ],
+   "plain_english": "One should seat six brahmins facing east and facing north."
+  },
+  {
+   "verse": 2290,
+   "rows": [
+    {
+     "surface": "pituḥ",
+     "gloss": "of-father",
+     "grounds": "genitive indicating paternal lineage",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mātāmahasya",
+     "gloss": "of-maternal-grandfather",
+     "grounds": "genitive indicating maternal lineage",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle adding the maternal side",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣau",
+     "gloss": "sides",
+     "grounds": "dual noun referring to two lineages",
+     "morph": "m.acc.dual"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral confirming duality",
+     "morph": "m.acc.dual"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative instructing the listener",
+     "morph": "2.sg.act.imp-√vid"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-parvati",
+     "grounds": "vocative addressing Pārvatī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which two ancestral lineages must be recognized in the śrāddha context?",
+   "premises": [
+    "The father's side is mentioned.",
+    "The maternal grandfather's side is also mentioned.",
+    "The listener is instructed to know these as two sides."
+   ],
+   "inference": "One must recognize both the paternal and maternal-grandfather lineages.",
+   "uncertainties": [],
+   "plain_english": "Know, O Pārvatī, the two sides: that of the father and also that of the maternal grandfather."
+  },
+  {
+   "verse": 2291,
+   "rows": [
+    {
+     "surface": "śrāddhe",
+     "gloss": "in-śrāddha",
+     "grounds": "locative naming the ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nāmni",
+     "gloss": "named",
+     "grounds": "locative indicating designation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ābhyudayike",
+     "gloss": "in-prosperity-rite",
+     "grounds": "locative specifying ābhyudayika śrāddha",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samullekhyāḥ",
+     "gloss": "should-be-mentioned",
+     "grounds": "gerundive prescribing mention",
+     "morph": "m.nom.pl.fut-pass.part-√likh"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-fair-faced-one",
+     "grounds": "vocative addressing the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In which type of śrāddha must the ancestral names be explicitly mentioned?",
+   "premises": [
+    "The ritual context is a śrāddha.",
+    "It is specifically named ābhyudayika.",
+    "Mentioning is prescribed as obligatory."
+   ],
+   "inference": "In the ābhyudayika śrāddha the names must be mentioned.",
+   "uncertainties": [],
+   "plain_english": "In the śrāddha named ābhyudayika, O fair-faced one, they should be mentioned."
+  },
+  {
+   "verse": 2292,
+   "rows": [
+    {
+     "surface": "tulasī+tilaiḥ",
+     "gloss": "with-tulasī-and-sesame",
+     "grounds": "compound naming ritual materials",
+     "morph": "tulasī+tilaiḥ (f.+m.inst.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking materials",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuktāni",
+     "gloss": "endowed",
+     "grounds": "past participle indicating inclusion",
+     "morph": "n.acc.pl.past-pass.part-√yuj"
+    },
+    {
+     "surface": "ṣaṭ+pātrāṇi",
+     "gloss": "six-vessels",
+     "grounds": "compound specifying number and object",
+     "morph": "ṣaṭ+ (indecl.) + pātrāṇi (n.acc.pl)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "causative optative prescribing placement",
+     "morph": "3.sg.act.opt.caus-√sthā"
+    }
+   ],
+   "question": "What materials must accompany the six vessels placed in this ritual?",
+   "premises": [
+    "Six vessels are to be placed.",
+    "Tulasī and sesame are specified.",
+    "The vessels are to be endowed with these materials."
+   ],
+   "inference": "One should place six vessels endowed with tulasī and sesame.",
+   "uncertainties": [],
+   "plain_english": "One should place six vessels endowed with tulasī and sesame."
+  },
+  {
+   "verse": 2293,
+   "rows": [
+    {
+     "surface": "ṣaṭ+viprān",
+     "gloss": "six-brahmins",
+     "grounds": "compound specifying number and recipients",
+     "morph": "ṣaṭ+ (indecl.) + viprān (m.acc.pl)"
+    },
+    {
+     "surface": "upaveśayet",
+     "gloss": "should-seat",
+     "grounds": "causative optative prescribing seating",
+     "morph": "3.sg.act.opt.caus-√viś"
+    }
+   ],
+   "question": "How many brahmins must be seated in this stage of the rite?",
+   "premises": [
+    "A specific number of brahmins is stated.",
+    "Seating them is prescribed."
+   ],
+   "inference": "Six brahmins should be seated.",
+   "uncertainties": [],
+   "plain_english": "One should seat six brahmins."
+  },
+  {
+   "verse": 2294,
+   "rows": [
+    {
+     "surface": "nāndīmukhyāḥ",
+     "gloss": "nāndīmukha-ancestors",
+     "grounds": "plural referring to nāndīmukha ancestors",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "samullekhyāḥ",
+     "gloss": "should-be-mentioned",
+     "grounds": "gerundive prescribing mention",
+     "morph": "m.nom.pl.fut-pass.part-√likh"
+    }
+   ],
+   "question": "Which ancestral group must be explicitly mentioned in this ritual context?",
+   "premises": [
+    "The nāndīmukha ancestors are named.",
+    "Mentioning them is prescribed as obligatory."
+   ],
+   "inference": "The nāndīmukha ancestors should be mentioned.",
+   "uncertainties": [],
+   "plain_english": "The nāndīmukha ancestors should be mentioned."
+  },
+  {
+   "verse": 2295,
+   "rows": [
+    {
+     "surface": "vāma+āvartena",
+     "gloss": "with-leftward-turn",
+     "grounds": "compound specifying ritual direction",
+     "morph": "vāma+āvartena (m.+m.inst.sg)"
+    },
+    {
+     "surface": "dakṣa+ārayaḥ",
+     "gloss": "with-rightward-lines",
+     "grounds": "compound describing orientation or arrangement",
+     "morph": "dakṣa+ārayaḥ (m.+m.nom.pl)"
+    },
+    {
+     "surface": "pitṛ+karmāṇi",
+     "gloss": "ancestral-rites",
+     "grounds": "compound naming rites for ancestors",
+     "morph": "pitṛ+karmāṇi (m.+n.acc.pl)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-perform",
+     "grounds": "causative optative prescribing performance",
+     "morph": "3.sg.act.opt.caus-√sādh"
+    }
+   ],
+   "question": "What directional procedure must be followed when performing ancestral rites?",
+   "premises": [
+    "A leftward turn is specified.",
+    "Rightward lines or arrangements are indicated.",
+    "Ancestral rites are the actions to be performed."
+   ],
+   "inference": "Ancestral rites should be performed with a leftward turn and rightward lines.",
+   "uncertainties": [
+    "The precise ritual referent of dakṣa+ārayaḥ is not fully explicit."
+   ],
+   "plain_english": "One should perform the ancestral rites with a leftward turn and rightward lines."
+  },
+  {
+   "verse": 2296,
+   "rows": [
+    {
+     "surface": "laṅghanāt",
+     "gloss": "by-omission",
+     "grounds": "ablative indicating cause as omission",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mātṛ+mātṝṇām",
+     "gloss": "of-mother's-mothers",
+     "grounds": "compound genitive referring to maternal mothers",
+     "morph": "mātṛ+mātṝṇām (f.+f.gen.pl)"
+    },
+    {
+     "surface": "śrāddham",
+     "gloss": "śrāddha",
+     "grounds": "ritual offering named as subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the śrāddha",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vi+phalam",
+     "gloss": "fruitless",
+     "grounds": "compound indicating lack of result",
+     "morph": "vi+phalam (indecl.+n.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative stating resulting condition",
+     "morph": "3.sg.act.opt-√bhū"
+    }
+   ],
+   "question": "What consequence follows from omitting the śrāddha for the maternal mothers?",
+   "premises": [
+    "Omission of a specific śrāddha is considered.",
+    "The śrāddha concerns the mothers of the mother.",
+    "A resulting condition is stated for that omission."
+   ],
+   "inference": "If the śrāddha for the maternal mothers is omitted, it becomes fruitless.",
+   "uncertainties": [],
+   "plain_english": "By omitting the śrāddha for the maternal mothers, that śrāddha becomes fruitless."
+  },
+  {
+   "verse": 2297,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb situating the instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "locative indicating initial stage",
+     "morph": "m/n.loc.sg"
+    },
+    {
+     "surface": "daiva+pakṣe",
+     "gloss": "in-divine-portion",
+     "grounds": "compound naming the divine section of the rite",
+     "morph": "daiva+pakṣe (m.+m.loc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking focus or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vākyam",
+     "gloss": "statement",
+     "grounds": "object to be heard",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative directing attention",
+     "morph": "2.sg.act.imp-√śru"
+    },
+    {
+     "surface": "śuci+smite",
+     "gloss": "o-pure-smiling-one",
+     "grounds": "vocative addressing the listener",
+     "morph": "śuci+smite (m.+f.voc.sg)"
+    }
+   ],
+   "question": "What instruction is the listener asked to hear first in the divine portion of the rite?",
+   "premises": [
+    "The context is situated there in the rite.",
+    "The focus is on the initial stage of the divine portion.",
+    "The listener is commanded to hear a statement."
+   ],
+   "inference": "The listener is asked to hear the statement concerning the first part of the divine portion.",
+   "uncertainties": [
+    "The content of the statement is given in subsequent verses."
+   ],
+   "plain_english": "There, first in the divine portion, hear the statement, O pure-smiling one."
+  },
+  {
+   "verse": 2298,
+   "rows": [
+    {
+     "surface": "tat+tat+karma+abhyudaya+artham",
+     "gloss": "for-prosperity-of-each-rite",
+     "grounds": "compound expressing purpose for the prosperity of respective rites",
+     "morph": "tat+tat+karma+abhyudaya+artham (n.+n.+n.+m.+m.acc.sg)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "absolutive indicating prior utterance",
+     "morph": "(indecl.)-√vac"
+    },
+    {
+     "surface": "sādhaka+sattamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound denoting the excellent practitioner",
+     "morph": "sādhaka+sattamaḥ (m.+m.nom.sg)"
+    }
+   ],
+   "question": "What must the best practitioner declare before performing rites for their prosperity?",
+   "premises": [
+    "The purpose is the prosperity of each respective rite.",
+    "A declaration is made prior to action.",
+    "The agent is the best practitioner."
+   ],
+   "inference": "The best practitioner should declare the purpose for the prosperity of each rite.",
+   "uncertainties": [
+    "The exact words to be spoken are not specified in this verse."
+   ],
+   "plain_english": "Having declared it for the prosperity of each respective rite, the best practitioner proceeds."
+  },
+  {
+   "verse": 2299,
+   "rows": [
+    {
+     "surface": "dakṣiṇa+mukhaḥ",
+     "gloss": "facing-south",
+     "grounds": "compound describing orientation of the performer",
+     "morph": "dakṣiṇa+mukhaḥ (f.+m.nom.sg)"
+    },
+    {
+     "surface": "san",
+     "gloss": "being",
+     "grounds": "present participle indicating state while acting",
+     "morph": "m.nom.sg.pres.part-√as"
+    },
+    {
+     "surface": "pitṛ+karmāṇi",
+     "gloss": "ancestral-rites",
+     "grounds": "compound naming rites for ancestors",
+     "morph": "pitṛ+karmāṇi (m.+n.acc.pl)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-perform",
+     "grounds": "causative optative prescribing performance",
+     "morph": "3.sg.act.opt.caus-√sādh"
+    }
+   ],
+   "question": "In what orientation must the practitioner perform the ancestral rites?",
+   "premises": [
+    "The performer adopts a specific orientation.",
+    "The orientation is facing south.",
+    "Ancestral rites are to be performed in that state."
+   ],
+   "inference": "The practitioner should perform the ancestral rites while facing south.",
+   "uncertainties": [],
+   "plain_english": "Facing south, one should perform the ancestral rites."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p291",
+ "items": [
+  {
+   "verse": 7275,
+   "rows": [
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative verb expressing injunction",
+     "morph": "3.sg.act-opt √dā"
+    },
+    {
+     "surface": "varāya",
+     "gloss": "to-the-chosen-recipient",
+     "grounds": "recipient of the gift",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "saṃsmṛtya",
+     "gloss": "having-remembered",
+     "grounds": "gerund indicating accompanying mental act",
+     "morph": "(gerund) √smṛ+sam"
+    },
+    {
+     "surface": "śivaṃ",
+     "gloss": "Śiva",
+     "grounds": "object of remembrance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śraddhā",
+     "gloss": "faith",
+     "grounds": "first member of compound describing manner",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "purassaram",
+     "gloss": "preceded-by",
+     "grounds": "second member of compound indicating precedence",
+     "morph": "compound-member"
+    }
+   ],
+   "question": "What mental disposition and remembrance must accompany giving to the chosen recipient?",
+   "premises": [
+    "The act prescribed is giving to the chosen recipient.",
+    "The giver must remember Śiva while giving.",
+    "The giving must be preceded by faith."
+   ],
+   "inference": "Therefore, the gift to the chosen recipient should be given with remembrance of Śiva and with faith foremost.",
+   "uncertainties": [
+    "The exact referent of varāya in this ritual context is not fully specified in this verse alone."
+   ],
+   "plain_english": "One should give to the chosen recipient, remembering Śiva, with faith foremost."
+  }
+ ]
+}

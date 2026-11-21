@@ -1,0 +1,1039 @@
+{
+ "song": "mukta-m0-p169",
+ "items": [
+  {
+   "verse": 4201,
+   "rows": [
+    {
+     "surface": "nivedya",
+     "gloss": "having-offered",
+     "grounds": "past participle of nivid",
+     "morph": "verb.part.perf.act"
+    },
+    {
+     "surface": "bhūrinaivedyaṃ",
+     "gloss": "abundant-offering",
+     "grounds": "compound bhūri + naivedya",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tāmbūlāccaṃ",
+     "gloss": "betel-and-camphor",
+     "grounds": "sandhi-fused form",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantravat",
+     "gloss": "mantra-wise",
+     "grounds": "adverbial -vat",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings are made after the morning rite with mantra?",
+   "premises": [
+    "nivedya means having-offered",
+    "bhūrinaivedyaṃ means abundant-offering",
+    "tāmbūlāccaṃ means betel-and-camphor",
+    "mantravat means mantra-wise"
+   ],
+   "inference": "The rite includes abundant offering, betel and camphor, performed mantra-wise.",
+   "uncertainties": [
+    "exact sandhi of tāmbūlāccaṃ"
+   ],
+   "plain_english": "Having offered, one makes an abundant offering, betel and camphor, mantra-wise."
+  },
+  {
+   "verse": 4202,
+   "rows": [
+    {
+     "surface": "mūrtipāḥ",
+     "gloss": "image-protectors",
+     "grounds": "plural protectors of images",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "śivaśāstrajñāḥ",
+     "gloss": "knowers-of-śiva-scriptures",
+     "grounds": "compound",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "pañcagocarasambhavāḥ",
+     "gloss": "born-of-five-sense-objects",
+     "grounds": "compound",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "Who are the image-protectors born of five sense-objects?",
+   "premises": [
+    "mūrtipāḥ are image-protectors",
+    "śivaśāstrajñāḥ know śiva-scriptures",
+    "pañcagocarasambhavāḥ are born of five sense-objects"
+   ],
+   "inference": "The image-protectors are scripture-knowers born from the five sense-objects.",
+   "uncertainties": [
+    "exact referent of five sense-objects"
+   ],
+   "plain_english": "The image-protectors are knowers of Śiva scriptures, born of the five sense-objects."
+  },
+  {
+   "verse": 4203,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāmantratantrajñāḥ",
+     "gloss": "knowers-of-consecration-mantra-tantra",
+     "grounds": "compound",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "putrapautrādayo",
+     "gloss": "sons-grandsons-etc",
+     "grounds": "compound with ādi",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "guroḥ",
+     "gloss": "of-teacher",
+     "grounds": "genitive of guru",
+     "morph": "noun.gen.sg.m"
+    }
+   ],
+   "question": "Whose sons and grandsons know consecration mantra and tantra?",
+   "premises": [
+    "pratiṣṭhāmantratantrajñāḥ know consecration mantra and tantra",
+    "putrapautrādayo are sons grandsons etc",
+    "guroḥ means of teacher"
+   ],
+   "inference": "The teacher's sons, grandsons, and others know consecration mantra and tantra.",
+   "uncertainties": [
+    "scope of ādi"
+   ],
+   "plain_english": "The teacher's sons, grandsons, and others know consecration mantra and tantra."
+  },
+  {
+   "verse": 4204,
+   "rows": [
+    {
+     "surface": "caturvedadri?do",
+     "gloss": "four-veda-knowers",
+     "grounds": "compound with uncertain final element",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "viprāś",
+     "gloss": "brāhmaṇas",
+     "grounds": "plural brāhmaṇa",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "locative plural",
+     "morph": "noun.loc.pl.f"
+    },
+    {
+     "surface": "vyavasthitāḥ",
+     "gloss": "stationed",
+     "grounds": "past participle",
+     "morph": "verb.part.perf.pass"
+    }
+   ],
+   "question": "Where are the four-veda-knowing brāhmaṇas stationed?",
+   "premises": [
+    "caturvedadri?do are four-veda-knowers",
+    "viprāś are brāhmaṇas",
+    "caturdikṣu means in four directions",
+    "vyavasthitāḥ means stationed"
+   ],
+   "inference": "The four-veda-knowing brāhmaṇas are stationed in the four directions.",
+   "uncertainties": [
+    "token caturvedadri?do contains editorial question mark"
+   ],
+   "plain_english": "The brāhmaṇas knowing the four Vedas are stationed in the four directions."
+  },
+  {
+   "verse": 4205,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "present indicative",
+     "morph": "verb.3.pl.act-pres"
+    },
+    {
+     "surface": "mūrtipā",
+     "gloss": "image-protectors",
+     "grounds": "nominative plural",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskṛtāḥ",
+     "gloss": "consecrated",
+     "grounds": "past participle",
+     "morph": "verb.part.perf.pass"
+    },
+    {
+     "surface": "śivaśambaraiḥ",
+     "gloss": "by-śiva-śambaras",
+     "grounds": "instrumental plural",
+     "morph": "noun.inst.pl.m"
+    }
+   ],
+   "question": "By what are the image-protectors consecrated and named?",
+   "premises": [
+    "bhavanti means become",
+    "mūrtipā are image-protectors",
+    "nāma means named",
+    "saṃskṛtāḥ means consecrated",
+    "śivaśambaraiḥ means by śiva-śambaras"
+   ],
+   "inference": "The image-protectors become named and consecrated by the śiva-śambaras.",
+   "uncertainties": [
+    "identity of śiva-śambaras"
+   ],
+   "plain_english": "They become image-protectors, named and consecrated by the Śiva-Śambaras."
+  },
+  {
+   "verse": 4206,
+   "rows": [
+    {
+     "surface": "yāgāntarāyavidhvaṃsaṃ",
+     "gloss": "obstacle-destruction-of-sacrifice",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "kurvanty",
+     "gloss": "doers",
+     "grounds": "present participle",
+     "morph": "verb.part.pres.act"
+    },
+    {
+     "surface": "amitatejasaḥ",
+     "gloss": "of-immeasurable-glory",
+     "grounds": "genitive plural",
+     "morph": "noun.gen.pl.m"
+    }
+   ],
+   "question": "Who destroys obstacles to the sacrifice?",
+   "premises": [
+    "yāgāntarāyavidhvaṃsaṃ means obstacle-destruction-of-sacrifice",
+    "kurvanty means doers",
+    "amitatejasaḥ means of immeasurable glory"
+   ],
+   "inference": "Those of immeasurable glory destroy obstacles to the sacrifice.",
+   "uncertainties": [
+    "exact agent"
+   ],
+   "plain_english": "Those of immeasurable glory destroy obstacles to the sacrifice."
+  },
+  {
+   "verse": 4207,
+   "rows": [
+    {
+     "surface": "pradhānāgneḥ",
+     "gloss": "from-principal-fire",
+     "grounds": "ablative singular",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "samānīya",
+     "gloss": "having-brought",
+     "grounds": "absolutive",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "svānaṃśān",
+     "gloss": "own-portions",
+     "grounds": "accusative plural",
+     "morph": "noun.acc.pl.m"
+    },
+    {
+     "surface": "svāyate",
+     "gloss": "in-own-place",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "How are portions brought from the principal fire placed?",
+   "premises": [
+    "pradhānāgneḥ means from principal fire",
+    "samānīya means having brought",
+    "svānaṃśān means own portions",
+    "svāyate means in own place",
+    "nyaset means place"
+   ],
+   "inference": "Having brought portions from the principal fire, one places them in their own places.",
+   "uncertainties": [
+    "exact ritual placement"
+   ],
+   "plain_english": "Having brought portions from the principal fire, place them in their own places."
+  },
+  {
+   "verse": 4208,
+   "rows": [
+    {
+     "surface": "pālāśodumbarāśvatthavaṭāḥ",
+     "gloss": "palāśa-udumbara-aśvattha-vaṭa",
+     "grounds": "compound of four trees",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "pūrvādidikṣu",
+     "gloss": "in-eastern-etc-directions",
+     "grounds": "locative plural",
+     "morph": "noun.loc.pl.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which trees are placed in the eastern and other directions?",
+   "premises": [
+    "pālāśodumbarāśvatthavaṭāḥ are four trees",
+    "pūrvādidikṣu means in eastern etc directions",
+    "ca means and"
+   ],
+   "inference": "Palāśa, udumbara, aśvattha, and vaṭa are placed in the eastern and other directions.",
+   "uncertainties": [
+    "exact directional assignment"
+   ],
+   "plain_english": "Palāśa, udumbara, aśvattha, and vaṭa are in the eastern and other directions."
+  },
+  {
+   "verse": 4209,
+   "rows": [
+    {
+     "surface": "pradhānasya",
+     "gloss": "principal's",
+     "grounds": "genitive singular",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "palāśastu",
+     "gloss": "palāśa",
+     "grounds": "nominative with tu",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "accusative singular",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "pālāśameva",
+     "gloss": "palāśa-or",
+     "grounds": "compound with eva",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What wood may be used for all portions of the principal?",
+   "premises": [
+    "pradhānasya means principal's",
+    "palāśastu means palāśa indeed",
+    "sarvaṃ means all",
+    "pālāśameva means palāśa or",
+    "vā means or"
+   ],
+   "inference": "For the principal, palāśa may be used for all, or palāśa alone.",
+   "uncertainties": [
+    "awkward legacy gloss"
+   ],
+   "plain_english": "For the principal, palāśa may be used for all, or palāśa alone."
+  },
+  {
+   "verse": 4210,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "accusative singular",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadarddhaṃ",
+     "gloss": "half-that",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadarddhārdhamathāpi",
+     "gloss": "quarter-that-or",
+     "grounds": "compound with api",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantities are permitted for the offering?",
+   "premises": [
+    "sahasraṃ means thousand",
+    "tadarddhaṃ means half that",
+    "tadarddhārdhamathāpi means quarter that or",
+    "vā means or"
+   ],
+   "inference": "The offering may be a thousand, half, or a quarter, or further reduced.",
+   "uncertainties": [
+    "exact reduction chain"
+   ],
+   "plain_english": "The offering may be a thousand, half that, a quarter, or less."
+  },
+  {
+   "verse": 4211,
+   "rows": [
+    {
+     "surface": "mūlāt",
+     "gloss": "from-root",
+     "grounds": "ablative singular",
+     "morph": "noun.abl.sg.n"
+    },
+    {
+     "surface": "daśāṃśato",
+     "gloss": "tenth-part",
+     "grounds": "ablative",
+     "morph": "noun.abl.sg.m"
+    },
+    {
+     "surface": "aṅgānāṃ",
+     "gloss": "of-limbs",
+     "grounds": "genitive plural",
+     "morph": "noun.gen.pl.n"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardhakam",
+     "gloss": "half",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "How are limb portions measured from the root?",
+   "premises": [
+    "mūlāt means from root",
+    "daśāṃśato means tenth part",
+    "aṅgānāṃ means of limbs",
+    "samaṃ means equal",
+    "tadardhakam means half"
+   ],
+   "inference": "Limb portions are measured from the root, by tenths or equally, or half.",
+   "uncertainties": [
+    "ritual arithmetic"
+   ],
+   "plain_english": "From the root, limb portions are measured by tenths, equally, or half."
+  },
+  {
+   "verse": 4212,
+   "rows": [
+    {
+     "surface": "āgneyaiśānanairṛyavāyudikṣu",
+     "gloss": "in-āgneya-īśāna-nairṛta-vāyu-directions",
+     "grounds": "locative plural compound",
+     "morph": "noun.loc.pl.f"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which directions are the portions placed in order?",
+   "premises": [
+    "āgneyaiśānanairṛyavāyudikṣu means in āgneya īśāna nairṛta vāyu directions",
+    "yathākramam means in order"
+   ],
+   "inference": "The portions are placed in the āgneya, īśāna, nairṛta, and vāyu directions in order.",
+   "uncertainties": [
+    "exact mapping"
+   ],
+   "plain_english": "The portions are placed in the āgneya, īśāna, nairṛta, and vāyu directions in order."
+  },
+  {
+   "verse": 4213,
+   "rows": [
+    {
+     "surface": "santarpya",
+     "gloss": "having-satiated",
+     "grounds": "absolutive",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "mantrān",
+     "gloss": "mantras",
+     "grounds": "accusative plural",
+     "morph": "noun.acc.pl.m"
+    },
+    {
+     "surface": "kumbhānte",
+     "gloss": "at-jar-end",
+     "grounds": "locative",
+     "morph": "noun.loc.sg.m"
+    },
+    {
+     "surface": "sādhayeyur",
+     "gloss": "accomplish",
+     "grounds": "optative",
+     "morph": "verb.3.pl.act-opt"
+    },
+    {
+     "surface": "atho",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "accusative",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What is accomplished after satiating mantras at the jar end?",
+   "premises": [
+    "santarpya means having satiated",
+    "mantrān means mantras",
+    "kumbhānte means at jar end",
+    "sādhayeyur means accomplish",
+    "param means supreme"
+   ],
+   "inference": "After satiating mantras at the jar end, they accomplish the supreme.",
+   "uncertainties": [
+    "exact ritual object"
+   ],
+   "plain_english": "Having satiated the mantras at the jar's end, they accomplish the supreme."
+  },
+  {
+   "verse": 4214,
+   "rows": [
+    {
+     "surface": "pratibhāgam",
+     "gloss": "per-portion",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhastena",
+     "gloss": "below-that",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "truly",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sattamāḥ",
+     "gloss": "best",
+     "grounds": "nominative plural",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What sprinkling is done per portion below?",
+   "premises": [
+    "pratibhāgam means per portion",
+    "adhastena means below that",
+    "prokṣaṇaṃ means sprinkling",
+    "sattamāḥ means best"
+   ],
+   "inference": "The best perform sprinkling per portion below.",
+   "uncertainties": [
+    "exact sprinkling substance"
+   ],
+   "plain_english": "The best perform sprinkling per portion below."
+  },
+  {
+   "verse": 4215,
+   "rows": [
+    {
+     "surface": "darbhasparśas",
+     "gloss": "darbha-touch",
+     "grounds": "nominative singular",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "portion",
+     "grounds": "accusative singular",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "saṃjāyateśvaram",
+     "gloss": "becomes-lord",
+     "grounds": "compound",
+     "morph": "verb.3.sg.act-pres"
+    }
+   ],
+   "question": "What happens to the portion touched by darbha?",
+   "premises": [
+    "darbhasparśas means darbha touch",
+    "tato means then",
+    "bhāgaṃ means portion",
+    "śuddhaṃ means pure",
+    "saṃjāyateśvaram means becomes lord"
+   ],
+   "inference": "The portion touched by darbha becomes pure and becomes lord.",
+   "uncertainties": [
+    "exact lordship"
+   ],
+   "plain_english": "The portion touched by darbha becomes pure and becomes lord."
+  },
+  {
+   "verse": 4216,
+   "rows": [
+    {
+     "surface": "mūlāṇusaṃhitāmantrair",
+     "gloss": "root-aṇu-saṃhitā-mantras",
+     "grounds": "instrumental plural compound",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "ācāryasya",
+     "gloss": "of-ācārya",
+     "grounds": "genitive singular",
+     "morph": "noun.gen.sg.m"
+    },
+    {
+     "surface": "japādikam",
+     "gloss": "japa-etc",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What does the ācārya perform with root-aṇu-saṃhitā mantras?",
+   "premises": [
+    "mūlāṇusaṃhitāmantrair means with root-aṇu-saṃhitā mantras",
+    "ācāryasya means of ācārya",
+    "japādikam means japa etc"
+   ],
+   "inference": "The ācārya performs japa and related rites with root-aṇu-saṃhitā mantras.",
+   "uncertainties": [
+    "scope of ādi"
+   ],
+   "plain_english": "The ācārya performs japa and related rites with root-aṇu-saṃhitā mantras."
+  },
+  {
+   "verse": 4217,
+   "rows": [
+    {
+     "surface": "mūrtimūrtīśahomaṃ",
+     "gloss": "image-image-lord-homa",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatvatatveśvaraiḥ",
+     "gloss": "with-reality-reality-lords",
+     "grounds": "instrumental plural compound",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What homa is performed with the reality lords?",
+   "premises": [
+    "mūrtimūrtīśahomaṃ means image-image-lord homa",
+    "tatvatatveśvaraiḥ means with reality-reality lords",
+    "saha means with"
+   ],
+   "inference": "The image-image-lord homa is performed with the reality-reality lords.",
+   "uncertainties": [
+    "compound meaning"
+   ],
+   "plain_english": "The image-image-lord homa is performed with the reality-reality lords."
+  },
+  {
+   "verse": 4218,
+   "rows": [
+    {
+     "surface": "svamūrtirūpasāmarthyāt",
+     "gloss": "by-own-image-form-power",
+     "grounds": "ablative singular compound",
+     "morph": "noun.abl.sg.n"
+    },
+    {
+     "surface": "vyāptisandhānayoginaḥ",
+     "gloss": "pervasion-union-yogins",
+     "grounds": "nominative plural compound",
+     "morph": "noun.nom.pl.m"
+    }
+   ],
+   "question": "How do pervasion-union yogins act by their own image-form power?",
+   "premises": [
+    "svamūrtirūpasāmarthyāt means by own image-form power",
+    "vyāptisandhānayoginaḥ means pervasion-union yogins"
+   ],
+   "inference": "The pervasion-union yogins act by their own image-form power.",
+   "uncertainties": [
+    "exact action"
+   ],
+   "plain_english": "The pervasion-union yogins act by their own image-form power."
+  },
+  {
+   "verse": 4219,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśodhya",
+     "gloss": "purifying",
+     "grounds": "absolutive",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "brahmāṃśaṃ",
+     "gloss": "brahma-portion",
+     "grounds": "accusative singular",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "viṣṇvaṃśādiviśuddhaye",
+     "gloss": "for-viṣṇu-portion-etc-purification",
+     "grounds": "dative compound",
+     "morph": "noun.dat.sg.f"
+    }
+   ],
+   "question": "Why is the brahma portion purified?",
+   "premises": [
+    "evaṃ means thus",
+    "saṃśodhya means purifying",
+    "brahmāṃśaṃ means brahma portion",
+    "viṣṇvaṃśādiviśuddhaye means for viṣṇu portion etc purification"
+   ],
+   "inference": "Thus purifying the brahma portion serves purification of viṣṇu portion and others.",
+   "uncertainties": [
+    "exact purification scope"
+   ],
+   "plain_english": "Thus, purifying the brahma portion serves purification of the viṣṇu portion and others."
+  },
+  {
+   "verse": 4220,
+   "rows": [
+    {
+     "surface": "kuśamūlāntarāgraistu",
+     "gloss": "with-kuśa-root-tip-ends",
+     "grounds": "instrumental plural compound",
+     "morph": "noun.inst.pl.m"
+    },
+    {
+     "surface": "brahmabhāgādikān",
+     "gloss": "brahma-portion-etc",
+     "grounds": "accusative plural",
+     "morph": "noun.acc.pl.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are brahma portions purified with kuśa root tips?",
+   "premises": [
+    "kuśamūlāntarāgraistu means with kuśa root tip ends",
+    "brahmabhāgādikān means brahma portion etc",
+    "kramāt means in order"
+   ],
+   "inference": "The brahma portions and others are purified in order with kuśa root tip ends.",
+   "uncertainties": [
+    "exact purification action"
+   ],
+   "plain_english": "The brahma portions and others are purified in order with kuśa root tip ends."
+  },
+  {
+   "verse": 4221,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "locative singular",
+     "morph": "noun.loc.sg.n"
+    },
+    {
+     "surface": "śilāyāṃ",
+     "gloss": "on-stone",
+     "grounds": "locative singular",
+     "morph": "noun.loc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homādyaṃ",
+     "gloss": "homa-etc",
+     "grounds": "accusative",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "arrange",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "Where is homa and related rite arranged?",
+   "premises": [
+    "evaṃ means thus",
+    "pīṭhe means on seat",
+    "śilāyāṃ means on stone",
+    "homādyaṃ means homa etc",
+    "parikalpayet means arrange"
+   ],
+   "inference": "Thus one arranges homa and related rites on the seat and stone.",
+   "uncertainties": [
+    "exact seat/stone relation"
+   ],
+   "plain_english": "Thus one arranges homa and related rites on the seat and stone."
+  },
+  {
+   "verse": 4222,
+   "rows": [
+    {
+     "surface": "manonmanīmanantaṃ",
+     "gloss": "manonmanī-ananta",
+     "grounds": "compound",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "arrange",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What is arranged in order with manonmanī and ananta?",
+   "premises": [
+    "manonmanīmanantaṃ means manonmanī-ananta",
+    "krameṇa means in order",
+    "parikalpayet means arrange"
+   ],
+   "inference": "One arranges manonmanī-ananta in order.",
+   "uncertainties": [
+    "compound meaning"
+   ],
+   "plain_english": "One arranges manonmanī-ananta in order."
+  },
+  {
+   "verse": 4223,
+   "rows": [
+    {
+     "surface": "prāyaścittam",
+     "gloss": "expiation",
+     "grounds": "accusative singular",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "aghoreṇa",
+     "gloss": "with-aghora",
+     "grounds": "instrumental singular",
+     "morph": "noun.inst.sg.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "hundred-eight",
+     "grounds": "accusative",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "śatam",
+     "grounds": "accusative",
+     "morph": "num.acc.sg.n"
+    }
+   ],
+   "question": "How is expiation performed with aghora?",
+   "premises": [
+    "prāyaścittam means expiation",
+    "aghoreṇa means with aghora",
+    "kṛtvā means having done",
+    "aṣṭottaraṃ means hundred-eight",
+    "śatam means śatam"
+   ],
+   "inference": "Having performed expiation with aghora, one uses hundred-eight śatam.",
+   "uncertainties": [
+    "exact count phrase"
+   ],
+   "plain_english": "Having performed expiation with aghora, one uses hundred-eight śatam."
+  },
+  {
+   "verse": 4224,
+   "rows": [
+    {
+     "surface": "bahirantarbaliṃ",
+     "gloss": "outer-inner-offering",
+     "grounds": "accusative compound",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-thrown",
+     "grounds": "absolutive",
+     "morph": "verb.abs"
+    },
+    {
+     "surface": "kṣetrapālabaliṃ",
+     "gloss": "field-protector-offering",
+     "grounds": "accusative compound",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "throw",
+     "grounds": "optative",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What offerings are thrown outside, inside, and to the field protector?",
+   "premises": [
+    "bahirantarbaliṃ means outer-inner offering",
+    "kṣiptvā means having thrown",
+    "kṣetrapālabaliṃ means field-protector offering",
+    "kṣipet means throw"
+   ],
+   "inference": "Having thrown the outer-inner offering, one throws the field-protector offering.",
+   "uncertainties": [
+    "exact sequence"
+   ],
+   "plain_english": "Having thrown the outer and inner offering, throw the field-protector offering."
+  }
+ ]
+}

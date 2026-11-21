@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural of sarva",
+     "morph": "gen.pl.m/n"
+    },
+    {
+     "surface": "sarvasiddhi",
+     "gloss": "all-accomplishment",
+     "grounds": "compound noun in apposition with karaṃ",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "making",
+     "grounds": "accusative singular neuter participle/adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-wise",
+     "grounds": "instrumental plural of budha",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "By whom is the all-accomplishment of all said to be made?",
+   "premises": [
+    "wise ones make all accomplishment",
+    "all beings receive all accomplishment",
+    "accomplishment is attributed to the wise"
+   ],
+   "inference": "wise practitioners are presented as agents of universal accomplishment",
+   "uncertainties": [
+    "exact syntactic relation between sarvasiddhi and karaṃ is unclear from tokenization"
+   ],
+   "plain_english": "By the wise, [this is] the maker of all accomplishment for all."
+  }
+ ]
+}

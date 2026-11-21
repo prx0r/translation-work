@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "bīja syllable, transliterated not translated",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "śatru+nāśa+kartryai",
+     "gloss": "to-enemy-destroying-goddess",
+     "grounds": "compound: śatru (enemy) + nāśa (destruction) + kartrī (doer)",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nama",
+     "gloss": "obeisance",
+     "grounds": "salutation formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of offering the salutation",
+     "morph": "gerund(dā)"
+    },
+    {
+     "surface": "mahā+īśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the deity",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What salutation formula must be offered to the enemy-destroying goddess?",
+   "premises": [
+    "The mantra begins with the syllable oṃ.",
+    "The goddess is addressed as the destroyer of enemies.",
+    "Obeisance is expressed by the word nama."
+   ],
+   "inference": "Therefore the practitioner offers the formula 'oṃ śatru-nāśa-kartryai nama' to the goddess.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, having offered the salutation: 'Oṃ, obeisance to the enemy-destroying goddess.'"
+  }
+ ]
+}

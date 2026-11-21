@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "pucche",
+     "gloss": "in-tail",
+     "grounds": "locative of puccha; tail position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mṛtyuḥ",
+     "gloss": "death",
+     "grounds": "nominative singular of mṛtyu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyatam",
+     "gloss": "certain",
+     "grounds": "adverbial use of niyata",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "in-back",
+     "grounds": "locative of pṛṣṭha; back position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvārthadāyakam",
+     "gloss": "all-object-giving",
+     "grounds": "compound sarva+artha+dāyaka; neuter nominative singular",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What outcome is certain when the mantra is placed in the tail?",
+   "premises": [
+    "Tail placement yields death.",
+    "Back placement yields all-object-giving.",
+    "These placements are certain."
+   ],
+   "inference": "Thus tail and back positions have fixed contrary results.",
+   "uncertainties": [
+    "Gender and number of niyatam as adverb versus adjective are not fully resolved."
+   ],
+   "plain_english": "In the tail there is certainly death; in the back it gives all objects."
+  }
+ ]
+}

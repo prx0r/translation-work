@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p383",
+ "items": [
+  {
+   "verse": 9575,
+   "rows": [
+    {
+     "surface": "mantradevāṃstato",
+     "gloss": "mantra-deities-then",
+     "grounds": "Sandhi-fused form: mantradevān (mantra-deva, accusative plural) + tataḥ (then); refers to the deities of the mantras.",
+     "morph": "compound.acc.pl.m+indecl."
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "The ritual practitioner who employs the mantra.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyāyetsusthiramānasaḥ",
+     "gloss": "should-meditate-with-very-steady-mind",
+     "grounds": "Sandhi-fused form: dhyāyet (optative of dhyai, to meditate) + susthira-mānasaḥ (bahuvrīhi adjective, having a very steady mind).",
+     "morph": "3.sg.opt.act+adj.nom.sg.m"
+    }
+   ],
+   "question": "What mental condition must the mantrin maintain while meditating on the mantra-deities?",
+   "premises": [
+    "The preceding context identifies the bīja and śakti to be employed.",
+    "The mantrin is directed to meditate on the mantra-deities thereafter.",
+    "The meditation is to be performed with a very steady mind."
+   ],
+   "inference": "Effective meditation on the mantra-deities requires the mantrin to maintain a very steady mind.",
+   "uncertainties": [
+    "The exact scope of mantradevān (specific deities or deities in general) depends on the preceding ritual context."
+   ],
+   "plain_english": "Then the mantrin, with a very steady mind, should meditate on the deities of the mantras."
+  }
+ ]
+}

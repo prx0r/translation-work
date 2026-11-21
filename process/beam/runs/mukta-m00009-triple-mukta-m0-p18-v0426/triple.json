@@ -1,0 +1,1157 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "karaṇena",
+     "gloss": "by-instrument",
+     "grounds": "means by which action is performed",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion of accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryaṃ",
+     "gloss": "effect",
+     "grounds": "that which is produced",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kurvan",
+     "gloss": "producing",
+     "grounds": "performing the act",
+     "morph": "m.nom.sg.pres.part.act kṛ"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "doer of action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "hypothetical possibility",
+     "morph": "3.sg.opt.act bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks cited reasoning",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can an agent produce an effect without employing any instrument?",
+   "premises": [
+    "Agency is ordinarily associated with producing effects.",
+    "Instruments are ordinarily required for producing effects.",
+    "A hypothetical agent acts without an instrument."
+   ],
+   "inference": "The possibility of agency without an instrument is put in question.",
+   "uncertainties": [],
+   "plain_english": "Could one be an agent while producing an effect without any instrument?"
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyanyat",
+     "gloss": "other-than-power",
+     "grounds": "fused form indicating something different from power",
+     "morph": "n.nom.sg (compound: śakti+anyat)"
+    },
+    {
+     "surface": "(vi0 3|4",
+     "gloss": "textual-marker",
+     "grounds": "editorial reference marker as given",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "introduces conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanām",
+     "gloss": "of-selves",
+     "grounds": "individual selves",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extension to another case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deha+spandādau",
+     "gloss": "in-body-movement-etc",
+     "grounds": "bodily movement and similar activities",
+     "morph": "m.loc.sg (compound: deha+spanda+ādi)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "operative capacity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karaṇam",
+     "gloss": "instrument",
+     "grounds": "means of action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "stated",
+     "grounds": "what has been declared",
+     "morph": "n.nom.sg.past.pass.part vac"
+    }
+   ],
+   "question": "Is power alone the instrument in the bodily activities of individual selves?",
+   "premises": [
+    "Nothing other than power functions as the instrument.",
+    "Individual selves engage in bodily movement and similar activities.",
+    "These activities require an instrument."
+   ],
+   "inference": "Power alone is stated to be the instrument even for the activities of individual selves.",
+   "uncertainties": [
+    "The exact referent of the editorial marker (vi0 3|4 is unclear."
+   ],
+   "plain_english": "Thus it is said that, even in the bodily movements and other activities of individual selves, power alone is the instrument."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "kiñca",
+     "gloss": "moreover",
+     "grounds": "introduces an additional argument",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agṛhītam",
+     "gloss": "ungrasped",
+     "grounds": "not apprehended or taken up",
+     "morph": "n.nom.sg.past.pass.part grah"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upādhiḥ",
+     "gloss": "adjunct",
+     "grounds": "limiting condition or auxiliary factor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "effect",
+     "grounds": "that which is produced",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īśituḥ",
+     "gloss": "of-lord",
+     "grounds": "the sovereign Lord",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "Can an ungrasped adjunct serve as the effect of the Lord?",
+   "premises": [
+    "An adjunct may be considered even if ungrasped.",
+    "The Lord is associated with producing effects.",
+    "An effect ordinarily stands in a determinate relation to its cause."
+   ],
+   "inference": "The status of an ungrasped adjunct as the Lord's effect is challenged.",
+   "uncertainties": [],
+   "plain_english": "Moreover, if an adjunct is ungrasped, can it still be the Lord's effect?"
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative challenging possibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "the subject under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "hypothetical possibility",
+     "morph": "3.sg.opt.act bhū"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "doer of action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraṇa+jñāna+varjitaḥ",
+     "gloss": "devoid-of-cause-knowledge",
+     "grounds": "lacking knowledge of the cause",
+     "morph": "m.nom.sg (compound: kāraṇa+jñāna+varjita)"
+    }
+   ],
+   "question": "How can one devoid of knowledge of the cause be an agent?",
+   "premises": [
+    "Agency involves producing effects.",
+    "Knowledge of the cause is relevant to agency.",
+    "The subject is described as lacking knowledge of the cause."
+   ],
+   "inference": "One devoid of knowledge of the cause cannot properly be an agent.",
+   "uncertainties": [],
+   "plain_english": "Or how could this one be an agent if devoid of knowledge of the cause?"
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "the whole presented situation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "andhatamaḥ",
+     "gloss": "blind-darkness",
+     "grounds": "total obscurity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtsnam",
+     "gloss": "entire",
+     "grounds": "without remainder",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "antarā",
+     "gloss": "without",
+     "grounds": "in the absence of",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakti+dīpikām",
+     "gloss": "lamp-of-power",
+     "grounds": "illuminating power",
+     "morph": "f.acc.sg (compound: śakti+dīpikā)"
+    }
+   ],
+   "question": "Is all existence mere blind darkness without the lamp of power?",
+   "premises": [
+    "Power functions as an illuminating lamp.",
+    "Without illumination there is darkness.",
+    "The whole situation is considered in the absence of power."
+   ],
+   "inference": "Without the lamp of power, everything would be total blind darkness.",
+   "uncertainties": [],
+   "plain_english": "Without the lamp of power, this entire reality would be blind darkness."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "ananyā",
+     "gloss": "not-other",
+     "grounds": "non-different in identity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "concessive inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śambhoḥ",
+     "gloss": "of-śambhu",
+     "grounds": "of Śiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vibhinnā",
+     "gloss": "distinct",
+     "grounds": "differentiated in some respect",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "Śiva's operative power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-accepted",
+     "grounds": "doctrinally maintained",
+     "morph": "3.sg.pres.pass iṣ"
+    }
+   ],
+   "question": "How is Śambhu's power accepted as both non-different and distinct?",
+   "premises": [
+    "Śambhu possesses power.",
+    "Power is accepted as not other than Śambhu.",
+    "Power is also accepted as distinct from Śambhu."
+   ],
+   "inference": "Śambhu's power is held to be both non-different and distinct.",
+   "uncertainties": [],
+   "plain_english": "Śambhu's power is accepted as not other than him and yet also distinct."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "tādātmya+saṃbandhāt",
+     "gloss": "from-identity-relation",
+     "grounds": "because of a relation of essential identity",
+     "morph": "m.abl.sg (compound: tādātmya+saṃbandha)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmāntaravat",
+     "gloss": "like-another-self",
+     "grounds": "as in the case of a different self",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhedaḥ",
+     "gloss": "difference",
+     "grounds": "separation or otherness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "declares",
+     "morph": "3.sg.perf.act ah/brū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhinna+uktā",
+     "gloss": "stated-as-different",
+     "grounds": "declared to be different",
+     "morph": "f.nom.sg (compound: bhinna+ukta)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "closes statement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does identity-relation exclude difference like that between separate selves?",
+   "premises": [
+    "Power stands in a relation of identity with Śambhu.",
+    "Difference like that between separate selves implies external otherness.",
+    "The text also denies that power is simply stated as different."
+   ],
+   "inference": "Because of identity-relation, power is neither different like another self nor merely declared different.",
+   "uncertainties": [],
+   "plain_english": "Because of the relation of identity, there is no difference as with another self; thus it is said, nor is it merely stated as different."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "ananyā",
+     "gloss": "not-other",
+     "grounds": "non-different",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "concessive inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhinnā",
+     "gloss": "distinct",
+     "grounds": "differentiated",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "draws consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śambhoḥ",
+     "gloss": "of-śambhu",
+     "grounds": "of Śiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "the power in question",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samavāyinī",
+     "gloss": "inherent",
+     "grounds": "inseparably abiding in",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is Śambhu's power described as inherent though both non-different and distinct?",
+   "premises": [
+    "Śambhu's power is not other than him.",
+    "Śambhu's power is also distinct.",
+    "Inherence explains inseparable yet distinguishable relation."
+   ],
+   "inference": "Therefore Śambhu's power is inherent in him.",
+   "uncertainties": [],
+   "plain_english": "Therefore, though not other and yet distinct, that power of Śambhu is inherent in him."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "assertive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "the Lord under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "blessed-lord",
+     "grounds": "revered divine being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "by-power",
+     "grounds": "by means of power",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "svātmanaḥ+atyanta+bhinnayā",
+     "gloss": "absolutely-different-from-own-self",
+     "grounds": "power taken as utterly separate from his own being",
+     "morph": "f.ins.sg (compound: sva+ātman+atyanta+bhinna)"
+    }
+   ],
+   "question": "Is the blessed Lord endowed with a power absolutely different from his own self?",
+   "premises": [
+    "The Lord is associated with power.",
+    "Absolute difference would make power external to his own self.",
+    "The verse denies such absolute difference."
+   ],
+   "inference": "The blessed Lord is not endowed with a power absolutely different from his own self.",
+   "uncertainties": [],
+   "plain_english": "For this blessed Lord is not endowed with a power absolutely different from his own self."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "cit+śakti+yuktatvena",
+     "gloss": "by-being-endowed-with-consciousness-power",
+     "grounds": "state of possessing consciousness-power",
+     "morph": "n.ins.sg (compound: cit+śakti+yukta+tva)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "darśanāt",
+     "gloss": "from-being-seen",
+     "grounds": "because it is observed or understood thus",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "Why is the Lord understood solely as endowed with consciousness-power?",
+   "premises": [
+    "The Lord is observed in relation to consciousness-power.",
+    "This endowment is presented as the defining basis of understanding.",
+    "No other basis is indicated here."
+   ],
+   "inference": "The Lord is understood precisely because of being endowed with consciousness-power.",
+   "uncertainties": [],
+   "plain_english": "Because he is seen precisely as endowed with the power of consciousness."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "anāhita+viśeṣaḥ",
+     "gloss": "without-imposed-particularity",
+     "grounds": "not having externally imposed distinctions",
+     "morph": "m.nom.sg (compound: anāhita+viśeṣa)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "concessive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hetuḥ",
+     "gloss": "cause",
+     "grounds": "source or ground of effects",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "divine being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "Śiva as supreme lord",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can the great Lord be the cause even without imposed particularity?",
+   "premises": [
+    "Causation is often associated with particular conditions.",
+    "The great Lord is described as without imposed particularity.",
+    "The verse affirms his role as cause."
+   ],
+   "inference": "Even without imposed particularity, the great Lord is the cause.",
+   "uncertainties": [],
+   "plain_english": "Even without imposed particularity, the god Maheśvara is the cause."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "binduḥ",
+     "gloss": "bindu",
+     "grounds": "subtle causal point or seed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "asau",
+     "gloss": "that",
+     "grounds": "the bindu in question",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pralīna+kāryaḥ",
+     "gloss": "with-dissolved-effect",
+     "grounds": "having effects reabsorbed within it",
+     "morph": "m.nom.sg (compound: pralīna+kārya)"
+    },
+    {
+     "surface": "śiva+śakti+samīritaḥ",
+     "gloss": "impelled-by-śiva-power",
+     "grounds": "set in motion by Śiva's power",
+     "morph": "m.nom.sg (compound: śiva+śakti+samīrita)"
+    }
+   ],
+   "question": "What characterizes bindu when its effects are dissolved and impelled by Śiva's power?",
+   "premises": [
+    "Bindu is the subject under discussion.",
+    "Its effects are described as dissolved within it.",
+    "It is impelled by Śiva's power."
+   ],
+   "inference": "Bindu is the state in which dissolved effects are held and moved by Śiva's power.",
+   "uncertainties": [],
+   "plain_english": "That bindu, with its effects dissolved, is impelled by Śiva's power."
+  },
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "assertive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cira+sthāpita+viśvaḥ",
+     "gloss": "long-held-universe",
+     "grounds": "having sustained the universe for long",
+     "morph": "m.nom.sg (compound: cira+sthāpita+viśva)"
+    },
+    {
+     "surface": "binduḥ",
+     "gloss": "bindu",
+     "grounds": "subtle causal point",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravartate",
+     "gloss": "proceeds",
+     "grounds": "moves forth into activity",
+     "morph": "3.sg.pres.mid vṛt"
+    }
+   ],
+   "question": "Does bindu alone proceed after long sustaining the universe within itself?",
+   "premises": [
+    "Bindu has long held the universe within it.",
+    "A principle of manifestation must proceed into activity.",
+    "The verse emphasizes bindu exclusively."
+   ],
+   "inference": "Bindu alone proceeds after having long sustained the universe.",
+   "uncertainties": [],
+   "plain_english": "Indeed, bindu alone, having long held the universe, proceeds forth."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "mṛd+avasthā+antara+āpattyā",
+     "gloss": "by-attaining-another-clay-state",
+     "grounds": "by clay passing into another condition",
+     "morph": "f.ins.sg (compound: mṛd+avasthā+antara+āpatti)"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "previously",
+     "grounds": "as before or earlier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in the same way",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asau",
+     "gloss": "this",
+     "grounds": "the subject under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "extension by analogy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the analogy of clay attaining another state apply to this principle?",
+   "premises": [
+    "Clay can attain another state while remaining clay.",
+    "The subject is compared to this prior example.",
+    "Change of state does not require loss of underlying nature."
+   ],
+   "inference": "In the same way, this principle also undergoes change of state analogously to clay.",
+   "uncertainties": [],
+   "plain_english": "Just as clay attains another state, so too does this, as before."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "kārya+bhedāya",
+     "gloss": "for-difference-of-effects",
+     "grounds": "for the sake of varied effects",
+     "morph": "m.dat.sg (compound: kārya+bheda)"
+    },
+    {
+     "surface": "ghaṭate",
+     "gloss": "is-capable",
+     "grounds": "is possible or fitting",
+     "morph": "3.sg.pres.mid ghaṭ"
+    },
+    {
+     "surface": "nirvikāre+api",
+     "gloss": "even-in-unchanging",
+     "grounds": "despite absence of change",
+     "morph": "m.loc.sg (compound: nirvikāra+api)"
+    },
+    {
+     "surface": "śūlini",
+     "gloss": "in-trident-bearer",
+     "grounds": "in Śiva who bears the trident",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Can the unchanging trident-bearer account for the difference of effects?",
+   "premises": [
+    "Effects appear in different forms.",
+    "The trident-bearer is described as unchanging.",
+    "Causation must still be possible."
+   ],
+   "inference": "Even in the unchanging trident-bearer, difference of effects is possible.",
+   "uncertainties": [],
+   "plain_english": "Even in the unchanging trident-bearer, difference of effects is possible."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "bheda+saṃśoṣa+cūrṇānām",
+     "gloss": "of-difference-drying-pulverization",
+     "grounds": "of processes involving differentiation, drying, and pulverizing",
+     "morph": "n.gen.pl (compound: bheda+saṃśoṣa+cūrṇa)"
+    },
+    {
+     "surface": "avasthā+bheda+janmanām",
+     "gloss": "born-from-state-difference",
+     "grounds": "arising from differences of condition",
+     "morph": "n.gen.pl (compound: avasthā+bheda+janman)"
+    }
+   ],
+   "question": "What kinds of changes arise from differences in states and conditions?",
+   "premises": [
+    "Difference, drying, and pulverization are named as processes.",
+    "These processes are born from differences of state.",
+    "State-difference can account for varied transformations."
+   ],
+   "inference": "Processes like differentiation, drying, and pulverization arise from differences of state.",
+   "uncertainties": [],
+   "plain_english": "Differentiation, drying, and pulverization arise from differences of state."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "kartā",
+     "gloss": "agent",
+     "grounds": "doer or cause",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarga+ādi+kāryāṇām",
+     "gloss": "of-creation-etc-activities",
+     "grounds": "of creation and other acts",
+     "morph": "n.gen.pl (compound: sarga+ādi+kārya)"
+    },
+    {
+     "surface": "avikāraḥ+api",
+     "gloss": "even-unchanging",
+     "grounds": "despite being without change",
+     "morph": "m.nom.sg (compound: avikāra+api)"
+    },
+    {
+     "surface": "śaktimān",
+     "gloss": "possessor-of-power",
+     "grounds": "endowed with power",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can an unchanging possessor of power be agent of creation and other acts?",
+   "premises": [
+    "Creation and other activities require an agent.",
+    "The agent is described as unchanging.",
+    "The agent is also described as possessing power."
+   ],
+   "inference": "The unchanging possessor of power can be the agent of creation and other activities.",
+   "uncertainties": [],
+   "plain_english": "Even while unchanging, the possessor of power is the agent of creation and other activities."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "dravatā+śuṣkatā+hetuḥ",
+     "gloss": "cause-of-liquidity-and-dryness",
+     "grounds": "source of becoming liquid and dry",
+     "morph": "m.nom.sg (compound: dravatā+śuṣkatā+hetu)"
+    },
+    {
+     "surface": "avikāraḥ+api",
+     "gloss": "even-unchanging",
+     "grounds": "despite being without change",
+     "morph": "m.nom.sg (compound: avikāra+api)"
+    },
+    {
+     "surface": "bhāskaraḥ",
+     "gloss": "sun",
+     "grounds": "the sun as illustrative cause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can the unchanging sun be the cause of liquidity and dryness?",
+   "premises": [
+    "The sun is associated with causing liquidity and dryness.",
+    "The sun is described as unchanging.",
+    "An unchanging cause can produce varied effects."
+   ],
+   "inference": "The sun, though unchanging, is the cause of liquidity and dryness.",
+   "uncertainties": [],
+   "plain_english": "Even while unchanging, the sun is the cause of liquidity and dryness."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "aṇūnām",
+     "gloss": "of-individual-selves",
+     "grounds": "of the individual selves",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "avikāraḥ+api",
+     "gloss": "even-unchanging",
+     "grounds": "despite being without change",
+     "morph": "m.nom.sg (compound: avikāra+api)"
+    },
+    {
+     "surface": "bandha+mokṣa+karaḥ",
+     "gloss": "cause-of-bondage-and-liberation",
+     "grounds": "bringing about bondage and liberation",
+     "morph": "m.nom.sg (compound: bandha+mokṣa+kara)"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "the supreme Lord",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can unchanging Śiva be the cause of bondage and liberation for individual selves?",
+   "premises": [
+    "Individual selves undergo bondage and liberation.",
+    "Śiva is described as unchanging.",
+    "Śiva is affirmed as the cause of bondage and liberation."
+   ],
+   "inference": "Even while unchanging, Śiva is the cause of bondage and liberation for individual selves.",
+   "uncertainties": [],
+   "plain_english": "Even while unchanging, Śiva is the cause of bondage and liberation for individual selves."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "karmaṇoḥ",
+     "gloss": "of-two-karmas",
+     "grounds": "of the pair of karmas",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "sannipātena",
+     "gloss": "by-conjunction",
+     "grounds": "by coming together or ripening together",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śaivī",
+     "gloss": "śiva's",
+     "grounds": "belonging to Śiva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "grace-bestowing power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "patati",
+     "gloss": "falls",
+     "grounds": "descends",
+     "morph": "3.sg.pres.act pat"
+    },
+    {
+     "surface": "aṇau",
+     "gloss": "upon-individual-self",
+     "grounds": "upon the individual self",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What causes Śiva's power to descend upon the individual self?",
+   "premises": [
+    "Two karmas come into conjunction.",
+    "Śiva's power is capable of descending.",
+    "The individual self is the locus of this descent."
+   ],
+   "inference": "By the conjunction of the two karmas, Śiva's power falls upon the individual self.",
+   "uncertainties": [
+    "The specific identity of the two karmas is not specified in this verse."
+   ],
+   "plain_english": "By the conjunction of the two karmas, Śiva's power descends upon the individual self."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "bhogataḥ",
+     "gloss": "through-experience",
+     "grounds": "by means of experiential fruition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "||(6|19",
+     "gloss": "textual-marker",
+     "grounds": "editorial reference marker as given",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks citation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mala+paripāke",
+     "gloss": "in-ripening-of-impurity",
+     "grounds": "when impurity has matured",
+     "morph": "m.loc.sg (compound: mala+paripāka)"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being-so",
+     "grounds": "when that condition obtains",
+     "morph": "m.loc.sg.pres.part.act as"
+    },
+    {
+     "surface": "anugrāhikāyāḥ",
+     "gloss": "of-grace-bestowing",
+     "grounds": "of the power that bestows grace",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pātaḥ",
+     "gloss": "descent",
+     "grounds": "fall or bestowal",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When does the descent of the grace-bestowing power occur for the individual self?",
+   "premises": [
+    "Experience leads to the ripening of impurity.",
+    "Impurity becomes ripe at a certain stage.",
+    "Grace-bestowing power descends when conditions are ready."
+   ],
+   "inference": "When impurity is ripened through experience, the descent of the grace-bestowing power occurs.",
+   "uncertainties": [
+    "The exact referent of the editorial marker ||(6|19 is unclear."
+   ],
+   "plain_english": "Through experience, when impurity is ripened, there is the descent of the grace-bestowing power."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "praśānta+mala+kāluṣyam",
+     "gloss": "with-pacified-impurity-stain",
+     "grounds": "whose impurity and stain have been calmed",
+     "morph": "m.acc.sg (compound: praśānta+mala+kāluṣya)"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "the individual self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anupaśyati",
+     "gloss": "perceives",
+     "grounds": "directly sees or recognizes",
+     "morph": "3.sg.pres.act dṛś"
+    }
+   ],
+   "question": "What does one perceive when the impurity and stain of the self are pacified?",
+   "premises": [
+    "Impurity and stain can become pacified.",
+    "The self is the object of perception.",
+    "Pacification alters how the self is seen."
+   ],
+   "inference": "One perceives the self whose impurity and stain have been pacified.",
+   "uncertainties": [],
+   "plain_english": "One perceives the self whose impurity and stain have been pacified."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "mala+āvaraṇa+apagamāt",
+     "gloss": "from-removal-of-impurity-covering",
+     "grounds": "because the covering of impurity has departed",
+     "morph": "m.abl.sg (compound: mala+āvaraṇa+apagama)"
+    },
+    {
+     "surface": "tat+vimuktam",
+     "gloss": "freed-from-that",
+     "grounds": "liberated from that covering",
+     "morph": "n.nom.sg (compound: tad+vimukta)"
+    },
+    {
+     "surface": "sarvajñatva+ādi+rūpam",
+     "gloss": "form-of-omniscience-etc",
+     "grounds": "nature consisting of omniscience and other qualities",
+     "morph": "n.nom.sg (compound: sarvajñatva+ādi+rūpa)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "of this self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prakāśate",
+     "gloss": "shines-forth",
+     "grounds": "becomes manifest",
+     "morph": "3.sg.pres.mid kāś"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks explanation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "the intended sense",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes manifest in the self when the covering of impurity is removed?",
+   "premises": [
+    "Impurity functions as a covering over the self.",
+    "Removal of that covering frees the self from it.",
+    "The self's nature includes omniscience and other qualities."
+   ],
+   "inference": "When the covering of impurity is removed, the self's nature of omniscience and other qualities shines forth.",
+   "uncertainties": [],
+   "plain_english": "The meaning is that, by the removal of the covering of impurity, this self's nature of omniscience and so on, freed from that, shines forth."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "nitya+naimittikena",
+     "gloss": "by-daily-and-occasional",
+     "grounds": "by regular and occasional rites or actions",
+     "morph": "n.ins.sg (compound: nitya+naimittika)"
+    },
+    {
+     "surface": "eṣaḥ",
+     "gloss": "this",
+     "grounds": "the subject under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karmaṇā",
+     "gloss": "by-action",
+     "grounds": "by ritual or prescribed action",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vartate",
+     "gloss": "abides",
+     "grounds": "continues or conducts oneself",
+     "morph": "3.sg.pres.mid vṛt"
+    },
+    {
+     "surface": "param",
+     "gloss": "supremely",
+     "grounds": "in the highest manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does this one abide supremely through daily and occasional action?",
+   "premises": [
+    "Daily and occasional actions are prescribed.",
+    "The subject continues to act by means of them.",
+    "Such action is associated with a supreme mode of abiding."
+   ],
+   "inference": "This one abides supremely by means of daily and occasional action.",
+   "uncertainties": [],
+   "plain_english": "This one abides supremely by means of daily and occasional action."
+  }
+ ]
+}

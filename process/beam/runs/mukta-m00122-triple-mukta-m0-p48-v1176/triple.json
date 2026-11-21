@@ -1,0 +1,1201 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1176,
+   "rows": [
+    {
+     "surface": "karpaṭe",
+     "gloss": "in-cloth",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kharpare",
+     "gloss": "in-potsherd",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpitena",
+     "gloss": "by-placed",
+     "grounds": "instrumental agent",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "uṣṇabhūtale",
+     "gloss": "on-hot-ground",
+     "grounds": "locative placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where may the yantra be placed for this operation?",
+   "premises": [
+    "Placement may be in cloth.",
+    "Placement may be in potsherd.",
+    "Placement may be on hot ground."
+   ],
+   "inference": "The operation allows placement in cloth, potsherd, or on hot ground.",
+   "uncertainties": [
+    "Exact ritual context is not specified."
+   ],
+   "plain_english": "The yantra may be placed in cloth, in a potsherd, or on hot ground."
+  },
+  {
+   "verse": 1177,
+   "rows": [
+    {
+     "surface": "roṣaṃ",
+     "gloss": "anger",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gatiṃ",
+     "gloss": "movement",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "matiṃ",
+     "gloss": "mind",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jihvāṃ",
+     "gloss": "tongue",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samaraṃ",
+     "gloss": "battle",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "accusative totality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What faculties and conditions are brought under the yantra's influence?",
+   "premises": [
+    "Anger is included.",
+    "Movement is included.",
+    "Mind is included."
+   ],
+   "inference": "The yantra affects anger, movement, mind, tongue, battle, and all related conditions.",
+   "uncertainties": [
+    "The exact causal mechanism is not stated."
+   ],
+   "plain_english": "Anger, movement, mind, tongue, battle, and all such things are affected."
+  },
+  {
+   "verse": 1178,
+   "rows": [
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt root-dā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadyonyā",
+     "gloss": "by-that-other",
+     "grounds": "instrumental relation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tannakṣatroktayā",
+     "gloss": "by-that-nakshatra-stated",
+     "grounds": "instrumental relation",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetitive adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the offering be given again?",
+   "premises": [
+    "An offering should be given.",
+    "It is given by that other means.",
+    "It follows the nakshatra-stated method."
+   ],
+   "inference": "The offering should be given again according to the other and nakshatra-stated method.",
+   "uncertainties": [
+    "The exact offering substance is not named."
+   ],
+   "plain_english": "The offering should be given again by that other nakshatra-stated method."
+  },
+  {
+   "verse": 1179,
+   "rows": [
+    {
+     "surface": "bhītā",
+     "gloss": "frightened",
+     "grounds": "participial adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmukhā",
+     "gloss": "from-that-mouth",
+     "grounds": "ablative source",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "jātu",
+     "gloss": "ever",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭate",
+     "gloss": "happens",
+     "grounds": "middle verb",
+     "morph": "3.sg.mid.pres root-ghaṭ"
+    },
+    {
+     "surface": "yantravaibhavāt",
+     "gloss": "by-yantra-power",
+     "grounds": "ablative cause",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why does the frightened one never come from that mouth?",
+   "premises": [
+    "The frightened one does not come.",
+    "The source is that mouth.",
+    "The cause is yantra power."
+   ],
+   "inference": "Because of yantra power, the frightened one never emerges from that mouth.",
+   "uncertainties": [
+    "The identity of the frightened one is implicit."
+   ],
+   "plain_english": "By the power of the yantra, the frightened one never comes from that mouth."
+  },
+  {
+   "verse": 1180,
+   "rows": [
+    {
+     "surface": "likhitena",
+     "gloss": "by-written",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "puroktena",
+     "gloss": "by-fore-stated",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sthāpitena",
+     "gloss": "by-placed",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "puraṃ",
+     "gloss": "city",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ripoḥ",
+     "gloss": "of-enemy",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What is done to the enemy's city by the written placed yantra?",
+   "premises": [
+    "The yantra is written.",
+    "The yantra is fore-stated.",
+    "The yantra is placed."
+   ],
+   "inference": "The written, fore-stated, and placed yantra acts upon the enemy's city.",
+   "uncertainties": [
+    "The exact effect on the city is not stated."
+   ],
+   "plain_english": "By the written, fore-stated, and placed yantra, the enemy's city is affected."
+  },
+  {
+   "verse": 1181,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative reference",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-those",
+     "grounds": "locative reference",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "prayogeṣu",
+     "gloss": "applications",
+     "grounds": "locative context",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt root-kṛ"
+    },
+    {
+     "surface": "rakṣām",
+     "gloss": "protection",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What protection should be made in those applications?",
+   "premises": [
+    "Applications are specified.",
+    "Protection should be made.",
+    "The protection is for oneself."
+   ],
+   "inference": "In those applications, one should make protection for oneself.",
+   "uncertainties": [
+    "The exact applications are not listed here."
+   ],
+   "plain_english": "In those applications, one should make protection for oneself."
+  },
+  {
+   "verse": 1182,
+   "rows": [
+    {
+     "surface": "navamena",
+     "gloss": "by-ninth",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.mid.opt root-kṛ"
+    },
+    {
+     "surface": "rakṣāṃ",
+     "gloss": "protection",
+     "grounds": "accusative object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "rāṣṭrapurālaye",
+     "gloss": "in-kingdom-city-dwelling",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should protection be done in kingdom and city dwellings?",
+   "premises": [
+    "The ninth method is used.",
+    "Protection should be done.",
+    "The place is kingdom-city dwelling."
+   ],
+   "inference": "By the ninth method, protection should be done in kingdom and city dwellings.",
+   "uncertainties": [
+    "The ninth method is not detailed here."
+   ],
+   "plain_english": "By the ninth method, protection should be done in kingdom and city dwellings."
+  },
+  {
+   "verse": 1183,
+   "rows": [
+    {
+     "surface": "piṣṭaharidrārasena",
+     "gloss": "by-paste-turmeric-juice",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karpaṭe",
+     "gloss": "in-cloth",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vastre",
+     "gloss": "in-garment",
+     "grounds": "locative placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kharpare",
+     "gloss": "in-potsherd",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mṛṇmaye",
+     "gloss": "earthen",
+     "grounds": "adjectival qualifier",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kapāle",
+     "gloss": "in-shard",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What does the turmeric-paste method mean for placement?",
+   "premises": [
+    "The means is turmeric paste juice.",
+    "The meaning is stated.",
+    "Placement may be in cloth or garment."
+   ],
+   "inference": "The turmeric-paste method means placement in cloth, garment, potsherd, earthen shard, or similar vessel.",
+   "uncertainties": [
+    "The exact vessel type may vary."
+   ],
+   "plain_english": "The turmeric-paste method means placing it in cloth, garment, potsherd, or earthen shard."
+  },
+  {
+   "verse": 1184,
+   "rows": [
+    {
+     "surface": "ripuṃ",
+     "gloss": "enemy",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "knowing",
+     "grounds": "absolutive",
+     "morph": "abs root-jñā"
+    },
+    {
+     "surface": "itiśeṣaḥ",
+     "gloss": "thus-remainder",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tṛtīyayantram",
+     "gloss": "third-yantra",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ghaṭate",
+     "gloss": "happens",
+     "grounds": "middle verb",
+     "morph": "3.sg.mid.pres root-ghaṭ"
+    },
+    {
+     "surface": "ceṣṭate",
+     "gloss": "moves",
+     "grounds": "middle verb",
+     "morph": "3.sg.mid.pres root-ceṣṭ"
+    }
+   ],
+   "question": "What happens when the enemy is known in the third yantra?",
+   "premises": [
+    "The enemy is known.",
+    "This is the third yantra.",
+    "It happens and moves."
+   ],
+   "inference": "Knowing the enemy, the third yantra happens and moves.",
+   "uncertainties": [
+    "The exact movement is not specified."
+   ],
+   "plain_english": "Knowing the enemy, this third yantra happens and moves."
+  },
+  {
+   "verse": 1185,
+   "rows": [
+    {
+     "surface": "abhiṣekāditaḥ",
+     "gloss": "from-abhisheka-etc",
+     "grounds": "ablative starting point",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what starting point does this sequence begin?",
+   "premises": [
+    "The starting point is abhisheka.",
+    "The sequence continues from there."
+   ],
+   "inference": "The sequence begins from abhisheka and related rites.",
+   "uncertainties": [
+    "The full list of rites is abbreviated."
+   ],
+   "plain_english": "The sequence begins from abhisheka and related rites."
+  },
+  {
+   "verse": 1186,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt root-sthā"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tāmrapaṭṭeṣu",
+     "gloss": "in-copper-plates",
+     "grounds": "locative placement",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "kalpitam",
+     "gloss": "fashioned",
+     "grounds": "participial qualifier",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should the fashioned yantra be placed?",
+   "premises": [
+    "The yantra is fashioned.",
+    "It should be placed.",
+    "The place is copper plates."
+   ],
+   "inference": "The fashioned yantra should be placed in the middle of copper plates.",
+   "uncertainties": [
+    "The exact middle position is not measured."
+   ],
+   "plain_english": "The fashioned yantra should be placed in the middle of copper plates."
+  },
+  {
+   "verse": 1187,
+   "rows": [
+    {
+     "surface": "svarāṣṭre",
+     "gloss": "in-own-kingdom",
+     "grounds": "locative placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nagare",
+     "gloss": "city",
+     "grounds": "locative placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rājagṛhe",
+     "gloss": "royal-house",
+     "grounds": "locative placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "proktakramāt",
+     "gloss": "by-stated-order",
+     "grounds": "ablative means",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "khanet",
+     "gloss": "should-dig",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt root-khan"
+    }
+   ],
+   "question": "Where should one dig by the stated order?",
+   "premises": [
+    "The place may be own kingdom.",
+    "The place may be city.",
+    "The place may be royal house."
+   ],
+   "inference": "By the stated order, one should dig in one's own kingdom, city, or royal house.",
+   "uncertainties": [
+    "The exact digging purpose is not stated."
+   ],
+   "plain_english": "By the stated order, one should dig in one's own kingdom, city, or royal house."
+  },
+  {
+   "verse": 1188,
+   "rows": [
+    {
+     "surface": "praveṣṭum",
+     "gloss": "to-enter",
+     "grounds": "infinitive purpose",
+     "morph": "inf"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśaktāḥ",
+     "gloss": "unable",
+     "grounds": "participial adjective",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nāśayanti",
+     "gloss": "destroy",
+     "grounds": "causative verb",
+     "morph": "3.pl.act.pres root-naś"
+    },
+    {
+     "surface": "prayojakam",
+     "gloss": "doer",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What happens to those unable to enter here?",
+   "premises": [
+    "They are unable to enter.",
+    "They destroy the doer."
+   ],
+   "inference": "Those unable to enter here destroy the doer.",
+   "uncertainties": [
+    "The identity of the doer is contextual."
+   ],
+   "plain_english": "Those unable to enter here destroy the doer."
+  },
+  {
+   "verse": 1189,
+   "rows": [
+    {
+     "surface": "raṇaṃ",
+     "gloss": "battle",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "praviśya",
+     "gloss": "entering",
+     "grounds": "absolutive",
+     "morph": "abs root-viś"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "should-destroy",
+     "grounds": "optative causative",
+     "morph": "3.sg.act.opt root-naś"
+    },
+    {
+     "surface": "drāvayet",
+     "gloss": "should-make-flee",
+     "grounds": "optative causative",
+     "morph": "3.sg.act.opt root-dru"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative object",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should the hero do after entering battle?",
+   "premises": [
+    "The hero enters battle.",
+    "He should destroy quickly.",
+    "He should make that flee."
+   ],
+   "inference": "The hero, entering battle, should quickly destroy and make that flee.",
+   "uncertainties": [
+    "The referent of that is contextual."
+   ],
+   "plain_english": "The hero, entering battle, should quickly destroy and make that flee."
+  },
+  {
+   "verse": 1190,
+   "rows": [
+    {
+     "surface": "karpaṭe",
+     "gloss": "in-cloth",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpitaṃ",
+     "gloss": "placed",
+     "grounds": "participial qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śamayet",
+     "gloss": "should-pacify",
+     "grounds": "optative causative",
+     "morph": "3.sg.act.opt root-śam"
+    },
+    {
+     "surface": "bhṛtāṃ",
+     "gloss": "of-bearers",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "raṇam",
+     "gloss": "battle",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be pacified quickly when placed in cloth?",
+   "premises": [
+    "It is placed in cloth.",
+    "It should pacify quickly.",
+    "The object is battle of bearers."
+   ],
+   "inference": "When placed in cloth, it should quickly pacify the battle of the bearers.",
+   "uncertainties": [
+    "The bearers are not identified."
+   ],
+   "plain_english": "When placed in cloth, it should quickly pacify the battle of the bearers."
+  },
+  {
+   "verse": 1191,
+   "rows": [
+    {
+     "surface": "bhūrjapatrapuṭe",
+     "gloss": "in-birch-leaf-fold",
+     "grounds": "locative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvarakṣā",
+     "gloss": "all-protection",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt root-bhū"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What protection arises from the birch-leaf fold?",
+   "premises": [
+    "The fold is birch leaf.",
+    "Protection becomes complete.",
+    "It is for men."
+   ],
+   "inference": "In the birch-leaf fold, complete protection for men arises.",
+   "uncertainties": [
+    "The exact ritual use is not stated."
+   ],
+   "plain_english": "In the birch-leaf fold, complete protection for men arises."
+  },
+  {
+   "verse": 1192,
+   "rows": [
+    {
+     "surface": "tālaliptena",
+     "gloss": "by-palm-smeared",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kuḍyāntaḥ",
+     "gloss": "wall-inside",
+     "grounds": "locative placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpitena",
+     "gloss": "by-placed",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "arcitena",
+     "gloss": "by-worshipped",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the palm-smeared yantra be installed?",
+   "premises": [
+    "It is smeared with palm.",
+    "It is placed inside a wall.",
+    "It is worshipped."
+   ],
+   "inference": "The palm-smeared yantra should be placed inside a wall and worshipped.",
+   "uncertainties": [
+    "The exact wall location is not specified."
+   ],
+   "plain_english": "The palm-smeared yantra should be placed inside a wall and worshipped."
+  },
+  {
+   "verse": 1193,
+   "rows": [
+    {
+     "surface": "rājataḥ",
+     "gloss": "from-king",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vairitaḥ",
+     "gloss": "from-enemy",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bādhāt",
+     "gloss": "from-affliction",
+     "grounds": "ablative source",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "anyakṣudrāditaḥ",
+     "gloss": "other-small-etc",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From what sources does protection arise?",
+   "premises": [
+    "Protection is from king.",
+    "Protection is from enemy.",
+    "Protection is from affliction."
+   ],
+   "inference": "Protection arises from king, enemy, affliction, and other small sources.",
+   "uncertainties": [
+    "The full list of small sources is abbreviated."
+   ],
+   "plain_english": "Protection arises from king, enemy, affliction, and other small sources."
+  },
+  {
+   "verse": 1194,
+   "rows": [
+    {
+     "surface": "bhṛtena",
+     "gloss": "by-nourished",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kāminīnāṃ",
+     "gloss": "of-women",
+     "grounds": "genitive possessor",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saubhāgyam",
+     "gloss": "good-fortune",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atulaṃ",
+     "gloss": "incomparable",
+     "grounds": "adjectival qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt root-bhū"
+    }
+   ],
+   "question": "What good fortune becomes incomparable for women?",
+   "premises": [
+    "Women are nourished.",
+    "Good fortune becomes incomparable."
+   ],
+   "inference": "By nourishing, women obtain incomparable good fortune.",
+   "uncertainties": [
+    "The nourishing method is not detailed."
+   ],
+   "plain_english": "By nourishing, women obtain incomparable good fortune."
+  },
+  {
+   "verse": 1195,
+   "rows": [
+    {
+     "surface": "syuḥ",
+     "gloss": "they-are",
+     "grounds": "optative verb",
+     "morph": "3.pl.act.opt root-as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayojakaṃ",
+     "gloss": "doer",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prayoktāraṃ",
+     "gloss": "applier",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vairipakṣasthaṃ",
+     "gloss": "enemy-side-situated",
+     "grounds": "accusative qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatpratibalam",
+     "gloss": "that-opposing-power",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "meaning",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the doer and applier?",
+   "premises": [
+    "The doer is meant.",
+    "The applier is meant.",
+    "The enemy-side power is opposed."
+   ],
+   "inference": "The meaning is that the doer and applier are opposed by that power on the enemy side.",
+   "uncertainties": [
+    "The exact opposition is contextual."
+   ],
+   "plain_english": "The meaning is that the doer and applier are opposed by that power on the enemy side."
+  },
+  {
+   "verse": 1196,
+   "rows": [
+    {
+     "surface": "vandhyāpi",
+     "gloss": "barren-even",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "middle verb",
+     "morph": "3.sg.mid.pres root-labh"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guṇāḍhyaṃ",
+     "gloss": "virtue-rich",
+     "grounds": "adjectival qualifier",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīrghajīvinam",
+     "gloss": "long-lived",
+     "grounds": "adjectival qualifier",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What does even a barren woman obtain?",
+   "premises": [
+    "Even a barren woman obtains.",
+    "She obtains a son.",
+    "The son is virtue-rich and long-lived."
+   ],
+   "inference": "Even a barren woman obtains a virtue-rich, long-lived son.",
+   "uncertainties": [
+    "The ritual cause is not stated in this verse."
+   ],
+   "plain_english": "Even a barren woman obtains a virtue-rich, long-lived son."
+  },
+  {
+   "verse": 1197,
+   "rows": [
+    {
+     "surface": "sapatnīṣvapi",
+     "gloss": "among-co-wives-even",
+     "grounds": "locative context",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "kāntena",
+     "gloss": "by-desired",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhartuḥ",
+     "gloss": "husband's",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atyantavallabhā",
+     "gloss": "extremely-beloved",
+     "grounds": "nominative predicate",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does she become beloved among co-wives?",
+   "premises": [
+    "She is among co-wives.",
+    "The husband is desired.",
+    "She becomes extremely beloved."
+   ],
+   "inference": "Among co-wives, she becomes extremely beloved by the desired husband.",
+   "uncertainties": [
+    "The ritual means is not stated in this verse."
+   ],
+   "plain_english": "Among co-wives, she becomes extremely beloved by the desired husband."
+  },
+  {
+   "verse": 1198,
+   "rows": [
+    {
+     "surface": "rakṣā",
+     "gloss": "protection",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present verb",
+     "morph": "3.sg.act.pres root-bhū"
+    },
+    {
+     "surface": "martyānāṃ",
+     "gloss": "of-mortals",
+     "grounds": "genitive possessor",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "rājacauragrahāditaḥ",
+     "gloss": "from-king-thief-planet-etc",
+     "grounds": "ablative source",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what dangers does protection arise for mortals?",
+   "premises": [
+    "Protection becomes for mortals.",
+    "The sources include king, thief, planet, and others."
+   ],
+   "inference": "Protection for mortals arises from king, thief, planet, and related dangers.",
+   "uncertainties": [
+    "The full list of dangers is abbreviated."
+   ],
+   "plain_english": "Protection for mortals arises from king, thief, planet, and related dangers."
+  },
+  {
+   "verse": 1199,
+   "rows": [
+    {
+     "surface": "asyāḥ",
+     "gloss": "of-this",
+     "grounds": "genitive possessor",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "niṣphālanāt",
+     "gloss": "by-non-fruition",
+     "grounds": "ablative cause",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "citte",
+     "gloss": "in-mind",
+     "grounds": "locative placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tattattvaṃ",
+     "gloss": "that-principle",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svātmasātkṛtam",
+     "gloss": "self-realized",
+     "grounds": "participial qualifier",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is realized in the mind by non-fruition?",
+   "premises": [
+    "Non-fruition is the cause.",
+    "The mind is the place.",
+    "That principle is self-realized."
+   ],
+   "inference": "By non-fruition, that principle is self-realized in the mind.",
+   "uncertainties": [
+    "The exact principle is contextual."
+   ],
+   "plain_english": "By non-fruition, that principle is self-realized in the mind."
+  }
+ ]
+}

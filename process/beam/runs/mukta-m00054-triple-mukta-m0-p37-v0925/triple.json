@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p37",
+ "items": [
+  {
+   "verse": 925,
+   "rows": [
+    {
+     "surface": "caturaṅga",
+     "gloss": "four-limbed",
+     "grounds": "first member of compound describing the army; qualifies cayam",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cayam",
+     "gloss": "army",
+     "grounds": "object of conquest; refers to a fourfold military force",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "absolutive expressing prior action leading to the result",
+     "morph": "gerund √ji"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying sāmrājya",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sāmrājya",
+     "gloss": "sovereignty",
+     "grounds": "universal dominion attained as result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāk",
+     "gloss": "partaker",
+     "grounds": "predicate noun indicating one who shares in sovereignty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "expresses the resulting state of the agent",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What worldly dominion results from conquering a four-limbed army?",
+   "premises": [
+    "A four-limbed army can be conquered.",
+    "Conquest of such an army is accomplished.",
+    "Universal sovereignty becomes attainable through that conquest."
+   ],
+   "inference": "Conquering a four-limbed army leads to becoming a partaker of universal sovereignty.",
+   "uncertainties": [
+    "Whether the four-limbed army and universal sovereignty are meant literally or metaphorically in this ritual context is not explicit."
+   ],
+   "plain_english": "Having conquered a four-limbed army, one becomes a partaker of universal sovereignty."
+  }
+ ]
+}

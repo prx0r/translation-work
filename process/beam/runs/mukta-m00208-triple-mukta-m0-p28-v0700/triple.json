@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "nānāvidhe",
+     "gloss": "in-various-kinds",
+     "grounds": "locative qualifying the circumstance in which expiation is sought",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb asking about manner or form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the inquiry",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing what is appropriate or possible",
+     "morph": "3.sg.act-opt √as"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "atonement or corrective rite for transgression",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vadasva",
+     "gloss": "tell",
+     "grounds": "imperative request addressed to the speaker's interlocutor",
+     "morph": "2.sg.mid-imp √vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative pronoun marking the recipient of the instruction",
+     "morph": "pron.dat.sg.1"
+    }
+   ],
+   "question": "What form of expiation is appropriate in circumstances of various kinds?",
+   "premises": [
+    "Circumstances requiring expiation can be of various kinds.",
+    "The appropriate expiation may depend on the nature of the circumstance.",
+    "Authoritative instruction is sought regarding the proper form of expiation."
+   ],
+   "inference": "Because circumstances vary, the proper expiation must be specified according to those differing conditions.",
+   "uncertainties": [
+    "The specific kinds of circumstances implied by nānāvidhe are not stated in this verse."
+   ],
+   "plain_english": "Tell me, how indeed should expiation be performed in various kinds of cases?"
+  }
+ ]
+}

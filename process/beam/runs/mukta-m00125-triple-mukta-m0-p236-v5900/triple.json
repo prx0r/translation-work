@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p236",
+ "items": [
+  {
+   "verse": 5900,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "consecration",
+     "grounds": "ritual installation; subject of the prescribed action",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg.gerundive + kṛ"
+    },
+    {
+     "surface": "cāṅkurārpaṇa",
+     "gloss": "sprout-offering",
+     "grounds": "first member of compound qualifying pūrvikā",
+     "morph": "compound:cāṅkura+arpaṇa"
+    },
+    {
+     "surface": "pūrvikā",
+     "gloss": "preceded-by",
+     "grounds": "indicates that sprout-offering must come before consecration",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What preparatory rite must precede the consecration that is to be performed next?",
+   "premises": [
+    "The term tataḥ indicates a subsequent step in the ritual sequence.",
+    "The consecration is prescribed as something to be done.",
+    "The consecration must be preceded by the sprout-offering rite."
+   ],
+   "inference": "After the preceding steps, consecration should be performed with the sprout-offering rite carried out beforehand.",
+   "uncertainties": [],
+   "plain_english": "Then the consecration should be performed, preceded by the offering of sprouts."
+  }
+ ]
+}

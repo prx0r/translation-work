@@ -1,0 +1,851 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1276,
+   "rows": [
+    {
+     "surface": "gadātriśūlacakre",
+     "gloss": "mace-trident-disc",
+     "grounds": "compound weapon list",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ceti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "daśāyudham",
+     "gloss": "ten-weapon",
+     "grounds": "compound count",
+     "morph": "compound"
+    }
+   ],
+   "question": "What ten weapons and lotus are named for this deity form?",
+   "premises": [
+    "The verse lists mace trident disc",
+    "It adds lotus and ten weapons"
+   ],
+   "inference": "The form is equipped with mace trident disc lotus and ten weapons",
+   "uncertainties": [
+    "Exact deity not named in this excerpt"
+   ],
+   "plain_english": "Mace, trident, disc, lotus, and ten weapons are named."
+  },
+  {
+   "verse": 1277,
+   "rows": [
+    {
+     "surface": "kṛtāṃjali",
+     "gloss": "joined-palms",
+     "grounds": "compound gesture",
+     "morph": "compound"
+    },
+    {
+     "surface": "puṭopetāḥ",
+     "gloss": "with-cupped-hands",
+     "grounds": "participle",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "karaṃḍamukuṭānvitāḥ",
+     "gloss": "basket-crowned",
+     "grounds": "compound ornament",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the hands and crown described for these forms?",
+   "premises": [
+    "Joined palms and cupped hands appear",
+    "Basket crowns are included"
+   ],
+   "inference": "The forms have joined palms cupped hands and basket crowns",
+   "uncertainties": [
+    "Subject implied from context"
+   ],
+   "plain_english": "They have joined palms, cupped hands, and basket crowns."
+  },
+  {
+   "verse": 1278,
+   "rows": [
+    {
+     "surface": "nānāvarṇamahāvidyun",
+     "gloss": "various-colored-great-lightning",
+     "grounds": "compound color light",
+     "morph": "compound"
+    },
+    {
+     "surface": "nīlajīmūtavarṇakam",
+     "gloss": "blue-cloud-colored",
+     "grounds": "compound color",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color and lightning qualities are assigned here?",
+   "premises": [
+    "Various colors and great lightning are named",
+    "Blue cloud color is named"
+   ],
+   "inference": "The form has varied colors great lightning and blue cloud coloring",
+   "uncertainties": [
+    "Exact bearer unspecified"
+   ],
+   "plain_english": "Various colors, great lightning, and blue cloud color are given."
+  },
+  {
+   "verse": 1279,
+   "rows": [
+    {
+     "surface": "śāraṃ",
+     "gloss": "white",
+     "grounds": "color adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "dābhraṃ",
+     "gloss": "dull",
+     "grounds": "color adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "red",
+     "grounds": "color adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vajrādīnāṃ",
+     "gloss": "of-vajra-etc",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca varṇakam",
+     "gloss": "color",
+     "grounds": "compound color term",
+     "morph": "compound"
+    }
+   ],
+   "question": "What colors are listed for vajra and related weapons?",
+   "premises": [
+    "White dull and red are listed",
+    "Vajra and related items are referenced"
+   ],
+   "inference": "Vajra and related weapons have white dull and red colors",
+   "uncertainties": [
+    "Exact weapon mapping not specified"
+   ],
+   "plain_english": "White, dull, and red colors are listed for vajra and related items."
+  },
+  {
+   "verse": 1280,
+   "rows": [
+    {
+     "surface": "śesāḥ",
+     "gloss": "rest",
+     "grounds": "residual group",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "puṃstvena",
+     "gloss": "as-male",
+     "grounds": "instrumental manner",
+     "morph": "adv"
+    },
+    {
+     "surface": "vikhyātāḥ",
+     "gloss": "renowned",
+     "grounds": "participle",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "kīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "astramūrtayaḥ",
+     "gloss": "weapon-forms",
+     "grounds": "compound forms",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the remaining weapon forms classified?",
+   "premises": [
+    "The rest are renowned and declared",
+    "They are weapon forms as male"
+   ],
+   "inference": "The remaining weapon forms are renowned male weapon forms",
+   "uncertainties": [
+    "Which forms remain unspecified"
+   ],
+   "plain_english": "The rest are renowned male weapon forms."
+  },
+  {
+   "verse": 1281,
+   "rows": [
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "strīraktapadmābhā",
+     "gloss": "woman-red-lotus-like",
+     "grounds": "compound simile",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrdhnibhūṣita",
+     "gloss": "crowned",
+     "grounds": "participle",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "cāpabhṛt",
+     "gloss": "bow-bearing",
+     "grounds": "compound bearer",
+     "morph": "compound"
+    }
+   ],
+   "question": "What bow form is described with woman and lotus imagery?",
+   "premises": [
+    "The bow is woman red lotus like",
+    "It is crowned and bow bearing"
+   ],
+   "inference": "The bow form is woman-like red lotus crowned and bow bearing",
+   "uncertainties": [
+    "Exact deity association not stated"
+   ],
+   "plain_english": "The bow is woman-like, red lotus colored, crowned, and bow bearing."
+  },
+  {
+   "verse": 1282,
+   "rows": [
+    {
+     "surface": "uktānāṃ",
+     "gloss": "of-spoken",
+     "grounds": "genitive plural",
+     "morph": "adj.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "all",
+     "grounds": "genitive plural",
+     "morph": "adj.gen.pl"
+    },
+    {
+     "surface": "mūrdhnisvāyudhalāṃchanam",
+     "gloss": "head-marked-weapon",
+     "grounds": "compound mark",
+     "morph": "compound"
+    }
+   ],
+   "question": "What head marking is common to all spoken forms?",
+   "premises": [
+    "All spoken forms are included",
+    "Each has a head weapon mark"
+   ],
+   "inference": "All spoken forms bear a weapon mark on the head",
+   "uncertainties": [
+    "Specific weapon mark varies"
+   ],
+   "plain_english": "All spoken forms bear a weapon mark on the head."
+  },
+  {
+   "verse": 1283,
+   "rows": [
+    {
+     "surface": "bhujau",
+     "gloss": "arms",
+     "grounds": "nominative dual",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "dvau",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num.nom.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakartavyau",
+     "gloss": "to-be-made",
+     "grounds": "gerundive",
+     "morph": "adj.nom.du"
+    },
+    {
+     "surface": "skaṃdhalagna",
+     "gloss": "shoulder-attached",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yudhau",
+     "gloss": "weapon",
+     "grounds": "nominative dual",
+     "morph": "n.nom.du"
+    }
+   ],
+   "question": "How many arms and weapons are to be made?",
+   "premises": [
+    "Two arms are to be made",
+    "They are shoulder attached with weapons"
+   ],
+   "inference": "Two shoulder-attached arms bearing weapons are to be made",
+   "uncertainties": [
+    "Exact form unspecified"
+   ],
+   "plain_english": "Two shoulder-attached arms bearing weapons are to be made."
+  },
+  {
+   "verse": 1284,
+   "rows": [
+    {
+     "surface": "strīrūpiṇī",
+     "gloss": "woman-formed",
+     "grounds": "compound form",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāṭalābhā",
+     "gloss": "pale-red",
+     "grounds": "compound color",
+     "morph": "compound"
+    },
+    {
+     "surface": "svetāśva",
+     "gloss": "white-horse",
+     "grounds": "compound vehicle",
+     "morph": "compound"
+    },
+    {
+     "surface": "varavāhanā",
+     "gloss": "excellent-vehicle",
+     "grounds": "compound vehicle",
+     "morph": "compound"
+    }
+   ],
+   "question": "What woman-formed vehicle is described here?",
+   "premises": [
+    "The form is woman-formed and pale red",
+    "It has white horse excellent vehicle"
+   ],
+   "inference": "A woman-formed pale red figure rides an excellent white horse",
+   "uncertainties": [
+    "Deity identity not named"
+   ],
+   "plain_english": "A woman-formed pale red figure rides an excellent white horse."
+  },
+  {
+   "verse": 1285,
+   "rows": [
+    {
+     "surface": "dakṣe",
+     "gloss": "right",
+     "grounds": "locative side",
+     "morph": "adv"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left",
+     "grounds": "locative side",
+     "morph": "adv"
+    },
+    {
+     "surface": "śamkhaghaṃṭā",
+     "gloss": "conch-bell",
+     "grounds": "compound pair",
+     "morph": "compound"
+    },
+    {
+     "surface": "kheṭābhaya",
+     "gloss": "shield-fear",
+     "grounds": "compound pair",
+     "morph": "compound"
+    },
+    {
+     "surface": "gadāstathā",
+     "gloss": "mace-and",
+     "grounds": "compound with particle",
+     "morph": "compound"
+    }
+   ],
+   "question": "What objects are held on right and left sides?",
+   "premises": [
+    "Right and left sides are named",
+    "Conch bell shield fear and mace are listed"
+   ],
+   "inference": "The right and left sides hold conch bell shield fear and mace",
+   "uncertainties": [
+    "Exact hand assignment not fully explicit"
+   ],
+   "plain_english": "Right and left sides hold conch, bell, shield, fear, and mace."
+  },
+  {
+   "verse": 1286,
+   "rows": [
+    {
+     "surface": "kausuṃbhavastrasaṃvītā",
+     "gloss": "saffron-garment-clad",
+     "grounds": "compound garment",
+     "morph": "compound"
+    },
+    {
+     "surface": "pujitā",
+     "gloss": "worshipped",
+     "grounds": "participle",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ce",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "iṣṭadā",
+     "gloss": "giver",
+     "grounds": "compound giver",
+     "morph": "compound"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "What garment and benefit are attributed to this worshipped form?",
+   "premises": [
+    "It is saffron garment clad and worshipped",
+    "It gives desired things to men"
+   ],
+   "inference": "The worshipped saffron-clad form grants desired things to men",
+   "uncertainties": [
+    "Form identity not named"
+   ],
+   "plain_english": "The worshipped saffron-clad form grants desired things to men."
+  },
+  {
+   "verse": 1287,
+   "rows": [
+    {
+     "surface": "pāṭalavarṇā",
+     "gloss": "pale-red-colored",
+     "grounds": "compound color",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The single term gives pale red color"
+   ],
+   "inference": "The form is pale red colored",
+   "uncertainties": [
+    "No other attributes in this verse"
+   ],
+   "plain_english": "The form is pale red colored."
+  },
+  {
+   "verse": 1288,
+   "rows": [
+    {
+     "surface": "khaḍgacāpau",
+     "gloss": "sword-bow",
+     "grounds": "compound pair",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhṛśuṃḍīṃ",
+     "gloss": "bhushundi",
+     "grounds": "accusative weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "accusative weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "spear",
+     "grounds": "accusative weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "accusative boon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "halam",
+     "gloss": "plough",
+     "grounds": "accusative weapon",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which weapons and boon are held in this form?",
+   "premises": [
+    "Sword bow bhushundi trident spear boon and plough are listed"
+   ],
+   "inference": "The form holds sword bow bhushundi trident spear boon and plough",
+   "uncertainties": [
+    "Hand count not stated here"
+   ],
+   "plain_english": "Sword, bow, bhushundi, trident, spear, boon, and plough are held."
+  },
+  {
+   "verse": 1289,
+   "rows": [
+    {
+     "surface": "caturdaśabhujairddhatte",
+     "gloss": "fourteen-armed",
+     "grounds": "compound verb",
+     "morph": "v.3.sg.act-pres+root"
+    },
+    {
+     "surface": "dakṣevāme",
+     "gloss": "right-left",
+     "grounds": "compound sides",
+     "morph": "compound"
+    },
+    {
+     "surface": "pṛthakpṛhak",
+     "gloss": "separately",
+     "grounds": "reduplicated adverb",
+     "morph": "adv"
+    }
+   ],
+   "question": "How many arms hold these objects and how are sides arranged?",
+   "premises": [
+    "Fourteen arms are stated",
+    "Right and left are arranged separately"
+   ],
+   "inference": "Fourteen arms hold the objects with right and left arranged separately",
+   "uncertainties": [
+    "Exact object distribution not given"
+   ],
+   "plain_english": "Fourteen arms hold the objects, right and left arranged separately."
+  },
+  {
+   "verse": 1290,
+   "rows": [
+    {
+     "surface": "raktavarṇā",
+     "gloss": "red-colored",
+     "grounds": "compound color",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The single term gives red color"
+   ],
+   "inference": "The form is red colored",
+   "uncertainties": [
+    "No other attributes in this verse"
+   ],
+   "plain_english": "The form is red colored."
+  },
+  {
+   "verse": 1291,
+   "rows": [
+    {
+     "surface": "jāṃbūnadarucirnṛtyan",
+     "gloss": "golden-shining",
+     "grounds": "compound participle",
+     "morph": "compound"
+    },
+    {
+     "surface": "mayūravaravāhanā",
+     "gloss": "peacock-excellent-vehicle",
+     "grounds": "compound vehicle",
+     "morph": "compound"
+    }
+   ],
+   "question": "What shining quality and vehicle are described?",
+   "premises": [
+    "Golden shining dancing is stated",
+    "Peacock excellent vehicle is stated"
+   ],
+   "inference": "The form is golden shining and rides an excellent peacock",
+   "uncertainties": [
+    "Exact deity not named"
+   ],
+   "plain_english": "The form is golden shining and rides an excellent peacock."
+  },
+  {
+   "verse": 1292,
+   "rows": [
+    {
+     "surface": "dadhānākramaśaścitra",
+     "gloss": "holding-gradually",
+     "grounds": "compound participle",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasanāmakuṭojjvalā",
+     "gloss": "garment-crown-shining",
+     "grounds": "compound ornament",
+     "morph": "compound"
+    }
+   ],
+   "question": "What holding and shining qualities are described?",
+   "premises": [
+    "Gradual holding is stated",
+    "Garment crown shining is stated"
+   ],
+   "inference": "The form holds objects gradually and shines with garment and crown",
+   "uncertainties": [
+    "Objects held not listed here"
+   ],
+   "plain_english": "The form holds objects gradually and shines with garment and crown."
+  },
+  {
+   "verse": 1293,
+   "rows": [
+    {
+     "surface": "raktavarṇā",
+     "gloss": "red-colored",
+     "grounds": "compound color",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The single term gives red color"
+   ],
+   "inference": "The form is red colored",
+   "uncertainties": [
+    "No other attributes in this verse"
+   ],
+   "plain_english": "The form is red colored."
+  },
+  {
+   "verse": 1294,
+   "rows": [
+    {
+     "surface": "ṣaḍbhirbhujaiścakraśaṃkha",
+     "gloss": "with-six-arms",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "varābhayadhanuśśarān",
+     "gloss": "boon-fear-bow-arrow",
+     "grounds": "compound objects",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many arms and objects are named here?",
+   "premises": [
+    "Six arms are stated",
+    "Boon fear bow and arrow are named"
+   ],
+   "inference": "Six arms hold boon fear bow and arrow",
+   "uncertainties": [
+    "Exact hand distribution not stated"
+   ],
+   "plain_english": "Six arms hold boon, fear, bow, and arrow."
+  },
+  {
+   "verse": 1295,
+   "rows": [
+    {
+     "surface": "kanakavarṇā",
+     "gloss": "gold-colored",
+     "grounds": "compound color",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The single term gives gold color"
+   ],
+   "inference": "The form is gold colored",
+   "uncertainties": [
+    "No other attributes in this verse"
+   ],
+   "plain_english": "The form is gold colored."
+  },
+  {
+   "verse": 1296,
+   "rows": [
+    {
+     "surface": "saṃdhyāruṇoṣṭabhirhastaiścakraṃ",
+     "gloss": "twilight-red-eight-hands",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "padmaṃnidhiṃvaram",
+     "gloss": "lotus-treasure-boon",
+     "grounds": "compound objects",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many hands and objects are named here?",
+   "premises": [
+    "Eight hands are stated",
+    "Disc lotus treasure and boon are named"
+   ],
+   "inference": "Eight hands hold disc lotus treasure and boon",
+   "uncertainties": [
+    "Exact hand distribution not stated"
+   ],
+   "plain_english": "Eight hands hold disc, lotus, treasure, and boon."
+  },
+  {
+   "verse": 1297,
+   "rows": [
+    {
+     "surface": "dadhānaḥ",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "pītavasanaḥ",
+     "gloss": "yellow-garment",
+     "grounds": "compound garment",
+     "morph": "compound"
+    },
+    {
+     "surface": "kirīṭāṃgadaśobhitaḥ",
+     "gloss": "crown-armlet-shining",
+     "grounds": "compound ornament",
+     "morph": "compound"
+    }
+   ],
+   "question": "What holding garment and ornaments are described?",
+   "premises": [
+    "Holding is stated",
+    "Yellow garment and crown armlet shining are stated"
+   ],
+   "inference": "The form holds objects wears yellow garment and shines with crown and armlet",
+   "uncertainties": [
+    "Objects held not listed here"
+   ],
+   "plain_english": "The form holds objects, wears yellow garment, and shines with crown and armlet."
+  },
+  {
+   "verse": 1298,
+   "rows": [
+    {
+     "surface": "raktavarṇaḥ",
+     "gloss": "red-colored",
+     "grounds": "compound color",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color is assigned to this form?",
+   "premises": [
+    "The single term gives red color"
+   ],
+   "inference": "The form is red colored",
+   "uncertainties": [
+    "No other attributes in this verse"
+   ],
+   "plain_english": "The form is red colored."
+  },
+  {
+   "verse": 1299,
+   "rows": [
+    {
+     "surface": "meghavarṇaḥ",
+     "gloss": "cloud-colored",
+     "grounds": "compound color",
+     "morph": "compound"
+    },
+    {
+     "surface": "karālāsyaḥ",
+     "gloss": "fierce-faced",
+     "grounds": "compound face",
+     "morph": "compound"
+    },
+    {
+     "surface": "krūradaṃṣṭraśca",
+     "gloss": "cruel-tusked",
+     "grounds": "compound tusk",
+     "morph": "compound"
+    },
+    {
+     "surface": "digbhujaiḥ",
+     "gloss": "ten-armed",
+     "grounds": "compound arms",
+     "morph": "compound"
+    }
+   ],
+   "question": "What color face tusk and arm count are described?",
+   "premises": [
+    "Cloud color fierce face and cruel tusk are stated",
+    "Ten arms are stated"
+   ],
+   "inference": "The form is cloud colored fierce faced cruel tusked and ten armed",
+   "uncertainties": [
+    "Exact deity not named"
+   ],
+   "plain_english": "The form is cloud colored, fierce faced, cruel tusked, and ten armed."
+  }
+ ]
+}

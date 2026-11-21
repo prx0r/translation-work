@@ -1,0 +1,76 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "om-seed",
+     "grounds": "accusative object; seed-syllable tāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "accusative qualifier of parā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vighna",
+     "gloss": "obstacle",
+     "grounds": "second member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛdbhyaḥ",
+     "gloss": "makers",
+     "grounds": "final member of compound; recipients or targets",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "indeclinable or adjective used adverbially with ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhū",
+     "gloss": "bhū-syllable",
+     "grounds": "mantra syllable to be written",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "injunctive instruction for ritual inscription",
+     "morph": "3.sg.optative-active √likh"
+    }
+   ],
+   "question": "Which mantra syllables must be inscribed to counter all makers of obstacles?",
+   "premises": [
+    "The syllable tāraṃ is specified as an object to be written.",
+    "The syllable parāṃ is specified as an object to be written.",
+    "The syllable bhū is specified as an object to be written.",
+    "The inscription is directed against all makers of obstacles."
+   ],
+   "inference": "Therefore, one should write tāraṃ, parāṃ, and bhū as mantra syllables against all obstacle-makers.",
+   "uncertainties": [
+    "The exact ritual function of sarva ca in this sequence is context-dependent."
+   ],
+   "plain_english": "One should write the syllables tāraṃ, parāṃ, and bhū against all those who create obstacles."
+  }
+ ]
+}

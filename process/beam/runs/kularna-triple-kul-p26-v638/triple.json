@@ -1,0 +1,503 @@
+{
+ "song": "kul-p26",
+ "items": [
+  {
+   "verse": 638,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃcintya",
+     "gloss": "reflecting",
+     "grounds": "absolutive of saṃcint",
+     "morph": "abs."
+    },
+    {
+     "surface": "yogīndraḥ",
+     "gloss": "yoga-lord",
+     "grounds": "compound yogi+indra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulapūjārato",
+     "gloss": "kula-worship-devoted",
+     "grounds": "compound kula+pūjā+rata",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "What attitude does the yoga-lord adopt after reflecting thus?",
+   "premises": [
+    "reflection precedes devotion",
+    "kula worship is the chosen practice"
+   ],
+   "inference": "The yogīndra becomes devoted to kula worship after reflection.",
+   "uncertainties": [
+    "exact tense/mood of bhavet"
+   ],
+   "plain_english": "Thus reflecting, the lord of yoga becomes devoted to kula worship."
+  },
+  {
+   "verse": 639,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "pronoun tvam accusative",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "worships",
+     "grounds": "verb samarc",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhuktimuktyoḥ",
+     "gloss": "of-enjoyment-and-liberation",
+     "grounds": "compound bhukti+mukti genitive dual",
+     "morph": "f.gen.du"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "noun bhājana",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who becomes a vessel of enjoyment and liberation?",
+   "premises": [
+    "worship of the goddess is the condition",
+    "the worshipper is named as vessel"
+   ],
+   "inference": "One who worships the goddess becomes a vessel of both enjoyment and liberation.",
+   "uncertainties": [
+    "optative force of samarcayet"
+   ],
+   "plain_english": "Whoever worships you, goddess, becomes a vessel of enjoyment and liberation."
+  },
+  {
+   "verse": 640,
+   "rows": [
+    {
+     "surface": "sukhāsane",
+     "gloss": "on-comfortable-seat",
+     "grounds": "compound sukha+āsana locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samāsīnaḥ",
+     "gloss": "seated",
+     "grounds": "participle samāsīna",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṅmukho",
+     "gloss": "east-facing",
+     "grounds": "compound prāñc+mukha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "api",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udaṅmukhaḥ",
+     "gloss": "north-facing",
+     "grounds": "compound udak+mukha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which directions may the seated worshipper face?",
+   "premises": [
+    "comfortable seat is prescribed",
+    "east or north facing is allowed"
+   ],
+   "inference": "The worshipper sits comfortably facing east or north.",
+   "uncertainties": [
+    "whether api intensifies vā"
+   ],
+   "plain_english": "Seated on a comfortable seat, one faces east or north."
+  },
+  {
+   "verse": 641,
+   "rows": [
+    {
+     "surface": "ratnaprākārasandīptaṃ",
+     "gloss": "jewel-wall-illuminated",
+     "grounds": "compound ratna+prākāra+sandīpta",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "verb smṛ",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "māṇikyamaṇḍapam",
+     "gloss": "ruby-pavilion",
+     "grounds": "compound māṇikya+maṇḍapa",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What illuminated structure should be remembered?",
+   "premises": [
+    "jewel wall is radiant",
+    "ruby pavilion is the object"
+   ],
+   "inference": "One should remember a ruby pavilion illuminated by jewel walls.",
+   "uncertainties": [
+    "exact relation between the two accusatives"
+   ],
+   "plain_english": "One should remember a ruby pavilion illuminated by jewel walls."
+  },
+  {
+   "verse": 642,
+   "rows": [
+    {
+     "surface": "karpūradīpabhāsvantaṃ",
+     "gloss": "camphor-lamp-radiant",
+     "grounds": "compound karpūra+dīpa+bhāsvat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhūpāmodasugandhikam",
+     "gloss": "incense-fragrance-sweet-smelling",
+     "grounds": "compound dhūpa+āmoda+sugandhika",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities belong to the remembered pavilion?",
+   "premises": [
+    "camphor lamp radiance is present",
+    "incense fragrance is sweet-smelling"
+   ],
+   "inference": "The remembered pavilion is radiant with camphor lamps and sweet with incense fragrance.",
+   "uncertainties": [
+    "whether both accusatives modify one pavilion"
+   ],
+   "plain_english": "It is radiant with camphor lamps and sweet-smelling with incense fragrance."
+  },
+  {
+   "verse": 643,
+   "rows": [
+    {
+     "surface": "śrīgurorājñayā",
+     "gloss": "by-śrī-guru's-command",
+     "grounds": "compound śrī+guru+ājñā instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulapūjāṃ",
+     "gloss": "kula-worship",
+     "grounds": "compound kula+pūjā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "verb samācar",
+     "morph": "3.sg.act.opt."
+    }
+   ],
+   "question": "By whose command should kula worship be performed?",
+   "premises": [
+    "guru's command authorizes practice",
+    "the goddess is addressed"
+   ],
+   "inference": "By the command of the revered guru, one should perform kula worship, O goddess.",
+   "uncertainties": [
+    "whether devi is vocative to goddess or disciple"
+   ],
+   "plain_english": "By the revered guru's command, O goddess, one should perform kula worship."
+  },
+  {
+   "verse": 644,
+   "rows": [
+    {
+     "surface": "yāvanna",
+     "gloss": "as-long-as-not",
+     "grounds": "compound yāvat+na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "verb kṛ",
+     "morph": "3.sg.mid.pres."
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "noun mantrin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "until-then",
+     "grounds": "adverb tāvat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devārcanaṃ",
+     "gloss": "deity-worship",
+     "grounds": "compound deva+arcana accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "whence",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How can deity worship arise before mantra practice?",
+   "premises": [
+    "mantra-knower must act first",
+    "deity worship depends on that action"
+   ],
+   "inference": "Until the mantra-knower performs the rite, deity worship cannot arise.",
+   "uncertainties": [
+    "exact scope of yāvanna"
+   ],
+   "plain_english": "As long as the mantra-knower does not act, how can deity worship arise?"
+  },
+  {
+   "verse": 645,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgādyakhilanyāsa",
+     "gloss": "six-limbs-etc-all-nyāsa",
+     "grounds": "compound ṣaḍaṅga+ādi+akhila+nyāsa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmaśuddhiḥ",
+     "gloss": "self-purification",
+     "grounds": "compound ātman+śuddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "participle samīrita",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What purification is declared through six-limb nyāsa?",
+   "premises": [
+    "six-limb nyāsa is named",
+    "self-purification is the result"
+   ],
+   "inference": "Self-purification is declared through nyāsa of all six limbs and so on.",
+   "uncertainties": [
+    "whether ādi extends beyond six limbs"
+   ],
+   "plain_english": "Self-purification is declared through nyāsa of the six limbs and all related rites."
+  },
+  {
+   "verse": 646,
+   "rows": [
+    {
+     "surface": "pañcavarṇarajaścitraṃ",
+     "gloss": "five-colored-dust-variegated",
+     "grounds": "compound pañca+varṇa+rajas+citra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthānaśuddhiḥ",
+     "gloss": "place-purification",
+     "grounds": "compound sthāna+śuddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "itīritā",
+     "gloss": "thus-declared",
+     "grounds": "compound iti+īrita",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What purification is declared through five-colored dust?",
+   "premises": [
+    "five-colored dust is variegated",
+    "place-purification is the result"
+   ],
+   "inference": "Place-purification is declared through variegated five-colored dust.",
+   "uncertainties": [
+    "whether citraṃ modifies dust or place"
+   ],
+   "plain_english": "Place-purification is thus declared through variegated five-colored dust."
+  },
+  {
+   "verse": 647,
+   "rows": [
+    {
+     "surface": "kramotkramāt",
+     "gloss": "by-order-and-reverse",
+     "grounds": "compound krama+utkrama ablative/instrumental",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dvirāvṛttyā",
+     "gloss": "by-double-repetition",
+     "grounds": "compound dvi+āvṛtti instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mantraśuddhiḥ",
+     "gloss": "mantra-purification",
+     "grounds": "compound mantra+śuddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "itīritā",
+     "gloss": "thus-declared",
+     "grounds": "compound iti+īrita",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What purification is declared through ordered repetition?",
+   "premises": [
+    "order and reverse order are used",
+    "double repetition purifies mantra"
+   ],
+   "inference": "Mantra-purification is declared through double repetition in order and reverse order.",
+   "uncertainties": [
+    "whether kramotkramāt is ablative or instrumental"
+   ],
+   "plain_english": "Mantra-purification is thus declared through double repetition in order and reverse order."
+  },
+  {
+   "verse": 648,
+   "rows": [
+    {
+     "surface": "darśayet",
+     "gloss": "should-show",
+     "grounds": "verb darś",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "dhenumudrāṃ",
+     "gloss": "cow-mudrā",
+     "grounds": "compound dhenu+mudrā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dravyaśuddhiḥ",
+     "gloss": "material-purification",
+     "grounds": "compound dravya+śuddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "itīritā",
+     "gloss": "thus-declared",
+     "grounds": "compound iti+īrita",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What purification is declared through the cow mudrā?",
+   "premises": [
+    "cow mudrā should be shown",
+    "material-purification is the result"
+   ],
+   "inference": "Material-purification is declared by showing the cow mudrā.",
+   "uncertainties": [
+    "whether ca links to previous purification"
+   ],
+   "plain_english": "Material-purification is thus declared by showing the cow mudrā."
+  },
+  {
+   "verse": 649,
+   "rows": [
+    {
+     "surface": "trivāraṃ",
+     "gloss": "three-times",
+     "grounds": "compound tri+vāra accusative adverbial",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "verb prokṣ",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned",
+     "grounds": "participle vidvas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaśuddhiḥ",
+     "gloss": "deity-purification",
+     "grounds": "compound deva+śuddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "itīritā",
+     "gloss": "thus-declared",
+     "grounds": "compound iti+īrita",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What purification is declared through threefold sprinkling?",
+   "premises": [
+    "learned one sprinkles three times",
+    "deity-purification is the result"
+   ],
+   "inference": "Deity-purification is declared when the learned one sprinkles three times.",
+   "uncertainties": [
+    "object of sprinkling is implicit"
+   ],
+   "plain_english": "Deity-purification is thus declared when the learned one sprinkles three times."
+  }
+ ]
+}

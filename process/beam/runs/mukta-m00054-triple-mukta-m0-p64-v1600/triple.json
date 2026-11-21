@@ -1,0 +1,53 @@
+{
+ "song": "mukta-m0-p64",
+ "items": [
+  {
+   "verse": 1600,
+   "rows": [
+    {
+     "surface": "kalā",
+     "gloss": "creative-power",
+     "grounds": "epithet of the goddess; can also mean art, phase, or digit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāla+dharā",
+     "gloss": "time-bearer",
+     "grounds": "compound: kāla (time) + dharā (bearer/holder)",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "dhīrā",
+     "gloss": "steadfast",
+     "grounds": "epithet denoting firmness or wisdom",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhāriṇī",
+     "gloss": "sustainer",
+     "grounds": "feminine agent noun denoting one who supports or upholds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vasu+nīra+dā",
+     "gloss": "wealth-water-giver",
+     "grounds": "compound: vasu (wealth/goods) + nīra (water) + dā (giver)",
+     "morph": "compound:f.nom.sg"
+    }
+   ],
+   "question": "Which sustaining and bestowing attributes define the goddess's nature in this enumeration?",
+   "premises": [
+    "The goddess is identified as kalā, embodying creative power.",
+    "She is called kāladharā, the bearer of time.",
+    "She is described as dhīrā and dhāriṇī, steadfast and sustaining.",
+    "She is named vasunīradā, the giver of wealth and water."
+   ],
+   "inference": "The goddess is characterized as a steadfast creative power who sustains time and bestows material and vital abundance.",
+   "uncertainties": [
+    "kalā may signify art, phase, digit, or creative power depending on context.",
+    "vasu may denote wealth, goods, or excellence."
+   ],
+   "plain_english": "She is creative power, the bearer of time, steadfast, the sustainer, and the giver of wealth and water."
+  }
+ ]
+}

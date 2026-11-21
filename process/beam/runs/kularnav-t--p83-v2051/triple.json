@@ -1,0 +1,557 @@
+{
+ "song": "kul-p83",
+ "items": [
+  {
+   "verse": 2051,
+   "rows": [
+    {
+     "surface": "ācchādanam",
+     "gloss": "covering",
+     "grounds": "ācchādana = covering",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samuddiṣṭam",
+     "gloss": "declared",
+     "grounds": "sam-ud-diṣṭa participle",
+     "morph": "pp.m.nom.sg.n"
+    },
+    {
+     "surface": "avaguṇṭhanam",
+     "gloss": "veiling",
+     "grounds": "avaguṇṭhana = veiling",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "spoken",
+     "grounds": "īrita participle",
+     "morph": "pp.m.nom.sg.n"
+    }
+   ],
+   "question": "What ritual covering is declared and spoken here?",
+   "premises": [
+    "covering is declared",
+    "veiling is spoken"
+   ],
+   "inference": "The verse names covering and veiling as declared and spoken.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Covering is declared; veiling is spoken."
+  },
+  {
+   "verse": 2052,
+   "rows": [
+    {
+     "surface": "svāgatam",
+     "gloss": "welcome",
+     "grounds": "svāgata = welcome",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kuśalapraśnam",
+     "gloss": "welfare-question",
+     "grounds": "kuśala-praśna = welfare question",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nigadet",
+     "gloss": "should-speak",
+     "grounds": "nigad optative",
+     "morph": "3.sg.act.opt.√gad"
+    },
+    {
+     "surface": "devatāgrataḥ",
+     "gloss": "before-deity",
+     "grounds": "devatā-agrataḥ = before deity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be spoken before the deity?",
+   "premises": [
+    "welcome is spoken",
+    "welfare-question is spoken"
+   ],
+   "inference": "One should speak welcome and a welfare question before the deity.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Before the deity one should speak welcome and ask about welfare."
+  },
+  {
+   "verse": 2053,
+   "rows": [
+    {
+     "surface": "jātālavaṅgakakkolaiḥ",
+     "gloss": "with-born-clove-cardamom",
+     "grounds": "jāta-alavaṅga-kakkola instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "ukta participle",
+     "morph": "pp.m.nom.sg.n"
+    },
+    {
+     "surface": "ācamanīyakam",
+     "gloss": "mouth-rinse",
+     "grounds": "ācamanīyaka = mouth rinse",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What mouth rinse is said to be used?",
+   "premises": [
+    "clove and cardamom are used",
+    "mouth rinse is said"
+   ],
+   "inference": "The mouth rinse is said to be made with born clove and cardamom.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The mouth rinse is said to be made with clove and cardamom."
+  },
+  {
+   "verse": 2054,
+   "rows": [
+    {
+     "surface": "anarghaphaladānāt",
+     "gloss": "from-invaluable-fruit-giving",
+     "grounds": "anargha-phala-dāna ablative",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arghyam",
+     "gloss": "arghya",
+     "grounds": "arghya = arghya",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "iti quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhidhīyate",
+     "gloss": "is-called",
+     "grounds": "abhi-dhī passive",
+     "morph": "3.sg.pass.prs.√dhā"
+    }
+   ],
+   "question": "What is called arghya from invaluable fruit giving?",
+   "premises": [
+    "invaluable fruit giving is named",
+    "arghya is called thus"
+   ],
+   "inference": "Arghya is called so from the giving of invaluable fruit.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "From giving invaluable fruit, arghya is thus called."
+  },
+  {
+   "verse": 2055,
+   "rows": [
+    {
+     "surface": "yavam",
+     "gloss": "barley",
+     "grounds": "yava = barley",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "gandhaḥ",
+     "gloss": "fragrance",
+     "grounds": "gandha = fragrance",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "phala = fruit",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "puṣpam",
+     "gloss": "flower",
+     "grounds": "puṣpa = flower",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "aṣṭāṅgārghyam",
+     "gloss": "eight-limbed-arghya",
+     "grounds": "aṣṭa-aṅga-arghya compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "pra-kīrtita participle",
+     "morph": "pp.m.nom.sg.n"
+    }
+   ],
+   "question": "What eight-limbed arghya is proclaimed here?",
+   "premises": [
+    "barley fragrance fruit flower are named",
+    "eight-limbed arghya is proclaimed"
+   ],
+   "inference": "The eight-limbed arghya is proclaimed with barley, fragrance, fruit, and flower.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Barley, fragrance, fruit, and flower proclaim the eight-limbed arghya."
+  },
+  {
+   "verse": 2056,
+   "rows": [
+    {
+     "surface": "dehaprakṣālanam",
+     "gloss": "body-washing",
+     "grounds": "deha-prakṣālana compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "snānam",
+     "gloss": "bathing",
+     "grounds": "snāna = bathing",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "sugandhisalilaiḥ",
+     "gloss": "with-fragrant-waters",
+     "grounds": "sugandhi-salila instrumental plural",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "saha indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What bathing is done together with fragrant waters?",
+   "premises": [
+    "body washing is bathing",
+    "fragrant waters are used"
+   ],
+   "inference": "Body washing and bathing are done together with fragrant waters.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Body washing and bathing are done together with fragrant waters."
+  },
+  {
+   "verse": 2057,
+   "rows": [
+    {
+     "surface": "aṣṭāṅgapraṇipātam",
+     "gloss": "eight-limbed-prostration",
+     "grounds": "aṣṭa-aṅga-praṇipāta compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "tu particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitam",
+     "gloss": "said",
+     "grounds": "kathita participle",
+     "morph": "pp.m.nom.sg.n"
+    },
+    {
+     "surface": "vandanam",
+     "gloss": "salutation",
+     "grounds": "vandana = salutation",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "priya vocative",
+     "morph": "n.voc.sg.f"
+    }
+   ],
+   "question": "What salutation is said to be eight-limbed prostration?",
+   "premises": [
+    "eight-limbed prostration is said",
+    "salutation is named"
+   ],
+   "inference": "Salutation is said to be eight-limbed prostration.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Dear one, salutation is said to be eight-limbed prostration."
+  },
+  {
+   "verse": 2058,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "tat pronoun",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "kṣetram",
+     "gloss": "field",
+     "grounds": "kṣetra = field",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "pālitam",
+     "gloss": "protected",
+     "grounds": "pālita participle",
+     "morph": "pp.m.nom.sg.n"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "yena instrumental relative",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "kṣetrapālaḥ",
+     "gloss": "field-protector",
+     "grounds": "kṣetra-pāla compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "saḥ pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "ucyate passive",
+     "morph": "3.sg.pass.prs.√vac"
+    }
+   ],
+   "question": "Who is called the protector of the protected field?",
+   "premises": [
+    "field is protected",
+    "protector is called he"
+   ],
+   "inference": "He who protects the field is called the field protector.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He who protects that field is called the field protector."
+  },
+  {
+   "verse": 2059,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "samāsena instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "maheśānī vocative",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "yaḥ relative",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "jānāti present",
+     "morph": "3.sg.act.prs.√jñā"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "saḥ pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "pūjakaḥ",
+     "gloss": "worshipper",
+     "grounds": "pūjaka = worshipper",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who is called the worshipper in brief?",
+   "premises": [
+    "one who knows is named",
+    "worshipper is called he"
+   ],
+   "inference": "He who knows is called the worshipper, in brief.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "In brief, O great goddess, he who knows is the worshipper."
+  },
+  {
+   "verse": 2060,
+   "rows": [
+    {
+     "surface": "ūrdhvāmnāyaḥ",
+     "gloss": "upper-tradition",
+     "grounds": "ūrdhva-āmnāya compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "ayam pronoun",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "ākhyātaḥ",
+     "gloss": "declared",
+     "grounds": "ākhyāta participle",
+     "morph": "pp.m.nom.sg.m"
+    },
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "samāsena instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "savistarāt",
+     "gloss": "with-detail",
+     "grounds": "sa-vistara ablative/instrumental",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What upper tradition is declared in brief and detail?",
+   "premises": [
+    "upper tradition is declared",
+    "brief and detail are named"
+   ],
+   "inference": "This upper tradition is declared both in brief and with detail.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "This upper tradition is declared in brief and with detail."
+  },
+  {
+   "verse": 2061,
+   "rows": [
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "pra-kāśita participle",
+     "morph": "pp.m.nom.sg.n"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "mayā instrumental",
+     "morph": "pron.inst.sg.1"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "ca conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adya indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopanīyam",
+     "gloss": "to-be-concealed",
+     "grounds": "gopanīya gerundive",
+     "morph": "ger.m.nom.sg.n"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "diligently",
+     "grounds": "prayatnataḥ indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What revealed teaching must be diligently concealed?",
+   "premises": [
+    "it is revealed by me",
+    "it must be concealed diligently"
+   ],
+   "inference": "What I revealed today must be diligently concealed.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "I have revealed it today; it must be diligently concealed."
+  },
+  {
+   "verse": 2062,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-read",
+     "grounds": "paṭh optative",
+     "morph": "3.sg.act.opt.√paṭh"
+    },
+    {
+     "surface": "āsavollāsam",
+     "gloss": "liquor-excitement",
+     "grounds": "āsava-ullāsa compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "grantham",
+     "gloss": "book",
+     "grounds": "grantha = book",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "bhūmi locative",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "na negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-place",
+     "grounds": "ni-kṣip optative",
+     "morph": "3.sg.act.opt.√kṣip"
+    }
+   ],
+   "question": "What should not be read or placed on the ground?",
+   "premises": [
+    "liquor-excitement book should not be read",
+    "book should not be placed on ground"
+   ],
+   "inference": "One should not read the liquor-excitement book, nor place a book on the ground.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One should not read the liquor-excitement book, nor place a book on the ground."
+  }
+ ]
+}

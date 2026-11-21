@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p329",
+ "items": [
+  {
+   "verse": 8225,
+   "rows": [
+    {
+     "surface": "sūryyasya",
+     "gloss": "of-sun",
+     "grounds": "genitive dependent indicating the deity before whom worship occurs",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "in-front",
+     "grounds": "locative used adverbially to mark position before the sun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aruṇaḥ",
+     "gloss": "aruṇa",
+     "grounds": "name of the charioteer of the sun, subject of worship",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjyaḥ",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive expressing ritual obligation",
+     "morph": "m.nom.sg (gerundive, √pūj)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle adding further objects of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking sequence in the ritual instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhvā+ādayaḥ",
+     "gloss": "vidhvā-and-others",
+     "grounds": "compound with ādi indicating a group beginning with Vidhvā",
+     "morph": "compound: vidhvā+ādi, m.nom.pl"
+    },
+    {
+     "surface": "grahāḥ",
+     "gloss": "planets",
+     "grounds": "celestial deities included as objects of worship",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which figures must be worshipped in front of the sun deity in this ritual sequence?",
+   "premises": [
+    "Aruṇa is designated as worshippable in front of the sun.",
+    "Vidhvā and other planets are included as worshippable figures.",
+    "The instruction continues the sequence of ritual placements."
+   ],
+   "inference": "Therefore, Aruṇa and the planets beginning with Vidhvā are to be worshipped in front of the sun.",
+   "uncertainties": [
+    "The specific identity of Vidhvā among the grahas is not specified in this verse."
+   ],
+   "plain_english": "In front of the sun, Aruṇa is to be worshipped, and then also the planets beginning with Vidhvā."
+  }
+ ]
+}

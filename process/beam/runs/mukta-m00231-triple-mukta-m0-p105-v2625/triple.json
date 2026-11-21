@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "bhṛguvāre",
+     "gloss": "friday",
+     "grounds": "day of Venus, Friday",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "worships",
+     "grounds": "optative of yaj, he should worship",
+     "morph": "3.sg.act.opt (root yaj)"
+    },
+    {
+     "surface": "yatnāt",
+     "gloss": "with-effort",
+     "grounds": "ablative of yatna, by effort",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "kāntām",
+     "gloss": "beloved",
+     "grounds": "accusative feminine object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ārūḍhayauvanām",
+     "gloss": "mounted-youthful",
+     "grounds": "compound of ārūḍha and yauvana",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "On which day should one worship the beloved youthful woman with effort?",
+   "premises": [
+    "Friday is the day for worship.",
+    "The worship is performed with effort.",
+    "The object is a youthful beloved woman."
+   ],
+   "inference": "The verse prescribes Friday worship of a youthful beloved woman performed with effort.",
+   "uncertainties": [
+    "Exact ritual context of mithunārcana is not specified in this verse."
+   ],
+   "plain_english": "On Friday, one should worship with effort a beloved woman who has attained youth."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative form of pūj",
+     "morph": "verb.3.sg.act-opt+root pūj"
+    },
+    {
+     "surface": "triṣu",
+     "gloss": "in-the-three",
+     "grounds": "locative plural of tri",
+     "morph": "adj.loc.pl.m/n"
+    },
+    {
+     "surface": "sandhyāsu",
+     "gloss": "junctions",
+     "grounds": "locative plural feminine of sandhyā",
+     "morph": "noun.loc.pl.f"
+    },
+    {
+     "surface": "japan",
+     "gloss": "reciting",
+     "grounds": "present participle active nominative singular masculine of jap",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "the-mantra",
+     "grounds": "accusative singular feminine of vidyā",
+     "morph": "noun.acc.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaśī",
+     "gloss": "self-controlled",
+     "grounds": "nominative singular masculine adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What is the prescribed worship at the three sandhyās while reciting the vidyā?",
+   "premises": [
+    "Worship is performed at three sandhyās.",
+    "The vidyā is recited during worship.",
+    "The worshipper remains self-controlled."
+   ],
+   "inference": "One should worship at the three junctions while reciting the mantra and remaining self-controlled.",
+   "uncertainties": [
+    "vaśī may describe the worshipper or the state of worship; exact ritual context is not specified."
+   ],
+   "plain_english": "One should worship at the three junctions, reciting the mantra, while remaining self-controlled."
+  }
+ ]
+}

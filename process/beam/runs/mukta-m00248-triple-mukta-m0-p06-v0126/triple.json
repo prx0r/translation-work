@@ -1,0 +1,1243 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "in-northwest",
+     "grounds": "legacy hint",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "holy-place",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "legacy hint",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "rudratīrthakam",
+     "gloss": "rudra-holy-place",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which holy places are named for northwest and northeast directions?",
+   "premises": [
+    "vāyavyāṃ pāvanaṃ tīrthaṃ names northwest purifying place",
+    "aiśānyāṃ rudratīrthakam names northeast rudra place"
+   ],
+   "inference": "The verse identifies two directional holy places.",
+   "uncertainties": [
+    "exact ritual use not stated"
+   ],
+   "plain_english": "In the northwest is the purifying holy place, and in the northeast is the Rudra holy place."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "brāhmaṇasya",
+     "gloss": "of-brahmin",
+     "grounds": "legacy hint",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "karāt",
+     "gloss": "from-hand",
+     "grounds": "legacy hint",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "cyutam",
+     "gloss": "fallen",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Why should fallen material from a brahmin's hand be treated with all effort?",
+   "premises": [
+    "tasmāt indicates consequence",
+    "sarvaprayatnena demands full effort",
+    "brāhmaṇasya karāt cyutam describes fallen from brahmin hand"
+   ],
+   "inference": "Fallen material from a brahmin's hand requires careful handling.",
+   "uncertainties": [
+    "specific rite not named"
+   ],
+   "plain_english": "Therefore, with all effort, what has fallen from a brahmin's hand should be handled carefully."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "manu",
+     "gloss": "manu",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agastya",
+     "gloss": "agastya",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vasiṣṭhāḥ",
+     "gloss": "vasiṣṭha",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gautama",
+     "gloss": "gautama",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āṅgirasas",
+     "gloss": "aṅgiras",
+     "grounds": "legacy hint",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sages are listed together with Manu and Agastya?",
+   "premises": [
+    "manu agastya vasiṣṭhāḥ ca gautama āṅgirasas tathā lists sages"
+   ],
+   "inference": "The verse enumerates revered sages including Vasiṣṭha, Gautama, and Aṅgirasas.",
+   "uncertainties": [
+    "exact ritual role not stated"
+   ],
+   "plain_english": "Manu, Agastya, Vasiṣṭha, Gautama, and Aṅgirasas are likewise named."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "paiṅga",
+     "gloss": "paiṅga",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīrghamato",
+     "gloss": "dīrghamat",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāsa",
+     "gloss": "vyāsa",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaunako",
+     "gloss": "śaunaka",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mām",
+     "gloss": "to-me",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ato",
+     "gloss": "if",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "or",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional sages are named alongside Paiṅga and Dīrghamat?",
+   "premises": [
+    "paiṅga dīrghamato vyāsa śaunako lists sages",
+    "mām ato yadi adds conditional reference"
+   ],
+   "inference": "The verse names Vyāsa and Śaunaka among the sages.",
+   "uncertainties": [
+    "conditional syntax unclear"
+   ],
+   "plain_english": "Paiṅga, Dīrghamat, Vyāsa, and Śaunaka are named, with a conditional reference to me."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "śālikir",
+     "gloss": "śāliki",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jamadagniḥ",
+     "gloss": "jamadagni",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upamanyur",
+     "gloss": "upamanyu",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmadevakaḥ",
+     "gloss": "vāmadeva",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sages complete the list with Śāliki and Jamadagni?",
+   "premises": [
+    "śālikir jamadagniḥ ca upamanyur vāmadevakaḥ lists sages"
+   ],
+   "inference": "Upamanyu and Vāmadeva are included with Śāliki and Jamadagni.",
+   "uncertainties": [
+    "exact list purpose not stated"
+   ],
+   "plain_english": "Śāliki, Jamadagni, Upamanyu, and Vāmadeva are named."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "ārṣeṇa",
+     "gloss": "by-ṛṣi-method",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthena",
+     "gloss": "by-holy-place",
+     "grounds": "legacy hint",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ṛṣīn",
+     "gloss": "ṛṣis",
+     "grounds": "legacy hint",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sarvāṃśca",
+     "gloss": "all",
+     "grounds": "legacy hint",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should all ṛṣis be satisfied according to this instruction?",
+   "premises": [
+    "ārṣeṇa eva tu tīrthena specifies method",
+    "ṛṣīn sarvāṃśca tarpayet directs satisfying all ṛṣis"
+   ],
+   "inference": "All ṛṣis should be satisfied by the holy-place method, indeed by the ṛṣi method.",
+   "uncertainties": [
+    "exact distinction between methods unclear"
+   ],
+   "plain_english": "Indeed by the ṛṣi method, but by the holy place, one should satisfy all the ṛṣis."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "mātāmaha",
+     "gloss": "maternal-grandfather",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "and-earth",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātur",
+     "gloss": "of-mother",
+     "grounds": "legacy hint",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "mātāmahī",
+     "gloss": "maternal-grandmother",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which maternal ancestors are named for tarpaṇa?",
+   "premises": [
+    "mātāmaha mahī ca eva names maternal grandfather and earth",
+    "mātur mātāmahī iti ca names mother's maternal grandmother"
+   ],
+   "inference": "Maternal grandfather, earth, and maternal grandmother are included.",
+   "uncertainties": [
+    "mahī role unclear"
+   ],
+   "plain_english": "Maternal grandfather, earth indeed, and the mother's maternal grandmother are thus included."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "gurur",
+     "gloss": "teacher",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanmātā",
+     "gloss": "his-mother",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatpitā",
+     "gloss": "his-father",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which family and teacher figures are included in the offering?",
+   "premises": [
+    "gurur mātā pitā ca eva names teacher mother father",
+    "tanmātā tatpitā api ca adds his mother and father"
+   ],
+   "inference": "Teacher, mother, father, and their parents are included.",
+   "uncertainties": [
+    "antecedent of tan unclear"
+   ],
+   "plain_english": "Teacher, mother, and father indeed, and his mother and father also, are included."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "kuśa puṣpākṣatena",
+     "gloss": "with-kuśa-flower-rice-grain",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "With what material should the gods be satisfied?",
+   "premises": [
+    "kuśa puṣpākṣatena eva specifies material",
+    "devānāṃ tarpayet budhaḥ directs wise one to satisfy gods"
+   ],
+   "inference": "The wise one should satisfy the gods with kuśa, flowers, and rice grains.",
+   "uncertainties": [
+    "exact combination unclear"
+   ],
+   "plain_english": "Indeed with kuśa, flowers, and rice grains, the wise one should satisfy the gods."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛṣīṇāṃ",
+     "gloss": "of-ṛṣis",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalena",
+     "gloss": "with-water",
+     "grounds": "legacy hint",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "With what should gods and ṛṣis be satisfied?",
+   "premises": [
+    "devānāṃ ca ṛṣīṇāṃ ca names recipients",
+    "jalena eva tu tarpayet specifies water"
+   ],
+   "inference": "Gods and ṛṣis should be satisfied with water.",
+   "uncertainties": [
+    "contrast with previous material unclear"
+   ],
+   "plain_english": "Indeed with water, one should satisfy the gods and the ṛṣis."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "pretake",
+     "gloss": "for-deceased",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kumbhato",
+     "gloss": "from-pot",
+     "grounds": "legacy hint",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mukīśaktiṃ",
+     "gloss": "mukī-power",
+     "grounds": "legacy hint",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tilena",
+     "gloss": "with-sesame",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is used for the deceased from pot and hand?",
+   "premises": [
+    "pretake kumbhato haste sets context",
+    "mukīśaktiṃ tilena ca specifies sesame power"
+   ],
+   "inference": "For the deceased, sesame is used with mukī power from pot and hand.",
+   "uncertainties": [
+    "mukīśaktiṃ meaning unclear"
+   ],
+   "plain_english": "For the deceased, from the pot and in the hand, mukī power and sesame are used."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "adhyāyanaṃ",
+     "gloss": "study",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "legacy hint",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vaktrair",
+     "gloss": "with-mouths",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vedādibhis",
+     "gloss": "of-veda-etc",
+     "grounds": "legacy hint",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done after study with mouths and Vedas?",
+   "premises": [
+    "adhyāyanaṃ tataḥ kṛtvā sets sequence",
+    "vaktrair vedādibhis tathā specifies recitation"
+   ],
+   "inference": "After study, one should recite with mouths the Vedas and so forth.",
+   "uncertainties": [
+    "exact ritual sequence unclear"
+   ],
+   "plain_english": "Then, having studied, one should likewise recite the Vedas and so forth with the mouths."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekādaśa",
+     "gloss": "eleven",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudraṃ",
+     "gloss": "rudra",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣasūktaṃ",
+     "gloss": "puruṣa-sūkta",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be recited after the bathing sequence?",
+   "premises": [
+    "atha ekādaśa rudraṃ ca puruṣasūktaṃ japet tataḥ directs recitation"
+   ],
+   "inference": "One should recite the eleven Rudras and the Puruṣasūkta.",
+   "uncertainties": [
+    "placement in rite unclear"
+   ],
+   "plain_english": "Then one should recite the eleven Rudras and the Puruṣasūkta."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "vāmadakṣiṇa",
+     "gloss": "in-left-right",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "hand",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tarjanyaṅguṣṭha",
+     "gloss": "in-forefinger-thumb",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hastake",
+     "gloss": "hand",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which hands and fingers are specified in this instruction?",
+   "premises": [
+    "vāmadakṣiṇa haste tu names left and right hands",
+    "tarjanyaṅguṣṭha hastake names forefinger and thumb hand"
+   ],
+   "inference": "Left and right hands, forefinger, and thumb are specified.",
+   "uncertainties": [
+    "exact gesture unclear"
+   ],
+   "plain_english": "In the left and right hands, but in the hand with forefinger and thumb."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "snānavastraṃ",
+     "gloss": "bathing-garment",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prapīḍya",
+     "gloss": "having-squeezed",
+     "grounds": "legacy hint",
+     "morph": "gerund"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "holy-place",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃhṛtya",
+     "gloss": "having-collected",
+     "grounds": "legacy hint",
+     "morph": "gerund"
+    },
+    {
+     "surface": "buddhimān",
+     "gloss": "wise-one",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the wise one do with the bathing garment and holy place?",
+   "premises": [
+    "snānavastraṃ prapīḍya eva tīrthaṃ saṃhṛtya buddhimān directs actions"
+   ],
+   "inference": "The wise one should squeeze the bathing garment and collect the holy place.",
+   "uncertainties": [
+    "exact collection method unclear"
+   ],
+   "plain_english": "Indeed, having squeezed the bathing garment and collected the holy place, the wise one acts."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "tailaṃ",
+     "gloss": "oil",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "piṣṭaṃ",
+     "gloss": "paste",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gandhaṃ",
+     "gloss": "fragrance",
+     "grounds": "legacy hint",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣavṛkṣasya",
+     "gloss": "of-akṣa-tree",
+     "grounds": "legacy hint",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cūrṇakam",
+     "gloss": "powder",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substances and tree are mentioned for preparation?",
+   "premises": [
+    "tailaṃ piṣṭaṃ ca gandhaṃ ca lists substances",
+    "akṣavṛkṣasya cūrṇakam specifies akṣa tree powder"
+   ],
+   "inference": "Oil, paste, fragrance, and powder of the akṣa tree are mentioned.",
+   "uncertainties": [
+    "exact preparation unclear"
+   ],
+   "plain_english": "Oil, paste, and fragrance, and powder of the akṣa tree, are mentioned."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhma",
+     "gloss": "brahma-rite",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the bath and brahma rite be performed?",
+   "premises": [
+    "snānaṃ kuryāt prayatnena directs bath with effort",
+    "pūrvaṃ brāhma samācaret directs first brahma rite"
+   ],
+   "inference": "One should perform the bath with effort and first perform the brahma rite.",
+   "uncertainties": [
+    "sequence nuance unclear"
+   ],
+   "plain_english": "One should perform the bath with effort, and first perform the brahma rite."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "bhojane",
+     "gloss": "in-eating",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vaiśvakārye",
+     "gloss": "in-vaiśva-rite",
+     "grounds": "legacy hint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maunaṃ",
+     "gloss": "silence",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍdhā",
+     "gloss": "sixfold",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "legacy hint",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Where is sixfold silence prescribed?",
+   "premises": [
+    "bhojane vaiśvakārye ca names contexts",
+    "maunaṃ ṣaḍdhā vidhīyate prescribes sixfold silence"
+   ],
+   "inference": "Sixfold silence is prescribed in eating and the Vaiśva rite.",
+   "uncertainties": [
+    "sixfold details unclear"
+   ],
+   "plain_english": "In eating and in the Vaiśva rite, sixfold silence is prescribed."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "vighnānāṃ",
+     "gloss": "of-obstacles",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vividhānāṃ",
+     "gloss": "of-various",
+     "grounds": "legacy hint",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣipram",
+     "gloss": "quickly",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccāṭanaṃ",
+     "gloss": "removal",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should quickly happen to various obstacles?",
+   "premises": [
+    "vighnānāṃ vividhānāṃ ca names various obstacles",
+    "kṣipram uccāṭanaṃ bhavet directs quick removal"
+   ],
+   "inference": "Various obstacles should be quickly removed.",
+   "uncertainties": [
+    "method not stated"
+   ],
+   "plain_english": "Various obstacles should be quickly removed."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "gacchet",
+     "gloss": "one-should-go",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "āyatanaṃ",
+     "gloss": "to-temple",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-holder",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "skilled-one",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where should the skilled mantra-holder go with flower in hand?",
+   "premises": [
+    "gacchet āyatanaṃ mantrī directs going to temple",
+    "puṣpa haste vicakṣaṇaḥ specifies flower in hand and skill"
+   ],
+   "inference": "The skilled mantra-holder should go to the temple with a flower in hand.",
+   "uncertainties": [
+    "exact temple rite unclear"
+   ],
+   "plain_english": "The skilled mantra-holder should go to the temple with a flower in hand."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālottare",
+     "gloss": "in-kālottara",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "snānapaṭalas",
+     "gloss": "bathing-chapter",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "legacy hint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of Kālottara is identified as third?",
+   "premises": [
+    "iti kālottare snānapaṭalas tṛtīyaḥ identifies bathing chapter"
+   ],
+   "inference": "The bathing chapter of Kālottara is the third chapter.",
+   "uncertainties": [
+    "chapter numbering witness-specific"
+   ],
+   "plain_english": "Thus in Kālottara, the bathing chapter is the third."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "kapilā",
+     "gloss": "kapilā-cow",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gobhayaṃ",
+     "gloss": "cow-fear",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jarāgobhayam",
+     "gloss": "old-age-cow-fear",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which cow-related fear is called best?",
+   "premises": [
+    "kapilā gobhayaṃ śreṣṭhaṃ names best cow fear",
+    "jarāgobhayam eva adds old-age cow fear"
+   ],
+   "inference": "Kapilā cow fear is best, and old-age cow fear is indeed mentioned.",
+   "uncertainties": [
+    "doctrinal meaning unclear"
+   ],
+   "plain_english": "Kapilā cow fear is best, and old-age cow fear indeed."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "śirāmantreṇa",
+     "gloss": "with-śirā-mantra",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dagdhā",
+     "gloss": "burnt",
+     "grounds": "legacy hint",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyojātena",
+     "gloss": "with-sadyojāta",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "grāhayet",
+     "gloss": "one-should-take",
+     "grounds": "legacy hint",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be taken with Sadyojāta after burning with Śirā mantra?",
+   "premises": [
+    "śirāmantreṇa dagdhā vai describes burnt with śirā mantra",
+    "sadyojātena grāhayet directs taking with sadyojāta"
+   ],
+   "inference": "After burning with the Śirā mantra, one should take with Sadyojāta.",
+   "uncertainties": [
+    "exact object unclear"
+   ],
+   "plain_english": "Burnt indeed with the Śirā mantra, one should take with Sadyojāta."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "mṛtkumbhe",
+     "gloss": "in-clay-pot",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nave",
+     "gloss": "in-new",
+     "grounds": "legacy hint",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "one-should-place",
+     "grounds": "legacy hint",
+     "morph": "gerund"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "with-kavaca",
+     "grounds": "legacy hint",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "abhirakṣitam",
+     "gloss": "protected",
+     "grounds": "legacy hint",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where and how should the protected item be placed?",
+   "premises": [
+    "mṛtkumbhe vā nave sthāpya gives placement options",
+    "kavacena abhirakṣitam specifies protection"
+   ],
+   "inference": "The protected item should be placed in a clay pot or new vessel with kavaca.",
+   "uncertainties": [
+    "item identity unclear"
+   ],
+   "plain_english": "One should place it, protected by kavaca, in a clay pot or new vessel."
+  }
+ ]
+}

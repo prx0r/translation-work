@@ -1,0 +1,1083 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "sakūrca+puṣpa+toya+āḍhyaṃ",
+     "gloss": "endowed-with-grass-flower-water",
+     "grounds": "compound describing the accompanying materials",
+     "morph": "compound: sa+kūrca+puṣpa+toya+āḍhya (m.acc.sg)"
+    },
+    {
+     "surface": "śivamantraṃ",
+     "gloss": "śiva-mantra",
+     "grounds": "the mantra to be uttered",
+     "morph": "compound: śiva+mantra (m.acc.sg)"
+    },
+    {
+     "surface": "samuccaran",
+     "gloss": "uttering",
+     "grounds": "present participle indicating simultaneous action",
+     "morph": "m.nom.sg.pres.part.act (sam+ud+√car)"
+    }
+   ],
+   "question": "What mantra and materials must accompany the ritual utterance?",
+   "premises": [
+    "The utterance is accompanied by grass, flowers, and water.",
+    "The mantra uttered is the śiva-mantra."
+   ],
+   "inference": "The officiant should utter the śiva-mantra while endowed with grass, flowers, and water.",
+   "uncertainties": [],
+   "plain_english": "While uttering the śiva-mantra, one should be endowed with kuśa grass, flowers, and water."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "deveśīm",
+     "gloss": "goddess",
+     "grounds": "object to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+vāme",
+     "gloss": "on-his-left",
+     "grounds": "location relative to the god",
+     "morph": "compound: tad+vāma (n.loc.sg)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "of-the-god",
+     "grounds": "possessor indicating whose left side",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viniveśayet",
+     "gloss": "should-place",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vi+ni+√viś)"
+    }
+   ],
+   "question": "Where must the goddess be ritually placed in relation to the god?",
+   "premises": [
+    "The goddess is to be placed as part of the rite.",
+    "The specified location is the left side of the god."
+   ],
+   "inference": "The officiant should place the goddess on the left side of the god.",
+   "uncertainties": [],
+   "plain_english": "One should also place the goddess on the left side of the god."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "piṇḍikā+rūpiṇīṃ",
+     "gloss": "in-pedestal-form",
+     "grounds": "describes the goddess's manifested form",
+     "morph": "compound: piṇḍikā+rūpin (f.acc.sg)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of bathing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.caus.act (√snā)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "refers to the god being bathed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "manusmaran",
+     "gloss": "remembering-mantra",
+     "grounds": "mental accompaniment to the rite",
+     "morph": "m.nom.sg.pres.part.act (anu+√smṛ)"
+    }
+   ],
+   "question": "How should the goddess in pedestal form and the god be bathed?",
+   "premises": [
+    "The goddess is present in the form of the pedestal.",
+    "Bathing is performed while remembering the mantra."
+   ],
+   "inference": "One should bathe the goddess in pedestal form and him while remembering the mantra.",
+   "uncertainties": [
+    "The exact referent of 'taṃ' depends on the preceding ritual context."
+   ],
+   "plain_english": "Remembering the mantra, one should bathe the goddess in the form of the pedestal and him."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "īśānādyaiḥ",
+     "gloss": "beginning-with-īśāna",
+     "grounds": "first in the series of mantras",
+     "morph": "compound: īśāna+ādi (m.inst.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyāntaiḥ",
+     "gloss": "ending-with-sadya",
+     "grounds": "last in the series of mantras",
+     "morph": "compound: sadya+anta (m.inst.pl)"
+    },
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "with-five",
+     "grounds": "specifies the number of mantras",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "viniveśayet",
+     "gloss": "should-place",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vi+ni+√viś)"
+    }
+   ],
+   "question": "Which set of mantras must be used for the placement ritual?",
+   "premises": [
+    "The placement involves five mantras.",
+    "The series begins with īśāna and ends with sadya."
+   ],
+   "inference": "One should perform the placement using the five mantras from īśāna to sadya.",
+   "uncertainties": [],
+   "plain_english": "One should perform the placement with the five mantras beginning with īśāna and ending with sadya."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "pañcagavya+abhiṣekādau",
+     "gloss": "in-pañcagavya-ablution-etc",
+     "grounds": "ritual context for the action",
+     "morph": "compound: pañcagavya+abhiṣeka+ādi (m.loc.sg)"
+    },
+    {
+     "surface": "mahāghaṇṭā+rava+anvitam",
+     "gloss": "accompanied-by-great-bell-sound",
+     "grounds": "required accompaniment",
+     "morph": "compound: mahāghaṇṭā+rava+anvita (n.acc.sg)"
+    }
+   ],
+   "question": "What sound accompaniment is required during the pañcagavya ablution and related rites?",
+   "premises": [
+    "The rite includes pañcagavya ablution and similar acts.",
+    "A great bell sound must accompany the rite."
+   ],
+   "inference": "The pañcagavya ablution and related rites must be accompanied by the sound of a great bell.",
+   "uncertainties": [],
+   "plain_english": "During the pañcagavya ablution and so on, it should be accompanied by the sound of a great bell."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "avaśyam",
+     "gloss": "necessarily",
+     "grounds": "emphasizes obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvṛtānte",
+     "gloss": "within-enclosure",
+     "grounds": "location of the worship",
+     "morph": "compound: āvṛta+anta (m.loc.sg)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-her",
+     "grounds": "refers to the deity receiving worship",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upasthānaṃ",
+     "gloss": "worship",
+     "grounds": "the act to be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sadhūpakam",
+     "gloss": "with-offerings",
+     "grounds": "describes the worship as accompanied by offerings",
+     "morph": "compound: sa+dhūpaka (n.nom.sg)"
+    }
+   ],
+   "question": "What obligatory worship must be performed for her within the enclosure?",
+   "premises": [
+    "Worship must be performed within the enclosure.",
+    "The worship must include offerings."
+   ],
+   "inference": "Her worship with offerings must necessarily be performed within the enclosure.",
+   "uncertainties": [],
+   "plain_english": "Within the enclosure, her worship with offerings must necessarily be performed."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "vidyante",
+     "gloss": "they-exist",
+     "grounds": "condition for using additional materials",
+     "morph": "3.pl.pres.pass (√vid)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "consequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-those",
+     "grounds": "instruments for bathing",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.caus.act (√snā)"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "object of bathing",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Under what condition should additional substances be used to bathe the supreme lord?",
+   "premises": [
+    "Certain substances may be available.",
+    "If available, they are to be used for bathing."
+   ],
+   "inference": "If those substances exist, one should bathe the supreme lord with them.",
+   "uncertainties": [
+    "The specific substances referred to by 'taiḥ' are context-dependent."
+   ],
+   "plain_english": "If those substances are available, then one should bathe the supreme lord with them."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "arcanoktaṃ",
+     "gloss": "as-prescribed-in-worship",
+     "grounds": "manner of worship",
+     "morph": "compound: arcana+ukta (n.acc.sg)"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "absolutive (sam+abhi+√arc)"
+    },
+    {
+     "surface": "homa+upetaṃ",
+     "gloss": "accompanied-by-fire-offering",
+     "grounds": "describes the completion of the rite",
+     "morph": "compound: homa+upeta (n.acc.sg)"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "should-complete",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.caus.act (sam+ā+√āp)"
+    }
+   ],
+   "question": "How must the worship sequence be concluded after the prescribed rites?",
+   "premises": [
+    "Worship must be performed as prescribed.",
+    "The rite must include a fire offering."
+   ],
+   "inference": "After worshipping as prescribed, one should complete the rite together with the fire offering.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped as prescribed for worship, one should complete the rite accompanied by a fire offering."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "ritual support to be arranged",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃprakalpya",
+     "gloss": "having-arranged",
+     "grounds": "prior preparatory action",
+     "morph": "absolutive (sam+pra+√kḷp)"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "locative reference to the pot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kumbhe",
+     "gloss": "in-pot",
+     "grounds": "location for the mantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mūrti+manuṃ",
+     "gloss": "mūrti-mantra",
+     "grounds": "mantra to be remembered",
+     "morph": "compound: mūrti+manu (m.acc.sg)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (√smṛ)"
+    }
+   ],
+   "question": "What preparatory arrangement and mantra recollection are required in the pot?",
+   "premises": [
+    "A seat must be arranged in the pot.",
+    "The mūrti-mantra must be remembered there."
+   ],
+   "inference": "After arranging a seat in this pot, one should remember the mūrti-mantra.",
+   "uncertainties": [],
+   "plain_english": "Having arranged a seat in this pot, one should remember the mūrti-mantra."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "brahmabhiḥ",
+     "gloss": "with-brahma-mantras",
+     "grounds": "instruments for making complete",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sakalīkṛtya",
+     "gloss": "having-made-complete",
+     "grounds": "prior ritual action",
+     "morph": "absolutive (sakalī+√kṛ)"
+    },
+    {
+     "surface": "tat+kalāḥ",
+     "gloss": "its-parts",
+     "grounds": "elements to be placed",
+     "morph": "compound: tad+kalā (f.acc.pl)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (vi+ni+√as)"
+    }
+   ],
+   "question": "How should the constituent parts be ritually installed after completion with brahma-mantras?",
+   "premises": [
+    "The object is made complete with brahma-mantras.",
+    "Its constituent parts must be placed there."
+   ],
+   "inference": "After making it complete with brahma-mantras, one should place its parts there.",
+   "uncertainties": [
+    "The referent of 'tat' depends on the preceding ritual object."
+   ],
+   "plain_english": "Having made it complete with the brahma-mantras, one should place its kalās there."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "snapanādyam",
+     "gloss": "bathing-and-so-on",
+     "grounds": "initial ritual acts",
+     "morph": "compound: snapana+ādi (n.acc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādyādi",
+     "gloss": "foot-water-and-so-on",
+     "grounds": "offerings to be given",
+     "morph": "compound: pādya+ādi (n.acc.sg)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "absolutive (√kṛ)"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior action",
+     "morph": "absolutive (√dā)"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "with-heart-mantra",
+     "grounds": "mantra used in the rite",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence of acts must the guru perform using the heart-mantra?",
+   "premises": [
+    "Bathing and related acts are performed.",
+    "Foot-water and related offerings are given with the heart-mantra."
+   ],
+   "inference": "The guru, having performed bathing and so on and given foot-water and so on with the heart-mantra, proceeds with the rite.",
+   "uncertainties": [],
+   "plain_english": "Having performed bathing and so on and given foot-water and so on with the heart-mantra, the guru should proceed."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "pradarśya",
+     "gloss": "having-shown",
+     "grounds": "prior ritual gesture",
+     "morph": "absolutive (pra+√dṛś)"
+    },
+    {
+     "surface": "liṅga+mudrām",
+     "gloss": "liṅga-mudrā",
+     "grounds": "ritual hand gesture",
+     "morph": "compound: liṅga+mudrā (f.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kavacena",
+     "gloss": "with-armour-mantra",
+     "grounds": "mantra used for enclosure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "avakuṇṭhayet",
+     "gloss": "should-enclose",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (ava+√kuṇṭh)"
+    }
+   ],
+   "question": "What gesture and mantra are required to enclose the ritual object?",
+   "premises": [
+    "The liṅga-mudrā is shown.",
+    "Enclosure is performed with the armour-mantra."
+   ],
+   "inference": "After showing the liṅga-mudrā, one should enclose it with the armour-mantra.",
+   "uncertainties": [],
+   "plain_english": "Having shown the liṅga-mudrā, one should then enclose it with the armour-mantra."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "varmaṇā",
+     "gloss": "with-armour-mantra",
+     "grounds": "mantra used for enclosure",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avakuṇṭhya",
+     "gloss": "having-enclosed",
+     "grounds": "prior ritual action",
+     "morph": "absolutive (ava+√kuṇṭh)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrān",
+     "gloss": "rudras",
+     "grounds": "deities in the enclosure",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "āvaraṇa+sthitān",
+     "gloss": "situated-in-enclosure",
+     "grounds": "describes the location of the rudras",
+     "morph": "compound: āvaraṇa+sthita (m.acc.pl)"
+    }
+   ],
+   "question": "Which deities are addressed after enclosing with the armour-mantra?",
+   "premises": [
+    "Enclosure is performed with the armour-mantra.",
+    "The rudras situated in the enclosure are then addressed."
+   ],
+   "inference": "After enclosing with the armour-mantra, one should proceed to the rudras situated in the enclosure.",
+   "uncertainties": [],
+   "plain_english": "Having enclosed with the armour-mantra, one should then proceed to the rudras situated in the enclosure."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "prior action of approach",
+     "morph": "absolutive (√gam)"
+    },
+    {
+     "surface": "sakala+sāmīpyam",
+     "gloss": "to-total-proximity",
+     "grounds": "state of closeness achieved",
+     "morph": "compound: sakala+sāmīpya (n.acc.sg)"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "ritual element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūrtim",
+     "gloss": "form",
+     "grounds": "ritual element",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual elements are established upon reaching total proximity?",
+   "premises": [
+    "One reaches total proximity.",
+    "The seat and the form are to be established."
+   ],
+   "inference": "Having reached total proximity, one should establish the seat and indeed the form.",
+   "uncertainties": [],
+   "plain_english": "Having gone into total proximity, one should establish the seat and the form."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "snapanādyam",
+     "gloss": "bathing-and-so-on",
+     "grounds": "initial ritual acts",
+     "morph": "compound: snapana+ādi (n.acc.sg)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "absolutive (√kṛ)"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior action",
+     "morph": "absolutive (√dā)"
+    },
+    {
+     "surface": "pādyādi+ka+trayam",
+     "gloss": "foot-water-etc-triad",
+     "grounds": "threefold offering",
+     "morph": "compound: pādya+ādi+ka+traya (n.acc.sg)"
+    }
+   ],
+   "question": "What offerings must be given after performing bathing and related acts?",
+   "premises": [
+    "Bathing and related acts are performed first.",
+    "A triad of offerings beginning with foot-water is given."
+   ],
+   "inference": "After performing bathing and so on, one should give the triad of offerings beginning with foot-water.",
+   "uncertainties": [],
+   "plain_english": "Then, having performed bathing and so on, one should give the triad of offerings beginning with foot-water."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates repetition of prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghaṭam",
+     "gloss": "pot",
+     "grounds": "ritual vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karakaṃ",
+     "gloss": "sprinkling-vessel",
+     "grounds": "ritual vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-taken",
+     "grounds": "prior action",
+     "morph": "absolutive (√nī)"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location for mantra placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "manuṃ",
+     "gloss": "mantra",
+     "grounds": "object to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.act (ni+√as)"
+    }
+   ],
+   "question": "How should the pot and sprinkling vessel be handled before placing the mantra in the heart?",
+   "premises": [
+    "The procedure follows the previous pattern.",
+    "The pot and sprinkling vessel are taken and the mantra is placed in the heart."
+   ],
+   "inference": "As before, having taken the pot and sprinkling vessel, one should place the mantra in the heart.",
+   "uncertainties": [],
+   "plain_english": "As before, having taken the pot and the sprinkling vessel, one should place the mantra in the heart."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "snāpayitvā",
+     "gloss": "having-bathed",
+     "grounds": "prior ritual action",
+     "morph": "absolutive (caus. √snā)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "manner of performance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādyādi+dvi+tri+bhāgikam",
+     "gloss": "foot-water-etc-two-or-three-parts",
+     "grounds": "division of offerings",
+     "morph": "compound: pādya+ādi+dvi+tri+bhāgika (n.acc.sg)"
+    }
+   ],
+   "question": "In what manner and division should the offerings beginning with foot-water be given after bathing?",
+   "premises": [
+    "Bathing is performed in proper order.",
+    "The offerings are divided into two or three parts."
+   ],
+   "inference": "After bathing in due order, one should give the offerings beginning with foot-water in two or three parts.",
+   "uncertainties": [],
+   "plain_english": "Having bathed in proper order, one should give the offerings beginning with foot-water in two or three parts."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "alternative manner of placement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayitvā",
+     "gloss": "having-placed",
+     "grounds": "prior ritual action",
+     "morph": "absolutive (caus. √sthā)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśīm",
+     "gloss": "goddess",
+     "grounds": "object of consecration",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhiṣecayet",
+     "gloss": "should-consecrate",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.caus.act (abhi+√sic)"
+    }
+   ],
+   "question": "What alternative placement allows the subsequent consecration of the goddess?",
+   "premises": [
+    "The goddess may be placed separately.",
+    "After placement, she is to be consecrated."
+   ],
+   "inference": "Having placed the goddess separately, one should then consecrate her.",
+   "uncertainties": [],
+   "plain_english": "Or, having placed the goddess separately, one should then consecrate her."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "citrādyaiḥ",
+     "gloss": "with-citrā-and-others",
+     "grounds": "substances or items used in bathing",
+     "morph": "compound: citrā+ādi (n.inst.pl)"
+    },
+    {
+     "surface": "darpaṇādyaiḥ",
+     "gloss": "with-mirror-and-others",
+     "grounds": "items used in bathing",
+     "morph": "compound: darpaṇa+ādi (m.inst.pl)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "should-bathe",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.opt.caus.act (√snā)"
+    },
+    {
+     "surface": "snapanoktavat",
+     "gloss": "as-prescribed-for-bathing",
+     "grounds": "manner of performance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what additional items should bathing be performed according to prescribed procedure?",
+   "premises": [
+    "Items beginning with citrā and mirrors are used.",
+    "The bathing follows the prescribed procedure."
+   ],
+   "inference": "One should bathe with citrā and other items and with mirrors and other items as prescribed for bathing.",
+   "uncertainties": [
+    "The exact items denoted by 'citrādyaiḥ' are not specified here."
+   ],
+   "plain_english": "One should bathe with citrā and other items and with mirrors and other items, as prescribed for bathing."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "dravyeṣu",
+     "gloss": "in-substances",
+     "grounds": "domain of variation",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "bhedāḥ",
+     "gloss": "difference",
+     "grounds": "negated distinction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "predicate of existence",
+     "morph": "3.sg.pres.act (√as)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā+bhedaḥ",
+     "gloss": "deity-difference",
+     "grounds": "distinction that is intended",
+     "morph": "compound: devatā+bheda (m.nom.sg)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-intended",
+     "grounds": "doctrinal assertion",
+     "morph": "3.sg.pres.pass (√iṣ)"
+    }
+   ],
+   "question": "What distinction is intended in this rite despite no difference in substances?",
+   "premises": [
+    "There is no difference in the substances used here.",
+    "A difference in deity is intended."
+   ],
+   "inference": "In this context, although substances do not differ, a distinction of deity is intended.",
+   "uncertainties": [],
+   "plain_english": "Here there is no difference in the substances, but a difference in deity is intended."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "dhārikādyāḥ",
+     "gloss": "dhārikā-and-others",
+     "grounds": "subjects of the statement",
+     "morph": "compound: dhārikā+ādi (f.nom.pl)"
+    },
+    {
+     "surface": "mahā+dīkṣuḥ",
+     "gloss": "great-initiation",
+     "grounds": "ritual qualification or state",
+     "morph": "compound: mahā+dīkṣā (f.nom.sg)"
+    },
+    {
+     "surface": "strī+pāṭhava+vaśam+āgatāḥ",
+     "gloss": "come-under-women-skill",
+     "grounds": "describes their condition or attainment",
+     "morph": "compound: strī+pāṭhava+vaśa+āgata (f.nom.pl)"
+    }
+   ],
+   "question": "What status do dhārikā and others attain through skill associated with women in great initiation?",
+   "premises": [
+    "Dhārikā and others are under discussion.",
+    "They have come under the influence of women's skill in the context of great initiation."
+   ],
+   "inference": "Dhārikā and others, in the great initiation, have come under the influence of women's skill.",
+   "uncertainties": [
+    "The precise ritual or doctrinal sense of 'strī+pāṭhava+vaśam+āgatāḥ' is unclear."
+   ],
+   "plain_english": "Dhārikā and others, in the great initiation, have come under the influence of women's skill."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "pṛthivyādyāḥ",
+     "gloss": "beginning-with-earth",
+     "grounds": "start of the series",
+     "morph": "compound: pṛthivī+ādi (f.nom.pl)"
+    },
+    {
+     "surface": "pradhānāntāḥ",
+     "gloss": "ending-with-pradhāna",
+     "grounds": "end of the series",
+     "morph": "compound: pradhāna+anta (f.nom.pl)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devāḥ",
+     "gloss": "deities",
+     "grounds": "entities located there",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "on-the-left",
+     "grounds": "location of the deities",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the deities from earth up to pradhāna located in this arrangement?",
+   "premises": [
+    "The series ranges from earth to pradhāna.",
+    "The deities of this series are located on the left."
+   ],
+   "inference": "There, the deities from earth up to pradhāna are situated on the left.",
+   "uncertainties": [],
+   "plain_english": "There, the deities from earth up to pradhāna are situated on the left."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanam",
+     "gloss": "bathing",
+     "grounds": "topic to be explained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "i-shall-tell",
+     "grounds": "authorial declaration",
+     "morph": "1.sg.fut.act (√vac)"
+    },
+    {
+     "surface": "kṣīrādyaiḥ",
+     "gloss": "with-milk-and-others",
+     "grounds": "substances used in bathing",
+     "morph": "compound: kṣīra+ādi (n.inst.pl)"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "o-best-of-twice-born",
+     "grounds": "vocative address to audience",
+     "morph": "compound: dvija+sattama (m.voc.pl)"
+    }
+   ],
+   "question": "What bathing procedure will be explained here using milk and other substances?",
+   "premises": [
+    "The speaker announces an explanation of bathing.",
+    "The bathing involves milk and other substances."
+   ],
+   "inference": "The speaker will explain here the bathing with milk and other substances to the best of the twice-born.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, I shall now explain here the bathing with milk and other substances."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "salilaiḥ",
+     "gloss": "with-waters",
+     "grounds": "substances used in bathing",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sat+phala+upetaiḥ",
+     "gloss": "endowed-with-good-fruits",
+     "grounds": "describes the waters",
+     "morph": "compound: sat+phala+upeta (n.inst.pl)"
+    },
+    {
+     "surface": "sat+ghaṭādiṣu",
+     "gloss": "in-good-pots-and-so-on",
+     "grounds": "containers for the waters",
+     "morph": "compound: sat+ghaṭa+ādi (m.loc.pl)"
+    },
+    {
+     "surface": "saṃsthitaiḥ",
+     "gloss": "placed",
+     "grounds": "describes the waters in the containers",
+     "morph": "n.inst.pl.past.part.pass (sam+√sthā)"
+    }
+   ],
+   "question": "What kind of waters and containers are specified for the bathing rite?",
+   "premises": [
+    "The waters are endowed with good fruits.",
+    "The waters are placed in good pots and similar containers."
+   ],
+   "inference": "The bathing should use waters endowed with good fruits and placed in good pots and so on.",
+   "uncertainties": [],
+   "plain_english": "With waters endowed with good fruits, placed in good pots and so on."
+  }
+ ]
+}

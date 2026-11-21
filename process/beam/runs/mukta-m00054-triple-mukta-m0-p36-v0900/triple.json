@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "tulasī",
+     "gloss": "holy-basil",
+     "grounds": "epithet or name referring to the sacred basil plant; nominative form in a series of divine names",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tulasīvaryā",
+     "gloss": "holy-basil-excellent",
+     "grounds": "compound epithet: tulasī (holy basil) + varyā (excellent, best); denotes preeminence associated with tulasī",
+     "morph": "compound: tulasī+varyā; f.nom.sg"
+    },
+    {
+     "surface": "tulajā",
+     "gloss": "balance-born",
+     "grounds": "compound epithet: tulā (balance, scale) + jā (born); denotes origin or arising from balance",
+     "morph": "compound: tulā+jā; f.nom.sg"
+    },
+    {
+     "surface": "tulajeśvarī",
+     "gloss": "balance-born-sovereign-lady",
+     "grounds": "compound epithet: tulajā (balance-born) + īśvarī (sovereign lady, mistress); denotes rulership over or identity as the balance-born",
+     "morph": "compound: tulajā+īśvarī; f.nom.sg"
+    }
+   ],
+   "question": "Which sacred and balance-born sovereign identities are ascribed to the goddess in these epithets?",
+   "premises": [
+    "The epithet tulasī identifies the goddess with the sacred basil.",
+    "The epithet tulasīvaryā attributes excellence connected to the sacred basil.",
+    "The epithets tulajā and tulajeśvarī attribute a balance-born origin and sovereign ladyship."
+   ],
+   "inference": "The goddess is praised through a sequence of names linking her to the sacred basil and to sovereign identity arising from balance.",
+   "uncertainties": [
+    "Whether tulā in tulajā and tulajeśvarī refers specifically to the zodiacal sign Libra, a weighing scale, or balance as an abstract principle is not determined by the verse alone."
+   ],
+   "plain_english": "She is Tulasī, the excellent Tulasī, the one born of balance, and the sovereign lady of those born of balance."
+  }
+ ]
+}

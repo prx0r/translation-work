@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p249",
+ "items": [
+  {
+   "verse": 6225,
+   "rows": [
+    {
+     "surface": "dviguṇāntaṃ",
+     "gloss": "up-to-double",
+     "grounds": "compound of dviguṇa (double) and anta (end, limit)",
+     "morph": "compound.adj.n.nom.sg"
+    },
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "to-be-prescribed",
+     "grounds": "gerundive of vi-dhā (to prescribe, arrange)",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative of as (to be)",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "āyāme",
+     "gloss": "in-length",
+     "grounds": "āyāma (length, extension)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "apyevam",
+     "gloss": "also-thus",
+     "grounds": "indeclinable combination of api (also) and evam (thus)",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īrtam",
+     "gloss": "declared",
+     "grounds": "past passive participle of īr (to declare, state)",
+     "morph": "ppp.n.nom.sg"
+    }
+   ],
+   "question": "What maximum limit is prescribed for the length of the throne?",
+   "premises": [
+    "The length of the throne may be extended.",
+    "The prescribed extension reaches up to double the measure.",
+    "This rule is also declared in the same manner."
+   ],
+   "inference": "The throne's length may be prescribed to extend up to twice its base measure.",
+   "uncertainties": [],
+   "plain_english": "In length it should be prescribed to extend up to double, as has also been thus declared."
+  }
+ ]
+}

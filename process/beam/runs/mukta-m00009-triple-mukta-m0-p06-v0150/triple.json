@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "avyaktam",
+     "gloss": "unmanifest",
+     "grounds": "subtle principle included in the enumeration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "adds another item to the series",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "letters",
+     "grounds": "phonetic elements enumerated",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hādiṭāntāḥ",
+     "gloss": "beginning-with-ha-ending-with-ṭa",
+     "grounds": "compound specifying the range of letters",
+     "morph": "m.nom.pl (bahuvrīhi)"
+    },
+    {
+     "surface": "vilomataḥ",
+     "gloss": "in-reverse-order",
+     "grounds": "indicates the sequence is taken backward",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What subtle principle and which sequence of letters are added to the ongoing enumeration?",
+   "premises": [
+    "The unmanifest principle is included as an additional item.",
+    "A set of letters is included in the enumeration.",
+    "These letters range from ha to ṭa in reverse order."
+   ],
+   "inference": "The enumeration extends to include the unmanifest and the letters from ha to ṭa taken in reverse order.",
+   "uncertainties": [],
+   "plain_english": "Also the unmanifest, and the letters from ha to ṭa in reverse order."
+  }
+ ]
+}

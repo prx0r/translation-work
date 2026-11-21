@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4300,
+   "rows": [
+    {
+     "surface": "dhārayet",
+     "gloss": "should-hold",
+     "grounds": "optative of root dhṛ, third person singular active",
+     "morph": "verb.3.sg.act-opt (dhṛ)"
+    },
+    {
+     "surface": "siddhavajram",
+     "gloss": "siddha-vajra",
+     "grounds": "compound siddha+vajra in accusative singular neuter",
+     "morph": "compound (siddha+vajra), noun.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samasteṣu",
+     "gloss": "in-all",
+     "grounds": "locative plural masculine/neuter",
+     "morph": "loc.pl.m/n"
+    },
+    {
+     "surface": "prasiddhaye",
+     "gloss": "for-fame",
+     "grounds": "dative singular feminine",
+     "morph": "noun.dat.sg.f"
+    }
+   ],
+   "question": "What should be held in all circumstances for achieving fame?",
+   "premises": [
+    "siddha-vajra should be held",
+    "holding occurs in all",
+    "purpose is fame"
+   ],
+   "inference": "The practitioner should hold the siddha-vajra in all contexts to attain fame.",
+   "uncertainties": [
+    "exact ritual referent of siddha-vajra is not specified in this verse"
+   ],
+   "plain_english": "One should hold the siddha-vajra in all things for fame."
+  }
+ ]
+}

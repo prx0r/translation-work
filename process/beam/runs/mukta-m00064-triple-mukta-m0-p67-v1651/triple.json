@@ -1,0 +1,1165 @@
+{
+ "song": "mukta-m0-p67",
+ "items": [
+  {
+   "verse": 1651,
+   "rows": [
+    {
+     "surface": "chando",
+     "gloss": "metre",
+     "grounds": "metrical designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "anuṣṭup",
+     "gloss": "anuṣṭubh",
+     "grounds": "name of metre",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavo",
+     "gloss": "Bhava",
+     "grounds": "name of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudro",
+     "gloss": "Rudra",
+     "grounds": "name of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "deity",
+     "grounds": "divine being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣṭa+arthe",
+     "gloss": "desired-purpose",
+     "grounds": "compound: desired+purpose",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viniyojayet",
+     "gloss": "one-should-employ",
+     "grounds": "ritual application",
+     "morph": "3.sg.opt.act √ni-yuj"
+    }
+   ],
+   "question": "Which metre and deities should be employed for the desired ritual purpose?",
+   "premises": [
+    "The metre is anuṣṭubh.",
+    "Bhava and Rudra are the deities.",
+    "They should be employed for the desired purpose."
+   ],
+   "inference": "Anuṣṭubh metre with Bhava and Rudra is prescribed for the intended ritual aim.",
+   "uncertainties": [],
+   "plain_english": "The metre is anuṣṭubh, the deities are Bhava and Rudra; one should employ them for the desired purpose."
+  },
+  {
+   "verse": 1652,
+   "rows": [
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mṛga",
+     "gloss": "deer",
+     "grounds": "part of name or location",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "stham",
+     "gloss": "situated",
+     "grounds": "located in",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What supreme entity situated in Mṛga is being designated here?",
+   "premises": [
+    "A supreme entity is indicated.",
+    "It is situated in Mṛga.",
+    "The reference is to a specific divine presence."
+   ],
+   "inference": "The supreme one situated in Mṛga is identified as the object of reference.",
+   "uncertainties": [
+    "The exact referent of mṛga-stha is context-dependent."
+   ],
+   "plain_english": "The supreme one situated in Mṛga."
+  },
+  {
+   "verse": 1653,
+   "rows": [
+    {
+     "surface": "saṃjñam",
+     "gloss": "named",
+     "grounds": "bearing the name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmanaṃ",
+     "gloss": "Vāmana",
+     "grounds": "name of deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāla+saṃjñam",
+     "gloss": "time-named",
+     "grounds": "compound: time+named",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deities named Vāmana and Kāla are to be invoked afterwards?",
+   "premises": [
+    "Afterwards a god is named.",
+    "The god is Vāmana.",
+    "Another is named Kāla."
+   ],
+   "inference": "The deities Vāmana and Kāla are to be invoked in sequence.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, the god named Vāmana and the one named Kāla."
+  },
+  {
+   "verse": 1654,
+   "rows": [
+    {
+     "surface": "svaiḥ+mantraiḥ",
+     "gloss": "with-own-mantras",
+     "grounds": "compound: own+mantras",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "svīya+kalpa+uditaiḥ",
+     "gloss": "with-own-ritual-declared",
+     "grounds": "compound: own+ritual-manual+declared",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what mantras and ritual prescriptions should these deities be worshipped?",
+   "premises": [
+    "Worship uses their own mantras.",
+    "It also uses prescriptions declared in their own ritual manuals.",
+    "Both are to be applied together."
+   ],
+   "inference": "The deities are to be worshipped with their own mantras and ritual prescriptions.",
+   "uncertainties": [],
+   "plain_english": "With their own mantras and with those declared in their own ritual manuals."
+  },
+  {
+   "verse": 1655,
+   "rows": [
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "maṅgalā",
+     "gloss": "Maṅgalā",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "divine female",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "etat+madhyatamaṃ",
+     "gloss": "this-middle",
+     "grounds": "compound: this+middle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which goddess is located in the northeast as the central point, beloved?",
+   "premises": [
+    "The direction specified is the northeast.",
+    "The goddess Maṅgalā is present there.",
+    "This location is described as the middle."
+   ],
+   "inference": "Goddess Maṅgalā is situated in the northeast as the central point.",
+   "uncertainties": [],
+   "plain_english": "In the northeast is the goddess Maṅgalā; this is the middle, O beloved."
+  },
+  {
+   "verse": 1656,
+   "rows": [
+    {
+     "surface": "dakṣa+vaktre",
+     "gloss": "in-south-face",
+     "grounds": "compound: south+face",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmeśīṃ",
+     "gloss": "Kāmeśī",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hayagrīvam",
+     "gloss": "Hayagrīva",
+     "grounds": "name of deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which deities are placed in the southern face and in the west?",
+   "premises": [
+    "Kāmeśī is in the southern face.",
+    "Hayagrīva is in the west.",
+    "Both placements are specified."
+   ],
+   "inference": "Kāmeśī occupies the southern face and Hayagrīva occupies the west.",
+   "uncertainties": [],
+   "plain_english": "In the southern face is Kāmeśī, and in the west is Hayagrīva."
+  },
+  {
+   "verse": 1657,
+   "rows": [
+    {
+     "surface": "pūrva+vaktre",
+     "gloss": "in-east-face",
+     "grounds": "compound: east+face",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "virajā",
+     "gloss": "Virajā",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kauśala+udbhavam",
+     "gloss": "born-of-Kauśala",
+     "grounds": "compound: Kauśala+born",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deities are located in the eastern face and in the north?",
+   "premises": [
+    "Virajā is in the eastern face.",
+    "One born of Kauśala is in the north.",
+    "Both locations are given."
+   ],
+   "inference": "Virajā is in the east and the one born of Kauśala is in the north.",
+   "uncertainties": [
+    "The identity of kauśala-udbhava is not explicit."
+   ],
+   "plain_english": "In the eastern face is Virajā, and in the north is the one born of Kauśala."
+  },
+  {
+   "verse": 1658,
+   "rows": [
+    {
+     "surface": "ramaṇāyāḥ",
+     "gloss": "of-Ramaṇā",
+     "grounds": "name of place or river",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "samudbhūtaṃ",
+     "gloss": "arisen",
+     "grounds": "originated from",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pool",
+     "grounds": "sacred pool",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaśataṃ",
+     "gloss": "five-hundred",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the measure of the pool arisen from Ramaṇā?",
+   "premises": [
+    "A pool has arisen from Ramaṇā.",
+    "Its measure is given as five hundred and hundred.",
+    "The numbers specify its extent."
+   ],
+   "inference": "The pool arisen from Ramaṇā measures six hundred units.",
+   "uncertainties": [
+    "The exact unit of pañcaśataṃ śatam is unclear."
+   ],
+   "plain_english": "The pool arisen from Ramaṇā measures five hundred and one hundred."
+  },
+  {
+   "verse": 1659,
+   "rows": [
+    {
+     "surface": "bhūmi+antara+sthaṃ",
+     "gloss": "earth-interior-situated",
+     "grounds": "compound: earth+interior+situated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣañ",
+     "gloss": "hundred-thousand",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sārdha+lakṣaṃ",
+     "gloss": "with-half-hundred-thousand",
+     "grounds": "compound: with-half+hundred-thousand",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What measures are assigned to what is situated underground and in water, beloved?",
+   "premises": [
+    "What is situated inside the earth measures one hundred thousand.",
+    "What is in water measures one and a half hundred thousand.",
+    "Both measures are stated."
+   ],
+   "inference": "The underground extent is one lakh and the water extent is one and a half lakh.",
+   "uncertainties": [
+    "The units being measured are not explicitly named."
+   ],
+   "plain_english": "What is situated inside the earth is one hundred thousand, and in water one and a half hundred thousand, O beloved."
+  },
+  {
+   "verse": 1660,
+   "rows": [
+    {
+     "surface": "bhūmi+pīṭhe",
+     "gloss": "on-earth-platform",
+     "grounds": "compound: earth+platform",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sapta+lakṣaṃ",
+     "gloss": "seven-hundred-thousand",
+     "grounds": "compound: seven+hundred-thousand",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vṛkṣa+mūle",
+     "gloss": "at-tree-root",
+     "grounds": "compound: tree+root",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣakam",
+     "gloss": "hundred-thousand",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measures are assigned to the earth platform and the tree root?",
+   "premises": [
+    "On the earth platform the measure is seven hundred thousand.",
+    "At the tree root the measure is one hundred thousand.",
+    "Different locations have different measures."
+   ],
+   "inference": "The earth platform has seven lakh and the tree root has one lakh.",
+   "uncertainties": [
+    "The units being measured are not explicitly named."
+   ],
+   "plain_english": "On the earth platform it is seven hundred thousand, but at the tree root one hundred thousand."
+  },
+  {
+   "verse": 1661,
+   "rows": [
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight",
+     "grounds": "junction time",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sandhyā+aṃśake",
+     "gloss": "at-twilight-portion",
+     "grounds": "compound: twilight+portion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pool",
+     "grounds": "sacred pool",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lauhitya+pāvanam",
+     "gloss": "Lauhitya-purifying",
+     "grounds": "compound: Lauhitya+purifying",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which purifying pool is associated with the twilight portion of twilight?",
+   "premises": [
+    "The context is twilight and its portion.",
+    "A pool is identified.",
+    "The pool is purifying like Lauhitya."
+   ],
+   "inference": "The Lauhitya-purifying pool is associated with the twilight portion.",
+   "uncertainties": [
+    "The precise temporal sense of sandhyā sandhyā-aṃśake is ambiguous."
+   ],
+   "plain_english": "At twilight, in the portion of twilight, there is the pool purifying as Lauhitya."
+  },
+  {
+   "verse": 1662,
+   "rows": [
+    {
+     "surface": "tri+aṃśe",
+     "gloss": "in-third-part",
+     "grounds": "compound: three+part",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sandhyā+aṃśake",
+     "gloss": "at-twilight-portion",
+     "grounds": "compound: twilight+portion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdro",
+     "gloss": "śūdra",
+     "grounds": "social class",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "nṛpaḥ",
+     "gloss": "king",
+     "grounds": "ruler",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "At what temporal division is a śūdra said to become king?",
+   "premises": [
+    "The time is the third part of the twilight portion.",
+    "A condition is stated for when a śūdra becomes king.",
+    "This marks a specific epochal moment."
+   ],
+   "inference": "A śūdra becomes king in the third part of the twilight portion.",
+   "uncertainties": [
+    "The cosmological framework of the time divisions is implicit."
+   ],
+   "plain_english": "In the third part of the twilight portion, when a śūdra becomes king."
+  },
+  {
+   "verse": 1663,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "final part",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śākeśvarī",
+     "gloss": "Śākeśvarī",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sphuṭitā",
+     "gloss": "manifested",
+     "grounds": "become visible",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyame+aṃśake",
+     "gloss": "in-middle-part",
+     "grounds": "compound: middle+part",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "At which temporal part is Śākeśvarī not manifested and at which is she manifested?",
+   "premises": [
+    "At the end Śākeśvarī is not manifested.",
+    "She is manifested in the middle part.",
+    "The manifestation depends on the time division."
+   ],
+   "inference": "Śākeśvarī is not manifested at the end but is manifested in the middle part.",
+   "uncertainties": [],
+   "plain_english": "At the end Śākeśvarī is not manifested; she is manifested in the middle part."
+  },
+  {
+   "verse": 1664,
+   "rows": [
+    {
+     "surface": "bhū+śāke",
+     "gloss": "in-earth-era",
+     "grounds": "compound: earth+era",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mādhavo",
+     "gloss": "Mādhava",
+     "grounds": "name of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyaktaḥ",
+     "gloss": "manifest",
+     "grounds": "become visible",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sudhā+aṃśe",
+     "gloss": "in-nectar-part",
+     "grounds": "compound: nectar+part",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "virajā",
+     "gloss": "Virajā",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which deities become manifest in the earth era and in the nectar part, beloved?",
+   "premises": [
+    "Mādhava becomes manifest in the earth era.",
+    "Virajā becomes manifest in the nectar part.",
+    "Both manifestations are specified."
+   ],
+   "inference": "Mādhava manifests in the earth era and Virajā manifests in the nectar part.",
+   "uncertainties": [
+    "The terms bhū-śāka and sudhā-aṃśa are era-specific."
+   ],
+   "plain_english": "In the earth era Mādhava is manifest, and in the nectar part Virajā, O beloved."
+  },
+  {
+   "verse": 1665,
+   "rows": [
+    {
+     "surface": "vāyavye",
+     "gloss": "in-northwest",
+     "grounds": "direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "māna+śailasya",
+     "gloss": "of-Māna-mountain",
+     "grounds": "compound: Māna+mountain",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "varāho",
+     "gloss": "Varāha",
+     "grounds": "name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "by name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvataḥ",
+     "gloss": "mountain",
+     "grounds": "mountain",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mountain named Varāha is located in the northwest of Māna mountain?",
+   "premises": [
+    "The location is northwest of Māna mountain.",
+    "A mountain is named Varāha.",
+    "Its position is specified."
+   ],
+   "inference": "The mountain named Varāha lies in the northwest of Māna mountain.",
+   "uncertainties": [],
+   "plain_english": "In the northwest of Māna mountain is a mountain named Varāha."
+  },
+  {
+   "verse": 1666,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previous mountain",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pūrva+dakṣiṇe",
+     "gloss": "in-east-south",
+     "grounds": "compound: east+south",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nara+nārāyaṇaṃ",
+     "gloss": "Nara-Nārāyaṇa",
+     "grounds": "compound: Nara+Nārāyaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saraḥ",
+     "gloss": "lake",
+     "grounds": "sacred lake",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What lake is located to the southeast of that mountain?",
+   "premises": [
+    "The reference is to that mountain.",
+    "The direction is southeast.",
+    "The lake is named Nara-Nārāyaṇa."
+   ],
+   "inference": "The Nara-Nārāyaṇa lake is located to the southeast of that mountain.",
+   "uncertainties": [],
+   "plain_english": "To its southeast is the Nara-Nārāyaṇa lake."
+  },
+  {
+   "verse": 1667,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the lake",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "paścima+tīre",
+     "gloss": "on-west-bank",
+     "grounds": "compound: west+bank",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṅgaṃ",
+     "gloss": "liṅga",
+     "grounds": "sacred emblem",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "someśvaraṃ",
+     "gloss": "Someśvara",
+     "grounds": "name of liṅga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haram",
+     "gloss": "Hara",
+     "grounds": "name of Śiva",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What supreme liṅga of Hara is situated on the western bank of that lake?",
+   "premises": [
+    "The location is the western bank of that lake.",
+    "A liṅga named Someśvara is present.",
+    "It is identified as supreme Hara."
+   ],
+   "inference": "The supreme Someśvara liṅga of Hara is on the western bank of that lake.",
+   "uncertainties": [],
+   "plain_english": "On its western bank is the supreme liṅga Someśvara, Hara."
+  },
+  {
+   "verse": 1668,
+   "rows": [
+    {
+     "surface": "sevanāt",
+     "gloss": "from-worship",
+     "grounds": "by serving",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kṛta+piṇḍānāṃ",
+     "gloss": "of-those-who-offered-piṇḍas",
+     "grounds": "compound: done+piṇḍas",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pāpa+jit",
+     "gloss": "sin-conquering",
+     "grounds": "compound: sin+conquering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāma+daṃ",
+     "gloss": "desire-giving",
+     "grounds": "compound: desire+giving",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-men",
+     "grounds": "for people",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What benefits does worship there confer on men who have offered piṇḍas?",
+   "premises": [
+    "Worship there benefits those who have offered piṇḍas.",
+    "It conquers sin.",
+    "It grants desires to men."
+   ],
+   "inference": "Worship at that place conquers sin and grants desires to men who have offered piṇḍas.",
+   "uncertainties": [],
+   "plain_english": "By worship there, for men who have offered piṇḍas, it conquers sin and grants desires."
+  },
+  {
+   "verse": 1669,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śata+dhanuḥ+āyāmaṃ",
+     "gloss": "hundred-bow-extent",
+     "grounds": "compound: hundred+bow+extent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prabhāsaṃ",
+     "gloss": "Prabhāsa",
+     "grounds": "name of sacred place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "sacred-place",
+     "grounds": "holy site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "highest",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the extent and status of the sacred place called Prabhāsa?",
+   "premises": [
+    "The place is called Prabhāsa.",
+    "Its extent is one hundred bows.",
+    "It is a supreme sacred place."
+   ],
+   "inference": "Prabhāsa is a supreme sacred place extending one hundred bows.",
+   "uncertainties": [],
+   "plain_english": "That supreme sacred place Prabhāsa extends one hundred bows."
+  },
+  {
+   "verse": 1670,
+   "rows": [
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-place",
+     "grounds": "holy site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bindu+saraḥ",
+     "gloss": "Bindu-lake",
+     "grounds": "compound: Bindu+lake",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "holy",
+     "grounds": "meritorious",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "snānāt",
+     "gloss": "from-bathing",
+     "grounds": "by bathing",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "pātaka+nāśanam",
+     "gloss": "sin-destroying",
+     "grounds": "compound: sin+destroying",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What purifying effect does bathing at the sacred place Bindu-saras produce?",
+   "premises": [
+    "Bindu-saras is a holy sacred place.",
+    "Bathing there has an effect.",
+    "That effect is the destruction of sin."
+   ],
+   "inference": "Bathing at the holy Bindu-saras destroys sin.",
+   "uncertainties": [],
+   "plain_english": "The holy sacred place Bindu-saras destroys sin by bathing."
+  },
+  {
+   "verse": 1671,
+   "rows": [
+    {
+     "surface": "bhūliṅge",
+     "gloss": "at-Bhūliṅga",
+     "grounds": "place name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "exists",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "koṭījyā",
+     "gloss": "Koṭījyā",
+     "grounds": "name of sacred place or river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "amutra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarasvatī",
+     "gloss": "Sarasvatī",
+     "grounds": "name of river or goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which sacred presences are located at Bhūliṅga and there as Sarasvatī?",
+   "premises": [
+    "At Bhūliṅga there may be Koṭījyā.",
+    "There is also Sarasvatī.",
+    "Both are named as present."
+   ],
+   "inference": "Koṭījyā is at Bhūliṅga and Sarasvatī is there as well.",
+   "uncertainties": [
+    "The exact identification of Koṭījyā is unclear."
+   ],
+   "plain_english": "At Bhūliṅga there is Koṭījyā, and there also is Sarasvatī."
+  },
+  {
+   "verse": 1672,
+   "rows": [
+    {
+     "surface": "nāṭakā+acala+pūrve",
+     "gloss": "east-of-Nāṭakā-mountain",
+     "grounds": "compound: Nāṭakā+mountain+east",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataṅgo",
+     "gloss": "Mataṅga",
+     "grounds": "name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "by name",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvataḥ",
+     "gloss": "mountain",
+     "grounds": "mountain",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mountain named Mataṅga lies east of the Nāṭakā mountain?",
+   "premises": [
+    "The location is east of Nāṭakā mountain.",
+    "A mountain is named Mataṅga.",
+    "Its position is specified."
+   ],
+   "inference": "The mountain named Mataṅga lies east of Nāṭakā mountain.",
+   "uncertainties": [],
+   "plain_english": "East of the Nāṭakā mountain is a mountain named Mataṅga."
+  },
+  {
+   "verse": 1673,
+   "rows": [
+    {
+     "surface": "antaḥ+gṛha+mṛtā",
+     "gloss": "inside-house-died",
+     "grounds": "compound: inside+house+died",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "they-go",
+     "grounds": "attain",
+     "morph": "3.pl.pres.act √yā"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "Brahman",
+     "grounds": "ultimate reality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sanātanam",
+     "gloss": "eternal",
+     "grounds": "everlasting",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What spiritual destination is attained by those who die inside the house?",
+   "premises": [
+    "Some die inside the house.",
+    "They go to a destination.",
+    "That destination is eternal Brahman."
+   ],
+   "inference": "Those who die inside the house attain eternal Brahman.",
+   "uncertainties": [
+    "The specific 'house' referred to is context-dependent."
+   ],
+   "plain_english": "Those who die inside the house go to the eternal Brahman."
+  },
+  {
+   "verse": 1674,
+   "rows": [
+    {
+     "surface": "maṇi+śaile",
+     "gloss": "on-Maṇi-mountain",
+     "grounds": "compound: Maṇi+mountain",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "dwelling",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "died",
+     "grounds": "deceased",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "a+punarbhavāḥ",
+     "gloss": "without-rebirth",
+     "grounds": "compound: not+rebirth",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What liberation is attained by those who dwell or die on Maṇi mountain?",
+   "premises": [
+    "Some are situated on Maṇi mountain.",
+    "Some die there.",
+    "They are without rebirth."
+   ],
+   "inference": "Those who dwell or die on Maṇi mountain attain freedom from rebirth.",
+   "uncertainties": [],
+   "plain_english": "Those who are situated on Maṇi mountain and those who die there are without rebirth."
+  }
+ ]
+}

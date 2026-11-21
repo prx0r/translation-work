@@ -1,0 +1,69 @@
+{
+ "song": "net-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "naivedyaiḥ",
+     "gloss": "food-offerings",
+     "grounds": "instrumental plural of naivedya",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "baliḥ",
+     "gloss": "offering",
+     "grounds": "nominative singular of bali",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "instrumental singular of tad",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sahitaiḥ",
+     "gloss": "together-with",
+     "grounds": "instrumental plural of sahita",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "āsavaiḥ",
+     "gloss": "liquors",
+     "grounds": "instrumental plural of āsava",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbandhaḥ",
+     "gloss": "connection",
+     "grounds": "nominative singular of saṃbandha",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the bali connected with naivedyas and liquors?",
+   "premises": [
+    "Bali is offered with naivedyas.",
+    "Liquors accompany that offering.",
+    "Thus the connection is stated."
+   ],
+   "inference": "The bali is linked to naivedyas and liquors as accompanying offerings.",
+   "uncertainties": [
+    "Exact ritual scope of bali remains unspecified."
+   ],
+   "plain_english": "The bali, together with food offerings and liquors—thus is the connection."
+  }
+ ]
+}

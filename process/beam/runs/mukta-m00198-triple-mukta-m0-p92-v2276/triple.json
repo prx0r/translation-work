@@ -1,0 +1,1091 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2276,
+   "rows": [
+    {
+     "surface": "adhiṣṭhānodaye",
+     "gloss": "on-foundation-rise",
+     "grounds": "locative compound indicating the rise or height of the foundation",
+     "morph": "compound loc.sg.n"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brahmin",
+     "grounds": "vocative address to the brahmin",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "stambhamānavadācaret",
+     "gloss": "act-like-pillar-measure",
+     "grounds": "optative verb with comparative sense prescribing action according to pillar measure",
+     "morph": "3.sg.optative + ā-car"
+    }
+   ],
+   "question": "How should one act regarding the foundation rise in relation to the pillar measure?",
+   "premises": [
+    "The context concerns the rise of the foundation.",
+    "The brahmin is being instructed.",
+    "Action should follow the measure of the pillar."
+   ],
+   "inference": "One should regulate conduct according to the pillar measure when the foundation rises.",
+   "uncertainties": [],
+   "plain_english": "O brahmin, when the foundation rises, one should act according to the measure of the pillar."
+  },
+  {
+   "verse": 2277,
+   "rows": [
+    {
+     "surface": "navahastavidhiryāvat",
+     "gloss": "as-far-as-nine-cubit-rule",
+     "grounds": "compound with relative extent indicating up to a nine-cubit rule",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "noun indicating count or enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭi",
+     "gloss": "sixty",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "with",
+     "grounds": "prefixal element in compound context indicating inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcakam",
+     "gloss": "group-of-five",
+     "grounds": "noun indicating a set of five",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What numerical extent is specified for the rule up to nine cubits?",
+   "premises": [
+    "The rule extends up to nine cubits.",
+    "A number is being stated.",
+    "The count given is sixty with five."
+   ],
+   "inference": "The specified number for the rule up to nine cubits is sixty-five.",
+   "uncertainties": [
+    "The exact syntactic relation of sa and paṃcakam to ṣaṣṭi is compressed in the text."
+   ],
+   "plain_english": "As far as the nine-cubit rule goes, the number is sixty-five."
+  },
+  {
+   "verse": 2278,
+   "rows": [
+    {
+     "surface": "paṃcahastādadho",
+     "gloss": "below-five-cubits",
+     "grounds": "compound indicating a position below five cubits",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "harmyaṃ",
+     "gloss": "temple",
+     "grounds": "noun referring to the temple structure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "noun referring to the linga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "stambhavaśaṃ",
+     "gloss": "dependent-on-pillar",
+     "grounds": "compound indicating dependence on the pillar",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "postposition indicating absence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What applies to the temple and linga below five cubits regarding pillar dependence?",
+   "premises": [
+    "The measure considered is below five cubits.",
+    "Both temple and linga are mentioned.",
+    "Dependence on the pillar is negated."
+   ],
+   "inference": "Below five cubits, the temple and linga are not dependent on the pillar.",
+   "uncertainties": [],
+   "plain_english": "Below five cubits, the temple and the linga are without dependence on the pillar."
+  },
+  {
+   "verse": 2279,
+   "rows": [
+    {
+     "surface": "trihastaṃ",
+     "gloss": "three-cubits",
+     "grounds": "compound indicating a measure of three cubits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭkarāntaṃ",
+     "gloss": "up-to-six-hands",
+     "grounds": "compound indicating an upper limit of six hands",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "noun referring to the linga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chanda",
+     "gloss": "optional",
+     "grounds": "element indicating choice or optional form in compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vimānake",
+     "gloss": "in-shrine",
+     "grounds": "locative noun referring to the shrine",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What range of linga size is prescribed for an optional shrine?",
+   "premises": [
+    "The linga measure ranges from three cubits to six hands.",
+    "The context is an optional shrine.",
+    "The specification is being stated."
+   ],
+   "inference": "In an optional shrine, the linga should measure from three cubits up to six hands.",
+   "uncertainties": [
+    "The exact equivalence between hasta and kara in this context is assumed."
+   ],
+   "plain_english": "But in an optional shrine, the linga should be from three cubits up to six hands."
+  },
+  {
+   "verse": 2280,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb summarizing what precedes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "cubit-measure",
+     "grounds": "noun referring to the cubit as a unit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating something has been explained",
+     "morph": "n.nom.sg.past-participle + sam-ā-khyā"
+    },
+    {
+     "surface": "tālamānam",
+     "gloss": "tala-measure",
+     "grounds": "compound noun referring to the tala measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle introducing a new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-stated",
+     "grounds": "present passive verb introducing explanation",
+     "morph": "3.sg.present.passive + vac"
+    }
+   ],
+   "question": "What transition is made after declaring the cubit measure in the text?",
+   "premises": [
+    "The cubit measure has been declared.",
+    "A new topic is introduced.",
+    "The tala measure is now to be stated."
+   ],
+   "inference": "After explaining the cubit measure, the text proceeds to explain the tala measure.",
+   "uncertainties": [],
+   "plain_english": "Thus the cubit measure has been declared; now the tala measure is stated."
+  },
+  {
+   "verse": 2281,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "liṃgo",
+     "gloss": "linga",
+     "grounds": "noun referring to the linga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "navasaṃkhyā",
+     "gloss": "nine-in-number",
+     "grounds": "compound indicating a count of nine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "optative verb expressing possibility",
+     "morph": "3.pl.optative + as"
+    },
+    {
+     "surface": "kalpyajātir",
+     "gloss": "optional-class",
+     "grounds": "compound indicating an optional or constructed class",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atho",
+     "gloss": "and-also",
+     "grounds": "particle combining continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative verb expressing possibility",
+     "morph": "3.sg.optative + bhū"
+    }
+   ],
+   "question": "What numerical classification is allowed for the linga as an optional class?",
+   "premises": [
+    "The linga is being classified.",
+    "A number nine is mentioned.",
+    "The class is described as optional."
+   ],
+   "inference": "The linga may be of nine kinds as an optional class.",
+   "uncertainties": [
+    "Agreement between sā liṃgo and navasaṃkhyā is irregular in the transmitted form."
+   ],
+   "plain_english": "That linga may be nine in number, and it may also be of an optional class."
+  },
+  {
+   "verse": 2282,
+   "rows": [
+    {
+     "surface": "tadekānaikabhāgaṃ",
+     "gloss": "that-less-one-part",
+     "grounds": "compound indicating one part less than that",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃgamānāṃgulena",
+     "gloss": "by-linga-measure-finger",
+     "grounds": "instrumental compound indicating measurement by linga finger units",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle for emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the linga measure adjusted using the linga finger unit?",
+   "premises": [
+    "An adjustment of one part less is indicated.",
+    "The unit used is the linga finger measure.",
+    "The instruction concerns linga measurement."
+   ],
+   "inference": "The linga measure should be taken as one part less using the linga finger unit.",
+   "uncertainties": [
+    "The precise referent of tad in tadekānaikabhāgaṃ depends on prior context."
+   ],
+   "plain_english": "And indeed, take it as one part less than that, using the linga finger measure."
+  },
+  {
+   "verse": 2283,
+   "rows": [
+    {
+     "surface": "hastamānātkṣayaṃ",
+     "gloss": "reduced-from-cubit-measure",
+     "grounds": "compound indicating reduction from the cubit measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "noun referring to the linga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vṛttākāraṃ",
+     "gloss": "round-shaped",
+     "grounds": "compound describing circular form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb indicating emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What form and reduction are especially prescribed for the linga relative to cubit measure?",
+   "premises": [
+    "The linga is reduced from the cubit measure.",
+    "The linga is described as round-shaped.",
+    "This is stated with special emphasis."
+   ],
+   "inference": "The linga should especially be made round and reduced from the cubit measure.",
+   "uncertainties": [],
+   "plain_english": "Especially, the linga should be round in shape and reduced from the cubit measure."
+  },
+  {
+   "verse": 2284,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "noun indicating what remains",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛśyamānaṃ",
+     "gloss": "visible",
+     "grounds": "present participle indicating what is seen",
+     "morph": "n.nom.sg.present-participle + dṛś"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.optative + as"
+    },
+    {
+     "surface": "vikalpābhāsa",
+     "gloss": "optional-appearance",
+     "grounds": "compound indicating an appearance of option or variation",
+     "morph": "compound nom.sg.n"
+    },
+    {
+     "surface": "harmyake",
+     "gloss": "in-temple",
+     "grounds": "locative noun referring to the temple",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should the remaining visible portion appear in the temple context?",
+   "premises": [
+    "A remainder is under consideration.",
+    "It is described as visible.",
+    "The context is the temple."
+   ],
+   "inference": "The remaining visible portion in the temple should have an optional appearance.",
+   "uncertainties": [
+    "The technical sense of vikalpābhāsa in this ritual context is not fully explicit."
+   ],
+   "plain_english": "But the remainder, as visible in the temple, should have an optional appearance."
+  },
+  {
+   "verse": 2285,
+   "rows": [
+    {
+     "surface": "ekāṃgulaṃ",
+     "gloss": "one-finger",
+     "grounds": "compound indicating a measure of one finger",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "beginning-from",
+     "grounds": "gerund indicating starting point",
+     "morph": "(indecl.) gerund + sam-ā-rabh"
+    },
+    {
+     "surface": "yāvadrudrāṃgulāvadhi",
+     "gloss": "up-to-rudra-fingers-limit",
+     "grounds": "compound indicating extent up to eleven fingers",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of finger measures is specified starting from one finger?",
+   "premises": [
+    "The starting point is one finger.",
+    "An upper limit is given as rudra fingers.",
+    "The range is being defined."
+   ],
+   "inference": "The measure ranges from one finger up to the limit of rudra fingers.",
+   "uncertainties": [
+    "rudrāṃgula is taken as eleven fingers by convention but not stated explicitly here."
+   ],
+   "plain_english": "Beginning from one finger, up to the limit of the rudra fingers."
+  },
+  {
+   "verse": 2286,
+   "rows": [
+    {
+     "surface": "trayodaśāṃgulādhastāt",
+     "gloss": "below-thirteen-fingers",
+     "grounds": "compound indicating below thirteen fingers",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śailajaṃ",
+     "gloss": "stone-born",
+     "grounds": "compound indicating made of stone",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "optative causative verb prescribing action",
+     "morph": "3.sg.optative.causative + kṛ"
+    }
+   ],
+   "question": "What restriction applies to making a stone linga below thirteen fingers?",
+   "premises": [
+    "The size considered is below thirteen fingers.",
+    "The linga is stone-born.",
+    "A prohibition is stated."
+   ],
+   "inference": "One should not make a stone linga below thirteen fingers.",
+   "uncertainties": [],
+   "plain_english": "But one should not make a stone linga below thirteen fingers."
+  },
+  {
+   "verse": 2287,
+   "rows": [
+    {
+     "surface": "nāgaraṃ",
+     "gloss": "nagara",
+     "grounds": "name of a linga style",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "drāviḍaṃ",
+     "gloss": "dravida",
+     "grounds": "name of a linga style",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "noun referring to the linga",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara",
+     "grounds": "name of a linga style",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadāmyaham",
+     "gloss": "i-speak",
+     "grounds": "verb with pronoun indicating the speaker's declaration",
+     "morph": "1.sg.present.active + vad"
+    }
+   ],
+   "question": "Which types of linga does the speaker declare in this passage?",
+   "premises": [
+    "The speaker announces a statement.",
+    "Three named types are listed.",
+    "All are identified as linga types."
+   ],
+   "inference": "The speaker declares the nagara, dravida, and vesara types of linga.",
+   "uncertainties": [],
+   "plain_english": "I speak of the nagara, dravida, and vesara linga."
+  },
+  {
+   "verse": 2288,
+   "rows": [
+    {
+     "surface": "tuṃge",
+     "gloss": "in-height",
+     "grounds": "locative noun referring to height",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tryaṃśaṃ",
+     "gloss": "three-part",
+     "grounds": "compound indicating a third part division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "shiva-part",
+     "grounds": "compound indicating the portion of Shiva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "breadth",
+     "grounds": "noun indicating width",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śreṣṭham",
+     "gloss": "best",
+     "grounds": "adjective indicating the highest grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "present passive verb stating designation",
+     "morph": "3.sg.present.passive + vac"
+    }
+   ],
+   "question": "What proportion of height and breadth is designated as the best for the Shiva part?",
+   "premises": [
+    "The height is divided into three parts.",
+    "The Shiva part and breadth are specified.",
+    "This proportion is called the best."
+   ],
+   "inference": "A breadth equal to one third of the height for the Shiva part is called the best.",
+   "uncertainties": [
+    "The exact syntactic mapping between tryaṃśaṃ and vistāraṃ is somewhat compressed."
+   ],
+   "plain_english": "In height, a third part as the Shiva part with that breadth is called the best."
+  },
+  {
+   "verse": 2289,
+   "rows": [
+    {
+     "surface": "adhodaye",
+     "gloss": "in-lower-rise",
+     "grounds": "locative compound indicating lower elevation",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "kalāṃśe",
+     "gloss": "in-part-division",
+     "grounds": "locative compound referring to a fractional part",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṃcāṃśaṃ",
+     "gloss": "five-part",
+     "grounds": "compound indicating a fifth part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śāntikaṃ",
+     "gloss": "peaceful",
+     "grounds": "adjective indicating pacifying quality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing result",
+     "morph": "3.sg.optative + bhū"
+    }
+   ],
+   "question": "What proportion in the lower rise is designated as peaceful?",
+   "premises": [
+    "The context is the lower rise.",
+    "A division into parts is considered.",
+    "A five-part proportion is linked to a peaceful quality."
+   ],
+   "inference": "In the lower rise, a fifth part should be the peaceful proportion.",
+   "uncertainties": [],
+   "plain_english": "But in the lower rise, in that part division, a fifth part should be the peaceful one."
+  },
+  {
+   "verse": 2290,
+   "rows": [
+    {
+     "surface": "ābhicāraṃ",
+     "gloss": "for-abhicara",
+     "grounds": "adjective indicating purpose related to abhicara rites",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-part",
+     "grounds": "compound indicating division into two parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.optative + as"
+    },
+    {
+     "surface": "vyāsamevaṃ",
+     "gloss": "breadth-thus",
+     "grounds": "compound with adverb indicating breadth in this way",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "adjective indicating four kinds",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many kinds of breadth are established including the abhicara proportion?",
+   "premises": [
+    "A two-part proportion is assigned for abhicara.",
+    "The breadth is described in this manner.",
+    "The total classification is fourfold."
+   ],
+   "inference": "Including the two-part abhicara proportion, the breadth is thus fourfold.",
+   "uncertainties": [],
+   "plain_english": "For abhicara it should be two parts; thus the breadth is fourfold."
+  },
+  {
+   "verse": 2291,
+   "rows": [
+    {
+     "surface": "liṃgocce",
+     "gloss": "in-linga-height",
+     "grounds": "locative compound referring to the height of the linga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dvinnavāṃśe",
+     "gloss": "in-eighteen-parts",
+     "grounds": "locative compound indicating division into eighteen parts",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rasabhūtayugāṃśake",
+     "gloss": "in-six-five-four-parts",
+     "grounds": "locative compound encoding parts by symbolic numbers",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What divisions of linga height are specified using symbolic numerical parts?",
+   "premises": [
+    "The linga height is divided into eighteen parts.",
+    "Further parts are indicated by rasa, bhuta, and yuga.",
+    "These divisions are being specified."
+   ],
+   "inference": "The linga height is divided into eighteen parts and further into six, five, and four parts.",
+   "uncertainties": [
+    "The symbolic values rasa=6, bhuta=5, yuga=4 follow common convention but are not explicit in the verse."
+   ],
+   "plain_english": "In the linga height, divided into eighteen parts, indeed in parts of six, five, and four."
+  },
+  {
+   "verse": 2292,
+   "rows": [
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara",
+     "grounds": "name of a style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhedaṃ",
+     "gloss": "fourfold-division",
+     "grounds": "compound indicating four divisions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "harmyaliṃgasya",
+     "gloss": "of-temple-linga",
+     "grounds": "genitive compound referring to the temple linga",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "piṇḍikā",
+     "gloss": "pedestal",
+     "grounds": "noun referring to the pedestal",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fourfold classification is stated for the pedestal of the temple linga in vesara style?",
+   "premises": [
+    "The vesara style is mentioned.",
+    "A fourfold division is stated.",
+    "The pedestal of the temple linga is the subject."
+   ],
+   "inference": "The pedestal of the temple linga in vesara style has a fourfold division.",
+   "uncertainties": [],
+   "plain_english": "And the pedestal of the temple linga in the vesara style is of four kinds."
+  },
+  {
+   "verse": 2293,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśaṃ",
+     "gloss": "eight-part",
+     "grounds": "compound indicating division into eight parts",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saptaṣaṭpaṃca",
+     "gloss": "seven-six-five",
+     "grounds": "compound listing numerical parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāgair",
+     "gloss": "by-parts",
+     "grounds": "instrumental plural indicating divisions",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "breadth",
+     "grounds": "noun indicating diameter or width",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakalpitam",
+     "gloss": "determined",
+     "grounds": "past participle indicating prescribed measure",
+     "morph": "n.nom.sg.past-participle + pra-kḷp"
+    }
+   ],
+   "question": "What breadth proportions are determined by parts such as eight, seven, six, and five?",
+   "premises": [
+    "Parts of eight, seven, six, and five are listed.",
+    "The breadth is being determined.",
+    "These parts serve as the basis of measurement."
+   ],
+   "inference": "The breadth is determined by divisions of eight, seven, six, and five parts.",
+   "uncertainties": [],
+   "plain_english": "The breadth is determined by parts of eight, seven, six, and five."
+  },
+  {
+   "verse": 2294,
+   "rows": [
+    {
+     "surface": "vesaraṃ",
+     "gloss": "vesara",
+     "grounds": "name of a style",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhedaṃ",
+     "gloss": "fourfold-division",
+     "grounds": "compound indicating four divisions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "harmyaṃ",
+     "gloss": "temple",
+     "grounds": "noun referring to the temple",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṃgasya",
+     "gloss": "of-linga",
+     "grounds": "genitive noun referring to the linga",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "piṇḍikā",
+     "gloss": "pedestal",
+     "grounds": "noun referring to the pedestal",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fourfold classification is restated for the pedestal in relation to the vesara temple and linga?",
+   "premises": [
+    "The vesara style is mentioned again.",
+    "A fourfold division is stated.",
+    "The pedestal is related to the temple and linga."
+   ],
+   "inference": "The pedestal associated with the vesara temple and linga is again described as fourfold.",
+   "uncertainties": [
+    "The verse closely parallels 2292 and may be a variant or restatement."
+   ],
+   "plain_english": "And the pedestal of the linga in the vesara temple is of four kinds."
+  },
+  {
+   "verse": 2295,
+   "rows": [
+    {
+     "surface": "yatraiva",
+     "gloss": "wherever-indeed",
+     "grounds": "relative adverb with emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpitaṃ",
+     "gloss": "determined",
+     "grounds": "past participle indicating something established",
+     "morph": "n.nom.sg.past-participle + kḷp"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "noun referring to the linga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vardhahetu",
+     "gloss": "cause-of-growth",
+     "grounds": "compound indicating a cause of increase or prosperity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mudāhṛtam",
+     "gloss": "declared",
+     "grounds": "past participle indicating traditional statement",
+     "morph": "n.nom.sg.past-participle + ud-ā-hṛ"
+    }
+   ],
+   "question": "What is declared to be the cause of growth wherever the linga is properly determined?",
+   "premises": [
+    "The linga is determined in a particular place.",
+    "A cause of growth is being identified.",
+    "This is declared by tradition."
+   ],
+   "inference": "Wherever the linga is properly determined, it is declared to be a cause of growth.",
+   "uncertainties": [],
+   "plain_english": "Wherever the linga is properly determined, it is declared to be a cause of growth."
+  },
+  {
+   "verse": 2296,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative adverb indicating consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "instrumental compound indicating complete effort",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃkaraṃ",
+     "gloss": "mixture",
+     "grounds": "noun indicating improper mixing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-practice",
+     "grounds": "optative verb prescribing conduct",
+     "morph": "3.sg.optative + sam-ā-car"
+    }
+   ],
+   "question": "What conduct regarding mixture must be avoided with all effort?",
+   "premises": [
+    "A consequence is drawn from the previous statement.",
+    "Mixture is identified as something to avoid.",
+    "All effort is required."
+   ],
+   "inference": "Therefore one should not practice mixture, and must avoid it with all effort.",
+   "uncertainties": [
+    "The specific kinds of mixture prohibited are not detailed in this verse."
+   ],
+   "plain_english": "Therefore, with all effort, one should not practice any mixture."
+  },
+  {
+   "verse": 2297,
+   "rows": [
+    {
+     "surface": "liṃgasyotsedhamānaṃ",
+     "gloss": "linga-height-measure",
+     "grounds": "compound indicating the measure of the linga's height",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānāṃgulena",
+     "gloss": "by-measure-finger",
+     "grounds": "instrumental compound indicating measurement by finger units",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "bhājayet",
+     "gloss": "should-divide",
+     "grounds": "optative verb prescribing division",
+     "morph": "3.sg.optative.causative + bhaj"
+    }
+   ],
+   "question": "How should the height measure of the linga be divided for calculation?",
+   "premises": [
+    "The height measure of the linga is the object.",
+    "The unit of division is the measure finger.",
+    "A prescriptive instruction is given."
+   ],
+   "inference": "One should divide the height measure of the linga by the measure finger.",
+   "uncertainties": [],
+   "plain_english": "Indeed, one should divide the height measure of the linga by the measure finger."
+  },
+  {
+   "verse": 2298,
+   "rows": [
+    {
+     "surface": "śreṣṭhāntarādhamarmārvāmātrapūrṇaṃ",
+     "gloss": "best-middle-low-full-measure",
+     "grounds": "long compound listing grades and completeness of measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parigrahet",
+     "gloss": "should-accept",
+     "grounds": "optative verb prescribing acceptance",
+     "morph": "3.sg.optative + pari-grah"
+    }
+   ],
+   "question": "Which graded measures should be accepted when determining the linga's full measure?",
+   "premises": [
+    "Grades of best, middle, and low are indicated.",
+    "A full measure is mentioned.",
+    "Acceptance of these measures is prescribed."
+   ],
+   "inference": "One should accept the full measure according to the best, middle, and low grades.",
+   "uncertainties": [
+    "The internal segmentation of the long compound is interpretive and follows the legacy hint."
+   ],
+   "plain_english": "One should accept the full measure in its best, middle, and low grades."
+  },
+  {
+   "verse": 2299,
+   "rows": [
+    {
+     "surface": "hṛtvā",
+     "gloss": "having-subtracted",
+     "grounds": "gerund indicating subtraction",
+     "morph": "(indecl.) gerund + hṛ"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dinasāṃkhyā",
+     "gloss": "by-day-number",
+     "grounds": "instrumental compound indicating division or subtraction by day count",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle for emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśvinyādi",
+     "gloss": "beginning-with-ashvini",
+     "grounds": "compound indicating the series starting with Ashvini",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "o-best-brahmin",
+     "grounds": "vocative address to the best of brahmins",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "!",
+     "gloss": "!",
+     "grounds": "punctuation marking exclamation",
+     "morph": "(punct.)"
+    }
+   ],
+   "question": "What calculation using the day number and the Ashvini series is instructed to the best brahmin?",
+   "premises": [
+    "A subtraction operation is indicated.",
+    "The day number is used in the calculation.",
+    "The series beginning with Ashvini is referenced."
+   ],
+   "inference": "Having subtracted by the day number, one should proceed with the series beginning with Ashvini.",
+   "uncertainties": [
+    "The exact arithmetic procedure is not fully specified in this verse alone."
+   ],
+   "plain_english": "O best of brahmins, having subtracted by the day number, proceed with the series beginning with Ashvini!"
+  }
+ ]
+}

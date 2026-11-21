@@ -1,0 +1,1013 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 151,
+   "rows": [
+    {
+     "surface": "ādyante",
+     "gloss": "at-beginning-and-end",
+     "grounds": "compound of ādi and anta",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tāramāyā",
+     "gloss": "tāra-and-māyā",
+     "grounds": "compound of tāra and māyā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "antu",
+     "gloss": "let-them-be",
+     "grounds": "imperative of as",
+     "morph": "3.pl.act-imp"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of madhya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrībījasaṃyutam",
+     "gloss": "joined-with-śrī-bīja",
+     "grounds": "compound with śrī-bīja",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How are tāra, māyā, and śrī-bīja arranged at the beginning, middle, and end?",
+   "premises": [
+    "tāra and māyā stand at beginning and end",
+    "śrī-bīja is joined in the middle"
+   ],
+   "inference": "The mantra components are ordered with śrī-bīja centrally placed.",
+   "uncertainties": [
+    "exact sandhi of tāramāyā not expanded"
+   ],
+   "plain_english": "At beginning and end are tāra and māyā, with śrī-bīja joined in the middle."
+  },
+  {
+   "verse": 152,
+   "rows": [
+    {
+     "surface": "evametat",
+     "gloss": "thus-this",
+     "grounds": "compound of evam and etat",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "absolutive of sam-uc-car",
+     "morph": "abs"
+    },
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "kāma-rāja",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "samuccaret",
+     "gloss": "let-one-utter",
+     "grounds": "optative of sam-uc-car",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "After uttering this arrangement, what should the practitioner utter next?",
+   "premises": [
+    "this arrangement is uttered first",
+    "kāmarāja is then uttered"
+   ],
+   "inference": "The sequence moves from the arranged components to kāmarāja.",
+   "uncertainties": [
+    "subject implied"
+   ],
+   "plain_english": "Having uttered this, one should utter kāmarāja."
+  },
+  {
+   "verse": 153,
+   "rows": [
+    {
+     "surface": "manmathādistham",
+     "gloss": "manmatha-ādi-stha",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "adharaṃ",
+     "gloss": "lower",
+     "grounds": "adjective",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "śrībījaṃ",
+     "gloss": "śrī-bīja",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "manmathāntaram",
+     "gloss": "manmatha-antara",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "Where is śrī-bīja placed relative to manmatha in this arrangement?",
+   "premises": [
+    "śrī-bīja is lower",
+    "it stands between manmatha portions"
+   ],
+   "inference": "Śrī-bīja is positioned between manmatha elements.",
+   "uncertainties": [
+    "exact spatial sense of adhara"
+   ],
+   "plain_english": "Śrī-bīja, the lower one, stands between manmatha portions."
+  },
+  {
+   "verse": 154,
+   "rows": [
+    {
+     "surface": "iyantu",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "dīpanī",
+     "gloss": "illuminating",
+     "grounds": "adjective",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "sarvatantreṣu",
+     "gloss": "in-all-tantras",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "gopitā",
+     "gloss": "hidden",
+     "grounds": "participle",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What is said about this illuminating vidyā across all tantras?",
+   "premises": [
+    "this vidyā is illuminating",
+    "it is hidden in all tantras"
+   ],
+   "inference": "The vidyā is a concealed illuminating knowledge in every tantra.",
+   "uncertainties": [
+    "subject of gopitā implied"
+   ],
+   "plain_english": "This illuminating vidyā is hidden in all tantras."
+  },
+  {
+   "verse": 155,
+   "rows": [
+    {
+     "surface": "śaktyante",
+     "gloss": "at-end-of-śakti",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "haṃsabījantu",
+     "gloss": "haṃsa-bīja",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "let-one-recite",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-sādhaka",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What should the best sādhaka recite at the end of śakti?",
+   "premises": [
+    "recitation occurs at śakti's end",
+    "haṃsa-bīja is recited"
+   ],
+   "inference": "The best practitioner recites haṃsa-bīja after śakti.",
+   "uncertainties": [
+    "exact placement of haṃsa-bīja"
+   ],
+   "plain_english": "At the end of śakti, the best sādhaka recites haṃsa-bīja."
+  },
+  {
+   "verse": 156,
+   "rows": [
+    {
+     "surface": "etajjaptvā",
+     "gloss": "having-recited-this",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vāgbhavākhyam",
+     "gloss": "called-vāgbhava",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "let-one-utter",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-sādhaka",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What should the best sādhaka utter after reciting this?",
+   "premises": [
+    "this has been recited",
+    "vāgbhava is then uttered"
+   ],
+   "inference": "The sequence continues with utterance of vāgbhava.",
+   "uncertainties": [
+    "antecedent of etat"
+   ],
+   "plain_english": "Having recited this, the best sādhaka utters vāgbhava."
+  },
+  {
+   "verse": 157,
+   "rows": [
+    {
+     "surface": "evameva",
+     "gloss": "thus-thus",
+     "grounds": "reduplicated adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "kāma-rāja",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "samuccaret",
+     "gloss": "let-one-utter",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What follows after reciting in this manner?",
+   "premises": [
+    "recitation has occurred",
+    "kāmarāja is uttered then"
+   ],
+   "inference": "The practitioner utters kāmarāja after recitation.",
+   "uncertainties": [
+    "exact antecedent"
+   ],
+   "plain_english": "Thus, having recited, one then utters kāmarāja."
+  },
+  {
+   "verse": 158,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "śaktikūṭaṃ",
+     "gloss": "śakti-kūṭa",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samuccaret",
+     "gloss": "let-one-utter",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How is śaktikūṭa to be uttered after joining?",
+   "premises": [
+    "joining occurs in order",
+    "śaktikūṭa is uttered"
+   ],
+   "inference": "Śaktikūṭa is uttered after ordered joining.",
+   "uncertainties": [
+    "object of saṃyojya implied"
+   ],
+   "plain_english": "Thus, having joined in order, one utters śaktikūṭa."
+  },
+  {
+   "verse": 159,
+   "rows": [
+    {
+     "surface": "etā",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "guptatamāḥ",
+     "gloss": "most-secret",
+     "grounds": "superlative adjective",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "vidyāś",
+     "gloss": "vidyāḥ",
+     "grounds": "noun",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "caitanyakārikāḥ",
+     "gloss": "caitanya-kārikāḥ",
+     "grounds": "compound",
+     "morph": "n.nom.pl.f"
+    }
+   ],
+   "question": "What are these most secret vidyās called?",
+   "premises": [
+    "these vidyās are most secret",
+    "they are caitanya-kārikāḥ"
+   ],
+   "inference": "The most secret vidyās are caitanya-kārikāḥ.",
+   "uncertainties": [
+    "scope of etā"
+   ],
+   "plain_english": "These most secret vidyās are all caitanya-kārikāḥ."
+  },
+  {
+   "verse": 160,
+   "rows": [
+    {
+     "surface": "āsām",
+     "gloss": "among-these",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl.f"
+    },
+    {
+     "surface": "ekatamāṃ",
+     "gloss": "one",
+     "grounds": "indefinite adjective",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "japed",
+     "gloss": "let-one-recite",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "vidyā",
+     "grounds": "noun accusative",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "participle",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How should one recite one of these vidyās?",
+   "premises": [
+    "one vidyā is given",
+    "recitation is done concentrated"
+   ],
+   "inference": "A concentrated practitioner recites one chosen vidyā.",
+   "uncertainties": [
+    "giver implied"
+   ],
+   "plain_english": "Having given one of these, one recites the vidyā concentrated."
+  },
+  {
+   "verse": 161,
+   "rows": [
+    {
+     "surface": "vāgbhave",
+     "gloss": "in-vāgbhava",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "kāmarāje",
+     "gloss": "in-kāmarāja",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaktikūṭe",
+     "gloss": "in-śaktikūṭa",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tatkramāt",
+     "gloss": "in-that-order",
+     "grounds": "ablative/instrumental",
+     "morph": "indecl."
+    }
+   ],
+   "question": "In what order are vāgbhava, kāmarāja, and śaktikūṭa arranged?",
+   "premises": [
+    "vāgbhava comes first",
+    "kāmarāja and śaktikūṭa follow"
+   ],
+   "inference": "The three kūṭas are ordered vāgbhava, kāmarāja, śaktikūṭa.",
+   "uncertainties": [
+    "exact case sense of tatkramāt"
+   ],
+   "plain_english": "In vāgbhava, kāmarāja, and śaktikūṭa, in that order."
+  },
+  {
+   "verse": 162,
+   "rows": [
+    {
+     "surface": "japasyādau",
+     "gloss": "at-beginning-of-recitation",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "japasyānte",
+     "gloss": "at-end-of-recitation",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saptavāram",
+     "gloss": "seven-times",
+     "grounds": "numeral",
+     "morph": "indecl."
+    },
+    {
+     "surface": "anukramāt",
+     "gloss": "in-order",
+     "grounds": "ablative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How many times is recitation performed at beginning and end?",
+   "premises": [
+    "recitation has beginning and end",
+    "seven times in order"
+   ],
+   "inference": "Recitation is performed seven times at beginning and end in order.",
+   "uncertainties": [
+    "object of recitation implied"
+   ],
+   "plain_english": "At beginning and end of recitation, seven times in order."
+  },
+  {
+   "verse": 163,
+   "rows": [
+    {
+     "surface": "tasyā",
+     "gloss": "of-it",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.f"
+    },
+    {
+     "surface": "rūpaprabhāvam",
+     "gloss": "form-and-power",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃkṣepāt",
+     "gloss": "briefly",
+     "grounds": "ablative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-speak",
+     "grounds": "present",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What will be spoken briefly about its form and power?",
+   "premises": [
+    "form and power are mentioned",
+    "speech is brief"
+   ],
+   "inference": "The speaker will briefly describe its form and power.",
+   "uncertainties": [
+    "antecedent of tasyā"
+   ],
+   "plain_english": "I will briefly speak of its form and power, then."
+  },
+  {
+   "verse": 164,
+   "rows": [
+    {
+     "surface": "tatraiva",
+     "gloss": "there-itself",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "mādanaṃ",
+     "gloss": "mādana",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "bīja",
+     "grounds": "noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bindumāśritya",
+     "gloss": "resorting-to-bindu",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "dīpavat",
+     "gloss": "like-a-lamp",
+     "grounds": "comparative",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is mādana bīja described when resorting to bindu?",
+   "premises": [
+    "mādana bīja is there",
+    "it is like a lamp"
+   ],
+   "inference": "Mādana bīja, resorting to bindu, shines like a lamp.",
+   "uncertainties": [
+    "exact bindu relation"
+   ],
+   "plain_english": "There itself, mādana bīja, resorting to bindu, is like a lamp."
+  },
+  {
+   "verse": 165,
+   "rows": [
+    {
+     "surface": "anuttarapadaṃ",
+     "gloss": "anuttara-pada",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "guhyaṃ",
+     "gloss": "secret",
+     "grounds": "adjective",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "lalāṭorddhvavyavasthitam",
+     "gloss": "above-forehead-situated",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "Where is the secret anuttara pada situated?",
+   "premises": [
+    "anuttara pada is secret",
+    "it is above the forehead"
+   ],
+   "inference": "The secret anuttara pada is situated above the forehead.",
+   "uncertainties": [
+    "exact anatomical sense"
+   ],
+   "plain_english": "The secret anuttara pada is situated above the forehead."
+  },
+  {
+   "verse": 166,
+   "rows": [
+    {
+     "surface": "bhagamādhārasaṃsthānaṃ",
+     "gloss": "bhaga-ādhāra-form",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "trikoṇapadamāśritam",
+     "gloss": "triangle-pada-resorted",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What form is resorted to in the triangle pada?",
+   "premises": [
+    "bhaga-ādhāra form is named",
+    "it is resorted to in triangle pada"
+   ],
+   "inference": "The bhaga-ādhāra form is resorted to in the triangle pada.",
+   "uncertainties": [
+    "exact geometric sense"
+   ],
+   "plain_english": "The bhaga-ādhāra form is resorted to in the triangle pada."
+  },
+  {
+   "verse": 167,
+   "rows": [
+    {
+     "surface": "caturthī",
+     "gloss": "fourth",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "padme",
+     "gloss": "in-lotus",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "merumāśritya",
+     "gloss": "resorting-to-meru",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "Where is the fourth situated in the heart lotus?",
+   "premises": [
+    "the fourth is situated",
+    "it resorts to meru in heart lotus"
+   ],
+   "inference": "The fourth is situated in the heart lotus, resorting to meru.",
+   "uncertainties": [
+    "referent of caturthī"
+   ],
+   "plain_english": "The fourth is situated in the heart lotus, resorting to meru."
+  },
+  {
+   "verse": 168,
+   "rows": [
+    {
+     "surface": "hakārārddhakalārūpā",
+     "gloss": "hakāra-half-kalā-form",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "taḍitkoṭisamaprabhā",
+     "gloss": "lightning-million-equal-splendor",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What form and splendor are described here?",
+   "premises": [
+    "form is hakāra half-kalā",
+    "splendor equals million lightnings"
+   ],
+   "inference": "The form is hakāra half-kalā with splendor like a million lightnings.",
+   "uncertainties": [
+    "exact kalā sense"
+   ],
+   "plain_english": "The form is hakāra half-kalā, with splendor equal to a million lightnings."
+  },
+  {
+   "verse": 169,
+   "rows": [
+    {
+     "surface": "śakro",
+     "gloss": "Śakra",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "lalāṭamadhye",
+     "gloss": "in-forehead-middle",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dīpitāṃ",
+     "gloss": "illuminated",
+     "grounds": "participle accusative",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "paricintayet",
+     "gloss": "let-one-contemplate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one contemplate in the middle of the forehead?",
+   "premises": [
+    "Śakra is in forehead middle",
+    "illuminated form is contemplated"
+   ],
+   "inference": "One contemplates the illuminated form of Śakra in the forehead middle.",
+   "uncertainties": [
+    "exact form of dīpitāṃ"
+   ],
+   "plain_english": "One should contemplate Śakra, illuminated, in the middle of the forehead."
+  },
+  {
+   "verse": 170,
+   "rows": [
+    {
+     "surface": "vāgbhaveyaṃ",
+     "gloss": "this-vāgbhava",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyā",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vāgīśatvapradāyinī",
+     "gloss": "speech-lordship-giving",
+     "grounds": "compound",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What does this vāgbhava mahāvidyā give?",
+   "premises": [
+    "this is vāgbhava mahāvidyā",
+    "it gives speech lordship"
+   ],
+   "inference": "This vāgbhava mahāvidyā grants lordship over speech.",
+   "uncertainties": [
+    "exact scope of vāgīśatva"
+   ],
+   "plain_english": "This vāgbhava mahāvidyā gives lordship over speech."
+  },
+  {
+   "verse": 171,
+   "rows": [
+    {
+     "surface": "śivo",
+     "gloss": "Śiva",
+     "grounds": "proper noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "jñānākhyasaṃyuktas",
+     "gloss": "joined-with-jñāna",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "triśūnyeṣu",
+     "gloss": "in-three-voids",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl.m"
+    },
+    {
+     "surface": "vyavasthitaḥ",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Where is Śiva situated when joined with jñāna?",
+   "premises": [
+    "Śiva is joined with jñāna",
+    "he is in three voids"
+   ],
+   "inference": "Śiva joined with jñāna is situated in the three voids.",
+   "uncertainties": [
+    "meaning of triśūnya"
+   ],
+   "plain_english": "Śiva, joined with jñāna, is situated in the three voids."
+  },
+  {
+   "verse": 172,
+   "rows": [
+    {
+     "surface": "sakāraṃ",
+     "gloss": "sakāra",
+     "grounds": "noun accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "mukhamadhye",
+     "gloss": "in-face-middle",
+     "grounds": "locative compound",
+     "morph": "indecl."
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bālārkasadṛśaṃ",
+     "gloss": "like-young-sun",
+     "grounds": "compound",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "How is sakāra described in the middle of the face?",
+   "premises": [
+    "sakāra is in face middle",
+    "it is like young sun and supreme"
+   ],
+   "inference": "Sakāra in the face middle is supreme and like a young sun.",
+   "uncertainties": [
+    "exact face location"
+   ],
+   "plain_english": "Sakāra in the middle of the face is supreme, like a young sun."
+  },
+  {
+   "verse": 173,
+   "rows": [
+    {
+     "surface": "mādanaṃ",
+     "gloss": "mādana",
+     "grounds": "noun accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "jaṭhare",
+     "gloss": "in-belly",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "javābhaṃ",
+     "gloss": "like-hibiscus",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "paricintayet",
+     "gloss": "let-one-contemplate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should one contemplate in the belly?",
+   "premises": [
+    "mādana is in belly",
+    "it is like hibiscus"
+   ],
+   "inference": "One contemplates mādana in the belly, like hibiscus.",
+   "uncertainties": [
+    "exact color sense"
+   ],
+   "plain_english": "One should contemplate mādana in the belly, like hibiscus."
+  },
+  {
+   "verse": 174,
+   "rows": [
+    {
+     "surface": "prāṇo",
+     "gloss": "prāṇa",
+     "grounds": "noun nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "vāyur",
+     "gloss": "vāyu",
+     "grounds": "noun nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prokto",
+     "gloss": "said",
+     "grounds": "participle",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "haṃsābhaḥ",
+     "gloss": "haṃsa-like",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "parameśvaraḥ",
+     "gloss": "supreme-lord",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What is said about prāṇa, vāyu, and the supreme lord?",
+   "premises": [
+    "prāṇa and vāyu are named",
+    "supreme lord is haṃsa-like"
+   ],
+   "inference": "Prāṇa and vāyu are said to be the haṃsa-like supreme lord.",
+   "uncertainties": [
+    "exact equation"
+   ],
+   "plain_english": "Prāṇa and vāyu are said to be the haṃsa-like supreme lord."
+  }
+ ]
+}

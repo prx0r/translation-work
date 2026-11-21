@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb referring to the previously described procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive expressing a prior contemplative act",
+     "morph": "abs. (dhyai)"
+    },
+    {
+     "surface": "mānasaiḥ",
+     "gloss": "with-mental-offerings",
+     "grounds": "instrumental plural indicating means of worship performed in the mind",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive expressing a prior act of worship",
+     "morph": "abs. (sam-pūj)"
+    },
+    {
+     "surface": "śaṅkhasthāpanaṃ",
+     "gloss": "placement-of-the-conch",
+     "grounds": "compound naming the ritual act to be performed; śaṅkha+sthāpana",
+     "morph": "n.acc.sg (compound: śaṅkha+sthāpana)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing the next ritual action",
+     "morph": "3.sg.opt.act (kṛ)"
+    }
+   ],
+   "question": "What ritual action must be performed after mental meditation and mental worship?",
+   "premises": [
+    "The practitioner has thus completed meditation.",
+    "The practitioner has performed worship with mental offerings.",
+    "A prescribed ritual action follows these mental acts."
+   ],
+   "inference": "After meditating and worshipping with mental offerings, the practitioner should perform the placement of the conch.",
+   "uncertainties": [
+    "The specific ritual details of śaṅkhasthāpana are not specified in this verse."
+   ],
+   "plain_english": "Having thus meditated and worshipped with mental offerings, one should perform the placement of the conch."
+  }
+ ]
+}

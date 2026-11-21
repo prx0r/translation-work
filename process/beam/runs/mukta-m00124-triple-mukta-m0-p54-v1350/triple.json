@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive expressing prior act of worship",
+     "morph": "(gerund) √pūj"
+    },
+    {
+     "surface": "arpayitvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive expressing prior act of offering",
+     "morph": "(gerund) √ṛ-caus"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking ritual acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prarocya",
+     "gloss": "having-pleased",
+     "grounds": "absolutive expressing act of causing satisfaction or delight",
+     "morph": "(gerund) pra-√ruc-caus"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle linking ritual acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "should-dismiss",
+     "grounds": "prescribes the concluding act of formal dismissal",
+     "morph": "3.sg.opt.act √vi-sṛj"
+    }
+   ],
+   "question": "Which concluding ritual acts must precede the formal dismissal of the deity?",
+   "premises": [
+    "The officiant must first perform worship.",
+    "The officiant must then make offerings.",
+    "The officiant must cause satisfaction before dismissal.",
+    "Formal dismissal follows these completed acts."
+   ],
+   "inference": "Therefore dismissal is performed only after worship, offering, and pleasing are completed.",
+   "uncertainties": [
+    "The precise nuance of prarocya as pleasing or gratifying is context-dependent."
+   ],
+   "plain_english": "Having worshipped, having offered, and having pleased the deity, one should dismiss them."
+  }
+ ]
+}

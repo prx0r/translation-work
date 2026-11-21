@@ -1,0 +1,1349 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "triṣu",
+     "gloss": "in-three",
+     "grounds": "locative plural of tri",
+     "morph": "adj.loc.pl.n"
+    },
+    {
+     "surface": "lokeṣu",
+     "gloss": "worlds",
+     "grounds": "locative plural of loka",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative of deveśī, address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive singular masculine pronoun",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "asādhyam",
+     "gloss": "unachievable",
+     "grounds": "negated gerundive of sādh",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "present passive of vid",
+     "morph": "3.sg.pres.pass-vid"
+    }
+   ],
+   "question": "What remains unachievable for that person in the three worlds?",
+   "premises": [
+    "The scope is the three worlds.",
+    "The subject is that person referred to.",
+    "Nothing is stated to be unachievable for him."
+   ],
+   "inference": "For that person, nothing is unachievable in the three worlds.",
+   "uncertainties": [
+    "The identity of tasya depends on the preceding context."
+   ],
+   "plain_english": "O goddess-lord, for him nothing is unachievable in the three worlds."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, nominative singular masculine",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "recites",
+     "grounds": "optative of paṭh",
+     "morph": "3.sg.opt.act-paṭh"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "with-supreme",
+     "grounds": "instrumental singular feminine of para",
+     "morph": "adj.ins.sg.f"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "devotion",
+     "grounds": "instrumental singular of bhakti",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "kālī",
+     "gloss": "kālī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "first member of compound",
+     "morph": "compound:nāma+śatāṣṭakam"
+    },
+    {
+     "surface": "śatāṣṭakam",
+     "gloss": "hundred-eight",
+     "grounds": "second member, hymn of 108 names",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What devotional act qualifies a person to recite Kālī's hundred and eight names?",
+   "premises": [
+    "The act described is recitation.",
+    "The text recited is Kālī's hundred and eight names.",
+    "The recitation is performed with supreme devotion."
+   ],
+   "inference": "One who recites Kālī's hundred and eight names with supreme devotion is the qualified reciter.",
+   "uncertainties": [],
+   "plain_english": "Whoever recites the hundred and eight names of Kālī with supreme devotion."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "śūnyāgāre",
+     "gloss": "in-empty-house",
+     "grounds": "locative of compound śūnya+āgāra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative singular of śmaśāna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāntare",
+     "gloss": "in-wilderness",
+     "grounds": "locative singular of prāntara",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jalamadhyataḥ",
+     "gloss": "in-water-middle",
+     "grounds": "ablative used adverbially from compound jala+madhya",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which kinds of places may the recitation of Kālī's names be performed?",
+   "premises": [
+    "An empty house is named as a place.",
+    "A cremation ground or wilderness is named as a place.",
+    "The middle of water is named as a place."
+   ],
+   "inference": "The recitation may be performed in solitary or liminal places such as an empty house, cremation ground, wilderness, or in water.",
+   "uncertainties": [],
+   "plain_english": "In an empty house, in a cremation ground, in the wilderness, or in the middle of water."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "śatāṣṭakam",
+     "gloss": "hundred-eight",
+     "grounds": "accusative of the hymn of 108 names",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japan",
+     "gloss": "muttering",
+     "grounds": "present participle of jap",
+     "morph": "m.nom.sg.pres.part.act-jap"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative singular of mantrin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present middle of labh",
+     "morph": "3.sg.pres.mid-labh"
+    },
+    {
+     "surface": "kṣemam",
+     "gloss": "welfare",
+     "grounds": "accusative singular of kṣema",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "accusative singular masculine/neuter of uttama",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What benefit does the mantra practitioner obtain by muttering the hundred and eight names?",
+   "premises": [
+    "The practitioner mutters the hundred and eight names.",
+    "The practitioner is described as a mantrin.",
+    "The result obtained is supreme welfare."
+   ],
+   "inference": "By muttering the hundred and eight names, the mantrin obtains supreme welfare.",
+   "uncertainties": [],
+   "plain_english": "Muttering the hundred and eight names, the mantra practitioner obtains supreme welfare."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative singular of sādhaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "success",
+     "grounds": "accusative singular of siddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present active of āp",
+     "morph": "3.sg.pres.act-āp"
+    },
+    {
+     "surface": "kālikāyāḥ",
+     "gloss": "of-kālikā",
+     "grounds": "genitive singular of kālikā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prasādataḥ",
+     "gloss": "by-grace",
+     "grounds": "ablative used as instrumental sense from prasāda",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Through whose grace does the practitioner attain spiritual accomplishment?",
+   "premises": [
+    "The practitioner attains accomplishment.",
+    "The attainment is attributed to grace.",
+    "The grace is that of Kālikā."
+   ],
+   "inference": "The practitioner attains accomplishment through the grace of Kālikā.",
+   "uncertainties": [],
+   "plain_english": "The practitioner obtains accomplishment by the grace of Kālikā."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "with-various",
+     "grounds": "indeclinable adjective in compound sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛkṣa",
+     "gloss": "tree",
+     "grounds": "first member of compound vṛkṣa+latā",
+     "morph": "compound:vṛkṣa+latā"
+    },
+    {
+     "surface": "latā",
+     "gloss": "creeper",
+     "grounds": "second member of compound vṛkṣa+latā",
+     "morph": "compound:vṛkṣa+latā+kīrṇe"
+    },
+    {
+     "surface": "kīrṇe",
+     "gloss": "filled",
+     "grounds": "locative singular of past participle kīrṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nānā",
+     "gloss": "with-various",
+     "grounds": "indeclinable adjective in compound sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "flowers",
+     "grounds": "instrumental plural of puṣpa",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "alaṅkṛte",
+     "gloss": "adorned",
+     "grounds": "locative singular of past participle alaṅkṛta",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What kind of natural setting is described as the place of the divine vision?",
+   "premises": [
+    "The place is filled with various trees and creepers.",
+    "The place is adorned with various flowers.",
+    "Both descriptions qualify the same setting."
+   ],
+   "inference": "The setting is a lush place filled with various trees and creepers and adorned with various flowers.",
+   "uncertainties": [
+    "The exact locus qualified by the locatives depends on the following verse."
+   ],
+   "plain_english": "In a place filled with various trees and creepers, adorned with various flowers."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "samādhau",
+     "gloss": "in-absorption",
+     "grounds": "locative singular of samādhi",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃsthitaṃ",
+     "gloss": "situated",
+     "grounds": "accusative singular of past participle saṃsthita",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śāntam",
+     "gloss": "peaceful",
+     "grounds": "accusative singular of śānta",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "krīḍantam",
+     "gloss": "sporting",
+     "grounds": "accusative singular present participle of krīḍ",
+     "morph": "m.acc.sg.pres.part.act-krīḍ"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "first member of compound yoginī+priya",
+     "morph": "compound:yoginī+priyam"
+    },
+    {
+     "surface": "priyam",
+     "gloss": "beloved",
+     "grounds": "accusative singular, beloved of the yoginīs",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the beloved of the yoginīs depicted in the state of absorption?",
+   "premises": [
+    "He is situated in absorption.",
+    "He is peaceful.",
+    "He is sporting and beloved of the yoginīs."
+   ],
+   "inference": "The beloved of the yoginīs is depicted as peaceful, situated in absorption, and yet sporting.",
+   "uncertainties": [
+    "The identity of the beloved figure depends on context, likely Śiva."
+   ],
+   "plain_english": "Situated in absorption, peaceful, sporting, the beloved of the yoginīs."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "pron.nom/acc.sg.n"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "instrumental singular of second person pronoun",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "japyate",
+     "gloss": "is-muttered",
+     "grounds": "present passive of jap",
+     "morph": "3.sg.pres.pass-jap"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "vocative singular of deva",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "pron.nom/acc.sg.n"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "instrumental singular of second person pronoun",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "smaryate",
+     "gloss": "is-remembered",
+     "grounds": "present passive of smṛ",
+     "morph": "3.sg.pres.pass-smṛ"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra and remembrance does the goddess ask the god to reveal?",
+   "premises": [
+    "The goddess asks what is muttered by the god.",
+    "The goddess asks what is always remembered by the god.",
+    "The questions are addressed directly to the god."
+   ],
+   "inference": "The goddess seeks to know what the god mutters and what he always remembers.",
+   "uncertainties": [],
+   "plain_english": "O god, what is muttered by you? What is always remembered by you?"
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "brahmāṇḍa",
+     "gloss": "universe",
+     "grounds": "first member of compound brahmāṇḍa+kāraṇam",
+     "morph": "compound:brahmāṇḍa+kāraṇam"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "nominative singular, cause of the universe",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun nominative singular neuter",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun nominative singular neuter",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "kim",
+     "gloss": "what",
+     "grounds": "interrogative pronoun",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "ādyam",
+     "gloss": "primordial",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "nominative singular of kāraṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "nominative singular neuter adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What is the primordial and great cause of the universe being asked about?",
+   "premises": [
+    "There is a cause of the universe.",
+    "That cause is questioned as primordial.",
+    "That cause is questioned as great."
+   ],
+   "inference": "The inquiry seeks to identify the primordial and great cause of the universe.",
+   "uncertainties": [],
+   "plain_english": "That which is the cause of the universe—what is that primordial, great cause?"
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "tṛtīyā",
+     "gloss": "third",
+     "grounds": "nominative singular feminine ordinal",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kalpanā",
+     "gloss": "conception",
+     "grounds": "nominative singular of kalpanā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "nominative singular of siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "koṭi",
+     "gloss": "ten-million",
+     "grounds": "first member of compound koṭi+siddhi",
+     "morph": "compound:koṭi+siddhi"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "siddhi",
+     "grounds": "second member of compound koṭi+siddhi",
+     "morph": "compound:koṭi+siddhi+īśvaratvakam"
+    },
+    {
+     "surface": "īśvaratvakam",
+     "gloss": "lordship",
+     "grounds": "nominative singular neuter abstract noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What higher accomplishments and lordship are included in the inquiry about powers?",
+   "premises": [
+    "A third conception of accomplishment is mentioned.",
+    "Lordship over ten million accomplishments is mentioned.",
+    "These are presented as objects of inquiry or attainment."
+   ],
+   "inference": "The inquiry includes a third level of accomplishment and lordship over countless accomplishments.",
+   "uncertainties": [
+    "The meaning of tṛtīyā kalpanā is context-dependent."
+   ],
+   "plain_english": "The third conception, accomplishment, and lordship over ten million accomplishments."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "mahendrajālam",
+     "gloss": "great-indra-net",
+     "grounds": "nominative/accusative singular of mahendrajāla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indrādi",
+     "gloss": "of-indra-and-others",
+     "grounds": "first member of compound indrādi+jālānāṃ",
+     "morph": "compound:indrādi+jālānāṃ"
+    },
+    {
+     "surface": "jālānāṃ",
+     "gloss": "nets",
+     "grounds": "genitive plural of jāla",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "racanā",
+     "gloss": "creation",
+     "grounds": "nominative singular of racanā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "conjunctive adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What magical powers involving illusory nets are listed among the attainments?",
+   "premises": [
+    "The great Indra-net is mentioned.",
+    "The creation of nets of Indra and others is mentioned.",
+    "These are listed as further powers."
+   ],
+   "inference": "The attainments include the great Indra-net and the creation of the nets of Indra and other beings.",
+   "uncertainties": [],
+   "plain_english": "The great Indra-net, and also the creation of the nets of Indra and others."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "navīna",
+     "gloss": "new",
+     "grounds": "first member of compound navīna+sṛṣṭi",
+     "morph": "compound:navīna+sṛṣṭi"
+    },
+    {
+     "surface": "sṛṣṭi",
+     "gloss": "creation",
+     "grounds": "second member of compound navīna+sṛṣṭi",
+     "morph": "compound:navīna+sṛṣṭi+karaṇam"
+    },
+    {
+     "surface": "karaṇam",
+     "gloss": "making",
+     "grounds": "nominative singular of karaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samudra",
+     "gloss": "ocean",
+     "grounds": "first member of compound samudra+śoṣaṇam",
+     "morph": "compound:samudra+śoṣaṇam"
+    },
+    {
+     "surface": "śoṣaṇam",
+     "gloss": "drying",
+     "grounds": "nominative singular of śoṣaṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "conjunctive adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What cosmic feats of creation and destruction are enumerated as possible powers?",
+   "premises": [
+    "The making of a new creation is mentioned.",
+    "The drying of the ocean is mentioned.",
+    "Both are listed as powers."
+   ],
+   "inference": "The enumerated powers include creating a new creation and drying up the ocean.",
+   "uncertainties": [],
+   "plain_english": "The making of a new creation, and also the drying up of the ocean."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "candra",
+     "gloss": "moon",
+     "grounds": "first member of compound candra+aṣṭakam",
+     "morph": "compound:candra+aṣṭakam"
+    },
+    {
+     "surface": "aṣṭakam",
+     "gloss": "octad",
+     "grounds": "nominative/accusative singular of aṣṭaka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "in-eight-directions",
+     "grounds": "locative plural of compound aṣṭa+diś",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "conjunctive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "first member of compound sūrya+aṣṭakam",
+     "morph": "compound:sūrya+aṣṭakam"
+    },
+    {
+     "surface": "aṣṭakam",
+     "gloss": "octad",
+     "grounds": "nominative/accusative singular of aṣṭaka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "o-śiva",
+     "grounds": "vocative singular of śiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What celestial multiplications in the eight directions are described as attainable powers?",
+   "premises": [
+    "An octad of moons is mentioned.",
+    "An octad of suns is mentioned.",
+    "These are located in the eight directions."
+   ],
+   "inference": "The powers include manifesting eight moons and eight suns in the eight directions.",
+   "uncertainties": [],
+   "plain_english": "And an octad of moons in the eight directions, and likewise an octad of suns, O Śiva."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "brahma",
+     "gloss": "brahmā",
+     "grounds": "first member of compound brahma+viṣṇu",
+     "morph": "compound:brahma+viṣṇu"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "viṣṇu",
+     "grounds": "second member of compound brahma+viṣṇu",
+     "morph": "compound:brahma+viṣṇu+ādi"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-others",
+     "grounds": "third member indicating etcetera",
+     "morph": "compound:brahma+viṣṇu+ādi+nirmāṇam"
+    },
+    {
+     "surface": "nirmāṇam",
+     "gloss": "creation",
+     "grounds": "nominative singular of nirmāṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "indrāṇām",
+     "gloss": "of-indras",
+     "grounds": "genitive plural of indra",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kāraṇam",
+     "gloss": "cause",
+     "grounds": "nominative singular of kāraṇa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative singular of kara",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What power over the creation of gods is said to be held in one's hand?",
+   "premises": [
+    "The creation of Brahmā, Viṣṇu, and others is mentioned.",
+    "The causing of Indras is mentioned.",
+    "These powers are described as being in the hand."
+   ],
+   "inference": "The power to create Brahmā, Viṣṇu, and others and to produce Indras is held in one's hand.",
+   "uncertainties": [],
+   "plain_english": "The creation of Brahmā, Viṣṇu, and others, and the causing of Indras, is in one's hand."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "rasāyanam",
+     "gloss": "alchemy",
+     "grounds": "nominative/accusative singular of rasāyana",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "conjunctive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guptiḥ",
+     "gloss": "invisibility",
+     "grounds": "nominative singular of gupti",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "and-also",
+     "grounds": "emphatic conjunctive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akhila",
+     "gloss": "all",
+     "grounds": "first member of compound akhila+añjanam",
+     "morph": "compound:akhila+añjanam"
+    },
+    {
+     "surface": "añjanam",
+     "gloss": "collyrium",
+     "grounds": "nominative singular of añjana",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What occult powers of alchemy, concealment, and magical collyrium are listed?",
+   "premises": [
+    "Alchemy is mentioned as a power.",
+    "Invisibility or concealment is mentioned.",
+    "A universal magical collyrium is mentioned."
+   ],
+   "inference": "The listed occult powers include alchemy, invisibility, and an all-powerful collyrium.",
+   "uncertainties": [
+    "akhila añjanam may refer to a specific magical ointment tradition."
+   ],
+   "plain_english": "Alchemy, and also invisibility, and likewise the all-powerful collyrium."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "conjunctive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhogavatī",
+     "gloss": "bhogavatī",
+     "grounds": "first member of compound bhogavatī+siddhi",
+     "morph": "compound:bhogavatī+siddhiḥ"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "nominative singular of siddhi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yāvatyaḥ",
+     "gloss": "as-many-as",
+     "grounds": "nominative plural feminine relative adjective",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "santi",
+     "gloss": "are",
+     "grounds": "present active of as",
+     "morph": "3.pl.pres.act-as"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "nominative plural of siddhi",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How comprehensive is the range of accomplishments being claimed or inquired about?",
+   "premises": [
+    "The accomplishment of Bhogavatī is mentioned.",
+    "All accomplishments that exist are included.",
+    "The scope is stated as exhaustive."
+   ],
+   "inference": "The inquiry encompasses the accomplishment of Bhogavatī and all accomplishments that exist.",
+   "uncertainties": [
+    "bhogavatī siddhiḥ may refer to attainment of the netherworld realm or its pleasures."
+   ],
+   "plain_english": "And also the accomplishment of Bhogavatī, and as many accomplishments as there are."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "āyuṣyam",
+     "gloss": "longevity",
+     "grounds": "nominative singular neuter of āyuṣya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇya",
+     "gloss": "in-merit",
+     "grounds": "first member of compound puṇya+rahite",
+     "morph": "compound:puṇya+rahite"
+    },
+    {
+     "surface": "rahite",
+     "gloss": "devoid",
+     "grounds": "locative singular of rahita",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present active of bhū",
+     "morph": "3.sg.pres.act-bhū"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun nominative singular neuter",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative of vad",
+     "morph": "2.sg.imp.act-vad"
+    }
+   ],
+   "question": "How can longevity arise in one who is devoid of merit?",
+   "premises": [
+    "Longevity is the desired outcome.",
+    "The person is devoid of merit.",
+    "The question asks how this becomes possible."
+   ],
+   "inference": "The speaker asks how longevity can come to be for someone lacking merit.",
+   "uncertainties": [],
+   "plain_english": "How can longevity come to be in one devoid of merit? Tell me that."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing accusative/instrumental sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "accusative singular of bali",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing accusative/instrumental sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "nyāsa",
+     "grounds": "ritual placement, first member of compound nyāsa+bhūta",
+     "morph": "compound:nyāsa+bhūta+śuddhim"
+    },
+    {
+     "surface": "bhūta",
+     "gloss": "born",
+     "grounds": "middle member of compound, element-purification context",
+     "morph": "compound:nyāsa+bhūta+śuddhim"
+    },
+    {
+     "surface": "śuddhim",
+     "gloss": "purification",
+     "grounds": "accusative singular of śuddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing accusative/instrumental sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative singular feminine",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Can spiritual attainment occur without ritual offerings, nyāsa, and elemental purification?",
+   "premises": [
+    "Ritual offering is excluded.",
+    "Nyāsa and elemental purification are excluded.",
+    "The question implies attainment without these rites."
+   ],
+   "inference": "The inquiry raises the possibility of attainment without offering, nyāsa, or elemental purification.",
+   "uncertainties": [
+    "bhūta śuddhim refers to purification of the elements/body elements in ritual context."
+   ],
+   "plain_english": "Without offering, without nyāsa, without elemental purification, O beloved."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing accusative/instrumental sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kleśa",
+     "gloss": "afflictions",
+     "grounds": "first member of compound kleśa+ādibhiḥ",
+     "morph": "compound:kleśa+ādibhiḥ"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-others",
+     "grounds": "instrumental plural of ādi",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative singular of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "deha",
+     "gloss": "body",
+     "grounds": "first member of compound deha+duḥkha",
+     "morph": "compound:deha+duḥkha"
+    },
+    {
+     "surface": "duḥkha",
+     "gloss": "suffering",
+     "grounds": "second member of compound deha+duḥkha",
+     "morph": "compound:deha+duḥkha+ādibhiḥ"
+    },
+    {
+     "surface": "ādibhiḥ",
+     "gloss": "and-others",
+     "grounds": "instrumental plural of ādi",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition governing accusative/instrumental sense",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can the desired state be reached without afflictions and bodily sufferings?",
+   "premises": [
+    "Afflictions and similar obstacles are excluded.",
+    "Bodily sufferings and similar pains are excluded.",
+    "The question continues the theme of attainment without hardship."
+   ],
+   "inference": "The inquiry asks about attainment without afflictions and without bodily sufferings.",
+   "uncertainties": [],
+   "plain_english": "Without afflictions and the like, O goddess, without bodily sufferings and the like."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "śūnye",
+     "gloss": "in-empty",
+     "grounds": "locative singular of śūnya",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "brahmāṇḍa",
+     "gloss": "universe",
+     "grounds": "first member of compound brahmāṇḍa+gole",
+     "morph": "compound:brahmāṇḍa+gole"
+    },
+    {
+     "surface": "gole",
+     "gloss": "sphere",
+     "grounds": "locative singular of gola",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśat",
+     "gloss": "fifty",
+     "grounds": "numeral, first member of compound pañcāśat+śūnya",
+     "morph": "compound:pañcāśat+śūnya"
+    },
+    {
+     "surface": "śūnya",
+     "gloss": "void",
+     "grounds": "second member of compound pañcāśat+śūnya",
+     "morph": "compound:pañcāśat+śūnya+madhyake"
+    },
+    {
+     "surface": "madhyake",
+     "gloss": "middle",
+     "grounds": "locative singular of madhyaka",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where within the empty cosmic sphere is the supreme reality located?",
+   "premises": [
+    "The setting is an empty sphere of the universe.",
+    "The location is specified as the middle of fifty voids.",
+    "This describes a cosmological locus."
+   ],
+   "inference": "The supreme reality is situated in the middle of fifty voids within the empty cosmic sphere.",
+   "uncertainties": [
+    "The symbolic meaning of pañcāśat śūnya is esoteric and context-dependent."
+   ],
+   "plain_english": "Indeed, in the empty sphere of the universe, in the middle of the fifty voids."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "ananta",
+     "gloss": "in-infinite",
+     "grounds": "first member of compound ananta+koṭi",
+     "morph": "compound:ananta+koṭi"
+    },
+    {
+     "surface": "koṭi",
+     "gloss": "ten-million",
+     "grounds": "second member of compound ananta+koṭi",
+     "morph": "compound:ananta+koṭi+brahmāṇḍa"
+    },
+    {
+     "surface": "brahmāṇḍa",
+     "gloss": "universe",
+     "grounds": "third member of compound",
+     "morph": "compound:ananta+koṭi+brahmāṇḍa+rāja"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "king",
+     "grounds": "fourth member of compound",
+     "morph": "compound:ananta+koṭi+brahmāṇḍa+rāja+danta"
+    },
+    {
+     "surface": "danta",
+     "gloss": "tooth",
+     "grounds": "fifth member of compound",
+     "morph": "compound:ananta+koṭi+brahmāṇḍa+rāja+danta+agrake"
+    },
+    {
+     "surface": "agrake",
+     "gloss": "tip",
+     "grounds": "locative singular of agraka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śiva",
+     "grounds": "vocative singular of śiva",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What vast cosmic scale is invoked to locate the supreme presence?",
+   "premises": [
+    "Infinite millions of universes are invoked.",
+    "A cosmic king's tooth-tip is named as the locus.",
+    "The address is made to Śiva."
+   ],
+   "inference": "The supreme presence is located at the tip of the tooth of the king of infinite millions of universes.",
+   "uncertainties": [
+    "The image of the cosmic king and tooth-tip is mythic and esoteric."
+   ],
+   "plain_english": "O Śiva, at the tip of the tooth of the king of infinite millions of universes."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "first member of compound mahā+nirguṇa",
+     "morph": "compound:mahā+nirguṇa"
+    },
+    {
+     "surface": "nirguṇa",
+     "gloss": "without-qualities",
+     "grounds": "second member of compound mahā+nirguṇa",
+     "morph": "compound:mahā+nirguṇa+rūpā"
+    },
+    {
+     "surface": "rūpā",
+     "gloss": "form",
+     "grounds": "nominative singular feminine, having form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācātītā",
+     "gloss": "beyond-speech",
+     "grounds": "nominative singular feminine of compound vāca+atīta",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "nominative singular feminine of para",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "digit",
+     "grounds": "nominative singular of kalā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the supreme feminine principle characterized beyond qualities and speech?",
+   "premises": [
+    "She is described as greatly without qualities in form.",
+    "She is beyond speech.",
+    "She is the supreme kalā."
+   ],
+   "inference": "The supreme feminine principle is characterized as greatly nirguṇa, beyond speech, and the supreme kalā.",
+   "uncertainties": [
+    "kalā can mean digit, phase, or power depending on context."
+   ],
+   "plain_english": "She is of great formless form, beyond speech, the supreme kalā."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "sṛṣṭeḥ",
+     "gloss": "of-creation",
+     "grounds": "genitive singular of sṛṣṭi",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ārambha",
+     "gloss": "beginning",
+     "grounds": "first member of compound ārambha+kārye",
+     "morph": "compound:ārambha+kārye"
+    },
+    {
+     "surface": "kārye",
+     "gloss": "action",
+     "grounds": "locative singular of kārya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭā",
+     "gloss": "seen",
+     "grounds": "nominative singular feminine past participle of dṛś",
+     "morph": "f.nom.sg.past.part-dṛś"
+    },
+    {
+     "surface": "chāyā",
+     "gloss": "shadow",
+     "grounds": "nominative singular of chāyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "by-her",
+     "grounds": "instrumental singular feminine pronoun",
+     "morph": "pron.ins.sg.f"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal relative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What appears at the beginning of creation's activity according to this account?",
+   "premises": [
+    "The context is the beginning of creation's activity.",
+    "A shadow is seen by her.",
+    "This occurs at a specific moment marked by 'when'."
+   ],
+   "inference": "At the beginning of creation's activity, a shadow is seen by her.",
+   "uncertainties": [
+    "The referent of tayā depends on the preceding verse."
+   ],
+   "plain_english": "Indeed, at the beginning of the work of creation, when a shadow was seen by her."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "pratibimbam",
+     "gloss": "reflection",
+     "grounds": "nominative singular of pratibimba",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dṛṣṭam",
+     "gloss": "seen",
+     "grounds": "nominative singular neuter past participle of dṛś",
+     "morph": "n.nom.sg.past.part-dṛś"
+    },
+    {
+     "surface": "jātā",
+     "gloss": "born",
+     "grounds": "nominative singular feminine past participle of jan",
+     "morph": "f.nom.sg.past.part-jan"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound jñāna+abhidhā",
+     "morph": "compound:jñāna+abhidhā"
+    },
+    {
+     "surface": "abhidhā",
+     "gloss": "named",
+     "grounds": "nominative singular feminine, having the name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun nominative singular feminine",
+     "morph": "pron.nom.sg.f"
+    }
+   ],
+   "question": "What arises and is named knowledge when a reflection is seen in that shadow?",
+   "premises": [
+    "A reflection is seen there.",
+    "Something is born from that seeing.",
+    "That born entity is named knowledge."
+   ],
+   "inference": "When a reflection is seen there, she who is born is named knowledge.",
+   "uncertainties": [
+    "The metaphysical status of jñāna here depends on the broader doctrinal context."
+   ],
+   "plain_english": "There a reflection was seen; she who was born was indeed named knowledge."
+  }
+ ]
+}

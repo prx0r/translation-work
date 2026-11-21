@@ -1,0 +1,45 @@
+{
+ "song": "kul-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "adepts",
+     "grounds": "genitive plural of sādhaka, adepts",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hitārthāya",
+     "gloss": "for-welfare",
+     "grounds": "dative singular compound hita+artha, for welfare",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "brahmaṇo",
+     "gloss": "of-brahma",
+     "grounds": "genitive singular of brahman",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rūpakalpanā",
+     "gloss": "form-conception",
+     "grounds": "nominative singular compound rūpa+kalpanā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is Brahma's form conceived for adepts' welfare?",
+   "premises": [
+    "Adepts' welfare motivates the conception.",
+    "Brahma's form is conceived.",
+    "The verse states this purpose."
+   ],
+   "inference": "The verse presents Brahma's form-conception as serving adepts' welfare.",
+   "uncertainties": [
+    "Exact ritual context is not supplied by the verse alone."
+   ],
+   "plain_english": "For the welfare of adepts, the form of Brahma is conceived."
+  }
+ ]
+}

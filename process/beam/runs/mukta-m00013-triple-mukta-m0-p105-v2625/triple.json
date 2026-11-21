@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "intensifying qualifier attributing greatness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogī",
+     "gloss": "yogi",
+     "grounds": "epithet denoting one accomplished in yoga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "intensifying qualifier attributing greatness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udāraḥ",
+     "gloss": "noble-generous",
+     "grounds": "epithet denoting magnanimity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sugrīve",
+     "gloss": "to-Sugrīva",
+     "grounds": "recipient of the bestowed kingdom",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "psita",
+     "gloss": "desired",
+     "grounds": "qualifies the kingdom as wished for; member of psita-rājya-da compound sense",
+     "morph": "psita+compound-member"
+    },
+    {
+     "surface": "rājya",
+     "gloss": "kingdom",
+     "grounds": "object bestowed; member of psita-rājya-da compound sense",
+     "morph": "rājya+compound-member"
+    },
+    {
+     "surface": "daḥ",
+     "gloss": "giver",
+     "grounds": "agent noun indicating bestowal; final member of psita-rājya-da compound sense",
+     "morph": "da+m.nom.sg+compound-final"
+    }
+   ],
+   "question": "Which yogic and generous qualities, and which gift to Sugrīva, characterize this figure?",
+   "premises": [
+    "The subject is described as a great yogi.",
+    "The subject is described as greatly noble and generous.",
+    "The subject is the giver of the desired kingdom to Sugrīva."
+   ],
+   "inference": "The figure is characterized by supreme yogic attainment, magnanimity, and the act of restoring Sugrīva's desired kingship.",
+   "uncertainties": [
+    "The exact syntactic boundary of the compound sense spanning psita, rājya, and daḥ is inferred from context while keeping tokens separate."
+   ],
+   "plain_english": "He is a great yogi and greatly noble, the giver of the desired kingdom to Sugrīva."
+  }
+ ]
+}

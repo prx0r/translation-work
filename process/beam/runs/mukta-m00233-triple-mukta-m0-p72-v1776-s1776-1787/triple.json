@@ -1,0 +1,431 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1776,
+   "rows": [
+    {
+     "surface": "svairmantrairaṣṭalokeśāṃstadagre",
+     "gloss": "with-own-mantras-eight-world-lords-before-that",
+     "grounds": "fused sandhi form kept whole; own mantras, eight world lords, before that",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative altar",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "own mantras precede the eight world lords",
+    "the altar is the ritual base",
+    "the rite is repeated again"
+   ],
+   "inference": "the rite begins with mantra worship of world lords at the altar before further steps",
+   "uncertainties": [
+    "exact sandhi boundaries inside the fused token are not expanded"
+   ],
+   "plain_english": "With one's own mantras, before the eight world lords, at the altar, again."
+  },
+  {
+   "verse": 1777,
+   "rows": [
+    {
+     "surface": "tasmāddhastadvaye",
+     "gloss": "therefore-two-hands",
+     "grounds": "fused form; therefore with two hands",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "v.abs-kr"
+    },
+    {
+     "surface": "maṇḍalaṃ+caturaśrakam",
+     "gloss": "square-mandala",
+     "grounds": "compound kept as fused token",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "two hands are used",
+    "a square mandala is made",
+    "the action follows the prior worship"
+   ],
+   "inference": "the teacher makes a square mandala with both hands after the initial worship",
+   "uncertainties": [
+    "internal sandhi of the fused token is not split"
+   ],
+   "plain_english": "Therefore, having made a square mandala with both hands."
+  },
+  {
+   "verse": 1778,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "v.abs-hu"
+    },
+    {
+     "surface": "vṛṣamantreṇa",
+     "gloss": "with-bull-mantra",
+     "grounds": "instrumental mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "agent",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "the teacher offers",
+    "the bull mantra is used",
+    "offering precedes dismissal"
+   ],
+   "inference": "the teacher offers with the bull mantra",
+   "uncertainties": [
+    "the exact offering substance is not specified"
+   ],
+   "plain_english": "Having offered with the bull mantra, the teacher."
+  },
+  {
+   "verse": 1779,
+   "rows": [
+    {
+     "surface": "sviṣṭakṛtaṃ+cāpi",
+     "gloss": "svistakrta-also",
+     "grounds": "fused token; sviṣṭakṛta plus api",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive",
+     "morph": "v.abs-hu"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "should-dismiss",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt-visarj"
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "sviṣṭakṛta is also offered",
+    "fire is offered to",
+    "fire is then dismissed"
+   ],
+   "inference": "after offering sviṣṭakṛta, the teacher dismisses the fire",
+   "uncertainties": [
+    "the exact sense of sviṣṭakṛta is context-dependent"
+   ],
+   "plain_english": "Having also offered sviṣṭakṛta, he should dismiss the fire."
+  },
+  {
+   "verse": 1780,
+   "rows": [
+    {
+     "surface": "vātha+madhyāhne+pūrvarātre+sulagnake",
+     "gloss": "or-midday-former-night-good-ascendant",
+     "grounds": "fused token with multiple sandhi points kept whole",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "the rite may occur at midday",
+    "it may occur in the former night",
+    "a good ascendant is required"
+   ],
+   "inference": "the flag rite is performed at auspicious times such as midday or former night",
+   "uncertainties": [
+    "the fused token is not split into separate time clauses"
+   ],
+   "plain_english": "Or at midday, in the former night, with a good ascendant."
+  },
+  {
+   "verse": 1781,
+   "rows": [
+    {
+     "surface": "dhvajam",
+     "gloss": "flag",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uddhṛtya",
+     "gloss": "having-raised",
+     "grounds": "absolutive",
+     "morph": "v.abs-uddhr"
+    },
+    {
+     "surface": "yantreṇa",
+     "gloss": "by-machine",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vāhayet",
+     "gloss": "should-drive",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt-vah"
+    },
+    {
+     "surface": "śirasā+athavā",
+     "gloss": "by-head-or",
+     "grounds": "fused token; by head or",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "the flag is raised",
+    "it may be driven by machine",
+    "it may be carried by head"
+   ],
+   "inference": "the flag is raised and then driven either by machine or by head",
+   "uncertainties": [
+    "the exact machine is not described"
+   ],
+   "plain_english": "Having raised the flag, he should drive it by machine or by head."
+  },
+  {
+   "verse": 1782,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "having-entered",
+     "grounds": "absolutive",
+     "morph": "v.abs-pravis"
+    },
+    {
+     "surface": "nirdiṣṭe",
+     "gloss": "appointed",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "dhvajasthāne",
+     "gloss": "flag-place",
+     "grounds": "compound place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt-vinyas"
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "one enters the appointed place",
+    "the flag place is specified",
+    "the flag is placed there"
+   ],
+   "inference": "after entering the appointed flag place, one places the flag",
+   "uncertainties": [
+    "the exact appointed place is not named"
+   ],
+   "plain_english": "Having entered the appointed flag place, he should place it."
+  },
+  {
+   "verse": 1783,
+   "rows": [
+    {
+     "surface": "mūle+madhye+agre",
+     "gloss": "root-middle-tip",
+     "grounds": "fused token listing three positions",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vṛṣaṣaṇmukhamārutān",
+     "gloss": "bull-six-faced-wind-gods",
+     "grounds": "compound of bull, six-faced, and wind gods",
+     "morph": "n.acc.pl"
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "root, middle, and tip are named",
+    "bull, six-faced, and wind gods are placed",
+    "placement follows the flag position"
+   ],
+   "inference": "the bull, six-faced, and wind gods are placed at root, middle, and tip",
+   "uncertainties": [
+    "the exact mapping of gods to positions is not explicit"
+   ],
+   "plain_english": "At root, middle, and tip, the bull, six-faced, and wind gods."
+  },
+  {
+   "verse": 1784,
+   "rows": [
+    {
+     "surface": "samānīya",
+     "gloss": "having-brought-together",
+     "grounds": "absolutive",
+     "morph": "v.abs-samani"
+    },
+    {
+     "surface": "dhvajopānte",
+     "gloss": "at-flag-edge",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt-vinyas"
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "items are brought together",
+    "placement occurs at the flag edge",
+    "placement is prescribed"
+   ],
+   "inference": "after bringing items together, one places them at the flag edge",
+   "uncertainties": [
+    "the brought items are not enumerated here"
+   ],
+   "plain_english": "Having brought them together, he should place them at the flag edge."
+  },
+  {
+   "verse": 1785,
+   "rows": [
+    {
+     "surface": "maṅgalāṅkuradīpādyaiḥ",
+     "gloss": "with-auspicious-sprouts-lamps-etc",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "alaṅkṛtya",
+     "gloss": "having-decorated",
+     "grounds": "absolutive",
+     "morph": "v.abs-alankr"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "as-prescribed",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "auspicious sprouts and lamps are used",
+    "decoration is performed",
+    "decoration follows prescription"
+   ],
+   "inference": "the flag is decorated with auspicious sprouts, lamps, and similar items as prescribed",
+   "uncertainties": [
+    "the full list of decorative items is abbreviated"
+   ],
+   "plain_english": "Having decorated with auspicious sprouts, lamps, and so on, as prescribed."
+  },
+  {
+   "verse": 1786,
+   "rows": [
+    {
+     "surface": "samyag",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rajjvā",
+     "gloss": "with-rope",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "veṣṭayet",
+     "gloss": "should-wrap",
+     "grounds": "optative",
+     "morph": "v.3.sg.opt-vest"
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "the staff is wrapped",
+    "rope is used",
+    "wrapping is done properly"
+   ],
+   "inference": "the staff is properly wrapped with rope",
+   "uncertainties": [
+    "the wrapping pattern is not detailed"
+   ],
+   "plain_english": "He should properly wrap the staff with rope."
+  },
+  {
+   "verse": 1787,
+   "rows": [
+    {
+     "surface": "dhvajam",
+     "gloss": "flag",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ārādhya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive",
+     "morph": "v.abs-aradh"
+    },
+    {
+     "surface": "nivedyāntaṃ",
+     "gloss": "after-offering",
+     "grounds": "compound indicating after offering",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "as-prescribed",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sequence of offerings, placements, and worship governs the flag-raising rite?",
+   "premises": [
+    "the flag is worshipped",
+    "offering comes before the end",
+    "worship follows prescription"
+   ],
+   "inference": "the flag is worshipped and offerings are completed as prescribed",
+   "uncertainties": [
+    "the exact offerings are not listed here"
+   ],
+   "plain_english": "Having worshipped the flag, after offering, as prescribed."
+  }
+ ]
+}

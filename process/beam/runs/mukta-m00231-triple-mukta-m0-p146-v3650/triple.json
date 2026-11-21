@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p146",
+ "items": [
+  {
+   "verse": 3650,
+   "rows": [
+    {
+     "surface": "raktamadhyā",
+     "gloss": "red-middled",
+     "grounds": "legacy hint red-middled",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raktadehā",
+     "gloss": "red-bodied",
+     "grounds": "legacy hint red-bodied",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nīlajaṅghorujānukā",
+     "gloss": "blue-thighed",
+     "grounds": "legacy hint blue-thighed",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which bodily colors and limbs mark this tāmasī Śivā in Madhu and Kaiṭabha's battle?",
+   "premises": [
+    "The verse lists three bodily marks.",
+    "The marks belong to tāmasī Śivā.",
+    "The context names Madhu and Kaiṭabha's battle."
+   ],
+   "inference": "This tāmasī Śivā is identified by a red middle, red body, and blue thighs.",
+   "uncertainties": [
+    "Exact compound segmentation of nīlajaṅghorujānukā is not resolved.",
+    "Whether these marks are literal or symbolic is not stated."
+   ],
+   "plain_english": "She is red in the middle, red-bodied, and blue-thighed."
+  }
+ ]
+}

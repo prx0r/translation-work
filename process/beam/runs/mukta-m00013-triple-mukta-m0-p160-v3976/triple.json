@@ -1,0 +1,1129 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 3976,
+   "rows": [
+    {
+     "surface": "sucirāyuṣmantam",
+     "gloss": "very-long-lived",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṣṭhīdevī",
+     "gloss": "goddess-ṣaṣṭhī",
+     "grounds": "compound name of goddess",
+     "morph": "f.nom.sg (ṣaṣṭhī+devī)"
+    },
+    {
+     "surface": "prasādataḥ",
+     "gloss": "by-grace",
+     "grounds": "ablative singular expressing cause",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What boon does goddess Ṣaṣṭhī grant through her grace?",
+   "premises": [
+    "Goddess Ṣaṣṭhī bestows grace",
+    "Her grace produces a very long life"
+   ],
+   "inference": "By the grace of goddess Ṣaṣṭhī one becomes very long-lived.",
+   "uncertainties": [],
+   "plain_english": "By the grace of goddess Ṣaṣṭhī, one indeed becomes very long-lived."
+  },
+  {
+   "verse": 3977,
+   "rows": [
+    {
+     "surface": "viṣṇavī",
+     "gloss": "related-to-viṣṇu",
+     "grounds": "feminine adjective describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāgabhaginī",
+     "gloss": "sister-of-nāgas",
+     "grounds": "compound describing relationship to nāgas",
+     "morph": "f.nom.sg (nāga+bhaginī)"
+    },
+    {
+     "surface": "śaivā",
+     "gloss": "related-to-śiva",
+     "grounds": "feminine adjective describing the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāgeśvarī",
+     "gloss": "mistress-of-nāgas",
+     "grounds": "compound title of the goddess",
+     "morph": "f.nom.sg (nāga+īśvarī)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating addition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which divine affiliations and titles characterize this goddess?",
+   "premises": [
+    "The goddess is related to Viṣṇu and Śiva",
+    "She is sister and mistress of nāgas"
+   ],
+   "inference": "The goddess bears multiple affiliations as Viṣṇu-related, Śiva-related, sister of nāgas, and mistress of nāgas.",
+   "uncertainties": [],
+   "plain_english": "She is related to Viṣṇu, sister of the nāgas, related to Śiva, and likewise mistress of the nāgas."
+  },
+  {
+   "verse": 3978,
+   "rows": [
+    {
+     "surface": "mahājñānayutā",
+     "gloss": "endowed-with-great-knowledge",
+     "grounds": "compound adjective describing the goddess",
+     "morph": "f.nom.sg (mahā+jñāna+yutā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "noun referring to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvapūjitā",
+     "gloss": "worshipped-by-all",
+     "grounds": "compound adjective describing the goddess",
+     "morph": "f.nom.sg (viśva+pūjitā)"
+    }
+   ],
+   "question": "What qualities and universal status belong to that goddess?",
+   "premises": [
+    "That goddess is endowed with great knowledge",
+    "That goddess is worshipped by all"
+   ],
+   "inference": "The goddess possesses great knowledge and receives universal worship.",
+   "uncertainties": [],
+   "plain_english": "And indeed that goddess is endowed with great knowledge and worshipped by all."
+  },
+  {
+   "verse": 3979,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun referring to the devotee",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāgabhayam",
+     "gloss": "fear-of-nāgas",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg (nāga+bhayam)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "existential negation",
+     "morph": "3.sg.pres.act (√as)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun referring to the devotee",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vaṃśodbhavasya",
+     "gloss": "born-in-lineage",
+     "grounds": "compound adjective describing descendants",
+     "morph": "m.gen.sg (vaṃśa+udbhavasya)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protection from nāgas extends to the devotee and his lineage?",
+   "premises": [
+    "The devotee has no fear of nāgas",
+    "Those born in his lineage also have no fear of nāgas"
+   ],
+   "inference": "Protection from nāga-fear applies both to the devotee and to his descendants.",
+   "uncertainties": [],
+   "plain_english": "He has no fear of nāgas, nor do those born in his lineage."
+  },
+  {
+   "verse": 3980,
+   "rows": [
+    {
+     "surface": "nāgakṣatamahādurge",
+     "gloss": "in-great-danger-from-nāga-harm",
+     "grounds": "compound locative describing a perilous situation",
+     "morph": "n.loc.sg (nāga+kṣata+mahā+durge)"
+    },
+    {
+     "surface": "nāgaveṣṭitavigrahe",
+     "gloss": "in-body-surrounded-by-nāgas",
+     "grounds": "compound locative describing physical encirclement",
+     "morph": "m.loc.sg (nāga+veṣṭita+vigrahe)"
+    }
+   ],
+   "question": "In what perilous nāga-related situations does the protective practice apply?",
+   "premises": [
+    "One may face great danger from nāga harm",
+    "One may have a body surrounded by nāgas"
+   ],
+   "inference": "The practice is relevant in extreme danger from nāgas and when encircled by them.",
+   "uncertainties": [],
+   "plain_english": "In great danger from nāga harm, or when the body is surrounded by nāgas."
+  },
+  {
+   "verse": 3981,
+   "rows": [
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "adverb of frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "one-should-recite",
+     "grounds": "optative expressing injunction",
+     "morph": "3.sg.opt.act (√paṭh)"
+    },
+    {
+     "surface": "vāstu-dṛṣṭvā",
+     "gloss": "having-seen-place",
+     "grounds": "gerund with object indicating prior action",
+     "morph": "(gerund, √dṛś; vāstu+acc.)"
+    },
+    {
+     "surface": "nāgavargaḥ",
+     "gloss": "host-of-nāgas",
+     "grounds": "compound subject",
+     "morph": "m.nom.sg (nāga+vargaḥ)"
+    },
+    {
+     "surface": "palāyate",
+     "gloss": "flees",
+     "grounds": "present tense result",
+     "morph": "3.sg.pres.mid (√palāy)"
+    }
+   ],
+   "question": "What effect follows from regularly reciting after seeing the place?",
+   "premises": [
+    "One should always recite after seeing the place",
+    "The host of nāgas flees as a result"
+   ],
+   "inference": "Regular recitation upon seeing the place causes nāgas to flee.",
+   "uncertainties": [
+    "The exact referent of vāstu is context-dependent."
+   ],
+   "plain_english": "One should always recite after seeing the place, and the host of nāgas flees."
+  },
+  {
+   "verse": 3982,
+   "rows": [
+    {
+     "surface": "viṣam",
+     "gloss": "poison",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "optative expressing potential result",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "sudhātulyaṃ",
+     "gloss": "equal-to-nectar",
+     "grounds": "compound adjective describing transformation",
+     "morph": "n.nom.sg (sudhā+tulyaṃ)"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhastotraḥ",
+     "gloss": "hymn-accomplished",
+     "grounds": "compound adjective describing perfected hymn",
+     "morph": "m.nom.sg (siddha+stotraḥ)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative expressing condition",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "Under what condition does poison become equivalent to nectar?",
+   "premises": [
+    "Poison can become equal to nectar",
+    "This occurs when the hymn becomes accomplished"
+   ],
+   "inference": "When the hymn is perfected, poison is transformed into nectar.",
+   "uncertainties": [],
+   "plain_english": "Poison would become equal to nectar when the hymn becomes accomplished."
+  },
+  {
+   "verse": 3983,
+   "rows": [
+    {
+     "surface": "mantrāṇām",
+     "gloss": "of-mantras",
+     "grounds": "genitive plural object of giving",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "phaladātrī",
+     "gloss": "giver-of-fruit",
+     "grounds": "compound agent noun",
+     "morph": "f.nom.sg (phala+dātrī)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhātrī",
+     "gloss": "supporter",
+     "grounds": "agent noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jagatām",
+     "gloss": "of-worlds",
+     "grounds": "genitive plural object of support",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "satī",
+     "gloss": "being-true",
+     "grounds": "present participle used adjectivally",
+     "morph": "f.nom.sg (√as)"
+    }
+   ],
+   "question": "What roles does the goddess fulfill regarding mantras and worlds?",
+   "premises": [
+    "She gives the fruit of mantras",
+    "She supports the worlds"
+   ],
+   "inference": "The goddess functions as both the bestower of mantra results and the sustainer of worlds.",
+   "uncertainties": [],
+   "plain_english": "She is the giver of the fruit of mantras and the true supporter of the worlds."
+  },
+  {
+   "verse": 3984,
+   "rows": [
+    {
+     "surface": "hutāśa",
+     "gloss": "of-fire",
+     "grounds": "compound member indicating relation to fire",
+     "morph": "m.stem (in compound)"
+    },
+    {
+     "surface": "dāhikāśaktiḥ",
+     "gloss": "burning-power",
+     "grounds": "compound noun identifying the goddess",
+     "morph": "f.nom.sg (hutāśa+dāhikā+śaktiḥ)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāṇādhika",
+     "gloss": "surpassing-life-force",
+     "grounds": "compound member describing form",
+     "morph": "m.stem (in compound)"
+    },
+    {
+     "surface": "rūpiṇī",
+     "gloss": "having-form",
+     "grounds": "adjective forming compound predicate",
+     "morph": "f.nom.sg (prāṇādhika+rūpiṇī)"
+    }
+   ],
+   "question": "How is the goddess identified with fire and vital power?",
+   "premises": [
+    "She is the burning power of fire",
+    "She has a form surpassing the life force"
+   ],
+   "inference": "The goddess embodies both fire's burning power and a form beyond ordinary vital force.",
+   "uncertainties": [],
+   "plain_english": "She is the burning power of fire, having a form that surpasses the life force."
+  },
+  {
+   "verse": 3985,
+   "rows": [
+    {
+     "surface": "devajīvanarūpā",
+     "gloss": "form-of-life-of-gods",
+     "grounds": "compound adjective describing the goddess",
+     "morph": "f.nom.sg (deva+jīvana+rūpā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devapāṣāṇakāriṇī",
+     "gloss": "maker-of-stones-of-gods",
+     "grounds": "compound agent noun",
+     "morph": "f.nom.sg (deva+pāṣāṇa+kāriṇī)"
+    }
+   ],
+   "question": "What divine life-giving and transformative functions does the goddess perform?",
+   "premises": [
+    "She has the form of the life of the gods",
+    "She is the maker of the stones of the gods"
+   ],
+   "inference": "The goddess embodies divine life and produces sacred stones for the gods.",
+   "uncertainties": [
+    "The precise meaning of devapāṣāṇa is unclear in this context."
+   ],
+   "plain_english": "She is the form of the life of the gods and the maker of the stones of the gods."
+  },
+  {
+   "verse": 3986,
+   "rows": [
+    {
+     "surface": "aputraḥ",
+     "gloss": "sonless",
+     "grounds": "adjective describing a person without a son",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present tense result",
+     "morph": "3.sg.pres.mid (√labh)"
+    },
+    {
+     "surface": "putram",
+     "gloss": "a-son",
+     "grounds": "object obtained",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhāryaḥ",
+     "gloss": "without-wife",
+     "grounds": "adjective describing a person without a wife",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present tense result",
+     "morph": "3.sg.pres.mid (√labh)"
+    },
+    {
+     "surface": "priyām",
+     "gloss": "a-beloved",
+     "grounds": "object obtained",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What domestic fulfillments does the goddess grant to the deprived?",
+   "premises": [
+    "A sonless person obtains a son",
+    "A wifeless person obtains a beloved"
+   ],
+   "inference": "The goddess grants offspring to the sonless and a beloved partner to the wifeless.",
+   "uncertainties": [],
+   "plain_english": "The sonless obtains a son, and the wifeless obtains a beloved."
+  },
+  {
+   "verse": 3987,
+   "rows": [
+    {
+     "surface": "rādhāsamā",
+     "gloss": "equal-to-rādhā",
+     "grounds": "compound adjective of comparison",
+     "morph": "f.nom.sg (rādhā+samā)"
+    },
+    {
+     "surface": "tatsakhī",
+     "gloss": "her-companion",
+     "grounds": "compound noun indicating companionship",
+     "morph": "f.nom.sg (tat+sakhī)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīkṛṣṇapreyasī",
+     "gloss": "beloved-of-śrīkṛṣṇa",
+     "grounds": "compound adjective describing relationship",
+     "morph": "f.nom.sg (śrīkṛṣṇa+preyasī)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is the goddess related to Rādhā and Śrī Kṛṣṇa?",
+   "premises": [
+    "She is equal to Rādhā and her companion",
+    "She is beloved of Śrī Kṛṣṇa"
+   ],
+   "inference": "The goddess stands as Rādhā's equal and companion and as Śrī Kṛṣṇa's beloved.",
+   "uncertainties": [],
+   "plain_english": "O beloved, she is equal to Rādhā, her companion, and the beloved of Śrī Kṛṣṇa."
+  },
+  {
+   "verse": 3988,
+   "rows": [
+    {
+     "surface": "āvirbhūtā",
+     "gloss": "manifested",
+     "grounds": "past participle describing appearance",
+     "morph": "f.nom.sg (āvis+√bhū)"
+    },
+    {
+     "surface": "dakṣiṇāṃsāt",
+     "gloss": "from-right-shoulder",
+     "grounds": "compound ablative indicating origin",
+     "morph": "m.abl.sg (dakṣiṇa+aṃsāt)"
+    },
+    {
+     "surface": "kṛṣṇasya",
+     "gloss": "of-kṛṣṇa",
+     "grounds": "genitive specifying whose shoulder",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "instrumental used adverbially for reason",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "dakṣiṇā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What origin explains the goddess's name Dakṣiṇā?",
+   "premises": [
+    "She manifested from Kṛṣṇa's right shoulder",
+    "Her name Dakṣiṇā derives from that origin"
+   ],
+   "inference": "The goddess is called Dakṣiṇā because she appeared from Kṛṣṇa's right shoulder.",
+   "uncertainties": [],
+   "plain_english": "She manifested from the right shoulder of Kṛṣṇa; therefore she is called Dakṣiṇā."
+  },
+  {
+   "verse": 3989,
+   "rows": [
+    {
+     "surface": "kṛṣṇadakṣāṃsavāsāt",
+     "gloss": "from-dwelling-on-kṛṣṇa-right-shoulder",
+     "grounds": "compound ablative indicating cause",
+     "morph": "m.abl.sg (kṛṣṇa+dakṣa+aṃsa+vāsāt)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rādhāśāpāt",
+     "gloss": "from-curse-of-rādhā",
+     "grounds": "compound ablative indicating cause",
+     "morph": "m.abl.sg (rādhā+śāpāt)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "dakṣiṇā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What additional causes are associated with the goddess Dakṣiṇā?",
+   "premises": [
+    "She is linked to dwelling on Kṛṣṇa's right shoulder",
+    "She is linked to a curse from Rādhā"
+   ],
+   "inference": "Dakṣiṇā's identity is connected both to Kṛṣṇa's right shoulder and to Rādhā's curse.",
+   "uncertainties": [
+    "The narrative details of Rādhā's curse are not specified here."
+   ],
+   "plain_english": "Because of dwelling on Kṛṣṇa's right shoulder and because of Rādhā's curse, she is Dakṣiṇā."
+  },
+  {
+   "verse": 3990,
+   "rows": [
+    {
+     "surface": "kṛpām",
+     "gloss": "compassion",
+     "grounds": "object of the request",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (√kṛ)"
+    },
+    {
+     "surface": "mahābhāge",
+     "gloss": "o-fortunate-one",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object pronoun",
+     "morph": "1.sg.acc"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāminam",
+     "gloss": "lord",
+     "grounds": "object complement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (√kṛ)"
+    }
+   ],
+   "question": "What twofold request is made to the fortunate goddess?",
+   "premises": [
+    "The speaker asks the goddess to show compassion",
+    "The speaker asks the goddess to make him her lord"
+   ],
+   "inference": "The devotee petitions the goddess for compassion and for acceptance as her lord.",
+   "uncertainties": [
+    "The sense of svāminam as 'lord' in this devotional address is contextually unusual."
+   ],
+   "plain_english": "Show compassion, O fortunate one; indeed make me your lord."
+  },
+  {
+   "verse": 3991,
+   "rows": [
+    {
+     "surface": "tvayā-vinā",
+     "gloss": "without-you",
+     "grounds": "instrumental with prepositional sense",
+     "morph": "(indecl., tvayā+vinā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarvakarma",
+     "gloss": "every-action",
+     "grounds": "compound subject",
+     "morph": "n.nom.sg (sarva+karma)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence for all actions follows from the goddess's absence?",
+   "premises": [
+    "Without the goddess, actions are considered",
+    "Every action of all becomes fruitless"
+   ],
+   "inference": "In the absence of the goddess, all actions lack fruit.",
+   "uncertainties": [],
+   "plain_english": "And without you, every action of all is fruitless."
+  },
+  {
+   "verse": 3992,
+   "rows": [
+    {
+     "surface": "tvayā-vinā",
+     "gloss": "without-you",
+     "grounds": "instrumental with prepositional sense",
+     "morph": "(indecl., tvayā+vinā)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karmiṇām",
+     "gloss": "of-doers",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na-śobhate",
+     "gloss": "does-not-shine",
+     "grounds": "negated present tense",
+     "morph": "3.sg.pres.mid (na+√śubh)"
+    }
+   ],
+   "question": "How does the goddess's absence affect the actions of doers?",
+   "premises": [
+    "Without the goddess, the action of doers is considered",
+    "Such action does not shine or prosper"
+   ],
+   "inference": "Without the goddess, the actions performed by doers lack splendor.",
+   "uncertainties": [],
+   "plain_english": "Likewise, without you, the action of doers does not shine."
+  },
+  {
+   "verse": 3993,
+   "rows": [
+    {
+     "surface": "karmaṇaḥ",
+     "gloss": "of-action",
+     "grounds": "genitive specifying the fruit",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "object of giving",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dātum",
+     "gloss": "to-give",
+     "grounds": "infinitive expressing purpose or capacity",
+     "morph": "(inf., √dā)"
+    },
+    {
+     "surface": "na-śaktāḥ",
+     "gloss": "not-able",
+     "grounds": "negated adjective of capability",
+     "morph": "m.nom.pl (na+śaktāḥ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvayā-vinā",
+     "gloss": "without-you",
+     "grounds": "instrumental with prepositional sense",
+     "morph": "(indecl., tvayā+vinā)"
+    }
+   ],
+   "question": "Who lacks the capacity to grant the fruit of action without the goddess?",
+   "premises": [
+    "The fruit of action must be given",
+    "Without the goddess, others are not able to give it"
+   ],
+   "inference": "Without the goddess, no one is capable of bestowing the fruit of action.",
+   "uncertainties": [
+    "The implied agents who are not able are unspecified."
+   ],
+   "plain_english": "And without you, they are not able to give the fruit of action."
+  },
+  {
+   "verse": 3994,
+   "rows": [
+    {
+     "surface": "yajñarūpī",
+     "gloss": "having-form-of-sacrifice",
+     "grounds": "compound adjective describing Viṣṇu",
+     "morph": "m.nom.sg (yajña+rūpī)"
+    },
+    {
+     "surface": "viṣṇuḥ",
+     "gloss": "viṣṇu",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first person pronoun",
+     "morph": "1.sg.nom"
+    },
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "second person pronoun",
+     "morph": "2.sg.nom"
+    },
+    {
+     "surface": "eṣām",
+     "gloss": "of-these",
+     "grounds": "demonstrative pronoun referring to sacrifices or forms",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sārarūpiṇī",
+     "gloss": "having-form-of-essence",
+     "grounds": "compound adjective describing the goddess",
+     "morph": "f.nom.sg (sāra+rūpiṇī)"
+    }
+   ],
+   "question": "What complementary identities do Viṣṇu and the goddess assume in sacrifice?",
+   "premises": [
+    "Viṣṇu is identified as having the form of sacrifice",
+    "The goddess is identified as having the form of their essence"
+   ],
+   "inference": "Viṣṇu embodies sacrifice while the goddess embodies its essential core.",
+   "uncertainties": [
+    "The referent of eṣām is not explicit."
+   ],
+   "plain_english": "Viṣṇu is the form of sacrifice, and you are the form of their essence."
+  },
+  {
+   "verse": 3995,
+   "rows": [
+    {
+     "surface": "svayam",
+     "gloss": "himself",
+     "grounds": "emphatic reflexive adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇaḥ",
+     "gloss": "kṛṣṇa",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "lord",
+     "grounds": "epithet of Kṛṣṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktaḥ",
+     "gloss": "capable",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvayā-saha",
+     "gloss": "with-you",
+     "grounds": "instrumental with associative particle",
+     "morph": "(indecl., tvayā+saha)"
+    }
+   ],
+   "question": "What enables Lord Kṛṣṇa himself to be capable?",
+   "premises": [
+    "Kṛṣṇa himself is the Lord",
+    "He is capable only together with the goddess"
+   ],
+   "inference": "Even Lord Kṛṣṇa's capability depends on being with the goddess.",
+   "uncertainties": [],
+   "plain_english": "Lord Kṛṣṇa himself is capable only together with you."
+  },
+  {
+   "verse": 3996,
+   "rows": [
+    {
+     "surface": "sarvakarmaṇi",
+     "gloss": "in-every-action",
+     "grounds": "compound locative indicating scope",
+     "morph": "n.loc.sg (sarva+karmaṇi)"
+    },
+    {
+     "surface": "śaktaḥ",
+     "gloss": "capable",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first person pronoun",
+     "morph": "1.sg.nom"
+    },
+    {
+     "surface": "tvayā-saha",
+     "gloss": "with-you",
+     "grounds": "instrumental with associative particle",
+     "morph": "(indecl., tvayā+saha)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "o-beautiful-faced-one",
+     "grounds": "compound vocative address",
+     "morph": "f.voc.sg (vara+ānane)"
+    }
+   ],
+   "question": "What condition allows the speaker to act capably in every action?",
+   "premises": [
+    "The speaker claims capability in every action",
+    "This capability exists only together with the goddess"
+   ],
+   "inference": "The speaker's power in all actions depends on the goddess's presence.",
+   "uncertainties": [],
+   "plain_english": "O beautiful-faced one, I am capable in every action only together with you."
+  },
+  {
+   "verse": 3997,
+   "rows": [
+    {
+     "surface": "tuṣṭā",
+     "gloss": "pleased",
+     "grounds": "past participle describing the goddess",
+     "morph": "f.nom.sg (√tuṣ)"
+    },
+    {
+     "surface": "vabhūva",
+     "gloss": "became",
+     "grounds": "perfect tense verb",
+     "morph": "3.sg.perf.act (√bhū)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt.act (√bhaj)"
+    },
+    {
+     "surface": "tām",
+     "gloss": "her",
+     "grounds": "object pronoun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kamalākalām",
+     "gloss": "lotus-aspect",
+     "grounds": "compound epithet of the goddess",
+     "morph": "f.acc.sg (kamalā+kalām)"
+    }
+   ],
+   "question": "What response and injunction follow the goddess's satisfaction?",
+   "premises": [
+    "That goddess became pleased",
+    "One should worship her as the lotus aspect"
+   ],
+   "inference": "Because the goddess is pleased, she should be worshipped in her lotus aspect.",
+   "uncertainties": [
+    "The epithet kamalākalām may have specific theological nuance."
+   ],
+   "plain_english": "That goddess became pleased; one should worship her, the lotus aspect."
+  },
+  {
+   "verse": 3998,
+   "rows": [
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "object obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvayajñānām",
+     "gloss": "of-all-sacrifices",
+     "grounds": "compound genitive plural",
+     "morph": "m.gen.pl (sarva+yajñānām)"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "present tense result",
+     "morph": "3.sg.pres.mid (√labh)"
+    },
+    {
+     "surface": "na-atra",
+     "gloss": "not-here",
+     "grounds": "negated locative adverbial phrase",
+     "morph": "(indecl., na+atra)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "subject noun asserting certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What reward is assured to the worshipper of the goddess?",
+   "premises": [
+    "One obtains the fruit of all sacrifices",
+    "There is no doubt in this matter"
+   ],
+   "inference": "Worship of the goddess yields the fruit of all sacrifices without doubt.",
+   "uncertainties": [],
+   "plain_english": "One obtains the fruit of all sacrifices; there is no doubt here."
+  },
+  {
+   "verse": 3999,
+   "rows": [
+    {
+     "surface": "aśvamedhe",
+     "gloss": "in-horse-sacrifice",
+     "grounds": "locative naming a sacrifice",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maṅgale",
+     "gloss": "in-auspicious-rite",
+     "grounds": "locative naming a rite",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇuyajñe",
+     "gloss": "in-viṣṇu-sacrifice",
+     "grounds": "compound locative naming a sacrifice",
+     "morph": "m.loc.sg (viṣṇu+yajñe)"
+    },
+    {
+     "surface": "yaśasvare",
+     "gloss": "in-glorious",
+     "grounds": "adjective describing the sacrifice",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which specific sacrifices exemplify the contexts where such fruit is obtained?",
+   "premises": [
+    "The horse sacrifice and auspicious rites are named",
+    "The glorious Viṣṇu sacrifice is named"
+   ],
+   "inference": "The promised fruit encompasses major sacrifices such as the aśvamedha, auspicious rites, and the glorious Viṣṇu sacrifice.",
+   "uncertainties": [],
+   "plain_english": "In the horse sacrifice, in the auspicious rite, and in the glorious Viṣṇu sacrifice."
+  }
+ ]
+}

@@ -1,0 +1,563 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "madhumatīṃ",
+     "gloss": "madhumatī",
+     "grounds": "name of a mantra or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-muttered",
+     "grounds": "prior action",
+     "morph": "absolutive √jap"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "māyā-seed",
+     "grounds": "bīja syllable hrīṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūrca+bījakam",
+     "gloss": "kūrca-seed",
+     "grounds": "compound: kūrca+bījakam",
+     "morph": "n.acc.sg compound"
+    }
+   ],
+   "question": "Which mantra elements are to be muttered after the preceding recitation?",
+   "premises": [
+    "The sequence continues after a prior muttering.",
+    "Madhumatī is to be muttered.",
+    "The māyā, śrīṃ, and kūrca seed syllables are included."
+   ],
+   "inference": "After the previous recitation, one should mutter madhumatī together with the māyā, śrīṃ, and kūrca seed syllables.",
+   "uncertainties": [
+    "The exact identity of madhumatī in this ritual context is not specified."
+   ],
+   "plain_english": "Then, having muttered madhumatī, one should mutter the māyā seed, śrīṃ, and the kūrca seed."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīpanī",
+     "gloss": "kindling",
+     "grounds": "qualifying the vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "mantra-knowledge",
+     "grounds": "subject of identification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ajapā",
+     "gloss": "unuttered",
+     "grounds": "epithet of the vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāṇa+rūpiṇī",
+     "gloss": "breath-formed",
+     "grounds": "compound: prāṇa+rūpiṇī",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What is the nature of the mantra identified as the kindling vidyā?",
+   "premises": [
+    "This is called the kindling vidyā.",
+    "It is described as ajapā, the unuttered.",
+    "It is described as having the form of breath."
+   ],
+   "inference": "The kindling vidyā is the unuttered mantra whose essence is breath.",
+   "uncertainties": [],
+   "plain_english": "This indeed is the kindling vidyā, the unuttered mantra whose form is breath."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative context marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamī+vat",
+     "gloss": "like-fifth",
+     "grounds": "compound: pañcamī+vat",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "bhodhyā",
+     "gloss": "to-be-understood",
+     "grounds": "gerundive indicating requirement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāgbhava+śakti+kūṭayoḥ",
+     "gloss": "speech-seed-power-seed-sections",
+     "grounds": "compound: vāgbhava+śakti+kūṭayoḥ",
+     "morph": "m.gen.du compound"
+    },
+    {
+     "surface": "dīpanī",
+     "gloss": "kindling",
+     "grounds": "subject to be understood",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should the kindling element be understood in relation to the speech and power sections?",
+   "premises": [
+    "The context concerns the speech-seed and power-seed sections.",
+    "The kindling is to be understood in that context.",
+    "It is to be understood as like the fifth."
+   ],
+   "inference": "In the speech-seed and power-seed sections, the kindling should be understood as functioning like the fifth.",
+   "uncertainties": [
+    "The precise referent of 'fifth' is not explicitly stated."
+   ],
+   "plain_english": "Here, in the speech-seed and power-seed sections, the kindling should be understood as like the fifth."
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭe",
+     "gloss": "in-section",
+     "grounds": "locative of application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svara+sambandhaḥ",
+     "gloss": "vowel-connection",
+     "grounds": "compound: svara+sambandhaḥ",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What structural connection applies universally within each mantra section?",
+   "premises": [
+    "The statement applies in every section.",
+    "Each section involves a connection.",
+    "That connection is with vowels."
+   ],
+   "inference": "In every section there is a connection with vowels.",
+   "uncertainties": [],
+   "plain_english": "In every section there is a connection with vowels."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "prāṇa+bhūta+sthito",
+     "gloss": "situated-as-breath-element",
+     "grounds": "compound: prāṇa+bhūta+sthitaḥ",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tat+tat+ekādaśaḥ",
+     "gloss": "each-eleventh",
+     "grounds": "compound: tat+tat+ekādaśaḥ",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "predicate qualifier",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What supreme principle is identified as situated in the breath element?",
+   "premises": [
+    "The goddess is addressed directly.",
+    "Something is situated as the breath element.",
+    "That principle is described as each eleventh and supreme."
+   ],
+   "inference": "The supreme principle situated as the breath element is identified as the eleventh in each case.",
+   "uncertainties": [
+    "The exact referent of 'each eleventh' is ambiguous without further context."
+   ],
+   "plain_english": "O goddess, the supreme principle situated as the breath element is the eleventh in each case."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "suvarṇa+rajata+pañcaratna+sphaṭika+tāmra+ādi+utkīrṇaṃ",
+     "gloss": "engraved-in-gold-silver-five-gems-crystal-copper-etc",
+     "grounds": "compound: suvarṇa+rajata+pañcaratna+sphaṭika+tāmra+ādi+utkīrṇam",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active √kṛ"
+    }
+   ],
+   "question": "What materials may be used to engrave the prescribed ritual object?",
+   "premises": [
+    "An object is to be made or engraved.",
+    "Gold, silver, five gems, crystal, and copper are listed.",
+    "Other materials are included by 'etcetera'."
+   ],
+   "inference": "One should make the object engraved in gold, silver, the five gems, crystal, copper, or similar materials.",
+   "uncertainties": [
+    "The specific object to be made is implied from context rather than named here."
+   ],
+   "plain_english": "One should make it engraved in gold, silver, the five gems, crystal, copper, or the like."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "yaḥ",
+     "gloss": "whoever",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative context marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantre",
+     "gloss": "in-diagram",
+     "grounds": "locative of action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pravarteta",
+     "gloss": "should-act",
+     "grounds": "potential or prescriptive action",
+     "morph": "3.sg.optative-middle √vṛt+pra"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "possessive or affected party",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of what is taken",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "harāmi",
+     "gloss": "i-take-away",
+     "grounds": "divine declaration",
+     "morph": "1.sg.present-active √hṛ"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker of the declaration",
+     "morph": "1.nom.sg"
+    }
+   ],
+   "question": "What consequence is declared for anyone who acts within this diagram?",
+   "premises": [
+    "Someone may act within this diagram.",
+    "The speaker declares a response to that action.",
+    "The speaker claims to take away everything of that person."
+   ],
+   "inference": "Whoever acts within this diagram will have everything taken away by the speaker.",
+   "uncertainties": [
+    "The identity of the speaker is implied to be the goddess but not named in this verse."
+   ],
+   "plain_english": "Whoever should act within this diagram, I take away all that is his."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "tat+māṃsa+rudhireṇa",
+     "gloss": "with-his-flesh-blood",
+     "grounds": "compound: tat+māṃsa+rudhireṇa",
+     "morph": "n.inst.sg compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāraṇā",
+     "gloss": "concluding-meal",
+     "grounds": "ritual completion act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the offender",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "occurs",
+     "grounds": "resulting event",
+     "morph": "3.sg.present-middle √jan"
+    }
+   ],
+   "question": "What ritual consequence befalls the offender according to the divine declaration?",
+   "premises": [
+    "The offender is the referent of the consequence.",
+    "A concluding meal is said to occur.",
+    "That meal is made with his flesh and blood."
+   ],
+   "inference": "The offender's concluding meal is effected with his own flesh and blood.",
+   "uncertainties": [],
+   "plain_english": "His concluding meal is made indeed with his own flesh and blood."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "mama+aṅga+kṣatiḥ",
+     "gloss": "injury-to-my-limb",
+     "grounds": "compound: mama+aṅga+kṣatiḥ",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative context marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kriyate",
+     "gloss": "is-done",
+     "grounds": "passive action",
+     "morph": "3.sg.present-passive √kṛ"
+    },
+    {
+     "surface": "pāpa+buddhinā",
+     "gloss": "by-evil-minded-one",
+     "grounds": "compound: pāpa+buddhinā",
+     "morph": "m.inst.sg compound"
+    }
+   ],
+   "question": "How is unauthorized interference with the diagram characterized by the speaker?",
+   "premises": [
+    "An action is performed here by an evil-minded person.",
+    "The speaker equates that action with harm to herself.",
+    "The harm is described as injury to her limb."
+   ],
+   "inference": "Interference by an evil-minded person is treated as causing injury to the speaker's own body.",
+   "uncertainties": [],
+   "plain_english": "Here an injury to my own limb is indeed done by one of evil mind."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "from-statement",
+     "grounds": "source of injunction",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative context marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "keśarāṇi",
+     "gloss": "filaments",
+     "grounds": "parts of the diagram",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "What diagram element is prohibited here based on the preceding declaration?",
+   "premises": [
+    "A statement has been made as quoted.",
+    "That statement serves as the basis for a rule.",
+    "Filaments are negated in this context."
+   ],
+   "inference": "Because of that declaration, filaments should not be included here.",
+   "uncertainties": [
+    "The exact diagrammatic role of keśarāṇi is context-dependent."
+   ],
+   "plain_english": "Because of this statement, the filaments are not to be included here."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "pramādāt",
+     "gloss": "through-carelessness",
+     "grounds": "cause of error",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "aṅkite",
+     "gloss": "in-drawn",
+     "grounds": "condition of the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yantre",
+     "gloss": "in-diagram",
+     "grounds": "locative of occurrence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāpo",
+     "gloss": "curse",
+     "grounds": "resulting consequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "arises",
+     "grounds": "occurrence of consequence",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "tat+kṣaṇāt",
+     "gloss": "from-that-moment",
+     "grounds": "compound: tat+kṣaṇāt",
+     "morph": "m.abl.sg compound"
+    }
+   ],
+   "question": "What immediate consequence follows from carelessly drawing the diagram?",
+   "premises": [
+    "The diagram may be drawn carelessly.",
+    "A curse is said to arise in that case.",
+    "The curse arises from that very moment."
+   ],
+   "inference": "If the diagram is drawn carelessly, a curse arises immediately.",
+   "uncertainties": [],
+   "plain_english": "If the diagram is drawn carelessly, a curse arises at that very moment."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "should-dwell",
+     "grounds": "prescriptive or potential state",
+     "morph": "3.sg.optative-active √vas"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "permanence of dwelling",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+yantre",
+     "gloss": "in-that-diagram",
+     "grounds": "compound: tat+yantre",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual activity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive referring to the speaker",
+     "morph": "1.gen.sg"
+    }
+   ],
+   "question": "What enduring ritual presence is affirmed for the properly maintained diagram?",
+   "premises": [
+    "The goddess is addressed regarding that diagram.",
+    "Dwelling there is described as constant.",
+    "Worship in that diagram is identified as the speaker's."
+   ],
+   "inference": "The goddess should dwell always in that diagram, where her worship takes place.",
+   "uncertainties": [],
+   "plain_english": "O goddess, one should dwell there always; in that diagram is my worship."
+  }
+ ]
+}

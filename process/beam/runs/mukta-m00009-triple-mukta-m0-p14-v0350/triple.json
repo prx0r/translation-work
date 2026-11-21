@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "aṇoḥ",
+     "gloss": "of-the-individual-self",
+     "grounds": "genitive of aṇu; ledger: individual self distinct from Śiva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle restricting scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "genitive plural of sarva",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "therefore",
+     "grounds": "conclusive particle drawing inference from prior verses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "bondage",
+     "grounds": "subject of the predication",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tayoḥ",
+     "gloss": "of-those-two",
+     "grounds": "genitive dual referring to two authorities or positions in context; exact referent not explicit in this verse",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "held",
+     "grounds": "past passive participle of man, expressing an accepted view",
+     "morph": "m.nom.sg.ppp-man"
+    }
+   ],
+   "question": "Is bondage attributed to all beings or only to the individual self?",
+   "premises": [
+    "Māyā causes misidentification of the non-self as self.",
+    "Bondage arises from such misidentification.",
+    "The individual self, not all beings universally, is the locus of this bondage."
+   ],
+   "inference": "Therefore bondage is held to belong to the individual self alone and not to all.",
+   "uncertainties": [
+    "The referent of tayoḥ (of those two) is not explicitly identified within this verse."
+   ],
+   "plain_english": "Therefore bondage is held, in the view of those two, to belong to the individual self alone, and not to all."
+  }
+ ]
+}

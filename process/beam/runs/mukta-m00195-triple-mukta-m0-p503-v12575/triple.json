@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p503",
+ "items": [
+  {
+   "verse": 12575,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "demonstrative pronoun referring to the previously mentioned means",
+     "morph": "pron.instr.sg.m"
+    },
+    {
+     "surface": "mantravaryyeṇa",
+     "gloss": "by-best-mantra",
+     "grounds": "compound of mantra and varya indicating the foremost mantra",
+     "morph": "compound:mantra+varya; m.instr.sg"
+    },
+    {
+     "surface": "jīvitaṃ",
+     "gloss": "life",
+     "grounds": "denotes the lifespan attained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle emphasizing the stated result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayutāvadhi",
+     "gloss": "up-to-ten-thousand",
+     "grounds": "compound of ayuta and avadhi indicating a limit of ten thousand",
+     "morph": "compound:ayuta+avadhi; n.nom.sg"
+    }
+   ],
+   "question": "What lifespan results from employing this foremost mantra?",
+   "premises": [
+    "A specific foremost mantra is identified as the means.",
+    "The mantra produces an effect on life.",
+    "The resulting life reaches a limit of ten thousand."
+   ],
+   "inference": "Employing this foremost mantra grants a lifespan extending up to ten thousand.",
+   "uncertainties": [
+    "The unit of the ten-thousand limit is not explicitly specified in this verse."
+   ],
+   "plain_english": "By this foremost mantra, life indeed extends up to ten thousand."
+  }
+ ]
+}

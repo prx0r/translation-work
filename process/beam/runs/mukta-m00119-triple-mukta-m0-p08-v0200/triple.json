@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "adverb marking the first position in the sequence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kālikā",
+     "gloss": "kālikā",
+     "grounds": "goddess name in nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇā",
+     "gloss": "black",
+     "grounds": "color adjective modifying kālikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raktābhā",
+     "gloss": "red-hued",
+     "grounds": "compound describing red radiance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sundarī",
+     "gloss": "beautiful",
+     "grounds": "adjective modifying kālikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb introducing the next item",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which goddess form appears first in the sequence of Kālikā manifestations?",
+   "premises": [
+    "Kālikā is named first.",
+    "She is described black and red-hued.",
+    "Then indicates the sequence continues."
+   ],
+   "inference": "The verse identifies Kālikā as the first named form in an ordered list of goddess manifestations.",
+   "uncertainties": [
+    "The exact form following tataḥ is not supplied in this verse."
+   ],
+   "plain_english": "First Kālikā, black, red-hued, beautiful; then..."
+  }
+ ]
+}

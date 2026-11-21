@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "kāgade",
+     "gloss": "on-paper",
+     "grounds": "locative of kāgada, indicating the paper surface",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "ṣaḍbhirākrāntyāmiti",
+     "gloss": "by-six-possession-thus",
+     "grounds": "fused form of ṣaḍbhiḥ ākrāntyā iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ṣaḍvidhāni",
+     "gloss": "six-kinds",
+     "grounds": "ṣaḍ plus vidha, neuter plural nominative",
+     "morph": "adj.nom.pl.n"
+    },
+    {
+     "surface": "phalāny",
+     "gloss": "fruits",
+     "grounds": "neuter plural nominative subject of ucyante",
+     "morph": "n.nom.pl.n"
+    },
+    {
+     "surface": "ucyante",
+     "gloss": "are-said",
+     "grounds": "passive present of vac",
+     "morph": "3.pl.pass.prs (root vac)"
+    }
+   ],
+   "question": "What six kinds of fruits are said to arise from sixfold possession on paper?",
+   "premises": [
+    "Cakra worship occurs on paper.",
+    "Sixfold possession yields six kinds.",
+    "Fruits are said accordingly."
+   ],
+   "inference": "The verse states that six kinds of fruits are said to result from sixfold possession on paper.",
+   "uncertainties": [
+    "The exact ritual referent of ākrānti remains unclear."
+   ],
+   "plain_english": "On paper, by sixfold possession, six kinds of fruits are said."
+  }
+ ]
+}

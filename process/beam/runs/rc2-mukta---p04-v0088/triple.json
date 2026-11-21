@@ -1,0 +1,507 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "śaivam",
+     "gloss": "śaiva",
+     "grounds": "Qualifies the term or teaching as belonging to Śaiva tradition.",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connective particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akaḍamaṃ",
+     "gloss": "akaḍama",
+     "grounds": "Technical term/name cited as remembered; kept untranslated.",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "States what is traditionally remembered or declared.",
+     "morph": "ppp.nom.sg.n (√smṛ)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "Marks the end of a cited statement.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāmalīyāt",
+     "gloss": "from-yāmalīya",
+     "grounds": "Indicates the Yāmalīya source of the cited teaching.",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "From which scriptural source is the Śaiva akaḍama teaching remembered?",
+   "premises": [
+    "The term akaḍama is described as Śaiva.",
+    "This akaḍama is said to be remembered.",
+    "The citation is attributed to the Yāmalīya."
+   ],
+   "inference": "The Śaiva akaḍama is remembered on the authority of the Yāmalīya.",
+   "uncertainties": [
+    "The precise technical meaning of akaḍama is not specified in this verse."
+   ],
+   "plain_english": "And the Śaiva akaḍama is remembered thus, according to the Yāmalīya."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "gopāle",
+     "gloss": "in-gopāla",
+     "grounds": "Locative indicating the context or subject Gopāla.",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "akaḍamaḥ",
+     "gloss": "akaḍama",
+     "grounds": "Technical term/name remembered in relation to Gopāla.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "States traditional remembrance.",
+     "morph": "ppp.nom.sg.m (√smṛ)"
+    }
+   ],
+   "question": "What term is traditionally remembered in connection with Gopāla?",
+   "premises": [
+    "The context named is Gopāla.",
+    "The term akaḍama is mentioned.",
+    "This term is said to be remembered."
+   ],
+   "inference": "In the context of Gopāla, akaḍama is the remembered term.",
+   "uncertainties": [
+    "Whether Gopāla refers to a deity, person, or text is not explicit here."
+   ],
+   "plain_english": "In relation to Gopāla, akaḍama is remembered."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "Names the result or state that may arise.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "Expresses possibility or potential result.",
+     "morph": "3.sg.opt.act (√as)"
+    }
+   ],
+   "question": "What beneficial result may arise in this context?",
+   "premises": [
+    "Wealth is named as the outcome.",
+    "The verb expresses possibility."
+   ],
+   "inference": "Wealth may be obtained as a result.",
+   "uncertainties": [
+    "The specific cause of this wealth is supplied by surrounding verses."
+   ],
+   "plain_english": "There would be wealth."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "Subject of the statement.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śubhadaḥ",
+     "gloss": "auspicious-giving",
+     "grounds": "Describes the mantra as conferring auspiciousness.",
+     "morph": "adj.nom.sg.m (śubha+da)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "States the mantra's effect.",
+     "morph": "3.sg.pres.act (√bhū)"
+    },
+    {
+     "surface": "dhanī",
+     "gloss": "wealthy",
+     "grounds": "Describes the resulting state of a person.",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "cet+na",
+     "gloss": "if+not",
+     "grounds": "Fused conditional and negation introducing an exception; internal sandhi noted.",
+     "morph": "(indecl.+indecl.)"
+    }
+   ],
+   "question": "Under what condition does the mantra fail to make one wealthy?",
+   "premises": [
+    "The mantra is said to be auspicious-giving.",
+    "The mantra makes one wealthy.",
+    "A condition of negation is introduced."
+   ],
+   "inference": "The mantra is auspicious and brings wealth unless some stated condition prevents it.",
+   "uncertainties": [
+    "The exact condition negated by cet+na is not fully specified in this verse alone."
+   ],
+   "plain_english": "The mantra becomes auspicious and makes one wealthy, if not otherwise."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "iti+uktvā",
+     "gloss": "thus+having-said",
+     "grounds": "Fused citation marker and gerund indicating prior statement; internal sandhi noted.",
+     "morph": "(indecl.+gerund) (√vac)"
+    },
+    {
+     "surface": "ṣaṭkāla",
+     "gloss": "sixfold-time",
+     "grounds": "Technical term referring to six times or periods.",
+     "morph": "m.nom.sg (compound: ṣaṣ+kāla)"
+    },
+    {
+     "surface": "kālaḥ",
+     "gloss": "time",
+     "grounds": "Restates or defines the term as time.",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti+uktam",
+     "gloss": "thus+said",
+     "grounds": "Fused citation marker and past participle closing the explanation; internal sandhi noted.",
+     "morph": "(indecl.+ppp.nom.sg.n) (√vac)"
+    }
+   ],
+   "question": "How is the term ṣaṭkāla explained in this cited statement?",
+   "premises": [
+    "A statement is introduced as having been said.",
+    "The term ṣaṭkāla is mentioned.",
+    "It is identified as kāla and marked as thus said."
+   ],
+   "inference": "The cited explanation defines ṣaṭkāla as time.",
+   "uncertainties": [
+    "The specific six divisions of time are not enumerated here."
+   ],
+   "plain_english": "Having said thus, it is said that ṣaṭkāla means time."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "tulyaṃ",
+     "gloss": "equal",
+     "grounds": "Indicates equivalence.",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "Introduces a temporal or conditional clause.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sama+phalaḥ",
+     "gloss": "equal+result",
+     "grounds": "Fused compound describing having equal results; internal sandhi noted.",
+     "morph": "adj.nom.sg.m (compound: sama+phala)"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "Reports what has been stated by authorities.",
+     "morph": "ppp.nom.sg.m (√kath)"
+    },
+    {
+     "surface": "mūnīndraiḥ",
+     "gloss": "by-great-sages",
+     "grounds": "Names the authoritative declarers.",
+     "morph": "m.inst.pl (compound: muni+indra)"
+    }
+   ],
+   "question": "Who declared the condition under which results are considered equal?",
+   "premises": [
+    "An equal or equivalent state is described.",
+    "The condition involves equal results.",
+    "Great sages are named as the declarers."
+   ],
+   "inference": "The great sages declared when outcomes are equal in result.",
+   "uncertainties": [
+    "The specific cases being compared are not stated in this verse."
+   ],
+   "plain_english": "When it is equal, it was declared by the great sages to have equal results."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "Particle marking contrast or emphasis.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāpti+mātreṇa",
+     "gloss": "by-attainment+mere",
+     "grounds": "Fused compound indicating by mere attainment alone; internal sandhi noted.",
+     "morph": "n.inst.sg (compound: prāpti+mātra)"
+    },
+    {
+     "surface": "sarva+siddhiḥ",
+     "gloss": "all+success",
+     "grounds": "Fused compound denoting complete accomplishment; internal sandhi noted.",
+     "morph": "f.nom.sg (compound: sarva+siddhi)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "Emphatic particle.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "States that the result arises.",
+     "morph": "3.sg.pres.mid (√jan)"
+    }
+   ],
+   "question": "What level of accomplishment arises from mere attainment alone?",
+   "premises": [
+    "Mere attainment is specified as the cause.",
+    "All success is named as the result.",
+    "The result is said to arise."
+   ],
+   "inference": "By mere attainment, all success arises.",
+   "uncertainties": [
+    "What is attained is not specified in this verse."
+   ],
+   "plain_english": "But by mere attainment, all success indeed arises."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "tāvat+saṃkhyāṃ",
+     "gloss": "so-much+number",
+     "grounds": "Fused compound indicating that amount or number; internal sandhi noted.",
+     "morph": "f.acc.sg (compound: tāvat+saṃkhyā)"
+    },
+    {
+     "surface": "saptaguṇaṃ",
+     "gloss": "sevenfold",
+     "grounds": "Specifies multiplication by seven.",
+     "morph": "adj.acc.sg.n (compound: sapta+guṇa)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "Gerund indicating a prior operation.",
+     "morph": "(gerund) (√kṛ)"
+    },
+    {
+     "surface": "tribhiḥ",
+     "gloss": "by-three",
+     "grounds": "Instrumental indicating division by three.",
+     "morph": "num.inst.pl"
+    },
+    {
+     "surface": "haret",
+     "gloss": "one-should-divide",
+     "grounds": "Prescribes the mathematical operation of division.",
+     "morph": "3.sg.opt.act (√hṛ)"
+    }
+   ],
+   "question": "What calculation procedure should be applied to the given number?",
+   "premises": [
+    "A specified number is taken as the base.",
+    "It is made sevenfold.",
+    "It should be divided by three."
+   ],
+   "inference": "The procedure is to multiply the given number by seven and divide by three.",
+   "uncertainties": [
+    "The referent of the given number depends on prior context."
+   ],
+   "plain_english": "Having made that number sevenfold, one should divide it by three."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "adhikaṃ",
+     "gloss": "greater",
+     "grounds": "Describes an excess amount.",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "ṛṇaṃ",
+     "gloss": "debt",
+     "grounds": "Classifies the excess as debt.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "Refers to what remains after calculation.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "Classifies the remainder as wealth.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "Prescribes how the result should be understood.",
+     "morph": "gerundive.nom.sg.n (√jñā)"
+    }
+   ],
+   "question": "How should excess and remainder be classified in this calculation?",
+   "premises": [
+    "An excess is identified as debt.",
+    "A remainder is identified as wealth.",
+    "Both classifications are to be known."
+   ],
+   "inference": "The excess should be understood as debt and the remainder as wealth.",
+   "uncertainties": [
+    "The calculation yielding excess or remainder is given in the preceding verse."
+   ],
+   "plain_english": "The excess should be known as debt, and the remainder as wealth."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-apply",
+     "grounds": "Prescribes application or joining.",
+     "morph": "3.sg.opt.act (√yuj)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "Indicates sequential procedure.",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what manner should the prescribed application be carried out?",
+   "premises": [
+    "An action of applying is prescribed.",
+    "The manner is specified as in order."
+   ],
+   "inference": "The application should be carried out sequentially.",
+   "uncertainties": [
+    "The object to be applied is not named in this verse."
+   ],
+   "plain_english": "One should apply it in order."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "gurṇā",
+     "gloss": "multiplied",
+     "grounds": "Refers to a multiplied quantity or operation; form as given.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "Relative pronoun introducing the result.",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "Indicates what has been performed.",
+     "morph": "ppp.nom.sg.n (√kṛ)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "Expresses the resulting state.",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What result may arise from the multiplied operation performed?",
+   "premises": [
+    "A multiplied quantity or action is mentioned.",
+    "Something is described as done.",
+    "A possible resulting state is indicated."
+   ],
+   "inference": "Whatever is produced by the multiplied operation may come to be.",
+   "uncertainties": [
+    "The exact referent of gurṇā and the operation are unclear without wider context."
+   ],
+   "plain_english": "Whatever multiplied result is produced may come to be."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "vadati",
+     "gloss": "speaks",
+     "grounds": "Describes the act of speaking.",
+     "morph": "3.sg.pres.act (√vad)"
+    },
+    {
+     "surface": "anya+manaskaḥ",
+     "gloss": "other+minded",
+     "grounds": "Fused compound describing one whose mind is elsewhere; internal sandhi noted.",
+     "morph": "adj.nom.sg.m (compound: anya+manas)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "Extends the rule to an inattentive speaker.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+nāma",
+     "gloss": "that+name",
+     "grounds": "Fused compound referring to that name; internal sandhi noted.",
+     "morph": "n.nom.sg (compound: tad+nāman)"
+    },
+    {
+     "surface": "grāhyam+eva",
+     "gloss": "to-be-taken+indeed",
+     "grounds": "Fused gerundive and emphatic particle asserting it must be accepted; internal sandhi noted.",
+     "morph": "(gerundive.nom.sg.n+indecl.) (√grah)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Connective particle.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should a name spoken by a distracted person still be accepted as valid?",
+   "premises": [
+    "A person may speak while distracted.",
+    "That name is spoken in such a state.",
+    "The name is declared to be taken indeed."
+   ],
+   "inference": "Even if spoken by someone distracted, that name must still be accepted.",
+   "uncertainties": [
+    "The specific ritual or naming context is not stated in this verse."
+   ],
+   "plain_english": "Even if one speaks while distracted, that name must indeed be accepted."
+  }
+ ]
+}

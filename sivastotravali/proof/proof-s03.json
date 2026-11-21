@@ -8,6 +8,9 @@
   "LEDGER_GLOSS_MISSING ['svātantrya=autonomy']"
  ],
  "source_sha": "39db81e1967889b3",
+ "source_digest_normalized_sha256": "39db81e1967889b3e6d8453e68976208723fef9561ea69a7cdb4904cff9d4c47",
+ "source_sha256_raw": "b916b98ff819aed4e7d19ebadfcf9308d9dde89dd3e8ddaa7952621db9769a3d",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/sivastotravali-u.txt",
  "source_verses": 21,
  "t1_verses": 21,
  "l0": {
@@ -21,19 +24,19 @@
   "sub090": {
    "10": {
     "ratio": 0.893,
-    "disposition": "joints-only: ka+iva>keva, syat>syad, atman+adhikena>atmad hikena class splits, order verified 2026-11-01"
+    "disposition": "sandhi-only: ka+iva→keva (a+i→e), syāt→syād (t→d voicing), n-stem compound split ātman+adhikena vs compound stem ātmādhikena, kva+api→kvāpi, virahaḥ→virahas (visarga→s); T1 citation forms, same words/order (assessor-verified 2026-11-14)"
    },
    "14": {
     "ratio": 0.859,
-    "disposition": "joints-only: puruso'nyo, yusmacchesa, tvekoniH elisions, order verified 2026-11-01"
+    "disposition": "sandhi-only: aḥ>o, aḥa>o', hiatus/avagraha-drop, tś>cch, u>v, ḥ>s"
    },
    "17": {
     "ratio": 0.893,
-    "disposition": "joints-only: japako'smi, tadaikyatah class splits, order verified 2026-11-01"
+    "disposition": "sandhi-only: aa>ā, aḥa>o', i>y, m>ṃ, t>d"
    },
    "18": {
     "ratio": 0.833,
-    "disposition": "0.833 joint-density (20 tokens, sato'vasyam class), order verified 2026-11-01"
+    "disposition": "sandhi-only: aa>ā, aḥa>o', m>ṃ, t>c, t>d, t>n, visarga→ś before palatal, ḥ>s"
    }
   }
  },

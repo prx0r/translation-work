@@ -1,0 +1,1221 @@
+{
+ "song": "mukta-m0-p428",
+ "items": [
+  {
+   "verse": 10676,
+   "rows": [
+    {
+     "surface": "yājñavalkyaṃ",
+     "gloss": "yajnavalkya",
+     "grounds": "name of a sage",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhārgavaṃ",
+     "gloss": "bhargava",
+     "grounds": "name of a sage",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśāre",
+     "gloss": "in-sixteen-petaled",
+     "grounds": "refers to the sixteen-petaled enclosure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √yaj"
+    }
+   ],
+   "question": "Which sages must be worshipped in the sixteen-petaled enclosure next?",
+   "premises": [
+    "Yajnavalkya is named as an object of worship.",
+    "Bhargava is named as an object of worship.",
+    "The worship is to be performed in the sixteen-petaled enclosure."
+   ],
+   "inference": "After the prior step, one should worship Yajnavalkya and Bhargava in the sixteen-petaled enclosure.",
+   "uncertainties": [],
+   "plain_english": "Then one should worship Yajnavalkya and Bhargava in the sixteen-petaled enclosure."
+  },
+  {
+   "verse": 10677,
+   "rows": [
+    {
+     "surface": "sāṃkhyaṃ",
+     "gloss": "samkhya",
+     "grounds": "name of a philosophical system",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātañjalaṃ",
+     "gloss": "patanjala",
+     "grounds": "name of a philosophical system",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śilpaṃ",
+     "gloss": "arts",
+     "grounds": "body of technical knowledge",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vedāṅgāni",
+     "gloss": "veda-limbs",
+     "grounds": "auxiliary disciplines of the Veda",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "number of Veda-limbs",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential performance",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Which systems and disciplines are to be worshipped in sequence?",
+   "premises": [
+    "Samkhya and Patanjala are named as objects of worship.",
+    "The arts and the six Veda-limbs are included.",
+    "The worship is to proceed in order."
+   ],
+   "inference": "One should worship Samkhya, Patanjala, the arts, and the six Veda-limbs in sequence.",
+   "uncertainties": [],
+   "plain_english": "In order, one should worship Samkhya, Patanjala, the arts, and the six limbs of the Veda."
+  },
+  {
+   "verse": 10678,
+   "rows": [
+    {
+     "surface": "smṛtīs",
+     "gloss": "smritis",
+     "grounds": "traditional law texts",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūpurāgre",
+     "gloss": "in-ground-enclosure-front",
+     "grounds": "location at the front of the ground enclosure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "digīśānāyudhāni",
+     "gloss": "direction-lords-weapons",
+     "grounds": "weapons of the lords of the directions",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional objects are to be worshipped at the front of the ground enclosure?",
+   "premises": [
+    "The smritis are named as objects of worship.",
+    "The location is the front of the ground enclosure.",
+    "The weapons of the lords of the directions are also included."
+   ],
+   "inference": "One should worship the smritis and the weapons of the lords of the directions at the front of the ground enclosure.",
+   "uncertainties": [],
+   "plain_english": "And one should worship the smritis and the weapons of the lords of the directions at the front of the ground enclosure."
+  },
+  {
+   "verse": 10679,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual injunction for oblation",
+     "morph": "3.sg.act-optative √hu"
+    },
+    {
+     "surface": "brāhmaṇabhojyāntaṃ",
+     "gloss": "ending-with-brahmin-feeding",
+     "grounds": "ritual sequence concluding with feeding brahmins",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completion of prior actions",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "state of ritual success",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What result follows when oblations and feeding of brahmins are completed?",
+   "premises": [
+    "One should perform oblations.",
+    "The ritual sequence ends with feeding brahmins.",
+    "The mantra is the subject that becomes accomplished."
+   ],
+   "inference": "After performing oblations and completing the rite with feeding brahmins, the mantra becomes accomplished.",
+   "uncertainties": [],
+   "plain_english": "Having performed oblations and completed the rite ending with feeding brahmins, the mantra becomes accomplished."
+  },
+  {
+   "verse": 10680,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the accomplished one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "comes into being",
+     "morph": "3.sg.mid-present √jan"
+    },
+    {
+     "surface": "siddho",
+     "gloss": "accomplished",
+     "grounds": "born with accomplishment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyavipraḥ",
+     "gloss": "other-brahmin",
+     "grounds": "any brahmin other than this one",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "universal temporal negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who alone is born accomplished rather than any other brahmin?",
+   "premises": [
+    "The referent is born accomplished.",
+    "The statement is emphatic.",
+    "No other brahmin is ever born accomplished in this way."
+   ],
+   "inference": "Only this one is born accomplished, and no other brahmin ever is.",
+   "uncertainties": [],
+   "plain_english": "He alone is born accomplished; no other brahmin is ever born so."
+  },
+  {
+   "verse": 10681,
+   "rows": [
+    {
+     "surface": "lakṣaṃ",
+     "gloss": "hundred-thousand",
+     "grounds": "number of oblations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "following the previous method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual injunction for oblation",
+     "morph": "3.sg.act-optative √hu"
+    },
+    {
+     "surface": "rāmaṃ",
+     "gloss": "rama",
+     "grounds": "deity to be contemplated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāttvikaṃ",
+     "gloss": "sattva-natured",
+     "grounds": "characterized by sattva quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-meditate",
+     "grounds": "injunction to contemplate",
+     "morph": "3.sg.act-optative √cint"
+    }
+   ],
+   "question": "How should Rama be contemplated during a hundred-thousand oblations?",
+   "premises": [
+    "One hundred thousand oblations should be offered as before.",
+    "Rama is the object of contemplation.",
+    "Rama should be contemplated in a sattva-natured form."
+   ],
+   "inference": "One should offer a hundred thousand oblations as before while meditating on Rama in his sattva-natured form.",
+   "uncertainties": [],
+   "plain_english": "One should offer a hundred thousand oblations as before and there meditate on Rama in his sattvic form."
+  },
+  {
+   "verse": 10682,
+   "rows": [
+    {
+     "surface": "viṣayārthaṃ",
+     "gloss": "for-sense-objects",
+     "grounds": "purpose of obtaining sense enjoyments",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhanārthaṃ",
+     "gloss": "for-wealth",
+     "grounds": "purpose of obtaining wealth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāksiddhyartham",
+     "gloss": "for-speech-accomplishment",
+     "grounds": "purpose of attaining power of speech",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "stated as the purpose",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "For which purposes is this sattvic contemplation of Rama declared?",
+   "premises": [
+    "The practice is declared for obtaining sense objects.",
+    "It is declared for obtaining wealth.",
+    "It is declared for accomplishing speech."
+   ],
+   "inference": "This practice is declared for the sake of sense objects, wealth, and accomplishment of speech.",
+   "uncertainties": [],
+   "plain_english": "This is declared to be for the sake of sense objects, wealth, and the accomplishment of speech."
+  },
+  {
+   "verse": 10683,
+   "rows": [
+    {
+     "surface": "sādhyakṛcchre",
+     "gloss": "in-difficult-achievable",
+     "grounds": "a difficulty that can be overcome",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "atikṛcchre",
+     "gloss": "in-extreme-difficulty",
+     "grounds": "a very severe difficulty",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daivasādhye",
+     "gloss": "in-divinely-achievable",
+     "grounds": "a matter achievable only by divine means",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking inclusion or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asādhyake",
+     "gloss": "in-unachievable",
+     "grounds": "a matter considered unachievable",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which kinds of difficult situations is the prescribed oblation applicable?",
+   "premises": [
+    "Difficult but achievable situations are included.",
+    "Extreme difficulties and divinely achievable matters are included.",
+    "Even unachievable matters are included."
+   ],
+   "inference": "The oblation applies in difficulties ranging from achievable to extreme, divinely achievable, and even unachievable situations.",
+   "uncertainties": [],
+   "plain_english": "In difficulties that are achievable, in extreme difficulties, in matters achievable only by divine means, and even in the unachievable—"
+  },
+  {
+   "verse": 10684,
+   "rows": [
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all those cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "should be understood as prescribed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyavāyanirākṛtau",
+     "gloss": "in-transgression-removal",
+     "grounds": "for removing adverse consequences",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "For what purpose should oblation be understood as applicable in all those cases?",
+   "premises": [
+    "Oblation is the prescribed act.",
+    "It applies in all the previously mentioned situations.",
+    "Its purpose is the removal of transgression or adverse consequence."
+   ],
+   "inference": "In all those situations, oblation should be understood as prescribed for removing transgression.",
+   "uncertainties": [],
+   "plain_english": "Oblation should be understood as applicable everywhere for the removal of transgression."
+  },
+  {
+   "verse": 10685,
+   "rows": [
+    {
+     "surface": "manāg",
+     "gloss": "even-slightly",
+     "grounds": "to any small degree",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyo",
+     "gloss": "to-be-done",
+     "grounds": "should be performed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmadveṣaḥ",
+     "gloss": "brahman-hatred",
+     "grounds": "hostility toward brahman or brahmins",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attitude toward brahman must never be adopted under any circumstance?",
+   "premises": [
+    "Hatred toward brahman is the prohibited attitude.",
+    "The prohibition applies even slightly.",
+    "The prohibition applies at any time."
+   ],
+   "inference": "One must never harbor even the slightest hatred toward brahman at any time.",
+   "uncertainties": [
+    "brahman may refer to the sacred principle or to brahmins"
+   ],
+   "plain_english": "One should never, even slightly, harbor hatred toward brahman at any time."
+  },
+  {
+   "verse": 10686,
+   "rows": [
+    {
+     "surface": "tilaudanājyaṃ",
+     "gloss": "sesame-rice-ghee",
+     "grounds": "offering material of sesame, cooked rice, and ghee",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rāmaṃ",
+     "gloss": "rama",
+     "grounds": "deity to be contemplated",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking a new case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājasaṃ",
+     "gloss": "rajas-natured",
+     "grounds": "characterized by rajas quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "injunction to visualize or contemplate",
+     "morph": "3.sg.act-caus-optative √bhū"
+    }
+   ],
+   "question": "How should Rama be contemplated when using sesame, rice, and ghee offerings?",
+   "premises": [
+    "The offering materials are sesame, cooked rice, and ghee.",
+    "Rama is the object of contemplation.",
+    "Rama should be contemplated in a rajas-natured form."
+   ],
+   "inference": "When offering sesame, rice, and ghee, one should contemplate Rama in his rajas-natured form.",
+   "uncertainties": [],
+   "plain_english": "When offering sesame, cooked rice, and ghee, one should contemplate Rama in his rajasic form."
+  },
+  {
+   "verse": 10687,
+   "rows": [
+    {
+     "surface": "rakṣaṇaṃ",
+     "gloss": "protection",
+     "grounds": "safeguarding effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "mahāmārīśītalāśāntaye",
+     "gloss": "for-great-epidemic-smallpox-pacification",
+     "grounds": "purpose of pacifying great epidemic and smallpox",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates corresponding result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective result is achieved by the rajasic rite for epidemics?",
+   "premises": [
+    "Protection is stated as a possible result.",
+    "The purpose is pacification of great epidemic and smallpox.",
+    "The result corresponds to that purpose."
+   ],
+   "inference": "The rite may bring protection for the pacification of great epidemics and smallpox.",
+   "uncertainties": [],
+   "plain_english": "Likewise, protection may result for the pacification of great epidemics and smallpox."
+  },
+  {
+   "verse": 10688,
+   "rows": [
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarṣapatailāktais",
+     "gloss": "with-mustard-oil-smeared",
+     "grounds": "materials smeared with mustard oil",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tāmasaṃ",
+     "gloss": "tamas-natured",
+     "grounds": "characterized by tamas quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-meditate",
+     "grounds": "injunction to contemplate",
+     "morph": "3.sg.act-optative √cint"
+    },
+    {
+     "surface": "vibhum",
+     "gloss": "lord",
+     "grounds": "the all-pervading deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the lord be contemplated during oblations with mustard-oil-smeared materials?",
+   "premises": [
+    "The oblation uses materials smeared with mustard oil.",
+    "The lord is the object of contemplation.",
+    "The lord should be contemplated in a tamas-natured form."
+   ],
+   "inference": "During oblations with mustard-oil-smeared materials, one should contemplate the lord in his tamas-natured form.",
+   "uncertainties": [],
+   "plain_english": "In an oblation with materials smeared with mustard oil, one should meditate on the lord in his tamasic form."
+  },
+  {
+   "verse": 10689,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "yamuddiśya",
+     "gloss": "whom-having-aimed-at",
+     "grounds": "targeted person of the rite",
+     "morph": "(gerund) √diś"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "of that targeted person",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nāśo",
+     "gloss": "destruction",
+     "grounds": "ruin or annihilation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assured outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain outcome follows when the tamasic rite is directed at a target?",
+   "premises": [
+    "The rite is performed in this manner.",
+    "The rite is aimed at a specific person.",
+    "Destruction of that person is stated as certain."
+   ],
+   "inference": "If one performs the rite thus against a targeted person, that person's destruction certainly occurs.",
+   "uncertainties": [],
+   "plain_english": "If one performs this rite aiming at someone, that person's destruction will certainly occur."
+  },
+  {
+   "verse": 10690,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "injunction of obligation",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-him",
+     "grounds": "refers to the deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mahāpūjā",
+     "gloss": "great-worship",
+     "grounds": "elaborate ritual worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "refers to the great worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhaktaḥ",
+     "gloss": "devotee",
+     "grounds": "the worshipper",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prayataḥ",
+     "gloss": "with-discipline",
+     "grounds": "in a purified and restrained state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "injunction to carry out",
+     "morph": "3.sg.act-optative √car"
+    }
+   ],
+   "question": "How must a devotee perform the great worship of this deity?",
+   "premises": [
+    "Great worship of the deity is required.",
+    "The devotee is the performer.",
+    "The devotee must perform it with discipline."
+   ],
+   "inference": "A devotee should perform the deity's great worship with discipline.",
+   "uncertainties": [],
+   "plain_english": "There should be great worship of him, and the devotee should perform it with discipline."
+  },
+  {
+   "verse": 10691,
+   "rows": [
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "inevitable result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "the devotee",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ripūñjitvā",
+     "gloss": "enemies-having-conquered",
+     "grounds": "after defeating enemies",
+     "morph": "(gerund) √ji"
+    },
+    {
+     "surface": "kuśalī",
+     "gloss": "safe",
+     "grounds": "in a state of well-being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svagṛhaṃ",
+     "gloss": "own-house",
+     "grounds": "one's own home",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "should-go",
+     "grounds": "resulting movement",
+     "morph": "3.sg.act-optative √vraj"
+    }
+   ],
+   "question": "What assured outcome follows for the devotee who performs this worship?",
+   "premises": [
+    "The devotee conquers enemies.",
+    "The outcome is stated as necessary.",
+    "The devotee returns safely to his own house."
+   ],
+   "inference": "The devotee will necessarily conquer enemies and return safely to his own house.",
+   "uncertainties": [],
+   "plain_english": "He will necessarily conquer his enemies and return safely to his own home."
+  },
+  {
+   "verse": 10692,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the deity or mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiprado",
+     "gloss": "accomplishment-giver",
+     "grounds": "bestower of success",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñeyo",
+     "gloss": "to-be-known",
+     "grounds": "should be understood",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "exists",
+     "morph": "3.sg.act-present √as"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to that giver of accomplishment",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "puraskriyā",
+     "gloss": "preliminary-rite",
+     "grounds": "prior preparatory ritual",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What special status is claimed regarding the need for preliminary rites?",
+   "premises": [
+    "He is to be known as a giver of accomplishment.",
+    "No preliminary rite exists for him.",
+    "The absence of preliminary rite is stated directly."
+   ],
+   "inference": "He should be known as a giver of accomplishment for whom no preliminary rite is required.",
+   "uncertainties": [
+    "sa may refer to Rama or to the mantra"
+   ],
+   "plain_english": "He should be known as a giver of accomplishment; there is no preliminary rite required for him."
+  },
+  {
+   "verse": 10693,
+   "rows": [
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "ritual diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidya",
+     "grounds": "mantra-wisdom",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tatsiddhaṃ",
+     "gloss": "accomplished-by-that",
+     "grounds": "made effective through that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "exists",
+     "morph": "3.sg.act-present √as"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What certainty is asserted about yantra, mantra, or vidya accomplished through this?",
+   "premises": [
+    "Yantra, mantra, or vidya are named as possible means.",
+    "They are said to be accomplished through that.",
+    "The absence of doubt is explicitly asserted."
+   ],
+   "inference": "Any yantra, mantra, or vidya accomplished through this is effective without doubt.",
+   "uncertainties": [],
+   "plain_english": "Whether yantra, mantra, or vidya, what is accomplished through that is effective—there is no doubt."
+  },
+  {
+   "verse": 10694,
+   "rows": [
+    {
+     "surface": "kuladvayaviśuddhaṃ",
+     "gloss": "purified-in-both-families",
+     "grounds": "pure in both maternal and paternal lineages",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāmamantrādhikāriṇam",
+     "gloss": "qualified-for-rama-mantra",
+     "grounds": "one entitled to the Rama mantra",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who is qualified to be an authorized recipient of the Rama mantra?",
+   "premises": [
+    "Purity in both families is required.",
+    "Qualification for the Rama mantra is specified.",
+    "The verse identifies such a person as the eligible one."
+   ],
+   "inference": "One purified in both families is qualified for the Rama mantra.",
+   "uncertainties": [],
+   "plain_english": "One purified in both families is qualified for the Rama mantra."
+  },
+  {
+   "verse": 10695,
+   "rows": [
+    {
+     "surface": "rāmabhaktaṃ",
+     "gloss": "rama-devotee",
+     "grounds": "devotee of Rama",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pradṛṣṭvaiva",
+     "gloss": "having-seen-indeed",
+     "grounds": "merely upon seeing",
+     "morph": "(gerund) √dṛś"
+    },
+    {
+     "surface": "trasyanti",
+     "gloss": "they-tremble",
+     "grounds": "react with fear",
+     "morph": "3.pl.act-present √tras"
+    },
+    {
+     "surface": "praṇamanti",
+     "gloss": "they-bow",
+     "grounds": "show reverence",
+     "morph": "3.pl.act-present √nam"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What reactions are provoked merely by seeing a devotee of Rama?",
+   "premises": [
+    "A devotee of Rama is seen.",
+    "Some tremble upon seeing him.",
+    "Others bow down to him."
+   ],
+   "inference": "Merely seeing a devotee of Rama causes some to tremble and others to bow.",
+   "uncertainties": [
+    "the subjects of trembling and bowing are unspecified"
+   ],
+   "plain_english": "Merely upon seeing a devotee of Rama, they tremble and bow down."
+  },
+  {
+   "verse": 10696,
+   "rows": [
+    {
+     "surface": "śāntaṃ",
+     "gloss": "calm",
+     "grounds": "pacified state",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śatrumadaṃ",
+     "gloss": "enemy-pride",
+     "grounds": "the arrogance of an enemy",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-optative √kṛ"
+    },
+    {
+     "surface": "kusumāni",
+     "gloss": "flowers",
+     "grounds": "offering materials",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "one-should-offer",
+     "grounds": "ritual injunction for oblation",
+     "morph": "3.sg.act-optative √hu"
+    }
+   ],
+   "question": "What ritual action pacifies the pride of an enemy?",
+   "premises": [
+    "The goal is to make the enemy's pride calm.",
+    "Flowers are to be offered.",
+    "The offering is performed as an oblation."
+   ],
+   "inference": "One should offer flowers as oblations to pacify the pride of an enemy.",
+   "uncertainties": [],
+   "plain_english": "To calm an enemy's pride, one should indeed offer flowers in oblation."
+  },
+  {
+   "verse": 10697,
+   "rows": [
+    {
+     "surface": "saptāhārvāk",
+     "gloss": "within-a-week",
+     "grounds": "before seven days pass",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "of that enemy",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sainyaṃ",
+     "gloss": "army",
+     "grounds": "military force",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naṣṭaṃ",
+     "gloss": "destroyed",
+     "grounds": "ruined or lost",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāvanmitaṃ",
+     "gloss": "that-much",
+     "grounds": "to that extent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What happens to the enemy's army within a week of this rite?",
+   "premises": [
+    "The time frame is within a week.",
+    "The enemy's army is affected.",
+    "The army becomes destroyed to that extent."
+   ],
+   "inference": "Within a week, that enemy's army becomes destroyed to that extent.",
+   "uncertainties": [
+    "the extent indicated by tāvanmitaṃ depends on prior context"
+   ],
+   "plain_english": "Within a week, his army becomes destroyed to that extent."
+  },
+  {
+   "verse": 10698,
+   "rows": [
+    {
+     "surface": "varṣādarvāk",
+     "gloss": "within-a-year",
+     "grounds": "before a year passes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "of that practitioner or devotee",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rāmaḥ",
+     "gloss": "rama",
+     "grounds": "the deity Rama",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyakṣo",
+     "gloss": "visible",
+     "grounds": "directly perceptible",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "comes to be",
+     "morph": "3.sg.mid-present √jan"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assured outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain vision is promised to the practitioner within a year?",
+   "premises": [
+    "The time frame is within a year.",
+    "Rama is the one who becomes visible.",
+    "The outcome is stated as certain."
+   ],
+   "inference": "Within a year, Rama certainly becomes directly visible to him.",
+   "uncertainties": [],
+   "plain_english": "Within a year, Rama certainly becomes directly visible to him."
+  },
+  {
+   "verse": 10699,
+   "rows": [
+    {
+     "surface": "sūrpārake",
+     "gloss": "at-surparaka",
+     "grounds": "sacred place name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paurṇamāsyāṃ",
+     "gloss": "on-full-moon-day",
+     "grounds": "lunar day of the full moon",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "prayāge",
+     "gloss": "at-prayaga",
+     "grounds": "sacred place name",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛge",
+     "gloss": "in-mriga",
+     "grounds": "when the sun is in the Mriga lunar mansion or sign",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ravau",
+     "gloss": "in-sun",
+     "grounds": "with the sun in that position",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which sacred places and times are specified for the concluding observance?",
+   "premises": [
+    "Surparaka on the full-moon day is named.",
+    "Prayaga is named as another place.",
+    "The time is specified when the sun is in Mriga."
+   ],
+   "inference": "The observance is specified at Surparaka on the full-moon day and at Prayaga when the sun is in Mriga.",
+   "uncertainties": [
+    "mṛge ravau may refer to a specific solar position or season"
+   ],
+   "plain_english": "At Surparaka on the full-moon day, and at Prayaga when the sun is in Mriga."
+  }
+ ]
+}

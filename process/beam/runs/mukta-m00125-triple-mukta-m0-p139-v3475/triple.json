@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound with lopāt, indicating totality of what is lacking",
+     "morph": "sarva- (compound-member)"
+    },
+    {
+     "surface": "lopāt",
+     "gloss": "from-loss",
+     "grounds": "ablative expressing cause or condition due to absence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "praśastaḥ",
+     "gloss": "praiseworthy",
+     "grounds": "predicate adjective qualifying the festival",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative expressing what is commendable under the stated condition",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "alpāhai",
+     "gloss": "with-little-time",
+     "grounds": "indicates limited duration or means; analyzed as given in compound relation with nirmitotsavaḥ",
+     "morph": "alpāha- (compound-member)"
+    },
+    {
+     "surface": "nirmitotsavaḥ",
+     "gloss": "performed-festival",
+     "grounds": "compound denoting a festival that has been carried out",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What kind of festival remains commendable when all resources have been lost?",
+   "premises": [
+    "Adverse circumstances can result in the loss of all resources or full observances.",
+    "A festival may still be performed with limited time or means.",
+    "A reduced observance can retain ritual value under constraint."
+   ],
+   "inference": "Therefore, when complete observance is impossible, a festival performed on a modest scale is praiseworthy.",
+   "uncertainties": [
+    "The exact morphological analysis of alpāhai is uncertain as given in the fused form."
+   ],
+   "plain_english": "When everything is lacking, a festival performed in a short time is still praiseworthy."
+  }
+ ]
+}

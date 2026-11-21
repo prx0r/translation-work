@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "mucyate",
+     "gloss": "is-freed",
+     "grounds": "verb expressing release from sin as result of the prior rite",
+     "morph": "3.sg.pass-pres/√muc"
+    },
+    {
+     "surface": "sarvapāpebhyaḥ",
+     "gloss": "from-all-sins",
+     "grounds": "compound indicating totality of sins from which one is freed",
+     "morph": "sarva-pāpa+abl.pl.nt"
+    },
+    {
+     "surface": "brahmaloke",
+     "gloss": "in-brahma-world",
+     "grounds": "compound naming the posthumous realm of dwelling",
+     "morph": "brahma-loka+loc.sg.m"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "may-dwell",
+     "grounds": "optative verb expressing the resulting state after death",
+     "morph": "3.sg.act-opt/√vas"
+    },
+    {
+     "surface": "mṛtaḥ",
+     "gloss": "having-died",
+     "grounds": "past participle qualifying the subject at the time of attaining that realm",
+     "morph": "m.nom.sg.ppp/√mṛ"
+    }
+   ],
+   "question": "What liberation and posthumous destination result from bathing at that sacred site?",
+   "premises": [
+    "Bathing at the described sacred site yields great fruit.",
+    "One who performs this act is freed from all sins.",
+    "After death, such a person dwells in the world of Brahma."
+   ],
+   "inference": "Therefore, the ritual bathing grants freedom from all sins and leads to dwelling in Brahma's world after death.",
+   "uncertainties": [],
+   "plain_english": "One is freed from all sins and, after death, dwells in the world of Brahma."
+  }
+ ]
+}

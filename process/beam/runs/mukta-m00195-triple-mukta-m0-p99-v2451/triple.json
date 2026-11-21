@@ -1,0 +1,974 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2451,
+   "rows": [
+    {
+     "surface": "kuvākuśca",
+     "gloss": "and-bottle-gourd",
+     "grounds": "kuvākuḥ + ca; sandhi in fused form",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāvitryakārakam",
+     "gloss": "causing-purity",
+     "grounds": "compound: pāvitraya + kārakam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which plant at its root serves as a purifier for vow-observers?",
+   "premises": [
+    "The bottle-gourd is named in this context.",
+    "Its root is specified as the relevant part.",
+    "That root is described as causing purity."
+   ],
+   "inference": "The root of the bottle-gourd is prescribed as a purifying substance.",
+   "uncertainties": [
+    "The exact botanical identification of kuvāku is not fully certain."
+   ],
+   "plain_english": "The bottle-gourd, at its root, is a substance that brings purity."
+  },
+  {
+   "verse": 2452,
+   "rows": [
+    {
+     "surface": "satkulasthānajātānāṃ",
+     "gloss": "of-those-born-in-noble-families",
+     "grounds": "compound: sat-kula-sthāna-jātānām",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhikṣāśī",
+     "gloss": "living-on-alms",
+     "grounds": "compound: bhikṣā + āśī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cāgrajanmanām",
+     "gloss": "and-of-twice-born",
+     "grounds": "ca + agrajanmanām; sandhi in fused form",
+     "morph": "(indecl.) + m.gen.pl"
+    }
+   ],
+   "question": "What mode of sustenance is prescribed for noble-born twice-born practitioners?",
+   "premises": [
+    "Persons born in noble families are mentioned.",
+    "Twice-born persons are also included.",
+    "Living on alms is attributed to them."
+   ],
+   "inference": "Noble-born twice-born practitioners should subsist by eating alms.",
+   "uncertainties": [],
+   "plain_english": "One born in a noble family and of twice-born status should live by eating alms."
+  },
+  {
+   "verse": 2453,
+   "rows": [
+    {
+     "surface": "bhikṣālabdhaṃ",
+     "gloss": "obtained-by-alms",
+     "grounds": "compound: bhikṣā + labdhaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhakṣyaṃ",
+     "gloss": "food",
+     "grounds": "that which may be eaten",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vratasthitaiḥ",
+     "gloss": "by-those-firm-in-vows",
+     "grounds": "compound: vrata + sthitaiḥ",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What kind of food is permitted for those established in vows?",
+   "premises": [
+    "Food obtained through alms is specified.",
+    "Such food is designated as fit to eat.",
+    "Those firm in vows are the intended eaters."
+   ],
+   "inference": "Those established in vows should eat only food obtained as alms.",
+   "uncertainties": [],
+   "plain_english": "Those who are established in vows should eat food that has been obtained through alms."
+  },
+  {
+   "verse": 2454,
+   "rows": [
+    {
+     "surface": "taṇḍulāḥ",
+     "gloss": "rice-grains",
+     "grounds": "subject of classification",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ṣaṣṭhinī",
+     "gloss": "sixty-day-rice",
+     "grounds": "type of rice",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāra",
+     "gloss": "wild-rice",
+     "grounds": "type of rice",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śālijāḥ",
+     "gloss": "born-from-śāli-rice",
+     "grounds": "compound: śāli + jāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "trividhā",
+     "gloss": "threefold",
+     "grounds": "classification term",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "past participle used as predicate",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which three kinds of rice grains are recognized as acceptable?",
+   "premises": [
+    "Rice grains are the subject of classification.",
+    "Sixty-day rice, wild rice, and śāli-born rice are listed.",
+    "These are declared to be threefold."
+   ],
+   "inference": "Three kinds of rice grains are accepted: sixty-day rice, wild rice, and śāli rice.",
+   "uncertainties": [],
+   "plain_english": "Rice grains are considered to be of three kinds: sixty-day rice, wild rice, and rice born from śāli."
+  },
+  {
+   "verse": 2455,
+   "rows": [
+    {
+     "surface": "kaṅgavaḥ",
+     "gloss": "panic-grass-grains",
+     "grounds": "listed food item",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "makuṣṭhāḥ",
+     "gloss": "moth-beans",
+     "grounds": "listed food item",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvannālakaṇaśikā",
+     "gloss": "barley-with-stalk-grain-tip",
+     "grounds": "compound describing barley; exact analysis uncertain",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional grains are included among permitted foods for vow-observers?",
+   "premises": [
+    "Panic-grass grains are listed.",
+    "Moth beans are listed.",
+    "Barley in a specified form is listed."
+   ],
+   "inference": "Panic-grass, moth beans, and barley are included among permitted grains.",
+   "uncertainties": [
+    "The precise meaning of yāvannālakaṇaśikā is uncertain."
+   ],
+   "plain_english": "Panic-grass grains, moth beans, and barley with its stalk, grain, and tip are also permitted."
+  },
+  {
+   "verse": 2456,
+   "rows": [
+    {
+     "surface": "cakramardaḥ",
+     "gloss": "sickle-senna",
+     "grounds": "listed plant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palaṅkaḥ",
+     "gloss": "spinach-like-plant",
+     "grounds": "listed plant; exact identification uncertain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śatapuṣpikā",
+     "gloss": "dill",
+     "grounds": "listed plant",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which specific plants are named as acceptable in this dietary list?",
+   "premises": [
+    "Sickle-senna is named.",
+    "Another plant called palaṅka is named.",
+    "Dill is named."
+   ],
+   "inference": "Sickle-senna, palaṅka, and dill are included among acceptable plants.",
+   "uncertainties": [
+    "The exact identification of palaṅka is uncertain."
+   ],
+   "plain_english": "Sickle-senna, palaṅka, and dill are included."
+  },
+  {
+   "verse": 2457,
+   "rows": [
+    {
+     "surface": "mṛṇāla",
+     "gloss": "lotus-stalk",
+     "grounds": "listed edible plant part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "musulī",
+     "gloss": "musali",
+     "grounds": "listed plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ghoṇṭā",
+     "gloss": "ghoṇṭā-plant",
+     "grounds": "listed plant; exact identification uncertain",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śatamūlī",
+     "gloss": "hundred-root-plant",
+     "grounds": "listed plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidārikā",
+     "gloss": "vidārikā-tuber",
+     "grounds": "listed plant",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which roots and plant parts are permitted among the listed foods?",
+   "premises": [
+    "Lotus stalk is listed.",
+    "Musali, ghoṇṭā, and hundred-root plant are listed.",
+    "Vidārikā tuber is listed."
+   ],
+   "inference": "Lotus stalk, musali, ghoṇṭā, śatamūlī, and vidārikā are permitted plant foods.",
+   "uncertainties": [
+    "The exact identification of ghoṇṭā is uncertain."
+   ],
+   "plain_english": "Lotus stalk, musali, ghoṇṭā, the hundred-root plant, and vidārikā are included."
+  },
+  {
+   "verse": 2458,
+   "rows": [
+    {
+     "surface": "kañcyukaḥ",
+     "gloss": "water-chestnut-sheath",
+     "grounds": "listed plant part; exact identification uncertain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṅgāṭaka",
+     "gloss": "water-caltrop",
+     "grounds": "listed plant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaserukau",
+     "gloss": "two-kaseru-tubers",
+     "grounds": "dual form of kaseruka",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "Which aquatic plant foods are added to the permitted dietary items?",
+   "premises": [
+    "Kañcyuka is listed.",
+    "Water-caltrop is listed.",
+    "Two kinds or two instances of kaseru tubers are listed."
+   ],
+   "inference": "Kañcyuka, water-caltrop, and kaseru tubers are permitted aquatic foods.",
+   "uncertainties": [
+    "The exact identification of kañcyuka is uncertain.",
+    "The dual kaserukau may indicate two types or a pair."
+   ],
+   "plain_english": "Kañcyuka, water-caltrop, and the two kaseru tubers are also included."
+  },
+  {
+   "verse": 2459,
+   "rows": [
+    {
+     "surface": "dugdhaṃ",
+     "gloss": "milk",
+     "grounds": "listed dairy item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sasāraṃ",
+     "gloss": "with-essence",
+     "grounds": "compound: sa + sāram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhuraṃ",
+     "gloss": "sweet",
+     "grounds": "quality of milk",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "payo",
+     "gloss": "milk",
+     "grounds": "synonym for milk",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyattvalapabījakam",
+     "gloss": "with-small-seed-removed",
+     "grounds": "compound; exact analysis uncertain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What qualities must milk possess to be acceptable for vow-observers?",
+   "premises": [
+    "Milk is explicitly mentioned.",
+    "It is described as having essence and being sweet.",
+    "An additional qualifying term restricts its form."
+   ],
+   "inference": "Acceptable milk must be sweet, substantial, and meet the stated restriction.",
+   "uncertainties": [
+    "The meaning of nyattvalapabījakam is unclear."
+   ],
+   "plain_english": "Milk that is rich, sweet, and meets the stated condition is permitted."
+  },
+  {
+   "verse": 2460,
+   "rows": [
+    {
+     "surface": "bheṣajaṃ",
+     "gloss": "medicine",
+     "grounds": "object to be abandoned in this context",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hitvā",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mīnān",
+     "gloss": "fish",
+     "grounds": "prohibited item",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "surāṃ",
+     "gloss": "liquor",
+     "grounds": "prohibited item",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "palam",
+     "gloss": "meat",
+     "grounds": "prohibited item",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which substances must be abandoned by those following the prescribed vow?",
+   "premises": [
+    "All medicine is to be abandoned in this context.",
+    "Fish are explicitly named.",
+    "Liquor and meat are explicitly named."
+   ],
+   "inference": "Practitioners must avoid all medicine, fish, liquor, and meat.",
+   "uncertainties": [
+    "The scope of 'all medicine' in this vow context is not fully specified."
+   ],
+   "plain_english": "Having abandoned all medicine, one must also avoid fish, liquor, and meat."
+  },
+  {
+   "verse": 2461,
+   "rows": [
+    {
+     "surface": "māhiṣaṃ",
+     "gloss": "buffalo-product",
+     "grounds": "prohibited item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "additional unspecified items",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vratasthānāṃ",
+     "gloss": "for-those-in-vows",
+     "grounds": "compound: vrata + sthānāṃ",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "niṣidhyate",
+     "gloss": "is-forbidden",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What additional items are forbidden for those established in vows?",
+   "premises": [
+    "Buffalo products are named.",
+    "Other unspecified items are also included.",
+    "These are declared forbidden for vow-observers."
+   ],
+   "inference": "Buffalo products and other similar items are forbidden for those in vows.",
+   "uncertainties": [
+    "The range of 'other' forbidden items is not specified."
+   ],
+   "plain_english": "Buffalo products and other such things are forbidden for those who are established in vows."
+  },
+  {
+   "verse": 2462,
+   "rows": [
+    {
+     "surface": "deśakulataḥ",
+     "gloss": "according-to-place-and-family",
+     "grounds": "compound: deśa + kula + taḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praśastaṃ",
+     "gloss": "praised",
+     "grounds": "approved or recommended",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sodhamaḥ",
+     "gloss": "with-proper-duty",
+     "grounds": "reading uncertain; possibly sa + udhamaḥ or related form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "declared in tradition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what standard is proper conduct for vow-observers traditionally determined?",
+   "premises": [
+    "Place and family are given as criteria.",
+    "What is praised is linked to these criteria.",
+    "Tradition remembers this as proper."
+   ],
+   "inference": "Proper conduct is determined according to place and family as remembered in tradition.",
+   "uncertainties": [
+    "The exact reading and meaning of sodhamaḥ is uncertain."
+   ],
+   "plain_english": "What is praised according to place and family is remembered as proper conduct."
+  },
+  {
+   "verse": 2463,
+   "rows": [
+    {
+     "surface": "masūrāḥ",
+     "gloss": "lentils",
+     "grounds": "listed grain or pulse",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kodravāḥ",
+     "gloss": "kodo-millet",
+     "grounds": "listed grain",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇakāḥ",
+     "gloss": "chickpeas",
+     "grounds": "listed pulse",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "classification term",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which three pulses or grains are grouped together in this classification?",
+   "premises": [
+    "Lentils are named.",
+    "Kodo-millet is named.",
+    "Chickpeas are named as a threefold group."
+   ],
+   "inference": "Lentils, kodo-millet, and chickpeas form a threefold group in this list.",
+   "uncertainties": [],
+   "plain_english": "Lentils, kodo-millet, and chickpeas are listed as a threefold group."
+  },
+  {
+   "verse": 2464,
+   "rows": [
+    {
+     "surface": "kṣāraṃ",
+     "gloss": "alkaline-substance",
+     "grounds": "prohibited or restricted item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "palāṇḍuḥ",
+     "gloss": "onion",
+     "grounds": "prohibited item",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛñjanaṃ",
+     "gloss": "garlic",
+     "grounds": "prohibited item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kācabhojanam",
+     "gloss": "food-in-glass",
+     "grounds": "compound: kāca + bhojanam; meaning uncertain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which foods and substances are excluded from the vow-observer's diet here?",
+   "premises": [
+    "Alkaline substances are listed.",
+    "Onion and garlic are listed.",
+    "Food described as kācabhojana is listed."
+   ],
+   "inference": "Alkaline substances, onion, garlic, and kācabhojana are excluded.",
+   "uncertainties": [
+    "The meaning of kācabhojanam is uncertain."
+   ],
+   "plain_english": "Alkaline substances, onion, garlic, and food associated with glass are to be avoided."
+  },
+  {
+   "verse": 2465,
+   "rows": [
+    {
+     "surface": "paryuṣitaṃ",
+     "gloss": "stale",
+     "grounds": "quality of food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tailaṃ",
+     "gloss": "oil",
+     "grounds": "listed item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāmbūlaṃ",
+     "gloss": "betel",
+     "grounds": "listed item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣudradhānyakam",
+     "gloss": "small-grain",
+     "grounds": "compound: kṣudra + dhānyakam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which additional items are restricted for those maintaining the vow?",
+   "premises": [
+    "Stale oil is mentioned.",
+    "Betel is mentioned.",
+    "Small grains are mentioned."
+   ],
+   "inference": "Stale oil, betel, and small grains are restricted items.",
+   "uncertainties": [
+    "Whether oil alone or stale things generally are meant is slightly ambiguous."
+   ],
+   "plain_english": "Stale oil, betel, and small grains are to be avoided."
+  },
+  {
+   "verse": 2466,
+   "rows": [
+    {
+     "surface": "dvipakvaṃ",
+     "gloss": "twice-cooked",
+     "grounds": "quality of food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍānnaṃ",
+     "gloss": "jaggery-rice",
+     "grounds": "compound: guḍa + annam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tālajaṃ",
+     "gloss": "born-from-palm",
+     "grounds": "compound: tāla + jam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "listed item",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which prepared foods and fruits are excluded in this dietary rule?",
+   "premises": [
+    "Twice-cooked food is listed.",
+    "Rice mixed with jaggery is listed.",
+    "Fruit from the palm tree is listed."
+   ],
+   "inference": "Twice-cooked food, jaggery-rice, and palm fruit are excluded.",
+   "uncertainties": [],
+   "plain_english": "Twice-cooked food, rice with jaggery, and fruit from the palm are to be avoided."
+  },
+  {
+   "verse": 2467,
+   "rows": [
+    {
+     "surface": "mantrapūtaṃ",
+     "gloss": "purified-by-mantra",
+     "grounds": "compound: mantra + pūtam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāvanaṃ",
+     "gloss": "purifying",
+     "grounds": "quality of food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devadurlabham",
+     "gloss": "rare-even-for-gods",
+     "grounds": "compound: deva + durlabham",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What special qualities elevate food to the highest ritual status?",
+   "premises": [
+    "The food is purified by mantra.",
+    "It is described as purifying.",
+    "It is said to be rare even for gods."
+   ],
+   "inference": "Mantra-purified food is supremely purifying and exceptionally rare.",
+   "uncertainties": [],
+   "plain_english": "Food purified by mantra is purifying and rare even for the gods."
+  },
+  {
+   "verse": 2468,
+   "rows": [
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "meal",
+     "grounds": "object of ritual action",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāryam",
+     "gloss": "should-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upastīrya",
+     "gloss": "having-spread",
+     "grounds": "absolutive participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avidhārya",
+     "gloss": "having-covered",
+     "grounds": "absolutive participle; reading/meaning slightly uncertain",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory ritual actions must precede taking the meal?",
+   "premises": [
+    "The meal is the object of prescribed action.",
+    "Spreading is required beforehand.",
+    "Covering or setting apart is also required."
+   ],
+   "inference": "Before eating, one must ritually spread and cover as prescribed.",
+   "uncertainties": [
+    "The precise ritual sense of avidhārya is uncertain."
+   ],
+   "plain_english": "The meal should be taken after spreading and covering it in the prescribed way."
+  },
+  {
+   "verse": 2469,
+   "rows": [
+    {
+     "surface": "sammantrya",
+     "gloss": "having-consecrated-with-mantra",
+     "grounds": "absolutive participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuñjīyāt",
+     "gloss": "one-should-eat",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "hṛdayāṇunā",
+     "gloss": "with-heart-mantra",
+     "grounds": "compound: hṛdaya + aṇunā",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "By what mantra should the food be consecrated before eating?",
+   "premises": [
+    "Consecration with mantra is required before eating.",
+    "The act of eating is prescribed in the optative.",
+    "The heart-mantra is specified as the means."
+   ],
+   "inference": "One should consecrate the food with the heart-mantra and then eat.",
+   "uncertainties": [],
+   "plain_english": "After consecrating it with the heart-mantra, one should eat."
+  },
+  {
+   "verse": 2470,
+   "rows": [
+    {
+     "surface": "bhuñjīta",
+     "gloss": "one-should-eat",
+     "grounds": "optative verb",
+     "morph": "3.sg.mid-opt"
+    },
+    {
+     "surface": "tvanyatpatraṃ",
+     "gloss": "but-on-another-leaf",
+     "grounds": "tu + anyat + patram; sandhi in fused form",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "vivarjitam",
+     "gloss": "avoided",
+     "grounds": "past participle; contextually what is to be avoided",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What restriction applies to the vessel or leaf used for eating?",
+   "premises": [
+    "Eating is prescribed with an optative verb.",
+    "Another leaf is mentioned.",
+    "Something avoided or excluded is indicated."
+   ],
+   "inference": "One should eat while avoiding the use of another's or an improper leaf.",
+   "uncertainties": [
+    "The exact sense of tvanyatpatraṃ vivarjitam is ambiguous."
+   ],
+   "plain_english": "One should eat, avoiding any other improper leaf."
+  },
+  {
+   "verse": 2471,
+   "rows": [
+    {
+     "surface": "śayane",
+     "gloss": "on-bed",
+     "grounds": "place of rest",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "suśuddhe",
+     "gloss": "very-pure",
+     "grounds": "quality of bed or place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vasudhātale",
+     "gloss": "on-earth-surface",
+     "grounds": "compound: vasudhā + tale",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the vow-observer rest according to this prescription?",
+   "premises": [
+    "A bed or resting place is mentioned.",
+    "It must be very pure.",
+    "It is located on the surface of the earth."
+   ],
+   "inference": "The practitioner should rest on a very pure bed on the earth.",
+   "uncertainties": [],
+   "plain_english": "One should rest on a very pure bed on the surface of the earth."
+  },
+  {
+   "verse": 2472,
+   "rows": [
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound: mūla + mantreṇa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "jitakrodho",
+     "gloss": "having-conquered-anger",
+     "grounds": "compound: jita + krodhaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jitendriyaḥ",
+     "gloss": "having-conquered-senses",
+     "grounds": "compound: jita + indriyaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What inner disciplines must accompany use of the root mantra?",
+   "premises": [
+    "The root mantra is specified as the means.",
+    "Conquest of anger is required.",
+    "Conquest of the senses is required."
+   ],
+   "inference": "One should use the root mantra while having conquered anger and the senses.",
+   "uncertainties": [],
+   "plain_english": "With the root mantra, one should be free of anger and have the senses under control."
+  },
+  {
+   "verse": 2473,
+   "rows": [
+    {
+     "surface": "samutthāya",
+     "gloss": "having-risen",
+     "grounds": "absolutive participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaśaucaṃ",
+     "gloss": "foot-cleansing",
+     "grounds": "compound: pāda + śaucam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive participle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What immediate actions follow rising from rest in this routine?",
+   "premises": [
+    "Rising is the first action mentioned.",
+    "Cleansing of the feet is specified.",
+    "This cleansing must be performed."
+   ],
+   "inference": "After rising, one must perform the cleansing of the feet.",
+   "uncertainties": [],
+   "plain_english": "Having risen, one should perform the cleansing of the feet."
+  },
+  {
+   "verse": 2474,
+   "rows": [
+    {
+     "surface": "kuryādyathāśakti",
+     "gloss": "one-should-do-according-to-ability",
+     "grounds": "kuryāt + yathā + śakti; sandhi in fused form",
+     "morph": "3.sg.act-opt + (indecl.)"
+    },
+    {
+     "surface": "tvarpayecca",
+     "gloss": "and-should-offer",
+     "grounds": "tu + arpayet + ca; sandhi in fused form",
+     "morph": "(indecl.) + 3.sg.act-opt + (indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "correlative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśvare",
+     "gloss": "to-the-lord",
+     "grounds": "recipient of offering",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should offerings to the Lord be performed according to one's capacity?",
+   "premises": [
+    "Action is to be done according to one's ability.",
+    "Offering is explicitly prescribed.",
+    "The Lord is named as the recipient."
+   ],
+   "inference": "One should act according to ability and likewise make offerings to the Lord.",
+   "uncertainties": [],
+   "plain_english": "One should act according to one's ability and likewise make offerings to the Lord."
+  }
+ ]
+}

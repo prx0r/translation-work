@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "object of prescribed action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt+tu",
+     "gloss": "should-do-but",
+     "grounds": "optative injunction with emphatic particle",
+     "morph": "3.sg.opt.act + (indecl.)"
+    },
+    {
+     "surface": "gaṅgāyām",
+     "gloss": "in-gaṅgā",
+     "grounds": "locative specifying place of rites",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kāla+bhedam",
+     "gloss": "time-distinction",
+     "grounds": "compound object negated in following clause",
+     "morph": "m.acc.sg (kāla+bheda)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates observance of time distinction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+ācaret",
+     "gloss": "and-should-observe",
+     "grounds": "optative prohibition of temporal restriction",
+     "morph": "(indecl.) + 3.sg.opt.act (ā-car)"
+    }
+   ],
+   "question": "Are temporal distinctions binding for rites performed at the Gaṅgā?",
+   "premises": [
+    "All rites may be performed at the Gaṅgā.",
+    "Distinctions of time are not to be observed there.",
+    "One should act without regard to temporal divisions at that place."
+   ],
+   "inference": "Therefore, rites at the Gaṅgā are to be performed without observing distinctions of time.",
+   "uncertainties": [],
+   "plain_english": "One should perform everything at the Gaṅgā, and should not observe any distinction of time."
+  }
+ ]
+}

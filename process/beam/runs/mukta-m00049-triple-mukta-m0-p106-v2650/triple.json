@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2650,
+   "rows": [
+    {
+     "surface": "laṅgheta",
+     "gloss": "should-transgress",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act.opt + √laṅgh"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāsaiḥ",
+     "gloss": "with-morsels",
+     "grounds": "instrumental plural denoting means of nourishment",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "kavalaiḥ",
+     "gloss": "with-mouthfuls",
+     "grounds": "instrumental plural denoting means of nourishment",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "poṣayet",
+     "gloss": "should-nourish",
+     "grounds": "optative causative verb expressing prescribed action",
+     "morph": "3.sg.act.opt.caus + √puṣ"
+    }
+   ],
+   "question": "What actions of transgression and nourishment are prescribed at that stage?",
+   "premises": [
+    "At that stage one should transgress.",
+    "Nourishment should be effected by means of morsels.",
+    "Nourishment should be effected by means of mouthfuls."
+   ],
+   "inference": "One should then transgress and provide nourishment through morsels and mouthfuls.",
+   "uncertainties": [
+    "The specific object or boundary to be transgressed is not stated in this verse.",
+    "The entity to be nourished is implied by context but not explicitly named here."
+   ],
+   "plain_english": "Then one should transgress and nourish with morsels and mouthfuls."
+  }
+ ]
+}

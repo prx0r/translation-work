@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "netratrayāya",
+     "gloss": "three-eyes",
+     "grounds": "dative recipient of the offering",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "vauṣaṭ",
+     "gloss": "vauṣaṭ",
+     "grounds": "mantra syllable used in offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ai",
+     "gloss": "ai",
+     "grounds": "bija syllable in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klī",
+     "gloss": "klī",
+     "grounds": "bija syllable in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sauḥ",
+     "gloss": "sauḥ",
+     "grounds": "bija syllable in the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astrāya",
+     "gloss": "weapon",
+     "grounds": "dative target of the offering",
+     "morph": "dat.sg.n"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantra syllable closing the offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which three-eyed recipient is the weapon offering directed by this mantra?",
+   "premises": [
+    "The verse names a three-eye recipient.",
+    "The verse names weapon as an offering target.",
+    "Bija syllables accompany the offering."
+   ],
+   "inference": "The mantra directs a weapon offering to the three-eyed aspect.",
+   "uncertainties": [
+    "Exact ritual function of each bija remains unspecified."
+   ],
+   "plain_english": "To the three eyes, vauṣaṭ; ai klī sauḥ; to the weapon, phaṭ."
+  }
+ ]
+}

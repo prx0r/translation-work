@@ -1,0 +1,689 @@
+{
+ "song": "sva-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-imagine",
+     "grounds": "root kalp with pari prefix",
+     "morph": "3.sg.act.opt-√kḷp"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anuṣajyate",
+     "gloss": "is-attached",
+     "grounds": "root sañj with anu prefix",
+     "morph": "3.sg.pass.prs-√sañj"
+    },
+    {
+     "surface": "parikalpanā",
+     "gloss": "imagination",
+     "grounds": "action noun from kalp",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "anuṣaṅga",
+     "gloss": "attachment",
+     "grounds": "action noun from sañj",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does imagination become attached to the rite?",
+   "premises": [
+    "imagination is projected",
+    "attachment follows projection",
+    "rite depends on both"
+   ],
+   "inference": "the rite's imagined form carries attached meaning",
+   "uncertainties": [
+    "exact ritual referent unclear"
+   ],
+   "plain_english": "One should imagine; thus imagination becomes attached."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "vaktrāṅgānām",
+     "gloss": "of-face-parts",
+     "grounds": "compound vaktra-aṅga",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āvaraṇa",
+     "gloss": "covering",
+     "grounds": "action noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hetutayā",
+     "gloss": "as-cause",
+     "grounds": "instrumental tatpuruṣa",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tryāvaraṇaḥ",
+     "gloss": "three-covering",
+     "grounds": "compound tri-āvaraṇa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "order",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the order called threefold covering?",
+   "premises": [
+    "face parts have one covering",
+    "that covering acts as cause",
+    "threefold covering follows"
+   ],
+   "inference": "the ritual order is structured by three coverings",
+   "uncertainties": [
+    "which three coverings unspecified"
+   ],
+   "plain_english": "Because one covering of the face parts is the cause, the order is threefold covering."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccārayet",
+     "gloss": "should-utter",
+     "grounds": "causative of car",
+     "morph": "3.sg.act.opt-√car"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of uttering the mantra?",
+   "premises": [
+    "mantra is uttered",
+    "utterance has duration",
+    "meaning is stated"
+   ],
+   "inference": "the verse gives the meaning of mantra utterance",
+   "uncertainties": [
+    "duration not quantified"
+   ],
+   "plain_english": "As long as one utters the mantra, that is the meaning."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "svatantram",
+     "gloss": "independent",
+     "grounds": "compound sva-tantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svatantra",
+     "gloss": "independent",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāva",
+     "gloss": "state",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does independent mean in this context?",
+   "premises": [
+    "independent is the meaning",
+    "independent state is named",
+    "state qualifies the term"
+   ],
+   "inference": "independence is explained as an independent state",
+   "uncertainties": [
+    "referent of state unclear"
+   ],
+   "plain_english": "Independent means an independent state."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akāra",
+     "gloss": "a-syllable",
+     "grounds": "compound a-kāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaloccāre",
+     "gloss": "in-articulation",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-present",
+     "grounds": "locative absolute",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sakalatvam",
+     "gloss": "wholeness",
+     "grounds": "abstract noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti",
+     "gloss": "is",
+     "grounds": "root as",
+     "morph": "3.sg.act.prs-√as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does wholeness remain during syllable articulation?",
+   "premises": [
+    "a and other syllables are articulated",
+    "wholeness is present",
+    "wholeness also exists"
+   ],
+   "inference": "articulation of syllables does not remove wholeness",
+   "uncertainties": [
+    "scope of sakalatvam unclear"
+   ],
+   "plain_english": "Even when a and other syllables are articulated, wholeness is also present."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "sūkṣmatamena",
+     "gloss": "by-most-subtle",
+     "grounds": "superlative instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āmayena",
+     "gloss": "by-disease",
+     "grounds": "instrumental noun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ākhyāti",
+     "gloss": "declares",
+     "grounds": "root khyā with ā prefix",
+     "morph": "3.sg.act.prs-√khyā"
+    },
+    {
+     "surface": "ātmaka",
+     "gloss": "having-nature",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-illusion",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sparśena",
+     "gloss": "by-touch",
+     "grounds": "instrumental noun",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śūnyam",
+     "gloss": "empty",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How does great illusion become empty by touch?",
+   "premises": [
+    "even subtle disease declares nature",
+    "great illusion has that nature",
+    "touch makes it empty"
+   ],
+   "inference": "the subtlest affliction reveals illusion as empty through contact",
+   "uncertainties": [
+    "āmayena referent unclear"
+   ],
+   "plain_english": "Even by the most subtle disease, great illusion, having that nature, becomes empty by touch."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "śivībhāva",
+     "gloss": "shiva-state",
+     "grounds": "compound śiva-bhāva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmaka",
+     "gloss": "having-nature",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mānasa",
+     "gloss": "mental",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāga",
+     "gloss": "sacrifice",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "first",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bāhya",
+     "gloss": "external",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāgaṃ",
+     "gloss": "sacrifice",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nirvartayet",
+     "gloss": "should-perform",
+     "grounds": "causative of vṛt",
+     "morph": "3.sg.act.opt-√vṛt"
+    }
+   ],
+   "question": "What order links mental and external sacrifice?",
+   "premises": [
+    "mental sacrifice has shiva nature",
+    "first comes mental sacrifice",
+    "external sacrifice should follow"
+   ],
+   "inference": "one performs external sacrifice after mental shiva-natured sacrifice",
+   "uncertainties": [
+    "exact ritual sequence unclear"
+   ],
+   "plain_english": "First the mental sacrifice having Shiva nature, then one should perform external sacrifice."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "paśuḥ",
+     "gloss": "bound-soul",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mokṣāya",
+     "gloss": "for-liberation",
+     "grounds": "dative purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive of vidhā",
+     "morph": "3.sg.pass.prs-√dhā"
+    },
+    {
+     "surface": "tadartham",
+     "gloss": "for-that-purpose",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhikriyate",
+     "gloss": "is-authorized",
+     "grounds": "passive of adhi-kṛ",
+     "morph": "3.sg.pass.prs-√kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the bound soul not prescribed for liberation?",
+   "premises": [
+    "bound soul is not prescribed for liberation",
+    "it is authorized for that purpose",
+    "meaning is stated"
+   ],
+   "inference": "the bound soul is authorized for another purpose, not liberation",
+   "uncertainties": [
+    "that purpose unspecified"
+   ],
+   "plain_english": "The bound soul is not prescribed for liberation; it is authorized for that purpose."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "artha",
+     "gloss": "meaning",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyākhyā",
+     "gloss": "explanation",
+     "grounds": "action noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samāpti",
+     "gloss": "completion",
+     "grounds": "action noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What completes the explanation of that meaning?",
+   "premises": [
+    "thus is the meaning",
+    "that meaning has explanation",
+    "explanation reaches completion"
+   ],
+   "inference": "the explanation of that meaning is completed",
+   "uncertainties": [
+    "scope of tad unclear"
+   ],
+   "plain_english": "Thus is the meaning; the explanation of that meaning is completed."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "first person pronoun",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "action noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ātmā",
+     "gloss": "self",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvividhaḥ",
+     "gloss": "twofold",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dehaḥ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is the self twofold here?",
+   "premises": [
+    "i is the meaning",
+    "self is here",
+    "body is twofold"
+   ],
+   "inference": "the self is explained as a twofold body",
+   "uncertainties": [
+    "two kinds unspecified"
+   ],
+   "plain_english": "I means the self; here the body is twofold."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "putraka",
+     "gloss": "son",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aivīdheyam",
+     "gloss": "to-be-done-thus",
+     "grounds": "gerundive",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃparam",
+     "gloss": "thus-beyond",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is to be done by the son and others?",
+   "premises": [
+    "son and others are addressed",
+    "something is to be done thus",
+    "this is beyond thus"
+   ],
+   "inference": "the addressed group must perform the prescribed act",
+   "uncertainties": [
+    "act unspecified"
+   ],
+   "plain_english": "Son and others, this is to be done thus; this is beyond thus."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kartum",
+     "gloss": "to-do",
+     "grounds": "infinitive",
+     "morph": "inf-√kṛ"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyākhyeyam",
+     "gloss": "to-be-explained",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyākhyā",
+     "gloss": "explanation",
+     "grounds": "action noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What must be explained about that action?",
+   "premises": [
+    "that action is to be done",
+    "it is to be explained",
+    "explanation concerns action"
+   ],
+   "inference": "the action itself requires explanation",
+   "uncertainties": [
+    "which action unspecified"
+   ],
+   "plain_english": "To do that is to be explained; that action is the explanation."
+  }
+ ]
+}

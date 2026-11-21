@@ -1,0 +1,946 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 601,
+   "rows": [
+    {
+     "surface": "viṣṭaraṃ",
+     "gloss": "seat",
+     "grounds": "seat to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "gerund",
+     "morph": "gerund"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "fixed",
+     "grounds": "fixed seat",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "śaktikalpitam",
+     "gloss": "śakti-made",
+     "grounds": "made by śakti",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "What kind of seat should be placed there for worship?",
+   "premises": [
+    "A seat is placed there.",
+    "It is fixed and śakti-made."
+   ],
+   "inference": "The rite requires a fixed śakti-made seat placed there.",
+   "uncertainties": [],
+   "plain_english": "Place there a fixed seat made by śakti."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "praśaste",
+     "gloss": "auspicious",
+     "grounds": "auspicious seat",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "āsane",
+     "gloss": "seat",
+     "grounds": "seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rakte",
+     "gloss": "red",
+     "grounds": "red seat",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "vicitre",
+     "gloss": "variegated",
+     "grounds": "variegated seat",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manohare",
+     "gloss": "charming",
+     "grounds": "charming seat",
+     "morph": "adj.loc.sg"
+    }
+   ],
+   "question": "What kinds of seats are suitable for the rite?",
+   "premises": [
+    "The seat may be auspicious.",
+    "It may be red, variegated, or charming."
+   ],
+   "inference": "Suitable seats include auspicious, red, variegated, or charming ones.",
+   "uncertainties": [],
+   "plain_english": "On an auspicious, red, variegated, or charming seat."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "tṛptyarthaṃ",
+     "gloss": "for-satisfaction",
+     "grounds": "for satisfaction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatānāñca",
+     "gloss": "of-deities",
+     "grounds": "of deities",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kūryād",
+     "gloss": "should-make",
+     "grounds": "should make",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "vīrāsanaṃ",
+     "gloss": "vīrāsana",
+     "grounds": "vīrāsana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "address",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "What seat should be made for the satisfaction of deities?",
+   "premises": [
+    "Vīrāsana is made.",
+    "It is for deity satisfaction."
+   ],
+   "inference": "Vīrāsana should be made for the satisfaction of deities.",
+   "uncertainties": [],
+   "plain_english": "For the satisfaction of deities, make vīrāsana, O Śiva."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "vāmasiddhāntadivyānāṃ",
+     "gloss": "of-left-siddhānta-divine-ones",
+     "grounds": "of left-siddhānta divine ones",
+     "morph": "adj.gen.pl"
+    },
+    {
+     "surface": "svecchāsanam",
+     "gloss": "own-wish-seat",
+     "grounds": "own-wish seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udīritam",
+     "gloss": "declared",
+     "grounds": "declared",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What seat is declared for the divine ones of the left siddhānta?",
+   "premises": [
+    "Their seat is own-wish seat.",
+    "It is declared."
+   ],
+   "inference": "The own-wish seat is declared for them.",
+   "uncertainties": [],
+   "plain_english": "For the divine ones of the left siddhānta, the own-wish seat is declared."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "vāmasiddhāntadivyānāṃ",
+     "gloss": "of-left-siddhānta-divine-ones",
+     "grounds": "of left-siddhānta divine ones",
+     "morph": "adj.gen.pl"
+    },
+    {
+     "surface": "niyamaṃ",
+     "gloss": "rule",
+     "grounds": "rule",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpitam",
+     "gloss": "fixed",
+     "grounds": "fixed",
+     "morph": "adj.acc.sg"
+    }
+   ],
+   "question": "Is a fixed rule prescribed for the divine ones of the left siddhānta?",
+   "premises": [
+    "No fixed rule is prescribed.",
+    "It concerns those divine ones."
+   ],
+   "inference": "No fixed rule is prescribed for them.",
+   "uncertainties": [],
+   "plain_english": "No fixed rule is prescribed for the divine ones of the left siddhānta."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "ekānte",
+     "gloss": "in-seclusion",
+     "grounds": "in seclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirjane",
+     "gloss": "solitary",
+     "grounds": "solitary place",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "ramye",
+     "gloss": "pleasant",
+     "grounds": "pleasant place",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "place",
+     "grounds": "place",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhāvivarjite",
+     "gloss": "free-from-obstacle",
+     "grounds": "free from obstacle",
+     "morph": "adj.loc.sg"
+    }
+   ],
+   "question": "Where should the rite be performed?",
+   "premises": [
+    "It should be in seclusion.",
+    "The place should be solitary, pleasant, or free from obstacle."
+   ],
+   "inference": "The rite belongs in a secluded, solitary, pleasant, obstacle-free place.",
+   "uncertainties": [],
+   "plain_english": "In seclusion, in a solitary, pleasant place free from obstacles."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "rudhireṇa",
+     "gloss": "with-blood",
+     "grounds": "with blood",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "varārohe",
+     "gloss": "O-excellent-one",
+     "grounds": "address",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "trikoṇañca",
+     "gloss": "triangle",
+     "grounds": "triangle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āsane",
+     "gloss": "on-seat",
+     "grounds": "on seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-draw",
+     "grounds": "should draw",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be drawn on the seat with blood?",
+   "premises": [
+    "A triangle is drawn.",
+    "It is drawn with blood on the seat."
+   ],
+   "inference": "A triangle should be drawn on the seat with blood.",
+   "uncertainties": [],
+   "plain_english": "With blood, O excellent one, draw a triangle on the seat."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "bhūcakramāsanaṃ",
+     "gloss": "earth-cakra-seat",
+     "grounds": "earth-cakra seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "to be known",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "gandhapuṣpākṣatādibhiḥ",
+     "gloss": "with-sandal-paste-flowers-rice-etc",
+     "grounds": "with sandal, flowers, rice, etc.",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What seat is to be known and with what is it worshipped?",
+   "premises": [
+    "The earth-cakra seat is to be known.",
+    "It is worshipped with sandal, flowers, rice, etc."
+   ],
+   "inference": "The earth-cakra seat is to be known and worshipped with those offerings.",
+   "uncertainties": [],
+   "plain_english": "The earth-cakra seat is to be known, worshipped with sandal, flowers, rice, and so on."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "yajed",
+     "gloss": "should-worship",
+     "grounds": "should worship",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "ādhāraśaktiñca",
+     "gloss": "ādhāra-śakti",
+     "grounds": "ādhāra-śakti",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kamalāntaṃ",
+     "gloss": "up-to-lotus",
+     "grounds": "up to lotus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "threefold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "address",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "How should ādhāra-śakti be worshipped?",
+   "premises": [
+    "Ādhāra-śakti is worshipped.",
+    "It is worshipped up to the lotus, threefold."
+   ],
+   "inference": "Ādhāra-śakti should be worshipped up to the lotus in three ways.",
+   "uncertainties": [],
+   "plain_english": "Worship ādhāra-śakti up to the lotus, threefold, O Śiva."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "ājanma+koṭyāṃ",
+     "gloss": "for-births-crores",
+     "grounds": "for crores of births",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tanmantraṃ",
+     "gloss": "that-mantra",
+     "grounds": "that mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñāpituṃ",
+     "gloss": "to-make-known",
+     "grounds": "to make known",
+     "morph": "inf"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "possible",
+     "grounds": "possible",
+     "morph": "verb.3.sg.pass-pres"
+    }
+   ],
+   "question": "Can that mantra be made known for crores of births?",
+   "premises": [
+    "That mantra cannot be made known.",
+    "This holds for crores of births."
+   ],
+   "inference": "That mantra cannot be made known even across crores of births.",
+   "uncertainties": [],
+   "plain_english": "That mantra cannot be made known for crores of births."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "nātinīcaṃ",
+     "gloss": "not-too-low",
+     "grounds": "not too low",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāti+uccaṃ",
+     "gloss": "not-too-high",
+     "grounds": "not too high",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīcakre",
+     "gloss": "in-śrīcakra",
+     "grounds": "in śrīcakra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "seat",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priya",
+     "gloss": "dear",
+     "grounds": "dear",
+     "morph": "adj.voc.sg"
+    }
+   ],
+   "question": "What height should the seat have in the śrīcakra?",
+   "premises": [
+    "The seat should not be too low.",
+    "It should not be too high."
+   ],
+   "inference": "The seat in the śrīcakra should be neither too low nor too high.",
+   "uncertainties": [],
+   "plain_english": "The seat in the śrīcakra should be neither too low nor too high, dear one."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "devatā+guru+bhakto",
+     "gloss": "deity-guru-devotee",
+     "grounds": "deity, guru, devotee",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktiyuktaḥ",
+     "gloss": "śakti-endowed",
+     "grounds": "endowed with śakti",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "kriyānvitaḥ",
+     "gloss": "with-rites",
+     "grounds": "with rites",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "Who may be śakti-endowed and accompanied by rites?",
+   "premises": [
+    "The devotee of deity and guru may be so.",
+    "He is śakti-endowed and with rites."
+   ],
+   "inference": "The deity-guru devotee may be śakti-endowed and accompanied by rites.",
+   "uncertainties": [],
+   "plain_english": "The devotee of deity and guru also may be śakti-endowed and accompanied by rites."
+  },
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "raktānulepair",
+     "gloss": "with-red-unguents",
+     "grounds": "with red unguents",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "gandhaiśca",
+     "gloss": "with-sandal",
+     "grounds": "with sandal",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "suveśair",
+     "gloss": "well-dressed",
+     "grounds": "well dressed",
+     "morph": "adj.inst.pl"
+    },
+    {
+     "surface": "bhūṣito",
+     "gloss": "adorned",
+     "grounds": "adorned",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "guru",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the guru be adorned?",
+   "premises": [
+    "The guru is adorned.",
+    "He is adorned with red unguents, sandal, and fine dress."
+   ],
+   "inference": "The guru should be adorned with red unguents, sandal, and fine dress.",
+   "uncertainties": [],
+   "plain_english": "The guru, adorned with red unguents, sandal, and fine dress."
+  },
+  {
+   "verse": 614,
+   "rows": [
+    {
+     "surface": "raktacandanasaṃyukto",
+     "gloss": "with-red-sandal",
+     "grounds": "with red sandal",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "raktapuṣpavibhūṣitaḥ",
+     "gloss": "with-red-flowers-adorned",
+     "grounds": "adorned with red flowers",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "With what should the guru be anointed and adorned?",
+   "premises": [
+    "He is joined with red sandal.",
+    "He is adorned with red flowers."
+   ],
+   "inference": "The guru should be joined with red sandal and adorned with red flowers.",
+   "uncertainties": [],
+   "plain_english": "Joined with red sandal and adorned with red flowers."
+  },
+  {
+   "verse": 615,
+   "rows": [
+    {
+     "surface": "tadabhāve",
+     "gloss": "in-its-absence",
+     "grounds": "in its absence",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiśyaḥ",
+     "gloss": "vaiśya",
+     "grounds": "vaiśya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "may be",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "natu",
+     "gloss": "not",
+     "grounds": "not",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdraḥ",
+     "gloss": "śūdra",
+     "grounds": "śūdra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "ever",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who may act in its absence and who may not?",
+   "premises": [
+    "A vaiśya may act in its absence.",
+    "A śūdra may never act."
+   ],
+   "inference": "In its absence a vaiśya may act, but a śūdra never.",
+   "uncertainties": [],
+   "plain_english": "In its absence a vaiśya may act, but never a śūdra."
+  },
+  {
+   "verse": 616,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "of them",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "kareṇa",
+     "gloss": "by-hand",
+     "grounds": "by hand",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "pānañced",
+     "gloss": "drinking",
+     "grounds": "drinking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "abhiṣeko",
+     "gloss": "abhiṣeka",
+     "grounds": "abhiṣeka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "dear",
+     "morph": "adj.voc.sg"
+    }
+   ],
+   "question": "What becomes abhiṣeka by their hand?",
+   "premises": [
+    "Drinking by their hand becomes abhiṣeka.",
+    "This is addressed to the dear one."
+   ],
+   "inference": "Drinking performed by their hand becomes abhiṣeka.",
+   "uncertainties": [],
+   "plain_english": "Drinking by their hand becomes abhiṣeka, dear one."
+  },
+  {
+   "verse": 617,
+   "rows": [
+    {
+     "surface": "madyabhāṇḍaṃ",
+     "gloss": "wine-vessel",
+     "grounds": "wine vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "in hand",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "having made",
+     "morph": "gerund"
+    },
+    {
+     "surface": "cāsane",
+     "gloss": "on-seat",
+     "grounds": "on seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "copaveśayet",
+     "gloss": "should-seat",
+     "grounds": "should seat",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What should be done with the wine vessel?",
+   "premises": [
+    "The wine vessel is placed in hand.",
+    "One should seat it on the seat."
+   ],
+   "inference": "The wine vessel should be held in hand and seated on the seat.",
+   "uncertainties": [],
+   "plain_english": "Having placed the wine vessel in hand, seat it on the seat."
+  },
+  {
+   "verse": 618,
+   "rows": [
+    {
+     "surface": "devatādhyānatatparaḥ",
+     "gloss": "devoted-to-deity-meditation",
+     "grounds": "devoted to deity meditation",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What disposition is required for the practitioner?",
+   "premises": [
+    "He is devoted to deity meditation."
+   ],
+   "inference": "The practitioner must be devoted to deity meditation.",
+   "uncertainties": [],
+   "plain_english": "Devoted to meditation on the deity."
+  },
+  {
+   "verse": 619,
+   "rows": [
+    {
+     "surface": "ātmapātraṃ",
+     "gloss": "self-vessel",
+     "grounds": "self vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktikare",
+     "gloss": "śakti-hand",
+     "grounds": "śakti hand",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrīcakreṣu",
+     "gloss": "into-śrīcakras",
+     "grounds": "into śrīcakras",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "praveśanam",
+     "gloss": "entry",
+     "grounds": "entry",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What enters the śrīcakras through the śakti hand?",
+   "premises": [
+    "The self-vessel enters.",
+    "It enters through the śakti hand into śrīcakras."
+   ],
+   "inference": "The self-vessel enters the śrīcakras through the śakti hand.",
+   "uncertainties": [],
+   "plain_english": "The self-vessel enters the śrīcakras through the śakti hand."
+  },
+  {
+   "verse": 620,
+   "rows": [
+    {
+     "surface": "śaktihaste",
+     "gloss": "śakti-hand",
+     "grounds": "śakti hand",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pānapātraṃ",
+     "gloss": "drinking-vessel",
+     "grounds": "drinking vessel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svavāme",
+     "gloss": "own-left",
+     "grounds": "own left",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "śaktidhāraṇam",
+     "gloss": "śakti-holding",
+     "grounds": "śakti holding",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is held in the śakti hand?",
+   "premises": [
+    "The drinking vessel is in the śakti hand.",
+    "Śakti holding is on the own left."
+   ],
+   "inference": "The drinking vessel is held in the śakti hand, with śakti holding on the own left.",
+   "uncertainties": [],
+   "plain_english": "The drinking vessel is in the śakti hand; śakti holding is on the own left."
+  },
+  {
+   "verse": 621,
+   "rows": [
+    {
+     "surface": "taccakraṃ",
+     "gloss": "that-cakra",
+     "grounds": "that cakra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parameśāna",
+     "gloss": "O-Paramēśāna",
+     "grounds": "address",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "devacakraṃ",
+     "gloss": "divine-cakra",
+     "grounds": "divine cakra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na+saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "no doubt",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is that cakra without doubt?",
+   "premises": [
+    "That cakra is divine cakra.",
+    "There is no doubt."
+   ],
+   "inference": "That cakra is the divine cakra, without doubt.",
+   "uncertainties": [],
+   "plain_english": "That cakra, O Paramēśāna, is the divine cakra, no doubt."
+  },
+  {
+   "verse": 622,
+   "rows": [
+    {
+     "surface": "śrīcakreṣu",
+     "gloss": "into-śrīcakras",
+     "grounds": "into śrīcakras",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "praveśyā",
+     "gloss": "having-entered",
+     "grounds": "having entered",
+     "morph": "gerund"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "she",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "bhaya+lajjā+vivarjitāḥ",
+     "gloss": "free-from-fear-shame",
+     "grounds": "free from fear and shame",
+     "morph": "adj.nom.pl"
+    }
+   ],
+   "question": "Who becomes free from fear and shame after entering the śrīcakras?",
+   "premises": [
+    "She enters the śrīcakras.",
+    "She becomes free from fear and shame."
+   ],
+   "inference": "She becomes free from fear and shame after entering the śrīcakras.",
+   "uncertainties": [],
+   "plain_english": "Having entered the śrīcakras, she becomes free from fear and shame."
+  },
+  {
+   "verse": 623,
+   "rows": [
+    {
+     "surface": "dravyaśuddhistu",
+     "gloss": "of-substances-purity",
+     "grounds": "purity of substances",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "at that moment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When does purity of substances occur?",
+   "premises": [
+    "Purity of substances occurs.",
+    "It occurs at that moment."
+   ],
+   "inference": "Purity of substances occurs at that moment.",
+   "uncertainties": [],
+   "plain_english": "Purity of substances occurs at that moment."
+  },
+  {
+   "verse": 624,
+   "rows": [
+    {
+     "surface": "pātrād",
+     "gloss": "from-vessel",
+     "grounds": "from vessel",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vinduṃ",
+     "gloss": "drop",
+     "grounds": "drop",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "having taken",
+     "morph": "gerund"
+    },
+    {
+     "surface": "prakṣiped",
+     "gloss": "should-cast",
+     "grounds": "should cast",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "yonimaṇḍale",
+     "gloss": "into-yoni-maṇḍala",
+     "grounds": "into yoni-maṇḍala",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What should be cast into the yoni-maṇḍala?",
+   "premises": [
+    "A drop is taken from the vessel.",
+    "It should be cast into the yoni-maṇḍala."
+   ],
+   "inference": "A drop taken from the vessel should be cast into the yoni-maṇḍala.",
+   "uncertainties": [],
+   "plain_english": "Taking a drop from the vessel, cast it into the yoni-maṇḍala."
+  }
+ ]
+}

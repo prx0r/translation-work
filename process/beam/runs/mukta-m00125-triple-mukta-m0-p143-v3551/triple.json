@@ -1,0 +1,1055 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3551,
+   "rows": [
+    {
+     "surface": "yassāṃ",
+     "gloss": "in-which",
+     "grounds": "relative pronoun referring to direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "direction",
+     "grounds": "locative of place",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "balirhīno",
+     "gloss": "offering-deprived",
+     "grounds": "compound: bali + hīna",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "grāmādau",
+     "gloss": "in-village-etc",
+     "grounds": "compound with ādi indicating village and similar places",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "saṃhitāhutim",
+     "gloss": "mantra-collection-oblation",
+     "grounds": "compound: saṃhitā + āhuti",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "What ritual action addresses a direction left without offerings in a village or similar place?",
+   "premises": [
+    "A direction may lack its prescribed offering.",
+    "Such deficiency can occur in a village or similar setting.",
+    "A saṃhitā oblation is prescribed in response."
+   ],
+   "inference": "When a direction in a village or similar place is deprived of its offering, a saṃhitā oblation must be performed.",
+   "uncertainties": [
+    "The exact scope of grāmādau is not fully specified."
+   ],
+   "plain_english": "In whichever direction, in a village or similar place, the offering has been omitted, one should perform a saṃhitā oblation."
+  },
+  {
+   "verse": 3552,
+   "rows": [
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "absolutive of ritual action",
+     "morph": "gerund (vi-dhā)"
+    },
+    {
+     "surface": "yānakāle",
+     "gloss": "at-departure-time",
+     "grounds": "compound: yāna + kāla",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vātadante",
+     "gloss": "at-wind-tooth",
+     "grounds": "locative indicating a specific directional point",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-convey",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "When and where should the corrective offering be conveyed after the oblation?",
+   "premises": [
+    "The oblation has already been performed.",
+    "The action may occur at departure time.",
+    "The action may alternatively occur at the wind-tooth direction."
+   ],
+   "inference": "After performing the oblation, one should convey the offering either at departure time or at the wind-tooth point.",
+   "uncertainties": [
+    "The precise technical meaning of vātadante is unclear."
+   ],
+   "plain_english": "Having performed it, one should convey the offering either at the time of departure or at the wind-tooth point."
+  },
+  {
+   "verse": 3553,
+   "rows": [
+    {
+     "surface": "śāntihomaṃ",
+     "gloss": "peace-fire-offering",
+     "grounds": "compound: śānti + homa",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of prior action",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "sānnaliṅgaṃ",
+     "gloss": "with-nearby-mark",
+     "grounds": "compound indicating accompaniment by a liṅga or sign",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-convey",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "What ritual sequence must follow the conveyance of the offering in this context?",
+   "premises": [
+    "A peace fire-offering is to be performed.",
+    "This action follows the previous step.",
+    "The offering is conveyed together with an associated mark."
+   ],
+   "inference": "Afterward, having performed a peace fire-offering, one should convey the offering together with its associated mark.",
+   "uncertainties": [
+    "The exact referent of sānnaliṅgaṃ is ambiguous."
+   ],
+   "plain_english": "Then, having performed a peace fire-offering, one should convey the offering together with the associated liṅga."
+  },
+  {
+   "verse": 3554,
+   "rows": [
+    {
+     "surface": "talliṅgaṃ",
+     "gloss": "that-mark",
+     "grounds": "compound: tat + liṅga",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "sudṛḍhaṃ",
+     "gloss": "very-firm",
+     "grounds": "compound: su + dṛḍha",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of preparation",
+     "morph": "gerund (kṛ)"
+    },
+    {
+     "surface": "yajedastraṃ",
+     "gloss": "should-worship-weapon",
+     "grounds": "fused form: yajet + astraṃ",
+     "morph": "3.sg.opt.act (yaj) + n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadgatam",
+     "gloss": "gone-into-that",
+     "grounds": "compound: tat + gata",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "How must the associated mark be prepared and ritually honored before further action?",
+   "premises": [
+    "The mark must be made very firm.",
+    "The weapon-mantra or weapon deity is to be worshipped.",
+    "The worship is directed to what is present in that mark."
+   ],
+   "inference": "After firmly establishing that mark, one should worship the weapon present within it.",
+   "uncertainties": [
+    "Whether astraṃ refers to a mantra or deity is context-dependent."
+   ],
+   "plain_english": "Having made that liṅga very firm, one should worship the weapon that is present in it."
+  },
+  {
+   "verse": 3555,
+   "rows": [
+    {
+     "surface": "nayedārabhya",
+     "gloss": "should-convey-beginning-from",
+     "grounds": "fused form: nayet + ārabhya",
+     "morph": "3.sg.opt.act (nī) + gerund (ā-rabh)"
+    },
+    {
+     "surface": "talliṅga",
+     "gloss": "that-mark",
+     "grounds": "compound: tat + liṅga",
+     "morph": "n. (compound stem)"
+    },
+    {
+     "surface": "pātasthānāt",
+     "gloss": "from-fall-place",
+     "grounds": "compound: pāta + sthāna",
+     "morph": "n.abl.sg (compound)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "clockwise",
+     "grounds": "circumambulatory direction",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "From what point and in what direction should the ritual conveyance proceed?",
+   "premises": [
+    "The conveyance begins from the place of the fall.",
+    "The movement is oriented around that mark.",
+    "The prescribed direction is clockwise."
+   ],
+   "inference": "One should convey it clockwise, beginning from the place where that mark fell.",
+   "uncertainties": [],
+   "plain_english": "One should carry it clockwise, beginning from the place where that liṅga fell."
+  },
+  {
+   "verse": 3556,
+   "rows": [
+    {
+     "surface": "samāpya",
+     "gloss": "having-completed",
+     "grounds": "absolutive of completion",
+     "morph": "gerund (sam-āp)"
+    },
+    {
+     "surface": "pūrvavadyānaṃ",
+     "gloss": "journey-as-before",
+     "grounds": "compound: pūrvavat + yāna",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "saṃhitāhomam",
+     "gloss": "mantra-collection-fire-offering",
+     "grounds": "compound: saṃhitā + homa",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act (ā-car)"
+    }
+   ],
+   "question": "What ritual performance concludes the procession described in the previous step?",
+   "premises": [
+    "The journey is completed as before.",
+    "A saṃhitā fire-offering is prescribed.",
+    "The officiant must perform it after completion."
+   ],
+   "inference": "After completing the journey as before, one should perform the saṃhitā fire-offering.",
+   "uncertainties": [],
+   "plain_english": "Having completed the journey as before, one should perform the saṃhitā fire-offering."
+  },
+  {
+   "verse": 3557,
+   "rows": [
+    {
+     "surface": "bhedādāvanyadādāya",
+     "gloss": "in-breach-etc-taking-other",
+     "grounds": "compound chain: bheda + ādi + anya + ādāya",
+     "morph": "gerund phrase (ā-dā)"
+    },
+    {
+     "surface": "balidravyaṃ",
+     "gloss": "offering-material",
+     "grounds": "compound: bali + dravya",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nikṣipet",
+     "gloss": "should-deposit",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act (ni-kṣip)"
+    }
+   ],
+   "question": "What should be done with offering material when a breach or similar defect occurs?",
+   "premises": [
+    "A breach or similar defect may arise.",
+    "Different offering material is to be taken.",
+    "That material must be deposited appropriately."
+   ],
+   "inference": "In case of a breach or similar defect, one should take other offering material and deposit it.",
+   "uncertainties": [
+    "The exact location of deposition is not stated."
+   ],
+   "plain_english": "In the case of a breach or similar defect, one should take other offering material and deposit it."
+  },
+  {
+   "verse": 3558,
+   "rows": [
+    {
+     "surface": "nirvāṇāni",
+     "gloss": "extinguished-items",
+     "grounds": "plural objects that have gone out or been nullified",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāc",
+     "gloss": "should-make",
+     "grounds": "fused optative with sandhi: kuryāt",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "śānti",
+     "gloss": "peace",
+     "grounds": "first member of compound, split by tokenization in text",
+     "morph": "f. (compound member)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "ritual oblation into fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-convey",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "What remedial rites are required when ritual elements become extinguished?",
+   "premises": [
+    "Certain ritual elements may become extinguished.",
+    "A peace fire-offering is prescribed in that case.",
+    "The ritual conveyance must then proceed."
+   ],
+   "inference": "When elements are extinguished, one should perform a peace fire-offering and then convey the rite onward.",
+   "uncertainties": [
+    "The precise referent of nirvāṇāni is not explicit."
+   ],
+   "plain_english": "If things have been extinguished, one should then perform a peace fire-offering and proceed with the conveyance."
+  },
+  {
+   "verse": 3559,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyāni",
+     "gloss": "other-things",
+     "grounds": "alternative items",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samāpādya",
+     "gloss": "having-accomplished",
+     "grounds": "absolutive of completion or procurement",
+     "morph": "gerund (sam-ā-pad, caus.)"
+    },
+    {
+     "surface": "saṃbhūtānī",
+     "gloss": "arisen-things",
+     "grounds": "items that have come into being",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "itarāṇi",
+     "gloss": "different-things",
+     "grounds": "other alternatives",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should other arisen or alternative ritual items be handled in this procedure?",
+   "premises": [
+    "Other items may need to be accomplished.",
+    "Some items may have arisen in the process.",
+    "Different alternatives may also be used."
+   ],
+   "inference": "Likewise, one should accomplish other items, whether those that have arisen or other alternatives.",
+   "uncertainties": [
+    "The specific items referred to are not named."
+   ],
+   "plain_english": "Likewise, having prepared other things, one should deal with those that have arisen or with other alternatives."
+  },
+  {
+   "verse": 3560,
+   "rows": [
+    {
+     "surface": "lohajānyanukarmoktayā",
+     "gloss": "metal-born-by-supplementary-rule",
+     "grounds": "compound: lohaja + anukarma + ukti + instrumental ending",
+     "morph": "n.acc.pl + f.inst.sg (compound)"
+    },
+    {
+     "surface": "nītvānte",
+     "gloss": "having-led-at-end",
+     "grounds": "fused form: nītvā + ante",
+     "morph": "gerund (nī) + m.loc.sg"
+    },
+    {
+     "surface": "sthāpanaṃ",
+     "gloss": "installation",
+     "grounds": "act of placing or establishing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-conduct",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "How should metal-born items be installed according to supplementary ritual instruction?",
+   "premises": [
+    "Metal-born items are treated by supplementary instruction.",
+    "They are to be led through to the end of the rite.",
+    "Installation must then be conducted."
+   ],
+   "inference": "Following the supplementary rule for metal-born items, one should complete the process and conduct their installation.",
+   "uncertainties": [
+    "The exact scope of anukarmoktayā is not fully specified."
+   ],
+   "plain_english": "For items made of metal, following the supplementary procedure, one should carry them through to the end and perform their installation."
+  },
+  {
+   "verse": 3561,
+   "rows": [
+    {
+     "surface": "dhāmādau",
+     "gloss": "in-abode-etc",
+     "grounds": "compound: dhāma + ādi",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśāhomaṃ",
+     "gloss": "directional-fire-offering",
+     "grounds": "compound: diśā + homa",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "nayedastrārcanānvitam",
+     "gloss": "should-conduct-with-weapon-worship",
+     "grounds": "fused form: nayet + astra + arcana + anvita",
+     "morph": "3.sg.opt.act (nī) + m.acc.sg (compound)"
+    }
+   ],
+   "question": "Where and with what accompaniment should the directional fire-offering be conducted?",
+   "premises": [
+    "The rite may take place in the abode or similar location.",
+    "A directional fire-offering is prescribed.",
+    "It must be accompanied by worship of the weapon."
+   ],
+   "inference": "In the abode or similar place, one should conduct the directional fire-offering accompanied by weapon worship.",
+   "uncertainties": [],
+   "plain_english": "In the shrine or a similar place, one should perform the directional fire-offering together with worship of the weapon."
+  },
+  {
+   "verse": 3562,
+   "rows": [
+    {
+     "surface": "utsavaṃ",
+     "gloss": "festival",
+     "grounds": "ritual celebration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverbial form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādanyenāstreṇa",
+     "gloss": "should-do-with-another-weapon",
+     "grounds": "fused form: kuryāt + anyena + astreṇa",
+     "morph": "3.sg.opt.act (kṛ) + n.inst.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "qualified ritual officiants",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who may perform the festival and with what alternative ritual instrument?",
+   "premises": [
+    "The festival is to be performed as before.",
+    "It may be done with another weapon-mantra or weapon.",
+    "Twice-born officiants are the agents."
+   ],
+   "inference": "The twice-born should perform the festival as before, or alternatively with another weapon.",
+   "uncertainties": [
+    "The specific alternative astra is not identified."
+   ],
+   "plain_english": "The twice-born should perform the festival as before, or do it with another weapon."
+  },
+  {
+   "verse": 3563,
+   "rows": [
+    {
+     "surface": "saṃprokṣaṇaṃ",
+     "gloss": "sprinkling-consecration",
+     "grounds": "ritual sprinkling",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryādastrarājapratiṣṭhayā",
+     "gloss": "should-do-with-weapon-king-installation",
+     "grounds": "fused form: kuryāt + astra-rāja + pratiṣṭhā + instrumental",
+     "morph": "3.sg.opt.act (kṛ) + f.inst.sg (compound)"
+    }
+   ],
+   "question": "What consecratory act follows and by what supreme weapon rite is it empowered?",
+   "premises": [
+    "A sprinkling consecration is prescribed afterward.",
+    "It is performed through the installation of the weapon-king.",
+    "The sequence follows previous rites."
+   ],
+   "inference": "Afterward, one should perform the sprinkling consecration by means of the installation of the weapon-king.",
+   "uncertainties": [
+    "The identity of the astrarāja depends on ritual context."
+   ],
+   "plain_english": "Then one should perform the sprinkling consecration together with the installation of the king of weapons."
+  },
+  {
+   "verse": 3564,
+   "rows": [
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "ruler affected by ritual fault",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maraṇamāpnoti",
+     "gloss": "meets-death",
+     "grounds": "compound verb phrase: maraṇa + āpnoti",
+     "morph": "3.sg.pres.act (āp)"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing remedy",
+     "morph": "3.sg.opt.act (kṛ)"
+    },
+    {
+     "surface": "pratikriyām",
+     "gloss": "counter-measure",
+     "grounds": "remedial ritual action",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What urgent response is required if the king faces immediate death from a ritual fault?",
+   "premises": [
+    "The king may meet death immediately.",
+    "Such an outcome demands response.",
+    "A counter-measure must be performed."
+   ],
+   "inference": "If the king is about to die immediately, one must promptly perform a remedial counter-measure.",
+   "uncertainties": [],
+   "plain_english": "If the king meets death immediately, one should at once perform a remedial rite."
+  },
+  {
+   "verse": 3565,
+   "rows": [
+    {
+     "surface": "dvikarāt",
+     "gloss": "from-two-cubits",
+     "grounds": "measurement starting point",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "trikarādvāpi",
+     "gloss": "or-even-from-three-cubits",
+     "grounds": "fused form: trikarāt + vā + api",
+     "morph": "m.abl.sg (compound) + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "compound: tat + ūrdhva",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramānnayet",
+     "gloss": "should-conduct-in-order",
+     "grounds": "fused form: kramāt + nayet",
+     "morph": "(indecl.) + 3.sg.opt.act (nī)"
+    }
+   ],
+   "question": "By what graduated measurements should the remedial procedure be extended upward?",
+   "premises": [
+    "The procedure may begin from two cubits.",
+    "It may alternatively begin from three cubits.",
+    "It should be extended above that in due order."
+   ],
+   "inference": "Starting from two or three cubits, one should carry the procedure upward in proper sequence.",
+   "uncertainties": [
+    "The object being measured or extended is not explicitly stated."
+   ],
+   "plain_english": "Beginning from two cubits or from three cubits, and above that, one should proceed in due order."
+  },
+  {
+   "verse": 3566,
+   "rows": [
+    {
+     "surface": "snapanaṃ",
+     "gloss": "ritual-bathing",
+     "grounds": "ablution rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative prescribing mantra recitation",
+     "morph": "3.sg.opt.act (jap)"
+    },
+    {
+     "surface": "ghoramantreṇa",
+     "gloss": "with-fierce-mantra",
+     "grounds": "compound: ghora + mantra",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "śatasahasrakam",
+     "gloss": "hundred-thousand-times",
+     "grounds": "compound indicating a large count",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What bathing rite and mantra recitation count are prescribed as a remedy?",
+   "premises": [
+    "A ritual bathing is required.",
+    "Recitation must be done with the fierce mantra.",
+    "The recitation count is one hundred thousand."
+   ],
+   "inference": "One should perform the ritual bathing and recite the fierce mantra one hundred thousand times.",
+   "uncertainties": [
+    "The specific ghora mantra is not named."
+   ],
+   "plain_english": "One should perform the ritual bathing and recite the fierce mantra one hundred thousand times."
+  },
+  {
+   "verse": 3567,
+   "rows": [
+    {
+     "surface": "aṅgahīne",
+     "gloss": "in-limb-deficiency",
+     "grounds": "compound: aṅga + hīna, locative context",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "anukarmoktyā",
+     "gloss": "by-supplementary-instruction",
+     "grounds": "compound: anukarma + ukti",
+     "morph": "f.inst.sg (compound)"
+    },
+    {
+     "surface": "sandhānādyaṃ",
+     "gloss": "joining-and-so-forth",
+     "grounds": "compound: sandhāna + ādi",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkṛtim",
+     "gloss": "atonement",
+     "grounds": "remedial expiation",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What remedial measures are required when a ritual object is deficient in a limb?",
+   "premises": [
+    "A deficiency of a limb may occur.",
+    "Supplementary instruction governs the response.",
+    "Joining and other acts constitute atonement."
+   ],
+   "inference": "In case of limb deficiency, one should perform joining and related acts of atonement according to supplementary instruction.",
+   "uncertainties": [],
+   "plain_english": "If a limb is missing, one should carry out joining and other acts of atonement according to the supplementary procedure."
+  },
+  {
+   "verse": 3568,
+   "rows": [
+    {
+     "surface": "māsarkṣa",
+     "gloss": "month-constellation",
+     "grounds": "compound: māsa + ṛkṣa",
+     "morph": "n. (compound member)"
+    },
+    {
+     "surface": "tithivārādi",
+     "gloss": "lunar-day-weekday-etc",
+     "grounds": "compound: tithi + vāra + ādi",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "prekṣāṃ",
+     "gloss": "consideration",
+     "grounds": "astrological or calendrical examination",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hitvaiva",
+     "gloss": "having-abandoned-indeed",
+     "grounds": "fused form: hitvā + eva",
+     "morph": "gerund (hā) + (indecl.)"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "preceptor",
+     "grounds": "initiating teacher and ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What calendrical considerations may the preceptor disregard in urgent remedial circumstances?",
+   "premises": [
+    "Normally month, constellation, lunar day, and weekday are considered.",
+    "The preceptor is the acting agent.",
+    "In this context such consideration may be set aside."
+   ],
+   "inference": "The preceptor may indeed set aside consideration of month, constellation, lunar day, weekday, and the like.",
+   "uncertainties": [
+    "The exact conditions permitting omission are implied rather than stated."
+   ],
+   "plain_english": "The preceptor may set aside consideration of month, constellation, lunar day, weekday, and so on."
+  },
+  {
+   "verse": 3569,
+   "rows": [
+    {
+     "surface": "uttamāṅgādihīne",
+     "gloss": "in-head-etc-deficiency",
+     "grounds": "compound: uttamāṅga + ādi + hīna",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "cānukarmoktyā",
+     "gloss": "and-by-supplementary-instruction",
+     "grounds": "fused form: ca + anukarma + ukti",
+     "morph": "(indecl.) + f.inst.sg (compound)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative prescribing proper conduct",
+     "morph": "3.sg.opt.act (sam-ā-car)"
+    }
+   ],
+   "question": "How should the preceptor act when the head or similar principal part is deficient?",
+   "premises": [
+    "The head or similar principal part may be deficient.",
+    "Supplementary instruction applies in such cases.",
+    "The prescribed response must be properly performed."
+   ],
+   "inference": "When the head or similar part is deficient, one should act according to the supplementary instruction.",
+   "uncertainties": [],
+   "plain_english": "If the head or a similar principal part is missing, one should proceed according to the supplementary procedure."
+  },
+  {
+   "verse": 3570,
+   "rows": [
+    {
+     "surface": "kārayeddeśiko",
+     "gloss": "should-cause-preceptor",
+     "grounds": "fused form: kārayet + deśikaḥ",
+     "morph": "3.sg.opt.caus.act (kṛ) + m.nom.sg"
+    },
+    {
+     "surface": "dhīmān",
+     "gloss": "wise",
+     "grounds": "qualified agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyahaṃ",
+     "gloss": "daily",
+     "grounds": "temporal adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntihomayuk",
+     "gloss": "joined-with-peace-fire-offering",
+     "grounds": "compound: śānti + homa + yuj",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What ongoing daily duty must the wise preceptor arrange in this remedial context?",
+   "premises": [
+    "The wise preceptor is responsible for arranging the rite.",
+    "The rite must be performed daily.",
+    "It must be accompanied by a peace fire-offering."
+   ],
+   "inference": "The wise preceptor should arrange for a daily rite accompanied by a peace fire-offering.",
+   "uncertainties": [],
+   "plain_english": "The wise preceptor should have a peace fire-offering performed every day."
+  },
+  {
+   "verse": 3571,
+   "rows": [
+    {
+     "surface": "garbhadvārādimāneṣṭamānayuktena",
+     "gloss": "with-sanctum-door-etc-measure-desired-measure-joined",
+     "grounds": "long compound: garbha + dvāra + ādi + māna + iṣṭa + māna + yukta",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "fused form: na + anyathā",
+     "morph": "(indecl.) + (indecl.)"
+    }
+   ],
+   "question": "Under what measurement condition must the ritual construction or arrangement be carried out?",
+   "premises": [
+    "Measurements of sanctum, door, and related parts are specified.",
+    "These must conform to the desired standard.",
+    "No alternative arrangement is permitted."
+   ],
+   "inference": "The arrangement must follow the prescribed measurements of the sanctum, door, and so forth, and not otherwise.",
+   "uncertainties": [
+    "The exact technical measures intended are not detailed here."
+   ],
+   "plain_english": "It must be done in accordance with the proper measurements of the sanctum, door, and so on, and not otherwise."
+  },
+  {
+   "verse": 3572,
+   "rows": [
+    {
+     "surface": "pratiṣṭhā",
+     "gloss": "installation",
+     "grounds": "ritual consecration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāyānte",
+     "gloss": "having-performed-at-end",
+     "grounds": "fused form: vidhāya + ante",
+     "morph": "gerund (vi-dhā) + m.loc.sg"
+    },
+    {
+     "surface": "cāṅkurārpaṇa",
+     "gloss": "and-sprout-offering",
+     "grounds": "fused form: ca + aṅkura + arpaṇa",
+     "morph": "(indecl.) + n. (compound member)"
+    },
+    {
+     "surface": "pūrvakam",
+     "gloss": "preceded-by",
+     "grounds": "indicates prior ritual stage",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What preliminary rite must precede the final installation in this sequence?",
+   "premises": [
+    "Installation is performed at the end.",
+    "The sprout-offering rite is included.",
+    "That sprout-offering must come first."
+   ],
+   "inference": "At the end, installation should be performed, preceded by the sprout-offering rite.",
+   "uncertainties": [],
+   "plain_english": "At the end, the installation should be performed, preceded by the sprout-offering rite."
+  },
+  {
+   "verse": 3573,
+   "rows": [
+    {
+     "surface": "liṅge'pyevaṃ",
+     "gloss": "in-liṅga-also-thus",
+     "grounds": "fused form: liṅge + api + evam",
+     "morph": "n.loc.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "samānaṃ",
+     "gloss": "same",
+     "grounds": "equivalence of procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "darma",
+     "gloss": "rule",
+     "grounds": "likely dharma/rule in transmitted form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "he",
+     "gloss": "o",
+     "grounds": "vocative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivadīkṣitāḥ",
+     "gloss": "śiva-initiated-ones",
+     "grounds": "compound: śiva + dīkṣita",
+     "morph": "m.voc.pl (compound)"
+    }
+   ],
+   "question": "To whom is the same ritual rule declared applicable in the case of the liṅga?",
+   "premises": [
+    "The procedure applies likewise in the case of the liṅga.",
+    "The rule is the same.",
+    "The address is directed to those initiated into Śiva."
+   ],
+   "inference": "The same rule applies also in the case of the liṅga, O Śiva-initiated ones.",
+   "uncertainties": [
+    "The form darma may reflect a transmitted spelling of dharma."
+   ],
+   "plain_english": "O Śiva-initiated ones, the same rule applies likewise in the case of the liṅga."
+  },
+  {
+   "verse": 3574,
+   "rows": [
+    {
+     "surface": "bere'tinindite",
+     "gloss": "in-image-very-blameworthy",
+     "grounds": "fused form: bere + ati + nindite",
+     "morph": "n.loc.sg + n.loc.sg (compound)"
+    },
+    {
+     "surface": "doṣo",
+     "gloss": "fault",
+     "grounds": "ritual or moral defect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājño",
+     "gloss": "of-king",
+     "grounds": "affected party",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "arises",
+     "grounds": "present result",
+     "morph": "3.sg.pres.act (bhū)"
+    },
+    {
+     "surface": "śāntaye",
+     "gloss": "for-peace",
+     "grounds": "purpose dative indicating need for pacification",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What consequence arises for the king when a sacred image is severely defective?",
+   "premises": [
+    "A sacred image may be extremely blameworthy or defective.",
+    "Such a defect produces fault.",
+    "The fault affects the king and requires pacification."
+   ],
+   "inference": "If the image is severely defective, fault arises for the king and calls for pacification.",
+   "uncertainties": [],
+   "plain_english": "If the image is extremely defective, fault falls upon the king and requires rites of pacification."
+  }
+ ]
+}

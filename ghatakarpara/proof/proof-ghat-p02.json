@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "16a5384f807b8dc3",
+ "source_digest_normalized_sha256": "16a5384f807b8dc3545bd785096df7b318f0c1beb7aa324b4ae8defa946aac2f",
+ "source_sha256_raw": "c3025effdb6ed0ea7eeb83fc3b5b4955aed8086bc5a8a9ee4646d689ffe73783",
+ "source_sha256_raw_file": "/root/ipvv/site/data/sanskrit/ghatakarpara.txt",
  "source_verses": 9,
  "t1_verses": 9,
  "l0": {
-  "parsed": 71,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 71
@@ -21,7 +25,7 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 6,
+ "c1_words": 75,
  "c1_metacommentary": [],
  "l2_cites": {
   "checked": 9,
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "16a5384f807b8dc3",
-  "t1": "T1-ghat-p02.md",
-  "l0": "T1-ghat-p02.l0.jsonl",
-  "l2": "L2-ghat-p02.md",
-  "c1": "c1/C1-ghat-p02.md"
+  "t1": "ghat-p02/data/ghat-p02.t1.json",
+  "l0": "ghat-p02/data/ghat-p02.l0.json",
+  "l2": "ghat-p02/data/ghat-p02.l2.json",
+  "c1": "ghat-p02/data/ghat-p02.c1.json"
  }
 }

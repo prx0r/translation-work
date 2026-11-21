@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "parānandarasaḥ",
+     "gloss": "supreme-bliss-essence",
+     "grounds": "compound in nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktir",
+     "gloss": "liberation",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "is-declared",
+     "grounds": "feminine nominative singular participle agreeing with saṃkhyā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is declared to be liberation in this teaching?",
+   "premises": [
+    "supreme bliss essence equals liberation",
+    "the declaration names liberation",
+    "number is declared"
+   ],
+   "inference": "Liberation is the essence of supreme bliss, as declared.",
+   "uncertainties": [
+    "prakīrtitā parsed as participle agreeing with saṃkhyā"
+   ],
+   "plain_english": "Liberation is declared to be the essence of supreme bliss."
+  }
+ ]
+}

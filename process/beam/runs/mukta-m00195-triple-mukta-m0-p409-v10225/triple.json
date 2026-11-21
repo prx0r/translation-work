@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p409",
+ "items": [
+  {
+   "verse": 10225,
+   "rows": [
+    {
+     "surface": "hanumat",
+     "gloss": "hanuman",
+     "grounds": "first member of compound with sannidhau, indicating the deity Hanuman",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "locative expressing proximity; forms compound hanumat-sannidhau with preceding token",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dīpo",
+     "gloss": "lamp",
+     "grounds": "ritual lamp prescribed in this context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vartiḥ",
+     "gloss": "wick",
+     "grounds": "wick of the lamp",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kausumbha",
+     "gloss": "safflower",
+     "grounds": "first member of descriptive compound qualifying raktikā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "raktikā",
+     "gloss": "red",
+     "grounds": "describes the color of the wick as safflower-red",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What lamp and wick specification applies in the presence of Hanuman?",
+   "premises": [
+    "The context specifies the presence of Hanuman.",
+    "A lamp is prescribed in that presence.",
+    "The wick is specified as safflower-red."
+   ],
+   "inference": "In the presence of Hanuman, the prescribed lamp should have a safflower-red wick.",
+   "uncertainties": [
+    "The verb governing the ritual action is carried over from the preceding verse and not explicit here."
+   ],
+   "plain_english": "In the presence of Hanuman, the lamp should have a safflower-red wick."
+  }
+ ]
+}

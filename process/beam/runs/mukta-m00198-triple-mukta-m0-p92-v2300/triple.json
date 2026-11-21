@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "anale",
+     "gloss": "in-fire",
+     "grounds": "locative of anala (fire), used numerically as three in the calculation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "guṇite",
+     "gloss": "multiplied",
+     "grounds": "past participle in locative absolute construction with anale",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāṣṭa",
+     "gloss": "and-eight",
+     "grounds": "sandhi fusion of ca + aṣṭa; token kept unsplit",
+     "morph": "(indecl.)+num"
+    },
+    {
+     "surface": "hṛte",
+     "gloss": "divided",
+     "grounds": "past participle in locative absolute construction indicating division",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yonimudāhṛtam",
+     "gloss": "declared-yoni",
+     "grounds": "fused form expressing that the result is stated as yoni",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What arithmetic operations determine the yoni from the previously obtained count?",
+   "premises": [
+    "The count is multiplied in relation to fire (three).",
+    "The resulting quantity is also divided by eight.",
+    "The outcome of these operations is designated as the yoni."
+   ],
+   "inference": "Therefore, multiplying the count by three and dividing by eight yields the yoni.",
+   "uncertainties": [
+    "Whether anale signifies the number three or the element fire is inferred from ritual calculation conventions."
+   ],
+   "plain_english": "When multiplied by three and divided by eight, the result is declared to be the yoni."
+  }
+ ]
+}

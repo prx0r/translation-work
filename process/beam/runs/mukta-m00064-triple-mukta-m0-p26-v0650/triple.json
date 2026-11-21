@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "first-person pronoun, speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "viśāmi",
+     "gloss": "i-enter",
+     "grounds": "present active verb expressing entry",
+     "morph": "1.sg.pres.act √viś"
+    },
+    {
+     "surface": "yuṣmāsu",
+     "gloss": "in-you-all",
+     "grounds": "second-person pronoun indicating recipients",
+     "morph": "pron.loc.pl"
+    },
+    {
+     "surface": "pūrṇarūpeṇa",
+     "gloss": "with-full-form",
+     "grounds": "compound describing mode of presence",
+     "morph": "pūrṇa+rūpa (tatpuruṣa).instr.sg.n"
+    },
+    {
+     "surface": "śaṅkare",
+     "gloss": "o-shankara",
+     "grounds": "vocative address to Śaṅkara",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "In what form and into whom does the speaker claim to enter?",
+   "premises": [
+    "The speaker declares an act of entering.",
+    "The entry is directed into the addressed recipients.",
+    "The entry takes place in a complete form."
+   ],
+   "inference": "The speaker enters fully into the addressed recipients in complete form.",
+   "uncertainties": [
+    "The scope of the vocative address relative to the plural recipients is not fully explicit."
+   ],
+   "plain_english": "I enter into you, O Śaṅkara, in my complete form."
+  }
+ ]
+}

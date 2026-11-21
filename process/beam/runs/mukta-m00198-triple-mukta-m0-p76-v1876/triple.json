@@ -1,0 +1,839 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1876,
+   "rows": [
+    {
+     "surface": "pārśvayorvaṃśanāsāḍhyaṃ",
+     "gloss": "on-sides-ridge-nose-endowed",
+     "grounds": "compound adjective describing sides; sandhi in pārśvayoḥ+vaṃśa",
+     "morph": "compound"
+    },
+    {
+     "surface": "śirobhadrasamanvitam",
+     "gloss": "head-auspicious-projection-endowed",
+     "grounds": "compound adjective describing structure",
+     "morph": "compound"
+    }
+   ],
+   "question": "What architectural features adorn the sides and head of the described structure?",
+   "premises": [
+    "The sides are endowed with ridge-noses.",
+    "The structure is endowed with a head-auspicious projection."
+   ],
+   "inference": "The structure is characterized by specific side and head ornaments.",
+   "uncertainties": [
+    "Exact architectural form of vaṃśanāsā is context-dependent."
+   ],
+   "plain_english": "On its sides it is endowed with ridge-noses, and it is furnished with an auspicious head projection."
+  },
+  {
+   "verse": 1877,
+   "rows": [
+    {
+     "surface": "vipratīkāntalaṃkāraṃ",
+     "gloss": "contrary-end-ornament",
+     "grounds": "compound object describing ornament type",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vakṣyate",
+     "gloss": "will-be-told",
+     "grounds": "future passive verb of speaking",
+     "morph": "3.sg.future-passive √vac"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb indicating particularity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific ornament type will be described in particular detail next?",
+   "premises": [
+    "An ornament of contrary-end form is the topic.",
+    "The text states it will be told especially."
+   ],
+   "inference": "The contrary-end ornament is singled out for special description.",
+   "uncertainties": [
+    "Precise architectural meaning of vipratīkānta is uncertain."
+   ],
+   "plain_english": "But the ornament of the contrary end will now be described especially."
+  },
+  {
+   "verse": 1878,
+   "rows": [
+    {
+     "surface": "mahānāsī",
+     "gloss": "great-nose",
+     "grounds": "compound element naming a large nose feature",
+     "morph": "compound"
+    },
+    {
+     "surface": "catasrāḍhyaṃ",
+     "gloss": "four-endowed",
+     "grounds": "compound adjective indicating fourfold endowment",
+     "morph": "compound"
+    },
+    {
+     "surface": "śirobhadrasamanvitam",
+     "gloss": "head-auspicious-projection-endowed",
+     "grounds": "compound adjective describing structure",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many great noses and what head feature characterize this structure?",
+   "premises": [
+    "The structure is endowed with four great noses.",
+    "It is endowed with a head-auspicious projection."
+   ],
+   "inference": "This form combines four great noses with a head-auspicious projection.",
+   "uncertainties": [],
+   "plain_english": "It is endowed with four great noses and furnished with an auspicious head projection."
+  },
+  {
+   "verse": 1879,
+   "rows": [
+    {
+     "surface": "trividhā",
+     "gloss": "threefold",
+     "grounds": "adjective indicating three kinds",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvāraśālāsyād",
+     "gloss": "door-hall-may-be",
+     "grounds": "compound with optative of as; sandhi dvāraśālā+syāt",
+     "morph": "3.sg.optative √as"
+    },
+    {
+     "surface": "dvāraprāsādamucyate",
+     "gloss": "door-palace-is-called",
+     "grounds": "compound subject with passive verb; sandhi dvāraprāsādam+ucyate",
+     "morph": "3.sg.present-passive √vac"
+    }
+   ],
+   "question": "Into how many kinds is the door-palace classified in this teaching?",
+   "premises": [
+    "The door-hall may be threefold.",
+    "The door-palace is so called."
+   ],
+   "inference": "The door-palace is classified into three kinds.",
+   "uncertainties": [
+    "The exact relation between dvāraśālā and dvāraprāsāda is compressed."
+   ],
+   "plain_english": "The door-palace is said to be threefold, as the door-hall may be of three kinds."
+  },
+  {
+   "verse": 1880,
+   "rows": [
+    {
+     "surface": "dvārordhve",
+     "gloss": "above-door",
+     "grounds": "locative compound indicating position above the door; sandhi dvāra+ūrdhve",
+     "morph": "compound"
+    },
+    {
+     "surface": "raṃgasaṃyuktaṃ",
+     "gloss": "stage-joined",
+     "grounds": "compound adjective describing the door",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "object noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadbhadrasaṃyutam",
+     "gloss": "that-auspicious-projection-joined",
+     "grounds": "compound adjective further qualifying the door",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What features are joined to the door above its main opening?",
+   "premises": [
+    "Above the door there is a stage-joined element.",
+    "The door is joined with that auspicious projection."
+   ],
+   "inference": "The upper door structure includes a stage and an auspicious projection.",
+   "uncertainties": [
+    "The referent of tad in tadbhadra is not explicit."
+   ],
+   "plain_english": "Above the door it is joined with a stage, and the door is furnished with that auspicious projection."
+  },
+  {
+   "verse": 1881,
+   "rows": [
+    {
+     "surface": "svastikā",
+     "gloss": "svastika-form",
+     "grounds": "name or adjective for a structural form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛtināsāḍhyaṃ",
+     "gloss": "made-nose-endowed",
+     "grounds": "compound adjective indicating endowed with crafted noses",
+     "morph": "compound"
+    },
+    {
+     "surface": "catuṣpaṃjarasaṃyutam",
+     "gloss": "four-cage-joined",
+     "grounds": "compound adjective indicating four cages",
+     "morph": "compound"
+    }
+   ],
+   "question": "What structural elements define the svastika-form door-palace variant?",
+   "premises": [
+    "The form is called svastika.",
+    "It is endowed with crafted noses and joined with four cages."
+   ],
+   "inference": "The svastika variant is defined by crafted noses and four cages.",
+   "uncertainties": [
+    "Architectural meaning of paṃjara here is technical."
+   ],
+   "plain_english": "The svastika form is endowed with crafted noses and joined with four cages."
+  },
+  {
+   "verse": 1882,
+   "rows": [
+    {
+     "surface": "śrīkeśālaṃkṛtaṃ",
+     "gloss": "glorious-hair-ornamented",
+     "grounds": "compound adjective describing ornamentation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣye",
+     "gloss": "i-will-tell",
+     "grounds": "first person future verb of speaking",
+     "morph": "1.sg.future-active √vac"
+    },
+    {
+     "surface": "bhūmibhāgādi",
+     "gloss": "ground-portion-and-so-on",
+     "grounds": "compound indicating ground portion etc.",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverbial expression indicating previous manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the ground portion and related elements be treated for this ornamented form?",
+   "premises": [
+    "The form is ornamented with glorious hair-like decoration.",
+    "The speaker will tell the ground portion and so on as before."
+   ],
+   "inference": "The ground portion and related elements follow the previous pattern.",
+   "uncertainties": [
+    "The scope of ādi is not fully specified."
+   ],
+   "plain_english": "I will describe it as ornamented with glorious hair-like decoration, with the ground portion and so on as before."
+  },
+  {
+   "verse": 1883,
+   "rows": [
+    {
+     "surface": "nānāmasūrakastambhaṃ",
+     "gloss": "various-demon-pillar",
+     "grounds": "compound describing pillars with various demon figures",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vedijālakatoraṇaiḥ",
+     "gloss": "with-altar-lattice-arches",
+     "grounds": "instrumental compound listing accompanying elements",
+     "morph": "m/n.inst.pl"
+    }
+   ],
+   "question": "What pillars and accompanying architectural elements are specified for this structure?",
+   "premises": [
+    "The structure has pillars with various demon figures.",
+    "It is accompanied by altars, lattices, and arches."
+   ],
+   "inference": "The design includes figured pillars together with altars, lattices, and arches.",
+   "uncertainties": [
+    "Masūraka as a pillar type is a technical term."
+   ],
+   "plain_english": "It has pillars with various demon figures, along with altars, lattices, and arches."
+  },
+  {
+   "verse": 1884,
+   "rows": [
+    {
+     "surface": "pārśvayordaṇḍavaktrāḍhyaṃ",
+     "gloss": "on-sides-staff-face-endowed",
+     "grounds": "compound adjective describing sides; sandhi pārśvayoḥ+daṇḍa",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣudranāsīvibhūṣitam",
+     "gloss": "small-nose-adorned",
+     "grounds": "compound adjective describing ornamentation",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What side features and nose ornaments distinguish this architectural form?",
+   "premises": [
+    "The sides are endowed with staff-faces.",
+    "The structure is adorned with small noses."
+   ],
+   "inference": "This form is marked by staff-faces on the sides and small nose ornaments.",
+   "uncertainties": [
+    "Exact meaning of daṇḍavaktra is technical."
+   ],
+   "plain_english": "On its sides it is endowed with staff-faces, and it is adorned with small noses."
+  },
+  {
+   "verse": 1885,
+   "rows": [
+    {
+     "surface": "keśaviśālālaṃkāraṃ",
+     "gloss": "hair-broad-ornament",
+     "grounds": "compound object naming the ornament",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūmibhāgādi",
+     "gloss": "ground-portion-and-so-on",
+     "grounds": "compound indicating ground portion etc.",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverbial expression indicating previous manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the broad hair ornament treated together with the ground portion?",
+   "premises": [
+    "The ornament is a broad hair-like decoration.",
+    "The ground portion and so on are as before."
+   ],
+   "inference": "The broad hair ornament is applied while retaining the previous ground layout.",
+   "uncertainties": [],
+   "plain_english": "It has a broad hair-like ornament, with the ground portion and so on as before."
+  },
+  {
+   "verse": 1886,
+   "rows": [
+    {
+     "surface": "ayugmasthūpi",
+     "gloss": "odd-finial",
+     "grounds": "compound indicating an odd number of finials",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvāraprāsādakaṃ",
+     "gloss": "door-palace",
+     "grounds": "diminutive or specific form of door-palace",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "triad",
+     "grounds": "noun indicating a group of three",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many door-palace forms with odd finials are presented as a group?",
+   "premises": [
+    "The forms have odd finials.",
+    "They are described as a triad of door-palaces."
+   ],
+   "inference": "Three door-palace forms with odd finials are grouped together.",
+   "uncertainties": [],
+   "plain_english": "There is a triad of door-palaces having an odd number of finials."
+  },
+  {
+   "verse": 1887,
+   "rows": [
+    {
+     "surface": "prāguktavatprakartavyaṃ",
+     "gloss": "as-said-before-to-be-made",
+     "grounds": "gerundive compound indicating construction as previously stated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūmibhāge",
+     "gloss": "in-ground-portion",
+     "grounds": "locative compound indicating place of construction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-twice-born",
+     "grounds": "vocative addressing the listener",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How should the construction be carried out in the ground portion according to prior instruction?",
+   "premises": [
+    "The construction should be done as said before.",
+    "This applies in the ground portion."
+   ],
+   "inference": "The ground portion must be executed according to the earlier prescription.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, it should be made in the ground portion just as stated before."
+  },
+  {
+   "verse": 1888,
+   "rows": [
+    {
+     "surface": "śikharaṃ",
+     "gloss": "spire",
+     "grounds": "noun naming the tower or spire",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cāṣṭanāsāḍhyaṃ",
+     "gloss": "and-eight-nose-endowed",
+     "grounds": "compound adjective with initial ca; sandhi ca+aṣṭa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ayugmasthūpisaṃyutam",
+     "gloss": "odd-finial-joined",
+     "grounds": "compound adjective describing the spire",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What nose count and finial arrangement characterize the described spire?",
+   "premises": [
+    "The spire is endowed with eight noses.",
+    "It is joined with an odd number of finials."
+   ],
+   "inference": "The spire combines eight noses with odd finials.",
+   "uncertainties": [],
+   "plain_english": "The spire is endowed with eight noses and joined with an odd number of finials."
+  },
+  {
+   "verse": 1889,
+   "rows": [
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "locative noun indicating each face",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "repeated locative emphasizing each face",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhadrāṃgaṃ",
+     "gloss": "auspicious-projection-part",
+     "grounds": "compound object naming the projection element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiraścāyatamaṇḍanam",
+     "gloss": "and-head-long-ornament",
+     "grounds": "compound with ca indicating elongated head ornament; sandhi śiraḥ+ca",
+     "morph": "compound"
+    }
+   ],
+   "question": "What features appear on each face and at the head of the structure?",
+   "premises": [
+    "On each face there is an auspicious projection part.",
+    "There is also an elongated head ornament."
+   ],
+   "inference": "Each face bears an auspicious projection and the head has an elongated ornament.",
+   "uncertainties": [],
+   "plain_english": "On each face there is an auspicious projection, and at the head there is an elongated ornament."
+  },
+  {
+   "verse": 1890,
+   "rows": [
+    {
+     "surface": "antaḥ",
+     "gloss": "inside",
+     "grounds": "adverb indicating interior position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādottarairyuktaṃ",
+     "gloss": "with-pillars-and-architraves-joined",
+     "grounds": "compound adjective indicating interior structural members",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ayugmasthūpikānvitam",
+     "gloss": "odd-finial-endowed",
+     "grounds": "compound adjective describing the structure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What interior supports and finial arrangement are prescribed for this structure?",
+   "premises": [
+    "Inside it is joined with pillars and architraves.",
+    "It is endowed with an odd number of finials."
+   ],
+   "inference": "The interior has pillars and architraves and the structure bears odd finials.",
+   "uncertainties": [],
+   "plain_english": "Inside it is fitted with pillars and architraves, and it is endowed with an odd number of finials."
+  },
+  {
+   "verse": 1891,
+   "rows": [
+    {
+     "surface": "pure",
+     "gloss": "in-front",
+     "grounds": "locative adverbial form indicating front position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pare",
+     "gloss": "in-rear",
+     "grounds": "locative adjective indicating rear position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahānāsī",
+     "gloss": "great-nose",
+     "grounds": "noun naming a large nose feature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satāre",
+     "gloss": "with-star",
+     "grounds": "compound or adjectival form indicating star element",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvyaṃśanīvrakam",
+     "gloss": "two-part-projection",
+     "grounds": "compound describing a two-part projection; exact analysis uncertain",
+     "morph": "compound"
+    }
+   ],
+   "question": "What nose and projection features are placed at the front and rear?",
+   "premises": [
+    "At front and rear there is a great nose.",
+    "It is associated with a star and a two-part projection."
+   ],
+   "inference": "The front and rear are marked by a great nose with star and two-part projection features.",
+   "uncertainties": [
+    "The exact parsing of satāre and dvyaṃśanīvrakam is uncertain."
+   ],
+   "plain_english": "At the front and rear there is a great nose, with a star element and a two-part projection."
+  },
+  {
+   "verse": 1892,
+   "rows": [
+    {
+     "surface": "śālākrāntaṃ",
+     "gloss": "hall-covered",
+     "grounds": "compound adjective indicating covered by halls",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃyuktaṃ",
+     "gloss": "joined",
+     "grounds": "adjective indicating connection or completeness",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nānālaṃkāraśobhitam",
+     "gloss": "various-ornament-beautified",
+     "grounds": "compound adjective describing adornment",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What overall covering and ornamentation beautify this architectural form?",
+   "premises": [
+    "The structure is covered by halls.",
+    "It is beautified with various ornaments."
+   ],
+   "inference": "The form is hall-covered and richly ornamented.",
+   "uncertainties": [],
+   "plain_english": "It is covered by halls, well joined, and beautified with various ornaments."
+  },
+  {
+   "verse": 1893,
+   "rows": [
+    {
+     "surface": "dvāraharmyaṃ",
+     "gloss": "door-mansion",
+     "grounds": "compound noun naming the gateway mansion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "adverb indicating three kinds",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle of speaking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb addressing the listener",
+     "morph": "2.sg.imperative-active √śru"
+    },
+    {
+     "surface": "gopuralakṣaṇam",
+     "gloss": "gopura-characteristic",
+     "grounds": "compound object naming the defining marks of a gopura",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What classification of the door-mansion introduces the defining marks of the gopura?",
+   "premises": [
+    "The door-mansion is declared to be threefold.",
+    "The listener is asked to hear the characteristics of the gopura."
+   ],
+   "inference": "A threefold door-mansion classification leads into the gopura characteristics.",
+   "uncertainties": [],
+   "plain_english": "The door-mansion is declared to be threefold; now hear the characteristics of the gopura."
+  },
+  {
+   "verse": 1894,
+   "rows": [
+    {
+     "surface": "śālākāraṃ",
+     "gloss": "hall-shaped",
+     "grounds": "compound adjective describing form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiroyuktaṃ",
+     "gloss": "head-joined",
+     "grounds": "compound adjective indicating a head element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhadranāsī",
+     "gloss": "auspicious-nose",
+     "grounds": "compound noun naming a nose feature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "locative noun indicating each face",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "on-face",
+     "grounds": "repeated locative emphasizing each face",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What shape, head element, and face feature define this gopura form?",
+   "premises": [
+    "The form is hall-shaped and joined with a head.",
+    "An auspicious nose appears on each face."
+   ],
+   "inference": "This gopura form is hall-shaped with a head and auspicious noses on every face.",
+   "uncertainties": [],
+   "plain_english": "It is hall-shaped and furnished with a head, with an auspicious nose on each face."
+  },
+  {
+   "verse": 1895,
+   "rows": [
+    {
+     "surface": "mātṛkhaṇḍamidaṃ",
+     "gloss": "mother-section-this",
+     "grounds": "compound with demonstrative; sandhi mātṛkhaṇḍam+idam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "past passive participle indicating fame or designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīviśālamatha",
+     "gloss": "glorious-broad-now",
+     "grounds": "compound with atha introducing next topic; sandhi śrīviśālam+atha",
+     "morph": "compound"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb addressing the listener",
+     "morph": "2.sg.imperative-active √śru"
+    }
+   ],
+   "question": "What named section is identified before introducing the glorious broad form?",
+   "premises": [
+    "This is known as the mother section.",
+    "The listener is asked to hear about the glorious broad form next."
+   ],
+   "inference": "The mother section is named and followed by the glorious broad form.",
+   "uncertainties": [
+    "Mātṛkhaṇḍa is a technical designation whose exact scope is unclear."
+   ],
+   "plain_english": "This is known as the mother section; now hear about the glorious broad form."
+  },
+  {
+   "verse": 1896,
+   "rows": [
+    {
+     "surface": "śīrṣaṃ",
+     "gloss": "head",
+     "grounds": "noun naming the top part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasākāraṃ",
+     "gloss": "tasā-shaped",
+     "grounds": "compound adjective describing shape; technical term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sabhākāramathāpi",
+     "gloss": "assembly-shaped-or-also",
+     "grounds": "compound with atha and api indicating alternative; sandhi sabhākāram+atha+api",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative shapes may the head of this structure take?",
+   "premises": [
+    "The head may be tasā-shaped.",
+    "Alternatively it may be assembly-shaped."
+   ],
+   "inference": "The head admits two alternative shapes, tasā-shaped or assembly-shaped.",
+   "uncertainties": [
+    "The meaning of tasākāra is a technical architectural term."
+   ],
+   "plain_english": "The head may be tasā-shaped, or else it may be assembly-shaped."
+  },
+  {
+   "verse": 1897,
+   "rows": [
+    {
+     "surface": "caturdiśi",
+     "gloss": "in-four-directions",
+     "grounds": "locative compound indicating all four directions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahānāsī",
+     "gloss": "great-nose",
+     "grounds": "noun naming a large nose feature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidikṣu",
+     "gloss": "in-intermediate-directions",
+     "grounds": "locative plural indicating diagonal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "kṣudranāsikāḥ",
+     "gloss": "small-noses",
+     "grounds": "noun naming small nose features",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are great noses and small noses distributed across cardinal and intermediate directions?",
+   "premises": [
+    "Great noses are placed in the four directions.",
+    "Small noses are placed in the intermediate directions."
+   ],
+   "inference": "The design assigns great noses to cardinal directions and small noses to intermediate ones.",
+   "uncertainties": [],
+   "plain_english": "In the four directions there are great noses, and in the intermediate directions there are small noses."
+  },
+  {
+   "verse": 1898,
+   "rows": [
+    {
+     "surface": "diśibhadrasamāyuktaṃ",
+     "gloss": "direction-auspicious-projection-joined",
+     "grounds": "compound adjective indicating projections in the directions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyavāraṇasaṃyutam",
+     "gloss": "middle-elephant-joined",
+     "grounds": "compound adjective indicating an elephant element in the middle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What directional projections and central element complete this structure?",
+   "premises": [
+    "It is joined with auspicious projections in the directions.",
+    "It is joined with an elephant element in the middle."
+   ],
+   "inference": "The structure combines directional auspicious projections with a central elephant element.",
+   "uncertainties": [
+    "The architectural meaning of vāraṇa here is technical."
+   ],
+   "plain_english": "It is furnished with auspicious projections in the directions and joined with an elephant element in the middle."
+  },
+  {
+   "verse": 1899,
+   "rows": [
+    {
+     "surface": "sabhākāraśirovāpi",
+     "gloss": "assembly-shaped-head-or-also",
+     "grounds": "compound with vā and api indicating alternative head shape; sandhi śiraḥ+vā+api",
+     "morph": "compound"
+    },
+    {
+     "surface": "śālākāramathāpi",
+     "gloss": "hall-shaped-or-also",
+     "grounds": "compound with atha and api indicating alternative; sandhi śālākāram+atha+api",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative head shapes are permitted for this architectural form?",
+   "premises": [
+    "The head may be assembly-shaped.",
+    "Alternatively it may be hall-shaped."
+   ],
+   "inference": "The head may take either an assembly-shaped or a hall-shaped form.",
+   "uncertainties": [],
+   "plain_english": "Its head may be assembly-shaped, or else it may be hall-shaped."
+  }
+ ]
+}

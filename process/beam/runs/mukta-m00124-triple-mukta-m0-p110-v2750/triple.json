@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p110",
+ "items": [
+  {
+   "verse": 2750,
+   "rows": [
+    {
+     "surface": "palālairodanādyaiḥ",
+     "gloss": "with-straw-gruel-and-such",
+     "grounds": "instrumental plural of compound palāla-odana-ādi",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirmālyair",
+     "gloss": "with-refuse",
+     "grounds": "instrumental plural of nirmālya",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "poṣayet",
+     "gloss": "should-nourish",
+     "grounds": "optative third singular active of poṣay",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should one nourish the place using straw gruel refuse and such?",
+   "premises": [
+    "Straw gruel and refuse may nourish place.",
+    "Poṣayet expresses should nourish.",
+    "Ca vā api connect alternatives."
+   ],
+   "inference": "The verse prescribes nourishing the place with straw gruel refuse and similar materials.",
+   "uncertainties": [
+    "Exact referent of place comes from previous verse.",
+    "Whether nirmālya means refuse or sacred remnants."
+   ],
+   "plain_english": "One should nourish it with straw, gruel, and such, and also with refuse."
+  }
+ ]
+}

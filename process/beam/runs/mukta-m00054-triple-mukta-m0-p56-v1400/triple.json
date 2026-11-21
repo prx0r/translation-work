@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "ghorarūpā",
+     "gloss": "terrible-form",
+     "grounds": "bahuvrihi compound describing her appearance",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "ghoradṛṣṭir",
+     "gloss": "terrible-gaze",
+     "grounds": "bahuvrihi compound; visarga becomes r by sandhi before following voiced consonant",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "ghorarāvā",
+     "gloss": "terrible-cry",
+     "grounds": "bahuvrihi compound describing her sound",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "ghanodarī",
+     "gloss": "cloud-bellied",
+     "grounds": "bahuvrihi compound describing her body",
+     "morph": "compound:f.nom.sg"
+    }
+   ],
+   "question": "What terrifying qualities of form, gaze, cry, and body characterize this goddess?",
+   "premises": [
+    "She is described as having a terrible form.",
+    "She is described as having a terrible gaze.",
+    "She is described as having a terrible cry.",
+    "She is described as having a cloud-like or dense belly."
+   ],
+   "inference": "Her manifested presence is defined by fearsome appearance, perception, sound, and bodily form.",
+   "uncertainties": [
+    "ghanodarī may be interpreted as 'cloud-bellied', 'thick-bellied', or 'deep-bellied'."
+   ],
+   "plain_english": "She has a terrible form, a terrible gaze, a terrible cry, and a cloud-like belly."
+  }
+ ]
+}

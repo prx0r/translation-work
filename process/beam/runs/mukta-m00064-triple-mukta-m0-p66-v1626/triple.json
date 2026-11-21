@@ -1,0 +1,1115 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1626,
+   "rows": [
+    {
+     "surface": "gṛhaṃ",
+     "gloss": "house",
+     "grounds": "object of motion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "prior action",
+     "morph": "abs. (gam)"
+    },
+    {
+     "surface": "samabhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "prior ritual action",
+     "morph": "abs. (sam-abhi-arc)"
+    },
+    {
+     "surface": "gṛha+devīṃ",
+     "gloss": "house-goddess",
+     "grounds": "deity to be worshipped",
+     "morph": "compound: gṛha+devī; f.acc.sg"
+    },
+    {
+     "surface": "yathā+vidhi",
+     "gloss": "according-to-rule",
+     "grounds": "manner of worship",
+     "morph": "compound: yathā+vidhi (indecl.)"
+    }
+   ],
+   "question": "What ritual actions must be performed upon reaching the house?",
+   "premises": [
+    "One must go to the house.",
+    "One must worship the house-goddess.",
+    "The worship must follow prescribed rules."
+   ],
+   "inference": "Proper domestic worship requires going to the house and honoring the house-goddess according to rule.",
+   "uncertainties": [],
+   "plain_english": "Having gone to the house and duly worshipped the house-goddess according to rule,"
+  },
+  {
+   "verse": 1627,
+   "rows": [
+    {
+     "surface": "yuñjīta",
+     "gloss": "one-should-dine",
+     "grounds": "injunction to partake of food",
+     "morph": "3.sg.opt.mid (yuj)"
+    },
+    {
+     "surface": "brāhmaṇaiḥ",
+     "gloss": "with-brahmins",
+     "grounds": "companions in the meal",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "together",
+     "grounds": "accompaniment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇām",
+     "gloss": "gift",
+     "grounds": "ritual offering to be given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "upapātayet",
+     "gloss": "one-should-offer",
+     "grounds": "injunction to present gift",
+     "morph": "3.sg.opt.act-caus (upa-pat)"
+    }
+   ],
+   "question": "What social and ritual duties follow the house worship?",
+   "premises": [
+    "One should dine together with brahmins.",
+    "One should offer a ritual gift.",
+    "These actions are prescribed as duties."
+   ],
+   "inference": "After worship, one must share a meal with brahmins and present a gift.",
+   "uncertainties": [
+    "yuñjīta interpreted as dining/partaking based on context; literal sense relates to joining."
+   ],
+   "plain_english": "one should dine together with brahmins and offer a gift."
+  },
+  {
+   "verse": 1628,
+   "rows": [
+    {
+     "surface": "daśāśvamedhikaḥ",
+     "gloss": "at-daśāśvamedhika",
+     "grounds": "sacred site name",
+     "morph": "m.nom.sg (locative sense in context)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison or addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣṇu+padeṣu",
+     "gloss": "at-viṣṇu-footprints",
+     "grounds": "sacred site name",
+     "morph": "compound: viṣṇu+pada; n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred sites are included in the prescribed ritual observances?",
+   "premises": [
+    "Daśāśvamedhika is named as a site.",
+    "Viṣṇu's footprints are named as a site.",
+    "Both sites are included in the observance."
+   ],
+   "inference": "The ritual observances extend to Daśāśvamedhika and to Viṣṇu's footprints.",
+   "uncertainties": [
+    "daśāśvamedhikaḥ appears in nominative form but functions locatively in this list."
+   ],
+   "plain_english": "And indeed at Daśāśvamedhika, and likewise at Viṣṇu's footprints,"
+  },
+  {
+   "verse": 1629,
+   "rows": [
+    {
+     "surface": "punar+ākarṣaṇaṃ",
+     "gloss": "again-drawing",
+     "grounds": "ritual act of drawing back",
+     "morph": "compound: punar+ākarṣaṇa; n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior action",
+     "morph": "abs. (kṛ)"
+    },
+    {
+     "surface": "śāpaḥ",
+     "gloss": "curse",
+     "grounds": "negative force released",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "patati",
+     "gloss": "falls",
+     "grounds": "resulting action",
+     "morph": "3.sg.pres.act (pat)"
+    },
+    {
+     "surface": "mūrdhani",
+     "gloss": "on-head",
+     "grounds": "location of impact",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What consequence follows performing the act of drawing back?",
+   "premises": [
+    "The act of drawing back is performed.",
+    "A curse is involved as a result.",
+    "The curse falls upon the head."
+   ],
+   "inference": "Performing the act of drawing back causes a curse to fall upon the head.",
+   "uncertainties": [
+    "The ritual referent of punar+ākarṣaṇaṃ is context-dependent."
+   ],
+   "plain_english": "having performed the act of drawing back, a curse falls upon the head."
+  },
+  {
+   "verse": 1630,
+   "rows": [
+    {
+     "surface": "āgastye",
+     "gloss": "at-āgastya",
+     "grounds": "sacred site",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viraje",
+     "gloss": "at-viraja",
+     "grounds": "sacred site",
+     "morph": "m./n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "one-should-cause-to-fall",
+     "grounds": "injunction to perform act",
+     "morph": "3.sg.opt.act-caus (pat)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dina+trayam",
+     "gloss": "for-three-days",
+     "grounds": "duration of observance",
+     "morph": "compound: dina+traya; n.acc.sg"
+    }
+   ],
+   "question": "Where and for how long must the prescribed act be performed?",
+   "premises": [
+    "The sites Āgastya and Viraja are specified.",
+    "A prescribed act of causing to fall is enjoined.",
+    "The duration is three days."
+   ],
+   "inference": "One should perform the prescribed act at Āgastya and Viraja for three days.",
+   "uncertainties": [
+    "The object of pātayet is not explicitly stated in this verse."
+   ],
+   "plain_english": "And indeed at Āgastya and at Viraja, one should perform it for three days."
+  },
+  {
+   "verse": 1631,
+   "rows": [
+    {
+     "surface": "soma+śailasya",
+     "gloss": "of-soma-mountain",
+     "grounds": "reference landmark",
+     "morph": "compound: soma+śaila; m.gen.sg"
+    },
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dṛṣṭi+mātra+antare",
+     "gloss": "within-sight-range",
+     "grounds": "distance specification",
+     "morph": "compound: dṛṣṭi+mātra+antara; n.loc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where is the next sacred location situated relative to Somaśaila?",
+   "premises": [
+    "Somaśaila serves as the landmark.",
+    "The direction is the northeast.",
+    "The distance is within sight range."
+   ],
+   "inference": "The location lies to the northeast of Somaśaila within sight range.",
+   "uncertainties": [],
+   "plain_english": "O beloved, to the northeast of Somaśaila, within sight range,"
+  },
+  {
+   "verse": 1632,
+   "rows": [
+    {
+     "surface": "maṇīśvarasya",
+     "gloss": "of-maṇīśvara",
+     "grounds": "reference landmark",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "aiśānye",
+     "gloss": "in-northeast",
+     "grounds": "directional location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "somewhat",
+     "grounds": "slight extent or distance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+ādi+gocare",
+     "gloss": "in-eastern-direction-range",
+     "grounds": "directional specification",
+     "morph": "compound: pūrva+ādi+gocara; m.loc.sg"
+    }
+   ],
+   "question": "How is the location oriented relative to Maṇīśvara?",
+   "premises": [
+    "Maṇīśvara serves as the landmark.",
+    "The direction is northeast.",
+    "It lies somewhat toward the eastern range."
+   ],
+   "inference": "The location is situated to the northeast of Maṇīśvara, somewhat toward the east.",
+   "uncertainties": [
+    "pūrva+ādi+gocare is a compact directional compound with some ambiguity."
+   ],
+   "plain_english": "to the northeast of Maṇīśvara, somewhat in the eastern direction,"
+  },
+  {
+   "verse": 1633,
+   "rows": [
+    {
+     "surface": "dvāviṃśad",
+     "gloss": "twenty-two",
+     "grounds": "numerical measure",
+     "morph": "(indecl. numeral)"
+    },
+    {
+     "surface": "dhanuḥ+āyāmaṃ",
+     "gloss": "bow-lengths-extent",
+     "grounds": "measurement of size",
+     "morph": "compound: dhanuḥ+āyāma; m.acc.sg"
+    },
+    {
+     "surface": "sarva+devaiḥ",
+     "gloss": "with-all-gods",
+     "grounds": "associated divine presence",
+     "morph": "compound: sarva+deva; m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "united",
+     "grounds": "state of being joined",
+     "morph": "n.acc.sg (past participle, sam-yuj)"
+    }
+   ],
+   "question": "What are the extent and divine association of the described site?",
+   "premises": [
+    "The site measures twenty-two bow-lengths.",
+    "It is united with all the gods.",
+    "Both size and divine presence characterize it."
+   ],
+   "inference": "The site extends twenty-two bow-lengths and is united with all the gods.",
+   "uncertainties": [],
+   "plain_english": "extending twenty-two bow-lengths and united with all the gods."
+  },
+  {
+   "verse": 1634,
+   "rows": [
+    {
+     "surface": "karatoyā",
+     "gloss": "karatoyā",
+     "grounds": "name of a river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "divya+nadī",
+     "gloss": "divine-river",
+     "grounds": "description of the river",
+     "morph": "compound: divya+nadī; f.nom.sg"
+    },
+    {
+     "surface": "lohityo",
+     "gloss": "lohitya",
+     "grounds": "name of a river",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ghargharaḥ",
+     "gloss": "gharghara",
+     "grounds": "name of a river",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sacred rivers are enumerated at this point in the list?",
+   "premises": [
+    "Karatoyā is named as a divine river.",
+    "Lohitya is named.",
+    "Gharghara is named in sequence."
+   ],
+   "inference": "The enumeration includes the divine river Karatoyā, Lohitya, and Gharghara.",
+   "uncertainties": [],
+   "plain_english": "The divine river Karatoyā, Lohitya, and then Gharghara,"
+  },
+  {
+   "verse": 1635,
+   "rows": [
+    {
+     "surface": "dṛṣadvatī",
+     "gloss": "dṛṣadvatī",
+     "grounds": "name of a river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devikā",
+     "gloss": "devikā",
+     "grounds": "name of a river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carmaṇvatī",
+     "gloss": "carmaṇvatī",
+     "grounds": "name of a river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nadī",
+     "gloss": "river",
+     "grounds": "category label",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional rivers continue the sacred enumeration?",
+   "premises": [
+    "Dṛṣadvatī is named.",
+    "Devikā is named.",
+    "Carmaṇvatī is named as a river."
+   ],
+   "inference": "The list continues with Dṛṣadvatī, Devikā, and the river Carmaṇvatī.",
+   "uncertainties": [],
+   "plain_english": "Dṛṣadvatī, Devikā, and likewise the river Carmaṇvatī,"
+  },
+  {
+   "verse": 1636,
+   "rows": [
+    {
+     "surface": "kāverī",
+     "gloss": "kāverī",
+     "grounds": "name of a river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yamunā",
+     "gloss": "yamunā",
+     "grounds": "name of a river",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "which",
+     "grounds": "relative reference",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "additional unnamed entities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na+anukīrtitāḥ",
+     "gloss": "not-mentioned",
+     "grounds": "excluded from explicit naming",
+     "morph": "compound: na+anukīrtita; m.nom.pl (past participle, anu-kīrt)"
+    }
+   ],
+   "question": "How does the enumeration account for rivers beyond those explicitly named?",
+   "premises": [
+    "Kāverī and Yamunā are explicitly named.",
+    "Other rivers exist beyond these.",
+    "Those others are not explicitly mentioned."
+   ],
+   "inference": "The list includes Kāverī and Yamunā and acknowledges other rivers not explicitly named.",
+   "uncertainties": [],
+   "plain_english": "Kāverī and Yamunā indeed, and any others that are not mentioned,"
+  },
+  {
+   "verse": 1637,
+   "rows": [
+    {
+     "surface": "udadhiḥ",
+     "gloss": "ocean",
+     "grounds": "large body of water",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gahvaraḥ",
+     "gloss": "abyss",
+     "grounds": "deep or cavernous place",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣīra+udaḥ",
+     "gloss": "milk-ocean",
+     "grounds": "mythic ocean",
+     "morph": "compound: kṣīra+uda; m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "addition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "payaḥ",
+     "gloss": "water",
+     "grounds": "body of water",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What other bodies of water are included in the sacred enumeration?",
+   "premises": [
+    "The ocean and abyss are named.",
+    "The milk-ocean is named.",
+    "Water in general is included."
+   ],
+   "inference": "The enumeration extends to the ocean, abyss, milk-ocean, and other waters.",
+   "uncertainties": [],
+   "plain_english": "the ocean and the abyss indeed, and the milk-ocean, and likewise water,"
+  },
+  {
+   "verse": 1638,
+   "rows": [
+    {
+     "surface": "hradāḥ",
+     "gloss": "lakes",
+     "grounds": "still bodies of water",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saritaḥ",
+     "gloss": "rivers",
+     "grounds": "flowing bodies of water",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthāni",
+     "gloss": "holy-places",
+     "grounds": "sacred fords or sites",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vividhāni",
+     "gloss": "various",
+     "grounds": "diversity of types",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What categories of sacred waters and sites complete the enumeration?",
+   "premises": [
+    "Lakes and rivers are included.",
+    "Holy places are included.",
+    "These holy places are of various kinds."
+   ],
+   "inference": "The enumeration includes lakes, rivers, and various holy places.",
+   "uncertainties": [],
+   "plain_english": "lakes and rivers indeed, and various holy places,"
+  },
+  {
+   "verse": 1639,
+   "rows": [
+    {
+     "surface": "vaiśākhasya",
+     "gloss": "of-vaiśākha",
+     "grounds": "month name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tṛtīyāyāṃ",
+     "gloss": "on-third-day",
+     "grounds": "lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samāyānti",
+     "gloss": "they-assemble",
+     "grounds": "gathering of sacred entities",
+     "morph": "3.pl.pres.act (sam-ā-yā)"
+    },
+    {
+     "surface": "su+madhyame",
+     "gloss": "o-slender-waisted-one",
+     "grounds": "vocative address",
+     "morph": "compound: su+madhyama; f.voc.sg"
+    }
+   ],
+   "question": "When do the enumerated sacred waters and sites assemble together?",
+   "premises": [
+    "The time is the third day of Vaiśākha.",
+    "The sacred entities assemble.",
+    "The beloved is addressed."
+   ],
+   "inference": "The sacred waters and sites assemble on the third day of Vaiśākha.",
+   "uncertainties": [],
+   "plain_english": "they assemble on the third day of Vaiśākha, O slender-waisted one."
+  },
+  {
+   "verse": 1640,
+   "rows": [
+    {
+     "surface": "jagat+māye",
+     "gloss": "o-world-illusion",
+     "grounds": "vocative epithet of goddess",
+     "morph": "compound: jagat+māyā; f.voc.sg"
+    },
+    {
+     "surface": "jagat+bīje",
+     "gloss": "o-world-seed",
+     "grounds": "vocative epithet of goddess",
+     "morph": "compound: jagat+bīja; f.voc.sg"
+    },
+    {
+     "surface": "jagat+pāpa+praṇāśini",
+     "gloss": "o-destroyer-world-sins",
+     "grounds": "vocative epithet of goddess",
+     "morph": "compound: jagat+pāpa+praṇāśinī; f.voc.sg"
+    }
+   ],
+   "question": "How is the goddess addressed in terms of her cosmic functions?",
+   "premises": [
+    "She is addressed as the illusion of the world.",
+    "She is addressed as the seed of the world.",
+    "She is addressed as the destroyer of the world's sins."
+   ],
+   "inference": "The goddess is invoked as the world's illusion, seed, and destroyer of sins.",
+   "uncertainties": [],
+   "plain_english": "O illusion of the world, O seed of the world, O destroyer of the world's sins,"
+  },
+  {
+   "verse": 1641,
+   "rows": [
+    {
+     "surface": "iti+anena",
+     "gloss": "with-this-thus",
+     "grounds": "reference to preceding formula",
+     "morph": "compound: iti+idam; m./n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "ritual utterance used",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "anyena",
+     "gloss": "with-another",
+     "grounds": "alternative or additional formula",
+     "morph": "m./n.inst.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-present",
+     "grounds": "injunction to offer",
+     "morph": "3.sg.opt.act-caus (ni-vid)"
+    }
+   ],
+   "question": "By what means should the ritual offering be presented to the goddess?",
+   "premises": [
+    "A mantra is to be used.",
+    "This or another mantra may be employed.",
+    "The offering to be presented is arghya."
+   ],
+   "inference": "One should present the arghya offering using this mantra or another.",
+   "uncertainties": [],
+   "plain_english": "with this mantra indeed, or with another, one should present the offering."
+  },
+  {
+   "verse": 1642,
+   "rows": [
+    {
+     "surface": "dvāviṃśati+dhanuḥ+mānaṃ",
+     "gloss": "twenty-two-bow-measure",
+     "grounds": "size specification",
+     "morph": "compound: dvāviṃśati+dhanuḥ+māna; n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "pool",
+     "grounds": "sacred water basin",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "maṇikarṇikā+āhvayam",
+     "gloss": "named-maṇikarṇikā",
+     "grounds": "name of the pool",
+     "morph": "compound: maṇikarṇikā+āhvaya; n.acc.sg"
+    }
+   ],
+   "question": "What is the name and measure of the sacred pool being identified?",
+   "premises": [
+    "The pool measures twenty-two bow-lengths.",
+    "The pool is called Maṇikarṇikā.",
+    "Both measure and name identify it."
+   ],
+   "inference": "The sacred pool named Maṇikarṇikā measures twenty-two bow-lengths.",
+   "uncertainties": [],
+   "plain_english": "the pool measuring twenty-two bow-lengths, named Maṇikarṇikā."
+  },
+  {
+   "verse": 1643,
+   "rows": [
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "assertion of certainty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated assertion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "reiteration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated assertion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyam",
+     "gloss": "truth",
+     "grounds": "repeated assertion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "su+niścitam",
+     "gloss": "well-ascertained",
+     "grounds": "confirmed certainty",
+     "morph": "compound: su+niścita; n.nom.sg (past participle, niś-ci)"
+    }
+   ],
+   "question": "How emphatically is the preceding identification affirmed as certain?",
+   "premises": [
+    "The word truth is repeated multiple times.",
+    "The affirmation is reinforced by emphasis.",
+    "The matter is declared well-ascertained."
+   ],
+   "inference": "The identification is emphatically and repeatedly affirmed as certainly true.",
+   "uncertainties": [],
+   "plain_english": "Truth, truth, again truth, truth indeed, well-ascertained."
+  },
+  {
+   "verse": 1644,
+   "rows": [
+    {
+     "surface": "yuga+ādiṣu",
+     "gloss": "at-yuga-beginnings",
+     "grounds": "auspicious temporal occasions",
+     "morph": "compound: yuga+ādi; n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅkrāntau",
+     "gloss": "at-solstice-transition",
+     "grounds": "auspicious temporal occasion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "uparāge",
+     "gloss": "at-eclipse",
+     "grounds": "auspicious temporal occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahā+īśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "compound: mahā+īśvarī; f.voc.sg"
+    }
+   ],
+   "question": "At which auspicious times should the rites at this site be observed?",
+   "premises": [
+    "The beginnings of yugas are specified.",
+    "The solstice transition is specified.",
+    "An eclipse is specified."
+   ],
+   "inference": "The rites should be observed at yuga beginnings, solstice transitions, and eclipses.",
+   "uncertainties": [],
+   "plain_english": "At the beginnings of yugas, at the solstice, and at an eclipse, O great goddess,"
+  },
+  {
+   "verse": 1645,
+   "rows": [
+    {
+     "surface": "maṇikarṇe",
+     "gloss": "at-maṇikarṇa",
+     "grounds": "sacred site",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sura+śreṣṭhe",
+     "gloss": "o-best-of-gods",
+     "grounds": "vocative epithet",
+     "morph": "compound: sura+śreṣṭha; m.voc.sg"
+    },
+    {
+     "surface": "maṇīśvari",
+     "gloss": "o-maṇīśvarī",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "maṇi+priye",
+     "gloss": "o-jewel-lover",
+     "grounds": "vocative epithet of goddess",
+     "morph": "compound: maṇi+priyā; f.voc.sg"
+    }
+   ],
+   "question": "Which deities are invoked at the sacred site of Maṇikarṇa?",
+   "premises": [
+    "The site Maṇikarṇa is specified.",
+    "The best of gods is addressed.",
+    "Maṇīśvarī, lover of jewels, is addressed."
+   ],
+   "inference": "At Maṇikarṇa, the best of gods and the goddess Maṇīśvarī are invoked.",
+   "uncertainties": [],
+   "plain_english": "at Maṇikarṇa, O best of gods, O Maṇīśvarī, O lover of jewels,"
+  },
+  {
+   "verse": 1646,
+   "rows": [
+    {
+     "surface": "mantreṇa+anena",
+     "gloss": "with-this-mantra",
+     "grounds": "ritual formula used",
+     "morph": "compound: mantra+idam; m.inst.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior purificatory act",
+     "morph": "abs. (snā)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇipatya",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence",
+     "morph": "abs. (pra-ṇi-pat)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "injunction to worship",
+     "morph": "3.sg.opt.act (pra-pūj)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-dismiss",
+     "grounds": "injunction to conclude rite",
+     "morph": "3.sg.opt.act-caus (vi-sṛj)"
+    }
+   ],
+   "question": "What sequence of ritual acts should be performed with this mantra?",
+   "premises": [
+    "One should bathe using this mantra.",
+    "One should bow and worship.",
+    "One should dismiss the deity."
+   ],
+   "inference": "The ritual sequence is bathing, bowing, worshipping, and dismissing with this mantra.",
+   "uncertainties": [],
+   "plain_english": "having bathed with this mantra, having bowed down, one should worship and then dismiss."
+  },
+  {
+   "verse": 1647,
+   "rows": [
+    {
+     "surface": "nīraṃ",
+     "gloss": "water",
+     "grounds": "purifying element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nīraṃ",
+     "gloss": "water",
+     "grounds": "repeated for emphasis",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vahantī",
+     "gloss": "flowing",
+     "grounds": "continuous movement",
+     "morph": "f.nom.sg (present participle, vah)"
+    },
+    {
+     "surface": "iva",
+     "gloss": "as-if",
+     "grounds": "comparison marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpa+oghāni",
+     "gloss": "sin-masses",
+     "grounds": "accumulated impurities",
+     "morph": "compound: pāpa+ogha; n.acc.pl"
+    },
+    {
+     "surface": "punīhi",
+     "gloss": "purify",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (pū)"
+    },
+    {
+     "surface": "mām",
+     "gloss": "me",
+     "grounds": "object of purification",
+     "morph": "1.sg.acc"
+    }
+   ],
+   "question": "What purification is requested from the flowing sacred water?",
+   "premises": [
+    "The water is addressed as flowing.",
+    "Masses of sin are to be removed.",
+    "The speaker asks to be purified."
+   ],
+   "inference": "The flowing water is implored to purify the speaker of masses of sin.",
+   "uncertainties": [],
+   "plain_english": "O water, flowing as if carrying away masses of sins, purify me."
+  },
+  {
+   "verse": 1648,
+   "rows": [
+    {
+     "surface": "prārthayet",
+     "gloss": "one-should-pray",
+     "grounds": "injunction to make request",
+     "morph": "3.sg.opt.act (pra-arth)"
+    },
+    {
+     "surface": "mantram+uccaran",
+     "gloss": "uttering-mantra",
+     "grounds": "accompanying vocal act",
+     "morph": "compound: mantra+uccarat; m.nom.sg (present participle, ud-car)"
+    }
+   ],
+   "question": "How must the prayer for purification be performed?",
+   "premises": [
+    "One should pray.",
+    "The prayer must be accompanied by uttering a mantra.",
+    "Both action and utterance are required."
+   ],
+   "inference": "One should pray while uttering the mantra.",
+   "uncertainties": [],
+   "plain_english": "One should pray while uttering the mantra."
+  },
+  {
+   "verse": 1649,
+   "rows": [
+    {
+     "surface": "kalā+hasta+dvaya+aṃśena",
+     "gloss": "by-two-kalā-hasta-portion",
+     "grounds": "measurement specification",
+     "morph": "compound: kalā+hasta+dvaya+aṃśa; m.inst.sg"
+    },
+    {
+     "surface": "siddha+kṣetram",
+     "gloss": "accomplished-field",
+     "grounds": "sacred or perfected site",
+     "morph": "compound: siddha+kṣetra; n.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "location reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "designation statement",
+     "morph": "3.sg.pres.pass (vac)"
+    }
+   ],
+   "question": "How is the sacred field defined in terms of its measure?",
+   "premises": [
+    "A specific measure involving two kalā-hastas is given.",
+    "The site is designated a siddha field.",
+    "This designation applies here."
+   ],
+   "inference": "The place is called a siddha field by a measure of two kalā-hastas.",
+   "uncertainties": [
+    "The exact metrical value of kalā+hasta+dvaya+aṃśena is unclear from this verse alone."
+   ],
+   "plain_english": "Here, by a portion of two kalā-hastas, it is called a siddha field."
+  }
+ ]
+}

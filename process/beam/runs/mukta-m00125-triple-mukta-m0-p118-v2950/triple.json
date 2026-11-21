@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2950,
+   "rows": [
+    {
+     "surface": "upasandhyārcane",
+     "gloss": "intermediate-twilight-worship",
+     "grounds": "locative of compound upasandhyā+arcana; the ritual context in which deficiency occurs",
+     "morph": "n.loc.sg (compound upasandhyā+arcana)"
+    },
+    {
+     "surface": "hīne",
+     "gloss": "deficient",
+     "grounds": "agreeing with upasandhyārcane; indicates a lapse or insufficiency in performance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hīnoktām",
+     "gloss": "declared-for-inferior",
+     "grounds": "compound hīna+uktā; refers to the expiation prescribed for the inferior case",
+     "morph": "f.acc.sg (compound hīna+ukta)"
+    },
+    {
+     "surface": "niṣkṛtim",
+     "gloss": "expiation",
+     "grounds": "the remedial rite to be performed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the officiant responsible for carrying out the expiation",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which expiatory rite must the teacher perform when intermediate twilight worship is deficient?",
+   "premises": [
+    "Intermediate twilight worship may be performed in a deficient manner.",
+    "An expiation is prescribed for cases declared as inferior.",
+    "The teacher bears responsibility for performing the required expiation."
+   ],
+   "inference": "Therefore, when intermediate twilight worship is deficient, the teacher must perform the expiation declared for the inferior case.",
+   "uncertainties": [
+    "The exact referent of hīnoktām depends on the specific inferior-case prescription in the preceding context."
+   ],
+   "plain_english": "When the intermediate twilight worship is deficient, the teacher should perform the expiation prescribed for the inferior case."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+[
+ {
+  "verse_id": "mukta-m00642-p01-v1",
+  "song": "mukta-m00642-p01",
+  "verse": 1,
+  "scope": "verse",
+  "structured": true,
+  "speaker": "Abhinavagupta (teacher voice)",
+  "question": "What ritual recitation involving Mahādeva and bathing is prescribed for a rākṣasī?",
+  "premises": [
+   "A rākṣasī is named as the agent.",
+   "Chanting of Mahādeva is prescribed.",
+   "Bathing and mantra syllables are included in the instruction."
+  ],
+  "inference": "The rākṣasī should perform chanting of Mahādeva in connection with bathing and the given mantra syllables.",
+  "uncertainties": [
+   "The syntactic role of snānaṃ is unclear in this fragmentary context.",
+   "The sequence re a ci mū tṛ appears to be mantra syllables but its exact segmentation and meaning are uncertain."
+  ],
+  "option_choices": [],
+  "traces": {
+   "t1_verse": "mukta-m00642-p01-v1",
+   "l0_ids": [
+    "mukta-m00642-p01-v1-p000",
+    "mukta-m00642-p01-v1-p001",
+    "mukta-m00642-p01-v1-p002",
+    "mukta-m00642-p01-v1-p003",
+    "mukta-m00642-p01-v1-p004",
+    "mukta-m00642-p01-v1-p005",
+    "mukta-m00642-p01-v1-p006",
+    "mukta-m00642-p01-v1-p007",
+    "mukta-m00642-p01-v1-p008",
+    "mukta-m00642-p01-v1-p009"
+   ],
+   "sanskrit_sha": "1e16a4ff3cceab84"
+  },
+  "sanskrit_sha": "1e16a4ff3cceab84"
+ },
+ {
+  "verse_id": "mukta-m00642-p01-v2",
+  "song": "mukta-m00642-p01",
+  "verse": 2,
+  "scope": "verse",
+  "structured": true,
+  "speaker": "Abhinavagupta (teacher voice)",
+  "question": "What beneficial outcome arises in relation to wind according to this statement?",
+  "premises": [
+   "Wind is the referenced condition or element.",
+   "Well-being is named as the resulting state.",
+   "The verb indicates that this state comes into being."
+  ],
+  "inference": "Well-being arises from or in relation to that wind.",
+  "uncertainties": [
+   "The exact referent of +tasya and its precise relation to vāta are not fully explicit."
+  ],
+  "option_choices": [],
+  "traces": {
+   "t1_verse": "mukta-m00642-p01-v2",
+   "l0_ids": [
+    "mukta-m00642-p01-v2-p000",
+    "mukta-m00642-p01-v2-p001",
+    "mukta-m00642-p01-v2-p002",
+    "mukta-m00642-p01-v2-p003"
+   ],
+   "sanskrit_sha": "1e16a4ff3cceab84"
+  },
+  "sanskrit_sha": "1e16a4ff3cceab84"
+ }
+]

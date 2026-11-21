@@ -1,0 +1,1199 @@
+{
+ "song": "mukta-m0-p129",
+ "items": [
+  {
+   "verse": 3201,
+   "rows": [
+    {
+     "surface": "kadalam",
+     "gloss": "banana",
+     "grounds": "object in list of items",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śamīpatraṃ",
+     "gloss": "shami-leaf",
+     "grounds": "compound object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhatrīm",
+     "gloss": "myrobalan",
+     "grounds": "object in list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulasīṃ",
+     "gloss": "tulasi",
+     "grounds": "object in list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which plant offerings are included in this prohibited or specified list?",
+   "premises": [
+    "Banana is listed as an item.",
+    "Shami leaf is listed as an item.",
+    "Myrobalan and tulasi are likewise listed."
+   ],
+   "inference": "The verse enumerates banana, shami leaf, myrobalan, and tulasi as items under consideration.",
+   "uncertainties": [
+    "Whether these items are prescribed or prohibited depends on the following verse."
+   ],
+   "plain_english": "Banana, shami leaf, myrobalan, and likewise tulasi."
+  },
+  {
+   "verse": 3202,
+   "rows": [
+    {
+     "surface": "varālīm",
+     "gloss": "hog-plum",
+     "grounds": "object in list",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "object in list",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prohibitive injunction",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karhicit",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings must never be given under any circumstances?",
+   "premises": [
+    "Hog-plum is included among the items.",
+    "Fish is included among the items.",
+    "One should never give these items at any time."
+   ],
+   "inference": "Hog-plum and fish are absolutely prohibited as offerings.",
+   "uncertainties": [
+    "The scope of prohibition may extend to items listed in the previous verse."
+   ],
+   "plain_english": "One should never give hog-plum or fish at any time."
+  },
+  {
+   "verse": 3203,
+   "rows": [
+    {
+     "surface": "aṣṭamyām",
+     "gloss": "on-eighth-day",
+     "grounds": "specified lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "specified lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "trayodaśyāṃ",
+     "gloss": "on-thirteenth-day",
+     "grounds": "specified lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √arc"
+    }
+   ],
+   "question": "On which lunar days must worship be performed?",
+   "premises": [
+    "The eighth lunar day is specified.",
+    "The fourteenth lunar day is specified.",
+    "The thirteenth lunar day is specified for worship."
+   ],
+   "inference": "Worship should be performed on the eighth, thirteenth, and fourteenth lunar days.",
+   "uncertainties": [],
+   "plain_english": "One should perform worship on the eighth, thirteenth, and fourteenth lunar days."
+  },
+  {
+   "verse": 3204,
+   "rows": [
+    {
+     "surface": "ciñcābhyaktanaraḥ",
+     "gloss": "tamarind-anointed-man",
+     "grounds": "compound describing a person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛṣṭvā",
+     "gloss": "having-touched",
+     "grounds": "prior action",
+     "morph": "(gerund) √spṛś"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcaśirā",
+     "gloss": "five-headed",
+     "grounds": "compound describing a being or object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which persons or contacts are ritually problematic in this context?",
+   "premises": [
+    "A man anointed with tamarind is mentioned.",
+    "Touching such a person is indicated.",
+    "A five-headed entity is likewise included."
+   ],
+   "inference": "Contact with a tamarind-anointed man or a five-headed entity is marked as relevant to ritual restriction.",
+   "uncertainties": [
+    "The exact ritual consequence is implied but not fully stated in this verse alone."
+   ],
+   "plain_english": "A man anointed with tamarind, having been touched, and likewise a five-headed one also."
+  },
+  {
+   "verse": 3205,
+   "rows": [
+    {
+     "surface": "abhakṣaiḥ",
+     "gloss": "with-uneatables",
+     "grounds": "prohibited substances",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √arc"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nīlīraktaṃ",
+     "gloss": "indigo-red",
+     "grounds": "compound describing prohibited color or substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dāpayet",
+     "gloss": "one-should-cause-give",
+     "grounds": "prohibitive injunction",
+     "morph": "3.sg.optative-causative √dā"
+    }
+   ],
+   "question": "What substances must be avoided when worshipping the goddess?",
+   "premises": [
+    "Worship of the goddess must not be done with uneatable things.",
+    "Indigo-red items are specified.",
+    "One should not cause indigo-red items to be offered."
+   ],
+   "inference": "Uneatable substances and indigo-red offerings are prohibited in worship of the goddess.",
+   "uncertainties": [
+    "The precise nature of nīlīraktaṃ as dye, cloth, or substance is unclear."
+   ],
+   "plain_english": "One should not worship the goddess with uneatable things, nor cause indigo-red offerings to be given."
+  },
+  {
+   "verse": 3206,
+   "rows": [
+    {
+     "surface": "mahādevyai",
+     "gloss": "to-great-goddess",
+     "grounds": "recipient of offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prohibitive injunction",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active √dā"
+    },
+    {
+     "surface": "haṃsaṃ",
+     "gloss": "swan",
+     "grounds": "permitted offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāgalam",
+     "gloss": "goat",
+     "grounds": "permitted offering",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which animal offerings are permitted or forbidden for Mahadevi?",
+   "premises": [
+    "A certain unspecified offering must not be given to Mahadevi.",
+    "A swan may be given.",
+    "A goat may be given."
+   ],
+   "inference": "While some offering is prohibited to Mahadevi, swan and goat are permitted offerings.",
+   "uncertainties": [
+    "The object of the first prohibition is not explicitly named in this verse."
+   ],
+   "plain_english": "One should not give that to Mahadevi, but one should give a swan and a goat."
+  },
+  {
+   "verse": 3207,
+   "rows": [
+    {
+     "surface": "javāpuṣpaṃ",
+     "gloss": "hibiscus-flower",
+     "grounds": "compound offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṅkumaṃ",
+     "gloss": "saffron",
+     "grounds": "offering item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bilvapatra",
+     "gloss": "bilva-leaf",
+     "grounds": "compound offering item, final member of compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sakomalam",
+     "gloss": "very-tender",
+     "grounds": "qualifies bilva leaf",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which flowers and leaves are suitable as offerings?",
+   "premises": [
+    "Hibiscus flower is listed as an offering.",
+    "Saffron is listed as an offering.",
+    "Very tender bilva leaf is listed as an offering."
+   ],
+   "inference": "Hibiscus flower, saffron, and very tender bilva leaf are suitable offerings.",
+   "uncertainties": [
+    "bilvapatra and sakomalam form a compound expression split across tokens in the text."
+   ],
+   "plain_english": "Hibiscus flower, saffron, and very tender bilva leaf."
+  },
+  {
+   "verse": 3208,
+   "rows": [
+    {
+     "surface": "jalajāni",
+     "gloss": "water-born",
+     "grounds": "items originating in water",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyāni",
+     "gloss": "to-be-given",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālodbhavāni",
+     "gloss": "season-born",
+     "grounds": "items arising in season",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What categories of naturally arising items should be offered?",
+   "premises": [
+    "Water-born items are to be given.",
+    "Season-born items are likewise to be given.",
+    "Both categories are prescribed as offerings."
+   ],
+   "inference": "Items born in water and those born in their proper season should be offered.",
+   "uncertainties": [
+    "The specific types of water-born and season-born items are not enumerated."
+   ],
+   "plain_english": "Water-born things should be given, and likewise those born in season."
+  },
+  {
+   "verse": 3209,
+   "rows": [
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of visualization or worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhujāṃ",
+     "gloss": "two-armed",
+     "grounds": "attribute of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pītāṃ",
+     "gloss": "yellow",
+     "grounds": "attribute of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svarṇakaṅkaṇadhariṇīm",
+     "gloss": "gold-bracelet-wearing",
+     "grounds": "compound attribute of goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the goddess be visualized in this ritual form?",
+   "premises": [
+    "The goddess is described as two-armed.",
+    "The goddess is described as yellow.",
+    "The goddess wears gold bracelets."
+   ],
+   "inference": "The goddess should be contemplated as two-armed, yellow, and wearing gold bracelets.",
+   "uncertainties": [],
+   "plain_english": "And the goddess as two-armed, yellow, and wearing gold bracelets."
+  },
+  {
+   "verse": 3210,
+   "rows": [
+    {
+     "surface": "vistare",
+     "gloss": "on-mat",
+     "grounds": "seat option",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "carmakambale",
+     "gloss": "on-leather-blanket",
+     "grounds": "compound seat option",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "puṣparetasaḥ",
+     "gloss": "on-flower-pollen",
+     "grounds": "seat option",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What seating materials are mentioned as possible ritual seats?",
+   "premises": [
+    "A mat is mentioned as a seat.",
+    "A leather blanket is mentioned as a seat.",
+    "Flower pollen is mentioned as a seat."
+   ],
+   "inference": "The verse lists a mat, a leather blanket, or flower pollen as possible seats.",
+   "uncertainties": [
+    "The ritual efficacy of these seats is clarified in following verses."
+   ],
+   "plain_english": "On a mat, or likewise on a leather blanket, or on flower pollen."
+  },
+  {
+   "verse": 3211,
+   "rows": [
+    {
+     "surface": "kṛṣṇājine",
+     "gloss": "on-black-antelope-skin",
+     "grounds": "seat material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jñānasiddhiḥ",
+     "gloss": "knowledge-attainment",
+     "grounds": "compound result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śrīmokṣau",
+     "gloss": "fortune-and-liberation",
+     "grounds": "compound dual result",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "vyāghracarmaṇi",
+     "gloss": "on-tiger-skin",
+     "grounds": "seat material",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What spiritual results follow from using specific animal-skin seats?",
+   "premises": [
+    "Sitting on black antelope skin yields knowledge attainment.",
+    "Sitting on tiger skin yields fortune and liberation.",
+    "Different skins produce different results."
+   ],
+   "inference": "Black antelope skin brings knowledge attainment, while tiger skin brings fortune and liberation.",
+   "uncertainties": [],
+   "plain_english": "On black antelope skin comes attainment of knowledge; on tiger skin come fortune and liberation."
+  },
+  {
+   "verse": 3212,
+   "rows": [
+    {
+     "surface": "carmāsane",
+     "gloss": "on-leather-seat",
+     "grounds": "compound seat material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daridraḥ",
+     "gloss": "poor",
+     "grounds": "resulting condition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "one-becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "pāṣāṇe",
+     "gloss": "on-stone",
+     "grounds": "seat material",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vyādhijaṃ",
+     "gloss": "disease-born",
+     "grounds": "compound describing fear",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhayam",
+     "gloss": "fear",
+     "grounds": "resulting condition",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What negative consequences arise from unsuitable ritual seats?",
+   "premises": [
+    "A leather seat leads to poverty.",
+    "A stone seat leads to fear born of disease.",
+    "Seat material determines adverse outcomes."
+   ],
+   "inference": "Using a leather seat results in poverty, and using a stone seat results in fear of disease.",
+   "uncertainties": [],
+   "plain_english": "On a leather seat one becomes poor; on stone there is fear arising from disease."
+  },
+  {
+   "verse": 3213,
+   "rows": [
+    {
+     "surface": "tṛṇāsane",
+     "gloss": "on-grass-seat",
+     "grounds": "compound seat material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yaśohāniḥ",
+     "gloss": "fame-loss",
+     "grounds": "compound result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parṇe",
+     "gloss": "on-leaf",
+     "grounds": "seat material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vittavibhrabhaḥ",
+     "gloss": "wealth-destruction",
+     "grounds": "compound result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What further losses result from grass or leaf seating?",
+   "premises": [
+    "A grass seat causes loss of fame.",
+    "A leaf seat causes destruction of wealth.",
+    "These seats produce specific losses."
+   ],
+   "inference": "Sitting on grass leads to loss of fame, and sitting on leaves leads to destruction of wealth.",
+   "uncertainties": [
+    "The form vittavibhrabhaḥ is unusual; taken as destruction or ruin of wealth."
+   ],
+   "plain_english": "On a grass seat there is loss of fame, and on leaves destruction of wealth."
+  },
+  {
+   "verse": 3214,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-western",
+     "grounds": "directional qualifier",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "location within area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vārāhīṃ",
+     "gloss": "varahi",
+     "grounds": "goddess to be worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pratipūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "Where and whom must one worship in that sacred location?",
+   "premises": [
+    "The location is specified as there.",
+    "The western part is indicated.",
+    "Varahi is the deity to be worshipped."
+   ],
+   "inference": "One should worship Varahi in the western part of that place.",
+   "uncertainties": [],
+   "plain_english": "There, in the western part, one should worship Varahi."
+  },
+  {
+   "verse": 3215,
+   "rows": [
+    {
+     "surface": "hayamedhasya",
+     "gloss": "of-horse-sacrifice",
+     "grounds": "compound sacrifice name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "yajñasya",
+     "gloss": "of-sacrifice",
+     "grounds": "ritual referent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prāpyate",
+     "gloss": "is-obtained",
+     "grounds": "resultative verb",
+     "morph": "3.sg.present-passive √āp"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttamaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "ritual result",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual merit is gained by worshipping Varahi there?",
+   "premises": [
+    "The horse sacrifice is invoked as comparison.",
+    "A supreme fruit is obtained.",
+    "The result is linked to the prescribed worship."
+   ],
+   "inference": "Worship there yields the supreme fruit equivalent to that of the horse sacrifice.",
+   "uncertainties": [],
+   "plain_english": "And one obtains the supreme fruit of the horse sacrifice."
+  },
+  {
+   "verse": 3216,
+   "rows": [
+    {
+     "surface": "dhruveṇa",
+     "gloss": "with-dhruva-grass",
+     "grounds": "ritual material",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pañcapatreṇa",
+     "gloss": "with-five-leaves",
+     "grounds": "compound ritual material",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "gandhādyaiḥ",
+     "gloss": "with-fragrance-and-others",
+     "grounds": "compound indicating offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pratipūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "With which ritual materials should the worship be performed?",
+   "premises": [
+    "Dhruva grass is prescribed.",
+    "Five leaves are prescribed.",
+    "Fragrance and other offerings are prescribed."
+   ],
+   "inference": "Worship should be performed with dhruva grass, five leaves, fragrance, and other offerings.",
+   "uncertainties": [
+    "The specific identity of the five leaves is not stated."
+   ],
+   "plain_english": "One should worship with dhruva grass, with five leaves, and with fragrance and other offerings."
+  },
+  {
+   "verse": 3217,
+   "rows": [
+    {
+     "surface": "rambhātīrthaṃ",
+     "gloss": "rambha-sacred-place",
+     "grounds": "compound place name",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "instructional injunction",
+     "morph": "3.sg.optative-active √jñā"
+    },
+    {
+     "surface": "snānāt",
+     "gloss": "from-bathing",
+     "grounds": "ritual action",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "bhayaparikṣayaḥ",
+     "gloss": "fear-destruction",
+     "grounds": "compound result",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What benefit comes from recognizing and bathing at Rambha Tirtha?",
+   "premises": [
+    "Rambha Tirtha should be recognized.",
+    "Bathing there is indicated.",
+    "Bathing results in the destruction of fear."
+   ],
+   "inference": "One should know Rambha Tirtha, for bathing there destroys fear.",
+   "uncertainties": [],
+   "plain_english": "One should know Rambha Tirtha; from bathing there comes the destruction of fear."
+  },
+  {
+   "verse": 3218,
+   "rows": [
+    {
+     "surface": "sarodvayaṃ",
+     "gloss": "lake-pair",
+     "grounds": "compound geographical feature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "catuḥṣaṣṭiḥ",
+     "gloss": "sixty-four",
+     "grounds": "numerical measure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhanuṣām",
+     "gloss": "of-bows",
+     "grounds": "unit of measure",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramāṇataḥ",
+     "gloss": "in-measure",
+     "grounds": "adverbial measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the dimensions of the pair of lakes described?",
+   "premises": [
+    "A pair of lakes is described.",
+    "The measure is sixty-four.",
+    "The unit of measure is bows."
+   ],
+   "inference": "The pair of lakes measures sixty-four bows in extent.",
+   "uncertainties": [
+    "Whether this is length, width, or total extent is not specified."
+   ],
+   "plain_english": "The pair of lakes measures sixty-four bows."
+  },
+  {
+   "verse": 3219,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative reference",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śailaṃ",
+     "gloss": "mountain",
+     "grounds": "geographical feature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cañcalākhyaṃ",
+     "gloss": "cancala-named",
+     "grounds": "compound name of mountain",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārohet",
+     "gloss": "one-should-ascend",
+     "grounds": "prohibitive injunction",
+     "morph": "3.sg.optative-active √ruh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mountain must never be climbed in that sacred area?",
+   "premises": [
+    "A mountain there is named Cancala.",
+    "Ascending it is prohibited.",
+    "The prohibition applies at any time."
+   ],
+   "inference": "One should never ascend the mountain called Cancala.",
+   "uncertainties": [],
+   "plain_english": "There one should never ascend the mountain named Cancala."
+  },
+  {
+   "verse": 3220,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "directional location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kajjalasya",
+     "gloss": "of-kajjala",
+     "grounds": "place or river name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "boundary location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kapilāyāḥ",
+     "gloss": "of-kapila",
+     "grounds": "river name",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgame",
+     "gloss": "at-confluence",
+     "grounds": "sacred location",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which geographical confluence is identified in the western region?",
+   "premises": [
+    "The western end of Kajjala is mentioned.",
+    "The confluence with Kapila is mentioned.",
+    "A specific sacred junction is being located."
+   ],
+   "inference": "The verse identifies the confluence at the western end of Kajjala with Kapila.",
+   "uncertainties": [
+    "Kajjalasya may refer to a place or a stream; taken as a proper name."
+   ],
+   "plain_english": "In the west, at the end of Kajjala, and at the confluence of Kapila."
+  },
+  {
+   "verse": 3221,
+   "rows": [
+    {
+     "surface": "mṛdmūrte",
+     "gloss": "at-clay-image",
+     "grounds": "compound sacred marker",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kapilāyāḥ",
+     "gloss": "of-kapila",
+     "grounds": "river name",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṅgamāvadhi",
+     "gloss": "up-to-confluence",
+     "grounds": "compound indicating boundary",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāṅkari",
+     "gloss": "o-shankari",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What boundary is marked for the sacred area addressed to Shankari?",
+   "premises": [
+    "A clay image marks a location.",
+    "The boundary extends up to the confluence of Kapila.",
+    "Shankari is addressed directly."
+   ],
+   "inference": "The sacred boundary extends from the clay image up to the confluence of Kapila.",
+   "uncertainties": [
+    "The exact syntactic role of saṅgamāvadhi as a boundary marker is interpretive."
+   ],
+   "plain_english": "At the clay image, up to the confluence of Kapila, O Shankari."
+  },
+  {
+   "verse": 3222,
+   "rows": [
+    {
+     "surface": "dakṣiṇasyāṃ",
+     "gloss": "in-south",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "triyāmānte",
+     "gloss": "at-end-of-night",
+     "grounds": "compound temporal marker",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "raivate",
+     "gloss": "on-raivata",
+     "grounds": "mountain name",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parvatāntare",
+     "gloss": "on-mountain-region",
+     "grounds": "compound geographical location",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where and when is the specified location on Raivata situated?",
+   "premises": [
+    "The southern direction is specified.",
+    "The end of night is specified.",
+    "The location is on Raivata in a mountain region."
+   ],
+   "inference": "The verse locates the site in the south, at the end of night, on the Raivata mountain region.",
+   "uncertainties": [
+    "The temporal phrase triyāmānte may qualify an action rather than the location itself."
+   ],
+   "plain_english": "In the south, at the end of night, on Raivata in the mountain region."
+  },
+  {
+   "verse": 3223,
+   "rows": [
+    {
+     "surface": "navapīṭhasya",
+     "gloss": "of-nine-seats",
+     "grounds": "compound referring to sacred complex",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-place",
+     "grounds": "holy site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative address",
+     "morph": "2.sg.imperative-active √śru"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "refers to the sacred place",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "divine inhabitants",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What sacred site and deities of the nine seats are introduced?",
+   "premises": [
+    "A sacred place of the nine seats is mentioned.",
+    "The listener is asked to hear about it.",
+    "The deities of that place are to be described."
+   ],
+   "inference": "The verse introduces the sacred place of the nine seats and calls attention to its deities.",
+   "uncertainties": [],
+   "plain_english": "Hear indeed which sacred place belongs to the nine seats, and its deities."
+  },
+  {
+   "verse": 3224,
+   "rows": [
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthaṃ",
+     "gloss": "sacred-place",
+     "grounds": "holy site",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekatra",
+     "gloss": "in-one-place",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "divine inhabitants",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the sacred place and its deities arranged together?",
+   "premises": [
+    "The sacred place is established in one place.",
+    "The deities are also in one place.",
+    "Both are brought together in the same location."
+   ],
+   "inference": "The sacred place and the deities are united together in a single location.",
+   "uncertainties": [
+    "The sense of kṛtvā with tīrthaṃ may imply establishing or recognizing the site."
+   ],
+   "plain_english": "Having established the sacred place in one location, the deities are indeed in that same place."
+  }
+ ]
+}

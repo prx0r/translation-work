@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "nārāyaṇaḥ",
+     "gloss": "nārāyaṇa",
+     "grounds": "proper name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāma",
+     "gloss": "dark",
+     "grounds": "first member of descriptive compound with varṇo",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "varṇo",
+     "gloss": "colored",
+     "grounds": "second member forming śyāmavarṇaḥ, describing nārāyaṇaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "location of the wheel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "attribute located in the navel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "connects attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "unnatam",
+     "gloss": "raised",
+     "grounds": "describes cakraṃ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What color and navel attribute characterize Nārāyaṇa in this description?",
+   "premises": [
+    "Nārāyaṇa is described as dark-colored.",
+    "A wheel is located in Nārāyaṇa's navel.",
+    "That navel wheel is described as raised."
+   ],
+   "inference": "Nārāyaṇa is identified by a dark complexion and a raised wheel in the navel.",
+   "uncertainties": [],
+   "plain_english": "Nārāyaṇa is dark-colored and has a raised wheel in his navel."
+  }
+ ]
+}

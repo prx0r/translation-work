@@ -1,0 +1,1075 @@
+{
+ "song": "mukta-m0-p569",
+ "items": [
+  {
+   "verse": 14201,
+   "rows": [
+    {
+     "surface": "dvidaivate",
+     "gloss": "two-deity",
+     "grounds": "compound adjective describing the lunar mansion",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rohiṇyāṃ",
+     "gloss": "in-rohiṇī",
+     "grounds": "name of lunar mansion",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dīpa+ārambhaḥ",
+     "gloss": "lamp-beginning",
+     "grounds": "compound: dīpa+ārambhaḥ",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-praised",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres praśaṃs"
+    }
+   ],
+   "question": "Under which lunar mansion is beginning a lamp ritual commended?",
+   "premises": [
+    "The lunar mansion Rohiṇī is associated with two deities.",
+    "Beginning a lamp ritual is evaluated for auspiciousness.",
+    "The text commends this beginning in Rohiṇī."
+   ],
+   "inference": "Beginning a lamp ritual in Rohiṇī is praised.",
+   "uncertainties": [],
+   "plain_english": "And in Rohiṇī, which has two deities, beginning the lamp ritual is praised."
+  },
+  {
+   "verse": 14202,
+   "rows": [
+    {
+     "surface": "prītau",
+     "gloss": "in-affection",
+     "grounds": "occasion or state",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "harṣe",
+     "gloss": "in-joy",
+     "grounds": "occasion or state",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saubhāgye",
+     "gloss": "in-good-fortune",
+     "grounds": "occasion or state",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śobhana+āyuṣmatoḥ",
+     "gloss": "of-auspicious-long-lived",
+     "grounds": "compound: śobhana+āyuṣmatoḥ, pair of auspicious names or qualities",
+     "morph": "compound m.gen.dual"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What occasions further justify beginning the lamp ritual?",
+   "premises": [
+    "Affection, joy, and good fortune are auspicious occasions.",
+    "The states of Śobhana and Āyuṣmat are also included.",
+    "These contexts support the lamp ritual's beginning."
+   ],
+   "inference": "The lamp ritual is also appropriate in times of affection, joy, good fortune, and for Śobhana and Āyuṣmat.",
+   "uncertainties": [
+    "Whether śobhana+āyuṣmatoḥ refers to two lunar mansions or two auspicious qualities is not explicit."
+   ],
+   "plain_english": "It is also praised in times of affection, joy, good fortune, and for Śobhana and Āyuṣmat."
+  },
+  {
+   "verse": 14203,
+   "rows": [
+    {
+     "surface": "eṣu",
+     "gloss": "in-these",
+     "grounds": "demonstrative referring to prior conjunctions",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yogeṣu",
+     "gloss": "in-conjunctions",
+     "grounds": "astrological conjunctions",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "pūrvāhṇe",
+     "gloss": "in-forenoon",
+     "grounds": "time of day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dīpa+ārambhaḥ",
+     "gloss": "lamp-beginning",
+     "grounds": "compound: dīpa+ārambhaḥ",
+     "morph": "compound m.nom.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "done",
+     "grounds": "past participle",
+     "morph": "m.nom.sg.past-pass-part kṛ"
+    },
+    {
+     "surface": "śubhaḥ",
+     "gloss": "auspicious",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "At what time of day is a lamp beginning auspicious in these conjunctions?",
+   "premises": [
+    "Certain conjunctions have been specified.",
+    "The lamp beginning can be performed at different times.",
+    "Performing it in the forenoon during these conjunctions is declared auspicious."
+   ],
+   "inference": "A lamp beginning done in the forenoon during these conjunctions is auspicious.",
+   "uncertainties": [],
+   "plain_english": "In these conjunctions, a lamp beginning performed in the forenoon is auspicious."
+  },
+  {
+   "verse": 14204,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raveḥ",
+     "gloss": "of-sun",
+     "grounds": "Sunday, day of the sun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vāraḥ",
+     "gloss": "day",
+     "grounds": "weekday",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śravaṇaṃ",
+     "gloss": "śravaṇa",
+     "grounds": "name of lunar mansion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaṃ",
+     "gloss": "constellation",
+     "grounds": "lunar mansion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "rare",
+     "grounds": "difficult to obtain",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How rare is the combination of Sunday with the Śravaṇa constellation?",
+   "premises": [
+    "A specific timing combines a weekday and a lunar mansion.",
+    "The weekday is that of the sun.",
+    "The lunar mansion is Śravaṇa, and this combination is rare."
+   ],
+   "inference": "The concurrence of Sunday and the Śravaṇa constellation is rare.",
+   "uncertainties": [],
+   "plain_english": "If there the day is Sunday and the constellation is Śravaṇa, that combination is rare."
+  },
+  {
+   "verse": 14205,
+   "rows": [
+    {
+     "surface": "ādye",
+     "gloss": "on-first",
+     "grounds": "on the first day",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upoṣya",
+     "gloss": "having-fasted",
+     "grounds": "absolutive",
+     "morph": "absolutive upa-vas"
+    },
+    {
+     "surface": "niyataḥ",
+     "gloss": "restrained",
+     "grounds": "disciplined",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmacārī",
+     "gloss": "celibate",
+     "grounds": "observing continence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śayīta",
+     "gloss": "should-sleep",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-mid śī"
+    },
+    {
+     "surface": "kau",
+     "gloss": "on-ground",
+     "grounds": "on the earth",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What preparatory discipline must be observed on the first day before the ritual?",
+   "premises": [
+    "The ritual begins with a preparatory day.",
+    "The practitioner must fast, remain restrained, and observe celibacy.",
+    "The practitioner should sleep on the ground."
+   ],
+   "inference": "On the first day one should fast, remain restrained and celibate, and sleep on the ground.",
+   "uncertainties": [],
+   "plain_english": "Indeed, on the first day, having fasted, restrained and celibate, one should sleep on the ground."
+  },
+  {
+   "verse": 14206,
+   "rows": [
+    {
+     "surface": "prāṇān+āyamya",
+     "gloss": "having-controlled-breath",
+     "grounds": "compound absolutive: prāṇān+āyamya",
+     "morph": "absolutive ā-yam"
+    },
+    {
+     "surface": "saṃkalpaṃ",
+     "gloss": "resolve",
+     "grounds": "ritual intention",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyāsān",
+     "gloss": "installations",
+     "grounds": "ritual placements",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pūrva+uditān",
+     "gloss": "previously-declared",
+     "grounds": "compound: pūrva+uditān",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-perform",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-act car"
+    }
+   ],
+   "question": "What ritual actions must the practitioner perform after controlling the breath?",
+   "premises": [
+    "Breath control is performed first.",
+    "A resolve must be made.",
+    "The previously declared installations must be performed."
+   ],
+   "inference": "After controlling the breath, one should make a resolve and perform the previously declared installations.",
+   "uncertainties": [],
+   "plain_english": "Having controlled the breath, one should make a resolve and perform the previously declared installations."
+  },
+  {
+   "verse": 14207,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "central position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "kāma",
+     "grounds": "seed-syllable or deity name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "having-drawn",
+     "grounds": "absolutive",
+     "morph": "absolutive sam-ā-likh"
+    },
+    {
+     "surface": "ṣaṭ+koṇeṣu",
+     "gloss": "in-six-corners",
+     "grounds": "compound: ṣaṭ+koṇeṣu",
+     "morph": "compound m.loc.pl"
+    },
+    {
+     "surface": "samālikhet",
+     "gloss": "should-draw",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-act sam-ā-likh"
+    }
+   ],
+   "question": "Where must Kāma be drawn within the ritual diagram?",
+   "premises": [
+    "A diagram is being prepared.",
+    "Kāma is to be drawn in the middle.",
+    "Further drawing is to be done in the six corners."
+   ],
+   "inference": "One should draw Kāma in the middle and then draw in the six corners.",
+   "uncertainties": [
+    "Whether 'kāmaṃ' refers to the bīja or the deity is not fully explicit."
+   ],
+   "plain_english": "Having drawn Kāma in the middle, one should draw in the six corners."
+  },
+  {
+   "verse": 14208,
+   "rows": [
+    {
+     "surface": "kroṃ",
+     "gloss": "kroṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃphaṭ",
+     "gloss": "huṃphaṭ",
+     "grounds": "seed-syllables combined",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+ādi+diśāsu",
+     "gloss": "in-east-etc-directions",
+     "grounds": "compound: pūrva+ādi+diśāsu",
+     "morph": "compound f.loc.pl"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "should-write",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-act vi-likh"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequentially",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what sequence and directions must the specified seed-syllables be written?",
+   "premises": [
+    "The seed-syllables kroṃ, śrīṃ, and huṃphaṭ are specified.",
+    "They are to be written in the directions beginning with the east.",
+    "The writing must follow a sequence."
+   ],
+   "inference": "One should write kroṃ, śrīṃ, and huṃphaṭ in order in the directions beginning with the east.",
+   "uncertainties": [],
+   "plain_english": "One should write kroṃ, śrīṃ, and huṃphaṭ in order in the directions beginning with the east."
+  },
+  {
+   "verse": 14209,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vilikhite",
+     "gloss": "when-drawn",
+     "grounds": "locative absolute participle",
+     "morph": "n.loc.sg.past-pass-part vi-likh"
+    },
+    {
+     "surface": "yantre",
+     "gloss": "in-diagram",
+     "grounds": "ritual diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nidadhyāt",
+     "gloss": "should-place",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-act ni-dhā"
+    },
+    {
+     "surface": "dīpa+bhājanam",
+     "gloss": "lamp-vessel",
+     "grounds": "compound: dīpa+bhājanam",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What object must be placed once the ritual diagram is fully drawn?",
+   "premises": [
+    "The diagram has been drawn as instructed.",
+    "A lamp vessel is required for the ritual.",
+    "The vessel is to be placed on the diagram."
+   ],
+   "inference": "When the diagram is thus drawn, one should place the lamp vessel upon it.",
+   "uncertainties": [],
+   "plain_english": "When the diagram has been drawn in this way, one should place the lamp vessel on it."
+  },
+  {
+   "verse": 14210,
+   "rows": [
+    {
+     "surface": "kāṃsya+pātraṃ",
+     "gloss": "bell-metal-vessel",
+     "grounds": "compound: kāṃsya+pātraṃ",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "mṛn+mayaṃ",
+     "gloss": "made-of-clay",
+     "grounds": "compound: mṛn+mayaṃ",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhaṃ",
+     "gloss": "inferior",
+     "grounds": "least preferred",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "loha+jaṃ",
+     "gloss": "made-of-iron",
+     "grounds": "compound: loha+jaṃ",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "mṛtau",
+     "gloss": "in-death-rites",
+     "grounds": "funerary context",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which materials for the lamp vessel are prescribed for ordinary and funerary use?",
+   "premises": [
+    "Different vessel materials are possible.",
+    "Bell-metal and clay vessels are considered inferior.",
+    "An iron vessel is specified for death rites."
+   ],
+   "inference": "Bell-metal and clay vessels are inferior, while an iron vessel is used in death rites.",
+   "uncertainties": [],
+   "plain_english": "A bell-metal or clay vessel is inferior, and one made of iron is used in death rites."
+  },
+  {
+   "verse": 14211,
+   "rows": [
+    {
+     "surface": "śāntaye",
+     "gloss": "for-peace",
+     "grounds": "purpose of pacification",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "mudga+cūrṇa+utthaṃ",
+     "gloss": "made-of-mudga-flour",
+     "grounds": "compound: mudga+cūrṇa+utthaṃ",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "sandhau",
+     "gloss": "in-junction",
+     "grounds": "transitional rite or time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "godhūma+cūrṇa+jam",
+     "gloss": "made-of-wheat-flour",
+     "grounds": "compound: godhūma+cūrṇa+jam",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "Which flour-based vessel materials are prescribed for peace and junction rites?",
+   "premises": [
+    "Vessels can be made from flour.",
+    "A vessel made of mudga flour is for peace.",
+    "A vessel made of wheat flour is for a junction rite."
+   ],
+   "inference": "For peace use a vessel made of mudga flour, and for a junction rite one made of wheat flour.",
+   "uncertainties": [
+    "The exact ritual sense of 'sandhau' is not fully specified."
+   ],
+   "plain_english": "For peace, a vessel made of mudga flour; in a junction rite, one made of wheat flour."
+  },
+  {
+   "verse": 14212,
+   "rows": [
+    {
+     "surface": "arka+dig+vasu+ṣaṭ+pañca+catur+aṅgulaiḥ",
+     "gloss": "by-twelve-ten-eight-six-five-four-fingers",
+     "grounds": "compound listing measures: arka(12)+dig(10)+vasu(8)+ṣaṭ(6)+pañca(5)+catur(4)+aṅgulaiḥ",
+     "morph": "compound n.inst.pl"
+    },
+    {
+     "surface": "mitam",
+     "gloss": "measured",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.past-pass-part mā"
+    }
+   ],
+   "question": "What finger-based measurements determine the size of the vessel?",
+   "premises": [
+    "The vessel size is specified by measurement.",
+    "A series of numerical measures is given in finger units.",
+    "These measures define the vessel's dimensions."
+   ],
+   "inference": "The vessel is measured by twelve, ten, eight, six, five, and four finger units.",
+   "uncertainties": [
+    "How each number maps to specific dimensions is not explicit."
+   ],
+   "plain_english": "It is measured by twelve, ten, eight, six, five, and four finger-breadths."
+  },
+  {
+   "verse": 14213,
+   "rows": [
+    {
+     "surface": "ājya+īyuta+pale",
+     "gloss": "in-one-pala-with-ghee",
+     "grounds": "compound: ājya+īyuta+pale, one pala measure with ghee",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "ritual container",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pala+pañca+śatī+kṛtam",
+     "gloss": "made-of-five-hundred-palas",
+     "grounds": "compound: pala+pañca+śatī+kṛtam",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What vessel size corresponds to one pala of ghee in this prescription?",
+   "premises": [
+    "The amount of ghee determines vessel size.",
+    "One pala of ghee is specified.",
+    "The corresponding vessel is made to hold five hundred palas."
+   ],
+   "inference": "For one pala of ghee, the vessel is made of five hundred palas capacity.",
+   "uncertainties": [
+    "The exact relation between ghee amount and vessel capacity is compressed."
+   ],
+   "plain_english": "When there is one pala of ghee, the vessel is made to a measure of five hundred palas."
+  },
+  {
+   "verse": 14214,
+   "rows": [
+    {
+     "surface": "trisahasre",
+     "gloss": "in-three-thousand",
+     "grounds": "numerical measure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ghṛta+pale",
+     "gloss": "in-ghee-pala",
+     "grounds": "compound: ghṛta+pale",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "śara+arka+pala+bhājanam",
+     "gloss": "vessel-of-five-twelve-palas",
+     "grounds": "compound: śara(5)+arka(12)+pala+bhājanam",
+     "morph": "compound n.nom.sg"
+    }
+   ],
+   "question": "What vessel measure is prescribed when three thousand palas of ghee are used?",
+   "premises": [
+    "A larger quantity of ghee is specified.",
+    "The quantity is three thousand palas.",
+    "A corresponding vessel measure of five and twelve palas is given."
+   ],
+   "inference": "For three thousand palas of ghee, the vessel is of five and twelve palas measure.",
+   "uncertainties": [
+    "The compound śara+arka+pala+bhājanam may encode a specific combined measure."
+   ],
+   "plain_english": "When there are three thousand palas of ghee, the vessel is of five and twelve palas."
+  },
+  {
+   "verse": 14215,
+   "rows": [
+    {
+     "surface": "śata+īkṣi+śara+saṃkhyātam",
+     "gloss": "measured-by-hundred-two-five",
+     "grounds": "compound: śata(100)+īkṣi(2)+śara(5)+saṃkhyātam",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatra",
+     "gloss": "elsewhere",
+     "grounds": "in other cases",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-act kḷp"
+    }
+   ],
+   "question": "How should vessel measures be arranged in other cases by analogy?",
+   "premises": [
+    "A specific numerical measure is given as an example.",
+    "Other cases also require arrangement.",
+    "The same method should be applied elsewhere."
+   ],
+   "inference": "In other cases one should arrange the measure similarly, such as by one hundred, two, and five.",
+   "uncertainties": [
+    "The exact numerical interpretation of śata+īkṣi+śara+saṃkhyātam is uncertain."
+   ],
+   "plain_english": "Thus, elsewhere one should arrange it according to the measure of one hundred, two, and five."
+  },
+  {
+   "verse": 14216,
+   "rows": [
+    {
+     "surface": "śatravaḥ",
+     "gloss": "enemies",
+     "grounds": "adversaries",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "of that practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "perish",
+     "grounds": "are destroyed",
+     "morph": "3.pl.act-pres naś"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryyā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg.gerundive kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "doubt or deliberation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What result regarding enemies follows from performing this ritual correctly?",
+   "premises": [
+    "The ritual produces effects for the practitioner.",
+    "Enemies are subject to destruction.",
+    "No doubt should be entertained about this result."
+   ],
+   "inference": "The practitioner's enemies perish, and there should be no doubt about it.",
+   "uncertainties": [],
+   "plain_english": "His enemies perish; there should be no doubt about this."
+  },
+  {
+   "verse": 14217,
+   "rows": [
+    {
+     "surface": "jīvet",
+     "gloss": "may-live",
+     "grounds": "optative wish or result",
+     "morph": "3.sg.opt-act jīv"
+    },
+    {
+     "surface": "varṣa+śataṃ",
+     "gloss": "hundred-years",
+     "grounds": "compound: varṣa+śataṃ",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "practitioner",
+     "grounds": "one who uses the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāpāni",
+     "gloss": "sins",
+     "grounds": "wrongdoings",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kṣayam",
+     "gloss": "destruction",
+     "grounds": "dissolution",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyuḥ",
+     "gloss": "may-obtain",
+     "grounds": "optative result",
+     "morph": "3.pl.opt-act āp"
+    }
+   ],
+   "question": "What benefits of longevity and purification accrue to the mantra practitioner?",
+   "premises": [
+    "The ritual benefits the mantra practitioner.",
+    "Long life is promised.",
+    "Sins are brought to destruction."
+   ],
+   "inference": "The practitioner may live a hundred years and his sins may be destroyed.",
+   "uncertainties": [],
+   "plain_english": "The practitioner may live a hundred years, and his sins may be destroyed."
+  },
+  {
+   "verse": 14218,
+   "rows": [
+    {
+     "surface": "tithi+māna+ādya+sahasraṃ",
+     "gloss": "thousand-beginning-with-lunar-day-measure",
+     "grounds": "compound: tithi+māna+ādya+sahasraṃ",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "tantu+saṃkhyā",
+     "gloss": "thread-number",
+     "grounds": "compound: tantu+saṃkhyā",
+     "morph": "compound f.nom.sg"
+    },
+    {
+     "surface": "vinirmitā",
+     "gloss": "constructed",
+     "grounds": "past participle",
+     "morph": "f.nom.sg.past-pass-part vi-nir-mā"
+    }
+   ],
+   "question": "How is the number of threads for the wick determined in this ritual?",
+   "premises": [
+    "The wick requires a specific number of threads.",
+    "The count begins with the measure of the lunar day.",
+    "The number is constructed as a thousand."
+   ],
+   "inference": "The thread number is constructed as a thousand beginning with the lunar-day measure.",
+   "uncertainties": [
+    "The precise calculation implied by tithi+māna+ādya+sahasraṃ is unclear."
+   ],
+   "plain_english": "The number of threads is made as a thousand, beginning with the measure of the lunar day."
+  },
+  {
+   "verse": 14219,
+   "rows": [
+    {
+     "surface": "sahasra+pala+saṃkhyā+ādi+daśa+antaṃ",
+     "gloss": "up-to-ten-beginning-with-thousand-palas",
+     "grounds": "compound: sahasra+pala+saṃkhyā+ādi+daśa+antaṃ",
+     "morph": "compound n.nom.sg"
+    },
+    {
+     "surface": "kāryya+gauravāt",
+     "gloss": "according-to-task-importance",
+     "grounds": "compound: kāryya+gauravāt",
+     "morph": "compound n.abl.sg"
+    }
+   ],
+   "question": "How does the importance of the task affect the prescribed numerical range?",
+   "premises": [
+    "A numerical range is prescribed.",
+    "The range extends from a thousand-pala count up to ten.",
+    "The choice depends on the importance of the task."
+   ],
+   "inference": "The range from a thousand-pala count up to ten is adjusted according to the importance of the task.",
+   "uncertainties": [
+    "The exact scaling logic of the numerical range is compressed."
+   ],
+   "plain_english": "From a thousand-pala count up to ten, it is determined according to the importance of the task."
+  },
+  {
+   "verse": 14220,
+   "rows": [
+    {
+     "surface": "tat+ardhāṃ",
+     "gloss": "half-of-that",
+     "grounds": "compound: tat+ardhāṃ",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+ardhāṃ",
+     "gloss": "half-of-that",
+     "grounds": "compound: tat+ardhāṃ",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūkṣma+agrāṃ",
+     "gloss": "fine-tipped",
+     "grounds": "compound: sūkṣma+agrāṃ",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "sthūla+mulikām",
+     "gloss": "thick-rooted",
+     "grounds": "compound: sthūla+mulikām",
+     "morph": "compound f.acc.sg"
+    }
+   ],
+   "question": "What alternative proportions and shape are prescribed for the wick?",
+   "premises": [
+    "The wick's size can be reduced.",
+    "It may be half of that, or half of that again.",
+    "The wick should be fine-tipped and thick-rooted."
+   ],
+   "inference": "The wick may be half or a quarter of that size, fine-tipped and thick-rooted.",
+   "uncertainties": [],
+   "plain_english": "It may be half of that, or half of that again, fine-tipped and thick at the base."
+  },
+  {
+   "verse": 14221,
+   "rows": [
+    {
+     "surface": "pātrāt",
+     "gloss": "from-vessel",
+     "grounds": "reference point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dakṣiṇa+dik+deśe",
+     "gloss": "in-southern-direction-place",
+     "grounds": "compound: dakṣiṇa+dik+deśe",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "muktvā",
+     "gloss": "having-left",
+     "grounds": "absolutive, leaving a gap",
+     "morph": "absolutive muc"
+    },
+    {
+     "surface": "aṅgula+catuṣṭayam",
+     "gloss": "four-fingers",
+     "grounds": "compound: aṅgula+catuṣṭayam",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "Where relative to the vessel must a four-finger space be left?",
+   "premises": [
+    "Placement requires a measured gap.",
+    "The gap is four fingers wide.",
+    "The gap is left in the southern direction from the vessel."
+   ],
+   "inference": "One should leave a space of four fingers to the south of the vessel.",
+   "uncertainties": [],
+   "plain_english": "Leaving a space of four fingers to the south of the vessel."
+  },
+  {
+   "verse": 14222,
+   "rows": [
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "ritual lamp",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prajvālayet",
+     "gloss": "should-light",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-caus pra-jval"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇeśa+smṛti+pūrvakam",
+     "gloss": "preceded-by-remembrance-of-gaṇeśa",
+     "grounds": "compound: gaṇeśa+smṛti+pūrvakam",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "What devotional remembrance must precede the lighting of the lamp?",
+   "premises": [
+    "The lamp is to be lit at the designated place.",
+    "Lighting must be preceded by a mental act.",
+    "That act is remembrance of Gaṇeśa."
+   ],
+   "inference": "One should light the lamp there, preceded by remembrance of Gaṇeśa.",
+   "uncertainties": [],
+   "plain_english": "There one should light the lamp, preceded by remembrance of Gaṇeśa."
+  },
+  {
+   "verse": 14223,
+   "rows": [
+    {
+     "surface": "taṇḍula+aṣṭa+dale",
+     "gloss": "on-eight-petaled-rice-design",
+     "grounds": "compound: taṇḍula+aṣṭa+dale",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhi+vat",
+     "gloss": "according-to-rule",
+     "grounds": "compound: vidhi+vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-place",
+     "grounds": "optative injunction",
+     "morph": "3.sg.opt-caus sthā"
+    },
+    {
+     "surface": "ghaṭam",
+     "gloss": "pot",
+     "grounds": "ritual pot",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "On what alternative base may the ritual pot be placed according to rule?",
+   "premises": [
+    "A ritual pot must be placed.",
+    "An eight-petaled design made of rice is an alternative base.",
+    "The placement must follow the prescribed rule."
+   ],
+   "inference": "One may also place the pot according to rule on an eight-petaled design of rice.",
+   "uncertainties": [],
+   "plain_english": "Or one may also place the pot according to rule on an eight-petaled design made of rice."
+  },
+  {
+   "verse": 14224,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to prior instruction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg.past-pass-part pra-vac"
+    },
+    {
+     "surface": "dvijātīnāṃ",
+     "gloss": "for-twice-born",
+     "grounds": "eligible group",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vāmibhiḥ",
+     "gloss": "by-vāmācāras",
+     "grounds": "practitioners of the left-hand path",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vāma+bhāgake",
+     "gloss": "on-left-side",
+     "grounds": "compound: vāma+bhāgake",
+     "morph": "compound m.loc.sg"
+    }
+   ],
+   "question": "For whom and in what ritual position is this procedure declared?",
+   "premises": [
+    "The preceding procedure has been declared.",
+    "It is intended for the twice-born.",
+    "It is performed by vāmācāras on the left side."
+   ],
+   "inference": "This procedure is declared for the twice-born and is performed by vāmācāras on the left side.",
+   "uncertainties": [
+    "The precise ritual distinction implied by 'vāma+bhāgake' is not fully explicit."
+   ],
+   "plain_english": "This has been declared for the twice-born, and by vāmācāras it is performed on the left side."
+  }
+ ]
+}

@@ -1,0 +1,975 @@
+{
+ "song": "mukta-m0-p191",
+ "items": [
+  {
+   "verse": 4751,
+   "rows": [
+    {
+     "surface": "sādhyanāma",
+     "gloss": "target-name",
+     "grounds": "compound of sādhya and nāma indicating the name of the intended target",
+     "morph": "compound: sādhya+nāma (n.nom.sg)"
+    },
+    {
+     "surface": "likhenmadhye",
+     "gloss": "should-write-in-middle",
+     "grounds": "fused form of likhet and madhye indicating writing in the center",
+     "morph": "verb 3.sg.act-optative √likh + indecl. madhye"
+    },
+    {
+     "surface": "kākapakṣeṇa",
+     "gloss": "with-crow-feather",
+     "grounds": "instrument denoting the writing implement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sañcayet",
+     "gloss": "should-gather",
+     "grounds": "optative verb expressing the ritual action of collecting or arranging",
+     "morph": "verb 3.sg.act-optative √ci (sam)"
+    }
+   ],
+   "question": "How must the target's name be inscribed and gathered to initiate the ritual operation?",
+   "premises": [
+    "The target's name is the required inscription.",
+    "Writing must occur in the middle.",
+    "A crow feather serves as the implement.",
+    "The practitioner should gather or arrange accordingly."
+   ],
+   "inference": "Proper placement of the target's name with the specified implement initiates the intended ritual act.",
+   "uncertainties": [
+    "The exact object to be gathered by sañcayet is not explicitly stated."
+   ],
+   "plain_english": "One should write the target's name in the middle with a crow's feather and gather it."
+  },
+  {
+   "verse": 4752,
+   "rows": [
+    {
+     "surface": "śatrūn",
+     "gloss": "enemies",
+     "grounds": "direct object of the expulsion rite",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "uccāṭayedāśu",
+     "gloss": "should-expel-quickly",
+     "grounds": "fused form of uccāṭayet and āśu indicating swift expulsion",
+     "morph": "verb 3.sg.act-optative √caṭ (ud) + indecl. āśu"
+    },
+    {
+     "surface": "haṭhoccāṭaḥ",
+     "gloss": "forceful-expulsion",
+     "grounds": "compound naming the violent type of uccāṭana",
+     "morph": "compound: haṭha+uccāṭaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "yamīritaḥ",
+     "gloss": "which-declared",
+     "grounds": "relative pronoun with past participle marking traditional designation",
+     "morph": "pron.nom.sg.m + m.nom.sg participle √īr"
+    }
+   ],
+   "question": "What ritual effect is achieved by this procedure and how is that effect classified?",
+   "premises": [
+    "The procedure targets enemies.",
+    "The action causes swift expulsion.",
+    "The result is termed forceful expulsion."
+   ],
+   "inference": "The prescribed act produces a rapid and forceful expulsion of enemies.",
+   "uncertainties": [],
+   "plain_english": "One should quickly expel enemies; this is declared to be forceful expulsion."
+  },
+  {
+   "verse": 4753,
+   "rows": [
+    {
+     "surface": "lākṣārasaiḥ",
+     "gloss": "with-lac-juices",
+     "grounds": "instrumental substance used for drawing",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "likheccakraṃ",
+     "gloss": "should-draw-diagram",
+     "grounds": "fused form of likhet and cakram indicating drawing the diagram",
+     "morph": "verb 3.sg.act-optative √likh + n.acc.sg"
+    },
+    {
+     "surface": "caturvarṇān",
+     "gloss": "four-classes",
+     "grounds": "object denoting the four social classes to be brought under control",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vaśaṃ+nayet",
+     "gloss": "bring-under-control",
+     "grounds": "compound verb phrase expressing subjugation",
+     "morph": "n.acc.sg + verb 3.sg.act-optative √nī"
+    }
+   ],
+   "question": "What substance and diagram enable bringing the four classes under control?",
+   "premises": [
+    "Lac juices are the drawing medium.",
+    "A diagram must be drawn.",
+    "The four classes are the targets of control."
+   ],
+   "inference": "Drawing the diagram with lac juices brings the four classes under control.",
+   "uncertainties": [],
+   "plain_english": "One should draw the diagram with lac juices and bring the four classes under control."
+  },
+  {
+   "verse": 4754,
+   "rows": [
+    {
+     "surface": "saubhāgyaṃ+mahad",
+     "gloss": "great-good-fortune",
+     "grounds": "compound object denoting abundant auspiciousness",
+     "morph": "n.acc.sg + n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present tense verb stating the result",
+     "morph": "verb 3.sg.act-present √āp"
+    },
+    {
+     "surface": "snānapānānna",
+     "gloss": "bathing-drinking-food",
+     "grounds": "compound listing domains in which fortune manifests",
+     "morph": "compound: snāna+pāna+anna (n.nom.sg)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun used in negating phrase to assert certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What benefit is obtained through this rite and in which domains does it manifest?",
+   "premises": [
+    "Great good fortune is obtained.",
+    "Fortune extends to bathing, drinking, and food.",
+    "No doubt remains about this result."
+   ],
+   "inference": "The rite yields great and certain good fortune in daily sustenance and purification.",
+   "uncertainties": [
+    "The syntactic relation of snānapānānna to the rest of the verse is compressed."
+   ],
+   "plain_english": "One obtains great good fortune in bathing, drinking, and food; there is no doubt."
+  },
+  {
+   "verse": 4755,
+   "rows": [
+    {
+     "surface": "sindūralikhitaṃ",
+     "gloss": "vermilion-drawn",
+     "grounds": "compound describing the diagram as drawn with vermilion",
+     "morph": "compound: sindūra+likhitaṃ (n.nom.sg)"
+    },
+    {
+     "surface": "cakram",
+     "gloss": "diagram",
+     "grounds": "the ritual diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "in-north",
+     "grounds": "locative indicating directional placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "lokavaśyakṛt",
+     "gloss": "world-subjugating",
+     "grounds": "compound describing the diagram's power to subjugate the world",
+     "morph": "compound: loka+vaśya+kṛt (n.nom.sg)"
+    }
+   ],
+   "question": "What power does a vermilion-drawn diagram placed in the north possess?",
+   "premises": [
+    "The diagram is drawn with vermilion.",
+    "The diagram is placed in the north.",
+    "The diagram effects subjugation of the world."
+   ],
+   "inference": "A vermilion diagram placed in the north brings the world under control.",
+   "uncertainties": [],
+   "plain_english": "A diagram drawn with vermilion in the north brings the world under control."
+  },
+  {
+   "verse": 4756,
+   "rows": [
+    {
+     "surface": "mantriṇaḥ",
+     "gloss": "mantra-holders",
+     "grounds": "beings skilled in mantras who become subject to control",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deities",
+     "grounds": "divine beings included among those subjugated",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vaśyāḥ",
+     "gloss": "subjugated",
+     "grounds": "predicate describing the state of being brought under control",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kiṃ+punaḥ",
+     "gloss": "how-much-more",
+     "grounds": "rhetorical phrase strengthening the claim",
+     "morph": "indecl. + indecl."
+    },
+    {
+     "surface": "yoṣitaḥ",
+     "gloss": "women",
+     "grounds": "additional targets made easier to subjugate by comparison",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How far does the subjugating power of this rite extend among beings?",
+   "premises": [
+    "Mantra-holders become subjugated.",
+    "Deities become subjugated.",
+    "Women are even more readily subjugated by comparison."
+   ],
+   "inference": "The rite's subjugating power extends even to mantra-holders and deities, and thus certainly to women.",
+   "uncertainties": [],
+   "plain_english": "Mantra-holders and deities become subjugated; how much more so women, beloved."
+  },
+  {
+   "verse": 4757,
+   "rows": [
+    {
+     "surface": "sādhyasya",
+     "gloss": "of-target",
+     "grounds": "possessive indicating whose mantra is affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mantrahāniḥ",
+     "gloss": "mantra-loss",
+     "grounds": "compound naming the destruction of mantra efficacy",
+     "morph": "compound: mantra+hāniḥ (f.nom.sg)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing possible result",
+     "morph": "verb 3.sg.act-optative √as"
+    },
+    {
+     "surface": "māraṇaṃ",
+     "gloss": "killing",
+     "grounds": "action noun indicating lethal effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca+viśeṣataḥ",
+     "gloss": "and-especially",
+     "grounds": "conjunction with adverb emphasizing the stronger effect",
+     "morph": "indecl. + indecl."
+    }
+   ],
+   "question": "What harmful effects can this ritual operation produce upon the intended target?",
+   "premises": [
+    "The target's mantra may be lost.",
+    "Killing may also occur.",
+    "The lethal effect is especially emphasized."
+   ],
+   "inference": "The rite can destroy the target's mantra power and especially cause death.",
+   "uncertainties": [],
+   "plain_english": "There may be loss of the target's mantra, and especially killing."
+  },
+  {
+   "verse": 4758,
+   "rows": [
+    {
+     "surface": "stambhaṃ",
+     "gloss": "paralysis",
+     "grounds": "ritual effect of immobilization",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidveṣaṇaṃ",
+     "gloss": "enmity",
+     "grounds": "ritual effect of causing hostility",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyādhim",
+     "gloss": "disease",
+     "grounds": "ritual effect of causing illness",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccāṭaṃ",
+     "gloss": "expulsion",
+     "grounds": "ritual effect of driving away",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kurute+naraḥ",
+     "gloss": "performs-person",
+     "grounds": "verb with agent indicating the practitioner accomplishes these acts",
+     "morph": "verb 3.sg.mid-present √kṛ + m.nom.sg"
+    }
+   ],
+   "question": "Which range of coercive ritual effects can a practitioner accomplish through this method?",
+   "premises": [
+    "Paralysis is a possible effect.",
+    "Enmity is a possible effect.",
+    "Disease and expulsion are possible effects.",
+    "A person performs these acts."
+   ],
+   "inference": "The practitioner can effect paralysis, enmity, disease, and expulsion.",
+   "uncertainties": [],
+   "plain_english": "A person can cause paralysis, enmity, disease, and expulsion."
+  },
+  {
+   "verse": 4759,
+   "rows": [
+    {
+     "surface": "dagdhvā",
+     "gloss": "having-burned",
+     "grounds": "absolutive indicating prior act of burning",
+     "morph": "indecl. absolutive √dah"
+    },
+    {
+     "surface": "tadvahnimadhysthaṃ",
+     "gloss": "that-fire-middle-placed",
+     "grounds": "compound describing what is placed in the middle of that fire",
+     "morph": "compound: tad+vahni+madhya+sthaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "sarvaśatrūn",
+     "gloss": "all-enemies",
+     "grounds": "compound object denoting all enemies",
+     "morph": "compound: sarva+śatrūn (m.acc.pl)"
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "should-destroy",
+     "grounds": "optative verb expressing the destructive result",
+     "morph": "verb 3.sg.act-optative √naś (vi-causative)"
+    }
+   ],
+   "question": "How does burning the designated object in fire affect all enemies of the practitioner?",
+   "premises": [
+    "An object is placed in the middle of that fire.",
+    "The object is burned.",
+    "All enemies are the target of destruction."
+   ],
+   "inference": "Burning the designated object in the fire destroys all enemies.",
+   "uncertainties": [
+    "The specific object placed in the fire is implied from prior context."
+   ],
+   "plain_english": "Having burned that which is placed in the middle of the fire, one should destroy all enemies."
+  },
+  {
+   "verse": 4760,
+   "rows": [
+    {
+     "surface": "vidveṣaṇaṃ",
+     "gloss": "enmity",
+     "grounds": "ritual effect of causing mutual hostility",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhaveccakre",
+     "gloss": "arises-in-diagram",
+     "grounds": "fused form of bhavet and cakre indicating occurrence in the diagram",
+     "morph": "verb 3.sg.act-optative √bhū + n.loc.sg"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-very",
+     "grounds": "instrumental with emphatic particle indicating the same means",
+     "morph": "pron.ins.sg.m/n + indecl. eva"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what means does enmity arise within the ritual diagram, O supreme goddess?",
+   "premises": [
+    "Enmity is the effect produced.",
+    "The effect arises in the diagram.",
+    "The same previously mentioned means is used."
+   ],
+   "inference": "By that very means, enmity arises in the diagram.",
+   "uncertainties": [],
+   "plain_english": "By that very means, enmity arises in the diagram, O supreme goddess."
+  },
+  {
+   "verse": 4761,
+   "rows": [
+    {
+     "surface": "sarvasādhyaṃ",
+     "gloss": "all-targets",
+     "grounds": "compound indicating all intended targets as the scope",
+     "morph": "compound: sarva+sādhyaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "samārabhya",
+     "gloss": "having-begun",
+     "grounds": "absolutive indicating commencement of the act",
+     "morph": "indecl. absolutive √rabh (sam-ā)"
+    },
+    {
+     "surface": "madhyāntaṃ",
+     "gloss": "middle-to-end",
+     "grounds": "compound indicating the span from middle to end",
+     "morph": "compound: madhya+antaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "mātṛkāṃ",
+     "gloss": "alphabet-goddess",
+     "grounds": "the mātṛkā sequence to be written",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "optative prescribing the writing act",
+     "morph": "verb 3.sg.act-optative √likh"
+    }
+   ],
+   "question": "How should the mātṛkā be inscribed when encompassing all intended targets?",
+   "premises": [
+    "All targets are included in the operation.",
+    "The writing proceeds from middle to end.",
+    "The mātṛkā must be written."
+   ],
+   "inference": "Beginning with all targets, one should write the mātṛkā from the middle to the end.",
+   "uncertainties": [
+    "The precise spatial or sequential meaning of madhyāntaṃ is context-dependent."
+   ],
+   "plain_english": "Having begun with all targets, one should write the mātṛkā from the middle to the end."
+  },
+  {
+   "verse": 4762,
+   "rows": [
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the ritual agent who attains the result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khecarī",
+     "gloss": "sky-moving",
+     "grounds": "state or power of moving in the sky",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative or epithet invoking the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "present tense indicating attainment or transformation",
+     "morph": "verb 3.sg.mid-present √jan"
+    },
+    {
+     "surface": "nātra+saṃśayaḥ",
+     "gloss": "no-doubt-here",
+     "grounds": "negated doubt asserting certainty of the result",
+     "morph": "indecl. na + indecl. atra + m.nom.sg"
+    }
+   ],
+   "question": "What transformative attainment is assured for the practitioner through this inscription?",
+   "premises": [
+    "The practitioner performs the prescribed act.",
+    "The practitioner becomes sky-moving.",
+    "No doubt exists regarding this attainment."
+   ],
+   "inference": "The practitioner certainly attains the state of moving in the sky.",
+   "uncertainties": [
+    "khecarī may denote a state, power, or identification with the goddess Khecarī."
+   ],
+   "plain_english": "The practitioner becomes a sky-mover, O goddess; there is no doubt about this."
+  },
+  {
+   "verse": 4763,
+   "rows": [
+    {
+     "surface": "ṣaṇmāsakramayogena",
+     "gloss": "by-six-month-ordered-practice",
+     "grounds": "compound instrumental indicating disciplined practice over six months",
+     "morph": "compound: ṣaṇ+māsa+krama+yogena (m.ins.sg)"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb emphasizing immediate or manifest equivalence",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rudra+ivāparaḥ",
+     "gloss": "like-another-rudra",
+     "grounds": "comparison asserting the practitioner becomes like another Rudra",
+     "morph": "m.nom.sg + indecl. iva + m.nom.sg"
+    }
+   ],
+   "question": "What exalted identity does the practitioner attain after six months of ordered practice?",
+   "premises": [
+    "The practice follows a six-month sequence.",
+    "The attainment is direct and manifest.",
+    "The practitioner becomes like another Rudra."
+   ],
+   "inference": "Through six months of ordered practice, the practitioner becomes directly like another Rudra.",
+   "uncertainties": [],
+   "plain_english": "By practicing in order for six months, one becomes directly like another Rudra."
+  },
+  {
+   "verse": 4764,
+   "rows": [
+    {
+     "surface": "khaḍgaṃ",
+     "gloss": "sword",
+     "grounds": "a supernatural attainment or power",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vetālasaubhāgyaṃ",
+     "gloss": "vetāla-mastery",
+     "grounds": "compound denoting fortune or power over vetālas",
+     "morph": "compound: vetāla+saubhāgyaṃ (n.acc.sg)"
+    },
+    {
+     "surface": "yakṣiṇīṃ",
+     "gloss": "yakṣiṇī",
+     "grounds": "a female spirit attained or controlled",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ceṭakādikam",
+     "gloss": "servants-and-others",
+     "grounds": "compound indicating attendant beings and similar attainments",
+     "morph": "compound: ceṭaka+ādikam (n.acc.sg)"
+    }
+   ],
+   "question": "Which supernatural attainments become accessible to the accomplished practitioner?",
+   "premises": [
+    "A sword attainment is gained.",
+    "Mastery over vetālas is gained.",
+    "A yakṣiṇī and servants and others are gained."
+   ],
+   "inference": "The practitioner gains powers including the sword, vetāla mastery, a yakṣiṇī, and attendant beings.",
+   "uncertainties": [
+    "khaḍgaṃ may refer to a magical sword or the sword-siddhi."
+   ],
+   "plain_english": "One obtains the sword, mastery over vetālas, a yakṣiṇī, servants, and other such attainments."
+  },
+  {
+   "verse": 4765,
+   "rows": [
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "locative indicating a lunar day for observance",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "repeated locative emphasizing the lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pratyaṣṭamyāṃ",
+     "gloss": "on-each-eighth-day",
+     "grounds": "locative indicating observance on every eighth lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "concentrated",
+     "grounds": "past participle describing the practitioner's focused state",
+     "morph": "m.nom.sg participle √dhā (sam-ā)"
+    }
+   ],
+   "question": "On which lunar days must the practitioner remain concentrated for this worship?",
+   "premises": [
+    "The fourteenth lunar day is specified.",
+    "The fourteenth lunar day is repeated for emphasis.",
+    "Each eighth lunar day is specified.",
+    "The practitioner must be concentrated."
+   ],
+   "inference": "The practitioner should remain concentrated on the fourteenth days and on each eighth day.",
+   "uncertainties": [
+    "The repetition of caturdaśyāṃ may indicate both fortnights or serve emphatic purposes."
+   ],
+   "plain_english": "On the fourteenth day, on the fourteenth day, and on each eighth day, one should remain focused."
+  },
+  {
+   "verse": 4766,
+   "rows": [
+    {
+     "surface": "śrīcakraṃ",
+     "gloss": "śrīcakra",
+     "grounds": "the sacred diagram to be worshipped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing ritual worship",
+     "morph": "verb 3.sg.act-optative √pūj"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "in-that-manner",
+     "grounds": "adverb indicating conformity with prior instruction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "surapūjyaḥ",
+     "gloss": "worshipped-by-gods",
+     "grounds": "compound describing the practitioner's resulting status",
+     "morph": "compound: sura+pūjyaḥ (m.nom.sg)"
+    },
+    {
+     "surface": "tu+sādhakaḥ",
+     "gloss": "indeed-practitioner",
+     "grounds": "particle with agent emphasizing the practitioner",
+     "morph": "indecl. + m.nom.sg"
+    }
+   ],
+   "question": "What status does the practitioner gain by worshipping the śrīcakra in the prescribed manner?",
+   "premises": [
+    "The śrīcakra must be worshipped.",
+    "The worship follows the prescribed manner.",
+    "The practitioner becomes worshipped by the gods."
+   ],
+   "inference": "By worshipping the śrīcakra in that manner, the practitioner becomes worthy of worship by the gods.",
+   "uncertainties": [],
+   "plain_english": "One should worship the śrīcakra in that manner; the practitioner then becomes worshipped by the gods."
+  },
+  {
+   "verse": 4767,
+   "rows": [
+    {
+     "surface": "kāmo+bhūtvā",
+     "gloss": "having-become-desire",
+     "grounds": "absolutive indicating transformation into Kāma",
+     "morph": "m.nom.sg + indecl. absolutive √bhū"
+    },
+    {
+     "surface": "svargabhūsthapātālatala",
+     "gloss": "heaven-earth-underworld-levels",
+     "grounds": "compound denoting the three realms",
+     "morph": "compound: svarga+bhūstha+pātāla+tala (n.loc.sg implied)"
+    },
+    {
+     "surface": "yoṣitām",
+     "gloss": "of-women",
+     "grounds": "possessive plural indicating women in those realms",
+     "morph": "f.gen.pl"
+    }
+   ],
+   "question": "What transformative power over women in all realms follows from becoming Kāma?",
+   "premises": [
+    "The practitioner becomes Kāma.",
+    "The scope includes heaven, earth, and the underworld.",
+    "Women in these realms are affected."
+   ],
+   "inference": "Having become Kāma, the practitioner exerts influence over women in heaven, earth, and the underworld.",
+   "uncertainties": [
+    "The main verb governing this verse is carried over from adjacent context."
+   ],
+   "plain_english": "Having become Kāma, one affects the women of heaven, earth, and the underworld."
+  },
+  {
+   "verse": 4768,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "in-that-manner",
+     "grounds": "adverb indicating parallel application",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāmeśvarīśastraiḥ",
+     "gloss": "with-kāmeśvarī-weapons",
+     "grounds": "compound instrumental denoting the weapons or powers of Kāmeśvarī",
+     "morph": "compound: kāmeśvarī+śastraiḥ (n.ins.pl)"
+    },
+    {
+     "surface": "devyātmā",
+     "gloss": "goddess-identified-self",
+     "grounds": "compound indicating one whose self is identified with the goddess",
+     "morph": "compound: devī+ātmā (m.nom.sg)"
+    },
+    {
+     "surface": "bhuvanatraye",
+     "gloss": "in-three-worlds",
+     "grounds": "locative compound denoting the three worlds",
+     "morph": "compound: bhuvana+traye (n.loc.sg)"
+    }
+   ],
+   "question": "How does identification with the goddess operate through Kāmeśvarī's weapons in the three worlds?",
+   "premises": [
+    "The action proceeds in the same manner.",
+    "Kāmeśvarī's weapons are employed.",
+    "The practitioner is identified with the goddess.",
+    "The scope is the three worlds."
+   ],
+   "inference": "Identified with the goddess and wielding Kāmeśvarī's weapons, the practitioner acts throughout the three worlds.",
+   "uncertainties": [
+    "The specific action is elliptical and depends on the preceding verse."
+   ],
+   "plain_english": "In the same way, one whose self is the goddess acts in the three worlds with the weapons of Kāmeśvarī."
+  },
+  {
+   "verse": 4769,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the preceding teaching",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "kāmakalādhyānaṃ",
+     "gloss": "kāmakalā-meditation",
+     "grounds": "compound naming the meditation on Kāmakalā",
+     "morph": "compound: kāmakalā+dhyānaṃ (n.nom.sg)"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "past participle indicating transmission of the teaching",
+     "morph": "n.nom.sg participle √kath"
+    },
+    {
+     "surface": "bījabhedataḥ",
+     "gloss": "by-seed-difference",
+     "grounds": "ablative compound indicating variation according to seed syllables",
+     "morph": "compound: bīja+bhedataḥ (m.abl.sg)"
+    }
+   ],
+   "question": "What meditation has been taught and according to what principle does it vary?",
+   "premises": [
+    "The teaching concerns Kāmakalā meditation.",
+    "The meditation has been declared.",
+    "Its variation depends on differences in seed syllables."
+   ],
+   "inference": "This Kāmakalā meditation has been taught according to differences in the seed syllables.",
+   "uncertainties": [],
+   "plain_english": "This meditation on Kāmakalā has been told according to differences in the seed syllables."
+  },
+  {
+   "verse": 4770,
+   "rows": [
+    {
+     "surface": "śvetābhāṃ",
+     "gloss": "white-radiant",
+     "grounds": "compound describing the deity's luminous white appearance",
+     "morph": "compound: śveta+ābhāṃ (f.acc.sg)"
+    },
+    {
+     "surface": "śvetavastrāḍhyāṃ",
+     "gloss": "adorned-with-white-garments",
+     "grounds": "compound describing the deity clothed in white",
+     "morph": "compound: śveta+vastra+āḍhyāṃ (f.acc.sg)"
+    },
+    {
+     "surface": "śvetapuṣpaiḥ",
+     "gloss": "with-white-flowers",
+     "grounds": "instrumental indicating the offerings used in worship",
+     "morph": "compound: śveta+puṣpaiḥ (n.ins.pl)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative prescribing worship",
+     "morph": "verb 3.sg.act-optative √arc (sam)"
+    }
+   ],
+   "question": "How should the white-radiant goddess be visualized and worshipped in this rite?",
+   "premises": [
+    "The goddess is white-radiant.",
+    "The goddess is adorned with white garments.",
+    "White flowers are used for worship."
+   ],
+   "inference": "One should worship the white-radiant, white-garmented goddess with white flowers.",
+   "uncertainties": [],
+   "plain_english": "One should worship her, white-radiant and adorned with white garments, with white flowers."
+  },
+  {
+   "verse": 4771,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle marking a transition to a new topic",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāmakalā",
+     "gloss": "kāmakalā",
+     "grounds": "name of the power or form being introduced",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "adverbial particle indicating designation",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sāmarthya",
+     "gloss": "power",
+     "grounds": "the efficacy or capability to be explained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative calling for attention",
+     "morph": "verb 2.sg.act-imperative √śru"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "pārvatī",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What new teaching about the power called Kāmakalā is about to be revealed to Pārvatī?",
+   "premises": [
+    "A new topic is introduced.",
+    "The subject is the power named Kāmakalā.",
+    "Pārvatī is instructed to listen."
+   ],
+   "inference": "The text now turns to explain the power called Kāmakalā to Pārvatī.",
+   "uncertainties": [],
+   "plain_english": "Now hear, O Pārvatī, the power of that which is called Kāmakalā."
+  },
+  {
+   "verse": 4772,
+   "rows": [
+    {
+     "surface": "mahākāmaḥ",
+     "gloss": "great-desire",
+     "grounds": "the principal Kāma named first",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements in the enumeration",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūrvoktāḥ",
+     "gloss": "previously-stated",
+     "grounds": "compound participle referring to those mentioned earlier",
+     "morph": "compound: pūrva+uktāḥ (m.nom.pl)"
+    },
+    {
+     "surface": "pañcakāmāḥ",
+     "gloss": "five-desires",
+     "grounds": "compound naming the group of five Kāmas",
+     "morph": "compound: pañca+kāmāḥ (m.nom.pl)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental indicating sequential arrangement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle adding emphasis",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How are the great desire and the five previously stated desires ordered in this teaching?",
+   "premises": [
+    "The great desire is named.",
+    "Five desires were previously stated.",
+    "They are to be taken in sequence."
+   ],
+   "inference": "The great desire and the five previously stated desires are arranged in order.",
+   "uncertainties": [
+    "The syntactic relation between mahākāmaḥ and pañcakāmāḥ is compressed."
+   ],
+   "plain_english": "The great desire and the five previously stated desires are indeed taken in order."
+  },
+  {
+   "verse": 4773,
+   "rows": [
+    {
+     "surface": "tatpuṭasthaṃ",
+     "gloss": "placed-in-that-enclosure",
+     "grounds": "compound indicating placement within that cavity or enclosure",
+     "morph": "compound: tat+puṭa+sthaṃ (m.acc.sg)"
+    },
+    {
+     "surface": "mīnaketuṃ",
+     "gloss": "fish-bannered",
+     "grounds": "epithet of Kāma referring to the fish emblem",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahākāmeśamastakam",
+     "gloss": "great-kāmeśa-head",
+     "grounds": "compound naming the head or summit of Mahākāmeśa",
+     "morph": "compound: mahā+kāmeśa+mastakam (n.acc.sg)"
+    }
+   ],
+   "question": "Which elements are placed within the enclosure in this configuration of Kāmakalā?",
+   "premises": [
+    "Something is placed within that enclosure.",
+    "The fish-bannered one is included.",
+    "The head of Mahākāmeśa is included."
+   ],
+   "inference": "The fish-bannered one and the head of Mahākāmeśa are placed within that enclosure.",
+   "uncertainties": [
+    "The exact ritual or diagrammatic configuration is not fully explicit."
+   ],
+   "plain_english": "Placed within that enclosure are the fish-bannered one and the head of Mahākāmeśa."
+  },
+  {
+   "verse": 4774,
+   "rows": [
+    {
+     "surface": "mūlādisṛṣṭisaṃhārabisatantusvarūpiṇī",
+     "gloss": "root-creation-dissolution-thread-formed",
+     "grounds": "long compound describing a form that is the thread of creation and dissolution from the root onward",
+     "morph": "compound: mūla+ādi+sṛṣṭi+saṃhāra+bisa+tantu+svarūpiṇī (f.nom.sg)"
+    }
+   ],
+   "question": "What essential nature is attributed to the power described as the thread of creation and dissolution?",
+   "premises": [
+    "The form extends from the root onward.",
+    "It encompasses creation and dissolution.",
+    "It is characterized as a lotus-fiber thread."
+   ],
+   "inference": "The described power is essentially the continuous thread of creation and dissolution from the root onward.",
+   "uncertainties": [
+    "The referent of this feminine compound is implied from the preceding Kāmakalā context."
+   ],
+   "plain_english": "She is of the nature of the lotus-fiber thread of creation and dissolution, beginning from the root."
+  }
+ ]
+}

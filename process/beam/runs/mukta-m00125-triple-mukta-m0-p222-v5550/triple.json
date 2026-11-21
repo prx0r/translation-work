@@ -1,0 +1,56 @@
+{
+ "song": "mukta-m0-p222",
+ "items": [
+  {
+   "verse": 5550,
+   "rows": [
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative injunction prescribing ritual worship",
+     "morph": "3.sg.act-opt √yaj"
+    },
+    {
+     "surface": "gaṃdhādibhiḥ",
+     "gloss": "with-fragrance-and-others",
+     "grounds": "instrumental denoting the initial items in the offering sequence",
+     "morph": "i.pl.m gandha+ādi-compound"
+    },
+    {
+     "surface": "devān",
+     "gloss": "the-gods",
+     "grounds": "accusative object identifying the deities to be worshipped",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "naivedyāntaiḥ",
+     "gloss": "ending-with-food-offerings",
+     "grounds": "instrumental marking the final item in the offering sequence",
+     "morph": "i.pl.n naivedya+anta-compound"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indeclinable indicating individual treatment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "repeated indeclinable emphasizing individual treatment of each deity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what offerings and in what manner must the surrounding deities be worshipped?",
+   "premises": [
+    "The deities are the objects of worship.",
+    "The offerings begin with fragrance and similar items.",
+    "The offerings conclude with food offerings.",
+    "Each deity is to be worshipped separately."
+   ],
+   "inference": "The surrounding deities must each be worshipped individually with a complete sequence of offerings from fragrance to food.",
+   "uncertainties": [],
+   "plain_english": "One should worship the gods separately, with offerings beginning with fragrance and ending with food."
+  }
+ ]
+}

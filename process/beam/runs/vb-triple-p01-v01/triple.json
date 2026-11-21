@@ -1,0 +1,544 @@
+{
+ "song": "vij-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "trikabhedam",
+     "gloss": "threefold-difference",
+     "grounds": "token as given; no split",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aśeṣeṇa",
+     "gloss": "completely",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sārāt",
+     "gloss": "from-essence",
+     "grounds": "token as given",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sāravibhāgaśaḥ",
+     "gloss": "essence-distinction",
+     "grounds": "token as given",
+     "morph": "adv"
+    }
+   ],
+   "question": "How is the threefold difference distinguished from essence?",
+   "premises": [
+    "trikabhedam is distinguished completely",
+    "sārāt supplies the source",
+    "sāravibhāgaśaḥ marks distinction"
+   ],
+   "inference": "Essence distinction arises from essence.",
+   "uncertainties": [
+    "compound analysis not expanded"
+   ],
+   "plain_english": "The threefold difference is completely distinguished from essence by essence-distinction."
+  },
+  {
+   "verse": 2,
+   "rows": [
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navātmaka",
+     "gloss": "ninefold-nature",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhāvena",
+     "gloss": "by-state",
+     "grounds": "token as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "bhairave",
+     "gloss": "in-bhairava",
+     "grounds": "token as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhairavākṛtau",
+     "gloss": "in-bhairava-form",
+     "grounds": "token as given",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is the ninefold nature in Bhairava form?",
+   "premises": [
+    "kiṃ asks the nature",
+    "navātmaka names ninefold nature",
+    "bhāvena gives state"
+   ],
+   "inference": "The ninefold nature is queried in Bhairava form.",
+   "uncertainties": [
+    "locative sense inferred"
+   ],
+   "plain_english": "What is the ninefold nature by state in Bhairava and Bhairava form?"
+  },
+  {
+   "verse": 3,
+   "rows": [
+    {
+     "surface": "nādabindu",
+     "gloss": "sound-point",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mayaṃ",
+     "gloss": "made-of",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "candrāvanirodhakam",
+     "gloss": "moon-earth-blocking",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "Is sound-point made-of or moon-earth-blocking?",
+   "premises": [
+    "nādabindu mayaṃ is one option",
+    "vāpi introduces alternative",
+    "candrāvanirodhakam is another option"
+   ],
+   "inference": "The verse poses an alternative between sound-point and moon-earth-blocking.",
+   "uncertainties": [
+    "compound sense inferred"
+   ],
+   "plain_english": "Is it sound-point made-of, or moon-earth-blocking?"
+  },
+  {
+   "verse": 4,
+   "rows": [
+    {
+     "surface": "parāparāyāḥ",
+     "gloss": "of-supreme-inferior",
+     "grounds": "token as given",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "sakalam",
+     "gloss": "all",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aparāyāśca",
+     "gloss": "of-inferior",
+     "grounds": "token as given",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "token as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Is all of supreme-inferior or inferior again?",
+   "premises": [
+    "parāparāyāḥ is one source",
+    "sakalam is all",
+    "aparāyāśca is another source"
+   ],
+   "inference": "The verse contrasts supreme-inferior and inferior sources.",
+   "uncertainties": [
+    "genitive scope inferred"
+   ],
+   "plain_english": "Is all from supreme-inferior, or from inferior again?"
+  },
+  {
+   "verse": 5,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "varṇavibhedena",
+     "gloss": "by-letter-difference",
+     "grounds": "token as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dehabhedena",
+     "gloss": "by-body-difference",
+     "grounds": "token as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "token as given",
+     "morph": "v.3.sg.opt"
+    }
+   ],
+   "question": "Would it be by letter or body difference?",
+   "premises": [
+    "na hi denies",
+    "varṇavibhedena is one cause",
+    "dehabhedena is another cause"
+   ],
+   "inference": "Neither letter nor body difference would be the cause.",
+   "uncertainties": [
+    "optative force inferred"
+   ],
+   "plain_english": "Indeed it would not be by letter difference or by body difference."
+  },
+  {
+   "verse": 6,
+   "rows": [
+    {
+     "surface": "prasādaṃ",
+     "gloss": "favor",
+     "grounds": "token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "token as given",
+     "morph": "v.2.sg.imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "token as given",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "lord",
+     "grounds": "token as given",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "niśśeṣaṃ",
+     "gloss": "completely",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cchindisaṃśayam",
+     "gloss": "cut-doubt",
+     "grounds": "token as given",
+     "morph": "v.2.sg.imp"
+    }
+   ],
+   "question": "Will the lord do favor and cut doubt?",
+   "premises": [
+    "prasādaṃ kuru me is request",
+    "nātha addresses lord",
+    "niśśeṣaṃ cchindisaṃśayam completes request"
+   ],
+   "inference": "The speaker asks the lord to grant favor and cut doubt completely.",
+   "uncertainties": [
+    "imperative parsing inferred"
+   ],
+   "plain_english": "Lord, do favor to me and cut doubt completely."
+  },
+  {
+   "verse": 7,
+   "rows": [
+    {
+     "surface": "gūhanīyatamaṃ",
+     "gloss": "most-secret",
+     "grounds": "token as given",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "blessed-one",
+     "grounds": "token as given",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "nevertheless",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kathayāmite",
+     "gloss": "I-tell",
+     "grounds": "token as given",
+     "morph": "v.1.sg"
+    }
+   ],
+   "question": "Why tell the most secret nevertheless?",
+   "premises": [
+    "gūhanīyatamaṃ is most secret",
+    "bhadre addresses blessed one",
+    "tathāpi means nevertheless"
+   ],
+   "inference": "The speaker nevertheless tells the most secret thing.",
+   "uncertainties": [
+    "verb form inferred"
+   ],
+   "plain_english": "Blessed one, nevertheless I tell the most secret thing."
+  },
+  {
+   "verse": 8,
+   "rows": [
+    {
+     "surface": "tadasāratayā",
+     "gloss": "by-its-essencelessness",
+     "grounds": "token as given",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "token as given",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "cakrajālavat",
+     "gloss": "like-wheel-net",
+     "grounds": "token as given",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is it to be known by essencelessness?",
+   "premises": [
+    "tadasāratayā gives reason",
+    "devi addresses goddess",
+    "vijñeyaṃ is to be known"
+   ],
+   "inference": "It is to be known by its essencelessness, like a wheel-net.",
+   "uncertainties": [
+    "comparative force inferred"
+   ],
+   "plain_english": "Goddess, by its essencelessness it is to be known like a wheel-net."
+  },
+  {
+   "verse": 9,
+   "rows": [
+    {
+     "surface": "dhyānārthaṃ",
+     "gloss": "for-meditation",
+     "grounds": "token as given",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "bhrāntabuddhīnām",
+     "gloss": "of-deluded-minds",
+     "grounds": "token as given",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kriyāḍambaravartinām",
+     "gloss": "of-ritual-pomp-followers",
+     "grounds": "token as given",
+     "morph": "n.gen.pl"
+    }
+   ],
+   "question": "For whom is meditation intended among deluded minds?",
+   "premises": [
+    "dhyānārthaṃ is for meditation",
+    "bhrāntabuddhīnām are deluded minds",
+    "kriyāḍambaravartinām follow ritual pomp"
+   ],
+   "inference": "Meditation is for deluded minds following ritual pomp.",
+   "uncertainties": [
+    "dative purpose inferred"
+   ],
+   "plain_english": "For meditation for deluded minds following ritual pomp."
+  },
+  {
+   "verse": 10,
+   "rows": [
+    {
+     "surface": "tattvato",
+     "gloss": "in-truth",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navātmāsau",
+     "gloss": "ninefold-self",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śabdarāśiḥ",
+     "gloss": "sound-mass",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhairavaḥ",
+     "gloss": "bhairava",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "In truth is ninefold-self sound-mass or Bhairava?",
+   "premises": [
+    "tattvato sets truth",
+    "na navātmāsau denies ninefold-self",
+    "na bhairavaḥ denies Bhairava"
+   ],
+   "inference": "In truth neither ninefold-self nor sound-mass is Bhairava.",
+   "uncertainties": [
+    "copula omitted"
+   ],
+   "plain_english": "In truth, the ninefold self is not sound-mass, nor is it Bhairava."
+  },
+  {
+   "verse": 11,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cakrakramasaṃ",
+     "gloss": "wheel-sequence",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhinnaṃ",
+     "gloss": "different",
+     "grounds": "token as given",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaktisvarūpakaḥ",
+     "gloss": "shakti-nature",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is wheel-sequence different or shakti-nature?",
+   "premises": [
+    "na cakrakramasaṃ bhinnaṃ denies difference",
+    "na ca śaktisvarūpakaḥ denies shakti-nature"
+   ],
+   "inference": "Neither wheel-sequence difference nor shakti-nature applies.",
+   "uncertainties": [
+    "compound parsing inferred"
+   ],
+   "plain_english": "It is not different from wheel-sequence, nor is it shakti-nature."
+  },
+  {
+   "verse": 12,
+   "rows": [
+    {
+     "surface": "mātṛmodakavat",
+     "gloss": "like-mother-sweet",
+     "grounds": "token as given",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pravṛtyartham",
+     "gloss": "for-activity-purpose",
+     "grounds": "token as given",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "illustrated",
+     "grounds": "token as given",
+     "morph": "v.part"
+    }
+   ],
+   "question": "Why is all illustrated like mother-sweet?",
+   "premises": [
+    "mātṛmodakavat gives simile",
+    "sarvaṃ is all",
+    "pravṛtyartham gives purpose"
+   ],
+   "inference": "All is illustrated like mother-sweet for activity purpose.",
+   "uncertainties": [
+    "participle voice inferred"
+   ],
+   "plain_english": "All is illustrated like mother-sweet for the purpose of activity."
+  }
+ ]
+}

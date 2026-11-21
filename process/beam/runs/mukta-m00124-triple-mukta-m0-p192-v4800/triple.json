@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p192",
+ "items": [
+  {
+   "verse": 4800,
+   "rows": [
+    {
+     "surface": "kalpayeddhastamāne'pi",
+     "gloss": "should-construct-even-in-hand-measure",
+     "grounds": "fused sandhi form kept as one token; internal kalpayet + haste + māne + api not split",
+     "morph": "verb 3.sg.act-opt + noun (indecl.)"
+    },
+    {
+     "surface": "prāguktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "instrumental of prāg-ukta-vidhi; fused compound not split",
+     "morph": "noun instr.sg.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "indeclinable particle; exact syntactic companion left implicit",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Should the temple be proportioned by hand measure according to the previously stated method?",
+   "premises": [
+    "Temple proportions follow stated fractional divisions.",
+    "Hand measure may also be used.",
+    "Previously stated method governs construction."
+   ],
+   "inference": "The builder should apply the prior proportional method even when using hand measure.",
+   "uncertainties": [
+    "Exact sandhi decomposition of the fused first token.",
+    "The precise companion intended by saha."
+   ],
+   "plain_english": "Even when measuring by the hand, one should construct the temple according to the previously stated method, together with those proportions."
+  }
+ ]
+}

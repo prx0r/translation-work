@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "dvisaptatisahasrāṇi",
+     "gloss": "seventy-two-thousands",
+     "grounds": "numeral compound expressing the quantity seventy-two thousand",
+     "morph": "compound:n.nom.pl.n"
+    },
+    {
+     "surface": "śarīre",
+     "gloss": "in-body",
+     "grounds": "locative form indicating the locus within the physical body",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "nāḍikāḥ",
+     "gloss": "channels",
+     "grounds": "subtle bodily channels or conduits",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "past passive participle indicating traditional teaching or recollection",
+     "morph": "ppp.nom.pl.f(smṛ)"
+    }
+   ],
+   "question": "What total number of subtle channels is held to exist within the body?",
+   "premises": [
+    "The stated quantity is seventy-two thousand.",
+    "The channels are located within the body.",
+    "These channels are traditionally remembered as established."
+   ],
+   "inference": "The body is held to contain seventy-two thousand subtle channels.",
+   "uncertainties": [],
+   "plain_english": "Seventy-two thousand channels are traditionally held to exist in the body."
+  }
+ ]
+}

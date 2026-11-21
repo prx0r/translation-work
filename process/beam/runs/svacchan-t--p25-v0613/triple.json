@@ -1,0 +1,485 @@
+{
+ "song": "sva-p25",
+ "items": [
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "niṣkalaḥ",
+     "gloss": "partless",
+     "grounds": "partless",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicitredṛkkalāyogāt",
+     "gloss": "various-eye-kalā-union",
+     "grounds": "from union of various eye-kalā",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "sakalaniṣkalaḥ",
+     "gloss": "with-parts-and-partless",
+     "grounds": "with parts and partless",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "is called",
+     "morph": "3.sg.pass.pres root vac"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can the partless one be called with-parts-and-partless?",
+   "premises": [
+    "Partless one through union with various eye-kalā becomes with-parts-and-partless."
+   ],
+   "inference": "Thus the partless one is called with-parts-and-partless.",
+   "uncertainties": [
+    "Internal sandhi in vicitredṛkkalāyogāt is not expanded."
+   ],
+   "plain_english": "Even the partless one, through union with various eye-kalās, is called with-parts-and-partless; thus is the meaning."
+  },
+  {
+   "verse": 614,
+   "rows": [
+    {
+     "surface": "sandhānāt",
+     "gloss": "by-union",
+     "grounds": "by union",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mantraviśrāntyā",
+     "gloss": "mantra-rest",
+     "grounds": "by mantra rest",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "ārohāt",
+     "gloss": "ascent",
+     "grounds": "ascent",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What brings ascent through mantra rest?",
+   "premises": [
+    "Ascent comes from union and mantra rest."
+   ],
+   "inference": "Thus ascent is explained by union and mantra rest.",
+   "uncertainties": [
+    "Compound boundaries are not expanded."
+   ],
+   "plain_english": "Ascent comes by union and by mantra rest; thus is the meaning."
+  },
+  {
+   "verse": 615,
+   "rows": [
+    {
+     "surface": "paramakāraṇatvena",
+     "gloss": "as-supreme-cause",
+     "grounds": "as supreme cause",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "paramaśivāt",
+     "gloss": "from-supreme-śiva",
+     "grounds": "from supreme Śiva",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vaiśiṣṭyam",
+     "gloss": "distinction",
+     "grounds": "distinction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "said",
+     "grounds": "said",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "would be",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is distinction from supreme Śiva stated?",
+   "premises": [
+    "Distinction from supreme Śiva is stated as supreme cause."
+   ],
+   "inference": "Thus the distinction would be as stated.",
+   "uncertainties": [
+    "Optative force is context-dependent."
+   ],
+   "plain_english": "The distinction from supreme Śiva, as supreme cause, is said; thus it would be."
+  },
+  {
+   "verse": 616,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anāhatanāthaḥ",
+     "gloss": "unstruck-lord",
+     "grounds": "unstruck lord",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nidīṣṭaḥ",
+     "gloss": "instructed",
+     "grounds": "instructed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "he",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirguṇatvāt",
+     "gloss": "qualitylessness",
+     "grounds": "because of qualitylessness",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-principle",
+     "grounds": "in principle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣkalaḥ",
+     "gloss": "partless",
+     "grounds": "partless",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the instructed unstruck lord partless in principle?",
+   "premises": [
+    "The instructed unstruck lord is partless because of qualitylessness."
+   ],
+   "inference": "Thus in principle he is partless.",
+   "uncertainties": [
+    "tattvataḥ may be adverbial."
+   ],
+   "plain_english": "Thus the instructed unstruck lord is indeed partless in principle because of qualitylessness."
+  },
+  {
+   "verse": 617,
+   "rows": [
+    {
+     "surface": "sakale",
+     "gloss": "in-parted",
+     "grounds": "in parted form",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "japyamāne",
+     "gloss": "being-recited",
+     "grounds": "being recited",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtaḥ",
+     "gloss": "recited",
+     "grounds": "recited",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "becomes",
+     "morph": "3.sg.pres root bhū"
+    },
+    {
+     "surface": "niṣkalaḥ",
+     "gloss": "partless",
+     "grounds": "partless",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What happens when the partless is recited in parted form?",
+   "premises": [
+    "When recited in parted form, the partless becomes recited."
+   ],
+   "inference": "Thus the partless becomes recited in parted form.",
+   "uncertainties": [
+    "Passive participle agreement is context-dependent."
+   ],
+   "plain_english": "But when recited in parted form, the partless becomes recited."
+  },
+  {
+   "verse": 618,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhakalāyukte",
+     "gloss": "sixth-kalā-endowed",
+     "grounds": "endowed with sixth kalā",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What is endowed with the sixth kalā?",
+   "premises": [
+    "The subject is endowed with the sixth kalā."
+   ],
+   "inference": "Thus the sixth kalā is present.",
+   "uncertainties": [
+    "No finite verb is given."
+   ],
+   "plain_english": "Endowed with the sixth kalā."
+  },
+  {
+   "verse": 619,
+   "rows": [
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "more",
+     "grounds": "more",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does more signify here?",
+   "premises": [
+    "More is the intended meaning."
+   ],
+   "inference": "Thus more is meant.",
+   "uncertainties": [
+    "Elliptical context."
+   ],
+   "plain_english": "More; thus is the meaning."
+  },
+  {
+   "verse": 620,
+   "rows": [
+    {
+     "surface": "vācyarūpāḥ",
+     "gloss": "spoken-forms",
+     "grounds": "spoken forms",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "five",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What five spoken forms are meant?",
+   "premises": [
+    "Five spoken forms are listed."
+   ],
+   "inference": "Thus five spoken forms are intended.",
+   "uncertainties": [
+    "No verb is supplied."
+   ],
+   "plain_english": "And five spoken forms."
+  },
+  {
+   "verse": 621,
+   "rows": [
+    {
+     "surface": "mahāvimarśabhittiṃ",
+     "gloss": "great-reflection-wall",
+     "grounds": "great reflection wall",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "without",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "of-any",
+     "grounds": "of any",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "asphuraṇāt",
+     "gloss": "non-manifestation",
+     "grounds": "because of non-manifestation",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is there non-manifestation without the great reflection wall?",
+   "premises": [
+    "Without the great reflection wall, there is non-manifestation of any."
+   ],
+   "inference": "Thus non-manifestation follows from lacking the great reflection wall.",
+   "uncertainties": [
+    "Compound analysis is not expanded."
+   ],
+   "plain_english": "Without the great reflection wall, there is non-manifestation of any; thus is the meaning."
+  },
+  {
+   "verse": 622,
+   "rows": [
+    {
+     "surface": "anyatantrasiddhāntavailakṣaṇyena",
+     "gloss": "other-tantra-doctrine-distinctness",
+     "grounds": "by distinctness from other tantra doctrine",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "thus meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does distinctness from other tantra doctrine apply?",
+   "premises": [
+    "Distinctness from other tantra doctrine is the meaning."
+   ],
+   "inference": "Thus the meaning is distinctness from other tantra doctrine.",
+   "uncertainties": [
+    "Long compound is not expanded."
+   ],
+   "plain_english": "By distinctness from other tantra doctrine; thus is the meaning."
+  },
+  {
+   "verse": 623,
+   "rows": [
+    {
+     "surface": "varaṇānām",
+     "gloss": "of-letters",
+     "grounds": "of letters",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvoktayuktyā",
+     "gloss": "by-previously-said-reasoning",
+     "grounds": "by previously said reasoning",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "praṇavatvam",
+     "gloss": "praṇava-ness",
+     "grounds": "praṇava-ness",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How do letters have praṇava-ness?",
+   "premises": [
+    "Letters have praṇava-ness by previously said reasoning."
+   ],
+   "inference": "Thus letters are praṇava-like by that reasoning.",
+   "uncertainties": [
+    "pūrvokta refers to unstated prior reasoning."
+   ],
+   "plain_english": "And letters have praṇava-ness by the previously said reasoning."
+  },
+  {
+   "verse": 624,
+   "rows": [
+    {
+     "surface": "praṇavāḥ",
+     "gloss": "praṇavas",
+     "grounds": "praṇavas",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prārambha",
+     "gloss": "beginning",
+     "grounds": "beginning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktamasmābhiḥ",
+     "gloss": "said-by-us",
+     "grounds": "said by us",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What did we say about praṇavas as beginning?",
+   "premises": [
+    "Praṇavas are indeed the beginning, as said by us."
+   ],
+   "inference": "Thus praṇavas are the beginning.",
+   "uncertainties": [
+    "uktamasmābhiḥ is a fused form."
+   ],
+   "plain_english": "Praṇavas are indeed the beginning, as said by us."
+  }
+ ]
+}

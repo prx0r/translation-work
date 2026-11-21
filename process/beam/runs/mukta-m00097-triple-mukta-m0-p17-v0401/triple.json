@@ -1,0 +1,913 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "niyojitāḥ",
+     "gloss": "appointed",
+     "grounds": "legacy hint appointed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "punarmādanāḥ",
+     "gloss": "again-madana",
+     "grounds": "legacy hint again-madana",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śarā",
+     "gloss": "arrows",
+     "grounds": "legacy hint arrows",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhavantīti",
+     "gloss": "become-thus",
+     "grounds": "legacy hint become-thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vākyārthaḥ",
+     "gloss": "sentence-meaning",
+     "grounds": "legacy hint sentence-meaning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "legacy hint by-that",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "hayaralaveti",
+     "gloss": "hayarala-thus",
+     "grounds": "legacy hint hayarala-thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramaḥ",
+     "gloss": "order",
+     "grounds": "legacy hint order",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sentence meaning explains the appointed arrows becoming madana again?",
+   "premises": [
+    "appointed arrows become madana again",
+    "sentence meaning is stated",
+    "order follows by that"
+   ],
+   "inference": "The verse states the sentence meaning and order of appointed arrows becoming madana again.",
+   "uncertainties": [
+    "exact grammatical number of niyojitāḥ"
+   ],
+   "plain_english": "The appointed arrows become madana again; this is the sentence meaning, and the order follows by that."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "rudraśaktiḥ",
+     "gloss": "rudra-power",
+     "grounds": "legacy hint rudra-power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṇḍalākhyā",
+     "gloss": "kundala-named",
+     "grounds": "legacy hint kundala-named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māyā",
+     "gloss": "maya",
+     "grounds": "legacy hint maya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "strīpāśa",
+     "gloss": "woman-noose",
+     "grounds": "legacy hint woman-noose",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "legacy hint is-called",
+     "morph": "3.sg.pass-pres + root uc"
+    }
+   ],
+   "question": "What is rudra power named kundala called in this teaching?",
+   "premises": [
+    "rudra power is named kundala",
+    "maya is involved",
+    "woman noose is called"
+   ],
+   "inference": "Rudra power named kundala, maya, and woman noose are identified as called.",
+   "uncertainties": [
+    "exact relation among the three terms"
+   ],
+   "plain_english": "Rudra power named kundala, maya, and woman noose are called."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "strīpuṃskodaṇḍayugalaṃ",
+     "gloss": "woman-man-bow-pair",
+     "grounds": "legacy hint woman-man-bow-pair",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmāgnivyāpako'ṅkuśaḥ",
+     "gloss": "kama-fire-pervading-goad",
+     "grounds": "legacy hint kama-fire-pervading-goad",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What pair of bows and pervading goad are named here?",
+   "premises": [
+    "woman and man bow pair is named",
+    "kama fire pervading goad is named"
+   ],
+   "inference": "The verse names the woman-man bow pair and the kama-fire pervading goad.",
+   "uncertainties": [
+    "exact syntactic relation between the two compounds"
+   ],
+   "plain_english": "The woman-man bow pair and the kama-fire pervading goad are named."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "madhyagataṃ",
+     "gloss": "middle-seed",
+     "grounds": "legacy hint middle-seed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "legacy hint bījaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṃ",
+     "gloss": "aṃ",
+     "grounds": "legacy hint aṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "haṃ",
+     "grounds": "legacy hint haṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "yaṃ",
+     "grounds": "legacy hint yaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raṃ",
+     "gloss": "raṃ",
+     "grounds": "legacy hint raṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laṃ",
+     "gloss": "laṃ",
+     "grounds": "legacy hint laṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃ",
+     "gloss": "vaṃ",
+     "grounds": "legacy hint vaṃ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What seed in the middle is followed by these syllables?",
+   "premises": [
+    "middle seed is named",
+    "aṃ thus haṃ yaṃ raṃ laṃ vaṃ follow"
+   ],
+   "inference": "The verse names a middle seed and lists the syllables aṃ, haṃ, yaṃ, raṃ, laṃ, vaṃ.",
+   "uncertainties": [
+    "exact ritual mapping of each syllable"
+   ],
+   "plain_english": "The middle seed is named, followed by aṃ, haṃ, yaṃ, raṃ, laṃ, and vaṃ."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "tā",
+     "gloss": "those",
+     "grounds": "legacy hint those",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvacakreṣu",
+     "gloss": "all-cakras",
+     "grounds": "legacy hint all-cakras",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pūjākāle",
+     "gloss": "worship-time",
+     "grounds": "legacy hint worship-time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "worship",
+     "grounds": "legacy hint worship",
+     "morph": "3.sg.opt-pres + root pūj"
+    }
+   ],
+   "question": "What should be worshipped in all cakras at worship time?",
+   "premises": [
+    "those indeed are named",
+    "all cakras are named",
+    "worship time is named",
+    "worship is commanded"
+   ],
+   "inference": "The verse commands worship of those in all cakras at worship time.",
+   "uncertainties": [
+    "referent of tā"
+   ],
+   "plain_english": "Those should indeed be worshipped in all cakras at worship time."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "prāgeva",
+     "gloss": "before",
+     "grounds": "legacy hint before",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktaprāyam",
+     "gloss": "said-already",
+     "grounds": "legacy hint said-already",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What has already been said before in this context?",
+   "premises": [
+    "before is stated",
+    "said already is stated"
+   ],
+   "inference": "The verse says that the matter has already been said before.",
+   "uncertainties": [
+    "exact referent of the already said matter"
+   ],
+   "plain_english": "It has already been said before."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "naitasyāḥ",
+     "gloss": "not",
+     "grounds": "legacy hint not",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sadṛśī",
+     "gloss": "similar",
+     "grounds": "legacy hint similar",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kācidvidyā",
+     "gloss": "any",
+     "grounds": "legacy hint any",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "legacy hint exists",
+     "morph": "3.sg.pres-pass + root vid"
+    }
+   ],
+   "question": "Is there any vidya similar to this one, O goddess?",
+   "premises": [
+    "not similar is stated",
+    "any vidya is denied",
+    "goddess is addressed",
+    "exists is stated"
+   ],
+   "inference": "The verse denies that any similar vidya exists for this one.",
+   "uncertainties": [
+    "exact referent of etasyāḥ"
+   ],
+   "plain_english": "O goddess, no similar vidya exists for this."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "trailokyamohanaṃ",
+     "gloss": "three-worlds-enchanting",
+     "grounds": "legacy hint three-worlds-enchanting",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpamakāṣīdbhagavānhariḥ",
+     "gloss": "form",
+     "grounds": "legacy hint form",
+     "morph": "3.sg.aor-act + root kṛ"
+    }
+   ],
+   "question": "What form did the blessed Hari make that enchants three worlds?",
+   "premises": [
+    "three worlds enchanting is stated",
+    "form is stated",
+    "blessed Hari made it"
+   ],
+   "inference": "The verse says blessed Hari made a form enchanting the three worlds.",
+   "uncertainties": [
+    "exact form described"
+   ],
+   "plain_english": "Blessed Hari made a form enchanting the three worlds."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "samārādhyābhavalloke",
+     "gloss": "well-worshipped",
+     "grounds": "legacy hint well-worshipped",
+     "morph": "3.sg.aor-mid + root bhū"
+    },
+    {
+     "surface": "sarvasaubhāgyasundaraḥ",
+     "gloss": "all-auspicious-beautiful",
+     "grounds": "legacy hint all-auspicious-beautiful",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes well worshipped and all-auspicious beautiful in the world?",
+   "premises": [
+    "well worshipped in world is stated",
+    "all auspicious beautiful is stated"
+   ],
+   "inference": "The verse describes one who becomes well worshipped and all-auspicious beautiful in the world.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "He becomes well worshipped in the world and all-auspicious beautiful."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "japyaṃ",
+     "gloss": "japa",
+     "grounds": "legacy hint japa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trisandhyametasyāstadetatpadasiddhaye",
+     "gloss": "three-sandhyas",
+     "grounds": "legacy hint three-sandhyas",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "What japa at three sandhyas leads to attainment of this pada?",
+   "premises": [
+    "japa is named",
+    "three sandhyas is named",
+    "attainment of pada is named"
+   ],
+   "inference": "The verse names japa at three sandhyas for attainment of this pada.",
+   "uncertainties": [
+    "exact pada referred to"
+   ],
+   "plain_english": "Japa at the three sandhyas is for attainment of this pada."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "tathaivāparakandarpo",
+     "gloss": "thus-also",
+     "grounds": "legacy hint thus-also",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāhyamadhyāntare'rcanāt",
+     "gloss": "external-middle-end-worship",
+     "grounds": "legacy hint external-middle-end-worship",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What does another kandarpa accomplish through external middle and end worship?",
+   "premises": [
+    "thus also another kandarpa is named",
+    "external middle end worship is named"
+   ],
+   "inference": "The verse connects another kandarpa with worship in external, middle, and end.",
+   "uncertainties": [
+    "exact ritual result"
+   ],
+   "plain_english": "Thus also another kandarpa arises from worship in external, middle, and end."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "sādhayetkhecarīsiddhimaṇimādiguṇānvitām",
+     "gloss": "accomplish",
+     "grounds": "legacy hint accomplish",
+     "morph": "3.sg.opt-pres + root sādh"
+    }
+   ],
+   "question": "What siddhi with anima and other gunas is to be accomplished?",
+   "premises": [
+    "accomplish is commanded",
+    "khecarī siddhi is named",
+    "anima and other gunas are named"
+   ],
+   "inference": "The verse commands accomplishing khecarī siddhi endowed with anima and other gunas.",
+   "uncertainties": [
+    "exact list of gunas"
+   ],
+   "plain_english": "One should accomplish khecarī siddhi endowed with anima and other gunas."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "kaḥ",
+     "gloss": "who",
+     "grounds": "legacy hint who",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalayituṃ",
+     "gloss": "to-measure",
+     "grounds": "legacy hint to-measure",
+     "morph": "inf + root kal"
+    },
+    {
+     "surface": "samartha",
+     "gloss": "able",
+     "grounds": "legacy hint able",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "legacy hint auspicious",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who is able to measure this auspicious thing?",
+   "premises": [
+    "who is asked",
+    "to measure is named",
+    "able is named",
+    "thus is stated",
+    "auspicious is named"
+   ],
+   "inference": "The verse asks who is able to measure the auspicious thing.",
+   "uncertainties": [
+    "referent of śivam"
+   ],
+   "plain_english": "Who is able to measure this auspicious thing?"
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājānakaśrīmañjayarathaviracite",
+     "gloss": "rajanaka-sri-manjaya-ratha-composed",
+     "grounds": "legacy hint rajanaka-sri-manjaya-ratha-composed",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śrīvāmakeśvarīmatavivaraṇe",
+     "gloss": "sri-vamakesvari-mata-commentary",
+     "grounds": "legacy hint sri-vamakesvari-mata-commentary",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caturthaḥ",
+     "gloss": "fourth",
+     "grounds": "legacy hint fourth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "legacy hint chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter is named in this composed commentary?",
+   "premises": [
+    "thus is stated",
+    "composed by rajanaka sri manjaya ratha is stated",
+    "commentary on sri vamakesvari mata is stated",
+    "fourth chapter is stated"
+   ],
+   "inference": "The verse names the fourth chapter in the composed commentary.",
+   "uncertainties": [
+    "exact colophon scope"
+   ],
+   "plain_english": "Thus ends the fourth chapter in the commentary composed by rajanaka sri manjaya ratha."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "kāmatattvaṃ",
+     "gloss": "kama-tattva",
+     "grounds": "legacy hint kama-tattva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣajñānaṃ",
+     "gloss": "poison-knowledge",
+     "grounds": "legacy hint poison-knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mokṣatattvaṃ",
+     "gloss": "liberation-tattva",
+     "grounds": "legacy hint liberation-tattva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "legacy hint three",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What three tattvas are named in this teaching?",
+   "premises": [
+    "kama tattva is named",
+    "poison knowledge is named",
+    "liberation tattva is named",
+    "three is named",
+    "thus is stated"
+   ],
+   "inference": "The verse names kama tattva, poison knowledge, and liberation tattva as three.",
+   "uncertainties": [
+    "exact relation among the three"
+   ],
+   "plain_english": "Kama tattva, poison knowledge, and liberation tattva are the three."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "yenānuṣṭhitamātreṇa",
+     "gloss": "by-whom-performed-merely",
+     "grounds": "legacy hint by-whom-performed-merely",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mandabhāgyo'pi",
+     "gloss": "unfortunate",
+     "grounds": "legacy hint unfortunate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhyati",
+     "gloss": "succeeds",
+     "grounds": "legacy hint succeeds",
+     "morph": "3.sg.pres-act + root siddh"
+    }
+   ],
+   "question": "What happens when this is merely performed even by an unfortunate person?",
+   "premises": [
+    "by whom performed merely is stated",
+    "unfortunate also is stated",
+    "succeeds is stated"
+   ],
+   "inference": "The verse says that even an unfortunate person succeeds when this is merely performed.",
+   "uncertainties": [
+    "referent of yenānuṣṭhitamātreṇa"
+   ],
+   "plain_english": "Even an unfortunate person succeeds when this is merely performed."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "trayamiti",
+     "gloss": "three",
+     "grounds": "legacy hint three",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samastatvenetyarthaḥ",
+     "gloss": "as-totality",
+     "grounds": "legacy hint as-totality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of the three as totality?",
+   "premises": [
+    "three is stated",
+    "as totality is stated"
+   ],
+   "inference": "The verse explains the three as totality.",
+   "uncertainties": [
+    "exact totality referred to"
+   ],
+   "plain_english": "The three are explained as totality."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "japahomavidhānaṃ",
+     "gloss": "japa-homa-rite",
+     "grounds": "legacy hint japa-homa-rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samīhitaphalapradam",
+     "gloss": "desired-fruit-giving",
+     "grounds": "legacy hint desired-fruit-giving",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What rite gives the desired fruit?",
+   "premises": [
+    "japa homa rite is named",
+    "indeed is stated",
+    "desired fruit giving is named"
+   ],
+   "inference": "The verse says the japa homa rite gives the desired fruit.",
+   "uncertainties": [
+    "exact rite details"
+   ],
+   "plain_english": "The japa homa rite indeed gives the desired fruit."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "madhyaṃ",
+     "gloss": "middle",
+     "grounds": "legacy hint middle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "alone",
+     "grounds": "legacy hint alone",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "legacy hint goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vāhyamadhyagataṃ",
+     "gloss": "external-middle-included",
+     "grounds": "legacy hint external-middle-included",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "legacy hint tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "legacy hint or",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What middle or external-middle options are addressed to the goddess?",
+   "premises": [
+    "middle is named",
+    "or is stated",
+    "alone is named",
+    "goddess is addressed",
+    "external middle included is named",
+    "tu is stated",
+    "or is stated"
+   ],
+   "inference": "The verse presents middle, alone, or external-middle-included options addressed to the goddess.",
+   "uncertainties": [
+    "exact ritual choice"
+   ],
+   "plain_english": "Middle, or alone, O goddess, or external-middle-included, tu, or."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "vratasthaḥ",
+     "gloss": "vow-holder",
+     "grounds": "legacy hint vow-holder",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "supreme-goddess",
+     "grounds": "legacy hint supreme-goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tato'nantaphalaṃ",
+     "gloss": "then",
+     "grounds": "legacy hint then",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "labhet",
+     "grounds": "legacy hint labhet",
+     "morph": "3.sg.opt-pres + root labh"
+    }
+   ],
+   "question": "What does a vow holder obtain from the supreme goddess?",
+   "premises": [
+    "vow holder is named",
+    "supreme goddess is addressed",
+    "then infinite fruit is named",
+    "labhet is stated"
+   ],
+   "inference": "The verse says a vow holder obtains infinite fruit from the supreme goddess.",
+   "uncertainties": [
+    "exact fruit"
+   ],
+   "plain_english": "A vow holder obtains infinite fruit, O supreme goddess."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "jhaṃmanyakuvikalpavikalpanena",
+     "gloss": "jhaṃ-manyaku-vikalpa-vikalpanena",
+     "grounds": "legacy hint jhaṃ-manyaku-vikalpa-vikalpanena",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "What is accomplished by this vikalpa vikalpana?",
+   "premises": [
+    "jhaṃ manyaku vikalpa vikalpanena is named"
+   ],
+   "inference": "The verse names a vikalpa vikalpana by jhaṃ manyaku.",
+   "uncertainties": [
+    "exact meaning of the compound"
+   ],
+   "plain_english": "By jhaṃ manyaku vikalpa vikalpana."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "pūrvoktadhyānayogena",
+     "gloss": "before-said-meditation-yoga",
+     "grounds": "legacy hint before-said-meditation-yoga",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃcintya",
+     "gloss": "considering",
+     "grounds": "legacy hint considering",
+     "morph": "absolutive + root cint"
+    },
+    {
+     "surface": "japamārabhet",
+     "gloss": "japa-begin",
+     "grounds": "legacy hint japa-begin",
+     "morph": "3.sg.opt-pres + root ārabh"
+    }
+   ],
+   "question": "How should japa be begun according to this instruction?",
+   "premises": [
+    "before said meditation yoga is named",
+    "considering is named",
+    "japa begin is commanded"
+   ],
+   "inference": "The verse commands beginning japa after considering with the before-said meditation yoga.",
+   "uncertainties": [
+    "exact meditation yoga"
+   ],
+   "plain_english": "Considering with the before-said meditation yoga, one should begin japa."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "cakramiti",
+     "gloss": "cakra",
+     "grounds": "legacy hint cakra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "triprakāramapi",
+     "gloss": "threefold-also",
+     "grounds": "legacy hint threefold-also",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is said to be threefold also?",
+   "premises": [
+    "cakra is named",
+    "threefold also is stated"
+   ],
+   "inference": "The verse says the cakra is threefold also.",
+   "uncertainties": [
+    "exact threefold division"
+   ],
+   "plain_english": "The cakra is threefold also."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "pūrvoktanyāsasaṃnaddho",
+     "gloss": "before-said-nyasa-equipped",
+     "grounds": "legacy hint before-said-nyasa-equipped",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mudrāsaṃnaddhavigrahaḥ",
+     "gloss": "mudra-equipped-form",
+     "grounds": "legacy hint mudra-equipped-form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form is equipped with before-said nyasa and mudra?",
+   "premises": [
+    "before said nyasa equipped is named",
+    "mudra equipped form is named"
+   ],
+   "inference": "The verse describes a form equipped with before-said nyasa and mudra.",
+   "uncertainties": [
+    "exact form"
+   ],
+   "plain_english": "Equipped with before-said nyasa and mudra is the form."
+  }
+ ]
+}

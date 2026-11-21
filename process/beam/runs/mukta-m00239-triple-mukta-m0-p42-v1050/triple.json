@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "añjyāt",
+     "gloss": "one-should-anoint",
+     "grounds": "optative of root añj",
+     "morph": "opt.3.sg.act root añj"
+    },
+    {
+     "surface": "adhika+hīna+aṅgaṃ",
+     "gloss": "excessive-deficient-limbed",
+     "grounds": "compound of adhika, hīna, aṅga",
+     "morph": "compound"
+    },
+    {
+     "surface": "śva+daṣṭaṃ",
+     "gloss": "dog-bitten",
+     "grounds": "compound of śva and past participle daṣṭa",
+     "morph": "ppp.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agni+dagdhakam",
+     "gloss": "fire-burnt",
+     "grounds": "compound of agni and past participle dagdhaka",
+     "morph": "ppp.acc.sg.n"
+    }
+   ],
+   "question": "Which substances or conditions must be excluded from eye anointment?",
+   "premises": [
+    "Anointing is prohibited for certain substances.",
+    "Excessive or deficient limbs are excluded.",
+    "Dog-bitten and fire-burnt sources are excluded."
+   ],
+   "inference": "Therefore one should avoid anointing with those excluded substances.",
+   "uncertainties": [
+    "The exact referent of aṅgaṃ remains unclear.",
+    "Whether the prohibition concerns source material or prepared collyrium is not explicit."
+   ],
+   "plain_english": "One should not anoint with substances from excessive or deficient limbs, dog-bitten sources, or fire-burnt sources."
+  }
+ ]
+}

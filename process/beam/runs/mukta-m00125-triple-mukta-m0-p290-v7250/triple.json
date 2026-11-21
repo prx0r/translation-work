@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p290",
+ "items": [
+  {
+   "verse": 7250,
+   "rows": [
+    {
+     "surface": "tilānnikṣipya",
+     "gloss": "sesame-seeds-having-placed",
+     "grounds": "fused form: tilān (sesame seeds) + nikṣipya (absolutive of ni-√kṣip, having placed)",
+     "morph": "(abs. ni-√kṣip; fused)"
+    },
+    {
+     "surface": "kāṃsye",
+     "gloss": "in-bronze",
+     "grounds": "locative of kāṃsya (bronze)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "in-vessel",
+     "grounds": "locative of pātra (vessel)",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "navaphalena",
+     "gloss": "with-new-fruit",
+     "grounds": "instrumental of navaphala (new/fresh fruit)",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials and vessel are prescribed for the ritual placement following the prepared seat?",
+   "premises": [
+    "Sesame seeds are to be placed as part of the action.",
+    "The placement is made in a bronze vessel.",
+    "A new fruit accompanies the placement in the vessel."
+   ],
+   "inference": "The prescribed ritual action is to place sesame seeds in a bronze vessel together with a new fruit.",
+   "uncertainties": [
+    "The specific identity or type of the navaphala (new fruit) is not specified."
+   ],
+   "plain_english": "Then, having placed sesame seeds in a bronze vessel, do so together with a new fruit."
+  }
+ ]
+}

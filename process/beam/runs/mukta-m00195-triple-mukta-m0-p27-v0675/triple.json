@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "rājyābhiṣekaḥ",
+     "gloss": "royal-consecration",
+     "grounds": "compound of rājyā (kingship/sovereignty) and abhiṣeka (consecration/anointing)",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking items in the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svaśiraśchedanaṃ",
+     "gloss": "own-head-cutting",
+     "grounds": "compound of sva (own), śiras (head), and chedana (cutting); neuter action noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛtiḥ",
+     "gloss": "death",
+     "grounds": "noun denoting death, presented in apposition or as the culminating result",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which acts of royal consecration and self-decapitation culminating in death are included in this enumeration?",
+   "premises": [
+    "Royal consecration is named as an included act.",
+    "The cutting of one's own head is named as an included act.",
+    "Death is stated in connection with this self-decapitation."
+   ],
+   "inference": "The enumeration includes royal consecration together with self-decapitation resulting in death.",
+   "uncertainties": [
+    "Whether mṛtiḥ functions as a separate enumerated item or as an appositive result of svaśiraśchedanaṃ is not fully explicit."
+   ],
+   "plain_english": "Royal consecration, and the cutting off of one's own head—death."
+  }
+ ]
+}

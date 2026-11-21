@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative of hṛdaya",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvamartyānāṃ",
+     "gloss": "of-all-mortals",
+     "grounds": "genitive plural of sarva-martya",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "kṣetrajñaḥ",
+     "gloss": "knower-of-field",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiṣṭhati",
+     "gloss": "stands",
+     "grounds": "present active third singular of sthā",
+     "morph": "3.sg.act-pres (sthā)"
+    }
+   ],
+   "question": "Where does the knower of the field stand among all mortals?",
+   "premises": [
+    "kṣetrajña stands in heart",
+    "heart belongs to all mortals",
+    "tatra marks that place"
+   ],
+   "inference": "The knower of the field is located in the heart of every mortal.",
+   "uncertainties": [
+    "exact scope of kṣetrajña in this Siddhānta context"
+   ],
+   "plain_english": "In the heart of all mortals, the knower of the field stands there."
+  }
+ ]
+}

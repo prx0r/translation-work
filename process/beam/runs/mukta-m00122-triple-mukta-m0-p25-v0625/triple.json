@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 625,
+   "rows": [
+    {
+     "surface": "varjyāni",
+     "gloss": "avoidable-things",
+     "grounds": "varjya plus āni; accusative plural neuter form used as noun",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative second person singular active of root śru",
+     "morph": "2.sg.act.impv+śru"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative singular feminine of deveśī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "taddineṣu",
+     "gloss": "on-those-days",
+     "grounds": "locative plural masculine of tat-dina",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "sadāpi ca",
+     "gloss": "always-too",
+     "grounds": "indeclinable particle ca joined to sadāpi",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which practices must be avoided on those days even when enjoyment remains unobstructed?",
+   "premises": [
+    "The verse commands the goddess to hear avoidable things.",
+    "It specifies those days as the occasion.",
+    "It adds always too."
+   ],
+   "inference": "Avoidable practices are to be heard and observed on those days always.",
+   "uncertainties": [
+    "The exact list of avoidable practices is not given in this verse."
+   ],
+   "plain_english": "Hear, O goddess, what must be avoided on those days, always too."
+  }
+ ]
+}

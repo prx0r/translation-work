@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p399",
+ "items": [
+  {
+   "verse": 9975,
+   "rows": [
+    {
+     "surface": "jitvā",
+     "gloss": "having-conquered",
+     "grounds": "absolutive of conquering",
+     "morph": "gerund(ji)"
+    },
+    {
+     "surface": "rogān",
+     "gloss": "diseases",
+     "grounds": "objects overcome",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "refers to the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīveta",
+     "gloss": "should-live",
+     "grounds": "expresses the resulting state",
+     "morph": "3.sg.optative-act(jīv)"
+    },
+    {
+     "surface": "śriyā",
+     "gloss": "with-prosperity",
+     "grounds": "accompanying condition of life",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "varṣa+śatam",
+     "gloss": "hundred-years",
+     "grounds": "duration of life; compound retained as one token",
+     "morph": "compound(varṣa+śata):n.acc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "subject who lives",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What lifespan and condition result for a person who conquers diseases through this rite?",
+   "premises": [
+    "The ritual context leads to conquering diseases.",
+    "A person who conquers diseases continues to live.",
+    "That life is accompanied by prosperity and lasts a hundred years."
+   ],
+   "inference": "Therefore, a person who conquers diseases by this rite lives prosperously for a hundred years.",
+   "uncertainties": [],
+   "plain_english": "Having conquered diseases, that person should live with prosperity for a hundred years."
+  }
+ ]
+}

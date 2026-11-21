@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3425,
+   "rows": [
+    {
+     "surface": "netrāṃśena",
+     "gloss": "eye-part",
+     "grounds": "compound of netra (eye) and aṃśa (part), instrumental case",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidrā",
+     "gloss": "sleep",
+     "grounds": "feminine noun, nominative singular",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kapotaṃ",
+     "gloss": "pigeon",
+     "grounds": "masculine noun, accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "caturaṃśakam",
+     "gloss": "four-part",
+     "grounds": "compound of catur (four) and aṃśaka (part), accusative singular",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What measure of sleep is allotted to the pigeon through eye-part and four-part?",
+   "premises": [
+    "sleep is allotted to the pigeon",
+    "eye-part and four-part are measures",
+    "thus indicates the corresponding proportion"
+   ],
+   "inference": "the pigeon receives sleep measured by eye-part and four-part",
+   "uncertainties": [
+    "exact ritual context is unclear",
+    "compound case and gender are ambiguous"
+   ],
+   "plain_english": "Thus, sleep for the pigeon is measured by eye-part and four-part."
+  }
+ ]
+}

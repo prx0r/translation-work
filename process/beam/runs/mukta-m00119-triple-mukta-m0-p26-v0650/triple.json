@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "kāmena",
+     "gloss": "by-desire",
+     "grounds": "instrumental of kāma",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yojayetkāmaṃ",
+     "gloss": "join-desire",
+     "grounds": "fused optative verb yojayet with accusative kāmam",
+     "morph": "3.sg.act.opt + m.acc.sg"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "desire",
+     "grounds": "accusative object of yojayet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāmena",
+     "gloss": "by-desire",
+     "grounds": "instrumental of kāma",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "join",
+     "grounds": "causative optative of yuj",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should desire be joined with desire by means of desire?",
+   "premises": [
+    "desire serves as instrument",
+    "desire is object joined",
+    "joining is prescribed"
+   ],
+   "inference": "The verse prescribes joining desire to desire through desire.",
+   "uncertainties": [
+    "exact ritual referent of kāma remains unresolved"
+   ],
+   "plain_english": "By desire, join desire; desire, by desire, join."
+  }
+ ]
+}

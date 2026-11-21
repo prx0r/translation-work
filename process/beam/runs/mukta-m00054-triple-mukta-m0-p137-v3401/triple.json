@@ -1,0 +1,952 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3401,
+   "rows": [
+    {
+     "surface": "durllabho",
+     "gloss": "hard-to-attain",
+     "grounds": "epithet expressing rarity or difficulty of attainment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durgamo",
+     "gloss": "difficult-to-approach",
+     "grounds": "epithet expressing inaccessibility of approach",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durgaḥ",
+     "gloss": "inaccessible",
+     "grounds": "epithet expressing being hard to reach or enter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvāyudhaviśāradaḥ",
+     "gloss": "skilled-in-all-weapons",
+     "grounds": "compound: sarva+āyudha+viśārada; epithet of martial mastery",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities of inaccessibility and martial mastery characterize the divine figure?",
+   "premises": [
+    "The figure is hard to attain.",
+    "The figure is difficult to approach and inaccessible.",
+    "The figure is skilled in all weapons."
+   ],
+   "inference": "The divine figure combines supreme inaccessibility with complete martial expertise.",
+   "uncertainties": [],
+   "plain_english": "He is hard to attain, difficult to approach, inaccessible, and skilled in all weapons."
+  },
+  {
+   "verse": 3402,
+   "rows": [
+    {
+     "surface": "śubhāṅgo",
+     "gloss": "auspicious-limbed",
+     "grounds": "compound: śubha+aṅga; epithet of auspicious form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lokasāraṅgo",
+     "gloss": "refuge-of-world",
+     "grounds": "compound: loka+sāraṅga; epithet as shelter for the world",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jagadīśo",
+     "gloss": "lord-of-world",
+     "grounds": "compound: jagat+īśa; epithet of universal sovereignty",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "janārdanaḥ",
+     "gloss": "protector-of-people",
+     "grounds": "traditional epithet, often associated with Viṣṇu",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What auspicious and sovereign roles define the divine figure's relation to the world?",
+   "premises": [
+    "The figure possesses an auspicious form.",
+    "The figure serves as refuge and lord of the world.",
+    "The figure is the protector of people."
+   ],
+   "inference": "The divine figure is both auspicious in form and sovereign protector of the world and its people.",
+   "uncertainties": [],
+   "plain_english": "He has auspicious limbs, is the refuge of the world, the lord of the world, and the protector of people."
+  },
+  {
+   "verse": 3403,
+   "rows": [
+    {
+     "surface": "asādhyasādhyaś",
+     "gloss": "accomplisher-of-impossible",
+     "grounds": "compound: asādhya+sādhya; sandhi form with following ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhṛtyamarkaṭarūpadhṛk",
+     "gloss": "bearer-of-servant-monkey-form",
+     "grounds": "compound: bhṛtya+markaṭa+rūpa+dhṛk; alludes to assuming a monkey-servant form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the divine figure combine impossible accomplishment with humble manifestation?",
+   "premises": [
+    "The figure accomplishes what is impossible.",
+    "The figure assumes the form of a servant monkey."
+   ],
+   "inference": "The divine figure unites supreme power with voluntary humble manifestation.",
+   "uncertainties": [
+    "The specific mythic reference of the monkey-servant form is not explicit in this verse."
+   ],
+   "plain_english": "He accomplishes the impossible and assumes the form of a servant monkey."
+  },
+  {
+   "verse": 3404,
+   "rows": [
+    {
+     "surface": "mahāhṛdo",
+     "gloss": "great-hearted",
+     "grounds": "compound: mahā+hṛd; epithet of magnanimity or vastness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāgarttaḥ",
+     "gloss": "great-abyss",
+     "grounds": "compound: mahā+garta; epithet suggesting profound depth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhavṛndārakeḍitaḥ",
+     "gloss": "sporting-with-siddha-hosts",
+     "grounds": "compound: siddha+vṛndāraka+krīḍita; epithet of divine play with perfected beings",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What depth and divine companionship characterize the figure's nature and activity?",
+   "premises": [
+    "The figure is great-hearted.",
+    "The figure is like a great abyss.",
+    "The figure sports with hosts of siddhas and divine beings."
+   ],
+   "inference": "The divine figure possesses profound depth and engages in play with perfected beings.",
+   "uncertainties": [],
+   "plain_english": "He is great-hearted, a great abyss, and sports with hosts of siddhas and celestial beings."
+  },
+  {
+   "verse": 3405,
+   "rows": [
+    {
+     "surface": "amṛtānubhavaḥ",
+     "gloss": "experiencer-of-nectar",
+     "grounds": "compound: amṛta+anubhava; epithet of immortal experience",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "epithet denoting splendor and auspiciousness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāñcajanyaḥ",
+     "gloss": "pāñcajanya-conch",
+     "grounds": "name of the divine conch, often associated with Viṣṇu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabhañjanaḥ",
+     "gloss": "wind",
+     "grounds": "epithet meaning breaker or wind",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What experiential, glorious, and elemental identities are attributed to the divine figure?",
+   "premises": [
+    "The figure experiences nectar.",
+    "The figure is glorious.",
+    "The figure is identified with the Pāñcajanya conch and the wind."
+   ],
+   "inference": "The divine figure embodies immortal experience, glory, and elemental or emblematic identities.",
+   "uncertainties": [],
+   "plain_english": "He is the experiencer of nectar, glorious, the Pāñcajanya conch, and the wind."
+  },
+  {
+   "verse": 3406,
+   "rows": [
+    {
+     "surface": "sulabhaḥ",
+     "gloss": "easy-to-attain",
+     "grounds": "epithet expressing accessibility",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "suvrataḥ",
+     "gloss": "of-good-vows",
+     "grounds": "compound: su+vrata; epithet of excellent discipline",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūro",
+     "gloss": "heroic",
+     "grounds": "epithet of valor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāṅmayīkanidhir",
+     "gloss": "treasure-of-speech",
+     "grounds": "compound: vāṅmaya+eka+nidhi; sandhi before following nnidhiḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nnidhiḥ",
+     "gloss": "treasure",
+     "grounds": "epithet repeated or intensified; surface preserved as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What accessible, disciplined, heroic, and verbal treasures define the divine figure?",
+   "premises": [
+    "The figure is easy to attain.",
+    "The figure is of good vows and heroic.",
+    "The figure is a treasure of speech and a treasure."
+   ],
+   "inference": "The divine figure is accessible, disciplined, heroic, and the very repository of speech and treasure.",
+   "uncertainties": [
+    "The doubled form vāṅmayīkanidhir nnidhiḥ may be emphatic or a textual peculiarity."
+   ],
+   "plain_english": "He is easy to attain, of good vows, heroic, the treasure of speech, and a treasure."
+  },
+  {
+   "verse": 3407,
+   "rows": [
+    {
+     "surface": "āśramaḥ",
+     "gloss": "hermitage",
+     "grounds": "epithet identifying the figure as a place of refuge or spiritual stage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣapaṇaḥ",
+     "gloss": "destroyer",
+     "grounds": "epithet meaning one who destroys or causes to pass away",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṣāmo",
+     "gloss": "emaciated",
+     "grounds": "epithet suggesting austerity or wasting",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jñānavān",
+     "gloss": "possessed-of-knowledge",
+     "grounds": "compound: jñāna+vat; epithet of wisdom",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "acaleśvaraḥ",
+     "gloss": "lord-of-mountain",
+     "grounds": "compound: acala+īśvara; epithet of sovereignty over the immovable",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What refuge, destructive power, austerity, knowledge, and sovereignty characterize the divine figure?",
+   "premises": [
+    "The figure is a hermitage and a destroyer.",
+    "The figure is emaciated and possessed of knowledge.",
+    "The figure is lord of the mountain."
+   ],
+   "inference": "The divine figure unites refuge, destruction, austerity, knowledge, and mountain sovereignty.",
+   "uncertainties": [],
+   "plain_english": "He is a hermitage, a destroyer, emaciated, possessed of knowledge, and lord of the mountain."
+  },
+  {
+   "verse": 3408,
+   "rows": [
+    {
+     "surface": "dhanurddharo",
+     "gloss": "bearer-of-bow",
+     "grounds": "compound: dhanus+dhara; epithet of the archer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanurvedo",
+     "gloss": "science-of-archery",
+     "grounds": "compound: dhanus+veda; identification with archery knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṇaḥ",
+     "gloss": "quality",
+     "grounds": "epithet meaning quality, strand, or excellence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaśiguṇākaraḥ",
+     "gloss": "mine-of-moon-qualities",
+     "grounds": "compound: śaśi+guṇa+ākara; epithet likened to the moon's repository of qualities",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What martial, qualitative, and lunar attributes are ascribed to the divine figure?",
+   "premises": [
+    "The figure bears the bow and embodies the science of archery.",
+    "The figure is quality itself.",
+    "The figure is a mine of the moon's qualities."
+   ],
+   "inference": "The divine figure combines martial mastery with essential quality and lunar excellence.",
+   "uncertainties": [],
+   "plain_english": "He is the bearer of the bow, the science of archery, quality itself, and a mine of the moon's qualities."
+  },
+  {
+   "verse": 3409,
+   "rows": [
+    {
+     "surface": "anantadṛṣṭir",
+     "gloss": "of-infinite-vision",
+     "grounds": "compound: ananta+dṛṣṭi; epithet of limitless sight",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ānando",
+     "gloss": "bliss",
+     "grounds": "epithet identifying the figure with joy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "daṇḍo",
+     "gloss": "staff",
+     "grounds": "epithet meaning rod, staff, or punishment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "damayitā",
+     "gloss": "subduer",
+     "grounds": "agent noun from root dam; one who subdues",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "damaḥ",
+     "gloss": "self-control",
+     "grounds": "epithet identifying the figure with restraint",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do infinite vision, bliss, and disciplinary power converge in the divine figure?",
+   "premises": [
+    "The figure has infinite vision and is bliss.",
+    "The figure is the staff and the subduer.",
+    "The figure is self-control."
+   ],
+   "inference": "The divine figure embodies limitless awareness, bliss, and the principle of discipline.",
+   "uncertainties": [],
+   "plain_english": "He has infinite vision, is bliss, the staff, the subduer, and self-control."
+  },
+  {
+   "verse": 3410,
+   "rows": [
+    {
+     "surface": "vītarāgo",
+     "gloss": "free-from-passion",
+     "grounds": "compound: vīta+rāga; epithet of detachment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinītātmā",
+     "gloss": "of-disciplined-self",
+     "grounds": "compound: vinīta+ātman; epithet of inner discipline",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tapasvī",
+     "gloss": "ascetic",
+     "grounds": "epithet denoting one engaged in austerity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtavāhanaḥ",
+     "gloss": "borne-by-beings",
+     "grounds": "compound: bhūta+vāhana; epithet indicating conveyance by beings",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What detachment, discipline, austerity, and relation to beings define the divine figure?",
+   "premises": [
+    "The figure is free from passion.",
+    "The figure has a disciplined self and is an ascetic.",
+    "The figure is borne by beings."
+   ],
+   "inference": "The divine figure combines inner detachment and austerity with a special relation to beings.",
+   "uncertainties": [],
+   "plain_english": "He is free from passion, of disciplined self, an ascetic, and borne by beings."
+  },
+  {
+   "verse": 3411,
+   "rows": [
+    {
+     "surface": "kalpāntaprakṛtiḥ",
+     "gloss": "nature-at-kalpa-end",
+     "grounds": "compound: kalpa+anta+prakṛti; epithet linked to cosmic dissolution",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kalpaḥ",
+     "gloss": "cosmic-ordinance",
+     "grounds": "epithet meaning cosmic period or ordinance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvalokaprajāpatiḥ",
+     "gloss": "lord-of-all-worlds-beings",
+     "grounds": "compound: sarva+loka+prajāpati; epithet of universal creatorship",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What cosmic roles at dissolution, ordinance, and creation belong to the divine figure?",
+   "premises": [
+    "The figure is the nature at the end of a kalpa.",
+    "The figure is the kalpa itself.",
+    "The figure is lord of creatures in all worlds."
+   ],
+   "inference": "The divine figure encompasses cosmic dissolution, ordinance, and universal lordship.",
+   "uncertainties": [],
+   "plain_english": "He is the nature at the end of the kalpa, the kalpa itself, and the lord of creatures in all worlds."
+  },
+  {
+   "verse": 3412,
+   "rows": [
+    {
+     "surface": "lokapālontarhitātmā",
+     "gloss": "world-protector-hidden-self",
+     "grounds": "compound: lokapāla+antarhita+ātman; epithet of a concealed inner self as world-protector",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kamalekṣaṇaḥ",
+     "gloss": "lotus-eyed",
+     "grounds": "compound: kamala+īkṣaṇa; traditional epithet of lotus-like eyes",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are hidden guardianship and lotus-eyed form attributed to the divine figure?",
+   "premises": [
+    "The figure is a world-protector with a hidden self.",
+    "The figure is lotus-eyed."
+   ],
+   "inference": "The divine figure combines concealed protective presence with a lotus-eyed form.",
+   "uncertainties": [],
+   "plain_english": "He is the world-protector with a hidden self and is lotus-eyed."
+  },
+  {
+   "verse": 3413,
+   "rows": [
+    {
+     "surface": "candraḥ",
+     "gloss": "moon",
+     "grounds": "celestial identification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūryaḥ",
+     "gloss": "sun",
+     "grounds": "celestial identification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaniḥ",
+     "gloss": "saturn",
+     "grounds": "planetary identification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ketur",
+     "gloss": "ketu",
+     "grounds": "celestial node identification; name preserved in meaning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "virāgo",
+     "gloss": "free-from-passion",
+     "grounds": "compound: vi+rāga; epithet of detachment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidrumacchaviḥ",
+     "gloss": "of-coral-hue",
+     "grounds": "compound: vidruma+chavi; epithet describing complexion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What celestial identities and qualities of detachment and hue are claimed for the divine figure?",
+   "premises": [
+    "The figure is identified with the moon, sun, Saturn, and Ketu.",
+    "The figure is free from passion.",
+    "The figure has a coral hue."
+   ],
+   "inference": "The divine figure encompasses celestial bodies while also possessing detachment and a coral radiance.",
+   "uncertainties": [],
+   "plain_english": "He is the moon, the sun, Saturn, Ketu, free from passion, and of coral hue."
+  },
+  {
+   "verse": 3414,
+   "rows": [
+    {
+     "surface": "adrir",
+     "gloss": "mountain",
+     "grounds": "epithet identifying the figure with a mountain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "adryālayaḥ",
+     "gloss": "dwelling-in-mountain",
+     "grounds": "compound: adri+ālaya; epithet of mountain abode",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāntaḥ",
+     "gloss": "lovely",
+     "grounds": "epithet meaning beloved or beautiful",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paramātmā",
+     "gloss": "supreme-self",
+     "grounds": "compound: parama+ātman; philosophical epithet of ultimate self",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jagadguruḥ",
+     "gloss": "teacher-of-world",
+     "grounds": "compound: jagat+guru; epithet of universal teacher",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What mountain, supreme, and teaching identities are attributed to the divine figure?",
+   "premises": [
+    "The figure is the mountain and dwells in the mountain.",
+    "The figure is lovely and the supreme self.",
+    "The figure is the teacher of the world."
+   ],
+   "inference": "The divine figure unites mountain presence, supreme selfhood, and universal teachership.",
+   "uncertainties": [],
+   "plain_english": "He is the mountain, dwelling in the mountain, lovely, the supreme self, and the teacher of the world."
+  },
+  {
+   "verse": 3415,
+   "rows": [
+    {
+     "surface": "mahātapā",
+     "gloss": "of-great-austerity",
+     "grounds": "compound: mahā+tapas; epithet of intense austerity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dīrgghatapāḥ",
+     "gloss": "of-long-austerity",
+     "grounds": "compound: dīrgha+tapas; epithet of prolonged austerity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthaviṣṭhaḥ",
+     "gloss": "most-massive",
+     "grounds": "superlative epithet meaning most vast or firm",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthaviro",
+     "gloss": "ancient",
+     "grounds": "epithet meaning old or venerable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "drumaḥ",
+     "gloss": "tree",
+     "grounds": "epithet identifying the figure with a tree",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What austerity, vastness, antiquity, and arboreal identity characterize the divine figure?",
+   "premises": [
+    "The figure practices great and long austerity.",
+    "The figure is most massive and ancient.",
+    "The figure is a tree."
+   ],
+   "inference": "The divine figure embodies enduring austerity, vast antiquity, and an arboreal form.",
+   "uncertainties": [],
+   "plain_english": "He is of great austerity, of long austerity, most massive, ancient, and a tree."
+  },
+  {
+   "verse": 3416,
+   "rows": [
+    {
+     "surface": "sa/vvatsarakaro",
+     "gloss": "maker-of-year",
+     "grounds": "compound: saṃvatsara+kara; surface preserved exactly as given including slash",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred utterance; term preserved in meaning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyayaḥ",
+     "gloss": "conviction",
+     "grounds": "epithet meaning trust, cause, or firm cognition",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvadarśanaḥ",
+     "gloss": "all-seeing",
+     "grounds": "compound: sarva+darśana; epithet of universal vision",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What temporal, mantric, cognitive, and visionary roles are ascribed to the divine figure?",
+   "premises": [
+    "The figure is the maker of the year.",
+    "The figure is mantra and conviction.",
+    "The figure is all-seeing."
+   ],
+   "inference": "The divine figure governs time, embodies mantra and conviction, and possesses universal vision.",
+   "uncertainties": [],
+   "plain_english": "He is the maker of the year, mantra, conviction, and all-seeing."
+  },
+  {
+   "verse": 3417,
+   "rows": [
+    {
+     "surface": "yogo",
+     "gloss": "yoga",
+     "grounds": "epithet identifying the figure with yoga; term preserved in meaning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yogyo",
+     "gloss": "worthy",
+     "grounds": "epithet meaning fit or worthy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahātejāḥ",
+     "gloss": "of-great-splendor",
+     "grounds": "compound: mahā+tejas; epithet of immense radiance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhasarvādivigrahaḥ",
+     "gloss": "form-of-all-siddhas",
+     "grounds": "compound: siddha+sarva+ādi+vigraha; epithet as embodiment of siddhas and others",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How do yoga, worthiness, splendor, and universal embodiment define the divine figure?",
+   "premises": [
+    "The figure is yoga and worthy.",
+    "The figure is of great splendor.",
+    "The figure is the form of all siddhas and others."
+   ],
+   "inference": "The divine figure embodies yoga, worthiness, radiant power, and the forms of perfected beings.",
+   "uncertainties": [],
+   "plain_english": "He is yoga, worthy, of great splendor, and the form of all siddhas and others."
+  },
+  {
+   "verse": 3418,
+   "rows": [
+    {
+     "surface": "sukīrttiḥ",
+     "gloss": "of-good-fame",
+     "grounds": "compound: su+kīrti; epithet of excellent renown",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śobhitaḥ",
+     "gloss": "adorned",
+     "grounds": "epithet meaning beautified or resplendent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrāvī",
+     "gloss": "audible",
+     "grounds": "epithet meaning worthy of hearing or causing to hear",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "emphatic particle; sandhi form of hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avāṅmanasagocaraḥ",
+     "gloss": "beyond-speech-and-mind",
+     "grounds": "compound: a+vāc+manasa+gocara; epithet of transcendence beyond speech and mind",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can the divine figure be both audible and beyond the range of speech and mind?",
+   "premises": [
+    "The figure is of good fame, adorned, and audible.",
+    "The figure is indeed beyond the range of speech and mind."
+   ],
+   "inference": "The divine figure manifests in perceptible glory while remaining transcendent to speech and mind.",
+   "uncertainties": [],
+   "plain_english": "He is of good fame, adorned, audible, and indeed beyond the range of speech and mind."
+  },
+  {
+   "verse": 3419,
+   "rows": [
+    {
+     "surface": "kamaṇḍaludharo",
+     "gloss": "bearer-of-water-pot",
+     "grounds": "compound: kamaṇḍalu+dhara; ascetic attribute",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhanvī",
+     "gloss": "bowman",
+     "grounds": "epithet meaning armed with a bow",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedāṅgo",
+     "gloss": "limb-of-vedas",
+     "grounds": "compound: veda+aṅga; identification with Vedic auxiliaries",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vedavin",
+     "gloss": "knower-of-vedas",
+     "grounds": "compound: veda+vid; epithet of Vedic knowledge",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "epithet denoting a sage or silent contemplative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ascetic, martial, Vedic, and sagely attributes are united in the divine figure?",
+   "premises": [
+    "The figure bears the water pot and is a bowman.",
+    "The figure is a limb of the Vedas and a knower of the Vedas.",
+    "The figure is a sage."
+   ],
+   "inference": "The divine figure unites ascetic, martial, Vedic, and sagely identities.",
+   "uncertainties": [],
+   "plain_english": "He bears the water pot, is a bowman, a limb of the Vedas, a knower of the Vedas, and a sage."
+  },
+  {
+   "verse": 3420,
+   "rows": [
+    {
+     "surface": "atīndriyo",
+     "gloss": "beyond-senses",
+     "grounds": "compound: ati+indriya; epithet of transcendence beyond sense faculties",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāmāyaḥ",
+     "gloss": "of-great-māyā",
+     "grounds": "compound: mahā+māyā; epithet of great creative or illusory power",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvāvāsaś",
+     "gloss": "abode-of-all",
+     "grounds": "compound: sarva+āvāsa; epithet as dwelling place of all",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catuṣpathaḥ",
+     "gloss": "four-pathed",
+     "grounds": "compound: catur+patha; epithet meaning having four paths or a crossroads",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What transcendence, power, universality, and fourfold path characterize the divine figure?",
+   "premises": [
+    "The figure is beyond the senses.",
+    "The figure possesses great māyā and is the abode of all.",
+    "The figure is four-pathed."
+   ],
+   "inference": "The divine figure transcends the senses, wields great māyā, contains all, and is associated with four paths.",
+   "uncertainties": [
+    "The precise sense of catuṣpathaḥ (four paths or crossroads) is context-dependent."
+   ],
+   "plain_english": "He is beyond the senses, of great māyā, the abode of all, and four-pathed."
+  },
+  {
+   "verse": 3421,
+   "rows": [
+    {
+     "surface": "mahābuddhir",
+     "gloss": "of-great-intellect",
+     "grounds": "compound: mahā+buddhi; epithet of vast intelligence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahāvīryo",
+     "gloss": "of-great-heroism",
+     "grounds": "compound: mahā+vīrya; epithet of great power or valor",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtacārī",
+     "gloss": "moving-among-beings",
+     "grounds": "compound: bhūta+cārin; epithet of moving among living beings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "purandaraḥ",
+     "gloss": "destroyer-of-cities",
+     "grounds": "traditional epithet, often associated with Indra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What intellect, power, immanence, and conquering force define the divine figure?",
+   "premises": [
+    "The figure has great intellect and great heroism.",
+    "The figure moves among beings.",
+    "The figure is the destroyer of cities."
+   ],
+   "inference": "The divine figure combines supreme intellect and power with immanence and conquering might.",
+   "uncertainties": [],
+   "plain_english": "He is of great intellect, of great heroism, moves among beings, and is the destroyer of cities."
+  },
+  {
+   "verse": 3422,
+   "rows": [
+    {
+     "surface": "anirddeśyavapuḥ",
+     "gloss": "of-indescribable-form",
+     "grounds": "compound: anirdeśya+vapus; epithet of ineffable body or form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śrīmān",
+     "gloss": "glorious",
+     "grounds": "epithet denoting splendor and auspiciousness",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvācāryamanogatiḥ",
+     "gloss": "goal-of-all-teachers-minds",
+     "grounds": "compound: sarva+ācārya+manas+gati; epithet as the ultimate aim of teachers' minds",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are ineffable form, glory, and ultimate goal for teachers attributed to the divine figure?",
+   "premises": [
+    "The figure has an indescribable form.",
+    "The figure is glorious.",
+    "The figure is the goal of the minds of all teachers."
+   ],
+   "inference": "The divine figure is ineffable yet glorious and serves as the ultimate aim for all teachers.",
+   "uncertainties": [],
+   "plain_english": "He is of indescribable form, glorious, and the goal of the minds of all teachers."
+  },
+  {
+   "verse": 3423,
+   "rows": [
+    {
+     "surface": "tejas",
+     "gloss": "splendor",
+     "grounds": "epithet identifying the figure with radiance or power",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tejodyutidharo",
+     "gloss": "bearer-of-splendor-brilliance",
+     "grounds": "compound: tejas+dyuti+dhara; epithet bearing radiance and brilliance",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "narakaḥ",
+     "gloss": "leader-of-men",
+     "grounds": "epithet interpreted as nara+ka; alternative meanings possible",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaśāsakaḥ",
+     "gloss": "ruler-of-all",
+     "grounds": "compound: sarva+śāsaka; epithet of universal governance",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What splendor, leadership, and universal rulership are claimed for the divine figure?",
+   "premises": [
+    "The figure is splendor and bears splendor and brilliance.",
+    "The figure is a leader of men.",
+    "The figure is the ruler of all."
+   ],
+   "inference": "The divine figure embodies radiant power, leadership, and universal sovereignty.",
+   "uncertainties": [
+    "The term narakaḥ can have other meanings; here taken as leader-of-men following the hint."
+   ],
+   "plain_english": "He is splendor, the bearer of splendor and brilliance, a leader of men, and the ruler of all."
+  },
+  {
+   "verse": 3424,
+   "rows": [
+    {
+     "surface": "spaṣṭaḥ",
+     "gloss": "clear",
+     "grounds": "epithet meaning manifest or distinct",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krūro",
+     "gloss": "fierce",
+     "grounds": "epithet meaning cruel or harsh",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "budho",
+     "gloss": "wise",
+     "grounds": "epithet meaning awakened or intelligent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "sacred utterance; term preserved in meaning",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samānaḥ",
+     "gloss": "equal",
+     "grounds": "epithet meaning same or impartial",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārasamplavaḥ",
+     "gloss": "deluge-of-essence",
+     "grounds": "compound: sāra+samplava; epithet suggesting an overflow of essence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What contrasting qualities of clarity, fierceness, wisdom, and essence characterize the divine figure?",
+   "premises": [
+    "The figure is clear, fierce, and wise.",
+    "The figure is mantra and equal.",
+    "The figure is a deluge of essence."
+   ],
+   "inference": "The divine figure unites contrasting qualities and manifests as mantra and an overflowing essence.",
+   "uncertainties": [],
+   "plain_english": "He is clear, fierce, wise, mantra, equal, and a deluge of essence."
+  }
+ ]
+}

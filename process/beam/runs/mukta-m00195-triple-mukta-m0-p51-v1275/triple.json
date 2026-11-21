@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating continuation of the preceding enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indrāṇī",
+     "gloss": "Indrāṇī",
+     "grounds": "name of a goddess listed as an additional figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāmuṇḍā",
+     "gloss": "Cāmuṇḍā",
+     "grounds": "name of a goddess conjoined with Indrāṇī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking the named goddesses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śriyā",
+     "gloss": "with-Śrī",
+     "grounds": "name of the goddess accompanying the others, governed by saha",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together-with",
+     "grounds": "postposition indicating accompaniment with the instrumental",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which additional goddesses are included together with Śrī in this continuing enumeration?",
+   "premises": [
+    "The word tathā signals continuation of the preceding list.",
+    "Indrāṇī and Cāmuṇḍā are named as included figures.",
+    "The phrase śriyā saha indicates accompaniment together with Śrī."
+   ],
+   "inference": "The enumeration continues by adding Indrāṇī and Cāmuṇḍā together with Śrī.",
+   "uncertainties": [],
+   "plain_english": "Likewise, Indrāṇī and Cāmuṇḍā are included together with Śrī."
+  }
+ ]
+}

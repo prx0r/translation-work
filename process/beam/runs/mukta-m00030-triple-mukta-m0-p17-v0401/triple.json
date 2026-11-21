@@ -1,0 +1,991 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 401,
+   "rows": [
+    {
+     "surface": "vilvapatraṃ",
+     "gloss": "bilva-leaf",
+     "grounds": "compound: vilva+patra; object of offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "brahmaviṣṇuśivātmakam",
+     "gloss": "brahma-vishnu-shiva-natured",
+     "grounds": "compound: brahma+viṣṇu+śiva+ātmaka; describes vilvapatraṃ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What divine nature is attributed to the bilva leaf in ritual offering?",
+   "premises": [
+    "The bilva leaf is addressed in the context of worship.",
+    "The bilva leaf is described as having the nature of Brahma, Vishnu, and Shiva."
+   ],
+   "inference": "The bilva leaf embodies the triadic divine nature of Brahma, Vishnu, and Shiva.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, the bilva leaf is of the nature of Brahma, Vishnu, and Shiva."
+  },
+  {
+   "verse": 402,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "qualifies vilvapatreṇa",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vilvapatreṇa",
+     "gloss": "with-bilva-leaf",
+     "grounds": "instrument of offering",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative qualifying phalaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result obtained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "result of offering",
+     "morph": "3.sg.pres.mid (√labh)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is assured by offering even a single bilva leaf?",
+   "premises": [
+    "An offering can consist of a single bilva leaf.",
+    "The act of offering leads to obtaining a specific fruit.",
+    "The result is stated to be certain."
+   ],
+   "inference": "Offering even one bilva leaf certainly yields that fruit.",
+   "uncertainties": [
+    "The specific nature of 'that fruit' is not defined in this verse."
+   ],
+   "plain_english": "By offering even a single bilva leaf, one certainly obtains that fruit."
+  },
+  {
+   "verse": 403,
+   "rows": [
+    {
+     "surface": "padmapuṣpapradānena",
+     "gloss": "by-lotus-flower-offering",
+     "grounds": "compound: padma+puṣpa+pradāna; instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "gaurīloke",
+     "gloss": "in-gauri-world",
+     "grounds": "compound: gaurī+loka; location of honor",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "result of offering",
+     "morph": "3.sg.pres.pass (√mah)"
+    }
+   ],
+   "question": "What reward follows from the offering of a lotus flower?",
+   "premises": [
+    "A lotus flower can be given as an offering.",
+    "The offering results in being honored.",
+    "The honor occurs in the world of Gauri."
+   ],
+   "inference": "By offering a lotus flower, one is honored in Gauri's world.",
+   "uncertainties": [],
+   "plain_english": "By offering a lotus flower, one is honored in the world of Gauri."
+  },
+  {
+   "verse": 404,
+   "rows": [
+    {
+     "surface": "raktacandanasaṃmiśraṃ",
+     "gloss": "red-sandal-mixed",
+     "grounds": "compound: rakta+candana+saṃmiśra; describes raktapuṣpaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktapuṣpaṃ",
+     "gloss": "red-flower",
+     "grounds": "compound: rakta+puṣpa; object of offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What kind of red flower is specified for ritual use in this instruction?",
+   "premises": [
+    "A red flower is mentioned as an offering.",
+    "The red flower is mixed with red sandal."
+   ],
+   "inference": "The prescribed offering is a red flower mixed with red sandal.",
+   "uncertainties": [],
+   "plain_english": "O lady of the gods, a red flower mixed with red sandal."
+  },
+  {
+   "verse": 405,
+   "rows": [
+    {
+     "surface": "jalajaṃ",
+     "gloss": "water-born",
+     "grounds": "compound: jala+ja; type of flower",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthalajaṃ",
+     "gloss": "land-born",
+     "grounds": "compound: sthala+ja; type of flower",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "conjunction indicating alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yacca",
+     "gloss": "and-which",
+     "grounds": "relative pronoun with conjunction; sandhi: yat+ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "general term for flower",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "charming",
+     "grounds": "compound: manas+hara; describes puṣpaṃ",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What range of flowers is considered suitable for the practice described?",
+   "premises": [
+    "Flowers may be born in water or on land.",
+    "Any flower that is charming is included."
+   ],
+   "inference": "Any charming flower, whether water-born or land-born, is suitable.",
+   "uncertainties": [],
+   "plain_english": "Whether water-born or land-born, any charming flower."
+  },
+  {
+   "verse": 406,
+   "rows": [
+    {
+     "surface": "sādhakānāṃ",
+     "gloss": "of-practitioners",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "hitārthāya",
+     "gloss": "for-benefit",
+     "grounds": "compound: hita+artha; purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sādhanaṃ",
+     "gloss": "practice",
+     "grounds": "object to be revealed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of revelation",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "prakāśaya",
+     "gloss": "reveal",
+     "grounds": "request for instruction",
+     "morph": "2.sg.imp.act (pra-√kāś)"
+    }
+   ],
+   "question": "What request is made regarding the practice for the benefit of practitioners?",
+   "premises": [
+    "The speaker seeks benefit for practitioners.",
+    "The speaker asks for the practice to be revealed."
+   ],
+   "inference": "A request is made to reveal the practice for the benefit of practitioners.",
+   "uncertainties": [],
+   "plain_english": "Reveal to me the practice for the benefit of the practitioners."
+  },
+  {
+   "verse": 407,
+   "rows": [
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīrabhāvena",
+     "gloss": "by-hero-disposition",
+     "grounds": "compound: vīra+bhāva; mode of practice",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sādhanañca",
+     "gloss": "and-practice",
+     "grounds": "object of performance; sandhi: sādhanaṃ+ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (sam-ā-√car)"
+    }
+   ],
+   "question": "In what mode must the prescribed practice be performed?",
+   "premises": [
+    "The practice is to be performed.",
+    "The performance is restricted to the hero disposition."
+   ],
+   "inference": "The practice should be performed only in the hero disposition.",
+   "uncertainties": [],
+   "plain_english": "One should perform the practice only in the hero disposition."
+  },
+  {
+   "verse": 408,
+   "rows": [
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-crossroads",
+     "grounds": "compound: catur+patha; location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahāghore",
+     "gloss": "very-terrible",
+     "grounds": "compound: mahā+ghora; describes catuṣpathe",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-mutter",
+     "grounds": "injunction for recitation",
+     "morph": "3.sg.opt.act (pra-√jap)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "compound: su+dhī; subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where and how many times should the wise practitioner perform the recitation?",
+   "premises": [
+    "The recitation is to be done by a wise person.",
+    "The location is a very terrible crossroads.",
+    "The number of recitations is ten thousand."
+   ],
+   "inference": "The wise one should mutter the mantra ten thousand times at a very terrible crossroads.",
+   "uncertainties": [],
+   "plain_english": "The wise one should mutter the mantra ten thousand times at a very terrible crossroads."
+  },
+  {
+   "verse": 409,
+   "rows": [
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇapuṣpeṇa",
+     "gloss": "with-black-flower",
+     "grounds": "compound: kṛṣṇa+puṣpa; instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śmaśānakusumena",
+     "gloss": "with-cremation-ground-flower",
+     "grounds": "compound: śmaśāna+kusuma; alternative instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What flowers are permitted for performing the worship in this rite?",
+   "premises": [
+    "Worship is to be performed.",
+    "A black flower may be used.",
+    "A cremation-ground flower may be used as an alternative."
+   ],
+   "inference": "Worship may be performed with a black flower or with a cremation-ground flower.",
+   "uncertainties": [],
+   "plain_english": "Worship should be done with a black flower or with a flower from the cremation ground."
+  },
+  {
+   "verse": 410,
+   "rows": [
+    {
+     "surface": "juhūyāt",
+     "gloss": "should-offer",
+     "grounds": "injunction for oblation",
+     "morph": "3.sg.opt.act (√hu)"
+    },
+    {
+     "surface": "nīlapuṣpeṇa",
+     "gloss": "with-blue-flower",
+     "grounds": "compound: nīla+puṣpa; instrument",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "eight-over-hundred",
+     "grounds": "compound: aṣṭa+uttara+śata; number of oblations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many oblations with a blue flower should be offered in this step?",
+   "premises": [
+    "Oblations are to be made.",
+    "The oblations use a blue flower.",
+    "The number specified is one hundred and eight."
+   ],
+   "inference": "One should again offer one hundred and eight oblations with a blue flower.",
+   "uncertainties": [],
+   "plain_english": "And again, one should offer one hundred and eight oblations with a blue flower."
+  },
+  {
+   "verse": 411,
+   "rows": [
+    {
+     "surface": "daśahābhyantare",
+     "gloss": "within-ten-days",
+     "grounds": "compound: daśa+aha+abhyantara; time limit",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vairivināśo",
+     "gloss": "enemy-destruction",
+     "grounds": "compound: vairi+vināśa; result; sandhi: vināśaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "occurs",
+     "grounds": "result comes to pass",
+     "morph": "3.sg.pres.mid (√jan)"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphasizes certainty",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What outcome is guaranteed within ten days of performing the rite?",
+   "premises": [
+    "A time frame of ten days is specified.",
+    "The destruction of the enemy is stated to occur.",
+    "The occurrence is declared certain."
+   ],
+   "inference": "The destruction of the enemy certainly occurs within ten days.",
+   "uncertainties": [],
+   "plain_english": "Within ten days, the destruction of the enemy certainly occurs."
+  },
+  {
+   "verse": 412,
+   "rows": [
+    {
+     "surface": "puṭitañca",
+     "gloss": "and-enclosed",
+     "grounds": "ritual preparation; sandhi: puṭitam+ca",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śatābhimantritaṃ",
+     "gloss": "hundred-consecrated",
+     "grounds": "compound: śata+abhimantrita; ritually empowered",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the ritual object be prepared before further use in this sequence?",
+   "premises": [
+    "The object is to be enclosed.",
+    "The object is to be consecrated one hundred times.",
+    "This preparation is repeated."
+   ],
+   "inference": "The object must be enclosed and consecrated one hundred times again.",
+   "uncertainties": [
+    "The specific object being enclosed is not named in this verse."
+   ],
+   "plain_english": "O great goddess, it should be enclosed and again consecrated one hundred times."
+  },
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "kulavāre",
+     "gloss": "on-kula-day",
+     "grounds": "compound: kula+vāra; ritual timing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kuladravyaiḥ",
+     "gloss": "with-kula-substances",
+     "grounds": "compound: kula+dravya; ritual materials",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "On what occasion and with what materials should the rite be conducted?",
+   "premises": [
+    "The rite is associated with a kula day.",
+    "The rite uses kula substances."
+   ],
+   "inference": "The rite should be conducted on a kula day with kula substances.",
+   "uncertainties": [
+    "The specific identity of 'kula day' and 'kula substances' is tradition-dependent."
+   ],
+   "plain_english": "O great goddess, on a kula day, with kula substances, O great goddess."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "ritual seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-resolved",
+     "grounds": "preparatory mental act",
+     "morph": "gerund (sam-√kḷp)"
+    },
+    {
+     "surface": "pūjāñca",
+     "gloss": "and-worship",
+     "grounds": "ritual act; sandhi: pūjām+ca",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (sam-ā-√car)"
+    }
+   ],
+   "question": "What preparatory and ritual actions must be performed at the designated place?",
+   "premises": [
+    "A seat is to be ritually resolved there.",
+    "Worship is to be performed after that resolution."
+   ],
+   "inference": "Having resolved the seat there, one should indeed perform the worship.",
+   "uncertainties": [],
+   "plain_english": "Having resolved the seat there, one should indeed perform the worship."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "kṛṣṇapuṣpaiḥ",
+     "gloss": "with-black-flowers",
+     "grounds": "compound: kṛṣṇa+puṣpa; instrument",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "javāpuṣpaiḥ",
+     "gloss": "with-hibiscus-flowers",
+     "grounds": "compound: javā+puṣpa; instrument",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "emphasizes preference",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "o-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which flowers are especially recommended for the worship in this context?",
+   "premises": [
+    "Black flowers may be used in worship.",
+    "Hibiscus flowers may be used in worship.",
+    "Their use is especially emphasized."
+   ],
+   "inference": "Black flowers and especially hibiscus flowers are recommended for the worship.",
+   "uncertainties": [],
+   "plain_english": "O lady of the gods, especially with black flowers and hibiscus flowers."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "niśīthe",
+     "gloss": "at-midnight",
+     "grounds": "ritual timing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "muktakeśaḥ",
+     "gloss": "with-loosened-hair",
+     "grounds": "compound: mukta+keśa; ritual state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāghracarmadharaḥ",
+     "gloss": "tiger-skin-wearing",
+     "grounds": "compound: vyāghra+carman+dhara; ritual attire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In what condition and at what time must the practitioner perform this rite?",
+   "premises": [
+    "The rite is performed at midnight.",
+    "The practitioner has loosened hair.",
+    "The practitioner wears a tiger skin."
+   ],
+   "inference": "At midnight, the man should perform the rite with loosened hair and wearing a tiger skin.",
+   "uncertainties": [],
+   "plain_english": "At midnight, the man, with loosened hair and wearing a tiger skin."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "śatābhimantritaṃ",
+     "gloss": "hundred-consecrated",
+     "grounds": "compound: śata+abhimantrita; ritually empowered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muṇḍaṃ",
+     "gloss": "skull",
+     "grounds": "ritual object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "should-cast",
+     "grounds": "injunction for placement",
+     "morph": "3.sg.opt.act (niḥ-√kṣip)"
+    },
+    {
+     "surface": "vaiyiveśmani",
+     "gloss": "in-enemy-house",
+     "grounds": "compound: vairi+veśman; target location; sandhi: vairi+veśmani",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where must the consecrated skull be placed to effect the rite's purpose?",
+   "premises": [
+    "A skull is consecrated one hundred times.",
+    "The skull is to be cast or placed.",
+    "The location is the enemy's house."
+   ],
+   "inference": "One should cast the skull consecrated one hundred times into the enemy's house.",
+   "uncertainties": [],
+   "plain_english": "One should cast a skull, consecrated one hundred times, into the enemy's house."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "aṣṭamyāñca",
+     "gloss": "and-on-eighth-day",
+     "grounds": "lunar day; sandhi: aṣṭamyām+ca",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śanivāre",
+     "gloss": "on-saturday",
+     "grounds": "compound: śani+vāra; weekday",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niśi",
+     "gloss": "at-night",
+     "grounds": "time of day",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "At what specific times is the ritual action to be undertaken?",
+   "premises": [
+    "The eighth lunar day is specified.",
+    "Saturday is specified.",
+    "Nighttime is specified."
+   ],
+   "inference": "The ritual is to be undertaken on the eighth day, on a Saturday, and at night.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, on the eighth day, on a Saturday, and also at night."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "ritual seat",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-resolved",
+     "grounds": "preparatory mental act",
+     "morph": "gerund (sam-√kḷp)"
+    },
+    {
+     "surface": "vihitaṃ",
+     "gloss": "prescribed",
+     "grounds": "describes pūjanañcaret",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjanañcaret",
+     "gloss": "should-perform-worship",
+     "grounds": "injunction; sandhi: pūjanam+caret",
+     "morph": "3.sg.opt.act (√car)"
+    }
+   ],
+   "question": "What ritual sequence must be followed after preparing the seat at the appointed time?",
+   "premises": [
+    "The seat is to be ritually resolved there.",
+    "The prescribed worship is to be performed afterward."
+   ],
+   "inference": "Having resolved the seat there, one should perform the prescribed worship.",
+   "uncertainties": [],
+   "plain_english": "Having resolved the seat there, one should perform the prescribed worship."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "piṣṭakaiḥ",
+     "gloss": "with-rice-cakes",
+     "grounds": "oblation material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śatahomantu",
+     "gloss": "hundred-oblation",
+     "grounds": "compound: śata+homa; number of oblations; sandhi: homam+tu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāacca",
+     "gloss": "and-should-perform",
+     "grounds": "injunction; sandhi: kuryāt+ca",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What oblation and in what quantity should be performed with rice cakes?",
+   "premises": [
+    "Rice cakes are used as oblation material.",
+    "One hundred oblations are specified."
+   ],
+   "inference": "One should perform one hundred oblations with rice cakes.",
+   "uncertainties": [],
+   "plain_english": "O supreme goddess, one should perform one hundred oblations with rice cakes."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "vastraṃ",
+     "gloss": "cloth",
+     "grounds": "object to be wrapped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vastreṇa",
+     "gloss": "with-cloth",
+     "grounds": "wrapping material",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃveṣṭya",
+     "gloss": "having-wrapped",
+     "grounds": "preparatory action",
+     "morph": "gerund (sam-√veṣṭ)"
+    },
+    {
+     "surface": "vadhnīyāt",
+     "gloss": "should-bind",
+     "grounds": "injunction",
+     "morph": "3.sg.opt.act (√bandh)"
+    },
+    {
+     "surface": "raktatantunā",
+     "gloss": "with-red-thread",
+     "grounds": "compound: rakta+tantu; binding material",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "How must the cloth be prepared and secured in this ritual step?",
+   "premises": [
+    "A cloth is to be wrapped with another cloth.",
+    "The wrapped cloth is to be bound.",
+    "The binding is done with a red thread."
+   ],
+   "inference": "Having wrapped the cloth with a cloth, one should bind it with a red thread.",
+   "uncertainties": [],
+   "plain_english": "Having wrapped the cloth with another cloth, one should bind it with a red thread."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "kulavāre",
+     "gloss": "on-kula-day",
+     "grounds": "compound: kula+vāra; ritual timing",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "citāyām",
+     "gloss": "on-funeral-pyre",
+     "grounds": "ritual location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asaṃskṛtau",
+     "gloss": "unconsecrated",
+     "grounds": "describes citāyām",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "At what location and on what day may this rite be performed, even if the site is unconsecrated?",
+   "premises": [
+    "The rite is associated with a kula day.",
+    "The location may be a funeral pyre.",
+    "The funeral pyre may be unconsecrated."
+   ],
+   "inference": "On a kula day, the rite may be performed even on an unconsecrated funeral pyre.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, on a kula day, even on an unconsecrated funeral pyre."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "ṣaṭsahasraṃ",
+     "gloss": "six-thousand",
+     "grounds": "compound: ṣaṭ+sahasra; number of recitations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japaṃ",
+     "gloss": "recitation",
+     "grounds": "ritual act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completed action",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "part of additional count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aṣṭottaraṃ",
+     "gloss": "eight-over",
+     "grounds": "compound: aṣṭa+uttara; qualifies śatam",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japam",
+     "gloss": "recitation",
+     "grounds": "additional ritual act",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What total amount of recitation must be completed in this stage of the rite?",
+   "premises": [
+    "Six thousand recitations are to be done.",
+    "An additional one hundred and eight recitations are to be done."
+   ],
+   "inference": "One must perform six thousand recitations and then one hundred and eight more.",
+   "uncertainties": [],
+   "plain_english": "Having done six thousand recitations, and then one hundred and eight recitations."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "kṛṣṇapuṣpeṇa",
+     "gloss": "with-black-flower",
+     "grounds": "compound: kṛṣṇa+puṣpa; instrument of worship",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "preparatory ritual act",
+     "morph": "gerund (sam-√pūj)"
+    },
+    {
+     "surface": "juhūyāt",
+     "gloss": "should-offer",
+     "grounds": "injunction for oblation",
+     "morph": "3.sg.opt.act (√hu)"
+    },
+    {
+     "surface": "ārdrakeṇa",
+     "gloss": "with-ginger",
+     "grounds": "oblation material",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials are used for worship and oblation in this concluding ritual step?",
+   "premises": [
+    "Worship is performed with a black flower.",
+    "An oblation is made afterward.",
+    "The oblation uses ginger."
+   ],
+   "inference": "Having worshipped with a black flower, one should offer an oblation with ginger.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with a black flower, one should indeed offer an oblation with ginger."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "caturdikṣu",
+     "gloss": "four-directions",
+     "grounds": "locative plural of caturdik, indicating the four directions",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "vṛttakuṇḍeṣu",
+     "gloss": "round-pits",
+     "grounds": "locative plural of vṛttakuṇḍa, indicating round pits",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "mūrttibhiḥ",
+     "gloss": "with-images",
+     "grounds": "instrumental plural of mūrti, indicating accompanying images",
+     "morph": "instr.pl.f"
+    }
+   ],
+   "question": "In which directions and round pits are the images employed?",
+   "premises": [
+    "four directions are named",
+    "round pits are named",
+    "images are instrumental"
+   ],
+   "inference": "The verse specifies images in four directions and round pits.",
+   "uncertainties": [
+    "exact ritual action is not stated"
+   ],
+   "plain_english": "In the four directions, in round pits, with images."
+  }
+ ]
+}

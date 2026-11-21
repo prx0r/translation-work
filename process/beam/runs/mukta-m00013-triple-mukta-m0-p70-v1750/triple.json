@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p70",
+ "items": [
+  {
+   "verse": 1750,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "of-which",
+     "grounds": "relative pronoun; antecedent not explicit in this verse",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vijñāna+mātreṇa",
+     "gloss": "by-knowledge-alone",
+     "grounds": "instrumental of means; mātra expresses mere sufficiency",
+     "morph": "n.ins.sg (compound: vijñāna+mātra)"
+    },
+    {
+     "surface": "jāḍya+apaharaṇaṃ",
+     "gloss": "dullness-removal",
+     "grounds": "action-noun compound denoting removal of inertia",
+     "morph": "n.nom.sg (compound: jāḍya+apaharaṇa)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-arise",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What power does mere knowledge of this possess to remove dullness?",
+   "premises": [
+    "A certain knowledge is referred to by the relative pronoun.",
+    "Mere apprehension of this knowledge is sufficient.",
+    "The removal of dullness is its potential effect."
+   ],
+   "inference": "Therefore, mere knowledge of this can bring about the removal of dullness.",
+   "uncertainties": [
+    "The antecedent of yasyā is not specified within this verse."
+   ],
+   "plain_english": "By merely knowing this, the removal of dullness may come about."
+  }
+ ]
+}

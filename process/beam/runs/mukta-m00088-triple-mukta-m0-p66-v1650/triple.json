@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "sapiṇḍaśchedayed",
+     "gloss": "with-sapiṇḍa-should-cut",
+     "grounds": "fused form carries sapiṇḍa plus chedayed; sandhi retained",
+     "morph": "compound+verb fused"
+    },
+    {
+     "surface": "chedayed",
+     "gloss": "should-cut",
+     "grounds": "alternative cutting action",
+     "morph": "3.sg.act.opt (chid)"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhāntaḥkaraṇo",
+     "gloss": "with-pure-inner-organ",
+     "grounds": "compound adjective qualifying the agent",
+     "morph": "adj.nom.sg.m (śuddha+antaḥkaraṇa)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Must a sādhaka cut with sapiṇḍa, or is cutting with a pure inner organ sufficient?",
+   "premises": [
+    "sapiṇḍa cutting is prescribed",
+    "alternative cutting is allowed",
+    "pure inner organ qualifies"
+   ],
+   "inference": "Either sapiṇḍa cutting or pure-inner-organ cutting suffices.",
+   "uncertainties": [
+    "Exact ritual referent of sapiṇḍa remains unclear"
+   ],
+   "plain_english": "One should cut with sapiṇḍa, or cut, if the inner organ is pure."
+  }
+ ]
+}

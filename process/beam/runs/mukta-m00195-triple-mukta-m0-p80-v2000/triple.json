@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "yathālabdhairviniṣpādyā",
+     "gloss": "to-be-performed-with-as-obtained",
+     "grounds": "compound adjective agreeing with pūjā; yathā-labdha (as obtained) + viniṣpādyā (to be accomplished)",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "with-materials",
+     "grounds": "instrumental of means/substance",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "subject of the implied predicate",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "predicate adjective qualifying pūjā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which grade of worship is accomplished with whatever materials are available?",
+   "premises": [
+    "Worship can be performed using materials as they are obtained.",
+    "The materials employed determine a grade of worship.",
+    "This verse assigns a specific grade to such worship."
+   ],
+   "inference": "Worship performed with materials obtained as available is classified as the middle grade.",
+   "uncertainties": [],
+   "plain_english": "But worship that is performed with whatever materials are available is the middle grade."
+  }
+ ]
+}

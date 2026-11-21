@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "pradrohaṃ",
+     "gloss": "hostility",
+     "grounds": "hostility; accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parīvādaṃ",
+     "gloss": "slander",
+     "grounds": "slander; accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paravittaṃ",
+     "gloss": "another's-wealth",
+     "grounds": "another's wealth; accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratigraham",
+     "gloss": "acceptance",
+     "grounds": "acceptance; accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which four prohibited conducts are listed in this passage?",
+   "premises": [
+    "hostility is listed",
+    "slander is listed",
+    "another's wealth is listed",
+    "acceptance is listed"
+   ],
+   "inference": "The verse enumerates four prohibited conducts.",
+   "uncertainties": [
+    "exact doctrinal status of each item is not specified in this verse"
+   ],
+   "plain_english": "Hostility, slander, another's wealth, and acceptance."
+  }
+ ]
+}

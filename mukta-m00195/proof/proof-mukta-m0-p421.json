@@ -1,0 +1,119 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p421",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v10502 ratio=0.881",
+  "ALIGN_NODISP v10506 ratio=0.878",
+  "ALIGN_NODISP v10509 ratio=0.878",
+  "ALIGN_NODISP v10510 ratio=0.346",
+  "ALIGN_NODISP v10511 ratio=0.839",
+  "ALIGN_NODISP v10512 ratio=0.854",
+  "ALIGN_NODISP v10518 ratio=0.892",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "19da42b1e4721d87",
+ "source_digest_normalized_sha256": "19da42b1e4721d8777689161ed9592e7f2102abc295edefadd0368c760061c80",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 114
+ },
+ "align": {
+  "min_ratio": 0.346,
+  "sub090": {
+   "10502": {
+    "ratio": 0.881,
+    "disposition": null
+   },
+   "10506": {
+    "ratio": 0.878,
+    "disposition": null
+   },
+   "10509": {
+    "ratio": 0.878,
+    "disposition": null
+   },
+   "10510": {
+    "ratio": 0.346,
+    "disposition": null
+   },
+   "10511": {
+    "ratio": 0.839,
+    "disposition": null
+   },
+   "10512": {
+    "ratio": 0.854,
+    "disposition": null
+   },
+   "10518": {
+    "ratio": 0.892,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "Having offered twelve thousand oblations, one becomes beloved by all people."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 56,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 114,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v10502",
+  "fix: word-order/gloss vs source for v10506",
+  "fix: word-order/gloss vs source for v10509",
+  "fix: word-order/gloss vs source for v10510",
+  "fix: word-order/gloss vs source for v10511",
+  "fix: word-order/gloss vs source for v10512",
+  "fix: word-order/gloss vs source for v10518"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "75d992124da7c8c10644e3ab0286dccedd72126590ee863012d1e1ba8fe453df",
+  "l0": "a0bbe37a409bc7bf94e3d9f02ace70f4ce52daabeea76dab3877b7c546f10aae",
+  "argmap": "286a2232e66e7b6853595e7be63ea1d876b614774318e607ccb079916138bb8a",
+  "l2": "50fb4b032b069131dca737f608d80f8f84241a827a4f2fbb6a1ddd04df85ec7c",
+  "c1": "fa7dc03f5f10dd39e1eb5989037047f489c2618ebc3ad3a8c23d0209b5cfc7e1"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "19da42b1e4721d87",
+  "t1": "mukta-m0-p421/data/mukta-m0-p421.t1.json",
+  "l0": "mukta-m0-p421/data/mukta-m0-p421.l0.json",
+  "l2": "mukta-m0-p421/data/mukta-m0-p421.l2.json",
+  "c1": "mukta-m0-p421/data/mukta-m0-p421.c1.json"
+ }
+}

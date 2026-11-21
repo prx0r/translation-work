@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "brahmahatyākṛtaiḥ",
+     "gloss": "by-brahman-murder-committed",
+     "grounds": "compound: brahmahatyā (brahman-murder) + kṛtaiḥ (done/committed); instrumental plural agreeing with pāpaiḥ",
+     "morph": "compound-adj.i.pl.m"
+    },
+    {
+     "surface": "pāpair",
+     "gloss": "by-sins",
+     "grounds": "instrumental plural of pāpa (sin/evil deed)",
+     "morph": "n.i.pl.n"
+    },
+    {
+     "surface": "bhairavatvam",
+     "gloss": "bhairava-state",
+     "grounds": "abstract noun from Bhairava with -tva suffix",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "mama",
+     "gloss": "of-me",
+     "grounds": "genitive singular pronoun of first person",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "āgatam",
+     "gloss": "attained",
+     "grounds": "past participle of ā-√gam (to come/arrive at)",
+     "morph": "ppp.nom.sg.n (ā-√gam)"
+    }
+   ],
+   "question": "Through what grave transgression was the state of Bhairava attained by the speaker?",
+   "premises": [
+    "Sins committed as Brahman-murder are involved.",
+    "These sins are attributed to the speaker.",
+    "The state of Bhairava was attained by the speaker."
+   ],
+   "inference": "The speaker attained Bhairava-hood through sins committed as Brahman-murder.",
+   "uncertainties": [
+    "The internal compound structure of brahmahatyākṛtaiḥ may be parsed as a tatpuruṣa or as a descriptive compound."
+   ],
+   "plain_english": "Through sins committed as the murder of a Brahman, I attained the state of Bhairava."
+  }
+ ]
+}

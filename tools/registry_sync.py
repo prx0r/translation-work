@@ -143,27 +143,29 @@ def main() -> int:
         print(f"  [{e['tier']}] {e['kind']:9} {e['db_work']:28} {e['reason'][:70]}")
 
     if a.seed:
-        qpath = ROOT / 'process' / 'beam' / 'queue.json'
-        q = json.loads(qpath.read_text()) if qpath.exists() else []
-        have = {t['id'] for t in q}
         import datetime
+        from beam_swarm import queue_update
         now = datetime.datetime.now().isoformat(timespec='seconds')
-        added = 0
-        for e in plan:
-            if e['kind'] != 'recon':
-                continue
-            tid = f"recon-{e['db_work']}"
-            if tid in have:
-                continue
-            src = find_source(e['db_work'])
-            if not src:
-                continue  # assessor resolves source layout first; stays listed, unqueued
-            q.append({'id': tid, 'kind': 'recon', 'args': {'path': src, 'topic': e['db_work']},
-                      'status': 'pending', 'attempts': 0, 'max_attempts': 3,
-                      'worker': '', 'note': '', 'created': now, 'updated': now})
-            added += 1
-        json.dump(q, open(qpath, 'w'), indent=1)
-        print(f'seeded {added} recon tasks (source auto-resolved; rest await assessor)')
+        box = {'added': 0}
+        def _do(tasks):
+            have = {t['id'] for t in tasks}
+            for e in plan:
+                if e['kind'] != 'recon':
+                    continue
+                tid = f"recon-{e['db_work']}"
+                if tid in have:
+                    continue
+                src = find_source(e['db_work'])
+                if not src:
+                    continue
+                tasks.append({'id': tid, 'kind': 'recon',
+                              'args': {'path': src, 'topic': e['db_work']},
+                              'status': 'pending', 'attempts': 0, 'max_attempts': 3,
+                              'worker': '', 'note': '', 'created': now, 'updated': now})
+                have.add(tid); box['added'] += 1
+            return tasks, f"seeded {box['added']} recon"
+        queue_update(_do)
+        print(f"seeded {box['added']} recon tasks (locked; source auto-resolved)")
     return 0
 
 

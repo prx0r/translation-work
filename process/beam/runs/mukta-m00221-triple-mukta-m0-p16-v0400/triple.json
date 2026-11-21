@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "papracchaḥ",
+     "gloss": "asked",
+     "grounds": "verb root pracch in aorist third singular active",
+     "morph": "3.sg.act-aor + pracch"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇatastacchru",
+     "gloss": "bowed-then-heard",
+     "grounds": "fused sandhi form kept as one token; internal boundary not expanded",
+     "morph": "compound? fused"
+    },
+    {
+     "surface": "tāvatikautukī",
+     "gloss": "so-much-curious",
+     "grounds": "adjective describing the inquirer",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What further question does the bowed disciple ask after hearing the śakticakra arrangement?",
+   "premises": [
+    "the disciple bows again",
+    "the disciple remains curious",
+    "the śakticakra arrangement has been described"
+   ],
+   "inference": "curiosity prompts further inquiry after the śakticakra description",
+   "uncertainties": [
+    "exact internal split of praṇatastacchru is not expanded"
+   ],
+   "plain_english": "He bowed again and, being so curious, asked further."
+  }
+ ]
+}

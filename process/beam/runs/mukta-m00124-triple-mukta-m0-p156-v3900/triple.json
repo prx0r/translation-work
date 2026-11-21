@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p156",
+ "items": [
+  {
+   "verse": 3900,
+   "rows": [
+    {
+     "surface": "tadadhaḥ",
+     "gloss": "that-below",
+     "grounds": "adverbial compound tad+adhaḥ indicating position below that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muni",
+     "gloss": "sage",
+     "grounds": "masculine noun; syntactic role depends on construction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with",
+     "grounds": "indeclinable preposition accompanying an instrumental",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇāṃśaiḥ",
+     "gloss": "quality-portions",
+     "grounds": "compound guṇa+amśa in instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "pādakuṭṭimau",
+     "gloss": "foot-pavements",
+     "grounds": "compound pāda+kuṭṭima in dual form",
+     "morph": "n.acc.du"
+    }
+   ],
+   "question": "What is to be constructed below that together with the sage and quality portions?",
+   "premises": [
+    "The verse names a location below that.",
+    "It names companions and portions.",
+    "It names foot-pavements."
+   ],
+   "inference": "Foot-pavements are to be made below that with the sage and quality portions.",
+   "uncertainties": [
+    "The exact syntactic role of muni is unclear.",
+    "The dual form pādakuṭṭimau may be nominative or accusative."
+   ],
+   "plain_english": "Below that, with the sage and the portions of qualities, the two foot-pavements are to be made."
+  }
+ ]
+}

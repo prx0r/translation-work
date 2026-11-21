@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-declare",
+     "grounds": "verb of speaking; speaker asserts the teaching",
+     "morph": "1.sg.pres.act √kath"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of doubt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty regarding the stated result",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "first member indicating number in the compound",
+     "morph": "numeral-stem+compound-member"
+    },
+    {
+     "surface": "varga",
+     "gloss": "aims",
+     "grounds": "second member referring to the four human goals",
+     "morph": "m.stem+compound-member"
+    },
+    {
+     "surface": "āptaye",
+     "gloss": "for-attainment",
+     "grounds": "purpose or goal of the declared teaching",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "inclusive particle extending the scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can the declared teaching secure attainment of the four aims without doubt?",
+   "premises": [
+    "The speaker explicitly declares the teaching.",
+    "No doubt is said to remain.",
+    "The teaching is directed toward attaining the four aims."
+   ],
+   "inference": "Therefore the declared teaching is presented as a certain means for attaining the four aims.",
+   "uncertainties": [
+    "The specific four aims are implied by catur-varga but not enumerated in this verse."
+   ],
+   "plain_english": "I declare it: there is no doubt, and it is even for the attainment of the four aims."
+  }
+ ]
+}

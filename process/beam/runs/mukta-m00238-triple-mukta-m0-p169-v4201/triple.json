@@ -1,0 +1,836 @@
+{
+ "song": "mukta-m0-p169",
+ "items": [
+  {
+   "verse": 4201,
+   "rows": [
+    {
+     "surface": "devyāś",
+     "gloss": "of-goddess",
+     "grounds": "genitive singular feminine",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "chatrādidhāriṇyass",
+     "gloss": "umbrella-etc-bearing",
+     "grounds": "compound participle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "saptapatreṣu",
+     "gloss": "on-seven-petals",
+     "grounds": "locative plural neuter",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ceṭikāḥ",
+     "gloss": "attendants",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which attendants of the goddess bear umbrella and related emblems on the seven petals?",
+   "premises": [
+    "The goddess has attendants.",
+    "They bear umbrella and related emblems.",
+    "They stand on seven petals."
+   ],
+   "inference": "The attendants are the umbrella-bearing figures on the seven petals.",
+   "uncertainties": [
+    "Compound segmentation is not expanded."
+   ],
+   "plain_english": "The goddess's attendants, bearing umbrella and similar emblems, are on the seven petals."
+  },
+  {
+   "verse": 4202,
+   "rows": [
+    {
+     "surface": "tattadaṃkānusāreṇa",
+     "gloss": "according-to-each-mark",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "khelanīyā",
+     "gloss": "to-be-played",
+     "grounds": "gerundive feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-experts",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How should experts play the game according to each mark?",
+   "premises": [
+    "Play follows each mark.",
+    "Experts perform the play."
+   ],
+   "inference": "Experts play according to each mark.",
+   "uncertainties": [
+    "Fused sandhi not expanded."
+   ],
+   "plain_english": "Experts should play according to each mark."
+  },
+  {
+   "verse": 4203,
+   "rows": [
+    {
+     "surface": "trayāṇāṃ",
+     "gloss": "of-three",
+     "grounds": "genitive plural masculine",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "krīḍane",
+     "gloss": "games",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "caivaṃ",
+     "gloss": "and-thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣojñāyatāmiyān",
+     "gloss": "distinction-known-small",
+     "grounds": "compound verb form",
+     "morph": "3.sg.pass."
+    }
+   ],
+   "question": "What small distinction is known among the games of three?",
+   "premises": [
+    "Three games are discussed.",
+    "A small distinction is known."
+   ],
+   "inference": "The distinction among the three games is small and known.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "Among the three games, the distinction known is small."
+  },
+  {
+   "verse": 4204,
+   "rows": [
+    {
+     "surface": "cakravarticchadāstena",
+     "gloss": "emperor-leaves",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "participle feminine singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekoviṃśatiḥ",
+     "gloss": "twenty-one",
+     "grounds": "numeral nominative",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many emperor leaves are remembered by him?",
+   "premises": [
+    "Emperor leaves are remembered.",
+    "The count is twenty-one."
+   ],
+   "inference": "Twenty-one emperor leaves are remembered.",
+   "uncertainties": [
+    "Sandhi fusion not expanded."
+   ],
+   "plain_english": "Twenty-one emperor leaves are remembered by him."
+  },
+  {
+   "verse": 4205,
+   "rows": [
+    {
+     "surface": "ahardivaṃsyāccāmuṇḍārājñītasmādvicakṣaṇaiḥ",
+     "gloss": "day-night",
+     "grounds": "fused compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What day and night arrangement is indicated for the experts?",
+   "premises": [
+    "The token names day and night.",
+    "Experts are involved."
+   ],
+   "inference": "The verse indicates a day-night arrangement for experts.",
+   "uncertainties": [
+    "Single fused token; internal parsing uncertain."
+   ],
+   "plain_english": "The day-night arrangement is indicated for experts."
+  },
+  {
+   "verse": 4206,
+   "rows": [
+    {
+     "surface": "mohinījātibhāgeṣvanti",
+     "gloss": "mohini-class-parts",
+     "grounds": "compound locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "maṃmīnāṃkitaṃ",
+     "gloss": "fish-marked",
+     "grounds": "compound participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "chadama",
+     "gloss": "leaf",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which leaf is fish-marked in the Mohini class parts?",
+   "premises": [
+    "Mohini class parts are discussed.",
+    "A leaf is fish-marked."
+   ],
+   "inference": "The fish-marked leaf belongs to the Mohini class parts.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "In the Mohini class parts, the leaf is fish-marked."
+  },
+  {
+   "verse": 4207,
+   "rows": [
+    {
+     "surface": "varṇāstveṣāṃ",
+     "gloss": "colors",
+     "grounds": "nominative plural masculine",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yathāpūrvaṃ",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpyāssyuratiyuktitaḥ",
+     "gloss": "to-be-assumed",
+     "grounds": "compound verb form",
+     "morph": "3.pl.pass."
+    }
+   ],
+   "question": "How are the colors of these to be assumed as before?",
+   "premises": [
+    "Colors are discussed.",
+    "They are assumed as before."
+   ],
+   "inference": "The colors are to be assumed as before.",
+   "uncertainties": [
+    "Fused sandhi not expanded."
+   ],
+   "plain_english": "Their colors are to be assumed as before."
+  },
+  {
+   "verse": 4208,
+   "rows": [
+    {
+     "surface": "śrīcamuṇḍākṛpātrakṛṣṇarājamahībhujā",
+     "gloss": "śrī-cāmuṇḍā-grace-recipient",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is the recipient of Śrī Cāmuṇḍā's grace?",
+   "premises": [
+    "The token names Śrī Cāmuṇḍā's grace.",
+    "A king is named."
+   ],
+   "inference": "The king named is the recipient of Śrī Cāmuṇḍā's grace.",
+   "uncertainties": [
+    "Single fused token; internal parsing uncertain."
+   ],
+   "plain_english": "The king is the recipient of Śrī Cāmuṇḍā's grace."
+  },
+  {
+   "verse": 4209,
+   "rows": [
+    {
+     "surface": "ekaikasya",
+     "gloss": "of-each",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devasya",
+     "gloss": "deity",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pṛthagaṣṭā",
+     "gloss": "separately",
+     "grounds": "compound numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśacchadāḥ",
+     "gloss": "eight-ten-leaves",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many separate leaves does each deity have?",
+   "premises": [
+    "Each deity is discussed.",
+    "Leaves are counted separately."
+   ],
+   "inference": "Each deity has the stated separate leaves.",
+   "uncertainties": [
+    "Compound numeral parsing uncertain."
+   ],
+   "plain_english": "Each deity has separate leaves as stated."
+  },
+  {
+   "verse": 4210,
+   "rows": [
+    {
+     "surface": "meṣādimīnaparyaṃtaṃ",
+     "gloss": "aries-to-fish",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūrvasmāddurbalaṃ",
+     "gloss": "from-previous",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "weaker-supreme",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is weaker than the previous from Aries to Fish?",
+   "premises": [
+    "A range from Aries to Fish is given.",
+    "The previous is stronger."
+   ],
+   "inference": "The stated item is weaker than the previous.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "From Aries to Fish, it is weaker than the previous."
+  },
+  {
+   "verse": 4211,
+   "rows": [
+    {
+     "surface": "etaccihnānusāreṇa",
+     "gloss": "these-signs-according",
+     "grounds": "compound instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "khelanīyā",
+     "gloss": "to-be-played",
+     "grounds": "gerundive feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-experts",
+     "grounds": "instrumental plural masculine",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "How should experts play according to these signs?",
+   "premises": [
+    "Play follows these signs.",
+    "Experts perform the play."
+   ],
+   "inference": "Experts play according to these signs.",
+   "uncertainties": [
+    "Fused sandhi not expanded."
+   ],
+   "plain_english": "Experts should play according to these signs."
+  },
+  {
+   "verse": 4212,
+   "rows": [
+    {
+     "surface": "rājatoraktavarṇaśca",
+     "gloss": "king",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haritpītaśca",
+     "gloss": "red-color",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rājataḥ",
+     "gloss": "and-green-yellow",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What colors are associated with the king and the silver?",
+   "premises": [
+    "A king is mentioned.",
+    "Colors are listed."
+   ],
+   "inference": "The verse associates colors with the king and silver.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "The king and silver have the stated colors."
+  },
+  {
+   "verse": 4213,
+   "rows": [
+    {
+     "surface": "jātayaśca",
+     "gloss": "classes",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dvādaśaikajāteraṣṭādaśacchadāḥ",
+     "gloss": "and-twelve",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many classes and leaves are stated?",
+   "premises": [
+    "Classes are mentioned.",
+    "Leaves are counted."
+   ],
+   "inference": "The verse states classes and a leaf count.",
+   "uncertainties": [
+    "Compound numeral parsing uncertain."
+   ],
+   "plain_english": "The classes and leaf counts are as stated."
+  },
+  {
+   "verse": 4214,
+   "rows": [
+    {
+     "surface": "jñeyaḥ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krīḍākramaścaiva",
+     "gloss": "game-order",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathāpūrvamudīritaḥ",
+     "gloss": "and-as-before",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What game order is to be known as before?",
+   "premises": [
+    "A game order is mentioned.",
+    "It is as before."
+   ],
+   "inference": "The game order is to be known as before.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "The game order is to be known as before."
+  },
+  {
+   "verse": 4215,
+   "rows": [
+    {
+     "surface": "ketujātaumīnapatramante",
+     "gloss": "ketu-class",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "fish-leaf",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pradīyate",
+     "gloss": "at-end",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass."
+    }
+   ],
+   "question": "What is given at the end of the Ketu class fish leaf?",
+   "premises": [
+    "Ketu class is mentioned.",
+    "Something is given at the end."
+   ],
+   "inference": "The verse states what is given at the end.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "At the end of the Ketu class fish leaf, it is given."
+  },
+  {
+   "verse": 4216,
+   "rows": [
+    {
+     "surface": "śrīcāmuṇḍākṛpāpūrṇakṛṣṇarājamahībhujā",
+     "gloss": "śrī-cāmuṇḍā-grace-full",
+     "grounds": "fused compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who is full of Śrī Cāmuṇḍā's grace?",
+   "premises": [
+    "The token names Śrī Cāmuṇḍā's grace.",
+    "A king is named."
+   ],
+   "inference": "The king named is full of Śrī Cāmuṇḍā's grace.",
+   "uncertainties": [
+    "Single fused token; internal parsing uncertain."
+   ],
+   "plain_english": "The king is full of Śrī Cāmuṇḍā's grace."
+  },
+  {
+   "verse": 4217,
+   "rows": [
+    {
+     "surface": "nakulassahadevaśca",
+     "gloss": "nakula",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kauravo",
+     "gloss": "sahadeva",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhīṣma",
+     "gloss": "and-kaurava",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "bhishma-indeed-and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which figures are named in this list?",
+   "premises": [
+    "Nakula is named.",
+    "Sahadeva is named.",
+    "Bhīṣma is named."
+   ],
+   "inference": "The verse names Nakula, Sahadeva, and Bhīṣma.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "Nakula, Sahadeva, and Bhīṣma are named."
+  },
+  {
+   "verse": 4218,
+   "rows": [
+    {
+     "surface": "ekaikasya",
+     "gloss": "of-each",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāthasya",
+     "gloss": "lord",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "parvasaṃkhyāyutacchadāḥ",
+     "gloss": "parva-number-joined",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are the leaves of each lord joined with parva number?",
+   "premises": [
+    "Each lord is discussed.",
+    "Leaves are joined with parva number."
+   ],
+   "inference": "The leaves of each lord are joined with parva number.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "Each lord's leaves are joined with parva number."
+  },
+  {
+   "verse": 4219,
+   "rows": [
+    {
+     "surface": "patākācaikamārabhya",
+     "gloss": "banner",
+     "grounds": "compound absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryasaṃkhyā",
+     "gloss": "and-one",
+     "grounds": "compound nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vadhikramāt",
+     "gloss": "beginning",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "From what beginning is the banner and sun number counted?",
+   "premises": [
+    "A banner is mentioned.",
+    "Sun number is mentioned."
+   ],
+   "inference": "The verse counts from the stated beginning.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "From the stated beginning, banner and sun number are counted."
+  },
+  {
+   "verse": 4220,
+   "rows": [
+    {
+     "surface": "churikāmuṣṭibāṇau",
+     "gloss": "dagger",
+     "grounds": "compound nominative dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "fist",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāśasarpakaśāḥ",
+     "gloss": "arrow",
+     "grounds": "compound nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "and-noose",
+     "grounds": "ablative singular masculine",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What weapons are listed in order?",
+   "premises": [
+    "Dagger and fist are mentioned.",
+    "Noose, serpent, and whip are mentioned."
+   ],
+   "inference": "The verse lists weapons in order.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "The weapons are listed in order."
+  },
+  {
+   "verse": 4221,
+   "rows": [
+    {
+     "surface": "divākṛṣṇaṃ",
+     "gloss": "day",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "puraskṛtya",
+     "gloss": "kṛṣṇa-honoring",
+     "grounds": "absolutive",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "night",
+     "grounds": "locative singular feminine",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but-supreme-lord",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "parameśvaram",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Whom does one honor by day and by night?",
+   "premises": [
+    "Day and night are mentioned.",
+    "Parameśvara is mentioned."
+   ],
+   "inference": "Parameśvara is honored by day and night.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "By day and night, Parameśvara is honored."
+  },
+  {
+   "verse": 4222,
+   "rows": [
+    {
+     "surface": "atiraktaḥ",
+     "gloss": "very-red",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṭalaśca",
+     "gloss": "pale",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śvetoraktastathaiva",
+     "gloss": "and-white-red",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "likewise-and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What colors are listed here?",
+   "premises": [
+    "Very red is mentioned.",
+    "Pale is mentioned.",
+    "White-red is mentioned."
+   ],
+   "inference": "The verse lists these colors.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "The colors listed are very red, pale, and white-red."
+  },
+  {
+   "verse": 4223,
+   "rows": [
+    {
+     "surface": "nīlaścitraṃ",
+     "gloss": "blue",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cetivarṇāśchadānāṃ",
+     "gloss": "variegated",
+     "grounds": "compound genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "saṃprakīrtitāḥ",
+     "gloss": "these-colors",
+     "grounds": "participle nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What colors of leaves are proclaimed?",
+   "premises": [
+    "Blue is mentioned.",
+    "Variegated colors are mentioned."
+   ],
+   "inference": "The verse proclaims these leaf colors.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "Blue and variegated leaf colors are proclaimed."
+  },
+  {
+   "verse": 4224,
+   "rows": [
+    {
+     "surface": "viṣṇujātyantimaṃ",
+     "gloss": "viṣṇu-class",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "patraṃ",
+     "gloss": "last-leaf",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mohinyai",
+     "gloss": "to-mohinī",
+     "grounds": "dative singular feminine",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom-given",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dīyate",
+     "gloss": "dīyate",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass."
+    }
+   ],
+   "question": "To whom is the last Viṣṇu-class leaf given?",
+   "premises": [
+    "The last Viṣṇu-class leaf is mentioned.",
+    "It is given to Mohinī."
+   ],
+   "inference": "The last Viṣṇu-class leaf is given to Mohinī.",
+   "uncertainties": [
+    "Compound parsing uncertain."
+   ],
+   "plain_english": "The last Viṣṇu-class leaf is given to Mohinī."
+  }
+ ]
+}

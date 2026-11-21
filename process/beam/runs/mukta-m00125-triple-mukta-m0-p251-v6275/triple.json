@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p251",
+ "items": [
+  {
+   "verse": 6275,
+   "rows": [
+    {
+     "surface": "śākassālaśca",
+     "gloss": "śāka-and-sal-and",
+     "grounds": "fused enumeration: śākaḥ + sālaḥ + ca; names of timber trees",
+     "morph": "m.nom.sg+m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "panasaḥ",
+     "gloss": "jackfruit",
+     "grounds": "name of a timber tree",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṃśupaścandanāsane",
+     "gloss": "rosewood-and-sandalwood-seat",
+     "grounds": "fused form: śiṃśupaḥ + candana + āsane; rosewood and sandalwood for a seat",
+     "morph": "m.nom.sg+n.stem+n.loc.sg"
+    }
+   ],
+   "question": "Which specific types of wood are prescribed as suitable materials?",
+   "premises": [
+    "Śāka and sāla woods are included among the materials.",
+    "Panasa wood is included among the materials.",
+    "Śiṃśupa and candana woods are specified for the seat."
+   ],
+   "inference": "The prescribed suitable materials include śāka, sāla, panasa, śiṃśupa, and candana woods.",
+   "uncertainties": [
+    "The exact functional distinction between woods for general use and for the seat is not fully explicit in this verse alone."
+   ],
+   "plain_english": "Śāka, sāla, panasa, śiṃśupa, and sandalwood are the woods prescribed, with sandalwood specified for the seat."
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "song": "mukta-m0-p82",
+ "verse": 2030,
+ "question": "What is removed entirely in this operation?",
+ "premises": [
+  "The verse states a removal.",
+  "It states the removal is total.",
+  "No separate object is named here."
+ ],
+ "inference": "The operation removes everything in the stated scope.",
+ "uncertainties": [
+  "The exact object of removal is supplied by context."
+ ],
+ "plain_english": "Everything in scope is removed."
+}

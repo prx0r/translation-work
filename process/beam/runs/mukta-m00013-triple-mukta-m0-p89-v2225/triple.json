@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p89",
+ "items": [
+  {
+   "verse": 2225,
+   "rows": [
+    {
+     "surface": "taddarbhayugmaṃ",
+     "gloss": "that-kuśa-grass-pair",
+     "grounds": "compound tat-darbha-yugma; object of visarjayet",
+     "morph": "compound.n.acc.sg"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "into-fire",
+     "grounds": "locus of ritual release",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-release",
+     "grounds": "injunction completing the ritual action",
+     "morph": "3.sg.act.opt-√visṛj"
+    }
+   ],
+   "question": "What final act properly concludes the ritual use of the kuśa-grass pair?",
+   "premises": [
+    "A pair of kuśa grass has been ritually employed.",
+    "The ritual sequence requires a concluding act of dismissal.",
+    "Fire serves as the designated locus for this dismissal."
+   ],
+   "inference": "Therefore the employed kuśa-grass pair should be released into the fire.",
+   "uncertainties": [],
+   "plain_english": "One should release that pair of kuśa grass into the fire."
+  }
+ ]
+}

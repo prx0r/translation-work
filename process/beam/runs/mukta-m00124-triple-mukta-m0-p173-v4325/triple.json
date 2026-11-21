@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p173",
+ "items": [
+  {
+   "verse": 4325,
+   "rows": [
+    {
+     "surface": "lamba",
+     "gloss": "length",
+     "grounds": "adjective meaning long; used with measure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māna",
+     "gloss": "measure",
+     "grounds": "noun for measure or standard",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vihīne",
+     "gloss": "in-absence",
+     "grounds": "locative of vihīna, meaning deprived or absent",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "of-king",
+     "grounds": "king term in genitive sense from context",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "rāṣṭrasya",
+     "gloss": "and-realm",
+     "grounds": "genitive of realm",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nāśa",
+     "gloss": "destruction",
+     "grounds": "noun meaning ruin or destruction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "causing",
+     "grounds": "participle meaning causing or making",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What destruction results when the prescribed length measure is absent?",
+   "premises": [
+    "absence of proper length measure",
+    "king and realm destroyed",
+    "measure absence causes ruin"
+   ],
+   "inference": "lacking prescribed length measure brings ruin to king and realm",
+   "uncertainties": [
+    "exact syntactic relation of rāja and rāṣṭrasya unclear"
+   ],
+   "plain_english": "When the proper length measure is lacking, it causes destruction of the king and realm."
+  }
+ ]
+}

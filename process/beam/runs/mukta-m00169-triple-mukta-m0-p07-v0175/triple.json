@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p07",
+ "items": [
+  {
+   "verse": 175,
+   "rows": [
+    {
+     "surface": "nivedanīyaḥ",
+     "gloss": "to-be-imparted",
+     "grounds": "gerundive expressing obligation or prohibition",
+     "morph": "gerundive.m.nom.sg√ni-vid"
+    },
+    {
+     "surface": "kasyāpi",
+     "gloss": "to-anyone",
+     "grounds": "fused form of kasya + api indicating any person",
+     "morph": "ka.gen.sg+api(indecl)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācit",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the declared statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bruve",
+     "gloss": "i-declare",
+     "grounds": "first-person statement of authoritative injunction",
+     "morph": "1.sg.pres.mid√brū"
+    }
+   ],
+   "question": "Under what conditions may this teaching be communicated to another person?",
+   "premises": [
+    "The teaching is declared to be not impartable.",
+    "No person is permitted as a recipient.",
+    "This prohibition applies at all times."
+   ],
+   "inference": "Therefore, the teaching must never be communicated to anyone.",
+   "uncertainties": [
+    "The specific content referred to as impartable depends on the preceding context."
+   ],
+   "plain_english": "Thus I declare: this is never to be imparted to anyone."
+  }
+ ]
+}

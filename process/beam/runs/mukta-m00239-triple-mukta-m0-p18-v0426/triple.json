@@ -1,0 +1,1111 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "pūrvadrāvaiḥ",
+     "gloss": "previous-liquids",
+     "grounds": "instrumental plural of prior liquid",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "dinaikaṃ",
+     "gloss": "one-day",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kācakupyā",
+     "gloss": "glass-vessel",
+     "grounds": "instrumental singular feminine",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "nirudhya",
+     "gloss": "closing",
+     "grounds": "absolutive of nirudh",
+     "morph": "abs.-√rudh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparation step precedes the one-day glass-vessel sealing of the previous liquids?",
+   "premises": [
+    "previous liquids are sealed",
+    "sealing lasts one day",
+    "glass vessel is used"
+   ],
+   "inference": "The verse prescribes sealing previous liquids in a glass vessel for one day.",
+   "uncertainties": [
+    "exact liquid composition is not specified"
+   ],
+   "plain_english": "Seal the previous liquids in a glass vessel for one day."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "pañcaguñjā",
+     "gloss": "five-guñjā",
+     "grounds": "compound accusative plural",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "sitāsārddhaṃ",
+     "gloss": "with-sugar",
+     "grounds": "compound with sugar",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raso'yaṃ",
+     "gloss": "this-elixir",
+     "grounds": "nominative singular masculine with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madanodayaḥ",
+     "gloss": "love-arousal",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the named elixir made from five guñjā with sugar?",
+   "premises": [
+    "five guñjā are used",
+    "sugar is added",
+    "the elixir is called love-arousal"
+   ],
+   "inference": "The verse names the resulting preparation madanodaya.",
+   "uncertainties": [
+    "exact guñjā measure is not specified"
+   ],
+   "plain_english": "This elixir of five guñjā with sugar is called love-arousal."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "gavāṃ",
+     "gloss": "cows'",
+     "grounds": "genitive plural of cow",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kṣīreṇa",
+     "gloss": "with-milk",
+     "grounds": "instrumental singular",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "tatpeyaḥ",
+     "gloss": "that-drinkable",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "palārddham",
+     "gloss": "half-pala",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anupānakam",
+     "gloss": "without-vehicle",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How much of the elixir is drunk with cows' milk and without a vehicle?",
+   "premises": [
+    "cows' milk is the medium",
+    "half a pala is taken",
+    "no vehicle accompanies it"
+   ],
+   "inference": "The verse prescribes drinking half a pala with cows' milk and no vehicle.",
+   "uncertainties": [
+    "exact timing of drinking is not specified"
+   ],
+   "plain_english": "Drink half a pala of it with cows' milk, without a vehicle."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gokṣuram",
+     "gloss": "gokṣura",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "māsābhyāṃ",
+     "gloss": "two-months",
+     "grounds": "instrumental dual",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "śuṣkacūrṇaṃ",
+     "gloss": "dry-powder",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-prepare",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt.-√kḷp"
+    }
+   ],
+   "question": "For how long should gokṣura root be prepared as dry powder?",
+   "premises": [
+    "gokṣura root is used",
+    "dry powder is prepared",
+    "duration is two months"
+   ],
+   "inference": "The verse prescribes preparing gokṣura root as dry powder for two months.",
+   "uncertainties": [
+    "processing details are not specified"
+   ],
+   "plain_english": "Prepare gokṣura root as dry powder for two months."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "karṣamekaṃ",
+     "gloss": "one-karṣa",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gavāṃ",
+     "gloss": "cows'",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kṣīraiḥ",
+     "gloss": "with-milk",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "peyaṃ",
+     "gloss": "drinkable",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāmāṅganāyakam",
+     "gloss": "love-women-leader",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What dose of the preparation is drunk with cows' milk for love?",
+   "premises": [
+    "one karṣa is taken",
+    "cows' milk is used",
+    "it is called love-women-leader"
+   ],
+   "inference": "The verse prescribes drinking one karṣa with cows' milk.",
+   "uncertainties": [
+    "exact frequency is not specified"
+   ],
+   "plain_english": "Drink one karṣa with cows' milk, the love-women-leader preparation."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "bhojanānte",
+     "gloss": "after-meal",
+     "grounds": "locative singular compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "should-drink",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt.-√pā"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rāmāḥ",
+     "gloss": "women",
+     "grounds": "nominative plural feminine",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kāmayate",
+     "gloss": "desires",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.-√kam"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What result follows when women drink milk after a meal?",
+   "premises": [
+    "milk is drunk after a meal",
+    "women are the subjects",
+    "hundred is the stated number"
+   ],
+   "inference": "The verse says women desire a hundred after drinking milk after a meal.",
+   "uncertainties": [
+    "the object of desire is not specified"
+   ],
+   "plain_english": "After a meal, women drink milk and desire a hundred."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "vidārī",
+     "gloss": "vidārī",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "muśalīkandaṃ",
+     "gloss": "muśalī-tuber",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kokilākṣasya",
+     "gloss": "kokilākṣa's",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bījakam",
+     "gloss": "seed",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which ingredients are combined in this preparation?",
+   "premises": [
+    "vidārī is included",
+    "muśalī tuber is included",
+    "kokilākṣa seed is included"
+   ],
+   "inference": "The verse lists vidārī, muśalī tuber, and kokilākṣa seed as ingredients.",
+   "uncertainties": [
+    "proportions are not specified"
+   ],
+   "plain_english": "The ingredients are vidārī, muśalī tuber, and kokilākṣa seed."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "gavāṃ",
+     "gloss": "cows'",
+     "grounds": "genitive plural",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "kṣīraiḥ",
+     "gloss": "with-milk",
+     "grounds": "instrumental plural",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "pibetkarṣaṃ",
+     "gloss": "should-drink-karṣa",
+     "grounds": "compound optative form",
+     "morph": "3.sg.opt."
+    },
+    {
+     "surface": "ramayet",
+     "gloss": "delights",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt.-√ram"
+    },
+    {
+     "surface": "kāminīśatam",
+     "gloss": "hundred-lovers",
+     "grounds": "compound accusative singular",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What effect is attributed to drinking one karṣa with cows' milk?",
+   "premises": [
+    "one karṣa is drunk",
+    "cows' milk is used",
+    "hundred lovers are delighted"
+   ],
+   "inference": "The verse attributes delighting a hundred lovers to the preparation.",
+   "uncertainties": [
+    "exact preparation method is not specified"
+   ],
+   "plain_english": "Drinking one karṣa with cows' milk delights a hundred lovers."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "yogaḥ",
+     "gloss": "yoga",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāmāmṛtaḥ",
+     "gloss": "love-nectar",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khyāto",
+     "gloss": "famous",
+     "grounds": "past participle nominative singular",
+     "morph": "m.nom.sg.pastpart."
+    },
+    {
+     "surface": "balāyurvīryavarddhakaḥ",
+     "gloss": "strength-life-vigor-increasing",
+     "grounds": "compound nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the famous yoga called and what does it increase?",
+   "premises": [
+    "the yoga is called love-nectar",
+    "it is famous",
+    "it increases strength life and vigor"
+   ],
+   "inference": "The verse names a famous yoga, love-nectar, that increases strength, life, and vigor.",
+   "uncertainties": [
+    "exact ingredients are not specified"
+   ],
+   "plain_english": "The famous yoga love-nectar increases strength, life, and vigor."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "dhātrīphalasya",
+     "gloss": "āmalaka-fruit's",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāvayet",
+     "gloss": "should-impregnate",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt.-√bhū"
+    },
+    {
+     "surface": "tatphaladravaiḥ",
+     "gloss": "that-fruit-juices",
+     "grounds": "instrumental plural compound",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "With what should āmalaka fruit powder be impregnated?",
+   "premises": [
+    "āmalaka fruit powder is used",
+    "impregnation is prescribed",
+    "that fruit's juices are used"
+   ],
+   "inference": "The verse prescribes impregnating āmalaka powder with that fruit's juices.",
+   "uncertainties": [
+    "duration of impregnation is not specified"
+   ],
+   "plain_english": "Impregnate āmalaka fruit powder with that fruit's juices."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "cūrṇapādaṃ",
+     "gloss": "powder-quarter",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mṛtaṃ lohaṃ",
+     "gloss": "dead-iron",
+     "grounds": "compound accusative singular with internal space",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhvājye",
+     "gloss": "honey-ghee",
+     "grounds": "locative dual compound",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "śarkarānvitam",
+     "gloss": "with-sugar",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What quarter-powder ingredient is combined with dead iron, honey, ghee, and sugar?",
+   "premises": [
+    "a quarter of powder is used",
+    "dead iron is included",
+    "honey ghee and sugar are included"
+   ],
+   "inference": "The verse combines a quarter powder with dead iron, honey, ghee, and sugar.",
+   "uncertainties": [
+    "exact powder identity is not specified"
+   ],
+   "plain_english": "Combine a quarter powder with dead iron, honey, ghee, and sugar."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "kāmayet",
+     "gloss": "desires",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt.-√kam"
+    },
+    {
+     "surface": "strīśataṃ",
+     "gloss": "hundred-women",
+     "grounds": "compound accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhātrīlohaprabhāvataḥ",
+     "gloss": "āmalaka-iron-effect",
+     "grounds": "ablative singular compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What daily effect is attributed to the āmalaka-iron preparation?",
+   "premises": [
+    "a man desires",
+    "a hundred women are involved",
+    "the effect is daily"
+   ],
+   "inference": "The verse attributes daily desire for a hundred women to the āmalaka-iron effect.",
+   "uncertainties": [
+    "exact dosage is not specified"
+   ],
+   "plain_english": "Daily, from the āmalaka-iron effect, one desires a hundred women."
+  },
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "nārikelodakaiḥ",
+     "gloss": "coconut-water",
+     "grounds": "instrumental plural compound",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "bhāvyaṃ",
+     "gloss": "impregnated",
+     "grounds": "gerundive neuter singular",
+     "morph": "n.nom.sg.ger."
+    },
+    {
+     "surface": "yāmāntaṃ",
+     "gloss": "until-yāma",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "peṣayetsamam",
+     "gloss": "should-grind-evenly",
+     "grounds": "compound optative form",
+     "morph": "3.sg.opt."
+    }
+   ],
+   "question": "How long should the material be impregnated with coconut water before grinding?",
+   "premises": [
+    "coconut water is used",
+    "impregnation is prescribed",
+    "grinding is even"
+   ],
+   "inference": "The verse prescribes impregnating with coconut water until a yāma, then grinding evenly.",
+   "uncertainties": [
+    "exact yāma duration is not specified"
+   ],
+   "plain_english": "Impregnate with coconut water until a yāma, then grind evenly."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-them",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vaṭikā",
+     "gloss": "pill",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "should-make",
+     "grounds": "gerundive feminine singular",
+     "morph": "f.nom.sg.ger."
+    },
+    {
+     "surface": "madhvājyābhyāṃ",
+     "gloss": "with-honey-ghee",
+     "grounds": "instrumental dual compound",
+     "morph": "n.instr.du"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhakṣayet",
+     "gloss": "should-eat",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt.-√bhakṣ"
+    }
+   ],
+   "question": "How should the pill made likewise with those ingredients be consumed?",
+   "premises": [
+    "a pill is made likewise",
+    "honey and ghee are used",
+    "eating is prescribed"
+   ],
+   "inference": "The verse prescribes making a pill likewise and eating it with honey and ghee.",
+   "uncertainties": [
+    "exact pill size is not specified"
+   ],
+   "plain_english": "Likewise make a pill with them and eat it with honey and ghee."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "satāmbūlaṃ",
+     "gloss": "with-betel",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatāmūlam",
+     "gloss": "hundred-roots",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anupānaṃ",
+     "gloss": "vehicle",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirantaram",
+     "gloss": "constantly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What constant accompaniment is prescribed with betel and hundred roots?",
+   "premises": [
+    "betel is included",
+    "hundred roots are included",
+    "constant use is prescribed"
+   ],
+   "inference": "The verse prescribes constant use with betel, hundred roots, and a vehicle.",
+   "uncertainties": [
+    "exact vehicle is not specified"
+   ],
+   "plain_english": "Constantly take it with betel, hundred roots, and a vehicle."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "nābhipralepena",
+     "gloss": "navel-anointing",
+     "grounds": "instrumental singular compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bandhaḥ",
+     "gloss": "bondage",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadyo",
+     "gloss": "immediately",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimuñcati",
+     "gloss": "releases",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.-√muc"
+    }
+   ],
+   "question": "What immediate effect is attributed to navel anointing with that preparation?",
+   "premises": [
+    "that preparation is used",
+    "navel anointing is performed",
+    "bondage is released"
+   ],
+   "inference": "The verse says navel anointing with that preparation immediately releases bondage.",
+   "uncertainties": [
+    "type of bondage is not specified"
+   ],
+   "plain_english": "Navel anointing with that preparation immediately releases bondage."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental singular",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "liṅgapralepena",
+     "gloss": "penis-anointing",
+     "grounds": "instrumental singular compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "ramet",
+     "gloss": "enjoys",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt.-√ram"
+    },
+    {
+     "surface": "rāmāśataṃ",
+     "gloss": "hundred-women",
+     "grounds": "compound accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What effect is attributed to penis anointing with that preparation?",
+   "premises": [
+    "that preparation is used",
+    "penis anointing is performed",
+    "a man enjoys a hundred women"
+   ],
+   "inference": "The verse says a man enjoys a hundred women by penis anointing with that preparation.",
+   "uncertainties": [
+    "duration of effect is not specified"
+   ],
+   "plain_english": "A man enjoys a hundred women by penis anointing with that preparation."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "yaṣṭī",
+     "gloss": "licorice",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāgabalā",
+     "gloss": "nāgabalā",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kacūra",
+     "gloss": "kacūra",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madanaṃ",
+     "gloss": "madana",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jātīphalaṃ",
+     "gloss": "nutmeg",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saindhavam",
+     "gloss": "rock-salt",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which six ingredients are listed in this preparation?",
+   "premises": [
+    "licorice is included",
+    "nāgabalā is included",
+    "kacūra is included",
+    "madana is included",
+    "nutmeg is included",
+    "rock-salt is included"
+   ],
+   "inference": "The verse lists six ingredients: licorice, nāgabalā, kacūra, madana, nutmeg, and rock-salt.",
+   "uncertainties": [
+    "proportions are not specified"
+   ],
+   "plain_english": "The ingredients are licorice, nāgabalā, kacūra, madana, nutmeg, and rock-salt."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃvijayā",
+     "gloss": "saṃvijayā",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sitādviguṇitā",
+     "gloss": "sugar-double",
+     "grounds": "compound nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhvājyayoḥ",
+     "gloss": "honey-ghee",
+     "grounds": "genitive dual compound",
+     "morph": "n.gen.du"
+    },
+    {
+     "surface": "piṃḍitam",
+     "gloss": "lump",
+     "grounds": "past participle nominative singular",
+     "morph": "n.nom.sg.pastpart."
+    }
+   ],
+   "question": "How is the powder with saṃvijayā and double sugar formed?",
+   "premises": [
+    "powder is used",
+    "saṃvijayā is included",
+    "double sugar is included",
+    "honey and ghee are used"
+   ],
+   "inference": "The verse describes forming the powder into a lump with honey and ghee.",
+   "uncertainties": [
+    "exact lump size is not specified"
+   ],
+   "plain_english": "The powder with saṃvijayā and double sugar is formed into a lump with honey and ghee."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "kṣīṇe",
+     "gloss": "when-depleted",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "puṣṭikaraṃ",
+     "gloss": "nourishing",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "gadakṣayakaraṃ",
+     "gloss": "disease-destruction",
+     "grounds": "nominative singular neuter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hantyāśu",
+     "gloss": "kills-quickly",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvāmayam",
+     "gloss": "all-diseases",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What effects are attributed to the preparation when one is depleted?",
+   "premises": [
+    "depletion is the condition",
+    "nourishment is provided",
+    "disease destruction is provided",
+    "all diseases are killed quickly"
+   ],
+   "inference": "The verse attributes nourishment, disease destruction, and quick killing of all diseases to the preparation when one is depleted.",
+   "uncertainties": [
+    "exact depletion state is not specified"
+   ],
+   "plain_english": "When depleted, it nourishes, destroys disease, and quickly kills all diseases."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "dhatte",
+     "gloss": "gives",
+     "grounds": "present third singular",
+     "morph": "3.sg.act.-√dhā"
+    },
+    {
+     "surface": "sarvaguṇaṃ",
+     "gloss": "all-virtues",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haṭhāt",
+     "gloss": "forcefully",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svavadaśādhyānapradhānaṃ",
+     "gloss": "own-state-meditation-chief",
+     "grounds": "compound accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the preparation give forcefully and again?",
+   "premises": [
+    "all virtues are given",
+    "force is involved",
+    "own-state meditation is chief",
+    "repetition is indicated"
+   ],
+   "inference": "The verse says the preparation forcefully gives all virtues, with own-state meditation as chief, again.",
+   "uncertainties": [
+    "exact meditation practice is not specified"
+   ],
+   "plain_english": "It forcefully gives all virtues, with own-state meditation as chief, again."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "siddho'yaṃ",
+     "gloss": "accomplished-this",
+     "grounds": "nominative singular masculine with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samadṛṣṭapratyayakarī",
+     "gloss": "equal-vision-faith-causing",
+     "grounds": "compound nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rājñā",
+     "gloss": "by-king",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sevyatām",
+     "gloss": "should-be-used",
+     "grounds": "passive imperative third singular",
+     "morph": "3.sg.pass.imp.-√sev"
+    }
+   ],
+   "question": "Who should always use this accomplished preparation that causes equal vision and faith?",
+   "premises": [
+    "the preparation is accomplished",
+    "it causes equal vision and faith",
+    "the king is involved",
+    "constant use is prescribed"
+   ],
+   "inference": "The verse prescribes that the king should always use this accomplished preparation.",
+   "uncertainties": [
+    "exact royal context is not specified"
+   ],
+   "plain_english": "This accomplished preparation, causing equal vision and faith, should always be used by the king."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "naro",
+     "gloss": "man",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vīryakarānyogān",
+     "gloss": "vigor-causing-yogas",
+     "grounds": "compound accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddho",
+     "gloss": "purified",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nirāmayaḥ",
+     "gloss": "disease-free",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What condition must a man meet to use vigor-causing yogas properly?",
+   "premises": [
+    "a man is the subject",
+    "vigor-causing yogas are used",
+    "proper use is prescribed",
+    "purification and disease-freedom are stated"
+   ],
+   "inference": "The verse says a purified, disease-free man properly uses vigor-causing yogas.",
+   "uncertainties": [
+    "exact purification method is not specified"
+   ],
+   "plain_english": "A purified, disease-free man properly uses vigor-causing yogas."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvaṃ",
+     "gloss": "before",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśādvarṣāt",
+     "gloss": "sixteen-years",
+     "grounds": "ablative singular compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "saptatyāḥ parato",
+     "gloss": "after-seventy",
+     "grounds": "compound ablative phrase",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What age limits are stated for using these preparations?",
+   "premises": [
+    "use is not before sixteen years",
+    "use is not after seventy years",
+    "both limits are stated"
+   ],
+   "inference": "The verse states the preparations are not used before sixteen years or after seventy years.",
+   "uncertainties": [
+    "exact age calculation is not specified"
+   ],
+   "plain_english": "They are not used before sixteen years or after seventy years."
+  }
+ ]
+}

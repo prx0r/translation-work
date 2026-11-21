@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "brahmavidyāsvarūpāñca",
+     "gloss": "brahma-knowledge-form-and",
+     "grounds": "fused accusative feminine singular of brahmavidyāsvarūpa plus indeclinable ca; internal sandhi marks the conjunction",
+     "morph": "acc.sg.f (compound: brahma+vidyā+svarūpa) + (indecl.)"
+    },
+    {
+     "surface": "bhuktimuktiphalapradām",
+     "gloss": "enjoyment-liberation-fruit-giving",
+     "grounds": "accusative feminine singular compound describing the goddess as bestower of both bhukti and mukti",
+     "morph": "acc.sg.f (compound: bhukti+mukti+phala+prada)"
+    }
+   ],
+   "question": "Is the goddess's form as brahma-knowledge the source of both worldly enjoyment and final liberation?",
+   "premises": [
+    "brahma-knowledge has a goddess-form",
+    "that form grants enjoyment and liberation",
+    "both fruits arise from one source"
+   ],
+   "inference": "the verse identifies brahma-knowledge's form as bestower of both bhukti and mukti",
+   "uncertainties": [
+    "exact sandhi split of brahmavidyāsvarūpāñca",
+    "whether ca coordinates with a preceding predicate"
+   ],
+   "plain_english": "She is the very form of brahma-knowledge, granting the fruits of enjoyment and liberation."
+  }
+ ]
+}

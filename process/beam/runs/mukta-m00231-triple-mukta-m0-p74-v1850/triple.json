@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1850,
+   "rows": [
+    {
+     "surface": "palārdhaṃ",
+     "gloss": "half-pala",
+     "grounds": "half a pala measure",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "gomayaṃ",
+     "gloss": "cow-dung",
+     "grounds": "substance to be measured",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "liquid ingredient",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "prasthaṃ",
+     "gloss": "one-prastha",
+     "grounds": "measure for milk",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "dairy ingredient",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "indecl."
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "equal quantity",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What equal quantity of cow dung, milk, and curd is prescribed in this rite?",
+   "premises": [
+    "Cow dung is measured as half a pala.",
+    "Milk is measured as one prastha.",
+    "Curd is prescribed in equal measure."
+   ],
+   "inference": "The verse prescribes half a pala of cow dung, a prastha of milk, and an equal amount of curd.",
+   "uncertainties": [
+    "The exact ritual application is not stated in this verse."
+   ],
+   "plain_english": "Half a pala of cow dung, a prastha of milk, and an equal amount of curd."
+  }
+ ]
+}

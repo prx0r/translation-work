@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 150,
+   "rows": [
+    {
+     "surface": "navamīcogra caṃḍā",
+     "gloss": "ninth-fierce-caṇḍā",
+     "grounds": "legacy hint ninth-fierce-caṇḍā; fused token kept whole",
+     "morph": "compound (navamī+cogra+caṇḍā)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navadurgāḥprakīrtitāḥ",
+     "gloss": "nine-durgās-declared",
+     "grounds": "legacy hint nine-durgās-declared; fused sandhi form not split",
+     "morph": "fem.nom.pl (participle)"
+    },
+    {
+     "surface": "tāsāṃvarṇā",
+     "gloss": "their-colors",
+     "grounds": "legacy hint their-colors; fused sandhi form not split",
+     "morph": "compound (tāsāṃ+varṇā)"
+    }
+   ],
+   "question": "Which fierce ninth caṇḍā and nine durgās are declared together with their colors?",
+   "premises": [
+    "ninth fierce caṇḍā is named",
+    "nine durgās are declared",
+    "their colors are listed"
+   ],
+   "inference": "the verse enumerates the ninth fierce caṇḍā, the nine durgās, and their colors",
+   "uncertainties": [
+    "token boundaries and sandhi fusion preserved from supplied token list",
+    "glosses follow legacy hints"
+   ],
+   "plain_english": "The ninth fierce Caṇḍā and the nine Durgās are declared, along with their colors."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "mantraḥ+ayam",
+     "gloss": "this-mantra",
+     "grounds": "fused form of mantraḥ (mantra) and ayam (this); internal sandhi marked by +",
+     "morph": "pron.nom.sg.m + noun.nom.sg.m"
+    },
+    {
+     "surface": "deva+devasya",
+     "gloss": "of-god-of-gods",
+     "grounds": "genitive dependent of mantraḥ+ayam; compound deva-deva (god-of-gods)",
+     "morph": "compound noun.gen.sg.m"
+    },
+    {
+     "surface": "ṛṣi+gargaiḥ",
+     "gloss": "by-sage-garga",
+     "grounds": "agent of udāhṛtaḥ; fused form with internal sandhi marked by +; honorific or plural instrumental form of ṛṣi-garga",
+     "morph": "compound noun.ins.pl.m"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle describing mantraḥ+ayam",
+     "morph": "ppp.nom.sg.m (ud-ā-√hṛ)"
+    },
+    {
+     "surface": "ṛṣi",
+     "gloss": "sage",
+     "grounds": "appositive or title identifying gargaṃ-",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "gargaṃ-",
+     "gloss": "garga",
+     "grounds": "name of the sage; trailing dash preserved as given in the token",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "Who is credited with declaring this mantra of the God of gods?",
+   "premises": [
+    "The mantra is identified as belonging to the God of gods.",
+    "The mantra is described as having been declared.",
+    "The declaration is attributed to the sage Garga."
+   ],
+   "inference": "The sage Garga is the authoritative transmitter of this mantra of the God of gods.",
+   "uncertainties": [
+    "The exact grammatical analysis of ṛṣi+gargaiḥ as an instrumental plural or honorific form is not fully certain.",
+    "The syntactic role of the final tokens ṛṣi gargaṃ- in relation to the preceding clause is unclear from this verse alone."
+   ],
+   "plain_english": "This mantra of the God of gods was declared by the sage Garga, the sage Garga."
+  }
+ ]
+}

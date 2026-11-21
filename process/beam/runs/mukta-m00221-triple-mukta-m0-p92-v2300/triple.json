@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p92",
+ "items": [
+  {
+   "verse": 2300,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative of first-person pronoun aham",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "hyaviditaṃ",
+     "gloss": "unknown",
+     "grounds": "fused sandhi form of hi + avidita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "neuter noun sthāna",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmāṇḍāntarbhavet",
+     "gloss": "within-brahmanda-would-be",
+     "grounds": "fused compound of brahmāṇḍa, antar, and bhavet",
+     "morph": "v.3.sg.opt-bhū"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can any place within the brahmanda remain unknown to Hayagriva?",
+   "premises": [
+    "No place within brahmanda is unknown to me.",
+    "Hayagriva speaks of complete knowledge.",
+    "The verse denies any unknown location."
+   ],
+   "inference": "Hayagriva claims omniscience over every place in the brahmanda.",
+   "uncertainties": [
+    "Exact speaker and addressee depend on surrounding context.",
+    "Fused sandhi form hyaviditaṃ may include hi."
+   ],
+   "plain_english": "There is no place within the brahmanda that is ever unknown to me."
+  }
+ ]
+}

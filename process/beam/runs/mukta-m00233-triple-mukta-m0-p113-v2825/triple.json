@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-established",
+     "grounds": "past passive participle of saṃ-sthā, 'having established'",
+     "morph": "participle (absolutive)"
+    },
+    {
+     "surface": "dikpālebhyo",
+     "gloss": "to-direction-guardians",
+     "grounds": "dikpāla = direction-guardian; dative plural 'to the direction-guardians'",
+     "morph": "dative.pl.m"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "offers",
+     "grounds": "third person singular active present of hu, 'offers'",
+     "morph": "3.sg.act-pres root juh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering is made to the direction-guardians after the deities are established?",
+   "premises": [
+    "Deities are established at the doors.",
+    "Direction-guardians receive offerings.",
+    "The rite includes an offering."
+   ],
+   "inference": "After establishing the deities, one offers to the direction-guardians.",
+   "uncertainties": [
+    "The exact offering substance is not specified in this verse."
+   ],
+   "plain_english": "Having established them, he offers to the direction-guardians, and continues the rite."
+  }
+ ]
+}

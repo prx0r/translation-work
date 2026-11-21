@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "stava+mātrasya",
+     "gloss": "of-mere-hymn",
+     "grounds": "compound stava+mātra in genitive relation expressing 'of a mere hymn'",
+     "morph": "compound.gen.sg.n"
+    },
+    {
+     "surface": "māhātmyam",
+     "gloss": "greatness",
+     "grounds": "object or subject denoting the greatness being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktra+koṭi+śataiḥ",
+     "gloss": "by-hundreds-of-crores-of-mouths",
+     "grounds": "compound vaktra+koṭi+śata indicating an immense number of mouths as instrument",
+     "morph": "compound.inst.pl.n"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle intensifying the insufficiency of countless mouths",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can the greatness of a mere hymn be fully expressed even by countless mouths?",
+   "premises": [
+    "The subject is the greatness of a mere hymn.",
+    "Hundreds of crores of mouths represent an immeasurable capacity for speech.",
+    "Even such immense expressive capacity is invoked as insufficient."
+   ],
+   "inference": "The greatness of a mere hymn is beyond complete verbal expression.",
+   "uncertainties": [
+    "The governing verb expressing impossibility or description is supplied from the surrounding context."
+   ],
+   "plain_english": "Even with hundreds of crores of mouths, the greatness of a mere hymn cannot be fully expressed."
+  }
+ ]
+}

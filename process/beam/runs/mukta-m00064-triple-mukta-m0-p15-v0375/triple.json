@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "taravo'pi",
+     "gloss": "trees-also",
+     "grounds": "fused form taravaḥ + api; trees included by emphatic particle",
+     "morph": "taru+m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvanti",
+     "gloss": "live",
+     "grounds": "predicate applied to trees",
+     "morph": "3.pl.act-pres √jīv"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "beast",
+     "grounds": "animal being named as living",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pakṣī",
+     "gloss": "bird",
+     "grounds": "winged being named as living",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that-one",
+     "grounds": "demonstrative referring to the named beings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "predicate affirming life of the individual being",
+     "morph": "3.sg.act-pres √jīv"
+    }
+   ],
+   "question": "What range of beings, including trees and animals, possesses life?",
+   "premises": [
+    "Trees also live.",
+    "A beast is a living being.",
+    "A bird is a living being."
+   ],
+   "inference": "Life extends across diverse beings, from trees to animals and birds.",
+   "uncertainties": [
+    "The scope of sa is ambiguous; it may refer distributively to each named being or collectively."
+   ],
+   "plain_english": "Even trees indeed live; a beast and a bird also live."
+  }
+ ]
+}

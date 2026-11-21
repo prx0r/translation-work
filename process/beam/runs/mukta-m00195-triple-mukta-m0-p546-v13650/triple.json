@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p546",
+ "items": [
+  {
+   "verse": 13650,
+   "rows": [
+    {
+     "surface": "vārttāli",
+     "gloss": "O-Varttali",
+     "grounds": "invocatory name of a goddess or mantra-power in the sequence",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vārāhi+yugaṃ",
+     "gloss": "pair-of-Varahis",
+     "grounds": "compound: vārāhi+pair; two forms or aspects of Varahi",
+     "morph": "n.acc.sg, compound"
+    },
+    {
+     "surface": "vārāhamukhi",
+     "gloss": "O-Varahamukhi",
+     "grounds": "invocatory name of the boar-faced goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vāgbhavam",
+     "gloss": "speech-seed",
+     "grounds": "the vāgbhava bīja, seed-syllable associated with speech",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mantric names and seed-syllable are specified for inscription in this ritual sequence?",
+   "premises": [
+    "The verse lists vārttāli as a named mantric element.",
+    "The verse specifies a pair associated with Vārāhī.",
+    "The verse names Vārāhamukhī and the vāgbhava seed-syllable."
+   ],
+   "inference": "The prescribed inscription includes the invocations Vārttāli, the pair of Vārāhīs, Vārāhamukhī, and the vāgbhava bīja.",
+   "uncertainties": [
+    "The exact grammatical role of vārttāli and vārāhamukhi in the sentence is inferred from mantra-listing context.",
+    "The precise referent of vārāhi+yugaṃ as two specific forms is not explicit in this verse alone."
+   ],
+   "plain_english": "Write Vārttāli, the pair of Vārāhīs, Vārāhamukhī, and the vāgbhava seed-syllable."
+  }
+ ]
+}

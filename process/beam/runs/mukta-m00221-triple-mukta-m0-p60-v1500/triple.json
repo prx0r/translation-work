@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tiraskṛtiḥ",
+     "gloss": "defeat",
+     "grounds": "noun from tiras-kṛ; nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jitvā",
+     "gloss": "having-defeated",
+     "grounds": "gerund of root ji",
+     "morph": "gerund (indecl.)"
+    },
+    {
+     "surface": "daityān",
+     "gloss": "demons",
+     "grounds": "accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tapana+locanān",
+     "gloss": "sun-eyed",
+     "grounds": "compound tapana (sun) + locana (eye); accusative plural masculine",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What is the consequence of defeating the sun-eyed demons?",
+   "premises": [
+    "tiraskṛti defeats demons",
+    "demons are sun-eyed",
+    "defeat precedes divine joy"
+   ],
+   "inference": "The verse states that after defeating the sun-eyed demons, the gods' rejoicing follows.",
+   "uncertainties": [
+    "Exact referent of tiraskṛti is unclear",
+    "Whether tapana-locana is a proper epithet or descriptive compound"
+   ],
+   "plain_english": "Thus, having defeated the sun-eyed demons."
+  }
+ ]
+}

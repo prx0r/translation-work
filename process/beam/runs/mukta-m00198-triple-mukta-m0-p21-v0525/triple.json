@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "vāmapārśve",
+     "gloss": "on-left-side",
+     "grounds": "locative of compound vāma-pārśva indicating location",
+     "morph": "vāma-pārśva.loc.sg.n"
+    },
+    {
+     "surface": "kavāṭe",
+     "gloss": "on-door-panel",
+     "grounds": "locative of kavāṭa specifying the panel",
+     "morph": "kavāṭa.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast with the preceding specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayadvādupaṭṭikā",
+     "gloss": "should-attach-two-strips",
+     "grounds": "fused form: yojayet (optative of causative √yuj) + dvā (two) + upaṭṭikā (strip); sandhi within token",
+     "morph": "yojayet.opt.3.sg.act;√yuj-caus+dvā+upaṭṭikā.nom.sg.f"
+    }
+   ],
+   "question": "What specific fitting is required for the left-side door-panel?",
+   "premises": [
+    "The left-side door-panel is the specified location.",
+    "Two strips are designated for attachment.",
+    "The action of attaching is prescribed."
+   ],
+   "inference": "The left-side door-panel must have two strips attached.",
+   "uncertainties": [
+    "The exact material or form of upaṭṭikā is not specified in this verse."
+   ],
+   "plain_english": "But on the left-side door-panel, one should attach two strips."
+  }
+ ]
+}

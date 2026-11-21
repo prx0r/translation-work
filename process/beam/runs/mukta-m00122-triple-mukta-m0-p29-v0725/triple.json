@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "āyuḥ",
+     "gloss": "life",
+     "grounds": "neuter noun for life",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāntiṃ",
+     "gloss": "beauty",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śriyaṃ",
+     "gloss": "prosperity",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhūmiṃ",
+     "gloss": "land",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vijayaṃ",
+     "gloss": "victory",
+     "grounds": "masculine accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaśvadaśnute",
+     "gloss": "always-enjoys",
+     "grounds": "fused form of śaśvat plus aśnute",
+     "morph": "v.3.sg.act-pres (root aś)"
+    },
+    {
+     "surface": "aśnute",
+     "gloss": "enjoys",
+     "grounds": "third-person singular present active",
+     "morph": "v.3.sg.act-pres (root aś)"
+    }
+   ],
+   "question": "What benefits does the practitioner always enjoy through this rite?",
+   "premises": [
+    "The verse lists five benefits.",
+    "It says they are always enjoyed.",
+    "The final verb repeats enjoyment."
+   ],
+   "inference": "The rite grants enduring life beauty prosperity land and victory.",
+   "uncertainties": [
+    "Token six appears to fuse śaśvat and aśnute while token seven repeats aśnute."
+   ],
+   "plain_english": "Life, beauty, prosperity, land, and victory are always enjoyed—and enjoyed."
+  }
+ ]
+}

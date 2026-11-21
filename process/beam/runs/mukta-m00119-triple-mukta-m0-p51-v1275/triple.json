@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p51",
+ "items": [
+  {
+   "verse": 1275,
+   "rows": [
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "indeclinable adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāptān",
+     "gloss": "obtained",
+     "grounds": "past participle in accusative plural masculine",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "trirātrasyān",
+     "gloss": "of-three-nights",
+     "grounds": "genitive form fused with following accusative plural ending",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śavān",
+     "gloss": "corpses",
+     "grounds": "accusative plural masculine noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "absolutive of ā-nī",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-parvati",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What ritual instruction is given regarding corpses obtained after three nights?",
+   "premises": [
+    "Corpses are obtained immediately.",
+    "The corpses are of three nights.",
+    "The corpses are brought."
+   ],
+   "inference": "The instruction is to bring immediately the obtained three-night corpses.",
+   "uncertainties": [
+    "The fused ending in trirātrasyān is not fully resolved."
+   ],
+   "plain_english": "Immediately bring the obtained corpses of three nights, O Parvati."
+  }
+ ]
+}

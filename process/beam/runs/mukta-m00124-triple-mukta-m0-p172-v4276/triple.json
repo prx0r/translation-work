@@ -1,0 +1,984 @@
+{
+ "song": "mukta-m0-p172",
+ "items": [
+  {
+   "verse": 4276,
+   "rows": [
+    {
+     "surface": "lambasthānoktamārgeṇa",
+     "gloss": "by-path-stated-in-lambasthāna",
+     "grounds": "compound path stated in lambasthāna",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dakṣiṇā",
+     "gloss": "fee",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the fee for others be determined by the path stated in lambasthāna?",
+   "premises": [
+    "lambasthāna states a path",
+    "others receive a fee",
+    "the fee should be set accordingly"
+   ],
+   "inference": "The fee for others follows the stated path.",
+   "uncertainties": [
+    "exact fee amount not specified"
+   ],
+   "plain_english": "By the path stated in lambasthāna, the fee for others should be set."
+  },
+  {
+   "verse": 4277,
+   "rows": [
+    {
+     "surface": "yajamānāya",
+     "gloss": "to-sacrificer",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sandadyāt",
+     "gloss": "should-give",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "sodakaṃ",
+     "gloss": "with-water",
+     "grounds": "compound with water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṣpasaṃyutam",
+     "gloss": "with-flowers",
+     "grounds": "compound with flowers",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What should be given to the sacrificer with water and flowers?",
+   "premises": [
+    "the sacrificer receives an offering",
+    "water accompanies it",
+    "flowers accompany it"
+   ],
+   "inference": "The offering to the sacrificer includes water and flowers.",
+   "uncertainties": [
+    "exact object omitted"
+   ],
+   "plain_english": "One should give the sacrificer an offering with water and flowers."
+  },
+  {
+   "verse": 4278,
+   "rows": [
+    {
+     "surface": "tejobimbanibhaṃ",
+     "gloss": "like-tejo-bimba",
+     "grounds": "compound likeness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "karturdakṣakare",
+     "gloss": "in-right-hand-of-doer",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where should the guru meditate on the tejo-bimba form?",
+   "premises": [
+    "the form is like tejo-bimba",
+    "meditation precedes placement",
+    "the doer's right hand is the site"
+   ],
+   "inference": "The guru meditates on the tejo-bimba-like form in the doer's right hand.",
+   "uncertainties": [
+    "ritual context implied"
+   ],
+   "plain_english": "Having meditated on the tejo-bimba-like form, the guru places it in the doer's right hand."
+  },
+  {
+   "verse": 4279,
+   "rows": [
+    {
+     "surface": "dinadvayamathaikaṃ",
+     "gloss": "two-days-or-one",
+     "grounds": "compound time",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mūrtipaiḥ",
+     "gloss": "with-images",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "For how many days should offering be made with images?",
+   "premises": [
+    "offering may last two days or one",
+    "images accompany the offering",
+    "the rite is performed with them"
+   ],
+   "inference": "Offering is made for two days or one with images.",
+   "uncertainties": [
+    "exact count depends on context"
+   ],
+   "plain_english": "One should offer for two days or one, together with images."
+  },
+  {
+   "verse": 4280,
+   "rows": [
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sahasramardhaṃ",
+     "gloss": "thousand-or-half",
+     "grounds": "compound numeral",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śaktimantrataḥ",
+     "gloss": "by-śakti-mantra",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What quantity is prescribed by the śakti mantra?",
+   "premises": [
+    "the quantity may be hundred",
+    "it may be thousand or half",
+    "the śakti mantra governs it"
+   ],
+   "inference": "The prescribed quantity follows the śakti mantra.",
+   "uncertainties": [
+    "exact quantity context-dependent"
+   ],
+   "plain_english": "It should be hundred or thousand or half, as prescribed by the śakti mantra."
+  },
+  {
+   "verse": 4281,
+   "rows": [
+    {
+     "surface": "saṃsnāpya",
+     "gloss": "having-bathed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanoktakrameṇa",
+     "gloss": "by-bathing-stated-order",
+     "grounds": "compound instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what order should god and goddess be bathed?",
+   "premises": [
+    "both god and goddess are bathed",
+    "the stated bathing order applies",
+    "the order is specified"
+   ],
+   "inference": "God and goddess are bathed in the stated bathing order.",
+   "uncertainties": [
+    "exact order not restated"
+   ],
+   "plain_english": "Having bathed god and goddess, follow the stated bathing order."
+  },
+  {
+   "verse": 4282,
+   "rows": [
+    {
+     "surface": "samidājyānnasaṃyuktaṃ",
+     "gloss": "with-fuel-ghee-food-joined",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homamācaret",
+     "gloss": "should-perform-homa",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should homa be performed with fuel, ghee, and food?",
+   "premises": [
+    "homa is performed",
+    "fuel ghee and food are joined",
+    "it follows the previous rite"
+   ],
+   "inference": "Homa is performed as before with fuel, ghee, and food joined.",
+   "uncertainties": [
+    "previous rite unspecified"
+   ],
+   "plain_english": "One should perform homa, joined with fuel, ghee, and food, as before."
+  },
+  {
+   "verse": 4283,
+   "rows": [
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vikṛtirūpā",
+     "gloss": "deformed-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praiṣṭhānyā",
+     "gloss": "by-praiṣṭhānī",
+     "grounds": "instrumental",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What declares the deformed form of this?",
+   "premises": [
+    "this has a deformed form",
+    "praiṣṭhānī is involved",
+    "the form is declared"
+   ],
+   "inference": "The deformed form of this is declared by praiṣṭhānī.",
+   "uncertainties": [
+    "praiṣṭhānī role unclear"
+   ],
+   "plain_english": "But the deformed form of this is declared by praiṣṭhānī."
+  },
+  {
+   "verse": 4284,
+   "rows": [
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-enjoyed",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipulān",
+     "gloss": "vast",
+     "grounds": "adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhogān",
+     "gloss": "enjoyments",
+     "grounds": "accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dehānte",
+     "gloss": "at-end-of-body",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mokṣamāpnuyāt",
+     "gloss": "liberation-obtains",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What follows vast enjoyments at the end of the body?",
+   "premises": [
+    "vast enjoyments are enjoyed",
+    "the body ends",
+    "liberation is obtained"
+   ],
+   "inference": "After enjoying vast enjoyments, liberation is obtained at the body's end.",
+   "uncertainties": [
+    "causal link implied"
+   ],
+   "plain_english": "Having enjoyed vast enjoyments, one obtains liberation at the end of the body."
+  },
+  {
+   "verse": 4285,
+   "rows": [
+    {
+     "surface": "liṅgatāroccanāhairvā",
+     "gloss": "by-liṅga-tāra-uccana",
+     "grounds": "compound instrumental",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "taiśca",
+     "gloss": "and-by-those",
+     "grounds": "instrumental with ca",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "dvitriguṇaistu",
+     "gloss": "two-three-multiplied",
+     "grounds": "compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What multipliers apply with liṅga, tāra, and uccana?",
+   "premises": [
+    "liṅga tāra and uccana are used",
+    "those means apply",
+    "two or three multipliers are used"
+   ],
+   "inference": "The rite uses liṅga, tāra, and uccana with two- or three-fold multipliers.",
+   "uncertainties": [
+    "exact operation unclear"
+   ],
+   "plain_english": "By liṅga, tāra, and uccana, and by those, two- or three-fold multipliers apply."
+  },
+  {
+   "verse": 4286,
+   "rows": [
+    {
+     "surface": "prāsādagarbhadvārābhyāṃ",
+     "gloss": "from-sanctum-door-of-temple",
+     "grounds": "ablative dual",
+     "morph": "n.abl.du"
+    },
+    {
+     "surface": "pādādhiṣṭhānamānataḥ",
+     "gloss": "foot-placement-measure",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "From what temple parts is foot placement measured?",
+   "premises": [
+    "sanctum door is a reference",
+    "temple door is a reference",
+    "foot placement is measured from them"
+   ],
+   "inference": "Foot placement is measured from the sanctum and temple doors.",
+   "uncertainties": [
+    "exact measurement not given"
+   ],
+   "plain_english": "Foot placement is measured from the sanctum door and temple door."
+  },
+  {
+   "verse": 4287,
+   "rows": [
+    {
+     "surface": "aṅgulatritayaṃ",
+     "gloss": "three-finger",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "hand",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yavamānaṃ",
+     "gloss": "yava-measure",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vihāya",
+     "gloss": "leaving",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measures are left aside in the hand?",
+   "premises": [
+    "three fingers are a measure",
+    "a hand is a measure",
+    "yava measure is a measure",
+    "they are left aside"
+   ],
+   "inference": "Three fingers, a hand, and yava measure are left aside.",
+   "uncertainties": [
+    "context of leaving unclear"
+   ],
+   "plain_english": "Leaving aside three fingers, a hand, and yava measure."
+  },
+  {
+   "verse": 4288,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikārāṃśe",
+     "gloss": "in-distorted-part",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tribhāgādekavṛddhitaḥ",
+     "gloss": "by-one-third-increase",
+     "grounds": "compound ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How does the distorted part increase in the middle?",
+   "premises": [
+    "the middle contains a distorted part",
+    "the increase is by one third",
+    "the increase applies there"
+   ],
+   "inference": "The distorted part in the middle increases by one third.",
+   "uncertainties": [
+    "exact base measure unclear"
+   ],
+   "plain_english": "In its middle, the distorted part increases by one third."
+  },
+  {
+   "verse": 4289,
+   "rows": [
+    {
+     "surface": "pūjāṃśo",
+     "gloss": "worship-part",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "liṅgaśabdena",
+     "gloss": "by-liṅga-word",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kathito",
+     "gloss": "told",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvijasattamāḥ",
+     "gloss": "best-twice-born",
+     "grounds": "vocative",
+     "morph": "m.voc.pl"
+    }
+   ],
+   "question": "By what word is the worship part told?",
+   "premises": [
+    "the worship part is told",
+    "the liṅga word is used",
+    "the best twice-born are addressed"
+   ],
+   "inference": "The worship part is told by the word liṅga.",
+   "uncertainties": [
+    "exact worship part unspecified"
+   ],
+   "plain_english": "O best twice-born, the worship part is told by the word liṅga."
+  },
+  {
+   "verse": 4290,
+   "rows": [
+    {
+     "surface": "pañcaviṃśatisaṃyuktaśatamātrāntamīritam",
+     "gloss": "twenty-five-joined-hundred-measure-end-declared",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measure is declared at the end with twenty-five joined to hundred?",
+   "premises": [
+    "twenty-five is joined to hundred",
+    "a measure is declared",
+    "it is at the end"
+   ],
+   "inference": "The declared end measure joins twenty-five to hundred.",
+   "uncertainties": [
+    "exact measure unclear"
+   ],
+   "plain_english": "It is declared as the end measure with twenty-five joined to hundred."
+  },
+  {
+   "verse": 4291,
+   "rows": [
+    {
+     "surface": "sahasrayavaparyantaṃ",
+     "gloss": "up-to-thousand-yava",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yavamānaṃ",
+     "gloss": "yava-measure",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Up to what yava measure is proclaimed?",
+   "premises": [
+    "the measure is yava",
+    "it extends to thousand yava",
+    "it is proclaimed"
+   ],
+   "inference": "The yava measure is proclaimed up to thousand yava.",
+   "uncertainties": [
+    "lower bound unspecified"
+   ],
+   "plain_english": "The yava measure is proclaimed up to thousand yava."
+  },
+  {
+   "verse": 4292,
+   "rows": [
+    {
+     "surface": "aṣṭaṣaṣṭyarkapaṅtyūrdhve",
+     "gloss": "above-sixty-eight-sun-row",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vedadviyugaṣaḍvidham",
+     "gloss": "veda-two-yuga-six-fold",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is above the sixty-eighth sun row?",
+   "premises": [
+    "sixty-eight sun row is a reference",
+    "above it something is stated",
+    "veda two yuga six-fold is that thing"
+   ],
+   "inference": "Above the sixty-eighth sun row is veda two yuga six-fold.",
+   "uncertainties": [
+    "astronomical context unclear"
+   ],
+   "plain_english": "Above the sixty-eighth sun row is veda two yuga six-fold."
+  },
+  {
+   "verse": 4293,
+   "rows": [
+    {
+     "surface": "vasubhirguṇite",
+     "gloss": "by-eights-multiplied",
+     "grounds": "instrumental compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saptaviṃśatibhirhṛte",
+     "gloss": "by-twenty-seven-divided",
+     "grounds": "instrumental compound",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What operation is performed in that multiplied by eights?",
+   "premises": [
+    "that is multiplied by eights",
+    "it is divided by twenty-seven",
+    "the operation is stated"
+   ],
+   "inference": "That multiplied by eights is divided by twenty-seven.",
+   "uncertainties": [
+    "exact quantity unclear"
+   ],
+   "plain_english": "In that multiplied by eights, divide by twenty-seven."
+  },
+  {
+   "verse": 4294,
+   "rows": [
+    {
+     "surface": "triṣvaṅgulapramāṇeṣu",
+     "gloss": "in-three-finger-measures",
+     "grounds": "locative compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "jātyaṃśakaṃ",
+     "gloss": "birth-part",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ropayet",
+     "gloss": "should-place",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Should the birth part be placed in three finger measures?",
+   "premises": [
+    "three finger measures are considered",
+    "the birth part is involved",
+    "placement is prohibited"
+   ],
+   "inference": "The birth part should not be placed in three finger measures.",
+   "uncertainties": [
+    "reason not stated"
+   ],
+   "plain_english": "One should not place the birth part in three finger measures."
+  },
+  {
+   "verse": 4295,
+   "rows": [
+    {
+     "surface": "utsedhaṃ",
+     "gloss": "height",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paṅktipaṅtyādi",
+     "gloss": "row-row-etc",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhajetpañcaṣaḍaṃśakam",
+     "gloss": "should-divide-five-six-part",
+     "grounds": "compound",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should height be divided by rows?",
+   "premises": [
+    "height is considered",
+    "rows are considered",
+    "it is divided into five or six parts"
+   ],
+   "inference": "Height is divided into five or six parts by rows.",
+   "uncertainties": [
+    "exact row count unclear"
+   ],
+   "plain_english": "Height should be divided into five or six parts by rows."
+  },
+  {
+   "verse": 4296,
+   "rows": [
+    {
+     "surface": "āyāṃśaścaiva",
+     "gloss": "length-part",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "neṣṭaḥ",
+     "gloss": "not-desired",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "styāt",
+     "gloss": "may-be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "trividheṣvaṅguleṣu",
+     "gloss": "in-three-finger",
+     "grounds": "locative compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the length part desired in three finger measures?",
+   "premises": [
+    "length part is considered",
+    "it is not desired",
+    "three finger measures are involved"
+   ],
+   "inference": "The length part is not desired in three finger measures.",
+   "uncertainties": [
+    "styāt nuance unclear"
+   ],
+   "plain_english": "The length part is not desired; it may be in three finger measures."
+  },
+  {
+   "verse": 4297,
+   "rows": [
+    {
+     "surface": "vasubhirguṇiteṣu",
+     "gloss": "by-eights-multiplied",
+     "grounds": "locative compound",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "arkahṛte",
+     "gloss": "by-sun-divided",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinirdiśet",
+     "gloss": "should-declare",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should this be declared when multiplied by eights and divided by sun?",
+   "premises": [
+    "multiplication by eights applies",
+    "division by sun applies",
+    "this should be declared"
+   ],
+   "inference": "This should be declared by multiplying by eights and dividing by sun.",
+   "uncertainties": [
+    "exact value unclear"
+   ],
+   "plain_english": "When multiplied by eights and divided by sun, this should be declared."
+  },
+  {
+   "verse": 4298,
+   "rows": [
+    {
+     "surface": "navabhirguṇite",
+     "gloss": "by-nine-multiplied",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saptahṛte",
+     "gloss": "by-seven-divided",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāraṃ",
+     "gloss": "weekday",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirdiśet",
+     "gloss": "should-declare",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the weekday be declared?",
+   "premises": [
+    "multiplication by nine applies",
+    "division by seven applies",
+    "the weekday should be declared"
+   ],
+   "inference": "The weekday should be declared by multiplying by nine and dividing by seven.",
+   "uncertainties": [
+    "exact weekday unclear"
+   ],
+   "plain_english": "The weekday should be declared by multiplying by nine and dividing by seven."
+  },
+  {
+   "verse": 4299,
+   "rows": [
+    {
+     "surface": "guṇaghne",
+     "gloss": "in-multiplier",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vasubhinne",
+     "gloss": "by-eights-divided",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yonir",
+     "gloss": "yonis",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-called",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What is called yonis in the multiplier divided by eights?",
+   "premises": [
+    "multiplier is considered",
+    "division by eights applies",
+    "yonis is the result"
+   ],
+   "inference": "Yonis is what is called in the multiplier divided by eights.",
+   "uncertainties": [
+    "exact yonis meaning unclear"
+   ],
+   "plain_english": "In the multiplier divided by eights, it is called yonis."
+  }
+ ]
+}

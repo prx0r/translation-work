@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "chinnamastā",
+     "gloss": "chinnamasta",
+     "grounds": "proper name of a mahāvidyā goddess; epithet meaning severed-headed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "qualifying element associated with the following epithet",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dhūmā",
+     "gloss": "smoky",
+     "grounds": "epithet denoting a smoke-like quality; forms a compound sense with preceding mahā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and-also",
+     "grounds": "connective particle linking epithets in the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūmra",
+     "gloss": "smoke-dark",
+     "grounds": "first member of a descriptive compound qualifying the following term",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vibhūṣaṇā",
+     "gloss": "adorned",
+     "grounds": "epithet indicating adornment characterized by smoke-darkness",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which Mahāvidyā identity and smoky attributes are ascribed to the goddess in this enumeration?",
+   "premises": [
+    "The name Chinnamastā identifies a specific Mahāvidyā goddess.",
+    "The epithets mahā dhūmā attribute a great smoky quality to her.",
+    "The epithet dhūmra vibhūṣaṇā attributes smoke-dark adornment to her."
+   ],
+   "inference": "The verse enumerates the goddess as Chinnamastā, characterized by great smokiness and smoke-dark adornment.",
+   "uncertainties": [
+    "Whether mahā and dhūmā function as a single compound epithet or as closely associated separate descriptors is not fully explicit from tokenization alone."
+   ],
+   "plain_english": "She is Chinnamastā, greatly smoky, and also adorned with smoke-dark ornaments."
+  }
+ ]
+}

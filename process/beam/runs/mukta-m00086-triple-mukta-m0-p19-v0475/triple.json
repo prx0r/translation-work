@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "mantraikaṃ",
+     "gloss": "one-mantra",
+     "grounds": "compound mantra+eka in accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-tell",
+     "grounds": "first person singular active present of root kath",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "second person singular accusative pronoun",
+     "morph": "acc.sg"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bath",
+     "grounds": "accusative singular neuter noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "second person singular active imperative of root kṛ",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable ablative adverb from vidhāna",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What single mantra and ritual bath does the renunciant instruct the brahmin to perform according to rule?",
+   "premises": [
+    "The speaker promises to teach one mantra.",
+    "The addressee is instructed to bathe.",
+    "The bath must follow prescribed rule."
+   ],
+   "inference": "The verse prescribes a one-mantra rite with rule-governed bathing.",
+   "uncertainties": [
+    "The exact mantra is not specified in this verse."
+   ],
+   "plain_english": "I will tell you one mantra; perform the bath according to rule."
+  }
+ ]
+}

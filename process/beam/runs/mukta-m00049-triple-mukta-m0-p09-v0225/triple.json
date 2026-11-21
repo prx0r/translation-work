@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "sarvathā",
+     "gloss": "in-every-way",
+     "grounds": "indeclinable adverb indicating completeness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhamantro",
+     "gloss": "accomplished-mantra",
+     "grounds": "bahuvrīhi/tatpuruṣa compound; sandhi fusion siddhamantraḥ + ayaṃ context yields final -o",
+     "morph": "compound: siddha+mantra, m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb referring to this case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing necessity or obligation",
+     "morph": "f.nom.sg, gerundive, √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "noun denoting examination or investigation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What further deliberation is required regarding this mantra's fully accomplished status?",
+   "premises": [
+    "This mantra is accomplished in every way.",
+    "No deliberation is to be done in this case.",
+    "The mantra's efficacy stands without additional examination."
+   ],
+   "inference": "Therefore, this mantra requires no further deliberation or evaluative procedure.",
+   "uncertainties": [
+    "The compound boundary and exact compound type in siddhamantro are analyzed from the fused surface form."
+   ],
+   "plain_english": "This mantra is accomplished in every way; no deliberation is to be undertaken here."
+  }
+ ]
+}

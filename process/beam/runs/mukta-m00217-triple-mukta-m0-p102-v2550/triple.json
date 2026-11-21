@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "suprabhā",
+     "gloss": "very-bright",
+     "grounds": "epithet of the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padmarāgābhā",
+     "gloss": "ruby-lustered",
+     "grounds": "compound describing appearance; padma-rāga = ruby, ābhā = luster",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "vāruṇyāṃ",
+     "gloss": "in-western",
+     "grounds": "direction associated with Varuṇa",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "direction",
+     "grounds": "locative locus of placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "situated",
+     "grounds": "past participle indicating placement",
+     "morph": "f.nom.sg.past-participle:sam-sthā"
+    }
+   ],
+   "question": "In which direction is the radiant ruby-lustered Suprabhā established?",
+   "premises": [
+    "Suprabhā is characterized as very bright.",
+    "Suprabhā possesses a ruby-like luster.",
+    "Her placement is specified as the western direction."
+   ],
+   "inference": "The radiant ruby-lustered Suprabhā abides in the western direction.",
+   "uncertainties": [],
+   "plain_english": "Suprabhā, very bright and ruby-lustered, is situated in the western direction."
+  }
+ ]
+}

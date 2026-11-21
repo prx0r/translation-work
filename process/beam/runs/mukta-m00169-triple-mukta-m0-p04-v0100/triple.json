@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "pādapāṃśusamāyuktair",
+     "gloss": "combined-with-foot-dust",
+     "grounds": "compound of pāda, pāṃśu, and samāyukta describing materials joined with dust from the feet",
+     "morph": "compound: pāda-pāṃśu-samāyukta; m./n.instr.pl"
+    },
+    {
+     "surface": "antarā",
+     "gloss": "within",
+     "grounds": "indeclinable indicating interior placement or inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghṛtagomayaiḥ",
+     "gloss": "with-ghee-and-cow-dung",
+     "grounds": "compound of ghṛta and gomaya denoting the substances used together",
+     "morph": "compound: ghṛta-gomaya; n.instr.pl"
+    }
+   ],
+   "question": "Which materials combined within are prescribed for the stated ritual preparation?",
+   "premises": [
+    "The preparation includes substances combined with foot-dust.",
+    "Ghee and cow-dung are specified as materials.",
+    "These materials are to be used within."
+   ],
+   "inference": "The prescribed preparation consists of ghee and cow-dung combined with foot-dust used within.",
+   "uncertainties": [
+    "The exact referent of antarā in the ritual procedure is not fully specified in this verse alone."
+   ],
+   "plain_english": "Within, use ghee and cow-dung combined with foot-dust."
+  }
+ ]
+}

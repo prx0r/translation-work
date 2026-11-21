@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "hotavyaṃ",
+     "gloss": "to-be-offered",
+     "grounds": "gerundive of √hu, neuter nominative singular",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "prākkuṇḍe",
+     "gloss": "in-front-altar",
+     "grounds": "locative singular of prākkuṇḍa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar",
+     "grounds": "locative singular of sthaṇḍila",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "or",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the offering be made, in front of the altar or on the altar ground?",
+   "premises": [
+    "The offering is to be made.",
+    "The location may be front altar.",
+    "The location may be altar ground.",
+    "The disjunction allows either location."
+   ],
+   "inference": "The rite permits offering either before the altar or on the altar ground.",
+   "uncertainties": [
+    "Exact ritual distinction between front altar and altar ground is not specified."
+   ],
+   "plain_english": "The offering is to be made either in front of the altar or on the altar ground."
+  }
+ ]
+}

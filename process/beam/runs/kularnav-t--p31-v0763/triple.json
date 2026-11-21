@@ -1,0 +1,551 @@
+{
+ "song": "kul-p31",
+ "items": [
+  {
+   "verse": 763,
+   "rows": [
+    {
+     "surface": "aṅguṣṭhamadhyamābhyāñca",
+     "gloss": "with-thumb-middle",
+     "grounds": "compound of thumb and middle finger",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "rājarājeśvarasya",
+     "gloss": "of-king-of-kings-lord",
+     "grounds": "genitive of rājarājeśvara",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the rājarājeśvara offering made?",
+   "premises": [
+    "thumb and middle finger are used",
+    "the offering belongs to rājarājeśvara",
+    "and connects the instruction"
+   ],
+   "inference": "The rite uses thumb and middle finger for the rājarājeśvara offering.",
+   "uncertainties": [
+    "exact ritual gesture remains implicit"
+   ],
+   "plain_english": "With thumb and middle finger, for rājarājeśvara, and so on."
+  },
+  {
+   "verse": 764,
+   "rows": [
+    {
+     "surface": "īṣadraktasupiṣṭena",
+     "gloss": "slightly-red-well-ground",
+     "grounds": "compound describing ground paste",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "caturaṅgulimānataḥ",
+     "gloss": "four-finger-measure",
+     "grounds": "measure of four fingers",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What measure and color describe the paste?",
+   "premises": [
+    "the paste is slightly red",
+    "it is well ground",
+    "its measure is four fingers"
+   ],
+   "inference": "The paste is slightly red, well ground, and measured by four fingers.",
+   "uncertainties": [
+    "whether ablative or adverbial is unclear"
+   ],
+   "plain_english": "Slightly red and well ground, measured by four fingers."
+  },
+  {
+   "verse": 765,
+   "rows": [
+    {
+     "surface": "karṣājyagrāhiṇaḥ",
+     "gloss": "with-karṣa-ghee-grasp",
+     "grounds": "compound with karṣa ghee grasp",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "would-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nava",
+     "gloss": "nine",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many lamps or offerings are made?",
+   "premises": [
+    "the rite is done with karṣa ghee grasp",
+    "nine seven or five are options",
+    "or connects the counts"
+   ],
+   "inference": "One performs the rite with nine, seven, or five as alternatives.",
+   "uncertainties": [
+    "exact object of kuryyāt is implicit"
+   ],
+   "plain_english": "With karṣa ghee grasp one would do nine, seven, or five."
+  },
+  {
+   "verse": 766,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "in-three-ways",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyupari",
+     "gloss": "over-goddess",
+     "grounds": "compound over goddess",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhrāmya",
+     "gloss": "circling",
+     "grounds": "gerund of bhram",
+     "morph": "abs"
+    },
+    {
+     "surface": "kuladīpān",
+     "gloss": "kula-lamps",
+     "grounds": "compound kula lamps",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "would-offer",
+     "grounds": "optative of nivid",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How are the kula lamps offered?",
+   "premises": [
+    "the offering is in three ways",
+    "it is over the goddess",
+    "circling accompanies it"
+   ],
+   "inference": "The kula lamps are offered in three ways over the goddess while circling.",
+   "uncertainties": [
+    "exact circling direction is implicit"
+   ],
+   "plain_english": "In three ways over the goddess, circling, one offers the kula lamps."
+  },
+  {
+   "verse": 767,
+   "rows": [
+    {
+     "surface": "kuladīpān",
+     "gloss": "kula-lamps",
+     "grounds": "compound kula lamps",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pradarśyātha",
+     "gloss": "having-shown",
+     "grounds": "gerund of pradarś",
+     "morph": "abs"
+    },
+    {
+     "surface": "śaktipūjāṃ",
+     "gloss": "śakti-worship",
+     "grounds": "compound śakti worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "would-perform",
+     "grounds": "optative of samācar",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What follows showing the kula lamps?",
+   "premises": [
+    "the kula lamps are shown",
+    "then śakti worship follows",
+    "one performs it"
+   ],
+   "inference": "After showing the kula lamps, one performs śakti worship.",
+   "uncertainties": [
+    "whether atha is sequential or emphatic"
+   ],
+   "plain_english": "Having shown the kula lamps, one performs śakti worship."
+  },
+  {
+   "verse": 768,
+   "rows": [
+    {
+     "surface": "pāyayitvā",
+     "gloss": "having-made-drink",
+     "grounds": "gerund of pā",
+     "morph": "abs"
+    },
+    {
+     "surface": "caret",
+     "gloss": "would-do",
+     "grounds": "optative of car",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pānam",
+     "gloss": "drinking",
+     "grounds": "verbal noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrasya",
+     "gloss": "of-scripture",
+     "grounds": "genitive of śāstra",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "niścayaḥ",
+     "gloss": "certainty",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the scripture's certainty about drinking?",
+   "premises": [
+    "having made drink one acts",
+    "drinking is the action",
+    "thus is scripture's certainty"
+   ],
+   "inference": "The scripture's certainty is that drinking is performed after making one drink.",
+   "uncertainties": [
+    "exact ritual drinking context is implicit"
+   ],
+   "plain_english": "Having made drink, one performs drinking; thus is the scripture's certainty."
+  },
+  {
+   "verse": 769,
+   "rows": [
+    {
+     "surface": "mantradīkṣāvidhānena",
+     "gloss": "by-mantra-initiation-rite",
+     "grounds": "compound mantra initiation rite",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śuddhā",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negated adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does one become pure?",
+   "premises": [
+    "by mantra initiation rite one becomes pure",
+    "not otherwise is stated",
+    "purity depends on initiation"
+   ],
+   "inference": "Purity comes only by the mantra initiation rite, not otherwise.",
+   "uncertainties": [
+    "whether śuddhā refers to person or thing"
+   ],
+   "plain_english": "By the mantra initiation rite one becomes pure, not otherwise."
+  },
+  {
+   "verse": 770,
+   "rows": [
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund of abhyarc",
+     "morph": "abs"
+    },
+    {
+     "surface": "devatābuddhyā",
+     "gloss": "with-deity-thought",
+     "grounds": "compound deity thought",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "bhogapātraṃ",
+     "gloss": "enjoyment-vessel",
+     "grounds": "compound enjoyment vessel",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "would-offer",
+     "grounds": "optative of nivid",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How is the enjoyment vessel offered?",
+   "premises": [
+    "having worshipped with deity thought",
+    "the enjoyment vessel is offered",
+    "offering follows worship"
+   ],
+   "inference": "After worshipping with deity thought, one offers the enjoyment vessel.",
+   "uncertainties": [
+    "exact recipient is implicit"
+   ],
+   "plain_english": "Having worshipped with deity thought, one offers the enjoyment vessel."
+  },
+  {
+   "verse": 771,
+   "rows": [
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund of sampūj",
+     "morph": "abs"
+    },
+    {
+     "surface": "devatābuddhyā",
+     "gloss": "with-deity-thought",
+     "grounds": "compound deity thought",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "would-give",
+     "grounds": "optative of dā",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separate",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separate",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are vessels given after worship?",
+   "premises": [
+    "having worshipped with deity thought",
+    "one gives a vessel",
+    "separate and separate are stated"
+   ],
+   "inference": "After worshipping with deity thought, one gives vessels separately.",
+   "uncertainties": [
+    "whether two vessels or repeated emphasis"
+   ],
+   "plain_english": "Having worshipped with deity thought, one gives the vessel, separate, separate."
+  },
+  {
+   "verse": 772,
+   "rows": [
+    {
+     "surface": "pūjitaṃ",
+     "gloss": "worshipped",
+     "grounds": "past participle of pūj",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not-pleased",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when worship is fruitless?",
+   "premises": [
+    "worshipped becomes fruitless",
+    "of him the deity",
+    "not pleased is stated"
+   ],
+   "inference": "If worship is fruitless, the deity is not pleased with him.",
+   "uncertainties": [
+    "whether na modifies pleased or another verb"
+   ],
+   "plain_english": "Worshipped yet fruitless; the deity is not pleased with him."
+  },
+  {
+   "verse": 773,
+   "rows": [
+    {
+     "surface": "śvapacī",
+     "gloss": "dog-cooker",
+     "grounds": "compound dog cooker",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khaṭṭakī",
+     "gloss": "cot-woman",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaivarttī",
+     "gloss": "fisherwoman",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśvayoṣitaḥ",
+     "gloss": "all-women",
+     "grounds": "compound all women",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which women are listed here?",
+   "premises": [
+    "dog cooker is listed",
+    "cot woman is listed",
+    "fisherwoman and all women are listed"
+   ],
+   "inference": "The list includes dog-cooker, cot-woman, fisherwoman, and all women.",
+   "uncertainties": [
+    "whether viśvayoṣitaḥ is exhaustive or appositive"
+   ],
+   "plain_english": "Dog-cooker, cot-woman, and fisherwoman, all women."
+  },
+  {
+   "verse": 774,
+   "rows": [
+    {
+     "surface": "kandukī",
+     "gloss": "ball-woman",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śauṇḍikī",
+     "gloss": "liquor-seller",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śastrajīvī",
+     "gloss": "weapon-liver",
+     "grounds": "compound weapon liver",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rañjakī",
+     "gloss": "dyer",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which further persons are listed?",
+   "premises": [
+    "ball woman is listed",
+    "liquor seller is listed",
+    "weapon liver and dyer are listed"
+   ],
+   "inference": "The list continues with ball-woman, liquor-seller, weapon-liver, and dyer.",
+   "uncertainties": [
+    "whether śastrajīvī is masculine by form"
+   ],
+   "plain_english": "Ball-woman, liquor-seller, weapon-liver, and dyer."
+  }
+ ]
+}

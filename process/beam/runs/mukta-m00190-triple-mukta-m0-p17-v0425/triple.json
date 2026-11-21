@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable temporal adverb indicating sequence after the action described in the previous verse",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agneḥ",
+     "gloss": "of-fire",
+     "grounds": "genitive dependent qualifying arghyaṃ as the oblation belonging to or associated with fire",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "arghyaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual offering; direct object of samādāya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive expressing prior action completed before the next implied step",
+     "morph": "gerund(sam-ā-dā)"
+    },
+    {
+     "surface": "vahni+rūpāṃ",
+     "gloss": "fire-form",
+     "grounds": "bahuvrīhi or descriptive compound qualifying arghyaṃ/vyavasthitām; internal sandhi marked by +",
+     "morph": "compound(vahni+rūpā).f.acc.sg"
+    },
+    {
+     "surface": "vyavasthitām",
+     "gloss": "established",
+     "grounds": "past participle qualifying the oblation as set or arranged in that form",
+     "morph": "f.acc.sg.past-participle(vi-ava-sthā)"
+    }
+   ],
+   "question": "What action must the practitioner perform with the fire-formed oblation after preparing the maṇḍala?",
+   "premises": [
+    "The practitioner has prepared a square maṇḍala on the ground.",
+    "After that preparation, the oblation of fire is to be taken.",
+    "The oblation is established in the form of fire."
+   ],
+   "inference": "Following the preparation of the maṇḍala, the practitioner should take up the oblation of fire, established in fire-form.",
+   "uncertainties": [
+    "The exact ritual handling after taking the oblation is not specified in this verse alone."
+   ],
+   "plain_english": "Then, having taken the oblation of fire, established in the form of fire."
+  }
+ ]
+}

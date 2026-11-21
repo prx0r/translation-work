@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1175,
+   "rows": [
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "listen",
+     "grounds": "imperative of śru, second person singular active",
+     "morph": "2.sg.act.impv+śru"
+    },
+    {
+     "surface": "jagatāṃ",
+     "gloss": "of-worlds",
+     "grounds": "genitive plural of jagat",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "mātaḥ",
+     "gloss": "mother",
+     "grounds": "vocative singular feminine of mātṛ",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "śṛṇuṣva",
+     "gloss": "listen",
+     "grounds": "imperative of śru, second person singular active",
+     "morph": "2.sg.act.impv+śru"
+    },
+    {
+     "surface": "prāṇavallabhe",
+     "gloss": "life-beloved",
+     "grounds": "vocative singular feminine compound prāṇa-vallabhā",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What command precedes the revelation of the lakṣaṇam?",
+   "premises": [
+    "The speaker addresses the goddess twice with listen.",
+    "The goddess is called mother of worlds and life-beloved.",
+    "The address prepares the listener for the teaching."
+   ],
+   "inference": "The verse commands the goddess to listen before the lakṣaṇam is revealed.",
+   "uncertainties": [
+    "The exact referent of prāṇavallabhe is not specified beyond life-beloved."
+   ],
+   "plain_english": "Listen, mother of worlds; listen, beloved of life."
+  }
+ ]
+}

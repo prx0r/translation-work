@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "piṣṭacūrṇairalaṃ",
+     "gloss": "with-flour-powders-sufficiently",
+     "grounds": "fused form of piṣṭacūrṇaiḥ (instrumental plural of piṣṭacūrṇa, flour-powder) and alaṃ (indeclinable, sufficiently); sandhi r + a",
+     "morph": "piṣṭacūrṇa(m.inst.pl)+alaṃ(indecl.)"
+    },
+    {
+     "surface": "kṛtya",
+     "gloss": "having-made",
+     "grounds": "absolutive of root kṛ, indicating a prior completed action",
+     "morph": "gerund(kṛ)"
+    },
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-day-rite",
+     "grounds": "object of the final imperative; ritual benediction declaring an auspicious day",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prokṣaṇaṃ",
+     "gloss": "sprinkling",
+     "grounds": "object of the final imperative; ritual act of sprinkling consecrated water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "perform",
+     "grounds": "imperative command addressed to the officiant",
+     "morph": "2.sg.imp.act(kṛ)"
+    }
+   ],
+   "question": "Which preparatory ritual acts must the officiant perform after adorning the altar?",
+   "premises": [
+    "The altar is to be sufficiently adorned with flour powders.",
+    "Adorning with flour powders is completed before subsequent acts.",
+    "The auspicious-day rite and sprinkling are commanded as ritual actions."
+   ],
+   "inference": "After adorning the altar with flour powders, the officiant must perform the auspicious-day rite and the sprinkling.",
+   "uncertainties": [
+    "The exact scope of alaṃ in this ritual context may indicate either sufficiency or ornamentation."
+   ],
+   "plain_english": "Having sufficiently adorned it with flour powders, perform the auspicious-day rite and the sprinkling."
+  }
+ ]
+}

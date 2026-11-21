@@ -1,0 +1,511 @@
+{
+ "song": "kul-p37",
+ "items": [
+  {
+   "verse": 901,
+   "rows": [
+    {
+     "surface": "udyānaṃ",
+     "gloss": "garden",
+     "grounds": "place of gathering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kimidaṃ",
+     "gloss": "what-this",
+     "grounds": "questioning identity of place",
+     "morph": "pron.nom.sg.n+pron.nom.sg.n"
+    },
+    {
+     "surface": "hanta",
+     "gloss": "ah",
+     "grounds": "exclamation of wonder",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhaṃ",
+     "gloss": "house",
+     "grounds": "place of gathering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "questioning identity of place",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "prāṅgaṇaṃ",
+     "gloss": "courtyard",
+     "grounds": "place of gathering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kimu",
+     "gloss": "what",
+     "grounds": "questioning identity of place",
+     "morph": "pron.nom.sg.n+(indecl.)"
+    }
+   ],
+   "question": "How is the ordinary setting perceived in the altered state of the Kula gathering?",
+   "premises": [
+    "The setting is questioned as garden, house, or courtyard.",
+    "An exclamation expresses wonder or disorientation.",
+    "Ordinary distinctions of place become uncertain."
+   ],
+   "inference": "In the Kula gathering, ordinary spatial distinctions lose their fixed identity.",
+   "uncertainties": [],
+   "plain_english": "Ah, is this a garden? What is this, a house? Or is it a courtyard?"
+  },
+  {
+   "verse": 902,
+   "rows": [
+    {
+     "surface": "upadaṃśaṃ",
+     "gloss": "relish",
+     "grounds": "food item",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mukhe",
+     "gloss": "in-mouth",
+     "grounds": "location of action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣiptvā",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "(gerund, kṣip)"
+    },
+    {
+     "surface": "nikṣipanti",
+     "gloss": "they-place",
+     "grounds": "main action",
+     "morph": "3.pl.act-pres, ni-kṣip"
+    },
+    {
+     "surface": "priyānane",
+     "gloss": "in-beloved-face",
+     "grounds": "recipient location",
+     "morph": "priya+ānana, n.loc.sg"
+    }
+   ],
+   "question": "What intimate exchange of food occurs among participants in the Kula rite?",
+   "premises": [
+    "A relish is first placed in one's own mouth.",
+    "The same relish is then placed into a beloved's mouth.",
+    "The action is performed by multiple participants."
+   ],
+   "inference": "Participants enact an intimate, transgressive sharing of food within the rite.",
+   "uncertainties": [],
+   "plain_english": "Having placed a relish in their own mouths, they place it into the mouths of their beloveds."
+  },
+  {
+   "verse": 903,
+   "rows": [
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-held",
+     "grounds": "prior action",
+     "morph": "(gerund, dhṛ)"
+    },
+    {
+     "surface": "śirasi",
+     "gloss": "on-head",
+     "grounds": "location of object",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nṛtyanti",
+     "gloss": "they-dance",
+     "grounds": "main action",
+     "morph": "3.pl.act-pres, nṛt"
+    },
+    {
+     "surface": "madyabhāṇḍāni",
+     "gloss": "wine-vessels",
+     "grounds": "objects held",
+     "morph": "madya+bhāṇḍa, n.acc.pl"
+    },
+    {
+     "surface": "yoginaḥ",
+     "gloss": "yogins",
+     "grounds": "agents",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How do the yogins behave with ritual vessels during the Kula celebration?",
+   "premises": [
+    "Yogins hold wine vessels on their heads.",
+    "While holding them, they dance.",
+    "The vessels are objects of the ritual substance."
+   ],
+   "inference": "Yogins display ecstatic, unconventional conduct by dancing with wine vessels on their heads.",
+   "uncertainties": [],
+   "plain_english": "Holding wine vessels on their heads, the yogins dance."
+  },
+  {
+   "verse": 904,
+   "rows": [
+    {
+     "surface": "praskhalatpadavinyāsaṃ",
+     "gloss": "with-stumbling-foot-placement",
+     "grounds": "manner of movement",
+     "morph": "praskhalat+pada+vinyāsa, m.acc.sg"
+    },
+    {
+     "surface": "nṛtyanti",
+     "gloss": "they-dance",
+     "grounds": "main action",
+     "morph": "3.pl.act-pres, nṛt"
+    },
+    {
+     "surface": "kulaśaktayaḥ",
+     "gloss": "kula-powers",
+     "grounds": "agents",
+     "morph": "kula+śakti, f.nom.pl"
+    }
+   ],
+   "question": "In what manner do the powers of Kula move during the ecstatic dance?",
+   "premises": [
+    "The Kula powers are dancing.",
+    "Their foot placement is stumbling.",
+    "The movement reflects loss of ordinary control."
+   ],
+   "inference": "The Kula powers dance in an unsteady, ecstatic manner.",
+   "uncertainties": [],
+   "plain_english": "The Kula powers dance with stumbling steps."
+  },
+  {
+   "verse": 905,
+   "rows": [
+    {
+     "surface": "madākulāḥ",
+     "gloss": "overcome-by-intoxication",
+     "grounds": "condition of agents",
+     "morph": "mada+ākula, f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "agents",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "patanti",
+     "gloss": "they-fall",
+     "grounds": "main action",
+     "morph": "3.pl.act-pres, pat"
+    },
+    {
+     "surface": "puruṣopari",
+     "gloss": "upon-man",
+     "grounds": "location of falling",
+     "morph": "puruṣa+upari, (indecl.)"
+    }
+   ],
+   "question": "What physical consequence of intoxication affects the yoginis in the gathering?",
+   "premises": [
+    "The yoginis are overcome by intoxication.",
+    "They fall down.",
+    "They fall upon men."
+   ],
+   "inference": "Intoxicated yoginis lose bodily control and fall upon the men present.",
+   "uncertainties": [],
+   "plain_english": "And the yoginis, overcome by intoxication, fall upon the men."
+  },
+  {
+   "verse": 906,
+   "rows": [
+    {
+     "surface": "ityādivividhāṃ",
+     "gloss": "such-and-other-various",
+     "grounds": "description of actions",
+     "morph": "iti+ādi+vividha, f.acc.sg"
+    },
+    {
+     "surface": "ceṣṭāṃ",
+     "gloss": "conduct",
+     "grounds": "object of doing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kurvanti",
+     "gloss": "they-perform",
+     "grounds": "main action",
+     "morph": "3.pl.act-pres, kṛ"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "o-leader-of-kula",
+     "grounds": "addressee",
+     "morph": "kula+nāyikā, f.voc.sg"
+    }
+   ],
+   "question": "How are the preceding extraordinary behaviors summarized for the leader of Kula?",
+   "premises": [
+    "Various actions of this kind are performed.",
+    "The actions are addressed to the Kula leader.",
+    "The description gathers multiple preceding behaviors."
+   ],
+   "inference": "The Kula heroines perform diverse extraordinary acts of this sort.",
+   "uncertainties": [],
+   "plain_english": "O leader of Kula, they perform various acts of conduct such as these."
+  },
+  {
+   "verse": 907,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "time of transformation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatābhāvaṃ",
+     "gloss": "state-of-divinity",
+     "grounds": "state attained",
+     "morph": "devatā+bhāva, m.acc.sg"
+    },
+    {
+     "surface": "bhajante",
+     "gloss": "they-attain",
+     "grounds": "main action",
+     "morph": "3.pl.mid-pres, bhaj"
+    },
+    {
+     "surface": "yogipuṅgavāḥ",
+     "gloss": "best-of-yogins",
+     "grounds": "agents",
+     "morph": "yogin+puṅgava, m.nom.pl"
+    }
+   ],
+   "question": "What spiritual state do the foremost yogins attain during these Kula acts?",
+   "premises": [
+    "The time is marked as then.",
+    "The best yogins are the agents.",
+    "They attain the state of divinity."
+   ],
+   "inference": "In that moment, the foremost yogins realize a divine state.",
+   "uncertainties": [],
+   "plain_english": "Then indeed the foremost yogins attain the state of divinity."
+  },
+  {
+   "verse": 908,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "object affected",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "nāśayanti",
+     "gloss": "they-destroy",
+     "grounds": "main action",
+     "morph": "3.pl.act-pres-caus, naś"
+    },
+    {
+     "surface": "asandehaṃ",
+     "gloss": "without-doubt",
+     "grounds": "certainty of result",
+     "morph": "a+sandeha, m.acc.sg"
+    },
+    {
+     "surface": "yoginyaḥ",
+     "gloss": "yoginis",
+     "grounds": "agents",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "o-leader-of-kula",
+     "grounds": "addressee",
+     "morph": "kula+nāyikā, f.voc.sg"
+    }
+   ],
+   "question": "What effect do the yoginis have on doubt within the Kula context?",
+   "premises": [
+    "The yoginis act upon that doubt.",
+    "They destroy it.",
+    "The result is stated as without doubt."
+   ],
+   "inference": "The yoginis remove doubt completely in the Kula setting.",
+   "uncertainties": [
+    "The referent of 'that' is contextually implied rather than explicit."
+   ],
+   "plain_english": "O leader of Kula, the yoginis destroy that doubt without any uncertainty."
+  },
+  {
+   "verse": 909,
+   "rows": [
+    {
+     "surface": "etaccakragatāṃ",
+     "gloss": "occurring-in-this-circle",
+     "grounds": "content to be protected",
+     "morph": "etad+cakra+gata, f.acc.sg"
+    },
+    {
+     "surface": "vārttāṃ",
+     "gloss": "account",
+     "grounds": "object of disclosure",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bahirnaiva",
+     "gloss": "outside-not-at-all",
+     "grounds": "prohibition of disclosure",
+     "morph": "bahis+na+eva, (indecl.)"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "one-should-reveal",
+     "grounds": "prohibited action",
+     "morph": "3.sg.act-opt, pra-kāś"
+    }
+   ],
+   "question": "What restriction governs disclosure of events occurring within the Kula circle?",
+   "premises": [
+    "There is an account of what occurs in this circle.",
+    "Revealing it outside is prohibited.",
+    "The prohibition is emphatic."
+   ],
+   "inference": "The events of the Kula circle must not be revealed to outsiders.",
+   "uncertainties": [],
+   "plain_english": "One should never reveal outside the account of what takes place in this circle."
+  },
+  {
+   "verse": 910,
+   "rows": [
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "manner of honoring",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "satkārayet",
+     "gloss": "one-should-honor",
+     "grounds": "prescribed action",
+     "morph": "3.sg.act-opt, sat-kṛ"
+    },
+    {
+     "surface": "etān",
+     "gloss": "these",
+     "grounds": "recipients of honor",
+     "morph": "pron.acc.pl.m"
+    },
+    {
+     "surface": "gopayet+ca",
+     "gloss": "and-one-should-conceal",
+     "grounds": "additional prescribed action",
+     "morph": "3.sg.act-opt, gup + (indecl.)"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "manner of concealment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dual obligations are prescribed toward the participants of the Kula circle?",
+   "premises": [
+    "These participants should be honored with devotion.",
+    "They should also be concealed.",
+    "Concealment must be done with effort."
+   ],
+   "inference": "One must both honor the circle's participants and diligently protect their secrecy.",
+   "uncertainties": [],
+   "plain_english": "One should honor them with devotion, and one should also conceal them with careful effort."
+  },
+  {
+   "verse": 911,
+   "rows": [
+    {
+     "surface": "modate",
+     "gloss": "he-rejoices",
+     "grounds": "attitude",
+     "morph": "3.sg.mid-pres, mud"
+    },
+    {
+     "surface": "vandate",
+     "gloss": "he-salutes",
+     "grounds": "attitude",
+     "morph": "3.sg.mid-pres, vand"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "manner of salutation",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "he-may-attain",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.act-opt, gam"
+    },
+    {
+     "surface": "yoginīpadam",
+     "gloss": "state-of-yogini",
+     "grounds": "goal attained",
+     "morph": "yoginī+pada, n.acc.sg"
+    }
+   ],
+   "question": "What reward follows from rejoicing in and devoutly saluting the Kula practitioners?",
+   "premises": [
+    "A person rejoices and salutes with devotion.",
+    "Such a person may attain a specific state.",
+    "The state attained is that of the yogini."
+   ],
+   "inference": "Devout rejoicing and salutation lead to attainment of the yogini state.",
+   "uncertainties": [],
+   "plain_english": "He who rejoices and salutes with devotion attains the state of the yogini."
+  },
+  {
+   "verse": 912,
+   "rows": [
+    {
+     "surface": "vratatīrthatapodānayajñakoṭiphalaṃ",
+     "gloss": "fruit-of-millions-of-vows-pilgrimages-austerities-gifts-sacrifices",
+     "grounds": "measure of merit",
+     "morph": "vrata+tīrtha+tapas+dāna+yajña+koṭi+phala, n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "he-may-obtain",
+     "grounds": "resulting attainment",
+     "morph": "3.sg.act-opt, labh"
+    }
+   ],
+   "question": "How great is the merit gained by properly relating to the Kula circle?",
+   "premises": [
+    "A vast merit is described as the fruit of millions of religious acts.",
+    "These acts include vows, pilgrimages, austerities, gifts, and sacrifices.",
+    "This fruit may be obtained."
+   ],
+   "inference": "Proper relation to the Kula circle yields merit equal to countless traditional religious acts.",
+   "uncertainties": [],
+   "plain_english": "He obtains the fruit of millions of vows, pilgrimages, austerities, gifts, and sacrifices."
+  }
+ ]
+}

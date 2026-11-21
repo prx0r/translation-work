@@ -1,0 +1,323 @@
+{
+ "song": "kjn-p10",
+ "items": [
+  {
+   "verse": 226,
+   "rows": [
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "enjoyment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "liberation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā",
+     "gloss": "great",
+     "grounds": "great",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoginīnāṃ",
+     "gloss": "of-yoginīs",
+     "grounds": "of yoginis",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "priyo",
+     "gloss": "dear",
+     "grounds": "dear",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "he-may-become",
+     "grounds": "may become",
+     "morph": "3.sg.act.opt. bhū"
+    }
+   ],
+   "question": "Which three attainments make one dear to yoginis?",
+   "premises": [
+    "enjoyment liberation and great accomplishment are named",
+    "yoginis are the ones to whom one becomes dear",
+    "bhavet expresses possibility"
+   ],
+   "inference": "one who has these attainments may become dear to yoginis",
+   "uncertainties": [
+    "mahā may modify siddhiḥ rather than stand alone"
+   ],
+   "plain_english": "Enjoyment, liberation, and great accomplishment make one dear to the yoginis."
+  },
+  {
+   "verse": 227,
+   "rows": [
+    {
+     "surface": "candra",
+     "gloss": "in-candra",
+     "grounds": "in candra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvīpa",
+     "gloss": "island",
+     "grounds": "island",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinirgate",
+     "gloss": "emerged",
+     "grounds": "emerged",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "navamaḥ",
+     "gloss": "ninth",
+     "grounds": "ninth",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter is said to emerge in candra-dvīpa?",
+   "premises": [
+    "candra-dvīpa is the place named",
+    "vinirgate means emerged",
+    "navamaḥ paṭalaḥ is the ninth chapter"
+   ],
+   "inference": "the ninth chapter emerges in candra-dvīpa",
+   "uncertainties": [
+    "candra and dvīpa may form a compound"
+   ],
+   "plain_english": "The ninth chapter emerges in candra-dvīpa."
+  },
+  {
+   "verse": 228,
+   "rows": [
+    {
+     "surface": "vahni",
+     "gloss": "by-fire",
+     "grounds": "by fire",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nāveṣṭita",
+     "gloss": "surrounded",
+     "grounds": "surrounded",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eka",
+     "gloss": "on-one",
+     "grounds": "on one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "pādena",
+     "gloss": "foot",
+     "grounds": "foot",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "standing",
+     "grounds": "standing",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What posture is the self said to take?",
+   "premises": [
+    "the self is surrounded by fire",
+    "it stands on one foot",
+    "saṃsthitam describes the posture"
+   ],
+   "inference": "the self stands on one foot while surrounded by fire",
+   "uncertainties": [
+    "nāveṣṭita may modify ātmānam directly"
+   ],
+   "plain_english": "The self, surrounded by fire, stands on one foot."
+  },
+  {
+   "verse": 229,
+   "rows": [
+    {
+     "surface": "jñānasya",
+     "gloss": "of-knowledge",
+     "grounds": "of knowledge",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "nirṇayam",
+     "gloss": "determination",
+     "grounds": "determination",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "o god",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "today",
+     "morph": "indecl."
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "to me",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prakaṭīkṛtam",
+     "gloss": "made-manifest",
+     "grounds": "made manifest",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What has been made manifest to me today?",
+   "premises": [
+    "jñānasya nirṇayam is the object",
+    "deva is addressed",
+    "adya and me set time and recipient"
+   ],
+   "inference": "the determination of knowledge has been made manifest to me today",
+   "uncertainties": [
+    "prakaṭīkṛtam may be neuter rather than masculine"
+   ],
+   "plain_english": "O god, the determination of knowledge has been made manifest to me today."
+  },
+  {
+   "verse": 230,
+   "rows": [
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "eight",
+     "morph": "indecl."
+    },
+    {
+     "surface": "aṣṭaka",
+     "gloss": "eight",
+     "grounds": "eight",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "vibhāgam",
+     "gloss": "division",
+     "grounds": "division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "and",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parijñātum",
+     "gloss": "to-know-fully",
+     "grounds": "to know fully",
+     "morph": "inf."
+    },
+    {
+     "surface": "anantathā",
+     "gloss": "endlessly",
+     "grounds": "endlessly",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How is the eightfold division to be fully known?",
+   "premises": [
+    "aṣṭa aṣṭaka vibhāgam names the division",
+    "parijñātum means to know fully",
+    "anantathā qualifies the knowing"
+   ],
+   "inference": "the eightfold division is to be known fully and endlessly",
+   "uncertainties": [
+    "aṣṭa and aṣṭaka may be redundant or distinct counts"
+   ],
+   "plain_english": "The eightfold division is to be known fully and endlessly."
+  },
+  {
+   "verse": 231,
+   "rows": [
+    {
+     "surface": "guhya",
+     "gloss": "secret",
+     "grounds": "secret",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "place",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "as",
+     "morph": "indecl."
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "wheel",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣipraṃ",
+     "gloss": "quickly",
+     "grounds": "quickly",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "is-accomplished",
+     "grounds": "is accomplished",
+     "morph": "3.sg.act.pres. sidh"
+    },
+    {
+     "surface": "bhairava",
+     "gloss": "o-bhairava",
+     "grounds": "o bhairava",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How does the secret place quickly become accomplished?",
+   "premises": [
+    "guhya sthānaṃ is the secret place",
+    "cakraṃ is compared with yathā",
+    "kṣipraṃ sidhyati states quick accomplishment"
+   ],
+   "inference": "the secret place becomes accomplished quickly like a wheel",
+   "uncertainties": [
+    "yathā may compare place to wheel or process to wheel"
+   ],
+   "plain_english": "O Bhairava, the secret place becomes accomplished quickly like a wheel."
+  }
+ ]
+}

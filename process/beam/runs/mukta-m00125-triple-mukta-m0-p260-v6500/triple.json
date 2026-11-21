@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p260",
+ "items": [
+  {
+   "verse": 6500,
+   "rows": [
+    {
+     "surface": "śrīvatse",
+     "gloss": "in-the-śrīvatsa",
+     "grounds": "locative of the śrīvatsa figure or posture named in the preceding context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pādapadmaṃ",
+     "gloss": "foot-lotus",
+     "grounds": "compound denoting a lotus for the feet; object to be placed",
+     "morph": "n.acc.sg; compound pāda+padma"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chatraṃ",
+     "gloss": "parasol",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viniveśayet",
+     "gloss": "one-should-place",
+     "grounds": "injunctive or prescriptive optative directing installation",
+     "morph": "3.sg.act.opt; √viś (with vi-ni)"
+    }
+   ],
+   "question": "Which symbols are to be installed within the śrīvatsa configuration?",
+   "premises": [
+    "The śrīvatsa configuration is the locus of placement.",
+    "A foot-lotus is specified as an element to be placed.",
+    "A parasol is specified as an element to be placed."
+   ],
+   "inference": "Therefore, one should place a foot-lotus and a parasol within the śrīvatsa configuration.",
+   "uncertainties": [
+    "The exact ritual or diagrammatic referent of śrīvatsa depends on the preceding instructions."
+   ],
+   "plain_english": "In the śrīvatsa, one should place a foot-lotus and a parasol."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p215",
+ "items": [
+  {
+   "verse": 5375,
+   "rows": [
+    {
+     "surface": "ukak",
+     "gloss": "as-stated",
+     "grounds": "Legacy hint gives ukak; likely indicates something previously stated, but exact form is uncertain.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot-part",
+     "grounds": "Refers to a foot or designated part in the ritual arrangement.",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yathādevaṃ",
+     "gloss": "according-to-deity",
+     "grounds": "Compound expressing conformity with the deity; internal sandhi noted but row kept fused.",
+     "morph": "compound=yathā+devaṃ"
+    },
+    {
+     "surface": "pūrvadiṅmastakaṃ",
+     "gloss": "east-direction-headed",
+     "grounds": "Compound indicating orientation with the head toward the eastern direction; internal sandhi noted but row kept fused.",
+     "morph": "compound=pūrva+diś+mastakaṃ"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "Indicates manner or conformity, continuing the prescribed pattern.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What orientation and arrangement are prescribed for the ritual placement relative to the deity?",
+   "premises": [
+    "The arrangement follows what has been previously stated.",
+    "The designated part is positioned according to the deity.",
+    "The head is oriented toward the eastern direction."
+   ],
+   "inference": "The ritual placement must be arranged in conformity with the deity and oriented with the head toward the east.",
+   "uncertainties": [
+    "The exact grammatical form and meaning of ukak are unclear."
+   ],
+   "plain_english": "As stated, place the part according to the deity, with its head toward the east, as before."
+  }
+ ]
+}

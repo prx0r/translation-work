@@ -1,0 +1,953 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "aṃkuśena",
+     "gloss": "with-goad",
+     "grounds": "instrumental form of aṃkuśa",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "akṣasūtreṇa",
+     "gloss": "with-rosary",
+     "grounds": "instrumental form of akṣasūtra",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "pāśapustakadhāriṇīm",
+     "gloss": "noose-book-bearing",
+     "grounds": "accusative feminine participle",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What implements does the goddess bear in this meditation image?",
+   "premises": [
+    "The verse lists goad, rosary, noose, and book.",
+    "These are attributes of the meditated goddess."
+   ],
+   "inference": "The goddess is visualized bearing goad, rosary, noose, and book.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "Meditate on her bearing a goad, rosary, noose, and book."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "sitenadarpaṇābhe",
+     "gloss": "white-mirror-like",
+     "grounds": "compound describing mirror-like whiteness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navastreṇaparibhūṣitām",
+     "gloss": "new-cloth-adorned",
+     "grounds": "participle with instrumental cloth",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How is the goddess adorned in this meditation image?",
+   "premises": [
+    "The verse describes mirror-like whiteness.",
+    "It also describes adornment with new cloth."
+   ],
+   "inference": "The goddess is visualized white-mirror-like and adorned with new cloth.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "She is white-mirror-like and adorned with new cloth."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "jaṭākalāpasaṃyuktām",
+     "gloss": "matted-hair-clustered",
+     "grounds": "participle with matted hair cluster",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrṇacaṃdranibhānanām",
+     "gloss": "full-moon-faced",
+     "grounds": "compound describing moon-like face",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What facial and hair features characterize the goddess?",
+   "premises": [
+    "The verse mentions matted hair cluster.",
+    "It also mentions a full-moon-like face."
+   ],
+   "inference": "The goddess has clustered matted hair and a full-moon-like face.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "She has clustered matted hair and a full-moon-like face."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "kaṭakaissvarṇaratnāḍhyair",
+     "gloss": "bracelets-gold-gem-rich",
+     "grounds": "instrumental plural compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "mahāvalayabhūṣitām",
+     "gloss": "great-bangle-adorned",
+     "grounds": "participle with great bangles",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What ornaments adorn the goddess in this image?",
+   "premises": [
+    "The verse mentions gold-gem-rich bracelets.",
+    "It also mentions great bangles."
+   ],
+   "inference": "The goddess is adorned with gold-gem-rich bracelets and great bangles.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "She is adorned with gold-gem-rich bracelets and great bangles."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "śabdabrahmamayīm",
+     "gloss": "sound-brahma-filled",
+     "grounds": "compound describing sound-brahma nature",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dhyāyed",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root dhyā"
+    },
+    {
+     "surface": "dhenuvāgīśvarīm",
+     "gloss": "cow-speech-goddess-supreme",
+     "grounds": "compound naming goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "compound describing color",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the meditated goddess and her color?",
+   "premises": [
+    "The verse instructs meditation.",
+    "It names the supreme speech goddess and white color."
+   ],
+   "inference": "One meditates on the supreme speech goddess, sound-brahma-filled and white.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "Meditate on the supreme speech goddess, sound-brahma-filled and white."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "nijakarakamalodyat",
+     "gloss": "own-hand-lotus-risen",
+     "grounds": "compound describing risen lotus hand",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lekhinīpustaka",
+     "gloss": "pen-book",
+     "grounds": "compound naming pen and book",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīssakalavibhavasaṃghaiḥ",
+     "gloss": "glory-all-prosperity",
+     "grounds": "instrumental compound",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "protect",
+     "grounds": "imperative verb",
+     "morph": "3.sg.act-imp + root pā"
+    },
+    {
+     "surface": "vāgdevatā",
+     "gloss": "speech-goddess",
+     "grounds": "compound naming goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "naḥ",
+     "gloss": "us",
+     "grounds": "pronoun",
+     "morph": "1.pl.acc"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "compound describing color",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the speech goddess protect and what is her color?",
+   "premises": [
+    "The verse asks protection for us.",
+    "It names the speech goddess and white color."
+   ],
+   "inference": "The white speech goddess protects us with glory and prosperity.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "May the white speech goddess protect us with glory and prosperity."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "hemaratnojjvalannakrakuṃḍalam",
+     "gloss": "gold-gem-shining-earring",
+     "grounds": "compound describing earring",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇamaṃḍanam",
+     "gloss": "ear-ornament",
+     "grounds": "compound naming ear ornament",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ear ornament is described?",
+   "premises": [
+    "The verse describes a gold-gem-shining earring.",
+    "It calls it an ear ornament."
+   ],
+   "inference": "The described ear ornament is a gold-gem-shining earring.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The ear ornament is a gold-gem-shining earring."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "sayauvanāsuramyāṃgī",
+     "gloss": "youthful-charming-limbed",
+     "grounds": "compound describing youthful limbs",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuṃcitabhrūsuvibhramā",
+     "gloss": "curved-brow-charming",
+     "grounds": "compound describing curved brow",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What bodily and facial traits are attributed?",
+   "premises": [
+    "The verse describes youthful charming limbs.",
+    "It also describes curved charming brows."
+   ],
+   "inference": "The figure has youthful charming limbs and curved charming brows.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "She has youthful charming limbs and curved charming brows."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "śirasomaṃḍanam",
+     "gloss": "head-ornament",
+     "grounds": "compound naming head ornament",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaṃkhacakrasīmaṃtapadmakam",
+     "gloss": "conch-disc-limit-lotus",
+     "grounds": "compound describing ornament",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What head ornament is described?",
+   "premises": [
+    "The verse names a head ornament.",
+    "It describes conch, disc, limit, and lotus."
+   ],
+   "inference": "The head ornament is described with conch, disc, limit, and lotus.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The head ornament is conch-disc-limit-lotus."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "paṃkajam",
+     "gloss": "lotus",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śrīphalam",
+     "gloss": "śrī-fruit",
+     "grounds": "compound naming fruit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāmedakṣiṇebibhratīparā",
+     "gloss": "or-left-right-bearing-supreme",
+     "grounds": "participle with left/right bearing",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What objects does the supreme goddess bear on left and right?",
+   "premises": [
+    "The verse mentions lotus and śrī-fruit.",
+    "It describes bearing on left and right."
+   ],
+   "inference": "The supreme goddess bears lotus and śrī-fruit on left and right.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The supreme goddess bears lotus and śrī-fruit on left and right."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "mekhalākaṭisūtram",
+     "gloss": "girdle-waist-cord",
+     "grounds": "compound naming waist cord",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lakṣmīlakṣmīvivarddhinī",
+     "gloss": "lakṣmī-lakṣmī-increasing",
+     "grounds": "compound describing increasing Lakṣmī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padmavarṇaḥ",
+     "gloss": "lotus-color",
+     "grounds": "compound describing color",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What waist ornament and color are described?",
+   "premises": [
+    "The verse names a girdle waist cord.",
+    "It mentions increasing Lakṣmī and lotus color."
+   ],
+   "inference": "The waist cord is associated with increasing Lakṣmī and lotus color.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The girdle waist cord is lotus-colored and increases Lakṣmī."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "ādyaṣṭakaṃsuvarṇābham",
+     "gloss": "first-octad-golden",
+     "grounds": "compound describing first octad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśūlaṃḍamarum",
+     "gloss": "trident-drum",
+     "grounds": "compound naming trident and drum",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What implements belong to the first octad?",
+   "premises": [
+    "The verse names the first octad.",
+    "It mentions trident and drum."
+   ],
+   "inference": "The first octad includes trident and drum.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The first octad has trident and drum."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "atha+dvitīyakam",
+     "gloss": "then-second",
+     "grounds": "compound with sandhi marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyed",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root dhyā"
+    },
+    {
+     "surface": "akṣamālām",
+     "gloss": "rosary",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aṃkuśam",
+     "gloss": "goad",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What should be meditated in the second set?",
+   "premises": [
+    "The verse instructs meditation.",
+    "It names rosary and goad."
+   ],
+   "inference": "The second set to meditate includes rosary and goad.",
+   "uncertainties": [
+    "Sandhi marker retained."
+   ],
+   "plain_english": "Meditate on rosary and goad in the second set."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "jvālām",
+     "gloss": "flame",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "śakti",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gadām",
+     "gloss": "mace",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuṃtam",
+     "gloss": "spear",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadhānam",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nīlavarṇakam",
+     "gloss": "blue-color",
+     "grounds": "compound describing color",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What implements and color characterize this set?",
+   "premises": [
+    "The verse lists flame, śakti, mace, and spear.",
+    "It describes holding and blue color."
+   ],
+   "inference": "This set holds flame, śakti, mace, and spear, with blue color.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "This set holds flame, śakti, mace, and spear, blue-colored."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "khaḍgam",
+     "gloss": "sword",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kheṭam",
+     "gloss": "shield",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṭṭiśam",
+     "gloss": "trident-spear",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhānam",
+     "gloss": "holding",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paraśum",
+     "gloss": "axe",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What weapons are held in this set?",
+   "premises": [
+    "The verse lists sword, shield, and trident-spear.",
+    "It also lists axe."
+   ],
+   "inference": "This set holds sword, shield, trident-spear, and axe.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "This set holds sword, shield, trident-spear, and axe."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "kuṃtam",
+     "gloss": "spear",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kheṭam",
+     "gloss": "shield",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parigham",
+     "gloss": "iron-bar",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhiṃḍivālam",
+     "gloss": "bhindipāla",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathaiva+ca",
+     "gloss": "thus-indeed",
+     "grounds": "compound with sandhi marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What weapons are held in this further set?",
+   "premises": [
+    "The verse lists spear, shield, iron bar, and bhindipāla.",
+    "It adds thus indeed."
+   ],
+   "inference": "This further set holds spear, shield, iron bar, and bhindipāla.",
+   "uncertainties": [
+    "Sandhi marker retained."
+   ],
+   "plain_english": "This set holds spear, shield, iron bar, and bhindipāla."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "paṃcamāṣṭakametaddhi",
+     "gloss": "fifth-octad-this-indeed",
+     "grounds": "compound describing fifth octad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śvetam",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "syāt",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "sumanoharam",
+     "gloss": "pleasing",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What color and quality belong to the fifth octad?",
+   "premises": [
+    "The verse names the fifth octad.",
+    "It says white and pleasing."
+   ],
+   "inference": "The fifth octad is white and pleasing.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The fifth octad is white and pleasing."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "pītam",
+     "gloss": "yellow",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭham",
+     "gloss": "sixth",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṛṣi",
+     "gloss": "sage",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "raktam",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭamam",
+     "gloss": "eighth",
+     "grounds": "ordinal",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṭitprabham",
+     "gloss": "lightning-like",
+     "grounds": "compound describing lightning",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What colors and ordinals are assigned here?",
+   "premises": [
+    "The verse mentions yellow sixth.",
+    "It also mentions red eighth and lightning-like."
+   ],
+   "inference": "The sixth is yellow, the eighth is red and lightning-like.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The sixth is yellow; the eighth is red and lightning-like."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "divyayogā",
+     "gloss": "divine-yoga",
+     "grounds": "compound naming yoga",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāyogā",
+     "gloss": "great-yoga",
+     "grounds": "compound naming yoga",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhayogā",
+     "gloss": "perfected-yoga",
+     "grounds": "compound naming yoga",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "maheśvarī",
+     "gloss": "great-goddess",
+     "grounds": "compound naming goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which yogas and goddess are named?",
+   "premises": [
+    "The verse lists divine, great, and perfected yoga.",
+    "It names the great goddess."
+   ],
+   "inference": "The great goddess is associated with divine, great, and perfected yoga.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The great goddess is linked with divine, great, and perfected yoga."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "kaṃkālī",
+     "gloss": "skeleton",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "raudravetālī",
+     "gloss": "fierce-vetālī",
+     "grounds": "compound naming vetālī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "huṃkārī",
+     "gloss": "hūṃ-kārī",
+     "grounds": "compound naming hūṃ-kārī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "world-lady",
+     "grounds": "compound naming world lady",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which fierce goddess forms are named?",
+   "premises": [
+    "The verse lists skeleton, fierce vetālī, and hūṃ-kārī.",
+    "It names world lady."
+   ],
+   "inference": "The world lady appears among skeleton, fierce vetālī, and hūṃ-kārī forms.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The world lady appears with skeleton, fierce vetālī, and hūṃ-kārī."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "phaṭkārī",
+     "gloss": "phaṭ-kārī",
+     "grounds": "compound naming phaṭ-kārī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vīrabhadrā",
+     "gloss": "vīrabhadrā",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūmrākṣī",
+     "gloss": "smoke-eyed",
+     "grounds": "compound describing smoke eyes",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalahapriyā",
+     "gloss": "quarrel-loving",
+     "grounds": "compound describing quarrel love",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess forms are listed here?",
+   "premises": [
+    "The verse names phaṭ-kārī and vīrabhadrā.",
+    "It also names smoke-eyed and quarrel-loving."
+   ],
+   "inference": "The listed forms include phaṭ-kārī, vīrabhadrā, smoke-eyed, and quarrel-loving.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The forms include phaṭ-kārī, vīrabhadrā, smoke-eyed, and quarrel-loving."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "kāmākṣī",
+     "gloss": "kāmākṣī",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ugracāmuṃḍā",
+     "gloss": "fierce-cāmuṇḍā",
+     "grounds": "compound naming fierce cāmuṇḍā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhīṣaṇā",
+     "gloss": "terrifying",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tripurāṃtakā",
+     "gloss": "tripurāntakā",
+     "grounds": "compound naming tripurāntakā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddess forms are named in this list?",
+   "premises": [
+    "The verse names kāmākṣī.",
+    "It also names fierce cāmuṇḍā, terrifying, and tripurāntakā."
+   ],
+   "inference": "The list includes kāmākṣī, fierce cāmuṇḍā, terrifying, and tripurāntakā.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The list includes kāmākṣī, fierce cāmuṇḍā, terrifying, and tripurāntakā."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavī",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hastinī",
+     "gloss": "elephant",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "krodha",
+     "gloss": "wrath",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durmukhī",
+     "gloss": "ill-faced",
+     "grounds": "compound describing ill face",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pretavāhinī",
+     "gloss": "preta-bearing",
+     "grounds": "compound describing preta bearing",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which forms are listed in this group?",
+   "premises": [
+    "The verse names bhairavī and elephant.",
+    "It also names wrath, ill-faced, and preta-bearing."
+   ],
+   "inference": "The group includes bhairavī, elephant, wrath, ill-faced, and preta-bearing.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The group includes bhairavī, elephant, wrath, ill-faced, and preta-bearing."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "asthinī",
+     "gloss": "boned",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cakriṇī",
+     "gloss": "disc-bearer",
+     "grounds": "compound describing disc bearer",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "grāhā",
+     "gloss": "crocodile",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaṃkālī",
+     "gloss": "kaṃkālī",
+     "grounds": "proper name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhuvaneśvarī",
+     "gloss": "world-lady",
+     "grounds": "compound naming world lady",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which forms close this list?",
+   "premises": [
+    "The verse names boned and disc-bearer.",
+    "It also names crocodile, kaṃkālī, and world lady."
+   ],
+   "inference": "The closing forms include boned, disc-bearer, crocodile, kaṃkālī, and world lady.",
+   "uncertainties": [
+    "Compound internal sandhi not expanded."
+   ],
+   "plain_english": "The closing forms include boned, disc-bearer, crocodile, kaṃkālī, and world lady."
+  }
+ ]
+}

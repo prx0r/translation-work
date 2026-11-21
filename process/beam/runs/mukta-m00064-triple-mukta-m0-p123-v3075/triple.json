@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p123",
+ "items": [
+  {
+   "verse": 3075,
+   "rows": [
+    {
+     "surface": "puṣpa+añjalim",
+     "gloss": "handful-of-flowers",
+     "grounds": "object of the act of worship; compound denoting flowers cupped in the hands as an offering",
+     "morph": "compound (puṣpa+añjali).acc.sg.m"
+    },
+    {
+     "surface": "samādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating the preparatory act preceding worship",
+     "morph": "(gerund).sam-ā-dā"
+    },
+    {
+     "surface": "prati+mantreṇa",
+     "gloss": "with-respective-mantra",
+     "grounds": "instrument specifying the mantra appropriate to the worship; mantra syllables are ritual formulae, not translated",
+     "morph": "compound (prati+mantra).inst.sg.m"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive optative enjoining the ritual act directed to the previously described deity",
+     "morph": "3.sg.opt.act.pūj"
+    }
+   ],
+   "question": "What offering and recitation are required to perform proper worship of the visualized deity?",
+   "premises": [
+    "A handful of flowers is taken as the offering.",
+    "The act of worship is performed with the respective mantra.",
+    "The worship follows the visualization of the fully adorned deity."
+   ],
+   "inference": "Proper worship of the visualized deity consists in offering flowers accompanied by the appropriate mantra.",
+   "uncertainties": [
+    "prati+mantreṇa may indicate a mantra specific to each element or the mantra corresponding to the deity; rendered as 'respective mantra'."
+   ],
+   "plain_english": "Having taken a handful of flowers, one should worship with the respective mantra."
+  }
+ ]
+}

@@ -1,0 +1,969 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3101,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun referring to the measure or image under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "unit of measure or bodily foot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sārdhapādona",
+     "gloss": "less-by-half-foot",
+     "grounds": "compound indicating reduction by a half foot",
+     "morph": "compound"
+    },
+    {
+     "surface": "dviguṇaṃ",
+     "gloss": "double",
+     "grounds": "twice the measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadāyatam",
+     "gloss": "extended-to-that",
+     "grounds": "compound indicating length equal to that measure",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative proportional lengths are permitted for the prescribed measure?",
+   "premises": [
+    "The measure may be a foot in length.",
+    "The measure may be less by half a foot.",
+    "The measure may be double or extended to that length."
+   ],
+   "inference": "The ritual specification allows several proportional alternatives for the same measure.",
+   "uncertainties": [
+    "Whether pādaṃ refers to a linear foot-unit or to the deity's foot is not explicit in this verse alone."
+   ],
+   "plain_english": "That measure may be a foot, or less by half a foot, or double, or extended to that length."
+  },
+  {
+   "verse": 3102,
+   "rows": [
+    {
+     "surface": "prabhāmaṇḍalasaṃyuktaṃ",
+     "gloss": "joined-with-halo-circle",
+     "grounds": "compound describing accompaniment by a radiant circle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "by-this",
+     "grounds": "demonstrative referring to the stated method",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "prescribed ritual procedure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "made",
+     "grounds": "completed according to rule",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "By what prescribed method must the halo-adorned form be made?",
+   "premises": [
+    "The form is joined with a halo circle.",
+    "A specific method is indicated by this instruction.",
+    "The form is to be made according to that method."
+   ],
+   "inference": "The halo-adorned form must be fashioned according to the stated ritual method.",
+   "uncertainties": [],
+   "plain_english": "It should be made joined with a halo-circle, according to this method."
+  },
+  {
+   "verse": 3103,
+   "rows": [
+    {
+     "surface": "tāvadekāṃgulārddhyā",
+     "gloss": "by-that-half-finger-increase",
+     "grounds": "compound indicating incremental increase by half a finger",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "sāṣṭhanadithodayam",
+     "gloss": "with-eight-ninth-rise",
+     "grounds": "compound describing a rise or elevation in that proportion; exact technical sense uncertain",
+     "morph": "compound"
+    }
+   ],
+   "question": "What incremental proportion governs the rise specified in this measurement rule?",
+   "premises": [
+    "The increase is measured by a half-finger increment.",
+    "The rise is described as having an eight-ninth proportion.",
+    "Both terms qualify the same measurement adjustment."
+   ],
+   "inference": "The prescribed rise follows a specific proportional increase involving half-finger and eight-ninth measures.",
+   "uncertainties": [
+    "The exact technical meaning of sāṣṭhanadithodayam is unclear."
+   ],
+   "plain_english": "It should have that rise, increased by half a finger, in the stated eight-ninth proportion."
+  },
+  {
+   "verse": 3104,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates continuity with a previously stated rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃkhyāghanaṃ",
+     "gloss": "solid-number-total",
+     "grounds": "compound referring to a computed numerical total or cubic count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "declared",
+     "grounds": "stated or known in the teaching",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daṇḍasya+prathamasya",
+     "gloss": "of-first-staff",
+     "grounds": "compound indicating possession or relation to the first staff measure",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification or contrast",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the numerical total of the first staff measure to be understood?",
+   "premises": [
+    "The rule follows the earlier method.",
+    "A solid numerical total is declared.",
+    "This total pertains to the first staff."
+   ],
+   "inference": "The first staff's numerical total is to be calculated as declared before.",
+   "uncertainties": [
+    "The precise computational sense of saṃkhyāghanaṃ is not fully explicit."
+   ],
+   "plain_english": "But, as before, the solid numerical total of the first staff is declared."
+  },
+  {
+   "verse": 3105,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃca",
+     "gloss": "one-two-three-four-five",
+     "grounds": "compound listing successive numerical values",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣaṭsaptāṣṭanavaṃ+daśa",
+     "gloss": "six-seven-eight-nine-ten",
+     "grounds": "compound listing successive numerical values",
+     "morph": "compound"
+    }
+   ],
+   "question": "What sequence of numerical values is enumerated for the measurement scheme?",
+   "premises": [
+    "The first compound lists one through five.",
+    "The second compound lists six through ten.",
+    "Together they form a continuous numerical series."
+   ],
+   "inference": "The measurement scheme employs the full numerical sequence from one to ten.",
+   "uncertainties": [],
+   "plain_english": "One, two, three, four, five, six, seven, eight, nine, and ten."
+  },
+  {
+   "verse": 3106,
+   "rows": [
+    {
+     "surface": "kartarīś",
+     "gloss": "remainder",
+     "grounds": "term indicating a remaining portion or divisor in calculation; technical sense uncertain",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "avaśāt",
+     "gloss": "from-remainder",
+     "grounds": "indicates derivation from what remains",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "among-those",
+     "grounds": "refers back to the enumerated values",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "daṇḍasaṃkhyā",
+     "gloss": "staff-number",
+     "grounds": "compound denoting the count of staff units",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatkuru",
+     "gloss": "do-that",
+     "grounds": "imperative instruction to apply the calculation",
+     "morph": "2.sg.imp-act"
+    }
+   ],
+   "question": "How should the staff number be determined from the enumerated values and remainder?",
+   "premises": [
+    "A remainder is to be considered.",
+    "The calculation applies among the enumerated values.",
+    "The practitioner is instructed to determine the staff number accordingly."
+   ],
+   "inference": "The staff number must be derived by applying the remainder within the given numerical series.",
+   "uncertainties": [
+    "The technical meaning of kartarīś in this measurement context is uncertain."
+   ],
+   "plain_english": "And from the remainder among those, determine the staff number accordingly."
+  },
+  {
+   "verse": 3107,
+   "rows": [
+    {
+     "surface": "tasyopariṣṭāt",
+     "gloss": "above-that",
+     "grounds": "indicates position above the previously mentioned element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "analaṃ",
+     "gloss": "fire",
+     "grounds": "the element fire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "location in the hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tvagnirivākṛtiḥ",
+     "gloss": "but-fire-like-form",
+     "grounds": "compound comparing the form to fire",
+     "morph": "compound"
+    }
+   ],
+   "question": "What fiery form is to be placed above and in the hand of the figure?",
+   "premises": [
+    "Something is positioned above that element.",
+    "Fire is present in the hand.",
+    "The form is described as like fire."
+   ],
+   "inference": "A fire-like form of fire is to be depicted above and in the hand.",
+   "uncertainties": [],
+   "plain_english": "Above that, fire is in the hand, with a form like fire."
+  },
+  {
+   "verse": 3108,
+   "rows": [
+    {
+     "surface": "bhānumaṇḍalabaddhīmān",
+     "gloss": "bound-to-sun-circle",
+     "grounds": "compound describing connection to the solar disk",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prabhāmaṇḍalavartinam",
+     "gloss": "dwelling-in-halo-circle",
+     "grounds": "compound describing location within a radiant halo",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the luminous figure situated in relation to solar and halo circles?",
+   "premises": [
+    "The figure is bound to the sun circle.",
+    "The figure dwells within the halo circle.",
+    "Both circles define its luminous setting."
+   ],
+   "inference": "The figure is to be represented as encompassed by both solar and halo circles.",
+   "uncertainties": [],
+   "plain_english": "Bound to the sun-circle and dwelling within the halo-circle."
+  },
+  {
+   "verse": 3109,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the described form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt+prathamaṃ",
+     "gloss": "may-be-first",
+     "grounds": "compound expressing designation as the first",
+     "morph": "compound"
+    },
+    {
+     "surface": "nṛttaṃ",
+     "gloss": "dance",
+     "grounds": "ritual dance form of the deity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvalokahitāvaham",
+     "gloss": "bringing-benefit-to-all-worlds",
+     "grounds": "compound stating the beneficent effect of the dance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the identity and beneficent purpose of the first prescribed dance?",
+   "premises": [
+    "The described form is designated as the first dance.",
+    "It is explicitly called a dance.",
+    "It brings benefit to all worlds."
+   ],
+   "inference": "The first dance is a beneficent form established for the welfare of all worlds.",
+   "uncertainties": [],
+   "plain_english": "This should be the first dance, bringing benefit to all worlds."
+  },
+  {
+   "verse": 3110,
+   "rows": [
+    {
+     "surface": "śaṃbhordehāṃgulena+eva",
+     "gloss": "by-shambhu-body-finger-alone",
+     "grounds": "compound specifying measurement by Śambhu's own finger unit",
+     "morph": "compound"
+    },
+    {
+     "surface": "ṣoḍaśāṃgulam+unnatam",
+     "gloss": "sixteen-fingers-high",
+     "grounds": "compound giving the height as sixteen finger units",
+     "morph": "compound"
+    }
+   ],
+   "question": "What unit and height define the measurement of the second form?",
+   "premises": [
+    "The measurement uses Śambhu's own body-finger as the unit.",
+    "The height is specified as sixteen such fingers.",
+    "The unit is to be taken exclusively in that measure."
+   ],
+   "inference": "The form's height is fixed at sixteen finger-units measured by Śambhu's own finger.",
+   "uncertainties": [],
+   "plain_english": "It is sixteen fingers high, measured by Śambhu's own body-finger alone."
+  },
+  {
+   "verse": 3111,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates manner as described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāhnavīsaṃyuktaṃ",
+     "gloss": "joined-with-ganga",
+     "grounds": "compound indicating association with the river Jāhnavī",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛttaṃ",
+     "gloss": "dance",
+     "grounds": "ritual dance form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal designation of the dance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distinguishes the second dance in its defining association?",
+   "premises": [
+    "The dance is described in this manner.",
+    "It is joined with the Ganges.",
+    "It is designated as the second dance."
+   ],
+   "inference": "The second dance is defined by its association with the Ganges.",
+   "uncertainties": [],
+   "plain_english": "Thus, the second dance is joined with the Ganges."
+  },
+  {
+   "verse": 3112,
+   "rows": [
+    {
+     "surface": "uddhṛtaṃ",
+     "gloss": "raised",
+     "grounds": "lifted upward",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "right side",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "bodily foot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmahastaṃ",
+     "gloss": "left-hand",
+     "grounds": "compound denoting the left hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasāritam",
+     "gloss": "extended",
+     "grounds": "stretched out",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which limbs are raised and extended in this dance posture?",
+   "premises": [
+    "The right foot is raised.",
+    "The left hand is extended.",
+    "Both positions are specified together."
+   ],
+   "inference": "The posture requires a raised right foot and an extended left hand.",
+   "uncertainties": [],
+   "plain_english": "The right foot is raised and the left hand is extended."
+  },
+  {
+   "verse": 3113,
+   "rows": [
+    {
+     "surface": "lambayed",
+     "gloss": "should-hang",
+     "grounds": "optative instruction to let something hang down",
+     "morph": "3.sg.opt-act"
+    },
+    {
+     "surface": "brahmasūtraṃ",
+     "gloss": "sacred-thread",
+     "grounds": "the brahmanical thread",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "placed",
+     "grounds": "situated or standing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pādasya+gulphake",
+     "gloss": "at-foot-ankle",
+     "grounds": "compound indicating location at the ankle of the foot",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where must the sacred thread be positioned in relation to the foot?",
+   "premises": [
+    "The sacred thread is to hang down.",
+    "Its position is specified as placed.",
+    "The location is at the ankle of the foot."
+   ],
+   "inference": "The sacred thread should hang down to the ankle of the foot.",
+   "uncertainties": [],
+   "plain_english": "The sacred thread should hang down, placed at the ankle of the foot."
+  },
+  {
+   "verse": 3114,
+   "rows": [
+    {
+     "surface": "suvikīrṇa",
+     "gloss": "well-spread",
+     "grounds": "widely scattered or spread out",
+     "morph": "compound"
+    },
+    {
+     "surface": "jaṭābhāraṃ",
+     "gloss": "mass-of-matted-hair",
+     "grounds": "compound denoting the heavy mass of matted locks",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jaṭāmakuṭasaṃyutam",
+     "gloss": "joined-with-matted-hair-crown",
+     "grounds": "compound indicating the matted hair arranged as a crown",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the deity's matted hair be arranged in this iconographic form?",
+   "premises": [
+    "The mass of matted hair is well spread.",
+    "The hair is joined with a matted-hair crown.",
+    "Both features describe the same coiffure."
+   ],
+   "inference": "The deity's matted hair should be shown as a well-spread mass formed into a crown.",
+   "uncertainties": [],
+   "plain_english": "The mass of matted hair should be well spread and arranged as a matted-hair crown."
+  },
+  {
+   "verse": 3115,
+   "rows": [
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "ordinal designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nṛttam+etat+hi",
+     "gloss": "this-dance-indeed",
+     "grounds": "compound emphatically identifying this dance",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvaprāṇi+hitāvaham",
+     "gloss": "bringing-benefit-to-all-beings",
+     "grounds": "compound stating beneficent effect for all living beings",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the identity and beneficent purpose of the fourth prescribed dance?",
+   "premises": [
+    "This is designated as the fourth dance.",
+    "It is emphatically identified as this dance.",
+    "It brings benefit to all beings."
+   ],
+   "inference": "The fourth dance is a beneficent form established for the welfare of all beings.",
+   "uncertainties": [],
+   "plain_english": "This indeed is the fourth dance, bringing benefit to all beings."
+  },
+  {
+   "verse": 3116,
+   "rows": [
+    {
+     "surface": "svavakraṃ",
+     "gloss": "bent",
+     "grounds": "curved or bent in form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmapādaṃ",
+     "gloss": "left-foot",
+     "grounds": "compound denoting the left foot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apasmāropari",
+     "gloss": "upon-apasmara",
+     "grounds": "compound indicating position above Apasmāra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "standing",
+     "grounds": "placed or standing",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the left foot positioned in relation to Apasmāra in this form?",
+   "premises": [
+    "The left foot is bent.",
+    "The left foot is standing.",
+    "Its position is upon Apasmāra."
+   ],
+   "inference": "The bent left foot must be shown standing upon Apasmāra.",
+   "uncertainties": [],
+   "plain_english": "The bent left foot stands upon Apasmāra."
+  },
+  {
+   "verse": 3117,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "the gesture or attribute of fearlessness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūlapāśaṃ",
+     "gloss": "trident-and-noose",
+     "grounds": "compound naming the trident and noose attributes",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍamaruṃ",
+     "gloss": "drum",
+     "grounds": "the small hand drum",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-right",
+     "grounds": "on the right side",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "in the hand",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which attributes are held in the right hand in this iconographic description?",
+   "premises": [
+    "Fearlessness is specified.",
+    "The trident and noose are specified.",
+    "The drum is specified in the right hand."
+   ],
+   "inference": "The right hand bears the fearlessness gesture together with the trident, noose, and drum.",
+   "uncertainties": [
+    "The distribution of these attributes across possibly multiple right hands is not explicit."
+   ],
+   "plain_english": "In the right hand are fearlessness, the trident and noose, and the drum."
+  },
+  {
+   "verse": 3118,
+   "rows": [
+    {
+     "surface": "gajahastopamaṃ",
+     "gloss": "like-elephant-trunk",
+     "grounds": "compound comparing the hand's curve to an elephant's trunk",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "hand",
+     "grounds": "the hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasāryaṃ",
+     "gloss": "to-be-extended",
+     "grounds": "gerundive indicating it should be extended",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇānugam",
+     "gloss": "following-right",
+     "grounds": "compound indicating movement or direction following the right side",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How must the extended hand be shaped and directed in this posture?",
+   "premises": [
+    "The hand is compared to an elephant's trunk.",
+    "The hand is to be extended.",
+    "Its direction follows the right side."
+   ],
+   "inference": "The hand should be extended in an elephant-trunk curve directed toward the right.",
+   "uncertainties": [],
+   "plain_english": "The hand, like an elephant's trunk, should be extended following the right side."
+  },
+  {
+   "verse": 3119,
+   "rows": [
+    {
+     "surface": "cihnaṃ",
+     "gloss": "mark",
+     "grounds": "distinctive sign or characteristic",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃcamanṛttasya",
+     "gloss": "of-fifth-dance",
+     "grounds": "compound indicating relation to the fifth dance",
+     "morph": "compound"
+    },
+    {
+     "surface": "evaṃ+eva+iti",
+     "gloss": "thus-indeed",
+     "grounds": "compound emphasizing that it is known in this way",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "is-known",
+     "grounds": "is recognized or exists as such",
+     "morph": "3.sg.pres-pass"
+    }
+   ],
+   "question": "What is established as the distinctive mark of the fifth dance?",
+   "premises": [
+    "A mark is being identified.",
+    "The mark belongs to the fifth dance.",
+    "It is known in this very manner."
+   ],
+   "inference": "The described features constitute the recognized mark of the fifth dance.",
+   "uncertainties": [],
+   "plain_english": "Thus indeed is known the mark of the fifth dance."
+  },
+  {
+   "verse": 3120,
+   "rows": [
+    {
+     "surface": "skandadhṛt",
+     "gloss": "holding-skanda",
+     "grounds": "compound indicating one who holds Skanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāmahaste",
+     "gloss": "in-left-hand",
+     "grounds": "compound indicating location in the left hand",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhṛtāṃjaliḥ",
+     "gloss": "holding-joined-palms",
+     "grounds": "compound describing hands held in añjali",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are Skanda and the joined-palms gesture positioned in the left hand?",
+   "premises": [
+    "Skanda is held.",
+    "The location is the left hand.",
+    "The joined-palms gesture is held."
+   ],
+   "inference": "The figure holds Skanda in the left hand while displaying joined palms.",
+   "uncertainties": [
+    "The exact relation between holding Skanda and holding añjali in the same hand is ambiguous."
+   ],
+   "plain_english": "Holding Skanda in the left hand, with joined palms held."
+  },
+  {
+   "verse": 3121,
+   "rows": [
+    {
+     "surface": "skando",
+     "gloss": "skanda",
+     "grounds": "the deity Skanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhayakarābhyāṃ",
+     "gloss": "with-fear-making-hands",
+     "grounds": "compound describing hands that cause fear; interpretation uncertain",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanustanaṃ",
+     "gloss": "chin-and-breast",
+     "grounds": "compound indicating chin and breast region",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhṛgādarāt",
+     "gloss": "held-with-reverence",
+     "grounds": "compound suggesting holding with respect; reading uncertain",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is Skanda depicted in relation to the chin and breast in this description?",
+   "premises": [
+    "Skanda is the subject.",
+    "Hands described as fear-making are involved.",
+    "The chin and breast are held with reverence."
+   ],
+   "inference": "Skanda is depicted with fear-making hands held reverently at the chin and breast.",
+   "uncertainties": [
+    "The readings and exact meanings of bhayakarābhyāṃ and dhṛgādarāt are uncertain."
+   ],
+   "plain_english": "Skanda, with fear-making hands, is held with reverence at the chin and breast."
+  },
+  {
+   "verse": 3122,
+   "rows": [
+    {
+     "surface": "abhayaṃ",
+     "gloss": "fearlessness",
+     "grounds": "gesture or attribute of fearlessness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ḍamarukaṃ",
+     "gloss": "drum",
+     "grounds": "small hand drum",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vajraṃ",
+     "gloss": "thunderbolt",
+     "grounds": "the vajra weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "the trident weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which set of attributes is enumerated for this form of the deity?",
+   "premises": [
+    "Fearlessness and the drum are named.",
+    "The thunderbolt and trident are named.",
+    "The list is presented as belonging likewise to the form."
+   ],
+   "inference": "This form bears fearlessness, a drum, a thunderbolt, and a trident.",
+   "uncertainties": [],
+   "plain_english": "Fearlessness, the drum, the thunderbolt, and likewise the trident."
+  },
+  {
+   "verse": 3123,
+   "rows": [
+    {
+     "surface": "savyānugakaraṇḍairvā",
+     "gloss": "or-with-right-following-hands",
+     "grounds": "compound indicating hands or implements following the right side; technical sense uncertain",
+     "morph": "compound"
+    },
+    {
+     "surface": "vetālaṃ",
+     "gloss": "vetala",
+     "grounds": "the figure Vetāla",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmānubhaṃgajāpamam",
+     "gloss": "like-left-side-bent",
+     "grounds": "compound comparing posture to a left-side bend; reading uncertain",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative posture or accompaniment is specified for the Vetāla figure?",
+   "premises": [
+    "An alternative involving right-following hands is given.",
+    "The Vetāla figure is named.",
+    "Its posture is compared to a left-side bend."
+   ],
+   "inference": "The Vetāla may alternatively be shown with right-following hands in a left-bent posture.",
+   "uncertainties": [
+    "The technical meanings of savyānugakaraṇḍairvā and vāmānubhaṃgajāpamam are uncertain."
+   ],
+   "plain_english": "Or, with right-following hands, the Vetāla is shown like one bent on the left side."
+  },
+  {
+   "verse": 3124,
+   "rows": [
+    {
+     "surface": "ghaṇṭāṃ",
+     "gloss": "bell",
+     "grounds": "a bell attribute",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca+eva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic connective compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull",
+     "grounds": "a skull-cup attribute",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmapārśve",
+     "gloss": "on-left-side",
+     "grounds": "compound indicating location on the left side",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭahastake",
+     "gloss": "in-eight-handed-form",
+     "grounds": "compound indicating a form with eight hands",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which attributes are placed on the left side of the eight-handed form?",
+   "premises": [
+    "A bell is specified.",
+    "A skull is specified.",
+    "These are located on the left side of the eight-handed form."
+   ],
+   "inference": "The eight-handed form bears a bell and a skull on its left side.",
+   "uncertainties": [],
+   "plain_english": "In the eight-handed form, a bell and a skull are on the left side."
+  }
+ ]
+}

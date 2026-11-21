@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "kṣurikā",
+     "gloss": "razor",
+     "grounds": "weapon noun in the held-object list",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "bhiṃḍivāla",
+     "gloss": "bhiṃḍivāla",
+     "grounds": "named held implement; lexical sense uncertain",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining held objects",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhānā",
+     "gloss": "holding",
+     "grounds": "present participle agreeing with the deity",
+     "morph": "nom.sg.f-participle"
+    },
+    {
+     "surface": "bāhubhiḥ",
+     "gloss": "with-arms",
+     "grounds": "instrumental plural locating the holding",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "mudā",
+     "gloss": "with-joy",
+     "grounds": "instrumental singular qualifying the action",
+     "morph": "instr.sg.f"
+    }
+   ],
+   "question": "What implements does the deity hold in her arms with joy?",
+   "premises": [
+    "The verse lists held implements.",
+    "The participle dadhānā indicates holding.",
+    "The instrumental bāhubhiḥ locates action in arms."
+   ],
+   "inference": "The deity holds a razor and bhiṃḍivāla with her arms joyfully.",
+   "uncertainties": [
+    "The lexical sense of bhiṃḍivāla is uncertain.",
+    "The exact deity is not named in this excerpt."
+   ],
+   "plain_english": "Holding a razor and bhiṃḍivāla, with arms, joyfully."
+  }
+ ]
+}

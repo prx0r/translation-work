@@ -1,0 +1,40 @@
+{
+ "song": "mukta-m0-p88",
+ "items": [
+  {
+   "verse": 2200,
+   "rows": [
+    {
+     "surface": "ghoraghorataretyante",
+     "gloss": "at-end-of-ghora-ghoratara",
+     "grounds": "fused form ghoraghoratara+iti+ante; marks the end of the ghoraghoratara element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tanurūpapadaṃ",
+     "gloss": "tanu-form-word",
+     "grounds": "compound tanu-rūpa-pada; accusative singular neuter noun",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which pada follows the ghoraghoratara element in the mantra?",
+   "premises": [
+    "ghoraghorataretyante marks the end of the ghoraghoratara element",
+    "tanurūpapadaṃ is the following pada",
+    "tataḥ indicates the sequence continues"
+   ],
+   "inference": "the next pada after ghoraghoratara is tanurūpa",
+   "uncertainties": [
+    "exact internal sandhi of ghoraghorataretyante is editorially fused",
+    "tanurūpapadaṃ may be compound or phrase"
+   ],
+   "plain_english": "Then, after the ghoraghoratara element, comes the tanu-rūpa pada."
+  }
+ ]
+}

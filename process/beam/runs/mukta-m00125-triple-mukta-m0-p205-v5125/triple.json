@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p205",
+ "items": [
+  {
+   "verse": 5125,
+   "rows": [
+    {
+     "surface": "ūrvādi",
+     "gloss": "beginning-with-thigh",
+     "grounds": "compound with first member ūru (thigh) and second ādi (beginning); analyzed as fused form",
+     "morph": "compound: ūru+ādi"
+    },
+    {
+     "surface": "madhya",
+     "gloss": "middle",
+     "grounds": "denotes the central point within the sequence of measures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mātrāṇāṃ",
+     "gloss": "of-measures",
+     "grounds": "refers to the units of measurement being described",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "jānvorapyantaraṃ",
+     "gloss": "even-interval-of-knees",
+     "grounds": "fused sandhi form containing jānvōḥ (of the two knees), api (even), and antaraṃ (interval); analyzed without splitting the token",
+     "morph": "compound-sandhi: jānu.gen.du+api(indecl.)+antara.n.nom.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-sequence",
+     "grounds": "indicates sequential order in the measurement scheme",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What position does the interval of the knees occupy among measures beginning from the thigh?",
+   "premises": [
+    "Measures are reckoned in sequence beginning from the thigh.",
+    "The knees possess a definable interval or space.",
+    "This knee interval corresponds to the middle of those thigh-based measures."
+   ],
+   "inference": "Therefore, in sequential order, the interval of the knees is identified as the middle of the measures beginning from the thigh.",
+   "uncertainties": [
+    "The exact anatomical boundaries of the knee interval are not specified within this verse alone."
+   ],
+   "plain_english": "In due sequence, the interval of the knees is the middle of the measures beginning from the thigh."
+  }
+ ]
+}

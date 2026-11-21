@@ -1,0 +1,82 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrim",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "shrim",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hiṅgule",
+     "gloss": "hiṅgule",
+     "grounds": "goddess name in vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "adverbial particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kamalā",
+     "gloss": "kamalā",
+     "grounds": "goddess name in vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṣāmāa",
+     "gloss": "kṣāmāa",
+     "grounds": "goddess epithet in vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tryakṣaṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caṇḍike",
+     "gloss": "caṇḍike",
+     "grounds": "goddess name in vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which bīja syllables and goddess names are invoked in this mantra line?",
+   "premises": [
+    "The line lists bīja syllables and names.",
+    "The names appear in vocative address.",
+    "The syllables are not translated."
+   ],
+   "inference": "The verse presents a mantra invocation combining bīja syllables with goddess names.",
+   "uncertainties": [
+    "Exact grammatical case of kṣāmāa is unclear from the supplied token.",
+    "The precise ritual function of the line is not stated."
+   ],
+   "plain_english": "Om, hrim, shrim, hiṅgule, likewise, kamalā, kṣāmāa, three-eyed, and caṇḍike."
+  }
+ ]
+}

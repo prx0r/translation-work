@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "mādanāstvādiparataḥ",
+     "gloss": "madanas-indeed-from-beginning-onward",
+     "grounds": "fused form carries Madanas plus indeed plus from-beginning-onward; sandhi kept intact",
+     "morph": "m.nom.pl + indecl. + adv"
+    },
+    {
+     "surface": "sarvādhaḥsthā",
+     "gloss": "all-below-situated",
+     "grounds": "describes the appointed ones as situated below all",
+     "morph": "adj.nom.pl.f"
+    },
+    {
+     "surface": "niyojitāḥ",
+     "gloss": "appointed",
+     "grounds": "passive participle indicating assigned or appointed status",
+     "morph": "ppp.nom.pl.m"
+    }
+   ],
+   "question": "Are Madanas appointed from the beginning as all-below-situated?",
+   "premises": [
+    "Madanas are appointed from beginning.",
+    "They are all-below-situated.",
+    "Appointment holds from beginning onward."
+   ],
+   "inference": "Madanas hold an appointed below-situated status from the beginning onward.",
+   "uncertainties": [
+    "Exact referent of Madanas and full ritual scope remain context-dependent."
+   ],
+   "plain_english": "The Madanas are indeed appointed from the beginning onward as all-below-situated."
+  }
+ ]
+}

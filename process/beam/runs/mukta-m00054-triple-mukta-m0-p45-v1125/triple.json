@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p45",
+ "items": [
+  {
+   "verse": 1125,
+   "rows": [
+    {
+     "surface": "ekakālan",
+     "gloss": "one-time",
+     "grounds": "adverbial compound indicating a single occasion; sandhi form of ekakālam",
+     "morph": "compound: eka+one, kāla+time (m.acc.sg)"
+    },
+    {
+     "surface": "dvikāla/",
+     "gloss": "two-times",
+     "grounds": "adverbial compound indicating two occasions; trailing slash marks metrical or editorial break",
+     "morph": "compound: dvi+two, kāla+time (m.acc.sg)"
+    },
+    {
+     "surface": "vvā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering an alternative; doubled initial consonant reflects sandhi/orthography",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trikāla/",
+     "gloss": "three-times",
+     "grounds": "adverbial compound indicating three occasions; trailing slash marks metrical or editorial break",
+     "morph": "compound: tri+three, kāla+time (m.acc.sg)"
+    },
+    {
+     "surface": "vvā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering an alternative; doubled initial consonant reflects sandhi/orthography",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturtthakam",
+     "gloss": "fourth-time",
+     "grounds": "ordinal-derived expression indicating a fourth occasion",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What frequencies of performance are permitted for the prescribed observance?",
+   "premises": [
+    "The observance may be performed one time.",
+    "The observance may alternatively be performed two times.",
+    "The observance may alternatively be performed three times or a fourth time."
+   ],
+   "inference": "The prescribed observance allows a range of frequencies from one up to four times.",
+   "uncertainties": [
+    "The exact ritual action whose frequency is specified depends on the preceding verses."
+   ],
+   "plain_english": "It may be done once, or twice, or three times, or a fourth time."
+  }
+ ]
+}

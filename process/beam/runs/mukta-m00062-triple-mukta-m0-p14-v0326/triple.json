@@ -1,0 +1,977 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "kartṛka+pāla+hastaṃ",
+     "gloss": "scissors-skull-in-hand",
+     "grounds": "compound describing an attribute held in the hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ḍamaru+khaṭvāṅga+dhāriṇam",
+     "gloss": "drum-skull-staff-holder",
+     "grounds": "compound describing one who holds a drum and skull-staff",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual implements are held by the visualized deity?",
+   "premises": [
+    "The deity holds scissors and a skull in hand.",
+    "The deity also holds a drum and skull-staff."
+   ],
+   "inference": "The deity is visualized bearing fierce tantric implements in her hands.",
+   "uncertainties": [],
+   "plain_english": "She holds scissors and a skull in one hand, and bears a drum and a skull-staff."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "pañca+pretaṃ",
+     "gloss": "five-corpses",
+     "grounds": "compound indicating a seat or base of five corpses",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tat+adhaḥ",
+     "gloss": "below-that",
+     "grounds": "compound indicating location beneath that",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+ādyāḥ",
+     "gloss": "brahma-and-others",
+     "grounds": "compound denoting Brahma and the other deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca+kāraṇāḥ",
+     "gloss": "five-causes",
+     "grounds": "compound identifying the five causal deities",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What foundational support lies beneath the five-corpse seat?",
+   "premises": [
+    "A seat of five corpses is present.",
+    "Below that are Brahma and the others.",
+    "These are identified as the five causes."
+   ],
+   "inference": "The five-corpse seat rests upon Brahma and the other four causal deities.",
+   "uncertainties": [],
+   "plain_english": "Below the seat of five corpses are Brahma and the others, who are the five causes."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "pīta+śyāmaṃ",
+     "gloss": "yellow-black",
+     "grounds": "compound describing colors of causal deities",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rakta+dhūmraṃ",
+     "gloss": "red-smoky",
+     "grounds": "compound describing colors of causal deities",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śveta+ābhāvaṃ",
+     "gloss": "white-lustrous",
+     "grounds": "compound describing color and radiance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking descriptions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāraṇāḥ",
+     "gloss": "causes",
+     "grounds": "refers to the five causal deities",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What colors characterize the five causal deities beneath the seat?",
+   "premises": [
+    "The causal deities are described with specific colors.",
+    "Their colors include yellow-black, red-smoky, and white-lustrous."
+   ],
+   "inference": "The five causes are distinguished by these respective color attributes.",
+   "uncertainties": [
+    "The exact mapping of each color pair to each of the five causes is not fully explicit in this verse alone."
+   ],
+   "plain_english": "The causes are yellow-black, red-smoky, and white-lustrous in appearance."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "tarjanī+mukha+niḥkṣiptā",
+     "gloss": "forefinger-tip-emitted",
+     "grounds": "compound describing something projected from the forefinger tip",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śiva+dhasthā",
+     "gloss": "standing-on-shiva",
+     "grounds": "compound indicating position upon Shiva",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tri+locanā",
+     "gloss": "three-eyed",
+     "grounds": "compound describing the deity as having three eyes",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What posture and physical marks define the goddess in this visualization?",
+   "premises": [
+    "She is described as emitting from the forefinger tip.",
+    "She stands upon Shiva.",
+    "She possesses three eyes."
+   ],
+   "inference": "The goddess is visualized as three-eyed, standing on Shiva, and projected from the forefinger.",
+   "uncertainties": [],
+   "plain_english": "She is emitted from the tip of the forefinger, stands upon Shiva, and has three eyes."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "vajra+daṃṣṭrā",
+     "gloss": "thunderbolt-teeth",
+     "grounds": "compound describing teeth like thunderbolts",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nakha+sparśā",
+     "gloss": "nail-touching",
+     "grounds": "compound describing contact or action with nails",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padma+pṛṣṭhe",
+     "gloss": "on-lotus-back",
+     "grounds": "compound indicating location on the back of a lotus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śiva+uttamā",
+     "gloss": "supreme-shiva-goddess",
+     "grounds": "compound identifying the supreme auspicious goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What fierce features and location characterize the supreme goddess?",
+   "premises": [
+    "The goddess has thunderbolt-like teeth.",
+    "She is described as touching with nails.",
+    "She is located on the back of a lotus and is supreme."
+   ],
+   "inference": "The supreme goddess is fierce in form and situated upon a lotus.",
+   "uncertainties": [
+    "The precise sense of nakha+sparśā in this context is somewhat ambiguous."
+   ],
+   "plain_english": "The supreme goddess has thunderbolt teeth, touches with her nails, and is upon the back of a lotus."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "indraṃ",
+     "gloss": "indra",
+     "grounds": "name of the directional lord Indra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pīta+ābha+vajraṃ",
+     "gloss": "yellow-hued-thunderbolt",
+     "grounds": "compound describing Indra with a yellow hue and thunderbolt",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking deities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire-god",
+     "grounds": "name of the fire deity Agni",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "raktaṃ+sa+śaktikam",
+     "gloss": "red-with-spear",
+     "grounds": "compound describing the fire god as red and bearing a spear",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are the directional lords Indra and Agni visualized in this arrangement?",
+   "premises": [
+    "Indra is visualized as yellow-hued and bearing a thunderbolt.",
+    "Agni is visualized as red and bearing a spear."
+   ],
+   "inference": "Indra and Agni are depicted with distinct colors and weapons.",
+   "uncertainties": [],
+   "plain_english": "Visualize Indra as yellow-hued with a thunderbolt, and Agni as red with a spear."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "varuṇaṃ",
+     "gloss": "varuna",
+     "grounds": "name of the directional lord Varuna",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pāśa+śubhra+āsya",
+     "gloss": "noose-white-faced",
+     "grounds": "compound describing Varuna with a noose and white face",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "wind-god",
+     "grounds": "name of the wind deity Vayu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śyāma+aṃkuśa+dhvajam",
+     "gloss": "dark-goad-bannered",
+     "grounds": "compound describing Vayu as dark with goad and banner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How are the directional lords Varuna and Vayu visualized in this arrangement?",
+   "premises": [
+    "Varuna is described with a noose and a white face.",
+    "Vayu is described as dark and bearing a goad and banner."
+   ],
+   "inference": "Varuna and Vayu are depicted with distinct colors and emblems.",
+   "uncertainties": [],
+   "plain_english": "Visualize Varuna with a noose and white face, and Vayu as dark with a goad and banner."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "dik+aṣṭa+pataye",
+     "gloss": "for-eight-direction-lords",
+     "grounds": "compound referring to the lords of the eight directions",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "jñeyam",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating what should be understood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "the seat or support",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle indicating what has been proclaimed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What seat is declared for the lords of the eight directions?",
+   "premises": [
+    "A seat is to be known for the lords of the eight directions.",
+    "This seat has been declared in the teaching."
+   ],
+   "inference": "The arrangement described constitutes the declared seat for the eight directional lords.",
+   "uncertainties": [],
+   "plain_english": "This is to be known as the seat declared for the lords of the eight directions."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "dvāparaṃ",
+     "gloss": "dvapara-age",
+     "grounds": "name of the third cosmic age",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aruṇaṃ",
+     "gloss": "reddish",
+     "grounds": "color associated with Dvapara",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "color",
+     "grounds": "term for color or hue",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śyāmaṃ",
+     "gloss": "dark",
+     "grounds": "color associated with Kali",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kali",
+     "gloss": "kali-age",
+     "grounds": "name of the fourth cosmic age",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle indicating traditional teaching",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What colors are traditionally associated with the Dvapara and Kali ages?",
+   "premises": [
+    "Dvapara is associated with a reddish color.",
+    "Kali is remembered as dark in color."
+   ],
+   "inference": "The ages Dvapara and Kali are distinguished by reddish and dark colors respectively.",
+   "uncertainties": [],
+   "plain_english": "Dvapara is reddish in color, and Kali is indeed remembered as dark."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "sāmaṃ",
+     "gloss": "sama-veda",
+     "grounds": "name of the Sama Veda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raktam",
+     "gloss": "red",
+     "grounds": "color associated with Sama Veda",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation or designation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "past participle indicating what is well known",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇa+atharvaṇam",
+     "gloss": "black-atharva-veda",
+     "grounds": "compound referring to the Atharva Veda as black",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "verb indicating designation",
+     "morph": "3.sg.pass-pres/√vac"
+    }
+   ],
+   "question": "What colors are assigned to the Sama Veda and Atharva Veda?",
+   "premises": [
+    "The Sama Veda is known as red.",
+    "The Atharva Veda is called black."
+   ],
+   "inference": "Sama and Atharva Vedas are identified by red and black colors respectively.",
+   "uncertainties": [],
+   "plain_english": "The Sama Veda is known as red, and the Atharva Veda is called black."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "sahasra+sūrya+jvāla+agram",
+     "gloss": "thousand-sun-flame-tipped",
+     "grounds": "compound describing brilliance like the flames of a thousand suns",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "āsanaṃ",
+     "gloss": "seat",
+     "grounds": "the seat or support",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "past participle indicating what has been proclaimed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the brilliance of the declared seat described?",
+   "premises": [
+    "The seat is declared in the teaching.",
+    "It is described as tipped with flames like a thousand suns."
+   ],
+   "inference": "The seat is proclaimed to possess immense solar brilliance.",
+   "uncertainties": [],
+   "plain_english": "The seat is declared to be blazing like the flames of a thousand suns."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "particle introducing an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukha",
+     "gloss": "comfortably",
+     "grounds": "adverbial element indicating ease",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca+āsīnaṃ",
+     "gloss": "and-seated",
+     "grounds": "compound or fused form indicating being seated",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarva+deva+adhi+yantritā",
+     "gloss": "by-all-gods-governed",
+     "grounds": "compound describing one governed or attended by all gods",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What alternative posture and status may the goddess assume?",
+   "premises": [
+    "An alternative visualization is offered.",
+    "The goddess may be comfortably seated.",
+    "She is governed or attended by all gods."
+   ],
+   "inference": "Alternatively, the goddess may be visualized seated comfortably and attended by all gods.",
+   "uncertainties": [],
+   "plain_english": "Or she may be visualized comfortably seated, attended and governed by all the gods."
+  },
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "sarva+deva+āśrayī",
+     "gloss": "refuge-of-all-gods",
+     "grounds": "compound describing the goddess as the support of all gods",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "eternal",
+     "grounds": "adjective indicating permanence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mālinī",
+     "gloss": "malini",
+     "grounds": "name or epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jaya+maṅgalā",
+     "gloss": "victory-auspicious",
+     "grounds": "compound epithet indicating victorious auspiciousness",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What essential epithets define the goddess Malini in this form?",
+   "premises": [
+    "She is the refuge of all gods.",
+    "She is eternal.",
+    "She is Malini, victorious and auspicious."
+   ],
+   "inference": "Malini is characterized as eternal, the refuge of all gods, and auspiciously victorious.",
+   "uncertainties": [],
+   "plain_english": "She is the refuge of all gods, eternal, Malini, victorious and auspicious."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "pratyālīḍha+padā",
+     "gloss": "with-pratyalidha-posture",
+     "grounds": "compound describing the bent-back warrior stance",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "particle introducing another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nṛtyamānā",
+     "gloss": "dancing",
+     "grounds": "present participle indicating the act of dancing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle adding another possibility",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-visualize",
+     "grounds": "optative verb indicating meditative recollection",
+     "morph": "3.sg.act-opt/√smṛ"
+    }
+   ],
+   "question": "What alternative dynamic postures may be visualized for the goddess?",
+   "premises": [
+    "The goddess may be in the pratyālīḍha posture.",
+    "She may also be visualized as dancing.",
+    "The practitioner should visualize these forms."
+   ],
+   "inference": "The goddess can be meditated upon either in pratyālīḍha stance or dancing.",
+   "uncertainties": [],
+   "plain_english": "One should also visualize her in the pratyālīḍha posture or as dancing."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb summarizing the preceding description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyāyā",
+     "gloss": "one-should-meditate",
+     "grounds": "optative or gerundive sense indicating meditation",
+     "morph": "3.sg.act-opt/√dhyai"
+    },
+    {
+     "surface": "mahā+kālīm",
+     "gloss": "great-kali",
+     "grounds": "compound naming the goddess Mahakali",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhīnna+nava+yauvanā",
+     "gloss": "unbroken-fresh-youth",
+     "grounds": "compound describing her as possessing ever-fresh youth",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the practitioner meditate upon Mahakali in this visualization?",
+   "premises": [
+    "The preceding instructions describe her form.",
+    "One should meditate on Mahakali in this way.",
+    "She is characterized by unbroken, fresh youth."
+   ],
+   "inference": "Mahakali should be meditated upon as described, endowed with ever-fresh youth.",
+   "uncertainties": [],
+   "plain_english": "Thus one should meditate on Mahakali, who possesses unbroken, ever-fresh youth."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "paṃca+kālī",
+     "gloss": "five-kalis",
+     "grounds": "compound referring to the five forms of Kali",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prabhedāḥ",
+     "gloss": "varieties",
+     "grounds": "plural noun indicating subdivisions or types",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking a transition or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣaṃ",
+     "gloss": "distinction",
+     "grounds": "specific difference or detail",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb addressing the listener",
+     "morph": "2.sg.act-imp/√śru"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "parvati",
+     "grounds": "vocative name of the goddess addressed",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What new topic is introduced regarding the varieties of the five Kalis?",
+   "premises": [
+    "The five Kalis have distinct varieties.",
+    "A specific distinction is about to be explained.",
+    "Parvati is instructed to listen."
+   ],
+   "inference": "The teaching now turns to explaining the specific distinctions among the five Kalis.",
+   "uncertainties": [],
+   "plain_english": "But hear, O Parvati, the specific distinctions among the varieties of the five Kalis."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "adverb indicating upward position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jyotiḥ+mayaṃ",
+     "gloss": "light-made",
+     "grounds": "compound describing something composed of light",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "the face or mouth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caṇḍa+yogeśvarī+abhidhām",
+     "gloss": "named-canda-yogeshvari",
+     "grounds": "compound indicating the name Candayogeshvari",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the nature and name of the upper face among the five Kalis?",
+   "premises": [
+    "There is an upper face.",
+    "It is made of light.",
+    "It bears the name Candayogeshvari."
+   ],
+   "inference": "The upper face is luminous and is called Candayogeshvari.",
+   "uncertainties": [],
+   "plain_english": "Above is a face made of light, named Candayogeshvari."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "vaktra+eka+ratna+mudrāṃ",
+     "gloss": "one-face-jewel-seal",
+     "grounds": "compound describing a single face with the jewel-seal gesture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking attributes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vihīnā",
+     "gloss": "devoid",
+     "grounds": "adjective indicating absence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paṃca+kālikā",
+     "gloss": "five-kali-form",
+     "grounds": "compound referring to the fivefold Kali form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How does the fivefold Kali differ in facial and gesture configuration?",
+   "premises": [
+    "The fivefold Kali is described in relation to a single face and jewel seal.",
+    "She is described as devoid in this respect."
+   ],
+   "inference": "The fivefold Kali lacks the single-face jewel-seal configuration described elsewhere.",
+   "uncertainties": [
+    "The exact grammatical relation of vaktra+eka+ratna+mudrāṃ to vihīnā is slightly compressed."
+   ],
+   "plain_english": "The fivefold Kali is devoid of the single-face jewel-seal form."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "bhūṣaṇa+ādīni",
+     "gloss": "ornaments-and-so-on",
+     "grounds": "compound indicating ornaments and similar attributes",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "varṇāni",
+     "gloss": "colors",
+     "grounds": "plural noun for colors",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle indicating comparison or accordance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+guhya+kālikā",
+     "gloss": "sri-guhya-kalika",
+     "grounds": "compound naming the goddess Shri Guhyakalika",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Whose ornaments and colors serve as the model for this form?",
+   "premises": [
+    "Ornaments and colors are to be understood.",
+    "They are the same as those of Shri Guhyakalika."
+   ],
+   "inference": "This form shares the ornaments and colors of Shri Guhyakalika.",
+   "uncertainties": [],
+   "plain_english": "Her ornaments and colors are as those of Shri Guhyakalika."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "bhāṣā+kālyā",
+     "gloss": "bhasha-kali",
+     "grounds": "compound naming the form Bhasha Kali",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tulya+rūpā",
+     "gloss": "similar-form",
+     "grounds": "compound indicating similarity of form",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viśeṣaṃ",
+     "gloss": "distinction",
+     "grounds": "specific difference or detail",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking clauses",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tān",
+     "gloss": "of-them",
+     "grounds": "pronoun referring to those distinctions",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb addressing the listener",
+     "morph": "2.sg.act-imp/√śru"
+    }
+   ],
+   "question": "How does Bhasha Kali relate in form and what follows about her distinctions?",
+   "premises": [
+    "Bhasha Kali has a similar form.",
+    "There is a specific distinction to be heard.",
+    "The listener is instructed to hear those distinctions."
+   ],
+   "inference": "Bhasha Kali is similar in form, but her specific distinctions are now to be explained.",
+   "uncertainties": [
+    "The referent of tān is context-dependent and slightly ambiguous in isolation."
+   ],
+   "plain_english": "Bhasha Kali is similar in form; hear now her specific distinctions."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "nīla+jīmūta+saṃkāśā",
+     "gloss": "blue-cloud-resembling",
+     "grounds": "compound comparing her appearance to a dark blue cloud",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nava+vaktrā",
+     "gloss": "nine-faced",
+     "grounds": "compound indicating nine faces",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahā+īśvarī",
+     "gloss": "great-goddess",
+     "grounds": "compound epithet for the supreme goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What appearance and number of faces characterize the great goddess here?",
+   "premises": [
+    "The great goddess resembles a dark blue cloud.",
+    "She has nine faces."
+   ],
+   "inference": "The great goddess is visualized as nine-faced and dark blue like a cloud.",
+   "uncertainties": [],
+   "plain_english": "The great goddess resembles a dark blue cloud and has nine faces."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "baddha+padma+āsanā",
+     "gloss": "bound-lotus-seated",
+     "grounds": "compound describing the bound lotus posture",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pīna+unnata+payaḥ+dharā",
+     "gloss": "full-raised-breasts",
+     "grounds": "compound describing full and uplifted breasts",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What seated posture and bodily form define the goddess in this description?",
+   "premises": [
+    "The goddess is seated in the bound lotus posture.",
+    "She has full, uplifted breasts."
+   ],
+   "inference": "The goddess is visualized in bound lotus posture with a full, uplifted form.",
+   "uncertainties": [],
+   "plain_english": "The goddess is seated in the bound lotus posture, with full, uplifted breasts."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "mada+ghūrṇita+dīrgha+akṣī",
+     "gloss": "intoxication-rolling-long-eyed",
+     "grounds": "compound describing long eyes rolling with intoxication",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhyāna+locana+tatparā",
+     "gloss": "meditation-eye-intent",
+     "grounds": "compound describing intent focus of the meditative eye",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities of gaze and inner focus characterize the goddess?",
+   "premises": [
+    "Her long eyes roll with intoxication.",
+    "She is intent upon the meditative gaze."
+   ],
+   "inference": "The goddess combines an intoxicated outward gaze with inward meditative intent.",
+   "uncertainties": [],
+   "plain_english": "Her long eyes roll with intoxication, yet she is intent upon the meditative gaze."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "tarjany+agre",
+     "gloss": "at-forefinger-tip",
+     "grounds": "compound indicating location at the tip of the forefinger",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "past participle indicating position",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vajraṃ",
+     "gloss": "thunderbolt",
+     "grounds": "the vajra weapon or symbol",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mūrtiṃ",
+     "gloss": "form",
+     "grounds": "the embodied form or image",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jvalana+sa+prabhām",
+     "gloss": "fire-like-luster",
+     "grounds": "compound describing radiance like fire",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What object and radiance appear at the goddess's forefinger tip?",
+   "premises": [
+    "A thunderbolt is situated at the tip of the forefinger.",
+    "The form has a radiance like fire."
+   ],
+   "inference": "The goddess bears a thunderbolt at her forefinger tip, shining with fire-like luster.",
+   "uncertainties": [],
+   "plain_english": "At the tip of her forefinger is a thunderbolt, and her form shines with a fire-like radiance."
+  }
+ ]
+}

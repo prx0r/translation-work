@@ -1,0 +1,477 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 863,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpādivisarjanāntaṃ",
+     "gloss": "ending-with-incense-etc-dismissal",
+     "grounds": "compound: dhūpa-ādi-visarjana-anta, qualifying karma",
+     "morph": "compound=dhūpa+ādi+visarjana+anta; m.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "injunctive/optative sense prescribing completion",
+     "morph": "3.sg.opt.act √sam-āp"
+    }
+   ],
+   "question": "What ritual sequence must be completed after the preceding acts?",
+   "premises": [
+    "The instruction follows prior ritual steps",
+    "The rite extends up to dismissal with incense and other offerings",
+    "The practitioner is directed to complete this rite"
+   ],
+   "inference": "After the preceding acts, the practitioner should complete the rite ending with incense and dismissal.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite ending with incense and the other offerings up to dismissal."
+  },
+  {
+   "verse": 864,
+   "rows": [
+    {
+     "surface": "pāyasānnaḥ",
+     "gloss": "eating-milk-rice",
+     "grounds": "compound: pāyasa-anna, describing the practitioner’s state or diet",
+     "morph": "compound=pāyasa+anna; m.nom.sg"
+    },
+    {
+     "surface": "prajuhuyād",
+     "gloss": "one-should-offer",
+     "grounds": "prescribes oblation into fire",
+     "morph": "3.sg.opt.act √pra-hu"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial, indicating proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjite",
+     "gloss": "in-worshipped",
+     "grounds": "locative qualifier of the fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anale",
+     "gloss": "in-fire",
+     "grounds": "ritual fire receiving oblations",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How should oblations be offered into the worshipped fire?",
+   "premises": [
+    "The practitioner is described as eating milk-rice",
+    "Offerings are to be made into fire",
+    "The fire must be worshipped and the act done according to rule"
+   ],
+   "inference": "One who has eaten milk-rice should make oblations according to rule into the worshipped fire.",
+   "uncertainties": [
+    "Whether pāyasānnaḥ specifies diet before the rite or a general condition is not explicit"
+   ],
+   "plain_english": "Having eaten milk-rice, one should offer oblations according to rule into the worshipped fire."
+  },
+  {
+   "verse": 865,
+   "rows": [
+    {
+     "surface": "ṣaḍakṣaro",
+     "gloss": "six-syllabled",
+     "grounds": "compound: ṣaṣ-akṣara, describing the mantra",
+     "morph": "compound=ṣaṣ+akṣara; m.nom.sg"
+    },
+    {
+     "surface": "narahareḥ",
+     "gloss": "of-narahari",
+     "grounds": "genitive indicating the deity associated with the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "states that the mantra has been taught",
+     "morph": "m.nom.sg.past-passive-participle √kath"
+    },
+    {
+     "surface": "sarvakāmadaḥ",
+     "gloss": "giver-of-all-desires",
+     "grounds": "compound: sarva-kāma-da, describing the mantra’s efficacy",
+     "morph": "compound=sarva+kāma+da; m.nom.sg"
+    }
+   ],
+   "question": "What efficacy is attributed to the six-syllabled mantra of Narahari?",
+   "premises": [
+    "A six-syllabled mantra is declared",
+    "The mantra belongs to Narahari",
+    "The mantra is said to grant all desires"
+   ],
+   "inference": "The six-syllabled mantra of Narahari is declared to grant all desires.",
+   "uncertainties": [],
+   "plain_english": "The six-syllabled mantra of Narahari is declared to grant all desires."
+  },
+  {
+   "verse": 866,
+   "rows": [
+    {
+     "surface": "nṛsiṃhāya",
+     "gloss": "to-nṛsiṃha",
+     "grounds": "dative form addressing the deity",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "devatāyai",
+     "gloss": "to-deity",
+     "grounds": "dative apposition identifying Nṛsiṃha as deity",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "formula of salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What salutation formula is directed to the deity Nṛsiṃha?",
+   "premises": [
+    "Nṛsiṃha is named in the dative",
+    "The word devatāyai identifies him as deity",
+    "The formula ends with namaḥ"
+   ],
+   "inference": "The verse gives the salutation formula: obeisance to the deity Nṛsiṃha.",
+   "uncertainties": [],
+   "plain_english": "Obeisance to the deity Nṛsiṃha."
+  },
+  {
+   "verse": 867,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indicates application of the preceding formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayādiṣu",
+     "gloss": "in-heart-and-others",
+     "grounds": "compound: hṛdaya-ādi, locative plural indicating body parts for placement",
+     "morph": "compound=hṛdaya+ādi; n.loc.pl"
+    }
+   ],
+   "question": "Where should the preceding formula be applied in the ritual body?",
+   "premises": [
+    "The word evaṃ refers back to the stated formula",
+    "The locations are given as heart and others",
+    "The locative indicates placement in those parts"
+   ],
+   "inference": "The preceding formula is to be applied in the heart and other ritual locations.",
+   "uncertainties": [
+    "The specific additional locations included in ādi are not enumerated here"
+   ],
+   "plain_english": "Thus, in the heart and the other parts."
+  },
+  {
+   "verse": 868,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhūpādivisarjanāntaṃ",
+     "gloss": "ending-with-incense-etc-dismissal",
+     "grounds": "compound: dhūpa-ādi-visarjana-anta, qualifying karma",
+     "morph": "compound=dhūpa+ādi+visarjana+anta; m.acc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action to be completed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "injunctive/optative sense prescribing completion",
+     "morph": "3.sg.opt.act √sam-āp"
+    }
+   ],
+   "question": "What concluding ritual action is prescribed after the preceding steps?",
+   "premises": [
+    "The instruction follows earlier ritual steps",
+    "The rite extends up to dismissal with incense and other offerings",
+    "Completion of this rite is prescribed"
+   ],
+   "inference": "After the preceding steps, the practitioner should complete the rite ending with incense and dismissal.",
+   "uncertainties": [],
+   "plain_english": "Then one should complete the rite ending with incense and the other offerings up to dismissal."
+  },
+  {
+   "verse": 869,
+   "rows": [
+    {
+     "surface": "tatsahasraṃ",
+     "gloss": "that-thousand",
+     "grounds": "compound: tat-sahasra, indicating a thousand repetitions or offerings",
+     "morph": "compound=tat+sahasra; n.acc.sg"
+    },
+    {
+     "surface": "samiddhe",
+     "gloss": "in-kindled",
+     "grounds": "locative qualifier of the fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "ritual fire for offerings",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "toṣayed",
+     "gloss": "one-should-satisfy",
+     "grounds": "prescribes propitiation through offerings",
+     "morph": "3.sg.opt.caus.act √tuṣ"
+    },
+    {
+     "surface": "vasunā",
+     "gloss": "with-wealth",
+     "grounds": "instrumental indicating means of honoring the guru",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "recipient of honor or satisfaction",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What acts of propitiation are required in fire and toward the guru?",
+   "premises": [
+    "A thousand of that is to be offered in kindled fire",
+    "The fire is specified as kindled",
+    "The guru is to be satisfied with wealth"
+   ],
+   "inference": "One should offer that thousand in the kindled fire and satisfy the guru with wealth.",
+   "uncertainties": [
+    "Whether tatsahasraṃ refers to mantra recitations or oblations is not explicit"
+   ],
+   "plain_english": "One should offer that thousand in the kindled fire and satisfy the guru with wealth."
+  },
+  {
+   "verse": 870,
+   "rows": [
+    {
+     "surface": "ekākṣaro",
+     "gloss": "one-syllabled",
+     "grounds": "compound: eka-akṣara, describing the mantra",
+     "morph": "compound=eka+akṣara; m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "states that the mantra has been taught",
+     "morph": "m.nom.sg.past-passive-participle √pra-vac"
+    },
+    {
+     "surface": "sarvakāmaphalapradaḥ",
+     "gloss": "giver-of-fruit-of-all-desires",
+     "grounds": "compound: sarva-kāma-phala-prada, describing efficacy",
+     "morph": "compound=sarva+kāma+phala+prada; m.nom.sg"
+    }
+   ],
+   "question": "What efficacy is attributed to the one-syllabled mantra?",
+   "premises": [
+    "A one-syllabled mantra is declared",
+    "It is identified as a manu",
+    "It is said to grant the fruit of all desires"
+   ],
+   "inference": "The one-syllabled mantra is declared to grant the fruit of all desires.",
+   "uncertainties": [],
+   "plain_english": "The one-syllabled mantra is declared to grant the fruit of all desires."
+  },
+  {
+   "verse": 871,
+   "rows": [
+    {
+     "surface": "aukāraḥ",
+     "gloss": "syllable-au",
+     "grounds": "names the seed syllable au; mantra material transliterated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "identifies the śakti component in the mantra structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍdīrghayukta",
+     "gloss": "joined-with-six-long-vowels",
+     "grounds": "compound: ṣaṣ-dīrgha-yukta, describing modification of the seed",
+     "morph": "compound=ṣaṣ+dīrgha+yukta; m.nom.sg"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed",
+     "grounds": "instrumental indicating use of the seed syllable",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "aṅgakalpanā",
+     "gloss": "formation-of-limbs",
+     "grounds": "compound: aṅga-kalpanā, ritual assignment to body parts",
+     "morph": "compound=aṅga+kalpanā; f.nom.sg"
+    }
+   ],
+   "question": "How is the limb-formation constructed using the stated seed and power?",
+   "premises": [
+    "The syllable au is named as śakti",
+    "It is joined with six long vowels",
+    "The limb-formation is performed with the seed"
+   ],
+   "inference": "The limb-formation is constructed using the seed syllable au as śakti joined with six long vowels.",
+   "uncertainties": [
+    "The exact sequence of the six long vowels is not specified in this verse"
+   ],
+   "plain_english": "The syllable au is the power; joined with six long vowels, the formation of the limbs is done with the seed."
+  },
+  {
+   "verse": 872,
+   "rows": [
+    {
+     "surface": "vasulakṣaṃ",
+     "gloss": "eight-hundred-thousand",
+     "grounds": "compound: vasu-lakṣa, specifying number of repetitions",
+     "morph": "compound=vasu+lakṣa; n.acc.sg"
+    },
+    {
+     "surface": "japen",
+     "gloss": "one-should-repeat",
+     "grounds": "prescribes mantra recitation",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ityādi",
+     "gloss": "thus-and-so-forth",
+     "grounds": "compound: iti-ādi, indicating quoted or summarized instruction",
+     "morph": "compound=iti+ādi; n.nom.sg"
+    },
+    {
+     "surface": "vacanāt",
+     "gloss": "from-statement",
+     "grounds": "ablative citing scriptural authority",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What mantra repetition count is prescribed by the cited statement?",
+   "premises": [
+    "A statement is cited as authority",
+    "The instruction includes repeating the mantra",
+    "The specified count is eight hundred thousand"
+   ],
+   "inference": "According to the cited statement, one should repeat the mantra eight hundred thousand times.",
+   "uncertainties": [],
+   "plain_english": "According to the statement and so forth, one should repeat the mantra eight hundred thousand times."
+  },
+  {
+   "verse": 873,
+   "rows": [
+    {
+     "surface": "'ṣṭākṣaro",
+     "gloss": "eight-syllabled",
+     "grounds": "compound: aṣṭa-akṣara with initial elision marked by apostrophe, describing the mantra",
+     "morph": "compound=aṣṭa+akṣara; m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "states that the mantra has been taught",
+     "morph": "m.nom.sg.past-passive-participle √pra-vac"
+    },
+    {
+     "surface": "bhajatāṃ",
+     "gloss": "of-worshippers",
+     "grounds": "genitive plural indicating those who practice devotion",
+     "morph": "m.gen.pl.present-participle √bhaj"
+    },
+    {
+     "surface": "kāmadomaṇiḥ",
+     "gloss": "wish-granting-jewel",
+     "grounds": "compound: kāma-do-maṇi, metaphor for fulfilling desires",
+     "morph": "compound=kāma+do+maṇi; m.nom.sg"
+    }
+   ],
+   "question": "What benefit does the eight-syllabled mantra provide to its worshippers?",
+   "premises": [
+    "An eight-syllabled mantra is declared",
+    "It is described in relation to worshippers",
+    "It is called a wish-granting jewel"
+   ],
+   "inference": "The eight-syllabled mantra is declared to be a wish-granting jewel for its worshippers.",
+   "uncertainties": [],
+   "plain_english": "The eight-syllabled mantra is declared to be a wish-granting jewel for those who worship with it."
+  },
+  {
+   "verse": 874,
+   "rows": [
+    {
+     "surface": "dhyānārcanādikaṃ",
+     "gloss": "meditation-worship-and-so-forth",
+     "grounds": "compound: dhyāna-arcana-ādi, indicating ritual practices",
+     "morph": "compound=dhyāna+arcana+ādi; n.nom.sg"
+    },
+    {
+     "surface": "mantrarājavat",
+     "gloss": "like-mantra-king",
+     "grounds": "compound: mantra-rāja-vat, comparative indicating same procedure as for the mantra-king",
+     "morph": "compound=mantra+rāja+vat; (indecl.)"
+    }
+   ],
+   "question": "How should meditation and worship be performed for this mantra?",
+   "premises": [
+    "Meditation, worship, and related acts are mentioned",
+    "A comparison is made to the mantra-king",
+    "The comparative indicates the same procedure applies"
+   ],
+   "inference": "Meditation, worship, and related practices should be performed as for the mantra-king.",
+   "uncertainties": [
+    "The specific mantra referred to as mantra-rāja is not identified in this verse"
+   ],
+   "plain_english": "Meditation, worship, and the other practices are to be done as for the mantra-king."
+  }
+ ]
+}

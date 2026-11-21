@@ -1,0 +1,63 @@
+{
+ "song": "kul-p41",
+ "items": [
+  {
+   "verse": 1025,
+   "rows": [
+    {
+     "surface": "kulayogī",
+     "gloss": "kula-yogi",
+     "grounds": "compound kula+yogi; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vared",
+     "gloss": "may-choose",
+     "grounds": "optative of vṛ, third singular active",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun, nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mārgaḥ",
+     "gloss": "path",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "o-kuleshvari",
+     "grounds": "vocative singular feminine address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Where may the kula-yogi choose that path, O Kuleshvari?",
+   "premises": [
+    "The kula-yogi may choose a path.",
+    "The chosen path is that path.",
+    "Kuleshvari is addressed."
+   ],
+   "inference": "The verse states the kula-yogi's chosen path is that path, addressed to Kuleshvari.",
+   "uncertainties": [
+    "The exact referent of that path is not specified in this verse."
+   ],
+   "plain_english": "The kula-yogi may choose where that path is, O Kuleshvari."
+  }
+ ]
+}

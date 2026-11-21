@@ -1,0 +1,1060 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "tenaiva",
+     "gloss": "by-that-very",
+     "grounds": "instrumental of tena + eva",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kariṇī",
+     "gloss": "female-elephant",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṅkhinī",
+     "gloss": "conch-bearing",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Which female-elephant type is declared the middle conch-bearing one?",
+   "premises": [
+    "tenaiva means by that very",
+    "kariṇī is female elephant",
+    "proktā means declared"
+   ],
+   "inference": "The middle conch-bearing female elephant is declared by that very means.",
+   "uncertainties": [
+    "exact doctrinal referent of tenaiva"
+   ],
+   "plain_english": "By that very means the female elephant is declared the middle conch-bearing one."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "sarvadevapriyā",
+     "gloss": "all-gods-beloved",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā+hi",
+     "gloss": "she-indeed",
+     "grounds": "fused pronoun + particle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāntisaurabhyaśobhitā",
+     "gloss": "beauty-fragrance-adorned",
+     "grounds": "compound participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What qualities adorn the all-gods-beloved female messenger?",
+   "premises": [
+    "sarvadevapriyā means all-gods-beloved",
+    "sā+hi means she indeed",
+    "kāntisaurabhyaśobhitā means beauty-fragrance-adorned"
+   ],
+   "inference": "She is adorned with beauty and fragrance.",
+   "uncertainties": [
+    "messenger identity implicit"
+   ],
+   "plain_english": "She indeed, beloved of all gods, is adorned with beauty and fragrance."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "citriṇī",
+     "gloss": "citrinī",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vallarī",
+     "gloss": "creeper",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaśaktisvarūpiṇī",
+     "gloss": "all-powers-form",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is citrinī called as goddess and all-powers form?",
+   "premises": [
+    "citriṇī is named",
+    "vallarī means creeper",
+    "devī means goddess",
+    "sarvaśaktisvarūpiṇī means all-powers form"
+   ],
+   "inference": "Citrinī is the creeper-goddess embodying all powers.",
+   "uncertainties": [
+    "citrinī technical sense"
+   ],
+   "plain_english": "Citrinī, the creeper, is the goddess who is the form of all powers."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "among-them",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sarveṣu",
+     "gloss": "all",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "paśyantī",
+     "gloss": "seeing",
+     "grounds": "present participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jīveṣu",
+     "gloss": "in-living-beings",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "paramāśrayā",
+     "gloss": "supreme-refuge",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Who is the seeing supreme refuge among all living beings?",
+   "premises": [
+    "teṣu sarveṣu means among all",
+    "paśyantī means seeing",
+    "jīveṣu means in living beings",
+    "paramāśrayā means supreme refuge"
+   ],
+   "inference": "The seeing one is supreme refuge among living beings.",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "Among all living beings, the seeing one is the supreme refuge."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dūtīṃ",
+     "gloss": "female-messenger",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śamādikusumaiḥ",
+     "gloss": "with-peace-etc-flowers",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the female messenger be worshipped there?",
+   "premises": [
+    "tāṃ dūtīṃ means that female messenger",
+    "tatra means there",
+    "saṃpūjya means having worshipped",
+    "śamādikusumaiḥ means with peace etc flowers",
+    "śuciḥ means pure"
+   ],
+   "inference": "One should worship that female messenger there with peace-flowers while pure.",
+   "uncertainties": [
+    "exact ritual sequence"
+   ],
+   "plain_english": "There, having worshipped that female messenger with peace-flowers, one remains pure."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntikalā",
+     "gloss": "peace-ray",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bodhakalā",
+     "gloss": "knowledge-ray",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vyāptikalā",
+     "gloss": "pervasion-ray",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which rays are listed as peace knowledge pervasion and supreme?",
+   "premises": [
+    "yathā means as",
+    "śāntikalā means peace ray",
+    "bodhakalā means knowledge ray",
+    "vyāptikalā means pervasion ray",
+    "parā means supreme"
+   ],
+   "inference": "The listed rays are peace, knowledge, pervasion, and supreme.",
+   "uncertainties": [
+    "enumeration completeness"
+   ],
+   "plain_english": "As peace-ray, knowledge-ray, pervasion-ray, supreme."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "padminī",
+     "gloss": "lily",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cāparā",
+     "gloss": "and-another",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "haṃsa",
+     "gloss": "swan",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svacchavikāśitā",
+     "gloss": "pure-radiant",
+     "grounds": "compound participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is another lily to be known as pure-radiant swan?",
+   "premises": [
+    "padminī means lily",
+    "cāparā means and another",
+    "jñeyā means to be known",
+    "haṃsa means swan",
+    "svacchavikāśitā means pure radiant"
+   ],
+   "inference": "Another lily is to be known as pure-radiant swan.",
+   "uncertainties": [
+    "symbolic mapping"
+   ],
+   "plain_english": "Another lily is to be known, pure-radiant like a swan."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "vikāśaṃ",
+     "gloss": "radiance",
+     "grounds": "accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātri",
+     "gloss": "mother",
+     "grounds": "indeclinable?",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saubhāgyaṃ",
+     "gloss": "prosperity",
+     "grounds": "accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varṇavilāsataḥ",
+     "gloss": "by-color-play",
+     "grounds": "ablative",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What arises from color-play as radiance mother prosperity?",
+   "premises": [
+    "vikāśaṃ means radiance",
+    "mātri means mother",
+    "saubhāgyaṃ means prosperity",
+    "tathā means thus",
+    "varṇavilāsataḥ means by color play"
+   ],
+   "inference": "Radiance, mother, and prosperity arise thus by color-play.",
+   "uncertainties": [
+    "syntax of mātri"
+   ],
+   "plain_english": "Radiance, mother, prosperity thus arise by color-play."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-his",
+     "grounds": "genitive masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "body",
+     "grounds": "locative neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sādhakendraiḥ",
+     "gloss": "by-adept-lords",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "rays",
+     "grounds": "nominative feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "pūjyāstu",
+     "gloss": "to-be-worshipped",
+     "grounds": "gerundive",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many rays are to be worshipped in his body by adept lords?",
+   "premises": [
+    "tasya dehe means in his body",
+    "sādhakendraiḥ means by adept lords",
+    "kalāḥ means rays",
+    "pūjyāstu means to be worshipped",
+    "ṣoḍaśa means sixteen"
+   ],
+   "inference": "Sixteen rays are to be worshipped in his body by adept lords.",
+   "uncertainties": [
+    "tasya referent"
+   ],
+   "plain_english": "In his body, adept lords are to worship sixteen rays."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "ājñāvāstu",
+     "gloss": "command-residence",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "ray",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃlīnā",
+     "gloss": "merged",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paravastuni",
+     "gloss": "in-supreme-substance",
+     "grounds": "locative neuter",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the command-residence ray known to be merged?",
+   "premises": [
+    "ājñāvāstu means command residence",
+    "kalā means ray",
+    "jñeyā means to be known",
+    "saṃlīnā means merged",
+    "paravastuni means in supreme substance"
+   ],
+   "inference": "The command-residence ray is known merged in supreme substance.",
+   "uncertainties": [
+    "ājñāvāstu compound"
+   ],
+   "plain_english": "The command-residence ray is to be known merged in the supreme substance."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "virāgatā",
+     "gloss": "dispassion",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mokṣakalā",
+     "gloss": "liberation-ray",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramātmakalā",
+     "gloss": "supreme-self-ray",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which rays are dispassion liberation and supreme self?",
+   "premises": [
+    "virāgatā means dispassion",
+    "mokṣakalā means liberation ray",
+    "paramātmakalā means supreme self ray",
+    "tathā means thus"
+   ],
+   "inference": "Dispassion, liberation-ray, and supreme-self-ray are thus named.",
+   "uncertainties": [
+    "list relation"
+   ],
+   "plain_english": "Dispassion, liberation-ray, and supreme-self-ray are thus."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "santoṣatā",
+     "gloss": "contentment",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tṛptiḥ",
+     "gloss": "satisfaction",
+     "grounds": "feminine noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paraṃ+brahmaprakāśikāḥ",
+     "gloss": "supreme-brahma-revealing",
+     "grounds": "fused compound",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What reveals supreme brahma among knowledge contentment satisfaction?",
+   "premises": [
+    "vidyā means knowledge",
+    "santoṣatā means contentment",
+    "tṛptiḥ means satisfaction",
+    "paraṃ+brahmaprakāśikāḥ means supreme brahma revealing"
+   ],
+   "inference": "Knowledge, contentment, and satisfaction reveal supreme brahma.",
+   "uncertainties": [
+    "fused token"
+   ],
+   "plain_english": "Knowledge, contentment, satisfaction are supreme-brahma-revealing."
+  },
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "etāstu",
+     "gloss": "these-indeed",
+     "grounds": "fused pronoun + particle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalāḥ",
+     "gloss": "rays",
+     "grounds": "nominative feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śrīvidyānteṣu",
+     "gloss": "in-śrīvidyā-end",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "saṃsthitāḥ",
+     "gloss": "established",
+     "grounds": "participle",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Where are these sixteen rays established?",
+   "premises": [
+    "etāstu means these indeed",
+    "ṣoḍaśa means sixteen",
+    "kalāḥ means rays",
+    "śrīvidyānteṣu means in śrīvidyā end",
+    "saṃsthitāḥ means established"
+   ],
+   "inference": "These sixteen rays are established in the end of śrīvidyā.",
+   "uncertainties": [
+    "śrīvidyānteṣu sense"
+   ],
+   "plain_english": "These sixteen rays are established in the end of śrīvidyā."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "ātmayogasvarūpeṇa",
+     "gloss": "by-self-yoga-form",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "racayatyasau",
+     "gloss": "creates",
+     "grounds": "verb rac",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "Who creates the three worlds by self-yoga form?",
+   "premises": [
+    "ātmayogasvarūpeṇa means by self yoga form",
+    "trailokyaṃ means three worlds",
+    "racayatyasau means creates"
+   ],
+   "inference": "He creates the three worlds by self-yoga form.",
+   "uncertainties": [
+    "subject asau"
+   ],
+   "plain_english": "By self-yoga form, he creates the three worlds."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "ata+eva",
+     "gloss": "therefore-indeed",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sattvarūpo",
+     "gloss": "sattva-form",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rajourūpaḥ",
+     "gloss": "rajas-form",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is śiva called supreme sattva and rajas form?",
+   "premises": [
+    "ata+eva means therefore indeed",
+    "sattvarūpo means sattva form",
+    "rajourūpaḥ means rajas form",
+    "paraḥ means supreme",
+    "śivaḥ means śiva"
+   ],
+   "inference": "Therefore śiva is supreme sattva and rajas form.",
+   "uncertainties": [
+    "doctrinal nuance"
+   ],
+   "plain_english": "Therefore śiva is supreme, sattva-form and rajas-form."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "nominative feminine plural",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kalāśca",
+     "gloss": "rays",
+     "grounds": "fused noun + particle",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "niyataṃ",
+     "gloss": "certainly",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paradehe",
+     "gloss": "in-supreme-body",
+     "grounds": "locative masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prakāśayet",
+     "gloss": "manifest",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where should these rays certainly be manifested?",
+   "premises": [
+    "etāḥ means these",
+    "kalāśca means rays",
+    "niyataṃ means certainly",
+    "paradehe means in supreme body",
+    "prakāśayet means manifest"
+   ],
+   "inference": "These rays should certainly be manifested in the supreme body.",
+   "uncertainties": [
+    "subject"
+   ],
+   "plain_english": "These rays should certainly be manifested in the supreme body."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padapadārthābhyāṃ",
+     "gloss": "by-foot-word-meanings",
+     "grounds": "instrumental dual",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "kucayugmakrameṇa",
+     "gloss": "by-breast-pair-order",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What follows by foot word meanings and breast pair order?",
+   "premises": [
+    "tataḥ means then",
+    "padapadārthābhyāṃ means by foot word meanings",
+    "kucayugmakrameṇa means by breast pair order",
+    "tu means tu"
+   ],
+   "inference": "Then by foot-word meanings and breast-pair order, tu.",
+   "uncertainties": [
+    "incomplete sentence"
+   ],
+   "plain_english": "Then by foot and word meanings, by breast-pair order, tu."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "nādastu",
+     "gloss": "sound-indeed",
+     "grounds": "fused noun + particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhūtānāṃ",
+     "gloss": "of-all-beings",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "yonirna",
+     "gloss": "womb",
+     "grounds": "fused noun + particle?",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "nominative masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the womb of all beings without doubt?",
+   "premises": [
+    "nādastu means sound indeed",
+    "sarvabhūtānāṃ means of all beings",
+    "bhaved means becomes",
+    "yonirna means womb",
+    "saṃśayaḥ means no doubt"
+   ],
+   "inference": "Sound becomes the womb of all beings, no doubt.",
+   "uncertainties": [
+    "yonirna fusion"
+   ],
+   "plain_english": "Sound indeed becomes the womb of all beings, no doubt."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "sarvānandamaye+madhye",
+     "gloss": "in-all-bliss-middle",
+     "grounds": "fused locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sundarīṃ",
+     "gloss": "beautiful",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Whom should one worship in the middle of all bliss?",
+   "premises": [
+    "sarvānandamaye+madhye means in all bliss middle",
+    "sundarīṃ means beautiful",
+    "pūjayet means worship",
+    "parām means supreme"
+   ],
+   "inference": "One should worship the supreme beautiful one in the middle of all bliss.",
+   "uncertainties": [
+    "object identity"
+   ],
+   "plain_english": "In the middle of all bliss, worship the supreme beautiful one."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "tārañca",
+     "gloss": "tāra",
+     "grounds": "fused noun + particle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhuvaneśānīṃ",
+     "gloss": "world-lady",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahātripurasundarīm",
+     "gloss": "great-triple-city-beauty",
+     "grounds": "compound",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Who is the world-lady great triple-city beauty?",
+   "premises": [
+    "tārañca means tāra",
+    "bhuvaneśānīṃ means world lady",
+    "mahātripurasundarīm means great triple city beauty"
+   ],
+   "inference": "Tāra is the world-lady, great triple-city beauty.",
+   "uncertainties": [
+    "tārañca fusion"
+   ],
+   "plain_english": "Tāra, the world-lady, great triple-city beauty."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "parasparasvabhāvena",
+     "gloss": "by-mutual-nature",
+     "grounds": "instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "brahmānandaraso",
+     "gloss": "brahma-bliss-essence",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What becomes brahma-bliss-essence by mutual nature?",
+   "premises": [
+    "parasparasvabhāvena means by mutual nature",
+    "brahmānandaraso means brahma bliss essence",
+    "bhavet means becomes"
+   ],
+   "inference": "By mutual nature, brahma-bliss-essence becomes.",
+   "uncertainties": [
+    "subject implicit"
+   ],
+   "plain_english": "By mutual nature, brahma-bliss-essence becomes."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "arghyāmṛtena",
+     "gloss": "with-arghya-nectar",
+     "grounds": "instrumental",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "gerund",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīcakram",
+     "gloss": "śrīcakra",
+     "grounds": "accusative neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arccayet",
+     "gloss": "worship",
+     "grounds": "optative",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should one worship śrīcakra after joining arghya nectar?",
+   "premises": [
+    "arghyāmṛtena means with arghya nectar",
+    "saṃyojya means having joined",
+    "tataḥ means then",
+    "śrīcakram means śrīcakra",
+    "arccayet means worship"
+   ],
+   "inference": "Having joined arghya nectar, then worship śrīcakra.",
+   "uncertainties": [
+    "ritual detail"
+   ],
+   "plain_english": "Having joined with arghya nectar, then worship śrīcakra."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "brahmānandamaye+jñāne",
+     "gloss": "in-brahma-bliss-knowledge",
+     "grounds": "fused locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pāpapuṇyavivarjite",
+     "gloss": "sin-merit-free",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is free from sin and merit in brahma-bliss knowledge?",
+   "premises": [
+    "brahmānandamaye+jñāne means in brahma bliss knowledge",
+    "pāpapuṇyavivarjite means sin merit free"
+   ],
+   "inference": "Brahma-bliss knowledge is free from sin and merit.",
+   "uncertainties": [
+    "subject implicit"
+   ],
+   "plain_english": "In brahma-bliss knowledge, free from sin and merit."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "vaiśyo'pi+na",
+     "gloss": "merchant-indeed-not",
+     "grounds": "fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca+vaiśyaḥ",
+     "gloss": "merchant",
+     "grounds": "fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syānna",
+     "gloss": "syānna",
+     "grounds": "fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūdraḥ",
+     "gloss": "śūdra",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūdra+eva+ca",
+     "gloss": "śūdra-indeed",
+     "grounds": "fused",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What caste distinctions are denied in this state?",
+   "premises": [
+    "vaiśyo'pi+na means merchant indeed not",
+    "ca+vaiśyaḥ means merchant",
+    "syānna means syānna",
+    "śūdraḥ means śūdra",
+    "śūdra+eva+ca means śūdra indeed"
+   ],
+   "inference": "Merchant and śūdra distinctions are denied.",
+   "uncertainties": [
+    "exact syntax"
+   ],
+   "plain_english": "Not a merchant, nor a merchant; not a śūdra, indeed a śūdra."
+  }
+ ]
+}

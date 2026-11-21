@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "ḍākinīgrahabhūtāni",
+     "gloss": "ḍākinī-seizure-spirits",
+     "grounds": "compound of ḍākinī, graha, and bhūta in neuter plural form",
+     "morph": "neuter.acc.pl compound"
+    },
+    {
+     "surface": "tamaḥ",
+     "gloss": "darkness",
+     "grounds": "neuter noun in nominative or accusative singular",
+     "morph": "neuter.nom.sg"
+    },
+    {
+     "surface": "sūryyodaye",
+     "gloss": "sunrise",
+     "grounds": "locative singular of sūryodaya",
+     "morph": "masc.loc.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How do ḍākinī seizure spirits vanish when sunrise dispels darkness?",
+   "premises": [
+    "sunrise dispels darkness",
+    "ḍākinī seizure spirits likened to darkness",
+    "their disappearance follows sunrise"
+   ],
+   "inference": "therefore sunrise removes ḍākinī seizure spirits",
+   "uncertainties": [
+    "verse fragment lacks finite verb"
+   ],
+   "plain_english": "As darkness disappears at sunrise, so do ḍākinī seizure spirits."
+  }
+ ]
+}

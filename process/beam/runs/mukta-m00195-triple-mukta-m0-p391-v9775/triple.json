@@ -1,0 +1,59 @@
+{
+ "song": "mukta-m0-p391",
+ "items": [
+  {
+   "verse": 9775,
+   "rows": [
+    {
+     "surface": "kānta",
+     "gloss": "lovely",
+     "grounds": "qualifies the hair as pleasing and radiant",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuñcita",
+     "gloss": "curled",
+     "grounds": "describes the hair as wavy or curled",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃsnigdha",
+     "gloss": "glossy",
+     "grounds": "describes the hair as smooth and lustrous",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nīla",
+     "gloss": "dark",
+     "grounds": "describes the hair as dark or blue-black in color",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mañjula",
+     "gloss": "beautiful",
+     "grounds": "describes the hair as charming and graceful",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mūrdhajām",
+     "gloss": "having-hair",
+     "grounds": "bahuvrīhi compound mūrdha-ja (born-on-head, i.e. hair), describing the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What specific qualities characterize the hair of the adorned goddess in this description?",
+   "premises": [
+    "The hair is described as lovely.",
+    "The hair is described as curled.",
+    "The hair is described as glossy.",
+    "The hair is described as dark.",
+    "The hair is described as beautiful."
+   ],
+   "inference": "The goddess is depicted as having exquisitely lovely, curled, glossy, dark, and beautiful hair.",
+   "uncertainties": [
+    "The exact shade implied by nīla could range from dark to blue-black."
+   ],
+   "plain_english": "She has lovely, curled, glossy, dark, and beautiful hair."
+  }
+ ]
+}

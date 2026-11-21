@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p313",
+ "items": [
+  {
+   "verse": 7825,
+   "rows": [
+    {
+     "surface": "homād",
+     "gloss": "from-oblation",
+     "grounds": "ablative source of the result",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle offering an alternative means",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāñchitam",
+     "gloss": "desired",
+     "grounds": "object attained through the rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "one-obtains",
+     "grounds": "main verb stating the result",
+     "morph": "3.sg.act-pres/āp"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the need for deliberation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation or necessity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "subject of the negated obligation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Can oblation alone secure the desired result without further deliberation?",
+   "premises": [
+    "Oblation is presented as an effective means.",
+    "The desired object is obtained through this means.",
+    "Deliberation is explicitly negated in this context."
+   ],
+   "inference": "Therefore, oblation suffices to obtain the desired result, and no further deliberation is required.",
+   "uncertainties": [],
+   "plain_english": "Or from oblation one obtains what is desired; here no deliberation is to be made."
+  }
+ ]
+}

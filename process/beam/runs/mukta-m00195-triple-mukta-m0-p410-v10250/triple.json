@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p410",
+ "items": [
+  {
+   "verse": 10250,
+   "rows": [
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "first member of compound with āgāre",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āgāre",
+     "gloss": "in-temple",
+     "grounds": "locative of place; compound with deva",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarit",
+     "gloss": "river",
+     "grounds": "first member of compound with tīre",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tīre",
+     "gloss": "on-bank",
+     "grounds": "locative of place; compound with sarit",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rāja",
+     "gloss": "king",
+     "grounds": "first member of compound with gehe",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gehe",
+     "gloss": "in-house",
+     "grounds": "locative of place; compound with rāja",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "catuṣpathe",
+     "gloss": "at-crossroads",
+     "grounds": "locative of place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which specific locations are prescribed as suitable sites in this ritual context?",
+   "premises": [
+    "A temple is named as a suitable location.",
+    "A riverbank is named as a suitable location.",
+    "A king's house and a crossroads are named as suitable locations."
+   ],
+   "inference": "The ritual context permits these four kinds of locations as appropriate sites.",
+   "uncertainties": [
+    "The exact ritual action performed at these locations depends on the preceding verses."
+   ],
+   "plain_english": "In a temple, on a riverbank, in a king's house, and at a crossroads."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p534",
+ "items": [
+  {
+   "verse": 13350,
+   "rows": [
+    {
+     "surface": "sthāpayed",
+     "gloss": "one-should-place",
+     "grounds": "optative expressing prescribed placement of the prepared diagram",
+     "morph": "3.sg.act.opt √sthā(caus)"
+    },
+    {
+     "surface": "vairisaṅghasya",
+     "gloss": "of-enemy-group",
+     "grounds": "target collective affected by the ritual act",
+     "morph": "gen.sg.m (compound: vaira+saṅgha)"
+    },
+    {
+     "surface": "vidveṣo",
+     "gloss": "alienation",
+     "grounds": "resulting state of mutual enmity; final visarga appears as o by sandhi",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "states the emergence of the ritual result",
+     "morph": "3.sg.mid.pres.ind √jan"
+    },
+    {
+     "surface": "mahān",
+     "gloss": "great",
+     "grounds": "qualifies the intensity of the arising alienation",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What consequence arises for an enemy group when the prescribed diagram is placed?",
+   "premises": [
+    "The prescribed diagram should be placed for the enemy group.",
+    "Alienation arises as a result of this placement.",
+    "The arising alienation is great in magnitude."
+   ],
+   "inference": "Placing the prescribed diagram produces great alienation within the enemy group.",
+   "uncertainties": [],
+   "plain_english": "One should place it for the enemy group; great alienation arises among them."
+  }
+ ]
+}

@@ -1,0 +1,1247 @@
+{
+ "song": "kul-p77",
+ "items": [
+  {
+   "verse": 1901,
+   "rows": [
+    {
+     "surface": "asmāt",
+     "gloss": "than-this",
+     "grounds": "ablative comparison",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "parataraṃ",
+     "gloss": "higher",
+     "grounds": "comparative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "negative copula",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is meditation on this practice declared the highest possible attainment?",
+   "premises": [
+    "No meditation is higher than this",
+    "The statement is declared true",
+    "No doubt remains"
+   ],
+   "inference": "This meditation is the supreme practice",
+   "uncertainties": [
+    "Exact referent of asmāt is context-dependent"
+   ],
+   "plain_english": "There is no meditation higher than this; it is true, without doubt."
+  },
+  {
+   "verse": 1902,
+   "rows": [
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-write",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhyānāma",
+     "gloss": "object-name",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "participle adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the root mantra be written with the object's name?",
+   "premises": [
+    "The root mantra is written",
+    "It is placed in the middle",
+    "It is endowed with the object's name"
+   ],
+   "inference": "The root mantra should be written centrally with the object's name",
+   "uncertainties": [
+    "Exact yantra layout is not specified"
+   ],
+   "plain_english": "One should write the root mantra in the middle, endowed with the object's name."
+  },
+  {
+   "verse": 1903,
+   "rows": [
+    {
+     "surface": "keśareṣu",
+     "gloss": "in-the-petals",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "svarānaṣṭau",
+     "gloss": "syllables",
+     "grounds": "compound noun",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vargān",
+     "gloss": "classes",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "patreṣu",
+     "gloss": "on-the-leaves",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-Pārvatī",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Where are the syllables and classes to be placed in the diagram?",
+   "premises": [
+    "Syllables are placed in the petals",
+    "Classes are placed on the leaves",
+    "Pārvatī is addressed"
+   ],
+   "inference": "The diagram's petals and leaves receive syllables and classes",
+   "uncertainties": [
+    "Exact syllable count is compressed in the token"
+   ],
+   "plain_english": "O Pārvatī, place the syllables in the petals and the classes on the leaves."
+  },
+  {
+   "verse": 1904,
+   "rows": [
+    {
+     "surface": "pañcavarṇa",
+     "gloss": "with-five-colored",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rajobhiśca",
+     "gloss": "dusts",
+     "grounds": "instrumental plural with ca",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śubhaṃ",
+     "gloss": "auspicious",
+     "grounds": "neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dṛṣṭimanoharam",
+     "gloss": "sight-delighting",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What materials make the diagram auspicious and sight-delighting?",
+   "premises": [
+    "Five-colored dusts are used",
+    "The result is auspicious",
+    "The result delights the sight"
+   ],
+   "inference": "Five-colored dusts produce an auspicious, sight-delighting diagram",
+   "uncertainties": [
+    "Exact color list is not given"
+   ],
+   "plain_english": "With five-colored dusts, make it auspicious and delightful to behold."
+  },
+  {
+   "verse": 1905,
+   "rows": [
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vasu",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuḥ",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalasān",
+     "gloss": "vessels",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many vessels should be placed in this rite?",
+   "premises": [
+    "The numbers one, three, six, eight, and four are given",
+    "Vessels are to be placed",
+    "The beloved is addressed"
+   ],
+   "inference": "The rite uses vessels in the stated numerical set",
+   "uncertainties": [
+    "Whether these are alternatives or cumulative is unclear"
+   ],
+   "plain_english": "O beloved, place vessels: one, three, six, eight, or four."
+  },
+  {
+   "verse": 1906,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭādaśa",
+     "gloss": "eighteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśāni",
+     "gloss": "gods",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What alternative counts of deities may be used?",
+   "premises": [
+    "Eighteen, seven, or ten are offered",
+    "The deities are addressed as īśāni",
+    "The beloved is addressed"
+   ],
+   "inference": "The practitioner may use eighteen, seven, or ten deities",
+   "uncertainties": [
+    "The exact ritual context of each count is not stated"
+   ],
+   "plain_english": "Or, O beloved, eighteen, seven, or ten deities."
+  },
+  {
+   "verse": 1907,
+   "rows": [
+    {
+     "surface": "asthirakta",
+     "gloss": "unsteady-blood",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śirātantu",
+     "gloss": "head-threads",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛṇ",
+     "gloss": "clay",
+     "grounds": "noun stem",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "flesh",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rudhiraṃ",
+     "gloss": "blood",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substances are listed for the vessel or image?",
+   "premises": [
+    "Unsteady blood and head threads are named",
+    "Clay, flesh, blood, and water are named",
+    "The list is material and bodily"
+   ],
+   "inference": "The rite names clay, flesh, blood, water, and related bodily substances",
+   "uncertainties": [
+    "The exact construction of asthirakta śirātantu is compressed"
+   ],
+   "plain_english": "Unsteady blood, head threads, clay, flesh, blood, and water."
+  },
+  {
+   "verse": 1908,
+   "rows": [
+    {
+     "surface": "mantraprāṇa",
+     "gloss": "with-mantra-breath",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samāyuktāṃ",
+     "gloss": "united",
+     "grounds": "participle adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kalasadevatām",
+     "gloss": "vessel-deity",
+     "grounds": "compound noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the vessel deity be worshipped?",
+   "premises": [
+    "The vessel deity is worshipped",
+    "It is united with mantra-breath",
+    "The worship is prescribed"
+   ],
+   "inference": "The vessel deity should be worshipped united with mantra-breath",
+   "uncertainties": [
+    "The exact breath-mantra technique is not detailed"
+   ],
+   "plain_english": "One should worship the vessel deity united with mantra-breath."
+  },
+  {
+   "verse": 1909,
+   "rows": [
+    {
+     "surface": "vidikṣu",
+     "gloss": "in-the-intermediate-directions",
+     "grounds": "locative plural",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "guru",
+     "gloss": "guru",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vighneśa",
+     "gloss": "Gaṇeśa",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "Durgā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣetrapatīn",
+     "gloss": "field-lords",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which powers are placed in the intermediate directions?",
+   "premises": [
+    "The intermediate directions are named",
+    "Guru, Gaṇeśa, Durgā, and field-lords are named",
+    "The beloved is addressed"
+   ],
+   "inference": "The intermediate directions receive guru, Gaṇeśa, Durgā, and field-lords",
+   "uncertainties": [
+    "Exact directional assignment is not specified"
+   ],
+   "plain_english": "O beloved, in the intermediate directions: guru, Gaṇeśa, Durgā, and field-lords."
+  },
+  {
+   "verse": 1910,
+   "rows": [
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "one-should-consecrate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "priyaṃ",
+     "gloss": "beloved",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvapāpa",
+     "gloss": "all-sin",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praśāntaye",
+     "gloss": "for-pacification",
+     "grounds": "dative noun",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why should the beloved disciple be consecrated?",
+   "premises": [
+    "The disciple is consecrated",
+    "The purpose is pacification of all sin",
+    "The disciple is called beloved"
+   ],
+   "inference": "Consecration of the disciple pacifies all sin",
+   "uncertainties": [
+    "The exact rite of consecration is not detailed"
+   ],
+   "plain_english": "One should consecrate the beloved disciple for the pacification of all sin."
+  },
+  {
+   "verse": 1911,
+   "rows": [
+    {
+     "surface": "rājābhiṣiktaḥ",
+     "gloss": "consecrated-king",
+     "grounds": "compound participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "catuḥsāgara",
+     "gloss": "four-oceans",
+     "grounds": "compound adjective",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gāṃ",
+     "gloss": "going",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahīm",
+     "gloss": "earth",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What does a consecrated king obtain?",
+   "premises": [
+    "A consecrated king obtains",
+    "The earth extending to four oceans is named",
+    "The result is royal sovereignty"
+   ],
+   "inference": "A consecrated king obtains the earth to the four oceans",
+   "uncertainties": [
+    "Whether this is literal or hyperbolic is not stated"
+   ],
+   "plain_english": "A consecrated king obtains the earth extending to the four oceans."
+  },
+  {
+   "verse": 1912,
+   "rows": [
+    {
+     "surface": "vandhyābhiṣiktā",
+     "gloss": "barren-woman-consecrated",
+     "grounds": "compound participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvaguṇa",
+     "gloss": "all-qualities",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "anvitam",
+     "gloss": "endowed-with",
+     "grounds": "participle adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What does a consecrated barren woman obtain?",
+   "premises": [
+    "A consecrated barren woman obtains",
+    "A son is named",
+    "The son is endowed with all qualities"
+   ],
+   "inference": "Consecration grants a barren woman a son endowed with all qualities",
+   "uncertainties": [
+    "The exact consecration rite is not detailed"
+   ],
+   "plain_english": "A consecrated barren woman obtains a son endowed with all qualities."
+  },
+  {
+   "verse": 1913,
+   "rows": [
+    {
+     "surface": "trilauhe",
+     "gloss": "in-three-metals",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-indeed",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūrje",
+     "gloss": "on-bhūrja-bark",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "absolutive verb",
+     "morph": "abs"
+    },
+    {
+     "surface": "yantram",
+     "gloss": "yantra",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "uttamam",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "On what materials should the supreme yantra be written?",
+   "premises": [
+    "Three metals or bhūrja bark are named",
+    "The yantra is written",
+    "The yantra is supreme"
+   ],
+   "inference": "The supreme yantra may be written on three metals or bhūrja bark",
+   "uncertainties": [
+    "The three metals are not listed"
+   ],
+   "plain_english": "Having written the supreme yantra on three metals or on bhūrja bark."
+  },
+  {
+   "verse": 1914,
+   "rows": [
+    {
+     "surface": "āyuḥ",
+     "gloss": "life",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ārogya",
+     "gloss": "health",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aiśvaryaṃ",
+     "gloss": "sovereignty",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyālābhaṃ",
+     "gloss": "knowledge-acquisition",
+     "grounds": "compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yaśo",
+     "gloss": "fame",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jayam",
+     "gloss": "victory",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What benefits are promised from this practice?",
+   "premises": [
+    "Life, health, and sovereignty are named",
+    "Knowledge, fame, and victory are named",
+    "The list is soteriological and worldly"
+   ],
+   "inference": "The practice promises life, health, sovereignty, knowledge, fame, and victory",
+   "uncertainties": [
+    "Whether all benefits are simultaneous is not stated"
+   ],
+   "plain_english": "Life, health, sovereignty, acquisition of knowledge, fame, and victory."
+  },
+  {
+   "verse": 1915,
+   "rows": [
+    {
+     "surface": "khaḍgavaśyaṃ",
+     "gloss": "sword-subjugation",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vayaḥstambhaṃ",
+     "gloss": "youth-arrest",
+     "grounds": "compound noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yakṣiṇī",
+     "gloss": "yakṣiṇī",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "añjana",
+     "gloss": "collyrium",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādukām",
+     "gloss": "sandals",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What powers and objects are named in this siddhi list?",
+   "premises": [
+    "Sword subjugation and youth arrest are named",
+    "Yakṣiṇī, collyrium, and sandals are named",
+    "The list concerns siddhis"
+   ],
+   "inference": "The passage names sword subjugation, youth arrest, yakṣiṇī, collyrium, and sandals",
+   "uncertainties": [
+    "The exact ritual use of each item is not detailed"
+   ],
+   "plain_english": "Sword subjugation, arrest of youth, yakṣiṇī, collyrium, and sandals."
+  },
+  {
+   "verse": 1916,
+   "rows": [
+    {
+     "surface": "sañjīvayoga",
+     "gloss": "resuscitation-yoga",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guṭikā",
+     "gloss": "pills",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pramukhā",
+     "gloss": "foremost",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "akhila",
+     "gloss": "all",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "siddhis",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What is included among the foremost siddhis?",
+   "premises": [
+    "Resuscitation yoga and pills are named",
+    "They are called foremost",
+    "All siddhis are included"
+   ],
+   "inference": "Resuscitation yoga and pills are foremost among all siddhis",
+   "uncertainties": [
+    "The exact pill formula is not given"
+   ],
+   "plain_english": "Resuscitation yoga, pills, and other foremost siddhis."
+  },
+  {
+   "verse": 1917,
+   "rows": [
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "acts",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "prayuñjīta",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "priye",
+     "gloss": "O-beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many acts should be performed, and what happens otherwise?",
+   "premises": [
+    "Six acts are to be performed",
+    "Otherwise it does not become valid",
+    "The beloved is addressed"
+   ],
+   "inference": "One should perform the six acts; otherwise the rite does not become valid",
+   "uncertainties": [
+    "The six acts are not enumerated here"
+   ],
+   "plain_english": "O beloved, perform the six acts; otherwise it does not become valid."
+  },
+  {
+   "verse": 1918,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer-oblation",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatādhyāna",
+     "gloss": "deity-meditation",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatparaḥ",
+     "gloss": "intent-upon",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the mantrin offer oblation?",
+   "premises": [
+    "The mantrin offers oblation",
+    "It is done as before",
+    "He is intent upon deity meditation"
+   ],
+   "inference": "The mantrin should offer oblation as before while intent on deity meditation",
+   "uncertainties": [
+    "The prior procedure is not repeated here"
+   ],
+   "plain_english": "The mantrin should offer oblation as before, intent upon deity meditation."
+  },
+  {
+   "verse": 1919,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "duṣṭa",
+     "gloss": "wicked",
+     "grounds": "adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mṛgān",
+     "gloss": "beasts",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "stambhayet",
+     "gloss": "one-should-paralyze",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "herein",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "doubt",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "not",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Can various wicked beasts be paralyzed without doubt?",
+   "premises": [
+    "Various wicked beasts are named",
+    "Paralysis is prescribed",
+    "No doubt is declared"
+   ],
+   "inference": "One may paralyze various wicked beasts without doubt",
+   "uncertainties": [
+    "The token order is irregular but the sense is clear"
+   ],
+   "plain_english": "O goddess, one may paralyze various wicked beasts; herein there is no doubt."
+  },
+  {
+   "verse": 1920,
+   "rows": [
+    {
+     "surface": "asmāt",
+     "gloss": "than-this",
+     "grounds": "ablative comparison",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "parataraṃ",
+     "gloss": "higher",
+     "grounds": "comparative adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "negative copula",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is this meditation again declared supreme?",
+   "premises": [
+    "No meditation is higher than this",
+    "The statement is true",
+    "No doubt remains"
+   ],
+   "inference": "This meditation is again declared the highest",
+   "uncertainties": [
+    "The repeated verse may be a refrain"
+   ],
+   "plain_english": "There is no meditation higher than this; it is true, without doubt."
+  },
+  {
+   "verse": 1921,
+   "rows": [
+    {
+     "surface": "duṣṭa",
+     "gloss": "wicked",
+     "grounds": "adjective",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "māraṇakarmāṇi",
+     "gloss": "killing-acts",
+     "grounds": "compound noun",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-this",
+     "grounds": "instrumental noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "anena",
+     "grounds": "demonstrative pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should wicked killing acts be accomplished?",
+   "premises": [
+    "Wicked killing acts are named",
+    "They are accomplished by this method",
+    "The method is prescribed"
+   ],
+   "inference": "Wicked killing acts should be accomplished by this method",
+   "uncertainties": [
+    "The exact method is not restated here"
+   ],
+   "plain_english": "One should accomplish wicked killing acts by this method."
+  },
+  {
+   "verse": 1922,
+   "rows": [
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "acts",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "prayuñjīta",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīravandite",
+     "gloss": "O-hero-worshipped",
+     "grounds": "vocative compound",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How many acts should be performed, and to whom is this addressed?",
+   "premises": [
+    "Six acts are to be performed",
+    "Otherwise it is not valid",
+    "The hero-worshipped one is addressed"
+   ],
+   "inference": "One should perform the six acts; otherwise it is invalid",
+   "uncertainties": [
+    "The six acts are not enumerated here"
+   ],
+   "plain_english": "O hero-worshipped one, perform the six acts; otherwise it is not valid."
+  },
+  {
+   "verse": 1923,
+   "rows": [
+    {
+     "surface": "palāśa",
+     "gloss": "palāśa",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udumbara",
+     "gloss": "udumbara",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aśvattha",
+     "gloss": "aśvattha",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "plakṣa",
+     "gloss": "plakṣa",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "apāmārga",
+     "gloss": "apāmārga",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "satvacaiḥ",
+     "gloss": "barks",
+     "grounds": "instrumental plural",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "Which tree barks are named for the rite?",
+   "premises": [
+    "Palāśa, udumbara, aśvattha, plakṣa, and apāmārga are named",
+    "Barks are the material",
+    "The list is ritual and botanical"
+   ],
+   "inference": "The rite names barks of palāśa, udumbara, aśvattha, plakṣa, and apāmārga",
+   "uncertainties": [
+    "The exact use of each bark is not stated"
+   ],
+   "plain_english": "Barks of palāśa, udumbara, aśvattha, plakṣa, and apāmārga."
+  },
+  {
+   "verse": 1924,
+   "rows": [
+    {
+     "surface": "sitaiḥ",
+     "gloss": "white",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "anyaiḥ",
+     "gloss": "other",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "instrumental plural",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dravyaiḥ",
+     "gloss": "substances",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "samit",
+     "gloss": "fuel",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "patra",
+     "gloss": "leaves",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phala",
+     "gloss": "fruits",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "antaraḥ",
+     "gloss": "interior",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What substances and materials are named for the interior rite?",
+   "premises": [
+    "White and other auspicious substances are named",
+    "Fuel, leaves, and fruits are named",
+    "The interior is specified"
+   ],
+   "inference": "The interior rite uses white and other auspicious substances, fuel, leaves, and fruits",
+   "uncertainties": [
+    "The exact interior placement is not detailed"
+   ],
+   "plain_english": "White and other auspicious substances, fuel, leaves, and fruits for the interior."
+  }
+ ]
+}

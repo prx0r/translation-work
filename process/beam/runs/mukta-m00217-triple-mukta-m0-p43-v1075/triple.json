@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "devyai",
+     "gloss": "to-the-goddess",
+     "grounds": "recipient of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "at that time, referring to the previously described offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahārāja",
+     "gloss": "O-great-king",
+     "grounds": "form of address to the listener",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "agniṣṭomaphalaṃ",
+     "gloss": "agniṣṭoma-fruit",
+     "grounds": "result compared to the Vedic Agniṣṭoma sacrifice; compound agniṣṭoma+phala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-would-obtain",
+     "grounds": "states the fruit gained by the worshipper",
+     "morph": "3.sg.opt.act √labh"
+    }
+   ],
+   "question": "What ritual fruit is gained by making that offering to the goddess?",
+   "premises": [
+    "The offering is made to the goddess at that time.",
+    "The previously described aṣṭāṅgārghya constitutes the offering.",
+    "Such an offering yields the fruit of a Vedic sacrifice."
+   ],
+   "inference": "The worshipper obtains the fruit of the Agniṣṭoma sacrifice.",
+   "uncertainties": [],
+   "plain_english": "O great king, one would then obtain the fruit of the Agniṣṭoma sacrifice for the goddess."
+  }
+ ]
+}

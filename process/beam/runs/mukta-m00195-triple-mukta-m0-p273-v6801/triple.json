@@ -1,0 +1,1039 @@
+{
+ "song": "mukta-m0-p273",
+ "items": [
+  {
+   "verse": 6801,
+   "rows": [
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "āraṇyaka+tilaiḥ",
+     "gloss": "wild-sesame-seeds",
+     "grounds": "oblation material; compound",
+     "morph": "compound: āraṇyaka+tila, m.ins.pl"
+    },
+    {
+     "surface": "rājikābhiḥ",
+     "gloss": "mustard-seeds",
+     "grounds": "alternative oblation material",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "repeated optative verb of oblation",
+     "morph": "3.sg.opt.act √hu"
+    }
+   ],
+   "question": "What oblation materials may the practitioner offer in this fire ritual?",
+   "premises": [
+    "The practitioner should perform oblation.",
+    "Wild sesame seeds are a prescribed material.",
+    "Mustard seeds are an alternative material."
+   ],
+   "inference": "The ritual oblation may be performed with wild sesame seeds or with mustard seeds.",
+   "uncertainties": [],
+   "plain_english": "One should offer oblations with wild sesame seeds or with mustard seeds."
+  },
+  {
+   "verse": 6802,
+   "rows": [
+    {
+     "surface": "apasmāra+ādikān",
+     "gloss": "epilepsy-and-others",
+     "grounds": "ailments or conditions targeted; compound",
+     "morph": "compound: apasmāra+ādi, m.acc.pl"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "locative adverb referring to this rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "consideration",
+     "grounds": "deliberation or doubt",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Should the mantra practitioner hesitate when addressing epilepsy and similar conditions?",
+   "premises": [
+    "The mantra practitioner acts in this ritual context.",
+    "Conditions such as epilepsy are included.",
+    "Deliberation is negated in this case."
+   ],
+   "inference": "The mantra practitioner should not entertain doubt when dealing with epilepsy and similar conditions here.",
+   "uncertainties": [],
+   "plain_english": "In this matter, the mantra practitioner should not hesitate regarding epilepsy and similar conditions."
+  },
+  {
+   "verse": 6803,
+   "rows": [
+    {
+     "surface": "vāñchita+artha+siddhiḥ",
+     "gloss": "desired-aim-accomplishment",
+     "grounds": "result of the rite; compound",
+     "morph": "compound: vāñchita+artha+siddhi, f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "contrary outcome denied",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What outcome is guaranteed when the prescribed ritual procedure is followed?",
+   "premises": [
+    "The rite aims at a desired object.",
+    "Accomplishment of that aim is asserted.",
+    "An alternative outcome is denied."
+   ],
+   "inference": "The desired aim is accomplished and not otherwise.",
+   "uncertainties": [],
+   "plain_english": "The desired aim is accomplished, and it cannot be otherwise."
+  },
+  {
+   "verse": 6804,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "all",
+     "grounds": "totality of oblation or rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "vāñchita+siddhaye",
+     "gloss": "for-desired-accomplishment",
+     "grounds": "purpose of the oblation; compound",
+     "morph": "compound: vāñchita+siddhi, f.dat.sg"
+    }
+   ],
+   "question": "For what purpose should the mantra practitioner offer the complete oblation?",
+   "premises": [
+    "The mantra practitioner performs the oblation.",
+    "The oblation is to be done in full.",
+    "The rite is directed toward a desired accomplishment."
+   ],
+   "inference": "The mantra practitioner should offer everything for the accomplishment of the desired aim.",
+   "uncertainties": [],
+   "plain_english": "The mantra practitioner should offer the entire oblation for the accomplishment of the desired aim."
+  },
+  {
+   "verse": 6805,
+   "rows": [
+    {
+     "surface": "kuṭu+tailaiḥ",
+     "gloss": "pungent-oils",
+     "grounds": "oblation material; compound",
+     "morph": "compound: kuṭu+taila, n.ins.pl"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayutaiḥ",
+     "gloss": "ten-thousands",
+     "grounds": "alternative larger number of offerings",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "tad+anantaram",
+     "gloss": "after-that",
+     "grounds": "sequence marker; compound",
+     "morph": "compound: tad+anantara, n.acc.sg"
+    }
+   ],
+   "question": "How many oblations with pungent oils should be performed in sequence?",
+   "premises": [
+    "Pungent oils are used as oblation material.",
+    "A thousand offerings are prescribed.",
+    "Ten thousand offerings are given as an alternative."
+   ],
+   "inference": "One should offer a thousand or indeed ten thousand oblations with pungent oils thereafter.",
+   "uncertainties": [],
+   "plain_english": "Thereafter, one should offer a thousand or even ten thousand oblations with pungent oils."
+  },
+  {
+   "verse": 6806,
+   "rows": [
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "indicates repetition of prior procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "should-recite",
+     "grounds": "optative verb of mantra recitation",
+     "morph": "3.sg.opt.act pra-√jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "sacred formula to be recited",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "demonstrative referring to arrows",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śarān",
+     "gloss": "arrows",
+     "grounds": "ritual objects",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūpatiḥ",
+     "gloss": "king",
+     "grounds": "ritual agent or beneficiary",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the king do with the mantra and the arrows as before?",
+   "premises": [
+    "The prior procedure is to be followed.",
+    "The mantra is to be recited.",
+    "The arrows are included in the rite."
+   ],
+   "inference": "The king should recite the mantra as before and also apply it to those arrows.",
+   "uncertainties": [],
+   "plain_english": "As before, the king should recite the mantra and also do so over those arrows."
+  },
+  {
+   "verse": 6807,
+   "rows": [
+    {
+     "surface": "samantāt",
+     "gloss": "on-all-sides",
+     "grounds": "spatial extent of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saphalāḥ",
+     "gloss": "fruitful",
+     "grounds": "successful or effective result",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal marker of result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result follows for the arrows when the ritual is completed?",
+   "premises": [
+    "The ritual action has been performed.",
+    "The effect extends in all directions.",
+    "Success is attributed to that moment."
+   ],
+   "inference": "Then the arrows become fruitful on all sides.",
+   "uncertainties": [
+    "The subject 'arrows' is implied from the previous verse."
+   ],
+   "plain_english": "Then they become effective on all sides."
+  },
+  {
+   "verse": 6808,
+   "rows": [
+    {
+     "surface": "vastra+alaṅkaraṇaiḥ",
+     "gloss": "garments-ornaments",
+     "grounds": "offerings for propitiation; compound",
+     "morph": "compound: vastra+alaṅkaraṇa, n.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "should-satisfy",
+     "grounds": "optative verb of propitiation",
+     "morph": "3.sg.opt.caus.act √tuṣ"
+    },
+    {
+     "surface": "jaya+dāyinam",
+     "gloss": "victory-giver",
+     "grounds": "recipient of propitiation; compound",
+     "morph": "compound: jaya+dāyin, m.acc.sg"
+    }
+   ],
+   "question": "How should the giver of victory be propitiated after the ritual?",
+   "premises": [
+    "A victory-giving power is the recipient.",
+    "Garments and ornaments are available offerings.",
+    "Propitiation is prescribed."
+   ],
+   "inference": "One should satisfy the giver of victory with garments and ornaments.",
+   "uncertainties": [
+    "The identity of the victory-giver is not specified in this verse."
+   ],
+   "plain_english": "One should also propitiate the giver of victory with garments and ornaments."
+  },
+  {
+   "verse": 6809,
+   "rows": [
+    {
+     "surface": "bhrāmyati",
+     "gloss": "wanders",
+     "grounds": "describes erratic movement",
+     "morph": "3.sg.pres.act √bhram"
+    },
+    {
+     "surface": "kāka+vat",
+     "gloss": "crow-like",
+     "grounds": "simile indicating manner of movement; compound",
+     "morph": "compound: kāka+vat, (indecl.)"
+    }
+   ],
+   "question": "How does the affected target behave as a result of the rite?",
+   "premises": [
+    "A subject is affected by the ritual.",
+    "The behavior is compared to a crow.",
+    "Wandering motion is indicated."
+   ],
+   "inference": "The target wanders about like a crow.",
+   "uncertainties": [
+    "The subject is implied from the surrounding ritual context."
+   ],
+   "plain_english": "He wanders about like a crow."
+  },
+  {
+   "verse": 6810,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "pāda+rajobhiḥ",
+     "gloss": "foot-dust",
+     "grounds": "oblation material; compound",
+     "morph": "compound: pāda+rajas, n.ins.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "associative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vairiṇaḥ",
+     "gloss": "of-enemy",
+     "grounds": "source of the dust",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What material from the enemy should be used in the oblation?",
+   "premises": [
+    "An oblation is to be performed.",
+    "Dust from the feet is specified.",
+    "The dust belongs to the enemy."
+   ],
+   "inference": "One should offer oblations together with the dust from the enemy's feet.",
+   "uncertainties": [],
+   "plain_english": "One should make oblations with the dust from the enemy's feet."
+  },
+  {
+   "verse": 6811,
+   "rows": [
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "with-flowers",
+     "grounds": "oblation material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "senā",
+     "gloss": "army",
+     "grounds": "target of the rite",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃstambhayet",
+     "gloss": "should-paralyze",
+     "grounds": "optative causative verb indicating immobilization",
+     "morph": "3.sg.opt.caus.act sam-√stambh"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How can a wise practitioner paralyze an opposing army through oblation?",
+   "premises": [
+    "A wise practitioner performs the rite.",
+    "A thousand flower oblations are prescribed.",
+    "The intended effect is immobilization of an army."
+   ],
+   "inference": "By offering a thousand oblations with flowers, the wise one should paralyze the army.",
+   "uncertainties": [],
+   "plain_english": "The wise one should offer a thousand oblations with flowers and thereby paralyze the army."
+  },
+  {
+   "verse": 6812,
+   "rows": [
+    {
+     "surface": "viṣa+vṛkṣa+samudbhūtāṃ",
+     "gloss": "poison-tree-arisen",
+     "grounds": "material origin of the effigy; compound",
+     "morph": "compound: viṣa+vṛkṣa+samudbhūta, f.acc.sg"
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "person represented by the effigy",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pratikṛtiṃ",
+     "gloss": "likeness",
+     "grounds": "effigy used in ritual",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śubhām",
+     "gloss": "auspicious",
+     "grounds": "qualifier of the likeness; ritual suitability",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of effigy of the enemy should be prepared for the rite?",
+   "premises": [
+    "An effigy of the enemy is required.",
+    "The effigy should come from a poisonous tree.",
+    "The effigy is described as auspicious."
+   ],
+   "inference": "One should prepare an auspicious likeness of the enemy made from a poisonous tree.",
+   "uncertainties": [
+    "The sense of 'auspicious' for a harmful rite is context-dependent."
+   ],
+   "plain_english": "One should prepare a well-made likeness of the enemy fashioned from a poisonous tree."
+  },
+  {
+   "verse": 6813,
+   "rows": [
+    {
+     "surface": "kṛṣṇa+pakṣe",
+     "gloss": "dark-fortnight",
+     "grounds": "lunar period for the rite; compound",
+     "morph": "compound: kṛṣṇa+pakṣa, m.loc.sg"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-fourteenth-day",
+     "grounds": "specific lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kaka+ulūka+vasā",
+     "gloss": "crow-owl-fat",
+     "grounds": "ritual substances; compound",
+     "morph": "compound: kaka+ulūka+vasā, f.nom.sg"
+    },
+    {
+     "surface": "yutaiḥ",
+     "gloss": "endowed-with",
+     "grounds": "indicates combination with substances",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "When and with what substances should the enemy effigy rite be performed?",
+   "premises": [
+    "The rite is timed to the dark fortnight.",
+    "The fourteenth lunar day is specified.",
+    "Crow and owl fat are used as substances."
+   ],
+   "inference": "The rite should be performed on the fourteenth day of the dark fortnight with materials mixed with crow and owl fat.",
+   "uncertainties": [
+    "The exact items mixed with the fats are implied from the previous verse."
+   ],
+   "plain_english": "On the fourteenth day of the dark fortnight, one should use materials mixed with the fat of a crow and an owl."
+  },
+  {
+   "verse": 6814,
+   "rows": [
+    {
+     "surface": "ripuḥ",
+     "gloss": "enemy",
+     "grounds": "target of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nūnaṃ",
+     "gloss": "certainly",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasrataḥ",
+     "gloss": "by-thousands",
+     "grounds": "indicates repeated effect or quantity",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What certain effect does the prescribed rite have upon the enemy?",
+   "premises": [
+    "The enemy is the target of the rite.",
+    "The result is asserted with certainty.",
+    "The effect is described as occurring by thousands."
+   ],
+   "inference": "The enemy certainly becomes affected in a thousandfold manner.",
+   "uncertainties": [
+    "The precise nature of the effect is not explicitly stated in this verse."
+   ],
+   "plain_english": "The enemy is certainly affected, indeed a thousandfold."
+  },
+  {
+   "verse": 6815,
+   "rows": [
+    {
+     "surface": "viṣa+trikaṭuka+āliptāṃ",
+     "gloss": "poison-three-pungents-smeared",
+     "grounds": "describes prepared effigy or object; compound",
+     "morph": "compound: viṣa+trikaṭuka+ālipta, f.acc.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner of action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uṣṇa+jale",
+     "gloss": "hot-water",
+     "grounds": "medium into which object is thrown; compound",
+     "morph": "compound: uṣṇa+jala, n.loc.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "should-throw",
+     "grounds": "optative verb of ritual action",
+     "morph": "3.sg.opt.act √kṣip"
+    }
+   ],
+   "question": "What should be done with an object smeared with poison and the three pungents?",
+   "premises": [
+    "An object is smeared with poison and the three pungents.",
+    "Hot water is the specified medium.",
+    "The action must be done properly."
+   ],
+   "inference": "One should properly throw the object smeared with poison and the three pungents into hot water.",
+   "uncertainties": [
+    "The object is implied, likely the enemy's likeness from earlier verses."
+   ],
+   "plain_english": "One should properly throw it, smeared with poison and the three pungents, into hot water."
+  },
+  {
+   "verse": 6816,
+   "rows": [
+    {
+     "surface": "dugdha+abhiṣekataḥ",
+     "gloss": "from-milk-sprinkling",
+     "grounds": "remedial ritual action; compound",
+     "morph": "compound: dugdha+abhiṣeka, m.abl.sg"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "peace",
+     "grounds": "pacification or remedy",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the afflicted condition or rite",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "uncertainty denied",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remedy brings pacification for this condition without any doubt?",
+   "premises": [
+    "A harmful condition has been produced.",
+    "Sprinkling with milk is prescribed.",
+    "The result is stated as certain."
+   ],
+   "inference": "Pacification of this comes from sprinkling with milk, without doubt.",
+   "uncertainties": [],
+   "plain_english": "By sprinkling with milk, pacification of this occurs; there is no doubt."
+  },
+  {
+   "verse": 6817,
+   "rows": [
+    {
+     "surface": "ripoḥ",
+     "gloss": "of-enemy",
+     "grounds": "person affected or targeted",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "speed of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "reference to prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntiḥ",
+     "gloss": "peace",
+     "grounds": "pacification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "declared",
+     "grounds": "stated in the teaching",
+     "morph": "f.nom.sg.past-passive-participle √īr"
+    }
+   ],
+   "question": "How quickly is pacification for the enemy said to occur by the prior method?",
+   "premises": [
+    "The enemy is the subject of pacification.",
+    "The prior method is invoked.",
+    "Immediate effect is declared."
+   ],
+   "inference": "Pacification for the enemy is declared to occur immediately, as before.",
+   "uncertainties": [],
+   "plain_english": "Immediate pacification for the enemy is declared, as before."
+  },
+  {
+   "verse": 6818,
+   "rows": [
+    {
+     "surface": "prajapya",
+     "gloss": "having-recited",
+     "grounds": "prior mantra recitation",
+     "morph": "(indecl.) absolutive pra-√jap"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārayet",
+     "gloss": "should-kill",
+     "grounds": "optative causative verb indicating destruction",
+     "morph": "3.sg.opt.caus.act √mṛ"
+    },
+    {
+     "surface": "ripu+sañcayam",
+     "gloss": "enemy-multitude",
+     "grounds": "target group; compound",
+     "morph": "compound: ripu+sañcaya, m.acc.sg"
+    }
+   ],
+   "question": "What action against a multitude of enemies follows mantra recitation?",
+   "premises": [
+    "Mantra recitation is performed first.",
+    "A multitude of enemies is the target.",
+    "A destructive action is prescribed."
+   ],
+   "inference": "After reciting the mantra, one should destroy the multitude of enemies.",
+   "uncertainties": [],
+   "plain_english": "Then, having recited the mantra, one should destroy the multitude of enemies."
+  },
+  {
+   "verse": 6819,
+   "rows": [
+    {
+     "surface": "mantra+jāpena",
+     "gloss": "by-mantra-recitation",
+     "grounds": "means of pacification; compound",
+     "morph": "compound: mantra+jāpa, m.ins.sg"
+    },
+    {
+     "surface": "śamayet",
+     "gloss": "should-pacify",
+     "grounds": "optative causative verb of calming",
+     "morph": "3.sg.opt.caus.act √śam"
+    },
+    {
+     "surface": "śatru+sañcayam",
+     "gloss": "enemy-multitude",
+     "grounds": "target group; compound",
+     "morph": "compound: śatru+sañcaya, m.acc.sg"
+    }
+   ],
+   "question": "By what means can a multitude of enemies be pacified?",
+   "premises": [
+    "A multitude of enemies is the target.",
+    "Mantra recitation is the prescribed means.",
+    "Pacification is the intended effect."
+   ],
+   "inference": "One should pacify the multitude of enemies by recitation of the mantra.",
+   "uncertainties": [],
+   "plain_english": "One should pacify the multitude of enemies by reciting the mantra."
+  },
+  {
+   "verse": 6820,
+   "rows": [
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "remaining procedure or material",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāraskara+dru+samidhā",
+     "gloss": "with-kāraskara-tree-firewood",
+     "grounds": "specified firewood for oblation; compound",
+     "morph": "compound: kāraskara+dru+samidh, f.ins.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayutaṃ",
+     "gloss": "ten-thousand",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "knowledgeable practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remaining oblation should the wise practitioner perform with kāraskara firewood?",
+   "premises": [
+    "A remaining procedure is indicated.",
+    "Kāraskara tree firewood is specified.",
+    "Ten thousand oblations are prescribed."
+   ],
+   "inference": "The wise one should indeed offer ten thousand oblations with kāraskara firewood as the remainder.",
+   "uncertainties": [
+    "The exact referent of 'remainder' depends on prior context."
+   ],
+   "plain_english": "As for the remainder, the wise one should indeed offer ten thousand oblations with kāraskara firewood."
+  },
+  {
+   "verse": 6821,
+   "rows": [
+    {
+     "surface": "rāja+vṛkṣa+samid+homāt",
+     "gloss": "royal-tree-firewood-oblation",
+     "grounds": "cause of healing; compound",
+     "morph": "compound: rāja+vṛkṣa+samid+homa, m.abl.sg"
+    },
+    {
+     "surface": "rogāḥ",
+     "gloss": "diseases",
+     "grounds": "ailments to be removed",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naśyanti",
+     "gloss": "are-destroyed",
+     "grounds": "resultative verb of removal",
+     "morph": "3.pl.pres.act √naś"
+    },
+    {
+     "surface": "daṃtinām",
+     "gloss": "of-elephants",
+     "grounds": "beings afflicted by disease",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What oblation removes diseases affecting elephants?",
+   "premises": [
+    "Elephants suffer from diseases.",
+    "Oblation with royal-tree firewood is performed.",
+    "Destruction of diseases is asserted."
+   ],
+   "inference": "From oblation with royal-tree firewood, the diseases of elephants are destroyed.",
+   "uncertainties": [],
+   "plain_english": "By offering oblations with firewood from the royal tree, the diseases of elephants are destroyed."
+  },
+  {
+   "verse": 6822,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative verb indicating possibility or result",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates similar result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śīghraṃ",
+     "gloss": "quickly",
+     "grounds": "speed of effect",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "patraiḥ",
+     "gloss": "with-leaves",
+     "grounds": "alternative oblation material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "ādityaka+utthitaiḥ",
+     "gloss": "ādityaka-arisen",
+     "grounds": "source of the leaves; compound",
+     "morph": "compound: ādityaka+utthita, n.ins.pl"
+    }
+   ],
+   "question": "What alternative material quickly produces the same healing effect for elephants?",
+   "premises": [
+    "A similar result is sought.",
+    "Leaves are used as material.",
+    "The leaves arise from the ādityaka plant."
+   ],
+   "inference": "The same result may quickly occur likewise with leaves arising from the ādityaka plant.",
+   "uncertainties": [
+    "The identity of ādityaka is not specified in this verse."
+   ],
+   "plain_english": "Likewise, the same result may quickly come about with leaves from the ādityaka plant."
+  },
+  {
+   "verse": 6823,
+   "rows": [
+    {
+     "surface": "pañca+gavyena",
+     "gloss": "with-five-cow-products",
+     "grounds": "ritual substance; compound",
+     "morph": "compound: pañca+gavya, n.ins.sg"
+    },
+    {
+     "surface": "loka+rakṣā+karaḥ",
+     "gloss": "world-protection-maker",
+     "grounds": "effect or designation of the rite; compound",
+     "morph": "compound: loka+rakṣā+kara, m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "traditional designation",
+     "morph": "m.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "What protective effect is attributed to oblation with the five cow products?",
+   "premises": [
+    "The five cow products are used in the rite.",
+    "A protective function is attributed to it.",
+    "This attribution is traditionally remembered."
+   ],
+   "inference": "The rite with the five cow products is remembered as effecting protection of the world.",
+   "uncertainties": [],
+   "plain_english": "With the five products of the cow, it is remembered as bringing protection to the world."
+  },
+  {
+   "verse": 6824,
+   "rows": [
+    {
+     "surface": "juhuyāt",
+     "gloss": "should-offer",
+     "grounds": "optative verb of oblation",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "ibha+saṅghānāṃ",
+     "gloss": "of-elephant-multitudes",
+     "grounds": "beneficiaries of increase; compound",
+     "morph": "compound: ibha+saṅgha, m.gen.pl"
+    },
+    {
+     "surface": "vṛddhiḥ",
+     "gloss": "increase",
+     "grounds": "desired result",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "resultative verb",
+     "morph": "3.sg.pres.act √bhū"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "contrary outcome denied",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What result is assured for multitudes of elephants when the oblation is performed?",
+   "premises": [
+    "An oblation is to be performed.",
+    "Multitudes of elephants are concerned.",
+    "Increase is asserted as the outcome."
+   ],
+   "inference": "When one offers the oblation, there is increase for the multitudes of elephants and not otherwise.",
+   "uncertainties": [
+    "The specific oblation material is implied from the preceding verse."
+   ],
+   "plain_english": "One should offer the oblation; then there is increase for the multitudes of elephants, and not otherwise."
+  }
+ ]
+}

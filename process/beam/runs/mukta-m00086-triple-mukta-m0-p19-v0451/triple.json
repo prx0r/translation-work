@@ -1,0 +1,1094 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 451,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-division",
+     "grounds": "mantra division named vāgbhava",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mānmathaṃ",
+     "gloss": "love-seed",
+     "grounds": "mānmatha as seed element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "bīja syllable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sauḥkāraṃ",
+     "gloss": "sauḥ-syllable",
+     "grounds": "sauḥ syllable form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bindumālinī",
+     "gloss": "bindu-garland",
+     "grounds": "bindu garland element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which five named elements constitute the vāgbhava kūṭa of this mantra?",
+   "premises": [
+    "vāgbhava is a mantra division",
+    "mānmatha is its seed",
+    "sauḥkāra is its syllable",
+    "bindumālinī is its garland"
+   ],
+   "inference": "the vāgbhava kūṭa comprises these five named elements",
+   "uncertainties": [
+    "exact syntactic role of bindumālinī remains unclear"
+   ],
+   "plain_english": "The vāgbhava kūṭa consists of vāgbhava, mānmatha, bīja, sauḥkāra, and bindumālinī."
+  },
+  {
+   "verse": 452,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "deity named brahmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śakraśca",
+     "gloss": "indra-and",
+     "grounds": "śakra plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahniśca",
+     "gloss": "fire-and",
+     "grounds": "vahni plus ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "māyārddhendusamanvitaḥ",
+     "gloss": "māyā-half-moon-endowed",
+     "grounds": "compound with māyā half moon",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities and powers are said to be endowed with māyā and half-moon?",
+   "premises": [
+    "brahmā is named",
+    "śakra is named",
+    "vahni is named",
+    "māyā and half-moon are present"
+   ],
+   "inference": "brahmā śakra and vahni are associated with māyā and half-moon",
+   "uncertainties": [
+    "exact grammatical relation among listed deities is unclear"
+   ],
+   "plain_english": "Brahmā, Indra, and fire are endowed with māyā and half-moon."
+  },
+  {
+   "verse": 453,
+   "rows": [
+    {
+     "surface": "etatkūṭasya",
+     "gloss": "this-peak's",
+     "grounds": "etad plus kūṭa genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "māhātmyaṃ",
+     "gloss": "greatness",
+     "grounds": "māhātmya noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatakoṭisuvistaram",
+     "gloss": "hundred-crore-very-extensive",
+     "grounds": "compound of śata koṭi suvistara",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How extensive is the greatness of this kūṭa?",
+   "premises": [
+    "etatkūṭasya means this peak's",
+    "māhātmyaṃ means greatness",
+    "śatakoṭisuvistaram means hundred-crore very extensive"
+   ],
+   "inference": "the greatness of this kūṭa is extremely extensive",
+   "uncertainties": [
+    "whether śatakoṭi is literal or hyperbolic is unclear"
+   ],
+   "plain_english": "The greatness of this kūṭa is vast, extending to a hundred crores."
+  },
+  {
+   "verse": 454,
+   "rows": [
+    {
+     "surface": "helayā",
+     "gloss": "easily",
+     "grounds": "instrumental helayā",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tridivaṃ",
+     "gloss": "heaven",
+     "grounds": "tridiva accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāpya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive prāpya",
+     "morph": "abs"
+    },
+    {
+     "surface": "modate",
+     "gloss": "rejoices",
+     "grounds": "verb modate",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "śambhunā",
+     "gloss": "with-śambhu",
+     "grounds": "instrumental śambhu",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable saha",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens after one easily obtains heaven?",
+   "premises": [
+    "helayā means easily",
+    "tridivaṃ means heaven",
+    "prāpya means having obtained",
+    "modate means rejoices",
+    "śambhunā saha means with śambhu"
+   ],
+   "inference": "one rejoices with śambhu after easily obtaining heaven",
+   "uncertainties": [
+    "subject of modate is not explicit"
+   ],
+   "plain_english": "Having easily obtained heaven, one rejoices with Śambhu."
+  },
+  {
+   "verse": 455,
+   "rows": [
+    {
+     "surface": "vāñchitaṃ",
+     "gloss": "desired",
+     "grounds": "past participle vāñchita",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "verb labhate",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "kāmaṃ",
+     "gloss": "wish",
+     "grounds": "kāma accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "satyameva",
+     "gloss": "truth-indeed",
+     "grounds": "satya plus eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "saṃśaya nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there any doubt that the desired wish is truly obtained?",
+   "premises": [
+    "vāñchitaṃ means desired",
+    "labhate means obtains",
+    "kāmaṃ means wish",
+    "satyameva means truth indeed",
+    "na saṃśayaḥ means no doubt"
+   ],
+   "inference": "the desired wish is truly obtained without doubt",
+   "uncertainties": [
+    "scope of satyameva is not fully explicit"
+   ],
+   "plain_english": "The desired wish is truly obtained; there is no doubt."
+  },
+  {
+   "verse": 456,
+   "rows": [
+    {
+     "surface": "bālāyāḥ",
+     "gloss": "of-girl",
+     "grounds": "bālā genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śaktikūṭañca",
+     "gloss": "śakti-peak-and",
+     "grounds": "śaktikūṭa plus ca",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktistu",
+     "gloss": "śakti-but",
+     "grounds": "śakti plus tu",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kamalāsanaḥ",
+     "gloss": "lotus-seat",
+     "grounds": "kamalāsana nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is said about the śakti kūṭa of the girl?",
+   "premises": [
+    "bālāyāḥ means of the girl",
+    "śaktikūṭañca means śakti peak and",
+    "śaktistu means śakti but",
+    "kamalāsanaḥ means lotus seat"
+   ],
+   "inference": "the girl's śakti kūṭa is associated with lotus seat",
+   "uncertainties": [
+    "exact relation between śakti and kamalāsana is unclear"
+   ],
+   "plain_english": "The girl's śakti kūṭa is connected with the lotus-seated one."
+  },
+  {
+   "verse": 457,
+   "rows": [
+    {
+     "surface": "śaktikūṭamidaṃ",
+     "gloss": "śakti-peak-this",
+     "grounds": "śaktikūṭa plus idam",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "holy",
+     "grounds": "puṇya adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "puruṣārthapravartakam",
+     "gloss": "purushartha-promoting",
+     "grounds": "compound puruṣārtha pravartaka",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the nature and function of this śakti kūṭa?",
+   "premises": [
+    "śaktikūṭamidaṃ means this śakti peak",
+    "puṇyaṃ means holy",
+    "puruṣārthapravartakam means promoting puruṣārtha"
+   ],
+   "inference": "this śakti kūṭa is holy and promotes puruṣārtha",
+   "uncertainties": [
+    "which puruṣārtha is intended is not specified"
+   ],
+   "plain_english": "This śakti kūṭa is holy and promotes the aims of human life."
+  },
+  {
+   "verse": 458,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyā",
+     "gloss": "to-be-given",
+     "grounds": "gerundive deyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "to-anyone",
+     "grounds": "dative kasyacit",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "sthāne",
+     "gloss": "place",
+     "grounds": "locative sthāne",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sugopyā",
+     "gloss": "very-secret",
+     "grounds": "sugopyā adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "durlabhā",
+     "gloss": "rare",
+     "grounds": "durlabhā adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "parā adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "To whom and where should this supreme secret be given?",
+   "premises": [
+    "na deyā means not to be given",
+    "kasyacit means to anyone",
+    "sthāne means place",
+    "sugopyā means very secret",
+    "durlabhā means rare",
+    "parā means supreme"
+   ],
+   "inference": "this supreme secret is not to be given to anyone in any place",
+   "uncertainties": [
+    "whether sthāne modifies deyā or sugopyā is unclear"
+   ],
+   "plain_english": "This supreme, rare, very secret thing is not to be given to anyone anywhere."
+  },
+  {
+   "verse": 459,
+   "rows": [
+    {
+     "surface": "brahmā",
+     "gloss": "brahmā",
+     "grounds": "deity brahmā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivendrau",
+     "gloss": "śiva-indra",
+     "grounds": "dvandva śiva indra",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "śaktiśca",
+     "gloss": "śakti-and",
+     "grounds": "śakti plus ca",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "great-māyā",
+     "grounds": "mahāmāyā noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable tataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parā",
+     "gloss": "beyond",
+     "grounds": "parā adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What lies beyond brahmā śiva indra śakti and great māyā?",
+   "premises": [
+    "brahmā is named",
+    "śivendrau means śiva and indra",
+    "śaktiśca means śakti and",
+    "mahāmāyā means great māyā",
+    "tataḥ parā means beyond then"
+   ],
+   "inference": "something supreme lies beyond these named powers",
+   "uncertainties": [
+    "the exact referent of parā is not explicit"
+   ],
+   "plain_english": "Beyond Brahmā, Śiva, Indra, Śakti, and great Māyā lies the supreme."
+  },
+  {
+   "verse": 460,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative eṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcadaśī",
+     "gloss": "fifteen-syllabled",
+     "grounds": "pañcadaśī adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhāṣā",
+     "gloss": "speech",
+     "grounds": "bhāṣā noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "indeclinable sākṣāt",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tripurasundarī",
+     "gloss": "tripurasundarī",
+     "grounds": "goddess tripurasundarī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is this fifteen-syllabled speech directly identified with?",
+   "premises": [
+    "eṣā means this",
+    "pañcadaśī means fifteen-syllabled",
+    "bhāṣā means speech",
+    "sākṣāt means directly",
+    "tripurasundarī is the goddess"
+   ],
+   "inference": "this fifteen-syllabled speech is directly Tripurasundarī",
+   "uncertainties": [
+    "whether bhāṣā is mantra or ordinary speech is implicit"
+   ],
+   "plain_english": "This fifteen-syllabled speech is directly Tripurasundarī."
+  },
+  {
+   "verse": 461,
+   "rows": [
+    {
+     "surface": "evameṣā",
+     "gloss": "thus-this",
+     "grounds": "eva plus eṣā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyā",
+     "grounds": "mahāvidyā noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "great-tripurasundarī",
+     "grounds": "mahā plus tripurasundarī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is this great vidyā identified as?",
+   "premises": [
+    "evameṣā means thus this",
+    "mahāvidyā means great vidyā",
+    "mahātripurasundarī means great tripurasundarī"
+   ],
+   "inference": "this great vidyā is the great Tripurasundarī",
+   "uncertainties": [
+    "exact relation between mahāvidyā and mahātripurasundarī is appositional"
+   ],
+   "plain_english": "Thus this great vidyā is the great Tripurasundarī."
+  },
+  {
+   "verse": 462,
+   "rows": [
+    {
+     "surface": "bṛhacchīkramatantrasya",
+     "gloss": "of-bṛhacchīkrama-tantra",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "matametadudīritam",
+     "gloss": "opinion-this-declared",
+     "grounds": "matam etad udīritam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Whose declared opinion is this?",
+   "premises": [
+    "bṛhacchīkramatantrasya means of the bṛhacchīkrama tantra",
+    "matametadudīritam means this opinion declared"
+   ],
+   "inference": "this is the declared opinion of the bṛhacchīkrama tantra",
+   "uncertainties": [
+    "whether udīritam is passive or active is unclear"
+   ],
+   "plain_english": "This is the declared opinion of the Bṛhacchīkrama Tantra."
+  },
+  {
+   "verse": 463,
+   "rows": [
+    {
+     "surface": "yasyā",
+     "gloss": "whose",
+     "grounds": "genitive yasyā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ārādhanenaiva",
+     "gloss": "worship-by-indeed",
+     "grounds": "ārādhana plus eva",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kāmaḥ",
+     "gloss": "desire",
+     "grounds": "kāma nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvāṅgasundaraḥ",
+     "gloss": "all-limb-beautiful",
+     "grounds": "compound sarvāṅga sundara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes beautiful in all limbs through whose worship?",
+   "premises": [
+    "yasyā means whose",
+    "ārādhanenaiva means by worship indeed",
+    "kāmaḥ means desire",
+    "sarvāṅgasundaraḥ means beautiful in all limbs"
+   ],
+   "inference": "desire becomes beautiful in all limbs through her worship",
+   "uncertainties": [
+    "antecedent of yasyā is not explicit"
+   ],
+   "plain_english": "Through whose worship, desire becomes beautiful in all limbs."
+  },
+  {
+   "verse": 464,
+   "rows": [
+    {
+     "surface": "sarvaśāstramayī",
+     "gloss": "all-śāstra-composed",
+     "grounds": "compound sarva śāstra mayī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "vidyā noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvasaubhāgyasundarī",
+     "gloss": "all-fortune-beautiful",
+     "grounds": "compound sarva saubhāgya sundarī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is this vidyā composed of and how is it described?",
+   "premises": [
+    "sarvaśāstramayī means composed of all śāstras",
+    "vidyā means vidyā",
+    "sarvasaubhāgyasundarī means beautiful with all fortune"
+   ],
+   "inference": "this vidyā is composed of all śāstras and beautiful with all fortune",
+   "uncertainties": [
+    "whether vidyā is subject or apposition is implicit"
+   ],
+   "plain_english": "This vidyā is composed of all śāstras and is beautiful with all fortune."
+  },
+  {
+   "verse": 465,
+   "rows": [
+    {
+     "surface": "śāktaśāmbhavabhedena",
+     "gloss": "śākta-śāmbhava-distinction",
+     "grounds": "compound śākta śāmbhava bheda",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-tell",
+     "grounds": "verb kathayāmi",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "sudurlabhām",
+     "gloss": "very-rare",
+     "grounds": "sudurlabhā adjective",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What does the speaker tell according to the śākta-śāmbhava distinction?",
+   "premises": [
+    "śāktaśāmbhavabhedena means by śākta-śāmbhava distinction",
+    "kathayāmi means I tell",
+    "sudurlabhām means very rare"
+   ],
+   "inference": "the speaker tells something very rare according to that distinction",
+   "uncertainties": [
+    "the object of kathayāmi is not explicit"
+   ],
+   "plain_english": "I tell something very rare according to the śākta-śāmbhava distinction."
+  },
+  {
+   "verse": 466,
+   "rows": [
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive dattvā",
+     "morph": "abs"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "māyā",
+     "grounds": "māyā accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tadante",
+     "gloss": "then-after",
+     "grounds": "tad plus ante",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajati",
+     "gloss": "worships",
+     "grounds": "verb bhajati",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "suragaṇo",
+     "gloss": "gods",
+     "grounds": "sura gaṇa nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantramenaṃ",
+     "gloss": "mantra-this",
+     "grounds": "mantra plus enaṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasiddham",
+     "gloss": "famous",
+     "grounds": "prasiddha adjective",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What do the gods do after giving māyā?",
+   "premises": [
+    "dattvā means having given",
+    "māyāṃ means māyā",
+    "tadante means then after",
+    "bhajati means worships",
+    "suragaṇo means gods",
+    "mantramenaṃ means this mantra",
+    "prasiddham means famous"
+   ],
+   "inference": "after giving māyā the gods worship this famous mantra",
+   "uncertainties": [
+    "subject suragaṇo may be collective singular"
+   ],
+   "plain_english": "After giving Māyā, the gods worship this famous mantra."
+  },
+  {
+   "verse": 467,
+   "rows": [
+    {
+     "surface": "ṛtuvarṇātmakaṃ",
+     "gloss": "season-color-composed",
+     "grounds": "compound ṛtu varṇa ātmaka",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "peak",
+     "grounds": "kūṭa accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kāmarājantu",
+     "gloss": "kāmarāja-and",
+     "grounds": "kāmarāja plus tu",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "madhyama adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the middle kūṭa composed of seasons and colors?",
+   "premises": [
+    "ṛtuvarṇātmakaṃ means composed of season and color",
+    "kūṭaṃ means peak",
+    "kāmarājantu means kāmarāja and",
+    "madhyamam means middle"
+   ],
+   "inference": "the middle kūṭa is kāmarāja composed of season and color",
+   "uncertainties": [
+    "exact relation between kāmarāja and kūṭa is appositional"
+   ],
+   "plain_english": "The middle kūṭa is Kāmarāja, composed of season and color."
+  },
+  {
+   "verse": 468,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable evaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭātmikā",
+     "gloss": "peak-composed",
+     "grounds": "kūṭa plus ātmikā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "devī noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tryakṣarī",
+     "gloss": "three-syllabled",
+     "grounds": "tryakṣarī adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tripureśvarī",
+     "gloss": "tripura-lady",
+     "grounds": "tripura plus īśvarī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How is the goddess described as peak-composed?",
+   "premises": [
+    "evaṃ means thus",
+    "kūṭātmikā means peak-composed",
+    "devī means goddess",
+    "tryakṣarī means three-syllabled",
+    "tripureśvarī means lady of tripura"
+   ],
+   "inference": "the goddess is peak-composed, three-syllabled, and lady of tripura",
+   "uncertainties": [
+    "whether tryakṣarī modifies devī or kūṭātmikā is implicit"
+   ],
+   "plain_english": "Thus the goddess is peak-composed, three-syllabled, and lady of Tripura."
+  },
+  {
+   "verse": 469,
+   "rows": [
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive jñeyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun sā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kīlitā",
+     "gloss": "sealed",
+     "grounds": "past participle kīlitā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "vidyā noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "siddhidā",
+     "gloss": "siddhi-giving",
+     "grounds": "siddhi plus dā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation na",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "indeclinable hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative bhūtale",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Is this sealed vidyā that gives siddhi found on earth?",
+   "premises": [
+    "jñeyā means to be known",
+    "sā means she",
+    "kīlitā means sealed",
+    "vidyā means vidyā",
+    "siddhidā means siddhi-giving",
+    "na hi bhūtale means not indeed on earth"
+   ],
+   "inference": "this sealed siddhi-giving vidyā is not found on earth",
+   "uncertainties": [
+    "whether kīlitā modifies vidyā or sā is implicit"
+   ],
+   "plain_english": "This sealed vidyā that gives siddhi is not found on earth."
+  },
+  {
+   "verse": 470,
+   "rows": [
+    {
+     "surface": "etatkāraṇavṛttāntaṃ",
+     "gloss": "this-cause-account",
+     "grounds": "compound etad kāraṇa vṛttānta",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kathayāmi",
+     "gloss": "I-tell",
+     "grounds": "verb kathayāmi",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "samāsataḥ",
+     "gloss": "in-brief",
+     "grounds": "indeclinable samāsataḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does the speaker tell in brief?",
+   "premises": [
+    "etatkāraṇavṛttāntaṃ means this cause account",
+    "kathayāmi means I tell",
+    "samāsataḥ means in brief"
+   ],
+   "inference": "the speaker tells this cause account in brief",
+   "uncertainties": [
+    "the specific cause account is not explicit here"
+   ],
+   "plain_english": "I tell this cause account in brief."
+  },
+  {
+   "verse": 471,
+   "rows": [
+    {
+     "surface": "āsīcca",
+     "gloss": "was-and",
+     "grounds": "āsīt plus ca",
+     "morph": "3.sg.act-past"
+    },
+    {
+     "surface": "nagare",
+     "gloss": "in-city",
+     "grounds": "locative nagare",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable nityaṃ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhikṣārthī",
+     "gloss": "begging",
+     "grounds": "bhikṣā plus arthī",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vicared",
+     "gloss": "wanders",
+     "grounds": "verb vicaret",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvijaḥ",
+     "gloss": "brāhmaṇa",
+     "grounds": "dvija nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What did the brāhmaṇa do in the city?",
+   "premises": [
+    "āsīcca means was and",
+    "nagare means in city",
+    "nityaṃ means always",
+    "bhikṣārthī means begging",
+    "vicared means wanders",
+    "dvijaḥ means brāhmaṇa"
+   ],
+   "inference": "a brāhmaṇa was always wandering in the city begging",
+   "uncertainties": [
+    "whether vicared is optative or indicative is morphologically optative"
+   ],
+   "plain_english": "A brāhmaṇa was always wandering in the city, begging."
+  },
+  {
+   "verse": 472,
+   "rows": [
+    {
+     "surface": "jalābhilāṣiṇaṃ",
+     "gloss": "water-desiring",
+     "grounds": "compound jala abhilāṣin",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vipraṃ",
+     "gloss": "brāhmaṇa",
+     "grounds": "vipra accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nijagāda",
+     "gloss": "addressed",
+     "grounds": "verb nijagāda",
+     "morph": "3.sg.act-past"
+    },
+    {
+     "surface": "sarastaṭe",
+     "gloss": "lake-bank",
+     "grounds": "compound saras taṭa",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Whom did someone address on the lake bank?",
+   "premises": [
+    "jalābhilāṣiṇaṃ means water-desiring",
+    "vipraṃ means brāhmaṇa",
+    "nijagāda means addressed",
+    "sarastaṭe means lake bank"
+   ],
+   "inference": "someone addressed a water-desiring brāhmaṇa on the lake bank",
+   "uncertainties": [
+    "the speaker is not explicit in this verse"
+   ],
+   "plain_english": "Someone addressed a water-desiring brāhmaṇa on the lake bank."
+  },
+  {
+   "verse": 473,
+   "rows": [
+    {
+     "surface": "vilokya",
+     "gloss": "having-seen",
+     "grounds": "absolutive vilokya",
+     "morph": "abs"
+    },
+    {
+     "surface": "sahasā",
+     "gloss": "suddenly",
+     "grounds": "indeclinable sahasā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipro",
+     "gloss": "brāhmaṇa",
+     "grounds": "vipro nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "absolutive natvā",
+     "morph": "abs"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "pronoun taṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daṇḍadhāriṇam",
+     "gloss": "staff-bearer",
+     "grounds": "compound daṇḍa dhārin",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What did the brāhmaṇa do after suddenly seeing him?",
+   "premises": [
+    "vilokya means having seen",
+    "sahasā means suddenly",
+    "vipro means brāhmaṇa",
+    "natvā means having bowed",
+    "taṃ means him",
+    "daṇḍadhāriṇam means staff-bearer"
+   ],
+   "inference": "the brāhmaṇa bowed to the staff-bearer after suddenly seeing him",
+   "uncertainties": [
+    "the exact object of vilokya is implicit"
+   ],
+   "plain_english": "The brāhmaṇa suddenly saw him and bowed to the staff-bearer."
+  },
+  {
+   "verse": 474,
+   "rows": [
+    {
+     "surface": "dattvāśīrvādaṃ",
+     "gloss": "having-given-blessing",
+     "grounds": "compound dattvā āśīrvāda",
+     "morph": "abs"
+    },
+    {
+     "surface": "sannyāsī",
+     "gloss": "renouncer",
+     "grounds": "sannyāsī nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "indeclinable bhūyo",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇam",
+     "gloss": "brāhmaṇa",
+     "grounds": "brāhmaṇa accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abravīt",
+     "gloss": "said",
+     "grounds": "verb abravīt",
+     "morph": "3.sg.act-past"
+    }
+   ],
+   "question": "What did the renouncer do after giving a blessing?",
+   "premises": [
+    "dattvāśīrvādaṃ means having given blessing",
+    "sannyāsī means renouncer",
+    "bhūyo means again",
+    "brāhmaṇam means brāhmaṇa",
+    "abravīt means said"
+   ],
+   "inference": "the renouncer gave a blessing and again spoke to the brāhmaṇa",
+   "uncertainties": [
+    "whether dattvāśīrvādaṃ is absolutive compound is implicit"
+   ],
+   "plain_english": "The renouncer gave a blessing and again spoke to the brāhmaṇa."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "madanaiḥ",
+     "gloss": "with-madana-flowers",
+     "grounds": "Instrumental plural noun in a continuing list of ritual offering materials.",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sindhuvāraiḥ",
+     "gloss": "with-sindhuvara-flowers",
+     "grounds": "Instrumental plural noun coordinated with preceding offering materials.",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Coordinating particle linking items in the enumeration.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "durvā",
+     "gloss": "durva-grass",
+     "grounds": "First member of a compound expression referring to grass sprouts; token kept separate as given.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aṅkura",
+     "gloss": "sprout",
+     "grounds": "Second member of a compound expression referring to grass sprouts; token kept separate as given.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "su",
+     "gloss": "very",
+     "grounds": "Intensifying prefixal member qualifying tenderness; token kept separate as given.",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "komalaiḥ",
+     "gloss": "tender",
+     "grounds": "Instrumental plural adjective qualifying the grass sprouts in the offering list.",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which additional floral and vegetal materials are prescribed as suitable ritual offerings?",
+   "premises": [
+    "Madana flowers are included among the prescribed offering materials.",
+    "Sindhuvāra flowers are included among the prescribed offering materials.",
+    "Very tender durvā grass sprouts are included among the prescribed offering materials."
+   ],
+   "inference": "The ritual prescription extends to madana flowers, sindhuvāra flowers, and very tender durvā grass sprouts as acceptable offerings.",
+   "uncertainties": [
+    "The exact botanical identification of madana and sindhuvāra may vary by tradition."
+   ],
+   "plain_english": "And with madana flowers, sindhuvāra flowers, and very tender sprouts of durvā grass."
+  }
+ ]
+}

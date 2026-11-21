@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "dadhatīṃ",
+     "gloss": "bearing",
+     "grounds": "present participle describing the goddess as holding the attributes mentioned in the preceding verses",
+     "morph": "pres.part.acc.sg.f"
+    },
+    {
+     "surface": "saṃsmarennityam",
+     "gloss": "should-remember-always",
+     "grounds": "fused form combining an optative verb of recollection with an indeclinable expressing constancy",
+     "morph": "opt.3.sg.act + (indecl.)"
+    },
+    {
+     "surface": "uttarāmnāyamānitām",
+     "gloss": "northern-tradition-honored",
+     "grounds": "compound adjective indicating the goddess is revered in the northern transmission",
+     "morph": "compound: uttarāmnāya+mānitā; acc.sg.f"
+    }
+   ],
+   "question": "How should the practitioner continually recollect the goddess honored in the northern tradition?",
+   "premises": [
+    "The goddess is described as bearing the previously stated attributes.",
+    "The goddess is honored in the northern tradition.",
+    "The instruction prescribes constant recollection."
+   ],
+   "inference": "Therefore, the practitioner should continually remember the goddess, bearing those attributes, as honored in the northern tradition.",
+   "uncertainties": [
+    "The precise scope of uttarāmnāya within this witness is not specified in the verse."
+   ],
+   "plain_english": "One should constantly remember her, bearing those forms, as honored in the northern tradition."
+  }
+ ]
+}

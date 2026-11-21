@@ -1,0 +1,206 @@
+{
+ "song": "sva-p30",
+ "items": [
+  {
+   "verse": 726,
+   "rows": [
+    {
+     "surface": "pīḍyata",
+     "gloss": "it-is-oppressed",
+     "grounds": "passive present of pīḍ",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "such-is-the-meaning",
+     "grounds": "iti + arthaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is assigned to the oppressed state?",
+   "premises": [
+    "pīḍyata means it is oppressed",
+    "ityarthaḥ gives the intended meaning"
+   ],
+   "inference": "The verse states the meaning is oppression.",
+   "uncertainties": [
+    "exact referent of oppression not specified"
+   ],
+   "plain_english": "It is oppressed; such is the meaning."
+  },
+  {
+   "verse": 727,
+   "rows": [
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "i-will-say",
+     "grounds": "future of vac",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "śeṣa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What remains to be said after this point?",
+   "premises": [
+    "vakṣyāmi means I will say",
+    "śeṣaḥ means remainder"
+   ],
+   "inference": "The remainder is what will be said.",
+   "uncertainties": [
+    "scope of remainder not stated"
+   ],
+   "plain_english": "I will say; thus is the remainder."
+  },
+  {
+   "verse": 728,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaraślokena",
+     "gloss": "by-the-later-verse",
+     "grounds": "uttara + ślokena",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tadāsāratvāt",
+     "gloss": "because-of-its-worthlessness-then",
+     "grounds": "tadā + asāratvāt",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "upekṣyam",
+     "gloss": "to-be-disregarded",
+     "grounds": "upekṣya",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is something to be disregarded by the later verse?",
+   "premises": [
+    "uttaraślokena means by the later verse",
+    "tadāsāratvāt means because of its worthlessness then",
+    "upekṣyam means to be disregarded"
+   ],
+   "inference": "The later verse disregards it because of its worthlessness then.",
+   "uncertainties": [
+    "antecedent of tadā not explicit"
+   ],
+   "plain_english": "And by the later verse, because of its worthlessness then, it is to be disregarded."
+  },
+  {
+   "verse": 729,
+   "rows": [
+    {
+     "surface": "dakṣiṇāyanavajīte",
+     "gloss": "conquered-by-the-southern-course",
+     "grounds": "dakṣiṇāyana + vajīte",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ityabhidhānāt",
+     "gloss": "because-of-the-statement",
+     "grounds": "iti + abhidhānāt",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirṇītam",
+     "gloss": "determined",
+     "grounds": "nirṇīta",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is determined by the statement about the southern course?",
+   "premises": [
+    "dakṣiṇāyanavajīte means conquered by the southern course",
+    "ityabhidhānāt means because of the statement",
+    "nirṇītam means determined"
+   ],
+   "inference": "The matter is determined by that statement.",
+   "uncertainties": [
+    "exact determined matter not stated"
+   ],
+   "plain_english": "Because of the statement 'conquered by the southern course,' thus it is determined."
+  },
+  {
+   "verse": 730,
+   "rows": [
+    {
+     "surface": "kathayet",
+     "gloss": "he-would-tell",
+     "grounds": "potential of kath",
+     "morph": "3.sg.act-pot"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "such-is-the-meaning",
+     "grounds": "iti + arthaḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is given for the act of telling?",
+   "premises": [
+    "kathayet means he would tell",
+    "ityarthaḥ means such is the meaning"
+   ],
+   "inference": "The meaning is that he would tell.",
+   "uncertainties": [
+    "subject and object not specified"
+   ],
+   "plain_english": "He would tell; such is the meaning."
+  },
+  {
+   "verse": 731,
+   "rows": [
+    {
+     "surface": "pūrvavad",
+     "gloss": "as-before",
+     "grounds": "pūrva + vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upalakṣaṇaparam",
+     "gloss": "indicative-only",
+     "grounds": "upalakṣaṇa + param",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the earlier pattern to be understood here?",
+   "premises": [
+    "pūrvavad means as before",
+    "upalakṣaṇaparam means indicative only",
+    "eva means indeed"
+   ],
+   "inference": "As before, it is indeed indicative only.",
+   "uncertainties": [
+    "what is indicated not specified"
+   ],
+   "plain_english": "As before, it is indeed indicative only."
+  }
+ ]
+}

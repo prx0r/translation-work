@@ -1,0 +1,1067 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2501,
+   "rows": [
+    {
+     "surface": "sāvakāśāntaropetaṃ",
+     "gloss": "with-space-interior-endowed",
+     "grounds": "compound fused form",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "maṇḍapena",
+     "gloss": "with-hall",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may a hall be arranged when it is endowed with interior space yet built without a separate hall structure?",
+   "premises": [
+    "The verse lists optional hall arrangements.",
+    "Interior space can be endowed without a separate hall.",
+    "The arrangement remains permissible."
+   ],
+   "inference": "A hall with interior space may be used even without a separate hall structure.",
+   "uncertainties": [
+    "Exact architectural referent of sāvakāśāntaropetaṃ is context-dependent."
+   ],
+   "plain_english": "A hall endowed with interior space may be used even without a separate hall structure."
+  },
+  {
+   "verse": 2502,
+   "rows": [
+    {
+     "surface": "savāraṃ",
+     "gloss": "with-enclosure",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vivāraṃ",
+     "gloss": "without-enclosure",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekānekatalānvitam",
+     "gloss": "with-one-many-stories",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How may an enclosure be planned with either one or many stories?",
+   "premises": [
+    "The verse offers enclosure options.",
+    "One or many stories may be included.",
+    "The choice is optional."
+   ],
+   "inference": "An enclosure may be planned with either one or many stories.",
+   "uncertainties": [
+    "The exact story count is not fixed here."
+   ],
+   "plain_english": "An enclosure may be planned with either one or many stories."
+  },
+  {
+   "verse": 2503,
+   "rows": [
+    {
+     "surface": "caturaṃśe",
+     "gloss": "in-four-parts",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṃśaṃ",
+     "gloss": "two-parts",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pañcatribhāgakam",
+     "gloss": "five-three-parts",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What proportional divisions are permitted for the hall or house plan?",
+   "premises": [
+    "The verse lists several part divisions.",
+    "Four, three, two, and five-three divisions appear.",
+    "The divisions are alternatives."
+   ],
+   "inference": "The plan may use several proportional divisions.",
+   "uncertainties": [
+    "The exact base measure is not stated in this verse."
+   ],
+   "plain_english": "The plan may use several proportional divisions."
+  },
+  {
+   "verse": 2504,
+   "rows": [
+    {
+     "surface": "saptāṃśe",
+     "gloss": "in-seven-parts",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "pañcabhāgādidvibhāgāntam",
+     "gloss": "five-parts-beginning-two-parts-ending",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What range of part divisions extends from five parts to two parts?",
+   "premises": [
+    "The verse gives a seven-part context.",
+    "It mentions five parts through two parts.",
+    "The range is optional."
+   ],
+   "inference": "The division may range from five parts to two parts.",
+   "uncertainties": [
+    "The exact application of the range is not specified."
+   ],
+   "plain_english": "The division may range from five parts to two parts."
+  },
+  {
+   "verse": 2505,
+   "rows": [
+    {
+     "surface": "rudrabhāgāddvibhāgāntaṃ",
+     "gloss": "from-eleven-parts-to-two-parts-ending",
+     "grounds": "compound with ablative sense",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "bhāgān",
+     "gloss": "parts",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl.m"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "v.abs.√kṛ"
+    },
+    {
+     "surface": "tribhāgataḥ",
+     "gloss": "from-three-parts",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "How are parts to be made from eleven down to two, beginning from three parts?",
+   "premises": [
+    "The verse describes making parts.",
+    "The range runs from eleven to two.",
+    "Three parts is the starting point."
+   ],
+   "inference": "Parts are to be made from eleven down to two, starting from three parts.",
+   "uncertainties": [
+    "The precise counting method is not fully explicit."
+   ],
+   "plain_english": "Parts are to be made from eleven down to two, starting from three parts."
+  },
+  {
+   "verse": 2506,
+   "rows": [
+    {
+     "surface": "ekadvitricatuḥśālāsāmānyam",
+     "gloss": "one-two-three-four-halls-general",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "past participle",
+     "morph": "v.past.part.√īr"
+    }
+   ],
+   "question": "What general rule is declared for halls with one, two, three, or four sides?",
+   "premises": [
+    "The verse declares a general rule.",
+    "It covers one through four halls.",
+    "The rule is stated as declared."
+   ],
+   "inference": "A general rule is declared for halls with one through four sides.",
+   "uncertainties": [
+    "The exact rule content is summarized, not expanded."
+   ],
+   "plain_english": "A general rule is declared for halls with one through four sides."
+  },
+  {
+   "verse": 2507,
+   "rows": [
+    {
+     "surface": "maulikasya",
+     "gloss": "of-the-maulika",
+     "grounds": "genitive",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistāraṃ",
+     "gloss": "width",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vasubhāgaiḥ",
+     "gloss": "by-eight-parts",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "vibhājayet",
+     "gloss": "one-should-divide",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√vibhāj"
+    }
+   ],
+   "question": "How should the width of the maulika be divided?",
+   "premises": [
+    "The verse concerns the maulika width.",
+    "It prescribes division by eight parts.",
+    "The division is normative."
+   ],
+   "inference": "The width of the maulika should be divided by eight parts.",
+   "uncertainties": [
+    "The term maulika is not defined in this verse."
+   ],
+   "plain_english": "The width of the maulika should be divided by eight parts."
+  },
+  {
+   "verse": 2508,
+   "rows": [
+    {
+     "surface": "śālāvyāso",
+     "gloss": "hall-width",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.m"
+    },
+    {
+     "surface": "prāsādavat",
+     "gloss": "like-temple",
+     "grounds": "comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alaṅkṛtam",
+     "gloss": "adorned",
+     "grounds": "past participle",
+     "morph": "v.past.part.√alaṅkṛ"
+    }
+   ],
+   "question": "How should hall width be adorned in relation to a temple?",
+   "premises": [
+    "The verse concerns hall width.",
+    "It is divided by two parts.",
+    "It is adorned like a temple."
+   ],
+   "inference": "Hall width should be divided by two parts and adorned like a temple.",
+   "uncertainties": [
+    "The exact adornment details are not given."
+   ],
+   "plain_english": "Hall width should be divided by two parts and adorned like a temple."
+  },
+  {
+   "verse": 2509,
+   "rows": [
+    {
+     "surface": "ekānekatalopetam",
+     "gloss": "with-one-many-stories",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "adhiṣṭhānādiśobhitam",
+     "gloss": "with-base-etc-beautified",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How should a structure be beautified from its base upward with one or many stories?",
+   "premises": [
+    "The verse describes a beautified structure.",
+    "It includes one or many stories.",
+    "The base and above are beautified."
+   ],
+   "inference": "A structure should be beautified from its base upward with one or many stories.",
+   "uncertainties": [
+    "The exact base elements are summarized by etc."
+   ],
+   "plain_english": "A structure should be beautified from its base upward with one or many stories."
+  },
+  {
+   "verse": 2510,
+   "rows": [
+    {
+     "surface": "merukāntam",
+     "gloss": "meru-beautiful",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "v.past.part.√pravac"
+    },
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yogyakam",
+     "gloss": "suitable",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "For whom is this meru-like structure declared suitable?",
+   "premises": [
+    "The verse declares a structure.",
+    "It is meru-like and beautiful.",
+    "It is suitable for all."
+   ],
+   "inference": "This meru-like structure is declared suitable for all.",
+   "uncertainties": [
+    "The scope of all is not further defined."
+   ],
+   "plain_english": "This meru-like structure is declared suitable for all."
+  },
+  {
+   "verse": 2511,
+   "rows": [
+    {
+     "surface": "vāram",
+     "gloss": "enclosure",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ekāṃśataḥ",
+     "gloss": "from-one-part",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√kṛ"
+    },
+    {
+     "surface": "dvyaṃśastu",
+     "gloss": "two-parts-but",
+     "grounds": "compound with particle",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "gṛhavistaraḥ",
+     "gloss": "house-width",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How should enclosure and house width be proportioned?",
+   "premises": [
+    "The verse concerns enclosure making.",
+    "One part is used for enclosure.",
+    "Two parts belong to house width."
+   ],
+   "inference": "Enclosure should be one part and house width two parts.",
+   "uncertainties": [
+    "The total unit of parts is not specified."
+   ],
+   "plain_english": "Enclosure should be one part and house width two parts."
+  },
+  {
+   "verse": 2512,
+   "rows": [
+    {
+     "surface": "dvyaṅkaṇaṃ",
+     "gloss": "two-courtyards",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vāram",
+     "gloss": "enclosure",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ekāṃśam",
+     "gloss": "one-part",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "arkāṃśe",
+     "gloss": "in-twelve-parts",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-plan",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√parikalp"
+    }
+   ],
+   "question": "How should a two-courtyard enclosure be planned in twelve parts?",
+   "premises": [
+    "The verse concerns a two-courtyard enclosure.",
+    "It is one part in twelve.",
+    "Planning is prescribed."
+   ],
+   "inference": "A two-courtyard enclosure should be planned as one part in twelve.",
+   "uncertainties": [
+    "The relation of courtyards to the part is not detailed."
+   ],
+   "plain_english": "A two-courtyard enclosure should be planned as one part in twelve."
+  },
+  {
+   "verse": 2513,
+   "rows": [
+    {
+     "surface": "maulibhadram",
+     "gloss": "mauli-bhadra",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "the-rest",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pūrvavad",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "v.past.part.√īr"
+    }
+   ],
+   "question": "What is declared for the maulibhadra and the rest by name?",
+   "premises": [
+    "The verse names maulibhadra.",
+    "The rest is as before.",
+    "It is declared by name."
+   ],
+   "inference": "The maulibhadra and the rest are declared by name as before.",
+   "uncertainties": [
+    "The exact prior rule is not restated."
+   ],
+   "plain_english": "The maulibhadra and the rest are declared by name as before."
+  },
+  {
+   "verse": 2514,
+   "rows": [
+    {
+     "surface": "sālindam",
+     "gloss": "with-verandah",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "anālindaṃ",
+     "gloss": "without-verandah",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triśālaṃ",
+     "gloss": "three-halled",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-plan",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√parikalp"
+    }
+   ],
+   "question": "How may a three-halled structure be planned with or without a verandah?",
+   "premises": [
+    "The verse concerns a three-halled structure.",
+    "It may have a verandah or not.",
+    "Planning is prescribed."
+   ],
+   "inference": "A three-halled structure may be planned with or without a verandah.",
+   "uncertainties": [
+    "The verandah dimensions are not given."
+   ],
+   "plain_english": "A three-halled structure may be planned with or without a verandah."
+  },
+  {
+   "verse": 2515,
+   "rows": [
+    {
+     "surface": "aṣṭādidvādaśāntaṃ",
+     "gloss": "eight-beginning-twelve-ending",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīce",
+     "gloss": "below",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "one-should-plan",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√parikalp"
+    }
+   ],
+   "question": "How should the eight-to-twelve range be planned below?",
+   "premises": [
+    "The verse gives an eight-to-twelve range.",
+    "It specifies below.",
+    "Planning is prescribed."
+   ],
+   "inference": "The eight-to-twelve range should be planned below.",
+   "uncertainties": [
+    "The exact lower placement is not detailed."
+   ],
+   "plain_english": "The eight-to-twelve range should be planned below."
+  },
+  {
+   "verse": 2516,
+   "rows": [
+    {
+     "surface": "ādityam",
+     "gloss": "twelve",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "anvoḥ",
+     "gloss": "of-the-two",
+     "grounds": "genitive dual",
+     "morph": "pron.gen.du.m"
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bhāgaṃ",
+     "gloss": "part",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "locative",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-plan",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√kalp"
+    }
+   ],
+   "question": "How should twelve and one part be planned in the middle of two?",
+   "premises": [
+    "The verse concerns two entities.",
+    "Twelve and one part are mentioned.",
+    "The middle is specified."
+   ],
+   "inference": "Twelve and one part should be planned in the middle of two.",
+   "uncertainties": [
+    "The exact two entities are not identified."
+   ],
+   "plain_english": "Twelve and one part should be planned in the middle of two."
+  },
+  {
+   "verse": 2517,
+   "rows": [
+    {
+     "surface": "bījabhāgaḥ",
+     "gloss": "seed-part",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "samākhyāto",
+     "gloss": "called",
+     "grounds": "past participle",
+     "morph": "v.past.part.√samākhyā"
+    },
+    {
+     "surface": "jātiḥ",
+     "gloss": "class",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "dvyaṃśādhikā",
+     "gloss": "by-two-parts-greater",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is the seed part called a class greater by two parts?",
+   "premises": [
+    "The verse names the seed part.",
+    "It is called a class.",
+    "It is greater by two parts."
+   ],
+   "inference": "The seed part is called a class because it is greater by two parts.",
+   "uncertainties": [
+    "The exact class system is not explained here."
+   ],
+   "plain_english": "The seed part is called a class because it is greater by two parts."
+  },
+  {
+   "verse": 2518,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśādhikam",
+     "gloss": "by-eight-parts-greater",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ābhāsaṃ",
+     "gloss": "semblance",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sarvatobhadrasaṃjñake",
+     "gloss": "in-sarvatobhadra-named",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    }
+   ],
+   "question": "What semblance greater by eight parts appears in the sarvatobhadra?",
+   "premises": [
+    "The verse concerns sarvatobhadra.",
+    "It mentions a semblance.",
+    "The semblance is greater by eight parts."
+   ],
+   "inference": "A semblance greater by eight parts appears in the sarvatobhadra.",
+   "uncertainties": [
+    "The exact semblance is not described."
+   ],
+   "plain_english": "A semblance greater by eight parts appears in the sarvatobhadra."
+  },
+  {
+   "verse": 2519,
+   "rows": [
+    {
+     "surface": "bījajātyādisaṃbhūtā",
+     "gloss": "from-seed-class-etc-arisen",
+     "grounds": "compound",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "saṃkhyā",
+     "gloss": "number",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ṣaṣṭiḥ",
+     "gloss": "sixty",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "v.past.part.√smṛ"
+    }
+   ],
+   "question": "What number is remembered as arising from seed, class, and related factors?",
+   "premises": [
+    "The verse concerns a remembered number.",
+    "It arises from seed and class.",
+    "The number is sixty."
+   ],
+   "inference": "The remembered number arising from seed and class is sixty.",
+   "uncertainties": [
+    "The full list of factors is abbreviated by etc."
+   ],
+   "plain_english": "The remembered number arising from seed and class is sixty."
+  },
+  {
+   "verse": 2520,
+   "rows": [
+    {
+     "surface": "samantāt",
+     "gloss": "on-all-sides",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mārgaḥ",
+     "gloss": "passage",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ekāṃśo",
+     "gloss": "one-part",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "dvibhāgo",
+     "gloss": "two-parts",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "gehavistaraḥ",
+     "gloss": "house-width",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How should passage and house width be proportioned on all sides?",
+   "premises": [
+    "The verse concerns all sides.",
+    "Passage is one part.",
+    "House width is two parts."
+   ],
+   "inference": "On all sides, passage should be one part and house width two parts.",
+   "uncertainties": [
+    "The total measure is not specified."
+   ],
+   "plain_english": "On all sides, passage should be one part and house width two parts."
+  },
+  {
+   "verse": 2521,
+   "rows": [
+    {
+     "surface": "bhadramadhye",
+     "gloss": "in-projection-middle",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "sabhāsyaṃ",
+     "gloss": "with-hall",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√as"
+    },
+    {
+     "surface": "catuṣkaṃ",
+     "gloss": "quartet",
+     "grounds": "nominative",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "karṇakūṭakam",
+     "gloss": "corner-pavilion",
+     "grounds": "compound",
+     "morph": "n.nom.sg.n"
+    }
+   ],
+   "question": "What should be in the middle of the projection with a hall?",
+   "premises": [
+    "The verse concerns the projection middle.",
+    "A hall is included.",
+    "A quartet corner pavilion is mentioned."
+   ],
+   "inference": "In the middle of the projection with a hall there should be a quartet corner pavilion.",
+   "uncertainties": [
+    "The exact spatial relation is compressed."
+   ],
+   "plain_english": "In the middle of the projection with a hall there should be a quartet corner pavilion."
+  },
+  {
+   "verse": 2522,
+   "rows": [
+    {
+     "surface": "pūrvasmin",
+     "gloss": "in-the-east",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "aparasmin",
+     "gloss": "in-the-west",
+     "grounds": "locative",
+     "morph": "n.loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāmyāvāsaḥ",
+     "gloss": "master-residence",
+     "grounds": "compound",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "praśasyate",
+     "gloss": "is-recommended",
+     "grounds": "passive present",
+     "morph": "v.pass.3.sg.√praśaṃs"
+    }
+   ],
+   "question": "Where is the master residence recommended?",
+   "premises": [
+    "The verse concerns master residence.",
+    "East and west are options.",
+    "It is recommended."
+   ],
+   "inference": "The master residence is recommended in the east or west.",
+   "uncertainties": [
+    "No preference between east and west is stated."
+   ],
+   "plain_english": "The master residence is recommended in the east or west."
+  },
+  {
+   "verse": 2523,
+   "rows": [
+    {
+     "surface": "bahirjālakakuḍyāḍhyam",
+     "gloss": "outside-lattice-wall-endowed",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "inside",
+     "grounds": "accusative",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "lūtapādakam",
+     "gloss": "with-hidden-pillars",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "How should the outer lattice wall and inner hidden pillars be arranged?",
+   "premises": [
+    "The verse concerns outer and inner features.",
+    "The outside is lattice-wall-endowed.",
+    "The inside has hidden pillars."
+   ],
+   "inference": "The outside should be lattice-wall-endowed and the inside should have hidden pillars.",
+   "uncertainties": [
+    "The exact pillar placement is not detailed."
+   ],
+   "plain_english": "The outside should be lattice-wall-endowed and the inside should have hidden pillars."
+  },
+  {
+   "verse": 2524,
+   "rows": [
+    {
+     "surface": "samastambhaṃ",
+     "gloss": "with-equal-pillars",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samadvāraṃ",
+     "gloss": "with-equal-doors",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samavaṃśaṃ",
+     "gloss": "with-equal-beams",
+     "grounds": "compound",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "optative",
+     "morph": "v.opt.3.sg.√kṛ"
+    }
+   ],
+   "question": "What equality should be maintained in pillars, doors, and beams?",
+   "premises": [
+    "The verse concerns construction.",
+    "Pillars, doors, and beams are mentioned.",
+    "They should be equal."
+   ],
+   "inference": "Pillars, doors, and beams should be made equal.",
+   "uncertainties": [
+    "The exact equality standard is not specified."
+   ],
+   "plain_english": "Pillars, doors, and beams should be made equal."
+  }
+ ]
+}

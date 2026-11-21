@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2475,
+   "rows": [
+    {
+     "surface": "putrāptyai",
+     "gloss": "for-son-obtaining",
+     "grounds": "dative of purpose for obtaining a son",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sarvarakṣāyai",
+     "gloss": "for-all-protection",
+     "grounds": "dative of purpose for protection of all",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular active of root pūj",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative plural referring to previously named recipients",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "tatkramāt",
+     "gloss": "that-order",
+     "grounds": "ablative singular indicating prescribed sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "For what purposes should one worship them in that order?",
+   "premises": [
+    "Worship is prescribed for son-obtaining.",
+    "Worship is prescribed for all-protection.",
+    "Worship follows the stated order."
+   ],
+   "inference": "Ordered worship secures progeny and universal protection.",
+   "uncertainties": [
+    "The antecedent of teṣu is not explicit in this excerpt."
+   ],
+   "plain_english": "One should worship them in that order for obtaining a son and for all protection."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p58",
+ "items": [
+  {
+   "verse": 1450,
+   "rows": [
+    {
+     "surface": "sāmānyāt",
+     "gloss": "generally",
+     "grounds": "expresses the general rule or common case",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sarvapīṭhāni",
+     "gloss": "all-platforms",
+     "grounds": "refers to all the platforms mentioned in the ritual arrangement",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kvacidanyamate",
+     "gloss": "in-some-other-view",
+     "grounds": "fused form kvacit + anyamate; indicates an alternative authoritative opinion",
+     "morph": "indecl.+n.loc.sg"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "marks a different arrangement or rule",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Do all platforms follow a general arrangement or admit an alternative configuration in another view?",
+   "premises": [
+    "A general rule applies to all platforms.",
+    "Some other authoritative view exists regarding their arrangement.",
+    "That alternative view prescribes a different configuration."
+   ],
+   "inference": "Therefore, while all platforms are generally arranged in one way, an alternative arrangement is accepted according to another view.",
+   "uncertainties": [
+    "The specific nature of the alternative arrangement indicated by anyathā is not specified in this verse."
+   ],
+   "plain_english": "Generally all platforms are arranged in the same way, but according to some other view they are arranged otherwise."
+  }
+ ]
+}

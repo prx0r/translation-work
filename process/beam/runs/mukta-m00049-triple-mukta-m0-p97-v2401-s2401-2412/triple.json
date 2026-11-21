@@ -1,0 +1,644 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2401,
+   "rows": [
+    {
+     "surface": "sarva+",
+     "gloss": "all",
+     "grounds": "compound member all",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "accomplishment",
+     "grounds": "object of obtains",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "avāpnoti",
+     "gloss": "obtains",
+     "grounds": "verb root āp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "mānavaḥ",
+     "gloss": "human",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaulikārcanāt",
+     "gloss": "from-kaula-worship",
+     "grounds": "ablative source",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What result does a human obtain from kaula worship?",
+   "premises": [
+    "kaula worship is the source",
+    "a human obtains all accomplishment"
+   ],
+   "inference": "kaula worship yields complete accomplishment for the practitioner",
+   "uncertainties": [
+    "compound boundary of kaulikārcanāt"
+   ],
+   "plain_english": "A human obtains all accomplishment from kaula worship."
+  },
+  {
+   "verse": 2402,
+   "rows": [
+    {
+     "surface": "sampūrṇa+",
+     "gloss": "complete",
+     "grounds": "compound member complete",
+     "morph": "compound"
+    },
+    {
+     "surface": "kārya+",
+     "gloss": "task",
+     "grounds": "compound member task",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "conditional verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "ekayā",
+     "gloss": "by-one",
+     "grounds": "instrumental one",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "kaulikārcayā",
+     "gloss": "kaula-worship",
+     "grounds": "instrumental worship",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How can complete task accomplishment arise?",
+   "premises": [
+    "one kaula worship is sufficient",
+    "complete task accomplishment would arise"
+   ],
+   "inference": "a single kaula worship can bring complete accomplishment of tasks",
+   "uncertainties": [
+    "compound boundary of kaulikārcayā"
+   ],
+   "plain_english": "Complete accomplishment of tasks would arise from one kaula worship."
+  },
+  {
+   "verse": 2403,
+   "rows": [
+    {
+     "surface": "preta+",
+     "gloss": "for-departed",
+     "grounds": "compound member departed",
+     "morph": "compound"
+    },
+    {
+     "surface": "svargāya",
+     "gloss": "heaven",
+     "grounds": "dative goal",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-marker",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "89",
+     "gloss": "89",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be given for the departed to reach heaven?",
+   "premises": [
+    "the departed is the recipient",
+    "heaven is the goal",
+    "one should give"
+   ],
+   "inference": "a gift is to be given for the departed's heavenly attainment",
+   "uncertainties": [
+    "exact gift unspecified"
+   ],
+   "plain_english": "One should give for the departed to reach heaven."
+  },
+  {
+   "verse": 2404,
+   "rows": [
+    {
+     "surface": "tat+",
+     "gloss": "for-attaining",
+     "grounds": "compound member that",
+     "morph": "compound"
+    },
+    {
+     "surface": "svara+",
+     "gloss": "that-state",
+     "grounds": "compound member state",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāptaye",
+     "gloss": "attainment",
+     "grounds": "dative purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "preta+",
+     "gloss": "for-departed",
+     "grounds": "compound member departed",
+     "morph": "compound"
+    },
+    {
+     "surface": "svarga+",
+     "gloss": "heaven",
+     "grounds": "compound member heaven",
+     "morph": "compound"
+    },
+    {
+     "surface": "avāptaye",
+     "gloss": "attainment",
+     "grounds": "dative purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "||",
+     "gloss": "verse-marker",
+     "grounds": "punctuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "91",
+     "gloss": "91",
+     "grounds": "verse number",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What two attainments are linked to the departed and heaven?",
+   "premises": [
+    "that state attainment is one goal",
+    "departed heaven attainment is another goal"
+   ],
+   "inference": "the verse links attainment of that state with the departed's attainment of heaven",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "For attaining that state and for the departed's attainment of heaven."
+  },
+  {
+   "verse": 2405,
+   "rows": [
+    {
+     "surface": "bubhukṣitān",
+     "gloss": "hungry",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṣudhitān",
+     "gloss": "and-hungry",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bubhukṣitān",
+     "gloss": "those-desiring-food",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṣudhitān",
+     "gloss": "those-afflicted-by-hunger",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which hungry persons are to be fed?",
+   "premises": [
+    "hungry persons are named",
+    "those desiring food are named",
+    "those afflicted by hunger are named"
+   ],
+   "inference": "the verse emphasizes feeding hungry and food-desiring persons",
+   "uncertainties": [
+    "repeated terms may be variant readings"
+   ],
+   "plain_english": "The hungry, those desiring food, and those afflicted by hunger."
+  },
+  {
+   "verse": 2406,
+   "rows": [
+    {
+     "surface": "asitāṃ",
+     "gloss": "dark",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pañcamīṃ",
+     "gloss": "fifth-day",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiva+",
+     "gloss": "śiva-uttered",
+     "grounds": "compound member śiva",
+     "morph": "compound"
+    },
+    {
+     "surface": "uditaḥ",
+     "gloss": "uttered",
+     "grounds": "participle",
+     "morph": "m.nom.sg.past-part"
+    }
+   ],
+   "question": "Until when does this śiva-uttered rule apply?",
+   "premises": [
+    "the rule is śiva-uttered",
+    "it applies until the dark fifth day"
+   ],
+   "inference": "the prescribed rule remains in force until the dark fifth day",
+   "uncertainties": [
+    "compound boundary of śiva+"
+   ],
+   "plain_english": "This rule uttered by Śiva applies until the dark fifth day."
+  },
+  {
+   "verse": 2407,
+   "rows": [
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "aparihāryāṇi",
+     "gloss": "not-to-be-neglected",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "karma+",
+     "gloss": "action",
+     "grounds": "compound member action",
+     "morph": "compound"
+    },
+    {
+     "surface": "arthī",
+     "gloss": "desiring",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartum",
+     "gloss": "to-do",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "arhati",
+     "gloss": "is-fit",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Who is fit to perform actions that cannot be neglected?",
+   "premises": [
+    "actions are not to be neglected",
+    "one desiring action is fit to do them"
+   ],
+   "inference": "a person desiring action is fit to perform unavoidable actions",
+   "uncertainties": [
+    "compound boundary of karma+"
+   ],
+   "plain_english": "Actions not to be neglected should be done by one desiring to act."
+  },
+  {
+   "verse": 2408,
+   "rows": [
+    {
+     "surface": "sampūjyā",
+     "gloss": "having-worshipped",
+     "grounds": "gerund",
+     "morph": "ger"
+    },
+    {
+     "surface": "ādyāṃ",
+     "gloss": "the-primeval-goddess",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pañca+",
+     "gloss": "with-five-elements",
+     "grounds": "compound member five",
+     "morph": "compound"
+    },
+    {
+     "surface": "tattvaiḥ",
+     "gloss": "with-elements",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kaulikaḥ",
+     "gloss": "kaula-practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should the kaula practitioner do after worshipping the primeval goddess?",
+   "premises": [
+    "the primeval goddess is worshipped",
+    "the kaula practitioner should do these with five elements"
+   ],
+   "inference": "after worship, the kaula practitioner performs these rites with the five elements",
+   "uncertainties": [
+    "compound boundary of pañca+"
+   ],
+   "plain_english": "Having worshipped the primeval goddess, the kaula practitioner should do these with the five elements."
+  },
+  {
+   "verse": 2409,
+   "rows": [
+    {
+     "surface": "dhyāyan",
+     "gloss": "meditating-on",
+     "grounds": "participle",
+     "morph": "pres-part"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "participle",
+     "morph": "pres-part"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "gerund",
+     "morph": "ger"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "yathā+",
+     "gloss": "as",
+     "grounds": "compound member as",
+     "morph": "compound"
+    },
+    {
+     "surface": "āmati",
+     "gloss": "one-thinks-fit",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How should one proceed after meditating on the goddess and remembering the mantra?",
+   "premises": [
+    "one meditates on the goddess",
+    "one remembers the mantra",
+    "one bows and goes as one thinks fit"
+   ],
+   "inference": "after meditation, mantra remembrance, and bowing, one may go as deemed fit",
+   "uncertainties": [
+    "compound boundary of yathā+"
+   ],
+   "plain_english": "Meditating on the goddess, remembering the mantra, and bowing, one should go as one thinks fit."
+  },
+  {
+   "verse": 2410,
+   "rows": [
+    {
+     "surface": "tat+",
+     "gloss": "by-that",
+     "grounds": "compound member that",
+     "morph": "compound"
+    },
+    {
+     "surface": "tat+",
+     "gloss": "by-that",
+     "grounds": "compound member that",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalpa+",
+     "gloss": "kalpa-stated",
+     "grounds": "compound member kalpa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ukta+",
+     "gloss": "by-method",
+     "grounds": "compound member stated",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "instrumental singular",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dhyāna+",
+     "gloss": "meditation",
+     "grounds": "compound member meditation",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjāṃ",
+     "gloss": "worship",
+     "grounds": "accusative feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "By what method should meditation and worship be performed?",
+   "premises": [
+    "the method is stated by that kalpa",
+    "meditation and worship should be performed"
+   ],
+   "inference": "meditation and worship are to be performed by the method stated in that kalpa",
+   "uncertainties": [
+    "compound boundaries"
+   ],
+   "plain_english": "By that method stated in that kalpa, one should perform meditation and worship."
+  },
+  {
+   "verse": 2411,
+   "rows": [
+    {
+     "surface": "kaulārcanaṃ",
+     "gloss": "kaula-worship",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇāñ+",
+     "gloss": "and-offering",
+     "grounds": "compound member offering",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund",
+     "morph": "ger"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "What completes the rite after kaula worship and offering?",
+   "premises": [
+    "kaula worship and offering are done",
+    "the rite should be completed"
+   ],
+   "inference": "after performing kaula worship and offering, one should complete the rite",
+   "uncertainties": [
+    "compound boundary of dakṣiṇāñ+"
+   ],
+   "plain_english": "Having done kaula worship and offering, one should complete the rite."
+  },
+  {
+   "verse": 2412,
+   "rows": [
+    {
+     "surface": "uddeśyam",
+     "gloss": "to-be-designated",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sāmānyo",
+     "gloss": "general",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "is-declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg.past-part"
+    }
+   ],
+   "question": "What general rule is declared for worshipping the designated deity?",
+   "premises": [
+    "the designated deity is to be worshipped",
+    "the general rule is declared"
+   ],
+   "inference": "the declared general rule is to worship the designated deity",
+   "uncertainties": [
+    "compound boundary of uddeśyam"
+   ],
+   "plain_english": "The general rule declared is to worship the designated deity."
+  }
+ ]
+}

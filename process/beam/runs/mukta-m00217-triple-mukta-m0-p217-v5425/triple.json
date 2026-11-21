@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p217",
+ "items": [
+  {
+   "verse": 5425,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "manner adverb qualifying the performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatakratūn",
+     "gloss": "hundred-sacrifices",
+     "grounds": "object of the gerund",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to the fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or merit obtained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samavāpnuyāt",
+     "gloss": "one-would-obtain",
+     "grounds": "potential result of the action",
+     "morph": "3.sg.opt.act (sam-ava-√āp)"
+    }
+   ],
+   "question": "What fruit is gained by properly performing a hundred sacrifices?",
+   "premises": [
+    "A hundred sacrifices may be properly performed.",
+    "Such performance yields a specific fruit.",
+    "This fruit can be obtained as a result."
+   ],
+   "inference": "Properly performing a hundred sacrifices produces a fruit that one would obtain.",
+   "uncertainties": [],
+   "plain_english": "One would obtain the fruit that comes from properly performing a hundred sacrifices."
+  }
+ ]
+}

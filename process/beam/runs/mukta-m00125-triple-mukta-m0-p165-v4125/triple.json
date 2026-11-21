@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p165",
+ "items": [
+  {
+   "verse": 4125,
+   "rows": [
+    {
+     "surface": "liṅgasaṃsthāpanasyoktāvartmanā",
+     "gloss": "by-path-stated-for-liṅga-installation",
+     "grounds": "Fused compound: liṅga-saṃsthāpanasya (of liṅga-installation) + ukta (stated) + vartmanā (by-path); instrumental expresses the means or procedure.",
+     "morph": "liṅga-saṃsthāpana+gen-ukta-vartman+inst.sg.n"
+    },
+    {
+     "surface": "sakalāṃ",
+     "gloss": "entire",
+     "grounds": "Qualifies kriyām as the whole or complete rite.",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kriyām",
+     "gloss": "rite",
+     "grounds": "Object of the implied action of performing, continuing the ritual instruction from the preceding verses.",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "Which prescribed procedure governs the performance of the entire ritual?",
+   "premises": [
+    "A procedure is stated for liṅga installation.",
+    "The entire ritual is the object to be performed.",
+    "The stated procedure serves as the governing path."
+   ],
+   "inference": "The entire ritual is to be performed according to the procedure stated for liṅga installation.",
+   "uncertainties": [
+    "The governing verb is implied from the preceding verses rather than expressed in this verse."
+   ],
+   "plain_english": "One should perform the entire rite by the path prescribed for the installation of the liṅga."
+  }
+ ]
+}

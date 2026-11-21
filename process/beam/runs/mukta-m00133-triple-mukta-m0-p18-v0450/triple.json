@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "indeclinable qualifier indicating diversity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpa",
+     "gloss": "flower",
+     "grounds": "first member of compound describing material",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mayaiḥ",
+     "gloss": "made-of",
+     "grounds": "final member of compound; instrumental plural agreeing with hāraiḥ",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "hāraiḥ",
+     "gloss": "with-garlands",
+     "grounds": "instrumental plural noun denoting garlands accompanying the offering",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śukra",
+     "gloss": "musk",
+     "grounds": "first member of compound listing fragrant substances",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-other",
+     "grounds": "member of compound indicating additional similar items",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "member of compound specifying scent substances",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "past participle qualifying the offering described in context",
+     "morph": "n.nom.sg.ppp.sam√yuj"
+    }
+   ],
+   "question": "What floral garlands and fragrant substances adorn the offering presented to the goddess?",
+   "premises": [
+    "The offering is accompanied by garlands made of various flowers.",
+    "The offering is endowed with musk and other fragrances.",
+    "These adornments specify the material richness of the ritual presentation."
+   ],
+   "inference": "The offering to the goddess is richly adorned with diverse flower garlands and fragrant substances such as musk.",
+   "uncertainties": [
+    "The exact range of substances included by śukra-ādi is not specified."
+   ],
+   "plain_english": "The offering is endowed with garlands made of various flowers and with musk and other fragrances."
+  }
+ ]
+}

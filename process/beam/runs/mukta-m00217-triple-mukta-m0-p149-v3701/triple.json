@@ -1,0 +1,1175 @@
+{
+ "song": "mukta-m0-p149",
+ "items": [
+  {
+   "verse": 3701,
+   "rows": [
+    {
+     "surface": "suranātha",
+     "gloss": "lord-of-gods",
+     "grounds": "epithet/name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātā",
+     "gloss": "renowned",
+     "grounds": "describes the deity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nagaretaradevatā",
+     "gloss": "deity-of-other-city",
+     "grounds": "compound: nagara+itara+devatā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which renowned deity is known by the name Suranātha in another city?",
+   "premises": [
+    "A deity bears the name Suranātha.",
+    "This deity is renowned.",
+    "This deity belongs to another city."
+   ],
+   "inference": "The renowned deity of another city is called Suranātha.",
+   "uncertainties": [
+    "The specific city or local tradition is not identified."
+   ],
+   "plain_english": "The deity of another city is renowned under the name Suranātha."
+  },
+  {
+   "verse": 3702,
+   "rows": [
+    {
+     "surface": "kāverī",
+     "gloss": "kaveri",
+     "grounds": "river name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "narmadā",
+     "gloss": "narmada",
+     "grounds": "river name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "ca + eva fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṅgā",
+     "gloss": "ganga",
+     "grounds": "river name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yamunā",
+     "gloss": "yamuna",
+     "grounds": "river name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states the naming",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "By what sacred river names is this goddess or power called?",
+   "premises": [
+    "The names Kāverī and Narmadā are given.",
+    "The names Gaṅgā and Yamunā are given.",
+    "These names are spoken as her appellations."
+   ],
+   "inference": "She is called Kāverī, Narmadā, Gaṅgā, and Yamunā.",
+   "uncertainties": [],
+   "plain_english": "She is called Kāverī, Narmadā, Gaṅgā, and indeed Yamunā."
+  },
+  {
+   "verse": 3703,
+   "rows": [
+    {
+     "surface": "trailokye",
+     "gloss": "in-three-worlds",
+     "grounds": "compound: tri+loka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevī",
+     "gloss": "great-goddess",
+     "grounds": "compound: mahā+devī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "strīnāmnī",
+     "gloss": "woman-named",
+     "grounds": "compound: strī+nāman",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakāśitā",
+     "gloss": "manifested",
+     "grounds": "describes revelation",
+     "morph": "f.nom.sg (past participle)"
+    }
+   ],
+   "question": "How is the great goddess bearing a woman's name manifested in the three worlds?",
+   "premises": [
+    "A great goddess is manifested.",
+    "She bears a woman's name.",
+    "Her manifestation extends through the three worlds."
+   ],
+   "inference": "The woman-named great goddess is manifested throughout the three worlds.",
+   "uncertainties": [
+    "The specific woman's name is not stated in this verse."
+   ],
+   "plain_english": "The great goddess, bearing a woman's name, is manifested even in the three worlds."
+  },
+  {
+   "verse": 3704,
+   "rows": [
+    {
+     "surface": "suvarṇarekhiṇī",
+     "gloss": "golden-lined",
+     "grounds": "compound: suvarṇa+rekhin",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "states designation",
+     "morph": "f.nom.sg (past participle)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "mantric knowledge or goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-spoken",
+     "grounds": "states naming",
+     "morph": "3.sg.pass-pres √vac"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What knowledge is declared and spoken of as Suvarṇarekhiṇī?",
+   "premises": [
+    "A knowledge is declared as Suvarṇarekhiṇī.",
+    "That same knowledge is spoken of.",
+    "The designation is affirmed emphatically."
+   ],
+   "inference": "The knowledge known as Suvarṇarekhiṇī is the one declared and spoken of.",
+   "uncertainties": [],
+   "plain_english": "The knowledge that is declared and indeed spoken of is Suvarṇarekhiṇī."
+  },
+  {
+   "verse": 3705,
+   "rows": [
+    {
+     "surface": "kurukullā",
+     "gloss": "kurukulla",
+     "grounds": "name of a goddess or vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātā",
+     "gloss": "renowned",
+     "grounds": "describes fame",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pakṣirājamukhodbhavā",
+     "gloss": "born-from-bird-king-mouth",
+     "grounds": "compound: pakṣi+rāja+mukha+udbhava",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What renowned power called Kurukullā arises from the mouth of the bird king?",
+   "premises": [
+    "A power is renowned as Kurukullā.",
+    "This power arises from a mouth.",
+    "That mouth belongs to the bird king."
+   ],
+   "inference": "Kurukullā is the renowned power born from the mouth of the bird king.",
+   "uncertainties": [
+    "The identity of the bird king is not specified."
+   ],
+   "plain_english": "Renowned as Kurukullā, she is born from the mouth of the king of birds."
+  },
+  {
+   "verse": 3706,
+   "rows": [
+    {
+     "surface": "oṃkāriṇī",
+     "gloss": "om-sounding",
+     "grounds": "compound: oṃkāra+in",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vikhyātā",
+     "gloss": "renowned",
+     "grounds": "describes fame",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "in-body",
+     "grounds": "location of dwelling",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthātu",
+     "gloss": "may-dwell",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √sthā"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "time expression",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of body",
+     "morph": "pronoun.gen.sg"
+    }
+   ],
+   "question": "Which renowned power called Oṃkāriṇī is invoked to dwell always in the speaker's body?",
+   "premises": [
+    "A power is renowned as Oṃkāriṇī.",
+    "The speaker requests her dwelling.",
+    "The requested dwelling is always in the speaker's body."
+   ],
+   "inference": "Oṃkāriṇī is invoked to dwell always in the speaker's body.",
+   "uncertainties": [],
+   "plain_english": "May she who is renowned as Oṃkāriṇī always dwell in my body."
+  },
+  {
+   "verse": 3707,
+   "rows": [
+    {
+     "surface": "bheruṇḍā",
+     "gloss": "bherunda",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthātu",
+     "gloss": "may-dwell",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √sthā"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of throat",
+     "morph": "pronoun.gen.sg"
+    },
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "in-throat",
+     "grounds": "location of dwelling",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "toralā",
+     "gloss": "torala",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthātu",
+     "gloss": "may-dwell",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √sthā"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "location of dwelling",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which goddesses are invoked to dwell in the speaker's throat and on the head?",
+   "premises": [
+    "Bheruṇḍā is asked to dwell in the throat.",
+    "Toralā is asked to dwell on the head.",
+    "Both dwellings are requested for the speaker."
+   ],
+   "inference": "Bheruṇḍā is invoked in the throat and Toralā on the head.",
+   "uncertainties": [],
+   "plain_english": "May Bheruṇḍā dwell in my throat, and may Toralā dwell on my head."
+  },
+  {
+   "verse": 3708,
+   "rows": [
+    {
+     "surface": "jāṅgalī",
+     "gloss": "jangali",
+     "grounds": "name of a goddess or vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣanāśāya",
+     "gloss": "for-poison-destruction",
+     "grounds": "compound: viṣa+nāśa",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vācāṃ",
+     "gloss": "of-speech",
+     "grounds": "object of success",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "success",
+     "grounds": "desired attainment",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "karotu",
+     "gloss": "may-make",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √kṛ"
+    },
+    {
+     "surface": "me",
+     "gloss": "for-me",
+     "grounds": "beneficiary",
+     "morph": "pronoun.dat.sg"
+    }
+   ],
+   "question": "What twofold boon is Jāṅgalī asked to grant the speaker regarding poison and speech?",
+   "premises": [
+    "Jāṅgalī is invoked to act for the speaker.",
+    "Destruction of poison is sought.",
+    "Success in speech is sought."
+   ],
+   "inference": "Jāṅgalī is asked to destroy poison and grant success in speech.",
+   "uncertainties": [],
+   "plain_english": "May Jāṅgalī grant me the destruction of poison and success in speech."
+  },
+  {
+   "verse": 3709,
+   "rows": [
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker identity",
+     "morph": "pronoun.nom.sg"
+    },
+    {
+     "surface": "brahmā",
+     "gloss": "brahma",
+     "grounds": "divine identity claimed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker identity",
+     "morph": "pronoun.nom.sg"
+    },
+    {
+     "surface": "viṣṇu",
+     "gloss": "vishnu",
+     "grounds": "divine identity claimed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "i",
+     "grounds": "speaker identity",
+     "morph": "pronoun.nom.sg"
+    },
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "devaḥ with sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maheśvaraḥ",
+     "gloss": "great-lord",
+     "grounds": "compound: mahā+īśvara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What divine identities does the speaker claim through the repeated declaration of 'I'?",
+   "premises": [
+    "The speaker declares identity with Brahmā.",
+    "The speaker declares identity with Viṣṇu.",
+    "The speaker declares identity with the god Maheśvara."
+   ],
+   "inference": "The speaker affirms identity with Brahmā, Viṣṇu, and Maheśvara.",
+   "uncertainties": [],
+   "plain_english": "I am Brahmā, I am Viṣṇu, I am the god Maheśvara."
+  },
+  {
+   "verse": 3710,
+   "rows": [
+    {
+     "surface": "śaktinyāsena",
+     "gloss": "by-shakti-placement",
+     "grounds": "compound: śakti+nyāsa",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pūtena",
+     "gloss": "purified",
+     "grounds": "describes the body",
+     "morph": "n.inst.sg (past participle)"
+    },
+    {
+     "surface": "śarīreṇa",
+     "gloss": "by-body",
+     "grounds": "instrument of presence",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "surāsurāḥ",
+     "gloss": "gods-and-demons",
+     "grounds": "compound: sura+asura",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How does a body purified by śakti-nyāsa relate to gods and demons?",
+   "premises": [
+    "The body is purified by śakti-nyāsa.",
+    "Gods and demons are invoked in this context.",
+    "The purified body is the locus of this power."
+   ],
+   "inference": "Through a body purified by śakti-nyāsa, gods and demons are encompassed or addressed.",
+   "uncertainties": [
+    "The verb governing surāsurāḥ is not explicit in this verse."
+   ],
+   "plain_english": "By a body purified through the placement of śakti, O gods and demons."
+  },
+  {
+   "verse": 3711,
+   "rows": [
+    {
+     "surface": "yatkiñcid",
+     "gloss": "whatever",
+     "grounds": "indefinite pronoun compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yoginīrūpaṃ",
+     "gloss": "yogini-form",
+     "grounds": "compound: yoginī+rūpa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trailokye",
+     "gloss": "in-three-worlds",
+     "grounds": "compound: tri+loka",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cāsti",
+     "gloss": "and-exists",
+     "grounds": "ca + asti fused",
+     "morph": "3.sg.pres √as"
+    },
+    {
+     "surface": "śaṅkara",
+     "gloss": "shankara",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What yoginī forms exist in the three worlds according to this address to Śaṅkara?",
+   "premises": [
+    "Yoginī forms are under consideration.",
+    "Their existence is affirmed in the three worlds.",
+    "Śaṅkara is addressed."
+   ],
+   "inference": "Whatever yoginī form exists in the three worlds is acknowledged before Śaṅkara.",
+   "uncertainties": [],
+   "plain_english": "O Śaṅkara, whatever yoginī form exists in the three worlds."
+  },
+  {
+   "verse": 3712,
+   "rows": [
+    {
+     "surface": "kāminī",
+     "gloss": "desirable-one",
+     "grounds": "feminine power or goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "action of the goddess",
+     "morph": "3.sg.mid-pres √kṛ"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-also",
+     "grounds": "ca + api fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "placement",
+     "grounds": "ritual placement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaktinirmitam",
+     "gloss": "made-by-devotion",
+     "grounds": "compound: bhakti+nirmita",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who performs the nyāsa that is fashioned through devotion?",
+   "premises": [
+    "A nyāsa is performed.",
+    "That nyāsa is fashioned by devotion.",
+    "The desirable goddess performs it."
+   ],
+   "inference": "The desirable one performs the nyāsa made by devotion.",
+   "uncertainties": [],
+   "plain_english": "And the desirable one who performs the nyāsa fashioned by devotion."
+  },
+  {
+   "verse": 3713,
+   "rows": [
+    {
+     "surface": "namo'stu",
+     "gloss": "salutation-be",
+     "grounds": "namaḥ + astu fused",
+     "morph": "(indecl.) + 3.sg.imperative √as"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of salutation",
+     "morph": "pronoun.dat.sg"
+    },
+    {
+     "surface": "jaganmātar",
+     "gloss": "world-mother",
+     "grounds": "compound: jagat+mātṛ",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "namo'stu",
+     "gloss": "salutation-be",
+     "grounds": "namaḥ + astu fused",
+     "morph": "(indecl.) + 3.sg.imperative √as"
+    },
+    {
+     "surface": "bhuvaneśvari",
+     "gloss": "world-lady",
+     "grounds": "compound: bhuvana+īśvarī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "To which supreme feminine forms is salutation offered as world mother and world lady?",
+   "premises": [
+    "Salutation is offered to the world mother.",
+    "Salutation is offered to the world lady.",
+    "Both are addressed directly."
+   ],
+   "inference": "Homage is paid to the goddess as Jaganmātṛ and Bhuvaneśvarī.",
+   "uncertainties": [],
+   "plain_english": "Salutation to you, Mother of the world; salutation to you, Lady of the world."
+  },
+  {
+   "verse": 3714,
+   "rows": [
+    {
+     "surface": "prakaṭā",
+     "gloss": "manifest",
+     "grounds": "aspect of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gopitāḥ",
+     "gloss": "hidden",
+     "grounds": "aspect of the powers",
+     "morph": "f.nom.pl (past participle)"
+    },
+    {
+     "surface": "sarvā",
+     "gloss": "all",
+     "grounds": "totality of powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nirvāṇā",
+     "gloss": "liberated",
+     "grounds": "aspect of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavi",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "auspicious",
+     "grounds": "name or quality of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What manifold aspects characterize the goddess as manifest, hidden, liberated, Bhairavī, and Śivā?",
+   "premises": [
+    "The goddess is manifest and liberated.",
+    "All powers are hidden.",
+    "She is identified as Bhairavī and Śivā."
+   ],
+   "inference": "The goddess encompasses manifest, hidden, liberated, Bhairavī, and Śivā aspects.",
+   "uncertainties": [
+    "The syntactic relation of gopitāḥ sarvā to the singular epithets is compact."
+   ],
+   "plain_english": "Manifest, with all hidden, liberated, Bhairavī, and Śivā."
+  },
+  {
+   "verse": 3715,
+   "rows": [
+    {
+     "surface": "yakṣiṇī",
+     "gloss": "yakshini",
+     "grounds": "name of a female power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cūḍakanyā",
+     "gloss": "crest-maiden",
+     "grounds": "compound: cūḍa+kanyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cākāśagāminī",
+     "gloss": "and-sky-going",
+     "grounds": "ca + ākāśagāminī fused; compound ākāśa+gāmin",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which female powers are named as Yakṣiṇī, Cūḍakanyā, and sky-going?",
+   "premises": [
+    "Yakṣiṇī is named.",
+    "Cūḍakanyā is named.",
+    "A sky-going power is named."
+   ],
+   "inference": "The powers invoked include Yakṣiṇī, Cūḍakanyā, and the sky-going one.",
+   "uncertainties": [],
+   "plain_english": "Yakṣiṇī, Cūḍakanyā, and also the sky-going one."
+  },
+  {
+   "verse": 3716,
+   "rows": [
+    {
+     "surface": "catuḥṣaṣṭyāśrayā",
+     "gloss": "supported-by-sixty-four",
+     "grounds": "compound: catuḥṣaṣṭi+āśraya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "supreme feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yoginyo",
+     "gloss": "yoginis",
+     "grounds": "group of yoginīs",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "relative pronoun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "cintitāḥ",
+     "gloss": "contemplated",
+     "grounds": "mental invocation",
+     "morph": "f.nom.pl (past participle)"
+    }
+   ],
+   "question": "How are the sixty-four yoginīs related to the goddess contemplated by the practitioner?",
+   "premises": [
+    "The goddess is supported by sixty-four.",
+    "The yoginīs are contemplated.",
+    "Contemplation is performed by someone."
+   ],
+   "inference": "The goddess supported by sixty-four is the one by whom the yoginīs are contemplated.",
+   "uncertainties": [
+    "The referent of yena could be the practitioner or the goddess depending on reading."
+   ],
+   "plain_english": "The goddess supported by the sixty-four, by whom the yoginīs are contemplated."
+  },
+  {
+   "verse": 3717,
+   "rows": [
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "location of dwelling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maṇḍalā",
+     "gloss": "mandala",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthātu",
+     "gloss": "may-dwell",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √sthā"
+    },
+    {
+     "surface": "virajā",
+     "gloss": "stainless",
+     "grounds": "name or quality of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthātu",
+     "gloss": "may-dwell",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √sthā"
+    },
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "location of dwelling",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which powers are invoked to dwell on the forehead and on the head?",
+   "premises": [
+    "Maṇḍalā is asked to dwell on the forehead.",
+    "Virajā is asked to dwell on the head.",
+    "Both are benedictive placements."
+   ],
+   "inference": "Maṇḍalā is invoked on the forehead and Virajā on the head.",
+   "uncertainties": [],
+   "plain_english": "May Maṇḍalā dwell on the forehead; may Virajā dwell on the head."
+  },
+  {
+   "verse": 3718,
+   "rows": [
+    {
+     "surface": "jayantī",
+     "gloss": "jayanti",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthātu",
+     "gloss": "may-dwell",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √sthā"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of belly",
+     "morph": "pronoun.gen.sg"
+    },
+    {
+     "surface": "kukṣau",
+     "gloss": "in-belly",
+     "grounds": "location of dwelling",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kaṭyām",
+     "gloss": "on-waist",
+     "grounds": "location of dwelling",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "kandarpakuṇḍalī",
+     "gloss": "cupid-earringed",
+     "grounds": "compound: kandarpa+kuṇḍalin",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are invoked to dwell in the belly and on the waist?",
+   "premises": [
+    "Jayantī is asked to dwell in the belly.",
+    "Kandarpakuṇḍalī is asked to dwell on the waist.",
+    "Both placements concern the speaker's body."
+   ],
+   "inference": "Jayantī is invoked in the belly and Kandarpakuṇḍalī on the waist.",
+   "uncertainties": [],
+   "plain_english": "May Jayantī dwell in my belly, and Kandarpakuṇḍalī on my waist."
+  },
+  {
+   "verse": 3719,
+   "rows": [
+    {
+     "surface": "ambikā",
+     "gloss": "ambika",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pṛṣṭhavaṃśe",
+     "gloss": "in-spine",
+     "grounds": "compound: pṛṣṭha+vaṃśa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārśvayoḥ",
+     "gloss": "on-sides",
+     "grounds": "location of dwelling",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "sthātu",
+     "gloss": "may-dwell",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √sthā"
+    },
+    {
+     "surface": "medinī",
+     "gloss": "earth",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are invoked to dwell in the spine and on the sides?",
+   "premises": [
+    "Ambikā is asked to dwell in the spine.",
+    "Medinī is asked to dwell on the sides.",
+    "Both are protective placements in the body."
+   ],
+   "inference": "Ambikā is invoked in the spine and Medinī on the sides.",
+   "uncertainties": [],
+   "plain_english": "May Ambikā dwell in the spine, and may Medinī dwell on the sides."
+  },
+  {
+   "verse": 3720,
+   "rows": [
+    {
+     "surface": "vyāghrī",
+     "gloss": "tigeress",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cakrī",
+     "gloss": "wheel-bearer",
+     "grounds": "name or epithet of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṅghāyāṃ",
+     "gloss": "on-calf",
+     "grounds": "location of dwelling",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "syātu",
+     "gloss": "may-be",
+     "grounds": "benedictive wish; variant of sthātu/asyāt",
+     "morph": "3.sg.imperative √as"
+    },
+    {
+     "surface": "pādatale",
+     "gloss": "on-foot-sole",
+     "grounds": "compound: pāda+tala",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahī",
+     "gloss": "earth",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which powers are invoked to be present on the calf and on the sole of the foot?",
+   "premises": [
+    "Vyāghrī and Cakrī are invoked on the calf.",
+    "Mahī is invoked on the sole of the foot.",
+    "Their presence is requested as a blessing."
+   ],
+   "inference": "Vyāghrī and Cakrī are invoked on the calf, and Mahī on the sole.",
+   "uncertainties": [
+    "The form syātu is unusual here and may reflect a textual variant."
+   ],
+   "plain_english": "May Vyāghrī and Cakrī be on the calf, and may Mahī be on the sole of the foot."
+  },
+  {
+   "verse": 3721,
+   "rows": [
+    {
+     "surface": "kālindī",
+     "gloss": "kalindi",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlajihvāṃ",
+     "gloss": "root-of-tongue",
+     "grounds": "compound: mūla+jihvā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raktaṃ",
+     "gloss": "blood",
+     "grounds": "bodily substance to protect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rakṣatu",
+     "gloss": "may-protect",
+     "grounds": "benedictive wish",
+     "morph": "3.sg.imperative √rakṣ"
+    },
+    {
+     "surface": "raktinī",
+     "gloss": "blood-red-one",
+     "grounds": "name or epithet of a goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which goddesses are asked to protect the root of the tongue and the blood?",
+   "premises": [
+    "Kālindī is invoked in relation to the root of the tongue.",
+    "Raktinī is invoked to protect the blood.",
+    "Protection is the requested action."
+   ],
+   "inference": "Kālindī and Raktinī are asked to protect the tongue-root and the blood.",
+   "uncertainties": [
+    "The exact syntactic distribution of the verb over both objects is compact."
+   ],
+   "plain_english": "May Kālindī protect the root of the tongue, and may Raktinī protect the blood."
+  },
+  {
+   "verse": 3722,
+   "rows": [
+    {
+     "surface": "mañjinī",
+     "gloss": "manjini",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dehamañjāṃ",
+     "gloss": "body-marrow",
+     "grounds": "compound: deha+mañjā; bodily substance",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "contrastive or connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śukraṃ",
+     "gloss": "semen",
+     "grounds": "bodily substance to protect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śukreśvarī",
+     "gloss": "semen-lady",
+     "grounds": "compound: śukra+īśvarī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which goddesses are associated with protecting the body's marrow and the semen?",
+   "premises": [
+    "Mañjinī is associated with the body's marrow.",
+    "Śukreśvarī is associated with the semen.",
+    "Both are invoked in parallel."
+   ],
+   "inference": "Mañjinī guards the body-marrow and Śukreśvarī likewise the semen.",
+   "uncertainties": [
+    "The protective verb is implied rather than stated in this verse."
+   ],
+   "plain_english": "Mañjinī the body-marrow, and likewise Śukreśvarī the semen."
+  },
+  {
+   "verse": 3723,
+   "rows": [
+    {
+     "surface": "rudghaṭā",
+     "gloss": "rudghata",
+     "grounds": "name of a goddess or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "makes",
+     "grounds": "action of the power",
+     "morph": "3.sg.mid-pres √kṛ"
+    },
+    {
+     "surface": "śāntiṃ",
+     "gloss": "peace",
+     "grounds": "desired effect",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sadaiva",
+     "gloss": "always-indeed",
+     "grounds": "sadā + eva fused",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of body",
+     "morph": "pronoun.gen.sg"
+    },
+    {
+     "surface": "vigrahe",
+     "gloss": "in-body",
+     "grounds": "location of peace",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What continuous effect does Rudghaṭā produce in the speaker's body?",
+   "premises": [
+    "Rudghaṭā performs an action.",
+    "The action produces peace.",
+    "The peace is always in the speaker's body."
+   ],
+   "inference": "Rudghaṭā always brings peace to the speaker's body.",
+   "uncertainties": [],
+   "plain_english": "May Rudghaṭā always bring peace in my body."
+  },
+  {
+   "verse": 3724,
+   "rows": [
+    {
+     "surface": "corāgnirājasarpebhyo",
+     "gloss": "from-thieves-fire-king-serpents",
+     "grounds": "compound: cora+agni+rāja+sarpa",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "bhayādrakṣatu",
+     "gloss": "from-fear-may-protect",
+     "grounds": "bhayāt + rakṣatu fused; fear and protection",
+     "morph": "n.abl.sg + 3.sg.imperative √rakṣ"
+    },
+    {
+     "surface": "bhairavī",
+     "gloss": "bhairavi",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "From which dangers and fear is Bhairavī invoked to grant protection?",
+   "premises": [
+    "Threats include thieves, fire, kings, and serpents.",
+    "Fear arises from these threats.",
+    "Bhairavī is asked to protect."
+   ],
+   "inference": "Bhairavī is invoked to protect from fear of thieves, fire, kings, and serpents.",
+   "uncertainties": [],
+   "plain_english": "May Bhairavī protect from fear of thieves, fire, kings, and serpents."
+  }
+ ]
+}

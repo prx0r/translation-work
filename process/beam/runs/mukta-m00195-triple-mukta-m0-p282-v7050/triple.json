@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p282",
+ "items": [
+  {
+   "verse": 7050,
+   "rows": [
+    {
+     "surface": "prāpte",
+     "gloss": "when-obtained",
+     "grounds": "locative absolute expressing the condition upon attainment; referent supplied by prior context",
+     "morph": "ppp.loc.sg.n (loc.abs, √prāp)"
+    },
+    {
+     "surface": "palantu",
+     "gloss": "let-them-drink",
+     "grounds": "imperative injunction prescribing consumption",
+     "morph": "imp.3.pl.act (√pā, to-drink)"
+    },
+    {
+     "surface": "kapilāghṛtam",
+     "gloss": "brown-cow-ghee",
+     "grounds": "compound specifying the substance to be consumed",
+     "morph": "acc.sg.n (compound: kapilā+ghṛta)"
+    }
+   ],
+   "question": "What substance must be consumed once the desired result has been attained?",
+   "premises": [
+    "A desired result has been attained (prāpte).",
+    "The prescribed substance is ghee from a brown cow (kapilāghṛtam).",
+    "The ritual instruction commands drinking this substance (palantu)."
+   ],
+   "inference": "Upon attainment of the desired result, one must drink ghee from a brown cow.",
+   "uncertainties": [
+    "The specific result or attainment referred to by prāpte depends on the preceding ritual context."
+   ],
+   "plain_english": "When the desired result is obtained, they should drink ghee from a brown cow."
+  }
+ ]
+}

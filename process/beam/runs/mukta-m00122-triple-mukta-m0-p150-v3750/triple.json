@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3750,
+   "rows": [
+    {
+     "surface": "kārayet",
+     "gloss": "should-perform",
+     "grounds": "causative optative of kṛ; prescribes performance",
+     "morph": "verb.3.sg.act-opt (kṛ)"
+    },
+    {
+     "surface": "koṭihomantu",
+     "gloss": "koṭi-homa-and",
+     "grounds": "fused accusative object koṭihomam plus enclitic tu; not split",
+     "morph": "noun.acc.sg.m + (indecl.)"
+    },
+    {
+     "surface": "puruṣairaṣṭabhiḥ",
+     "gloss": "by-eight-men",
+     "grounds": "fused instrumental plural with numeral aṣṭa; analyzed as given",
+     "morph": "noun.ins.pl.m"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who should perform the koṭi-homa and by how many men?",
+   "premises": [
+    "koṭi-homa is to be performed",
+    "eight men perform it",
+    "performance follows thus"
+   ],
+   "inference": "the rite requires eight male performers",
+   "uncertainties": [
+    "fused sandhi in koṭihomantu and puruṣairaṣṭabhiḥ is analyzed without expansion",
+    "exact morphological split of the fused forms is inferred"
+   ],
+   "plain_english": "Thus one should have the koṭi-homa performed by eight men."
+  }
+ ]
+}

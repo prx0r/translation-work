@@ -1,0 +1,44 @@
+{
+ "song": "sva-p31",
+ "items": [
+  {
+   "verse": 775,
+   "rows": [
+    {
+     "surface": "atinidrā",
+     "gloss": "excessive-sleep",
+     "grounds": "lexical compound ati+nidrā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tandrā",
+     "gloss": "drowsiness",
+     "grounds": "lexical noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yojako",
+     "gloss": "connector",
+     "grounds": "agent noun from yuj",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dehāntarasambandhakṛt",
+     "gloss": "another-body-connection-maker",
+     "grounds": "compound deha+antara+sambandha+kṛt",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What states the connector's role in excessive sleep and drowsiness?",
+   "premises": [
+    "Excessive sleep and drowsiness appear.",
+    "The connector makes another-body connection."
+   ],
+   "inference": "The verse identifies the connector as making connection with another body amid excessive sleep and drowsiness.",
+   "uncertainties": [
+    "Exact syntactic relation among the four nouns is not explicit in the supplied context."
+   ],
+   "plain_english": "Excessive sleep and drowsiness; the connector makes connection with another body."
+  }
+ ]
+}

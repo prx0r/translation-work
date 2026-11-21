@@ -1,0 +1,39 @@
+{
+ "song": "sva-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "pañcamasya",
+     "gloss": "of-the-fifth",
+     "grounds": "fifth (genitive singular)",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "śabdaguṇasya",
+     "gloss": "of-sound-quality",
+     "grounds": "sound-quality (genitive singular)",
+     "morph": "m.gen.sg (compound: śabda+guṇa)"
+    },
+    {
+     "surface": "śuddhyartham",
+     "gloss": "for-purification",
+     "grounds": "for the sake of purification",
+     "morph": "n.acc.sg (compound: śuddhi+artha)"
+    }
+   ],
+   "question": "Why is the fifth sound-quality purified?",
+   "premises": [
+    "fifth sound-quality requires purification",
+    "purification is the stated purpose",
+    "context concerns sound-quality refinement"
+   ],
+   "inference": "the phrase states purification as the purpose for the fifth sound-quality",
+   "uncertainties": [
+    "exact referent of the fifth sound-quality remains context-dependent"
+   ],
+   "plain_english": "For the purification of the fifth sound-quality."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "rākinīkinnarīsaṃghā",
+     "gloss": "rākinī-kinnarī-groups",
+     "grounds": "compound of rākinī, kinnarī, and saṃgha; nominative plural masculine with sandhi before the next word",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "bhūtinīceṭakādayaḥ",
+     "gloss": "bhūtinī-attendant-etc",
+     "grounds": "compound of bhūtinī, ceṭaka, and ādi; nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Which further beings and attendant groups complete the list of hostile or liminal entities?",
+   "premises": [
+    "rākinī and kinnarī groups are named",
+    "bhūtinīs and attendants are named",
+    "the enumeration continues previous beings"
+   ],
+   "inference": "The verse adds rākinī-kinnarī groups and bhūtinī-attendant classes to the enumerated beings.",
+   "uncertainties": [
+    "the exact sandhi treatment of saṃghā before bhūtinī",
+    "the precise scope of ādayaḥ in this list"
+   ],
+   "plain_english": "Groups of rākinīs and kinnarīs, bhūtinīs, attendants, and the rest."
+  }
+ ]
+}

@@ -1,0 +1,1241 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2751,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun indicating the source of grace",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prasādāt",
+     "gloss": "by-grace",
+     "grounds": "instrumental cause enabling the result",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "durvāsāḥ",
+     "gloss": "durvāsas",
+     "grounds": "name of the sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trailokya+vijayī",
+     "gloss": "three-worlds-conqueror",
+     "grounds": "compound describing victorious power",
+     "morph": "compound trailokya+vijayī (m.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "potential result of the grace",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "Whose grace enables the sage Durvāsas to conquer the three worlds?",
+   "premises": [
+    "Durvāsas can become a conqueror of the three worlds.",
+    "This conquest arises from someone's grace.",
+    "The grace functions as the enabling cause."
+   ],
+   "inference": "The power to conquer the three worlds is granted by that being's grace.",
+   "uncertainties": [],
+   "plain_english": "By whose grace Durvāsas may become the conqueror of the three worlds."
+  },
+  {
+   "verse": 2752,
+   "rows": [
+    {
+     "surface": "ṛṣiḥ",
+     "gloss": "seer",
+     "grounds": "mantra seer in ritual specification",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "metrical form of the mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "name of the meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nṛsiṃhaḥ",
+     "gloss": "nṛsiṃha",
+     "grounds": "name of the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "presiding deity of the mantra",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vibhuḥ",
+     "gloss": "all-pervading",
+     "grounds": "epithet of the deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What seer, meter, and deity are assigned to this Nṛsiṃha mantra?",
+   "premises": [
+    "The mantra has a designated seer.",
+    "The mantra has a designated meter, Gāyatrī.",
+    "The all-pervading Nṛsiṃha is the presiding deity."
+   ],
+   "inference": "The mantra is ritually defined by its seer, Gāyatrī meter, and Nṛsiṃha as deity.",
+   "uncertainties": [
+    "The specific name of the ṛṣi is not stated in this verse."
+   ],
+   "plain_english": "The seer, the meter Gāyatrī, and the all-pervading Nṛsiṃha as the deity are declared."
+  },
+  {
+   "verse": 2753,
+   "rows": [
+    {
+     "surface": "kṣrauṃ",
+     "gloss": "kṣrauṃ",
+     "grounds": "bīja syllable of the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed",
+     "grounds": "seed syllable designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "speaker's body part to be protected",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "body part invoked for protection",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.imperative-act √pā"
+    },
+    {
+     "surface": "candra+varṇaḥ",
+     "gloss": "moon-colored",
+     "grounds": "compound describing the mantra's form",
+     "morph": "compound candra+varṇa (m.nom.sg)"
+    },
+    {
+     "surface": "mahā+manuḥ",
+     "gloss": "great-mantra",
+     "grounds": "compound naming the powerful mantra",
+     "morph": "compound mahā+manu (m.nom.sg)"
+    }
+   ],
+   "question": "Which seed syllable and great mantra are invoked to protect the head?",
+   "premises": [
+    "Kṣrauṃ is the seed syllable.",
+    "The moon-colored great mantra is invoked.",
+    "Protection is requested for the head."
+   ],
+   "inference": "The moon-colored great mantra with seed kṣrauṃ should protect the head.",
+   "uncertainties": [],
+   "plain_english": "May the moon-colored great mantra, whose seed is kṣrauṃ, protect my head."
+  },
+  {
+   "verse": 2754,
+   "rows": [
+    {
+     "surface": "nṛsiṃhaṃ",
+     "gloss": "to-nṛsiṃha",
+     "grounds": "deity addressed in salutation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhīṣaṇaṃ",
+     "gloss": "terrible",
+     "grounds": "epithet of Nṛsiṃha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhadraṃ",
+     "gloss": "auspicious",
+     "grounds": "epithet of Nṛsiṃha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mṛtyu+mṛtyuṃ",
+     "gloss": "death-of-death",
+     "grounds": "compound epithet indicating conqueror of death",
+     "morph": "compound mṛtyu+mṛtyu (m.acc.sg)"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "i-bow",
+     "grounds": "act of reverence by the speaker",
+     "morph": "1.sg.present-act √nam"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker performing the salutation",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "How is Nṛsiṃha characterized in the speaker's act of reverential salutation?",
+   "premises": [
+    "The speaker bows to Nṛsiṃha.",
+    "Nṛsiṃha is described as terrible and auspicious.",
+    "Nṛsiṃha is called the death of death."
+   ],
+   "inference": "Nṛsiṃha is revered as a fearsome, auspicious conqueror of death.",
+   "uncertainties": [],
+   "plain_english": "I bow to Nṛsiṃha, the terrible, the auspicious, the death of death."
+  },
+  {
+   "verse": 2755,
+   "rows": [
+    {
+     "surface": "kaṇṭhaṃ",
+     "gloss": "throat",
+     "grounds": "body part invoked for protection",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.imperative-act √pā"
+    },
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "firmly",
+     "grounds": "adverb emphasizing steadfast protection",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣrauṃ",
+     "gloss": "kṣrauṃ",
+     "grounds": "bīja syllable invoked",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛd",
+     "gloss": "heart",
+     "grounds": "body part invoked for protection",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhagavate",
+     "gloss": "to-bhagavat",
+     "grounds": "mantra word addressing the lord",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "cakṣuṣī",
+     "gloss": "eyes",
+     "grounds": "body parts invoked for protection",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's body parts",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "Which mantra syllables and words are assigned to protect the throat, heart, and eyes?",
+   "premises": [
+    "Kṣrauṃ is invoked to protect the throat firmly.",
+    "The word bhagavate is assigned to the heart.",
+    "Protection is requested for the speaker's eyes."
+   ],
+   "inference": "Specific mantra elements are mapped onto the throat, heart, and eyes for protection.",
+   "uncertainties": [
+    "The mantra element explicitly protecting the eyes is not named in this verse."
+   ],
+   "plain_english": "May kṣrauṃ firmly protect my throat, bhagavate my heart, and may my eyes be protected."
+  },
+  {
+   "verse": 2756,
+   "rows": [
+    {
+     "surface": "dīpta+daṃṣṭrāya",
+     "gloss": "to-blazing-tusked",
+     "grounds": "mantra epithet addressed to the deity",
+     "morph": "compound dīpta+daṃṣṭra (m.dat.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agni+netrāya",
+     "gloss": "to-fire-eyed",
+     "grounds": "mantra epithet addressed to the deity",
+     "morph": "compound agni+netra (m.dat.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsikām",
+     "gloss": "nostrils",
+     "grounds": "body part invoked for protection",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which fierce epithets of the deity are linked to protection of the nostrils?",
+   "premises": [
+    "The epithet blazing-tusked is invoked.",
+    "The epithet fire-eyed is invoked.",
+    "These invocations are associated with the nostrils."
+   ],
+   "inference": "The blazing-tusked and fire-eyed forms are assigned to protect the nostrils.",
+   "uncertainties": [],
+   "plain_english": "To the blazing-tusked and likewise to the fire-eyed one, may the nostrils be protected."
+  },
+  {
+   "verse": 2757,
+   "rows": [
+    {
+     "surface": "sarva+jvara+vināśāya",
+     "gloss": "for-all-fever-destruction",
+     "grounds": "compound stating purpose of the mantra words",
+     "morph": "compound sarva+jvara+vināśa (m.dat.sg)"
+    },
+    {
+     "surface": "daha",
+     "gloss": "burn",
+     "grounds": "imperative mantra command",
+     "morph": "2.sg.imperative-act √dah"
+    },
+    {
+     "surface": "daha",
+     "gloss": "burn",
+     "grounds": "repeated imperative mantra command",
+     "morph": "2.sg.imperative-act √dah"
+    },
+    {
+     "surface": "pada+dvayam",
+     "gloss": "two-words",
+     "grounds": "compound indicating a pair of mantra words",
+     "morph": "compound pada+dvaya (n.nom.sg)"
+    }
+   ],
+   "question": "What mantra command pair is employed for the destruction of all fevers?",
+   "premises": [
+    "The purpose stated is destruction of all fevers.",
+    "The command 'burn' is uttered twice.",
+    "These form a pair of words."
+   ],
+   "inference": "The repeated command 'burn, burn' functions as the pair for destroying all fevers.",
+   "uncertainties": [],
+   "plain_english": "For the destruction of all fevers, the two words are 'burn, burn'."
+  },
+  {
+   "verse": 2758,
+   "rows": [
+    {
+     "surface": "tārā+ādi",
+     "gloss": "tārā-beginning",
+     "grounds": "compound indicating mantra begins with tārā (oṃ)",
+     "morph": "compound tārā+ādi (n.nom.sg)"
+    },
+    {
+     "surface": "rāmacandrāya",
+     "gloss": "to-rāmacandra",
+     "grounds": "deity name in mantra address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.imperative-act √pā"
+    },
+    {
+     "surface": "hṛdaṃ",
+     "gloss": "heart",
+     "grounds": "body part invoked for protection",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's body part",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "Which Rāmacandra mantra formula is invoked to protect the heart?",
+   "premises": [
+    "The formula begins with tārā.",
+    "It is addressed to Rāmacandra with obeisance.",
+    "Protection is requested for the heart."
+   ],
+   "inference": "The mantra beginning with tārā and addressed to Rāmacandra protects the heart.",
+   "uncertainties": [],
+   "plain_english": "May the formula beginning with tārā, 'obeisance to Rāmacandra', protect my heart."
+  },
+  {
+   "verse": 2759,
+   "rows": [
+    {
+     "surface": "nārāyaṇāya",
+     "gloss": "to-nārāyaṇa",
+     "grounds": "deity name in mantra address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "nābhiṃ",
+     "gloss": "navel",
+     "grounds": "body part invoked for protection",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āṃ",
+     "gloss": "āṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krauṃ",
+     "gloss": "krauṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣrauṃ",
+     "gloss": "kṣrauṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phaṭ",
+     "gloss": "phaṭ",
+     "grounds": "mantra syllable of cutting or protection",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which deity name and bīja syllables are assigned to protect the navel region?",
+   "premises": [
+    "Nārāyaṇa is invoked for the navel.",
+    "A sequence of bīja syllables is given.",
+    "These elements function in the protective armor."
+   ],
+   "inference": "The address to Nārāyaṇa together with the listed bīja syllables protects the navel.",
+   "uncertainties": [],
+   "plain_english": "To Nārāyaṇa for the navel, and the syllables āṃ, hrīṃ, krauṃ, kṣrauṃ, huṃ, phaṭ."
+  },
+  {
+   "verse": 2760,
+   "rows": [
+    {
+     "surface": "vāsudevāya",
+     "gloss": "to-vāsudeva",
+     "grounds": "deity name in mantra address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhaṃ",
+     "gloss": "back",
+     "grounds": "body part invoked for protection",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "klīṃ",
+     "gloss": "klīṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣṇāya",
+     "gloss": "to-kṛṣṇa",
+     "grounds": "deity name in mantra address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ūru+dvayam",
+     "gloss": "thigh-pair",
+     "grounds": "compound indicating both thighs",
+     "morph": "compound ūru+dvaya (n.acc.sg)"
+    }
+   ],
+   "question": "Which divine names and syllable protect the back and the pair of thighs?",
+   "premises": [
+    "Vāsudeva is invoked for the back.",
+    "The syllable klīṃ and Kṛṣṇa are invoked.",
+    "Protection is assigned to the pair of thighs."
+   ],
+   "inference": "Vāsudeva protects the back, while klīṃ and Kṛṣṇa protect the thighs.",
+   "uncertainties": [],
+   "plain_english": "To Vāsudeva for the back, and klīṃ to Kṛṣṇa for the pair of thighs."
+  },
+  {
+   "verse": 2761,
+   "rows": [
+    {
+     "surface": "klī",
+     "gloss": "klī",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "glauṃ",
+     "gloss": "glauṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klīṃ",
+     "gloss": "klīṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śyāmala+aṅgāya",
+     "gloss": "to-dark-limbed",
+     "grounds": "compound epithet addressed to the deity",
+     "morph": "compound śyāmala+aṅga (m.dat.sg)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "salutation in the mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāyāt",
+     "gloss": "may-protect",
+     "grounds": "protective invocation",
+     "morph": "3.sg.optative-act √pā"
+    },
+    {
+     "surface": "pada+dvayam",
+     "gloss": "foot-pair",
+     "grounds": "compound indicating both feet",
+     "morph": "compound pada+dvaya (n.acc.sg)"
+    }
+   ],
+   "question": "Which mantra sequence to the dark-limbed deity protects the pair of feet?",
+   "premises": [
+    "The syllables klī, glauṃ, klīṃ are invoked.",
+    "Obeisance is offered to the dark-limbed one.",
+    "Protection is requested for the pair of feet."
+   ],
+   "inference": "The sequence klī glauṃ klīṃ with obeisance to the dark-limbed deity protects the feet.",
+   "uncertainties": [],
+   "plain_english": "May 'klī glauṃ klīṃ, obeisance to the dark-limbed one' protect the pair of feet."
+  },
+  {
+   "verse": 2762,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the teaching",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "told",
+     "grounds": "statement that teaching has been given",
+     "morph": "n.nom.sg past-passive-participle √kath"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "child",
+     "grounds": "vocative address to the disciple",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sarva+mantra+ogha+vigraham",
+     "gloss": "all-mantra-multitude-embodiment",
+     "grounds": "compound describing the armor as embodying all mantras",
+     "morph": "compound sarva+mantra+ogha+vigraha (m.acc.sg)"
+    }
+   ],
+   "question": "What has been communicated to the disciple as the embodiment of all mantras?",
+   "premises": [
+    "The teaching is addressed to the disciple as child.",
+    "Something has been told to the disciple.",
+    "It is described as the embodiment of the multitude of all mantras."
+   ],
+   "inference": "The disciple has been taught the armor that embodies all mantras.",
+   "uncertainties": [],
+   "plain_english": "Thus, child, I have told you the armor that is the embodiment of the multitude of all mantras."
+  },
+  {
+   "verse": 2763,
+   "rows": [
+    {
+     "surface": "guru+pūjāṃ",
+     "gloss": "guru-worship",
+     "grounds": "compound indicating ritual worship of the teacher",
+     "morph": "compound guru+pūjā (f.acc.sg)"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-performed",
+     "grounds": "prior ritual action",
+     "morph": "indeclinable-absolutive √vidhā"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "one-should-receive",
+     "grounds": "injunction to receive the armor",
+     "morph": "3.sg.optative-act √grah"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor",
+     "grounds": "the protective mantra armor",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual prerequisite must precede receiving the protective mantra armor?",
+   "premises": [
+    "Worship of the guru must be performed.",
+    "After that, the armor should be received.",
+    "The sequence is ritually prescribed."
+   ],
+   "inference": "One should receive the armor only after performing guru worship.",
+   "uncertainties": [],
+   "plain_english": "Having performed worship of the guru, one should then receive the armor."
+  },
+  {
+   "verse": 2764,
+   "rows": [
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "numeral in the count",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭa+uttaraṃ",
+     "gloss": "eight-more",
+     "grounds": "compound indicating eight additional",
+     "morph": "compound aṣṭa+uttara (n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to this armor",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "puraścaryā+vidhiḥ",
+     "gloss": "preliminary-rite-rule",
+     "grounds": "compound naming the preparatory procedure",
+     "morph": "compound puraścaryā+vidhi (m.nom.sg)"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "traditional prescription",
+     "morph": "m.nom.sg past-passive-participle √smṛ"
+    }
+   ],
+   "question": "What preliminary recitation count is prescribed for this armor's preparatory rite?",
+   "premises": [
+    "A count of one hundred and eight is specified.",
+    "This count applies to this armor.",
+    "It is remembered as the rule for the preliminary rite."
+   ],
+   "inference": "The prescribed preliminary rite for this armor is one hundred and eight recitations.",
+   "uncertainties": [],
+   "plain_english": "The preliminary rite for this armor is remembered as one hundred and eight."
+  },
+  {
+   "verse": 2765,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker after preliminary rite",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddha+kavacaḥ",
+     "gloss": "accomplished-armor",
+     "grounds": "compound describing one who has perfected the armor",
+     "morph": "compound siddha+kavaca (m.nom.sg)"
+    },
+    {
+     "surface": "puṇya+ātmā",
+     "gloss": "pure-souled",
+     "grounds": "compound describing spiritual purity",
+     "morph": "compound puṇya+ātman (m.nom.sg)"
+    },
+    {
+     "surface": "madana+upamaḥ",
+     "gloss": "like-madana",
+     "grounds": "compound comparing the practitioner to Madana",
+     "morph": "compound madana+upama (m.nom.sg)"
+    }
+   ],
+   "question": "What qualities characterize the practitioner after accomplishing the armor's preliminary rite?",
+   "premises": [
+    "The practitioner becomes accomplished in the armor.",
+    "The practitioner becomes pure-souled.",
+    "The practitioner becomes comparable to Madana."
+   ],
+   "inference": "Completion of the rite yields an accomplished, pure-souled practitioner likened to Madana.",
+   "uncertainties": [],
+   "plain_english": "Then indeed, having accomplished the armor, one becomes pure-souled and like Madana."
+  },
+  {
+   "verse": 2766,
+   "rows": [
+    {
+     "surface": "puṣpa+añjali+aṣṭakaṃ",
+     "gloss": "flower-offering-octad",
+     "grounds": "compound indicating eight handfuls of flowers",
+     "morph": "compound puṣpa+añjali+aṣṭaka (n.acc.sg)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior ritual offering",
+     "morph": "indeclinable-absolutive √dā"
+    },
+    {
+     "surface": "mūlena",
+     "gloss": "with-root-mantra",
+     "grounds": "instrument used for recitation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "should-recite",
+     "grounds": "injunction to recite",
+     "morph": "3.sg.optative-act √paṭh"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "frequency of recitation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offering and recitation procedure should follow accomplishment of the armor?",
+   "premises": [
+    "Eight handfuls of flowers should be offered.",
+    "Recitation should be done with the root mantra alone.",
+    "The recitation should be performed once."
+   ],
+   "inference": "After offering eight handfuls of flowers, one should recite the root mantra once.",
+   "uncertainties": [],
+   "plain_english": "Having offered eight handfuls of flowers, one should recite once with the root mantra alone."
+  },
+  {
+   "verse": 2767,
+   "rows": [
+    {
+     "surface": "bhūrje",
+     "gloss": "on-birch-bark",
+     "grounds": "material on which to write",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vilikhya",
+     "gloss": "having-written",
+     "grounds": "prior action of inscribing",
+     "morph": "indeclinable-absolutive vi+√likh"
+    },
+    {
+     "surface": "guṭikāṃ",
+     "gloss": "amulet",
+     "grounds": "object to be prepared",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "svarṇa+sthāṃ",
+     "gloss": "in-gold-placed",
+     "grounds": "compound indicating placement within gold",
+     "morph": "compound svarṇa+stha (f.acc.sg)"
+    },
+    {
+     "surface": "dhārayet",
+     "gloss": "should-wear",
+     "grounds": "injunction to wear the amulet",
+     "morph": "3.sg.optative-act √dhṛ"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the written armor be prepared and worn as a protective amulet?",
+   "premises": [
+    "The armor should be written on birch bark.",
+    "It should be made into an amulet placed in gold.",
+    "If so prepared, it should be worn."
+   ],
+   "inference": "Writing the armor on birch bark, encasing it in gold, and wearing it constitutes the amulet practice.",
+   "uncertainties": [],
+   "plain_english": "If one writes it on birch bark, makes an amulet placed in gold, one should wear it."
+  },
+  {
+   "verse": 2768,
+   "rows": [
+    {
+     "surface": "yoṣid",
+     "gloss": "woman",
+     "grounds": "female practitioner",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāma+bhuje",
+     "gloss": "left-arm",
+     "grounds": "compound indicating placement on left arm",
+     "morph": "compound vāma+bhuja (m.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣo",
+     "gloss": "man",
+     "grounds": "male practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "side for placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kare",
+     "gloss": "hand",
+     "grounds": "body part for wearing the amulet",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where should women and men respectively wear the prepared protective amulet?",
+   "premises": [
+    "A woman should wear it on the left arm.",
+    "A man should wear it on the right hand.",
+    "Placement differs by gender."
+   ],
+   "inference": "The amulet is worn on the left arm by women and on the right hand by men.",
+   "uncertainties": [],
+   "plain_english": "A woman should wear it on the left arm, and a man on the right hand."
+  },
+  {
+   "verse": 2769,
+   "rows": [
+    {
+     "surface": "kāka+vandhyā",
+     "gloss": "crow-barren",
+     "grounds": "compound describing a woman who bears only one child",
+     "morph": "compound kāka+vandhyā (f.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nārī",
+     "gloss": "woman",
+     "grounds": "subject affected",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mṛta+vatsā",
+     "gloss": "dead-child",
+     "grounds": "compound describing a woman whose children die",
+     "morph": "compound mṛta+vatsa (f.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "potential condition",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "Which afflicted women are identified as beneficiaries of the armor's protective grace?",
+   "premises": [
+    "A woman who is kāka-vandhyā is mentioned.",
+    "A woman whose children die is mentioned.",
+    "These conditions are presented as cases for remedy."
+   ],
+   "inference": "Women suffering from these forms of childlessness or loss are intended beneficiaries of the armor.",
+   "uncertainties": [
+    "The exact sense of kāka-vandhyā follows traditional usage (bearing only one child)."
+   ],
+   "plain_english": "A woman who is kāka-vandhyā, or one whose children die."
+  },
+  {
+   "verse": 2770,
+   "rows": [
+    {
+     "surface": "kavacasya",
+     "gloss": "of-armor",
+     "grounds": "source of the effect",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prasādena",
+     "gloss": "by-grace",
+     "grounds": "instrumental cause",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "jīvan+mukto",
+     "gloss": "living-liberated",
+     "grounds": "compound describing liberation while alive",
+     "morph": "compound jīvat+mukta (m.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.optative-act √bhū"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "beneficiary of the grace",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ultimate spiritual state can a person attain through the armor's grace?",
+   "premises": [
+    "The armor possesses grace.",
+    "A person can be affected by this grace.",
+    "The resulting state is living liberation."
+   ],
+   "inference": "By the grace of the armor, a person may become liberated while living.",
+   "uncertainties": [],
+   "plain_english": "By the grace of the armor, a person becomes liberated while still living."
+  },
+  {
+   "verse": 2771,
+   "rows": [
+    {
+     "surface": "bhūta",
+     "gloss": "ghosts",
+     "grounds": "class of harmful beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "preta",
+     "gloss": "spirits",
+     "grounds": "class of harmful beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "piśācāḥ",
+     "gloss": "goblins",
+     "grounds": "class of harmful beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rākṣasā",
+     "gloss": "demons",
+     "grounds": "class of harmful beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dānavāḥ",
+     "gloss": "dānavas",
+     "grounds": "class of harmful beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun introducing the beings",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which classes of harmful beings are driven away by the power of this armor?",
+   "premises": [
+    "Ghosts, spirits, and goblins are listed.",
+    "Demons and dānavas are listed.",
+    "These beings are subject to the armor's power."
+   ],
+   "inference": "Various classes of harmful beings are included among those repelled by the armor.",
+   "uncertainties": [],
+   "plain_english": "Ghosts, spirits, goblins, demons, and dānavas who are present."
+  },
+  {
+   "verse": 2772,
+   "rows": [
+    {
+     "surface": "tat+deśaṃ",
+     "gloss": "that-place",
+     "grounds": "compound indicating the protected location",
+     "morph": "compound tad+deśa (m.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "action of leaving the place",
+     "morph": "indeclinable-absolutive pari+√tyaj"
+    },
+    {
+     "surface": "prayānti",
+     "gloss": "go",
+     "grounds": "departure of the harmful beings",
+     "morph": "3.pl.present-act pra+√yā"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ati+dūrataḥ",
+     "gloss": "very-far",
+     "grounds": "compound indicating great distance",
+     "morph": "compound ati+dūratas (indecl.)"
+    }
+   ],
+   "question": "What happens to harmful beings in the presence of the armor's protective power?",
+   "premises": [
+    "Harmful beings abandon that place.",
+    "They go away from it.",
+    "They depart to a very great distance."
+   ],
+   "inference": "The armor's power causes harmful beings to flee far away from the protected place.",
+   "uncertainties": [],
+   "plain_english": "Indeed, having abandoned that place, they go very far away."
+  },
+  {
+   "verse": 2773,
+   "rows": [
+    {
+     "surface": "sarva+bhūta+antara+sthāya",
+     "gloss": "to-all-beings-inner-dwelling",
+     "grounds": "compound epithet of the deity dwelling within all beings",
+     "morph": "compound sarva+bhūta+antara+stha (m.dat.sg)"
+    },
+    {
+     "surface": "śaṅkarāya",
+     "gloss": "to-śaṅkara",
+     "grounds": "name of the deity addressed",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is Śaṅkara honored as the indwelling presence within all beings?",
+   "premises": [
+    "Śaṅkara dwells within all beings.",
+    "Obeisance is offered to him.",
+    "The salutation is repeated."
+   ],
+   "inference": "Śaṅkara, the inner dweller in all beings, is honored with repeated obeisance.",
+   "uncertainties": [],
+   "plain_english": "Obeisance, obeisance to Śaṅkara, who dwells within all beings."
+  },
+  {
+   "verse": 2774,
+   "rows": [
+    {
+     "surface": "atīndriyāya",
+     "gloss": "to-beyond-senses",
+     "grounds": "compound epithet indicating transcendence of the senses",
+     "morph": "compound atīndriya (m.dat.sg)"
+    },
+    {
+     "surface": "mahase",
+     "gloss": "to-great-splendor",
+     "grounds": "epithet denoting great radiance",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "śāśvatāya",
+     "gloss": "to-eternal",
+     "grounds": "epithet denoting eternality",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "repeated salutation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What transcendent qualities of the deity are praised in the closing salutation?",
+   "premises": [
+    "The deity is beyond the senses.",
+    "The deity is of great splendor.",
+    "The deity is eternal and receives repeated obeisance."
+   ],
+   "inference": "The closing salutation honors the deity as transcendent, radiant, and eternal.",
+   "uncertainties": [],
+   "plain_english": "Obeisance, obeisance to the one beyond the senses, of great splendor, the eternal."
+  }
+ ]
+}

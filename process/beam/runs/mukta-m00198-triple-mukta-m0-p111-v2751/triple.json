@@ -1,0 +1,1055 @@
+{
+ "song": "mukta-m0-p111",
+ "items": [
+  {
+   "verse": 2751,
+   "rows": [
+    {
+     "surface": "dukūlavasanā",
+     "gloss": "silk-garmented",
+     "grounds": "bahuvrīhi compound describing attire",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śyāmavarṇā",
+     "gloss": "dark-colored",
+     "grounds": "bahuvrīhi compound describing complexion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṃgasundarī",
+     "gloss": "limb-beautiful",
+     "grounds": "compound describing bodily beauty; initial nasal as given",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What physical appearance and attire characterize the goddess being described?",
+   "premises": [
+    "The goddess wears silk garments.",
+    "The goddess has a dark complexion.",
+    "The goddess possesses beautiful limbs."
+   ],
+   "inference": "The goddess is depicted as dark-colored, silk-clad, and beautifully formed.",
+   "uncertainties": [
+    "The initial nasal in ṃgasundarī may reflect sandhi or orthographic variation."
+   ],
+   "plain_english": "The goddess is clothed in silk, dark in color, and beautiful in her limbs."
+  },
+  {
+   "verse": 2752,
+   "rows": [
+    {
+     "surface": "ābhaṃge",
+     "gloss": "in-bent-posture",
+     "grounds": "locative of posture type",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-part-measure",
+     "grounds": "compound indicating a measure of three parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-part-measure",
+     "grounds": "compound indicating a measure of four parts",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samabhaṃgake",
+     "gloss": "in-even-posture",
+     "grounds": "locative of posture type",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What proportional measures apply to the bent and even postures?",
+   "premises": [
+    "The bent posture is under discussion.",
+    "A three-part measure is specified in that context.",
+    "A four-part measure applies to the even posture."
+   ],
+   "inference": "The bent posture takes a three-part measure, while the even posture takes a four-part measure.",
+   "uncertainties": [
+    "The exact referent of the measured parts is not explicitly stated in this verse."
+   ],
+   "plain_english": "In the bent posture the measure is three parts, but in the even posture it is four parts."
+  },
+  {
+   "verse": 2753,
+   "rows": [
+    {
+     "surface": "lalāṭamadhyād",
+     "gloss": "from-forehead-middle",
+     "grounds": "ablative compound indicating starting point",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "netrānte",
+     "gloss": "at-eye-end",
+     "grounds": "locative compound indicating endpoint",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṭāntake",
+     "gloss": "at-fold-end",
+     "grounds": "locative compound indicating endpoint",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which facial reference points define the measurement line in this posture?",
+   "premises": [
+    "The measurement begins from the middle of the forehead.",
+    "It proceeds on the left side.",
+    "It reaches the outer end of the eye and the end of the fold."
+   ],
+   "inference": "The prescribed line runs from the forehead middle on the left to the eye’s outer end and fold end.",
+   "uncertainties": [
+    "The precise anatomical meaning of puṭāntake is context-dependent."
+   ],
+   "plain_english": "From the middle of the forehead on the left side, the line goes to the outer corner of the eye and to the end of the fold."
+  },
+  {
+   "verse": 2754,
+   "rows": [
+    {
+     "surface": "nābherdakṣiṇapārśve",
+     "gloss": "on-navel-right-side",
+     "grounds": "locative compound indicating location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmorurdakṣiṇaṃ",
+     "gloss": "left-thigh-right-side",
+     "grounds": "compound indicating the right side of the left thigh",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "should-touch",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √spṛś"
+    }
+   ],
+   "question": "Which body points must the prescribed line touch in this measurement?",
+   "premises": [
+    "A reference point is on the right side of the navel.",
+    "Another reference point is the right side of the left thigh.",
+    "The line should touch that point."
+   ],
+   "inference": "The measurement line should pass from the navel’s right side to touch the right side of the left thigh.",
+   "uncertainties": [],
+   "plain_english": "On the right side of the navel, the line should touch the right side of the left thigh."
+  },
+  {
+   "verse": 2755,
+   "rows": [
+    {
+     "surface": "pādāṃguṣṭhadvayoś",
+     "gloss": "of-two-foot-big-toes",
+     "grounds": "genitive dual compound indicating pair",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvantaraṃ",
+     "gloss": "interval-between",
+     "grounds": "noun indicating distance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣoḍaśāṃgulam",
+     "gloss": "sixteen-finger-measures",
+     "grounds": "compound indicating length in angulas",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distance is prescribed between the two big toes in this posture?",
+   "premises": [
+    "The two big toes are the reference points.",
+    "An interval between them is specified.",
+    "That interval measures sixteen angulas."
+   ],
+   "inference": "The distance between the two big toes should be sixteen angulas.",
+   "uncertainties": [],
+   "plain_english": "The interval between the two big toes is indeed sixteen angulas."
+  },
+  {
+   "verse": 2756,
+   "rows": [
+    {
+     "surface": "evamābhaṃgam",
+     "gloss": "thus-bent-posture",
+     "grounds": "compound summarizing prior description",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating completion of explanation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samabhaṃgam",
+     "gloss": "even-posture",
+     "grounds": "object of next instruction",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle marking transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb addressing listener",
+     "morph": "2.sg.act-imperative √śru"
+    }
+   ],
+   "question": "How does the text transition from the bent posture to the even posture?",
+   "premises": [
+    "The bent posture has been declared.",
+    "The even posture is introduced next.",
+    "The listener is instructed to hear."
+   ],
+   "inference": "After explaining the bent posture, the text directs attention to the even posture.",
+   "uncertainties": [],
+   "plain_english": "Thus the bent posture has been explained; now hear about the even posture."
+  },
+  {
+   "verse": 2757,
+   "rows": [
+    {
+     "surface": "prasārya",
+     "gloss": "having-stretched",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmasūtraṃ",
+     "gloss": "sacred-thread-line",
+     "grounds": "object indicating plumb line",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvantaraṃ",
+     "gloss": "interval-between",
+     "grounds": "object of statement",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadāmyaham",
+     "gloss": "i-say",
+     "grounds": "verb with explicit speaker",
+     "morph": "1.sg.act-present √vad"
+    }
+   ],
+   "question": "What method is introduced for stating the intervals in the even posture?",
+   "premises": [
+    "The sacred thread line is to be stretched.",
+    "Intervals are to be described.",
+    "The speaker declares them."
+   ],
+   "inference": "The intervals are explained by reference to a stretched sacred thread line.",
+   "uncertainties": [],
+   "plain_english": "Having stretched the sacred thread line, I shall now state the intervals."
+  },
+  {
+   "verse": 2758,
+   "rows": [
+    {
+     "surface": "tatsūtrāddakṣiṇe",
+     "gloss": "to-right-of-that-thread",
+     "grounds": "compound indicating position relative to thread",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nābhe",
+     "gloss": "at-navel",
+     "grounds": "locative reference point",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nīvrakaṃ",
+     "gloss": "hip-cloth-point",
+     "grounds": "noun indicating garment or hip marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃgulaṃ",
+     "gloss": "two-finger-measures",
+     "grounds": "compound indicating measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What offset from the thread is prescribed at the navel on the right side?",
+   "premises": [
+    "The reference is to the right of that thread.",
+    "The location is at the navel.",
+    "The prescribed measure is two angulas."
+   ],
+   "inference": "At the navel, the right-side offset from the thread should be two angulas.",
+   "uncertainties": [
+    "The exact meaning of nīvrakaṃ as a point or garment edge is uncertain."
+   ],
+   "plain_english": "To the right of that thread at the navel, the measure should be two angulas."
+  },
+  {
+   "verse": 2759,
+   "rows": [
+    {
+     "surface": "tatsūtrādvāmato",
+     "gloss": "to-left-of-that-thread",
+     "grounds": "compound indicating position relative to thread",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānu",
+     "gloss": "knee",
+     "grounds": "reference point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "hip-cloth-point",
+     "grounds": "noun indicating garment or hip marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃgulaṃ",
+     "gloss": "three-finger-measures",
+     "grounds": "compound indicating measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What offset from the thread is prescribed at the knee on the left side?",
+   "premises": [
+    "The reference is to the left of that thread.",
+    "The location is at the knee.",
+    "The prescribed measure is three angulas."
+   ],
+   "inference": "At the knee, the left-side offset from the thread should be three angulas.",
+   "uncertainties": [
+    "The exact meaning of nīvraṃ as a point or garment edge is uncertain."
+   ],
+   "plain_english": "To the left of that thread at the knee, the measure should be three angulas."
+  },
+  {
+   "verse": 2760,
+   "rows": [
+    {
+     "surface": "tattribhāgaikabhāgaṃ",
+     "gloss": "one-part-of-that-third",
+     "grounds": "compound expressing fractional measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāṣṇyau",
+     "gloss": "two-heels",
+     "grounds": "dual subject indicating heels",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "dvantaram",
+     "gloss": "interval-between",
+     "grounds": "noun indicating distance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb expressing prescription",
+     "morph": "3.sg.pass-present √iṣ"
+    }
+   ],
+   "question": "What fractional distance is prescribed between the two heels?",
+   "premises": [
+    "The two heels are the reference points.",
+    "An interval between them is specified.",
+    "That interval is one part of a third."
+   ],
+   "inference": "The distance between the heels is prescribed as one-third part of the stated measure.",
+   "uncertainties": [
+    "The base measure from which the third is taken is not stated in this verse."
+   ],
+   "plain_english": "The interval between the two heels is prescribed as one part of that third."
+  },
+  {
+   "verse": 2761,
+   "rows": [
+    {
+     "surface": "nābhestu",
+     "gloss": "from-navel",
+     "grounds": "ablative with particle indicating source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "maṇibandhāntaṃ",
+     "gloss": "up-to-wrist-end",
+     "grounds": "compound indicating endpoint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhatrayodaśāṃgulam",
+     "gloss": "thirteen-and-half-finger-measures",
+     "grounds": "compound indicating length",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed from the navel to the end of the wrist?",
+   "premises": [
+    "The starting point is the navel.",
+    "The endpoint is the wrist.",
+    "The prescribed length is thirteen and a half angulas."
+   ],
+   "inference": "The distance from the navel to the wrist end should be thirteen and a half angulas.",
+   "uncertainties": [],
+   "plain_english": "From the navel to the end of the wrist is thirteen and a half angulas."
+  },
+  {
+   "verse": 2762,
+   "rows": [
+    {
+     "surface": "kaṭisaṃdhaiḥ",
+     "gloss": "from-hip-joints",
+     "grounds": "ablative or instrumental plural indicating reference",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-part-measure",
+     "grounds": "compound indicating measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "lambahastasya",
+     "gloss": "of-hanging-hand",
+     "grounds": "genitive specifying whose elbow",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "korparam",
+     "gloss": "elbow",
+     "grounds": "noun indicating body part",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What measure is specified for the elbow of the hanging hand from the hip joints?",
+   "premises": [
+    "The hip joints serve as reference points.",
+    "The hanging hand’s elbow is measured.",
+    "The measure given is four parts."
+   ],
+   "inference": "The elbow of the hanging hand is placed at a four-part measure from the hip joints.",
+   "uncertainties": [
+    "The grammatical relation of kaṭisaṃdhaiḥ and the exact direction of measurement are not fully explicit."
+   ],
+   "plain_english": "From the hip joints, the elbow of the hanging hand is at a four-part measure."
+  },
+  {
+   "verse": 2763,
+   "rows": [
+    {
+     "surface": "ūrvāgrāttatkarāgrāntaṃ",
+     "gloss": "from-thigh-tip-to-that-hand-tip",
+     "grounds": "compound indicating span from thigh tip to hand tip",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "daśāṃgulam",
+     "gloss": "ten-finger-measures",
+     "grounds": "compound indicating length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "declared",
+     "grounds": "past participle indicating stated measure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What distance is declared between the thigh tip and the hand tip?",
+   "premises": [
+    "The span runs from the thigh tip to the hand tip.",
+    "A specific length is stated.",
+    "That length is ten angulas."
+   ],
+   "inference": "The distance from the thigh tip to the hand tip is declared to be ten angulas.",
+   "uncertainties": [],
+   "plain_english": "From the tip of the thigh to the tip of that hand is declared to be ten angulas."
+  },
+  {
+   "verse": 2764,
+   "rows": [
+    {
+     "surface": "susthitaṃ",
+     "gloss": "well-placed",
+     "grounds": "adjective describing position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāmapādaṃ",
+     "gloss": "left-foot",
+     "grounds": "accusative object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "adjective describing other foot",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuṃcitaṃ",
+     "gloss": "bent",
+     "grounds": "adjective describing position",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "How should the left and right feet be positioned in this stance?",
+   "premises": [
+    "The left foot is described as well placed.",
+    "The right foot is described as bent.",
+    "Both positions are prescribed."
+   ],
+   "inference": "The stance requires the left foot to be firmly placed and the right foot to be bent.",
+   "uncertainties": [],
+   "plain_english": "The left foot should be well placed, and the right foot should be bent."
+  },
+  {
+   "verse": 2765,
+   "rows": [
+    {
+     "surface": "prasārya",
+     "gloss": "having-stretched",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmasūtraṃ",
+     "gloss": "sacred-thread-line",
+     "grounds": "object indicating plumb line",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvantaraṃ",
+     "gloss": "interval-between",
+     "grounds": "object being measured",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramīyate",
+     "gloss": "is-measured",
+     "grounds": "passive verb expressing measurement",
+     "morph": "3.sg.pass-present √mā"
+    }
+   ],
+   "question": "By what means are the intervals measured in this configuration?",
+   "premises": [
+    "The sacred thread line is stretched.",
+    "Intervals are the subject of measurement.",
+    "Measurement is performed accordingly."
+   ],
+   "inference": "The intervals are measured by stretching the sacred thread line.",
+   "uncertainties": [],
+   "plain_english": "Having stretched the sacred thread line, the interval is measured."
+  },
+  {
+   "verse": 2766,
+   "rows": [
+    {
+     "surface": "tatsūtrādvāmato",
+     "gloss": "to-left-of-that-thread",
+     "grounds": "compound indicating position relative to thread",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nābhi",
+     "gloss": "navel",
+     "grounds": "reference point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "hip-cloth-point",
+     "grounds": "noun indicating garment or hip marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvyaṃgulakaṃ",
+     "gloss": "two-finger-measures",
+     "grounds": "compound indicating measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What offset from the thread is prescribed at the navel on the left side?",
+   "premises": [
+    "The reference is to the left of that thread.",
+    "The location is at the navel.",
+    "The prescribed measure is two angulas."
+   ],
+   "inference": "At the navel, the left-side offset from the thread should be two angulas.",
+   "uncertainties": [
+    "The exact meaning of nīvraṃ as a point or garment edge is uncertain."
+   ],
+   "plain_english": "To the left of that thread at the navel, the measure should be two angulas."
+  },
+  {
+   "verse": 2767,
+   "rows": [
+    {
+     "surface": "tatsūtrāddakṣiṇe",
+     "gloss": "to-right-of-that-thread",
+     "grounds": "compound indicating position relative to thread",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jānu",
+     "gloss": "knee",
+     "grounds": "reference point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "hip-cloth-point",
+     "grounds": "noun indicating garment or hip marker",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "guṇāṃgulaṃ",
+     "gloss": "three-finger-measures",
+     "grounds": "compound indicating measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What offset from the thread is prescribed at the knee on the right side?",
+   "premises": [
+    "The reference is to the right of that thread.",
+    "The location is at the knee.",
+    "The prescribed measure is three angulas."
+   ],
+   "inference": "At the knee, the right-side offset from the thread should be three angulas.",
+   "uncertainties": [
+    "The exact meaning of nīvraṃ as a point or garment edge is uncertain."
+   ],
+   "plain_english": "To the right of that thread at the knee, the measure should be three angulas."
+  },
+  {
+   "verse": 2768,
+   "rows": [
+    {
+     "surface": "sarasvatyādi",
+     "gloss": "sarasvati-and-others",
+     "grounds": "compound indicating a group beginning with Sarasvati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-powers",
+     "grounds": "genitive plural indicating group",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "prāgeva",
+     "gloss": "already-before",
+     "grounds": "compound adverb indicating prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "procyate",
+     "gloss": "is-stated",
+     "grounds": "passive verb indicating prior teaching",
+     "morph": "3.sg.pass-present √vac"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "disjunctive particle introducing alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does the text relate the present instruction to earlier teachings about powers?",
+   "premises": [
+    "Powers beginning with Sarasvati are mentioned.",
+    "Their treatment has already been stated earlier.",
+    "An alternative is introduced."
+   ],
+   "inference": "The text refers back to earlier instructions for these powers or offers an alternative.",
+   "uncertainties": [
+    "The specific earlier passage being referenced is not identified here."
+   ],
+   "plain_english": "For the powers beginning with Sarasvati, it has already been stated before, or alternatively as follows."
+  },
+  {
+   "verse": 2769,
+   "rows": [
+    {
+     "surface": "candrādityāśvinī",
+     "gloss": "moon-sun-ashvins",
+     "grounds": "compound listing deities or figures",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṛṣayaḥ",
+     "gloss": "sages",
+     "grounds": "noun in list",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grahastathā",
+     "gloss": "planets-likewise",
+     "grounds": "compound with adverb indicating inclusion",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which additional figures are included alongside the previously mentioned powers?",
+   "premises": [
+    "The moon, sun, and Ashvins are named.",
+    "Sages are included.",
+    "Planets are likewise included."
+   ],
+   "inference": "The list extends to include the moon, sun, Ashvins, sages, and planets.",
+   "uncertainties": [
+    "The grammatical number of candrādityāśvinī and grahastathā is compressed in the compound form."
+   ],
+   "plain_english": "The moon, sun, and Ashvins, as well as the sages and likewise the planets, are included."
+  },
+  {
+   "verse": 2770,
+   "rows": [
+    {
+     "surface": "kanyasaṃ",
+     "gloss": "small-form",
+     "grounds": "adjective indicating smaller scale",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśatālena",
+     "gloss": "by-ten-tala-measure",
+     "grounds": "instrumental indicating standard of proportion",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kārayettu",
+     "gloss": "one-should-make",
+     "grounds": "causative optative expressing prescription",
+     "morph": "3.sg.act-optative-causative √kṛ"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "skilled-one",
+     "grounds": "subject noun indicating expert",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What proportional standard should an expert use for making the smaller form?",
+   "premises": [
+    "A smaller form is to be made.",
+    "The ten-tala measure is specified.",
+    "A skilled person should carry out the making."
+   ],
+   "inference": "An expert should make the smaller form according to the ten-tala standard.",
+   "uncertainties": [],
+   "plain_english": "The skilled person should make the smaller form according to the ten-tala measure."
+  },
+  {
+   "verse": 2771,
+   "rows": [
+    {
+     "surface": "keśāntāddhanu",
+     "gloss": "from-hair-end-to-bow",
+     "grounds": "compound indicating span from hair end to bow point",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paryantaṃ",
+     "gloss": "up-to-limit",
+     "grounds": "noun indicating extent",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhabhānvaṃgulaṃ",
+     "gloss": "twelve-and-half-finger-measures",
+     "grounds": "compound indicating length with bhānu as twelve",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What length is prescribed from the hair end to the stated limit?",
+   "premises": [
+    "The span begins at the hair end.",
+    "It extends to the stated limit.",
+    "The prescribed length is twelve and a half angulas."
+   ],
+   "inference": "The distance from the hair end to that limit should be twelve and a half angulas.",
+   "uncertainties": [
+    "The exact referent of dhanu in this measurement context is uncertain."
+   ],
+   "plain_english": "From the end of the hair to that limit should be twelve and a half angulas."
+  },
+  {
+   "verse": 2772,
+   "rows": [
+    {
+     "surface": "hikkādistanasūtrāntaṃ",
+     "gloss": "from-hollow-to-breast-line-end",
+     "grounds": "compound indicating span from hikka to breast line end",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhabhānvaṃgulaṃ",
+     "gloss": "twelve-and-half-finger-measures",
+     "grounds": "compound indicating length with bhānu as twelve",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What length is prescribed from the hollow to the end of the breast line?",
+   "premises": [
+    "The span begins at the hikka region.",
+    "It ends at the breast line.",
+    "The prescribed length is twelve and a half angulas."
+   ],
+   "inference": "The distance from the hollow to the breast line end should be twelve and a half angulas.",
+   "uncertainties": [
+    "The anatomical referent of hikkā is interpreted as the throat or clavicular hollow."
+   ],
+   "plain_english": "From the hollow to the end of the breast line should be twelve and a half angulas."
+  },
+  {
+   "verse": 2773,
+   "rows": [
+    {
+     "surface": "vāmestu",
+     "gloss": "from-left",
+     "grounds": "ablative with particle indicating source",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "meḍhramūlāntaṃ",
+     "gloss": "up-to-genital-root-end",
+     "grounds": "compound indicating endpoint",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sārdhadvādaśamātrakam",
+     "gloss": "twelve-and-half-measures",
+     "grounds": "compound indicating length",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length is prescribed from the left side to the root of the genitals?",
+   "premises": [
+    "The starting point is the left side.",
+    "The endpoint is the root of the genitals.",
+    "The prescribed length is twelve and a half measures."
+   ],
+   "inference": "The distance from the left side to the genital root end should be twelve and a half measures.",
+   "uncertainties": [
+    "The exact starting reference implied by vāmestu is not fully explicit."
+   ],
+   "plain_english": "From the left side to the root of the genitals should be twelve and a half measures."
+  },
+  {
+   "verse": 2774,
+   "rows": [
+    {
+     "surface": "vedāṃgulaṃ",
+     "gloss": "four-finger-measures",
+     "grounds": "compound indicating length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānu",
+     "gloss": "knee",
+     "grounds": "subject noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.act-optative √as"
+    },
+    {
+     "surface": "jaṃghāsamorusādṛśam",
+     "gloss": "like-calf-and-thigh",
+     "grounds": "compound indicating similarity to calf and thigh",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measure and proportion are prescribed for the knee in relation to the leg?",
+   "premises": [
+    "The knee is the subject.",
+    "Its measure is four angulas.",
+    "It should be similar to the calf and thigh."
+   ],
+   "inference": "The knee should measure four angulas and be proportionate to the calf and thigh.",
+   "uncertainties": [
+    "The exact sense of similarity to calf and thigh is not fully specified."
+   ],
+   "plain_english": "The knee should be four angulas and similar in proportion to the calf and thigh."
+  }
+ ]
+}

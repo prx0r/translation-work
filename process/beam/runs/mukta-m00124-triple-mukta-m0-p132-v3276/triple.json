@@ -1,0 +1,974 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3276,
+   "rows": [
+    {
+     "surface": "kampakarṇau",
+     "gloss": "trembling-ear",
+     "grounds": "legacy hint trembling+ear",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "legacy hint by-two-parts",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "legacy hint one",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kampaṃ",
+     "gloss": "trembling",
+     "grounds": "legacy hint trembling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathābjakam",
+     "gloss": "thus-lotus-like",
+     "grounds": "legacy hint lotus-like",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are trembling ear and one trembling measured by two parts and lotus-like?",
+   "premises": [
+    "trembling ear is named",
+    "two parts are used",
+    "one trembling is named",
+    "lotus-like form is named"
+   ],
+   "inference": "The verse names trembling ear, two parts, one trembling, and lotus-like form together.",
+   "uncertainties": [
+    "exact grammatical case is inferred from legacy hints"
+   ],
+   "plain_english": "Trembling ear, by two parts, one trembling, thus lotus-like."
+  },
+  {
+   "verse": 3277,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syātpādabandhaṃ",
+     "gloss": "should-be-foot-binding",
+     "grounds": "legacy hint should-be-foot-binding",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chedanīyaṃ",
+     "gloss": "to-be-cut",
+     "grounds": "legacy hint to-be-cut",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yathocitam",
+     "gloss": "as-proper",
+     "grounds": "legacy hint as-proper",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should foot-binding be cut as proper?",
+   "premises": [
+    "thus is stated",
+    "foot-binding should be",
+    "but is added",
+    "to-be-cut is named",
+    "as-proper is named"
+   ],
+   "inference": "Foot-binding should be cut as proper.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Thus foot-binding should be, but cut as proper."
+  },
+  {
+   "verse": 3278,
+   "rows": [
+    {
+     "surface": "pratibandhaṃ",
+     "gloss": "obstruction",
+     "grounds": "legacy hint obstruction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-will-declare",
+     "grounds": "legacy hint I-will-declare",
+     "morph": "1.sg.act-fut"
+    },
+    {
+     "surface": "trayoviṃśatibhājite",
+     "gloss": "twenty-three-divided",
+     "grounds": "legacy hint twenty-three-divided",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What obstruction will be declared in twenty-three divided measure?",
+   "premises": [
+    "obstruction is named",
+    "I will declare",
+    "twenty-three divided is named"
+   ],
+   "inference": "An obstruction will be declared in twenty-three divided measure.",
+   "uncertainties": [
+    "exact locative sense inferred"
+   ],
+   "plain_english": "Obstruction I will declare in twenty-three divided."
+  },
+  {
+   "verse": 3279,
+   "rows": [
+    {
+     "surface": "āliṅgamardhabhāgaṃ",
+     "gloss": "embrace-half-part",
+     "grounds": "legacy hint embrace-half-part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dvāviṃśatyaṃśake",
+     "gloss": "twenty-two-part",
+     "grounds": "legacy hint twenty-two-part",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "legacy hint done",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What embrace half-part should be when twenty-two part is done?",
+   "premises": [
+    "embrace half-part is named",
+    "should-be is stated",
+    "twenty-two part is named",
+    "done is named"
+   ],
+   "inference": "An embrace half-part should be when twenty-two part is done.",
+   "uncertainties": [
+    "partitive relation inferred"
+   ],
+   "plain_english": "Embrace half-part should be, twenty-two part done."
+  },
+  {
+   "verse": 3280,
+   "rows": [
+    {
+     "surface": "tadevaṃ",
+     "gloss": "that-thus",
+     "grounds": "legacy hint that-thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "kumuda",
+     "grounds": "legacy hint kumuda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vajana",
+     "grounds": "legacy hint vajana",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syātkapotakam",
+     "gloss": "should-be-pigeon",
+     "grounds": "legacy hint should-be-pigeon",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What is declared as kumuda and vajana should be pigeon?",
+   "premises": [
+    "that thus is stated",
+    "kumuda is named",
+    "declared is stated",
+    "vajana is named",
+    "should-be pigeon is named"
+   ],
+   "inference": "Kumuda is declared and vajana should be pigeon.",
+   "uncertainties": [
+    "exact syntactic relation inferred"
+   ],
+   "plain_english": "That thus kumuda declared, vajana should be pigeon."
+  },
+  {
+   "verse": 3281,
+   "rows": [
+    {
+     "surface": "devadvijanarendrāṇāṃ",
+     "gloss": "of-gods-brahmins-kings",
+     "grounds": "legacy hint of-gods-brahmins-kings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "praśastaṃ",
+     "gloss": "auspicious",
+     "grounds": "legacy hint auspicious",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nānyajātiṣu",
+     "gloss": "not-other-castes",
+     "grounds": "legacy hint not-other-castes",
+     "morph": "m.loc.pl"
+    }
+   ],
+   "question": "For whom is this auspicious and not for other castes?",
+   "premises": [
+    "of gods brahmins kings is named",
+    "auspicious is named",
+    "not other castes is named"
+   ],
+   "inference": "It is auspicious for gods, brahmins, and kings, not other castes.",
+   "uncertainties": [
+    "referent of auspicious inferred"
+   ],
+   "plain_english": "Of gods, brahmins, kings auspicious, not other castes."
+  },
+  {
+   "verse": 3282,
+   "rows": [
+    {
+     "surface": "ambujaṃ",
+     "gloss": "lotus",
+     "grounds": "legacy hint lotus",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "kumuda",
+     "grounds": "legacy hint kumuda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhūtairekāṃśaṃ",
+     "gloss": "by-beings-one-part",
+     "grounds": "legacy hint by-beings-one-part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "padmamiṣyate",
+     "gloss": "lotus-is-desired",
+     "grounds": "legacy hint lotus-is-desired",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "How are lotus and kumuda desired by beings one part?",
+   "premises": [
+    "lotus is named",
+    "kumuda is named",
+    "by beings one part is named",
+    "lotus is desired"
+   ],
+   "inference": "Lotus and kumuda are desired by beings in one part.",
+   "uncertainties": [
+    "exact partitive relation inferred"
+   ],
+   "plain_english": "Lotus, kumuda, by beings one part, lotus is desired."
+  },
+  {
+   "verse": 3283,
+   "rows": [
+    {
+     "surface": "pratyutsedhaṃ",
+     "gloss": "obstruction",
+     "grounds": "legacy hint obstruction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tribhāgena",
+     "gloss": "by-three-parts",
+     "grounds": "legacy hint by-three-parts",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "sābjakṣepaṇamaṃśukam",
+     "gloss": "lotus-scattering-cloth",
+     "grounds": "legacy hint lotus-scattering-cloth",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is obstruction by three parts and lotus-scattering cloth?",
+   "premises": [
+    "obstruction is named",
+    "by three parts is named",
+    "lotus-scattering cloth is named"
+   ],
+   "inference": "Obstruction is by three parts and lotus-scattering cloth.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Obstruction by three parts, lotus-scattering cloth."
+  },
+  {
+   "verse": 3284,
+   "rows": [
+    {
+     "surface": "aṣṭabhāgaṃ",
+     "gloss": "eighth-part",
+     "grounds": "legacy hint eighth-part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahāpadmaṃ",
+     "gloss": "great-lotus",
+     "grounds": "legacy hint great-lotus",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dṛgekenāṃśato'mbujam",
+     "gloss": "by-eye-one-part",
+     "grounds": "legacy hint by-eye-one-part",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is great lotus eighth part by eye one part?",
+   "premises": [
+    "eighth part is named",
+    "great lotus is named",
+    "by eye one part is named"
+   ],
+   "inference": "Great lotus is eighth part by eye one part.",
+   "uncertainties": [
+    "sandhi form retained"
+   ],
+   "plain_english": "Eighth part great lotus, by eye one part."
+  },
+  {
+   "verse": 3285,
+   "rows": [
+    {
+     "surface": "kampamekena",
+     "gloss": "trembling-by-one",
+     "grounds": "legacy hint trembling-by-one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "karṇastu",
+     "gloss": "ear-but",
+     "grounds": "legacy hint ear-but",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tribhiraṃśena",
+     "gloss": "by-three-parts",
+     "grounds": "legacy hint by-three-parts",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vājanam",
+     "gloss": "vajana",
+     "grounds": "legacy hint vajana",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is trembling by one ear but by three parts vajana?",
+   "premises": [
+    "trembling by one is named",
+    "ear but is named",
+    "by three parts is named",
+    "vajana is named"
+   ],
+   "inference": "Trembling by one, ear but, by three parts, vajana.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "Trembling by one, ear but, by three parts, vajana."
+  },
+  {
+   "verse": 3286,
+   "rows": [
+    {
+     "surface": "āliṅgāntarite",
+     "gloss": "embrace-intervening",
+     "grounds": "legacy hint embrace-intervening",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "legacy hint by-two",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "pratibhāgadvayena",
+     "gloss": "part-twofold",
+     "grounds": "legacy hint part-twofold",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is embrace intervening by two part twofold but?",
+   "premises": [
+    "embrace intervening is named",
+    "by two is named",
+    "part twofold is named",
+    "but is named"
+   ],
+   "inference": "Embrace intervening is by two part twofold but.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "Embrace intervening by two, part twofold, but."
+  },
+  {
+   "verse": 3287,
+   "rows": [
+    {
+     "surface": "ekaviṃśatibhāge",
+     "gloss": "twenty-one-part",
+     "grounds": "legacy hint twenty-one-part",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janmabhāgena",
+     "gloss": "birth-part",
+     "grounds": "legacy hint birth-part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is declared in twenty-one part but birth part?",
+   "premises": [
+    "twenty-one part is named",
+    "but is named",
+    "birth part is named",
+    "declared is named"
+   ],
+   "inference": "Something is declared in twenty-one part but birth part.",
+   "uncertainties": [
+    "referent omitted in verse"
+   ],
+   "plain_english": "Twenty-one part but birth part declared."
+  },
+  {
+   "verse": 3288,
+   "rows": [
+    {
+     "surface": "jagatī",
+     "gloss": "jagati",
+     "grounds": "legacy hint jagati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kumudaṃ",
+     "gloss": "kumuda",
+     "grounds": "legacy hint kumuda",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ṣaḍbhirekenāliṅgagamaṃśuke",
+     "gloss": "by-six",
+     "grounds": "legacy hint by-six",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is jagati kumuda by six?",
+   "premises": [
+    "jagati is named",
+    "kumuda is named",
+    "by six is named"
+   ],
+   "inference": "Jagati kumuda is by six.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Jagati kumuda by six."
+  },
+  {
+   "verse": 3289,
+   "rows": [
+    {
+     "surface": "ekabhāgena",
+     "gloss": "by-one-part",
+     "grounds": "legacy hint by-one-part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "should-be-done",
+     "grounds": "legacy hint should-be-done",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "latāpatrādiśobhitam",
+     "gloss": "vine-leaf-etc-adorned",
+     "grounds": "legacy hint vine-leaf-etc-adorned",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What should be done by one part adorned with vine leaf etc?",
+   "premises": [
+    "by one part is named",
+    "should be done is named",
+    "vine leaf etc adorned is named"
+   ],
+   "inference": "Something should be done by one part adorned with vine leaf etc.",
+   "uncertainties": [
+    "referent omitted in verse"
+   ],
+   "plain_english": "By one part should be done, vine leaf etc adorned."
+  },
+  {
+   "verse": 3290,
+   "rows": [
+    {
+     "surface": "vājanaṃ",
+     "gloss": "vajana",
+     "grounds": "legacy hint vajana",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syānmahāpadmaṃ",
+     "gloss": "should-be-great-lotus",
+     "grounds": "legacy hint should-be-great-lotus",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saptabhāgena",
+     "gloss": "by-seven-parts",
+     "grounds": "legacy hint by-seven-parts",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is vajana should be great lotus by seven parts declared?",
+   "premises": [
+    "vajana is named",
+    "should be great lotus is named",
+    "by seven parts is named",
+    "declared is named"
+   ],
+   "inference": "Vajana should be great lotus by seven parts declared.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "Vajana should be great lotus, by seven parts declared."
+  },
+  {
+   "verse": 3291,
+   "rows": [
+    {
+     "surface": "abjamekena",
+     "gloss": "lotus-by-one",
+     "grounds": "legacy hint lotus-by-one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kampaṃ",
+     "gloss": "trembling",
+     "grounds": "legacy hint trembling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "syādaṃśamagnyaṃśakairgalam",
+     "gloss": "should-be-part-fire-part-neck",
+     "grounds": "legacy hint should-be-part-fire-part-neck",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is lotus by one trembling should be part fire part neck?",
+   "premises": [
+    "lotus by one is named",
+    "trembling is named",
+    "should be part fire part neck is named"
+   ],
+   "inference": "Lotus by one trembling should be part fire part neck.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Lotus by one trembling, should be part fire part neck."
+  },
+  {
+   "verse": 3292,
+   "rows": [
+    {
+     "surface": "āliṅgāntarite",
+     "gloss": "embrace-intervening",
+     "grounds": "legacy hint embrace-intervening",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "legacy hint by-two",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "pratibhāgadvayena",
+     "gloss": "part-twofold",
+     "grounds": "legacy hint part-twofold",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "legacy hint but",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is embrace intervening by two part twofold but?",
+   "premises": [
+    "embrace intervening is named",
+    "by two is named",
+    "part twofold is named",
+    "but is named"
+   ],
+   "inference": "Embrace intervening is by two part twofold but.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "Embrace intervening by two, part twofold, but."
+  },
+  {
+   "verse": 3293,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "legacy hint by-one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "janmaṣaḍbhāgairjagatī",
+     "gloss": "birth-six-parts",
+     "grounds": "legacy hint birth-six-parts",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śarabhāgikam",
+     "gloss": "arrow-part",
+     "grounds": "legacy hint arrow-part",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is by one birth six parts jagati arrow part?",
+   "premises": [
+    "by one is named",
+    "birth six parts jagati is named",
+    "arrow part is named"
+   ],
+   "inference": "By one birth six parts jagati arrow part.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "By one birth six parts jagati arrow part."
+  },
+  {
+   "verse": 3294,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "legacy hint by-one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kampamaṃśena",
+     "gloss": "trembling-part",
+     "grounds": "legacy hint trembling-part",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "galaṃ",
+     "gloss": "neck",
+     "grounds": "legacy hint neck",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tryaṃśaiḥ",
+     "gloss": "by-three-parts",
+     "grounds": "legacy hint by-three-parts",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kapotakam",
+     "gloss": "pigeon",
+     "grounds": "legacy hint pigeon",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is neck by one trembling part by three parts pigeon?",
+   "premises": [
+    "by one is named",
+    "trembling part is named",
+    "neck is named",
+    "by three parts is named",
+    "pigeon is named"
+   ],
+   "inference": "Neck by one trembling part by three parts pigeon.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "By one trembling part neck, by three parts pigeon."
+  },
+  {
+   "verse": 3295,
+   "rows": [
+    {
+     "surface": "tattadeva",
+     "gloss": "that-that-indeed",
+     "grounds": "legacy hint that-that-indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavedūrdhvaṃ",
+     "gloss": "should-be-above",
+     "grounds": "legacy hint should-be-above",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhāgenāntaritaṃ",
+     "gloss": "by-part-intervening",
+     "grounds": "legacy hint by-part-intervening",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "legacy hint should-be",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What should be above by part intervening?",
+   "premises": [
+    "that that indeed is named",
+    "should be above is named",
+    "by part intervening is named",
+    "should be is named"
+   ],
+   "inference": "That should be above by part intervening.",
+   "uncertainties": [
+    "referent omitted in verse"
+   ],
+   "plain_english": "That indeed should be above, by part intervening should be."
+  },
+  {
+   "verse": 3296,
+   "rows": [
+    {
+     "surface": "sārdhajaṃ",
+     "gloss": "half-born",
+     "grounds": "legacy hint half-born",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vārdhajaṃ",
+     "gloss": "half-born",
+     "grounds": "legacy hint half-born",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kampaṃ",
+     "gloss": "trembling",
+     "grounds": "legacy hint trembling",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahāpadmaṃ",
+     "gloss": "great-lotus",
+     "grounds": "legacy hint great-lotus",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śarāṃśakam",
+     "gloss": "arrow-part",
+     "grounds": "legacy hint arrow-part",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How are half-born, trembling, great lotus, and arrow part?",
+   "premises": [
+    "half-born is named",
+    "half-born is named",
+    "trembling is named",
+    "great lotus is named",
+    "arrow part is named"
+   ],
+   "inference": "Half-born, trembling, great lotus, and arrow part are named together.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "Half-born, half-born, trembling, great lotus, arrow part."
+  },
+  {
+   "verse": 3297,
+   "rows": [
+    {
+     "surface": "padmamaṃśaṃ",
+     "gloss": "lotus-part",
+     "grounds": "legacy hint lotus-part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhavetkampamaṃśena",
+     "gloss": "should-be-trembling",
+     "grounds": "legacy hint should-be-trembling",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is lotus part should be trembling declared?",
+   "premises": [
+    "lotus part is named",
+    "should be trembling is named",
+    "declared is named"
+   ],
+   "inference": "Lotus part should be trembling declared.",
+   "uncertainties": [
+    "compound internal sandhi not expanded"
+   ],
+   "plain_english": "Lotus part should be trembling, declared."
+  },
+  {
+   "verse": 3298,
+   "rows": [
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "by-two",
+     "grounds": "legacy hint by-two",
+     "morph": "m.ins.du"
+    },
+    {
+     "surface": "janmāṃśataḥ",
+     "gloss": "birth-part",
+     "grounds": "legacy hint birth-part",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "legacy hint lotus",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kampamekena",
+     "gloss": "trembling-by-one",
+     "grounds": "legacy hint trembling-by-one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kīrtitam",
+     "gloss": "declared",
+     "grounds": "legacy hint declared",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How is lotus declared by two birth part trembling by one?",
+   "premises": [
+    "by two is named",
+    "birth part is named",
+    "lotus is named",
+    "trembling by one is named",
+    "declared is named"
+   ],
+   "inference": "Lotus is declared by two birth part trembling by one.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "By two birth part lotus, trembling by one, declared."
+  },
+  {
+   "verse": 3299,
+   "rows": [
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "legacy hint one-part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "padmamekena",
+     "gloss": "lotus-by-one",
+     "grounds": "legacy hint lotus-by-one",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "legacy hint lotus",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kaṇṭho",
+     "gloss": "neck",
+     "grounds": "legacy hint neck",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvibhāgataḥ",
+     "gloss": "by-two-parts",
+     "grounds": "legacy hint by-two-parts",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How is one part lotus by one lotus neck by two parts?",
+   "premises": [
+    "one part is named",
+    "lotus by one is named",
+    "lotus is named",
+    "neck is named",
+    "by two parts is named"
+   ],
+   "inference": "One part lotus by one lotus neck by two parts.",
+   "uncertainties": [
+    "exact relation inferred"
+   ],
+   "plain_english": "One part lotus, lotus by one, lotus, neck by two parts."
+  }
+ ]
+}

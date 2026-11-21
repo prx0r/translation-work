@@ -1,0 +1,45 @@
+{
+ "song": "sva-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "daśītam",
+     "gloss": "shown",
+     "grounds": "past participle of daś, shown",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśītam",
+     "gloss": "shown",
+     "grounds": "past participle of daś, shown",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is shown indeed shown indeed?",
+   "premises": [
+    "daśītam means shown",
+    "eva means indeed",
+    "repetition emphasizes shown"
+   ],
+   "inference": "the verse repeats shown indeed",
+   "uncertainties": [
+    "exact syntactic role uncertain"
+   ],
+   "plain_english": "Shown indeed, shown indeed."
+  }
+ ]
+}

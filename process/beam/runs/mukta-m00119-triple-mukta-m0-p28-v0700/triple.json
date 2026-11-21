@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p28",
+ "items": [
+  {
+   "verse": 700,
+   "rows": [
+    {
+     "surface": "nirantaraṃ",
+     "gloss": "constantly",
+     "grounds": "adverb of uninterrupted practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "past participle of kṛ",
+     "morph": "part.m.nom/acc.sg.n"
+    },
+    {
+     "surface": "dvitrardapañcabhiḥ",
+     "gloss": "by-two-three-four-five",
+     "grounds": "instrumental plural indicating number of agents",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many agents perform the rite constantly and without interruption?",
+   "premises": [
+    "The rite is done constantly.",
+    "It is done by two, three, four, or five agents.",
+    "The agents act without interruption."
+   ],
+   "inference": "The verse specifies a small variable number of agents for constant performance.",
+   "uncertainties": [
+    "The exact ritual referent of the agents is not explicit in this verse.",
+    "The compound's internal sandhi and member boundaries are not fully resolved."
+   ],
+   "plain_english": "It is done constantly by two, three, four, or five."
+  }
+ ]
+}

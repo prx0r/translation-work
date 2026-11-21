@@ -1,0 +1,918 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2351,
+   "rows": [
+    {
+     "surface": "snapayet",
+     "gloss": "bathe",
+     "grounds": "causative verb",
+     "morph": "3.sg.act-pres-root"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūritaiḥ",
+     "gloss": "filled",
+     "grounds": "past participle",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "saptasaptakaiḥ",
+     "gloss": "seven-sevenfold",
+     "grounds": "compound",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "How does the rite bathe the installed form with sevenfold filled substances?",
+   "premises": [
+    "bathing follows prior order",
+    "filled substances are used",
+    "sevenfold count is specified"
+   ],
+   "inference": "The verse prescribes a sevenfold bathing with filled substances in the established sequence.",
+   "uncertainties": [
+    "exact substance list not given"
+   ],
+   "plain_english": "Bathe as before with filled sevenfold substances."
+  },
+  {
+   "verse": 2352,
+   "rows": [
+    {
+     "surface": "pavamānaiḥ",
+     "gloss": "purifying",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what order are purifying substances applied during the bathing?",
+   "premises": [
+    "purifying substances are named",
+    "application proceeds in order"
+   ],
+   "inference": "The verse directs ordered application of purifying substances.",
+   "uncertainties": [
+    "specific substances unspecified"
+   ],
+   "plain_english": "Thus with purifying substances in order."
+  },
+  {
+   "verse": 2353,
+   "rows": [
+    {
+     "surface": "daśapraṇavagāyatryā",
+     "gloss": "ten-pranava-gayatri",
+     "grounds": "compound instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "madhyena",
+     "gloss": "through-middle",
+     "grounds": "instrumental singular",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tvabhiṣecayet",
+     "gloss": "bathe",
+     "grounds": "causative verb",
+     "morph": "3.sg.act-opt-root"
+    }
+   ],
+   "question": "How is the middle bath performed with ten-pranava gayatri?",
+   "premises": [
+    "ten-pranava gayatri is used",
+    "middle application is specified",
+    "bathing is commanded"
+   ],
+   "inference": "The verse commands bathing through the middle using ten-pranava gayatri.",
+   "uncertainties": [
+    "ritual context implied"
+   ],
+   "plain_english": "Bathe through the middle with ten-pranava gayatri."
+  },
+  {
+   "verse": 2354,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidrākumbhaṃ",
+     "gloss": "sleep-pot",
+     "grounds": "compound accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    }
+   ],
+   "question": "Where is the sleep-pot placed in the sequence?",
+   "premises": [
+    "placement follows prior order",
+    "sleep-pot is named",
+    "placement is commanded"
+   ],
+   "inference": "The verse commands placing the sleep-pot as before.",
+   "uncertainties": [
+    "exact location unspecified"
+   ],
+   "plain_english": "Place the sleep-pot as before."
+  },
+  {
+   "verse": 2355,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "place",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    },
+    {
+     "surface": "cātmāditattvāni",
+     "gloss": "self-etc-principles",
+     "grounds": "compound accusative",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "jānukaṇṭhaśirovadhi",
+     "gloss": "knee-throat-head-limit",
+     "grounds": "compound adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the self and related principles placed on the body?",
+   "premises": [
+    "principles are placed",
+    "body limits are named",
+    "placement is commanded"
+   ],
+   "inference": "The verse places self and related principles from knee to throat to head.",
+   "uncertainties": [
+    "exact mapping unspecified"
+   ],
+   "plain_english": "Place self and related principles from knee to throat to head."
+  },
+  {
+   "verse": 2356,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raśmīn",
+     "gloss": "rays",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhāgatraye",
+     "gloss": "three-parts",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How are rays distributed among three parts in order?",
+   "premises": [
+    "rays are named",
+    "three parts are named",
+    "ordered distribution is stated"
+   ],
+   "inference": "The verse distributes rays among three parts in order.",
+   "uncertainties": [
+    "ray identities unspecified"
+   ],
+   "plain_english": "And rays in three parts in order."
+  },
+  {
+   "verse": 2357,
+   "rows": [
+    {
+     "surface": "bhūmyaptejomarudvyomamanohaṅkārabuddhayaḥ",
+     "gloss": "earth-water-fire-air-space-mind-ego-intellect",
+     "grounds": "long compound nominative",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which tattvas are enumerated in this compound?",
+   "premises": [
+    "compound lists eight tattvas",
+    "nominative plural form"
+   ],
+   "inference": "The verse names earth, water, fire, air, space, mind, ego, and intellect.",
+   "uncertainties": [
+    "syntactic role in sentence implied"
+   ],
+   "plain_english": "Earth, water, fire, air, space, mind, ego, and intellect."
+  },
+  {
+   "verse": 2358,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mitraśca",
+     "gloss": "mitra",
+     "grounds": "compound with ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varuṇo",
+     "gloss": "varuna",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "'śo",
+     "gloss": "amsha",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhagastathā",
+     "gloss": "bhaga-thus",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which solar deities are named alongside mitra and varuna?",
+   "premises": [
+    "mitra is named",
+    "varuna is named",
+    "amsha and bhaga are named"
+   ],
+   "inference": "The verse names mitra, varuna, amsha, and bhaga among the deities.",
+   "uncertainties": [
+    "exact list continues elsewhere"
+   ],
+   "plain_english": "And mitra, and varuna, amsha, and bhaga thus."
+  },
+  {
+   "verse": 2359,
+   "rows": [
+    {
+     "surface": "mūrtipāḥ",
+     "gloss": "forms",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tvete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktayaḥ",
+     "gloss": "powers",
+     "grounds": "nominative plural",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How many forms and powers are enumerated here?",
+   "premises": [
+    "twelve forms are stated",
+    "powers are named",
+    "these are specified"
+   ],
+   "inference": "The verse states there are twelve forms and powers.",
+   "uncertainties": [
+    "exact enumeration implied"
+   ],
+   "plain_english": "These twelve forms indeed, then powers."
+  },
+  {
+   "verse": 2360,
+   "rows": [
+    {
+     "surface": "vidyutā",
+     "gloss": "lightning",
+     "grounds": "instrumental singular",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathitā",
+     "gloss": "said",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvatomukhī",
+     "gloss": "all-facing",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is said to be all-facing with lightning?",
+   "premises": [
+    "lightning is named",
+    "all-facing is stated",
+    "said is stated"
+   ],
+   "inference": "The verse says the all-facing power is stated with lightning.",
+   "uncertainties": [
+    "referent implied"
+   ],
+   "plain_english": "With lightning indeed said all-facing."
+  },
+  {
+   "verse": 2361,
+   "rows": [
+    {
+     "surface": "svāṅgamūlakhaṣotkaiḥ",
+     "gloss": "own-limb-root-ashes",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sāvitryā",
+     "gloss": "savitr",
+     "grounds": "instrumental singular",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "mūrtimūrtipaiḥ",
+     "gloss": "form-forms",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What materials and forms are used with savitr?",
+   "premises": [
+    "own limb root ashes are named",
+    "savitr is named",
+    "form-forms are named"
+   ],
+   "inference": "The verse names ashes, savitr, and form-forms as materials.",
+   "uncertainties": [
+    "exact ritual use implied"
+   ],
+   "plain_english": "With own-limb root ashes and savitr form-forms."
+  },
+  {
+   "verse": 2362,
+   "rows": [
+    {
+     "surface": "pālāśārkasamitsarpiś",
+     "gloss": "palasha-arka-twigs-ghee",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "carulājatilākṣataiḥ",
+     "gloss": "porridge-laja-tila-akshata",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which offerings are named with palasha, arka, twigs, and ghee?",
+   "premises": [
+    "palasha arka twigs ghee are named",
+    "porridge laja tila akshata are named"
+   ],
+   "inference": "The verse names these offering substances.",
+   "uncertainties": [
+    "exact combination implied"
+   ],
+   "plain_english": "Palasha arka twigs ghee, porridge laja tila akshata."
+  },
+  {
+   "verse": 2363,
+   "rows": [
+    {
+     "surface": "sampātitājyena",
+     "gloss": "poured-ghee",
+     "grounds": "compound instrumental",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śāntikumbhajalairapi",
+     "gloss": "peace-pot-water",
+     "grounds": "compound instrumental",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What liquids are poured for peace?",
+   "premises": [
+    "poured ghee is named",
+    "peace-pot water is named"
+   ],
+   "inference": "The verse names poured ghee and peace-pot water.",
+   "uncertainties": [
+    "exact pouring rite implied"
+   ],
+   "plain_english": "With poured ghee and peace-pot water."
+  },
+  {
+   "verse": 2364,
+   "rows": [
+    {
+     "surface": "kriyāśaktiṃ",
+     "gloss": "action-power",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃsmṛtya",
+     "gloss": "remembering",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "viniyojayet",
+     "gloss": "employ",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    }
+   ],
+   "question": "How is action-power employed in the rite?",
+   "premises": [
+    "action-power is named",
+    "remembering is stated",
+    "employing is commanded"
+   ],
+   "inference": "The verse commands employing action-power after remembering it.",
+   "uncertainties": [
+    "exact employment unspecified"
+   ],
+   "plain_english": "Remembering action-power, employ it."
+  },
+  {
+   "verse": 2365,
+   "rows": [
+    {
+     "surface": "snānādikaṃ",
+     "gloss": "bathing-etc",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "doing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "garbhāgāraṃ",
+     "gloss": "sanctum",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praviśya",
+     "gloss": "entering",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens after bathing before entering the sanctum?",
+   "premises": [
+    "bathing etc is done",
+    "sanctum is entered",
+    "but marks transition"
+   ],
+   "inference": "The verse says after bathing etc one enters the sanctum.",
+   "uncertainties": [
+    "exact sequence implied"
+   ],
+   "plain_english": "Having done bathing etc, enter the sanctum."
+  },
+  {
+   "verse": 2366,
+   "rows": [
+    {
+     "surface": "ratnādipañcavargāṃs",
+     "gloss": "jewel-etc-five-groups",
+     "grounds": "compound accusative",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyasya",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "iṣṭvā",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "consecrate",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    }
+   ],
+   "question": "How are jewel groups placed, worshipped, and consecrated?",
+   "premises": [
+    "jewel etc five groups are named",
+    "placing is stated",
+    "worship and consecration are commanded"
+   ],
+   "inference": "The verse commands placing, worshipping, and consecrating jewel groups.",
+   "uncertainties": [
+    "exact groups unspecified"
+   ],
+   "plain_english": "Place jewel etc five groups, worship, consecrate."
+  },
+  {
+   "verse": 2367,
+   "rows": [
+    {
+     "surface": "ādhāraśaktim",
+     "gloss": "foundation-power",
+     "grounds": "compound accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āvāhya",
+     "gloss": "invoking",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "worship",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "rite",
+     "grounds": "instrumental singular",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is foundation-power invoked and worshipped?",
+   "premises": [
+    "foundation-power is named",
+    "invoking is stated",
+    "worship by rite is stated"
+   ],
+   "inference": "The verse says invoke and worship foundation-power by rite, then proceed.",
+   "uncertainties": [
+    "exact rite unspecified"
+   ],
+   "plain_english": "Invoking foundation-power, worship by rite, then."
+  },
+  {
+   "verse": 2368,
+   "rows": [
+    {
+     "surface": "saṃprāpte",
+     "gloss": "approached",
+     "grounds": "locative absolute",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpako",
+     "gloss": "installer",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mūrtipaiḥ",
+     "gloss": "forms",
+     "grounds": "instrumental plural",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "postposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who approaches with forms during installation?",
+   "premises": [
+    "approached is stated",
+    "installer is named",
+    "forms are named"
+   ],
+   "inference": "The verse says the installer approaches with forms.",
+   "uncertainties": [
+    "exact timing implied"
+   ],
+   "plain_english": "When approached, installer with forms."
+  },
+  {
+   "verse": 2369,
+   "rows": [
+    {
+     "surface": "jñānaśaktyātmakaṃ",
+     "gloss": "knowledge-power-nature",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyāyan",
+     "gloss": "meditating",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "establish",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    },
+    {
+     "surface": "praṇavāṇunā",
+     "gloss": "pranava-anu",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "How is the knowledge-power nature established?",
+   "premises": [
+    "knowledge-power nature is named",
+    "meditating is stated",
+    "establishing is commanded"
+   ],
+   "inference": "The verse commands establishing knowledge-power nature while meditating with pranava-anu.",
+   "uncertainties": [
+    "exact meditation unspecified"
+   ],
+   "plain_english": "Meditating knowledge-power nature, establish with pranava-anu."
+  },
+  {
+   "verse": 2370,
+   "rows": [
+    {
+     "surface": "daśapraṇavagāyatryā",
+     "gloss": "ten-pranava-gayatri",
+     "grounds": "compound instrumental",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "sāvitryā",
+     "gloss": "savitr",
+     "grounds": "instrumental singular",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhimantrayet",
+     "gloss": "consecrate",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    }
+   ],
+   "question": "How is consecration performed with ten-pranava gayatri and savitr?",
+   "premises": [
+    "ten-pranava gayatri is named",
+    "savitr is named",
+    "consecration is commanded"
+   ],
+   "inference": "The verse commands consecration with ten-pranava gayatri and savitr.",
+   "uncertainties": [
+    "exact mantra use implied"
+   ],
+   "plain_english": "Consecrate with ten-pranava gayatri and savitr."
+  },
+  {
+   "verse": 2371,
+   "rows": [
+    {
+     "surface": "nidrākumbhena",
+     "gloss": "sleep-pot",
+     "grounds": "instrumental singular",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "abhiṣiñcet",
+     "gloss": "sprinkle",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "somewhat",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntyudakairapi",
+     "gloss": "peace-water",
+     "grounds": "compound instrumental",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How is sprinkling done with sleep-pot and peace-water?",
+   "premises": [
+    "sleep-pot is named",
+    "sprinkling is commanded",
+    "peace-water is named"
+   ],
+   "inference": "The verse commands sprinkling somewhat with sleep-pot and peace-water.",
+   "uncertainties": [
+    "exact amount unspecified"
+   ],
+   "plain_english": "Sprinkle with sleep-pot, somewhat with peace-water."
+  },
+  {
+   "verse": 2372,
+   "rows": [
+    {
+     "surface": "yavacūrṇādyaiḥ",
+     "gloss": "barley-powder-etc",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "kumbhāstrasalilaistataḥ",
+     "gloss": "pot-weapon-water",
+     "grounds": "compound instrumental",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What substances are used with barley powder and pot weapon water?",
+   "premises": [
+    "barley powder etc is named",
+    "pot weapon water is named"
+   ],
+   "inference": "The verse names barley powder and pot weapon water among substances.",
+   "uncertainties": [
+    "exact ritual use implied"
+   ],
+   "plain_english": "With barley powder etc and pot weapon water."
+  },
+  {
+   "verse": 2373,
+   "rows": [
+    {
+     "surface": "yathāpūrvaṃ",
+     "gloss": "as-before",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svamantreṇa",
+     "gloss": "own-mantra",
+     "grounds": "compound instrumental",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "complete",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt-root"
+    }
+   ],
+   "question": "How is the rite completed with one's own mantra?",
+   "premises": [
+    "as before is stated",
+    "own mantra is named",
+    "completion is commanded"
+   ],
+   "inference": "The verse commands completing as before with one's own mantra.",
+   "uncertainties": [
+    "exact completion unspecified"
+   ],
+   "plain_english": "Complete as before with own mantra."
+  },
+  {
+   "verse": 2374,
+   "rows": [
+    {
+     "surface": "prabhutāsanaṃ",
+     "gloss": "lord-seat",
+     "grounds": "compound accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vibhūtivimalādikāḥ",
+     "gloss": "vibhuti-vimala-etc",
+     "grounds": "compound nominative",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What seat, pedestal, and powers are named at the end?",
+   "premises": [
+    "lord-seat is named",
+    "pedestal is named",
+    "vibhuti vimala etc are named"
+   ],
+   "inference": "The verse names lord-seat, pedestal, and vibhuti-vimala powers.",
+   "uncertainties": [
+    "exact list unspecified"
+   ],
+   "plain_english": "Lord-seat, pedestal, vibhuti vimala etc."
+  }
+ ]
+}

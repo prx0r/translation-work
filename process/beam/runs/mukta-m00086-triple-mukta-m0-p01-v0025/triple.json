@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "munīndrāḥ",
+     "gloss": "sage-lords",
+     "grounds": "compound of muni (sage) and indra (lord); nominative plural subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle extending the claim to additional authorities",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anye",
+     "gloss": "others",
+     "grounds": "pronominal adjective indicating additional sages distinct from those previously mentioned",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakṛtipuruṣasthānam",
+     "gloss": "nature-spirit-station",
+     "grounds": "compound of prakṛti (nature), puruṣa (spirit), and sthāna (station/place); object of recognition",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "amalam",
+     "gloss": "pure",
+     "grounds": "adjective qualifying the station as stainless or untainted",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Do other great sages also acknowledge a pure station of prakṛti and puruṣa?",
+   "premises": [
+    "Great sages are recognized authorities in this teaching.",
+    "Other sages, in addition to those previously mentioned, hold a related view.",
+    "They acknowledge a station associated with prakṛti and puruṣa that is pure."
+   ],
+   "inference": "The pure station of prakṛti and puruṣa is affirmed by other great sages as well.",
+   "uncertainties": [
+    "The specific identity of the other sages is not stated in this verse.",
+    "The exact doctrinal sense of sthāna (place, state, or level) depends on the broader context."
+   ],
+   "plain_english": "Other great sages also recognize the pure station of prakṛti and puruṣa."
+  }
+ ]
+}

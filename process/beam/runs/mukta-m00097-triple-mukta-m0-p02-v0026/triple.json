@@ -1,0 +1,1163 @@
+{
+ "song": "mukta-m0-p02",
+ "items": [
+  {
+   "verse": 26,
+   "rows": [
+    {
+     "surface": "hṛdbhedaṃ",
+     "gloss": "heart-difference",
+     "grounds": "compound hṛd+bheda, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātṛbhedaṃ",
+     "gloss": "mother-difference",
+     "grounds": "compound mātṛ+bheda, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guhyatantraṃ",
+     "gloss": "secret-tantra",
+     "grounds": "compound guhya+tantra, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāmikam",
+     "gloss": "kāmika",
+     "grounds": "adjective/noun in accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which heart and mother differences and secret tantra are named alongside kāmika?",
+   "premises": [
+    "heart difference is named",
+    "mother difference is named",
+    "secret tantra is named"
+   ],
+   "inference": "The verse enumerates these items as part of the listed tradition.",
+   "uncertainties": [
+    "exact syntactic relation to kāmika is not explicit"
+   ],
+   "plain_english": "Heart-difference, mother-difference, and the secret tantra are named along with kāmika."
+  },
+  {
+   "verse": 27,
+   "rows": [
+    {
+     "surface": "nayottaraṃ",
+     "gloss": "naya-uttara",
+     "grounds": "compound naya+uttara, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīṇādyaṃ",
+     "gloss": "vīṇā-ādi",
+     "grounds": "compound vīṇā+ādi, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "trotulaṃ",
+     "gloss": "trotula",
+     "grounds": "proper name/term, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhrātulottaram",
+     "gloss": "bhrātula-uttara",
+     "grounds": "compound bhrātula+uttara, accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which naya-uttara, vīṇā-ādi, trotula, and bhrātula-uttara items are enumerated?",
+   "premises": [
+    "naya-uttara is named",
+    "vīṇā-ādi is named",
+    "trotula is named",
+    "bhrātula-uttara is named"
+   ],
+   "inference": "The verse lists these named items together.",
+   "uncertainties": [
+    "grammatical case function is inferred"
+   ],
+   "plain_english": "Naya-uttara, vīṇā-ādi, trotula, and bhrātula-uttara are enumerated."
+  },
+  {
+   "verse": 28,
+   "rows": [
+    {
+     "surface": "kulasāraṃ",
+     "gloss": "kula-sāra",
+     "grounds": "compound kula+sāra, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuloḍḍīśaṃ",
+     "gloss": "kula-uḍḍīśa",
+     "grounds": "compound kula+uḍḍīśa, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kulacūḍāmaṇiṃ",
+     "gloss": "kula-cūḍāmaṇi",
+     "grounds": "compound kula+cūḍāmaṇi, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which kula-sāra, kula-uḍḍīśa, and kula-cūḍāmaṇi texts are listed?",
+   "premises": [
+    "kula-sāra is named",
+    "kula-uḍḍīśa is named",
+    "kula-cūḍāmaṇi is named"
+   ],
+   "inference": "The verse groups these kula texts together.",
+   "uncertainties": [
+    "tathā may connect to following verse"
+   ],
+   "plain_english": "Kula-sāra, kula-uḍḍīśa, and kula-cūḍāmaṇi are listed."
+  },
+  {
+   "verse": 29,
+   "rows": [
+    {
+     "surface": "mahālakṣmīmataṃ",
+     "gloss": "mahālakṣmī-mata",
+     "grounds": "compound mahālakṣmī+mata, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "siddhayogīśvarīmatam",
+     "gloss": "siddha-yogīśvarī-mata",
+     "grounds": "compound siddha+yogīśvarī+mata, accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which mahālakṣmī-mata and siddha-yogīśvarī-mata are addressed to deva?",
+   "premises": [
+    "mahālakṣmī-mata is named",
+    "siddha-yogīśvarī-mata is named",
+    "deva is addressed"
+   ],
+   "inference": "The verse names these two matas in address to the god.",
+   "uncertainties": [
+    "addressed deity identity is contextual"
+   ],
+   "plain_english": "Mahālakṣmī-mata and siddha-yogīśvarī-mata are named, addressed to deva."
+  },
+  {
+   "verse": 30,
+   "rows": [
+    {
+     "surface": "sarvavīramataṃ",
+     "gloss": "sarva-vīra-mata",
+     "grounds": "compound sarva+vīra+mata, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "vimalāmatam",
+     "gloss": "vimalā-mata",
+     "grounds": "compound vimalā+mata, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which sarva-vīra-mata and vimalā-mata are addressed to deva?",
+   "premises": [
+    "sarva-vīra-mata is named",
+    "vimalā-mata is named",
+    "deva is addressed"
+   ],
+   "inference": "The verse names these two matas in address to the god.",
+   "uncertainties": [
+    "eva emphasizes the preceding item"
+   ],
+   "plain_english": "Sarva-vīra-mata and vimalā-mata are named, addressed to deva."
+  },
+  {
+   "verse": 31,
+   "rows": [
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative adjective, nominative plural",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "śāstrāṇi",
+     "gloss": "scriptures",
+     "grounds": "neuter noun, nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "adverb/conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyānyapi",
+     "gloss": "others",
+     "grounds": "indefinite adjective with api",
+     "morph": "adj.nom.pl"
+    },
+    {
+     "surface": "koṭiśaḥ",
+     "gloss": "crores",
+     "grounds": "adverbial numeral",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many scriptures and other texts are said to exist?",
+   "premises": [
+    "these scriptures are named",
+    "other texts are named",
+    "crores indicates vast number"
+   ],
+   "inference": "The verse states that these and other scriptures exist in crores.",
+   "uncertainties": [
+    "exact total is rhetorical"
+   ],
+   "plain_english": "These scriptures and other texts exist in crores."
+  },
+  {
+   "verse": 32,
+   "rows": [
+    {
+     "surface": "vidyāḥ",
+     "gloss": "vidyās",
+     "grounds": "feminine noun, nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "lord-of-gods",
+     "grounds": "compound deva+īśa, vocative singular",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "sūcitā",
+     "gloss": "indicated",
+     "grounds": "past participle, nominative plural",
+     "morph": "pp.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśitāḥ",
+     "gloss": "manifested",
+     "grounds": "past participle, nominative plural",
+     "morph": "pp.nom.pl"
+    }
+   ],
+   "question": "Are the sixteen vidyās indicated but not manifested?",
+   "premises": [
+    "sixteen vidyās are named",
+    "they are indicated",
+    "they are not manifested"
+   ],
+   "inference": "The verse says the sixteen vidyās are indicated but not manifested.",
+   "uncertainties": [
+    "scope of indication is contextual"
+   ],
+   "plain_english": "The sixteen vidyās are indicated, not manifested."
+  },
+  {
+   "verse": 33,
+   "rows": [
+    {
+     "surface": "ekaikacakrapūjāṃ",
+     "gloss": "one-by-one-wheel-worship",
+     "grounds": "compound ekaika+cakra+pūjā, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paripūrṇāṃ",
+     "gloss": "complete",
+     "grounds": "adjective, accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "all-around",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kind of complete all-around wheel worship is described?",
+   "premises": [
+    "one-by-one wheel worship is named",
+    "it is complete",
+    "it is all-around"
+   ],
+   "inference": "The verse describes complete all-around one-by-one wheel worship.",
+   "uncertainties": [
+    "ritual details are not given"
+   ],
+   "plain_english": "Complete all-around one-by-one wheel worship is described."
+  },
+  {
+   "verse": 34,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative singular",
+     "morph": "v.2.sg.act-imp root śru"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "mahājñānaṃ",
+     "gloss": "great-knowledge",
+     "grounds": "compound mahā+jñāna, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidyāṣoḍaśakārṇa-vam",
+     "gloss": "sixteen-vidyā-ear-born",
+     "grounds": "compound vidyā+ṣoḍaśa+kārṇa+vam, accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What great knowledge born from sixteen vidyās is to be heard?",
+   "premises": [
+    "devi is addressed",
+    "great knowledge is named",
+    "sixteen-vidyā ear-born is named"
+   ],
+   "inference": "The verse calls the goddess to hear great knowledge born from sixteen vidyās.",
+   "uncertainties": [
+    "compound parsing is approximate"
+   ],
+   "plain_english": "Hear, goddess, the great knowledge born from sixteen vidyās."
+  },
+  {
+   "verse": 35,
+   "rows": [
+    {
+     "surface": "tatrādau",
+     "gloss": "there-first",
+     "grounds": "compound tatra+ādau, locative/ablative sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamā",
+     "gloss": "first",
+     "grounds": "ordinal adjective, nominative singular",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "nityā",
+     "grounds": "proper name, nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahātripurasundarī",
+     "gloss": "mahā-tripura-sundarī",
+     "grounds": "compound mahā+tripura+sundarī, nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which first nityā is named as mahā-tripura-sundarī?",
+   "premises": [
+    "there first is stated",
+    "first is stated",
+    "nityā is named",
+    "mahā-tripura-sundarī is named"
+   ],
+   "inference": "The verse identifies the first nityā as mahā-tripura-sundarī.",
+   "uncertainties": [
+    "tatrādau may be locative"
+   ],
+   "plain_english": "There first, the first nityā is mahā-tripura-sundarī."
+  },
+  {
+   "verse": 36,
+   "rows": [
+    {
+     "surface": "nityaklinnā",
+     "gloss": "nityaklinnā",
+     "grounds": "proper name, nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bheruṇḍā",
+     "gloss": "bheruṇḍā",
+     "grounds": "proper name, nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vahnivāsinī",
+     "gloss": "fire-dweller",
+     "grounds": "compound vahni+vāsinī, nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which nityaklinnā, bheruṇḍā, and fire-dweller are listed?",
+   "premises": [
+    "nityaklinnā is named",
+    "bheruṇḍā is named",
+    "fire-dweller is named"
+   ],
+   "inference": "The verse lists these nityā-related names together.",
+   "uncertainties": [
+    "exact grouping is contextual"
+   ],
+   "plain_english": "Nityaklinnā, likewise bheruṇḍā, and fire-dweller are listed."
+  },
+  {
+   "verse": 37,
+   "rows": [
+    {
+     "surface": "nityā",
+     "gloss": "nityā",
+     "grounds": "proper name, nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīlapatākā",
+     "gloss": "blue-banner",
+     "grounds": "compound nīla+patākā, nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayā",
+     "gloss": "vijayā",
+     "grounds": "proper name, nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvamaṅgalā",
+     "gloss": "all-auspicious",
+     "grounds": "compound sarva+maṅgalā, nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which nityā, blue-banner, vijayā, and all-auspicious are listed?",
+   "premises": [
+    "nityā is named",
+    "blue-banner is named",
+    "vijayā is named",
+    "all-auspicious is named"
+   ],
+   "inference": "The verse lists these names together.",
+   "uncertainties": [
+    "whether all are nityā names is contextual"
+   ],
+   "plain_english": "Nityā, blue-banner, vijayā, and all-auspicious are listed."
+  },
+  {
+   "verse": 38,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative singular",
+     "morph": "v.2.sg.act-imp root śru"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
+    },
+    {
+     "surface": "mahānityām",
+     "gloss": "great-nityā",
+     "grounds": "compound mahā+nityā, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "first",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tripurasundarīm",
+     "gloss": "tripura-sundarī",
+     "grounds": "compound tripura+sundarī, accusative singular",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which great nityā is to be heard first as tripura-sundarī?",
+   "premises": [
+    "devi is addressed",
+    "great nityā is named",
+    "first is stated",
+    "tripura-sundarī is named"
+   ],
+   "inference": "The verse calls the goddess to hear the great nityā first as tripura-sundarī.",
+   "uncertainties": [
+    "ādau may be locative"
+   ],
+   "plain_english": "Hear, goddess, the great nityā first as tripura-sundarī."
+  },
+  {
+   "verse": 39,
+   "rows": [
+    {
+     "surface": "śaktyā",
+     "gloss": "by-power",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinirbhidya",
+     "gloss": "piercing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnipureṇa",
+     "gloss": "by-fire-city",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is power pierced by power and then by fire-city?",
+   "premises": [
+    "by power is stated",
+    "power is pierced",
+    "again is stated",
+    "by fire-city is stated"
+   ],
+   "inference": "The verse describes piercing power by power and again by fire-city.",
+   "uncertainties": [
+    "ritual sequence is condensed"
+   ],
+   "plain_english": "Piercing power by power, again by fire-city."
+  },
+  {
+   "verse": 40,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnicakreṇa",
+     "gloss": "by-fire-wheel",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tām",
+     "gloss": "her",
+     "grounds": "pronoun, accusative singular",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhedayet",
+     "gloss": "should-pierce",
+     "grounds": "causative optative third singular",
+     "morph": "v.3.sg.act-opt root bhid"
+    }
+   ],
+   "question": "How should her power be pierced upward by fire-wheel?",
+   "premises": [
+    "thus is stated",
+    "by fire-wheel is stated",
+    "her is stated",
+    "upward is stated",
+    "should-pierce is stated"
+   ],
+   "inference": "The verse instructs piercing her upward by fire-wheel.",
+   "uncertainties": [
+    "tām refers to a previously named power"
+   ],
+   "plain_english": "Thus, by fire-wheel, pierce her upward."
+  },
+  {
+   "verse": 41,
+   "rows": [
+    {
+     "surface": "bhedayet",
+     "gloss": "should-pierce",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root bhid"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "relative pronoun, instrumental singular",
+     "morph": "rel.inst.sg"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal adjective, nominative singular",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahniḥ",
+     "gloss": "fire",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhyet",
+     "gloss": "would-succeed",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root sidh"
+    }
+   ],
+   "question": "By what piercing would the second fire succeed?",
+   "premises": [
+    "should-pierce is stated",
+    "by-which is stated",
+    "second is stated",
+    "fire is stated",
+    "would-succeed is stated"
+   ],
+   "inference": "The verse links piercing to success of the second fire.",
+   "uncertainties": [
+    "exact causal mechanism is condensed"
+   ],
+   "plain_english": "By which piercing, the second fire would succeed."
+  },
+  {
+   "verse": 42,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādyaṃ",
+     "gloss": "first",
+     "grounds": "ordinal adjective, accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "vahnicakram",
+     "gloss": "fire-wheel",
+     "grounds": "compound vahni+cakra, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "downward",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vistārya",
+     "gloss": "expanding",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "beautiful-one",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "How is the first fire-wheel expanded downward?",
+   "premises": [
+    "again is stated",
+    "first fire-wheel is stated",
+    "downward is stated",
+    "expanding is stated",
+    "beautiful-one is addressed"
+   ],
+   "inference": "The verse instructs expanding the first fire-wheel downward.",
+   "uncertainties": [
+    "sundari address is contextual"
+   ],
+   "plain_english": "Again, expanding the first fire-wheel downward, O beautiful one."
+  },
+  {
+   "verse": 43,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvordhvavahnyantaśaktiṃ",
+     "gloss": "all-upward-fire-end-power",
+     "grounds": "compound sarva+ūrdhva+vahni+anta+śakti, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vistārayet",
+     "gloss": "should-expand",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root vistār"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "downward",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should all-upward-fire-end-power be expanded downward?",
+   "premises": [
+    "thus is stated",
+    "all-upward-fire-end-power is stated",
+    "should-expand is stated",
+    "downward is stated"
+   ],
+   "inference": "The verse instructs expanding that power downward.",
+   "uncertainties": [
+    "compound parsing is approximate"
+   ],
+   "plain_english": "Thus, expand all-upward-fire-end-power downward."
+  },
+  {
+   "verse": 44,
+   "rows": [
+    {
+     "surface": "caturthī",
+     "gloss": "fourth",
+     "grounds": "ordinal adjective, nominative singular",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "janayet",
+     "gloss": "should-generate",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root jan"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound iti+arthaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does generating the fourth power mean?",
+   "premises": [
+    "fourth is stated",
+    "power is stated",
+    "should-generate is stated",
+    "thus-meaning is stated"
+   ],
+   "inference": "The verse states that generating the fourth power is the intended meaning.",
+   "uncertainties": [
+    "antecedent of fourth is contextual"
+   ],
+   "plain_english": "Generate the fourth power; that is the meaning."
+  },
+  {
+   "verse": 45,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādyāṃ",
+     "gloss": "first",
+     "grounds": "ordinal adjective, accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vistārya",
+     "gloss": "expanding",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "bhedayet",
+     "gloss": "should-pierce",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root bhid"
+    }
+   ],
+   "question": "How should the first power be expanded and pierced again?",
+   "premises": [
+    "again is stated",
+    "as-before is stated",
+    "first power is stated",
+    "expanding is stated",
+    "should-pierce is stated"
+   ],
+   "inference": "The verse instructs expanding and piercing the first power again as before.",
+   "uncertainties": [
+    "exact prior step is contextual"
+   ],
+   "plain_english": "Again, as before, expand and pierce the first power."
+  },
+  {
+   "verse": 46,
+   "rows": [
+    {
+     "surface": "p. 23",
+     "gloss": "page-23",
+     "grounds": "editorial page marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "uparitanamarātrayaṃ",
+     "gloss": "upper-three-spokes",
+     "grounds": "compound uparitana+mara+trayaṃ, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root kṛ"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound iti+arthaḥ",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done after making the upper three spokes?",
+   "premises": [
+    "page marker is present",
+    "having-made is stated",
+    "upper-three-spokes is stated",
+    "should-do is stated",
+    "thus-meaning is stated"
+   ],
+   "inference": "The verse states that after making the upper three spokes one should do as intended.",
+   "uncertainties": [
+    "page marker is editorial"
+   ],
+   "plain_english": "Having made the upper three spokes, one should do so; that is the meaning."
+  },
+  {
+   "verse": 47,
+   "rows": [
+    {
+     "surface": "vistārya",
+     "gloss": "expanding",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "bhedayet",
+     "gloss": "should-pierce",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root bhid"
+    },
+    {
+     "surface": "śaktim",
+     "gloss": "power",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "adhastāt",
+     "gloss": "from-below",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvavahninā",
+     "gloss": "by-upward-fire",
+     "grounds": "instrumental singular",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "How should power be expanded and pierced from below by upward fire?",
+   "premises": [
+    "expanding is stated",
+    "should-pierce is stated",
+    "power is stated",
+    "from-below is stated",
+    "by-upward-fire is stated"
+   ],
+   "inference": "The verse instructs expanding and piercing power from below by upward fire.",
+   "uncertainties": [
+    "exact power referent is contextual"
+   ],
+   "plain_english": "Expanding, pierce power from below by upward fire."
+  },
+  {
+   "verse": 48,
+   "rows": [
+    {
+     "surface": "śaktiṃ",
+     "gloss": "power",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhedayet",
+     "gloss": "should-pierce",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root bhid"
+    },
+    {
+     "surface": "samanantaroktavat",
+     "gloss": "as-just-said",
+     "grounds": "compound samanantara+ukta+vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhastanam",
+     "gloss": "lower",
+     "grounds": "adjective, accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arātrayam",
+     "gloss": "three-spokes",
+     "grounds": "compound arā+trayaṃ, accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "utpādayet",
+     "gloss": "should-produce",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root utpad"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyadaśārasiddhiḥ",
+     "gloss": "second-ten-spoke-success",
+     "grounds": "compound dvitīya+daśāra+siddhiḥ, nominative singular",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is lower three-spoke success achieved as just said?",
+   "premises": [
+    "power should be pierced",
+    "as-just-said is stated",
+    "lower is stated",
+    "three-spokes is stated",
+    "should-produce is stated",
+    "second-ten-spoke-success is stated"
+   ],
+   "inference": "The verse states that piercing power as just said produces the lower three spokes and second ten-spoke success.",
+   "uncertainties": [
+    "exact antecedent is contextual"
+   ],
+   "plain_english": "Pierce power as just said, produce the lower three spokes; thus second ten-spoke success."
+  },
+  {
+   "verse": 49,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃpuṭīkuryāt",
+     "gloss": "should-enclose",
+     "grounds": "optative third singular",
+     "morph": "v.3.sg.act-opt root saṃpuṭ"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "adjective, accusative singular",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "wheel",
+     "grounds": "accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "goddess",
+     "grounds": "vocative singular",
+     "morph": "n.voc.sg"
+    }
+   ],
+   "question": "How should all the wheel be enclosed?",
+   "premises": [
+    "thus is stated",
+    "should-enclose is stated",
+    "all is stated",
+    "wheel is stated",
+    "goddess is addressed"
+   ],
+   "inference": "The verse instructs enclosing all the wheel, addressed to the goddess.",
+   "uncertainties": [
+    "enclosure method is not detailed"
+   ],
+   "plain_english": "Thus, O goddess, enclose all the wheel."
+  }
+ ]
+}

@@ -1,0 +1,1118 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "nānyat",
+     "gloss": "not-other",
+     "grounds": "negative compound na+anyat",
+     "morph": "compound"
+    },
+    {
+     "surface": "parataraṃ",
+     "gloss": "higher",
+     "grounds": "comparative of para",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kiñcid",
+     "gloss": "anything",
+     "grounds": "indefinite pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "states presence or availability",
+     "morph": "3.sg.pres.pass √vid"
+    },
+    {
+     "surface": "bhuvanatraye",
+     "gloss": "in-three-worlds",
+     "grounds": "locative compound bhuvana+traya",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Is anything higher than this found anywhere in the three worlds?",
+   "premises": [
+    "The three worlds constitute the full scope of comparison.",
+    "No other thing is said to surpass this."
+   ],
+   "inference": "Nothing higher than this exists in the three worlds.",
+   "uncertainties": [
+    "The referent of 'this' is supplied by the immediate context."
+   ],
+   "plain_english": "Nothing higher than this exists anywhere in the three worlds."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "universal totality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to prior reality",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "highest in rank or nature",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpaṃ",
+     "gloss": "form",
+     "grounds": "nature or manifestation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasyā",
+     "gloss": "of-her",
+     "grounds": "refers to the feminine principle or vidyā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is all that supreme form identical with her nature without any doubt?",
+   "premises": [
+    "All that is described is identified as supreme form.",
+    "That supreme form is attributed exclusively to her.",
+    "The text explicitly denies any doubt."
+   ],
+   "inference": "All that supreme form is hers alone, without doubt.",
+   "uncertainties": [
+    "The feminine referent 'tasyā' depends on the preceding context."
+   ],
+   "plain_english": "All that is her supreme form alone; there is no doubt about it."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "sahasraikapramāṇena",
+     "gloss": "by-thousandfold-measure",
+     "grounds": "instrumental compound sahasra+eka+pramāṇa",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "rhetorical interrogative implying nothing is excluded",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation in rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "is-accomplished",
+     "grounds": "attainment or successful realization",
+     "morph": "3.sg.pres.act √sidh"
+    },
+    {
+     "surface": "bhūtale",
+     "gloss": "on-earth",
+     "grounds": "locative compound bhū+tala",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What accomplishment remains impossible on earth through this thousandfold measure?",
+   "premises": [
+    "A thousandfold measure of efficacy is ascribed to this.",
+    "The question is framed rhetorically.",
+    "The scope of accomplishment is earthly existence."
+   ],
+   "inference": "Nothing remains unaccomplished on earth by this thousandfold measure.",
+   "uncertainties": [
+    "The exact sense of 'sahasraikapramāṇena' may be numerical or hyperbolic."
+   ],
+   "plain_english": "What cannot be accomplished on earth by this thousandfold measure?"
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "yogātmā",
+     "gloss": "yoga-natured-one",
+     "grounds": "compound yoga+ātman describing one's being",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavenmukto",
+     "gloss": "becomes-liberated",
+     "grounds": "fused form expressing becoming free",
+     "morph": "compound"
+    },
+    {
+     "surface": "nānābhogena",
+     "gloss": "by-various-enjoyments",
+     "grounds": "instrumental compound nānā+bhoga",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kevalam",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Can a yoga-natured person attain liberation while remaining engaged in various enjoyments?",
+   "premises": [
+    "The subject is described as yoga-natured.",
+    "Liberation is said to occur.",
+    "Various enjoyments are presented as the accompanying condition."
+   ],
+   "inference": "Such a yoga-natured person becomes liberated even through various enjoyments alone.",
+   "uncertainties": [
+    "The internal sandhi and exact verbal force within 'bhavenmukto' are compressed in the fused token."
+   ],
+   "plain_english": "That yoga-natured person becomes liberated, even through various enjoyments alone."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "yasmai",
+     "gloss": "to-whomever",
+     "grounds": "relative dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kasmai",
+     "gloss": "to-anyone",
+     "grounds": "indefinite interrogative dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyā",
+     "gloss": "to-be-given",
+     "grounds": "obligation or prohibition regarding transmission",
+     "morph": "f.nom.sg.fut.pass.part √dā"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "esoteric knowledge or mantra-knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramadurlabhā",
+     "gloss": "supremely-rare",
+     "grounds": "compound parama+durlabha",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "To whom must the supremely rare vidyā never be given under any circumstance?",
+   "premises": [
+    "The vidyā is described as supremely rare.",
+    "The text uses a universal prohibitive expression.",
+    "Transmission is framed as something to be withheld."
+   ],
+   "inference": "The supremely rare vidyā must not be given to just anyone.",
+   "uncertainties": [],
+   "plain_english": "This supremely rare vidyā must not be given to just anyone at all."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "dātavyā",
+     "gloss": "to-be-given",
+     "grounds": "permitted transmission",
+     "morph": "f.nom.sg.fut.pass.part √dā"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth",
+     "grounds": "ordinal qualifier of vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "esoteric knowledge or mantra-knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "putrāya",
+     "gloss": "to-son",
+     "grounds": "qualified recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prāṇadāya",
+     "gloss": "to-life-giver",
+     "grounds": "recipient who gives life or devotion",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects recipients",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which qualified recipients may the fifth vidyā properly be given?",
+   "premises": [
+    "The fifth vidyā is declared fit to be given.",
+    "A son is named as a recipient.",
+    "One who gives life or devotion is also named."
+   ],
+   "inference": "The fifth vidyā may be given to a son and to one who is a life-giver.",
+   "uncertainties": [
+    "The exact sense of 'prāṇadāya' may mean one who offers life, service, or supreme devotion."
+   ],
+   "plain_english": "The fifth vidyā may be given to a son and to one who gives life."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "paramānandanirvāhaṃ",
+     "gloss": "bearing-supreme-bliss",
+     "grounds": "compound parama+ānanda+nirvāha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuloḍḍīśe",
+     "gloss": "in-kuloddīśa",
+     "grounds": "name of a text or teaching locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "made manifest or taught",
+     "morph": "n.nom.sg.past.pass.part pra+√kāś"
+    }
+   ],
+   "question": "Where was the teaching that bears supreme bliss revealed?",
+   "premises": [
+    "A teaching bearing supreme bliss is mentioned.",
+    "The Kuloddīśa is named as its locus.",
+    "The teaching is said to be revealed."
+   ],
+   "inference": "The supreme-bliss-bearing teaching was revealed in the Kuloddīśa.",
+   "uncertainties": [],
+   "plain_english": "That which bears supreme bliss was revealed in the Kuloddīśa."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "tadadhaḥ",
+     "gloss": "below-that",
+     "grounds": "compound tad+adhas indicating position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śakrabījantu",
+     "gloss": "śakra-bīja-indeed",
+     "grounds": "fused token containing śakra-bīja and emphatic tu",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojayet",
+     "gloss": "one-should-join",
+     "grounds": "instructional injunction",
+     "morph": "3.sg.opt.act √yuj"
+    },
+    {
+     "surface": "bhuvaneśvarīm",
+     "gloss": "bhuvaneśvarī",
+     "grounds": "name of the goddess or mantra element",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What mantra element should be joined below that together with the śakra-bīja?",
+   "premises": [
+    "A positional instruction 'below that' is given.",
+    "The śakra-bīja is specified.",
+    "Bhuvaneśvarī is named as what is to be joined."
+   ],
+   "inference": "One should join Bhuvaneśvarī below that with the śakra-bīja.",
+   "uncertainties": [
+    "The fused token 'śakrabījantu' contains internal sandhi and an emphatic element."
+   ],
+   "plain_english": "Below that, one should join Bhuvaneśvarī together with the śakra-bīja."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative feminine subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "esoteric knowledge or mantra-knowledge",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyā",
+     "grounds": "elevated designation of the same vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dharmakāmārthamokṣadā",
+     "gloss": "giver-of-four-goals",
+     "grounds": "compound dharma+kāma+artha+mokṣa+dā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What four human goals does this great vidyā grant to its practitioner?",
+   "premises": [
+    "This vidyā is identified as a great vidyā.",
+    "It is described as a giver of dharma, kāma, artha, and mokṣa.",
+    "The four goals are presented as its fruit."
+   ],
+   "inference": "This great vidyā grants dharma, desire, wealth, and liberation.",
+   "uncertainties": [],
+   "plain_english": "This vidyā is a great vidyā, granting dharma, desire, wealth, and liberation."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "aparañca",
+     "gloss": "and-another",
+     "grounds": "fused form aparam+ca introducing a further topic",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "additional connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pravakṣyāmi",
+     "gloss": "I-shall-declare",
+     "grounds": "authorial announcement of teaching",
+     "morph": "1.sg.fut.act pra+√vac"
+    },
+    {
+     "surface": "kulāmṛtamataṃ",
+     "gloss": "kulāmṛta-doctrine",
+     "grounds": "compound kula+amṛta+mata naming a teaching",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "highest in value",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What supreme doctrine is announced for declaration after the preceding teaching?",
+   "premises": [
+    "The speaker announces a further declaration.",
+    "The Kulāmṛta doctrine is named as the object.",
+    "That doctrine is qualified as supreme."
+   ],
+   "inference": "The speaker will declare the supreme Kulāmṛta doctrine next.",
+   "uncertainties": [
+    "The fused token 'aparañca' repeats the connective force alongside the separate 'ca'."
+   ],
+   "plain_english": "And now I shall declare another supreme doctrine, the Kulāmṛta teaching."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative feminine subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "guhyā",
+     "gloss": "secret",
+     "grounds": "to be kept hidden",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "supreme",
+     "grounds": "highest or transcendent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "worthy of realization or understanding",
+     "morph": "f.nom.sg.fut.pass.part √jñā"
+    },
+    {
+     "surface": "puruṣārthaphalapradā",
+     "gloss": "giver-of-human-goals-fruit",
+     "grounds": "compound puruṣa+artha+phala+pradā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why should this supreme secret be known by those seeking human goals?",
+   "premises": [
+    "This teaching is described as secret and supreme.",
+    "It is declared to be known.",
+    "It gives the fruit of the human goals."
+   ],
+   "inference": "This supreme secret should be known because it grants the fruit of the human goals.",
+   "uncertainties": [],
+   "plain_english": "This supreme secret should be known, for it grants the fruit of the human goals."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "sārāt",
+     "gloss": "than-essence",
+     "grounds": "ablative of comparison",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sārataraṃ",
+     "gloss": "more-essential",
+     "grounds": "comparative of sāra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "kūṭa",
+     "grounds": "mantra division; kept as technical term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śrīkrame",
+     "gloss": "in-śrīkrama",
+     "grounds": "name of the tradition or system",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśitam",
+     "gloss": "revealed",
+     "grounds": "made manifest or taught",
+     "morph": "n.nom.sg.past.pass.part pra+√kāś"
+    }
+   ],
+   "question": "What kūṭa more essential than essence is revealed within the śrīkrama?",
+   "premises": [
+    "A kūṭa is said to be more essential than essence.",
+    "The śrīkrama is named as the context of revelation.",
+    "This kūṭa is declared revealed."
+   ],
+   "inference": "A kūṭa more essential than essence is revealed in the śrīkrama.",
+   "uncertainties": [],
+   "plain_english": "In the śrīkrama, a kūṭa more essential than essence itself has been revealed."
+  },
+  {
+   "verse": 363,
+   "rows": [
+    {
+     "surface": "indrabījaṃ",
+     "gloss": "indra-bīja",
+     "grounds": "bīja syllable name; transliterated technical term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivaḥ",
+     "gloss": "śiva",
+     "grounds": "bīja or mantra element named śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterward",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛgātmā",
+     "gloss": "mṛga-natured",
+     "grounds": "compound mṛga+ātman naming a mantra element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "immediately-after-that",
+     "grounds": "compound tad+anantara indicating sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of mantra elements is specified after the indra-bīja?",
+   "premises": [
+    "The indra-bīja is named first.",
+    "Śiva is placed afterward.",
+    "The mṛga-natured element follows immediately after that."
+   ],
+   "inference": "The sequence is indra-bīja, then śiva, then the mṛga-natured element.",
+   "uncertainties": [
+    "The precise mantra identities of 'śivaḥ' and 'mṛgātmā' depend on mantra convention."
+   ],
+   "plain_english": "First comes the indra-bīja, then śiva, and immediately after that the mṛga-natured element."
+  },
+  {
+   "verse": 364,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava",
+     "grounds": "kūṭa name; kept as technical term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūrvam",
+     "gloss": "first",
+     "grounds": "positional order in sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uditam",
+     "gloss": "declared",
+     "grounds": "stated or arisen in teaching",
+     "morph": "n.nom.sg.past.pass.part ud+√i"
+    },
+    {
+     "surface": "kāmarājaṃ",
+     "gloss": "kāmarāja",
+     "grounds": "kūṭa name; kept as technical term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trikūṭakam",
+     "gloss": "three-kūṭa",
+     "grounds": "compound tri+kūṭa referring to the full structure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the three-kūṭa structure ordered with vāgbhava and kāmarāja declared?",
+   "premises": [
+    "Vāgbhava is declared as first.",
+    "Kāmarāja is named in the sequence.",
+    "The whole is identified as a three-kūṭa structure."
+   ],
+   "inference": "The declared structure is a three-kūṭa beginning with vāgbhava and including kāmarāja.",
+   "uncertainties": [
+    "The third kūṭa is implied by 'trikūṭakam' but not explicitly named in this verse."
+   ],
+   "plain_english": "Vāgbhava is declared first, then kāmarāja, forming the three-kūṭa structure."
+  },
+  {
+   "verse": 365,
+   "rows": [
+    {
+     "surface": "atiyatnena",
+     "gloss": "with-great-effort",
+     "grounds": "instrumental compound ati+yatna",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "goptavyā",
+     "gloss": "to-be-guarded",
+     "grounds": "injunction of secrecy",
+     "morph": "f.nom.sg.fut.pass.part √gup"
+    },
+    {
+     "surface": "mātṛmaithunavat",
+     "gloss": "like-mother-union",
+     "grounds": "comparative compound mātṛ+maithuna+vat indicating utmost secrecy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "continuous duration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what degree of secrecy must this knowledge be guarded at all times?",
+   "premises": [
+    "Great effort is prescribed for guarding it.",
+    "A comparison to mother-union expresses extreme secrecy.",
+    "The guarding is to be constant."
+   ],
+   "inference": "This knowledge must always be guarded with the utmost secrecy and effort.",
+   "uncertainties": [],
+   "plain_english": "It must always be guarded with great effort, as secretly as union with one's mother."
+  },
+  {
+   "verse": 366,
+   "rows": [
+    {
+     "surface": "prabhutvaṃ",
+     "gloss": "lordship",
+     "grounds": "sovereign power or mastery",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śambhunā",
+     "gloss": "by-śambhu",
+     "grounds": "agent who attained lordship",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "prāptaṃ",
+     "gloss": "attained",
+     "grounds": "achieved or obtained",
+     "morph": "n.nom.sg.past.pass.part pra+√āp"
+    },
+    {
+     "surface": "yasyā",
+     "gloss": "of-which",
+     "grounds": "relative feminine referring to the vidyā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dhyānaprasādataḥ",
+     "gloss": "from-grace-of-meditation",
+     "grounds": "ablative compound dhyāna+prasāda",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How did Śambhu attain lordship through the grace arising from this meditation?",
+   "premises": [
+    "Śambhu is said to have attained lordship.",
+    "The attainment came from the grace of meditation.",
+    "That meditation is connected to the feminine referent."
+   ],
+   "inference": "Śambhu attained lordship through the grace of meditation on her.",
+   "uncertainties": [
+    "The feminine referent 'yasyā' is understood from context as the vidyā or goddess."
+   ],
+   "plain_english": "Śambhu attained lordship through the grace of meditation upon her."
+  },
+  {
+   "verse": 367,
+   "rows": [
+    {
+     "surface": "sākṣād",
+     "gloss": "directly",
+     "grounds": "immediate or manifest presence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmasvarūpaṃ",
+     "gloss": "brahman-natured",
+     "grounds": "compound brahma+svarūpa",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hariharamunibhiḥ",
+     "gloss": "by-hari-hara-sages",
+     "grounds": "instrumental compound hari+hara+muni",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "sevitaṃ",
+     "gloss": "served",
+     "grounds": "honored or worshipped",
+     "morph": "n.acc.sg.past.pass.part √sev"
+    },
+    {
+     "surface": "sarvasāram",
+     "gloss": "essence-of-all",
+     "grounds": "compound sarva+sāra",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the nature of the reality directly served by Hari, Hara, and the sages?",
+   "premises": [
+    "The reality is directly manifest.",
+    "It is of the nature of brahman.",
+    "It is served by Hari, Hara, and sages and is the essence of all."
+   ],
+   "inference": "The directly manifest reality is brahman-natured, served by Hari, Hara, and sages, and the essence of all.",
+   "uncertainties": [],
+   "plain_english": "It is directly of the nature of brahman, served by Hari, Hara, and the sages, and the essence of all."
+  },
+  {
+   "verse": 368,
+   "rows": [
+    {
+     "surface": "gopyā",
+     "gloss": "to-be-concealed",
+     "grounds": "injunction of secrecy",
+     "morph": "f.nom.sg.fut.pass.part √gup"
+    },
+    {
+     "surface": "sarvaiḥ",
+     "gloss": "by-all",
+     "grounds": "universal obligation",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "prayatnād",
+     "gloss": "with-effort",
+     "grounds": "ablative indicating manner or cause",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "abhimataphaladā",
+     "gloss": "giver-of-desired-fruit",
+     "grounds": "compound abhimata+phala+dā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vācyā",
+     "gloss": "to-be-spoken",
+     "grounds": "prohibition against verbal disclosure",
+     "morph": "f.nom.sg.fut.pass.part √vac"
+    },
+    {
+     "surface": "parasmin",
+     "gloss": "to-another",
+     "grounds": "recipient outside the qualified circle",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Why must this desired-fruit-giving knowledge be concealed and not spoken to others?",
+   "premises": [
+    "The knowledge gives desired fruits.",
+    "All are enjoined to conceal it with effort.",
+    "It must not be spoken to another."
+   ],
+   "inference": "Because it grants desired fruits, this knowledge must be carefully concealed and not disclosed to others.",
+   "uncertainties": [],
+   "plain_english": "Though it grants desired fruits, it must be carefully concealed by all and never spoken to another."
+  },
+  {
+   "verse": 369,
+   "rows": [
+    {
+     "surface": "mātṛmaithunavat",
+     "gloss": "like-mother-union",
+     "grounds": "comparative compound mātṛ+maithuna+vat indicating utmost secrecy",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "constant practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopayet",
+     "gloss": "should-guard",
+     "grounds": "injunction to maintain secrecy",
+     "morph": "3.sg.opt.act √gup"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound sādhaka+uttama",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the best practitioner continually guard this esoteric knowledge?",
+   "premises": [
+    "The best practitioner is the subject of the injunction.",
+    "Guarding must be constant.",
+    "The standard of secrecy is compared to mother-union."
+   ],
+   "inference": "The best practitioner should always guard this knowledge with the utmost secrecy.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should always guard it as secretly as union with one's mother."
+  },
+  {
+   "verse": 370,
+   "rows": [
+    {
+     "surface": "śrīkrame",
+     "gloss": "in-śrīkrama",
+     "grounds": "name of the tradition or system",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahātantre",
+     "gloss": "in-great-tantra",
+     "grounds": "compound mahā+tantra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śivena",
+     "gloss": "by-śiva",
+     "grounds": "divine speaker or revealer",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "authoritatively declared",
+     "morph": "n.nom.sg.past.pass.part pari+√kīrt"
+    }
+   ],
+   "question": "In which sources and by whom was this teaching authoritatively proclaimed?",
+   "premises": [
+    "The śrīkrama is named as a source.",
+    "The great tantra is named as a source.",
+    "Śiva is named as the proclaimer."
+   ],
+   "inference": "This teaching was proclaimed by Śiva in the śrīkrama and in the great tantra.",
+   "uncertainties": [],
+   "plain_english": "It was proclaimed by Śiva in the śrīkrama and in the great tantra."
+  },
+  {
+   "verse": 371,
+   "rows": [
+    {
+     "surface": "kevalā",
+     "gloss": "absolute",
+     "grounds": "pure or alone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "citkalā",
+     "gloss": "consciousness-aspect",
+     "grounds": "compound cit+kalā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityā",
+     "gloss": "eternal",
+     "grounds": "everlasting nature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nityānandasvarūpiṇī",
+     "gloss": "of-eternal-bliss-nature",
+     "grounds": "compound nitya+ānanda+svarūpiṇī",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the essential nature of this absolute and eternal consciousness-aspect?",
+   "premises": [
+    "It is described as absolute consciousness-aspect.",
+    "It is described as eternal.",
+    "Its nature is eternal bliss."
+   ],
+   "inference": "This reality is the absolute, eternal consciousness-aspect whose nature is eternal bliss.",
+   "uncertainties": [],
+   "plain_english": "She is the absolute aspect of consciousness, eternal, and of the nature of eternal bliss."
+  },
+  {
+   "verse": 372,
+   "rows": [
+    {
+     "surface": "aprakāśyā",
+     "gloss": "not-to-be-revealed",
+     "grounds": "prohibition against disclosure",
+     "morph": "f.nom.sg.fut.pass.part a+pra+√kāś"
+    },
+    {
+     "surface": "mahāvidyā",
+     "gloss": "great-vidyā",
+     "grounds": "esoteric knowledge of highest rank",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gopanīyā",
+     "gloss": "to-be-concealed",
+     "grounds": "injunction of secrecy",
+     "morph": "f.nom.sg.fut.pass.part √gup"
+    },
+    {
+     "surface": "prayatnataḥ",
+     "gloss": "with-effort",
+     "grounds": "careful and diligent manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the great vidyā be treated with respect to revelation and concealment?",
+   "premises": [
+    "The great vidyā must not be revealed.",
+    "The great vidyā must be concealed.",
+    "Concealment requires effort."
+   ],
+   "inference": "The great vidyā must be carefully concealed and never revealed.",
+   "uncertainties": [],
+   "plain_english": "The great vidyā must not be revealed; it must be carefully concealed."
+  },
+  {
+   "verse": 373,
+   "rows": [
+    {
+     "surface": "varaṃ",
+     "gloss": "boon",
+     "grounds": "valuable gift or choice thing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "putraṃ",
+     "gloss": "son",
+     "grounds": "valuable family relation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "material riches",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "sovereign domain",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "permissible to give away",
+     "morph": "n.nom.sg.fut.pass.part √dā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iyaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative feminine referring to the vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What valuable things may be given away before this vidyā is ever given?",
+   "premises": [
+    "A boon, son, wealth, and kingdom are listed as things that may be given.",
+    "This vidyā is contrasted with them.",
+    "The prohibition against giving this vidyā is absolute in time."
+   ],
+   "inference": "One may give away a boon, son, wealth, or kingdom, but never this vidyā.",
+   "uncertainties": [],
+   "plain_english": "One may give away a boon, a son, wealth, or a kingdom, but never this vidyā."
+  },
+  {
+   "verse": 374,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the proper occasion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-discerned",
+     "grounds": "prior assessment of fitness",
+     "morph": "gerund √jñā"
+    },
+    {
+     "surface": "kulīnāya",
+     "gloss": "to-noble-born",
+     "grounds": "qualified recipient by lineage or character",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "śiṣyāya",
+     "gloss": "to-disciple",
+     "grounds": "qualified recipient by discipleship",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prāṇadāya",
+     "gloss": "to-life-giver",
+     "grounds": "recipient who gives life or devotion",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects recipients",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom may this vidyā be given only after proper discernment of fitness?",
+   "premises": [
+    "Transmission is conditioned on prior discernment.",
+    "A noble-born disciple is named as a recipient.",
+    "One who is a life-giver is also named."
+   ],
+   "inference": "After proper discernment, this vidyā may be given to a noble-born disciple who is a life-giver.",
+   "uncertainties": [
+    "The exact sense of 'prāṇadāya' may mean one who offers life, service, or supreme devotion."
+   ],
+   "plain_english": "Then, having discerned properly, one may give it to a noble-born disciple who gives life."
+  }
+ ]
+}

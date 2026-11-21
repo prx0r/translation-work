@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "sāntarālaṃ",
+     "gloss": "with-interspace",
+     "grounds": "bahuvrīhi compound sa-antarāla indicating inclusion of an interval; analyzed as fused form",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "kapotāliḥ",
+     "gloss": "cornice-row",
+     "grounds": "compound kapota-āli denoting a row of cornice elements",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saptāṃśā",
+     "gloss": "seven-parts",
+     "grounds": "bahuvrīhi compound sapta-aṃśa specifying measure in seven parts",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "grāsapaṭṭikā",
+     "gloss": "grāsa-band",
+     "grounds": "compound grāsa-paṭṭikā naming the architectural band element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What structural composition and proportional measure define the grāsapaṭṭikā architectural element?",
+   "premises": [
+    "The grāsapaṭṭikā includes an interspace.",
+    "The grāsapaṭṭikā incorporates a cornice-row.",
+    "The cornice-row is measured as seven parts."
+   ],
+   "inference": "Therefore, the grāsapaṭṭikā is defined as a cornice-row with an interspace measuring seven parts.",
+   "uncertainties": [
+    "The exact syntactic relation between sāntarālaṃ and kapotāliḥ is context-dependent."
+   ],
+   "plain_english": "The grāsapaṭṭikā is a cornice-row with an interspace, measuring seven parts."
+  }
+ ]
+}

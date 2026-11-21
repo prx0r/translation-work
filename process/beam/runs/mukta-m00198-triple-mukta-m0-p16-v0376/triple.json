@@ -1,0 +1,934 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 376,
+   "rows": [
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "locative of place within the described element",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paṭṭaṃ",
+     "gloss": "band",
+     "grounds": "object being defined",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vasvaśraṃ",
+     "gloss": "eight-cornered",
+     "grounds": "describes the shape of the band",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrīkaṇṭhaṃ",
+     "gloss": "śrīkaṇṭha",
+     "grounds": "name assigned to the band",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tadudāhṛtam",
+     "gloss": "that-declared",
+     "grounds": "states the prescribed designation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shape and name are prescribed for the band in the middle?",
+   "premises": [
+    "The location specified is the middle of the element.",
+    "The band is described as eight-cornered.",
+    "The band is declared with the name Śrīkaṇṭha."
+   ],
+   "inference": "An eight-cornered band in the middle is designated Śrīkaṇṭha.",
+   "uncertainties": [],
+   "plain_english": "In its middle, an eight-cornered band is declared to be called Śrīkaṇṭha."
+  },
+  {
+   "verse": 377,
+   "rows": [
+    {
+     "surface": "mulādagraṃ",
+     "gloss": "from-root-to-tip",
+     "grounds": "indicates extent along the element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yugāśraṃ",
+     "gloss": "four-cornered",
+     "grounds": "describes the cross-sectional shape",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "tripaṭṭaṃ",
+     "gloss": "three-banded",
+     "grounds": "specifies the number of bands",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṣepaṇānvitam",
+     "gloss": "with-projection",
+     "grounds": "adds a projecting feature",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What shape and features define the three-banded element from root to tip?",
+   "premises": [
+    "The element extends from root to tip.",
+    "It should be four-cornered in form.",
+    "It should be three-banded and furnished with a projection."
+   ],
+   "inference": "The prescribed element is a four-cornered, three-banded form with a projection running from root to tip.",
+   "uncertainties": [
+    "The exact architectural referent of kṣepaṇa is context-dependent."
+   ],
+   "plain_english": "From root to tip it should be four-cornered, three-banded, and provided with a projection."
+  },
+  {
+   "verse": 378,
+   "rows": [
+    {
+     "surface": "staṃbha",
+     "gloss": "pillar",
+     "grounds": "base measure for proportion",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "tāratribhāgaikaṃ",
+     "gloss": "one-third-of-width",
+     "grounds": "first proportional option",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhāgaikameva",
+     "gloss": "exactly-one-fourth",
+     "grounds": "second proportional option with emphasis",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional width relative to the pillar is permitted for this element?",
+   "premises": [
+    "The pillar provides the reference width.",
+    "One option is one third of that width.",
+    "Another option is exactly one fourth of that width."
+   ],
+   "inference": "The element may measure either one third or exactly one fourth of the pillar’s width.",
+   "uncertainties": [],
+   "plain_english": "It may be one third of the pillar’s width, or else exactly one fourth."
+  },
+  {
+   "verse": 379,
+   "rows": [
+    {
+     "surface": "staṃbhamūle",
+     "gloss": "at-pillar-base",
+     "grounds": "specifies location for arrangement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padmādīn",
+     "gloss": "lotus-and-others",
+     "grounds": "objects to be arranged",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "staṃbhamānena",
+     "gloss": "by-pillar-measure",
+     "grounds": "standard governing proportions",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act.opt √kḷp"
+    }
+   ],
+   "question": "How should lotus and related elements be arranged at the pillar base?",
+   "premises": [
+    "The arrangement is located at the base of the pillar.",
+    "Lotus and other elements are to be included.",
+    "Their proportions must follow the measure of the pillar."
+   ],
+   "inference": "Lotus and related elements should be arranged at the pillar base according to the pillar’s measure.",
+   "uncertainties": [
+    "The full set included by 'lotus and others' is not specified here."
+   ],
+   "plain_english": "At the base of the pillar, one should arrange a lotus and other elements according to the pillar’s measure."
+  },
+  {
+   "verse": 380,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumatkāśyapa",
+     "grounds": "colophon locating the text",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "staṃbhalakṣaṇa",
+     "gloss": "pillar-characteristics",
+     "grounds": "topic of the chapter",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "textual division",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭamaḥ",
+     "gloss": "eighth",
+     "grounds": "ordinal position of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter on pillar characteristics concludes in the Aṃśumatkāśyapa text?",
+   "premises": [
+    "The statement refers to the Aṃśumatkāśyapa.",
+    "The topic named is the characteristics of pillars.",
+    "The chapter is identified as the eighth."
+   ],
+   "inference": "The eighth chapter, concerning pillar characteristics, concludes in the Aṃśumatkāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the eighth chapter, on the characteristics of pillars, in the Aṃśumatkāśyapa."
+  },
+  {
+   "verse": 381,
+   "rows": [
+    {
+     "surface": "mūlapādasamavyāsaṃ",
+     "gloss": "width-equal-to-base-foot",
+     "grounds": "defines the best width",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śreṣṭhamadhyena",
+     "gloss": "by-best-and-middle",
+     "grounds": "indicates graded standards",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "madhyamam",
+     "gloss": "middle",
+     "grounds": "identifies the middle grade",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the middle grade defined in relation to the base-foot width?",
+   "premises": [
+    "A width equal to the base foot is taken as the reference.",
+    "Standards are graded as best and middle.",
+    "The middle grade is specified in this relation."
+   ],
+   "inference": "The middle grade is defined relative to the best standard by a width equal to the base foot.",
+   "uncertainties": [
+    "The precise comparative reduction implied by śreṣṭhamadhyena is compressed."
+   ],
+   "plain_english": "The middle grade has a width equal to the base foot, as distinguished from the best."
+  },
+  {
+   "verse": 382,
+   "rows": [
+    {
+     "surface": "vistārasadṛśotsedhaṃ",
+     "gloss": "height-equal-to-width",
+     "grounds": "specifies vertical proportion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paṃcadaṇḍāyatānvitam",
+     "gloss": "with-five-daṇḍa-length",
+     "grounds": "specifies horizontal length",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What height and length proportions are prescribed for this element?",
+   "premises": [
+    "The height should be equal to the width.",
+    "The length should measure five daṇḍas."
+   ],
+   "inference": "The element should have height equal to its width and a length of five daṇḍas.",
+   "uncertainties": [],
+   "plain_english": "Its height should equal its width, and its length should be five daṇḍas."
+  },
+  {
+   "verse": 383,
+   "rows": [
+    {
+     "surface": "caturdaṇḍāyato",
+     "gloss": "four-daṇḍa-long",
+     "grounds": "specifies length of the middle type",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "petā",
+     "gloss": "joined",
+     "grounds": "describes attachment or connection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "identifies the grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "declared",
+     "grounds": "states the prescription",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What length characterizes the middle type that is declared here?",
+   "premises": [
+    "A middle type is being defined.",
+    "This type is described as four daṇḍas long.",
+    "It is also described as joined or attached."
+   ],
+   "inference": "The middle type is declared to be four daṇḍas long and joined.",
+   "uncertainties": [
+    "The precise sense of petā in this architectural context is uncertain."
+   ],
+   "plain_english": "The middle one is declared to be four daṇḍas long and joined."
+  },
+  {
+   "verse": 384,
+   "rows": [
+    {
+     "surface": "kanyasā",
+     "gloss": "smallest",
+     "grounds": "identifies the lowest grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bodhikā",
+     "gloss": "bodhikā",
+     "grounds": "names the architectural element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khyātā",
+     "gloss": "known",
+     "grounds": "states recognition or designation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tvaṃghrīyo",
+     "gloss": "with-feet",
+     "grounds": "describes an accompanying feature",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bodhikānvitā",
+     "gloss": "endowed-with-bodhikā",
+     "grounds": "indicates presence of a bodhikā element",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What features characterize the smallest bodhikā as it is known?",
+   "premises": [
+    "The element is identified as the smallest bodhikā.",
+    "It is described as having feet.",
+    "It is described as endowed with a bodhikā feature."
+   ],
+   "inference": "The smallest bodhikā is known as having feet and being endowed with a bodhikā element.",
+   "uncertainties": [
+    "The form tvaṃghrīyo is irregular and its exact analysis is uncertain."
+   ],
+   "plain_english": "The smallest bodhikā is known as having feet and being endowed with a bodhikā."
+  },
+  {
+   "verse": 385,
+   "rows": [
+    {
+     "surface": "madhyemaṃśe",
+     "gloss": "in-middle-part",
+     "grounds": "specifies location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "taraṃgasyā",
+     "gloss": "of-wave",
+     "grounds": "identifies the element to be adorned",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "latādyairbhūṣitaṃ",
+     "gloss": "adorned-with-creeper-and-others",
+     "grounds": "describes decoration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What decoration may be applied in the middle part of the wave element?",
+   "premises": [
+    "The location specified is the middle part of the wave.",
+    "Decoration with creeper and other motifs is mentioned.",
+    "Particles indicate an optional or alternative treatment."
+   ],
+   "inference": "The middle part of the wave may be adorned with creeper and similar motifs.",
+   "uncertainties": [],
+   "plain_english": "In the middle part of the wave, it may be adorned with creeper and other motifs."
+  },
+  {
+   "verse": 386,
+   "rows": [
+    {
+     "surface": "daṇḍaṃ",
+     "gloss": "staff-measure",
+     "grounds": "unit of measurement",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tripādam",
+     "gloss": "three-quarters",
+     "grounds": "first fractional option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ardhaṃ",
+     "gloss": "half",
+     "grounds": "second fractional option",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāyāmānaṃ",
+     "gloss": "shadow-measure",
+     "grounds": "specifies the type of measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dagrayoḥ",
+     "gloss": "at-the-tips",
+     "grounds": "specifies location of the measure",
+     "morph": "n.loc.du"
+    }
+   ],
+   "question": "What fractional shadow measures are prescribed at the two tips?",
+   "premises": [
+    "The measure is expressed in relation to a daṇḍa.",
+    "Possible fractions are three quarters or half.",
+    "The measure applies at the two tips."
+   ],
+   "inference": "At the two tips, the shadow measure may be three quarters or half a daṇḍa.",
+   "uncertainties": [
+    "The token dagrayoḥ appears irregular and may reflect a textual issue."
+   ],
+   "plain_english": "At the two tips, the shadow measure may be three quarters of a daṇḍa or half."
+  },
+  {
+   "verse": 387,
+   "rows": [
+    {
+     "surface": "adhastādbodhikāṃśena",
+     "gloss": "below-by-bodhikā-part",
+     "grounds": "specifies location and proportion",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "alaṃkāraṃ",
+     "gloss": "ornament",
+     "grounds": "object being described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vadāmyaham",
+     "gloss": "i-declare",
+     "grounds": "authorial statement of instruction",
+     "morph": "1.sg.act.pres √vad"
+    }
+   ],
+   "question": "What ornament below the bodhikā part does the text now declare?",
+   "premises": [
+    "The location is below, measured by the bodhikā part.",
+    "An ornament is the subject of description.",
+    "The speaker declares this instruction."
+   ],
+   "inference": "The text declares the ornament to be placed below in proportion to the bodhikā part.",
+   "uncertainties": [],
+   "plain_english": "I now declare the ornament below, in proportion to the bodhikā part."
+  },
+  {
+   "verse": 388,
+   "rows": [
+    {
+     "surface": "pārśvayorubhayoḥ",
+     "gloss": "on-both-sides",
+     "grounds": "specifies lateral location",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "identifies the remaining space",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "taraṃgasthānamucyate",
+     "gloss": "called-wave-place",
+     "grounds": "names the designated area",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the remaining space on both sides called in this design?",
+   "premises": [
+    "Both sides are specified as the location.",
+    "A remainder of space is identified.",
+    "That remainder is named as the place of the wave."
+   ],
+   "inference": "The remaining space on both sides is called the place of the wave.",
+   "uncertainties": [],
+   "plain_english": "On both sides, the remaining space is called the place of the wave."
+  },
+  {
+   "verse": 389,
+   "rows": [
+    {
+     "surface": "pārśvayostu",
+     "gloss": "on-sides-indeed",
+     "grounds": "specifies lateral location with emphasis",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "taraṃgaḥ",
+     "gloss": "wave",
+     "grounds": "subject of the prescription",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "samāścānyonyahīnakam",
+     "gloss": "equal-and-mutually-unreduced",
+     "grounds": "describes balanced arrangement",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How should the wave elements on the sides be proportioned relative to each other?",
+   "premises": [
+    "The waves are placed on the sides.",
+    "They should be equal.",
+    "They should not be diminished in relation to one another."
+   ],
+   "inference": "The side waves should be equal and mutually unreduced.",
+   "uncertainties": [
+    "The compound samāścānyonyahīnakam is compact and allows slight interpretive variation."
+   ],
+   "plain_english": "On the sides, the wave should be equal and not diminished in relation to the other."
+  },
+  {
+   "verse": 390,
+   "rows": [
+    {
+     "surface": "tannivrasadṛśaṃ",
+     "gloss": "like-that-recess",
+     "grounds": "specifies similarity to a recess or cavity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyāsaṃ",
+     "gloss": "width",
+     "grounds": "dimension being prescribed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃbhojakārakalpitam",
+     "gloss": "arranged-by-joining-part",
+     "grounds": "describes how the width is formed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the width be arranged in relation to the corresponding recess?",
+   "premises": [
+    "The width is compared to that recess.",
+    "The width is to be arranged by a joining or fitting part."
+   ],
+   "inference": "The width should be made similar to that recess and arranged by the joining part.",
+   "uncertainties": [
+    "The technical meanings of nivra and saṃbhojakāraka are uncertain."
+   ],
+   "plain_english": "The width should be made similar to that recess and arranged by the joining part."
+  },
+  {
+   "verse": 391,
+   "rows": [
+    {
+     "surface": "ūrdhvapadmamathāṃśena",
+     "gloss": "upper-lotus-by-part",
+     "grounds": "specifies upper element and proportion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "karṇamardhena",
+     "gloss": "ear-by-half",
+     "grounds": "specifies side element and proportion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act.caus.opt √kṛ"
+    }
+   ],
+   "question": "What proportions should be used when making the upper lotus and the ear element?",
+   "premises": [
+    "An upper lotus is to be made by a specified part.",
+    "An ear element is to be made by half.",
+    "The instruction is prescriptive."
+   ],
+   "inference": "One should make the upper lotus by its part and the ear element by half.",
+   "uncertainties": [
+    "The exact reference measure for aṃśena is not explicit in this verse."
+   ],
+   "plain_english": "One should make the upper lotus by its proper part and the ear element by half."
+  },
+  {
+   "verse": 392,
+   "rows": [
+    {
+     "surface": "adhaḥsthāmbujamardhāṃśaṃ",
+     "gloss": "lower-lotus-half-part",
+     "grounds": "specifies the lower lotus proportion",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpayettu",
+     "gloss": "one-should-arrange-indeed",
+     "grounds": "prescriptive instruction with emphasis",
+     "morph": "3.sg.act.opt √kḷp"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "indicates sequential arrangement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the lower lotus half-part be arranged in sequence?",
+   "premises": [
+    "A lower lotus of half-part measure is specified.",
+    "The arrangement must follow an order.",
+    "The instruction is given prescriptively."
+   ],
+   "inference": "The lower lotus half-part should be arranged in proper sequence.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the lower lotus as a half part, in due order."
+  },
+  {
+   "verse": 393,
+   "rows": [
+    {
+     "surface": "agraniskrāmayuktaṃ",
+     "gloss": "with-front-projection",
+     "grounds": "first optional form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chatrākāramathāpi",
+     "gloss": "umbrella-shaped-also",
+     "grounds": "second optional form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative shapes are permitted for this projecting element?",
+   "premises": [
+    "One option includes a front projection.",
+    "Another option is an umbrella-like shape.",
+    "Both are presented as alternatives."
+   ],
+   "inference": "The element may be made either with a front projection or in an umbrella-like shape.",
+   "uncertainties": [],
+   "plain_english": "It may be made with a front projection, or alternatively in the shape of an umbrella."
+  },
+  {
+   "verse": 394,
+   "rows": [
+    {
+     "surface": "bhūtaiśca",
+     "gloss": "with-beings-and",
+     "grounds": "first class of decorative figures",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "makarairvyālaiḥ",
+     "gloss": "with-makaras-and-vyālas",
+     "grounds": "second class of decorative figures",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vyālaiḥ",
+     "gloss": "with-vyālas",
+     "grounds": "repeated mention of vyāla figures",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "nāṭakādyairvibhūṣitam",
+     "gloss": "adorned-with-actors-and-others",
+     "grounds": "additional decorative motifs",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What kinds of figures may adorn this element according to the prescription?",
+   "premises": [
+    "Beings are included among the decorative figures.",
+    "Makaras and vyālas are included.",
+    "Actors and other figures are also included as adornment."
+   ],
+   "inference": "The element may be adorned with beings, makaras, vyālas, actors, and similar figures.",
+   "uncertainties": [
+    "The repetition of vyālaiḥ may be emphatic or a textual redundancy."
+   ],
+   "plain_english": "It may be adorned with beings, makaras, vyālas, actors, and other such figures."
+  },
+  {
+   "verse": 395,
+   "rows": [
+    {
+     "surface": "bodhyagrayostaraṃgaḥ",
+     "gloss": "wave-at-bodhi-tips",
+     "grounds": "specifies subject and location",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "in-its-middle",
+     "grounds": "specifies central location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daṇḍamānataḥ",
+     "gloss": "by-staff-measure",
+     "grounds": "specifies the governing measure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where should the wave at the bodhi tips be placed and by what measure?",
+   "premises": [
+    "A wave is prescribed at the tips of the bodhi.",
+    "Its placement is related to the middle.",
+    "Its measure is determined by the daṇḍa."
+   ],
+   "inference": "The wave at the bodhi tips should be placed in the middle according to the daṇḍa measure.",
+   "uncertainties": [
+    "The exact syntactic relation of tanmadhye and daṇḍamānataḥ is somewhat compressed."
+   ],
+   "plain_english": "At the tips of the bodhi there should be a wave, placed in the middle according to the daṇḍa measure."
+  },
+  {
+   "verse": 396,
+   "rows": [
+    {
+     "surface": "nānācitrairalaṃ",
+     "gloss": "abundantly-with-various-designs",
+     "grounds": "describes rich decoration",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "kṛtya",
+     "gloss": "having-made",
+     "grounds": "indicates completion of decoration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhikā",
+     "gloss": "bodhikā",
+     "grounds": "subject being named",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "citrabodhikā",
+     "gloss": "painted-bodhikā",
+     "grounds": "resulting designation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What name is given to a bodhikā richly decorated with various designs?",
+   "premises": [
+    "The bodhikā is made with various designs.",
+    "The decoration is abundant.",
+    "A specific name is assigned to this decorated form."
+   ],
+   "inference": "A bodhikā richly decorated with various designs is called a painted bodhikā.",
+   "uncertainties": [],
+   "plain_english": "When a bodhikā is richly decorated with various designs, it is called a painted bodhikā."
+  },
+  {
+   "verse": 397,
+   "rows": [
+    {
+     "surface": "mahārṇavataraṃgābhān",
+     "gloss": "resembling-great-ocean-waves",
+     "grounds": "describes the intended appearance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "taraṃgāṃstu",
+     "gloss": "waves-indeed",
+     "grounds": "objects to be fashioned",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-fashion",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.act.opt √kḷp"
+    }
+   ],
+   "question": "What appearance should the fashioned wave motifs be made to resemble?",
+   "premises": [
+    "Wave motifs are to be fashioned.",
+    "They should resemble the waves of the great ocean."
+   ],
+   "inference": "The wave motifs should be fashioned to resemble the waves of the great ocean.",
+   "uncertainties": [],
+   "plain_english": "One should fashion the waves so that they resemble the waves of the great ocean."
+  },
+  {
+   "verse": 398,
+   "rows": [
+    {
+     "surface": "caturaśrāṣṭavṛttānāṃ",
+     "gloss": "of-square-octagonal-round",
+     "grounds": "lists the forms concerned",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "kramātsādhāraṇaṃ",
+     "gloss": "in-order-common",
+     "grounds": "indicates shared application in sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may the prescribed feature apply to square, octagonal, and round forms?",
+   "premises": [
+    "Square, octagonal, and round forms are included.",
+    "The application may follow their order.",
+    "The feature may be common to them."
+   ],
+   "inference": "The feature may apply in order or be common to square, octagonal, and round forms.",
+   "uncertainties": [
+    "The exact subject made common is implied by context rather than stated."
+   ],
+   "plain_english": "For square, octagonal, and round forms, it may be applied in order or be common to them."
+  },
+  {
+   "verse": 399,
+   "rows": [
+    {
+     "surface": "agrapādasamaṃ",
+     "gloss": "equal-to-front-foot",
+     "grounds": "specifies width proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāraṃ",
+     "gloss": "width",
+     "grounds": "dimension being defined",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tripādaṃ",
+     "gloss": "three-quarters",
+     "grounds": "specifies height proportion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tuṃgamucyate",
+     "gloss": "called-height",
+     "grounds": "states the designation of the height",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What width and height proportions are prescribed for this element?",
+   "premises": [
+    "The width is equal to the front foot.",
+    "The height is three quarters.",
+    "The height is explicitly named as such."
+   ],
+   "inference": "The element’s width should equal the front foot and its height should be three quarters.",
+   "uncertainties": [
+    "The reference unit for the three-quarter height is implied by context."
+   ],
+   "plain_english": "The width is said to be equal to the front foot, and the height is said to be three quarters."
+  }
+ ]
+}

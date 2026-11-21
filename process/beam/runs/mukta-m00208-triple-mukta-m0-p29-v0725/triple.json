@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p29",
+ "items": [
+  {
+   "verse": 725,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb referring to the situation of lapse described previously",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative pronoun asking for specification",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nu",
+     "gloss": "then",
+     "grounds": "interrogative particle reinforcing the question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karttavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive expressing obligation or requirement",
+     "morph": "gerundive.n.nom.sg √kṛ"
+    },
+    {
+     "surface": "prāyaścittaṃ",
+     "gloss": "expiation",
+     "grounds": "remedial rite for a lapse or fault",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vadasva",
+     "gloss": "tell",
+     "grounds": "imperative request addressed to the speaker's interlocutor",
+     "morph": "2.sg.imp.mid √vad"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "first-person pronoun indicating the recipient of the answer",
+     "morph": "1.sg.dat"
+    }
+   ],
+   "question": "What expiation is required when prescribed worship or recitation lapses?",
+   "premises": [
+    "A lapse in prescribed worship or recitation has been described.",
+    "Such a lapse requires a remedial response.",
+    "The appropriate expiation must be specified."
+   ],
+   "inference": "Therefore, the required expiation in that situation is asked to be declared.",
+   "uncertainties": [],
+   "plain_english": "Then indeed, tell me: what expiation should be performed?"
+  }
+ ]
+}

@@ -1,0 +1,1103 @@
+{
+ "song": "mukta-m0-p25",
+ "items": [
+  {
+   "verse": 601,
+   "rows": [
+    {
+     "surface": "nāmai",
+     "gloss": "by-name",
+     "grounds": "instrumental use indicating designation",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "śānakalānāṃ",
+     "gloss": "of-īśāna-parts",
+     "grounds": "genitive plural of īśāna-kalā compound",
+     "morph": "compound: īśāna+kalā; f.gen.pl"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility or prescription",
+     "morph": "3.sg.act.opt √as"
+    },
+    {
+     "surface": "tannāmnā",
+     "gloss": "by-that-name",
+     "grounds": "instrumental of tat-nāman compound",
+     "morph": "compound: tat+nāman; n.ins.sg"
+    },
+    {
+     "surface": "kevalaṃ",
+     "gloss": "only",
+     "grounds": "restrictive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How may the īśāna-kalās be designated by name in ritual application?",
+   "premises": [
+    "The īśāna-kalās require designation.",
+    "Designation may occur by their own name.",
+    "Designation may alternatively occur only by that name."
+   ],
+   "inference": "The īśāna-kalās may be designated either by their specific names or simply by that name.",
+   "uncertainties": [
+    "The exact referent of tannāmnā depends on the preceding ritual context."
+   ],
+   "plain_english": "The īśāna-kalās may be designated by their own names, or alternatively only by that name."
+  },
+  {
+   "verse": 602,
+   "rows": [
+    {
+     "surface": "tatpuruṣāya",
+     "gloss": "to-tatpuruṣa",
+     "grounds": "dative of deity name in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vidmahe",
+     "gloss": "we-know",
+     "grounds": "mantric verb of cognition",
+     "morph": "1.pl.mid.pres √vid"
+    },
+    {
+     "surface": "natyantaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: nati+anta; n.acc.sg"
+    },
+    {
+     "surface": "pūrvavaktrake",
+     "gloss": "in-eastern-face",
+     "grounds": "locative of ritual placement",
+     "morph": "compound: pūrva+vaktraka; n.loc.sg"
+    }
+   ],
+   "question": "What mantra formula ending in obeisance is placed on the eastern face?",
+   "premises": [
+    "A mantra addressed to Tatpuruṣa is specified.",
+    "The formula includes vidmahe and ends with obeisance.",
+    "The placement is on the eastern face."
+   ],
+   "inference": "The Tatpuruṣa mantra ending with obeisance is to be placed on the eastern face.",
+   "uncertainties": [],
+   "plain_english": "Place the formula 'tatpuruṣāya vidmahe' ending with obeisance on the eastern face."
+  },
+  {
+   "verse": 603,
+   "rows": [
+    {
+     "surface": "tanno",
+     "gloss": "that-to-us",
+     "grounds": "mantric phrase tat naḥ with sandhi",
+     "morph": "compound: tat+nas; (indecl.)"
+    },
+    {
+     "surface": "rudra",
+     "gloss": "rudra",
+     "grounds": "vocative or name in mantra",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "namontaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: namas+anta; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt √kḷp"
+    },
+    {
+     "surface": "uttarānane",
+     "gloss": "on-northern-face",
+     "grounds": "locative of ritual placement",
+     "morph": "compound: uttara+ānana; n.loc.sg"
+    }
+   ],
+   "question": "What mantra formula is to be arranged on the northern face?",
+   "premises": [
+    "A mantra invoking Rudra is specified.",
+    "The formula ends with obeisance.",
+    "The placement is on the northern face."
+   ],
+   "inference": "One should arrange the Rudra mantra ending with obeisance on the northern face.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the formula 'tanno rudra' ending with obeisance on the northern face."
+  },
+  {
+   "verse": 604,
+   "rows": [
+    {
+     "surface": "kalāś",
+     "gloss": "parts",
+     "grounds": "nominative plural subject",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "catasro",
+     "gloss": "four",
+     "grounds": "numeral agreeing with kalāḥ",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "in-face",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syur",
+     "gloss": "should-be",
+     "grounds": "optative expressing arrangement",
+     "morph": "3.pl.act.opt √as"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-crown",
+     "grounds": "locative of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "avyaktakalā",
+     "gloss": "unmanifest-part",
+     "grounds": "compound naming a specific kalā",
+     "morph": "compound: avyakta+kalā; f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing arrangement",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "How are the four kalās and the unmanifest kalā distributed on the face and crown?",
+   "premises": [
+    "Four kalās are to be placed in the face.",
+    "The unmanifest kalā is to be placed on the crown.",
+    "Both placements are prescribed as ritual arrangements."
+   ],
+   "inference": "Four kalās should be in the face and the unmanifest kalā should be on the crown.",
+   "uncertainties": [],
+   "plain_english": "Four kalās should be placed in the face, and the unmanifest kalā should be on the crown."
+  },
+  {
+   "verse": 605,
+   "rows": [
+    {
+     "surface": "aghorebhyopi",
+     "gloss": "to-non-fearful-also",
+     "grounds": "dative plural with appended particle api in sandhi",
+     "morph": "m.dat.pl + (indecl.)"
+    },
+    {
+     "surface": "natyantaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: nati+anta; n.acc.sg"
+    },
+    {
+     "surface": "tamāṃ",
+     "gloss": "darkness",
+     "grounds": "accusative of a kalā or power name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hṛdayagocare",
+     "gloss": "in-heart-region",
+     "grounds": "locative compound indicating placement",
+     "morph": "compound: hṛdaya+gocara; m.loc.sg"
+    }
+   ],
+   "question": "Which mantra and power are placed in the region of the heart?",
+   "premises": [
+    "A mantra beginning aghorebhyaḥ is specified.",
+    "The mantra ends with obeisance.",
+    "The power tamā is placed in the heart region."
+   ],
+   "inference": "The aghorebhyaḥ mantra ending with obeisance and the power tamā are placed in the heart region.",
+   "uncertainties": [
+    "The exact identity of tamā as a named kalā or śakti is context-dependent."
+   ],
+   "plain_english": "Place the 'aghorebhyaḥ' formula ending with obeisance and tamā in the region of the heart."
+  },
+  {
+   "verse": 606,
+   "rows": [
+    {
+     "surface": "rakṣāṃ",
+     "gloss": "protection",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ghoranamontaṃ",
+     "gloss": "fierce-ending-with-obeisance",
+     "grounds": "compound describing mantra ending",
+     "morph": "compound: ghora+namas+anta; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇāṃse",
+     "gloss": "on-right-shoulder",
+     "grounds": "locative of placement",
+     "morph": "compound: dakṣiṇa+aṃsa; m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt vi-ni-√as"
+    }
+   ],
+   "question": "Where should the protection power and the fierce mantra ending in obeisance be placed?",
+   "premises": [
+    "The power of protection is to be placed.",
+    "A fierce mantra ending with obeisance is specified.",
+    "The location is the right shoulder."
+   ],
+   "inference": "One should place protection and the fierce mantra ending with obeisance on the right shoulder.",
+   "uncertainties": [],
+   "plain_english": "One should place protection and the fierce mantra ending with obeisance on the right shoulder."
+  },
+  {
+   "verse": 607,
+   "rows": [
+    {
+     "surface": "mṛtyuṃ",
+     "gloss": "death",
+     "grounds": "accusative of power or aspect to be placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvataḥ",
+     "gloss": "from-all-sides",
+     "grounds": "adverbial element in mantra phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvanamo",
+     "gloss": "all-obeisance",
+     "grounds": "compound element of mantra formula",
+     "morph": "compound: sarva+namas; (indecl.)"
+    },
+    {
+     "surface": "nābhau",
+     "gloss": "in-navel",
+     "grounds": "locative of placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt vi-ni-√as"
+    }
+   ],
+   "question": "What mantra elements and power are to be placed in the navel region?",
+   "premises": [
+    "The power mṛtyu is specified for placement.",
+    "The mantra elements sarvataḥ and sarvanamo are included.",
+    "The location is the navel."
+   ],
+   "inference": "One should place mṛtyu with the sarvataḥ sarvanamo formula in the navel.",
+   "uncertainties": [
+    "The precise mantra segmentation of sarvataḥ sarvanamo follows ritual convention."
+   ],
+   "plain_english": "One should place mṛtyu and the 'sarvataḥ sarvanamo' formula in the navel."
+  },
+  {
+   "verse": 608,
+   "rows": [
+    {
+     "surface": "namaste",
+     "gloss": "obeisance-to-you",
+     "grounds": "mantric phrase namas te with sandhi",
+     "morph": "compound: namas+te; (indecl.)"
+    },
+    {
+     "surface": "rudra",
+     "gloss": "rudra",
+     "grounds": "vocative in mantra",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "natyantam",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: nati+anta; n.acc.sg"
+    },
+    {
+     "surface": "abhayāṃ",
+     "gloss": "fearlessness",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pṛṣṭhake",
+     "gloss": "on-back",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt ni-√as"
+    }
+   ],
+   "question": "Which mantra and power are to be placed on the back?",
+   "premises": [
+    "The mantra namaste rudra ending with obeisance is specified.",
+    "The power of fearlessness is to be placed.",
+    "The location is the back."
+   ],
+   "inference": "One should place the namaste rudra mantra ending with obeisance and fearlessness on the back.",
+   "uncertainties": [],
+   "plain_english": "One should place the 'namaste rudra' formula ending with obeisance and fearlessness on the back."
+  },
+  {
+   "verse": 609,
+   "rows": [
+    {
+     "surface": "bahurūpakalāś",
+     "gloss": "many-form-parts",
+     "grounds": "nominative plural compound subject",
+     "morph": "compound: bahu+rūpa+kalā; f.nom.pl"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connective particle with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral indicating quantity",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vidyādehe",
+     "gloss": "in-knowledge-body",
+     "grounds": "locative of placement",
+     "morph": "compound: vidyā+deha; m.loc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt pra-√kḷp"
+    }
+   ],
+   "question": "How many bahurūpa-kalās are to be arranged in the vidyā-body?",
+   "premises": [
+    "The bahurūpa-kalās are the subject of arrangement.",
+    "Their number is eight.",
+    "They are to be arranged in the vidyā-body."
+   ],
+   "inference": "One should arrange the eight bahurūpa-kalās in the vidyā-body.",
+   "uncertainties": [],
+   "plain_english": "One should arrange the eight bahurūpa-kalās in the vidyā-body."
+  },
+  {
+   "verse": 610,
+   "rows": [
+    {
+     "surface": "rakṣāṃ",
+     "gloss": "protection",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "jyeṣṭhāya",
+     "gloss": "to-jyeṣṭha",
+     "grounds": "dative in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "natyantaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: nati+anta; n.acc.sg"
+    },
+    {
+     "surface": "liṅge",
+     "gloss": "in-generative-mark",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "praṇavakaṃ",
+     "gloss": "with-praṇava",
+     "grounds": "accusative element indicating inclusion of oṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt ni-√as"
+    }
+   ],
+   "question": "What mantra and power are to be placed in the liṅga region?",
+   "premises": [
+    "The power of protection is specified.",
+    "The mantra to Jyeṣṭha ends with obeisance and includes praṇava.",
+    "The placement is in the liṅga."
+   ],
+   "inference": "One should place protection and the Jyeṣṭha mantra with praṇava ending in obeisance in the liṅga.",
+   "uncertainties": [],
+   "plain_english": "One should place protection and the mantra to Jyeṣṭha, with praṇava and ending with obeisance, in the liṅga."
+  },
+  {
+   "verse": 611,
+   "rows": [
+    {
+     "surface": "pālyāṃ",
+     "gloss": "protection",
+     "grounds": "accusative of power to be invoked",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālāya",
+     "gloss": "to-kāla",
+     "grounds": "dative in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "natyantaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: nati+anta; n.acc.sg"
+    },
+    {
+     "surface": "vāmorugatam",
+     "gloss": "gone-to-left-thigh",
+     "grounds": "compound indicating placement location",
+     "morph": "compound: vāma+ūru+gata; n.acc.sg"
+    },
+    {
+     "surface": "āvahet",
+     "gloss": "one-should-invoke",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt ā-√vah"
+    }
+   ],
+   "question": "Where should the protective power with the Kāla mantra be invoked?",
+   "premises": [
+    "A protective power is specified.",
+    "The mantra to Kāla ends with obeisance.",
+    "The location is the left thigh."
+   ],
+   "inference": "One should invoke the protective power with the Kāla mantra ending in obeisance on the left thigh.",
+   "uncertainties": [],
+   "plain_english": "One should invoke the protective power with the mantra to Kāla ending with obeisance on the left thigh."
+  },
+  {
+   "verse": 612,
+   "rows": [
+    {
+     "surface": "vikaraṇāya",
+     "gloss": "to-vikaraṇa",
+     "grounds": "dative in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namontaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: namas+anta; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyamīṃ",
+     "gloss": "restraint",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāmajānuni",
+     "gloss": "on-left-knee",
+     "grounds": "locative of placement",
+     "morph": "compound: vāma+jānu; n.loc.sg"
+    }
+   ],
+   "question": "What mantra and power are to be placed on the left knee?",
+   "premises": [
+    "The mantra to Vikaraṇa ends with obeisance.",
+    "The power of restraint is specified.",
+    "The placement is on the left knee."
+   ],
+   "inference": "The Vikaraṇa mantra ending with obeisance and the power of restraint are to be placed on the left knee.",
+   "uncertainties": [],
+   "plain_english": "Place the mantra to Vikaraṇa ending with obeisance and the power of restraint on the left knee."
+  },
+  {
+   "verse": 613,
+   "rows": [
+    {
+     "surface": "buddhiṃ",
+     "gloss": "intellect",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vikaraṇāyeti",
+     "gloss": "to-vikaraṇa-thus",
+     "grounds": "dative with quotative particle iti in sandhi",
+     "morph": "m.dat.sg + (indecl.)"
+    },
+    {
+     "surface": "namontaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: namas+anta; n.acc.sg"
+    },
+    {
+     "surface": "vāmajaṅghike",
+     "gloss": "on-left-shin",
+     "grounds": "locative of placement",
+     "morph": "compound: vāma+jaṅghikā; n.loc.sg"
+    }
+   ],
+   "question": "What mantra and power are to be placed on the left shin?",
+   "premises": [
+    "The power of intellect is specified.",
+    "The mantra to Vikaraṇa ends with obeisance.",
+    "The placement is on the left shin."
+   ],
+   "inference": "The intellect and the Vikaraṇa mantra ending with obeisance are to be placed on the left shin.",
+   "uncertainties": [],
+   "plain_english": "Place intellect and the mantra to Vikaraṇa ending with obeisance on the left shin."
+  },
+  {
+   "verse": 614,
+   "rows": [
+    {
+     "surface": "dhātrīṃ",
+     "gloss": "nurse",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pramathanāyeti",
+     "gloss": "to-pramathana-thus",
+     "grounds": "dative with quotative particle iti in sandhi",
+     "morph": "m.dat.sg + (indecl.)"
+    },
+    {
+     "surface": "namontaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: namas+anta; n.acc.sg"
+    },
+    {
+     "surface": "vāmatassphici",
+     "gloss": "on-left-hip",
+     "grounds": "locative with directional element in sandhi",
+     "morph": "compound: vāma+tas+sphic; f.loc.sg"
+    }
+   ],
+   "question": "What mantra and power are to be placed on the left hip?",
+   "premises": [
+    "The power dhātrī is specified.",
+    "The mantra to Pramathana ends with obeisance.",
+    "The placement is on the left hip."
+   ],
+   "inference": "Dhātrī and the Pramathana mantra ending with obeisance are to be placed on the left hip.",
+   "uncertainties": [],
+   "plain_english": "Place dhātrī and the mantra to Pramathana ending with obeisance on the left hip."
+  },
+  {
+   "verse": 615,
+   "rows": [
+    {
+     "surface": "sarvabhūtadamanāya",
+     "gloss": "to-all-beings-tamer",
+     "grounds": "dative compound in mantra formula",
+     "morph": "compound: sarva+bhūta+damana; m.dat.sg"
+    },
+    {
+     "surface": "padamekaṃ",
+     "gloss": "one-foot",
+     "grounds": "accusative phrase indicating placement",
+     "morph": "compound: pada+eka; n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt pra-√kḷp"
+    }
+   ],
+   "question": "Where should the mantra to the tamer of all beings be arranged?",
+   "premises": [
+    "A mantra to the tamer of all beings is specified.",
+    "The placement is on one foot.",
+    "The action is ritual arrangement."
+   ],
+   "inference": "One should arrange the mantra to the tamer of all beings on one foot.",
+   "uncertainties": [
+    "Which foot is intended is not specified in this verse."
+   ],
+   "plain_english": "One should arrange the mantra to the tamer of all beings on one foot."
+  },
+  {
+   "verse": 616,
+   "rows": [
+    {
+     "surface": "unmanāyeti",
+     "gloss": "to-unmanā-thus",
+     "grounds": "dative with quotative particle iti in sandhi",
+     "morph": "f.dat.sg + (indecl.)"
+    },
+    {
+     "surface": "natyantaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: nati+anta; n.acc.sg"
+    },
+    {
+     "surface": "bhavāṃ",
+     "gloss": "bhavā",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pārśve",
+     "gloss": "on-side",
+     "grounds": "locative of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmake",
+     "gloss": "on-left",
+     "grounds": "locative adjective specifying side",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What mantra and power are to be placed on the left side?",
+   "premises": [
+    "The mantra to Unmanā ends with obeisance.",
+    "The power bhavā is specified.",
+    "The placement is on the left side."
+   ],
+   "inference": "The Unmanā mantra ending with obeisance and bhavā are to be placed on the left side.",
+   "uncertainties": [],
+   "plain_english": "Place the mantra to Unmanā ending with obeisance and bhavā on the left side."
+  },
+  {
+   "verse": 617,
+   "rows": [
+    {
+     "surface": "sadyojātaṃ",
+     "gloss": "sadyojāta",
+     "grounds": "accusative mantra name or formula element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prapadyāmi",
+     "gloss": "i-take-refuge",
+     "grounds": "mantric verb of surrender",
+     "morph": "1.sg.act.pres pra-√pad"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇapādake",
+     "gloss": "on-right-foot",
+     "grounds": "locative of placement",
+     "morph": "compound: dakṣiṇa+pādaka; n.loc.sg"
+    }
+   ],
+   "question": "What mantra and power are to be placed on the right foot?",
+   "premises": [
+    "The Sadyojāta prapadyāmi mantra is specified.",
+    "The power of accomplishment is to be placed.",
+    "The placement is on the right foot."
+   ],
+   "inference": "The Sadyojāta mantra and accomplishment are to be placed on the right foot.",
+   "uncertainties": [],
+   "plain_english": "Place the 'sadyojātaṃ prapadyāmi' mantra and accomplishment on the right foot."
+  },
+  {
+   "verse": 618,
+   "rows": [
+    {
+     "surface": "dyutiṃ",
+     "gloss": "splendor",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhave",
+     "gloss": "to-bhava",
+     "grounds": "dative in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namontaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: namas+anta; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaseddakṣiṇabāhuke",
+     "gloss": "one-should-place-on-right-arm",
+     "grounds": "optative verb fused with locative placement in sandhi",
+     "morph": "3.sg.act.opt ni-√as + compound: dakṣiṇa+bāhuka; n.loc.sg"
+    }
+   ],
+   "question": "What mantra and power are to be placed on the right arm?",
+   "premises": [
+    "The power of splendor is specified.",
+    "The mantra to Bhava ends with obeisance.",
+    "The placement is on the right arm."
+   ],
+   "inference": "One should place splendor and the Bhava mantra ending with obeisance on the right arm.",
+   "uncertainties": [],
+   "plain_english": "One should place splendor and the mantra to Bhava ending with obeisance on the right arm."
+  },
+  {
+   "verse": 619,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt ni-√as"
+    },
+    {
+     "surface": "nātibhave",
+     "gloss": "to-not-beyond-bhava",
+     "grounds": "dative in mantra formula with negation",
+     "morph": "compound: na+atibhava; m.dat.sg"
+    },
+    {
+     "surface": "medhāṃ",
+     "gloss": "wisdom",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "natyantaṃ",
+     "gloss": "ending-with-obeisance",
+     "grounds": "compound indicating mantra ending in namas",
+     "morph": "compound: nati+anta; n.acc.sg"
+    },
+    {
+     "surface": "nāsikāgrataḥ",
+     "gloss": "at-nose-tip",
+     "grounds": "ablative or adverbial locative indicating placement",
+     "morph": "compound: nāsikā+agra; (indecl.)"
+    }
+   ],
+   "question": "What mantra and power are to be placed at the tip of the nose?",
+   "premises": [
+    "The power of wisdom is specified.",
+    "The mantra to Nātibhava ends with obeisance.",
+    "The placement is at the tip of the nose."
+   ],
+   "inference": "One should place wisdom and the Nātibhava mantra ending with obeisance at the tip of the nose.",
+   "uncertainties": [],
+   "plain_english": "One should place wisdom and the mantra to Nātibhava ending with obeisance at the tip of the nose."
+  },
+  {
+   "verse": 620,
+   "rows": [
+    {
+     "surface": "svadhāṃ",
+     "gloss": "svadhā",
+     "grounds": "accusative of power to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhavanamontaṃ",
+     "gloss": "to-bhava-ending-with-obeisance",
+     "grounds": "compound describing mantra formula",
+     "morph": "compound: bhava+namas+anta; n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyaseddakṣiṇabāhuke",
+     "gloss": "one-should-place-on-right-arm",
+     "grounds": "optative verb fused with locative placement in sandhi",
+     "morph": "3.sg.act.opt ni-√as + compound: dakṣiṇa+bāhuka; n.loc.sg"
+    }
+   ],
+   "question": "What mantra and power are to be placed on the right arm in this instruction?",
+   "premises": [
+    "The power svadhā is specified.",
+    "The mantra to Bhava ends with obeisance.",
+    "The placement is on the right arm."
+   ],
+   "inference": "One should place svadhā and the Bhava mantra ending with obeisance on the right arm.",
+   "uncertainties": [
+    "Placement on the right arm repeats verse 618; this may indicate a different sub-location or textual repetition."
+   ],
+   "plain_english": "One should place svadhā and the mantra to Bhava ending with obeisance on the right arm."
+  },
+  {
+   "verse": 621,
+   "rows": [
+    {
+     "surface": "sadyojātakalāś",
+     "gloss": "sadyojāta-parts",
+     "grounds": "nominative plural compound subject",
+     "morph": "compound: sadyojāta+kalā; f.nom.pl"
+    },
+    {
+     "surface": "cā",
+     "gloss": "and",
+     "grounds": "connective particle with sandhi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral indicating quantity",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "nyasetsarvāḥ",
+     "gloss": "one-should-place-all",
+     "grounds": "optative verb fused with accusative plural in sandhi",
+     "morph": "3.sg.act.opt ni-√as + f.acc.pl"
+    },
+    {
+     "surface": "svamudrayā",
+     "gloss": "with-own-seal",
+     "grounds": "instrumental indicating ritual gesture",
+     "morph": "compound: sva+mudrā; f.ins.sg"
+    }
+   ],
+   "question": "How should all eight Sadyojāta-kalās be ritually placed?",
+   "premises": [
+    "Eight Sadyojāta-kalās are specified.",
+    "All of them are to be placed.",
+    "The placement is performed with their own mudrā."
+   ],
+   "inference": "One should place all eight Sadyojāta-kalās with their own mudrā.",
+   "uncertainties": [],
+   "plain_english": "One should place all eight Sadyojāta-kalās with their own mudrā."
+  },
+  {
+   "verse": 622,
+   "rows": [
+    {
+     "surface": "mūlamantraṃ",
+     "gloss": "root-mantra",
+     "grounds": "accusative object of invocation",
+     "morph": "compound: mūla+mantra; m.acc.sg"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund sam-ā-√vah"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "accusative plural object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.act.opt vi-ni-√as"
+    }
+   ],
+   "question": "What ritual sequence follows the invocation of the root mantra?",
+   "premises": [
+    "The root mantra is first invoked.",
+    "The placement of limbs follows afterwards.",
+    "Both actions are part of the prescribed sequence."
+   ],
+   "inference": "After invoking the root mantra, one should place the limbs.",
+   "uncertainties": [],
+   "plain_english": "After invoking the root mantra, one should then place the limbs."
+  },
+  {
+   "verse": 623,
+   "rows": [
+    {
+     "surface": "śikhāyāṃ",
+     "gloss": "on-crest",
+     "grounds": "locative of placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhāṃ",
+     "gloss": "crest-mantra",
+     "grounds": "accusative of limb-mantra to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund ni-√as"
+    },
+    {
+     "surface": "kavacaṃ",
+     "gloss": "armor-mantra",
+     "grounds": "accusative of limb-mantra to be placed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "stanamadhyataḥ",
+     "gloss": "from-breast-middle",
+     "grounds": "ablative or adverbial locative indicating placement",
+     "morph": "compound: stana+madhya; (indecl.)"
+    }
+   ],
+   "question": "Where are the śikhā and kavaca limb-mantras to be placed?",
+   "premises": [
+    "The śikhā mantra is placed on the crest.",
+    "The kavaca mantra is placed in the middle of the chest.",
+    "These are sequential limb placements."
+   ],
+   "inference": "One should place the śikhā on the crest and the kavaca in the middle of the chest.",
+   "uncertainties": [],
+   "plain_english": "Having placed the śikhā on the crest, place the kavaca in the middle of the chest."
+  },
+  {
+   "verse": 624,
+   "rows": [
+    {
+     "surface": "dīpakaṃ",
+     "gloss": "illuminator",
+     "grounds": "accusative element in mantra description",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava-seed",
+     "grounds": "accusative naming the bīja",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "binduṃ",
+     "gloss": "bindu",
+     "grounds": "accusative naming the nasal mark",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śrīkaṇṭhāya",
+     "gloss": "to-śrīkaṇṭha",
+     "grounds": "dative in mantra formula",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "accusative indicating mantra element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra elements are specified in sequence for this placement?",
+   "premises": [
+    "The elements dīpaka, vāgbhava, and bindu are named.",
+    "The formula includes śrīkaṇṭhāya and pada.",
+    "The sequence is indicated by then."
+   ],
+   "inference": "The mantra sequence includes dīpaka, vāgbhava, bindu, and the word śrīkaṇṭhāya.",
+   "uncertainties": [
+    "The exact syntactic role of dīpaka in this mantra construction is context-dependent."
+   ],
+   "plain_english": "Then use the illuminator, the vāgbhava seed, the bindu, and the word 'śrīkaṇṭhāya'."
+  }
+ ]
+}

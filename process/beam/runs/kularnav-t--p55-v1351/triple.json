@@ -1,0 +1,649 @@
+{
+ "song": "kul-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt+root bhū"
+    },
+    {
+     "surface": "sadgurau",
+     "gloss": "in-true-teacher",
+     "grounds": "compound sat+guru in locative",
+     "morph": "compound loc.sg.m"
+    },
+    {
+     "surface": "bhaktiḥ",
+     "gloss": "devotion",
+     "grounds": "feminine noun",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "until",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "dehinām",
+     "gloss": "of-embodied-ones",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "What condition must precede devotion to the true teacher?",
+   "premises": [
+    "Devotion to true teacher absent until condition",
+    "Embodied beings require prior devotion",
+    "Goddess is addressed directly"
+   ],
+   "inference": "Devotion to the true teacher is the prerequisite for the embodied ones.",
+   "uncertainties": [
+    "Exact scope of dehinām remains broad"
+   ],
+   "plain_english": "Until devotion to the true teacher arises, O goddess, there is no devotion among embodied beings."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "guruprasādamūlaḥ",
+     "gloss": "teacher-grace-rooted",
+     "grounds": "compound guru+prasāda+mūla",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "paratattvamahākramaḥ",
+     "gloss": "supreme-reality-great-sequence",
+     "grounds": "compound para+tattva+mahā+krama",
+     "morph": "compound nom.sg.m"
+    }
+   ],
+   "question": "What is rooted in the teacher's grace?",
+   "premises": [
+    "This great sequence is teacher-grace-rooted",
+    "Supreme reality sequence depends on grace",
+    "Grace is the root cause"
+   ],
+   "inference": "The supreme reality's great sequence is rooted in the teacher's grace.",
+   "uncertainties": [
+    "Whether ayaṃ refers to sequence or path"
+   ],
+   "plain_english": "This supreme reality, the great sequence, is rooted in the grace of the teacher."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "by-devotion",
+     "grounds": "instrumental of bhakti",
+     "morph": "inst.sg.f"
+    },
+    {
+     "surface": "dhanaiḥ",
+     "gloss": "by-wealth",
+     "grounds": "instrumental plural of dhana",
+     "morph": "inst.pl.n"
+    },
+    {
+     "surface": "prāṇaiḥ",
+     "gloss": "by-life-breaths",
+     "grounds": "instrumental plural of prāṇa",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "teacher",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "yatnena",
+     "gloss": "with-effort",
+     "grounds": "instrumental of yatna",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "toṣayet",
+     "gloss": "should-please",
+     "grounds": "causative optative of tuṣ",
+     "morph": "3.sg.act.opt+caus root tuṣ"
+    }
+   ],
+   "question": "How should one please the teacher?",
+   "premises": [
+    "Devotion pleases the teacher",
+    "Wealth pleases the teacher",
+    "Life-breaths please the teacher",
+    "Effort pleases the teacher"
+   ],
+   "inference": "One should please the teacher through devotion, wealth, life-breaths, and effort.",
+   "uncertainties": [
+    "Whether all means are equally required"
+   ],
+   "plain_english": "Thus one should please the teacher with devotion, wealth, life-breaths, and effort."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "past participle of muc",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt+root bhū"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "thereafter",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-is",
+     "grounds": "negated copula",
+     "morph": "3.sg.act.pres+root as"
+    },
+    {
+     "surface": "punarbhavaḥ",
+     "gloss": "rebirth",
+     "grounds": "compound punar+bhava",
+     "morph": "compound nom.sg.m"
+    }
+   ],
+   "question": "What follows when the disciple becomes liberated?",
+   "premises": [
+    "Liberated disciple arises then",
+    "Thereafter no rebirth exists",
+    "Liberation ends rebirth"
+   ],
+   "inference": "When the disciple is liberated, there is no further rebirth.",
+   "uncertainties": [
+    "Whether tadā and tataḥ are sequential or emphatic"
+   ],
+   "plain_english": "Then the disciple becomes liberated; thereafter there is no rebirth."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "gurau",
+     "gloss": "in-teacher",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "prasanne",
+     "gloss": "pleased",
+     "grounds": "locative participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "śiṣyasya",
+     "gloss": "of-disciple",
+     "grounds": "genitive singular",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāpakṣayaḥ",
+     "gloss": "sin-destruction",
+     "grounds": "compound pāpa+kṣaya",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt+root bhū"
+    }
+   ],
+   "question": "What happens when the teacher is pleased?",
+   "premises": [
+    "Teacher pleased in locative state",
+    "Disciple's sin destruction follows",
+    "Destruction is immediate"
+   ],
+   "inference": "When the teacher is pleased, the disciple's sins are immediately destroyed.",
+   "uncertainties": [
+    "Whether prasanne modifies gurau or śiṣya"
+   ],
+   "plain_english": "When the teacher is pleased, the disciple's sins are immediately destroyed."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "sampādayanti",
+     "gloss": "fulfill",
+     "grounds": "causative present plural",
+     "morph": "3.pl.act.pres+caus root pad"
+    },
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "svāminaḥ",
+     "gloss": "lords",
+     "grounds": "nominative plural",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "bhaktavatsalāḥ",
+     "gloss": "devotee-loving",
+     "grounds": "compound bhakta+vatsala",
+     "morph": "compound nom.pl.m"
+    }
+   ],
+   "question": "Who fulfills all those desires?",
+   "premises": [
+    "Lords fulfill all those",
+    "Devotee-loving lords act",
+    "Fulfillment is complete"
+   ],
+   "inference": "The devotee-loving lords fulfill all those things.",
+   "uncertainties": [
+    "Whether tān refers to desires or disciples"
+   ],
+   "plain_english": "The devotee-loving lords fulfill all those things."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "kurvanti",
+     "gloss": "do",
+     "grounds": "present plural",
+     "morph": "3.pl.act.pres+root kṛ"
+    },
+    {
+     "surface": "anugrahaṃ",
+     "gloss": "favor",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "tuṣṭāḥ",
+     "gloss": "satisfied",
+     "grounds": "nominative plural participle",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "gurau",
+     "gloss": "in-teacher",
+     "grounds": "locative singular",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tuṣṭe",
+     "gloss": "pleased",
+     "grounds": "locative participle",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "Is there doubt about favor when the teacher is pleased?",
+   "premises": [
+    "Satisfied ones do favor",
+    "Teacher pleased in locative state",
+    "No doubt remains"
+   ],
+   "inference": "When the teacher is pleased, the satisfied ones bestow favor without doubt.",
+   "uncertainties": [
+    "Subject of kurvanti is implicit"
+   ],
+   "plain_english": "When the teacher is pleased, the satisfied ones bestow favor; there is no doubt."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "karmamuktaḥ",
+     "gloss": "action-freed",
+     "grounds": "compound karma+mukta",
+     "morph": "compound nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt+root bhū"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhuktimuktyoḥ",
+     "gloss": "of-enjoyment-liberation",
+     "grounds": "compound bhukti+mukti genitive dual",
+     "morph": "compound gen.du.f"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative singular pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhājanam",
+     "gloss": "vessel",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What becomes of the action-freed disciple?",
+   "premises": [
+    "Disciple becomes action-freed",
+    "He is vessel of enjoyment and liberation",
+    "Freedom from action qualifies him"
+   ],
+   "inference": "The action-freed disciple becomes a vessel of both enjoyment and liberation.",
+   "uncertainties": [
+    "Whether bhuktimuktyoḥ is dual or compound genitive"
+   ],
+   "plain_english": "The disciple becomes free from action and is a vessel of enjoyment and liberation."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "priyaṃ",
+     "gloss": "pleasing",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.act.opt+root kṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "manovākkāyakarmabhiḥ",
+     "gloss": "by-mind-speech-body-actions",
+     "grounds": "compound mano+vāk+kāya+karma instrumental plural",
+     "morph": "compound inst.pl.n"
+    }
+   ],
+   "question": "How should one do what is pleasing?",
+   "premises": [
+    "One should do pleasing things",
+    "Mind speech body actions are means",
+    "Goddess is addressed"
+   ],
+   "inference": "One should do pleasing things by mind, speech, body, and actions.",
+   "uncertainties": [
+    "Whether priyaṃ is object or adjective"
+   ],
+   "plain_english": "O goddess, one should do pleasing things by mind, speech, body, and actions."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "nominative singular participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "asi",
+     "gloss": "you",
+     "grounds": "second person singular copula",
+     "morph": "2.sg.act.pres+root as"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samādiṣṭaḥ",
+     "gloss": "instructed",
+     "grounds": "past participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative singular pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktiṃ",
+     "gloss": "liberation",
+     "grounds": "accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative of vraj",
+     "morph": "3.sg.act.opt+root vraj"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative singular",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What happens when one is instructed that one is liberated?",
+   "premises": [
+    "He is instructed thus you are liberated",
+    "He also goes to liberation",
+    "Dear one is addressed"
+   ],
+   "inference": "Even one instructed that he is liberated goes to liberation.",
+   "uncertainties": [
+    "Whether muktaḥ asi is direct speech or description"
+   ],
+   "plain_english": "When he is instructed, \"You are liberated,\" he too goes to liberation, dear one."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "present singular",
+     "morph": "3.sg.act.pres+root kṛ"
+    },
+    {
+     "surface": "gururūpeṇa",
+     "gloss": "in-teacher-form",
+     "grounds": "compound guru+rūpa instrumental",
+     "morph": "compound inst.sg.n"
+    },
+    {
+     "surface": "paśupāśavimocanam",
+     "gloss": "bound-soul-bond-release",
+     "grounds": "compound paśu+pāśa+vimocana",
+     "morph": "compound acc.sg.n"
+    }
+   ],
+   "question": "What does the teacher-form do?",
+   "premises": [
+    "Teacher-form does release",
+    "Bound soul bond is released",
+    "Release is accomplished"
+   ],
+   "inference": "In the form of the teacher, he releases the bound soul from its bond.",
+   "uncertainties": [
+    "Subject of karoti is implicit"
+   ],
+   "plain_english": "In the form of the teacher, he releases the bound soul from its bond."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "tasmai",
+     "gloss": "to-him",
+     "grounds": "dative singular",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "givable",
+     "grounds": "gerundive",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "receivable",
+     "grounds": "gerundive",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "nominative singular pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyaḥ",
+     "gloss": "worshipful",
+     "grounds": "gerundive",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "first person singular pronoun",
+     "morph": "nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is to be given and received?",
+   "premises": [
+    "To him something is givable",
+    "Then something is receivable",
+    "He is worshipful indeed",
+    "I am thus"
+   ],
+   "inference": "To him something is to be given, then received; he is indeed worshipful, and so am I.",
+   "uncertainties": [
+    "Exact referents of deyaṃ and grāhyaṃ are unclear"
+   ],
+   "plain_english": "To him something is to be given, then received; he is indeed worshipful, and so am I."
+  }
+ ]
+}

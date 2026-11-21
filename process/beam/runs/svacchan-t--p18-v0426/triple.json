@@ -1,0 +1,533 @@
+{
+ "song": "sva-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "loka",
+     "gloss": "world",
+     "grounds": "legacy hint world",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "uttaram",
+     "gloss": "transcendent",
+     "grounds": "legacy hint transcendent",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "legacy hint meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is assigned to loka uttaram?",
+   "premises": [
+    "loka uttaram means transcendent world",
+    "iti marks the stated meaning",
+    "arthaḥ names the meaning"
+   ],
+   "inference": "The phrase denotes the transcendent world.",
+   "uncertainties": [
+    "morphological gender/number inferred from legacy hints"
+   ],
+   "plain_english": "The meaning is the transcendent world."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "samaḥ",
+     "gloss": "equal",
+     "grounds": "legacy hint equal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rasaḥ",
+     "gloss": "taste",
+     "grounds": "legacy hint taste",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yasmin",
+     "gloss": "in-which",
+     "grounds": "legacy hint in-which",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samarasaḥ",
+     "gloss": "same-taste",
+     "grounds": "legacy hint same-taste",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lolībhāvaḥ",
+     "gloss": "wavering-state",
+     "grounds": "legacy hint wavering-state",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What state arises where equal taste is present?",
+   "premises": [
+    "samaḥ rasaḥ means equal taste",
+    "yasmin locates it",
+    "samarasaḥ and lolībhāvaḥ name states"
+   ],
+   "inference": "Equal taste produces the same-taste wavering state.",
+   "uncertainties": [
+    "compound morphology simplified"
+   ],
+   "plain_english": "Where equal taste is found, that is the same-taste wavering state."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "legacy hint that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viśrāntyā",
+     "gloss": "rest",
+     "grounds": "legacy hint rest",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "only",
+     "grounds": "legacy hint only",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarasī",
+     "gloss": "make-same-taste",
+     "grounds": "legacy hint make-same-taste",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "legacy hint should-do",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should one make same taste through rest?",
+   "premises": [
+    "tad refers to that state",
+    "viśrāntyā means by rest",
+    "samarasī kuryāt means should make same taste"
+   ],
+   "inference": "One should make same taste by rest alone.",
+   "uncertainties": [
+    "optative sense inferred"
+   ],
+   "plain_english": "By rest alone, one should make it same-taste."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "become",
+     "grounds": "legacy hint become",
+     "morph": "3.pl.act.ind"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "legacy hint remainder",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the remainder said to become?",
+   "premises": [
+    "bhavanti means become",
+    "iti marks the statement",
+    "śeṣaḥ means remainder"
+   ],
+   "inference": "The remainder becomes as stated.",
+   "uncertainties": [
+    "object of becoming not explicit"
+   ],
+   "plain_english": "Thus the remainder becomes."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "gamiḥ",
+     "gloss": "going",
+     "grounds": "legacy hint going",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "legacy hint here",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "legacy hint knowledge",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "legacy hint meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What meaning is assigned to gamiḥ here?",
+   "premises": [
+    "gamiḥ means going",
+    "atra means here",
+    "jñāna arthaḥ means knowledge meaning"
+   ],
+   "inference": "Here gamiḥ means knowledge.",
+   "uncertainties": [
+    "compound relation inferred"
+   ],
+   "plain_english": "Here, going means knowledge."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "legacy hint word",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avaṣṭabhāti",
+     "gloss": "pervades",
+     "grounds": "legacy hint pervades",
+     "morph": "3.sg.act.ind"
+    },
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "legacy hint which",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "legacy hint because",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "so",
+     "grounds": "legacy hint so",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why does the word pervade as stated?",
+   "premises": [
+    "padam avaṣṭabhāti means word pervades",
+    "yad iti marks the stated content",
+    "yasmāt evam gives the reason"
+   ],
+   "inference": "The word pervades because it is so.",
+   "uncertainties": [
+    "causal content not explicit"
+   ],
+   "plain_english": "The word pervades, because it is so."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "sarvasyāsya",
+     "gloss": "of-all-this",
+     "grounds": "legacy hint of-all-this",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "prakāśamānatayā",
+     "gloss": "manifestness",
+     "grounds": "legacy hint manifestness",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "prakāśaghanaśivaikātmyāt",
+     "gloss": "dense-light-śiva-unity",
+     "grounds": "legacy hint dense-light-śiva-unity",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What follows from manifestness and dense light Śiva unity?",
+   "premises": [
+    "sarvasyāsya means of all this",
+    "prakāśamānatayā means by manifestness",
+    "prakāśaghanaśivaikātmyāt means from dense-light-śiva-unity"
+   ],
+   "inference": "All this is manifest through dense-light Śiva unity.",
+   "uncertainties": [
+    "ablative relation inferred"
+   ],
+   "plain_english": "All this is manifest by dense-light Śiva unity."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "legacy hint him",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parāparabhāgena",
+     "gloss": "higher-lower-part",
+     "grounds": "legacy hint higher-lower-part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "punareva",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "legacy hint threefold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "legacy hint do",
+     "morph": "2.sg.act.imp"
+    }
+   ],
+   "question": "How should one make him threefold again?",
+   "premises": [
+    "taṃ means him",
+    "parāparabhāgena means by higher-lower part",
+    "tridhā kuru means make threefold"
+   ],
+   "inference": "Make him threefold again by higher and lower parts.",
+   "uncertainties": [
+    "imperative addressee inferred"
+   ],
+   "plain_english": "Make him threefold again by higher and lower parts."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "tuṭerardhīkṛtāyāḥ",
+     "gloss": "of-tuṭi-half-made",
+     "grounds": "legacy hint of-tuṭi-half-made",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "legacy hint threefold",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhajanam",
+     "gloss": "division",
+     "grounds": "legacy hint division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "legacy hint again",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śabdārthaḥ",
+     "gloss": "word-meaning",
+     "grounds": "legacy hint word-meaning",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the word meaning of threefold division?",
+   "premises": [
+    "tuṭerardhīkṛtāyāḥ means of tuṭi half-made",
+    "tridhā vibhajanam means threefold division",
+    "śabdārthaḥ means word meaning"
+   ],
+   "inference": "The word meaning is threefold division of half-made tuṭi.",
+   "uncertainties": [
+    "technical term tuṭi not expanded"
+   ],
+   "plain_english": "The word meaning is threefold division of the half-made tuṭi."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "legacy hint all",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāla",
+     "gloss": "time",
+     "grounds": "legacy hint time",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "avayava",
+     "gloss": "limb",
+     "grounds": "legacy hint limb",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyāpī",
+     "gloss": "pervading",
+     "grounds": "legacy hint pervading",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What pervades all time limbs?",
+   "premises": [
+    "sarva kāla means all time",
+    "avayava means limb",
+    "vyāpī means pervading"
+   ],
+   "inference": "The pervading one pervades all time limbs.",
+   "uncertainties": [
+    "subject not explicit"
+   ],
+   "plain_english": "The pervading one pervades all limbs of time."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "parata",
+     "gloss": "from-beyond",
+     "grounds": "legacy hint from-beyond",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "legacy hint thus",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samanāyāḥ",
+     "gloss": "of-samanā",
+     "grounds": "legacy hint of-samanā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ya",
+     "gloss": "who",
+     "grounds": "legacy hint who",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "legacy hint of-self",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "unmanāyogaḥ",
+     "gloss": "unmana-yoga",
+     "grounds": "legacy hint unmana-yoga",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What yoga belongs to the self from beyond?",
+   "premises": [
+    "parata iti means from beyond thus",
+    "samanāyāḥ ātmanaḥ means of samanā self",
+    "unmanāyogaḥ means unmana yoga"
+   ],
+   "inference": "The self's unmana yoga is from beyond.",
+   "uncertainties": [
+    "relation of samanā to self inferred"
+   ],
+   "plain_english": "The self's unmana yoga comes from beyond."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "śabdasaṃdarbhaḥ",
+     "gloss": "word-arrangement",
+     "grounds": "legacy hint word-arrangement",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadupāyatvāt",
+     "gloss": "its-means-ness",
+     "grounds": "legacy hint its-means-ness",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śāstrasya",
+     "gloss": "of-scripture",
+     "grounds": "legacy hint of-scripture",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "Why is word arrangement the means of scripture?",
+   "premises": [
+    "śabdasaṃdarbhaḥ means word arrangement",
+    "tadupāyatvāt means its means-ness",
+    "śāstrasya means of scripture"
+   ],
+   "inference": "Word arrangement is scripture's means because of its means-ness.",
+   "uncertainties": [
+    "causal phrasing simplified"
+   ],
+   "plain_english": "Word arrangement is the means of scripture."
+  }
+ ]
+}

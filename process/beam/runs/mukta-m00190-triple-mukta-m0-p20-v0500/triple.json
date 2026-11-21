@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "mukta",
+     "gloss": "released",
+     "grounds": "qualifies dravyeṇa as part of a compound; exact referent of the released substance is context-dependent",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dravyeṇa",
+     "gloss": "with-substance",
+     "grounds": "instrumental of the substance used for smearing",
+     "morph": "n.ins.sg.nt"
+    },
+    {
+     "surface": "saṃlliptām",
+     "gloss": "smeared",
+     "grounds": "describes the object to be anointed with the substance",
+     "morph": "ppp.acc.sg.f"
+    },
+    {
+     "surface": "ūrdhva",
+     "gloss": "upward",
+     "grounds": "first member of compound describing orientation of the feet",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pādām",
+     "gloss": "feet",
+     "grounds": "accusative object in a bahuvrīhi-type description of bodily orientation",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "adhaḥ",
+     "gloss": "downward",
+     "grounds": "indeclinable first member of compound describing orientation of the face",
+     "morph": "(indecl.) compound-member"
+    },
+    {
+     "surface": "mukhīm",
+     "gloss": "face",
+     "grounds": "accusative object in a bahuvrīhi-type description of bodily orientation",
+     "morph": "n.acc.sg.f"
+    }
+   ],
+   "question": "What anointing substance and bodily orientation are required for the object placed in the ritual pit?",
+   "premises": [
+    "The object must be smeared with a released substance.",
+    "The object must be positioned with its feet directed upward.",
+    "The object must be positioned with its face directed downward."
+   ],
+   "inference": "The ritual placement requires anointing with the specified substance and an inverted bodily orientation.",
+   "uncertainties": [
+    "The precise nature of the 'released substance' (mukta-dravyeṇa) is not specified in this verse."
+   ],
+   "plain_english": "Smear it with the released substance, positioning it with its feet upward and its face downward."
+  }
+ ]
+}

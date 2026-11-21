@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2075,
+   "rows": [
+    {
+     "surface": "aṣṭamyāṃ",
+     "gloss": "on-the-eighth",
+     "grounds": "locative singular feminine of aṣṭamī, the eighth lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśyāṃ",
+     "gloss": "on-the-fourteenth",
+     "grounds": "locative singular feminine of caturdaśī, the fourteenth lunar day",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pakṣayorubhayorapi",
+     "gloss": "in-both-fortnights-too",
+     "grounds": "locative dual of pakṣa with ubhaya and api, referring to both fortnights",
+     "morph": "m.loc.dual + (indecl.)"
+    }
+   ],
+   "question": "On which lunar days and in which fortnights is the rite to be performed?",
+   "premises": [
+    "eighth lunar day is specified",
+    "fourteenth lunar day is specified",
+    "both fortnights are included"
+   ],
+   "inference": "The rite is to be performed on the eighth and fourteenth days in both fortnights.",
+   "uncertainties": [
+    "the exact ritual action is not specified by this fragment"
+   ],
+   "plain_english": "On the eighth and fourteenth days, in both fortnights."
+  }
+ ]
+}

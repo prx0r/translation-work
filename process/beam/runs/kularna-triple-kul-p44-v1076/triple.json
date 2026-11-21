@@ -1,0 +1,533 @@
+{
+ "song": "kul-p44",
+ "items": [
+  {
+   "verse": 1076,
+   "rows": [
+    {
+     "surface": "puṇyapāpairna",
+     "gloss": "not-stained-by-merit-and-sin",
+     "grounds": "fused form; not-stained sense",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yeṣāṃ",
+     "gloss": "those-whose",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthitam",
+     "gloss": "established",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who are not stained by merit and sin?",
+   "premises": [
+    "Brahman is established in heart.",
+    "Those whose heart holds brahman are unstained."
+   ],
+   "inference": "Unstained status follows from brahman established in the heart.",
+   "uncertainties": [
+    "Exact sandhi of puṇyapāpairna not expanded."
+   ],
+   "plain_english": "Those in whose heart brahman is established are not stained by merit and sin."
+  },
+  {
+   "verse": 1077,
+   "rows": [
+    {
+     "surface": "jihvopasthaparityāgī",
+     "gloss": "tongue-genital-abandoner",
+     "grounds": "compound member",
+     "morph": "compound"
+    },
+    {
+     "surface": "karmaṇā",
+     "gloss": "by-action",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kariṣyati",
+     "gloss": "will-do",
+     "grounds": "future active",
+     "morph": "3.sg.act-fut"
+    }
+   ],
+   "question": "What will the tongue-genital abandoner do by action?",
+   "premises": [
+    "The abandoner renounces tongue and genital.",
+    "Action cannot bind one who has renounced."
+   ],
+   "inference": "Renunciation of tongue and genital makes action inconsequential.",
+   "uncertainties": [
+    "Compound internal members not split."
+   ],
+   "plain_english": "One who abandons tongue and genital: what will action do to him?"
+  },
+  {
+   "verse": 1078,
+   "rows": [
+    {
+     "surface": "samāsena",
+     "gloss": "in-brief",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "lady-of-kula",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kiṃ",
+     "gloss": "what",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "infinitive",
+     "morph": "inf"
+    },
+    {
+     "surface": "icchasi",
+     "gloss": "desire",
+     "grounds": "present active",
+     "morph": "2.sg.act-pres"
+    }
+   ],
+   "question": "What more does the lady of kula desire to hear?",
+   "premises": [
+    "The speaker summarizes in brief.",
+    "The lady of kula asks for more hearing."
+   ],
+   "inference": "The dialogue requests further teaching after a brief summary.",
+   "uncertainties": [
+    "kuleśāni may be vocative or nominative."
+   ],
+   "plain_english": "In brief, lady of kula, what more do you desire to hear?"
+  },
+  {
+   "verse": 1079,
+   "rows": [
+    {
+     "surface": "yogasaṃsthāpanakathanaṃ",
+     "gloss": "yoga-establishment-narration",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "named",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navamollāsaḥ",
+     "gloss": "ninth-delight",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the ninth delight named?",
+   "premises": [
+    "The narration concerns yoga establishment.",
+    "It is called the ninth delight."
+   ],
+   "inference": "The ninth wave is the narration of yoga establishment.",
+   "uncertainties": [
+    "Compound internal members not split."
+   ],
+   "plain_english": "The narration of yoga establishment is named the ninth delight."
+  },
+  {
+   "verse": 1080,
+   "rows": [
+    {
+     "surface": "tatsaparyāphalaṃ",
+     "gloss": "its-worship-fruit",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "speak",
+     "grounds": "imperative",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "dative singular",
+     "morph": "1.dat.sg"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "vocative singular",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What is the fruit of its worship?",
+   "premises": [
+    "The speaker asks the supreme lord.",
+    "The fruit of worship is requested."
+   ],
+   "inference": "The verse asks for the result of worship.",
+   "uncertainties": [
+    "tatsaparyāphalaṃ may be accusative object."
+   ],
+   "plain_english": "Speak to me, god, supreme lord, the fruit of its worship."
+  },
+  {
+   "verse": 1081,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "genitive singular",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "śravaṇamātreṇa",
+     "gloss": "by-mere-hearing",
+     "grounds": "instrumental singular",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "sarvapāpaiḥ",
+     "gloss": "from-all-sins",
+     "grounds": "ablative plural",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "is-freed",
+     "grounds": "present passive",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "From what is one freed by mere hearing?",
+   "premises": [
+    "Mere hearing of it frees.",
+    "Freedom is from all sins."
+   ],
+   "inference": "Hearing alone liberates from all sins.",
+   "uncertainties": [
+    "tasya refers to prior worship or teaching."
+   ],
+   "plain_english": "By mere hearing of it one is freed from all sins."
+  },
+  {
+   "verse": 1082,
+   "rows": [
+    {
+     "surface": "māsapūjā",
+     "gloss": "monthly-worship",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "adhamā",
+     "gloss": "lowest",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "māsādūrdhva",
+     "gloss": "beyond-month",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "paśuḥ",
+     "gloss": "beast",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What becomes lowest monthly worship?",
+   "premises": [
+    "Monthly worship is lowest.",
+    "Beyond a month one becomes a beast."
+   ],
+   "inference": "Monthly worship is inferior; delay beyond a month reduces one to beasthood.",
+   "uncertainties": [
+    "māsādūrdhva may modify paśuḥ."
+   ],
+   "plain_english": "Monthly worship is lowest, goddess; beyond a month one becomes a beast."
+  },
+  {
+   "verse": 1083,
+   "rows": [
+    {
+     "surface": "paśoḥ",
+     "gloss": "of-beast",
+     "grounds": "genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhūyaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praveśecchā",
+     "gloss": "entry-desire",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "be",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "dīkṣayet",
+     "gloss": "initiate",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the beast be initiated again?",
+   "premises": [
+    "If entry desire arises again.",
+    "Then initiate again."
+   ],
+   "inference": "Renewed desire for entry warrants re-initiation.",
+   "uncertainties": [
+    "paśoḥ may refer to beastly state."
+   ],
+   "plain_english": "If the beast again desires entry, initiate again."
+  },
+  {
+   "verse": 1084,
+   "rows": [
+    {
+     "surface": "makārapañcakaṃ",
+     "gloss": "five-m's",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devatāprītikārakam",
+     "gloss": "deity-pleasing",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the five-m's for the goddess?",
+   "premises": [
+    "The five-m's are mentioned.",
+    "They are deity-pleasing."
+   ],
+   "inference": "The five-m's please the deity.",
+   "uncertainties": [
+    "makārapañcakaṃ may be accusative object."
+   ],
+   "plain_english": "The five-m's, goddess, are deity-pleasing."
+  },
+  {
+   "verse": 1085,
+   "rows": [
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣeveta",
+     "gloss": "should-practice",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "tṛṣṇayā",
+     "gloss": "with-craving",
+     "grounds": "instrumental singular",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who becomes a sinner if craving governs practice?",
+   "premises": [
+    "Practice should follow rule.",
+    "Craving makes one a sinner."
+   ],
+   "inference": "Craving-driven practice, not rule, makes one a sinner.",
+   "uncertainties": [
+    "niṣeveta may be third person optative."
+   ],
+   "plain_english": "If he practices with craving rather than according to rule, he is a sinner."
+  },
+  {
+   "verse": 1086,
+   "rows": [
+    {
+     "surface": "saṃkrāntiḥ",
+     "gloss": "transit",
+     "grounds": "nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parvāṇi",
+     "gloss": "festivals",
+     "grounds": "nominative plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "puṇyadineṣu",
+     "gloss": "auspicious-days",
+     "grounds": "locative plural",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the five transits and festivals?",
+   "premises": [
+    "Transit and five festivals are listed.",
+    "They occur on auspicious days."
+   ],
+   "inference": "The verse enumerates transit, five festivals, and auspicious days.",
+   "uncertainties": [
+    "pañca may modify parvāṇi."
+   ],
+   "plain_english": "Transit, five festivals, and auspicious days are included."
+  },
+  {
+   "verse": 1087,
+   "rows": [
+    {
+     "surface": "mānavaughādipuṃsāñca",
+     "gloss": "human-flood-etc-men-and",
+     "grounds": "fused form; compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "svajanmadivase",
+     "gloss": "own-birth-day",
+     "grounds": "locative singular",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What else is included on one's own birth day?",
+   "premises": [
+    "Human flood and other men are included.",
+    "Own birth day is also included."
+   ],
+   "inference": "The list extends to human flood and other men, and to one's own birth day.",
+   "uncertainties": [
+    "mānavaughādipuṃsāñca is fused and not split."
+   ],
+   "plain_english": "Human flood and other men, and thus one's own birth day, are included."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "void",
+     "grounds": "neuter accusative singular of śūnya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "candraṃ",
+     "gloss": "moon",
+     "grounds": "masculine accusative singular of candra",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "vārṇañca",
+     "gloss": "letter-and",
+     "grounds": "fused form vārṇam + ca; masculine accusative singular noun plus conjunction",
+     "morph": "n.acc.sg.m (indecl.)"
+    },
+    {
+     "surface": "tripuraṃ",
+     "gloss": "Tripurā",
+     "grounds": "neuter accusative singular form tripura",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "parikalpitam",
+     "gloss": "conceived",
+     "grounds": "neuter accusative singular passive participle of parikalp",
+     "morph": "adj.acc.sg.n (perf.pass.part. √kalp)"
+    }
+   ],
+   "question": "Which four items are conceived as Tripurā within the yoni?",
+   "premises": [
+    "Void moon letter and Tripurā are listed.",
+    "They are conceived as Tripurā.",
+    "They occur in yoni context."
+   ],
+   "inference": "The verse identifies void moon letter and Tripurā as conceived elements.",
+   "uncertainties": [
+    "Exact syntactic relation to yoni is not explicit.",
+    "Gender of tripuraṃ is ambiguous."
+   ],
+   "plain_english": "Void, moon, letter, and Tripurā are conceived."
+  }
+ ]
+}

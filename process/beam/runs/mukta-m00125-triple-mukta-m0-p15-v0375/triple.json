@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "salilaiḥ",
+     "gloss": "with-waters",
+     "grounds": "instrumental plural of salila, denoting the medium of ablution",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sat+phala+upetaiḥ",
+     "gloss": "endowed-with-good-fruits",
+     "grounds": "compound adjective qualifying salilaiḥ; sat = good, phala = fruit, upeta = endowed",
+     "morph": "compound: sat+phala+upeta; n.inst.pl"
+    },
+    {
+     "surface": "sat+ghaṭādiṣu",
+     "gloss": "in-good-pots-and-others",
+     "grounds": "locative compound indicating containers; ādi implies similar vessels",
+     "morph": "compound: sat+ghaṭa+ādi; m.loc.pl"
+    },
+    {
+     "surface": "saṃsthitaiḥ",
+     "gloss": "placed",
+     "grounds": "past participle qualifying salilaiḥ, indicating the waters are situated in the containers",
+     "morph": "ppp.n.inst.pl; sam-√sthā"
+    }
+   ],
+   "question": "Which qualities and containers characterize the waters prescribed for ritual ablution?",
+   "premises": [
+    "Ritual ablution employs waters as its prescribed medium.",
+    "The prescribed waters are endowed with good fruits.",
+    "The prescribed waters are placed in good pots and similar vessels."
+   ],
+   "inference": "Proper ritual ablution requires fruit-endowed waters situated in auspicious containers.",
+   "uncertainties": [
+    "The term ādiṣu leaves the full range of additional vessels unspecified."
+   ],
+   "plain_english": "The ablution is performed with waters endowed with good fruits, placed in good pots and other such vessels."
+  }
+ ]
+}

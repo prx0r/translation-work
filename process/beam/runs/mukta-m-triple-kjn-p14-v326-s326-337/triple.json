@@ -1,0 +1,551 @@
+{
+ "song": "kjn-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "śubhāśubhaṃ",
+     "gloss": "auspicious-and-inauspicious",
+     "grounds": "compound token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbhoktaṃ",
+     "gloss": "to-be-experienced",
+     "grounds": "participle token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "pronoun token as given",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "rahitaṃ",
+     "gloss": "devoid",
+     "grounds": "participle token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "indeclinable token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is any being ever free from experiencing both auspicious and inauspicious results?",
+   "premises": [
+    "auspicious and inauspicious are experienced",
+    "no one is devoid of them",
+    "this occurs everywhere"
+   ],
+   "inference": "every being undergoes mixed results",
+   "uncertainties": [
+    "referent of tena is not explicit"
+   ],
+   "plain_english": "No one is ever devoid of experiencing auspicious and inauspicious results."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "unmanantu",
+     "gloss": "transcendent-mind",
+     "grounds": "compound token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "noun token as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun token as given",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun token as given",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "noun token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavantīha",
+     "gloss": "becomes-here",
+     "grounds": "verb token as given",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "Whose mind becomes the transcendent mind and thereby attains liberation in this life?",
+   "premises": [
+    "mind becomes transcendent mind",
+    "such a person attains liberation",
+    "liberation occurs here"
+   ],
+   "inference": "transcendent mind is the condition for liberation",
+   "uncertainties": [
+    "exact parsing of unmanantu mano is compressed"
+   ],
+   "plain_english": "For whom the mind becomes transcendent mind, liberation becomes here."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun token as given",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "noun token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavedyastu",
+     "gloss": "may-be-whoever",
+     "grounds": "fused token as given",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "pāpapuṇyairna",
+     "gloss": "by-sin-and-merit-not",
+     "grounds": "fused token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lipyate",
+     "gloss": "is-smeared",
+     "grounds": "verb token as given",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "Who may attain liberation without being smeared by sin or merit?",
+   "premises": [
+    "liberation may belong to him",
+    "he is not smeared by sin",
+    "he is not smeared by merit"
+   ],
+   "inference": "freedom from karmic smearing supports liberation",
+   "uncertainties": [
+    "fused tokens compress case endings"
+   ],
+   "plain_english": "Liberation may be his who is not smeared by sin and merit."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "pronoun token as given",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mokṣo",
+     "gloss": "liberation",
+     "grounds": "noun token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "noun token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "padmapatrāmbubinduvat",
+     "gloss": "like-water-drop-on-lotus-leaf",
+     "grounds": "compound token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is liberation certain for one untouched by sin and merit like water on a lotus leaf?",
+   "premises": [
+    "liberation is without doubt",
+    "the simile is lotus leaf and water drop",
+    "untouchedness is implied"
+   ],
+   "inference": "liberation is assured for the unstained person",
+   "uncertainties": [
+    "simile's exact referent is compressed"
+   ],
+   "plain_english": "There is no doubt of liberation for him, like a water drop on a lotus leaf."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "piṇḍapāte",
+     "gloss": "at-body-fall",
+     "grounds": "compound token as given",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative token as given",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kapālambhidyate",
+     "gloss": "skull-is-pierced",
+     "grounds": "fused token as given",
+     "morph": "3.sg.pass-pres"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "adverb token as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What occurs when at the body's fall the skull is pierced?",
+   "premises": [
+    "the time is body's fall",
+    "the goddess is addressed",
+    "the skull is pierced then"
+   ],
+   "inference": "a ritual or transformative event follows bodily death",
+   "uncertainties": [
+    "the verse is syntactically incomplete"
+   ],
+   "plain_english": "When at the body's fall, O goddess, the skull is pierced, then..."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "candradvīpavinirgate",
+     "gloss": "in-moon-island-emerged",
+     "grounds": "compound token as given",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "installation",
+     "grounds": "noun token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trayodaśaḥ",
+     "gloss": "thirteenth",
+     "grounds": "numeral token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "noun token as given",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the thirteenth chapter concerning installation in the moon island?",
+   "premises": [
+    "the setting is moon island emerged",
+    "the topic is installation",
+    "the chapter is thirteenth"
+   ],
+   "inference": "this section belongs to the moon island installation chapter",
+   "uncertainties": [
+    "exact chapter scope is not stated"
+   ],
+   "plain_english": "The thirteenth chapter on installation emerged in the moon island."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "cakradhyānavinirmuktaṃ",
+     "gloss": "freed-from-wheel-meditation",
+     "grounds": "compound token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "adverb token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhikaraṃ",
+     "gloss": "accomplishment-causing",
+     "grounds": "compound token as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "adjective token as given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is supreme and immediately accomplishment-causing when freed from wheel meditation?",
+   "premises": [
+    "freedom from wheel meditation is stated",
+    "the result is immediate",
+    "the result causes accomplishment"
+   ],
+   "inference": "liberation from wheel meditation yields supreme accomplishment",
+   "uncertainties": [
+    "the exact practice of wheel meditation is unspecified"
+   ],
+   "plain_english": "Freed from wheel meditation, it is immediately accomplishment-causing and supreme."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "verb token as given",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "tvamadbhutaṃ",
+     "gloss": "you-wonderful",
+     "grounds": "fused token as given",
+     "morph": "2.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative token as given",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahadāścaryakārakam",
+     "gloss": "great-wonder-causing",
+     "grounds": "compound token as given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What great wonder should the goddess hear?",
+   "premises": [
+    "the goddess is addressed",
+    "she is told to hear",
+    "the matter is great wonder-causing"
+   ],
+   "inference": "a remarkable teaching is about to be revealed",
+   "uncertainties": [
+    "the fused token tvamadbhutaṃ is compressed"
+   ],
+   "plain_english": "Hear, O goddess, this great wonder-causing matter."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "garndhavāḥ",
+     "gloss": "gandharvas",
+     "grounds": "noun token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kinnarā",
+     "gloss": "kinnaras",
+     "grounds": "noun token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yakṣā",
+     "gloss": "yakshas",
+     "grounds": "noun token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "asurāśca",
+     "gloss": "and-asuras",
+     "grounds": "fused token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tapodhanāḥ",
+     "gloss": "ascetics",
+     "grounds": "adjective token as given",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which beings are listed as ascetics?",
+   "premises": [
+    "gandharvas are listed",
+    "kinnaras and yakshas are listed",
+    "asuras are also listed"
+   ],
+   "inference": "these beings are characterized as ascetics",
+   "uncertainties": [
+    "garndhavāḥ preserves editorial spelling"
+   ],
+   "plain_english": "Gandharvas, kinnaras, yakshas, asuras, and ascetics."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "kulabhaktivihīne",
+     "gloss": "in-kula-devotion-devoid",
+     "grounds": "compound token as given",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle token as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurubhaktivivarjite",
+     "gloss": "in-guru-devotion-deprived",
+     "grounds": "compound token as given",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What characterizes those devoid of kula devotion and deprived of guru devotion?",
+   "premises": [
+    "kula devotion is absent",
+    "guru devotion is absent",
+    "the condition is emphasized"
+   ],
+   "inference": "such persons lack essential devotional qualifications",
+   "uncertainties": [
+    "the verse is a fragment"
+   ],
+   "plain_english": "Indeed, in one devoid of kula devotion and deprived of guru devotion."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "vañcakā",
+     "gloss": "deceivers",
+     "grounds": "noun token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kṛpaṇā",
+     "gloss": "miserable",
+     "grounds": "adjective token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mūḍhā",
+     "gloss": "deluded",
+     "grounds": "adjective token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hīnāni",
+     "gloss": "deficient",
+     "grounds": "adjective token as given",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "satyanindite",
+     "gloss": "in-truth-reviled",
+     "grounds": "compound token as given",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What are the qualities of those lacking kula and guru devotion?",
+   "premises": [
+    "they are deceivers",
+    "they are miserable and deluded",
+    "they are deficient and truth-reviled"
+   ],
+   "inference": "such persons are spiritually unqualified",
+   "uncertainties": [
+    "hīnāni gender and number are compressed"
+   ],
+   "plain_english": "Deceivers, miserable, deluded, deficient, reviled in truth."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun token as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dadyāstu",
+     "gloss": "should-give",
+     "grounds": "fused token as given",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "ime",
+     "gloss": "these",
+     "grounds": "demonstrative token as given",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śiṣyā",
+     "gloss": "disciples",
+     "grounds": "noun token as given",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "deśiko",
+     "gloss": "teacher",
+     "grounds": "noun token as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhirhīyate",
+     "gloss": "accomplishment-is-lost",
+     "grounds": "fused token as given",
+     "morph": "3.sg.pass-pres"
+    }
+   ],
+   "question": "What happens if a teacher gives initiation to such disciples?",
+   "premises": [
+    "the teacher gives these disciples",
+    "the disciples are unqualified",
+    "accomplishment is lost"
+   ],
+   "inference": "initiating unqualified disciples causes loss of accomplishment",
+   "uncertainties": [
+    "dadyāstu parsing is compressed"
+   ],
+   "plain_english": "If the teacher gives these disciples, accomplishment is lost."
+  }
+ ]
+}

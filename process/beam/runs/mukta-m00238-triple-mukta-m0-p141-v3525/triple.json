@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3525,
+   "rows": [
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "accusative object of vidhāya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vidhāya",
+     "gloss": "having-made",
+     "grounds": "absolutive of vidhā",
+     "morph": "abs."
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "adverb of speed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental of krama",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "this",
+     "grounds": "demonstrative instrumental",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "bhaktimān",
+     "gloss": "devotee",
+     "grounds": "nominative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sequence of actions should a devotee follow after fashioning the linga?",
+   "premises": [
+    "afterwards the linga is made",
+    "quickly and in order",
+    "the devotee acts by this"
+   ],
+   "inference": "The verse prescribes a post-creation ritual sequence for the devotee.",
+   "uncertainties": [
+    "the referent of anena is not specified in this verse",
+    "ritual context beyond the verse is not supplied"
+   ],
+   "plain_english": "Afterwards, having made the linga, the devotee should quickly proceed in order by this."
+  }
+ ]
+}

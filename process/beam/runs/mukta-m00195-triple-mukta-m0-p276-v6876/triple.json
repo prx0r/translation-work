@@ -1,0 +1,1021 @@
+{
+ "song": "mukta-m0-p276",
+ "items": [
+  {
+   "verse": 6876,
+   "rows": [
+    {
+     "surface": "trikoṇam",
+     "gloss": "triangle",
+     "grounds": "geometric figure to be drawn",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ādau",
+     "gloss": "at-first",
+     "grounds": "initial step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to previously mentioned diagram",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "inside",
+     "grounds": "location within the triangle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaṭkoṇam",
+     "gloss": "hexagon",
+     "grounds": "six-cornered figure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāhyake",
+     "gloss": "on-outside",
+     "grounds": "external area of the figure",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "one-should-draw",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.optative-active √likh"
+    }
+   ],
+   "question": "What geometric figures must be drawn and in what spatial arrangement?",
+   "premises": [
+    "A triangle is drawn first",
+    "A hexagon is drawn inside that triangle",
+    "Drawing is also done on the outside"
+   ],
+   "inference": "The ritual diagram requires a triangle containing a hexagon with additional outer drawing.",
+   "uncertainties": [
+    "Exact form of what is drawn on the outside is not specified in this verse"
+   ],
+   "plain_english": "First one should draw a triangle, then a hexagon inside it, and draw on the outside."
+  },
+  {
+   "verse": 6877,
+   "rows": [
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "devīm",
+     "gloss": "goddess",
+     "grounds": "deity of the rite",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "candanādibhiḥ",
+     "gloss": "with-sandalwood-and-others",
+     "grounds": "offerings beginning with sandalwood",
+     "morph": "n.inst.pl, compound candana+ādi+bhis"
+    },
+    {
+     "surface": "uttamaiḥ",
+     "gloss": "with-excellent",
+     "grounds": "qualifies the offerings",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "With what kind of offerings should the goddess be worshipped?",
+   "premises": [
+    "The goddess is the object of worship",
+    "Offerings include sandalwood and similar substances",
+    "These offerings must be excellent"
+   ],
+   "inference": "The goddess should be worshipped using excellent substances such as sandalwood.",
+   "uncertainties": [],
+   "plain_english": "One should worship the goddess with excellent offerings such as sandalwood and the like."
+  },
+  {
+   "verse": 6878,
+   "rows": [
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "cardinal or spatial directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √yaj"
+    },
+    {
+     "surface": "aṃgāni",
+     "gloss": "limbs",
+     "grounds": "subsidiary parts of the deity or mantra",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "number of limbs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential procedure",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "How and where should the six limbs be worshipped in the ritual?",
+   "premises": [
+    "Six limbs are to be worshipped",
+    "The worship takes place in the directions",
+    "The worship must follow a sequence"
+   ],
+   "inference": "The six limbs should be worshipped sequentially in the directions.",
+   "uncertainties": [
+    "Specific identity of the six limbs is not stated here"
+   ],
+   "plain_english": "One should worship the six limbs in the directions, in proper order."
+  },
+  {
+   "verse": 6879,
+   "rows": [
+    {
+     "surface": "drāviṇīṃ",
+     "gloss": "drāviṇī",
+     "grounds": "name of a deity or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drāvitāṃ",
+     "gloss": "drāvitā",
+     "grounds": "name of a deity or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭapatrake",
+     "gloss": "on-eight-petals",
+     "grounds": "location on an eight-petaled lotus",
+     "morph": "n.loc.sg, compound aṣṭa+patraka"
+    }
+   ],
+   "question": "Which two powers are to be worshipped on the eight-petaled lotus?",
+   "premises": [
+    "Drāviṇī is to be worshipped",
+    "Drāvitā is to be worshipped",
+    "Their worship occurs on the eight-petaled lotus"
+   ],
+   "inference": "Drāviṇī and Drāvitā should be worshipped on the eight-petaled lotus.",
+   "uncertainties": [],
+   "plain_english": "One should worship Drāviṇī and Drāvitā on the eight-petaled lotus."
+  },
+  {
+   "verse": 6880,
+   "rows": [
+    {
+     "surface": "dvārapārśveṣu",
+     "gloss": "at-door-sides",
+     "grounds": "locations beside the doors",
+     "morph": "n.loc.pl, compound dvāra+pārśva"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "at-corners",
+     "grounds": "corner locations of the diagram",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "directional locations",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "number of entities to worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.optative-active √pūj"
+    }
+   ],
+   "question": "Where should the twelve entities be worshipped within the ritual diagram?",
+   "premises": [
+    "Twelve entities are to be worshipped",
+    "Specified locations include door-sides, corners, and directions",
+    "Worship is enjoined at these places"
+   ],
+   "inference": "The twelve entities should be worshipped at the door-sides, corners, and directions.",
+   "uncertainties": [
+    "Identity of the twelve entities is not specified"
+   ],
+   "plain_english": "One should worship the twelve at the sides of the doors, at the corners, and in the directions."
+  },
+  {
+   "verse": 6881,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "area outside the previous structure",
+     "morph": "n.loc.sg, compound tad+bāhya"
+    },
+    {
+     "surface": "tadastrāṇi",
+     "gloss": "its-weapons",
+     "grounds": "weapons associated with that deity",
+     "morph": "n.acc.pl, compound tad+astra"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "further outer location",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are the deity’s weapons to be placed in relation to the diagram?",
+   "premises": [
+    "The weapons belong to that deity",
+    "They are placed outside that area",
+    "A further outer placement is indicated"
+   ],
+   "inference": "The deity’s weapons should be worshipped outside that area and then further outside.",
+   "uncertainties": [
+    "The verb of worship is implied from context"
+   ],
+   "plain_english": "Outside that, one should place its weapons, and then further outside."
+  },
+  {
+   "verse": 6882,
+   "rows": [
+    {
+     "surface": "bandhūkapuṣpaiḥ",
+     "gloss": "with-bandhūka-flowers",
+     "grounds": "flowers used as oblation material",
+     "morph": "n.inst.pl, compound bandhūka+puṣpa"
+    },
+    {
+     "surface": "svādvaktaiḥ",
+     "gloss": "with-sweet-anointed",
+     "grounds": "anointed with something sweet",
+     "morph": "n.inst.pl, compound svādu+akta"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "fire oblation injunction",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "haviṣā",
+     "gloss": "with-oblation",
+     "grounds": "sacrificial offering material",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "alternative or next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "presents an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials may be used for the fire oblation in this rite?",
+   "premises": [
+    "Bandhūka flowers anointed with something sweet may be offered",
+    "An oblation substance may be offered",
+    "The verse presents alternatives"
+   ],
+   "inference": "One should perform the oblation with sweet-anointed bandhūka flowers or with an oblation substance.",
+   "uncertainties": [
+    "Exact meaning of svādvaktaiḥ is context-dependent"
+   ],
+   "plain_english": "One should offer bandhūka flowers anointed with something sweet, or else offer with an oblation."
+  },
+  {
+   "verse": 6883,
+   "rows": [
+    {
+     "surface": "ātmānam",
+     "gloss": "oneself",
+     "grounds": "the practitioner",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhiṣicya",
+     "gloss": "having-sprinkled",
+     "grounds": "ritual consecration by sprinkling",
+     "morph": "(indecl.), absolutive √sic with abhi"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "recipients of feeding",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhojayet",
+     "gloss": "one-should-feed",
+     "grounds": "ritual feeding injunction",
+     "morph": "3.sg.optative-causative √bhuj"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "subsequent step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory acts must precede the subsequent ritual applications?",
+   "premises": [
+    "The practitioner sprinkles or consecrates himself",
+    "Brahmins are to be fed afterward",
+    "These acts occur before further steps"
+   ],
+   "inference": "After self-consecration and feeding brahmins, one proceeds to further ritual applications.",
+   "uncertainties": [],
+   "plain_english": "Then, having sprinkled oneself, one should feed brahmins, and after that proceed further."
+  },
+  {
+   "verse": 6884,
+   "rows": [
+    {
+     "surface": "prakūrvīta",
+     "gloss": "one-should-perform",
+     "grounds": "injunction to undertake",
+     "morph": "3.sg.optative-middle √kṛ with pra"
+    },
+    {
+     "surface": "prayogān",
+     "gloss": "ritual-applications",
+     "grounds": "practical ritual procedures",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "mantravittamaḥ",
+     "gloss": "best-mantra-knower",
+     "grounds": "most skilled in mantras",
+     "morph": "m.nom.sg, compound mantra+vid+tama"
+    }
+   ],
+   "question": "Who is qualified to perform the ritual applications described here?",
+   "premises": [
+    "Ritual applications are to be performed",
+    "The performer is described as the best knower of mantras",
+    "Expertise in mantras is required"
+   ],
+   "inference": "Only the most knowledgeable mantra practitioner should perform these ritual applications.",
+   "uncertainties": [],
+   "plain_english": "The best knower of mantras should perform the ritual applications."
+  },
+  {
+   "verse": 6885,
+   "rows": [
+    {
+     "surface": "tadbhaktaḥ",
+     "gloss": "devoted-to-that",
+     "grounds": "devotee of that deity",
+     "morph": "m.nom.sg, compound tad+bhakta"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "injunction",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "uktam",
+     "gloss": "as-said",
+     "grounds": "according to what has been taught",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "contrary manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition must the prescribed ritual actions be performed exactly as taught?",
+   "premises": [
+    "The performer is a devotee of that deity",
+    "Actions must follow what has been said",
+    "Acting otherwise is prohibited"
+   ],
+   "inference": "A devotee of that deity must perform the rite exactly as taught and not otherwise.",
+   "uncertainties": [],
+   "plain_english": "A devotee of that deity should do as instructed, and not otherwise."
+  },
+  {
+   "verse": 6886,
+   "rows": [
+    {
+     "surface": "kairavaiḥ",
+     "gloss": "with-white-lotuses",
+     "grounds": "flowers used in oblation",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "aktaiḥ",
+     "gloss": "anointed",
+     "grounds": "smeared or mixed with a substance",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ājñaḥ",
+     "gloss": "command",
+     "grounds": "one who is to be commanded or brought under command",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svavaśam",
+     "gloss": "to-own-control",
+     "grounds": "under one's own power",
+     "morph": "m.acc.sg, compound sva+vaśa"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-bring",
+     "grounds": "ritual result",
+     "morph": "3.sg.optative-active √nī"
+    }
+   ],
+   "question": "What ritual act brings another person under one’s own control?",
+   "premises": [
+    "White lotuses are used in the rite",
+    "They are anointed with some substance",
+    "The target is brought under one's control"
+   ],
+   "inference": "Using anointed white lotuses in the rite brings the intended person under one's control.",
+   "uncertainties": [
+    "The substance used for anointing is not specified in this verse"
+   ],
+   "plain_english": "With anointed white lotuses, one should bring the one to be commanded under one's own control."
+  },
+  {
+   "verse": 6887,
+   "rows": [
+    {
+     "surface": "stambhanaṃ",
+     "gloss": "paralysis",
+     "grounds": "ritual immobilization effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śatroḥ",
+     "gloss": "of-enemy",
+     "grounds": "target of the rite",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nṛpādīnām",
+     "gloss": "of-kings-and-others",
+     "grounds": "includes kings and similar figures",
+     "morph": "m.gen.pl, compound nṛpa+ādi"
+    },
+    {
+     "surface": "kruddhaḥ",
+     "gloss": "angry",
+     "grounds": "even when enraged",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect can the ritual produce against enemies including enraged kings?",
+   "premises": [
+    "The rite causes paralysis",
+    "The targets include enemies and kings",
+    "This applies even if they are angry"
+   ],
+   "inference": "The ritual can paralyze enemies, including kings, even when they are enraged.",
+   "uncertainties": [],
+   "plain_english": "There is paralysis of an enemy, including kings and others, even when they are angry."
+  },
+  {
+   "verse": 6888,
+   "rows": [
+    {
+     "surface": "bhūṣāvāhanavāṇijyasiddhayaḥ",
+     "gloss": "ornament-vehicle-commerce-successes",
+     "grounds": "successes in ornaments, vehicles, and trade",
+     "morph": "f.nom.pl, compound bhūṣā+vāhana+vāṇijya+siddhi"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "may-be",
+     "grounds": "potential result",
+     "morph": "3.pl.optative-active √as"
+    },
+    {
+     "surface": "svavāṃchitāḥ",
+     "gloss": "self-desired",
+     "grounds": "as wished by oneself",
+     "morph": "f.nom.pl, compound sva+vāṃchita"
+    }
+   ],
+   "question": "What kinds of desired successes may result from the ritual practice?",
+   "premises": [
+    "Successes relate to ornaments, vehicles, and commerce",
+    "These successes are self-desired",
+    "They may come about through the rite"
+   ],
+   "inference": "The ritual may yield desired successes in ornaments, vehicles, and commerce.",
+   "uncertainties": [],
+   "plain_english": "There may be the desired successes in ornaments, vehicles, and commerce."
+  },
+  {
+   "verse": 6889,
+   "rows": [
+    {
+     "surface": "tattailāktaiḥ",
+     "gloss": "with-that-oil-anointed",
+     "grounds": "anointed with that oil",
+     "morph": "n.inst.pl, compound tad+taila+akta"
+    },
+    {
+     "surface": "niśāmadhye",
+     "gloss": "in-night-middle",
+     "grounds": "at midnight",
+     "morph": "n.loc.sg, compound niśā+madhya"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānayet",
+     "gloss": "one-should-bring",
+     "grounds": "ritual result",
+     "morph": "3.sg.optative-causative √nī"
+    },
+    {
+     "surface": "vāṃchitām",
+     "gloss": "desired",
+     "grounds": "wished-for",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vadhūm",
+     "gloss": "woman",
+     "grounds": "bride or woman",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "By what means and at what time can a desired woman be brought?",
+   "premises": [
+    "Materials anointed with that oil are used",
+    "The rite is performed at midnight",
+    "The desired woman is brought"
+   ],
+   "inference": "Using substances anointed with that oil at midnight brings the desired woman.",
+   "uncertainties": [
+    "The specific oil referred to by 'that' is not defined in this verse"
+   ],
+   "plain_english": "With things anointed with that oil, in the middle of the night, one should bring the desired woman."
+  },
+  {
+   "verse": 6890,
+   "rows": [
+    {
+     "surface": "māsāt",
+     "gloss": "from-month",
+     "grounds": "after one month",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "arātiḥ",
+     "gloss": "enemy",
+     "grounds": "hostile person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tīvrārtijvareṇa",
+     "gloss": "with-intense-pain-fever",
+     "grounds": "severe fever causing pain",
+     "morph": "m.inst.sg, compound tīvra+ārti+jvara"
+    },
+    {
+     "surface": "paripīḍyate",
+     "gloss": "is-tormented",
+     "grounds": "suffers affliction",
+     "morph": "3.sg.present-passive √pīḍ with pari"
+    }
+   ],
+   "question": "What affliction befalls an enemy after one month as a ritual result?",
+   "premises": [
+    "The effect occurs after a month",
+    "The enemy is the target",
+    "The enemy suffers intense painful fever"
+   ],
+   "inference": "After one month, the enemy is tormented by intense painful fever.",
+   "uncertainties": [],
+   "plain_english": "After a month, the enemy is tormented by a fever of intense pain."
+  },
+  {
+   "verse": 6891,
+   "rows": [
+    {
+     "surface": "naśyeyuḥ",
+     "gloss": "may-perish",
+     "grounds": "potential destruction or disappearance",
+     "morph": "3.pl.optative-active √naś"
+    },
+    {
+     "surface": "dussādhyāḥ",
+     "gloss": "incurable",
+     "grounds": "difficult to treat",
+     "morph": "m.nom.pl, compound dus+sādhya"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cikitsakaiḥ",
+     "gloss": "by-physicians",
+     "grounds": "medical practitioners",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What fate may befall those deemed incurable by physicians through this rite?",
+   "premises": [
+    "Some conditions are incurable by physicians",
+    "Such persons may perish",
+    "This is presented as a possible outcome"
+   ],
+   "inference": "Those incurable by physicians may perish as a result of the ritual.",
+   "uncertainties": [
+    "Whether this refers to enemies or ailments is context-dependent"
+   ],
+   "plain_english": "And those incurable by physicians may perish."
+  },
+  {
+   "verse": 6892,
+   "rows": [
+    {
+     "surface": "siktaiḥ",
+     "gloss": "with-sprinkled",
+     "grounds": "moistened or sprinkled",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "bījaiḥ",
+     "gloss": "with-seeds",
+     "grounds": "seed materials",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "aṃkolakaiḥ",
+     "gloss": "with-aṃkola",
+     "grounds": "aṃkola seeds or fruits",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific materials are indicated for use in the next ritual application?",
+   "premises": [
+    "Seeds are used in the rite",
+    "The seeds are sprinkled",
+    "Aṃkola seeds are included"
+   ],
+   "inference": "Sprinkled aṃkola seeds are to be used in the ritual application.",
+   "uncertainties": [
+    "The liquid used for sprinkling is not specified"
+   ],
+   "plain_english": "With sprinkled seeds, also with aṃkola seeds."
+  },
+  {
+   "verse": 6893,
+   "rows": [
+    {
+     "surface": "vanitām",
+     "gloss": "woman",
+     "grounds": "female target",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāmajvarārtām",
+     "gloss": "by-love-fever-pained",
+     "grounds": "afflicted by fever of desire",
+     "morph": "f.acc.sg, compound kāma+jvara+ārta"
+    },
+    {
+     "surface": "ānayet",
+     "gloss": "one-should-bring",
+     "grounds": "ritual result",
+     "morph": "3.sg.optative-causative √nī"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "assured outcome",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What condition is induced in a woman to ensure she is brought by the rite?",
+   "premises": [
+    "The woman is afflicted by the fever of desire",
+    "The ritual brings her",
+    "The result is certain"
+   ],
+   "inference": "The rite certainly brings a woman afflicted by the fever of desire.",
+   "uncertainties": [],
+   "plain_english": "One should certainly bring a woman tormented by the fever of love."
+  },
+  {
+   "verse": 6894,
+   "rows": [
+    {
+     "surface": "dhanamānakulaiḥ",
+     "gloss": "with-wealth-honor-family",
+     "grounds": "endowed with wealth, honor, and family",
+     "morph": "n.inst.pl, compound dhana+māna+kula"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "continually",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣprāpyām",
+     "gloss": "hard-to-obtain",
+     "grounds": "difficult to attain",
+     "morph": "f.acc.sg, compound dus+prāpya"
+    },
+    {
+     "surface": "ānayet",
+     "gloss": "one-should-bring",
+     "grounds": "ritual result",
+     "morph": "3.sg.optative-causative √nī"
+    },
+    {
+     "surface": "vadhūm",
+     "gloss": "woman",
+     "grounds": "bride or woman",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What kind of otherwise unattainable woman can the ritual bring?",
+   "premises": [
+    "The woman is endowed with wealth, honor, and family",
+    "She is normally hard to obtain",
+    "The ritual can bring her"
+   ],
+   "inference": "The ritual can bring a woman of wealth, honor, and family who is otherwise hard to obtain.",
+   "uncertainties": [],
+   "plain_english": "One should always bring a woman endowed with wealth, honor, and family, who is hard to obtain."
+  },
+  {
+   "verse": 6895,
+   "rows": [
+    {
+     "surface": "homāt",
+     "gloss": "from-oblation",
+     "grounds": "as a result of fire offering",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śālīn",
+     "gloss": "rice",
+     "grounds": "rice grains",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-should-obtain",
+     "grounds": "ritual gain",
+     "morph": "3.sg.optative-active √āp with ava"
+    }
+   ],
+   "question": "What material gain is obtained through performing the oblation?",
+   "premises": [
+    "An oblation is performed",
+    "Rice is obtained as a result",
+    "The gain follows from the oblation"
+   ],
+   "inference": "By performing the oblation, one obtains rice.",
+   "uncertainties": [],
+   "plain_english": "From the oblation, one should obtain rice."
+  },
+  {
+   "verse": 6896,
+   "rows": [
+    {
+     "surface": "jaṃghābhyām",
+     "gloss": "from-shanks",
+     "grounds": "lower legs",
+     "morph": "f.abl.dual"
+    },
+    {
+     "surface": "jānubhyām",
+     "gloss": "from-knees",
+     "grounds": "knees",
+     "morph": "n.abl.dual"
+    },
+    {
+     "surface": "ūruyugmataḥ",
+     "gloss": "from-thigh-pair",
+     "grounds": "pair of thighs",
+     "morph": "n.abl.sg, compound ūru+yugma"
+    }
+   ],
+   "question": "Which parts of the body are specified as locations in this ritual instruction?",
+   "premises": [
+    "The shanks are mentioned",
+    "The knees are mentioned",
+    "The pair of thighs is mentioned"
+   ],
+   "inference": "The ritual instruction refers to the shanks, knees, and thighs.",
+   "uncertainties": [
+    "The action performed in relation to these body parts is not stated in this verse"
+   ],
+   "plain_english": "From the shanks, from the knees, and from the pair of thighs."
+  },
+  {
+   "verse": 6897,
+   "rows": [
+    {
+     "surface": "homāt",
+     "gloss": "from-oblation",
+     "grounds": "as a result of fire offering",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "naranārīnarādhipāḥ",
+     "gloss": "men-women-kings",
+     "grounds": "men, women, and rulers",
+     "morph": "m.nom.pl, compound nara+nārī+narādhipa"
+    }
+   ],
+   "question": "Who may come under influence as a result of the oblation?",
+   "premises": [
+    "The effect arises from oblation",
+    "Men are included",
+    "Women and kings are included"
+   ],
+   "inference": "Through the oblation, men, women, and kings may be influenced.",
+   "uncertainties": [
+    "The specific effect on them is implied from surrounding verses"
+   ],
+   "plain_english": "From the oblation, men, women, and kings."
+  },
+  {
+   "verse": 6898,
+   "rows": [
+    {
+     "surface": "maricaiḥ",
+     "gloss": "with-peppers",
+     "grounds": "pepper grains",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "jīrakaiḥ",
+     "gloss": "with-cumins",
+     "grounds": "cumin seeds",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "yutām",
+     "gloss": "mixed",
+     "grounds": "combined together",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What substances are combined for use in the associated ritual act?",
+   "premises": [
+    "Peppers are used",
+    "Cumins are used",
+    "They are mixed together"
+   ],
+   "inference": "Peppers and cumins are mixed together for the ritual act.",
+   "uncertainties": [
+    "The object mixed with them is not specified in this verse"
+   ],
+   "plain_english": "Mixed with peppers and cumins."
+  },
+  {
+   "verse": 6899,
+   "rows": [
+    {
+     "surface": "spṛśan",
+     "gloss": "touching",
+     "grounds": "making contact",
+     "morph": "m.nom.sg, present-participle-active √spṛś"
+    },
+    {
+     "surface": "nijakarāgreṇa",
+     "gloss": "with-own-finger-tip",
+     "grounds": "tip of one's own hand or finger",
+     "morph": "n.inst.sg, compound nija+kara+agra"
+    },
+    {
+     "surface": "sahasram",
+     "gloss": "thousand",
+     "grounds": "count of repetitions",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-recite",
+     "grounds": "mantra recitation injunction",
+     "morph": "3.sg.optative-active √jap with pra"
+    },
+    {
+     "surface": "manum",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the mantra be recited while performing the touching action?",
+   "premises": [
+    "The practitioner touches with the tip of their own hand",
+    "The mantra is to be recited",
+    "The recitation is performed a thousand times"
+   ],
+   "inference": "While touching with one's own fingertip, one should recite the mantra a thousand times.",
+   "uncertainties": [
+    "The object being touched is not specified in this verse"
+   ],
+   "plain_english": "Touching with the tip of one's own hand, one should recite the mantra a thousand times."
+  }
+ ]
+}

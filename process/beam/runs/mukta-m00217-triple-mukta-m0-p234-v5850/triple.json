@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p234",
+ "items": [
+  {
+   "verse": 5850,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.act.opt + √kṛ"
+    },
+    {
+     "surface": "āvāhanaṃ",
+     "gloss": "invocation",
+     "grounds": "act of calling or summoning the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-holder",
+     "grounds": "initiated practitioner qualified by mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratimādau",
+     "gloss": "in-image-etc",
+     "grounds": "compound indicating an image and similar supports",
+     "morph": "compound: pratimā+ādi, n.loc.sg"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "in-auspicious",
+     "grounds": "qualifies the locus as favorable for ritual",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indicates manner or continuation of prescribed procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what auspicious support must the mantra-holder perform the ritual invocation?",
+   "premises": [
+    "The mantra-holder is the prescribed ritual agent.",
+    "Invocation is the action to be performed.",
+    "An auspicious image or similar support serves as the locus."
+   ],
+   "inference": "Therefore, the mantra-holder should perform the invocation in an auspicious image or similar support.",
+   "uncertainties": [
+    "The specific range of supports included by 'ādi' in pratimādau is not specified."
+   ],
+   "plain_english": "The mantra-holder should likewise perform the invocation in an auspicious image or similar support."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1425,
+   "rows": [
+    {
+     "surface": "paryaṅkopari",
+     "gloss": "upon-couch",
+     "grounds": "compound of couch and upon; locative sense in context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "feminine accusative singular demonstrative pronoun referring to the maiden",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kanyāṃ",
+     "gloss": "maiden",
+     "grounds": "accusative object of placement and anointing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "candanena",
+     "gloss": "with-sandalwood",
+     "grounds": "instrumental of sandalwood paste",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vilepitām",
+     "gloss": "anointed",
+     "grounds": "past participle agreeing with the maiden; anointed with sandalwood",
+     "morph": "f.acc.sg.participle"
+    }
+   ],
+   "question": "How is the maiden prepared and positioned for the rite?",
+   "premises": [
+    "maiden is anointed with sandalwood",
+    "maiden is placed upon couch",
+    "ritual preparation precedes union"
+   ],
+   "inference": "the verse prescribes anointing and couch placement",
+   "uncertainties": [
+    "exact ritual sequence beyond context"
+   ],
+   "plain_english": "The maiden, anointed with sandalwood, is placed upon the couch."
+  }
+ ]
+}

@@ -1,0 +1,1014 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "āsane",
+     "gloss": "seat",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃviśet",
+     "gloss": "sit-down",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "after",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīrāsanena",
+     "gloss": "hero-posture",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which posture should the practitioner take after sitting down?",
+   "premises": [
+    "practitioner sits down",
+    "hero posture follows",
+    "seat is specified"
+   ],
+   "inference": "The practitioner should sit in hero posture after taking the seat.",
+   "uncertainties": [
+    "exact ritual context"
+   ],
+   "plain_english": "After sitting down, the practitioner should sit in hero posture."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "kuryādṛjuvapurgrīvaḥ",
+     "gloss": "do-straight-body-neck",
+     "grounds": "fused compound verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "śarīraṃ",
+     "gloss": "body",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṛjuvaccaret",
+     "gloss": "straightly-move",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should the practitioner hold body and neck during worship?",
+   "premises": [
+    "body is made straight",
+    "neck is made straight",
+    "movement stays straight"
+   ],
+   "inference": "The practitioner should keep body and neck straight and move straightly.",
+   "uncertainties": [
+    "fused form parsing"
+   ],
+   "plain_english": "Keep the body and neck straight and move straightly."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "kāmākhyādiṅmukhaḥ",
+     "gloss": "kamakhya-direction-facing",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "susthaḥ",
+     "gloss": "comfortable",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "prāṅmukho",
+     "gloss": "east-facing",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "In which directions may the practitioner face while worshipping comfortably?",
+   "premises": [
+    "kamakhya direction is allowed",
+    "east direction is allowed",
+    "comfort is required"
+   ],
+   "inference": "The practitioner may face Kamakhya direction or east while worshipping comfortably.",
+   "uncertainties": [
+    "exact directional rule"
+   ],
+   "plain_english": "Facing Kamakhya direction or east, the comfortable practitioner should worship."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "dative pronoun",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "kathito",
+     "gloss": "told",
+     "grounds": "participle",
+     "morph": "part.nom.sg.m"
+    },
+    {
+     "surface": "hyatra",
+     "gloss": "indeed-here",
+     "grounds": "fused indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āsanavidhiḥ",
+     "gloss": "seat-rite",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjane",
+     "gloss": "in-worship",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What has just been explained about seat rite in worship?",
+   "premises": [
+    "seat rite is told",
+    "it is told here",
+    "worship is context"
+   ],
+   "inference": "The seat rite in worship has been explained here.",
+   "uncertainties": [
+    "scope of rite"
+   ],
+   "plain_english": "Thus the seat rite in worship has been told to you here."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "stasya",
+     "gloss": "of-him",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "śrīḥ",
+     "gloss": "beauty",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "netrapadme",
+     "gloss": "eye-lotus",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vilasati",
+     "gloss": "shines",
+     "grounds": "present verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaktra",
+     "gloss": "face",
+     "grounds": "compound noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "candre",
+     "gloss": "moon",
+     "grounds": "locative noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāṇī",
+     "gloss": "speech",
+     "grounds": "nominative noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where do beauty and speech shine for the practitioner?",
+   "premises": [
+    "beauty shines in eye-lotus",
+    "speech shines in face-moon",
+    "both are constant"
+   ],
+   "inference": "Beauty shines in the eye-lotus and speech in the face-moon.",
+   "uncertainties": [
+    "metaphorical reading"
+   ],
+   "plain_english": "His beauty shines always in the eye-lotus, and speech in the face-moon."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "devatāgurubhaktābhiḥ",
+     "gloss": "deity-guru-devotees",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sañcitaṃ",
+     "gloss": "gathered",
+     "grounds": "participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "yāgabhūmiṣu",
+     "gloss": "sacrifice-ground",
+     "grounds": "locative plural",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Where is the gathered material placed by devotees?",
+   "premises": [
+    "devotees gather material",
+    "sacrifice grounds are named",
+    "placement is implied"
+   ],
+   "inference": "Gathered material is associated with sacrifice grounds and devotees.",
+   "uncertainties": [
+    "exact action"
+   ],
+   "plain_english": "Gathered by devotees of deity and guru, it is for sacrifice grounds."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "karpūrāgurudhūpādivāsitaṃ",
+     "gloss": "camphor-aloes-incense-scented",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "paṭavāsitam",
+     "gloss": "cloth-scented",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What scented materials are used for the cloth?",
+   "premises": [
+    "camphor is included",
+    "aloes is included",
+    "incense is included"
+   ],
+   "inference": "The cloth is scented with camphor, aloes, incense, and similar substances.",
+   "uncertainties": [
+    "full list"
+   ],
+   "plain_english": "The cloth is scented with camphor, aloes, incense, and the like."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "sarvālaṅkārabhūṣābhirbhūṣitaḥ",
+     "gloss": "all-ornaments-adorned",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "compound noun",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "How is the best practitioner described?",
+   "premises": [
+    "all ornaments adorn him",
+    "he is best practitioner",
+    "adornment is complete"
+   ],
+   "inference": "The best practitioner is adorned with all ornaments.",
+   "uncertainties": [
+    "ritual status"
+   ],
+   "plain_english": "The best practitioner is adorned with all ornaments."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "everything",
+     "grounds": "nominative/accusative pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "svadakṣiṇe",
+     "gloss": "own-right-side",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "placed",
+     "grounds": "gerund",
+     "morph": "ger"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "kumbhaṃ",
+     "gloss": "pot",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niveśayet",
+     "gloss": "set",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should everything and the pot be placed?",
+   "premises": [
+    "everything is placed on right",
+    "pot is set on left",
+    "placement is prescribed"
+   ],
+   "inference": "Everything should be placed on the right and the pot on the left.",
+   "uncertainties": [
+    "exact ritual arrangement"
+   ],
+   "plain_english": "Place everything on the right and set the pot on the left."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "offering",
+     "grounds": "nominative/accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "right",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "left",
+     "grounds": "locative adjective",
+     "morph": "adj.loc.sg"
+    },
+    {
+     "surface": "purato",
+     "gloss": "front",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhataḥ",
+     "gloss": "behind",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the offering be placed?",
+   "premises": [
+    "right is allowed",
+    "left is allowed",
+    "front is allowed",
+    "behind is forbidden"
+   ],
+   "inference": "The offering may be placed on the right, left, or front, but not behind.",
+   "uncertainties": [
+    "exact placement"
+   ],
+   "plain_english": "The offering may be on the right, left, or front, not behind."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇato",
+     "gloss": "right-side",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "purato",
+     "gloss": "front",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmataḥ",
+     "gloss": "left",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the lamp be placed?",
+   "premises": [
+    "right side is allowed",
+    "front is allowed",
+    "left is forbidden"
+   ],
+   "inference": "The lamp may be placed on the right side or front, not on the left.",
+   "uncertainties": [
+    "exact placement"
+   ],
+   "plain_english": "Place the lamp on the right side or front, not on the left."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "nivedayet",
+     "gloss": "offer",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "purobhāge",
+     "gloss": "front-part",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "gandhapuṣpādibhūṣaṇam",
+     "gloss": "sandal-flower-etc-ornament",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should sandal, flowers, and ornaments be offered?",
+   "premises": [
+    "offering is commanded",
+    "front part is specified",
+    "sandal and flowers are included"
+   ],
+   "inference": "Sandal, flowers, and ornaments should be offered in the front part.",
+   "uncertainties": [
+    "exact scope"
+   ],
+   "plain_english": "Offer sandal, flowers, and ornaments in the front part."
+  },
+  {
+   "verse": 188,
+   "rows": [
+    {
+     "surface": "aṅgasaṃspṛṣṭam",
+     "gloss": "body-touched",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "āghrātaṃ",
+     "gloss": "smelled",
+     "grounds": "participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "abandon",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which flowers should the wise practitioner abandon?",
+   "premises": [
+    "body-touched flowers are abandoned",
+    "smelled flowers are abandoned",
+    "wise practitioner is addressed"
+   ],
+   "inference": "The wise practitioner should always abandon flowers touched by the body or smelled.",
+   "uncertainties": [
+    "ritual purity rule"
+   ],
+   "plain_english": "The wise practitioner should always abandon flowers touched by the body or smelled."
+  },
+  {
+   "verse": 189,
+   "rows": [
+    {
+     "surface": "raktamarghyaṃ",
+     "gloss": "red-arghya",
+     "grounds": "compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śvetadūrvāṃ",
+     "gloss": "white-durva",
+     "grounds": "compound noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nīlakaṇṭhaṃ",
+     "gloss": "blue-throated",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kuruṇṭakam",
+     "gloss": "kuruṇṭaka",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which colored offerings and plants are named for worship?",
+   "premises": [
+    "red arghya is named",
+    "white durva is named",
+    "blue-throated kuruṇṭaka is named"
+   ],
+   "inference": "Red arghya, white durva, and blue-throated kuruṇṭaka are named for worship.",
+   "uncertainties": [
+    "exact use"
+   ],
+   "plain_english": "Use red arghya, white durva, and blue-throated kuruṇṭaka."
+  },
+  {
+   "verse": 190,
+   "rows": [
+    {
+     "surface": "sugandhiśvetalauhityakusumairarcayet",
+     "gloss": "fragrant-white-red-flowers",
+     "grounds": "fused compound verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "kuśa-grass",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "With what flowers and grass should one worship?",
+   "premises": [
+    "fragrant flowers are used",
+    "white and red flowers are used",
+    "kuśa grass is used"
+   ],
+   "inference": "One should worship with fragrant white and red flowers and kuśa grass.",
+   "uncertainties": [
+    "fused form"
+   ],
+   "plain_english": "Worship with fragrant white and red flowers and kuśa grass."
+  },
+  {
+   "verse": 191,
+   "rows": [
+    {
+     "surface": "patraiḥ",
+     "gloss": "leaves",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cārcayed",
+     "gloss": "worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "accusative noun",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vilvapatravivarjitaiḥ",
+     "gloss": "bilva-leaf-except",
+     "grounds": "compound adjective",
+     "morph": "adj.inst.pl"
+    }
+   ],
+   "question": "Which leaves should not be used to worship the goddess?",
+   "premises": [
+    "leaves are mentioned",
+    "goddess is worshipped",
+    "bilva-leaf-except leaves are excluded"
+   ],
+   "inference": "Leaves other than bilva leaves should not be used to worship the goddess.",
+   "uncertainties": [
+    "exact exclusion"
+   ],
+   "plain_english": "Do not worship the goddess with leaves except bilva leaves."
+  },
+  {
+   "verse": 192,
+   "rows": [
+    {
+     "surface": "javābandhūkamandāraiḥ",
+     "gloss": "java-bandhuka-mandara",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sindūraiśca",
+     "gloss": "vermilion",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mahotpalaiḥ",
+     "gloss": "great-lotus",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which flowers and substances are named for worship?",
+   "premises": [
+    "java flowers are named",
+    "bandhuka and mandara are named",
+    "vermilion and great lotus are named"
+   ],
+   "inference": "Java, bandhuka, mandara, vermilion, and great lotus are named for worship.",
+   "uncertainties": [
+    "exact use"
+   ],
+   "plain_english": "Use java, bandhuka, mandara, vermilion, and great lotus."
+  },
+  {
+   "verse": 193,
+   "rows": [
+    {
+     "surface": "nandyāvarttaṃ",
+     "gloss": "nandyavarta",
+     "grounds": "accusative noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tilapatraṃ",
+     "gloss": "sesame-leaf",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "keśarapatrakam",
+     "gloss": "kesara-leaf",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which leaves and patterns are named for worship?",
+   "premises": [
+    "nandyavarta is named",
+    "sesame leaf is named",
+    "kesara leaf is named"
+   ],
+   "inference": "Nandyavarta, sesame leaf, and kesara leaf are named for worship.",
+   "uncertainties": [
+    "exact use"
+   ],
+   "plain_english": "Use nandyavarta, sesame leaf, and kesara leaf."
+  },
+  {
+   "verse": 194,
+   "rows": [
+    {
+     "surface": "nānopahārabalibhirnānāpuṣpaimanoharaiḥ",
+     "gloss": "various-offerings-oblations",
+     "grounds": "fused compound instrumental",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What kinds of offerings and flowers are used?",
+   "premises": [
+    "various offerings are used",
+    "oblations are used",
+    "various pleasing flowers are used"
+   ],
+   "inference": "Various offerings, oblations, and pleasing flowers are used.",
+   "uncertainties": [
+    "fused form"
+   ],
+   "plain_english": "Use various offerings, oblations, and pleasing flowers."
+  },
+  {
+   "verse": 195,
+   "rows": [
+    {
+     "surface": "kulapuṣpeṇa",
+     "gloss": "clan-flower",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "dhūpena",
+     "gloss": "incense",
+     "grounds": "instrumental noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kuladīpena",
+     "gloss": "clan-lamp",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "accusative pronoun",
+     "morph": "pron.acc.sg.f"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "nominative noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "With what should the wise practitioner worship her?",
+   "premises": [
+    "clan flower is used",
+    "incense is used",
+    "clan lamp is used"
+   ],
+   "inference": "The wise practitioner should worship her with clan flower, incense, and clan lamp.",
+   "uncertainties": [
+    "clan meaning"
+   ],
+   "plain_english": "The wise one should worship her with clan flower, incense, and clan lamp."
+  },
+  {
+   "verse": 196,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "give",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "mālatīpuṣpaṃ",
+     "gloss": "jasmine-flower",
+     "grounds": "accusative compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tārākālīprapūjakaḥ",
+     "gloss": "tara-kali-worshipper",
+     "grounds": "compound nominative",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which flower should a Tara-Kali worshipper not give?",
+   "premises": [
+    "jasmine flower is named",
+    "giving is forbidden",
+    "Tara-Kali worshipper is addressed"
+   ],
+   "inference": "A Tara-Kali worshipper should not give jasmine flower.",
+   "uncertainties": [
+    "ritual reason"
+   ],
+   "plain_english": "A Tara-Kali worshipper should not give jasmine flower."
+  },
+  {
+   "verse": 197,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paryuṣitadoṣo'sti",
+     "gloss": "stale-fault",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "jalajotpalacampake",
+     "gloss": "water-born-lotus-campaka",
+     "grounds": "locative compound",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Is there stale-fault for water-born lotus and campaka?",
+   "premises": [
+    "stale fault is denied",
+    "water-born lotus is named",
+    "campaka is named"
+   ],
+   "inference": "There is no stale-fault for water-born lotus and campaka.",
+   "uncertainties": [
+    "fused form"
+   ],
+   "plain_english": "There is no stale-fault for water-born lotus and campaka."
+  },
+  {
+   "verse": 198,
+   "rows": [
+    {
+     "surface": "nijadevasya",
+     "gloss": "own-deity",
+     "grounds": "genitive compound",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "nominative/accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pṛthakpātre",
+     "gloss": "separate-vessel",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nidhāpayet",
+     "gloss": "place",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "Where should one's own deity's flowers be placed?",
+   "premises": [
+    "own deity is named",
+    "flowers are named",
+    "separate vessel is named"
+   ],
+   "inference": "One should place one's own deity's flowers in a separate vessel.",
+   "uncertainties": [
+    "ritual arrangement"
+   ],
+   "plain_english": "Place your own deity's flowers in a separate vessel."
+  },
+  {
+   "verse": 199,
+   "rows": [
+    {
+     "surface": "naivedyādīni",
+     "gloss": "offerings-etc",
+     "grounds": "nominative/accusative plural",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "pronoun adjective",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānīhi",
+     "gloss": "know",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be known certainly about offerings and the rest?",
+   "premises": [
+    "all offerings are named",
+    "knowing is commanded",
+    "certainty is emphasized"
+   ],
+   "inference": "One should certainly know all offerings and the rest in this way.",
+   "uncertainties": [
+    "exact scope"
+   ],
+   "plain_english": "Know certainly all offerings and the rest in this way."
+  }
+ ]
+}

@@ -1,0 +1,1159 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 251,
+   "rows": [
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "object of eating",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "khādaya",
+     "gloss": "eat",
+     "grounds": "imperative command",
+     "morph": "2.sg.imp-act (√khād)"
+    },
+    {
+     "surface": "khādaya",
+     "gloss": "eat",
+     "grounds": "repeated imperative",
+     "morph": "2.sg.imp-act (√khād)"
+    },
+    {
+     "surface": "hrīṃ nama",
+     "gloss": "hrīṃ-obeisance",
+     "grounds": "bīja syllable with salutation",
+     "morph": "indecl.+indecl."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrataḥ",
+     "gloss": "by-mantra",
+     "grounds": "instrumental manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra formula must be recited while consuming meat in this rite?",
+   "premises": [
+    "Meat is the object consumed",
+    "The command to eat is repeated",
+    "The formula includes hrīṃ and obeisance"
+   ],
+   "inference": "The prescribed mantra is 'māṃsaṃ khādaya khādaya hrīṃ nama'.",
+   "uncertainties": [],
+   "plain_english": "Recite the mantra: 'Eat meat, eat meat, hrīṃ, obeisance.'"
+  },
+  {
+   "verse": 252,
+   "rows": [
+    {
+     "surface": "japet",
+     "gloss": "one-should-mutter",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-act (√jap)"
+    },
+    {
+     "surface": "ekādaśāhe",
+     "gloss": "for-eleven-days",
+     "grounds": "duration of practice",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rogaḥ",
+     "gloss": "disease",
+     "grounds": "affliction negated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.opt-act (√as)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What result follows from muttering the mantra for eleven days?",
+   "premises": [
+    "The mantra should be muttered for eleven days",
+    "Disease would not arise",
+    "There is no doubt in this matter"
+   ],
+   "inference": "Muttering for eleven days prevents disease without doubt.",
+   "uncertainties": [],
+   "plain_english": "One should mutter it for eleven days, and there will be no disease; of this there is no doubt."
+  },
+  {
+   "verse": 253,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "introduces new topic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyaprakāreṇa",
+     "gloss": "by-another-method",
+     "grounds": "different procedure",
+     "morph": "m.ins.sg (compound: anya+prakāra)"
+    },
+    {
+     "surface": "śatrukṣayam",
+     "gloss": "enemy-destruction",
+     "grounds": "goal of the rite",
+     "morph": "m.acc.sg (compound: śatru+kṣaya)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "vade",
+     "gloss": "shall-tell",
+     "grounds": "declaration of teaching",
+     "morph": "1.sg.pres-mid (√vad)"
+    }
+   ],
+   "question": "What alternative teaching about destroying enemies is the speaker about to declare?",
+   "premises": [
+    "The speaker introduces another method",
+    "The goal is destruction of enemies",
+    "The speaker declares intent to tell it"
+   ],
+   "inference": "The speaker will now explain another method for destroying enemies.",
+   "uncertainties": [],
+   "plain_english": "Now, or by another method, I shall tell of the destruction of enemies."
+  },
+  {
+   "verse": 254,
+   "rows": [
+    {
+     "surface": "viparītakrameṇa",
+     "gloss": "by-reverse-order",
+     "grounds": "manner of performance",
+     "morph": "m.ins.sg (compound: viparīta+krama)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japapūjādikaṃ",
+     "gloss": "muttering-worship-etc.",
+     "grounds": "ritual acts to perform",
+     "morph": "n.acc.sg (compound: japa+pūjā+ādi)"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-act (√car)"
+    }
+   ],
+   "question": "How must muttering, worship, and related acts be performed in this alternative method?",
+   "premises": [
+    "Muttering, worship, and other acts are required",
+    "They must be done in reverse order",
+    "The instruction is prescriptive"
+   ],
+   "inference": "One should perform muttering, worship, and so forth in reverse order.",
+   "uncertainties": [],
+   "plain_english": "One should indeed perform muttering, worship, and the rest in reverse order."
+  },
+  {
+   "verse": 255,
+   "rows": [
+    {
+     "surface": "śivāya nama",
+     "gloss": "to-Śiva-obeisance",
+     "grounds": "mantra formula",
+     "morph": "m.dat.sg+indecl."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrument of rite",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "gaṭhanañ",
+     "gloss": "binding",
+     "grounds": "ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-act (sam+ā+√car)"
+    }
+   ],
+   "question": "Which mantra and ritual act must be performed for binding in this procedure?",
+   "premises": [
+    "The mantra is 'śivāya nama'",
+    "Binding is the act to be done",
+    "The act should be performed with that mantra"
+   ],
+   "inference": "One should perform the binding using the mantra 'śivāya nama'.",
+   "uncertainties": [
+    "gaṭhanañ: exact ritual binding action not specified"
+   ],
+   "plain_english": "With the mantra 'Obeisance to Śiva,' one should also perform the binding."
+  },
+  {
+   "verse": 256,
+   "rows": [
+    {
+     "surface": "śatrupratikṛtiṃ",
+     "gloss": "enemy-image",
+     "grounds": "effigy of the enemy",
+     "morph": "f.acc.sg (compound: śatru+pratikṛti)"
+    },
+    {
+     "surface": "likhya",
+     "gloss": "having-drawn",
+     "grounds": "prior action",
+     "morph": "gerund (√likh)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of installation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpayet",
+     "gloss": "one-should-install",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-caus-act (sam+sthā)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "Śiva",
+     "grounds": "deity to be installed",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What must be drawn and installed to target the enemy in this rite?",
+   "premises": [
+    "An image of the enemy must be drawn",
+    "Śiva must be installed there",
+    "Installation is prescribed after drawing"
+   ],
+   "inference": "After drawing the enemy's image, one should install Śiva there.",
+   "uncertainties": [],
+   "plain_english": "Having drawn an image of the enemy, one should install Śiva there."
+  },
+  {
+   "verse": 257,
+   "rows": [
+    {
+     "surface": "śatrorvakṣaḥsthitaṃ",
+     "gloss": "on-enemy’s-chest-situated",
+     "grounds": "placement of the deity",
+     "morph": "m.acc.sg (compound: śatru+vakṣas+sthita)"
+    },
+    {
+     "surface": "rudraṃ",
+     "gloss": "Rudra",
+     "grounds": "form of Śiva",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jvaladagnisamaprabham",
+     "gloss": "blazing-fire-equal-splendor",
+     "grounds": "radiant appearance",
+     "morph": "m.acc.sg (compound: jvalat+agni+sama+prabhā)"
+    }
+   ],
+   "question": "How is Rudra visualized upon the enemy's chest in this installation?",
+   "premises": [
+    "Rudra is situated on the enemy's chest",
+    "Rudra is the installed form",
+    "His splendor equals blazing fire"
+   ],
+   "inference": "Rudra should be visualized on the enemy's chest with splendor equal to blazing fire.",
+   "uncertainties": [],
+   "plain_english": "Visualize Rudra situated on the enemy's chest, with splendor equal to blazing fire."
+  },
+  {
+   "verse": 258,
+   "rows": [
+    {
+     "surface": "naracarmāmbaraṃ",
+     "gloss": "human-skin-garment",
+     "grounds": "attire of the deity",
+     "morph": "m.acc.sg (compound: nara+carman+ambara)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahāvyālādiveṣṭitam",
+     "gloss": "great-serpents-etc.-encircled",
+     "grounds": "surrounding adornment",
+     "morph": "m.acc.sg (compound: mahā+vyāla+ādi+veṣṭita)"
+    }
+   ],
+   "question": "What attire and encirclement characterize the deity in this visualization?",
+   "premises": [
+    "The god wears human skin as a garment",
+    "The god is encircled by great serpents and others",
+    "These are attributes of the visualized form"
+   ],
+   "inference": "The deity is visualized wearing human skin and encircled by great serpents and the like.",
+   "uncertainties": [],
+   "plain_english": "Visualize the god clothed in human skin and encircled by great serpents and the like."
+  },
+  {
+   "verse": 259,
+   "rows": [
+    {
+     "surface": "śūlapāṇaye nama",
+     "gloss": "to-trident-hand-obeisance",
+     "grounds": "mantra for bathing",
+     "morph": "m.dat.sg+indecl. (compound: śūla+pāṇi)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snāpayet",
+     "gloss": "one-should-bathe",
+     "grounds": "ritual bathing action",
+     "morph": "3.sg.opt-caus-act (√snā)"
+    },
+    {
+     "surface": "sādhakottamaḥ",
+     "gloss": "best-practitioner",
+     "grounds": "agent of the rite",
+     "morph": "m.nom.sg (compound: sādhaka+uttama)"
+    }
+   ],
+   "question": "What mantra must the best practitioner use to bathe the deity?",
+   "premises": [
+    "The mantra is 'śūlapāṇaye nama'",
+    "The act is ritual bathing",
+    "The best practitioner performs it"
+   ],
+   "inference": "The best practitioner should bathe the deity with the mantra 'śūlapāṇaye nama'.",
+   "uncertainties": [],
+   "plain_english": "The best practitioner should bathe him with the mantra 'Obeisance to the trident-bearer.'"
+  },
+  {
+   "verse": 260,
+   "rows": [
+    {
+     "surface": "agnikoṇādiparyantaṃ",
+     "gloss": "from-fire-corner-up-to",
+     "grounds": "directional range",
+     "morph": "n.acc.sg (compound: agni+koṇa+ādi+paryanta)"
+    },
+    {
+     "surface": "sūryarītyā",
+     "gloss": "by-sun-course",
+     "grounds": "manner of movement",
+     "morph": "f.ins.sg (compound: sūrya+rīti)"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What directional course must be followed during the rite, O great goddess?",
+   "premises": [
+    "The range begins from the fire corner",
+    "The movement follows the sun's course",
+    "The goddess is addressed"
+   ],
+   "inference": "The rite proceeds from the fire corner onward following the course of the sun.",
+   "uncertainties": [
+    "exact endpoint implied by paryantaṃ not specified"
+   ],
+   "plain_english": "O great goddess, proceed from the fire corner onward, following the course of the sun."
+  },
+  {
+   "verse": 261,
+   "rows": [
+    {
+     "surface": "hu/",
+     "gloss": "hu/",
+     "grounds": "mantric syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣamaya",
+     "gloss": "forgive",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp-caus-act (√kṣam)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmena",
+     "gloss": "with-left",
+     "grounds": "hand used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kareṇa",
+     "gloss": "with-hand",
+     "grounds": "instrument of dismissal",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-dismiss",
+     "grounds": "ritual dismissal",
+     "morph": "3.sg.opt-caus-act (vi+√sṛj)"
+    }
+   ],
+   "question": "How and with what formula must the deity be dismissed at the rite's end?",
+   "premises": [
+    "The formula includes 'hu/' and 'kṣamaya'",
+    "Dismissal is done with the left hand",
+    "The practitioner should dismiss the deity"
+   ],
+   "inference": "One should dismiss the deity with the left hand using the formula 'hu/ kṣamaya'.",
+   "uncertainties": [
+    "hu/: bīja syllable, transliterated as given"
+   ],
+   "plain_english": "With the formula 'hu/, forgive,' one should dismiss him with the left hand."
+  },
+  {
+   "verse": 262,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "subject of condition",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "śivaḥ nama",
+     "gloss": "to-Śiva-obeisance",
+     "grounds": "mantra formula",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks quoted mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "single repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-mutter",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-act (√jap)"
+    }
+   ],
+   "question": "What minimal recitation of the Śiva-obeisance formula is prescribed for a practitioner?",
+   "premises": [
+    "The formula is 'śivaḥ nama'",
+    "It may be muttered even once",
+    "The instruction applies to whoever does so"
+   ],
+   "inference": "Whoever mutters 'śivaḥ nama' even once fulfills this recitation.",
+   "uncertainties": [],
+   "plain_english": "Whoever also mutters 'Obeisance to Śiva' even once..."
+  },
+  {
+   "verse": 263,
+   "rows": [
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "certainly",
+     "grounds": "necessity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "it-happens",
+     "grounds": "result occurs",
+     "morph": "3.sg.pres-mid (√jan)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated affirmation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trilocane",
+     "gloss": "O-three-eyed-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg (compound: tri+locana)"
+    }
+   ],
+   "question": "What certainty is affirmed to the goddess regarding the result of that recitation?",
+   "premises": [
+    "The result certainly happens",
+    "The speaker affirms it as truth twice",
+    "The goddess is addressed directly"
+   ],
+   "inference": "The promised result certainly occurs; this is affirmed as truth.",
+   "uncertainties": [],
+   "plain_english": "It certainly happens, O goddess; it is truth, truth, O three-eyed one."
+  },
+  {
+   "verse": 264,
+   "rows": [
+    {
+     "surface": "kumbhakārasya",
+     "gloss": "of-potter",
+     "grounds": "source location owner",
+     "morph": "m.gen.sg (compound: kumbha+kāra)"
+    },
+    {
+     "surface": "bhavanāt",
+     "gloss": "from-house",
+     "grounds": "place of origin",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ānayet",
+     "gloss": "one-should-bring",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-caus-act (ā+√nī)"
+    },
+    {
+     "surface": "piṭhare",
+     "gloss": "in-pot",
+     "grounds": "container",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jalam",
+     "gloss": "water",
+     "grounds": "substance to bring",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śūlam",
+     "gloss": "trident",
+     "grounds": "object to bring",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What materials must be brought from the potter's house for the next rite?",
+   "premises": [
+    "Water in a pot must be brought",
+    "A trident must be brought",
+    "Both come from the potter's house"
+   ],
+   "inference": "One should bring water in a pot and a trident from the potter's house.",
+   "uncertainties": [
+    "śūlam: could refer to a pointed implement; glossed as trident per hint"
+   ],
+   "plain_english": "One should bring water in a pot and a trident from the potter's house."
+  },
+  {
+   "verse": 265,
+   "rows": [
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "prior action",
+     "morph": "gerund (ā+√nī)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūkhāmadhyād",
+     "gloss": "from-hearth-middle",
+     "grounds": "source of ashes",
+     "morph": "n.abl.sg (compound: ūkhā+madhya)"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "ashes",
+     "grounds": "material to collect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paryuṣitaṃ",
+     "gloss": "stale",
+     "grounds": "condition of ashes",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional material must be collected from the hearth for the ritual?",
+   "premises": [
+    "Ashes must be brought",
+    "They come from the middle of the hearth",
+    "The ashes are stale"
+   ],
+   "inference": "One should also bring stale ashes from the middle of the hearth.",
+   "uncertainties": [],
+   "plain_english": "Having brought them, one should likewise bring stale ashes from the middle of the hearth."
+  },
+  {
+   "verse": 266,
+   "rows": [
+    {
+     "surface": "bhasmopari",
+     "gloss": "upon-ashes",
+     "grounds": "placement location",
+     "morph": "(indecl.) (compound: bhasman+upari)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "gerund (sam+sthā)"
+    },
+    {
+     "surface": "vāṭikāyāḥ",
+     "gloss": "of-garden",
+     "grounds": "location context",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "sureśvari",
+     "gloss": "O-lady-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg (compound: sura+īśvarī)"
+    }
+   ],
+   "question": "Where must items be placed upon the ashes in the garden rite?",
+   "premises": [
+    "Placement is upon the ashes",
+    "The context is a garden",
+    "The goddess is addressed"
+   ],
+   "inference": "Items should be placed upon the ashes in the garden.",
+   "uncertainties": [
+    "object placed upon ashes not explicitly named in this verse"
+   ],
+   "plain_english": "And having placed it upon the ashes in the garden, O lady of the gods..."
+  },
+  {
+   "verse": 267,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "repetition or next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyāhnakāle",
+     "gloss": "at-midday-time",
+     "grounds": "time of action",
+     "morph": "m.loc.sg (compound: madhyāhna+kāla)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirjane",
+     "gloss": "in-solitude",
+     "grounds": "place condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sati",
+     "gloss": "being",
+     "grounds": "locative condition",
+     "morph": "n.loc.sg.pres-part (√as)"
+    },
+    {
+     "surface": "bhāvini",
+     "gloss": "O-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Under what time and place conditions must the next ritual action occur?",
+   "premises": [
+    "The action occurs at midday",
+    "The place must be solitary",
+    "The beautiful one is addressed"
+   ],
+   "inference": "The next action must be performed again at midday in a solitary place.",
+   "uncertainties": [],
+   "plain_english": "Again, at midday, in a solitary place, O beautiful one..."
+  },
+  {
+   "verse": 268,
+   "rows": [
+    {
+     "surface": "tattāvatīm",
+     "gloss": "that-much",
+     "grounds": "extent of ground",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker/agent",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "bhūmiṃ",
+     "gloss": "ground",
+     "grounds": "area protected",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caurebhyo",
+     "gloss": "from-thieves",
+     "grounds": "threat source",
+     "morph": "m.abl.pl"
+    },
+    {
+     "surface": "rakṣayāmi",
+     "gloss": "I-protect",
+     "grounds": "protective action",
+     "morph": "1.sg.pres-act (√rakṣ)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What protective claim is made over a measured extent of ground against thieves?",
+   "premises": [
+    "A specific extent of ground is indicated",
+    "The speaker protects it from thieves",
+    "The protection is declared in present action"
+   ],
+   "inference": "The speaker protects that much ground from thieves.",
+   "uncertainties": [
+    "tattāvatīm: exact measure not specified"
+   ],
+   "plain_english": "I protect that much ground from thieves."
+  },
+  {
+   "verse": 269,
+   "rows": [
+    {
+     "surface": "tāvatīñ",
+     "gloss": "that-much",
+     "grounds": "extent of ground",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmiṃ",
+     "gloss": "ground",
+     "grounds": "area delimited",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vāmāvartena",
+     "gloss": "by-counter-clockwise-turn",
+     "grounds": "manner of delimiting",
+     "morph": "m.ins.sg (compound: vāma+āvarta)"
+    },
+    {
+     "surface": "bhāvini",
+     "gloss": "O-beautiful-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what directional movement must that extent of ground be ritually delimited?",
+   "premises": [
+    "The same extent of ground is involved",
+    "The delimiting is done by a counter-clockwise turn",
+    "The beautiful one is addressed"
+   ],
+   "inference": "That much ground must be delimited by a counter-clockwise movement.",
+   "uncertainties": [],
+   "plain_english": "Then, O beautiful one, delimit that much ground by a counter-clockwise turn."
+  },
+  {
+   "verse": 270,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirjane",
+     "gloss": "in-solitary",
+     "grounds": "place condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "garte",
+     "gloss": "in-pit",
+     "grounds": "specific spot",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śalākāṃ",
+     "gloss": "stake",
+     "grounds": "object to place",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "lauhanirmitām",
+     "gloss": "iron-made",
+     "grounds": "material of stake",
+     "morph": "f.acc.sg (compound: lauha+nirmita)"
+    }
+   ],
+   "question": "What object must be placed in a pit at that solitary location?",
+   "premises": [
+    "The location is a solitary pit there",
+    "A stake is to be placed",
+    "The stake is made of iron"
+   ],
+   "inference": "An iron stake must be placed in a pit in that solitary place.",
+   "uncertainties": [],
+   "plain_english": "There, in a solitary pit, place a stake made of iron."
+  },
+  {
+   "verse": 271,
+   "rows": [
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "gerund (sam+sthā)"
+    },
+    {
+     "surface": "mṛdbhiḥ",
+     "gloss": "with-earth",
+     "grounds": "material for filling",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "saṃpūrya",
+     "gloss": "having-filled",
+     "grounds": "prior action",
+     "morph": "gerund (sam+√pṛ)"
+    },
+    {
+     "surface": "tadgartaṃ",
+     "gloss": "that-pit",
+     "grounds": "object filled",
+     "morph": "m.acc.sg (compound: tad+garta)"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "to-house",
+     "grounds": "destination",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āvrajet",
+     "gloss": "one-should-go",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt-act (ā+√vraj)"
+    }
+   ],
+   "question": "What actions must follow placing the stake before returning home?",
+   "premises": [
+    "The stake is placed",
+    "The pit is filled with earth",
+    "One should then go home"
+   ],
+   "inference": "After placing the stake and filling the pit with earth, one should return home.",
+   "uncertainties": [],
+   "plain_english": "Having placed it and filled that pit with earth, one should return home."
+  },
+  {
+   "verse": 272,
+   "rows": [
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "yogavaro",
+     "gloss": "yoga-best",
+     "grounds": "excellence of practice",
+     "morph": "m.nom.sg (compound: yoga+vara)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "durlabho",
+     "gloss": "hard-to-obtain",
+     "grounds": "rarity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vasudhātale",
+     "gloss": "on-earth-surface",
+     "grounds": "location of rarity",
+     "morph": "n.loc.sg (compound: vasudhā+tala)"
+    }
+   ],
+   "question": "How rare and exalted is this yoga practice on the surface of the earth?",
+   "premises": [
+    "This is the best of yogas",
+    "It is hard to obtain",
+    "Its rarity is stated for the earth"
+   ],
+   "inference": "This supreme yoga is hard to obtain on earth.",
+   "uncertainties": [],
+   "plain_english": "This, O goddess, is the best of yogas, hard to obtain on the surface of the earth."
+  },
+  {
+   "verse": 273,
+   "rows": [
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "repeated time unit",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "day",
+     "grounds": "repeated time unit",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dharmavṛddhiḥ",
+     "gloss": "dharma-increase",
+     "grounds": "resulting growth",
+     "morph": "f.nom.sg (compound: dharma+vṛddhi)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "result occurs",
+     "morph": "3.sg.pres-mid (√jan)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this matter",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "absence of uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What cumulative spiritual benefit arises day by day from this practice?",
+   "premises": [
+    "Dharma increases day by day",
+    "This increase arises as a result",
+    "There is no doubt in this matter"
+   ],
+   "inference": "Dharma increases day by day without doubt.",
+   "uncertainties": [],
+   "plain_english": "Day by day dharma increases; of this there is no doubt."
+  },
+  {
+   "verse": 274,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "object of desire",
+     "morph": "pron.n.acc.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "śrotum",
+     "gloss": "to-hear",
+     "grounds": "purpose",
+     "morph": "infinitive (√śru)"
+    },
+    {
+     "surface": "icchāmi",
+     "gloss": "wish",
+     "grounds": "desire",
+     "morph": "1.sg.pres-act (√iṣ)"
+    },
+    {
+     "surface": "tada",
+     "gloss": "then",
+     "grounds": "request for response",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vadasva",
+     "gloss": "speak",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp-mid (√vad)"
+    },
+    {
+     "surface": "maheśvara",
+     "gloss": "O-great-lord",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What request does the speaker make to the great lord after hearing this teaching?",
+   "premises": [
+    "The speaker wishes to hear that",
+    "The speaker asks the great lord to speak",
+    "The request follows the preceding teaching"
+   ],
+   "inference": "The speaker asks the great lord to speak further on that matter.",
+   "uncertainties": [
+    "tat: referent of 'that' depends on preceding or following context"
+   ],
+   "plain_english": "I wish to hear that; therefore speak, O great lord."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2650,
+   "rows": [
+    {
+     "surface": "aṣṭādaśayavā",
+     "gloss": "eighteen-yavas",
+     "grounds": "bahuvrīhi compound indicating a measure of eighteen yavas",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past passive participle stating the prescribed measure",
+     "morph": "f.nom.sg.ppp (pra-√vac)"
+    },
+    {
+     "surface": "adharoṣṭhasya",
+     "gloss": "of-lower-lip",
+     "grounds": "genitive specifying the part whose length is measured",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "dīrghakam",
+     "gloss": "length",
+     "grounds": "substantive denoting the extent being prescribed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length in yavas is prescribed for the lower lip?",
+   "premises": [
+    "The lower lip is the subject of measurement.",
+    "A specific length is declared for it.",
+    "The declared measure is eighteen yavas."
+   ],
+   "inference": "The prescribed length of the lower lip is eighteen yavas.",
+   "uncertainties": [],
+   "plain_english": "The length of the lower lip is declared to be eighteen yavas."
+  }
+ ]
+}

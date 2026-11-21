@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "kukkuṭābhayavajrāṇi",
+     "gloss": "cock-fear-vajra",
+     "grounds": "compound of kukkuṭa, abhaya, and vajra; accusative plural neuter ending",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "dadhataṃ",
+     "gloss": "holding",
+     "grounds": "present participle of dhṛ in accusative masculine singular",
+     "morph": "part.acc.sg.m"
+    },
+    {
+     "surface": "varadaṃ",
+     "gloss": "boon-giver",
+     "grounds": "compound vara-da in accusative masculine singular",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "kare",
+     "gloss": "in-hand",
+     "grounds": "locative singular of kara",
+     "morph": "n.loc.sg.m"
+    }
+   ],
+   "question": "Which objects does the white deity hold in his hand?",
+   "premises": [
+    "The verse lists held objects.",
+    "The deity is white.",
+    "The hand holds them."
+   ],
+   "inference": "The white deity holds cock, fearlessness, vajra, and boon-giver in hand.",
+   "uncertainties": [
+    "Compound parsing of kukkuṭābhayavajrāṇi is uncertain.",
+    "Participle agreement of dadhataṃ is unclear."
+   ],
+   "plain_english": "He holds cock, fearlessness, vajra, and boon-giver in hand."
+  }
+ ]
+}

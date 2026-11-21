@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p228",
+ "items": [
+  {
+   "verse": 5700,
+   "rows": [
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "first member of compound qualifying mantras",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "para",
+     "gloss": "other",
+     "grounds": "second member of compound indicating others",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "unmukta",
+     "gloss": "released",
+     "grounds": "third member of compound describing discharged mantras",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "fourth member of compound specifying the object cut",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "chedini",
+     "gloss": "cutter",
+     "grounds": "feminine agent noun, epithet completing the compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "indeclinable marking sequential continuation in the nyāsa",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astrake",
+     "gloss": "on-weapon",
+     "grounds": "locative indicating placement on the weapon limb",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What epithet is assigned to the weapon limb in the sequential limb-nyāsa?",
+   "premises": [
+    "The preceding verses enumerate names for limbs in order.",
+    "The term atha signals the next item in the sequence.",
+    "The locative astrake specifies the weapon limb as the locus."
+   ],
+   "inference": "The epithet Sarva-para-unmukta-mantra-chedini is designated for placement on the weapon limb.",
+   "uncertainties": [
+    "Whether astrake refers to a distinct limb or the astranyāsa gesture is context-dependent."
+   ],
+   "plain_english": "Then, on the weapon, [place the name] Sarva-para-unmukta-mantra-chedini, the cutter of all other released mantras."
+  }
+ ]
+}

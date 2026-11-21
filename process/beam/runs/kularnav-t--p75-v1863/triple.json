@@ -1,0 +1,545 @@
+{
+ "song": "kul-p75",
+ "items": [
+  {
+   "verse": 1863,
+   "rows": [
+    {
+     "surface": "nāḍīdvayagate",
+     "gloss": "when-prana-goes-two-channels",
+     "grounds": "compound of nāḍī dvaya gate",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prāṇe",
+     "gloss": "prana",
+     "grounds": "locative of prāṇa",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bodhaṃ",
+     "gloss": "awakening",
+     "grounds": "accusative of bodha",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prayānti",
+     "gloss": "attain",
+     "grounds": "verb prayā",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens when prana enters the two channels?",
+   "premises": [
+    "prana moves through two channels",
+    "all mantras awaken",
+    "awakening is attained"
+   ],
+   "inference": "When prana enters the two channels, all mantras attain awakening.",
+   "uncertainties": [
+    "exact channel names not given"
+   ],
+   "plain_english": "When prana enters the two channels, all mantras attain awakening."
+  },
+  {
+   "verse": 1864,
+   "rows": [
+    {
+     "surface": "svāhāntāḥ",
+     "gloss": "ending-in-svaha",
+     "grounds": "compound svāhā antāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuvīyatprāyāścāgneyāḥ",
+     "gloss": "mostly-fiery",
+     "grounds": "fused sandhi form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "cāgneyāḥ",
+     "gloss": "and-fiery",
+     "grounds": "ca plus āgneyāḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "krūrakarmasu",
+     "gloss": "in-cruel-rites",
+     "grounds": "compound krūra karmasu",
+     "morph": "n.loc.pl"
+    }
+   ],
+   "question": "Which mantras are used in cruel rites?",
+   "premises": [
+    "svaha-ending mantras are fiery",
+    "fiery mantras suit cruel rites",
+    "cruel rites require fiery mantras"
+   ],
+   "inference": "Svaha-ending and fiery mantras are used in cruel rites.",
+   "uncertainties": [
+    "fused token parsing uncertain"
+   ],
+   "plain_english": "Svaha-ending and fiery mantras are used in cruel rites."
+  },
+  {
+   "verse": 1865,
+   "rows": [
+    {
+     "surface": "stambhane",
+     "gloss": "in-stilling",
+     "grounds": "locative of stambhana",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "homage",
+     "grounds": "indeclinable mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "is-declared",
+     "grounds": "past participle prokta",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "indeclinable mantra ending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāntikapauṣṭike",
+     "gloss": "in-peace-and-prosperity-rites",
+     "grounds": "compound śāntika pauṣṭike",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which endings are declared for stilling and peace rites?",
+   "premises": [
+    "namaḥ is declared for stilling",
+    "svaha is declared for peace rites",
+    "endings depend on rite type"
+   ],
+   "inference": "Namaḥ is used for stilling, svaha for peace and prosperity rites.",
+   "uncertainties": [
+    "exact rite pairing"
+   ],
+   "plain_english": "Namaḥ is used for stilling, svaha for peace and prosperity rites."
+  },
+  {
+   "verse": 1866,
+   "rows": [
+    {
+     "surface": "mantrānte",
+     "gloss": "at-mantra-end",
+     "grounds": "compound mantra ante",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yojayenmantrī",
+     "gloss": "the-mantra-knower-should-join",
+     "grounds": "fused verb plus agent",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "nominative of mantrin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "japakāle",
+     "gloss": "at-japa-time",
+     "grounds": "compound japa kāle",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yathāsthitam",
+     "gloss": "as-situated",
+     "grounds": "compound yathā sthitam",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the mantra-knower join the ending?",
+   "premises": [
+    "join at mantra end",
+    "join during japa time",
+    "join as situated"
+   ],
+   "inference": "The mantra-knower should join the ending at mantra end during japa, as situated.",
+   "uncertainties": [
+    "fused token parsing"
+   ],
+   "plain_english": "The mantra-knower should join the ending at mantra end during japa, as situated."
+  },
+  {
+   "verse": 1867,
+   "rows": [
+    {
+     "surface": "sarvakāryeṣu",
+     "gloss": "in-all-rites",
+     "grounds": "compound sarva kāryeṣu",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "sauvarṇe",
+     "gloss": "golden",
+     "grounds": "locative of sauvarṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "krūre",
+     "gloss": "in-cruel-rites",
+     "grounds": "locative of krūra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "verb as",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pretakarpaṭam",
+     "gloss": "corpse-cloth",
+     "grounds": "compound preta karpaṭam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What material is used in cruel rites?",
+   "premises": [
+    "all rites may use gold",
+    "cruel rites use corpse-cloth",
+    "material depends on rite"
+   ],
+   "inference": "In cruel rites, corpse-cloth should be used.",
+   "uncertainties": [
+    "gold pairing unclear"
+   ],
+   "plain_english": "In cruel rites, corpse-cloth should be used."
+  },
+  {
+   "verse": 1868,
+   "rows": [
+    {
+     "surface": "sarvakāryaṃṣvaṣṭagandhaṃ",
+     "gloss": "all-rites-eight-scents",
+     "grounds": "fused sandhi form",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "aṣṭagandhaṃ",
+     "gloss": "eight-scents",
+     "grounds": "compound aṣṭa gandhaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "krūre",
+     "gloss": "in-cruel-rites",
+     "grounds": "locative of krūra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭaviṣāṇi",
+     "gloss": "eight-horns",
+     "grounds": "compound aṣṭa viṣāṇi",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What substances are used in cruel rites?",
+   "premises": [
+    "eight scents are used",
+    "eight horns are used",
+    "cruel rites use special substances"
+   ],
+   "inference": "Cruel rites use eight scents and eight horns.",
+   "uncertainties": [
+    "fused token parsing"
+   ],
+   "plain_english": "Cruel rites use eight scents and eight horns."
+  },
+  {
+   "verse": 1869,
+   "rows": [
+    {
+     "surface": "hemnā",
+     "gloss": "with-gold",
+     "grounds": "instrumental of hema",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakāryāṇi",
+     "gloss": "all-rites",
+     "grounds": "compound sarva kāryāṇi",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "krūre",
+     "gloss": "in-cruel-rites",
+     "grounds": "locative of krūra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "verb as",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "kākapucchikā",
+     "gloss": "crow-tail",
+     "grounds": "compound kāka pucchikā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is used with gold in cruel rites?",
+   "premises": [
+    "gold is used in all rites",
+    "cruel rites use crow-tail",
+    "material depends on rite"
+   ],
+   "inference": "In cruel rites, crow-tail should be used with gold.",
+   "uncertainties": [
+    "exact gold pairing"
+   ],
+   "plain_english": "In cruel rites, crow-tail should be used with gold."
+  },
+  {
+   "verse": 1870,
+   "rows": [
+    {
+     "surface": "sarvakāryaṃ",
+     "gloss": "all-rites",
+     "grounds": "compound sarva kāryaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "devagṛhe",
+     "gloss": "in-temple",
+     "grounds": "compound deva gṛhe",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śmaśāne",
+     "gloss": "in-cremation-ground",
+     "grounds": "locative of śmaśāna",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "krūrakarma",
+     "gloss": "cruel-rite",
+     "grounds": "compound krūra karma",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where are all rites and cruel rites performed?",
+   "premises": [
+    "all rites occur in temple",
+    "cruel rites occur in cremation ground",
+    "location depends on rite"
+   ],
+   "inference": "All rites are performed in temple, cruel rites in cremation ground.",
+   "uncertainties": [
+    "exact pairing"
+   ],
+   "plain_english": "All rites are performed in temple, cruel rites in cremation ground."
+  },
+  {
+   "verse": 1871,
+   "rows": [
+    {
+     "surface": "sarvakarmāṇi",
+     "gloss": "all-rites",
+     "grounds": "compound sarva karmāṇi",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-perform",
+     "grounds": "verb kṛ",
+     "morph": "3.sg.mid.opt"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-knower",
+     "grounds": "nominative of mantrin",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tattatphalāptaye",
+     "gloss": "for-each-result",
+     "grounds": "compound tat tat phala āptaye",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why should the mantra-knower perform all rites?",
+   "premises": [
+    "mantra-knower performs all rites",
+    "performance aims at each result",
+    "result follows rite"
+   ],
+   "inference": "The mantra-knower should perform all rites to obtain each corresponding result.",
+   "uncertainties": [
+    "exact result mapping"
+   ],
+   "plain_english": "The mantra-knower should perform all rites to obtain each corresponding result."
+  },
+  {
+   "verse": 1872,
+   "rows": [
+    {
+     "surface": "uttamāṅge",
+     "gloss": "on-supreme-limb",
+     "grounds": "compound uttama aṅge",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parābījaṃ",
+     "gloss": "supreme-seed-syllable",
+     "grounds": "compound parā bījaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "candrāyutasamaprabham",
+     "gloss": "moon-ten-thousand-equal-radiant",
+     "grounds": "compound candra ayuta sama prabham",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is placed on the supreme limb?",
+   "premises": [
+    "supreme seed-syllable is placed",
+    "it shines like ten thousand moons",
+    "placement is on supreme limb"
+   ],
+   "inference": "The supreme seed-syllable, radiant like ten thousand moons, is placed on the supreme limb.",
+   "uncertainties": [
+    "limb identity"
+   ],
+   "plain_english": "The supreme seed-syllable, radiant like ten thousand moons, is placed on the supreme limb."
+  },
+  {
+   "verse": 1873,
+   "rows": [
+    {
+     "surface": "mūlādibrahmarandhrāntaṃ",
+     "gloss": "from-root-to-brahma-aperture-end",
+     "grounds": "compound mūla ādi brahma randhra antaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anavacchinnarūpibhiḥ",
+     "gloss": "with-unbroken-forms",
+     "grounds": "compound anavacchinna rūpibhiḥ",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What is contemplated from root to brahma aperture?",
+   "premises": [
+    "contemplation spans root to aperture",
+    "forms are unbroken",
+    "range is complete"
+   ],
+   "inference": "One contemplates unbroken forms from the root to the brahma aperture.",
+   "uncertainties": [
+    "exact contemplative object"
+   ],
+   "plain_english": "One contemplates unbroken forms from the root to the brahma aperture."
+  },
+  {
+   "verse": 1874,
+   "rows": [
+    {
+     "surface": "ātmānaṃ",
+     "gloss": "oneself",
+     "grounds": "accusative of ātman",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāvayennityaṃ",
+     "gloss": "should-meditate-always",
+     "grounds": "fused verb plus nityam",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative of sa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavedajarāmaraḥ",
+     "gloss": "would-become-ageless-immortal",
+     "grounds": "fused verb plus adjective",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "ajarāmaraḥ",
+     "gloss": "ageless-immortal",
+     "grounds": "compound ajarā amaraḥ",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What results from always meditating on oneself?",
+   "premises": [
+    "one meditates on oneself always",
+    "such a person becomes ageless",
+    "such a person becomes immortal"
+   ],
+   "inference": "One who always meditates on oneself becomes ageless and immortal.",
+   "uncertainties": [
+    "fused token parsing"
+   ],
+   "plain_english": "One who always meditates on oneself becomes ageless and immortal."
+  }
+ ]
+}

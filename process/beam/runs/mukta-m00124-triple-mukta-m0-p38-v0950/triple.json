@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p38",
+ "items": [
+  {
+   "verse": 950,
+   "rows": [
+    {
+     "surface": "sakṛt",
+     "gloss": "once",
+     "grounds": "indicates a single occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āvamanam",
+     "gloss": "emesis",
+     "grounds": "object of the act of giving/administering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund(dā)"
+    },
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-done",
+     "grounds": "expresses obligation or requirement",
+     "morph": "gerundive.n.nom.sg(kṛ)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject denoting the ritual act to be performed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects to the subsequent or additional action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaram",
+     "gloss": "subsequent",
+     "grounds": "qualifies the action as following",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What ritual action must be performed after administering emesis once?",
+   "premises": [
+    "Emesis is administered once as a prior act.",
+    "A subsequent action is required after that administration.",
+    "The subsequent action is designated as obligatory."
+   ],
+   "inference": "After administering emesis once, a subsequent ritual action must be performed.",
+   "uncertainties": [
+    "The specific nature of the subsequent action is not specified in this verse alone."
+   ],
+   "plain_english": "Having given emesis once, the subsequent ritual action must also be performed."
+  }
+ ]
+}

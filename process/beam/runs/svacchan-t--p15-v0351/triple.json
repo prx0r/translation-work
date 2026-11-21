@@ -1,0 +1,639 @@
+{
+ "song": "sva-p15",
+ "items": [
+  {
+   "verse": 351,
+   "rows": [
+    {
+     "surface": "praṇava",
+     "gloss": "sacred-syllable",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃpuṭa",
+     "gloss": "enclosing",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haṃsa",
+     "gloss": "swan",
+     "grounds": "as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bīja",
+     "gloss": "seed",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tva",
+     "gloss": "-ness",
+     "grounds": "suffix as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "as given",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What form is described by praṇava and haṃsa seed?",
+   "premises": [
+    "praṇava is sacred-syllable",
+    "haṃsa is seed-form"
+   ],
+   "inference": "The verse names a sacred-syllable form built from haṃsa seed.",
+   "uncertainties": [
+    "tva suffix role not fully resolved"
+   ],
+   "plain_english": "The form is the sacred syllable enclosing the haṃsa seed and related beginning-form."
+  },
+  {
+   "verse": 352,
+   "rows": [
+    {
+     "surface": "prayogāt",
+     "gloss": "from-application",
+     "grounds": "as given",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arpaṇaṃ",
+     "gloss": "offering",
+     "grounds": "as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puryaṣṭaka",
+     "gloss": "eightfold-city",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arpaṇāya",
+     "gloss": "for-offering",
+     "grounds": "as given",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "What offering is connected with the eightfold city?",
+   "premises": [
+    "prayoga is application",
+    "puryaṣṭaka is eightfold-city",
+    "arpaṇa is offering"
+   ],
+   "inference": "The verse links application to offering the eightfold city.",
+   "uncertainties": [
+    "exact ritual referent of puryaṣṭaka"
+   ],
+   "plain_english": "Then also the offering of the eightfold city is for offering."
+  },
+  {
+   "verse": 353,
+   "rows": [
+    {
+     "surface": "sparśam",
+     "gloss": "touch",
+     "grounds": "as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arpayāmi",
+     "gloss": "I-offer",
+     "grounds": "as given",
+     "morph": "1.sg.act-pres root arpay"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trir",
+     "gloss": "thrice",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "let-him-offer",
+     "grounds": "as given",
+     "morph": "3.sg.act-opt root hu"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīpsā",
+     "gloss": "repetition",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "avaseyam",
+     "gloss": "to-be-understood",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the touch offering to be performed?",
+   "premises": [
+    "sparśa is touch",
+    "arpayāmi is I-offer",
+    "juhuyāt is let-him-offer"
+   ],
+   "inference": "The verse prescribes offering touch with svaha, thrice, as repetition to be understood.",
+   "uncertainties": [
+    "vīpsā scope in ritual"
+   ],
+   "plain_english": "I offer touch, svaha; let him offer thrice; this repetition is to be understood."
+  },
+  {
+   "verse": 354,
+   "rows": [
+    {
+     "surface": "paryante",
+     "gloss": "at-end",
+     "grounds": "as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sphuṭayiṣyāmaḥ",
+     "gloss": "we-will-clarify",
+     "grounds": "as given",
+     "morph": "1.pl.act-fut root sphuṭ"
+    }
+   ],
+   "question": "What will be clarified at the end?",
+   "premises": [
+    "paryanta is end",
+    "sphuṭayiṣyāmaḥ is we-will-clarify"
+   ],
+   "inference": "The verse states that clarification will come at the end.",
+   "uncertainties": [
+    "object of clarification omitted"
+   ],
+   "plain_english": "At the end we will clarify."
+  },
+  {
+   "verse": 355,
+   "rows": [
+    {
+     "surface": "saṃskāra",
+     "gloss": "purification",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṅkalanā",
+     "gloss": "collection",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "homa",
+     "gloss": "fire-offering",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kalanā",
+     "gloss": "reckoning",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smartavyā",
+     "gloss": "to-be-remembered",
+     "grounds": "as given",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What must be remembered in this rite?",
+   "premises": [
+    "saṃskāra is purification",
+    "saṅkalana is collection",
+    "homa is fire-offering"
+   ],
+   "inference": "Purification, collection, fire-offering, and reckoning are to be remembered.",
+   "uncertainties": [
+    "exact relation among listed items"
+   ],
+   "plain_english": "Purification, collection, fire-offering, and reckoning are to be remembered."
+  },
+  {
+   "verse": 356,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "as given",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "bhogena",
+     "gloss": "by-enjoyment",
+     "grounds": "as given",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ativāhanāt",
+     "gloss": "from-carrying-beyond",
+     "grounds": "as given",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the meaning of carrying beyond by enjoyment?",
+   "premises": [
+    "bhoga is enjoyment",
+    "ati-vāhana is carrying-beyond",
+    "artha is meaning"
+   ],
+   "inference": "The meaning is that by enjoyment alone it is carried beyond.",
+   "uncertainties": [
+    "referent of tasya"
+   ],
+   "plain_english": "The meaning is that by enjoyment alone it is carried beyond."
+  },
+  {
+   "verse": 357,
+   "rows": [
+    {
+     "surface": "śodhayet",
+     "gloss": "let-him-purify",
+     "grounds": "as given",
+     "morph": "3.sg.act-opt root śudh"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivīghnaṃ",
+     "gloss": "unobstructed",
+     "grounds": "as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhoga",
+     "gloss": "enjoyment",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "siddhir",
+     "gloss": "accomplishment",
+     "grounds": "as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "as given",
+     "morph": "3.sg.act-pres root bhū"
+    }
+   ],
+   "question": "What results from purifying in this way?",
+   "premises": [
+    "śodhayet is let-him-purify",
+    "nivīghna is unobstructed",
+    "bhoga is enjoyment"
+   ],
+   "inference": "Thus indeed unobstructed enjoyment-accomplishment becomes.",
+   "uncertainties": [
+    "exact syntax of nivīghnaṃ"
+   ],
+   "plain_english": "Thus indeed, unobstructed enjoyment-accomplishment becomes."
+  },
+  {
+   "verse": 358,
+   "rows": [
+    {
+     "surface": "prāk",
+     "gloss": "before",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āgāmi",
+     "gloss": "future",
+     "grounds": "as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekasthaṃ",
+     "gloss": "unified",
+     "grounds": "as given",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhāvayitvā",
+     "gloss": "having-contemplated",
+     "grounds": "as given",
+     "morph": "gerund root bhū"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dīkṣayet",
+     "gloss": "let-him-initiate",
+     "grounds": "as given",
+     "morph": "3.sg.act-opt root dīkṣ"
+    }
+   ],
+   "question": "What should be done before initiation?",
+   "premises": [
+    "prāk is before",
+    "karma is action",
+    "āgāmi is future",
+    "dīkṣayet is let-him-initiate"
+   ],
+   "inference": "Before, future action is unified and contemplated, then let him initiate.",
+   "uncertainties": [
+    "object of bhāvayitvā"
+   ],
+   "plain_english": "Before, future action is unified and contemplated, then let him initiate."
+  },
+  {
+   "verse": 359,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "as given",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "lābhāt",
+     "gloss": "from-gain",
+     "grounds": "as given",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "alam",
+     "gloss": "enough",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is enough said here?",
+   "premises": [
+    "lābha is gain",
+    "alam is enough"
+   ],
+   "inference": "From that gain, thus enough.",
+   "uncertainties": [
+    "referent of tasya"
+   ],
+   "plain_english": "From that gain, thus enough."
+  },
+  {
+   "verse": 360,
+   "rows": [
+    {
+     "surface": "śivamayyāḥ",
+     "gloss": "of-shiva-filled",
+     "grounds": "as given",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "svasattā",
+     "gloss": "own-existence",
+     "grounds": "as given",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tas",
+     "gloss": "from-that",
+     "grounds": "as given",
+     "morph": "pron.abl.sg"
+    },
+    {
+     "surface": "bhraṃśitvā",
+     "gloss": "having-fallen",
+     "grounds": "as given",
+     "morph": "gerund root bhraṃś"
+    },
+    {
+     "surface": "kravyādatvam",
+     "gloss": "carnivorousness",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arthaḥ",
+     "gloss": "meaning",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What meaning follows from falling from own existence?",
+   "premises": [
+    "śiva-mayī is shiva-filled",
+    "sva-sattā is own-existence",
+    "kravyāda-tva is carnivorousness"
+   ],
+   "inference": "The meaning is falling from shiva-filled own existence into carnivorousness.",
+   "uncertainties": [
+    "exact causal relation"
+   ],
+   "plain_english": "The meaning is falling from shiva-filled own existence into carnivorousness."
+  },
+  {
+   "verse": 361,
+   "rows": [
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śuddhi",
+     "gloss": "purification",
+     "grounds": "as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "as given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agre",
+     "gloss": "ahead",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "as given",
+     "morph": "3.sg.act-fut root bhū"
+    }
+   ],
+   "question": "When will the purification rule appear?",
+   "premises": [
+    "śuddhi is purification",
+    "vidhi is rule",
+    "agre is ahead"
+   ],
+   "inference": "That purification rule will be ahead.",
+   "uncertainties": [
+    "referent of tac"
+   ],
+   "plain_english": "That purification rule will be ahead."
+  },
+  {
+   "verse": 362,
+   "rows": [
+    {
+     "surface": "vīrya",
+     "gloss": "potency",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāra",
+     "gloss": "essence",
+     "grounds": "as given",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "that",
+     "grounds": "as given",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mantrāṇām",
+     "gloss": "of-mantras",
+     "grounds": "as given",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "āha",
+     "gloss": "says",
+     "grounds": "as given",
+     "morph": "3.sg.act-perf root ah"
+    }
+   ],
+   "question": "What essence of mantras is spoken?",
+   "premises": [
+    "vīrya is potency",
+    "sāra is essence",
+    "mantrāṇām is of-mantras"
+   ],
+   "inference": "He says that potency-essence of mantras.",
+   "uncertainties": [
+    "speaker and referent"
+   ],
+   "plain_english": "He says the potency-essence of mantras."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p181",
+ "items": [
+  {
+   "verse": 4525,
+   "rows": [
+    {
+     "surface": "teṣām",
+     "gloss": "of-them",
+     "grounds": "genitive plural pronoun referring to the previously mentioned practices",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "anyonya",
+     "gloss": "mutual",
+     "grounds": "reciprocal relation between the practices",
+     "morph": "adj.indecl."
+    },
+    {
+     "surface": "sambheda",
+     "gloss": "complete-penetration",
+     "grounds": "first member of the penetration-contemplation phrase",
+     "morph": "noun.nom.sg.m"
+    },
+    {
+     "surface": "bhāvanaṃ",
+     "gloss": "contemplation",
+     "grounds": "contemplation to be performed",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "prescribed ritual result",
+     "morph": "noun.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescription",
+     "morph": "verb.3.sg.par-opt + root bhū"
+    }
+   ],
+   "question": "What practice should serve as libation for those previously described practices?",
+   "premises": [
+    "Mutual complete-penetration contemplation is prescribed.",
+    "It should become libation.",
+    "It applies to them."
+   ],
+   "inference": "The prescribed libation for them is mutual penetration-contemplation.",
+   "uncertainties": [
+    "Exact referent of teṣām is not explicit in this verse."
+   ],
+   "plain_english": "For them, mutual complete-penetration contemplation should be the libation."
+  }
+ ]
+}

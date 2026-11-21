@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p39",
+ "items": [
+  {
+   "verse": 975,
+   "rows": [
+    {
+     "surface": "sāpādidūṣaṇoddhāraḥ",
+     "gloss": "with-curse-etc-defect-removal",
+     "grounds": "compound nominative singular masculine; internal sandhi fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "srutaḥ",
+     "gloss": "heard",
+     "grounds": "past participle of śru",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tvatto",
+     "gloss": "from-you",
+     "grounds": "ablative of tvat",
+     "morph": "abl.sg.m"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "instrumental of aham",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "prabho",
+     "gloss": "lord",
+     "grounds": "vocative singular masculine",
+     "morph": "voc.sg.m"
+    }
+   ],
+   "question": "What removal of curse and defect has the devotee heard from the lord?",
+   "premises": [
+    "Mantras were heard from the lord.",
+    "Curse and defect removal was heard.",
+    "The speaker addresses the lord."
+   ],
+   "inference": "The speaker has received from the lord the removal of curses and defects.",
+   "uncertainties": [
+    "sāpādi internal parsing uncertain"
+   ],
+   "plain_english": "The removal of curse and defect has been heard by me from you, lord."
+  }
+ ]
+}

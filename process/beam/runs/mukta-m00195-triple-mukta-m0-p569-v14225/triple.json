@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p569",
+ "items": [
+  {
+   "verse": 14225,
+   "rows": [
+    {
+     "surface": "jala+akṣata+tilān",
+     "gloss": "water-unbroken-rice-sesame",
+     "grounds": "compound object of gṛhītvā; accusative plural",
+     "morph": "compound.acc.pl.masc"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "locative indicating where items are held",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive expressing prior action before uccaret",
+     "morph": "abs.(√grah)"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "direct object of uccaret",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "uccaret",
+     "gloss": "should-recite",
+     "grounds": "prescriptive optative enjoining utterance",
+     "morph": "3.sg.opt.act.(ud-√car)"
+    }
+   ],
+   "question": "What ritual action must accompany holding water, unbroken rice, and sesame in the hand?",
+   "premises": [
+    "Water, unbroken rice, and sesame are taken into the hand.",
+    "Taking these items precedes the prescribed verbal act.",
+    "The mantra is the object to be uttered."
+   ],
+   "inference": "After taking water, unbroken rice, and sesame in the hand, one should recite the mantra.",
+   "uncertainties": [],
+   "plain_english": "Having taken water, unbroken rice, and sesame in the hand, one should recite the mantra."
+  }
+ ]
+}

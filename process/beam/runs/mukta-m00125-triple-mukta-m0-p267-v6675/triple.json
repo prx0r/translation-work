@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p267",
+ "items": [
+  {
+   "verse": 6675,
+   "rows": [
+    {
+     "surface": "gomaya",
+     "gloss": "cow-dung",
+     "grounds": "first member of compound describing the smearing substance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ālipta",
+     "gloss": "smeared",
+     "grounds": "past passive participle qualifying deśe",
+     "morph": "ppp.ā-lip"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-place",
+     "grounds": "locative noun indicating the ritual location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaka",
+     "gloss": "plank",
+     "grounds": "first member indicating the support in phalaka-upari",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "upari",
+     "gloss": "upon",
+     "grounds": "postposition indicating position above the plank",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitam",
+     "gloss": "placed",
+     "grounds": "past passive participle describing what is situated there",
+     "morph": "n.nom.sg.ppp.sam-sthā"
+    }
+   ],
+   "question": "What prepared location and support are required for the ritual placement?",
+   "premises": [
+    "The place must be smeared with cow-dung.",
+    "The placement must be upon a plank.",
+    "The item is to be situated in that prepared location."
+   ],
+   "inference": "The ritual object is to be placed upon a plank in a place smeared with cow-dung.",
+   "uncertainties": [
+    "The specific object that is saṃsthitam is supplied from the preceding context."
+   ],
+   "plain_english": "Indeed, it should be placed upon a plank in a place smeared with cow-dung."
+  }
+ ]
+}

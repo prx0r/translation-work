@@ -1,0 +1,378 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "dina",
+     "gloss": "day",
+     "grounds": "time period for keeping",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "single day",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "dhārayed",
+     "gloss": "one-should-keep",
+     "grounds": "causative holding",
+     "morph": "3.sg.act-opt + root dhṛ"
+    },
+    {
+     "surface": "gharme",
+     "gloss": "in-heat",
+     "grounds": "heated place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "mṛt",
+     "gloss": "earthen",
+     "grounds": "clay vessel",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "vessel",
+     "grounds": "container",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mṛto",
+     "gloss": "dead",
+     "grounds": "may become inert",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-become",
+     "grounds": "possible result",
+     "morph": "3.sg.act-opt + root bhū"
+    }
+   ],
+   "question": "What sequence of operations digests mercury with measured doses?",
+   "premises": [
+    "Keep mixture one day in heat.",
+    "Equal portions are given after digestion.",
+    "Grind each dose with sour substance."
+   ],
+   "inference": "Mercury is processed by repeated keeping, grinding, and steaming until digested.",
+   "uncertainties": [
+    "Exact meaning of mṛto bhavet is unclear."
+   ],
+   "plain_english": "Keep it one day in heat in an earthen vessel, or it may become dead."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "catuṣṣaṣṭy",
+     "gloss": "sixty-four",
+     "grounds": "portion count",
+     "morph": "num"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "and following",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulya",
+     "gloss": "equal",
+     "grounds": "same amount",
+     "morph": "adj"
+    },
+    {
+     "surface": "āṃśaṃ",
+     "gloss": "portion",
+     "grounds": "measured part",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "should-be-given",
+     "grounds": "to be added",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "jīrṇañ",
+     "gloss": "digested",
+     "grounds": "after digestion",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cālayet",
+     "gloss": "one-should-stir",
+     "grounds": "mix thoroughly",
+     "morph": "3.sg.act-opt + root cal"
+    }
+   ],
+   "question": "What sequence of operations digests mercury with measured doses?",
+   "premises": [
+    "Equal portions are given after digestion.",
+    "Stir after each addition."
+   ],
+   "inference": "Measured equal portions are added and stirred after digestion.",
+   "uncertainties": [
+    "The exact sixty-four count is unclear."
+   ],
+   "plain_english": "Give an equal portion, sixty-four and so on, after digestion, and stir."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "repetition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṃśatimaṃ",
+     "gloss": "twentieth",
+     "grounds": "ordinal dose",
+     "morph": "ord.acc.sg.m"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "should-be-taken",
+     "grounds": "to be accepted",
+     "morph": "gerundive"
+    },
+    {
+     "surface": "dvi",
+     "gloss": "two",
+     "grounds": "number",
+     "morph": "num"
+    },
+    {
+     "surface": "raṣṭa",
+     "gloss": "eight",
+     "grounds": "number",
+     "morph": "num"
+    },
+    {
+     "surface": "dvādaśaṃ",
+     "gloss": "twelfth",
+     "grounds": "ordinal",
+     "morph": "ord.acc.sg.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of operations digests mercury with measured doses?",
+   "premises": [
+    "Take twentieth portion again.",
+    "Proceed in ordered sequence."
+   ],
+   "inference": "Doses are taken in a prescribed numerical order.",
+   "uncertainties": [
+    "The phrase dvi raṣṭa dvādaśaṃ is unclear."
+   ],
+   "plain_english": "Again take the twentieth, two, eight, twelfth, in order."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "prati",
+     "gloss": "at-each",
+     "grounds": "per dose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāse",
+     "gloss": "dose",
+     "grounds": "single administration",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "tapta",
+     "gloss": "heated",
+     "grounds": "hot mortar",
+     "morph": "adj"
+    },
+    {
+     "surface": "khalve",
+     "gloss": "mortar",
+     "grounds": "grinding vessel",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dinam",
+     "gloss": "day",
+     "grounds": "one day",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "amlena",
+     "gloss": "with-sour",
+     "grounds": "sour substance",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "mardayet",
+     "gloss": "one-should-grind",
+     "grounds": "grinding action",
+     "morph": "3.sg.act-opt + root mṛd"
+    }
+   ],
+   "question": "What sequence of operations digests mercury with measured doses?",
+   "premises": [
+    "Grind each dose one day.",
+    "Use heated mortar and sour substance."
+   ],
+   "inference": "Each dose is ground for a day with sour substance in a heated mortar.",
+   "uncertainties": [
+    "Exact sour ingredient is unspecified."
+   ],
+   "plain_english": "At each dose, grind one day in a heated mortar with sour substance."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "aforementioned",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "apparatus",
+     "grounds": "device",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "dhārayed",
+     "gloss": "one-should-keep",
+     "grounds": "holding",
+     "morph": "3.sg.act-opt + root dhṛ"
+    },
+    {
+     "surface": "gharme",
+     "gloss": "in-heat",
+     "grounds": "heated place",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "dinaṃ",
+     "gloss": "day",
+     "grounds": "one day",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "syāj",
+     "gloss": "may-be",
+     "grounds": "possible result",
+     "morph": "3.sg.act-opt + root as"
+    },
+    {
+     "surface": "jārito",
+     "gloss": "digested",
+     "grounds": "digested state",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "rasaḥ",
+     "gloss": "mercury",
+     "grounds": "substance",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What sequence of operations digests mercury with measured doses?",
+   "premises": [
+    "Keep apparatus in heat one day.",
+    "Mercury may become digested."
+   ],
+   "inference": "Keeping the apparatus in heat for a day digests mercury.",
+   "uncertainties": [
+    "Exact apparatus is unspecified."
+   ],
+   "plain_english": "Keep that apparatus in heat for a day; mercury may be digested."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "dṛḍha",
+     "gloss": "strong",
+     "grounds": "firm cloth",
+     "morph": "adj"
+    },
+    {
+     "surface": "vastre",
+     "gloss": "cloth",
+     "grounds": "fabric",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "bahir",
+     "gloss": "outside",
+     "grounds": "external",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-tied",
+     "grounds": "tied up",
+     "morph": "absolutive + root bandh"
+    },
+    {
+     "surface": "mṛd",
+     "gloss": "earthen",
+     "grounds": "clay pot",
+     "morph": "adj"
+    },
+    {
+     "surface": "ghaṭe",
+     "gloss": "pot",
+     "grounds": "vessel",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "svedayed",
+     "gloss": "one-should-steam",
+     "grounds": "steaming",
+     "morph": "3.sg.act-opt + root svid"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "practitioner",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What sequence of operations digests mercury with measured doses?",
+   "premises": [
+    "Tie in strong cloth outside.",
+    "Steam in earthen pot."
+   ],
+   "inference": "The wise practitioner steams the tied material in an earthen pot.",
+   "uncertainties": [
+    "Exact steaming duration is unspecified."
+   ],
+   "plain_english": "The wise one ties it in strong cloth outside and steams it in an earthen pot."
+  }
+ ]
+}

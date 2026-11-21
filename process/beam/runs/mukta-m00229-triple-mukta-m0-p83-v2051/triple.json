@@ -1,0 +1,1043 @@
+{
+ "song": "mukta-m0-p83",
+ "items": [
+  {
+   "verse": 2051,
+   "rows": [
+    {
+     "surface": "ucchiṣṭapadam",
+     "gloss": "leftover-word",
+     "grounds": "compound term for leftover word",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ābhāṣya",
+     "gloss": "having-spoken",
+     "grounds": "absolutive of ābhāṣ",
+     "morph": "abs"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative of vad",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "cāṇḍālinī",
+     "gloss": "caṇḍālinī",
+     "grounds": "goddess name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should one say after speaking the leftover word in this mantra instruction?",
+   "premises": [
+    "ucchiṣṭapadam is spoken first",
+    "then cāṇḍālinī is said",
+    "api marks an additional option"
+   ],
+   "inference": "The verse prescribes saying cāṇḍālinī after the leftover word.",
+   "uncertainties": [
+    "exact ritual context of ucchiṣṭapadam"
+   ],
+   "plain_english": "After speaking the leftover word, one should also say cāṇḍālinī."
+  },
+  {
+   "verse": 2052,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣṭāntaḥ",
+     "gloss": "six-ending",
+     "grounds": "compound descriptor",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "guṇaśaḥ",
+     "gloss": "by-guṇas",
+     "grounds": "instrumental adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sargabinduvā",
+     "gloss": "creation-bindu",
+     "grounds": "compound term",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "m",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "n",
+     "gloss": "n",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllabic elements follow the six-ending creation-bindu by guṇas?",
+   "premises": [
+    "tataḥ introduces sequence",
+    "ṣṭāntaḥ qualifies ending",
+    "guṇaśaḥ indicates by guṇas",
+    "sargabinduvā names creation-bindu",
+    "mā and n are bīja syllables"
+   ],
+   "inference": "The verse lists mā and n after the six-ending creation-bindu.",
+   "uncertainties": [
+    "exact sandhi of sargabinduvā"
+   ],
+   "plain_english": "Then the six-ending creation-bindu, by guṇas, has mā and n."
+  },
+  {
+   "verse": 2053,
+   "rows": [
+    {
+     "surface": "varṇaiḥ",
+     "gloss": "by-syllables",
+     "grounds": "instrumental plural",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sarvābhīṣṭakaraḥ",
+     "gloss": "all-desired-doer",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What becomes the all-desired-doer through syllables?",
+   "premises": [
+    "varṇaiḥ means by syllables",
+    "sarvābhīṣṭakaraḥ means all-desired-doer",
+    "bhavet means becomes"
+   ],
+   "inference": "The mantra becomes the all-desired-doer through syllables.",
+   "uncertainties": [
+    "subject implied from context"
+   ],
+   "plain_english": "Through syllables it becomes the all-desired-doer."
+  },
+  {
+   "verse": 2054,
+   "rows": [
+    {
+     "surface": "mahāśvetā",
+     "gloss": "great-white",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "manu",
+     "gloss": "manu",
+     "grounds": "mantra name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samproktaḥ",
+     "gloss": "thus-spoken",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg"
+    },
+    {
+     "surface": "caturakṣaraḥ",
+     "gloss": "four-syllabled",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is the great-white manu described as?",
+   "premises": [
+    "mahāśvetā qualifies manu",
+    "manu is the mantra",
+    "samproktaḥ means thus spoken",
+    "caturakṣaraḥ means four-syllabled"
+   ],
+   "inference": "The great-white manu is thus spoken as four-syllabled.",
+   "uncertainties": [
+    "exact mantra form"
+   ],
+   "plain_english": "The great-white manu is thus spoken as four-syllabled."
+  },
+  {
+   "verse": 2055,
+   "rows": [
+    {
+     "surface": "syānmuniḥ",
+     "gloss": "may-be-sage",
+     "grounds": "sandhi-fused optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nivṛdvighnaḥ",
+     "gloss": "obstacle-removal",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "genitive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What may be the sage, meter, obstacle-removal, and deity of this?",
+   "premises": [
+    "syānmuniḥ means may be sage",
+    "chandaḥ means meter",
+    "nivṛdvighnaḥ means obstacle-removal",
+    "asya means of this",
+    "devatā means deity"
+   ],
+   "inference": "The verse assigns sage, meter, obstacle-removal, and deity to this mantra.",
+   "uncertainties": [
+    "fused sandhi in syānmuniḥ"
+   ],
+   "plain_english": "May the sage be; meter, obstacle-removal, and deity of this."
+  },
+  {
+   "verse": 2056,
+   "rows": [
+    {
+     "surface": "hṛdantorccāvidhau",
+     "gloss": "in-heart-utterance-rite",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "home",
+     "gloss": "in-homa",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "hi",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvi",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "ṭhā",
+     "gloss": "ṭhā",
+     "grounds": "syllable fragment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ntikaḥ",
+     "gloss": "antika",
+     "grounds": "ending fragment",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is said about the heart-utterance rite and homa?",
+   "premises": [
+    "hṛdantorccāvidhau means in heart-utterance rite",
+    "home means in homa",
+    "hi is emphatic",
+    "dvi ṭhā ntikaḥ gives two-ṭhā-antika"
+   ],
+   "inference": "The verse connects heart-utterance rite and homa with a two-ṭhā-antika element.",
+   "uncertainties": [
+    "token split in source",
+    "exact meaning of ṭhā ntikaḥ"
+   ],
+   "plain_english": "In the heart-utterance rite and homa, indeed, two-ṭhā-antika."
+  },
+  {
+   "verse": 2057,
+   "rows": [
+    {
+     "surface": "gaṇapatiṃ",
+     "gloss": "gaṇapati",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānte",
+     "gloss": "varada-end",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varadaṃ",
+     "gloss": "varada",
+     "grounds": "accusative adjective",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is placed after gaṇapati at the varada end?",
+   "premises": [
+    "gaṇapatiṃ is object",
+    "paścāt means afterwards",
+    "varānte means at varada end",
+    "varadaṃ padam means varada word"
+   ],
+   "inference": "The varada word is placed after gaṇapati.",
+   "uncertainties": [
+    "exact ritual sequence"
+   ],
+   "plain_english": "Afterwards, at the varada end, the varada word after gaṇapati."
+  },
+  {
+   "verse": 2058,
+   "rows": [
+    {
+     "surface": "aṣṭāviṃśatyakṣaraḥ",
+     "gloss": "twenty-eight-syllabled",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "tārādyo",
+     "gloss": "tārā-etc",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "manu",
+     "gloss": "manu",
+     "grounds": "mantra name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg"
+    }
+   ],
+   "question": "What is this twenty-eight-syllabled tārā manu?",
+   "premises": [
+    "aṣṭāviṃśatyakṣaraḥ means twenty-eight-syllabled",
+    "ayaṃ means this",
+    "tārādyo means tārā-etc",
+    "manu means manu",
+    "īritaḥ means declared"
+   ],
+   "inference": "This twenty-eight-syllabled tārā manu is declared.",
+   "uncertainties": [
+    "exact tārādyo expansion"
+   ],
+   "plain_english": "This twenty-eight-syllabled tārā manu is declared."
+  },
+  {
+   "verse": 2059,
+   "rows": [
+    {
+     "surface": "mahākālī",
+     "gloss": "mahākālī",
+     "grounds": "goddess name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhruvādikā",
+     "gloss": "dhruvā-etc",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is mahākālī described as?",
+   "premises": [
+    "mahākālī names goddess",
+    "dhruvādikā means dhruvā-etc"
+   ],
+   "inference": "Mahākālī is associated with dhruvā and following elements.",
+   "uncertainties": [
+    "exact dhruvādikā list"
+   ],
+   "plain_english": "Mahākālī, dhruvā and following."
+  },
+  {
+   "verse": 2060,
+   "rows": [
+    {
+     "surface": "kūrcayugaṃ",
+     "gloss": "kūrca-pair",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "māyāyugaṃ",
+     "gloss": "māyā-pair",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāddakṣiṇe",
+     "gloss": "may-be-right",
+     "grounds": "sandhi-fused optative",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What may be the right word from kūrca-pair and māyā-pair?",
+   "premises": [
+    "kūrcayugaṃ means kūrca-pair",
+    "māyāyugaṃ means māyā-pair",
+    "syāddakṣiṇe means may be right",
+    "padam means word"
+   ],
+   "inference": "The right word may be formed from kūrca-pair and māyā-pair.",
+   "uncertainties": [
+    "fused sandhi in syāddakṣiṇe"
+   ],
+   "plain_english": "Kūrca-pair and māyā-pair may be the right word."
+  },
+  {
+   "verse": 2061,
+   "rows": [
+    {
+     "surface": "dviṭhaṃ",
+     "gloss": "two-ṭha",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "kālīmanuḥ",
+     "gloss": "kālī-manu",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvāviṃśadakṣaraḥ",
+     "gloss": "twenty-two-syllabled",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is the two-ṭha kālī manu?",
+   "premises": [
+    "dviṭhaṃ means two-ṭha",
+    "kālīmanuḥ means kālī manu",
+    "dvāviṃśadakṣaraḥ means twenty-two-syllabled"
+   ],
+   "inference": "The two-ṭha kālī manu is twenty-two-syllabled.",
+   "uncertainties": [
+    "exact ṭha usage"
+   ],
+   "plain_english": "The two-ṭha kālī manu is twenty-two-syllabled."
+  },
+  {
+   "verse": 2062,
+   "rows": [
+    {
+     "surface": "māntaḥ",
+     "gloss": "m-ending",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lāntaḥ",
+     "gloss": "lā-ending",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "nāntaḥ",
+     "gloss": "nā-ending",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "thus-also",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What endings are listed as m, lā, and nā?",
+   "premises": [
+    "māntaḥ means m-ending",
+    "lāntaḥ means lā-ending",
+    "nāntaḥ means nā-ending",
+    "tathaiva ca means thus also"
+   ],
+   "inference": "The verse lists m-ending, lā-ending, and nā-ending elements.",
+   "uncertainties": [
+    "exact mantra assembly"
+   ],
+   "plain_english": "M-ending, lā-ending, and nā-ending, thus also."
+  },
+  {
+   "verse": 2063,
+   "rows": [
+    {
+     "surface": "ebhiraṣṭākṣaraiḥ",
+     "gloss": "by-these-eight-syllables",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śoṇapadmamiva",
+     "gloss": "red-lotus-like",
+     "grounds": "compound simile",
+     "morph": "adv"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "remember",
+     "grounds": "optative of smṛ",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "How should one remember the mantra by these eight syllables?",
+   "premises": [
+    "ebhiraṣṭākṣaraiḥ means by these eight syllables",
+    "mantraṃ is object",
+    "śoṇapadmamiva means red-lotus-like",
+    "smaret means remember"
+   ],
+   "inference": "One should remember the mantra as red-lotus-like by these eight syllables.",
+   "uncertainties": [
+    "exact eight syllables"
+   ],
+   "plain_english": "By these eight syllables, remember the mantra like a red lotus."
+  },
+  {
+   "verse": 2064,
+   "rows": [
+    {
+     "surface": "chando'nuṣṭub",
+     "gloss": "meter-anuṣṭubh",
+     "grounds": "sandhi-fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāmāyā",
+     "gloss": "mahāmāyā",
+     "grounds": "goddess name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manorbhavet",
+     "gloss": "of-manu",
+     "grounds": "sandhi-fused genitive",
+     "morph": "n.gen.sg"
+    }
+   ],
+   "question": "What meter, deity, and goddess belong to this manu?",
+   "premises": [
+    "chando'nuṣṭub means meter anuṣṭubh",
+    "devatā means deity",
+    "mahāmāyā names goddess",
+    "manorbhavet means of manu"
+   ],
+   "inference": "The manu has anuṣṭubh meter, a deity, and mahāmāyā.",
+   "uncertainties": [
+    "fused sandhi"
+   ],
+   "plain_english": "Meter anuṣṭubh, deity, and mahāmāyā of the manu."
+  },
+  {
+   "verse": 2065,
+   "rows": [
+    {
+     "surface": "ttvāṃ",
+     "gloss": "tvām",
+     "grounds": "sandhi-fused pronoun",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "tārayormadhye",
+     "gloss": "of-tāra-pair-middle",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vārāhī",
+     "gloss": "vārāhī",
+     "grounds": "goddess name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aparā",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What becomes the other vārāhī between the tāra pair?",
+   "premises": [
+    "ttvāṃ means tvām",
+    "tārayormadhye means in middle of tāra pair",
+    "vārāhī names goddess",
+    "aparā means other",
+    "bhavet means becomes"
+   ],
+   "inference": "Another vārāhī becomes situated between the tāra pair.",
+   "uncertainties": [
+    "fused sandhi in ttvāṃ"
+   ],
+   "plain_english": "Between the tāra pair, another vārāhī becomes."
+  },
+  {
+   "verse": 2066,
+   "rows": [
+    {
+     "surface": "bhuvaneśī",
+     "gloss": "bhuvaneśī",
+     "grounds": "goddess name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃproktā",
+     "gloss": "thus-spoken",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg"
+    },
+    {
+     "surface": "bhavānyāstryakṣaro",
+     "gloss": "bhavānī-three-syllabled",
+     "grounds": "sandhi-fused compound",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "manu",
+     "grounds": "mantra name",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is bhuvaneśī described as?",
+   "premises": [
+    "bhuvaneśī names goddess",
+    "saṃproktā means thus spoken",
+    "bhavānyāstryakṣaro means bhavānī three-syllabled",
+    "manuḥ means manu"
+   ],
+   "inference": "Bhuvaneśī is thus spoken as a three-syllabled bhavānī manu.",
+   "uncertainties": [
+    "fused sandhi"
+   ],
+   "plain_english": "Bhuvaneśī is thus spoken, a three-syllabled bhavānī manu."
+  },
+  {
+   "verse": 2067,
+   "rows": [
+    {
+     "surface": "sargayogāt",
+     "gloss": "creation-yoga-by",
+     "grounds": "ablative compound",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "paro",
+     "gloss": "beyond",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt"
+    }
+   ],
+   "question": "What becomes beyond through creation-yoga?",
+   "premises": [
+    "sargayogāt means by creation-yoga",
+    "paro means beyond",
+    "bhavet means becomes"
+   ],
+   "inference": "Through creation-yoga it becomes beyond.",
+   "uncertainties": [
+    "subject implied"
+   ],
+   "plain_english": "Through creation-yoga it becomes beyond."
+  },
+  {
+   "verse": 2068,
+   "rows": [
+    {
+     "surface": "mahāgaṇapatiḥ",
+     "gloss": "mahāgaṇapati",
+     "grounds": "deity name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devavanditā",
+     "gloss": "god-venerated",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is mahāgaṇapati declared as?",
+   "premises": [
+    "mahāgaṇapatiḥ names deity",
+    "prokto means declared",
+    "devatā means deity",
+    "devavanditā means god-venerated"
+   ],
+   "inference": "Mahāgaṇapati is declared as the god-venerated deity.",
+   "uncertainties": [
+    "exact ritual role"
+   ],
+   "plain_english": "Mahāgaṇapati is declared, deity venerated by gods."
+  },
+  {
+   "verse": 2069,
+   "rows": [
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varadānte",
+     "gloss": "varadā-end",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative of vad",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should one say again afterwards at the varadā end?",
+   "premises": [
+    "paścāt means afterwards",
+    "varadānte means at varadā end",
+    "vadet means should say",
+    "punaḥ means again"
+   ],
+   "inference": "One should say again at the varadā end.",
+   "uncertainties": [
+    "object omitted"
+   ],
+   "plain_english": "Afterwards, at the varadā end, one should say again."
+  },
+  {
+   "verse": 2070,
+   "rows": [
+    {
+     "surface": "ṣaḍviṃśatyakṣaro",
+     "gloss": "twenty-six-syllabled",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhajatāṃ",
+     "gloss": "worshippers",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "surapādapaḥ",
+     "gloss": "divine-tree",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the twenty-six-syllabled mantra for worshippers?",
+   "premises": [
+    "ṣaḍviṃśatyakṣaro means twenty-six-syllabled",
+    "mantraḥ means mantra",
+    "bhajatāṃ means worshippers",
+    "surapādapaḥ means divine-tree"
+   ],
+   "inference": "The twenty-six-syllabled mantra is a divine tree for worshippers.",
+   "uncertainties": [
+    "exact surapādapaḥ metaphor"
+   ],
+   "plain_english": "The twenty-six-syllabled mantra is a divine tree for worshippers."
+  },
+  {
+   "verse": 2071,
+   "rows": [
+    {
+     "surface": "vighneśvaraḥ",
+     "gloss": "vighneśvara",
+     "grounds": "deity name",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg"
+    },
+    {
+     "surface": "bhajatāṃ",
+     "gloss": "worshippers",
+     "grounds": "genitive plural",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "sarvakāmadaḥ",
+     "gloss": "all-desires-giver",
+     "grounds": "compound",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is vighneśvara declared to be for worshippers?",
+   "premises": [
+    "vighneśvaraḥ names deity",
+    "prokto means declared",
+    "bhajatāṃ means worshippers",
+    "sarvakāmadaḥ means all-desires-giver"
+   ],
+   "inference": "Vighneśvara is declared as all-desires-giver for worshippers.",
+   "uncertainties": [
+    "exact worship context"
+   ],
+   "plain_english": "Vighneśvara is declared, all-desires-giver for worshippers."
+  },
+  {
+   "verse": 2072,
+   "rows": [
+    {
+     "surface": "ṅe'ntam",
+     "gloss": "ṅe-ending",
+     "grounds": "sandhi-fused compound",
+     "morph": "adj.acc.sg"
+    },
+    {
+     "surface": "agnivadhūḥ",
+     "gloss": "fire-wife",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prokto",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "pp.nom.sg"
+    },
+    {
+     "surface": "mantro'yaṃ",
+     "gloss": "this-mantra",
+     "grounds": "sandhi-fused compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvādaśākṣaraḥ",
+     "gloss": "twelve-syllabled",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg"
+    }
+   ],
+   "question": "What is this twelve-syllabled mantra with ṅe-ending fire-wife?",
+   "premises": [
+    "ṅe'ntam means ṅe-ending",
+    "agnivadhūḥ means fire-wife",
+    "prokto means declared",
+    "mantro'yaṃ means this mantra",
+    "dvādaśākṣaraḥ means twelve-syllabled"
+   ],
+   "inference": "This twelve-syllabled mantra is declared with ṅe-ending fire-wife.",
+   "uncertainties": [
+    "fused sandhi"
+   ],
+   "plain_english": "This twelve-syllabled mantra is declared, ṅe-ending fire-wife."
+  },
+  {
+   "verse": 2073,
+   "rows": [
+    {
+     "surface": "tantre",
+     "gloss": "in-tantra",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śaktigaṇādhipaḥ",
+     "gloss": "śakti-gaṇa-lord",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is called śakti-gaṇa-lord in tantra by name?",
+   "premises": [
+    "tantre means in tantra",
+    "nāmnā means by name",
+    "śaktigaṇādhipaḥ means śakti-gaṇa-lord"
+   ],
+   "inference": "In tantra, by name, it is śakti-gaṇa-lord.",
+   "uncertainties": [
+    "referent of śaktigaṇādhipaḥ"
+   ],
+   "plain_english": "In tantra, by name, śakti-gaṇa-lord."
+  },
+  {
+   "verse": 2074,
+   "rows": [
+    {
+     "surface": "pūrvamuktāḥ",
+     "gloss": "before-spoken",
+     "grounds": "past participle",
+     "morph": "pp.nom.pl"
+    },
+    {
+     "surface": "syurasya",
+     "gloss": "may-be-of-this",
+     "grounds": "sandhi-fused optative",
+     "morph": "3.pl.act-opt"
+    },
+    {
+     "surface": "mantrasya",
+     "gloss": "mantra's",
+     "grounds": "genitive",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What may be before-spoken of this mantra in order?",
+   "premises": [
+    "pūrvamuktāḥ means before-spoken",
+    "syurasya means may be of this",
+    "mantrasya means mantra's",
+    "vai means indeed",
+    "kramāt means in order"
+   ],
+   "inference": "The before-spoken elements may belong to this mantra in order.",
+   "uncertainties": [
+    "fused sandhi in syurasya"
+   ],
+   "plain_english": "Indeed, the before-spoken may be of this mantra in order."
+  }
+ ]
+}

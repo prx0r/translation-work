@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p53",
+ "items": [
+  {
+   "verse": 1325,
+   "rows": [
+    {
+     "surface": "sarva+bhūtān",
+     "gloss": "all-beings",
+     "grounds": "compound object denoting all beings targeted by the mantra action",
+     "morph": "sarva+bhūta-tatpurusha.acc.pl.m"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence after the preceding utterance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūrcam",
+     "gloss": "kūrca-syllable",
+     "grounds": "mantra syllable to be uttered; kept as named syllable",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "astra+ante",
+     "gloss": "at-weapon-end",
+     "grounds": "compound indicating placement at the end of the weapon mantra",
+     "morph": "astra+anta-tatpurusha.loc.sg.n"
+    },
+    {
+     "surface": "bhūta+māraṇam",
+     "gloss": "being-slaying",
+     "grounds": "compound expressing the purpose or effect of the utterance",
+     "morph": "bhūta+māraṇa-tatpurusha.acc.sg.n"
+    }
+   ],
+   "question": "Which syllable placed at the weapon mantra's end causes the slaying of all beings?",
+   "premises": [
+    "The instruction continues the preceding mantra formula.",
+    "The kūrca syllable is uttered thereafter.",
+    "The syllable is placed at the end of the weapon mantra.",
+    "The utterance is directed toward the slaying of all beings."
+   ],
+   "inference": "Uttering the kūrca syllable at the end of the weapon mantra effects the slaying of all beings.",
+   "uncertainties": [],
+   "plain_english": "Then utter the kūrca syllable at the end of the weapon mantra for the slaying of all beings."
+  }
+ ]
+}

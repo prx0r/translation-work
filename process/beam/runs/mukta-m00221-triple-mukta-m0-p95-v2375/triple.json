@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "yad",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing the existent",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "asti",
+     "gloss": "exists",
+     "grounds": "verb of being",
+     "morph": "3.sg.act-pres + as"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pointing to the existent",
+     "morph": "neut.nom.sg"
+    },
+    {
+     "surface": "citiḥ",
+     "gloss": "consciousness",
+     "grounds": "subject identification of all that exists",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker closing the teaching",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jānīhi",
+     "gloss": "know",
+     "grounds": "imperative instruction to the disciple",
+     "morph": "2.sg.act-imp + jñā"
+    },
+    {
+     "surface": "bhṛgu+nandana",
+     "gloss": "son-of-bhrgu",
+     "grounds": "vocative address to Bhrgu's son",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Is every existent thing ultimately identical with consciousness?",
+   "premises": [
+    "whatever exists is consciousness",
+    "the disciple is told to know this",
+    "the teaching addresses Bhrgu's son"
+   ],
+   "inference": "The verse identifies all existence with consciousness and commands recognition of that identity.",
+   "uncertainties": [
+    "exact vocative force of bhṛgu+nandana",
+    "whether tat is neuter or masculine in context"
+   ],
+   "plain_english": "Whatever exists is consciousness; know this, son of Bhrgu."
+  }
+ ]
+}

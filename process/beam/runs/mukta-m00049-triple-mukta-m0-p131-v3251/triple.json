@@ -1,0 +1,975 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3251,
+   "rows": [
+    {
+     "surface": "svāhānte",
+     "gloss": "ending-with-svāhā",
+     "grounds": "compound describing a mantra ending in svāhā",
+     "morph": "compound: svāhā+anta, m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāmantre",
+     "gloss": "in-such-mantra",
+     "grounds": "compound referring to a mantra of that kind",
+     "morph": "compound: tathā+mantra, m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyād",
+     "gloss": "one-should-give",
+     "grounds": "prescriptive verb governing the offering",
+     "morph": "3.sg.act-optative √dā"
+    },
+    {
+     "surface": "vahnivallabhām",
+     "gloss": "fire-beloved",
+     "grounds": "epithet for svāhā as beloved of fire",
+     "morph": "compound: vahni+vallabhā, f.acc.sg"
+    }
+   ],
+   "question": "May the term svāhā be added to a mantra that already ends with svāhā?",
+   "premises": [
+    "A mantra may already end with svāhā.",
+    "Svāhā is the beloved of fire.",
+    "The rule prohibits giving svāhā again in such a mantra."
+   ],
+   "inference": "Even in a mantra ending with svāhā, one must not append svāhā again.",
+   "uncertainties": [],
+   "plain_english": "Even in a mantra that already ends with svāhā, one should not add svāhā, the beloved of fire, again."
+  },
+  {
+   "verse": 3252,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the recipients or deities previously mentioned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "varṇānurūpeṇa",
+     "gloss": "according-to-class",
+     "grounds": "compound indicating conformity to class or color",
+     "morph": "compound: varṇa+anurūpa, n.ins.sg"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negated alternative manner",
+     "morph": "compound: na+anyathā, (indecl.)"
+    },
+    {
+     "surface": "prītaye",
+     "gloss": "for-satisfaction",
+     "grounds": "purpose of the offering",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "it-should-be",
+     "grounds": "prescriptive result",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "By what standard must offerings be arranged to secure the satisfaction of the recipients?",
+   "premises": [
+    "Offerings are made for the satisfaction of those recipients.",
+    "An arrangement according to their class is specified.",
+    "Any other arrangement is excluded."
+   ],
+   "inference": "Offerings should be made according to the recipients’ class and not otherwise for their satisfaction.",
+   "uncertainties": [
+    "varṇa may refer to class, color, or category depending on ritual context."
+   ],
+   "plain_english": "For their satisfaction, it should be done according to their class, and not otherwise."
+  },
+  {
+   "verse": 3253,
+   "rows": [
+    {
+     "surface": "puṣpair",
+     "gloss": "with-flowers",
+     "grounds": "ritual offering material",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "uccāvacair",
+     "gloss": "various",
+     "grounds": "indicates diversity of kinds",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "yadvā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "compound: yad+vā, (indecl.)"
+    },
+    {
+     "surface": "samidbhir",
+     "gloss": "with-fuel-sticks",
+     "grounds": "ritual fuel for oblation",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "homam",
+     "gloss": "oblation",
+     "grounds": "fire offering act",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive ritual action",
+     "morph": "3.sg.act-optative √ā-car"
+    }
+   ],
+   "question": "What materials may be used to perform the prescribed fire oblation?",
+   "premises": [
+    "A fire oblation is to be performed.",
+    "Various flowers are permitted as materials.",
+    "Fuel sticks are permitted as an alternative."
+   ],
+   "inference": "One should perform the oblation with various flowers or with fuel sticks.",
+   "uncertainties": [],
+   "plain_english": "One should perform the oblation with various flowers or with fuel sticks."
+  },
+  {
+   "verse": 3254,
+   "rows": [
+    {
+     "surface": "pratiṣṭhāyāṃ",
+     "gloss": "in-consecration",
+     "grounds": "ritual context of installation or consecration",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "lohitākṣaḥ",
+     "gloss": "red-eyed",
+     "grounds": "epithet naming a form or mantra aspect",
+     "morph": "compound: lohita+akṣa, m.nom.sg"
+    },
+    {
+     "surface": "śatruhā",
+     "gloss": "enemy-slayer",
+     "grounds": "epithet indicating destructive power against enemies",
+     "morph": "compound: śatru+han, m.nom.sg"
+    },
+    {
+     "surface": "krūrakarmaṇi",
+     "gloss": "in-cruel-act",
+     "grounds": "ritual context involving fierce or harmful action",
+     "morph": "compound: krūra+karman, n.loc.sg"
+    }
+   ],
+   "question": "In which ritual contexts are the red-eyed enemy-slaying forms invoked?",
+   "premises": [
+    "Consecration is named as one ritual context.",
+    "A cruel or fierce act is named as another context.",
+    "The red-eyed enemy-slayer is associated with these contexts."
+   ],
+   "inference": "The red-eyed enemy-slayer is invoked in consecration and in cruel acts.",
+   "uncertainties": [
+    "The subject may be a mantra, deity, or ritual application; the verse is elliptical."
+   ],
+   "plain_english": "In consecration and in a cruel act, the red-eyed enemy-slayer is invoked."
+  },
+  {
+   "verse": 3255,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks conclusion of a quoted or stated formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣa",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the preceding mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rāhor",
+     "gloss": "of-rāhu",
+     "grounds": "names the planetary deity Rāhu",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "manur",
+     "gloss": "mantra",
+     "grounds": "sacred formula",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "states that the mantra has been set forth",
+     "morph": "m.nom.sg past-participle √ud-ā-hṛ"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "told",
+     "grounds": "reinforces that the mantra has been explained",
+     "morph": "m.nom.sg past-participle √kath"
+    }
+   ],
+   "question": "What concluding identification is given for the mantra previously set forth for Rāhu?",
+   "premises": [
+    "A mantra has been presented in the preceding context.",
+    "It is explicitly attributed to Rāhu.",
+    "It is declared and told as such."
+   ],
+   "inference": "Thus this is declared and told as the mantra of Rāhu.",
+   "uncertainties": [],
+   "plain_english": "Thus this has been declared and told as the mantra of Rāhu."
+  },
+  {
+   "verse": 3256,
+   "rows": [
+    {
+     "surface": "dikpānāṃ",
+     "gloss": "of-direction-guardians",
+     "grounds": "guardians of the directions",
+     "morph": "compound: dik+pā, m.gen.pl"
+    },
+    {
+     "surface": "daśamantrāḥ",
+     "gloss": "ten-mantras",
+     "grounds": "a set of ten mantras",
+     "morph": "compound: daśan+mantra, m.nom.pl"
+    },
+    {
+     "surface": "samīritāḥ",
+     "gloss": "spoken",
+     "grounds": "states that the mantras have been uttered",
+     "morph": "m.nom.pl past-participle √sam-īr"
+    },
+    {
+     "surface": "kathitāḥ",
+     "gloss": "told",
+     "grounds": "reinforces that they have been explained",
+     "morph": "m.nom.pl past-participle √kath"
+    }
+   ],
+   "question": "How many mantras have been presented for the guardians of the directions?",
+   "premises": [
+    "The guardians of the directions are the subject.",
+    "A set of ten mantras is mentioned.",
+    "These mantras are said to have been spoken and told."
+   ],
+   "inference": "The ten mantras of the guardians of the directions have been spoken and told.",
+   "uncertainties": [],
+   "plain_english": "The ten mantras of the guardians of the directions have been spoken and told."
+  },
+  {
+   "verse": 3257,
+   "rows": [
+    {
+     "surface": "vahnivallabhām",
+     "gloss": "fire-beloved",
+     "grounds": "epithet for svāhā",
+     "morph": "compound: vahni+vallabhā, f.acc.sg"
+    },
+    {
+     "surface": "svāheti",
+     "gloss": "svāhā-thus",
+     "grounds": "quotes the word svāhā; internal sandhi svāhā+iti",
+     "morph": "compound: svāhā+iti, (indecl.)"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "identifies the utterance as a word or term",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which specific word is identified as the beloved of fire in mantra usage?",
+   "premises": [
+    "The beloved of fire is named.",
+    "The utterance svāhā is explicitly quoted.",
+    "This utterance is identified as a word."
+   ],
+   "inference": "The word svāhā is identified as the beloved of fire.",
+   "uncertainties": [],
+   "plain_english": "The word svāhā is the beloved of fire."
+  },
+  {
+   "verse": 3258,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers back to previously mentioned entities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "grahādīnām",
+     "gloss": "planets-and-others",
+     "grounds": "compound indicating planets and similar beings",
+     "morph": "compound: graha+ādi, m.gen.pl"
+    }
+   ],
+   "question": "Which group of beings is being referred to as the recipients in this context?",
+   "premises": [
+    "A group is referred to by a pronoun.",
+    "That group is specified as planets and others.",
+    "The reference is possessive or relational."
+   ],
+   "inference": "The reference is to those planets and other such beings.",
+   "uncertainties": [
+    "The verse is fragmentary and depends on surrounding context for full syntactic role."
+   ],
+   "plain_english": "Of them, meaning the planets and others."
+  },
+  {
+   "verse": 3259,
+   "rows": [
+    {
+     "surface": "samidbhiḥ",
+     "gloss": "with-fuel-sticks",
+     "grounds": "ritual fuel sticks",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "kāṣṭhaiḥ",
+     "gloss": "with-wood",
+     "grounds": "clarifies samidbhiḥ as pieces of wood",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "What material is clarified as the meaning of fuel sticks in the ritual?",
+   "premises": [
+    "Fuel sticks are mentioned as ritual material.",
+    "Wood is given as an explanatory equivalent.",
+    "Both terms refer to the same offering substance."
+   ],
+   "inference": "Fuel sticks means pieces of wood.",
+   "uncertainties": [],
+   "plain_english": "With fuel sticks, that is, with pieces of wood."
+  },
+  {
+   "verse": 3260,
+   "rows": [
+    {
+     "surface": "grahayāgaṃ",
+     "gloss": "planet-sacrifice",
+     "grounds": "ritual offering to the planets",
+     "morph": "compound: graha+yāga, m.acc.sg"
+    },
+    {
+     "surface": "prakurvāṇo",
+     "gloss": "performing",
+     "grounds": "agent engaged in carrying out the rite",
+     "morph": "m.nom.sg present-participle middle √pra-kṛ"
+    },
+    {
+     "surface": "vācchitārtham",
+     "gloss": "desired-object",
+     "grounds": "the wished-for aim or result",
+     "morph": "compound: vāñchita+artha, m.acc.sg"
+    },
+    {
+     "surface": "avāpnuyāt",
+     "gloss": "one-may-obtain",
+     "grounds": "states the attainable result",
+     "morph": "3.sg.act-optative √ava-āp"
+    }
+   ],
+   "question": "What result can be obtained by properly performing the sacrifice to the planets?",
+   "premises": [
+    "A person performs the planet sacrifice.",
+    "The sacrifice is directed toward a desired aim.",
+    "The ritual yields an attainable result."
+   ],
+   "inference": "One who performs the planet sacrifice may obtain the desired object.",
+   "uncertainties": [],
+   "plain_english": "One who performs the planet sacrifice may obtain the desired object."
+  },
+  {
+   "verse": 3261,
+   "rows": [
+    {
+     "surface": "vāstoryāge",
+     "gloss": "in-vāstu-rite",
+     "grounds": "ritual for the site or dwelling",
+     "morph": "compound: vāstu+yāga, m.loc.sg"
+    },
+    {
+     "surface": "grahāṇāñ",
+     "gloss": "of-planets",
+     "grounds": "refers to the planets; final ñ indicates sandhi form",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvadeva",
+     "gloss": "in-that-way-indeed",
+     "grounds": "indicates the same procedure applies",
+     "morph": "compound: tadvat+eva, (indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "states ritual injunction",
+     "morph": "3.sg.pass-present √vi-dhā"
+    }
+   ],
+   "question": "How is the ritual procedure for the planets prescribed within the vāstu rite?",
+   "premises": [
+    "The vāstu rite is the ritual context.",
+    "The planets are included in that context.",
+    "The same procedure is prescribed for them."
+   ],
+   "inference": "In the vāstu rite, the same procedure is prescribed for the planets as well.",
+   "uncertainties": [],
+   "plain_english": "In the vāstu rite, the same procedure is prescribed for the planets as well."
+  },
+  {
+   "verse": 3262,
+   "rows": [
+    {
+     "surface": "tantreṇa",
+     "gloss": "by-common-procedure",
+     "grounds": "shared ritual procedure applied across acts",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "refers to that ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devārcā",
+     "gloss": "deity-worship",
+     "grounds": "worship of the deity",
+     "morph": "compound: deva+arcā, f.nom.sg"
+    },
+    {
+     "surface": "pitṛśrāddha",
+     "gloss": "ancestor-śrāddha",
+     "grounds": "ritual offering to ancestors",
+     "morph": "compound: pitṛ+śrāddha, n.nom.sg"
+    },
+    {
+     "surface": "āgnisaṃskriyāḥ",
+     "gloss": "fire-rites",
+     "grounds": "rites performed with fire",
+     "morph": "compound: āgni+saṃskriyā, f.nom.pl"
+    }
+   ],
+   "question": "Which ritual acts are to be carried out there by a shared common procedure?",
+   "premises": [
+    "A common procedure is specified.",
+    "Deity worship is included among the acts.",
+    "Ancestor śrāddha and fire rites are included."
+   ],
+   "inference": "There, deity worship, ancestor śrāddha, and fire rites are performed by the common procedure.",
+   "uncertainties": [
+    "āgnisaṃskriyāḥ may cover several fire-related consecratory acts."
+   ],
+   "plain_english": "There, deity worship, the ancestral śrāddha, and the fire rites are to be done by the common procedure."
+  },
+  {
+   "verse": 3263,
+   "rows": [
+    {
+     "surface": "vāhanāsanayānāni",
+     "gloss": "vehicle-seat-conveyance",
+     "grounds": "items for transport and seating",
+     "morph": "compound: vāhana+āsana+yāna, n.nom.pl"
+    },
+    {
+     "surface": "vāso'laṅkaraṇāni",
+     "gloss": "garment-ornament",
+     "grounds": "clothing and ornaments; internal sandhi vāsaḥ+alaṅkaraṇāni",
+     "morph": "compound: vāsas+alaṅkaraṇa, n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What categories of items are included among the offerings or ritual articles listed here?",
+   "premises": [
+    "Vehicles, seats, and conveyances are listed.",
+    "Garments and ornaments are listed.",
+    "These categories are grouped together."
+   ],
+   "inference": "Vehicles, seats, conveyances, garments, and ornaments are included among the listed items.",
+   "uncertainties": [],
+   "plain_english": "Vehicles, seats, conveyances, garments, and ornaments are included."
+  },
+  {
+   "verse": 3264,
+   "rows": [
+    {
+     "surface": "asaṃskṛtāni",
+     "gloss": "unconsecrated",
+     "grounds": "items not ritually prepared or consecrated",
+     "morph": "n.acc.pl past-participle negative a+√sam-kṛ"
+    },
+    {
+     "surface": "devāya",
+     "gloss": "to-deity",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradadyuḥ",
+     "gloss": "they-should-give",
+     "grounds": "prescriptive prohibition on giving",
+     "morph": "3.pl.act-optative √pra-dā"
+    },
+    {
+     "surface": "phalepsavaḥ",
+     "gloss": "fruit-desiring",
+     "grounds": "those who desire the fruit of the rite",
+     "morph": "compound: phala+īpsu, m.nom.pl"
+    }
+   ],
+   "question": "Why must those seeking ritual results avoid offering unconsecrated items to the deity?",
+   "premises": [
+    "Some items may be unconsecrated.",
+    "The deity is the intended recipient of offerings.",
+    "Those who desire the fruit of the rite are instructed not to give such items."
+   ],
+   "inference": "Those desiring the fruit should not offer unconsecrated items to the deity.",
+   "uncertainties": [],
+   "plain_english": "Those who desire the fruit should not give unconsecrated things to the deity."
+  },
+  {
+   "verse": 3265,
+   "rows": [
+    {
+     "surface": "vidhivākyānusāreṇa",
+     "gloss": "according-to-rule-statement",
+     "grounds": "in accordance with prescriptive scriptural statements",
+     "morph": "compound: vidhi+vākya+anusāra, m.ins.sg"
+    },
+    {
+     "surface": "sampūrṇasukṛtāptaye",
+     "gloss": "for-complete-merit-attainment",
+     "grounds": "purpose of obtaining full merit",
+     "morph": "compound: sampūrṇa+sukṛta+āpti, f.dat.sg"
+    }
+   ],
+   "question": "For what purpose must ritual actions follow the statements of prescribed rule?",
+   "premises": [
+    "Actions are to follow prescriptive rule statements.",
+    "The stated purpose is attainment of complete merit.",
+    "Conformity to rule is linked to that attainment."
+   ],
+   "inference": "One should act according to the rule statements in order to attain complete merit.",
+   "uncertainties": [
+    "The verse is elliptical and supplies purpose without an explicit main verb."
+   ],
+   "plain_english": "This is to be done according to the statements of the rule, for the attainment of complete merit."
+  },
+  {
+   "verse": 3266,
+   "rows": [
+    {
+     "surface": "sampradānābhidhāñ",
+     "gloss": "recipient-name",
+     "grounds": "the name of the recipient; final ñ indicates sandhi form",
+     "morph": "compound: sampradāna+abhidhā, f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-uttered",
+     "grounds": "prior act of speaking the name",
+     "morph": "absolutive √vac"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior act of giving the offering",
+     "morph": "absolutive √dā"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "indicates correct performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result of the ritual act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-may-obtain",
+     "grounds": "states the attainable result",
+     "morph": "3.sg.act-optative √labh"
+    }
+   ],
+   "question": "What ritual sequence secures the proper fruit of giving to a named recipient?",
+   "premises": [
+    "The recipient’s name must be uttered.",
+    "The offering must then be given properly.",
+    "Proper performance yields a fruit."
+   ],
+   "inference": "By uttering the recipient’s name and giving properly, one may obtain the fruit.",
+   "uncertainties": [],
+   "plain_english": "Having uttered the recipient’s name and given properly, one may obtain the fruit."
+  },
+  {
+   "verse": 3267,
+   "rows": [
+    {
+     "surface": "kathyante",
+     "gloss": "are-told",
+     "grounds": "introduces the teaching of mantras",
+     "morph": "3.pl.pass-present √kath"
+    },
+    {
+     "surface": "prokṣaṇe",
+     "gloss": "in-sprinkling",
+     "grounds": "ritual context of sprinkling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "sacred formulas to be used",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prayojyā",
+     "gloss": "to-be-used",
+     "grounds": "indicates required application",
+     "morph": "m.nom.pl future-passive-participle √pra-yuj"
+    },
+    {
+     "surface": "brahmavidyayā",
+     "gloss": "with-brahma-knowledge",
+     "grounds": "mantra or knowledge associated with Brahman",
+     "morph": "compound: brahma+vidyā, f.ins.sg"
+    }
+   ],
+   "question": "Which mantras are prescribed for use during the rite of sprinkling?",
+   "premises": [
+    "The rite of sprinkling is the context.",
+    "Mantras are to be used in that rite.",
+    "They are to be used with brahmavidyā."
+   ],
+   "inference": "In sprinkling, the mantras to be used are told as those employed with brahmavidyā.",
+   "uncertainties": [
+    "brahmavidyā may refer to a specific mantra or to sacred knowledge; context is limited."
+   ],
+   "plain_english": "The mantras to be used in sprinkling are told as those employed with brahmavidyā."
+  },
+  {
+   "verse": 3268,
+   "rows": [
+    {
+     "surface": "saṃpradānābhidhāṃ",
+     "gloss": "recipient-name",
+     "grounds": "the name of the recipient",
+     "morph": "compound: sampradāna+abhidhā, f.acc.sg"
+    },
+    {
+     "surface": "sampradānanāmadheyam",
+     "gloss": "recipient-name",
+     "grounds": "synonymous expression for the recipient’s name",
+     "morph": "compound: sampradāna+nāmadheya, n.acc.sg"
+    }
+   ],
+   "question": "What synonymous terms identify the recipient’s name in the ritual formula?",
+   "premises": [
+    "One term for the recipient’s name is given.",
+    "Another synonymous term is given.",
+    "Both refer to the same identifying element."
+   ],
+   "inference": "The recipient’s name is identified by the synonymous terms saṃpradānābhidhā and sampradānanāmadheya.",
+   "uncertainties": [],
+   "plain_english": "The recipient’s name is called saṃpradānābhidhā, that is, sampradānanāmadheya."
+  },
+  {
+   "verse": 3269,
+   "rows": [
+    {
+     "surface": "brahmavidyayā",
+     "gloss": "with-brahma-knowledge",
+     "grounds": "mantra or knowledge associated with Brahman",
+     "morph": "compound: brahma+vidyā, f.ins.sg"
+    },
+    {
+     "surface": "gāyatryā",
+     "gloss": "with-gāyatrī",
+     "grounds": "the Gāyatrī mantra",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "indicates accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With which mantra is brahmavidyā to be joined in the prescribed rite?",
+   "premises": [
+    "Brahmavidyā is mentioned.",
+    "The Gāyatrī is mentioned.",
+    "They are to be used together."
+   ],
+   "inference": "Brahmavidyā is to be used together with the Gāyatrī.",
+   "uncertainties": [],
+   "plain_english": "Together with brahmavidyā and the Gāyatrī."
+  },
+  {
+   "verse": 3270,
+   "rows": [
+    {
+     "surface": "prokṣaṇe",
+     "gloss": "in-sprinkling",
+     "grounds": "ritual context of sprinkling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "of-you",
+     "grounds": "addressed to the recipient or deity",
+     "morph": "pronoun gen.sg"
+    },
+    {
+     "surface": "tṛpyantu",
+     "gloss": "may-be-satisfied",
+     "grounds": "wish for satisfaction",
+     "morph": "3.pl.act-imperative √tṛp"
+    },
+    {
+     "surface": "jalabhūcarakhecarāḥ",
+     "gloss": "water-earth-sky-movers",
+     "grounds": "beings moving in water, on earth, and in the sky",
+     "morph": "compound: jala+bhūcara+khecara, m.nom.pl"
+    }
+   ],
+   "question": "Which beings are invoked to be satisfied during the sprinkling rite?",
+   "premises": [
+    "The context is sprinkling.",
+    "A wish for satisfaction is expressed.",
+    "Beings moving in water, on earth, and in the sky are named."
+   ],
+   "inference": "In sprinkling, may the beings of water, earth, and sky be satisfied for you.",
+   "uncertainties": [
+    "tava may refer to a deity, ancestor, or ritual recipient depending on context."
+   ],
+   "plain_english": "In the sprinkling, may the beings who move in water, on earth, and in the sky be satisfied for you."
+  },
+  {
+   "verse": 3271,
+   "rows": [
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "object addressed in the rite",
+     "morph": "pronoun acc.sg"
+    },
+    {
+     "surface": "prokṣayāmi",
+     "gloss": "i-sprinkle",
+     "grounds": "performative ritual utterance",
+     "morph": "1.sg.act-present √prokṣ"
+    },
+    {
+     "surface": "toyena",
+     "gloss": "with-water",
+     "grounds": "material used for sprinkling",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "prītaye",
+     "gloss": "for-satisfaction",
+     "grounds": "purpose of the sprinkling",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "wish or command directed to the recipient",
+     "morph": "2.sg.act-imperative √bhū"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "indicates continual duration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What performative declaration accompanies sprinkling with water for lasting satisfaction?",
+   "premises": [
+    "The speaker sprinkles the addressee with water.",
+    "The act is done for satisfaction.",
+    "A wish for continual well-being is expressed."
+   ],
+   "inference": "The speaker declares, I sprinkle you with water for satisfaction; be always satisfied.",
+   "uncertainties": [],
+   "plain_english": "I sprinkle you with water for your satisfaction; be pleased always."
+  },
+  {
+   "verse": 3272,
+   "rows": [
+    {
+     "surface": "iṣṭhakādisamudbhūta",
+     "gloss": "brick-and-other-produced",
+     "grounds": "something produced from bricks and similar materials",
+     "morph": "compound: iṣṭhakā+ādi+samudbhūta, m.nom.sg"
+    },
+    {
+     "surface": "vaktavyantv",
+     "gloss": "to-be-said",
+     "grounds": "indicates what must be spoken; form appears compressed",
+     "morph": "future-passive-participle √vac with particle"
+    },
+    {
+     "surface": "iṣṭakāmaye",
+     "gloss": "in-brick-context",
+     "grounds": "context consisting of or relating to bricks",
+     "morph": "compound: iṣṭakā+maya, m.loc.sg"
+    }
+   ],
+   "question": "What must be spoken when the ritual object is produced from bricks or similar materials?",
+   "premises": [
+    "An object produced from bricks and similar materials is considered.",
+    "A specific utterance is required.",
+    "The requirement applies in a brick-related context."
+   ],
+   "inference": "In a context of brick-made objects, what is to be said must be stated accordingly.",
+   "uncertainties": [
+    "vaktavyantv is an unusual compressed form; the exact segmentation and syntax are unclear."
+   ],
+   "plain_english": "In the case of something made of bricks and the like, what is to be said should be stated in that brick context."
+  },
+  {
+   "verse": 3273,
+   "rows": [
+    {
+     "surface": "yacchantu",
+     "gloss": "may-they-grant",
+     "grounds": "wish or prayer for granting",
+     "morph": "3.pl.act-imperative √yam"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the boon",
+     "morph": "pronoun dat.sg"
+    },
+    {
+     "surface": "akhilān",
+     "gloss": "all",
+     "grounds": "totality of desires",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kāmān",
+     "gloss": "desires",
+     "grounds": "objects of wish or desire",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prokṣitās",
+     "gloss": "sprinkled",
+     "grounds": "entities consecrated by sprinkling",
+     "morph": "m.nom.pl past-participle √prokṣ"
+    },
+    {
+     "surface": "tīrthavāribhiḥ",
+     "gloss": "with-holy-waters",
+     "grounds": "waters from sacred places used in sprinkling",
+     "morph": "compound: tīrtha+vāri, n.ins.pl"
+    }
+   ],
+   "question": "What boon is requested from entities sprinkled with sacred waters?",
+   "premises": [
+    "Entities have been sprinkled with holy waters.",
+    "A prayer is addressed to them.",
+    "The prayer asks for all desires to be granted."
+   ],
+   "inference": "May those sprinkled with holy waters grant me all desires.",
+   "uncertainties": [],
+   "plain_english": "May those sprinkled with holy waters grant me all my desires."
+  },
+  {
+   "verse": 3274,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent performing the sprinkling",
+     "morph": "pronoun ins.sg"
+    },
+    {
+     "surface": "saṃprokṣitaḥ",
+     "gloss": "well-sprinkled",
+     "grounds": "thoroughly consecrated by sprinkling",
+     "morph": "m.nom.sg past-participle √sam-prokṣ"
+    },
+    {
+     "surface": "seto",
+     "gloss": "o-bridge",
+     "grounds": "vocative address to a bridge or embankment",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "yathoktaphalado",
+     "gloss": "as-stated-fruit-giving",
+     "grounds": "giver of the fruit as previously stated",
+     "morph": "compound: yathokta+phala+da, m.nom.sg"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "be",
+     "grounds": "wish or command directed to the bridge",
+     "morph": "2.sg.act-imperative √bhū"
+    }
+   ],
+   "question": "What result is requested from a bridge after it has been ritually sprinkled?",
+   "premises": [
+    "The bridge has been well sprinkled by the speaker.",
+    "The bridge is directly addressed.",
+    "It is asked to give the fruit as previously stated."
+   ],
+   "inference": "The sprinkled bridge is asked to become the giver of the stated fruit.",
+   "uncertainties": [],
+   "plain_english": "O bridge, well sprinkled by me, be the giver of the fruit as stated."
+  }
+ ]
+}

@@ -1,0 +1,1308 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "position marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "payas",
+     "gloss": "water",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manur",
+     "gloss": "mantra",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dvaya+ṣṭa+akṣaraḥ",
+     "gloss": "two-eight-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllable count is assigned to the water mantra at the end?",
+   "premises": [
+    "ante marks final position",
+    "payas names water",
+    "manur names mantra",
+    "dvaya+ṣṭa+akṣaraḥ counts syllables"
+   ],
+   "inference": "The water mantra at the end is remembered as two-plus-eight syllabled.",
+   "uncertainties": [
+    "exact sandhi of dvaya+ṣṭa+akṣaraḥ not expanded"
+   ],
+   "plain_english": "At the end, the water mantra is remembered as a two-plus-eight-syllabled mantra."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "hmauḥ",
+     "gloss": "hmauḥ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seed-syllables",
+     "grounds": "neuter plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ṣaḍ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many artificial seed syllables are listed with hmauḥ?",
+   "premises": [
+    "hmauḥ is a seed syllable",
+    "ṣaḍ counts six",
+    "kṛtrimāṇi means artificial",
+    "aparāṇi means others"
+   ],
+   "inference": "Six artificial seed syllables, besides others, are listed with hmauḥ.",
+   "uncertainties": [
+    "exact relation of hmauḥ to the six seeds"
+   ],
+   "plain_english": "Hmauḥ and six artificial seed syllables, plus others, are given."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "budhasya",
+     "gloss": "of-Mercury",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "graha+nāthasya",
+     "gloss": "of-planet-lord",
+     "grounds": "compound genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "manus",
+     "gloss": "mantra",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturdaśa+akṣaraḥ",
+     "gloss": "fourteen-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    }
+   ],
+   "question": "What syllable count belongs to Mercury's planet-lord mantra?",
+   "premises": [
+    "budhasya means of Mercury",
+    "graha+nāthasya means planet lord",
+    "manus means mantra",
+    "caturdaśa+akṣaraḥ counts fourteen"
+   ],
+   "inference": "Mercury's planet-lord mantra is fourteen-syllabled.",
+   "uncertainties": [
+    "whether graha+nāthasya is Mercury or generic planet lord"
+   ],
+   "plain_english": "The mantra of Mercury, lord of planets, is fourteen-syllabled."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "ṅa",
+     "gloss": "ṅa",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seed-syllables",
+     "grounds": "neuter plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asatyāni",
+     "gloss": "unreal",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many unreal seed syllables are listed with ṅa?",
+   "premises": [
+    "ṅa is a seed syllable",
+    "sapta counts seven",
+    "asatyāni means unreal",
+    "aparāṇi means others"
+   ],
+   "inference": "Seven unreal seed syllables, plus others, are listed with ṅa.",
+   "uncertainties": [
+    "exact scope of asatyāni"
+   ],
+   "plain_english": "With ṅa, seven unreal seed syllables and others are listed."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "śukrāya",
+     "gloss": "to-Venus",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "position marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśmarī",
+     "gloss": "aśmarī",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vālas",
+     "gloss": "vāla",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "caturdaśa+akṣaraḥ",
+     "gloss": "fourteen-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    }
+   ],
+   "question": "What syllable count is assigned to Venus's mantra at the end?",
+   "premises": [
+    "śukrāya means to Venus",
+    "ante marks final position",
+    "caturdaśa+akṣaraḥ counts fourteen"
+   ],
+   "inference": "Venus's mantra at the end is fourteen-syllabled.",
+   "uncertainties": [
+    "role of aśmarī and vālas in the mantra"
+   ],
+   "plain_english": "For Venus, at the end, the mantra is fourteen-syllabled."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "taraṅga",
+     "gloss": "taraṅga",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "veśye",
+     "gloss": "veśyā",
+     "grounds": "noun",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "cārvaṅgī",
+     "gloss": "cārvaṅgī",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hiṅgu+bījakam",
+     "gloss": "hiṅgu-seed",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What seed is joined with taraṅga and cārvaṅgī?",
+   "premises": [
+    "taraṅga is a named item",
+    "veśye locates context",
+    "saṃyojya means having joined",
+    "hiṅgu+bījakam means hiṅgu seed"
+   ],
+   "inference": "The hiṅgu seed is joined with taraṅga and cārvaṅgī.",
+   "uncertainties": [
+    "exact ritual sense of veśye"
+   ],
+   "plain_english": "Having joined taraṅga and cārvaṅgī, the hiṅgu seed is used."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "graha+adhipataye",
+     "gloss": "to-planet-lord",
+     "grounds": "compound dative",
+     "morph": "compound"
+    },
+    {
+     "surface": "bṛhaspataye",
+     "gloss": "to-Jupiter",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which planet lord is the next instruction directed?",
+   "premises": [
+    "tatas means then",
+    "graha+adhipataye means to planet lord",
+    "bṛhaspataye means to Jupiter"
+   ],
+   "inference": "The next instruction is directed to Jupiter as planet lord.",
+   "uncertainties": [
+    "whether graha+adhipataye is separate from Jupiter"
+   ],
+   "plain_english": "Then, to the planet lord, indeed to Jupiter."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "vāsanā",
+     "gloss": "vāsanā",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paṅkajaṃ",
+     "gloss": "lotus",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "position marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vanaṃ",
+     "gloss": "vana",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What is declared at the end for Śiva?",
+   "premises": [
+    "vāsanā and paṅkajaṃ are named items",
+    "ante marks final position",
+    "proktaṃ means declared",
+    "śive is vocative"
+   ],
+   "inference": "Vāsanā and lotus are declared at the end for Śiva.",
+   "uncertainties": [
+    "exact meaning of vāsanā here"
+   ],
+   "plain_english": "Thus, vāsanā and lotus are declared at the end, O Śiva."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rukmiṇī",
+     "gloss": "Rukmiṇī",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kva",
+     "gloss": "where",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saubhāgyaṃ",
+     "gloss": "good-fortune",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dyau+bhuvoḥ",
+     "gloss": "of-heaven-and-earth",
+     "grounds": "compound genitive dual",
+     "morph": "compound"
+    },
+    {
+     "surface": "antaraṃ",
+     "gloss": "interval",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What great interval is questioned between Rukmiṇī and good fortune?",
+   "premises": [
+    "kva asks where",
+    "rukmiṇī is a goddess name",
+    "saubhāgyaṃ means good fortune",
+    "dyau+bhuvoḥ means heaven and earth",
+    "antaraṃ means interval",
+    "mahat means great"
+   ],
+   "inference": "The verse questions the great interval between Rukmiṇī and good fortune across heaven and earth.",
+   "uncertainties": [
+    "rhetorical force of the double kva"
+   ],
+   "plain_english": "Where is Rukmiṇī, where is good fortune, and what great interval lies between heaven and earth?"
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "praṇavaṃ",
+     "gloss": "praṇava",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sakalā",
+     "gloss": "sakalā",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deva+īśi",
+     "gloss": "O-goddess-of-gods",
+     "grounds": "compound vocative",
+     "morph": "compound"
+    },
+    {
+     "surface": "rukmiṇī",
+     "gloss": "Rukmiṇī",
+     "grounds": "proper noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is joined with sakalā for the goddess of gods?",
+   "premises": [
+    "praṇavaṃ means praṇava",
+    "sakalā is an adjective or name",
+    "deva+īśi means goddess of gods",
+    "rukmiṇī is named",
+    "tathā means likewise"
+   ],
+   "inference": "Praṇava is joined with sakalā for the goddess of gods, likewise Rukmiṇī.",
+   "uncertainties": [
+    "whether sakalā is a mantra name"
+   ],
+   "plain_english": "Praṇava and sakalā, indeed, O goddess of gods, Rukmiṇī likewise."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "candras",
+     "gloss": "moon",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "maṭhaṃ",
+     "gloss": "maṭha",
+     "grounds": "neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "graha+adhipataye",
+     "gloss": "to-planet-lord",
+     "grounds": "compound dative",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence follows the moon and maṭha?",
+   "premises": [
+    "candras means moon",
+    "maṭhaṃ means maṭha",
+    "tatas means then",
+    "paścād means afterwards",
+    "graha+adhipataye means to planet lord"
+   ],
+   "inference": "After the moon and maṭha, the sequence proceeds to the planet lord.",
+   "uncertainties": [
+    "exact ritual order"
+   ],
+   "plain_english": "Moon, maṭha, then afterwards to the planet lord, then."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "position marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīraṃ",
+     "gloss": "water",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcaviṃśa+akṣaras",
+     "gloss": "twenty-five-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllable count is declared for the water mantra at the end?",
+   "premises": [
+    "ante marks final position",
+    "nīraṃ means water",
+    "samākhyātaṃ means declared",
+    "pañcaviṃśa+akṣaras counts twenty-five",
+    "manuḥ means mantra"
+   ],
+   "inference": "The water mantra at the end is declared twenty-five-syllabled.",
+   "uncertainties": [
+    "whether nīraṃ is a distinct mantra name"
+   ],
+   "plain_english": "At the end, the water mantra is declared twenty-five-syllabled."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "nāṭya+bījaṃ",
+     "gloss": "dance-seed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candrāya",
+     "gloss": "to-moon",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "position marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aśmarī",
+     "gloss": "aśmarī",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "smṛtā",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where is the dance seed placed for the moon?",
+   "premises": [
+    "nāṭya+bījaṃ means dance seed",
+    "tatas means then",
+    "madhye means in middle",
+    "candrāya means to moon",
+    "ante marks end",
+    "aśmarī is named",
+    "smṛtā means remembered"
+   ],
+   "inference": "The dance seed is placed in the middle for the moon, with aśmarī remembered at the end.",
+   "uncertainties": [
+    "exact placement of aśmarī"
+   ],
+   "plain_english": "Then the dance seed is in the middle for the moon, and aśmarī is remembered at the end."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "caṃ",
+     "gloss": "caṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seed-syllables",
+     "grounds": "neuter plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many artificial seed syllables are listed with caṃ?",
+   "premises": [
+    "caṃ is a seed syllable",
+    "catvāri counts four",
+    "kṛtrimāṇi means artificial",
+    "aparāṇi means others"
+   ],
+   "inference": "Four artificial seed syllables, plus others, are listed with caṃ.",
+   "uncertainties": [
+    "exact relation of caṃ to the four seeds"
+   ],
+   "plain_english": "With caṃ, four artificial seed syllables and others are listed."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañca+vāṇānāṃ",
+     "gloss": "of-five-arrows",
+     "grounds": "compound genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "grahāḥ",
+     "gloss": "planets",
+     "grounds": "masculine plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pañca",
+     "gloss": "five",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many planets are proclaimed for the five arrows?",
+   "premises": [
+    "ete means these",
+    "pañca+vāṇānāṃ means of five arrows",
+    "grahāḥ means planets",
+    "pañca counts five",
+    "prakīrtitāḥ means proclaimed"
+   ],
+   "inference": "Five planets are proclaimed for the five arrows.",
+   "uncertainties": [
+    "whether five arrows names a deity group"
+   ],
+   "plain_english": "These five planets of the five arrows are indeed proclaimed."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "bhaumāya",
+     "gloss": "to-Mars",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "position marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "payaḥ",
+     "gloss": "water",
+     "grounds": "neuter noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktas",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcadaśa+akṣaraḥ",
+     "gloss": "fifteen-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    }
+   ],
+   "question": "What syllable count is declared for Mars's water mantra at the end?",
+   "premises": [
+    "bhaumāya means to Mars",
+    "ante marks final position",
+    "payaḥ means water",
+    "proktas means declared",
+    "manuḥ means mantra",
+    "pañcadaśa+akṣaraḥ counts fifteen"
+   ],
+   "inference": "Mars's water mantra at the end is declared fifteen-syllabled.",
+   "uncertainties": [
+    "whether payaḥ is a distinct mantra name"
+   ],
+   "plain_english": "For Mars, at the end, the water mantra is declared fifteen-syllabled."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "kaṃ",
+     "gloss": "kaṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seed-syllables",
+     "grounds": "neuter plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many artificial seed syllables are listed with kaṃ?",
+   "premises": [
+    "kaṃ is a seed syllable",
+    "catvāri counts four",
+    "kṛtrimāṇi means artificial",
+    "aparāṇi means others"
+   ],
+   "inference": "Four artificial seed syllables, plus others, are listed with kaṃ.",
+   "uncertainties": [
+    "exact relation of kaṃ to the four seeds"
+   ],
+   "plain_english": "With kaṃ, four artificial seed syllables and others are listed."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "graha+cakravartine",
+     "gloss": "to-planet-emperor",
+     "grounds": "compound dative",
+     "morph": "compound"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śanaiścarāya",
+     "gloss": "to-Saturn",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which planet emperor is the next instruction directed?",
+   "premises": [
+    "graha+cakravartine means to planet emperor",
+    "śanaiścarāya means to Saturn",
+    "tatas means then"
+   ],
+   "inference": "The next instruction is directed to Saturn as planet emperor.",
+   "uncertainties": [
+    "whether graha+cakravartine is separate from Saturn"
+   ],
+   "plain_english": "To the planet emperor, even to Saturn, indeed, then."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "śanaiścarasya",
+     "gloss": "of-Saturn",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "deva+īśi",
+     "gloss": "O-goddess-of-gods",
+     "grounds": "compound vocative",
+     "morph": "compound"
+    },
+    {
+     "surface": "manur",
+     "gloss": "mantra",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "viṃśa+akṣaraḥ",
+     "gloss": "twenty-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "past participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What syllable count is remembered for Saturn's mantra?",
+   "premises": [
+    "śanaiścarasya means of Saturn",
+    "deva+īśi is vocative",
+    "manur means mantra",
+    "viṃśa+akṣaraḥ counts twenty",
+    "smṛtaḥ means remembered"
+   ],
+   "inference": "Saturn's mantra is remembered as twenty-syllabled.",
+   "uncertainties": [
+    "whether deva+īśi addresses the goddess or Saturn"
+   ],
+   "plain_english": "Of Saturn, O goddess of gods, the mantra is remembered as twenty-syllabled."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṭaṅka+dhāriṇe",
+     "gloss": "to-axe-bearer",
+     "grounds": "compound dative",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rāhave",
+     "gloss": "to-Rāhu",
+     "grounds": "dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "havyavāhanaḥ",
+     "gloss": "fire",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "To whom is the axe-bearer instruction directed?",
+   "premises": [
+    "tatas means then",
+    "ṭaṅka+dhāriṇe means to axe bearer",
+    "rāhave means to Rāhu",
+    "havyavāhanaḥ means fire"
+   ],
+   "inference": "The axe-bearer instruction is directed to Rāhu, with fire named.",
+   "uncertainties": [
+    "exact role of havyavāhanaḥ"
+   ],
+   "plain_english": "Then to the axe bearer, and to Rāhu, fire."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "rāhos",
+     "gloss": "of-Rāhu",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "viṃśa+akṣaras",
+     "gloss": "twenty-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    },
+    {
+     "surface": "vālas",
+     "gloss": "vāla",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yathā+abhīṣṭa",
+     "gloss": "as-desired",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "phala+pradaḥ",
+     "gloss": "fruit-giving",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What syllable count and result are assigned to Rāhu's mantra?",
+   "premises": [
+    "rāhos means of Rāhu",
+    "viṃśa+akṣaras counts twenty",
+    "vālas is named",
+    "yathā+abhīṣṭa means as desired",
+    "phala+pradaḥ means fruit giving"
+   ],
+   "inference": "Rāhu's mantra is twenty-syllabled and fruit-giving as desired.",
+   "uncertainties": [
+    "role of vālas"
+   ],
+   "plain_english": "Of Rāhu, twenty-syllabled, vāla, as desired, fruit-giving."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "ṭaṃ",
+     "gloss": "ṭaṃ",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījāni",
+     "gloss": "seed-syllables",
+     "grounds": "neuter plural",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catvāri",
+     "gloss": "four",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "adjective",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many artificial seed syllables are listed with ṭaṃ?",
+   "premises": [
+    "ṭaṃ is a seed syllable",
+    "catvāri counts four",
+    "kṛtrimāṇi means artificial",
+    "aparāṇi means others"
+   ],
+   "inference": "Four artificial seed syllables, plus others, are listed with ṭaṃ.",
+   "uncertainties": [
+    "exact relation of ṭaṃ to the four seeds"
+   ],
+   "plain_english": "With ṭaṃ, four artificial seed syllables and others are listed."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "su+dine",
+     "gloss": "on-auspicious-day",
+     "grounds": "compound locative",
+     "morph": "compound"
+    },
+    {
+     "surface": "sādhakas",
+     "gloss": "practitioner",
+     "grounds": "masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantrān",
+     "gloss": "mantras",
+     "grounds": "masculine plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "grahāṇāṃ",
+     "gloss": "of-planets",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "should-accomplish",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "śive",
+     "gloss": "O-Śiva",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "When should the practitioner accomplish the planet mantras?",
+   "premises": [
+    "su+dine means on auspicious day",
+    "sādhakas means practitioner",
+    "mantrān means mantras",
+    "grahāṇāṃ means of planets",
+    "sādhayet means should accomplish",
+    "śive is vocative"
+   ],
+   "inference": "The practitioner should accomplish the planet mantras on an auspicious day.",
+   "uncertainties": [
+    "exact ritual conditions beyond auspicious day"
+   ],
+   "plain_english": "On an auspicious day, the practitioner should accomplish the planet mantras, O Śiva."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "ketos",
+     "gloss": "of-Ketu",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahā+mantras",
+     "gloss": "great-mantra",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pañcadaśa+akṣaraḥ",
+     "gloss": "fifteen-syllabled",
+     "grounds": "compound count",
+     "morph": "compound"
+    }
+   ],
+   "question": "What syllable count is assigned to Ketu's great mantra?",
+   "premises": [
+    "ketos means of Ketu",
+    "ayaṃ means this",
+    "mahā+mantras means great mantra",
+    "devi is vocative",
+    "pañcadaśa+akṣaraḥ counts fifteen"
+   ],
+   "inference": "Ketu's great mantra is fifteen-syllabled.",
+   "uncertainties": [
+    "whether devi addresses a goddess or Ketu"
+   ],
+   "plain_english": "Of Ketu, this great mantra, O goddess, is fifteen-syllabled."
+  }
+ ]
+}

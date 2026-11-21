@@ -1,0 +1,1081 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3301,
+   "rows": [
+    {
+     "surface": "śvetayajñopavītaṃ",
+     "gloss": "white-sacred-thread",
+     "grounds": "compound describing the deity's appearance",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīlakaṇṭhaṃ",
+     "gloss": "blue-throated",
+     "grounds": "epithet describing the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tripuṇṭravat",
+     "gloss": "with-three-marks",
+     "grounds": "comparative/possessive formation indicating bearing tripuṇḍra marks",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What visible attributes characterize the deity being described in this form?",
+   "premises": [
+    "The deity bears a white sacred thread.",
+    "The deity is blue-throated.",
+    "The deity bears the three marks."
+   ],
+   "inference": "The described form is identified by the white sacred thread, blue throat, and tripuṇḍra marks.",
+   "uncertainties": [],
+   "plain_english": "He has a white sacred thread, is blue-throated, and bears the three marks."
+  },
+  {
+   "verse": 3302,
+   "rows": [
+    {
+     "surface": "tvameva",
+     "gloss": "you-alone",
+     "grounds": "emphatic pronoun",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaktuṃ",
+     "gloss": "to-speak",
+     "grounds": "infinitive expressing purpose",
+     "morph": "infinitive (√vac)"
+    },
+    {
+     "surface": "tasyaiva",
+     "gloss": "of-that-very",
+     "grounds": "emphatic demonstrative",
+     "morph": "compound"
+    },
+    {
+     "surface": "hetuṃ",
+     "gloss": "reason",
+     "grounds": "object of speaking",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vaktu",
+     "gloss": "speak",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act (√vac)"
+    },
+    {
+     "surface": "marhasi",
+     "gloss": "you-should",
+     "grounds": "expresses obligation or fitness",
+     "morph": "2.sg.pres.act (√arh)"
+    }
+   ],
+   "question": "Who is qualified to explain the reason for that specific divine form?",
+   "premises": [
+    "The speaker asks for the reason of that very form.",
+    "The addressee alone is addressed as capable of explaining it.",
+    "The addressee is urged to speak that reason."
+   ],
+   "inference": "Only the addressed authority is fit to explain the reason for that form.",
+   "uncertainties": [],
+   "plain_english": "You alone should tell me the reason for that very form."
+  },
+  {
+   "verse": 3303,
+   "rows": [
+    {
+     "surface": "taddāvānāma",
+     "gloss": "of-those-demons",
+     "grounds": "refers to the demons mentioned in context",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pārśvaṃ",
+     "gloss": "side",
+     "grounds": "location or proximity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative or potential sense",
+     "morph": "3.sg.opt.act (√as)"
+    },
+    {
+     "surface": "anaveṣaṃ",
+     "gloss": "unsearched",
+     "grounds": "describes the side as not investigated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.opt.act (√vad)"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "indicates constant condition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the side or domain of those demons be regarded?",
+   "premises": [
+    "The side of those demons is under consideration.",
+    "It may be unsearched.",
+    "One should always declare it so."
+   ],
+   "inference": "The demons' side should always be regarded as unsearched.",
+   "uncertainties": [
+    "The exact referent of taddāvānāma and the sense of anaveṣaṃ are context-dependent."
+   ],
+   "plain_english": "One should always say that the side of those demons remains unsearched."
+  },
+  {
+   "verse": 3304,
+   "rows": [
+    {
+     "surface": "devatāḥ",
+     "gloss": "gods",
+     "grounds": "subject of the request",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hitāḥ",
+     "gloss": "friendly",
+     "grounds": "describes the gods' disposition",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of the gods",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prārthayeyuḥ",
+     "gloss": "may-request",
+     "grounds": "action directed toward the speaker",
+     "morph": "3.pl.opt.act (pra-√arth)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of the request",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Whom do all the friendly gods petition in this situation?",
+   "premises": [
+    "All the gods are friendly.",
+    "They make a request.",
+    "The request is directed to the speaker, addressed as twice-born."
+   ],
+   "inference": "All the friendly gods petition the speaker.",
+   "uncertainties": [],
+   "plain_english": "But all the friendly gods, O twice-born one, would petition me."
+  },
+  {
+   "verse": 3305,
+   "rows": [
+    {
+     "surface": "dānavānāṃ",
+     "gloss": "of-demons",
+     "grounds": "those targeted for destruction",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vināśārthaṃ",
+     "gloss": "for-destruction",
+     "grounds": "purpose compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmamūrtiṃ",
+     "gloss": "brahma-form",
+     "grounds": "form assumed or targeted",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "hanāmi",
+     "gloss": "I-slay",
+     "grounds": "action performed by the speaker",
+     "morph": "1.sg.pres.act (√han)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "explicit subject",
+     "morph": "pron.nom.sg"
+    }
+   ],
+   "question": "What action does the speaker undertake for the destruction of the demons?",
+   "premises": [
+    "The purpose is the destruction of the demons.",
+    "The speaker acts in relation to the Brahma-form.",
+    "The speaker declares 'I slay'."
+   ],
+   "inference": "The speaker slays the Brahma-form for the destruction of the demons.",
+   "uncertainties": [
+    "Whether brahmamūrtiṃ is the form assumed by the speaker or the target slain is ambiguous from this verse alone."
+   ],
+   "plain_english": "For the destruction of the demons, I slay the Brahma-form."
+  },
+  {
+   "verse": 3306,
+   "rows": [
+    {
+     "surface": "tadbrahmāṇḍādhipāḥ",
+     "gloss": "lords-of-that-cosmic-egg",
+     "grounds": "rulers of that world-system",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of those lords",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mahābhaya",
+     "gloss": "great-fear",
+     "grounds": "state affecting the lords",
+     "morph": "compound"
+    },
+    {
+     "surface": "samanvitāḥ",
+     "gloss": "endowed-with",
+     "grounds": "indicates possession of fear",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What condition afflicts all the lords of that cosmic egg?",
+   "premises": [
+    "All the lords of that cosmic egg are the subject.",
+    "They are associated with great fear."
+   ],
+   "inference": "All the lords of that cosmic egg are seized by great fear.",
+   "uncertainties": [],
+   "plain_english": "All the lords of that cosmic egg were filled with great fear."
+  },
+  {
+   "verse": 3307,
+   "rows": [
+    {
+     "surface": "anyānāṃ",
+     "gloss": "of-others",
+     "grounds": "refers to other beings",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "supratiṣṭhārthaṃ",
+     "gloss": "for-firm-establishment",
+     "grounds": "purpose compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devānām",
+     "gloss": "of-gods",
+     "grounds": "beneficiaries alongside others",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "abhayārthakam",
+     "gloss": "for-fearlessness",
+     "grounds": "purpose of granting safety",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "For whose benefit and for what purpose is the subsequent action undertaken?",
+   "premises": [
+    "The action aims at firm establishment for others.",
+    "The action aims at fearlessness for the gods."
+   ],
+   "inference": "The action is undertaken to establish others firmly and to grant fearlessness to the gods.",
+   "uncertainties": [],
+   "plain_english": "For the firm establishment of others and for the fearlessness of the gods."
+  },
+  {
+   "verse": 3308,
+   "rows": [
+    {
+     "surface": "tatkapālasya",
+     "gloss": "of-that-skull",
+     "grounds": "object whose release is sought",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mokṣārthaṃ",
+     "gloss": "for-release",
+     "grounds": "purpose compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhikṣākāraḥ",
+     "gloss": "beggar-form",
+     "grounds": "form assumed by the speaker",
+     "morph": "compound"
+    },
+    {
+     "surface": "asmi",
+     "gloss": "I-am",
+     "grounds": "present state of the speaker",
+     "morph": "1.sg.pres.act (√as)"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "explicit subject",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "dvija",
+     "gloss": "twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Why does the speaker assume the form of a beggar in this account?",
+   "premises": [
+    "The purpose is the release of that skull.",
+    "The speaker declares being in the form of a beggar.",
+    "The statement is addressed to the twice-born."
+   ],
+   "inference": "The speaker assumes the beggar form for the release of that skull.",
+   "uncertainties": [],
+   "plain_english": "For the release of that skull, O twice-born one, I take the form of a beggar."
+  },
+  {
+   "verse": 3309,
+   "rows": [
+    {
+     "surface": "ityaṃśumān",
+     "gloss": "thus-aṃśumān",
+     "grounds": "concluding formula naming the text or speaker",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāśyape",
+     "gloss": "in-kāśyapa",
+     "grounds": "locative indicating the work or context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhikṣāṭanamūrtilakṣaṇapaṭalaḥ",
+     "gloss": "chapter-on-begging-form-characteristics",
+     "grounds": "title of the chapter",
+     "morph": "compound"
+    },
+    {
+     "surface": "saptasaptatitamaḥ",
+     "gloss": "seventy-seventh",
+     "grounds": "ordinal number of the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumat Kāśyapa text concludes at this point?",
+   "premises": [
+    "The passage ends with a concluding formula.",
+    "The text is identified as in Kāśyapa/Aṃśumān.",
+    "The chapter is named as concerning the characteristics of the begging form."
+   ],
+   "inference": "This marks the end of the seventy-seventh chapter on the characteristics of the begging form in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the seventy-seventh chapter, on the characteristics of the begging form, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 3310,
+   "rows": [
+    {
+     "surface": "umā",
+     "gloss": "umā",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahitavat",
+     "gloss": "accompanied",
+     "grounds": "indicates being together with Umā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "entire form or aspect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kiṃcit",
+     "gloss": "somewhat",
+     "grounds": "degree of bending",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "natānanam",
+     "gloss": "bent-face",
+     "grounds": "describes the posture of the face",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the deity depicted when accompanied by Umā on the left side?",
+   "premises": [
+    "The form is accompanied by Umā.",
+    "The left side is specified.",
+    "The face is somewhat bent."
+   ],
+   "inference": "When accompanied by Umā on the left, the deity is shown with the face somewhat bent.",
+   "uncertainties": [],
+   "plain_english": "Accompanied by Umā, the whole form on the left has the face slightly bent."
+  },
+  {
+   "verse": 3311,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaṭakaṃ",
+     "gloss": "bracelet",
+     "grounds": "ornament under discussion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "varjyaṃ",
+     "gloss": "to-be-avoided",
+     "grounds": "prescriptive prohibition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "prior action",
+     "morph": "gerund (ni-√as)"
+    },
+    {
+     "surface": "caṇḍeśamūrdhani",
+     "gloss": "on-caṇḍeśa-head",
+     "grounds": "location of placement",
+     "morph": "compound"
+    }
+   ],
+   "question": "What ornament rule applies on the left when placing something on Caṇḍeśa's head?",
+   "premises": [
+    "The left side is specified.",
+    "A bracelet is mentioned.",
+    "The bracelet is to be avoided.",
+    "An action of placing on Caṇḍeśa's head is indicated."
+   ],
+   "inference": "On the left, a bracelet is to be avoided when placing upon Caṇḍeśa's head.",
+   "uncertainties": [
+    "The syntactic relation of nyastvā to the rest of the clause is somewhat compressed."
+   ],
+   "plain_english": "But on the left, a bracelet is to be avoided, having placed upon Caṇḍeśa's head."
+  },
+  {
+   "verse": 3312,
+   "rows": [
+    {
+     "surface": "āsīnaḥ",
+     "gloss": "seated",
+     "grounds": "posture of the figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "narrative transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sukhāsīnaḥ",
+     "gloss": "comfortably-seated",
+     "grounds": "specifies the manner of sitting",
+     "morph": "compound"
+    },
+    {
+     "surface": "caṇḍeśaḥ",
+     "gloss": "caṇḍeśa",
+     "grounds": "name of the figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svarṇasaṃnibhaḥ",
+     "gloss": "gold-like",
+     "grounds": "describes appearance",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is Caṇḍeśa depicted in posture and appearance in this description?",
+   "premises": [
+    "Caṇḍeśa is seated.",
+    "He is comfortably seated.",
+    "He is like gold in appearance."
+   ],
+   "inference": "Caṇḍeśa is depicted as comfortably seated and gold-like in appearance.",
+   "uncertainties": [],
+   "plain_english": "Then Caṇḍeśa is seated comfortably, resembling gold."
+  },
+  {
+   "verse": 3313,
+   "rows": [
+    {
+     "surface": "caṇḍeśānugrahaṃ",
+     "gloss": "grace-of-caṇḍeśa",
+     "grounds": "compound: caṇḍeśa + anugraha; object of renown/devotion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "renowned",
+     "grounds": "past passive participle describing the form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇāmūrti",
+     "gloss": "dakṣiṇāmūrti",
+     "grounds": "name of the divine form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatparam",
+     "gloss": "devoted-to-that",
+     "grounds": "compound: tat + para; characterized by that grace",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What renowned divine form is characterized by receiving Caṇḍeśa's grace?",
+   "premises": [
+    "A form is described as renowned",
+    "This form is identified as Dakṣiṇāmūrti",
+    "This form is devoted to Caṇḍeśa's grace"
+   ],
+   "inference": "The renowned Dakṣiṇāmūrti form is defined by its reception of Caṇḍeśa's grace",
+   "uncertainties": [],
+   "plain_english": "The renowned Dakṣiṇāmūrti is devoted to and characterized by the grace of Caṇḍeśa."
+  },
+  {
+   "verse": 3314,
+   "rows": [
+    {
+     "surface": "aṣṭasaptatitamaḥ",
+     "gloss": "seventy-eighth",
+     "grounds": "ordinal number marking sequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which ordinal position marks this form in the described sequence?",
+   "premises": [
+    "An ordinal number is given",
+    "The number specifies seventy-eighth"
+   ],
+   "inference": "This form occupies the seventy-eighth position in the sequence",
+   "uncertainties": [],
+   "plain_english": "This is the seventy-eighth form."
+  },
+  {
+   "verse": 3315,
+   "rows": [
+    {
+     "surface": "lambitaṃ",
+     "gloss": "hanging-down",
+     "grounds": "past passive participle describing the foot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇaṃ",
+     "gloss": "right",
+     "grounds": "qualifies the foot",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pādaṃ",
+     "gloss": "foot",
+     "grounds": "object described as hanging",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmāṃghreḥ",
+     "gloss": "of-left-foot",
+     "grounds": "compound: vāma + aṅghri; location reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "nalakāgrakam",
+     "gloss": "to-reed-tip",
+     "grounds": "compound: nalaka + agraka; endpoint of hanging",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should the right foot be positioned relative to the left foot?",
+   "premises": [
+    "The right foot is described as hanging down",
+    "The left foot serves as the reference point",
+    "The hanging reaches the tip of the reed-like part"
+   ],
+   "inference": "The right foot hangs down to the tip of the left foot",
+   "uncertainties": [
+    "nalakāgrakam may refer to a specific part of the foot or leg"
+   ],
+   "plain_english": "The right foot hangs down to the tip of the left foot."
+  },
+  {
+   "verse": 3316,
+   "rows": [
+    {
+     "surface": "lalāṭadakṣiṇe",
+     "gloss": "on-right-forehead",
+     "grounds": "compound: lalāṭa + dakṣiṇa; locative location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "savye",
+     "gloss": "left",
+     "grounds": "qualifies the eye-corner region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "netrānte",
+     "gloss": "at-eye-corner",
+     "grounds": "compound: netra + anta; locative location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatpuṭāntake",
+     "gloss": "at-that-cavity-end",
+     "grounds": "compound: tat + puṭa + antaka; further locative specification",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which specific facial locations are designated for the described placement?",
+   "premises": [
+    "The right side of the forehead is indicated",
+    "The left eye-corner is indicated",
+    "The end of that cavity is specified"
+   ],
+   "inference": "The placement involves the right forehead, left eye-corner, and the end of that cavity",
+   "uncertainties": [
+    "The exact anatomical referent of tatpuṭāntake is unclear"
+   ],
+   "plain_english": "The placement is at the right side of the forehead, the left eye-corner, and the end of that cavity."
+  },
+  {
+   "verse": 3317,
+   "rows": [
+    {
+     "surface": "yavatrayāntaraṃ",
+     "gloss": "three-barley-interval",
+     "grounds": "compound: yava + traya + antara; measure of distance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nītvā",
+     "gloss": "having-led",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund"
+    },
+    {
+     "surface": "lambya",
+     "gloss": "having-hung",
+     "grounds": "absolutive indicating hanging action",
+     "morph": "gerund"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative indicating middle position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What interval and placement are prescribed for the left middle position?",
+   "premises": [
+    "A distance of three barley grains is measured",
+    "The element is led and hung accordingly",
+    "The placement is on the left in the middle"
+   ],
+   "inference": "After measuring a three-barley interval, it is hung on the left in the middle",
+   "uncertainties": [],
+   "plain_english": "Having led it across an interval of three barley grains, it should be hung on the left in the middle."
+  },
+  {
+   "verse": 3318,
+   "rows": [
+    {
+     "surface": "nata",
+     "gloss": "bent",
+     "grounds": "past passive participle describing posture",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "madhyardhamātraṃ",
+     "gloss": "middle-half-measure",
+     "grounds": "compound: madhya + ardha + mātra; degree of bending",
+     "morph": "n.acc.sg (adverbial)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "caturbhujasamanvitam",
+     "gloss": "endowed-with-four-arms",
+     "grounds": "compound: catur + bhuja + samanvita; attribute of the form",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What posture and bodily configuration should the depicted form have?",
+   "premises": [
+    "The form should be bent",
+    "The bending is by a middle half-measure",
+    "The form should be endowed with four arms"
+   ],
+   "inference": "The form should be bent by a middle half-measure and possess four arms",
+   "uncertainties": [
+    "The exact extent of madhyardhamātraṃ is interpretive"
+   ],
+   "plain_english": "It should be bent by a middle half-measure and endowed with four arms."
+  },
+  {
+   "verse": 3319,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative indicating side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parahastaṃ",
+     "gloss": "other-hand",
+     "grounds": "compound: para + hasta; the further hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣamālāsamanvitam",
+     "gloss": "endowed-with-rosary",
+     "grounds": "compound: akṣamālā + samanvita; attribute of the hand",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What attribute should the other right hand of the form bear?",
+   "premises": [
+    "The right side is specified",
+    "The other hand on that side is indicated",
+    "That hand is endowed with a rosary"
+   ],
+   "inference": "The other right hand should hold a rosary",
+   "uncertainties": [],
+   "plain_english": "On the right, the other hand should be endowed with a rosary."
+  },
+  {
+   "verse": 3320,
+   "rows": [
+    {
+     "surface": "vāmajānūpariṣṭāt",
+     "gloss": "above-left-knee",
+     "grounds": "compound: vāma + jānu + upariṣṭāt; locative position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varade",
+     "gloss": "in-boon-giving",
+     "grounds": "locative describing gesture or hand",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "talapṛṣṭhakam",
+     "gloss": "palm-back",
+     "grounds": "compound: tala + pṛṣṭhaka; orientation of the hand",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the hand above the left knee be oriented in the boon-giving gesture?",
+   "premises": [
+    "The position is above the left knee",
+    "The hand is in a boon-giving posture",
+    "The back of the palm is specified"
+   ],
+   "inference": "Above the left knee, the boon-giving hand should show the back of the palm",
+   "uncertainties": [],
+   "plain_english": "Above the left knee, in the boon-giving gesture, the back of the palm should be shown."
+  },
+  {
+   "verse": 3321,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparahaste",
+     "gloss": "in-other-hand",
+     "grounds": "compound: apara + hasta; locative of the hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahniṃ",
+     "gloss": "fire",
+     "grounds": "object held in the hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyālam",
+     "gloss": "snake",
+     "grounds": "alternative object held in the hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative objects may the other left hand of the form hold?",
+   "premises": [
+    "The other left hand is specified",
+    "Fire is given as one option",
+    "A snake is given as another option"
+   ],
+   "inference": "The other left hand may hold either fire or a snake",
+   "uncertainties": [],
+   "plain_english": "In the other left hand, there may be fire or indeed a snake."
+  },
+  {
+   "verse": 3322,
+   "rows": [
+    {
+     "surface": "sukīrṇamūrdhāṃgaṃ",
+     "gloss": "well-spread-head-limb",
+     "grounds": "compound: su + kīrṇa + mūrdhan + aṅga; describing hair or head",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "compound particle: vā + api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jaṭāmaṇḍalam",
+     "gloss": "matted-hair-circle",
+     "grounds": "compound: jaṭā + maṇḍala; alternative head feature",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative forms of head adornment are permitted for this depiction?",
+   "premises": [
+    "A well-spread head feature is mentioned",
+    "A circle of matted hair is mentioned as alternative",
+    "Both options are presented as permissible"
+   ],
+   "inference": "The head may have well-spread hair or a circle of matted locks",
+   "uncertainties": [
+    "The precise sense of sukīrṇamūrdhāṃgaṃ is somewhat unclear"
+   ],
+   "plain_english": "The head may have well-spread hair, or else a circle of matted locks."
+  },
+  {
+   "verse": 3323,
+   "rows": [
+    {
+     "surface": "hasitaṃ",
+     "gloss": "smiling",
+     "grounds": "past passive participle describing the face",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vaktrasaṃyuktaṃ",
+     "gloss": "endowed-with-face",
+     "grounds": "compound: vaktra + saṃyukta; having a face characterized thus",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "adorned-with-all-ornaments",
+     "grounds": "compound: sarva + ābharaṇa + bhūṣita; fully ornamented",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What facial expression and adornment characterize the depicted form?",
+   "premises": [
+    "The face is described as smiling",
+    "The form is endowed with such a face",
+    "The form is adorned with all ornaments"
+   ],
+   "inference": "The form has a smiling face and is adorned with all ornaments",
+   "uncertainties": [],
+   "plain_english": "It should have a smiling face and be adorned with all ornaments."
+  },
+  {
+   "verse": 3324,
+   "rows": [
+    {
+     "surface": "triṇetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound: tri + netra; attribute of the form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaṃkhapatraṃ",
+     "gloss": "conch-leaf-earring",
+     "grounds": "compound: śaṅkha + patra; type of earring",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "qualifier, possibly indicating whole or every",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuṇḍalam",
+     "gloss": "earring",
+     "grounds": "ornament worn on the ear",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What eye count and ear ornamentation are specified for the form?",
+   "premises": [
+    "The form is three-eyed",
+    "A conch-leaf earring is mentioned",
+    "The left side and earring are specified"
+   ],
+   "inference": "The form is three-eyed and wears a conch-leaf earring on the left",
+   "uncertainties": [
+    "The syntactic role of sarvaṃ in this verse is ambiguous"
+   ],
+   "plain_english": "The form is three-eyed and, on the left, wears a conch-leaf earring."
+  }
+ ]
+}

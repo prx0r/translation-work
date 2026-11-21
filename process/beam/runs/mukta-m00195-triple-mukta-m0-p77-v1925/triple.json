@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p77",
+ "items": [
+  {
+   "verse": 1925,
+   "rows": [
+    {
+     "surface": "mṛganābhitamālābhyāṃ",
+     "gloss": "with-musk-and-garland",
+     "grounds": "compound of mṛganābhi (musk) and tamāla/garland in instrumental dual",
+     "morph": "compound: mṛganābhi-tamāla-instr.dual.n"
+    },
+    {
+     "surface": "hīnaṃ",
+     "gloss": "devoid-of",
+     "grounds": "qualifies the betel offering as lacking the specified items",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vidheśvarasya",
+     "gloss": "of-vidheśvara",
+     "grounds": "designates the recipient deity for whom the offering is specified",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "marks contrast with the previously described offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific ingredients must be omitted from the betel offering designated for Vidheśvara?",
+   "premises": [
+    "The preceding verses prescribe a twelve-part betel offering with specific aromatic ingredients.",
+    "This verse specifies an exception for the offering to Vidheśvara.",
+    "The exception consists in the absence of musk and garland."
+   ],
+   "inference": "Therefore, the betel offering for Vidheśvara is to be prepared without musk and garland, unlike the standard offering described earlier.",
+   "uncertainties": [
+    "The exact identification of tamāla in the compound mṛganābhitamālābhyāṃ as garland or the tamāla leaf is context-dependent."
+   ],
+   "plain_english": "But for Vidheśvara, the betel offering is to be without musk and garland."
+  }
+ ]
+}

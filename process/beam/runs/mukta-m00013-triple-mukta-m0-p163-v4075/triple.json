@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p163",
+ "items": [
+  {
+   "verse": 4075,
+   "rows": [
+    {
+     "surface": "vṛthā+āśramaḥ",
+     "gloss": "vain-effort",
+     "grounds": "compound of vṛthā (in vain) and āśramaḥ (effort, exertion)",
+     "morph": "compound.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative expressing potential result",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner in question",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the arising of accomplishment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "successful attainment in ritual practice",
+     "morph": "noun.nom.sg.f"
+    },
+    {
+     "surface": "mantra+pūjane",
+     "gloss": "in-mantra-worship",
+     "grounds": "compound locative indicating the domain of practice",
+     "morph": "compound.loc.sg.n"
+    }
+   ],
+   "question": "What consequence follows when exertion in mantra worship is futile?",
+   "premises": [
+    "Exertion in mantra worship may be futile.",
+    "Such futile exertion belongs to that practitioner.",
+    "Accomplishment does not arise without effective exertion."
+   ],
+   "inference": "Therefore futile exertion in mantra worship yields no accomplishment for that practitioner.",
+   "uncertainties": [],
+   "plain_english": "His effort would be in vain, and he would have no accomplishment in mantra worship."
+  }
+ ]
+}

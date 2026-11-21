@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p107",
+ "items": [
+  {
+   "verse": 2675,
+   "rows": [
+    {
+     "surface": "kanyāyā",
+     "gloss": "of-girl",
+     "grounds": "genitive singular feminine of kanyā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "bhāṣaṇe",
+     "gloss": "in-speech",
+     "grounds": "locative singular neuter of bhāṣaṇa",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śrīmattripurāyāḥ",
+     "gloss": "of-srimat-tripura",
+     "grounds": "genitive singular feminine of śrīmat-tripurā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "prapūjanam",
+     "gloss": "full-worship",
+     "grounds": "accusative singular neuter of prapūjana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What full worship of Sri Tripura is prescribed during a girl's speech?",
+   "premises": [
+    "A girl's speech occasions worship.",
+    "Sri Tripura receives full worship.",
+    "The rite follows seeing women."
+   ],
+   "inference": "The verse prescribes full worship of Sri Tripura in the context of a girl's speech.",
+   "uncertainties": [
+    "The exact ritual sequence beyond this phrase is not stated."
+   ],
+   "plain_english": "In the speech of a girl, perform the full worship of Sri Tripura."
+  }
+ ]
+}

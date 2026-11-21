@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p182",
+ "items": [
+  {
+   "verse": 4550,
+   "rows": [
+    {
+     "surface": "pārśveṣu",
+     "gloss": "at-sides",
+     "grounds": "locative plural of pārśva",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "syussumānyatratriṣvekadvitriṃsaṃkhyayā",
+     "gloss": "sums-here-in-three-by-count-one-two-thirty-two",
+     "grounds": "fused sandhi form; internal parts include verb, noun, and numeral phrases",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the side-sums distributed among the three positions by numerical count?",
+   "premises": [
+    "side sums occur in three positions",
+    "their counts are one two and thirty-two",
+    "the verse specifies numerical distribution"
+   ],
+   "inference": "the three side-sums are enumerated as one, two, and thirty-two",
+   "uncertainties": [
+    "fused token obscures exact sandhi boundaries"
+   ],
+   "plain_english": "At the sides there are sums here in three positions, counted as one, two, and thirty-two."
+  }
+ ]
+}

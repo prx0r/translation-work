@@ -1,0 +1,556 @@
+{
+ "song": "kul-p36",
+ "items": [
+  {
+   "verse": 888,
+   "rows": [
+    {
+     "surface": "yoginīmaṇḍale",
+     "gloss": "in-yogini-circle",
+     "grounds": "locative of place where bliss is declared",
+     "morph": "n.loc.sg.nt"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "gradually",
+     "grounds": "ablative used adverbially indicating sequence",
+     "morph": "n.abl.sg.m"
+    },
+    {
+     "surface": "ānandamucyate",
+     "gloss": "bliss-is-declared",
+     "grounds": "predicate stating what is spoken in that context",
+     "morph": "3.sg.pass-pres + √vac (compound with ānanda)"
+    }
+   ],
+   "question": "Where and how is bliss declared within the yogini circle?",
+   "premises": [
+    "The yogini circle is the locus named.",
+    "Bliss is declared there in sequence.",
+    "The declaration proceeds gradually."
+   ],
+   "inference": "Within the yogini circle, bliss is said to arise or be declared in due order.",
+   "uncertainties": [
+    "Whether ānanda refers to ritual ecstasy or a doctrinal state is not specified."
+   ],
+   "plain_english": "And indeed, in the circle of yoginis, bliss is declared to arise gradually."
+  },
+  {
+   "verse": 889,
+   "rows": [
+    {
+     "surface": "icchaiva",
+     "gloss": "will-itself",
+     "grounds": "identifies will as the subject",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "śāstrasampattirityājñā",
+     "gloss": "scripture-fulfillment-thus-command",
+     "grounds": "predicate equating will with scriptural attainment and command",
+     "morph": "compound + f.nom.sg"
+    },
+    {
+     "surface": "ityājñā",
+     "gloss": "thus-command",
+     "grounds": "reiterates the declaration as command",
+     "morph": "(indecl.) + f.nom.sg"
+    },
+    {
+     "surface": "parameśvari",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What status does will hold as scripture and command, supreme goddess?",
+   "premises": [
+    "Will itself is identified as scriptural fulfillment.",
+    "This identification is declared as a command.",
+    "The declaration is addressed to the supreme goddess."
+   ],
+   "inference": "Will is affirmed as both the attainment of scripture and authoritative command.",
+   "uncertainties": [
+    "The repetition of ityājñā in the token list may reflect textual transmission issues."
+   ],
+   "plain_english": "O supreme goddess, will itself is the fulfillment of scripture; thus is the command."
+  },
+  {
+   "verse": 890,
+   "rows": [
+    {
+     "surface": "tatsarvaṃ",
+     "gloss": "that-all",
+     "grounds": "refers to everything previously mentioned",
+     "morph": "n.nom.sg (pronoun + adjective)"
+    },
+    {
+     "surface": "devatāprītyai",
+     "gloss": "for-deity-pleasure",
+     "grounds": "purpose of the arising",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "predicate stating origination",
+     "morph": "3.sg.mid-pres + √jan"
+    },
+    {
+     "surface": "surasundari",
+     "gloss": "beautiful-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "For whose pleasure does all that ritual activity arise, beautiful goddess?",
+   "premises": [
+    "All that is taken as a whole.",
+    "Its arising has a purpose.",
+    "That purpose is the pleasure of the deity."
+   ],
+   "inference": "Everything described arises for the sake of pleasing the deity.",
+   "uncertainties": [],
+   "plain_english": "O beautiful goddess, all of that arises for the pleasure of the deity."
+  },
+  {
+   "verse": 891,
+   "rows": [
+    {
+     "surface": "vikriyā",
+     "gloss": "transformation",
+     "grounds": "subject identified as worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "predicate noun equated with transformation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "uditaṃ",
+     "gloss": "declared",
+     "grounds": "states that this identification is taught",
+     "morph": "n.nom.sg.ppp + √vad"
+    },
+    {
+     "surface": "bhairavībaliḥ",
+     "gloss": "bhairavi-offering",
+     "grounds": "specifies the offering as Bhairavi's",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "How is transformation defined as worship in the offering to Bhairavi?",
+   "premises": [
+    "Transformation is named explicitly.",
+    "It is declared to be worship.",
+    "This worship is identified as Bhairavi's offering."
+   ],
+   "inference": "Transformative activity is taught as the very form of worship offered to Bhairavi.",
+   "uncertainties": [
+    "The exact nature of vikriyā in this ritual context is not fully specified."
+   ],
+   "plain_english": "O goddess, transformation is declared to be worship; it is the offering to Bhairavi."
+  },
+  {
+   "verse": 892,
+   "rows": [
+    {
+     "surface": "nyāso'vayavasaṃsparśo",
+     "gloss": "placement-limb-touching",
+     "grounds": "names ritual placement and touching of limbs",
+     "morph": "m.nom.sg (compound with sandhi)"
+    },
+    {
+     "surface": "avayavasaṃsparśo",
+     "gloss": "limb-touching",
+     "grounds": "reiterates touching of limbs",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhojanaṃ",
+     "gloss": "eating",
+     "grounds": "names ritual eating",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "havanakriyā",
+     "gloss": "oblation-act",
+     "grounds": "names the act of oblation",
+     "morph": "f.nom.sg (compound)"
+    }
+   ],
+   "question": "Which ritual acts are enumerated as part of this Kaula practice?",
+   "premises": [
+    "Ritual placement and limb-touching are named.",
+    "Eating is included among the acts.",
+    "The act of oblation is included."
+   ],
+   "inference": "The practice encompasses nyāsa, bodily contact, eating, and oblation as ritual acts.",
+   "uncertainties": [
+    "The repetition of avayavasaṃsparśo in the token list may be a textual duplication."
+   ],
+   "plain_english": "Placement and touching of the limbs, eating, and the act of oblation are included."
+  },
+  {
+   "verse": 893,
+   "rows": [
+    {
+     "surface": "kāryākāryavicārantu",
+     "gloss": "but-deliberation-on-duty-non-duty",
+     "grounds": "object of the prohibited mental act",
+     "morph": "m.acc.sg (compound) + (indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg (pronoun)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "action performed by the subject",
+     "morph": "3.sg.act-pres + √kṛ"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "correlative subject",
+     "morph": "m.nom.sg (pronoun)"
+    },
+    {
+     "surface": "pātakī",
+     "gloss": "sinner",
+     "grounds": "predicate identifying the consequence",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What moral consequence follows from deliberating on what should or should not be done?",
+   "premises": [
+    "Deliberation on duty and non-duty is specified.",
+    "A person may engage in such deliberation.",
+    "Engaging in it results in being a sinner."
+   ],
+   "inference": "In this context, one who deliberates over proper and improper action is deemed sinful.",
+   "uncertainties": [
+    "The scope of this prohibition within the broader ritual framework is not stated here."
+   ],
+   "plain_english": "But whoever deliberates on what should or should not be done is a sinner."
+  },
+  {
+   "verse": 894,
+   "rows": [
+    {
+     "surface": "yenāpnuvanti",
+     "gloss": "by-which-attain",
+     "grounds": "instrumental means of attainment",
+     "morph": "n.ins.sg (pronoun) + 3.pl.act-pres + √āp"
+    },
+    {
+     "surface": "āpnuvanti",
+     "gloss": "attain",
+     "grounds": "reiterates attainment",
+     "morph": "3.pl.act-pres + √āp"
+    },
+    {
+     "surface": "manujāḥ",
+     "gloss": "humans",
+     "grounds": "subjects who attain",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sākṣādbhairavarūpatām",
+     "gloss": "directly-bhairava-form",
+     "grounds": "state attained directly",
+     "morph": "(indecl.) + f.acc.sg (compound)"
+    },
+    {
+     "surface": "bhairavarūpatām",
+     "gloss": "bhairava-form",
+     "grounds": "reiterates the attained form",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "What direct realization do humans attain through this prescribed means?",
+   "premises": [
+    "A means of attainment is indicated.",
+    "Humans are the ones who attain.",
+    "The attainment is the direct form of Bhairava."
+   ],
+   "inference": "Through this means, humans directly attain the form of Bhairava.",
+   "uncertainties": [
+    "The antecedent of 'by which' is not explicit within this verse alone.",
+    "The repetition of āpnuvanti and bhairavarūpatām in the token list may be textual duplication."
+   ],
+   "plain_english": "By which humans attain, directly attain, the very form of Bhairava."
+  },
+  {
+   "verse": 895,
+   "rows": [
+    {
+     "surface": "veṇuvīṇādivādyañca",
+     "gloss": "flute-vina-etc-instruments-and",
+     "grounds": "lists musical instruments",
+     "morph": "n.nom.sg (compound) + (indecl.)"
+    },
+    {
+     "surface": "kavitāracanādikam",
+     "gloss": "poem-composition-etc",
+     "grounds": "lists poetic composition and similar acts",
+     "morph": "n.nom.sg (compound)"
+    }
+   ],
+   "question": "Which artistic activities are included among the practices being described?",
+   "premises": [
+    "Musical instruments such as flute and vina are named.",
+    "Poetic composition and similar activities are named.",
+    "These are presented together as included acts."
+   ],
+   "inference": "Playing instruments and composing poetry are included in the described practices.",
+   "uncertainties": [],
+   "plain_english": "Playing instruments like the flute and vina, and composing poetry and the like."
+  },
+  {
+   "verse": 896,
+   "rows": [
+    {
+     "surface": "gamanaṃ",
+     "gloss": "going",
+     "grounds": "names movement as an element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vikriyā",
+     "gloss": "transformation",
+     "grounds": "names transformation as an element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yoga",
+     "gloss": "yoga",
+     "grounds": "predicate identifying these as yoga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ityabhidhīyate",
+     "gloss": "thus-is-called",
+     "grounds": "declares the designation",
+     "morph": "(indecl.) + 3.sg.pass-pres + √dhā"
+    }
+   ],
+   "question": "How are movement and transformation designated within this teaching, goddess?",
+   "premises": [
+    "Going and transformation are named.",
+    "They are given a specific designation.",
+    "That designation is yoga."
+   ],
+   "inference": "Movement and transformation are defined as yoga in this teaching.",
+   "uncertainties": [],
+   "plain_english": "O goddess, going and transformation are called yoga."
+  },
+  {
+   "verse": 897,
+   "rows": [
+    {
+     "surface": "samācaranti",
+     "gloss": "they-perform",
+     "grounds": "action carried out by practitioners",
+     "morph": "3.pl.act-pres + sam-ā-√car"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess-lord",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yathollāsaṃ",
+     "gloss": "according-to-delight",
+     "grounds": "manner of performance",
+     "morph": "(indecl.) + m.acc.sg (compound)"
+    },
+    {
+     "surface": "manogatam",
+     "gloss": "mind-gone",
+     "grounds": "indicates following what arises in the mind",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "According to what inner impulse do practitioners perform these acts, goddess?",
+   "premises": [
+    "Practitioners perform the acts.",
+    "The manner follows delight.",
+    "The manner follows what arises in the mind."
+   ],
+   "inference": "The acts are performed according to spontaneous delight and inner inclination.",
+   "uncertainties": [],
+   "plain_english": "O goddess, they perform these acts according to their delight and as their mind moves."
+  },
+  {
+   "verse": 898,
+   "rows": [
+    {
+     "surface": "nidhāya",
+     "gloss": "having-placed",
+     "grounds": "prior action of placing the vessel",
+     "morph": "absolutive + ni-√dhā"
+    },
+    {
+     "surface": "vadane",
+     "gloss": "in-mouth",
+     "grounds": "location where the vessel is placed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "object placed in the mouth",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivīṇṇā",
+     "gloss": "absorbed",
+     "grounds": "state of the participants",
+     "morph": "f.nom.sg.ppp"
+    },
+    {
+     "surface": "nivasanti",
+     "gloss": "they-dwell",
+     "grounds": "main action of remaining",
+     "morph": "3.pl.act-pres + ni-√vas"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What posture and state characterize participants after placing the vessel to the mouth?",
+   "premises": [
+    "The vessel is placed at the mouth.",
+    "The participants are in an absorbed state.",
+    "They remain dwelling in that condition."
+   ],
+   "inference": "After placing the vessel to the mouth, they remain absorbed in that state.",
+   "uncertainties": [
+    "The exact sense of nivīṇṇā (absorbed/intoxicated) depends on ritual context."
+   ],
+   "plain_english": "Having placed the vessel to the mouth, absorbed, they remain there."
+  },
+  {
+   "verse": 899,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "extends the previous description",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣaścāpi",
+     "gloss": "man-also",
+     "grounds": "includes the male participant",
+     "morph": "m.nom.sg + (indecl.) + (indecl.)"
+    },
+    {
+     "surface": "prauḍhāntollāsasaṃyutaḥ",
+     "gloss": "joined-with-intense-inner-delight",
+     "grounds": "describes the man's state",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What inner state accompanies the male participant in this ritual condition?",
+   "premises": [
+    "The description is extended likewise to the man.",
+    "The man is included in the same context.",
+    "He is joined with intense inner delight."
+   ],
+   "inference": "The male participant likewise abides in a state of intense inner delight.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the man too is filled with intense inner delight."
+  },
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "pṛcchati",
+     "gloss": "asks",
+     "grounds": "action performed by the woman",
+     "morph": "3.sg.act-pres + √praś"
+    },
+    {
+     "surface": "svapatiṃ",
+     "gloss": "own-husband",
+     "grounds": "person addressed",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "mugdhā",
+     "gloss": "bewildered",
+     "grounds": "state of the speaker",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kastvaṃ",
+     "gloss": "who-you",
+     "grounds": "question about the husband's identity",
+     "morph": "m.nom.sg (pronoun) + pronoun.nom.sg"
+    },
+    {
+     "surface": "kāham",
+     "gloss": "who-i",
+     "grounds": "question about her own identity",
+     "morph": "f.nom.sg (pronoun) + pronoun.nom.sg"
+    },
+    {
+     "surface": "ime",
+     "gloss": "these",
+     "grounds": "refers to others present",
+     "morph": "m.nom.pl (pronoun)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ke",
+     "gloss": "who",
+     "grounds": "question about the identity of others",
+     "morph": "m.nom.pl (pronoun)"
+    }
+   ],
+   "question": "What questions of identity arise for the bewildered woman in this ecstatic state?",
+   "premises": [
+    "A bewildered woman addresses her husband.",
+    "She questions his identity and her own.",
+    "She questions the identity of those present."
+   ],
+   "inference": "In this state of bewilderment, fundamental distinctions of identity become questioned.",
+   "uncertainties": [],
+   "plain_english": "Bewildered, she asks her own husband: 'Who are you? Who am I? And who are these?'"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "song": "mukta-m0-p254",
+ "items": [
+  {
+   "verse": 6350,
+   "rows": [
+    {
+     "surface": "ekabhāgā+dvikārānta",
+     "gloss": "one-part-to-two-syllable-end",
+     "grounds": "Compound describing a range or progression beginning with one part and ending with two kāra elements; internal sandhi and compound boundaries marked by + in the given form.",
+     "morph": "compound"
+    },
+    {
+     "surface": "mekabhāga+vivardhanāt",
+     "gloss": "by-one-part-increase",
+     "grounds": "Ablative expression indicating the cause or manner of progression through the increment of one part; initial m reflects sandhi in the transmitted form.",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What incremental pattern governs the progression from one part to the two-syllable endpoint?",
+   "premises": [
+    "The progression is bounded by a two-syllable endpoint.",
+    "The progression begins from a single part.",
+    "Each step advances by the addition of one part."
+   ],
+   "inference": "The sequence extends from one part up to the two-syllable endpoint through successive increases of one part.",
+   "uncertainties": [
+    "The precise referent of kāra in this numerical or ritual context is not fully specified in the verse alone.",
+    "The exact syntactic role of the first compound depends on the broader enumeration in the surrounding verses."
+   ],
+   "plain_english": "The progression runs from one part up to an endpoint of two syllables, advancing by an increase of one part at each step."
+  }
+ ]
+}

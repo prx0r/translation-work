@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3450,
+   "rows": [
+    {
+     "surface": "mānasam",
+     "gloss": "mentally",
+     "grounds": "mental action or mode; accusative neuter used adverbially",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting to previous instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence following arghya offering",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-opt~gam"
+    },
+    {
+     "surface": "kuvera+acala+dakṣiṇe",
+     "gloss": "kuvera-mountain-south",
+     "grounds": "compound indicating location south of Kuvera's mountain; internal sandhi preserved in fused form",
+     "morph": "kuvera+acala+dakṣiṇa; n.loc.sg"
+    }
+   ],
+   "question": "What mental destination must follow the ritual offering of arghya?",
+   "premises": [
+    "The ritual sequence has reached the completion of the arghya offering.",
+    "A subsequent movement is prescribed as a mental action.",
+    "The prescribed destination is the region south of Kuvera's mountain."
+   ],
+   "inference": "After offering arghya, the practitioner must proceed mentally to the south of Kuvera's mountain.",
+   "uncertainties": [
+    "Whether kuvera+acala refers to a specific mythic mountain or a symbolic locus is not specified in this verse."
+   ],
+   "plain_english": "And then one should go mentally to the south of Mount Kuvera."
+  }
+ ]
+}

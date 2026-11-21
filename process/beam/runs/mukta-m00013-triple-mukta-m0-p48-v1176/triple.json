@@ -1,0 +1,1013 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1176,
+   "rows": [
+    {
+     "surface": "triḥsapta",
+     "gloss": "three-times-seven",
+     "grounds": "numeral compound indicating twenty-one",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner particle indicating alternative count",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārān",
+     "gloss": "times",
+     "grounds": "occasions or repetitions",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "secayet",
+     "gloss": "should-sprinkle",
+     "grounds": "ritual act of sprinkling",
+     "morph": "3.sg.opt.act √sic"
+    },
+    {
+     "surface": "sādhaka+agraṇīḥ",
+     "gloss": "best-practitioner",
+     "grounds": "foremost among practitioners",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "How many times should the foremost practitioner perform the sprinkling?",
+   "premises": [
+    "The verse specifies counts of three-times-seven or other times.",
+    "The act prescribed is sprinkling.",
+    "The agent is the foremost practitioner."
+   ],
+   "inference": "The foremost practitioner should sprinkle either twenty-one times or another specified number of times.",
+   "uncertainties": [
+    "The exact alternative count implied by tathā is not explicit in this verse alone."
+   ],
+   "plain_english": "The foremost practitioner should sprinkle twenty-one times or as many times as specified."
+  },
+  {
+   "verse": 1177,
+   "rows": [
+    {
+     "surface": "ucite",
+     "gloss": "suitable",
+     "grounds": "appropriate for the ritual context",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "vāsasī",
+     "gloss": "two-garments",
+     "grounds": "pair of garments to be worn",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paridadhyāt",
+     "gloss": "should-put-on",
+     "grounds": "act of donning garments",
+     "morph": "3.sg.opt.act √dhā"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "thereafter",
+     "grounds": "immediately following in sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What garments should the practitioner put on after the sprinkling?",
+   "premises": [
+    "The action follows the previous ritual step.",
+    "The objects are two suitable garments.",
+    "The prescribed act is putting them on."
+   ],
+   "inference": "Afterwards, the practitioner should put on two suitable garments.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, one should put on two suitable garments."
+  },
+  {
+   "verse": 1178,
+   "rows": [
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-placed",
+     "grounds": "prior act of applying or holding",
+     "morph": "gerund √dhṛ"
+    },
+    {
+     "surface": "bhāla+tale",
+     "gloss": "on-forehead-surface",
+     "grounds": "location on the forehead",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "bhasma",
+     "gloss": "sacred-ash",
+     "grounds": "ritual ash applied to the body",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrva+vat",
+     "gloss": "as-before",
+     "grounds": "in the manner previously described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrī+guruṃ",
+     "gloss": "venerable-guru",
+     "grounds": "revered teacher",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "mental recollection or meditation",
+     "morph": "3.sg.opt.act √smṛ"
+    }
+   ],
+   "question": "What preparatory acts precede remembering the venerable guru?",
+   "premises": [
+    "Sacred ash is to be placed on the forehead.",
+    "The placement follows the previous manner.",
+    "Remembering the venerable guru follows this act."
+   ],
+   "inference": "After placing sacred ash on the forehead as before, the practitioner should remember the venerable guru.",
+   "uncertainties": [],
+   "plain_english": "Having placed sacred ash on the forehead as before, one should remember the venerable guru."
+  },
+  {
+   "verse": 1179,
+   "rows": [
+    {
+     "surface": "yathā+śakti",
+     "gloss": "according-to-ability",
+     "grounds": "to the extent of one's capacity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-repeat",
+     "grounds": "ritual recitation or repetition",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "the female deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gāyatrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "the gāyatrī mantra or form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tat+anantaram",
+     "gloss": "after-that",
+     "grounds": "immediately following the previous step",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What recitation should follow remembering the guru according to ability?",
+   "premises": [
+    "The recitation occurs after the previous step.",
+    "The object of recitation is the goddess gāyatrī.",
+    "The extent of recitation depends on one's ability."
+   ],
+   "inference": "After that, one should repeat the goddess gāyatrī according to one's ability.",
+   "uncertainties": [],
+   "plain_english": "After that, one should repeat the goddess gāyatrī according to one's ability."
+  },
+  {
+   "verse": 1180,
+   "rows": [
+    {
+     "surface": "caturthī+vahni+jāyā+antaṃ",
+     "gloss": "fourth-fire-consort-ending",
+     "grounds": "mantra form ending with dative marker and svāhā",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "devatīrthena",
+     "gloss": "with-deity-tīrtha",
+     "grounds": "using the part of the hand associated with deities",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "ritual act of satisfying or offering water",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    }
+   ],
+   "question": "How should libation be offered using the deity tīrtha?",
+   "premises": [
+    "The libation is performed with the deity tīrtha.",
+    "The mantra form ends with the fourth case and vahni-jāyā.",
+    "The prescribed act is offering libation."
+   ],
+   "inference": "One should offer libation with the deity tīrtha using the mantra ending in the fourth case and svāhā.",
+   "uncertainties": [
+    "The exact mantra referent of caturthī+vahni+jāyā+antaṃ is context-dependent."
+   ],
+   "plain_english": "One should offer libation with the deity tīrtha using the form ending in the dative and svāhā."
+  },
+  {
+   "verse": 1181,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "thrice",
+     "grounds": "three times",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṅe'ntān",
+     "gloss": "ṅe-ending-ones",
+     "grounds": "mantra forms ending in ṅe",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "hṛd+antān",
+     "gloss": "heart-ending-ones",
+     "grounds": "mantra forms ending with hṛt",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitṛtīrthena",
+     "gloss": "with-ancestor-tīrtha",
+     "grounds": "using the part of the hand associated with ancestors",
+     "morph": "compound n.ins.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "ritual act of satisfying or offering water",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    }
+   ],
+   "question": "How should libation be offered using the ancestor tīrtha?",
+   "premises": [
+    "The libation is performed thrice.",
+    "The mantra forms end in ṅe and hṛt.",
+    "The libation uses the ancestor tīrtha."
+   ],
+   "inference": "One should offer libation thrice with the ancestor tīrtha using forms ending in ṅe and hṛt.",
+   "uncertainties": [
+    "The precise mantra forms indicated by ṅe'ntān and hṛd+antān depend on ritual context."
+   ],
+   "plain_english": "One should offer libation thrice with the ancestor tīrtha using forms ending in ṅe and in hṛt."
+  },
+  {
+   "verse": 1182,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "subsequent step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "the female deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "should-offer-libation",
+     "grounds": "ritual act of satisfying or offering water",
+     "morph": "3.sg.opt.caus.act √tṛp"
+    }
+   ],
+   "question": "Who should receive libation after the preceding offerings?",
+   "premises": [
+    "The action follows the previous libations.",
+    "The recipient is the goddess.",
+    "The prescribed act is offering libation."
+   ],
+   "inference": "Then one should offer libation to the goddess.",
+   "uncertainties": [],
+   "plain_english": "Then one should offer libation to the goddess."
+  },
+  {
+   "verse": 1183,
+   "rows": [
+    {
+     "surface": "tarpaṇam",
+     "gloss": "libation",
+     "grounds": "ritual offering of water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic or contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuciḥ",
+     "gloss": "pure",
+     "grounds": "ritually clean state of the performer",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "execution of the ritual act",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "deva+ṛṣi+pitṛ+pūrvakam",
+     "gloss": "gods-sages-ancestors-first",
+     "grounds": "in the order beginning with gods, sages, and ancestors",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "In what order and condition should the practitioner perform libation?",
+   "premises": [
+    "The performer must be pure.",
+    "The act is libation.",
+    "The sequence begins with gods, sages, and ancestors."
+   ],
+   "inference": "A pure practitioner should perform libation beginning with the gods, sages, and ancestors.",
+   "uncertainties": [],
+   "plain_english": "Being pure, one should perform libation beginning with the gods, sages, and ancestors."
+  },
+  {
+   "verse": 1184,
+   "rows": [
+    {
+     "surface": "gṛhe",
+     "gloss": "in-house",
+     "grounds": "domestic setting",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual worship or sacrifice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śastaṃ",
+     "gloss": "commended",
+     "grounds": "approved or recommended",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rasaiḥ",
+     "gloss": "with-juices",
+     "grounds": "liquid substances used in worship",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ārkṣa+ikṣu+sambhavaiḥ",
+     "gloss": "sugarcane-produced",
+     "grounds": "juices derived from sugarcane",
+     "morph": "compound m.ins.pl"
+    }
+   ],
+   "question": "What substances are commended for worship performed in the house?",
+   "premises": [
+    "Worship in the house is commended.",
+    "Juices may be used in worship.",
+    "Sugarcane-produced juices are specified as an option."
+   ],
+   "inference": "Worship in the house is commended, using juices or those produced from sugarcane.",
+   "uncertainties": [
+    "The term ārkṣa in ārkṣa+ikṣu+sambhavaiḥ is interpreted as relating to sugarcane based on context."
+   ],
+   "plain_english": "Worship in the house is also commended, using juices or those produced from sugarcane."
+  },
+  {
+   "verse": 1185,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "in a different manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "ritual accomplishment or perfection",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "kalpa+koṭi+śataiḥ",
+     "gloss": "by-hundred-crores-of-kalpas",
+     "grounds": "vast periods of cosmic time",
+     "morph": "compound n.ins.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What consequence follows if worship is not performed in the prescribed manner?",
+   "premises": [
+    "The verse considers an alternative, improper manner.",
+    "Success is the desired outcome.",
+    "Even vast spans of time are insufficient otherwise."
+   ],
+   "inference": "If done otherwise, success would not be attained even in hundreds of crores of kalpas.",
+   "uncertainties": [],
+   "plain_english": "Otherwise, success would not be achieved even in hundreds of crores of kalpas."
+  },
+  {
+   "verse": 1186,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "prior completion of an act",
+     "morph": "gerund √kṛ"
+    },
+    {
+     "surface": "pūja+ālaye",
+     "gloss": "in-worship-place",
+     "grounds": "location designated for worship",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this place or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcamīṃ",
+     "gloss": "fifth",
+     "grounds": "the fifth deity or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūjayāmi",
+     "gloss": "I-worship",
+     "grounds": "declarative statement of worship",
+     "morph": "1.sg.pres.act √pūj"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker or practitioner",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What declaration accompanies worship in the worship place?",
+   "premises": [
+    "The act is performed in the worship place.",
+    "The practitioner makes a declarative statement.",
+    "The statement identifies worship of the fifth."
+   ],
+   "inference": "Having acted in the worship place, one declares here, 'I worship the fifth.'",
+   "uncertainties": [
+    "The specific identity of pañcamīṃ depends on the ritual context."
+   ],
+   "plain_english": "Having done so in the worship place, one says here, 'I worship the fifth.'"
+  },
+  {
+   "verse": 1187,
+   "rows": [
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "the previously indicated entities",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual act of worship",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What should be done with the entities referred to as these?",
+   "premises": [
+    "The verse refers to specific entities as these.",
+    "The prescribed act is worship."
+   ],
+   "inference": "One should worship these.",
+   "uncertainties": [
+    "The referents of etāḥ are determined by the preceding context."
+   ],
+   "plain_english": "One should worship these."
+  },
+  {
+   "verse": 1188,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "general injunction to perform an act",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "What general injunction is given regarding the ritual action?",
+   "premises": [
+    "The verse gives a prescriptive command.",
+    "The act is to be performed."
+   ],
+   "inference": "One should perform the prescribed act.",
+   "uncertainties": [
+    "The specific act referred to by kuryāt depends on the immediate ritual context."
+   ],
+   "plain_english": "One should do it."
+  },
+  {
+   "verse": 1189,
+   "rows": [
+    {
+     "surface": "śaktim",
+     "gloss": "power",
+     "grounds": "divine power or śakti",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pādayoḥ",
+     "gloss": "on-two-feet",
+     "grounds": "location on both feet",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarva+aṅge",
+     "gloss": "on-whole-body",
+     "grounds": "location on the entire body",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "kīlakaṃ",
+     "gloss": "peg",
+     "grounds": "ritual fixing or sealing element",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement or installation",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where should the practitioner place the power and the peg during nyāsa?",
+   "premises": [
+    "The power is to be placed on the two feet.",
+    "The peg is to be placed on the whole body.",
+    "The prescribed act is ritual placement."
+   ],
+   "inference": "One should place the power on the feet and the peg on the whole body.",
+   "uncertainties": [],
+   "plain_english": "One should place the power on the feet and the peg on the whole body."
+  },
+  {
+   "verse": 1190,
+   "rows": [
+    {
+     "surface": "caturthī+mati+saṃyuktām",
+     "gloss": "joined-with-fourth-ending",
+     "grounds": "form combined with the dative ending",
+     "morph": "compound f.acc.sg"
+    },
+    {
+     "surface": "amantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "accompanied by mantras",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "individually or one by one",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "repeated for emphasis on individual application",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the form joined with the fourth ending be applied with mantras?",
+   "premises": [
+    "The form is joined with the fourth ending.",
+    "Mantras are used in the application.",
+    "The repetition of separately indicates individual application."
+   ],
+   "inference": "The form joined with the fourth ending should be applied separately with each mantra.",
+   "uncertainties": [
+    "The specific referent of the form is supplied by the ritual context."
+   ],
+   "plain_english": "One should apply the form joined with the dative ending separately with each mantra."
+  },
+  {
+   "verse": 1191,
+   "rows": [
+    {
+     "surface": "nama",
+     "gloss": "namaḥ",
+     "grounds": "obeisance formula, transliterated element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amunā",
+     "gloss": "with-this",
+     "grounds": "by means of this formula",
+     "morph": "pron.ins.sg"
+    },
+    {
+     "surface": "brahmarandhra+sthāne",
+     "gloss": "in-brahmarandhra-place",
+     "grounds": "location at the crown aperture",
+     "morph": "compound n.loc.sg"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement or installation",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where should the practitioner place the formula ending with namaḥ?",
+   "premises": [
+    "The formula includes namaḥ.",
+    "The placement uses this formula.",
+    "The specified location is the brahmarandhra."
+   ],
+   "inference": "One should place it with the formula 'namaḥ' in the place of the brahmarandhra.",
+   "uncertainties": [],
+   "plain_english": "With this formula ending in 'namaḥ', one should place it in the brahmarandhra."
+  },
+  {
+   "verse": 1192,
+   "rows": [
+    {
+     "surface": "bīja+ante",
+     "gloss": "at-seed-end",
+     "grounds": "at the end of the seed syllable",
+     "morph": "compound m.loc.sg"
+    },
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "the name to be joined",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "act of combining elements",
+     "morph": "gerund √yuj"
+    },
+    {
+     "surface": "jāti+yuktaṃ",
+     "gloss": "with-case-ending",
+     "grounds": "combined with the appropriate grammatical ending",
+     "morph": "compound n.acc.sg"
+    },
+    {
+     "surface": "ṣaḍ+aṅgakam",
+     "gloss": "six-limbed",
+     "grounds": "the six-part ritual formula",
+     "morph": "compound n.acc.sg"
+    }
+   ],
+   "question": "How should the six-limbed formula be constructed with the seed and name?",
+   "premises": [
+    "The name is joined at the end of the seed syllable.",
+    "The form is combined with the appropriate case ending.",
+    "The result is the six-limbed formula."
+   ],
+   "inference": "Having joined the name at the end of the seed syllable and added the case ending, one forms the six-limbed formula.",
+   "uncertainties": [
+    "The term jāti is interpreted here as the grammatical case ending in mantra construction."
+   ],
+   "plain_english": "Having joined the name at the end of the seed syllable and added the case ending, one should form the six-limbed formula."
+  },
+  {
+   "verse": 1193,
+   "rows": [
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "repetition of an action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bālāṃ",
+     "gloss": "bālā",
+     "grounds": "the bālā mantra or deity, name retained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samuccārya",
+     "gloss": "having-uttered",
+     "grounds": "act of pronouncing or reciting",
+     "morph": "gerund √uc"
+    },
+    {
+     "surface": "caturasraṃ",
+     "gloss": "square",
+     "grounds": "a square shape to be visualized",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "should-visualize",
+     "grounds": "mental contemplation or visualization",
+     "morph": "3.sg.opt.act √cint"
+    }
+   ],
+   "question": "What should be visualized after uttering bālā again?",
+   "premises": [
+    "The practitioner utters bālā again.",
+    "The prescribed mental act is visualization.",
+    "The object of visualization is a square."
+   ],
+   "inference": "After uttering bālā again, one should visualize a square.",
+   "uncertainties": [],
+   "plain_english": "Having uttered bālā again, one should visualize a square."
+  },
+  {
+   "verse": 1194,
+   "rows": [
+    {
+     "surface": "mūlādhāre",
+     "gloss": "in-mūlādhāra",
+     "grounds": "location at the root center",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "location at the heart center",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lalāṭe",
+     "gloss": "in-forehead",
+     "grounds": "location at the forehead",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "brahmarandhrake",
+     "gloss": "in-brahmarandhra",
+     "grounds": "location at the crown aperture",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which bodily locations are specified for the subsequent placement?",
+   "premises": [
+    "Multiple locations are listed in sequence.",
+    "The locations include mūlādhāra, heart, forehead, and brahmarandhra.",
+    "These locations serve as sites for ritual placement."
+   ],
+   "inference": "The specified locations are the mūlādhāra, heart, forehead, and brahmarandhra.",
+   "uncertainties": [],
+   "plain_english": "In the mūlādhāra, in the heart, in the forehead, and in the brahmarandhra."
+  },
+  {
+   "verse": 1195,
+   "rows": [
+    {
+     "surface": "mūla+mantra+varṇaṃ",
+     "gloss": "root-mantra-syllable",
+     "grounds": "syllable of the root mantra",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement or installation",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "What should be placed in the locations previously named?",
+   "premises": [
+    "The preceding verse lists specific bodily locations.",
+    "The object to be placed is a syllable of the root mantra.",
+    "The prescribed act is placement."
+   ],
+   "inference": "One should place a syllable of the root mantra in those locations.",
+   "uncertainties": [
+    "Whether one or multiple syllables are placed across the locations is not fully specified here."
+   ],
+   "plain_english": "One should place a syllable of the root mantra."
+  },
+  {
+   "verse": 1196,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃhāra+nyāsaḥ",
+     "gloss": "dissolution-nyāsa",
+     "grounds": "ritual placement associated with dissolution",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What ritual placement is concluded by this statement?",
+   "premises": [
+    "The verse uses a concluding marker.",
+    "The named procedure is dissolution nyāsa."
+   ],
+   "inference": "This concludes the dissolution nyāsa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the dissolution nyāsa."
+  },
+  {
+   "verse": 1197,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthiti+nyāsaḥ",
+     "gloss": "maintenance-nyāsa",
+     "grounds": "ritual placement associated with maintenance",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "What ritual placement is concluded by this statement?",
+   "premises": [
+    "The verse uses a concluding marker.",
+    "The named procedure is maintenance nyāsa."
+   ],
+   "inference": "This concludes the maintenance nyāsa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the maintenance nyāsa."
+  },
+  {
+   "verse": 1198,
+   "rows": [
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "location at the generative organ or liṅga region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśa+varṇān",
+     "gloss": "sixteen-syllables",
+     "grounds": "sixteen syllabic units",
+     "morph": "compound m.acc.pl"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement or installation",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "What should be placed in the liṅga region during this nyāsa?",
+   "premises": [
+    "The specified location is the liṅga.",
+    "The objects to be placed are sixteen syllables.",
+    "The prescribed act is placement."
+   ],
+   "inference": "One should place sixteen syllables in the liṅga.",
+   "uncertainties": [],
+   "plain_english": "And one should place sixteen syllables in the liṅga."
+  },
+  {
+   "verse": 1199,
+   "rows": [
+    {
+     "surface": "hṛt+nābhi+mūla+deśeṣu",
+     "gloss": "in-heart-navel-root-places",
+     "grounds": "locations at heart, navel, and root",
+     "morph": "compound m.loc.pl"
+    },
+    {
+     "surface": "nava+nādaṃ",
+     "gloss": "nine-nādas",
+     "grounds": "the nine nādas",
+     "morph": "compound m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "ritual placement or installation",
+     "morph": "3.sg.opt.act √nyas"
+    },
+    {
+     "surface": "su+dhīḥ",
+     "gloss": "wise-one",
+     "grounds": "the discerning practitioner",
+     "morph": "compound m.nom.sg"
+    }
+   ],
+   "question": "Where should the wise practitioner place the nine nādas?",
+   "premises": [
+    "The agent is the wise practitioner.",
+    "The object to be placed is the nine nādas.",
+    "The specified locations are the heart, navel, and root regions."
+   ],
+   "inference": "The wise practitioner should place the nine nādas in the heart, navel, and root regions.",
+   "uncertainties": [
+    "The distribution of the nine nādas across the three locations is not specified in this verse."
+   ],
+   "plain_english": "The wise one should place the nine nādas in the heart, navel, and root regions."
+  }
+ ]
+}

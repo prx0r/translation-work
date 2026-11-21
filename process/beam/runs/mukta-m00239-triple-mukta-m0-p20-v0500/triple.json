@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "tilaṃ",
+     "gloss": "sesame",
+     "grounds": "sesame seed; accusative object of the preparation",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "tailena",
+     "gloss": "with-oil",
+     "grounds": "instrumental oil used for cooking and anointing",
+     "morph": "n.instr.sg.n"
+    },
+    {
+     "surface": "saṃpakvaṃ",
+     "gloss": "well-cooked",
+     "grounds": "thoroughly cooked; describes the sesame-oil preparation",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tat+lepaḥ",
+     "gloss": "its-anointing",
+     "grounds": "fused tat+lepaḥ: that anointing or paste; subject of the claim",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "sthūla+liṅga+kṛt",
+     "gloss": "thick-penis-making",
+     "grounds": "compound sthūla+liṅga+kṛt: making the penis thick; predicate",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Which prepared sesame-oil anointing is said to make the penis thick?",
+   "premises": [
+    "Sesame is cooked in oil.",
+    "That cooked preparation is an anointing.",
+    "The anointing makes the penis thick."
+   ],
+   "inference": "The verse prescribes a sesame-oil preparation as an anointing that thickens the penis.",
+   "uncertainties": [
+    "Exact application site and dosage are not specified in this verse."
+   ],
+   "plain_english": "Sesame cooked in oil—its anointing—makes the penis thick."
+  }
+ ]
+}

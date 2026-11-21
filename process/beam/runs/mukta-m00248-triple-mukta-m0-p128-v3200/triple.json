@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p128",
+ "items": [
+  {
+   "verse": 3200,
+   "rows": [
+    {
+     "surface": "atiguhyaṃ",
+     "gloss": "very-secret",
+     "grounds": "adjective modifying the seed; denotes extreme secrecy",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective modifying the seed; denotes highest status",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "sūkṣmaṃ",
+     "gloss": "subtle",
+     "grounds": "adjective modifying the seed; denotes fineness",
+     "morph": "neut.acc.sg"
+    },
+    {
+     "surface": "mṛtyunāśanabījakam",
+     "gloss": "death-destruction-seed",
+     "grounds": "compound naming the seed whose function is destroying death",
+     "morph": "neut.acc.sg compound"
+    }
+   ],
+   "question": "What is the nature of the seed that destroys death?",
+   "premises": [
+    "The seed is very secret.",
+    "The seed is supreme.",
+    "The seed is subtle.",
+    "The seed destroys death."
+   ],
+   "inference": "The death-destroying seed is a very secret, supreme, and subtle reality.",
+   "uncertainties": [
+    "The verse does not specify the seed's further referent or ritual use."
+   ],
+   "plain_english": "It is a very secret, supreme, subtle seed that destroys death."
+  }
+ ]
+}

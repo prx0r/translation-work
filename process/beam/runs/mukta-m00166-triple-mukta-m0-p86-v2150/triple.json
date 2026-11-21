@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p86",
+ "items": [
+  {
+   "verse": 2150,
+   "rows": [
+    {
+     "surface": "kleśaṃ",
+     "gloss": "affliction",
+     "grounds": "object of removal; state of distress",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śoṣaṃ",
+     "gloss": "withering",
+     "grounds": "object of removal; state of drying or exhaustion",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayatu",
+     "gloss": "may-lead",
+     "grounds": "optative or imperative force expressing a wish or capacity to bring away",
+     "morph": "3.sg.imp.act-√nī"
+    },
+    {
+     "surface": "nayana+āloka+mātreṇa",
+     "gloss": "eye-glance-mere",
+     "grounds": "instrumental compound indicating the sole means; internal members nayana, āloka, mātra",
+     "morph": "n.ins.sg (nayana+āloka+mātra)"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "at-once",
+     "grounds": "indicates immediacy of the effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What power does a mere glance of the eye hold to remove affliction and withering?",
+   "premises": [
+    "Affliction and withering are conditions subject to removal.",
+    "A mere glance of the eye functions as the effective means.",
+    "The effect of removal occurs immediately."
+   ],
+   "inference": "A mere glance of the eye is sufficient to dispel affliction and withering at once.",
+   "uncertainties": [
+    "The subject of nayatu is carried over from the preceding verse and is not explicit in this token set."
+   ],
+   "plain_english": "May she at once lead away affliction and withering by the mere glance of her eye."
+  }
+ ]
+}

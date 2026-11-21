@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p148",
+ "items": [
+  {
+   "verse": 3700,
+   "rows": [
+    {
+     "surface": "japasthāne",
+     "gloss": "in-recitation-place",
+     "grounds": "locative of place where recitation is performed",
+     "morph": "compound.loc.sg.nt"
+    },
+    {
+     "surface": "mahāśaṅkhaṃ",
+     "gloss": "great-conch",
+     "grounds": "object to be placed",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "niveśya",
+     "gloss": "having-placed",
+     "grounds": "gerund expressing prior action",
+     "morph": "gerund.ni-√viś"
+    },
+    {
+     "surface": "ūrdhve",
+     "gloss": "above",
+     "grounds": "locative indicating position",
+     "morph": "loc.sg.nt"
+    },
+    {
+     "surface": "japan",
+     "gloss": "reciting",
+     "grounds": "present participle describing concurrent action",
+     "morph": "pres.part.nom.sg.m.√jap"
+    },
+    {
+     "surface": "caret",
+     "gloss": "should-practice",
+     "grounds": "optative prescribing ritual conduct",
+     "morph": "3.sg.opt.act.√car"
+    }
+   ],
+   "question": "What ritual arrangement governs recitation performed with a great conch placed above?",
+   "premises": [
+    "A great conch is to be placed in the recitation place.",
+    "The great conch is positioned above.",
+    "The practitioner should act while reciting."
+   ],
+   "inference": "Recitation should be practiced with a great conch placed above in the recitation place.",
+   "uncertainties": [],
+   "plain_english": "Having placed a great conch above in the place of recitation, one should practice while reciting."
+  }
+ ]
+}

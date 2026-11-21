@@ -1,0 +1,1079 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2451,
+   "rows": [
+    {
+     "surface": "kūṣmāṇḍaṃ",
+     "gloss": "pumpkin",
+     "grounds": "object to be avoided",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "parvatīyañ+ca",
+     "gloss": "mountain-grown-and",
+     "grounds": "additional attribute of object",
+     "morph": "compound: parvatīya+ca"
+    },
+    {
+     "surface": "dūrataḥ",
+     "gloss": "from-far",
+     "grounds": "manner of avoidance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "one-should-avoid",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active √parivṛj"
+    }
+   ],
+   "question": "Which specific plant must be strictly avoided from a distance?",
+   "premises": [
+    "The pumpkin is named as object",
+    "Mountain-grown variety is included",
+    "Avoidance must be from far"
+   ],
+   "inference": "One should avoid the mountain-grown pumpkin from a distance",
+   "uncertainties": [],
+   "plain_english": "One should avoid the mountain-grown pumpkin from a distance."
+  },
+  {
+   "verse": 2452,
+   "rows": [
+    {
+     "surface": "ekaviṃśati+sūtraiḥ+ca",
+     "gloss": "with-twenty-one-threads-and",
+     "grounds": "material specification",
+     "morph": "compound: ekaviṃśati+sūtra+ca, inst.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triguṇitena",
+     "gloss": "with-tripled",
+     "grounds": "modification of threads",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "additional connector",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What thread composition is required for the ritual preparation?",
+   "premises": [
+    "Twenty-one threads are specified",
+    "The threads are tripled",
+    "These elements are combined"
+   ],
+   "inference": "The ritual requires twenty-one threads that are tripled",
+   "uncertainties": [
+    "Exact ritual object made with threads is implied from context"
+   ],
+   "plain_english": "Likewise, use twenty-one threads, tripled."
+  },
+  {
+   "verse": 2453,
+   "rows": [
+    {
+     "surface": "koṣataḥ",
+     "gloss": "from-sheath",
+     "grounds": "source of material",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭṭa+sūtrañ+ca",
+     "gloss": "silk-thread-and",
+     "grounds": "preferred material",
+     "morph": "compound: paṭṭa+sūtra+ca, n.acc.sg"
+    },
+    {
+     "surface": "abhāve",
+     "gloss": "in-absence",
+     "grounds": "condition for alternative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "raktakaṃ",
+     "gloss": "red-one",
+     "grounds": "substitute material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.optative-active √nyas"
+    }
+   ],
+   "question": "What substitute material should be placed when silk thread is unavailable?",
+   "premises": [
+    "Silk thread from sheath is preferred",
+    "A condition of absence is stated",
+    "A red substitute is named"
+   ],
+   "inference": "If silk thread is unavailable, one should place a red thread instead",
+   "uncertainties": [],
+   "plain_english": "One should place silk thread from the sheath, and in its absence, a red one."
+  },
+  {
+   "verse": 2454,
+   "rows": [
+    {
+     "surface": "vānaprasthaḥ",
+     "gloss": "forest-dweller",
+     "grounds": "first category of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yatiḥ+ca+eva",
+     "gloss": "ascetic-and-indeed",
+     "grounds": "second category of practitioner",
+     "morph": "compound: yati+ca+eva, m.nom.sg"
+    },
+    {
+     "surface": "brahmacārī",
+     "gloss": "celibate-student",
+     "grounds": "third category of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "inclusion marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which categories of practitioners are included in this instruction, O beloved?",
+   "premises": [
+    "Forest-dweller is included",
+    "Ascetic is included",
+    "Celibate student is included"
+   ],
+   "inference": "The instruction applies to forest-dwellers, ascetics, and celibate students",
+   "uncertainties": [],
+   "plain_english": "O beloved, this applies likewise to the forest-dweller, the ascetic, and the celibate student."
+  },
+  {
+   "verse": 2455,
+   "rows": [
+    {
+     "surface": "vāma+haste",
+     "gloss": "in-left-hand",
+     "grounds": "location of holding",
+     "morph": "compound: vāma+hasta, m.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhṛtvā",
+     "gloss": "having-held",
+     "grounds": "prior action",
+     "morph": "(gerund) √dhṛ"
+    },
+    {
+     "surface": "sapta+bīja+antaraṃ",
+     "gloss": "seven-seed-interval",
+     "grounds": "measure or content held",
+     "morph": "compound: sapta+bīja+antara, n.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What must be held in the left hand during this ritual step?",
+   "premises": [
+    "The left hand is specified",
+    "Holding is the required action",
+    "Seven-seed interval is the object"
+   ],
+   "inference": "One should hold something with a seven-seed interval in the left hand",
+   "uncertainties": [
+    "Exact referent of sapta-bīja-antara is context-dependent"
+   ],
+   "plain_english": "Then, O beloved, having held it in the left hand with an interval of seven seeds."
+  },
+  {
+   "verse": 2456,
+   "rows": [
+    {
+     "surface": "gṛha+dvāre",
+     "gloss": "at-house-door",
+     "grounds": "location of action",
+     "morph": "compound: gṛha+dvāra, n.loc.sg"
+    },
+    {
+     "surface": "varadāya",
+     "gloss": "to-boon-giver",
+     "grounds": "recipient of salutation",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "samāgamya",
+     "gloss": "having-approached",
+     "grounds": "prior action",
+     "morph": "(gerund) √samāgam"
+    },
+    {
+     "surface": "tintiḍīkāya",
+     "gloss": "to-tamarind-tree",
+     "grounds": "object addressed",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "salutation",
+     "grounds": "act of reverence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom is salutation offered at the house door in this rite?",
+   "premises": [
+    "The location is the house door",
+    "Approach precedes salutation",
+    "The tamarind tree as boon-giver is addressed"
+   ],
+   "inference": "Having approached the house door, one offers salutation to the tamarind tree as boon-giver",
+   "uncertainties": [],
+   "plain_english": "Having approached the house door, offer salutation indeed to the tamarind tree, the boon-giver."
+  },
+  {
+   "verse": 2457,
+   "rows": [
+    {
+     "surface": "kāmeśvarasya",
+     "gloss": "of-kāmeśvara",
+     "grounds": "reference point",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "spatial location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "as-far-as",
+     "grounds": "extent marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddheśvaraḥ",
+     "gloss": "siddheśvara",
+     "grounds": "endpoint landmark",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "is-situated",
+     "grounds": "state of being",
+     "morph": "m.nom.sg (past participle) √sthā"
+    }
+   ],
+   "question": "What spatial extent is defined between Kāmeśvara and Siddheśvara?",
+   "premises": [
+    "Kāmeśvara's back is the starting reference",
+    "Siddheśvara is situated as endpoint",
+    "The extent is delimited by their positions"
+   ],
+   "inference": "The area extends from the back of Kāmeśvara to where Siddheśvara is situated",
+   "uncertainties": [],
+   "plain_english": "On the back of Kāmeśvara, extending as far as where Siddheśvara is situated."
+  },
+  {
+   "verse": 2458,
+   "rows": [
+    {
+     "surface": "ca+atra",
+     "gloss": "and-here",
+     "grounds": "locative continuation",
+     "morph": "compound: ca+atra (indecl.)"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.present-passive √vidhā"
+    }
+   ],
+   "question": "What authoritative status is given to the practice at this location?",
+   "premises": [
+    "The location is indicated as here",
+    "A prescriptive verb is used",
+    "The practice is formally enjoined"
+   ],
+   "inference": "The practice is prescribed here",
+   "uncertainties": [
+    "Specific practice prescribed is supplied by surrounding verses"
+   ],
+   "plain_english": "And here it is prescribed."
+  },
+  {
+   "verse": 2459,
+   "rows": [
+    {
+     "surface": "agniṣṭoma+śataṃ",
+     "gloss": "hundred-agniṣṭoma-sacrifices",
+     "grounds": "measure of merit",
+     "morph": "compound: agniṣṭoma+śata, n.acc.sg"
+    },
+    {
+     "surface": "puṇyaṃ",
+     "gloss": "merit",
+     "grounds": "spiritual result",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "one-obtains",
+     "grounds": "acquisition of result",
+     "morph": "3.sg.present-middle √labh"
+    },
+    {
+     "surface": "na+atra",
+     "gloss": "not-here",
+     "grounds": "negation of doubt",
+     "morph": "compound: na+atra (indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "excluded uncertainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What magnitude of merit is obtained without any doubt from this act?",
+   "premises": [
+    "Merit equal to hundred agniṣṭoma sacrifices is stated",
+    "The practitioner obtains this merit",
+    "Doubt is explicitly denied"
+   ],
+   "inference": "One obtains the merit of a hundred agniṣṭoma sacrifices without doubt",
+   "uncertainties": [],
+   "plain_english": "One obtains the merit of a hundred Agniṣṭoma sacrifices; there is no doubt here."
+  },
+  {
+   "verse": 2460,
+   "rows": [
+    {
+     "surface": "piṇḍa+nirvapaṇaṃ",
+     "gloss": "rice-ball-offering",
+     "grounds": "ritual act",
+     "morph": "compound: piṇḍa+nirvapaṇa, n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completed action",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "mātṝṇām",
+     "gloss": "of-mothers",
+     "grounds": "recipients of offering",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "anṛṇaḥ",
+     "gloss": "free-from-debt",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What spiritual debt is cleared by performing the piṇḍa offering to the mothers?",
+   "premises": [
+    "A piṇḍa offering is performed",
+    "The offering is directed to the mothers",
+    "Freedom from debt results"
+   ],
+   "inference": "By offering piṇḍa to the mothers, one becomes free from debt to them",
+   "uncertainties": [],
+   "plain_english": "Having made the piṇḍa offering to the mothers, one becomes free from debt."
+  },
+  {
+   "verse": 2461,
+   "rows": [
+    {
+     "surface": "vindhyeśī",
+     "gloss": "vindhyeśī",
+     "grounds": "name of goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "anaphoric subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samākhyātā",
+     "gloss": "is-called",
+     "grounds": "identification",
+     "morph": "f.nom.sg (past participle) √samākhyā"
+    },
+    {
+     "surface": "prayajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active √prajaj"
+    },
+    {
+     "surface": "kamala+ādinā",
+     "gloss": "with-lotus-etc",
+     "grounds": "offerings used",
+     "morph": "compound: kamala+ādi, n.inst.sg"
+    }
+   ],
+   "question": "How should the goddess known as Vindhyeśī be worshipped?",
+   "premises": [
+    "The goddess is identified as Vindhyeśī",
+    "Worship is prescribed",
+    "Lotus and other offerings are specified"
+   ],
+   "inference": "One should worship Vindhyeśī with lotus and other offerings",
+   "uncertainties": [],
+   "plain_english": "She is called Vindhyeśī; one should worship her with lotus and other offerings."
+  },
+  {
+   "verse": 2462,
+   "rows": [
+    {
+     "surface": "gavām+ayuta+dānena",
+     "gloss": "by-cow-ten-thousand-gift",
+     "grounds": "comparative meritorious act",
+     "morph": "compound: go+ayuta+dāna, n.inst.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result of act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "o-pārvatī",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "one-obtains",
+     "grounds": "acquisition of result",
+     "morph": "3.sg.present-middle √labh"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What equivalent merit is gained at that place compared to gifting ten thousand cows?",
+   "premises": [
+    "Gifting ten thousand cows yields a fruit",
+    "That same fruit is obtained there",
+    "Pārvatī is addressed as witness"
+   ],
+   "inference": "One obtains there the same fruit as gifting ten thousand cows",
+   "uncertainties": [],
+   "plain_english": "O Pārvatī, O beloved, one obtains there the same fruit as giving ten thousand cows."
+  },
+  {
+   "verse": 2463,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "reference to goddess or place",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "pūrva+uttare+deśe",
+     "gloss": "in-north-east-region",
+     "grounds": "directional location",
+     "morph": "compound: pūrva+uttara+deśa, m.loc.sg"
+    },
+    {
+     "surface": "iṣu+kṣepa+śata+adhike",
+     "gloss": "arrow-throw-hundred-more-than",
+     "grounds": "distance measure",
+     "morph": "compound: iṣu+kṣepa+śata+adhika, m.loc.sg"
+    }
+   ],
+   "question": "Where is the next sacred location situated relative to her position?",
+   "premises": [
+    "The reference point is her location",
+    "The direction is north-east",
+    "The distance exceeds a hundred arrow-throws"
+   ],
+   "inference": "The location is in the north-east, more than a hundred arrow-throws away",
+   "uncertainties": [],
+   "plain_english": "In her north-eastern region, at a distance of more than a hundred arrow-throws."
+  },
+  {
+   "verse": 2464,
+   "rows": [
+    {
+     "surface": "dakṣiṇena",
+     "gloss": "to-the-south",
+     "grounds": "directional marker",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya+agraṃ",
+     "gloss": "of-that-front",
+     "grounds": "spatial reference",
+     "morph": "compound: tad+agra, n.nom.sg"
+    },
+    {
+     "surface": "tasyāge",
+     "gloss": "of-that-front",
+     "grounds": "spatial reference variant",
+     "morph": "compound: tad+agra, n.loc.sg"
+    },
+    {
+     "surface": "kiñcit",
+     "gloss": "somewhat",
+     "grounds": "degree modifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucce",
+     "gloss": "on-high",
+     "grounds": "elevation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "situated",
+     "grounds": "state of location",
+     "morph": "f.nom.sg (past participle) √saṃsthā"
+    }
+   ],
+   "question": "How is the sacred site positioned relative to the southern front area?",
+   "premises": [
+    "The southern direction is indicated",
+    "The front of that place is referenced",
+    "It is situated somewhat on high"
+   ],
+   "inference": "The site is situated somewhat elevated to the south of that front area",
+   "uncertainties": [
+    "Token tasyāge appears irregular; may be variant of tasyāgre"
+   ],
+   "plain_english": "To the south of its front, it is situated somewhat on high."
+  },
+  {
+   "verse": 2465,
+   "rows": [
+    {
+     "surface": "aśvatthaṃ",
+     "gloss": "aśvattha-tree",
+     "grounds": "sacred tree",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nandi+rūpañ+ca",
+     "gloss": "nandi-form-and",
+     "grounds": "associated form",
+     "morph": "compound: nandi+rūpa+ca, n.acc.sg"
+    },
+    {
+     "surface": "mūle",
+     "gloss": "at-root",
+     "grounds": "location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kūrma+ākṛtiḥ",
+     "gloss": "tortoise-form",
+     "grounds": "shape of stone",
+     "morph": "compound: kūrma+ākṛti, f.nom.sg"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "sacred object",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What sacred objects are found at the root of the aśvattha tree?",
+   "premises": [
+    "An aśvattha tree is present",
+    "A form of Nandi is associated",
+    "A tortoise-shaped stone is at the root"
+   ],
+   "inference": "At the root of the aśvattha tree there is a form of Nandi and a tortoise-shaped stone",
+   "uncertainties": [],
+   "plain_english": "There is an aśvattha tree and a form of Nandi, and at its root a stone in the shape of a tortoise."
+  },
+  {
+   "verse": 2466,
+   "rows": [
+    {
+     "surface": "gati+pradīpikā+ākāraṃ",
+     "gloss": "path-lamp-like",
+     "grounds": "shape description",
+     "morph": "compound: gati+pradīpikā+ākāra, n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍaṃ",
+     "gloss": "basin",
+     "grounds": "sacred water feature",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva+agha+nāśanam",
+     "gloss": "all-sin-destroying",
+     "grounds": "purifying power",
+     "morph": "compound: sarva+agha+nāśana, n.acc.sg"
+    }
+   ],
+   "question": "What purifying power is attributed to the lamp-shaped basin?",
+   "premises": [
+    "A basin shaped like a path-lamp exists",
+    "The basin has a destructive effect on sin",
+    "All sins are included in this effect"
+   ],
+   "inference": "The lamp-shaped basin destroys all sins",
+   "uncertainties": [],
+   "plain_english": "There is a basin shaped like a lamp for the path, which destroys all sins."
+  },
+  {
+   "verse": 2467,
+   "rows": [
+    {
+     "surface": "vyāsa+tīrthe",
+     "gloss": "at-vyāsa-tīrtha",
+     "grounds": "sacred bathing place",
+     "morph": "compound: vyāsa+tīrtha, n.loc.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "prior ritual action",
+     "morph": "(gerund) √snā"
+    },
+    {
+     "surface": "lalitāṃ",
+     "gloss": "lalitā",
+     "grounds": "goddess worshipped",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhipūjayet",
+     "gloss": "worships",
+     "grounds": "act of worship",
+     "morph": "3.sg.optative-active √abhipūj"
+    }
+   ],
+   "question": "What ritual sequence leads to the worship of Lalitā at Vyāsa-tīrtha?",
+   "premises": [
+    "The location is Vyāsa-tīrtha",
+    "Bathing precedes worship",
+    "Lalitā is the object of worship"
+   ],
+   "inference": "A man who bathes at Vyāsa-tīrtha should then worship Lalitā",
+   "uncertainties": [],
+   "plain_english": "A man who bathes at Vyāsa-tīrtha and worships Lalitā."
+  },
+  {
+   "verse": 2468,
+   "rows": [
+    {
+     "surface": "viṃśat+dhanvantare",
+     "gloss": "twenty-bows-distance",
+     "grounds": "distance measure",
+     "morph": "compound: viṃśat+dhanvantara, n.loc.sg"
+    },
+    {
+     "surface": "sairupacihnitam",
+     "gloss": "marked-by-sairu",
+     "grounds": "identifying marker",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prācyāṃ",
+     "gloss": "in-east",
+     "grounds": "direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vanadāsa+sucihnitam",
+     "gloss": "marked-by-vanadāsa",
+     "grounds": "additional marker",
+     "morph": "compound: vanadāsa+sucihnita, n.acc.sg"
+    }
+   ],
+   "question": "What landmarks identify the site located twenty bow-lengths to the east?",
+   "premises": [
+    "The distance is twenty bow-lengths",
+    "The direction is east",
+    "Markers associated with Sairu and Vanadāsa identify it"
+   ],
+   "inference": "The eastern site at twenty bow-lengths is marked by Sairu and Vanadāsa",
+   "uncertainties": [
+    "Sairu and Vanadāsa may be proper names or local markers"
+   ],
+   "plain_english": "Twenty bow-lengths to the east, it is marked by Sairu and well-marked by Vanadāsa."
+  },
+  {
+   "verse": 2469,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "reference to prior location",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "mūla+sthitā",
+     "gloss": "at-root-situated",
+     "grounds": "position of goddess",
+     "morph": "compound: mūla+sthita, f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "divine figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ucca+vāraṇa+rūpiṇī",
+     "gloss": "lofty-elephant-form",
+     "grounds": "form of goddess",
+     "morph": "compound: ucca+vāraṇa+rūpin, f.nom.sg"
+    }
+   ],
+   "question": "What form does the goddess take at the root of that location?",
+   "premises": [
+    "A goddess is situated at its root",
+    "Her form is described explicitly",
+    "She appears as a lofty elephant"
+   ],
+   "inference": "The goddess at its root has the form of a lofty elephant",
+   "uncertainties": [],
+   "plain_english": "At its root is situated the goddess in the form of a lofty elephant."
+  },
+  {
+   "verse": 2470,
+   "rows": [
+    {
+     "surface": "vṛkṣaṃ",
+     "gloss": "tree",
+     "grounds": "object touched",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "state of tree",
+     "morph": "m.acc.sg (past participle) √sthā"
+    },
+    {
+     "surface": "spṛṣṭvā",
+     "gloss": "having-touched",
+     "grounds": "ritual action",
+     "morph": "(gerund) √spṛś"
+    },
+    {
+     "surface": "vandhyā",
+     "gloss": "barren-woman",
+     "grounds": "recipient of benefit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "garbha+dharā",
+     "gloss": "embryo-bearing",
+     "grounds": "resulting state",
+     "morph": "compound: garbha+dhara, f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What fertility benefit results from touching the tree situated there?",
+   "premises": [
+    "A tree is situated there",
+    "Touching the tree is performed",
+    "A barren woman becomes embryo-bearing"
+   ],
+   "inference": "By touching that tree, a barren woman becomes able to bear a child",
+   "uncertainties": [],
+   "plain_english": "Having touched the tree situated there, a barren woman becomes pregnant."
+  },
+  {
+   "verse": 2471,
+   "rows": [
+    {
+     "surface": "dāḍimasya",
+     "gloss": "of-pomegranate-tree",
+     "grounds": "reference landmark",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connector",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "to-east",
+     "grounds": "direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na+atidūre",
+     "gloss": "not-far",
+     "grounds": "distance qualifier",
+     "morph": "compound: na+atidūra, n.loc.sg"
+    },
+    {
+     "surface": "pratiṣṭhitam",
+     "gloss": "situated",
+     "grounds": "state of location",
+     "morph": "n.nom.sg (past participle) √pratiṣṭhā"
+    }
+   ],
+   "question": "Where is the next sacred object located relative to the pomegranate tree?",
+   "premises": [
+    "The pomegranate tree is the reference point",
+    "The direction is east",
+    "The distance is not far"
+   ],
+   "inference": "The object is situated not far to the east of the pomegranate tree",
+   "uncertainties": [],
+   "plain_english": "And to the east of the pomegranate tree, not far away, it is situated."
+  },
+  {
+   "verse": 2472,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "kāma+bījena",
+     "gloss": "with-kāma-seed",
+     "grounds": "mantra used in worship",
+     "morph": "compound: kāma+bīja, n.inst.sg"
+    },
+    {
+     "surface": "vijayī",
+     "gloss": "victorious",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "resultative outcome",
+     "morph": "3.sg.present-middle √jan"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What outcome is achieved by worshipping with the kāma-bīja mantra?",
+   "premises": [
+    "Worship is performed with the kāma-bīja",
+    "The practitioner is a man",
+    "Victory is the stated result"
+   ],
+   "inference": "A man who worships with the kāma-bīja becomes victorious",
+   "uncertainties": [],
+   "plain_english": "One should worship with the kāma-bīja; the man becomes victorious."
+  },
+  {
+   "verse": 2473,
+   "rows": [
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gadādharaṃ",
+     "gloss": "gadādhara",
+     "grounds": "epithet of deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "location of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "kusuma+ādinā",
+     "gloss": "with-flowers-etc",
+     "grounds": "offerings used",
+     "morph": "compound: kusuma+ādi, n.inst.sg"
+    }
+   ],
+   "question": "How should the god Gadādhara be worshipped at that location?",
+   "premises": [
+    "The deity Gadādhara is present there",
+    "Worship is prescribed",
+    "Flowers and other offerings are used"
+   ],
+   "inference": "One should worship Gadādhara there with flowers and other offerings",
+   "uncertainties": [],
+   "plain_english": "There one should worship the god Gadādhara with flowers and other offerings."
+  },
+  {
+   "verse": 2474,
+   "rows": [
+    {
+     "surface": "jalpīśaṃ",
+     "gloss": "jalpīśa",
+     "grounds": "name of deity or liṅga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "demonstrative reference",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahā+liṅgaṃ",
+     "gloss": "great-liṅga",
+     "grounds": "sacred object",
+     "morph": "compound: mahā+liṅga, n.acc.sg"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative-active √pūj"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-much",
+     "grounds": "extent or manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uccaran",
+     "gloss": "uttering",
+     "grounds": "accompanying vocal action",
+     "morph": "m.nom.sg (present participle) √uccar"
+    }
+   ],
+   "question": "What vocal practice accompanies the worship of the great liṅga Jalpīśa?",
+   "premises": [
+    "The great liṅga Jalpīśa is to be worshipped",
+    "Worship is prescribed",
+    "Utterance accompanies the worship"
+   ],
+   "inference": "One should worship the great liṅga Jalpīśa while uttering accordingly",
+   "uncertainties": [
+    "What is uttered is not specified in this verse"
+   ],
+   "plain_english": "One should worship that great liṅga Jalpīśa while uttering."
+  }
+ ]
+}

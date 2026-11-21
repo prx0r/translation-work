@@ -1,0 +1,623 @@
+{
+ "song": "kul-p12",
+ "items": [
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "catuṣpadāṃ",
+     "gloss": "of-four-footed",
+     "grounds": "genitive plural of catuṣpada",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhenuryathā",
+     "gloss": "cow-as",
+     "grounds": "fused dhenur + yathā; sandhi retained",
+     "morph": "nom.sg.f + (indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃsastu",
+     "gloss": "swan-but",
+     "grounds": "fused haṃsaḥ + tu; sandhi retained",
+     "morph": "nom.sg.m + (indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣiṇām",
+     "gloss": "of-birds",
+     "grounds": "genitive plural of pakṣin",
+     "morph": "gen.pl.m"
+    }
+   ],
+   "question": "How does the verse rank the upward tradition among all dharmas?",
+   "premises": [
+    "The upward tradition is superior among all dharmas.",
+    "It is to be known, not otherwise.",
+    "The dear one is addressed."
+   ],
+   "inference": "The upward tradition stands highest and must be known as such.",
+   "uncertainties": [
+    "Fused sandhi forms are analyzed as wholes without splitting rows."
+   ],
+   "plain_english": "As the cow among four-footed beings, as the swan among birds, so the upward tradition is superior among all dharmas."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "manuṣyāṇāṃ",
+     "gloss": "of-humans",
+     "grounds": "genitive plural of manuṣya",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rājā'vayavānāṃ",
+     "gloss": "king-of-limbs",
+     "grounds": "fused rājā + avayavānāṃ; sandhi retained",
+     "morph": "nom.sg.m + gen.pl.m"
+    },
+    {
+     "surface": "avayavānāṃ",
+     "gloss": "of-limbs",
+     "grounds": "genitive plural of avayava",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "nominative singular of śiras",
+     "morph": "nom.sg.n"
+    }
+   ],
+   "question": "What analogy establishes the head among the limbs?",
+   "premises": [
+    "Among humans the king is supreme.",
+    "Among limbs the head is supreme.",
+    "The upward tradition is analogously supreme."
+   ],
+   "inference": "The head is the ruling limb, just as the king rules humans.",
+   "uncertainties": [
+    "The fused token is kept as one row."
+   ],
+   "plain_english": "As the king among humans, as the head among limbs, so the upward tradition is supreme."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "tathaiva",
+     "gloss": "so-indeed",
+     "grounds": "indeclinable emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadharmāṇāmūrdhvāmnāyo'dhikaḥ",
+     "gloss": "of-all-dharmas-upward-tradition-superior",
+     "grounds": "fused compound phrase; sandhi retained",
+     "morph": "gen.pl.m + nom.sg.m + nom.sg.m"
+    },
+    {
+     "surface": "ūrdhvāmnāyo'dhikaḥ",
+     "gloss": "upward-tradition-superior",
+     "grounds": "fused ūrdhvāmnāyaḥ + adhikaḥ; sandhi retained",
+     "morph": "nom.sg.m + nom.sg.m"
+    },
+    {
+     "surface": "adhikaḥ",
+     "gloss": "superior",
+     "grounds": "nominative singular masculine of adhika",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative singular feminine of priya",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "Why is the upward tradition called superior among all dharmas?",
+   "premises": [
+    "So indeed the upward tradition is superior among all dharmas.",
+    "The dear one is addressed.",
+    "Superiority is stated directly."
+   ],
+   "inference": "The upward tradition is declared superior among all dharmas.",
+   "uncertainties": [
+    "The long fused token is analyzed as a whole."
+   ],
+   "plain_english": "So indeed, dear one, the upward tradition is superior among all dharmas."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "ūrdhvāmnāyaṃ",
+     "gloss": "upward-tradition",
+     "grounds": "accusative singular masculine of ūrdhvāmnāya",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "vijānīyānnānyathā",
+     "gloss": "know-not-otherwise",
+     "grounds": "fused vijānīyāt + nānyathā; sandhi retained",
+     "morph": "3.sg.act.opt. + (indecl.)"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīravandite",
+     "gloss": "hero-honored-one",
+     "grounds": "vocative singular feminine of vīravandita",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "How should the upward tradition be known?",
+   "premises": [
+    "The upward tradition is to be known.",
+    "It is not to be known otherwise.",
+    "The hero-honored one is addressed."
+   ],
+   "inference": "The upward tradition must be known directly and in no other way.",
+   "uncertainties": [
+    "The fused optative form is analyzed as a whole."
+   ],
+   "plain_english": "Know the upward tradition, hero-honored one; not otherwise."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive plural of tad",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "lakṣeṣu",
+     "gloss": "in-lakhs",
+     "grounds": "locative plural of lakṣa",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "nominative singular masculine relative pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "kaścidūrdhvāmnāyaṃ",
+     "gloss": "someone-upward-tradition",
+     "grounds": "fused kaścit + ūrdhvāmnāyam; sandhi retained",
+     "morph": "nom.sg.m + acc.sg.m"
+    },
+    {
+     "surface": "ūrdhvāmnāyaṃ",
+     "gloss": "upward-tradition",
+     "grounds": "accusative singular masculine of ūrdhvāmnāya",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "pravetti",
+     "gloss": "declares",
+     "grounds": "third singular present active of pravakti",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who among them declares the upward tradition?",
+   "premises": [
+    "Among them, in lakhs, someone declares the upward tradition.",
+    "The upward tradition is the object declared.",
+    "The declaration is affirmed."
+   ],
+   "inference": "Someone among them declares the upward tradition.",
+   "uncertainties": [
+    "The fused pronoun-object token is analyzed as a whole."
+   ],
+   "plain_english": "Among them, in lakhs, someone declares the upward tradition."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajñairna",
+     "gloss": "by-sacrifices-not",
+     "grounds": "fused yajñaiḥ + na; sandhi retained",
+     "morph": "instr.pl.m + (indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tapobhirvā",
+     "gloss": "by-austerities-or",
+     "grounds": "fused tapobhiḥ + vā; sandhi retained",
+     "morph": "instr.pl.m + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable disjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tīrthavratakoṭibhiḥ",
+     "gloss": "by-shrine-vow-millions",
+     "grounds": "instrumental plural of tīrthavratakoṭi",
+     "morph": "instr.pl.f"
+    }
+   ],
+   "question": "What does not reveal the upward tradition?",
+   "premises": [
+    "Not by sacrifices, not by austerities, not by millions of shrine-vows.",
+    "The negations are repeated.",
+    "The upward tradition is not reached by these."
+   ],
+   "inference": "Sacrifices, austerities, and millions of shrine-vows do not reveal the upward tradition.",
+   "uncertainties": [
+    "The fused instrumental tokens are analyzed as wholes."
+   ],
+   "plain_english": "Not by sacrifices, not by austerities, nor by millions of shrine-vows."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "āmnāyo",
+     "gloss": "tradition",
+     "grounds": "nominative singular masculine of āmnāya",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jñāyate",
+     "gloss": "known",
+     "grounds": "third singular present passive of jñā",
+     "morph": "3.sg.pass.pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ūrdhvaḥ",
+     "gloss": "upward",
+     "grounds": "nominative singular masculine of ūrdhva",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "indeclinable preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmadgurumukhaṃ",
+     "gloss": "glorious-guru-mouth",
+     "grounds": "accusative singular neuter of śrīmadgurumukha",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How is the upward tradition known?",
+   "premises": [
+    "The tradition is known.",
+    "The upward tradition is known without the glorious guru's mouth.",
+    "The guru's mouth is the stated means."
+   ],
+   "inference": "The upward tradition is known through the glorious guru's mouth.",
+   "uncertainties": [
+    "The compound śrīmadgurumukhaṃ is analyzed as one token."
+   ],
+   "plain_english": "The upward tradition is known through the glorious guru's mouth."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "tasmāddeveśi",
+     "gloss": "therefore-goddess-of-gods",
+     "grounds": "fused tasmāt + deveśi; sandhi retained",
+     "morph": "(indecl.) + voc.sg.f"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "goddess-of-gods",
+     "grounds": "vocative singular feminine of deveśī",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "jānīyādūrdhvāmnāyaṃ",
+     "gloss": "know-upward-tradition",
+     "grounds": "fused jānīyāt + ūrdhvāmnāyam; sandhi retained",
+     "morph": "3.sg.act.opt. + acc.sg.m"
+    },
+    {
+     "surface": "ūrdhvāmnāyaṃ",
+     "gloss": "upward-tradition",
+     "grounds": "accusative singular masculine of ūrdhvāmnāya",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "kuleśvarī",
+     "grounds": "vocative singular feminine of kuleśvarī",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What should the goddess of gods know?",
+   "premises": [
+    "Therefore, goddess of gods, know the upward tradition.",
+    "Kuleśvarī is addressed.",
+    "The upward tradition is the object of knowledge."
+   ],
+   "inference": "The goddess of gods should know the upward tradition.",
+   "uncertainties": [
+    "The fused optative token is analyzed as a whole."
+   ],
+   "plain_english": "Therefore, goddess of gods, know the upward tradition, Kuleśvarī."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "third singular middle present of labh",
+     "morph": "3.sg.mid.pres"
+    },
+    {
+     "surface": "kāṅkṣatāṃ",
+     "gloss": "desired",
+     "grounds": "accusative plural feminine of kāṅkṣat",
+     "morph": "acc.pl.f"
+    },
+    {
+     "surface": "siddhiṃ",
+     "gloss": "perfection",
+     "grounds": "accusative singular feminine of siddhi",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "indeclinable or accusative singular neuter of satya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "indeclinable or accusative singular neuter of satya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varānane",
+     "gloss": "best-faced-one",
+     "grounds": "vocative singular feminine of varānanā",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What does one obtain by knowing the upward tradition?",
+   "premises": [
+    "One obtains the desired perfection.",
+    "Truth, truth is affirmed.",
+    "The best-faced one is addressed."
+   ],
+   "inference": "Knowing the upward tradition brings the desired perfection.",
+   "uncertainties": [
+    "satyaṃ may be indeclinable or accusative; analyzed without forcing."
+   ],
+   "plain_english": "One obtains the desired perfection; truth, truth, best-faced one."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "śāstramārgeṇa",
+     "gloss": "by-scripture-path",
+     "grounds": "instrumental singular masculine of śāstramārga",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "naro",
+     "gloss": "man",
+     "grounds": "nominative singular masculine of nara",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "jīvanmukto",
+     "gloss": "living-liberated",
+     "grounds": "nominative singular masculine compound",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative singular masculine of saṃśaya",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What is the man who follows the scripture path?",
+   "premises": [
+    "By the scripture path that man is living-liberated.",
+    "There is no doubt.",
+    "The path is stated as the means."
+   ],
+   "inference": "The man who follows the scripture path is living-liberated without doubt.",
+   "uncertainties": [
+    "jīvanmukto is analyzed as a compound adjective."
+   ],
+   "plain_english": "By the scripture path that man is living-liberated; no doubt."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sevyaḥ",
+     "gloss": "worshipful",
+     "grounds": "nominative singular masculine of sevya",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃstutyaḥ",
+     "gloss": "praised",
+     "grounds": "nominative singular masculine of saṃstutya",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "draṣṭavyaḥ",
+     "gloss": "to-be-seen",
+     "grounds": "nominative singular masculine of draṣṭavya",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sāttvikaḥ",
+     "gloss": "sāttvika",
+     "grounds": "nominative singular masculine of sāttvika",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "How should such a man be regarded?",
+   "premises": [
+    "He is worshipful.",
+    "He is praised.",
+    "He is to be seen and is sāttvika."
+   ],
+   "inference": "Such a man is worshipful, praised, to be seen, and sāttvika.",
+   "uncertainties": [
+    "The repeated sa pronouns are kept as separate tokens."
+   ],
+   "plain_english": "He is worshipful, he is praised, he is to be seen, he is sāttvika."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vedāgamaśāstrādisarvavidyāviśāradaḥ",
+     "gloss": "veda-āgama-śāstra-all-knowledge-skilled",
+     "grounds": "fused long compound; sandhi retained",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "sarvavidyāviśāradaḥ",
+     "gloss": "all-knowledge-skilled",
+     "grounds": "nominative singular masculine compound",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What knowledge characterizes such a man?",
+   "premises": [
+    "He is skilled in all knowledge of veda, āgama, śāstra, and so on.",
+    "The long compound is kept as one token.",
+    "He is all-knowledge-skilled."
+   ],
+   "inference": "Such a man is skilled in all knowledge of veda, āgama, śāstra, and related scriptures.",
+   "uncertainties": [
+    "The long fused compound is analyzed as a whole."
+   ],
+   "plain_english": "He is skilled in all knowledge of veda, āgama, śāstra, and so on."
+  }
+ ]
+}

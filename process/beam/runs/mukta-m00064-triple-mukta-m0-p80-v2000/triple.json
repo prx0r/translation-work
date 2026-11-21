@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "Optative verb expressing injunction to perform worship.",
+     "morph": "3.sg.act-opt.pres (√pūj)"
+    },
+    {
+     "surface": "parayā",
+     "gloss": "with-supreme",
+     "grounds": "Qualifies the devotion as highest or supreme.",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "Instrument denoting the attitude accompanying worship.",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "Instrument denoting the ritual formula used in worship.",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "Demonstrative specifying the particular mantra to be used.",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhāvini",
+     "gloss": "O-fortunate-one",
+     "grounds": "Vocative address to the listener.",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "By what means and attitude should worship be performed, O fortunate one?",
+   "premises": [
+    "Worship is enjoined as the prescribed action.",
+    "Supreme devotion must accompany the worship.",
+    "This specific mantra must be employed in the worship."
+   ],
+   "inference": "Therefore, one should perform worship with supreme devotion using this mantra.",
+   "uncertainties": [
+    "The object of worship is not explicitly named in this verse and relies on context.",
+    "The referent of 'this mantra' is not specified within this verse."
+   ],
+   "plain_english": "O fortunate one, one should worship with supreme devotion using this mantra."
+  }
+ ]
+}

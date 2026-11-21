@@ -1,0 +1,940 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3451,
+   "rows": [
+    {
+     "surface": "bṛhatīśaḥ",
+     "gloss": "great-lord",
+     "grounds": "compound bṛhatī + īśaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "taṃjāpūryāṃ",
+     "gloss": "in-tanjapuri",
+     "grounds": "locative form",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "rāmeśo",
+     "gloss": "ramesha",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahnipuṣkare",
+     "gloss": "in-fire-lotus",
+     "grounds": "compound vahni + puṣkara",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which great lord is named for Tanjapuri and fire-lotus?",
+   "premises": [
+    "bṛhatīśaḥ is named",
+    "taṃjāpūryāṃ is location",
+    "rāmeśo is named",
+    "vahnipuṣkare is location"
+   ],
+   "inference": "The verse pairs divine names with sacred places.",
+   "uncertainties": [
+    "compound boundaries not fully resolved"
+   ],
+   "plain_english": "Bṛhatīśa is at Tanjapuri; Rāmeśa is at Vahnipuṣkara."
+  },
+  {
+   "verse": 3452,
+   "rows": [
+    {
+     "surface": "viṃdhyācale",
+     "gloss": "in-vindhya-hill",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "varāheśo",
+     "gloss": "varahesha",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nṛsiṃhassyād",
+     "gloss": "narasimha",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ahobale",
+     "gloss": "at-ahobala",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which deities are placed at Vindhya and Ahobala?",
+   "premises": [
+    "viṃdhyācale is location",
+    "varāheśo is named",
+    "nṛsiṃhassyād is named",
+    "ahobale is location"
+   ],
+   "inference": "Varāheśa is at Vindhya; Narasiṃha is at Ahobala.",
+   "uncertainties": [
+    "sandhi in nṛsiṃhassyād"
+   ],
+   "plain_english": "Varāheśa is at Vindhya hill; Narasiṃha is at Ahobala."
+  },
+  {
+   "verse": 3453,
+   "rows": [
+    {
+     "surface": "tathāparaśurāmeśaḥ",
+     "gloss": "then-parashuramesha",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "setau",
+     "gloss": "at-setu",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "rāmeśvarābhidhaḥ",
+     "gloss": "rameshvara-named",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which Parashurama-related lord is named at Setu?",
+   "premises": [
+    "tathāparaśurāmeśaḥ is named",
+    "setau is location",
+    "rāmeśvarābhidhaḥ is named"
+   ],
+   "inference": "The verse names a Parashurāma-linked lord at Setu.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Then Parashurāmeśa, called Rāmeśvara, is at Setu."
+  },
+  {
+   "verse": 3454,
+   "rows": [
+    {
+     "surface": "tattvakṣetre",
+     "gloss": "in-truth-field",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "cakalkīśaḥ",
+     "gloss": "kalkisha",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇeśassyān",
+     "gloss": "krishnesha",
+     "grounds": "fused form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mahendrake",
+     "gloss": "at-mahendra",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which lords are associated with truth-field and Mahendra?",
+   "premises": [
+    "tattvakṣetre is location",
+    "cakalkīśaḥ is named",
+    "kṛṣṇeśassyān is named",
+    "mahendrake is location"
+   ],
+   "inference": "Kalkīśa is in truth-field; Kṛṣṇeśa is at Mahendra.",
+   "uncertainties": [
+    "sandhi in kṛṣṇeśassyān"
+   ],
+   "plain_english": "Kalkīśa is in the truth-field; Kṛṣṇeśa is at Mahendra."
+  },
+  {
+   "verse": 3455,
+   "rows": [
+    {
+     "surface": "jalaliṃgaṃ",
+     "gloss": "water-linga",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "jaṃbunāthe",
+     "gloss": "at-jambunatha",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tiruvānanadīpatiḥ",
+     "gloss": "tiruvananadipati",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which water-linga and lord are named at Jambunatha?",
+   "premises": [
+    "jalaliṃgaṃ is named",
+    "jaṃbunāthe is location",
+    "tiruvānanadīpatiḥ is named"
+   ],
+   "inference": "A water-linga and Tiruvānanadīpati are at Jambunatha.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The water-linga and Tiruvānanadīpati are at Jambunatha."
+  },
+  {
+   "verse": 3456,
+   "rows": [
+    {
+     "surface": "kālahastigirau",
+     "gloss": "at-kalahasti-hill",
+     "grounds": "compound locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vāyuliṃgaṃ",
+     "gloss": "air-linga",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāgābhipūjitam",
+     "gloss": "snake-worshipped",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which air-linga is worshipped by snakes at Kalahasti?",
+   "premises": [
+    "kālahastigirau is location",
+    "vāyuliṃgaṃ is named",
+    "nāgābhipūjitam is qualifier"
+   ],
+   "inference": "The air-linga at Kalahasti is worshipped by snakes.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "At Kalahasti hill the air-linga is worshipped by snakes."
+  },
+  {
+   "verse": 3457,
+   "rows": [
+    {
+     "surface": "chāyāvane",
+     "gloss": "in-shade-grove",
+     "grounds": "compound locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mahāpuṇye",
+     "gloss": "very-holy",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tatra cchāyā vaneśvaraḥ",
+     "gloss": "there-shade-grove-lord",
+     "grounds": "fused phrase",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which lord is named in the very holy shade-grove?",
+   "premises": [
+    "chāyāvane is location",
+    "mahāpuṇye is qualifier",
+    "tatra cchāyā vaneśvaraḥ is named"
+   ],
+   "inference": "The shade-grove lord is in a very holy place.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "In the very holy shade-grove, the shade-grove lord is there."
+  },
+  {
+   "verse": 3458,
+   "rows": [
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hyāmrātakā",
+     "gloss": "amrataka-named",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūkṣmeśvara",
+     "gloss": "sukshmeshvara",
+     "grounds": "proper name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti sthitaḥ",
+     "gloss": "thus-established",
+     "grounds": "fused phrase",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which lords are established in the Amrataka field?",
+   "premises": [
+    "kṣetre is location",
+    "hyāmrātakā is qualifier",
+    "sūkṣmeśvara is named",
+    "iti sthitaḥ is status"
+   ],
+   "inference": "Sūkṣmeśvara is established in the Amrataka field.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "In the Amrataka field, Sūkṣmeśvara is thus established."
+  },
+  {
+   "verse": 3459,
+   "rows": [
+    {
+     "surface": "muktiḥkarasthā",
+     "gloss": "liberation-in-hand",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres root bhū"
+    },
+    {
+     "surface": "nātrakāryā",
+     "gloss": "not-here-need",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "noun",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is no deliberation needed where liberation is in hand?",
+   "premises": [
+    "muktiḥkarasthā is state",
+    "bhavati is verb",
+    "nātrakāryā is negation",
+    "vicāraṇā is noun"
+   ],
+   "inference": "Where liberation is already in hand, deliberation is unnecessary.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Liberation is in hand; no deliberation is needed here."
+  },
+  {
+   "verse": 3460,
+   "rows": [
+    {
+     "surface": "prātaḥkāle",
+     "gloss": "at-dawn-time",
+     "grounds": "compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu pūjāṃte",
+     "gloss": "then-after-worship",
+     "grounds": "fused phrase",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "smartavyāni",
+     "gloss": "to-be-remembered",
+     "grounds": "gerundive",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-wise",
+     "grounds": "instrumental",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What should the wise remember after dawn worship?",
+   "premises": [
+    "prātaḥkāle is time",
+    "tu pūjāṃte is time",
+    "smartavyāni is duty",
+    "manīṣibhiḥ is agent"
+   ],
+   "inference": "The wise should remember the named items after worship.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "At dawn, after worship, the wise should remember these."
+  },
+  {
+   "verse": 3461,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "phalapravacane",
+     "gloss": "fruit-declaration",
+     "grounds": "compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śaktaḥ",
+     "gloss": "able",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śeṣopi",
+     "gloss": "remainder",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na kvacit",
+     "gloss": "not-anywhere",
+     "grounds": "fused phrase",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Who is able to declare the fruits of those items?",
+   "premises": [
+    "teṣāṃ is genitive",
+    "phalapravacane is topic",
+    "śaktaḥ is ability",
+    "śeṣopi is remainder",
+    "na kvacit is negation"
+   ],
+   "inference": "Only the able can declare fruits; the remainder cannot anywhere.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "In declaring fruits, the able can; the rest cannot anywhere."
+  },
+  {
+   "verse": 3462,
+   "rows": [
+    {
+     "surface": "somāskaṃdeśvaraṃ",
+     "gloss": "somaskandeshvara",
+     "grounds": "proper name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gaurīṃ",
+     "gloss": "gauri",
+     "grounds": "proper name",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "caṃḍeśaṃ",
+     "gloss": "chandeshvara",
+     "grounds": "proper name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca kirātakam",
+     "gloss": "and-kirata",
+     "grounds": "fused phrase",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which deities and figures are listed in this group?",
+   "premises": [
+    "somāskaṃdeśvaraṃ is named",
+    "gaurīṃ is named",
+    "caṃḍeśaṃ is named",
+    "ca kirātakam is named"
+   ],
+   "inference": "The verse lists Somaskandeshvara, Gaurī, Chandeshvara, and Kirāta.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "Somaskandeshvara, Gaurī, Chandeshvara, and Kirāta are listed."
+  },
+  {
+   "verse": 3463,
+   "rows": [
+    {
+     "surface": "mahānṛṃttapravṛttaṃ",
+     "gloss": "great-dance-proceeding",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "navaberāḥ",
+     "gloss": "nine-idols",
+     "grounds": "compound",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prakīrtitāḥ",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What is declared along with the great dance proceeding?",
+   "premises": [
+    "mahānṛṃttapravṛttaṃ is qualifier",
+    "ca is conjunction",
+    "navaberāḥ is subject",
+    "prakīrtitāḥ is verb"
+   ],
+   "inference": "Nine idols are declared along with the great dance proceeding.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The great dance proceeding and nine idols are declared."
+  },
+  {
+   "verse": 3464,
+   "rows": [
+    {
+     "surface": "tattatphalāni",
+     "gloss": "those-those-fruits",
+     "grounds": "compound",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "i-will-speak",
+     "grounds": "verb",
+     "morph": "1.sg.act-fut root vac"
+    },
+    {
+     "surface": "śṛṇudevi",
+     "gloss": "listen-goddess",
+     "grounds": "fused phrase",
+     "morph": "voc.sg"
+    },
+    {
+     "surface": "śubhāni",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What will be spoken to the goddess among auspicious fruits?",
+   "premises": [
+    "tattatphalāni is object",
+    "vakṣyāmi is verb",
+    "śṛṇudevi is addressee",
+    "śubhāni is qualifier",
+    "ca is conjunction"
+   ],
+   "inference": "The speaker will declare those fruits, auspicious ones, to the goddess.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "I will speak those auspicious fruits; listen, goddess."
+  },
+  {
+   "verse": 3465,
+   "rows": [
+    {
+     "surface": "navanītaṃ",
+     "gloss": "fresh-butter",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "rudrākṣaṃ",
+     "gloss": "rudraksha",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhasmacaṃdanakūrcajam",
+     "gloss": "bhasma-sandal-paste",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which substances are listed for linga making?",
+   "premises": [
+    "navanītaṃ is substance",
+    "ca is conjunction",
+    "rudrākṣaṃ is substance",
+    "bhasmacaṃdanakūrcajam is substance"
+   ],
+   "inference": "Fresh butter, rudraksha, and bhasma-sandal paste are listed.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Fresh butter, rudraksha, and bhasma-sandal paste are listed."
+  },
+  {
+   "verse": 3466,
+   "rows": [
+    {
+     "surface": "kṣaṇike maṃḍale",
+     "gloss": "in-instant-mandala",
+     "grounds": "fused phrase",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "toye",
+     "gloss": "in-water",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvātmārthaṃ",
+     "gloss": "for-self-purpose",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yajanaṃ",
+     "gloss": "worship",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Where is worship for oneself remembered?",
+   "premises": [
+    "kṣaṇike maṃḍale is place",
+    "toye is place",
+    "tvātmārthaṃ is purpose",
+    "yajanaṃ is action",
+    "smṛtam is status"
+   ],
+   "inference": "Worship for oneself is remembered in instant mandala and water.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "In instant mandala and water, worship for oneself is remembered."
+  },
+  {
+   "verse": 3467,
+   "rows": [
+    {
+     "surface": "sarvarogavināśāya",
+     "gloss": "for-all-disease-destruction",
+     "grounds": "compound dative",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "gomayaṃ",
+     "gloss": "cow-dung",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is declared for destruction of all disease?",
+   "premises": [
+    "sarvarogavināśāya is purpose",
+    "gomayaṃ is substance",
+    "tu is particle",
+    "prakīrtitam is status"
+   ],
+   "inference": "Cow dung is declared for destruction of all disease.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "Cow dung is declared for destruction of all disease."
+  },
+  {
+   "verse": 3468,
+   "rows": [
+    {
+     "surface": "āsuraṃ",
+     "gloss": "demonic",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "lavaṇotthaṃ",
+     "gloss": "salt-born",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sarvalokavaśaṃkaram",
+     "gloss": "all-world-subduing",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What salt-born demonic thing subdues all worlds?",
+   "premises": [
+    "āsuraṃ is qualifier",
+    "lavaṇotthaṃ is origin",
+    "ca is conjunction",
+    "sarvalokavaśaṃkaram is effect"
+   ],
+   "inference": "The salt-born demonic substance subdues all worlds.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The demonic salt-born thing subdues all worlds."
+  },
+  {
+   "verse": 3469,
+   "rows": [
+    {
+     "surface": "taṃḍulodbhavapiṣṭena",
+     "gloss": "from-rice-paste",
+     "grounds": "compound instrumental",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyā pradaṃ",
+     "gloss": "knowledge-giving",
+     "grounds": "fused phrase",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What linga from rice paste gives knowledge?",
+   "premises": [
+    "taṃḍulodbhavapiṣṭena is material",
+    "liṃgaṃ is object",
+    "vidyā pradaṃ is qualifier",
+    "smṛtam is status"
+   ],
+   "inference": "The rice-paste linga is remembered as knowledge-giving.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "The linga from rice paste is remembered as knowledge-giving."
+  },
+  {
+   "verse": 3470,
+   "rows": [
+    {
+     "surface": "dūrvāguḍūcisaṃbhūtam",
+     "gloss": "from-durva-guduchi",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "apamṛtyunivāraṇam",
+     "gloss": "death-averting",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What durva-guduchi born thing averts death?",
+   "premises": [
+    "dūrvāguḍūcisaṃbhūtam is origin",
+    "apamṛtyunivāraṇam is effect"
+   ],
+   "inference": "The durva-guduchi born substance averts death.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The durva-guduchi born thing averts death."
+  },
+  {
+   "verse": 3471,
+   "rows": [
+    {
+     "surface": "ikṣusāramayaṃliṃgaṃ",
+     "gloss": "sugar-cane-essence-linga",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahudraviṇakāmakṛt",
+     "gloss": "much-wealth-desire-making",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What sugar-cane essence linga makes much wealth and desire?",
+   "premises": [
+    "ikṣusāramayaṃliṃgaṃ is object",
+    "bahudraviṇakāmakṛt is effect"
+   ],
+   "inference": "The sugar-cane essence linga makes much wealth and desire.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The sugar-cane essence linga makes much wealth and desire."
+  },
+  {
+   "verse": 3472,
+   "rows": [
+    {
+     "surface": "pitṝṇāṃ",
+     "gloss": "of-ancestors",
+     "grounds": "genitive",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "muktaye",
+     "gloss": "for-liberation",
+     "grounds": "dative",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "pūjyaṃ",
+     "gloss": "worshipful",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "liṃgaṃrajatasaṃbhavam",
+     "gloss": "silver-born-linga",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which silver-born linga is worshipful for ancestors' liberation?",
+   "premises": [
+    "pitṝṇāṃ is genitive",
+    "muktaye is purpose",
+    "pūjyaṃ is qualifier",
+    "liṃgaṃrajatasaṃbhavam is object"
+   ],
+   "inference": "The silver-born linga is worshipful for ancestors' liberation.",
+   "uncertainties": [
+    "compound split uncertain"
+   ],
+   "plain_english": "The silver-born linga is worshipful for ancestors' liberation."
+  },
+  {
+   "verse": 3473,
+   "rows": [
+    {
+     "surface": "pūjyet",
+     "gloss": "worship",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root pūj"
+    },
+    {
+     "surface": "tāmrajaṃ liṃgaṃ",
+     "gloss": "copper-born-linga",
+     "grounds": "fused phrase",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "puṣṭikāmastu",
+     "gloss": "for-nourishment-desire",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃtatam",
+     "gloss": "continuously",
+     "grounds": "adverb",
+     "morph": "indecl."
+    }
+   ],
+   "question": "Which copper-born linga is worshipped continuously for nourishment?",
+   "premises": [
+    "pūjyet is verb",
+    "tāmrajaṃ liṃgaṃ is object",
+    "puṣṭikāmastu is purpose",
+    "saṃtatam is manner"
+   ],
+   "inference": "The copper-born linga is worshipped continuously for nourishment.",
+   "uncertainties": [
+    "token contains spaces"
+   ],
+   "plain_english": "Worship the copper-born linga continuously for nourishment."
+  },
+  {
+   "verse": 3474,
+   "rows": [
+    {
+     "surface": "kīrtikāmorcayell.imgaṃ",
+     "gloss": "fame-desire-worship",
+     "grounds": "fused phrase",
+     "morph": "3.sg.act-opt root arc"
+    },
+    {
+     "surface": "sadākāṃsya samudbhavam",
+     "gloss": "always-bronze-born",
+     "grounds": "fused phrase",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which bronze-born linga is worshipped for fame?",
+   "premises": [
+    "kīrtikāmorcayell.imgaṃ is action",
+    "sadākāṃsya samudbhavam is object"
+   ],
+   "inference": "The bronze-born linga is worshipped for fame.",
+   "uncertainties": [
+    "token contains spaces and punctuation"
+   ],
+   "plain_english": "Worship the bronze-born linga for fame."
+  }
+ ]
+}

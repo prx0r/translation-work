@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyaṅ",
+     "gloss": "correctly",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyasitvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive form",
+     "morph": "absolutive, root nyas"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānasena",
+     "gloss": "mentally",
+     "grounds": "instrumental of mind",
+     "morph": "noun instr.sg.n"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "collected",
+     "grounds": "participial adjective",
+     "morph": "adj nom.sg.m"
+    }
+   ],
+   "question": "What mental state must follow correct mental placement of the mantra syllables?",
+   "premises": [
+    "Correct mental placement is completed.",
+    "The practitioner becomes collected.",
+    "Mental focus follows placement."
+   ],
+   "inference": "Correct nyāsa culminates in collected mental absorption.",
+   "uncertainties": [
+    "Exact referent of placement comes from preceding verses."
+   ],
+   "plain_english": "Having thus correctly placed them mentally, one becomes collected."
+  }
+ ]
+}

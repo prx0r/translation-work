@@ -1,0 +1,91 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "sva-p33",
+ "work": "svacchandatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v809 ratio=0.885",
+  "ALIGN_NODISP v815 ratio=0.889",
+  "ALIGN_NODISP v824 ratio=0.889"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "f5bf03e67d2d4060",
+ "source_digest_normalized_sha256": "f5bf03e67d2d406053367226e0fb33dbee8ad28a6dcd2c5b3153983ee696766d",
+ "source_sha256_raw": "8e7e8d7fd151603f3f5de9ac2e6ea6093a479e422d9cd4df2f1020b1afffbed1",
+ "source_sha256_raw_file": "/root/translation-work/svacchandatantra/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 131
+ },
+ "align": {
+  "min_ratio": 0.885,
+  "sub090": {
+   "809": {
+    "ratio": 0.885,
+    "disposition": null
+   },
+   "815": {
+    "ratio": 0.889,
+    "disposition": null
+   },
+   "824": {
+    "ratio": 0.889,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 71,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 131,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v809",
+  "fix: word-order/gloss vs source for v815",
+  "fix: word-order/gloss vs source for v824"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "a982eeff4d719b324030f55fb9ba1cd54d0298432d6d0dbecc4fd875d9c76f06",
+  "l0": "37dfc489825f80b29b6e7186755302e2f078da92de0b96925e33aae2fff17aee",
+  "argmap": "2d2cae2653c64947c73370c0df037b4515ab8ea0d334c3b5260c0e788ac64f45",
+  "l2": "01ebf3da940e6160dec6c99a48609e065c1e4bb77712ee2b71933043d8cba3f0",
+  "c1": "56a430b2a91e28fdeb85ceafe91b0170aedf95c07a9f08e93921abcd4ddad806"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "f5bf03e67d2d4060",
+  "t1": "sva-p33/data/sva-p33.t1.json",
+  "l0": "sva-p33/data/sva-p33.l0.json",
+  "l2": "sva-p33/data/sva-p33.l2.json",
+  "c1": "sva-p33/data/sva-p33.c1.json"
+ }
+}

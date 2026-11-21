@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "mūlena",
+     "gloss": "by-root",
+     "grounds": "instrumental/ablative of mūla",
+     "morph": "m.n.inst.sg"
+    },
+    {
+     "surface": "daśadhendusthaṃ",
+     "gloss": "tenfold-moon-placed",
+     "grounds": "compound daśadhā + indu + stham",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāgamevantu",
+     "gloss": "portion-thus-but",
+     "grounds": "fused bhāgam + evam + tu",
+     "morph": "m.acc.sg+indecl+indecl"
+    },
+    {
+     "surface": "mantrayet",
+     "gloss": "should-recite",
+     "grounds": "optative of mantr",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "How should the initiate recite the portion situated in the moon tenfold by the root?",
+   "premises": [
+    "The root is used for recitation.",
+    "The portion is situated in the moon tenfold.",
+    "Thus the initiate should recite it."
+   ],
+   "inference": "The rite prescribes reciting the tenfold moon-placed portion by the root.",
+   "uncertainties": [
+    "Exact ritual referent of mūlena remains context-dependent."
+   ],
+   "plain_english": "He should recite, by the root, the portion situated in the moon tenfold."
+  }
+ ]
+}

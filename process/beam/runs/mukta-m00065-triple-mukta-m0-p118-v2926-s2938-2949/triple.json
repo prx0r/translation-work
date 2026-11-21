@@ -1,0 +1,509 @@
+{
+ "song": "mukta-m0-p118",
+ "items": [
+  {
+   "verse": 2938,
+   "rows": [
+    {
+     "surface": "valabhīchandako",
+     "gloss": "vaulted-roof-form",
+     "grounds": "compound valabhī+chandakaḥ with sandhi; nominative designation of a structural form",
+     "morph": "compound: valabhī+chandaka; m.nom.sg"
+    },
+    {
+     "surface": "yāmye",
+     "gloss": "in-south",
+     "grounds": "locative indicating directional placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "locative of the southwest direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "garuḍaḥ",
+     "gloss": "garuda-form",
+     "grounds": "nominative designation of a structural form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "prescribed",
+     "grounds": "past passive participle used prescriptively",
+     "morph": "ppp; m.nom.sg; √smṛ"
+    }
+   ],
+   "question": "Which structural forms are prescribed for the southern and southwestern directions?",
+   "premises": [
+    "The vaulted-roof form is assigned to the southern direction.",
+    "The garuda form is assigned to the southwestern direction.",
+    "These assignments are stated as prescribed."
+   ],
+   "inference": "Directional placement of these forms is fixed by prescriptive rule.",
+   "uncertainties": [],
+   "plain_english": "The vaulted-roof form is prescribed in the south, and the garuda form is prescribed in the southwest."
+  },
+  {
+   "verse": 2939,
+   "rows": [
+    {
+     "surface": "purāgajastu",
+     "gloss": "front-elephant-and",
+     "grounds": "compound purā+gajaḥ with enclitic tu; nominative designation",
+     "morph": "compound: purā+gaja; m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "saumyāyāṃ",
+     "gloss": "in-north",
+     "grounds": "locative indicating northern direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tathaiśyāṃ",
+     "gloss": "likewise-in-northeast",
+     "grounds": "tathā combined with locative of northeast direction",
+     "morph": "indecl. + f.loc.sg"
+    },
+    {
+     "surface": "sarvabhadrakaḥ",
+     "gloss": "all-auspicious-form",
+     "grounds": "compound sarva+bhadrakaḥ; nominative designation",
+     "morph": "compound: sarva+bhadraka; m.nom.sg"
+    }
+   ],
+   "question": "Which structural forms are prescribed for the northern and northeastern directions?",
+   "premises": [
+    "The front-elephant form is assigned to the northern direction.",
+    "The all-auspicious form is likewise assigned to the northeastern direction.",
+    "The parallel construction extends the prescriptive pattern."
+   ],
+   "inference": "The northern and northeastern directions receive distinct prescribed forms.",
+   "uncertainties": [],
+   "plain_english": "The front-elephant form is prescribed in the north, and likewise the all-auspicious form in the northeast."
+  },
+  {
+   "verse": 2940,
+   "rows": [
+    {
+     "surface": "caturasrādike",
+     "gloss": "in-square-and-others",
+     "grounds": "compound caturasra+ādika in locative; refers to square and similar types",
+     "morph": "compound: caturasra+ādika; n.loc.sg"
+    },
+    {
+     "surface": "bhede",
+     "gloss": "in-division",
+     "grounds": "locative indicating type or class",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuṇḍavṛtte",
+     "gloss": "in-fire-pit-circle",
+     "grounds": "compound kuṇḍa+vṛtta in locative; circular arrangement of the fire pit",
+     "morph": "compound: kuṇḍa+vṛtta; n.loc.sg"
+    },
+    {
+     "surface": "vivartitaḥ",
+     "gloss": "adapted",
+     "grounds": "past passive participle indicating modification or application",
+     "morph": "ppp; m.nom.sg; √vṛt"
+    }
+   ],
+   "question": "How are the prescribed forms adapted for square and similar fire-pit arrangements?",
+   "premises": [
+    "The context concerns square and similar divisions.",
+    "The circular arrangement of the fire pit is specified.",
+    "The forms are adapted accordingly."
+   ],
+   "inference": "The previously prescribed forms are modified to fit square-type and circular fire-pit layouts.",
+   "uncertainties": [
+    "The exact subject of vivartitaḥ is implied from context."
+   ],
+   "plain_english": "In the square and similar types, the forms are adapted to the circular arrangement of the fire pit."
+  },
+  {
+   "verse": 2941,
+   "rows": [
+    {
+     "surface": "sārdhaitāḥ",
+     "gloss": "with-half-these",
+     "grounds": "compound sa+ardha+etāḥ; indicates these together with a half measure",
+     "morph": "compound: sa+ardha+etad; f.nom.pl"
+    },
+    {
+     "surface": "sādhane",
+     "gloss": "in-accomplishment",
+     "grounds": "locative indicating ritual or practical application",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yojyā",
+     "gloss": "to-be-employed",
+     "grounds": "gerundive expressing obligation or prescription",
+     "morph": "gerundive; f.nom.pl; √yuj"
+    },
+    {
+     "surface": "liṅgāni",
+     "gloss": "lingas",
+     "grounds": "nominative plural object of prescription",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "nānyathā",
+     "gloss": "not-otherwise",
+     "grounds": "negative compound prohibiting alternative procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "ever",
+     "grounds": "indefinite adverb reinforcing universal prohibition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition must these lingas be employed in ritual accomplishment?",
+   "premises": [
+    "These lingas, together with a half measure, are to be employed.",
+    "Their employment applies in the context of accomplishment.",
+    "No alternative procedure is permitted anywhere."
+   ],
+   "inference": "The specified lingas must be used in this form without deviation.",
+   "uncertainties": [
+    "The precise referent of the half measure is context-dependent."
+   ],
+   "plain_english": "These lingas, together with a half measure, must be employed in the ritual accomplishment and never otherwise."
+  },
+  {
+   "verse": 2942,
+   "rows": [
+    {
+     "surface": "madhyamādyā",
+     "gloss": "middle-and-so-on",
+     "grounds": "compound madhyama+ādyā indicating a series beginning with the middle",
+     "morph": "compound: madhyama+ādi; f.nom.sg"
+    },
+    {
+     "surface": "dvivṛddhyā",
+     "gloss": "by-twofold-increase",
+     "grounds": "instrumental indicating the method of division",
+     "morph": "compound: dvi+vṛddhi; f.inst.sg"
+    },
+    {
+     "surface": "vibhajet",
+     "gloss": "one-should-divide",
+     "grounds": "optative expressing prescriptive instruction",
+     "morph": "3.sg.opt.act; √bhaj"
+    },
+    {
+     "surface": "kāmabhāgataḥ",
+     "gloss": "according-to-desired-part",
+     "grounds": "compound kāma+bhāga with ablative sense indicating chosen proportion",
+     "morph": "compound: kāma+bhāga; m.abl.sg"
+    }
+   ],
+   "question": "How should divisions beginning with the middle be apportioned according to desired proportions?",
+   "premises": [
+    "The division starts from the middle and related measures.",
+    "The division proceeds by twofold increase.",
+    "The apportionment follows the desired part."
+   ],
+   "inference": "One should divide the measures by doubling them according to the chosen proportion.",
+   "uncertainties": [],
+   "plain_english": "Beginning with the middle measure, one should divide by twofold increase according to the desired proportion."
+  },
+  {
+   "verse": 2943,
+   "rows": [
+    {
+     "surface": "stambhānvitāḥ",
+     "gloss": "pillar-endowed",
+     "grounds": "compound stambha+anvita describing structures with pillars",
+     "morph": "compound: stambha+anvita; m.nom.pl"
+    },
+    {
+     "surface": "puraḥ",
+     "gloss": "in-front",
+     "grounds": "adverb indicating front position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "at-back",
+     "grounds": "locative indicating rear position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tryaṃśaiḥ",
+     "gloss": "by-three-parts",
+     "grounds": "instrumental plural indicating proportional measure",
+     "morph": "compound: tri+aṃśa; m.inst.pl"
+    },
+    {
+     "surface": "tryaṃśaiśca",
+     "gloss": "and-by-three-parts",
+     "grounds": "instrumental plural with enclitic ca indicating additional measure",
+     "morph": "compound: tri+aṃśa; m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "garbhakāḥ",
+     "gloss": "sanctums",
+     "grounds": "nominative plural referring to inner chambers",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are pillar-endowed sanctums proportioned at the front and back?",
+   "premises": [
+    "The sanctums are endowed with pillars.",
+    "They are placed at the front and at the back.",
+    "Their proportions are measured in three-part divisions."
+   ],
+   "inference": "The front and back sanctums are arranged with pillar support using three-part measures.",
+   "uncertainties": [
+    "The exact distribution of the two three-part measures is not fully explicit."
+   ],
+   "plain_english": "The pillar-endowed sanctums at the front and back are arranged using three-part measures."
+  },
+  {
+   "verse": 2944,
+   "rows": [
+    {
+     "surface": "tayor",
+     "gloss": "of-those-two",
+     "grounds": "genitive dual referring to the two previously mentioned structures",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "bhittī",
+     "gloss": "walls",
+     "grounds": "nominative dual indicating two walls",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "tathāṃśena",
+     "gloss": "likewise-by-one-part",
+     "grounds": "instrumental indicating proportional measure",
+     "morph": "indecl. + m.inst.sg"
+    },
+    {
+     "surface": "tryaṃśair",
+     "gloss": "by-three-parts",
+     "grounds": "instrumental plural indicating proportional measure",
+     "morph": "compound: tri+aṃśa; m.inst.pl"
+    },
+    {
+     "surface": "dāraṃ",
+     "gloss": "door",
+     "grounds": "nominative singular indicating the opening",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca madhyataḥ",
+     "gloss": "and-in-middle",
+     "grounds": "conjunction with adverb indicating central placement",
+     "morph": "(indecl.) + (indecl.)"
+    }
+   ],
+   "question": "What proportional measures govern the walls and central door of those two structures?",
+   "premises": [
+    "The two structures have walls measured by one part.",
+    "A door is placed in the middle.",
+    "The door is measured by three parts."
+   ],
+   "inference": "The walls and central door follow specified proportional divisions.",
+   "uncertainties": [],
+   "plain_english": "Of those two, the walls are made with one part, and the door in the middle with three parts."
+  },
+  {
+   "verse": 2945,
+   "rows": [
+    {
+     "surface": "satu",
+     "gloss": "and-that",
+     "grounds": "demonstrative with enclitic particle",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "lopakulaṃ",
+     "gloss": "lopakula-structure",
+     "grounds": "compound lopa+kula used as a technical designation",
+     "morph": "compound: lopa+kula; n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative expressing prescriptive instruction",
+     "morph": "3.sg.opt.act; √kṛ"
+    },
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "numeral element qualifying walls",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhittīśca",
+     "gloss": "and-walls",
+     "grounds": "accusative plural with enclitic ca",
+     "morph": "f.acc.pl + (indecl.)"
+    },
+    {
+     "surface": "koṇagāḥ",
+     "gloss": "corner-situated",
+     "grounds": "compound koṇa+ga describing placement at corners",
+     "morph": "compound: koṇa+ga; f.acc.pl"
+    }
+   ],
+   "question": "What structural features must be constructed for the lopakula arrangement?",
+   "premises": [
+    "A lopakula structure is to be made.",
+    "Four walls are included in the construction.",
+    "The walls are situated at the corners."
+   ],
+   "inference": "The lopakula arrangement requires four corner-situated walls.",
+   "uncertainties": [
+    "The exact technical meaning of lopakula is not fully specified."
+   ],
+   "plain_english": "One should make that lopakula structure with four walls placed at the corners."
+  },
+  {
+   "verse": 2946,
+   "rows": [
+    {
+     "surface": "mattavāraṇasaṃyuktam",
+     "gloss": "joined-with-rutting-elephant",
+     "grounds": "compound mattavāraṇa+saṃyukta describing ornamentation or feature",
+     "morph": "compound: matta+vāraṇa+saṃyukta; n.acc.sg"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "adverb indicating upper position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrdhvam",
+     "gloss": "top",
+     "grounds": "nominal/adverbial form indicating the uppermost part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ucchadanānvitam",
+     "gloss": "endowed-with-covering",
+     "grounds": "compound ucchadana+anvita describing a roof or covering",
+     "morph": "compound: ucchadana+anvita; n.acc.sg"
+    }
+   ],
+   "question": "What upper features should characterize the constructed structure?",
+   "premises": [
+    "The structure is joined with a rutting-elephant motif.",
+    "Its upper part is specified.",
+    "It is endowed with a covering."
+   ],
+   "inference": "The structure should have an elephant motif above and be provided with a covering at the top.",
+   "uncertainties": [
+    "The exact architectural role of the elephant motif is not explicit."
+   ],
+   "plain_english": "It should be joined with a rutting elephant motif above and endowed with a covering at the top."
+  },
+  {
+   "verse": 2947,
+   "rows": [
+    {
+     "surface": "sapadmakalaśaṃ",
+     "gloss": "with-lotus-vase",
+     "grounds": "compound sa+padma+kalaśa indicating inclusion of a lotus and vase",
+     "morph": "compound: sa+padma+kalaśa; n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative expressing prescriptive instruction",
+     "morph": "3.sg.opt.act; √kṛ"
+    },
+    {
+     "surface": "citrākhyaṃ",
+     "gloss": "named-citra",
+     "grounds": "compound citra+ākhya giving the designation of the structure",
+     "morph": "compound: citra+ākhya; n.acc.sg"
+    },
+    {
+     "surface": "nṛtyamandiram",
+     "gloss": "dance-hall",
+     "grounds": "compound nṛtya+mandira indicating the function of the building",
+     "morph": "compound: nṛtya+mandira; n.acc.sg"
+    }
+   ],
+   "question": "What kind of dance hall should be constructed with a lotus and vase?",
+   "premises": [
+    "A structure with a lotus and vase is to be made.",
+    "The structure is designated as citra.",
+    "The structure functions as a dance hall."
+   ],
+   "inference": "One should construct a dance hall called citra equipped with a lotus and vase.",
+   "uncertainties": [],
+   "plain_english": "One should make a dance hall called Citra, furnished with a lotus and vase."
+  },
+  {
+   "verse": 2948,
+   "rows": [
+    {
+     "surface": "cūrṇair",
+     "gloss": "with-powders",
+     "grounds": "instrumental plural indicating material used",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "māṣodbhavaistathā",
+     "gloss": "likewise-from-beans",
+     "grounds": "compound māṣa+udbhava with tathā indicating similar material origin",
+     "morph": "compound: māṣa+udbhava; m.inst.pl + (indecl.)"
+    }
+   ],
+   "question": "What materials are specified for the subsequent surface preparation?",
+   "premises": [
+    "Powders are specified as materials.",
+    "Materials derived from beans are likewise specified.",
+    "The instrumental case indicates their use in preparation."
+   ],
+   "inference": "The preparation should use powders, including those derived from beans.",
+   "uncertainties": [
+    "The exact preparation process is completed in the following verse."
+   ],
+   "plain_english": "With powders, and likewise with those derived from beans,"
+  },
+  {
+   "verse": 2949,
+   "rows": [
+    {
+     "surface": "paścād",
+     "gloss": "afterward",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āstṛṇuyāt",
+     "gloss": "one-should-spread",
+     "grounds": "optative expressing prescriptive instruction",
+     "morph": "3.sg.opt.act; √stṛ"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "compound su+dhī referring to the competent practitioner",
+     "morph": "compound: su+dhī; m.nom.sg"
+    }
+   ],
+   "question": "Who should perform the spreading action and at what stage?",
+   "premises": [
+    "The action is to be performed afterward.",
+    "The prescribed action is spreading.",
+    "The wise practitioner is the agent."
+   ],
+   "inference": "After the prior steps, the wise practitioner should spread the specified materials.",
+   "uncertainties": [],
+   "plain_english": "Afterward, the wise one should spread them."
+  }
+ ]
+}

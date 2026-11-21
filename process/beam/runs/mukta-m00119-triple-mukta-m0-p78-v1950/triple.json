@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "pañcāśat+maṇibhiḥ",
+     "gloss": "with-fifty-beads",
+     "grounds": "numeral compound with maṇi in instrumental plural",
+     "morph": "compound: numeral+instr.pl.n"
+    },
+    {
+     "surface": "mālā",
+     "gloss": "rosary",
+     "grounds": "feminine noun naming the rosary",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "pañcāśat+varṇa+yogataḥ",
+     "gloss": "with-fifty-letter-connection",
+     "grounds": "compound of numeral, letter, and connection in instrumental/ablative sense",
+     "morph": "compound: numeral+noun+instr/abl.sg.m"
+    }
+   ],
+   "question": "How many beads and letters are joined in the rosary?",
+   "premises": [
+    "rosary has fifty beads",
+    "rosary has fifty letters",
+    "beads and letters are connected"
+   ],
+   "inference": "the rosary unites fifty beads with fifty letters",
+   "uncertainties": [
+    "exact grammatical case of yogataḥ unresolved"
+   ],
+   "plain_english": "The rosary has fifty beads and is connected with fifty letters."
+  }
+ ]
+}

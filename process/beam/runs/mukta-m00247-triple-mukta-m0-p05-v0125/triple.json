@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "acireṇa",
+     "gloss": "in-not-long",
+     "grounds": "adverbial instrumental of acira, 'not long'",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālena",
+     "gloss": "by-time",
+     "grounds": "instrumental singular of kāla",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "phala+dāḥ",
+     "gloss": "fruit-giving",
+     "grounds": "compound phala+dā, nominative plural feminine agreeing with the goddesses",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "tan+mukhāt",
+     "gloss": "from-her-mouth",
+     "grounds": "ablative singular of tan+mukha",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "śrutāḥ",
+     "gloss": "heard",
+     "grounds": "passive participle of śru, nominative plural feminine",
+     "morph": "ppp-śru"
+    }
+   ],
+   "question": "Are the seven goddesses heard from Tripurasundari's mouth said to become fruit-giving after a short time?",
+   "premises": [
+    "seven goddesses are heard from her mouth",
+    "they are called fruit-giving",
+    "a short time is specified"
+   ],
+   "inference": "The verse asserts that the heard goddesses become fruit-giving after a short time.",
+   "uncertainties": [
+    "exact referent of tanmukha depends on prior context",
+    "precise temporal force of acireṇa is context-dependent"
+   ],
+   "plain_english": "Heard from her mouth, they become fruit-giving in a short time indeed."
+  }
+ ]
+}

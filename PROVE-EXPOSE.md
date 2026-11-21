@@ -1,0 +1,283 @@
+# PROVE-EXPOSE — making translations readable & provable to ChatGPT
+
+*2026-11-14. The process note for the "prove + expose" lane: how a finished
+translation in `translation-work/` becomes something ChatGPT can actually read
+and verify through the MCP estate. Machine-proposed throughout; nothing here is
+human-signed. Law: `skills/crystal-ipvv/SKILL.md` + `skills/largetext/SKILL.md`
+still govern the translation layers; this lane only *publishes* them.*
+
+---
+
+## 1. The goal (owner 2026-11-14)
+
+> Get the whole thing onto ChatGPT as MCP connectors/plugins.
+
+Translation quality is the product. The **distribution** target is the MCP
+estate. A translation is "done" for this lane only when a ChatGPT connector
+can (a) **read** it (`scholar__passage_evidence`: hash-checked Sanskrit +
+English) and (b) **trace** it (`claim` page → trace → verify pack →
+openpatala id).
+
+## 2. What "readable" actually means (the one condition)
+
+The ChatGPT reading path is:
+
+```
+ChatGPT → mcp.svatantrya.net/mcp (federation)
+        → scholar__passage_evidence(work, target)
+        → svread/data/scholar/<work>.json  (the "Scholar projection")
+        → source_verses[target] + originals{t1,l0,argmap,l2,c1,...}
+```
+
+**A work is served iff its projection has a non-empty `source_verses` for the
+target.** If `source_verses` is empty → `"Passage unavailable or withheld"`,
+regardless of how good the translation is. That is the single bottleneck, and
+it is what `serve_status` measures.
+
+Note `target` is **verse-level** (`tsa-a08-v01`), not the passage locator
+(`tsa08-p01`). Passage locators drive claim pages; verse targets drive reading.
+
+## 3. The pipeline (deterministic — NO beam)
+
+```
+canonical layers (data/<song>.<layer>.json)  +  proof PASS
+   │  (produced by the beam swarm / assessor — see §6)
+   ▼
+source audit ── _source_audited(work): source/manifest.json (source-intake/1)
+   │            OR source/record.json (svatantrya-source-record/1) whose
+   │            every volume sha256 re-hashes to the on-disk bytes. Never
+   │            serve bytes we did not re-hash; stale record = BLOCKED.
+   ▼
+tools/emit_scholar.py --work W   →  svread/data/scholar/W.json (source_verses)
+   │
+   ├─ trace layer (only works with a trika-x bundle):
+   │    trika-x trace_bundle.py --work W --target T  → data/traces/W-T.json
+   │    svread emit_traces.py   (copy + index, fail-closed verify)
+   │    svread emit_verify.py   (per-file hashed packs)
+   │    svread emit_claim_pages.py (claim/ + work/ + chain/ + md)
+   ▼
+svread emit_discovery.py          (llms/sitemap/ai-catalog/pushing)
+svread scripts/release_manifest.py --write   (LAST)
+```
+
+Each step is idempotent and `--check`-able (deterministic). The publish chain
+is **fail-closed**: one stale trace aborts `emit_traces` (fix the trace, don't
+force it).
+
+## 4. The MCP surface (added 2026-11-14)
+
+Two tools on the `shastra` server (`mcp_server.py`, 34 tools total):
+
+- **`shastra.serve_status(work="")`** — read-only scorecard. Per work: `audited`,
+  `source`, `proj_src` (source_verses count = the readability condition),
+  `traces`, `verify`, `claims`, `served`. `work=""` = every work with layer
+  data. Backed by `tools/serve_audit.py`.
+- **`shastra.make_readable(work="", all=false, publish=false)`** — the button.
+  Audits source, runs `emit_scholar` for the work(s), reports served/blocked.
+  `publish=true` then runs the svread publish chain. Backed by
+  `tools/make_readable.py`. Unaudited works are reported **BLOCKED**, never
+  served.
+
+- **`shastra.make_traces(work="", served_untraced=false, all=false, rebuild=false)`** —
+  the trace fan-out. Builds then re-verifies one trika-trace/1 bundle per
+  passage. Idempotent, fail-closed per bundle. Backed by `tools/make_traces.py`.
+
+CLI equivalents:
+
+```bash
+python3 tools/serve_audit.py                 # full scorecard
+python3 tools/serve_audit.py --work kularnavatantra --json
+python3 tools/make_readable.py --work tantrasara-a13
+python3 tools/make_readable.py --all --publish     # audit+project+publish
+python3 tools/make_traces.py --served-untraced      # trace fan-out for served works lacking traces
+```
+
+## 5. What this session fixed / found (2026-11-14)
+
+1. **Trace layer was 222/951 stale** (failed `trace_bundle --verify`) because
+   works were re-keyed/re-chunked after traces were made. Fail-closed
+   `emit_traces` blocked all publication. Fixed: recompiled 158, re-keyed 61
+   (`chunkA→chunk-a`, `sivs→span`, `para→ptv`), archived 2 removed spanda
+   passages → **0 stale / 948**.
+2. **8 gold works had no traces** (dehastha, gitarthasangraha,
+   mahopadeshavimshatika, paramarthadvadasika, rahasyapanchadashika,
+   sivasutravimarsini, malinivijayavarttika, tattvasandoha). Built + verified
+   41 bundles.
+3. **`emit_scholar` only accepted `source/manifest.json`**, so 20 Tantrasara
+   ahnikas (which carry a valid `source/record.json` whose volume sha256
+   matches the source bytes) served **zero** verses. Fixed: `_source_audited()`
+   now accepts a hash-verified `record.json` too (both path conventions),
+   while `SOURCE_COVERAGE_HOLDS` (ghatakarpara) stays withheld. Result:
+   **Tantrasara is now readable** (739 verses).
+4. **Scale run:** emitted projections for every audited work that lacked one →
+   served works went **56 → 91 of 144** (vs. the ~58 that were projected
+   before). `mukta-m00027` (605v), `kularnavatantra`, etc. now served.
+
+Pre-existing, honest gaps: `ipvv` projection has empty `source_verses`
+(alias/legacy layout — separate fix); 14 works emitted empty projections
+because no *proof-complete* song was eligible yet (correct conservative
+behaviour); 78 works remain `UNMAPPED` to canonical openpatala IDs
+(dossier-acquisition frontier — ID match only, never invented).
+
+## 6. How to do this at scale — and where beams fit
+
+**Beams do NOT help this lane.** Beams draft *layers* (T1→L0→argmap→L2→C1).
+The expose lane is a **deterministic join + emit**, so it needs no model and
+should never call one. The correct split:
+
+```
+BEAM / assessor  →  produce layers + proof PASS      (the long pole, per work)
+EXPOSE (this)    →  audit → project → trace → verify → claim → manifest
+                    (a fan-out of cheap deterministic jobs)
+```
+
+At scale, the expose step is a post-promotion hook:
+
+1. **Trigger:** when a song/ahnika passes `proof_record` (or `promote`), enqueue
+   an **expose job** for the work. `make_readable --work W` is that job.
+2. **Fan-out:** run expose jobs in parallel, bounded (CPU/IO), no model calls.
+   `make_readable --all` is the batch form; it is safe to re-run (idempotent).
+3. **Trace step:** only for works with a trika-x bundle. New gold works need a
+   bundle first: `trace_bundle.py --work W --target T` per passage (41 built
+   this session; `tools/make_traces.py` now does exactly this
+   `make_readable`.
+4. **Publish once:** after the batch, run the svread chain once
+   (`emit_traces → verify → claim → discovery → release_manifest`), not per
+   work — the emitters are global and fail-closed.
+5. **Gate:** `serve_status` is the dashboard. "Served / total" is the KPI;
+   `blocked-unaudited` and `empty(no eligible songs)` are the two backlogs.
+
+**The scaling bottleneck is NOT compute.** It is (a) source audits
+(`record.json`/manifest per work) and (b) trace locator hygiene. Both are
+deterministic; neither is beam work. Beams should keep drafting the corpus;
+the expose lane keeps it read.
+
+### Recommended cadence
+
+```
+loop:  beam drafts → proof PASS → (hook) make_readable --work W
+batch: weekly  make_readable --all --publish
+daily: serve_status | head -1   (served / total KPI)
+```
+
+## 7. Hard rules (inherited)
+Hard rules (inherited)
+
+- **BLOCKED ≠ PASS.** A work with an unverified source or an ineligible song
+  is BLOCKED, reported as such, never force-emitted.
+- **Three stamps stay separate:** bytes (sha256, re-hashed on every emit),
+  mechanics (`proof_record` PASS + trace verify), meaning (human sign-off —
+  pending everywhere). `served` is a *bytes+links* fact, not a truth claim.
+- **Never invent a mapping.** UNMAPPED works stay UNMAPPED until a shared
+  external ID justifies CANDIDATE.
+- **No auto-publish of meaning.** `make_readable` publishes machine-proposed
+  projections; it never signs off or marks reviewed.
+## 8. Session log — 2026-11-14, second pass (trace fan-out + ipvv)
+Session log — 2026-11-14, second pass (trace fan-out + ipvv)
+
+- **`tools/make_traces.py` + `shastra.make_traces`, plus `shastra.health()`**
+  (35 tools total): batch `trace_bundle` per passage — one work,
+  `--served-untraced`, or `--all`. Idempotent, fail-closed per bundle;
+  verified bundles feed `make_readable --publish` into the claim layer.
+  `health()` is the one-call loop+quality+progress report (queue, gates,
+  served/total KPI, unreviewed DONEs, recent verdicts) — the ChatGPT daily
+  driver; `serve_summary.json` cache refreshed by every audit/publish run.
+- **Scale result:** 1672 bundles built for 35 served-but-traceless works
+  (kularnavatantra, 34 mukta burn works), 0 failures. Published through the
+  svread chain (2640+ traces → verify packs → claim pages); `scholar__passage_evidence`
+  confirmed serving the new works.
+- **ipvv readable (5/49 chunks).** Root causes, verified: (a) projection was
+  stale (old `chunkA-*` scheme; current data is hyphenated `chunk-a-*` with
+  symlinked layers); (b) 44 chunks have only t1/l0 (+ orphan old-scheme L2s) —
+  argmap/C1 await authorship, correctly withheld; (c) workcfg spans carry print
+  apparatus, so reconstruction now drops `is_paratext` tokens (estate doctrine,
+  same as proof alignment). Served text verified clean (0 pipes/page-marks).
+- **Coordination rule (binding):** stay out of `formal-trika/data/traces`
+  while another agent works there. Trace verify drifts when the translation
+  loop adds layers mid-publish (observed twice on mukta-m00125); the fail-closed
+  publish is the detector, not the problem. Coordination issue: trika-x#20.
+  Publish only from a refresh-then-publish pass, or during a loop pause.
+
+
+## 10. Session log — 2026-11-14, third pass (Option D snapshot publish)
+
+- **Converged without pausing the loop.** Publish-verify flagged drift,
+  targeted refresh, immediate republish; 2 passes to green. Drift source was
+  always the same: the loop adding layers to hot mukta-m00125 passages
+  (gaps shrink = translations improving under us), plus 49 ipvv traces whose
+  `essays.projection_sha256` predated the new ipvv projection.
+- **Published:** 2621 traces (192 COMPLETE / 2429 PARTIAL) → 2621 verify packs
+  (11728 files) → 2621 claim pages (+md, **131 work indexes**) → discovery →
+  manifest (26127 assets, 95 works, 107 projections). Determinism GREEN,
+  mcp unittest 40 pass.
+- New drift appearing *during* publish is expected (loop never stops); the
+  published set is self-consistent as of its green verify. Next publish will
+  refresh whatever drifted since — that is the steady-state protocol, no
+  pause needed while drift-per-window stays this small.
+
+## 11. Session log — 2026-11-14, fourth pass (prove everything: ALIGN wave)
+
+- **New tool `tools/audit_align.py`.** Replays proof_record's exact B3
+  comparison per BLOCKED verse, then classifies every non-equal opcode:
+  sandhi-joints (aa>ā, aḥ>o/o', i>y, u>v, t/d, m/ṃ/ñ, visarga→ś before
+  palatals with same-following-char, ā+iti→eti with ti-follow, ca+eva
+  convention with window check, + compound-marker strip) vs needs-eyes.
+  Conservative by construction: single-char vowel swaps stay human (iva/eva
+  fork risk), fragments >4 chars never auto-pass, insertions of content
+  never auto-pass.
+- **Result: 211 honest sandhi dispositions recorded** (each names its joint
+  classes), 25 songs flipped BLOCKED→PASS (615 PASS / 167 BLOCKED / 4
+  in-flight of 786). The classifier *refused* real defects on sight
+  (e.g. kul-p39's dropped yatra/tatra repetitions, sva-p37's
+  dot-leader placeholders, T1 omissions) — those form the repair backlog.
+- **Backlog, organized:** ~400 verses needing T1 repair (omitted/duplicated
+  words first), kul-p39 (add repetitions), 4 songs blocked on workcfg
+  registration (loop-seeded sivasutra span-p09, spanda p04b/p05/p06 —
+  left to tw-assemble, do not hand-register), DATA_OBJECTS/C1_L2_SHARED
+  schema cases, netra/svacchanda re-intake class.
+- Publish convergence held: one refresh (112 proof-flip traces) + green
+  publish, no pause. Next drift already visible (m00125 p271) — normal;
+  next cycle picks it up.
+
+## 11. Session log — 2026-11-14, fifth pass (prove everything, wave 1)
+
+- **New tool `tools/audit_align.py`** (+ `shastra.audit_align`, 36 tools
+  total): replays proof_record's exact B3 comparison per BLOCKED song and
+  classifies every sub-0.90 verse as sandhi-only (joint named) or
+  needs-human-eyes (diff shown). Conservative by construction: single-char
+  vowel swaps, >4-char fragments, insertions/deletions of content, and
+  iva/eva-type forks never auto-pass.
+- **Result: 211 honest sandhi dispositions recorded, 25 songs flipped to
+  PASS** (586→615 at the time; 632 after loop additions). The classifier
+  demonstrably refused real defects (kul-p39's dropped repetitions,
+  m00034 p19's auditā/uditā fork → correctly held for human).
+- **Key hygiene fix: proof-disp.json is now work-qualified.** Bare song keys
+  (`mukta-m0-p01`) collide across works — a disposition verified on one work
+  could suppress a genuinely different verse in another. `tools/repair_disp_keys.py`
+  migrated 13 colliding keys to `work:song` form (re-verifying each verse in
+  its owning work; pre-existing third-party entries untouched), and
+  proof_record.py prefers qualified keys. One near-miss caught and fixed
+  before it could launder anything.
+- Steady state unchanged: refresh drifters → green publish → push.
+
+## 12. Session log — 2026-11-14, sixth pass (prove-everything wave)
+
+- **New tool `tools/audit_align.py`** (+ `shastra.audit_align`, 36 tools
+  total): replays proof_record's exact B3 per BLOCKED song, classifies every
+  sub-0.90 verse as sandhi-only (joint named) or needs-human-eyes (diff
+  shown). Conservative: single-char vowel swaps, >4-char fragments, content
+  insertions/deletions never auto-pass; iva/eva-type forks always human.
+- **Key hygiene fix found by the tool itself:** bare `proof-disp.json` keys
+  collide across works (`mukta-m0-p01` etc.) — a disposition verified on one
+  work could suppress a genuinely different verse in another. Migrated 13
+  colliding keys to `work:song` form with per-work re-verification
+  (`tools/repair_disp_keys.py`); proof_record.py prefers qualified keys.
+  Pre-existing third-party entries untouched.
+- **Result: 211 honest sandhi dispositions, 24 songs flipped to PASS**
+  (586→632 with loop additions). The classifier demonstrably refused real
+  defects (kul-p39's dropped repetitions). Remaining backlog: ~400 T1-repair
+  verses (mostly omitted/duplicated words — the hand-fix queue), schema-class
+  songs (DATA_OBJECTS/C1_L2_SHARED), netra/svacchanda re-intake, 4 loop-
+  in-flight songs (do NOT hand-register; tw-assemble owns them).
+- **Steady state holds:** refresh drift → green publish → push, no pause
+  needed (fail-closed emit is the detector).

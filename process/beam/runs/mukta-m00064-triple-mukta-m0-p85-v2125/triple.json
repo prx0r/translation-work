@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p85",
+ "items": [
+  {
+   "verse": 2125,
+   "rows": [
+    {
+     "surface": "hṛtarājyo",
+     "gloss": "deprived-of-kingdom",
+     "grounds": "bahuvrihi compound hṛta-rājya; nominative singular masculine, sandhi before following voiced consonant",
+     "morph": "compound: hṛta+past-passive-participle, rājya+noun; m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "may-become",
+     "grounds": "optative of bhū expressing possible consequence",
+     "morph": "verb: 3.sg.optative.active (bhū)"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "subject experiencing the foretold calamity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pararāṣṭrasamāgamaḥ",
+     "gloss": "foreign-kingdom-arrival",
+     "grounds": "compound para-rāṣṭra-samāgama indicating arrival or incursion of another realm",
+     "morph": "compound: para+adjective, rāṣṭra+noun, samāgama+noun; m.nom.sg"
+    }
+   ],
+   "question": "What loss of sovereignty and foreign incursion threaten the king under this omen?",
+   "premises": [
+    "An inauspicious outer sign portends political calamity.",
+    "The king may become deprived of his kingdom.",
+    "A foreign kingdom may arrive or encroach."
+   ],
+   "inference": "The omen foretells royal dispossession together with foreign incursion.",
+   "uncertainties": [
+    "pararāṣṭrasamāgamaḥ may indicate hostile invasion or another form of foreign arrival."
+   ],
+   "plain_english": "The king may be deprived of his kingdom, and a foreign kingdom may arrive."
+  }
+ ]
+}

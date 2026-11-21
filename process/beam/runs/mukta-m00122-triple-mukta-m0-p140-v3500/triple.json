@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p140",
+ "items": [
+  {
+   "verse": 3500,
+   "rows": [
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural referring to the ten winds named in the preceding context",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "daśānām",
+     "gloss": "of-ten",
+     "grounds": "genitive plural modifying the ten winds",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "aṃśāḥ",
+     "gloss": "portions",
+     "grounds": "nominative plural subject of syuḥ",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marutāṃ",
+     "gloss": "of-winds",
+     "grounds": "genitive plural qualifying the portions",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative third person plural of as",
+     "morph": "v.3pl.act.opt (root as)"
+    },
+    {
+     "surface": "anantakāḥ",
+     "gloss": "endless",
+     "grounds": "nominative plural adjective agreeing with aṃśāḥ",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What are the portions of the ten winds said to be?",
+   "premises": [
+    "the ten winds are named in the preceding context",
+    "their portions are the subject of the statement",
+    "those portions are described as endless"
+   ],
+   "inference": "the ten winds possess portions that are endless",
+   "uncertainties": [
+    "anantakāḥ may mean endless rather than numerically infinite"
+   ],
+   "plain_english": "The portions of these ten winds would be endless."
+  }
+ ]
+}

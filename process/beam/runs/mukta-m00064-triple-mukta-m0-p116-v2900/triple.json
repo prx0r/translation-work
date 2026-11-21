@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "mukto",
+     "gloss": "liberated",
+     "grounds": "past passive participle of muc, nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet+tu",
+     "gloss": "may-become-and",
+     "grounds": "optative of bhū fused with emphatic particle tu",
+     "morph": "3.sg.opt.act + (indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "agent noun, nominative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na+atra",
+     "gloss": "not-here",
+     "grounds": "negation fused with locative adverb atra",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative subject of implied existential clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is liberation assured for the practitioner in this observance without any doubt?",
+   "premises": [
+    "The practitioner may become liberated.",
+    "This outcome is affirmed with emphasis, O goddess.",
+    "No doubt exists regarding this result."
+   ],
+   "inference": "Therefore, the practitioner attains liberation without doubt.",
+   "uncertainties": [],
+   "plain_english": "O goddess, the practitioner indeed becomes liberated; there is no doubt about it."
+  }
+ ]
+}

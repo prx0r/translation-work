@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p23",
+ "items": [
+  {
+   "verse": 575,
+   "rows": [
+    {
+     "surface": "potādeśced",
+     "gloss": "if-from-boat-and-others",
+     "grounds": "sandhi fusion potādeḥ + cet; pota-ādi as examples of external means",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "upāyena",
+     "gloss": "by-means",
+     "grounds": "instrument through which something is observed or effected",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dṛṣṭe",
+     "gloss": "when-seen",
+     "grounds": "locative absolute indicating the condition of being observed",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dīpādyupāyatā",
+     "gloss": "lamp-and-others-means-ness",
+     "grounds": "abstract state of functioning as an instrumental means like a lamp",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How can external objects like boats serve as instrumental means analogous to a lamp in revealing awareness?",
+   "premises": [
+    "A boat and similar objects can function as means in observation.",
+    "When such a means is observed, its instrumental role becomes evident.",
+    "A lamp and similar aids exemplify the state of being an instrumental means."
+   ],
+   "inference": "Therefore, external objects like boats share the same instrumental status as a lamp in making awareness manifest.",
+   "uncertainties": [
+    "The exact syntactic subject of dīpādyupāyatā is implicit from the preceding context."
+   ],
+   "plain_english": "If, by means of something like a boat, it is seen, then it has the status of being a means, just like a lamp and similar aids."
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p446",
+ "work": "mukta-m00195",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v11143 ratio=0.864",
+  "ALIGN_NODISP v11147 ratio=0.886",
+  "C1_L2_SHARED 1"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "0b8c4600784aa394",
+ "source_digest_normalized_sha256": "0b8c4600784aa3942d63a68b6a0b543e4184a87d2f65b5f3cebadd64809d00f8",
+ "source_sha256_raw": "a234399d857bb9eb0340d9f1c8ad81a1eaa70cb01e95d39a1d8ae9140465b3bb",
+ "source_sha256_raw_file": "/root/translation-work/mukta-m00195/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 158
+ },
+ "align": {
+  "min_ratio": 0.864,
+  "sub090": {
+   "11143": {
+    "ratio": 0.864,
+    "disposition": null
+   },
+   "11147": {
+    "ratio": 0.886,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [
+  "Afterwards, one should arrange an oblation mixed with sugar and ghee."
+ ],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 69,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 158,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: layer gate C1_L2_SHARED",
+  "fix: word-order/gloss vs source for v11143",
+  "fix: word-order/gloss vs source for v11147"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "29106f8b719cddca32b07f34d08afdeeb02bbbe318174cf3c3f41971a62b5494",
+  "l0": "029145c7bfd84d760ab9b8f208bc058ba9879210001e01a35a1750d6c6659414",
+  "argmap": "8ae5056ff266a26a1dfb22ce1621c9a159ece111cf695acb21d9239aa7809d28",
+  "l2": "3fcdcc7ace5b2ea706b9d205490181a14202f04d578c0cc8ead4833a22ccf556",
+  "c1": "4a6b2f2bd8f2aa96fd75887c497ccdc79da022b3770fde7a7ffc5149ada40366"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "0b8c4600784aa394",
+  "t1": "mukta-m0-p446/data/mukta-m0-p446.t1.json",
+  "l0": "mukta-m0-p446/data/mukta-m0-p446.l0.json",
+  "l2": "mukta-m0-p446/data/mukta-m0-p446.l2.json",
+  "c1": "mukta-m0-p446/data/mukta-m0-p446.c1.json"
+ }
+}

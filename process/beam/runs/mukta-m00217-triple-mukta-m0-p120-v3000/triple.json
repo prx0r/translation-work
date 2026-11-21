@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p120",
+ "items": [
+  {
+   "verse": 3000,
+   "rows": [
+    {
+     "surface": "sthirā",
+     "gloss": "steady",
+     "grounds": "predicate adjective indicating stability",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast with preceding conditions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marutā",
+     "gloss": "with-wind",
+     "grounds": "instrumental denoting accompaniment or conjunction",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "joined",
+     "grounds": "past participle expressing union",
+     "morph": "f.nom.sg, ppp √yuj"
+    },
+    {
+     "surface": "śūnyaṃ",
+     "gloss": "void",
+     "grounds": "element or principle named as subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sāgni",
+     "gloss": "with-fire",
+     "grounds": "compound indicating accompaniment by fire",
+     "morph": "n.nom.sg, compound sa+agni"
+    },
+    {
+     "surface": "nabhaścarau",
+     "gloss": "two-sky-movers",
+     "grounds": "compound denoting the pair that moves in the sky",
+     "morph": "m.nom.du, compound nabhas+cara"
+    }
+   ],
+   "question": "Which elemental conjunctions render the two sky-moving principles steady?",
+   "premises": [
+    "The preceding verses describe conditions producing swift or mobile states.",
+    "This verse states that what is joined with wind is steady.",
+    "This verse states that the void together with fire constitutes the two sky-movers in a steady condition."
+   ],
+   "inference": "Steadiness of the two sky-moving principles arises from conjunction with wind and from the void accompanied by fire, in contrast to the previously stated mobile conditions.",
+   "uncertainties": [
+    "The exact referents of nabhaścarau in this ritual-physiological context are not fully specified within the verse.",
+    "The syntactic relation between śūnyaṃ sāgni and nabhaścarau admits more than one construal."
+   ],
+   "plain_english": "But when joined with wind, it is steady; and the void, together with fire, forms the two sky-movers in a steady state."
+  }
+ ]
+}

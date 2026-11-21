@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 100,
+   "rows": [
+    {
+     "surface": "bho śiṣyeti",
+     "gloss": "o-disciple-thus",
+     "grounds": "vocative address phrase; iti marks quoted address",
+     "morph": "address.phrase"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sambodhya",
+     "gloss": "having-addressed",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund sam-√budh"
+    },
+    {
+     "surface": "brūyādevaṃ",
+     "gloss": "should-say-thus",
+     "grounds": "fused form brūyāt + evam; optative with manner particle",
+     "morph": "3.sg.optative-act √brū + (indecl.)"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "wise-one",
+     "grounds": "agent performing the address and speech",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How must a wise officiant verbally address the disciple before delivering the prescribed instruction?",
+   "premises": [
+    "The officiant must directly address the disciple.",
+    "The address is expressed with the words bho śiṣya iti.",
+    "After addressing, the wise officiant should speak in the prescribed manner."
+   ],
+   "inference": "A wise officiant, having addressed the disciple as \"O disciple,\" should then speak accordingly.",
+   "uncertainties": [
+    "The exact content referred to by evam depends on the following context."
+   ],
+   "plain_english": "And having addressed him with the words \"O disciple,\" the wise one should speak thus."
+  }
+ ]
+}

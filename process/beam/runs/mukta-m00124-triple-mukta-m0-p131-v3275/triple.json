@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "instrumental of eka indicating a single measure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kampakaṃ",
+     "gloss": "projection",
+     "grounds": "architectural element measured in the prescribed division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pañcabhāgena",
+     "gloss": "by-five-parts",
+     "grounds": "compound pañca+bhāga indicating a five-part measure",
+     "morph": "compound:pañca+bhāga;m.ins.sg"
+    },
+    {
+     "surface": "jagatī",
+     "gloss": "base",
+     "grounds": "architectural base element receiving the stated proportion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescriptive measure",
+     "morph": "3.sg.act-optative;√bhū"
+    }
+   ],
+   "question": "What proportional measures should the projection and the base have in this division?",
+   "premises": [
+    "The projection is assigned a measure of one part.",
+    "The base is assigned a measure of five parts.",
+    "Both measures apply within the prescribed structural division."
+   ],
+   "inference": "Therefore the projection and the base stand in a one-to-five proportional ratio.",
+   "uncertainties": [
+    "The precise architectural referents of kampakaṃ and jagatī in this context remain technical."
+   ],
+   "plain_english": "The projection should measure one part, and the base should measure five parts."
+  }
+ ]
+}

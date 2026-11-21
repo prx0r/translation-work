@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p21",
+ "items": [
+  {
+   "verse": 525,
+   "rows": [
+    {
+     "surface": "madhyamānāmikābhyāṃ",
+     "gloss": "with-middle-and-ring-fingers",
+     "grounds": "instrumental dual of madhyamā and anāmikā",
+     "morph": "instr.du.f"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lalāṭe",
+     "gloss": "on-forehead",
+     "grounds": "locative singular of lalāṭa",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "mukhavṛttake",
+     "gloss": "in-face-circle",
+     "grounds": "locative singular of mukhavṛttaka",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "Which fingers and which body location are specified for this nyāsa placement?",
+   "premises": [
+    "middle and ring fingers are used",
+    "placement occurs on the forehead",
+    "face-circle is the target region"
+   ],
+   "inference": "The verse specifies a nyāsa placement using the middle and ring fingers on the forehead within the face-circle.",
+   "uncertainties": [
+    "exact ritual sequence beyond this placement is not stated"
+   ],
+   "plain_english": "With the middle and ring fingers, on the forehead, in the face-circle."
+  }
+ ]
+}

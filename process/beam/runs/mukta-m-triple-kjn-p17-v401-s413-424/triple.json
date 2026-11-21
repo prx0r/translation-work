@@ -1,0 +1,540 @@
+{
+ "song": "kjn-p17",
+ "items": [
+  {
+   "verse": 413,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jalaṃ",
+     "gloss": "water",
+     "grounds": "object of thought",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cintayeddevi",
+     "gloss": "should-think-goddess",
+     "grounds": "fused verb+address",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "direct address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnivāyurākāśam",
+     "gloss": "fire-wind-ether",
+     "grounds": "compound elements",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which elements should not be mentally contemplated in this practice?",
+   "premises": [
+    "water is excluded",
+    "fire wind and ether are excluded",
+    "the goddess is addressed"
+   ],
+   "inference": "The practitioner should not fixate on these elemental objects.",
+   "uncertainties": [
+    "exact verb mood",
+    "compound parsing"
+   ],
+   "plain_english": "Do not contemplate water, fire, wind, or ether, O goddess."
+  },
+  {
+   "verse": 414,
+   "rows": [
+    {
+     "surface": "manasya",
+     "gloss": "in-mind",
+     "grounds": "locative sense",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "unmanībhāvo",
+     "gloss": "transcendent-mind-state",
+     "grounds": "compound state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "state change",
+     "morph": "3sg.prs.act"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "direct address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "When does the transcendent mind-state arise?",
+   "premises": [
+    "it arises in mind",
+    "it becomes present",
+    "the beautiful one is addressed"
+   ],
+   "inference": "The transcendent state appears when the mind is so disposed.",
+   "uncertainties": [
+    "exact compound sense"
+   ],
+   "plain_english": "When the transcendent mind-state becomes present, O beautiful one."
+  },
+  {
+   "verse": 415,
+   "rows": [
+    {
+     "surface": "ghaṭapaṭasthitastambhā",
+     "gloss": "pot-cloth-situated-pillars",
+     "grounds": "compound list",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "grāmakūpādikaṃ",
+     "gloss": "village-well-etc",
+     "grounds": "compound list",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the wise one not perceive in that state?",
+   "premises": [
+    "pots cloths and pillars are listed",
+    "village well and so on are listed",
+    "the wise one is subject"
+   ],
+   "inference": "Ordinary objects are not perceived by the wise one.",
+   "uncertainties": [
+    "exact list scope"
+   ],
+   "plain_english": "The wise one does not perceive pots, cloths, pillars, villages, wells, and the like."
+  },
+  {
+   "verse": 416,
+   "rows": [
+    {
+     "surface": "tāḍyamānan",
+     "gloss": "being-struck",
+     "grounds": "passive participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bodhyate",
+     "gloss": "is-aware",
+     "grounds": "passive verb",
+     "morph": "3sg.prs.pass"
+    },
+    {
+     "surface": "jīvas",
+     "gloss": "soul",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tal",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "layatāṃ",
+     "gloss": "dissolution-state",
+     "grounds": "accusative state",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gataḥ",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the soul not aware when struck?",
+   "premises": [
+    "the soul is struck",
+    "it is not aware",
+    "it has gone to dissolution"
+   ],
+   "inference": "Awareness ceases because the soul has entered dissolution.",
+   "uncertainties": [
+    "exact participle force"
+   ],
+   "plain_english": "The soul, having gone to dissolution, is not aware even when struck."
+  },
+  {
+   "verse": 417,
+   "rows": [
+    {
+     "surface": "akṣayo",
+     "gloss": "imperishable",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amaro",
+     "gloss": "immortal",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "kāmadevadvitīyakaḥ",
+     "gloss": "kama-deva-second",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What becomes imperishable and immortal?",
+   "premises": [
+    "imperishable is stated",
+    "immortal is stated",
+    "having become is stated"
+   ],
+   "inference": "The second Kama-deva becomes imperishable and immortal.",
+   "uncertainties": [
+    "compound exact sense"
+   ],
+   "plain_english": "Having become immortal, the second Kama-deva is imperishable."
+  },
+  {
+   "verse": 418,
+   "rows": [
+    {
+     "surface": "puṣpavṛṣṭipatantasya",
+     "gloss": "flower-shower-falling",
+     "grounds": "compound genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pārijātasya",
+     "gloss": "of-parijata",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sundari",
+     "gloss": "o-beautiful-one",
+     "grounds": "direct address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Whose falling flower shower is mentioned?",
+   "premises": [
+    "flower shower falling is stated",
+    "of parijata is stated",
+    "beautiful one is addressed"
+   ],
+   "inference": "The falling shower belongs to the parijata tree.",
+   "uncertainties": [
+    "exact syntactic role"
+   ],
+   "plain_english": "O beautiful one, the falling shower of the parijata tree."
+  },
+  {
+   "verse": 419,
+   "rows": [
+    {
+     "surface": "pañcaśrotātmakañ",
+     "gloss": "five-stream-consisting",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mokṣārthaṃ",
+     "gloss": "for-liberation",
+     "grounds": "purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "codito",
+     "gloss": "declared",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent",
+     "morph": "1sg.inst"
+    }
+   ],
+   "question": "What was declared by me for liberation?",
+   "premises": [
+    "five-stream-consisting is stated",
+    "for liberation is stated",
+    "declared by me is stated"
+   ],
+   "inference": "The five-stream teaching was declared for liberation.",
+   "uncertainties": [
+    "exact referent"
+   ],
+   "plain_english": "The five-stream teaching was indeed declared by me for liberation."
+  },
+  {
+   "verse": 420,
+   "rows": [
+    {
+     "surface": "atorddhaṃ",
+     "gloss": "from-here",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-spoken",
+     "grounds": "passive verb",
+     "morph": "3sg.prs.pass"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "direct address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mudrānirṇayalakṣaṇam",
+     "gloss": "seal-determination-characteristic",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is spoken next after this?",
+   "premises": [
+    "from here is stated",
+    "is spoken is stated",
+    "seal determination characteristic is stated"
+   ],
+   "inference": "The characteristic of seal determination is spoken next.",
+   "uncertainties": [
+    "exact compound sense"
+   ],
+   "plain_english": "Next, O goddess, the characteristic of seal determination is spoken."
+  },
+  {
+   "verse": 421,
+   "rows": [
+    {
+     "surface": "dvādaśānte",
+     "gloss": "at-twelve-end",
+     "grounds": "locative compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "temporal condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśyet",
+     "gloss": "one-sees",
+     "grounds": "optative verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "sphurantam",
+     "gloss": "quivering",
+     "grounds": "participle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maṇimālikā",
+     "gloss": "jewel-garland",
+     "grounds": "compound",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is seen quivering at the twelve-end?",
+   "premises": [
+    "at twelve-end is stated",
+    "when one sees is stated",
+    "quivering jewel-garland is stated"
+   ],
+   "inference": "A quivering jewel-garland is seen at the twelve-end.",
+   "uncertainties": [
+    "exact anatomical referent"
+   ],
+   "plain_english": "When one sees a quivering jewel-garland at the twelve-end."
+  },
+  {
+   "verse": 422,
+   "rows": [
+    {
+     "surface": "mudritam",
+     "gloss": "sealed",
+     "grounds": "participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcamudrābhiś",
+     "gloss": "by-five-seals",
+     "grounds": "instrumental compound",
+     "morph": "f.inst.pl"
+    },
+    {
+     "surface": "caitanyasahitaṃ",
+     "gloss": "consciousness-accompanied",
+     "grounds": "compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "direct address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is sealed by the five seals?",
+   "premises": [
+    "sealed is stated",
+    "by five seals is stated",
+    "consciousness-accompanied is stated"
+   ],
+   "inference": "The consciousness-accompanied reality is sealed by five seals.",
+   "uncertainties": [
+    "exact object"
+   ],
+   "plain_english": "O beloved, it is sealed by five seals, accompanied by consciousness."
+  },
+  {
+   "verse": 423,
+   "rows": [
+    {
+     "surface": "pañcād",
+     "gloss": "from-five",
+     "grounds": "ablative compound",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "vādaśāntaṃ",
+     "gloss": "to-twelve-end",
+     "grounds": "accusative compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yāvac",
+     "gloss": "as-far-as",
+     "grounds": "limit",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktyācāreṇa",
+     "gloss": "by-shakti-practice",
+     "grounds": "instrumental compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhedayet",
+     "gloss": "one-should-pierce",
+     "grounds": "optative verb",
+     "morph": "3sg.opt.act"
+    }
+   ],
+   "question": "What should be pierced by shakti practice?",
+   "premises": [
+    "from five is stated",
+    "to twelve-end is stated",
+    "by shakti practice is stated"
+   ],
+   "inference": "The range from five to twelve-end should be pierced.",
+   "uncertainties": [
+    "exact range"
+   ],
+   "plain_english": "By shakti practice one should pierce from five to the twelve-end."
+  },
+  {
+   "verse": 424,
+   "rows": [
+    {
+     "surface": "līyante",
+     "gloss": "they-dissolve",
+     "grounds": "plural verb",
+     "morph": "3pl.prs.mid"
+    },
+    {
+     "surface": "khecarīcakre",
+     "gloss": "in-khechari-circle",
+     "grounds": "locative compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣobhayet",
+     "gloss": "one-should-agitate",
+     "grounds": "optative verb",
+     "morph": "3sg.opt.act"
+    },
+    {
+     "surface": "paramāmṛtam",
+     "gloss": "supreme-nectar",
+     "grounds": "compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What dissolves in the khechari circle?",
+   "premises": [
+    "they dissolve is stated",
+    "in khechari circle is stated",
+    "supreme nectar is stated"
+   ],
+   "inference": "They dissolve in the khechari circle while supreme nectar is agitated.",
+   "uncertainties": [
+    "subject of dissolve"
+   ],
+   "plain_english": "They dissolve in the khechari circle; one should agitate the supreme nectar."
+  }
+ ]
+}

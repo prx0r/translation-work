@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "gopyadgopyataraṃ",
+     "gloss": "secret-more-secret",
+     "grounds": "fused sandhi form; legacy hint secret-more-secret; modifies tad",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "deva",
+     "gloss": "god",
+     "grounds": "vocative address to the deity",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "object of the imperative request",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathayasva",
+     "gloss": "tell",
+     "grounds": "imperative request to reveal",
+     "morph": "verb.2.sg.impv.mid (root kath)"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the revelation",
+     "morph": "pron.dat.sg.1"
+    }
+   ],
+   "question": "What most secret teaching should the god reveal to the devotee today?",
+   "premises": [
+    "The speaker addresses the god.",
+    "The speaker requests revelation today.",
+    "The requested object is most secret."
+   ],
+   "inference": "The verse is a request for the supreme secret teaching.",
+   "uncertainties": [
+    "Exact sandhi decomposition of gopyadgopyataraṃ is not split; accusative case inferred from syntax."
+   ],
+   "plain_english": "O god, tell me today that most secret of secrets."
+  }
+ ]
+}

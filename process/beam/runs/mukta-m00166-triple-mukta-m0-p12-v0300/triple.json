@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "mahat+mukhya+prakhyā",
+     "gloss": "renowned-as-great-and-chief",
+     "grounds": "compound adjective qualifying iyam; internal members mahat, mukhya, prakhyā",
+     "morph": "compound-adj.f.nom.sg"
+    },
+    {
+     "surface": "nijam",
+     "gloss": "own",
+     "grounds": "inherent, belonging to itself; qualifies vibhavam",
+     "morph": "adj.m.acc.sg"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the state described",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "upākhyāti",
+     "gloss": "declares",
+     "grounds": "proclaims or sets forth",
+     "morph": "3.sg.pres.act √khyā+upa"
+    },
+    {
+     "surface": "vibhavam",
+     "gloss": "glory",
+     "grounds": "majesty, power, or expansive splendor",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What kind of inherent glory does this renowned state declare?",
+   "premises": [
+    "This state is renowned as great and chief.",
+    "It actively declares a glory.",
+    "The declared glory is its own inherent nature."
+   ],
+   "inference": "This renowned state proclaims its own inherent glory.",
+   "uncertainties": [
+    "The precise compound structure of mahat+mukhya+prakhyā admits alternative internal relations."
+   ],
+   "plain_english": "This, renowned as great and supreme, declares its own inherent glory."
+  }
+ ]
+}

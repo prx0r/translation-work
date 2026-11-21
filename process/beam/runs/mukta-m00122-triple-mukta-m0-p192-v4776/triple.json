@@ -1,0 +1,453 @@
+{
+ "song": "mukta-m0-p192",
+ "items": [
+  {
+   "verse": 4776,
+   "rows": [
+    {
+     "surface": "bhedine",
+     "gloss": "to-the-divider",
+     "grounds": "dative of bhedin",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāva",
+     "gloss": "state",
+     "grounds": "nominative/accusative stem",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śīlāya",
+     "gloss": "disposed-to",
+     "grounds": "dative of disposition",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "How is the twofold state disposed toward the divider?",
+   "premises": [
+    "bhedine means to-the-divider",
+    "dvidhā means twofold",
+    "bhāva means state",
+    "śīlāya means disposed-to"
+   ],
+   "inference": "The verse presents a twofold state oriented toward the divider.",
+   "uncertainties": [
+    "exact syntactic relation among the four tokens is not fully recoverable"
+   ],
+   "plain_english": "A twofold state is disposed toward the divider."
+  },
+  {
+   "verse": 4777,
+   "rows": [
+    {
+     "surface": "śaktyā",
+     "gloss": "by-power",
+     "grounds": "instrumental of śakti",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "saṃgṛhya",
+     "gloss": "having-grasped",
+     "grounds": "absolutive of saṃ-grah",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vidhi",
+     "gloss": "according-to",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vat",
+     "gloss": "rule",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhajate",
+     "gloss": "worships",
+     "grounds": "third person singular present of bhaj",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mat",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "aṃśakaḥ",
+     "gloss": "portion",
+     "grounds": "nominative of aṃśaka",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How does the worshipper, grasping by power according to rule, relate to my portion?",
+   "premises": [
+    "śaktyā means by-power",
+    "saṃgṛhya means having-grasped",
+    "vidhi vat means according-to rule",
+    "bhajate means worships",
+    "sa means he",
+    "mat aṃśakaḥ means my portion"
+   ],
+   "inference": "He who grasps by power and worships according to rule is my portion.",
+   "uncertainties": [
+    "whether vidhi vat is one compound or two particles"
+   ],
+   "plain_english": "Grasping by power and worshipping according to rule, he is my portion."
+  },
+  {
+   "verse": 4778,
+   "rows": [
+    {
+     "surface": "asyā",
+     "gloss": "of-this",
+     "grounds": "genitive pronoun",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "niphālanāt",
+     "gloss": "from-contemplation",
+     "grounds": "ablative of niphālana",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "citte",
+     "gloss": "in-the-mind",
+     "grounds": "locative of citta",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "nominative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "reality",
+     "grounds": "nominative of tattva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "indeclinable adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ātma",
+     "gloss": "self",
+     "grounds": "compound member",
+     "morph": "compound=ātman+?"
+    },
+    {
+     "surface": "sāt",
+     "gloss": "made-one-with",
+     "grounds": "compound member",
+     "morph": "compound=sāt+?"
+    },
+    {
+     "surface": "kṛtam",
+     "gloss": "made",
+     "grounds": "past participle of kṛ",
+     "morph": "n.nom.sg.pass-pp"
+    }
+   ],
+   "question": "How does contemplation of this make that reality one with one's own self in the mind?",
+   "premises": [
+    "asyā means of-this",
+    "niphālanāt means from-contemplation",
+    "citte means in-the-mind",
+    "tat tattvaṃ means that reality",
+    "sva ātma sāt kṛtam means made one with own self"
+   ],
+   "inference": "Through contemplation of this, that reality is made one with one's own self in the mind.",
+   "uncertainties": [
+    "internal sandhi of sva ātma sāt kṛtam is not split in the row"
+   ],
+   "plain_english": "By contemplating this, that reality is made one with one's own self in the mind."
+  },
+  {
+   "verse": 4779,
+   "rows": [
+    {
+     "surface": "|| 36 ||",
+     "gloss": "|| 36 ||",
+     "grounds": "verse marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃtatsat",
+     "gloss": "oṃ-tat-sat",
+     "grounds": "mantra syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "||",
+     "gloss": "||",
+     "grounds": "verse marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What closing marker and mantra conclude this thirty-sixth section?",
+   "premises": [
+    "|| 36 || marks section thirty-six",
+    "oṃtatsat is the closing mantra",
+    "|| closes the verse"
+   ],
+   "inference": "The section closes with the marker thirty-six and the mantra oṃ-tat-sat.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Section thirty-six closes with oṃ-tat-sat."
+  },
+  {
+   "verse": 4780,
+   "rows": [
+    {
+     "surface": "mat",
+     "gloss": "my",
+     "grounds": "genitive pronoun",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "aṃśakaḥ",
+     "gloss": "portion",
+     "grounds": "nominative of aṃśaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cit",
+     "gloss": "consciousness",
+     "grounds": "nominative of cit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "svarūpaḥ",
+     "gloss": "nature",
+     "grounds": "nominative of svarūpa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśvaraḥ",
+     "gloss": "lord",
+     "grounds": "nominative of īśvara",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāvat",
+     "gloss": "namely",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the nature of my portion as consciousness and lord?",
+   "premises": [
+    "mat aṃśakaḥ means my portion",
+    "cit means consciousness",
+    "svarūpaḥ means nature",
+    "īśvaraḥ means lord",
+    "iti yāvat means thus namely"
+   ],
+   "inference": "My portion is consciousness by nature, namely the Lord.",
+   "uncertainties": [
+    "whether cit svarūpaḥ is a compound or separate words"
+   ],
+   "plain_english": "My portion is consciousness by nature, namely the Lord."
+  },
+  {
+   "verse": 4781,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśat",
+     "gloss": "thirty-sixth",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭalaṃ",
+     "gloss": "chapter",
+     "grounds": "nominative of paṭala",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paripūrṇaṃ",
+     "gloss": "completed",
+     "grounds": "past participle of paripūr",
+     "morph": "n.nom.sg.pass-pp"
+    },
+    {
+     "surface": "parāmṛṣṭam",
+     "gloss": "examined",
+     "grounds": "past participle of parā-mṛś",
+     "morph": "n.nom.sg.pass-pp"
+    },
+    {
+     "surface": "|| 36 ||",
+     "gloss": "|| 36 ||",
+     "grounds": "verse marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "oṃ tatsat",
+     "gloss": "oṃ-tat-sat",
+     "grounds": "mantra phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "||",
+     "gloss": "||",
+     "grounds": "verse marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the status of the thirty-sixth chapter?",
+   "premises": [
+    "ṣaṭtriṃśat paṭalaṃ means thirty-sixth chapter",
+    "paripūrṇaṃ means completed",
+    "parāmṛṣṭam means examined",
+    "|| 36 || marks thirty-six",
+    "oṃ tatsat is the closing mantra"
+   ],
+   "inference": "The thirty-sixth chapter is completed and examined.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "The thirty-sixth chapter is completed and examined."
+  },
+  {
+   "verse": 4782,
+   "rows": [
+    {
+     "surface": "adhyarddha",
+     "gloss": "three-and-a-half",
+     "grounds": "numeral adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptaṣaṣṭiḥ",
+     "gloss": "sixty-seven",
+     "grounds": "numeral",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyākhyā",
+     "gloss": "commentary",
+     "grounds": "nominative of vyākhyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "granthāḥ",
+     "gloss": "verses",
+     "grounds": "nominative plural of grantha",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "śata",
+     "gloss": "three",
+     "grounds": "numeral",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "hundred",
+     "grounds": "numeral",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How many commentary verses are counted in this section?",
+   "premises": [
+    "adhyarddha saptaṣaṣṭiḥ means three-and-a-half sixty-seven",
+    "ca means and",
+    "vyākhyā granthāḥ means commentary verses",
+    "śata trayam means three hundred"
+   ],
+   "inference": "The commentary verses number three hundred sixty-seven and a half.",
+   "uncertainties": [
+    "the exact arithmetic expression is ambiguous"
+   ],
+   "plain_english": "The commentary verses number three hundred sixty-seven and a half."
+  },
+  {
+   "verse": 4783,
+   "rows": [
+    {
+     "surface": "śatānāṃ",
+     "gloss": "of-hundreds",
+     "grounds": "genitive plural of śata",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "navakaṃ",
+     "gloss": "group-of-nine",
+     "grounds": "nominative of navaka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekatriṃśatā",
+     "gloss": "by-thirty-one",
+     "grounds": "instrumental of ekatriṃśat",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "past participle of sam-anu-i",
+     "morph": "n.nom.sg.pass-pp"
+    }
+   ],
+   "question": "How is the group of nine hundreds accompanied?",
+   "premises": [
+    "śatānāṃ means of-hundreds",
+    "navakaṃ means group-of-nine",
+    "tu means indeed",
+    "ekatriṃśatā means by-thirty-one",
+    "ca means and",
+    "samanvitam means accompanied"
+   ],
+   "inference": "The group of nine hundreds is indeed accompanied by thirty-one.",
+   "uncertainties": [
+    "the exact numerical total is not stated directly"
+   ],
+   "plain_english": "The group of nine hundreds is accompanied by thirty-one."
+  }
+ ]
+}

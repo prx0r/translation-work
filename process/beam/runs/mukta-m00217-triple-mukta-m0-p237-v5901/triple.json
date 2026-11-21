@@ -1,0 +1,1163 @@
+{
+ "song": "mukta-m0-p237",
+ "items": [
+  {
+   "verse": 5901,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-whom",
+     "grounds": "relative pronoun referring to the officiant",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhaktaḥ",
+     "gloss": "devotee",
+     "grounds": "recipient of consecration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "abhiṣiktaḥ",
+     "gloss": "consecrated",
+     "grounds": "past participle describing the devotee",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāga+homa+arhatām",
+     "gloss": "fitness-for-worship-and-offering",
+     "grounds": "compound expressing eligibility for ritual acts",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "may-attain",
+     "grounds": "optative expressing result of consecration",
+     "morph": "3.sg.act-opt √vraj"
+    }
+   ],
+   "question": "What ritual eligibility does consecration confer upon the devotee?",
+   "premises": [
+    "A devotee is consecrated by an officiant.",
+    "Consecration aims at ritual qualification.",
+    "Worship and fire-offering require fitness."
+   ],
+   "inference": "Through consecration the devotee becomes fit for worship and fire-offering.",
+   "uncertainties": [],
+   "plain_english": "By whom the devotee is consecrated, he indeed may attain fitness for worship and fire-offering."
+  },
+  {
+   "verse": 5902,
+   "rows": [
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(gerund √grah)"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrument used in taking clay",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "saṃcintya",
+     "gloss": "having-contemplated",
+     "grounds": "absolutive indicating mental act",
+     "morph": "(gerund sam-√cint)"
+    },
+    {
+     "surface": "yāyāt",
+     "gloss": "one-should-go",
+     "grounds": "optative prescribing movement",
+     "morph": "3.sg.act-opt √yā"
+    },
+    {
+     "surface": "jala+niketanam",
+     "gloss": "water-abode",
+     "grounds": "compound denoting place of water",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "How should the practitioner proceed to the place of water?",
+   "premises": [
+    "Clay is taken with the weapon-mantra.",
+    "Contemplation accompanies the action.",
+    "The destination is a water abode."
+   ],
+   "inference": "After taking clay with the weapon-mantra and contemplating, one should go to the water.",
+   "uncertainties": [],
+   "plain_english": "Having taken clay with the weapon-mantra and having contemplated, one should go to the place of water."
+  },
+  {
+   "verse": 5903,
+   "rows": [
+    {
+     "surface": "mṛdam",
+     "gloss": "clay",
+     "grounds": "object to be divided",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating division",
+     "morph": "(gerund √kṛ)"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "in-two",
+     "grounds": "manner of division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to the place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eka+bhāga+upagam",
+     "gloss": "reaching-one-part",
+     "grounds": "compound describing handling of one portion",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What initial preparation of the clay is required at the water site?",
+   "premises": [
+    "The clay is brought to the water.",
+    "The clay must be divided.",
+    "One portion is set aside for use."
+   ],
+   "inference": "At the water site the clay is divided in two and one part is taken up.",
+   "uncertainties": [],
+   "plain_english": "There, having divided the clay in two, one should then take up one part."
+  },
+  {
+   "verse": 5904,
+   "rows": [
+    {
+     "surface": "laukikaṃ",
+     "gloss": "ordinary",
+     "grounds": "describes a worldly purification",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gauṇaṃ",
+     "gloss": "secondary",
+     "grounds": "describes a subsidiary purification",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "madhyena",
+     "gloss": "with-middle",
+     "grounds": "instrumental indicating the portion used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "bhāgena+ekena",
+     "gloss": "with-one-part",
+     "grounds": "compound specifying a single portion",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "yatnataḥ",
+     "gloss": "carefully",
+     "grounds": "manner of performing the act",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are the ordinary and secondary purifications to be performed with the clay?",
+   "premises": [
+    "Purification has ordinary and secondary aspects.",
+    "One portion of clay is used.",
+    "The act requires care."
+   ],
+   "inference": "The ordinary and secondary purifications are to be done carefully with one middle portion.",
+   "uncertainties": [
+    "The exact distinction between laukika and gauṇa purification is not specified."
+   ],
+   "plain_english": "Carefully perform the ordinary and secondary purifications with one middle portion."
+  },
+  {
+   "verse": 5905,
+   "rows": [
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating placement",
+     "morph": "(gerund vi-√nyas)"
+    },
+    {
+     "surface": "aṅge",
+     "gloss": "on-body",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual sixfold division of mantras",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "prāṇāyāma+puraḥsaram",
+     "gloss": "preceded-by-breath-control",
+     "grounds": "compound indicating preparatory breath regulation",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What preparatory ritual sequence precedes the placement of the six limbs?",
+   "premises": [
+    "The six limbs are to be placed on the body.",
+    "Breath control is prescribed.",
+    "Breath control comes first."
+   ],
+   "inference": "One should place the six limbs on the body preceded by breath control.",
+   "uncertainties": [],
+   "plain_english": "Having placed the six limbs on the body, preceded by breath control."
+  },
+  {
+   "verse": 5906,
+   "rows": [
+    {
+     "surface": "ātma+rakṣāṃ",
+     "gloss": "self-protection",
+     "grounds": "compound denoting protective rite",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing action",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "vāri+kṣepeṇa",
+     "gloss": "with-water-casting",
+     "grounds": "compound indicating instrumental act",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "ca+astreṇa",
+     "gloss": "and-with-weapon-mantra",
+     "grounds": "conjunction with instrumental mantra",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "By what means should the practitioner perform self-protection after the preliminaries?",
+   "premises": [
+    "Self-protection follows the previous steps.",
+    "Water casting is involved.",
+    "The weapon-mantra is employed."
+   ],
+   "inference": "Self-protection should be performed by casting water with the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform self-protection by casting water and with the weapon-mantra."
+  },
+  {
+   "verse": 5907,
+   "rows": [
+    {
+     "surface": "unmajjya",
+     "gloss": "having-emerged",
+     "grounds": "absolutive indicating rising from water",
+     "morph": "(gerund ud-√majj)"
+    },
+    {
+     "surface": "kumbha+mudrāṃ",
+     "gloss": "kumbha-seal",
+     "grounds": "compound naming a ritual hand gesture",
+     "morph": "f.acc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baddhvā",
+     "gloss": "having-formed",
+     "grounds": "absolutive indicating forming the seal",
+     "morph": "(gerund √bandh)"
+    },
+    {
+     "surface": "siñcet",
+     "gloss": "one-should-sprinkle",
+     "grounds": "optative prescribing sprinkling",
+     "morph": "3.sg.act-opt √sic"
+    },
+    {
+     "surface": "sva+mūrdhani",
+     "gloss": "on-own-head",
+     "grounds": "compound indicating location",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "What actions follow immediately upon emerging from the water?",
+   "premises": [
+    "The practitioner emerges from the water.",
+    "The kumbha seal is formed.",
+    "Sprinkling is directed to the head."
+   ],
+   "inference": "After emerging, one should form the kumbha seal and sprinkle one's own head.",
+   "uncertainties": [],
+   "plain_english": "Having emerged, and having formed the kumbha seal, one should sprinkle one's own head."
+  },
+  {
+   "verse": 5908,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "that-person",
+     "grounds": "pronoun referring to the practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tīrtha",
+     "gloss": "sacred-water",
+     "grounds": "object of merit comparison",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "result or merit obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "present tense stating result",
+     "morph": "3.sg.act-pres √āp"
+    },
+    {
+     "surface": "tīrthe",
+     "gloss": "at-sacred-site",
+     "grounds": "location of comparison",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daśaguṇaṃ",
+     "gloss": "tenfold",
+     "grounds": "compound indicating multiplied merit",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "repeated object emphasizing result",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What merit is gained by performing this rite at a sacred site?",
+   "premises": [
+    "The rite yields a fruit.",
+    "Performance at a sacred site is considered.",
+    "The merit is multiplied."
+   ],
+   "inference": "Performing the rite at a sacred site yields a tenfold fruit.",
+   "uncertainties": [],
+   "plain_english": "That person obtains the fruit of a sacred bathing place; at a sacred site, the fruit is tenfold."
+  },
+  {
+   "verse": 5909,
+   "rows": [
+    {
+     "surface": "mṛdam",
+     "gloss": "clay",
+     "grounds": "object to be taken",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrument for taking clay",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating taking",
+     "morph": "(gerund ā-√dā)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "with-that",
+     "grounds": "instrumental referring to the mantra",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that-clay",
+     "grounds": "object to be consecrated",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhimantrya",
+     "gloss": "having-consecrated",
+     "grounds": "absolutive indicating mantra empowerment",
+     "morph": "(gerund abhi-√mantr)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the clay ritually empowered before application to the body?",
+   "premises": [
+    "Clay is taken with the weapon-mantra.",
+    "The same mantra is used again.",
+    "The clay must be consecrated."
+   ],
+   "inference": "The clay is taken with the weapon-mantra and consecrated with it.",
+   "uncertainties": [],
+   "plain_english": "Having taken clay with the weapon-mantra, and having consecrated it with that mantra."
+  },
+  {
+   "verse": 5910,
+   "rows": [
+    {
+     "surface": "mūrdhāt",
+     "gloss": "from-head",
+     "grounds": "starting point of smearing",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pāda+paryantam",
+     "gloss": "up-to-feet",
+     "grounds": "compound indicating endpoint",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "vilipya",
+     "gloss": "having-smeared",
+     "grounds": "absolutive indicating application",
+     "morph": "(gerund vi-√lip)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "with-that-clay",
+     "grounds": "instrumental referring to consecrated clay",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "vapuḥ",
+     "gloss": "body",
+     "grounds": "object being smeared",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "In what manner should the consecrated clay be applied to the body?",
+   "premises": [
+    "The clay has been consecrated.",
+    "Application covers the whole body.",
+    "The direction is from head to feet."
+   ],
+   "inference": "The body should be smeared with that clay from head to feet.",
+   "uncertainties": [],
+   "plain_english": "And having smeared the body with that clay from head to feet."
+  },
+  {
+   "verse": 5911,
+   "rows": [
+    {
+     "surface": "nimajjya",
+     "gloss": "having-immersed",
+     "grounds": "absolutive indicating immersion",
+     "morph": "(gerund ni-√majj)"
+    },
+    {
+     "surface": "tūṣṇīm",
+     "gloss": "silently",
+     "grounds": "manner of rising",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utthāya",
+     "gloss": "having-risen",
+     "grounds": "absolutive indicating rising",
+     "morph": "(gerund ud-√sthā)"
+    },
+    {
+     "surface": "nābhi+mātra+jale",
+     "gloss": "in-navel-deep-water",
+     "grounds": "compound indicating water depth",
+     "morph": "n.loc.sg (compound)"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "past participle describing posture",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What posture and silence are required after immersion in the water?",
+   "premises": [
+    "Immersion precedes rising.",
+    "Rising is done silently.",
+    "One stands in navel-deep water."
+   ],
+   "inference": "After immersing, one should rise silently and stand in navel-deep water.",
+   "uncertainties": [],
+   "plain_english": "Having immersed, having risen silently, one should stand in water up to the navel."
+  },
+  {
+   "verse": 5912,
+   "rows": [
+    {
+     "surface": "vinyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive indicating placement",
+     "morph": "(gerund vi-√nyas)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual sixfold division of mantras",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-prepare",
+     "grounds": "optative prescribing preparation",
+     "morph": "3.sg.act-opt √kḷp"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "sacred-water",
+     "grounds": "ritual water to be prepared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "location of preparation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual preparation must be made in front after placing the six limbs?",
+   "premises": [
+    "The six limbs are placed.",
+    "A sacred water space is needed.",
+    "Preparation occurs in front."
+   ],
+   "inference": "After placing the six limbs, one should prepare the sacred water in front.",
+   "uncertainties": [],
+   "plain_english": "And having placed the six limbs, one should prepare the sacred water in front."
+  },
+  {
+   "verse": 5913,
+   "rows": [
+    {
+     "surface": "sṛṇī+mantreṇa",
+     "gloss": "with-srni-mantra",
+     "grounds": "compound naming the mantra used",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "mantrajñaḥ",
+     "gloss": "mantra-knower",
+     "grounds": "compound describing qualified practitioner",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhittvā",
+     "gloss": "having-pierced",
+     "grounds": "absolutive indicating ritual piercing",
+     "morph": "(gerund √bhid)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking actions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṃkuśa+mudrayā",
+     "gloss": "with-hook-seal",
+     "grounds": "compound naming a ritual hand gesture",
+     "morph": "f.ins.sg (compound)"
+    }
+   ],
+   "question": "Which mantra and seal does the mantra-knower use to pierce ritually?",
+   "premises": [
+    "The practitioner is skilled in mantras.",
+    "The srni-mantra is employed.",
+    "The hook seal accompanies the act."
+   ],
+   "inference": "The mantra-knower should pierce with the srni-mantra and the hook seal.",
+   "uncertainties": [
+    "The exact identity of the sṛṇī-mantra is not specified."
+   ],
+   "plain_english": "The mantra-knower, having pierced with the srni-mantra and with the hook seal."
+  },
+  {
+   "verse": 5914,
+   "rows": [
+    {
+     "surface": "mūla+mantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "compound naming the primary mantra",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-joined",
+     "grounds": "absolutive indicating ritual union",
+     "morph": "(gerund sam-√yuj)"
+    },
+    {
+     "surface": "kalpite",
+     "gloss": "in-prepared",
+     "grounds": "past participle describing the site",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tīrtha+maṇḍale",
+     "gloss": "sacred-water-circle",
+     "grounds": "compound denoting ritual enclosure",
+     "morph": "n.loc.sg (compound)"
+    }
+   ],
+   "question": "Where and with which mantra should the ritual joining be performed?",
+   "premises": [
+    "A sacred water circle has been prepared.",
+    "The root-mantra is used.",
+    "A joining action is required."
+   ],
+   "inference": "One should perform the joining with the root-mantra in the prepared sacred water circle.",
+   "uncertainties": [],
+   "plain_english": "Having joined with the root-mantra in the prepared sacred water circle."
+  },
+  {
+   "verse": 5915,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating meditation",
+     "morph": "(gerund √dhyai)"
+    },
+    {
+     "surface": "tan+manunā",
+     "gloss": "with-that-mantra",
+     "grounds": "compound indicating instrumental mantra",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive indicating worship",
+     "morph": "(gerund abhi-√arc)"
+    },
+    {
+     "surface": "gaṅgā+mantreṇa",
+     "gloss": "with-ganga-mantra",
+     "grounds": "compound naming the mantra for invocation",
+     "morph": "m.ins.sg (compound)"
+    },
+    {
+     "surface": "mantrayet",
+     "gloss": "one-should-invoke",
+     "grounds": "optative prescribing mantra recitation",
+     "morph": "3.sg.act-opt denom. √mantr"
+    }
+   ],
+   "question": "What sequence of meditation, worship, and mantra recitation is prescribed?",
+   "premises": [
+    "Meditation is performed with that mantra.",
+    "Worship follows meditation.",
+    "The Ganga-mantra is then recited."
+   ],
+   "inference": "After meditating and worshipping with that mantra, one should invoke with the Ganga-mantra.",
+   "uncertainties": [],
+   "plain_english": "Having meditated with that mantra and having worshipped, one should recite the Ganga-mantra."
+  },
+  {
+   "verse": 5916,
+   "rows": [
+    {
+     "surface": "jalasthaṃ",
+     "gloss": "standing-in-water",
+     "grounds": "compound describing the element present",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "vyoma",
+     "gloss": "sky-syllable",
+     "grounds": "mantric element referring to the syllable ha",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ṣaṭ+dīrgha+svara",
+     "gloss": "six-long-vowels",
+     "grounds": "compound describing mantric modification",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "bhinnam",
+     "gloss": "differentiated",
+     "grounds": "past participle describing variation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sa+bindukam",
+     "gloss": "with-bindu",
+     "grounds": "compound indicating addition of nasal point",
+     "morph": "n.acc.sg (compound)"
+    }
+   ],
+   "question": "What mantric form is to be contemplated in the water element?",
+   "premises": [
+    "A form standing in water is specified.",
+    "The sky-syllable is modified by six long vowels.",
+    "The form includes a bindu."
+   ],
+   "inference": "One should contemplate the water-standing sky-syllable differentiated by six long vowels and endowed with bindu.",
+   "uncertainties": [
+    "The precise phonetic realization of the described mantra form is not fully explicit."
+   ],
+   "plain_english": "Contemplate the water-standing sky-syllable, differentiated by the six long vowels and endowed with a bindu."
+  },
+  {
+   "verse": 5917,
+   "rows": [
+    {
+     "surface": "ambālike",
+     "gloss": "o-little-mother",
+     "grounds": "vocative address in the mantra",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahā+mālini",
+     "gloss": "o-great-garlanded-one",
+     "grounds": "compound vocative epithet",
+     "morph": "f.voc.sg (compound)"
+    },
+    {
+     "surface": "ehi+ehi",
+     "gloss": "come-come",
+     "grounds": "repeated imperative invocation",
+     "morph": "2.sg.act-imp √i (reduplicated)"
+    },
+    {
+     "surface": "bhagavantī",
+     "gloss": "o-revered-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the goddess invoked in the opening words of the Ganga-mantra?",
+   "premises": [
+    "The mantra addresses the goddess directly.",
+    "Epithets qualify the goddess.",
+    "A repeated call to come is uttered."
+   ],
+   "inference": "The goddess is invoked with epithets and a repeated call to come.",
+   "uncertainties": [],
+   "plain_english": "O Ambalike, O great garlanded one, come, come, O revered goddess."
+  },
+  {
+   "verse": 5918,
+   "rows": [
+    {
+     "surface": "śiva+jaṭā+adhirūḍhe",
+     "gloss": "mounted-on-shiva-locks",
+     "grounds": "compound vocative describing Ganga",
+     "morph": "f.voc.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṅge",
+     "gloss": "o-ganga",
+     "grounds": "vocative name of the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "gaṅgā+ambike",
+     "gloss": "o-ganga-mother",
+     "grounds": "compound vocative epithet",
+     "morph": "f.voc.sg (compound)"
+    },
+    {
+     "surface": "dviṭhaḥ",
+     "gloss": "dvitah",
+     "grounds": "mantric syllable or term in invocation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which epithets of Ganga are invoked in the continuation of the mantra?",
+   "premises": [
+    "Ganga is addressed by name.",
+    "Her association with Shiva's locks is stated.",
+    "A maternal epithet is included."
+   ],
+   "inference": "The mantra invokes Ganga as mounted on Shiva's locks and as mother Ganga.",
+   "uncertainties": [
+    "The meaning or function of dviṭhaḥ is unclear."
+   ],
+   "plain_english": "O you mounted on Shiva's locks, O Ganga, O mother Ganga, dvitah."
+  },
+  {
+   "verse": 5919,
+   "rows": [
+    {
+     "surface": "kavacena",
+     "gloss": "with-armor-mantra",
+     "grounds": "instrumental mantra for covering",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "avaguṇṭhya",
+     "gloss": "having-veiled",
+     "grounds": "absolutive indicating covering",
+     "morph": "(gerund ava-√guṇṭh)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "particle marking sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃrakṣya",
+     "gloss": "having-protected",
+     "grounds": "absolutive indicating protection",
+     "morph": "(gerund sam-√rakṣ)"
+    },
+    {
+     "surface": "astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "instrumental mantra for protection",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "mantrayet",
+     "gloss": "one-should-invoke",
+     "grounds": "optative prescribing mantra recitation",
+     "morph": "3.sg.act-opt denom. √mantr"
+    }
+   ],
+   "question": "How should the invoked presence be veiled and protected before further recitation?",
+   "premises": [
+    "The armor-mantra is used for veiling.",
+    "The weapon-mantra is used for protection.",
+    "Mantra recitation follows."
+   ],
+   "inference": "One should veil with the armor-mantra, protect with the weapon-mantra, and then recite.",
+   "uncertainties": [],
+   "plain_english": "Having veiled with the armor-mantra, then having protected with the weapon-mantra, one should recite the mantra."
+  },
+  {
+   "verse": 5920,
+   "rows": [
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "absolutive indicating invocation",
+     "morph": "(gerund sam-ā-√vah)"
+    },
+    {
+     "surface": "jale",
+     "gloss": "in-water",
+     "grounds": "location of invocation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive indicating visualization",
+     "morph": "(gerund √dhyai)"
+    },
+    {
+     "surface": "tat+pada+dvaya+nirgatam",
+     "gloss": "issued-from-her-two-feet",
+     "grounds": "compound describing the goddess's emergence",
+     "morph": "f.acc.sg (compound)"
+    }
+   ],
+   "question": "How is the goddess to be visualized when invoked into the water?",
+   "premises": [
+    "The goddess is invoked into the water.",
+    "Meditation accompanies invocation.",
+    "She is visualized as issuing from her two feet."
+   ],
+   "inference": "After invoking her in the water, one should meditate on her as issuing from her two feet.",
+   "uncertainties": [
+    "The image of issuing from her two feet is contextually compressed."
+   ],
+   "plain_english": "Having invoked her in the water and having meditated, visualize her as issuing from her two feet."
+  },
+  {
+   "verse": 5921,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "three-times",
+     "grounds": "manner of crossing",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of ritual crossing",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samuttīrya",
+     "gloss": "having-crossed",
+     "grounds": "absolutive indicating ritual passage",
+     "morph": "(gerund sam-ud-√tṛ)"
+    },
+    {
+     "surface": "jalāt",
+     "gloss": "from-water",
+     "grounds": "ablative indicating exit",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dhaute",
+     "gloss": "washed",
+     "grounds": "past participle describing garments",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "su+vāsasī",
+     "gloss": "fine-garments",
+     "grounds": "compound denoting clean clothing",
+     "morph": "n.acc.du (compound)"
+    }
+   ],
+   "question": "What actions conclude the water rite before donning clean garments?",
+   "premises": [
+    "The goddess is crossed three times.",
+    "The practitioner exits the water.",
+    "Clean garments are put on."
+   ],
+   "inference": "After crossing the goddess three times, one exits the water and dons washed fine garments.",
+   "uncertainties": [
+    "The ritual sense of crossing the goddess three times is not fully explicit."
+   ],
+   "plain_english": "Having crossed the goddess three times, and having come out of the water, one should put on washed, fine garments."
+  },
+  {
+   "verse": 5922,
+   "rows": [
+    {
+     "surface": "toyābhāve",
+     "gloss": "in-absence-of-water",
+     "grounds": "compound indicating lack of water",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle introducing exception",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yat+kāryaṃ",
+     "gloss": "what-to-be-done",
+     "grounds": "compound indicating required action",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "dūrge",
+     "gloss": "in-difficult-place",
+     "grounds": "location of hardship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "in-time",
+     "grounds": "temporal circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "particle adding circumstance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śītale",
+     "gloss": "in-cold",
+     "grounds": "circumstance of cold",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Under what adverse circumstances must an alternative to water bathing be considered?",
+   "premises": [
+    "Water may be unavailable.",
+    "The place may be difficult.",
+    "The time may be cold."
+   ],
+   "inference": "An alternative procedure is needed when water is absent, in difficult places, or in cold times.",
+   "uncertainties": [],
+   "plain_english": "But when water is absent, in a difficult place, or in cold time, what is to be done?"
+  },
+  {
+   "verse": 5923,
+   "rows": [
+    {
+     "surface": "prāpta",
+     "gloss": "having-encountered",
+     "grounds": "past participle indicating occurrence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āpad",
+     "gloss": "calamity",
+     "grounds": "adverse condition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "particle introducing another case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipra+indra",
+     "gloss": "o-best-of-brahmins",
+     "grounds": "compound vocative address",
+     "morph": "m.voc.sg (compound)"
+    },
+    {
+     "surface": "niśā+bhāge",
+     "gloss": "in-part-of-night",
+     "grounds": "compound indicating time",
+     "morph": "m.loc.sg (compound)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "particle indicating similar case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mune",
+     "gloss": "o-sage",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What additional situations require the alternative bathing procedure?",
+   "premises": [
+    "Calamity may arise.",
+    "The rite may fall in a part of the night.",
+    "The teaching addresses a sage."
+   ],
+   "inference": "The alternative also applies in calamity or during the night, O best of brahmins, O sage.",
+   "uncertainties": [],
+   "plain_english": "Or when calamity has arisen, O best of brahmins, or likewise in a part of the night, O sage."
+  },
+  {
+   "verse": 5924,
+   "rows": [
+    {
+     "surface": "sthānaṃ",
+     "gloss": "place",
+     "grounds": "object to be purified",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "daśa",
+     "gloss": "ten",
+     "grounds": "numeral qualifying directions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśaḥ",
+     "gloss": "directions",
+     "grounds": "spatial scope of purification",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb indicating prior method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśodhya",
+     "gloss": "having-purified",
+     "grounds": "absolutive indicating purification",
+     "morph": "(gerund sam-√śudh)"
+    },
+    {
+     "surface": "upaviśet",
+     "gloss": "one-should-sit",
+     "grounds": "optative prescribing posture",
+     "morph": "3.sg.act-opt upa-√viś"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What preparatory purification and posture are required when water bathing is not possible?",
+   "premises": [
+    "The place and ten directions must be purified.",
+    "Purification follows the earlier method.",
+    "Sitting follows purification."
+   ],
+   "inference": "One should purify the place and ten directions as before and then sit down.",
+   "uncertainties": [],
+   "plain_english": "Having purified the place and the ten directions as before, one should then sit down."
+  }
+ ]
+}

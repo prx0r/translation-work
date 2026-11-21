@@ -1,0 +1,1207 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 776,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb indicating place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "him",
+     "grounds": "refers to the boon or person chosen",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "varayāmāsa",
+     "gloss": "chose",
+     "grounds": "act of choosing or requesting",
+     "morph": "3.sg.perf.act √vṛ"
+    },
+    {
+     "surface": "narako",
+     "gloss": "naraka",
+     "grounds": "demon king Naraka as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "brahmasambhavam",
+     "gloss": "brahma-born",
+     "grounds": "born from Brahma; compound describing the chosen one",
+     "morph": "m.acc.sg compound: brahma+sambhava"
+    }
+   ],
+   "question": "Whom did Naraka choose as his boon in that place?",
+   "premises": [
+    "Naraka is the agent who performs the choosing.",
+    "The chosen one is described as born from Brahma.",
+    "The act of choosing occurs in that location."
+   ],
+   "inference": "Naraka chose a Brahma-born being there.",
+   "uncertainties": [
+    "The exact referent of brahmasambhavam is not specified in this verse."
+   ],
+   "plain_english": "There Naraka chose him, the one born from Brahma."
+  },
+  {
+   "verse": 777,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "temporal adverb marking present time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjyate",
+     "gloss": "is-worshipped",
+     "grounds": "ongoing worship of the goddess",
+     "morph": "3.sg.pres.pass √pūj"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess as object of worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjānte",
+     "gloss": "at-worship-end",
+     "grounds": "end of the worship; compound locative",
+     "morph": "m.loc.sg compound: pūjā+anta"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "addressee, Naraka",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "gamiṣyasi",
+     "gloss": "will-go",
+     "grounds": "future departure of the addressee",
+     "morph": "2.sg.fut.act √gam"
+    }
+   ],
+   "question": "When may Naraka depart after the goddess is worshipped now?",
+   "premises": [
+    "The goddess is being worshipped at present.",
+    "The addressee is told he will go.",
+    "Departure is linked to the end of worship."
+   ],
+   "inference": "Naraka must wait until the worship ends before departing.",
+   "uncertainties": [],
+   "plain_english": "Now the goddess is being worshipped; at the end of the worship you will go."
+  },
+  {
+   "verse": 778,
+   "rows": [
+    {
+     "surface": "uvāca",
+     "gloss": "said",
+     "grounds": "speech act introducing direct address",
+     "morph": "3.sg.perf.act √vac"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "to-naraka",
+     "grounds": "recipient of the speech",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vipro",
+     "gloss": "sage",
+     "grounds": "speaker identified as a sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaśiṣṭhas",
+     "gloss": "vaśiṣṭha",
+     "grounds": "name of the sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tāmralocanaḥ",
+     "gloss": "copper-eyed",
+     "grounds": "descriptive epithet of the sage; compound",
+     "morph": "m.nom.sg compound: tāmra+locana"
+    }
+   ],
+   "question": "Which copper-eyed sage spoke directly to Naraka?",
+   "premises": [
+    "A sage speaks to Naraka.",
+    "The sage is named Vaśiṣṭha.",
+    "The sage is described as copper-eyed."
+   ],
+   "inference": "The copper-eyed sage Vaśiṣṭha addressed Naraka.",
+   "uncertainties": [],
+   "plain_english": "The copper-eyed sage Vaśiṣṭha said to Naraka:"
+  },
+  {
+   "verse": 779,
+   "rows": [
+    {
+     "surface": "kāmākhyāpūjane",
+     "gloss": "in-kāmākhyā-worship",
+     "grounds": "occasion of worshipping Kāmākhyā; compound locative",
+     "morph": "n.loc.sg compound: kāmākhyā+pūjana"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-time",
+     "grounds": "time of the worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "not",
+     "grounds": "prohibitive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "labhema",
+     "gloss": "may-we-obtain",
+     "grounds": "wish or prohibition regarding obtaining access",
+     "morph": "1.pl.opt.act √labh"
+    },
+    {
+     "surface": "gṛhāntare",
+     "gloss": "inside-house",
+     "grounds": "inside the house or inner chamber; compound locative",
+     "morph": "n.loc.sg compound: gṛha+antara"
+    }
+   ],
+   "question": "What access did Vaśiṣṭha wish to deny during Kāmākhyā's worship?",
+   "premises": [
+    "The context is the time of Kāmākhyā's worship.",
+    "A prohibitive wish is expressed.",
+    "The location concerned is inside the house."
+   ],
+   "inference": "Vaśiṣṭha expressed that they should not obtain access inside the house during Kāmākhyā's worship.",
+   "uncertainties": [
+    "The subject of labhema could be inclusive or exclusive; context suggests Vaśiṣṭha's party."
+   ],
+   "plain_english": "At the time of Kāmākhyā's worship, may we not obtain access inside the house."
+  },
+  {
+   "verse": 780,
+   "rows": [
+    {
+     "surface": "idānīṃ",
+     "gloss": "now",
+     "grounds": "temporal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśya",
+     "gloss": "see",
+     "grounds": "command to witness",
+     "morph": "2.sg.imp.act √paś"
+    },
+    {
+     "surface": "vīryaṃ",
+     "gloss": "power",
+     "grounds": "power or potency to be shown",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of the power",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "target of the power",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "nāśakaraṃ",
+     "gloss": "destruction-making",
+     "grounds": "causing destruction; compound describing power",
+     "morph": "n.acc.sg compound: nāśa+kara"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "qualifies the power as great",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What destructive power did Vaśiṣṭha command Naraka to witness now?",
+   "premises": [
+    "Vaśiṣṭha commands Naraka to see.",
+    "The object shown is Vaśiṣṭha's power.",
+    "The power is great and capable of destroying Naraka."
+   ],
+   "inference": "Vaśiṣṭha commands Naraka to witness his great power that can bring about Naraka's destruction.",
+   "uncertainties": [],
+   "plain_english": "Now see my great power, which brings about your destruction."
+  },
+  {
+   "verse": 781,
+   "rows": [
+    {
+     "surface": "kamaṇḍalor",
+     "gloss": "from-water-pot",
+     "grounds": "source of the curse, the sage's water-pot",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mahādevīṃ",
+     "gloss": "great-goddess",
+     "grounds": "object of the curse; compound",
+     "morph": "f.acc.sg compound: mahā+devī"
+    },
+    {
+     "surface": "śaśāpa",
+     "gloss": "cursed",
+     "grounds": "act of cursing",
+     "morph": "3.sg.perf.act √śap"
+    },
+    {
+     "surface": "dāruṇaṃ",
+     "gloss": "terribly",
+     "grounds": "manner or intensity of the curse",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "agent who curses",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How did the sage direct a terrible curse at the great goddess?",
+   "premises": [
+    "The sage is the agent of cursing.",
+    "The great goddess is the target.",
+    "The curse is delivered terribly from the water-pot."
+   ],
+   "inference": "The sage terribly cursed the great goddess using water from his water-pot.",
+   "uncertainties": [
+    "dāruṇaṃ may qualify the curse or the manner; taken adverbially here."
+   ],
+   "plain_english": "The sage terribly cursed the great goddess from his water-pot."
+  },
+  {
+   "verse": 782,
+   "rows": [
+    {
+     "surface": "hitvā",
+     "gloss": "having-left",
+     "grounds": "abandoning the goddess",
+     "morph": "(gerund) √hā"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "the goddess addressed",
+     "morph": "pron.acc.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vrajāmy",
+     "gloss": "i-go",
+     "grounds": "sage's departure",
+     "morph": "1.sg.pres.act √vraj"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "time of departure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcid",
+     "gloss": "anything",
+     "grounds": "indefinite object of speech",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "speech or response",
+     "morph": "3.sg.pres.pass √vac"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "agent of potential speech",
+     "morph": "pron.ins.sg"
+    }
+   ],
+   "question": "What final declaration did the sage make upon abandoning the goddess?",
+   "premises": [
+    "The sage states he is leaving the goddess today.",
+    "He forbids any response from her.",
+    "The departure is presented as decisive."
+   ],
+   "inference": "The sage declares he is leaving the goddess today and will hear nothing from her.",
+   "uncertainties": [],
+   "plain_english": "Having left you, I go today indeed; nothing is to be said by you."
+  },
+  {
+   "verse": 783,
+   "rows": [
+    {
+     "surface": "siddhir",
+     "gloss": "success",
+     "grounds": "spiritual or ritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "coming into being",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "karhi",
+     "gloss": "ever",
+     "grounds": "indefinite time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-time",
+     "grounds": "unspecified time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madvacanāt",
+     "gloss": "from-my-word",
+     "grounds": "cause or authority of the sage's word; compound",
+     "morph": "n.abl.sg compound: mad+vacana"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What lasting prohibition on success did the sage's word impose?",
+   "premises": [
+    "Success is the subject being negated.",
+    "The negation applies at any time.",
+    "The cause is the sage's word."
+   ],
+   "inference": "By the sage's word, success will never arise again at any time.",
+   "uncertainties": [],
+   "plain_english": "By my word, success will never arise again at any time."
+  },
+  {
+   "verse": 784,
+   "rows": [
+    {
+     "surface": "nīlācalaṃ",
+     "gloss": "blue-mountain",
+     "grounds": "Nīlācala, the sacred hill; compound",
+     "morph": "m.acc.sg compound: nīla+acala"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "having-abandoned",
+     "grounds": "leaving Nīlācala",
+     "morph": "(gerund) pari+√tyaj"
+    },
+    {
+     "surface": "gato",
+     "gloss": "gone",
+     "grounds": "departure of the sage",
+     "morph": "m.nom.sg.past-part √gam"
+    },
+    {
+     "surface": "’sau",
+     "gloss": "he",
+     "grounds": "that sage; sandhi form of asau",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "khāṇḍavaṃ",
+     "gloss": "khāṇḍava",
+     "grounds": "name of the destination forest or mountain",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "girim",
+     "gloss": "mountain",
+     "grounds": "mountain as destination",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Where did that sage go after abandoning Nīlācala?",
+   "premises": [
+    "The sage abandoned Nīlācala.",
+    "He went to another place.",
+    "The destination is the Khāṇḍava mountain."
+   ],
+   "inference": "After abandoning Nīlācala, that sage went to the Khāṇḍava mountain.",
+   "uncertainties": [],
+   "plain_english": "Having abandoned Nīlācala, he went to the Khāṇḍava mountain."
+  },
+  {
+   "verse": 785,
+   "rows": [
+    {
+     "surface": "mahājyotirmayī",
+     "gloss": "great-light-consisting-of",
+     "grounds": "composed of great light; compound",
+     "morph": "f.nom.sg compound: mahā+jyotis+maya"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "the goddess as subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarvaprakāśarūpiṇī",
+     "gloss": "all-light-formed",
+     "grounds": "whose form is all-illuminating light; compound",
+     "morph": "f.nom.sg compound: sarva+prakāśa+rūpin"
+    }
+   ],
+   "question": "What luminous nature defined the goddess after the curse?",
+   "premises": [
+    "The goddess is described as consisting of great light.",
+    "Her form is all-illuminating.",
+    "Both descriptions emphasize her radiant nature."
+   ],
+   "inference": "The goddess was constituted of great light and had a form of universal illumination.",
+   "uncertainties": [],
+   "plain_english": "The goddess, consisting of great light, had a form of all-illuminating radiance."
+  },
+  {
+   "verse": 786,
+   "rows": [
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "from-that-moment",
+     "grounds": "immediately at that moment; compound",
+     "morph": "m.abl.sg compound: tad+kṣaṇa"
+    },
+    {
+     "surface": "parisandagdhā",
+     "gloss": "completely-burned",
+     "grounds": "intensely burned or scorched; past participle",
+     "morph": "f.nom.sg.past-part pari+sam+√dah"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "departure of the goddess",
+     "morph": "f.nom.sg.past-part √gam"
+    },
+    {
+     "surface": "kailāsamandiram",
+     "gloss": "kailāsa-abode",
+     "grounds": "Śiva's abode on Kailāsa; compound",
+     "morph": "n.acc.sg compound: kailāsa+mandira"
+    }
+   ],
+   "question": "Where did the completely burned goddess go at that very moment?",
+   "premises": [
+    "The goddess was completely burned.",
+    "Her departure happened at that moment.",
+    "Her destination was the abode of Kailāsa."
+   ],
+   "inference": "At that moment, the completely burned goddess went to the abode of Kailāsa.",
+   "uncertainties": [],
+   "plain_english": "At that very moment, completely burned, she went to the abode of Kailāsa."
+  },
+  {
+   "verse": 787,
+   "rows": [
+    {
+     "surface": "mahāndhakārapaṭalair",
+     "gloss": "by-great-darkness-layers",
+     "grounds": "layers of great darkness; compound instrumental",
+     "morph": "m.ins.pl compound: mahā+andhakāra+paṭala"
+    },
+    {
+     "surface": "āvṛtā",
+     "gloss": "covered",
+     "grounds": "enveloped or covered",
+     "morph": "f.nom.sg.past-part ā+√vṛ"
+    },
+    {
+     "surface": "tadviyogataḥ",
+     "gloss": "from-separation-from-her",
+     "grounds": "because of separation from her; compound ablative",
+     "morph": "(indecl.) compound: tad+viyoga+tas"
+    }
+   ],
+   "question": "What consequence followed the place due to separation from the goddess?",
+   "premises": [
+    "Separation from the goddess occurred.",
+    "The place became covered.",
+    "The covering consisted of layers of great darkness."
+   ],
+   "inference": "Because of separation from her, the place was covered by layers of great darkness.",
+   "uncertainties": [
+    "The subject covered is implicit, likely the region or Nīlācala."
+   ],
+   "plain_english": "Because of separation from her, it was covered by layers of great darkness."
+  },
+  {
+   "verse": 788,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "the goddess as object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "paramāṃ",
+     "gloss": "supreme",
+     "grounds": "highest or supreme",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māyāṃ",
+     "gloss": "māyā",
+     "grounds": "the goddess identified as supreme Māyā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "viṣaṇṇavadanāṃ",
+     "gloss": "sorrowful-faced",
+     "grounds": "having a sorrowful face; compound",
+     "morph": "f.acc.sg compound: viṣaṇṇa+vadana"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "further action or address",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How was the supreme Māyā described when addressed again by Śiva?",
+   "premises": [
+    "The goddess is identified as supreme Māyā.",
+    "She is addressed again after arriving.",
+    "Her face is described as sorrowful."
+   ],
+   "inference": "Śiva then addressed the supreme Māyā again as she appeared with a sorrowful face.",
+   "uncertainties": [
+    "The speaker is implied by context but not named in this verse."
+   ],
+   "plain_english": "Then, again, he addressed her, the supreme Māyā, whose face was sorrowful."
+  },
+  {
+   "verse": 789,
+   "rows": [
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative expressing surprise or inquiry",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address to the goddess as Śivā",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "samāyātā",
+     "gloss": "came",
+     "grounds": "arrival of the goddess",
+     "morph": "f.nom.sg.past-part sam+ā+√yā"
+    },
+    {
+     "surface": "tyaktvā",
+     "gloss": "having-left",
+     "grounds": "abandoning the yoni-circle",
+     "morph": "(gerund) √tyaj"
+    },
+    {
+     "surface": "tadyonimaṇḍalam",
+     "gloss": "that-yoni-circle",
+     "grounds": "the sacred yoni-circle; compound",
+     "morph": "n.acc.sg compound: tad+yoni+maṇḍala"
+    }
+   ],
+   "question": "Why did Śiva question the goddess's arrival after leaving the yoni-circle?",
+   "premises": [
+    "The goddess has arrived.",
+    "She left the yoni-circle.",
+    "Śiva asks how this came to be."
+   ],
+   "inference": "Śiva questions how the auspicious goddess came here after abandoning that yoni-circle.",
+   "uncertainties": [],
+   "plain_english": "How, O auspicious one, have you come here, having left that yoni-circle?"
+  },
+  {
+   "verse": 790,
+   "rows": [
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "addressee, the goddess",
+     "morph": "pron.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "paramārādhyā",
+     "gloss": "supremely-adorable",
+     "grounds": "worthy of supreme worship; compound",
+     "morph": "f.nom.sg compound: parama+ārādhyā"
+    },
+    {
+     "surface": "sthīyatāṃ",
+     "gloss": "be-established",
+     "grounds": "request to dwell or remain",
+     "morph": "3.sg.imp.pass √sthā"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of the heart",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location within the heart",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "yourself",
+     "grounds": "emphatic reflexive",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What request did Śiva make for the supremely adorable goddess to dwell within him?",
+   "premises": [
+    "The goddess is supremely adorable.",
+    "Śiva requests her to be established.",
+    "The requested location is his heart."
+   ],
+   "inference": "Śiva asks the supremely adorable goddess to establish herself in his heart.",
+   "uncertainties": [],
+   "plain_english": "O goddess, supremely adorable, establish yourself in my heart."
+  },
+  {
+   "verse": 791,
+   "rows": [
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "everything that needs remedy",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratikaromy",
+     "gloss": "i-will-counter",
+     "grounds": "promise to remedy or counteract",
+     "morph": "1.sg.pres.act prati+√kṛ"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣaṇṇavadane",
+     "gloss": "o-sorrowful-faced-one",
+     "grounds": "vocative address to the goddess; compound",
+     "morph": "f.voc.sg compound: viṣaṇṇa+vadana"
+    },
+    {
+     "surface": "katham",
+     "gloss": "how",
+     "grounds": "rhetorical question expressing concern",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What assurance did Śiva offer to the sorrowful-faced goddess?",
+   "premises": [
+    "Śiva addresses the sorrowful-faced goddess.",
+    "He promises to counteract everything.",
+    "He questions why she remains sorrowful."
+   ],
+   "inference": "Śiva assures the sorrowful-faced goddess that he will indeed remedy everything.",
+   "uncertainties": [],
+   "plain_english": "I will indeed set everything right; why are you so sorrowful-faced?"
+  },
+  {
+   "verse": 792,
+   "rows": [
+    {
+     "surface": "madyonimaṇḍale",
+     "gloss": "in-my-yoni-circle",
+     "grounds": "location of the intrusion; compound locative",
+     "morph": "n.loc.sg compound: mad+yoni+maṇḍala"
+    },
+    {
+     "surface": "nātha",
+     "gloss": "o-lord",
+     "grounds": "vocative address to Śiva",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "dvāraṃ",
+     "gloss": "door",
+     "grounds": "entrance or threshold",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of the yoni-circle",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "samupāgataḥ",
+     "gloss": "approached",
+     "grounds": "arrival at the door",
+     "morph": "m.nom.sg.past-part sam+upa+ā+√gam"
+    }
+   ],
+   "question": "What intrusion at the goddess's yoni-circle did she report to Śiva?",
+   "premises": [
+    "The goddess addresses Śiva as lord.",
+    "Someone approached the door.",
+    "The location is her yoni-circle."
+   ],
+   "inference": "The goddess reports that someone approached the door of her yoni-circle.",
+   "uncertainties": [
+    "The subject who approached is not named in this verse but implied from context."
+   ],
+   "plain_english": "O lord, someone approached the door of my yoni-circle."
+  },
+  {
+   "verse": 793,
+   "rows": [
+    {
+     "surface": "dvārapālo",
+     "gloss": "door-guardian",
+     "grounds": "role of guarding the door; compound",
+     "morph": "m.nom.sg compound: dvāra+pāla"
+    },
+    {
+     "surface": "’bhavad",
+     "gloss": "became",
+     "grounds": "assumption of the role; sandhi form of abhavat",
+     "morph": "3.sg.imperf.act √bhū"
+    },
+    {
+     "surface": "rājā",
+     "gloss": "king",
+     "grounds": "the king, Naraka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāvan",
+     "gloss": "as-long-as",
+     "grounds": "duration condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessor of the worship",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "the act of worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "subjunctive condition for duration",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What role did the king assume during the goddess's worship?",
+   "premises": [
+    "The king became a door-guardian.",
+    "This role lasted for the duration of worship.",
+    "The worship belongs to the goddess."
+   ],
+   "inference": "The king became the door-guardian for as long as the goddess's worship continued.",
+   "uncertainties": [],
+   "plain_english": "The king became the door-guardian for as long as my worship took place."
+  },
+  {
+   "verse": 794,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner of arrangement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "daily",
+     "grounds": "regular, everyday occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niyamitaṃ",
+     "gloss": "arranged",
+     "grounds": "fixed or regulated arrangement",
+     "morph": "n.nom.sg.past-part ni+√yam"
+    },
+    {
+     "surface": "naraken",
+     "gloss": "by-naraka",
+     "grounds": "agent of the arrangement",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "āsureṇa",
+     "gloss": "by-demon",
+     "grounds": "epithet of Naraka as demon; compound-like qualifier",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How was the daily arrangement established by the demon Naraka?",
+   "premises": [
+    "An arrangement was made.",
+    "It was established daily.",
+    "The demon Naraka was the agent."
+   ],
+   "inference": "Thus a daily arrangement was established by the demon Naraka.",
+   "uncertainties": [],
+   "plain_english": "Thus a daily arrangement was established by the demon Naraka."
+  },
+  {
+   "verse": 795,
+   "rows": [
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "sequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tenaiva",
+     "gloss": "by-him-alone",
+     "grounds": "emphatic agent, the same sage; sandhi of tena+eva",
+     "morph": "pron.ins.sg.m + (indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muninā",
+     "gloss": "by-sage",
+     "grounds": "agent who gave the curse",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "śāpo",
+     "gloss": "curse",
+     "grounds": "the curse given",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dattaḥ",
+     "gloss": "given",
+     "grounds": "act of giving the curse",
+     "morph": "m.nom.sg.past-part √dā"
+    },
+    {
+     "surface": "sudāruṇaḥ",
+     "gloss": "very-terrible",
+     "grounds": "extremely terrible; compound",
+     "morph": "m.nom.sg compound: su+dāruṇa"
+    }
+   ],
+   "question": "Who delivered the very terrible curse after this arrangement?",
+   "premises": [
+    "A curse was given afterward.",
+    "The agent was that very same sage.",
+    "The curse was very terrible."
+   ],
+   "inference": "Then that very sage delivered a very terrible curse.",
+   "uncertainties": [],
+   "plain_english": "Then that very sage gave a most terrible curse."
+  },
+  {
+   "verse": 796,
+   "rows": [
+    {
+     "surface": "śāpaṃ",
+     "gloss": "curse",
+     "grounds": "object to be heard",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp.act √śru"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "o-great-god",
+     "grounds": "vocative address to Śiva; compound",
+     "morph": "m.voc.sg compound: mahā+deva"
+    },
+    {
+     "surface": "kathane",
+     "gloss": "in-telling",
+     "grounds": "at the time of telling",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "rodanaṃ",
+     "gloss": "weeping",
+     "grounds": "crying or lamentation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of the weeping",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "What emotional response accompanied the goddess's telling of the curse to Śiva?",
+   "premises": [
+    "The goddess asks Śiva to hear the curse.",
+    "She refers to telling the curse.",
+    "She mentions her own weeping."
+   ],
+   "inference": "The goddess tells Śiva to hear the curse, noting that she weeps as she tells it.",
+   "uncertainties": [],
+   "plain_english": "Hear the curse, O great god; in telling it, I weep."
+  },
+  {
+   "verse": 797,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "refers to her situation or state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessor of the harmed state",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "vihataṃ",
+     "gloss": "destroyed",
+     "grounds": "ruined or struck down",
+     "morph": "n.nom.sg.past-part vi+√han"
+    },
+    {
+     "surface": "deva",
+     "gloss": "o-god",
+     "grounds": "vocative address to Śiva",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "ko",
+     "gloss": "what",
+     "grounds": "interrogative asking for remedy",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "v",
+     "gloss": "or",
+     "grounds": "particle, sandhi form of vā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "opāyo",
+     "gloss": "remedy",
+     "grounds": "means or remedy; sandhi form of upāyo",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "’sti",
+     "gloss": "is",
+     "grounds": "existence of a remedy; sandhi form of asti",
+     "morph": "3.sg.pres.act √as"
+    },
+    {
+     "surface": "me",
+     "gloss": "for-me",
+     "grounds": "beneficiary seeking remedy",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "command to speak",
+     "morph": "2.sg.imp.act √vad"
+    }
+   ],
+   "question": "What remedy did the goddess ask Śiva to reveal for her destroyed state?",
+   "premises": [
+    "The goddess states her condition is destroyed.",
+    "She asks whether any remedy exists for her.",
+    "She requests Śiva to tell her."
+   ],
+   "inference": "The goddess asks Śiva what remedy exists for her destroyed condition.",
+   "uncertainties": [],
+   "plain_english": "O god, that state of mine is destroyed; what remedy is there for me? Tell me."
+  },
+  {
+   "verse": 798,
+   "rows": [
+    {
+     "surface": "brahmavadhodbhavaṃ",
+     "gloss": "brahma-killing-arisen",
+     "grounds": "arising from the killing of a brahmin; compound",
+     "morph": "n.nom.sg compound: brahma+vadha+udbhava"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "sin or demerit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truly",
+     "grounds": "affirmation of certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "your",
+     "grounds": "possessor or experiencer of the sin",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "’dya",
+     "gloss": "today",
+     "grounds": "time of occurrence; sandhi form of adya",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future occurrence",
+     "morph": "3.sg.fut.act √bhū"
+    }
+   ],
+   "question": "What sin did Śiva declare would arise for the goddess today?",
+   "premises": [
+    "A sin is predicted to occur.",
+    "The sin arises from killing a brahmin.",
+    "It will befall the goddess today."
+   ],
+   "inference": "Śiva declares that sin arising from brahmin-killing will truly befall the goddess today.",
+   "uncertainties": [
+    "The attribution of brahmavadha in this context is not fully explained in this verse."
+   ],
+   "plain_english": "Truly, sin arising from the killing of a brahmin will be yours today."
+  },
+  {
+   "verse": 799,
+   "rows": [
+    {
+     "surface": "siddhir",
+     "gloss": "success",
+     "grounds": "spiritual or ritual accomplishment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "coming into being",
+     "morph": "3.sg.pres.mid √jan"
+    },
+    {
+     "surface": "karhi",
+     "gloss": "ever",
+     "grounds": "indefinite time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāle",
+     "gloss": "at-time",
+     "grounds": "unspecified time",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "madvacanāt",
+     "gloss": "from-my-word",
+     "grounds": "cause or authority of the sage's word; compound",
+     "morph": "n.abl.sg compound: mad+vacana"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "repetition or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What enduring denial of success was reaffirmed by the sage's word?",
+   "premises": [
+    "Success is again negated.",
+    "The negation applies at any time.",
+    "The authority is the sage's word."
+   ],
+   "inference": "By the sage's word, success will never arise again at any time.",
+   "uncertainties": [],
+   "plain_english": "By my word, success will never arise again at any time."
+  }
+ ]
+}

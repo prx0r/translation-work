@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "vinaiva",
+     "gloss": "without-indeed",
+     "grounds": "fused form vina+eva; indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "umārdha",
+     "gloss": "umā-half",
+     "grounds": "compound of umā and ardha",
+     "morph": "compound"
+    },
+    {
+     "surface": "haryardhe",
+     "gloss": "hari-half",
+     "grounds": "compound of hari and ardha",
+     "morph": "compound"
+    },
+    {
+     "surface": "kaṅkālaṃ",
+     "gloss": "skeleton",
+     "grounds": "accusative singular masculine noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinaiva",
+     "gloss": "without-indeed",
+     "grounds": "fused form vina+eva; indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but-indeed",
+     "grounds": "enclitic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What must be absent from the skeleton when the seat is firmly protected with colorful garments and flower heaps?",
+   "premises": [
+    "seat protection uses colorful garments and flower heaps",
+    "skeleton lacks umā half and hari half",
+    "tu marks an additional absence"
+   ],
+   "inference": "The ritual seat's skeleton is to be without the umā and hari halves.",
+   "uncertainties": [
+    "exact referent of tu is unclear",
+    "internal sandhi of vinaiva is not expanded"
+   ],
+   "plain_english": "Without the umā-half and hari-half skeleton, and without tu."
+  }
+ ]
+}

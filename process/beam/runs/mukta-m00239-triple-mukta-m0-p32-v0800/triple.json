@@ -1,0 +1,111 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "namonagaranāthāya hayaharaharaśila hayaharaharaśila sarveṣāṃ prāṇināṃ tuṇḍabandhanaṃ kuru kuru hruṃ phaṭ svāhā",
+     "gloss": "salutation-city-lord-beak-binding-mantra",
+     "grounds": "mantra formula with bīja syllables; transcribed byte-exact, not translated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ujjayanīnagarī",
+     "gloss": "ujjayinī-city",
+     "grounds": "compound naming the city",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairavabole",
+     "gloss": "bhairava-bole",
+     "grounds": "compound naming the bole",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahādevabhaṇḍāraphūlabole",
+     "gloss": "mahādeva-treasury-flower-bole",
+     "grounds": "compound naming the bole",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanumantasākṣī",
+     "gloss": "hanumant-witness",
+     "grounds": "compound naming the witness",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asti-astu",
+     "gloss": "may-it-be",
+     "grounds": "formulaic optative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anena mantreṇa",
+     "gloss": "by-this-mantra",
+     "grounds": "instrumental phrase",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "saptābhimaṃtritaṃ",
+     "gloss": "seven-times-consecrated",
+     "grounds": "participle describing consecration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "candanaṃ",
+     "gloss": "sandalwood",
+     "grounds": "substance to be consecrated",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bāṭikāmadhye",
+     "gloss": "in-garden-middle",
+     "grounds": "locative compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niḥkṣipet",
+     "gloss": "throw",
+     "grounds": "verb of placement",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "puṣpaphalaṃ",
+     "gloss": "flower-fruit",
+     "grounds": "object affected",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samastaṃ",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirupadravaṃ",
+     "gloss": "without-harm",
+     "grounds": "resultative adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "copular result",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "What ritual result follows from consecrating sandalwood with this mantra in a garden?",
+   "premises": [
+    "the mantra is recited seven times",
+    "sandalwood is placed in the garden middle",
+    "all flower and fruit becomes without harm"
+   ],
+   "inference": "consecrated sandalwood in the garden yields harm-free flowers and fruits",
+   "uncertainties": [
+    "the exact ritual function of the named boles and witness remains undecidable from this verse alone"
+   ],
+   "plain_english": "By this mantra, sandalwood consecrated seven times is placed in the middle of the garden, so all flowers and fruits become free from harm."
+  }
+ ]
+}

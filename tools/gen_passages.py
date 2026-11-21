@@ -43,7 +43,10 @@ def main(work: str) -> int:
             note = ''
         text = blob.decode('utf-8')
         lo, hi = min(s['verse'] for s in ss), max(s['verse'] for s in ss)
-        iid = 'pt:pid:' + work[:6] + ':' + hashlib.sha256(blob).hexdigest()[:12]
+        # Full work name in id: work[:6] collides across mukta-* works
+        # (all become 'mukta-'), and identical-source works (m00288/m00289)
+        # then share content hashes -> dup-immutable gate fail.
+        iid = 'pt:pid:' + work + ':' + hashlib.sha256(blob).hexdigest()[:12]
         rows.append({
             'work_id': work, 'order': i, 'locator': song,
             'verses': f'{lo}-{hi}' if lo != hi else str(lo),

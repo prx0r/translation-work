@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p73",
+ "items": [
+  {
+   "verse": 1825,
+   "rows": [
+    {
+     "surface": "bhindipālaiḥ",
+     "gloss": "by-bhindipalas",
+     "grounds": "instrumental plural of bhindipāla",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śakalitā",
+     "gloss": "shattered",
+     "grounds": "past participle of śakalayati, feminine nominative singular",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gadābhirbhinnamastakāḥ",
+     "gloss": "by-maces-split-heads",
+     "grounds": "compound of gadābhiḥ, bhinna, and mastaka; masculine nominative plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What weapons shatter and split the warriors' heads in this battle scene?",
+   "premises": [
+    "Bhindipalas shatter some warriors.",
+    "Maces split others' heads.",
+    "The verse lists battle wounds."
+   ],
+   "inference": "The passage depicts violent destruction of warriors by multiple weapons.",
+   "uncertainties": [
+    "Exact referent of bhindipāla remains uncertain."
+   ],
+   "plain_english": "Shattered by bhindipalas, heads split by maces."
+  }
+ ]
+}

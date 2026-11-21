@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "pibandīṃ",
+     "gloss": "drinking",
+     "grounds": "present participle describing the act of drinking",
+     "morph": "f.acc.sg.pres.part.act √pā"
+    },
+    {
+     "surface": "raudhirīṃ",
+     "gloss": "bloody",
+     "grounds": "adjective qualifying the stream as consisting of blood",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dharāṃ",
+     "gloss": "stream",
+     "grounds": "object denoting the flow being drunk",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nijakaṇṭhasamudbhavām",
+     "gloss": "arisen-from-own-throat",
+     "grounds": "compound adjective indicating the source of the stream; nija+kaṇṭha+samudbhavām",
+     "morph": "f.acc.sg.compound"
+    }
+   ],
+   "question": "What is the source and nature of the stream Chinnamastā drinks?",
+   "premises": [
+    "Chinnamastā is depicted drinking a stream.",
+    "The stream is described as bloody.",
+    "The stream arises from her own throat."
+   ],
+   "inference": "Chinnamastā drinks a bloody stream that issues from her own severed throat.",
+   "uncertainties": [],
+   "plain_english": "She is drinking the bloody stream that flows forth from her own throat."
+  }
+ ]
+}

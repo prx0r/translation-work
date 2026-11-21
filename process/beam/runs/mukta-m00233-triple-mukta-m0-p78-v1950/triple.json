@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p78",
+ "items": [
+  {
+   "verse": 1950,
+   "rows": [
+    {
+     "surface": "coktāṃ",
+     "gloss": "as-said",
+     "grounds": "fused ca + uktām; accusative feminine singular past participle",
+     "morph": "acc.sg.f (past-participle)"
+    },
+    {
+     "surface": "svastisūktaṃ",
+     "gloss": "svasti-hymn",
+     "grounds": "compound svasti + sūkta; accusative neuter singular",
+     "morph": "acc.sg.n (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṅgalam",
+     "gloss": "auspicious",
+     "grounds": "accusative neuter singular adjective or noun",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What recitation and auspicious element follow the preparations already described?",
+   "premises": [
+    "The said svasti-sūkta is to be recited.",
+    "An auspicious element accompanies it.",
+    "Both are accusative objects of ritual action."
+   ],
+   "inference": "The verse prescribes reciting the svasti-sūkta together with an auspicious rite.",
+   "uncertainties": [
+    "The exact ritual action and the precise referent of maṅgalam are not specified in this verse."
+   ],
+   "plain_english": "And the said svasti-sūkta and auspicious [rite] (are to be used)."
+  }
+ ]
+}

@@ -1,0 +1,463 @@
+{
+ "song": "kul-p72",
+ "items": [
+  {
+   "verse": 1776,
+   "rows": [
+    {
+     "surface": "jaḍo",
+     "gloss": "dull",
+     "grounds": "describes an unfit practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ripurudāsīno",
+     "gloss": "enemy-indifferent",
+     "grounds": "compound: enemy + indifferent",
+     "morph": "compound"
+    },
+    {
+     "surface": "lajjito",
+     "gloss": "ashamed",
+     "grounds": "describes an unfit practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mohito",
+     "gloss": "deluded",
+     "grounds": "describes an unfit practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "alasaḥ",
+     "gloss": "lazy",
+     "grounds": "describes an unfit practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities in a practitioner prevent the attainment of mantra success?",
+   "premises": [
+    "A practitioner may be dull.",
+    "A practitioner may be indifferent like an enemy, ashamed, deluded, or lazy."
+   ],
+   "inference": "Such negative qualities characterize a practitioner unfit for mantra success.",
+   "uncertainties": [],
+   "plain_english": "One who is dull, indifferent like an enemy, ashamed, deluded, or lazy."
+  },
+  {
+   "verse": 1777,
+   "rows": [
+    {
+     "surface": "siddhirna",
+     "gloss": "success-not",
+     "grounds": "fused form: success + not",
+     "morph": "compound"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "states the result for such a person",
+     "morph": "3.sg.pres.middle √jan"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "for-him",
+     "grounds": "refers to the previously described practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lakṣakoṭijapādapi",
+     "gloss": "even-from-hundred-thousand-million-repetitions",
+     "grounds": "compound: hundred-thousand + ten-million + repetition + even-from",
+     "morph": "compound"
+    }
+   ],
+   "question": "Can immense mantra repetition produce success for a practitioner with disqualifying qualities?",
+   "premises": [
+    "The previously described practitioner lacks fitness.",
+    "He may perform even a hundred thousand times ten million repetitions."
+   ],
+   "inference": "Even vast repetition does not produce mantra success for such a practitioner.",
+   "uncertainties": [],
+   "plain_english": "For such a person, success does not arise even from a hundred thousand times ten million repetitions."
+  },
+  {
+   "verse": 1778,
+   "rows": [
+    {
+     "surface": "jananaṃ",
+     "gloss": "birth",
+     "grounds": "first in a sequence of mantra consecrations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jīvanaṃ",
+     "gloss": "vivification",
+     "grounds": "second in the sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterward",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḍanaṃ",
+     "gloss": "striking",
+     "grounds": "third in the sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bodhanaṃ",
+     "gloss": "awakening",
+     "grounds": "fourth in the sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What are the initial rites in the sequence of mantra consecrations?",
+   "premises": [
+    "Mantra consecration involves an ordered sequence of rites.",
+    "The sequence begins with birth and vivification.",
+    "It continues with striking and awakening."
+   ],
+   "inference": "The initial consecrations are birth, vivification, striking, and awakening in order.",
+   "uncertainties": [],
+   "plain_english": "Birth, then vivification, afterward striking, and then awakening."
+  },
+  {
+   "verse": 1779,
+   "rows": [
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "satiation",
+     "grounds": "continues the sequence of consecrations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dīpanaṃ",
+     "gloss": "illumination",
+     "grounds": "continues the sequence of consecrations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guptiḥ",
+     "gloss": "protection",
+     "grounds": "continues the sequence of consecrations",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃskārāḥ",
+     "gloss": "consecrations",
+     "grounds": "names the rites collectively",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-lady-of-kula",
+     "grounds": "vocative address to the Goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which further rites complete the named sequence of mantra consecrations addressed to the lady of Kula?",
+   "premises": [
+    "The sequence of rites continues after awakening.",
+    "Satiation, illumination, and protection are included.",
+    "These are called consecrations."
+   ],
+   "inference": "Satiation, illumination, and protection are further consecrations in the sequence.",
+   "uncertainties": [],
+   "plain_english": "Satiation, illumination, and protection are consecrations, O lady of Kula."
+  },
+  {
+   "verse": 1780,
+   "rows": [
+    {
+     "surface": "mantrāśca",
+     "gloss": "and-mantras",
+     "grounds": "fused form: mantras + and",
+     "morph": "compound"
+    },
+    {
+     "surface": "sphūttīmāyānti",
+     "gloss": "come-to-manifestation",
+     "grounds": "describes the effect on mantras",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃskārairddaśabhistathā",
+     "gloss": "thus-by-ten-consecrations",
+     "grounds": "fused form: by consecrations + by ten + thus",
+     "morph": "compound"
+    }
+   ],
+   "question": "What effect do the ten consecrations have on mantras?",
+   "premises": [
+    "Mantras undergo ritual consecrations.",
+    "There are ten such consecrations.",
+    "These consecrations act upon the mantras."
+   ],
+   "inference": "Through the ten consecrations, mantras come to full manifestation.",
+   "uncertainties": [],
+   "plain_english": "And thus, by the ten consecrations, mantras come to full manifestation."
+  },
+  {
+   "verse": 1781,
+   "rows": [
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "names a recommended food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śaktu",
+     "gloss": "barley-meal",
+     "grounds": "names a recommended food",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yavānāñca",
+     "gloss": "and-of-barley-grains",
+     "grounds": "fused form: of barley grains + and",
+     "morph": "compound"
+    },
+    {
+     "surface": "śastānyetāni",
+     "gloss": "these-are-recommended",
+     "grounds": "fused form: recommended + these",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantriṇām",
+     "gloss": "for-mantra-practitioners",
+     "grounds": "specifies for whom these are recommended",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "Which foods are recommended for practitioners engaged in mantra practice?",
+   "premises": [
+    "Mantra practitioners require suitable food.",
+    "Roots, barley meal, and barley grains are listed.",
+    "These items are declared recommended."
+   ],
+   "inference": "Roots, barley meal, and barley grains are recommended foods for mantra practitioners.",
+   "uncertainties": [
+    "The exact sense of 'mūlaṃ' as root or tuber is context-dependent."
+   ],
+   "plain_english": "Roots, barley meal, and barley grains—these are recommended for mantra practitioners."
+  },
+  {
+   "verse": 1782,
+   "rows": [
+    {
+     "surface": "annadātuḥ",
+     "gloss": "of-food-giver",
+     "grounds": "compound: food + giver",
+     "morph": "compound"
+    },
+    {
+     "surface": "cārddhaṃ",
+     "gloss": "and-half",
+     "grounds": "fused form: and + half",
+     "morph": "compound"
+    },
+    {
+     "surface": "karttuścārddhaṃ",
+     "gloss": "and-half-of-doer",
+     "grounds": "fused form: of doer + and + half",
+     "morph": "compound"
+    },
+    {
+     "surface": "na saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "asserts certainty of the division",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the merit of the ritual act divided between the food giver and the performer?",
+   "premises": [
+    "A ritual act involves both a giver of food and a performer.",
+    "Merit is apportioned between participants.",
+    "The text states the division explicitly."
+   ],
+   "inference": "The giver of food and the performer each receive half the merit, without doubt.",
+   "uncertainties": [],
+   "plain_english": "Half belongs to the giver of food and half to the performer; there is no doubt."
+  },
+  {
+   "verse": 1783,
+   "rows": [
+    {
+     "surface": "puraścaraṇakāle ca",
+     "gloss": "and-at-time-of-preliminary-rite",
+     "grounds": "compound: preliminary rite + time + and",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāmyakarmasvapīśvari",
+     "gloss": "and-also-in-desire-rites-O-goddess",
+     "grounds": "compound: desire + rites + in + also + O goddess",
+     "morph": "compound"
+    }
+   ],
+   "question": "In which ritual contexts does the stated rule about merit apply?",
+   "premises": [
+    "Ritual practice includes preliminary rites.",
+    "Ritual practice also includes desire-driven rites.",
+    "The Goddess is addressed regarding these contexts."
+   ],
+   "inference": "The rule applies both during preliminary rites and in desire-driven rites.",
+   "uncertainties": [],
+   "plain_english": "Both at the time of preliminary practice and in desire-driven rites, O Goddess."
+  },
+  {
+   "verse": 1784,
+   "rows": [
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "subject of the condition",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dagdhaṃ",
+     "gloss": "burned",
+     "grounds": "describes the mind's state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parastrībhiḥ",
+     "gloss": "by-other-women",
+     "grounds": "compound: other + women; indicates cause of distraction",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāryasiddhiḥ",
+     "gloss": "success-of-aim",
+     "grounds": "compound: aim + success",
+     "morph": "compound"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "introduces a rhetorical question",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "could-be",
+     "grounds": "expresses possibility",
+     "morph": "3.sg.opt.active √bhū"
+    }
+   ],
+   "question": "How can ritual success occur when the mind is consumed by desire for other women?",
+   "premises": [
+    "Ritual success requires a fit mental state.",
+    "The mind may be burned by desire for other women.",
+    "Such burning indicates distraction and attachment."
+   ],
+   "inference": "When the mind is consumed by desire for other women, ritual success cannot occur.",
+   "uncertainties": [],
+   "plain_english": "If the mind is burned by desire for other women, how could success in the aim be achieved?"
+  },
+  {
+   "verse": 1785,
+   "rows": [
+    {
+     "surface": "ṣoḍaśamanubāṇābdhitithitrayodaśasvapi",
+     "gloss": "also-in-sixteen-manu-arrow-ocean-lunar-day-thirteen",
+     "grounds": "compound listing numerical groups: sixteen, manu, arrow, ocean, lunar day, thirteen + also in",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which numerical groupings are included in the calculation framework for mantra classification?",
+   "premises": [
+    "Mantra classification uses numerical groupings.",
+    "The groupings include sixteen, manu, arrow, ocean, lunar day, and thirteen.",
+    "These are treated as applicable contexts."
+   ],
+   "inference": "The calculation framework includes the groupings of sixteen, manu, arrow, ocean, lunar day, and thirteen.",
+   "uncertainties": [
+    "The exact referents of 'manu', 'bāṇa', 'abdhi', and 'tithi' as numbers follow conventional numerical symbolism."
+   ],
+   "plain_english": "Also in the groups of sixteen, fourteen, five, four, fifteen, and thirteen."
+  },
+  {
+   "verse": 1786,
+   "rows": [
+    {
+     "surface": "svanāmādyakṣarād",
+     "gloss": "from-first-letter-of-own-name",
+     "grounds": "compound: own + name + first + letter + from",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāvan",
+     "gloss": "until",
+     "grounds": "marks the endpoint of counting",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrādyakṣaradarśanam",
+     "gloss": "seeing-first-letter-of-mantra",
+     "grounds": "compound: mantra + first + letter + seeing",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the counting range used to begin classifying a mantra for a practitioner?",
+   "premises": [
+    "Mantra classification depends on counting letters.",
+    "The count starts from the first letter of one's own name.",
+    "The count proceeds to the first letter of the mantra."
+   ],
+   "inference": "The practitioner counts from the first letter of their name up to the first letter of the mantra.",
+   "uncertainties": [],
+   "plain_english": "From the first letter of one's own name until one reaches the first letter of the mantra."
+  },
+  {
+   "verse": 1787,
+   "rows": [
+    {
+     "surface": "catuścatuvībhāgena",
+     "gloss": "by-division-into-fours",
+     "grounds": "compound: four + four + division + by",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhādīn",
+     "gloss": "siddha-and-others",
+     "grounds": "compound: siddha + and others; refers to mantra classes",
+     "morph": "compound"
+    },
+    {
+     "surface": "gaṇayet",
+     "gloss": "one-should-count",
+     "grounds": "prescribes the counting method",
+     "morph": "3.sg.opt.active √gaṇ"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition or continuation of method",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the counted letters be grouped to determine mantra classes such as siddha?",
+   "premises": [
+    "Letters have been counted over a defined range.",
+    "Mantras are classified into groups beginning with siddha.",
+    "The method requires grouping by fours."
+   ],
+   "inference": "One should count again by dividing into groups of four to determine siddha and the other classes.",
+   "uncertainties": [],
+   "plain_english": "One should count again by divisions of four to determine the classes beginning with siddha."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p105",
+ "items": [
+  {
+   "verse": 2625,
+   "rows": [
+    {
+     "surface": "madane",
+     "gloss": "on-Madana",
+     "grounds": "locative of the proper name Madana, specifying the mountain",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "parvate",
+     "gloss": "on-mountain",
+     "grounds": "locative noun in apposition to madane",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ramye",
+     "gloss": "delightful",
+     "grounds": "adjective agreeing with parvate in the locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive expressing prior action",
+     "morph": "(gerund, √gam)"
+    },
+    {
+     "surface": "paśyet+ca",
+     "gloss": "should-see+and",
+     "grounds": "optative verb fused with enclitic ca; sandhi/junction marked in the given token",
+     "morph": "opt.3.sg.act (√dṛś)+indecl."
+    },
+    {
+     "surface": "śaṅkaram",
+     "gloss": "Śaṅkara",
+     "grounds": "accusative object of paśyet, denoting the deity to be beheld",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What sacred vision must be sought after reaching the delightful Madana mountain?",
+   "premises": [
+    "One should go to the delightful Madana mountain.",
+    "Arrival at that place precedes the prescribed act.",
+    "The prescribed act is to behold Śaṅkara."
+   ],
+   "inference": "Reaching the delightful Madana mountain is enjoined as the occasion for obtaining a vision of Śaṅkara.",
+   "uncertainties": [
+    "The specific geographical identity of Madana mountain is not specified in this verse."
+   ],
+   "plain_english": "Having gone to the delightful Madana mountain, one should also behold Śaṅkara."
+  }
+ ]
+}

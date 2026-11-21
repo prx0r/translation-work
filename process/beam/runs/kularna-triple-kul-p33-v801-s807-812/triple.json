@@ -1,0 +1,270 @@
+{
+ "song": "kul-p33",
+ "items": [
+  {
+   "verse": 807,
+   "rows": [
+    {
+     "surface": "śiraḥprabhṛti+pādāntaṃ",
+     "gloss": "head-to-feet",
+     "grounds": "compound head-to-feet",
+     "morph": "compound"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dehaṃ",
+     "gloss": "body",
+     "grounds": "noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "contemplate",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt+root-cint"
+    }
+   ],
+   "question": "How should the pure body be contemplated from head to feet?",
+   "premises": [
+    "the body is pure",
+    "contemplation runs head to feet"
+   ],
+   "inference": "one contemplates the pure body from head to feet",
+   "uncertainties": [
+    "exact sandhi of compound"
+   ],
+   "plain_english": "Contemplate the pure body from head to feet."
+  },
+  {
+   "verse": 808,
+   "rows": [
+    {
+     "surface": "parāntaṃ",
+     "gloss": "supreme-end",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śivatattvaṃ",
+     "gloss": "śiva-principle",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "syād+iti",
+     "gloss": "be",
+     "grounds": "verb+quotative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "tattvatrayaṃ",
+     "gloss": "three-principles",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "jagat",
+     "gloss": "world",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the world in relation to the supreme end and śiva-principle?",
+   "premises": [
+    "supreme end is śiva-principle",
+    "three principles constitute world"
+   ],
+   "inference": "the world is the three principles ending in śiva-principle",
+   "uncertainties": [
+    "exact relation of parāntaṃ"
+   ],
+   "plain_english": "The world is the three principles, whose supreme end is the śiva-principle."
+  },
+  {
+   "verse": 809,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvanneva",
+     "gloss": "while-living",
+     "grounds": "adverbial",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "muktaḥ",
+     "gloss": "liberated",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād+iti",
+     "gloss": "be",
+     "grounds": "verb+quotative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "śaṅkarabhāṣitam",
+     "gloss": "śaṅkara-spoken",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who is said to be liberated while still living?",
+   "premises": [
+    "he is liberated while living",
+    "this is śaṅkara-spoken"
+   ],
+   "inference": "one liberated while living is declared by śaṅkara",
+   "uncertainties": [
+    "subject identity"
+   ],
+   "plain_english": "He is liberated while living, as śaṅkara has spoken."
+  },
+  {
+   "verse": 810,
+   "rows": [
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dattaṃ",
+     "gloss": "given",
+     "grounds": "participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sadvitīyāsavaṃ",
+     "gloss": "with-second-nectar",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "drink",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt+root-pā"
+    }
+   ],
+   "question": "How should the disciple drink what the guru gives?",
+   "premises": [
+    "guru gives it",
+    "disciple takes and drinks",
+    "it is with second nectar"
+   ],
+   "inference": "the disciple drinks what the guru gives, with second nectar",
+   "uncertainties": [
+    "exact sense of second nectar"
+   ],
+   "plain_english": "Taking what the guru gives, he should drink it with the second nectar."
+  },
+  {
+   "verse": 811,
+   "rows": [
+    {
+     "surface": "nopaviśya",
+     "gloss": "not-sitting",
+     "grounds": "negative absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "piben+madyaṃ",
+     "gloss": "drink-wine",
+     "grounds": "fused verb+noun",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāstrasya+nirṇayaḥ",
+     "gloss": "scripture-decision",
+     "grounds": "fused genitive+noun",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the scripture's decision about drinking wine?",
+   "premises": [
+    "one should not sit and drink wine",
+    "this is scripture's decision"
+   ],
+   "inference": "scripture decides against sitting to drink wine",
+   "uncertainties": [
+    "exact force of nopaviśya"
+   ],
+   "plain_english": "Not sitting, one drinks wine; thus is the scripture's decision."
+  },
+  {
+   "verse": 812,
+   "rows": [
+    {
+     "surface": "avijñāya",
+     "gloss": "without-knowing",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "acts",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt+root-car"
+    },
+    {
+     "surface": "yastu",
+     "gloss": "who",
+     "grounds": "relative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act.opt+root-bhū"
+    },
+    {
+     "surface": "āpadāmpadam",
+     "gloss": "danger-refuge",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What becomes of one who acts without knowing?",
+   "premises": [
+    "he acts without knowing",
+    "he becomes danger's refuge"
+   ],
+   "inference": "one who acts without knowing becomes a refuge of danger",
+   "uncertainties": [
+    "exact sense of āpadāmpadam"
+   ],
+   "plain_english": "He who acts without knowing becomes a refuge of danger."
+  }
+ ]
+}

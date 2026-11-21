@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p137",
+ "items": [
+  {
+   "verse": 3425,
+   "rows": [
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "object of utterance; sacred formula to be recited",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udīrayet",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive verbal act accompanying the ritual offering",
+     "morph": "3.sg.act-opt √ud-īr"
+    }
+   ],
+   "question": "What verbal act must accompany the ritual offering of ornaments to the deity?",
+   "premises": [
+    "The preceding context prescribes offering ornaments for the deity's illusory form.",
+    "A mantra is specified as the object of a prescribed verbal act.",
+    "The verb udīrayet enjoins the utterance of that mantra."
+   ],
+   "inference": "The offering of ornaments must be accompanied by the utterance of the mantra.",
+   "uncertainties": [
+    "The specific mantra to be uttered is not named in this verse and depends on prior context."
+   ],
+   "plain_english": "One should utter the mantra."
+  }
+ ]
+}

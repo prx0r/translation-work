@@ -1,0 +1,527 @@
+{
+ "song": "kul-p14",
+ "items": [
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "devatāsthāpane",
+     "gloss": "deity-installation",
+     "grounds": "compound of deity and installation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śaktaḥ",
+     "gloss": "capable",
+     "grounds": "adjective describing one able",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "pratimādau",
+     "gloss": "image-and-so-forth",
+     "grounds": "compound of image and remainder",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun of uncertainty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who is capable of installing deities in images?",
+   "premises": [
+    "capability for deity installation is affirmed",
+    "no doubt is stated"
+   ],
+   "inference": "One capable of installation is not in doubt.",
+   "uncertainties": [
+    "compound sense may vary by context"
+   ],
+   "plain_english": "There is no doubt that one is capable of installing deities in images and the like."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "śvapaco'pi",
+     "gloss": "dog-cooker-even",
+     "grounds": "compound with even particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mucyeta",
+     "gloss": "is-liberated",
+     "grounds": "passive verb of release",
+     "morph": "3.sg.pass.-pres. root muc"
+    },
+    {
+     "surface": "kiṃ punaḥ",
+     "gloss": "what-more",
+     "grounds": "interrogative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvidhānavit",
+     "gloss": "that-rite-knower",
+     "grounds": "compound of rite and knower",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Even a dog-cooker is liberated, so what more for a rite-knower?",
+   "premises": [
+    "even a low-born person is liberated",
+    "a rite-knower is greater"
+   ],
+   "inference": "Knowledge of the rite brings liberation more surely.",
+   "uncertainties": [
+    "social term is traditional and pejorative"
+   ],
+   "plain_english": "Even a dog-cooker is indeed liberated; how much more one who knows that rite."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "yadbrūte",
+     "gloss": "what-says",
+     "grounds": "relative verb form",
+     "morph": "3.sg.act.-pres. root brū"
+    },
+    {
+     "surface": "tan",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "tapo",
+     "gloss": "austerity",
+     "grounds": "noun of ascetic practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "noun of contemplation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "japo",
+     "gloss": "mantra-recitation",
+     "grounds": "noun of repeated mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb of becoming",
+     "morph": "3.sg.act.-opt. root bhū"
+    }
+   ],
+   "question": "What does the speaker say becomes austerity, meditation, and mantra?",
+   "premises": [
+    "the speaker states something",
+    "that thing becomes austerity meditation and mantra"
+   ],
+   "inference": "The stated thing is equated with those practices.",
+   "uncertainties": [
+    "relative clause antecedent is implicit"
+   ],
+   "plain_english": "O great goddess, what is said becomes austerity, meditation, and mantra recitation."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "parāprāsādamantraṃ",
+     "gloss": "supreme-prasada-mantra",
+     "grounds": "compound of supreme prasada and mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vetti",
+     "gloss": "knows",
+     "grounds": "verb of knowing",
+     "morph": "3.sg.act.-pres. root vid"
+    },
+    {
+     "surface": "so'haṃ",
+     "gloss": "he-is-me",
+     "grounds": "fused pronoun form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun of uncertainty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who knows the supreme prasada mantra and is identified with the speaker?",
+   "premises": [
+    "one who knows the mantra is identified with the speaker",
+    "no doubt is stated"
+   ],
+   "inference": "Knowing the mantra removes doubt about identity.",
+   "uncertainties": [
+    "so'haṃ is a fused form"
+   ],
+   "plain_english": "Whoever knows the supreme prasada mantra is me; there is no doubt."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "parāprāsādamantrajñadehe",
+     "gloss": "supreme-prasada-mantra-knower-body",
+     "grounds": "compound of knower and body",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "dwell",
+     "grounds": "verb of residing",
+     "morph": "3.pl.act.-pres. root sthā"
+    },
+    {
+     "surface": "nityaśaḥ",
+     "gloss": "always",
+     "grounds": "adverb of constancy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What dwells always in the body of a mantra-knower?",
+   "premises": [
+    "something dwells in the knower's body",
+    "it dwells always"
+   ],
+   "inference": "The knower's body is a constant dwelling place.",
+   "uncertainties": [
+    "subject is implicit"
+   ],
+   "plain_english": "They dwell always in the body of one who knows the supreme prasada mantra."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "divyakṣetraṃ",
+     "gloss": "divine-field",
+     "grounds": "compound of divine and field",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samuddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "past participle of declaring",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samantāddaśayojanam",
+     "gloss": "all-around-ten-yojanas",
+     "grounds": "compound of all around and ten yojanas",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What divine field is declared to extend ten yojanas all around?",
+   "premises": [
+    "a divine field is declared",
+    "it extends ten yojanas all around"
+   ],
+   "inference": "The declared field has a ten-yojana radius.",
+   "uncertainties": [
+    "yojana measure is traditional"
+   ],
+   "plain_english": "The divine field is declared to extend ten yojanas all around."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "surāsurāśca",
+     "gloss": "gods-demons-and",
+     "grounds": "compound of gods and demons with and",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "vandante",
+     "gloss": "worship",
+     "grounds": "verb of revering",
+     "morph": "3.pl.act.-pres. root vand"
+    },
+    {
+     "surface": "kiṃ punaḥ",
+     "gloss": "what-more",
+     "grounds": "interrogative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānavādayaḥ",
+     "gloss": "humans-etc",
+     "grounds": "compound of humans and others",
+     "morph": "n.nom.pl"
+    }
+   ],
+   "question": "If gods and demons worship, what more can humans do?",
+   "premises": [
+    "gods and demons worship",
+    "humans are lesser beings"
+   ],
+   "inference": "Human worship is even more expected or significant.",
+   "uncertainties": [
+    "rhetorical force is implied"
+   ],
+   "plain_english": "Gods and demons worship; how much more humans and others."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "siddhakṣetraṃ",
+     "gloss": "siddha-field",
+     "grounds": "compound of siddha and field",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madīyaṃ",
+     "gloss": "mine",
+     "grounds": "possessive adjective",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "munidevagaṇaiḥ",
+     "gloss": "sage-god-groups",
+     "grounds": "compound of sages gods and groups",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "preposition of accompaniment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Whose siddha field is said to be with sage and god groups?",
+   "premises": [
+    "a siddha field is mine",
+    "it is with sage and god groups"
+   ],
+   "inference": "The speaker's field is accompanied by sages and gods.",
+   "uncertainties": [
+    "vā may indicate alternative"
+   ],
+   "plain_english": "My siddha field is with groups of sages and gods, or so it is said."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "sarvamantrān",
+     "gloss": "all-mantras",
+     "grounds": "compound of all and mantras",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jānāti",
+     "gloss": "knows",
+     "grounds": "verb of knowing",
+     "morph": "3.sg.act.-pres. root jñā"
+    },
+    {
+     "surface": "parāprāsādamantravit",
+     "gloss": "supreme-prasada-mantra-knower",
+     "grounds": "compound of mantra and knower",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who knows all mantras as a supreme prasada mantra knower?",
+   "premises": [
+    "he knows all mantras",
+    "he is a supreme prasada mantra knower"
+   ],
+   "inference": "Knowing the supreme mantra entails knowing all mantras.",
+   "uncertainties": [
+    "causal direction is implied"
+   ],
+   "plain_english": "He knows all mantras, being a knower of the supreme prasada mantra."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive pronoun",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "darśanamātreṇa",
+     "gloss": "by-sight-alone",
+     "grounds": "compound of sight and alone",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "śvapaco'pi",
+     "gloss": "dog-cooker-even",
+     "grounds": "compound with even particle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vimucyate",
+     "gloss": "is-liberated",
+     "grounds": "passive verb of release",
+     "morph": "3.sg.pass.-pres. root muc"
+    }
+   ],
+   "question": "Who is liberated merely by seeing him?",
+   "premises": [
+    "seeing him alone liberates",
+    "even a dog-cooker is included"
+   ],
+   "inference": "Mere sight of him brings liberation.",
+   "uncertainties": [
+    "subject of seeing is implicit"
+   ],
+   "plain_english": "Even a dog-cooker is liberated merely by seeing him."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "parāprāsādajāpī",
+     "gloss": "supreme-prasada-chanter",
+     "grounds": "compound of chanter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mukto",
+     "gloss": "liberated",
+     "grounds": "past participle of release",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "negative locative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "noun of uncertainty",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Who chants the supreme prasada mantra and is liberated without doubt?",
+   "premises": [
+    "the chanter is liberated",
+    "no doubt exists here"
+   ],
+   "inference": "Chanting the mantra brings liberation without doubt.",
+   "uncertainties": [
+    "nātra may mean not in this matter"
+   ],
+   "plain_english": "Whoever chants the supreme prasada mantra is liberated; there is no doubt here."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "parāprāsādamantro'yaṃ",
+     "gloss": "supreme-prasada-mantra-this",
+     "grounds": "fused demonstrative compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-goddess",
+     "grounds": "vocative address",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaḥ",
+     "gloss": "fruitless",
+     "grounds": "adjective of without fruit",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "Why is this supreme prasada mantra not fruitless, O goddess?",
+   "premises": [
+    "this mantra is not fruitless",
+    "the goddess is addressed"
+   ],
+   "inference": "The mantra necessarily bears fruit.",
+   "uncertainties": [
+    "ca may be emphatic"
+   ],
+   "plain_english": "O goddess, this supreme prasada mantra is not fruitless."
+  }
+ ]
+}

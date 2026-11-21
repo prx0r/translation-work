@@ -1,0 +1,52 @@
+{
+ "song": "sva-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "upayuktvāt",
+     "gloss": "having-used",
+     "grounds": "absolutive of upayuj",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dvitīyabhāgaḥ",
+     "gloss": "second-part",
+     "grounds": "compound dvitīya plus bhāga",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sakalaḥ",
+     "gloss": "whole",
+     "grounds": "adjective sakala",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mṛdapekṣayā",
+     "gloss": "clay-regard",
+     "grounds": "compound mṛda plus apekṣā in instrument",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "tvardham",
+     "gloss": "but-half",
+     "grounds": "tad plus ardha",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the second part used in regard to clay?",
+   "premises": [
+    "second part is whole",
+    "clay regard determines half",
+    "having used second part"
+   ],
+   "inference": "the second part is used wholly, yet only half remains in regard to clay",
+   "uncertainties": [
+    "exact syntactic role of tvardham",
+    "whether upayuktvāt governs dvitīyabhāgaḥ"
+   ],
+   "plain_english": "Having used it, the second part is whole, but in regard to clay it is half."
+  }
+ ]
+}

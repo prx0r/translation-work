@@ -1,0 +1,993 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1951,
+   "rows": [
+    {
+     "surface": "bhūssvāhā",
+     "gloss": "earth-svahā",
+     "grounds": "mantric formula combining bhūḥ and svāhā",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manunā",
+     "gloss": "with-mantra",
+     "grounds": "instrument by which the act is performed",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the ritual act",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "brahmārpaṇaṃ",
+     "gloss": "offering-to-brahman",
+     "grounds": "act of dedicating to Brahman",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence in ritual",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra must be used to perform the offering to Brahman?",
+   "premises": [
+    "The formula bhūssvāhā functions as the mantra.",
+    "The offering to Brahman is to be performed with this mantra.",
+    "The act follows in the prescribed ritual sequence."
+   ],
+   "inference": "Therefore, one should perform the offering to Brahman using the mantra bhūssvāhā.",
+   "uncertainties": [],
+   "plain_english": "Then one should perform the offering to Brahman with the mantra 'bhūḥ svāhā'."
+  },
+  {
+   "verse": 1952,
+   "rows": [
+    {
+     "surface": "vācā",
+     "gloss": "by-speech",
+     "grounds": "instrument of verbal action",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "karmaṇā",
+     "gloss": "by-action",
+     "grounds": "instrument of physical action",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "abhyantarā",
+     "gloss": "inner",
+     "grounds": "qualifies the action as internal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "continues the ritual sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What kinds of actions become internalized in the subsequent ritual stage?",
+   "premises": [
+    "Actions may be performed by speech.",
+    "Actions may be performed by deed.",
+    "These actions are then made inner."
+   ],
+   "inference": "Therefore, actions of speech and deed are internalized at this stage.",
+   "uncertainties": [
+    "The exact syntactic completion depends on the following verse."
+   ],
+   "plain_english": "Then, what is done by speech and by action becomes internal."
+  },
+  {
+   "verse": 1953,
+   "rows": [
+    {
+     "surface": "kṛtaṃ",
+     "gloss": "done",
+     "grounds": "refers to completed actions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tac",
+     "gloss": "that",
+     "grounds": "points to the actions mentioned",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "totality of actions",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmārpaṇaṃ",
+     "gloss": "offering-to-brahman",
+     "grounds": "state of dedication to Brahman",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-become",
+     "grounds": "expresses the resulting transformation",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What transformation must occur to all actions performed by speech and deed?",
+   "premises": [
+    "All actions that have been done are included.",
+    "These actions are to be transformed.",
+    "The transformation is into an offering to Brahman."
+   ],
+   "inference": "Therefore, all actions done by speech and deed should become an offering to Brahman.",
+   "uncertainties": [],
+   "plain_english": "And all that has been done should become an offering to Brahman."
+  },
+  {
+   "verse": 1954,
+   "rows": [
+    {
+     "surface": "udvāsayet",
+     "gloss": "one-should-dismiss",
+     "grounds": "ritual act of sending away the deity",
+     "morph": "3.sg.opt.caus.act √vas"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "marks the next ritual step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "deity",
+     "grounds": "object of dismissal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parivāragaṇaissaha",
+     "gloss": "with-attendant-groups",
+     "grounds": "includes the deity's retinue; internal sandhi in fused form",
+     "morph": "m.ins.pl + (indecl.)"
+    }
+   ],
+   "question": "Who must be ritually dismissed together with the principal deity?",
+   "premises": [
+    "The deity is to be dismissed.",
+    "The deity is accompanied by attendant groups.",
+    "The dismissal includes the deity together with them."
+   ],
+   "inference": "Therefore, one should dismiss the deity along with the attendant groups.",
+   "uncertainties": [],
+   "plain_english": "Then one should dismiss the deity together with the groups of attendants."
+  },
+  {
+   "verse": 1955,
+   "rows": [
+    {
+     "surface": "vilīnaṃ",
+     "gloss": "dissolved",
+     "grounds": "describes the state of the rays",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "raśmivṛndam",
+     "gloss": "mass-of-rays",
+     "grounds": "collective radiance associated with the deity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "aśeṣataḥ",
+     "gloss": "completely",
+     "grounds": "indicates total dissolution",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to the mass of rays during the dismissal of the deity?",
+   "premises": [
+    "A mass of rays is present.",
+    "This mass becomes dissolved.",
+    "The dissolution is complete."
+   ],
+   "inference": "Therefore, the mass of rays is completely dissolved during dismissal.",
+   "uncertainties": [
+    "The grammatical subject performing dissolution is implied from context."
+   ],
+   "plain_english": "Indeed, the mass of rays is completely dissolved."
+  },
+  {
+   "verse": 1956,
+   "rows": [
+    {
+     "surface": "kṣamayā",
+     "gloss": "with-forbearance",
+     "grounds": "attitude accompanying the act",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "āropayet",
+     "gloss": "one-should-place",
+     "grounds": "ritual act of reinstallation",
+     "morph": "3.sg.opt.caus.act √ruh"
+    },
+    {
+     "surface": "svīye",
+     "gloss": "in-own",
+     "grounds": "locates the placement in oneself",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "hṛdambhoje",
+     "gloss": "in-heart-lotus",
+     "grounds": "specific internal locus; compound member",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatām",
+     "gloss": "deity",
+     "grounds": "object to be placed within",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where should the practitioner place the deity after external dismissal?",
+   "premises": [
+    "The deity is to be placed again.",
+    "The placement is done with forbearance.",
+    "The locus of placement is one's own heart-lotus."
+   ],
+   "inference": "Therefore, one should place the deity in one's own heart-lotus with forbearance.",
+   "uncertainties": [],
+   "plain_english": "Indeed, with forbearance one should place the deity in one's own heart-lotus."
+  },
+  {
+   "verse": 1957,
+   "rows": [
+    {
+     "surface": "brahmādayo",
+     "gloss": "brahmā-and-others",
+     "grounds": "group beginning with Brahmā; internal sandhi in fused form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devā",
+     "gloss": "gods",
+     "grounds": "identifies the group as deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates knowledge",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "states lack of knowledge",
+     "morph": "3.pl.perf.act √vid"
+    },
+    {
+     "surface": "paramaṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the state",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "state",
+     "grounds": "the ultimate locus or reality",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What limitation is attributed to Brahmā and other gods regarding ultimate reality?",
+   "premises": [
+    "Brahmā and other gods are considered great deities.",
+    "There exists a supreme state.",
+    "These gods do not know that supreme state."
+   ],
+   "inference": "Therefore, even Brahmā and other gods lack knowledge of the supreme state.",
+   "uncertainties": [],
+   "plain_english": "Brahmā and the other gods do not know the supreme state."
+  },
+  {
+   "verse": 1958,
+   "rows": [
+    {
+     "surface": "mantreṇānena",
+     "gloss": "with-this-mantra",
+     "grounds": "instrumental means for meditation and placement; internal sandhi in fused form",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "prior contemplative act",
+     "morph": "(gerund) √dhyai"
+    },
+    {
+     "surface": "tāṃ",
+     "gloss": "her",
+     "grounds": "refers to the deity",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-establish",
+     "grounds": "ritual act of placing the deity",
+     "morph": "3.sg.opt.caus.act √sthā"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "internal locus of establishment",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "By what means and in what locus should the deity be established internally?",
+   "premises": [
+    "A specific mantra is to be used.",
+    "The deity is to be meditated upon.",
+    "The deity is to be established in the heart."
+   ],
+   "inference": "Therefore, having meditated on her with this mantra, one should establish her in the heart.",
+   "uncertainties": [
+    "The exact mantra referred to is not specified in this verse."
+   ],
+   "plain_english": "Having meditated on her with this mantra, one should establish her in the heart."
+  },
+  {
+   "verse": 1959,
+   "rows": [
+    {
+     "surface": "brahmādayaḥ",
+     "gloss": "brahmā-and-others",
+     "grounds": "group beginning with Brahmā",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "totality of the group",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "surāḥ",
+     "gloss": "gods",
+     "grounds": "identifies the beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tiṣṭhanti",
+     "gloss": "stand",
+     "grounds": "states their presence",
+     "morph": "3.pl.pres.act √sthā"
+    },
+    {
+     "surface": "me",
+     "gloss": "my",
+     "grounds": "possessive reference to the practitioner",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "locus of their presence",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What divine presence is affirmed within the practitioner's heart?",
+   "premises": [
+    "Brahmā and other gods are invoked.",
+    "All these gods are included.",
+    "They are said to stand in the practitioner's heart."
+   ],
+   "inference": "Therefore, all the gods beginning with Brahmā are present in the practitioner's heart.",
+   "uncertainties": [],
+   "plain_english": "All the gods, beginning with Brahmā, stand in my heart."
+  },
+  {
+   "verse": 1960,
+   "rows": [
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "diagram",
+     "grounds": "ritual diagram to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "prescribes the ritual act",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "dvāri",
+     "gloss": "at-door",
+     "grounds": "location for the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "padmavivarjitam",
+     "gloss": "without-lotus",
+     "grounds": "specifies the diagram's form",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What specific form of ritual diagram must be made at the doorway?",
+   "premises": [
+    "A ritual diagram is to be made.",
+    "The location is at the door.",
+    "The diagram must be without a lotus."
+   ],
+   "inference": "Therefore, one should make a diagram without a lotus at the door.",
+   "uncertainties": [],
+   "plain_english": "One should make a diagram at the door, without a lotus."
+  },
+  {
+   "verse": 1961,
+   "rows": [
+    {
+     "surface": "pañcaiva",
+     "gloss": "five-indeed",
+     "grounds": "specifies the number; internal sandhi in fused form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśānādyaṃ",
+     "gloss": "beginning-with-īśāna",
+     "grounds": "identifies the group to be worshipped",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescribes worship",
+     "morph": "3.sg.opt.act √arc"
+    }
+   ],
+   "question": "Which group of five deities must be worshipped in this context?",
+   "premises": [
+    "Worship is prescribed.",
+    "The objects of worship are five.",
+    "The group begins with Īśāna."
+   ],
+   "inference": "Therefore, one should worship the five beginning with Īśāna.",
+   "uncertainties": [
+    "The remaining four deities are implied by tradition."
+   ],
+   "plain_english": "One should worship the five deities beginning with Īśāna."
+  },
+  {
+   "verse": 1962,
+   "rows": [
+    {
+     "surface": "prokta",
+     "gloss": "declared",
+     "grounds": "states what has been taught",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "īśvarī",
+     "gloss": "sovereign-goddess",
+     "grounds": "name or title of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśituḥ",
+     "gloss": "of-great-lord",
+     "grounds": "indicates association with Maheśa",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "How is the goddess identified in relation to the great lord?",
+   "premises": [
+    "A goddess is declared.",
+    "She is called Īśvarī.",
+    "She is associated with the great lord."
+   ],
+   "inference": "Therefore, the goddess is declared as Īśvarī of the great lord.",
+   "uncertainties": [
+    "The syntactic role may continue from or into adjacent verses."
+   ],
+   "plain_english": "And the goddess is declared as the Īśvarī of the great lord."
+  },
+  {
+   "verse": 1963,
+   "rows": [
+    {
+     "surface": "lehyacoṣyānnapānādi",
+     "gloss": "lickable-chewable-food-drink-etc",
+     "grounds": "enumerates types of offerings; compound with internal sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "remnant-offering",
+     "grounds": "substance offered and left over",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pravilepanam",
+     "gloss": "unguent",
+     "grounds": "anointing substance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kinds of offered substances are included as remnants in this ritual context?",
+   "premises": [
+    "Various food and drink offerings are mentioned.",
+    "Remnant offerings are included.",
+    "Unguents are included."
+   ],
+   "inference": "Therefore, lickable, chewable, food, drink, remnants, and unguents are included.",
+   "uncertainties": [
+    "The ritual action applied to these items is specified in the next verse."
+   ],
+   "plain_english": "Lickable, chewable, food, drink, and so on, along with remnants and unguents."
+  },
+  {
+   "verse": 1964,
+   "rows": [
+    {
+     "surface": "naivedyaśeṣaṃ",
+     "gloss": "food-offering-remainder",
+     "grounds": "leftover portion of the offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "prior act of giving",
+     "morph": "(gerund) √dā"
+    },
+    {
+     "surface": "natvā",
+     "gloss": "having-bowed",
+     "grounds": "prior act of reverence",
+     "morph": "(gerund) √nam"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-dismiss",
+     "grounds": "final act of dismissal",
+     "morph": "3.sg.opt.caus.act √sṛj"
+    }
+   ],
+   "question": "What actions must precede the final dismissal of the deity?",
+   "premises": [
+    "The remainder of the food offering is to be given.",
+    "One must bow in reverence.",
+    "Dismissal follows these acts."
+   ],
+   "inference": "Therefore, after giving the remainder and bowing, one should dismiss the deity.",
+   "uncertainties": [],
+   "plain_english": "Indeed, having given the remainder of the food offering and having bowed, one should dismiss the deity."
+  },
+  {
+   "verse": 1965,
+   "rows": [
+    {
+     "surface": "bhāskarāya",
+     "gloss": "to-sun",
+     "grounds": "recipient of the offering",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "arcām",
+     "gloss": "worship",
+     "grounds": "the act or object of worship",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "acchidrārthaṃ",
+     "gloss": "for-flawlessness",
+     "grounds": "purpose of making the rite complete; compound member",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescribes dedication of the worship",
+     "morph": "3.sg.opt.caus.act √vid"
+    }
+   ],
+   "question": "To whom and for what purpose should the worship be offered?",
+   "premises": [
+    "The worship is to be offered.",
+    "The recipient is the Sun.",
+    "The purpose is to ensure flawlessness."
+   ],
+   "inference": "Therefore, one should offer the worship to the Sun for the sake of flawlessness.",
+   "uncertainties": [],
+   "plain_english": "One should offer the worship to the Sun for the sake of making it flawless."
+  },
+  {
+   "verse": 1966,
+   "rows": [
+    {
+     "surface": "savitre",
+     "gloss": "to-savitṛ",
+     "grounds": "recipient identified as Savitṛ",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "karmadāyine",
+     "gloss": "giver-of-action",
+     "grounds": "epithet describing Savitṛ as bestower of action",
+     "morph": "m.dat.sg"
+    }
+   ],
+   "question": "Under what epithet is Savitṛ addressed as the recipient of the offering?",
+   "premises": [
+    "The offering is directed to Savitṛ.",
+    "Savitṛ is described as the giver of action.",
+    "This epithet qualifies the recipient."
+   ],
+   "inference": "Therefore, the offering is made to Savitṛ, the giver of action.",
+   "uncertainties": [
+    "This verse continues the offering formula from the previous verse."
+   ],
+   "plain_english": "To Savitṛ, the giver of action."
+  },
+  {
+   "verse": 1967,
+   "rows": [
+    {
+     "surface": "bhāskarasya",
+     "gloss": "of-sun",
+     "grounds": "source of grace",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "prasādataḥ",
+     "gloss": "by-grace",
+     "grounds": "indicates cause or means",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is identified as the source enabling the subsequent ritual act?",
+   "premises": [
+    "A subsequent act is implied.",
+    "The Sun is invoked as source.",
+    "Grace is the enabling cause."
+   ],
+   "inference": "Therefore, the act proceeds by the grace of the Sun.",
+   "uncertainties": [
+    "The specific act enabled is stated in the following verse."
+   ],
+   "plain_english": "By the grace of the Sun."
+  },
+  {
+   "verse": 1968,
+   "rows": [
+    {
+     "surface": "mantrayet",
+     "gloss": "one-should-empower-with-mantra",
+     "grounds": "prescribes mantra recitation",
+     "morph": "3.sg.opt.caus.act √mantr"
+    },
+    {
+     "surface": "aṣṭadhā",
+     "gloss": "eightfold",
+     "grounds": "specifies the number of repetitions or divisions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many times must the mantra empowerment be performed again?",
+   "premises": [
+    "Mantra empowerment is prescribed.",
+    "The act is to be done again.",
+    "The prescribed manner is eightfold."
+   ],
+   "inference": "Therefore, one should empower with mantra again eightfold.",
+   "uncertainties": [
+    "The object to be empowered is implied from context."
+   ],
+   "plain_english": "One should empower it with mantra again eight times."
+  },
+  {
+   "verse": 1969,
+   "rows": [
+    {
+     "surface": "mastake",
+     "gloss": "on-head",
+     "grounds": "location where it is worn",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "dhāryaṃ",
+     "gloss": "to-be-worn",
+     "grounds": "prescribes wearing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mūlamantreṇa",
+     "gloss": "with-root-mantra",
+     "grounds": "mantra used during the act",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "mantriṇā",
+     "gloss": "by-mantra-practitioner",
+     "grounds": "agent performing the act",
+     "morph": "m.ins.sg"
+    }
+   ],
+   "question": "Who should wear the empowered substance on the head and with which mantra?",
+   "premises": [
+    "Something is to be worn on the head.",
+    "The act is performed by a mantra practitioner.",
+    "The root mantra is used."
+   ],
+   "inference": "Therefore, the mantra practitioner should wear it on the head with the root mantra.",
+   "uncertainties": [
+    "The object to be worn is implied from the preceding verses."
+   ],
+   "plain_english": "It should be worn on the head by the mantra practitioner with the root mantra."
+  },
+  {
+   "verse": 1970,
+   "rows": [
+    {
+     "surface": "tadbhaktebhyaḥ",
+     "gloss": "to-his-devotees",
+     "grounds": "recipients among devotees of that deity",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "indicates the agent also partakes",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuktvā",
+     "gloss": "having-eaten",
+     "grounds": "prior act of partaking",
+     "morph": "(gerund) √bhuj"
+    },
+    {
+     "surface": "tanmayo",
+     "gloss": "absorbed-in-that",
+     "grounds": "state of identification with the deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaset",
+     "gloss": "one-should-dwell",
+     "grounds": "prescribes the resulting mode of living",
+     "morph": "3.sg.opt.act √vas"
+    },
+    {
+     "surface": "sukham",
+     "gloss": "happily",
+     "grounds": "manner of dwelling",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the practitioner live after sharing and partaking of the offering?",
+   "premises": [
+    "The offering is shared with the deity's devotees.",
+    "The practitioner partakes of it.",
+    "The practitioner becomes absorbed in that deity."
+   ],
+   "inference": "Therefore, after sharing and eating, one should dwell happily absorbed in that deity.",
+   "uncertainties": [],
+   "plain_english": "Having given it to his devotees and eaten it oneself, one should indeed dwell happily, absorbed in that deity."
+  },
+  {
+   "verse": 1971,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negates fault",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣaḥ",
+     "gloss": "fault",
+     "grounds": "moral or ritual defect",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcasaṅgame",
+     "gloss": "in-fivefold-union",
+     "grounds": "context in which fault is denied",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What ritual or moral fault is denied in the context of the fivefold union?",
+   "premises": [
+    "The fivefold union is the context.",
+    "Fault might be suspected in that context.",
+    "Fault is explicitly denied."
+   ],
+   "inference": "Therefore, there is no fault in the fivefold union.",
+   "uncertainties": [
+    "The specific constituents of the fivefold union are not defined here."
+   ],
+   "plain_english": "There is no fault in the fivefold union."
+  },
+  {
+   "verse": 1972,
+   "rows": [
+    {
+     "surface": "śaivā",
+     "gloss": "śaivas",
+     "grounds": "followers of Śiva",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "hyaśaivā",
+     "gloss": "or-non-śaivas",
+     "grounds": "alternative group; internal sandhi in fused form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mucyante",
+     "gloss": "are-liberated",
+     "grounds": "states release from sin",
+     "morph": "3.pl.pres.pass √muc"
+    },
+    {
+     "surface": "pāparāśitaḥ",
+     "gloss": "from-heap-of-sin",
+     "grounds": "source from which liberation occurs",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Who is said to be liberated from the heap of sin in this teaching?",
+   "premises": [
+    "Śaivas are included.",
+    "Non-Śaivas are also included.",
+    "Liberation from the heap of sin is affirmed."
+   ],
+   "inference": "Therefore, both Śaivas and non-Śaivas are liberated from the heap of sin.",
+   "uncertainties": [
+    "The condition enabling this liberation is implied by the surrounding context."
+   ],
+   "plain_english": "Whether Śaivas or non-Śaivas, they are liberated from the heap of sin."
+  },
+  {
+   "verse": 1973,
+   "rows": [
+    {
+     "surface": "tatsambandhiprasādādi",
+     "gloss": "that-related-grace-etc",
+     "grounds": "grace and related items connected to that; compound with internal sandhi",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gṛhṇan",
+     "gloss": "taking",
+     "grounds": "act of receiving improperly or in wrong context",
+     "morph": "m.nom.sg.pres.part.act √grah"
+    },
+    {
+     "surface": "nirayam",
+     "gloss": "hell",
+     "grounds": "negative consequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "would-obtain",
+     "grounds": "states the adverse result",
+     "morph": "3.sg.opt.act √āp"
+    }
+   ],
+   "question": "What consequence follows from improperly taking grace and related items of that deity?",
+   "premises": [
+    "Grace and related items connected to that deity are taken.",
+    "The taking is presented as leading to a result.",
+    "The result stated is obtaining hell."
+   ],
+   "inference": "Therefore, one who takes such grace and related items improperly would obtain hell.",
+   "uncertainties": [
+    "The exact condition making the taking improper is implied by contrast with prior verses."
+   ],
+   "plain_english": "One who takes that deity's grace and related things would obtain hell."
+  },
+  {
+   "verse": 1974,
+   "rows": [
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "libation",
+     "grounds": "ritual act of satisfaction or offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaidikaṃ",
+     "gloss": "vedic",
+     "grounds": "according to Vedic form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tāntrikaṃ",
+     "gloss": "tantric",
+     "grounds": "according to Tantric form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion of both forms",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which two ritual forms of libation are included in this instruction?",
+   "premises": [
+    "Libation is mentioned.",
+    "A Vedic form is specified.",
+    "A Tantric form is specified likewise."
+   ],
+   "inference": "Therefore, both Vedic and Tantric libations are included.",
+   "uncertainties": [
+    "The procedural details of the libation are not given in this verse."
+   ],
+   "plain_english": "And likewise the libation, both Vedic and Tantric."
+  }
+ ]
+}

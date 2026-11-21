@@ -1,0 +1,1031 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "nūnaṃ",
+     "gloss": "certainly",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahākālena",
+     "gloss": "by-mahākāla",
+     "grounds": "agent of speech",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "bhāṣitam",
+     "gloss": "spoken",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg.ppp (√bhāṣ)"
+    }
+   ],
+   "question": "Who is the authoritative speaker declaring the following teachings on mantras and curses?",
+   "premises": [
+    "The statement is made with certainty.",
+    "Mahākāla is named as the speaker.",
+    "The content is presented as already spoken."
+   ],
+   "inference": "The following doctrinal instructions are authoritatively declared by Mahākāla.",
+   "uncertainties": [],
+   "plain_english": "Certainly, this was spoken by Mahākāla."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "repho",
+     "gloss": "ra-letter",
+     "grounds": "phonetic element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "agni+bījam",
+     "gloss": "fire-seed",
+     "grounds": "compound identifying bīja; agni+bīja = member+head",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "uddiṣṭa",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.ppp (ud-√diś)"
+    },
+    {
+     "surface": "me-e-nnettra+trayaṃ",
+     "gloss": "me-e-eye-triad",
+     "grounds": "fused mantra syllables and triad; internal sandhi preserved in token",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    }
+   ],
+   "question": "Which phonetic elements constitute the fire-seed and the triad associated with the speaker?",
+   "premises": [
+    "The letter ra is identified as the fire-seed.",
+    "A triad expressed as me-e-nnettra is declared.",
+    "Both elements are attributed to the speaker."
+   ],
+   "inference": "The fire-seed is the letter ra, and the speaker’s triad is designated as me-e-nnettra.",
+   "uncertainties": [
+    "The exact syllabic parsing of me-e-nnettra+trayaṃ is unclear from the fused form."
+   ],
+   "plain_english": "The letter ra is declared to be the fire-seed, and the triad 'me-e-nnettra' is mine."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "śāpāt",
+     "gloss": "from-curse",
+     "grounds": "cause of condition",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "netra+hīno",
+     "gloss": "eye-deprived",
+     "grounds": "compound describing state; netra+hīna = member+head",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "duḥkha+śoka+āmaya+pradaḥ",
+     "gloss": "sorrow-grief-disease-giving",
+     "grounds": "compound describing effect; duḥkha+śoka+āmaya+prada = members+head",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What condition and harmful effects result from the curse affecting the mantra or deity?",
+   "premises": [
+    "A curse is the originating cause.",
+    "The result includes deprivation of the eye.",
+    "The result brings sorrow, grief, and disease."
+   ],
+   "inference": "Because of the curse, there is loss of the eye and the giving of sorrow, grief, and disease.",
+   "uncertainties": [],
+   "plain_english": "From the curse comes deprivation of the eye, bringing sorrow, grief, and disease."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "śrūṃ",
+     "gloss": "śrūṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā+atha+vā",
+     "gloss": "or-or",
+     "grounds": "alternative particles fused in token",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "hrūṃ",
+     "gloss": "hrūṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "namo",
+     "grounds": "mantric formula element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hrīṃ",
+     "gloss": "hrīṃ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which alternative syllables or formulas may constitute the mantra in this context?",
+   "premises": [
+    "Several alternatives are presented: śrūṃ, hrūṃ, namo, or hrīṃ.",
+    "The alternatives are linked by disjunctive particles.",
+    "The subject is identified as that mantra."
+   ],
+   "inference": "The mantra may be constituted by śrūṃ, or hrūṃ, or namo, or hrīṃ.",
+   "uncertainties": [
+    "The exact syntactic role of vā+atha+vā as a fused token is slightly ambiguous."
+   ],
+   "plain_english": "That mantra may be śrūṃ, or hrūṃ, or namo, or hrīṃ."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "la+trayaṃ",
+     "gloss": "la-triad",
+     "grounds": "compound indicating three la elements; la+traya = member+head",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃ+stambhito",
+     "gloss": "well-restrained",
+     "grounds": "compound past participle; saṃ+stambhita = prefix+root",
+     "morph": "m.nom.sg.ppp (sam-√stambh, compound)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject term",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Under what condition involving the la-triad is the mantra considered properly restrained?",
+   "premises": [
+    "The la-triad is mentioned as a possible element.",
+    "A conditional negation is introduced.",
+    "The mantra’s state is described as well-restrained."
+   ],
+   "inference": "The verse poses the condition of whether the mantra is well-restrained with or without the la-triad.",
+   "uncertainties": [
+    "The precise logical force of 'vā na cet' in this compressed form is uncertain."
+   ],
+   "plain_english": "Or if the mantra is not well restrained with the triad of la-syllables."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "duḥkhaṃ",
+     "gloss": "sorrow",
+     "grounds": "resulting state",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāyaśo",
+     "gloss": "mostly",
+     "grounds": "adverb of frequency",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahulaṃ",
+     "gloss": "abundant",
+     "grounds": "degree of sorrow",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What consequence arises if the mantra is not properly restrained as previously stated?",
+   "premises": [
+    "Sorrow is named as the outcome.",
+    "The outcome is described as mostly abundant.",
+    "The verb expresses a potential result."
+   ],
+   "inference": "If the condition fails, abundant sorrow would mostly arise.",
+   "uncertainties": [],
+   "plain_english": "Then there would mostly be abundant sorrow."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "ya+kāreṇa",
+     "gloss": "with-ya-letter",
+     "grounds": "instrumental element; ya+kāra = member+head",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "saṁyyuktāni",
+     "gloss": "joined",
+     "grounds": "past passive participle, neuter plural",
+     "morph": "n.nom.pl.ppp (sam-√yuj)"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject term",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What phonetic joining involving the letter ya characterizes the mantra in this case?",
+   "premises": [
+    "The letter ya is specified as an instrument.",
+    "Elements are described as joined with it.",
+    "The subject is that mantra."
+   ],
+   "inference": "That mantra is characterized by elements joined with the letter ya.",
+   "uncertainties": [
+    "The neuter plural saṁyyuktāni does not agree in gender/number with manuḥ; the referent of the joined elements is unclear."
+   ],
+   "plain_english": "That mantra is joined with the letter ya."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "consequential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃskārayet",
+     "gloss": "should-consecrate",
+     "grounds": "prescriptive action",
+     "morph": "3.sg.opt.caus.act (sam-√kṛ)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-success",
+     "grounds": "purpose",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "sādhaka+uttamaḥ",
+     "gloss": "practitioner-best",
+     "grounds": "compound agent; sādhaka+uttama = member+head",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What corrective ritual action must the best practitioner perform to achieve success?",
+   "premises": [
+    "A consequence is indicated by 'therefore'.",
+    "Consecration is prescribed as the action.",
+    "The goal is success for the best practitioner."
+   ],
+   "inference": "Therefore, the best practitioner should consecrate it for the sake of success.",
+   "uncertainties": [],
+   "plain_english": "Therefore, O Goddess, the best practitioner should consecrate it for success."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "yat+akṣaraiḥ",
+     "gloss": "by-which-syllables",
+     "grounds": "instrumental relative compound; yat+akṣara = member+head",
+     "morph": "n.inst.pl (compound)"
+    },
+    {
+     "surface": "antaritaḥ",
+     "gloss": "interposed",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.ppp (antar-√i)"
+    },
+    {
+     "surface": "phaṭ+kāraḥ",
+     "gloss": "phaṭ-syllable",
+     "grounds": "mantric element; phaṭ+kāra = member+head",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun",
+     "morph": "pron.m.nom.sg"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "definitional verb",
+     "morph": "3.sg.pres.pass.ind (ni-√gad)"
+    }
+   ],
+   "question": "How is the phaṭ-syllable defined when it is interposed by certain syllables?",
+   "premises": [
+    "Certain syllables act as the interposing elements.",
+    "The phaṭ-syllable is the subject being defined.",
+    "The verse states how it is called."
+   ],
+   "inference": "The phaṭ-syllable interposed by those syllables is defined in that manner.",
+   "uncertainties": [
+    "The specific syllables referred to by yat+akṣaraiḥ are not named in this verse."
+   ],
+   "plain_english": "That phaṭ-syllable, interposed by certain syllables, is so called."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "subject, sandhi form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na+eva",
+     "gloss": "not-at-all",
+     "grounds": "emphatic negation compound",
+     "morph": "(indecl., compound)"
+    },
+    {
+     "surface": "siddhaḥ",
+     "gloss": "accomplished",
+     "grounds": "state of attainment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sandṛśyate",
+     "gloss": "is-seen",
+     "grounds": "passive observation",
+     "morph": "3.sg.pres.pass.ind (sam-√dṛś)"
+    },
+    {
+     "surface": "kvacit",
+     "gloss": "anywhere",
+     "grounds": "indefinite location",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the observed outcome for a practitioner under the defective mantra condition described?",
+   "premises": [
+    "The practitioner is the subject.",
+    "Accomplishment is emphatically negated.",
+    "No instance of accomplishment is observed anywhere."
+   ],
+   "inference": "Under this condition, the practitioner is not seen to be accomplished anywhere.",
+   "uncertainties": [],
+   "plain_english": "The practitioner is not seen to be accomplished anywhere."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "brahma+śāpāt",
+     "gloss": "from-brahmā-curse",
+     "grounds": "source of curse; brahma+śāpa = member+head",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "hīna+siddhiḥ",
+     "gloss": "devoid-success",
+     "grounds": "compound describing state; hīna+siddhi = member+head",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act (√bhū)"
+    },
+    {
+     "surface": "atyanta+kaṣṭa+daḥ",
+     "gloss": "exceedingly-suffering-giving",
+     "grounds": "compound describing effect; atyanta+kaṣṭa+da = members+head",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What specific consequences follow from the curse attributed to Brahmā?",
+   "premises": [
+    "The curse originates from Brahmā.",
+    "Success becomes deficient.",
+    "The condition gives extreme suffering."
+   ],
+   "inference": "From Brahmā’s curse, one would be devoid of success and experience extreme suffering.",
+   "uncertainties": [],
+   "plain_english": "From Brahmā’s curse, one would lack success and suffer exceedingly."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "māyā+śāpāt",
+     "gloss": "from-māyā-curse",
+     "grounds": "source of curse; māyā+śāpa = member+head",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "mālina+ya+kārakaḥ",
+     "gloss": "garland-ya-making",
+     "grounds": "compound describing resulting formation; internal structure uncertain",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What effect on the mantra’s form results from the curse attributed to Māyā?",
+   "premises": [
+    "The curse originates from Māyā.",
+    "The result is described as mālina+ya+kārakaḥ.",
+    "The verse states a causal relation from the curse."
+   ],
+   "inference": "Māyā’s curse results in the formation described as mālina+ya+kārakaḥ.",
+   "uncertainties": [
+    "The technical meaning of mālina+ya+kārakaḥ in mantra structure is unclear."
+   ],
+   "plain_english": "From Māyā’s curse, it becomes mālina-ya-making."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "rudra+śāpāt",
+     "gloss": "from-rudra-curse",
+     "grounds": "source of curse; rudra+śāpa = member+head",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "sādhyaṃ",
+     "gloss": "target",
+     "grounds": "object of ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "would-make",
+     "grounds": "potential action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "tiraskṛtam",
+     "gloss": "disregarded",
+     "grounds": "state of the target",
+     "morph": "n.acc.sg.ppp (tiras-√kṛ)"
+    }
+   ],
+   "question": "How does the curse attributed to Rudra affect the intended ritual target?",
+   "premises": [
+    "The curse originates from Rudra.",
+    "The ritual target is acted upon.",
+    "The target becomes disregarded."
+   ],
+   "inference": "From Rudra’s curse, one would render the intended target disregarded.",
+   "uncertainties": [],
+   "plain_english": "From Rudra’s curse, one would make the intended target disregarded."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "would-make",
+     "grounds": "potential action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "bālā+śāpena",
+     "gloss": "by-bālā-curse",
+     "grounds": "instrumental cause; bālā+śāpa = member+head",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "bheditaḥ",
+     "gloss": "divided",
+     "grounds": "resulting state",
+     "morph": "m.nom.sg.ppp (√bhid, caus.)"
+    }
+   ],
+   "question": "What divisive effect is produced by the curse attributed to Bālā?",
+   "premises": [
+    "The curse of Bālā is the cause.",
+    "An action results in a divided state.",
+    "The verb expresses a potential outcome."
+   ],
+   "inference": "By Bālā’s curse, one would be made divided.",
+   "uncertainties": [
+    "The object or domain that becomes divided is not explicitly stated."
+   ],
+   "plain_english": "By Bālā’s curse, it would make one divided."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "siṃha+śāpena",
+     "gloss": "by-lion-curse",
+     "grounds": "instrumental cause; siṃha+śāpa = member+head",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "proktaḥ",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.ppp (pra-√vac)"
+    },
+    {
+     "surface": "abhīṣṭa+phala+apahaḥ",
+     "gloss": "desired-fruit-taking-away",
+     "grounds": "compound describing effect; abhīṣṭa+phala+apaha = members+head",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What loss of intended results is caused by the curse attributed to the lion?",
+   "premises": [
+    "The lion’s curse is the cause.",
+    "The effect is declared explicitly.",
+    "The effect removes the desired fruit."
+   ],
+   "inference": "By the lion’s curse, it is declared to take away the desired fruit.",
+   "uncertainties": [],
+   "plain_english": "By the lion’s curse, it is declared to take away the desired fruit."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "cāmuṇḍā+śāpataḥ",
+     "gloss": "from-cāmuṇḍā-curse",
+     "grounds": "source of curse; cāmuṇḍā+śāpa = member+head",
+     "morph": "m.abl.sg (compound)"
+    },
+    {
+     "surface": "jāto",
+     "gloss": "born",
+     "grounds": "past participle indicating arising state",
+     "morph": "m.nom.sg.ppp (√jan)"
+    },
+    {
+     "surface": "mada+unmatto",
+     "gloss": "intoxication-maddened",
+     "grounds": "compound describing state; mada+unmatta = member+head",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhanaḥ",
+     "gloss": "auspicious",
+     "grounds": "evaluative quality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What inauspicious mental state arises from the curse attributed to Cāmuṇḍā?",
+   "premises": [
+    "The curse originates from Cāmuṇḍā.",
+    "A state of intoxicated madness arises.",
+    "This state is declared not auspicious."
+   ],
+   "inference": "From Cāmuṇḍā’s curse arises a maddened state that is not auspicious.",
+   "uncertainties": [],
+   "plain_english": "From Cāmuṇḍā’s curse, one becomes maddened with intoxication and is not auspicious."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "mūrcchitaṃ",
+     "gloss": "fainted",
+     "grounds": "resulting state",
+     "morph": "n.acc.sg.ppp (√mūrch)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "would-make",
+     "grounds": "potential action",
+     "morph": "3.sg.opt.act (√kṛ)"
+    },
+    {
+     "surface": "vāminaṃ",
+     "gloss": "leftward",
+     "grounds": "object or quality affected",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "adverb of emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific debilitating effect is especially produced in the leftward aspect by the curse?",
+   "premises": [
+    "An action causes fainting.",
+    "The affected element is described as leftward.",
+    "The effect is emphasized as especially so."
+   ],
+   "inference": "The curse would especially cause the leftward aspect to become fainted.",
+   "uncertainties": [
+    "The referent of vāminaṃ (a person, current, or mantra aspect) is unclear."
+   ],
+   "plain_english": "It would especially make the leftward one faint."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "hata+vīryaḥ",
+     "gloss": "destroyed-vigor",
+     "grounds": "compound describing state; hata+vīrya = member+head",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāpena",
+     "gloss": "by-curse",
+     "grounds": "instrumental cause",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kṛtaḥ",
+     "gloss": "made",
+     "grounds": "past passive participle",
+     "morph": "m.nom.sg.ppp (√kṛ)"
+    },
+    {
+     "surface": "kṣīṇatva+kārakaḥ",
+     "gloss": "weakness-causing",
+     "grounds": "compound describing effect; kṣīṇatva+kāraka = member+head",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What loss of power and weakening effect are produced by this curse?",
+   "premises": [
+    "The curse is the instrumental cause.",
+    "The subject is made deprived of vigor.",
+    "The result causes weakness."
+   ],
+   "inference": "By the curse, one is made devoid of vigor and becomes a cause of weakness.",
+   "uncertainties": [],
+   "plain_english": "By the curse, one is made deprived of vigor and causes weakness."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "aṣṭādaśa+akṣaro",
+     "gloss": "eighteen-syllabled",
+     "grounds": "compound describing mantra; aṣṭādaśa+akṣara = member+head",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "hīno",
+     "gloss": "deprived",
+     "grounds": "state of deficiency",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hāniḥ",
+     "gloss": "loss",
+     "grounds": "resulting harm",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhairava+śāpataḥ",
+     "gloss": "from-bhairava-curse",
+     "grounds": "source of curse; bhairava+śāpa = member+head",
+     "morph": "m.abl.sg (compound)"
+    }
+   ],
+   "question": "What deficiency and loss affect the eighteen-syllabled form due to Bhairava’s curse?",
+   "premises": [
+    "The eighteen-syllabled form is mentioned.",
+    "It becomes deprived.",
+    "Loss arises from Bhairava’s curse."
+   ],
+   "inference": "From Bhairava’s curse, the eighteen-syllabled form is deprived and loss occurs.",
+   "uncertainties": [
+    "It is unclear what specifically is deprived in the eighteen-syllabled form."
+   ],
+   "plain_english": "From Bhairava’s curse, the eighteen-syllabled form is deprived and there is loss."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "kāma+śāpena",
+     "gloss": "by-kāma-curse",
+     "grounds": "instrumental cause; kāma+śāpa = member+head",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "dhvaṃsayet",
+     "gloss": "would-destroy",
+     "grounds": "potential destructive action",
+     "morph": "3.sg.opt.act (√dhvaṃs)"
+    },
+    {
+     "surface": "kāma+kāraṇāt",
+     "gloss": "from-desire-cause",
+     "grounds": "compound indicating reason; kāma+kāraṇa = member+head",
+     "morph": "n.abl.sg (compound)"
+    }
+   ],
+   "question": "What destructive outcome results from Kāma’s curse and its associated cause?",
+   "premises": [
+    "Kāma’s curse is the instrumental cause.",
+    "Destruction is the potential result.",
+    "Desire is given as the underlying cause."
+   ],
+   "inference": "By Kāma’s curse, it would destroy because of desire.",
+   "uncertainties": [
+    "The object of destruction is not explicitly stated."
+   ],
+   "plain_english": "By Kāma’s curse, it would destroy because of desire."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "ṣoḍaśa+arṇaḥ",
+     "gloss": "sixteen-syllabled",
+     "grounds": "compound describing mantra; ṣoḍaśa+arṇa = member+head",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "taruṇaḥ",
+     "gloss": "young",
+     "grounds": "qualitative stage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prauḍho",
+     "gloss": "mature",
+     "grounds": "qualitative stage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vyoma+abdhi+varṇakaḥ",
+     "gloss": "sky-ocean-syllabled",
+     "grounds": "compound describing syllable count; vyoma+abdhi+varṇaka = members+head",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "How are different mantra forms classified by syllable count and stage of maturity?",
+   "premises": [
+    "A sixteen-syllabled form is identified.",
+    "Stages of young and mature are mentioned.",
+    "Another form is described as sky-ocean-syllabled."
+   ],
+   "inference": "The verse classifies mantra forms as sixteen-syllabled, young, mature, and sky-ocean-syllabled.",
+   "uncertainties": [
+    "The numeric value implied by vyoma+abdhi+varṇakaḥ is not explicit without convention."
+   ],
+   "plain_english": "The sixteen-syllabled form is young, the mature one is sky-ocean-syllabled."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "demonstrative pronoun referring to prior forms",
+     "morph": "pron.m.nom.pl"
+    },
+    {
+     "surface": "kālena",
+     "gloss": "by-time",
+     "grounds": "instrumental cause",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śaptā",
+     "gloss": "cursed",
+     "grounds": "past passive participle",
+     "morph": "m.nom.pl.ppp (√śap)"
+    },
+    {
+     "surface": "duḥkhāni",
+     "gloss": "sorrows",
+     "grounds": "resulting effects",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "kurvate",
+     "gloss": "they-cause",
+     "grounds": "active result",
+     "morph": "3.pl.pres.mid.ind (√kṛ)"
+    }
+   ],
+   "question": "What harmful consequence do these time-cursed mantra forms produce for practitioners?",
+   "premises": [
+    "These forms are cursed by time.",
+    "They actively produce effects.",
+    "The effects are sorrows."
+   ],
+   "inference": "These forms, cursed by time, cause sorrows.",
+   "uncertainties": [],
+   "plain_english": "These, cursed by time, cause sorrows."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "saṃ+śapto",
+     "gloss": "well-cursed",
+     "grounds": "compound past participle; saṃ+śapta = prefix+root",
+     "morph": "m.nom.sg.ppp (sam-√śap, compound)"
+    },
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "adverb of duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nairāśya+kārakaḥ",
+     "gloss": "despair-causing",
+     "grounds": "compound describing effect; nairāśya+kāraka = member+head",
+     "morph": "m.nom.sg (compound)"
+    }
+   ],
+   "question": "What enduring psychological effect is produced by a thoroughly cursed mantra state?",
+   "premises": [
+    "The state is thoroughly cursed.",
+    "The effect is constant.",
+    "The effect causes despair."
+   ],
+   "inference": "A thoroughly cursed state always causes despair.",
+   "uncertainties": [],
+   "plain_english": "When thoroughly cursed, it always causes despair."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "namo",
+     "gloss": "namo",
+     "grounds": "mantric formula element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svāhā",
+     "grounds": "mantric formula element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "not-exists",
+     "grounds": "negation of presence",
+     "morph": "3.sg.pres.ind (√as)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "madhyamaḥ",
+     "gloss": "middle",
+     "grounds": "middle element of mantra",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What structural deficiency in the middle element renders a mantra incomplete or defective?",
+   "premises": [
+    "Alternatives namo or svāhā are considered.",
+    "The middle element may be absent.",
+    "The condition is framed relative to whose mantra it is."
+   ],
+   "inference": "A mantra is defective if its middle element lacks namo or svāhā or is absent.",
+   "uncertainties": [
+    "The exact syntactic scope of the repeated vā particles is somewhat compressed."
+   ],
+   "plain_english": "Or if, in the middle, there is neither namo nor svāhā, or it is absent."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "dīpa+nāthaṃ",
+     "gloss": "lamp-lord",
+     "grounds": "compound of dīpa (lamp) and nātha (lord), object of propitiation",
+     "morph": "compound.acc.sg.m"
+    },
+    {
+     "surface": "bhairavaṃ",
+     "gloss": "bhairava",
+     "grounds": "name of the deity identified as the lamp-lord",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prārthayet",
+     "gloss": "one-should-propitiate",
+     "grounds": "prescriptive verbal form expressing ritual petition",
+     "morph": "3.sg.act.opt-√prārth"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative or concluding particle marking the instruction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Must Bhairava as lord of the lamp be ritually propitiated?",
+   "premises": [
+    "The lamp-lord is named as Bhairava.",
+    "A prescriptive act of propitiation is enjoined.",
+    "The instruction is formally concluded with iti."
+   ],
+   "inference": "Therefore Bhairava in the form of the lamp-lord is to be propitiated.",
+   "uncertainties": [],
+   "plain_english": "Thus one should propitiate Bhairava as the lord of the lamp."
+  }
+ ]
+}

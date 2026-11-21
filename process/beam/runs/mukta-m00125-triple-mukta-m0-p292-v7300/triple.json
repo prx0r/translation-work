@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p292",
+ "items": [
+  {
+   "verse": 7300,
+   "rows": [
+    {
+     "surface": "śatamaṣṭottaraṃ",
+     "gloss": "hundred-eight-more",
+     "grounds": "compound numeral indicating one hundred increased by eight",
+     "morph": "compound"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the three qualified reciters mentioned previously",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "indicates individual performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛthaganuttamam",
+     "gloss": "separately-unsurpassed",
+     "grounds": "fused form pṛthak + anuttamam emphasizing each separately as the best manner",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many recitations must each qualified Vedic reciter perform separately?",
+   "premises": [
+    "Three reciters knowing the four Vedas are to be chosen.",
+    "The prescribed number is one hundred and eight.",
+    "Each reciter must perform the recitations separately."
+   ],
+   "inference": "Each of the three qualified reciters must individually perform one hundred and eight recitations.",
+   "uncertainties": [
+    "The exact object of recitation is supplied from the preceding context."
+   ],
+   "plain_english": "Each of them should separately recite one hundred and eight times, in the best manner."
+  }
+ ]
+}

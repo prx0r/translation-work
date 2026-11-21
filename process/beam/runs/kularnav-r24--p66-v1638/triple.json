@@ -1,0 +1,593 @@
+{
+ "song": "kul-p66",
+ "items": [
+  {
+   "verse": 1638,
+   "rows": [
+    {
+     "surface": "vedhakā",
+     "gloss": "piercing",
+     "grounds": "name of an initiation type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrṇasaṃjñā",
+     "gloss": "called-full",
+     "grounds": "compound naming an initiation type",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāryā",
+     "gloss": "teacher",
+     "grounds": "name of an initiation type",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nirvāṇasaṃjñikā",
+     "gloss": "called-liberation",
+     "grounds": "compound naming an initiation type",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which additional initiation types complete the sevenfold classification of dīkṣā?",
+   "premises": [
+    "The initiation called vedhakā is included.",
+    "The initiation called pūrṇā is included.",
+    "The initiations called ācāryā and nirvāṇā are included."
+   ],
+   "inference": "These named types form part of the sevenfold classification of initiation.",
+   "uncertainties": [
+    "The exact mapping of these names to the full sevenfold list is not explicit in this verse alone."
+   ],
+   "plain_english": "The piercing, the one called full, and also the teacher and the one called liberation are named."
+  },
+  {
+   "verse": 1639,
+   "rows": [
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-lord",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dehaśuddhyarthaṃ",
+     "gloss": "for-body-purification",
+     "grounds": "compound expressing purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvoktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound indicating prescribed procedure",
+     "morph": "compound"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative-active √car"
+    }
+   ],
+   "question": "How should the ritual procedure be performed for purification of the body?",
+   "premises": [
+    "The goddess is addressed directly.",
+    "The purpose stated is purification of the body.",
+    "The procedure should follow the previously stated method."
+   ],
+   "inference": "One should perform the rite for bodily purification according to the previously prescribed method.",
+   "uncertainties": [],
+   "plain_english": "O Goddess, for the purification of the body, one should perform the rite according to the previously stated method."
+  },
+  {
+   "verse": 1640,
+   "rows": [
+    {
+     "surface": "pañcāśadvarṇairvā",
+     "gloss": "with-fifty-letters-or",
+     "grounds": "compound with alternative particle fused",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "dviṣaṣṭilipibhistu",
+     "gloss": "with-sixty-two-letters-but",
+     "grounds": "compound with emphatic particle fused",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphatic or contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tā",
+     "gloss": "those",
+     "grounds": "demonstrative referring to letters",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What alternative sets of letters may be employed in the prescribed ritual procedure?",
+   "premises": [
+    "One option uses fifty letters.",
+    "Another option uses sixty-two letters.",
+    "The alternatives are presented to the goddess."
+   ],
+   "inference": "The ritual may employ either fifty letters or sixty-two letters.",
+   "uncertainties": [
+    "The grammatical role of tā is somewhat unclear without the following verse."
+   ],
+   "plain_english": "O Goddess, one may use those fifty letters, or alternatively the sixty-two letters."
+  },
+  {
+   "verse": 1641,
+   "rows": [
+    {
+     "surface": "paramātmani",
+     "gloss": "in-supreme-self",
+     "grounds": "compound denoting the highest self",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-united",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund √yuj"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative referring to consciousness",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "caitanyaṃ",
+     "gloss": "consciousness",
+     "grounds": "object to be united",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "agent performing the uniting",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What action must the guru perform with consciousness in the supreme self?",
+   "premises": [
+    "The locus of union is the supreme self.",
+    "The object united is that consciousness.",
+    "The guru is the agent of this action."
+   ],
+   "inference": "The guru must unite that consciousness in the supreme self.",
+   "uncertainties": [],
+   "plain_english": "O beloved, the guru, having united that consciousness in the supreme self."
+  },
+  {
+   "verse": 1642,
+   "rows": [
+    {
+     "surface": "sṛṣṭikrameṇa",
+     "gloss": "by-creation-sequence",
+     "grounds": "compound indicating order of emanation",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-method",
+     "grounds": "instrumental of procedure",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "caitanyañca",
+     "gloss": "and-consciousness",
+     "grounds": "object with connective particle fused",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "one-should-project",
+     "grounds": "injunctive instruction",
+     "morph": "3.sg.optative-causative-active √yuj"
+    }
+   ],
+   "question": "By what sequence should the guru project consciousness after uniting it?",
+   "premises": [
+    "The procedure follows the creation sequence.",
+    "The action is performed by a prescribed method.",
+    "Consciousness is to be projected."
+   ],
+   "inference": "The guru should project consciousness according to the method of the creation sequence.",
+   "uncertainties": [],
+   "plain_english": "And by the method of the creation sequence, one should project the consciousness."
+  },
+  {
+   "verse": 1643,
+   "rows": [
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the initiation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varṇamayī",
+     "gloss": "made-of-letters",
+     "grounds": "compound describing the initiation",
+     "morph": "compound"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle indicating teaching",
+     "morph": "f.nom.sg.past-participle √vac"
+    },
+    {
+     "surface": "dīkṣā",
+     "gloss": "initiation",
+     "grounds": "subject of the declaration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāśaharā",
+     "gloss": "bond-removing",
+     "grounds": "compound describing effect of initiation",
+     "morph": "compound"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is the nature and effect of the initiation described as made of letters?",
+   "premises": [
+    "This initiation is declared to be made of letters.",
+    "This initiation is described as removing bonds.",
+    "The declaration is addressed to the beloved."
+   ],
+   "inference": "The letter-made initiation is taught as one that removes bonds.",
+   "uncertainties": [],
+   "plain_english": "O beloved, this initiation, made of letters, is declared to be the remover of bonds."
+  },
+  {
+   "verse": 1644,
+   "rows": [
+    {
+     "surface": "nivṛttirjānuparyantaṃ",
+     "gloss": "cessation-up-to-knee",
+     "grounds": "fused form naming kalā and its limit",
+     "morph": "compound"
+    },
+    {
+     "surface": "jānuparyantaṃ",
+     "gloss": "up-to-knee",
+     "grounds": "compound indicating upper boundary",
+     "morph": "compound"
+    },
+    {
+     "surface": "talādārabhya",
+     "gloss": "beginning-from-sole",
+     "grounds": "fused form indicating starting point",
+     "morph": "compound"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning-from",
+     "grounds": "absolutive indicating starting point",
+     "morph": "gerund √rabh"
+    },
+    {
+     "surface": "saṃsthitā",
+     "gloss": "situated",
+     "grounds": "past participle indicating location",
+     "morph": "f.nom.sg.past-participle √sthā"
+    }
+   ],
+   "question": "What bodily region is pervaded by the kalā called nivṛtti?",
+   "premises": [
+    "The kalā named is nivṛtti.",
+    "Its extent begins from the sole.",
+    "Its extent reaches up to the knee."
+   ],
+   "inference": "Nivṛtti is situated from the sole up to the knee.",
+   "uncertainties": [
+    "The tokenization repeats boundary elements, but the meaning is clear."
+   ],
+   "plain_english": "Nivṛtti is situated from the sole up to the knee."
+  },
+  {
+   "verse": 1645,
+   "rows": [
+    {
+     "surface": "nābheḥ",
+     "gloss": "from-navel",
+     "grounds": "ablative indicating starting point",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "kaṇṭhāvadhi",
+     "gloss": "up-to-throat",
+     "grounds": "compound indicating upper boundary",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyāptā",
+     "gloss": "pervading",
+     "grounds": "past participle describing extent",
+     "morph": "f.nom.sg.past-participle √āp"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge-kalā",
+     "grounds": "name of a kalā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śāntistataḥ",
+     "gloss": "peace-from-there",
+     "grounds": "fused form naming next kalā and sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "from-there",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "beyond",
+     "grounds": "adverb indicating further extent",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bodily regions are assigned to the kalās vidyā and śānti in sequence?",
+   "premises": [
+    "Vidyā pervades from the navel up to the throat.",
+    "Śānti is placed after that region.",
+    "The sequence continues beyond."
+   ],
+   "inference": "Vidyā extends from navel to throat and śānti follows beyond that.",
+   "uncertainties": [
+    "The exact upper limit of śānti is completed in the next verse."
+   ],
+   "plain_english": "Vidyā pervades from the navel up to the throat, and śānti extends beyond that."
+  },
+  {
+   "verse": 1646,
+   "rows": [
+    {
+     "surface": "śāntyatītā",
+     "gloss": "beyond-peace",
+     "grounds": "compound naming the highest kalā",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalā",
+     "gloss": "kalā",
+     "grounds": "term for a phase or power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative referring to the pervasion",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kalāvyāptiritīritā",
+     "gloss": "kalā-pervasion-thus-called",
+     "grounds": "fused compound stating designation",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īritā",
+     "gloss": "called",
+     "grounds": "past participle indicating designation",
+     "morph": "f.nom.sg.past-participle √īr"
+    }
+   ],
+   "question": "How is the pervasion of the kalās culminating in śāntyatītā designated?",
+   "premises": [
+    "The kalā beyond peace is named śāntyatītā.",
+    "This arrangement is being designated.",
+    "The designation given is kalā-pervasion."
+   ],
+   "inference": "The arrangement culminating in śāntyatītā is called the pervasion of the kalās.",
+   "uncertainties": [],
+   "plain_english": "And the kalā beyond peace is named; this is called the pervasion of the kalās."
+  },
+  {
+   "verse": 1647,
+   "rows": [
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-united",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund √yuj"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "adverbial expression of proper procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samyagvidhivettā",
+     "gloss": "fully-method-knower",
+     "grounds": "fused compound describing the agent",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhivettā",
+     "gloss": "method-knower",
+     "grounds": "compound describing the agent",
+     "morph": "compound"
+    },
+    {
+     "surface": "śiro'vadhi",
+     "gloss": "up-to-head",
+     "grounds": "compound indicating upper limit",
+     "morph": "compound"
+    }
+   ],
+   "question": "Up to what bodily limit must the knower of method perform the union according to rule?",
+   "premises": [
+    "The union must be performed according to rule.",
+    "The agent is one who knows the method fully.",
+    "The stated limit is up to the head."
+   ],
+   "inference": "The knower of method must perform the union properly up to the head.",
+   "uncertainties": [
+    "The repeated agent expression in the tokenization is unusual but does not obscure the meaning."
+   ],
+   "plain_english": "Having united properly, the one who fully knows the method should do so up to the head."
+  },
+  {
+   "verse": 1648,
+   "rows": [
+    {
+     "surface": "aṣṭatriṃśatkalābhirvā",
+     "gloss": "with-thirty-eight-kalās-or",
+     "grounds": "compound with alternative particle fused",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcāśadbhirathāpi",
+     "gloss": "with-fifty-or-also",
+     "grounds": "fused form giving another alternative",
+     "morph": "compound"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or",
+     "grounds": "particle introducing alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative numbers of kalās may be used in this ritual application?",
+   "premises": [
+    "One option uses thirty-eight kalās.",
+    "Another option uses fifty kalās.",
+    "The verse presents these as alternatives."
+   ],
+   "inference": "The procedure may be performed with either thirty-eight or fifty kalās.",
+   "uncertainties": [],
+   "plain_english": "With thirty-eight kalās, or alternatively with fifty."
+  },
+  {
+   "verse": 1649,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive indicating prior knowledge",
+     "morph": "gerund √jñā"
+    },
+    {
+     "surface": "gurumukhāddeviṃ",
+     "gloss": "from-guru-mouth-goddess",
+     "grounds": "fused compound indicating source and object",
+     "morph": "compound"
+    },
+    {
+     "surface": "deviṃ",
+     "gloss": "goddess",
+     "grounds": "object of knowledge or union",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śiṣye",
+     "gloss": "in-disciple",
+     "grounds": "locative indicating recipient",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃyojya",
+     "gloss": "having-united",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund √yuj"
+    },
+    {
+     "surface": "vedhayet",
+     "gloss": "one-should-pierce",
+     "grounds": "injunctive instruction for initiation",
+     "morph": "3.sg.optative-causative-active √vyadh"
+    }
+   ],
+   "question": "What sequence of actions enables the guru to perform the piercing initiation in the disciple?",
+   "premises": [
+    "Knowledge is received from the guru's mouth.",
+    "The goddess is united in the disciple.",
+    "The final act prescribed is piercing."
+   ],
+   "inference": "After knowing from the guru and uniting the goddess in the disciple, one should perform the piercing.",
+   "uncertainties": [
+    "The exact object of jñātvā is compressed in the fused token but context suggests the teaching or goddess."
+   ],
+   "plain_english": "Having known from the guru's mouth, and having united the goddess in the disciple, one should perform the piercing."
+  }
+ ]
+}

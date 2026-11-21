@@ -1,0 +1,1231 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1551,
+   "rows": [
+    {
+     "surface": "tryasre",
+     "gloss": "in-triangle",
+     "grounds": "location of the ritual action",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mūla",
+     "gloss": "root",
+     "grounds": "qualifies the mantra",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mantra",
+     "gloss": "mantra",
+     "grounds": "the sacred formula",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puraḥsaram",
+     "gloss": "preceded-by",
+     "grounds": "indicates accompaniment by the root mantra",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What ritual accompaniment is required within the triangle?",
+   "premises": [
+    "The action takes place in a triangle.",
+    "A root mantra is specified.",
+    "The procedure is preceded by that mantra."
+   ],
+   "inference": "The ritual in the triangle must be performed preceded by the root mantra.",
+   "uncertainties": [],
+   "plain_english": "Within the triangle, the rite should be performed preceded by the root mantra."
+  },
+  {
+   "verse": 1552,
+   "rows": [
+    {
+     "surface": "ahantā",
+     "gloss": "egoism",
+     "grounds": "first item offered as oblation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "asatya",
+     "gloss": "untruth",
+     "grounds": "second item offered as oblation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paiśunya",
+     "gloss": "slander",
+     "grounds": "third item offered as oblation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kāma",
+     "gloss": "desire",
+     "grounds": "fourth item offered as oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "krodha",
+     "gloss": "anger",
+     "grounds": "fifth item offered as oblation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ādikaṃ",
+     "gloss": "and-so-forth",
+     "grounds": "extends the list of faults",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "haviḥ",
+     "gloss": "oblation",
+     "grounds": "identifies the listed faults as the offering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which inner faults are to be offered as the oblation?",
+   "premises": [
+    "Egoism, untruth, slander, desire, and anger are named.",
+    "The list is extended by and-so-forth.",
+    "These are designated as the oblation."
+   ],
+   "inference": "Negative inner tendencies such as egoism and anger constitute the oblation.",
+   "uncertainties": [],
+   "plain_english": "Egoism, untruth, slander, desire, anger, and similar faults are to be made the oblation."
+  },
+  {
+   "verse": 1553,
+   "rows": [
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "prior state before recitation",
+     "morph": "gerund (√bhū)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "prescribes the recitation",
+     "morph": "3.sg.act.optative (√jap)"
+    },
+    {
+     "surface": "aṣṭa",
+     "gloss": "eight",
+     "grounds": "numeral component of the count",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "otaraṃ",
+     "gloss": "more-than",
+     "grounds": "indicates excess over a base number",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śatam",
+     "gloss": "hundred",
+     "grounds": "base number for the recitation count",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many recitations must be performed after assuming that state?",
+   "premises": [
+    "One must first assume the prescribed state.",
+    "Recitation is enjoined.",
+    "The count is more than eight hundred."
+   ],
+   "inference": "After becoming thus, one should recite more than eight hundred times.",
+   "uncertainties": [
+    "The exact value of aṣṭa otaraṃ śatam is ambiguous in this form."
+   ],
+   "plain_english": "Having become so, one should recite more than eight hundred times."
+  },
+  {
+   "verse": 1554,
+   "rows": [
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "object of worship",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "qualifies the circle",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "circle",
+     "grounds": "ritual diagram or assembly to be drawn out",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "one-should-draw-out",
+     "grounds": "prescribes extraction or construction",
+     "morph": "3.sg.act.optative (sam-ud-√hṛ)"
+    }
+   ],
+   "question": "What ritual structure must be drawn out for the guru?",
+   "premises": [
+    "The guru is involved in the rite.",
+    "A worship circle is specified.",
+    "One should draw it out."
+   ],
+   "inference": "One should draw out the worship circle for the guru.",
+   "uncertainties": [],
+   "plain_english": "One should draw out the worship circle for the guru."
+  },
+  {
+   "verse": 1555,
+   "rows": [
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual object being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies sovereignty",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "aiśvarya",
+     "gloss": "sovereignty",
+     "grounds": "power granted by the diagram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pradaṃ",
+     "gloss": "granting",
+     "grounds": "describes the diagram's effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "states the accepted view",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What power is the prescribed diagram considered to grant?",
+   "premises": [
+    "A diagram is the subject.",
+    "It is described as granting all sovereignty.",
+    "This is the accepted view."
+   ],
+   "inference": "The diagram is considered to grant all sovereignty.",
+   "uncertainties": [],
+   "plain_english": "This diagram is considered to grant all sovereignty."
+  },
+  {
+   "verse": 1556,
+   "rows": [
+    {
+     "surface": "māṇikya",
+     "gloss": "ruby",
+     "grounds": "material of the diagram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "racitaṃ",
+     "gloss": "made-of",
+     "grounds": "describes construction from ruby",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "refers to the diagram",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rājya",
+     "gloss": "kingdom",
+     "grounds": "benefit granted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "daṃ",
+     "gloss": "giving",
+     "grounds": "describes granting of kingdom",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "worldly benefit granted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mukti",
+     "gloss": "liberation",
+     "grounds": "spiritual benefit granted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dam",
+     "gloss": "giving",
+     "grounds": "describes granting of enjoyment and liberation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What benefits result if the diagram is made of ruby?",
+   "premises": [
+    "The diagram may be made of ruby.",
+    "Such a diagram gives kingdom.",
+    "It also gives enjoyment and liberation."
+   ],
+   "inference": "A ruby-made diagram grants kingdom as well as enjoyment and liberation.",
+   "uncertainties": [],
+   "plain_english": "If this diagram is made of ruby, it gives a kingdom and grants both enjoyment and liberation."
+  },
+  {
+   "verse": 1557,
+   "rows": [
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual object being described",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarva",
+     "gloss": "all",
+     "grounds": "qualifies accomplishment",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "siddhi",
+     "gloss": "accomplishment",
+     "grounds": "result produced by the diagram",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "karaṃ",
+     "gloss": "causing",
+     "grounds": "describes the diagram's effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "states the accepted view",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What accomplishment is the diagram considered to produce?",
+   "premises": [
+    "A diagram is the subject.",
+    "It is described as causing all accomplishment.",
+    "This is the accepted view."
+   ],
+   "inference": "The diagram is considered to bring about all accomplishments.",
+   "uncertainties": [],
+   "plain_english": "This diagram is considered to bring about all accomplishments."
+  },
+  {
+   "verse": 1558,
+   "rows": [
+    {
+     "surface": "śrīparṇī",
+     "gloss": "śrīparṇī-wood",
+     "grounds": "material of the pedestal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīṭham",
+     "gloss": "pedestal",
+     "grounds": "ritual base prescribed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "prescribed",
+     "grounds": "states the injunction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "purpose of the pedestal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "arthaṃ",
+     "gloss": "for-the-sake-of",
+     "grounds": "marks purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhana",
+     "gloss": "wealth",
+     "grounds": "benefit granted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "rājya",
+     "gloss": "kingdom",
+     "grounds": "benefit granted",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dam",
+     "gloss": "giving",
+     "grounds": "describes the pedestal's effect",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What purpose and benefits are assigned to a śrīparṇī pedestal?",
+   "premises": [
+    "A pedestal made of śrīparṇī wood is prescribed.",
+    "It is intended for worship.",
+    "It gives wealth and kingdom."
+   ],
+   "inference": "A śrīparṇī pedestal is prescribed for worship and grants wealth and kingdom.",
+   "uncertainties": [],
+   "plain_english": "A pedestal made of śrīparṇī wood is prescribed for worship and gives wealth and kingdom."
+  },
+  {
+   "verse": 1559,
+   "rows": [
+    {
+     "surface": "gaṇḍakī",
+     "gloss": "gaṇḍakī",
+     "grounds": "river source of the stone",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bhava",
+     "gloss": "born",
+     "grounds": "indicates origin in the Gaṇḍakī",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pāṣāṇe",
+     "gloss": "stone",
+     "grounds": "material or locus of the effect",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhukti",
+     "gloss": "enjoyment",
+     "grounds": "worldly benefit",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "muktiḥ",
+     "gloss": "liberation",
+     "grounds": "spiritual benefit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "adūrataḥ",
+     "gloss": "not-far",
+     "grounds": "indicates nearness of the benefits",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What benefits are near when using a stone born in the Gaṇḍakī?",
+   "premises": [
+    "A stone born in the Gaṇḍakī is specified.",
+    "Enjoyment and liberation are mentioned.",
+    "These are said to be not far."
+   ],
+   "inference": "With a Gaṇḍakī-born stone, enjoyment and liberation are close at hand.",
+   "uncertainties": [],
+   "plain_english": "With a stone born in the Gaṇḍakī, enjoyment and liberation are not far away."
+  },
+  {
+   "verse": 1560,
+   "rows": [
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual object with adverse effect",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sampattiṃ",
+     "gloss": "prosperity",
+     "grounds": "thing taken away",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "santatiṃ",
+     "gloss": "progeny",
+     "grounds": "thing taken away",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "haret",
+     "gloss": "takes-away",
+     "grounds": "states the harmful effect",
+     "morph": "3.sg.act.optative (√hṛ)"
+    }
+   ],
+   "question": "What losses can an improperly handled diagram cause?",
+   "premises": [
+    "A diagram is the subject.",
+    "Prosperity is mentioned as taken away.",
+    "Progeny is mentioned as taken away."
+   ],
+   "inference": "The diagram can take away prosperity and progeny.",
+   "uncertainties": [
+    "The condition causing this harm is implied by context rather than stated explicitly."
+   ],
+   "plain_english": "This diagram takes away prosperity and progeny."
+  },
+  {
+   "verse": 1561,
+   "rows": [
+    {
+     "surface": "mohena",
+     "gloss": "by-delusion",
+     "grounds": "cause of the destructive act",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "one-should-destroy",
+     "grounds": "action leading to ruin",
+     "morph": "3.sg.act.caus.optative (√naś)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessor affected by the act",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "points to the consequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulam",
+     "gloss": "family",
+     "grounds": "entity destroyed",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What consequence follows if one destroys it through delusion?",
+   "premises": [
+    "Destruction may occur through delusion.",
+    "The affected person is indicated.",
+    "The family is named as destroyed."
+   ],
+   "inference": "If one destroys it out of delusion, that person's family is destroyed.",
+   "uncertainties": [
+    "The object of nāśayet is implied from the previous verse."
+   ],
+   "plain_english": "If one destroys it out of delusion, that person's family is ruined."
+  },
+  {
+   "verse": 1562,
+   "rows": [
+    {
+     "surface": "kartavyam",
+     "gloss": "to-be-made",
+     "grounds": "prescribes construction",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "arcā",
+     "gloss": "worship",
+     "grounds": "purpose of the pedestal",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "pedestal",
+     "grounds": "object to be made",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manaḥ",
+     "gloss": "mind",
+     "grounds": "object captivated",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "haram",
+     "gloss": "captivating",
+     "grounds": "describes the pedestal's quality",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What kind of worship pedestal should be constructed?",
+   "premises": [
+    "A pedestal is to be made.",
+    "It is for worship.",
+    "It should be captivating to the mind."
+   ],
+   "inference": "One should make a mind-captivating pedestal for worship.",
+   "uncertainties": [],
+   "plain_english": "A captivating worship pedestal should be made."
+  },
+  {
+   "verse": 1563,
+   "rows": [
+    {
+     "surface": "nirmāṇaṃ",
+     "gloss": "construction",
+     "grounds": "act to be carried out",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "qualifies the circle",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "cakrasya",
+     "gloss": "circle",
+     "grounds": "object to be constructed",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "prescribes commissioning the construction",
+     "morph": "3.sg.act.caus.optative (√kṛ)"
+    }
+   ],
+   "question": "What construction must one have carried out for the worship circle?",
+   "premises": [
+    "Construction is the required act.",
+    "The object is the worship circle.",
+    "One should cause it to be done."
+   ],
+   "inference": "One should have the worship circle constructed.",
+   "uncertainties": [],
+   "plain_english": "One should have the worship circle constructed."
+  },
+  {
+   "verse": 1564,
+   "rows": [
+    {
+     "surface": "śrīparṇī",
+     "gloss": "śrīparṇī",
+     "grounds": "first material named",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "candana",
+     "gloss": "sandalwood",
+     "grounds": "second material named",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādīnām",
+     "gloss": "and-so-forth",
+     "grounds": "extends the list of materials",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "adhikaṃ",
+     "gloss": "excess",
+     "grounds": "possible surplus in materials",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "introduces a condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates fault",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "doṣa",
+     "gloss": "fault",
+     "grounds": "potential defect",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛt",
+     "gloss": "causing",
+     "grounds": "indicates producing fault",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Does using extra śrīparṇī, sandalwood, or similar materials create fault?",
+   "premises": [
+    "Śrīparṇī, sandalwood, and similar materials are mentioned.",
+    "There may be an excess of them.",
+    "Such excess does not cause fault."
+   ],
+   "inference": "An excess of śrīparṇī, sandalwood, and similar materials is not faulty.",
+   "uncertainties": [],
+   "plain_english": "If there is an excess of śrīparṇī, sandalwood, and similar materials, it does not cause any fault."
+  },
+  {
+   "verse": 1565,
+   "rows": [
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "prescribes commissioning the act",
+     "morph": "3.sg.act.caus.optative (√kṛ)"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "refers to the materials mentioned",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sati",
+     "gloss": "when-existing",
+     "grounds": "condition of availability",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tithi",
+     "gloss": "lunar-day",
+     "grounds": "first timing factor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-so-forth",
+     "grounds": "extends timing considerations",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kekṣaṇe",
+     "gloss": "consideration",
+     "grounds": "act of taking timing into account",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Under what timing considerations should one have it made when materials exist?",
+   "premises": [
+    "One should have the work done.",
+    "The materials are available.",
+    "Lunar day and similar factors must be considered."
+   ],
+   "inference": "When these materials are available, one should have it made with consideration of lunar day and related factors.",
+   "uncertainties": [
+    "The exact object of kārayet is implied from context."
+   ],
+   "plain_english": "When these materials are available, one should have it made with due consideration of the lunar day and other such factors."
+  },
+  {
+   "verse": 1566,
+   "rows": [
+    {
+     "surface": "abhiṣicya",
+     "gloss": "having-sprinkled",
+     "grounds": "preparatory consecration act",
+     "morph": "gerund (abhi-√sic)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "marks sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "toyena",
+     "gloss": "with-water",
+     "grounds": "substance used for sprinkling",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kvathitena",
+     "gloss": "boiled",
+     "grounds": "qualifies the water",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vara",
+     "gloss": "excellent",
+     "grounds": "qualifies the herbs",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "auṣadhaiḥ",
+     "gloss": "herbs",
+     "grounds": "ingredients boiled in the water",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "With what prepared substance should the object be sprinkled first?",
+   "premises": [
+    "Sprinkling is prescribed.",
+    "The sprinkling uses water.",
+    "The water is boiled with excellent herbs."
+   ],
+   "inference": "The object should first be sprinkled with water boiled with excellent herbs.",
+   "uncertainties": [],
+   "plain_english": "Then, having sprinkled it with water boiled with excellent herbs,"
+  },
+  {
+   "verse": 1567,
+   "rows": [
+    {
+     "surface": "gandha",
+     "gloss": "fragrance",
+     "grounds": "first offering item",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "puṣpaiḥ",
+     "gloss": "flowers",
+     "grounds": "offering item",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "navaiḥ",
+     "gloss": "new",
+     "grounds": "qualifies incense",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dhūpaiḥ",
+     "gloss": "incense",
+     "grounds": "offering item",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dīpaiḥ",
+     "gloss": "lamps",
+     "grounds": "offering item",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "naivedya",
+     "gloss": "food-offering",
+     "grounds": "offering item",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "darpaṇau",
+     "gloss": "mirror",
+     "grounds": "offering item",
+     "morph": "m.inst.du"
+    }
+   ],
+   "question": "Which offerings accompany the worship after the sprinkling?",
+   "premises": [
+    "Fragrance and flowers are used.",
+    "New incense and lamps are used.",
+    "Food offering and mirrors are included."
+   ],
+   "inference": "The worship is accompanied by fragrance, flowers, new incense, lamps, food offering, and mirrors.",
+   "uncertainties": [
+    "The dual darpaṇau may imply a pair of mirrors or a specific ritual pairing."
+   ],
+   "plain_english": "with fragrance, flowers, fresh incense, lamps, food offerings, and mirrors,"
+  },
+  {
+   "verse": 1568,
+   "rows": [
+    {
+     "surface": "pañcabhiḥ",
+     "gloss": "with-five",
+     "grounds": "refers to the fivefold offerings",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yuktāḥ",
+     "gloss": "endowed",
+     "grounds": "describes those equipped with the offerings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "careyuḥ",
+     "gloss": "they-should-perform",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.pl.act.optative (√car)"
+    },
+    {
+     "surface": "vāmi",
+     "gloss": "left-hand",
+     "grounds": "qualifies the worship mode",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the worship mode",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcanam",
+     "gloss": "worship",
+     "grounds": "ritual act to be performed",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should those equipped with the five offerings perform the worship?",
+   "premises": [
+    "The practitioners are endowed with the five offerings.",
+    "They should perform worship.",
+    "The worship is not of the left-hand mode."
+   ],
+   "inference": "Those equipped with the five offerings should perform worship, but not in the left-hand mode.",
+   "uncertainties": [],
+   "plain_english": "endowed with these five, they should perform the worship, but not in the left-hand mode."
+  },
+  {
+   "verse": 1569,
+   "rows": [
+    {
+     "surface": "dina",
+     "gloss": "day",
+     "grounds": "time unit",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "number of days",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completes the initial period",
+     "morph": "gerund (√kṛ)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nitya",
+     "gloss": "daily",
+     "grounds": "qualifies the procedure",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kramaṃ",
+     "gloss": "procedure",
+     "grounds": "ongoing ritual sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "one-should-practice",
+     "grounds": "prescribes continued observance",
+     "morph": "3.sg.act.optative (√bhaj)"
+    }
+   ],
+   "question": "What practice should follow after performing the rite for three days?",
+   "premises": [
+    "The rite is performed for three days.",
+    "A transition follows that period.",
+    "A daily procedure is to be practiced."
+   ],
+   "inference": "After doing it for three days, one should follow the daily procedure.",
+   "uncertainties": [],
+   "plain_english": "Having done this for three days, one should then follow the daily procedure."
+  },
+  {
+   "verse": 1570,
+   "rows": [
+    {
+     "surface": "strī",
+     "gloss": "women",
+     "grounds": "first group named",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śūdrāṇāṃ",
+     "gloss": "śūdras",
+     "grounds": "second group named",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vāmināṃ",
+     "gloss": "left-hand-practitioners",
+     "grounds": "third group named",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects groups",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulikānām",
+     "gloss": "kaulas",
+     "grounds": "fourth group named",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "refers to the rule",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rule",
+     "grounds": "prescribed procedure",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "For which groups is this ritual rule prescribed?",
+   "premises": [
+    "Women and śūdras are named.",
+    "Left-hand practitioners and kaulas are named.",
+    "This is declared as the rule for them."
+   ],
+   "inference": "This rule applies to women, śūdras, left-hand practitioners, and kaulas.",
+   "uncertainties": [],
+   "plain_english": "This is the rule for women, śūdras, left-hand practitioners, and kaulas."
+  },
+  {
+   "verse": 1571,
+   "rows": [
+    {
+     "surface": "pāpa",
+     "gloss": "sin",
+     "grounds": "negative quality attributed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "viśeṣaṇam",
+     "gloss": "characterized",
+     "grounds": "marks characterization by sin",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "raghubhiḥ",
+     "gloss": "by-the-raghus",
+     "grounds": "agents associated with the characterization",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sandhyā",
+     "gloss": "twilight",
+     "grounds": "qualifies the worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vandana",
+     "gloss": "worship",
+     "grounds": "ritual act destroyed",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nāśitaiḥ",
+     "gloss": "destroyed",
+     "grounds": "describes those who have destroyed the worship",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What characterization applies to those who have destroyed twilight worship?",
+   "premises": [
+    "Twilight worship is mentioned.",
+    "It has been destroyed by certain agents.",
+    "They are characterized by sin."
+   ],
+   "inference": "Those who have destroyed twilight worship are characterized by sin.",
+   "uncertainties": [
+    "The role of raghubhiḥ in this context is unclear."
+   ],
+   "plain_english": "Those who have destroyed the twilight worship are characterized by sin."
+  },
+  {
+   "verse": 1572,
+   "rows": [
+    {
+     "surface": "vāmi",
+     "gloss": "left-hand",
+     "grounds": "qualifies the mode of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the mode of worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upāsitaṃ",
+     "gloss": "worshipped",
+     "grounds": "describes the diagram's consecration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the previously mentioned people",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dṛṣṭi",
+     "gloss": "sight",
+     "grounds": "visual field",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "pathaṃ",
+     "gloss": "path",
+     "grounds": "range reached by sight",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gatam",
+     "gloss": "gone",
+     "grounds": "indicates coming into view",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What restriction applies to a diagram not worshipped in the left-hand mode?",
+   "premises": [
+    "A diagram not worshipped in the left-hand mode is specified.",
+    "It comes into the path of their sight.",
+    "The context implies a restriction regarding those people."
+   ],
+   "inference": "A diagram not worshipped in the left-hand mode should not come within their sight.",
+   "uncertainties": [
+    "The prohibitive force is implied rather than explicitly stated."
+   ],
+   "plain_english": "A diagram not worshipped in the left-hand mode has come into their line of sight."
+  },
+  {
+   "verse": 1573,
+   "rows": [
+    {
+     "surface": "dakṣiṇa",
+     "gloss": "right-hand",
+     "grounds": "qualifies the mode of worship",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "upāsitaṃ",
+     "gloss": "worshipped",
+     "grounds": "describes the diagram's consecration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "diagram",
+     "grounds": "ritual object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sūrya",
+     "gloss": "sun",
+     "grounds": "first term of comparison",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "agni",
+     "gloss": "fire",
+     "grounds": "second term of comparison",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "sama",
+     "gloss": "equal",
+     "grounds": "marks equivalence in splendor",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tejasam",
+     "gloss": "splendor",
+     "grounds": "quality possessed by the diagram",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What splendor characterizes a diagram worshipped in the right-hand mode?",
+   "premises": [
+    "A diagram worshipped in the right-hand mode is specified.",
+    "Its splendor is compared to the sun and fire.",
+    "The comparison indicates equality."
+   ],
+   "inference": "A diagram worshipped in the right-hand mode has splendor equal to the sun and fire.",
+   "uncertainties": [],
+   "plain_english": "A diagram worshipped in the right-hand mode has splendor equal to that of the sun and fire."
+  },
+  {
+   "verse": 1574,
+   "rows": [
+    {
+     "surface": "nṛbhiḥ",
+     "gloss": "by-men",
+     "grounds": "agents who desire it",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "dina",
+     "gloss": "day",
+     "grounds": "qualifies the maker",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kara",
+     "gloss": "maker",
+     "grounds": "epithet referring to the sun",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "udayaḥ",
+     "gloss": "rising",
+     "grounds": "event desired",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvaiḥ",
+     "gloss": "by-all",
+     "grounds": "emphasizes universality of desire",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locates the statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "states the universal wish",
+     "morph": "3.sg.pass.present (√iṣ)"
+    }
+   ],
+   "question": "What universal desire among people is affirmed in this context?",
+   "premises": [
+    "The rising of the day-maker is mentioned.",
+    "All people are indicated as agents.",
+    "This rising is desired here."
+   ],
+   "inference": "All people here desire the rising of the sun.",
+   "uncertainties": [],
+   "plain_english": "Here, the rising of the sun is desired by all people."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p101",
+ "items": [
+  {
+   "verse": 2525,
+   "rows": [
+    {
+     "surface": "karkarīvaṃśajālāgraṃ",
+     "gloss": "karkarī-beam-lattice-top",
+     "grounds": "compound describing a roof feature with karkarī, beam, lattice, and top",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kūṭahīnaṃ",
+     "gloss": "without-pavilion",
+     "grounds": "compound adjective lacking a pavilion",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-lead",
+     "grounds": "optative of root nī",
+     "morph": "v.3.sg.act.opt (root nī)"
+    }
+   ],
+   "question": "Should a temple roof be finished with a karkarī-beam lattice top and no pavilion?",
+   "premises": [
+    "Roof may use karkarī-beam lattice top.",
+    "Roof may be without pavilion.",
+    "Builder should lead construction accordingly."
+   ],
+   "inference": "The verse permits an alternative roof form lacking a pavilion.",
+   "uncertainties": [
+    "Exact architectural referent of karkarī remains unclear."
+   ],
+   "plain_english": "Or one should lead it with a karkarī-beam lattice top, without a pavilion."
+  }
+ ]
+}

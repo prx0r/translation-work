@@ -1,0 +1,969 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1376,
+   "rows": [
+    {
+     "surface": "śivāṃśaṃ",
+     "gloss": "of-four-parts",
+     "grounds": "compound member; measure of śiva-parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃjaravyāsaṃ",
+     "gloss": "cage-width",
+     "grounds": "compound; breadth of the paṃjara",
+     "morph": "compound"
+    },
+    {
+     "surface": "karṇakūṭam",
+     "gloss": "corner-tower",
+     "grounds": "architectural element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparison particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākṛtiḥ",
+     "gloss": "form",
+     "grounds": "shape or appearance",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What form should the cage-width of four parts take in relation to the corner tower?",
+   "premises": [
+    "The cage-width measures four parts.",
+    "The corner tower provides a model of form.",
+    "The comparison establishes likeness of shape."
+   ],
+   "inference": "The cage of four parts in width should be shaped like the corner tower.",
+   "uncertainties": [],
+   "plain_english": "The cage, four parts in width, should have a form like that of the corner tower."
+  },
+  {
+   "verse": 1377,
+   "rows": [
+    {
+     "surface": "evamāditalaṃ",
+     "gloss": "thus-beginning-storey",
+     "grounds": "compound; the storey beginning in this manner",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "above",
+     "grounds": "directional adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rudrataloktavat",
+     "gloss": "as-stated-for-rudra-storey",
+     "grounds": "compound with comparative suffix -vat",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the storeys above the initial one be constructed in this design?",
+   "premises": [
+    "The initial storey is made in the manner described.",
+    "Upper storeys follow a prescribed model.",
+    "The model is that stated for the Rudra storey."
+   ],
+   "inference": "One should construct the storeys above the first in the same way as prescribed for the Rudra storey.",
+   "uncertainties": [],
+   "plain_english": "One should make the first storey in this way, and the storeys above it as stated for the Rudra storey."
+  },
+  {
+   "verse": 1378,
+   "rows": [
+    {
+     "surface": "dharātalodayabhūtāṃśaṃ",
+     "gloss": "ground-level-height-five-parts",
+     "grounds": "compound; five parts of the ground-level height",
+     "morph": "compound"
+    },
+    {
+     "surface": "navāṃśaṃ",
+     "gloss": "nine-parts",
+     "grounds": "division into nine parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "caraṇodayam",
+     "gloss": "base-height",
+     "grounds": "compound; height of the base or foot",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportional division determines the base height relative to the ground-level height?",
+   "premises": [
+    "The ground-level height is divided into parts including five.",
+    "The total division is into nine parts.",
+    "The base height is defined by this division."
+   ],
+   "inference": "The base height is determined as a nine-part division related to five parts of the ground-level height.",
+   "uncertainties": [
+    "The exact syntactic relation among the compound members is compressed and may allow alternative proportional readings."
+   ],
+   "plain_english": "Taking five parts of the ground-level height as nine parts gives the height of the base."
+  },
+  {
+   "verse": 1379,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "concluding adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhānutalaṃ",
+     "gloss": "sun-storey",
+     "grounds": "compound; the Bhānu storey",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating completion of teaching",
+     "morph": "n.nom.sg.ppp √vac"
+    },
+    {
+     "surface": "trayodaśatalaṃ",
+     "gloss": "thirteen-storey",
+     "grounds": "compound; the thirteen-storeyed structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative addressing the listener",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What transition marks the completion of the sun-storey teaching and the start of the thirteen-storey teaching?",
+   "premises": [
+    "The sun-storey has been fully declared.",
+    "A new topic is introduced.",
+    "The listener is commanded to hear about the thirteen-storey design."
+   ],
+   "inference": "The teaching on the sun-storey is concluded and the exposition of the thirteen-storey design begins.",
+   "uncertainties": [],
+   "plain_english": "Thus the sun-storey has been declared; now hear about the thirteen-storeyed structure."
+  },
+  {
+   "verse": 1380,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "colophon compound naming the text and tradition",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhānubhūmividhi",
+     "gloss": "sun-storey-rule",
+     "grounds": "compound; rule for the Bhānu storey",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section heading",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭatriṃśaḥ",
+     "gloss": "thirty-eighth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa text concludes the rules for the sun-storey?",
+   "premises": [
+    "The colophon identifies the Aṃśumān Kāśyapa text.",
+    "The subject is the rule for the sun-storey.",
+    "The chapter is numbered thirty-eighth."
+   ],
+   "inference": "The thirty-eighth chapter of the Aṃśumān Kāśyapa, on the rule for the sun-storey, concludes here.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the thirty-eighth chapter, on the rule for the sun-storey, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 1381,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the structure under discussion",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "vistāra",
+     "gloss": "breadth",
+     "grounds": "dimension",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tuṃgaṃ",
+     "gloss": "height",
+     "grounds": "dimension",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāsādamānavadgṛham",
+     "gloss": "house-as-per-temple-measure",
+     "grounds": "compound; building measured like a temple",
+     "morph": "compound"
+    }
+   ],
+   "question": "By what standard are the breadth and height of this structure to be determined?",
+   "premises": [
+    "The structure has breadth and height.",
+    "A standard of measurement is required.",
+    "The standard is that of temple measurement."
+   ],
+   "inference": "The breadth and height of that structure should follow the standard measures of a temple.",
+   "uncertainties": [
+    "The exact compound analysis of prāsādamānavadgṛham is compact; taken as 'house according to temple measure'."
+   ],
+   "plain_english": "Its breadth and height should be those of a building measured according to temple standards."
+  },
+  {
+   "verse": 1382,
+   "rows": [
+    {
+     "surface": "guṇāṃśaṃ",
+     "gloss": "three-parts",
+     "grounds": "compound; guṇa as three",
+     "morph": "compound"
+    },
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "sanctum",
+     "grounds": "inner chamber",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣāṃśaṃ",
+     "gloss": "two-parts",
+     "grounds": "compound; pakṣa as two",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhapiṇḍikā",
+     "gloss": "house-pedestal",
+     "grounds": "compound; the pedestal or base mass of the house",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are assigned to the sanctum and the house pedestal?",
+   "premises": [
+    "The sanctum is assigned a measure in parts.",
+    "The house pedestal is assigned a measure in parts.",
+    "The measures are three parts and two parts respectively."
+   ],
+   "inference": "The sanctum should be three parts and the house pedestal two parts.",
+   "uncertainties": [],
+   "plain_english": "The sanctum should be three parts, and the house pedestal two parts."
+  },
+  {
+   "verse": 1383,
+   "rows": [
+    {
+     "surface": "tadbāhye",
+     "gloss": "outside-that",
+     "grounds": "compound; outside of that",
+     "morph": "compound"
+    },
+    {
+     "surface": "alindamekāṃśaṃ",
+     "gloss": "verandah-one-part",
+     "grounds": "compound; verandah of one part",
+     "morph": "compound"
+    },
+    {
+     "surface": "hārābhāgena",
+     "gloss": "by-gallery-division",
+     "grounds": "compound; by the division of the gallery",
+     "morph": "compound"
+    },
+    {
+     "surface": "deśika",
+     "gloss": "o-teacher",
+     "grounds": "vocative address to the ācārya",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What measure and placement are prescribed for the verandah outside the main structure?",
+   "premises": [
+    "The verandah is placed outside the previously defined area.",
+    "Its measure is one part.",
+    "Its division relates to the gallery."
+   ],
+   "inference": "Outside that, O teacher, the verandah should be one part, divided according to the gallery.",
+   "uncertainties": [
+    "The precise force of hārābhāgena in this context is somewhat compressed."
+   ],
+   "plain_english": "Outside that, O teacher, make the verandah one part, according to the division of the gallery."
+  },
+  {
+   "verse": 1384,
+   "rows": [
+    {
+     "surface": "vinyāsasūtrayorantaḥ",
+     "gloss": "between-layout-lines",
+     "grounds": "compound; between the two layout lines",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekonaviṃśadaṃśakaiḥ",
+     "gloss": "with-nineteen-parts",
+     "grounds": "compound; by parts numbering nineteen",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many parts should divide the space between the two layout lines?",
+   "premises": [
+    "The space is bounded by two layout lines.",
+    "This space requires proportional division.",
+    "The division is into nineteen parts."
+   ],
+   "inference": "The interval between the two layout lines should be divided into nineteen parts.",
+   "uncertainties": [],
+   "plain_english": "Between the two layout lines, divide the space into nineteen parts."
+  },
+  {
+   "verse": 1385,
+   "rows": [
+    {
+     "surface": "pakṣaśālā",
+     "gloss": "side-hall",
+     "grounds": "compound; wing hall",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattulyaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "compound; equal in measure to that",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekāṃśaṃ",
+     "gloss": "one-part",
+     "grounds": "measure of one part",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃjarasya",
+     "gloss": "of-cage",
+     "grounds": "of the paṃjara element",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measures are specified for the side hall and the cage element?",
+   "premises": [
+    "The side hall has a defined measure.",
+    "The cage element has a defined measure.",
+    "The side hall is equal to that measure and the cage is one part."
+   ],
+   "inference": "The side hall should be equal to that, and the cage should be one part.",
+   "uncertainties": [
+    "The antecedent of tattulyaṃ is context-dependent within the surrounding passage."
+   ],
+   "plain_english": "The side hall should be equal to that, and the cage should be one part."
+  },
+  {
+   "verse": 1386,
+   "rows": [
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage",
+     "grounds": "architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇakūṭābhaṃ",
+     "gloss": "resembling-corner-tower",
+     "grounds": "compound; similar in appearance to corner tower",
+     "morph": "compound"
+    },
+    {
+     "surface": "tasyābhaṃ",
+     "gloss": "resembling-that",
+     "grounds": "compound; similar in appearance to that",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṣudrapaṃjaram",
+     "gloss": "small-cage",
+     "grounds": "compound; minor cage element",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What visual resemblance governs the forms of the cage and the small cage?",
+   "premises": [
+    "The cage has a prescribed appearance.",
+    "The small cage has a prescribed appearance.",
+    "Both are defined by resemblance to the corner tower or to that form."
+   ],
+   "inference": "The cage should resemble the corner tower, and the small cage should resemble that.",
+   "uncertainties": [],
+   "plain_english": "The cage should resemble the corner tower, and the small cage should resemble it."
+  },
+  {
+   "verse": 1387,
+   "rows": [
+    {
+     "surface": "catvāriṃśaddvayādhikya",
+     "gloss": "forty-plus-two",
+     "grounds": "compound; forty increased by two",
+     "morph": "compound"
+    },
+    {
+     "surface": "śatāṃśe",
+     "gloss": "in-hundred-parts",
+     "grounds": "compound; in a division of hundred parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "sadanodayam",
+     "gloss": "building-height",
+     "grounds": "compound; height of the building",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the total building height proportioned within a hundred-part division?",
+   "premises": [
+    "The total height is measured by parts.",
+    "The division is based on one hundred parts.",
+    "The specified portion is forty-two parts."
+   ],
+   "inference": "The building height should be set at forty-two parts out of a hundred.",
+   "uncertainties": [
+    "The compound sadanodayam is taken as building height; exact syntactic role is compact."
+   ],
+   "plain_english": "In a division of one hundred parts, the building height should be forty-two parts."
+  },
+  {
+   "verse": 1388,
+   "rows": [
+    {
+     "surface": "bhūtāṃśaṃ",
+     "gloss": "five-parts",
+     "grounds": "compound; bhūta as five",
+     "morph": "compound"
+    },
+    {
+     "surface": "maṃcamānaṃ",
+     "gloss": "platform-measure",
+     "grounds": "compound; measure of the platform",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "the remaining portion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvādaśabhūmivat",
+     "gloss": "as-twelve-storey",
+     "grounds": "compound with comparative suffix -vat",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should the platform measure and the remaining structure be determined in this design?",
+   "premises": [
+    "The platform measure is specified as five parts.",
+    "A remainder of the structure remains to be defined.",
+    "The remainder follows the twelve-storey model."
+   ],
+   "inference": "The platform should be five parts, and the rest should follow the twelve-storey design.",
+   "uncertainties": [],
+   "plain_english": "The platform measure should be five parts, and the remainder should be as in the twelve-storeyed structure."
+  },
+  {
+   "verse": 1389,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "colophon compound naming the text and tradition",
+     "morph": "compound"
+    },
+    {
+     "surface": "trayodaśabhūmividhipaṭalaḥ",
+     "gloss": "thirteen-storey-rule-chapter",
+     "grounds": "compound; chapter on the rule for thirteen storeys",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekonacatvāriṃśaḥ",
+     "gloss": "thirty-ninth",
+     "grounds": "ordinal number, one less than forty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter of the Aṃśumān Kāśyapa text concludes the rules for the thirteen-storey structure?",
+   "premises": [
+    "The colophon identifies the Aṃśumān Kāśyapa text.",
+    "The subject is the rule for the thirteen-storey structure.",
+    "The chapter is numbered thirty-ninth."
+   ],
+   "inference": "The thirty-ninth chapter of the Aṃśumān Kāśyapa, on the rule for the thirteen-storey structure, concludes here.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the thirty-ninth chapter, on the rule for the thirteen-storeyed structure, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 1390,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "sequential manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-planned",
+     "grounds": "absolutive indicating prior planning",
+     "morph": "gerund √kḷp"
+    },
+    {
+     "surface": "paṃcālīndasamanvitam",
+     "gloss": "endowed-with-five-rows",
+     "grounds": "compound; provided with five rows or lines",
+     "morph": "compound"
+    }
+   ],
+   "question": "What preliminary planning is required before arranging the structure with five rows?",
+   "premises": [
+    "The arrangement must follow a sequence.",
+    "Planning precedes construction.",
+    "The structure is to be endowed with five rows."
+   ],
+   "inference": "One should plan in due order a structure endowed with five rows.",
+   "uncertainties": [
+    "The exact architectural meaning of paṃcālīnda is uncertain; taken as five rows or lines."
+   ],
+   "plain_english": "Thus, having planned in order, one should arrange it endowed with five rows."
+  },
+  {
+   "verse": 1391,
+   "rows": [
+    {
+     "surface": "garbhagehaṃ",
+     "gloss": "sanctum",
+     "grounds": "inner chamber",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rasāṃśaṃ",
+     "gloss": "six-parts",
+     "grounds": "compound; rasa as six",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vedāṃśaṃ",
+     "gloss": "four-parts",
+     "grounds": "compound; veda as four",
+     "morph": "compound"
+    },
+    {
+     "surface": "gṛhapiṇḍikā",
+     "gloss": "house-pedestal",
+     "grounds": "compound; pedestal or base mass",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What proportional measures are assigned to the sanctum and the house pedestal in this arrangement?",
+   "premises": [
+    "The sanctum is assigned a measure in parts.",
+    "The house pedestal is assigned a measure in parts.",
+    "The measures are six parts and four parts respectively."
+   ],
+   "inference": "The sanctum should be six parts and the house pedestal four parts.",
+   "uncertainties": [],
+   "plain_english": "The sanctum should be six parts, and the house pedestal four parts."
+  },
+  {
+   "verse": 1392,
+   "rows": [
+    {
+     "surface": "ekadvitricatuṣpaṃca",
+     "gloss": "one-two-three-four-five",
+     "grounds": "compound listing successive numbers",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-storey",
+     "grounds": "locative of level or storey",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dharātale",
+     "gloss": "on-ground-level",
+     "grounds": "compound; on the ground floor",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "At which storey levels or ground level may the prescribed arrangement be applied?",
+   "premises": [
+    "Multiple storey levels are possible.",
+    "The levels range from one to five.",
+    "The ground level is also an option."
+   ],
+   "inference": "The arrangement may be applied on the first through fifth storeys or on the ground level.",
+   "uncertainties": [],
+   "plain_english": "On the first, second, third, fourth, or fifth storey, or else on the ground level."
+  },
+  {
+   "verse": 1393,
+   "rows": [
+    {
+     "surface": "devasthāpanabhūmyantaṃ",
+     "gloss": "up-to-deity-installation-level",
+     "grounds": "compound; up to the level of deity installation",
+     "morph": "compound"
+    },
+    {
+     "surface": "yāvattāvadghanaṃ",
+     "gloss": "as-much-so-much-solid",
+     "grounds": "compound; solid to the same extent",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative instruction",
+     "morph": "2.sg.imp.act √kṛ"
+    }
+   ],
+   "question": "To what extent should the structure be made solid up to the deity installation level?",
+   "premises": [
+    "There is a level designated for deity installation.",
+    "The solidity of the structure must be specified.",
+    "The extent of solidity corresponds to that extent."
+   ],
+   "inference": "Make the structure solid up to the deity installation level to that same extent.",
+   "uncertainties": [
+    "The correlative yāvattāvadghanaṃ is terse; interpreted as making it solid throughout that extent."
+   ],
+   "plain_english": "Make it solid all the way up to the level where the deity is installed."
+  },
+  {
+   "verse": 1394,
+   "rows": [
+    {
+     "surface": "alindaṃ",
+     "gloss": "verandah",
+     "grounds": "architectural element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lajapādaṃ",
+     "gloss": "with-bracket-foot",
+     "grounds": "compound; having a projecting foot or bracket",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chāditaṃ",
+     "gloss": "covered",
+     "grounds": "past participle",
+     "morph": "n.acc.sg.ppp √chad"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tulādibhiḥ",
+     "gloss": "with-beams-etc",
+     "grounds": "compound; with beams and similar elements",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative constructions are permitted for the verandah in this design?",
+   "premises": [
+    "The verandah can be constructed in different ways.",
+    "One option involves a bracket-foot form.",
+    "Another option involves being covered with beams and similar elements."
+   ],
+   "inference": "The verandah may be made with a bracket-foot or covered with beams and the like.",
+   "uncertainties": [
+    "The exact meaning of lajapādaṃ is uncertain in this architectural context."
+   ],
+   "plain_english": "The verandah may be made with a bracket-foot, or covered with beams and such elements."
+  },
+  {
+   "verse": 1395,
+   "rows": [
+    {
+     "surface": "vyāse",
+     "gloss": "in-breadth",
+     "grounds": "locative of dimension",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "veditriṃśāṃśe",
+     "gloss": "in-thirty-three-parts",
+     "grounds": "compound; in a division of thirty-three parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "karṇakūṭaṃ",
+     "gloss": "corner-tower",
+     "grounds": "architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivāṃśakam",
+     "gloss": "of-four-parts",
+     "grounds": "compound; measuring four parts",
+     "morph": "compound"
+    }
+   ],
+   "question": "What proportion of the breadth is assigned to the corner tower in a thirty-three-part division?",
+   "premises": [
+    "The breadth is divided into thirty-three parts.",
+    "The corner tower occupies a portion of this breadth.",
+    "That portion is four parts."
+   ],
+   "inference": "In a breadth divided into thirty-three parts, the corner tower should be four parts.",
+   "uncertainties": [],
+   "plain_english": "In the breadth divided into thirty-three parts, the corner tower should be four parts."
+  },
+  {
+   "verse": 1396,
+   "rows": [
+    {
+     "surface": "tayormadhye",
+     "gloss": "between-those-two",
+     "grounds": "compound; in the middle of those two",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "instrumental of measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śālādīrgham",
+     "gloss": "hall-length",
+     "grounds": "compound; length of the hall",
+     "morph": "compound"
+    },
+    {
+     "surface": "udāhṛtam",
+     "gloss": "stated",
+     "grounds": "past participle indicating prescription",
+     "morph": "n.nom.sg.ppp √hṛ"
+    }
+   ],
+   "question": "How is the length of the hall determined between the two corner towers?",
+   "premises": [
+    "There are two reference elements with a space between them.",
+    "The hall length is measured in that space.",
+    "The measure is two parts."
+   ],
+   "inference": "The length of the hall between those two is stated to be two parts.",
+   "uncertainties": [],
+   "plain_english": "Between those two, the length of the hall is stated to be two parts."
+  },
+  {
+   "verse": 1397,
+   "rows": [
+    {
+     "surface": "tayormadhye",
+     "gloss": "between-those-two",
+     "grounds": "compound; in the middle of those two",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhāṃśena",
+     "gloss": "by-one-part",
+     "grounds": "compound; by a single part (vidhi as one)",
+     "morph": "compound"
+    },
+    {
+     "surface": "paṃjaraṃ",
+     "gloss": "cage",
+     "grounds": "architectural element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karṇakūṭavat",
+     "gloss": "like-corner-tower",
+     "grounds": "compound with comparative suffix -vat",
+     "morph": "compound"
+    }
+   ],
+   "question": "What measure and form are prescribed for the cage placed between those two elements?",
+   "premises": [
+    "The cage is placed between the two elements.",
+    "Its measure is one part.",
+    "Its form is like the corner tower."
+   ],
+   "inference": "Between those two, the cage should be one part and shaped like the corner tower.",
+   "uncertainties": [],
+   "plain_english": "Between those two, the cage should be one part, shaped like the corner tower."
+  },
+  {
+   "verse": 1398,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.opt.act √kḷp"
+    },
+    {
+     "surface": "ādibhūmiśālāṣṭaviṃśatiḥ",
+     "gloss": "first-storey-halls-twenty-eight",
+     "grounds": "compound; twenty-eight halls on the first storey",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many halls should be arranged on the first storey according to this plan?",
+   "premises": [
+    "The arrangement follows the prescribed manner.",
+    "The first storey contains halls.",
+    "The number of halls is twenty-eight."
+   ],
+   "inference": "One should thus arrange twenty-eight halls on the first storey.",
+   "uncertainties": [],
+   "plain_english": "Thus one should indeed arrange twenty-eight halls on the first storey."
+  },
+  {
+   "verse": 1399,
+   "rows": [
+    {
+     "surface": "savedaṣaṣṭi",
+     "gloss": "with-four-sixty",
+     "grounds": "compound; sixty-four (sixty with four)",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃkhyāḥ",
+     "gloss": "numbers",
+     "grounds": "counts or quantities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "hārāntaraṃ",
+     "gloss": "gallery-intervals",
+     "grounds": "compound; spaces between galleries",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "o-best-twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "How many gallery intervals should be established according to this prescription?",
+   "premises": [
+    "The gallery intervals are to be counted.",
+    "The prescribed number is sixty-four.",
+    "The instruction is addressed to the best of the twice-born."
+   ],
+   "inference": "O best of the twice-born, the gallery intervals should number sixty-four.",
+   "uncertainties": [],
+   "plain_english": "O best of the twice-born, the gallery intervals should be sixty-four in number."
+  }
+ ]
+}

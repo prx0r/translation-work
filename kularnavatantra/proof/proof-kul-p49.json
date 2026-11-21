@@ -1,0 +1,83 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "kul-p49",
+ "work": "kularnavatantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v1205 ratio=0.793"
+ ],
+ "warnings": [
+  "METACOMMENTARY ['the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)']"
+ ],
+ "mode": "shastra",
+ "source_sha": "ff2e12bea4183f47",
+ "source_digest_normalized_sha256": "ff2e12bea4183f4700e91666b8b80b2d88f5b4a5d9156f0b02175a526affcaac",
+ "source_sha256_raw": "b86ea0b3c225555b0480ab444f7c4760f30e908aa77b18f5295268f40c13c05f",
+ "source_sha256_raw_file": "/root/translation-work/kularnavatantra/source/edition.txt",
+ "source_verses": 25,
+ "t1_verses": 25,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 113
+ },
+ "align": {
+  "min_ratio": 0.793,
+  "sub090": {
+   "1205": {
+    "ratio": 0.793,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 58,
+ "c1_metacommentary": [
+  "the (verse|hymn|stotra|stanza|passage|text|song) (has|describes|quotes|opens|closes|does|shows|says|argues)"
+ ],
+ "l2_cites": {
+  "checked": 25,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "counts": {
+   "t1": 25,
+   "l0": 113,
+   "argmap": 25,
+   "l2": 25,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: word-order/gloss vs source for v1205"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "f4ba5f6d02a5f7a8e93d1150fbda6f311cfb7fbb9372bf7c55507c30dd14874f",
+  "l0": "8561078eea2f3ebc302661e7c838f63ac5c1f2a14c8bc71ec855acd4d88f698a",
+  "argmap": "77549db38edde292f0a7c29abfa0a0a7b6985dd153be4e4970494cea0c5928c3",
+  "l2": "c342894c1c36909d80d43241aae4971861196e8aa99d8124e0ba410936b59131",
+  "c1": "345234c2c52ac3ef46c20d991e5a8fdaf82acc1896881260195ba87b6c641ed0"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "ff2e12bea4183f47",
+  "t1": "kul-p49/data/kul-p49.t1.json",
+  "l0": "kul-p49/data/kul-p49.l0.json",
+  "l2": "kul-p49/data/kul-p49.l2.json",
+  "c1": "kul-p49/data/kul-p49.c1.json"
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "song": "mukta-m0-p96",
+ "items": [
+  {
+   "verse": 2400,
+   "rows": [
+    {
+     "surface": "nāmaikonā'śītitamo'dhyāyaḥ",
+     "gloss": "named-seventy-ninth-chapter",
+     "grounds": "fused sandhi colophon token; @ marks fusion points; ordinal ekonāśīti = seventy-nine; adhyāya = chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ordinal number does this colophon assign to the chapter?",
+   "premises": [
+    "colophon token names chapter",
+    "ordinal ekonāśīti means seventy-nine",
+    "adhyāya means chapter"
+   ],
+   "inference": "therefore this is chapter seventy-nine",
+   "uncertainties": [
+    "sandhi fusion points not expanded",
+    "exact editorial punctuation retained"
+   ],
+   "plain_english": "This is the seventy-ninth chapter."
+  }
+ ]
+}

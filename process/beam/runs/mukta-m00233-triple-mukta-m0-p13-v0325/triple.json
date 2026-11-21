@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "triphalāmbhaśca",
+     "gloss": "triphala-water-and",
+     "grounds": "triphala water with conjunction ca",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "tryaṃśādikamidaṃ",
+     "gloss": "three-parts-etc-this",
+     "grounds": "three-part mixture and following items, this",
+     "morph": "compound+pronoun"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "sequential order",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What sequence and proportions should the triphala water and three-part mixture be added?",
+   "premises": [
+    "triphala water is included",
+    "three-part mixture follows",
+    "order is specified"
+   ],
+   "inference": "The recipe proceeds by adding triphala water then the three-part mixture in order.",
+   "uncertainties": [
+    "exact proportions are not fully specified by this verse alone"
+   ],
+   "plain_english": "Add triphala water and the three-part mixture in order."
+  }
+ ]
+}

@@ -1,0 +1,303 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1532,
+   "rows": [
+    {
+     "surface": "tripaṃca",
+     "gloss": "three-five",
+     "grounds": "numerical compound indicating fifteen",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-number",
+     "grounds": "instrument of enumeration",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "harmyāṇāṃ",
+     "gloss": "of-palaces",
+     "grounds": "genitive plural of harmya",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃjñakam",
+     "gloss": "named",
+     "grounds": "designation or appellation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What numerical designation defines the classification of the palaces?",
+   "premises": [
+    "The palaces are classified by a specific number.",
+    "The number three-five is explicitly stated.",
+    "This number serves as the declared designation."
+   ],
+   "inference": "The palaces are designated by the numerical count of three-five.",
+   "uncertainties": [],
+   "plain_english": "The designation of the palaces is declared by the number three-five."
+  },
+  {
+   "verse": 1533,
+   "rows": [
+    {
+     "surface": "prāgvadeva",
+     "gloss": "as-before",
+     "grounds": "comparative reference to prior statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sālasaṃkhyāḥ",
+     "gloss": "hall-counts",
+     "grounds": "compound denoting numbers of halls",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative of existence",
+     "morph": "3.pl.act-opt √as"
+    },
+    {
+     "surface": "harmyāṇāṃ",
+     "gloss": "of-palaces",
+     "grounds": "genitive plural of harmya",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "jātisaṃjñitā",
+     "gloss": "kind-named",
+     "grounds": "compound indicating designation by type",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are the hall-counts of the palaces designated by type?",
+   "premises": [
+    "The hall-counts of the palaces are under consideration.",
+    "They should be designated by kind.",
+    "This designation follows the earlier method."
+   ],
+   "inference": "The hall-counts of the palaces are to be named by type as before.",
+   "uncertainties": [],
+   "plain_english": "As before, the hall-counts of the palaces should be designated by their kinds."
+  },
+  {
+   "verse": 1534,
+   "rows": [
+    {
+     "surface": "paṃcaprākāram",
+     "gloss": "five-enclosure",
+     "grounds": "compound indicating five enclosures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triprākāram",
+     "gloss": "three-enclosure",
+     "grounds": "compound indicating three enclosures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequential particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "passive present of speaking",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "What enclosure configurations are prescribed for the palace layout?",
+   "premises": [
+    "A configuration with five enclosures is mentioned.",
+    "A configuration with three enclosures is also mentioned.",
+    "Both configurations are formally stated."
+   ],
+   "inference": "The palace layout is described as having either five enclosures or three enclosures.",
+   "uncertainties": [],
+   "plain_english": "Thus, a five-enclosure layout is stated, and then a three-enclosure layout is also described."
+  },
+  {
+   "verse": 1535,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "remainder",
+     "grounds": "what remains",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhyantare",
+     "gloss": "inside",
+     "grounds": "locative of interior",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāhye",
+     "gloss": "outside",
+     "grounds": "locative of exterior",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "varjitau",
+     "gloss": "excluded",
+     "grounds": "past passive participle, dual",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "tattrisālakām",
+     "gloss": "that-three-halled",
+     "grounds": "compound referring to a three-halled structure",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which parts are excluded when forming the three-halled configuration?",
+   "premises": [
+    "A remainder is considered as an alternative.",
+    "Inner and outer parts may be excluded.",
+    "The result relates to a three-halled structure."
+   ],
+   "inference": "The three-halled configuration is formed by excluding the remainder or the inner and outer parts.",
+   "uncertainties": [
+    "The exact syntactic relation of tattrisālakām to the exclusions is somewhat ambiguous."
+   ],
+   "plain_english": "Alternatively, the remainder, or the inner and outer parts, are excluded in relation to that three-halled structure."
+  },
+  {
+   "verse": 1536,
+   "rows": [
+    {
+     "surface": "dvitīyaṃ",
+     "gloss": "second",
+     "grounds": "ordinal number",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "ordinal number",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "grāhyaṃ",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive of taking",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śeṣāḥ",
+     "gloss": "remainders",
+     "grounds": "remaining ones",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "varjitāḥ",
+     "gloss": "excluded",
+     "grounds": "past passive participle",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which enclosures should be retained and which should be excluded?",
+   "premises": [
+    "Either the second or the third enclosure may be taken.",
+    "The remaining enclosures are treated separately.",
+    "The remaining ones are to be excluded."
+   ],
+   "inference": "The second or third enclosure is to be taken while the rest are excluded.",
+   "uncertainties": [],
+   "plain_english": "Either the second or the third should be taken, but the remaining ones are excluded."
+  },
+  {
+   "verse": 1537,
+   "rows": [
+    {
+     "surface": "tasyānukūlasaṃyuktaṃ",
+     "gloss": "to-that-suitably-joined",
+     "grounds": "compound indicating suitability in relation to that",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvisālaṃ",
+     "gloss": "two-halled",
+     "grounds": "compound indicating two halls",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃprakīrtitam",
+     "gloss": "proclaimed",
+     "grounds": "past passive participle of declaring",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What two-halled structure is proclaimed as suitably joined to that configuration?",
+   "premises": [
+    "A structure is described as suitably joined to that.",
+    "The structure is two-halled.",
+    "This structure is formally proclaimed."
+   ],
+   "inference": "A two-halled structure suitably joined to that configuration is proclaimed.",
+   "uncertainties": [
+    "The referent of 'that' (tasya) depends on the preceding context."
+   ],
+   "plain_english": "A two-halled structure, suitably joined to that, is proclaimed."
+  }
+ ]
+}

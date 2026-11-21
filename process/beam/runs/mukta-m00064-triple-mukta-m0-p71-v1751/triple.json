@@ -1,0 +1,1187 @@
+{
+ "song": "mukta-m0-p71",
+ "items": [
+  {
+   "verse": 1751,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to deceased",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṛta+cūḍāḥ",
+     "gloss": "not-done-tonsure",
+     "grounds": "compound describing those without tonsure rite",
+     "morph": "compound=akṛta+cūḍāḥ; m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to deceased",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbhāt+viniḥsṛtāḥ",
+     "gloss": "from-womb-emerged",
+     "grounds": "compound describing those who emerged from womb",
+     "morph": "compound=garbhāt+viniḥsṛtāḥ; m.nom.pl"
+    }
+   ],
+   "question": "Which prematurely deceased beings are included among recipients of ritual offerings?",
+   "premises": [
+    "Some deceased never underwent the tonsure rite.",
+    "Some deceased emerged from the womb but died early.",
+    "Both groups are specified as recipients."
+   ],
+   "inference": "Prematurely deceased without tonsure and those who died at birth are included among the intended recipients.",
+   "uncertainties": [],
+   "plain_english": "Those who never had the tonsure rite performed, and those who emerged from the womb, are included."
+  },
+  {
+   "verse": 1752,
+   "rows": [
+    {
+     "surface": "bhūmau",
+     "gloss": "on-earth",
+     "grounds": "place where offering is given",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dattena",
+     "gloss": "by-given",
+     "grounds": "instrument of satisfaction",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "tṛpyantu",
+     "gloss": "may-be-satisfied",
+     "grounds": "wish for satisfaction of recipients",
+     "morph": "3.pl.impv.pass; √tṛp"
+    },
+    {
+     "surface": "tṛptā",
+     "gloss": "satisfied",
+     "grounds": "state after receiving offering",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yāntu",
+     "gloss": "may-go",
+     "grounds": "wish for attainment of destination",
+     "morph": "3.pl.impv.act; √yā"
+    },
+    {
+     "surface": "parāṃ",
+     "gloss": "supreme",
+     "grounds": "qualifies the final state",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gatim",
+     "gloss": "state",
+     "grounds": "destination or final condition",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What outcome is sought for recipients through offerings placed on the earth?",
+   "premises": [
+    "An offering is given on the earth.",
+    "The recipients are wished to be satisfied by it.",
+    "Satisfied recipients are wished to attain the supreme state."
+   ],
+   "inference": "Earthly offerings are intended to satisfy the recipients and lead them to the supreme state.",
+   "uncertainties": [],
+   "plain_english": "May they be satisfied by what is given on the earth, and being satisfied, may they go to the supreme state."
+  },
+  {
+   "verse": 1753,
+   "rows": [
+    {
+     "surface": "mātā",
+     "gloss": "mother",
+     "grounds": "maternal ancestor",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pitāmahī",
+     "gloss": "paternal-grandmother",
+     "grounds": "paternal grandmother",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates similar inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prapitāmahī",
+     "gloss": "great-grandmother",
+     "grounds": "paternal great-grandmother",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which female ancestors are explicitly named as recipients of the offering?",
+   "premises": [
+    "The mother is named.",
+    "The paternal grandmother is named.",
+    "The paternal great-grandmother is likewise named."
+   ],
+   "inference": "The offering explicitly includes the mother, paternal grandmother, and paternal great-grandmother.",
+   "uncertainties": [],
+   "plain_english": "The mother, the paternal grandmother, and likewise the paternal great-grandmother are included."
+  },
+  {
+   "verse": 1754,
+   "rows": [
+    {
+     "surface": "nihatāḥ",
+     "gloss": "slain",
+     "grounds": "those killed by violence",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to deceased",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Are victims of violent death included among those remembered in the rite?",
+   "premises": [
+    "The verse refers to those who were slain.",
+    "The relative pronoun marks them as a group.",
+    "They are included in the ongoing enumeration."
+   ],
+   "inference": "Those who were slain are included among the recipients of the rite.",
+   "uncertainties": [],
+   "plain_english": "And those who were slain are included."
+  },
+  {
+   "verse": 1755,
+   "rows": [
+    {
+     "surface": "agni+dagdhāḥ",
+     "gloss": "fire-burnt",
+     "grounds": "those cremated by fire",
+     "morph": "compound=agni+dagdhāḥ; m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to deceased",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kecit",
+     "gloss": "some",
+     "grounds": "indefinite subset",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na+agnidagdhāḥ",
+     "gloss": "not-fire-burnt",
+     "grounds": "those not cremated by fire",
+     "morph": "compound=na+agnidagdhāḥ; m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates parallel inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pare",
+     "gloss": "others",
+     "grounds": "another subset",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Does the manner of bodily disposal affect inclusion in the ritual remembrance?",
+   "premises": [
+    "Some deceased were burnt by fire.",
+    "Others were not burnt by fire.",
+    "Both groups are included in the enumeration."
+   ],
+   "inference": "Both cremated and uncremated dead are included regardless of bodily disposal.",
+   "uncertainties": [],
+   "plain_english": "Some who were burnt by fire, and likewise others who were not burnt by fire, are included."
+  },
+  {
+   "verse": 1756,
+   "rows": [
+    {
+     "surface": "paśu+yoni+gatā",
+     "gloss": "animal-womb-gone",
+     "grounds": "those reborn in animal wombs",
+     "morph": "compound=paśu+yoni+gatā; m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun referring to beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣi+kīṭa+sarīsṛpāḥ",
+     "gloss": "bird-insect-reptile",
+     "grounds": "compound listing other non-human births",
+     "morph": "compound=pakṣi+kīṭa+sarīsṛpāḥ; m.nom.pl"
+    }
+   ],
+   "question": "Are beings reborn in non-human forms included among the intended recipients?",
+   "premises": [
+    "Some have gone to animal wombs.",
+    "Birds, insects, and reptiles are also named.",
+    "These groups are included in the enumeration."
+   ],
+   "inference": "Beings reborn as animals, birds, insects, or reptiles are included among the recipients.",
+   "uncertainties": [],
+   "plain_english": "Those who have gone to animal wombs, and those born as birds, insects, or reptiles, are included."
+  },
+  {
+   "verse": 1757,
+   "rows": [
+    {
+     "surface": "asaṃkhya+jana+saṃsthā",
+     "gloss": "innumerable-people-abiding",
+     "grounds": "abiding among countless people or births",
+     "morph": "compound=asaṃkhya+jana+saṃsthā; m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "repeated relative pronoun for emphasis",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "nītā",
+     "gloss": "led",
+     "grounds": "brought under judgment or command",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yama+śāsanam",
+     "gloss": "yama-command",
+     "grounds": "the command or jurisdiction of Yama",
+     "morph": "compound=yama+śāsanam; n.acc.sg"
+    }
+   ],
+   "question": "Are beings under Yama's jurisdiction included within the scope of the offering?",
+   "premises": [
+    "Some abide among innumerable people or states.",
+    "They have been led to Yama's command.",
+    "They are included in the enumeration."
+   ],
+   "inference": "Beings brought under Yama's command are included among those addressed by the offering.",
+   "uncertainties": [
+    "asaṃkhya+jana+saṃsthā could mean abiding among countless people or in countless births"
+   ],
+   "plain_english": "Those abiding among innumerable people, whoever have been led under Yama's command, are included."
+  },
+  {
+   "verse": 1758,
+   "rows": [
+    {
+     "surface": "jāti+antara+sahasrāṇi",
+     "gloss": "birth-other-thousands",
+     "grounds": "thousands of other births",
+     "morph": "compound=jāti+antara+sahasrāṇi; n.acc.pl"
+    },
+    {
+     "surface": "bhramanti",
+     "gloss": "wander",
+     "grounds": "ongoing transmigration",
+     "morph": "3.pl.pres.act; √bhram"
+    },
+    {
+     "surface": "svena",
+     "gloss": "by-own",
+     "grounds": "one's own",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "karmaṇā",
+     "gloss": "by-action",
+     "grounds": "cause of wandering",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "What force drives beings to wander through thousands of other births?",
+   "premises": [
+    "Beings wander through thousands of other births.",
+    "This wandering is attributed to their own action.",
+    "No other cause is named here."
+   ],
+   "inference": "Wandering through countless births is driven by one's own karma.",
+   "uncertainties": [],
+   "plain_english": "They wander through thousands of other births because of their own karma."
+  },
+  {
+   "verse": 1759,
+   "rows": [
+    {
+     "surface": "anyeṣāṃ",
+     "gloss": "of-others",
+     "grounds": "other beings or places",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "yātanā+sthānāṃ",
+     "gloss": "torment-places",
+     "grounds": "places of suffering",
+     "morph": "compound=yātanā+sthānāṃ; n.gen.pl"
+    },
+    {
+     "surface": "pretaloka+nivāsinām",
+     "gloss": "spirit-world-dwellers",
+     "grounds": "inhabitants of the world of spirits",
+     "morph": "compound=pretaloka+nivāsinām; m.gen.pl"
+    }
+   ],
+   "question": "Which realms of suffering and spirit existence are encompassed by the offering?",
+   "premises": [
+    "Other places of torment are mentioned.",
+    "Dwellers in the world of spirits are mentioned.",
+    "These are included in the scope of recipients."
+   ],
+   "inference": "The offering extends to beings in places of torment and dwellers in the spirit world.",
+   "uncertainties": [
+    "syntactic connection to previous verse is implicit"
+   ],
+   "plain_english": "It includes others in places of torment and dwellers in the world of spirits."
+  },
+  {
+   "verse": 1760,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bāndhavā",
+     "gloss": "relatives",
+     "grounds": "kinsmen",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "abāndhavā",
+     "gloss": "non-relatives",
+     "grounds": "those not related",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "anya+janmani",
+     "gloss": "in-another-birth",
+     "grounds": "in a different lifetime",
+     "morph": "compound=anya+janmani; n.loc.sg"
+    },
+    {
+     "surface": "bāndhavāḥ",
+     "gloss": "relatives",
+     "grounds": "kinsmen in another birth",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Does kinship in this life or another life determine eligibility for the offering?",
+   "premises": [
+    "Relatives and non-relatives are both mentioned.",
+    "Those who were relatives in another birth are mentioned.",
+    "All these groups are included."
+   ],
+   "inference": "Eligibility for the offering extends beyond present-life kinship to non-relatives and past-life relatives.",
+   "uncertainties": [],
+   "plain_english": "Whether they are relatives or not, or were relatives in another birth, they are included."
+  },
+  {
+   "verse": 1761,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "repeated relative pronoun for emphasis",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pitṛ+kule",
+     "gloss": "in-father-family",
+     "grounds": "paternal lineage",
+     "morph": "compound=pitṛ+kule; n.loc.sg"
+    },
+    {
+     "surface": "jātāḥ",
+     "gloss": "born",
+     "grounds": "born into a family",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kule",
+     "gloss": "in-family",
+     "grounds": "family or lineage",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "mātuḥ",
+     "gloss": "of-mother",
+     "grounds": "maternal relation",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "parallel inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are members of both paternal and maternal lineages covered by the offering?",
+   "premises": [
+    "Those born in the father's family are mentioned.",
+    "Those born in the mother's family are likewise mentioned.",
+    "Both lineages are included."
+   ],
+   "inference": "The offering covers those born in both the paternal and maternal families.",
+   "uncertainties": [],
+   "plain_english": "Whoever were born in the father's family, and likewise in the mother's family, are included."
+  },
+  {
+   "verse": 1762,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "repeated relative pronoun for emphasis",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kule",
+     "gloss": "in-family",
+     "grounds": "family or lineage",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lupta+piṇḍāḥ",
+     "gloss": "lost-rice-balls",
+     "grounds": "deprived of ancestral offerings",
+     "morph": "compound=lupta+piṇḍāḥ; m.nom.pl"
+    },
+    {
+     "surface": "putra+dāra+vivarjitāḥ",
+     "gloss": "son-wife-deprived",
+     "grounds": "lacking son and wife",
+     "morph": "compound=putra+dāra+vivarjitāḥ; m.nom.pl"
+    }
+   ],
+   "question": "Which neglected ancestors lacking descendants and offerings are included in the rite?",
+   "premises": [
+    "Some in the family have lost their rice-ball offerings.",
+    "Some are deprived of son and wife.",
+    "These neglected beings are included."
+   ],
+   "inference": "Ancestors deprived of offerings, sons, and wives are specifically included as recipients.",
+   "uncertainties": [],
+   "plain_english": "Whoever in the family have lost their rice-ball offerings and are deprived of son and wife are included."
+  },
+  {
+   "verse": 1763,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to all previously named recipients",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "rice-ball",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent making the offering",
+     "morph": "1.ins.sg"
+    },
+    {
+     "surface": "dattam",
+     "gloss": "given",
+     "grounds": "act of offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "akṣayyam",
+     "gloss": "imperishable",
+     "grounds": "enduring effect of offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "upatiṣṭhatām",
+     "gloss": "may-be-established",
+     "grounds": "wish that offering be present for them",
+     "morph": "3.sg.impv.act; √sthā with upa"
+    }
+   ],
+   "question": "What enduring effect is intended for the rice-ball offered to all these beings?",
+   "premises": [
+    "A rice-ball is given by the speaker for them.",
+    "The offering is described as imperishable.",
+    "It is wished to be established for them."
+   ],
+   "inference": "The rice-ball offered is intended to be an imperishable provision for all the named recipients.",
+   "uncertainties": [],
+   "plain_english": "May this rice-ball given by me for them be established as imperishable."
+  },
+  {
+   "verse": 1764,
+   "rows": [
+    {
+     "surface": "kula+dvaye",
+     "gloss": "in-two-families",
+     "grounds": "both paternal and maternal families",
+     "morph": "compound=kula+dvaye; n.loc.sg"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's relation",
+     "morph": "1.gen.sg"
+    },
+    {
+     "surface": "dāsa+bhūtā",
+     "gloss": "servant-become",
+     "grounds": "those who became servants",
+     "morph": "compound=dāsa+bhūtā; m.nom.pl"
+    },
+    {
+     "surface": "mṛtāḥ",
+     "gloss": "dead",
+     "grounds": "deceased servants",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "parallel inclusion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amṛta+sevakāḥ",
+     "gloss": "non-dead-servants",
+     "grounds": "servants not dead or still serving",
+     "morph": "compound=amṛta+sevakāḥ; m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Are servants connected to both family lines included among those remembered?",
+   "premises": [
+    "Servants in both family lines are mentioned.",
+    "Both deceased servants and non-deceased servants are mentioned.",
+    "They are included in the offering's scope."
+   ],
+   "inference": "Servants of both family lines, whether dead or not, are included among those remembered.",
+   "uncertainties": [
+    "amṛta+sevakāḥ may mean servants who are not dead or servants of the immortals; context suggests living/non-dead servants"
+   ],
+   "plain_english": "Those in both my family lines who became servants and have died, and likewise those servants who are not dead, are included."
+  },
+  {
+   "verse": 1765,
+   "rows": [
+    {
+     "surface": "devo",
+     "gloss": "god",
+     "grounds": "divine figure addressed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gadā+dharaḥ",
+     "gloss": "mace-bearer",
+     "grounds": "epithet of the god, likely Viṣṇu",
+     "morph": "compound=gadā+dharaḥ; m.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "praṇipatya",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence before offering",
+     "morph": "(gerund); √pat with praṇi"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "should-cause-to-give",
+     "grounds": "instruction to have offering given",
+     "morph": "3.sg.opt.caus.act; √dā with pra"
+    }
+   ],
+   "question": "What ritual action must precede causing the offering to be given to the mace-bearing god?",
+   "premises": [
+    "The mace-bearing god is present there.",
+    "One should bow down to him.",
+    "After bowing, one should cause the offering to be given."
+   ],
+   "inference": "Bowing to the mace-bearing god is required before causing the offering to be given.",
+   "uncertainties": [],
+   "plain_english": "There one should bow to the mace-bearing god and then cause the offering to be given."
+  },
+  {
+   "verse": 1766,
+   "rows": [
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker as agent",
+     "morph": "1.ins.sg"
+    },
+    {
+     "surface": "gayāṃ",
+     "gloss": "gayā",
+     "grounds": "sacred place Gayā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samāsādya",
+     "gloss": "having-reached",
+     "grounds": "arrival at the sacred place",
+     "morph": "(gerund); √sad with sam+ā"
+    },
+    {
+     "surface": "pitṝṇāṃ",
+     "gloss": "of-ancestors",
+     "grounds": "beneficiaries of the rite",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "niṣkṛtiḥ",
+     "gloss": "deliverance",
+     "grounds": "release or fulfillment for ancestors",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛtā",
+     "gloss": "done",
+     "grounds": "completion of the act",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What accomplishment is declared by reaching Gayā on behalf of the ancestors?",
+   "premises": [
+    "The speaker has reached Gayā.",
+    "The act is performed for the ancestors.",
+    "Deliverance for the ancestors is declared done."
+   ],
+   "inference": "Reaching Gayā enables the speaker to accomplish deliverance for the ancestors.",
+   "uncertainties": [],
+   "plain_english": "Having reached Gayā, I have performed the deliverance of the ancestors."
+  },
+  {
+   "verse": 1767,
+   "rows": [
+    {
+     "surface": "tvam",
+     "gloss": "you",
+     "grounds": "addressed deity",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "emphatic exclusivity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākṣī",
+     "gloss": "witness",
+     "grounds": "divine witness of the act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhagavān",
+     "gloss": "o-lord",
+     "grounds": "vocative-like honorific address",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "anṛṇaḥ",
+     "gloss": "debt-free",
+     "grounds": "state of being free from debt",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "speaker",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "ṛṇa+trayāt",
+     "gloss": "from-three-debts",
+     "grounds": "the three traditional debts",
+     "morph": "compound=ṛṇa+trayāt; n.abl.sg"
+    }
+   ],
+   "question": "What liberation from obligation does the speaker claim before the divine witness?",
+   "premises": [
+    "The lord alone is invoked as witness.",
+    "The speaker declares himself debt-free.",
+    "Freedom is specified from the three debts."
+   ],
+   "inference": "Before the divine witness, the speaker claims to be freed from the three debts.",
+   "uncertainties": [],
+   "plain_english": "You alone are the witness, O Lord; I am freed from the three debts."
+  },
+  {
+   "verse": 1768,
+   "rows": [
+    {
+     "surface": "vartulaṃ",
+     "gloss": "round",
+     "grounds": "shape of the rice-ball",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "should-make",
+     "grounds": "instruction to have made",
+     "morph": "3.sg.opt.caus.act; √kṛ"
+    },
+    {
+     "surface": "piṇḍaṃ",
+     "gloss": "rice-ball",
+     "grounds": "ritual offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṣīra+dhārāṃ",
+     "gloss": "milk-stream",
+     "grounds": "stream of milk as offering",
+     "morph": "compound=kṣīra+dhārāṃ; f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātayet",
+     "gloss": "should-pour",
+     "grounds": "instruction to pour",
+     "morph": "3.sg.opt.caus.act; √pat"
+    }
+   ],
+   "question": "What specific ritual preparations are prescribed for the offering at this stage?",
+   "premises": [
+    "A round rice-ball should be made.",
+    "A stream of milk should be poured.",
+    "Both actions are prescribed together."
+   ],
+   "inference": "The ritual requires preparing a round rice-ball and pouring a stream of milk.",
+   "uncertainties": [],
+   "plain_english": "One should have a round rice-ball made and should pour a stream of milk."
+  },
+  {
+   "verse": 1769,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "at that location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛ+gayā",
+     "gloss": "mother-gayā",
+     "grounds": "sacred site named Mātṛ Gayā",
+     "morph": "compound=mātṛ+gayā; f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "divine female presence",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇena",
+     "gloss": "to-the-south",
+     "grounds": "directional location",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "su+tīrthakam",
+     "gloss": "good-holy-place",
+     "grounds": "an auspicious sacred place",
+     "morph": "compound=su+tīrthakam; n.nom.sg"
+    }
+   ],
+   "question": "What sacred site is identified to the south at this stage of the pilgrimage?",
+   "premises": [
+    "The location is specified as there.",
+    "Mātṛ Gayā, the goddess, is named.",
+    "To the south is an auspicious holy place."
+   ],
+   "inference": "The site identified is Mātṛ Gayā, with an auspicious holy place to the south.",
+   "uncertainties": [
+    "syntactic relation between mātṛ+gayā devi and su+tīrthakam is compressed"
+   ],
+   "plain_english": "There is Mātṛ Gayā, the goddess, and to the south is an auspicious holy place."
+  },
+  {
+   "verse": 1770,
+   "rows": [
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the sacred place or deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "praṇamya",
+     "gloss": "having-bowed",
+     "grounds": "act of reverence",
+     "morph": "(gerund); √nam with pra"
+    },
+    {
+     "surface": "prayatnena",
+     "gloss": "with-effort",
+     "grounds": "with care or diligence",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūyo",
+     "gloss": "again",
+     "grounds": "repeatedly or further",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "is-born",
+     "grounds": "rebirth",
+     "morph": "3.sg.pres.mid; √jan"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "the person performing the act",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What spiritual result follows from diligently bowing at that sacred place?",
+   "premises": [
+    "A person bows there with effort.",
+    "The verse states a consequence for that person.",
+    "The consequence is not being born again."
+   ],
+   "inference": "Diligently bowing at that place leads to freedom from rebirth for the person.",
+   "uncertainties": [],
+   "plain_english": "Having bowed to that with effort, a person is not born again."
+  },
+  {
+   "verse": 1771,
+   "rows": [
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act of seeing the sacred object",
+     "morph": "(gerund); √dṛś"
+    },
+    {
+     "surface": "maunena",
+     "gloss": "in-silence",
+     "grounds": "observance of silence",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vipra+ṛṣiḥ",
+     "gloss": "brahmin-sage",
+     "grounds": "a sage among brahmins",
+     "morph": "compound=vipra+ṛṣiḥ; m.nom.sg"
+    },
+    {
+     "surface": "pitṝṇām+anugo",
+     "gloss": "of-ancestors-follower",
+     "grounds": "devoted to or following the ancestors",
+     "morph": "compound=pitṝṇām+anugo; m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescribed state or conduct",
+     "morph": "3.sg.opt.act; √bhū"
+    }
+   ],
+   "question": "What conduct is prescribed for the brahmin-sage after seeing the sacred site?",
+   "premises": [
+    "The sacred site has been seen.",
+    "The person is described as a brahmin-sage.",
+    "He should remain in silence and follow the ancestors."
+   ],
+   "inference": "After seeing the site, the brahmin-sage should observe silence and act as a follower of the ancestors.",
+   "uncertainties": [],
+   "plain_english": "Having seen it, the brahmin-sage should remain in silence and be devoted to the ancestors."
+  },
+  {
+   "verse": 1772,
+   "rows": [
+    {
+     "surface": "urvaśyā",
+     "gloss": "of-urvaśī",
+     "grounds": "associated with Urvaśī",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-southern",
+     "grounds": "southern side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tīre",
+     "gloss": "bank",
+     "grounds": "river bank or shore",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "sacred stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kanaka+prabhā",
+     "gloss": "golden-splendor",
+     "grounds": "having the radiance of gold",
+     "morph": "compound=kanaka+prabhā; f.nom.sg"
+    }
+   ],
+   "question": "What distinctive sacred stone is located on Urvaśī's southern bank?",
+   "premises": [
+    "A location on Urvaśī's southern bank is specified.",
+    "A stone is present there.",
+    "The stone has golden splendor."
+   ],
+   "inference": "On Urvaśī's southern bank there is a stone distinguished by golden splendor.",
+   "uncertainties": [
+    "urvaśyā may refer to a place or river associated with Urvaśī"
+   ],
+   "plain_english": "On the southern bank of Urvaśī there is a stone with golden splendor."
+  },
+  {
+   "verse": 1773,
+   "rows": [
+    {
+     "surface": "upāgamya",
+     "gloss": "having-approached",
+     "grounds": "approaching the sacred object",
+     "morph": "(gerund); √gam with upa+ā"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking emphasis or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmaśaḥ",
+     "gloss": "by-name",
+     "grounds": "invocation or mention by name",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the sacred object be approached in the prescribed ritual act?",
+   "premises": [
+    "The sacred object is to be approached.",
+    "The approach involves naming.",
+    "This continues the ritual instruction."
+   ],
+   "inference": "The sacred object should be approached and addressed by name.",
+   "uncertainties": [
+    "object of approach is carried over from previous verse"
+   ],
+   "plain_english": "Having approached it, one should do so by name."
+  },
+  {
+   "verse": 1774,
+   "rows": [
+    {
+     "surface": "sāvitrīm",
+     "gloss": "sāvitrī",
+     "grounds": "the goddess or sacred form Sāvitrī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyāhne",
+     "gloss": "at-midday",
+     "grounds": "time of the ritual act",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dṛṣṭvā",
+     "gloss": "having-seen",
+     "grounds": "act of seeing",
+     "morph": "(gerund); √dṛś"
+    },
+    {
+     "surface": "yajña+phalaṃ",
+     "gloss": "sacrifice-fruit",
+     "grounds": "merit or result of sacrifice",
+     "morph": "compound=yajña+phalaṃ; n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "attainment of result",
+     "morph": "3.sg.opt.act; √labh"
+    }
+   ],
+   "question": "What merit is gained by seeing Sāvitrī at midday during the rite?",
+   "premises": [
+    "Sāvitrī is seen at midday.",
+    "The act is ritually prescribed.",
+    "The result is obtaining the fruit of sacrifice."
+   ],
+   "inference": "Seeing Sāvitrī at midday yields the fruit of sacrifice.",
+   "uncertainties": [],
+   "plain_english": "And having seen Sāvitrī at midday, one obtains the fruit of sacrifice."
+  }
+ ]
+}

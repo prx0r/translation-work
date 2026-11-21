@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "raviḥ",
+     "gloss": "sun",
+     "grounds": "nominative subject naming the Sun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "somo",
+     "gloss": "moon",
+     "grounds": "nominative subject naming the Moon",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "jupiter",
+     "grounds": "nominative subject naming Jupiter",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śauriścatvāraścākulā",
+     "gloss": "saturn-four-and-akula",
+     "grounds": "fused sandhi form combining Saturn, the number four, and akula",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "passive participle agreeing with the four planets",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which four planets are considered akula in this Kaula determination?",
+   "premises": [
+    "Sun Moon Jupiter and Saturn are named",
+    "The four are called akula",
+    "They are considered so in this verse"
+   ],
+   "inference": "The verse identifies Sun, Moon, Jupiter, and Saturn as the four planets considered akula.",
+   "uncertainties": [
+    "The exact ritual or astrological force of akula here is not specified by this verse alone"
+   ],
+   "plain_english": "The Sun, the Moon, Jupiter, and Saturn are considered the four akula."
+  }
+ ]
+}

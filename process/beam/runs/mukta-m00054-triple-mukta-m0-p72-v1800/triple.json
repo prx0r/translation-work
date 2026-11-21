@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p72",
+ "items": [
+  {
+   "verse": 1800,
+   "rows": [
+    {
+     "surface": "ūrddhvam",
+     "gloss": "above",
+     "grounds": "directional term indicating the upper region",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātu",
+     "gloss": "may-protect",
+     "grounds": "imperative verb expressing protective invocation",
+     "morph": "3.sg.act.imp~√pā"
+    },
+    {
+     "surface": "mahālakṣmīḥ",
+     "gloss": "great-lakshmi",
+     "grounds": "name of the goddess invoked as guardian",
+     "morph": "f.nom.sg; compound=mahā+lakṣmī"
+    },
+    {
+     "surface": "pātāle",
+     "gloss": "in-netherworld",
+     "grounds": "locative term indicating the lower region",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śāradā",
+     "gloss": "sharada",
+     "grounds": "name of the goddess invoked as guardian",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "’vatu",
+     "gloss": "may-protect",
+     "grounds": "imperative verb with avagraha marking elided initial vowel",
+     "morph": "3.sg.act.imp~√av"
+    }
+   ],
+   "question": "Which goddesses are assigned to guard the upper and nether regions?",
+   "premises": [
+    "Mahālakṣmī is invoked to protect the region above.",
+    "Śāradā is invoked to protect the netherworld region.",
+    "Each named goddess is assigned a specific vertical domain of protection."
+   ],
+   "inference": "Mahālakṣmī guards above while Śāradā guards below in the netherworld.",
+   "uncertainties": [],
+   "plain_english": "May Mahālakṣmī protect above; may Śāradā protect in the netherworld."
+  }
+ ]
+}

@@ -1,14 +1,15 @@
 {
  "work": "sivasutra",
  "updated": "2026-11-11",
- "next": "span-p09 (1.21-1.22) triple seeded 2026-11-11; closes 75->77; passage ranges predate running-index scheme (spans carry stale 1.x labels, working layer authoritative)",
+ "next": "span-p09 (1.21-1.22) triple seeded 2026-11-11; closes 75->77; passage ranges predate running-index scheme (spans carry stale 1.x labels, working layer authoritative) | staged 9 data songs (batch assemble 2026-11-12)",
  "counts": {
   "passages": 8,
   "verses": 75,
   "l0_parsed": 180,
   "l0_ambiguous": 0,
   "l0_failed": 0,
-  "proof": "PASS"
+  "proof": "PASS",
+  "staged_songs": 9
  },
  "r2_key": "s3://sanskritree/batch-t1/2026-10-30-sivasutra-raw.jsonl",
  "r2_bytes": 22407,

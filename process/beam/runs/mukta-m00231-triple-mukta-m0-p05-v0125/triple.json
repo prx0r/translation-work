@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "śiva+caitanya",
+     "gloss": "śiva-consciousness",
+     "grounds": "compound of śiva and caitanya",
+     "morph": "compound"
+    },
+    {
+     "surface": "tasya+ante",
+     "gloss": "at-its-end",
+     "grounds": "locative of tasya ante",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "mayyai",
+     "gloss": "to-me",
+     "grounds": "dative of first person",
+     "morph": "dat.sg"
+    },
+    {
+     "surface": "svāhā+iti",
+     "gloss": "svāhā-thus",
+     "grounds": "quoted offering formula with iti",
+     "morph": "indecl."
+    },
+    {
+     "surface": "saṃsmaran",
+     "gloss": "remembering",
+     "grounds": "present participle of saṃsmṛ",
+     "morph": "part.act"
+    }
+   ],
+   "question": "What consciousness is to be remembered as the final offering to the guru?",
+   "premises": [
+    "śiva-consciousness is named",
+    "the end of that is reached",
+    "the offering is made to me"
+   ],
+   "inference": "The rite culminates in remembering śiva-consciousness and offering it with svāhā.",
+   "uncertainties": [
+    "exact referent of tasya",
+    "ritual context beyond provided lines"
+   ],
+   "plain_english": "Remembering śiva-consciousness at its end, one offers it to me, saying svāhā."
+  }
+ ]
+}

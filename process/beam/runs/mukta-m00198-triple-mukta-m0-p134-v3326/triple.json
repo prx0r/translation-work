@@ -1,0 +1,907 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3326,
+   "rows": [
+    {
+     "surface": "nārado",
+     "gloss": "nārada",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jamadagniśca",
+     "gloss": "jamadagni-and",
+     "grounds": "sage name with conjunction",
+     "morph": "compound"
+    },
+    {
+     "surface": "vasiṣṭho",
+     "gloss": "vasiṣṭha",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhṛgu",
+     "gloss": "bhṛgu",
+     "grounds": "sage name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which sages are positioned on the right side of the deity?",
+   "premises": [
+    "Nārada is named as present.",
+    "Jamadagni, Vasiṣṭha, and Bhṛgu are named.",
+    "Their location is specified as the right side."
+   ],
+   "inference": "Nārada, Jamadagni, Vasiṣṭha, and Bhṛgu are placed on the right side.",
+   "uncertainties": [],
+   "plain_english": "Nārada, Jamadagni, Vasiṣṭha, and Bhṛgu are on the right side."
+  },
+  {
+   "verse": 3327,
+   "rows": [
+    {
+     "surface": "nāndinā",
+     "gloss": "with-nandin",
+     "grounds": "attendant name",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kiṃnarādyaiśca",
+     "gloss": "with-kiṃnaras-and-others",
+     "grounds": "group with conjunction",
+     "morph": "compound"
+    },
+    {
+     "surface": "vaṭavṛkṣasamudgṛham",
+     "gloss": "banyan-tree-abode",
+     "grounds": "descriptive compound of location",
+     "morph": "compound"
+    }
+   ],
+   "question": "Who accompanies the scene and what kind of abode is indicated?",
+   "premises": [
+    "Nandin is present as an accompanist.",
+    "Kiṃnaras and others accompany as well.",
+    "The setting is described as an abode under a banyan tree."
+   ],
+   "inference": "The scene includes Nandin, Kiṃnaras and others in a banyan-tree abode.",
+   "uncertainties": [],
+   "plain_english": "Together with Nandin and the Kiṃnaras and others, the abode is under a banyan tree."
+  },
+  {
+   "verse": 3328,
+   "rows": [
+    {
+     "surface": "sūtrātpādajaṃghāpārṣṇyantaṃ",
+     "gloss": "from-thread-to-foot-shin-heel-end",
+     "grounds": "measurement span compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "trivedamanumātrakam",
+     "gloss": "three-veda-measure",
+     "grounds": "measure described by three Vedas",
+     "morph": "compound"
+    }
+   ],
+   "question": "What measurement span and unit define the specified bodily extent?",
+   "premises": [
+    "The span extends from the thread to the foot, shin, and heel.",
+    "The measure is specified as equivalent to three Vedas."
+   ],
+   "inference": "The extent from the thread to the foot, shin, and heel measures three Veda-units.",
+   "uncertainties": [
+    "The exact metrical value of 'triveda' as a unit is context-dependent."
+   ],
+   "plain_english": "From the thread down to the foot, shin, and heel, the measure is three Veda-units."
+  },
+  {
+   "verse": 3329,
+   "rows": [
+    {
+     "surface": "śyāmavarṇamapasmāraṃ",
+     "gloss": "dark-colored-apasmāra",
+     "grounds": "descriptive compound of figure",
+     "morph": "compound"
+    },
+    {
+     "surface": "nāgalīlāsamanvitam",
+     "gloss": "endowed-with-serpent-play",
+     "grounds": "compound indicating accompaniment",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the figure of Apasmāra characterized in color and accompaniment?",
+   "premises": [
+    "Apasmāra is described as dark-colored.",
+    "Apasmāra is endowed with serpent play."
+   ],
+   "inference": "Apasmāra is depicted as dark in color and accompanied by serpent play.",
+   "uncertainties": [],
+   "plain_english": "Apasmāra is dark-colored and accompanied by the play of serpents."
+  },
+  {
+   "verse": 3330,
+   "rows": [
+    {
+     "surface": "tadeva",
+     "gloss": "that-same",
+     "grounds": "demonstrative with emphasis",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāmapādena",
+     "gloss": "with-left-foot",
+     "grounds": "instrumental of body part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kuṭīkāsanasaṃyutam",
+     "gloss": "joined-with-kuṭīkāsana",
+     "grounds": "compound indicating posture",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which foot and posture are associated with that same figure?",
+   "premises": [
+    "The same figure is being referred to.",
+    "The left foot is specified.",
+    "The posture is joined with kuṭīkāsana."
+   ],
+   "inference": "That same figure is associated with the left foot in kuṭīkāsana posture.",
+   "uncertainties": [
+    "The precise form of kuṭīkāsana in this context is not fully specified."
+   ],
+   "plain_english": "That same figure is joined with the kuṭīkāsana posture by means of the left foot."
+  },
+  {
+   "verse": 3331,
+   "rows": [
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "rest",
+     "grounds": "remaining part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgiva",
+     "gloss": "as-before",
+     "grounds": "comparative particle compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "gerundive of obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "etadvīṇākaraṃ",
+     "gloss": "this-vīṇā-hand",
+     "grounds": "compound describing hand holding vīṇā",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative of being",
+     "morph": "3.sg.optative-active + bhū"
+    }
+   ],
+   "question": "How should the remaining features and the vīṇā-holding hand be arranged?",
+   "premises": [
+    "The rest should be done as before.",
+    "This hand should hold the vīṇā.",
+    "The arrangement is prescribed as it should be."
+   ],
+   "inference": "The remaining features follow the earlier pattern and this hand should hold the vīṇā.",
+   "uncertainties": [],
+   "plain_english": "The rest should be done as before, and this hand should hold the vīṇā."
+  },
+  {
+   "verse": 3332,
+   "rows": [
+    {
+     "surface": "vāmaṃ",
+     "gloss": "left",
+     "grounds": "side designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prasāritaṃ",
+     "gloss": "extended",
+     "grounds": "past participle as adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hastaṃ",
+     "gloss": "hand",
+     "grounds": "body part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmajānurdhvakopari",
+     "gloss": "above-left-knee",
+     "grounds": "locative compound of position",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where should the extended left hand be placed in relation to the knee?",
+   "premises": [
+    "The left hand is specified.",
+    "The hand is extended.",
+    "Its position is above the left knee."
+   ],
+   "inference": "The extended left hand should be placed above the left knee.",
+   "uncertainties": [],
+   "plain_english": "The extended left hand should be placed above the left knee."
+  },
+  {
+   "verse": 3333,
+   "rows": [
+    {
+     "surface": "śuddhaśvetanibhaṃ",
+     "gloss": "resembling-pure-white",
+     "grounds": "compound describing color",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇaṃ",
+     "gloss": "color",
+     "grounds": "quality",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śeṣaṃ",
+     "gloss": "rest",
+     "grounds": "remaining part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavadācaret",
+     "gloss": "should-perform-as-before",
+     "grounds": "optative with comparative",
+     "morph": "3.sg.optative-active + ā-car"
+    }
+   ],
+   "question": "What color and procedure are prescribed for the remaining depiction?",
+   "premises": [
+    "The color is described as resembling pure white.",
+    "The rest is to be performed as before."
+   ],
+   "inference": "The remaining depiction should be pure white in color and executed as before.",
+   "uncertainties": [],
+   "plain_english": "The color should be like pure white, and the rest should be done as before."
+  },
+  {
+   "verse": 3334,
+   "rows": [
+    {
+     "surface": "anyonyāṃghritalaṃ",
+     "gloss": "mutual-foot-soles",
+     "grounds": "compound indicating reciprocal placement",
+     "morph": "compound"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "o-brāhmaṇa",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "sphikpiṇḍādhaḥ",
+     "gloss": "below-buttock-mass",
+     "grounds": "locative compound of position",
+     "morph": "compound"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative of arrangement",
+     "morph": "3.sg.optative-active + pra-kḷp"
+    }
+   ],
+   "question": "Where should the soles of the feet be arranged in relation to the buttocks?",
+   "premises": [
+    "The soles of the feet are to be placed against each other.",
+    "The position is below the buttock mass.",
+    "The arrangement is prescribed to the brāhmaṇa."
+   ],
+   "inference": "The soles of the feet should be arranged together below the buttocks.",
+   "uncertainties": [],
+   "plain_english": "O brāhmaṇa, one should arrange the soles of the feet together below the buttocks."
+  },
+  {
+   "verse": 3335,
+   "rows": [
+    {
+     "surface": "varadaṃ",
+     "gloss": "boon-giving",
+     "grounds": "gesture designation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmahastaṃ",
+     "gloss": "left-hand",
+     "grounds": "body part compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast or emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "meḍhrapīṭhoparinyaset",
+     "gloss": "should-place-on-genital-seat",
+     "grounds": "optative with locative compound",
+     "morph": "3.sg.optative-active + ni-as"
+    }
+   ],
+   "question": "Where should the boon-giving left hand be placed in this iconographic form?",
+   "premises": [
+    "The left hand is in the boon-giving gesture.",
+    "Its placement is specified on the seat near the genitals."
+   ],
+   "inference": "The boon-giving left hand should be placed on the seat above the genitals.",
+   "uncertainties": [],
+   "plain_english": "But the boon-giving left hand should be placed on the seat above the genitals."
+  },
+  {
+   "verse": 3336,
+   "rows": [
+    {
+     "surface": "yogamūrtiriti",
+     "gloss": "yoga-form-thus",
+     "grounds": "name with quotation marker",
+     "morph": "compound"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvapāpaharaṃ",
+     "gloss": "removing-all-sins",
+     "grounds": "compound describing effect",
+     "morph": "compound"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifier",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the name and spiritual efficacy of this supreme form?",
+   "premises": [
+    "This form is known as Yogamūrti.",
+    "It removes all sins.",
+    "It is described as supreme."
+   ],
+   "inference": "The supreme form known as Yogamūrti removes all sins.",
+   "uncertainties": [],
+   "plain_english": "This is known as the Yogamūrti, the supreme form that removes all sins."
+  },
+  {
+   "verse": 3337,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "colophon compound with text name",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇāmūrtilakṣaṇapaṭalaḥ",
+     "gloss": "chapter-on-dakṣiṇāmūrti-characteristics",
+     "grounds": "title compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ekonāśītitamaḥ",
+     "gloss": "seventy-ninth",
+     "grounds": "ordinal number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes at this point in the Aṃśumān Kāśyapa text?",
+   "premises": [
+    "The text named is Aṃśumān Kāśyapa.",
+    "The chapter concerns the characteristics of Dakṣiṇāmūrti.",
+    "It is identified as the seventy-ninth chapter."
+   ],
+   "inference": "This marks the end of the seventy-ninth chapter on Dakṣiṇāmūrti characteristics in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the seventy-ninth chapter, on the characteristics of Dakṣiṇāmūrti, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 3338,
+   "rows": [
+    {
+     "surface": "vasunandadaśāṃśaṃ",
+     "gloss": "eight-nine-ten-part",
+     "grounds": "numerical compound for proportion",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "natamānaṃ",
+     "gloss": "bent-measure",
+     "grounds": "measure of inclination",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "o-best-of-twice-born",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What proportional measure of bending is prescribed as an alternative?",
+   "premises": [
+    "A proportion described as vasunanda-daśāṃśa is given.",
+    "An alternative is indicated by 'or'.",
+    "The measure refers to the degree of bending."
+   ],
+   "inference": "The bending measure may be a vasunanda-daśāṃśa proportion, O best of the twice-born.",
+   "uncertainties": [
+    "The exact numerical interpretation of 'vasunandadaśāṃśa' is unclear."
+   ],
+   "plain_english": "O best of the twice-born, the bent measure is an eighth, ninth, or tenth part, or alternatively as specified."
+  },
+  {
+   "verse": 3339,
+   "rows": [
+    {
+     "surface": "lalāṭadakṣiṇe",
+     "gloss": "on-right-of-forehead",
+     "grounds": "locative compound of position",
+     "morph": "compound"
+    },
+    {
+     "surface": "savyanetramadhye",
+     "gloss": "in-middle-of-left-eye",
+     "grounds": "locative compound of position",
+     "morph": "compound"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "comparative particle compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which reference points on the forehead and eye are specified for alignment?",
+   "premises": [
+    "A point on the right of the forehead is specified.",
+    "A point in the middle of the left eye is specified.",
+    "The alignment is to be taken likewise."
+   ],
+   "inference": "Alignment is specified at the right of the forehead and likewise at the middle of the left eye.",
+   "uncertainties": [],
+   "plain_english": "On the right of the forehead and likewise in the middle of the left eye."
+  },
+  {
+   "verse": 3340,
+   "rows": [
+    {
+     "surface": "nābhimadhyāttu",
+     "gloss": "from-middle-of-navel",
+     "grounds": "ablative compound with particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative of side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtrāntaraṃ",
+     "gloss": "thread-interval",
+     "grounds": "measurement interval",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yavāṣṭakam",
+     "gloss": "eight-barleycorns",
+     "grounds": "measure compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What thread interval is measured from the navel's middle to the left?",
+   "premises": [
+    "The starting point is the middle of the navel.",
+    "The direction is to the left.",
+    "The interval is eight barleycorns."
+   ],
+   "inference": "From the middle of the navel to the left, the thread interval is eight barleycorns.",
+   "uncertainties": [],
+   "plain_english": "From the middle of the navel to the left, the thread interval is eight barleycorns."
+  },
+  {
+   "verse": 3341,
+   "rows": [
+    {
+     "surface": "sthitoṃghrigulpha",
+     "gloss": "standing-foot-ankle",
+     "grounds": "compound describing position and part",
+     "morph": "compound"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of position",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvasūtraṃ",
+     "gloss": "previous-thread",
+     "grounds": "reference to earlier line",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prasārayet",
+     "gloss": "should-extend",
+     "grounds": "optative of extension",
+     "morph": "3.sg.optative-active + pra-sṛ"
+    }
+   ],
+   "question": "From which point should the previous thread line be extended?",
+   "premises": [
+    "The reference point is the middle of the standing foot's ankle.",
+    "The previous thread is to be extended from there."
+   ],
+   "inference": "The previous thread should be extended from the middle of the standing foot's ankle.",
+   "uncertainties": [],
+   "plain_english": "One should extend the previous thread from the middle of the ankle of the standing foot."
+  },
+  {
+   "verse": 3342,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "ordinal qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nṛttamūrtestu",
+     "gloss": "of-dance-form-but",
+     "grounds": "genitive compound with particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇasthitapādavat",
+     "gloss": "like-right-standing-foot",
+     "grounds": "comparative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How is the first aspect of the dance form related to the right standing foot?",
+   "premises": [
+    "The first aspect concerns the dance form.",
+    "It is compared to the right standing foot."
+   ],
+   "inference": "The first aspect of the dance form is like that of the right standing foot.",
+   "uncertainties": [],
+   "plain_english": "First, for the dance form, it is like the right standing foot."
+  },
+  {
+   "verse": 3343,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhamuddhṛtāṃghrestu",
+     "gloss": "of-raised-foot-thumb-but",
+     "grounds": "genitive compound with particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "kālasya",
+     "gloss": "of-kāla",
+     "grounds": "figure name",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "on-heart",
+     "grounds": "locative of body part",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative of placement",
+     "morph": "3.sg.optative-active + ni-as"
+    }
+   ],
+   "question": "Where should the big toe of the raised foot be placed on Kāla?",
+   "premises": [
+    "The big toe of the raised foot is specified.",
+    "The target is Kāla's heart.",
+    "Placement is prescribed."
+   ],
+   "inference": "The big toe of the raised foot should be placed on the heart of Kāla.",
+   "uncertainties": [],
+   "plain_english": "One should place the big toe of the raised foot on the heart of Kāla."
+  },
+  {
+   "verse": 3344,
+   "rows": [
+    {
+     "surface": "caturhastasamāyuktaṃ",
+     "gloss": "endowed-with-four-hands",
+     "grounds": "compound describing attribute",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭahastamathāpi",
+     "gloss": "eight-hands-or-also",
+     "grounds": "alternative compound with particles",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative numbers of hands are permitted for this form?",
+   "premises": [
+    "The form may be endowed with four hands.",
+    "Alternatively it may have eight hands."
+   ],
+   "inference": "The form may be depicted with either four hands or eight hands.",
+   "uncertainties": [],
+   "plain_english": "It may be endowed with four hands, or alternatively with eight hands."
+  },
+  {
+   "verse": 3345,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative of side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parahastaṃ",
+     "gloss": "other-hand",
+     "grounds": "compound indicating another hand",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "weapon or attribute",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmadaṃ",
+     "gloss": "left-giving",
+     "grounds": "compound describing left side attribute",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attribute may be held in the other right hand as an alternative?",
+   "premises": [
+    "The other hand on the right side is specified.",
+    "It may hold an axe.",
+    "An alternative is indicated."
+   ],
+   "inference": "The other right hand may hold an axe, or alternatively another specified attribute.",
+   "uncertainties": [
+    "The exact alternative implied by 'vāmadaṃ' in this context is unclear."
+   ],
+   "plain_english": "On the right, the other hand may hold an axe, or alternatively as specified."
+  },
+  {
+   "verse": 3346,
+   "rows": [
+    {
+     "surface": "sūcyagrātpūrvasūtrāntaṃ",
+     "gloss": "from-needle-tip-to-previous-thread-end",
+     "grounds": "measurement span compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalāmanvaṃgulaṃ",
+     "gloss": "kalā-and-aṅgula",
+     "grounds": "measure units compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurement units define the span from the needle tip to the previous thread end?",
+   "premises": [
+    "The span runs from the needle tip to the end of the previous thread.",
+    "The measure is given as a kalā or an aṅgula."
+   ],
+   "inference": "The span from the needle tip to the previous thread end measures a kalā or an aṅgula.",
+   "uncertainties": [
+    "The precise value of 'kalā' and 'aṅgula' in this context is not specified."
+   ],
+   "plain_english": "From the tip of the needle to the end of the previous thread, the measure is a kalā or an aṅgula."
+  },
+  {
+   "verse": 3347,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative of side",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tvaparahastaṃ",
+     "gloss": "but-other-hand",
+     "grounds": "compound with particle and hand",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vismayaṃ",
+     "gloss": "wonder-gesture",
+     "grounds": "gesture of astonishment",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative of arrangement",
+     "morph": "3.sg.optative-active + pari-kḷp"
+    }
+   ],
+   "question": "What gesture should be arranged for the other hand on the left side?",
+   "premises": [
+    "The other hand on the left side is specified.",
+    "The gesture to be arranged is vismaya (wonder)."
+   ],
+   "inference": "The other left hand should be arranged in the gesture of wonder.",
+   "uncertainties": [],
+   "plain_english": "On the left, the other hand should be arranged in the gesture of wonder."
+  },
+  {
+   "verse": 3348,
+   "rows": [
+    {
+     "surface": "uṣṇīṣāntaṃ",
+     "gloss": "to-turban-end",
+     "grounds": "limit compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samuddhṛtya",
+     "gloss": "having-raised",
+     "grounds": "absolutive of raising",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vismaye'nāmikāgrakam",
+     "gloss": "in-wonder-ring-finger-tip",
+     "grounds": "compound with sandhi indicating finger tip in gesture",
+     "morph": "compound"
+    }
+   ],
+   "question": "How high should the hand in the wonder gesture be raised and which finger is indicated?",
+   "premises": [
+    "The hand is raised up to the end of the turban.",
+    "In the wonder gesture, the tip of the ring finger is indicated."
+   ],
+   "inference": "The hand should be raised to the turban's end with the ring-finger tip in the wonder gesture.",
+   "uncertainties": [
+    "The exact configuration of the vismaya gesture with the ring finger is context-dependent."
+   ],
+   "plain_english": "Having raised it to the end of the turban, the tip of the ring finger is placed in the gesture of wonder."
+  },
+  {
+   "verse": 3349,
+   "rows": [
+    {
+     "surface": "caturhastaṃ",
+     "gloss": "four-handed",
+     "grounds": "form with four hands",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "past participle of declaration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṣṭahastamataḥ",
+     "gloss": "eight-handed-now",
+     "grounds": "compound with particle indicating next topic",
+     "morph": "compound"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "listen",
+     "grounds": "imperative of hearing",
+     "morph": "2.sg.imperative-active + śru"
+    }
+   ],
+   "question": "What transition is made after declaring the four-handed form?",
+   "premises": [
+    "The four-handed form has been declared.",
+    "The eight-handed form is introduced next.",
+    "The listener is asked to listen."
+   ],
+   "inference": "After declaring the four-handed form, the text proceeds to describe the eight-handed form.",
+   "uncertainties": [],
+   "plain_english": "The four-handed form has been declared; now listen to the eight-handed form."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "net-p17",
+ "work": "netratantra",
+ "date": "2026-11-01",
+ "blocking": [
+  "ALIGN_NODISP v413 ratio=0.885",
+  "DATA_OBJECTS 1 schema/cross-layer errors"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "1a6a02cd809d9830",
+ "source_verses": 23,
+ "t1_verses": 23,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 93
+ },
+ "align": {
+  "min_ratio": 0.885,
+  "sub090": {
+   "413": {
+    "ratio": 0.885,
+    "disposition": null
+   },
+   "418": {
+    "ratio": 0.897,
+    "disposition": "sandhi-only: aḥa>o', hiatus/avagraha-drop, ḥ>s"
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 56,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 23,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [
+   "t1[net-p17-v422].tokens[4]: surface contains parens (breaks [and]-MD parsing)"
+  ],
+  "counts": {
+   "t1": 23,
+   "l0": 93,
+   "argmap": 23,
+   "l2": 23,
+   "l3": 0,
+   "l4": 0,
+   "essence": 5,
+   "renders": [],
+   "c2_renders": [],
+   "signoff": false
+  }
+ },
+ "needs": [
+  "fix: schema/cross-layer errors",
+  "fix: word-order/gloss vs source for v413"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {
+  "t1": "fac6fb01717b6e7e36957e3458bfd168474a6ab7660296aca7d8e0479d14801f",
+  "l0": "70cae95634e6565d747b2565e251834b309f22232e225e025205d0bbe854fa9d",
+  "argmap": "1d6b239bcb8412919ec4f247891769986136777b00b2070ff100e75380c10fb4",
+  "l2": "21f3d550768e5587f2723035405df4b473fd8e908d1f3d730445f221c903a0df",
+  "c1": "f85750a6d32853f7f82364cb9122e6098f6234d9ff0ae8098714872c9f590950"
+ },
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "1a6a02cd809d9830",
+  "t1": "net-p17/data/net-p17.t1.json",
+  "l0": "net-p17/data/net-p17.l0.json",
+  "l2": "net-p17/data/net-p17.l2.json",
+  "c1": "net-p17/data/net-p17.c1.json"
+ }
+}

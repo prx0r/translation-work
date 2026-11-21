@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "dadāsi",
+     "gloss": "you-give",
+     "grounds": "second-person address to the deity or consecrated object granting benefit",
+     "morph": "2.sg.pres.act √dā"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "in this world or present life",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "likewise, extending the request to another realm",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svarge",
+     "gloss": "in-heaven",
+     "grounds": "in the heavenly realm",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "saṃkramo",
+     "gloss": "passage",
+     "grounds": "a crossing or means of transition, requested as benefit",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "to-me",
+     "grounds": "recipient of the requested benefit",
+     "morph": "pron.dat.sg.1"
+    },
+    {
+     "surface": "pradīyatām",
+     "gloss": "let-be-given",
+     "grounds": "imperative request for bestowal",
+     "morph": "3.sg.pass.imp √dā+pra"
+    }
+   ],
+   "question": "What passage is requested for the petitioner in both the earthly and heavenly realms?",
+   "premises": [
+    "The addressee is said to give benefit here in this world.",
+    "The same benefit is sought in the heavenly realm.",
+    "The petitioner explicitly requests that a passage be granted to him."
+   ],
+   "inference": "The efficacy invoked extends across both earthly and heavenly domains, so the petitioner asks for a passage to be bestowed in each.",
+   "uncertainties": [
+    "Whether saṃkramo refers to a literal crossing, a ritual bridge, or a metaphorical means of transition is not fully specified."
+   ],
+   "plain_english": "You give here; so likewise in heaven, let a passage be given to me."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "ekam",
+     "gloss": "one",
+     "grounds": "numeral designating a single recipient",
+     "morph": "num.acc.sg.n"
+    },
+    {
+     "surface": "uddiśya",
+     "gloss": "having-designated",
+     "grounds": "absolutive from root uddiś",
+     "morph": "absolutive - uddiś"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "etc",
+     "grounds": "indicating continuation of the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|",
+     "gloss": "verse-separator",
+     "grounds": "metrical punctuation",
+     "morph": "(punct.)"
+    },
+    {
+     "surface": "niyojayet",
+     "gloss": "one-should-assign",
+     "grounds": "optative instruction",
+     "morph": "3.sg.act.opt. - niyuj"
+    },
+    {
+     "surface": "samarpayet",
+     "gloss": "one-should-offer",
+     "grounds": "optative instruction",
+     "morph": "3.sg.act.opt. - samṛ"
+    }
+   ],
+   "question": "How should a single designated recipient be assigned and offered in this rite?",
+   "premises": [
+    "One recipient is designated first.",
+    "Assignment follows the designation.",
+    "Offering follows the assignment."
+   ],
+   "inference": "The verse prescribes a sequence of designation, assignment, and offering for one recipient.",
+   "uncertainties": [
+    "The exact recipient and offering substance are not specified in this fragment."
+   ],
+   "plain_english": "Having designated one, and so on, one should assign and offer."
+  }
+ ]
+}

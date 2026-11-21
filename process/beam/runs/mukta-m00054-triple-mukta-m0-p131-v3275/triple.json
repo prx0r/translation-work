@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p131",
+ "items": [
+  {
+   "verse": 3275,
+   "rows": [
+    {
+     "surface": "svātmārāmam",
+     "gloss": "rejoicing-in-own-self",
+     "grounds": "compound denoting one who delights in the self; object of bhramayati",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "viṣayamṛgatṛṣṇā",
+     "gloss": "sense-object-mirage",
+     "grounds": "compound comparing sense-objects to a mirage; subject of bhramayati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhramayati",
+     "gloss": "deludes",
+     "grounds": "causative action of causing to wander or be mistaken",
+     "morph": "3.sg.pres.act caus. √bhram"
+    }
+   ],
+   "question": "Can the mirage of sense-objects delude one who rejoices in the self?",
+   "premises": [
+    "One may be established in rejoicing in one's own self.",
+    "Sense-objects can appear as a deceptive mirage.",
+    "A deceptive mirage has the power to cause delusion."
+   ],
+   "inference": "Therefore, the mirage of sense-objects deludes even one who rejoices in the self.",
+   "uncertainties": [
+    "The syntactic role of svātmārāmam as object is inferred from context and case ending."
+   ],
+   "plain_english": "The mirage of sense-objects deludes one who rejoices in his own self."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "mānavaḥ",
+     "gloss": "human",
+     "grounds": "nominative subject, the person observing the fast",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāṇa+rakṣā+artham",
+     "gloss": "for-life-protection-sake",
+     "grounds": "purpose compound indicating the aim of preserving vital breath or life",
+     "morph": "prāṇa+rakṣā+artham (compound, acc.sg.nt)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle prohibiting the action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhraśyet",
+     "gloss": "should-perish",
+     "grounds": "optative expressing that one must not fall or come to ruin",
+     "morph": "3.sg.act.opt; √bhraṃś"
+    },
+    {
+     "surface": "upavāsataḥ",
+     "gloss": "from-fasting",
+     "grounds": "ablative indicating fasting as the cause to be avoided when life is at risk",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Should preservation of life override the observance of prescribed fasting?",
+   "premises": [
+    "Fasting is prescribed in expiation.",
+    "A person must act for the protection of life.",
+    "Fasting must not cause a person to perish."
+   ],
+   "inference": "The duty to preserve life limits the observance of fasting when fasting becomes life-threatening.",
+   "uncertainties": [
+    "bhraśyet may mean fall away, decline, or perish; rendered here as perish in the context of life protection."
+   ],
+   "plain_english": "A person should not perish from fasting, for the sake of preserving life."
+  }
+ ]
+}

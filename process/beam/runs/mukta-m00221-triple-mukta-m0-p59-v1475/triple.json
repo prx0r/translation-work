@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p59",
+ "items": [
+  {
+   "verse": 1475,
+   "rows": [
+    {
+     "surface": "taraṅgaiḥ",
+     "gloss": "waves",
+     "grounds": "instrumental plural of taraṅga",
+     "morph": "noun.instr.pl.m"
+    },
+    {
+     "surface": "kaṅkālagaṇān",
+     "gloss": "skeleton-troops",
+     "grounds": "accusative plural of kaṅkālagaṇa",
+     "morph": "noun.acc.pl.m"
+    },
+    {
+     "surface": "vāhayantyaḥ",
+     "gloss": "carrying",
+     "grounds": "feminine nominative plural present participle of vāhayati",
+     "morph": "verb.fem.nom.pl.act-pres.participle"
+    },
+    {
+     "surface": "samedhitāḥ",
+     "gloss": "increased",
+     "grounds": "feminine nominative plural past participle of sam-edh",
+     "morph": "verb.fem.nom.pl.pass-past.participle"
+    }
+   ],
+   "question": "How do the śakti troops increase while carrying skeleton-troops on waves?",
+   "premises": [
+    "śakti troops carry skeleton-troops on waves",
+    "their power increases through this carrying"
+   ],
+   "inference": "carrying skeleton-troops on waves increases the śakti troops",
+   "uncertainties": [
+    "exact referent of the waves remains unclear"
+   ],
+   "plain_english": "Increased, they carry troops of skeletons on waves."
+  }
+ ]
+}

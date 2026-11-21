@@ -1,0 +1,951 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2876,
+   "rows": [
+    {
+     "surface": "pradhānasya",
+     "gloss": "of-primary",
+     "grounds": "refers to the principal material or wood",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "palāśassyāt",
+     "gloss": "palāśa-should-be",
+     "grounds": "sandhi fusion of palāśaḥ and syāt",
+     "morph": "m.nom.sg + 3.sg.opt-act √as"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "refers back to palāśa",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all contexts or rites",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "regarded",
+     "grounds": "considered or approved in tradition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which wood is regarded as the primary choice for use in all ritual contexts?",
+   "premises": [
+    "The primary material should be palāśa wood.",
+    "Palāśa is regarded as suitable everywhere.",
+    "An alternative option is also acknowledged."
+   ],
+   "inference": "Palāśa wood is the principal and universally accepted material for the rite.",
+   "uncertainties": [],
+   "plain_english": "The primary wood should be palāśa, and it is regarded as suitable everywhere, or as an accepted option."
+  },
+  {
+   "verse": 2877,
+   "rows": [
+    {
+     "surface": "carūśca",
+     "gloss": "cooked-offering-and",
+     "grounds": "sandhi fusion of caruḥ and ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "homadravyāṇi",
+     "gloss": "fire-offering-materials",
+     "grounds": "substances used in the fire oblation",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "specifies a possible count of oblations",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pañcāśadeva",
+     "gloss": "fifty-indeed",
+     "grounds": "sandhi fusion of pañcāśat and eva",
+     "morph": "f.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative count",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many oblations of cooked offerings and fire materials may be performed in the rite?",
+   "premises": [
+    "Cooked offerings and fire materials are to be offered.",
+    "One prescribed count is one hundred oblations.",
+    "An alternative count of fifty oblations is permitted."
+   ],
+   "inference": "The rite allows either one hundred or fifty oblations of the prescribed materials.",
+   "uncertainties": [],
+   "plain_english": "The cooked offerings and fire-oblation materials may be offered one hundred times, or alternatively fifty times."
+  },
+  {
+   "verse": 2878,
+   "rows": [
+    {
+     "surface": "prāyaścittāhutiṃ",
+     "gloss": "expiation-oblation",
+     "grounds": "offering made to remove ritual faults",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full",
+     "grounds": "the final complete oblation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tāmbūlāhutisaṃyutām",
+     "gloss": "betel-oblation-joined",
+     "grounds": "compound describing accompaniment by a betel offering",
+     "morph": "f.acc.sg, compound=tāmbūla+āhuti+saṃyuta"
+    }
+   ],
+   "question": "What kind of expiation oblation must be performed together with a betel offering?",
+   "premises": [
+    "An expiation oblation is required.",
+    "This oblation must be the full final offering.",
+    "The full oblation is joined with a betel offering."
+   ],
+   "inference": "The expiation rite concludes with a full oblation accompanied by a betel offering.",
+   "uncertainties": [],
+   "plain_english": "One should perform the expiation oblation as a full offering accompanied by a betel offering."
+  },
+  {
+   "verse": 2879,
+   "rows": [
+    {
+     "surface": "antarbahirbaliṃ",
+     "gloss": "inner-outer-offering",
+     "grounds": "offerings made inside and outside the ritual space",
+     "morph": "m.acc.sg, compound=antar+bahis+bali"
+    },
+    {
+     "surface": "paścād",
+     "gloss": "afterwards",
+     "grounds": "indicates sequence following previous acts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācānto",
+     "gloss": "having-sipped-water",
+     "grounds": "ritually purified by sipping water",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantravigrahaḥ",
+     "gloss": "mantra-bodied",
+     "grounds": "one whose body is constituted by mantra",
+     "morph": "m.nom.sg, compound=mantra+vigraha"
+    }
+   ],
+   "question": "What ritual state must the officiant assume before offering the inner and outer bali?",
+   "premises": [
+    "The inner and outer bali are offered afterwards.",
+    "The officiant must have performed ritual sipping of water.",
+    "The officiant must be established as mantra-bodied."
+   ],
+   "inference": "After purification and assuming a mantra-body, the officiant offers the inner and outer bali.",
+   "uncertainties": [],
+   "plain_english": "Afterwards, having sipped water and become mantra-bodied, he should offer the inner and outer bali."
+  },
+  {
+   "verse": 2880,
+   "rows": [
+    {
+     "surface": "kartuḥ",
+     "gloss": "of-performer",
+     "grounds": "the ritual patron or agent",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhasmapradānaṃ",
+     "gloss": "ash-giving",
+     "grounds": "bestowal of sacred ash",
+     "morph": "n.acc.sg, compound=bhasma+pradāna"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "adds another ritual action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt-act √kṛ"
+    },
+    {
+     "surface": "sarvamanukramāt",
+     "gloss": "all-in-sequence",
+     "grounds": "according to the proper order",
+     "morph": "(indecl.), compound=sarva+anukrama"
+    }
+   ],
+   "question": "In what manner should the officiant bestow sacred ash upon the ritual performer?",
+   "premises": [
+    "The giving of ash to the performer is prescribed.",
+    "The officiant should carry out this action.",
+    "All actions must follow the proper sequence."
+   ],
+   "inference": "The officiant should give sacred ash to the performer in the prescribed order.",
+   "uncertainties": [],
+   "plain_english": "He should also give sacred ash to the performer, doing everything in the proper sequence."
+  },
+  {
+   "verse": 2881,
+   "rows": [
+    {
+     "surface": "deva",
+     "gloss": "deity",
+     "grounds": "refers to the divine presence or temple deity",
+     "morph": "m."
+    },
+    {
+     "surface": "dhāmnikṛtaṃ",
+     "gloss": "in-abode-done",
+     "grounds": "performed in the deity's abode or shrine",
+     "morph": "n.nom.sg, compound=dhāman+kṛta"
+    },
+    {
+     "surface": "caitad",
+     "gloss": "and-this",
+     "grounds": "sandhi fusion of ca and etad",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "introduces a conditional case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumbhodakaistadā",
+     "gloss": "with-pot-waters-then",
+     "grounds": "sandhi fusion of kumbhodakaiḥ and tadā",
+     "morph": "n.ins.pl, compound=kumbha+udaka + (indecl.)"
+    }
+   ],
+   "question": "What ritual procedure applies when the rite is performed in the deity's abode?",
+   "premises": [
+    "The rite may be performed in the deity's abode.",
+    "This situation is treated as a conditional case.",
+    "Pot waters are then employed in the procedure."
+   ],
+   "inference": "If the rite is done in the deity's abode, it is carried out using the waters from the pots.",
+   "uncertainties": [],
+   "plain_english": "If this is performed in the deity's abode, then it should be done with the waters from the pots."
+  },
+  {
+   "verse": 2882,
+   "rows": [
+    {
+     "surface": "diśāhomassamākhyātaḥ",
+     "gloss": "directional-fire-offering-declared",
+     "grounds": "sandhi fusion of diśāhomaḥ and samākhyātaḥ",
+     "morph": "m.nom.sg, compound=diśā+homa + m.nom.sg"
+    },
+    {
+     "surface": "sarvāriṣṭa+nivāraṇaḥ",
+     "gloss": "all-misfortune-removing",
+     "grounds": "compound describing removal of all evils",
+     "morph": "m.nom.sg, compound=sarva+ariṣṭa+nivāraṇa"
+    }
+   ],
+   "question": "What is the declared purpose of the directional fire offering in this ritual context?",
+   "premises": [
+    "A directional fire offering is declared.",
+    "This offering has a specific protective function.",
+    "Its function is the removal of all misfortunes."
+   ],
+   "inference": "The directional fire offering is prescribed to remove all misfortunes.",
+   "uncertainties": [],
+   "plain_english": "The directional fire offering is declared to be that which removes all misfortunes."
+  },
+  {
+   "verse": 2883,
+   "rows": [
+    {
+     "surface": "pratyaṅgirāyāś",
+     "gloss": "of-pratyaṅgirā",
+     "grounds": "refers to the deity or mantra Pratyaṅgirā",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "cāstrāṇāṃ",
+     "gloss": "and-of-weapons",
+     "grounds": "sandhi fusion of ca and astrāṇām",
+     "morph": "(indecl.) + n.gen.pl"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual honoring",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nātra",
+     "gloss": "not-here",
+     "grounds": "sandhi fusion of na and atra",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "samīritā",
+     "gloss": "declared",
+     "grounds": "stated or prescribed in this context",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why is the worship of Pratyaṅgirā and the weapons excluded in this specific ritual procedure?",
+   "premises": [
+    "Worship of Pratyaṅgirā and the weapons is a known practice.",
+    "This text addresses a specific ritual context.",
+    "In this context such worship is not declared."
+   ],
+   "inference": "The worship of Pratyaṅgirā and the weapons is not prescribed in this particular rite.",
+   "uncertainties": [],
+   "plain_english": "The worship of Pratyaṅgirā and of the weapons is not prescribed here."
+  },
+  {
+   "verse": 2884,
+   "rows": [
+    {
+     "surface": "homaśca",
+     "gloss": "fire-offering-and",
+     "grounds": "sandhi fusion of homaḥ and ca",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "puruṣāghoravāmājair",
+     "gloss": "with-puruṣa-aghora-vāma-born",
+     "grounds": "mantras or forms associated with Puruṣa, Aghora, Vāma, and Aja",
+     "morph": "m.ins.pl, compound=puruṣa+aghora+vāma+āja"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "in the cardinal directions",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "saṃmataḥ",
+     "gloss": "approved",
+     "grounds": "accepted in the ritual tradition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which mantras are approved for performing the fire offering in the cardinal directions?",
+   "premises": [
+    "A fire offering is to be performed in the directions.",
+    "Specific mantra groups are associated with this act.",
+    "The Puruṣa, Aghora, Vāma, and Aja forms are approved."
+   ],
+   "inference": "The directional fire offering is approved when performed with the Puruṣa, Aghora, Vāma, and Aja mantras.",
+   "uncertainties": [],
+   "plain_english": "And the fire offering in the directions is approved with the Puruṣa, Aghora, Vāma, and Aja mantras."
+  },
+  {
+   "verse": 2885,
+   "rows": [
+    {
+     "surface": "vakṣyehaṃ",
+     "gloss": "will-speak-i",
+     "grounds": "sandhi fusion of vakṣye and aham",
+     "morph": "1.sg.fut-mid √vac + 1.sg"
+    },
+    {
+     "surface": "saṃhitāhomaṃ",
+     "gloss": "saṃhitā-fire-offering",
+     "grounds": "fire offering performed with saṃhitā mantras",
+     "morph": "m.acc.sg, compound=saṃhitā+homa"
+    },
+    {
+     "surface": "sarvadoṣanikṛntanam",
+     "gloss": "all-faults-cutting",
+     "grounds": "that which destroys all defects or faults",
+     "morph": "m.acc.sg, compound=sarva+doṣa+nikṛntana"
+    }
+   ],
+   "question": "What is the purpose of the saṃhitā fire offering that the teacher now declares?",
+   "premises": [
+    "The teacher announces a saṃhitā fire offering.",
+    "This offering has a specific effect.",
+    "Its effect is the cutting away of all faults."
+   ],
+   "inference": "The saṃhitā fire offering is taught as a means to remove all faults.",
+   "uncertainties": [],
+   "plain_english": "I will now explain the saṃhitā fire offering, which cuts away all faults."
+  },
+  {
+   "verse": 2886,
+   "rows": [
+    {
+     "surface": "utsavādyagnimadhye",
+     "gloss": "festival-etc-fire-middle",
+     "grounds": "in the midst of the fire used in festivals and similar rites",
+     "morph": "n.loc.sg, compound=utsava+ādi+agni+madhya"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthaṇḍile",
+     "gloss": "on-altar-ground",
+     "grounds": "on a prepared ritual ground",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "prescriptive instruction for performance",
+     "morph": "3.sg.opt-act √sam-ā-car"
+    }
+   ],
+   "question": "Where may the saṃhitā fire offering be properly performed according to ritual prescription?",
+   "premises": [
+    "The saṃhitā fire offering must be performed.",
+    "One possible location is within the festival fire.",
+    "Another possible location is on a prepared altar ground."
+   ],
+   "inference": "The saṃhitā fire offering may be performed either in the festival fire or on a ritual altar.",
+   "uncertainties": [],
+   "plain_english": "One should perform it either in the fire of a festival and so on, or on a prepared altar ground."
+  },
+  {
+   "verse": 2887,
+   "rows": [
+    {
+     "surface": "tairmantraissaṃskṛte",
+     "gloss": "by-those-mantras-consecrated",
+     "grounds": "sandhi fusion of taiḥ, mantraiḥ, and saṃskṛte",
+     "morph": "m.ins.pl + m.ins.pl + m.loc.sg"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "the ritual fire",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "gandhādyair",
+     "gloss": "with-fragrance-etc",
+     "grounds": "with sandal paste and other offerings",
+     "morph": "m.ins.pl, compound=gandha+ādi"
+    },
+    {
+     "surface": "arcito",
+     "gloss": "worshipped",
+     "grounds": "honored through ritual offerings",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating preceptor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How must the teacher prepare and honor the fire before performing the saṃhitā oblations?",
+   "premises": [
+    "The fire must be consecrated with the prescribed mantras.",
+    "The teacher performs worship in the fire.",
+    "The worship includes fragrance and other offerings."
+   ],
+   "inference": "The teacher should worship the mantra-consecrated fire with fragrance and other offerings.",
+   "uncertainties": [],
+   "plain_english": "In the fire consecrated by those mantras, the teacher, having worshipped it with fragrance and other offerings, should proceed."
+  },
+  {
+   "verse": 2888,
+   "rows": [
+    {
+     "surface": "śivāddaśāṃśato",
+     "gloss": "from-śiva-tenth-part",
+     "grounds": "sandhi fusion of śivāt and daśāṃśataḥ, indicating a tenth portion relative to Śiva",
+     "morph": "m.abl.sg + (indecl.), compound=daśa+aṃśa"
+    },
+    {
+     "surface": "aṅgānām",
+     "gloss": "of-limbs",
+     "grounds": "the subsidiary mantras or limbs",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "āhutir",
+     "gloss": "oblation",
+     "grounds": "the fire offering",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "brahmaṇāmapi",
+     "gloss": "of-brahma-mantras-also",
+     "grounds": "sandhi fusion of brahmaṇām and api",
+     "morph": "n.gen.pl + (indecl.)"
+    }
+   ],
+   "question": "What proportion of oblations is prescribed for the limbs and the Brahma mantras relative to Śiva?",
+   "premises": [
+    "Oblations are offered to Śiva as the primary focus.",
+    "The limbs receive oblations in a fixed proportion.",
+    "The Brahma mantras also receive oblations in that proportion."
+   ],
+   "inference": "The limbs and the Brahma mantras receive oblations amounting to a tenth of those offered to Śiva.",
+   "uncertainties": [],
+   "plain_english": "The oblation for the limbs and also for the Brahma mantras should be a tenth part of that offered to Śiva."
+  },
+  {
+   "verse": 2889,
+   "rows": [
+    {
+     "surface": "prāyaścittārtham",
+     "gloss": "for-expiation",
+     "grounds": "for the purpose of removing faults",
+     "morph": "n.acc.sg, compound=prāyaścitta+artha"
+    },
+    {
+     "surface": "āpādya",
+     "gloss": "having-performed",
+     "grounds": "having brought about or completed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full-oblation",
+     "grounds": "the concluding complete offering",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "should-perform",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt-act √kṛ"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "in accordance with prescribed procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the concluding full oblation be performed for the purpose of expiation?",
+   "premises": [
+    "An expiation purpose is specified.",
+    "A full oblation must be performed.",
+    "The performance must follow the prescribed rule."
+   ],
+   "inference": "For expiation, one should perform the full oblation according to the prescribed procedure.",
+   "uncertainties": [],
+   "plain_english": "For the sake of expiation, having completed the rites, one should perform the full oblation according to rule."
+  },
+  {
+   "verse": 2890,
+   "rows": [
+    {
+     "surface": "harmyāgre'nyatra",
+     "gloss": "on-roof-front-or-elsewhere",
+     "grounds": "sandhi fusion of harmyāgre, anyatra indicating alternative locations",
+     "morph": "n.loc.sg + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtā",
+     "gloss": "having-made",
+     "grounds": "after preparing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar-ground",
+     "grounds": "a prepared ritual platform",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtamaṇḍale",
+     "gloss": "in-made-maṇḍala",
+     "grounds": "in a place where a maṇḍala has been prepared",
+     "morph": "n.loc.sg, compound=kṛta+maṇḍala"
+    }
+   ],
+   "question": "Where should the ritual altar be prepared when a maṇḍala has already been established?",
+   "premises": [
+    "A maṇḍala has been prepared.",
+    "An altar ground must be made.",
+    "Possible locations include the front of a building or elsewhere."
+   ],
+   "inference": "The altar should be prepared in the maṇḍala area, either at the front of a building or in another suitable place.",
+   "uncertainties": [],
+   "plain_english": "Having prepared a maṇḍala, one should make the altar ground at the front of a building or elsewhere."
+  },
+  {
+   "verse": 2891,
+   "rows": [
+    {
+     "surface": "aṣṭadikṣu",
+     "gloss": "in-eight-directions",
+     "grounds": "in the eight cardinal and intermediate directions",
+     "morph": "f.loc.pl, compound=aṣṭa+diś"
+    },
+    {
+     "surface": "aṣṭa+kumbhāṃstu",
+     "gloss": "eight-pots-and",
+     "grounds": "sandhi fusion of kumbhān and tu",
+     "morph": "m.acc.pl, compound=aṣṭa+kumbha + (indecl.)"
+    },
+    {
+     "surface": "vajrādyāyudha",
+     "gloss": "vajra-etc-weapon",
+     "grounds": "weapons beginning with the vajra",
+     "morph": "compound=vajra+ādi+āyudha"
+    },
+    {
+     "surface": "saṃyutān",
+     "gloss": "joined-with",
+     "grounds": "equipped or associated with",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "How should the eight pots be arranged and equipped in the eight directions of the ritual space?",
+   "premises": [
+    "Eight pots are to be placed in the eight directions.",
+    "Each pot must be associated with specific weapons.",
+    "The weapons begin with the vajra."
+   ],
+   "inference": "Eight pots equipped with the vajra and other weapons should be placed in the eight directions.",
+   "uncertainties": [],
+   "plain_english": "In the eight directions one should place eight pots, each joined with the vajra and the other weapons."
+  },
+  {
+   "verse": 2892,
+   "rows": [
+    {
+     "surface": "gandhodakodarān",
+     "gloss": "fragrant-water-filled",
+     "grounds": "pots filled with scented water",
+     "morph": "m.acc.pl, compound=gandha+udaka+udara"
+    },
+    {
+     "surface": "gandhapuṣpadhūpadīpa",
+     "gloss": "fragrance-flower-incense-lamp",
+     "grounds": "ritual offerings of scent, flowers, incense, and lamp",
+     "morph": "compound=gandha+puṣpa+dhūpa+dīpa"
+    },
+    {
+     "surface": "pradīpakaiḥ",
+     "gloss": "with-lamps",
+     "grounds": "accompanied by lamps or lights",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What contents and offerings must accompany the ritual pots prepared for the directional worship?",
+   "premises": [
+    "The pots must be filled with fragrant water.",
+    "Offerings of fragrance, flowers, incense, and lamps are required.",
+    "These items accompany the prepared pots."
+   ],
+   "inference": "The pots should be filled with scented water and accompanied by fragrance, flowers, incense, and lamps.",
+   "uncertainties": [],
+   "plain_english": "The pots should be filled with fragrant water and accompanied by offerings of fragrance, flowers, incense, and lamps."
+  },
+  {
+   "verse": 2893,
+   "rows": [
+    {
+     "surface": "yadvā",
+     "gloss": "or-else",
+     "grounds": "introduces an alternative procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aghorāstrarājānaṃ",
+     "gloss": "aghora-weapon-king",
+     "grounds": "the supreme Aghora weapon-mantra",
+     "morph": "m.acc.sg, compound=aghora+astra+rāja"
+    },
+    {
+     "surface": "madhyakumbhe",
+     "gloss": "in-middle-pot",
+     "grounds": "in the central pot",
+     "morph": "m.loc.sg, compound=madhya+kumbha"
+    },
+    {
+     "surface": "śivaṃ+vinā",
+     "gloss": "śiva-without",
+     "grounds": "excluding Śiva in this specific installation",
+     "morph": "m.acc.sg + (indecl.)"
+    }
+   ],
+   "question": "What alternative installation is prescribed for the central pot without invoking Śiva directly?",
+   "premises": [
+    "An alternative ritual option is given.",
+    "The central pot is the locus of installation.",
+    "The Aghora weapon-king is installed there without Śiva."
+   ],
+   "inference": "Alternatively, the supreme Aghora weapon may be installed in the central pot without Śiva.",
+   "uncertainties": [],
+   "plain_english": "Or alternatively, one may install the supreme Aghora weapon in the central pot, without Śiva."
+  },
+  {
+   "verse": 2894,
+   "rows": [
+    {
+     "surface": "datvāsanam",
+     "gloss": "having-given-seat",
+     "grounds": "sandhi fusion of datvā and āsanam",
+     "morph": "(indecl.) + n.acc.sg"
+    },
+    {
+     "surface": "athāstrāsanāya",
+     "gloss": "then-for-weapon-seat",
+     "grounds": "sandhi fusion of atha and astrāsanāya",
+     "morph": "(indecl.) + n.dat.sg, compound=astra+āsana"
+    },
+    {
+     "surface": "huṃ+phaṇṇamastviti",
+     "gloss": "huṃ-phaṭ-homage-thus",
+     "grounds": "mantra formula with bīja syllables huṃ and phaṭ",
+     "morph": "(indecl.), mantra-formula"
+    }
+   ],
+   "question": "What mantra formula is used when offering a seat to the weapon in the central pot?",
+   "premises": [
+    "A seat must first be given.",
+    "The seat is offered for the weapon.",
+    "A specific mantra formula accompanies this act."
+   ],
+   "inference": "After giving a seat, one offers the weapon-seat with the formula huṃ phaṭ namas.",
+   "uncertainties": [],
+   "plain_english": "Having given a seat, then for the seat of the weapon one should use the formula: huṃ phaṭ, homage."
+  },
+  {
+   "verse": 2895,
+   "rows": [
+    {
+     "surface": "dhyāyet",
+     "gloss": "should-meditate",
+     "grounds": "prescriptive visualization instruction",
+     "morph": "3.sg.opt-act √dhyai"
+    },
+    {
+     "surface": "sūryasahasrābhaṃ",
+     "gloss": "thousand-suns-splendor",
+     "grounds": "radiant like a thousand suns",
+     "morph": "m.acc.sg, compound=sūrya+sahasra+ābha"
+    },
+    {
+     "surface": "pralayāmbudanisvanam",
+     "gloss": "dissolution-cloud-sound",
+     "grounds": "sounding like clouds at cosmic dissolution",
+     "morph": "m.acc.sg, compound=pralaya+ambuda+nisvana"
+    }
+   ],
+   "question": "What radiant and thunderous qualities must be visualized in the deity during meditation?",
+   "premises": [
+    "Meditation on the deity is prescribed.",
+    "The deity's splendor is compared to a thousand suns.",
+    "The deity's sound is compared to dissolution clouds."
+   ],
+   "inference": "One should meditate on the deity as radiant like a thousand suns and sounding like dissolution clouds.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on him as shining like a thousand suns and sounding like the clouds of dissolution."
+  },
+  {
+   "verse": 2896,
+   "rows": [
+    {
+     "surface": "tryakṣaṃ",
+     "gloss": "three-eyed",
+     "grounds": "having three eyes",
+     "morph": "m.acc.sg, compound=tri+akṣa"
+    },
+    {
+     "surface": "taṭillatājihvā",
+     "gloss": "lightning-creeper-tongue",
+     "grounds": "tongue like a streak of lightning",
+     "morph": "compound=taṭit+latā+jihvā"
+    },
+    {
+     "surface": "dīptabhrūśmamaśrumūrdhajam",
+     "gloss": "blazing-brow-ash-beard-hair",
+     "grounds": "with blazing brows and ash-colored beard and hair",
+     "morph": "m.acc.sg, compound=dīpta+bhrū+śmaśru+mūrdhaja"
+    }
+   ],
+   "question": "What fierce physical features characterize the deity in the prescribed visualization?",
+   "premises": [
+    "The deity is visualized with three eyes.",
+    "The deity's tongue is like a flash of lightning.",
+    "The deity has blazing brows and ash-colored beard and hair."
+   ],
+   "inference": "The meditation form is fierce, three-eyed, with a lightning-like tongue and blazing, ash-colored features.",
+   "uncertainties": [
+    "The compound taṭillatājihvā is analyzed as describing the tongue; exact compound boundaries are interpretive."
+   ],
+   "plain_english": "He is three-eyed, with a tongue like a streak of lightning, and with blazing brows, ash-colored beard, and hair."
+  },
+  {
+   "verse": 2897,
+   "rows": [
+    {
+     "surface": "caturbhujaṃ",
+     "gloss": "four-armed",
+     "grounds": "having four arms",
+     "morph": "m.acc.sg, compound=catur+bhuja"
+    },
+    {
+     "surface": "caturvaktraṃ",
+     "gloss": "four-faced",
+     "grounds": "having four faces",
+     "morph": "m.acc.sg, compound=catur+vaktra"
+    },
+    {
+     "surface": "sphuraccandrārdha",
+     "gloss": "shining-half-moon",
+     "grounds": "adorned with a gleaming crescent moon",
+     "morph": "compound=sphurat+candra+ardha"
+    },
+    {
+     "surface": "śekharam",
+     "gloss": "crest",
+     "grounds": "having as a crest or diadem",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What bodily form and crest adornment define the deity in this meditative description?",
+   "premises": [
+    "The deity has four arms.",
+    "The deity has four faces.",
+    "The deity wears a shining crescent moon as a crest."
+   ],
+   "inference": "The deity is visualized as four-armed, four-faced, and crowned with a shining crescent moon.",
+   "uncertainties": [],
+   "plain_english": "He is four-armed, four-faced, and bears a shining crescent moon as his crest."
+  },
+  {
+   "verse": 2898,
+   "rows": [
+    {
+     "surface": "devadānavadaityānāṃ",
+     "gloss": "of-gods-dānavas-daityas",
+     "grounds": "classes of divine and demonic beings",
+     "morph": "m.gen.pl, compound=deva+dānava+daitya"
+    },
+    {
+     "surface": "darpitānāṃ",
+     "gloss": "of-proud",
+     "grounds": "those who are arrogant",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vimardakam",
+     "gloss": "crusher",
+     "grounds": "one who subdues or crushes",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What power over arrogant beings is attributed to the deity in this visualization?",
+   "premises": [
+    "Gods, dānavas, and daityas are included as targets.",
+    "These beings are described as proud.",
+    "The deity is characterized as their crusher."
+   ],
+   "inference": "The deity is visualized as the crusher of proud gods, dānavas, and daityas.",
+   "uncertainties": [],
+   "plain_english": "He is the crusher of the proud gods, dānavas, and daityas."
+  },
+  {
+   "verse": 2899,
+   "rows": [
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "a ritual emblem or weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "discus",
+     "grounds": "a ritual emblem or weapon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśāne",
+     "gloss": "in-northeast",
+     "grounds": "in the Īśāna direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naiṛte",
+     "gloss": "in-southwest",
+     "grounds": "in the Nairṛta direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "in-order",
+     "grounds": "according to proper sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.opt-act √yaj"
+    }
+   ],
+   "question": "In which directions and in what order should the lotus and discus be worshipped?",
+   "premises": [
+    "The lotus and discus are objects of worship.",
+    "Specific directions are assigned for their worship.",
+    "The worship must follow the proper order."
+   ],
+   "inference": "One should worship the lotus and discus in the Īśāna and Nairṛta directions respectively, in due order.",
+   "uncertainties": [
+    "The exact assignment of lotus to Īśāna and discus to Nairṛta is inferred from the stated order."
+   ],
+   "plain_english": "One should worship the lotus and the discus in the Īśāna and Nairṛta directions respectively, in proper order."
+  }
+ ]
+}

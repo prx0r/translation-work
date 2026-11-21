@@ -1,0 +1,909 @@
+{
+ "song": "mukta-m0-p261",
+ "items": [
+  {
+   "verse": 6501,
+   "rows": [
+    {
+     "surface": "darpaṇe",
+     "gloss": "in-mirror",
+     "grounds": "locative locus for worship",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjayetsūryaṃ",
+     "gloss": "one-should-worship-sun",
+     "grounds": "fused optative verb and object; sandhi noted",
+     "morph": "3.sg.opt-act √pūj + m.acc.sg"
+    },
+    {
+     "surface": "pūrṇakumbhe",
+     "gloss": "in-full-pot",
+     "grounds": "locative locus for worship",
+     "morph": "m.loc.sg compound"
+    },
+    {
+     "surface": "jaleśvaram",
+     "gloss": "water-lord",
+     "grounds": "deity to be worshipped",
+     "morph": "m.acc.sg compound"
+    }
+   ],
+   "question": "Which deities are to be worshipped in a mirror and in a full water pot?",
+   "premises": [
+    "A mirror serves as a locus of worship.",
+    "The sun is worshipped in the mirror.",
+    "A full pot serves as a locus of worship.",
+    "The lord of waters is worshipped in the full pot."
+   ],
+   "inference": "The ritual assigns the sun to the mirror and the water-lord to the full pot.",
+   "uncertainties": [],
+   "plain_english": "One should worship the sun in a mirror and the lord of waters in a full pot."
+  },
+  {
+   "verse": 6502,
+   "rows": [
+    {
+     "surface": "śaṅkhe",
+     "gloss": "in-conch",
+     "grounds": "locative locus for worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vimalaṃ",
+     "gloss": "pure-one",
+     "grounds": "deity or aspect to be worshipped",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīpe",
+     "gloss": "in-lamp",
+     "grounds": "locative locus for worship",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pūjayeddhavyavāhanam",
+     "gloss": "one-should-worship-fire-carrier",
+     "grounds": "fused optative verb and object; sandhi noted",
+     "morph": "3.sg.opt-act √pūj + m.acc.sg compound"
+    }
+   ],
+   "question": "Which deities are to be worshipped in a conch and in a lamp?",
+   "premises": [
+    "A conch serves as a locus of worship.",
+    "The pure one is worshipped in the conch.",
+    "A lamp serves as a locus of worship.",
+    "The fire-carrier is worshipped in the lamp."
+   ],
+   "inference": "The ritual assigns the pure one to the conch and the fire-carrier to the lamp.",
+   "uncertainties": [
+    "vimalaṃ may refer to a specific deity or a pure aspect"
+   ],
+   "plain_english": "But one should worship the pure one in a conch and the fire-carrier in a lamp."
+  },
+  {
+   "verse": 6503,
+   "rows": [
+    {
+     "surface": "pūrvasmin",
+     "gloss": "in-eastern",
+     "grounds": "specifies location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-western",
+     "grounds": "specifies location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "locative of area",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cāmaradvitayaṃ",
+     "gloss": "pair-of-fans",
+     "grounds": "object to be placed",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt-act √nyas"
+    }
+   ],
+   "question": "Where should a pair of chowrie fans be placed in the ritual arrangement?",
+   "premises": [
+    "The eastern part is a designated location.",
+    "The western part is a designated location.",
+    "A pair of fans is the object to be placed."
+   ],
+   "inference": "A pair of chowrie fans should be placed in the eastern and western parts.",
+   "uncertainties": [],
+   "plain_english": "One should place a pair of chowrie fans in the eastern and western parts."
+  },
+  {
+   "verse": 6504,
+   "rows": [
+    {
+     "surface": "hitvā",
+     "gloss": "having-abandoned",
+     "grounds": "expresses omission of an alternative",
+     "morph": "absolutive √hā"
+    },
+    {
+     "surface": "aṣṭamaṅglaṃ",
+     "gloss": "eight-auspicious-things",
+     "grounds": "ritual set that may be omitted",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces alternative action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatsthāne",
+     "gloss": "in-that-place",
+     "grounds": "locative of substitution",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "refers to substitute objects",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt-act √pūj"
+    }
+   ],
+   "question": "What alternative action is permitted instead of using the eight auspicious objects?",
+   "premises": [
+    "The eight auspicious objects may be omitted.",
+    "Their place can receive other objects.",
+    "Those substitute objects should be worshipped."
+   ],
+   "inference": "One may omit the eight auspicious objects and worship substitutes in their place.",
+   "uncertainties": [
+    "tān refers to unspecified substitute items"
+   ],
+   "plain_english": "Or, having omitted the eight auspicious objects, one should then worship those in that place."
+  },
+  {
+   "verse": 6505,
+   "rows": [
+    {
+     "surface": "dhvajaṃ",
+     "gloss": "banner",
+     "grounds": "object to be made",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "introduces further options",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gadāṃ",
+     "gloss": "mace",
+     "grounds": "object to be made",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "padmaṃ",
+     "gloss": "lotus",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "discus",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause-make",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt-caus-act √kṛ"
+    }
+   ],
+   "question": "Which emblematic objects may be commissioned as alternatives in the ritual?",
+   "premises": [
+    "A banner is a possible object.",
+    "A mace is a possible object.",
+    "A lotus and a discus are possible objects.",
+    "These objects should be made."
+   ],
+   "inference": "One may have a banner, mace, lotus, or discus made.",
+   "uncertainties": [],
+   "plain_english": "Or then one should have a banner, a mace, a lotus, and a discus made."
+  },
+  {
+   "verse": 6506,
+   "rows": [
+    {
+     "surface": "lohairvā",
+     "gloss": "with-metals-or",
+     "grounds": "fused instrumental and alternative particle; sandhi noted",
+     "morph": "n.ins.pl + (indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yājñikairvṛkṣairlohaśced",
+     "gloss": "with-sacrificial-trees-if-metal",
+     "grounds": "fused compound with conditional; sandhi noted",
+     "morph": "m.ins.pl compound + n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "beramānataḥ",
+     "gloss": "according-to-image-measure",
+     "grounds": "specifies proportional standard",
+     "morph": "m.abl.sg compound"
+    }
+   ],
+   "question": "From what materials and by what measure should the ritual objects be fashioned?",
+   "premises": [
+    "Metals are possible materials.",
+    "Sacrificial trees are possible materials.",
+    "A condition distinguishes metal cases.",
+    "The measure follows the image standard."
+   ],
+   "inference": "Objects may be made from metals or sacrificial trees, with metal ones measured according to the image.",
+   "uncertainties": [
+    "beramānataḥ interpretation depends on iconometric convention"
+   ],
+   "plain_english": "They may be made with metals or with sacrificial trees; if of metal, according to the measure of the image."
+  },
+  {
+   "verse": 6507,
+   "rows": [
+    {
+     "surface": "jāye",
+     "gloss": "two-born",
+     "grounds": "subject pair to be identified",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "first identified entity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gade",
+     "gloss": "two-maces",
+     "grounds": "objects identified as feminine",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "jñeya",
+     "gloss": "to-be-known",
+     "grounds": "prescriptive identification",
+     "morph": "f.nom.du gerundive"
+    },
+    {
+     "surface": "śeṣāḥ",
+     "gloss": "remaining-ones",
+     "grounds": "other objects in the set",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "puruṣalakṣaṇāḥ",
+     "gloss": "having-male-marks",
+     "grounds": "gender characterization",
+     "morph": "m.nom.pl compound"
+    }
+   ],
+   "question": "How are the mace and the remaining emblematic objects classified by gendered characteristics?",
+   "premises": [
+    "The two maces are to be known as power.",
+    "Power is characterized as feminine here.",
+    "The remaining objects have male marks."
+   ],
+   "inference": "The maces are identified as feminine power, while the remaining objects are marked as male.",
+   "uncertainties": [
+    "jāye reading as dual is inferred from context"
+   ],
+   "plain_english": "The two maces should be known as feminine power, and the rest as having male characteristics."
+  },
+  {
+   "verse": 6508,
+   "rows": [
+    {
+     "surface": "tanmūrdhnikuṭordhve",
+     "gloss": "on-its-head-top-or-above",
+     "grounds": "fused locative compound indicating placement; sandhi noted",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "alternative placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vajrādikānnyaset",
+     "gloss": "one-should-place-vajra-etc",
+     "grounds": "fused verb and object; sandhi noted",
+     "morph": "3.sg.opt-act √nyas + m.acc.pl compound"
+    }
+   ],
+   "question": "Where may the vajra and similar implements be placed on the figure?",
+   "premises": [
+    "The top of its head is a possible location.",
+    "The hand is a possible location.",
+    "The vajra and similar items are to be placed."
+   ],
+   "inference": "One should place the vajra and similar implements on its head-top or in its hand.",
+   "uncertainties": [],
+   "plain_english": "One should place the vajra and other such implements on its head-top or in its hand."
+  },
+  {
+   "verse": 6509,
+   "rows": [
+    {
+     "surface": "ṣaṭtriṃśadaṅgulāyāmamaṣṭāṅgulasuvistaram",
+     "gloss": "thirty-six-finger-length-eight-finger-width",
+     "grounds": "fused compound giving dimensions; sandhi noted",
+     "morph": "n.acc.sg compound"
+    }
+   ],
+   "question": "What specific length and width measurements are prescribed for this object?",
+   "premises": [
+    "The length is thirty-six fingers.",
+    "The width is eight fingers.",
+    "These dimensions define the object."
+   ],
+   "inference": "The object should measure thirty-six fingers in length and eight fingers in width.",
+   "uncertainties": [],
+   "plain_english": "It should be thirty-six fingers in length and eight fingers in width."
+  },
+  {
+   "verse": 6510,
+   "rows": [
+    {
+     "surface": "mātrairekonapañcāśat",
+     "gloss": "by-measures-forty-nine",
+     "grounds": "fused instrumental and numeral; sandhi noted",
+     "morph": "f.ins.pl + numeral"
+    },
+    {
+     "surface": "paryantairdīrdhamucyate",
+     "gloss": "by-limits-length-is-stated",
+     "grounds": "fused compound with verb; sandhi noted",
+     "morph": "m.ins.pl + n.nom.sg + 3.sg.pres-pass √vac"
+    }
+   ],
+   "question": "What maximum length in measures is stated for the object’s extent?",
+   "premises": [
+    "Measures define the extent.",
+    "The count reaches forty-nine.",
+    "This count states the length."
+   ],
+   "inference": "The length is stated as forty-nine measures at its limit.",
+   "uncertainties": [
+    "exact unit of mātrā depends on context"
+   ],
+   "plain_english": "Its length is said to be forty-nine measures at the outer limits."
+  },
+  {
+   "verse": 6511,
+   "rows": [
+    {
+     "surface": "iṣṭamānena",
+     "gloss": "by-desired-measure",
+     "grounds": "instrumental standard of choice",
+     "morph": "n.ins.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caiteṣāṃ",
+     "gloss": "and-of-these",
+     "grounds": "fused connective and genitive; sandhi noted",
+     "morph": "(indecl.) + m.gen.pl"
+    },
+    {
+     "surface": "vistāra",
+     "gloss": "width",
+     "grounds": "dimension being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverbial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-stated",
+     "grounds": "prescriptive statement",
+     "morph": "3.sg.pres-pass √kath"
+    }
+   ],
+   "question": "By what standard is the width of these objects determined in this context?",
+   "premises": [
+    "A desired measure can be chosen.",
+    "The objects in question are these.",
+    "Their width is stated here."
+   ],
+   "inference": "The width of these objects is stated here according to a desired measure.",
+   "uncertainties": [],
+   "plain_english": "And here the width of these is stated according to the desired measure."
+  },
+  {
+   "verse": 6512,
+   "rows": [
+    {
+     "surface": "tatpārśve",
+     "gloss": "at-its-side",
+     "grounds": "possible location",
+     "morph": "n.loc.sg compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "marks alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antare",
+     "gloss": "in-gap",
+     "grounds": "alternative location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "fused alternative particles; sandhi noted",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "tadbilaṃ",
+     "gloss": "that-hole",
+     "grounds": "object to be made",
+     "morph": "n.acc.sg compound"
+    },
+    {
+     "surface": "vidhinācaret",
+     "gloss": "one-should-make-by-rule",
+     "grounds": "fused instrumental and verb; sandhi noted",
+     "morph": "m.ins.sg + 3.sg.opt-act √car"
+    }
+   ],
+   "question": "Where and according to what rule should the prescribed hole be made?",
+   "premises": [
+    "Its side is a possible location.",
+    "The gap is a possible location.",
+    "The hole must be made according to rule."
+   ],
+   "inference": "One should make that hole at its side or in the gap according to the prescribed rule.",
+   "uncertainties": [],
+   "plain_english": "One should make that hole at its side or in the gap according to the proper rule."
+  },
+  {
+   "verse": 6513,
+   "rows": [
+    {
+     "surface": "dairghyaṃ",
+     "gloss": "length",
+     "grounds": "dimension being specified",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-it",
+     "grounds": "refers to the object",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "rasāṅgeṣuvedikāṅguṣṭhakarṇikā",
+     "gloss": "rasa-limb-arrow-altar-thumb-pericarp",
+     "grounds": "fused compound listing measures or parts; sandhi noted",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What components or measures define the length of that object?",
+   "premises": [
+    "The object has a length.",
+    "The length is specified by named parts or measures.",
+    "These terms identify that specification."
+   ],
+   "inference": "The length of it is defined by the stated sequence of measures and parts.",
+   "uncertainties": [
+    "compound segmentation and exact numeric values are unclear"
+   ],
+   "plain_english": "Its length is defined by the measures of rasa, limbs, arrows, altar, thumb, and pericarp."
+  },
+  {
+   "verse": 6514,
+   "rows": [
+    {
+     "surface": "saptāṅgulārdhavicchinnacatussaṃvartitānanā",
+     "gloss": "seven-finger-half-cut-four-turned-face",
+     "grounds": "fused descriptive compound; sandhi noted",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What physical form and facial shaping are prescribed for this object?",
+   "premises": [
+    "A seven-finger half measure is involved.",
+    "The form is cut or divided accordingly.",
+    "The face is turned fourfold."
+   ],
+   "inference": "The object is described as having a seven-and-a-half-finger cut and a fourfold turned face.",
+   "uncertainties": [
+    "precise technical meaning of saṃvartitānanā is unclear"
+   ],
+   "plain_english": "It has a seven-and-a-half-finger cut and a face turned four times."
+  },
+  {
+   "verse": 6515,
+   "rows": [
+    {
+     "surface": "kalaśodgataṣaṇṇāhadaṇḍāgraśrutivedikā",
+     "gloss": "pot-risen-six-band-staff-tip-heard-altar",
+     "grounds": "fused descriptive compound; sandhi noted",
+     "morph": "f.nom.sg compound"
+    }
+   ],
+   "question": "What structural features rising from the pot are attributed to this object?",
+   "premises": [
+    "The object rises from a pot.",
+    "It has six bands and a staff tip.",
+    "An altar feature is included in the description."
+   ],
+   "inference": "The object is characterized by features rising from a pot, including six bands, a staff tip, and an altar element.",
+   "uncertainties": [
+    "technical interpretation of śrutivedikā is unclear"
+   ],
+   "plain_english": "It rises from a pot and has six bands, a staff tip, and the prescribed altar feature."
+  },
+  {
+   "verse": 6516,
+   "rows": [
+    {
+     "surface": "nānāvājanavetraiśca",
+     "gloss": "with-various-instruments-and-sticks",
+     "grounds": "fused instrumental compound and connective; sandhi noted",
+     "morph": "n.ins.pl compound + (indecl.)"
+    },
+    {
+     "surface": "padmapatrairvicitritā",
+     "gloss": "adorned-with-lotus-petals",
+     "grounds": "fused instrumental and past participle; sandhi noted",
+     "morph": "n.ins.pl compound + f.nom.sg"
+    }
+   ],
+   "question": "With what decorative elements is the object to be adorned?",
+   "premises": [
+    "Various instruments and sticks are used.",
+    "Lotus petals are used.",
+    "These elements adorn the object."
+   ],
+   "inference": "The object is adorned with various instruments, sticks, and lotus petals.",
+   "uncertainties": [
+    "vājana may refer to vessels or instruments"
+   ],
+   "plain_english": "It is adorned with various instruments and sticks, and with lotus petals."
+  },
+  {
+   "verse": 6517,
+   "rows": [
+    {
+     "surface": "karṇapārśvaikamātronaśarāvādāmukhāvadhaḥ",
+     "gloss": "ear-side-one-measure-less-bowl-mouth-limit",
+     "grounds": "fused compound specifying a limit; sandhi noted",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What boundary or limit is specified for the object’s side and mouth?",
+   "premises": [
+    "The ear side is a reference point.",
+    "One measure less is indicated.",
+    "The limit extends to the bowl-like mouth."
+   ],
+   "inference": "The boundary is defined as one measure less at the ear side up to the bowl-like mouth.",
+   "uncertainties": [
+    "compound segmentation and technical referents are uncertain"
+   ],
+   "plain_english": "Its limit is one measure less at the ear side, extending to the bowl-like mouth."
+  },
+  {
+   "verse": 6518,
+   "rows": [
+    {
+     "surface": "athavā",
+     "gloss": "or-else",
+     "grounds": "introduces alternative specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triṃśadāyāmamaṣṭāṅgula",
+     "gloss": "thirty-length-eight-finger",
+     "grounds": "fused compound giving dimensions; sandhi noted",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "suvistaram",
+     "gloss": "well-broad",
+     "grounds": "qualifies width",
+     "morph": "m.acc.sg compound"
+    }
+   ],
+   "question": "What alternative dimensions are permitted for the object in this specification?",
+   "premises": [
+    "An alternative is introduced.",
+    "The length is thirty units.",
+    "The width is eight fingers and broad."
+   ],
+   "inference": "Alternatively, the object may be thirty in length and eight fingers in breadth.",
+   "uncertainties": [
+    "unit of triṃśat is not explicitly stated"
+   ],
+   "plain_english": "Or else it may be thirty in length and eight fingers broad."
+  },
+  {
+   "verse": 6519,
+   "rows": [
+    {
+     "surface": "āsyaṃ",
+     "gloss": "mouth",
+     "grounds": "part to be shaped",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trikoṇavatkāryaṃ",
+     "gloss": "to-be-made-triangle-like",
+     "grounds": "fused gerundive compound; sandhi noted",
+     "morph": "n.nom.sg compound gerundive"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative of feature",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bilasamanvitam",
+     "gloss": "provided-with-hole",
+     "grounds": "describes required feature",
+     "morph": "n.nom.sg compound"
+    }
+   ],
+   "question": "What shape and central feature must the mouth of the object have?",
+   "premises": [
+    "The mouth must be made in a certain shape.",
+    "That shape is triangular.",
+    "The middle must contain a hole."
+   ],
+   "inference": "The mouth should be made triangular and provided with a hole in the middle.",
+   "uncertainties": [],
+   "plain_english": "The mouth should be made triangular, with a hole in the middle."
+  },
+  {
+   "verse": 6520,
+   "rows": [
+    {
+     "surface": "tadadho",
+     "gloss": "below-that",
+     "grounds": "fused locative expression; sandhi noted",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "gaṇḍikā",
+     "gloss": "bulge",
+     "grounds": "part to be made",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "prescriptive instruction",
+     "morph": "f.nom.sg gerundive √kṛ"
+    },
+    {
+     "surface": "mātrārdhādardhavṛddhitaḥ",
+     "gloss": "by-half-measure-half-increase",
+     "grounds": "fused compound indicating increment; sandhi noted",
+     "morph": "f.abl.sg compound"
+    }
+   ],
+   "question": "How should the bulge below that part be proportioned in its construction?",
+   "premises": [
+    "A bulge is to be made below that part.",
+    "Its size follows a measure-based increase.",
+    "The increase is by a half measure."
+   ],
+   "inference": "A bulge should be made below it, increased by a half measure.",
+   "uncertainties": [
+    "exact proportional formula is compressed in the compound"
+   ],
+   "plain_english": "Below that, a bulge should be made, increased by a half measure."
+  },
+  {
+   "verse": 6521,
+   "rows": [
+    {
+     "surface": "muṣṭyaṣ.āṅgulamānena",
+     "gloss": "by-fist-eight-finger-measure",
+     "grounds": "instrumental measure; internal punctuation preserved",
+     "morph": "n.ins.sg compound"
+    },
+    {
+     "surface": "tannāho",
+     "gloss": "its-circumference",
+     "grounds": "fused pronoun and noun; sandhi noted",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "aṣṭāṅgulena",
+     "gloss": "by-eight-fingers",
+     "grounds": "alternative or additional measure",
+     "morph": "n.ins.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What measurements determine the circumference of that part of the object?",
+   "premises": [
+    "A fist-and-eight-finger measure is given.",
+    "An eight-finger measure is also given.",
+    "These measures apply to its circumference."
+   ],
+   "inference": "Its circumference is determined by the stated fist-and-eight-finger and eight-finger measures.",
+   "uncertainties": [
+    "relation between the two measures is ambiguous"
+   ],
+   "plain_english": "Its circumference is by the measure of a fist and eight fingers, and by eight fingers."
+  },
+  {
+   "verse": 6522,
+   "rows": [
+    {
+     "surface": "dvātriṃśadaṅgulāyāmaṃ",
+     "gloss": "thirty-two-finger-length",
+     "grounds": "accusative dimension",
+     "morph": "m.acc.sg compound"
+    },
+    {
+     "surface": "saptāṅgulasuvistaram",
+     "gloss": "seven-finger-good-width",
+     "grounds": "accusative dimension",
+     "morph": "m.acc.sg compound"
+    }
+   ],
+   "question": "What length and width are prescribed for this component of the object?",
+   "premises": [
+    "The length is thirty-two fingers.",
+    "The width is seven fingers.",
+    "Both dimensions are specified together."
+   ],
+   "inference": "The component should be thirty-two fingers long and seven fingers wide.",
+   "uncertainties": [],
+   "plain_english": "It should be thirty-two fingers in length and seven fingers in width."
+  },
+  {
+   "verse": 6523,
+   "rows": [
+    {
+     "surface": "karṇaḥ",
+     "gloss": "ear",
+     "grounds": "part being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pakṣāṅgulāyāmo",
+     "gloss": "two-finger-length",
+     "grounds": "fused compound giving length; sandhi noted",
+     "morph": "m.nom.sg compound"
+    },
+    {
+     "surface": "vistāraśśaramātrakaḥ",
+     "gloss": "width-arrow-measure",
+     "grounds": "fused compound giving width; sandhi noted",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What length and width are specified for the ear-like part of the object?",
+   "premises": [
+    "The ear is the part described.",
+    "Its length is two fingers.",
+    "Its width is five measures."
+   ],
+   "inference": "The ear should be two fingers long and five measures wide.",
+   "uncertainties": [
+    "pakṣa interpreted as two; śara interpreted as five"
+   ],
+   "plain_english": "The ear is two fingers in length and five measures in width."
+  },
+  {
+   "verse": 6524,
+   "rows": [
+    {
+     "surface": "gaṇḍikaikāṅgulā",
+     "gloss": "bulge-one-finger",
+     "grounds": "fused compound giving size; sandhi noted",
+     "morph": "f.nom.sg compound"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "authoritative statement",
+     "morph": "f.nom.sg past-participle √vac"
+    },
+    {
+     "surface": "tannāhaścābdhimātrakaḥ",
+     "gloss": "its-circumference-four-measures",
+     "grounds": "fused compound giving circumference; sandhi noted",
+     "morph": "m.nom.sg compound"
+    }
+   ],
+   "question": "What dimensions are declared for the bulge and its circumference?",
+   "premises": [
+    "The bulge is declared to be one finger.",
+    "Its circumference is also declared.",
+    "The circumference is four measures."
+   ],
+   "inference": "The bulge is one finger in size and its circumference is four measures.",
+   "uncertainties": [
+    "abdhi interpreted as four"
+   ],
+   "plain_english": "The bulge is declared to be one finger, and its circumference four measures."
+  }
+ ]
+}

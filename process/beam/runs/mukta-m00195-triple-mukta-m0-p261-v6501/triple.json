@@ -1,0 +1,995 @@
+{
+ "song": "mukta-m0-p261",
+ "items": [
+  {
+   "verse": 6501,
+   "rows": [
+    {
+     "surface": "dvyakṣaro",
+     "gloss": "two-syllabled",
+     "grounds": "qualifies the mantra as having two syllables",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "the sacred formula being described",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pañcamaḥ",
+     "gloss": "fifth",
+     "grounds": "ordinal designation in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "states how the mantra is designated",
+     "morph": "m.nom.sg.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "How is the fifth mantra characterized in syllabic form?",
+   "premises": [
+    "A mantra is being identified in sequence.",
+    "This mantra is designated as the fifth.",
+    "It is described as having two syllables."
+   ],
+   "inference": "The fifth mantra in the sequence is declared to be two-syllabled.",
+   "uncertainties": [],
+   "plain_english": "The fifth mantra is declared to be two-syllabled."
+  },
+  {
+   "verse": 6502,
+   "rows": [
+    {
+     "surface": "brahmāprapañcādiḥ",
+     "gloss": "brahmā-expansion-beginning",
+     "grounds": "compound naming the sage associated with the mantra",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers back to the previously mentioned figure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "refers to the mantra described",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "the seer associated with the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "states traditional attribution",
+     "morph": "m.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "Who is traditionally remembered as the sage of this mantra?",
+   "premises": [
+    "The mantra has an associated sage.",
+    "The figure beginning with Brahmā and the expansion is identified.",
+    "This figure is remembered as its sage."
+   ],
+   "inference": "The sage of this mantra is remembered as the one beginning with Brahmā and the expansion.",
+   "uncertainties": [
+    "The exact referent of brahmāprapañcādiḥ is not fully explicit."
+   ],
+   "plain_english": "He who begins with Brahmā and the expansion is remembered as the sage of this mantra."
+  },
+  {
+   "verse": 6503,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "names the presiding deity category for the mantra",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What presiding principle is assigned to this mantra here?",
+   "premises": [
+    "A mantra requires an associated presiding principle.",
+    "The term devatā names that principle.",
+    "This verse states that assignment."
+   ],
+   "inference": "The presiding principle of the mantra is its deity.",
+   "uncertainties": [
+    "The specific deity is not named in this verse alone."
+   ],
+   "plain_english": "Its deity is stated."
+  },
+  {
+   "verse": 6504,
+   "rows": [
+    {
+     "surface": "sabindumātṛkānyāso",
+     "gloss": "with-bindu-mātṛkā-installation",
+     "grounds": "compound naming a ritual installation including bindu and mātṛkā",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "dvitīyaḥ",
+     "gloss": "second",
+     "grounds": "ordinal designation in the sequence of installations",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "declared",
+     "grounds": "states the designation",
+     "morph": "m.nom.sg.past-passive-participle √kīrt"
+    }
+   ],
+   "question": "Which installation is declared to be the second in sequence?",
+   "premises": [
+    "A sequence of installations is being described.",
+    "One installation includes bindu and mātṛkā.",
+    "This installation is designated as second."
+   ],
+   "inference": "The installation of mātṛkā with bindu is declared to be the second.",
+   "uncertainties": [],
+   "plain_english": "The installation of the mātṛkā with bindu is declared to be the second."
+  },
+  {
+   "verse": 6505,
+   "rows": [
+    {
+     "surface": "keśavādikamātṝṇāṃ",
+     "gloss": "keśava-beginning-mothers",
+     "grounds": "compound referring to the group of mothers beginning with Keśava",
+     "morph": "f.gen.pl (compound)"
+    },
+    {
+     "surface": "caturtho",
+     "gloss": "fourth",
+     "grounds": "ordinal designation of the installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsa",
+     "gloss": "installation",
+     "grounds": "ritual placement being named",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states the designation",
+     "morph": "3.sg.passive-present √vac"
+    }
+   ],
+   "question": "Which installation is identified as the fourth in this sequence?",
+   "premises": [
+    "Installations are being enumerated in order.",
+    "There is an installation of the mothers beginning with Keśava.",
+    "This installation is called the fourth."
+   ],
+   "inference": "The installation of the mothers beginning with Keśava is called the fourth.",
+   "uncertainties": [],
+   "plain_english": "The installation of the mothers beginning with Keśava is called the fourth."
+  },
+  {
+   "verse": 6506,
+   "rows": [
+    {
+     "surface": "māyābījādikaḥ",
+     "gloss": "māyā-seed-beginning",
+     "grounds": "compound describing the installation as beginning with the māyā bīja",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ṣaṣṭho",
+     "gloss": "sixth",
+     "grounds": "ordinal designation of the installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṛkānyāsa",
+     "gloss": "mātṛkā-installation",
+     "grounds": "compound naming the type of installation",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states the designation",
+     "morph": "3.sg.passive-present √vac"
+    }
+   ],
+   "question": "Which mātṛkā installation is designated as the sixth?",
+   "premises": [
+    "A sequence of mātṛkā installations is given.",
+    "One installation begins with the māyā bīja.",
+    "That installation is called the sixth."
+   ],
+   "inference": "The mātṛkā installation beginning with the māyā bīja is called the sixth.",
+   "uncertainties": [],
+   "plain_english": "The mātṛkā installation beginning with the māyā seed is called the sixth."
+  },
+  {
+   "verse": 6507,
+   "rows": [
+    {
+     "surface": "mātṛkākāmabījādyās",
+     "gloss": "mātṛkā-kāma-seed-beginning",
+     "grounds": "compound describing an installation beginning with mātṛkā and the kāma bīja",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tannyāsaḥ",
+     "gloss": "that-installation",
+     "grounds": "compound referring to that installation",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "cāṣṭamo",
+     "gloss": "and-eighth",
+     "grounds": "sandhi of ca + aṣṭamaḥ; ordinal designation",
+     "morph": "m.nom.sg (sandhi: ca + aṣṭamaḥ)"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "considered",
+     "grounds": "states the accepted designation",
+     "morph": "m.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "Which installation is considered to be the eighth in order?",
+   "premises": [
+    "Installations are being enumerated sequentially.",
+    "One installation begins with mātṛkā and the kāma bīja.",
+    "That installation is considered the eighth."
+   ],
+   "inference": "The installation beginning with mātṛkā and the kāma bīja is considered the eighth.",
+   "uncertainties": [],
+   "plain_english": "That installation, beginning with the mātṛkā and the kāma seed, is considered the eighth."
+  },
+  {
+   "verse": 6508,
+   "rows": [
+    {
+     "surface": "prapañcapūrvāṇāṃ",
+     "gloss": "expansion-preceded",
+     "grounds": "describes the mothers as preceded by the expansion",
+     "morph": "f.gen.pl (compound)"
+    },
+    {
+     "surface": "mantro",
+     "gloss": "mantra",
+     "grounds": "the formula being designated",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mātṝṇāṃ",
+     "gloss": "of-mothers",
+     "grounds": "refers to the group of mothers",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "daśamaḥ",
+     "gloss": "tenth",
+     "grounds": "ordinal designation in the sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "states traditional designation",
+     "morph": "m.nom.sg.past-passive-participle √smṛ"
+    }
+   ],
+   "question": "Which mantra of the mothers is remembered as the tenth?",
+   "premises": [
+    "Mantras of the mothers are being enumerated.",
+    "One mantra is associated with those preceded by the expansion.",
+    "This mantra is remembered as the tenth."
+   ],
+   "inference": "The mantra of the mothers preceded by the expansion is remembered as the tenth.",
+   "uncertainties": [],
+   "plain_english": "The mantra of the mothers preceded by the expansion is remembered as the tenth."
+  },
+  {
+   "verse": 6509,
+   "rows": [
+    {
+     "surface": "vyāpakatvāt",
+     "gloss": "because-of-pervasiveness",
+     "grounds": "gives the reason for the following negations",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kālasya",
+     "gloss": "of-time",
+     "grounds": "the pervasive entity referred to",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates meditation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "ritual or contemplative act negated",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjanam",
+     "gloss": "worship",
+     "grounds": "ritual act negated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why are meditation and worship excluded in relation to time?",
+   "premises": [
+    "Time is characterized by pervasiveness.",
+    "Meditation is negated in this context.",
+    "Worship is also negated in this context."
+   ],
+   "inference": "Because time is pervasive, neither meditation nor worship applies to it.",
+   "uncertainties": [],
+   "plain_english": "Because time is pervasive, there is neither meditation nor worship of it."
+  },
+  {
+   "verse": 6510,
+   "rows": [
+    {
+     "surface": "ugratārādyatikrūras",
+     "gloss": "ugra-tārā-beginning-very-fierce",
+     "grounds": "compound describing a very fierce practitioner beginning with Ugra and Tārā",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "tārādiḥ",
+     "gloss": "tārā-beginning",
+     "grounds": "compound indicating beginning with Tārā",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes restriction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the ritual agent being qualified",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of practitioner is required for this fierce practice?",
+   "premises": [
+    "The practice involves very fierce elements beginning with Ugra and Tārā.",
+    "The practitioner is described as beginning with Tārā.",
+    "Only such a practitioner is indicated."
+   ],
+   "inference": "The practitioner must be very fierce and associated with Tārā and related forms.",
+   "uncertainties": [
+    "The precise ritual identity implied by tārādiḥ is context-dependent."
+   ],
+   "plain_english": "The practitioner must indeed be very fierce, beginning with Ugra and Tārā."
+  },
+  {
+   "verse": 6511,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indicates an alternative condition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyūna",
+     "gloss": "not-less",
+     "grounds": "compound indicating no deficiency",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "compound glossing the intended sense",
+     "morph": "m.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "expresses requirement or result",
+     "morph": "3.sg.optative-active √bhū"
+    }
+   ],
+   "question": "What restriction is imposed on the practitioner beyond the stated qualification?",
+   "premises": [
+    "An alternative condition is explicitly negated.",
+    "The requirement is stated as not being deficient.",
+    "This is given as the intended meaning."
+   ],
+   "inference": "The practitioner must not be otherwise and must not be lacking in the required qualification.",
+   "uncertainties": [],
+   "plain_english": "It should not be otherwise and not deficient; that is the meaning."
+  },
+  {
+   "verse": 6512,
+   "rows": [
+    {
+     "surface": "tilasiddhārthājyahavirhomadravyāṣṭakaṃ",
+     "gloss": "sesame-mustard-ghee-oblation-offering-substance-eight",
+     "grounds": "compound listing the eight offering substances",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "matam",
+     "gloss": "considered",
+     "grounds": "states the accepted view",
+     "morph": "n.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What set of substances is considered the eightfold offering material?",
+   "premises": [
+    "Ritual offerings require specified substances.",
+    "A group of eight substances is named.",
+    "This group is considered the accepted set."
+   ],
+   "inference": "The eightfold offering material consists of sesame, white mustard, ghee, oblation, and related substances.",
+   "uncertainties": [
+    "The full unpacking of all eight items within the compound is not explicit."
+   ],
+   "plain_english": "The eightfold offering substances, including sesame, white mustard, and ghee, are considered the proper set."
+  },
+  {
+   "verse": 6513,
+   "rows": [
+    {
+     "surface": "sarvakāryāṇi",
+     "gloss": "all-purposes",
+     "grounds": "refers to all intended ritual aims",
+     "morph": "n.nom.pl (compound)"
+    },
+    {
+     "surface": "prayogaḥ",
+     "gloss": "application",
+     "grounds": "the ritual procedure or use",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathyate",
+     "gloss": "is-told",
+     "grounds": "introduces the following explanation",
+     "morph": "3.sg.passive-present √kath"
+    },
+    {
+     "surface": "adhunā",
+     "gloss": "now",
+     "grounds": "marks transition to the next topic",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What topic is introduced now regarding ritual applications?",
+   "premises": [
+    "Ritual practice can serve various purposes.",
+    "The text announces an explanation of application.",
+    "This explanation concerns all purposes."
+   ],
+   "inference": "The application for all purposes is now being explained.",
+   "uncertainties": [],
+   "plain_english": "Now the application for all purposes is being explained."
+  },
+  {
+   "verse": 6514,
+   "rows": [
+    {
+     "surface": "kāryasya",
+     "gloss": "of-purpose",
+     "grounds": "the intended aim guiding the ritual",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasizes accordance with the purpose",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anusāreṇa",
+     "gloss": "according-to",
+     "grounds": "indicates conformity to the purpose",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "dravyāṣṭakena",
+     "gloss": "with-substance-eight",
+     "grounds": "compound indicating the eightfold offering material",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the offering be performed in accordance with the intended purpose?",
+   "premises": [
+    "Ritual offerings are performed for specific purposes.",
+    "The action must follow the purpose.",
+    "The eightfold substances are used in the offering."
+   ],
+   "inference": "One should offer with the eightfold substances according to the intended purpose.",
+   "uncertainties": [],
+   "plain_english": "One should offer with the eightfold substances according to the purpose."
+  },
+  {
+   "verse": 6515,
+   "rows": [
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces an alternative quantity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "compound indicating half of that amount",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "introduces another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence or consequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative quantity may be offered in this ritual procedure?",
+   "premises": [
+    "The offering quantity can vary.",
+    "Half of the stated amount is permitted.",
+    "The offering should then be performed accordingly."
+   ],
+   "inference": "One may alternatively offer half that amount.",
+   "uncertainties": [
+    "The reference amount for 'its half' depends on prior context."
+   ],
+   "plain_english": "Or one should offer half of that amount; then proceed accordingly."
+  },
+  {
+   "verse": 6516,
+   "rows": [
+    {
+     "surface": "rasasaṅkhyasahasrāṇi",
+     "gloss": "taste-number-thousands",
+     "grounds": "compound indicating thousands counted by the number six (rasa)",
+     "morph": "n.acc.pl (compound)"
+    },
+    {
+     "surface": "hunet",
+     "gloss": "should-offer",
+     "grounds": "prescribes the ritual action",
+     "morph": "3.sg.optative-active √hu"
+    },
+    {
+     "surface": "dravyāṣṭakena",
+     "gloss": "with-substance-eight",
+     "grounds": "compound indicating the eightfold offering material",
+     "morph": "n.inst.sg (compound)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many offerings should be made with the eightfold substances?",
+   "premises": [
+    "The ritual specifies a numerical quantity of offerings.",
+    "The quantity is expressed as thousands counted by rasa.",
+    "The offerings use the eightfold substances."
+   ],
+   "inference": "One should offer six thousand times with the eightfold substances.",
+   "uncertainties": [
+    "The numerical value of rasa is conventionally six but not stated explicitly here."
+   ],
+   "plain_english": "One should offer six thousand times with the eightfold substances."
+  },
+  {
+   "verse": 6517,
+   "rows": [
+    {
+     "surface": "bhūtāveśagrahāveśakṛtyādīn",
+     "gloss": "spirit-possession-planet-possession-witchcraft-etc",
+     "grounds": "compound listing afflictions such as possession and witchcraft",
+     "morph": "m.acc.pl (compound)"
+    },
+    {
+     "surface": "su",
+     "gloss": "well",
+     "grounds": "intensifies the destruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vināśayet",
+     "gloss": "should-destroy",
+     "grounds": "states the intended effect of the ritual",
+     "morph": "3.sg.optative-causative-active √naś"
+    }
+   ],
+   "question": "What harmful influences are destroyed by performing this offering?",
+   "premises": [
+    "The ritual has protective and destructive effects.",
+    "Afflictions include spirit possession, planetary possession, and witchcraft.",
+    "These afflictions are to be thoroughly destroyed."
+   ],
+   "inference": "The offering should thoroughly destroy spirit possession, planetary possession, witchcraft, and similar afflictions.",
+   "uncertainties": [],
+   "plain_english": "It should thoroughly destroy spirit possession, planetary possession, witchcraft, and the like."
+  },
+  {
+   "verse": 6518,
+   "rows": [
+    {
+     "surface": "kaulike",
+     "gloss": "in-kaula",
+     "grounds": "locates the context in the Kaula path",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mārge",
+     "gloss": "path",
+     "grounds": "the spiritual or ritual path",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "grasyate",
+     "gloss": "is-devoured",
+     "grounds": "describes being seized or consumed",
+     "morph": "3.sg.passive-present √gras"
+    },
+    {
+     "surface": "bhairavādibhiḥ",
+     "gloss": "by-bhairava-etc",
+     "grounds": "compound indicating agents beginning with Bhairava",
+     "morph": "m.inst.pl (compound)"
+    }
+   ],
+   "question": "By whom is one seized within the Kaula path context?",
+   "premises": [
+    "The context is the Kaula path.",
+    "A process of being devoured or seized occurs.",
+    "The agents are Bhairava and others."
+   ],
+   "inference": "On the Kaula path, one is devoured by Bhairava and related beings.",
+   "uncertainties": [
+    "Whether grasyate is literal, visionary, or initiatory is not specified."
+   ],
+   "plain_english": "On the Kaula path, one is devoured by Bhairava and others."
+  },
+  {
+   "verse": 6519,
+   "rows": [
+    {
+     "surface": "sahasrasaṅkhyahomena",
+     "gloss": "thousand-number-offering",
+     "grounds": "compound indicating an offering of a thousand counts",
+     "morph": "m.inst.sg (compound)"
+    },
+    {
+     "surface": "svapno",
+     "gloss": "dream",
+     "grounds": "the visionary experience produced",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "states the result of the offering",
+     "morph": "3.sg.present-active √bhū"
+    },
+    {
+     "surface": "tatkṣaṇāt",
+     "gloss": "at-that-moment",
+     "grounds": "compound indicating immediate occurrence",
+     "morph": "n.abl.sg (compound)"
+    }
+   ],
+   "question": "What immediate result follows from performing a thousandfold offering?",
+   "premises": [
+    "A ritual offering of a thousand counts is performed.",
+    "A dream arises as a result.",
+    "This result occurs immediately."
+   ],
+   "inference": "A thousandfold offering produces a dream immediately.",
+   "uncertainties": [
+    "The nature and content of the dream are not specified."
+   ],
+   "plain_english": "By an offering of a thousand counts, a dream arises at that very moment."
+  },
+  {
+   "verse": 6520,
+   "rows": [
+    {
+     "surface": "apasmāraṃ",
+     "gloss": "epilepsy",
+     "grounds": "names one affliction to be removed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smṛtibhraṃśaṃ",
+     "gloss": "memory-loss",
+     "grounds": "compound naming loss of memory",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "śoṣadoṣaṃ",
+     "gloss": "emaciation-defect",
+     "grounds": "compound naming a wasting disorder",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "refers to the practitioner or ritual agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "should-destroy",
+     "grounds": "states the intended curative effect",
+     "morph": "3.sg.optative-causative-active √naś"
+    }
+   ],
+   "question": "Which ailments should be destroyed through this ritual practice?",
+   "premises": [
+    "The ritual has curative power.",
+    "Epilepsy, memory loss, and emaciation are named.",
+    "These ailments are to be destroyed."
+   ],
+   "inference": "The practice should destroy epilepsy, memory loss, and emaciation.",
+   "uncertainties": [],
+   "plain_english": "He should destroy epilepsy, loss of memory, and the defect of emaciation."
+  },
+  {
+   "verse": 6521,
+   "rows": [
+    {
+     "surface": "mahālakṣmīḥ",
+     "gloss": "great-lakṣmī",
+     "grounds": "compound naming the goddess Mahālakṣmī",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "tallakṣmyā",
+     "gloss": "by-his-fortune",
+     "grounds": "compound referring to that person's prosperity",
+     "morph": "f.inst.sg (compound)"
+    },
+    {
+     "surface": "lajjate",
+     "gloss": "is-ashamed",
+     "grounds": "expresses being surpassed or embarrassed",
+     "morph": "3.sg.present-middle √lajj"
+    },
+    {
+     "surface": "itarām",
+     "gloss": "exceedingly",
+     "grounds": "intensifies the degree of shame",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What effect does the practitioner's fortune have in comparison to Mahālakṣmī?",
+   "premises": [
+    "The practitioner attains great fortune.",
+    "Mahālakṣmī is invoked as a standard of prosperity.",
+    "Mahālakṣmī is said to feel ashamed by comparison."
+   ],
+   "inference": "The practitioner's fortune is so great that even Mahālakṣmī is exceedingly ashamed in comparison.",
+   "uncertainties": [],
+   "plain_english": "Mahālakṣmī is exceedingly ashamed before his fortune."
+  },
+  {
+   "verse": 6522,
+   "rows": [
+    {
+     "surface": "dravyāṣṭakaṃ",
+     "gloss": "substance-eight",
+     "grounds": "compound referring to the eightfold offering material",
+     "morph": "n.acc.sg (compound)"
+    },
+    {
+     "surface": "trivarṣārvāk",
+     "gloss": "three-years-within",
+     "grounds": "compound indicating a period within three years",
+     "morph": "(indecl.) (compound)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "lokatrayaṃ",
+     "gloss": "world-three",
+     "grounds": "compound referring to the three worlds",
+     "morph": "n.nom.sg (compound)"
+    },
+    {
+     "surface": "vaśe",
+     "gloss": "in-control",
+     "grounds": "indicates subjugation or mastery",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What dominion is gained within three years through the eightfold offering?",
+   "premises": [
+    "The eightfold offering is performed over time.",
+    "The specified period is within three years.",
+    "The three worlds come under the practitioner's control."
+   ],
+   "inference": "By using the eightfold substances within three years, the practitioner brings the three worlds under control.",
+   "uncertainties": [],
+   "plain_english": "Within three years, through the eightfold substances, the three worlds come under his control."
+  },
+  {
+   "verse": 6523,
+   "rows": [
+    {
+     "surface": "vṛddhyādikaṃ",
+     "gloss": "increase-etc",
+     "grounds": "compound referring to increase and similar results",
+     "morph": "m.acc.sg (compound)"
+    },
+    {
+     "surface": "vijānīyāt",
+     "gloss": "one-should-know",
+     "grounds": "instructs understanding of the offering's nature",
+     "morph": "3.sg.optative-active √jñā"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "offering",
+     "grounds": "the fire offering being classified",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "taṃ",
+     "gloss": "that",
+     "grounds": "refers to the previously mentioned offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kāryagauravāt",
+     "gloss": "from-task-importance",
+     "grounds": "compound giving the reason based on the importance of the purpose",
+     "morph": "n.abl.sg (compound)"
+    }
+   ],
+   "question": "How should the nature of this offering be understood according to the task's importance?",
+   "premises": [
+    "The offering produces results such as increase.",
+    "The character of the offering depends on the purpose.",
+    "The importance of the task determines its classification."
+   ],
+   "inference": "One should understand that offering as producing increase and similar results according to the importance of the task.",
+   "uncertainties": [],
+   "plain_english": "One should know that offering to be for increase and the like, according to the importance of the purpose."
+  },
+  {
+   "verse": 6524,
+   "rows": [
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the target or subject affected",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "indicates rapid occurrence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pralayaṃ",
+     "gloss": "to-dissolution",
+     "grounds": "the state of destruction or dissolution reached",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "they-go",
+     "grounds": "states the resulting movement or outcome",
+     "morph": "3.pl.present-active √yā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates an alternative outcome",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "indicates no other result",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What inevitable outcome befalls the target of this ritual action?",
+   "premises": [
+    "The ritual produces a decisive effect on its target.",
+    "The target goes to dissolution.",
+    "No alternative outcome is admitted."
+   ],
+   "inference": "The target quickly goes to dissolution, and not otherwise.",
+   "uncertainties": [
+    "The subject of yānti is not explicitly stated in this verse."
+   ],
+   "plain_english": "They quickly go to his dissolution, and not otherwise."
+  }
+ ]
+}

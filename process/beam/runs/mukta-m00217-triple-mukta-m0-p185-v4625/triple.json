@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p185",
+ "items": [
+  {
+   "verse": 4625,
+   "rows": [
+    {
+     "surface": "nikṣipya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of ni-√kṣip indicating prior action of depositing",
+     "morph": "abs.(ni-√kṣip)"
+    },
+    {
+     "surface": "bhūmau",
+     "gloss": "on-ground",
+     "grounds": "locative indicating place of placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "hastārdhamānataḥ",
+     "gloss": "to-half-arm-measure",
+     "grounds": "compound hastārdha-mānataḥ specifying depth or extent of placement",
+     "morph": "compound:hastārdha+mānataḥ (indecl.)"
+    },
+    {
+     "surface": "kānane",
+     "gloss": "in-forest",
+     "grounds": "locative indicating setting for the placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vane",
+     "gloss": "in-wood",
+     "grounds": "locative reinforcing or specifying the forest setting",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where and to what depth must the collected human skull be placed for this rite?",
+   "premises": [
+    "The collected skull is to be placed after being obtained.",
+    "The placement is on the ground to the measure of half an arm.",
+    "The placement occurs in a forest or wooded area."
+   ],
+   "inference": "The ritual requires depositing the collected human skull in the ground at half-arm depth within a forest setting.",
+   "uncertainties": [
+    "Whether kānane and vane denote distinct locations or form a synonymous pair is unclear."
+   ],
+   "plain_english": "Having placed it on the ground to the depth of half an arm, in a forest, in a wood."
+  }
+ ]
+}

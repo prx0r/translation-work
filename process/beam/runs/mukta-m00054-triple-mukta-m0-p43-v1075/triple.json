@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "asyāpi",
+     "gloss": "of-this-even",
+     "grounds": "sandhi fusion of asya (this) + api (even); refers to the hymn described in the previous verse",
+     "morph": "pron.gen.sg.n+(indecl.)"
+    },
+    {
+     "surface": "paṭhanāt",
+     "gloss": "from-recitation",
+     "grounds": "ablative of means/cause indicating the act of reciting",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sadyaḥ",
+     "gloss": "immediately",
+     "grounds": "indeclinable expressing immediacy of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuberaḥ+api",
+     "gloss": "kubera-even",
+     "grounds": "names the god of wealth; api emphasizes the extent of the attained status",
+     "morph": "m.nom.sg+(indecl.)"
+    },
+    {
+     "surface": "dhana+īśvaraḥ",
+     "gloss": "wealth-lord",
+     "grounds": "compound epithet identifying Kubera as lord of wealth",
+     "morph": "dhana+īśvaraḥ (compound, tatpuruṣa), m.nom.sg"
+    }
+   ],
+   "question": "What immediate status does recitation of this auspicious hymn confer upon the reciter?",
+   "premises": [
+    "The preceding verse declares this hymn supremely meritorious and auspicious for the three worlds.",
+    "Recitation of this hymn is presented as producing an immediate effect.",
+    "The resulting status is equated with Kubera, the lord of wealth."
+   ],
+   "inference": "Therefore, reciting this hymn immediately confers upon the reciter the status of Kubera, lord of wealth.",
+   "uncertainties": [
+    "Whether kuberaḥ+api implies becoming equal to Kubera or attaining Kubera's favor is not explicitly specified."
+   ],
+   "plain_english": "Even by reciting this, one immediately becomes like Kubera, the lord of wealth."
+  }
+ ]
+}

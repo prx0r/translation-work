@@ -1,0 +1,1031 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 326,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīmadrājānakajayarathaviracite",
+     "gloss": "composed-by-glorious-lord-jayaratha",
+     "grounds": "compound colophon",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrīvāmakeśvarīmatavivaraṇe",
+     "gloss": "commentary-on-glorious-vamakeshvari-doctrine",
+     "grounds": "compound title",
+     "morph": "compound"
+    },
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "ordinal",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "section heading",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What textual unit and authorship does this colophon identify for the third chapter?",
+   "premises": [
+    "The colophon names Jayaratha as composer.",
+    "It names the commentary on Vamakeshvari doctrine.",
+    "It labels the unit as third chapter."
+   ],
+   "inference": "This verse marks the third chapter's colophon.",
+   "uncertainties": [
+    "Exact editorial punctuation not represented."
+   ],
+   "plain_english": "Thus ends the third chapter composed by the glorious lord Jayaratha in the commentary on the glorious Vamakeshvari doctrine."
+  },
+  {
+   "verse": 327,
+   "rows": [
+    {
+     "surface": "vadedānīṃ",
+     "gloss": "now-speaks",
+     "grounds": "fused form",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "mahādevyā",
+     "gloss": "of-great-goddess",
+     "grounds": "genitive",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ekaikākṣarasādhanam",
+     "gloss": "one-by-one-letter-accomplishment",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What practice concerning the great goddess is now introduced?",
+   "premises": [
+    "The speaker turns to a new topic.",
+    "The topic concerns the great goddess.",
+    "It is one-by-one letter accomplishment."
+   ],
+   "inference": "The verse introduces letter-by-letter accomplishment of the great goddess.",
+   "uncertainties": [
+    "Verb root parsing approximate."
+   ],
+   "plain_english": "Now he speaks of the one-by-one letter accomplishment of the great goddess."
+  },
+  {
+   "verse": 328,
+   "rows": [
+    {
+     "surface": "sthūlasūkṣmavibhāgena",
+     "gloss": "by-gross-subtle-division",
+     "grounds": "instrumental compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śarīre",
+     "gloss": "in-body",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "parameśvara",
+     "gloss": "supreme-lord",
+     "grounds": "vocative",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "By what division is the supreme lord addressed regarding the body?",
+   "premises": [
+    "The division is gross and subtle.",
+    "The location is the body.",
+    "The addressee is supreme lord."
+   ],
+   "inference": "The verse addresses the supreme lord about gross and subtle bodily division.",
+   "uncertainties": [
+    "Vocative reading assumed."
+   ],
+   "plain_english": "O supreme lord, by gross and subtle division in the body."
+  },
+  {
+   "verse": 329,
+   "rows": [
+    {
+     "surface": "sṛṣṭisthitisaṃhāralakṣaṇam",
+     "gloss": "creation-preservation-dissolution-characterized",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "athavā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kutaḥ",
+     "gloss": "from-what-place",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthānādudeti",
+     "gloss": "arises-from-place",
+     "grounds": "fused form",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "kutra",
+     "gloss": "where",
+     "grounds": "interrogative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "also",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "līnā",
+     "gloss": "absorbed",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "fused form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What cosmological process is characterized by arising and absorption?",
+   "premises": [
+    "Creation, preservation, and dissolution are named.",
+    "Arising from a place is asked.",
+    "Absorption somewhere is asked."
+   ],
+   "inference": "The verse asks where manifestation arises and where it is absorbed.",
+   "uncertainties": [
+    "Compound parsing approximate."
+   ],
+   "plain_english": "Creation, preservation, and dissolution; or from what place does it arise, and where is it absorbed? Thus the meaning."
+  },
+  {
+   "verse": 330,
+   "rows": [
+    {
+     "surface": "yenānuṣṭhitamātreṇa",
+     "gloss": "by-whom-performed-merely",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavābdhau",
+     "gloss": "in-ocean-of-becoming",
+     "grounds": "locative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nimajjati",
+     "gloss": "sinks",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    }
+   ],
+   "question": "What result follows from merely performing this practice?",
+   "premises": [
+    "Performance is mentioned.",
+    "The ocean of becoming is the danger.",
+    "Sinking does not occur."
+   ],
+   "inference": "Merely performing it prevents sinking in the ocean of becoming.",
+   "uncertainties": [
+    "Agent parsing approximate."
+   ],
+   "plain_english": "By merely performing it, one does not sink in the ocean of becoming."
+  },
+  {
+   "verse": 331,
+   "rows": [
+    {
+     "surface": "sakalo'yamakhyātyātmā",
+     "gloss": "all-this-ignorance-nature",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "mohaḥ",
+     "gloss": "delusion",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāmyet",
+     "gloss": "may-cease",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt + root"
+    }
+   ],
+   "question": "What may cease when ignorance-natured delusion is addressed?",
+   "premises": [
+    "Delusion is ignorance-natured.",
+    "It is all this.",
+    "It may cease."
+   ],
+   "inference": "The delusion rooted in ignorance may cease.",
+   "uncertainties": [
+    "Fused token not split."
+   ],
+   "plain_english": "This delusion, whose nature is ignorance, may cease."
+  },
+  {
+   "verse": 332,
+   "rows": [
+    {
+     "surface": "sthūlasūkṣmavibhāgena",
+     "gloss": "by-gross-subtle-division",
+     "grounds": "instrumental compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "trailokyotpattimātṛkā",
+     "gloss": "three-worlds-origin-mother",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is the mother of the three worlds' origin by gross-subtle division?",
+   "premises": [
+    "Gross and subtle division is stated.",
+    "Three worlds' origin is named.",
+    "Mother is named."
+   ],
+   "inference": "The mother of the three worlds' origin is considered by gross-subtle division.",
+   "uncertainties": [
+    "Compound membership approximate."
+   ],
+   "plain_english": "By gross and subtle division, the mother of the origin of the three worlds."
+  },
+  {
+   "verse": 333,
+   "rows": [
+    {
+     "surface": "tasyāṃ",
+     "gloss": "in-her",
+     "grounds": "locative",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "pariṇatāyāṃ",
+     "gloss": "transformed",
+     "grounds": "locative participle",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaścitpara",
+     "gloss": "anyone-superior",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive",
+     "morph": "3.sg.pass-pres + root"
+    }
+   ],
+   "question": "What is not desired when she is transformed?",
+   "premises": [
+    "She is transformed.",
+    "No superior is desired.",
+    "The statement is negative."
+   ],
+   "inference": "When she is transformed, no superior is sought.",
+   "uncertainties": [
+    "Fused token not split."
+   ],
+   "plain_english": "But when she is transformed, no superior is desired."
+  },
+  {
+   "verse": 334,
+   "rows": [
+    {
+     "surface": "vyāhanyeta",
+     "gloss": "would-be-obstructed",
+     "grounds": "conditional passive",
+     "morph": "3.sg.pass-cond + root"
+    },
+    {
+     "surface": "ityevaṃ",
+     "gloss": "thus",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhasvātantryamātrarūpaṃ",
+     "gloss": "such-autonomy-only-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmaiva",
+     "gloss": "brahman-indeed",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvam",
+     "gloss": "all",
+     "grounds": "accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the only form of autonomy that would be obstructed?",
+   "premises": [
+    "Obstruction is conditional.",
+    "Autonomy-only form is named.",
+    "Brahman is all."
+   ],
+   "inference": "Only the autonomy-only form would be obstructed, since Brahman is all.",
+   "uncertainties": [
+    "Compound parsing approximate."
+   ],
+   "plain_english": "Thus would it be obstructed; such autonomy-only form is Brahman indeed, all."
+  },
+  {
+   "verse": 335,
+   "rows": [
+    {
+     "surface": "śaktastu",
+     "gloss": "capable-but",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "supreme-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śaktyā",
+     "gloss": "with-power",
+     "grounds": "instrumental",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yukto",
+     "gloss": "joined",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yadā",
+     "gloss": "when",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt + root"
+    }
+   ],
+   "question": "When does the capable one become joined with power?",
+   "premises": [
+    "Capability is stated.",
+    "The supreme goddess is addressed.",
+    "Joining with power is conditional."
+   ],
+   "inference": "The capable one becomes joined with power when the condition holds.",
+   "uncertainties": [
+    "Vocative reading assumed."
+   ],
+   "plain_english": "But capable, O supreme goddess, when joined with power, he becomes."
+  },
+  {
+   "verse": 336,
+   "rows": [
+    {
+     "surface": "tadeti",
+     "gloss": "that-goes",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "adhyādvāryam",
+     "gloss": "adhyadvaryam",
+     "grounds": "technical term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavediti",
+     "gloss": "becomes",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "paraḥ prakāśaḥ",
+     "gloss": "supreme-light",
+     "grounds": "compound phrase",
+     "morph": "compound"
+    }
+   ],
+   "question": "What becomes supreme light in this transformation?",
+   "premises": [
+    "That goes is stated.",
+    "Becoming is stated.",
+    "Supreme light is named."
+   ],
+   "inference": "That becomes supreme light.",
+   "uncertainties": [
+    "Technical term adhyadvaryam unresolved."
+   ],
+   "plain_english": "That goes; adhyadvaryam; it becomes; supreme light."
+  },
+  {
+   "verse": 337,
+   "rows": [
+    {
+     "surface": "jñātenāpi",
+     "gloss": "even-known",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "great-goddess",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "action",
+     "grounds": "subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śarma",
+     "gloss": "comfort",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kiñcana",
+     "gloss": "anything",
+     "grounds": "indefinite",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What does action not give even when known?",
+   "premises": [
+    "Even when known is stated.",
+    "Action is subject.",
+    "Comfort is not given."
+   ],
+   "inference": "Action gives no comfort even when known.",
+   "uncertainties": [
+    "Vocative reading assumed."
+   ],
+   "plain_english": "Even when known, O great goddess, action gives no comfort whatsoever."
+  },
+  {
+   "verse": 338,
+   "rows": [
+    {
+     "surface": "praviśya",
+     "gloss": "entering",
+     "grounds": "absolutive",
+     "morph": "absolutive + root"
+    },
+    {
+     "surface": "paramārgāntaḥ",
+     "gloss": "supreme-path-within",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūkṣmākārasvarūpiṇī",
+     "gloss": "subtle-form-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What enters within the supreme path in subtle form?",
+   "premises": [
+    "Entering is stated.",
+    "Within supreme path is stated.",
+    "Subtle-form-natured is stated."
+   ],
+   "inference": "The subtle-form-natured one enters within the supreme path.",
+   "uncertainties": [
+    "Subject omitted."
+   ],
+   "plain_english": "Entering within the supreme path, subtle-formed in nature."
+  },
+  {
+   "verse": 339,
+   "rows": [
+    {
+     "surface": "vāmā",
+     "gloss": "vama",
+     "grounds": "technical term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "crest",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jyeṣṭhā",
+     "gloss": "jyestha",
+     "grounds": "technical term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śṛṅgāṭākāratāṃ",
+     "gloss": "triangular-form",
+     "grounds": "accusative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "gatā",
+     "gloss": "gone",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What becomes triangular in form after crest and jyestha?",
+   "premises": [
+    "Crest is named.",
+    "Then jyestha is named.",
+    "Triangular form is attained."
+   ],
+   "inference": "The sequence moves to triangular form.",
+   "uncertainties": [
+    "Technical terms vama and jyestha unresolved."
+   ],
+   "plain_english": "Vama, crest; then jyestha; gone into triangular form."
+  },
+  {
+   "verse": 340,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramā",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śakti",
+     "gloss": "power",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ekaiva",
+     "gloss": "one-only",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "parameśvarī",
+     "gloss": "supreme-goddess",
+     "grounds": "predicate",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What is the one supreme power identified as?",
+   "premises": [
+    "She is supreme power.",
+    "She is one only.",
+    "She is supreme goddess."
+   ],
+   "inference": "The one supreme power is the supreme goddess.",
+   "uncertainties": [
+    "None significant."
+   ],
+   "plain_english": "Thus she, the supreme power, one only, is the supreme goddess."
+  },
+  {
+   "verse": 341,
+   "rows": [
+    {
+     "surface": "jñānaśaktiḥ",
+     "gloss": "knowledge-power",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kriyāśaktiḥ",
+     "gloss": "action-power",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "icchāśaktyātmikā",
+     "gloss": "will-power-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What three powers constitute the beloved's nature?",
+   "premises": [
+    "Knowledge power is named.",
+    "Action power is named.",
+    "Will power natured is named."
+   ],
+   "inference": "The beloved's nature comprises knowledge, action, and will powers.",
+   "uncertainties": [
+    "Vocative reading assumed."
+   ],
+   "plain_english": "Knowledge power, action power, will-power-natured, O beloved."
+  },
+  {
+   "verse": 342,
+   "rows": [
+    {
+     "surface": "yadollasati",
+     "gloss": "when-shines",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "śṛṅgāṭapīṭhāt",
+     "gloss": "from-triangular-seat",
+     "grounds": "ablative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṭilarūpiṇī",
+     "gloss": "crooked-formed",
+     "grounds": "nominative compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What shines crooked-formed from the triangular seat?",
+   "premises": [
+    "Shining is conditional.",
+    "Triangular seat is source.",
+    "Crooked-formed is stated."
+   ],
+   "inference": "The crooked-formed one shines from the triangular seat.",
+   "uncertainties": [
+    "Subject omitted."
+   ],
+   "plain_english": "When it shines from the triangular seat, crooked-formed."
+  },
+  {
+   "verse": 343,
+   "rows": [
+    {
+     "surface": "tadudbhavāmṛtasyandamadirānandananditā",
+     "gloss": "that-born-nectar-flow-intoxicating-joy-delighted",
+     "grounds": "long compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is delighted by the intoxicating joy of nectar flow born from that?",
+   "premises": [
+    "A single compound names delight.",
+    "It derives from that-born nectar flow.",
+    "Intoxicating joy is named."
+   ],
+   "inference": "The verse names delight in nectar flow born from that.",
+   "uncertainties": [
+    "Compound segmentation uncertain."
+   ],
+   "plain_english": "Delighted by the intoxicating joy of the nectar flow born from that."
+  },
+  {
+   "verse": 344,
+   "rows": [
+    {
+     "surface": "nirlakṣaṇaṃ",
+     "gloss": "without-marks",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirguṇaṃ",
+     "gloss": "without-qualities",
+     "grounds": "adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kularūpavivarjitam",
+     "gloss": "devoid-of-kula-form",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What qualities are denied to the supreme reality here?",
+   "premises": [
+    "Without marks is stated.",
+    "Without qualities is stated.",
+    "Devoid of kula form is stated."
+   ],
+   "inference": "The supreme reality is without marks, qualities, and kula form.",
+   "uncertainties": [
+    "Subject omitted."
+   ],
+   "plain_english": "Without marks, without qualities, and devoid of kula form."
+  },
+  {
+   "verse": 345,
+   "rows": [
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "pramātāram",
+     "gloss": "knower",
+     "grounds": "accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eti",
+     "gloss": "goes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "tadaikātmyam",
+     "gloss": "that-oneness",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "āsādayati",
+     "gloss": "attains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root"
+    },
+    {
+     "surface": "ityarthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "fused form",
+     "morph": "compound"
+    }
+   ],
+   "question": "What does the supreme knower attain?",
+   "premises": [
+    "Supreme knower is object.",
+    "That oneness is named.",
+    "Attainment is stated."
+   ],
+   "inference": "The supreme knower attains that oneness.",
+   "uncertainties": [
+    "Verb subject omitted."
+   ],
+   "plain_english": "It goes to the supreme knower; it attains that oneness; thus the meaning."
+  },
+  {
+   "verse": 346,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "cāreṇa",
+     "gloss": "conduct",
+     "grounds": "instrumental",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃtuṣṭā",
+     "gloss": "satisfied",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "punar",
+     "gloss": "again",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ekākinī",
+     "gloss": "alone",
+     "grounds": "nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "satī",
+     "gloss": "being",
+     "grounds": "participle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What happens when satisfied by that conduct?",
+   "premises": [
+    "Satisfaction by conduct is stated.",
+    "Again is stated.",
+    "Being alone is stated."
+   ],
+   "inference": "Satisfied by that conduct, she is again alone.",
+   "uncertainties": [
+    "Subject omitted."
+   ],
+   "plain_english": "Satisfied by that conduct, again being alone."
+  },
+  {
+   "verse": 347,
+   "rows": [
+    {
+     "surface": "tattvatrayavinirdiṣṭā",
+     "gloss": "three-principles-described",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇaśaktitrayātmikā",
+     "gloss": "letter-power-three-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is described as three principles and three letter-powers?",
+   "premises": [
+    "Three principles described is stated.",
+    "Three letter-powers natured is stated."
+   ],
+   "inference": "The subject is described as three principles and three letter-powers.",
+   "uncertainties": [
+    "Subject omitted."
+   ],
+   "plain_english": "Described as three principles, natured as three letter-powers."
+  },
+  {
+   "verse": 348,
+   "rows": [
+    {
+     "surface": "asmaddarśanopāsyā",
+     "gloss": "our-vision-worshipped",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śrītripurā",
+     "gloss": "glorious-tripura",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ityucyate",
+     "gloss": "thus-called",
+     "grounds": "fused form",
+     "morph": "compound"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vākyārthaḥ",
+     "gloss": "sentence-meaning",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is worshipped in our vision and called glorious Tripura?",
+   "premises": [
+    "Our vision worshipped is stated.",
+    "Glorious Tripura is named.",
+    "Thus called is stated."
+   ],
+   "inference": "Glorious Tripura is worshipped in our vision.",
+   "uncertainties": [
+    "Compound parsing approximate."
+   ],
+   "plain_english": "Worshipped in our vision, glorious Tripura; thus called; sentence meaning."
+  },
+  {
+   "verse": 349,
+   "rows": [
+    {
+     "surface": "kāmarājā",
+     "gloss": "desire-king",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāmakalā",
+     "gloss": "desire-art",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kāmarūpā",
+     "gloss": "desire-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kriyātmikā",
+     "gloss": "action-natured",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What four desire-related forms are named?",
+   "premises": [
+    "Desire-king is named.",
+    "Desire-art is named.",
+    "Desire-form is named.",
+    "Action-natured is named."
+   ],
+   "inference": "The verse names desire-king, desire-art, desire-form, and action-natured.",
+   "uncertainties": [
+    "Subject omitted."
+   ],
+   "plain_english": "Desire-king, desire-art, desire-form, action-natured."
+  }
+ ]
+}

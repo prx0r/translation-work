@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "paryantasūtramānaṃ",
+     "gloss": "boundary-thread-measure",
+     "grounds": "compound denoting the measure or extent of the boundary thread",
+     "morph": "paryanta-sūtra-māna+n.nom.sg.n"
+    },
+    {
+     "surface": "tatsūtraṃ",
+     "gloss": "that-thread",
+     "grounds": "refers to the thread mentioned as the measure",
+     "morph": "tad-sūtra+n.nom.sg.n"
+    },
+    {
+     "surface": "prāmāṇikaṃ",
+     "gloss": "authoritative-standard",
+     "grounds": "qualifies the thread as valid or authoritative",
+     "morph": "adj.nom.sg.n"
+    },
+    {
+     "surface": "param",
+     "gloss": "supreme",
+     "grounds": "qualifies the authoritative standard as highest",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What constitutes the supreme authoritative standard for measuring the boundary thread?",
+   "premises": [
+    "The boundary thread has a specific measure.",
+    "That same thread functions as the standard of measurement.",
+    "This thread is declared authoritative and supreme."
+   ],
+   "inference": "Therefore, the boundary thread itself serves as the supreme authoritative standard for its own measure.",
+   "uncertainties": [
+    "The precise ritual or technical application of paryantasūtra in this context is not fully specified."
+   ],
+   "plain_english": "The measure of the boundary thread is that very thread, which is the supreme authoritative standard."
+  }
+ ]
+}

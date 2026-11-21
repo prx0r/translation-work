@@ -1,0 +1,38 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "ardhonakṛtimātrā",
+     "gloss": "half-less-kriti-measure",
+     "grounds": "legacy hint half-less-kriti-matra; treated as a single fused measure token",
+     "morph": "fem.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "optative of as, third singular active",
+     "morph": "3.sg.act-opt + as"
+    },
+    {
+     "surface": "kaṭibandhasya vistṛtiḥ",
+     "gloss": "waist-band-width",
+     "grounds": "genitive of kaṭibandha with nominative vistṛtiḥ; width belonging to the waist-band",
+     "morph": "m.gen.sg + f.nom.sg"
+    }
+   ],
+   "question": "What is the prescribed width of the waist-band in this rite?",
+   "premises": [
+    "Waist-band width is half-less-kriti-matra.",
+    "The width would be that measure."
+   ],
+   "inference": "The waist-band's width is fixed at half-less-kriti-matra.",
+   "uncertainties": [
+    "Exact numerical value of kṛti-mātrā is not specified in this verse."
+   ],
+   "plain_english": "The width of the waist-band would be half-less-kriti-matra."
+  }
+ ]
+}

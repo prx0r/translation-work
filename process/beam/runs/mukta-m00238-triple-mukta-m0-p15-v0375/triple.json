@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p15",
+ "items": [
+  {
+   "verse": 375,
+   "rows": [
+    {
+     "surface": "vāmanodevatā",
+     "gloss": "vamana-deity",
+     "grounds": "compound naming the deity Vamana",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pādmasaṃhitāyām",
+     "gloss": "in-padma-samhita",
+     "grounds": "locative of the cited text",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bālārkavarṇaḥ",
+     "gloss": "child-sun-colored",
+     "grounds": "compound describing color",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pītavastraḥ",
+     "gloss": "yellow-garmented",
+     "grounds": "compound describing garment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṃkhacakragadāpadmadharaḥ",
+     "gloss": "conch-disc-mace-lotus-holder",
+     "grounds": "compound listing held objects",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ābharaṇabhūṣitaḥ",
+     "gloss": "ornament-adorned",
+     "grounds": "compound describing adornment",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sthitaḥ",
+     "gloss": "standing",
+     "grounds": "participle of sthā",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form does the Vamana deity take in the Padma Samhita?",
+   "premises": [
+    "Vamana deity is described in Padma Samhita.",
+    "His color is child-sun colored.",
+    "He stands adorned with ornaments."
+   ],
+   "inference": "The verse presents Vamana's iconographic form.",
+   "uncertainties": [
+    "Compound gender and exact sandhi boundaries are inferred from context."
+   ],
+   "plain_english": "In the Padma Samhita, the Vamana deity stands colored like a child sun, wearing yellow garments, holding conch, disc, mace, and lotus, adorned with ornaments."
+  }
+ ]
+}

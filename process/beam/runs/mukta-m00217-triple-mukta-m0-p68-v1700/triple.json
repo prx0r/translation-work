@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1700,
+   "rows": [
+    {
+     "surface": "dakṣiṇābhimukho",
+     "gloss": "facing-south",
+     "grounds": "compound dakṣiṇa-abhimukhaḥ with final sandhi",
+     "morph": "compound: dakṣiṇa+abhimukha, m.nom.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vahnau",
+     "gloss": "in-fire",
+     "grounds": "locus of the ritual action",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dagdhvā",
+     "gloss": "having-burned",
+     "grounds": "prior action leading to the main act",
+     "morph": "gerund, √dah"
+    },
+    {
+     "surface": "ripūn",
+     "gloss": "enemies",
+     "grounds": "targets of the burning",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "dahet",
+     "gloss": "should-burn",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.act-optative, √dah"
+    }
+   ],
+   "question": "What ritual orientation and action enable the mantra-practitioner to destroy enemies through fire?",
+   "premises": [
+    "The mantra-practitioner is oriented facing south.",
+    "The ritual action is performed in fire.",
+    "Enemies are the intended targets of the burning."
+   ],
+   "inference": "By facing south and performing burning in fire, the mantra-practitioner effects the destruction of enemies.",
+   "uncertainties": [],
+   "plain_english": "Facing south, the mantra-practitioner, having performed burning in the fire, should burn his enemies."
+  }
+ ]
+}

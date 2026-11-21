@@ -1,0 +1,57 @@
+{
+ "song": "kjn-p05",
+ "items": [
+  {
+   "verse": 125,
+   "rows": [
+    {
+     "surface": "chedyamāno",
+     "gloss": "being-cut",
+     "grounds": "present passive participle describing one undergoing cutting",
+     "morph": "part.pass.pres.nom.sg.m (√chid)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chidyeta",
+     "gloss": "would-be-cut",
+     "grounds": "optative verb expressing potential or counterfactual cutting",
+     "morph": "3.sg.pass-opt (√chid)"
+    },
+    {
+     "surface": "tad+gato",
+     "gloss": "gone-to-that",
+     "grounds": "compound describing one who has reached that state",
+     "morph": "compound: tad+gata (m.nom.sg)"
+    },
+    {
+     "surface": "tan+mano",
+     "gloss": "mind-fixed-on-that",
+     "grounds": "compound describing one whose mind is absorbed in that",
+     "morph": "compound: tad+manas (m.nom.sg)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle indicating manner or comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does absorption in that state prevent injury when one is being cut?",
+   "premises": [
+    "A person may be subjected to the act of cutting.",
+    "A person can be gone to that state with mind fixed on it.",
+    "Such absorption alters the effect of physical harm."
+   ],
+   "inference": "One who has reached that state and whose mind is fixed on it is not cut even while being cut.",
+   "uncertainties": [
+    "Whether the immunity described is literal physical invulnerability or a transcendence of felt injury is not explicit."
+   ],
+   "plain_english": "One who has gone to that state, with mind fixed on it, is not cut even while being cut."
+  }
+ ]
+}

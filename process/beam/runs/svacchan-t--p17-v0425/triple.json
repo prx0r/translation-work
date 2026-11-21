@@ -1,0 +1,32 @@
+{
+ "song": "sva-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "avicalatvāt",
+     "gloss": "from-unmovingness",
+     "grounds": "avicala (unmoving) + tva (abstract noun) + āt (ablative ending)",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "upādeyatvam",
+     "gloss": "worth-accepting",
+     "grounds": "upādeya (worthy of acceptance) + tva (abstract noun) + m (nominative/accusative ending)",
+     "morph": "n.nom/acc.sg"
+    }
+   ],
+   "question": "Why is the unmoving declared worth accepting?",
+   "premises": [
+    "Unmovingness grounds worth-accepting.",
+    "Worth-accepting follows from unmovingness."
+   ],
+   "inference": "Unmovingness makes it worth accepting.",
+   "uncertainties": [
+    "Exact syntactic relation remains unclear."
+   ],
+   "plain_english": "Because of its unmovingness, it is worth accepting."
+  }
+ ]
+}

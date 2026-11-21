@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2801,
+   "rows": [
+    {
+     "surface": "yuddhe",
+     "gloss": "in-battle",
+     "grounds": "locative of contest",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vijayam+āpnoti",
+     "gloss": "victory+obtains",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "dyūte",
+     "gloss": "in-gambling",
+     "grounds": "locative of contest",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāde",
+     "gloss": "in-debate",
+     "grounds": "locative of contest",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "In which contests does the practitioner attain victory through this practice?",
+   "premises": [
+    "The practitioner engages in battle.",
+    "The practitioner engages in gambling.",
+    "The practitioner engages in debate."
+   ],
+   "inference": "The practitioner obtains victory in battle, gambling, and debate.",
+   "uncertainties": [],
+   "plain_english": "The practitioner obtains victory in battle, in gambling, and in debate."
+  },
+  {
+   "verse": 2802,
+   "rows": [
+    {
+     "surface": "devā",
+     "gloss": "gods",
+     "grounds": "divine beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "manuṣyā",
+     "gloss": "humans",
+     "grounds": "human beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "gandharvā",
+     "gloss": "celestial-musicians",
+     "grounds": "semi-divine beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vaśyāḥ+tasya",
+     "gloss": "submissive+to-him",
+     "grounds": "compound with possessive reference",
+     "morph": "m.nom.pl + m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which beings become submissive to the practitioner without any doubt?",
+   "premises": [
+    "Gods are among the beings mentioned.",
+    "Humans and celestial musicians are mentioned.",
+    "The text explicitly denies doubt."
+   ],
+   "inference": "Gods, humans, and celestial musicians become submissive to the practitioner without doubt.",
+   "uncertainties": [],
+   "plain_english": "Gods, humans, and celestial musicians become submissive to him; there is no doubt."
+  },
+  {
+   "verse": 2803,
+   "rows": [
+    {
+     "surface": "karasthāḥ+tasya",
+     "gloss": "in-hand+his",
+     "grounds": "compound indicating possession or control",
+     "morph": "m.nom.pl + m.gen.sg"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "o-goddess-of-gods",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "aṇimā+ādi+aṣṭa+siddhayaḥ",
+     "gloss": "minuteness+and-others+eight+powers",
+     "grounds": "compound listing the eight siddhis",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What supernatural powers come under the practitioner's direct control?",
+   "premises": [
+    "The eight siddhis are named as a group.",
+    "They are described as being in his hand.",
+    "The goddess is addressed as witness."
+   ],
+   "inference": "The eight siddhis, beginning with minuteness, are in the practitioner's control.",
+   "uncertainties": [],
+   "plain_english": "O Goddess of gods, the eight siddhis, beginning with aṇimā, are in his hand."
+  },
+  {
+   "verse": 2804,
+   "rows": [
+    {
+     "surface": "yasmai",
+     "gloss": "to-whom",
+     "grounds": "relative recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "kasmai",
+     "gloss": "to-anyone",
+     "grounds": "indefinite recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dātavyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive of prohibition",
+     "morph": "n.nom.sg.gerundive √dā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyaṃ",
+     "gloss": "to-be-revealed",
+     "grounds": "gerundive of prohibition",
+     "morph": "n.nom.sg.gerundive pra-√kāś"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indefinite time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To whom may this sacred knowledge be given or revealed?",
+   "premises": [
+    "Giving is explicitly prohibited.",
+    "Revealing is explicitly prohibited.",
+    "The prohibition applies at any time to anyone."
+   ],
+   "inference": "This knowledge must never be given or revealed to anyone at any time.",
+   "uncertainties": [],
+   "plain_english": "It must never be given or revealed to anyone at any time."
+  },
+  {
+   "verse": 2805,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "condition contrary to rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhi+hāniḥ",
+     "gloss": "power+loss",
+     "grounds": "compound indicating loss of attainment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential result",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "satyam+etat",
+     "gloss": "truth+this",
+     "grounds": "emphatic assertion",
+     "morph": "n.nom.sg + n.nom.sg"
+    },
+    {
+     "surface": "manorame",
+     "gloss": "o-delighter-of-mind",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What consequence follows from violating the secrecy of this teaching?",
+   "premises": [
+    "A condition of acting otherwise is stated.",
+    "Loss of siddhi is named as the result.",
+    "The statement is affirmed as true."
+   ],
+   "inference": "Violating secrecy results in the loss of siddhi.",
+   "uncertainties": [],
+   "plain_english": "Otherwise there would be loss of siddhi; this is true, O delighter of the mind."
+  },
+  {
+   "verse": 2806,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "deyaṃ",
+     "gloss": "to-be-given",
+     "grounds": "gerundive of prohibition",
+     "morph": "n.nom.sg.gerundive √dā"
+    },
+    {
+     "surface": "kasyacit",
+     "gloss": "to-anyone",
+     "grounds": "indefinite recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-auspicious-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "yadi+icchet",
+     "gloss": "if+desires",
+     "grounds": "conditional clause",
+     "morph": "(indecl.) + 3.sg.opt.act √iṣ"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-oneself",
+     "grounds": "reflexive possessive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hitam",
+     "gloss": "welfare",
+     "grounds": "object of desire",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Under what condition must one refrain from giving this knowledge to anyone?",
+   "premises": [
+    "Giving to anyone is prohibited.",
+    "The condition concerns desiring one's own welfare.",
+    "The auspicious one is addressed."
+   ],
+   "inference": "If one desires one's own welfare, this knowledge must not be given to anyone.",
+   "uncertainties": [],
+   "plain_english": "O auspicious one, it must not be given to anyone if one desires one's own welfare."
+  },
+  {
+   "verse": 2807,
+   "rows": [
+    {
+     "surface": "tena+arcitā",
+     "gloss": "by-him+worshipped",
+     "grounds": "agent and past participle",
+     "morph": "m.inst.sg + f.nom.sg.past-pass.part √arc"
+    },
+    {
+     "surface": "mahādevi",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarve",
+     "gloss": "all",
+     "grounds": "universal quantifier",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "devā",
+     "gloss": "gods",
+     "grounds": "divine beings",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "assertion of certainty",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Whom does the practitioner effectively worship by worshipping the great goddess?",
+   "premises": [
+    "The great goddess is worshipped by him.",
+    "All gods are included in the result.",
+    "The text denies any doubt."
+   ],
+   "inference": "By worshipping the great goddess, the practitioner worships all the gods without doubt.",
+   "uncertainties": [],
+   "plain_english": "O great goddess, by worshipping her he has worshipped all the gods; there is no doubt."
+  },
+  {
+   "verse": 2808,
+   "rows": [
+    {
+     "surface": "śaṅkaraṃ",
+     "gloss": "shankara",
+     "grounds": "name of deity addressed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paripapraccha",
+     "gloss": "asked",
+     "grounds": "perfect tense of inquiry",
+     "morph": "3.sg.perf.act pari-√praś"
+    },
+    {
+     "surface": "pārvatī",
+     "gloss": "parvati",
+     "grounds": "speaker name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parameśvaram",
+     "gloss": "supreme-lord",
+     "grounds": "epithet of addressee",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Who addresses the supreme lord Shankara with a question in this dialogue?",
+   "premises": [
+    "Parvati is the subject who asks.",
+    "Shankara is the one questioned.",
+    "He is called the supreme lord."
+   ],
+   "inference": "Parvati asks Shankara, the supreme lord.",
+   "uncertainties": [],
+   "plain_english": "Parvati asked Shankara, the supreme lord."
+  },
+  {
+   "verse": 2809,
+   "rows": [
+    {
+     "surface": "āpad+uddhāraṇaṃ",
+     "gloss": "calamity+delivering",
+     "grounds": "compound describing mantra function",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of request",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarva+siddhi+pradaṃ",
+     "gloss": "all+powers+granting",
+     "grounds": "compound describing mantra effect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nṛṇām",
+     "gloss": "of-people",
+     "grounds": "beneficiaries",
+     "morph": "m.gen.pl"
+    }
+   ],
+   "question": "What kind of mantra does Parvati seek for the benefit of people?",
+   "premises": [
+    "The mantra delivers from calamity.",
+    "The mantra grants all siddhis.",
+    "It is sought for people."
+   ],
+   "inference": "Parvati seeks a calamity-delivering mantra that grants all siddhis to people.",
+   "uncertainties": [],
+   "plain_english": "She asked for a mantra that delivers from calamity and grants all siddhis to people."
+  },
+  {
+   "verse": 2810,
+   "rows": [
+    {
+     "surface": "viśeṣataḥ+tu",
+     "gloss": "especially+but",
+     "grounds": "emphatic specification",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "rājñāṃ",
+     "gloss": "of-kings",
+     "grounds": "specific beneficiaries",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śānti+puṣṭi+prasādhanam",
+     "gloss": "peace+prosperity+accomplishing",
+     "grounds": "compound describing effects",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What specific benefits should the requested mantra accomplish especially for kings?",
+   "premises": [
+    "Kings are singled out especially.",
+    "Peace is named as a benefit.",
+    "Prosperity is named as a benefit."
+   ],
+   "inference": "The mantra should especially accomplish peace and prosperity for kings.",
+   "uncertainties": [],
+   "plain_english": "Especially for kings, indeed, it should accomplish peace and prosperity."
+  },
+  {
+   "verse": 2811,
+   "rows": [
+    {
+     "surface": "vaktum+arhasi",
+     "gloss": "to-tell+you-should",
+     "grounds": "requesting speech",
+     "morph": "inf. √vac + 2.sg.pres.act √arh"
+    },
+    {
+     "surface": "deveśa",
+     "gloss": "o-lord-of-gods",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "harṣa+vivarddhanam",
+     "gloss": "joy+increasing",
+     "grounds": "compound describing effect on speaker",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Why does Parvati urge the lord of gods to reveal this mantra to her?",
+   "premises": [
+    "Parvati requests the lord to tell it.",
+    "The mantra increases her joy.",
+    "The lord of gods is addressed."
+   ],
+   "inference": "Parvati asks the lord of gods to reveal the mantra because it will increase her joy.",
+   "uncertainties": [],
+   "plain_english": "O lord of gods, you should tell it, for it will increase my joy."
+  },
+  {
+   "verse": 2812,
+   "rows": [
+    {
+     "surface": "sarva+duḥkha+praśamanaṃ",
+     "gloss": "all+sorrows+allaying",
+     "grounds": "compound describing remedial effect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarva+śatru+nivarddhanam",
+     "gloss": "all+enemies+destroying",
+     "grounds": "compound describing protective effect",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What protective and remedial powers are attributed to the requested mantra?",
+   "premises": [
+    "The mantra allays all sorrows.",
+    "The mantra destroys all enemies.",
+    "Both effects are comprehensive."
+   ],
+   "inference": "The mantra allays all sorrows and destroys all enemies.",
+   "uncertainties": [
+    "nivarddhanam read as destroying/subduing in context"
+   ],
+   "plain_english": "It allays all sorrows and destroys all enemies."
+  },
+  {
+   "verse": 2813,
+   "rows": [
+    {
+     "surface": "nāśanaṃ",
+     "gloss": "destruction",
+     "grounds": "effect of the mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "smṛti+mātreṇa",
+     "gloss": "by-remembrance+mere",
+     "grounds": "instrumental indicating minimal means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mantra+rājam+imam",
+     "gloss": "mantra+king+this",
+     "grounds": "compound epithet for the mantra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How quickly can this king of mantras bring about destruction of harms?",
+   "premises": [
+    "The mantra is called a king of mantras.",
+    "Mere remembrance is sufficient.",
+    "Destruction is the stated effect."
+   ],
+   "inference": "This king of mantras brings destruction merely by remembrance.",
+   "uncertainties": [],
+   "plain_english": "O beloved, this king of mantras brings destruction by mere remembrance."
+  },
+  {
+   "verse": 2814,
+   "rows": [
+    {
+     "surface": "snehāt+vakṣyāmi",
+     "gloss": "out-of-affection+will-tell",
+     "grounds": "motive and future declaration",
+     "morph": "m.abl.sg + 1.sg.fut.act √vac"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object to be revealed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarva+sāram+idam",
+     "gloss": "all+essence+this",
+     "grounds": "compound describing mantra's nature",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why does Shankara agree to reveal this mantra to the beloved?",
+   "premises": [
+    "Shankara declares he will tell the mantra.",
+    "Affection is stated as the motive.",
+    "The mantra is described as the essence of all."
+   ],
+   "inference": "Out of affection, Shankara will reveal this mantra, the essence of all, to the beloved.",
+   "uncertainties": [],
+   "plain_english": "Out of affection I will tell you this mantra, the essence of all, O beloved."
+  },
+  {
+   "verse": 2815,
+   "rows": [
+    {
+     "surface": "āpad+uddhāraṇaṃ",
+     "gloss": "calamity+delivering",
+     "grounds": "compound describing mantra function",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of declaration",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vakṣyāmi+iti",
+     "gloss": "will-tell+thus",
+     "grounds": "declarative quotation marker",
+     "morph": "1.sg.fut.act √vac + (indecl.)"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What specific function of the mantra does Shankara emphasize in his promise?",
+   "premises": [
+    "Shankara promises to tell the mantra.",
+    "The mantra delivers from calamity.",
+    "This function is especially emphasized."
+   ],
+   "inference": "Shankara especially promises to reveal the calamity-delivering mantra.",
+   "uncertainties": [],
+   "plain_english": "I will especially tell you the mantra that delivers from calamity."
+  },
+  {
+   "verse": 2816,
+   "rows": [
+    {
+     "surface": "vaṭukāya+iti",
+     "gloss": "to-vatuka+thus",
+     "grounds": "mantra syllables/phrase with quotation marker",
+     "morph": "m.dat.sg + (indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "sequence in mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āpad+uddharaṇāya",
+     "gloss": "for-calamity+deliverance",
+     "grounds": "purpose compound",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra phrase is specified for the purpose of deliverance from calamity?",
+   "premises": [
+    "The phrase vaṭukāya is given.",
+    "It is followed by a phrase for deliverance from calamity.",
+    "The sequence is part of the mantra."
+   ],
+   "inference": "The mantra includes 'vaṭukāya' followed by the phrase for deliverance from calamity.",
+   "uncertainties": [
+    "exact mantra segmentation kept as given"
+   ],
+   "plain_english": "Say 'vaṭukāya', and afterwards the phrase for deliverance from calamity."
+  },
+  {
+   "verse": 2817,
+   "rows": [
+    {
+     "surface": "devī+praṇavam+uddhṛtya",
+     "gloss": "goddess+pranava+having-extracted",
+     "grounds": "compound gerund describing mantra extraction",
+     "morph": "f.comp + m.acc.sg + gerund ud-√hṛ"
+    },
+    {
+     "surface": "mantra+uddhāram+imam",
+     "gloss": "mantra+extraction+this",
+     "grounds": "compound object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How is this mantra extraction formed using the goddess's sacred syllable?",
+   "premises": [
+    "The goddess's praṇava is extracted.",
+    "This forms the mantra extraction.",
+    "The beloved is addressed."
+   ],
+   "inference": "This mantra extraction is formed by extracting the goddess's praṇava.",
+   "uncertainties": [
+    "precise technical sense of devī-praṇava"
+   ],
+   "plain_english": "O beloved, having extracted the goddess's praṇava, this is the extraction of the mantra."
+  },
+  {
+   "verse": 2818,
+   "rows": [
+    {
+     "surface": "aprakāśyam+imam",
+     "gloss": "not-to-be-revealed+this",
+     "grounds": "gerundive attribute of secrecy",
+     "morph": "m.acc.sg.gerundive + m.acc.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object described",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarva+śakti",
+     "gloss": "all+power",
+     "grounds": "compound describing potency",
+     "morph": "f.comp"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "endowed-with",
+     "grounds": "past participle indicating possession",
+     "morph": "m.acc.sg.past-pass.part sam-anv-√i"
+    }
+   ],
+   "question": "What two defining qualities characterize this mantra according to Shankara?",
+   "premises": [
+    "The mantra must not be revealed.",
+    "The mantra is endowed with all power.",
+    "Both qualities apply to this same mantra."
+   ],
+   "inference": "This mantra is not to be revealed and is endowed with all power.",
+   "uncertainties": [],
+   "plain_english": "This mantra must not be revealed and is endowed with all power."
+  },
+  {
+   "verse": 2819,
+   "rows": [
+    {
+     "surface": "vidravanti",
+     "gloss": "flee",
+     "grounds": "present action of fear",
+     "morph": "3.pl.pres.act vi-√dru"
+    },
+    {
+     "surface": "bhaya+ārtā",
+     "gloss": "by-fear+afflicted",
+     "grounds": "compound describing state",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaleḥ+udrāḥ+iva",
+     "gloss": "of-kali+fierce-beings+like",
+     "grounds": "simile compound; reading uncertain",
+     "morph": "m.gen.sg + m.nom.pl + (indecl.)"
+    },
+    {
+     "surface": "prajāḥ",
+     "gloss": "people",
+     "grounds": "subject fleeing",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How do afflicted beings react in the presence of this mantra's power?",
+   "premises": [
+    "Beings afflicted by fear flee.",
+    "A simile compares them to beings of Kali.",
+    "The reaction is emphatic."
+   ],
+   "inference": "Those afflicted by fear flee like the fierce beings of Kali.",
+   "uncertainties": [
+    "kaleḥ+udrāḥ+iva reading and referent uncertain"
+   ],
+   "plain_english": "Indeed, people afflicted by fear flee like the fierce beings of Kali."
+  },
+  {
+   "verse": 2820,
+   "rows": [
+    {
+     "surface": "na+agni+caura+bhayaṃ",
+     "gloss": "not+fire+thief+fear",
+     "grounds": "compound negating specific fears",
+     "morph": "(indecl.) + n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "graha+rāja+bhayaṃ",
+     "gloss": "planet+king+fear",
+     "grounds": "compound naming other fears",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which specific fears are negated for those protected by this practice?",
+   "premises": [
+    "Fear of fire and thieves is negated.",
+    "Fear from planets and kings is negated.",
+    "The negation applies likewise."
+   ],
+   "inference": "There is no fear of fire, thieves, planets, or kings.",
+   "uncertainties": [],
+   "plain_english": "There is no fear of fire or thieves, nor likewise fear from planets or kings."
+  },
+  {
+   "verse": 2821,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "arise",
+     "grounds": "present result",
+     "morph": "3.pl.pres.act √bhū"
+    },
+    {
+     "surface": "satataṃ",
+     "gloss": "always",
+     "grounds": "continuous time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "his",
+     "grounds": "possessive reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pustakasya+api",
+     "gloss": "of-book+also",
+     "grounds": "compound with inclusive particle",
+     "morph": "n.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "pūjanāt",
+     "gloss": "by-worship",
+     "grounds": "instrumental cause",
+     "morph": "n.abl.sg"
+    }
+   ],
+   "question": "What continual protection arises from worshipping the book containing this teaching?",
+   "premises": [
+    "Worship of the book is performed.",
+    "The result is continual for that person.",
+    "The previously named fears do not arise."
+   ],
+   "inference": "By worshipping the book, those fears never arise for him.",
+   "uncertainties": [],
+   "plain_english": "For him, through worship of the book as well, these fears never arise."
+  },
+  {
+   "verse": 2822,
+   "rows": [
+    {
+     "surface": "sāram+uddhṛtya",
+     "gloss": "essence+having-extracted",
+     "grounds": "gerund of extraction",
+     "morph": "m.acc.sg + gerund ud-√hṛ"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "possessive plural",
+     "morph": "pron.gen.pl"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāma+aṣṭa+śatakaṃ",
+     "gloss": "name+eight+hundred",
+     "grounds": "compound indicating eight hundred names",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vada",
+     "gloss": "tell",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √vad"
+    }
+   ],
+   "question": "What essential recitation is requested after extracting the core teaching?",
+   "premises": [
+    "The essence is to be extracted.",
+    "A set of eight hundred names is mentioned.",
+    "The speaker is asked to tell it."
+   ],
+   "inference": "After extracting the essence, one is asked to recite the eight hundred names.",
+   "uncertainties": [
+    "nāma+aṣṭa+śatakaṃ interpreted as eight hundred names"
+   ],
+   "plain_english": "Having extracted their essence, indeed tell the eight hundred names."
+  },
+  {
+   "verse": 2823,
+   "rows": [
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "universal quantifier",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kāmān+avāpnoti",
+     "gloss": "desires+obtains",
+     "grounds": "compound verb phrase",
+     "morph": "3.sg.pres.act ava-√āp"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "agent subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhim+eva",
+     "gloss": "attainment+indeed",
+     "grounds": "emphatic object",
+     "morph": "f.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What attainments does the practitioner gain through this recitation?",
+   "premises": [
+    "The practitioner obtains all desires.",
+    "The practitioner obtains siddhi.",
+    "Both results are affirmed."
+   ],
+   "inference": "The practitioner obtains all desires and indeed attains siddhi.",
+   "uncertainties": [],
+   "plain_english": "The practitioner obtains all desires and indeed attains siddhi."
+  },
+  {
+   "verse": 2824,
+   "rows": [
+    {
+     "surface": "āpad+uddhārakasya+iha",
+     "gloss": "of-calamity+deliverer+here",
+     "grounds": "compound with locative particle",
+     "morph": "m.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "nāma+aṣṭa+śatam+uttamam",
+     "gloss": "name+eight+hundred+supreme",
+     "grounds": "compound naming the supreme set of names",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What supreme collection of names belongs to the deliverer from calamity?",
+   "premises": [
+    "The deliverer from calamity is referenced.",
+    "A set of eight hundred names is named.",
+    "This set is described as supreme."
+   ],
+   "inference": "The supreme eight hundred names belong to the deliverer from calamity.",
+   "uncertainties": [
+    "nāma+aṣṭa+śatam interpreted as eight hundred names"
+   ],
+   "plain_english": "Here are the supreme eight hundred names of the deliverer from calamity."
+  }
+ ]
+}

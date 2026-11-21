@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "gradually",
+     "grounds": "adverb indicating sequential gradual performance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "optative of kṛ, third person singular active",
+     "morph": "3.sg.act.opt.-kṛ"
+    },
+    {
+     "surface": "pañcatridvyekasaṃkhyayā",
+     "gloss": "with-five-three-two-one-number",
+     "grounds": "compound numeral phrase in instrumental case indicating count by which acts are performed",
+     "morph": "instr.sg.f"
+    }
+   ],
+   "question": "In what numerical order should the ritual acts be performed gradually after the homa and bali?",
+   "premises": [
+    "Ritual acts follow homa and bali.",
+    "They are performed gradually.",
+    "Their count descends five three two one."
+   ],
+   "inference": "The practitioner should execute the remaining rites in descending numerical sequence.",
+   "uncertainties": [
+    "Exact ritual referent of the counted acts is not specified in this verse."
+   ],
+   "plain_english": "Gradually, one should perform them by the number five, three, two, one."
+  }
+ ]
+}

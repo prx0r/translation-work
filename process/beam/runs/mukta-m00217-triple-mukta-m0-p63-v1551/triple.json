@@ -1,0 +1,997 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1551,
+   "rows": [
+    {
+     "surface": "pūrvoktabalidānaṃ",
+     "gloss": "previously-stated-offering-gift",
+     "grounds": "compound of pūrva-ukta-bali-dāna; object of kuryād",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-perform",
+     "grounds": "injunctive/optative sense in ritual instruction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "vighnopaśāntaye",
+     "gloss": "for-obstacle-pacification",
+     "grounds": "compound of vighna-upaśānti; purpose",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What ritual action must be performed to pacify obstacles at this stage?",
+   "premises": [
+    "A previously stated offering-gift is prescribed.",
+    "The offering-gift is to be performed by the practitioner.",
+    "Its purpose is the pacification of obstacles."
+   ],
+   "inference": "The practitioner should perform the previously stated offering-gift to pacify obstacles.",
+   "uncertainties": [],
+   "plain_english": "One should indeed perform the previously mentioned offering-gift for the pacification of obstacles."
+  },
+  {
+   "verse": 1552,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kumārīḥ",
+     "gloss": "maidens",
+     "grounds": "ritual recipients to be satisfied",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "santarpya",
+     "gloss": "having-satisfied",
+     "grounds": "prior action before next rite",
+     "morph": "gerund √tṛp with sam"
+    },
+    {
+     "surface": "tripureśyānayāthavā",
+     "gloss": "by-this-tripura-lady-or",
+     "grounds": "fused form: tripureśyā + anayā + athavā; alternative mantra/form reference",
+     "morph": "compound+f.inst.sg+(indecl.)"
+    }
+   ],
+   "question": "What act of satisfaction follows, and by which alternative form may it be done?",
+   "premises": [
+    "The sequence continues after the prior offering.",
+    "Maidens are to be satisfied.",
+    "The satisfaction may be done by this form of the Lady of Tripura or alternatively."
+   ],
+   "inference": "Afterward, one should satisfy the maidens, using this form of Tripureśī or an alternative.",
+   "uncertainties": [
+    "The exact alternative indicated by athavā is not specified in this verse."
+   ],
+   "plain_english": "Then, having satisfied the maidens, one may do so by this form of the Lady of Tripura or by another."
+  },
+  {
+   "verse": 1553,
+   "rows": [
+    {
+     "surface": "khecaryāḥ",
+     "gloss": "of-sky-moving-goddess",
+     "grounds": "connected with śakticakrasya",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "śakticakrasya",
+     "gloss": "of-power-wheel",
+     "grounds": "compound of śakti-cakra; domain of the mistress",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "svāminīṃ",
+     "gloss": "mistress",
+     "grounds": "object in apposition to saṃvidaṃ",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃvidaṃ",
+     "gloss": "consciousness",
+     "grounds": "supreme awareness to be honored",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parām",
+     "gloss": "supreme",
+     "grounds": "qualifies saṃvidaṃ",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which supreme consciousness is identified as the mistress of the Khecarī power-wheel?",
+   "premises": [
+    "There is a power-wheel of Khecarī.",
+    "That wheel has a mistress.",
+    "The mistress is identified as supreme consciousness."
+   ],
+   "inference": "The supreme consciousness is the mistress of the power-wheel of Khecarī.",
+   "uncertainties": [],
+   "plain_english": "One should honor the supreme consciousness, the mistress of the power-wheel of Khecarī."
+  },
+  {
+   "verse": 1554,
+   "rows": [
+    {
+     "surface": "śivakoṇe",
+     "gloss": "in-shiva-corner",
+     "grounds": "compound of śiva-koṇa; location of casting",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "deśikebhyo",
+     "gloss": "to-teachers",
+     "grounds": "recipients associated with the offering",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "remnant-offering",
+     "grounds": "ritual remains to be cast",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "purpose of the act",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-cast",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √kṣip"
+    }
+   ],
+   "question": "Where and for what purpose should the remnant offering be cast to the teachers?",
+   "premises": [
+    "The remnant offering is to be cast.",
+    "The place of casting is the Shiva-corner.",
+    "The act is directed toward teachers for accomplishment."
+   ],
+   "inference": "One should cast the remnant offering in the Shiva-corner to the teachers for accomplishment.",
+   "uncertainties": [],
+   "plain_english": "One should cast the remnant offering in the Shiva-corner to the teachers for the sake of accomplishment."
+  },
+  {
+   "verse": 1555,
+   "rows": [
+    {
+     "surface": "nāmamantreṇa",
+     "gloss": "by-name-mantra",
+     "grounds": "compound of nāma-mantra; instrument of satisfaction",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svasya",
+     "gloss": "of-oneself",
+     "grounds": "reflexive possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tarpayedupadeśataḥ",
+     "gloss": "one-should-satisfy-by-instruction",
+     "grounds": "fused form: tarpayet + upadeśataḥ; ritual satisfaction according to teaching",
+     "morph": "3.sg.act.opt √tṛp+(indecl.)"
+    }
+   ],
+   "question": "By what means and according to what guidance should one satisfy oneself ritually?",
+   "premises": [
+    "Satisfaction is to be performed.",
+    "The means is one's own name-mantra.",
+    "The act follows received instruction."
+   ],
+   "inference": "One should satisfy oneself with the name-mantra according to instruction.",
+   "uncertainties": [],
+   "plain_english": "And one should satisfy oneself with one's own name-mantra, according to the instruction received."
+  },
+  {
+   "verse": 1556,
+   "rows": [
+    {
+     "surface": "punarādhāragaṃ",
+     "gloss": "again-support-going",
+     "grounds": "compound: punar + ādhāra-ga; qualifies lamp characteristic",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "ācāre",
+     "gloss": "in-practice",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dīpalakṣaṇam",
+     "gloss": "lamp-characteristic",
+     "grounds": "compound of dīpa-lakṣaṇa; object of kuryād",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What lamp-related observance must be performed again in the ritual practice?",
+   "premises": [
+    "A lamp characteristic is prescribed in practice.",
+    "It is to be performed again.",
+    "It relates to going to the support."
+   ],
+   "inference": "In the practice, one should again perform the lamp observance connected with the support.",
+   "uncertainties": [
+    "The precise technical meaning of ādhāragaṃ in this rite is not fully explicit."
+   ],
+   "plain_english": "In the ritual practice, one should again perform the lamp observance connected with the support."
+  },
+  {
+   "verse": 1557,
+   "rows": [
+    {
+     "surface": "kapālinyā",
+     "gloss": "by-kapalini",
+     "grounds": "instrumental agent or mantra-form reference",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pātraṃ",
+     "gloss": "vessel",
+     "grounds": "object to be lifted",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "by-her",
+     "grounds": "alternative instrumental reference",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samuddharet",
+     "gloss": "one-should-lift-up",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √hṛ with sam-ud"
+    }
+   ],
+   "question": "By which alternative agency may the ritual vessel be lifted up?",
+   "premises": [
+    "The vessel is to be lifted up.",
+    "Kapālinī may be the means.",
+    "Alternatively, she may be the means in another specified way."
+   ],
+   "inference": "One should lift up the vessel by Kapālinī or alternatively by her.",
+   "uncertainties": [
+    "The distinction between kapālinyā and tayā is not fully specified in this verse."
+   ],
+   "plain_english": "One should lift up the vessel by Kapālinī, or alternatively by her."
+  },
+  {
+   "verse": 1558,
+   "rows": [
+    {
+     "surface": "tattvatrayeṇa",
+     "gloss": "by-three-principles",
+     "grounds": "compound of tattva-traya; instrumental means",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "saṃyogāt",
+     "gloss": "through-union",
+     "grounds": "cause or manner of the act",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tarpayet",
+     "gloss": "one-should-satisfy",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √tṛp"
+    },
+    {
+     "surface": "svāntavāsinīm",
+     "gloss": "inner-dwelling-one",
+     "grounds": "compound: sva-anta-vāsinī; goddess dwelling within",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Through union with which triad should the inner-dwelling goddess be satisfied?",
+   "premises": [
+    "Satisfaction is to be offered.",
+    "The means involves union with the three principles.",
+    "The recipient is the one dwelling within."
+   ],
+   "inference": "Through union with the three principles, one should satisfy the inner-dwelling goddess.",
+   "uncertainties": [],
+   "plain_english": "Through union with the three principles, one should satisfy the goddess who dwells within."
+  },
+  {
+   "verse": 1559,
+   "rows": [
+    {
+     "surface": "tṛtīyam",
+     "gloss": "third",
+     "grounds": "ordinal qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īśarūpaṃ",
+     "gloss": "lord-form",
+     "grounds": "compound of īśa-rūpa; object to be known",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating required understanding",
+     "morph": "n.nom.sg.gerundive √jñā with vi"
+    },
+    {
+     "surface": "munisattamaiḥ",
+     "gloss": "by-best-sages",
+     "grounds": "compound of muni-sattama; agents of knowing",
+     "morph": "m.inst.pl"
+    }
+   ],
+   "question": "What third form must be recognized by the best of sages?",
+   "premises": [
+    "A third form is presented.",
+    "That form is the form of the Lord.",
+    "It must be known by the best sages."
+   ],
+   "inference": "The best sages must recognize the third as the form of the Lord.",
+   "uncertainties": [],
+   "plain_english": "And the third is to be known by the best of sages as the form of the Lord."
+  },
+  {
+   "verse": 1560,
+   "rows": [
+    {
+     "surface": "śrīgurorājñayā",
+     "gloss": "by-command-of-revered-guru",
+     "grounds": "compound: śrī-guru-ājñā; instrumental cause",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "svayaṃ",
+     "gloss": "oneself",
+     "grounds": "emphasizes direct identity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrītripurā",
+     "gloss": "revered-tripura",
+     "grounds": "divine identity attained",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "By whose command does the practitioner become Śrī Tripurā herself?",
+   "premises": [
+    "The command of the revered guru is operative.",
+    "The practitioner becomes Śrī Tripurā.",
+    "This becoming is direct and personal."
+   ],
+   "inference": "By the command of the revered guru, one becomes Śrī Tripurā herself.",
+   "uncertainties": [],
+   "plain_english": "O goddess, by the command of the revered guru, one becomes Śrī Tripurā herself."
+  },
+  {
+   "verse": 1561,
+   "rows": [
+    {
+     "surface": "ākṛṣya",
+     "gloss": "having-drawn",
+     "grounds": "prior action of drawing forth",
+     "morph": "gerund √kṛṣ with ā"
+    },
+    {
+     "surface": "mantrāt",
+     "gloss": "from-mantra",
+     "grounds": "source of what is drawn",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "tatrasthaṃ",
+     "gloss": "standing-there",
+     "grounds": "compound: tatra-stha; what is present in that place",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śiṣikābhyo'kṣatādikam",
+     "gloss": "to-female-disciples-unbroken-rice-etc",
+     "grounds": "fused form: śiṣikābhyaḥ + akṣata-ādikam; recipients and items",
+     "morph": "f.dat.pl+n.acc.sg"
+    }
+   ],
+   "question": "What is drawn from the mantra and given to the female disciples?",
+   "premises": [
+    "Something is drawn from the mantra.",
+    "What is drawn is present there.",
+    "It is given to female disciples as unbroken rice and so forth."
+   ],
+   "inference": "Having drawn what stands there from the mantra, one gives unbroken rice and the like to the female disciples.",
+   "uncertainties": [
+    "The exact referent of tatrasthaṃ is context-dependent."
+   ],
+   "plain_english": "Having drawn what is present there from the mantra, one gives unbroken rice and the like to the female disciples."
+  },
+  {
+   "verse": 1562,
+   "rows": [
+    {
+     "surface": "anarghyam",
+     "gloss": "priceless",
+     "grounds": "qualifies the offering or substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijñeyamakṣaraiḥ",
+     "gloss": "to-be-known-by-syllables",
+     "grounds": "fused form: vijñeyam + akṣaraiḥ; known through syllables",
+     "morph": "n.nom.sg.gerundive √jñā with vi+n.inst.pl"
+    },
+    {
+     "surface": "kathitaṃ",
+     "gloss": "declared",
+     "grounds": "past teaching statement",
+     "morph": "n.nom.sg.past-passive-participle √kath"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "speaker as agent of declaration",
+     "morph": "1.sg.inst"
+    }
+   ],
+   "question": "How has the priceless substance been declared knowable through syllables?",
+   "premises": [
+    "The substance is priceless.",
+    "It is to be known through syllables.",
+    "This has been declared by the speaker."
+   ],
+   "inference": "The speaker has declared that the priceless substance is to be known through syllables.",
+   "uncertainties": [],
+   "plain_english": "I have declared that the priceless substance is also to be known through the syllables."
+  },
+  {
+   "verse": 1563,
+   "rows": [
+    {
+     "surface": "gopitavyaṃ",
+     "gloss": "to-be-guarded",
+     "grounds": "gerundive of secrecy",
+     "morph": "n.nom.sg.gerundive √gup"
+    },
+    {
+     "surface": "tvayā",
+     "gloss": "by-you",
+     "grounds": "addressee as guardian",
+     "morph": "2.sg.inst"
+    },
+    {
+     "surface": "bhadre",
+     "gloss": "o-blessed-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "jananījāragarbhavat",
+     "gloss": "like-mother-lover-womb",
+     "grounds": "compound simile: jananī-jāra-garbha-vat; extreme secrecy",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "With what degree of secrecy must this teaching be guarded by the recipient?",
+   "premises": [
+    "The teaching must be guarded.",
+    "The addressee is responsible for guarding it.",
+    "The comparison indicates secrecy like a hidden womb."
+   ],
+   "inference": "The recipient must guard this teaching with utmost secrecy.",
+   "uncertainties": [
+    "The simile is culturally specific and may carry strong connotations."
+   ],
+   "plain_english": "O blessed one, you must guard this as secretly as a mother's hidden womb."
+  },
+  {
+   "verse": 1564,
+   "rows": [
+    {
+     "surface": "sahasrajanmajaṃ",
+     "gloss": "born-of-thousand-births",
+     "grounds": "compound: sahasra-janma-ja; qualifies pāpaṃ",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "object destroyed",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "effect of the rite or state",
+     "morph": "3.sg.act.pres √han"
+    },
+    {
+     "surface": "māsena",
+     "gloss": "in-a-month",
+     "grounds": "time within which effect occurs",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "agent who destroys sin",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power does the teacher possess to destroy sin accumulated over many births?",
+   "premises": [
+    "Sin born of a thousand births exists.",
+    "The teacher destroys that sin.",
+    "The destruction occurs within a month."
+   ],
+   "inference": "The teacher destroys sin accumulated over a thousand births within a month.",
+   "uncertainties": [],
+   "plain_english": "The teacher destroys sin born of a thousand births within a month."
+  },
+  {
+   "verse": 1565,
+   "rows": [
+    {
+     "surface": "avaśyaṃ",
+     "gloss": "necessarily",
+     "grounds": "emphasizes obligation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvakāleṣu",
+     "gloss": "at-all-times",
+     "grounds": "compound: sarva-kāla; temporal universality",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "paramājñādharo",
+     "gloss": "bearer-of-supreme-command",
+     "grounds": "compound: parama-ājñā-dhara; required state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-should-be",
+     "grounds": "injunctive/optative obligation",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What constant obligation must the practitioner uphold at all times?",
+   "premises": [
+    "The obligation applies at all times.",
+    "The required state is bearing the supreme command.",
+    "This bearing is necessary."
+   ],
+   "inference": "One must necessarily be a bearer of the supreme command at all times.",
+   "uncertainties": [],
+   "plain_english": "One must necessarily be a bearer of the supreme command at all times."
+  },
+  {
+   "verse": 1566,
+   "rows": [
+    {
+     "surface": "samudravalayāṃ",
+     "gloss": "ocean-girdled",
+     "grounds": "compound: samudra-valaya; qualifies earth",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pṛthvīṃ",
+     "gloss": "earth",
+     "grounds": "object obtained",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "saṃprāpya",
+     "gloss": "having-obtained",
+     "grounds": "prior attainment",
+     "morph": "gerund √āp with sam-pra"
+    },
+    {
+     "surface": "sukhamedhate",
+     "gloss": "prospers-in-happiness",
+     "grounds": "compound verbal sense: sukham + edhate; resulting prosperity",
+     "morph": "3.sg.mid.pres √edh"
+    }
+   ],
+   "question": "What worldly prosperity follows from obtaining the ocean-girdled earth?",
+   "premises": [
+    "The ocean-girdled earth is obtained.",
+    "Obtaining it leads to prosperity.",
+    "The prosperity is characterized by happiness."
+   ],
+   "inference": "Having obtained the ocean-girdled earth, one prospers happily.",
+   "uncertainties": [
+    "Whether pṛthvīṃ is literal sovereignty or symbolic attainment is not explicit."
+   ],
+   "plain_english": "Having obtained the ocean-girdled earth, one prospers in happiness."
+  },
+  {
+   "verse": 1567,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject of the results",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "buddhimān",
+     "gloss": "wise",
+     "grounds": "quality attained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.opt √bhū"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vijayī",
+     "gloss": "victorious",
+     "grounds": "quality attained",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act.opt √bhū"
+    }
+   ],
+   "question": "What twofold excellence of wisdom and victory does the practitioner attain?",
+   "premises": [
+    "The practitioner becomes wise.",
+    "The practitioner becomes victorious everywhere.",
+    "Both results are stated as outcomes."
+   ],
+   "inference": "The practitioner becomes wise and victorious everywhere.",
+   "uncertainties": [],
+   "plain_english": "O goddess, he becomes wise and becomes victorious everywhere."
+  },
+  {
+   "verse": 1568,
+   "rows": [
+    {
+     "surface": "svayambhūbāṇadeśe",
+     "gloss": "in-self-born-arrow-place",
+     "grounds": "compound: svayambhū-bāṇa-deśa; possible ritual location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaivasthāne",
+     "gloss": "in-shaiva-place",
+     "grounds": "compound: śaiva-sthāna; alternative ritual location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "maheśvari",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In which alternative sacred locations may the prescribed practice be performed?",
+   "premises": [
+    "A self-born arrow-place is named as a location.",
+    "A Shaiva place is named as an alternative.",
+    "The instruction is addressed to the great goddess."
+   ],
+   "inference": "The practice may be performed in the self-born arrow-place or in a Shaiva place.",
+   "uncertainties": [
+    "The exact identification of svayambhūbāṇadeśa is not specified."
+   ],
+   "plain_english": "O great goddess, it may be done in the self-born arrow-place or in a Shaiva place."
+  },
+  {
+   "verse": 1569,
+   "rows": [
+    {
+     "surface": "muktārudrākṣapadmākṣasphaṭikodbhavayā",
+     "gloss": "born-of-pearl-rudraksha-lotus-seed-crystal",
+     "grounds": "compound: muktā-rudrākṣa-padmākṣa-sphaṭika-udbhava; material of rosary or means",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective indicating continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What materials are specified as the source for the practice continued in this context?",
+   "premises": [
+    "Materials named include pearl, rudrākṣa, lotus-seed, and crystal.",
+    "These materials are treated as a source or means.",
+    "The instruction continues likewise."
+   ],
+   "inference": "The practice is likewise to be done using what is made of pearl, rudrākṣa, lotus-seed, or crystal.",
+   "uncertainties": [
+    "The exact object made from these materials is implied but not named in this verse."
+   ],
+   "plain_english": "Likewise, using one made of pearl, rudrākṣa, lotus-seed, or crystal."
+  },
+  {
+   "verse": 1570,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-chanted",
+     "grounds": "prior act of recitation",
+     "morph": "gerund √jap"
+    },
+    {
+     "surface": "lakṣaikamātre",
+     "gloss": "in-measure-of-one-lakh",
+     "grounds": "compound: lakṣa-eka-mātra; quantity of recitation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūcaryo",
+     "gloss": "earth-wandering-forces",
+     "grounds": "compound: bhū-carya; beings causing obstacles",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "vighnakārikāḥ",
+     "gloss": "obstacle-causing",
+     "grounds": "compound: vighna-kārikā; qualifies bhūcaryaḥ",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What obstacle-causing earth-wandering forces are addressed after chanting one lakh repetitions?",
+   "premises": [
+    "Chanting is performed to the measure of one lakh.",
+    "Earth-wandering forces are present.",
+    "Those forces cause obstacles."
+   ],
+   "inference": "After chanting one lakh repetitions, the obstacle-causing earth-wandering forces are addressed.",
+   "uncertainties": [
+    "The verb governing bhūcaryaḥ vighnakārikāḥ is supplied by context in the next verse."
+   ],
+   "plain_english": "Indeed, having chanted one lakh repetitions, one deals with the obstacle-causing earth-wandering forces."
+  },
+  {
+   "verse": 1571,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal consequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣatrayaṃ",
+     "gloss": "three-lakhs",
+     "grounds": "compound: lakṣa-traya; quantity of recitation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "niyamena",
+     "gloss": "with-discipline",
+     "grounds": "manner of observance",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śucir",
+     "gloss": "pure",
+     "grounds": "required state of practitioner",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise-one",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Under what disciplined conditions should the wise practitioner perform three lakh repetitions?",
+   "premises": [
+    "Three lakh repetitions are to be performed.",
+    "The performance must follow discipline.",
+    "The practitioner must be pure and wise."
+   ],
+   "inference": "Then the pure and wise practitioner should perform three lakh repetitions with discipline.",
+   "uncertainties": [],
+   "plain_english": "Then the pure and wise practitioner should perform three lakh repetitions with discipline."
+  },
+  {
+   "verse": 1572,
+   "rows": [
+    {
+     "surface": "manasoccāraṇaṃ",
+     "gloss": "mental-utterance",
+     "grounds": "compound: manasā-uccāraṇa; silent recitation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "japakoṭiphalapradam",
+     "gloss": "giving-fruit-of-ten-million-japa",
+     "grounds": "compound: japa-koṭi-phala-prada; result of mental recitation",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What exceptional fruit is attributed to mental utterance of the mantra?",
+   "premises": [
+    "Mental utterance is the mode of recitation.",
+    "It yields the fruit of ten million recitations.",
+    "This is stated as its effect."
+   ],
+   "inference": "Mental utterance yields the fruit of ten million recitations.",
+   "uncertainties": [],
+   "plain_english": "O goddess, mental utterance gives the fruit of ten million recitations."
+  },
+  {
+   "verse": 1573,
+   "rows": [
+    {
+     "surface": "vācikāt",
+     "gloss": "than-oral",
+     "grounds": "comparison with oral recitation",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "mukhapātraṃ",
+     "gloss": "mouth-vessel",
+     "grounds": "compound: mukha-pātra; ritual status attained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syācchrīgurorājñayā",
+     "gloss": "becomes-by-command-of-revered-guru",
+     "grounds": "fused form: syāt + śrī-guru-ājñayā; result by guru's command",
+     "morph": "3.sg.act.opt √as+f.inst.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-dear-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What ritual status arises from oral recitation by the revered guru's command?",
+   "premises": [
+    "Oral recitation is the mode considered.",
+    "The revered guru's command is operative.",
+    "The result is becoming a mouth-vessel."
+   ],
+   "inference": "By the revered guru's command, oral recitation makes one become a mouth-vessel.",
+   "uncertainties": [
+    "The technical meaning of mukhapātraṃ in this rite is not fully explicit."
+   ],
+   "plain_english": "O dear one, by the command of the revered guru, one becomes a mouth-vessel through oral recitation."
+  },
+  {
+   "verse": 1574,
+   "rows": [
+    {
+     "surface": "kusumbhapuṣpair",
+     "gloss": "with-safflower-flowers",
+     "grounds": "compound: kusumbha-puṣpa; oblation material",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "ritual fire offering instruction",
+     "morph": "3.sg.act.opt √hu"
+    },
+    {
+     "surface": "madhuratrayasamplutaiḥ",
+     "gloss": "mingled-with-three-sweets",
+     "grounds": "compound: madhura-traya-sampluta; qualifies flowers",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "With what prepared offering materials should the fire oblation be performed?",
+   "premises": [
+    "A fire oblation is to be performed.",
+    "The oblation uses safflower flowers.",
+    "The flowers are mingled with the three sweets."
+   ],
+   "inference": "One should offer safflower flowers mingled with the three sweets into the fire.",
+   "uncertainties": [],
+   "plain_english": "One should offer safflower flowers mingled with the three sweets."
+  }
+ ]
+}

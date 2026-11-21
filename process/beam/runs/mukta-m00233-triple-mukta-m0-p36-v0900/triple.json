@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p36",
+ "items": [
+  {
+   "verse": 900,
+   "rows": [
+    {
+     "surface": "mānonmānapramāṇena",
+     "gloss": "measure-unmeasure-measure",
+     "grounds": "compound of māna, unmāna, and pramāṇa in instrumental case",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter accusative singular pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "sakalavat",
+     "gloss": "complete-like",
+     "grounds": "sakala with vat suffix indicating likeness",
+     "morph": "adv"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle of smṛ in neuter nominative or accusative singular",
+     "morph": "ppp.nom/acc.sg.n"
+    }
+   ],
+   "question": "How is the whole body remembered when measured by measure and unmeasure?",
+   "premises": [
+    "measure and unmeasure define proportions",
+    "all parts are remembered as complete-like",
+    "the standard governs bodily measurement"
+   ],
+   "inference": "the ritual body is proportioned by measured and unmeasured standards",
+   "uncertainties": [
+    "exact referent of māna, unmāna, and pramāṇa remains unclear",
+    "whether smṛtam is nominative or accusative is unresolved"
+   ],
+   "plain_english": "By the measure of measure and unmeasure, all is remembered as complete-like."
+  }
+ ]
+}

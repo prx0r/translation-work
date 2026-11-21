@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p26",
+ "items": [
+  {
+   "verse": 650,
+   "rows": [
+    {
+     "surface": "arcayed",
+     "gloss": "worship",
+     "grounds": "optative of arc, 'to worship'",
+     "morph": "3.sg.act-opt"
+    },
+    {
+     "surface": "bhaktibhāvena",
+     "gloss": "with-devotion",
+     "grounds": "compound bhakti-bhāva in instrumental",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "madya",
+     "gloss": "liquor",
+     "grounds": "noun used in offering list",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "māṃsaiḥ",
+     "gloss": "meat",
+     "grounds": "instrumental plural of māṃsa",
+     "morph": "instr.pl.n"
+    },
+    {
+     "surface": "samatsyakaiḥ",
+     "gloss": "with-fish",
+     "grounds": "compound sa-matsyaka in instrumental plural",
+     "morph": "instr.pl.m"
+    }
+   ],
+   "question": "Should the goddess be worshipped with devotion using liquor meat and fish?",
+   "premises": [
+    "Worship is performed with devotion.",
+    "Offerings include liquor meat fish.",
+    "Devotional attitude accompanies ritual."
+   ],
+   "inference": "Devotional worship includes prescribed meat-fish-liquor offerings.",
+   "uncertainties": [
+    "madya case and syntactic role remain unclear.",
+    "samatsyaka internal parsing is uncertain."
+   ],
+   "plain_english": "Worship with devotion, with liquor, meat, and fish."
+  }
+ ]
+}

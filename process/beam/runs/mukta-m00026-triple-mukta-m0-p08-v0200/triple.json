@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "krau",
+     "gloss": "krau",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaniṣṭhāyugale",
+     "gloss": "on-little-finger-pair",
+     "grounds": "compound: kaniṣṭhā+little-finger, yugale+pair; locative locus of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "oṃ",
+     "grounds": "sacred bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kraḥ",
+     "gloss": "kraḥ",
+     "grounds": "bīja syllable, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karatale",
+     "gloss": "on-palm-surface",
+     "grounds": "compound: kara+hand, tale+surface; locative locus of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of the preceding nyāsa pattern",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bīja syllables are ritually assigned to the little fingers and the palms?",
+   "premises": [
+    "The bīja syllable krau is assigned to the pair of little fingers.",
+    "The bīja syllable kraḥ is assigned to the palm surface.",
+    "The word tathā indicates continuation of the preceding placement pattern."
+   ],
+   "inference": "The nyāsa sequence continues by placing krau on the little fingers and kraḥ on the palms.",
+   "uncertainties": [
+    "karatale is singular in form but may contextually imply both palms."
+   ],
+   "plain_english": "Place oṃ krau on the pair of little fingers, and likewise place oṃ kraḥ on the palms."
+  }
+ ]
+}

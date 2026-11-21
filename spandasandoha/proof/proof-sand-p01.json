@@ -5,11 +5,15 @@
  "date": "2026-11-01",
  "blocking": [],
  "warnings": [],
+ "mode": "shastra",
  "source_sha": "3694ee9ea9c7a552",
+ "source_digest_normalized_sha256": "3694ee9ea9c7a552ac8c8fd68aca5d46088411f230cf53f9ef508e50f803dc62",
+ "source_sha256_raw": "86fbc04aa15199e072635fa0af0a23848708449a172fc2af4cd2a70c2a308405",
+ "source_sha256_raw_file": "/root/translation-work/spandasandoha/T1.md",
  "source_verses": 2,
  "t1_verses": 2,
  "l0": {
-  "parsed": 13,
+  "parsed": 0,
   "ambiguous": 0,
   "failed": 0,
   "tokens": 13
@@ -21,10 +25,10 @@
  "c1_l2_shared": [],
  "c1_quotes": 0,
  "c1_iast_prose_info": 0,
- "c1_words": 6,
+ "c1_words": 74,
  "c1_metacommentary": [],
  "l2_cites": {
-  "checked": 2,
+  "checked": 4,
   "failures": []
  },
  "ledger": {
@@ -68,9 +72,9 @@
  "lineage": {
   "tool": "proof_record v1 2026-11-01",
   "source_sha": "3694ee9ea9c7a552",
-  "t1": "T1-sand-p01.md",
-  "l0": "T1-sand-p01.l0.jsonl",
-  "l2": "L2-sand-p01.md",
-  "c1": "c1/C1-sand-p01.md"
+  "t1": "sand-p01/data/sand-p01.t1.json",
+  "l0": "sand-p01/data/sand-p01.l0.json",
+  "l2": "sand-p01/data/sand-p01.l2.json",
+  "c1": "sand-p01/data/sand-p01.c1.json"
  }
 }

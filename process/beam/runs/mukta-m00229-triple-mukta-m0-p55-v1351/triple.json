@@ -1,0 +1,970 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "bhaṭṭanāgena",
+     "gloss": "by-bhattanaga",
+     "grounds": "instrumental agent of citation",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "tripurā",
+     "gloss": "tripura",
+     "grounds": "goddess name in title",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sāra",
+     "gloss": "essence",
+     "grounds": "core subject of compendium",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃgrahe",
+     "gloss": "in-compendium",
+     "grounds": "locative of treatise",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Who is cited as the source for the essence of Tripura in this compendium?",
+   "premises": [
+    "Bhattanaga is named as authority.",
+    "Tripura essence is the topic.",
+    "The compendium records it."
+   ],
+   "inference": "The verse attributes the Tripura essence to Bhattanaga within the compendium.",
+   "uncertainties": [
+    "Exact work of Bhattanaga is not specified."
+   ],
+   "plain_english": "In the compendium, Bhattanaga is cited for the essence of Tripura."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "paridhīn",
+     "gloss": "boundaries",
+     "grounds": "objects to be set",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "prācivarjaṃ",
+     "gloss": "except-eastern",
+     "grounds": "eastern boundary excluded",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vicakṣaṇaḥ",
+     "gloss": "discerning",
+     "grounds": "qualified practitioner",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which boundaries does the discerning practitioner establish while excluding the eastern one?",
+   "premises": [
+    "Boundaries are to be established.",
+    "The eastern boundary is excepted.",
+    "A discerning practitioner performs this."
+   ],
+   "inference": "The practitioner sets boundaries in all directions except east.",
+   "uncertainties": [
+    "Reason for excluding east is not stated."
+   ],
+   "plain_english": "The discerning one sets the boundaries, except the eastern one."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "ekavṛkṣasamudbhūtān",
+     "gloss": "from-one-tree",
+     "grounds": "origin of darbhas",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ārdrān",
+     "gloss": "fresh",
+     "grounds": "quality of grass",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ati-ṛjūn",
+     "gloss": "straight",
+     "grounds": "quality of grass",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "śubhān",
+     "gloss": "auspicious",
+     "grounds": "quality of grass",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "What qualities must the darbha grasses have when taken from a single tree?",
+   "premises": [
+    "They come from one tree.",
+    "They must be fresh.",
+    "They must be straight and auspicious."
+   ],
+   "inference": "Suitable darbhas are fresh, straight, auspicious, and from one tree.",
+   "uncertainties": [
+    "Tree species is not specified."
+   ],
+   "plain_english": "Take fresh, straight, auspicious darbhas growing from one tree."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "gṛhṇīyāt",
+     "gloss": "should-take",
+     "grounds": "injunctive verb",
+     "morph": "3.sg.act.opt.+grah"
+    },
+    {
+     "surface": "pūrvābhāve",
+     "gloss": "in-absence-of-prior",
+     "grounds": "conditional circumstance",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "then-next",
+     "grounds": "sequential choice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "next",
+     "grounds": "repeated sequential choice",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What should be done when the prior darbha is unavailable?",
+   "premises": [
+    "Taking is enjoined.",
+    "Absence of prior is the condition.",
+    "Next and next options follow."
+   ],
+   "inference": "If the prior darbha is absent, one takes the next available, then the next.",
+   "uncertainties": [
+    "Exact fallback sequence is abbreviated."
+   ],
+   "plain_english": "If the prior one is absent, take the next, then the next."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṇeṣu",
+     "gloss": "in-corners",
+     "grounds": "location of worship",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "jihvā",
+     "gloss": "tongue",
+     "grounds": "seed syllable name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bījādikā",
+     "gloss": "seed-etc",
+     "grounds": "mantra elements",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "should-worship",
+     "grounds": "injunctive verb",
+     "morph": "3.sg.act.opt.+yaj"
+    }
+   ],
+   "question": "What mantra elements are worshipped in the corners?",
+   "premises": [
+    "Corners are the location.",
+    "Tongue seed is named.",
+    "Seed and related elements are worshipped."
+   ],
+   "inference": "In the corners one worships the tongue seed and related seed elements.",
+   "uncertainties": [
+    "Full list of seed elements is not given."
+   ],
+   "plain_english": "And in the corners worship the tongue seed and other seed elements."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "pūjayen",
+     "gloss": "should-worship",
+     "grounds": "injunctive verb",
+     "morph": "3.sg.act.opt.+pūj"
+    },
+    {
+     "surface": "mūrttīḥ",
+     "gloss": "images",
+     "grounds": "objects of worship",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "śaktisvastikadhāriṇīḥ",
+     "gloss": "shakti-swastika-bearing",
+     "grounds": "descriptive compound",
+     "morph": "f.acc.pl"
+    }
+   ],
+   "question": "Which images are to be worshipped in this rite?",
+   "premises": [
+    "Worship is enjoined.",
+    "Images are the objects.",
+    "They bear shakti and swastika."
+   ],
+   "inference": "One worships images bearing shakti and swastika.",
+   "uncertainties": [
+    "Iconographic details beyond bearing are not specified."
+   ],
+   "plain_english": "Worship the images that bear shakti and swastika."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "paścādādāya",
+     "gloss": "afterward-taking",
+     "grounds": "participial action",
+     "morph": "abs.+ādā"
+    },
+    {
+     "surface": "pāṇibhyāṃ",
+     "gloss": "with-hands",
+     "grounds": "instrument",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "sruksu",
+     "gloss": "sruks",
+     "grounds": "vessel term",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "sru",
+     "gloss": "sru",
+     "grounds": "vessel term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "dual reference",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "avadhomukhau",
+     "gloss": "downward-faced",
+     "grounds": "orientation",
+     "morph": "m.acc.du"
+    }
+   ],
+   "question": "How are the two sru vessels oriented after being taken in the hands?",
+   "premises": [
+    "They are taken afterward.",
+    "Hands are the instrument.",
+    "The two are downward-faced."
+   ],
+   "inference": "After taking them in both hands, the two sru vessels are held downward-faced.",
+   "uncertainties": [
+    "Exact ritual use of sruks and sru is not explained."
+   ],
+   "plain_english": "Afterward, taking them in both hands, the two sru vessels are downward-faced."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "tadagramūlamadhyāni",
+     "gloss": "tip-root-middle",
+     "grounds": "parts of darbha",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "should-purify",
+     "grounds": "injunctive verb",
+     "morph": "3.sg.act.opt.+śudh"
+    },
+    {
+     "surface": "taiḥ",
+     "gloss": "with-them",
+     "grounds": "instrumental plural",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "sequential manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which parts of the darbha are purified and in what order?",
+   "premises": [
+    "Tip, root, and middle are named.",
+    "Purification is enjoined.",
+    "The order is specified."
+   ],
+   "inference": "The tip, root, and middle of the darbha are purified in order with them.",
+   "uncertainties": [
+    "Exact purification action is not detailed."
+   ],
+   "plain_english": "Purify the tip, root, and middle of the darbha with them in order."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "pratāpayet",
+     "gloss": "should-heat",
+     "grounds": "injunctive verb",
+     "morph": "3.sg.act.opt.+tap"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantrin",
+     "grounds": "qualified agent",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darbhān",
+     "gloss": "darbhas",
+     "grounds": "objects heated",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-fire",
+     "grounds": "location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viniḥkṣipet",
+     "gloss": "should-cast",
+     "grounds": "injunctive verb",
+     "morph": "3.sg.act.opt.+kṣip"
+    }
+   ],
+   "question": "What does the mantrin do with the darbhas in fire?",
+   "premises": [
+    "Heating is enjoined.",
+    "The mantrin is agent.",
+    "Darbhas are heated in fire and cast."
+   ],
+   "inference": "The mantrin heats the darbhas in fire and casts them.",
+   "uncertainties": [
+    "Purpose of casting is not stated."
+   ],
+   "plain_english": "The mantrin should heat the darbhas in fire and cast them."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "ājyasthālīm",
+     "gloss": "ghee-vessel",
+     "grounds": "object taken",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "athādāya",
+     "gloss": "then-taking",
+     "grounds": "participial action",
+     "morph": "abs.+ādā"
+    },
+    {
+     "surface": "prokṣayet",
+     "gloss": "should-sprinkle",
+     "grounds": "injunctive verb",
+     "morph": "3.sg.act.opt.+prokṣ"
+    },
+    {
+     "surface": "astravāriṇā",
+     "gloss": "weapon-water",
+     "grounds": "instrument",
+     "morph": "n.instr.sg"
+    }
+   ],
+   "question": "How is the ghee vessel purified after being taken?",
+   "premises": [
+    "The ghee vessel is taken.",
+    "Sprinkling is enjoined.",
+    "Weapon-water is the instrument."
+   ],
+   "inference": "After taking the ghee vessel, one sprinkles it with weapon-water.",
+   "uncertainties": [
+    "Composition of weapon-water is not specified."
+   ],
+   "plain_english": "Then, taking the ghee vessel, sprinkle it with weapon-water."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "viniḥkṣipya",
+     "gloss": "casting",
+     "grounds": "participial action",
+     "morph": "abs.+kṣip"
+    },
+    {
+     "surface": "saṃskṛtaṃ",
+     "gloss": "purified",
+     "grounds": "result of purification",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vīkṣaṇādibhiḥ",
+     "gloss": "by-viewing-etc",
+     "grounds": "means of purification",
+     "morph": "n.instr.pl"
+    }
+   ],
+   "question": "By what means is the cast material purified?",
+   "premises": [
+    "Casting occurs first.",
+    "Purified is the result.",
+    "Viewing and related means are used."
+   ],
+   "inference": "After casting, the material is purified by viewing and related means.",
+   "uncertainties": [
+    "Exact items in etcetera are not listed."
+   ],
+   "plain_english": "Having cast it, purify the purified material by viewing and the rest."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "tāpanam",
+     "gloss": "heating",
+     "grounds": "declared practice",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "declared",
+     "grounds": "participial adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "by-practitioners",
+     "grounds": "agent",
+     "morph": "m.instr.pl"
+    },
+    {
+     "surface": "tantrakovidaiḥ",
+     "gloss": "tantra-knowers",
+     "grounds": "qualified agents",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "Who declares the heating practice described here?",
+   "premises": [
+    "Heating is the practice.",
+    "It is declared.",
+    "Practitioners and tantra-knowers are agents."
+   ],
+   "inference": "The heating practice is declared by practitioners and tantra-knowers.",
+   "uncertainties": [
+    "Whether declaration is textual or oral is not stated."
+   ],
+   "plain_english": "The heating is declared by practitioners and knowers of tantra."
+  },
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "hṛdayamantreṇa",
+     "gloss": "heart-mantra",
+     "grounds": "heart mantra instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "pavitrīkaraṇaṃ",
+     "gloss": "purification",
+     "grounds": "purification accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvidam",
+     "gloss": "but-this",
+     "grounds": "but this pronoun",
+     "morph": "pron.acc.sg.n"
+    }
+   ],
+   "question": "How is purification performed with the heart mantra?",
+   "premises": [
+    "heart mantra purifies",
+    "this purification is specified"
+   ],
+   "inference": "the heart mantra is used for purification",
+   "uncertainties": [
+    "exact ritual object unclear"
+   ],
+   "plain_english": "Purification is done with the heart mantra."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "visarjayet",
+     "gloss": "should-release",
+     "grounds": "release optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "darbham",
+     "gloss": "darbha",
+     "grounds": "darbha accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "abhidyotanam",
+     "gloss": "illumination",
+     "grounds": "illumination accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "declared",
+     "grounds": "declared participle",
+     "morph": "pp.acc.sg.n"
+    }
+   ],
+   "question": "What should be released as declared illumination?",
+   "premises": [
+    "darbha is released",
+    "illumination is declared"
+   ],
+   "inference": "the declared illumination is released through darbha",
+   "uncertainties": [
+    "release target ambiguous"
+   ],
+   "plain_english": "One should release the darbha as declared illumination."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "tān",
+     "gloss": "those",
+     "grounds": "those accusative",
+     "morph": "pron.acc.pl.m"
+    },
+    {
+     "surface": "nyasyet",
+     "gloss": "should-place",
+     "grounds": "place optative",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "pradyotanam",
+     "gloss": "illumination",
+     "grounds": "illumination accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "this pronoun",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "matam",
+     "gloss": "opinion",
+     "grounds": "opinion accusative",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where should those be placed according to this opinion?",
+   "premises": [
+    "those are placed",
+    "illumination is this opinion"
+   ],
+   "inference": "placement follows the stated opinion",
+   "uncertainties": [
+    "referent of those unclear"
+   ],
+   "plain_english": "Those should be placed as this illumination opinion states."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "aṅguṣṭhopakaniṣṭhābhyāṃ",
+     "gloss": "thumb-little-finger",
+     "grounds": "thumb and little finger instrumental dual",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "darbhau",
+     "gloss": "darbhas",
+     "grounds": "darbha accusative dual",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "prādeśa",
+     "gloss": "span",
+     "grounds": "span compound member",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sammitau",
+     "gloss": "measured",
+     "grounds": "measured participle",
+     "morph": "pp.acc.du.m"
+    }
+   ],
+   "question": "How are the darbhas measured by thumb and little finger?",
+   "premises": [
+    "thumb and little finger measure",
+    "darbhas are measured"
+   ],
+   "inference": "darbhas are measured by span",
+   "uncertainties": [
+    "exact span unclear"
+   ],
+   "plain_english": "The darbhas are measured by thumb and little finger span."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "likewise indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdayamantreṇa",
+     "gloss": "heart-mantra",
+     "grounds": "heart mantra instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "kuśābhyām",
+     "gloss": "with-kushas",
+     "grounds": "kusha instrumental dual",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "ātmasaṃmukham",
+     "gloss": "toward-self",
+     "grounds": "toward self adverbial",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How is the heart mantra used with kushas toward self?",
+   "premises": [
+    "heart mantra is used",
+    "kushas are used",
+    "direction is toward self"
+   ],
+   "inference": "the rite uses heart mantra and kushas toward self",
+   "uncertainties": [
+    "action verb omitted"
+   ],
+   "plain_english": "Likewise with the heart mantra and kushas toward oneself."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "prādeśamātraṃ",
+     "gloss": "span-measure",
+     "grounds": "span measure accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sagranthi",
+     "gloss": "with-knot",
+     "grounds": "with knot compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "darbhayugmaṃ",
+     "gloss": "darbha-pair",
+     "grounds": "darbha pair accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ghṛtāntare",
+     "gloss": "in-ghee-interval",
+     "grounds": "in ghee interval locative",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the knotted darbha pair placed by span measure?",
+   "premises": [
+    "darbha pair is knotted",
+    "span measure is used",
+    "ghee interval is location"
+   ],
+   "inference": "the knotted darbha pair is placed in ghee interval",
+   "uncertainties": [
+    "exact placement unclear"
+   ],
+   "plain_english": "A knotted pair of darbhas, span-measured, is in the ghee interval."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "nāḍīm",
+     "gloss": "channel",
+     "grounds": "channel accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "iḍāṃ",
+     "gloss": "ida",
+     "grounds": "ida accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "in-part",
+     "grounds": "part locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sakṣiṇe",
+     "gloss": "right",
+     "grounds": "right locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "piṅgalāṃ",
+     "gloss": "pingala",
+     "grounds": "pingala accusative",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "then indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which channels are placed in right and left parts?",
+   "premises": [
+    "ida channel is placed",
+    "pingala channel is placed",
+    "right part is specified"
+   ],
+   "inference": "ida and pingala are assigned to parts",
+   "uncertainties": [
+    "left part implied"
+   ],
+   "plain_english": "The ida channel in the right part, then pingala."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "dakṣiṇādbhāgād",
+     "gloss": "from-right-part",
+     "grounds": "from right part ablative",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "taking",
+     "grounds": "taking absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "ājyaṃ",
+     "gloss": "ghee",
+     "grounds": "ghee accusative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hṛdā",
+     "gloss": "heart",
+     "grounds": "heart instrumental",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "budhaḥ",
+     "gloss": "wise",
+     "grounds": "wise nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "From which part does the wise one take ghee with the heart?",
+   "premises": [
+    "wise one takes ghee",
+    "right part is source",
+    "heart is instrument"
+   ],
+   "inference": "ghee is taken from the right part by the wise",
+   "uncertainties": [
+    "heart usage unclear"
+   ],
+   "plain_english": "The wise one takes ghee from the right part with the heart."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "vāmataḥ",
+     "gloss": "from-left",
+     "grounds": "from left ablative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvadādāya",
+     "gloss": "likewise-taking",
+     "grounds": "likewise taking compound",
+     "morph": "abs"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "in-left",
+     "grounds": "left locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vahnivilocane",
+     "gloss": "fire-eye",
+     "grounds": "fire eye locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is ghee taken from the left into the fire eye?",
+   "premises": [
+    "left source is used",
+    "taking is likewise",
+    "fire eye is target"
+   ],
+   "inference": "ghee is taken from left into fire eye",
+   "uncertainties": [
+    "exact fire eye unclear"
+   ],
+   "plain_english": "Likewise taking from the left into the left fire eye."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "fire genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bhālavilocane",
+     "gloss": "forehead-eye",
+     "grounds": "forehead eye locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where is the fire's forehead eye located?",
+   "premises": [
+    "fire has forehead eye",
+    "location is specified"
+   ],
+   "inference": "the fire's forehead eye is a locus",
+   "uncertainties": [
+    "ritual meaning unclear"
+   ],
+   "plain_english": "The fire's forehead eye."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "trinetrasadbhāvo",
+     "gloss": "three-eyed-reality",
+     "grounds": "three eyed reality nominative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vidyate",
+     "gloss": "exists",
+     "grounds": "exists verb",
+     "morph": "3.sg.pass.prs"
+    },
+    {
+     "surface": "nṛhariṃ",
+     "gloss": "without-narasimha",
+     "grounds": "narasimha accusative",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "vinā",
+     "grounds": "without indeclinable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Does three-eyed reality exist without Narasimha?",
+   "premises": [
+    "three-eyed reality exists",
+    "narasimha is excluded"
+   ],
+   "inference": "three-eyed reality is said to exist without narasimha",
+   "uncertainties": [
+    "doctrinal scope unclear"
+   ],
+   "plain_english": "Three-eyed reality exists without Narasimha."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "vahneḥ",
+     "gloss": "of-fire",
+     "grounds": "fire genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "trinetratvaṃ",
+     "gloss": "three-eyedness",
+     "grounds": "three eyedness nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devatāpekṣam",
+     "gloss": "deity-dependent",
+     "grounds": "deity dependent nominative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-said",
+     "grounds": "is said verb",
+     "morph": "3.sg.pass.prs"
+    }
+   ],
+   "question": "Is fire's three-eyedness said to depend on deity?",
+   "premises": [
+    "fire has three-eyedness",
+    "deity dependence is stated"
+   ],
+   "inference": "three-eyedness is deity-dependent",
+   "uncertainties": [
+    "which deity unclear"
+   ],
+   "plain_english": "Fire's three-eyedness is said to be deity-dependent."
+  }
+ ]
+}

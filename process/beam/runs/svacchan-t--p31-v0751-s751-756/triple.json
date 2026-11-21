@@ -1,0 +1,263 @@
+{
+ "song": "sva-p31",
+ "items": [
+  {
+   "verse": 751,
+   "rows": [
+    {
+     "surface": "akasmād",
+     "gloss": "causeless",
+     "grounds": "adverbial form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasiddhaṃ",
+     "gloss": "well-known",
+     "grounds": "past participle",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nimittaṃ",
+     "gloss": "cause",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etac",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yojyam",
+     "gloss": "to-be-applied",
+     "grounds": "gerundive",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the causeless well-known sign applied everywhere without cause?",
+   "premises": [
+    "causeless means without nimitta",
+    "this sign is well-known",
+    "it is to be applied everywhere"
+   ],
+   "inference": "the causeless sign is applied everywhere without an external cause",
+   "uncertainties": [
+    "exact referent of etac"
+   ],
+   "plain_english": "The causeless, well-known sign is to be applied everywhere without a cause."
+  },
+  {
+   "verse": 752,
+   "rows": [
+    {
+     "surface": "akasmād",
+     "gloss": "causeless",
+     "grounds": "adverbial form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ityeva",
+     "gloss": "thus-indeed",
+     "grounds": "quotative plus emphatic",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "circle",
+     "grounds": "noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūryabimbasya",
+     "gloss": "of-sun-disk",
+     "grounds": "genitive compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "bāhyapariveśaḥ",
+     "gloss": "outer-halo",
+     "grounds": "compound noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the outer halo of the sun disk called causeless circle?",
+   "premises": [
+    "the circle is called causeless",
+    "it is the outer halo",
+    "it belongs to the sun disk"
+   ],
+   "inference": "the sun's outer halo is the causeless circle",
+   "uncertainties": [
+    "whether maṇḍalam names halo or circle"
+   ],
+   "plain_english": "The outer halo of the sun disk is indeed the causeless circle."
+  },
+  {
+   "verse": 753,
+   "rows": [
+    {
+     "surface": "raviṃ",
+     "gloss": "sun",
+     "grounds": "accusative noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "maṇḍalāntasthaṃ",
+     "gloss": "standing-in-circle-center",
+     "grounds": "compound adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bimbam",
+     "gloss": "disk",
+     "grounds": "noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Where is the sun disk located within the circle?",
+   "premises": [
+    "the disk is in the circle center",
+    "the sun is the disk",
+    "the disk is accusative object"
+   ],
+   "inference": "the sun disk stands in the center of the circle",
+   "uncertainties": [
+    "exact syntactic relation to previous verse"
+   ],
+   "plain_english": "The sun disk stands in the center of the circle."
+  },
+  {
+   "verse": 754,
+   "rows": [
+    {
+     "surface": "akasmāt",
+     "gloss": "causeless",
+     "grounds": "adverbial form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pittādiprakopābhāvāditi",
+     "gloss": "from-absence-of-pitta-etc-aggravation-thus",
+     "grounds": "ablative compound with quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitameva",
+     "gloss": "indeed-steady",
+     "grounds": "participle plus emphatic",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why does the causeless state remain steady without pitta aggravation?",
+   "premises": [
+    "causeless means without pitta aggravation",
+    "the state remains steady",
+    "the absence is the reason"
+   ],
+   "inference": "the causeless state remains steady because pitta and similar aggravation are absent",
+   "uncertainties": [
+    "scope of ādi in pittādi"
+   ],
+   "plain_english": "It remains steady, causeless, because pitta and similar aggravation are absent."
+  },
+  {
+   "verse": 755,
+   "rows": [
+    {
+     "surface": "vāhanarūpairnīyamānam",
+     "gloss": "being-carried-by-vehicle-forms",
+     "grounds": "passive participle compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is being carried by vehicle forms?",
+   "premises": [
+    "the form is passive participle",
+    "it denotes being carried",
+    "vehicle forms are the means"
+   ],
+   "inference": "something is being carried by vehicle forms",
+   "uncertainties": [
+    "missing main clause and object"
+   ],
+   "plain_english": "Being carried by vehicle forms."
+  },
+  {
+   "verse": 756,
+   "rows": [
+    {
+     "surface": "matsyasthānamiti",
+     "gloss": "fish-place-thus",
+     "grounds": "compound with quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasiddham",
+     "gloss": "well-known",
+     "grounds": "past participle",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "marmasandhayo",
+     "gloss": "joint-points",
+     "grounds": "compound noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "dhamanyādayaḥ",
+     "gloss": "vessels-and-so-forth",
+     "grounds": "compound noun",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sirāḥ",
+     "gloss": "veins",
+     "grounds": "noun",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "What well-known fish place is associated with joints, vessels, and veins?",
+   "premises": [
+    "fish place is well-known",
+    "joints are named",
+    "vessels and veins are named"
+   ],
+   "inference": "the well-known fish place is linked with joints, vessels, and veins",
+   "uncertainties": [
+    "exact anatomical mapping"
+   ],
+   "plain_english": "The well-known fish place is associated with joints, vessels, and veins."
+  }
+ ]
+}

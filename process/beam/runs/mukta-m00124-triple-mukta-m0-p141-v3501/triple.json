@@ -1,0 +1,971 @@
+{
+ "song": "mukta-m0-p141",
+ "items": [
+  {
+   "verse": 3501,
+   "rows": [
+    {
+     "surface": "dvāratulyo",
+     "gloss": "door-like",
+     "grounds": "compound dvāra+tulya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "natirtryāsāntaraḥ",
+     "gloss": "bow-among-pillars",
+     "grounds": "fused sandhi form; natir+tryāsa+antaraḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stambhadvayorapi",
+     "gloss": "of-two-pillars-also",
+     "grounds": "fused sandhi form; stambha+dvayoḥ+api",
+     "morph": "m.gen.du"
+    }
+   ],
+   "question": "How is the bow between two pillars compared to a door in this temple description?",
+   "premises": [
+    "The bow is likened to a door.",
+    "It stands among two pillars.",
+    "The pillars are also specified."
+   ],
+   "inference": "The architectural bow is door-like and set between two pillars.",
+   "uncertainties": [
+    "Exact sandhi segmentation of natirtryāsāntaraḥ is editorial."
+   ],
+   "plain_english": "The bow between the two pillars is like a door."
+  },
+  {
+   "verse": 3502,
+   "rows": [
+    {
+     "surface": "phalakaṃ",
+     "gloss": "plank",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcavaktraṃ",
+     "gloss": "five-faced",
+     "grounds": "compound pañca+vaktra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhve",
+     "gloss": "above-that",
+     "grounds": "fused sandhi form; tad+ūrdhve",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śūlasaṃyutam",
+     "gloss": "spear-joined",
+     "grounds": "compound śūla+saṃyuta",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What five-faced plank is placed above with a spear?",
+   "premises": [
+    "A plank is five-faced.",
+    "It is placed above that.",
+    "It is joined with a spear."
+   ],
+   "inference": "The described plank is five-faced and spear-joined above.",
+   "uncertainties": [
+    "tadūrdhve refers to an unspecified prior element."
+   ],
+   "plain_english": "But the five-faced plank above is joined with a spear."
+  },
+  {
+   "verse": 3503,
+   "rows": [
+    {
+     "surface": "nandyāvartaṃ",
+     "gloss": "nandyāvarta",
+     "grounds": "auspicious symbol",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "sarveṣāmaṣṭamaṅgalam",
+     "gloss": "of-all-eighth-auspicious",
+     "grounds": "fused sandhi form; sarveṣām+aṣṭamaṅgalam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which auspicious symbol is counted among the gods' eight auspicious things?",
+   "premises": [
+    "Nandyāvarta is named.",
+    "It belongs to the gods.",
+    "It is one of all eight auspicious things."
+   ],
+   "inference": "Nandyāvarta is an auspicious symbol of the gods.",
+   "uncertainties": [
+    "sarveṣāmaṣṭamaṅgalam is a fused genitive-nominative phrase."
+   ],
+   "plain_english": "Nandyāvarta is an auspicious symbol of all the gods."
+  },
+  {
+   "verse": 3504,
+   "rows": [
+    {
+     "surface": "patākā",
+     "gloss": "banner",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradīpaśca",
+     "gloss": "lamp-and",
+     "grounds": "fused sandhi form; pradīpaḥ+ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devānāmaṣṭamaṅgalam",
+     "gloss": "of-gods-eighth-auspicious",
+     "grounds": "fused sandhi form; devānām+aṣṭamaṅgalam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which banner and lamp are among the gods' eight auspicious things?",
+   "premises": [
+    "A banner is named.",
+    "A lamp is also named.",
+    "Both belong to the gods' eight auspicious things."
+   ],
+   "inference": "Banner and lamp are auspicious symbols of the gods.",
+   "uncertainties": [
+    "devānāmaṣṭamaṅgalam is a fused phrase."
+   ],
+   "plain_english": "A banner and a lamp are among the gods' eight auspicious things."
+  },
+  {
+   "verse": 3505,
+   "rows": [
+    {
+     "surface": "śrīvatsaṃ",
+     "gloss": "śrīvatsa",
+     "grounds": "auspicious mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "svastikaṃ",
+     "gloss": "svastika",
+     "grounds": "auspicious mark",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaṅkhaṃ",
+     "gloss": "conch",
+     "grounds": "auspicious object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dīpaścaivāṣṭamaṅgalam",
+     "gloss": "lamp-and-indeed-eighth-auspicious",
+     "grounds": "fused sandhi form; dīpaḥ+ca+eva+aṣṭamaṅgalam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which marks and objects are listed among the eight auspicious things?",
+   "premises": [
+    "Śrīvatsa is named.",
+    "Svastika is named.",
+    "Conch and lamp are named."
+   ],
+   "inference": "These marks and objects belong to the eight auspicious things.",
+   "uncertainties": [
+    "dīpaścaivāṣṭamaṅgalam is a fused compound phrase."
+   ],
+   "plain_english": "Śrīvatsa, svastika, conch, and lamp are among the eight auspicious things."
+  },
+  {
+   "verse": 3506,
+   "rows": [
+    {
+     "surface": "chatralakṣmīpradīpāśca",
+     "gloss": "umbrella-lakṣmī-lamp-and",
+     "grounds": "fused sandhi form; chatra+lakṣmī+pradīpāḥ+ca",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "dvijānāmaṣṭamaṅgalam",
+     "gloss": "of-twice-born-eighth-auspicious",
+     "grounds": "fused sandhi form; dvijānām+aṣṭamaṅgalam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which umbrella, Lakṣmī, and lamp are auspicious for the twice-born?",
+   "premises": [
+    "Umbrella, Lakṣmī, and lamp are named.",
+    "They are for the twice-born.",
+    "They are among eight auspicious things."
+   ],
+   "inference": "These items are auspicious symbols for the twice-born.",
+   "uncertainties": [
+    "chatralakṣmīpradīpāśca is a fused compound."
+   ],
+   "plain_english": "Umbrella, Lakṣmī, and lamp are among the eight auspicious things of the twice-born."
+  },
+  {
+   "verse": 3507,
+   "rows": [
+    {
+     "surface": "chatraṃ",
+     "gloss": "umbrella",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "fused sandhi form; ca+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradīpaśca",
+     "gloss": "lamp-and",
+     "grounds": "fused sandhi form; pradīpaḥ+ca",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūbhujāmaṣṭamaṅgalam",
+     "gloss": "of-kings-eighth-auspicious",
+     "grounds": "fused sandhi form; bhūbhujām+aṣṭamaṅgalam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which umbrella and lamp are auspicious for kings?",
+   "premises": [
+    "An umbrella is named.",
+    "A lamp is named.",
+    "They are among kings' eight auspicious things."
+   ],
+   "inference": "Umbrella and lamp are auspicious symbols for kings.",
+   "uncertainties": [
+    "bhūbhujāmaṣṭamaṅgalam is a fused phrase."
+   ],
+   "plain_english": "Umbrella and lamp are among the eight auspicious things of kings."
+  },
+  {
+   "verse": 3508,
+   "rows": [
+    {
+     "surface": "śrīnandikau",
+     "gloss": "śrī-nandi-two",
+     "grounds": "fused sandhi form; śrī+nandikau",
+     "morph": "m.nom.du"
+    },
+    {
+     "surface": "mahāśaṃkho",
+     "gloss": "great-conch",
+     "grounds": "compound mahā+śaṅkha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vaiśyānāmaṣṭamaṅgalam",
+     "gloss": "of-vaiśyas-eighth-auspicious",
+     "grounds": "fused sandhi form; vaiśyānām+aṣṭamaṅgalam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which Śrī, Nandi, and great conch are auspicious for Vaiśyas?",
+   "premises": [
+    "Śrī and Nandi are named as a pair.",
+    "A great conch is named.",
+    "They are among Vaiśyas' eight auspicious things."
+   ],
+   "inference": "These items are auspicious symbols for Vaiśyas.",
+   "uncertainties": [
+    "śrīnandikau is a fused dual form."
+   ],
+   "plain_english": "Śrī, Nandi, and a great conch are among the eight auspicious things of Vaiśyas."
+  },
+  {
+   "verse": 3509,
+   "rows": [
+    {
+     "surface": "śrīdīpachatrabheryaśca",
+     "gloss": "śrī-lamp-umbrella-drum-and",
+     "grounds": "fused sandhi form; śrī+dīpa+chatra+bheryaḥ+ca",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śūdrāṇāmaṣṭamaṅgalam",
+     "gloss": "of-śūdras-eighth-auspicious",
+     "grounds": "fused sandhi form; śūdrāṇām+aṣṭamaṅgalam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which Śrī, lamp, umbrella, and drum are auspicious for Śūdras?",
+   "premises": [
+    "Śrī, lamp, umbrella, and drum are named.",
+    "They are for Śūdras.",
+    "They are among eight auspicious things."
+   ],
+   "inference": "These items are auspicious symbols for Śūdras.",
+   "uncertainties": [
+    "śrīdīpachatrabheryaśca is a fused compound."
+   ],
+   "plain_english": "Śrī, lamp, umbrella, and drum are among the eight auspicious things of Śūdras."
+  },
+  {
+   "verse": 3510,
+   "rows": [
+    {
+     "surface": "toraṇaṃ",
+     "gloss": "archway",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "citrasaṃjñaṃ",
+     "gloss": "named-painted",
+     "grounds": "compound citra+saṃjña",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiśyānāṃ",
+     "gloss": "of-vaiśyas",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "pravidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root vidhā"
+    }
+   ],
+   "question": "What painted archway is prescribed for Vaiśyas?",
+   "premises": [
+    "An archway is named.",
+    "It is called painted.",
+    "It is prescribed for Vaiśyas."
+   ],
+   "inference": "A painted archway is prescribed for Vaiśyas.",
+   "uncertainties": [
+    "citrasaṃjñaṃ may mean 'named painted' or 'painted-named'."
+   ],
+   "plain_english": "But a painted archway is prescribed for Vaiśyas."
+  },
+  {
+   "verse": 3511,
+   "rows": [
+    {
+     "surface": "jālakaṃ",
+     "gloss": "lattice",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phālakaṃ",
+     "gloss": "plank",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śailamaiṣṭyaṃ",
+     "gloss": "stone-brick",
+     "grounds": "fused sandhi form; śailam+aṣṭyaṃ",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kuḍyaṃ",
+     "gloss": "wall",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root iṣ"
+    }
+   ],
+   "question": "Which lattice, plank, stone, brick, and wall are desired?",
+   "premises": [
+    "Lattice and plank are named.",
+    "Stone and brick are named.",
+    "Wall is also named."
+   ],
+   "inference": "These architectural elements are desired.",
+   "uncertainties": [
+    "śailamaiṣṭyaṃ is a fused stone-or-brick form."
+   ],
+   "plain_english": "Lattice, plank, stone or brick, and wall are desired."
+  },
+  {
+   "verse": 3512,
+   "rows": [
+    {
+     "surface": "stambhānāmantare",
+     "gloss": "among-pillars",
+     "grounds": "fused sandhi form; stambhānām+antare",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stambhān",
+     "gloss": "pillars",
+     "grounds": "accusative plural",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "placing",
+     "grounds": "absolutive",
+     "morph": "abs + root sthā"
+    },
+    {
+     "surface": "cāntare",
+     "gloss": "and-between",
+     "grounds": "fused sandhi form; ca+antare",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is to be done if pillars are placed among pillars?",
+   "premises": [
+    "Pillars are placed among pillars.",
+    "The action is conditional.",
+    "Between is also specified."
+   ],
+   "inference": "Pillar placement among pillars is conditionally prescribed.",
+   "uncertainties": [
+    "The exact construction sense is unclear."
+   ],
+   "plain_english": "If pillars are placed among pillars, then between them."
+  },
+  {
+   "verse": 3513,
+   "rows": [
+    {
+     "surface": "ūrdhvādhaḥ",
+     "gloss": "up-down",
+     "grounds": "fused sandhi form; ūrdhva+adhaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmakampaiśca",
+     "gloss": "lotus-mouldings-and",
+     "grounds": "fused sandhi form; padma+kampaiḥ+ca",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "bhittibandhanameva",
+     "gloss": "wall-binding-indeed",
+     "grounds": "fused sandhi form; bhitti+bandhanam+eva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What wall binding is made with lotus mouldings up and down?",
+   "premises": [
+    "Up and down are named.",
+    "Lotus mouldings are named.",
+    "Wall binding is named."
+   ],
+   "inference": "Wall binding uses lotus mouldings above and below.",
+   "uncertainties": [
+    "padmakampaiśca is a fused instrumental phrase."
+   ],
+   "plain_english": "Wall binding is made with lotus mouldings above and below."
+  },
+  {
+   "verse": 3514,
+   "rows": [
+    {
+     "surface": "niṣpādaṃ",
+     "gloss": "without-base",
+     "grounds": "compound niṣ+pāda",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapādaṃ",
+     "gloss": "with-base",
+     "grounds": "compound sa+pāda",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuḍyaṃ",
+     "gloss": "wall",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śailamathaiṣṭakam",
+     "gloss": "stone-or-brick",
+     "grounds": "fused sandhi form; śailam+atha+iṣṭakam",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is the wall without base or with base, stone or brick?",
+   "premises": [
+    "Wall may be without base.",
+    "Wall may be with base.",
+    "Wall may be stone or brick."
+   ],
+   "inference": "The wall type is specified by base and material.",
+   "uncertainties": [
+    "śailamathaiṣṭakam is a fused disjunctive phrase."
+   ],
+   "plain_english": "The wall may be without base or with base, stone or brick."
+  },
+  {
+   "verse": 3515,
+   "rows": [
+    {
+     "surface": "kuḍye",
+     "gloss": "on-wall",
+     "grounds": "locative singular",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "stambhalatā",
+     "gloss": "pillar-creeper",
+     "grounds": "compound stambha+latā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "gerundive",
+     "morph": "f.nom.sg gerundive + root kṛ"
+    },
+    {
+     "surface": "vastvādhārasya",
+     "gloss": "of-support-base",
+     "grounds": "compound vastu+ādhāra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "copari",
+     "gloss": "and-above",
+     "grounds": "fused sandhi form; ca+upari",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What pillar-creeper work is done on the wall and above the support base?",
+   "premises": [
+    "Pillar-creeper is to be done.",
+    "It is on the wall.",
+    "It is above the support base."
+   ],
+   "inference": "Pillar-creeper decoration is placed on wall and above support base.",
+   "uncertainties": [
+    "vastvādhārasya may mean 'of the support of things'."
+   ],
+   "plain_english": "A pillar-creeper is to be done on the wall and above the support base."
+  },
+  {
+   "verse": 3516,
+   "rows": [
+    {
+     "surface": "citrakumbhalatā",
+     "gloss": "painted-pot-creeper",
+     "grounds": "compound citra+kumbha+latā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūrvā",
+     "gloss": "first",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "stambhakumbhalatā",
+     "gloss": "pillar-pot-creeper",
+     "grounds": "compound stambha+kumbha+latā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "parā",
+     "gloss": "other",
+     "grounds": "nominative adjective",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which painted pot-creeper comes first and which pillar pot-creeper comes other?",
+   "premises": [
+    "Painted pot-creeper is first.",
+    "Pillar pot-creeper is other.",
+    "Both are creeper types."
+   ],
+   "inference": "Two pot-creeper varieties are ordered first and other.",
+   "uncertainties": [
+    "pūrvā and parā may modify an implied noun."
+   ],
+   "plain_english": "The painted pot-creeper comes first; the pillar pot-creeper is the other."
+  },
+  {
+   "verse": 3517,
+   "rows": [
+    {
+     "surface": "kumbhakumbhalatāmūle",
+     "gloss": "at-pot-creeper-root",
+     "grounds": "fused sandhi form; kumbha+kumbha+latā+mūle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "daṇḍadviguṇavistaraḥ",
+     "gloss": "staff-double-width",
+     "grounds": "compound daṇḍa+dviguṇa+vistara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What staff width is specified at the root of the pot-creeper?",
+   "premises": [
+    "The root of pot-creeper is named.",
+    "A staff is named.",
+    "Its width is double."
+   ],
+   "inference": "At the pot-creeper root the staff has double width.",
+   "uncertainties": [
+    "kumbhakumbhalatāmūle is a fused locative compound."
+   ],
+   "plain_english": "At the root of the pot-creeper, the staff has double width."
+  },
+  {
+   "verse": 3518,
+   "rows": [
+    {
+     "surface": "pādonatriguṇā",
+     "gloss": "quarter-bow-threefold",
+     "grounds": "fused sandhi form; pāda+unati+triguṇā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadardhenocchrayo",
+     "gloss": "its-half-height",
+     "grounds": "fused sandhi form; tad+ardhena+ucchrayaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt + root bhū"
+    }
+   ],
+   "question": "How does the quarter-bow threefold relate to half-height?",
+   "premises": [
+    "A quarter-bow threefold is named.",
+    "Its half is named.",
+    "Height becomes that."
+   ],
+   "inference": "The height becomes half of the quarter-bow threefold measure.",
+   "uncertainties": [
+    "pādonatriguṇā is a fused compound."
+   ],
+   "plain_english": "The height becomes half of the quarter-bow threefold measure."
+  },
+  {
+   "verse": 3519,
+   "rows": [
+    {
+     "surface": "nandyāvartāvalambaḥ",
+     "gloss": "nandyāvarta-support",
+     "grounds": "compound nandyāvarta+avalamba",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "is",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt + root as"
+    },
+    {
+     "surface": "kumbhataḥ",
+     "gloss": "from-pot",
+     "grounds": "ablative singular",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "pādanirgatiḥ",
+     "gloss": "foot-exit",
+     "grounds": "compound pāda+nirgati",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What support and foot-exit are specified from the pot?",
+   "premises": [
+    "Nandyāvarta support is named.",
+    "It is from the pot.",
+    "Foot-exit is named."
+   ],
+   "inference": "The nandyāvarta support and foot-exit arise from the pot.",
+   "uncertainties": [
+    "kumbhataḥ may modify both nouns."
+   ],
+   "plain_english": "The nandyāvarta support and foot-exit are from the pot."
+  },
+  {
+   "verse": 3520,
+   "rows": [
+    {
+     "surface": "padmādīnāṃ",
+     "gloss": "lotus-etc-and",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "ca",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kampātī?",
+     "gloss": "moulding",
+     "grounds": "uncertain token with editorial question mark",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "nominative subject",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śobhābalānugam",
+     "gloss": "beauty-strength-following",
+     "grounds": "compound śobhā+bala+anugama",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What measure of lotus and moulding follows beauty and strength?",
+   "premises": [
+    "Lotus and etc are named.",
+    "A moulding is named.",
+    "Measure follows beauty and strength."
+   ],
+   "inference": "The measure of lotus and moulding follows beauty and strength.",
+   "uncertainties": [
+    "kampātī? is an uncertain editorial token."
+   ],
+   "plain_english": "The measure of lotus and moulding follows beauty and strength."
+  },
+  {
+   "verse": 3521,
+   "rows": [
+    {
+     "surface": "kumbhordhve",
+     "gloss": "above-pot",
+     "grounds": "fused sandhi form; kumbha+ūrdhve",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "stambhatārā*",
+     "gloss": "pillar-star",
+     "grounds": "uncertain token with editorial asterisk",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nakrapatrāvalī",
+     "gloss": "crocodile-leaf-row",
+     "grounds": "compound nakra+patra+āvalī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "is-done",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What pillar-star and crocodile-leaf row is done above the pot?",
+   "premises": [
+    "Above the pot is named.",
+    "Pillar-star is named.",
+    "Crocodile-leaf row is named."
+   ],
+   "inference": "Above the pot a pillar-star and crocodile-leaf row are made.",
+   "uncertainties": [
+    "stambhatārā* is an uncertain editorial token."
+   ],
+   "plain_english": "Above the pot, a pillar-star and crocodile-leaf row are made."
+  },
+  {
+   "verse": 3522,
+   "rows": [
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhāntaravyāsā?",
+     "gloss": "beauty-inner-diameter",
+     "grounds": "uncertain token with editorial question mark",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muktā",
+     "gloss": "pearl",
+     "grounds": "nominative subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaṅkhāntare",
+     "gloss": "in-conch-space",
+     "grounds": "fused sandhi form; śaṅkha+antare",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthitā",
+     "gloss": "situated",
+     "grounds": "participle",
+     "morph": "f.nom.sg perf.part + root sthā"
+    }
+   ],
+   "question": "How is a pearl situated in conch space by beauty and inner diameter?",
+   "premises": [
+    "A pearl is named.",
+    "It is situated in conch space.",
+    "Beauty and inner diameter are named."
+   ],
+   "inference": "The pearl's placement in conch space is compared by beauty and inner diameter.",
+   "uncertainties": [
+    "śobhāntaravyāsā? is an uncertain editorial token."
+   ],
+   "plain_english": "A pearl is situated in conch space, as by beauty and inner diameter."
+  },
+  {
+   "verse": 3523,
+   "rows": [
+    {
+     "surface": "tasyāstvalaṅkṛtiḥ",
+     "gloss": "its-indeed-ornament",
+     "grounds": "fused sandhi form; tasyāḥ+tu+alaṅkṛtiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prāpta?",
+     "gloss": "obtained",
+     "grounds": "uncertain token with editorial question mark",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vallīmaṇḍanamaṇḍitam",
+     "gloss": "creeper-decoration-adorned",
+     "grounds": "compound vallī+maṇḍana+maṇḍita",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What ornament of it is adorned with creeper decoration?",
+   "premises": [
+    "Its ornament is named.",
+    "Creeper decoration is named.",
+    "It is adorned."
+   ],
+   "inference": "The ornament is adorned with creeper decoration.",
+   "uncertainties": [
+    "prāpta? is an uncertain editorial token."
+   ],
+   "plain_english": "Its ornament is adorned with creeper decoration."
+  },
+  {
+   "verse": 3524,
+   "rows": [
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "niṣkrāntiveśī",
+     "gloss": "exit-dwelling",
+     "grounds": "compound niṣkrānti+veśī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathāśobhaṃ",
+     "gloss": "according-to-beauty",
+     "grounds": "compound yathā+śobha",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "should-perform",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt + root ācar"
+    }
+   ],
+   "question": "How should the exit-dwelling of these be performed according to beauty?",
+   "premises": [
+    "Exit-dwelling of these is named.",
+    "It should be performed.",
+    "It is according to beauty."
+   ],
+   "inference": "The exit-dwelling should be performed according to beauty.",
+   "uncertainties": [
+    "niṣkrāntiveśī may mean 'exit residence'."
+   ],
+   "plain_english": "But the exit-dwelling of these should be performed according to beauty."
+  }
+ ]
+}

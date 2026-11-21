@@ -1,0 +1,1235 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "prasādaṃ",
+     "gloss": "grace",
+     "grounds": "object requested",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "do",
+     "grounds": "imperative to sage",
+     "morph": "2.sg.act-imp root-kṛ"
+    },
+    {
+     "surface": "viprarṣe",
+     "gloss": "o-best-of-sages",
+     "grounds": "addressed sage",
+     "morph": "voc.sg.m"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "asmāsu",
+     "gloss": "toward-us",
+     "grounds": "recipient",
+     "morph": "loc.pl"
+    },
+    {
+     "surface": "dayā",
+     "gloss": "compassion",
+     "grounds": "quality requested",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessor",
+     "morph": "gen.sg"
+    }
+   ],
+   "question": "What grace is requested from the sage if compassion toward the speakers exists?",
+   "premises": [
+    "The speaker requests grace from the sage.",
+    "The request is conditional on compassion.",
+    "The compassion is directed toward the speakers."
+   ],
+   "inference": "The verse frames the teaching as dependent on the sage's compassionate grace.",
+   "uncertainties": [
+    "The exact ritual context is not stated."
+   ],
+   "plain_english": "O best of sages, if you have compassion toward us, grant your grace."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental relative",
+     "morph": "inst.sg.n"
+    },
+    {
+     "surface": "śravaṇa+mātreṇa",
+     "gloss": "hearing-mere",
+     "grounds": "fused sandhi form",
+     "morph": "inst.sg.n compound"
+    },
+    {
+     "surface": "hayamedha+phalaṃ",
+     "gloss": "horse-sacrifice+fruit",
+     "grounds": "fused sandhi form",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "one-may-obtain",
+     "grounds": "potential result",
+     "morph": "3.sg.act-opt root-labh"
+    }
+   ],
+   "question": "What fruit may one obtain merely by hearing this teaching?",
+   "premises": [
+    "Hearing alone is the instrument.",
+    "The fruit is compared to horse sacrifice.",
+    "The result is obtainable."
+   ],
+   "inference": "The verse elevates hearing the teaching to the value of a major sacrifice.",
+   "uncertainties": [
+    "The exact teaching referenced is not named."
+   ],
+   "plain_english": "By merely hearing it, one may obtain the fruit of a horse sacrifice."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "number of knowledges",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyāḥ",
+     "gloss": "knowledges",
+     "grounds": "plural subject",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "purā",
+     "gloss": "formerly",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "declared",
+     "grounds": "past participle",
+     "morph": "nom.pl.f pp root-vac"
+    },
+    {
+     "surface": "vajrayoginyādi",
+     "gloss": "vajrayoginī+and-others",
+     "grounds": "fused sandhi form",
+     "morph": "(indecl.) compound"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "goddesses",
+     "grounds": "plural subject",
+     "morph": "nom.pl.f"
+    }
+   ],
+   "question": "Which seven knowledges were formerly declared by goddesses such as Vajrayoginī?",
+   "premises": [
+    "Seven knowledges are named.",
+    "They were declared formerly.",
+    "Goddesses such as Vajrayoginī are involved."
+   ],
+   "inference": "The verse establishes a revealed lineage of seven goddess-knowledges.",
+   "uncertainties": [
+    "The seven knowledges are not enumerated here."
+   ],
+   "plain_english": "Seven knowledges were formerly declared by goddesses such as Vajrayoginī."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "dakṣiṇāmūrtinā",
+     "gloss": "by-dakṣiṇāmūrti",
+     "grounds": "agent",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "addressed goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "prakāśitāni",
+     "gloss": "revealed",
+     "grounds": "past participle",
+     "morph": "nom.pl.n pp root-prakāś"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvataḥ",
+     "gloss": "in-truth",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What did Dakṣiṇāmūrti reveal in truth to the goddess?",
+   "premises": [
+    "Dakṣiṇāmūrti is the agent.",
+    "The goddess is addressed.",
+    "The revelation is in truth."
+   ],
+   "inference": "The verse attributes a truthful revelation to Dakṣiṇāmūrti.",
+   "uncertainties": [
+    "The revealed content is not specified."
+   ],
+   "plain_english": "O goddess, these were revealed in truth by Dakṣiṇāmūrti."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "kulavāgīśvarī",
+     "gloss": "kulavāgīśvarī",
+     "grounds": "speaker or goddess named",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "plural subject",
+     "morph": "nom.pl.f"
+    },
+    {
+     "surface": "śrutā",
+     "gloss": "heard",
+     "grounds": "past participle",
+     "morph": "nom.pl.f pp root-śru"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "agent",
+     "morph": "inst.sg"
+    }
+   ],
+   "question": "Who heard these seven goddesses?",
+   "premises": [
+    "The seven goddesses are referenced.",
+    "They were heard.",
+    "The hearer is named."
+   ],
+   "inference": "The verse records personal reception of the seven goddesses.",
+   "uncertainties": [
+    "The identity of kulavāgīśvarī is not explained."
+   ],
+   "plain_english": "Indeed, these seven goddesses were heard by me, Kulavāgīśvarī."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "etāsāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "balam",
+     "gloss": "power",
+     "grounds": "object resorted to",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "āśritya",
+     "gloss": "having-resorted-to",
+     "grounds": "absolutive",
+     "morph": "abs root-āśri"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "tripurasundarī",
+     "gloss": "tripurasundarī",
+     "grounds": "named goddess",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "Which goddess resorts to the power of these goddesses?",
+   "premises": [
+    "The power belongs to these goddesses.",
+    "Resorting to it is stated.",
+    "Tripurasundarī is the subject."
+   ],
+   "inference": "The verse attributes Tripurasundarī's power to reliance on the seven goddesses.",
+   "uncertainties": [
+    "The exact power is not specified."
+   ],
+   "plain_english": "Having resorted to the power of these goddesses, the goddess Tripurasundarī."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "harate",
+     "gloss": "carries-away",
+     "grounds": "verb",
+     "morph": "3.sg.act root-hṛ"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśvaṃ",
+     "gloss": "universe",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "carācara+samanvitam",
+     "gloss": "moving+and-unmoving+endowed-with",
+     "grounds": "fused sandhi form",
+     "morph": "acc.sg.n compound"
+    }
+   ],
+   "question": "What does Tripurasundarī carry away, including moving and unmoving beings?",
+   "premises": [
+    "The action is carrying away.",
+    "The object is the universe.",
+    "Moving and unmoving beings are included."
+   ],
+   "inference": "The verse states universal dominion over all beings.",
+   "uncertainties": [
+    "The exact mechanism is not stated."
+   ],
+   "plain_english": "Thus she even carries away the universe, endowed with moving and unmoving beings."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "etāsāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "mantrāṇi",
+     "gloss": "mantras",
+     "grounds": "object",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-shall-speak",
+     "grounds": "future speech",
+     "morph": "1.sg.act-fut root-vac"
+    },
+    {
+     "surface": "śṛṇudhvaṃ",
+     "gloss": "listen",
+     "grounds": "imperative",
+     "morph": "2.pl.act-imp root-śru"
+    },
+    {
+     "surface": "muni+puṃgavāḥ",
+     "gloss": "o-best-of-sages",
+     "grounds": "fused sandhi form",
+     "morph": "voc.pl.m compound"
+    }
+   ],
+   "question": "What will be spoken for the sages to hear?",
+   "premises": [
+    "The mantras belong to these goddesses.",
+    "The speaker will speak them.",
+    "The sages are commanded to listen."
+   ],
+   "inference": "The verse introduces a mantra catalogue.",
+   "uncertainties": [
+    "The mantras are not given in this verse."
+   ],
+   "plain_english": "I shall speak the mantras of these; listen, O best of sages."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "madhye",
+     "gloss": "in-the-middle",
+     "grounds": "position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vajrayoginyai",
+     "gloss": "to-vajrayoginī",
+     "grounds": "dative recipient",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ante",
+     "gloss": "at-the-end",
+     "grounds": "position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nīra",
+     "gloss": "nīra",
+     "grounds": "term in mantra statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mudāhṛtam",
+     "gloss": "is-stated",
+     "grounds": "past participle",
+     "morph": "nom.sg.n pp root-āhṛ"
+    }
+   ],
+   "question": "Where is nīra stated in relation to Vajrayoginī?",
+   "premises": [
+    "Vajrayoginī is the recipient.",
+    "The position is in the middle.",
+    "The position is also at the end."
+   ],
+   "inference": "The verse gives a placement rule for a mantra element.",
+   "uncertainties": [
+    "The meaning of nīra is not explained."
+   ],
+   "plain_english": "Indeed, nīra is stated in the middle and at the end for Vajrayoginī."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "nirjitya",
+     "gloss": "having-conquered",
+     "grounds": "absolutive",
+     "morph": "abs root-nirji"
+    },
+    {
+     "surface": "ripūn",
+     "gloss": "enemies",
+     "grounds": "object",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "sarvān",
+     "gloss": "all",
+     "grounds": "quantifier",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "kalyāṇī",
+     "gloss": "auspicious-one",
+     "grounds": "subject or epithet",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "gṛham",
+     "gloss": "house",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "āviśet",
+     "gloss": "may-enter",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-viś"
+    }
+   ],
+   "question": "Who may enter the house after conquering all enemies?",
+   "premises": [
+    "All enemies are conquered.",
+    "The auspicious one is named.",
+    "Entering the house is the result."
+   ],
+   "inference": "The verse promises entry after complete victory.",
+   "uncertainties": [
+    "The relation between he and auspicious one is unclear."
+   ],
+   "plain_english": "Having conquered all enemies, the auspicious one may enter the house."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "divasān",
+     "gloss": "days",
+     "grounds": "duration",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "for-so-long",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act root-bhū"
+    },
+    {
+     "surface": "vāñchitā",
+     "gloss": "desired",
+     "grounds": "participle",
+     "morph": "nom.sg.f pp root-vāñch"
+    }
+   ],
+   "question": "When does the desired accomplishment become available?",
+   "premises": [
+    "The duration is twelve days.",
+    "Accomplishment becomes available.",
+    "The accomplishment is desired."
+   ],
+   "inference": "The verse sets a twelve-day period for desired accomplishment.",
+   "uncertainties": [
+    "The practice requiring twelve days is not named."
+   ],
+   "plain_english": "For twelve days, the desired accomplishment becomes available."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "ṛtu+snātāyā",
+     "gloss": "season+bathed",
+     "grounds": "fused sandhi form",
+     "morph": "gen.sg.f compound"
+    },
+    {
+     "surface": "bhāryāyā",
+     "gloss": "with-wife",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "maithunaṃ",
+     "gloss": "sexual-union",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "performs",
+     "grounds": "verb",
+     "morph": "3.sg.mid root-kṛ"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What does a man perform with a wife who has bathed after her season?",
+   "premises": [
+    "The wife has bathed after her season.",
+    "Sexual union is the action.",
+    "The man is the subject."
+   ],
+   "inference": "The verse prescribes a ritualized union after seasonal bathing.",
+   "uncertainties": [
+    "The ritual purpose is not stated."
+   ],
+   "plain_english": "A man performs sexual union with a wife who has bathed after her season."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "absolutive",
+     "morph": "abs root-likh"
+    },
+    {
+     "surface": "dhārayen",
+     "gloss": "one-should-wear",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-dhṛ"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "location",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "trailokya+vijayī",
+     "gloss": "three-worlds+conqueror",
+     "grounds": "fused sandhi form",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-bhū"
+    }
+   ],
+   "question": "What result follows from writing and wearing something on the head?",
+   "premises": [
+    "Writing and wearing are prescribed.",
+    "The location is the head.",
+    "One becomes conqueror of three worlds."
+   ],
+   "inference": "The verse promises world-conquest through a written and worn item.",
+   "uncertainties": [
+    "The written content is not specified."
+   ],
+   "plain_english": "Having written it and wearing it on the head, one becomes conqueror of the three worlds."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "aoddharauvaneśaryai",
+     "gloss": "aoddharauvaneśaryai",
+     "grounds": "term not glossed",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "arāṇi",
+     "gloss": "spokes",
+     "grounds": "object",
+     "morph": "acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is stated about spokes for Aoddharauvaneśaryai?",
+   "premises": [
+    "Aoddharauvaneśaryai is named.",
+    "Spokes are mentioned.",
+    "The conjunction adds another item."
+   ],
+   "inference": "The verse records a mantra or diagram element involving spokes.",
+   "uncertainties": [
+    "The term and its function are unclear."
+   ],
+   "plain_english": "And spokes for Aoddharauvaneśaryai."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "kāntāyā",
+     "gloss": "with-beloved",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "maithunaṃ",
+     "gloss": "sexual-union",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-kṛ"
+    },
+    {
+     "surface": "bahu+putra+yuto",
+     "gloss": "many+sons+endowed-with",
+     "grounds": "fused sandhi form",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "one-becomes",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-bhū"
+    }
+   ],
+   "question": "What result follows from performing sexual union with one's beloved?",
+   "premises": [
+    "Sexual union with the beloved is prescribed.",
+    "The result is becoming endowed with many sons.",
+    "The optative gives injunction."
+   ],
+   "inference": "The verse links prescribed union to progeny.",
+   "uncertainties": [
+    "The ritual context is not stated."
+   ],
+   "plain_english": "One should perform sexual union with the beloved; one becomes endowed with many sons."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "duration endpoint",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śatruḥ",
+     "gloss": "enemy",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "verb",
+     "morph": "3.sg.act root-jīv"
+    }
+   ],
+   "question": "How long does the enemy of such a person live?",
+   "premises": [
+    "The duration is as long as birth may be.",
+    "The enemy is the subject.",
+    "The enemy does not live."
+   ],
+   "inference": "The verse states the enemy's life is negated for the person's lifetime.",
+   "uncertainties": [
+    "The person referred to is not named."
+   ],
+   "plain_english": "As long as his birth may be, so long his enemy does not live."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "yāvat",
+     "gloss": "as-long-as",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "janma",
+     "gloss": "birth",
+     "grounds": "duration endpoint",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-bhū"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive",
+     "morph": "gen.sg.m"
+    },
+    {
+     "surface": "tāvat",
+     "gloss": "so-long",
+     "grounds": "duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lakṣmīḥ",
+     "gloss": "fortune",
+     "grounds": "subject",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future",
+     "morph": "3.sg.act-fut root-bhū"
+    }
+   ],
+   "question": "How long will fortune remain for such a person?",
+   "premises": [
+    "The duration is as long as birth may be.",
+    "Fortune is the subject.",
+    "Fortune will be present."
+   ],
+   "inference": "The verse promises enduring fortune for the person's lifetime.",
+   "uncertainties": [
+    "The person referred to is not named."
+   ],
+   "plain_english": "As long as his birth may be, so long fortune will be."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "anuvāde",
+     "gloss": "in-discourse",
+     "grounds": "location",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "śatrūṇāṃ",
+     "gloss": "of-enemies",
+     "grounds": "genitive",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "vākya+jñaḥ",
+     "gloss": "speech+knowing",
+     "grounds": "fused sandhi form",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "sahasā",
+     "gloss": "suddenly",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt root-bhū"
+    }
+   ],
+   "question": "What ability does one gain in discourse with enemies?",
+   "premises": [
+    "Discourse is the setting.",
+    "The person becomes knowing of speech.",
+    "The change is sudden."
+   ],
+   "inference": "The verse promises sudden mastery of enemy discourse.",
+   "uncertainties": [
+    "The cause of this change is not stated."
+   ],
+   "plain_english": "In discourse, he suddenly becomes knowing of the enemies' speech."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "subject",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "mahā+āścarya+kārakaṃ",
+     "gloss": "great+wonder+causing",
+     "grounds": "fused sandhi form",
+     "morph": "nom.sg.n compound"
+    },
+    {
+     "surface": "muni+puṃgavāḥ",
+     "gloss": "o-best-of-sages",
+     "grounds": "fused sandhi form",
+     "morph": "voc.pl.m compound"
+    }
+   ],
+   "question": "What is said about the fruit of this practice?",
+   "premises": [
+    "The fruit is this.",
+    "It causes great wonder.",
+    "The sages are addressed."
+   ],
+   "inference": "The verse characterizes the result as wondrous.",
+   "uncertainties": [
+    "The practice is not named in this verse."
+   ],
+   "plain_english": "This fruit, O best of sages, causes great wonder."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vāgbhava",
+     "grounds": "term",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sauṣmakaṃ",
+     "gloss": "sauṣmaka",
+     "grounds": "term",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pallavam",
+     "gloss": "sprout",
+     "grounds": "object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "one-should-extract",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-uddhṛ"
+    }
+   ],
+   "question": "What should one extract after vāgbhava and sauṣmaka?",
+   "premises": [
+    "Vāgbhava and sauṣmaka are named.",
+    "Then follows extraction.",
+    "The object is sprout."
+   ],
+   "inference": "The verse gives a sequence for extracting a sprout.",
+   "uncertainties": [
+    "The technical terms are not explained."
+   ],
+   "plain_english": "Then one should extract the sprout after vāgbhava and sauṣmaka."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "varāhamukhi",
+     "gloss": "varāhamukhī",
+     "grounds": "term",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāsanā",
+     "gloss": "vāsanā",
+     "grounds": "term",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṭhaṃ",
+     "gloss": "maṭha",
+     "grounds": "term",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What items are listed alongside Varāhamukhī?",
+   "premises": [
+    "Varāhamukhī is named.",
+    "Vāsanā is named.",
+    "Maṭha is named."
+   ],
+   "inference": "The verse lists related mantra or ritual items.",
+   "uncertainties": [
+    "The relation among items is not explained."
+   ],
+   "plain_english": "Varāhamukhī, and thus vāsanā, and likewise maṭha."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "bhagavatyāḥ",
+     "gloss": "of-the-goddess",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārāhyā",
+     "gloss": "of-vārāhī",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "ekatriṃśa+akṣaro",
+     "gloss": "thirty-one+syllabled",
+     "grounds": "fused sandhi form",
+     "morph": "nom.sg.m compound"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What mantra belongs to the goddess Vārāhī?",
+   "premises": [
+    "The goddess is named.",
+    "The mantra has thirty-one syllables.",
+    "The mantra is the subject."
+   ],
+   "inference": "The verse identifies a thirty-one-syllable mantra of Vārāhī.",
+   "uncertainties": [
+    "The mantra text is not given."
+   ],
+   "plain_english": "And the thirty-one-syllabled mantra of the goddess Vārāhī."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "glauṃ",
+     "gloss": "glauṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bīja+uddhāram",
+     "gloss": "seed+extraction",
+     "grounds": "fused sandhi form",
+     "morph": "acc.sg.n compound"
+    },
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anṛtam",
+     "gloss": "untruth",
+     "grounds": "predicate",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "āvadet",
+     "gloss": "one-should-say",
+     "grounds": "optative",
+     "morph": "3.sg.act-opt root-vad"
+    }
+   ],
+   "question": "What should one say about other seed extractions?",
+   "premises": [
+    "Glauṃ is the seed extraction.",
+    "This is true.",
+    "Other claims are untruth."
+   ],
+   "inference": "The verse asserts the authenticity of one extraction and falsity of others.",
+   "uncertainties": [
+    "The scope of other extractions is not defined."
+   ],
+   "plain_english": "Glauṃ is indeed the seed extraction; one should say other claims are untruth."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "laṃ",
+     "gloss": "laṃ",
+     "grounds": "bīja syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bīja+uddhārāṇi",
+     "gloss": "seed+extractions",
+     "grounds": "fused sandhi form",
+     "morph": "nom.pl.n compound"
+    },
+    {
+     "surface": "etāni",
+     "gloss": "these",
+     "grounds": "demonstrative",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "kṛtrimāṇi",
+     "gloss": "artificial",
+     "grounds": "adjective",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "aparāṇi",
+     "gloss": "others",
+     "grounds": "adjective",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are these seed extractions characterized?",
+   "premises": [
+    "Laṃ is named.",
+    "These seed extractions are artificial.",
+    "Other extractions are also mentioned."
+   ],
+   "inference": "The verse labels certain seed extractions as artificial.",
+   "uncertainties": [
+    "The contrast with authentic extraction is implied."
+   ],
+   "plain_english": "Laṃ; these seed extractions are artificial, and others too."
+  }
+ ]
+}

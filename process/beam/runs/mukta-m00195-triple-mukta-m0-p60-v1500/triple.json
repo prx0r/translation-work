@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1500,
+   "rows": [
+    {
+     "surface": "yuktaḥ",
+     "gloss": "endowed",
+     "grounds": "describes Vinayaka as possessing the stated qualities",
+     "morph": "m.nom.sg.ppp(yuj)"
+    },
+    {
+     "surface": "eka",
+     "gloss": "one",
+     "grounds": "first member of compound describing a single tusk",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "dantaḥ",
+     "gloss": "tusked",
+     "grounds": "second member of compound forming epithet of Vinayaka",
+     "morph": "compound-member,m.nom.sg"
+    },
+    {
+     "surface": "su",
+     "gloss": "good",
+     "grounds": "prefixal member of compound qualifying intelligence",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "medhayā",
+     "gloss": "intelligence",
+     "grounds": "final member of compound indicating possession of good intelligence",
+     "morph": "compound-member,f.inst.sg"
+    }
+   ],
+   "question": "Which qualities further characterize Vinayaka in this description?",
+   "premises": [
+    "Vinayaka is described as endowed.",
+    "Vinayaka is characterized as one-tusked.",
+    "Vinayaka is associated with good intelligence."
+   ],
+   "inference": "This verse attributes endowment, a single tusk, and good intelligence to Vinayaka.",
+   "uncertainties": [
+    "The exact syntactic scope of yuktaḥ with the following compounds is slightly ambiguous."
+   ],
+   "plain_english": "He is endowed, one-tusked, and possessed of good intelligence."
+  }
+ ]
+}

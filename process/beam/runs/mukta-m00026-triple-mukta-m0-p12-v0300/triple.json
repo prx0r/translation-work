@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "saptakoṭi",
+     "gloss": "seven-crore",
+     "grounds": "Numerical compound indicating a quantity of seventy million; qualifies the following mantra terms.",
+     "morph": "sapta-koṭi (compound)"
+    },
+    {
+     "surface": "mahāmantrā",
+     "gloss": "great-mantras",
+     "grounds": "Refers to primary or supreme mantras present in that context.",
+     "morph": "mahā-mantra (compound, m.nom.pl)"
+    },
+    {
+     "surface": "upamantrās",
+     "gloss": "subsidiary-mantras",
+     "grounds": "Refers to secondary or attendant mantras; final -s reflects sandhi.",
+     "morph": "upa-mantra (compound, m.nom.pl)"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "Affirms equivalence or inclusion in the same manner as previously stated.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "Conjunctive particle adding the subsidiary mantras to the enumeration.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What vast number of great and subsidiary mantras is present in that same sacred locus?",
+   "premises": [
+    "The context identifies a locus endowed with sacred marks and holy sites.",
+    "Seven crores of great mantras are said to be present there.",
+    "Subsidiary mantras are likewise included in that presence."
+   ],
+   "inference": "Therefore, that sacred locus contains an immense multitude of both great and subsidiary mantras.",
+   "uncertainties": [
+    "The exact syntactic relation to the preceding verses is implied by context rather than explicit in this verse alone."
+   ],
+   "plain_english": "There are seventy million great mantras, and likewise the subsidiary mantras as well."
+  }
+ ]
+}

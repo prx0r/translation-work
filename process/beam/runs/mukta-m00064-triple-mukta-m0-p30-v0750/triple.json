@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p30",
+ "items": [
+  {
+   "verse": 750,
+   "rows": [
+    {
+     "surface": "tatpīṭhopari",
+     "gloss": "upon-that-seat",
+     "grounds": "compound with internal sandhi: tat + pīṭha + upari; fused form kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃviśya",
+     "gloss": "having-seated",
+     "grounds": "absolutive indicating prior action of taking a seat",
+     "morph": "gerund sam-√viś"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "manner adverb specifying repetition or division into ten",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japenmanum",
+     "gloss": "should-recite-mantra",
+     "grounds": "sandhi fusion: japet + manum; optative verb with mantra as object",
+     "morph": "3.sg.opt.act √jap + m.acc.sg"
+    }
+   ],
+   "question": "What ritual posture and manner of mantra recitation are prescribed upon that sacred seat?",
+   "premises": [
+    "The practitioner is to be seated upon that seat.",
+    "The act of seating precedes the recitation.",
+    "The mantra is to be recited in a tenfold manner."
+   ],
+   "inference": "Therefore, having taken position upon that seat, the practitioner should recite the mantra tenfold.",
+   "uncertainties": [
+    "The exact referent of tatpīṭha depends on the preceding description of the seat."
+   ],
+   "plain_english": "Having seated oneself upon that seat, one should also recite the mantra tenfold."
+  }
+ ]
+}

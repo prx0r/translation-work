@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "pāpācāra",
+     "gloss": "sinful-conduct",
+     "grounds": "sinful conduct",
+     "morph": "compound = pāpa+ācāra"
+    },
+    {
+     "surface": "samāyuktaṃ",
+     "gloss": "endowed-with",
+     "grounds": "endowed with sinful conduct",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvaloka",
+     "gloss": "all-worlds",
+     "grounds": "all worlds",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bahiṣkṛtam",
+     "gloss": "excluded",
+     "grounds": "excluded from all worlds",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What happens to a person endowed with sinful conduct?",
+   "premises": [
+    "sinful conduct marks the person",
+    "all worlds reject such conduct",
+    "exclusion follows from that conduct"
+   ],
+   "inference": "A person endowed with sinful conduct is excluded from all worlds.",
+   "uncertainties": [
+    "exact syntactic relation to preceding verses is not fully explicit"
+   ],
+   "plain_english": "One endowed with sinful conduct is excluded from all worlds."
+  }
+ ]
+}

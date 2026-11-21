@@ -1,0 +1,557 @@
+{
+ "song": "mukta-m0-p166",
+ "items": [
+  {
+   "verse": 4126,
+   "rows": [
+    {
+     "surface": "iṣṭakāmyaphalaṃ",
+     "gloss": "desired-wished-fruit",
+     "grounds": "compound denoting the wished-for desired result",
+     "morph": "n.nom.sg, compound iṣṭa+kāmya+phala"
+    },
+    {
+     "surface": "kāmyaṃ",
+     "gloss": "to-be-desired",
+     "grounds": "qualifies the fruit as something to be sought",
+     "morph": "n.nom.sg, gerundive of √kam"
+    },
+    {
+     "surface": "śivarātryupavāsake",
+     "gloss": "in-shivaratri-fast",
+     "grounds": "locative context specifying the observance",
+     "morph": "m.loc.sg, compound śivarātri+upavāsaka"
+    }
+   ],
+   "question": "What desired fruit is obtained through fasting on Shivaratri?",
+   "premises": [
+    "A wished-for desired fruit is at stake",
+    "That fruit is described as to be desired",
+    "The context is the Shivaratri fast"
+   ],
+   "inference": "Fasting on Shivaratri yields the desired wished-for fruit.",
+   "uncertainties": [],
+   "plain_english": "The desired fruit that one wishes for is to be obtained through the fast on Shivaratri."
+  },
+  {
+   "verse": 4127,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "draws consequence from the previous statement",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "instrumental expressing total exertion",
+     "morph": "m.inst.sg, compound sarva+prayatna"
+    },
+    {
+     "surface": "upavāsamanidrakam",
+     "gloss": "fast-without-sleep",
+     "grounds": "specifies the observance as fasting accompanied by wakefulness",
+     "morph": "n.nom.sg, compound upavāsa+a+nidraka"
+    }
+   ],
+   "question": "What level of effort must accompany a sleepless Shivaratri fast?",
+   "premises": [
+    "A consequence follows from the promised fruit",
+    "All effort is to be applied",
+    "The observance is a fast without sleep"
+   ],
+   "inference": "One should undertake the sleepless fast with all effort.",
+   "uncertainties": [],
+   "plain_english": "Therefore, one should observe the fast without sleep with all effort."
+  },
+  {
+   "verse": 4128,
+   "rows": [
+    {
+     "surface": "brāhmaṇairmunibhissārdhaṃ",
+     "gloss": "with-brahmins-with-sages-together",
+     "grounds": "instrumental plurals joined with sārdham indicating accompaniment; internal sandhi brāhmaṇaiḥ+munibhiḥ+sārdham",
+     "morph": "m.inst.pl + m.inst.pl + (indecl.), compound/fused brāhmaṇa+muni+sārdham"
+    },
+    {
+     "surface": "deśikassaṃprapūjayet",
+     "gloss": "teacher-one-should-worship",
+     "grounds": "object and optative verb fused in the given form; internal sandhi deśikam+saṃprapūjayet",
+     "morph": "m.acc.sg + 3.sg.opt.act √pūj with sam-pra, fused form"
+    }
+   ],
+   "question": "Who should worship the teacher together with brahmins and sages?",
+   "premises": [
+    "Brahmins and sages are present as companions",
+    "The teacher is the object of worship",
+    "The action is prescribed as an obligation"
+   ],
+   "inference": "One should worship the teacher together with brahmins and sages.",
+   "uncertainties": [],
+   "plain_english": "Together with brahmins and sages, one should duly worship the teacher."
+  },
+  {
+   "verse": 4129,
+   "rows": [
+    {
+     "surface": "śālibhiḥ",
+     "gloss": "with-rice-grains",
+     "grounds": "instrumental indicating material used",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar",
+     "grounds": "object to be prepared",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive indicating prior action",
+     "morph": "(indecl.), absolutive of √kṛ"
+    },
+    {
+     "surface": "puṇyāhaṃ",
+     "gloss": "auspicious-declaration",
+     "grounds": "ritual benediction to be recited",
+     "morph": "n.acc.sg, compound puṇya+aha"
+    },
+    {
+     "surface": "vācayettataḥ",
+     "gloss": "should-cause-recite-then",
+     "grounds": "causative optative with following temporal particle; internal sandhi vācayet+tataḥ",
+     "morph": "3.sg.opt.caus.act √vac + (indecl.), fused form"
+    }
+   ],
+   "question": "What preparatory ritual actions precede the recitation of the auspicious declaration?",
+   "premises": [
+    "An altar is made with rice grains",
+    "The making of the altar is completed first",
+    "An auspicious declaration is then to be recited"
+   ],
+   "inference": "After making an altar with rice grains, one should have the auspicious declaration recited.",
+   "uncertainties": [],
+   "plain_english": "Having made an altar with rice grains, one should then have the auspicious declaration recited."
+  },
+  {
+   "verse": 4130,
+   "rows": [
+    {
+     "surface": "tṛtīye",
+     "gloss": "on-third",
+     "grounds": "locative indicating the third occasion or watch",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "snānamāpyaṃ",
+     "gloss": "bath-water",
+     "grounds": "specifies the bathing substance; internal sandhi snānam+āpyam",
+     "morph": "n.nom.sg + n.nom.sg, fused form"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ikṣusāraṃ",
+     "gloss": "sugarcane-juice",
+     "grounds": "identifies the bathing substance",
+     "morph": "n.nom.sg, compound ikṣu+sāra"
+    },
+    {
+     "surface": "caturthake",
+     "gloss": "on-fourth",
+     "grounds": "locative indicating the fourth occasion or watch",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "What bathing substance is prescribed for the third and fourth occasions?",
+   "premises": [
+    "The third occasion is specified",
+    "The bathing substance is identified as sugarcane juice",
+    "The fourth occasion is also specified"
+   ],
+   "inference": "On the third and fourth occasions, the bath is to be with sugarcane juice.",
+   "uncertainties": [
+    "The exact distribution between third and fourth occasions is compressed in the verse."
+   ],
+   "plain_english": "On the third and on the fourth, the bath is indeed to be with sugarcane juice."
+  },
+  {
+   "verse": 4131,
+   "rows": [
+    {
+     "surface": "pūrve",
+     "gloss": "before",
+     "grounds": "locative indicating the earlier occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle marking specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bathing act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "states what has been prescribed",
+     "morph": "n.nom.sg, past participle of pra-√vac"
+    },
+    {
+     "surface": "aṣṭottaraśataṃ",
+     "gloss": "one-hundred-eight",
+     "grounds": "specifies the number of bathings",
+     "morph": "n.nom.sg, compound aṣṭa+uttara+śata"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative prescribing the count",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "How many ritual bathings are prescribed for the earlier occasion?",
+   "premises": [
+    "The earlier occasion is specified",
+    "Ritual bathing is the prescribed act",
+    "The declared number is one hundred and eight"
+   ],
+   "inference": "On the earlier occasion, one hundred and eight bathings should be performed.",
+   "uncertainties": [],
+   "plain_english": "On the earlier occasion, the bathing is declared to be one hundred and eight times."
+  },
+  {
+   "verse": 4132,
+   "rows": [
+    {
+     "surface": "tṛtīye",
+     "gloss": "on-third",
+     "grounds": "locative indicating the third occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bathing act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "emphatic conjunction; internal sandhi ca+eva",
+     "morph": "(indecl.) + (indecl.), fused form"
+    },
+    {
+     "surface": "paṃcaviṃśati",
+     "gloss": "twenty-five",
+     "grounds": "specifies the number",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saṃkhyayā",
+     "gloss": "by-number",
+     "grounds": "instrumental indicating count",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "How many ritual bathings are prescribed for the third occasion?",
+   "premises": [
+    "The third occasion is specified",
+    "Ritual bathing is prescribed",
+    "The count is twenty-five by number"
+   ],
+   "inference": "On the third occasion, twenty-five bathings should be performed.",
+   "uncertainties": [],
+   "plain_english": "And on the third occasion, the bathing should be twenty-five in number."
+  },
+  {
+   "verse": 4133,
+   "rows": [
+    {
+     "surface": "yāmaṃ",
+     "gloss": "watch",
+     "grounds": "time unit for the ritual cycle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prati",
+     "gloss": "for-each",
+     "grounds": "postposition indicating distribution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "specially",
+     "grounds": "adverbial instrumental emphasizing care",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "snapanaṃ",
+     "gloss": "bathing",
+     "grounds": "ritual bathing act",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayedbudhaḥ",
+     "gloss": "wise-one-should-cause-perform",
+     "grounds": "causative optative with agent; internal sandhi kārayet+budhaḥ",
+     "morph": "3.sg.opt.caus.act √kṛ + m.nom.sg, fused form"
+    }
+   ],
+   "question": "How should the wise person arrange ritual bathing for each watch?",
+   "premises": [
+    "Each watch is a distinct interval",
+    "Ritual bathing is to be performed",
+    "The wise person should act with special care"
+   ],
+   "inference": "The wise person should specially have bathing performed for each watch.",
+   "uncertainties": [],
+   "plain_english": "The wise person should specially have the bathing performed for each watch."
+  },
+  {
+   "verse": 4134,
+   "rows": [
+    {
+     "surface": "dvitīye",
+     "gloss": "on-second",
+     "grounds": "locative indicating the second occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "padmapuṣpaiśca",
+     "gloss": "with-lotus-flowers-and",
+     "grounds": "instrumental specifying offering material; internal sandhi puṣpaiḥ+ca",
+     "morph": "n.inst.pl + (indecl.), compound padma+puṣpa, fused form"
+    },
+    {
+     "surface": "tṛtīye",
+     "gloss": "on-third",
+     "grounds": "locative indicating the third occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jātipuṣpakaiḥ",
+     "gloss": "with-jasmine-flowers",
+     "grounds": "instrumental specifying offering material",
+     "morph": "n.inst.pl, compound jāti+puṣpaka"
+    }
+   ],
+   "question": "Which flowers are prescribed for worship on the second and third occasions?",
+   "premises": [
+    "The second occasion is specified",
+    "Lotus flowers are prescribed for that occasion",
+    "Jasmine flowers are prescribed for the third occasion"
+   ],
+   "inference": "Lotus flowers are used on the second occasion and jasmine flowers on the third.",
+   "uncertainties": [],
+   "plain_english": "On the second occasion one should use lotus flowers, and on the third jasmine flowers."
+  },
+  {
+   "verse": 4135,
+   "rows": [
+    {
+     "surface": "catussaṃdhyārcanaṃ",
+     "gloss": "four-juncture-worship",
+     "grounds": "ritual worship performed at four junctures; internal sandhi catuḥ+saṃdhyā+arcanam",
+     "morph": "n.acc.sg, compound catur+saṃdhyā+arcana"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing the action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "bilvapatraissamanvitam",
+     "gloss": "with-bilva-leaves-endowed",
+     "grounds": "specifies accompaniment of bilva leaves; internal sandhi patraiḥ+samanvitam",
+     "morph": "n.acc.sg, compound bilva+patra + past participle samanvita, fused form"
+    }
+   ],
+   "question": "What form of worship must be performed with bilva leaves at four junctures?",
+   "premises": [
+    "Worship at four junctures is prescribed",
+    "The worship must be performed",
+    "Bilva leaves must accompany the worship"
+   ],
+   "inference": "One should perform worship at the four junctures together with bilva leaves.",
+   "uncertainties": [],
+   "plain_english": "One should perform the worship at the four junctures together with bilva leaves."
+  },
+  {
+   "verse": 4136,
+   "rows": [
+    {
+     "surface": "tṛtīye",
+     "gloss": "on-third",
+     "grounds": "locative indicating the third occasion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛsarānnaṃ",
+     "gloss": "rice-sesame-food",
+     "grounds": "specifies the food offering",
+     "morph": "n.nom.sg, compound kṛsara+anna"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative prescribing the offering",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "śuddhānnaṃ",
+     "gloss": "pure-rice-food",
+     "grounds": "specifies the food offering",
+     "morph": "n.nom.sg, compound śuddha+anna"
+    },
+    {
+     "surface": "syāccaturthake",
+     "gloss": "should-be-on-fourth",
+     "grounds": "optative with locative for the fourth occasion; internal sandhi syāt+caturthake",
+     "morph": "3.sg.opt.act √as + m.loc.sg, fused form"
+    }
+   ],
+   "question": "What food offerings are prescribed for the third and fourth occasions?",
+   "premises": [
+    "The third occasion is specified",
+    "Rice mixed with sesame is prescribed for the third",
+    "Pure rice is prescribed for the fourth"
+   ],
+   "inference": "On the third occasion the offering should be rice with sesame, and on the fourth pure rice.",
+   "uncertainties": [],
+   "plain_english": "On the third occasion the food offering should be rice with sesame, and on the fourth it should be pure rice."
+  },
+  {
+   "verse": 4137,
+   "rows": [
+    {
+     "surface": "yāmaṃ",
+     "gloss": "watch",
+     "grounds": "time unit for the ritual cycle",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prativiśeṣeṇa",
+     "gloss": "for-each-specially",
+     "grounds": "distributive expression with emphasis; internal sandhi prati+viśeṣeṇa",
+     "morph": "(indecl.) + m.inst.sg, fused form"
+    },
+    {
+     "surface": "balihomaṃ",
+     "gloss": "offering-fire-oblation",
+     "grounds": "ritual acts of bali and homa combined",
+     "morph": "m.acc.sg, compound bali+homa"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative prescribing the ritual action",
+     "morph": "3.sg.opt.act sam-ā-√car"
+    }
+   ],
+   "question": "How often must bali and fire oblation be performed during the ritual watches?",
+   "premises": [
+    "Each watch is a distinct interval",
+    "Bali and fire oblation are prescribed acts",
+    "The acts must be performed with special care"
+   ],
+   "inference": "One should perform bali and fire oblation specially for each watch.",
+   "uncertainties": [],
+   "plain_english": "For each watch, one should specially perform the bali offering and the fire oblation."
+  },
+  {
+   "verse": 4138,
+   "rows": [
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indicates continual practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namāmi",
+     "gloss": "i-bow",
+     "grounds": "first-person declaration of reverence",
+     "morph": "1.sg.pres.act √nam"
+    },
+    {
+     "surface": "manasā",
+     "gloss": "with-mind",
+     "grounds": "instrumental indicating mental devotion",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mahanīyakīrtitam",
+     "gloss": "to-praised-great-fame",
+     "grounds": "object of reverence described as greatly renowned; internal sandhi mahanīya+kīrtitam",
+     "morph": "m.acc.sg, compound mahanīya+kīrtita"
+    }
+   ],
+   "question": "How should one continually honor the one of great renown?",
+   "premises": [
+    "The practice is to be continual",
+    "Reverence is expressed as bowing",
+    "The bowing is performed mentally to the greatly renowned one"
+   ],
+   "inference": "One should always bow mentally to the one of great renown.",
+   "uncertainties": [],
+   "plain_english": "I always bow with my mind to the one of great and praiseworthy fame."
+  },
+  {
+   "verse": 4139,
+   "rows": [
+    {
+     "surface": "tatsarvam",
+     "gloss": "all-that",
+     "grounds": "refers to everything previously mentioned; internal sandhi tat+sarvam",
+     "morph": "n.acc.sg, compound tad+sarva"
+    },
+    {
+     "surface": "amba",
+     "gloss": "mother",
+     "grounds": "vocative addressing the divine mother",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "possessive pronoun",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "rūpam",
+     "gloss": "form",
+     "grounds": "identifies all as the divine form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anusmarāmi",
+     "gloss": "i-remember",
+     "grounds": "first-person declaration of recollection",
+     "morph": "1.sg.pres.act anu-√smṛ"
+    }
+   ],
+   "question": "How is all that has been described understood in relation to the Mother's form?",
+   "premises": [
+    "All that has been described is taken together",
+    "The Mother is directly addressed",
+    "All is recollected as her form"
+   ],
+   "inference": "All that is recollected as the form of the Mother.",
+   "uncertainties": [],
+   "plain_english": "O Mother, I remember all that as your form."
+  }
+ ]
+}

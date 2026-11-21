@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p153",
+ "items": [
+  {
+   "verse": 3825,
+   "rows": [
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yuvāno",
+     "gloss": "youths",
+     "grounds": "nominative plural masculine form",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "matsathā",
+     "gloss": "you-rejoice",
+     "grounds": "second person plural active present of root mad",
+     "morph": "2.pl.act-pres root mad"
+    },
+    {
+     "surface": "no",
+     "gloss": "for-us",
+     "grounds": "first person plural pronoun in genitive or accusative sense",
+     "morph": "pron.1pl.gen"
+    },
+    {
+     "surface": "viśvañ",
+     "gloss": "all",
+     "grounds": "accusative singular masculine form with sandhi",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "jagad",
+     "gloss": "world",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "abhipittve",
+     "gloss": "at-approach",
+     "grounds": "locative singular form indicating approach",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "manīṣā",
+     "gloss": "with-thought",
+     "grounds": "instrumental singular feminine noun",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "How does the verse connect youthful rejoicing with the world's approach through thought?",
+   "premises": [
+    "youths rejoice for us",
+    "all world approaches",
+    "thought accompanies approach"
+   ],
+   "inference": "rejoicing and thought frame the world's approach",
+   "uncertainties": [
+    "sandhi and Vedic forms remain uncertain"
+   ],
+   "plain_english": "Also, as youths rejoice for us, all the world approaches with thought."
+  }
+ ]
+}

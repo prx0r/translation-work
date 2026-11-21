@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p16",
+ "items": [
+  {
+   "verse": 400,
+   "rows": [
+    {
+     "surface": "etattu",
+     "gloss": "this-indeed",
+     "grounds": "demonstrative pronoun plus emphatic particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgbhavaṃ",
+     "gloss": "vagbhava-kuta",
+     "grounds": "mantra division named vagbhava",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kūṭaṃ",
+     "gloss": "mantra-division",
+     "grounds": "kūṭa as mantra division",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvapakṣeṣu",
+     "gloss": "in-all-parties",
+     "grounds": "locative plural of sarvapakṣa",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "śobhanam",
+     "gloss": "auspicious",
+     "grounds": "auspicious adjective in predicate position",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is the vagbhava kuta praised as auspicious across all parties?",
+   "premises": [
+    "this indeed is the vagbhava kuta",
+    "it is auspicious in all parties",
+    "the kuta is a mantra division"
+   ],
+   "inference": "The verse presents the vagbhava kuta as universally auspicious among all parties.",
+   "uncertainties": [
+    "exact syntactic role of śobhanam is not fully fixed by the supplied context"
+   ],
+   "plain_english": "This indeed is the vagbhava kuta, auspicious in all parties."
+  }
+ ]
+}

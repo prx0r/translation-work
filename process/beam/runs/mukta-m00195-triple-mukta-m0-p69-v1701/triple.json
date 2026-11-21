@@ -1,0 +1,953 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1701,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative referring to the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing identification",
+     "morph": "3.sg.optative-pres as"
+    },
+    {
+     "surface": "yasyā",
+     "gloss": "of-which",
+     "grounds": "relative referring to the stone",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ūrdhvaṃ",
+     "gloss": "upward",
+     "grounds": "direction of the face",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mukhaṃ",
+     "gloss": "face",
+     "grounds": "opening or mouth of the stone",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing condition",
+     "morph": "3.sg.optative-pres bhū"
+    }
+   ],
+   "question": "What facial orientation qualifies a stone for this specific identification?",
+   "premises": [
+    "A particular stone is being identified",
+    "Its face is oriented upward",
+    "This orientation determines its classification"
+   ],
+   "inference": "The stone whose face is upward is to be recognized as that specific form.",
+   "uncertainties": [],
+   "plain_english": "That stone should be recognized as such whose face is turned upward."
+  },
+  {
+   "verse": 1702,
+   "rows": [
+    {
+     "surface": "vijñeyaḥ",
+     "gloss": "should-be-known",
+     "grounds": "prescribes recognition",
+     "morph": "m.nom.sg.gerundive vi-jñā"
+    },
+    {
+     "surface": "padma+cakra+anvitaḥ",
+     "gloss": "lotus-disc-endowed",
+     "grounds": "compound describing markings",
+     "morph": "compound: padma+cakra+anvita (m.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative referring to the stone",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What distinguishing marks establish the identity of this stone type?",
+   "premises": [
+    "A stone is subject to identification",
+    "It is endowed with lotus and disc marks",
+    "Such marks define its recognition"
+   ],
+   "inference": "The stone endowed with lotus and disc marks should indeed be known as that type.",
+   "uncertainties": [],
+   "plain_english": "That one which is endowed with lotus and disc marks should indeed be recognized."
+  },
+  {
+   "verse": 1703,
+   "rows": [
+    {
+     "surface": "kṛṣṇa+varṇaḥ",
+     "gloss": "black-colored",
+     "grounds": "compound describing color",
+     "morph": "compound: kṛṣṇa+varṇa (m.nom.sg)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative expressing identification",
+     "morph": "3.sg.optative-pres as"
+    },
+    {
+     "surface": "sthūla+cakre",
+     "gloss": "in-thick-disc",
+     "grounds": "compound indicating location or feature",
+     "morph": "compound: sthūla+cakra (n.loc.sg)"
+    },
+    {
+     "surface": "śubha+ānane",
+     "gloss": "auspicious-faced",
+     "grounds": "compound describing the face",
+     "morph": "compound: śubha+ānana (n.loc.sg)"
+    }
+   ],
+   "question": "What color and disc features characterize this auspicious-faced stone?",
+   "premises": [
+    "A stone is being described",
+    "It is black in color",
+    "It has a thick disc and an auspicious face"
+   ],
+   "inference": "The stone with a thick disc and auspicious face should be recognized as black-colored.",
+   "uncertainties": [
+    "The exact syntactic relation of the locative compounds is context-dependent"
+   ],
+   "plain_english": "It should be black-colored, with a thick disc and an auspicious face."
+  },
+  {
+   "verse": 1704,
+   "rows": [
+    {
+     "surface": "kapilaḥ",
+     "gloss": "tawny",
+     "grounds": "color of the stone",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pṛthak+vaktraḥ",
+     "gloss": "separate-faced",
+     "grounds": "compound describing the face",
+     "morph": "compound: pṛthak+vaktra (m.nom.sg)"
+    },
+    {
+     "surface": "bṛhat+mukhaḥ",
+     "gloss": "large-mouthed",
+     "grounds": "compound describing the mouth",
+     "morph": "compound: bṛhat+mukha (m.nom.sg)"
+    }
+   ],
+   "question": "What color and facial characteristics define this particular stone form?",
+   "premises": [
+    "A stone form is being specified",
+    "It is tawny in color",
+    "It has a separate face and a large mouth"
+   ],
+   "inference": "This form is identified as tawny, separate-faced, and large-mouthed.",
+   "uncertainties": [],
+   "plain_english": "It is tawny, with a distinct face and a large mouth."
+  },
+  {
+   "verse": 1705,
+   "rows": [
+    {
+     "surface": "nara+siṃhaḥ",
+     "gloss": "man-lion",
+     "grounds": "name of the form",
+     "morph": "compound: nara+siṃha (m.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍa+lākṣā+nibhaḥ",
+     "gloss": "jaggery-lac-resembling",
+     "grounds": "compound describing color",
+     "morph": "compound: guḍa+lākṣā+nibha (m.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing identification",
+     "morph": "3.sg.optative-pres bhū"
+    }
+   ],
+   "question": "What color resemblance identifies the Narasimha stone form?",
+   "premises": [
+    "The Narasimha form is being described",
+    "Its color resembles jaggery and lac",
+    "This resemblance aids identification"
+   ],
+   "inference": "The Narasimha stone should indeed be recognized by its jaggery-and-lac-like color.",
+   "uncertainties": [],
+   "plain_english": "The Narasimha form should indeed be of a color resembling jaggery and lac."
+  },
+  {
+   "verse": 1706,
+   "rows": [
+    {
+     "surface": "vijñeyaḥ",
+     "gloss": "should-be-known",
+     "grounds": "prescribes recognition",
+     "morph": "m.nom.sg.gerundive vi-jñā"
+    },
+    {
+     "surface": "pūrva+uktaiḥ",
+     "gloss": "previously-stated",
+     "grounds": "compound referring to earlier marks",
+     "morph": "compound: pūrva+ukta (n.inst.pl)"
+    },
+    {
+     "surface": "lakṣaṇaiḥ",
+     "gloss": "with-marks",
+     "grounds": "characteristics for identification",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "yutaḥ",
+     "gloss": "endowed",
+     "grounds": "possessing the marks",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which previously stated marks must accompany this stone for recognition?",
+   "premises": [
+    "A stone is to be recognized",
+    "Certain marks were stated previously",
+    "The stone must be endowed with those marks"
+   ],
+   "inference": "It should be known as endowed with the previously stated marks.",
+   "uncertainties": [],
+   "plain_english": "It should be recognized as endowed with the marks stated previously."
+  },
+  {
+   "verse": 1707,
+   "rows": [
+    {
+     "surface": "lakṣmī+nṛsiṃhaḥ",
+     "gloss": "Lakshmi-Narasimha",
+     "grounds": "name of the form",
+     "morph": "compound: lakṣmī+nṛsiṃha (m.nom.sg)"
+    },
+    {
+     "surface": "vijñeyaḥ",
+     "gloss": "should-be-known",
+     "grounds": "prescribes recognition",
+     "morph": "m.nom.sg.gerundive vi-jñā"
+    },
+    {
+     "surface": "catuḥ+cakraḥ",
+     "gloss": "four-disced",
+     "grounds": "compound describing number of discs",
+     "morph": "compound: catur+cakra (m.nom.sg)"
+    },
+    {
+     "surface": "sa+bindukaḥ",
+     "gloss": "with-dot",
+     "grounds": "compound indicating presence of a dot",
+     "morph": "compound: sa+binduka (m.nom.sg)"
+    }
+   ],
+   "question": "What disc count and dot mark identify the Lakshmi-Narasimha stone?",
+   "premises": [
+    "The Lakshmi-Narasimha form is being identified",
+    "It has four discs",
+    "It is marked with a dot"
+   ],
+   "inference": "The Lakshmi-Narasimha stone should be known as four-disced and bearing a dot.",
+   "uncertainties": [],
+   "plain_english": "The Lakshmi-Narasimha should be recognized as having four discs and a dot."
+  },
+  {
+   "verse": 1708,
+   "rows": [
+    {
+     "surface": "śakti+liṅga+cakre",
+     "gloss": "power-mark-discs",
+     "grounds": "compound describing types of discs",
+     "morph": "compound: śakti+liṅga+cakra (n.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "viṣame",
+     "gloss": "uneven",
+     "grounds": "describing arrangement or form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What disc types and arrangement further characterize this stone form?",
+   "premises": [
+    "Additional features are being specified",
+    "The stone has power, mark, and disc features",
+    "These features are unevenly arranged"
+   ],
+   "inference": "This form is likewise characterized by uneven power, mark, and disc features.",
+   "uncertainties": [
+    "The precise referent and syntactic completion depend on surrounding verses"
+   ],
+   "plain_english": "Likewise, in the case of uneven power, mark, and disc features."
+  },
+  {
+   "verse": 1709,
+   "rows": [
+    {
+     "surface": "varāha+nāmnī",
+     "gloss": "Varaha-named",
+     "grounds": "compound giving the name",
+     "morph": "compound: varāha+nāman (f.nom.sg)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative referring to the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative referring to the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "varāha+ākṛtiḥ",
+     "gloss": "boar-formed",
+     "grounds": "compound describing shape",
+     "morph": "compound: varāha+ākṛti (f.nom.sg)"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "the object being identified",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What shape and name identify the Varaha stone form?",
+   "premises": [
+    "A stone is being identified",
+    "It has the form of a boar",
+    "It bears the name Varaha"
+   ],
+   "inference": "The stone that is boar-shaped is known by the name Varaha.",
+   "uncertainties": [],
+   "plain_english": "That stone which has the form of a boar is named Varaha."
+  },
+  {
+   "verse": 1710,
+   "rows": [
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "the object being identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "should-be-known",
+     "grounds": "prescribes recognition",
+     "morph": "f.nom.sg.gerundive jñā"
+    },
+    {
+     "surface": "bindu+traya+vibhūṣitā",
+     "gloss": "three-dots-adorned",
+     "grounds": "compound describing markings",
+     "morph": "compound: bindu+traya+vibhūṣita (f.nom.sg)"
+    }
+   ],
+   "question": "What dot markings distinguish the Varaha stone for recognition?",
+   "premises": [
+    "The Varaha stone is being further described",
+    "It is adorned with three dots",
+    "These dots serve as identifying marks"
+   ],
+   "inference": "That stone should be known as adorned with three dots.",
+   "uncertainties": [],
+   "plain_english": "That stone should be known as adorned with three dots."
+  },
+  {
+   "verse": 1711,
+   "rows": [
+    {
+     "surface": "kūrma+ākhyā",
+     "gloss": "tortoise-named",
+     "grounds": "compound giving the name",
+     "morph": "compound: kūrma+ākhyā (f.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "the object being identified",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pṛṣṭhe",
+     "gloss": "on-back",
+     "grounds": "location on the stone",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vartulā",
+     "gloss": "round",
+     "grounds": "shape of the back",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca+unnatā",
+     "gloss": "and-elevated",
+     "grounds": "compound indicating raised form",
+     "morph": "compound: ca+unnata (f.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing characteristic",
+     "morph": "3.sg.optative-pres bhū"
+    }
+   ],
+   "question": "What back shape characterizes the stone named after the tortoise?",
+   "premises": [
+    "A stone named Kurma is being described",
+    "Its back is round",
+    "Its back is elevated"
+   ],
+   "inference": "The tortoise-named stone should be round and elevated on its back.",
+   "uncertainties": [],
+   "plain_english": "The stone called Kurma should indeed be round and elevated on its back."
+  },
+  {
+   "verse": 1712,
+   "rows": [
+    {
+     "surface": "vijñeyā",
+     "gloss": "should-be-known",
+     "grounds": "prescribes recognition",
+     "morph": "f.nom.sg.gerundive vi-jñā"
+    },
+    {
+     "surface": "kūrma+ākārā",
+     "gloss": "tortoise-shaped",
+     "grounds": "compound describing shape",
+     "morph": "compound: kūrma+ākāra (f.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative referring to the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing characteristic",
+     "morph": "3.sg.optative-pres bhū"
+    }
+   ],
+   "question": "What overall shape confirms the identity of the tortoise stone?",
+   "premises": [
+    "A stone is being identified",
+    "It has the shape of a tortoise",
+    "This shape determines its recognition"
+   ],
+   "inference": "The stone that is tortoise-shaped should indeed be recognized as such.",
+   "uncertainties": [],
+   "plain_english": "That which is tortoise-shaped should indeed be recognized as such."
+  },
+  {
+   "verse": 1713,
+   "rows": [
+    {
+     "surface": "hayagrīvaḥ",
+     "gloss": "Hayagriva",
+     "grounds": "name of the form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṅkuśa+ākārā",
+     "gloss": "goad-shaped",
+     "grounds": "compound describing the line",
+     "morph": "compound: aṅkuśa+ākāra (f.nom.sg)"
+    },
+    {
+     "surface": "rekhā",
+     "gloss": "line",
+     "grounds": "marking on the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "cakra+samīpa+gā",
+     "gloss": "disc-near-going",
+     "grounds": "compound indicating position near the disc",
+     "morph": "compound: cakra+samīpa+ga (f.nom.sg)"
+    }
+   ],
+   "question": "What line shape and position identify the Hayagriva stone form?",
+   "premises": [
+    "The Hayagriva form is being described",
+    "It has a goad-shaped line",
+    "The line is located near the disc"
+   ],
+   "inference": "The Hayagriva stone is identified by a goad-shaped line near the disc.",
+   "uncertainties": [],
+   "plain_english": "The Hayagriva has a goad-shaped line situated near the disc."
+  },
+  {
+   "verse": 1714,
+   "rows": [
+    {
+     "surface": "hayagrīvaḥ",
+     "gloss": "Hayagriva",
+     "grounds": "name of the form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "haya+grīva+samā",
+     "gloss": "horse-neck-resembling",
+     "grounds": "compound describing resemblance",
+     "morph": "compound: haya+grīva+sama (f.nom.sg)"
+    },
+    {
+     "surface": "śilā",
+     "gloss": "stone",
+     "grounds": "the object being identified",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What resemblance to a horse's neck defines the Hayagriva stone?",
+   "premises": [
+    "The Hayagriva stone is being identified",
+    "It resembles a horse's neck",
+    "This resemblance is a defining feature"
+   ],
+   "inference": "The Hayagriva stone is that which resembles a horse's neck.",
+   "uncertainties": [],
+   "plain_english": "The Hayagriva is the stone that resembles a horse's neck."
+  },
+  {
+   "verse": 1715,
+   "rows": [
+    {
+     "surface": "dīrghayā",
+     "gloss": "with-long",
+     "grounds": "describing the line",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "rekhayā",
+     "gloss": "with-line",
+     "grounds": "marking on the stone",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "yuktā",
+     "gloss": "endowed",
+     "grounds": "possessing the line",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rekhā",
+     "gloss": "line",
+     "grounds": "marking on the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tādṛśī",
+     "gloss": "such",
+     "grounds": "of that kind",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.optative-pres bhū"
+    }
+   ],
+   "question": "What alternative line characteristics may identify this stone form?",
+   "premises": [
+    "A stone may be endowed with a long line",
+    "Alternatively a similar line may be present",
+    "These are acceptable identifying features"
+   ],
+   "inference": "The stone may be endowed with a long line, or such a line may be present.",
+   "uncertainties": [],
+   "plain_english": "It may be endowed with a long line, or there may be such a line."
+  },
+  {
+   "verse": 1716,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.optative-pres bhū"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa+akṣamālaṃ",
+     "gloss": "with-rosary",
+     "grounds": "compound describing the head",
+     "morph": "compound: sa+akṣamālā (n.nom.sg)"
+    },
+    {
+     "surface": "śiraḥ",
+     "gloss": "head",
+     "grounds": "part of the form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional head feature may alternatively mark this stone form?",
+   "premises": [
+    "An alternative feature is being given",
+    "The head may bear a rosary",
+    "This feature is likewise acceptable"
+   ],
+   "inference": "Alternatively, the head may likewise be marked with a rosary.",
+   "uncertainties": [],
+   "plain_english": "Or likewise, the head may also be accompanied by a rosary."
+  },
+  {
+   "verse": 1717,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rekhā",
+     "gloss": "line",
+     "grounds": "marking on the stone",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjakāya",
+     "gloss": "for-worshipper",
+     "grounds": "beneficiary of the feature",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "su+śobhanaḥ",
+     "gloss": "very-beautiful",
+     "grounds": "compound describing auspiciousness",
+     "morph": "compound: su+śobhana (m.nom.sg)"
+    }
+   ],
+   "question": "What benefit does this line marking provide to the worshipper?",
+   "premises": [
+    "A line marking is present",
+    "It is very beautiful",
+    "It is favorable for the worshipper"
+   ],
+   "inference": "Such a line is likewise very beautiful and auspicious for the worshipper.",
+   "uncertainties": [
+    "The exact syntactic subject across the line break is context-dependent"
+   ],
+   "plain_english": "Likewise, the line is very beautiful for the worshipper."
+  },
+  {
+   "verse": 1718,
+   "rows": [
+    {
+     "surface": "rekhā+pañcaka+bhūṣitaḥ",
+     "gloss": "five-lines-adorned",
+     "grounds": "compound describing markings",
+     "morph": "compound: rekhā+pañcaka+bhūṣita (m.nom.sg)"
+    }
+   ],
+   "question": "How many line markings adorn this particular stone form?",
+   "premises": [
+    "A stone form is being described",
+    "It is adorned with lines",
+    "The number of lines is five"
+   ],
+   "inference": "This form is adorned with five lines.",
+   "uncertainties": [
+    "This token continues the description from the previous verse"
+   ],
+   "plain_english": "It is adorned with five lines."
+  },
+  {
+   "verse": 1719,
+   "rows": [
+    {
+     "surface": "bindunā",
+     "gloss": "with-dot",
+     "grounds": "marking on the stone",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "upari",
+     "gloss": "above",
+     "grounds": "position of the marking",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śobhitaḥ",
+     "gloss": "adorned",
+     "grounds": "decorated or marked",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What additional marking above enhances this stone's appearance?",
+   "premises": [
+    "The stone has further adornment",
+    "A dot is present above",
+    "This dot beautifies the stone"
+   ],
+   "inference": "The stone is adorned above with a dot.",
+   "uncertainties": [],
+   "plain_english": "It is adorned above with a dot."
+  },
+  {
+   "verse": 1720,
+   "rows": [
+    {
+     "surface": "hrasvaḥ",
+     "gloss": "short",
+     "grounds": "describing size",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "subhikṣa+kṣema+dāyakaḥ",
+     "gloss": "plenty-security-giving",
+     "grounds": "compound describing the benefit bestowed",
+     "morph": "compound: subhikṣa+kṣema+dāyaka (m.nom.sg)"
+    }
+   ],
+   "question": "What benefits does the short form of this stone bestow?",
+   "premises": [
+    "A short form of the stone is described",
+    "It grants abundance",
+    "It grants security"
+   ],
+   "inference": "The short stone bestows plenty and security.",
+   "uncertainties": [],
+   "plain_english": "It is short and bestows plenty and security."
+  },
+  {
+   "verse": 1721,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakraṃ",
+     "gloss": "disc",
+     "grounds": "marking on the stone",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "rekhā+ekā+eva",
+     "gloss": "one-line-only",
+     "grounds": "compound emphasizing a single line",
+     "morph": "compound: rekhā+eka+eva (f.nom.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "position of the line",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What single line position on the right side characterizes this disc?",
+   "premises": [
+    "A disc feature is being described",
+    "There is only one line",
+    "That line is on the right side"
+   ],
+   "inference": "Likewise, the disc has only one line on the right side.",
+   "uncertainties": [],
+   "plain_english": "Likewise, there is a disc with only one line on the right side."
+  },
+  {
+   "verse": 1722,
+   "rows": [
+    {
+     "surface": "paṃktiḥ",
+     "gloss": "row",
+     "grounds": "arrangement or line",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naṣṭa+dravya+dāyakaḥ",
+     "gloss": "lost-wealth-giving",
+     "grounds": "compound describing the effect",
+     "morph": "compound: naṣṭa+dravya+dāyaka (m.nom.sg)"
+    }
+   ],
+   "question": "What consequence for lost wealth results from this row marking?",
+   "premises": [
+    "A particular row marking is identified",
+    "It is associated with lost wealth",
+    "It causes the giving or recovery of lost wealth"
+   ],
+   "inference": "That row marking brings about the recovery of lost wealth.",
+   "uncertainties": [
+    "The exact sense of dāyakaḥ in this context may imply recovery or bestowal"
+   ],
+   "plain_english": "That row brings about the recovery of lost wealth."
+  },
+  {
+   "verse": 1723,
+   "rows": [
+    {
+     "surface": "dvāra+saṅkīrṇa+pīta+rekhaḥ",
+     "gloss": "door-crowded-yellow-lined",
+     "grounds": "compound describing the line and its position",
+     "morph": "compound: dvāra+saṅkīrṇa+pīta+rekha (m.nom.sg)"
+    },
+    {
+     "surface": "dhana+pradaḥ",
+     "gloss": "wealth-giving",
+     "grounds": "compound describing the benefit bestowed",
+     "morph": "compound: dhana+prada (m.nom.sg)"
+    }
+   ],
+   "question": "What wealth-granting effect is attributed to this yellow-lined form?",
+   "premises": [
+    "A form with a yellow line near the crowded door is described",
+    "It is associated with wealth",
+    "It bestows wealth"
+   ],
+   "inference": "The form with a yellow line crowded at the door bestows wealth.",
+   "uncertainties": [
+    "The precise meaning of dvāra+saṅkīrṇa is interpretively difficult"
+   ],
+   "plain_english": "The one with a yellow line crowded at the door bestows wealth."
+  },
+  {
+   "verse": 1724,
+   "rows": [
+    {
+     "surface": "na+ati+dīrgha+mukhaṃ",
+     "gloss": "not-very-long-mouthed",
+     "grounds": "compound describing the mouth",
+     "morph": "compound: na+ati+dīrgha+mukha (n.nom.sg)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "position of the line",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "lamba+rekhaḥ",
+     "gloss": "hanging-line",
+     "grounds": "compound describing the line",
+     "morph": "compound: lamba+rekha (m.nom.sg)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhoga+daḥ",
+     "gloss": "enjoyment-giving",
+     "grounds": "compound describing the benefit bestowed",
+     "morph": "compound: bhoga+da (m.nom.sg)"
+    }
+   ],
+   "question": "What enjoyment-granting quality belongs to this moderately mouthed stone?",
+   "premises": [
+    "The stone does not have a very long mouth",
+    "It has a hanging line in the middle",
+    "It bestows enjoyment"
+   ],
+   "inference": "That stone, not very long-mouthed and with a hanging line in the middle, bestows enjoyment.",
+   "uncertainties": [],
+   "plain_english": "That one, with a mouth not very long and a hanging line in the middle, bestows enjoyment."
+  }
+ ]
+}

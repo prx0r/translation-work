@@ -1,0 +1,269 @@
+{
+ "song": "mukta-m0-p57",
+ "items": [
+  {
+   "verse": 1401,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating a subsequent point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "from",
+     "grounds": "postpositional adverb marking starting point",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "knowledge",
+     "grounds": "refers to the vidya/mantra-knowledge in question",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative referring to vidyā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "phala+dātrī",
+     "gloss": "fruit-giving",
+     "grounds": "compound describing the capacity to grant results",
+     "morph": "compound: phala+datrī (f.nom.sg)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kasya+cit",
+     "gloss": "of-anyone",
+     "grounds": "indefinite expression formed with enclitic particle",
+     "morph": "compound: kasya+cit (m.gen.sg + indecl.)"
+    }
+   ],
+   "question": "From what point onward does this vidya cease to grant fruit to any practitioner?",
+   "premises": [
+    "A specific temporal starting point is indicated.",
+    "This vidya is characterized as fruit-giving.",
+    "After that point it gives fruit to no one."
+   ],
+   "inference": "Therefore, from that point onward this vidya no longer yields results for anyone.",
+   "uncertainties": [
+    "The referent of the starting point indicated by tataḥ prabhṛti depends on prior context."
+   ],
+   "plain_english": "From then on, this vidya gives fruit to no one."
+  },
+  {
+   "verse": 1402,
+   "rows": [
+    {
+     "surface": "mantrasya",
+     "gloss": "of-mantra",
+     "grounds": "refers to the mantra whose knowledge is discussed",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jñāna",
+     "gloss": "knowledge",
+     "grounds": "first member of compound indicating knowledge",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mātreṇa",
+     "gloss": "by-mere",
+     "grounds": "expresses sufficiency of mere knowledge",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "vijayī",
+     "gloss": "victorious",
+     "grounds": "predicate describing the resulting state",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "locative indicating the sphere of victory",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb expressing coming into a state",
+     "morph": "3.sg.pres.middle (jan)"
+    }
+   ],
+   "question": "What effect does mere knowledge of the mantra produce for a person on earth?",
+   "premises": [
+    "The subject concerns knowledge of a mantra.",
+    "Mere knowledge alone is specified as sufficient.",
+    "The result is becoming victorious on earth."
+   ],
+   "inference": "Therefore, mere knowledge of the mantra makes one victorious on earth.",
+   "uncertainties": [],
+   "plain_english": "By mere knowledge of the mantra, one becomes victorious on earth."
+  },
+  {
+   "verse": 1403,
+   "rows": [
+    {
+     "surface": "satarīñ",
+     "gloss": "satarīm",
+     "grounds": "name or designation being declared; transliterated term",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā+īśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "compound: mahā+īśāni (f.voc.sg)"
+    },
+    {
+     "surface": "vadhū+bījam",
+     "gloss": "bride-seed",
+     "grounds": "technical term for a seed-mantra; bīja kept as term",
+     "morph": "compound: vadhū+bījam (n.nom.sg)"
+    },
+    {
+     "surface": "prakīrtitam",
+     "gloss": "declared",
+     "grounds": "predicate indicating traditional declaration",
+     "morph": "n.nom.sg (past-participle, pra-kṛt)"
+    }
+   ],
+   "question": "What designation is declared for the vadhū-bīja when addressed to the great goddess?",
+   "premises": [
+    "The great goddess is being addressed.",
+    "The vadhū-bīja is the subject of declaration.",
+    "It is declared as satarīm."
+   ],
+   "inference": "Therefore, the vadhū-bīja is declared to be satarīm.",
+   "uncertainties": [
+    "The exact referent of satarīm is not specified within this verse."
+   ],
+   "plain_english": "And, O great goddess, the vadhū-bīja is declared to be satarīm."
+  },
+  {
+   "verse": 1404,
+   "rows": [
+    {
+     "surface": "candraḥ",
+     "gloss": "moon",
+     "grounds": "symbolic or phonetic element, often denoting a nasal or bindu-related component",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sa+kāraḥ",
+     "gloss": "sa-syllable",
+     "grounds": "the consonant sa as a syllabic component",
+     "morph": "compound: sa+kāraḥ (m.nom.sg)"
+    }
+   ],
+   "question": "What two components are identified as constituting the previously named seed?",
+   "premises": [
+    "A seed was declared in the preceding statement.",
+    "The moon is named as one component.",
+    "The sa-syllable is named as another component."
+   ],
+   "inference": "Therefore, the seed consists of the moon and the sa-syllable.",
+   "uncertainties": [
+    "The precise phonetic realization of candraḥ in this mantra context depends on tradition."
+   ],
+   "plain_english": "It is the moon and the syllable sa."
+  },
+  {
+   "verse": 1405,
+   "rows": [
+    {
+     "surface": "sarva+bhāṣā+mayī",
+     "gloss": "consisting-of-all-languages",
+     "grounds": "compound describing pervasive linguistic nature",
+     "morph": "compound: sarva+bhāṣā+mayī (f.nom.sg)"
+    },
+    {
+     "surface": "śuddhā",
+     "gloss": "pure",
+     "grounds": "qualifies the subject as pure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sarva+āmnāyaiḥ",
+     "gloss": "by-all-traditions",
+     "grounds": "agentive or instrumental plurality indicating universal reverence",
+     "morph": "compound: sarva+āmnāyaiḥ (m.inst.pl)"
+    },
+    {
+     "surface": "namaskṛtā",
+     "gloss": "saluted",
+     "grounds": "predicate indicating being honored or bowed to",
+     "morph": "f.nom.sg (past-participle, namas-kṛ)"
+    }
+   ],
+   "question": "What qualities and honors characterize this pure entity across all traditions?",
+   "premises": [
+    "The entity consists of all languages.",
+    "The entity is pure.",
+    "The entity is saluted by all traditions."
+   ],
+   "inference": "Therefore, this pure, all-language entity is universally honored by all traditions.",
+   "uncertainties": [],
+   "plain_english": "She consists of all languages, is pure, and is saluted by all traditions."
+  },
+  {
+   "verse": 1406,
+   "rows": [
+    {
+     "surface": "eka+akṣī",
+     "gloss": "one-eyed",
+     "grounds": "epithet describing the subject",
+     "morph": "compound: eka+akṣī (f.nom.sg)"
+    },
+    {
+     "surface": "strīṃ",
+     "gloss": "strīṃ",
+     "grounds": "bīja syllable; transliterated and not translated",
+     "morph": "(indecl., bīja)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to the bīja or its power",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indicates universal scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śāpa+uddhāraḥ",
+     "gloss": "curse-removal",
+     "grounds": "compound denoting the lifting or removal of a curse",
+     "morph": "compound: śāpa+uddhāraḥ (m.nom.sg)"
+    }
+   ],
+   "question": "What power does the one-eyed strīṃ possess for removing curses everywhere?",
+   "premises": [
+    "The one-eyed one is identified with strīṃ.",
+    "By that, an effect is produced.",
+    "The effect is the removal of curses everywhere."
+   ],
+   "inference": "Therefore, by the one-eyed strīṃ, curses are removed everywhere.",
+   "uncertainties": [],
+   "plain_english": "The one-eyed one is strīṃ; by it, curses are removed everywhere."
+  }
+ ]
+}

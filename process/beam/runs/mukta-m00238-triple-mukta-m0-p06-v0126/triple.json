@@ -1,0 +1,756 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "paraśuṃ",
+     "gloss": "axe",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bibhratī",
+     "gloss": "carrying",
+     "grounds": "participle",
+     "morph": "f.nom.sg.act-pres-part"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-indeed",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadadhastvabhayānvitā",
+     "gloss": "below-that-fearless-endowed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāṭalavarṇaḥ",
+     "gloss": "pale-red-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and weapon-bearing form is assigned to this goddess?",
+   "premises": [
+    "The verse names a pale-red color.",
+    "It names an axe and fearless-endowed form.",
+    "The form is described in compound terms."
+   ],
+   "inference": "This verse assigns a pale-red color to a goddess bearing an axe and fearless-endowed attributes.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She carries an axe and is fearless below that, with pale-red color."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "śaṃkhacakrābhayānvāme",
+     "gloss": "conch-disc-fearless-endowed-left",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sā ceyaṃvilasadbhujā",
+     "gloss": "she-this-shining-armed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and left-side attributes are assigned to this goddess?",
+   "premises": [
+    "The verse names blue color.",
+    "It names conch disc and fearless attributes on the left.",
+    "It names shining arms."
+   ],
+   "inference": "This verse assigns blue color to a goddess with conch, disc, fearlessness, and shining arms.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She has conch, disc, and fearlessness on the left, with shining arms and blue color."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "varadādaṃḍinī",
+     "gloss": "boon-giving-staff-bearing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "khaḍgaṃbibhratī",
+     "gloss": "sword-bearing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dakṣiṇekare",
+     "gloss": "right-hand",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What right-hand weapons and attributes are assigned to this goddess?",
+   "premises": [
+    "The verse names boon-giving and staff-bearing.",
+    "It names sword-bearing.",
+    "It places these in the right hand."
+   ],
+   "inference": "This verse assigns boon-giving, staff-bearing, and sword-bearing to the right hand.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She is boon-giving and staff-bearing, bearing a sword in the right hand."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "kheṭapātrābhayānvāme",
+     "gloss": "shield-vessel-fearless-endowed-left",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūkarāsyālasadbhujā",
+     "gloss": "boar-faced-shining-armed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛṣṇavarṇaḥ",
+     "gloss": "black-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and left-side attributes are assigned to this boar-faced goddess?",
+   "premises": [
+    "The verse names black color.",
+    "It names shield vessel and fearless attributes on the left.",
+    "It names boar-faced shining arms."
+   ],
+   "inference": "This verse assigns black color to a boar-faced goddess with shield, vessel, fearlessness, and shining arms.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She has shield, vessel, and fearlessness on the left, boar-faced shining arms, and black color."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "varadāsūtriṇī",
+     "gloss": "boon-giving-thread-bearing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vajraṃ",
+     "gloss": "thunderbolt",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bibhratyūrdhvaṃ tu dakṣiṇe",
+     "gloss": "bearing-upward-indeed-right",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What upward right-hand weapon is assigned to this goddess?",
+   "premises": [
+    "The verse names boon-giving and thread-bearing.",
+    "It names thunderbolt.",
+    "It says bearing upward in the right."
+   ],
+   "inference": "This verse assigns thunderbolt-bearing upward in the right hand to a boon-giving thread-bearing goddess.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She is boon-giving and thread-bearing, bearing a thunderbolt upward in the right."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "vāme tu kamalaṃpātraṃ",
+     "gloss": "left-indeed-lotus-vessel",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyabhayaṃtadadhaḥkare",
+     "gloss": "indeed-fear-below-hand",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kanakavarṇaḥ",
+     "gloss": "golden-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and left-side attributes are assigned to this goddess?",
+   "premises": [
+    "The verse names golden color.",
+    "It names lotus vessel on the left.",
+    "It names fear below the hand."
+   ],
+   "inference": "This verse assigns golden color to a goddess with lotus vessel on the left and fear below the hand.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She has lotus vessel on the left and fear below the hand, with golden color."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "daṃṣṭrālākṣīṇadehā",
+     "gloss": "tusk-eyed-body-indeed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gartākṣīkāmarūpiṇī",
+     "gloss": "pit-eyed-desire-form",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What bodily and form attributes are assigned to this goddess?",
+   "premises": [
+    "The verse names tusk-eyed body.",
+    "It adds and.",
+    "It names pit-eyed desire form."
+   ],
+   "inference": "This verse assigns tusk-eyed body and pit-eyed desire form to the goddess.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She has tusk-eyed body and pit-eyed desire form."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "aṃkuśaṃ",
+     "gloss": "goad",
+     "grounds": "accusative object",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bibhratīkhaḍgaṃdakṣiṇe",
+     "gloss": "bearing-sword-right",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāthavāmake",
+     "gloss": "and-then-left",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What weapons and sides are assigned to this goddess?",
+   "premises": [
+    "The verse names goad.",
+    "It names sword-bearing on the right.",
+    "It names and then left."
+   ],
+   "inference": "This verse assigns goad and sword-bearing on the right, with further left-side action.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She bears a goad and sword on the right, and then on the left."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "kheṭaṃpāśaṃdhanurdaṃḍaṃ",
+     "gloss": "shield-vessel-fearless-endowed-left",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṭhāraṃcāpibibhratī",
+     "gloss": "axe-and-bearing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kṛṣṇavarṇaḥ",
+     "gloss": "black-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and weapons are assigned to this goddess?",
+   "premises": [
+    "The verse names black color.",
+    "It names shield vessel and related weapons.",
+    "It names axe-bearing."
+   ],
+   "inference": "This verse assigns black color to a goddess bearing shield, vessel, and axe.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She bears shield, vessel, and axe, with black color."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "jaṭilāvartulā tryakṣā",
+     "gloss": "matted-locked-round-three-eyed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "varadā śūladhāriṇī",
+     "gloss": "boon-giving-trident-bearing",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What form and attributes are assigned to this goddess?",
+   "premises": [
+    "The verse names matted-locked round three-eyed form.",
+    "It names boon-giving.",
+    "It names trident-bearing."
+   ],
+   "inference": "This verse assigns a matted-locked round three-eyed form with boon-giving and trident-bearing.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She is matted-locked, round, three-eyed, boon-giving, and trident-bearing."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "kartrikāṃ bibhratīdakṣe",
+     "gloss": "knife-bearing-right",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pāśapātrābhayānvitā",
+     "gloss": "shield-vessel-fearless-endowed",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śvetavarṇaḥ",
+     "gloss": "white-color",
+     "grounds": "compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color and right-side attributes are assigned to this goddess?",
+   "premises": [
+    "The verse names white color.",
+    "It names knife-bearing on the right.",
+    "It names shield vessel and fearless attributes."
+   ],
+   "inference": "This verse assigns white color to a goddess bearing a knife on the right and shield vessel with fearlessness.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She bears a knife on the right, has shield vessel and fearlessness, and white color."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "vṛṣārūḍhāṃ śūladharāṃ",
+     "gloss": "bull-mounted-trident-bearing",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "śailaputrīṃyaśasvinīm",
+     "gloss": "mountain-daughter-glorious",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which goddess is praised as bull-mounted and trident-bearing?",
+   "premises": [
+    "The verse names bull-mounted.",
+    "It names trident-bearing.",
+    "It names mountain-daughter glorious."
+   ],
+   "inference": "This verse praises a glorious mountain-daughter goddess who is bull-mounted and trident-bearing.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "She is bull-mounted, trident-bearing, glorious mountain-daughter."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "devīprasīda tu mayi",
+     "gloss": "goddess-be-gracious-to-me",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "brahmacāriṇyanuttamā",
+     "gloss": "brahmacāriṇi-unexcelled",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What prayer and status are directed to this goddess?",
+   "premises": [
+    "The verse asks the goddess to be gracious to me.",
+    "It names brahmacāriṇi.",
+    "It calls her unexcelled."
+   ],
+   "inference": "This verse prays for grace from an unexcelled brahmacāriṇi goddess.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "Goddess, be gracious to me, unexcelled brahmacāriṇi."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "prasādaṃ tanutāṃmahyaṃ",
+     "gloss": "grace-extend-to-me",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "caṃḍakhaṃḍeti viśrutā",
+     "gloss": "caṃḍa-khaṃḍa-thus-famous",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What grace and fame are requested for this goddess?",
+   "premises": [
+    "The verse asks grace to be extended to me.",
+    "It names caṃḍa-khaṃḍa.",
+    "It says thus famous."
+   ],
+   "inference": "This verse requests grace and names a famous caṃḍa-khaṃḍa goddess.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "May grace extend to me; she is famous as caṃḍa-khaṃḍa."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "śubhadāstu sadā devī",
+     "gloss": "auspicious-always-goddess",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "skaṃdamātāyaśasvinī",
+     "gloss": "skanda-mother-glorious",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What auspicious blessing is sought from Skanda's mother?",
+   "premises": [
+    "The verse asks the goddess to be auspicious always.",
+    "It names Skanda's mother.",
+    "It calls her glorious."
+   ],
+   "inference": "This verse seeks an always-auspicious blessing from glorious Skanda's mother.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "May the goddess always be auspicious, glorious mother of Skanda."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "dadhānāhastapadmābhyāṃ",
+     "gloss": "bearing-hand-lotus-pair",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "kūṣmāṃḍāśubhadāstume",
+     "gloss": "kūṣmāṇḍa-auspicious-to-me",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What lotus-bearing form and auspiciousness are assigned to Kūṣmāṇḍā?",
+   "premises": [
+    "The verse names bearing lotus pair in hands.",
+    "It names Kūṣmāṇḍā.",
+    "It asks auspiciousness to me."
+   ],
+   "inference": "This verse assigns lotus-bearing hands to Kūṣmāṇḍā and seeks her auspiciousness.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "Bearing lotuses in both hands, Kūṣmāṇḍā, be auspicious to me."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "kātyāyanīśubhaṃ dadyād",
+     "gloss": "kātyāyanī-auspicious-give",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devīdānavaghātinī",
+     "gloss": "goddess-demon-slayer",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What auspicious gift is requested from the demon-slaying goddess?",
+   "premises": [
+    "The verse asks Kātyāyanī to give auspiciousness.",
+    "It names goddess.",
+    "It names demon-slayer."
+   ],
+   "inference": "This verse requests auspiciousness from Kātyāyanī, the demon-slaying goddess.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "May Kātyāyanī give auspiciousness, the demon-slaying goddess."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "kālarātriḥśubhaṃ dadyād",
+     "gloss": "kālarātri-auspicious-give",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "devīcaṃḍāṭṭahāsinī",
+     "gloss": "goddess-caṇḍa-loud-laughing",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What auspicious gift is requested from the loud-laughing goddess?",
+   "premises": [
+    "The verse asks Kālarātri to give auspiciousness.",
+    "It names goddess.",
+    "It names caṇḍa loud-laughing."
+   ],
+   "inference": "This verse requests auspiciousness from Kālarātri, the caṇḍa loud-laughing goddess.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "May Kālarātri give auspiciousness, the caṇḍa loud-laughing goddess."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "mahāgaurīśubhaṃ dadyān",
+     "gloss": "mahāgaurī-auspicious-give",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "mahādeva pramodadā",
+     "gloss": "mahādeva-joy-giving",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What auspicious gift is requested from joy-giving Mahāgaurī?",
+   "premises": [
+    "The verse asks Mahāgaurī to give auspiciousness.",
+    "It names mahādeva.",
+    "It names joy-giving."
+   ],
+   "inference": "This verse requests auspiciousness from Mahāgaurī, the joy-giving goddess.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "May Mahāgaurī give auspiciousness, joy-giving mahādeva."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "sevyamānā sadābhūyāt",
+     "gloss": "served-always-be",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "siddhidāsiddhidāyinī",
+     "gloss": "siddhi-giving-siddhi-bestowing",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What lasting service and siddhi-bestowing role are assigned to this goddess?",
+   "premises": [
+    "The verse says served always be.",
+    "It names siddhi-giving.",
+    "It names siddhi-bestowing."
+   ],
+   "inference": "This verse assigns a served, always-present, siddhi-giving and siddhi-bestowing role.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "May she always be served, siddhi-giving and siddhi-bestowing."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "tatra padmānvite sthāne",
+     "gloss": "there-lotus-endowed-place",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjyādurgāstumūrtitaḥ",
+     "gloss": "worship-durgā-your-form",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "aṣṭādaśabhujācaikā",
+     "gloss": "eighteen-armed-and-one",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "pīnavakṣobhujorukā",
+     "gloss": "full-breasted-armed-thighed",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What form and place are assigned to the eighteen-armed Durgā?",
+   "premises": [
+    "The verse names a lotus-endowed place.",
+    "It names worship of Durgā in your form.",
+    "It names eighteen-armed and one.",
+    "It names full-breasted armed thighed."
+   ],
+   "inference": "This verse assigns an eighteen-armed, full-breasted, armed, thighed Durgā form in a lotus-endowed place.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "There in a lotus-endowed place, worship Durgā in your form, eighteen-armed, full-breasted, armed, thighed."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "mūrdhajaṃ kheṭakaṃghaṃṭāmādarśaṃtarjanīṃ",
+     "gloss": "head-hair-shield-bell",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "dhanuḥ",
+     "gloss": "bow",
+     "grounds": "nominative object",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What weapons and ornaments are listed for this goddess?",
+   "premises": [
+    "The verse names head-hair shield bell.",
+    "It names mirror and tarjanī.",
+    "It names bow."
+   ],
+   "inference": "This verse lists head-hair, shield, bell, mirror, tarjanī, and bow among her items.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "Head-hair, shield, bell, mirror, tarjanī, and bow."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "śaktimudgaraśūlāni",
+     "gloss": "spear-mallet-trident",
+     "grounds": "compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "vajraṃ śaṃkhamathāṃbujam",
+     "gloss": "thunderbolt-conch-then-lotus",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "What further weapons and objects are listed for this goddess?",
+   "premises": [
+    "The verse names spear mallet trident.",
+    "It names thunderbolt.",
+    "It names conch then lotus."
+   ],
+   "inference": "This verse lists spear, mallet, trident, thunderbolt, conch, and lotus among her items.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "Spear, mallet, trident, thunderbolt, conch, and lotus."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "śeṣāṣṣoḍaśahastāssyuśśaraṃḍamarukaṃvinā",
+     "gloss": "remaining-sixteen-hands-would-be",
+     "grounds": "compound",
+     "morph": "compound"
+    }
+   ],
+   "question": "How many remaining hands are assigned after excluding bow and drum?",
+   "premises": [
+    "The verse names remaining sixteen hands.",
+    "It says would be.",
+    "It excludes bow and drum."
+   ],
+   "inference": "This verse states that sixteen hands remain after excluding bow and drum.",
+   "uncertainties": [
+    "Compound boundaries are not fully resolved."
+   ],
+   "plain_english": "The remaining sixteen hands would be, excluding bow and drum."
+  }
+ ]
+}

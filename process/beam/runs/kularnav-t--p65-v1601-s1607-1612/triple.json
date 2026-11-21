@@ -1,0 +1,293 @@
+{
+ "song": "kul-p65",
+ "items": [
+  {
+   "verse": 1607,
+   "rows": [
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "adverb of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadiśet",
+     "gloss": "let-him-instruct",
+     "grounds": "optative of upa-diś",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "accusative object",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What happens if mantra is instructed otherwise?",
+   "premises": [
+    "mantra instruction otherwise fruitless",
+    "fruitless result would arise"
+   ],
+   "inference": "Improper mantra instruction yields no fruit.",
+   "uncertainties": [
+    "exact optative force"
+   ],
+   "plain_english": "If the mantra is instructed otherwise, it becomes fruitless."
+  },
+  {
+   "verse": 1608,
+   "rows": [
+    {
+     "surface": "dadatā",
+     "gloss": "giving",
+     "grounds": "instrumental participle",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "gṛhṇatā",
+     "gloss": "receiving",
+     "grounds": "instrumental participle",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "kula+śāpaḥ",
+     "gloss": "kula-curse",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhaviṣyati",
+     "gloss": "will-be",
+     "grounds": "future of bhū",
+     "morph": "3.sg.act.fut"
+    }
+   ],
+   "question": "What curse arises when giving and receiving?",
+   "premises": [
+    "giving and receiving occur",
+    "kula curse will arise"
+   ],
+   "inference": "Improper exchange brings the kula curse.",
+   "uncertainties": [
+    "exact ritual context"
+   ],
+   "plain_english": "O goddess, when giving and receiving occur, the kula curse will arise."
+  },
+  {
+   "verse": 1609,
+   "rows": [
+    {
+     "surface": "upadeśaṃ",
+     "gloss": "instruction",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dadat",
+     "gloss": "giving",
+     "grounds": "nominative participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "gṛhṇan",
+     "gloss": "receiving",
+     "grounds": "nominative participle",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "prāpnuyātām",
+     "gloss": "would-obtain",
+     "grounds": "optative dual",
+     "morph": "3.du.act.opt"
+    },
+    {
+     "surface": "piśācatām",
+     "gloss": "demon-hood",
+     "grounds": "accusative result",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What do giver and receiver obtain?",
+   "premises": [
+    "instruction is given and received",
+    "both would obtain demon-hood"
+   ],
+   "inference": "Improper transmission leads to demon-hood.",
+   "uncertainties": [
+    "exact dual subject"
+   ],
+   "plain_english": "By giving and receiving instruction, both would obtain demon-hood."
+  },
+  {
+   "verse": 1610,
+   "rows": [
+    {
+     "surface": "tāv+ubhau",
+     "gloss": "they-both",
+     "grounds": "nominative dual pronoun",
+     "morph": "nom.du.m"
+    },
+    {
+     "surface": "bhuñjāte",
+     "gloss": "would-enjoy",
+     "grounds": "optative middle dual",
+     "morph": "3.du.mid.opt"
+    },
+    {
+     "surface": "ghorān",
+     "gloss": "terrible",
+     "grounds": "accusative plural adjective",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "narakān",
+     "gloss": "hells",
+     "grounds": "accusative plural noun",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "ekaviṃśatim",
+     "gloss": "twenty-one",
+     "grounds": "accusative numeral",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What do both suffer after improper transmission?",
+   "premises": [
+    "both would enjoy hells",
+    "twenty-one terrible hells"
+   ],
+   "inference": "Both undergo twenty-one terrible hells.",
+   "uncertainties": [
+    "exact enjoyment sense"
+   ],
+   "plain_english": "Both would experience twenty-one terrible hells."
+  },
+  {
+   "verse": 1611,
+   "rows": [
+    {
+     "surface": "vinaśyati",
+     "gloss": "perishes",
+     "grounds": "present of vi-naś",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tan+mantraṃ",
+     "gloss": "that-mantra",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saikate",
+     "gloss": "sand",
+     "grounds": "locative noun",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "śāli+bījavat",
+     "gloss": "rice-seed",
+     "grounds": "compound simile",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What happens to that mantra?",
+   "premises": [
+    "that mantra perishes",
+    "like rice seed in sand"
+   ],
+   "inference": "The mantra is destroyed like rice seed in sand.",
+   "uncertainties": [
+    "exact simile scope"
+   ],
+   "plain_english": "That mantra perishes, like a rice seed in sand."
+  },
+  {
+   "verse": 1612,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "inferential adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "parīkṣya",
+     "gloss": "having-tested",
+     "grounds": "absolutive of parīkṣ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "karttavyam",
+     "gloss": "should-be-done",
+     "grounds": "gerundive",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "predicate adjective",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "What should be done after testing?",
+   "premises": [
+    "therefore test first",
+    "otherwise fruitless result"
+   ],
+   "inference": "One should act only after testing, else it is fruitless.",
+   "uncertainties": [
+    "exact action scope"
+   ],
+   "plain_english": "Therefore, after testing, it should be done; otherwise it is fruitless."
+  }
+ ]
+}

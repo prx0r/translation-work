@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "pradīpaiḥ",
+     "gloss": "with-lamps",
+     "grounds": "instrumental plural of pradīpa",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "vandanaṃ",
+     "gloss": "salutation",
+     "grounds": "accusative singular object of kṛtvā",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "gerund of kṛ",
+     "morph": "indecl."
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "gerund of dā",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pratibodhayet",
+     "gloss": "should-awaken",
+     "grounds": "causative optative of bodh",
+     "morph": "verb.3.sg.act-opt"
+    }
+   ],
+   "question": "What sequence of ritual actions follows the lamp offering and precedes awakening the deity?",
+   "premises": [
+    "lamps are used for salutation",
+    "salutation is performed first",
+    "giving follows salutation",
+    "awakening follows giving"
+   ],
+   "inference": "The worshipper salutes with lamps, gives the offering, and then awakens the deity.",
+   "uncertainties": [
+    "the exact object of dattvā is not specified in this verse"
+   ],
+   "plain_english": "Having saluted with lamps and having given the offering, one should awaken."
+  }
+ ]
+}

@@ -1,0 +1,1201 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1526,
+   "rows": [
+    {
+     "surface": "sānusvaro",
+     "gloss": "with-nasal-mark",
+     "grounds": "describes mantra form with anusvāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-optative √bhū"
+    },
+    {
+     "surface": "netram",
+     "gloss": "eye-mantra",
+     "grounds": "name of ritual mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon-mantra",
+     "grounds": "name of ritual mantra",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kh:",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "alternative reading for astraṃ",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "visargabheditam",
+     "gloss": "distinguished-by-visarga",
+     "grounds": "compound describing mantra ending",
+     "morph": "n.nom.sg visarga+bhedita"
+    }
+   ],
+   "question": "How should the eye and weapon mantras be marked by nasal or visarga?",
+   "premises": [
+    "The eye mantra should have an anusvāra.",
+    "A variant reading gives mantra instead of weapon mantra.",
+    "The form may be distinguished by a visarga."
+   ],
+   "inference": "The prescribed mantra form varies by nasalization or visarga according to the reading.",
+   "uncertainties": [
+    "Exact syntactic relation of the variant reading kh: mantraṃ is compressed."
+   ],
+   "plain_english": "The eye mantra should have an anusvāra, and the weapon mantra—or, in another reading, the mantra—should be distinguished by a visarga."
+  },
+  {
+   "verse": 1527,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kh:",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anya",
+     "gloss": "other",
+     "grounds": "alternative qualifier in variant",
+     "morph": "compound-member anya"
+    },
+    {
+     "surface": "jāti",
+     "gloss": "birth-class",
+     "grounds": "class or category marker",
+     "morph": "compound-member jāti"
+    },
+    {
+     "surface": "samāyuktāḥ",
+     "gloss": "joined-with",
+     "grounds": "describes mantras combined with class markers",
+     "morph": "m.nom.pl sam+ā+yukta"
+    },
+    {
+     "surface": "prayoktavyāḥ",
+     "gloss": "should-be-employed",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.pl pra+√yuj"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantriṇā",
+     "gloss": "by-priest",
+     "grounds": "ritual actor performing the application",
+     "morph": "m.inst.sg"
+    }
+   ],
+   "question": "Who must employ the class-marked forms at the end of the mantras?",
+   "premises": [
+    "Forms joined with a birth-class are specified.",
+    "These forms are to be applied at the end.",
+    "The ritual actor responsible is the priest."
+   ],
+   "inference": "The priest must employ the class-marked forms at the end of the mantras.",
+   "uncertainties": [
+    "The precise referent of jāti in this ritual context is not fully specified."
+   ],
+   "plain_english": "At the end, the priest should employ the forms joined with the appropriate class markers."
+  },
+  {
+   "verse": 1528,
+   "rows": [
+    {
+     "surface": "ghṛtaṃ",
+     "gloss": "ghee",
+     "grounds": "oblation substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tilān",
+     "gloss": "sesame-seeds",
+     "grounds": "oblation substance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "yavān",
+     "gloss": "barley",
+     "grounds": "oblation substance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṣīraṃ",
+     "gloss": "milk",
+     "grounds": "oblation substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrīhīn",
+     "gloss": "rice-grains",
+     "grounds": "oblation substance",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "bhakṣyāṇi",
+     "gloss": "food-offerings",
+     "grounds": "oblation substance",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dadhi",
+     "gloss": "curd",
+     "grounds": "oblation substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which substances are included among the offerings listed for ritual use?",
+   "premises": [
+    "Ghee, sesame seeds, barley, milk, and rice grains are listed.",
+    "Food offerings are included in the list.",
+    "Curd is also included."
+   ],
+   "inference": "A range of food and dairy substances are prescribed as offerings.",
+   "uncertainties": [],
+   "plain_english": "Ghee, sesame seeds, barley, milk, rice grains, food offerings, and also curd are to be used."
+  },
+  {
+   "verse": 1529,
+   "rows": [
+    {
+     "surface": "saktu",
+     "gloss": "groats",
+     "grounds": "oblation substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "piṣyāka",
+     "gloss": "flour-cake",
+     "grounds": "oblation substance",
+     "morph": "compound-member piṣyāka"
+    },
+    {
+     "surface": "takra",
+     "gloss": "buttermilk",
+     "grounds": "oblation substance",
+     "morph": "compound-member takra"
+    },
+    {
+     "surface": "annaṃ",
+     "gloss": "cooked-rice",
+     "grounds": "oblation substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "juhuyāt",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive optative for oblation",
+     "morph": "3.sg.act-optative √hu"
+    },
+    {
+     "surface": "nityakarmaṇi",
+     "gloss": "in-daily-rite",
+     "grounds": "ritual context for offerings",
+     "morph": "n.loc.sg nitya+karman"
+    }
+   ],
+   "question": "What additional substances should be offered in the daily ritual?",
+   "premises": [
+    "Groats, flour-cake, buttermilk, and cooked rice are named.",
+    "These are to be offered as oblations.",
+    "The context is the daily rite."
+   ],
+   "inference": "These substances should be offered in the daily ritual.",
+   "uncertainties": [
+    "The compound piṣyāka-takra-annaṃ is treated as a sequence of items in context."
+   ],
+   "plain_english": "One should offer groats, flour-cake, buttermilk, and cooked rice in the daily rite."
+  },
+  {
+   "verse": 1530,
+   "rows": [
+    {
+     "surface": "mālūraṃ",
+     "gloss": "bilva-fruit",
+     "grounds": "offering for specific purpose",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "roganāśāya",
+     "gloss": "for-disease-destruction",
+     "grounds": "purpose of offering",
+     "morph": "m.dat.sg roga+nāśa"
+    },
+    {
+     "surface": "lakṣmyarthaṃ",
+     "gloss": "for-prosperity",
+     "grounds": "purpose of offering",
+     "morph": "n.acc.sg lakṣmī+artha"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuśeśayam",
+     "gloss": "lotus",
+     "grounds": "offering for prosperity",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which offerings are prescribed for destroying disease and gaining prosperity?",
+   "premises": [
+    "Bilva fruit is linked to the destruction of disease.",
+    "Lotus is linked to prosperity.",
+    "Both purposes are stated together."
+   ],
+   "inference": "Bilva fruit should be used for removing disease and lotus for prosperity.",
+   "uncertainties": [],
+   "plain_english": "Use bilva fruit for the destruction of disease and lotus for prosperity."
+  },
+  {
+   "verse": 1531,
+   "rows": [
+    {
+     "surface": "paṃcaphalāni",
+     "gloss": "five-fruits",
+     "grounds": "group of offering items",
+     "morph": "n.nom.pl pañcan+phala"
+    },
+    {
+     "surface": "mū:",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "palāni",
+     "gloss": "fruits",
+     "grounds": "alternative reading for phalāni",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sūkṣmāṇi",
+     "gloss": "small",
+     "grounds": "describes size of items",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "annānāṃ",
+     "gloss": "of-foods",
+     "grounds": "source or type of portions",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "grāsakhaṇḍataḥ",
+     "gloss": "by-morsel-pieces",
+     "grounds": "manner of division",
+     "morph": "(indecl.) grāsa+khaṇḍa+tas"
+    }
+   ],
+   "question": "How should the five small fruits or food portions be prepared for offering?",
+   "premises": [
+    "Five fruits or, in a variant, fruits are specified.",
+    "They are described as small.",
+    "They are to be taken as morsel-sized pieces of food."
+   ],
+   "inference": "The small fruits or food items should be prepared in morsel-sized pieces.",
+   "uncertainties": [
+    "The relation between paṃcaphalāni and annānāṃ is somewhat compressed."
+   ],
+   "plain_english": "The five small fruits—or, in another reading, fruits—should be prepared as morsel-sized pieces of food."
+  },
+  {
+   "verse": 1532,
+   "rows": [
+    {
+     "surface": "agranthi",
+     "gloss": "without-knots",
+     "grounds": "quality of ritual wood",
+     "morph": "compound-member a+granthi"
+    },
+    {
+     "surface": "asphuṭita",
+     "gloss": "uncracked",
+     "grounds": "quality of ritual wood",
+     "morph": "compound-member a+sphuṭita"
+    },
+    {
+     "surface": "avakrāḥ",
+     "gloss": "not-crooked",
+     "grounds": "quality of ritual wood",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "plakṣavṛkṣasamudbhavāḥ",
+     "gloss": "from-plakṣa-tree",
+     "grounds": "source of the wood",
+     "morph": "m.nom.pl plakṣa+vṛkṣa+samudbhava"
+    }
+   ],
+   "question": "What qualities must the sticks from the plakṣa tree possess for ritual use?",
+   "premises": [
+    "The sticks must be without knots.",
+    "The sticks must be uncracked.",
+    "The sticks must be straight and come from the plakṣa tree."
+   ],
+   "inference": "Only straight, uncracked, knotless sticks from the plakṣa tree are suitable.",
+   "uncertainties": [],
+   "plain_english": "They should be without knots, uncracked, not crooked, and taken from the plakṣa tree."
+  },
+  {
+   "verse": 1533,
+   "rows": [
+    {
+     "surface": "vaikaṅkato",
+     "gloss": "of-vikaṅkata",
+     "grounds": "type of wood",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "apāmārgaḥ",
+     "gloss": "apāmārga",
+     "grounds": "plant used in ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pippalaḥ",
+     "gloss": "pippala",
+     "grounds": "tree used in ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śāntipuṣṭidaḥ",
+     "gloss": "giving-peace-prosperity",
+     "grounds": "effect of these materials",
+     "morph": "m.nom.sg śānti+puṣṭi+da"
+    }
+   ],
+   "question": "Which woods or plants are said to bring peace and prosperity?",
+   "premises": [
+    "Vikaṅkata, apāmārga, and pippala are named.",
+    "These are presented as suitable materials.",
+    "They are said to give peace and prosperity."
+   ],
+   "inference": "Vikaṅkata, apāmārga, and pippala are prescribed for peace and prosperity.",
+   "uncertainties": [],
+   "plain_english": "Vikaṅkata, apāmārga, and pippala indeed give peace and prosperity."
+  },
+  {
+   "verse": 1534,
+   "rows": [
+    {
+     "surface": "aniṣṭe",
+     "gloss": "in-unfavorable-rite",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "janturomāṇi",
+     "gloss": "creature-hairs",
+     "grounds": "material for hostile rite",
+     "morph": "n.nom.pl jantu+roman"
+    },
+    {
+     "surface": "dveṣe",
+     "gloss": "in-hatred-rite",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śleṣmānta",
+     "gloss": "phlegm-ending",
+     "grounds": "descriptive qualifier of plants",
+     "morph": "compound-member śleṣman+anta"
+    },
+    {
+     "surface": "śigrukau",
+     "gloss": "two-śigru-plants",
+     "grounds": "materials for hatred rite",
+     "morph": "m.nom.du"
+    }
+   ],
+   "question": "What materials are prescribed for unfavorable and hatred rituals?",
+   "premises": [
+    "Creature hairs are specified for an unfavorable rite.",
+    "Two śigru plants are specified for a hatred rite.",
+    "The śigru plants are qualified as phlegm-ending."
+   ],
+   "inference": "Different materials are assigned to unfavorable and hatred rituals.",
+   "uncertainties": [
+    "The exact meaning of śleṣmānta as a plant qualifier is unclear."
+   ],
+   "plain_english": "In an unfavorable rite use creature hairs, and in a hatred rite use the two śigru plants described as phlegm-ending."
+  },
+  {
+   "verse": 1535,
+   "rows": [
+    {
+     "surface": "taddhūlyā",
+     "gloss": "with-their-dust",
+     "grounds": "material derived from previous items",
+     "morph": "f.inst.sg tad+dhūli"
+    },
+    {
+     "surface": "kākapakṣaṃ",
+     "gloss": "crow-feather",
+     "grounds": "material for hostile rite",
+     "morph": "n.acc.sg kāka+pakṣa"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nidhane",
+     "gloss": "in-killing-rite",
+     "grounds": "ritual context",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "nimbaśoṇitam",
+     "gloss": "nimba-blood",
+     "grounds": "material for killing rite",
+     "morph": "n.acc.sg nimba+śoṇita"
+    }
+   ],
+   "question": "What substances are used together in a killing ritual?",
+   "premises": [
+    "Dust from the previously mentioned items is used.",
+    "A crow feather is included.",
+    "Nimba blood is prescribed in a killing rite."
+   ],
+   "inference": "The killing rite employs their dust, a crow feather, and nimba blood.",
+   "uncertainties": [
+    "The term nimbaśoṇitam may be a technical or symbolic substance name."
+   ],
+   "plain_english": "In a killing rite, use their dust, a crow feather, and nimba blood."
+  },
+  {
+   "verse": 1536,
+   "rows": [
+    {
+     "surface": "śamī",
+     "gloss": "śamī",
+     "grounds": "ritual plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dūrvā",
+     "gloss": "dūrvā-grass",
+     "grounds": "ritual plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kuśā",
+     "gloss": "kuśa-grass",
+     "grounds": "ritual plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "havyā",
+     "gloss": "oblation-materials",
+     "grounds": "items fit for offering",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "arkādigrahaśāntaye",
+     "gloss": "for-sun-etc-planet-pacification",
+     "grounds": "purpose of offerings",
+     "morph": "f.dat.sg arka+ādi+graha+śānti"
+    }
+   ],
+   "question": "Which oblation materials are prescribed for pacifying the sun and other planets?",
+   "premises": [
+    "Śamī, dūrvā grass, and kuśa grass are named.",
+    "These are described as oblation materials.",
+    "Their purpose is pacification of the sun and other planets."
+   ],
+   "inference": "Śamī, dūrvā, and kuśa are oblation materials for planetary pacification.",
+   "uncertainties": [],
+   "plain_english": "Śamī, dūrvā grass, and kuśa grass are oblation materials for pacifying the sun and other planets."
+  },
+  {
+   "verse": 1537,
+   "rows": [
+    {
+     "surface": "padmarāga",
+     "gloss": "like-ruby",
+     "grounds": "comparison for auspicious appearance",
+     "morph": "compound-member padma+rāga"
+    },
+    {
+     "surface": "indranīla",
+     "gloss": "like-sapphire",
+     "grounds": "comparison for auspicious appearance",
+     "morph": "compound-member indra+nīla"
+    },
+    {
+     "surface": "arka",
+     "gloss": "like-sunstone",
+     "grounds": "comparison for auspicious appearance",
+     "morph": "compound-member arka"
+    },
+    {
+     "surface": "śuddhasphaṭika",
+     "gloss": "like-pure-crystal",
+     "grounds": "comparison for auspicious appearance",
+     "morph": "compound-member śuddha+sphaṭika"
+    },
+    {
+     "surface": "hemavat",
+     "gloss": "like-gold",
+     "grounds": "comparison for auspicious appearance",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What gem-like appearances are associated with an auspicious quality?",
+   "premises": [
+    "Appearances like ruby, sapphire, sunstone, and pure crystal are listed.",
+    "An appearance like gold is also listed.",
+    "These comparisons describe a desirable quality."
+   ],
+   "inference": "Auspicious material may resemble ruby, sapphire, sunstone, pure crystal, or gold.",
+   "uncertainties": [
+    "The subject described by these comparisons is supplied by the following verse."
+   ],
+   "plain_english": "It may be like ruby, sapphire, sunstone, pure crystal, or gold."
+  },
+  {
+   "verse": 1538,
+   "rows": [
+    {
+     "surface": "śubhaḥ",
+     "gloss": "auspicious",
+     "grounds": "evaluative quality of the described item",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What evaluative quality applies to the previously described appearances?",
+   "premises": [
+    "The previous verse listed desirable appearances.",
+    "This verse gives a single evaluative term.",
+    "The term indicates a favorable quality."
+   ],
+   "inference": "Such an appearance is auspicious.",
+   "uncertainties": [],
+   "plain_english": "Such a one is auspicious."
+  },
+  {
+   "verse": 1539,
+   "rows": [
+    {
+     "surface": "nirgandhaḥ",
+     "gloss": "without-smell",
+     "grounds": "inauspicious quality",
+     "morph": "m.nom.sg nis+gandha"
+    },
+    {
+     "surface": "pāṇḍaro",
+     "gloss": "pale",
+     "grounds": "inauspicious quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rūkṣaḥ",
+     "gloss": "dry",
+     "grounds": "inauspicious quality",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kṛṣṇāṅgāranibhaḥ",
+     "gloss": "resembling-black-charcoal",
+     "grounds": "inauspicious appearance",
+     "morph": "m.nom.sg kṛṣṇa+aṅgāra+nibha"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "introduces the described item",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What characteristics mark an item as unsuitable in contrast to the auspicious type?",
+   "premises": [
+    "Being without smell, pale, and dry are listed.",
+    "Resembling black charcoal is listed.",
+    "These characteristics describe a particular item."
+   ],
+   "inference": "An item with these characteristics is unsuitable.",
+   "uncertainties": [
+    "The concluding predicate is implied by contrast with the previous verse."
+   ],
+   "plain_english": "That which is without smell, pale, dry, and resembling black charcoal is not suitable."
+  },
+  {
+   "verse": 1540,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to prior criteria",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "prior assessment before action",
+     "morph": "(indecl.) √jñā"
+    },
+    {
+     "surface": "prakartavyo",
+     "gloss": "to-be-performed",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.sg pra+√kṛ"
+    },
+    {
+     "surface": "gh:",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yāge-",
+     "gloss": "in-sacrifice",
+     "grounds": "ritual context in variant",
+     "morph": "compound-member yāga"
+    },
+    {
+     "surface": "homaḥ",
+     "gloss": "oblation",
+     "grounds": "ritual act under consideration",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental or causal reference",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "alternative marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "After knowing these criteria, should the oblation in sacrifice be performed or not?",
+   "premises": [
+    "The criteria must be known beforehand.",
+    "The oblation is the act in question.",
+    "The text presents performing it or not as alternatives."
+   ],
+   "inference": "The oblation should be performed or omitted based on those criteria.",
+   "uncertainties": [
+    "The exact force of tena atha vā na vā is compressed and ambiguous."
+   ],
+   "plain_english": "Knowing this, the oblation in the sacrifice should be performed—or, depending on that, not performed."
+  },
+  {
+   "verse": 1541,
+   "rows": [
+    {
+     "surface": "p.",
+     "gloss": "page",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "6",
+     "gloss": "six",
+     "grounds": "editorial page number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhivāsanadīkṣāyām",
+     "gloss": "in-consecration-initiation",
+     "grounds": "ritual context",
+     "morph": "f.loc.sg adhivāsana+dīkṣā"
+    },
+    {
+     "surface": "abhiṣeke",
+     "gloss": "in-ablution",
+     "grounds": "ritual context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "extends previous rule",
+     "morph": "(indecl.) tathā+eva"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which additional ritual contexts does the same rule likewise apply?",
+   "premises": [
+    "Consecration-initiation is named as a context.",
+    "Ablution is named as another context.",
+    "The rule applies likewise in these contexts."
+   ],
+   "inference": "The same rule applies in consecration-initiation and in ablution.",
+   "uncertainties": [],
+   "plain_english": "Likewise in the consecration-initiation and in the ablution."
+  },
+  {
+   "verse": 1542,
+   "rows": [
+    {
+     "surface": "gopucchasadṛśaṃ",
+     "gloss": "resembling-cow-tail",
+     "grounds": "shape description of implement",
+     "morph": "n.acc.sg go+puccha+sadṛśa"
+    },
+    {
+     "surface": "cāru",
+     "gloss": "beautiful",
+     "grounds": "desirable quality",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hastadaghnā",
+     "gloss": "reaching-hand-length",
+     "grounds": "size description",
+     "morph": "compound-member hasta+daghna"
+    },
+    {
+     "surface": "avraṇaṃ",
+     "gloss": "without-wound",
+     "grounds": "condition of implement",
+     "morph": "n.acc.sg a+vraṇa"
+    },
+    {
+     "surface": "dṛḍham",
+     "gloss": "firm",
+     "grounds": "condition of implement",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What physical characteristics should the ritual implement possess?",
+   "premises": [
+    "It should resemble a cow’s tail and be beautiful.",
+    "It should reach a hand’s length.",
+    "It should be unblemished and firm."
+   ],
+   "inference": "The implement must be cow-tail-shaped, attractive, hand-length, unblemished, and firm.",
+   "uncertainties": [
+    "The exact implement is implied by surrounding context."
+   ],
+   "plain_english": "It should resemble a cow’s tail, be beautiful, reach a hand’s length, be without blemish, and firm."
+  },
+  {
+   "verse": 1543,
+   "rows": [
+    {
+     "surface": "tatkhātaṃ",
+     "gloss": "its-pit",
+     "grounds": "excavated part of the implement or altar",
+     "morph": "n.nom.sg tad+khāta"
+    },
+    {
+     "surface": "tryaṅgulaṃ",
+     "gloss": "three-fingers-deep",
+     "grounds": "measurement of pit",
+     "morph": "n.nom.sg tri+aṅgula"
+    },
+    {
+     "surface": "k:",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvyaṅgulaṃ",
+     "gloss": "two-fingers-deep",
+     "grounds": "alternative measurement",
+     "morph": "n.nom.sg dvi+aṅgula"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "location of ridge",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "setuḥ",
+     "gloss": "ridge",
+     "grounds": "structural feature",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dviyavavistaraḥ",
+     "gloss": "two-barleycorns-wide",
+     "grounds": "measurement of ridge",
+     "morph": "m.nom.sg dvi+yava+vistara"
+    }
+   ],
+   "question": "What measurements are specified for the pit and its central ridge?",
+   "premises": [
+    "The pit is three fingers deep, or two in a variant.",
+    "A ridge is located in the middle.",
+    "The ridge is two barleycorns wide."
+   ],
+   "inference": "The pit should be two or three fingers deep with a central ridge two barleycorns wide.",
+   "uncertainties": [],
+   "plain_english": "Its pit should be three fingers deep—or, in another reading, two fingers deep—with a ridge in the middle two barleycorns wide."
+  },
+  {
+   "verse": 1544,
+   "rows": [
+    {
+     "surface": "āmrī",
+     "gloss": "of-mango-wood",
+     "grounds": "material for ladle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaikaṅkatī",
+     "gloss": "of-vikaṅkata-wood",
+     "grounds": "material for ladle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "baijī",
+     "gloss": "of-bilva-wood",
+     "grounds": "material for ladle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sruk",
+     "gloss": "ladle",
+     "grounds": "ritual implement",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pālāśī",
+     "gloss": "of-palāśa-wood",
+     "grounds": "material for ladle",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaiṃśapī",
+     "gloss": "of-śiṃśapa-wood",
+     "grounds": "material for ladle",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "From which kinds of wood may the ritual ladle be made?",
+   "premises": [
+    "Mango, vikaṅkata, and bilva woods are named.",
+    "Palāśa and śiṃśapa woods are also named.",
+    "All are given as materials for the ladle."
+   ],
+   "inference": "The ladle may be made from mango, vikaṅkata, bilva, palāśa, or śiṃśapa wood.",
+   "uncertainties": [],
+   "plain_english": "The ladle may be made of mango, vikaṅkata, bilva, palāśa, or śiṃśapa wood."
+  },
+  {
+   "verse": 1545,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgulaparīṇāho",
+     "gloss": "six-fingers-in-circumference",
+     "grounds": "measurement of implement",
+     "morph": "m.nom.sg ṣaṣ+aṅgula+parīṇāha"
+    },
+    {
+     "surface": "vedyaṣṭonnativistarā",
+     "gloss": "with-altar-eight-in-height-width",
+     "grounds": "measurement description",
+     "morph": "f.nom.sg vedi+aṣṭa+unnati+vistara"
+    },
+    {
+     "surface": "k,",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "g:",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvedvyaṣṭo-",
+     "gloss": "two-and-eight",
+     "grounds": "alternative measurement element",
+     "morph": "compound-member dvi+dvi+aṣṭa"
+    }
+   ],
+   "question": "What measurements are given for the circumference and the altar-related dimensions?",
+   "premises": [
+    "A circumference of six fingers is specified.",
+    "Height and width of eight are specified in relation to the altar.",
+    "A variant reading gives two and eight."
+   ],
+   "inference": "The implement has a six-finger circumference and altar dimensions of eight, with a variant reading.",
+   "uncertainties": [
+    "The exact parsing of vedyaṣṭonnativistarā and dvedvyaṣṭo- is uncertain."
+   ],
+   "plain_english": "It should be six fingers in circumference, with altar height and width of eight—or, in other readings, two and eight."
+  },
+  {
+   "verse": 1546,
+   "rows": [
+    {
+     "surface": "mekhalābjāṣṭapatrāḍhyaṃ",
+     "gloss": "endowed-with-rim-lotus-eight-petals",
+     "grounds": "decorative structural description",
+     "morph": "n.nom.sg mekhalā+abja+aṣṭa+patra+āḍhya"
+    },
+    {
+     "surface": "sarpiḥ",
+     "gloss": "ghee-capacity",
+     "grounds": "capacity related to ghee",
+     "morph": "compound-member sarpis"
+    },
+    {
+     "surface": "k:",
+     "gloss": "variant-reading",
+     "grounds": "textual witness marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandhiḥ",
+     "gloss": "junction",
+     "grounds": "alternative reading element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuḍavasammitam",
+     "gloss": "measuring-one-kuḍava",
+     "grounds": "capacity measurement",
+     "morph": "n.nom.sg kuḍava+sammitam"
+    }
+   ],
+   "question": "What decorative features and capacity are prescribed for the vessel or ladle?",
+   "premises": [
+    "It is endowed with a rim and an eight-petaled lotus.",
+    "Its capacity is measured as one kuḍava.",
+    "A variant reading affects the middle term."
+   ],
+   "inference": "The implement should have a rim with an eight-petaled lotus and hold one kuḍava.",
+   "uncertainties": [
+    "The relation of sarpiḥ and the variant sandhiḥ to the compound is unclear."
+   ],
+   "plain_english": "It should be endowed with a rim and an eight-petaled lotus, and have a capacity measuring one kuḍava."
+  },
+  {
+   "verse": 1547,
+   "rows": [
+    {
+     "surface": "dvyaṅgulāgrapramāṇaṃ",
+     "gloss": "two-fingers-tip-measure",
+     "grounds": "measurement of tip",
+     "morph": "n.nom.sg dvi+aṅgula+agra+pramāṇa"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gajoṣṭhasadṛśaṃ",
+     "gloss": "resembling-elephant-lip",
+     "grounds": "shape of tip",
+     "morph": "n.nom.sg gaja+oṣṭha+sadṛśa"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "prescriptive optative",
+     "morph": "3.sg.act-optative √bhū"
+    }
+   ],
+   "question": "What size and shape should the tip of the implement have?",
+   "premises": [
+    "The tip should measure two fingers.",
+    "The tip should resemble an elephant’s lip.",
+    "These are prescribed characteristics."
+   ],
+   "inference": "The tip should be two fingers in measure and shaped like an elephant’s lip.",
+   "uncertainties": [],
+   "plain_english": "It should measure two fingers at the tip and resemble an elephant’s lip."
+  },
+  {
+   "verse": 1548,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāṅgulivat",
+     "gloss": "like-little-finger",
+     "grounds": "comparison for thickness",
+     "morph": "(indecl.) kaniṣṭhā+aṅguli+vat"
+    },
+    {
+     "surface": "sthūlaṃ",
+     "gloss": "thick",
+     "grounds": "dimension of implement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarpinirgamanāya",
+     "gloss": "for-ghee-flowing",
+     "grounds": "purpose of the form",
+     "morph": "n.dat.sg sarpis+nirgamana"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How thick should the implement be to allow ghee to flow properly?",
+   "premises": [
+    "The thickness is compared to the little finger.",
+    "The implement must be thick in that measure.",
+    "The purpose is to allow ghee to flow out."
+   ],
+   "inference": "It should be as thick as the little finger to allow ghee to flow.",
+   "uncertainties": [],
+   "plain_english": "It should be thick like the little finger, so that the ghee can flow out."
+  },
+  {
+   "verse": 1549,
+   "rows": [
+    {
+     "surface": "p.",
+     "gloss": "page",
+     "grounds": "editorial marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "7",
+     "gloss": "seven",
+     "grounds": "editorial page number",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṅgulaiḥ",
+     "gloss": "with-fingers",
+     "grounds": "unit of measurement",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "with-four",
+     "grounds": "number of finger units",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daṇḍāgre",
+     "gloss": "at-handle-tip",
+     "grounds": "location on implement",
+     "morph": "n.loc.sg daṇḍa+agra"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upavedikā",
+     "gloss": "small-platform",
+     "grounds": "structural feature at handle tip",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What feature is placed at the handle tip at a distance of four fingers?",
+   "premises": [
+    "A measure of four fingers is specified.",
+    "The location is the tip of the handle.",
+    "A small platform is named there."
+   ],
+   "inference": "A small platform should be placed at the handle tip four fingers away.",
+   "uncertainties": [
+    "The exact spatial relation indicated by the repeated ca particles is compressed."
+   ],
+   "plain_english": "At the tip of the handle, four fingers away, there should be a small platform."
+  }
+ ]
+}

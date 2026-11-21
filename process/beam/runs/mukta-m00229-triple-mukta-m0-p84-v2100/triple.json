@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p84",
+ "items": [
+  {
+   "verse": 2100,
+   "rows": [
+    {
+     "surface": "prokto",
+     "gloss": "proclaimed",
+     "grounds": "past participle of prac (to proclaim), masculine nominative singular; sandhi final -ḥ becomes -o before vāsudevo",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāsudevo",
+     "gloss": "vāsudeva",
+     "grounds": "nominative singular of vāsudeva; sandhi final -aḥ becomes -o before manīṣibhiḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "manīṣibhiḥ",
+     "gloss": "by-wise-ones",
+     "grounds": "instrumental plural of manīṣin (wise one), indicating agency",
+     "morph": "m.instr.pl"
+    }
+   ],
+   "question": "Which deity is identified with the twelve-syllable Gāyatrī mantra proclaimed by the wise?",
+   "premises": [
+    "The mantra has twelve syllables.",
+    "Gāyatrī's deity is Viṣṇu.",
+    "Wise men proclaim it as Vāsudeva."
+   ],
+   "inference": "The twelve-syllable Gāyatrī mantra is identified with Vāsudeva.",
+   "uncertainties": [
+    "The exact syntactic scope of prokto between mantra and Vāsudeva remains slightly open."
+   ],
+   "plain_english": "The wise proclaim this twelve-syllable mantra as Vāsudeva."
+  }
+ ]
+}

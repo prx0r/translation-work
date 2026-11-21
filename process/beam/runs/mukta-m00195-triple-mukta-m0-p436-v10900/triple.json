@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p436",
+ "items": [
+  {
+   "verse": 10900,
+   "rows": [
+    {
+     "surface": "p. 639",
+     "gloss": "page-639",
+     "grounds": "editorial page marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvaṃ",
+     "gloss": "truth",
+     "grounds": "object of declaration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sam+ākhyātaṃ",
+     "gloss": "fully-declared",
+     "grounds": "past passive participle",
+     "morph": "n.nom.sg ppp"
+    },
+    {
+     "surface": "viṣṇoḥ",
+     "gloss": "of-viṣṇu",
+     "grounds": "possessor of the declared truth",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sandhi+bhavasya",
+     "gloss": "junction-born",
+     "grounds": "compound: sandhi+junction + bhava+born; qualifies viṣṇu",
+     "morph": "m.gen.sg compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What truth about junction-born Viṣṇu is declared as fully stated?",
+   "premises": [
+    "Kṛṣṇa is identified as Bhagavān at the kali-dvāpara junction.",
+    "He appears in seventy-one forms in each manvantara.",
+    "The passage concludes by declaring this account as Viṣṇu's truth."
+   ],
+   "inference": "Therefore the preceding account constitutes the fully declared truth of junction-born Viṣṇu.",
+   "uncertainties": [
+    "The exact nuance of tattva as truth, principle, or reality is context-dependent."
+   ],
+   "plain_english": "Thus the truth of Viṣṇu, born at the junction, has been fully declared."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p103",
+ "items": [
+  {
+   "verse": 2575,
+   "rows": [
+    {
+     "surface": "anyāḥ",
+     "gloss": "others",
+     "grounds": "refers to additional entities to be ritually placed",
+     "morph": "pron.f.nom.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "indicates sequential procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyastavyāḥ",
+     "gloss": "to-be-placed",
+     "grounds": "prescribes ritual placement or deposition",
+     "morph": "gerundive.f.nom.pl (√nyas)"
+    },
+    {
+     "surface": "svadiksthā",
+     "gloss": "standing-in-own-directions",
+     "grounds": "specifies placement in their respective directions",
+     "morph": "compound.f.nom.pl (sva-dik-stha)"
+    },
+    {
+     "surface": "mantriṇā",
+     "gloss": "by-the-ritual-actor",
+     "grounds": "identifies the officiant performing the placement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks the next step in the sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who must place the remaining directional entities, and in what order and manner?",
+   "premises": [
+    "Additional entities remain to be ritually placed.",
+    "Their placement must follow a prescribed sequence.",
+    "Each must be placed in its own direction.",
+    "The ritual actor is responsible for performing this placement."
+   ],
+   "inference": "After the preceding steps, the ritual actor must sequentially place the remaining entities in their respective directions.",
+   "uncertainties": [
+    "The specific identity of anyāḥ is not explicit in this verse alone."
+   ],
+   "plain_english": "Then the ritual actor must, in due order, place the other entities in their own respective directions."
+  }
+ ]
+}

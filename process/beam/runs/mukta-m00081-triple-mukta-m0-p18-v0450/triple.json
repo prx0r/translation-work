@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "loke",
+     "gloss": "in-the-world",
+     "grounds": "locative of loka, indicating the sphere of ordinary experience",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anupapatteḥ",
+     "gloss": "from-non-establishment",
+     "grounds": "ablative of anupapatti, expressing reason or cause",
+     "morph": "f.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pramā",
+     "gloss": "valid-cognition",
+     "grounds": "noun denoting authoritative means or result of knowing",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyavahāragā",
+     "gloss": "reaching-practical-usage",
+     "grounds": "compound: vyavahāra (practical-usage) + ga (going-reaching), describing what extends to ordinary practice",
+     "morph": "compound:f.nom.sg"
+    }
+   ],
+   "question": "How do non-establishment in the world and practical usage support the claim of valid cognition?",
+   "premises": [
+    "In the world, certain distinctions lack independent establishment.",
+    "Valid cognition is recognized within that same worldly sphere.",
+    "Practical usage operates effectively despite such non-establishment."
+   ],
+   "inference": "Therefore, valid cognition and practical usage remain grounded even where independent establishment is absent.",
+   "uncertainties": [
+    "The exact logical relation implied by the repeated ca particles is context-dependent.",
+    "vyavahāragā may qualify pramā or function as a parallel subject."
+   ],
+   "plain_english": "And in the world, because of non-establishment, valid cognition and that which extends to practical usage also obtain."
+  }
+ ]
+}

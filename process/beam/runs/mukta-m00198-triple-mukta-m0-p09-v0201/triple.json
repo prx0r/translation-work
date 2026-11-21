@@ -1,0 +1,1002 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 201,
+   "rows": [
+    {
+     "surface": "aṣṭāṃśaṃ",
+     "gloss": "eighth-part",
+     "grounds": "one eighth portion as a measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "galamānaṃ",
+     "gloss": "neck-measure",
+     "grounds": "measure of the neck section",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kampamekena",
+     "gloss": "shaking-by-one",
+     "grounds": "a projection or offset by one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction to fashion",
+     "morph": "3.sg.opt.act √kṛ-caus"
+    }
+   ],
+   "question": "What proportions govern the neck measure and its single-part projection?",
+   "premises": [
+    "The neck measure is specified as an eighth part.",
+    "A projection is specified as one part.",
+    "The practitioner is instructed to fashion these elements accordingly."
+   ],
+   "inference": "The neck section must be made as an eighth part with a one-part projection.",
+   "uncertainties": [
+    "The exact referent of the eighth part within the total module is not explicit."
+   ],
+   "plain_english": "One should make the neck measure an eighth part and give it a projection of one part."
+  },
+  {
+   "verse": 202,
+   "rows": [
+    {
+     "surface": "ekena",
+     "gloss": "by-one",
+     "grounds": "by one part as measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "liṃgamānaṃ",
+     "gloss": "linga-measure",
+     "grounds": "measure of the linga section",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantaryaṃśena",
+     "gloss": "by-middle-part",
+     "grounds": "by the middle portion as measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction to arrange",
+     "morph": "3.sg.opt.act √kḷp-caus"
+    }
+   ],
+   "question": "What measures determine the linga section and its middle portion?",
+   "premises": [
+    "The linga measure is specified as one part.",
+    "The middle portion is specified by its own part measure.",
+    "The practitioner is instructed to arrange these elements."
+   ],
+   "inference": "The linga section should be arranged as one part with the middle portion set accordingly.",
+   "uncertainties": [
+    "The precise value of the middle part relative to the whole is not fully specified."
+   ],
+   "plain_english": "One should arrange the linga measure as one part and set its middle portion by that part."
+  },
+  {
+   "verse": 203,
+   "rows": [
+    {
+     "surface": "saptaviṃśatibhāge",
+     "gloss": "in-twenty-seven-part",
+     "grounds": "when divided into twenty-seven parts",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "by designation or name",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "tatpratisundaram",
+     "gloss": "that-very-beautiful",
+     "grounds": "that element called very beautiful",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What designation applies to the element within a twenty-seven-part division?",
+   "premises": [
+    "The whole is divided into twenty-seven parts.",
+    "A specific element within this division is named.",
+    "That element is designated as very beautiful."
+   ],
+   "inference": "Within the twenty-seven-part division, the named element is called very beautiful.",
+   "uncertainties": [
+    "The exact architectural member referred to by this name is unclear."
+   ],
+   "plain_english": "In the twenty-seven-part division, that element is named the very beautiful one."
+  },
+  {
+   "verse": 204,
+   "rows": [
+    {
+     "surface": "upānaṃ",
+     "gloss": "base",
+     "grounds": "the base moulding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "by a measure of two parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "equal in measure to that",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tvambujodayam",
+     "gloss": "and-lotus-rise",
+     "grounds": "and the rising lotus member",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional measures define the base and the rising lotus member?",
+   "premises": [
+    "The base is specified as two parts.",
+    "The rising lotus member is specified as equal to that.",
+    "Both elements are given together in the same prescription."
+   ],
+   "inference": "The base should be two parts and the rising lotus member should be equal to it.",
+   "uncertainties": [],
+   "plain_english": "Make the base two parts and make the rising lotus member equal to that."
+  },
+  {
+   "verse": 205,
+   "rows": [
+    {
+     "surface": "mahāpaṭṭī",
+     "gloss": "great-band",
+     "grounds": "the large fillet or band moulding",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvibhāgena",
+     "gloss": "by-two-parts",
+     "grounds": "by a measure of two parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "padmamardhena",
+     "gloss": "lotus-by-half",
+     "grounds": "the lotus member by half a part",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction to fashion",
+     "morph": "3.sg.opt.act √kṛ-caus"
+    }
+   ],
+   "question": "What measures should be assigned to the great band and the lotus member?",
+   "premises": [
+    "The great band is specified as two parts.",
+    "The lotus member is specified as half a part.",
+    "The practitioner is instructed to make them accordingly."
+   ],
+   "inference": "The great band should be made two parts and the lotus member half a part.",
+   "uncertainties": [],
+   "plain_english": "One should make the great band two parts and the lotus member half a part."
+  },
+  {
+   "verse": 206,
+   "rows": [
+    {
+     "surface": "bhāgena",
+     "gloss": "by-one-part",
+     "grounds": "by a measure of one part",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kampamardhena",
+     "gloss": "shaking-by-half",
+     "grounds": "the projection by half a part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "padmakampe",
+     "gloss": "in-lotus-projection",
+     "grounds": "in the lotus and projection section",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kapotakam",
+     "gloss": "dove-moulding",
+     "grounds": "the kapota or dove moulding",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What measures define the projection and dove moulding in the lotus-projection section?",
+   "premises": [
+    "One part is specified as a measure.",
+    "The projection is specified as half a part.",
+    "The dove moulding is placed in the lotus-projection section."
+   ],
+   "inference": "In the lotus-projection section, the projection should be half a part and the dove moulding one part.",
+   "uncertainties": [
+    "The syntactic attachment of the one-part measure to the dove moulding is inferred."
+   ],
+   "plain_english": "In the lotus-projection section, make the projection half a part and the dove moulding one part."
+  },
+  {
+   "verse": 207,
+   "rows": [
+    {
+     "surface": "upānadvibhāgamardhāṃśaiḥ",
+     "gloss": "base-two-parts-half-portions",
+     "grounds": "by portions of two parts and a half of the base",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ambujāṃśena",
+     "gloss": "by-lotus-part",
+     "grounds": "by a lotus part measure",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kandharam",
+     "gloss": "neck",
+     "grounds": "the neck moulding",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What proportional components determine the measure of the neck moulding?",
+   "premises": [
+    "Portions of two parts and a half of the base are specified.",
+    "A lotus part is specified as an additional measure.",
+    "These measures apply to the neck moulding."
+   ],
+   "inference": "The neck moulding should be formed using two-and-a-half base portions together with a lotus part.",
+   "uncertainties": [
+    "The exact arithmetic combination of these measures is ambiguous."
+   ],
+   "plain_english": "Make the neck moulding with two-and-a-half base portions and a lotus part."
+  },
+  {
+   "verse": 208,
+   "rows": [
+    {
+     "surface": "padmakaṃ",
+     "gloss": "lotus-member",
+     "grounds": "the lotus-like moulding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sārdhabhāgena",
+     "gloss": "by-one-and-half-part",
+     "grounds": "by a measure of one and a half parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "kampamardhena",
+     "gloss": "shaking-by-half",
+     "grounds": "the projection by half a part",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction to fashion",
+     "morph": "3.sg.opt.act √kṛ-caus"
+    }
+   ],
+   "question": "What measures should be used for the lotus member and its projection?",
+   "premises": [
+    "The lotus member is specified as one and a half parts.",
+    "The projection is specified as half a part.",
+    "The practitioner is instructed to make them accordingly."
+   ],
+   "inference": "The lotus member should be made one and a half parts with a half-part projection.",
+   "uncertainties": [],
+   "plain_english": "One should make the lotus member one and a half parts and the projection half a part."
+  },
+  {
+   "verse": 209,
+   "rows": [
+    {
+     "surface": "ambujaṃ",
+     "gloss": "lotus",
+     "grounds": "the lotus moulding",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sārdhabhāgena",
+     "gloss": "by-one-and-half-part",
+     "grounds": "by a measure of one and a half parts",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "mahāpaṭṭī",
+     "gloss": "great-band",
+     "grounds": "the large fillet or band moulding",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvibhāgayā",
+     "gloss": "by-two-parts",
+     "grounds": "by a measure of two parts",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What measures are prescribed for the lotus moulding and the great band?",
+   "premises": [
+    "The lotus moulding is specified as one and a half parts.",
+    "The great band is specified as two parts.",
+    "Both measures are stated in the same prescription."
+   ],
+   "inference": "The lotus moulding should be one and a half parts and the great band two parts.",
+   "uncertainties": [],
+   "plain_english": "Make the lotus moulding one and a half parts and the great band two parts."
+  },
+  {
+   "verse": 210,
+   "rows": [
+    {
+     "surface": "paṃcapaṃcopapīṭhocca",
+     "gloss": "five-five-sub-base-height",
+     "grounds": "height of the sub-base in five and five divisions",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samabhāgadvibhājite",
+     "gloss": "in-equal-part-two-divided",
+     "grounds": "divided into two sets of equal parts",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How is the height of the sub-base divided into equal proportional sections?",
+   "premises": [
+    "The sub-base height is described as five and five.",
+    "The division is into equal parts.",
+    "The whole is divided into two groupings."
+   ],
+   "inference": "The sub-base height is divided into two sets of five equal parts.",
+   "uncertainties": [
+    "The precise structural meaning of the double fivefold division is compressed."
+   ],
+   "plain_english": "The height of the sub-base is divided into two sets of five equal parts."
+  },
+  {
+   "verse": 211,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner as described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣaḍaṃgamākhyātaṃ",
+     "gloss": "six-limbed-declared",
+     "grounds": "declared as having six limbs or members",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "upapīṭhaṃ",
+     "gloss": "sub-base",
+     "grounds": "the sub-base platform",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvijottama",
+     "gloss": "best-of-twice-born",
+     "grounds": "vocative address to the foremost twice-born",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What structural characterization is given to the sub-base in this teaching?",
+   "premises": [
+    "The preceding proportions have been described.",
+    "The sub-base is declared to have six limbs.",
+    "The teaching is addressed to the foremost twice-born."
+   ],
+   "inference": "The sub-base described above is characterized as having six limbs.",
+   "uncertainties": [],
+   "plain_english": "Thus, O best of the twice-born, the sub-base is declared to have six limbs."
+  },
+  {
+   "verse": 212,
+   "rows": [
+    {
+     "surface": "bhūtaivyālebhasiṃhaiśca",
+     "gloss": "with-bhutas-vyalas-elephants-lions",
+     "grounds": "with figures of bhutas, vyalas, elephants, and lions",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "makaraiḥ",
+     "gloss": "with-makaras",
+     "grounds": "with makara figures",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "patrajātibhiḥ",
+     "gloss": "with-leaf-kinds",
+     "grounds": "with various kinds of foliage motifs",
+     "morph": "f.inst.pl"
+    }
+   ],
+   "question": "What ornamental motifs may adorn the sub-base according to this prescription?",
+   "premises": [
+    "Figures of bhutas, vyalas, elephants, and lions are mentioned.",
+    "Makara figures are mentioned.",
+    "Various kinds of foliage motifs are mentioned."
+   ],
+   "inference": "The sub-base may be adorned with these creature and foliage motifs.",
+   "uncertainties": [
+    "The exact parsing of the compound in the first token is uncertain."
+   ],
+   "plain_english": "It may be adorned with bhutas, vyalas, elephants, lions, makaras, and various kinds of foliage."
+  },
+  {
+   "verse": 213,
+   "rows": [
+    {
+     "surface": "pratyagramakarasyābhā",
+     "gloss": "foremost-makara-appearance",
+     "grounds": "having the appearance of a prominent makara",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vālārūḍhasamastakam",
+     "gloss": "tail-mounted-whole-head",
+     "grounds": "with the whole head mounted on or joined to the tail",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What distinctive form characterizes the makara ornament described here?",
+   "premises": [
+    "The ornament has the appearance of a prominent makara.",
+    "Its whole head is described as mounted on the tail.",
+    "These features define its distinctive form."
+   ],
+   "inference": "The described ornament is a prominent makara form with its head joined to the tail.",
+   "uncertainties": [
+    "The precise iconographic configuration implied by the compound is unclear."
+   ],
+   "plain_english": "It has the appearance of a prominent makara, with its whole head mounted upon the tail."
+  },
+  {
+   "verse": 214,
+   "rows": [
+    {
+     "surface": "p. 23",
+     "gloss": "page-23",
+     "grounds": "editorial page marker in the source",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "upapīṭhaṃ",
+     "gloss": "sub-base",
+     "grounds": "the sub-base platform",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "fully-declared",
+     "grounds": "has been fully explained",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "adhiṣṭhānavidhiṃ",
+     "gloss": "base-procedure",
+     "grounds": "the rule or procedure for the base",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative to listen",
+     "morph": "2.sg.imp.act √śru"
+    }
+   ],
+   "question": "What transition marks the completion of the sub-base teaching and the next topic?",
+   "premises": [
+    "The sub-base has been fully declared.",
+    "The procedure for the base is introduced as the next topic.",
+    "The listener is commanded to hear it."
+   ],
+   "inference": "The teaching on the sub-base concludes and the instruction on the base procedure begins.",
+   "uncertainties": [],
+   "plain_english": "The sub-base has now been explained; now hear the procedure for the base."
+  },
+  {
+   "verse": 215,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshuman-kashyapa",
+     "grounds": "thus in the Aṃśumān Kāśyapa text",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "upapīṭhavidhāna",
+     "gloss": "sub-base-procedure",
+     "grounds": "the section on the procedure for the sub-base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṭalaḥ",
+     "gloss": "chapter",
+     "grounds": "chapter or section",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paṃcamaḥ",
+     "gloss": "fifth",
+     "grounds": "the fifth in order",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What textual closure identifies the completed section on the sub-base procedure?",
+   "premises": [
+    "The statement locates itself in the Aṃśumān Kāśyapa text.",
+    "The topic named is the procedure for the sub-base.",
+    "The section is identified as the fifth chapter."
+   ],
+   "inference": "This marks the end of the fifth chapter on the sub-base procedure in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the fifth chapter, on the procedure for the sub-base, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 216,
+   "rows": [
+    {
+     "surface": "dharātalamadhiṣṭhānaṃ",
+     "gloss": "ground-surface-base",
+     "grounds": "the base upon the surface of the earth",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ādhāraṃ",
+     "gloss": "support",
+     "grounds": "that which serves as support",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dharaṇī",
+     "gloss": "earth",
+     "grounds": "the earth as foundation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tayā",
+     "gloss": "by-that",
+     "grounds": "by means of that earth",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What foundational relationship holds between the earth and the temple base?",
+   "premises": [
+    "The base is located on the surface of the earth.",
+    "The earth is identified as the support.",
+    "The base is supported by that earth."
+   ],
+   "inference": "The temple base rests upon the earth, which functions as its support.",
+   "uncertainties": [
+    "The syntactic relation of the final instrumental is somewhat compressed."
+   ],
+   "plain_english": "The base is on the surface of the earth; the earth is its support, and by it the base is upheld."
+  },
+  {
+   "verse": 217,
+   "rows": [
+    {
+     "surface": "harmyatāraṃ",
+     "gloss": "temple-width",
+     "grounds": "the breadth or extent of the temple structure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kūṭādi",
+     "gloss": "peak-and-so-on",
+     "grounds": "the peak and other upper elements",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nīvrādhiṣṭhānanīvrakam",
+     "gloss": "base-upon-base",
+     "grounds": "a base structure resting upon a base",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the temple width and upper elements related to the layered base structure?",
+   "premises": [
+    "The temple width is mentioned.",
+    "The peak and other upper elements are mentioned.",
+    "A base upon base structure is indicated."
+   ],
+   "inference": "The temple width and its upper elements are connected to a layered base arrangement.",
+   "uncertainties": [
+    "The grammatical construction and exact technical meaning of the compound terms are unclear."
+   ],
+   "plain_english": "The temple width, the peak and other elements, and the base upon base are to be understood together."
+  },
+  {
+   "verse": 218,
+   "rows": [
+    {
+     "surface": "tasmātprakṛti",
+     "gloss": "therefore-foundation",
+     "grounds": "therefore the foundational base",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nīvraṃ",
+     "gloss": "base",
+     "grounds": "the base or foundation level",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtra",
+     "gloss": "thread",
+     "grounds": "the measuring cord",
+     "morph": "n."
+    },
+    {
+     "surface": "pātaṃ",
+     "gloss": "fall",
+     "grounds": "the dropping or laying down",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction to carry out",
+     "morph": "3.sg.opt.act √kṛ-caus"
+    }
+   ],
+   "question": "What preparatory action must be performed for the foundational base layout?",
+   "premises": [
+    "A foundational base is to be established.",
+    "The laying down of the measuring cord is specified.",
+    "The practitioner is instructed to carry this out."
+   ],
+   "inference": "One should therefore lay out the measuring cord for the foundational base.",
+   "uncertainties": [
+    "The compound split between sūtra and pātaṃ reflects the tokenization given."
+   ],
+   "plain_english": "Therefore one should establish the foundational base and lay down the measuring cord."
+  },
+  {
+   "verse": 219,
+   "rows": [
+    {
+     "surface": "tasmāttu",
+     "gloss": "therefore-and",
+     "grounds": "therefore, moreover",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghanabhittyevaṃ",
+     "gloss": "solid-wall-thus",
+     "grounds": "thus as a solid wall structure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakṛtyantaṃ",
+     "gloss": "up-to-foundation-end",
+     "grounds": "extending to the end of the foundation",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescriptive instruction to arrange",
+     "morph": "3.sg.opt.act √kḷp-caus"
+    }
+   ],
+   "question": "How should the solid wall be arranged in relation to the foundation limit?",
+   "premises": [
+    "A solid wall structure is specified.",
+    "Its extent reaches the end of the foundation.",
+    "The practitioner is instructed to arrange it accordingly."
+   ],
+   "inference": "The solid wall should be arranged so as to extend to the end of the foundation.",
+   "uncertainties": [],
+   "plain_english": "Therefore one should arrange the solid wall so that it extends to the end of the foundation."
+  },
+  {
+   "verse": 220,
+   "rows": [
+    {
+     "surface": "dvihastaṃ",
+     "gloss": "two-cubits",
+     "grounds": "a height of two cubits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakṛtyuccaṃ",
+     "gloss": "foundation-height",
+     "grounds": "the height of the foundation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trihastaṃ",
+     "gloss": "three-cubits",
+     "grounds": "a height of three cubits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghanākṛtiḥ",
+     "gloss": "solid-form",
+     "grounds": "the solid structural form",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What alternative heights are permitted for the solid foundation structure?",
+   "premises": [
+    "A foundation height of two cubits is given as an option.",
+    "A foundation height of three cubits is given as an alternative.",
+    "These options apply to the solid form."
+   ],
+   "inference": "The solid foundation may be made either two cubits or three cubits high.",
+   "uncertainties": [],
+   "plain_english": "The solid foundation may be two cubits high or three cubits high."
+  },
+  {
+   "verse": 221,
+   "rows": [
+    {
+     "surface": "uttamaṃ",
+     "gloss": "highest",
+     "grounds": "the superior grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyamaṃ",
+     "gloss": "middle",
+     "grounds": "the middle grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "caiva",
+     "gloss": "and-also",
+     "grounds": "and indeed",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhamaṃ",
+     "gloss": "lowest",
+     "grounds": "the inferior grade",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "even-so",
+     "grounds": "likewise or also",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What graded classifications apply to the previously stated foundation options?",
+   "premises": [
+    "A highest grade is named.",
+    "A middle grade is named.",
+    "A lowest grade is named as an alternative classification."
+   ],
+   "inference": "The foundation options may be classified as highest, middle, or lowest.",
+   "uncertainties": [
+    "The mapping of specific measurements to each grade is not stated explicitly."
+   ],
+   "plain_english": "These may be taken as the highest, middle, or lowest grades."
+  },
+  {
+   "verse": 222,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "having completed the construction",
+     "morph": "(gerund) √kṛ"
+    },
+    {
+     "surface": "prakṛtyūrdhve",
+     "gloss": "above-foundation",
+     "grounds": "above the foundation level",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "homa",
+     "grounds": "the fire-offering level or measure",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-determined",
+     "grounds": "having resolved or fixed",
+     "morph": "(gerund) √kḷp with sam"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "the officiating master or instructor",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What action must the officiating teacher take after completing the foundation?",
+   "premises": [
+    "The foundation work has been completed.",
+    "The area above the foundation is specified.",
+    "The teacher must determine the homa level there."
+   ],
+   "inference": "After completing the foundation, the teacher should determine the homa level above it.",
+   "uncertainties": [
+    "Whether homa here denotes a ritual or an architectural measure is ambiguous."
+   ],
+   "plain_english": "Having done this, the teacher should determine the homa level above the foundation."
+  },
+  {
+   "verse": 223,
+   "rows": [
+    {
+     "surface": "homanīvramiti",
+     "gloss": "homa-base-thus",
+     "grounds": "thus called the homa base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "declared or known as",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tadardhaṃ",
+     "gloss": "its-half",
+     "grounds": "half of that measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahulānvitam",
+     "gloss": "with-thickness",
+     "grounds": "endowed with breadth or thickness",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What name and proportional thickness characterize the homa base element?",
+   "premises": [
+    "The element is known as the homa base.",
+    "Its measure is specified as half of that.",
+    "It is endowed with thickness."
+   ],
+   "inference": "The element called the homa base is half that measure and has thickness.",
+   "uncertainties": [
+    "The referent of 'that' whose half is taken is not explicit."
+   ],
+   "plain_english": "This is known as the homa base; it is half that measure and provided with thickness."
+  },
+  {
+   "verse": 224,
+   "rows": [
+    {
+     "surface": "kuḍyapādād",
+     "gloss": "from-wall-foot",
+     "grounds": "from the foot of the wall",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "bahirnīvra",
+     "gloss": "outside-base",
+     "grounds": "the base extending outside",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dupapīṭhagalaṃ",
+     "gloss": "sub-base-neck",
+     "grounds": "the neck of the sub-base",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What spatial relation is specified between the wall foot and the outer base or sub-base neck?",
+   "premises": [
+    "The foot of the wall is given as a reference point.",
+    "An outer base is mentioned.",
+    "The neck of the sub-base is mentioned as an alternative or related element."
+   ],
+   "inference": "From the foot of the wall, the outer base or the sub-base neck is to be set out.",
+   "uncertainties": [
+    "The token dupapīṭhagalaṃ appears to contain a prefixed element and its exact parsing is uncertain.",
+    "The syntactic completion of the sentence is missing in this verse."
+   ],
+   "plain_english": "From the foot of the wall, the outer base or the neck of the sub-base is to be taken."
+  }
+ ]
+}

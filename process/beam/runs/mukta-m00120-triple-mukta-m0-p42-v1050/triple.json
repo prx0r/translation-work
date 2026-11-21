@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "āraktakāmadaṃ",
+     "gloss": "red-desire-giving",
+     "grounds": "compound descriptor for the lamp",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "dīpaṃ",
+     "gloss": "lamp",
+     "grounds": "object of acceptance",
+     "morph": "noun.acc.sg.m"
+    },
+    {
+     "surface": "gṛhāṇa",
+     "gloss": "accept",
+     "grounds": "imperative directed to the recipient",
+     "morph": "2.sg.act.impv (gṛh)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "possessive relation to the lamp",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "siddhaye",
+     "gloss": "for-accomplishment",
+     "grounds": "purpose of accepting the lamp",
+     "morph": "dat.sg.f (siddhi)"
+    }
+   ],
+   "question": "What lamp should the practitioner accept for accomplishment?",
+   "premises": [
+    "The lamp is red-desire-giving.",
+    "The practitioner asks acceptance.",
+    "The goal is accomplishment."
+   ],
+   "inference": "Accepting the red-desire-giving lamp serves accomplishment.",
+   "uncertainties": [
+    "The internal compound parsing of āraktakāmadaṃ remains interpretive."
+   ],
+   "plain_english": "Accept my red-desire-giving lamp for accomplishment."
+  }
+ ]
+}

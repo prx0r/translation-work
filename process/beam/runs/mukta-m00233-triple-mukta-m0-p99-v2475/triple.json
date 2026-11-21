@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p99",
+ "items": [
+  {
+   "verse": 2475,
+   "rows": [
+    {
+     "surface": "devayānī",
+     "gloss": "devayani",
+     "grounds": "named deity in the tattva enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭhī",
+     "gloss": "shashthi",
+     "grounds": "named deity in the tattva enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vidyā",
+     "gloss": "vidya",
+     "grounds": "named item in the tattva enumeration",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction joining the listed items",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kukkuṭā",
+     "gloss": "rooster",
+     "grounds": "named being in the tattva enumeration",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deities and beings are enumerated in the tattva portions beginning with atman?",
+   "premises": [
+    "Devayani and Shashthi are named in the list.",
+    "Vidya and the rooster are also named.",
+    "The list continues after Skanda and Vishakha."
+   ],
+   "inference": "The verse extends the enumeration of tattva-associated deities and beings.",
+   "uncertainties": [
+    "The exact grammatical gender of kukkuṭā is not fully certain from this isolated verse."
+   ],
+   "plain_english": "Devayani, Shashthi, Vidya, and the rooster."
+  }
+ ]
+}

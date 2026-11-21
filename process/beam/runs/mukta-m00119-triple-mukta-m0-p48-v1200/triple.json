@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p48",
+ "items": [
+  {
+   "verse": 1200,
+   "rows": [
+    {
+     "surface": "vīrapātraṃ",
+     "gloss": "hero-vessel",
+     "grounds": "compound names vessel for heroes; accusative singular neuter",
+     "morph": "compound=vīra+pātra"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīrāṇāṃ",
+     "gloss": "of-heroes",
+     "grounds": "genitive plural masculine",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "śaktīnāṃ",
+     "gloss": "of-śaktis",
+     "grounds": "genitive plural feminine",
+     "morph": "gen.pl.f"
+    },
+    {
+     "surface": "śaktipātrakam",
+     "gloss": "śakti-vessel",
+     "grounds": "compound names vessel for śaktis; accusative singular neuter",
+     "morph": "compound=śakti+pātra"
+    }
+   ],
+   "question": "Which ritual vessel is assigned to heroes and which to śaktis?",
+   "premises": [
+    "vīrapātraṃ names the hero vessel",
+    "vīrāṇāṃ names the heroes",
+    "śaktipātrakam names the śakti vessel",
+    "śaktīnāṃ names the śaktis"
+   ],
+   "inference": "The hero-vessel corresponds to heroes, and the śakti-vessel corresponds to śaktis.",
+   "uncertainties": [
+    "No explicit verb states the ritual use; assignment is inferred from compound names and genitives."
+   ],
+   "plain_english": "Indeed, the hero-vessel is for heroes, and the śakti-vessel is for śaktis."
+  }
+ ]
+}

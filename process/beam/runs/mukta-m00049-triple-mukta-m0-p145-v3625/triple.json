@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p145",
+ "items": [
+  {
+   "verse": 3625,
+   "rows": [
+    {
+     "surface": "rudro'",
+     "gloss": "rudra",
+     "grounds": "Rudra as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gnir",
+     "gloss": "agni",
+     "grounds": "Agni as predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ugro",
+     "gloss": "ugra",
+     "grounds": "Ugra as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāyuḥ",
+     "gloss": "vayu",
+     "grounds": "Vāyu as predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "may-be",
+     "grounds": "optative of as",
+     "morph": "v.3.sg.act-opt (as)"
+    },
+    {
+     "surface": "bhīma",
+     "gloss": "bhima",
+     "grounds": "Bhīma as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ākāśaśabditaḥ",
+     "gloss": "akaśa-called",
+     "grounds": "compound: ākāśa + śabdita",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which deity is identified with each of the five elements in this mapping?",
+   "premises": [
+    "Rudra is identified with Agni.",
+    "Ugra is identified with Vāyu.",
+    "Bhīma is identified with Ākāśa."
+   ],
+   "inference": "The verse maps deities to elements.",
+   "uncertainties": [
+    "Exact syntactic parsing of fused forms remains uncertain."
+   ],
+   "plain_english": "Rudra may be Agni, Ugra Vāyu, and Bhīma is called Ākāśa."
+  }
+ ]
+}

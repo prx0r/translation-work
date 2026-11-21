@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "tṛtīyaḥ",
+     "gloss": "third",
+     "grounds": "adjective modifying father",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pitā",
+     "gloss": "father",
+     "grounds": "subject of placed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "janitau",
+     "gloss": "begetter",
+     "grounds": "appositional epithet",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣadhīnām",
+     "gloss": "of-plants",
+     "grounds": "genitive plural of plants",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "apāṅ",
+     "gloss": "of-waters",
+     "grounds": "genitive plural of waters",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "garbbhaṃ",
+     "gloss": "embryo",
+     "grounds": "object placed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vvyadadhāt",
+     "gloss": "placed",
+     "grounds": "verb with doubled initial consonant in supplied form",
+     "morph": "3.sg.act-ind-past + root dhā"
+    },
+    {
+     "surface": "purutrā",
+     "gloss": "in-many-places",
+     "grounds": "adverbial place expression",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is the third father who placed plant embryos in waters across many places?",
+   "premises": [
+    "third father is begetter",
+    "plant embryos are placed",
+    "waters receive them in many places"
+   ],
+   "inference": "The verse identifies a third father as the one who placed plant embryos in waters in many places.",
+   "uncertainties": [
+    "supplied spellings include ṣadhīnām, apāṅ, and vvyadadhāt; morphological analysis follows the supplied forms without normalization"
+   ],
+   "plain_english": "The third father placed the embryo of plants in the waters in many places."
+  }
+ ]
+}

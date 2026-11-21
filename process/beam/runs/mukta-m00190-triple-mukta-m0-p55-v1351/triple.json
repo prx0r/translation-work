@@ -1,0 +1,997 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "hayamāreṇa",
+     "gloss": "with-hayamāra",
+     "grounds": "instrumental of hayamāra, a ritual name or mantra-form",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive expressing prior worship",
+     "morph": "abs(√pūj)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-chant",
+     "grounds": "optative prescribing mantra recitation",
+     "morph": "3.sg.act.opt(√jap)"
+    },
+    {
+     "surface": "ayuta+saṃkhyakam",
+     "gloss": "ten-thousand-in-number",
+     "grounds": "compound specifying the count of recitations",
+     "morph": "compound: ayuta+saṃkhyaka(n.acc.sg)"
+    }
+   ],
+   "question": "What ritual act and recitation count follow worship with hayamāra?",
+   "premises": [
+    "Worship is performed with hayamāra.",
+    "Chanting follows that worship.",
+    "The prescribed count is ten thousand."
+   ],
+   "inference": "After worshipping with hayamāra, the practitioner should chant ten thousand times.",
+   "uncertainties": [
+    "The precise identity of hayamāra is not specified in this verse."
+   ],
+   "plain_english": "Having worshipped with hayamāra, one should chant the mantra ten thousand times."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "candana+arghya+pradānena",
+     "gloss": "by-giving-sandal-offering",
+     "grounds": "instrumental compound denoting the offering act",
+     "morph": "compound: candana+arghya+pradāna(n.ins.sg)"
+    },
+    {
+     "surface": "hṛṣṭā",
+     "gloss": "pleased",
+     "grounds": "describes the deity's satisfied state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vadati",
+     "gloss": "speaks",
+     "grounds": "present action of addressing the practitioner",
+     "morph": "3.sg.act.pres(√vad)"
+    },
+    {
+     "surface": "sādhakam",
+     "gloss": "to-practitioner",
+     "grounds": "accusative recipient of the speech",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What response does the pleased deity give the practitioner after a sandal offering?",
+   "premises": [
+    "A sandal offering is given.",
+    "The deity becomes pleased.",
+    "The deity speaks to the practitioner."
+   ],
+   "inference": "Pleased by the sandal offering, the deity addresses the practitioner.",
+   "uncertainties": [],
+   "plain_english": "Pleased by the offering of sandal and arghya, she speaks to the practitioner."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "vastra+alaṅkāra+bhojya+ādi",
+     "gloss": "garments-ornaments-food-etc",
+     "grounds": "compound listing items for expenditure",
+     "morph": "compound: vastra+alaṅkāra+bhojya+ādi(n.acc.sg)"
+    },
+    {
+     "surface": "vyaya+artham",
+     "gloss": "for-expense",
+     "grounds": "compound indicating purpose of the gift",
+     "morph": "compound: vyaya+artha(m.acc.sg)"
+    },
+    {
+     "surface": "saṃprayacchati",
+     "gloss": "fully-bestows",
+     "grounds": "present action of granting resources",
+     "morph": "3.sg.act.pres(√dā with sam-pra)"
+    }
+   ],
+   "question": "What resources does the deity bestow for the practitioner's expenses?",
+   "premises": [
+    "The deity grants resources.",
+    "The grant is for expenses.",
+    "The resources include garments, ornaments, food, and more."
+   ],
+   "inference": "The deity bestows means for expenses such as garments, ornaments, and food.",
+   "uncertainties": [],
+   "plain_english": "She fully bestows resources for expenses such as garments, ornaments, food, and the like."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "oṃ-syllable",
+     "grounds": "accusative object naming the seed syllable tāra",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "krodha+astra+yugataḥ",
+     "gloss": "after-anger-weapon-pair",
+     "grounds": "compound indicating sequence after two krodha and astra elements",
+     "morph": "compound: krodha+astra+yuga+tas(indecl.)"
+    },
+    {
+     "surface": "naṭī+iti+padam",
+     "gloss": "word-naṭī-thus",
+     "grounds": "compound identifying the uttered word naṭī",
+     "morph": "compound: naṭī+iti+pada(n.acc.sg)"
+    },
+    {
+     "surface": "uddharet",
+     "gloss": "one-should-utter",
+     "grounds": "optative prescribing mantra extraction or utterance",
+     "morph": "3.sg.act.opt(√dhṛ with ud)"
+    }
+   ],
+   "question": "What sequence of syllables and words must be uttered in this mantra?",
+   "premises": [
+    "The utterance begins with tāra.",
+    "It follows with a pair of krodha and astra elements.",
+    "The word naṭī is then uttered."
+   ],
+   "inference": "The mantra is formed by uttering tāra, then the krodha-astra pair, then the word naṭī.",
+   "uncertainties": [
+    "The exact bīja syllables corresponding to krodha and astra are not spelled out here."
+   ],
+   "plain_english": "One should utter the syllable oṃ, then the pair of krodha and weapon syllables, and then the word 'naṭī'."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "yat+prasādaṃ",
+     "gloss": "whose-grace",
+     "grounds": "compound referring to the grace of that mantra or deity",
+     "morph": "compound: yad+prasāda(m.acc.sg)"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "person",
+     "grounds": "subject who obtains the grace",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "labdhvā",
+     "gloss": "having-obtained",
+     "grounds": "absolutive expressing prior attainment",
+     "morph": "abs(√labh)"
+    },
+    {
+     "surface": "sarva+vāñchitam",
+     "gloss": "all-desired",
+     "grounds": "compound denoting everything wished for",
+     "morph": "compound: sarva+vāñchita(n.acc.sg)"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "may-obtain",
+     "grounds": "optative expressing the resulting attainment",
+     "morph": "3.sg.act.opt(√āp)"
+    }
+   ],
+   "question": "What result follows for a person who obtains the grace of this mantra?",
+   "premises": [
+    "A person obtains its grace.",
+    "Grace enables fulfillment.",
+    "All desired things become attainable."
+   ],
+   "inference": "Having obtained its grace, a person may obtain all that is desired.",
+   "uncertainties": [],
+   "plain_english": "Having obtained its grace, a person may attain everything he desires."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "kūrca+traya+lajjā+antaḥ",
+     "gloss": "ending-with-kūrca-triad-lajjā",
+     "grounds": "compound describing the mantra's final components",
+     "morph": "compound: kūrca+traya+lajjā+anta(m.nom.sg)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative identifying the mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kathitaḥ",
+     "gloss": "declared",
+     "grounds": "past participle stating transmission",
+     "morph": "m.nom.sg.past-pass-part(√kath)"
+    },
+    {
+     "surface": "nartakī+manuḥ",
+     "gloss": "dancer-mantra",
+     "grounds": "compound naming the mantra of the dancer",
+     "morph": "compound: nartakī+manu(m.nom.sg)"
+    }
+   ],
+   "question": "How is the nartakī mantra identified and structurally concluded?",
+   "premises": [
+    "The mantra is named nartakī-manu.",
+    "It ends with three kūrca syllables and lajjā.",
+    "This structure is declared in the text."
+   ],
+   "inference": "This mantra, declared as the nartakī-manu, ends with a triad of kūrca and lajjā.",
+   "uncertainties": [
+    "The exact bīja syllables for kūrca and lajjā are not written out here."
+   ],
+   "plain_english": "This is declared to be the nartakī mantra, ending with three kūrca syllables and lajjā."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "candra+udyat+su+nakhā+ādinīṃ",
+     "gloss": "moon-rising-beautiful-nails-etc",
+     "grounds": "compound describing a female figure with rising-moon-like beautiful nails and other features",
+     "morph": "compound: candra+udyat+su+nakhā+ādinī(f.acc.sg)"
+    },
+    {
+     "surface": "maṇi+kula+vyāhāra+kāra+uttarām",
+     "gloss": "followed-by-jewel-group-sounds",
+     "grounds": "compound indicating accompaniment by sounds of jewel ornaments",
+     "morph": "compound: maṇi+kula+vyāhāra+kāra+uttarā(f.acc.sg)"
+    }
+   ],
+   "question": "What visual and auditory qualities characterize the invoked female figure in this rite?",
+   "premises": [
+    "The figure is described with moon-rising beautiful nails and similar features.",
+    "She is accompanied by sounds of jewel ornaments.",
+    "These qualities define her appearance in the rite."
+   ],
+   "inference": "The invoked figure is envisioned with radiant nail-like beauty and the sound of jeweled ornaments.",
+   "uncertainties": [
+    "The exact referent of the described figure is context-dependent."
+   ],
+   "plain_english": "One should envision her with beautiful nails like the rising moon and accompanied by the sounds of jeweled ornaments."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive indicating prior preparation",
+     "morph": "abs(√kṛ)"
+    },
+    {
+     "surface": "arka+astamane",
+     "gloss": "at-sun-setting",
+     "grounds": "locative compound specifying the time",
+     "morph": "compound: arka+astamana(n.loc.sg)"
+    },
+    {
+     "surface": "dhūpaṃ",
+     "gloss": "incense",
+     "grounds": "accusative object of the offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "candanena",
+     "gloss": "with-sandal",
+     "grounds": "instrumental specifying the incense material",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "japet+api",
+     "gloss": "one-should-chant-also",
+     "grounds": "optative with particle indicating additional chanting",
+     "morph": "3.sg.act.opt(√jap)+indecl."
+    }
+   ],
+   "question": "At what time and with what offering should chanting also be performed?",
+   "premises": [
+    "The rite is performed at sunset.",
+    "Incense of sandal is offered.",
+    "Chanting is also to be done."
+   ],
+   "inference": "At sunset, after offering sandal incense, one should also chant.",
+   "uncertainties": [],
+   "plain_english": "Having offered sandal incense at sunset, one should also chant."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "suvarṇa+palam+ekam",
+     "gloss": "one-pala-gold",
+     "grounds": "compound specifying a quantity of gold",
+     "morph": "compound: suvarṇa+pala+eka(n.acc.sg)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle adding emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyaya+artham",
+     "gloss": "for-expense",
+     "grounds": "compound indicating purpose",
+     "morph": "compound: vyaya+artha(m.acc.sg)"
+    },
+    {
+     "surface": "tyajya",
+     "gloss": "having-left",
+     "grounds": "absolutive indicating setting aside or relinquishing",
+     "morph": "abs(√tyaj)"
+    },
+    {
+     "surface": "gacchati",
+     "gloss": "departs",
+     "grounds": "present action of leaving",
+     "morph": "3.sg.act.pres(√gam)"
+    }
+   ],
+   "question": "What material provision is left for expenses before the deity departs?",
+   "premises": [
+    "One pala of gold is set aside.",
+    "It is designated for expenses.",
+    "The deity then departs."
+   ],
+   "inference": "After one pala of gold is left for expenses, she departs.",
+   "uncertainties": [],
+   "plain_english": "Having left one pala of gold for expenses, she departs."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "tāra",
+     "gloss": "oṃ-syllable",
+     "grounds": "initial mantra element",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kūrca+dvayam",
+     "gloss": "kūrca-pair",
+     "grounds": "compound indicating two kūrca syllables",
+     "morph": "compound: kūrca+dvaya(n.nom.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction linking elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astra+dvayam",
+     "gloss": "weapon-pair",
+     "grounds": "compound indicating two astra syllables",
+     "morph": "compound: astra+dvaya(n.nom.sg)"
+    },
+    {
+     "surface": "ceṭī",
+     "gloss": "ceṭī-word",
+     "grounds": "mantra word naming the maidservant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "adverb indicating what follows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ordered components constitute the mantra beginning with tāra in this sequence?",
+   "premises": [
+    "The sequence begins with tāra.",
+    "It includes a pair of kūrca and a pair of astra syllables.",
+    "The word ceṭī follows thereafter."
+   ],
+   "inference": "The mantra sequence is tāra, two kūrca, two astra, and then the word ceṭī.",
+   "uncertainties": [
+    "The exact bīja syllables for kūrca and astra are not specified."
+   ],
+   "plain_english": "Utter oṃ, then two kūrca syllables, two weapon syllables, and after that the word 'ceṭī'."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "kiñcit",
+     "gloss": "slightly",
+     "grounds": "adverbial degree modifier",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakra+samācitā+api",
+     "gloss": "even-curved-adorned",
+     "grounds": "compound with particle describing braided hair",
+     "morph": "compound: vakra+samācita(f.nom.sg)+indecl."
+    },
+    {
+     "surface": "kabarī",
+     "gloss": "braided-hair",
+     "grounds": "subject described by the compound",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāyāt+ciram",
+     "gloss": "may-protect-long",
+     "grounds": "optative with adverb expressing long protection",
+     "morph": "3.sg.act.opt(√pā)+indecl."
+    },
+    {
+     "surface": "ceṭikā",
+     "gloss": "maidservant",
+     "grounds": "subject who protects",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What protective role is attributed to the maidservant with slightly curved braided hair?",
+   "premises": [
+    "The maidservant is described with slightly curved braided hair.",
+    "She is invoked as a protector.",
+    "Her protection is long-lasting."
+   ],
+   "inference": "The maidservant with slightly curved braided hair may protect for a long time.",
+   "uncertainties": [],
+   "plain_english": "May the maidservant, with her slightly curved and adorned braid, protect for a long time."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "dhruvaṃ",
+     "gloss": "certainly",
+     "grounds": "adverb asserting certainty",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ceṭi",
+     "gloss": "o-maid",
+     "grounds": "vocative addressing the maidservant",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "samāgatya",
+     "gloss": "having-come",
+     "grounds": "absolutive indicating arrival",
+     "morph": "abs(√gam with sam-ā)"
+    },
+    {
+     "surface": "ceṭī+karma",
+     "gloss": "maid-service",
+     "grounds": "compound naming the service performed",
+     "morph": "compound: ceṭī+karman(n.acc.sg)"
+    },
+    {
+     "surface": "karoti+api",
+     "gloss": "does-also",
+     "grounds": "present action with particle indicating performance",
+     "morph": "3.sg.act.pres(√kṛ)+indecl."
+    }
+   ],
+   "question": "What service does the maidservant certainly perform upon arriving?",
+   "premises": [
+    "The maidservant is addressed and arrives.",
+    "Her arrival leads to action.",
+    "She performs maid service."
+   ],
+   "inference": "Upon arriving, the maidservant certainly performs maid service.",
+   "uncertainties": [],
+   "plain_english": "O maid, having come, she certainly performs the service of a maid."
+  },
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "āgatya",
+     "gloss": "having-come",
+     "grounds": "absolutive indicating arrival",
+     "morph": "abs(√gam with ā)"
+    },
+    {
+     "surface": "nilayaṃ",
+     "gloss": "to-abode",
+     "grounds": "accusative destination of arrival",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "subject who arrives",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ceṭī+karma",
+     "gloss": "maid-service",
+     "grounds": "compound naming the service performed",
+     "morph": "compound: ceṭī+karman(n.acc.sg)"
+    },
+    {
+     "surface": "karoti",
+     "gloss": "does",
+     "grounds": "present action of performing service",
+     "morph": "3.sg.act.pres(√kṛ)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "pronoun referring back to the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What action does the goddess undertake after coming to the practitioner's abode?",
+   "premises": [
+    "The goddess comes to the abode.",
+    "She assumes the role of a maidservant.",
+    "She performs maid service."
+   ],
+   "inference": "Having come to the abode, the goddess performs maid service.",
+   "uncertainties": [],
+   "plain_english": "Having come to the abode, that goddess performs the service of a maid."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating final position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "krodha+dvayam",
+     "gloss": "anger-pair",
+     "grounds": "compound indicating two krodha syllables",
+     "morph": "compound: krodha+dvaya(n.nom.sg)"
+    },
+    {
+     "surface": "kāmeśvarī+mantraḥ",
+     "gloss": "kāmeśvarī-mantra",
+     "grounds": "compound naming the mantra",
+     "morph": "compound: kāmeśvarī+mantra(m.nom.sg)"
+    },
+    {
+     "surface": "udāhṛtaḥ",
+     "gloss": "declared",
+     "grounds": "past participle stating transmission",
+     "morph": "m.nom.sg.past-pass-part(√hṛ with ud-ā)"
+    }
+   ],
+   "question": "How is the kāmeśvarī mantra concluded according to this declaration?",
+   "premises": [
+    "The mantra is identified as kāmeśvarī-mantra.",
+    "Its conclusion is specified.",
+    "It ends with a pair of krodha syllables."
+   ],
+   "inference": "The kāmeśvarī mantra is declared to end with two krodha syllables.",
+   "uncertainties": [
+    "The exact bīja syllable for krodha is not specified."
+   ],
+   "plain_english": "The kāmeśvarī mantra is declared to end with a pair of krodha syllables."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "pāyāt",
+     "gloss": "may-protect",
+     "grounds": "optative expressing a wish for protection",
+     "morph": "3.sg.act.opt(√pā)"
+    },
+    {
+     "surface": "puṣpa+dhanuḥ+dharā",
+     "gloss": "flower-bow-holder",
+     "grounds": "compound describing the goddess as bearing a flower bow",
+     "morph": "compound: puṣpa+dhanuḥ+dhara(f.nom.sg)"
+    },
+    {
+     "surface": "madhu+mukhī",
+     "gloss": "honey-faced",
+     "grounds": "compound describing her sweet face",
+     "morph": "compound: madhu+mukhī(f.nom.sg)"
+    },
+    {
+     "surface": "kāmeśvarī",
+     "gloss": "kāmeśvarī",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhūtinī",
+     "gloss": "prosperous-one",
+     "grounds": "epithet indicating prosperity or power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which attributes of kāmeśvarī are invoked for the practitioner's protection?",
+   "premises": [
+    "Kāmeśvarī is invoked for protection.",
+    "She holds a flower bow and has a honeyed face.",
+    "She is characterized as prosperous."
+   ],
+   "inference": "Kāmeśvarī, bearer of the flower bow, honey-faced and prosperous, is invoked to protect.",
+   "uncertainties": [],
+   "plain_english": "May Kāmeśvarī, holder of the flower bow, honey-faced and prosperous, protect us."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "māṃsa+ādīni",
+     "gloss": "meat-and-others",
+     "grounds": "compound listing offerings beginning with meat",
+     "morph": "compound: māṃsa+ādi(n.acc.pl)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative object of the ritual gift",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "having-given",
+     "grounds": "absolutive indicating prior offering",
+     "morph": "abs(√dā)"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral indicating recitation count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sapta+vāsarān",
+     "gloss": "seven-days",
+     "grounds": "compound indicating duration of the rite",
+     "morph": "compound: sapta+vāsara(m.acc.pl)"
+    }
+   ],
+   "question": "What offerings and duration of recitation are prescribed in this kāmeśvarī rite?",
+   "premises": [
+    "Offerings including meat are given.",
+    "Recitation is performed a thousand times.",
+    "The practice continues for seven days."
+   ],
+   "inference": "One should give offerings including meat and recite a thousand times for seven days.",
+   "uncertainties": [],
+   "plain_english": "Having given offerings such as meat, one should recite a thousand times for seven days."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "kāmeśvarī",
+     "gloss": "kāmeśvarī",
+     "grounds": "subject who becomes pleased",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavet+tuṣṭā",
+     "gloss": "may-become-pleased",
+     "grounds": "optative with participle expressing satisfaction",
+     "morph": "3.sg.act.opt(√bhū)+f.nom.sg.past-pass-part(√tuṣ)"
+    },
+    {
+     "surface": "bhāryā",
+     "gloss": "wife",
+     "grounds": "subject of the resulting state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present result of the rite",
+     "morph": "3.sg.act.pres(√bhū)"
+    },
+    {
+     "surface": "kāmitā",
+     "gloss": "desired",
+     "grounds": "describes the wife as wished for",
+     "morph": "f.nom.sg.past-pass-part(√kam)"
+    }
+   ],
+   "question": "What outcome follows when kāmeśvarī becomes pleased through this rite?",
+   "premises": [
+    "Kāmeśvarī becomes pleased.",
+    "The rite yields a relational result.",
+    "A desired wife is obtained."
+   ],
+   "inference": "When kāmeśvarī is pleased, the desired woman becomes one's wife.",
+   "uncertainties": [],
+   "plain_english": "Kāmeśvarī becomes pleased, and the desired woman becomes one's wife."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "krodha+dvaya+strī+yuk",
+     "gloss": "joined-with-anger-pair-strī",
+     "grounds": "compound describing mantra elements including two krodha and strī syllable",
+     "morph": "compound: krodha+dvaya+strī+yuj(m.nom.sg)"
+    },
+    {
+     "surface": "kāmeśvarī+tantra+ukta+vat",
+     "gloss": "as-stated-in-kāmeśvarī-tantra",
+     "grounds": "compound indicating conformity with the kāmeśvarī-tantra",
+     "morph": "compound: kāmeśvarī+tantra+ukta+vat(indecl.)"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "rite",
+     "grounds": "subject referring to the ritual procedure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "According to which authority and mantra form is this kāmeśvarī rite performed?",
+   "premises": [
+    "The rite uses a form joined with two krodha syllables and strī.",
+    "The procedure follows the kāmeśvarī-tantra.",
+    "The rite is performed accordingly."
+   ],
+   "inference": "The rite is performed with that mantra form as stated in the kāmeśvarī-tantra.",
+   "uncertainties": [
+    "The exact bīja syllables for krodha and strī are not specified."
+   ],
+   "plain_english": "The rite is performed with the form joined to two krodha syllables and strī, as stated in the kāmeśvarī-tantra."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "bhrāmyat",
+     "gloss": "whirling",
+     "grounds": "present participle describing dynamic radiance or movement",
+     "morph": "n.nom.sg.act.pres-part(√bhram)"
+    },
+    {
+     "surface": "rakta+utpala+ābhā",
+     "gloss": "red-lotus-splendor",
+     "grounds": "compound describing her appearance",
+     "morph": "compound: rakta+utpala+ābhā(f.nom.sg)"
+    },
+    {
+     "surface": "sakala+sura+natā",
+     "gloss": "bowed-to-by-all-gods",
+     "grounds": "compound indicating reverence from all gods",
+     "morph": "compound: sakala+sura+nata(f.nom.sg)"
+    },
+    {
+     "surface": "divya+bhūṣā+aṅga+hārā",
+     "gloss": "with-divine-ornaments-gestures",
+     "grounds": "compound describing divine adornments and bodily grace",
+     "morph": "compound: divya+bhūṣā+aṅga+hāra(f.nom.sg)"
+    }
+   ],
+   "question": "What luminous and revered form of the goddess is visualized in this description?",
+   "premises": [
+    "She has a whirling red-lotus splendor.",
+    "She is bowed to by all gods.",
+    "She bears divine ornaments and graceful limbs."
+   ],
+   "inference": "The goddess is visualized as radiant like a red lotus, revered by all gods, and divinely adorned.",
+   "uncertainties": [],
+   "plain_english": "She is visualized with a whirling red-lotus splendor, bowed to by all the gods, and adorned with divine ornaments and graceful limbs."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "ante",
+     "gloss": "at-end",
+     "grounds": "locative indicating final position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "krodha+dvayam",
+     "gloss": "anger-pair",
+     "grounds": "compound indicating two krodha syllables",
+     "morph": "compound: krodha+dvaya(n.acc.sg)"
+    },
+    {
+     "surface": "gṛhya",
+     "gloss": "having-taken",
+     "grounds": "absolutive indicating inclusion of elements",
+     "morph": "abs(√grah)"
+    },
+    {
+     "surface": "devī+mantram+anuttamam",
+     "gloss": "unsurpassed-goddess-mantra",
+     "grounds": "compound naming the supreme mantra of the goddess",
+     "morph": "compound: devī+mantra+anuttama(m.acc.sg)"
+    }
+   ],
+   "question": "What concluding elements define the unsurpassed mantra of the goddess?",
+   "premises": [
+    "The mantra is that of the goddess.",
+    "It is described as unsurpassed.",
+    "It takes two krodha syllables at the end."
+   ],
+   "inference": "The unsurpassed goddess mantra is formed by taking two krodha syllables at its end.",
+   "uncertainties": [
+    "The exact bīja syllable for krodha is not specified."
+   ],
+   "plain_english": "Taking two krodha syllables at the end, one forms the unsurpassed mantra of the goddess."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "sarva+alaṅkāra+saṃyuktā",
+     "gloss": "endowed-with-all-ornaments",
+     "grounds": "compound describing complete adornment",
+     "morph": "compound: sarva+alaṅkāra+saṃyukta(f.nom.sg)"
+    },
+    {
+     "surface": "bhāryā",
+     "gloss": "wife",
+     "grounds": "subject of the resulting state",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "present result of the rite",
+     "morph": "3.sg.act.pres(√bhū)"
+    },
+    {
+     "surface": "kāmitā",
+     "gloss": "desired",
+     "grounds": "describes the wife as wished for",
+     "morph": "f.nom.sg.past-pass-part(√kam)"
+    }
+   ],
+   "question": "What condition of the desired wife results from this mantra practice?",
+   "premises": [
+    "The rite yields a desired wife.",
+    "She is endowed with all ornaments.",
+    "This state comes to be."
+   ],
+   "inference": "Through this practice, the desired woman becomes one's wife endowed with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "The desired woman becomes one's wife, endowed with all ornaments."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "sita+vastraṃ",
+     "gloss": "white-garment",
+     "grounds": "compound naming an offering item",
+     "morph": "compound: sita+vastra(n.acc.sg)"
+    },
+    {
+     "surface": "candanañ+ca",
+     "gloss": "and-sandal",
+     "grounds": "accusative with conjunction indicating another offering",
+     "morph": "n.acc.sg+indecl."
+    },
+    {
+     "surface": "jātī+puṣpaṃ",
+     "gloss": "jasmine-flower",
+     "grounds": "compound naming a flower offering",
+     "morph": "compound: jātī+puṣpa(n.acc.sg)"
+    },
+    {
+     "surface": "pradāpayet",
+     "gloss": "one-should-offer",
+     "grounds": "causative optative prescribing the offering",
+     "morph": "3.sg.act.caus.opt(√dā with pra)"
+    }
+   ],
+   "question": "What specific offerings should be presented in this ritual procedure?",
+   "premises": [
+    "A white garment is to be offered.",
+    "Sandal is to be offered.",
+    "Jasmine flowers are to be offered."
+   ],
+   "inference": "One should offer a white garment, sandal, and jasmine flowers.",
+   "uncertainties": [],
+   "plain_english": "One should offer a white garment, sandal, and jasmine flowers."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "japa+ante",
+     "gloss": "at-chant-end",
+     "grounds": "locative compound indicating the time after recitation",
+     "morph": "compound: japa+anta(m.loc.sg)"
+    },
+    {
+     "surface": "niyatā+āyāti",
+     "gloss": "regularly-comes",
+     "grounds": "compound verb form indicating regular arrival",
+     "morph": "compound: niyata(f.nom.sg)+3.sg.act.pres(√yā with ā)"
+    },
+    {
+     "surface": "cumbana+āliṅgana+ādibhiḥ",
+     "gloss": "with-kisses-embraces-etc",
+     "grounds": "instrumental compound listing acts of affection",
+     "morph": "compound: cumbana+āliṅgana+ādi(n.ins.pl)"
+    }
+   ],
+   "question": "What regular behavior follows at the end of the chanting practice?",
+   "premises": [
+    "The time is after chanting ends.",
+    "She comes regularly.",
+    "Her coming includes kisses, embraces, and similar acts."
+   ],
+   "inference": "At the end of chanting, she regularly comes with kisses, embraces, and the like.",
+   "uncertainties": [
+    "The subject is implied from context rather than named in this verse."
+   ],
+   "plain_english": "At the end of the chanting, she comes regularly with kisses, embraces, and the like."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "dadāti",
+     "gloss": "gives",
+     "grounds": "present action of giving",
+     "morph": "3.sg.act.pres(√dā)"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral indicating number of days",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "dināni+ante",
+     "gloss": "at-end-of-days",
+     "grounds": "compound indicating the conclusion of a period of days",
+     "morph": "compound: dina(n.acc.pl)+anta(m.loc.sg)"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "adjective qualifying the gift",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vastra+yugaṃ",
+     "gloss": "garment-pair",
+     "grounds": "compound naming the gift",
+     "morph": "compound: vastra+yuga(n.acc.sg)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb indicating subsequent action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What gift is bestowed after the completion of eight days?",
+   "premises": [
+    "A period of eight days concludes.",
+    "A gift is then given.",
+    "The gift is a divine pair of garments."
+   ],
+   "inference": "At the end of eight days, she gives a divine pair of garments.",
+   "uncertainties": [
+    "The giver is implied from context rather than named in this verse."
+   ],
+   "plain_english": "Then, at the end of eight days, she gives a divine pair of garments."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "turyā",
+     "gloss": "fourth",
+     "grounds": "feminine nominative singular of turya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mūlam",
+     "gloss": "root",
+     "grounds": "neuter nominative singular of mūla",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "neuter nominative singular of the demonstrative pronoun",
+     "morph": "pron.n.nom.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "neuter nominative singular passive past participle of pra-vac",
+     "morph": "n.nom.sg.pass.past.part"
+    },
+    {
+     "surface": "svatantre",
+     "gloss": "in-svatantra",
+     "grounds": "locative singular of svatantra",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śaṃbhunā",
+     "gloss": "by-śambhu",
+     "grounds": "instrumental singular of Śambhu",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "neuter nominative singular passive past participle of smṛ",
+     "morph": "n.nom.sg.pass.past.part"
+    }
+   ],
+   "question": "Which root is declared in svatantra by Śambhu and remembered?",
+   "premises": [
+    "turyā means fourth",
+    "idaṃ mūlam means this root",
+    "proktaṃ means declared",
+    "svatantre means in svatantra",
+    "śaṃbhunā means by Śambhu",
+    "smṛtam means remembered"
+   ],
+   "inference": "The fourth root is declared in svatantra by Śambhu and remembered.",
+   "uncertainties": [
+    "the exact referent of turyā is not specified in this verse"
+   ],
+   "plain_english": "This root, the fourth, is declared in svatantra by Śambhu and remembered."
+  }
+ ]
+}

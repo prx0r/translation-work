@@ -1,0 +1,1209 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2301,
+   "rows": [
+    {
+     "surface": "anujñā",
+     "gloss": "permission",
+     "grounds": "request for consent in ritual",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vākyaṃ",
+     "gloss": "statement",
+     "grounds": "spoken formula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-formulate",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "What ritual formula must the officiant formulate at this stage?",
+   "premises": [
+    "A permission statement is required in the rite",
+    "The officiant must actively formulate it"
+   ],
+   "inference": "The officiant should formulate the permission statement.",
+   "uncertainties": [],
+   "plain_english": "One should formulate the statement of permission."
+  },
+  {
+   "verse": 2302,
+   "rows": [
+    {
+     "surface": "mātāmahānāṃ",
+     "gloss": "of-maternal-grandfathers",
+     "grounds": "maternal ancestors",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātāmahyā",
+     "gloss": "of-maternal-grandmother",
+     "grounds": "maternal female ancestor",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "ādīnām",
+     "gloss": "and-others",
+     "grounds": "inclusive series marker",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "priye",
+     "gloss": "o-beloved",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which maternal ancestors are included in the permission formula addressed to the beloved?",
+   "premises": [
+    "Maternal grandfathers are named",
+    "The maternal grandmother and others are also included"
+   ],
+   "inference": "The permission formula includes maternal grandfathers, the maternal grandmother, and others.",
+   "uncertainties": [
+    "ādīnām leaves the full list unspecified"
+   ],
+   "plain_english": "O beloved, this also includes the maternal grandfathers, the maternal grandmother, and others."
+  },
+  {
+   "verse": 2303,
+   "rows": [
+    {
+     "surface": "viśveṣām",
+     "gloss": "of-all",
+     "grounds": "refers to Viśve Devas",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "śrāddhaṃ",
+     "gloss": "śrāddha",
+     "grounds": "ancestral rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "term to be uttered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udīrayet",
+     "gloss": "one-should-utter",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √ud-īr"
+    }
+   ],
+   "question": "What word must be uttered for the śrāddha of the Viśve Devas?",
+   "premises": [
+    "The Viśve Devas are included in the rite",
+    "A specific word for śrāddha must be spoken"
+   ],
+   "inference": "One should utter the word śrāddha for the Viśve Devas.",
+   "uncertainties": [],
+   "plain_english": "One should indeed utter the word śrāddha for all the gods, the Viśve Devas."
+  },
+  {
+   "verse": 2304,
+   "rows": [
+    {
+     "surface": "kariṣye",
+     "gloss": "i-will-perform",
+     "grounds": "declarative intent",
+     "morph": "1.sg.fut.mid √kṛ"
+    },
+    {
+     "surface": "parameśāni",
+     "gloss": "o-supreme-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anujñā",
+     "gloss": "permission",
+     "grounds": "request for consent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vākyam",
+     "gloss": "statement",
+     "grounds": "spoken formula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "īritam",
+     "gloss": "is-declared",
+     "grounds": "prescribed formulation",
+     "morph": "n.nom.sg.ppp √īr"
+    }
+   ],
+   "question": "How is the permission statement for performing the rite declared?",
+   "premises": [
+    "The officiant declares intent to perform the rite",
+    "This declaration constitutes the permission statement"
+   ],
+   "inference": "The permission statement is declared as 'I will perform, O supreme goddess.'",
+   "uncertainties": [],
+   "plain_english": "The permission statement is declared thus: 'I will perform it, O supreme goddess.'"
+  },
+  {
+   "verse": 2305,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "analogical extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātāmahasya",
+     "gloss": "of-maternal-grandfather",
+     "grounds": "maternal ancestor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-case",
+     "grounds": "context or side of rite",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "anujñā",
+     "gloss": "permission",
+     "grounds": "request for consent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "prakīrtitā",
+     "gloss": "is-declared",
+     "grounds": "prescribed formulation",
+     "morph": "f.nom.sg.ppp pra-√kīrt"
+    }
+   ],
+   "question": "Is the same permission formula declared for the maternal grandfather's case?",
+   "premises": [
+    "The rite includes the maternal grandfather's side",
+    "The permission formula is extended analogically"
+   ],
+   "inference": "The permission statement is likewise declared in the case of the maternal grandfather.",
+   "uncertainties": [],
+   "plain_english": "Likewise, the permission statement is declared in the case of the maternal grandfather."
+  },
+  {
+   "verse": 2306,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "concluding marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātāmaha",
+     "gloss": "maternal-grandfather",
+     "grounds": "first member of compound",
+     "morph": "compound:mātāmaha+pakṣe"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-case",
+     "grounds": "second member of compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "manner indicator",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anujñā",
+     "gloss": "permission",
+     "grounds": "first member of compound",
+     "morph": "compound:anujñā+vākyam"
+    },
+    {
+     "surface": "vākyaṃ",
+     "gloss": "statement",
+     "grounds": "second member of compound",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prakalpanīyam",
+     "gloss": "to-be-formulated",
+     "grounds": "obligatory ritual action",
+     "morph": "n.nom.sg.gerundive pra-√kḷp"
+    }
+   ],
+   "question": "Must the permission statement be formulated in the same way for the maternal grandfather's side?",
+   "premises": [
+    "The maternal grandfather's case is explicitly included",
+    "The same formulation is required"
+   ],
+   "inference": "The permission statement must be formulated in exactly the same way for the maternal grandfather's side.",
+   "uncertainties": [],
+   "plain_english": "Thus, in the case of the maternal grandfather also, the permission statement must be formulated in just the same way."
+  },
+  {
+   "verse": 2307,
+   "rows": [
+    {
+     "surface": "p. 286",
+     "gloss": "page-286",
+     "grounds": "editorial page marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "first member of compound",
+     "morph": "compound:brahma+vidyām"
+    },
+    {
+     "surface": "vidyāṃ",
+     "gloss": "knowledge",
+     "grounds": "sacred knowledge or mantra",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gāyatrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "specific mantra",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "ten-times",
+     "grounds": "number of repetitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What mantra recitation must follow after formulating the permission statement?",
+   "premises": [
+    "The sequence moves to recitation after permission",
+    "The Brahman-knowledge Gāyatrī is specified"
+   ],
+   "inference": "One should then recite the Brahman-knowledge Gāyatrī ten times.",
+   "uncertainties": [
+    "brahma vidyāṃ may refer to a specific mantra or knowledge"
+   ],
+   "plain_english": "Then, O Śivā, one should recite the Brahman-knowledge, the Gāyatrī, ten times."
+  },
+  {
+   "verse": 2308,
+   "rows": [
+    {
+     "surface": "namo",
+     "gloss": "homage",
+     "grounds": "reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astu",
+     "gloss": "be",
+     "grounds": "optative wish",
+     "morph": "3.sg.imp.act √as"
+    },
+    {
+     "surface": "puṣṭyai",
+     "gloss": "to-puṣṭi",
+     "grounds": "goddess of nourishment",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "svāhāyai",
+     "gloss": "to-svāhā",
+     "grounds": "goddess of oblation",
+     "morph": "f.dat.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "perpetual duration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavantu",
+     "gloss": "may-they-be",
+     "grounds": "optative wish",
+     "morph": "3.pl.imp.act √bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What salutation formula is prescribed for Puṣṭi and Svāhā in the rite?",
+   "premises": [
+    "Homage is directed to Puṣṭi and Svāhā",
+    "The salutation is to be perpetual"
+   ],
+   "inference": "The formula 'Homage be to Puṣṭi and to Svāhā, may they always be' is prescribed.",
+   "uncertainties": [],
+   "plain_english": "Thus: 'Homage be to Puṣṭi and to Svāhā; may they always indeed be.'"
+  },
+  {
+   "verse": 2309,
+   "rows": [
+    {
+     "surface": "va/ hū/ phaḍiti",
+     "gloss": "va-hūṃ-phaṭ",
+     "grounds": "bīja syllables and closing utterance, transliterated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental means",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "śrāddha",
+     "gloss": "śrāddha",
+     "grounds": "first member of compound",
+     "morph": "compound:śrāddha+dravyāṇi"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "materials",
+     "grounds": "ritual substances",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √śudh-caus"
+    }
+   ],
+   "question": "By what mantra should the śrāddha materials be purified?",
+   "premises": [
+    "Śrāddha materials require purification",
+    "A specific mantra is prescribed for this act"
+   ],
+   "inference": "One should purify the śrāddha materials with the mantra va/ hū/ phaḍiti.",
+   "uncertainties": [
+    "exact segmentation of va/ hū/ phaḍiti as mantra units"
+   ],
+   "plain_english": "One should purify the śrāddha materials with the mantra va/ hū/ phaḍiti."
+  },
+  {
+   "verse": 2310,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uktvā",
+     "gloss": "having-said",
+     "grounds": "prior verbal action",
+     "morph": "(gerund) √vac"
+    },
+    {
+     "surface": "bhājane",
+     "gloss": "in-vessel",
+     "grounds": "ritual container",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tasmin",
+     "gloss": "in-that",
+     "grounds": "demonstrative reference",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tulasī",
+     "gloss": "tulasī",
+     "grounds": "first member of compound",
+     "morph": "compound:tulasī+dala"
+    },
+    {
+     "surface": "dala",
+     "gloss": "leaf",
+     "grounds": "second member of compound",
+     "morph": "compound:tulasī+dala+saṃyutam"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "endowed-with",
+     "grounds": "accompanied by",
+     "morph": "n.acc.sg.ppp sam-√yu"
+    }
+   ],
+   "question": "What preparation must be made in the vessel after speaking the formula?",
+   "premises": [
+    "The formula is spoken first",
+    "A vessel is prepared with a tulasī leaf"
+   ],
+   "inference": "After saying this, one should prepare that vessel endowed with a tulasī leaf.",
+   "uncertainties": [],
+   "plain_english": "Having said this, in that vessel endowed with a tulasī leaf..."
+  },
+  {
+   "verse": 2311,
+   "rows": [
+    {
+     "surface": "viprebhyo",
+     "gloss": "to-brāhmaṇas",
+     "grounds": "ritual recipients",
+     "morph": "m.dat.pl"
+    },
+    {
+     "surface": "jala",
+     "gloss": "water",
+     "grounds": "first member of compound",
+     "morph": "compound:jala+gaṇḍūṣaṃ"
+    },
+    {
+     "surface": "gaṇḍūṣaṃ",
+     "gloss": "mouthful",
+     "grounds": "water for rinsing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "prior action",
+     "morph": "(gerund) √dā"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "one-should-give",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √dā"
+    },
+    {
+     "surface": "kuśa",
+     "gloss": "kuśa",
+     "grounds": "first member of compound",
+     "morph": "compound:kuśa+āsanam"
+    },
+    {
+     "surface": "āsanam",
+     "gloss": "seat",
+     "grounds": "ritual seat",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must be given to the brāhmaṇas after offering water for rinsing?",
+   "premises": [
+    "Brāhmaṇas receive water for rinsing first",
+    "A kuśa seat is given afterward"
+   ],
+   "inference": "After giving water for rinsing to the brāhmaṇas, one should give a kuśa seat.",
+   "uncertainties": [],
+   "plain_english": "Having given a mouthful of water to the brāhmaṇas, one should give a seat of kuśa grass."
+  },
+  {
+   "verse": 2312,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anujñā",
+     "gloss": "permission",
+     "grounds": "first member of compound",
+     "morph": "compound:anujñā+vākya"
+    },
+    {
+     "surface": "vākya",
+     "gloss": "statement",
+     "grounds": "second member of compound",
+     "morph": "compound:anujñā+vākya+kalpanāt"
+    },
+    {
+     "surface": "kalpanāt",
+     "gloss": "from-formulation",
+     "grounds": "completion of formulation",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "anantaram",
+     "gloss": "after",
+     "grounds": "immediate sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "|| 31",
+     "gloss": "verse-31",
+     "grounds": "verse number marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action follows immediately after formulating the permission statement?",
+   "premises": [
+    "The permission statement has been formulated",
+    "The next step occurs immediately after"
+   ],
+   "inference": "The next ritual action takes place immediately after the formulation of the permission statement.",
+   "uncertainties": [],
+   "plain_english": "Then, immediately after the formulation of the permission statement. || 31"
+  },
+  {
+   "verse": 2313,
+   "rows": [
+    {
+     "surface": "śrāddha",
+     "gloss": "śrāddha",
+     "grounds": "first member of compound",
+     "morph": "compound:śrāddha+dravyāṇi"
+    },
+    {
+     "surface": "dravyāṇi",
+     "gloss": "materials",
+     "grounds": "ritual substances",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √śudh-caus"
+    }
+   ],
+   "question": "What must be done to the śrāddha materials at this stage?",
+   "premises": [
+    "Śrāddha materials are present in the rite",
+    "Purification is required"
+   ],
+   "inference": "One should purify the śrāddha materials.",
+   "uncertainties": [],
+   "plain_english": "One should purify the śrāddha materials."
+  },
+  {
+   "verse": 2314,
+   "rows": [
+    {
+     "surface": "mātṝr",
+     "gloss": "mothers",
+     "grounds": "female ancestors",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "mātāmahān",
+     "gloss": "maternal-grandfathers",
+     "grounds": "maternal male ancestors",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "analogical extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātāmahīḥ",
+     "gloss": "maternal-grandmothers",
+     "grounds": "maternal female ancestors",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which maternal ancestors are to be included alongside the mothers in the rite?",
+   "premises": [
+    "Mothers are included in the rite",
+    "Maternal grandfathers and maternal grandmothers are also included"
+   ],
+   "inference": "The mothers, maternal grandfathers, and maternal grandmothers are all included.",
+   "uncertainties": [],
+   "plain_english": "O Śivā, the mothers, and also the maternal grandfathers, and likewise the maternal grandmothers."
+  },
+  {
+   "verse": 2315,
+   "rows": [
+    {
+     "surface": "pitṛ",
+     "gloss": "father",
+     "grounds": "first member of compound",
+     "morph": "compound:pitṛ+trayaṃ"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "group of three",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "analogical extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mātṛ",
+     "gloss": "mother",
+     "grounds": "first member of compound",
+     "morph": "compound:mātṛ+trayaṃ"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "triad",
+     "grounds": "group of three",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātāmaha",
+     "gloss": "maternal-grandfather",
+     "grounds": "first member of compound",
+     "morph": "compound:mātāmaha+trayam"
+    },
+    {
+     "surface": "trayam",
+     "gloss": "triad",
+     "grounds": "group of three",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which three ancestral triads must be addressed in the śrāddha ritual?",
+   "premises": [
+    "The paternal triad is included",
+    "The maternal and maternal-grandfather triads are likewise included"
+   ],
+   "inference": "The paternal triad, maternal triad, and maternal-grandfather triad must all be addressed.",
+   "uncertainties": [],
+   "plain_english": "The paternal triad, likewise the maternal triad, and the maternal-grandfather triad."
+  },
+  {
+   "verse": 2316,
+   "rows": [
+    {
+     "surface": "pātrāṇāṃ",
+     "gloss": "of-vessels",
+     "grounds": "ritual containers",
+     "morph": "n.gen.pl"
+    },
+    {
+     "surface": "pātana",
+     "gloss": "placing",
+     "grounds": "first member of compound",
+     "morph": "compound:pātana+praśnaṃ"
+    },
+    {
+     "surface": "praśnaṃ",
+     "gloss": "question",
+     "grounds": "ritual inquiry or request",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "daiva",
+     "gloss": "divine",
+     "grounds": "first member of compound",
+     "morph": "compound:daiva+kramāt"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "by-order",
+     "grounds": "prescribed sequence",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-śivā",
+     "grounds": "vocative address to goddess",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "In what order should the question regarding the placing of vessels be made?",
+   "premises": [
+    "A question about placing vessels is required",
+    "The divine order governs the sequence"
+   ],
+   "inference": "One should make the question about placing the vessels according to the divine order.",
+   "uncertainties": [
+    "praśnaṃ may mean a ritual request rather than a question"
+   ],
+   "plain_english": "O Śivā, one should make the inquiry regarding the placing of the vessels according to the divine order."
+  },
+  {
+   "verse": 2317,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "number",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "repeated for distribution",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍale",
+     "gloss": "circles",
+     "grounds": "ritual diagrams or areas",
+     "morph": "n.acc.du"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "tadvat",
+     "gloss": "likewise",
+     "grounds": "analogical extension",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣa",
+     "gloss": "side",
+     "grounds": "first member of compound",
+     "morph": "compound:pakṣa+dvayor"
+    },
+    {
+     "surface": "dvayor",
+     "gloss": "of-two",
+     "grounds": "both sides",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many circles must be made on both sides of the ritual arrangement?",
+   "premises": [
+    "Circles are to be made in the rite",
+    "Both sides require the same arrangement"
+   ],
+   "inference": "One should make two circles each on both sides.",
+   "uncertainties": [],
+   "plain_english": "One should make two circles each, likewise on both sides as well."
+  },
+  {
+   "verse": 2318,
+   "rows": [
+    {
+     "surface": "pāna",
+     "gloss": "drinking",
+     "grounds": "first member of compound",
+     "morph": "compound:pāna+artha"
+    },
+    {
+     "surface": "artha",
+     "gloss": "for-purpose",
+     "grounds": "purpose marker",
+     "morph": "compound:pāna+artha+pāthasā"
+    },
+    {
+     "surface": "pāthasā",
+     "gloss": "with-water",
+     "grounds": "instrumental substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "annāni",
+     "gloss": "foods",
+     "grounds": "offerings",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "prescribed sequence",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pariveśayet",
+     "gloss": "one-should-serve",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act pari-√viś-caus"
+    }
+   ],
+   "question": "In what manner should water and food be served for drinking and eating?",
+   "premises": [
+    "Water and food are to be served",
+    "A prescribed order must be followed"
+   ],
+   "inference": "One should serve water for drinking and foods in due order.",
+   "uncertainties": [
+    "pāthasā annāni may be read as water and foods together"
+   ],
+   "plain_english": "One should serve water for drinking and foods in proper order."
+  },
+  {
+   "verse": 2319,
+   "rows": [
+    {
+     "surface": "prati kuryāt",
+     "gloss": "one-should-do",
+     "grounds": "ritual action, written as two words in source",
+     "morph": "3.sg.opt.act prati-√kṛ"
+    },
+    {
+     "surface": "|| 37",
+     "gloss": "verse-37",
+     "grounds": "verse number marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What concluding action is enjoined at the end of this ritual step?",
+   "premises": [
+    "A ritual step has been described",
+    "A corresponding action must be performed"
+   ],
+   "inference": "One should perform the corresponding action.",
+   "uncertainties": [
+    "object of prati kuryāt is implied from context"
+   ],
+   "plain_english": "One should perform it accordingly. || 37"
+  },
+  {
+   "verse": 2320,
+   "rows": [
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circles",
+     "grounds": "ritual areas",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    }
+   ],
+   "question": "Where must the prescribed ritual arrangement be made?",
+   "premises": [
+    "A ritual arrangement is required",
+    "Circles are the designated location"
+   ],
+   "inference": "One should make the arrangement in the circles.",
+   "uncertainties": [
+    "object of kuryāt is implied from context"
+   ],
+   "plain_english": "One should make it in the circles."
+  },
+  {
+   "verse": 2321,
+   "rows": [
+    {
+     "surface": "daiva",
+     "gloss": "divine",
+     "grounds": "first member of compound",
+     "morph": "compound:daiva+ādi"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "and-other",
+     "grounds": "inclusive series marker",
+     "morph": "compound:daiva+ādi+kramataḥ"
+    },
+    {
+     "surface": "kramataḥ",
+     "gloss": "in-order",
+     "grounds": "prescribed sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pariveśayet",
+     "gloss": "one-should-serve",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act pari-√viś-caus"
+    }
+   ],
+   "question": "In what sequence should the offerings be served during the rite?",
+   "premises": [
+    "Offerings must be served",
+    "The sequence begins with the divine portion and others"
+   ],
+   "inference": "One should serve in order beginning with the divine and so forth.",
+   "uncertainties": [],
+   "plain_english": "One should serve in order, beginning with the divine portion and so on."
+  },
+  {
+   "verse": 2322,
+   "rows": [
+    {
+     "surface": "saṃprokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "purificatory action",
+     "morph": "(gerund) sam-pra-√ukṣ"
+    },
+    {
+     "surface": "annāni",
+     "gloss": "foods",
+     "grounds": "offerings",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "totality of offerings",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "viśvān",
+     "gloss": "all",
+     "grounds": "refers to Viśve Devas",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "devān",
+     "gloss": "gods",
+     "grounds": "deities",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pitṝn",
+     "gloss": "ancestors",
+     "grounds": "paternal forebears",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "To whom must all the sprinkled foods be dedicated in the rite?",
+   "premises": [
+    "All foods are sprinkled for purification",
+    "The Viśve Devas and ancestors are recipients"
+   ],
+   "inference": "After sprinkling all the foods, they are dedicated to the Viśve Devas and the ancestors.",
+   "uncertainties": [],
+   "plain_english": "Having sprinkled all the foods, to the Viśve Devas and likewise to the ancestors..."
+  },
+  {
+   "verse": 2323,
+   "rows": [
+    {
+     "surface": "nivedya",
+     "gloss": "having-dedicated",
+     "grounds": "ritual offering action",
+     "morph": "(gerund) ni-√vid-caus"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "divine feminine",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "gāyatrīṃ",
+     "gloss": "gāyatrī",
+     "grounds": "specific mantra",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devatābhyaḥ",
+     "gloss": "to-deities",
+     "grounds": "recipients of offering",
+     "morph": "f.dat.pl"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "thrice",
+     "grounds": "number of repetitions",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paṭhet",
+     "gloss": "one-should-recite",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √paṭh"
+    }
+   ],
+   "question": "How many times must the Gāyatrī be recited to the deities after dedication?",
+   "premises": [
+    "The offerings are dedicated to the deities",
+    "The Gāyatrī mantra is recited as part of the rite"
+   ],
+   "inference": "After dedicating, one should recite the goddess Gāyatrī thrice to the deities.",
+   "uncertainties": [],
+   "plain_english": "Having dedicated them, one should recite the goddess Gāyatrī thrice to the deities."
+  },
+  {
+   "verse": 2324,
+   "rows": [
+    {
+     "surface": "śeṣa",
+     "gloss": "remaining",
+     "grounds": "first member of compound",
+     "morph": "compound:śeṣa+anna"
+    },
+    {
+     "surface": "anna",
+     "gloss": "food",
+     "grounds": "second member of compound",
+     "morph": "compound:śeṣa+anna+piṇḍayoḥ"
+    },
+    {
+     "surface": "piṇḍayoḥ",
+     "gloss": "and-balls",
+     "grounds": "ritual food balls",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "praśnau",
+     "gloss": "questions",
+     "grounds": "ritual inquiries or requests",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "ādye",
+     "gloss": "in-first",
+     "grounds": "initial stage",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "subsequent stage",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the inquiries regarding the remaining food and the piṇḍas be made?",
+   "premises": [
+    "Inquiries concern the remaining food and piṇḍas",
+    "They are made in sequence, first and then after"
+   ],
+   "inference": "One should make the inquiries regarding the remaining food and piṇḍas first and then afterward.",
+   "uncertainties": [
+    "praśnau may mean ritual requests rather than questions"
+   ],
+   "plain_english": "One should make the inquiries regarding the remaining food and the piṇḍas, first and then afterward."
+  }
+ ]
+}

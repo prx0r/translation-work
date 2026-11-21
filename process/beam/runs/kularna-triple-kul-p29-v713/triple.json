@@ -1,0 +1,467 @@
+{
+ "song": "kul-p29",
+ "items": [
+  {
+   "verse": 713,
+   "rows": [
+    {
+     "surface": "yantre",
+     "gloss": "in-yantra",
+     "grounds": "locative singular of yantra",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "feminine nominative singular pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "past participle feminine nominative singular",
+     "morph": "f.nom.sg.participle"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sahasaiva",
+     "gloss": "immediately",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prasīdati",
+     "gloss": "becomes-pleased",
+     "grounds": "third singular active present of prasad",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What happens when the goddess is worshipped in the yantra?",
+   "premises": [
+    "the goddess is worshipped in the yantra",
+    "worship in the yantra is performed",
+    "the goddess becomes pleased immediately"
+   ],
+   "inference": "worship in the yantra immediately pleases the goddess",
+   "uncertainties": [
+    "exact ritual context of yantra worship"
+   ],
+   "plain_english": "When she is worshipped in the yantra, O goddess, she becomes pleased immediately."
+  },
+  {
+   "verse": 714,
+   "rows": [
+    {
+     "surface": "yantramityāhuretasmin",
+     "gloss": "yantra-thus-they-say-in-this",
+     "grounds": "fused sandhi phrase: yantram iti āhuḥ etasmin",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "god",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prīṇāti",
+     "gloss": "pleases",
+     "grounds": "third singular active present of prī",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "pūjitaḥ",
+     "gloss": "worshipped",
+     "grounds": "masculine nominative singular past participle",
+     "morph": "m.nom.sg.participle"
+    }
+   ],
+   "question": "What does worship in the yantra accomplish for the god?",
+   "premises": [
+    "they call this a yantra",
+    "the god is worshipped in it",
+    "the worshipped god pleases"
+   ],
+   "inference": "worship in the yantra pleases the god",
+   "uncertainties": [
+    "fused phrase internal parsing"
+   ],
+   "plain_english": "In this, which they call a yantra, the god, when worshipped, pleases."
+  },
+  {
+   "verse": 715,
+   "rows": [
+    {
+     "surface": "sarveṣāmapi",
+     "gloss": "of-all",
+     "grounds": "genitive plural sarveṣām plus api",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "devānāṃ",
+     "gloss": "of-gods",
+     "grounds": "genitive plural of deva",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "so",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yantraṃ",
+     "gloss": "yantra",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pratiṣṭhitam",
+     "gloss": "installed",
+     "grounds": "neuter accusative singular past participle",
+     "morph": "n.acc.sg.participle"
+    }
+   ],
+   "question": "For whom is the yantra installed?",
+   "premises": [
+    "the yantra is installed",
+    "it is installed for all gods",
+    "so it applies to all gods"
+   ],
+   "inference": "a yantra is installed for all gods",
+   "uncertainties": [
+    "whether pratiṣṭhitam is passive participle"
+   ],
+   "plain_english": "So a yantra is installed for all the gods."
+  },
+  {
+   "verse": 716,
+   "rows": [
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "absolutive of jñā",
+     "morph": "abs"
+    },
+    {
+     "surface": "gurumukhāt",
+     "gloss": "from-guru's-mouth",
+     "grounds": "ablative singular compound",
+     "morph": "m.abl.sg.compound"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūjayedvidhinā",
+     "gloss": "worships-by-rule",
+     "grounds": "fused vidhinā with pūjayet",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular of priyā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How should one worship after learning from the guru?",
+   "premises": [
+    "one learns all from the guru's mouth",
+    "one worships by rule",
+    "the beloved is addressed"
+   ],
+   "inference": "after learning from the guru, one worships all by rule",
+   "uncertainties": [
+    "exact scope of sarvaṃ"
+   ],
+   "plain_english": "Having learned all from the guru's mouth, O beloved, one worships by rule."
+  },
+  {
+   "verse": 717,
+   "rows": [
+    {
+     "surface": "aṅgāṅgitvaṃ",
+     "gloss": "limb-limbhood",
+     "grounds": "compound noun in nominative singular",
+     "morph": "n.nom.sg.compound"
+    },
+    {
+     "surface": "parityajya",
+     "gloss": "abandoning",
+     "grounds": "absolutive of parityaj",
+     "morph": "abs"
+    },
+    {
+     "surface": "devatāśāpamāpnuyāt",
+     "gloss": "obtains-curse-of-deity",
+     "grounds": "fused devatā-śāpam with āpnuyāt",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What happens if limb-limbhood is abandoned?",
+   "premises": [
+    "limb-limbhood is abandoned",
+    "the deity's curse is obtained",
+    "abandoning it brings curse"
+   ],
+   "inference": "abandoning limb-limbhood brings the deity's curse",
+   "uncertainties": [
+    "exact meaning of aṅgāṅgitvaṃ"
+   ],
+   "plain_english": "Abandoning limb-limbhood, one obtains the deity's curse."
+  },
+  {
+   "verse": 718,
+   "rows": [
+    {
+     "surface": "yajedāvaraṇopetā",
+     "gloss": "worships-with-covering",
+     "grounds": "fused yajet with āvaraṇopetā",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "feminine accusative or nominative plural",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "tadvidhānataḥ",
+     "gloss": "by-that-procedure",
+     "grounds": "ablative or instrumental of tadvidhāna",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the covered deities be worshipped?",
+   "premises": [
+    "the deities are covered",
+    "they are worshipped",
+    "worship follows that procedure"
+   ],
+   "inference": "covered deities are worshipped by that procedure",
+   "uncertainties": [
+    "fused verb-participle parsing"
+   ],
+   "plain_english": "One worships the deities with covering by that procedure."
+  },
+  {
+   "verse": 719,
+   "rows": [
+    {
+     "surface": "ubhābhyāṃ",
+     "gloss": "by-both",
+     "grounds": "instrumental dual of ubha",
+     "morph": "instr.du"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "third singular middle present of labh",
+     "morph": "3.sg.mid-pres"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "neuter accusative singular",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-holder",
+     "grounds": "masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cañcalamānasaḥ",
+     "gloss": "restless-mind",
+     "grounds": "masculine nominative singular compound",
+     "morph": "m.nom.sg.compound"
+    }
+   ],
+   "question": "What does a restless-minded mantra-holder obtain?",
+   "premises": [
+    "the mantra-holder has a restless mind",
+    "he obtains sin by both",
+    "restlessness brings sin"
+   ],
+   "inference": "a restless-minded mantra-holder obtains sin",
+   "uncertainties": [
+    "referent of ubhābhyāṃ"
+   ],
+   "plain_english": "A mantra-holder with a restless mind obtains sin by both."
+  },
+  {
+   "verse": 720,
+   "rows": [
+    {
+     "surface": "vidhinābhyarcayet",
+     "gloss": "worships-by-rule",
+     "grounds": "fused vidhinā with abhyarcayet",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "samyagdevatā",
+     "gloss": "properly-deity",
+     "grounds": "fused samyak with devatā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "suprasīdati",
+     "gloss": "becomes-very-pleased",
+     "grounds": "third singular active present of suprasad",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What follows from proper worship by rule?",
+   "premises": [
+    "one worships by rule",
+    "the deity is proper",
+    "the deity becomes very pleased"
+   ],
+   "inference": "proper worship by rule makes the deity very pleased",
+   "uncertainties": [
+    "fused adjective-noun parsing"
+   ],
+   "plain_english": "Worshipping by rule, the deity becomes very pleased."
+  },
+  {
+   "verse": 721,
+   "rows": [
+    {
+     "surface": "pūjayenmūlamantreṇa",
+     "gloss": "worships-by-root-mantra",
+     "grounds": "fused pūjayet with mūlamantreṇa",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "gandhapuṣpākṣatādibhiḥ",
+     "gloss": "with-sandal-flower-rice-etc",
+     "grounds": "instrumental plural compound",
+     "morph": "instr.pl"
+    }
+   ],
+   "question": "With what should one worship by the root mantra?",
+   "premises": [
+    "one worships by the root mantra",
+    "sandal, flower, rice and so on are used",
+    "worship uses these offerings"
+   ],
+   "inference": "one worships by the root mantra with sandal, flower, rice and so on",
+   "uncertainties": [
+    "exact list of offerings"
+   ],
+   "plain_english": "One worships by the root mantra with sandal, flower, rice and so on."
+  },
+  {
+   "verse": 722,
+   "rows": [
+    {
+     "surface": "praṇavādinamo'ntena",
+     "gloss": "with-om-etc-namah-ending",
+     "grounds": "fused praṇavādi with namo'ntena",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "tattannāmnā",
+     "gloss": "by-each-name",
+     "grounds": "instrumental singular of tat-tat-nāman",
+     "morph": "instr.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "worships",
+     "grounds": "third singular optative active of samarc",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How should one worship by each name?",
+   "premises": [
+    "worship uses om and so on with namah ending",
+    "each name is used",
+    "one worships accordingly"
+   ],
+   "inference": "one worships with om and so on, ending in namah, by each name",
+   "uncertainties": [
+    "fused mantra-ending parsing"
+   ],
+   "plain_english": "One worships with om and so on, ending in namah, by each name."
+  },
+  {
+   "verse": 723,
+   "rows": [
+    {
+     "surface": "svapātraspandanisyandaṃ",
+     "gloss": "own-vessel-vibration-flow",
+     "grounds": "compound accusative singular",
+     "morph": "n.acc.sg.compound"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "O-Kulanayika",
+     "grounds": "vocative singular of kulanāyikā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What is offered according to rule to Kulanayika?",
+   "premises": [
+    "the offering is own vessel vibration flow",
+    "it is offered according to rule",
+    "Kulanayika is addressed"
+   ],
+   "inference": "the own vessel vibration flow is offered according to rule to Kulanayika",
+   "uncertainties": [
+    "exact ritual meaning of svapātraspandanisyandaṃ"
+   ],
+   "plain_english": "O Kulanayika, the flow from one's own vessel's vibration is offered according to rule."
+  },
+  {
+   "verse": 724,
+   "rows": [
+    {
+     "surface": "antaḥśaktiṃ",
+     "gloss": "inner-power",
+     "grounds": "feminine accusative singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "samutthāpya",
+     "gloss": "having-raised",
+     "grounds": "absolutive of samutthāp",
+     "morph": "abs"
+    },
+    {
+     "surface": "tarpayeddehadevatāḥ",
+     "gloss": "satisfies-body-deities",
+     "grounds": "fused tarpayet with dehadevatāḥ",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What happens after raising the inner power?",
+   "premises": [
+    "inner power is raised",
+    "body deities are satisfied",
+    "raising power leads to satisfaction"
+   ],
+   "inference": "after raising the inner power, one satisfies the body deities",
+   "uncertainties": [
+    "fused verb-object parsing"
+   ],
+   "plain_english": "Having raised the inner power, one satisfies the body deities."
+  }
+ ]
+}

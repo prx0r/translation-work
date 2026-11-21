@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p183",
+ "items": [
+  {
+   "verse": 4575,
+   "rows": [
+    {
+     "surface": "īśāna+ādi+catuḥ+koṇe",
+     "gloss": "in-ishana-etc-four-corners",
+     "grounds": "fused compound locative; internal sandhi marked by plus signs",
+     "morph": "loc.sg.m/n"
+    },
+    {
+     "surface": "sabhā+ādyaṃ",
+     "gloss": "assembly-etc",
+     "grounds": "fused compound accusative; internal sandhi marked by plus sign",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "optative third singular active from root kḷp",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where should the assembly and related elements be arranged in the ritual layout?",
+   "premises": [
+    "īśāna corner marks starting point",
+    "assembly etc placed there",
+    "kalpayet prescribes arrangement"
+   ],
+   "inference": "The verse directs arranging assembly etc in the īśāna corner.",
+   "uncertainties": [
+    "exact ritual referents of sabhā+ādyaṃ remain unspecified"
+   ],
+   "plain_english": "One should arrange the assembly and the rest there in the īśāna corner."
+  }
+ ]
+}

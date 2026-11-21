@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p11",
+ "items": [
+  {
+   "verse": 275,
+   "rows": [
+    {
+     "surface": "bhavanti",
+     "gloss": "are",
+     "grounds": "finite verb indicating suitability or presence",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "karṣa+māṇam",
+     "gloss": "karṣa-measure",
+     "grounds": "compound specifying a quantity of one karṣa",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction connecting items or measures",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guḍaṃ",
+     "gloss": "molasses",
+     "grounds": "substance named as an offering material",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pala+ārddha+mātrakam",
+     "gloss": "half-pala-measure",
+     "grounds": "compound specifying a quantity of half a pala",
+     "morph": "compound"
+    }
+   ],
+   "question": "What measured quantities of molasses are prescribed as suitable for the oblation?",
+   "premises": [
+    "Molasses is specified as a material for the oblation.",
+    "One prescribed quantity of molasses is a karṣa-measure.",
+    "Another prescribed quantity of molasses is a half-pala-measure."
+   ],
+   "inference": "Molasses in quantities of one karṣa and half a pala is suitable for use in the oblation.",
+   "uncertainties": [
+    "The exact syntactic coordination between the two measure expressions is somewhat compressed."
+   ],
+   "plain_english": "Molasses measuring one karṣa and molasses measuring half a pala are suitable for the oblation."
+  }
+ ]
+}

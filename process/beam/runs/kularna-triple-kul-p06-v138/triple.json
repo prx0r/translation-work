@@ -1,0 +1,551 @@
+{
+ "song": "kul-p06",
+ "items": [
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "adverb of manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyasamayasyāpi",
+     "gloss": "even-of-other-samaya",
+     "grounds": "genitive singular masculine/neuter of anyasamaya with api",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kulasya",
+     "gloss": "of-kula",
+     "grounds": "genitive singular neuter of kula",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mahadantaram",
+     "gloss": "great-difference",
+     "grounds": "compound mahat + antara",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How great is the difference between kula and other samaya?",
+   "premises": [
+    "other samaya differs greatly from kula",
+    "kula stands apart from other samaya"
+   ],
+   "inference": "kula is not equivalent to other samaya",
+   "uncertainties": [
+    "anyasamaya may denote another vow or school"
+   ],
+   "plain_english": "Thus there is a great difference between kula and any other samaya."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "kulena",
+     "gloss": "by-kula",
+     "grounds": "instrumental singular neuter of kula",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "samadharmastu",
+     "gloss": "same-dharma-but",
+     "grounds": "compound sama + dharma with tu",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tathāpi",
+     "gloss": "thus-also",
+     "grounds": "adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indefinite adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the same dharma ever found through kula?",
+   "premises": [
+    "kula has its own dharma",
+    "same dharma is not found through kula"
+   ],
+   "inference": "kula dharma remains distinct",
+   "uncertainties": [
+    "samadharmastu may be concessive"
+   ],
+   "plain_english": "Even so, the same dharma is never found through kula."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "baddhaḥ",
+     "gloss": "bound",
+     "grounds": "past participle of bandh",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saṃsārapāśena",
+     "gloss": "by-saṃsāra-noose",
+     "grounds": "instrumental singular masculine of compound",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "so'ntyajānāṃ",
+     "gloss": "he-of-those-who-abandon",
+     "grounds": "fused form so + antyajānām",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "priyo",
+     "gloss": "beloved",
+     "grounds": "nominative singular masculine of priya",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative third singular of bhū",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Who becomes beloved among those who abandon?",
+   "premises": [
+    "one bound by saṃsāra's noose",
+    "he becomes beloved among abandoners"
+   ],
+   "inference": "bondage and abandonment are contrasted",
+   "uncertainties": [
+    "so'ntyajānāṃ parsing is fused"
+   ],
+   "plain_english": "Bound by the noose of saṃsāra, he becomes beloved among those who abandon."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "brahmahatyādhikaṃ",
+     "gloss": "greater-than-brahmin-killing",
+     "grounds": "compound brahmahatyā + adhika",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pāpaṃ",
+     "gloss": "sin",
+     "grounds": "nominative singular neuter of pāpa",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "nominative singular masculine pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāpnoti",
+     "gloss": "obtains",
+     "grounds": "present third singular of prāp",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "na+saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "fused negative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sin does he obtain without doubt?",
+   "premises": [
+    "he obtains sin",
+    "sin exceeds brahmin-killing"
+   ],
+   "inference": "the act carries grave sin",
+   "uncertainties": [
+    "na+saṃśayaḥ is fused in source"
+   ],
+   "plain_english": "He obtains sin greater than brahmin-killing, without doubt."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "svargādi",
+     "gloss": "heaven-etc",
+     "grounds": "compound svarga + ādi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvīpāntaraṃ",
+     "gloss": "other-island",
+     "grounds": "compound dvīpa + antara",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "gatvā",
+     "gloss": "having-gone",
+     "grounds": "absolutive of gam",
+     "morph": "abs"
+    },
+    {
+     "surface": "mokṣaratnaṃ",
+     "gloss": "liberation-jewel",
+     "grounds": "compound mokṣa + ratna",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samaśnute",
+     "gloss": "enjoys",
+     "grounds": "present third singular of samaś",
+     "morph": "3.sg.act-pres"
+    }
+   ],
+   "question": "What does one enjoy after going to another island?",
+   "premises": [
+    "one goes to another island",
+    "one enjoys the jewel of liberation"
+   ],
+   "inference": "liberation is enjoyed after travel",
+   "uncertainties": [
+    "svargādi may be locative sense"
+   ],
+   "plain_english": "Having gone to another island beyond heaven, one enjoys the jewel of liberation."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "mokṣaṃ",
+     "gloss": "liberation",
+     "grounds": "accusative singular masculine of mokṣa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "labhante",
+     "gloss": "obtain",
+     "grounds": "present third plural of labh",
+     "morph": "3.pl.act-pres"
+    },
+    {
+     "surface": "kaule",
+     "gloss": "in-kaula",
+     "grounds": "locative singular masculine/neuter of kaula",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadya",
+     "gloss": "immediately",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na+saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "fused negative compound",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "When do kaulas obtain liberation?",
+   "premises": [
+    "kaulas obtain liberation",
+    "liberation is immediate in kaula"
+   ],
+   "inference": "kaula practice yields immediate liberation",
+   "uncertainties": [
+    "kaule may mean among kaulas"
+   ],
+   "plain_english": "But kaulas obtain liberation immediately, without doubt."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kaulasamadharmo'sti",
+     "gloss": "kaula-equal-dharma-exists",
+     "grounds": "fused compound with asti",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "tvāṃ",
+     "gloss": "you",
+     "grounds": "accusative singular of tvam",
+     "morph": "2.acc.sg"
+    },
+    {
+     "surface": "śape",
+     "gloss": "i-swear",
+     "grounds": "present first singular of śap",
+     "morph": "1.sg.act-pres"
+    },
+    {
+     "surface": "kulanāyike",
+     "gloss": "kula-nāyikā",
+     "grounds": "vocative singular feminine of kulanāyikā",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Is there any dharma equal to kaula?",
+   "premises": [
+    "no equal dharma to kaula exists",
+    "speaker swears to kula-nāyikā"
+   ],
+   "inference": "kaula dharma is unique",
+   "uncertainties": [
+    "kaulasamadharmo'sti is fused"
+   ],
+   "plain_english": "There is no dharma equal to kaula; I swear to you, kula-nāyikā."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "bhogayogātmakaṃ",
+     "gloss": "essence-of-enjoyment-yoga",
+     "grounds": "compound bhoga + yoga + ātmaka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaulaṃ",
+     "gloss": "kaula",
+     "grounds": "nominative singular neuter of kaula",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "ablative pronoun",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvādhikaṃ",
+     "gloss": "greater-than-all",
+     "grounds": "compound sarva + adhika",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "priye",
+     "gloss": "beloved",
+     "grounds": "vocative singular feminine of priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Why is kaula greater than all?",
+   "premises": [
+    "kaula is essence of enjoyment-yoga",
+    "therefore kaula is greater than all"
+   ],
+   "inference": "kaula's enjoyment-yoga makes it supreme",
+   "uncertainties": [
+    "bhogayogātmakaṃ may modify kaula"
+   ],
+   "plain_english": "Kaula is the essence of enjoyment-yoga; therefore, beloved, it is greater than all."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "mokṣāyate",
+     "gloss": "becomes-liberation",
+     "grounds": "denominative present third singular",
+     "morph": "3.sg.act-pres"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃsāraḥ",
+     "gloss": "saṃsāra",
+     "grounds": "nominative singular masculine of saṃsāra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kuladharme",
+     "gloss": "in-kula-dharma",
+     "grounds": "locative singular masculine/neuter of kuladharma",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "kula-lady",
+     "grounds": "vocative singular feminine of kuleśvarī",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What becomes liberation in kula dharma?",
+   "premises": [
+    "saṃsāra becomes liberation",
+    "this occurs in kula dharma"
+   ],
+   "inference": "kula dharma transforms saṃsāra into liberation",
+   "uncertainties": [
+    "mokṣāyate is denominative"
+   ],
+   "plain_english": "And saṃsāra becomes liberation in kula dharma, O kula-lady."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "kuladharmaparā",
+     "gloss": "devoted-to-kula-dharma",
+     "grounds": "compound kuladharma + parā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mānuṣeṣu",
+     "gloss": "among-humans",
+     "grounds": "locative plural masculine of mānuṣa",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kā",
+     "gloss": "what",
+     "grounds": "interrogative feminine nominative",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kathā",
+     "gloss": "speech",
+     "grounds": "nominative singular feminine of kathā",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What need be said about humans devoted to kula dharma?",
+   "premises": [
+    "one devoted to kula dharma",
+    "among humans what speech is needed"
+   ],
+   "inference": "such devotion needs no further praise",
+   "uncertainties": [
+    "kā kathā is idiomatic"
+   ],
+   "plain_english": "Devoted to kula dharma, O goddess, among humans what need is there to say more?"
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "kulameva",
+     "gloss": "kula-indeed",
+     "grounds": "fused kula + eva",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vijānīyād",
+     "gloss": "should-know",
+     "grounds": "optative third singular of vijñā",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "yadīcchet",
+     "gloss": "if-desires",
+     "grounds": "optative third singular of iṣ",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "siddhim",
+     "gloss": "siddhi",
+     "grounds": "accusative singular feminine of siddhi",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ātmanaḥ",
+     "gloss": "of-self",
+     "grounds": "genitive singular masculine/neuter of ātman",
+     "morph": "m.gen.sg"
+    }
+   ],
+   "question": "What should one know if desiring siddhi?",
+   "premises": [
+    "one should know kula",
+    "if one desires siddhi of self"
+   ],
+   "inference": "knowing kula is required for siddhi",
+   "uncertainties": [
+    "kulameva is fused"
+   ],
+   "plain_english": "One should indeed know kula, if one desires siddhi of the self."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "svapnotthita",
+     "gloss": "risen-from-dream",
+     "grounds": "compound svapna + utthita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratyayavad",
+     "gloss": "like-conviction",
+     "grounds": "compound pratyaya + vat",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "upadeśādikaṃ",
+     "gloss": "instruction-etc",
+     "grounds": "compound upadeśa + ādi + ka",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "preposition",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is instruction without kula like?",
+   "premises": [
+    "instruction etc without kula",
+    "like conviction risen from dream"
+   ],
+   "inference": "instruction without kula lacks stable reality",
+   "uncertainties": [
+    "svapnotthita modifies pratyayavad"
+   ],
+   "plain_english": "Instruction and the like without kula are like a conviction risen from a dream."
+  }
+ ]
+}

@@ -1,0 +1,1071 @@
+{
+ "song": "mukta-m0-p241",
+ "items": [
+  {
+   "verse": 6001,
+   "rows": [
+    {
+     "surface": "śālyādi",
+     "gloss": "rice-and-so-on",
+     "grounds": "compound indicating rice and similar grains",
+     "morph": "compound"
+    },
+    {
+     "surface": "sthaṇḍilaṃ",
+     "gloss": "altar-ground",
+     "grounds": "ritual platform",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pañcaśayanaṃ",
+     "gloss": "five-layered-bed",
+     "grounds": "compound denoting a bed of five materials",
+     "morph": "compound"
+    },
+    {
+     "surface": "carmajādikam",
+     "gloss": "leather-born-and-so-on",
+     "grounds": "compound indicating leather and similar materials",
+     "morph": "compound"
+    }
+   ],
+   "question": "What materials must be prepared for the ritual altar and bed?",
+   "premises": [
+    "An altar-ground of rice and similar grains is required",
+    "A five-layered bed is required",
+    "Materials such as leather and the like are included"
+   ],
+   "inference": "The ritual setup requires a grain altar and a five-layered bed with specified materials.",
+   "uncertainties": [
+    "Exact composition of carmajādikam is not fully specified"
+   ],
+   "plain_english": "One should prepare an altar of rice and the like, and a five-layered bed made of leather and similar materials."
+  },
+  {
+   "verse": 6002,
+   "rows": [
+    {
+     "surface": "saṃkalpya",
+     "gloss": "having-resolved",
+     "grounds": "absolutive indicating mental determination",
+     "morph": "gerund"
+    },
+    {
+     "surface": "mānuṣaṃ",
+     "gloss": "human",
+     "grounds": "qualifies the seat as pertaining to humans",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "pīṭhaṃ",
+     "gloss": "seat",
+     "grounds": "ritual pedestal",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "praṇavena",
+     "gloss": "with-om",
+     "grounds": "instrumental use of the praṇava mantra",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-establish",
+     "grounds": "optative prescribing ritual action",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "How must the guru establish the human seat in the ritual?",
+   "premises": [
+    "The human seat must be mentally resolved",
+    "The seat is established using the praṇava",
+    "The action is prescribed as a ritual duty"
+   ],
+   "inference": "The guru should resolve upon and establish the human seat with the praṇava.",
+   "uncertainties": [],
+   "plain_english": "Having resolved upon it, one should establish the human seat with the praṇava."
+  },
+  {
+   "verse": 6003,
+   "rows": [
+    {
+     "surface": "pīṭhe",
+     "gloss": "on-seat",
+     "grounds": "locative indicating placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saṃsthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of installation",
+     "morph": "gerund"
+    },
+    {
+     "surface": "beraṃ",
+     "gloss": "image",
+     "grounds": "ritual icon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāgukta",
+     "gloss": "previously-stated",
+     "grounds": "compound referring to earlier instructions",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhinā",
+     "gloss": "by-procedure",
+     "grounds": "instrumental indicating prescribed method",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "guru",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "By what procedure must the guru install the image on the seat?",
+   "premises": [
+    "The image is to be placed on the seat",
+    "The installation follows a previously stated procedure",
+    "The guru performs this action"
+   ],
+   "inference": "The guru must install the image on the seat according to the previously stated procedure.",
+   "uncertainties": [
+    "The specific earlier procedure is not detailed here"
+   ],
+   "plain_english": "Having placed the image on the seat, the guru should install it according to the previously stated procedure."
+  },
+  {
+   "verse": 6004,
+   "rows": [
+    {
+     "surface": "baddha",
+     "gloss": "bound",
+     "grounds": "past participle indicating fastening",
+     "morph": "compound"
+    },
+    {
+     "surface": "pratisaraṃ",
+     "gloss": "protective-thread",
+     "grounds": "ritual amulet or thread",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "beraṃ",
+     "gloss": "image",
+     "grounds": "ritual icon",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śayanopari",
+     "gloss": "upon-bed",
+     "grounds": "compound locative expression",
+     "morph": "compound"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where must the image with the protective thread be placed?",
+   "premises": [
+    "The image has a protective thread bound to it",
+    "The placement is upon the bed",
+    "The action is ritually prescribed"
+   ],
+   "inference": "The image with the bound protective thread should be placed upon the bed.",
+   "uncertainties": [],
+   "plain_english": "One should place the image, with the protective thread bound to it, upon the bed."
+  },
+  {
+   "verse": 6005,
+   "rows": [
+    {
+     "surface": "śirasaścottare",
+     "gloss": "at-head-north",
+     "grounds": "compound locative indicating north of the head",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhāge",
+     "gloss": "part",
+     "grounds": "location or section",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kuṃbhaṃ",
+     "gloss": "pot",
+     "grounds": "ritual water vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "prādhānikaṃ",
+     "gloss": "principal",
+     "grounds": "qualifies the pot as primary",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where must the principal pot be placed relative to the image?",
+   "premises": [
+    "A principal pot is required",
+    "Its location is the northern part near the head",
+    "The placement is ritually prescribed"
+   ],
+   "inference": "The principal pot should be placed in the northern part near the head.",
+   "uncertainties": [],
+   "plain_english": "One should place the principal pot in the northern part near the head."
+  },
+  {
+   "verse": 6006,
+   "rows": [
+    {
+     "surface": "candanodaka",
+     "gloss": "sandal-water",
+     "grounds": "compound describing contents",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃpūrṇān",
+     "gloss": "filled",
+     "grounds": "qualifies vessels as full",
+     "morph": "adj.acc.pl.m"
+    },
+    {
+     "surface": "phā",
+     "gloss": "phā",
+     "grounds": "syllable or marker in ritual context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pallava",
+     "gloss": "sprout",
+     "grounds": "leafy sprout used in ritual",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃyutān",
+     "gloss": "endowed-with",
+     "grounds": "qualifies vessels as accompanied by sprouts",
+     "morph": "adj.acc.pl.m"
+    }
+   ],
+   "question": "How must the ritual vessels be prepared with contents and adornments?",
+   "premises": [
+    "The vessels must be filled with sandal water",
+    "They must be endowed with sprouts",
+    "The term phā appears in this specification"
+   ],
+   "inference": "The vessels should be filled with sandal water and furnished with sprouts.",
+   "uncertainties": [
+    "The exact ritual function of phā is unclear"
+   ],
+   "plain_english": "They should be filled with sandal water and furnished with sprouts."
+  },
+  {
+   "verse": 6007,
+   "rows": [
+    {
+     "surface": "sāntamādyasvaropetaṃ",
+     "gloss": "with-sa-and-first-vowel",
+     "grounds": "compound describing mantra composition",
+     "morph": "compound"
+    },
+    {
+     "surface": "binduyuktaṃ",
+     "gloss": "with-bindu",
+     "grounds": "marked with nasal dot",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "may-be",
+     "grounds": "optative expressing intended form",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What mantra form must be constituted with sa, the first vowel, and bindu?",
+   "premises": [
+    "The form includes sa and the first vowel",
+    "It is joined with a bindu",
+    "The composition is prescribed as it should be"
+   ],
+   "inference": "The mantra should be formed with sa, the first vowel, and a bindu.",
+   "uncertainties": [
+    "The precise syllabic realization depends on ritual convention"
+   ],
+   "plain_english": "It should be formed with sa and the first vowel, joined with a bindu."
+  },
+  {
+   "verse": 6008,
+   "rows": [
+    {
+     "surface": "sāntenaiva",
+     "gloss": "by-sa-alone",
+     "grounds": "instrumental with emphatic particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "varṇe",
+     "gloss": "in-letter",
+     "grounds": "locative referring to syllable",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "brahmāṅgāni",
+     "gloss": "brahma-limbs",
+     "grounds": "ritual limbs associated with Brahmā",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "should-establish",
+     "grounds": "optative prescribing ritual formation",
+     "morph": "3.sg.opt.act √kḷp"
+    }
+   ],
+   "question": "By which syllable must the brahma limbs be ritually established?",
+   "premises": [
+    "The brahma limbs must be established",
+    "The establishment uses the letter with sa alone",
+    "The action is ritually prescribed"
+   ],
+   "inference": "The brahma limbs should be established using the letter with sa alone.",
+   "uncertainties": [],
+   "plain_english": "One should establish the brahma limbs using the letter with sa alone."
+  },
+  {
+   "verse": 6009,
+   "rows": [
+    {
+     "surface": "hrīṃkāraḥ",
+     "gloss": "hrim-syllable",
+     "grounds": "bīja mantra",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "strīpratiṣṭhāyāṃ",
+     "gloss": "in-woman-installation",
+     "grounds": "locative indicating ritual context",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental referring to hrīṃkāra",
+     "morph": "pron.ins.sg.m"
+    },
+    {
+     "surface": "brahmāṅga",
+     "gloss": "brahma-limb",
+     "grounds": "compound element of ritual formation",
+     "morph": "compound"
+    },
+    {
+     "surface": "kalpanā",
+     "gloss": "formation",
+     "grounds": "ritual conceptualization or construction",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which syllable governs the formation of brahma limbs in a woman's installation?",
+   "premises": [
+    "The context is the installation of a woman",
+    "The hrīṃ syllable is specified",
+    "The brahma limbs are formed by that syllable"
+   ],
+   "inference": "In a woman's installation, the brahma limbs are formed by the hrīṃ syllable.",
+   "uncertainties": [],
+   "plain_english": "In the installation of a woman, the hrīṃ syllable is used, and by it the brahma limbs are formed."
+  },
+  {
+   "verse": 6010,
+   "rows": [
+    {
+     "surface": "pradhanaghaṭa",
+     "gloss": "principal-pot",
+     "grounds": "compound referring to main vessel",
+     "morph": "compound"
+    },
+    {
+     "surface": "saumye",
+     "gloss": "in-north",
+     "grounds": "locative indicating direction",
+     "morph": "adj.loc.sg.n"
+    },
+    {
+     "surface": "tadbhāryārthaṃ",
+     "gloss": "for-his-wife",
+     "grounds": "compound indicating purpose",
+     "morph": "compound"
+    },
+    {
+     "surface": "karakaṃ",
+     "gloss": "pitcher",
+     "grounds": "ritual water vessel",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "Where must the pitcher for the wife be placed relative to the principal pot?",
+   "premises": [
+    "A pitcher is intended for his wife",
+    "Its placement is in the north",
+    "The reference point is the principal pot"
+   ],
+   "inference": "The pitcher for his wife should be placed to the north of the principal pot.",
+   "uncertainties": [],
+   "plain_english": "One should place a pitcher for his wife to the north of the principal pot."
+  },
+  {
+   "verse": 6011,
+   "rows": [
+    {
+     "surface": "vahvyaścet",
+     "gloss": "if-many",
+     "grounds": "conditional compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "karakā",
+     "gloss": "pitchers",
+     "grounds": "ritual vessels",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "grāhyā",
+     "gloss": "to-be-taken",
+     "grounds": "gerundive indicating requirement",
+     "morph": "gerundive.nom.pl.m"
+    },
+    {
+     "surface": "bahavaḥ",
+     "gloss": "many",
+     "grounds": "quantifier",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "pārśvayor",
+     "gloss": "on-sides",
+     "grounds": "locative dual indicating both sides",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "vayoḥ",
+     "gloss": "of-them",
+     "grounds": "pronoun referring to the pair",
+     "morph": "pron.gen.du"
+    }
+   ],
+   "question": "What arrangement is required when multiple wives necessitate multiple pitchers?",
+   "premises": [
+    "There may be many wives",
+    "Many pitchers must be taken",
+    "They are placed on the sides of the two"
+   ],
+   "inference": "If there are many wives, many pitchers should be taken and placed on their sides.",
+   "uncertainties": [
+    "The exact referent of vayoḥ is context-dependent"
+   ],
+   "plain_english": "If there are many, many pitchers should be taken and placed on their sides."
+  },
+  {
+   "verse": 6012,
+   "rows": [
+    {
+     "surface": "pṛthivyādīni",
+     "gloss": "earth-and-so-on",
+     "grounds": "compound listing elements beginning with earth",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhūtāni",
+     "gloss": "elements",
+     "grounds": "the gross elements",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "inner faculty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ahaṅkāra",
+     "gloss": "ego",
+     "grounds": "principle of individuation",
+     "morph": "compound"
+    },
+    {
+     "surface": "buddhyaḥ",
+     "gloss": "intellects",
+     "grounds": "faculty of discernment",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which elements and inner faculties are enumerated for ritual placement?",
+   "premises": [
+    "The elements beginning with earth are included",
+    "Mind is included",
+    "Ego and intellects are included"
+   ],
+   "inference": "The elements earth and so on, along with mind, ego, and intellects, are enumerated.",
+   "uncertainties": [],
+   "plain_english": "The elements beginning with earth, as well as mind, ego, and intellects, are enumerated."
+  },
+  {
+   "verse": 6013,
+   "rows": [
+    {
+     "surface": "strīṇāṃ",
+     "gloss": "for-women",
+     "grounds": "genitive indicating application",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "diśastu",
+     "gloss": "directions-but",
+     "grounds": "compound with particle",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūrvasmād",
+     "gloss": "from-east",
+     "grounds": "ablative indicating starting direction",
+     "morph": "adj.abl.sg.f"
+    },
+    {
+     "surface": "devatāḥ",
+     "gloss": "deities",
+     "grounds": "divine presences",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "praikīrtitāḥ",
+     "gloss": "previously-declared",
+     "grounds": "past participle referring to earlier statement",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "From which direction are the deities for women previously declared to begin?",
+   "premises": [
+    "The context concerns women",
+    "Directions are specified starting from the east",
+    "The deities were previously declared"
+   ],
+   "inference": "For women, the deities are previously declared beginning from the east.",
+   "uncertainties": [],
+   "plain_english": "For women, the deities are declared to begin from the east."
+  },
+  {
+   "verse": 6014,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of worship",
+     "morph": "gerund"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-fragrance-flowers-and-so-on",
+     "grounds": "instrumental listing offerings",
+     "morph": "compound"
+    },
+    {
+     "surface": "tatvatatveśvarān",
+     "gloss": "tattva-and-tattva-lords",
+     "grounds": "compound referring to principles and their lords",
+     "morph": "compound"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative prescribing placement",
+     "morph": "3.sg.opt.act √nyas"
+    }
+   ],
+   "question": "What must be done with the tattvas and their lords after worship?",
+   "premises": [
+    "Worship is performed with fragrance, flowers, and so on",
+    "The tattvas and their lords are the objects",
+    "They must be placed ritually"
+   ],
+   "inference": "After worshipping with fragrance, flowers, and so on, one should place the tattvas and their lords.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with fragrance, flowers, and the like, one should place the tattvas and their lords."
+  },
+  {
+   "verse": 6015,
+   "rows": [
+    {
+     "surface": "ātmānam",
+     "gloss": "self",
+     "grounds": "individual self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "antarātmānaṃ",
+     "gloss": "inner-self",
+     "grounds": "inner aspect of self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "paramātmānam",
+     "gloss": "supreme-self",
+     "grounds": "highest self",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which three levels of the self must be ritually invoked or placed?",
+   "premises": [
+    "The self is included",
+    "The inner self is included",
+    "The supreme self is included"
+   ],
+   "inference": "The self, inner self, and supreme self must all be included.",
+   "uncertainties": [],
+   "plain_english": "One should place the self, the inner self, and indeed the supreme self."
+  },
+  {
+   "verse": 6016,
+   "rows": [
+    {
+     "surface": "strīṇāmapyeva",
+     "gloss": "for-women-also-indeed",
+     "grounds": "compound indicating extension to women",
+     "morph": "compound"
+    },
+    {
+     "surface": "mevaṃ",
+     "gloss": "thus",
+     "grounds": "adverb indicating manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "kṣmādayo",
+     "gloss": "earth-and-so-on",
+     "grounds": "compound listing forms beginning with earth",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtayo",
+     "gloss": "forms",
+     "grounds": "manifest forms",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "past participle indicating accepted view",
+     "morph": "adj.nom.pl.f"
+    }
+   ],
+   "question": "How are the forms beginning with earth regarded in the case of women?",
+   "premises": [
+    "The prescription applies to women as well",
+    "The forms begin with earth",
+    "These forms are considered in the same way"
+   ],
+   "inference": "For women also, the forms beginning with earth are considered in the same manner.",
+   "uncertainties": [
+    "The exact scope of mevaṃ depends on prior context"
+   ],
+   "plain_english": "For women also it should be thus; the forms beginning with earth are considered."
+  },
+  {
+   "verse": 6017,
+   "rows": [
+    {
+     "surface": "indrādyā",
+     "gloss": "indra-and-so-on",
+     "grounds": "compound listing deities beginning with Indra",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtipāḥ",
+     "gloss": "form-guardians",
+     "grounds": "guardians of the forms",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "pakṣe",
+     "gloss": "in-case",
+     "grounds": "locative indicating alternative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nivṛtyādyāḥ",
+     "gloss": "nivritti-and-so-on",
+     "grounds": "compound listing beginning with nivṛtti",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrtipāḥ",
+     "gloss": "form-guardians",
+     "grounds": "guardians of the forms",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What alternative sets of form guardians may be employed in this ritual?",
+   "premises": [
+    "One option is the guardians beginning with Indra",
+    "Another option is the guardians beginning with nivṛtti",
+    "The verse presents these as alternatives"
+   ],
+   "inference": "Either the guardians beginning with Indra or those beginning with nivṛtti may serve as form guardians.",
+   "uncertainties": [],
+   "plain_english": "In one case the form guardians are Indra and the others, but alternatively they are nivṛtti and the others."
+  },
+  {
+   "verse": 6018,
+   "rows": [
+    {
+     "surface": "akārādi+kṣakārāntaṃ",
+     "gloss": "from-a-to-kṣa",
+     "grounds": "compound indicating the full range of syllables",
+     "morph": "compound"
+    },
+    {
+     "surface": "nyastvā",
+     "gloss": "having-placed",
+     "grounds": "absolutive of placement",
+     "morph": "gerund"
+    },
+    {
+     "surface": "mūrdhādiṣu",
+     "gloss": "on-head-and-so-on",
+     "grounds": "locative plural indicating body parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative indicating sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "In what sequence must the syllables from a to kṣa be placed on the body?",
+   "premises": [
+    "The syllables range from a to kṣa",
+    "They are placed on the head and other parts",
+    "The placement follows a sequence"
+   ],
+   "inference": "The syllables from a to kṣa must be placed in order on the head and other parts.",
+   "uncertainties": [],
+   "plain_english": "Having placed the syllables from a to kṣa in order on the head and other parts."
+  },
+  {
+   "verse": 6019,
+   "rows": [
+    {
+     "surface": "saṃpūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of worship",
+     "morph": "gerund"
+    },
+    {
+     "surface": "gandhapuṣpādyaiḥ",
+     "gloss": "with-fragrance-flowers-and-so-on",
+     "grounds": "instrumental listing offerings",
+     "morph": "compound"
+    },
+    {
+     "surface": "vastreṇa",
+     "gloss": "with-cloth",
+     "grounds": "instrumental indicating covering material",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "absolutive of covering",
+     "morph": "gerund"
+    },
+    {
+     "surface": "varmaṇā",
+     "gloss": "with-armor-mantra",
+     "grounds": "instrumental indicating protective mantra",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "How must the object be worshipped and protected after syllable placement?",
+   "premises": [
+    "Worship is performed with fragrance, flowers, and so on",
+    "The object is covered with cloth",
+    "The covering is done with the armor mantra"
+   ],
+   "inference": "After worship with offerings, the object should be covered with cloth using the armor mantra.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with fragrance, flowers, and the like, one should cover it with cloth using the armor mantra."
+  },
+  {
+   "verse": 6020,
+   "rows": [
+    {
+     "surface": "prāgvacca",
+     "gloss": "as-before-and",
+     "grounds": "compound indicating continuity with prior procedure",
+     "morph": "compound"
+    },
+    {
+     "surface": "kuṇḍa",
+     "gloss": "fire-pit",
+     "grounds": "ritual fire altar",
+     "morph": "compound"
+    },
+    {
+     "surface": "saṃskāraṃ",
+     "gloss": "consecration",
+     "grounds": "ritual purification",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śivāgnyādhānam",
+     "gloss": "shiva-fire-establishment",
+     "grounds": "installation of Śiva's fire",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What fire-pit procedures must be performed as before in this rite?",
+   "premises": [
+    "The procedure follows what was done before",
+    "Consecration of the fire-pit is required",
+    "Establishment of Śiva's fire is required or included"
+   ],
+   "inference": "As before, one must perform the consecration of the fire-pit and the establishment of Śiva's fire.",
+   "uncertainties": [
+    "The scope of vā as alternative or inclusive is slightly ambiguous"
+   ],
+   "plain_english": "As before, one should perform the consecration of the fire-pit and indeed the establishment of Śiva's fire."
+  },
+  {
+   "verse": 6021,
+   "rows": [
+    {
+     "surface": "samidājya+carūllājāṃ",
+     "gloss": "fuel-ghee-rice-parched-grain",
+     "grounds": "compound listing oblation materials",
+     "morph": "compound"
+    },
+    {
+     "surface": "tilairdravyaistu",
+     "gloss": "with-sesame-substances-and",
+     "grounds": "compound instrumental listing additional materials",
+     "morph": "compound"
+    },
+    {
+     "surface": "mūrtipaiḥ",
+     "gloss": "with-form-guardians",
+     "grounds": "instrumental indicating officiating guardians",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "Which oblation materials and officiants are involved in the fire offering?",
+   "premises": [
+    "Fuel, ghee, rice, and parched grain are used",
+    "Sesame and other substances are used",
+    "The form guardians are involved"
+   ],
+   "inference": "The offering is made with fuel, ghee, rice, parched grain, sesame, and other substances together with the form guardians.",
+   "uncertainties": [],
+   "plain_english": "With fuel, ghee, rice, parched grain, sesame, and other substances, together with the form guardians."
+  },
+  {
+   "verse": 6022,
+   "rows": [
+    {
+     "surface": "śamīkhādira+māyūra+śrīvṛkṣaḥ",
+     "gloss": "shami-khadira-mayura-shrivriksha",
+     "grounds": "compound listing sacred woods or plants",
+     "morph": "compound"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle of emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agni+koṇataḥ",
+     "gloss": "from-fire-corner",
+     "grounds": "compound indicating southeast direction",
+     "morph": "compound"
+    }
+   ],
+   "question": "From which direction are the specified sacred woods to be employed?",
+   "premises": [
+    "Śamī, khādira, māyūra, and śrīvṛkṣa are specified",
+    "The direction is the fire corner",
+    "The specification is emphatic"
+   ],
+   "inference": "The specified sacred woods are employed from the fire corner.",
+   "uncertainties": [
+    "The exact ritual use of each wood is not stated here"
+   ],
+   "plain_english": "Śamī, khādira, māyūra, and śrīvṛkṣa are used, indeed from the fire corner."
+  },
+  {
+   "verse": 6023,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "absolutive of oblation",
+     "morph": "gerund"
+    },
+    {
+     "surface": "pūrṇāṃ",
+     "gloss": "full-offering",
+     "grounds": "final complete oblation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "adverb indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "datvā",
+     "gloss": "having-given",
+     "grounds": "absolutive of giving",
+     "morph": "gerund"
+    },
+    {
+     "surface": "tatvatatveśvarān",
+     "gloss": "to-tattva-and-tattva-lords",
+     "grounds": "compound indicating recipients",
+     "morph": "compound"
+    },
+    {
+     "surface": "prati",
+     "gloss": "towards",
+     "grounds": "postposition indicating direction of offering",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What sequence of offerings must be completed for the tattvas and their lords?",
+   "premises": [
+    "An oblation is performed",
+    "A full offering is then given",
+    "The offerings are directed to the tattvas and their lords"
+   ],
+   "inference": "After making oblations, one should give the full offering to the tattvas and their lords.",
+   "uncertainties": [],
+   "plain_english": "Having offered oblations and then given the full offering, one should direct it to the tattvas and their lords."
+  },
+  {
+   "verse": 6024,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "absolutive of performing",
+     "morph": "gerund"
+    },
+    {
+     "surface": "ghorāṇunā",
+     "gloss": "with-ghora-mantra",
+     "grounds": "instrumental indicating mantra used",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "fire offering",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "niśchidrārthaṃ",
+     "gloss": "for-flawlessness",
+     "grounds": "compound indicating purpose of removing defects",
+     "morph": "compound"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "number of offerings",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dvijāḥ",
+     "gloss": "twice-born",
+     "grounds": "qualified officiants",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How many oblations must the twice-born perform with the ghora mantra for flawlessness?",
+   "premises": [
+    "The oblation is performed with the ghora mantra",
+    "The purpose is to ensure flawlessness",
+    "One hundred oblations are prescribed for the twice-born"
+   ],
+   "inference": "The twice-born should perform one hundred oblations with the ghora mantra to ensure flawlessness.",
+   "uncertainties": [],
+   "plain_english": "The twice-born should perform a hundred oblations with the ghora mantra for the sake of flawlessness."
+  }
+ ]
+}

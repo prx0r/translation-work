@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p87",
+ "items": [
+  {
+   "verse": 2175,
+   "rows": [
+    {
+     "surface": "ṣaṭ-caturdvyaṃgulā",
+     "gloss": "six-four-two-fingers",
+     "grounds": "Bahuvrīhi compound specifying measures: ṣaṭ (six), catur (four), dvi (two), aṅgula (finger-unit).",
+     "morph": "compound"
+    },
+    {
+     "surface": "āyāmavistāronnati",
+     "gloss": "length-breadth-height",
+     "grounds": "Compound of āyāma (length), vistāra (breadth), and unnati (height/elevation).",
+     "morph": "compound"
+    },
+    {
+     "surface": "śālinī",
+     "gloss": "possessing",
+     "grounds": "Adjective qualifying the ritual fire-pit (kuṇḍa) as possessing the stated dimensions.",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What specific length, breadth, and height measurements must the ritual fire-pit possess?",
+   "premises": [
+    "The ritual fire-pit requires defined dimensional proportions.",
+    "The measures are specified in finger-units as six, four, and two.",
+    "These measures correspond respectively to length, breadth, and height."
+   ],
+   "inference": "The properly constructed ritual fire-pit must possess a length of six finger-units, a breadth of four finger-units, and a height of two finger-units.",
+   "uncertainties": [
+    "The exact order of mapping six, four, and two to length, breadth, and height follows traditional convention but is not explicitly marked by case relations in this verse alone."
+   ],
+   "plain_english": "The ritual fire-pit should have a length of six finger-units, a breadth of four finger-units, and a height of two finger-units."
+  }
+ ]
+}

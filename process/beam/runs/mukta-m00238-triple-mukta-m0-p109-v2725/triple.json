@@ -1,0 +1,32 @@
+{
+ "song": "mukta-m0-p109",
+ "items": [
+  {
+   "verse": 2725,
+   "rows": [
+    {
+     "surface": "pumān",
+     "gloss": "man",
+     "grounds": "nominative singular masculine of pumān",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kapilavarṇaḥ",
+     "gloss": "brown-colored",
+     "grounds": "compound kapila+varṇaḥ, nominative singular masculine",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is the male figure in this tantric classification?",
+   "premises": [
+    "The male is named pumān.",
+    "His color is kapila."
+   ],
+   "inference": "Therefore the male figure is brown-colored.",
+   "uncertainties": [
+    "The exact ritual referent of pumān is not specified in this verse."
+   ],
+   "plain_english": "The man is brown-colored."
+  }
+ ]
+}

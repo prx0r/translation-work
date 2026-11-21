@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "mudrā",
+     "gloss": "seal",
+     "grounds": "the ritual hand-gesture or seal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ā+karṣiṇī",
+     "gloss": "attracting",
+     "grounds": "name of the seal; from root kṛṣ with prefix ā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "jñeyā",
+     "gloss": "to-be-known",
+     "grounds": "gerundive indicating what must be recognized",
+     "morph": "f.nom.sg.gerundive (√jñā)"
+    },
+    {
+     "surface": "tatas",
+     "gloss": "then",
+     "grounds": "indicates consequence or sequence in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic or contrastive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhuvanārake",
+     "gloss": "in-world-wheel",
+     "grounds": "compound bhuvana+āraka; locative indicating the locus",
+     "morph": "compound n.loc.sg"
+    }
+   ],
+   "question": "Which seal must be recognized as operative within the world-wheel?",
+   "premises": [
+    "A seal is specified in this context.",
+    "That seal is identified as ākarṣiṇī, the attracting one.",
+    "Its recognition is located within the world-wheel."
+   ],
+   "inference": "The ākarṣiṇī seal is the one to be known in the world-wheel.",
+   "uncertainties": [
+    "The precise referent of bhuvanāraka in this ritual context is not fully specified."
+   ],
+   "plain_english": "And the seal to be known there in the world-wheel is indeed the attracting seal."
+  }
+ ]
+}

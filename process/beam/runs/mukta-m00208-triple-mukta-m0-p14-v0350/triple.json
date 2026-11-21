@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "pūjāyām",
+     "gloss": "in-worship",
+     "grounds": "locative indicating the context of ritual worship",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "upayujyeran",
+     "gloss": "should-be-employed",
+     "grounds": "optative expressing prohibition in context with negation",
+     "morph": "3.pl.pass-opt upa-√yuj"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kadāpi",
+     "gloss": "ever",
+     "grounds": "indefinite temporal adverb reinforcing total prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nitambini",
+     "gloss": "o-fair-hipped-one",
+     "grounds": "vocative address to the listener",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "May the previously described items ever be employed in ritual worship?",
+   "premises": [
+    "Earlier verses described items associated with liberation and enjoyment.",
+    "The verse issues a prohibition regarding their use in worship.",
+    "The prohibition is reinforced as applying at all times."
+   ],
+   "inference": "Therefore, the previously described items must never be employed in worship.",
+   "uncertainties": [],
+   "plain_english": "O fair-hipped one, they should never be used in worship."
+  }
+ ]
+}

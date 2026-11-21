@@ -1,0 +1,64 @@
+{
+ "song": "kjn-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "prasanna",
+     "gloss": "cheerful",
+     "grounds": "cheerful; modifies vadanāḥ",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "vadanāḥ",
+     "gloss": "faces",
+     "grounds": "face; plural subject",
+     "morph": "noun.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pibantyo",
+     "gloss": "drinking",
+     "grounds": "present participle of drinking",
+     "morph": "verb.3pl.act-pres.part"
+    },
+    {
+     "surface": "madirā",
+     "gloss": "liquor",
+     "grounds": "intoxicating; may modify āsavam",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "āsavam",
+     "gloss": "juice",
+     "grounds": "juice; direct object of drinking",
+     "morph": "noun.acc.sg.n"
+    }
+   ],
+   "question": "What demeanor and drink characterize the cheerful participants in this rite?",
+   "premises": [
+    "Cheerful faces mark participants.",
+    "They drink intoxicating juice.",
+    "Liquor accompanies the rite."
+   ],
+   "inference": "The rite includes cheerful participants drinking liquor.",
+   "uncertainties": [
+    "madirā may modify āsavam rather than stand alone",
+    "participle gender and number are not fully resolved"
+   ],
+   "plain_english": "with cheerful faces, indeed drinking intoxicating juice"
+  }
+ ]
+}

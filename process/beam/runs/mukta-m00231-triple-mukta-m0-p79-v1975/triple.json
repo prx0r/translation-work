@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p79",
+ "items": [
+  {
+   "verse": 1975,
+   "rows": [
+    {
+     "surface": "ekaścet",
+     "gloss": "if-one",
+     "grounds": "ekaḥ + cet fused",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kulaśāstrajñaḥ",
+     "gloss": "kula-scripture-knower",
+     "grounds": "compound kula-śāstra-jña",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjārhastatra",
+     "gloss": "worship-worthy-there",
+     "grounds": "pūjārhaḥ + tatra fused",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certain",
+     "grounds": "neuter adverbial form",
+     "morph": "indecl."
+    }
+   ],
+   "question": "If one knower of kula scripture is present, is he alone worthy of worship there?",
+   "premises": [
+    "one knower of kula scripture suffices",
+    "worship-worthiness is certain there"
+   ],
+   "inference": "A single kula-scripture knower present in that place is certainly worthy of worship.",
+   "uncertainties": [
+    "sandhi fusion in ekaścet and pūjārhastatra is resolved by editor",
+    "exact syntactic role of niścitam"
+   ],
+   "plain_english": "If even one knower of the kula scripture is present there, he is certainly worthy of worship."
+  }
+ ]
+}

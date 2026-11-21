@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "anena",
+     "gloss": "with-this",
+     "grounds": "demonstrative pronoun referring to the accompanying prayer",
+     "morph": "pron.instr.sg.m"
+    },
+    {
+     "surface": "agnim",
+     "gloss": "fire",
+     "grounds": "ritual fire addressed in dismissal",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃprārthya",
+     "gloss": "having-entreated",
+     "grounds": "act of formally addressing the fire before dismissal",
+     "morph": "gerund sam-pra-√arth"
+    },
+    {
+     "surface": "kṣamasva",
+     "gloss": "forgive",
+     "grounds": "direct plea spoken to the fire",
+     "morph": "impv.2.sg.ātmanepada √kṣam"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks the quoted prayer formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visarjayet",
+     "gloss": "one-should-dismiss",
+     "grounds": "prescribed concluding action toward the fire",
+     "morph": "opt.3.sg.parasmaipada vi-√sṛj"
+    }
+   ],
+   "question": "By what prayer and action must the officiant conclude the dismissal of the ritual fire?",
+   "premises": [
+    "The officiant entreats the ritual fire with a specific address.",
+    "The spoken formula explicitly asks the fire for forgiveness.",
+    "A formal act of dismissal follows the prayer."
+   ],
+   "inference": "The ritual sequence concludes by entreating the fire to forgive and then dismissing it.",
+   "uncertainties": [],
+   "plain_english": "Having entreated the fire with this prayer, saying 'Forgive,' one should dismiss it."
+  }
+ ]
+}

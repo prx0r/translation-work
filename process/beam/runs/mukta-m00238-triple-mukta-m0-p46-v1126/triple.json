@@ -1,0 +1,845 @@
+{
+ "song": "mukta-m0-p46",
+ "items": [
+  {
+   "verse": 1126,
+   "rows": [
+    {
+     "surface": "vāṇijyaṃ",
+     "gloss": "commerce",
+     "grounds": "commerce",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "pāśupālyaṃ",
+     "gloss": "animal-husbandry",
+     "grounds": "animal husbandry",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṛṣiḥ",
+     "gloss": "agriculture",
+     "grounds": "agriculture",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "savakarma",
+     "gloss": "own-duty",
+     "grounds": "own duty",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which occupations are enumerated as one's own duty in this list?",
+   "premises": [
+    "commerce is listed",
+    "animal husbandry is listed",
+    "agriculture is listed"
+   ],
+   "inference": "The passage enumerates commerce, animal husbandry, and agriculture as own duties.",
+   "uncertainties": [
+    "savakarma may be a compound phrase rather than a separate duty"
+   ],
+   "plain_english": "Commerce, animal husbandry, and agriculture are listed as one's own duties."
+  },
+  {
+   "verse": 1127,
+   "rows": [
+    {
+     "surface": "ratikauśalam",
+     "gloss": "love-skill",
+     "grounds": "love skill",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ākheṭaḥ",
+     "gloss": "hunting",
+     "grounds": "hunting",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "adṛśyakaraṇī",
+     "gloss": "invisible-arts",
+     "grounds": "invisible arts",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which arts and skills are grouped together in this enumeration?",
+   "premises": [
+    "love skill is named",
+    "hunting is named",
+    "invisible arts are named"
+   ],
+   "inference": "The passage groups love skill, hunting, and invisible arts together.",
+   "uncertainties": [
+    "adṛśyakaraṇī may denote a class of arts rather than one art"
+   ],
+   "plain_english": "Love skill, hunting, and invisible arts are grouped together."
+  },
+  {
+   "verse": 1128,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dyūtakaraṇī",
+     "gloss": "gambling-arts",
+     "grounds": "gambling arts",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "corakarma",
+     "gloss": "theft-deeds",
+     "grounds": "theft deeds",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "ājanaṃ",
+     "gloss": "acquisition",
+     "grounds": "acquisition",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further arts and deeds are included in this enumeration?",
+   "premises": [
+    "gambling arts are named",
+    "theft deeds are named",
+    "acquisition is named"
+   ],
+   "inference": "The passage adds gambling arts, theft deeds, and acquisition to the list.",
+   "uncertainties": [
+    "ājanaṃ may mean acquisition or production"
+   ],
+   "plain_english": "Gambling arts, theft deeds, and acquisition are also included."
+  },
+  {
+   "verse": 1129,
+   "rows": [
+    {
+     "surface": "jalaplavana",
+     "gloss": "water-floating",
+     "grounds": "water floating",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "vāksiddhi",
+     "gloss": "speech-accomplishment",
+     "grounds": "speech accomplishment",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "ghuṭikā",
+     "gloss": "ghuṭikā",
+     "grounds": "ghuṭikā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "siddhayaḥ",
+     "gloss": "accomplishments",
+     "grounds": "accomplishments",
+     "morph": "n.nom.pl.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which water, speech, and accomplishment items are enumerated here?",
+   "premises": [
+    "water floating is named",
+    "speech accomplishment is named",
+    "ghuṭikā is named"
+   ],
+   "inference": "The passage enumerates water floating, speech accomplishment, and ghuṭikā among accomplishments.",
+   "uncertainties": [
+    "ghuṭikā is left untranslated as a technical term"
+   ],
+   "plain_english": "Water floating, speech accomplishment, and ghuṭikā are enumerated among accomplishments."
+  },
+  {
+   "verse": 1130,
+   "rows": [
+    {
+     "surface": "vidyā",
+     "gloss": "vidyā",
+     "grounds": "vidyā",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "maheṃdrajālena",
+     "gloss": "indra-net",
+     "grounds": "indra net",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "catuṣṣaṣṭiḥ",
+     "gloss": "sixty-four",
+     "grounds": "sixty four",
+     "morph": "num.nom.sg.f"
+    },
+    {
+     "surface": "matāḥ",
+     "gloss": "considered",
+     "grounds": "considered",
+     "morph": "v.3pl.pass-perf + root man"
+    },
+    {
+     "surface": "imāḥ",
+     "gloss": "these",
+     "grounds": "these",
+     "morph": "pron.nom.pl.f"
+    }
+   ],
+   "question": "How many vidyās are considered in this enumeration?",
+   "premises": [
+    "sixty-four is stated",
+    "these are considered vidyās",
+    "indra net is mentioned"
+   ],
+   "inference": "The passage states that sixty-four vidyās are considered here.",
+   "uncertainties": [
+    "maheṃdrajālena may modify the vidyās or the enumeration"
+   ],
+   "plain_english": "Sixty-four vidyās are considered here, with reference to Indra's net."
+  },
+  {
+   "verse": 1131,
+   "rows": [
+    {
+     "surface": "caturbhūjāṃ",
+     "gloss": "four-armed",
+     "grounds": "four armed",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "saumyatanuṃ",
+     "gloss": "gentle-bodied",
+     "grounds": "gentle bodied",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "caṃḍāṃśu",
+     "gloss": "fierce-ray",
+     "grounds": "fierce ray",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "sadṛśāṃbarām",
+     "gloss": "like-garment",
+     "grounds": "like garment",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What bodily and ornamental features are attributed to this figure?",
+   "premises": [
+    "four-armed is stated",
+    "gentle-bodied is stated",
+    "fierce-ray is stated"
+   ],
+   "inference": "The passage describes a four-armed, gentle-bodied figure with fierce rays and like garment.",
+   "uncertainties": [
+    "sadṛśāṃbarām may mean garment resembling something unspecified"
+   ],
+   "plain_english": "The figure is four-armed, gentle-bodied, fierce-rayed, and like-garmented."
+  },
+  {
+   "verse": 1132,
+   "rows": [
+    {
+     "surface": "dakṣiṇābhyāṃ",
+     "gloss": "right-hands",
+     "grounds": "right hands",
+     "morph": "n.inst.du.f"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "likewise",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāma",
+     "gloss": "left",
+     "grounds": "left",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "karābhyāṃ",
+     "gloss": "hands",
+     "grounds": "hands",
+     "morph": "n.inst.du.m"
+    },
+    {
+     "surface": "sarasīruham",
+     "gloss": "lotus",
+     "grounds": "lotus",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What do the right and left hands hold in this description?",
+   "premises": [
+    "right hands are mentioned",
+    "left hands are mentioned",
+    "lotus is mentioned"
+   ],
+   "inference": "The passage describes right and left hands holding a lotus.",
+   "uncertainties": [
+    "the exact distribution of lotus between hands is not explicit"
+   ],
+   "plain_english": "The right and left hands are described with a lotus."
+  },
+  {
+   "verse": 1133,
+   "rows": [
+    {
+     "surface": "diṅnāgānāṃ",
+     "gloss": "direction-elephants",
+     "grounds": "direction elephants",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "caturṇāṃ",
+     "gloss": "four",
+     "grounds": "four",
+     "morph": "num.gen.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pṛṣṭhārūḍhāṃ",
+     "gloss": "back-mounted",
+     "grounds": "back mounted",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "caturbhujām",
+     "gloss": "four-armed",
+     "grounds": "four armed",
+     "morph": "adj.acc.sg.f"
+    }
+   ],
+   "question": "What mounting and arm count are attributed to this figure?",
+   "premises": [
+    "four direction elephants are mentioned",
+    "back-mounted is stated",
+    "four-armed is stated"
+   ],
+   "inference": "The passage describes a figure mounted on the backs of four direction elephants and four-armed.",
+   "uncertainties": [
+    "pṛṣṭhārūḍhāṃ may modify the figure or the elephants"
+   ],
+   "plain_english": "The figure is back-mounted on four direction elephants and is four-armed."
+  },
+  {
+   "verse": 1134,
+   "rows": [
+    {
+     "surface": "śubhra",
+     "gloss": "white",
+     "grounds": "white",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "white is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a white color to this figure.",
+   "uncertainties": [
+    "varṇā may be a noun or adjective in context"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1135,
+   "rows": [
+    {
+     "surface": "mādhuryaguṇasaṃyuktāḥ",
+     "gloss": "sweetness-quality-endowed",
+     "grounds": "sweetness quality endowed",
+     "morph": "adj.nom.pl.m"
+    },
+    {
+     "surface": "sarvālaṃkāraśobhitāḥ",
+     "gloss": "all-ornament-adorned",
+     "grounds": "all ornament adorned",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What qualities and ornaments are attributed to these figures?",
+   "premises": [
+    "sweetness quality endowed is stated",
+    "all ornament adorned is stated"
+   ],
+   "inference": "The passage describes these figures as endowed with sweetness and adorned with all ornaments.",
+   "uncertainties": [
+    "the referent of these figures is not explicit"
+   ],
+   "plain_english": "These figures are endowed with sweetness and adorned with all ornaments."
+  },
+  {
+   "verse": 1136,
+   "rows": [
+    {
+     "surface": "dadhānāḥ",
+     "gloss": "holding",
+     "grounds": "holding",
+     "morph": "v.nom.pl.m.part-pres + root dhā"
+    },
+    {
+     "surface": "pāśakalaśau",
+     "gloss": "noose-pot",
+     "grounds": "noose pot",
+     "morph": "n.acc.du.m"
+    },
+    {
+     "surface": "sadāmakaravāhanāḥ",
+     "gloss": "elephant-vehicle",
+     "grounds": "elephant vehicle",
+     "morph": "adj.nom.pl.m"
+    }
+   ],
+   "question": "What objects and vehicle are attributed to these figures?",
+   "premises": [
+    "holding is stated",
+    "noose and pot are stated",
+    "elephant vehicle is stated"
+   ],
+   "inference": "The passage describes figures holding noose and pot and having elephant vehicle.",
+   "uncertainties": [
+    "dadhānāḥ may modify a different noun in the larger passage"
+   ],
+   "plain_english": "These figures hold noose and pot and have elephant vehicle."
+  },
+  {
+   "verse": 1137,
+   "rows": [
+    {
+     "surface": "śubhra",
+     "gloss": "white",
+     "grounds": "white",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇāḥ",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "What color is assigned to these figures?",
+   "premises": [
+    "white is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a white color to these figures.",
+   "uncertainties": [
+    "varṇāḥ may be plural noun or adjective"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1138,
+   "rows": [
+    {
+     "surface": "meṣārūḍaṃ",
+     "gloss": "ram-mounted",
+     "grounds": "ram mounted",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "saptahastaṃ",
+     "gloss": "seven-handed",
+     "grounds": "seven handed",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "svāhādevī",
+     "gloss": "svaha-goddess",
+     "grounds": "svaha goddess",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "samanvitam",
+     "gloss": "accompanied",
+     "grounds": "accompanied",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What mounting, hand count, and accompaniment are attributed to Svāhādevī?",
+   "premises": [
+    "ram-mounted is stated",
+    "seven-handed is stated",
+    "accompanied is stated"
+   ],
+   "inference": "The passage describes Svāhādevī as ram-mounted, seven-handed, and accompanied.",
+   "uncertainties": [
+    "samanvitam may refer to an accompanying figure rather than Svāhādevī"
+   ],
+   "plain_english": "Svāhādevī is ram-mounted, seven-handed, and accompanied."
+  },
+  {
+   "verse": 1139,
+   "rows": [
+    {
+     "surface": "kanaka",
+     "gloss": "golden",
+     "grounds": "golden",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "golden is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a golden color to this figure.",
+   "uncertainties": [
+    "varṇaḥ may be noun or adjective"
+   ],
+   "plain_english": "The color is golden."
+  },
+  {
+   "verse": 1140,
+   "rows": [
+    {
+     "surface": "varadānakaraṃ",
+     "gloss": "boon-giving-hand",
+     "grounds": "boon giving hand",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "dhūmravarṇaṃ",
+     "gloss": "smoke-colored",
+     "grounds": "smoke colored",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "vāyum",
+     "gloss": "wind",
+     "grounds": "wind",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "I",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "worship",
+     "grounds": "worship",
+     "morph": "v.1sg.act-pres + root bhaj"
+    }
+   ],
+   "question": "What is worshipped and what color and hand are attributed to it?",
+   "premises": [
+    "boon-giving hand is stated",
+    "smoke-colored is stated",
+    "wind is worshipped"
+   ],
+   "inference": "The passage states worship of wind, described as smoke-colored with boon-giving hand.",
+   "uncertainties": [
+    "varadānakaraṃ may modify wind or the worshipper's act"
+   ],
+   "plain_english": "I worship wind, smoke-colored, with boon-giving hand."
+  },
+  {
+   "verse": 1141,
+   "rows": [
+    {
+     "surface": "dhūmra",
+     "gloss": "smoke",
+     "grounds": "smoke",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "smoke is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a smoke color to this figure.",
+   "uncertainties": [
+    "varṇaḥ may be noun or adjective"
+   ],
+   "plain_english": "The color is smoke."
+  },
+  {
+   "verse": 1142,
+   "rows": [
+    {
+     "surface": "caṃdrārkahastaṃ",
+     "gloss": "moon-sun-handed",
+     "grounds": "moon sun handed",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "dvibhujaṃ",
+     "gloss": "two-armed",
+     "grounds": "two armed",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "all-ornament-adorned",
+     "grounds": "all ornament adorned",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What hand, arm count, and ornamentation are attributed to this figure?",
+   "premises": [
+    "moon-sun-handed is stated",
+    "two-armed is stated",
+    "all-ornament-adorned is stated"
+   ],
+   "inference": "The passage describes a figure with moon and sun hands, two arms, and all ornaments.",
+   "uncertainties": [
+    "caṃdrārkahastaṃ may mean holding moon and sun rather than handedness"
+   ],
+   "plain_english": "The figure has moon and sun hands, two arms, and all ornaments."
+  },
+  {
+   "verse": 1143,
+   "rows": [
+    {
+     "surface": "nīla",
+     "gloss": "blue",
+     "grounds": "blue",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇam",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.acc.sg.m"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "blue is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a blue color to this figure.",
+   "uncertainties": [
+    "varṇam may be accusative noun or adjective"
+   ],
+   "plain_english": "The color is blue."
+  },
+  {
+   "verse": 1144,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "red",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "red is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a red color to this figure.",
+   "uncertainties": [
+    "varṇā may be noun or adjective"
+   ],
+   "plain_english": "The color is red."
+  },
+  {
+   "verse": 1145,
+   "rows": [
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "lotus",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "lotus is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a lotus color to this figure.",
+   "uncertainties": [
+    "padma may denote lotus color rather than lotus object"
+   ],
+   "plain_english": "The color is lotus."
+  },
+  {
+   "verse": 1146,
+   "rows": [
+    {
+     "surface": "pīta",
+     "gloss": "yellow",
+     "grounds": "yellow",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "yellow is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a yellow color to this figure.",
+   "uncertainties": [
+    "varṇā may be noun or adjective"
+   ],
+   "plain_english": "The color is yellow."
+  },
+  {
+   "verse": 1147,
+   "rows": [
+    {
+     "surface": "harid",
+     "gloss": "green",
+     "grounds": "green",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "green is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a green color to this figure.",
+   "uncertainties": [
+    "harid may be a variant of harita"
+   ],
+   "plain_english": "The color is green."
+  },
+  {
+   "verse": 1148,
+   "rows": [
+    {
+     "surface": "kṛṣṇa",
+     "gloss": "black",
+     "grounds": "black",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "black is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a black color to this figure.",
+   "uncertainties": [
+    "varṇā may be noun or adjective"
+   ],
+   "plain_english": "The color is black."
+  },
+  {
+   "verse": 1149,
+   "rows": [
+    {
+     "surface": "nīla",
+     "gloss": "blue",
+     "grounds": "blue",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇā",
+     "gloss": "colored",
+     "grounds": "colored",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What color is assigned to this figure?",
+   "premises": [
+    "blue is stated",
+    "colored is stated"
+   ],
+   "inference": "The passage assigns a blue color to this figure.",
+   "uncertainties": [
+    "varṇā may be noun or adjective"
+   ],
+   "plain_english": "The color is blue."
+  }
+ ]
+}

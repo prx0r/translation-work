@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "darbhairagabhaiḥ",
+     "gloss": "with-darbha-and-agabha",
+     "grounds": "instrumental plural masculine dvandva compound naming the surrounding materials",
+     "morph": "instr.pl.m"
+    },
+    {
+     "surface": "madhyasthamekhalāyām",
+     "gloss": "in-middle-girdle",
+     "grounds": "locative singular feminine compound naming the girdle to be surrounded",
+     "morph": "loc.sg.f"
+    },
+    {
+     "surface": "paristaret",
+     "gloss": "should-surround",
+     "grounds": "optative third singular active of pari-stṛ expressing ritual prescription",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Should the middle girdle be surrounded with darbha and agabha?",
+   "premises": [
+    "middle girdle receives surrounding",
+    "darbha and agabha are materials",
+    "surrounding is prescribed here"
+   ],
+   "inference": "The verse prescribes surrounding the middle girdle with darbha and agabha.",
+   "uncertainties": [
+    "exact identity and ritual role of agabha remain unclear"
+   ],
+   "plain_english": "The middle girdle should be surrounded with darbha and agabha."
+  }
+ ]
+}

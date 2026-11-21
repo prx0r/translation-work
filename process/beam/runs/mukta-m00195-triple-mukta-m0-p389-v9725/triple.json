@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p389",
+ "items": [
+  {
+   "verse": 9725,
+   "rows": [
+    {
+     "surface": "rājyaṃ",
+     "gloss": "kingdom",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhanaṃ",
+     "gloss": "wealth",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yaśaḥ",
+     "gloss": "fame",
+     "grounds": "object of attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "putrān",
+     "gloss": "sons",
+     "grounds": "object of attainment",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "iṣṭam",
+     "gloss": "desired",
+     "grounds": "qualifies another sought object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "additional unspecified object of attainment",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labheta",
+     "gloss": "one-may-obtain",
+     "grounds": "expresses potential attainment",
+     "morph": "3.sg.optative-middle √labh"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connects items in the list",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What rewards may follow after receiving auspicious blessings?",
+   "premises": [
+    "Auspicious blessings have been received after giving gifts.",
+    "Kingdom, wealth, fame, and sons are named as attainable outcomes.",
+    "Any other desired thing is also included among possible attainments."
+   ],
+   "inference": "Receiving auspicious blessings can lead to obtaining these various desired rewards.",
+   "uncertainties": [],
+   "plain_english": "One may obtain a kingdom, wealth, fame, sons, and any other desired thing."
+  }
+ ]
+}

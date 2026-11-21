@@ -1,0 +1,1291 @@
+{
+ "song": "mukta-m0-p55",
+ "items": [
+  {
+   "verse": 1351,
+   "rows": [
+    {
+     "surface": "vṛṣe",
+     "gloss": "in-taurus",
+     "grounds": "zodiac sign Taurus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṅganāyāṃ",
+     "gloss": "in-virgo",
+     "grounds": "zodiac sign Virgo",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "makare",
+     "gloss": "in-capricorn",
+     "grounds": "zodiac sign Capricorn",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prohibition of travel",
+     "morph": "3.sg.optative-active + gam"
+    },
+    {
+     "surface": "dakṣiṇa+ālayam",
+     "gloss": "to-southern-abode",
+     "grounds": "compound: southern+abode/direction",
+     "morph": "compound: dakṣiṇa+ālayam (m.acc.sg)"
+    }
+   ],
+   "question": "Which southern direction is forbidden when Taurus, Virgo, or Capricorn prevails?",
+   "premises": [
+    "Taurus, Virgo, or Capricorn may be prevailing.",
+    "Travel to the southern abode is considered.",
+    "Such travel is prohibited under these signs."
+   ],
+   "inference": "One must not go to the southern direction when Taurus, Virgo, or Capricorn is present.",
+   "uncertainties": [],
+   "plain_english": "When Taurus, Virgo, or Capricorn is present, one should not go to the southern direction."
+  },
+  {
+   "verse": 1352,
+   "rows": [
+    {
+     "surface": "karkaṭe",
+     "gloss": "in-cancer",
+     "grounds": "zodiac sign Cancer",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kīṭa+mīne",
+     "gloss": "in-scorpio-pisces",
+     "grounds": "compound: scorpio+pisces",
+     "morph": "compound: kīṭa+mīna (m.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prohibition of travel",
+     "morph": "3.sg.optative-active + gam"
+    },
+    {
+     "surface": "uttaraṃ",
+     "gloss": "to-north",
+     "grounds": "direction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "the-wise-one",
+     "grounds": "addressed subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which northern direction must the wise avoid under Cancer, Scorpio, or Pisces?",
+   "premises": [
+    "Cancer, Scorpio, or Pisces may be prevailing.",
+    "Travel to the north is considered.",
+    "The wise person is instructed to refrain."
+   ],
+   "inference": "The wise one must not go north when Cancer, Scorpio, or Pisces is present.",
+   "uncertainties": [],
+   "plain_english": "When Cancer, Scorpio, or Pisces is present, the wise one should not go to the north."
+  },
+  {
+   "verse": 1353,
+   "rows": [
+    {
+     "surface": "makare",
+     "gloss": "in-capricorn",
+     "grounds": "zodiac sign Capricorn",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karkaṭe",
+     "gloss": "in-cancer",
+     "grounds": "zodiac sign Cancer",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mīne",
+     "gloss": "in-pisces",
+     "grounds": "zodiac sign Pisces",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "direction of Nirṛti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "prohibition",
+     "morph": "3.sg.optative-active + pari-vṛj"
+    }
+   ],
+   "question": "Which southwest direction must be avoided when Capricorn, Cancer, or Pisces prevails?",
+   "premises": [
+    "Capricorn, Cancer, or Pisces may be prevailing.",
+    "The southwest direction is considered.",
+    "This direction must be avoided under these signs."
+   ],
+   "inference": "One must avoid the southwest when Capricorn, Cancer, or Pisces is present.",
+   "uncertainties": [],
+   "plain_english": "When Capricorn, Cancer, or Pisces is present, one should avoid the southwest direction."
+  },
+  {
+   "verse": 1354,
+   "rows": [
+    {
+     "surface": "siṃhe",
+     "gloss": "in-leo",
+     "grounds": "zodiac sign Leo",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mīne",
+     "gloss": "in-pisces",
+     "grounds": "zodiac sign Pisces",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "karkaṭe",
+     "gloss": "in-cancer",
+     "grounds": "zodiac sign Cancer",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "direction of Īśāna",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of emphasis/contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-consider",
+     "grounds": "mental action prohibited",
+     "morph": "3.sg.optative-active + cint"
+    }
+   ],
+   "question": "Which northeast direction must not be considered under Leo, Pisces, or Cancer?",
+   "premises": [
+    "Leo, Pisces, or Cancer may be prevailing.",
+    "The northeast direction is considered.",
+    "One must not contemplate going there under these signs."
+   ],
+   "inference": "One must not consider the northeast when Leo, Pisces, or Cancer is present.",
+   "uncertainties": [],
+   "plain_english": "When Leo, Pisces, or Cancer is present, one should not even consider the northeast direction."
+  },
+  {
+   "verse": 1355,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prohibition of travel",
+     "morph": "3.sg.optative-active + gam"
+    },
+    {
+     "surface": "manda+vāre",
+     "gloss": "on-saturday",
+     "grounds": "compound: slow/Saturn+day",
+     "morph": "compound: manda+vāra (m.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+deśaṃ",
+     "gloss": "to-eastern-region",
+     "grounds": "compound: eastern+region",
+     "morph": "compound: pūrva+deśa (m.acc.sg)"
+    },
+    {
+     "surface": "mama",
+     "gloss": "my",
+     "grounds": "speaker's possession",
+     "morph": "1.sg.gen"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear-one",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which eastern region is forbidden for travel on Saturday, my dear one?",
+   "premises": [
+    "It is Saturday.",
+    "Travel to the eastern region is considered.",
+    "The speaker forbids this travel to the beloved."
+   ],
+   "inference": "One must not go to the eastern region on Saturday.",
+   "uncertainties": [],
+   "plain_english": "My dear one, one should not go to the eastern region on Saturday."
+  },
+  {
+   "verse": 1356,
+   "rows": [
+    {
+     "surface": "kuja+vāre",
+     "gloss": "on-tuesday",
+     "grounds": "compound: Mars+day",
+     "morph": "compound: kuja+vāra (m.loc.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison/continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttaraṃ",
+     "gloss": "to-north",
+     "grounds": "direction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca+uttaraṃ",
+     "gloss": "and-on-wednesday",
+     "grounds": "fused form: ca + uttaraṃ (Wednesday context)",
+     "morph": "(indecl.)+m.acc.sg (fused)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhe",
+     "gloss": "on-wednesday",
+     "grounds": "day of Mercury",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhe",
+     "gloss": "on-wednesday",
+     "grounds": "day of Mercury",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśaṃ",
+     "gloss": "direction",
+     "grounds": "general direction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhajet",
+     "gloss": "should-resort-to",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active + bhaj"
+    }
+   ],
+   "question": "Which directions should be resorted to on Tuesday and on Wednesday?",
+   "premises": [
+    "Tuesday and Wednesday are specified days.",
+    "Certain directions are to be chosen on these days.",
+    "The text prescribes resorting to those directions."
+   ],
+   "inference": "On Tuesday one should go north, and on Wednesday one should resort to that direction as well.",
+   "uncertainties": [
+    "The token sequence and repetition in this verse is syntactically compressed and ambiguous."
+   ],
+   "plain_english": "On Tuesday one should likewise go north, and on Wednesday also one should resort to that direction."
+  },
+  {
+   "verse": 1357,
+   "rows": [
+    {
+     "surface": "śani+vāre",
+     "gloss": "on-saturday",
+     "grounds": "compound: Saturn+day",
+     "morph": "compound: śani+vāra (m.loc.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison/continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśānyāṃ",
+     "gloss": "in-northeast",
+     "grounds": "direction of Īśāna",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "some",
+     "gloss": "on-monday",
+     "grounds": "day of the Moon",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agnau",
+     "gloss": "in-southeast",
+     "grounds": "direction of Agni",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "viśeṣataḥ",
+     "gloss": "especially",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which directions are especially indicated on Saturday and on Monday?",
+   "premises": [
+    "Saturday and Monday are specified days.",
+    "The northeast and southeast directions are mentioned.",
+    "These directions are especially indicated."
+   ],
+   "inference": "On Saturday one should go northeast, and on Monday especially to the southeast.",
+   "uncertainties": [],
+   "plain_english": "On Saturday likewise to the northeast, and on Monday especially to the southeast."
+  },
+  {
+   "verse": 1358,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prohibition of travel",
+     "morph": "3.sg.optative-active + gam"
+    },
+    {
+     "surface": "yātrikaḥ",
+     "gloss": "traveler",
+     "grounds": "one undertaking a journey",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yātrāṃ",
+     "gloss": "journey",
+     "grounds": "act of travel",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yoginī",
+     "gloss": "yoginī",
+     "grounds": "yoginī presence/direction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sammukhā",
+     "gloss": "facing",
+     "grounds": "in front, confronting",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "yataḥ",
+     "gloss": "because",
+     "grounds": "reason",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why must a traveler not undertake a journey when facing a yoginī?",
+   "premises": [
+    "A traveler intends to undertake a journey.",
+    "The yoginī is facing the traveler.",
+    "This facing position is given as a reason for prohibition."
+   ],
+   "inference": "A traveler must not go on a journey because the yoginī is facing them.",
+   "uncertainties": [
+    "The specific sense of yoginī facing (directional or presence) is context-dependent."
+   ],
+   "plain_english": "A traveler should not undertake a journey, because the yoginī is facing him."
+  },
+  {
+   "verse": 1359,
+   "rows": [
+    {
+     "surface": "trayodaśī",
+     "gloss": "thirteenth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pañcamī",
+     "gloss": "fifth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "prohibition of travel",
+     "morph": "3.sg.optative-active + gam"
+    },
+    {
+     "surface": "dakṣiṇāṃ",
+     "gloss": "to-southern",
+     "grounds": "direction",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "diśam",
+     "gloss": "direction",
+     "grounds": "direction",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which southern direction is forbidden on the thirteenth and fifth lunar days?",
+   "premises": [
+    "It is the thirteenth or fifth lunar day.",
+    "Travel to the southern direction is considered.",
+    "Such travel is prohibited on these days."
+   ],
+   "inference": "One must not go to the southern direction on the thirteenth or fifth lunar day.",
+   "uncertainties": [],
+   "plain_english": "On the thirteenth and fifth lunar days, one should not go to the southern direction."
+  },
+  {
+   "verse": 1360,
+   "rows": [
+    {
+     "surface": "pūrṇimā",
+     "gloss": "full-moon-day",
+     "grounds": "lunar tithi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "saptamī",
+     "gloss": "seventh-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "in-northwest",
+     "grounds": "direction of Vāyu",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sarvathā",
+     "gloss": "in-all-ways",
+     "grounds": "absolute prohibition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tyajet",
+     "gloss": "should-abandon",
+     "grounds": "prohibition",
+     "morph": "3.sg.optative-active + tyaj"
+    }
+   ],
+   "question": "Which northwest direction must be completely abandoned on full moon and seventh lunar days?",
+   "premises": [
+    "It is the full moon or seventh lunar day.",
+    "The northwest direction is considered.",
+    "This direction must be abandoned in all ways."
+   ],
+   "inference": "One must completely abandon the northwest on the full moon and seventh lunar day.",
+   "uncertainties": [],
+   "plain_english": "On the full moon and the seventh lunar day, one should abandon the northwest direction in all ways."
+  },
+  {
+   "verse": 1361,
+   "rows": [
+    {
+     "surface": "viṣkumbhaḥ",
+     "gloss": "viṣkambha",
+     "grounds": "yoga name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "prīti",
+     "grounds": "yoga name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "āyuṣmān",
+     "gloss": "āyuṣmān",
+     "grounds": "yoga name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pratipatsu",
+     "gloss": "on-first-lunar-days",
+     "grounds": "lunar tithi pratipad",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "vivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "prohibition",
+     "morph": "3.sg.optative-active + vi-vṛj"
+    }
+   ],
+   "question": "Which yogas must be avoided on the first lunar days of the fortnight?",
+   "premises": [
+    "It is a first lunar day.",
+    "The yogas Viṣkambha, Prīti, and Āyuṣmān are present.",
+    "These yogas must be avoided."
+   ],
+   "inference": "One must avoid Viṣkambha, Prīti, and Āyuṣmān on the first lunar days.",
+   "uncertainties": [],
+   "plain_english": "On the first lunar days, one should avoid the yogas Viṣkambha, Prīti, and Āyuṣmān."
+  },
+  {
+   "verse": 1362,
+   "rows": [
+    {
+     "surface": "sukarmā",
+     "gloss": "sukarman",
+     "grounds": "yoga name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhṛtiḥ",
+     "gloss": "dhṛti",
+     "grounds": "yoga name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tṛtīyāyāṃ",
+     "gloss": "on-third-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vijānīhi",
+     "gloss": "should-know",
+     "grounds": "instruction to recognize",
+     "morph": "2.sg.imperative-active + vi-jñā"
+    }
+   ],
+   "question": "Which yogas should be recognized as significant on the third lunar day?",
+   "premises": [
+    "It is the third lunar day.",
+    "The yogas Sukarman and Dhṛti are mentioned.",
+    "One is instructed to know or recognize them."
+   ],
+   "inference": "One should know that Sukarman and Dhṛti apply on the third lunar day.",
+   "uncertainties": [
+    "Whether vijānīhi implies avoidance or mere recognition is context-dependent."
+   ],
+   "plain_english": "Know that Sukarman and Dhṛti apply on the third lunar day."
+  },
+  {
+   "verse": 1363,
+   "rows": [
+    {
+     "surface": "caturthyāṃ",
+     "gloss": "on-fourth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "prohibition",
+     "morph": "3.sg.optative-active + vṛj"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "pañcamyāṃ",
+     "gloss": "on-fifth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "harṣaṇaṃ",
+     "gloss": "harṣaṇa",
+     "grounds": "yoga name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison/continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which yoga must be avoided on the fifth lunar day, O goddess?",
+   "premises": [
+    "The fourth and fifth lunar days are mentioned.",
+    "Avoidance is prescribed.",
+    "The yoga Harṣaṇa is specified for the fifth day."
+   ],
+   "inference": "One should avoid on the fourth day and likewise avoid Harṣaṇa on the fifth lunar day.",
+   "uncertainties": [
+    "The object to be avoided on the fourth day is not explicitly stated in this verse."
+   ],
+   "plain_english": "On the fourth lunar day one should avoid, O goddess, and likewise avoid Harṣaṇa on the fifth."
+  },
+  {
+   "verse": 1364,
+   "rows": [
+    {
+     "surface": "varīyān",
+     "gloss": "varīyān",
+     "grounds": "yoga name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parighaḥ",
+     "gloss": "and-parigha",
+     "grounds": "yoga name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptamyāṃ",
+     "gloss": "on-seventh-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "parivarjayet",
+     "gloss": "should-avoid",
+     "grounds": "prohibition",
+     "morph": "3.sg.optative-active + pari-vṛj"
+    }
+   ],
+   "question": "Which yogas must be avoided on the seventh lunar day?",
+   "premises": [
+    "It is the seventh lunar day.",
+    "The yogas Varīyān and Parigha are present.",
+    "These yogas must be avoided."
+   ],
+   "inference": "One must avoid Varīyān and Parigha on the seventh lunar day.",
+   "uncertainties": [],
+   "plain_english": "On the seventh lunar day, one should avoid Varīyān and Parigha."
+  },
+  {
+   "verse": 1365,
+   "rows": [
+    {
+     "surface": "navamyāṃ",
+     "gloss": "on-ninth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śubha+śukrañ",
+     "gloss": "śubha-śukra",
+     "grounds": "compound: śubha+śukra (yoga names)",
+     "morph": "compound: śubha+śukra (m.acc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "daśamyāṃ",
+     "gloss": "on-tenth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "yoga name",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which yogas are indicated for avoidance on the ninth and tenth lunar days?",
+   "premises": [
+    "The ninth and tenth lunar days are mentioned.",
+    "Śubha and Śukra are associated with the ninth day.",
+    "Brahman is associated with the tenth day."
+   ],
+   "inference": "Śubha and Śukra apply on the ninth day, and Brahman on the tenth day.",
+   "uncertainties": [
+    "The verb of avoidance is implied from context rather than stated explicitly."
+   ],
+   "plain_english": "On the ninth lunar day Śubha and Śukra, and on the tenth lunar day Brahman."
+  },
+  {
+   "verse": 1366,
+   "rows": [
+    {
+     "surface": "uttarā+trayaṃ",
+     "gloss": "northern-triad",
+     "grounds": "compound: three Uttara nakṣatras",
+     "morph": "compound: uttarā+traya (n.acc.sg)"
+    },
+    {
+     "surface": "trayodaśyāṃ",
+     "gloss": "on-thirteenth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "viśākhā",
+     "gloss": "viśākhā",
+     "grounds": "nakṣatra name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdaśīm",
+     "gloss": "on-fourteenth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which nakṣatras are associated with the thirteenth and fourteenth lunar days?",
+   "premises": [
+    "The thirteenth and fourteenth lunar days are mentioned.",
+    "The northern triad of nakṣatras is associated with the thirteenth.",
+    "Viśākhā is associated with the fourteenth."
+   ],
+   "inference": "The northern triad applies on the thirteenth day and Viśākhā on the fourteenth.",
+   "uncertainties": [
+    "The governing verb (avoid/know) is implied from surrounding verses."
+   ],
+   "plain_english": "The northern triad on the thirteenth lunar day, and Viśākhā on the fourteenth."
+  },
+  {
+   "verse": 1367,
+   "rows": [
+    {
+     "surface": "pratipat",
+     "gloss": "first-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṛttikāyām",
+     "gloss": "in-kṛttikā",
+     "grounds": "nakṣatra name",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvitīyāyām",
+     "gloss": "on-second-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jyeṣṭhake",
+     "gloss": "in-jyeṣṭhā",
+     "grounds": "nakṣatra name",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which nakṣatras are associated with the first and second lunar days?",
+   "premises": [
+    "The first and second lunar days are mentioned.",
+    "Kṛttikā is associated with the first day.",
+    "Jyeṣṭhā is associated with the second day."
+   ],
+   "inference": "The first lunar day is linked with Kṛttikā and the second with Jyeṣṭhā.",
+   "uncertainties": [
+    "The governing verb (avoid/know) is implied from surrounding verses."
+   ],
+   "plain_english": "The first lunar day in Kṛttikā, and the second lunar day in Jyeṣṭhā."
+  },
+  {
+   "verse": 1368,
+   "rows": [
+    {
+     "surface": "yātrāyām",
+     "gloss": "in-journey",
+     "grounds": "context of travel",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle of contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duṣṭaṃ",
+     "gloss": "faulty",
+     "grounds": "inauspicious",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "potential state",
+     "morph": "3.sg.optative-active + as"
+    },
+    {
+     "surface": "karaṇasya",
+     "gloss": "of-karaṇa",
+     "grounds": "astrological karaṇa",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "vicintanam",
+     "gloss": "consideration",
+     "grounds": "act of considering",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Why is consideration of the karaṇa not deemed faulty during a journey?",
+   "premises": [
+    "A journey is being undertaken.",
+    "The karaṇa may be considered.",
+    "Considering the karaṇa is not regarded as faulty in this context."
+   ],
+   "inference": "In a journey, consideration of the karaṇa should not be regarded as faulty.",
+   "uncertainties": [],
+   "plain_english": "But in a journey, consideration of the karaṇa should not be regarded as faulty."
+  },
+  {
+   "verse": 1369,
+   "rows": [
+    {
+     "surface": "aṣṭamyām",
+     "gloss": "on-eighth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "navamyām",
+     "gloss": "on-ninth-lunar-day",
+     "grounds": "lunar tithi",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadā+kāleṣu",
+     "gloss": "in-all-times",
+     "grounds": "compound: always+times",
+     "morph": "compound: sadā+kāla (m.loc.pl)"
+    },
+    {
+     "surface": "varjayet",
+     "gloss": "should-avoid",
+     "grounds": "prohibition",
+     "morph": "3.sg.optative-active + vṛj"
+    }
+   ],
+   "question": "Which lunar days must always be avoided at all times for travel?",
+   "premises": [
+    "The eighth and ninth lunar days are specified.",
+    "Avoidance is prescribed.",
+    "This avoidance applies at all times."
+   ],
+   "inference": "One must always avoid the eighth and ninth lunar days.",
+   "uncertainties": [],
+   "plain_english": "One should always avoid the eighth and ninth lunar days at all times."
+  },
+  {
+   "verse": 1370,
+   "rows": [
+    {
+     "surface": "godhūli+samaye",
+     "gloss": "at-twilight-time",
+     "grounds": "compound: cow-dust+time (dusk)",
+     "morph": "compound: godhūli+samaya (m.loc.sg)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrva+deśe",
+     "gloss": "in-eastern-region",
+     "grounds": "compound: eastern+region",
+     "morph": "compound: pūrva+deśa (m.loc.sg)"
+    },
+    {
+     "surface": "vijānīhi",
+     "gloss": "should-know",
+     "grounds": "instruction to recognize",
+     "morph": "2.sg.imperative-active + vi-jñā"
+    }
+   ],
+   "question": "What restriction should be known regarding the eastern region at twilight time?",
+   "premises": [
+    "It is twilight time.",
+    "The eastern region is considered.",
+    "One is instructed to know a restriction regarding it."
+   ],
+   "inference": "One should know that the eastern region is restricted at twilight.",
+   "uncertainties": [
+    "The specific prohibition is implied from context rather than stated explicitly."
+   ],
+   "plain_english": "Know that at twilight time, the eastern region is to be avoided."
+  },
+  {
+   "verse": 1371,
+   "rows": [
+    {
+     "surface": "aiśānyām",
+     "gloss": "in-northeast",
+     "grounds": "direction of Īśāna",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "comparison/continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "time",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "nair-ṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "direction of Nirṛti",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "sandhyayoḥ+dvayoḥ",
+     "gloss": "at-two-twilights",
+     "grounds": "compound: twilights+two",
+     "morph": "compound: sandhyā+dvaya (f.loc.dual)"
+    }
+   ],
+   "question": "Which directions are restricted at night and at the two twilights?",
+   "premises": [
+    "Night and the two twilights are specified times.",
+    "The northeast and southwest directions are mentioned.",
+    "Restrictions apply to these directions at these times."
+   ],
+   "inference": "The northeast is restricted at night and the southwest at the two twilights.",
+   "uncertainties": [
+    "The governing verb (avoid/know) is implied from surrounding verses."
+   ],
+   "plain_english": "Likewise, the northeast at night, and the southwest at the two twilights."
+  },
+  {
+   "verse": 1372,
+   "rows": [
+    {
+     "surface": "vāruṇa+ādiṣu",
+     "gloss": "in-vāruṇa-etcetera",
+     "grounds": "compound: Vāruṇa+beginning-with",
+     "morph": "compound: vāruṇa+ādi (m.loc.pl)"
+    },
+    {
+     "surface": "yogeṣu",
+     "gloss": "in-conjunctions",
+     "grounds": "astrological yogas",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "yathā+kāle",
+     "gloss": "according-to-time",
+     "grounds": "compound: as+time",
+     "morph": "compound: yathā+kāla (m.loc.sg)"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-act",
+     "grounds": "prescribed conduct",
+     "morph": "3.sg.optative-active + sam-ā-car"
+    }
+   ],
+   "question": "How should one act during Vāruṇa and other conjunctions according to time?",
+   "premises": [
+    "Vāruṇa and other yogas are present.",
+    "Action must be timed appropriately.",
+    "One should act according to the proper time."
+   ],
+   "inference": "One should act according to the proper time in Vāruṇa and other conjunctions.",
+   "uncertainties": [],
+   "plain_english": "In Vāruṇa and other conjunctions, one should act according to the proper time."
+  },
+  {
+   "verse": 1373,
+   "rows": [
+    {
+     "surface": "prācī+diśaṃ",
+     "gloss": "to-eastern-direction",
+     "grounds": "compound: eastern+direction",
+     "morph": "compound: prācī+diś (f.acc.sg)"
+    },
+    {
+     "surface": "samāgacchet",
+     "gloss": "having-approached",
+     "grounds": "approaching a direction",
+     "morph": "3.sg.optative-active + sam-ā-gam"
+    },
+    {
+     "surface": "yātrāṃ",
+     "gloss": "journey",
+     "grounds": "act of travel",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-make",
+     "grounds": "prescribed action",
+     "morph": "3.sg.optative-active + kṛ"
+    },
+    {
+     "surface": "udaṅ+mukhaḥ",
+     "gloss": "north-facing",
+     "grounds": "compound: north+facing",
+     "morph": "compound: udaṅ+mukha (m.nom.sg)"
+    }
+   ],
+   "question": "How should one orient oneself when approaching the eastern direction for a journey?",
+   "premises": [
+    "One approaches the eastern direction.",
+    "A journey is to be undertaken.",
+    "One should face north while making the journey."
+   ],
+   "inference": "When approaching the east for a journey, one should proceed facing north.",
+   "uncertainties": [],
+   "plain_english": "Having approached the eastern direction, one should make the journey facing north."
+  },
+  {
+   "verse": 1374,
+   "rows": [
+    {
+     "surface": "kusumaṃ",
+     "gloss": "flower",
+     "grounds": "auspicious sight/object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāvakaḥ",
+     "gloss": "barley-gruel",
+     "grounds": "auspicious food/object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śaṅkhaḥ",
+     "gloss": "conch",
+     "grounds": "auspicious object",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bherī",
+     "gloss": "kettle-drum",
+     "grounds": "auspicious sound/instrument",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vādyam",
+     "gloss": "musical-instrument",
+     "grounds": "auspicious sound/instrument",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhūmipaḥ",
+     "gloss": "king",
+     "grounds": "auspicious person",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which auspicious sights and sounds are favorable at the start of a journey?",
+   "premises": [
+    "A journey is being undertaken.",
+    "Certain objects, sounds, and persons are encountered.",
+    "These are listed as favorable signs."
+   ],
+   "inference": "A flower, barley-gruel, conch, kettle-drum, musical instrument, and a king are auspicious signs.",
+   "uncertainties": [
+    "The verse lists items without an explicit verb; their auspiciousness is inferred from context."
+   ],
+   "plain_english": "A flower, barley-gruel, conch, kettle-drum, musical instrument, and a king are auspicious signs."
+  }
+ ]
+}

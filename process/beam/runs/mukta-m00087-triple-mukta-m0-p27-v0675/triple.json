@@ -1,0 +1,59 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "kalahaḥ",
+     "gloss": "quarrel",
+     "grounds": "nominative singular masculine noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "priyayā",
+     "gloss": "with-beloved",
+     "grounds": "instrumental singular feminine of priyā",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "yuktaḥ",
+     "gloss": "joined",
+     "grounds": "nominative singular masculine participle of yuj",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "puṣpadhanvā",
+     "gloss": "flower-bowed",
+     "grounds": "nominative singular masculine compound",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāṅkṣiṇī",
+     "gloss": "Kāṅkṣiṇī",
+     "grounds": "nominative singular feminine proper name",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which yoginī is listed after the flower-bowed figure joined with his beloved in quarrel?",
+   "premises": [
+    "kalahaḥ means quarrel.",
+    "priyayā means with the beloved.",
+    "yuktaḥ means joined.",
+    "puṣpadhanvā means flower-bowed.",
+    "kāṅkṣiṇī is a named figure."
+   ],
+   "inference": "The verse lists Kāṅkṣiṇī among the named figures after the flower-bowed one joined with his beloved in quarrel.",
+   "uncertainties": [
+    "The exact doctrinal role of Kāṅkṣiṇī is not stated in this verse."
+   ],
+   "plain_english": "Quarrel with the beloved, joined; the flower-bowed one; and Kāṅkṣiṇī."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p237",
+ "items": [
+  {
+   "verse": 5925,
+   "rows": [
+    {
+     "surface": "mūla+mantra+āditaḥ",
+     "gloss": "beginning-with-root-mantra",
+     "grounds": "compound indicating the starting point of the sequence; mūla-mantra as the initial element",
+     "morph": "mūla-mantra-ādi+tas (indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the ritual action to be carried out",
+     "morph": "3.sg.act.opt √kṛ"
+    },
+    {
+     "surface": "sarva+mantra+gaṇena",
+     "gloss": "with-entire-mantra-group",
+     "grounds": "instrumental compound denoting the complete set of mantras used in performance",
+     "morph": "sarva-mantra-gaṇa (m.inst.sg)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle reinforcing the prescription",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra sequence must be employed when performing the prescribed ritual action?",
+   "premises": [
+    "The ritual action is to be performed.",
+    "The performance begins with the root mantra.",
+    "The performance includes the entire group of mantras."
+   ],
+   "inference": "Therefore, the practitioner should perform the ritual action starting with the root mantra and using the entire mantra group.",
+   "uncertainties": [
+    "The specific identity and composition of the sarva-mantra-gaṇa is not specified in this verse."
+   ],
+   "plain_english": "One should indeed perform the rite beginning with the root mantra and using the entire group of mantras."
+  }
+ ]
+}

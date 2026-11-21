@@ -1,0 +1,568 @@
+{
+ "song": "kul-p08",
+ "items": [
+  {
+   "verse": 176,
+   "rows": [
+    {
+     "surface": "tvaddharma",
+     "gloss": "your-dharma",
+     "grounds": "possessive your joined with dharma",
+     "morph": "compound (tvad+dharma)"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with emphatic indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "muñcāmi",
+     "gloss": "I-abandon",
+     "grounds": "first person singular present active of muc",
+     "morph": "1.sg.act-pres (muc)"
+    },
+    {
+     "surface": "manovākkāyakarmabhiḥ",
+     "gloss": "mind-speech-body-actions",
+     "grounds": "compound of mind speech body and actions in instrumental plural",
+     "morph": "compound (manas+vāc+kāya+karma), instr.pl"
+    }
+   ],
+   "question": "Why does the speaker refuse to abandon your dharma through mind speech body and action?",
+   "premises": [
+    "The speaker refuses abandonment",
+    "The refusal covers mind speech body and action"
+   ],
+   "inference": "Kula-dharma is held through every faculty and deed.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "I will not abandon your dharma by mind, speech, body, or action."
+  },
+  {
+   "verse": 177,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "sampūjyate",
+     "gloss": "is-worshipped",
+     "grounds": "passive present of sam-pūj",
+     "morph": "3.sg.pass-pres (sam-pūj)"
+    },
+    {
+     "surface": "devairamutra",
+     "gloss": "by-gods-there",
+     "grounds": "instrumental plural gods with locative there",
+     "morph": "instr.pl + loc.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śivo",
+     "gloss": "Shiva",
+     "grounds": "nominative singular Shiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "third person singular optative of bhū",
+     "morph": "3.sg.opt (bhū)"
+    }
+   ],
+   "question": "Who is worshipped by gods and becomes Shiva?",
+   "premises": [
+    "He is worshipped by gods",
+    "He becomes Shiva"
+   ],
+   "inference": "The devoted kula practitioner is honored as Shiva.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He is worshipped by the gods there and becomes Shiva."
+  },
+  {
+   "verse": 178,
+   "rows": [
+    {
+     "surface": "yastvāmupāste",
+     "gloss": "who-worships-you",
+     "grounds": "relative pronoun with upās present",
+     "morph": "rel.m.nom.sg + 3.sg.act-pres (upās)"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental singular bhakti",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that-man",
+     "grounds": "demonstrative pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadgatimāpnuyāt",
+     "gloss": "good-destination-obtains",
+     "grounds": "compound sadgati with āp optative",
+     "morph": "compound (sat+gati) + 3.sg.opt (āp)"
+    }
+   ],
+   "question": "What reward comes to one who worships you with devotion?",
+   "premises": [
+    "He worships you with devotion",
+    "He obtains good destination"
+   ],
+   "inference": "Devotional worship of the goddess leads to liberation.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Whoever worships you with devotion obtains a good destination."
+  },
+  {
+   "verse": 179,
+   "rows": [
+    {
+     "surface": "mṛtiradya",
+     "gloss": "death-today",
+     "grounds": "compound of death and today",
+     "morph": "compound (mṛti+adya)"
+    },
+    {
+     "surface": "adya",
+     "gloss": "today",
+     "grounds": "adverb today",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yugānte",
+     "gloss": "at-end-of-age",
+     "grounds": "locative singular yugānta",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "kula",
+     "grounds": "accusative singular kula",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with emphatic indeed",
+     "morph": "indecl."
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "abandon",
+     "grounds": "third person singular optative of parityaj",
+     "morph": "3.sg.opt (parityaj)"
+    }
+   ],
+   "question": "Should kula be abandoned at death today or at the end of an age?",
+   "premises": [
+    "Death may come today",
+    "The end of age may come",
+    "Kula must not be abandoned"
+   ],
+   "inference": "Kula-dharma is never to be abandoned under any temporal circumstance.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Whether death comes today or at the end of an age, one must never abandon kula."
+  },
+  {
+   "verse": 180,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kāmanna",
+     "gloss": "desire",
+     "grounds": "accusative singular kāma with emphatic na",
+     "morph": "n.acc.sg + indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "nor",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhayādvāpi",
+     "gloss": "fear-or-even",
+     "grounds": "ablative fear with particle api",
+     "morph": "m.abl.sg + indecl."
+    },
+    {
+     "surface": "kuladharmaṃ",
+     "gloss": "kula-dharma",
+     "grounds": "accusative singular kuladharma",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "parityajet",
+     "gloss": "abandon",
+     "grounds": "third person singular optative of parityaj",
+     "morph": "3.sg.opt (parityaj)"
+    }
+   ],
+   "question": "May kula-dharma be abandoned from desire or fear?",
+   "premises": [
+    "Desire does not justify abandonment",
+    "Fear does not justify abandonment",
+    "Kula-dharma must not be abandoned"
+   ],
+   "inference": "Neither desire nor fear permits abandoning kula-dharma.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One must not abandon kula-dharma from desire or even from fear."
+  },
+  {
+   "verse": 181,
+   "rows": [
+    {
+     "surface": "kliśyate",
+     "gloss": "suffers",
+     "grounds": "third person singular present passive of kliś",
+     "morph": "3.sg.pass-pres (kliś)"
+    },
+    {
+     "surface": "jātamātreṇa",
+     "gloss": "by-born-merely",
+     "grounds": "instrumental singular of jātamātra",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "bhūtāriṇātmaśatruṇā",
+     "gloss": "by-bhuta-enemy-self-enemy",
+     "grounds": "compound instrumental singular",
+     "morph": "compound (bhūta+ari+ātma+śatru), instr.sg"
+    }
+   ],
+   "question": "Who suffers from the moment of birth?",
+   "premises": [
+    "Suffering begins at birth",
+    "The enemy is bhuta and self"
+   ],
+   "inference": "One who is born suffers under hostile forces and self-enmity.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "One suffers from the very moment of birth, by the bhuta enemy and the enemy within."
+  },
+  {
+   "verse": 182,
+   "rows": [
+    {
+     "surface": "budbudā",
+     "gloss": "bubbles",
+     "grounds": "nominative plural budbuda",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "iva",
+     "gloss": "like",
+     "grounds": "simile particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "toyeṣu",
+     "gloss": "in-waters",
+     "grounds": "locative plural toya",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "kaulavimukhā",
+     "gloss": "kaula-averse",
+     "grounds": "compound adjective masculine plural",
+     "morph": "compound (kaula+vimukha), m.nom.pl"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun masculine plural",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "How are those averse to kaula compared?",
+   "premises": [
+    "Bubbles vanish in water",
+    "Those averse to kaula are like bubbles"
+   ],
+   "inference": "Those who turn away from kaula are as fleeting as bubbles.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Like bubbles in water, those who are averse to kaula are fleeting."
+  },
+  {
+   "verse": 183,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "third person singular present active of jīv",
+     "morph": "3.sg.act-pres (jīv)"
+    },
+    {
+     "surface": "mano",
+     "gloss": "mind",
+     "grounds": "nominative singular manas",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "relative pronoun genitive singular",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kuladharme",
+     "gloss": "in-kula-dharma",
+     "grounds": "locative singular kuladharma",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vyavasthitam",
+     "gloss": "established",
+     "grounds": "past participle of vyavasthā",
+     "morph": "m.nom.sg (vyavasthā)"
+    }
+   ],
+   "question": "Whose mind is established in kula-dharma?",
+   "premises": [
+    "His mind is established",
+    "It is established in kula-dharma",
+    "He truly lives"
+   ],
+   "inference": "True life belongs to one whose mind rests in kula-dharma.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "He truly lives whose mind is established in kula-dharma."
+  },
+  {
+   "verse": 184,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "demonstrative pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lohakārabhasrevaśvasannapi",
+     "gloss": "blacksmith-bellows-like-breathing-even",
+     "grounds": "compound comparing to blacksmith bellows with breathing even",
+     "morph": "compound (lohakāra+bhasa+iva+śvasat+api)"
+    },
+    {
+     "surface": "śvasannapi",
+     "gloss": "breathing-even",
+     "grounds": "present participle śvasat with api",
+     "morph": "m.nom.sg (śvas) + indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "jīvati",
+     "gloss": "lives",
+     "grounds": "third person singular present active of jīv",
+     "morph": "3.sg.act-pres (jīv)"
+    }
+   ],
+   "question": "Does one who breathes like bellows truly live?",
+   "premises": [
+    "He breathes like bellows",
+    "Breathing alone is not life",
+    "He does not truly live"
+   ],
+   "inference": "Mere mechanical breathing without kula-dharma is not true life.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Though he breathes like a blacksmith's bellows, he does not truly live."
+  },
+  {
+   "verse": 185,
+   "rows": [
+    {
+     "surface": "kuleśvari",
+     "gloss": "O-Kuleshvari",
+     "grounds": "vocative singular Kuleśvarī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kulājñasya",
+     "gloss": "of-kula-command",
+     "grounds": "genitive singular kulājña",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative pronoun neuter singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paśoriva",
+     "gloss": "like-beast",
+     "grounds": "genitive beast with simile particle",
+     "morph": "m.gen.sg + indecl."
+    },
+    {
+     "surface": "jīvitam",
+     "gloss": "life",
+     "grounds": "nominative singular jīvita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What is the life of one ignorant of kula-command?",
+   "premises": [
+    "He is ignorant of kula-command",
+    "His life is like a beast's"
+   ],
+   "inference": "Without knowledge of kula-command, life is merely animal existence.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "O Kuleshvari, the life of one ignorant of kula-command is like that of a beast."
+  },
+  {
+   "verse": 186,
+   "rows": [
+    {
+     "surface": "vratastho'pyavratastho",
+     "gloss": "vow-holder-or-non-vow-holder",
+     "grounds": "compound of vratastha and avratastha with api",
+     "morph": "compound (vratastha+api+avratastha)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun masculine singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaulavimukho",
+     "gloss": "kaula-averse",
+     "grounds": "compound adjective masculine singular",
+     "morph": "compound (kaula+vimukha), m.nom.sg"
+    },
+    {
+     "surface": "janaḥ",
+     "gloss": "person",
+     "grounds": "nominative singular jana",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does vow status matter for one averse to kaula?",
+   "premises": [
+    "He may hold vows or not",
+    "He is averse to kaula",
+    "Vow status does not save him"
+   ],
+   "inference": "Whether or not one holds vows, aversion to kaula disqualifies true spiritual life.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "Whether a vow-holder or not, a person averse to kaula is disqualified."
+  },
+  {
+   "verse": 187,
+   "rows": [
+    {
+     "surface": "kuladharmaparā",
+     "gloss": "kula-dharma-devoted",
+     "grounds": "compound adjective feminine singular",
+     "morph": "compound (kuladharma+parā), f.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "vocative singular devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "śeṣāśca",
+     "gloss": "rest-and",
+     "grounds": "nominative plural śeṣa with ca",
+     "morph": "m.nom.pl + indecl."
+    },
+    {
+     "surface": "dvāragardabhāḥ",
+     "gloss": "gate-donkeys",
+     "grounds": "compound nominative plural",
+     "morph": "compound (dvāra+gardabha), m.nom.pl"
+    }
+   ],
+   "question": "How are the rest described beside kula-dharma devotees?",
+   "premises": [
+    "The devotee is devoted to kula-dharma",
+    "The rest are gate-donkeys"
+   ],
+   "inference": "Only kula-dharma devotion distinguishes the worthy from mere gate-donkeys.",
+   "uncertainties": [
+    "none"
+   ],
+   "plain_english": "O goddess, devoted to kula-dharma; the rest are gate-donkeys."
+  }
+ ]
+}

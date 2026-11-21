@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p22",
+ "items": [
+  {
+   "verse": 550,
+   "rows": [
+    {
+     "surface": "kālakṣmāntavāmanetramaruṇāṃ",
+     "gloss": "time-lakshmi-end-left-eye-red",
+     "grounds": "fused compound adjective in accusative feminine singular; internal sandhi not split",
+     "morph": "adj.acc.sg.f"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "heart",
+     "grounds": "locative singular neuter noun",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular active of root ni",
+     "morph": "verb.3.sg.act.opt"
+    }
+   ],
+   "question": "Where should the red time-lakshmi-end-left-eye form be placed?",
+   "premises": [
+    "The verse names a red form.",
+    "It names the heart as location.",
+    "It commands placement there."
+   ],
+   "inference": "The red form is to be placed in the heart.",
+   "uncertainties": [
+    "Compound internal segmentation is uncertain."
+   ],
+   "plain_english": "Place the red form in the heart."
+  }
+ ]
+}

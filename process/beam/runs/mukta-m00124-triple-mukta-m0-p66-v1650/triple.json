@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "āpaścaivāpavatsaśca",
+     "gloss": "waters-and-also-and-apavatsa-and",
+     "grounds": "fused enumeration: āpas + ca + eva + apavatsaḥ + ca",
+     "morph": "compound"
+    },
+    {
+     "surface": "savitāpi",
+     "gloss": "savitṛ-also",
+     "grounds": "savitṛ + api with sandhi",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "sāvitrakaḥ",
+     "gloss": "sāvitraka",
+     "grounds": "name in the enumeration",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which additional divine figures are included in this segment of the enumeration?",
+   "premises": [
+    "The preceding verses list a sequence of named figures.",
+    "This verse continues that sequence with further names.",
+    "Āpas, Apavatsa, Savitṛ, and Sāvitraka are named here."
+   ],
+   "inference": "The enumeration extends to include Āpas, Apavatsa, Savitṛ, and Sāvitraka.",
+   "uncertainties": [
+    "The precise identity or role of Apavatsa and Sāvitraka in this context is not specified."
+   ],
+   "plain_english": "And Āpas, and also Apavatsa, and Savitṛ as well, and Sāvitraka."
+  }
+ ]
+}

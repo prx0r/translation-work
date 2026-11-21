@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p157",
+ "items": [
+  {
+   "verse": 3925,
+   "rows": [
+    {
+     "surface": "maṇḍapasya",
+     "gloss": "of-pavilion",
+     "grounds": "genitive singular of maṇḍapa",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "vimānasya",
+     "gloss": "of-shrine",
+     "grounds": "genitive singular of vimāna",
+     "morph": "n.gen.sg.n"
+    },
+    {
+     "surface": "saumyāyāṃ",
+     "gloss": "auspicious",
+     "grounds": "locative singular feminine of saumya",
+     "morph": "adj.f.loc.sg"
+    },
+    {
+     "surface": "pūrvato",
+     "gloss": "eastward",
+     "grounds": "indeclinable directional form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "diśi",
+     "gloss": "direction",
+     "grounds": "locative singular feminine of diś",
+     "morph": "n.f.loc.sg"
+    }
+   ],
+   "question": "Where must the pavilion and shrine be situated for proper establishment?",
+   "premises": [
+    "sthāpana follows the prescribed path",
+    "the pavilion and shrine are named",
+    "the auspicious eastern direction is specified"
+   ],
+   "inference": "The establishment is to be carried out with the pavilion and shrine oriented toward the auspicious eastern direction.",
+   "uncertainties": [
+    "whether saumyāyāṃ modifies diśi or the whole establishment phrase",
+    "whether pūrvato is directional or locative in force"
+   ],
+   "plain_english": "In the auspicious eastern direction of the pavilion and shrine."
+  }
+ ]
+}

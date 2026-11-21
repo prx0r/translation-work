@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p138",
+ "items": [
+  {
+   "verse": 3450,
+   "rows": [
+    {
+     "surface": "dhārayed",
+     "gloss": "should-wear",
+     "grounds": "optative of dhṛ, wear or carry",
+     "morph": "verb.3.sg.act-opt"
+    },
+    {
+     "surface": "vāmahastena",
+     "gloss": "with-left-hand",
+     "grounds": "instrumental of vāma-hasta, left hand",
+     "morph": "instr.sg.m"
+    },
+    {
+     "surface": "kaṇṭhe",
+     "gloss": "throat",
+     "grounds": "locative of kaṇṭha, throat",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhujamūlake",
+     "gloss": "arm-pit",
+     "grounds": "locative of bhujamūlaka, armpit",
+     "morph": "loc.sg.m"
+    }
+   ],
+   "question": "Should the inscribed charm be worn with the left hand at throat or armpit?",
+   "premises": [
+    "The charm is worn with the left hand.",
+    "The wearing place is throat or armpit."
+   ],
+   "inference": "The practitioner should wear the inscribed charm with the left hand, placing it at either the throat or the armpit.",
+   "uncertainties": [
+    "The exact object being worn is supplied by the preceding context.",
+    "Whether both placements are equally permitted or contextually distinguished is not stated."
+   ],
+   "plain_english": "It should be worn with the left hand, at the throat or the armpit."
+  }
+ ]
+}

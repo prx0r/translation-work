@@ -1,0 +1,37 @@
+{
+ "song": "mukta-m0-p10",
+ "items": [
+  {
+   "verse": 250,
+   "rows": [
+    {
+     "surface": "mattebhadantamaṇibhiḥ",
+     "gloss": "with-intoxicated-elephant-tusk-jewels",
+     "grounds": "instrumental plural of compound matta-ibha-danta-maṇi; internal sandhi within fused form",
+     "morph": "matta+ibha+danta+maṇi+instr.pl.m"
+    },
+    {
+     "surface": "japet",
+     "gloss": "one-should-recite",
+     "grounds": "optative expressing prescribed ritual action",
+     "morph": "opt.3.sg.act √jap"
+    },
+    {
+     "surface": "ākṛṣṭikarmaṇi",
+     "gloss": "in-attraction-rite",
+     "grounds": "locative singular of compound ākṛṣṭi-karman indicating ritual context",
+     "morph": "ākṛṣṭi+karman+loc.sg.n"
+    }
+   ],
+   "question": "What accompaniment is required for mantra recitation during an attraction rite?",
+   "premises": [
+    "Mantra recitation is prescribed for specific ritual applications.",
+    "An attraction rite constitutes a distinct ritual application.",
+    "Intoxicated-elephant-tusk jewels are specified as the accompaniment."
+   ],
+   "inference": "In an attraction rite, one should recite the mantra with intoxicated-elephant-tusk jewels.",
+   "uncertainties": [],
+   "plain_english": "One should recite the mantra with jewels from the tusks of intoxicated elephants in an attraction rite."
+  }
+ ]
+}

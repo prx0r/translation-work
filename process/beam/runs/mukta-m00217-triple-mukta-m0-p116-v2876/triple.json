@@ -1,0 +1,1019 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2876,
+   "rows": [
+    {
+     "surface": "sārdhaṃ",
+     "gloss": "with-half",
+     "grounds": "indeclinable, meaning together with a half",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaṭtriṃśatpañcasaṃkhya",
+     "gloss": "thirty-six-five-numbered",
+     "grounds": "compound describing the count",
+     "morph": "compound=ṣaṭtriṃśat+pañca+saṃkhya+adj"
+    },
+    {
+     "surface": "kramoditāḥ",
+     "gloss": "arisen-in-sequence",
+     "grounds": "compound: krama + uditāḥ",
+     "morph": "compound=krama+udita, m.nom.pl"
+    }
+   ],
+   "question": "What quantity and sequential nature characterize the mantras to be recited?",
+   "premises": [
+    "The count is one thousand and a half.",
+    "The number is specified as thirty-six and five.",
+    "These are arisen in sequence."
+   ],
+   "inference": "A specific sequential set totaling one thousand five hundred thirty-six mantras is prescribed.",
+   "uncertainties": [
+    "The exact parsing of ṣaṭtriṃśatpañcasaṃkhya as 36+5 or another combination is context-dependent."
+   ],
+   "plain_english": "One thousand five hundred, numbered thirty-six and five, arisen in sequence."
+  },
+  {
+   "verse": 2877,
+   "rows": [
+    {
+     "surface": "kālātmanityāmantrāṃś",
+     "gloss": "time-soul-eternal-mantras",
+     "grounds": "compound object of japitvā",
+     "morph": "compound=kāla+ātma+nitya+mantra, m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japitvā",
+     "gloss": "having-chanted",
+     "grounds": "absolutive of jap",
+     "morph": "abs., √jap"
+    },
+    {
+     "surface": "pūrvavāsare",
+     "gloss": "on-previous-day",
+     "grounds": "compound locative of time",
+     "morph": "compound=pūrva+vāsara, m.loc.sg"
+    }
+   ],
+   "question": "Which mantras must be chanted and at what time before the main rite?",
+   "premises": [
+    "The mantras are identified as time-soul-eternal mantras.",
+    "They must be chanted.",
+    "The chanting occurs on the previous day."
+   ],
+   "inference": "The practitioner must chant the time-soul-eternal mantras on the day before the main ritual.",
+   "uncertainties": [
+    "The precise identity of kālātmanityāmantrāḥ depends on tradition-specific knowledge."
+   ],
+   "plain_english": "And having chanted the time-soul-eternal mantras on the previous day."
+  },
+  {
+   "verse": 2878,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajapet",
+     "gloss": "one-should-chant",
+     "grounds": "optative of pra-jap",
+     "morph": "3.sg.opt.act., √jap"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "oblation",
+     "grounds": "object of kṛtvā",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-performed",
+     "grounds": "absolutive of kṛ",
+     "morph": "abs., √kṛ"
+    },
+    {
+     "surface": "samantataḥ",
+     "gloss": "all-around",
+     "grounds": "indeclinable of place",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual actions follow the initial chanting on the subsequent occasion?",
+   "premises": [
+    "One should chant a thousand.",
+    "This chanting occurs afterwards.",
+    "An oblation is performed all around."
+   ],
+   "inference": "Afterwards one should chant a thousand and perform an oblation on all sides.",
+   "uncertainties": [],
+   "plain_english": "Afterwards one should chant a thousand and, having performed the oblation, do so all around."
+  },
+  {
+   "verse": 2879,
+   "rows": [
+    {
+     "surface": "muditaiḥ",
+     "gloss": "by-rejoicing",
+     "grounds": "adjective describing hosts",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "yoginīvṛndaiḥ",
+     "gloss": "by-yogini-hosts",
+     "grounds": "compound instrumental agent",
+     "morph": "compound=yoginī+vṛnda, n.inst.pl"
+    },
+    {
+     "surface": "ekaikaṃ",
+     "gloss": "one-by-one",
+     "grounds": "distributive adjective/adverbial",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devatātmabhiḥ",
+     "gloss": "deity-natured",
+     "grounds": "compound describing the hosts",
+     "morph": "compound=devatā+ātman, m.inst.pl"
+    }
+   ],
+   "question": "By whom is the subsequent transmission or action carried out individually?",
+   "premises": [
+    "The agents are hosts of yoginīs.",
+    "They are rejoicing.",
+    "They are deity-natured and act one by one."
+   ],
+   "inference": "Rejoicing, deity-natured hosts of yoginīs perform the action individually.",
+   "uncertainties": [],
+   "plain_english": "By rejoicing hosts of yoginīs, deity-natured, one by one."
+  },
+  {
+   "verse": 2880,
+   "rows": [
+    {
+     "surface": "svakramaṃ",
+     "gloss": "own-sequence",
+     "grounds": "compound object",
+     "morph": "compound=sva+krama, m.acc.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "to-him",
+     "grounds": "pronoun, recipient",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kathayet",
+     "gloss": "one-should-tell",
+     "grounds": "optative of kath",
+     "morph": "3.sg.opt.act., √kath"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "indeclinable of time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prabhṛti",
+     "gloss": "from-then-on",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "so'pi",
+     "gloss": "he-also",
+     "grounds": "pronoun with particle; sandhi saḥ + api",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tam",
+     "gloss": "that",
+     "grounds": "pronoun object",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What knowledge is communicated to the disciple and from what point does he act?",
+   "premises": [
+    "One should tell him his own sequence.",
+    "This occurs at that time.",
+    "From then on he also performs that."
+   ],
+   "inference": "The disciple is told his own sequence and from that point he undertakes the practice.",
+   "uncertainties": [
+    "The exact referent of tam is supplied by context."
+   ],
+   "plain_english": "One should tell him his own sequence; from then on he also does that."
+  },
+  {
+   "verse": 2881,
+   "rows": [
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "numeral object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prajaped",
+     "gloss": "one-should-chant",
+     "grounds": "optative of pra-jap",
+     "morph": "3.sg.opt.act., √jap"
+    },
+    {
+     "surface": "vidyām",
+     "gloss": "the-vidya",
+     "grounds": "object of chanting",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhiṣekasamanvitam",
+     "gloss": "accompanied-by-consecration",
+     "grounds": "compound adjective",
+     "morph": "compound=abhiṣeka+samanvita, n.acc.sg"
+    }
+   ],
+   "question": "How must the disciple chant the vidya in connection with consecration?",
+   "premises": [
+    "The disciple should chant a thousand times.",
+    "The object of chanting is the vidya.",
+    "The chanting is accompanied by consecration."
+   ],
+   "inference": "The disciple should chant the vidya a thousand times together with consecration.",
+   "uncertainties": [],
+   "plain_english": "He should chant the vidya a thousand times, accompanied by consecration."
+  },
+  {
+   "verse": 2882,
+   "rows": [
+    {
+     "surface": "teṣu",
+     "gloss": "in-them",
+     "grounds": "pronoun locative",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "object of invocation",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "samāvāhya",
+     "gloss": "having-invoked",
+     "grounds": "absolutive of sam-ā-vah",
+     "morph": "abs., √vah"
+    },
+    {
+     "surface": "sampūjya",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of sam-pūj",
+     "morph": "abs., √pūj"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhiṣecayet",
+     "gloss": "one-should-consecrate",
+     "grounds": "optative causative of abhi-ṣic",
+     "morph": "3.sg.opt.caus.act., √sic"
+    }
+   ],
+   "question": "What ritual steps must precede the act of consecration?",
+   "premises": [
+    "The powers must be invoked in them.",
+    "The powers must be worshipped.",
+    "Only then should one consecrate."
+   ],
+   "inference": "Consecration should be performed after invoking and worshipping the powers.",
+   "uncertainties": [
+    "The referent of teṣu is contextually determined."
+   ],
+   "plain_english": "Having invoked the powers in them and having worshipped them, one should indeed consecrate."
+  },
+  {
+   "verse": 2883,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "naimittikaṃ",
+     "gloss": "occasional",
+     "grounds": "adjective describing practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nityam",
+     "gloss": "daily",
+     "grounds": "adjective describing practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "avicchinnaṃ",
+     "gloss": "uninterrupted",
+     "grounds": "adjective describing manner",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "optative of sam-ā-car",
+     "morph": "3.sg.opt.act., √car"
+    }
+   ],
+   "question": "In what manner should both occasional and daily rites be performed?",
+   "premises": [
+    "The practice includes occasional rites.",
+    "The practice includes daily rites.",
+    "They should be performed without interruption."
+   ],
+   "inference": "Both occasional and daily rites should be performed thus, without interruption.",
+   "uncertainties": [],
+   "plain_english": "Thus one should perform the occasional and the daily rites without interruption."
+  },
+  {
+   "verse": 2884,
+   "rows": [
+    {
+     "surface": "trikuṭāḥ",
+     "gloss": "three-peaked",
+     "grounds": "compound adjective/noun",
+     "morph": "compound=tri+kuṭa, f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catuṣkuṭāḥ",
+     "gloss": "four-peaked",
+     "grounds": "compound adjective/noun",
+     "morph": "compound=catur+kuṭa, f.nom.pl"
+    },
+    {
+     "surface": "pañcakūṭāḥ",
+     "gloss": "five-peaked",
+     "grounds": "compound adjective/noun",
+     "morph": "compound=pañca+kuṭa, f.nom.pl"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which initial categories of peaked vidyas are enumerated in this list?",
+   "premises": [
+    "Three-peaked vidyas are included.",
+    "Four-peaked vidyas are included.",
+    "Five-peaked vidyas are likewise included."
+   ],
+   "inference": "The enumeration begins with three-peaked, four-peaked, and five-peaked vidyas.",
+   "uncertainties": [],
+   "plain_english": "The three-peaked, four-peaked, and likewise the five-peaked."
+  },
+  {
+   "verse": 2885,
+   "rows": [
+    {
+     "surface": "daśaikādaśakūṭāḥ",
+     "gloss": "ten-eleven-peaked",
+     "grounds": "compound listing two types",
+     "morph": "compound=daśa+ekādaśa+kuṭa, f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ravikūṭāḥ",
+     "gloss": "sun-peaked",
+     "grounds": "compound adjective/noun",
+     "morph": "compound=ravi+kuṭa, f.nom.pl"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which further categories of peaked vidyas continue the enumeration?",
+   "premises": [
+    "Ten-peaked and eleven-peaked vidyas are included.",
+    "Sun-peaked vidyas are included.",
+    "These are likewise included."
+   ],
+   "inference": "The list continues with ten- and eleven-peaked and sun-peaked vidyas.",
+   "uncertainties": [
+    "ravikūṭāḥ may imply twelve-peaked by association with the sun."
+   ],
+   "plain_english": "And the ten- and eleven-peaked, and likewise the sun-peaked."
+  },
+  {
+   "verse": 2886,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcadaśākhyāḥ",
+     "gloss": "fifteen-named",
+     "grounds": "compound adjective",
+     "morph": "compound=pañcadaśa+ākhyā, f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśakūṭakāḥ",
+     "gloss": "sixteen-peaked",
+     "grounds": "compound adjective/noun",
+     "morph": "compound=ṣoḍaśa+kuṭaka, f.nom.pl"
+    }
+   ],
+   "question": "Which additional fifteen- and sixteen-part vidyas are included in the sequence?",
+   "premises": [
+    "Those named fifteen are included.",
+    "Sixteen-peaked ones are included.",
+    "Both are added likewise."
+   ],
+   "inference": "The enumeration further includes the fifteen-named and sixteen-peaked vidyas.",
+   "uncertainties": [],
+   "plain_english": "Likewise those named fifteen, and likewise the sixteen-peaked."
+  },
+  {
+   "verse": 2887,
+   "rows": [
+    {
+     "surface": "pañcāyatanavidyāḥ",
+     "gloss": "five-shrine-vidyas",
+     "grounds": "compound noun",
+     "morph": "compound=pañca+āyatana+vidyā, f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāsajālaṃ",
+     "gloss": "nyasa-net",
+     "grounds": "compound noun",
+     "morph": "compound=nyāsa+jāla, n.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indeclinable compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What other vidyas and ritual structures complete this enumerated set?",
+   "premises": [
+    "Five-shrine vidyas are included.",
+    "The net of nyasa is included.",
+    "These are likewise included."
+   ],
+   "inference": "The set also includes the five-shrine vidyas and the net of nyasa.",
+   "uncertainties": [],
+   "plain_english": "And the five-shrine vidyas, and likewise the net of nyasa."
+  },
+  {
+   "verse": 2888,
+   "rows": [
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "demonstrative pronoun",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "vidyāḥ",
+     "gloss": "vidyas",
+     "grounds": "object of chanting",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "prajapecchiṣyaḥ",
+     "gloss": "disciple-should-chant",
+     "grounds": "optative with subject śiṣyaḥ; sandhi prajapet + śiṣyaḥ",
+     "morph": "3.sg.opt.act., √jap + m.nom.sg"
+    },
+    {
+     "surface": "kramaprāptāḥ",
+     "gloss": "obtained-in-sequence",
+     "grounds": "compound adjective",
+     "morph": "compound=krama+prāpta, f.acc.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-order",
+     "grounds": "instrumental of manner",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the disciple chant the vidyas received through the sequence?",
+   "premises": [
+    "Those vidyas are obtained in sequence.",
+    "The disciple should chant them.",
+    "They must be chanted in order."
+   ],
+   "inference": "The disciple should chant those sequence-obtained vidyas in proper order.",
+   "uncertainties": [],
+   "plain_english": "The disciple should indeed chant those vidyas, obtained in sequence, in due order."
+  },
+  {
+   "verse": 2889,
+   "rows": [
+    {
+     "surface": "kramaprāptamahāvidyānicaye",
+     "gloss": "in-sequence-obtained-great-vidya-collection",
+     "grounds": "compound locative",
+     "morph": "compound=krama+prāpta+mahāvidyā+nicaya, m.loc.sg"
+    },
+    {
+     "surface": "bhaktiśālini",
+     "gloss": "possessing-devotion",
+     "grounds": "compound adjective describing the disciple",
+     "morph": "compound=bhakti+śālin, m.loc.sg"
+    }
+   ],
+   "question": "What qualification must the recipient possess regarding the collection of great vidyas?",
+   "premises": [
+    "The context is a collection of great vidyas obtained in sequence.",
+    "The recipient is characterized by devotion.",
+    "Devotion qualifies engagement with this collection."
+   ],
+   "inference": "The sequence-obtained collection of great vidyas is for one who possesses devotion.",
+   "uncertainties": [],
+   "plain_english": "In the collection of great vidyas obtained in sequence, for one who possesses devotion."
+  },
+  {
+   "verse": 2890,
+   "rows": [
+    {
+     "surface": "prākproktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound instrumental",
+     "morph": "compound=prāk+prokta+vidhi, m.inst.sg"
+    },
+    {
+     "surface": "samyaṅ",
+     "gloss": "properly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍapaṃ",
+     "gloss": "pavilion",
+     "grounds": "object of construction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kārayedbudhaḥ",
+     "gloss": "wise-one-should-have-made",
+     "grounds": "optative causative with subject budhaḥ; sandhi kārayet + budhaḥ",
+     "morph": "3.sg.opt.caus.act., √kṛ + m.nom.sg"
+    }
+   ],
+   "question": "How and by whom should the ritual pavilion be constructed?",
+   "premises": [
+    "The method is as previously stated.",
+    "The construction must be done properly.",
+    "The wise one should have the pavilion made."
+   ],
+   "inference": "The wise one should have the pavilion properly constructed according to the previously stated method.",
+   "uncertainties": [],
+   "plain_english": "The wise one should have the pavilion properly made according to the previously stated method."
+  },
+  {
+   "verse": 2891,
+   "rows": [
+    {
+     "surface": "sudine",
+     "gloss": "on-good-day",
+     "grounds": "compound locative of time",
+     "morph": "compound=su+dina, m.loc.sg"
+    },
+    {
+     "surface": "śubhanakṣatre",
+     "gloss": "in-auspicious-lunar-mansion",
+     "grounds": "compound locative",
+     "morph": "compound=śubha+nakṣatra, n.loc.sg"
+    },
+    {
+     "surface": "sumuhūrte",
+     "gloss": "at-good-moment",
+     "grounds": "compound locative",
+     "morph": "compound=su+muhūrta, m.loc.sg"
+    },
+    {
+     "surface": "śubhodaye",
+     "gloss": "at-auspicious-rising",
+     "grounds": "compound locative",
+     "morph": "compound=śubha+udaya, m.loc.sg"
+    }
+   ],
+   "question": "What auspicious timing conditions are required for the ritual?",
+   "premises": [
+    "The day must be good.",
+    "The lunar mansion must be auspicious.",
+    "The moment and rising must be auspicious."
+   ],
+   "inference": "The ritual should be undertaken at an auspicious time marked by a good day, lunar mansion, moment, and rising.",
+   "uncertainties": [],
+   "plain_english": "On a good day, under an auspicious lunar mansion, at a good moment, at an auspicious rising."
+  },
+  {
+   "verse": 2892,
+   "rows": [
+    {
+     "surface": "prākproktavidhinā",
+     "gloss": "by-previously-stated-method",
+     "grounds": "compound instrumental",
+     "morph": "compound=prāk+prokta+vidhi, m.inst.sg"
+    },
+    {
+     "surface": "samyaṅ",
+     "gloss": "properly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt.act., √kṛ"
+    },
+    {
+     "surface": "puṇyāhavācanam",
+     "gloss": "auspicious-day-declaration",
+     "grounds": "compound object",
+     "morph": "compound=puṇyāha+vācana, n.acc.sg"
+    }
+   ],
+   "question": "Which preliminary purification rite must be performed according to the stated method?",
+   "premises": [
+    "The method is as previously stated.",
+    "The action must be done properly.",
+    "The rite is the declaration of an auspicious day."
+   ],
+   "inference": "One should properly perform the puṇyāhavācana according to the previously stated method.",
+   "uncertainties": [],
+   "plain_english": "One should properly perform the declaration of an auspicious day according to the previously stated method."
+  },
+  {
+   "verse": 2893,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "object of worship",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative of pūj",
+     "morph": "3.sg.opt.act., √pūj"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterwards",
+     "grounds": "indeclinable of sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svastivācanapūrvakam",
+     "gloss": "preceded-by-svasti-declaration",
+     "grounds": "compound adverbial/adjective",
+     "morph": "compound=svasti+vācana+pūrvaka, n.acc.sg"
+    }
+   ],
+   "question": "What act of worship and preliminary invocation follows the purification rite?",
+   "premises": [
+    "Brahmins should be worshipped.",
+    "This occurs afterwards.",
+    "It is preceded by the svasti declaration."
+   ],
+   "inference": "Afterwards one should worship the brahmins, preceded by the svasti declaration.",
+   "uncertainties": [],
+   "plain_english": "Afterwards one should worship the brahmins, preceded by the svasti declaration."
+  },
+  {
+   "verse": 2894,
+   "rows": [
+    {
+     "surface": "dadājñayā",
+     "gloss": "by-his-command",
+     "grounds": "compound instrumental; sandhi tad + ājñayā",
+     "morph": "compound=tad+ājñā, f.inst.sg"
+    },
+    {
+     "surface": "anyaviprāṃś",
+     "gloss": "other-brahmins",
+     "grounds": "compound object",
+     "morph": "compound=anya+vipra, m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vṛṇuyāt",
+     "gloss": "one-should-choose",
+     "grounds": "optative of vṛ",
+     "morph": "3.sg.opt.act., √vṛ"
+    },
+    {
+     "surface": "svarṇavastrakaiḥ",
+     "gloss": "with-gold-and-cloths",
+     "grounds": "compound instrumental of gifts",
+     "morph": "compound=svarṇa+vastraka, n.inst.pl"
+    }
+   ],
+   "question": "Whom else should be selected and with what offerings by command?",
+   "premises": [
+    "Other brahmins should be chosen.",
+    "The selection is by his command.",
+    "They are honored with gold and cloths."
+   ],
+   "inference": "By his command one should also choose other brahmins and honor them with gold and cloths.",
+   "uncertainties": [
+    "The referent of dadājñayā (his command) depends on context."
+   ],
+   "plain_english": "By his command one should also choose other brahmins with gold and cloths."
+  },
+  {
+   "verse": 2895,
+   "rows": [
+    {
+     "surface": "brāhmaṇān",
+     "gloss": "brahmins",
+     "grounds": "object",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "navasaṃkhyāṃś",
+     "gloss": "nine-in-number",
+     "grounds": "compound adjective",
+     "morph": "compound=nava+saṃkhyā, m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hy",
+     "gloss": "indeed",
+     "grounds": "particle; sandhi form of hi",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭau",
+     "gloss": "eight",
+     "grounds": "numeral",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvārapālakān",
+     "gloss": "door-guardians",
+     "grounds": "compound object",
+     "morph": "compound=dvāra+pālaka, m.acc.pl"
+    }
+   ],
+   "question": "How many brahmins and door guardians must be appointed for the rite?",
+   "premises": [
+    "Nine brahmins are specified.",
+    "Eight door guardians are specified.",
+    "Both groups are to be included."
+   ],
+   "inference": "One should appoint nine brahmins and eight door guardians.",
+   "uncertainties": [],
+   "plain_english": "Nine brahmins and indeed eight door guardians."
+  },
+  {
+   "verse": 2896,
+   "rows": [
+    {
+     "surface": "svavidyopāsakān",
+     "gloss": "worshippers-of-own-vidya",
+     "grounds": "compound object",
+     "morph": "compound=sva+vidyā+upāsaka, m.acc.pl"
+    },
+    {
+     "surface": "bhaktyā",
+     "gloss": "with-devotion",
+     "grounds": "instrumental of manner",
+     "morph": "f.inst.sg"
+    },
+    {
+     "surface": "svarṇaratnāṃgulīyakaiḥ",
+     "gloss": "with-gold-jewel-rings",
+     "grounds": "compound instrumental of gifts",
+     "morph": "compound=svarṇa+ratna+aṅgulīyaka, n.inst.pl"
+    }
+   ],
+   "question": "How should worshippers of one's own vidya be honored in this ritual?",
+   "premises": [
+    "The recipients are worshippers of one's own vidya.",
+    "They are honored with devotion.",
+    "They receive gold and jeweled rings."
+   ],
+   "inference": "Worshippers of one's own vidya should be honored with devotion and given gold and jeweled rings.",
+   "uncertainties": [],
+   "plain_english": "The worshippers of one's own vidya, with devotion, with gold and jeweled rings."
+  },
+  {
+   "verse": 2897,
+   "rows": [
+    {
+     "surface": "śrīgurūktaprakāreṇa",
+     "gloss": "by-manner-stated-by-revered-guru",
+     "grounds": "compound instrumental",
+     "morph": "compound=śrī+guru+ukta+prakāra, m.inst.sg"
+    },
+    {
+     "surface": "samasūtraṃ",
+     "gloss": "with-even-thread",
+     "grounds": "compound adjective/object",
+     "morph": "compound=sama+sūtra, n.acc.sg"
+    },
+    {
+     "surface": "manoharam",
+     "gloss": "charming",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "According to whose instruction and with what qualities should the arrangement be made?",
+   "premises": [
+    "The manner is as stated by the revered guru.",
+    "The arrangement uses an even thread.",
+    "The arrangement is charming."
+   ],
+   "inference": "The arrangement should be made according to the guru's instruction, with an even thread and in a charming manner.",
+   "uncertainties": [],
+   "plain_english": "According to the manner stated by the revered guru, with an even thread, charming."
+  },
+  {
+   "verse": 2898,
+   "rows": [
+    {
+     "surface": "saptasaptatikoṇeṣu",
+     "gloss": "in-seventy-seven-corners",
+     "grounds": "compound locative",
+     "morph": "compound=saptasaptati+koṇa, m.loc.pl"
+    },
+    {
+     "surface": "yoniṣu",
+     "gloss": "in-yonis",
+     "grounds": "locative noun",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "pratiyoni",
+     "gloss": "in-each-yoni",
+     "grounds": "indeclinable distributive compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where within the diagrammatic structure must the placement be made repeatedly?",
+   "premises": [
+    "The locations are seventy-seven corners.",
+    "The locations are yonis.",
+    "The action applies in each yoni."
+   ],
+   "inference": "Placement must be made in the seventy-seven corners and in each yoni.",
+   "uncertainties": [],
+   "plain_english": "In the seventy-seven corners, in the yonis, and in each yoni."
+  },
+  {
+   "verse": 2899,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "indeclinable of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śālipuñjeṣu",
+     "gloss": "on-rice-heaps",
+     "grounds": "compound locative",
+     "morph": "compound=śāli+puñja, m.loc.pl"
+    },
+    {
+     "surface": "kalaśān",
+     "gloss": "pots",
+     "grounds": "object of placement",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sthāpayedbudhaḥ",
+     "gloss": "wise-one-should-place",
+     "grounds": "optative causative with subject budhaḥ; sandhi sthāpayet + budhaḥ",
+     "morph": "3.sg.opt.caus.act., √sthā + m.nom.sg"
+    }
+   ],
+   "question": "What objects must the wise one place and on what base throughout the area?",
+   "premises": [
+    "Pots are to be placed.",
+    "They are placed on heaps of rice.",
+    "This is done everywhere by the wise one."
+   ],
+   "inference": "The wise one should place pots everywhere on heaps of rice.",
+   "uncertainties": [],
+   "plain_english": "The wise one should place pots everywhere on heaps of rice."
+  }
+ ]
+}

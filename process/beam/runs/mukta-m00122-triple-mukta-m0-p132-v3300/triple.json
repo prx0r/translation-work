@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p132",
+ "items": [
+  {
+   "verse": 3300,
+   "rows": [
+    {
+     "surface": "tuṣṭā",
+     "gloss": "pleased",
+     "grounds": "feminine nominative singular participle of tuṣ; describes the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhīṣṭapradā",
+     "gloss": "desired-giver",
+     "grounds": "compound of abhīṣṭa and pradā; feminine nominative singular",
+     "morph": "f.nom.sg (compound)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "she-becomes",
+     "grounds": "third person singular optative active of bhū",
+     "morph": "3.sg.opt.act (root bhū)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable quotation or conclusion marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When the goddess is pleased by this worship, does she become the giver of desired things?",
+   "premises": [
+    "Pleased goddess becomes giver of desired things.",
+    "Thus marks the stated ritual result.",
+    "Worship culminates in divine favor."
+   ],
+   "inference": "The verse states that the goddess, once pleased, becomes the giver of desired things.",
+   "uncertainties": [
+    "Whether bhavet is optative or another modal reading.",
+    "Whether abhīṣṭapradā is a single compound or appositional phrase."
+   ],
+   "plain_english": "Thus, pleased, she becomes the giver of desired things."
+  }
+ ]
+}

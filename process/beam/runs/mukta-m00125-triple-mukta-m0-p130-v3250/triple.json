@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p130",
+ "items": [
+  {
+   "verse": 3250,
+   "rows": [
+    {
+     "surface": "sādhāraṇaṃ",
+     "gloss": "common",
+     "grounds": "adjective qualifying the object of remembrance as ordinary or general",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smarantyenaṃ",
+     "gloss": "remembering-him",
+     "grounds": "fused form of smaranti and enam; internal sandhi noted, analyzed as given",
+     "morph": "3.pl.pres.act√smṛ+m.acc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun referring to those who hold this view",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yānti",
+     "gloss": "go",
+     "grounds": "verb expressing the resulting movement or fate",
+     "morph": "3.pl.pres.act√yā"
+    },
+    {
+     "surface": "narakārṇavam",
+     "gloss": "hell-ocean",
+     "grounds": "compound denoting the ocean of hell as destination",
+     "morph": "naraka+arṇava=m.acc.sg"
+    }
+   ],
+   "question": "What consequence follows from regarding the Lord as common?",
+   "premises": [
+    "Some people remember the Lord as common.",
+    "Such people proceed to a dire destination.",
+    "That destination is described as the ocean of hell."
+   ],
+   "inference": "Regarding the Lord as common leads those people to the ocean of hell.",
+   "uncertainties": [
+    "The referent of enam is inferred from the preceding context as the Lord."
+   ],
+   "plain_english": "Those who remember him as common go to the ocean of hell."
+  }
+ ]
+}

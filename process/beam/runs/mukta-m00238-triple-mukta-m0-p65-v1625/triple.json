@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p65",
+ "items": [
+  {
+   "verse": 1625,
+   "rows": [
+    {
+     "surface": "kāmīprakāmaṃ",
+     "gloss": "lustful-excessively",
+     "grounds": "fused adverbial compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "duritepravṛtto",
+     "gloss": "engaged-in-sin",
+     "grounds": "past participle with locative sense",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yo",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "durmatirdurmati",
+     "gloss": "evil-minded-evil-minded",
+     "grounds": "repeated compound form",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "varṣajātaḥ",
+     "gloss": "year-born",
+     "grounds": "participle of birth",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What kind of person is described as lustful, sinful, and evil-minded from birth?",
+   "premises": [
+    "The verse lists moral defects.",
+    "It names a year-born person.",
+    "It describes lust and sin."
+   ],
+   "inference": "The verse characterizes a morally corrupt individual.",
+   "uncertainties": [
+    "Exact sandhi and compound boundaries are unclear."
+   ],
+   "plain_english": "He is lustful, engaged in sin, evil-minded, and born in a year."
+  }
+ ]
+}

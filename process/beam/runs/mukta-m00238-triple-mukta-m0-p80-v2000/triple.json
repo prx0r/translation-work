@@ -1,0 +1,28 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "nīlavarṇaḥ",
+     "gloss": "blue-colored",
+     "grounds": "compound nīla+varṇaḥ; nominative singular masculine form",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What color is attributed to the described entity?",
+   "premises": [
+    "nīlavarṇaḥ denotes blue color",
+    "the token stands alone",
+    "no further context given"
+   ],
+   "inference": "The described entity is blue-colored.",
+   "uncertainties": [
+    "single-token verse; context minimal",
+    "compound analysis inferred"
+   ],
+   "plain_english": "The entity is blue-colored."
+  }
+ ]
+}

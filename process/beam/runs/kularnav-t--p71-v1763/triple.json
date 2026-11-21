@@ -1,0 +1,605 @@
+{
+ "song": "kul-p71",
+ "items": [
+  {
+   "verse": 1763,
+   "rows": [
+    {
+     "surface": "ubhayaṃ",
+     "gloss": "both",
+     "grounds": "neuter accusative singular of ubhaya",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "neuter nominative singular adjective",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative singular feminine of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "bhinnabhāṇḍodakaṃ",
+     "gloss": "broken-vessel-water",
+     "grounds": "compound noun, neuter nominative singular",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "indeclinable comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why is a mantra with two impurities fruitless?",
+   "premises": [
+    "both impurities make mantra fruitless",
+    "broken vessel water is useless",
+    "goddess is addressed directly"
+   ],
+   "inference": "a mantra joined with two impurities is as useless as water in a broken vessel",
+   "uncertainties": [
+    "exact referent of both impurities is not stated in this verse"
+   ],
+   "plain_english": "Both are fruitless, O goddess, as water in a broken vessel is useless."
+  },
+  {
+   "verse": 1764,
+   "rows": [
+    {
+     "surface": "sūtakadvayasaṃyuktaḥ",
+     "gloss": "with-two-impurities",
+     "grounds": "compound adjective, masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "masculine nominative singular relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "masculine nominative singular demonstrative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sidhyati",
+     "gloss": "succeeds",
+     "grounds": "third person singular active present of sidh",
+     "morph": "3.sg.act-pres (sidh)"
+    }
+   ],
+   "question": "Why does a mantra with two impurities not succeed?",
+   "premises": [
+    "mantra joined with two impurities fails",
+    "that mantra does not succeed",
+    "impurity blocks mantra success"
+   ],
+   "inference": "a mantra accompanied by two impurities does not succeed",
+   "uncertainties": [
+    "the two impurities are not enumerated here"
+   ],
+   "plain_english": "A mantra joined with two impurities does not succeed."
+  },
+  {
+   "verse": 1765,
+   "rows": [
+    {
+     "surface": "sūtakadvayanirmuktaḥ",
+     "gloss": "free-from-two-impurities",
+     "grounds": "compound adjective, masculine nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "which",
+     "grounds": "masculine nominative singular relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mantraḥ",
+     "gloss": "mantra",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhidaḥ",
+     "gloss": "all-success-giving",
+     "grounds": "compound adjective, masculine nominative singular",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why does a mantra free from two impurities give all success?",
+   "premises": [
+    "mantra free from two impurities succeeds",
+    "such mantra gives all success",
+    "freedom from impurity enables success"
+   ],
+   "inference": "a mantra free from two impurities gives all success",
+   "uncertainties": [
+    "the two impurities remain unspecified"
+   ],
+   "plain_english": "A mantra free from two impurities gives all success."
+  },
+  {
+   "verse": 1766,
+   "rows": [
+    {
+     "surface": "śatakoṭijapena",
+     "gloss": "by-hundred-crore-chanting",
+     "grounds": "instrumental singular compound noun",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "its",
+     "grounds": "genitive singular masculine/neuter pronoun",
+     "morph": "m/n.gen.sg"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "success",
+     "grounds": "feminine nominative singular noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "third person singular middle present of jan",
+     "morph": "3.sg.mid-pres (jan)"
+    }
+   ],
+   "question": "Why does success not arise even by hundred-crore chanting?",
+   "premises": [
+    "hundred-crore chanting does not produce success",
+    "success does not arise for it",
+    "quantity of chanting cannot overcome impurity"
+   ],
+   "inference": "even hundred-crore chanting does not produce success for an impure mantra",
+   "uncertainties": [
+    "whether tasya refers to impure mantra or another subject"
+   ],
+   "plain_english": "Even by hundred-crore chanting, success does not arise for it."
+  },
+  {
+   "verse": 1767,
+   "rows": [
+    {
+     "surface": "mantrāḥ",
+     "gloss": "mantras",
+     "grounds": "masculine nominative plural noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "caitanyasahitāḥ",
+     "gloss": "with-consciousness",
+     "grounds": "compound adjective, masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarvasiddhikarāḥ",
+     "gloss": "all-success-making",
+     "grounds": "compound adjective, masculine nominative plural",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "masculine nominative plural past participle of smṛ",
+     "morph": "m.nom.pl.pastpart (smṛ)"
+    }
+   ],
+   "question": "Why are mantras with consciousness remembered as all-success-making?",
+   "premises": [
+    "mantras with consciousness make all success",
+    "such mantras are remembered",
+    "consciousness accompanies successful mantras"
+   ],
+   "inference": "mantras accompanied by consciousness are remembered as making all success",
+   "uncertainties": [
+    "caitanya may mean awareness or living force"
+   ],
+   "plain_english": "Mantras accompanied by consciousness are remembered as making all success."
+  },
+  {
+   "verse": 1768,
+   "rows": [
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "negative particle with emphatic eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prayacchanti",
+     "gloss": "give",
+     "grounds": "third person plural active present of pracch? actually prayacch",
+     "morph": "3.pl.act-pres (prayacch)"
+    },
+    {
+     "surface": "lakṣakoṭijapāt",
+     "gloss": "from-lakh-crore-chanting",
+     "grounds": "ablative singular compound noun",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Why do mantras not give fruit even from lakh-crore chanting?",
+   "premises": [
+    "fruit is not given indeed",
+    "even lakh-crore chanting fails",
+    "quantity alone does not yield fruit"
+   ],
+   "inference": "mantras do not give fruit even from lakh-crore chanting",
+   "uncertainties": [
+    "subject mantras is implied from context"
+   ],
+   "plain_english": "They do not indeed give fruit even from lakh-crore chanting."
+  },
+  {
+   "verse": 1769,
+   "rows": [
+    {
+     "surface": "śataiḥ",
+     "gloss": "by-hundreds",
+     "grounds": "instrumental plural noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "sahasraiḥ",
+     "gloss": "thousands",
+     "grounds": "instrumental plural noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "lakṣaiḥ",
+     "gloss": "lakhs",
+     "grounds": "instrumental plural noun",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "koṭijāpena",
+     "gloss": "by-crore-chanting",
+     "grounds": "instrumental singular compound noun",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative singular demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "fruit",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What fruit comes from hundreds thousands lakhs or crore chanting?",
+   "premises": [
+    "hundreds thousands lakhs or crore chanting are listed",
+    "that fruit is the topic",
+    "chanting quantities are compared"
+   ],
+   "inference": "the verse asks what fruit results from such quantities of chanting",
+   "uncertainties": [
+    "verse appears fragmentary or elliptical"
+   ],
+   "plain_english": "By hundreds, thousands, lakhs, or crore chanting, that fruit."
+  },
+  {
+   "verse": 1770,
+   "rows": [
+    {
+     "surface": "gadgadoktiḥ",
+     "gloss": "stammering-speech",
+     "grounds": "feminine nominative singular compound noun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sahasā",
+     "gloss": "suddenly",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "third person singular middle present of jan",
+     "morph": "3.sg.mid-pres (jan)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why is there no doubt that stammering speech arises suddenly?",
+   "premises": [
+    "stammering speech arises suddenly",
+    "there is no doubt here",
+    "sudden arising is certain"
+   ],
+   "inference": "stammering speech arises suddenly, and there is no doubt about it here",
+   "uncertainties": [
+    "connection to mantra success is implied not explicit"
+   ],
+   "plain_english": "Stammering speech arises suddenly, and there is no doubt here."
+  },
+  {
+   "verse": 1771,
+   "rows": [
+    {
+     "surface": "dṛśyante",
+     "gloss": "are-seen",
+     "grounds": "third person plural passive present of dṛś",
+     "morph": "3.pl.pass-pres (dṛś)"
+    },
+    {
+     "surface": "pratyayāḥ",
+     "gloss": "signs",
+     "grounds": "masculine nominative plural noun",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pāramparya",
+     "gloss": "tradition",
+     "grounds": "neuter nominative singular noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative singular demonstrative pronoun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "third person singular passive present of vac",
+     "morph": "3.sg.pass-pres (vac)"
+    }
+   ],
+   "question": "Where signs are seen, why is that called tradition?",
+   "premises": [
+    "signs are seen somewhere",
+    "that is called tradition",
+    "tradition is recognized by signs"
+   ],
+   "inference": "where signs are seen, that is called tradition",
+   "uncertainties": [
+    "pāramparya may mean lineage or transmission"
+   ],
+   "plain_english": "Where signs are seen, that is called tradition."
+  },
+  {
+   "verse": 1772,
+   "rows": [
+    {
+     "surface": "bālaḥ",
+     "gloss": "child",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kumāraḥ",
+     "gloss": "boy",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yuvakaḥ",
+     "gloss": "youth",
+     "grounds": "masculine nominative singular noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prauḍhaḥ",
+     "gloss": "adult",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vṛddhaḥ",
+     "gloss": "old",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gavītaḥ",
+     "gloss": "sung",
+     "grounds": "masculine nominative singular past participle of gai",
+     "morph": "m.nom.sg.pastpart (gai)"
+    }
+   ],
+   "question": "Why are child boy youth adult and old all sung?",
+   "premises": [
+    "child boy youth adult and old are listed",
+    "all are sung",
+    "ages are enumerated together"
+   ],
+   "inference": "the verse lists ages from child to old as sung",
+   "uncertainties": [
+    "gavītaḥ may be a variant or misread form"
+   ],
+   "plain_english": "Child, boy, youth, adult, and old are sung."
+  },
+  {
+   "verse": 1773,
+   "rows": [
+    {
+     "surface": "mandaḥ",
+     "gloss": "slow",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "parāṅmukhaḥ",
+     "gloss": "averse",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chinnaḥ",
+     "gloss": "cut",
+     "grounds": "masculine nominative singular past participle of chid",
+     "morph": "m.nom.sg.pastpart (chid)"
+    },
+    {
+     "surface": "badhiraḥ",
+     "gloss": "deaf",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "andhaḥ",
+     "gloss": "blind",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "acetanaḥ",
+     "gloss": "unconscious",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are slow averse cut deaf blind and unconscious listed?",
+   "premises": [
+    "slow averse cut deaf blind and unconscious are listed",
+    "these are negative states",
+    "the list describes impaired conditions"
+   ],
+   "inference": "the verse enumerates impaired or negative states",
+   "uncertainties": [
+    "whether these describe mantra or practitioner is unclear"
+   ],
+   "plain_english": "Slow, averse, cut, deaf, blind, and unconscious."
+  },
+  {
+   "verse": 1774,
+   "rows": [
+    {
+     "surface": "niḥsnehaḥ",
+     "gloss": "without-affection",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vikalaḥ",
+     "gloss": "disabled",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhvastaḥ",
+     "gloss": "destroyed",
+     "grounds": "masculine nominative singular past participle of dhvaṃs",
+     "morph": "m.nom.sg.pastpart (dhvaṃs)"
+    },
+    {
+     "surface": "nirjīvaḥ",
+     "gloss": "lifeless",
+     "grounds": "masculine nominative singular adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "khaṇḍitārikaḥ",
+     "gloss": "broken-ari",
+     "grounds": "masculine nominative singular compound adjective",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why are without-affection disabled destroyed lifeless and broken-ari listed?",
+   "premises": [
+    "without-affection disabled destroyed lifeless and broken-ari are listed",
+    "these are negative states",
+    "the list continues impaired conditions"
+   ],
+   "inference": "the verse continues enumerating impaired or negative states",
+   "uncertainties": [
+    "khaṇḍitārikaḥ is obscure and may be a variant form"
+   ],
+   "plain_english": "Without affection, disabled, destroyed, lifeless, and broken-ari."
+  }
+ ]
+}

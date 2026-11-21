@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "dambho",
+     "gloss": "arrogance",
+     "grounds": "epithet or named form in enumeration; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "lobho",
+     "gloss": "greed",
+     "grounds": "epithet or named form in enumeration; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "connective particle introducing continuation of enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śambhus",
+     "gloss": "Śambhu",
+     "grounds": "divine name; nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarvabhūtamaheśvaraḥ",
+     "gloss": "great-lord-of-all-beings",
+     "grounds": "compound epithet: sarva-bhūta-mahā-īśvara; nominative singular masculine",
+     "morph": "m.nom.sg (compound: sarva+bhūta+mahā+īśvara)"
+    }
+   ],
+   "question": "What identities and supreme lordship are ascribed to Śambhu in this enumeration?",
+   "premises": [
+    "Dambha and Lobha are named within the sequence of epithets.",
+    "Śambhu is explicitly identified by name.",
+    "Śambhu is characterized as the great lord of all beings."
+   ],
+   "inference": "Śambhu is presented as encompassing these named aspects and holding sovereignty over all beings.",
+   "uncertainties": [
+    "Whether dambha and lobha function as direct epithets of Śambhu or as distinct named entities in the list is context-dependent."
+   ],
+   "plain_english": "Arrogance, greed, and indeed Śambhu, the great lord of all beings."
+  }
+ ]
+}

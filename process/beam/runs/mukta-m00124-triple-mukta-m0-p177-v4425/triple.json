@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p177",
+ "items": [
+  {
+   "verse": 4425,
+   "rows": [
+    {
+     "surface": "netre",
+     "gloss": "eye",
+     "grounds": "locative singular of netra; in the eye",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcayavavyāsaṃ",
+     "gloss": "five-yava-width",
+     "grounds": "compound pañca-yava-vyāsa; accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tanmadhye",
+     "gloss": "that-middle",
+     "grounds": "locative singular of tanmadhya; in that middle",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛṣṇamaṇḍalam",
+     "gloss": "black-orb",
+     "grounds": "compound kṛṣṇa-maṇḍala; accusative singular neuter",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What width and central mark define the eye in this bodily meditation?",
+   "premises": [
+    "eye has five-yava width",
+    "black orb lies in middle",
+    "bodily measure guides meditation"
+   ],
+   "inference": "The eye's prescribed width centers on a black orb.",
+   "uncertainties": [
+    "netre may be read as locative singular rather than plural",
+    "gender of vyāsaṃ depends on compound parsing"
+   ],
+   "plain_english": "In the eye there is a width of five yavas, and in its middle is the black orb."
+  }
+ ]
+}

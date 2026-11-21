@@ -1,0 +1,827 @@
+{
+ "song": "mukta-m0-p60",
+ "items": [
+  {
+   "verse": 1476,
+   "rows": [
+    {
+     "surface": "lipikalpadrumasyādho",
+     "gloss": "writing-tree-below",
+     "grounds": "compound surface",
+     "morph": "compound (lipi-kalpadruma-asya-adho)"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. (dhyā)"
+    },
+    {
+     "surface": "śruklākhya",
+     "gloss": "shruka-named",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vatsaram",
+     "gloss": "year",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "each year has a color",
+    "each year has a form"
+   ],
+   "inference": "the verses enumerate year-form-color correspondences",
+   "uncertainties": [
+    "some compounds are fused without sandhi marker"
+   ],
+   "plain_english": "Meditate below the writing tree on the shruka-named year."
+  },
+  {
+   "verse": 1477,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is white",
+    "the noun is color"
+   ],
+   "inference": "the year's color is white",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1478,
+   "rows": [
+    {
+     "surface": "pramodūtaḥ",
+     "gloss": "delighted-messenger",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "savijñeyaḥ",
+     "gloss": "with-knowledge",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kāṃtāliṃgitavigrahaḥ",
+     "gloss": "beloved-embraced-form",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the messenger is delighted",
+    "the form is embraced by the beloved"
+   ],
+   "inference": "the year's form is a delighted messenger embraced by the beloved",
+   "uncertainties": [
+    "exact year name is implicit"
+   ],
+   "plain_english": "A delighted messenger, knowable, with form embraced by the beloved."
+  },
+  {
+   "verse": 1479,
+   "rows": [
+    {
+     "surface": "śyāma",
+     "gloss": "dark",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is dark",
+    "the noun is color"
+   ],
+   "inference": "the year's color is dark",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is dark."
+  },
+  {
+   "verse": 1480,
+   "rows": [
+    {
+     "surface": "mahodaraḥ",
+     "gloss": "great-belly",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "lohitākṣaḥ",
+     "gloss": "red-eyed",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "vatsaraḥ",
+     "gloss": "year",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prajāvatiḥ",
+     "gloss": "progeny-lord",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the year has a great belly",
+    "the year has red eyes"
+   ],
+   "inference": "the year is a progeny-lord with great belly and red eyes",
+   "uncertainties": [
+    "tu is connective"
+   ],
+   "plain_english": "The year is a progeny-lord with great belly and red eyes."
+  },
+  {
+   "verse": 1481,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is red",
+    "the noun is color"
+   ],
+   "inference": "the year's color is red",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is red."
+  },
+  {
+   "verse": 1482,
+   "rows": [
+    {
+     "surface": "padmahastadvayaṃ",
+     "gloss": "lotus-hand-two",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. (dhyā)"
+    },
+    {
+     "surface": "āṃgira",
+     "gloss": "āṃgira-named",
+     "grounds": "name element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sābhidham",
+     "gloss": "sābhidha",
+     "grounds": "compound adjective",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "meditate on the god",
+    "the god has two lotus hands"
+   ],
+   "inference": "the āṃgira-named year is meditated as a god with two lotus hands",
+   "uncertainties": [
+    "sābhidham modifies god"
+   ],
+   "plain_english": "Meditate on the god with two lotus hands, the āṃgira-named one."
+  },
+  {
+   "verse": 1483,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is white",
+    "the noun is color"
+   ],
+   "inference": "the year's color is white",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1484,
+   "rows": [
+    {
+     "surface": "puṣkarākṣaṃ",
+     "gloss": "lotus-eyed",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "haridrābhaṃ",
+     "gloss": "turmeric-hued",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. (dhyā)"
+    },
+    {
+     "surface": "śrīmukhavatsaram",
+     "gloss": "śrīmukha-year",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "meditate on the śrīmukha year",
+    "it is lotus-eyed and turmeric-hued"
+   ],
+   "inference": "the śrīmukha year is meditated as lotus-eyed and turmeric-hued",
+   "uncertainties": [
+    "color is turmeric-hued"
+   ],
+   "plain_english": "Meditate on the śrīmukha year, lotus-eyed and turmeric-hued."
+  },
+  {
+   "verse": 1485,
+   "rows": [
+    {
+     "surface": "kanaka",
+     "gloss": "gold",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is gold",
+    "the noun is color"
+   ],
+   "inference": "the year's color is gold",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is gold."
+  },
+  {
+   "verse": 1486,
+   "rows": [
+    {
+     "surface": "ūrdhvabāhuyutaḥ",
+     "gloss": "raised-arms-with",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "eva",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvibhujaḥ",
+     "gloss": "two-armed",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kṣatriyaḥ",
+     "gloss": "kshatriya",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "remembered",
+     "grounds": "participle adjective",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the remembered one has raised arms",
+    "the remembered one is two-armed"
+   ],
+   "inference": "the kṣatriya year is remembered as two-armed with raised arms",
+   "uncertainties": [
+    "ca eva are connectives"
+   ],
+   "plain_english": "The kṣatriya is remembered as two-armed with raised arms."
+  },
+  {
+   "verse": 1487,
+   "rows": [
+    {
+     "surface": "rakta",
+     "gloss": "red",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is red",
+    "the noun is color"
+   ],
+   "inference": "the year's color is red",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is red."
+  },
+  {
+   "verse": 1488,
+   "rows": [
+    {
+     "surface": "dvibhujaṃ",
+     "gloss": "two-armed",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "śvetavarṇaṃ",
+     "gloss": "white-color",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmākṣaṃ",
+     "gloss": "lotus-eyed",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "yuvavatsaram",
+     "gloss": "youth-year",
+     "grounds": "compound accusative",
+     "morph": "acc.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the youth year is two-armed",
+    "the youth year is white-colored and lotus-eyed"
+   ],
+   "inference": "the youth year is two-armed, white-colored, and lotus-eyed",
+   "uncertainties": [
+    "ca connects attributes"
+   ],
+   "plain_english": "The youth year is two-armed, white-colored, and lotus-eyed."
+  },
+  {
+   "verse": 1489,
+   "rows": [
+    {
+     "surface": "śveta",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is white",
+    "the noun is color"
+   ],
+   "inference": "the year's color is white",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is white."
+  },
+  {
+   "verse": 1490,
+   "rows": [
+    {
+     "surface": "triṇetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "padmavarṇaṃ",
+     "gloss": "lotus-colored",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirbhayaṃ",
+     "gloss": "fearless",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "dhātusaṃjñakam",
+     "gloss": "dhātu-named",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the dhātu-named year is three-eyed",
+    "it is lotus-colored and fearless"
+   ],
+   "inference": "the dhātu-named year is three-eyed, lotus-colored, and fearless",
+   "uncertainties": [
+    "ca connects attributes"
+   ],
+   "plain_english": "The dhātu-named year is three-eyed, lotus-colored, and fearless."
+  },
+  {
+   "verse": 1491,
+   "rows": [
+    {
+     "surface": "padma",
+     "gloss": "lotus",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is lotus",
+    "the noun is color"
+   ],
+   "inference": "the year's color is lotus-colored",
+   "uncertainties": [
+    "padma is color term"
+   ],
+   "plain_english": "The color is lotus."
+  },
+  {
+   "verse": 1492,
+   "rows": [
+    {
+     "surface": "citrāṃbaradharaṃdevaṃ",
+     "gloss": "variegated-garment-wearing-god",
+     "grounds": "fused compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "dhyāyet",
+     "gloss": "meditate",
+     "grounds": "optative verb",
+     "morph": "3.sg.act.opt. (dhyā)"
+    },
+    {
+     "surface": "īśvarasaṃjñakam",
+     "gloss": "īśvara-named",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "meditate on the god",
+    "the god wears variegated garments"
+   ],
+   "inference": "the īśvara-named year is meditated as a god wearing variegated garments",
+   "uncertainties": [
+    "fused surface has no sandhi marker"
+   ],
+   "plain_english": "Meditate on the īśvara-named god wearing variegated garments."
+  },
+  {
+   "verse": 1493,
+   "rows": [
+    {
+     "surface": "aruṇa",
+     "gloss": "ruddy",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is ruddy",
+    "the noun is color"
+   ],
+   "inference": "the year's color is ruddy",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is ruddy."
+  },
+  {
+   "verse": 1494,
+   "rows": [
+    {
+     "surface": "vitatalalitatejādīrghavakṣādvipādaḥ",
+     "gloss": "wide-lovely-splendor-long-chest-two-footed",
+     "grounds": "fused compound nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "kamalanayanayuktaḥ",
+     "gloss": "lotus-eyed-with",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "ciṃtita",
+     "gloss": "ciṃtita",
+     "grounds": "participle adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "dvādaśobdaḥ",
+     "gloss": "twelve-years",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the twelve-year form is wide and lovely",
+    "it has long chest and two feet"
+   ],
+   "inference": "the ciṃtita twelve-year form is wide, lovely, long-chested, two-footed, and lotus-eyed",
+   "uncertainties": [
+    "ciṃtita is a name or participle"
+   ],
+   "plain_english": "The twelve-year form is wide, lovely, long-chested, two-footed, and lotus-eyed."
+  },
+  {
+   "verse": 1495,
+   "rows": [
+    {
+     "surface": "nīla",
+     "gloss": "blue",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is blue",
+    "the noun is color"
+   ],
+   "inference": "the year's color is blue",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is blue."
+  },
+  {
+   "verse": 1496,
+   "rows": [
+    {
+     "surface": "graiveyakṛtamāṇikyaḥ",
+     "gloss": "necklace-made-ruby",
+     "grounds": "compound nominative",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "pramāthī",
+     "gloss": "pramāthī",
+     "grounds": "name",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "vatsaraḥ",
+     "gloss": "year",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pumān",
+     "gloss": "man",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the pramāthī year is a man",
+    "it has a ruby necklace"
+   ],
+   "inference": "the pramāthī year is a man with a ruby necklace",
+   "uncertainties": [
+    "graiveyakṛtamāṇikyaḥ modifies man"
+   ],
+   "plain_english": "The pramāthī year is a man with a ruby necklace."
+  },
+  {
+   "verse": 1497,
+   "rows": [
+    {
+     "surface": "kanaka",
+     "gloss": "gold",
+     "grounds": "adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is gold",
+    "the noun is color"
+   ],
+   "inference": "the year's color is gold",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is gold."
+  },
+  {
+   "verse": 1498,
+   "rows": [
+    {
+     "surface": "madhyamoccaṃ",
+     "gloss": "middle-high",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "dīrghabāhuṃ",
+     "gloss": "long-armed",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "dvipādaṃ",
+     "gloss": "two-footed",
+     "grounds": "compound accusative",
+     "morph": "adj.acc.sg.m"
+    },
+    {
+     "surface": "vikramaṃ",
+     "gloss": "stride",
+     "grounds": "accusative noun",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "viduḥ",
+     "gloss": "know",
+     "grounds": "plural verb",
+     "morph": "3.pl.act.pres. (vid)"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "they know the stride",
+    "the stride is middle-high, long-armed, and two-footed"
+   ],
+   "inference": "the known stride is middle-high, long-armed, and two-footed",
+   "uncertainties": [
+    "subject is implicit"
+   ],
+   "plain_english": "They know the stride as middle-high, long-armed, and two-footed."
+  },
+  {
+   "verse": 1499,
+   "rows": [
+    {
+     "surface": "godhūma",
+     "gloss": "wheat",
+     "grounds": "noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "varṇaḥ",
+     "gloss": "color",
+     "grounds": "nominative noun",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What color and form characterize each named year in this sequence?",
+   "premises": [
+    "the color is wheat",
+    "the noun is color"
+   ],
+   "inference": "the year's color is wheat-colored",
+   "uncertainties": [
+    "year reference is implicit"
+   ],
+   "plain_english": "The color is wheat."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p271",
+ "items": [
+  {
+   "verse": 6775,
+   "rows": [
+    {
+     "surface": "ripuṃ",
+     "gloss": "enemy",
+     "grounds": "object of the action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "one-should-kill",
+     "grounds": "prescribes the action against the enemy",
+     "morph": "3.sg.act-optative √han"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates the need for deliberation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this case or context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-done",
+     "grounds": "expresses obligation regarding deliberation",
+     "morph": "f.nom.sg.gerundive √kṛ"
+    },
+    {
+     "surface": "vicāraṇā",
+     "gloss": "deliberation",
+     "grounds": "the act of consideration or reflection",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Is deliberation permitted when the practitioner acts to kill an enemy?",
+   "premises": [
+    "The enemy is to be killed.",
+    "Deliberation is not to be done in this case.",
+    "The prescribed action admits no hesitation."
+   ],
+   "inference": "The practitioner should kill the enemy without any deliberation.",
+   "uncertainties": [
+    "The specific ritual context of 'atra' depends on the preceding verses."
+   ],
+   "plain_english": "One should kill the enemy; no deliberation is to be made in this matter."
+  }
+ ]
+}

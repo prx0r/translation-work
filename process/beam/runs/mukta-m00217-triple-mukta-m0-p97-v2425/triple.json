@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p97",
+ "items": [
+  {
+   "verse": 2425,
+   "rows": [
+    {
+     "surface": "gandhapaṅkaprasūnādivāsitaiḥ",
+     "gloss": "sandal-paste-flowers-etc-scented",
+     "grounds": "compound adjective describing waters; no sandhi marker",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "adjective agreeing with waters",
+     "morph": "m/n.inst.pl"
+    },
+    {
+     "surface": "jalaiḥ",
+     "gloss": "waters",
+     "grounds": "instrumental plural of jala",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which auspicious scented waters may alternatively fill the vessel?",
+   "premises": [
+    "herbal decoction fills first",
+    "scented waters are alternative",
+    "auspicious waters are permitted"
+   ],
+   "inference": "the rite permits either herbal decoction or scented auspicious waters",
+   "uncertainties": [
+    "exact vessel and sequence not specified in this verse"
+   ],
+   "plain_english": "Or with auspicious waters scented with sandal paste, flowers, and the like."
+  }
+ ]
+}

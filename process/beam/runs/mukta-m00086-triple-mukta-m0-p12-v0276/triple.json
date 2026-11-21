@@ -1,0 +1,829 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "mātuluṅgaṃ",
+     "gloss": "citron",
+     "grounds": "offering fruit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "catuḥkhaṇḍaṃ",
+     "gloss": "four-pieces",
+     "grounds": "division specification",
+     "morph": "compound"
+    },
+    {
+     "surface": "panasaṃ",
+     "gloss": "jackfruit",
+     "grounds": "offering fruit",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "daśadhā",
+     "gloss": "tenfold",
+     "grounds": "division specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "prescribed",
+     "morph": "n.nom.sg.ppp √smṛ"
+    }
+   ],
+   "question": "How must citron and jackfruit be divided for ritual offering?",
+   "premises": [
+    "Citron is prescribed as an offering fruit.",
+    "Jackfruit is prescribed as an offering fruit.",
+    "Each fruit requires a specific division."
+   ],
+   "inference": "Citron must be cut into four pieces and jackfruit into ten parts.",
+   "uncertainties": [],
+   "plain_english": "The citron is to be cut into four pieces, and the jackfruit is remembered as divided tenfold."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "division specification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khaṇḍaṃ",
+     "gloss": "piece",
+     "grounds": "division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "offering item",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vailvaṃ",
+     "gloss": "bilva",
+     "grounds": "bilva fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kapitthaṃ",
+     "gloss": "wood-apple",
+     "grounds": "offering fruit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "khaṇḍitaṃ",
+     "gloss": "cut",
+     "grounds": "prepared",
+     "morph": "n.nom.sg.ppp √khaṇḍ"
+    },
+    {
+     "surface": "dvidhā",
+     "gloss": "twofold",
+     "grounds": "division specification",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What divisions are prescribed for bilva and wood-apple fruits?",
+   "premises": [
+    "Bilva fruit is included among offerings.",
+    "Wood-apple is included among offerings.",
+    "Each requires a specified manner of cutting."
+   ],
+   "inference": "Bilva fruit must be divided into three pieces and wood-apple into two.",
+   "uncertainties": [],
+   "plain_english": "The bilva fruit is to be cut into three pieces, and the wood-apple is to be cut in two."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "vrīhayo",
+     "gloss": "rice-grains",
+     "grounds": "offering substance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "muṣṭimātrāḥ",
+     "gloss": "fist-measure",
+     "grounds": "quantity specification",
+     "morph": "compound"
+    },
+    {
+     "surface": "syū",
+     "gloss": "should-be",
+     "grounds": "prescriptive",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "raktamāṣā",
+     "gloss": "red-beans",
+     "grounds": "offering substance",
+     "morph": "compound"
+    },
+    {
+     "surface": "yavā",
+     "gloss": "barley",
+     "grounds": "offering substance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What quantity is prescribed for rice, red beans, and barley offerings?",
+   "premises": [
+    "Rice grains are used as offerings.",
+    "Red beans and barley are also used.",
+    "A standard measure governs their quantity."
+   ],
+   "inference": "Rice, red beans, and barley should each be offered in the measure of a fistful.",
+   "uncertainties": [],
+   "plain_english": "Rice grains, red beans, and barley should each be in the measure of a fistful."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "tintiḍībījamānāni",
+     "gloss": "tamarind-seed-measures",
+     "grounds": "quantity specification",
+     "morph": "compound"
+    },
+    {
+     "surface": "marīcānyapi",
+     "gloss": "peppers-also",
+     "grounds": "offering substance with inclusion",
+     "morph": "compound"
+    },
+    {
+     "surface": "viṃśatiḥ",
+     "gloss": "twenty",
+     "grounds": "number specification",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "How many peppers are prescribed when measured by tamarind seeds?",
+   "premises": [
+    "Peppers are included as an offering substance.",
+    "Their quantity is specified by a seed measure.",
+    "A fixed number is given."
+   ],
+   "inference": "Twenty peppers are prescribed, measured in the manner of tamarind seeds.",
+   "uncertainties": [
+    "Exact sense of tamarind-seed measure as unit or comparison is unclear."
+   ],
+   "plain_english": "Peppers, measured like tamarind seeds, should be twenty in number."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "anukte",
+     "gloss": "unspecified",
+     "grounds": "not stated",
+     "morph": "n.loc.sg.ppp √vac"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "havirdravye",
+     "gloss": "offering-substance",
+     "grounds": "oblation material",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tilājyaṃ",
+     "gloss": "sesame-ghee",
+     "grounds": "substitute offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "havirucyate",
+     "gloss": "called-offering",
+     "grounds": "designated as oblation",
+     "morph": "3.sg.pass.pres √vac"
+    }
+   ],
+   "question": "What substitute offering is prescribed when no oblation substance is specified?",
+   "premises": [
+    "Some ritual contexts leave the oblation substance unspecified.",
+    "A default substitute must be available.",
+    "Sesame and ghee can serve as oblation."
+   ],
+   "inference": "When the offering substance is unspecified, sesame-ghee is designated as the oblation.",
+   "uncertainties": [],
+   "plain_english": "But when the offering substance is not specified, sesame mixed with ghee is called the oblation."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "athā",
+     "gloss": "now",
+     "grounds": "topic transition",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arimantratyāgasya",
+     "gloss": "enemy-mantra-abandonment",
+     "grounds": "ritual procedure",
+     "morph": "compound"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "correct manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pracakṣyate",
+     "gloss": "is-declared",
+     "grounds": "will be explained",
+     "morph": "3.sg.pass.pres √cakṣ"
+    }
+   ],
+   "question": "What ritual procedure is announced for abandoning an enemy mantra?",
+   "premises": [
+    "A new topic is introduced.",
+    "The topic concerns abandonment of an enemy mantra.",
+    "A proper rite for it will be explained."
+   ],
+   "inference": "The proper rite for abandoning an enemy mantra is now declared.",
+   "uncertainties": [],
+   "plain_english": "Now the proper rite for abandoning an enemy mantra will be declared."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "aśeṣaduḥkhanāśāya",
+     "gloss": "for-all-suffering-destruction",
+     "grounds": "purpose of rite",
+     "morph": "compound"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pravaraṃ",
+     "gloss": "excellent",
+     "grounds": "quality of rite",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vidhim",
+     "gloss": "rite",
+     "grounds": "procedure",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "For what purpose does the teacher perform this excellent rite?",
+   "premises": [
+    "The teacher performs the rite.",
+    "The rite is described as excellent.",
+    "Its purpose is the destruction of suffering."
+   ],
+   "inference": "The teacher performs this excellent rite for the destruction of all suffering.",
+   "uncertainties": [],
+   "plain_english": "The teacher performs this excellent rite for the destruction of all suffering."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "maṇḍale",
+     "gloss": "in-circle",
+     "grounds": "ritual locus",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sthāpayed",
+     "gloss": "should-place",
+     "grounds": "ritual action",
+     "morph": "3.sg.opt.act √sthā"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "qualified officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūrayettaṃ",
+     "gloss": "should-fill-it",
+     "grounds": "ritual action",
+     "morph": "compound"
+    },
+    {
+     "surface": "jalaiḥ",
+     "gloss": "with-waters",
+     "grounds": "filling substance",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "śubhaiḥ",
+     "gloss": "auspicious",
+     "grounds": "quality of waters",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What initial actions must the learned officiant perform in the ritual circle?",
+   "premises": [
+    "The rite takes place in a circle.",
+    "A learned officiant conducts the procedure.",
+    "The circle must be prepared with auspicious waters."
+   ],
+   "inference": "The learned one should place and fill the circle with auspicious waters.",
+   "uncertainties": [
+    "The object of placement in pūrayettaṃ is implicit."
+   ],
+   "plain_english": "The learned one should place it in the circle and fill it with auspicious waters."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "sakalīkṛtya",
+     "gloss": "having-made-whole",
+     "grounds": "ritual consecration",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "saṃpūjyā",
+     "gloss": "having-worshipped",
+     "grounds": "ritual action",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "a'varaṇāni",
+     "gloss": "coverings",
+     "grounds": "surrounding deities or layers",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship-thoroughly",
+     "grounds": "ritual action",
+     "morph": "3.sg.opt.act √pūj"
+    }
+   ],
+   "question": "What worship sequence follows after making the ritual object whole?",
+   "premises": [
+    "The ritual object is first made whole.",
+    "Worship is performed.",
+    "The surrounding coverings must also be honored."
+   ],
+   "inference": "After consecration and worship, one should thoroughly worship the coverings.",
+   "uncertainties": [
+    "a'varaṇāni may refer to protective layers or attendant deities."
+   ],
+   "plain_english": "Having made it whole and worshipped it, one should thoroughly worship the coverings."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "fire oblation",
+     "morph": "(gerund)"
+    },
+    {
+     "surface": "vilomamantreṇa",
+     "gloss": "with-reverse-mantra",
+     "grounds": "mantra procedure",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarpiṣā",
+     "gloss": "with-ghee",
+     "grounds": "oblation substance",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "gorapi",
+     "gloss": "of-cow-also",
+     "grounds": "source specification",
+     "morph": "compound"
+    },
+    {
+     "surface": "dvijaḥ",
+     "gloss": "twice-born",
+     "grounds": "qualified officiant",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "How must the twice-born officiant perform the fire oblation in this rite?",
+   "premises": [
+    "A fire oblation is required.",
+    "The oblation uses ghee from a cow.",
+    "The mantra is applied in reverse."
+   ],
+   "inference": "The twice-born should offer cow's ghee into the fire using the reverse mantra.",
+   "uncertainties": [],
+   "plain_english": "Having offered oblations, the twice-born should do so with cow's ghee using the reverse mantra."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "vidikṣu",
+     "gloss": "in-intermediate-directions",
+     "grounds": "spatial locus",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "dikṣu",
+     "gloss": "in-directions",
+     "grounds": "spatial locus",
+     "morph": "f.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vakṣyamāṇair",
+     "gloss": "by-to-be-stated",
+     "grounds": "forthcoming",
+     "morph": "m.inst.pl.fut.pass.part √vac"
+    },
+    {
+     "surface": "manukramaiḥ",
+     "gloss": "by-mantra-sequences",
+     "grounds": "ritual formulas",
+     "morph": "compound"
+    }
+   ],
+   "question": "Where and by what means are the subsequent offerings to be made?",
+   "premises": [
+    "Offerings are directed to the directions.",
+    "Offerings are also directed to the intermediate directions.",
+    "Specific mantra sequences will be stated."
+   ],
+   "inference": "Offerings are to be made in the directions and intermediate directions using the mantra sequences to be stated.",
+   "uncertainties": [],
+   "plain_english": "Likewise, in the directions and intermediate directions, offerings are made with the mantra sequences that will be described."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "namastubhyaṃ gṛhāṇemaṃ puṣpadhūpādikaṃ valim 1",
+     "gloss": "salutation-to-you accept-this flower-incense-etc offering 1",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What request is made in the first offering mantra formula?",
+   "premises": [
+    "The formula begins with salutation.",
+    "It presents an offering of flowers, incense, and the like.",
+    "It asks for acceptance of that offering."
+   ],
+   "inference": "The first mantra salutes the deity and requests acceptance of the flower and incense offering.",
+   "uncertainties": [],
+   "plain_english": "Salutation to you; accept this offering of flowers, incense, and so forth. (1)"
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "gṛhāṇa puṣpadhūpādivalimenaṃ supūjitam 2",
+     "gloss": "accept flower-incense-etc-offering-this well-worshipped 2",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What does the second offering mantra ask the deity to accept?",
+   "premises": [
+    "The formula addresses the deity directly.",
+    "It refers to an offering of flowers, incense, and the like.",
+    "The offering is described as well worshipped."
+   ],
+   "inference": "The second mantra asks the deity to accept this well-worshipped offering of flowers and incense.",
+   "uncertainties": [],
+   "plain_english": "Accept this well-worshipped offering of flowers, incense, and so forth. (2)"
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "valiṃ dattaṃ gṛhāṇemaṃ suprīto varado bhava 3",
+     "gloss": "offering given accept-this well-pleased boon-giver be 3",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What response is sought from the deity in the third offering mantra?",
+   "premises": [
+    "The mantra presents a given offering.",
+    "It asks the deity to accept it.",
+    "It requests the deity to be pleased and grant boons."
+   ],
+   "inference": "The third mantra asks the deity to accept the offering, be well pleased, and become a boon-giver.",
+   "uncertainties": [],
+   "plain_english": "Accept this offering that is given; be well pleased and grant boons. (3)"
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "gṛhāṇa valipūjādi mayā bhaktyā niveditam 4",
+     "gloss": "accept offering-worship-etc by-me with-devotion presented 4",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "How is the offering characterized in the fourth mantra formula?",
+   "premises": [
+    "The mantra asks for acceptance of offering and worship.",
+    "The offering is presented by the worshipper.",
+    "It is presented with devotion."
+   ],
+   "inference": "The fourth mantra asks the deity to accept the offering and worship presented with devotion.",
+   "uncertainties": [],
+   "plain_english": "Accept this offering and worship presented by me with devotion. (4)"
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "bhaktyā niveditāṃ pūjāṃ gṛhītvā prītimāpnuhi 5",
+     "gloss": "with-devotion presented worship having-taken pleasure attain 5",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What effect is requested after the deity receives the devoted worship?",
+   "premises": [
+    "The worship is presented with devotion.",
+    "The deity is asked to receive it.",
+    "The deity is asked to attain pleasure."
+   ],
+   "inference": "The fifth mantra asks the deity to receive the devoted worship and be pleased.",
+   "uncertainties": [],
+   "plain_english": "Having received the worship offered with devotion, attain pleasure. (5)"
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "mayā prayuktaṃ vidhivad gṛhāṇa valimādarāt 6",
+     "gloss": "by-me performed according-to-rule accept offering-with-respect 6",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "On what basis does the sixth mantra request acceptance of the offering?",
+   "premises": [
+    "The offering is performed by the worshipper.",
+    "It is performed according to rule.",
+    "The deity is asked to accept it respectfully."
+   ],
+   "inference": "The sixth mantra requests respectful acceptance of an offering performed according to rule.",
+   "uncertainties": [],
+   "plain_english": "Accept with respect this offering performed by me according to rule. (6)"
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "puṣpadhūpādibhiḥ prītau bhavetāṃ varadau mama 7",
+     "gloss": "with-flower-incense-etc pleased may-be-two boon-givers to-me 7",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What dual boon is sought through offerings of flowers and incense?",
+   "premises": [
+    "The offering consists of flowers, incense, and the like.",
+    "Two recipients are invoked.",
+    "They are asked to be pleased and grant boons."
+   ],
+   "inference": "The seventh mantra asks two deities to be pleased by the offerings and grant boons.",
+   "uncertainties": [
+    "The identity of the two recipients is not specified in this verse."
+   ],
+   "plain_english": "May the two be pleased by flowers, incense, and so forth, and become boon-givers to me. (7)"
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "pūjitaḥ puṣpadhūpādyaiḥ prāto bhava vibhūtaye 8",
+     "gloss": "worshipped with-flower-incense-etc pleased be for-prosperity 8",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What benefit is requested from the deity worshipped with flowers and incense?",
+   "premises": [
+    "The deity is worshipped with flowers and incense.",
+    "The deity is asked to be pleased.",
+    "The purpose stated is prosperity."
+   ],
+   "inference": "The eighth mantra asks the worshipped deity to be pleased for the sake of prosperity.",
+   "uncertainties": [],
+   "plain_english": "Worshipped with flowers, incense, and so forth, be pleased for my prosperity. (8)"
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "gṛhāṇa sarvavighnān me nivartaya namo'stu te 9",
+     "gloss": "accept all-obstacles of-me remove salutation-be to-you 9",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What removal is requested in the ninth offering mantra?",
+   "premises": [
+    "The mantra includes salutation.",
+    "It asks the deity to accept the offering.",
+    "It requests removal of all obstacles."
+   ],
+   "inference": "The ninth mantra asks the deity to accept the offering and remove all obstacles.",
+   "uncertainties": [],
+   "plain_english": "Accept this; remove all my obstacles; salutation to you. (9)"
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "pūjitaḥ parayā bhaktyā bhava tvaṃ sukhado mama 10",
+     "gloss": "worshipped with-supreme devotion be you happiness-giver to-me 10",
+     "grounds": "mantra formula",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What role is the deity asked to assume when worshipped with supreme devotion?",
+   "premises": [
+    "The deity is worshipped with supreme devotion.",
+    "The worshipper addresses the deity directly.",
+    "The deity is asked to give happiness."
+   ],
+   "inference": "The tenth mantra asks the supremely worshipped deity to become the giver of happiness.",
+   "uncertainties": [],
+   "plain_english": "Worshipped with supreme devotion, may you become the giver of happiness to me. (10)"
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "mantreṇa",
+     "gloss": "with-mantra",
+     "grounds": "ritual instrument",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "viparītena",
+     "gloss": "reversed",
+     "grounds": "manner of mantra",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "puṣpa-dhūpopacārakaiḥ",
+     "gloss": "with-flower-incense-services",
+     "grounds": "ritual offerings",
+     "morph": "compound"
+    }
+   ],
+   "question": "By what means are the flower and incense services to be performed?",
+   "premises": [
+    "Ritual services involve flowers and incense.",
+    "A mantra is employed in the procedure.",
+    "The mantra is used in reversed form."
+   ],
+   "inference": "The flower and incense services are to be performed with the reversed mantra.",
+   "uncertainties": [],
+   "plain_english": "With the reversed mantra and with services of flowers and incense."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "tatastu",
+     "gloss": "then",
+     "grounds": "sequence",
+     "morph": "compound"
+    },
+    {
+     "surface": "prārthayed",
+     "gloss": "should-pray",
+     "grounds": "ritual action",
+     "morph": "3.sg.opt.act √arth"
+    },
+    {
+     "surface": "vidvān",
+     "gloss": "learned-one",
+     "grounds": "qualified officiant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjitāṃ",
+     "gloss": "worshipped",
+     "grounds": "honored",
+     "morph": "f.acc.sg.ppp √pūj"
+    },
+    {
+     "surface": "mantradevatām",
+     "gloss": "mantra-deity",
+     "grounds": "deity of mantra",
+     "morph": "compound"
+    }
+   ],
+   "question": "Whom should the learned officiant address after completing the worship?",
+   "premises": [
+    "The worship sequence has been completed.",
+    "The learned officiant continues the rite.",
+    "The mantra-deity has been worshipped."
+   ],
+   "inference": "Afterward, the learned one should pray to the worshipped mantra-deity.",
+   "uncertainties": [],
+   "plain_english": "Then the learned one should pray to the worshipped mantra-deity."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental cause",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "me",
+     "gloss": "of-me",
+     "grounds": "petitioner",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "manasaḥ",
+     "gloss": "of-mind",
+     "grounds": "inner faculty",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "kṣobhaṃ",
+     "gloss": "agitation",
+     "grounds": "disturbance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinivartaya",
+     "gloss": "remove",
+     "grounds": "request",
+     "morph": "2.sg.imp.act √vṛt"
+    },
+    {
+     "surface": "sarvadā",
+     "gloss": "always",
+     "grounds": "perpetual",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mental condition does the petitioner ask the mantra-deity to remove permanently?",
+   "premises": [
+    "The petitioner addresses the mantra-deity.",
+    "The mind is subject to agitation.",
+    "The request seeks continual removal."
+   ],
+   "inference": "The petitioner asks the mantra-deity to always remove the agitation of the mind.",
+   "uncertainties": [],
+   "plain_english": "By that, always remove the agitation of my mind."
+  }
+ ]
+}

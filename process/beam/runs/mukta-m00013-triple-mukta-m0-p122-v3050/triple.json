@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p122",
+ "items": [
+  {
+   "verse": 3050,
+   "rows": [
+    {
+     "surface": "māheśvarī",
+     "gloss": "māheśvarī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cāmuṇḍā",
+     "gloss": "cāmuṇḍā",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kaumārī",
+     "gloss": "kaumārī",
+     "grounds": "name of a goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aparājitā",
+     "gloss": "aparājitā",
+     "grounds": "name of a goddess; unconquered",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional goddesses are included among the sword-bearing, skull-garlanded deities?",
+   "premises": [
+    "The preceding verses describe goddesses bearing swords and skull garlands.",
+    "Māheśvarī and Cāmuṇḍā are named as members of this group.",
+    "Kaumārī and Aparājitā are also named as members of this group."
+   ],
+   "inference": "Māheśvarī, Cāmuṇḍā, Kaumārī, and Aparājitā belong to the same group of sword-bearing, skull-garlanded goddesses.",
+   "uncertainties": [],
+   "plain_english": "And Māheśvarī, Cāmuṇḍā, Kaumārī, and Aparājitā."
+  }
+ ]
+}

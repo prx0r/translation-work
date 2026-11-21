@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p32",
+ "items": [
+  {
+   "verse": 800,
+   "rows": [
+    {
+     "surface": "harmya",
+     "gloss": "palace",
+     "grounds": "noun referring to a building or mansion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tārasamaṃ",
+     "gloss": "star-equal",
+     "grounds": "compound: tāra (star) + sama (equal)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śreṣṭhaṃ",
+     "gloss": "best",
+     "grounds": "superlative adjective qualifying the palace",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tayormadhyeṣṭa",
+     "gloss": "desired-in-middle-of-those-two",
+     "grounds": "compound: tayoḥ (of-those-two) + madhya (middle) + iṣṭa (desired)",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhājite",
+     "gloss": "when-divided",
+     "grounds": "locative absolute participle indicating division or allocation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which type of palace is deemed most excellent when the space between the two prior forms is divided?",
+   "premises": [
+    "A palace is described as equal to a star.",
+    "This palace is designated as the best.",
+    "It is situated in the middle of the two previously mentioned forms when divided."
+   ],
+   "inference": "The star-equal palace placed in the middle of the two prior forms is the most excellent option.",
+   "uncertainties": [
+    "The exact referents of 'those two' depend on the preceding verses' architectural forms."
+   ],
+   "plain_english": "When the space between those two is divided, a palace equal to a star, placed in the middle, is the best."
+  }
+ ]
+}

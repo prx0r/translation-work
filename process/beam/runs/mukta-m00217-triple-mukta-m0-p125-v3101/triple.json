@@ -1,0 +1,1003 @@
+{
+ "song": "mukta-m0-p125",
+ "items": [
+  {
+   "verse": 3101,
+   "rows": [
+    {
+     "surface": "tadbahiścaturasre",
+     "gloss": "outside-that-square",
+     "grounds": "compound indicating location outside that square",
+     "morph": "compound"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral qualifying the following compound",
+     "morph": "n.nom.du"
+    },
+    {
+     "surface": "dvāradvayasamanvite",
+     "gloss": "endowed-with-two-gates",
+     "grounds": "compound describing the two squares",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What structural feature characterizes the two squares outside that area?",
+   "premises": [
+    "There are two squares outside that area.",
+    "These squares are endowed with two gates."
+   ],
+   "inference": "The outer region contains two gated squares.",
+   "uncertainties": [],
+   "plain_english": "Outside that, there are two squares endowed with two gates."
+  },
+  {
+   "verse": 3102,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-that",
+     "grounds": "refers to the previously mentioned arrangement",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "arrangement",
+     "grounds": "object of the act of speaking",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vakṣyāmi",
+     "gloss": "I-will-speak",
+     "grounds": "speaker promises to explain",
+     "morph": "1.sg.future-active √vac"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command addressed to the listener",
+     "morph": "2.sg.imperative-active √śru"
+    },
+    {
+     "surface": "sarvārthasādhakam",
+     "gloss": "accomplishing-all-aims",
+     "grounds": "describes the arrangement as effective for all purposes",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What benefit does the promised explanation of that arrangement offer?",
+   "premises": [
+    "The speaker will explain that arrangement.",
+    "The listener is asked to hear.",
+    "The arrangement accomplishes all aims."
+   ],
+   "inference": "The forthcoming explanation concerns an arrangement that fulfills all aims.",
+   "uncertainties": [],
+   "plain_english": "I will explain its arrangement; listen, for it accomplishes all aims."
+  },
+  {
+   "verse": 3103,
+   "rows": [
+    {
+     "surface": "tadaṅgāni",
+     "gloss": "its-limbs",
+     "grounds": "ritual limbs belonging to that arrangement",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "lipinyāsaṃ",
+     "gloss": "letter-placement",
+     "grounds": "ritual placement of letters",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "meditation",
+     "grounds": "visualization practice",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śaktibhirarcanam",
+     "gloss": "worship-with-powers",
+     "grounds": "compound indicating worship performed with śaktis",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "Which ritual components constitute the arrangement to be explained?",
+   "premises": [
+    "The arrangement includes its limbs.",
+    "It includes letter placement.",
+    "It includes meditation and worship with powers."
+   ],
+   "inference": "The arrangement consists of limbs, letter placement, meditation, and worship with powers.",
+   "uncertainties": [],
+   "plain_english": "Its limbs, the placement of letters, meditation, and worship with the powers."
+  },
+  {
+   "verse": 3104,
+   "rows": [
+    {
+     "surface": "pañcamaṃ",
+     "gloss": "fifth",
+     "grounds": "ordinal element in a sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhagamālādyaṃ",
+     "gloss": "beginning-with-bhagamālā",
+     "grounds": "compound indicating a group starting with bhagamālā",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bheruṇḍāyāḥ",
+     "gloss": "of-bheruṇḍā",
+     "grounds": "name of a deity or power",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal element in a sequence",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which specific elements are identified in this part of the sequence?",
+   "premises": [
+    "The fifth element begins with bhagamālā.",
+    "The second element belongs to bheruṇḍā."
+   ],
+   "inference": "The sequence includes a fifth element starting with bhagamālā and a second associated with bheruṇḍā.",
+   "uncertainties": [
+    "The exact referents of these ordinal elements are not fully specified here."
+   ],
+   "plain_english": "The fifth, beginning with Bhagamālā, and the second of Bheruṇḍā."
+  },
+  {
+   "verse": 3105,
+   "rows": [
+    {
+     "surface": "aṣṭamaṃ",
+     "gloss": "eighth",
+     "grounds": "ordinal element in a sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "navamaṃ",
+     "gloss": "ninth",
+     "grounds": "ordinal element in a sequence",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "expresses prescription or possibility",
+     "morph": "3.sg.optative-active √as"
+    },
+    {
+     "surface": "etadādyam",
+     "gloss": "beginning-with-this",
+     "grounds": "compound indicating a group starting with these",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "itīritam",
+     "gloss": "thus-declared",
+     "grounds": "reports what has been stated",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How are the eighth and ninth elements positioned in the declared sequence?",
+   "premises": [
+    "The eighth and ninth are included.",
+    "They form the beginning of a group.",
+    "This is how it has been declared."
+   ],
+   "inference": "The eighth and ninth elements are declared as the beginning of that group.",
+   "uncertainties": [],
+   "plain_english": "The eighth and the ninth should be taken as the beginning of this group, as thus declared."
+  },
+  {
+   "verse": 3106,
+   "rows": [
+    {
+     "surface": "māyayā",
+     "gloss": "with-māyā",
+     "grounds": "instrument used to enclose",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "puṭitaṃ",
+     "gloss": "enclosed",
+     "grounds": "describes the result of enclosing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "prior action before forming limbs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "aṅgāni",
+     "gloss": "limbs",
+     "grounds": "ritual limbs to be formed",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "number of limbs",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By what procedure should the six ritual limbs be formed?",
+   "premises": [
+    "One should enclose with māyā.",
+    "After doing so, one should make the limbs.",
+    "Six limbs are to be made in order."
+   ],
+   "inference": "The six limbs should be formed sequentially after enclosing with māyā.",
+   "uncertainties": [
+    "The specific mantra or form of māyā enclosure is not stated."
+   ],
+   "plain_english": "Having enclosed it with māyā, one should make the six limbs in order."
+  },
+  {
+   "verse": 3107,
+   "rows": [
+    {
+     "surface": "dṛkśrotranāsāvāgvakṣonābhiguhyeṣu",
+     "gloss": "in-eye-ear-nose-speech-chest-navel-secret-places",
+     "grounds": "compound listing bodily locations for placement",
+     "morph": "n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential placement",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In which bodily locations are the ritual elements to be placed sequentially?",
+   "premises": [
+    "A series of bodily locations is specified.",
+    "The placement is to be done in order."
+   ],
+   "inference": "The elements are placed sequentially in the eye, ear, nose, speech, chest, navel, and secret places.",
+   "uncertainties": [],
+   "plain_english": "And in order, in the eye, ear, nose, mouth, chest, navel, and secret places."
+  },
+  {
+   "verse": 3108,
+   "rows": [
+    {
+     "surface": "caturbhujāṃ",
+     "gloss": "four-armed",
+     "grounds": "describes the deity's form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "trinayanāṃ",
+     "gloss": "three-eyed",
+     "grounds": "describes the deity's form",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māṇikyamukuṭojjvalām",
+     "gloss": "radiant-with-ruby-crown",
+     "grounds": "compound describing the deity's adornment",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What physical attributes define the deity's visualized form?",
+   "premises": [
+    "The deity is four-armed.",
+    "The deity is three-eyed.",
+    "The deity is radiant with a ruby crown."
+   ],
+   "inference": "The deity is visualized as four-armed, three-eyed, and radiant with a ruby crown.",
+   "uncertainties": [],
+   "plain_english": "Four-armed, three-eyed, and radiant with a ruby crown."
+  },
+  {
+   "verse": 3109,
+   "rows": [
+    {
+     "surface": "dadhānāṃ",
+     "gloss": "bearing",
+     "grounds": "present participle describing what she holds",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bāhubhiḥ",
+     "gloss": "with-arms",
+     "grounds": "instrumental indicating the limbs used",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "netraiḥ",
+     "gloss": "with-eyes",
+     "grounds": "instrumental indicating the eyes",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "dayāmadasuśītalaiḥ",
+     "gloss": "cool-with-compassion-and-joy",
+     "grounds": "compound describing the quality of the eyes",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How are the deity's arms and eyes characterized in this visualization?",
+   "premises": [
+    "She bears things with her arms.",
+    "Her eyes are cool with compassion and joy."
+   ],
+   "inference": "The deity is visualized bearing objects with her arms and gazing with eyes cool from compassion and joy.",
+   "uncertainties": [
+    "The specific objects borne in the arms are not named here."
+   ],
+   "plain_english": "Bearing with her arms, and with eyes cool with compassion and joy."
+  },
+  {
+   "verse": 3110,
+   "rows": [
+    {
+     "surface": "cakramadhye",
+     "gloss": "in-middle-of-wheel",
+     "grounds": "compound indicating location within the wheel",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "sukhāsīnāṃ",
+     "gloss": "seated-happily",
+     "grounds": "describes her posture",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "smeravaktrasaroruhām",
+     "gloss": "with-smiling-lotus-face",
+     "grounds": "compound describing her face",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Where and in what posture is the deity visualized within the wheel?",
+   "premises": [
+    "She is in the middle of the wheel.",
+    "She is seated happily.",
+    "Her lotus-like face is smiling."
+   ],
+   "inference": "The deity is visualized happily seated in the middle of the wheel with a smiling lotus face.",
+   "uncertainties": [],
+   "plain_english": "Happily seated in the middle of the wheel, with a smiling lotus-like face."
+  },
+  {
+   "verse": 3111,
+   "rows": [
+    {
+     "surface": "siṃhāsane",
+     "gloss": "on-lion-throne",
+     "grounds": "location of the seat",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "abhitaḥ",
+     "gloss": "around",
+     "grounds": "indicates surrounding position",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "preṅkhat",
+     "gloss": "swinging",
+     "grounds": "present participle describing motion",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "potasthābhiḥ",
+     "gloss": "seated-in-boats",
+     "grounds": "compound describing the śaktis' position",
+     "morph": "f.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktibhiḥ",
+     "gloss": "with-powers",
+     "grounds": "attendant powers surrounding her",
+     "morph": "f.ins.pl"
+    }
+   ],
+   "question": "What surrounds the deity on the lion throne in this visualization?",
+   "premises": [
+    "The deity is on a lion throne.",
+    "Powers are around her.",
+    "These powers are seated in swinging boats."
+   ],
+   "inference": "The deity on the lion throne is surrounded by powers seated in swinging boats.",
+   "uncertainties": [
+    "The meaning of 'potasthābhiḥ' as boats or young ones is contextually interpreted as boats."
+   ],
+   "plain_english": "On a lion throne, surrounded by powers seated in swinging boats."
+  },
+  {
+   "verse": 3112,
+   "rows": [
+    {
+     "surface": "kurvāṇam",
+     "gloss": "making",
+     "grounds": "present participle describing an effect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "aruṇām",
+     "gloss": "reddish",
+     "grounds": "describes the color produced",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "abhodhau",
+     "gloss": "in-ocean",
+     "grounds": "compound indicating location in the ocean",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "one-should-meditate",
+     "grounds": "prescriptive instruction for visualization",
+     "morph": "3.sg.optative-active √cint"
+    },
+    {
+     "surface": "mantranāyikām",
+     "gloss": "mistress-of-mantra",
+     "grounds": "title of the deity to be meditated upon",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "How should the mistress of mantra be visualized in relation to the ocean?",
+   "premises": [
+    "One should meditate on the mistress of mantra.",
+    "She makes the ocean reddish."
+   ],
+   "inference": "The practitioner should meditate on the mistress of mantra as making the ocean reddish.",
+   "uncertainties": [],
+   "plain_english": "One should meditate on the mistress of mantra as making the ocean reddish."
+  },
+  {
+   "verse": 3113,
+   "rows": [
+    {
+     "surface": "ḍākinyādyāḥ",
+     "gloss": "beginning-with-ḍākinī",
+     "grounds": "compound indicating a group starting with ḍākinī",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ṣaḍasrasthā",
+     "gloss": "situated-in-six-cornered",
+     "grounds": "compound indicating location in the hexagon",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "padmadvādaśapatragāḥ",
+     "gloss": "going-to-twelve-petaled-lotus",
+     "grounds": "compound indicating location on the twelve-petaled lotus",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Where are the powers beginning with ḍākinī located in the diagram?",
+   "premises": [
+    "The group begins with ḍākinī.",
+    "They are situated in the six-cornered figure.",
+    "They are located on the twelve-petaled lotus."
+   ],
+   "inference": "The powers beginning with ḍākinī are located in the hexagon and on the twelve-petaled lotus.",
+   "uncertainties": [
+    "Whether these are two separate placements or a single layered location is ambiguous."
+   ],
+   "plain_english": "The powers beginning with Ḍākinī are situated in the hexagon and on the twelve-petaled lotus."
+  },
+  {
+   "verse": 3114,
+   "rows": [
+    {
+     "surface": "nirañjanā",
+     "gloss": "stainless",
+     "grounds": "name or attribute of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "rāgavatī",
+     "gloss": "passionate",
+     "grounds": "name or attribute of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tathaiva",
+     "gloss": "likewise",
+     "grounds": "indicates continuation in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madanāvatī",
+     "gloss": "madanāvatī",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which additional powers are named in this part of the enumeration?",
+   "premises": [
+    "Nirañjanā is named.",
+    "Rāgavatī is named.",
+    "Madanāvatī is named likewise."
+   ],
+   "inference": "The enumeration includes Nirañjanā, Rāgavatī, and Madanāvatī.",
+   "uncertainties": [],
+   "plain_english": "Nirañjanā, Rāgavatī, and likewise Madanāvatī."
+  },
+  {
+   "verse": 3115,
+   "rows": [
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indicates the next step in sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṣoḍaśapatrasthāḥ",
+     "gloss": "situated-on-sixteen-petals",
+     "grounds": "compound indicating location on the sixteen-petaled lotus",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "the powers to be heard or known",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ākarṇayāmbike",
+     "gloss": "hear-o-mother",
+     "grounds": "compound imperative addressing Ambikā",
+     "morph": "compound"
+    }
+   ],
+   "question": "What instruction is given regarding the powers on the sixteen-petaled lotus?",
+   "premises": [
+    "The next group is situated on the sixteen petals.",
+    "These are powers.",
+    "The listener is asked to hear them."
+   ],
+   "inference": "The listener is instructed to hear about the powers situated on the sixteen-petaled lotus.",
+   "uncertainties": [],
+   "plain_english": "Then, O Ambikā, hear the powers situated on the sixteen-petaled lotus."
+  },
+  {
+   "verse": 3116,
+   "rows": [
+    {
+     "surface": "kirātāṃ",
+     "gloss": "kirātā",
+     "grounds": "name of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kālakadane",
+     "gloss": "kālakadanā",
+     "grounds": "name of a power; vocative-like form in listing",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "kauśikīṃ",
+     "gloss": "kauśikī",
+     "grounds": "name of a power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kambuvāhinīm",
+     "gloss": "conch-bearing",
+     "grounds": "name or attribute of a power",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which powers are enumerated among those on the sixteen-petaled lotus?",
+   "premises": [
+    "Kirātā is named.",
+    "Kālakadanā is named.",
+    "Kauśikī and Kambuvāhinī are named."
+   ],
+   "inference": "The sixteen-petaled lotus includes Kirātā, Kālakadanā, Kauśikī, and Kambuvāhinī.",
+   "uncertainties": [
+    "The form 'kālakadane' appears as a vocative in a list of accusatives."
+   ],
+   "plain_english": "Kirātā, Kālakadanā, Kauśikī, and Kambuvāhinī."
+  },
+  {
+   "verse": 3117,
+   "rows": [
+    {
+     "surface": "caturasrasthāḥ",
+     "gloss": "situated-in-square",
+     "grounds": "compound indicating location in the square",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaktīḥ",
+     "gloss": "powers",
+     "grounds": "the powers to be heard",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "ākarṇaya",
+     "gloss": "hear",
+     "grounds": "command addressed to the listener",
+     "morph": "2.sg.imperative-active √karṇ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāḥ",
+     "gloss": "those",
+     "grounds": "refers to the powers in the square",
+     "morph": "f.acc.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential enumeration",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What instruction is given for learning the powers situated in the square?",
+   "premises": [
+    "There are powers situated in the square.",
+    "The listener is asked to hear them.",
+    "They are to be heard in order."
+   ],
+   "inference": "The listener should hear the powers situated in the square in sequence.",
+   "uncertainties": [],
+   "plain_english": "And hear those powers situated in the square, in order."
+  },
+  {
+   "verse": 3118,
+   "rows": [
+    {
+     "surface": "ratiḥ",
+     "gloss": "desire",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śraddhā",
+     "gloss": "faith",
+     "grounds": "name of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "bhogalolā",
+     "gloss": "eager-for-enjoyment",
+     "grounds": "name or attribute of a power",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "madonmatte",
+     "gloss": "intoxicated-with-pride",
+     "grounds": "name or attribute of a power; vocative-like form in listing",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "manasvinī",
+     "gloss": "spirited",
+     "grounds": "name or attribute of a power",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which powers are named as situated in the square?",
+   "premises": [
+    "Rati is named.",
+    "Śraddhā is named.",
+    "Bhogalolā, Madonmattā, and Manasvinī are named."
+   ],
+   "inference": "The powers in the square include Rati, Śraddhā, Bhogalolā, Madonmattā, and Manasvinī.",
+   "uncertainties": [
+    "The form 'madonmatte' appears as a vocative in a list of nominatives."
+   ],
+   "plain_english": "Rati, Śraddhā, Bhogalolā, Madonmattā, and Manasvinī."
+  },
+  {
+   "verse": 3119,
+   "rows": [
+    {
+     "surface": "dvādaśa",
+     "gloss": "twelve",
+     "grounds": "number of powers",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etāḥ",
+     "gloss": "these",
+     "grounds": "refers to the enumerated powers",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "mahādevyāḥ",
+     "gloss": "of-great-goddess",
+     "grounds": "identifies the deity to whom they belong",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "caturasrābhitaḥ",
+     "gloss": "around-square",
+     "grounds": "compound indicating location around the square",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active √yaj"
+    }
+   ],
+   "question": "How many powers of the great goddess should be worshipped around the square?",
+   "premises": [
+    "There are twelve powers.",
+    "They belong to the great goddess.",
+    "They are to be worshipped around the square."
+   ],
+   "inference": "One should worship these twelve powers of the great goddess around the square.",
+   "uncertainties": [],
+   "plain_english": "One should worship these twelve powers of the great goddess around the square."
+  },
+  {
+   "verse": 3120,
+   "rows": [
+    {
+     "surface": "śoṇābdhiṃ",
+     "gloss": "red-ocean",
+     "grounds": "object in the visualization sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hemapotaṃ",
+     "gloss": "golden-boat",
+     "grounds": "object in the visualization sequence",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "siṃhāsanam",
+     "gloss": "lion-throne",
+     "grounds": "object in the visualization sequence",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ataḥ",
+     "gloss": "then",
+     "grounds": "indicates sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "param",
+     "gloss": "after",
+     "grounds": "indicates what follows",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What elements are included in the visualization sequence after the previous steps?",
+   "premises": [
+    "The red ocean is included.",
+    "The golden boat is included.",
+    "The lion throne comes after."
+   ],
+   "inference": "The visualization sequence includes the red ocean, the golden boat, and then the lion throne.",
+   "uncertainties": [],
+   "plain_english": "The red ocean, the golden boat, and then the lion throne."
+  },
+  {
+   "verse": 3121,
+   "rows": [
+    {
+     "surface": "māyāsaptākṣarīmadhyagatairnāmabhiḥ",
+     "gloss": "with-names-placed-in-middle-of-māyā-seven-syllables",
+     "grounds": "compound describing names inserted within the seven-syllable māyā formula",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "prescriptive ritual instruction",
+     "morph": "3.sg.optative-active √arc"
+    }
+   ],
+   "question": "By what means should the worship be performed in this step?",
+   "premises": [
+    "Worship is prescribed.",
+    "It uses names placed in the middle of the seven-syllable māyā."
+   ],
+   "inference": "One should worship using names inserted within the seven-syllable māyā formula.",
+   "uncertainties": [
+    "The exact seven-syllable māyā formula is not specified in this verse."
+   ],
+   "plain_english": "One should worship with names placed in the middle of the seven-syllable māyā."
+  },
+  {
+   "verse": 3122,
+   "rows": [
+    {
+     "surface": "devyāḥ",
+     "gloss": "of-goddess",
+     "grounds": "identifies the deity",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurukullāyāḥ",
+     "gloss": "of-kurukullā",
+     "grounds": "name of the goddess",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "homaṃ",
+     "gloss": "fire-offering",
+     "grounds": "ritual act to be performed",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive instruction",
+     "morph": "3.sg.optative-active √kṛ"
+    },
+    {
+     "surface": "yathāvidhi",
+     "gloss": "according-to-rule",
+     "grounds": "indicates proper ritual procedure",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual action is prescribed for the goddess Kurukullā?",
+   "premises": [
+    "The goddess is Kurukullā.",
+    "A fire offering is prescribed.",
+    "It should be done according to rule."
+   ],
+   "inference": "One should perform the fire offering to the goddess Kurukullā according to rule.",
+   "uncertainties": [],
+   "plain_english": "One should perform the fire offering to the goddess Kurukullā according to the prescribed rules."
+  },
+  {
+   "verse": 3123,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "indicates following a previous procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāpayet",
+     "gloss": "one-should-complete",
+     "grounds": "prescriptive instruction to conclude",
+     "morph": "3.sg.optative-causative √āp"
+    },
+    {
+     "surface": "ittham",
+     "gloss": "thus",
+     "grounds": "summarizes the manner described",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcanaṃ",
+     "gloss": "worship",
+     "grounds": "the ritual act being concluded",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "addressed to the listener",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "samīritam",
+     "gloss": "declared",
+     "grounds": "reports that the instruction has been given",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the described worship be concluded according to the teaching?",
+   "premises": [
+    "The worship should be completed as before.",
+    "The manner of worship has been declared to the listener."
+   ],
+   "inference": "The worship should be concluded in the previously described manner as now declared.",
+   "uncertainties": [],
+   "plain_english": "One should complete the worship as before; thus the worship has been declared to you."
+  },
+  {
+   "verse": 3124,
+   "rows": [
+    {
+     "surface": "tadvidhānaṃ",
+     "gloss": "that-arrangement",
+     "grounds": "compound referring to the arrangement of that rite",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command addressed to the listener",
+     "morph": "2.sg.imperative-active √śru"
+    },
+    {
+     "surface": "prājñe",
+     "gloss": "o-wise-one",
+     "grounds": "vocative addressing the listener",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "samīhitaphalapradam",
+     "gloss": "giving-desired-fruit",
+     "grounds": "compound describing the arrangement's result",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What outcome is promised for hearing the arrangement addressed to the wise listener?",
+   "premises": [
+    "The listener is asked to hear that arrangement.",
+    "The arrangement gives the desired fruit."
+   ],
+   "inference": "Hearing that arrangement leads to obtaining the desired fruit.",
+   "uncertainties": [],
+   "plain_english": "Hear that arrangement, O wise one, for it gives the desired fruit."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p62",
+ "items": [
+  {
+   "verse": 1550,
+   "rows": [
+    {
+     "surface": "tau",
+     "gloss": "those-two",
+     "grounds": "refers to the two objects previously mentioned",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "santāpya",
+     "gloss": "having-heated",
+     "grounds": "absolutive expressing prior action",
+     "morph": "gerund; sam-√tap"
+    },
+    {
+     "surface": "kuśaiḥ",
+     "gloss": "with-kuśa-grass",
+     "grounds": "instrument used for heating",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "spṛṣdavā",
+     "gloss": "having-touched",
+     "grounds": "absolutive expressing subsequent action; surface form as given",
+     "morph": "gerund; √spṛś"
+    },
+    {
+     "surface": "mūlamadhyāgrataḥ",
+     "gloss": "from-root-middle-tip",
+     "grounds": "specifies the spatial sequence of contact",
+     "morph": "indecl.; mūla-madhya-agra-tas"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "indicates sequential progression",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By what ordered procedure must the two objects be heated and touched with kuśa grass?",
+   "premises": [
+    "The two objects are heated using kuśa grass.",
+    "The same two objects are then touched.",
+    "The touching proceeds from root through middle to tip in sequence."
+   ],
+   "inference": "The ritual procedure requires heating the two objects with kuśa grass and then touching them sequentially from base to tip.",
+   "uncertainties": [
+    "The exact identity of the two objects depends on the preceding verses."
+   ],
+   "plain_english": "Having heated those two with kuśa grass, one should touch them in order from the root to the middle to the tip."
+  }
+ ]
+}

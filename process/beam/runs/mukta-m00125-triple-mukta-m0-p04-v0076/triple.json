@@ -1,0 +1,1287 @@
+{
+ "song": "mukta-m0-p04",
+ "items": [
+  {
+   "verse": 76,
+   "rows": [
+    {
+     "surface": "kevalaiś",
+     "gloss": "only",
+     "grounds": "instrumental plural adjective qualifying mantras",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "śuddha",
+     "gloss": "pure",
+     "grounds": "first member of compound describing mantras",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śaivoktai",
+     "gloss": "declared-in-śaiva-scripture",
+     "grounds": "compound śaiva-uktaiḥ, instrumental plural",
+     "morph": "compound: śaiva+ukta; m.ins.pl"
+    },
+    {
+     "surface": "mantraiḥ",
+     "gloss": "with-mantras",
+     "grounds": "instrumental plural noun, means of liberation",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "uttama",
+     "gloss": "supreme-one",
+     "grounds": "vocative or nominative addressed subject",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "mucyate",
+     "gloss": "is-liberated",
+     "grounds": "passive verb indicating attainment of liberation",
+     "morph": "3.sg.pass-pres; √muc"
+    }
+   ],
+   "question": "By what kind of mantras is the supreme one liberated?",
+   "premises": [
+    "Liberation is attained through mantras alone",
+    "The mantras must be pure",
+    "The mantras must be declared in Śaiva scripture"
+   ],
+   "inference": "Therefore the supreme one is liberated by pure mantras declared in Śaiva scripture alone",
+   "uncertainties": [
+    "Whether uttama is vocative address or nominative subject"
+   ],
+   "plain_english": "O supreme one, one is liberated only by pure mantras declared in the Śaiva scriptures."
+  },
+  {
+   "verse": 77,
+   "rows": [
+    {
+     "surface": "nitye",
+     "gloss": "in-daily-rite",
+     "grounds": "locative singular of ritual category",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naimittike",
+     "gloss": "in-occasional-rite",
+     "grounds": "locative singular of ritual category",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the procedure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidhānaṃ",
+     "gloss": "procedure",
+     "grounds": "noun denoting prescribed rite",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "parikīrtitam",
+     "gloss": "is-declared",
+     "grounds": "past passive participle used predicatively",
+     "morph": "n.nom.sg.ppp; √kīrt"
+    }
+   ],
+   "question": "In which ritual contexts is this procedure declared applicable?",
+   "premises": [
+    "Rituals include daily observances",
+    "Rituals include occasional observances",
+    "This procedure is explicitly declared for them"
+   ],
+   "inference": "Therefore this procedure is declared for both daily and occasional rites",
+   "uncertainties": [],
+   "plain_english": "This procedure is declared to apply in both daily and occasional rites."
+  },
+  {
+   "verse": 78,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb referring to those contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlamantraḥ",
+     "gloss": "root-mantra",
+     "grounds": "compound noun, subject of the sentence",
+     "morph": "compound: mūla+mantra; m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījātmā",
+     "gloss": "seed-natured",
+     "grounds": "compound adjective describing the root mantra",
+     "morph": "compound: bīja+ātman; m.nom.sg"
+    },
+    {
+     "surface": "śreṣṭha",
+     "gloss": "best",
+     "grounds": "predicate adjective indicating superiority",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb of designation",
+     "morph": "3.sg.pass-pres; √vac"
+    }
+   ],
+   "question": "Which mantra is regarded as the best in those ritual contexts?",
+   "premises": [
+    "The context includes daily and occasional rites",
+    "A root mantra is present in that context",
+    "The root mantra has the nature of a seed"
+   ],
+   "inference": "Therefore the seed-natured root mantra is called the best there",
+   "uncertainties": [],
+   "plain_english": "In those contexts too, the root mantra, whose nature is the seed, is called the best."
+  },
+  {
+   "verse": 79,
+   "rows": [
+    {
+     "surface": "bījamantrasamudbhūtāḥ",
+     "gloss": "born-from-seed-mantra",
+     "grounds": "compound adjective describing Rudra recitations and others",
+     "morph": "compound: bīja-mantra+samudbhūta; m.nom.pl"
+    },
+    {
+     "surface": "rudrādhyāyādayaḥ",
+     "gloss": "rudra-recitation-and-others",
+     "grounds": "compound noun with plural suffix indicating a group",
+     "morph": "compound: rudra-adhyāya+ādi; m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What other sacred recitations arise from the seed mantra?",
+   "premises": [
+    "The seed mantra is primary",
+    "Sacred recitations can originate from it",
+    "The Rudra recitation is included among them"
+   ],
+   "inference": "Therefore the Rudra recitation and others also arise from the seed mantra",
+   "uncertainties": [
+    "The verse is syntactically incomplete and continues into the next verse"
+   ],
+   "plain_english": "The Rudra recitation and others also arise from the seed mantra."
+  },
+  {
+   "verse": 80,
+   "rows": [
+    {
+     "surface": "bījāṇu",
+     "gloss": "seed-syllable",
+     "grounds": "compound noun referring to the bīja mantra",
+     "morph": "compound: bīja+aṇu; m.nom.sg"
+    },
+    {
+     "surface": "sadṛśaḥ",
+     "gloss": "equal-to",
+     "grounds": "adjective expressing similarity or equivalence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "there-is-not",
+     "grounds": "existential negative verb",
+     "morph": "3.sg.pres; √as"
+    },
+    {
+     "surface": "mama",
+     "gloss": "to-me",
+     "grounds": "genitive pronoun indicating the speaker's preference",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "prītikaraḥ",
+     "gloss": "pleasure-giving",
+     "grounds": "compound adjective describing what pleases the deity",
+     "morph": "compound: prīti+kara; m.nom.sg"
+    },
+    {
+     "surface": "paraḥ",
+     "gloss": "other",
+     "grounds": "adjective indicating another thing",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there anything more pleasing to the deity than the seed syllable?",
+   "premises": [
+    "The seed syllable is a means of worship",
+    "The deity expresses personal preference",
+    "No other thing equals it in giving pleasure"
+   ],
+   "inference": "Therefore nothing other than the seed syllable is more pleasing to the deity",
+   "uncertainties": [
+    "Speaker identity is implied as Śiva but not explicit in this verse"
+   ],
+   "plain_english": "There is nothing else equal to the seed syllable that is more pleasing to me."
+  },
+  {
+   "verse": 81,
+   "rows": [
+    {
+     "surface": "kauberāsye",
+     "gloss": "in-north-face",
+     "grounds": "locative compound referring to the northern face or direction",
+     "morph": "compound: kaubera+āsya; n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "liṃge",
+     "gloss": "in-linga",
+     "grounds": "locative noun indicating ritual object",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sakale",
+     "gloss": "in-whole",
+     "grounds": "locative adjective describing a type of linga",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "miśra",
+     "gloss": "mixed",
+     "grounds": "first member of compound describing linga type",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "liṃgake",
+     "gloss": "in-linga",
+     "grounds": "locative diminutive noun for linga",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which types of linga or face does the following rule apply?",
+   "premises": [
+    "Different ritual objects are specified",
+    "The north face is included",
+    "Whole and mixed lingas are included"
+   ],
+   "inference": "Therefore the rule applies in the north face, in the linga, in the whole, and in the mixed linga",
+   "uncertainties": [
+    "The predicate governing these locatives is supplied by the next verse"
+   ],
+   "plain_english": "In the north face, in the linga, in the whole linga, and in the mixed linga..."
+  },
+  {
+   "verse": 82,
+   "rows": [
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "adverb indicating conformity with prior instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyat",
+     "gloss": "other",
+     "grounds": "pronoun referring to remaining procedures",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samuddiṣṭaṃ",
+     "gloss": "is-indicated",
+     "grounds": "past passive participle used predicatively",
+     "morph": "n.nom.sg.ppp; √diś"
+    },
+    {
+     "surface": "viśeṣaḥ",
+     "gloss": "distinction",
+     "grounds": "noun indicating a special difference",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kaścit",
+     "gloss": "some",
+     "grounds": "indefinite pronoun qualifying distinction",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "iṣyate",
+     "gloss": "is-desired",
+     "grounds": "passive verb indicating acceptance or intention",
+     "morph": "3.sg.pass-pres; √iṣ"
+    }
+   ],
+   "question": "How much of the previous procedure remains unchanged in these cases?",
+   "premises": [
+    "A prior procedure has been taught",
+    "Other elements are indicated as before",
+    "Some distinction is still intended"
+   ],
+   "inference": "Therefore the rest is as before, though some distinction is intended",
+   "uncertainties": [
+    "The specific distinction is not named in this verse"
+   ],
+   "plain_english": "The rest is indicated as before, but some distinction is intended."
+  },
+  {
+   "verse": 83,
+   "rows": [
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative indicating placement direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-right",
+     "grounds": "locative indicating placement direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sthāpanīyā",
+     "gloss": "to-be-established",
+     "grounds": "gerundive indicating required placement",
+     "morph": "f.nom.sg.gerundive; √sthā"
+    },
+    {
+     "surface": "manonmanī",
+     "gloss": "manonmanī",
+     "grounds": "proper name of the goddess or śakti",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Where should the goddess Manonmanī be established in worship?",
+   "premises": [
+    "Manonmanī is to be ritually established",
+    "Placement may vary by direction",
+    "Left and right sides are permitted options"
+   ],
+   "inference": "Therefore Manonmanī should be established on the left or on the right",
+   "uncertainties": [],
+   "plain_english": "Manonmanī should be established either on the left or on the right."
+  },
+  {
+   "verse": 84,
+   "rows": [
+    {
+     "surface": "īśāna",
+     "gloss": "īśāna",
+     "grounds": "first member of compound naming direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mīśadeśe",
+     "gloss": "in-īśa-region",
+     "grounds": "locative compound indicating northeast region; internal sandhi īśāna+īśadeśe context",
+     "morph": "compound: īśa+deśa; m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "niṛtau",
+     "gloss": "in-southwest",
+     "grounds": "locative of the southwest direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.opt.act; √arc"
+    }
+   ],
+   "question": "In which directional regions may one perform this worship?",
+   "premises": [
+    "Worship requires a specified location",
+    "The northeast region is a permitted option",
+    "The southwest region is a permitted option"
+   ],
+   "inference": "Therefore one should worship in the Īśāna region or in the southwest",
+   "uncertainties": [
+    "The object of worship is carried over from the previous verse"
+   ],
+   "plain_english": "One should worship in the Īśāna region or in the southwest."
+  },
+  {
+   "verse": 85,
+   "rows": [
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "on-south",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uttare",
+     "gloss": "on-north",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bahurūpaṃ",
+     "gloss": "many-formed",
+     "grounds": "accusative object, epithet or form of deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "optative verb prescribing visualization",
+     "morph": "3.sg.opt.act; √cint"
+    }
+   ],
+   "question": "Where and how should the many-formed aspect be contemplated?",
+   "premises": [
+    "Contemplation is prescribed as a ritual act",
+    "The object of contemplation is the many-formed aspect",
+    "South and north are permitted locations"
+   ],
+   "inference": "Therefore one should contemplate the many-formed aspect on the south or on the north",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the many-formed aspect on the south or on the north."
+  },
+  {
+   "verse": 86,
+   "rows": [
+    {
+     "surface": "paścime",
+     "gloss": "on-west",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūrva",
+     "gloss": "east",
+     "grounds": "first member of compound indicating direction",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "deśe",
+     "gloss": "in-region",
+     "grounds": "locative noun completing directional compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sadyavaktraṃ",
+     "gloss": "sadyojāta-face",
+     "grounds": "compound accusative object naming a face of Śiva",
+     "morph": "compound: sadya+vaktra; n.acc.sg"
+    },
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating mental act",
+     "morph": "m.nom.sg.pres-part.act; √smṛ"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "optative verb prescribing ritual placement",
+     "morph": "3.sg.opt.act; √nyas"
+    }
+   ],
+   "question": "Where should the Sadyojāta face be placed while remembering it?",
+   "premises": [
+    "Ritual placement requires a direction",
+    "The Sadyojāta face is the object to be placed",
+    "West and east regions are permitted options"
+   ],
+   "inference": "Therefore one should place the Sadyojāta face in the west or east region while remembering it",
+   "uncertainties": [],
+   "plain_english": "Remembering the Sadyojāta face, one should place it in the west or in the east region."
+  },
+  {
+   "verse": 87,
+   "rows": [
+    {
+     "surface": "śiraḥ",
+     "gloss": "head-mantra",
+     "grounds": "accusative noun referring to the śiras mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aiśānya",
+     "gloss": "in-northeast",
+     "grounds": "locative indicating direction; form as given",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "naiṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "locative indicating direction",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "śikhāṃ",
+     "gloss": "crest-mantra",
+     "grounds": "accusative noun referring to the śikhā mantra",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "pitari",
+     "gloss": "in-father-direction",
+     "grounds": "locative used as directional designation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vaiśake",
+     "gloss": "in-vaiśākha-direction",
+     "grounds": "locative used as directional designation; form as given",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "In which directions should the head and crest mantras be placed?",
+   "premises": [
+    "The head mantra requires placement",
+    "The crest mantra requires placement",
+    "Specific directional locations are assigned to each"
+   ],
+   "inference": "Therefore the head mantra is placed in the northeast and southwest, and the crest mantra in the specified directions",
+   "uncertainties": [
+    "The exact directional referents of pitari and vaiśake are unclear in this context",
+    "The governing verb is likely carried over from previous verses"
+   ],
+   "plain_english": "Place the head mantra in the northeast and southwest, and the crest mantra in the pitari and vaiśaka directions."
+  },
+  {
+   "verse": 88,
+   "rows": [
+    {
+     "surface": "pūrvasmin",
+     "gloss": "in-east",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "paścime",
+     "gloss": "in-west",
+     "grounds": "locative indicating direction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "caturdikṣu",
+     "gloss": "in-four-directions",
+     "grounds": "compound locative plural indicating all cardinal directions",
+     "morph": "compound: catur+diś; f.loc.pl"
+    },
+    {
+     "surface": "astraṃ",
+     "gloss": "weapon-mantra",
+     "grounds": "accusative object referring to the astra mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.opt.act; √arc"
+    }
+   ],
+   "question": "In which directions should the weapon mantra be worshipped?",
+   "premises": [
+    "The weapon mantra is an object of worship",
+    "East and west are possible locations",
+    "All four directions are also permitted"
+   ],
+   "inference": "Therefore one should worship the weapon mantra in the east, west, or in all four directions",
+   "uncertainties": [],
+   "plain_english": "One should worship the weapon mantra in the east, in the west, or in all four directions."
+  },
+  {
+   "verse": 89,
+   "rows": [
+    {
+     "surface": "gaṇeśāvaraṇaṃ",
+     "gloss": "gaṇeśa-retinue",
+     "grounds": "compound accusative object denoting the surrounding deities of Gaṇeśa",
+     "morph": "compound: gaṇeśa+āvaraṇa; n.acc.sg"
+    },
+    {
+     "surface": "somāt",
+     "gloss": "from-soma-direction",
+     "grounds": "ablative indicating starting point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "dakṣāt",
+     "gloss": "from-south-direction",
+     "grounds": "ablative indicating alternative starting point",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "ārabhya",
+     "gloss": "beginning",
+     "grounds": "gerund indicating starting action",
+     "morph": "(gerund); √rabh"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.opt.act; √arc"
+    }
+   ],
+   "question": "From which direction should worship of the Gaṇeśa retinue begin?",
+   "premises": [
+    "The Gaṇeśa retinue is to be worshipped",
+    "Worship proceeds in sequence from a starting point",
+    "The soma direction or the south direction may serve as the start"
+   ],
+   "inference": "Therefore one should worship the Gaṇeśa retinue beginning from the soma direction or from the south",
+   "uncertainties": [
+    "The exact directional referent of somāt may be context-specific"
+   ],
+   "plain_english": "One should worship the retinue of Gaṇeśa, beginning from the soma direction or from the south."
+  },
+  {
+   "verse": 90,
+   "rows": [
+    {
+     "surface": "devāgre",
+     "gloss": "before-the-deity",
+     "grounds": "locative compound indicating position in front of the deity",
+     "morph": "compound: deva+agra; n.loc.sg"
+    },
+    {
+     "surface": "vṛṣabhaḥ",
+     "gloss": "bull",
+     "grounds": "nominative noun naming the bull",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śūlaṃ",
+     "gloss": "trident",
+     "grounds": "nominative or accusative noun naming the trident",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhvajasthānaṃ",
+     "gloss": "banner-place",
+     "grounds": "compound noun naming the place of the banner",
+     "morph": "compound: dhvaja+sthāna; n.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gopuram",
+     "gloss": "gateway-tower",
+     "grounds": "noun naming the temple gateway",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What elements are located before the deity in the ritual layout?",
+   "premises": [
+    "A ritual layout before the deity is described",
+    "The bull and trident are included",
+    "The banner place and gateway are included"
+   ],
+   "inference": "Therefore the bull, trident, banner place, and gateway are situated before the deity",
+   "uncertainties": [
+    "The verb governing these items is implied from context"
+   ],
+   "plain_english": "Before the deity are the bull, the trident, the place of the banner, and the gateway tower."
+  },
+  {
+   "verse": 91,
+   "rows": [
+    {
+     "surface": "vāruṇādi",
+     "gloss": "beginning-with-west",
+     "grounds": "compound indicating starting direction",
+     "morph": "compound: vāruṇa+ādi; n.nom.sg"
+    },
+    {
+     "surface": "niṝtyantaṃ",
+     "gloss": "ending-with-southwest",
+     "grounds": "compound indicating ending direction",
+     "morph": "compound: niṝti+anta; n.nom.sg"
+    },
+    {
+     "surface": "parivārārcanaṃ",
+     "gloss": "attendant-worship",
+     "grounds": "compound noun denoting worship of attendants",
+     "morph": "compound: parivāra+arcana; n.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle indicating an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative sequence is prescribed for worship of the attendants?",
+   "premises": [
+    "Attendant worship follows a directional sequence",
+    "A starting point is specified as the west",
+    "An ending point is specified as the southwest"
+   ],
+   "inference": "Therefore attendant worship may alternatively proceed from the west to the southwest",
+   "uncertainties": [
+    "The verb is implied from surrounding verses"
+   ],
+   "plain_english": "Alternatively, the worship of the attendants may proceed from the west to the southwest."
+  },
+  {
+   "verse": 92,
+   "rows": [
+    {
+     "surface": "caṇḍeśaḥ",
+     "gloss": "caṇḍeśa",
+     "grounds": "proper name of a deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "īśadeśe",
+     "gloss": "in-īśa-region",
+     "grounds": "locative compound indicating northeast region",
+     "morph": "compound: īśa+deśa; m.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "should-be",
+     "grounds": "optative verb indicating prescribed location",
+     "morph": "3.sg.opt.act; √as"
+    },
+    {
+     "surface": "vighnarāṭ",
+     "gloss": "lord-of-obstacles",
+     "grounds": "compound noun referring to Gaṇeśa",
+     "morph": "compound: vighna+rāj; m.nom.sg"
+    },
+    {
+     "surface": "pitari",
+     "gloss": "in-father-direction",
+     "grounds": "locative used as directional designation",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "smṛtaḥ",
+     "gloss": "is-remembered",
+     "grounds": "past passive participle indicating traditional placement",
+     "morph": "m.nom.sg.ppp; √smṛ"
+    }
+   ],
+   "question": "Where are Caṇḍeśa and the lord of obstacles traditionally located?",
+   "premises": [
+    "Caṇḍeśa has a prescribed location",
+    "The lord of obstacles has a prescribed location",
+    "These locations are given in directional terms"
+   ],
+   "inference": "Therefore Caṇḍeśa should be in the Īśa region and the lord of obstacles in the pitari direction",
+   "uncertainties": [
+    "The exact directional referent of pitari is unclear"
+   ],
+   "plain_english": "Caṇḍeśa should be in the Īśa region, and the lord of obstacles is remembered in the pitari direction."
+  },
+  {
+   "verse": 93,
+   "rows": [
+    {
+     "surface": "liṃge",
+     "gloss": "in-linga",
+     "grounds": "locative noun indicating ritual object",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pratimāyāṃ",
+     "gloss": "in-image",
+     "grounds": "locative noun indicating sculpted image",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mukhaliṅge",
+     "gloss": "in-face-linga",
+     "grounds": "compound locative noun indicating linga with faces",
+     "morph": "compound: mukha+liṅga; n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-held",
+     "grounds": "past passive participle indicating accepted view",
+     "morph": "f.nom.sg.ppp; √man"
+    }
+   ],
+   "question": "In which forms of the deity is this worship practice held valid?",
+   "premises": [
+    "Worship may be directed to different forms",
+    "The linga and image are possible supports",
+    "The face-linga is also a possible support"
+   ],
+   "inference": "Therefore this practice is held valid in the linga, in the image, or in the face-linga",
+   "uncertainties": [
+    "The subject of matā is supplied by the following verse"
+   ],
+   "plain_english": "It is held to apply in the linga, in the image, or in the face-linga."
+  },
+  {
+   "verse": 94,
+   "rows": [
+    {
+     "surface": "miśre",
+     "gloss": "in-mixed",
+     "grounds": "locative adjective describing a mixed form",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyamā",
+     "gloss": "middle",
+     "grounds": "predicate adjective indicating intermediate grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "proktā",
+     "gloss": "is-declared",
+     "grounds": "past passive participle indicating teaching",
+     "morph": "f.nom.sg.ppp; √vac"
+    },
+    {
+     "surface": "liṃge",
+     "gloss": "in-linga",
+     "grounds": "locative noun indicating ritual object",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "arvā",
+     "gloss": "lower",
+     "grounds": "adjective indicating lower grade; form as given",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhamā",
+     "gloss": "lowest",
+     "grounds": "predicate adjective indicating lowest grade",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-held",
+     "grounds": "past passive participle indicating accepted view",
+     "morph": "f.nom.sg.ppp; √man"
+    }
+   ],
+   "question": "How are different linga forms graded in ritual efficacy?",
+   "premises": [
+    "Ritual forms can be graded",
+    "The mixed form is assigned a middle status",
+    "Another linga form is assigned the lowest status"
+   ],
+   "inference": "Therefore the mixed form is declared middle and the other linga form is held to be lowest",
+   "uncertainties": [
+    "The exact referent of arvā in this grading is ambiguous"
+   ],
+   "plain_english": "In the mixed form it is declared middle, but in the linga it is held to be lower, the lowest."
+  },
+  {
+   "verse": 95,
+   "rows": [
+    {
+     "surface": "nṛttamūrte",
+     "gloss": "in-dancing-form",
+     "grounds": "locative compound referring to the dancing image of Śiva",
+     "morph": "compound: nṛtta+mūrti; f.loc.sg"
+    },
+    {
+     "surface": "viśeṣeṇa",
+     "gloss": "especially",
+     "grounds": "instrumental adverb indicating emphasis",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tvati",
+     "gloss": "tvati",
+     "grounds": "form as given; meaning unclear in this context",
+     "morph": "unresolved"
+    },
+    {
+     "surface": "śobhana",
+     "gloss": "beautiful",
+     "grounds": "adjective indicating auspiciousness or beauty",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "miṣyate",
+     "gloss": "miṣyate",
+     "grounds": "form as given; likely related to iṣyate but uncertain",
+     "morph": "unresolved"
+    }
+   ],
+   "question": "What special quality is attributed to worship in the dancing form?",
+   "premises": [
+    "The dancing form is a specific manifestation",
+    "A special emphasis is indicated",
+    "A positive quality is associated with it"
+   ],
+   "inference": "Therefore the dancing form is especially associated with a beautiful or auspicious quality",
+   "uncertainties": [
+    "The tokens tvati and miṣyate are unclear and may be corrupt or require emendation",
+    "The intended predicate cannot be determined with certainty"
+   ],
+   "plain_english": "In the dancing form, especially, it is regarded as beautiful."
+  },
+  {
+   "verse": 96,
+   "rows": [
+    {
+     "surface": "avyaktaṃ",
+     "gloss": "unmanifest",
+     "grounds": "adjective describing the linga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mokṣadaṃ",
+     "gloss": "liberation-giving",
+     "grounds": "compound adjective describing the effect of the unmanifest linga",
+     "morph": "compound: mokṣa+da; n.nom.sg"
+    },
+    {
+     "surface": "liṃgaṃ",
+     "gloss": "linga",
+     "grounds": "noun subject of the statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyaktaṃ",
+     "gloss": "manifest",
+     "grounds": "adjective describing the contrasting linga",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhūtipradāyakam",
+     "gloss": "prosperity-giving",
+     "grounds": "compound adjective describing the effect of the manifest linga",
+     "morph": "compound: bhūti+pradāyaka; n.nom.sg"
+    }
+   ],
+   "question": "What different fruits are attributed to unmanifest and manifest lingas?",
+   "premises": [
+    "The linga may be unmanifest or manifest",
+    "Each form is associated with a distinct fruit",
+    "Liberation and prosperity are named as those fruits"
+   ],
+   "inference": "Therefore the unmanifest linga gives liberation and the manifest linga gives prosperity",
+   "uncertainties": [],
+   "plain_english": "The unmanifest linga gives liberation, while the manifest linga gives prosperity."
+  },
+  {
+   "verse": 97,
+   "rows": [
+    {
+     "surface": "śaucam",
+     "gloss": "purification",
+     "grounds": "accusative noun naming a preparatory act",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ācamanaṃ",
+     "gloss": "sipping-water",
+     "grounds": "accusative noun naming ritual sipping",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "snānaṃ",
+     "gloss": "bathing",
+     "grounds": "accusative noun naming ritual bathing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sandhyopāsana",
+     "gloss": "twilight-worship",
+     "grounds": "compound noun naming twilight observance",
+     "morph": "compound: sandhyā+upāsana; n.nom.sg"
+    },
+    {
+     "surface": "meva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle; internal sandhi m+eva",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which preparatory observances are included before the main worship?",
+   "premises": [
+    "Ritual worship requires preparation",
+    "Purification, sipping, and bathing are preparatory acts",
+    "Twilight worship is also included"
+   ],
+   "inference": "Therefore purification, sipping, bathing, and twilight worship are included as preparatory observances",
+   "uncertainties": [
+    "The governing verb is implied from the ritual sequence"
+   ],
+   "plain_english": "Purification, sipping of water, bathing, and indeed twilight worship are included."
+  },
+  {
+   "verse": 98,
+   "rows": [
+    {
+     "surface": "dvāra",
+     "gloss": "door",
+     "grounds": "first member of compound in instrumental phrase",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "mastreṇa",
+     "gloss": "with-mantra",
+     "grounds": "instrumental noun indicating means; form as given",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "saṃprokṣya",
+     "gloss": "having-sprinkled",
+     "grounds": "gerund indicating prior ritual action",
+     "morph": "(gerund); √prokṣ"
+    },
+    {
+     "surface": "dvārapān",
+     "gloss": "door-guardians",
+     "grounds": "accusative plural noun denoting guardians of the door",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.opt.act; √arc"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative used adverbially to indicate sequence",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "What sequence should be followed when worshipping the door guardians?",
+   "premises": [
+    "The door must be ritually prepared",
+    "Sprinkling is performed with a mantra",
+    "The door guardians are then worshipped in sequence"
+   ],
+   "inference": "Therefore one should sprinkle with the door mantra and then worship the door guardians in order",
+   "uncertainties": [
+    "The token mastreṇa likely stands for mantreṇa but is kept as given"
+   ],
+   "plain_english": "Having sprinkled with the door mantra, one should worship the door guardians in due order."
+  },
+  {
+   "verse": 99,
+   "rows": [
+    {
+     "surface": "yamunāṃ",
+     "gloss": "yamunā",
+     "grounds": "accusative proper name of a deity or river goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahākālaṃ",
+     "gloss": "mahākāla",
+     "grounds": "accusative proper name of a deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gandhādyaiḥ",
+     "gloss": "with-fragrance-and-others",
+     "grounds": "instrumental plural compound indicating offerings",
+     "morph": "compound: gandha+ādi; n.ins.pl"
+    },
+    {
+     "surface": "kramaśaḥ",
+     "gloss": "in-sequence",
+     "grounds": "adverb indicating ordered procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arcayet",
+     "gloss": "one-should-worship",
+     "grounds": "optative verb prescribing worship",
+     "morph": "3.sg.opt.act; √arc"
+    }
+   ],
+   "question": "How should Yamunā and Mahākāla be worshipped in this sequence?",
+   "premises": [
+    "Yamunā and Mahākāla are objects of worship",
+    "Offerings such as fragrance are used",
+    "The worship must follow a sequence"
+   ],
+   "inference": "Therefore one should worship Yamunā and Mahākāla in sequence with fragrance and other offerings",
+   "uncertainties": [],
+   "plain_english": "One should worship Yamunā and Mahākāla in sequence with fragrance and other offerings."
+  }
+ ]
+}

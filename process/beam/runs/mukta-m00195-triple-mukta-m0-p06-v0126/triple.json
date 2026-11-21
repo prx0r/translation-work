@@ -1,0 +1,1087 @@
+{
+ "song": "mukta-m0-p06",
+ "items": [
+  {
+   "verse": 126,
+   "rows": [
+    {
+     "surface": "caturtha",
+     "gloss": "fourth",
+     "grounds": "ordinal indicating the fourth month",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṣṭha",
+     "gloss": "sixth",
+     "grounds": "ordinal indicating the sixth month",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭameṣu",
+     "gloss": "in-eighth",
+     "grounds": "ordinal indicating the eighth month",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "māssu",
+     "gloss": "in-months",
+     "grounds": "locative plural of month; sandhi mās-su",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sanmadhyamādhamaḥ",
+     "gloss": "good-middle-low",
+     "grounds": "compound expressing graded quality",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which months are graded as good, middle, or low for the rite?",
+   "premises": [
+    "The fourth month is specified.",
+    "The sixth month is specified.",
+    "The eighth months are specified with graded quality."
+   ],
+   "inference": "The fourth, sixth, and eighth months are assigned good, middle, and low grades.",
+   "uncertainties": [
+    "The exact mapping of each grade to each month is not explicit."
+   ],
+   "plain_english": "In the fourth, sixth, and eighth months, the rite is considered good, middle, or low."
+  },
+  {
+   "verse": 127,
+   "rows": [
+    {
+     "surface": "devatāmantram",
+     "gloss": "deity-mantra",
+     "grounds": "mantra of the deity as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sīmante",
+     "gloss": "on-hair-parting",
+     "grounds": "location on the parting of the hair",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "surucā",
+     "gloss": "with-bright-pigment",
+     "grounds": "instrument used for writing",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "likhet",
+     "gloss": "should-write",
+     "grounds": "injunctive instruction to write",
+     "morph": "3.sg.opt.act √likh"
+    }
+   ],
+   "question": "Where and with what should the deity-mantra be written?",
+   "premises": [
+    "The deity-mantra is the object to be written.",
+    "The hair-parting is the specified location.",
+    "A bright pigment is the specified instrument."
+   ],
+   "inference": "One should write the deity-mantra on the hair-parting with bright pigment.",
+   "uncertainties": [],
+   "plain_english": "One should write the deity-mantra on the parting of the hair with surucā."
+  },
+  {
+   "verse": 128,
+   "rows": [
+    {
+     "surface": "gacchet",
+     "gloss": "should-approach",
+     "grounds": "injunctive instruction to go to",
+     "morph": "3.sg.opt.act √gam"
+    },
+    {
+     "surface": "tām",
+     "gloss": "that",
+     "grounds": "demonstrative referring to the wife",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "bhāryām",
+     "gloss": "wife",
+     "grounds": "object of approach",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "devatāśāpabhītitaḥ",
+     "gloss": "from-fear-of-deity-curse",
+     "grounds": "compound giving the reason for approaching",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Why must one approach the wife after the rite?",
+   "premises": [
+    "Approaching the wife is enjoined.",
+    "Fear of a deity's curse is stated as the reason.",
+    "The instruction applies to that wife."
+   ],
+   "inference": "One should approach that wife out of fear of the deity's curse.",
+   "uncertainties": [],
+   "plain_english": "Out of fear of the deity's curse, he should approach that wife."
+  },
+  {
+   "verse": 129,
+   "rows": [
+    {
+     "surface": "saṃgaḥ",
+     "gloss": "union",
+     "grounds": "conjugal union",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sīmantas",
+     "gloss": "hair-parting-rite",
+     "grounds": "the sīmanta ritual",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadadhovahaḥ",
+     "gloss": "carrying-below-that",
+     "grounds": "compound indicating what follows or supports that",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What relationship holds between union and the hair-parting rite?",
+   "premises": [
+    "Union is named.",
+    "The hair-parting rite is named.",
+    "A carrying-below-that relation is asserted."
+   ],
+   "inference": "Union is connected as that which carries below or follows the hair-parting rite.",
+   "uncertainties": [
+    "The precise ritual sense of tadadhovahaḥ is context-dependent."
+   ],
+   "plain_english": "Union is the hair-parting rite and that which carries below it."
+  },
+  {
+   "verse": 130,
+   "rows": [
+    {
+     "surface": "jātakarmābhidham",
+     "gloss": "called-birth-rite",
+     "grounds": "rite named jātakarman as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vipraḥ",
+     "gloss": "brahmin",
+     "grounds": "agent performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svakalpoktena",
+     "gloss": "by-own-manual-stated",
+     "grounds": "according to what is stated in one's own ritual manual",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "vartmanā",
+     "gloss": "by-path",
+     "grounds": "procedure or method followed",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "How should a brahmin perform the rite called birth-rite?",
+   "premises": [
+    "The birth-rite is the object to be performed.",
+    "A brahmin is the agent.",
+    "The procedure follows one's own ritual manual."
+   ],
+   "inference": "A brahmin should perform the birth-rite according to the path stated in his own manual.",
+   "uncertainties": [],
+   "plain_english": "A brahmin should perform the rite called jātakarman according to the procedure stated in his own manual."
+  },
+  {
+   "verse": 131,
+   "rows": [
+    {
+     "surface": "kriyām",
+     "gloss": "rite",
+     "grounds": "ritual action as object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "injunctive instruction to do",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "viṣṇusmaraṇapūrvakam",
+     "gloss": "preceded-by-viṣṇu-remembrance",
+     "grounds": "compound indicating remembrance of Viṣṇu comes first",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must precede the performance of the ritual action?",
+   "premises": [
+    "The rite is to be performed.",
+    "Remembrance of Viṣṇu is specified.",
+    "That remembrance is placed before the rite."
+   ],
+   "inference": "One should perform the rite preceded by remembrance of Viṣṇu.",
+   "uncertainties": [],
+   "plain_english": "He should perform the rite preceded by remembrance of Viṣṇu."
+  },
+  {
+   "verse": 132,
+   "rows": [
+    {
+     "surface": "lekhanyā",
+     "gloss": "with-stylus",
+     "grounds": "writing instrument",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "vilikhet",
+     "gloss": "should-inscribe",
+     "grounds": "injunctive instruction to write or inscribe",
+     "morph": "3.sg.opt.act √likh"
+    },
+    {
+     "surface": "karaṇāgrayā",
+     "gloss": "with-fingertip",
+     "grounds": "compound indicating the tip of the hand as instrument",
+     "morph": "f.ins.sg"
+    }
+   ],
+   "question": "With what instruments should the inscription be made?",
+   "premises": [
+    "Inscribing is enjoined.",
+    "A stylus is specified as an instrument.",
+    "The fingertip is specified as an instrument."
+   ],
+   "inference": "One should inscribe with a stylus or with the fingertip.",
+   "uncertainties": [
+    "Whether both instruments are used together or alternatively is unclear."
+   ],
+   "plain_english": "He should inscribe with a stylus and with the tip of the hand."
+  },
+  {
+   "verse": 133,
+   "rows": [
+    {
+     "surface": "tarpayet",
+     "gloss": "should-satisfy",
+     "grounds": "injunctive instruction to offer satisfaction",
+     "morph": "3.sg.opt.act √tṛp"
+    },
+    {
+     "surface": "paścāt",
+     "gloss": "afterward",
+     "grounds": "temporal sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyatkarma",
+     "gloss": "other-rite",
+     "grounds": "another ritual action as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣavat",
+     "gloss": "like-dakṣa",
+     "grounds": "comparative indicating skillful manner",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the other rite be performed afterward?",
+   "premises": [
+    "Satisfaction is to be offered afterward.",
+    "Another rite is the object.",
+    "The manner is compared to Dakṣa's skill."
+   ],
+   "inference": "Afterward one should satisfy and perform the other rite skillfully like Dakṣa.",
+   "uncertainties": [],
+   "plain_english": "Afterward he should offer satisfaction and perform the other rite skillfully, like Dakṣa."
+  },
+  {
+   "verse": 134,
+   "rows": [
+    {
+     "surface": "sarveṣām",
+     "gloss": "of-all",
+     "grounds": "applies to all persons",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "refers to the previously stated manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "uddiṣṭaḥ",
+     "gloss": "declared",
+     "grounds": "stated or prescribed",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sūtakānte",
+     "gloss": "at-impurity-end",
+     "grounds": "time when birth impurity ends",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "śubhe",
+     "gloss": "on-auspicious",
+     "grounds": "qualifies the day as auspicious",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dine",
+     "gloss": "on-day",
+     "grounds": "time of performance",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "When is this procedure declared for everyone to be performed?",
+   "premises": [
+    "The procedure is declared for all.",
+    "It is set at the end of birth impurity.",
+    "It is to occur on an auspicious day."
+   ],
+   "inference": "Thus it is declared for all at the end of impurity on an auspicious day.",
+   "uncertainties": [],
+   "plain_english": "Thus it is declared for all at the end of the period of birth impurity, on an auspicious day."
+  },
+  {
+   "verse": 135,
+   "rows": [
+    {
+     "surface": "mātrācakrāṇi",
+     "gloss": "mother-circles",
+     "grounds": "circles or groups of mothers as object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ṣoḍaśa",
+     "gloss": "sixteen",
+     "grounds": "number of circles",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How many mother-circles are specified in this context?",
+   "premises": [
+    "Mother-circles are named.",
+    "The number sixteen is given.",
+    "The circles are treated as the relevant set."
+   ],
+   "inference": "Sixteen mother-circles are specified.",
+   "uncertainties": [],
+   "plain_english": "There are sixteen mother-circles."
+  },
+  {
+   "verse": 136,
+   "rows": [
+    {
+     "surface": "nāma",
+     "gloss": "name",
+     "grounds": "the name in question",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tādṛśaḥ",
+     "gloss": "such",
+     "grounds": "of that corresponding kind",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "cet",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "the guru as subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "consequent marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Under what condition does the teacher bear such a name?",
+   "premises": [
+    "A name is under consideration.",
+    "The teacher is the subject.",
+    "A conditional relation is stated."
+   ],
+   "inference": "If the name is such, then the teacher is accordingly designated.",
+   "uncertainties": [
+    "The specific qualifying condition for tādṛśaḥ is supplied by context."
+   ],
+   "plain_english": "If the name is such, then the teacher is such."
+  },
+  {
+   "verse": 137,
+   "rows": [
+    {
+     "surface": "yasmāt",
+     "gloss": "because",
+     "grounds": "causal particle introducing reason",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "akṣaguṇaiḥ",
+     "gloss": "by-sense-qualities",
+     "grounds": "qualities or properties of syllables/senses as means",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "siddhiḥ",
+     "gloss": "accomplishment",
+     "grounds": "successful attainment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viprāṇām",
+     "gloss": "of-brahmins",
+     "grounds": "those for whom accomplishment arises",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "samprajāyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.pres.mid √jan"
+    }
+   ],
+   "question": "What brings about accomplishment for brahmins in this teaching?",
+   "premises": [
+    "Accomplishment arises for brahmins.",
+    "Sense-qualities are named as the means.",
+    "A causal relation is asserted."
+   ],
+   "inference": "Accomplishment arises for brahmins through the qualities of the syllables or senses.",
+   "uncertainties": [
+    "akṣaguṇaiḥ may refer to syllable-qualities or sense-qualities depending on context."
+   ],
+   "plain_english": "Because accomplishment for brahmins arises through the qualities of the akṣas."
+  },
+  {
+   "verse": 138,
+   "rows": [
+    {
+     "surface": "ir",
+     "gloss": "ir",
+     "grounds": "syllable or seed element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yam",
+     "gloss": "yam",
+     "grounds": "syllable or seed element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ī",
+     "gloss": "ī",
+     "grounds": "syllable or vowel element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "u",
+     "gloss": "u",
+     "grounds": "syllable or vowel element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ū",
+     "gloss": "ū",
+     "grounds": "syllable or vowel element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vahnibhe",
+     "gloss": "in-fire-abode",
+     "grounds": "location associated with the fire lunar mansion",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of assignment",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which syllables are assigned to the fire-abode in this scheme?",
+   "premises": [
+    "Several syllables are listed.",
+    "The fire-abode is named as the locus.",
+    "The listing indicates assignment."
+   ],
+   "inference": "The syllables ir, yam, ī, u, and ū are assigned to the fire-abode.",
+   "uncertainties": [],
+   "plain_english": "Likewise, ir, yam, ī, u, and ū belong to the fire-abode."
+  },
+  {
+   "verse": 139,
+   "rows": [
+    {
+     "surface": "puṣye",
+     "gloss": "in-puṣya",
+     "grounds": "lunar mansion Puṣya as locus",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kakāraḥ",
+     "gloss": "letter-ka",
+     "grounds": "the consonant ka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarpabhe",
+     "gloss": "in-serpent-abode",
+     "grounds": "lunar mansion associated with the serpent",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kh",
+     "gloss": "kh",
+     "grounds": "consonant syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "g",
+     "gloss": "g",
+     "grounds": "consonant syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "au",
+     "gloss": "au",
+     "grounds": "vowel syllable",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which letters are assigned to Puṣya and the serpent-abode?",
+   "premises": [
+    "Puṣya is named as a locus.",
+    "The serpent-abode is named as a locus.",
+    "Specific letters are listed for these loci."
+   ],
+   "inference": "The letter ka belongs to Puṣya, and kh, g, and au belong to the serpent-abode.",
+   "uncertainties": [],
+   "plain_english": "In Puṣya is the letter ka; in the serpent-abode are kh, g, and au."
+  },
+  {
+   "verse": 140,
+   "rows": [
+    {
+     "surface": "ṭa",
+     "gloss": "ṭa",
+     "grounds": "consonant syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṭhau",
+     "gloss": "ṭha",
+     "grounds": "consonant syllable; form as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tvāṣṭre",
+     "gloss": "in-tvāṣṭra",
+     "grounds": "lunar mansion associated with Tvaṣṭṛ",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svātyāṃ",
+     "gloss": "in-svātī",
+     "grounds": "lunar mansion Svātī as locus",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ḍo",
+     "gloss": "ḍa",
+     "grounds": "consonant syllable; form as given",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvīśabhe",
+     "gloss": "in-two-lord-abode",
+     "grounds": "lunar mansion associated with two lords",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ḍha",
+     "gloss": "ḍha",
+     "grounds": "consonant syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ṇau",
+     "gloss": "ṇa",
+     "grounds": "consonant syllable; form as given",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which letters are assigned to Tvāṣṭra, Svātī, and the two-lord abode?",
+   "premises": [
+    "Tvāṣṭra is named as a locus.",
+    "Svātī and the two-lord abode are named as loci.",
+    "Specific letters are listed for these loci."
+   ],
+   "inference": "Ṭa and ṭha belong to Tvāṣṭra, ḍa to Svātī, and ḍha and ṇa to the two-lord abode.",
+   "uncertainties": [],
+   "plain_english": "In Tvāṣṭra are ṭa and ṭha; in Svātī is ḍa; in the two-lord abode are ḍha and ṇa."
+  },
+  {
+   "verse": 141,
+   "rows": [
+    {
+     "surface": "pūrvāṣāḍhāyām",
+     "gloss": "in-pūrvāṣāḍhā",
+     "grounds": "lunar mansion Pūrvāṣāḍhā as locus",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "bakāraḥ",
+     "gloss": "letter-ba",
+     "grounds": "the consonant ba",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhaḥ",
+     "gloss": "bha",
+     "grounds": "consonant syllable",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiśvabhe",
+     "gloss": "in-vaiśva-abode",
+     "grounds": "lunar mansion associated with the Viśvedevas",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which letters are assigned to Pūrvāṣāḍhā and the Vaiśva abode?",
+   "premises": [
+    "Pūrvāṣāḍhā is named as a locus.",
+    "The Vaiśva abode is named as a locus.",
+    "The letters ba and bha are listed."
+   ],
+   "inference": "The letter ba belongs to Pūrvāṣāḍhā and bha belongs to the Vaiśva abode.",
+   "uncertainties": [],
+   "plain_english": "In Pūrvāṣāḍhā is the letter ba, and in the Vaiśva abode is bha."
+  },
+  {
+   "verse": 142,
+   "rows": [
+    {
+     "surface": "pūrvabhādrāyām",
+     "gloss": "in-pūrvabhādrā",
+     "grounds": "lunar mansion Pūrvabhādrā as locus",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "ṣa",
+     "gloss": "ṣa",
+     "grounds": "consonant syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sa",
+     "gloss": "sa",
+     "grounds": "consonant syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hāḥ",
+     "gloss": "ha",
+     "grounds": "consonant syllable; form as given",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "should-be",
+     "grounds": "optative indicating assignment",
+     "morph": "3.pl.opt.act √as"
+    },
+    {
+     "surface": "upāntime",
+     "gloss": "in-next-to-last",
+     "grounds": "location in the penultimate position",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "Which letters are placed in Pūrvabhādrā and the next-to-last position?",
+   "premises": [
+    "Pūrvabhādrā is named as a locus.",
+    "The next-to-last position is named.",
+    "The letters ṣa, sa, and ha are listed."
+   ],
+   "inference": "The letters ṣa, sa, and ha are assigned to Pūrvabhādrā and the next-to-last position.",
+   "uncertainties": [
+    "The distribution of the three letters across the two loci is not fully explicit."
+   ],
+   "plain_english": "In Pūrvabhādrā and in the next-to-last position should be ṣa, sa, and ha."
+  },
+  {
+   "verse": 143,
+   "rows": [
+    {
+     "surface": "sādhyanāmādivarṇa",
+     "gloss": "target-name-first-letter",
+     "grounds": "compound referring to the first letter of the target's name",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṛkṣa",
+     "gloss": "lunar-mansion",
+     "grounds": "nakṣatra associated with that letter",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "trirāvṛttyā",
+     "gloss": "by-threefold-repetition",
+     "grounds": "counting by repeating three times",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "phalāni",
+     "gloss": "results",
+     "grounds": "outcomes of the calculation",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are results determined from the target's name and lunar mansion?",
+   "premises": [
+    "The first letter of the target's name is used.",
+    "The lunar mansion is involved.",
+    "A threefold repetition is applied."
+   ],
+   "inference": "Results are determined by threefold repetition from the lunar mansion of the target's first name-letter.",
+   "uncertainties": [],
+   "plain_english": "The results come from the lunar mansion of the first letter of the target's name by threefold repetition."
+  },
+  {
+   "verse": 144,
+   "rows": [
+    {
+     "surface": "vyādhim",
+     "gloss": "illness",
+     "grounds": "disease as outcome",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āpnoti",
+     "gloss": "obtains",
+     "grounds": "comes to experience",
+     "morph": "3.sg.pres.act √āp"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the sādhaka performing the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kāryasiddhaye",
+     "gloss": "for-task-success",
+     "grounds": "purpose of accomplishing the intended work",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What adverse result may the practitioner incur while seeking task success?",
+   "premises": [
+    "The practitioner seeks success in the task.",
+    "Illness is named as something obtained.",
+    "The practitioner is the subject."
+   ],
+   "inference": "In seeking success in the task, the practitioner may obtain illness.",
+   "uncertainties": [
+    "The condition under which illness arises depends on prior calculation."
+   ],
+   "plain_english": "The practitioner may incur illness in seeking the success of the task."
+  },
+  {
+   "verse": 145,
+   "rows": [
+    {
+     "surface": "tārācakrasya",
+     "gloss": "of-star-circle",
+     "grounds": "the tārācakra diagram or system",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome indicated by the system",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "after ascertaining",
+     "morph": "(gerund) √jñā"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "should-act",
+     "grounds": "injunctive instruction to proceed",
+     "morph": "3.sg.opt.act √car"
+    },
+    {
+     "surface": "idam",
+     "gloss": "this",
+     "grounds": "this action or procedure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What must be known before undertaking this action according to the star-circle?",
+   "premises": [
+    "The star-circle yields a result.",
+    "That result must be known first.",
+    "Action should follow that knowledge."
+   ],
+   "inference": "One should perform this after knowing the result of the star-circle.",
+   "uncertainties": [],
+   "plain_english": "Having known the result of the star-circle, one should perform this."
+  },
+  {
+   "verse": 146,
+   "rows": [
+    {
+     "surface": "strīpuṃsoḥ",
+     "gloss": "of-woman-and-man",
+     "grounds": "pair consisting of woman and man",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyastayoḥ",
+     "gloss": "of-separated-two",
+     "grounds": "considered separately as a pair",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gaṇacakram",
+     "gloss": "group-circle",
+     "grounds": "the gaṇacakra system as object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vicārayet",
+     "gloss": "should-examine",
+     "grounds": "injunctive instruction to consider",
+     "morph": "3.sg.opt.act √car"
+    }
+   ],
+   "question": "For which pairings should the group-circle be examined?",
+   "premises": [
+    "A woman and a man form one pairing.",
+    "Separated pairings are also considered.",
+    "The group-circle is to be examined."
+   ],
+   "inference": "One should examine the group-circle for a woman and man, or for them considered separately.",
+   "uncertainties": [],
+   "plain_english": "One should examine the group-circle for a woman and a man, or for the two considered separately."
+  },
+  {
+   "verse": 147,
+   "rows": [
+    {
+     "surface": "hari",
+     "gloss": "hari",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "antyam",
+     "gloss": "antya",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "amitra",
+     "gloss": "amitra",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āditya",
+     "gloss": "āditya",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "indu",
+     "gloss": "indu",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyu",
+     "gloss": "vāyu",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ijya",
+     "gloss": "ijya",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kara",
+     "gloss": "kara",
+     "grounds": "name in the group sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ghoṭakāḥ",
+     "gloss": "ghoṭaka",
+     "grounds": "name in the group sequence; form as given",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Which names constitute the sequence in this group-circle listing?",
+   "premises": [
+    "A sequence of names is enumerated.",
+    "Each item functions as a group designation.",
+    "The list forms the relevant set."
+   ],
+   "inference": "The sequence consists of hari, antya, amitra, āditya, indu, vāyu, ijya, kara, and ghoṭaka.",
+   "uncertainties": [],
+   "plain_english": "The names are hari, antya, amitra, āditya, indu, vāyu, ijya, kara, and ghoṭaka."
+  },
+  {
+   "verse": 148,
+   "rows": [
+    {
+     "surface": "nṛdevayoḥ",
+     "gloss": "of-human-and-god",
+     "grounds": "pair of human and deity groups",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome of the pairing",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śīghram",
+     "gloss": "quickly",
+     "grounds": "speed of the result",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyastayoḥ",
+     "gloss": "of-separated-two",
+     "grounds": "when considered separately",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "kaṣṭataḥ",
+     "gloss": "with-difficulty",
+     "grounds": "result comes with hardship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "phalam",
+     "gloss": "result",
+     "grounds": "outcome of the pairing",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the result differ for human-god pairing versus separated pairing?",
+   "premises": [
+    "The human-god pairing yields a result quickly.",
+    "The separated pairing yields a result with difficulty.",
+    "Both outcomes are explicitly stated."
+   ],
+   "inference": "For human and god the result is quick, but for the separated pair it comes with difficulty.",
+   "uncertainties": [],
+   "plain_english": "For a human and a god the result comes quickly; for the two separated it comes with difficulty."
+  },
+  {
+   "verse": 149,
+   "rows": [
+    {
+     "surface": "devadānavayoḥ",
+     "gloss": "of-god-and-demon",
+     "grounds": "pair of deity and demon groups",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "yuddham",
+     "gloss": "conflict",
+     "grounds": "strife as outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vyastayoḥ",
+     "gloss": "of-separated-two",
+     "grounds": "when considered separately",
+     "morph": "m.gen.du"
+    },
+    {
+     "surface": "niṣphalam",
+     "gloss": "fruitless",
+     "grounds": "without successful result",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative indicating outcome",
+     "morph": "3.sg.opt.act √bhū"
+    }
+   ],
+   "question": "What outcomes arise from god-demon pairing and from separated pairing?",
+   "premises": [
+    "The god-demon pairing is considered.",
+    "Conflict is named as its outcome.",
+    "The separated pairing is said to be fruitless."
+   ],
+   "inference": "For god and demon there would be conflict, but for the separated pair the result would be fruitless.",
+   "uncertainties": [],
+   "plain_english": "For a god and a demon there would be conflict; for the two separated it would be fruitless."
+  }
+ ]
+}

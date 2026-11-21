@@ -1,0 +1,1007 @@
+{
+ "song": "mukta-m0-p68",
+ "items": [
+  {
+   "verse": 1676,
+   "rows": [
+    {
+     "surface": "muṇḍāsanāt",
+     "gloss": "from-skull-seat",
+     "grounds": "ablative of source; seat made of skulls",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "citāsanāt+ca",
+     "gloss": "from-funeral-pyre-seat-and",
+     "grounds": "ablative compounded with conjunction",
+     "morph": "n.abl.sg + (indecl.)"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative pronoun introducing result",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "phalaṃ",
+     "gloss": "fruit",
+     "grounds": "result or reward obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "experiencer gains the fruit",
+     "morph": "3.sg.pres.mid (√labh)"
+    }
+   ],
+   "question": "What fruit is obtained from the skull-seat and funeral-pyre-seat?",
+   "premises": [
+    "The skull-seat is a ritual seat",
+    "The funeral-pyre-seat is a ritual seat",
+    "A specific fruit is obtained from them"
+   ],
+   "inference": "Practice upon these seats yields a particular fruit",
+   "uncertainties": [],
+   "plain_english": "What fruit one obtains from the skull-seat and from the funeral-pyre-seat."
+  },
+  {
+   "verse": 1677,
+   "rows": [
+    {
+     "surface": "iha+amutra",
+     "gloss": "here-and-beyond",
+     "grounds": "this world and the other world",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "sukha+avāptyai",
+     "gloss": "for-happiness-attainment",
+     "grounds": "purpose of gaining happiness",
+     "morph": "n.dat.sg (compound: sukha+avāpti)"
+    },
+    {
+     "surface": "kulamārgaḥ",
+     "gloss": "kula-path",
+     "grounds": "the path of the Kula tradition",
+     "morph": "m.nom.sg (compound: kula+mārga)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na+aparaḥ",
+     "gloss": "not-other",
+     "grounds": "negation asserting exclusivity",
+     "morph": "(indecl.) + m.nom.sg"
+    }
+   ],
+   "question": "Which path alone secures happiness in this world and beyond?",
+   "premises": [
+    "Happiness is sought here and beyond",
+    "The kula-path is available",
+    "No other path is equal to it"
+   ],
+   "inference": "The kula-path alone secures happiness in both worlds",
+   "uncertainties": [],
+   "plain_english": "For attaining happiness here and in the other world, there is indeed no path other than the kula-path."
+  },
+  {
+   "verse": 1678,
+   "rows": [
+    {
+     "surface": "gopanāt",
+     "gloss": "by-concealment",
+     "grounds": "ablative indicating cause",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kula+dharmasya",
+     "gloss": "of-kula-duty",
+     "grounds": "the duty or law of the Kula",
+     "morph": "m.gen.sg (compound: kula+dharma)"
+    },
+    {
+     "surface": "kaulaḥ+api",
+     "gloss": "kaula-even",
+     "grounds": "even a follower of Kula",
+     "morph": "m.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "nārakī",
+     "gloss": "hell-dweller",
+     "grounds": "one who goes to hell",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-become",
+     "grounds": "potential consequence",
+     "morph": "3.sg.opt.act (√bhū)"
+    }
+   ],
+   "question": "What consequence follows from concealing the duty of the Kula?",
+   "premises": [
+    "The kula-duty requires proper handling",
+    "Concealment of the kula-duty is possible",
+    "Even a kaula is subject to consequences"
+   ],
+   "inference": "Concealing the kula-duty leads even a kaula to hell",
+   "uncertainties": [],
+   "plain_english": "By concealing the kula-duty, even a kaula would become a dweller in hell."
+  },
+  {
+   "verse": 1679,
+   "rows": [
+    {
+     "surface": "tattva+cakraṃ",
+     "gloss": "tattva-circle",
+     "grounds": "ritual circle of principles",
+     "morph": "n.acc.sg (compound: tattva+cakra)"
+    },
+    {
+     "surface": "kuleśāni",
+     "gloss": "o-lord-of-kula",
+     "grounds": "vocative address to the goddess",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sāmprataṃ",
+     "gloss": "now",
+     "grounds": "temporal marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vacmi",
+     "gloss": "i-speak",
+     "grounds": "speaker declares intent",
+     "morph": "1.sg.pres.act (√vac)"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "refers to the tattva-circle",
+     "morph": "pron.acc.sg.n"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "command to listen",
+     "morph": "2.sg.imp.act (√śru)"
+    }
+   ],
+   "question": "What teaching about the tattva-circle is now being announced?",
+   "premises": [
+    "The speaker addresses the lord of Kula",
+    "The tattva-circle is the topic",
+    "The listener is asked to hear"
+   ],
+   "inference": "The speaker will now expound the tattva-circle",
+   "uncertainties": [],
+   "plain_english": "O Lord of Kula, I now speak of the tattva-circle; hear that."
+  },
+  {
+   "verse": 1680,
+   "rows": [
+    {
+     "surface": "na+atra",
+     "gloss": "not-here",
+     "grounds": "negation of eligibility in this context",
+     "morph": "(indecl.) + (indecl.)"
+    },
+    {
+     "surface": "adhikāraḥ",
+     "gloss": "eligibility",
+     "grounds": "qualification or right to participate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "universal scope",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "brahma+jñān",
+     "gloss": "brahman-knowers",
+     "grounds": "those who know brahman",
+     "morph": "m.acc.pl (compound: brahma+jña)"
+    },
+    {
+     "surface": "sādhakān",
+     "gloss": "practitioners",
+     "grounds": "spiritual practitioners",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "vinā",
+     "gloss": "without",
+     "grounds": "exclusion",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who is excluded from eligibility in the tattva-circle practice?",
+   "premises": [
+    "Eligibility is restricted in this context",
+    "Not everyone is qualified",
+    "Brahman-knowing practitioners are excepted"
+   ],
+   "inference": "All except brahman-knowing practitioners lack eligibility here",
+   "uncertainties": [],
+   "plain_english": "Not everyone is eligible here, except for practitioners who know brahman."
+  },
+  {
+   "verse": 1681,
+   "rows": [
+    {
+     "surface": "śuddha+antaḥkaraṇāḥ",
+     "gloss": "pure-inner-organ",
+     "grounds": "those with purified inner faculties",
+     "morph": "m.nom.pl (compound: śuddha+antaḥkaraṇa)"
+    },
+    {
+     "surface": "śāntāḥ",
+     "gloss": "peaceful",
+     "grounds": "calm and tranquil",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sarva+prāṇi+hite",
+     "gloss": "in-all-beings-welfare",
+     "grounds": "devoted to the good of all beings",
+     "morph": "n.loc.sg (compound: sarva+prāṇi+hita)"
+    },
+    {
+     "surface": "ratāḥ",
+     "gloss": "delighted",
+     "grounds": "engaged or devoted",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "What qualities characterize those fit for the tattva-circle?",
+   "premises": [
+    "Certain inner qualities are required",
+    "Peacefulness is a required quality",
+    "Devotion to all beings' welfare is required"
+   ],
+   "inference": "The qualified possess purity, peace, and benevolence",
+   "uncertainties": [],
+   "plain_english": "They are of pure inner organ, peaceful, and devoted to the welfare of all beings."
+  },
+  {
+   "verse": 1682,
+   "rows": [
+    {
+     "surface": "satya+saṅkalpakāḥ",
+     "gloss": "true-resolve",
+     "grounds": "those whose resolve is true",
+     "morph": "m.nom.pl (compound: satya+saṅkalpaka)"
+    },
+    {
+     "surface": "brāhmāḥ",
+     "gloss": "brahmins",
+     "grounds": "members of the brahmin class or brahmanic",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "refers to the qualified ones",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this practice",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adhikāriṇaḥ",
+     "gloss": "qualified",
+     "grounds": "those who have eligibility",
+     "morph": "m.nom.pl"
+    }
+   ],
+   "question": "Who alone possesses eligibility for this tattva-circle practice?",
+   "premises": [
+    "True resolve is a qualifying trait",
+    "Brahmins are identified as qualified",
+    "Eligibility here is exclusive"
+   ],
+   "inference": "Only brahmins of true resolve are qualified here",
+   "uncertainties": [
+    "Whether brāhmāḥ denotes birth or spiritual quality is context-dependent"
+   ],
+   "plain_english": "Those brahmins of true resolve alone are qualified here."
+  },
+  {
+   "verse": 1683,
+   "rows": [
+    {
+     "surface": "teṣāṃ",
+     "gloss": "of-them",
+     "grounds": "refers to the qualified persons",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "tattva+vidāṃ",
+     "gloss": "tattva-knowing",
+     "grounds": "those who know the principles",
+     "morph": "m.gen.pl (compound: tattva+vid)"
+    },
+    {
+     "surface": "puṃsāṃ",
+     "gloss": "of-persons",
+     "grounds": "human practitioners",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tattva+cakre",
+     "gloss": "in-tattva-circle",
+     "grounds": "within the ritual circle of principles",
+     "morph": "n.loc.sg (compound: tattva+cakra)"
+    },
+    {
+     "surface": "adhikāritā",
+     "gloss": "eligibility",
+     "grounds": "state of being qualified",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Whose eligibility in the tattva-circle is being affirmed?",
+   "premises": [
+    "Some persons know the tattvas",
+    "The tattva-circle requires eligibility",
+    "Eligibility belongs to specific persons"
+   ],
+   "inference": "Tattva-knowing persons possess eligibility in the tattva-circle",
+   "uncertainties": [],
+   "plain_english": "Those persons who know the tattvas have eligibility in the tattva-circle."
+  },
+  {
+   "verse": 1684,
+   "rows": [
+    {
+     "surface": "yeṣām",
+     "gloss": "of-whom",
+     "grounds": "relative pronoun indicating subjects",
+     "morph": "pron.gen.pl.m"
+    },
+    {
+     "surface": "utpadyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.pres.mid (√pad with ud)"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "correlative to yeṣām",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "alone",
+     "grounds": "exclusive emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattva+cakriṇaḥ",
+     "gloss": "tattva-circle-performers",
+     "grounds": "those who perform the tattva-circle",
+     "morph": "m.nom.pl (compound: tattva+cakrin)"
+    }
+   ],
+   "question": "Who alone becomes a true performer of the tattva-circle?",
+   "premises": [
+    "A certain arising occurs in some persons",
+    "The goddess is addressed as witness",
+    "Only those persons are true performers"
+   ],
+   "inference": "Only those in whom this arises are tattva-circle performers",
+   "uncertainties": [
+    "What specifically arises (utpadyate) is not explicitly stated in this verse"
+   ],
+   "plain_english": "O Goddess, those in whom it arises, they alone are the performers of the tattva-circle."
+  },
+  {
+   "verse": 1685,
+   "rows": [
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakra+rāje",
+     "gloss": "in-circle-king",
+     "grounds": "in the supreme circle",
+     "morph": "m.loc.sg (compound: cakra+rāja)"
+    },
+    {
+     "surface": "tattva+cakre",
+     "gloss": "in-tattva-circle",
+     "grounds": "in the circle of principles",
+     "morph": "n.loc.sg (compound: tattva+cakra)"
+    }
+   ],
+   "question": "In which supreme ritual context are these qualifications applied?",
+   "premises": [
+    "The context is specified as here",
+    "The circle is called supreme",
+    "It is identified as the tattva-circle"
+   ],
+   "inference": "The qualifications apply in this supreme tattva-circle",
+   "uncertainties": [],
+   "plain_english": "Here, in the king of circles, in the tattva-circle."
+  },
+  {
+   "verse": 1686,
+   "rows": [
+    {
+     "surface": "śāntāḥ",
+     "gloss": "peaceful",
+     "grounds": "calm in disposition",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "rāga+dveṣa+ādi+śūnyāḥ",
+     "gloss": "passion-hatred-etc-devoid",
+     "grounds": "free from passion, hatred, and so on",
+     "morph": "m.nom.pl (compound: rāga+dveṣa+ādi+śūnya)"
+    }
+   ],
+   "question": "What mental state must participants in the tattva-circle maintain?",
+   "premises": [
+    "Peacefulness is required",
+    "Freedom from passion and hatred is required",
+    "Other defilements are also excluded"
+   ],
+   "inference": "Participants must be peaceful and free from passion and hatred",
+   "uncertainties": [],
+   "plain_english": "They are peaceful, devoid of passion, hatred, and the like."
+  },
+  {
+   "verse": 1687,
+   "rows": [
+    {
+     "surface": "bhāvaḥ",
+     "gloss": "feeling",
+     "grounds": "state or attitude",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāvanā",
+     "gloss": "contemplation",
+     "grounds": "cultivation or meditation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vicintana",
+     "gloss": "reflection",
+     "grounds": "thoughtful consideration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "iti+arthaḥ",
+     "gloss": "thus-meaning",
+     "grounds": "gloss explaining the intended sense",
+     "morph": "(indecl.) + m.nom.sg"
+    }
+   ],
+   "question": "How is the intended meaning of contemplative attitude defined here?",
+   "premises": [
+    "Multiple related terms are listed",
+    "The terms indicate inner activity",
+    "A gloss is provided for their meaning"
+   ],
+   "inference": "Feeling, contemplation, and reflection convey the intended meaning",
+   "uncertainties": [],
+   "plain_english": "Feeling, contemplation, and reflection—such is the meaning."
+  },
+  {
+   "verse": 1688,
+   "rows": [
+    {
+     "surface": "sarvatra",
+     "gloss": "everywhere",
+     "grounds": "in all places or contexts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahma+bhāvena",
+     "gloss": "with-brahman-attitude",
+     "grounds": "with the attitude of brahman",
+     "morph": "m.inst.sg (compound: brahma+bhāva)"
+    },
+    {
+     "surface": "sādhayet",
+     "gloss": "one-should-accomplish",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.opt.act (√sādh)"
+    },
+    {
+     "surface": "tattva+sādhanam",
+     "gloss": "tattva-practice",
+     "grounds": "the practice concerning the tattvas",
+     "morph": "n.acc.sg (compound: tattva+sādhana)"
+    }
+   ],
+   "question": "With what attitude should the tattva practice be accomplished everywhere?",
+   "premises": [
+    "The tattva practice must be accomplished",
+    "It applies in all contexts",
+    "A specific attitude is prescribed"
+   ],
+   "inference": "One should accomplish tattva practice everywhere with a brahman-attitude",
+   "uncertainties": [],
+   "plain_english": "One should accomplish the tattva practice everywhere with the attitude of brahman."
+  },
+  {
+   "verse": 1689,
+   "rows": [
+    {
+     "surface": "brahma+jñaiḥ",
+     "gloss": "with-brahman-knowers",
+     "grounds": "in company of those who know brahman",
+     "morph": "m.inst.pl (compound: brahma+jña)"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "with-practitioners",
+     "grounds": "in company of practitioners",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "together",
+     "grounds": "in association with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattva+cakraṃ",
+     "gloss": "tattva-circle",
+     "grounds": "the ritual circle of principles",
+     "morph": "n.acc.sg (compound: tattva+cakra)"
+    },
+    {
+     "surface": "samārabhet",
+     "gloss": "one-should-begin",
+     "grounds": "prescriptive injunction to commence",
+     "morph": "3.sg.opt.mid (√rabh with sam+ā)"
+    }
+   ],
+   "question": "With whom should one begin the tattva-circle ritual?",
+   "premises": [
+    "The tattva-circle is to be begun",
+    "Brahman-knowers are suitable companions",
+    "Practitioners are suitable companions"
+   ],
+   "inference": "One should begin the tattva-circle together with brahman-knowing practitioners",
+   "uncertainties": [],
+   "plain_english": "One should begin the tattva-circle together with practitioners who know brahman."
+  },
+  {
+   "verse": 1690,
+   "rows": [
+    {
+     "surface": "vicitra+āsanam",
+     "gloss": "variegated-seat",
+     "grounds": "a diverse or decorated seat",
+     "morph": "n.acc.sg (compound: vicitra+āsana)"
+    },
+    {
+     "surface": "ānīya",
+     "gloss": "having-brought",
+     "grounds": "after bringing",
+     "morph": "(gerund) (√nī with ā)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "one-should-imagine",
+     "grounds": "prescriptive injunction to arrange or conceive",
+     "morph": "3.sg.opt.act (√kḷp)"
+    },
+    {
+     "surface": "vimala+āsanam",
+     "gloss": "pure-seat",
+     "grounds": "a spotless or pure seat",
+     "morph": "n.acc.sg (compound: vimala+āsana)"
+    }
+   ],
+   "question": "How should the ritual seat be prepared for the tattva-circle?",
+   "premises": [
+    "A variegated seat is brought",
+    "The seat must be transformed conceptually",
+    "A pure seat is the intended result"
+   ],
+   "inference": "After bringing a variegated seat, one should conceive it as a pure seat",
+   "uncertainties": [],
+   "plain_english": "Having brought a variegated seat, one should imagine it as a pure seat."
+  },
+  {
+   "verse": 1691,
+   "rows": [
+    {
+     "surface": "āsādayet",
+     "gloss": "one-should-obtain",
+     "grounds": "prescriptive injunction to procure",
+     "morph": "3.sg.opt.caus.act (√sad with ā)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattvāni",
+     "gloss": "tattvas",
+     "grounds": "the principles or ritual elements",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "one-should-place",
+     "grounds": "prescriptive injunction to set down",
+     "morph": "3.sg.opt.caus.act (√sthā)"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "before oneself",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śive",
+     "gloss": "o-shiva",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What should be done with the tattvas before beginning the ritual?",
+   "premises": [
+    "The tattvas must be obtained",
+    "The tattvas must be placed",
+    "They are placed in front"
+   ],
+   "inference": "One should obtain the tattvas and place them in front",
+   "uncertainties": [],
+   "plain_english": "O Shiva, one should obtain the tattvas and place them in front."
+  },
+  {
+   "verse": 1692,
+   "rows": [
+    {
+     "surface": "sarva+tattveṣu",
+     "gloss": "in-all-tattvas",
+     "grounds": "over all the principles or elements",
+     "morph": "n.loc.pl (compound: sarva+tattva)"
+    },
+    {
+     "surface": "cakreśa",
+     "gloss": "o-lord-of-circle",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg (compound: cakra+īśa)"
+    },
+    {
+     "surface": "imaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative referring to mantra",
+     "morph": "pron.acc.sg.m"
+    },
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udīrayet",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive injunction to recite",
+     "morph": "3.sg.opt.act (√īr with ud)"
+    }
+   ],
+   "question": "What mantra action is prescribed over all the tattvas?",
+   "premises": [
+    "All tattvas are present",
+    "A specific mantra is indicated",
+    "Utterance of the mantra is prescribed"
+   ],
+   "inference": "One should utter this mantra over all the tattvas",
+   "uncertainties": [],
+   "plain_english": "O Lord of the circle, one should utter this mantra over all the tattvas."
+  },
+  {
+   "verse": 1693,
+   "rows": [
+    {
+     "surface": "brahma+eva",
+     "gloss": "brahman-alone",
+     "grounds": "exclusive identification with brahman",
+     "morph": "n.nom.sg + (indecl.)"
+    },
+    {
+     "surface": "tena",
+     "gloss": "by-him",
+     "grounds": "instrumental referring to the practitioner",
+     "morph": "pron.inst.sg.m"
+    },
+    {
+     "surface": "gantavyaṃ",
+     "gloss": "to-be-attained",
+     "grounds": "goal to be reached",
+     "morph": "n.nom.sg (gerundive) (√gam)"
+    },
+    {
+     "surface": "brahma+karma+samādhinā",
+     "gloss": "by-brahman-action-absorption",
+     "grounds": "through absorption in action as brahman",
+     "morph": "m.inst.sg (compound: brahma+karma+samādhi)"
+    }
+   ],
+   "question": "What is the ultimate goal attained through absorption in brahman-action?",
+   "premises": [
+    "Brahman alone is the goal",
+    "The practitioner acts through absorption",
+    "Action is identified with brahman"
+   ],
+   "inference": "Through absorption in brahman-action, brahman alone is to be attained",
+   "uncertainties": [],
+   "plain_english": "By him, through absorption in action as brahman, brahman alone is to be attained."
+  },
+  {
+   "verse": 1694,
+   "rows": [
+    {
+     "surface": "tattva+sādhanam",
+     "gloss": "tattva-practice",
+     "grounds": "practice concerning the tattvas",
+     "morph": "n.nom.sg (compound: tattva+sādhana)"
+    },
+    {
+     "surface": "tattva+cakra+sādhanam",
+     "gloss": "tattva-circle-practice",
+     "grounds": "practice of the tattva-circle",
+     "morph": "n.nom.sg (compound: tattva+cakra+sādhana)"
+    }
+   ],
+   "question": "How is the tattva practice identified in relation to the circle?",
+   "premises": [
+    "Tattva practice is named",
+    "Tattva-circle practice is named",
+    "The two are placed in apposition"
+   ],
+   "inference": "The tattva practice is the practice of the tattva-circle",
+   "uncertainties": [],
+   "plain_english": "The tattva practice is the practice of the tattva-circle."
+  },
+  {
+   "verse": 1695,
+   "rows": [
+    {
+     "surface": "atha",
+     "gloss": "now",
+     "grounds": "marks a new section",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattva+cakrasya",
+     "gloss": "of-tattva-circle",
+     "grounds": "genitive specifying the topic",
+     "morph": "n.gen.sg (compound: tattva+cakra)"
+    },
+    {
+     "surface": "vidhānam",
+     "gloss": "procedure",
+     "grounds": "ritual rule or method",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āha",
+     "gloss": "states",
+     "grounds": "the text declares",
+     "morph": "3.sg.perf.act (√ah/brū)"
+    },
+    {
+     "surface": "ramye+ityādibhiḥ",
+     "gloss": "with-ramye-etc",
+     "grounds": "by means of verses beginning with ramye",
+     "morph": "n.inst.pl (compound: ramye+ityādi)"
+    }
+   ],
+   "question": "How does the text introduce the procedure of the tattva-circle?",
+   "premises": [
+    "A new topic is introduced",
+    "The procedure of the tattva-circle is the topic",
+    "It is stated with verses beginning with ramye"
+   ],
+   "inference": "The text now states the tattva-circle procedure beginning with ramye",
+   "uncertainties": [],
+   "plain_english": "Now the text states the procedure of the tattva-circle with the verses beginning with 'ramye' and so on."
+  },
+  {
+   "verse": 1696,
+   "rows": [
+    {
+     "surface": "mantram",
+     "gloss": "mantra",
+     "grounds": "sacred utterance",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "udīrayet",
+     "gloss": "one-should-utter",
+     "grounds": "prescriptive injunction to recite",
+     "morph": "3.sg.opt.act (√īr with ud)"
+    }
+   ],
+   "question": "What verbal action is prescribed in this ritual step?",
+   "premises": [
+    "A mantra is involved",
+    "Utterance is required",
+    "The action is prescriptive"
+   ],
+   "inference": "One should utter the mantra",
+   "uncertainties": [],
+   "plain_english": "One should utter the mantra."
+  },
+  {
+   "verse": 1697,
+   "rows": [
+    {
+     "surface": "mantram+eva",
+     "gloss": "mantra-indeed",
+     "grounds": "emphatic reference to the mantra",
+     "morph": "m.acc.sg + (indecl.)"
+    },
+    {
+     "surface": "āha",
+     "gloss": "states",
+     "grounds": "the text declares",
+     "morph": "3.sg.perf.act (√ah/brū)"
+    },
+    {
+     "surface": "brahmārpaṇam+iti",
+     "gloss": "with-brahmārpaṇam",
+     "grounds": "citing the mantra beginning brahmārpaṇam",
+     "morph": "n.nom.sg + (indecl.)"
+    }
+   ],
+   "question": "Which specific mantra is identified for utterance in this context?",
+   "premises": [
+    "The mantra itself is being specified",
+    "The text states the mantra",
+    "The mantra begins with brahmārpaṇam"
+   ],
+   "inference": "The text specifies the mantra as brahmārpaṇam",
+   "uncertainties": [],
+   "plain_english": "The text states the mantra itself: 'brahmārpaṇam'."
+  },
+  {
+   "verse": 1698,
+   "rows": [
+    {
+     "surface": "p.+212",
+     "gloss": "page-212",
+     "grounds": "editorial or manuscript marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "saptadhā",
+     "gloss": "sevenfold",
+     "grounds": "seven times or in seven ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative option",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tridhā",
+     "gloss": "threefold",
+     "grounds": "three times or in three ways",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "after reciting",
+     "morph": "(gerund) (√jap)"
+    },
+    {
+     "surface": "tāni",
+     "gloss": "them",
+     "grounds": "refers to the items to be purified",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "sarvāṇi",
+     "gloss": "all",
+     "grounds": "totality of the items",
+     "morph": "pron.acc.pl.n"
+    },
+    {
+     "surface": "śodhayet",
+     "gloss": "one-should-purify",
+     "grounds": "prescriptive injunction to purify",
+     "morph": "3.sg.opt.caus.act (√śudh)"
+    }
+   ],
+   "question": "How many times must recitation occur before purifying all items?",
+   "premises": [
+    "Recitation precedes purification",
+    "Recitation may be sevenfold or threefold",
+    "All items must be purified"
+   ],
+   "inference": "After reciting seven or three times, one should purify all of them",
+   "uncertainties": [
+    "The referent of tāni sarvāṇi is not specified in this verse"
+   ],
+   "plain_english": "Having recited seven times or three times, one should purify all of them."
+  },
+  {
+   "verse": 1699,
+   "rows": [
+    {
+     "surface": "brahma+jñaiḥ",
+     "gloss": "with-brahman-knowers",
+     "grounds": "in company of those who know brahman",
+     "morph": "m.inst.pl (compound: brahma+jña)"
+    },
+    {
+     "surface": "sādhakaiḥ",
+     "gloss": "with-practitioners",
+     "grounds": "in company of practitioners",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "sārddhaṃ",
+     "gloss": "together",
+     "grounds": "in association with",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidadhyāt",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction to carry out",
+     "morph": "3.sg.opt.act (√dhā with vi)"
+    },
+    {
+     "surface": "pāna+bhojanam",
+     "gloss": "drinking-eating",
+     "grounds": "ritual consumption of food and drink",
+     "morph": "n.acc.sg (compound: pāna+bhojana)"
+    }
+   ],
+   "question": "With whom should the ritual eating and drinking be performed?",
+   "premises": [
+    "Eating and drinking are part of the ritual",
+    "Brahman-knowing practitioners are present",
+    "The action is performed together"
+   ],
+   "inference": "One should perform the eating and drinking together with brahman-knowing practitioners",
+   "uncertainties": [],
+   "plain_english": "One should perform the drinking and eating together with practitioners who know brahman."
+  }
+ ]
+}

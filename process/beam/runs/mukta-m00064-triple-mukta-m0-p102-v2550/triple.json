@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2550,
+   "rows": [
+    {
+     "surface": "vṛkṣapatrañca",
+     "gloss": "and-tree-leaf",
+     "grounds": "compound vṛkṣa-patra (tree-leaf) with enclitic ca (and); sandhi fusion kept as one token",
+     "morph": "vṛkṣa+patra(compound,n.nom.sg)+ca(indecl.)"
+    },
+    {
+     "surface": "tulasī",
+     "gloss": "tulasī",
+     "grounds": "name of the sacred basil plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dhātrī",
+     "gloss": "dhātrī",
+     "grounds": "name of the āmalakī/myrobalan plant",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vṛkṣaphalaṃ",
+     "gloss": "tree-fruit",
+     "grounds": "compound vṛkṣa-phala (tree-fruit)",
+     "morph": "vṛkṣa+phala(compound,n.nom.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates inclusion in the same manner as preceding items",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which natural items are likewise included in this enumerated context?",
+   "premises": [
+    "A tree leaf is included as an item.",
+    "Tulasī and dhātrī are named as specific plants.",
+    "Tree fruit is included in the same manner."
+   ],
+   "inference": "The enumeration extends to leaves, tulasī, dhātrī, and tree fruits as comparable items.",
+   "uncertainties": [
+    "The syntactic role of these items depends on the following verse or broader context.",
+    "Whether these are offerings, materials, or examples is not explicit in this verse alone."
+   ],
+   "plain_english": "And a tree leaf, tulasī, dhātrī, and likewise a tree fruit."
+  }
+ ]
+}

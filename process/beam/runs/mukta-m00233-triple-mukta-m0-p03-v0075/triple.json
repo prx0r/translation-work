@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 75,
+   "rows": [
+    {
+     "surface": "nīcaṃ",
+     "gloss": "low",
+     "grounds": "adverb of degree or place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpottaram",
+     "gloss": "form-superior",
+     "grounds": "compound rūpa plus uttara in accusative singular neuter",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun neuter singular nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb bhū optative third singular active",
+     "morph": "3.sg.act-opt (bhū)"
+    }
+   ],
+   "question": "What lower status does this form-superior become here?",
+   "premises": [
+    "this becomes low form-superior",
+    "low modifies form-superior",
+    "bhavet states becoming"
+   ],
+   "inference": "the verse states this becomes low form-superior",
+   "uncertainties": [
+    "exact ritual referent of idam unclear"
+   ],
+   "plain_english": "This becomes a low form-superior."
+  }
+ ]
+}

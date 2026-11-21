@@ -1,0 +1,727 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2001,
+   "rows": [
+    {
+     "surface": "dvāviṃśadaṃgulaṃ",
+     "gloss": "twenty-two-finger-measure",
+     "grounds": "compound adjective indicating a measure of twenty-two aṅgulas",
+     "morph": "compound"
+    },
+    {
+     "surface": "khyātaṃ",
+     "gloss": "known",
+     "grounds": "past passive participle used predicatively",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyodaraviśālakam",
+     "gloss": "middle-belly-wide",
+     "grounds": "compound adjective describing breadth at the middle of the belly",
+     "morph": "compound"
+    }
+   ],
+   "question": "What measurement defines the breadth at the middle of the belly?",
+   "premises": [
+    "A specific measure is declared as known",
+    "The measure amounts to twenty-two aṅgulas",
+    "The measure applies to the breadth at the middle of the belly"
+   ],
+   "inference": "The breadth at the middle of the belly is prescribed as twenty-two aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "The breadth at the middle of the belly is known to be twenty-two aṅgulas."
+  },
+  {
+   "verse": 2002,
+   "rows": [
+    {
+     "surface": "liṃgāyāmaṃ",
+     "gloss": "phallus-length",
+     "grounds": "compound noun denoting the length of the liṅga",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "guṇāṃgulyaṃ",
+     "gloss": "three-finger-measure",
+     "grounds": "compound adjective indicating a measure of three aṅgulas (guṇa = three)",
+     "morph": "compound"
+    },
+    {
+     "surface": "tasyārdhaṃ",
+     "gloss": "its-half",
+     "grounds": "genitive pronoun with noun indicating half of that measure",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya vistṛtam",
+     "gloss": "its-breadth",
+     "grounds": "genitive pronoun with past passive participle indicating its breadth",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What length and breadth are prescribed for the phallus?",
+   "premises": [
+    "The length of the phallus is specified",
+    "Its length measures three aṅgulas",
+    "Its breadth is half of that length"
+   ],
+   "inference": "The phallus should be three aṅgulas long and one and a half aṅgulas broad.",
+   "uncertainties": [
+    "The exact value of guṇa as three is inferred from traditional iconometric usage"
+   ],
+   "plain_english": "The length of the phallus is three aṅgulas, and its breadth is half of that."
+  },
+  {
+   "verse": 2003,
+   "rows": [
+    {
+     "surface": "ūrumūlaṃ",
+     "gloss": "thigh-root",
+     "grounds": "compound noun denoting the root or top of the thigh",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dvādaśāṃgulyaṃ",
+     "gloss": "twelve-finger-measure",
+     "grounds": "compound adjective indicating a measure of twelve aṅgulas",
+     "morph": "compound"
+    },
+    {
+     "surface": "ūrumadhyaṃ",
+     "gloss": "thigh-middle",
+     "grounds": "compound noun denoting the middle of the thigh",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ṣaḍardhakam",
+     "gloss": "six-half",
+     "grounds": "compound adjective indicating half of six, i.e. three aṅgulas",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What measurements are prescribed for the root and middle of the thigh?",
+   "premises": [
+    "The root of the thigh is given a measure",
+    "The root of the thigh measures twelve aṅgulas",
+    "The middle of the thigh measures half of six aṅgulas"
+   ],
+   "inference": "The thigh-root should measure twelve aṅgulas and the thigh-middle three aṅgulas.",
+   "uncertainties": [],
+   "plain_english": "The root of the thigh is twelve aṅgulas, and the middle of the thigh is three aṅgulas."
+  },
+  {
+   "verse": 2004,
+   "rows": [
+    {
+     "surface": "nalakātārayugāṃśaṃ",
+     "gloss": "shank-length-two-part",
+     "grounds": "compound noun referring to two parts of the shank length",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syā",
+     "gloss": "should-be",
+     "grounds": "optative verbal form indicating prescription",
+     "morph": "3.sg.optative"
+    },
+    {
+     "surface": "paṃcāṃśaṃ",
+     "gloss": "five-part",
+     "grounds": "compound noun indicating a fifth part",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pādavistṛtam",
+     "gloss": "foot-breadth",
+     "grounds": "compound noun denoting the breadth of the foot",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What proportional measurements are prescribed for the shank and foot breadth?",
+   "premises": [
+    "A measure for the shank is prescribed",
+    "The shank relates to two parts of a standard division",
+    "The breadth of the foot is prescribed as a fifth part"
+   ],
+   "inference": "The shank and foot breadth are defined by specific proportional parts.",
+   "uncertainties": [
+    "The exact base unit for the fractional parts is not explicitly stated in this verse"
+   ],
+   "plain_english": "The shank should be two parts in length, and the breadth of the foot should be a fifth part."
+  },
+  {
+   "verse": 2005,
+   "rows": [
+    {
+     "surface": "aṃguṣṭhādikaniṣṭhāntaṃ",
+     "gloss": "thumb-beginning-little-finger-end",
+     "grounds": "compound adjective indicating extent from the thumb to the little finger",
+     "morph": "compound"
+    },
+    {
+     "surface": "pādāṃguli viśālakam",
+     "gloss": "foot-toes-breadth",
+     "grounds": "compound expression denoting the breadth across the toes of the foot",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How is the breadth across the toes of the foot defined?",
+   "premises": [
+    "The breadth of the foot toes is being specified",
+    "The extent runs from the thumb to the little finger",
+    "This span defines the breadth"
+   ],
+   "inference": "The breadth of the toes extends from the big toe to the little toe.",
+   "uncertainties": [],
+   "plain_english": "The breadth of the foot's toes extends from the big toe to the little toe."
+  },
+  {
+   "verse": 2006,
+   "rows": [
+    {
+     "surface": "sthānakaṃ tvāsanaṃ vāpi",
+     "gloss": "standing-or-seated-also",
+     "grounds": "nouns with particles indicating alternative postures, standing or seated",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "padmapīṭhe viśeṣataḥ",
+     "gloss": "lotus-seat-especially",
+     "grounds": "locative compound with adverb indicating especial placement on a lotus pedestal",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What postures and pedestal are prescribed for the image?",
+   "premises": [
+    "The image may be standing or seated",
+    "A lotus pedestal is specified",
+    "The lotus pedestal is especially recommended"
+   ],
+   "inference": "The image may be depicted standing or seated, especially upon a lotus pedestal.",
+   "uncertainties": [],
+   "plain_english": "The figure may be standing or seated, especially upon a lotus pedestal."
+  },
+  {
+   "verse": 2007,
+   "rows": [
+    {
+     "surface": "modakaṃ",
+     "gloss": "sweet-ball",
+     "grounds": "accusative noun denoting the sweetmeat modaka",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "gajahaste tu",
+     "gloss": "elephant-hand-but",
+     "grounds": "locative compound with particle indicating the trunk-like hand",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "aṃkuśaṃ",
+     "gloss": "goad",
+     "grounds": "accusative noun denoting the elephant goad",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dakṣiṇe kare",
+     "gloss": "right-hand",
+     "grounds": "locative adjective and noun indicating the right hand",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which attributes are held in the elephant-trunk hand and the right hand?",
+   "premises": [
+    "A sweet ball is assigned as an attribute",
+    "The sweet ball is held in the elephant-trunk hand",
+    "A goad is held in the right hand"
+   ],
+   "inference": "The image holds a modaka in the trunk-hand and an aṅkuśa in the right hand.",
+   "uncertainties": [],
+   "plain_english": "He holds a modaka in his trunk-hand and a goad in his right hand."
+  },
+  {
+   "verse": 2008,
+   "rows": [
+    {
+     "surface": "triṇetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "compound adjective describing the deity as having three eyes",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "hemasaṃkāśaṃ",
+     "gloss": "gold-resembling",
+     "grounds": "compound adjective indicating a complexion like gold",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dukūlavasanacchadam",
+     "gloss": "silk-garment-covered",
+     "grounds": "compound adjective indicating being clothed in fine silk garments",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What physical features and garments characterize the deity's appearance?",
+   "premises": [
+    "The deity is described as three-eyed",
+    "The deity has a golden complexion",
+    "The deity is clothed in fine silk garments"
+   ],
+   "inference": "The deity should be depicted as three-eyed, golden in color, and dressed in silk.",
+   "uncertainties": [],
+   "plain_english": "He is three-eyed, golden in color, and clothed in fine silk garments."
+  },
+  {
+   "verse": 2009,
+   "rows": [
+    {
+     "surface": "āsane tvāsanaṃ cetu",
+     "gloss": "seat-on-seated-if",
+     "grounds": "locative noun with particles forming a conditional clause about being seated on a seat",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "vāmapādaṃ tu śāyayet",
+     "gloss": "left-foot-but-should-lay",
+     "grounds": "accusative noun with particle and optative verb indicating the left foot should be extended",
+     "morph": "3.sg.optative"
+    }
+   ],
+   "question": "How should the left foot be positioned when the deity is seated?",
+   "premises": [
+    "The condition of being seated on a seat is considered",
+    "The left foot is the subject of positioning",
+    "The left foot should be laid or extended"
+   ],
+   "inference": "If the deity is seated, the left foot should be extended.",
+   "uncertainties": [],
+   "plain_english": "If he is seated on a seat, the left foot should be extended."
+  },
+  {
+   "verse": 2010,
+   "rows": [
+    {
+     "surface": "īṣadvakratanurvāme",
+     "gloss": "slightly-bent-body-left",
+     "grounds": "compound expression indicating a body slightly bent to the left",
+     "morph": "compound"
+    },
+    {
+     "surface": "kartavyaṃ tu viśeṣataḥ",
+     "gloss": "should-be-made-especially",
+     "grounds": "gerundive with particles indicating it should especially be made so",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What bodily posture is especially prescribed for the seated image?",
+   "premises": [
+    "A specific bodily posture is enjoined",
+    "The body should be slightly bent to the left",
+    "This posture is especially recommended"
+   ],
+   "inference": "The body should especially be made slightly bent to the left.",
+   "uncertainties": [],
+   "plain_english": "The body should especially be made slightly bent to the left."
+  },
+  {
+   "verse": 2011,
+   "rows": [
+    {
+     "surface": "sarvābharaṇasaṃyuktaṃ",
+     "gloss": "all-ornaments-endowed",
+     "grounds": "compound adjective indicating being furnished with all ornaments",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahākāyaṃ",
+     "gloss": "great-bodied",
+     "grounds": "compound adjective indicating a large body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahodaram",
+     "gloss": "great-bellied",
+     "grounds": "compound adjective indicating a large belly",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What overall bodily characteristics and adornments define the deity?",
+   "premises": [
+    "The deity is endowed with all ornaments",
+    "The deity has a great body",
+    "The deity has a great belly"
+   ],
+   "inference": "The deity should be depicted as large-bodied, large-bellied, and adorned with all ornaments.",
+   "uncertainties": [],
+   "plain_english": "He should be endowed with all ornaments, great-bodied, and great-bellied."
+  },
+  {
+   "verse": 2012,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "closing formula locating the text in the Aṃśumān Kāśyapa tradition",
+     "morph": "compound-locative"
+    },
+    {
+     "surface": "vināyakalakṣaṇapaṭalaḥ",
+     "gloss": "vināyaka-characteristics-chapter",
+     "grounds": "compound noun naming the chapter on the characteristics of Vināyaka",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "aṣṭacatvāriṃśaḥ",
+     "gloss": "forty-eighth",
+     "grounds": "ordinal adjective indicating the chapter number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter of the Aṃśumān Kāśyapa text concludes at this point?",
+   "premises": [
+    "The text identifies itself as Aṃśumān Kāśyapa",
+    "The subject is the characteristics of Vināyaka",
+    "The chapter is numbered forty-eighth"
+   ],
+   "inference": "This marks the end of the forty-eighth chapter on Vināyaka's characteristics in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the forty-eighth chapter, on the characteristics of Vināyaka, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 2013,
+   "rows": [
+    {
+     "surface": "mānonmānādayassarve",
+     "gloss": "measures-proportions-etc-all",
+     "grounds": "compound noun with adjective indicating all measures, proportions, and so forth",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "prāguktaṃ",
+     "gloss": "previously-stated",
+     "grounds": "compound past passive participle indicating what was said before",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvalakṣaṇam",
+     "gloss": "all-characteristics",
+     "grounds": "compound noun denoting all characteristic features",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How should the general measurements and characteristics be determined for this deity?",
+   "premises": [
+    "Measures, proportions, and related details are required",
+    "All such characteristics have been stated previously",
+    "The previous prescriptions apply here"
+   ],
+   "inference": "All measures, proportions, and characteristics should follow what was previously stated.",
+   "uncertainties": [],
+   "plain_english": "All measures, proportions, and other characteristics are as previously stated."
+  },
+  {
+   "verse": 2014,
+   "rows": [
+    {
+     "surface": "śaktiṃ bāṇaṃ ca khaḍgaṃ ca",
+     "gloss": "spear-arrow-and-sword-and",
+     "grounds": "accusative nouns with conjunctions listing weapons",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "cakraṃ pāśaṃ prasāritam",
+     "gloss": "discus-noose-extended",
+     "grounds": "accusative nouns with participle indicating discus and extended noose",
+     "morph": "compound-phrase"
+    }
+   ],
+   "question": "Which weapons are prescribed among the attributes held by the deity?",
+   "premises": [
+    "A spear, arrow, and sword are listed",
+    "A discus and noose are listed",
+    "The noose is described as extended"
+   ],
+   "inference": "The deity holds a spear, arrow, sword, discus, and an extended noose.",
+   "uncertainties": [],
+   "plain_english": "He holds a spear, an arrow, a sword, a discus, and an extended noose."
+  },
+  {
+   "verse": 2015,
+   "rows": [
+    {
+     "surface": "dhanurdaṇḍaṃ halaṃ caiva",
+     "gloss": "bow-staff-plow-and-also",
+     "grounds": "accusative nouns with conjunctions listing further weapons",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "bhānuhastānvite dhṛtam",
+     "gloss": "sun-hands-endowed-held",
+     "grounds": "compound locative with past passive participle indicating held in radiant hands",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What additional weapons are held in the deity's radiant hands?",
+   "premises": [
+    "A bow, staff, and plow are listed",
+    "These are held by the deity",
+    "They are held in hands described as radiant"
+   ],
+   "inference": "The deity holds a bow, a staff, and a plow in his radiant hands.",
+   "uncertainties": [
+    "The interpretation of bhānuhastānvite as radiant or sun-like hands is contextual"
+   ],
+   "plain_english": "He holds a bow, a staff, and a plow in his radiant hands."
+  },
+  {
+   "verse": 2016,
+   "rows": [
+    {
+     "surface": "kheṭakaṃ cākṣamālāṃ ca",
+     "gloss": "shield-and-rosary-and",
+     "grounds": "accusative nouns with conjunctions listing a shield and rosary",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "kukkuṭaṃ vāmahastake",
+     "gloss": "rooster-left-hand",
+     "grounds": "accusative noun with locative indicating a rooster in the left hand",
+     "morph": "compound-phrase"
+    }
+   ],
+   "question": "Which attributes are assigned to the deity's left hand in this description?",
+   "premises": [
+    "A shield and a rosary are listed",
+    "A rooster is listed",
+    "The rooster is placed in the left hand"
+   ],
+   "inference": "The deity holds a shield, a rosary, and a rooster in the left hand.",
+   "uncertainties": [],
+   "plain_english": "He holds a shield, a rosary, and a rooster in his left hand."
+  },
+  {
+   "verse": 2017,
+   "rows": [
+    {
+     "surface": "kukkuṭaṃ cākṣamālāṃ ca",
+     "gloss": "rooster-and-rosary-and",
+     "grounds": "accusative nouns with conjunctions listing a rooster and rosary",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "vāmahastadhṛto guhaḥ",
+     "gloss": "left-hand-held-guha",
+     "grounds": "compound expression indicating Guha holding these in the left hand",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What attributes does Guha hold in his left hand?",
+   "premises": [
+    "A rooster and a rosary are specified",
+    "These are held in the left hand",
+    "The holder is identified as Guha"
+   ],
+   "inference": "Guha holds a rooster and a rosary in his left hand.",
+   "uncertainties": [],
+   "plain_english": "Guha holds a rooster and a rosary in his left hand."
+  },
+  {
+   "verse": 2018,
+   "rows": [
+    {
+     "surface": "atrānuktaṃ tu yatsarvaṃ",
+     "gloss": "here-unstated-but-whatever-all",
+     "grounds": "compound phrase referring to everything not stated here",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "umāskandasahitoktavat",
+     "gloss": "umā-skanda-together-stated-like",
+     "grounds": "compound adverbial expression indicating as stated for Umā together with Skanda",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should features not explicitly described here be determined?",
+   "premises": [
+    "Some features are not stated in this section",
+    "A prior description exists for Umā together with Skanda",
+    "The unstated features should follow that prior description"
+   ],
+   "inference": "Whatever is not stated here should be understood as described for Umā together with Skanda.",
+   "uncertainties": [],
+   "plain_english": "Whatever is not stated here should be taken as described for Umā together with Skanda."
+  },
+  {
+   "verse": 2019,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-aṃśumān-kāśyapa",
+     "grounds": "closing formula locating the text in the Aṃśumān Kāśyapa tradition",
+     "morph": "compound-locative"
+    },
+    {
+     "surface": "skandalakṣaṇapaṭalaḥ",
+     "gloss": "skanda-characteristics-chapter",
+     "grounds": "compound noun naming the chapter on the characteristics of Skanda",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ekonapaṃcāśaḥ",
+     "gloss": "forty-ninth",
+     "grounds": "ordinal adjective indicating the chapter number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What chapter of the Aṃśumān Kāśyapa text concludes at this point?",
+   "premises": [
+    "The text identifies itself as Aṃśumān Kāśyapa",
+    "The subject is the characteristics of Skanda",
+    "The chapter is numbered forty-ninth"
+   ],
+   "inference": "This marks the end of the forty-ninth chapter on Skanda's characteristics in the Aṃśumān Kāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the forty-ninth chapter, on the characteristics of Skanda, in the Aṃśumān Kāśyapa."
+  },
+  {
+   "verse": 2020,
+   "rows": [
+    {
+     "surface": "lambamānastanokukṣī",
+     "gloss": "hanging-breasts-belly",
+     "grounds": "compound adjective describing hanging breasts and belly",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nīlaṃ vā rakta vāsasam",
+     "gloss": "blue-or-red-garment",
+     "grounds": "adjectives with particle and noun indicating a blue or red garment",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What physical traits and garment colors characterize the goddess described here?",
+   "premises": [
+    "The figure is described with hanging breasts and belly",
+    "The garment may be blue or red",
+    "These features define her appearance"
+   ],
+   "inference": "The goddess is depicted with hanging breasts and belly, wearing a blue or red garment.",
+   "uncertainties": [],
+   "plain_english": "She has hanging breasts and belly, and wears a blue or red garment."
+  },
+  {
+   "verse": 2021,
+   "rows": [
+    {
+     "surface": "bhadrapīṭhasthitāsīnāṃ",
+     "gloss": "auspicious-seat-situated-seated",
+     "grounds": "compound adjective describing one seated on an auspicious seat",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dvipādaṃ caiva lambitam",
+     "gloss": "two-feet-and-also-hanging",
+     "grounds": "compound phrase indicating both feet hanging down",
+     "morph": "compound-phrase"
+    }
+   ],
+   "question": "What seated posture and leg position are prescribed for the goddess?",
+   "premises": [
+    "The goddess is seated on an auspicious seat",
+    "Both feet are mentioned",
+    "Both feet are described as hanging down"
+   ],
+   "inference": "The goddess should be depicted seated on an auspicious seat with both feet hanging down.",
+   "uncertainties": [],
+   "plain_english": "She is seated on an auspicious seat with both feet hanging down."
+  },
+  {
+   "verse": 2022,
+   "rows": [
+    {
+     "surface": "kākadhvajasamāyuktāṃ",
+     "gloss": "crow-banner-endowed",
+     "grounds": "compound adjective indicating being endowed with a crow banner",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "alakātilakānvitām",
+     "gloss": "curl-forehead-mark-endowed",
+     "grounds": "compound adjective indicating being adorned with curls and a forehead mark",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What emblems and adornments distinguish the goddess's appearance?",
+   "premises": [
+    "The goddess is associated with a crow banner",
+    "She is adorned with curls",
+    "She bears a forehead mark"
+   ],
+   "inference": "The goddess should be depicted with a crow banner, curls, and a forehead mark.",
+   "uncertainties": [],
+   "plain_english": "She is endowed with a crow banner and adorned with curls and a forehead mark."
+  },
+  {
+   "verse": 2023,
+   "rows": [
+    {
+     "surface": "dvibhujo dakṣiṇe haste daṇḍaṃ",
+     "gloss": "two-armed-right-hand-staff",
+     "grounds": "compound phrase indicating a two-armed figure holding a staff in the right hand",
+     "morph": "compound-phrase"
+    },
+    {
+     "surface": "vāme tu sūcidhṛk",
+     "gloss": "left-but-needle-holder",
+     "grounds": "locative with particle and compound noun indicating holding a needle in the left hand",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attributes are held in the right and left hands of the two-armed goddess?",
+   "premises": [
+    "The goddess is described as two-armed",
+    "A staff is held in the right hand",
+    "A needle is held in the left hand"
+   ],
+   "inference": "The two-armed goddess holds a staff in her right hand and a needle in her left hand.",
+   "uncertainties": [],
+   "plain_english": "She is two-armed, holding a staff in her right hand and a needle in her left."
+  },
+  {
+   "verse": 2024,
+   "rows": [
+    {
+     "surface": "śvetavarṇaṃ",
+     "gloss": "white-colored",
+     "grounds": "compound adjective indicating white color",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "mahākāyaṃ",
+     "gloss": "great-bodied",
+     "grounds": "compound adjective indicating a large body",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarvābharaṇabhūṣitam",
+     "gloss": "all-ornaments-adorned",
+     "grounds": "compound adjective indicating being adorned with all ornaments",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What color, bodily form, and adornment characterize the figure described here?",
+   "premises": [
+    "The figure is described as white-colored",
+    "The figure is described as great-bodied",
+    "The figure is adorned with all ornaments"
+   ],
+   "inference": "The figure should be depicted as white, large-bodied, and adorned with all ornaments.",
+   "uncertainties": [
+    "The gender of the described figure is ambiguous from the accusative forms in this verse alone"
+   ],
+   "plain_english": "The figure is white in color, great-bodied, and adorned with all ornaments."
+  }
+ ]
+}

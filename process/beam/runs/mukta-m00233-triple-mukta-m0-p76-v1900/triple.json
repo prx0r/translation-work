@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "tārādibhir",
+     "gloss": "by-tāra-etc",
+     "grounds": "instrumental plural referring to Tāra and the following deities",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "namontaistu",
+     "gloss": "by-bowing-but",
+     "grounds": "fused form namontaiḥ + tu; instrumental plural of bowing plus particle",
+     "morph": "m.inst.pl + (indecl.)"
+    },
+    {
+     "surface": "pṛthak",
+     "gloss": "separately",
+     "grounds": "adverb indicating distinct treatment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eṣāṃ",
+     "gloss": "of-these",
+     "grounds": "genitive plural pronoun referring to the deities",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle marking contrast or qualification",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāmabhiḥ",
+     "gloss": "by-names",
+     "grounds": "instrumental plural of nāman",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Should deities beginning with Tāra be worshipped separately by their own names after bowing?",
+   "premises": [
+    "Deities are named beginning with Tāra.",
+    "Bowing precedes separate worship.",
+    "Each deity is invoked by its own name."
+   ],
+   "inference": "The verse prescribes separate worship of each named deity after bowing.",
+   "uncertainties": [
+    "Exact ritual sequence beyond this verse is not specified."
+   ],
+   "plain_english": "After bowing, worship the deities beginning with Tāra separately, each by its own name."
+  }
+ ]
+}

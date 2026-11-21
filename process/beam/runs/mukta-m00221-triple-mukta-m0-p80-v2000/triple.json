@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p80",
+ "items": [
+  {
+   "verse": 2000,
+   "rows": [
+    {
+     "surface": "pratibuddhastāvadasau",
+     "gloss": "awakened-then-that-one",
+     "grounds": "fused form combining awakened, then, and that-one; transcribed whole without splitting",
+     "morph": "m.nom.sg (fused pratibuddha+tāvat+asau)"
+    },
+    {
+     "surface": "matvā",
+     "gloss": "thinking",
+     "grounds": "absolutive from root man, indicating reflection",
+     "morph": "indecl. (absolutive, root man)"
+    },
+    {
+     "surface": "svasya",
+     "gloss": "own",
+     "grounds": "possessive adjective in genitive relation to bondage",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bandhanam",
+     "gloss": "bondage",
+     "grounds": "neuter noun naming the condition recognized",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does the awakened one recognize as his own bondage?",
+   "premises": [
+    "awakened one reflects on bondage",
+    "own bondage is recognized",
+    "thinking marks bondage"
+   ],
+   "inference": "awakening reveals bondage as self-imposed",
+   "uncertainties": [
+    "exact referent of asau is context-dependent",
+    "scope of hi is interpretive"
+   ],
+   "plain_english": "Awakened, he thinks: this is my bondage."
+  }
+ ]
+}

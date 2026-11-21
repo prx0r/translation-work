@@ -1,0 +1,981 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 476,
+   "rows": [
+    {
+     "surface": "navānnaliṃgasaṃyuktamatha",
+     "gloss": "then-united-with-new-rice-linga",
+     "grounds": "compound: navānna+liṅga+saṃyuktam+atha; fused form kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "nityotsavaṃ",
+     "gloss": "daily-festival",
+     "grounds": "object of nayet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "one-should-conduct",
+     "grounds": "prescribes performance of the rite",
+     "morph": "3.sg.opt.act √nī"
+    }
+   ],
+   "question": "How should the daily festival be conducted when united with the new-rice linga?",
+   "premises": [
+    "The daily festival is to be conducted.",
+    "It is united with the new-rice linga.",
+    "The prescribed action is to lead or perform it."
+   ],
+   "inference": "The daily festival should be conducted in conjunction with the new-rice linga.",
+   "uncertainties": [],
+   "plain_english": "Then one should conduct the daily festival united with the new-rice linga."
+  },
+  {
+   "verse": 477,
+   "rows": [
+    {
+     "surface": "dvābhyāṃ",
+     "gloss": "with-two",
+     "grounds": "number of times or circuits",
+     "morph": "m.inst.du"
+    },
+    {
+     "surface": "tribhiś",
+     "gloss": "with-three",
+     "grounds": "number of times or circuits",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "caturbhiḥ",
+     "gloss": "with-four",
+     "grounds": "number of times or circuits",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūrvāh",
+     "gloss": "forenoon",
+     "grounds": "first part of pūrvāhṇe split in tokenization",
+     "morph": "m.stem"
+    },
+    {
+     "surface": "ṇe",
+     "gloss": "in-time",
+     "grounds": "second part of pūrvāhṇe split in tokenization",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradoṣake",
+     "gloss": "in-evening",
+     "grounds": "time of performance",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "At what times and in how many repetitions may the daily festival procession occur?",
+   "premises": [
+    "The procession may occur two, three, or four times.",
+    "The forenoon is a possible time.",
+    "The evening is also a possible time."
+   ],
+   "inference": "The daily festival procession may be performed two, three, or four times in the forenoon and in the evening.",
+   "uncertainties": [
+    "The split of pūrvāhṇe into pūrvāh and ṇe is preserved as given."
+   ],
+   "plain_english": "It may be done two, three, or four times, in the forenoon and in the evening."
+  },
+  {
+   "verse": 478,
+   "rows": [
+    {
+     "surface": "raṃge",
+     "gloss": "on-stage",
+     "grounds": "possible location or support",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śibikāyāṃ",
+     "gloss": "in-palanquin",
+     "grounds": "possible vehicle",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paricārakamūrdhasu",
+     "gloss": "on-attendants-heads",
+     "grounds": "compound: paricāraka+mūrdhasu; possible support",
+     "morph": "compound+m.loc.pl"
+    }
+   ],
+   "question": "On what supports may the deity be carried during the daily festival procession?",
+   "premises": [
+    "A stage is a possible support.",
+    "A palanquin is a possible support.",
+    "The heads of attendants are a possible support."
+   ],
+   "inference": "The deity may be carried on a stage, in a palanquin, or on the heads of attendants.",
+   "uncertainties": [],
+   "plain_english": "It may be carried on a stage, or in a palanquin, or on the heads of attendants."
+  },
+  {
+   "verse": 479,
+   "rows": [
+    {
+     "surface": "chatracāmarasaṃyuktaṃ",
+     "gloss": "united-with-umbrella-flywhisk",
+     "grounds": "compound: chatra+cāmara+saṃyuktam; describes procession",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "nānādhvajasamanvitam",
+     "gloss": "accompanied-by-various-banners",
+     "grounds": "compound: nānā+dhvaja+samanvitam; describes procession",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "What ceremonial insignia should accompany the daily festival procession?",
+   "premises": [
+    "The procession is united with umbrella and flywhisk.",
+    "The procession is accompanied by various banners.",
+    "These items are part of the prescribed arrangement."
+   ],
+   "inference": "The procession should be accompanied by an umbrella, flywhisk, and various banners.",
+   "uncertainties": [],
+   "plain_english": "It should be accompanied by an umbrella and flywhisk, and furnished with various banners."
+  },
+  {
+   "verse": 480,
+   "rows": [
+    {
+     "surface": "dhūpadīpasamāyuktaṃ",
+     "gloss": "united-with-incense-lamp",
+     "grounds": "compound: dhūpa+dīpa+samāyuktam; describes procession",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "pradakṣiṇaṃ",
+     "gloss": "circumambulation",
+     "grounds": "object of samācaret",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.opt.act sam-ā-√car"
+    }
+   ],
+   "question": "What ritual action should be performed with incense and lamps during the procession?",
+   "premises": [
+    "The procession is united with incense and lamps.",
+    "Circumambulation is the prescribed action.",
+    "One should perform this action."
+   ],
+   "inference": "One should perform circumambulation accompanied by incense and lamps.",
+   "uncertainties": [],
+   "plain_english": "One should perform the circumambulation accompanied by incense and lamps."
+  },
+  {
+   "verse": 481,
+   "rows": [
+    {
+     "surface": "vṛṣasya",
+     "gloss": "of-bull",
+     "grounds": "possessor of the tāla",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "brahmatālaṃ",
+     "gloss": "brahma-tāla",
+     "grounds": "compound: brahma+tālam; musical rhythm",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "agnestālantu",
+     "gloss": "but-tāla-of-fire",
+     "grounds": "compound/sandhi: agneḥ+tālam+tu fused; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhṛṃgiṇī",
+     "gloss": "bhṛṃgiṇī",
+     "grounds": "name of tāla for fire",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which musical tālas are assigned to the bull and to fire in the procession?",
+   "premises": [
+    "The bull has the brahma-tāla.",
+    "Fire has the bhṛṃgiṇī tāla.",
+    "These assignments are prescribed."
+   ],
+   "inference": "The brahma-tāla belongs to the bull, while the bhṛṃgiṇī tāla belongs to fire.",
+   "uncertainties": [],
+   "plain_english": "The bull should have the brahma-tāla, and fire should have the bhṛṃgiṇī tāla."
+  },
+  {
+   "verse": 482,
+   "rows": [
+    {
+     "surface": "ṣaṇmukhasyodghaṭañcaiva",
+     "gloss": "and-indeed-udghaṭa-of-six-faced",
+     "grounds": "compound/sandhi: ṣaṇmukhasya+udghaṭam+ca+eva fused; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "jyeṣṭhāyāḥ",
+     "gloss": "of-jyeṣṭhā",
+     "grounds": "possessor of the tāla",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "kuñcitatālakam",
+     "gloss": "kuñcita-tāla",
+     "grounds": "compound: kuñcita+tālakam; musical rhythm",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "Which musical tālas are assigned to the six-faced deity and to Jyeṣṭhā?",
+   "premises": [
+    "The six-faced deity has the udghaṭa tāla.",
+    "Jyeṣṭhā has the kuñcita-tāla.",
+    "These assignments are prescribed."
+   ],
+   "inference": "The udghaṭa tāla belongs to the six-faced deity, and the kuñcita-tāla belongs to Jyeṣṭhā.",
+   "uncertainties": [],
+   "plain_english": "The six-faced deity should have the udghaṭa tāla, and Jyeṣṭhā should have the kuñcita-tāla."
+  },
+  {
+   "verse": 483,
+   "rows": [
+    {
+     "surface": "grāme",
+     "gloss": "in-village",
+     "grounds": "possible location",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nagare",
+     "gloss": "in-city",
+     "grounds": "possible location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "connective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prākāra",
+     "gloss": "enclosure-wall",
+     "grounds": "possible location; stem form in text",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what kinds of locations may the circumambulation procession take place?",
+   "premises": [
+    "A village is a possible location.",
+    "A city is a possible location.",
+    "The enclosure wall is also a possible location."
+   ],
+   "inference": "The procession may take place in a village, in a city, or along the enclosure wall.",
+   "uncertainties": [
+    "prākāra appears in stem-like form but functions as a locative location."
+   ],
+   "plain_english": "It may take place in a village, or in a city, or likewise along the enclosure wall."
+  },
+  {
+   "verse": 484,
+   "rows": [
+    {
+     "surface": "ekaṃ",
+     "gloss": "one",
+     "grounds": "number of circuits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "number of circuits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-also",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "trayaṃ",
+     "gloss": "three",
+     "grounds": "number of circuits",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāc",
+     "gloss": "may-be",
+     "grounds": "prescriptive copula with sandhi",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "chabarīyutam",
+     "gloss": "accompanied-by-śabarī",
+     "grounds": "compound: śabarī+yutam; describes the procession",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "How many circumambulations may be performed when accompanied by the śabarī element?",
+   "premises": [
+    "One circumambulation is possible.",
+    "Two or three circumambulations are possible.",
+    "The procession may be accompanied by śabarī."
+   ],
+   "inference": "One, two, or three circumambulations may be performed accompanied by śabarī.",
+   "uncertainties": [
+    "The exact ritual meaning of śabarīyutam is context-dependent."
+   ],
+   "plain_english": "There may be one, or two, or three circumambulations, accompanied by śabarī."
+  },
+  {
+   "verse": 485,
+   "rows": [
+    {
+     "surface": "gaṇatālena",
+     "gloss": "with-gaṇa-tāla",
+     "grounds": "compound: gaṇa+tālena; musical accompaniment",
+     "morph": "compound+m.inst.sg"
+    },
+    {
+     "surface": "dvayaṃ",
+     "gloss": "two",
+     "grounds": "number of circumambulations",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "prescribes the action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "circumambulation",
+     "grounds": "object of kuryāt",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many circumambulations should be performed with the gaṇa-tāla rhythm?",
+   "premises": [
+    "The gaṇa-tāla is the accompaniment.",
+    "Two circumambulations are specified.",
+    "One should perform them."
+   ],
+   "inference": "One should perform two circumambulations accompanied by the gaṇa-tāla.",
+   "uncertainties": [],
+   "plain_english": "One should perform two circumambulations with the gaṇa-tāla."
+  },
+  {
+   "verse": 486,
+   "rows": [
+    {
+     "surface": "gopure",
+     "gloss": "at-gateway-tower",
+     "grounds": "location of performance",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "vādyahīnaṃ",
+     "gloss": "without-musical-instruments",
+     "grounds": "compound: vādya+hīnam; possible mode",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃkhadhvanisamanvitam",
+     "gloss": "accompanied-by-conch-sound",
+     "grounds": "compound: śaṅkha+dhvani+samanvitam; possible mode",
+     "morph": "compound+n.acc.sg"
+    }
+   ],
+   "question": "What musical accompaniment is permitted at the gateway tower during the procession?",
+   "premises": [
+    "The location is the gateway tower.",
+    "The procession may be without musical instruments.",
+    "Alternatively it may be accompanied by the sound of the conch."
+   ],
+   "inference": "At the gateway tower the procession may be without instruments or accompanied by conch sound.",
+   "uncertainties": [],
+   "plain_english": "At the gateway tower it may be without musical instruments, or accompanied by the sound of the conch."
+  },
+  {
+   "verse": 487,
+   "rows": [
+    {
+     "surface": "baddhāvaṇaṃ",
+     "gloss": "with-bound-āvaṇa",
+     "grounds": "compound: baddha+āvaṇam; ritual arrangement",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "should-be",
+     "grounds": "prescriptive copula",
+     "morph": "3.sg.opt.act √bhū"
+    },
+    {
+     "surface": "agneḥ",
+     "gloss": "of-fire",
+     "grounds": "associated direction or deity",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "kolligānasamanvitam",
+     "gloss": "accompanied-by-kolli-song",
+     "grounds": "compound: kolli+gāna+samanvitam; musical accompaniment",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "What ritual arrangement is prescribed in the direction of fire during the procession?",
+   "premises": [
+    "The arrangement is in the domain of fire.",
+    "It should have a bound āvaṇa.",
+    "It should be accompanied by kolli song."
+   ],
+   "inference": "In the direction of fire there should be a bound āvaṇa accompanied by kolli song.",
+   "uncertainties": [
+    "The precise meanings of baddhāvaṇa and kolligāna are technical."
+   ],
+   "plain_english": "In the direction of fire there should be a bound āvaṇa accompanied by kolli song."
+  },
+  {
+   "verse": 488,
+   "rows": [
+    {
+     "surface": "mallatālaṃ",
+     "gloss": "malla-tāla",
+     "grounds": "compound: malla+tālam; musical rhythm",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "samākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "states the prescription",
+     "morph": "n.nom.sg.past-passive-participle sam-ā-√khyā"
+    },
+    {
+     "surface": "naiṛtyāṃ",
+     "gloss": "in-southwest",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "naṭṭabhāṣayā",
+     "gloss": "with-naṭṭa-language",
+     "grounds": "compound: naṭṭa+bhāṣayā; mode of expression",
+     "morph": "compound+f.inst.sg"
+    }
+   ],
+   "question": "Which tāla and expressive mode are prescribed for the southwest direction?",
+   "premises": [
+    "The malla-tāla is declared.",
+    "The location is the southwest.",
+    "It is performed with naṭṭa language."
+   ],
+   "inference": "In the southwest the malla-tāla is declared to be performed with naṭṭa language.",
+   "uncertainties": [
+    "naṭṭabhāṣā is a technical performance term."
+   ],
+   "plain_english": "In the southwest the malla-tāla is declared, performed with naṭṭa language."
+  },
+  {
+   "verse": 489,
+   "rows": [
+    {
+     "surface": "vāyavyāṃ",
+     "gloss": "in-northwest",
+     "grounds": "directional location",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "balitālantu",
+     "gloss": "but-bali-tāla",
+     "grounds": "compound/sandhi: bali+tālam+tu fused; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "takkeśīsvarasaṃyutam",
+     "gloss": "united-with-takkeśīśvara",
+     "grounds": "compound: takkeśīśvara+saṃyutam; associated deity or form",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "Which tāla and associated form are prescribed for the northwest direction?",
+   "premises": [
+    "The location is the northwest.",
+    "The bali-tāla is prescribed.",
+    "It is united with Takkeśīśvara."
+   ],
+   "inference": "In the northwest the bali-tāla is prescribed together with Takkeśīśvara.",
+   "uncertainties": [
+    "Takkeśīśvara may refer to a specific deity or ritual form."
+   ],
+   "plain_english": "In the northwest the bali-tāla is prescribed, united with Takkeśīśvara."
+  },
+  {
+   "verse": 490,
+   "rows": [
+    {
+     "surface": "śālā",
+     "gloss": "śālā",
+     "grounds": "ritual element or hall; subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāṇisamāyuktaṃ",
+     "gloss": "united-with-hand-clapping",
+     "grounds": "compound: pāṇi+samāyuktam; accompaniment",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "śāṃkare",
+     "gloss": "in-śaṅkara-direction",
+     "grounds": "directional location (north-east/Īśāna)",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ḍhakkarī",
+     "gloss": "ḍhakkarī",
+     "grounds": "drum or rhythm instrument",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "considered",
+     "grounds": "states the prescription",
+     "morph": "f.nom.sg.past-passive-participle √man"
+    }
+   ],
+   "question": "What musical elements are considered appropriate in the Śaṅkara direction?",
+   "premises": [
+    "The location is the Śaṅkara direction.",
+    "Śālā united with hand-clapping is prescribed.",
+    "Ḍhakkarī is considered appropriate."
+   ],
+   "inference": "In the Śaṅkara direction śālā with hand-clapping and ḍhakkarī are considered appropriate.",
+   "uncertainties": [
+    "śālā and ḍhakkarī are technical musical terms."
+   ],
+   "plain_english": "In the Śaṅkara direction, śālā accompanied by hand-clapping and ḍhakkarī are considered appropriate."
+  },
+  {
+   "verse": 491,
+   "rows": [
+    {
+     "surface": "pakṣālitāṃghrayassarve",
+     "gloss": "all-with-well-washed-feet",
+     "grounds": "compound/sandhi: prakṣālita+aṅghrayaḥ+sarve fused; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "praviśeyuś",
+     "gloss": "they-should-enter",
+     "grounds": "prescribes entry",
+     "morph": "3.pl.opt.act pra-√viś"
+    },
+    {
+     "surface": "śivālayam",
+     "gloss": "śiva-temple",
+     "grounds": "compound: śiva+ālayam; destination",
+     "morph": "compound+m.acc.sg"
+    }
+   ],
+   "question": "What condition must all participants meet before entering the Śiva temple?",
+   "premises": [
+    "All participants are involved.",
+    "Their feet must be well washed.",
+    "They should then enter the Śiva temple."
+   ],
+   "inference": "All participants should enter the Śiva temple only after washing their feet.",
+   "uncertainties": [],
+   "plain_english": "All, having washed their feet well, should enter the Śiva temple."
+  },
+  {
+   "verse": 492,
+   "rows": [
+    {
+     "surface": "pādyādyairupacāraistu",
+     "gloss": "but-with-services-beginning-with-water",
+     "grounds": "compound/sandhi: pādya+ādyaiḥ+upacāraiḥ+tu fused; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "prior action",
+     "morph": "absolutive √pūj"
+    },
+    {
+     "surface": "praveśayet",
+     "gloss": "one-should-admit",
+     "grounds": "prescribes admission",
+     "morph": "3.sg.caus.opt.act pra-√viś"
+    }
+   ],
+   "question": "What ritual services must precede admitting the deity into the temple?",
+   "premises": [
+    "Services beginning with water for the feet are required.",
+    "Worship must be performed with these services.",
+    "Admission follows this worship."
+   ],
+   "inference": "One should worship with services beginning with pādya and then admit the deity.",
+   "uncertainties": [],
+   "plain_english": "Having worshipped with services beginning with water for the feet, one should admit the deity."
+  },
+  {
+   "verse": 493,
+   "rows": [
+    {
+     "surface": "śivasya",
+     "gloss": "of-śiva",
+     "grounds": "possessor",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "pādau",
+     "gloss": "two-feet",
+     "grounds": "objects represented",
+     "morph": "m.acc.du"
+    },
+    {
+     "surface": "pūjyau",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescriptive gerundive",
+     "morph": "m.nom.du.gerundive √pūj"
+    },
+    {
+     "surface": "pāduke",
+     "gloss": "two-sandals",
+     "grounds": "objects of worship",
+     "morph": "f.nom.du"
+    },
+    {
+     "surface": "vāmadakṣiṇau",
+     "gloss": "left-and-right",
+     "grounds": "compound: vāma+dakṣiṇau; qualifies sandals/feet",
+     "morph": "compound+m.nom.du"
+    }
+   ],
+   "question": "Which objects representing Śiva's feet are to be worshipped as left and right?",
+   "premises": [
+    "Śiva's two feet are the referent.",
+    "The two sandals are to be worshipped.",
+    "They correspond to left and right."
+   ],
+   "inference": "The left and right sandals representing Śiva's feet are to be worshipped.",
+   "uncertainties": [],
+   "plain_english": "The two sandals, left and right, representing Śiva's feet, are to be worshipped."
+  },
+  {
+   "verse": 494,
+   "rows": [
+    {
+     "surface": "rūpāntaraṃ",
+     "gloss": "another-form",
+     "grounds": "compound: rūpa+antaram; alternative representation",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "svādhyāya",
+     "gloss": "self-study",
+     "grounds": "ritual or textual element; stem form in text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "siddhannityotsavārthakam",
+     "gloss": "accomplished-for-daily-festival-purpose",
+     "grounds": "compound: siddha+nityotsava+arthakam; purpose",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "What alternative form may be used for the purpose of the accomplished daily festival?",
+   "premises": [
+    "Another form is a possible alternative.",
+    "Svādhyāya is mentioned in this context.",
+    "The purpose is the accomplished daily festival."
+   ],
+   "inference": "Another form or svādhyāya may serve the purpose of the accomplished daily festival.",
+   "uncertainties": [
+    "The syntactic role of svādhyāya in this verse is compressed."
+   ],
+   "plain_english": "Alternatively, another form or svādhyāya may be used for the purpose of the accomplished daily festival."
+  },
+  {
+   "verse": 495,
+   "rows": [
+    {
+     "surface": "tadastramannaliṃgādau",
+     "gloss": "that-weapon-in-rice-linga-etc",
+     "grounds": "compound: tat+astram+annaliṅga+ādau; location/context",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "pūjanīyaṃ",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg.gerundive √pūj"
+    },
+    {
+     "surface": "svavāhanam",
+     "gloss": "own-vehicle",
+     "grounds": "compound: sva+vāhanam; object of worship",
+     "morph": "compound+n.nom.sg"
+    }
+   ],
+   "question": "What should be worshipped together with that weapon in the rice-linga and related contexts?",
+   "premises": [
+    "The context includes the rice-linga and similar forms.",
+    "That weapon is present in this context.",
+    "The deity's own vehicle is to be worshipped."
+   ],
+   "inference": "In the rice-linga and related contexts, that weapon and its own vehicle should be worshipped.",
+   "uncertainties": [
+    "The referent of tadastram depends on prior context."
+   ],
+   "plain_english": "In the rice-linga and so forth, that weapon and its own vehicle should be worshipped."
+  },
+  {
+   "verse": 496,
+   "rows": [
+    {
+     "surface": "pādukā",
+     "gloss": "sandals",
+     "grounds": "subject in the pair context",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvitaye",
+     "gloss": "in-pair",
+     "grounds": "context of two items",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pūjyam",
+     "gloss": "to-be-worshipped",
+     "grounds": "prescriptive gerundive",
+     "morph": "n.nom.sg.gerundive √pūj"
+    },
+    {
+     "surface": "anyatsarvaṃ",
+     "gloss": "all-else",
+     "grounds": "compound: anyat+sarvam; remaining items",
+     "morph": "compound+n.nom.sg"
+    },
+    {
+     "surface": "samānakam",
+     "gloss": "same",
+     "grounds": "indicates equivalence of procedure",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "How does the worship procedure differ when sandals are worshipped as a pair?",
+   "premises": [
+    "The sandals are worshipped in a pair.",
+    "The pair is specifically to be worshipped.",
+    "All other aspects remain the same."
+   ],
+   "inference": "When sandals are worshipped as a pair, only that element is specified and everything else remains the same.",
+   "uncertainties": [],
+   "plain_english": "In the case of the pair, the sandals are to be worshipped; everything else remains the same."
+  },
+  {
+   "verse": 497,
+   "rows": [
+    {
+     "surface": "dhvajārohāvarohāntā",
+     "gloss": "ending-with-flag-raising-lowering",
+     "grounds": "compound: dhvaja+āroha+avarohā+antā; defines extent",
+     "morph": "compound+f.nom.sg"
+    },
+    {
+     "surface": "kriyā",
+     "gloss": "rite",
+     "grounds": "subject defined",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "utsava",
+     "gloss": "festival",
+     "grounds": "term being defined; stem form in text",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "definitional statement",
+     "morph": "3.sg.pres.pass √vac"
+    }
+   ],
+   "question": "What ritual sequence defines the full extent of a festival?",
+   "premises": [
+    "The rite begins with flag raising.",
+    "The rite ends with flag lowering.",
+    "This entire sequence is called a festival."
+   ],
+   "inference": "The rite extending from flag raising to flag lowering is called a festival.",
+   "uncertainties": [],
+   "plain_english": "The rite that extends from the raising to the lowering of the flag is called a festival."
+  },
+  {
+   "verse": 498,
+   "rows": [
+    {
+     "surface": "tīrtharkṣamādau",
+     "gloss": "at-first-tīrtha-nakṣatra",
+     "grounds": "compound: tīrtha+ṛkṣam+ādau; starting point",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "niścitya",
+     "gloss": "having-determined",
+     "grounds": "prior action",
+     "morph": "absolutive niś-√ci"
+    },
+    {
+     "surface": "tatpūrve",
+     "gloss": "before-that",
+     "grounds": "compound: tat+pūrve; temporal reference",
+     "morph": "compound+n.loc.sg"
+    },
+    {
+     "surface": "triguṇepi",
+     "gloss": "even-in-threefold",
+     "grounds": "compound/sandhi: triguṇe+api fused; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the timing be determined relative to the tīrtha nakṣatra for the festival?",
+   "premises": [
+    "The tīrtha nakṣatra must be determined first.",
+    "The timing may be set before that nakṣatra.",
+    "A threefold calculation may also be used."
+   ],
+   "inference": "After determining the tīrtha nakṣatra, one may set the timing before it, even using a threefold calculation.",
+   "uncertainties": [
+    "The exact meaning of triguṇe in this calendrical context is technical."
+   ],
+   "plain_english": "Having first determined the tīrtha nakṣatra, one may set the time before it, or even in a threefold manner."
+  },
+  {
+   "verse": 499,
+   "rows": [
+    {
+     "surface": "māsabhaṃ",
+     "gloss": "month-star",
+     "grounds": "compound: māsa+bham; calendrical element",
+     "morph": "compound+n.acc.sg"
+    },
+    {
+     "surface": "tīrthanakṣatramārdrakṣaṃ",
+     "gloss": "tīrtha-nakṣatra-as-ārdra-star",
+     "grounds": "compound: tīrtha+nakṣatram+ārdra+ṛkṣam fused; kept as one token",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvamāsake",
+     "gloss": "in-every-month",
+     "grounds": "compound: sarva+māsake; temporal scope",
+     "morph": "compound+m.loc.sg"
+    }
+   ],
+   "question": "Which nakṣatra is designated as the tīrtha star for observances in every month?",
+   "premises": [
+    "The month-star is under consideration.",
+    "The tīrtha nakṣatra is identified as Ārdrā.",
+    "This applies in every month."
+   ],
+   "inference": "In every month, the tīrtha nakṣatra is to be taken as Ārdrā.",
+   "uncertainties": [
+    "The compound structure is dense and may imply a specific calendrical rule."
+   ],
+   "plain_english": "In every month, the month-star designated as the tīrtha nakṣatra is Ārdrā."
+  }
+ ]
+}

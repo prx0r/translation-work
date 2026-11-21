@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p133",
+ "items": [
+  {
+   "verse": 3325,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "gerund of root hu, to offer",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prāyaścittaiḥ",
+     "gloss": "with-expiations",
+     "grounds": "instrumental plural of prāyaścitta, expiation",
+     "morph": "n.instr.pl"
+    },
+    {
+     "surface": "juhoti",
+     "gloss": "he-offers",
+     "grounds": "third person singular present active of root hu",
+     "morph": "verb.3sg.act-pres + hu"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What additional offering follows the initial oblation in this rite?",
+   "premises": [
+    "Initial oblation has been completed.",
+    "Expiations are then employed.",
+    "He offers again with them."
+   ],
+   "inference": "The rite includes a secondary expiatory offering after the first.",
+   "uncertainties": [
+    "Exact expiation substances are not specified in this verse."
+   ],
+   "plain_english": "Having offered, he also offers with expiations."
+  }
+ ]
+}

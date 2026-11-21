@@ -1,0 +1,69 @@
+{
+ "song": "mukta-m0-p91",
+ "items": [
+  {
+   "verse": 2275,
+   "rows": [
+    {
+     "surface": "sva",
+     "gloss": "own",
+     "grounds": "first member of compound with jāti",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jāti",
+     "gloss": "birth-class",
+     "grounds": "second member of compound with sva",
+     "morph": "compound-member.f.nom.sg"
+    },
+    {
+     "surface": "brāhmaṇī",
+     "gloss": "brahmin-woman",
+     "grounds": "female member of the brahmin class",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or-even",
+     "grounds": "disjunctive-inclusive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "particle indicating manner or accordance",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lābhaṃ",
+     "gloss": "availability",
+     "grounds": "object indicating what is obtained or available",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhyate",
+     "gloss": "is-taken",
+     "grounds": "passive action of acceptance or selection",
+     "morph": "3.sg.pass-pres √grah"
+    }
+   ],
+   "question": "On what basis of availability may a brahmin woman of one's own birth-class be accepted?",
+   "premises": [
+    "A brahmin woman of one's own birth-class is under consideration.",
+    "Acceptance is conditioned by availability.",
+    "The manner of acceptance follows what is available."
+   ],
+   "inference": "A brahmin woman of one's own birth-class may be taken according to availability.",
+   "uncertainties": [
+    "The specific ritual role or context of accepting the brahmin woman is supplied by the preceding verses."
+   ],
+   "plain_english": "Or even a brahmin woman of one's own birth-class is taken as available."
+  }
+ ]
+}

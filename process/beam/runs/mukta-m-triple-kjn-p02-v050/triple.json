@@ -1,0 +1,51 @@
+{
+ "song": "kjn-p02",
+ "items": [
+  {
+   "verse": 50,
+   "rows": [
+    {
+     "surface": "kulapiṇḍaṃ",
+     "gloss": "kula-ball",
+     "grounds": "kula (family) + piṇḍa (ball/mass), accusative singular neuter",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samālikhya",
+     "gloss": "having-drawn",
+     "grounds": "sam-ā-likh-ya absolutive from root likh",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nāḍī",
+     "gloss": "channel",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāḍīmukhaiḥ",
+     "gloss": "channel-mouths-with",
+     "grounds": "nāḍī + mukha compound, instrumental plural neuter",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "saha",
+     "gloss": "together",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How does one draw the kula-ball together with channels and their mouths?",
+   "premises": [
+    "kula-ball is drawn",
+    "channels accompany mouths",
+    "together indicates accompaniment"
+   ],
+   "inference": "The drawing joins the kula-ball with channels and their mouths.",
+   "uncertainties": [
+    "Exact doctrinal referent of kula-ball remains uncertain."
+   ],
+   "plain_english": "Having drawn the kula-ball, together with channels and their mouths."
+  }
+ ]
+}

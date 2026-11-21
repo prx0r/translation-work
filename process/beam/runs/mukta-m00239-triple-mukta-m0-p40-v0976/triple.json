@@ -1,0 +1,1157 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 976,
+   "rows": [
+    {
+     "surface": "vacā",
+     "gloss": "acorus",
+     "grounds": "medicinal root named vacā",
+     "morph": "n.indecl."
+    },
+    {
+     "surface": "saindhavaśigrūtthaṃ",
+     "gloss": "rock-salt-śigru-arisen",
+     "grounds": "compound of saindhava, śigru, uttha",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "mūlaṃ",
+     "gloss": "root",
+     "grounds": "root to be ground",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "peṣyaṃ",
+     "gloss": "to-be-ground",
+     "grounds": "gerundive of piṣ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "equal measure",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "equal measure repeated",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What equal-measure compound of acorus root, rock salt, and śigru is to be ground?",
+   "premises": [
+    "acorus root is named vacā",
+    "rock salt and śigru are included",
+    "the mixture is to be ground in equal measure"
+   ],
+   "inference": "The verse prescribes a ground compound of vacā, saindhava, and śigru in equal parts.",
+   "uncertainties": [
+    "exact therapeutic use is not stated in this verse"
+   ],
+   "plain_english": "Grind acorus root with rock salt and śigru in equal measure."
+  },
+  {
+   "verse": 977,
+   "rows": [
+    {
+     "surface": "kaṇṭhaśuddhir",
+     "gloss": "throat-purity",
+     "grounds": "compound of kaṇṭha and śuddhi",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū present optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive of tad",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "kinnaraiḥ",
+     "gloss": "with-kinnaras",
+     "grounds": "instrumental plural of kinnara",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gīyate",
+     "gloss": "is-sung",
+     "grounds": "passive of gai",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "Whose throat becomes pure so that he is sung with the kinnaras?",
+   "premises": [
+    "throat purity arises for him",
+    "he is sung together with kinnaras",
+    "the result follows the prescribed practice"
+   ],
+   "inference": "The verse states that throat purity makes one's song comparable to the kinnaras.",
+   "uncertainties": [
+    "the preceding recipe is implied rather than repeated"
+   ],
+   "plain_english": "His throat becomes pure, and he is sung with the kinnaras."
+  },
+  {
+   "verse": 978,
+   "rows": [
+    {
+     "surface": "kokilasvara",
+     "gloss": "cuckoo-voice",
+     "grounds": "compound of kokila and svara",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "syād",
+     "gloss": "would-be",
+     "grounds": "conditional of as",
+     "morph": "v.3.sg.act-cond"
+    },
+    {
+     "surface": "guṭikābhuktimātrataḥ",
+     "gloss": "pill-eating-merely",
+     "grounds": "compound of guṭikā, bhukti, mātra",
+     "morph": "adv"
+    }
+   ],
+   "question": "What voice results merely from eating the pill?",
+   "premises": [
+    "the voice is like a cuckoo's",
+    "the cause is merely eating the pill",
+    "the result is stated as a would-be outcome"
+   ],
+   "inference": "The verse says that merely eating the pill yields a cuckoo-like voice.",
+   "uncertainties": [
+    "the pill's composition is given in nearby verses"
+   ],
+   "plain_english": "Indeed, merely eating the pill would give a cuckoo-like voice."
+  },
+  {
+   "verse": 979,
+   "rows": [
+    {
+     "surface": "vacā",
+     "gloss": "acorus",
+     "grounds": "medicinal root named vacā",
+     "morph": "n.indecl."
+    },
+    {
+     "surface": "cūrṇaṃ",
+     "gloss": "powder",
+     "grounds": "powdered form",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "samāṃśena",
+     "gloss": "with-equal-part",
+     "grounds": "compound of sama and aṃśa",
+     "morph": "adv"
+    },
+    {
+     "surface": "palaikaṃ",
+     "gloss": "one-pala",
+     "grounds": "compound of pala and eka",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vāriṇā",
+     "gloss": "with-water",
+     "grounds": "instrumental of vāri",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "one-should-drink",
+     "grounds": "optative of pā",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "How much acorus powder should be drunk with water?",
+   "premises": [
+    "acorus is powdered",
+    "one pala is taken",
+    "it is drunk with water"
+   ],
+   "inference": "The verse instructs drinking one pala of acorus powder with water.",
+   "uncertainties": [
+    "the equal-part phrase may modify an unstated companion ingredient"
+   ],
+   "plain_english": "Drink one pala of acorus powder with water."
+  },
+  {
+   "verse": 980,
+   "rows": [
+    {
+     "surface": "gandharvasadṛśaṃ",
+     "gloss": "gandharva-like",
+     "grounds": "compound of gandharva and sadṛśa",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "gānaṃ",
+     "gloss": "song",
+     "grounds": "song or singing",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kokilānāṃ",
+     "gloss": "of-cuckoos",
+     "grounds": "genitive plural of kokila",
+     "morph": "n.gen.pl.m"
+    },
+    {
+     "surface": "svaro",
+     "gloss": "voice",
+     "grounds": "nominative of svara",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What kind of song and voice are compared to gandharvas and cuckoos?",
+   "premises": [
+    "the song is gandharva-like",
+    "the voice is like cuckoos'",
+    "the comparison is stated with yathā"
+   ],
+   "inference": "The verse compares the resulting song and voice to gandharvas and cuckoos.",
+   "uncertainties": [
+    "the subject is carried over from the preceding recipe"
+   ],
+   "plain_english": "The song is gandharva-like, and the voice is like that of cuckoos."
+  },
+  {
+   "verse": 981,
+   "rows": [
+    {
+     "surface": "kaṇṭhaśuddhir",
+     "gloss": "throat-purity",
+     "grounds": "compound of kaṇṭha and śuddhi",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū present optative",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "genitive of tad",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "kinnaraiḥ",
+     "gloss": "with-kinnaras",
+     "grounds": "instrumental plural of kinnara",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gīyate",
+     "gloss": "is-sung",
+     "grounds": "passive of gai",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What happens to the throat of one who follows this practice?",
+   "premises": [
+    "throat purity becomes his",
+    "he is sung with kinnaras",
+    "the result is stated directly"
+   ],
+   "inference": "The verse repeats that throat purity makes one sung with kinnaras.",
+   "uncertainties": [
+    "it may be a refrain rather than a new instruction"
+   ],
+   "plain_english": "His throat becomes pure, and he is sung with the kinnaras."
+  },
+  {
+   "verse": 982,
+   "rows": [
+    {
+     "surface": "gomūtreṇa",
+     "gloss": "with-cow-urine",
+     "grounds": "instrumental of gomūtra",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "pibet",
+     "gloss": "one-should-drink",
+     "grounds": "optative of pā",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "karṣa",
+     "gloss": "one-karṣa",
+     "grounds": "measure of weight",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kinnaraiḥ",
+     "gloss": "with-kinnaras",
+     "grounds": "instrumental plural of kinnara",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "saha",
+     "gloss": "with",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "gīyate",
+     "gloss": "is-sung",
+     "grounds": "passive of gai",
+     "morph": "v.3.sg.pass-pres"
+    }
+   ],
+   "question": "What quantity should be drunk with cow urine to be sung with kinnaras?",
+   "premises": [
+    "one karṣa is drunk",
+    "cow urine is the vehicle",
+    "the result is singing with kinnaras"
+   ],
+   "inference": "The verse instructs drinking one karṣa with cow urine, yielding song with kinnaras.",
+   "uncertainties": [
+    "the substance to be measured is not named in this verse"
+   ],
+   "plain_english": "Drink one karṣa with cow urine, and one is sung with the kinnaras."
+  },
+  {
+   "verse": 983,
+   "rows": [
+    {
+     "surface": "khādet",
+     "gloss": "one-should-eat",
+     "grounds": "optative of khād",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "samāsataś",
+     "gloss": "in-equal-measure",
+     "grounds": "ablative of samāsa",
+     "morph": "adv"
+    },
+    {
+     "surface": "cakṣur",
+     "gloss": "eye",
+     "grounds": "accusative of cakṣus",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "gṛdhradṛṣṭisamaṃ",
+     "gloss": "vulture-sight-equal",
+     "grounds": "compound of gṛdhra, dṛṣṭi, sama",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "bhū present optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What sight results from eating the equal-measure preparation?",
+   "premises": [
+    "the preparation is eaten in equal measure",
+    "the eye becomes involved",
+    "the result equals vulture sight"
+   ],
+   "inference": "The verse says eating the preparation gives an eye equal to a vulture's sight.",
+   "uncertainties": [
+    "the preparation itself is not named here"
+   ],
+   "plain_english": "Eat it in equal measure; the eye becomes equal to a vulture's sight."
+  },
+  {
+   "verse": 984,
+   "rows": [
+    {
+     "surface": "añjane",
+     "gloss": "in-collyrium",
+     "grounds": "locative of añjana",
+     "morph": "n.loc.sg.n"
+    },
+    {
+     "surface": "cakṣurogāś",
+     "gloss": "eye-diseases",
+     "grounds": "compound of cakṣus and roga",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "bhavanti",
+     "gloss": "arise",
+     "grounds": "bhū present indicative",
+     "morph": "v.3.pl.act-pres"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What eye diseases never arise when this collyrium is used?",
+   "premises": [
+    "the collyrium is applied",
+    "eye diseases do not arise",
+    "this holds ever"
+   ],
+   "inference": "The verse states that eye diseases never arise from the collyrium.",
+   "uncertainties": [
+    "the collyrium's ingredients are given in nearby verses"
+   ],
+   "plain_english": "In this collyrium, eye diseases never arise."
+  },
+  {
+   "verse": 985,
+   "rows": [
+    {
+     "surface": "bhṛṅgīdravairyutaṃ",
+     "gloss": "bṛṅgī-juices-joined",
+     "grounds": "compound of bhṛṅgī, drava, yuta",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "indeclinable",
+     "morph": "indecl."
+    },
+    {
+     "surface": "timiraṃ",
+     "gloss": "darkness",
+     "grounds": "eye darkness",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "paṭalaṃ",
+     "gloss": "film",
+     "grounds": "film over the eye",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "haret",
+     "gloss": "removes",
+     "grounds": "hṛ present optative",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What eye conditions are removed by the preparation joined with bṛṅgī juices?",
+   "premises": [
+    "the preparation is joined with bṛṅgī juices",
+    "it removes darkness",
+    "it removes film"
+   ],
+   "inference": "The verse says the preparation removes timira and paṭala.",
+   "uncertainties": [
+    "whether vāpi means 'or' or 'also'"
+   ],
+   "plain_english": "Joined with bṛṅgī juices, it removes darkness and film."
+  },
+  {
+   "verse": 986,
+   "rows": [
+    {
+     "surface": "añjayann",
+     "gloss": "applying-as-collyrium",
+     "grounds": "present participle of añj",
+     "morph": "part.acc.sg.m"
+    },
+    {
+     "surface": "avanītena",
+     "gloss": "with-fresh-butter",
+     "grounds": "instrumental of avanīta",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "hanti",
+     "gloss": "destroys",
+     "grounds": "han present indicative",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "opacity",
+     "grounds": "eye opacity",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "cirantanam",
+     "gloss": "long-standing",
+     "grounds": "adjective of long duration",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What long-standing eye opacity is destroyed by applying fresh butter?",
+   "premises": [
+    "fresh butter is used",
+    "it is applied as collyrium",
+    "long-standing opacity is destroyed"
+   ],
+   "inference": "The verse states that applying fresh butter destroys long-standing puṣpa.",
+   "uncertainties": [
+    "the exact application method is implied"
+   ],
+   "plain_english": "Applying it with fresh butter destroys long-standing opacity."
+  },
+  {
+   "verse": 987,
+   "rows": [
+    {
+     "surface": "ajāmūtreṇa",
+     "gloss": "with-goat-urine",
+     "grounds": "instrumental of ajāmūtra",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "bhūdhātrībhūlaṃ",
+     "gloss": "bhūdhātrī-powder",
+     "grounds": "compound of bhūdhātrī and bhūla",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "piṣṭvā",
+     "gloss": "having-ground",
+     "grounds": "gerund of piṣ",
+     "morph": "ger."
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "vartikā",
+     "gloss": "wick",
+     "grounds": "wick for collyrium",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What is made from ground bhūdhātrī powder with goat urine?",
+   "premises": [
+    "bhūdhātrī powder is ground",
+    "goat urine is used",
+    "a wick results"
+   ],
+   "inference": "The verse describes making a wick from ground bhūdhātrī powder with goat urine.",
+   "uncertainties": [
+    "the wick's use as collyrium is implied"
+   ],
+   "plain_english": "Grind bhūdhātrī powder with goat urine and make a wick."
+  },
+  {
+   "verse": 988,
+   "rows": [
+    {
+     "surface": "añjanān",
+     "gloss": "by-collyrium",
+     "grounds": "ablative of añjana",
+     "morph": "n.abl.sg.n"
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "causative optative of naś",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "opacity",
+     "grounds": "eye opacity",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṣaudrair",
+     "gloss": "with-honey",
+     "grounds": "instrumental plural of kṣaudra",
+     "morph": "n.inst.pl.n"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "svarṇamākṣikam",
+     "gloss": "gold-pyrite",
+     "grounds": "compound of svarṇa and mākṣika",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What opacity is destroyed by collyrium, honey, or gold pyrite?",
+   "premises": [
+    "collyrium destroys opacity",
+    "honey is an alternative",
+    "gold pyrite is an alternative"
+   ],
+   "inference": "The verse says opacity is destroyed by collyrium, honey, or gold pyrite.",
+   "uncertainties": [
+    "whether the alternatives are separate recipes or one compound"
+   ],
+   "plain_english": "By collyrium, honey, or gold pyrite, opacity is destroyed."
+  },
+  {
+   "verse": 989,
+   "rows": [
+    {
+     "surface": "śoṇitaṃ",
+     "gloss": "blood",
+     "grounds": "accusative of śoṇita",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "carmakopaṃ",
+     "gloss": "skin-irritation",
+     "grounds": "compound of carma and kopa",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māṃsavṛddhiṃ",
+     "gloss": "flesh-growth",
+     "grounds": "compound of māṃsa and vṛddhi",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "causative optative of naś",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "What blood, skin, and flesh conditions are destroyed?",
+   "premises": [
+    "blood is destroyed",
+    "skin irritation is destroyed",
+    "flesh growth is destroyed"
+   ],
+   "inference": "The verse states that blood, skin irritation, and flesh growth are destroyed.",
+   "uncertainties": [
+    "the destroying agent is carried over from the previous verse"
+   ],
+   "plain_english": "It destroys blood, skin irritation, and flesh growth."
+  },
+  {
+   "verse": 990,
+   "rows": [
+    {
+     "surface": "kṛṣṇājasya",
+     "gloss": "of-black-goat",
+     "grounds": "genitive of kṛṣṇāja",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māṃsāntaḥ",
+     "gloss": "in-flesh",
+     "grounds": "compound of māṃsa and antar",
+     "morph": "adv"
+    },
+    {
+     "surface": "pippalīṃ",
+     "gloss": "long-pepper",
+     "grounds": "accusative of pippalī",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "maricaṃ",
+     "gloss": "black-pepper",
+     "grounds": "accusative of marica",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kṣipet",
+     "gloss": "one-should-place",
+     "grounds": "optative of kṣip",
+     "morph": "v.3.sg.act-opt"
+    }
+   ],
+   "question": "Where should long pepper and black pepper be placed?",
+   "premises": [
+    "a black goat is mentioned",
+    "the peppers are placed in flesh",
+    "the instruction is optative"
+   ],
+   "inference": "The verse instructs placing long pepper and black pepper in the flesh of a black goat.",
+   "uncertainties": [
+    "the therapeutic purpose is not stated in this verse"
+   ],
+   "plain_english": "Place long pepper and black pepper in the flesh of a black goat."
+  },
+  {
+   "verse": 991,
+   "rows": [
+    {
+     "surface": "madhyājyastanyasaṃpiṣṭaṃ",
+     "gloss": "honey-ghee-breast-milk-ground",
+     "grounds": "compound of madhu, ājya, stanya, saṃpiṣṭa",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "rātryandhaharamañjanam",
+     "gloss": "night-blindness-removing-collyrium",
+     "grounds": "compound of rātryandha, hara, añjana",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What collyrium removes night blindness when ground with honey, ghee, and breast milk?",
+   "premises": [
+    "honey, ghee, and breast milk are ground together",
+    "the result is a collyrium",
+    "it removes night blindness"
+   ],
+   "inference": "The verse names a collyrium that removes night blindness, prepared with honey, ghee, and breast milk.",
+   "uncertainties": [
+    "the exact grinding procedure is implied"
+   ],
+   "plain_english": "A collyrium removing night blindness is ground with honey, ghee, and breast milk."
+  },
+  {
+   "verse": 992,
+   "rows": [
+    {
+     "surface": "cirabilvarasairghṛṣṭaṃ",
+     "gloss": "old-bilva-juices-rubbed",
+     "grounds": "compound of cira, bilva, rasa, ghṛṣṭa",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "rātryandhaharamañjanam",
+     "gloss": "night-blindness-removing-collyrium",
+     "grounds": "compound of rātryandha, hara, añjana",
+     "morph": "n.acc.sg.n"
+    }
+   ],
+   "question": "What collyrium removes night blindness when rubbed with old bilva juices?",
+   "premises": [
+    "old bilva juices are used",
+    "the collyrium is rubbed with them",
+    "it removes night blindness"
+   ],
+   "inference": "The verse names a night-blindness-removing collyrium rubbed with old bilva juices.",
+   "uncertainties": [
+    "the preparation details are compressed"
+   ],
+   "plain_english": "A collyrium removing night blindness is rubbed with old bilva juices."
+  },
+  {
+   "verse": 993,
+   "rows": [
+    {
+     "surface": "rātryandhakaṃ",
+     "gloss": "night-blindness",
+     "grounds": "accusative of rātryandhaka",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "kāñjikayā",
+     "gloss": "with-sour-gruel",
+     "grounds": "instrumental of kāñjikā",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "nihanti",
+     "gloss": "destroys",
+     "grounds": "han present indicative",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "punarnavā",
+     "gloss": "punarnavā",
+     "grounds": "medicinal plant",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "netrapunarnavaṅkarī",
+     "gloss": "eye-renewal-making",
+     "grounds": "compound of netra, punarnava, kara",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What destroys night blindness with sour gruel?",
+   "premises": [
+    "punarnavā is named",
+    "sour gruel is the vehicle",
+    "night blindness is destroyed"
+   ],
+   "inference": "The verse says punarnavā with sour gruel destroys night blindness and renews the eye.",
+   "uncertainties": [
+    "whether netrapunarnavaṅkarī modifies punarnavā or the result"
+   ],
+   "plain_english": "Punarnavā with sour gruel destroys night blindness and renews the eye."
+  },
+  {
+   "verse": 994,
+   "rows": [
+    {
+     "surface": "vibhītakasya",
+     "gloss": "of-vibhītaka",
+     "grounds": "genitive of vibhītaka",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "majjā",
+     "gloss": "kernel",
+     "grounds": "kernel or marrow",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śaṃkhanābhir",
+     "gloss": "conch-shell-navel",
+     "grounds": "compound of śaṅkha and nābhi",
+     "morph": "n.inst.sg.f"
+    },
+    {
+     "surface": "manaśśilā",
+     "gloss": "realgar",
+     "grounds": "mineral realgar",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What ingredients are listed with vibhītaka kernel and conch-shell navel?",
+   "premises": [
+    "vibhītaka kernel is named",
+    "conch-shell navel is named",
+    "realgar is named"
+   ],
+   "inference": "The verse lists vibhītaka kernel, conch-shell navel, and realgar as ingredients.",
+   "uncertainties": [
+    "the grammatical relation among the items is compressed"
+   ],
+   "plain_english": "Vibhītaka kernel, conch-shell navel, and realgar."
+  },
+  {
+   "verse": 995,
+   "rows": [
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "causative optative of naś",
+     "morph": "v.3.sg.act-opt"
+    },
+    {
+     "surface": "timiraṃ",
+     "gloss": "darkness",
+     "grounds": "eye darkness",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "kaṇḍūṃ",
+     "gloss": "itching",
+     "grounds": "accusative of kaṇḍū",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "paṭalāny",
+     "gloss": "films",
+     "grounds": "accusative plural of paṭala",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "arbudāni",
+     "gloss": "tumors",
+     "grounds": "accusative plural of arbuda",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    }
+   ],
+   "question": "What eye conditions are destroyed by this preparation?",
+   "premises": [
+    "darkness is destroyed",
+    "itching is destroyed",
+    "films and tumors are destroyed"
+   ],
+   "inference": "The verse states that the preparation destroys timira, kaṇḍū, paṭala, and arbuda.",
+   "uncertainties": [
+    "the preparation itself is carried over from the previous verse"
+   ],
+   "plain_english": "It destroys darkness, itching, films, and tumors."
+  },
+  {
+   "verse": 996,
+   "rows": [
+    {
+     "surface": "adhikāni",
+     "gloss": "excessive",
+     "grounds": "accusative plural of adhika",
+     "morph": "adj.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "māṃsāni",
+     "gloss": "fleshy-growths",
+     "grounds": "accusative plural of māṃsa",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "yaśca",
+     "gloss": "and-who",
+     "grounds": "compound of ya and ca",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "rātrau",
+     "gloss": "at-night",
+     "grounds": "locative of rātri",
+     "morph": "n.loc.sg.f"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "paśyati",
+     "gloss": "sees",
+     "grounds": "paś present indicative",
+     "morph": "v.3.sg.act-pres"
+    }
+   ],
+   "question": "What excessive fleshy growths and night vision failure are mentioned?",
+   "premises": [
+    "excessive fleshy growths are mentioned",
+    "one who does not see at night is mentioned",
+    "both are objects of the preparation's effect"
+   ],
+   "inference": "The verse adds excessive fleshy growths and night blindness to the conditions treated.",
+   "uncertainties": [
+    "the subject and verb are carried over from the previous verse"
+   ],
+   "plain_english": "Excessive fleshy growths, and one who does not see at night."
+  },
+  {
+   "verse": 997,
+   "rows": [
+    {
+     "surface": "chāyāśuṣkā",
+     "gloss": "shade-dried",
+     "grounds": "compound of chāyā and śuṣka",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "vaṭī",
+     "gloss": "pill",
+     "grounds": "nominative of vaṭī",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "kāryā",
+     "gloss": "to-be-made",
+     "grounds": "gerundive of kṛ",
+     "morph": "adj.nom.sg.f"
+    },
+    {
+     "surface": "nāmnā",
+     "gloss": "by-name",
+     "grounds": "instrumental of nāman",
+     "morph": "n.inst.sg.n"
+    },
+    {
+     "surface": "candrodayā",
+     "gloss": "candrodayā",
+     "grounds": "name of the pill",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "vaṭī",
+     "gloss": "pill",
+     "grounds": "nominative of vaṭī",
+     "morph": "n.nom.sg.f"
+    }
+   ],
+   "question": "What shade-dried pill is to be made by the name candrodayā?",
+   "premises": [
+    "the pill is shade-dried",
+    "it is to be made",
+    "its name is candrodayā"
+   ],
+   "inference": "The verse instructs making a shade-dried pill named candrodayā.",
+   "uncertainties": [
+    "the ingredients are given in the preceding verses"
+   ],
+   "plain_english": "Make a shade-dried pill named candrodayā."
+  },
+  {
+   "verse": 998,
+   "rows": [
+    {
+     "surface": "samyucyate",
+     "gloss": "is-afflicted",
+     "grounds": "passive of samyuj",
+     "morph": "v.3.sg.pass-pres"
+    },
+    {
+     "surface": "netragatairvikārair",
+     "gloss": "eye-located-disorders",
+     "grounds": "compound of netra, gata, vikāra",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "bhṛtyair",
+     "gloss": "by-servants",
+     "grounds": "instrumental plural of bhṛtya",
+     "morph": "n.inst.pl.m"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kṣīṇadhano",
+     "gloss": "diminished-wealth",
+     "grounds": "compound of kṣīṇa and dhana",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "manuṣyaḥ",
+     "gloss": "man",
+     "grounds": "nominative of manuṣya",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What comparison is made for a man afflicted by eye disorders?",
+   "premises": [
+    "eye-located disorders afflict him",
+    "servants are mentioned",
+    "a man with diminished wealth is the comparison"
+   ],
+   "inference": "The verse compares a man afflicted by eye disorders to a man with diminished wealth troubled by servants.",
+   "uncertainties": [
+    "the exact role of bhṛtyair is syntactically compressed"
+   ],
+   "plain_english": "A man afflicted by eye disorders is like a man of diminished wealth troubled by servants."
+  },
+  {
+   "verse": 999,
+   "rows": [
+    {
+     "surface": "apaharati",
+     "gloss": "removes",
+     "grounds": "present indicative of apahṛ",
+     "morph": "v.3.sg.act-pres"
+    },
+    {
+     "surface": "karṇanādaṃ",
+     "gloss": "ear-noise",
+     "grounds": "compound of karṇa and nāda",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "bādhiryaṃ",
+     "gloss": "deafness",
+     "grounds": "accusative of bādhinya",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "indecl."
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "emphatic particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "pūraṇāt",
+     "gloss": "by-filling",
+     "grounds": "ablative of pūraṇa",
+     "morph": "n.abl.sg.n"
+    }
+   ],
+   "question": "What ear conditions are removed by filling?",
+   "premises": [
+    "ear noise is removed",
+    "deafness is removed",
+    "filling is the means"
+   ],
+   "inference": "The verse states that filling removes ear noise and deafness.",
+   "uncertainties": [
+    "the substance used for filling is not named here"
+   ],
+   "plain_english": "Filling removes ear noise and deafness."
+  }
+ ]
+}

@@ -1,0 +1,300 @@
+{
+ "song": "kul-p25",
+ "items": [
+  {
+   "verse": 619,
+   "rows": [
+    {
+     "surface": "pīṭhasthānāni",
+     "gloss": "seat-places",
+     "grounds": "compound pīṭha+sthāna, neuter plural accusative",
+     "morph": "n.acc.pl.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āgatya",
+     "gloss": "having-come",
+     "grounds": "absolutive of ā-gam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāpadmavanaṃ",
+     "gloss": "Mahāpadmavana",
+     "grounds": "compound mahā+padma+vana, accusative singular",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative of vraj, third singular active",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "Where should one go after coming to the seat-places?",
+   "premises": [
+    "seat-places are reached first",
+    "Mahāpadmavana is the destination",
+    "the verb is optative"
+   ],
+   "inference": "the verse directs movement from seat-places to Mahāpadmavana",
+   "uncertainties": [
+    "exact ritual sense of pīṭhasthāna is not specified"
+   ],
+   "plain_english": "Having come to the seat-places, one would go to Mahāpadmavana."
+  },
+  {
+   "verse": 620,
+   "rows": [
+    {
+     "surface": "ciccandrakuṇḍalīśaktisāmarasya",
+     "gloss": "consciousness-moon-kuṇḍalinī-śakti-harmony",
+     "grounds": "long compound of citta/cic, candra, kuṇḍalinī, śakti, sāmarasya",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "sukhodayaḥ",
+     "gloss": "bliss-arising",
+     "grounds": "compound sukha+udaya, nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "What arises from the harmony of consciousness, moon, kuṇḍalinī, and śakti?",
+   "premises": [
+    "the compound names a harmony",
+    "sukhodaya is the arising result",
+    "the subject is nominative singular"
+   ],
+   "inference": "that harmony is said to bring about the arising of bliss",
+   "uncertainties": [
+    "whether citta or cit is intended in the compound"
+   ],
+   "plain_english": "The harmony of consciousness, moon, kuṇḍalinī, and śakti is the arising of bliss."
+  },
+  {
+   "verse": 621,
+   "rows": [
+    {
+     "surface": "sudhāpānam",
+     "gloss": "nectar-drinking",
+     "grounds": "compound sudhā+pāna, nominative singular neuter",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "idaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun, nominative singular neuter",
+     "morph": "pron.nom.sg.n"
+    },
+    {
+     "surface": "proktam",
+     "gloss": "said",
+     "grounds": "past participle of pra-vac, nominative singular neuter",
+     "morph": "n.nom.sg.n"
+    },
+    {
+     "surface": "itare",
+     "gloss": "others",
+     "grounds": "pronoun/adjective, nominative plural masculine",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "madyapāyinaḥ",
+     "gloss": "wine-drinkers",
+     "grounds": "compound madya+pāyin, nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "What is said to be nectar-drinking rather than wine-drinking?",
+   "premises": [
+    "sudhāpānam is the stated subject",
+    "idaṃ proktam marks it as declared",
+    "itare madyapāyinaḥ contrast wine-drinkers"
+   ],
+   "inference": "the verse contrasts the declared nectar-drinking with ordinary wine-drinkers",
+   "uncertainties": [
+    "the exact referent of idaṃ is contextual"
+   ],
+   "plain_english": "This nectar-drinking is what is said; the others are wine-drinkers."
+  },
+  {
+   "verse": 622,
+   "rows": [
+    {
+     "surface": "pare",
+     "gloss": "others",
+     "grounds": "pronoun/adjective, nominative plural masculine",
+     "morph": "pron.nom.pl.m"
+    },
+    {
+     "surface": "layaṃ",
+     "gloss": "dissolution",
+     "grounds": "accusative singular masculine of laya",
+     "morph": "n.acc.sg.m"
+    },
+    {
+     "surface": "nayet",
+     "gloss": "should-lead",
+     "grounds": "optative of nī, third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "citaṃ",
+     "gloss": "mind",
+     "grounds": "accusative singular neuter of citta",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "palāśī",
+     "gloss": "Palāśī",
+     "grounds": "nominative singular masculine proper name",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun, nominative singular masculine",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "nigadyate",
+     "gloss": "is-called",
+     "grounds": "passive present of ni-gad, third singular",
+     "morph": "3.sg.pass.pres"
+    }
+   ],
+   "question": "Who is called Palāśī and what should he lead to dissolution?",
+   "premises": [
+    "pare are the others",
+    "layaṃ is the object of nayet",
+    "citaṃ is also accusative",
+    "palāśī saḥ nigadyate identifies him"
+   ],
+   "inference": "the verse names Palāśī as one who should lead mind to dissolution",
+   "uncertainties": [
+    "whether citaṃ is object of nayet or part of another phrase"
+   ],
+   "plain_english": "The others should lead mind to dissolution; he is called Palāśī."
+  },
+  {
+   "verse": 623,
+   "rows": [
+    {
+     "surface": "matsyāśī",
+     "gloss": "fish-eater",
+     "grounds": "compound matsya+āśin, nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun, nominative singular masculine",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "would-be",
+     "grounds": "optative of bhū, third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "devi",
+     "gloss": "goddess",
+     "grounds": "vocative singular feminine",
+     "morph": "n.voc.sg.f"
+    },
+    {
+     "surface": "śeṣāḥ",
+     "gloss": "rest",
+     "grounds": "nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    },
+    {
+     "surface": "syuḥ",
+     "gloss": "would-be",
+     "grounds": "optative of as, third plural active",
+     "morph": "3.pl.act.opt"
+    },
+    {
+     "surface": "prāṇihiṃsakāḥ",
+     "gloss": "living-being-harmers",
+     "grounds": "compound prāṇin+hiṃsaka, nominative plural masculine",
+     "morph": "n.nom.pl.m"
+    }
+   ],
+   "question": "Who is called fish-eater and who are called living-being-harmers?",
+   "premises": [
+    "matsyāśī saḥ bhaved identifies the fish-eater",
+    "devi is addressed",
+    "śeṣāḥ syuḥ prāṇihiṃsakāḥ describes the rest"
+   ],
+   "inference": "the verse distinguishes the fish-eater from the rest, who are living-being-harmers",
+   "uncertainties": [
+    "whether bhaved and syuḥ are both optative or one conditional"
+   ],
+   "plain_english": "He would be the fish-eater, O goddess; the rest would be living-being-harmers."
+  },
+  {
+   "verse": 624,
+   "rows": [
+    {
+     "surface": "śaktiṃ tāṃ",
+     "gloss": "that-śakti",
+     "grounds": "accusative singular feminine of śakti with demonstrative tām",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "sevayet",
+     "gloss": "should-serve",
+     "grounds": "optative of sev, third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun, nominative singular masculine",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "tu",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "pronoun, nominative singular masculine",
+     "morph": "pron.nom.sg.m"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "optative of bhū, third singular active",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "śaktisevakaḥ",
+     "gloss": "śakti-servant",
+     "grounds": "compound śakti+sevaka, nominative singular masculine",
+     "morph": "n.nom.sg.m"
+    }
+   ],
+   "question": "Who becomes a śakti-servant by serving that śakti?",
+   "premises": [
+    "śaktiṃ tāṃ is the object of sevayet",
+    "yaḥ tu introduces the agent",
+    "saḥ bhavet śaktisevakaḥ gives the result"
+   ],
+   "inference": "whoever serves that śakti becomes a śakti-servant",
+   "uncertainties": [
+    "whether sevayet is third singular optative or imperative-like"
+   ],
+   "plain_english": "Whoever should serve that śakti, he would become a śakti-servant."
+  }
+ ]
+}

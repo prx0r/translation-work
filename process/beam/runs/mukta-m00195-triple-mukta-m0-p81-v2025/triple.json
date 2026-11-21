@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p81",
+ "items": [
+  {
+   "verse": 2025,
+   "rows": [
+    {
+     "surface": "saṅkalpya",
+     "gloss": "having-resolved",
+     "grounds": "absolutive of sam-√kḷp expressing a prior act of formal intention",
+     "morph": "gerund.sam-√kḷp (indecl.)"
+    },
+    {
+     "surface": "pūjayitvā",
+     "gloss": "having-worshipped",
+     "grounds": "absolutive of √pūj expressing a subsequent prior act of worship",
+     "morph": "gerund.√pūj (indecl.)"
+    },
+    {
+     "surface": "gaṇeśvaram",
+     "gloss": "lord-of-attendants",
+     "grounds": "object of the act of worship; name of Gaṇeśa as lord of the gaṇas",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What preparatory ritual acts must be performed with respect to Gaṇeśvara in this procedure?",
+   "premises": [
+    "A formal resolution must be made first.",
+    "Worship must be performed following that resolution.",
+    "Gaṇeśvara is the designated object of this worship."
+   ],
+   "inference": "The procedure requires first resolving and then worshipping Gaṇeśvara as preparatory acts.",
+   "uncertainties": [
+    "The subsequent main action governed by these preparatory acts is not stated in this verse alone."
+   ],
+   "plain_english": "Having made a formal resolution and having worshipped Gaṇeśvara,"
+  }
+ ]
+}

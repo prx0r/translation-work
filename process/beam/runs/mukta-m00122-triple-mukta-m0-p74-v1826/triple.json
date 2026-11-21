@@ -1,0 +1,923 @@
+{
+ "song": "mukta-m0-p74",
+ "items": [
+  {
+   "verse": 1826,
+   "rows": [
+    {
+     "surface": "pūjādau",
+     "gloss": "at-beginning-of-worship",
+     "grounds": "compound locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative object",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root dā"
+    },
+    {
+     "surface": "ṣoḍaśārṇena",
+     "gloss": "with-sixteen-syllabled-mantra",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-Parvati",
+     "grounds": "vocative address",
+     "morph": "voc.sg.f"
+    }
+   ],
+   "question": "What offering should be given at the beginning of worship with the sixteen-syllabled mantra?",
+   "premises": [
+    "Worship begins with an offering.",
+    "The offering is given with the sixteen-syllabled mantra.",
+    "Parvati is addressed as recipient of instruction."
+   ],
+   "inference": "At worship's outset one should give an offering using the sixteen-syllabled mantra.",
+   "uncertainties": [
+    "Exact ritual object of bali is not specified."
+   ],
+   "plain_english": "At the beginning of worship, O Parvati, one should give an offering with the sixteen-syllabled mantra."
+  },
+  {
+   "verse": 1827,
+   "rows": [
+    {
+     "surface": "asyā+niṣphālanāt",
+     "gloss": "by-its-non-fulfillment",
+     "grounds": "ablative compound",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "citte",
+     "gloss": "in-mind",
+     "grounds": "locative",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "tattatvaṃ",
+     "gloss": "that-principle",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "svātmasāt+kṛtam",
+     "gloss": "made-one's-own",
+     "grounds": "compound participle",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What happens in the mind when the prescribed rite is not fulfilled?",
+   "premises": [
+    "Non-fulfillment is stated as cause.",
+    "The mind is the locus.",
+    "That principle becomes one's own."
+   ],
+   "inference": "Failure to perform the rite leaves that principle to be realized inwardly in the mind.",
+   "uncertainties": [
+    "Whether niṣphālana means non-performance or non-fruit."
+   ],
+   "plain_english": "By its non-fulfillment, that principle is made one's own in the mind."
+  },
+  {
+   "verse": 1828,
+   "rows": [
+    {
+     "surface": "prāṇapratiṣṭhā",
+     "gloss": "life-installation",
+     "grounds": "compound",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "abhiṣeka",
+     "gloss": "consecration",
+     "grounds": "nominative",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "udhāraṇam",
+     "gloss": "holding",
+     "grounds": "nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "arcanaṃ",
+     "gloss": "worship",
+     "grounds": "nominative",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "passive verb",
+     "morph": "3.sg.pass-pres + root vac"
+    }
+   ],
+   "question": "What rites are included under the named sequence of installation, consecration, holding, and worship?",
+   "premises": [
+    "Life-installation is named.",
+    "Consecration and holding are named.",
+    "Worship is also named."
+   ],
+   "inference": "The sequence names life-installation, consecration, holding, and worship as related rites.",
+   "uncertainties": [
+    "Whether ucyate refers to one collective term."
+   ],
+   "plain_english": "Life-installation, consecration, holding, and worship are thus called."
+  },
+  {
+   "verse": 1829,
+   "rows": [
+    {
+     "surface": "ṣoḍaśārṇena",
+     "gloss": "with-sixteen-syllabled-mantra",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tṛtīyapaṭala",
+     "gloss": "third-chapter",
+     "grounds": "compound",
+     "morph": "abl/inst.sg.n"
+    },
+    {
+     "surface": "avasānoktena",
+     "gloss": "end-stated",
+     "grounds": "compound adjective",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "mantreṇa",
+     "gloss": "mantra",
+     "grounds": "instrumental",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "iti+śeṣaḥ",
+     "gloss": "etc-remainder",
+     "grounds": "fused sandhi token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which mantra is used according to the end of the third chapter?",
+   "premises": [
+    "The sixteen-syllabled mantra is specified.",
+    "The third chapter's end is referenced.",
+    "The remainder is indicated."
+   ],
+   "inference": "The rite uses the sixteen-syllabled mantra as stated at the end of the third chapter.",
+   "uncertainties": [
+    "Exact syntactic relation of tṛtīyapaṭala."
+   ],
+   "plain_english": "With the sixteen-syllabled mantra, as stated at the end of the third chapter, etc."
+  },
+  {
+   "verse": 1830,
+   "rows": [
+    {
+     "surface": "caturddaśapaṭalaṃ",
+     "gloss": "fourteenth-chapter",
+     "grounds": "accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "paripūrṇaṃ",
+     "gloss": "complete",
+     "grounds": "adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "parāmṛṣṭam",
+     "gloss": "fully-examined",
+     "grounds": "participle",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "What is the status of the fourteenth chapter after examination?",
+   "premises": [
+    "The fourteenth chapter is named.",
+    "It is called complete.",
+    "It is fully examined."
+   ],
+   "inference": "The fourteenth chapter is declared complete and fully examined.",
+   "uncertainties": [
+    "Whether parāmṛṣṭam means reviewed or touched."
+   ],
+   "plain_english": "The fourteenth chapter is complete and fully examined."
+  },
+  {
+   "verse": 1831,
+   "rows": [
+    {
+     "surface": "vidyoktā",
+     "gloss": "by-vidya",
+     "grounds": "compound adjective",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "kulasundaryāḥ",
+     "gloss": "Kulasundari",
+     "grounds": "genitive",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "tasyāḥ",
+     "gloss": "her",
+     "grounds": "genitive pronoun",
+     "morph": "gen.sg.f"
+    },
+    {
+     "surface": "pūjāvidhiṃ",
+     "gloss": "worship-rite",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb",
+     "morph": "2.sg.act-imp + root śru"
+    }
+   ],
+   "question": "Whose worship rite is being requested to be heard?",
+   "premises": [
+    "Vidya speaks or is stated.",
+    "Kulasundari is named.",
+    "Her worship rite is the object."
+   ],
+   "inference": "The listener is asked to hear Kulasundari's worship rite as stated by Vidya.",
+   "uncertainties": [
+    "Whether vidyoktā modifies rite or speaker."
+   ],
+   "plain_english": "Hear the worship rite of Kulasundari, as stated by Vidya."
+  },
+  {
+   "verse": 1832,
+   "rows": [
+    {
+     "surface": "tatsādhanaṃ",
+     "gloss": "its-accomplishment",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "rūpabhedān",
+     "gloss": "forms",
+     "grounds": "accusative plural",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "yāgāṃśca",
+     "gloss": "sacrifices",
+     "grounds": "accusative plural with ca",
+     "morph": "acc.pl.m"
+    },
+    {
+     "surface": "vākpradān",
+     "gloss": "speech-gifts",
+     "grounds": "accusative compound",
+     "morph": "acc.pl.n"
+    }
+   ],
+   "question": "What items are listed alongside the accomplishment of that rite?",
+   "premises": [
+    "Its accomplishment is named.",
+    "Forms are named.",
+    "Sacrifices and speech-gifts are named."
+   ],
+   "inference": "The rite's accomplishment includes forms, sacrifices, and speech-gifts.",
+   "uncertainties": [
+    "Whether tatsādhanaṃ is object or topic."
+   ],
+   "plain_english": "Its accomplishment, forms, sacrifices, and speech-gifts."
+  },
+  {
+   "verse": 1833,
+   "rows": [
+    {
+     "surface": "lohitāṃśuka",
+     "gloss": "red-garment",
+     "grounds": "compound",
+     "morph": "nom/acc.sg.n"
+    },
+    {
+     "surface": "bhūśā",
+     "gloss": "ornament",
+     "grounds": "nominative",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "sṛglepanāṃ",
+     "gloss": "blood-smearing",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ṣaṇmukhāmbujām",
+     "gloss": "six-faced-lotus",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What visual attributes are assigned to the six-faced lotus goddess?",
+   "premises": [
+    "Red garment is named.",
+    "Ornament is named.",
+    "Blood-smearing and six-faced lotus are named."
+   ],
+   "inference": "The goddess is described with red garment, ornament, blood-smearing, and six-faced lotus.",
+   "uncertainties": [
+    "Exact case relation among descriptors."
+   ],
+   "plain_english": "Red-garmented, ornamented, blood-smeared, six-faced lotus."
+  },
+  {
+   "verse": 1834,
+   "rows": [
+    {
+     "surface": "anarghyaratnaghaṭita",
+     "gloss": "priceless-gem-set",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "māṇikyamukuṭojjvalām",
+     "gloss": "ruby-crown-shining",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "How is the goddess's crown described?",
+   "premises": [
+    "Priceless gems are set.",
+    "The crown shines with ruby.",
+    "The description is adjectival."
+   ],
+   "inference": "The goddess wears a shining ruby crown set with priceless gems.",
+   "uncertainties": [
+    "Whether both adjectives modify the same noun."
+   ],
+   "plain_english": "Set with priceless gems, shining with a ruby crown."
+  },
+  {
+   "verse": 1835,
+   "rows": [
+    {
+     "surface": "raktastabakasambhinna",
+     "gloss": "red-cluster-broken",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "lasadvakṣasthalāṃ",
+     "gloss": "shining-breast",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "śubhām",
+     "gloss": "auspicious",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What bodily and auspicious qualities are attributed to the goddess?",
+   "premises": [
+    "Red cluster is broken or mingled.",
+    "The breast shines.",
+    "She is auspicious."
+   ],
+   "inference": "The goddess has a shining breast and auspicious form with red-cluster imagery.",
+   "uncertainties": [
+    "Meaning of sambhinna in context."
+   ],
+   "plain_english": "With red clusters broken, shining breast, auspicious."
+  },
+  {
+   "verse": 1836,
+   "rows": [
+    {
+     "surface": "bhujairdvādaśabhiryuktāṃ",
+     "gloss": "with-twelve-arms",
+     "grounds": "compound participle",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "sarveṣāṃ",
+     "gloss": "of-all",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "sarvavāṅmayīm",
+     "gloss": "all-speech-embodied",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What power of speech is attributed to the twelve-armed goddess?",
+   "premises": [
+    "She has twelve arms.",
+    "She belongs to all.",
+    "She embodies all speech."
+   ],
+   "inference": "The twelve-armed goddess embodies all speech for all.",
+   "uncertainties": [
+    "Whether sarveṣāṃ modifies devotees or beings."
+   ],
+   "plain_english": "Endowed with twelve arms, of all, embodying all speech."
+  },
+  {
+   "verse": 1837,
+   "rows": [
+    {
+     "surface": "vasupūrṇaṃ",
+     "gloss": "vessel-full-of-wealth",
+     "grounds": "compound adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saccaṣakaṃ",
+     "gloss": "good-cup",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "luṅgivyākhyānam",
+     "gloss": "citron-explained",
+     "grounds": "compound",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "mudrikām",
+     "gloss": "seal",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "What ritual objects are named in this description?",
+   "premises": [
+    "A wealth-filled vessel is named.",
+    "A good cup is named.",
+    "Citron explanation and seal are named."
+   ],
+   "inference": "The description lists vessel, cup, citron explanation, and seal.",
+   "uncertainties": [
+    "Whether luṅgivyākhyānam is an object or gloss."
+   ],
+   "plain_english": "Wealth-filled vessel, good cup, citron-explained, seal."
+  },
+  {
+   "verse": 1838,
+   "rows": [
+    {
+     "surface": "vidyādevatayoḥ",
+     "gloss": "of-vidya-and-deity",
+     "grounds": "genitive dual compound",
+     "morph": "gen.du.f"
+    }
+   ],
+   "question": "Whose paired relation is indicated by this genitive dual?",
+   "premises": [
+    "Vidya is named.",
+    "Deity is named.",
+    "The dual genitive links them."
+   ],
+   "inference": "The phrase refers to the pair of Vidya and deity.",
+   "uncertainties": [
+    "Exact ritual function of the pair."
+   ],
+   "plain_english": "Of Vidya and deity."
+  },
+  {
+   "verse": 1839,
+   "rows": [
+    {
+     "surface": "haimīṃ",
+     "gloss": "golden",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "lekhanīṃ",
+     "gloss": "pen",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ratnamālāṃ",
+     "gloss": "gem-garland",
+     "grounds": "accusative",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kambuvaraṃ",
+     "gloss": "conch-best",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "bhujaiḥ",
+     "gloss": "with-arms",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "What implements are held with the arms?",
+   "premises": [
+    "Golden pen is named.",
+    "Gem garland is named.",
+    "Best conch is named."
+   ],
+   "inference": "The arms hold golden pen, gem garland, and best conch.",
+   "uncertainties": [
+    "Whether haimīṃ modifies pen only."
+   ],
+   "plain_english": "Golden pen, gem garland, and best conch, with arms."
+  },
+  {
+   "verse": 1840,
+   "rows": [
+    {
+     "surface": "yakṣarākṣasadevarṣisiddhavidyādharādibhiḥ",
+     "gloss": "by-yaksha-rakshasa-deva-rishi-siddha-vidyadhara-etc",
+     "grounds": "instrumental compound list",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "By which classes of beings is the rite performed or attended?",
+   "premises": [
+    "Yakshas are named.",
+    "Rakshasas, devas, rishis, siddhas, vidyadharas are named.",
+    "Etcetera indicates more classes."
+   ],
+   "inference": "The rite involves yakshas, rakshasas, devas, rishis, siddhas, vidyadharas, and others.",
+   "uncertainties": [
+    "Whether instrumental means by or with."
+   ],
+   "plain_english": "By yakshas, rakshasas, devas, rishis, siddhas, vidyadharas, and others."
+  },
+  {
+   "verse": 1841,
+   "rows": [
+    {
+     "surface": "sitāṃ",
+     "gloss": "white",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "kevalavāksiddhyai",
+     "gloss": "for-pure-speech-accomplishment",
+     "grounds": "dative compound",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "lakṣmyai",
+     "gloss": "to-Lakshmi",
+     "grounds": "dative",
+     "morph": "dat.sg.f"
+    },
+    {
+     "surface": "hemaprabhāmapi",
+     "gloss": "golden-radiance",
+     "grounds": "accusative compound",
+     "morph": "acc.sg.f"
+    }
+   ],
+   "question": "For what purpose is the white Lakshmi with golden radiance remembered?",
+   "premises": [
+    "White form is named.",
+    "Pure speech accomplishment is the purpose.",
+    "Lakshmi and golden radiance are named."
+   ],
+   "inference": "The white, golden-radiant Lakshmi is remembered for pure speech accomplishment.",
+   "uncertainties": [
+    "Whether sitāṃ modifies Lakshmi."
+   ],
+   "plain_english": "White, for pure speech accomplishment, to Lakshmi, golden-radiant."
+  },
+  {
+   "verse": 1842,
+   "rows": [
+    {
+     "surface": "nīlāṃ",
+     "gloss": "blue",
+     "grounds": "adjective",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūkikaraṇe",
+     "gloss": "for-making-mute",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "should-remember",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root smṛ"
+    },
+    {
+     "surface": "tattadapekṣayā",
+     "gloss": "according-to-need",
+     "grounds": "ablative/ instrumental compound",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When should the blue form be remembered?",
+   "premises": [
+    "Blue form is named.",
+    "Making mute is the purpose.",
+    "Remembering is enjoined according to need."
+   ],
+   "inference": "The blue form should be remembered for making mute, according to need.",
+   "uncertainties": [
+    "Whether nīlāṃ refers to Lakshmi or another deity."
+   ],
+   "plain_english": "Blue, and for making mute, one should remember, according to need."
+  },
+  {
+   "verse": 1843,
+   "rows": [
+    {
+     "surface": "ādimadhyāvasāneṣu",
+     "gloss": "in-beginning-middle-end",
+     "grounds": "locative compound",
+     "morph": "loc.pl.n"
+    },
+    {
+     "surface": "pūjājapavidhau",
+     "gloss": "worship-and-japa-rite",
+     "grounds": "locative compound",
+     "morph": "loc.sg.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "When and in what order are worship and japa performed?",
+   "premises": [
+    "Beginning, middle, and end are named.",
+    "Worship and japa rite is named.",
+    "Order is specified."
+   ],
+   "inference": "Worship and japa are performed in order at beginning, middle, and end.",
+   "uncertainties": [
+    "Whether kramāt modifies all three stages."
+   ],
+   "plain_english": "In beginning, middle, and end, in the worship and japa rite, in order."
+  },
+  {
+   "verse": 1844,
+   "rows": [
+    {
+     "surface": "kuryāt",
+     "gloss": "should-do",
+     "grounds": "optative verb",
+     "morph": "3.sg.act-opt + root kṛ"
+    },
+    {
+     "surface": "karāṅgavaktrāṇāṃ",
+     "gloss": "of-hands-limbs-faces",
+     "grounds": "genitive compound",
+     "morph": "gen.pl.n"
+    },
+    {
+     "surface": "nyāsaṃ",
+     "gloss": "nyasa",
+     "grounds": "accusative",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "proktaṃ+yathāvidhi",
+     "gloss": "as-prescribed",
+     "grounds": "fused sandhi token",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What nyasa should be done for hands, limbs, and faces?",
+   "premises": [
+    "Doing is enjoined.",
+    "Hands, limbs, and faces are named.",
+    "Nyasa is the object."
+   ],
+   "inference": "One should perform the prescribed nyasa of hands, limbs, and faces.",
+   "uncertainties": [
+    "Whether proktaṃ+yathāvidhi is one fused token."
+   ],
+   "plain_english": "One should do nyasa of hands, limbs, and faces, as prescribed."
+  },
+  {
+   "verse": 1845,
+   "rows": [
+    {
+     "surface": "vyādhyādikleśāya",
+     "gloss": "for-disease-and-other-afflictions",
+     "grounds": "dative compound",
+     "morph": "dat.sg.m"
+    },
+    {
+     "surface": "tattadapekṣayā",
+     "gloss": "according-to-that-need",
+     "grounds": "ablative/ instrumental compound",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tattatprayogānuguṇyena",
+     "gloss": "according-to-that-rite",
+     "grounds": "instrumental compound",
+     "morph": "inst.sg.n"
+    }
+   ],
+   "question": "How are rites selected for disease and other afflictions?",
+   "premises": [
+    "Disease and afflictions are the purpose.",
+    "Need is the criterion.",
+    "Rite suitability is the standard."
+   ],
+   "inference": "Rites are chosen according to need and suitability for disease and afflictions.",
+   "uncertainties": [
+    "Whether tattadapekṣayā and tattatprayogānuguṇyena are parallel."
+   ],
+   "plain_english": "For disease and other afflictions, according to that need and that rite."
+  },
+  {
+   "verse": 1846,
+   "rows": [
+    {
+     "surface": "nyāsakālāḥ",
+     "gloss": "nyasa-times",
+     "grounds": "nominative compound",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "sarvasādhāraṇāḥ",
+     "gloss": "common-to-all",
+     "grounds": "adjective",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "as-in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the status of nyasa times?",
+   "premises": [
+    "Nyasa times are named.",
+    "They are common to all.",
+    "Order is repeated."
+   ],
+   "inference": "Nyasa times are common to all and follow order.",
+   "uncertainties": [
+    "Whether kramāt and yathākramam are redundant."
+   ],
+   "plain_english": "Nyasa times are common to all, in order, as in order."
+  },
+  {
+   "verse": 1847,
+   "rows": [
+    {
+     "surface": "śucinatyantarasthaistaistadātmasu",
+     "gloss": "by-pure-inner-dwellers",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "yathākramam",
+     "gloss": "in-order",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "By whom and in what order is the rite performed?",
+   "premises": [
+    "Pure inner dwellers are agents.",
+    "Order is specified.",
+    "The phrase is instrumental."
+   ],
+   "inference": "Pure inner dwellers perform the rite in order.",
+   "uncertainties": [
+    "Exact parsing of the long compound."
+   ],
+   "plain_english": "By pure inner dwellers, in order."
+  },
+  {
+   "verse": 1848,
+   "rows": [
+    {
+     "surface": "tṛtīyaṃ",
+     "gloss": "third",
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "śrotracibuke",
+     "gloss": "ear-chin",
+     "grounds": "locative compound",
+     "morph": "loc.du.n"
+    },
+    {
+     "surface": "caturthaṃ",
+     "gloss": "fourth",
+     "grounds": "accusative adjective",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ghrāṇatāluṣu",
+     "gloss": "nose-palate",
+     "grounds": "locative compound",
+     "morph": "loc.pl.n"
+    }
+   ],
+   "question": "Where are the third and fourth items placed?",
+   "premises": [
+    "Third is named.",
+    "Ear and chin are named.",
+    "Fourth, nose, and palate are named."
+   ],
+   "inference": "The third is at ear and chin, the fourth at nose and palate.",
+   "uncertainties": [
+    "Whether these are nyasa placements."
+   ],
+   "plain_english": "Third at ear and chin, fourth at nose and palate."
+  },
+  {
+   "verse": 1849,
+   "rows": [
+    {
+     "surface": "mūlamadhyāgratonyasyennavadhā",
+     "gloss": "root-middle-tip",
+     "grounds": "fused sandhi token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūlavarṇakaiḥ",
+     "gloss": "with-root-letters",
+     "grounds": "instrumental compound",
+     "morph": "inst.pl.m"
+    }
+   ],
+   "question": "How is the ninefold placement performed with root letters?",
+   "premises": [
+    "Root, middle, and tip are named.",
+    "Ninefold placement is indicated.",
+    "Root letters are instrumental."
+   ],
+   "inference": "The ninefold placement is done at root, middle, and tip with root letters.",
+   "uncertainties": [
+    "Exact parsing of the fused token."
+   ],
+   "plain_english": "Root, middle, tip, ninefold placement, with root letters."
+  }
+ ]
+}

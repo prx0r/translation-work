@@ -1,0 +1,771 @@
+{
+ "song": "mukta-m0-p47",
+ "items": [
+  {
+   "verse": 1151,
+   "rows": [
+    {
+     "surface": "karpūrāmodaniḥśvāsā",
+     "gloss": "camphor-fragrance-breath",
+     "grounds": "bahuvrīhi compound describing her breath as fragrant with camphor",
+     "morph": "f.nom.sg (bahuvrīhi: karpūra+āmoda+niḥśvāsa)"
+    }
+   ],
+   "question": "What quality characterizes the breath of this goddess?",
+   "premises": [
+    "The goddess is described by her breath",
+    "Her breath carries camphor fragrance"
+   ],
+   "inference": "Her breath is naturally perfumed with the fragrance of camphor",
+   "uncertainties": [],
+   "plain_english": "Her breath is fragrant with camphor."
+  },
+  {
+   "verse": 1152,
+   "rows": [
+    {
+     "surface": "karpūrāmodaniḥśvāsā",
+     "gloss": "camphor-fragrance-breath",
+     "grounds": "bahuvrīhi compound describing her breath as fragrant with camphor",
+     "morph": "f.nom.sg (bahuvrīhi: karpūra+āmoda+niḥśvāsa)"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "she-this",
+     "grounds": "demonstrative pronoun identifying the goddess",
+     "morph": "f.nom.sg (sandhi: sā+iyam)"
+    },
+    {
+     "surface": "śvasanapūjitā",
+     "gloss": "by-breathing-worshipped",
+     "grounds": "past participle indicating worship performed through breathing",
+     "morph": "f.nom.sg (tatpuruṣa: śvasana+pūjita, past participle pūj)"
+    }
+   ],
+   "question": "How is this camphor-breathing goddess honored in worship?",
+   "premises": [
+    "This goddess has camphor-fragrant breath",
+    "She is worshipped through breathing"
+   ],
+   "inference": "This camphor-breathing goddess is honored by the act of breathing",
+   "uncertainties": [],
+   "plain_english": "She, whose breath is fragrant with camphor, is worshipped through breathing."
+  },
+  {
+   "verse": 1153,
+   "rows": [
+    {
+     "surface": "padminī",
+     "gloss": "lotus-woman",
+     "grounds": "epithet naming the goddess as lotus-like or associated with lotuses",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What epithet identifies the goddess as lotus-associated?",
+   "premises": [
+    "The goddess is named directly",
+    "The name evokes the lotus"
+   ],
+   "inference": "The goddess is identified by the epithet Padminī",
+   "uncertainties": [],
+   "plain_english": "She is Padminī, the lotus woman."
+  },
+  {
+   "verse": 1154,
+   "rows": [
+    {
+     "surface": "saṃdidṛkṣuriva",
+     "gloss": "desiring-to-see-as-if",
+     "grounds": "desiderative adjective with comparative particle indicating gentle movement as if wishing to see",
+     "morph": "m.nom.sg (desiderative of dṛś + iva, indecl. particle)"
+    },
+    {
+     "surface": "mandamandagaḥ",
+     "gloss": "slowly-slowly-going",
+     "grounds": "compound describing very slow movement",
+     "morph": "m.nom.sg (bahuvrīhi: manda+manda+ga)"
+    },
+    {
+     "surface": "padminīti",
+     "gloss": "lotus-woman-thus",
+     "grounds": "name followed by quotative particle",
+     "morph": "f.nom.sg + (indecl. iti)"
+    },
+    {
+     "surface": "gaditā",
+     "gloss": "spoken",
+     "grounds": "past participle indicating she is called or described",
+     "morph": "f.nom.sg (past participle gad)"
+    },
+    {
+     "surface": "budhaiḥ",
+     "gloss": "by-the-wise",
+     "grounds": "agent of the naming",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Why do the wise call this goddess Padminī?",
+   "premises": [
+    "She moves very slowly as if desiring to see",
+    "The wise speak of her as Padminī"
+   ],
+   "inference": "The wise call her Padminī because of her gentle, seeking movement",
+   "uncertainties": [],
+   "plain_english": "Moving very slowly, as if wishing to see, this goddess is called Padminī by the wise."
+  },
+  {
+   "verse": 1155,
+   "rows": [
+    {
+     "surface": "padmamandirā",
+     "gloss": "lotus-abode",
+     "grounds": "epithet naming the goddess as dwelling in a lotus",
+     "morph": "f.nom.sg (bahuvrīhi: padma+mandira)"
+    }
+   ],
+   "question": "What epithet identifies the goddess as dwelling in a lotus?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates a lotus as her abode"
+   ],
+   "inference": "The goddess is identified by the epithet Padmamandirā",
+   "uncertainties": [],
+   "plain_english": "She is Padmamandirā, whose abode is the lotus."
+  },
+  {
+   "verse": 1156,
+   "rows": [
+    {
+     "surface": "tattvavaimi",
+     "gloss": "truth-knower",
+     "grounds": "one who knows the true principles",
+     "morph": "m.nom.sg (tatpuruṣa: tattva+vedin)"
+    },
+    {
+     "surface": "kila",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padmamandirāt",
+     "gloss": "from-lotus-abode",
+     "grounds": "source from which distinction arises",
+     "morph": "n.abl.sg (tatpuruṣa: padma+mandira)"
+    },
+    {
+     "surface": "dṛṣṭidṛṣṭijanitā",
+     "gloss": "sight-by-sight-produced",
+     "grounds": "compound indicating distinction produced by seeing sight",
+     "morph": "f.nom.sg (tatpuruṣa: dṛṣṭi+dṛṣṭi+janita, past participle jan)"
+    },
+    {
+     "surface": "vibhaktatā",
+     "gloss": "distinction",
+     "grounds": "state of differentiation or division",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What produces distinction according to the knower of truth?",
+   "premises": [
+    "A knower of truth makes a claim",
+    "Distinction is produced by sight seeing sight from the lotus abode"
+   ],
+   "inference": "For the knower of truth, distinction arises from sight perceiving sight in the lotus abode",
+   "uncertainties": [
+    "The precise doctrinal sense of dṛṣṭidṛṣṭijanitā is interpretively dense"
+   ],
+   "plain_english": "Indeed, the knower of truth says that distinction is produced by sight seeing sight from the lotus abode."
+  },
+  {
+   "verse": 1157,
+   "rows": [
+    {
+     "surface": "khaḍginī",
+     "gloss": "sword-bearer",
+     "grounds": "epithet naming the goddess as bearing a sword",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What epithet identifies the goddess as bearing a sword?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates possession of a sword"
+   ],
+   "inference": "The goddess is identified by the epithet Khaḍginī",
+   "uncertainties": [],
+   "plain_english": "She is Khaḍginī, the sword-bearer."
+  },
+  {
+   "verse": 1158,
+   "rows": [
+    {
+     "surface": "palāyitāḥ",
+     "gloss": "fled",
+     "grounds": "past participle describing those who ran away",
+     "morph": "m.nom.pl (past participle palāy)"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "demonstrative pronoun referring to enemies or obstacles",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhiyeva",
+     "gloss": "by-fear-as-if",
+     "grounds": "fear with comparative particle indicating the cause of flight",
+     "morph": "f.inst.sg + (indecl. iva, sandhi: bhiyā+iva)"
+    },
+    {
+     "surface": "mṛtyuṃ",
+     "gloss": "death",
+     "grounds": "object representing the ultimate threat",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "khaḍginīti",
+     "gloss": "sword-bearer-thus",
+     "grounds": "name followed by quotative particle",
+     "morph": "f.nom.sg + (indecl. iti)"
+    },
+    {
+     "surface": "prathitā",
+     "gloss": "celebrated",
+     "grounds": "past participle indicating widespread renown",
+     "morph": "f.nom.sg (past participle prath)"
+    },
+    {
+     "surface": "trilokyām",
+     "gloss": "in-three-worlds",
+     "grounds": "location of her fame",
+     "morph": "f.loc.sg (tatpuruṣa: tri+loka)"
+    }
+   ],
+   "question": "Why is the goddess celebrated as Khaḍginī in the three worlds?",
+   "premises": [
+    "Even they fled as if from fear of death",
+    "She is renowned as Khaḍginī in the three worlds"
+   ],
+   "inference": "Her fearsome power causes foes to flee, making her celebrated as Khaḍginī throughout the three worlds",
+   "uncertainties": [],
+   "plain_english": "They fled as if from fear of death itself; therefore she is celebrated in the three worlds as Khaḍginī."
+  },
+  {
+   "verse": 1159,
+   "rows": [
+    {
+     "surface": "cakrahastā",
+     "gloss": "discus-in-hand",
+     "grounds": "epithet naming the goddess as holding a discus",
+     "morph": "f.nom.sg (bahuvrīhi: cakra+hasta)"
+    }
+   ],
+   "question": "What epithet identifies the goddess as holding a discus?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates a discus in her hand"
+   ],
+   "inference": "The goddess is identified by the epithet Cakrahastā",
+   "uncertainties": [],
+   "plain_english": "She is Cakrahastā, who holds a discus in her hand."
+  },
+  {
+   "verse": 1160,
+   "rows": [
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "may-be",
+     "grounds": "optative expressing possibility",
+     "morph": "3.sg.optative-active (as)"
+    },
+    {
+     "surface": "prasannā",
+     "gloss": "pleased",
+     "grounds": "state of grace or favor",
+     "morph": "f.nom.sg (past participle pra-sad)"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cakrahastā",
+     "gloss": "discus-in-hand",
+     "grounds": "epithet of the goddess whose favor is in question",
+     "morph": "f.nom.sg (bahuvrīhi: cakra+hasta)"
+    }
+   ],
+   "question": "What consequence follows if the discus-bearing goddess is not pleased?",
+   "premises": [
+    "The goddess holds a discus",
+    "Her being pleased is presented as a condition"
+   ],
+   "inference": "If Cakrahastā is not pleased, a favorable outcome cannot occur",
+   "uncertainties": [
+    "The apodosis is implied rather than explicitly stated"
+   ],
+   "plain_english": "If the discus-bearing goddess is not pleased, then it cannot be well."
+  },
+  {
+   "verse": 1161,
+   "rows": [
+    {
+     "surface": "bhusuṇḍī",
+     "gloss": "mace-bearer",
+     "grounds": "epithet naming the goddess as bearing a bhusuṇḍī weapon",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What epithet identifies the goddess as bearing a bhusuṇḍī weapon?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates possession of a bhusuṇḍī"
+   ],
+   "inference": "The goddess is identified by the epithet Bhusuṇḍī",
+   "uncertainties": [],
+   "plain_english": "She is Bhusuṇḍī, the bearer of the bhusuṇḍī."
+  },
+  {
+   "verse": 1162,
+   "rows": [
+    {
+     "surface": "cidbhuṇḍim",
+     "gloss": "consciousness-mace",
+     "grounds": "compound metaphorically naming a mace of consciousness",
+     "morph": "f.acc.sg (tatpuruṣa: cit+bhuṇḍi)"
+    },
+    {
+     "surface": "eṣā",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dadatāṃ",
+     "gloss": "to-givers",
+     "grounds": "recipients who give or offer devotion",
+     "morph": "m.dat.pl (present participle dā)"
+    },
+    {
+     "surface": "bhusuṇḍī",
+     "gloss": "mace-bearer",
+     "grounds": "epithet of the goddess who bestows the mace of consciousness",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What does the goddess Bhusuṇḍī bestow upon her devotees?",
+   "premises": [
+    "This goddess is called Bhusuṇḍī",
+    "She gives the mace of consciousness to those who give"
+   ],
+   "inference": "Bhusuṇḍī bestows the mace of consciousness upon her devotees",
+   "uncertainties": [
+    "The sense of dadatāṃ as givers or recipients is contextually flexible"
+   ],
+   "plain_english": "This Bhusuṇḍī gives the mace of consciousness to those who offer themselves."
+  },
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "parighāyudhā",
+     "gloss": "iron-club-weaponed",
+     "grounds": "epithet naming the goddess as armed with an iron club",
+     "morph": "f.nom.sg (bahuvrīhi: parigha+āyudha)"
+    }
+   ],
+   "question": "What epithet identifies the goddess as armed with an iron club?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates an iron club as her weapon"
+   ],
+   "inference": "The goddess is identified by the epithet Parighāyudhā",
+   "uncertainties": [],
+   "plain_english": "She is Parighāyudhā, armed with an iron club."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "vimohaparighaṃ",
+     "gloss": "delusion-iron-club",
+     "grounds": "compound metaphorically naming delusion as an iron club",
+     "morph": "m.acc.sg (tatpuruṣa: vimoha+parigha)"
+    },
+    {
+     "surface": "seyaṃ",
+     "gloss": "she-this",
+     "grounds": "demonstrative pronoun identifying the goddess",
+     "morph": "f.nom.sg (sandhi: sā+iyam)"
+    },
+    {
+     "surface": "kīrtitā",
+     "gloss": "proclaimed",
+     "grounds": "past participle indicating she is declared or named",
+     "morph": "f.nom.sg (past participle kīrt)"
+    },
+    {
+     "surface": "parighāyudhā",
+     "gloss": "iron-club-weaponed",
+     "grounds": "epithet indicating she wields the club against delusion",
+     "morph": "f.nom.sg (bahuvrīhi: parigha+āyudha)"
+    }
+   ],
+   "question": "How does the goddess Parighāyudhā confront delusion?",
+   "premises": [
+    "She is proclaimed as Parighāyudhā",
+    "She is associated with the iron club of delusion"
+   ],
+   "inference": "As Parighāyudhā, she is proclaimed to wield power against the club of delusion",
+   "uncertainties": [
+    "Whether vimohaparighaṃ is the object she strikes or the weapon she bears is ambiguous"
+   ],
+   "plain_english": "She is proclaimed as Parighāyudhā, the one who deals with the iron club of delusion."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "cāpinī",
+     "gloss": "bow-bearer",
+     "grounds": "epithet naming the goddess as bearing a bow",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What epithet identifies the goddess as bearing a bow?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates possession of a bow"
+   ],
+   "inference": "The goddess is identified by the epithet Cāpinī",
+   "uncertainties": [],
+   "plain_english": "She is Cāpinī, the bow-bearer."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "kṛpākarī",
+     "gloss": "compassion-maker",
+     "grounds": "epithet describing her as one who creates compassion",
+     "morph": "f.nom.sg (tatpuruṣa: kṛpā+karī)"
+    },
+    {
+     "surface": "mohakṛtaṃ",
+     "gloss": "delusion-made",
+     "grounds": "that which is produced by delusion",
+     "morph": "n.acc.sg (tatpuruṣa: moha+kṛta, past participle kṛ)"
+    },
+    {
+     "surface": "vilumpa",
+     "gloss": "pluck-away",
+     "grounds": "imperative requesting removal of delusion's effects",
+     "morph": "2.sg.imperative-active (vi-lup)"
+    }
+   ],
+   "question": "What action is requested of the compassionate bow-bearing goddess?",
+   "premises": [
+    "The goddess is a maker of compassion",
+    "Delusion has produced harmful effects"
+   ],
+   "inference": "The compassionate goddess is asked to pluck away what delusion has made",
+   "uncertainties": [],
+   "plain_english": "O compassionate one, pluck away what delusion has created."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "pāśahastā",
+     "gloss": "noose-in-hand",
+     "grounds": "epithet naming the goddess as holding a noose",
+     "morph": "f.nom.sg (bahuvrīhi: pāśa+hasta)"
+    }
+   ],
+   "question": "What epithet identifies the goddess as holding a noose?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates a noose in her hand"
+   ],
+   "inference": "The goddess is identified by the epithet Pāśahastā",
+   "uncertainties": [],
+   "plain_english": "She is Pāśahastā, who holds a noose in her hand."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "dayāṃ",
+     "gloss": "compassion",
+     "grounds": "object of obtaining, her grace",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "yadīyāṃ",
+     "gloss": "whose",
+     "grounds": "relative adjective referring to her compassion",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "parilabhya",
+     "gloss": "having-obtained",
+     "grounds": "absolutive indicating prior attainment of her compassion",
+     "morph": "(absolutive pari-labh)"
+    },
+    {
+     "surface": "deyāt",
+     "gloss": "may-give",
+     "grounds": "optative expressing a wish or possibility",
+     "morph": "3.sg.optative-active (dā)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pāśahastā",
+     "gloss": "noose-in-hand",
+     "grounds": "epithet of the goddess who can destroy bondage",
+     "morph": "f.nom.sg (bahuvrīhi: pāśa+hasta)"
+    },
+    {
+     "surface": "bhavapāśanāśam",
+     "gloss": "worldly-bondage-destruction",
+     "grounds": "compound naming the destruction of the noose of worldly existence",
+     "morph": "m.acc.sg (tatpuruṣa: bhava+pāśa+nāśa)"
+    }
+   ],
+   "question": "What result may follow from obtaining the compassion of Pāśahastā?",
+   "premises": [
+    "One may obtain her compassion",
+    "She is the noose-bearing goddess"
+   ],
+   "inference": "Having obtained her compassion, Pāśahastā may grant the destruction of worldly bondage",
+   "uncertainties": [],
+   "plain_english": "Having obtained her compassion, may she, Pāśahastā, grant the destruction of the bonds of worldly existence."
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "triśūlavaradhāriṇī",
+     "gloss": "trident-boon-holder",
+     "grounds": "epithet naming the goddess as holding a trident and granting boons",
+     "morph": "f.nom.sg (tatpuruṣa: triśūla+vara+dhāriṇī)"
+    }
+   ],
+   "question": "What epithet identifies the goddess as holding a trident and boons?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates she holds a trident and grants boons"
+   ],
+   "inference": "The goddess is identified by the epithet Triśūlavaradhāriṇī",
+   "uncertainties": [],
+   "plain_english": "She is Triśūlavaradhāriṇī, who holds a trident and grants boons."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "śrīkāriṇī",
+     "gloss": "prosperity-maker",
+     "grounds": "epithet describing her as one who creates prosperity",
+     "morph": "f.nom.sg (tatpuruṣa: śrī+kāriṇī)"
+    },
+    {
+     "surface": "janasya",
+     "gloss": "of-people",
+     "grounds": "those for whom prosperity is wished",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "imperative expressing a benediction",
+     "morph": "3.sg.imperative-active (as)"
+    },
+    {
+     "surface": "triśūlavaradhāriṇī",
+     "gloss": "trident-boon-holder",
+     "grounds": "epithet of the goddess invoked for prosperity",
+     "morph": "f.nom.sg (tatpuruṣa: triśūla+vara+dhāriṇī)"
+    }
+   ],
+   "question": "What blessing is invoked from Triśūlavaradhāriṇī for the people?",
+   "premises": [
+    "She is a maker of prosperity",
+    "A benediction is expressed for the people"
+   ],
+   "inference": "May Triśūlavaradhāriṇī, the maker of prosperity, be auspicious for the people",
+   "uncertainties": [],
+   "plain_english": "May Triśūlavaradhāriṇī, who brings prosperity, be a blessing for the people."
+  },
+  {
+   "verse": 1171,
+   "rows": [
+    {
+     "surface": "subāṇā",
+     "gloss": "good-arrowed",
+     "grounds": "epithet naming the goddess as bearing excellent arrows",
+     "morph": "f.nom.sg (bahuvrīhi: su+bāṇa)"
+    }
+   ],
+   "question": "What epithet identifies the goddess as bearing excellent arrows?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates possession of good arrows"
+   ],
+   "inference": "The goddess is identified by the epithet Subāṇā",
+   "uncertainties": [],
+   "plain_english": "She is Subāṇā, who bears excellent arrows."
+  },
+  {
+   "verse": 1172,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "by-that",
+     "grounds": "instrumental demonstrative referring to her action or form",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "asaṃkhyībhūtarūpeṇa",
+     "gloss": "innumerable-become-form",
+     "grounds": "compound describing a form that has become countless",
+     "morph": "n.inst.sg (bahuvrīhi: asaṃkhyībhūta+rūpa)"
+    },
+    {
+     "surface": "daityān",
+     "gloss": "demons",
+     "grounds": "objects of her action",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "devaprītyai",
+     "gloss": "for-gods-pleasure",
+     "grounds": "purpose of her action",
+     "morph": "f.dat.sg (tatpuruṣa: deva+prīti)"
+    },
+    {
+     "surface": "sā",
+     "gloss": "she",
+     "grounds": "demonstrative pronoun referring to the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "subāṇeti",
+     "gloss": "good-arrowed-thus",
+     "grounds": "name followed by quotative particle",
+     "morph": "f.nom.sg + (indecl. iti)"
+    },
+    {
+     "surface": "gītā",
+     "gloss": "sung",
+     "grounds": "past participle indicating she is praised in song",
+     "morph": "f.nom.sg (past participle gā)"
+    }
+   ],
+   "question": "Why is the goddess sung of as Subāṇā in relation to the demons?",
+   "premises": [
+    "She assumed an innumerable form",
+    "She acted against demons for the pleasure of the gods"
+   ],
+   "inference": "She is sung as Subāṇā because, in countless forms, she struck the demons for the gods' delight",
+   "uncertainties": [
+    "The exact action performed by tena is implied rather than explicitly stated"
+   ],
+   "plain_english": "Taking on innumerable forms for the pleasure of the gods, she is sung of as Subāṇā for her deeds against the demons."
+  },
+  {
+   "verse": 1173,
+   "rows": [
+    {
+     "surface": "śaktihastā",
+     "gloss": "power-in-hand",
+     "grounds": "epithet naming the goddess as holding the śakti weapon",
+     "morph": "f.nom.sg (bahuvrīhi: śakti+hasta)"
+    }
+   ],
+   "question": "What epithet identifies the goddess as holding the śakti weapon?",
+   "premises": [
+    "The goddess is named directly",
+    "The name indicates the śakti weapon in her hand"
+   ],
+   "inference": "The goddess is identified by the epithet Śaktihastā",
+   "uncertainties": [],
+   "plain_english": "She is Śaktihastā, who holds the śakti in her hand."
+  },
+  {
+   "verse": 1174,
+   "rows": [
+    {
+     "surface": "śivāya",
+     "gloss": "for-welfare",
+     "grounds": "dative expressing purpose or benefit",
+     "morph": "n.dat.sg"
+    },
+    {
+     "surface": "astu",
+     "gloss": "may-be",
+     "grounds": "imperative expressing a benediction",
+     "morph": "3.sg.imperative-active (as)"
+    },
+    {
+     "surface": "śaktiḥ",
+     "gloss": "power",
+     "grounds": "the divine power embodied by the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "auspicious",
+     "grounds": "epithet describing the goddess as benevolent",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śaktihastā",
+     "gloss": "power-in-hand",
+     "grounds": "epithet of the goddess invoked for welfare",
+     "morph": "f.nom.sg (bahuvrīhi: śakti+hasta)"
+    }
+   ],
+   "question": "What benediction is sought from the auspicious śakti-bearing goddess?",
+   "premises": [
+    "The goddess is auspicious and holds the śakti",
+    "A benediction for welfare is expressed"
+   ],
+   "inference": "May the auspicious, śakti-bearing goddess be for welfare",
+   "uncertainties": [],
+   "plain_english": "May the auspicious goddess Śaktihastā, who holds the śakti, be for our welfare."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p93",
+ "items": [
+  {
+   "verse": 2325,
+   "rows": [
+    {
+     "surface": "ekākṣaraṃ",
+     "gloss": "one-syllable-mantra",
+     "grounds": "eka + akṣara; single letter or syllable mantra",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaved",
+     "gloss": "becomes",
+     "grounds": "bhavet optative of bhū",
+     "morph": "3.sg.act.opt"
+    },
+    {
+     "surface": "diksahasraṃ",
+     "gloss": "ten-thousand",
+     "grounds": "dik + sahasra; large multiplied count",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "ablative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "optative of jap",
+     "morph": "3.sg.act.opt"
+    }
+   ],
+   "question": "If a one-syllable mantra becomes ten thousand, what should the adept recite?",
+   "premises": [
+    "one-syllable mantra may expand",
+    "expanded count governs recitation",
+    "the adept should then recite"
+   ],
+   "inference": "the recitation follows the expanded ten-thousand count",
+   "uncertainties": [
+    "diksahasraṃ may mean directions or a multiplied count",
+    "bhaved is optative rather than indicative"
+   ],
+   "plain_english": "If the one-syllable mantra becomes ten thousand, then one should recite it."
+  }
+ ]
+}

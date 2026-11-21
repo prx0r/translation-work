@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p66",
+ "items": [
+  {
+   "verse": 1650,
+   "rows": [
+    {
+     "surface": "yasya",
+     "gloss": "whose",
+     "grounds": "genitive singular of ya; indicates the possessor or source whose seeing is meant",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "vīkṣaṇamātreṇa",
+     "gloss": "by-mere-seeing",
+     "grounds": "compound of vīkṣaṇa and mātra; instrumental singular neuter expressing means",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "jāyante",
+     "gloss": "arise",
+     "grounds": "present middle plural of jan; states that the sadhana come into being",
+     "morph": "3.pl.mid-pres + root jan"
+    },
+    {
+     "surface": "sādhana",
+     "gloss": "sadhana",
+     "grounds": "nominative plural neuter of sādhana; subject of jāyante",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative singular masculine of krama; indicates sequence or order",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "By whose mere seeing do sadhana arise in order?",
+   "premises": [
+    "Mere seeing causes arising.",
+    "Sadhana arise in order.",
+    "The seer is whose."
+   ],
+   "inference": "The verse states that mere seeing of that being causes sadhana to arise in sequence.",
+   "uncertainties": [
+    "The exact referent of yasya is not explicit in this verse."
+   ],
+   "plain_english": "By whose mere seeing, the sadhana arise in order."
+  }
+ ]
+}

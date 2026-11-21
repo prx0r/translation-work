@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p115",
+ "items": [
+  {
+   "verse": 2875,
+   "rows": [
+    {
+     "surface": "kaniṣṭhāgre",
+     "gloss": "little-finger-tip",
+     "grounds": "compound of kaniṣṭhā (little finger) and agra (tip), indicating the point of contact",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "optative expressing prescribed action",
+     "morph": "3.sg.act-opt~√spṛś"
+    },
+    {
+     "surface": "syād",
+     "gloss": "it-should-be",
+     "grounds": "optative indicating the prescribed condition or procedure",
+     "morph": "3.sg.act-opt~√as"
+    },
+    {
+     "surface": "gandhadhāraṇe",
+     "gloss": "in-fragrance-retention",
+     "grounds": "compound of gandha (fragrance) and dhāraṇa (retention/holding), locative of context",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What corrective finger contact is prescribed during fragrance retention when the primary grip slips?",
+   "premises": [
+    "The primary finger grip may slip during retention practice.",
+    "Fragrance retention requires a specified corrective contact.",
+    "Touching the little-finger tip constitutes that corrective contact."
+   ],
+   "inference": "Therefore, during fragrance retention, one should touch the little-finger tip.",
+   "uncertainties": [],
+   "plain_english": "In the retention of fragrance, one should touch the tip of the little finger."
+  }
+ ]
+}

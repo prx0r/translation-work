@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p95",
+ "items": [
+  {
+   "verse": 2375,
+   "rows": [
+    {
+     "surface": "sūryo",
+     "gloss": "sun",
+     "grounds": "nominative singular of sūrya; final visarga becomes o before voiced initial in sandhi",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "gniś",
+     "gloss": "fire",
+     "grounds": "nominative singular of agni; initial a elided after preceding o in sandhi, final visarga becomes ś before c-initial of following word contextually realized as palatal sibilant",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "candramāḥ",
+     "gloss": "moon",
+     "grounds": "nominative singular of candramas",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kheṭā",
+     "gloss": "planets",
+     "grounds": "nominative plural of kheṭa; final visarga dropped before following voiced initial in sandhi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "munayo",
+     "gloss": "sages",
+     "grounds": "nominative plural of muni; final visarga becomes o before voiced initial in sandhi",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "bhāni",
+     "gloss": "luminaries",
+     "grounds": "nominative plural of bhā, a neuter noun for light or celestial body",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tārakāḥ",
+     "gloss": "stars",
+     "grounds": "nominative plural of tārakā",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which celestial bodies and beings are included as objects of remembrance in this contemplative practice?",
+   "premises": [
+    "The preceding context prescribes remembering Hari or reciting a Vaiṣṇava mantra.",
+    "This verse lists the sun, fire, moon, planets, sages, luminaries, and stars as a series of entities.",
+    "The nominative forms present these entities as identifiable objects within the same ritual or contemplative sequence."
+   ],
+   "inference": "The sun, fire, moon, planets, sages, luminaries, and stars are to be included among the objects remembered in the prescribed practice.",
+   "uncertainties": [
+    "The exact syntactic relation to the verb in the preceding verse is implied rather than explicitly stated in this verse."
+   ],
+   "plain_english": "One may remember the sun, fire, moon, planets, sages, luminaries, and stars."
+  }
+ ]
+}

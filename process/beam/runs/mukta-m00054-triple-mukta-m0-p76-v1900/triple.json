@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p76",
+ "items": [
+  {
+   "verse": 1900,
+   "rows": [
+    {
+     "surface": "catur",
+     "gloss": "four",
+     "grounds": "first member of compound describing number of arms",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bbhujā",
+     "gloss": "armed",
+     "grounds": "second member of bahuvrīhi compound catur-bbhujā; feminine nominative singular",
+     "morph": "compound-member.f.nom.sg"
+    },
+    {
+     "surface": "pracaṇḍā",
+     "gloss": "very-fierce",
+     "grounds": "epithet of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "coordinating particle linking epithets",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cara",
+     "gloss": "moving",
+     "grounds": "first member of dvandva compound cara-acara denoting mobile beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "acara",
+     "gloss": "unmoving",
+     "grounds": "second member of dvandva compound cara-acara denoting immobile beings",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "nivāsinī",
+     "gloss": "dweller",
+     "grounds": "epithet indicating indwelling presence in all that moves and does not move",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What attributes and scope of indwelling characterize the goddess in this description?",
+   "premises": [
+    "The goddess is described as four-armed.",
+    "The goddess is described as very fierce.",
+    "The goddess dwells in both moving and unmoving beings."
+   ],
+   "inference": "The goddess combines a fierce, four-armed form with an all-pervading presence throughout the mobile and immobile world.",
+   "uncertainties": [],
+   "plain_english": "She is four-armed and very fierce, and she dwells in all that moves and all that does not move."
+  }
+ ]
+}

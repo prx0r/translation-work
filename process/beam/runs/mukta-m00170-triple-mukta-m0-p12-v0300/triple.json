@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "hastakam",
+     "gloss": "cubit",
+     "grounds": "unit of linear measure equal to a cubit",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aṅgulonaṃ",
+     "gloss": "finger-less",
+     "grounds": "compound indicating deficiency by one finger-width",
+     "morph": "aṅgula+ūna (compound, n.nom.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting alternatives",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadūrdhvaṃ",
+     "gloss": "above-that",
+     "grounds": "compound referring to a measure exceeding that",
+     "morph": "tad+ūrdhva (compound, n.nom.sg)"
+    },
+    {
+     "surface": "mattavāraṇam",
+     "gloss": "elephant-top-molding",
+     "grounds": "technical architectural term for a specific molding element",
+     "morph": "matta+vāraṇa (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What height measurements are permissible for the mattavāraṇa molding?",
+   "premises": [
+    "A cubit is a permissible measure.",
+    "A measure less by one finger is permissible.",
+    "A measure above that is also permissible."
+   ],
+   "inference": "The mattavāraṇa molding may measure a cubit, a finger less, or more than that.",
+   "uncertainties": [
+    "The exact upper limit implied by tadūrdhvaṃ is not specified."
+   ],
+   "plain_english": "The mattavāraṇa molding may be a cubit high, or a finger less, or above that."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p63",
+ "items": [
+  {
+   "verse": 1575,
+   "rows": [
+    {
+     "surface": "agni-rākṣasa-vāyavya-śambhu-koṇeṣu",
+     "gloss": "fire-demon-wind-shambhu-corners",
+     "grounds": "compound of five members in locative plural; no internal sandhi split",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "yojitam",
+     "gloss": "joined",
+     "grounds": "passive participle of yuj; neuter accusative singular in context",
+     "morph": "ppp.n.acc.sg"
+    }
+   ],
+   "question": "Which corners of the diagram receive the joined kṛṣṇa-cakra?",
+   "premises": [
+    "The verse names four corners.",
+    "It states the kṛṣṇa-cakra is joined there.",
+    "The corners are fire demon wind and shambhu."
+   ],
+   "inference": "The joined kṛṣṇa-cakra is placed in those four corners.",
+   "uncertainties": [
+    "Exact ritual referent of kṛṣṇa-cakra is not stated in this verse."
+   ],
+   "plain_english": "It is joined in the fire, demon, wind, and Shambhu corners."
+  }
+ ]
+}

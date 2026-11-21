@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p98",
+ "items": [
+  {
+   "verse": 2450,
+   "rows": [
+    {
+     "surface": "āyuḥ+lakṣmī+vala+ārogya+avāptyai",
+     "gloss": "life-fortune-strength-health-attainment",
+     "grounds": "compound denoting purpose; dative of avāpti (attainment) governed by preceding members āyuḥ, lakṣmī, vala, ārogya",
+     "morph": "compound, f.dat.sg"
+    },
+    {
+     "surface": "saṅkalpam",
+     "gloss": "resolve",
+     "grounds": "object of the verb",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ācaret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive optative expressing recommended action",
+     "morph": "3.sg.opt.act (ā-car)"
+    }
+   ],
+   "question": "What specific attainments justify the undertaking of a ritual resolve?",
+   "premises": [
+    "Ritual action may be directed toward desired attainments.",
+    "Life, fortune, strength, and health are such desired attainments.",
+    "A ritual resolve serves as the means to pursue these attainments."
+   ],
+   "inference": "Therefore one should perform a resolve aimed at obtaining life, fortune, strength, and health.",
+   "uncertainties": [
+    "The internal structure of the compound āyuḥ+lakṣmī+vala+ārogya+avāptyai is taken as a determinative compound with avāpti as the head."
+   ],
+   "plain_english": "One should make a resolve for the attainment of life, fortune, strength, and health."
+  }
+ ]
+}

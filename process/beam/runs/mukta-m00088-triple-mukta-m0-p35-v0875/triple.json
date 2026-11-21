@@ -1,0 +1,75 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 875,
+   "rows": [
+    {
+     "surface": "tāvad",
+     "gloss": "thereby",
+     "grounds": "indeclinable indicating consequence or extent in this context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ahaṃ",
+     "gloss": "I",
+     "grounds": "first-person speaker, the devotee",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "kṛta",
+     "gloss": "fulfilled",
+     "grounds": "first member of compound expressing accomplished purpose",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "artho",
+     "gloss": "purpose",
+     "grounds": "second member of compound; surface shows sandhi for final visarga",
+     "morph": "m.nom.sg (compound-final)"
+    },
+    {
+     "surface": "asmi",
+     "gloss": "am",
+     "grounds": "links speaker to fulfilled purpose",
+     "morph": "1.sg.pres.act √as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negates diminution",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "of-you",
+     "grounds": "refers to the addressed deity",
+     "morph": "2.gen.sg"
+    },
+    {
+     "surface": "kiñcana",
+     "gloss": "anything",
+     "grounds": "indefinite pronoun indicating any amount or part",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hīyate",
+     "gloss": "diminishes",
+     "grounds": "states absence of loss to the deity",
+     "morph": "3.sg.pres.pass √hā"
+    }
+   ],
+   "question": "How does the devotee's fulfilled purpose leave the deity without any loss?",
+   "premises": [
+    "The devotee becomes one whose purpose is fulfilled.",
+    "The deity's being or power is not subject to diminution.",
+    "Granting forgiveness or grace does not reduce the deity."
+   ],
+   "inference": "The devotee attains fulfillment through the deity's grace while the deity remains wholly undiminished.",
+   "uncertainties": [
+    "tāvad may indicate temporal extent or logical consequence; taken here as consequential."
+   ],
+   "plain_english": "Thereby I am fulfilled in my purpose, and nothing of yours is diminished."
+  }
+ ]
+}

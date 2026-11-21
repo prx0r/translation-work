@@ -1,0 +1,865 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 276,
+   "rows": [
+    {
+     "surface": "mṛṣāhīnamahīnadravyamānasam",
+     "gloss": "free-from-falsehood-not-diminished-substance-mind",
+     "grounds": "compound describing a mind/substance free from falsehood and not diminished",
+     "morph": "compound"
+    }
+   ],
+   "question": "What kind of mind or substance is praised as free from falsehood and not diminished?",
+   "premises": [
+    "The token is a single compound.",
+    "It joins freedom from falsehood with non-diminishment."
+   ],
+   "inference": "The verse praises an undiminished, truthful mind or substance.",
+   "uncertainties": [
+    "Exact compound member boundaries are not resolved."
+   ],
+   "plain_english": "A mind or substance free from falsehood and not diminished."
+  },
+  {
+   "verse": 277,
+   "rows": [
+    {
+     "surface": "svādhīnamanādhiṃ",
+     "gloss": "self-controlled-without-affliction",
+     "grounds": "compound of self-control and absence of affliction",
+     "morph": "compound"
+    },
+    {
+     "surface": "vyādhivarjitam",
+     "gloss": "free-from-disease",
+     "grounds": "participle/adjective excluding disease",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What qualities must the practitioner possess regarding control, affliction, and disease?",
+   "premises": [
+    "The first compound joins self-control with absence of affliction.",
+    "The second adjective excludes disease."
+   ],
+   "inference": "The practitioner is self-controlled, unafflicted, and free from disease.",
+   "uncertainties": [
+    "Gender and exact case are not fully certain."
+   ],
+   "plain_english": "Self-controlled, without affliction, and free from disease."
+  },
+  {
+   "verse": 278,
+   "rows": [
+    {
+     "surface": "virataṃ",
+     "gloss": "ceased",
+     "grounds": "participle indicating cessation",
+     "morph": "part.nom.sg.n"
+    },
+    {
+     "surface": "paradūṣaṇe",
+     "gloss": "from-harming-others",
+     "grounds": "locative of harming others",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "From what harmful action must one have ceased?",
+   "premises": [
+    "virataṃ means ceased.",
+    "paradūṣaṇe means in harming others."
+   ],
+   "inference": "One must have ceased from harming others.",
+   "uncertainties": [
+    "Exact syntactic relation is inferred."
+   ],
+   "plain_english": "Ceased from harming others."
+  },
+  {
+   "verse": 279,
+   "rows": [
+    {
+     "surface": "smarantamasmarābādhaṃ",
+     "gloss": "remembering-without-memory-affliction",
+     "grounds": "compound of remembering and absence of memory-affliction",
+     "morph": "compound"
+    },
+    {
+     "surface": "smitopetamavismitam",
+     "gloss": "smiling-unastonished",
+     "grounds": "compound of smiling and absence of astonishment",
+     "morph": "compound"
+    }
+   ],
+   "question": "How should remembrance and demeanor be characterized?",
+   "premises": [
+    "The first compound concerns remembering without affliction.",
+    "The second concerns smiling and lack of astonishment."
+   ],
+   "inference": "Remembrance should be unafflicted, and demeanor smiling yet unastonished.",
+   "uncertainties": [
+    "Internal compound splits are not resolved."
+   ],
+   "plain_english": "Remembering without memory-affliction, smiling and unastonished."
+  },
+  {
+   "verse": 280,
+   "rows": [
+    {
+     "surface": "guruḥ",
+     "gloss": "teacher",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śiṣyaṃ",
+     "gloss": "disciple",
+     "grounds": "object noun",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gṛhṇīyātkadācana",
+     "gloss": "should-ever-accept",
+     "grounds": "optative verb with ever",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "Should a teacher ever accept a disciple?",
+   "premises": [
+    "guruḥ is the subject.",
+    "śiṣyaṃ is the object.",
+    "na negates gṛhṇīyāt."
+   ],
+   "inference": "A teacher should never accept a disciple in the stated circumstance.",
+   "uncertainties": [
+    "The circumstance is supplied by surrounding verses."
+   ],
+   "plain_english": "A teacher should never accept a disciple."
+  },
+  {
+   "verse": 281,
+   "rows": [
+    {
+     "surface": "rājñi",
+     "gloss": "toward-king",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "patyau",
+     "gloss": "toward-husband",
+     "grounds": "locative noun",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "jāyākṛto",
+     "gloss": "wife-made",
+     "grounds": "compound participle",
+     "morph": "compound"
+    },
+    {
+     "surface": "yathā",
+     "gloss": "as",
+     "grounds": "comparative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To what relationship is the disciple's conduct compared?",
+   "premises": [
+    "rājñi and patyau are locatives.",
+    "jāyākṛto means made by wife.",
+    "yathā means as."
+   ],
+   "inference": "The comparison is to a wife's conduct toward king or husband.",
+   "uncertainties": [
+    "The exact intended comparison is contextual."
+   ],
+   "plain_english": "As a wife acts toward king or husband."
+  },
+  {
+   "verse": 282,
+   "rows": [
+    {
+     "surface": "lobhād",
+     "gloss": "from-greed",
+     "grounds": "ablative noun",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "yo'nugṛhṇātyadīkṣayā",
+     "gloss": "who-accepts-without-initiation",
+     "grounds": "fused sandhi form of yaḥ anugṛhṇāti adīkṣayā",
+     "morph": "rel.m.nom.sg + 3.sg.act.pres + instr.sg.f"
+    }
+   ],
+   "question": "What fault is condemned in accepting a disciple?",
+   "premises": [
+    "lobhād means from greed.",
+    "yo'nugṛhṇātyadīkṣayā means whoever accepts without initiation."
+   ],
+   "inference": "Accepting a disciple from greed and without initiation is condemned.",
+   "uncertainties": [
+    "The fused form is analyzed without splitting the row."
+   ],
+   "plain_english": "Whoever from greed accepts without initiation."
+  },
+  {
+   "verse": 283,
+   "rows": [
+    {
+     "surface": "mātāpitrormahībhṛti",
+     "gloss": "for-parents-earth-bearer",
+     "grounds": "compound locative/dative phrase",
+     "morph": "compound"
+    }
+   ],
+   "question": "For whom is the disciple's service compared to that for parents and earth-bearer?",
+   "premises": [
+    "mātāpitrormahībhṛti is a single compound.",
+    "It names parents and earth-bearer."
+   ],
+   "inference": "Service is compared to that owed to parents and earth-bearer.",
+   "uncertainties": [
+    "Exact case and syntactic role are not fully certain."
+   ],
+   "plain_english": "For parents and earth-bearer."
+  },
+  {
+   "verse": 284,
+   "rows": [
+    {
+     "surface": "vāniṣṭamādiṣṭaṃ",
+     "gloss": "not-desired-but-instructed",
+     "grounds": "compound of not desired and instructed",
+     "morph": "compound"
+    },
+    {
+     "surface": "guruṇā",
+     "gloss": "by-guru",
+     "grounds": "instrumental noun",
+     "morph": "m.instr.sg"
+    },
+    {
+     "surface": "yattu",
+     "gloss": "but-which",
+     "grounds": "relative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gurvapi",
+     "gloss": "even-by-guru",
+     "grounds": "compound of guru and api",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should be done with what is instructed but not desired by the guru?",
+   "premises": [
+    "vāniṣṭamādiṣṭaṃ means not desired but instructed.",
+    "guruṇā means by guru.",
+    "gurvapi means even by guru."
+   ],
+   "inference": "Even what is instructed though not desired by the guru must be considered.",
+   "uncertainties": [
+    "The exact imperative is supplied by context."
+   ],
+   "plain_english": "What is not desired but instructed by the guru, even by the guru."
+  },
+  {
+   "verse": 285,
+   "rows": [
+    {
+     "surface": "manasā",
+     "gloss": "in-mind",
+     "grounds": "instrumental noun",
+     "morph": "n.instr.sg"
+    },
+    {
+     "surface": "vācā",
+     "gloss": "in-speech",
+     "grounds": "instrumental noun",
+     "morph": "f.instr.sg"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhaktiparo",
+     "gloss": "devoted",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "gurum",
+     "gloss": "guru",
+     "grounds": "object noun",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How should devotion to the guru be maintained?",
+   "premises": [
+    "manasā and vācā are instrumentals.",
+    "sadā means always.",
+    "bhaktiparo modifies gurum."
+   ],
+   "inference": "One should always be devoted to the guru in mind and speech.",
+   "uncertainties": [
+    "Exact verb is omitted in the excerpt."
+   ],
+   "plain_english": "Always devoted to the guru in mind and speech."
+  },
+  {
+   "verse": 286,
+   "rows": [
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yā",
+     "gloss": "which",
+     "grounds": "relative pronoun",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "marmanikṛntinī",
+     "gloss": "cutting-to-the-core",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.f"
+    }
+   ],
+   "question": "What kind of action or speech is condemned as cutting to the core?",
+   "premises": [
+    "yā is relative feminine.",
+    "marmanikṛntinī means cutting to the core."
+   ],
+   "inference": "The verse condemns what cuts to the core.",
+   "uncertainties": [
+    "The antecedent is supplied by context."
+   ],
+   "plain_english": "And which cuts to the core."
+  },
+  {
+   "verse": 287,
+   "rows": [
+    {
+     "surface": "ramyamatyutkaṭaṃ",
+     "gloss": "pleasant-extremely-intense",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "cāpi",
+     "gloss": "and-even",
+     "grounds": "conjunction with api",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "manaso'pi",
+     "gloss": "even-of-mind",
+     "grounds": "fused sandhi form of manasaḥ api",
+     "morph": "n.gen.sg + (indecl.)"
+    },
+    {
+     "surface": "samīpsitam",
+     "gloss": "desired",
+     "grounds": "participle/adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What kinds of objects are described as pleasant, intense, and desired?",
+   "premises": [
+    "ramyamatyutkaṭaṃ means pleasant and extremely intense.",
+    "manaso'pi means even of mind.",
+    "samīpsitam means desired."
+   ],
+   "inference": "The verse describes objects pleasant, intense, and desired by mind.",
+   "uncertainties": [
+    "The fused sandhi form is transcribed whole."
+   ],
+   "plain_english": "Pleasant, extremely intense, and even desired by the mind."
+  },
+  {
+   "verse": 288,
+   "rows": [
+    {
+     "surface": "samyagācāryaṃ",
+     "gloss": "proper-teacher",
+     "grounds": "compound adjective",
+     "morph": "compound"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What is the result of properly worshipping the teacher?",
+   "premises": [
+    "samyagācāryaṃ means proper teacher.",
+    "yaḥ means who.",
+    "samarcayet means should worship."
+   ],
+   "inference": "Proper worship of the teacher is prescribed.",
+   "uncertainties": [
+    "The result is stated in the next verse."
+   ],
+   "plain_english": "Whoever should properly worship the teacher."
+  },
+  {
+   "verse": 289,
+   "rows": [
+    {
+     "surface": "kṛtakṛtyaḥ",
+     "gloss": "accomplished",
+     "grounds": "compound adjective",
+     "morph": "adj.nom.sg.m"
+    },
+    {
+     "surface": "sa",
+     "gloss": "he",
+     "grounds": "pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiṣyaḥ",
+     "gloss": "disciple",
+     "grounds": "noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "paratreha",
+     "gloss": "hereafter-and-here",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nandati",
+     "gloss": "rejoices",
+     "grounds": "verb",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "What is the status and joy of the disciple who worships the teacher properly?",
+   "premises": [
+    "kṛtakṛtyaḥ means accomplished.",
+    "śiṣyaḥ means disciple.",
+    "paratreha ca means hereafter and here.",
+    "nandati means rejoices."
+   ],
+   "inference": "The accomplished disciple rejoices both here and hereafter.",
+   "uncertainties": [
+    "The causal link to prior worship is contextual."
+   ],
+   "plain_english": "That disciple is accomplished and rejoices here and hereafter."
+  },
+  {
+   "verse": 290,
+   "rows": [
+    {
+     "surface": "catuṣkoṣṭhe",
+     "gloss": "in-four-cornered",
+     "grounds": "locative compound",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "koṇasūtracatuṣṭayam",
+     "gloss": "four-corner-threads",
+     "grounds": "compound noun",
+     "morph": "compound"
+    }
+   ],
+   "question": "What is to be placed in the four-cornered figure?",
+   "premises": [
+    "catuṣkoṣṭhe means in four-cornered.",
+    "koṇasūtracatuṣṭayam means four corner threads."
+   ],
+   "inference": "Four corner threads are placed in the four-cornered figure.",
+   "uncertainties": [
+    "The exact diagram type is contextual."
+   ],
+   "plain_english": "In the four-cornered figure, four corner threads."
+  },
+  {
+   "verse": 291,
+   "rows": [
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num.nom.pl.n"
+    },
+    {
+     "surface": "dve",
+     "gloss": "two",
+     "grounds": "numeral",
+     "morph": "num.nom.pl.n"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-expert",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yāmyottarāyate",
+     "gloss": "extends-south-north",
+     "grounds": "compound verb",
+     "morph": "3.sg.act.pres"
+    }
+   ],
+   "question": "How does the mantra-expert extend the threads south and north?",
+   "premises": [
+    "dve dve means two and two.",
+    "mantrī means mantra-expert.",
+    "yāmyottarāyate means extends south-north."
+   ],
+   "inference": "The mantra-expert extends two and two threads south and north.",
+   "uncertainties": [
+    "Exact thread count interpretation is contextual."
+   ],
+   "plain_english": "Two and two, the mantra-expert extends south and north."
+  },
+  {
+   "verse": 292,
+   "rows": [
+    {
+     "surface": "pātayedeṣu",
+     "gloss": "should-drop-in-these",
+     "grounds": "optative verb with locative",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "matsyeṣu",
+     "gloss": "in-fish",
+     "grounds": "locative noun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "samaṃ",
+     "gloss": "equally",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sūtracatuṣṭayam",
+     "gloss": "four-threads",
+     "grounds": "compound noun",
+     "morph": "compound"
+    }
+   ],
+   "question": "What should be dropped equally in the fish?",
+   "premises": [
+    "pātayet means should drop.",
+    "matsyeṣu means in fish.",
+    "samaṃ means equally.",
+    "sūtracatuṣṭayam means four threads."
+   ],
+   "inference": "Four threads should be dropped equally in the fish.",
+   "uncertainties": [
+    "The ritual object 'fish' is contextual."
+   ],
+   "plain_english": "In these fish, drop four threads equally."
+  },
+  {
+   "verse": 293,
+   "rows": [
+    {
+     "surface": "matsyeṣu",
+     "gloss": "in-fish",
+     "grounds": "locative noun",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "dadyātsūtracatuṣṭayam",
+     "gloss": "should-give-four-threads",
+     "grounds": "fused optative verb and object",
+     "morph": "3.sg.opt.act + compound"
+    }
+   ],
+   "question": "What should be given in the fish?",
+   "premises": [
+    "matsyeṣu means in fish.",
+    "dadyātsūtracatuṣṭayam means should give four threads."
+   ],
+   "inference": "Four threads should be given in the fish.",
+   "uncertainties": [
+    "The fused form is analyzed without splitting the row."
+   ],
+   "plain_english": "In fish, give four threads."
+  },
+  {
+   "verse": 294,
+   "rows": [
+    {
+     "surface": "yāvacchatadvayaṃ",
+     "gloss": "up-to-hundred-twenty",
+     "grounds": "compound numeral",
+     "morph": "compound"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-expert",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ṣaṭ",
+     "gloss": "six",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "pañcāśatpadānyapi",
+     "gloss": "fifty-feet-also",
+     "grounds": "compound numeral",
+     "morph": "compound"
+    }
+   ],
+   "question": "What measure does the mantra-expert use up to one hundred twenty?",
+   "premises": [
+    "yāvacchatadvayaṃ means up to hundred-twenty.",
+    "mantrī means mantra-expert.",
+    "ṣaṭ pañcāśatpadānyapi means six fifty feet also."
+   ],
+   "inference": "The mantra-expert uses a measure up to one hundred twenty, with sixty and fifty feet also.",
+   "uncertainties": [
+    "The exact measurement syntax is unclear."
+   ],
+   "plain_english": "Up to one hundred twenty, the mantra-expert, six and fifty feet also."
+  },
+  {
+   "verse": 295,
+   "rows": [
+    {
+     "surface": "padairmadhye",
+     "gloss": "in-middle-with-feet",
+     "grounds": "fused locative compound",
+     "morph": "compound"
+    },
+    {
+     "surface": "likhetpadmaṃ",
+     "gloss": "should-draw-lotus",
+     "grounds": "fused optative verb and object",
+     "morph": "3.sg.opt.act + compound"
+    },
+    {
+     "surface": "salakṣaṇam",
+     "gloss": "with-marks",
+     "grounds": "adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What should be drawn in the middle with feet?",
+   "premises": [
+    "padairmadhye means in middle with feet.",
+    "likhetpadmaṃ means should draw lotus.",
+    "salakṣaṇam means with marks."
+   ],
+   "inference": "A marked lotus should be drawn in the middle with feet.",
+   "uncertainties": [
+    "The fused forms are analyzed without splitting rows."
+   ],
+   "plain_english": "In the middle with feet, draw a marked lotus."
+  },
+  {
+   "verse": 296,
+   "rows": [
+    {
+     "surface": "dvāraśobhopaśobhādīn",
+     "gloss": "door-ornament-and-similar",
+     "grounds": "compound accusative plural",
+     "morph": "compound"
+    },
+    {
+     "surface": "śiṣṭābhyāṃ",
+     "gloss": "with-remaining-two",
+     "grounds": "instrumental dual",
+     "morph": "m.instr.du"
+    },
+    {
+     "surface": "parikalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative verb",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How should door ornaments and similar items be arranged?",
+   "premises": [
+    "dvāraśobhopaśobhādīn means door ornament and similar.",
+    "śiṣṭābhyāṃ means with remaining two.",
+    "parikalpayet means should arrange."
+   ],
+   "inference": "Door ornaments and similar items should be arranged with the remaining two.",
+   "uncertainties": [
+    "The exact items are contextual."
+   ],
+   "plain_english": "Door ornaments and similar items should be arranged with the remaining two."
+  },
+  {
+   "verse": 297,
+   "rows": [
+    {
+     "surface": "saṃtyajya",
+     "gloss": "having-abandoned",
+     "grounds": "absolutive",
+     "morph": "abs"
+    },
+    {
+     "surface": "dvādaśā",
+     "gloss": "twelve",
+     "grounds": "numeral",
+     "morph": "num"
+    },
+    {
+     "surface": "śāṃ",
+     "gloss": "shaam",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaṃ",
+     "gloss": "sham",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the wise one do after abandoning twelve?",
+   "premises": [
+    "saṃtyajya means having abandoned.",
+    "dvādaśā means twelve.",
+    "śāṃ and śaṃ are bija syllables.",
+    "tataḥ means then.",
+    "sudhīḥ means wise one."
+   ],
+   "inference": "After abandoning twelve, the wise one uses the bija syllables shaam and sham.",
+   "uncertainties": [
+    "The ritual operation is contextual."
+   ],
+   "plain_english": "Having abandoned twelve, shaam sham, then the wise one."
+  },
+  {
+   "verse": 298,
+   "rows": [
+    {
+     "surface": "karṇikāsthānaṃ",
+     "gloss": "pericarp-place",
+     "grounds": "compound noun",
+     "morph": "compound"
+    },
+    {
+     "surface": "kesarāṇāṃ",
+     "gloss": "of-filaments",
+     "grounds": "genitive noun",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "dvitīyakam",
+     "gloss": "second",
+     "grounds": "ordinal adjective",
+     "morph": "adj.nom.sg.n"
+    }
+   ],
+   "question": "What is the second place of the filaments?",
+   "premises": [
+    "karṇikāsthānaṃ means pericarp place.",
+    "kesarāṇāṃ means of filaments.",
+    "dvitīyakam means second."
+   ],
+   "inference": "The second place is the pericarp place of the filaments.",
+   "uncertainties": [
+    "Exact ritual geometry is contextual."
+   ],
+   "plain_english": "The second place of the filaments is the pericarp."
+  },
+  {
+   "verse": 299,
+   "rows": [
+    {
+     "surface": "bāhyavṛttāntarālasya",
+     "gloss": "of-outer-circle-interval",
+     "grounds": "compound genitive",
+     "morph": "compound"
+    },
+    {
+     "surface": "mānaṃ",
+     "gloss": "measure",
+     "grounds": "object noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yadvidhinā",
+     "gloss": "by-which-rule",
+     "grounds": "compound instrumental",
+     "morph": "compound"
+    },
+    {
+     "surface": "sudhīḥ",
+     "gloss": "wise-one",
+     "grounds": "subject noun",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What measure does the wise one take of the outer circle interval?",
+   "premises": [
+    "bāhyavṛttāntarālasya means of outer circle interval.",
+    "mānaṃ means measure.",
+    "yadvidhinā means by which rule.",
+    "sudhīḥ means wise one."
+   ],
+   "inference": "The wise one measures the outer circle interval by the prescribed rule.",
+   "uncertainties": [
+    "The exact rule is contextual."
+   ],
+   "plain_english": "The wise one measures the outer circle interval by rule."
+  }
+ ]
+}

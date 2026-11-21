@@ -1,0 +1,44 @@
+{
+ "song": "mukta-m0-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "mahāpīṭhamayaṃ",
+     "gloss": "great-seat-made",
+     "grounds": "compound mahā+pīṭha+maya; modifies puṣpaṃ",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "puṣpaṃ",
+     "gloss": "flower",
+     "grounds": "accusative object",
+     "morph": "n.acc.sg.n"
+    },
+    {
+     "surface": "sarvadevasya",
+     "gloss": "all-gods-of",
+     "grounds": "genitive of sarva-deva",
+     "morph": "n.gen.sg.m"
+    },
+    {
+     "surface": "durlabham",
+     "gloss": "rare",
+     "grounds": "predicate adjective with puṣpaṃ",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What flower made of the great seat is rare for all gods?",
+   "premises": [
+    "The flower is made of the great seat.",
+    "It is rare for all gods."
+   ],
+   "inference": "The great-seat flower is a rare offering even for all gods.",
+   "uncertainties": [
+    "The exact ritual referent of mahāpīṭha is not specified in this verse."
+   ],
+   "plain_english": "The flower made of the great seat is rare for all gods."
+  }
+ ]
+}

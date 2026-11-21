@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p13",
+ "items": [
+  {
+   "verse": 325,
+   "rows": [
+    {
+     "surface": "dvayostulyena",
+     "gloss": "two-equal",
+     "grounds": "fused genitive dual dvayos plus instrumental tulyena",
+     "morph": "adj.instr.sg"
+    },
+    {
+     "surface": "tailena",
+     "gloss": "oil",
+     "grounds": "instrumental singular of taila",
+     "morph": "noun.instr.sg.n"
+    },
+    {
+     "surface": "pacenmṛdvagninā",
+     "gloss": "cook-gentle-fire",
+     "grounds": "fused pacet with instrumental mṛdvagninā",
+     "morph": "verb.3sg.opt+compound.instr.sg.m"
+    },
+    {
+     "surface": "kṣaṇam",
+     "gloss": "moment",
+     "grounds": "accusative singular of kṣaṇa",
+     "morph": "noun.acc.sg.m"
+    }
+   ],
+   "question": "What cooking duration and fire intensity are prescribed for the equal-oil hair-dye preparation?",
+   "premises": [
+    "Equal oil is used for both ingredients.",
+    "Cooking lasts one moment.",
+    "Gentle fire is prescribed."
+   ],
+   "inference": "The preparation should be briefly cooked with gentle fire in equal oil.",
+   "uncertainties": [
+    "The exact referent of 'two' is not explicit in this verse.",
+    "The verb mood is fused and not fully recoverable."
+   ],
+   "plain_english": "Cook for a moment with gentle fire, using oil equal for both."
+  }
+ ]
+}

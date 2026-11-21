@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1725,
+   "rows": [
+    {
+     "surface": "pūrvasya",
+     "gloss": "of-former",
+     "grounds": "genitive singular masculine of pūrva",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "darśanaṃ",
+     "gloss": "seeing",
+     "grounds": "accusative singular neuter of darśana",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "naiva",
+     "gloss": "not-indeed",
+     "grounds": "indeclinable negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "nominative singular neuter of satya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "repeated nominative singular neuter of satya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "suniścitam",
+     "gloss": "well-certain",
+     "grounds": "nominative singular neuter of suniścita",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Is merely seeing the former teacher sufficient to constitute true Kula vision?",
+   "premises": [
+    "former seeing is not truth",
+    "truth is well-certain",
+    "Kula vision requires more than sight"
+   ],
+   "inference": "mere darśana of the former is insufficient; true recognition must be firmly established",
+   "uncertainties": [
+    "the referent of 'former' is not specified in this verse"
+   ],
+   "plain_english": "Seeing the former is not truly truth; truth is well established."
+  }
+ ]
+}

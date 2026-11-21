@@ -1,0 +1,141 @@
+{
+ "song": "mukta-m0-p35",
+ "items": [
+  {
+   "verse": 851,
+   "rows": [
+    {
+     "surface": "evameṣāṃ",
+     "gloss": "thus-of-these",
+     "grounds": "Fused form evam+eṣām; refers to the previously mentioned items.",
+     "morph": "indecl.+pron.gen.pl.m"
+    },
+    {
+     "surface": "tryambakākhyā",
+     "gloss": "tryambaka-called",
+     "grounds": "Compound indicating the designation Tryambaka.",
+     "morph": "compound:f.nom.sg"
+    },
+    {
+     "surface": "terambā",
+     "gloss": "terambā",
+     "grounds": "Local-language name; transliterated as given.",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "deśabhāṣayā",
+     "gloss": "local-language",
+     "grounds": "Instrumental indicating the medium of naming.",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "What local-language designation identifies the Tryambaka teaching among these?",
+   "premises": [
+    "The verse refers to these previously mentioned teachings.",
+    "A designation called Tryambaka is specified.",
+    "The name Terambā is given in the local language."
+   ],
+   "inference": "Therefore, among these teachings the Tryambaka designation is locally known as Terambā.",
+   "uncertainties": [
+    "The exact referents of eṣām depend on the preceding context."
+   ],
+   "plain_english": "Thus, among these, the teaching called Tryambaka is known as Terambā in the local language."
+  },
+  {
+   "verse": 852,
+   "rows": [
+    {
+     "surface": "tad",
+     "gloss": "that",
+     "grounds": "Demonstrative referring to the foregoing exposition.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "evam",
+     "gloss": "thus",
+     "grounds": "Indicates the manner of arrangement.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "etad",
+     "gloss": "this",
+     "grounds": "Demonstrative specifying the present section.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vihitam",
+     "gloss": "arranged",
+     "grounds": "Past passive participle indicating composition or arrangement.",
+     "morph": "ppp.n.nom.sg"
+    },
+    {
+     "surface": "mayā",
+     "gloss": "by-me",
+     "grounds": "Agent of the arrangement.",
+     "morph": "pron.inst.sg"
+    },
+    {
+     "surface": "prakaraṇam",
+     "gloss": "section",
+     "grounds": "The textual unit that has been arranged.",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "manāk",
+     "gloss": "a-little",
+     "grounds": "Qualifies the extent or manner of the arrangement.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Who arranged this section in the manner just presented?",
+   "premises": [
+    "This section is described as arranged in that manner.",
+    "The arrangement is attributed to an agent expressed as 'by me'.",
+    "The extent of the arrangement is qualified as slight."
+   ],
+   "inference": "Therefore, the author states that he has arranged this section in this manner to a small extent.",
+   "uncertainties": [
+    "The nuance of manāk as modesty or brevity is context-dependent."
+   ],
+   "plain_english": "Thus, this section has been arranged by me in this way, to a small extent."
+  },
+  {
+   "verse": 853,
+   "rows": [
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "Marks conclusion of the preceding statement.",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāptisaṃjñakam",
+     "gloss": "completion-named",
+     "grounds": "Compound indicating the chapter is named 'completion'.",
+     "morph": "compound:n.nom.sg"
+    },
+    {
+     "surface": "saptamam",
+     "gloss": "seventh",
+     "grounds": "Ordinal number identifying the chapter's position.",
+     "morph": "adj.n.nom.sg"
+    },
+    {
+     "surface": "āhnikam",
+     "gloss": "chapter",
+     "grounds": "Term for a daily or sectional division of the work.",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What title and ordinal position conclude the present chapter?",
+   "premises": [
+    "The concluding marker iti signals closure.",
+    "The chapter is designated by the name completion.",
+    "The chapter is identified as the seventh."
+   ],
+   "inference": "Therefore, the seventh chapter, named completion, is hereby concluded.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the seventh chapter, named 'Completion'."
+  }
+ ]
+}

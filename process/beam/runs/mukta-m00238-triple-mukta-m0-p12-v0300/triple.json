@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p12",
+ "items": [
+  {
+   "verse": 300,
+   "rows": [
+    {
+     "surface": "śaṃkhinī",
+     "gloss": "conch-bearing",
+     "grounds": "name in the transmitted list; conch-bearing yoginī",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "padminī",
+     "gloss": "lotus",
+     "grounds": "name in the transmitted list; lotus-associated figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kṣīrā",
+     "gloss": "milk",
+     "grounds": "name in the transmitted list; milk-associated figure",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "hyasaṃdhā",
+     "gloss": "hyasaṃdhā",
+     "grounds": "unresolved transmitted term; exact parsing uncertain",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective in the list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prahāriṇī",
+     "gloss": "striking",
+     "grounds": "name in the transmitted list; striking figure",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which names complete the transmitted list of tantric yoginīs?",
+   "premises": [
+    "The verse lists six names.",
+    "They continue a prior enumeration.",
+    "The compendium preserves received names."
+   ],
+   "inference": "These six names extend the transmitted yoginī list.",
+   "uncertainties": [
+    "The exact role of hyasaṃdhā remains unclear.",
+    "The list's source attribution is not stated here."
+   ],
+   "plain_english": "Conch-bearing, lotus, milk, hyasaṃdhā, and striking."
+  }
+ ]
+}

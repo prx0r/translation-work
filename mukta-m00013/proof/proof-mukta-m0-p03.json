@@ -1,0 +1,213 @@
+{
+ "tool": "proof_record v1 2026-11-01",
+ "song": "mukta-m0-p03",
+ "work": "mukta-m00013",
+ "date": "2026-11-01",
+ "blocking": [
+  "T1_JSON_MISSING",
+  "VERSE_COUNT t1=0 source=25",
+  "MISSING_VERSES [51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75]",
+  "L0_JSON_MISSING",
+  "ALIGN_NODISP v51 ratio=0.000",
+  "ALIGN_NODISP v52 ratio=0.000",
+  "ALIGN_NODISP v53 ratio=0.000",
+  "ALIGN_NODISP v54 ratio=0.000",
+  "ALIGN_NODISP v55 ratio=0.000",
+  "ALIGN_NODISP v56 ratio=0.000",
+  "ALIGN_NODISP v57 ratio=0.000",
+  "ALIGN_NODISP v58 ratio=0.000",
+  "ALIGN_NODISP v59 ratio=0.000",
+  "ALIGN_NODISP v60 ratio=0.000",
+  "ALIGN_NODISP v61 ratio=0.000",
+  "ALIGN_NODISP v62 ratio=0.000",
+  "ALIGN_NODISP v63 ratio=0.000",
+  "ALIGN_NODISP v64 ratio=0.000",
+  "ALIGN_NODISP v65 ratio=0.000",
+  "ALIGN_NODISP v66 ratio=0.000",
+  "ALIGN_NODISP v67 ratio=0.000",
+  "ALIGN_NODISP v68 ratio=0.000",
+  "ALIGN_NODISP v69 ratio=0.000",
+  "ALIGN_NODISP v70 ratio=0.000",
+  "ALIGN_NODISP v71 ratio=0.000",
+  "ALIGN_NODISP v72 ratio=0.000",
+  "ALIGN_NODISP v73 ratio=0.000",
+  "ALIGN_NODISP v74 ratio=0.000",
+  "ALIGN_NODISP v75 ratio=0.000",
+  "C1_JSON_MISSING",
+  "L2_JSON_MISSING"
+ ],
+ "warnings": [],
+ "mode": "shastra",
+ "source_sha": "3a7cdfe2026b7b5f",
+ "source_verses": 25,
+ "t1_verses": 0,
+ "l0": {
+  "parsed": 0,
+  "ambiguous": 0,
+  "failed": 0,
+  "tokens": 0
+ },
+ "align": {
+  "min_ratio": 0.0,
+  "sub090": {
+   "51": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "52": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "53": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "54": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "55": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "56": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "57": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "58": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "59": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "60": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "61": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "62": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "63": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "64": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "65": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "66": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "67": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "68": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "69": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "70": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "71": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "72": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "73": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "74": {
+    "ratio": 0.0,
+    "disposition": null
+   },
+   "75": {
+    "ratio": 0.0,
+    "disposition": null
+   }
+  }
+ },
+ "c1_l2_shared": [],
+ "c1_quotes": 0,
+ "c1_iast_prose_info": 0,
+ "c1_words": 0,
+ "c1_metacommentary": [],
+ "l2_cites": {
+  "checked": 0,
+  "failures": []
+ },
+ "ledger": {
+  "pairs": 0,
+  "gloss_missing_in_l2": []
+ },
+ "data_objects": {
+  "errors": [],
+  "note": "no canonical JSON yet (MD-only song)"
+ },
+ "needs": [
+  "fix: convert layer to contract data JSON (T1_JSON_MISSING)",
+  "fix: layer gate C1_JSON_MISSING",
+  "fix: layer gate L2_JSON_MISSING",
+  "fix: re-extract or repair L0",
+  "fix: word-order/gloss vs source for v51",
+  "fix: word-order/gloss vs source for v52",
+  "fix: word-order/gloss vs source for v53",
+  "fix: word-order/gloss vs source for v54",
+  "fix: word-order/gloss vs source for v55",
+  "fix: word-order/gloss vs source for v56",
+  "fix: word-order/gloss vs source for v57",
+  "fix: word-order/gloss vs source for v58",
+  "fix: word-order/gloss vs source for v59",
+  "fix: word-order/gloss vs source for v60",
+  "fix: word-order/gloss vs source for v61",
+  "fix: word-order/gloss vs source for v62",
+  "fix: word-order/gloss vs source for v63",
+  "fix: word-order/gloss vs source for v64",
+  "fix: word-order/gloss vs source for v65",
+  "fix: word-order/gloss vs source for v66",
+  "fix: word-order/gloss vs source for v67",
+  "fix: word-order/gloss vs source for v68",
+  "fix: word-order/gloss vs source for v69",
+  "fix: word-order/gloss vs source for v70",
+  "fix: word-order/gloss vs source for v71",
+  "fix: word-order/gloss vs source for v72",
+  "fix: word-order/gloss vs source for v73",
+  "fix: word-order/gloss vs source for v74",
+  "fix: word-order/gloss vs source for v75"
+ ],
+ "deterministic_gate": "BLOCKED",
+ "layer_sha256": {},
+ "lineage": {
+  "tool": "proof_record v1 2026-11-01",
+  "source_sha": "3a7cdfe2026b7b5f",
+  "t1": "mukta-m0-p03/data/mukta-m0-p03.t1.json",
+  "l0": "mukta-m0-p03/data/mukta-m0-p03.l0.json",
+  "l2": "mukta-m0-p03/data/mukta-m0-p03.l2.json",
+  "c1": "mukta-m0-p03/data/mukta-m0-p03.c1.json"
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "song": "mukta-m0-p106",
+ "items": [
+  {
+   "verse": 2650,
+   "rows": [
+    {
+     "surface": "nityam",
+     "gloss": "always",
+     "grounds": "indeclinable adverb expressing continuity",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ānandaṃ",
+     "gloss": "bliss",
+     "grounds": "object of the requested action",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "janayasva",
+     "gloss": "produce",
+     "grounds": "imperative request addressed to the deity; root jan",
+     "morph": "2.sg.impv.mid-jan"
+    },
+    {
+     "surface": "me",
+     "gloss": "for-me",
+     "grounds": "beneficiary of the requested bliss",
+     "morph": "1.dat.sg"
+    }
+   ],
+   "question": "What enduring experience does the worshipper request the deity to produce?",
+   "premises": [
+    "The worshipper directly addresses a deity in prayer.",
+    "The request specifies a continuous or enduring condition.",
+    "The desired condition is bliss for the worshipper."
+   ],
+   "inference": "The deity is petitioned to continually generate bliss for the worshipper.",
+   "uncertainties": [],
+   "plain_english": "Always produce bliss for me."
+  }
+ ]
+}

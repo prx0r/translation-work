@@ -1,0 +1,50 @@
+{
+ "song": "mukta-m0-p155",
+ "items": [
+  {
+   "verse": 3875,
+   "rows": [
+    {
+     "surface": "kūṭakoṣṭhakanīḍānāṃ",
+     "gloss": "of-kūṭa-koṣṭha-nīḍa",
+     "grounds": "genitive plural of a three-member compound; no sandhi fusion marker present",
+     "morph": "gen.pl.m/n"
+    },
+    {
+     "surface": "vistāraḥ",
+     "gloss": "width",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhāgaḥ",
+     "gloss": "one-part",
+     "grounds": "nominative singular masculine",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "verily",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the width of the kūṭa koṣṭha and nīḍa structures?",
+   "premises": [
+    "width of kūṭa-koṣṭha-nīḍa is one part",
+    "eva and hi emphasize the measure"
+   ],
+   "inference": "The width of those three structures equals one part.",
+   "uncertainties": [
+    "Exact architectural referents of kūṭa, koṣṭha, and nīḍa are not specified in this verse."
+   ],
+   "plain_english": "The width of the kūṭa, koṣṭha, and nīḍa is indeed one part."
+  }
+ ]
+}

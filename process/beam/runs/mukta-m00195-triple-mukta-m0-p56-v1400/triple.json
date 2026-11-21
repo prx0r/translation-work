@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p56",
+ "items": [
+  {
+   "verse": 1400,
+   "rows": [
+    {
+     "surface": "svarān",
+     "gloss": "vowels",
+     "grounds": "object of placement continued from previous verse",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "ḷkāra+ādīn",
+     "gloss": "beginning-with-ḷkāra",
+     "grounds": "qualifies the vowels as starting from ḷkāra",
+     "morph": "compound: ḷkāra+ādi (m.acc.pl)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indicates continuation of the same procedure",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣa+talāt",
+     "gloss": "from-right-palm",
+     "grounds": "specifies the location from which placement proceeds",
+     "morph": "compound: dakṣa+tala (n.abl.sg)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "includes this set in the same ritual action",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "From which location are the vowels beginning with ḷkāra to be placed in this nyāsa?",
+   "premises": [
+    "The preceding verses prescribe an initial nyāsa of vowels in sequence.",
+    "This verse refers to vowels beginning with ḷkāra.",
+    "The placement is to be done likewise from the right palm."
+   ],
+   "inference": "Therefore, the vowels beginning with ḷkāra are also to be placed in sequence from the right palm.",
+   "uncertainties": [
+    "The exact range of vowels included by 'beginning with ḷkāra' depends on the text's phonetic scheme."
+   ],
+   "plain_english": "Likewise, the vowels beginning with ḷkāra should also be placed from the right palm."
+  }
+ ]
+}

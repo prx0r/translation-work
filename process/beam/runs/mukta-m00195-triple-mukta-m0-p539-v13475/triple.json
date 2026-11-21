@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p539",
+ "items": [
+  {
+   "verse": 13475,
+   "rows": [
+    {
+     "surface": "lekhyaṃ",
+     "gloss": "to-be-drawn",
+     "grounds": "gerundive expressing what must be inscribed or drawn",
+     "morph": "gerundive.n.nom.sg"
+    },
+    {
+     "surface": "daleṣu+agni+bījaṃ",
+     "gloss": "on-petals-fire-seed-syllable",
+     "grounds": "locative compound indicating location on petals and object as the fire seed-syllable",
+     "morph": "compound: dala+loc.pl + agni+bīja.n.nom.sg"
+    },
+    {
+     "surface": "tat+bāhye+aṣṭa+asrakaṃ",
+     "gloss": "outside-that-eight-cornered-figure",
+     "grounds": "compound indicating placement outside that with an eight-cornered figure",
+     "morph": "compound: tad+bahya.loc.sg + aṣṭa+asra.n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescribed arrangement",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What diagrammatic placement of the fire seed-syllable and eight-cornered figure is required for the killing rite?",
+   "premises": [
+    "The fire seed-syllable must be drawn on the petals.",
+    "An eight-cornered figure must be placed outside that.",
+    "This arrangement is prescribed as the required form."
+   ],
+   "inference": "The killing rite requires drawing the fire seed-syllable on the petals and an eight-cornered figure outside them.",
+   "uncertainties": [
+    "The exact referent of tat in tat+bāhye is inferred from the diagrammatic context."
+   ],
+   "plain_english": "The fire seed-syllable should be drawn on the petals, and outside that there should be an eight-cornered figure."
+  }
+ ]
+}

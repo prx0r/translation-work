@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p17",
+ "items": [
+  {
+   "verse": 425,
+   "rows": [
+    {
+     "surface": "haste",
+     "gloss": "in-hand",
+     "grounds": "locative of hasta, indicating the hand as place of action",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dūrvāṅkuraṃ",
+     "gloss": "durva-sprout",
+     "grounds": "accusative object placed in the hand",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dattvā",
+     "gloss": "giving",
+     "grounds": "absolutive of dā, expressing prior action",
+     "morph": "indecl."
+    },
+    {
+     "surface": "ācāmed",
+     "gloss": "should-sip",
+     "grounds": "optative of ācam, prescribing the ritual sipping",
+     "morph": "3.sg.act.opt."
+    },
+    {
+     "surface": "vidhipūrvakam",
+     "gloss": "according-to-rite",
+     "grounds": "adverbial qualifier governing the prescribed action",
+     "morph": "indecl."
+    }
+   ],
+   "question": "How should one perform ācamana after placing a durva sprout in the hand according to rite?",
+   "premises": [
+    "durva sprout is placed in hand",
+    "ācamana follows that placement",
+    "rite governs the action"
+   ],
+   "inference": "one sips water after placing a durva sprout in the hand according to rite",
+   "uncertainties": [
+    "exact quantity of water is not specified",
+    "whether the sprout remains in hand during sipping is not explicit"
+   ],
+   "plain_english": "After placing a durva sprout in the hand, one should sip water according to rite."
+  }
+ ]
+}

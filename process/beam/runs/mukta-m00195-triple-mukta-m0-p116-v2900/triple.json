@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p116",
+ "items": [
+  {
+   "verse": 2900,
+   "rows": [
+    {
+     "surface": "spṛśet",
+     "gloss": "one-should-touch",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.optative-active + spṛś"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-that",
+     "grounds": "refers to the previously formed hand configuration",
+     "morph": "m./n.gen.sg"
+    },
+    {
+     "surface": "tarjanībhyām",
+     "gloss": "with-two-forefingers",
+     "grounds": "instrument of the touching action",
+     "morph": "f.inst.du"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "marks the timing of the action within the sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anna+dā",
+     "gloss": "food-giving",
+     "grounds": "compound qualifying the forefingers or invoked designation; anna+giving",
+     "morph": "compound anna+dā"
+    }
+   ],
+   "question": "Which fingers must be touched at that moment and under what food-giving designation?",
+   "premises": [
+    "The prescribed action is to touch.",
+    "The instrument specified is the two forefingers of that configuration.",
+    "The action occurs then with a food-giving designation."
+   ],
+   "inference": "At that moment one should touch with the two forefingers designated as food-giving.",
+   "uncertainties": [
+    "The exact referent and grammatical agreement of anna+dā in this context are not fully certain."
+   ],
+   "plain_english": "Then one should touch with its two forefingers, the food-giving ones."
+  }
+ ]
+}

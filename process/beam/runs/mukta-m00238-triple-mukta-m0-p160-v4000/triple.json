@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p160",
+ "items": [
+  {
+   "verse": 4000,
+   "rows": [
+    {
+     "surface": "caturthaḥ",
+     "gloss": "fourth",
+     "grounds": "ordinal adjective in nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tunalodaṃ",
+     "gloss": "tunloda",
+     "grounds": "proper noun in accusative singular",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "saudāsodaṃta",
+     "gloss": "saudasa-episode",
+     "grounds": "compound noun naming the Saudasa episode",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Is the fourth enumerated narrative the Tunloda and Saudasa episode?",
+   "premises": [
+    "The verse lists a fourth item.",
+    "The item named is Tunloda.",
+    "The item named is the Saudasa episode."
+   ],
+   "inference": "The fourth enumerated narrative is identified as the Tunloda and Saudasa episode.",
+   "uncertainties": [
+    "Exact syntactic relation between tunalodaṃ and saudāsodaṃta is not fully clear from the token list."
+   ],
+   "plain_english": "The fourth is Tunloda and the Saudasa episode indeed, and."
+  }
+ ]
+}

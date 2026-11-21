@@ -1,0 +1,63 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1300,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "anaphoric pronoun referring to the previously described person",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kartā",
+     "gloss": "doer",
+     "grounds": "agent noun from root kṛ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāti+dharmāṇāṃ",
+     "gloss": "of-caste-duties",
+     "grounds": "compound denoting duties pertaining to birth or caste",
+     "morph": "jāti+dharma (tatpuruṣa).m.gen.pl"
+    },
+    {
+     "surface": "jñātīnāṃ",
+     "gloss": "of-kinsmen",
+     "grounds": "refers to relatives or family members",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "prabhuḥ",
+     "gloss": "lord",
+     "grounds": "denotes sovereign authority or mastery",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saḥ",
+     "gloss": "he",
+     "grounds": "repeated anaphoric pronoun for emphasis",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What sovereign role does this fearless person hold regarding caste duties and kinsmen?",
+   "premises": [
+    "The subject is the previously described fearless person.",
+    "He is the agent of caste duties.",
+    "He is the lord of kinsmen."
+   ],
+   "inference": "Therefore this person holds sovereign authority over social and familial obligations.",
+   "uncertainties": [
+    "The precise scope of jāti+dharmāṇāṃ as birth-based or caste-based duties is context-dependent."
+   ],
+   "plain_english": "He is indeed the doer of the duties of caste and the lord of kinsmen."
+  }
+ ]
+}

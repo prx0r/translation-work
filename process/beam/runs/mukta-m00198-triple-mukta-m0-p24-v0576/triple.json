@@ -1,0 +1,875 @@
+{
+ "song": "mukta-m0-p24",
+ "items": [
+  {
+   "verse": 576,
+   "rows": [
+    {
+     "surface": "śirastāraṃ",
+     "gloss": "crest-width",
+     "grounds": "compound denoting the width or span of the crest",
+     "morph": "śiras+tāra (compound, n.acc.sg)"
+    },
+    {
+     "surface": "kapotordhve",
+     "gloss": "above-pigeon",
+     "grounds": "locative compound indicating position above the pigeon element",
+     "morph": "kapota+ūrdhva (compound, n.loc.sg)"
+    },
+    {
+     "surface": "valabhīvājanaṃ",
+     "gloss": "gable-fan",
+     "grounds": "compound naming the gable or fan element",
+     "morph": "valabhī+vājana (compound, n.acc.sg)"
+    },
+    {
+     "surface": "samam",
+     "gloss": "equal",
+     "grounds": "indicates equality of measure",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What proportional equality governs the crest and gable above the pigeon element?",
+   "premises": [
+    "The crest-width is specified in relation to the pigeon element.",
+    "The gable-fan is placed above the pigeon element.",
+    "Both elements are prescribed to be equal in measure."
+   ],
+   "inference": "The crest-width and the gable-fan above the pigeon element must be made equal.",
+   "uncertainties": [],
+   "plain_english": "Above the pigeon element, the crest-width and the gable-fan should be made equal."
+  },
+  {
+   "verse": 577,
+   "rows": [
+    {
+     "surface": "tattripādārdhapādaṃ",
+     "gloss": "that-three-quarter-half-quarter",
+     "grounds": "compound expressing fractional measures of that element",
+     "morph": "tat+tripāda+ardhapāda (compound, n.acc.sg)"
+    },
+    {
+     "surface": "vātāramevaṃ",
+     "gloss": "wind-opening-thus",
+     "grounds": "compound with emphatic particle indicating the wind-opening in this manner",
+     "morph": "vāta+āra+evam (compound + indecl.)"
+    },
+    {
+     "surface": "caturvidham",
+     "gloss": "fourfold",
+     "grounds": "adjective indicating four varieties",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How many varieties of the wind-opening are established by these fractional measures?",
+   "premises": [
+    "Fractional measures of three-quarters and half-quarters are specified.",
+    "The wind-opening is defined in this manner.",
+    "The arrangement is declared to be fourfold."
+   ],
+   "inference": "The wind-opening is established in four varieties according to the stated fractional measures.",
+   "uncertainties": [
+    "The exact mapping of each fraction to a specific variety is not explicit."
+   ],
+   "plain_english": "Thus the wind-opening is made fourfold, using measures such as three-quarters and half-quarters."
+  },
+  {
+   "verse": 578,
+   "rows": [
+    {
+     "surface": "śikhare",
+     "gloss": "on-peak",
+     "grounds": "locative indicating the location on the peak",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "balikāsthānaṃ",
+     "gloss": "balika-place",
+     "grounds": "compound naming the place of the balika element",
+     "morph": "balikā+sthāna (compound, n.acc.sg)"
+    },
+    {
+     "surface": "bhūtāṃśe",
+     "gloss": "in-element-part",
+     "grounds": "locative compound indicating the elemental division",
+     "morph": "bhūta+aṃśa (compound, n.loc.sg)"
+    },
+    {
+     "surface": "śirodaye",
+     "gloss": "at-crest-rise",
+     "grounds": "locative compound indicating the rise of the crest",
+     "morph": "śiras+udaya (compound, n.loc.sg)"
+    }
+   ],
+   "question": "Where must the balika element be placed within the peak’s divisions?",
+   "premises": [
+    "The context is the peak structure.",
+    "The balika-place is the element being located.",
+    "Its position is specified in the elemental part at the crest-rise."
+   ],
+   "inference": "The balika element is to be placed in the elemental part at the rise of the crest on the peak.",
+   "uncertainties": [],
+   "plain_english": "On the peak, the place of the balika should be set in the elemental part at the rise of the crest."
+  },
+  {
+   "verse": 579,
+   "rows": [
+    {
+     "surface": "tattāre",
+     "gloss": "in-that-width",
+     "grounds": "locative compound referring to the width of that element",
+     "morph": "tat+tāra (compound, n.loc.sg)"
+    },
+    {
+     "surface": "caturthāṃśaṃ",
+     "gloss": "fourth-part",
+     "grounds": "compound indicating one quarter",
+     "morph": "caturtha+aṃśa (compound, n.acc.sg)"
+    },
+    {
+     "surface": "tanmaṇḍalaghanaṃ",
+     "gloss": "its-disk-thickness",
+     "grounds": "compound denoting the thickness of its disk or circle",
+     "morph": "tat+maṇḍala+ghana (compound, n.nom.sg)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.optative-active (√bhū)"
+    }
+   ],
+   "question": "What thickness must the disk have relative to that element’s width?",
+   "premises": [
+    "The reference measure is the width of that element.",
+    "A fourth part of that width is specified.",
+    "The disk-thickness is prescribed accordingly."
+   ],
+   "inference": "The thickness of its disk should be one fourth of that width.",
+   "uncertainties": [],
+   "plain_english": "In that width, the thickness of its disk should be one fourth."
+  },
+  {
+   "verse": 580,
+   "rows": [
+    {
+     "surface": "balikānāmadhaścordhve",
+     "gloss": "below-above-balikas",
+     "grounds": "compound indicating positions below and above the balikas",
+     "morph": "balikā+adhas+ca+ūrdhva (compound, n.loc.sg)"
+    },
+    {
+     "surface": "vetraṃ",
+     "gloss": "cane-band",
+     "grounds": "noun naming the cane or molding element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tadardhamānataḥ",
+     "gloss": "by-half-that-measure",
+     "grounds": "compound indicating measurement by half of that",
+     "morph": "tat+ardha+māna+tas (compound + indecl.)"
+    }
+   ],
+   "question": "What measure determines the cane-band placed below and above the balikas?",
+   "premises": [
+    "A cane-band is placed below and above the balikas.",
+    "Its measure is defined relative to a prior reference.",
+    "The prescribed measure is half of that reference."
+   ],
+   "inference": "The cane-band below and above the balikas should measure half of that reference.",
+   "uncertainties": [
+    "The exact reference measure for 'that' is implied from context."
+   ],
+   "plain_english": "Below and above the balikas, the cane-band should be made half that measure."
+  },
+  {
+   "verse": 581,
+   "rows": [
+    {
+     "surface": "śikharasya",
+     "gloss": "of-peak",
+     "grounds": "genitive indicating relation to the peak",
+     "morph": "n.gen.sg"
+    },
+    {
+     "surface": "mānāntaṃ",
+     "gloss": "measure-end",
+     "grounds": "compound denoting the end or limit of the measure",
+     "morph": "māna+anta (compound, n.acc.sg)"
+    },
+    {
+     "surface": "padmatuṃgamudāhṛtam",
+     "gloss": "lotus-tuft-declared",
+     "grounds": "compound with past participle stating the lotus-tuft is declared as the limit",
+     "morph": "padma+tuṃga+udāhṛta (compound, n.nom.sg)"
+    }
+   ],
+   "question": "What element is declared as the terminal measure of the peak?",
+   "premises": [
+    "The peak has a defined measure-end.",
+    "The lotus-tuft is named in relation to this limit.",
+    "This identification is explicitly declared."
+   ],
+   "inference": "The lotus-tuft is declared to be the terminal measure of the peak.",
+   "uncertainties": [],
+   "plain_english": "The lotus-tuft is declared to be the upper limit of the peak’s measure."
+  },
+  {
+   "verse": 582,
+   "rows": [
+    {
+     "surface": "kuṃbhatāraṃ",
+     "gloss": "pot-width",
+     "grounds": "compound denoting the width of the pot element",
+     "morph": "kuṃbha+tāra (compound, n.acc.sg)"
+    },
+    {
+     "surface": "tribhāgaikaṃ",
+     "gloss": "one-third-part",
+     "grounds": "compound indicating one of three parts",
+     "morph": "tri+bhāga+eka (compound, n.acc.sg)"
+    },
+    {
+     "surface": "kuṃbhasyādho",
+     "gloss": "below-pot",
+     "grounds": "compound indicating position below the pot",
+     "morph": "kuṃbha+adhas (compound, indecl.)"
+    },
+    {
+     "surface": "balagnakam",
+     "gloss": "attached-element",
+     "grounds": "noun or adjective denoting the attached part",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What proportion of the pot-width defines the element attached below the pot?",
+   "premises": [
+    "The pot-width serves as the reference measure.",
+    "An element is attached below the pot.",
+    "This element is specified as one third part."
+   ],
+   "inference": "The element attached below the pot should be one third of the pot-width.",
+   "uncertainties": [],
+   "plain_english": "The element attached below the pot should be one third of the pot’s width."
+  },
+  {
+   "verse": 583,
+   "rows": [
+    {
+     "surface": "kandharaṃ",
+     "gloss": "neck",
+     "grounds": "noun naming the neck element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "triguṇaṃ",
+     "gloss": "threefold",
+     "grounds": "adjective indicating three times the measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pālitattribhāgaikakuḍmalam",
+     "gloss": "protected-one-third-bud",
+     "grounds": "compound describing a bud element as one third and protected",
+     "morph": "pālita+tri+bhāga+eka+kuḍmala (compound, n.acc.sg)"
+    }
+   ],
+   "question": "How are the neck and bud elements proportioned in this architectural prescription?",
+   "premises": [
+    "The neck element is specified as threefold.",
+    "A bud element is specified as one third part.",
+    "The bud element is described as protected."
+   ],
+   "inference": "The neck should be threefold, and the protected bud element should be one third.",
+   "uncertainties": [
+    "The base unit for the threefold and one-third measures is not explicitly stated."
+   ],
+   "plain_english": "Make the neck threefold, and make the protected bud element one third."
+  },
+  {
+   "verse": 584,
+   "rows": [
+    {
+     "surface": "valagnāntaṃ",
+     "gloss": "up-to-attached-end",
+     "grounds": "compound indicating the limit up to the attached end",
+     "morph": "valagna+anta (compound, n.acc.sg)"
+    },
+    {
+     "surface": "śiromadhyāt",
+     "gloss": "from-head-middle",
+     "grounds": "ablative compound indicating starting point at the middle of the head",
+     "morph": "śiras+madhya (compound, n.abl.sg)"
+    },
+    {
+     "surface": "anupūrvātkṛśaṃ",
+     "gloss": "gradually-slender",
+     "grounds": "compound indicating gradual tapering to slenderness",
+     "morph": "anupūrva+kṛśa (compound, n.acc.sg)"
+    },
+    {
+     "surface": "kuru",
+     "gloss": "make",
+     "grounds": "imperative verb giving instruction",
+     "morph": "2.sg.imperative-active (√kṛ)"
+    }
+   ],
+   "question": "How should the form be tapered from the middle of the head to the attached end?",
+   "premises": [
+    "The tapering begins from the middle of the head.",
+    "The tapering extends up to the attached end.",
+    "The form must become gradually slender."
+   ],
+   "inference": "One should make the form gradually slender from the middle of the head up to the attached end.",
+   "uncertainties": [],
+   "plain_english": "Make it gradually slender from the middle of the head up to the attached end."
+  },
+  {
+   "verse": 585,
+   "rows": [
+    {
+     "surface": "tasmatkapotanīvrāntakrameṇaiva",
+     "gloss": "from-that-by-pigeon-projection-end-sequence",
+     "grounds": "compound with emphatic particle indicating sequence from that point to the end of the pigeon projection",
+     "morph": "tat+kapota+nīvra+anta+krama+eva (compound + indecl.)"
+    },
+    {
+     "surface": "bṛhantaram",
+     "gloss": "larger",
+     "grounds": "comparative adjective indicating greater size",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "In what sequence must the element become progressively larger from that point onward?",
+   "premises": [
+    "A starting point is indicated by that prior element.",
+    "The sequence extends to the end of the pigeon projection.",
+    "The element must become larger in that sequence."
+   ],
+   "inference": "From that point onward, following the sequence to the end of the pigeon projection, it should become progressively larger.",
+   "uncertainties": [],
+   "plain_english": "From there, in sequence up to the end of the pigeon projection, make it progressively larger."
+  },
+  {
+   "verse": 586,
+   "rows": [
+    {
+     "surface": "dvāviṃśadvibhajeduṃccaṃ",
+     "gloss": "divide-height-into-twenty-two",
+     "grounds": "compound with verb indicating division of the height into twenty-two parts",
+     "morph": "dvāviṃśat+vibhaj+ucca (compound, 3.sg.optative-active √bhaj)"
+    },
+    {
+     "surface": "padmamānārdhabhāgayā",
+     "gloss": "by-lotus-measure-half-part",
+     "grounds": "instrumental compound indicating division by half-part of the lotus measure",
+     "morph": "padma+māna+ardha+bhāga (compound, f.inst.sg)"
+    }
+   ],
+   "question": "Into how many parts must the height be divided using the lotus-measure half-part?",
+   "premises": [
+    "The height is the dimension to be divided.",
+    "The division is performed using the lotus-measure half-part.",
+    "The total number of divisions is twenty-two."
+   ],
+   "inference": "The height should be divided into twenty-two parts using the half-part of the lotus measure.",
+   "uncertainties": [],
+   "plain_english": "Divide the height into twenty-two parts, using the half-part of the lotus measure."
+  },
+  {
+   "verse": 587,
+   "rows": [
+    {
+     "surface": "tatsamaṃ",
+     "gloss": "equal-to-that",
+     "grounds": "compound indicating equality with that measure",
+     "morph": "tat+sama (compound, n.acc.sg)"
+    },
+    {
+     "surface": "cordhvakaṃpaṃ",
+     "gloss": "and-upper-projection",
+     "grounds": "compound with conjunction indicating the upper projection",
+     "morph": "ca+ūrdhva+kampa (compound, n.acc.sg)"
+    },
+    {
+     "surface": "padmamaṃśena",
+     "gloss": "by-lotus-part",
+     "grounds": "instrumental compound indicating measure by a lotus part",
+     "morph": "padma+aṃśa (compound, n.inst.sg)"
+    },
+    {
+     "surface": "kalpayet",
+     "gloss": "should-arrange",
+     "grounds": "optative verb expressing prescription",
+     "morph": "3.sg.optative-active (√kḷp)"
+    }
+   ],
+   "question": "How should the upper projection be arranged in relation to the lotus part?",
+   "premises": [
+    "The upper projection is the element to be arranged.",
+    "Its measure is related to a lotus part.",
+    "It should be made equal to that reference."
+   ],
+   "inference": "One should arrange the upper projection equal to that, using one lotus part.",
+   "uncertainties": [],
+   "plain_english": "Arrange the upper projection equal to that, by one lotus part."
+  },
+  {
+   "verse": 588,
+   "rows": [
+    {
+     "surface": "padmamaṃśena",
+     "gloss": "by-lotus-part",
+     "grounds": "instrumental compound indicating measure by a lotus part",
+     "morph": "padma+aṃśa (compound, n.inst.sg)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kaṃpamardhāṃśamānataḥ",
+     "gloss": "projection-by-half-part-measure",
+     "grounds": "compound indicating the projection measured by a half part",
+     "morph": "kampa+ardha+aṃśa+māna+tas (compound + indecl.)"
+    }
+   ],
+   "question": "What measure must be used to make the projection in this specification?",
+   "premises": [
+    "A projection is to be made.",
+    "A lotus part is involved in the measurement.",
+    "The projection is specified as a half-part measure."
+   ],
+   "inference": "The projection should be made with a half-part measure by a lotus part.",
+   "uncertainties": [],
+   "plain_english": "The projection should be made measuring a half part by a lotus part."
+  },
+  {
+   "verse": 589,
+   "rows": [
+    {
+     "surface": "padmamardhena",
+     "gloss": "by-half-lotus",
+     "grounds": "instrumental compound indicating measure by half a lotus",
+     "morph": "padma+ardha (compound, n.inst.sg)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-made",
+     "grounds": "gerundive expressing obligation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pālikoccaṃ",
+     "gloss": "palika-height",
+     "grounds": "compound denoting the height of the palika element",
+     "morph": "pālikā+ucca (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tu ekayā",
+     "gloss": "but-by-one",
+     "grounds": "particle and instrumental indicating an alternative measure of one unit",
+     "morph": "indecl. + f.inst.sg"
+    }
+   ],
+   "question": "What alternative measures determine the height of the palika element?",
+   "premises": [
+    "The palika-height is the element to be made.",
+    "One prescribed measure is half a lotus.",
+    "An alternative measure of one unit is also given."
+   ],
+   "inference": "The palika-height should be made by half a lotus, or alternatively by one unit.",
+   "uncertainties": [
+    "The exact unit referred to by 'one' is context-dependent."
+   ],
+   "plain_english": "The height of the palika should be made by half a lotus, or by one unit."
+  },
+  {
+   "verse": 590,
+   "rows": [
+    {
+     "surface": "śikharākṛtivatkuṃbhaṃ",
+     "gloss": "pot-like-peak-form",
+     "grounds": "compound indicating the pot should resemble the form of the peak",
+     "morph": "śikhara+ākṛti+vat+kuṃbha (compound, n.acc.sg)"
+    },
+    {
+     "surface": "pālikākuḍmalaṃ",
+     "gloss": "palika-bud",
+     "grounds": "compound naming the bud of the palika element",
+     "morph": "pālikā+kuḍmala (compound, n.acc.sg)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "indeclinable indicating similarity or continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What formal resemblance must the pot and palika-bud follow in their construction?",
+   "premises": [
+    "The pot is prescribed to be like the form of the peak.",
+    "The palika-bud is included in the same prescription.",
+    "The term likewise extends the same formal principle."
+   ],
+   "inference": "The pot should be made like the form of the peak, and the palika-bud likewise.",
+   "uncertainties": [],
+   "plain_english": "Make the pot like the form of the peak, and likewise make the palika-bud."
+  },
+  {
+   "verse": 591,
+   "rows": [
+    {
+     "surface": "vṛttaṃ",
+     "gloss": "round",
+     "grounds": "adjective describing circular form",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vesaraharmyaṃ",
+     "gloss": "vesara-temple",
+     "grounds": "compound naming the vesara type of temple",
+     "morph": "vesara+harmya (compound, n.acc.sg)"
+    },
+    {
+     "surface": "tattatadvarvartanaṃ",
+     "gloss": "that-that-door-variation",
+     "grounds": "compound indicating variations according to respective doors",
+     "morph": "tat+tat+dvāra+vartana (compound, n.acc.sg)"
+    },
+    {
+     "surface": "kramāt",
+     "gloss": "in-order",
+     "grounds": "ablative used adverbially to indicate sequence",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How must the round vesara temple be varied according to its doors in sequence?",
+   "premises": [
+    "The temple type specified is the round vesara temple.",
+    "Variations are determined by the respective doors.",
+    "These variations must follow a sequential order."
+   ],
+   "inference": "The round vesara temple should be varied according to its respective doors in due order.",
+   "uncertainties": [
+    "The specific nature of each door variation is not detailed here."
+   ],
+   "plain_english": "The round vesara temple should be varied in order according to its respective doors."
+  },
+  {
+   "verse": 592,
+   "rows": [
+    {
+     "surface": "śikharaṃ",
+     "gloss": "peak",
+     "grounds": "noun naming the peak element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "noun denoting defining marks",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "past participle indicating prior statement",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nāsikā",
+     "gloss": "nose",
+     "grounds": "noun naming the nose element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "lakṣaṇaṃ",
+     "gloss": "characteristic",
+     "grounds": "noun denoting defining marks",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śṛṇu",
+     "gloss": "hear",
+     "grounds": "imperative verb addressing the listener",
+     "morph": "2.sg.imperative-active (√śru)"
+    }
+   ],
+   "question": "What transition is made from the declared peak characteristics to the nose characteristics?",
+   "premises": [
+    "The characteristics of the peak have been declared.",
+    "The characteristics of the nose are now introduced.",
+    "The listener is instructed to hear the next topic."
+   ],
+   "inference": "Having declared the peak’s characteristics, the text now turns to the characteristics of the nose.",
+   "uncertainties": [],
+   "plain_english": "The characteristics of the peak have been declared; now hear the characteristics of the nose."
+  },
+  {
+   "verse": 593,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-amshumat-kashyapa",
+     "grounds": "compound indicating conclusion within the Aṃśumatkāśyapa text",
+     "morph": "iti+aṃśumat+kāśyapa (compound, n.loc.sg)"
+    },
+    {
+     "surface": "śikharalakṣaṇapaṭalaḥ",
+     "gloss": "peak-characteristic-chapter",
+     "grounds": "compound naming the chapter on peak characteristics",
+     "morph": "śikhara+lakṣaṇa+paṭala (compound, m.nom.sg)"
+    },
+    {
+     "surface": "viṃśaḥ",
+     "gloss": "twentieth",
+     "grounds": "ordinal adjective indicating chapter number",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter concludes the treatment of peak characteristics in the Aṃśumatkāśyapa text?",
+   "premises": [
+    "The text is identified as Aṃśumatkāśyapa.",
+    "The topic concluded is the characteristics of the peak.",
+    "The chapter is numbered as the twentieth."
+   ],
+   "inference": "The twentieth chapter on the characteristics of the peak concludes here in the Aṃśumatkāśyapa.",
+   "uncertainties": [],
+   "plain_english": "Thus ends the twentieth chapter, on the characteristics of the peak, in the Aṃśumatkāśyapa."
+  },
+  {
+   "verse": 594,
+   "rows": [
+    {
+     "surface": "lalāṭanāsikā",
+     "gloss": "forehead-nose",
+     "grounds": "compound naming the forehead-nose element",
+     "morph": "lalāṭa+nāsikā (compound, f.nom.sg)"
+    },
+    {
+     "surface": "khyātā",
+     "gloss": "known",
+     "grounds": "past participle indicating it is recognized",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "śikhare",
+     "gloss": "on-peak",
+     "grounds": "locative indicating location on the peak",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tārasādṛśāḥ",
+     "gloss": "similar-to-width",
+     "grounds": "compound indicating similarity to the width or star measure",
+     "morph": "tāra+sādṛśa (compound, f.nom.pl)"
+    }
+   ],
+   "question": "How is the forehead-nose element characterized in relation to the peak’s width?",
+   "premises": [
+    "The forehead-nose element is located on the peak.",
+    "It is recognized by a specific similarity.",
+    "Its form is described as similar to the width."
+   ],
+   "inference": "The forehead-nose on the peak is known to be similar in measure to the width.",
+   "uncertainties": [
+    "The exact reference of 'tāra' as width or star-like form is ambiguous."
+   ],
+   "plain_english": "The forehead-nose on the peak is known to be similar to the width."
+  },
+  {
+   "verse": 595,
+   "rows": [
+    {
+     "surface": "kramānnāsīviśālāṃśaṃ",
+     "gloss": "gradually-nose-broad-part",
+     "grounds": "compound indicating the broad part of the nose in sequence",
+     "morph": "krama+nāsī+viśāla+aṃśa (compound, n.acc.sg)"
+    },
+    {
+     "surface": "uttamāmadhyamādhamā",
+     "gloss": "best-middle-lowest",
+     "grounds": "compound listing three grades of quality",
+     "morph": "uttama+madhyama+adhama (compound, f.nom.sg)"
+    }
+   ],
+   "question": "What three grades classify the broad part of the nose in sequential order?",
+   "premises": [
+    "The broad part of the nose is considered in sequence.",
+    "Three qualitative grades are named.",
+    "These grades are best, middle, and lowest."
+   ],
+   "inference": "The broad part of the nose is classified in sequence as best, middle, and lowest.",
+   "uncertainties": [],
+   "plain_english": "In sequence, the broad part of the nose is classified as best, middle, or lowest."
+  },
+  {
+   "verse": 596,
+   "rows": [
+    {
+     "surface": "samaṃ",
+     "gloss": "equal",
+     "grounds": "adjective indicating equal measure",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tripādamardhaṃ",
+     "gloss": "three-quarter-or-half",
+     "grounds": "compound offering fractional alternatives",
+     "morph": "tripāda+ardha (compound, n.acc.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śikharānnāsinīvrakam",
+     "gloss": "nose-projection-from-peak",
+     "grounds": "compound denoting the projection of the nose from the peak",
+     "morph": "śikhara+nāsinī+nīvra (compound, n.acc.sg)"
+    }
+   ],
+   "question": "What proportional options define the nose projection extending from the peak?",
+   "premises": [
+    "The nose projection from the peak is being measured.",
+    "Possible measures include equal, three-quarters, or half.",
+    "These are presented as alternatives."
+   ],
+   "inference": "The nose projection from the peak may be equal, three-quarters, or half.",
+   "uncertainties": [
+    "The reference unit for these proportions is not explicitly stated."
+   ],
+   "plain_english": "The projection of the nose from the peak may be equal, three-quarters, or half."
+  },
+  {
+   "verse": 597,
+   "rows": [
+    {
+     "surface": "nāsikātuṃgamākhyātaṃ",
+     "gloss": "nose-height-declared",
+     "grounds": "compound stating the height of the nose is declared",
+     "morph": "nāsikā+tuṃga+ākhyāta (compound, n.nom.sg)"
+    },
+    {
+     "surface": "tanmadhyoccamathāpi",
+     "gloss": "or-its-middle-height-also",
+     "grounds": "compound with particles offering an alternative as the middle height of that",
+     "morph": "tat+madhya+ucca+atha+api (compound + indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable indicating alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative reference points determine the declared height of the nose?",
+   "premises": [
+    "The height of the nose is declared.",
+    "One reference is the nose-height itself.",
+    "An alternative reference is the middle height of that element."
+   ],
+   "inference": "The nose-height is declared as such, or alternatively as its middle height.",
+   "uncertainties": [],
+   "plain_english": "The height of the nose is declared thus, or alternatively as its middle height."
+  },
+  {
+   "verse": 598,
+   "rows": [
+    {
+     "surface": "tribhāgaṃ",
+     "gloss": "three-parts",
+     "grounds": "compound indicating division into three parts",
+     "morph": "tri+bhāga (compound, n.acc.sg)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "indeclinable indicating alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tribhāgaikabhāgaṃ",
+     "gloss": "one-part-of-three",
+     "grounds": "compound indicating one part out of three",
+     "morph": "tri+bhāga+eka+bhāga (compound, n.acc.sg)"
+    },
+    {
+     "surface": "vātha",
+     "gloss": "or-else",
+     "grounds": "compound particle indicating another alternative",
+     "morph": "vā+atha (indecl.)"
+    },
+    {
+     "surface": "tadunnatam",
+     "gloss": "that-elevation",
+     "grounds": "compound denoting that raised height",
+     "morph": "tat+unnata (compound, n.acc.sg)"
+    }
+   ],
+   "question": "What fractional alternatives are prescribed for that elevated height?",
+   "premises": [
+    "An elevated height is being specified.",
+    "One option is three parts.",
+    "Another option is one part of three."
+   ],
+   "inference": "That elevation may be set as three parts, or as one part out of three.",
+   "uncertainties": [
+    "The base unit for these fractional divisions is implied."
+   ],
+   "plain_english": "That elevation may be three parts, or else one part out of three."
+  },
+  {
+   "verse": 599,
+   "rows": [
+    {
+     "surface": "dvibhāgaṃ",
+     "gloss": "two-parts",
+     "grounds": "compound indicating two parts",
+     "morph": "dvi+bhāga (compound, n.acc.sg)"
+    },
+    {
+     "surface": "kiṃpurī",
+     "gloss": "kimpuri",
+     "grounds": "noun naming the kimpuri element",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vaktraṃ",
+     "gloss": "face",
+     "grounds": "noun naming the face element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śeṣāṃśaṃ",
+     "gloss": "remaining-part",
+     "grounds": "compound indicating the remaining portion",
+     "morph": "śeṣa+aṃśa (compound, n.acc.sg)"
+    },
+    {
+     "surface": "galamānakam",
+     "gloss": "neck-measure",
+     "grounds": "compound denoting the measure of the neck",
+     "morph": "gala+mānaka (compound, n.acc.sg)"
+    }
+   ],
+   "question": "How are the face and neck measures apportioned in relation to the kimpuri element?",
+   "premises": [
+    "Two parts are assigned in the division.",
+    "The kimpuri face takes a specified portion.",
+    "The remaining part constitutes the neck-measure."
+   ],
+   "inference": "Two parts are divided so that the kimpuri face takes its share and the remaining part forms the neck-measure.",
+   "uncertainties": [
+    "The exact allocation of the two parts between face and neck is not fully explicit."
+   ],
+   "plain_english": "Of two parts, the kimpuri face takes its portion, and the remaining part is the measure of the neck."
+  }
+ ]
+}

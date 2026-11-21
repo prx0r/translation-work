@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m00029-p01",
+ "items": [
+  {
+   "verse": 1,
+   "rows": [
+    {
+     "surface": "ityarpayet",
+     "gloss": "thus-one-should-offer",
+     "grounds": "iti + arpayet; optative expressing injunction",
+     "morph": "3.sg.act-optative √ṛ(caus.)"
+    },
+    {
+     "surface": "samastaṃ",
+     "gloss": "all",
+     "grounds": "object of offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrahmaṇi",
+     "gloss": "in-brahman",
+     "grounds": "locus of offering; spelling as given in text",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "saguṇe",
+     "gloss": "with-qualities",
+     "grounds": "qualifies vrahmaṇi; sa-guṇa compound",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "samastasampatyai",
+     "gloss": "for-all-prosperity",
+     "grounds": "purpose of offering; samasta-sampatti compound",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What purpose is achieved by offering everything to Brahman possessing qualities?",
+   "premises": [
+    "One should thus offer everything.",
+    "The offering is directed to Brahman possessing qualities.",
+    "The stated purpose of this offering is the attainment of all prosperity."
+   ],
+   "inference": "Offering everything to qualified Brahman brings about all prosperity.",
+   "uncertainties": [
+    "The spelling vrahmaṇi for brahmaṇi is retained as given; intended referent is Brahman."
+   ],
+   "plain_english": "Thus one should offer everything to Brahman with qualities, for the attainment of all prosperity."
+  }
+ ]
+}

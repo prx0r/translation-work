@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p143",
+ "items": [
+  {
+   "verse": 3575,
+   "rows": [
+    {
+     "surface": "māyālakṣmīḥ",
+     "gloss": "maya-lakshmi",
+     "grounds": "compound name of Maya-Lakshmi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahālakṣmīḥ",
+     "gloss": "maha-lakshmi",
+     "grounds": "compound name of Maha-Lakshmi",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "māyāvatī",
+     "gloss": "mayavati",
+     "grounds": "name of Mayavati",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "abhimāninī",
+     "gloss": "proud",
+     "grounds": "adjective naming the proud one",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which four names identify the proud Maya-Lakshmi treasury forms?",
+   "premises": [
+    "Maya-Lakshmi is named first.",
+    "Maha-Lakshmi is named second.",
+    "Mayavati is named third.",
+    "The proud one is named fourth."
+   ],
+   "inference": "The verse enumerates four named forms associated with the treasury context.",
+   "uncertainties": [
+    "The verse does not specify ritual function for each name."
+   ],
+   "plain_english": "Maya-Lakshmi, Maha-Lakshmi, Mayavati, and the proud one."
+  }
+ ]
+}

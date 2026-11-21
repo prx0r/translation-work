@@ -1,0 +1,64 @@
+{
+ "song": "mukta-m0-p82",
+ "items": [
+  {
+   "verse": 2050,
+   "rows": [
+    {
+     "surface": "kamala+āsya",
+     "gloss": "lotus-faced",
+     "grounds": "vocative address; compound describing the face as like a lotus",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "he",
+     "gloss": "O",
+     "grounds": "vocative particle introducing direct address",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahā+bhāga",
+     "gloss": "greatly-fortunate-one",
+     "grounds": "vocative epithet; compound expressing great fortune or eminence",
+     "morph": "compound.voc.sg.m"
+    },
+    {
+     "surface": "namas",
+     "gloss": "obeisance",
+     "grounds": "expression of reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "te",
+     "gloss": "to-you",
+     "grounds": "recipient of the obeisance",
+     "morph": "pron.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tri+puṣkara",
+     "gloss": "O-Tripuṣkara",
+     "grounds": "vocative name or epithet addressing Tripuṣkara",
+     "morph": "compound.voc.sg.m"
+    }
+   ],
+   "question": "Who is being reverently saluted through the epithets lotus-faced and greatly fortunate Tripuṣkara?",
+   "premises": [
+    "The vocative particle he marks a direct address.",
+    "The epithets kamala+āsya and mahā+bhāga qualify the addressee.",
+    "The word namas expresses obeisance directed to te.",
+    "The name tri+puṣkara identifies the recipient of the salutation."
+   ],
+   "inference": "The speaker offers obeisance to the addressed figure Tripuṣkara, characterized as lotus-faced and greatly fortunate.",
+   "uncertainties": [
+    "The specific identity or role of Tripuṣkara in this context is not explicit within this verse alone."
+   ],
+   "plain_english": "O lotus-faced, greatly fortunate Tripuṣkara, obeisance to you."
+  }
+ ]
+}

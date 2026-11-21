@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p275",
+ "items": [
+  {
+   "verse": 6875,
+   "rows": [
+    {
+     "surface": "narayānena",
+     "gloss": "by-human-vehicle",
+     "grounds": "instrumental of compound nara-yāna indicating means of travel",
+     "morph": "compound nara+yāna, n.inst.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devīṃ",
+     "gloss": "goddess",
+     "grounds": "object of invocation or approach",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarvavighnavināśinīm",
+     "gloss": "all-obstacle-destroying",
+     "grounds": "compound qualifier describing the goddess as remover of all impediments",
+     "morph": "compound sarva+vighna+vināśinī, f.acc.sg"
+    }
+   ],
+   "question": "By what means or to which deity is protection sought against all obstacles?",
+   "premises": [
+    "A human vehicle is named as one possible means.",
+    "The goddess is characterized as the destroyer of all obstacles.",
+    "An alternative is presented between these means of seeking protection."
+   ],
+   "inference": "Protection from obstacles may be sought by traveling in a human vehicle or by invoking the goddess who destroys all obstacles.",
+   "uncertainties": [
+    "The governing verb is implicit from the preceding verses and not expressed in this verse."
+   ],
+   "plain_english": "Whether by a human vehicle or by invoking the goddess who destroys all obstacles."
+  }
+ ]
+}

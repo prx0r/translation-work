@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p01",
+ "items": [
+  {
+   "verse": 25,
+   "rows": [
+    {
+     "surface": "vinaya",
+     "gloss": "humility",
+     "grounds": "first member of descriptive compound with avanatā",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "avanatā",
+     "gloss": "bowed-down",
+     "grounds": "describes sādhvī; compounded with vinaya",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhvī",
+     "gloss": "virtuous-woman",
+     "grounds": "subject of paripapraccha",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paripapraccha",
+     "gloss": "questioned",
+     "grounds": "main verb governing śaṅkaram",
+     "morph": "3.sg.perfect.active (√prach)"
+    },
+    {
+     "surface": "śaṅkaram",
+     "gloss": "śaṅkara",
+     "grounds": "object of paripapraccha",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "With what disposition did the virtuous woman question Śaṅkara?",
+   "premises": [
+    "The woman is described as virtuous.",
+    "She is bowed down with humility.",
+    "She directly questioned Śaṅkara."
+   ],
+   "inference": "The virtuous woman approached Śaṅkara in humble reverence and posed her question to him.",
+   "uncertainties": [],
+   "plain_english": "Bowed down with humility, the virtuous woman questioned Śaṅkara."
+  }
+ ]
+}

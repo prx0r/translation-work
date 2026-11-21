@@ -1,0 +1,71 @@
+{
+ "song": "mukta-m0-p03",
+ "items": [
+  {
+   "verse": 51,
+   "rows": [
+    {
+     "surface": "svāyambhuvasya",
+     "gloss": "of-the-self-born",
+     "grounds": "Refers to the teaching or scripture of Svāyambhuva; genitive qualifying the subject matter being explained.",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "jaḍatām+apanetum+anādikām",
+     "gloss": "beginningless-inertness-to-remove",
+     "grounds": "Fused expression: jaḍatām (inertness, accusative) qualified by anādikām (beginningless), governed by infinitive apanetum (to remove).",
+     "morph": "compound+infinitive"
+    },
+    {
+     "surface": "puṃbhyaḥ",
+     "gloss": "for-individual-selves",
+     "grounds": "Dative of benefit; refers to bound individual selves (aṇu) for whom the removal is intended.",
+     "morph": "m.dat.pl"
+    }
+   ],
+   "question": "For what purpose is the teaching of the Svāyambhuva presented to individual selves?",
+   "premises": [
+    "Individual selves are affected by beginningless inertness.",
+    "The teaching of the Svāyambhuva aims at removing that inertness.",
+    "The exposition is directed for the benefit of individual selves."
+   ],
+   "inference": "Therefore, the Svāyambhuva teaching is presented to remove the beginningless inertness of individual selves.",
+   "uncertainties": [
+    "Whether svāyambhuvasya refers specifically to the Svāyambhuvāgama or more generally to a self-born teaching is context-dependent."
+   ],
+   "plain_english": "The teaching of the Svāyambhuva is presented in order to remove the beginningless inertness of individual selves."
+  },
+  {
+   "verse": 52,
+   "rows": [
+    {
+     "surface": "saṃkṣepeṇa",
+     "gloss": "in-brief",
+     "grounds": "Instrumental indicating the manner of presentation.",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pratipādyate",
+     "gloss": "is-explained",
+     "grounds": "Passive verb indicating that the subject matter is being taught or set forth.",
+     "morph": "3.sg.pass-present (√pad with prati)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "Concluding particle marking the end of the statement or exposition.",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what manner is this doctrinal teaching being set forth?",
+   "premises": [
+    "The teaching is being formally explained.",
+    "The mode of explanation is brevity.",
+    "The particle iti marks the conclusion of this presentation."
+   ],
+   "inference": "Therefore, the doctrinal teaching is concluded as having been explained briefly.",
+   "uncertainties": [],
+   "plain_english": "Thus, it is explained in brief."
+  }
+ ]
+}

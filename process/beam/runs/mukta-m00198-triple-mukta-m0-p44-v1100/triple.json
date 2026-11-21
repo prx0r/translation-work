@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p44",
+ "items": [
+  {
+   "verse": 1100,
+   "rows": [
+    {
+     "surface": "evamāditale",
+     "gloss": "on-such-a-floor",
+     "grounds": "compound evam-ādi-tala in locative singular, indicating a floor or platform of this kind",
+     "morph": "compound loc.sg.nt"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "one-should-make",
+     "grounds": "optative verb expressing prescribed action",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "antaraprastarānvitam",
+     "gloss": "furnished-with-intermediate-courses",
+     "grounds": "compound antaraprastara-anvita, describing the constructed object as provided with intermediate layers or courses",
+     "morph": "compound acc.sg.nt"
+    }
+   ],
+   "question": "What structural feature must be included when constructing a floor of this described kind?",
+   "premises": [
+    "The construction takes place on a floor of the kind previously described.",
+    "The prescribed action is that one should make or arrange the structure.",
+    "The resulting structure must be furnished with intermediate courses."
+   ],
+   "inference": "Therefore, a floor of this type should be constructed so as to include intermediate courses.",
+   "uncertainties": [
+    "The exact architectural referent of antaraprastara in this context is not fully specified."
+   ],
+   "plain_english": "On a floor of this kind, one should construct it furnished with intermediate courses."
+  }
+ ]
+}

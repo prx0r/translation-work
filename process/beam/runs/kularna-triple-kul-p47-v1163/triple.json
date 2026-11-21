@@ -1,0 +1,503 @@
+{
+ "song": "kul-p47",
+ "items": [
+  {
+   "verse": 1163,
+   "rows": [
+    {
+     "surface": "maṅgalādyaiḥ",
+     "gloss": "with-auspicious-etc",
+     "grounds": "instrumental plural of maṅgala-ādi",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mithunaiḥ",
+     "gloss": "with-pairs",
+     "grounds": "instrumental plural of mithuna",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "aṣṭabhiḥ",
+     "gloss": "with-eight",
+     "grounds": "instrumental plural of aṣṭa",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "śabditāḥ",
+     "gloss": "called",
+     "grounds": "past participle of śabd",
+     "morph": "m.nom.pl.past-part"
+    },
+    {
+     "surface": "priye",
+     "gloss": "dear",
+     "grounds": "vocative of priya",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "How are the eight auspicious pairs named?",
+   "premises": [
+    "Eight auspicious pairs are named.",
+    "The address is to the dear one."
+   ],
+   "inference": "The verse names eight auspicious pairs in address to the dear goddess.",
+   "uncertainties": [
+    "Exact list of auspicious pairs is not supplied in this verse."
+   ],
+   "plain_english": "With auspicious and other pairs, eight are called pairs, dear one."
+  },
+  {
+   "verse": 1164,
+   "rows": [
+    {
+     "surface": "akṣobhyādicatuḥṣaṣṭimithunāni",
+     "gloss": "from-Akshobhya-sixty-four-pairs",
+     "grounds": "compound naming sixty-four pairs beginning with Akshobhya",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative of sam-arc",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "How many pairs from Akshobhya should be worshipped?",
+   "premises": [
+    "Sixty-four pairs beginning with Akshobhya are named.",
+    "Worship is enjoined."
+   ],
+   "inference": "One should worship the sixty-four pairs beginning with Akshobhya.",
+   "uncertainties": [
+    "The full sequence of sixty-four pairs is not listed here."
+   ],
+   "plain_english": "One should worship the sixty-four pairs beginning with Akshobhya."
+  },
+  {
+   "verse": 1165,
+   "rows": [
+    {
+     "surface": "kramalopaṃ",
+     "gloss": "sequence-omission",
+     "grounds": "accusative of krama-lopa",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kurvīta",
+     "gloss": "should-do",
+     "grounds": "optative of kṛ",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "sveṣṭakāryārthasiddhaye",
+     "gloss": "for-own-desired-act-accomplishment",
+     "grounds": "dative of sveṣṭa-kārya-artha-siddhi",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "Why should sequence omission be avoided?",
+   "premises": [
+    "Sequence omission is forbidden.",
+    "The aim is accomplishment of one's desired act."
+   ],
+   "inference": "One should not omit the sequence, so that one's desired act may be accomplished.",
+   "uncertainties": [
+    "The exact sequence details are not restated here."
+   ],
+   "plain_english": "One should not omit the sequence, for the accomplishment of one's desired act."
+  },
+  {
+   "verse": 1166,
+   "rows": [
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "santoṣayed",
+     "gloss": "should-please",
+     "grounds": "causative optative of santuṣ",
+     "morph": "3.sg.opt.caus"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-Goddess",
+     "grounds": "vocative of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mithunāni",
+     "gloss": "pairs",
+     "grounds": "accusative plural of mithuna",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "atibhaktitaḥ",
+     "gloss": "with-great-devotion",
+     "grounds": "ablative of ati-bhakti",
+     "morph": "f.abl.sg"
+    }
+   ],
+   "question": "How should the pairs be pleased?",
+   "premises": [
+    "The pairs should be pleased properly.",
+    "Great devotion is required."
+   ],
+   "inference": "One should properly please the pairs with great devotion, O Goddess.",
+   "uncertainties": [
+    "No specific ritual details are given in this verse."
+   ],
+   "plain_english": "Properly please the pairs with great devotion, O Goddess."
+  },
+  {
+   "verse": 1167,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaḥ",
+     "gloss": "who",
+     "grounds": "relative pronoun",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kurute",
+     "gloss": "does",
+     "grounds": "present of kṛ",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-Goddess",
+     "grounds": "vocative of devī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "sakṛdaṣṭāṣṭakārcanam",
+     "gloss": "once-eight-eights-worship",
+     "grounds": "compound of sakṛt, aṣṭa, aṣṭaka, arcana",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What does one who performs this worship once gain?",
+   "premises": [
+    "One performs the worship once.",
+    "The worship consists of eight eights."
+   ],
+   "inference": "One who performs this worship once, O Goddess, completes the eight-eights worship.",
+   "uncertainties": [
+    "The exact benefit is stated in following verses."
+   ],
+   "plain_english": "Thus one who performs, O Goddess, the worship of eight eights once."
+  },
+  {
+   "verse": 1168,
+   "rows": [
+    {
+     "surface": "kiṃ punar",
+     "gloss": "what-then",
+     "grounds": "interrogative phrase",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mānavādyaiḥ",
+     "gloss": "with-mantra-etc",
+     "grounds": "instrumental plural of mantra-ādi",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śiva",
+     "gloss": "Shiva",
+     "grounds": "nominative of Śiva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "ivāparaḥ",
+     "gloss": "like-another",
+     "grounds": "compound of iva and apara",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What follows for one who worships with mantras?",
+   "premises": [
+    "The verse asks what then.",
+    "Mantras and direct worship are mentioned."
+   ],
+   "inference": "The verse asks what more follows when one worships with mantras and directly like another Shiva.",
+   "uncertainties": [
+    "The rhetorical question is not answered within this verse."
+   ],
+   "plain_english": "What then, with mantras and directly, like another Shiva?"
+  },
+  {
+   "verse": 1169,
+   "rows": [
+    {
+     "surface": "punarāvṛttirahito",
+     "gloss": "free-from-rebirth",
+     "grounds": "compound of punar-āvṛtti and rahita",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nivaset",
+     "gloss": "may-dwell",
+     "grounds": "optative of nivas",
+     "morph": "3.sg.opt.act"
+    },
+    {
+     "surface": "tava",
+     "gloss": "your",
+     "grounds": "genitive of tvam",
+     "morph": "pron.gen.sg"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "presence",
+     "grounds": "locative of sannidhi",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where may one free from rebirth dwell?",
+   "premises": [
+    "One is free from rebirth.",
+    "Dwelling in your presence is stated."
+   ],
+   "inference": "One free from rebirth may dwell in your presence.",
+   "uncertainties": [
+    "The exact duration or condition is not specified."
+   ],
+   "plain_english": "Free from rebirth, one may dwell in your presence."
+  },
+  {
+   "verse": 1170,
+   "rows": [
+    {
+     "surface": "asmāt",
+     "gloss": "than-this",
+     "grounds": "ablative of idam",
+     "morph": "pron.abl.sg"
+    },
+    {
+     "surface": "paratarā",
+     "gloss": "higher",
+     "grounds": "comparative of para",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "nominative of pūjā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "nāsti",
+     "gloss": "is-not",
+     "grounds": "negative of asti",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "satyaṃ",
+     "gloss": "truth",
+     "grounds": "nominative of satya",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative of saṃśaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Is there any worship higher than this?",
+   "premises": [
+    "No worship higher than this exists.",
+    "Truth and no doubt are affirmed."
+   ],
+   "inference": "There is no worship higher than this; it is truth, without doubt.",
+   "uncertainties": [
+    "The referent of this worship is the preceding rite."
+   ],
+   "plain_english": "There is no worship higher than this; truth, no doubt."
+  },
+  {
+   "verse": 1171,
+   "rows": [
+    {
+     "surface": "yajñadānatapastīrthavratakoṭiphalaṃ",
+     "gloss": "sacrifice-gift-austerity-pilgrimage-vow-crore-fruit",
+     "grounds": "compound of yajña, dāna, tapas, tīrtha, vrata, koṭi, phala",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "optative of labh",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What fruit does one obtain from this worship?",
+   "premises": [
+    "The fruit of many sacrifices and vows is named.",
+    "One obtains it."
+   ],
+   "inference": "One obtains the fruit of crores of sacrifices, gifts, austerities, pilgrimages, and vows.",
+   "uncertainties": [
+    "The exact equivalence is rhetorical."
+   ],
+   "plain_english": "One obtains the fruit of crores of sacrifices, gifts, austerities, pilgrimages, and vows."
+  },
+  {
+   "verse": 1172,
+   "rows": [
+    {
+     "surface": "catuḥsāgaraparyantāṃ",
+     "gloss": "up-to-four-oceans",
+     "grounds": "compound adjective modifying earth",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahīṃ",
+     "gloss": "earth",
+     "grounds": "accusative of mahī",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śāsti",
+     "gloss": "rules",
+     "grounds": "present of śās",
+     "morph": "3.sg.act.pres"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "nominative of saṃśaya",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What dominion is promised without doubt?",
+   "premises": [
+    "One rules earth up to four oceans.",
+    "No doubt is stated."
+   ],
+   "inference": "One rules the earth up to the four oceans, without doubt.",
+   "uncertainties": [
+    "The subject is implied from context."
+   ],
+   "plain_english": "One rules the earth up to the four oceans, no doubt."
+  },
+  {
+   "verse": 1173,
+   "rows": [
+    {
+     "surface": "pūrvoktena",
+     "gloss": "by-previously-stated",
+     "grounds": "instrumental of pūrvokta",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "vidhānena",
+     "gloss": "rite",
+     "grounds": "instrumental of vidhāna",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "kuleśvari",
+     "gloss": "O-Kuleshvari",
+     "grounds": "vocative of kuleśvarī",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vidhānavit",
+     "gloss": "rite-knower",
+     "grounds": "compound nominative",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who performs the previously stated rite?",
+   "premises": [
+    "The rite was previously stated.",
+    "The rite-knower performs it."
+   ],
+   "inference": "The rite-knower performs the previously stated rite, O Kuleshvari.",
+   "uncertainties": [
+    "The exact identity of the rite-knower is contextual."
+   ],
+   "plain_english": "By the previously stated rite, O Kuleshvari, the rite-knower."
+  },
+  {
+   "verse": 1174,
+   "rows": [
+    {
+     "surface": "prauḍhāntollāsayuktāni",
+     "gloss": "with-mature-end-joy-endowed",
+     "grounds": "compound adjective modifying pairs",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "mithunāni",
+     "gloss": "pairs",
+     "grounds": "accusative plural of mithuna",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "samarcayet",
+     "gloss": "should-worship",
+     "grounds": "optative of sam-arc",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What kind of pairs should be worshipped?",
+   "premises": [
+    "Mature-end-joy-endowed pairs are named.",
+    "Worship is enjoined."
+   ],
+   "inference": "One should worship pairs endowed with mature-end joy.",
+   "uncertainties": [
+    "The phrase prauḍhāntollāsa is obscure."
+   ],
+   "plain_english": "One should worship pairs endowed with mature-end joy."
+  }
+ ]
+}

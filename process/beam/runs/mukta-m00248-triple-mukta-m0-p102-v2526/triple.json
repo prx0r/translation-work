@@ -1,0 +1,1079 @@
+{
+ "song": "mukta-m0-p102",
+ "items": [
+  {
+   "verse": 2526,
+   "rows": [
+    {
+     "surface": "snātvā",
+     "gloss": "having-bathed",
+     "grounds": "absolutive of snā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ācamya",
+     "gloss": "and-having-sipped-water",
+     "grounds": "absolutive of ācam",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ācāryaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "nominative singular masculine participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What preparatory discipline must the teacher observe before leading the installation procession?",
+   "premises": [
+    "The teacher bathes and sips water according to rule.",
+    "The teacher remains composed."
+   ],
+   "inference": "Ritual installation begins with purified and composed teacherly conduct.",
+   "uncertainties": [
+    "Exact ritual sequence beyond this verse is not specified."
+   ],
+   "plain_english": "After bathing and sipping water according to rule, the composed teacher proceeds."
+  },
+  {
+   "verse": 2527,
+   "rows": [
+    {
+     "surface": "devadevaṃ",
+     "gloss": "god-of-gods",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "samutthāpya",
+     "gloss": "having-raised",
+     "grounds": "absolutive of samutthā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "śakaṭa+upari",
+     "gloss": "on-cart",
+     "grounds": "compound locative",
+     "morph": "loc.sg"
+    },
+    {
+     "surface": "nirvahet",
+     "gloss": "should-carry",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should the god of gods be transported during the installation procession?",
+   "premises": [
+    "The deity is raised up.",
+    "The deity is carried on a cart."
+   ],
+   "inference": "The installation procession moves the deity by cart after raising it.",
+   "uncertainties": [
+    "Who physically carries the cart is not stated."
+   ],
+   "plain_english": "Having raised the god of gods, one should carry him on a cart."
+  },
+  {
+   "verse": 2528,
+   "rows": [
+    {
+     "surface": "grāmaṃ",
+     "gloss": "village",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nagaraṃ",
+     "gloss": "city",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pattanaṃ",
+     "gloss": "town",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradakṣiṇam",
+     "gloss": "clockwise",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Through what kinds of settlements should the procession move clockwise?",
+   "premises": [
+    "The route may pass village, city, or town.",
+    "The movement is clockwise."
+   ],
+   "inference": "The installation procession circumambulates settlements clockwise.",
+   "uncertainties": [
+    "Whether all three settlement types are required is not stated."
+   ],
+   "plain_english": "One should go clockwise through village, city, or town."
+  },
+  {
+   "verse": 2529,
+   "rows": [
+    {
+     "surface": "ācāryaḥ",
+     "gloss": "teacher",
+     "grounds": "nominative singular masculine",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agrataḥ",
+     "gloss": "in-front",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gacchet",
+     "gloss": "should-go",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "arghya+antasya",
+     "gloss": "of-offering",
+     "grounds": "genitive singular masculine compound",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "samāhitaḥ",
+     "gloss": "composed",
+     "grounds": "nominative singular masculine participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Where should the composed teacher walk relative to the offering during procession?",
+   "premises": [
+    "The teacher goes in front.",
+    "The teacher remains composed."
+   ],
+   "inference": "The teacher leads the procession while composed and ahead of the offering.",
+   "uncertainties": [
+    "The exact referent of the offering is not specified."
+   ],
+   "plain_english": "The composed teacher should go in front, ahead of the offering."
+  },
+  {
+   "verse": 2530,
+   "rows": [
+    {
+     "surface": "śaṅkha+tūrya+ninādaiḥ",
+     "gloss": "with-conch-drum-sounds",
+     "grounds": "instrumental plural masculine compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṇyāha+jaya+maṅgalaiḥ",
+     "gloss": "with-auspicious-day-victory-blessings",
+     "grounds": "instrumental plural neuter compound",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "What sounds and blessings should accompany the installation procession?",
+   "premises": [
+    "Conch and drum sounds accompany it.",
+    "Auspicious-day, victory, and blessing formulas accompany it."
+   ],
+   "inference": "The procession is marked by conch, drum, and auspicious blessing sounds.",
+   "uncertainties": [
+    "No specific mantra texts are given."
+   ],
+   "plain_english": "With conch and drum sounds, and with auspicious-day, victory, and blessing formulas."
+  },
+  {
+   "verse": 2531,
+   "rows": [
+    {
+     "surface": "deva+ālayaṃ",
+     "gloss": "temple",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "samāgatya",
+     "gloss": "having-approached",
+     "grounds": "absolutive of samāgam",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "praviśet",
+     "gloss": "should-enter",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "garbha+mandire",
+     "gloss": "in-sanctum-chamber",
+     "grounds": "locative singular neuter compound",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should the deity be brought after approaching the temple?",
+   "premises": [
+    "The temple is approached.",
+    "Entry is into the sanctum chamber."
+   ],
+   "inference": "The installation culminates in entering the temple's sanctum chamber.",
+   "uncertainties": [
+    "No preparatory purification of the sanctum is mentioned here."
+   ],
+   "plain_english": "Having approached the temple, one should enter the sanctum chamber."
+  },
+  {
+   "verse": 2532,
+   "rows": [
+    {
+     "surface": "nirmālyaṃ",
+     "gloss": "used-offerings",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sarva+tantraiḥ",
+     "gloss": "with-all-rituals",
+     "grounds": "instrumental plural neuter compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "visṛjya",
+     "gloss": "having-removed",
+     "grounds": "absolutive of visṛj",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "praviśet",
+     "gloss": "should-enter",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "guhaḥ",
+     "gloss": "O-Guha",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "What must be removed before entering the sanctum?",
+   "premises": [
+    "Used offerings are removed.",
+    "Entry follows their removal."
+   ],
+   "inference": "Old offerings are cleared before sanctum entry.",
+   "uncertainties": [
+    "Whether all ritual implements are also removed is not stated."
+   ],
+   "plain_english": "Having removed used offerings with all rituals, one should enter, O Guha."
+  },
+  {
+   "verse": 2533,
+   "rows": [
+    {
+     "surface": "prāsāda+śatakaṃ",
+     "gloss": "prāsāda-hundred",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "divyaṃ",
+     "gloss": "divine",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "bīja+mukhyena",
+     "gloss": "with-chief-seed",
+     "grounds": "instrumental singular masculine compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "saṃpuṭe",
+     "gloss": "in-casket",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "How is the divine prāsāda hundred to be contained during installation?",
+   "premises": [
+    "The divine prāsāda hundred is used.",
+    "It is placed in a casket with the chief seed."
+   ],
+   "inference": "The prāsāda hundred is ritually contained with the chief seed in a casket.",
+   "uncertainties": [
+    "The exact nature of prāsāda hundred is not explained."
+   ],
+   "plain_english": "The divine prāsāda hundred, with the chief seed, is in a casket."
+  },
+  {
+   "verse": 2534,
+   "rows": [
+    {
+     "surface": "sakalaṃ",
+     "gloss": "with-parts",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣkalaṃ",
+     "gloss": "without-parts",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "brahma+śilā+upari",
+     "gloss": "upon-brahma-stone",
+     "grounds": "locative singular feminine compound",
+     "morph": "f.loc.sg"
+    }
+   ],
+   "question": "What meditative pairing must be placed upon the brahma stone?",
+   "premises": [
+    "One meditates on the with-parts and without-parts forms.",
+    "They are placed upon the brahma stone."
+   ],
+   "inference": "Installation requires meditating on both qualified and unqualified aspects before placement.",
+   "uncertainties": [
+    "Whether sakala and niṣkala are two deities or aspects is not stated."
+   ],
+   "plain_english": "Having meditated on the with-parts and without-parts forms, one should place them upon the brahma stone."
+  },
+  {
+   "verse": 2535,
+   "rows": [
+    {
+     "surface": "sadyena",
+     "gloss": "with-sadya",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "pañcayet",
+     "gloss": "should-worship",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vāmadevena",
+     "gloss": "with-vāmadeva",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "sthāpayet",
+     "gloss": "should-install",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Which mantras are used to worship and install the deity?",
+   "premises": [
+    "The deity is worshipped with sadya.",
+    "The deity is installed with vāmadeva."
+   ],
+   "inference": "Worship and installation use distinct mantra assignments.",
+   "uncertainties": [
+    "The exact mantra texts are not given."
+   ],
+   "plain_english": "One should worship the god with sadya and install him with vāmadeva."
+  },
+  {
+   "verse": 2536,
+   "rows": [
+    {
+     "surface": "īśānena",
+     "gloss": "with-īśāna",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puṣpāṇi",
+     "gloss": "flowers",
+     "grounds": "accusative plural neuter",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "makuṭaṃ",
+     "gloss": "crown",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuṇḍalāni",
+     "gloss": "earrings",
+     "grounds": "accusative plural neuter",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What offerings and ornaments are assigned to īśāna?",
+   "premises": [
+    "Īśāna is used.",
+    "Flowers, crown, and earrings are mentioned."
+   ],
+   "inference": "Īśāna governs flowers and royal ornaments in the installation.",
+   "uncertainties": [
+    "Whether these are offered or merely assigned is not explicit."
+   ],
+   "plain_english": "With īśāna, indeed, flowers, crown, and earrings."
+  },
+  {
+   "verse": 2537,
+   "rows": [
+    {
+     "surface": "aghora",
+     "gloss": "with-aghora",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "dakṣiṇe",
+     "gloss": "in-south",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of sthā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "in-east",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "puruṣaṃ",
+     "gloss": "puruṣa",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "Where are aghora and puruṣa placed during installation?",
+   "premises": [
+    "Aghora is placed in the south.",
+    "Puruṣa is placed in the east."
+   ],
+   "inference": "Directional placement assigns aghora south and puruṣa east.",
+   "uncertainties": [
+    "The full directional scheme is not completed in this verse."
+   ],
+   "plain_english": "Having placed aghora in the south, one should place puruṣa in the east."
+  },
+  {
+   "verse": 2538,
+   "rows": [
+    {
+     "surface": "tryakṣaṃ",
+     "gloss": "three-eyed",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dvibhujaṃ",
+     "gloss": "two-armed",
+     "grounds": "accusative singular masculine adjective",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "candrārdha+kṛta+śekharam",
+     "gloss": "crescent-moon-made-crest",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What bodily form is attributed to the installed god?",
+   "premises": [
+    "The god is three-eyed and two-armed.",
+    "The god has a crescent-moon-made crest."
+   ],
+   "inference": "The installed deity is visualized with a specific Śaiva iconographic form.",
+   "uncertainties": [
+    "Whether this form applies to all installations is not stated."
+   ],
+   "plain_english": "The god is three-eyed, two-armed, with a crest made of a crescent moon."
+  },
+  {
+   "verse": 2539,
+   "rows": [
+    {
+     "surface": "divya+ambara+dharaṃ",
+     "gloss": "divine-garment-wearing",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "divya+gandha+anulepanam",
+     "gloss": "divine-fragrance-anointed",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What divine adornment and fragrance characterize the installed god?",
+   "premises": [
+    "The god wears divine garments.",
+    "The god is anointed with divine fragrance."
+   ],
+   "inference": "The deity's form includes divine clothing and fragrance.",
+   "uncertainties": [
+    "Specific garment or fragrance types are not named."
+   ],
+   "plain_english": "The god wears divine garments and is anointed with divine fragrance."
+  },
+  {
+   "verse": 2540,
+   "rows": [
+    {
+     "surface": "sarva+ābharaṇa+madhyakṣaṃ",
+     "gloss": "all-ornaments-lord",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "sarva+ābharaṇa+bhūṣitam",
+     "gloss": "with-all-ornaments-adorned",
+     "grounds": "accusative singular masculine compound",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "How is the installed god related to ornaments?",
+   "premises": [
+    "The god is lord of all ornaments.",
+    "The god is adorned with all ornaments."
+   ],
+   "inference": "The deity is both sovereign over and adorned with all ornaments.",
+   "uncertainties": [
+    "Whether ornaments are material or subtle is not stated."
+   ],
+   "plain_english": "The god is lord of all ornaments and adorned with all ornaments."
+  },
+  {
+   "verse": 2541,
+   "rows": [
+    {
+     "surface": "liṅge",
+     "gloss": "in-liṅga",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "devaṃ",
+     "gloss": "god",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bīja+mukhyena",
+     "gloss": "with-chief-seed",
+     "grounds": "instrumental singular masculine compound",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hi",
+     "gloss": "verily",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where and by what means should the god be placed in the liṅga?",
+   "premises": [
+    "The god is placed in the liṅga.",
+    "The chief seed is used."
+   ],
+   "inference": "The liṅga receives the deity through the chief seed.",
+   "uncertainties": [
+    "The exact seed mantra is not specified."
+   ],
+   "plain_english": "Indeed, one should place the god in the liṅga with the chief seed."
+  },
+  {
+   "verse": 2542,
+   "rows": [
+    {
+     "surface": "niṣkalaṃ",
+     "gloss": "without-parts",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nirmalaṃ",
+     "gloss": "stainless",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śāntaṃ",
+     "gloss": "peaceful",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "niṣprapañca+alakṣaṇam",
+     "gloss": "without-manifestation-uncharacterized",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What qualities describe the unmanifest deity placed in the liṅga?",
+   "premises": [
+    "The deity is without parts.",
+    "The deity is stainless, peaceful, and without manifestation or marks."
+   ],
+   "inference": "The liṅga's deity is described as pure, peaceful, and unmanifest.",
+   "uncertainties": [
+    "Whether these are ontological or meditative qualities is not stated."
+   ],
+   "plain_english": "Without parts, stainless, peaceful, without manifestation and uncharacterized."
+  },
+  {
+   "verse": 2543,
+   "rows": [
+    {
+     "surface": "vācya+vācaka+rahitaṃ",
+     "gloss": "denoted-denoter-devoid",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sat+asat+pati+adbhutam",
+     "gloss": "being-and-non-being-lord-wonderful",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How is the deity beyond language and lordship described?",
+   "premises": [
+    "The deity is devoid of denoted and denoter.",
+    "The deity is lord of being and non-being and wonderful."
+   ],
+   "inference": "The installed deity transcends linguistic relation and governs both being and non-being.",
+   "uncertainties": [
+    "The exact metaphysical scope of sat and asat is not explained."
+   ],
+   "plain_english": "Devoid of denoted and denoter, wonderful lord of being and non-being."
+  },
+  {
+   "verse": 2544,
+   "rows": [
+    {
+     "surface": "yogi+gamyaṃ",
+     "gloss": "by-yogis-accessible",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paraṃ",
+     "gloss": "supreme",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "brahma",
+     "gloss": "brahman",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "udvayantam+ataḥ+param",
+     "gloss": "beyond-that-higher",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What is the supreme accessible goal beyond the installed deity?",
+   "premises": [
+    "The supreme brahman is accessible to yogis.",
+    "It is beyond that and higher."
+   ],
+   "inference": "The installation points toward a supreme brahman accessible to yogis.",
+   "uncertainties": [
+    "The relation between this brahman and the liṅga deity is not fully stated."
+   ],
+   "plain_english": "Accessible to yogis, the supreme brahman, beyond that and higher."
+  },
+  {
+   "verse": 2545,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive of dhyā",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "mahāsena",
+     "gloss": "O-Mahāsena",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "prāsādena",
+     "gloss": "with-prāsāda-mantra",
+     "grounds": "instrumental singular masculine",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃyutam",
+     "gloss": "joined",
+     "grounds": "accusative singular neuter participle",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How should the meditated deity be joined with the prāsāda mantra?",
+   "premises": [
+    "One meditates thus.",
+    "The deity is joined with the prāsāda mantra."
+   ],
+   "inference": "Meditation is followed by joining the deity with the prāsāda mantra.",
+   "uncertainties": [
+    "The exact joining procedure is not described."
+   ],
+   "plain_english": "Thus having meditated, O Mahāsena, it is joined with the prāsāda mantra."
+  },
+  {
+   "verse": 2546,
+   "rows": [
+    {
+     "surface": "sadāśivasya",
+     "gloss": "of-sadāśiva",
+     "grounds": "genitive singular masculine",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "hṛdaye",
+     "gloss": "in-heart",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "prāsādaṃ",
+     "gloss": "prāsāda-mantra",
+     "grounds": "accusative singular masculine",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "guha",
+     "gloss": "O-Guha",
+     "grounds": "vocative singular masculine",
+     "morph": "m.voc.sg"
+    }
+   ],
+   "question": "Where should the prāsāda mantra be placed in relation to Sadāśiva?",
+   "premises": [
+    "The prāsāda mantra is placed.",
+    "It is placed in the heart of Sadāśiva."
+   ],
+   "inference": "The prāsāda mantra is installed in Sadāśiva's heart.",
+   "uncertainties": [
+    "Whether this is literal or subtle placement is not stated."
+   ],
+   "plain_english": "One should place the prāsāda mantra in the heart of Sadāśiva, O Guha."
+  },
+  {
+   "verse": 2547,
+   "rows": [
+    {
+     "surface": "hṛllekhā",
+     "gloss": "hṛllekhā",
+     "grounds": "nominative singular feminine",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "viṣṇu+bhāge",
+     "gloss": "in-viṣṇu-part",
+     "grounds": "locative singular masculine compound",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "triḥ+japitvā",
+     "gloss": "thrice-having-muttered",
+     "grounds": "absolutive compound",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vinyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    }
+   ],
+   "question": "How should hṛllekhā be placed in the Viṣṇu part?",
+   "premises": [
+    "Hṛllekhā is muttered thrice.",
+    "It is placed in the Viṣṇu part."
+   ],
+   "inference": "Hṛllekhā is installed in the Viṣṇu part after triple muttering.",
+   "uncertainties": [
+    "The meaning of hṛllekhā is not explained."
+   ],
+   "plain_english": "Having muttered hṛllekhā thrice, one should place it in the Viṣṇu part."
+  },
+  {
+   "verse": 2548,
+   "rows": [
+    {
+     "surface": "vidyā+tattvam",
+     "gloss": "knowledge-principle",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "athaḥ",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyasya",
+     "gloss": "having-placed",
+     "grounds": "absolutive of nyas",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "ātma+tattvaṃ",
+     "gloss": "self-principle",
+     "grounds": "accusative singular neuter compound",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhyame",
+     "gloss": "in-middle",
+     "grounds": "locative singular neuter",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How are knowledge principle and self principle ordered in placement?",
+   "premises": [
+    "The knowledge principle is placed first.",
+    "The self principle is placed in the middle."
+   ],
+   "inference": "Installation orders knowledge principle before self principle in the middle.",
+   "uncertainties": [
+    "The full sequence of principles is not given."
+   ],
+   "plain_english": "Having placed the knowledge principle, then place the self principle in the middle."
+  },
+  {
+   "verse": 2549,
+   "rows": [
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pavitram",
+     "gloss": "purifier",
+     "grounds": "accusative singular neuter",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "should-place",
+     "grounds": "optative third singular",
+     "morph": "3.sg.opt"
+    },
+    {
+     "surface": "dehe",
+     "gloss": "on-body",
+     "grounds": "locative singular masculine",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kalā+mantraiḥ",
+     "gloss": "with-kalā-mantras",
+     "grounds": "instrumental plural masculine compound",
+     "morph": "m.inst.pl"
+    },
+    {
+     "surface": "vidhānataḥ",
+     "gloss": "according-to-rule",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the purifier be placed on the body?",
+   "premises": [
+    "The purifier is placed again.",
+    "It is placed on the body with kalā mantras according to rule."
+   ],
+   "inference": "Bodily purification is performed with kalā mantras according to rule.",
+   "uncertainties": [
+    "Which body parts receive the purifier is not stated."
+   ],
+   "plain_english": "Again, one should place the purifier on the body with kalā mantras according to rule."
+  }
+ ]
+}

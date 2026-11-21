@@ -1,0 +1,1292 @@
+{
+ "song": "mukta-m0-p500",
+ "items": [
+  {
+   "verse": 12476,
+   "rows": [
+    {
+     "surface": "durgāṃ",
+     "gloss": "durgā",
+     "grounds": "name of goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "prapūjayet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √pūj"
+    },
+    {
+     "surface": "saumyāṃ",
+     "gloss": "gentle",
+     "grounds": "epithet of durgā",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "trinetrāṃ",
+     "gloss": "three-eyed",
+     "grounds": "tri+netra compound",
+     "morph": "f.acc.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "ratna-bhūṣaṇām",
+     "gloss": "jewel-ornamented",
+     "grounds": "ratna+bhūṣaṇā compound",
+     "morph": "f.acc.sg (bahuvrīhi)"
+    }
+   ],
+   "question": "How should the gentle, three-eyed, jewel-ornamented Durgā be ritually honored?",
+   "premises": [
+    "Durgā is the object of worship",
+    "She is characterized as gentle and three-eyed",
+    "She is adorned with jewels"
+   ],
+   "inference": "The practitioner should worship Durgā in this gentle, three-eyed, jewel-adorned form",
+   "uncertainties": [],
+   "plain_english": "One should worship Durgā, who is gentle, three-eyed, and adorned with jewels."
+  },
+  {
+   "verse": 12477,
+   "rows": [
+    {
+     "surface": "vighna-nāśakam",
+     "gloss": "obstacle-destroying",
+     "grounds": "vighna+nāśaka compound",
+     "morph": "m.acc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "abhyarcet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √arc"
+    },
+    {
+     "surface": "candra-ardha",
+     "gloss": "half-moon",
+     "grounds": "candra+ardha compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kṛta-śekharam",
+     "gloss": "made-as-crown",
+     "grounds": "kṛta+śekhara compound",
+     "morph": "m.acc.sg (bahuvrīhi)"
+    }
+   ],
+   "question": "What form of the obstacle-destroying deity must be worshiped?",
+   "premises": [
+    "The deity removes obstacles",
+    "The deity bears a half-moon as crown",
+    "Worship of this form is enjoined"
+   ],
+   "inference": "The practitioner should worship the obstacle-destroying deity crowned with a half-moon",
+   "uncertainties": [
+    "The specific deity named is not explicit in this verse"
+   ],
+   "plain_english": "One should worship the obstacle-destroying deity who wears a half-moon as a crown."
+  },
+  {
+   "verse": 12478,
+   "rows": [
+    {
+     "surface": "trinetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "tri+netra compound",
+     "morph": "m.acc.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "rakta-vastra",
+     "gloss": "red-garment",
+     "grounds": "rakta+vastra compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "āḍhyaṃ",
+     "gloss": "endowed-with",
+     "grounds": "describes attire",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "senāpatim",
+     "gloss": "army-lord",
+     "grounds": "title of deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "arccayet",
+     "gloss": "should-worship",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √arc"
+    }
+   ],
+   "question": "How should the three-eyed, red-garmented army-lord be worshiped next?",
+   "premises": [
+    "The army-lord is three-eyed",
+    "He is endowed with red garments",
+    "Worship follows in sequence"
+   ],
+   "inference": "The practitioner should next worship the three-eyed army-lord clothed in red",
+   "uncertainties": [],
+   "plain_english": "Then one should worship the three-eyed army-lord, who is clothed in red garments."
+  },
+  {
+   "verse": 12479,
+   "rows": [
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bahiḥ",
+     "gloss": "outside",
+     "grounds": "spatial location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "catur-astrāṇi",
+     "gloss": "four-weapons",
+     "grounds": "catur+astra compound",
+     "morph": "n.nom.pl (bahuvrīhi)"
+    },
+    {
+     "surface": "trīṇi",
+     "gloss": "three",
+     "grounds": "number",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vīthikā",
+     "gloss": "pathway",
+     "grounds": "ritual enclosure term",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "dvaye",
+     "gloss": "in-two",
+     "grounds": "location in pair",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What arrangement of weapons and pathways is placed outside that location?",
+   "premises": [
+    "Something is placed outside",
+    "Four weapons are involved",
+    "Three items relate to two pathways"
+   ],
+   "inference": "Outside are the four weapons and three elements in the two pathways",
+   "uncertainties": [
+    "Exact ritual layout and referent of tat are unclear"
+   ],
+   "plain_english": "Outside that are the four weapons, and three in the two pathways."
+  },
+  {
+   "verse": 12480,
+   "rows": [
+    {
+     "surface": "manu-lakṣaṃ",
+     "gloss": "mantra-hundred-thousand",
+     "grounds": "manu+lakṣa compound",
+     "morph": "n.acc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "japet",
+     "gloss": "should-recite",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of recitation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "sahasraṃ",
+     "gloss": "thousand",
+     "grounds": "number for offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yathā-vidhi",
+     "gloss": "according-to-rule",
+     "grounds": "yathā+vidhi compound",
+     "morph": "(indecl., avyayībhāva)"
+    }
+   ],
+   "question": "How many recitations of the mantra must be performed according to rule?",
+   "premises": [
+    "The mantra is to be recited",
+    "A count of one hundred thousand is specified",
+    "The practice must follow prescribed rule"
+   ],
+   "inference": "The practitioner should recite the mantra one hundred thousand times according to rule",
+   "uncertainties": [
+    "The role of sahasraṃ in this verse is syntactically ambiguous"
+   ],
+   "plain_english": "One should recite that mantra one hundred thousand times, and a thousand according to rule."
+  },
+  {
+   "verse": 12481,
+   "rows": [
+    {
+     "surface": "tarppaṇaṃ",
+     "gloss": "oblation",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mārjjanaṃ",
+     "gloss": "purification",
+     "grounds": "ritual cleansing",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prāgvat",
+     "gloss": "as-before",
+     "grounds": "comparison to prior rule",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vipra",
+     "gloss": "brahmin",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "santarppaṇam",
+     "gloss": "satiation-offering",
+     "grounds": "ritual offering",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What ritual acts of oblation and purification must be performed as before?",
+   "premises": [
+    "Oblation and purification are required",
+    "They follow the previous procedure",
+    "Satiation-offering is likewise performed"
+   ],
+   "inference": "The practitioner should perform oblation, purification, and satiation-offering as before",
+   "uncertainties": [],
+   "plain_english": "O brahmin, one should perform oblation and purification as before, and likewise the satiation-offering."
+  },
+  {
+   "verse": 12482,
+   "rows": [
+    {
+     "surface": "etat",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "saṃsādhanāt",
+     "gloss": "from-accomplishment",
+     "grounds": "saṃsādhana+ablative",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "sampat",
+     "gloss": "prosperity",
+     "grounds": "resulting benefit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "santatiḥ",
+     "gloss": "continuity",
+     "grounds": "resulting benefit",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "samprajāyate",
+     "gloss": "arises",
+     "grounds": "result of practice",
+     "morph": "3.sg.mid-pres √jan"
+    }
+   ],
+   "question": "What benefits arise from the accomplishment of this ritual practice?",
+   "premises": [
+    "This practice can be accomplished",
+    "Accomplishment produces results",
+    "Prosperity and continuity are named as results"
+   ],
+   "inference": "From accomplishing this practice, prosperity and continuity arise",
+   "uncertainties": [],
+   "plain_english": "From the accomplishment of this, prosperity and continuity arise."
+  },
+  {
+   "verse": 12483,
+   "rows": [
+    {
+     "surface": "vāmadevaḥ",
+     "gloss": "vāmadeva",
+     "grounds": "name of sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muniḥ",
+     "gloss": "sage",
+     "grounds": "role of vāmadeva",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "mantra component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paṃktiḥ",
+     "gloss": "paṅkti",
+     "grounds": "name of meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "deity",
+     "grounds": "mantra component",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sadāśivaḥ",
+     "gloss": "sadāśiva",
+     "grounds": "name of deity",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which sage, meter, and deity are assigned to this mantra?",
+   "premises": [
+    "A sage is specified for the mantra",
+    "A meter is specified for the mantra",
+    "A deity is specified for the mantra"
+   ],
+   "inference": "The mantra's sage is Vāmadeva, its meter is Paṅkti, and its deity is Sadāśiva",
+   "uncertainties": [],
+   "plain_english": "The sage is Vāmadeva, the meter is Paṅkti, and the deity is Sadāśiva."
+  },
+  {
+   "verse": 12484,
+   "rows": [
+    {
+     "surface": "ṣaḍ-dīrgha",
+     "gloss": "six-long",
+     "grounds": "ṣaṣ+dīrgha compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yukta",
+     "gloss": "joined-with",
+     "grounds": "connected to bīja",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bījena",
+     "gloss": "with-seed-syllable",
+     "grounds": "instrument in rite",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "ṣaḍ-aṅga",
+     "gloss": "six-limb",
+     "grounds": "ṣaṣ+aṅga compound",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "vidhiḥ",
+     "gloss": "rite",
+     "grounds": "ritual procedure",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "stated in text",
+     "morph": "m.nom.sg (past-pass-part √īr)"
+    }
+   ],
+   "question": "How is the six-limb rite performed using the seed-syllable with six long vowels?",
+   "premises": [
+    "A seed-syllable is joined with six long vowels",
+    "A six-limb rite is prescribed",
+    "This procedure is declared"
+   ],
+   "inference": "The six-limb rite is declared to be performed with the seed-syllable joined to six long vowels",
+   "uncertainties": [],
+   "plain_english": "The six-limb rite is declared to be performed with the seed-syllable joined with six long vowels."
+  },
+  {
+   "verse": 12485,
+   "rows": [
+    {
+     "surface": "yasmin",
+     "gloss": "when-which",
+     "grounds": "relative condition",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṛte",
+     "gloss": "done",
+     "grounds": "condition fulfilled",
+     "morph": "n.loc.sg (past-pass-part √kṛ)"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcatve",
+     "gloss": "in-death",
+     "grounds": "state of dissolution",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "jāte",
+     "gloss": "arisen",
+     "grounds": "condition at death",
+     "morph": "n.loc.sg (past-pass-part √jan)"
+    },
+    {
+     "surface": "pañcamukhaḥ",
+     "gloss": "five-faced",
+     "grounds": "pañca+mukha compound",
+     "morph": "m.nom.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "resulting state",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "What state does the practitioner attain at death when this rite is performed?",
+   "premises": [
+    "The rite may be performed",
+    "Death eventually occurs",
+    "A five-faced state is named as result"
+   ],
+   "inference": "When this rite is done, the practitioner becomes five-faced at death",
+   "uncertainties": [],
+   "plain_english": "When this is done, and death occurs, one becomes five-faced."
+  },
+  {
+   "verse": 12486,
+   "rows": [
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prathamaḥ",
+     "gloss": "first",
+     "grounds": "order in sequence",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "nyāsaḥ",
+     "gloss": "placement",
+     "grounds": "ritual installation",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "devatā+prīti compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "prīti",
+     "gloss": "delight",
+     "grounds": "devatā+prīti compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kārakaḥ",
+     "gloss": "causing",
+     "grounds": "effect of nyāsa",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What is the function of this first ritual placement in relation to the deity?",
+   "premises": [
+    "This is the first placement",
+    "The placement has an effect",
+    "Its effect is to cause delight in the deity"
+   ],
+   "inference": "This first placement causes delight in the deity",
+   "uncertainties": [],
+   "plain_english": "This indeed is the first placement, which causes delight in the deity."
+  },
+  {
+   "verse": 12487,
+   "rows": [
+    {
+     "surface": "saḥ",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "eva",
+     "gloss": "same",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "deity",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūpam",
+     "gloss": "king",
+     "grounds": "object or epithet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ktya",
+     "gloss": "ktya",
+     "grounds": "unclear term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anuṣṭap",
+     "gloss": "anuṣṭap",
+     "grounds": "unclear term",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "chandāṃsi",
+     "gloss": "meters",
+     "grounds": "objects of contemplation",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-contemplate",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √cint"
+    }
+   ],
+   "question": "What should that same deity contemplate regarding the king and the meters?",
+   "premises": [
+    "The same deity is the subject",
+    "Meters are to be contemplated",
+    "The king and other terms are involved"
+   ],
+   "inference": "That same deity should contemplate the meters in connection with the stated elements",
+   "uncertainties": [
+    "The forms and meanings of ktya and anuṣṭap are unclear",
+    "The syntactic relation of bhūpam is uncertain"
+   ],
+   "plain_english": "That same deity should contemplate the king, ktya, anuṣṭap, and the meters."
+  },
+  {
+   "verse": 12488,
+   "rows": [
+    {
+     "surface": "īśānaṃ",
+     "gloss": "īśāna",
+     "grounds": "name of deity aspect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "trīkṣaṇaṃ",
+     "gloss": "three-eyed",
+     "grounds": "tri+īkṣaṇa compound",
+     "morph": "m.acc.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "śuddhaṃ",
+     "gloss": "pure",
+     "grounds": "epithet",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "nāga",
+     "gloss": "serpent",
+     "grounds": "nāga+yajñopavītin compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yajñopavītinam",
+     "gloss": "sacred-thread-wearing",
+     "grounds": "nāga+yajñopavītin compound",
+     "morph": "m.acc.sg (bahuvrīhi)"
+    }
+   ],
+   "question": "How is the deity Īśāna to be visualized in this contemplative form?",
+   "premises": [
+    "Īśāna is the object of contemplation",
+    "He is three-eyed and pure",
+    "He wears a serpent as sacred thread"
+   ],
+   "inference": "Īśāna should be contemplated as pure, three-eyed, and wearing a serpent as sacred thread",
+   "uncertainties": [],
+   "plain_english": "One should contemplate Īśāna as pure, three-eyed, and wearing a serpent as his sacred thread."
+  },
+  {
+   "verse": 12489,
+   "rows": [
+    {
+     "surface": "āpaḥ",
+     "gloss": "waters",
+     "grounds": "mantra or deity element",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "devyaḥ",
+     "gloss": "goddesses",
+     "grounds": "epithet of waters",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "asya",
+     "gloss": "of-this",
+     "grounds": "possessive reference",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "gāyatrī",
+     "gloss": "gāyatrī",
+     "grounds": "name of meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "mantra component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "dhyānaṃ",
+     "gloss": "contemplation",
+     "grounds": "meditative form",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nirūpyate",
+     "gloss": "is-determined",
+     "grounds": "declarative statement",
+     "morph": "3.sg.pass-pres √rūp"
+    }
+   ],
+   "question": "What meter and contemplation are determined for this mantra of the divine waters?",
+   "premises": [
+    "The divine waters are invoked",
+    "A meter is assigned",
+    "A contemplation is determined"
+   ],
+   "inference": "For this, the meter is Gāyatrī and its contemplation is determined",
+   "uncertainties": [],
+   "plain_english": "The divine waters are invoked; for this, the meter is Gāyatrī and the contemplation is determined."
+  },
+  {
+   "verse": 12490,
+   "rows": [
+    {
+     "surface": "caturmukhaṃ",
+     "gloss": "four-faced",
+     "grounds": "catur+mukha compound",
+     "morph": "m.acc.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "tatpuruṣaṃ",
+     "gloss": "tatpuruṣa",
+     "grounds": "name of deity aspect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "trinetraṃ",
+     "gloss": "three-eyed",
+     "grounds": "tri+netra compound",
+     "morph": "m.acc.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "vṛṣagāminam",
+     "gloss": "bull-riding",
+     "grounds": "vṛṣa+gāmin compound",
+     "morph": "m.acc.sg (tatpuruṣa)"
+    }
+   ],
+   "question": "How is the deity Tatpuruṣa to be visualized in contemplative form?",
+   "premises": [
+    "Tatpuruṣa is the object of contemplation",
+    "He is four-faced and three-eyed",
+    "He rides a bull"
+   ],
+   "inference": "Tatpuruṣa should be contemplated as four-faced, three-eyed, and riding a bull",
+   "uncertainties": [],
+   "plain_english": "One should contemplate Tatpuruṣa as four-faced, three-eyed, and riding a bull."
+  },
+  {
+   "verse": 12491,
+   "rows": [
+    {
+     "surface": "anuṣṭup",
+     "gloss": "anuṣṭup",
+     "grounds": "name of meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "mantra component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ākhyātaṃ",
+     "gloss": "declared",
+     "grounds": "stated in text",
+     "morph": "n.nom.sg (past-pass-part √khyā)"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "deity",
+     "grounds": "mantra component",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "āpaḥ",
+     "gloss": "waters",
+     "grounds": "deity element",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "prakīrttitāḥ",
+     "gloss": "proclaimed",
+     "grounds": "stated in text",
+     "morph": "f.nom.pl (past-pass-part √kīrt)"
+    }
+   ],
+   "question": "What meter and deity are declared for this mantra context?",
+   "premises": [
+    "A meter is declared",
+    "A deity is proclaimed",
+    "The waters are identified as deity"
+   ],
+   "inference": "The meter is declared as Anuṣṭup and the deity is proclaimed as the waters",
+   "uncertainties": [],
+   "plain_english": "The meter is declared to be Anuṣṭup, and the deity is proclaimed to be the waters."
+  },
+  {
+   "verse": 12492,
+   "rows": [
+    {
+     "surface": "khaḍgaṃ",
+     "gloss": "sword",
+     "grounds": "weapon held",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kapālaṃ",
+     "gloss": "skull",
+     "grounds": "object held",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hastaiḥ",
+     "gloss": "with-hands",
+     "grounds": "instrument",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadhataṃ",
+     "gloss": "holding",
+     "grounds": "describes deity",
+     "morph": "m.acc.sg (pres-part √dhā)"
+    },
+    {
+     "surface": "trīkṣaṇaṃ",
+     "gloss": "three-eyed",
+     "grounds": "tri+īkṣaṇa compound",
+     "morph": "m.acc.sg (bahuvrīhi)"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "i-worship",
+     "grounds": "devotional act",
+     "morph": "1.sg.mid-pres √bhaj"
+    }
+   ],
+   "question": "What three-eyed form holding a sword and skull is to be worshiped?",
+   "premises": [
+    "The deity holds a sword and skull",
+    "The deity is three-eyed",
+    "Worship is directed to this form"
+   ],
+   "inference": "One should worship the three-eyed form holding a sword and skull in the hands",
+   "uncertainties": [],
+   "plain_english": "I worship the three-eyed one who holds a sword and a skull in his hands."
+  },
+  {
+   "verse": 12493,
+   "rows": [
+    {
+     "surface": "varā",
+     "gloss": "boon",
+     "grounds": "varā+abhaya compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "abhaya",
+     "gloss": "fearlessness",
+     "grounds": "varā+abhaya compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "akṣa",
+     "gloss": "rosary",
+     "grounds": "akṣa+valaya compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "valaya",
+     "gloss": "bracelet",
+     "grounds": "akṣa+valaya compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "kuṭhāraṃ",
+     "gloss": "axe",
+     "grounds": "weapon held",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dadhataṃ",
+     "gloss": "holding",
+     "grounds": "describes deity",
+     "morph": "m.acc.sg (pres-part √dhā)"
+    },
+    {
+     "surface": "karaiḥ",
+     "gloss": "with-hands",
+     "grounds": "instrument",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "What attributes and implements are held in the hands of this contemplated form?",
+   "premises": [
+    "The form holds boon and fearlessness gestures",
+    "The form holds a rosary-bracelet and an axe",
+    "These are held in the hands"
+   ],
+   "inference": "The contemplated form holds boon, fearlessness, a rosary-bracelet, and an axe in the hands",
+   "uncertainties": [
+    "The exact parsing of akṣa-valaya as rosary or bracelet is interpretive"
+   ],
+   "plain_english": "One should contemplate the form holding boon and fearlessness, a rosary-bracelet, and an axe in the hands."
+  },
+  {
+   "verse": 12494,
+   "rows": [
+    {
+     "surface": "nānā",
+     "gloss": "various",
+     "grounds": "describes hosts",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "abhīma",
+     "gloss": "terrific",
+     "grounds": "describes hosts",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "gaṇaiḥ",
+     "gloss": "with-hosts",
+     "grounds": "accompanying beings",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "yuktam",
+     "gloss": "joined-with",
+     "grounds": "accompanied by",
+     "morph": "m.acc.sg (past-pass-part √yuj)"
+    },
+    {
+     "surface": "aghoraṃ",
+     "gloss": "aghora",
+     "grounds": "name of deity aspect",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "cintayet",
+     "gloss": "should-contemplate",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √cint"
+    },
+    {
+     "surface": "dhṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of contemplation",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "How should Aghora be contemplated in the heart together with his hosts?",
+   "premises": [
+    "Aghora is the object of contemplation",
+    "He is accompanied by various terrific hosts",
+    "Contemplation takes place in the heart"
+   ],
+   "inference": "One should contemplate Aghora in the heart accompanied by various terrific hosts",
+   "uncertainties": [],
+   "plain_english": "One should contemplate Aghora in the heart, accompanied by various terrific hosts."
+  },
+  {
+   "verse": 12495,
+   "rows": [
+    {
+     "surface": "vikṛtiḥ",
+     "gloss": "vikṛti",
+     "grounds": "name of meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "mantra component",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaṃ",
+     "gloss": "stated",
+     "grounds": "declared in text",
+     "morph": "n.nom.sg (past-pass-part √diś)"
+    },
+    {
+     "surface": "bhargaḥ",
+     "gloss": "bharga",
+     "grounds": "name of deity",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "devaḥ",
+     "gloss": "deity",
+     "grounds": "mantra component",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prakīrttitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "stated in text",
+     "morph": "m.nom.sg (past-pass-part √kīrt)"
+    }
+   ],
+   "question": "What meter and deity are stated for this mantra context?",
+   "premises": [
+    "A meter is stated",
+    "A deity is proclaimed",
+    "Vikṛti and Bharga are named"
+   ],
+   "inference": "The meter is stated as Vikṛti and the deity is proclaimed as Bharga",
+   "uncertainties": [],
+   "plain_english": "The meter is stated to be Vikṛti, and the deity is proclaimed to be Bharga."
+  },
+  {
+   "verse": 12496,
+   "rows": [
+    {
+     "surface": "traiṃ",
+     "gloss": "traiṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīṃ",
+     "gloss": "śrīṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "also",
+     "grounds": "continuation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "haṃ",
+     "gloss": "haṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kṣaiṃ",
+     "gloss": "kṣaiṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "huṃ",
+     "gloss": "huṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hauṃ",
+     "gloss": "hauṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrītrayaṃ",
+     "gloss": "triple-śrī",
+     "grounds": "śrī+traya compound",
+     "morph": "n.acc.sg (tatpuruṣa)"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-utter",
+     "grounds": "ritual injunction",
+     "morph": "3.sg.act-opt √vad"
+    }
+   ],
+   "question": "Which sequence of seed-syllables must be uttered in this mantra instruction?",
+   "premises": [
+    "Specific seed-syllables are listed",
+    "A triple śrī is included",
+    "Utterance is enjoined"
+   ],
+   "inference": "One should utter the sequence traiṃ, śrīṃ, haṃ, kṣaiṃ, huṃ, hauṃ, and the triple śrī",
+   "uncertainties": [],
+   "plain_english": "One should utter: traiṃ, śrīṃ, haṃ, kṣaiṃ, huṃ, hauṃ, and the triple śrī."
+  },
+  {
+   "verse": 12497,
+   "rows": [
+    {
+     "surface": "amṛta",
+     "gloss": "immortal-nectar",
+     "grounds": "amṛta+tejaḥ compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "tejaḥ",
+     "gloss": "radiance",
+     "grounds": "amṛta+tejaḥ compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "jvāla",
+     "gloss": "flame",
+     "grounds": "mantra phrase element",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māline",
+     "gloss": "to-garlanded-one",
+     "grounds": "vocative or dative in mantra",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantra unit",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What mantra words beginning with nectar-radiance-flame are to be spoken next?",
+   "premises": [
+    "A mantra phrase is quoted",
+    "The phrase includes amṛta-tejaḥ-jvāla",
+    "The word māline follows in sequence"
+   ],
+   "inference": "One should then utter the word-phrase amṛta-tejaḥ-jvāla and māline",
+   "uncertainties": [
+    "Exact syntactic role of māline within the mantra is uncertain"
+   ],
+   "plain_english": "Then one should utter the words: 'amṛta-tejaḥ-jvāla' and 'māline'."
+  },
+  {
+   "verse": 12498,
+   "rows": [
+    {
+     "surface": "jvalita",
+     "gloss": "blazing",
+     "grounds": "jvalita+śikhi compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śikhi",
+     "gloss": "fire",
+     "grounds": "jvalita+śikhi compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "śikhā",
+     "gloss": "flame",
+     "grounds": "śikhā+yāna compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "yāna",
+     "gloss": "vehicle",
+     "grounds": "śikhā+yāna compound member",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "ādi",
+     "gloss": "beginning-with",
+     "grounds": "indicates series",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "bodhāya",
+     "gloss": "for-awakening",
+     "grounds": "purpose",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "demonstrative",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "śriye",
+     "gloss": "for-glory",
+     "grounds": "purpose or dedication",
+     "morph": "f.dat.sg"
+    }
+   ],
+   "question": "What mantra elements invoking blazing fire and flame-vehicle are uttered for awakening and glory?",
+   "premises": [
+    "Mantra elements include blazing fire and flame-vehicle",
+    "They are uttered for awakening",
+    "They are also directed toward glory"
+   ],
+   "inference": "The elements beginning with blazing fire and flame-vehicle are uttered for awakening and for glory",
+   "uncertainties": [
+    "The precise mantra segmentation and compound boundaries are interpretive"
+   ],
+   "plain_english": "Then utter the elements beginning with 'blazing fire' and 'flame-vehicle', for awakening and for glory."
+  },
+  {
+   "verse": 12499,
+   "rows": [
+    {
+     "surface": "sauṃ",
+     "gloss": "sauṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "cauṃ",
+     "gloss": "cauṃ",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saum",
+     "gloss": "saum",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotation marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃbhāṣya",
+     "gloss": "having-uttered",
+     "grounds": "prior action",
+     "morph": "(indecl., gerund √bhāṣ)"
+    },
+    {
+     "surface": "munaye",
+     "gloss": "to-sage",
+     "grounds": "recipient or dedication",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "alupta-śaktaye",
+     "gloss": "unimpaired-power",
+     "grounds": "alupta+śakti compound",
+     "morph": "m.dat.sg (bahuvrīhi)"
+    }
+   ],
+   "question": "To which sage of unimpaired power are the seed-syllables sauṃ, cauṃ, and saum addressed?",
+   "premises": [
+    "The seed-syllables sauṃ, cauṃ, saum are uttered",
+    "They are addressed to a sage",
+    "The sage is described as having unimpaired power"
+   ],
+   "inference": "Having uttered sauṃ, cauṃ, and saum, one addresses the sage of unimpaired power",
+   "uncertainties": [],
+   "plain_english": "Having uttered 'sauṃ, cauṃ, saum', one addresses the sage whose power is unimpaired."
+  }
+ ]
+}

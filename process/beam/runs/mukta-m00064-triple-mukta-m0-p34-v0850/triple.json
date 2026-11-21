@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p34",
+ "items": [
+  {
+   "verse": 850,
+   "rows": [
+    {
+     "surface": "tasyāḥ",
+     "gloss": "of-her",
+     "grounds": "refers to the yoginī mentioned previously",
+     "morph": "pron.f.gen.sg"
+    },
+    {
+     "surface": "putro",
+     "gloss": "son",
+     "grounds": "subject complement identifying Vinusiṃha",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vinusiṃhaḥ",
+     "gloss": "vinusiṃha",
+     "grounds": "proper name of the son",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mat+aurasa+samudbhavaḥ",
+     "gloss": "born-from-my-own-body",
+     "grounds": "compound: mat (my) + aurasa (own/legitimate, born of the breast) + samudbhava (born/arisen)",
+     "morph": "compound:m.nom.sg"
+    }
+   ],
+   "question": "What filial relationship and origin are attributed to Vinusiṃha in relation to the yoginī and the speaker?",
+   "premises": [
+    "Vinusiṃha is identified as the son of that yoginī.",
+    "Vinusiṃha is described as born from the speaker's own body.",
+    "The speaker and the yoginī are thus linked as progenitors of Vinusiṃha."
+   ],
+   "inference": "Vinusiṃha is the legitimate son of the yoginī, born from the speaker's own body.",
+   "uncertainties": [
+    "The precise nuance of aurasa in this context, whether strictly biological or also signifying legitimacy, is not fully explicit."
+   ],
+   "plain_english": "Vinusiṃha is her son, born from my own body."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p27",
+ "items": [
+  {
+   "verse": 675,
+   "rows": [
+    {
+     "surface": "skando",
+     "gloss": "Skanda",
+     "grounds": "nom.sg.m. of Skanda; final visarga becomes o before mā",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mā",
+     "gloss": "Mā",
+     "grounds": "name of the goddess Mā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sahite",
+     "gloss": "accompanied",
+     "grounds": "past participle used adjectivally, agreeing with the divine pair in locative context",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "skandahīne",
+     "gloss": "Skanda-without",
+     "grounds": "bahuvrīhi/tatpuruṣa compound: skanda + hīna",
+     "morph": "compound:m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "candraśekhare",
+     "gloss": "moon-crested",
+     "grounds": "bahuvrīhi compound epithet of Śiva: candra + śekhara",
+     "morph": "compound:m.loc.sg"
+    }
+   ],
+   "question": "To which alternative divine forms may the prepared offerings be duly presented?",
+   "premises": [
+    "The offerings may be presented to Skanda accompanied by Mā.",
+    "Alternatively, the offerings may be presented to the moon-crested deity without Skanda.",
+    "The particle vā marks these as valid alternative recipients."
+   ],
+   "inference": "Therefore, the ritual offerings may be directed either to Skanda together with Mā or to the moon-crested Śiva alone.",
+   "uncertainties": [
+    "The exact syntactic role of sahite in relation to the pair skando mā is contextually inferred as accompaniment."
+   ],
+   "plain_english": "The offerings may be presented to Skanda accompanied by Mā, or alternatively to the moon-crested Śiva without Skanda."
+  }
+ ]
+}

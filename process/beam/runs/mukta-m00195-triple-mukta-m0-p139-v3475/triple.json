@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p139",
+ "items": [
+  {
+   "verse": 3475,
+   "rows": [
+    {
+     "surface": "homa",
+     "gloss": "oblation",
+     "grounds": "first member of compound denoting ritual offering",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "svīkāra",
+     "gloss": "acceptance",
+     "grounds": "second member of compound denoting reception or acceptance",
+     "morph": "compound-member"
+    },
+    {
+     "surface": "lakṣaṇam",
+     "gloss": "characteristic",
+     "grounds": "neuter noun indicating defining mark or definition",
+     "morph": "lakṣaṇa.n.nom.sg"
+    }
+   ],
+   "question": "What defining characteristic constitutes oblation as acceptance in this ritual act?",
+   "premises": [
+    "Homa denotes a ritual oblation or offering.",
+    "Svīkāra denotes the act of acceptance.",
+    "Lakṣaṇam specifies the defining characteristic of something."
+   ],
+   "inference": "The defining characteristic of homa is the acceptance of the offering.",
+   "uncertainties": [
+    "The precise referent of what is accepted depends on the preceding ritual context."
+   ],
+   "plain_english": "This is the characteristic of oblation: acceptance."
+  }
+ ]
+}

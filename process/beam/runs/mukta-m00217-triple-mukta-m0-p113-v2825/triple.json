@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p113",
+ "items": [
+  {
+   "verse": 2825,
+   "rows": [
+    {
+     "surface": "agniḥ",
+     "gloss": "fire",
+     "grounds": "subject of arising",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vijāyate",
+     "gloss": "arises",
+     "grounds": "verb of manifestation",
+     "morph": "3.sg.pres.pass vi-√jan"
+    },
+    {
+     "surface": "yatra",
+     "gloss": "where",
+     "grounds": "relative adverb of place",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śuddhasphaṭikasannibhaḥ",
+     "gloss": "pure-crystal-resembling",
+     "grounds": "compound describing appearance of fire",
+     "morph": "śuddha+śuddha-sphaṭika+sphaṭika-sannibha+sannibha, m.nom.sg"
+    }
+   ],
+   "question": "What visual appearance characterizes the fire at the place of its arising?",
+   "premises": [
+    "Fire arises in a particular place.",
+    "The arising fire possesses a discernible visual quality.",
+    "Pure crystal serves as the standard of comparison."
+   ],
+   "inference": "The fire that arises is characterized by a resemblance to pure crystal.",
+   "uncertainties": [
+    "The specific ritual significance or outcome of this crystal-like fire is not stated in this verse."
+   ],
+   "plain_english": "Where fire arises, it appears like pure crystal."
+  }
+ ]
+}

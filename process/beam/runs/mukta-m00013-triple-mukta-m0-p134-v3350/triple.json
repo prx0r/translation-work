@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p134",
+ "items": [
+  {
+   "verse": 3350,
+   "rows": [
+    {
+     "surface": "varāhasya",
+     "gloss": "of-Varāha",
+     "grounds": "genitive dependent indicating the deity whose worship is specified",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sa",
+     "gloss": "that",
+     "grounds": "anaphoric pronoun referring to the power under discussion",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pūjāyāṃ",
+     "gloss": "in-worship",
+     "grounds": "locative indicating the ritual context of application",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "vārāha+ākhyāṃ",
+     "gloss": "boar-named",
+     "grounds": "bahuvrīhi or karmadhāraya-type compound qualifying the power as named after Varāha",
+     "morph": "compound:f.acc.sg"
+    },
+    {
+     "surface": "prayojayet",
+     "gloss": "one-should-employ",
+     "grounds": "prescriptive optative enjoining ritual application",
+     "morph": "3.sg.act.opt:√prayuj"
+    }
+   ],
+   "question": "Which specifically named power must be employed in the worship of Varāha?",
+   "premises": [
+    "The ritual context specified is the worship of Varāha.",
+    "A power designated by the name vārāha is identified for this context.",
+    "The prescribed action is to employ that named power."
+   ],
+   "inference": "Therefore, in the worship of Varāha, one should employ the power named vārāha.",
+   "uncertainties": [
+    "The exact referent of sa in relation to the preceding verse's gālinī is contextually implied but not explicit within this verse alone."
+   ],
+   "plain_english": "In the worship of Varāha, one should employ the power called vārāha."
+  }
+ ]
+}

@@ -1,0 +1,872 @@
+{
+ "song": "mukta-m0-p69",
+ "items": [
+  {
+   "verse": 1701,
+   "rows": [
+    {
+     "surface": "catuḥ ṣaṣṭipadaṃ",
+     "gloss": "sixty-four-part",
+     "grounds": "compound indicating a grid of sixty-four divisions",
+     "morph": "compound"
+    },
+    {
+     "surface": "daivaṃ",
+     "gloss": "divine",
+     "grounds": "designation of one type of site plan",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mānuṣaṃ",
+     "gloss": "human",
+     "grounds": "designation of another type of site plan",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "pārameśvaram",
+     "gloss": "supreme-lordly",
+     "grounds": "designation of a third type of site plan",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What three types of sixty-four-part site plans are distinguished?",
+   "premises": [
+    "A sixty-four-part plan is specified",
+    "One type is called divine",
+    "Another type is called human",
+    "A third type is called supreme-lordly"
+   ],
+   "inference": "The sixty-four-part site plan is classified into divine, human, and supreme-lordly types.",
+   "uncertainties": [],
+   "plain_english": "The sixty-four-part plan is of three kinds: divine, human, and supreme-lordly."
+  },
+  {
+   "verse": 1702,
+   "rows": [
+    {
+     "surface": "traivarṇikānāṃ",
+     "gloss": "of-three-classes",
+     "grounds": "refers to members of the three classes",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle indicating option or scope",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryād",
+     "gloss": "one-should-make",
+     "grounds": "prescribes the action to be performed",
+     "morph": "3.sg.optative-act √kṛ"
+    },
+    {
+     "surface": "agrahārādivāstuṣu",
+     "gloss": "in-agrahara-etc-sites",
+     "grounds": "compound indicating agrahāras and similar sites",
+     "morph": "compound+n.loc.pl"
+    }
+   ],
+   "question": "For whom and in which sites should this plan be made?",
+   "premises": [
+    "The subjects are the three classes",
+    "The action prescribed is making",
+    "The locations include agrahāras and similar sites"
+   ],
+   "inference": "One should make this plan for the three classes in agrahāras and similar sites.",
+   "uncertainties": [],
+   "plain_english": "One should make it for the three classes in agrahāras and other such sites."
+  },
+  {
+   "verse": 1703,
+   "rows": [
+    {
+     "surface": "viṭchūdrayostathaikonapañcāśatpadamīritam",
+     "gloss": "for-vaishya-shudra-forty-nine-part-declared",
+     "grounds": "fused compound stating a forty-nine-part plan for vaiśyas and śūdras",
+     "morph": "compound"
+    }
+   ],
+   "question": "What site plan is prescribed for vaiśyas and śūdras?",
+   "premises": [
+    "Vaiśyas and śūdras are specified",
+    "A forty-nine-part plan is mentioned",
+    "This plan is declared for them"
+   ],
+   "inference": "A forty-nine-part site plan is prescribed for vaiśyas and śūdras.",
+   "uncertainties": [],
+   "plain_english": "For vaiśyas and śūdras, a forty-nine-part plan is declared."
+  },
+  {
+   "verse": 1704,
+   "rows": [
+    {
+     "surface": "catuḥ ṣaṣṭyekāśītyākhyamāsanaṃ",
+     "gloss": "sixty-four-eighty-one-called-seat",
+     "grounds": "compound naming seat plans of sixty-four and eighty-one parts",
+     "morph": "compound"
+    },
+    {
+     "surface": "ca tridhā matam",
+     "gloss": "and-threefold-considered",
+     "grounds": "states that the seat is regarded as threefold",
+     "morph": "indecl.+indecl.+n.nom.sg"
+    }
+   ],
+   "question": "How is the seat plan classified by number of divisions?",
+   "premises": [
+    "Seat plans of sixty-four and eighty-one parts are named",
+    "The classification is stated as threefold"
+   ],
+   "inference": "The seat plan is considered threefold, including sixty-four and eighty-one part forms.",
+   "uncertainties": [
+    "The third type in the threefold classification is not explicitly named in this verse."
+   ],
+   "plain_english": "The seat, called sixty-four or eighty-one, is considered threefold."
+  },
+  {
+   "verse": 1705,
+   "rows": [
+    {
+     "surface": "vāstukarmaṇi",
+     "gloss": "in-site-work",
+     "grounds": "locative indicating the context of site construction",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "śastaṃ",
+     "gloss": "auspicious",
+     "grounds": "describes the plan as recommended",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syād",
+     "gloss": "should-be",
+     "grounds": "optative expressing prescription",
+     "morph": "3.sg.optative-act √as"
+    },
+    {
+     "surface": "grāmādau ca gṛhādiṣu",
+     "gloss": "in-village-etc-and-house-etc",
+     "grounds": "compound indicating villages, houses, and similar contexts",
+     "morph": "compound+indecl.+compound"
+    }
+   ],
+   "question": "In which construction contexts is this site plan considered auspicious?",
+   "premises": [
+    "The context is site work",
+    "The plan is described as auspicious",
+    "Applications include villages and houses"
+   ],
+   "inference": "This plan is auspicious for site work in villages, houses, and similar contexts.",
+   "uncertainties": [],
+   "plain_english": "It should be auspicious in site work, in villages and in houses and the like."
+  },
+  {
+   "verse": 1706,
+   "rows": [
+    {
+     "surface": "karṇasūtravihīnaṃ",
+     "gloss": "without-diagonal-cord",
+     "grounds": "compound describing absence of diagonal cords",
+     "morph": "compound"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "madhye",
+     "gloss": "in-middle",
+     "grounds": "locative indicating the central area",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karṇadvayānvitam",
+     "gloss": "with-two-diagonals",
+     "grounds": "compound describing presence of two diagonal cords",
+     "morph": "compound"
+    }
+   ],
+   "question": "What alternative diagonal cord arrangements are allowed in the plan?",
+   "premises": [
+    "One arrangement lacks diagonal cords",
+    "An alternative arrangement is indicated",
+    "The alternative has two diagonals in the middle"
+   ],
+   "inference": "The plan may be made either without diagonal cords or with two diagonals in the middle.",
+   "uncertainties": [],
+   "plain_english": "It may be without diagonal cords, or have two diagonals in the middle."
+  },
+  {
+   "verse": 1707,
+   "rows": [
+    {
+     "surface": "padaṃ",
+     "gloss": "division",
+     "grounds": "refers to a part or division of the grid",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "indicates every division",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidheyaṃ",
+     "gloss": "to-be-arranged",
+     "grounds": "expresses that divisions should be laid out",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syādevaṃ",
+     "gloss": "should-be-thus",
+     "grounds": "fused form indicating manner of arrangement",
+     "morph": "3.sg.optative-act √as+indecl."
+    },
+    {
+     "surface": "buddhyā",
+     "gloss": "with-understanding",
+     "grounds": "instrumental indicating use of discernment",
+     "morph": "f.ins.sg"
+    },
+    {
+     "surface": "prakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescribes careful arrangement",
+     "morph": "3.sg.optative-act pra-√kḷp"
+    }
+   ],
+   "question": "How should every division of the site plan be arranged?",
+   "premises": [
+    "Every division is to be arranged",
+    "The arrangement should be done in this manner",
+    "Discernment should be used in arranging"
+   ],
+   "inference": "Every division should be arranged in this way with careful understanding.",
+   "uncertainties": [],
+   "plain_english": "Every division should be arranged thus; one should plan it with understanding."
+  },
+  {
+   "verse": 1708,
+   "rows": [
+    {
+     "surface": "cakravat",
+     "gloss": "like-wheel",
+     "grounds": "comparative indicating a wheel-like layout",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pañcasūtrāṇi",
+     "gloss": "five-cords",
+     "grounds": "compound specifying five cords",
+     "morph": "compound"
+    },
+    {
+     "surface": "sāntarāṇi",
+     "gloss": "with-intervals",
+     "grounds": "describes cords placed with intervals",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "samāni ca",
+     "gloss": "and-equal",
+     "grounds": "states that the cords are equal",
+     "morph": "n.nom.pl+indecl."
+    }
+   ],
+   "question": "How should the five cords be arranged in the wheel-like layout?",
+   "premises": [
+    "The layout is compared to a wheel",
+    "Five cords are specified",
+    "The cords have intervals and are equal"
+   ],
+   "inference": "Five equal cords with intervals should be arranged in a wheel-like manner.",
+   "uncertainties": [],
+   "plain_english": "Like a wheel, five cords should be placed with intervals and made equal."
+  },
+  {
+   "verse": 1709,
+   "rows": [
+    {
+     "surface": "ekāśītipadaṃ",
+     "gloss": "eighty-one-part",
+     "grounds": "compound indicating a grid of eighty-one divisions",
+     "morph": "compound"
+    },
+    {
+     "surface": "hyetaj",
+     "gloss": "indeed-this",
+     "grounds": "fused form emphasizing the referent",
+     "morph": "indecl.+n.nom.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "indicates what should be understood",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "viṣamasaṃsthitiḥ",
+     "gloss": "uneven-arrangement",
+     "grounds": "compound describing an irregular placement",
+     "morph": "compound"
+    }
+   ],
+   "question": "What arrangement characterizes the eighty-one-part site plan?",
+   "premises": [
+    "The plan has eighty-one parts",
+    "This plan is to be known in a certain way",
+    "Its arrangement is described as uneven"
+   ],
+   "inference": "The eighty-one-part plan should be known as having an uneven arrangement.",
+   "uncertainties": [],
+   "plain_english": "This eighty-one-part plan should be known as having an uneven arrangement."
+  },
+  {
+   "verse": 1710,
+   "rows": [
+    {
+     "surface": "catuḥ ṣaṣṭipadaṃ",
+     "gloss": "sixty-four-part",
+     "grounds": "compound indicating a grid of sixty-four divisions",
+     "morph": "compound"
+    },
+    {
+     "surface": "caitaccaturvṛtte",
+     "gloss": "and-this-in-fourfold-form",
+     "grounds": "fused compound indicating application in a fourfold or square form",
+     "morph": "compound"
+    },
+    {
+     "surface": "pakalpayet",
+     "gloss": "one-should-arrange",
+     "grounds": "prescribes arrangement of the plan",
+     "morph": "3.sg.optative-act pra-√kḷp"
+    }
+   ],
+   "question": "In what form should the sixty-four-part plan be arranged?",
+   "premises": [
+    "The plan has sixty-four parts",
+    "A fourfold or square form is specified",
+    "Arrangement is prescribed"
+   ],
+   "inference": "The sixty-four-part plan should be arranged in a fourfold or square form.",
+   "uncertainties": [
+    "The exact sense of caturvṛtte is context-dependent."
+   ],
+   "plain_english": "One should arrange this sixty-four-part plan in a fourfold form."
+  },
+  {
+   "verse": 1711,
+   "rows": [
+    {
+     "surface": "catuḥ ṣaṣṭipadaṃ",
+     "gloss": "sixty-four-part",
+     "grounds": "compound indicating a grid of sixty-four divisions",
+     "morph": "compound"
+    },
+    {
+     "surface": "vāstu",
+     "gloss": "site",
+     "grounds": "refers to the site or site plan",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "paramaiśantu",
+     "gloss": "but-supreme-lordly",
+     "grounds": "fused form indicating the supreme-lordly type",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "vāstukam",
+     "gloss": "site-plan",
+     "grounds": "refers to the site plan",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which type of sixty-four-part site plan is identified as supreme-lordly?",
+   "premises": [
+    "A sixty-four-part site is mentioned",
+    "The supreme-lordly designation is applied",
+    "The referent is the site plan"
+   ],
+   "inference": "The sixty-four-part site plan is identified as the supreme-lordly site plan.",
+   "uncertainties": [],
+   "plain_english": "The sixty-four-part site is the supreme-lordly site plan."
+  },
+  {
+   "verse": 1712,
+   "rows": [
+    {
+     "surface": "strīpuṃsoriva",
+     "gloss": "like-woman-man",
+     "grounds": "compound with comparative particle indicating union of female and male",
+     "morph": "compound+indecl."
+    },
+    {
+     "surface": "saṃyogastathā",
+     "gloss": "union-thus",
+     "grounds": "fused form stating a union in that manner",
+     "morph": "m.nom.sg+indecl."
+    },
+    {
+     "surface": "yojyaṃ",
+     "gloss": "to-be-joined",
+     "grounds": "expresses that elements should be joined",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vicakṣaṇaiḥ",
+     "gloss": "by-skilled-ones",
+     "grounds": "instrumental indicating the agents",
+     "morph": "m.ins.pl"
+    }
+   ],
+   "question": "How should skilled practitioners join the elements of the site plan?",
+   "premises": [
+    "A comparison is made to the union of woman and man",
+    "A union is to be effected",
+    "Skilled practitioners are the agents"
+   ],
+   "inference": "Skilled practitioners should join the elements like the union of woman and man.",
+   "uncertainties": [],
+   "plain_english": "The skilled should join them together like the union of woman and man."
+  },
+  {
+   "verse": 1713,
+   "rows": [
+    {
+     "surface": "bhṛśāṃśe",
+     "gloss": "in-strong-part",
+     "grounds": "locative indicating a strong division or portion",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "mithunaṃ",
+     "gloss": "couple",
+     "grounds": "refers to the pair or zodiacal couple",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "vidyātkulīro",
+     "gloss": "one-should-know-crab",
+     "grounds": "fused form prescribing recognition of the crab sign",
+     "morph": "3.sg.optative-act √vid+compound"
+    },
+    {
+     "surface": "vitathe bhavet",
+     "gloss": "in-false-would-be",
+     "grounds": "states the condition in a false or unfavorable part",
+     "morph": "n.loc.sg+3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What placements are indicated for the couple and crab signs in different parts?",
+   "premises": [
+    "A strong part is specified",
+    "The couple is associated with that part",
+    "The crab is associated with a false part"
+   ],
+   "inference": "In the strong part one should know the couple, and in the false part the crab would be.",
+   "uncertainties": [
+    "The technical sense of bhṛśāṃśe and vitathe depends on site-astrology context."
+   ],
+   "plain_english": "In the strong part one should know the couple, and in the false part there would be the crab."
+  },
+  {
+   "verse": 1714,
+   "rows": [
+    {
+     "surface": "mitre",
+     "gloss": "in-friend",
+     "grounds": "locative indicating the friendly division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu vṛścikaḥ",
+     "gloss": "but-scorpion",
+     "grounds": "names the scorpion sign",
+     "morph": "indecl.+m.nom.sg"
+    },
+    {
+     "surface": "śeṣe",
+     "gloss": "in-remainder",
+     "grounds": "locative indicating the remaining division",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "dhanurmukhye",
+     "gloss": "in-sagittarius-chief",
+     "grounds": "compound indicating the chief or sagittarian division",
+     "morph": "compound"
+    },
+    {
+     "surface": "jhaṣasthitiḥ",
+     "gloss": "fish-position",
+     "grounds": "compound indicating placement of the fish sign",
+     "morph": "compound"
+    }
+   ],
+   "question": "Which zodiac signs are assigned to the friend, remainder, and chief divisions?",
+   "premises": [
+    "The friend division is specified",
+    "The remainder and chief divisions are specified",
+    "Scorpion, and fish positions are assigned"
+   ],
+   "inference": "Scorpion is in the friend division, and the fish is placed in the remainder or chief division.",
+   "uncertainties": [
+    "The exact parsing of dhanurmukhye śeṣe is ambiguous in this compressed form."
+   ],
+   "plain_english": "In the friend division is the scorpion, and in the rest or chief division is the position of the fish."
+  },
+  {
+   "verse": 1715,
+   "rows": [
+    {
+     "surface": "carācarobhayā",
+     "gloss": "movable-immovable-both",
+     "grounds": "compound indicating movable, immovable, and both types",
+     "morph": "compound"
+    },
+    {
+     "surface": "jñeyāstattadevāṃśake",
+     "gloss": "to-be-known-in-that-very-part",
+     "grounds": "fused form indicating recognition in the corresponding division",
+     "morph": "f.nom.sg+compound"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribes placement",
+     "morph": "3.sg.optative-act ni-√as"
+    }
+   ],
+   "question": "How should movable, immovable, and mixed types be placed in their divisions?",
+   "premises": [
+    "Movable, immovable, and both types are distinguished",
+    "They are to be known in their respective parts",
+    "Placement is prescribed"
+   ],
+   "inference": "One should recognize and place the movable, immovable, and mixed types in their respective divisions.",
+   "uncertainties": [],
+   "plain_english": "The movable, immovable, and mixed types should be known and placed in their respective parts."
+  },
+  {
+   "verse": 1716,
+   "rows": [
+    {
+     "surface": "pradakṣiṇagatānyeva",
+     "gloss": "going-clockwise-only",
+     "grounds": "compound indicating movement in clockwise order",
+     "morph": "compound"
+    },
+    {
+     "surface": "meṣādiṣu",
+     "gloss": "in-aries-etc",
+     "grounds": "locative indicating Aries and following signs",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "vibhāgataḥ",
+     "gloss": "by-division",
+     "grounds": "indicates arrangement according to divisions",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "In what directional order should the divisions from Aries onward be arranged?",
+   "premises": [
+    "The arrangement proceeds from Aries onward",
+    "The movement is clockwise",
+    "The order follows divisions"
+   ],
+   "inference": "The divisions from Aries onward should be arranged in clockwise order.",
+   "uncertainties": [],
+   "plain_english": "They should be arranged by division in clockwise order, beginning with Aries and so on."
+  },
+  {
+   "verse": 1717,
+   "rows": [
+    {
+     "surface": "yame",
+     "gloss": "in-yama-direction",
+     "grounds": "locative indicating the southern direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu guruvāraḥ",
+     "gloss": "but-thursday",
+     "grounds": "names the day of Jupiter",
+     "morph": "indecl.+m.nom.sg"
+    },
+    {
+     "surface": "syānnairṛtau",
+     "gloss": "should-be-in-southwest",
+     "grounds": "fused form indicating placement in the southwest",
+     "morph": "3.sg.optative-act √as+m.loc.sg"
+    },
+    {
+     "surface": "budhavārakam",
+     "gloss": "wednesday",
+     "grounds": "names the day of Mercury",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Which weekdays are assigned to the southern and southwestern directions?",
+   "premises": [
+    "The southern direction is specified",
+    "The southwestern direction is specified",
+    "Thursday and Wednesday are assigned respectively"
+   ],
+   "inference": "Thursday is assigned to the south and Wednesday to the southwest.",
+   "uncertainties": [],
+   "plain_english": "In the south should be Thursday, and in the southwest Wednesday."
+  },
+  {
+   "verse": 1718,
+   "rows": [
+    {
+     "surface": "some",
+     "gloss": "in-soma-direction",
+     "grounds": "locative indicating the northern direction",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tu somavāraḥ",
+     "gloss": "but-monday",
+     "grounds": "names the day of the moon",
+     "morph": "indecl.+m.nom.sg"
+    },
+    {
+     "surface": "syādīśāne",
+     "gloss": "should-be-in-northeast",
+     "grounds": "fused form indicating placement in the northeast",
+     "morph": "3.sg.optative-act √as+m.loc.sg"
+    },
+    {
+     "surface": "rāhusaṃsthitiḥ",
+     "gloss": "rahu-position",
+     "grounds": "compound indicating the placement of Rāhu",
+     "morph": "compound"
+    }
+   ],
+   "question": "What are assigned to the northern and northeastern directions in this scheme?",
+   "premises": [
+    "The northern direction is specified",
+    "The northeastern direction is specified",
+    "Monday and Rāhu's position are assigned respectively"
+   ],
+   "inference": "Monday is assigned to the north and Rāhu's position to the northeast.",
+   "uncertainties": [],
+   "plain_english": "In the north should be Monday, and in the northeast the position of Rāhu."
+  },
+  {
+   "verse": 1719,
+   "rows": [
+    {
+     "surface": "tadvaśādvihitaṃ",
+     "gloss": "done-by-that-power",
+     "grounds": "compound indicating action performed according to that",
+     "morph": "compound"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "indicates everything done accordingly",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sarvasiddhiphalapradam",
+     "gloss": "giving-fruit-of-all-success",
+     "grounds": "compound describing the result as granting all success",
+     "morph": "compound"
+    }
+   ],
+   "question": "What result follows from actions performed according to this arrangement?",
+   "premises": [
+    "Actions are performed according to that arrangement",
+    "All such actions are included",
+    "The result is described as granting all success"
+   ],
+   "inference": "Everything done according to this arrangement yields the fruit of all success.",
+   "uncertainties": [],
+   "plain_english": "Everything done according to that gives the fruit of all success."
+  },
+  {
+   "verse": 1720,
+   "rows": [
+    {
+     "surface": "prathamaṃ",
+     "gloss": "first",
+     "grounds": "indicates the initial step",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "brahmaṇaḥ sthānātprāksūtraṃ",
+     "gloss": "from-brahma-place-east-cord",
+     "grounds": "compound indicating a cord drawn eastward from Brahmā's place",
+     "morph": "compound"
+    },
+    {
+     "surface": "sabaliṃ",
+     "gloss": "with-offering",
+     "grounds": "describes the cord or act as accompanied by an offering",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "prescribes placement",
+     "morph": "3.sg.optative-act ni-√as"
+    }
+   ],
+   "question": "Where should the first cord with offering be placed in the site?",
+   "premises": [
+    "The first step is specified",
+    "The cord is drawn eastward from Brahmā's place",
+    "It should be placed with an offering"
+   ],
+   "inference": "First, one should place the eastward cord from Brahmā's place together with an offering.",
+   "uncertainties": [],
+   "plain_english": "First, one should place the eastward cord from Brahmā's place together with an offering."
+  },
+  {
+   "verse": 1721,
+   "rows": [
+    {
+     "surface": "caturaśrāyatāśrasthaparyantaṃ",
+     "gloss": "up-to-square-oblong-placed-limit",
+     "grounds": "compound indicating extent up to square and oblong placements",
+     "morph": "compound"
+    },
+    {
+     "surface": "syāttṛtīyakam",
+     "gloss": "should-be-third",
+     "grounds": "fused form identifying the third element",
+     "morph": "3.sg.optative-act √as+n.nom.sg"
+    }
+   ],
+   "question": "What extent defines the third element in the cord arrangement?",
+   "premises": [
+    "An extent reaching square and oblong placements is specified",
+    "This extent is identified as the third"
+   ],
+   "inference": "The third element should extend up to the limit of square and oblong placements.",
+   "uncertainties": [
+    "The precise technical referent of tṛtīyakam is not fully explicit."
+   ],
+   "plain_english": "The third should extend up to the limit of the square and oblong placements."
+  },
+  {
+   "verse": 1722,
+   "rows": [
+    {
+     "surface": "ṣaṣṭhaṃ",
+     "gloss": "sixth",
+     "grounds": "identifies the sixth element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "syāttadanantaryaṃ",
+     "gloss": "should-be-immediately-after-that",
+     "grounds": "fused form indicating sequence after that",
+     "morph": "3.sg.optative-act √as+n.nom.sg"
+    },
+    {
+     "surface": "saptamaṃ",
+     "gloss": "seventh",
+     "grounds": "identifies the seventh element",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "madhyakarṇikam",
+     "gloss": "having-middle-diagonal",
+     "grounds": "compound describing the seventh as having a central diagonal",
+     "morph": "compound"
+    }
+   ],
+   "question": "How are the sixth and seventh elements characterized in sequence?",
+   "premises": [
+    "The sixth element is placed immediately after the previous one",
+    "The seventh element is specified next",
+    "The seventh has a central diagonal"
+   ],
+   "inference": "The sixth follows immediately after, and the seventh is characterized by a central diagonal.",
+   "uncertainties": [],
+   "plain_english": "The sixth should come immediately after that, and the seventh should have a central diagonal."
+  },
+  {
+   "verse": 1723,
+   "rows": [
+    {
+     "surface": "evamanyattu",
+     "gloss": "thus-other-but",
+     "grounds": "fused form indicating other cases in the same manner",
+     "morph": "indecl.+n.nom.sg+indecl."
+    },
+    {
+     "surface": "vijñeyaṃ",
+     "gloss": "to-be-understood",
+     "grounds": "indicates what should be known",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "yāvaddvātriṃśakaṃ",
+     "gloss": "up-to-thirty-two",
+     "grounds": "compound indicating extent up to thirty-two",
+     "morph": "compound"
+    },
+    {
+     "surface": "padam",
+     "gloss": "division",
+     "grounds": "refers to the division or part",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "Up to what limit should the other divisions be understood in the same way?",
+   "premises": [
+    "Other cases are to be understood similarly",
+    "A limit of thirty-two is specified",
+    "The limit applies to divisions"
+   ],
+   "inference": "Other divisions should be understood in the same way up to the thirty-second division.",
+   "uncertainties": [],
+   "plain_english": "In the same way, the other divisions should be understood up to the thirty-second."
+  },
+  {
+   "verse": 1724,
+   "rows": [
+    {
+     "surface": "pramāṇasūtramanyatsyādevaṃ",
+     "gloss": "measure-cord-other-should-be-thus",
+     "grounds": "fused compound stating another measure cord in this manner",
+     "morph": "compound"
+    },
+    {
+     "surface": "sūtradvayaṃ",
+     "gloss": "pair-of-cords",
+     "grounds": "compound indicating two cords",
+     "morph": "compound"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative expressing the resulting arrangement",
+     "morph": "3.sg.optative-act √bhū"
+    }
+   ],
+   "question": "What cord arrangement results from adding another measure cord in this way?",
+   "premises": [
+    "Another measure cord is specified",
+    "The arrangement is described in this manner",
+    "The result is a pair of cords"
+   ],
+   "inference": "By adding another measure cord in this way, there should be a pair of cords.",
+   "uncertainties": [],
+   "plain_english": "Thus there should be another measure cord, making a pair of cords."
+  }
+ ]
+}

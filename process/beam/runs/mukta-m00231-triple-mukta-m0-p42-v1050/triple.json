@@ -1,0 +1,46 @@
+{
+ "song": "mukta-m0-p42",
+ "items": [
+  {
+   "verse": 1050,
+   "rows": [
+    {
+     "surface": "tattvamudrāṃ",
+     "gloss": "tattva-mudra",
+     "grounds": "compound tattva plus mudrā in accusative singular",
+     "morph": "acc.sg.f"
+    },
+    {
+     "surface": "pradarśyātha",
+     "gloss": "having-shown-then",
+     "grounds": "gerund pradarśya plus atha fused in one surface token",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "idamannāmṛtaṃ",
+     "gloss": "this-food-nectar",
+     "grounds": "demonstrative idam with anna-amṛta compound in accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "should-say",
+     "grounds": "optative of root vad in third person singular",
+     "morph": "3.sg.opt.act"
+    }
+   ],
+   "question": "What should be said after showing the tattva-mudrā in this Kaula food-rite?",
+   "premises": [
+    "tattva-mudrā is shown first",
+    "the food-nectar is then named",
+    "the utterance follows the display"
+   ],
+   "inference": "the rite prescribes saying this food-nectar after displaying the tattva-mudrā",
+   "uncertainties": [
+    "exact referent of tattva-mudrā is not specified",
+    "whether annāmṛta is literal or symbolic is not specified"
+   ],
+   "plain_english": "Having shown the tattva-mudrā, one should then say, 'This is the food-nectar.'"
+  }
+ ]
+}

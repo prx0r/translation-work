@@ -1,0 +1,61 @@
+{
+ "song": "mukta-m0-p394",
+ "items": [
+  {
+   "verse": 9850,
+   "rows": [
+    {
+     "surface": "etasya",
+     "gloss": "of-this",
+     "grounds": "refers to the previously mentioned mantra",
+     "morph": "pron.gen.sg.m"
+    },
+    {
+     "surface": "upāsakānām",
+     "gloss": "of-worshippers",
+     "grounds": "those who perform upāsanā of the mantra",
+     "morph": "m.gen.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaṃśe",
+     "gloss": "in-lineage",
+     "grounds": "family line or descendants",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "potential occurrence",
+     "morph": "3.sg.opt.act √as"
+    },
+    {
+     "surface": "daridratā",
+     "gloss": "poverty",
+     "grounds": "state of being poor",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What condition regarding poverty is excluded from the lineage of this mantra's worshippers?",
+   "premises": [
+    "The verse refers to the worshippers of this mantra.",
+    "The lineage of these worshippers is the domain considered.",
+    "Poverty is stated not to arise in that lineage."
+   ],
+   "inference": "Therefore, worship of this mantra ensures the absence of poverty in one's lineage.",
+   "uncertainties": [],
+   "plain_english": "Indeed, there would be no poverty in the lineage of those who worship this mantra."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "song": "mukta-m0-p09",
+ "items": [
+  {
+   "verse": 225,
+   "rows": [
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "temporal adverb indicating then",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "āśābhimukho",
+     "gloss": "toward-desire",
+     "grounds": "compound of āśā and abhimukha; facing desire",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhūtvā",
+     "gloss": "having-become",
+     "grounds": "absolutive of bhū",
+     "morph": "absolutive"
+    },
+    {
+     "surface": "tripurīkṛtavigrahaḥ",
+     "gloss": "tripurī-made-form",
+     "grounds": "compound of tripurī, kṛta, and vigraha; form made tripurī",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What bodily transformation occurs when the practitioner becomes oriented toward desire?",
+   "premises": [
+    "practitioner becomes oriented toward desire",
+    "form is made tripurī",
+    "then transformation follows"
+   ],
+   "inference": "orientation toward desire results in a tripurī-made form",
+   "uncertainties": [
+    "exact ritual referent of tripurīkṛtavigraha remains unclear"
+   ],
+   "plain_english": "Then, having become oriented toward desire, his form is made tripurī."
+  }
+ ]
+}

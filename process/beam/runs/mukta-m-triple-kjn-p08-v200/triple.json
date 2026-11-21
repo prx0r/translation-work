@@ -1,0 +1,64 @@
+{
+ "song": "kjn-p08",
+ "items": [
+  {
+   "verse": 200,
+   "rows": [
+    {
+     "surface": "labhati",
+     "gloss": "one-obtains",
+     "grounds": "present active verb expressing attainment",
+     "morph": "3.sg.pres.act √labh"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sandehaḥ",
+     "gloss": "doubt",
+     "grounds": "noun denied by preceding negative particle",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vividhaṃ",
+     "gloss": "various",
+     "grounds": "adjective qualifying the desired object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "yat",
+     "gloss": "whatever",
+     "grounds": "relative pronoun introducing the desired object",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "samīhitam",
+     "gloss": "desired",
+     "grounds": "past passive participle functioning as noun",
+     "morph": "n.nom.sg ppp √sam-īh"
+    }
+   ],
+   "question": "Is the attainment of whatever diverse goal is desired absolutely certain?",
+   "premises": [
+    "One obtains the desired result.",
+    "The attainment is emphatically affirmed.",
+    "There is no doubt regarding this attainment.",
+    "The desired object may be various in kind."
+   ],
+   "inference": "Whatever diverse goal is desired is certainly obtained without doubt.",
+   "uncertainties": [
+    "The grammatical role of vividhaṃ and samīhitam as nominative or accusative in this context is slightly ambiguous."
+   ],
+   "plain_english": "One indeed obtains whatever various thing is desired; there is no doubt."
+  }
+ ]
+}

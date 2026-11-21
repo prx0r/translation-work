@@ -1,0 +1,1081 @@
+{
+ "song": "mukta-m0-p404",
+ "items": [
+  {
+   "verse": 10076,
+   "rows": [
+    {
+     "surface": "vedavyāso",
+     "gloss": "veda-vyasa",
+     "grounds": "name of the sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "muniś",
+     "gloss": "sage",
+     "grounds": "final visarga before chandaḥ",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "chandaḥ",
+     "gloss": "meter",
+     "grounds": "ritual designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kṛtir",
+     "gloss": "composition",
+     "grounds": "final visarga before gaṅgā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "gaṅgā",
+     "gloss": "ganga",
+     "grounds": "name of the goddess",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "ritual designation",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "Which sage, meter, composition, and deity are assigned to the Ganga mantra?",
+   "premises": [
+    "Veda-vyasa is named as the sage.",
+    "The meter is specified as chandas.",
+    "Ganga is declared the deity."
+   ],
+   "inference": "The Ganga mantra is ritually framed by Veda-vyasa as sage, its meter, its composition, and Ganga as deity.",
+   "uncertainties": [
+    "The exact metrical form indicated by chandaḥ is not specified here."
+   ],
+   "plain_english": "Veda-vyasa is the sage, the meter is the chandas, the composition is named, and Ganga is the deity."
+  },
+  {
+   "verse": 10077,
+   "rows": [
+    {
+     "surface": "nikhilaṃ",
+     "gloss": "all",
+     "grounds": "object of ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pūrvavat",
+     "gloss": "as-before",
+     "grounds": "comparative adverbial compound",
+     "morph": "pūrva+membership (indecl.)"
+    },
+    {
+     "surface": "kuryān",
+     "gloss": "one-should-do",
+     "grounds": "injunctive ritual instruction",
+     "morph": "3.sg.opt.act √kṛ"
+    },
+    {
+     "surface": "nikhilābhīṣṭado",
+     "gloss": "granting-all-desired",
+     "grounds": "bahuvrihi-like agentive compound",
+     "morph": "nikhila+member abhiṣṭa+member da+member m.nom.sg"
+    },
+    {
+     "surface": "manuḥ",
+     "gloss": "mantra",
+     "grounds": "subject of the clause",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What ritual procedure and result are attributed to this all-desire-granting mantra?",
+   "premises": [
+    "All rites should be performed as before.",
+    "The mantra is described as granting all desired ends.",
+    "The instruction is given in the optative mood."
+   ],
+   "inference": "When performed as previously prescribed, this mantra yields all desired results.",
+   "uncertainties": [],
+   "plain_english": "One should perform everything as before; this mantra grants all desired ends."
+  },
+  {
+   "verse": 10078,
+   "rows": [
+    {
+     "surface": "oṃ hrīṃ śrīṃ hṛdbhagavati gaṅge ca dayite namaḥ",
+     "gloss": "om-hrim-srim-heart-blessed-ganga-and-beloved-homage",
+     "grounds": "mantra formula given as a single unit",
+     "morph": "(mantra)"
+    }
+   ],
+   "question": "What is the verbal formula of the Ganga mantra taught here?",
+   "premises": [
+    "The unit consists of seed syllables and invocatory words.",
+    "Ganga is addressed as blessed and beloved.",
+    "The formula concludes with homage."
+   ],
+   "inference": "The prescribed Ganga mantra is the complete salutation formula presented in this unit.",
+   "uncertainties": [],
+   "plain_english": "Om hrim srim, homage to the blessed, beloved Ganga in the heart."
+  },
+  {
+   "verse": 10079,
+   "rows": [
+    {
+     "surface": "tridvyabdhīṣudvidvivarṇaiḥ",
+     "gloss": "with-three-two-four-five-two-two-syllables",
+     "grounds": "numerical compound indicating syllable counts",
+     "morph": "tri+member dvi+member abdhi+member iṣu+member dvi+member dvi+member varṇa+member m.ins.pl"
+    },
+    {
+     "surface": "ṣaḍaṅgavidhir",
+     "gloss": "six-limb-procedure",
+     "grounds": "compound naming nyasa procedure",
+     "morph": "ṣaṣ+member aṅga+member vidhi+member m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle predicate",
+     "morph": "m.nom.sg.past-pass.part √īr"
+    }
+   ],
+   "question": "How is the six-limb ritual procedure specified by syllable groupings?",
+   "premises": [
+    "A sequence of syllable counts is given.",
+    "The counts are applied to the six limbs.",
+    "The procedure is explicitly declared."
+   ],
+   "inference": "The six-limb procedure is defined by assigning the stated syllable groups to the limbs.",
+   "uncertainties": [
+    "The exact mapping of each count to a specific limb is not spelled out in this verse."
+   ],
+   "plain_english": "The six-limb procedure is declared using groups of three, two, four, five, two, and two syllables."
+  },
+  {
+   "verse": 10080,
+   "rows": [
+    {
+     "surface": "varṇalakṣaṃ",
+     "gloss": "hundred-thousand-syllables",
+     "grounds": "amount of recitation",
+     "morph": "varṇa+member lakṣa+member n.acc.sg"
+    },
+    {
+     "surface": "japed",
+     "gloss": "one-should-recite",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "dhomaḥ",
+     "gloss": "fire-offering",
+     "grounds": "ritual act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "prāgvats",
+     "gloss": "as-before",
+     "grounds": "comparative adverbial form",
+     "morph": "prāk+membership (indecl.)"
+    },
+    {
+     "surface": "ammatkaras",
+     "gloss": "giving-agreement",
+     "grounds": "describes efficacy of the rite",
+     "morph": "sammata+member kara+member m.nom.sg"
+    },
+    {
+     "surface": "tv",
+     "gloss": "but",
+     "grounds": "particle with sandhi before ayam",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ayam",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What recitation, fire-offering, and efficacy are prescribed for this mantra practice?",
+   "premises": [
+    "Recitation of one hundred thousand syllables is enjoined.",
+    "The fire-offering is to be done as before.",
+    "This practice is said to bring the desired agreement or result."
+   ],
+   "inference": "Reciting one hundred thousand syllables and performing the fire-offering as before makes this practice effective.",
+   "uncertainties": [
+    "The precise sense of ammatkaras as agreement or fulfillment depends on context."
+   ],
+   "plain_english": "One should recite one hundred thousand syllables and perform the fire-offering as before; this brings the desired result."
+  },
+  {
+   "verse": 10081,
+   "rows": [
+    {
+     "surface": "hilidvandvaṃ",
+     "gloss": "hili-pair",
+     "grounds": "mantric syllable pair",
+     "morph": "hili+member dvandva+member n.nom.sg"
+    },
+    {
+     "surface": "milidvandvaṃ",
+     "gloss": "mili-pair",
+     "grounds": "mantric syllable pair",
+     "morph": "mili+member dvandva+member n.nom.sg"
+    },
+    {
+     "surface": "gaṅge",
+     "gloss": "o-ganga",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "devi",
+     "gloss": "o-goddess",
+     "grounds": "vocative address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "namas",
+     "gloss": "homage",
+     "grounds": "salutation word",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What syllable pairs and invocatory words form the mantra segment given here?",
+   "premises": [
+    "Two syllable pairs, hili and mili, are named.",
+    "Ganga is addressed as goddess.",
+    "The segment includes the word of homage."
+   ],
+   "inference": "The mantra segment consists of the hili and mili pairs followed by an invocation and homage to Goddess Ganga.",
+   "uncertainties": [],
+   "plain_english": "The hili pair, the mili pair, then: O Goddess Ganga, homage."
+  },
+  {
+   "verse": 10082,
+   "rows": [
+    {
+     "surface": "tridvidvyakṣiyugadvyarṇaiḥ",
+     "gloss": "with-three-two-two-two-two-two-syllables",
+     "grounds": "numerical compound indicating syllable counts",
+     "morph": "tri+member dvi+member dvi+member akṣi+member yuga+member dvi+member varṇa+member m.ins.pl"
+    },
+    {
+     "surface": "ṣaḍaṅgavidhir",
+     "gloss": "six-limb-procedure",
+     "grounds": "compound naming nyasa procedure",
+     "morph": "ṣaṣ+member aṅga+member vidhi+member m.nom.sg"
+    },
+    {
+     "surface": "īritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle predicate",
+     "morph": "m.nom.sg.past-pass.part √īr"
+    }
+   ],
+   "question": "What syllable-group pattern defines the six-limb procedure in this instruction?",
+   "premises": [
+    "A specific sequence of syllable counts is provided.",
+    "The counts govern the six-limb procedure.",
+    "The procedure is stated as declared."
+   ],
+   "inference": "The six-limb procedure is established by the given sequence of syllable groups.",
+   "uncertainties": [
+    "The correspondence of akṣi and yuga to exact numbers follows conventional numerical symbolism."
+   ],
+   "plain_english": "The six-limb procedure is declared with groups of three, two, two, two, two, and two syllables."
+  },
+  {
+   "verse": 10083,
+   "rows": [
+    {
+     "surface": "narmadāyai nama iti",
+     "gloss": "to-narmada-homage-thus",
+     "grounds": "quoted mantra formula",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "ṣaḍarṇaḥ",
+     "gloss": "six-syllabled",
+     "grounds": "describes the mantra",
+     "morph": "ṣaṣ+member arṇa+member m.nom.sg"
+    },
+    {
+     "surface": "parikīrtitaḥ",
+     "gloss": "proclaimed",
+     "grounds": "past participle predicate",
+     "morph": "m.nom.sg.past-pass.part √kīrt"
+    }
+   ],
+   "question": "What six-syllable mantra is proclaimed for the goddess Narmada?",
+   "premises": [
+    "The formula 'narmadāyai namaḥ' is given.",
+    "The mantra is described as having six syllables.",
+    "It is explicitly proclaimed."
+   ],
+   "inference": "The proclaimed Narmada mantra is the six-syllable formula 'narmadāyai namaḥ'.",
+   "uncertainties": [],
+   "plain_english": "The six-syllable mantra proclaimed is: 'Homage to Narmada.'"
+  },
+  {
+   "verse": 10084,
+   "rows": [
+    {
+     "surface": "p. 595",
+     "gloss": "page-595",
+     "grounds": "editorial page marker",
+     "morph": "(marker)"
+    },
+    {
+     "surface": "lasaddhastāṃ",
+     "gloss": "with-shining-hands",
+     "grounds": "descriptive compound of the goddess",
+     "morph": "lasat+member hasta+member f.acc.sg"
+    },
+    {
+     "surface": "svarṇakāntiṃ",
+     "gloss": "golden-lustered",
+     "grounds": "descriptive compound of the goddess",
+     "morph": "svarṇa+member kānti+member f.acc.sg"
+    },
+    {
+     "surface": "sālaṅkārāṃ",
+     "gloss": "adorned-with-ornaments",
+     "grounds": "descriptive compound of the goddess",
+     "morph": "sa+member alaṅkāra+member f.acc.sg"
+    },
+    {
+     "surface": "bhajāmy",
+     "gloss": "i-worship",
+     "grounds": "first person devotional statement",
+     "morph": "1.sg.pres.act √bhaj"
+    },
+    {
+     "surface": "aham",
+     "gloss": "i",
+     "grounds": "explicit subject",
+     "morph": "1.nom.sg"
+    }
+   ],
+   "question": "How is the goddess visualized and worshipped in this devotional statement?",
+   "premises": [
+    "The goddess is described as having shining hands.",
+    "She is described as golden-lustered and adorned with ornaments.",
+    "The speaker declares personal worship."
+   ],
+   "inference": "The practitioner worships the goddess visualized as radiant, golden, and fully adorned.",
+   "uncertainties": [],
+   "plain_english": "I worship her, with shining hands, golden in luster, and adorned with ornaments."
+  },
+  {
+   "verse": 10085,
+   "rows": [
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual limbs",
+     "morph": "ṣaṣ+member aṅga+member n.acc.pl"
+    },
+    {
+     "surface": " [ekaikākṣarairhṛdayādinyāsāḥ yathā-nahṛdayāya namaḥ rmaśirase svāhā, dā śikhāyai vaṣaṭ ityādi ||]",
+     "gloss": "with-single-syllables-heart-etc-placements-as-stated",
+     "grounds": "editorial explanatory note included as token",
+     "morph": "(note)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mantrārṇaiḥ",
+     "gloss": "with-mantra-syllables",
+     "grounds": "instrument for nyasa",
+     "morph": "mantra+member arṇa+member m.ins.pl"
+    },
+    {
+     "surface": "prajaped",
+     "gloss": "one-should-recite",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √jap"
+    },
+    {
+     "surface": "varṇasaṅkhyayā",
+     "gloss": "by-syllable-count",
+     "grounds": "measure of recitation",
+     "morph": "varṇa+member saṅkhyā+member f.ins.sg"
+    }
+   ],
+   "question": "How should the six limbs be placed and the mantra recited according to syllable count?",
+   "premises": [
+    "The six limbs are to be established with mantra syllables.",
+    "An explanatory note indicates single-syllable placements.",
+    "Recitation should follow the syllable count."
+   ],
+   "inference": "The practitioner should perform six-limb placement with the mantra syllables and recite according to their number.",
+   "uncertainties": [
+    "The bracketed note is editorial and its internal segmentation is not analyzed as separate verse tokens."
+   ],
+   "plain_english": "One should place the six limbs with the mantra syllables, as indicated, and recite according to the syllable count."
+  },
+  {
+   "verse": 10086,
+   "rows": [
+    {
+     "surface": "iha",
+     "gloss": "here",
+     "grounds": "locative adverb for this world",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saukhyaṃ",
+     "gloss": "happiness",
+     "grounds": "result in this world",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "paratrāpi",
+     "gloss": "and-hereafter",
+     "grounds": "fused adverb and particle",
+     "morph": "paratra+member api+member (indecl.)"
+    },
+    {
+     "surface": "paratrāpi",
+     "gloss": "and-hereafter",
+     "grounds": "repeated fused adverb and particle as given",
+     "morph": "paratra+member api+member (indecl.)"
+    },
+    {
+     "surface": "śivaloke",
+     "gloss": "in-shiva-world",
+     "grounds": "locative destination",
+     "morph": "śiva+member loka+member m.loc.sg"
+    },
+    {
+     "surface": "mahīyate",
+     "gloss": "is-honored",
+     "grounds": "passive result",
+     "morph": "3.sg.pres.pass √mah"
+    }
+   ],
+   "question": "What worldly and otherworldly rewards result from this mantra practice?",
+   "premises": [
+    "Happiness here is mentioned.",
+    "The hereafter is mentioned repeatedly.",
+    "Honor in the world of Shiva is stated."
+   ],
+   "inference": "The practice yields happiness in this life and honor in Shiva's world hereafter.",
+   "uncertainties": [
+    "The repetition of paratrāpi may be emphatic or textual."
+   ],
+   "plain_english": "One gains happiness here and, hereafter, is honored in the world of Shiva."
+  },
+  {
+   "verse": 10087,
+   "rows": [
+    {
+     "surface": "sarasvatītaṭe",
+     "gloss": "on-sarasvati-bank",
+     "grounds": "place of recitation",
+     "morph": "sarasvatī+member taṭa+member n.loc.sg"
+    },
+    {
+     "surface": "japtās",
+     "gloss": "recited",
+     "grounds": "past participle with sandhi",
+     "morph": "m.nom.pl.past-pass.part √jap"
+    },
+    {
+     "surface": "tvaritaṃ",
+     "gloss": "quickly",
+     "grounds": "adverb of result",
+     "morph": "n.acc.sg (indecl.)"
+    },
+    {
+     "surface": "siddhidāyakāḥ",
+     "gloss": "granting-accomplishment",
+     "grounds": "predicate describing mantras",
+     "morph": "siddhi+member dāyaka+member m.nom.pl"
+    }
+   ],
+   "question": "What special efficacy do these mantras gain when recited on the Sarasvati's bank?",
+   "premises": [
+    "Recitation on the bank of the Sarasvati is specified.",
+    "The mantras are described as recited there.",
+    "They are said to grant accomplishment quickly."
+   ],
+   "inference": "When recited on the Sarasvati's bank, these mantras quickly grant accomplishment.",
+   "uncertainties": [],
+   "plain_english": "Recited on the bank of the Sarasvati, they quickly grant accomplishment."
+  },
+  {
+   "verse": 10088,
+   "rows": [
+    {
+     "surface": "gaṅgāśabdasya",
+     "gloss": "of-word-ganga",
+     "grounds": "reference point in mantra construction",
+     "morph": "gaṅgā+member śabda+member m.gen.sg"
+    },
+    {
+     "surface": "pūrve",
+     "gloss": "before",
+     "grounds": "locative indicating position",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "te",
+     "gloss": "those",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "godāyā",
+     "gloss": "of-goda",
+     "grounds": "associated river name",
+     "morph": "f.gen.sg"
+    },
+    {
+     "surface": "manavaḥ",
+     "gloss": "mantras",
+     "grounds": "subject of remembrance",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "smṛtāḥ",
+     "gloss": "remembered",
+     "grounds": "traditional attribution",
+     "morph": "m.nom.pl.past-pass.part √smṛ"
+    }
+   ],
+   "question": "How are the Goda mantras identified in relation to the word Ganga?",
+   "premises": [
+    "The word Ganga serves as a reference point.",
+    "Certain mantras are placed before it.",
+    "Those mantras are remembered as belonging to Goda."
+   ],
+   "inference": "The mantras placed before the word Ganga are traditionally identified as the Goda mantras.",
+   "uncertainties": [],
+   "plain_english": "Those mantras placed before the word 'Ganga' are remembered as the mantras of Goda."
+  },
+  {
+   "verse": 10089,
+   "rows": [
+    {
+     "surface": "śrīkṛṣṇakheladyunadi",
+     "gloss": "o-celestial-river-where-shri-krishna-sported",
+     "grounds": "vocative compound addressing the river",
+     "morph": "śrī+member kṛṣṇa+member khelat+member dyunadī+member f.voc.sg"
+    },
+    {
+     "surface": "trāhi",
+     "gloss": "protect",
+     "grounds": "imperative request",
+     "morph": "2.sg.imp.act √trā"
+    },
+    {
+     "surface": "māṃ",
+     "gloss": "me",
+     "grounds": "object of protection",
+     "morph": "1.acc.sg"
+    },
+    {
+     "surface": "tvaṃ",
+     "gloss": "you",
+     "grounds": "explicit subject",
+     "morph": "2.nom.sg"
+    },
+    {
+     "surface": "bhavārṇavāt",
+     "gloss": "from-ocean-of-becoming",
+     "grounds": "source of danger",
+     "morph": "bhava+member arṇava+member m.abl.sg"
+    }
+   ],
+   "question": "What protection is sought from the celestial river associated with Krishna's play?",
+   "premises": [
+    "The river is addressed as the place of Shri Krishna's sport.",
+    "A direct plea for protection is made.",
+    "The danger named is the ocean of worldly existence."
+   ],
+   "inference": "The supplicant asks the sacred river of Krishna's play to rescue them from the ocean of becoming.",
+   "uncertainties": [],
+   "plain_english": "O celestial river where Shri Krishna sported, protect me from the ocean of worldly existence."
+  },
+  {
+   "verse": 10090,
+   "rows": [
+    {
+     "surface": "chandon",
+     "gloss": "meter",
+     "grounds": "ritual designation with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "uṣṭup",
+     "gloss": "anushtubh",
+     "grounds": "name of the meter",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual limbs",
+     "morph": "ṣaṣ+member aṅga+member n.nom.pl"
+    },
+    {
+     "surface": "pādārdhārdhakrameṇa",
+     "gloss": "by-quarter-half-half-sequence",
+     "grounds": "compound indicating division method",
+     "morph": "pāda+member ardha+member ardha+member krama+member m.ins.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What meter and sequential division are prescribed for the six-limb procedure?",
+   "premises": [
+    "The meter is identified as anushtubh.",
+    "Six limbs are to be formed.",
+    "Their formation follows a quarter-half-half sequence."
+   ],
+   "inference": "For this mantra in anushtubh meter, the six limbs are assigned by a quarter, half, and half sequence.",
+   "uncertainties": [
+    "The exact textual division implied by pādārdhārdhakrameṇa depends on the mantra layout."
+   ],
+   "plain_english": "The meter is anushtubh, and the six limbs are arranged by the sequence of quarter, half, and half."
+  },
+  {
+   "verse": 10091,
+   "rows": [
+    {
+     "surface": "tilājyābhyāṃ",
+     "gloss": "with-sesame-and-ghee",
+     "grounds": "oblations for fire offering",
+     "morph": "tila+member ājya+member n.ins.dual"
+    },
+    {
+     "surface": "hunen",
+     "gloss": "one-should-offer",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √hu"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "agent of the rite",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhāskariṃ",
+     "gloss": "sun",
+     "grounds": "object of seeing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vīkṣate",
+     "gloss": "sees",
+     "grounds": "resulting condition",
+     "morph": "3.sg.pres.mid √vīkṣ"
+    }
+   ],
+   "question": "What fire-offering materials and protective result are stated for the mantra practitioner?",
+   "premises": [
+    "The practitioner should offer sesame and ghee.",
+    "The instruction is given to the mantra practitioner.",
+    "The result is expressed as not seeing the sun."
+   ],
+   "inference": "By offering sesame and ghee, the mantra practitioner attains a state described as not seeing the sun.",
+   "uncertainties": [
+    "The phrase 'does not see the sun' may be idiomatic for avoiding death or harm."
+   ],
+   "plain_english": "The mantra practitioner should offer sesame and ghee; then he does not see the sun."
+  },
+  {
+   "verse": 10092,
+   "rows": [
+    {
+     "surface": "amukadvīpāvarakāmukadravyodadhe",
+     "gloss": "o-ocean-of-such-substance-enclosing-such-island",
+     "grounds": "vocative compound with placeholders",
+     "morph": "amuka+member dvīpa+member āvaraka+member amuka+member dravya+member udadhi+member m.voc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "How should the ocean be addressed in the mantra using placeholder names?",
+   "premises": [
+    "The address includes placeholders for island and substance.",
+    "The ocean is directly invoked in the vocative.",
+    "The practitioner is instructed to utter this address."
+   ],
+   "inference": "The mantra requires addressing the ocean by inserting the specific island and substance names into the formula.",
+   "uncertainties": [
+    "The placeholders amuka must be replaced with context-specific names."
+   ],
+   "plain_english": "One should say: 'O ocean of such-and-such substance enclosing such-and-such island.'"
+  },
+  {
+   "verse": 10093,
+   "rows": [
+    {
+     "surface": "samudramantra",
+     "gloss": "ocean-mantra",
+     "grounds": "name of the mantra",
+     "morph": "samudra+member mantra+member m.nom.sg"
+    },
+    {
+     "surface": "uddiṣṭaḥ",
+     "gloss": "taught",
+     "grounds": "past participle predicate",
+     "morph": "m.nom.sg.past-pass.part √diś"
+    },
+    {
+     "surface": "sindhudvīpo",
+     "gloss": "sindhu-dvipa",
+     "grounds": "name of the sage",
+     "morph": "sindhu+member dvīpa+member m.nom.sg"
+    },
+    {
+     "surface": "munir",
+     "gloss": "sage",
+     "grounds": "title of the sage",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "mataḥ",
+     "gloss": "regarded",
+     "grounds": "traditional attribution",
+     "morph": "m.nom.sg.past-pass.part √man"
+    }
+   ],
+   "question": "What mantra is taught and which sage is traditionally assigned to it?",
+   "premises": [
+    "The ocean mantra is declared as taught.",
+    "Sindhu-dvipa is named.",
+    "Sindhu-dvipa is regarded as the sage."
+   ],
+   "inference": "The taught ocean mantra is traditionally attributed to the sage Sindhu-dvipa.",
+   "uncertainties": [],
+   "plain_english": "The ocean mantra is taught, and Sindhu-dvipa is regarded as its sage."
+  },
+  {
+   "verse": 10094,
+   "rows": [
+    {
+     "surface": "padair",
+     "gloss": "with-words",
+     "grounds": "instrumental means",
+     "morph": "n.ins.pl"
+    },
+    {
+     "surface": "manoḥ",
+     "gloss": "of-mantra",
+     "grounds": "source of the words",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "ṣaḍaṅgāni",
+     "gloss": "six-limbs",
+     "grounds": "ritual limbs",
+     "morph": "ṣaṣ+member aṅga+member n.acc.pl"
+    },
+    {
+     "surface": "tattadrūpaṃ",
+     "gloss": "its-respective-form",
+     "grounds": "object of contemplation",
+     "morph": "tat+member tat+member rūpa+member n.acc.sg"
+    },
+    {
+     "surface": "vicintayet",
+     "gloss": "one-should-contemplate",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act vi+√cint"
+    }
+   ],
+   "question": "How should the six limbs and corresponding forms be contemplated using the mantra's words?",
+   "premises": [
+    "The words of the mantra are used as instruments.",
+    "The six limbs are involved.",
+    "One should contemplate the respective form."
+   ],
+   "inference": "Using the mantra's words, the practitioner should contemplate the six limbs in their respective forms.",
+   "uncertainties": [],
+   "plain_english": "One should contemplate the six limbs and their respective forms using the words of the mantra."
+  },
+  {
+   "verse": 10095,
+   "rows": [
+    {
+     "surface": "tattadantargataṃ",
+     "gloss": "contained-within-each",
+     "grounds": "describes the object",
+     "morph": "tat+member tat+member antargata+member n.acc.sg"
+    },
+    {
+     "surface": "vastu",
+     "gloss": "thing",
+     "grounds": "object obtained",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhate",
+     "gloss": "obtains",
+     "grounds": "result for practitioner",
+     "morph": "3.sg.pres.mid √labh"
+    },
+    {
+     "surface": "sādhako",
+     "gloss": "practitioner",
+     "grounds": "agent who obtains",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphatic adverb",
+     "morph": "n.acc.sg (indecl.)"
+    }
+   ],
+   "question": "What certain attainment is promised to the practitioner through this contemplation?",
+   "premises": [
+    "The contemplation concerns what is contained within each form.",
+    "The practitioner is the one who obtains.",
+    "The attainment is declared certain."
+   ],
+   "inference": "The practitioner certainly obtains the thing contained within each contemplated form.",
+   "uncertainties": [],
+   "plain_english": "The practitioner certainly obtains the thing contained within each of those forms."
+  },
+  {
+   "verse": 10096,
+   "rows": [
+    {
+     "surface": "tāraṃ",
+     "gloss": "om-syllable",
+     "grounds": "initial seed syllable",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": " [oṃ yaṃ vāyave prāṇādhipataye kṛṣṇavarṇāyāṃkuśahastāya mṛgavāhanāya namaḥ ||]",
+     "gloss": "om-yam-to-vayu-lord-of-breath-dark-colored-hook-handed-deer-mounted-homage",
+     "grounds": "full mantra formula given as token",
+     "morph": "(mantra)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "yam-seed",
+     "grounds": "bija syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāyave",
+     "gloss": "to-vayu",
+     "grounds": "dative address",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "prāṇādhipataye",
+     "gloss": "to-lord-of-breath",
+     "grounds": "epithet of Vayu",
+     "morph": "prāṇa+member adhipati+member m.dat.sg"
+    },
+    {
+     "surface": "padaṃ",
+     "gloss": "word",
+     "grounds": "mantric element",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vadet",
+     "gloss": "one-should-say",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.opt.act √vad"
+    }
+   ],
+   "question": "What initial syllables and epithets must be uttered in the Vayu mantra formula?",
+   "premises": [
+    "The syllable om and the seed yam are specified.",
+    "Vayu is addressed as lord of breath.",
+    "The practitioner is instructed to utter these words."
+   ],
+   "inference": "The Vayu mantra begins with om and yam and includes the address to Vayu as lord of breath.",
+   "uncertainties": [
+    "The bracketed token gives the full formula while surrounding tokens indicate key elements."
+   ],
+   "plain_english": "One should utter om, the seed yam, and the words 'to Vayu, lord of breath.'"
+  },
+  {
+   "verse": 10097,
+   "rows": [
+    {
+     "surface": "ya",
+     "gloss": "ya",
+     "grounds": "syllable element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "homage",
+     "grounds": "salutation with sandhi",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "godvivarṇoy",
+     "gloss": "of-two-syllables-go",
+     "grounds": "compound describing syllable count with sandhi",
+     "morph": "go+member dvi+member varṇa+member m.nom.sg"
+    },
+    {
+     "surface": "ayaṃ",
+     "gloss": "this",
+     "grounds": "demonstrative subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāyumantra",
+     "gloss": "vayu-mantra",
+     "grounds": "name of the mantra",
+     "morph": "vāyu+member mantra+member m.nom.sg"
+    },
+    {
+     "surface": "udīritaḥ",
+     "gloss": "declared",
+     "grounds": "past participle predicate",
+     "morph": "m.nom.sg.past-pass.part ud+√īr"
+    }
+   ],
+   "question": "How is this Vayu mantra characterized by its concluding syllables and length?",
+   "premises": [
+    "The elements ya and homage are included.",
+    "The mantra is described with a two-syllable count indicated by go-dvi-varṇa.",
+    "It is declared as the Vayu mantra."
+   ],
+   "inference": "This declared Vayu mantra is characterized by the stated syllabic elements and count.",
+   "uncertainties": [
+    "The exact parsing of godvivarṇoy as a numerical-syllabic descriptor is context-dependent."
+   ],
+   "plain_english": "This Vayu mantra is declared with the elements ya and homage, characterized as having the stated syllable count."
+  },
+  {
+   "verse": 10098,
+   "rows": [
+    {
+     "surface": "pañcāṅgāni",
+     "gloss": "five-limbs",
+     "grounds": "ritual limbs",
+     "morph": "pañcan+member aṅga+member n.nom.pl"
+    },
+    {
+     "surface": "manorasya",
+     "gloss": "of-mantra",
+     "grounds": "genitive relation",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "manorasya",
+     "gloss": "of-this",
+     "grounds": "repeated token as given, referring to the mantra",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "oṃ",
+     "gloss": "om",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "yaṃ",
+     "gloss": "yam",
+     "grounds": "seed syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bījādikaiḥ",
+     "gloss": "beginning-with-seeds",
+     "grounds": "describes the words used",
+     "morph": "bīja+member ādi+member n.ins.pl"
+    },
+    {
+     "surface": "padaiḥ",
+     "gloss": "with-words",
+     "grounds": "instrumental means",
+     "morph": "n.ins.pl"
+    }
+   ],
+   "question": "How many limbs and which seed-based words are prescribed for this mantra's ritual structure?",
+   "premises": [
+    "Five limbs are specified for the mantra.",
+    "The syllables om and yam are included.",
+    "The limbs are formed with words beginning with seed syllables."
+   ],
+   "inference": "This mantra employs a five-limb structure using words that begin with seed syllables such as om and yam.",
+   "uncertainties": [
+    "The repetition of manorasya may be textual or emphatic."
+   ],
+   "plain_english": "This mantra has five limbs, formed with words beginning with seed syllables such as om and yam."
+  },
+  {
+   "verse": 10099,
+   "rows": [
+    {
+     "surface": "pāśāṃkuśakaramp",
+     "gloss": "holding-noose-and-goad-in-hand",
+     "grounds": "descriptive compound with sandhi",
+     "morph": "pāśa+member aṅkuśa+member kara+member m.acc.sg"
+    },
+    {
+     "surface": "retakṛtyāparisarānvitam",
+     "gloss": "accompanied-by-retinue-of-preta-attendants",
+     "grounds": "descriptive compound of the deity",
+     "morph": "preta+member kṛtyā+member parisara+member anvita+member m.acc.sg"
+    }
+   ],
+   "question": "What iconographic attributes and retinue characterize the deity described here?",
+   "premises": [
+    "The deity holds a noose and goad in hand.",
+    "The deity is accompanied by a retinue.",
+    "The retinue is described as consisting of preta attendants."
+   ],
+   "inference": "The deity is visualized as holding noose and goad and surrounded by a retinue of preta attendants.",
+   "uncertainties": [
+    "The exact sense of kṛtyā in the compound may vary by tantric context."
+   ],
+   "plain_english": "He holds a noose and goad in his hands and is accompanied by a retinue of preta attendants."
+  }
+ ]
+}

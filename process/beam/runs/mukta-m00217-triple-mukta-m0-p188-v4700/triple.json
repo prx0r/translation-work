@@ -1,0 +1,70 @@
+{
+ "song": "mukta-m0-p188",
+ "items": [
+  {
+   "verse": 4700,
+   "rows": [
+    {
+     "surface": "heti",
+     "gloss": "weapon",
+     "grounds": "legacy hint gives weapon; token treated as the named means/object in this rite list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nausainya",
+     "gloss": "ship-army",
+     "grounds": "compound reading from legacy army/naval sense; fused form kept as given",
+     "morph": "compound=ship+army"
+    },
+    {
+     "surface": "dhī",
+     "gloss": "intellect",
+     "grounds": "legacy hint gives intellect; used as a target/item in the stoppage list",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "garbha",
+     "gloss": "womb",
+     "grounds": "legacy hint gives womb; paired with stopping in the compound context",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "stambhanaṃ",
+     "gloss": "stopping",
+     "grounds": "legacy hint gives stopping; accusative object of the rite’s effect",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "conjoins items in the enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "gates",
+     "gloss": "of-movements",
+     "grounds": "legacy hint gives of-movement; genitive plural indicating what is stopped",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "thus",
+     "grounds": "legacy hint gives thus; marks manner/continuation of the stated effect",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What claimed stoppage of weapons, forces, intellect, womb, and motion is asserted by this ritual statement?",
+   "premises": [
+    "The verse lists named targets subject to stoppage.",
+    "The rite asserts a stopping effect upon those targets.",
+    "The statement presents this effect as accomplished in the described manner."
+   ],
+   "inference": "This line claims that weapons, a naval force, intellect, womb, and movements are all brought to a stop by the rite as stated.",
+   "uncertainties": [
+    "Exact syntactic role of gates without fuller sentence context is inferred from legacy hint.",
+    "Internal composition of nausainya is inferred from legacy army sense."
+   ],
+   "plain_english": "And thus there is stopping of weapons, a naval force, intellect, the womb, and of movements."
+  }
+ ]
+}

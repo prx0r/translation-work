@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p114",
+ "items": [
+  {
+   "verse": 2850,
+   "rows": [
+    {
+     "surface": "yāmyaṃ",
+     "gloss": "to-yama",
+     "grounds": "legacy hint to-yama; directional adjective for Yama/south",
+     "morph": "adj.acc.sg.m/n"
+    },
+    {
+     "surface": "vāyavyam",
+     "gloss": "to-vāyu",
+     "grounds": "legacy hint to-vāyu; directional adjective for Vāyu/northwest",
+     "morph": "adj.acc.sg.m/n"
+    },
+    {
+     "surface": "īśānaṃ",
+     "gloss": "to-īśāna",
+     "grounds": "legacy hint to-īśāna; directional adjective for Īśāna/northeast",
+     "morph": "adj.acc.sg.m/n"
+    },
+    {
+     "surface": "aindraṃ",
+     "gloss": "to-indra",
+     "grounds": "legacy hint to-indra; directional adjective for Indra/east",
+     "morph": "adj.acc.sg.m/n"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "legacy hint indeed; indeclinable particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pippalodakān",
+     "gloss": "pippala-water",
+     "grounds": "legacy hint pippala+water; compound pippala and udaka in accusative plural",
+     "morph": "noun.acc.pl.m"
+    }
+   ],
+   "question": "Which deities or directions receive pippala-water offerings in this rite?",
+   "premises": [
+    "Verse lists four directional deities.",
+    "It pairs them with pippala water.",
+    "Context concerns ritual offerings."
+   ],
+   "inference": "The verse specifies pippala-water offerings to Yama, Vāyu, Īśāna, and Indra directions.",
+   "uncertainties": [
+    "Exact grammatical agreement and ritual action remain unclear from this fragment."
+   ],
+   "plain_english": "Yama, Vāyu, Īśāna, and Indra are to receive pippala water."
+  }
+ ]
+}

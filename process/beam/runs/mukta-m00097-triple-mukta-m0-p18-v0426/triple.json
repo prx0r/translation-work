@@ -1,0 +1,1049 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 426,
+   "rows": [
+    {
+     "surface": "kuṅkuma",
+     "gloss": "saffron",
+     "grounds": "fragrant substance listed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "aguru",
+     "gloss": "aloeswood",
+     "grounds": "fragrant substance listed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "karpūra",
+     "gloss": "camphor",
+     "grounds": "fragrant substance listed",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mṛganābhi",
+     "gloss": "musk",
+     "grounds": "fragrant substance listed",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "vibhūṣitām",
+     "gloss": "adorned",
+     "grounds": "participle describing goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Which fragrant substances adorn the goddess in this ritual offering?",
+   "premises": [
+    "The verse lists saffron aloeswood camphor and musk.",
+    "The final word means adorned.",
+    "The list describes ritual adornment."
+   ],
+   "inference": "The goddess is adorned with saffron, aloeswood, camphor, and musk.",
+   "uncertainties": [
+    "Exact ritual context is not stated in this fragment."
+   ],
+   "plain_english": "Saffron, aloeswood, camphor, and musk adorn her."
+  },
+  {
+   "verse": 427,
+   "rows": [
+    {
+     "surface": "lakṣa",
+     "gloss": "hundred-thousand",
+     "grounds": "quantity",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "mātraṃ",
+     "gloss": "measure",
+     "grounds": "quantity qualifier",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "japed",
+     "gloss": "recite",
+     "grounds": "verb of mantra practice",
+     "morph": "3.sg.act-pres + root jap"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "mahāpāpaiḥ",
+     "gloss": "great-sins",
+     "grounds": "ablative plural",
+     "morph": "n.abl.pl"
+    },
+    {
+     "surface": "pramucyate",
+     "gloss": "released",
+     "grounds": "passive result",
+     "morph": "3.sg.pass-pres + root muc"
+    }
+   ],
+   "question": "How many recitations release a practitioner from great sins?",
+   "premises": [
+    "The verse gives a measure of one hundred thousand.",
+    "The verb means recite.",
+    "The result is release from great sins."
+   ],
+   "inference": "Reciting one hundred thousand times releases one from great sins.",
+   "uncertainties": [
+    "The mantra being recited is not named here."
+   ],
+   "plain_english": "Reciting one hundred thousand times releases one from great sins."
+  },
+  {
+   "verse": 428,
+   "rows": [
+    {
+     "surface": "ityukto",
+     "gloss": "thus-spoken",
+     "grounds": "quoted speech marker",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vibhāgo",
+     "gloss": "division",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "api",
+     "gloss": "even",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nyāyyaḥ",
+     "gloss": "proper",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "pāṭhamātrabhedāt",
+     "gloss": "reading-only-difference",
+     "grounds": "ablative cause",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "śrautatvābhāvāt",
+     "gloss": "lack-of-scripturalness",
+     "grounds": "ablative cause",
+     "morph": "m.abl.sg"
+    }
+   ],
+   "question": "Why is a division based only on reading differences improper?",
+   "premises": [
+    "The verse denies propriety to such a division.",
+    "The cause is reading-only difference.",
+    "The further cause is lack of scripturalness."
+   ],
+   "inference": "A division resting merely on reading differences is improper because it lacks scriptural authority.",
+   "uncertainties": [
+    "The exact division under discussion is not specified."
+   ],
+   "plain_english": "A division based only on reading differences is improper, lacking scriptural authority."
+  },
+  {
+   "verse": 429,
+   "rows": [
+    {
+     "surface": "nāśayet",
+     "gloss": "destroys",
+     "grounds": "verb of destruction",
+     "morph": "3.sg.act-opt + root naś"
+    },
+    {
+     "surface": "tripurā",
+     "gloss": "Tripura",
+     "grounds": "goddess name",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "devī",
+     "gloss": "goddess",
+     "grounds": "apposition",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sādhakasya",
+     "gloss": "of-practitioner",
+     "grounds": "genitive",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "no",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saṃśayaḥ",
+     "gloss": "doubt",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Does Tripura destroy the practitioner's obstacles without doubt?",
+   "premises": [
+    "The verse says Tripura destroys.",
+    "The object is the practitioner.",
+    "It denies doubt."
+   ],
+   "inference": "Tripura destroys for the practitioner, without doubt.",
+   "uncertainties": [
+    "The exact obstacle destroyed is not named."
+   ],
+   "plain_english": "Tripura destroys for the practitioner; there is no doubt."
+  },
+  {
+   "verse": 430,
+   "rows": [
+    {
+     "surface": "pātakaṃ",
+     "gloss": "sin",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nāśayed",
+     "gloss": "destroys",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root naś"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptajanmasahasrajam",
+     "gloss": "seven-birth-thousand",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "How quickly does the rite destroy sins accumulated over thousands of births?",
+   "premises": [
+    "The object is sin.",
+    "The verb means destroys.",
+    "The adverb means quickly.",
+    "The compound means seven-thousand-births."
+   ],
+   "inference": "It quickly destroys sins accumulated over seven thousand births.",
+   "uncertainties": [
+    "The exact rite is implied by context."
+   ],
+   "plain_english": "It quickly destroys sins from seven thousand births."
+  },
+  {
+   "verse": 431,
+   "rows": [
+    {
+     "surface": "pañcalakṣāt",
+     "gloss": "five-lakhs",
+     "grounds": "ablative quantity",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "from",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adaridraḥ",
+     "gloss": "poor",
+     "grounds": "predicate adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "sākṣāt",
+     "gloss": "directly",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vaiśravaṇāyate",
+     "gloss": "Vaishravana-like",
+     "grounds": "verb of becoming",
+     "morph": "3.sg.act-pres + root vaishravana"
+    }
+   ],
+   "question": "What result follows from five lakhs of recitation regarding poverty?",
+   "premises": [
+    "The verse gives five lakhs.",
+    "The result is no longer poor.",
+    "The practitioner becomes like Vaishravana."
+   ],
+   "inference": "After five lakhs, one is no longer poor and becomes like Vaishravana.",
+   "uncertainties": [
+    "The exact recitation count semantics are compressed."
+   ],
+   "plain_english": "After five lakhs, one is no longer poor and becomes like Vaishravana."
+  },
+  {
+   "verse": 432,
+   "rows": [
+    {
+     "surface": "japtvā",
+     "gloss": "having-recited",
+     "grounds": "gerund",
+     "morph": "gerund + root jap"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphasis",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sapta",
+     "gloss": "seven",
+     "grounds": "quantity",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "lakṣāṇi",
+     "gloss": "lakhs",
+     "grounds": "quantity",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "khecarīmelakaṃ",
+     "gloss": "Khechari-union",
+     "grounds": "compound object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "goes",
+     "grounds": "verb of attainment",
+     "morph": "3.sg.act-opt + root vraj"
+    }
+   ],
+   "question": "What attainment follows from reciting seven lakhs and Khechari union?",
+   "premises": [
+    "The verse gives seven lakhs.",
+    "The object is Khechari union.",
+    "The verb means goes or attains."
+   ],
+   "inference": "After reciting seven lakhs, one attains Khechari union.",
+   "uncertainties": [
+    "The precise meaning of Khechari union is technical."
+   ],
+   "plain_english": "After reciting seven lakhs, one attains Khechari union."
+  },
+  {
+   "verse": 433,
+   "rows": [
+    {
+     "surface": "aṇimādyaṣṭasiddhīśo",
+     "gloss": "animā-etc-eight-siddhis-lord",
+     "grounds": "compound subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb of becoming",
+     "morph": "3.sg.act-pres + root jan"
+    },
+    {
+     "surface": "devapūjitaḥ",
+     "gloss": "worshipped-by-gods",
+     "grounds": "participle",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What lordship and worship result from this attainment?",
+   "premises": [
+    "The compound names lord of eight siddhis from anima.",
+    "The verb means becomes.",
+    "The participle means worshipped by gods."
+   ],
+   "inference": "One becomes lord of the eight siddhis from anima and is worshipped by gods.",
+   "uncertainties": [
+    "The full list of siddhis is abbreviated."
+   ],
+   "plain_english": "One becomes lord of the eight siddhis from anima and is worshipped by gods."
+  },
+  {
+   "verse": 434,
+   "rows": [
+    {
+     "surface": "vidhivat",
+     "gloss": "according-to-rite",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root jan"
+    },
+    {
+     "surface": "mantrī",
+     "gloss": "mantra-practitioner",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "rudramūrtirivāparaḥ",
+     "gloss": "another-Rudra-form",
+     "grounds": "compound predicate",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What form does the mantra practitioner become when rite is followed?",
+   "premises": [
+    "The adverb means according to rite.",
+    "The subject is mantra practitioner.",
+    "The predicate is another Rudra form."
+   ],
+   "inference": "The mantra practitioner becomes another Rudra form when the rite is followed.",
+   "uncertainties": [
+    "The exact rite is not detailed."
+   ],
+   "plain_english": "The mantra practitioner becomes another Rudra form when the rite is followed."
+  },
+  {
+   "verse": 435,
+   "rows": [
+    {
+     "surface": "nityapramudito",
+     "gloss": "always-joyful",
+     "grounds": "compound adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vīraḥ",
+     "gloss": "hero",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "svacchandagatir",
+     "gloss": "self-willed-movement",
+     "grounds": "compound predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "īśvaraḥ",
+     "gloss": "lord",
+     "grounds": "apposition",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What qualities define the hero who becomes lord?",
+   "premises": [
+    "The adjective means always joyful.",
+    "The subject is hero.",
+    "The compound means self-willed movement.",
+    "The apposition is lord."
+   ],
+   "inference": "The hero is always joyful, moves self-willed, and is lord.",
+   "uncertainties": [
+    "The doctrinal status of vira is context-dependent."
+   ],
+   "plain_english": "The hero is always joyful, moves self-willed, and is lord."
+  },
+  {
+   "verse": 436,
+   "rows": [
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhū"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śeṣaḥ",
+     "gloss": "remainder",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What does the remainder become according to this statement?",
+   "premises": [
+    "The verb means becomes.",
+    "The quotative marks statement.",
+    "The subject is remainder."
+   ],
+   "inference": "The remainder becomes as stated.",
+   "uncertainties": [
+    "The referent of remainder is unclear."
+   ],
+   "plain_english": "Thus the remainder becomes."
+  },
+  {
+   "verse": 437,
+   "rows": [
+    {
+     "surface": "mānasena",
+     "gloss": "mentally",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-great-goddess",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "koṭijāpaphalaṃ",
+     "gloss": "crore-recitation-fruit",
+     "grounds": "compound object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "labhet",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root labh"
+    }
+   ],
+   "question": "What fruit does mental recitation obtain according to the goddess?",
+   "premises": [
+    "The adverb means mentally.",
+    "The object is crore-recitation fruit.",
+    "The verb means obtains."
+   ],
+   "inference": "Mental recitation obtains the fruit of a crore of recitations.",
+   "uncertainties": [
+    "The exact mental practice is not specified."
+   ],
+   "plain_english": "Mental recitation obtains the fruit of a crore of recitations."
+  },
+  {
+   "verse": 438,
+   "rows": [
+    {
+     "surface": "svayaṃbhu",
+     "gloss": "self-born",
+     "grounds": "adjective",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāṇaliṅgaṃ",
+     "gloss": "Bana-linga",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "itarat",
+     "gloss": "other",
+     "grounds": "adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "also",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "suvrate",
+     "gloss": "O-good-vowed",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which lingas may be used in this mental practice?",
+   "premises": [
+    "The verse names self-born.",
+    "It names Bana-linga.",
+    "It allows other lingas."
+   ],
+   "inference": "Self-born, Bana-linga, or another linga may be used.",
+   "uncertainties": [
+    "The exact linga choice is left open."
+   ],
+   "plain_english": "Self-born, Bana-linga, or another linga may be used."
+  },
+  {
+   "verse": 439,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhū"
+    },
+    {
+     "surface": "deveśi",
+     "gloss": "O-lord-of-gods",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "tralokyakṣobhako",
+     "gloss": "three-world-disturber",
+     "grounds": "compound predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "naraḥ",
+     "gloss": "man",
+     "grounds": "subject",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "What power does the man gain after this practice?",
+   "premises": [
+    "The temporal means then.",
+    "The subject is man.",
+    "The predicate is three-world disturber."
+   ],
+   "inference": "The man becomes a disturber of the three worlds.",
+   "uncertainties": [
+    "The mechanism of disturbance is not explained."
+   ],
+   "plain_english": "The man becomes a disturber of the three worlds."
+  },
+  {
+   "verse": 440,
+   "rows": [
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "temporal",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavati",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root bhū"
+    },
+    {
+     "surface": "vidyeyaṃ",
+     "gloss": "this-vidya",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "mahāvighnaughaghātakī",
+     "gloss": "great-obstacle-flood-destroyer",
+     "grounds": "compound predicate",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What function does this vidya serve after attainment?",
+   "premises": [
+    "The temporal means then.",
+    "The subject is this vidya.",
+    "The predicate is great obstacle flood destroyer."
+   ],
+   "inference": "This vidya becomes a destroyer of great obstacle floods.",
+   "uncertainties": [
+    "The exact obstacles are not listed."
+   ],
+   "plain_english": "This vidya becomes a destroyer of great obstacle floods."
+  },
+  {
+   "verse": 441,
+   "rows": [
+    {
+     "surface": "yonikuṇḍe",
+     "gloss": "in-yoni-pit",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhagāṅke",
+     "gloss": "in-bhaga-angle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vartule",
+     "gloss": "in-circle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vārdhacandrake",
+     "gloss": "in-half-moon",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Which yantra shapes are named for this rite?",
+   "premises": [
+    "The verse lists yoni pit.",
+    "It lists bhaga angle.",
+    "It lists circle and half moon."
+   ],
+   "inference": "The named shapes are yoni pit, bhaga angle, circle, and half moon.",
+   "uncertainties": [
+    "The ritual use of each shape is not specified."
+   ],
+   "plain_english": "The named shapes are yoni pit, bhaga angle, circle, and half moon."
+  },
+  {
+   "verse": 442,
+   "rows": [
+    {
+     "surface": "yonikuṇḍe",
+     "gloss": "in-yoni-pit",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bhavedvāgmī",
+     "gloss": "becomes-eloquent",
+     "grounds": "fused verb",
+     "morph": "3.sg.act-opt + root bhū"
+    },
+    {
+     "surface": "bhagāṅke",
+     "gloss": "in-bhaga-angle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "kṛṣṭiruttamā",
+     "gloss": "best-attraction",
+     "grounds": "compound predicate",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What results follow from yoni pit and bhaga angle?",
+   "premises": [
+    "In yoni pit one becomes eloquent.",
+    "In bhaga angle there is best attraction."
+   ],
+   "inference": "Yoni pit yields eloquence; bhaga angle yields best attraction.",
+   "uncertainties": [
+    "The fused form bhavedvāgmī is not split."
+   ],
+   "plain_english": "In the yoni pit one becomes eloquent; in the bhaga angle there is best attraction."
+  },
+  {
+   "verse": 443,
+   "rows": [
+    {
+     "surface": "navatrikoṇakuṇḍe",
+     "gloss": "in-nine-triangle-pit",
+     "grounds": "locative",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "khecaratvaṃ",
+     "gloss": "Khechara-state",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "prapadyate",
+     "gloss": "attains",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root pad"
+    }
+   ],
+   "question": "What state is attained in the nine-triangle pit?",
+   "premises": [
+    "The locative is nine-triangle pit.",
+    "The object is Khechara state.",
+    "The verb means attains."
+   ],
+   "inference": "In the nine-triangle pit one attains Khechara state.",
+   "uncertainties": [
+    "The nature of Khechara state is technical."
+   ],
+   "plain_english": "In the nine-triangle pit one attains Khechara state."
+  },
+  {
+   "verse": 444,
+   "rows": [
+    {
+     "surface": "padmāṅke",
+     "gloss": "in-lotus-angle",
+     "grounds": "locative",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "sarvasaṃpattiḥ",
+     "gloss": "all-prosperity",
+     "grounds": "subject",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "acirādeva",
+     "gloss": "very-soon",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-pres + root jan"
+    }
+   ],
+   "question": "What prosperity arises soon in the lotus angle?",
+   "premises": [
+    "The locative is lotus angle.",
+    "The subject is all prosperity.",
+    "The adverb means very soon."
+   ],
+   "inference": "All prosperity arises very soon in the lotus angle.",
+   "uncertainties": [
+    "The exact lotus angle is not defined."
+   ],
+   "plain_english": "All prosperity arises very soon in the lotus angle."
+  },
+  {
+   "verse": 445,
+   "rows": [
+    {
+     "surface": "mallikāmālatījātīpuṣpaiḥ",
+     "gloss": "jasmine-madhuca-jasmine-flowers",
+     "grounds": "instrumental compound",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "ājyapariplutaiḥ",
+     "gloss": "ghee-soaked",
+     "grounds": "instrumental adjective",
+     "morph": "n.inst.pl"
+    }
+   ],
+   "question": "Which flowers soaked in ghee are offered here?",
+   "premises": [
+    "The compound names jasmine, madhuca, and jasmine flowers.",
+    "The adjective means ghee-soaked."
+   ],
+   "inference": "Jasmine, madhuca, and jasmine flowers soaked in ghee are offered.",
+   "uncertainties": [
+    "The exact offering procedure is not stated."
+   ],
+   "plain_english": "Jasmine, madhuca, and jasmine flowers soaked in ghee are offered."
+  },
+  {
+   "verse": 446,
+   "rows": [
+    {
+     "surface": "karavīrajapāpuṣpāṇi",
+     "gloss": "karavira-hibiscus-flowers",
+     "grounds": "compound object",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "ājyayuktāni",
+     "gloss": "ghee-mixed",
+     "grounds": "adjective",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "pārvati",
+     "gloss": "O-Parvati",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "Which ghee-mixed flowers are addressed to Parvati?",
+   "premises": [
+    "The compound names karavira and hibiscus flowers.",
+    "The adjective means ghee-mixed.",
+    "The address is Parvati."
+   ],
+   "inference": "Karavira and hibiscus flowers mixed with ghee are addressed to Parvati.",
+   "uncertainties": [
+    "The ritual purpose is not specified."
+   ],
+   "plain_english": "Karavira and hibiscus flowers mixed with ghee are addressed to Parvati."
+  },
+  {
+   "verse": 447,
+   "rows": [
+    {
+     "surface": "candrakastūrikāmiśraṃ",
+     "gloss": "camphor-musk-mixed",
+     "grounds": "compound adjective",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "gerund",
+     "morph": "gerund + root kṛ"
+    },
+    {
+     "surface": "kuṅkuma",
+     "gloss": "saffron",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "īśvari",
+     "gloss": "O-goddess",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    }
+   ],
+   "question": "What mixture is made with saffron for the goddess?",
+   "premises": [
+    "The compound means camphor-musk mixed.",
+    "The gerund means having made.",
+    "The object is saffron."
+   ],
+   "inference": "A camphor-musk mixture is made with saffron for the goddess.",
+   "uncertainties": [
+    "The exact preparation is not detailed."
+   ],
+   "plain_english": "A camphor-musk mixture is made with saffron for the goddess."
+  },
+  {
+   "verse": 448,
+   "rows": [
+    {
+     "surface": "caṇpakaṃ",
+     "gloss": "champaka-patala-etc",
+     "grounds": "object",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "gerund",
+     "morph": "gerund + root hu"
+    },
+    {
+     "surface": "vai",
+     "gloss": "indeed",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śriyam",
+     "gloss": "wealth",
+     "grounds": "object",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "āpnuyāt",
+     "gloss": "obtains",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root āp"
+    }
+   ],
+   "question": "What is obtained by offering champaka and related substances?",
+   "premises": [
+    "The object is champaka etc.",
+    "The gerund means having offered.",
+    "The result is wealth."
+   ],
+   "inference": "By offering champaka and related substances one obtains wealth.",
+   "uncertainties": [
+    "The exact list after champaka is abbreviated."
+   ],
+   "plain_english": "By offering champaka and related substances one obtains wealth."
+  },
+  {
+   "verse": 449,
+   "rows": [
+    {
+     "surface": "hutvā",
+     "gloss": "having-offered",
+     "grounds": "gerund",
+     "morph": "gerund + root hu"
+    },
+    {
+     "surface": "purapurandhrīṇāṃ",
+     "gloss": "city-matrons",
+     "grounds": "genitive compound",
+     "morph": "f.gen.pl"
+    },
+    {
+     "surface": "devi",
+     "gloss": "O-goddess",
+     "grounds": "address",
+     "morph": "f.voc.sg"
+    },
+    {
+     "surface": "vikṣobhako",
+     "gloss": "disturber",
+     "grounds": "predicate",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "verb",
+     "morph": "3.sg.act-opt + root bhū"
+    }
+   ],
+   "question": "What power over city matrons follows from this offering?",
+   "premises": [
+    "The gerund means having offered.",
+    "The genitive means city matrons.",
+    "The predicate is disturber."
+   ],
+   "inference": "One becomes a disturber of city matrons.",
+   "uncertainties": [
+    "The offering substance is not named in this verse."
+   ],
+   "plain_english": "One becomes a disturber of city matrons."
+  }
+ ]
+}

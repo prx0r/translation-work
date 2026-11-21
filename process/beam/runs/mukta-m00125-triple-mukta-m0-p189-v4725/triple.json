@@ -1,0 +1,55 @@
+{
+ "song": "mukta-m0-p189",
+ "items": [
+  {
+   "verse": 4725,
+   "rows": [
+    {
+     "surface": "gulpamadhye",
+     "gloss": "in-ankle-middle",
+     "grounds": "locative compound indicating location; gulpa (ankle) + madhya (middle)",
+     "morph": "compound.loc.sg.n"
+    },
+    {
+     "surface": "sthitaṃ",
+     "gloss": "situated",
+     "grounds": "past participle qualifying sūtraṃ",
+     "morph": "n.nom.sg.n (ppp, √sthā)"
+    },
+    {
+     "surface": "sūtraṃ",
+     "gloss": "thread",
+     "grounds": "subject of the designation",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "śivasūtram",
+     "gloss": "śiva-thread",
+     "grounds": "compound naming the designated thread; śiva + sūtra",
+     "morph": "compound.n.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "quotative particle marking designation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smṛtam",
+     "gloss": "remembered",
+     "grounds": "past participle expressing traditional designation",
+     "morph": "n.nom.sg.n (ppp, √smṛ)"
+    }
+   ],
+   "question": "What thread situated in the middle of the ankle is designated as the śivasūtra?",
+   "premises": [
+    "A thread is situated in the middle of the ankle.",
+    "That situated thread is designated as the śivasūtra.",
+    "This designation is transmitted as traditionally remembered."
+   ],
+   "inference": "The thread located at the middle of the ankle is identified as the śivasūtra.",
+   "uncertainties": [],
+   "plain_english": "The thread situated in the middle of the ankle is remembered as the śivasūtra."
+  }
+ ]
+}

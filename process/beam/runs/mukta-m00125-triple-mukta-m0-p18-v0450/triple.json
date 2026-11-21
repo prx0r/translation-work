@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p18",
+ "items": [
+  {
+   "verse": 450,
+   "rows": [
+    {
+     "surface": "śivāgre",
+     "gloss": "before-shiva",
+     "grounds": "locative compound indicating position in front of Śiva",
+     "morph": "śiva+agre (cmpd, loc.sg.n.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "or-else",
+     "grounds": "particle introducing a further alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tadvāme",
+     "gloss": "at-his-left",
+     "grounds": "locative compound referring to Śiva's left side",
+     "morph": "tat+vāme (cmpd, loc.sg.n.)"
+    },
+    {
+     "surface": "vāme",
+     "gloss": "on-left",
+     "grounds": "locative specifying the left side",
+     "morph": "loc.sg.n."
+    },
+    {
+     "surface": "śuddhamahītale",
+     "gloss": "on-pure-earth-ground",
+     "grounds": "locative compound specifying placement on the pure earth level",
+     "morph": "śuddha+mahī+tale (cmpd, loc.sg.n.)"
+    }
+   ],
+   "question": "What alternative locations are permissible for situating the pericarp?",
+   "premises": [
+    "The pericarp may be situated in front of Śiva.",
+    "Alternatively, the pericarp may be situated at his left side.",
+    "The pericarp may also be placed on the left upon the pure earth ground."
+   ],
+   "inference": "Multiple alternative locations are valid for the placement of the pericarp.",
+   "uncertainties": [
+    "The precise referent of 'his' in tadvāme is inferred from the preceding mention of Śiva."
+   ],
+   "plain_english": "It may be placed in front of Śiva, or else at his left, or on the left upon the pure earth ground."
+  }
+ ]
+}

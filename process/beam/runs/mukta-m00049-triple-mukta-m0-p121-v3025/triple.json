@@ -1,0 +1,58 @@
+{
+ "song": "mukta-m0-p121",
+ "items": [
+  {
+   "verse": 3025,
+   "rows": [
+    {
+     "surface": "puṃsā",
+     "gloss": "by-man",
+     "grounds": "instrumental singular of puṃs",
+     "morph": "m.ins.sg"
+    },
+    {
+     "surface": "tat+anyathā",
+     "gloss": "that-otherwise",
+     "grounds": "fused adverbial phrase, not split",
+     "morph": "indecl."
+    },
+    {
+     "surface": "kartuṃ",
+     "gloss": "to-do",
+     "grounds": "infinitive of kṛ",
+     "morph": "inf."
+    },
+    {
+     "surface": "putrā+ādyaiḥ",
+     "gloss": "by-sons-and-others",
+     "grounds": "instrumental plural with ādi, fused form retained",
+     "morph": "m.ins.pl"
+    },
+    {
+     "surface": "na+eva",
+     "gloss": "not-indeed",
+     "grounds": "fused negation-emphasis particle",
+     "morph": "indecl."
+    },
+    {
+     "surface": "śakyate",
+     "gloss": "is-possible",
+     "grounds": "passive present third singular of śak",
+     "morph": "3.sg.pass-pres+śak"
+    }
+   ],
+   "question": "Can a man's duty be performed by sons and others in another way?",
+   "premises": [
+    "A man must perform that duty himself.",
+    "Sons and others cannot substitute for him.",
+    "No alternative performance is possible."
+   ],
+   "inference": "Therefore the duty is non-transferable and must be done by the man himself.",
+   "uncertainties": [
+    "The referent of 'that' is not explicit in this verse.",
+    "Whether 'putrādyaiḥ' includes all heirs or only sons is unclear."
+   ],
+   "plain_english": "A man cannot otherwise perform that duty by sons and others."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "song": "kul-p19",
+ "items": [
+  {
+   "verse": 475,
+   "rows": [
+    {
+     "surface": "tritāramūlamantrānte",
+     "gloss": "end-of-tritāra-root-mantra",
+     "grounds": "compound locative form marking the end of the tritāra root mantra",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvadevātmikāṃ",
+     "gloss": "all-god-souled",
+     "grounds": "compound adjective in accusative feminine singular",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "padam",
+     "gloss": "word",
+     "grounds": "neuter accusative singular noun",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What word is uttered at the end of the tritāra root mantra?",
+   "premises": [
+    "The tritāra root mantra has a defined end.",
+    "A word follows that ending.",
+    "The word is all-god-souled."
+   ],
+   "inference": "At the end of the tritāra root mantra one utters the all-god-souled word.",
+   "uncertainties": [
+    "Whether padam means word, foot, or verse in this ritual context."
+   ],
+   "plain_english": "At the end of the tritāra root mantra, utter the all-god-souled word."
+  }
+ ]
+}

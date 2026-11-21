@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p43",
+ "items": [
+  {
+   "verse": 1075,
+   "rows": [
+    {
+     "surface": "ityaṃśumānkāśyape",
+     "gloss": "thus-in-radiant-kashyapa",
+     "grounds": "colophon formula: iti + aṃśumān-kāśyape (name of the āgama/text), locative context",
+     "morph": "compound+loc.sg.m"
+    },
+    {
+     "surface": "catubhūmividhānapaṭalaḥ",
+     "gloss": "four-floor-arrangement-chapter",
+     "grounds": "compound: catur-bhūmi-vidhāna-paṭalaḥ, naming the chapter topic",
+     "morph": "compound+m.nom.sg"
+    },
+    {
+     "surface": "ekonatriṃśaḥ",
+     "gloss": "twenty-ninth",
+     "grounds": "ordinal numeral qualifying the chapter",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Which chapter number and topic conclude this section of the Aṃśumān-Kāśyapa scripture?",
+   "premises": [
+    "The colophon marks the text as the Aṃśumān-Kāśyapa.",
+    "The chapter is titled as concerning the arrangement of four floors.",
+    "The chapter is identified as the twenty-ninth."
+   ],
+   "inference": "This verse is a colophon stating that the twenty-ninth chapter, on the arrangement of four floors, concludes in the Aṃśumān-Kāśyapa.",
+   "uncertainties": [
+    "The precise internal analysis of the fused compound ityaṃśumānkāśyape follows conventional colophon usage."
+   ],
+   "plain_english": "Thus ends the twenty-ninth chapter, on the arrangement of four floors, in the Aṃśumān-Kāśyapa."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "song": "mukta-m0-p259",
+ "items": [
+  {
+   "verse": 6475,
+   "rows": [
+    {
+     "surface": "bhramaṇaḥ",
+     "gloss": "Bhramaṇa",
+     "grounds": "name or epithet of a figure in the ritual context; nominative singular",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "yajinī+yutaḥ",
+     "gloss": "accompanied-by-Yajinī",
+     "grounds": "compound: yajinī (Yajinī) + yutaḥ (joined, accompanied); describes Bhramaṇa",
+     "morph": "compound: yajinī+yuta; m.nom.sg"
+    }
+   ],
+   "question": "Which companion is specified as joined with Bhramaṇa in this context?",
+   "premises": [
+    "Bhramaṇaḥ names a figure present in the described context.",
+    "The element yutaḥ denotes being accompanied or joined.",
+    "Yajinī is identified as the companion in the compound."
+   ],
+   "inference": "Bhramaṇa is present in the company of Yajinī.",
+   "uncertainties": [
+    "The specific identities and roles of Bhramaṇa and Yajinī in this Merutantra passage are not fully determined from this verse alone."
+   ],
+   "plain_english": "Bhramaṇa, accompanied by Yajinī."
+  }
+ ]
+}

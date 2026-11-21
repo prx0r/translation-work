@@ -1,0 +1,39 @@
+{
+ "song": "mukta-m0-p200",
+ "items": [
+  {
+   "verse": 5000,
+   "rows": [
+    {
+     "surface": "haimavatī",
+     "gloss": "golden",
+     "grounds": "feminine form indicating a golden item or quantity",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tadabhāve",
+     "gloss": "in-its-absence",
+     "grounds": "locative tatpuruṣa compound expressing absence of that prior item",
+     "morph": "m.loc.sg (compound: tad+abhāva)"
+    },
+    {
+     "surface": "vibhītakam",
+     "gloss": "beleric-myrobalan",
+     "grounds": "names the substitute substance Terminalia bellirica",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What substitute material is prescribed when the golden item is unavailable?",
+   "premises": [
+    "A golden item is indicated as an option.",
+    "That golden item may be absent.",
+    "Beleric myrobalan is named for that condition."
+   ],
+   "inference": "Beleric myrobalan serves as the substitute when the golden item is unavailable.",
+   "uncertainties": [
+    "The exact referent of haimavatī is not specified in this verse alone."
+   ],
+   "plain_english": "A golden one; in its absence, beleric myrobalan."
+  }
+ ]
+}

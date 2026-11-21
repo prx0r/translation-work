@@ -1,0 +1,67 @@
+{
+ "song": "mukta-m0-p242",
+ "items": [
+  {
+   "verse": 6050,
+   "rows": [
+    {
+     "surface": "navāhaṃ",
+     "gloss": "nine-day",
+     "grounds": "compound of nava (nine) and ahan (day), denoting a duration",
+     "morph": "compound(nava+aha).acc.sg.nt"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "also",
+     "grounds": "particle introducing another alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "saptāhaṃ",
+     "gloss": "seven-day",
+     "grounds": "compound of saptan (seven) and ahan (day), denoting a duration",
+     "morph": "compound(sapta+aha).acc.sg.nt"
+    },
+    {
+     "surface": "pañcāhaṃ",
+     "gloss": "five-day",
+     "grounds": "compound of pañcan (five) and ahan (day), denoting a duration",
+     "morph": "compound(pañca+aha).acc.sg.nt"
+    },
+    {
+     "surface": "tridinaṃ",
+     "gloss": "three-day",
+     "grounds": "compound of tri (three) and dina (day), denoting a duration",
+     "morph": "compound(tri+dina).acc.sg.nt"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "particle adding emphasis or contrast",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle presenting an alternative",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What alternative durations are permitted for the prescribed observance?",
+   "premises": [
+    "A duration of nine days is permitted for the observance.",
+    "A duration of seven days is permitted as an alternative.",
+    "Durations of five days or three days are also permitted."
+   ],
+   "inference": "The prescribed observance may be performed over nine, seven, five, or three days.",
+   "uncertainties": [],
+   "plain_english": "Or for nine days, or also for seven days, for five days, or indeed for three days."
+  }
+ ]
+}

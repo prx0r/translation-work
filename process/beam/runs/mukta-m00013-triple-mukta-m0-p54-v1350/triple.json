@@ -1,0 +1,57 @@
+{
+ "song": "mukta-m0-p54",
+ "items": [
+  {
+   "verse": 1350,
+   "rows": [
+    {
+     "surface": "nija+bīja+trayaṃ",
+     "gloss": "own-seed-triad",
+     "grounds": "compound of nija, bīja, and traya; refers to a group of three own seed syllables",
+     "morph": "compound: nija+stem, bīja+stem, traya+n.nom.sg.nt"
+    },
+    {
+     "surface": "kūrcaṃ",
+     "gloss": "kūrca",
+     "grounds": "mantra syllable name kept in transliteration",
+     "morph": "n.nom.sg.nt"
+    },
+    {
+     "surface": "lajjā",
+     "gloss": "lajjā",
+     "grounds": "mantra syllable name kept in transliteration",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indicates repetition or resumption of prior elements",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tāni+eva",
+     "gloss": "those-very",
+     "grounds": "tāni refers back to previously mentioned elements; eva adds emphasis",
+     "morph": "compound: tad+n.nom.pl.nt, eva+(indecl.)"
+    },
+    {
+     "surface": "vahni+vallabhā",
+     "gloss": "fire-beloved",
+     "grounds": "compound epithet denoting the mantra syllable svāhā",
+     "morph": "compound: vahni+stem, vallabhā+n.nom.sg.f"
+    }
+   ],
+   "question": "Which mantra components are appended to complete the stated sequence?",
+   "premises": [
+    "The own-seed-triad is named as a component.",
+    "The syllables kūrca and lajjā are specified.",
+    "The same prior elements and fire-beloved are repeated."
+   ],
+   "inference": "The sequence is completed by adding the own-seed-triad, kūrca, lajjā, and then repeating those same elements together with fire-beloved.",
+   "uncertainties": [
+    "The exact referents of nija+bīja+trayaṃ and tāni+eva depend on the immediately preceding verses."
+   ],
+   "plain_english": "Add the own-seed-triad, kūrca, and lajjā, then again those very same elements followed by fire-beloved."
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "song": "mukta-m0-p14",
+ "items": [
+  {
+   "verse": 350,
+   "rows": [
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "absolutive expressing prior action of meditation",
+     "morph": "(gerund) √dhyai"
+    },
+    {
+     "surface": "bījaṃ",
+     "gloss": "seed-syllable",
+     "grounds": "object of meditation and recitation",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "o-great-goddess",
+     "grounds": "vocative address to the goddess",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "prajed",
+     "gloss": "one-should-chant",
+     "grounds": "injunctive instruction for mantra recitation",
+     "morph": "3.sg.act-opt √jap"
+    },
+    {
+     "surface": "bījamuttamam",
+     "gloss": "supreme-seed-syllable",
+     "grounds": "compound specifying the seed as supreme; object of chanting",
+     "morph": "acc.sg.n (compound: bīja+uttama)"
+    }
+   ],
+   "question": "What practice must follow meditating on the seed-syllable in the lotus?",
+   "premises": [
+    "The practitioner has meditated on the seed-syllable.",
+    "The instruction is addressed to the great goddess.",
+    "The prescribed act is chanting the supreme seed-syllable."
+   ],
+   "inference": "After meditating on the seed-syllable, one should chant the supreme seed-syllable.",
+   "uncertainties": [
+    "The specific bīja syllable intended by bījamuttamam is not explicitly named in this verse."
+   ],
+   "plain_english": "O great goddess, having meditated on the seed-syllable, one should chant the supreme seed-syllable."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "song": "mukta-m0-p531",
+ "items": [
+  {
+   "verse": 13275,
+   "rows": [
+    {
+     "surface": "vacā+kalkena",
+     "gloss": "with-sweet-flag-paste",
+     "grounds": "instrumental of compound vacā (sweet flag) and kalka (paste), indicating the writing substance",
+     "morph": "compound:vacā+kalka; m.inst.sg"
+    },
+    {
+     "surface": "mantraṃ",
+     "gloss": "mantra",
+     "grounds": "object of the act of writing",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle introducing a specific instruction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "likhitvā",
+     "gloss": "having-written",
+     "grounds": "absolutive expressing the completed act prior to subsequent ritual use",
+     "morph": "abs; root:likh"
+    },
+    {
+     "surface": "bhānu+vāsare",
+     "gloss": "on-sun-day",
+     "grounds": "locative of compound bhānu (sun) and vāsara (day), specifying Sunday as the time",
+     "morph": "compound:bhānu+vāsara; m.loc.sg"
+    }
+   ],
+   "question": "What substance and timing are prescribed for ritually inscribing the mantra?",
+   "premises": [
+    "The mantra is to be ritually written down.",
+    "Sweet-flag paste serves as the prescribed writing substance.",
+    "Sunday is the prescribed day for the inscription."
+   ],
+   "inference": "Ritual inscription of the mantra requires writing it with sweet-flag paste on a Sunday.",
+   "uncertainties": [],
+   "plain_english": "But having written the mantra with sweet-flag paste on a Sunday."
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p154",
+ "items": [
+  {
+   "verse": 3850,
+   "rows": [
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-made",
+     "grounds": "absolutive of kṛ, marks completed action before the main verb",
+     "morph": "absolutive, root kṛ"
+    },
+    {
+     "surface": "caturddhā",
+     "gloss": "fourfold",
+     "grounds": "indeclinable adverb indicating fourfold division",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "teṣveva",
+     "gloss": "in-those-very",
+     "grounds": "locative plural masculine of tad with emphatic eva",
+     "morph": "loc.pl.m + indecl."
+    },
+    {
+     "surface": "prāgādiṣu",
+     "gloss": "in-eastern-etc",
+     "grounds": "locative plural masculine of prāgādi compound, eastern and following directions",
+     "morph": "loc.pl.m"
+    },
+    {
+     "surface": "yathākramāt",
+     "gloss": "in-proper-order",
+     "grounds": "yathā with krama, ablative sense indicating sequential order",
+     "morph": "abl.sg.m"
+    }
+   ],
+   "question": "How should the fourfold deities be arranged in the eastern and other directions?",
+   "premises": [
+    "deities are named in the preceding verse",
+    "fourfold division is prescribed here",
+    "eastern direction begins the sequence"
+   ],
+   "inference": "the deities are to be arranged fourfold in the eastern and subsequent directions in proper order",
+   "uncertainties": [
+    "the main verb and full ritual context are omitted",
+    "prāgādiṣu is rendered as eastern and following directions"
+   ],
+   "plain_english": "Having made them fourfold, in those very places, in the eastern and other directions, in proper order."
+  }
+ ]
+}

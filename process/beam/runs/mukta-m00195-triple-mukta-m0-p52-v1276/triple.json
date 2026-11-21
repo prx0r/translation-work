@@ -1,0 +1,945 @@
+{
+ "song": "mukta-m0-p52",
+ "items": [
+  {
+   "verse": 1276,
+   "rows": [
+    {
+     "surface": "dvāradevāḥ",
+     "gloss": "door-deities",
+     "grounds": "compound dvāra+devāḥ; subject of opening action",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "svayam",
+     "gloss": "by-themselves",
+     "grounds": "indeclinable indicating spontaneous action",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "udghāṭayanti",
+     "gloss": "open",
+     "grounds": "verb describing the action of the door-deities",
+     "morph": "3.pl.active-present/ud-ghaṭ"
+    },
+    {
+     "surface": "yat",
+     "gloss": "which",
+     "grounds": "relative particle introducing the circumstance",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What spontaneous action do the door-deities perform at the threshold?",
+   "premises": [
+    "The door-deities are present at the threshold",
+    "They act by themselves without external prompting",
+    "Their action is the opening of the door"
+   ],
+   "inference": "The door-deities spontaneously open the door.",
+   "uncertainties": [],
+   "plain_english": "The door-deities themselves open the door."
+  },
+  {
+   "verse": 1277,
+   "rows": [
+    {
+     "surface": "vighneśvaraṃ",
+     "gloss": "obstacle-lord",
+     "grounds": "compound vighna+īśvaraṃ; object of salutation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-salute",
+     "grounds": "verb of reverential salutation",
+     "morph": "1.sg.middle-present/vand"
+    },
+    {
+     "surface": "gaja+vaktraṃ",
+     "gloss": "elephant-faced",
+     "grounds": "compound describing the deity's form",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "trilocanam",
+     "gloss": "three-eyed",
+     "grounds": "compound tri+locanam describing the deity",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which form of the obstacle-lord is honored in salutation?",
+   "premises": [
+    "The speaker offers salutation",
+    "The object is the lord of obstacles",
+    "He is described as elephant-faced and three-eyed"
+   ],
+   "inference": "The elephant-faced, three-eyed obstacle-lord is saluted.",
+   "uncertainties": [],
+   "plain_english": "I salute the elephant-faced, three-eyed lord of obstacles."
+  },
+  {
+   "verse": 1278,
+   "rows": [
+    {
+     "surface": "nirdagdha+hema+gaura+aṅgīṃ",
+     "gloss": "burnt-gold-fair-limbed",
+     "grounds": "compound describing Mahālakṣmī's radiant body",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mahālakṣmīṃ",
+     "gloss": "Mahālakṣmī",
+     "grounds": "name of the goddess being saluted",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "trilocanām",
+     "gloss": "three-eyed",
+     "grounds": "compound tri+locanām describing the goddess",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What radiant and three-eyed form of Mahālakṣmī is invoked?",
+   "premises": [
+    "Mahālakṣmī is the object of invocation",
+    "Her limbs are fair like burnt gold",
+    "She is three-eyed"
+   ],
+   "inference": "The three-eyed Mahālakṣmī with limbs fair like burnt gold is invoked.",
+   "uncertainties": [],
+   "plain_english": "I invoke the three-eyed Mahālakṣmī, whose limbs are fair like burnt gold."
+  },
+  {
+   "verse": 1279,
+   "rows": [
+    {
+     "surface": "śuklāṃ",
+     "gloss": "white",
+     "grounds": "adjective describing Sarasvatī's color",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śveta+vastrāṃ",
+     "gloss": "white-garmented",
+     "grounds": "compound describing Sarasvatī's attire",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarasvatīm",
+     "gloss": "Sarasvatī",
+     "grounds": "name of the goddess being invoked",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What white and white-garmented form of Sarasvatī is invoked?",
+   "premises": [
+    "Sarasvatī is the object of invocation",
+    "She is white in color",
+    "She wears white garments"
+   ],
+   "inference": "The white, white-garmented Sarasvatī is invoked.",
+   "uncertainties": [],
+   "plain_english": "I invoke Sarasvatī, who is white and clad in white garments."
+  },
+  {
+   "verse": 1280,
+   "rows": [
+    {
+     "surface": "tīkṣṇaṃ",
+     "gloss": "fierce",
+     "grounds": "adjective describing the field-lord",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhāvayāmi",
+     "gloss": "I-contemplate",
+     "grounds": "verb expressing contemplative visualization",
+     "morph": "1.sg.active-present/bhū-causative"
+    },
+    {
+     "surface": "kṣetre",
+     "gloss": "in-field",
+     "grounds": "location of the contemplation",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "asmin",
+     "gloss": "in-this",
+     "grounds": "demonstrative specifying the field",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kṣetra+nāyakam",
+     "gloss": "field-lord",
+     "grounds": "compound naming the deity contemplated",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which fierce guardian is contemplated within this sacred field?",
+   "premises": [
+    "The speaker performs contemplation",
+    "The contemplation occurs in this field",
+    "The object is the fierce field-lord"
+   ],
+   "inference": "The fierce field-lord is contemplated in this field.",
+   "uncertainties": [],
+   "plain_english": "I contemplate the fierce lord of this field."
+  },
+  {
+   "verse": 1281,
+   "rows": [
+    {
+     "surface": "śaṅkha+dharaṃ",
+     "gloss": "conch-holder",
+     "grounds": "compound describing the deity holding a conch",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "muktā+nibhaṃ",
+     "gloss": "pearl-like",
+     "grounds": "compound describing the deity's luster",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "śaṅkha+nidhim",
+     "gloss": "conch-treasure",
+     "grounds": "compound naming the treasure deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "I-worship",
+     "grounds": "verb of worship",
+     "morph": "1.sg.middle-present/bhaj"
+    }
+   ],
+   "question": "What pearl-like, conch-holding treasure deity is worshipped?",
+   "premises": [
+    "The speaker offers worship",
+    "The deity holds a conch and resembles a pearl",
+    "The deity is the conch-treasure"
+   ],
+   "inference": "The pearl-like, conch-holding conch-treasure is worshipped.",
+   "uncertainties": [],
+   "plain_english": "I worship the conch-treasure, who holds a conch and shines like a pearl."
+  },
+  {
+   "verse": 1282,
+   "rows": [
+    {
+     "surface": "nityaṃ",
+     "gloss": "always",
+     "grounds": "indeclinable indicating continual worship",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāmena",
+     "gloss": "in-left",
+     "grounds": "specifies the hand or side holding the lotus",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "utpala+dhāriṇam",
+     "gloss": "blue-lotus-holder",
+     "grounds": "compound describing the deity holding a blue lotus",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "Which blue-lotus-holding deity is worshipped continually in the left hand?",
+   "premises": [
+    "Worship is performed always",
+    "The deity holds a blue lotus",
+    "The lotus is held in the left"
+   ],
+   "inference": "The deity holding a blue lotus in the left is continually worshipped.",
+   "uncertainties": [
+    "The deity's name is not explicitly stated in this verse."
+   ],
+   "plain_english": "I always worship the one who holds a blue lotus in the left hand."
+  },
+  {
+   "verse": 1283,
+   "rows": [
+    {
+     "surface": "śyāma+varṇāntāṃ",
+     "gloss": "dark-colored",
+     "grounds": "compound describing the goddess's dark complexion",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "śyāmāṃ",
+     "gloss": "Śyāmā",
+     "grounds": "name or epithet of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māyām",
+     "gloss": "Māyā",
+     "grounds": "name or epithet of the goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker performing worship",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "bhaje",
+     "gloss": "worship",
+     "grounds": "verb of worship",
+     "morph": "1.sg.middle-present/bhaj"
+    }
+   ],
+   "question": "What dark-complexioned form of Śyāmā-Māyā is worshipped by the speaker?",
+   "premises": [
+    "The speaker offers worship",
+    "The goddess is dark-colored",
+    "She is named Śyāmā and Māyā"
+   ],
+   "inference": "The dark-complexioned Śyāmā-Māyā is worshipped.",
+   "uncertainties": [],
+   "plain_english": "I worship the dark-complexioned goddess Śyāmā, who is Māyā."
+  },
+  {
+   "verse": 1284,
+   "rows": [
+    {
+     "surface": "grāha+ārūḍhām",
+     "gloss": "crocodile-mounted",
+     "grounds": "compound describing Gaṅgā's mount",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "aham",
+     "gloss": "I",
+     "grounds": "speaker offering salutation",
+     "morph": "1.nom.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "salute",
+     "grounds": "verb of reverential salutation",
+     "morph": "1.sg.middle-present/vand"
+    },
+    {
+     "surface": "gaṅgāṃ",
+     "gloss": "Gaṅgā",
+     "grounds": "name of the river goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "sarva+sarid+varām",
+     "gloss": "best-of-all-rivers",
+     "grounds": "compound extolling Gaṅgā as foremost among rivers",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "Why is the crocodile-mounted Gaṅgā honored as foremost among rivers?",
+   "premises": [
+    "The speaker salutes Gaṅgā",
+    "Gaṅgā is mounted on a crocodile",
+    "She is the best of all rivers"
+   ],
+   "inference": "The crocodile-mounted Gaṅgā, best of all rivers, is saluted.",
+   "uncertainties": [],
+   "plain_english": "I salute Gaṅgā, mounted on a crocodile, the best of all rivers."
+  },
+  {
+   "verse": 1285,
+   "rows": [
+    {
+     "surface": "vara+abhaya+karāṃ",
+     "gloss": "boon-fearlessness-hand",
+     "grounds": "compound describing Kālindī's hand gestures",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-salute",
+     "grounds": "verb of reverential salutation",
+     "morph": "1.sg.middle-present/vand"
+    },
+    {
+     "surface": "kālindīṃ",
+     "gloss": "Kālindī",
+     "grounds": "name of the river goddess",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "kāla+vigrahām",
+     "gloss": "time-form",
+     "grounds": "compound describing Kālindī's form as time",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What boon-granting and time-formed aspect of Kālindī is saluted?",
+   "premises": [
+    "The speaker salutes Kālindī",
+    "Her hands grant boons and fearlessness",
+    "Her form is that of time"
+   ],
+   "inference": "Kālindī, whose hands grant boons and fearlessness and whose form is time, is saluted.",
+   "uncertainties": [],
+   "plain_english": "I salute Kālindī, whose hands grant boons and fearlessness and whose form is time."
+  },
+  {
+   "verse": 1286,
+   "rows": [
+    {
+     "surface": "garuḍa+ārūḍhaṃ",
+     "gloss": "Garuda-mounted",
+     "grounds": "compound describing Dhātṛ's mount",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "dhātāraṃ",
+     "gloss": "Dhātṛ",
+     "grounds": "name of the deity",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "kṛṣṇa+vigraham",
+     "gloss": "dark-form",
+     "grounds": "compound describing the deity's dark appearance",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What dark-formed, Garuda-mounted aspect of Dhātṛ is invoked?",
+   "premises": [
+    "Dhātṛ is the object of invocation",
+    "He is mounted on Garuda",
+    "His form is dark"
+   ],
+   "inference": "The dark-formed, Garuda-mounted Dhātṛ is invoked.",
+   "uncertainties": [],
+   "plain_english": "I invoke Dhātṛ, who is mounted on Garuda and has a dark form."
+  },
+  {
+   "verse": 1287,
+   "rows": [
+    {
+     "surface": "vidhātāraṃ",
+     "gloss": "Vidhātṛ",
+     "grounds": "name of the deity being saluted",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-salute",
+     "grounds": "verb of reverential salutation",
+     "morph": "1.sg.middle-present/vand"
+    },
+    {
+     "surface": "tryakṣa+samanvitam",
+     "gloss": "with-three-eyes",
+     "grounds": "compound describing Vidhātṛ as endowed with three eyes",
+     "morph": "m.acc.sg"
+    }
+   ],
+   "question": "What three-eyed form of Vidhātṛ receives salutation?",
+   "premises": [
+    "The speaker offers salutation",
+    "The object is Vidhātṛ",
+    "Vidhātṛ is endowed with three eyes"
+   ],
+   "inference": "The three-eyed Vidhātṛ is saluted.",
+   "uncertainties": [],
+   "plain_english": "I salute Vidhātṛ, who is endowed with three eyes."
+  },
+  {
+   "verse": 1288,
+   "rows": [
+    {
+     "surface": "adhaḥ+sthāṃ",
+     "gloss": "situated-below",
+     "grounds": "compound describing the threshold deity's position",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "dehaliṃ",
+     "gloss": "threshold-deity",
+     "grounds": "name of the deity at the threshold",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "vande",
+     "gloss": "I-salute",
+     "grounds": "verb of reverential salutation",
+     "morph": "1.sg.middle-present/vand"
+    },
+    {
+     "surface": "paścima+āsyāṃ",
+     "gloss": "west-facing",
+     "grounds": "compound describing the deity's orientation",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "su+dakṣiṇām",
+     "gloss": "very-auspicious",
+     "grounds": "compound praising the deity as highly auspicious",
+     "morph": "f.acc.sg"
+    }
+   ],
+   "question": "What auspicious, west-facing threshold deity situated below is saluted?",
+   "premises": [
+    "The speaker salutes the threshold deity",
+    "She is situated below and faces west",
+    "She is very auspicious"
+   ],
+   "inference": "The very auspicious, west-facing threshold deity situated below is saluted.",
+   "uncertainties": [],
+   "plain_english": "I salute the very auspicious threshold deity, situated below and facing west."
+  },
+  {
+   "verse": 1289,
+   "rows": [
+    {
+     "surface": "ca+astreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "compound ca+astreṇa indicating consecration by the weapon-mantra",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "mantritān",
+     "gloss": "consecrated",
+     "grounds": "past participle describing the ritual items",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "sarṣapa+akṣatān",
+     "gloss": "mustard-unbroken-rice",
+     "grounds": "compound naming mustard seeds and unbroken rice grains",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Which ritual substances are consecrated using the weapon-mantra?",
+   "premises": [
+    "Mustard seeds and unbroken rice are prepared",
+    "They are consecrated by mantra",
+    "The consecration uses the weapon-mantra"
+   ],
+   "inference": "Mustard seeds and unbroken rice are consecrated with the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "Mustard seeds and unbroken rice are consecrated with the weapon-mantra."
+  },
+  {
+   "verse": 1290,
+   "rows": [
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "optative verb indicating proper procedure",
+     "morph": "3.sg.active-optative/bhū"
+    },
+    {
+     "surface": "samyak",
+     "gloss": "properly",
+     "grounds": "indeclinable indicating correct manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "astra+mantreṇa",
+     "gloss": "with-weapon-mantra",
+     "grounds": "compound specifying the mantra used",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "deśikaḥ",
+     "gloss": "teacher",
+     "grounds": "ritual officiant performing the consecration",
+     "morph": "m.nom.sg"
+    }
+   ],
+   "question": "Who must properly perform the consecration with the weapon-mantra?",
+   "premises": [
+    "A consecration procedure is required",
+    "It must be done properly",
+    "The teacher uses the weapon-mantra"
+   ],
+   "inference": "The teacher should properly perform the consecration with the weapon-mantra.",
+   "uncertainties": [],
+   "plain_english": "The teacher should properly perform the consecration with the weapon-mantra."
+  },
+  {
+   "verse": 1291,
+   "rows": [
+    {
+     "surface": "yāḥ",
+     "gloss": "which",
+     "grounds": "relative pronoun referring to other deities",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atra",
+     "gloss": "here",
+     "grounds": "indeclinable indicating location",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nivasanty",
+     "gloss": "dwelling",
+     "grounds": "present participle describing the deities; sandhi form of nivasanti",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "anya+devatāḥ",
+     "gloss": "other-deities",
+     "grounds": "compound naming other deities present",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "bhuvi",
+     "gloss": "on-earth",
+     "grounds": "location where the deities are situated",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "saṃsthitāḥ",
+     "gloss": "situated",
+     "grounds": "past participle describing their established presence",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "Which other deities are dwelling and situated here on the earth?",
+   "premises": [
+    "Other deities are present in this place",
+    "They are dwelling here",
+    "They are situated on the earth"
+   ],
+   "inference": "Other deities dwelling and situated here on the earth are identified.",
+   "uncertainties": [],
+   "plain_english": "And whatever other deities are dwelling here, situated on the earth,"
+  },
+  {
+   "verse": 1292,
+   "rows": [
+    {
+     "surface": "vighna+kartāraḥ",
+     "gloss": "obstacle-makers",
+     "grounds": "compound describing those who create obstacles",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "te",
+     "gloss": "they",
+     "grounds": "pronoun referring to the obstacle-making deities",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "naśyantu",
+     "gloss": "let-perish",
+     "grounds": "imperative verb commanding their removal",
+     "morph": "3.pl.active-imperative/naś"
+    },
+    {
+     "surface": "śiva+ājñayā",
+     "gloss": "by-Śiva's-command",
+     "grounds": "compound indicating the authority for their removal",
+     "morph": "f.inst.sg"
+    }
+   ],
+   "question": "By whose command must the obstacle-making beings perish?",
+   "premises": [
+    "Certain beings create obstacles",
+    "They are commanded to perish",
+    "The command comes from Śiva"
+   ],
+   "inference": "The obstacle-makers must perish by Śiva's command.",
+   "uncertainties": [],
+   "plain_english": "Let those obstacle-makers perish by the command of Śiva."
+  },
+  {
+   "verse": 1293,
+   "rows": [
+    {
+     "surface": "jahyāt",
+     "gloss": "one-should-cast",
+     "grounds": "optative verb instructing the ritual action",
+     "morph": "3.sg.active-optative/hā"
+    },
+    {
+     "surface": "tān",
+     "gloss": "them",
+     "grounds": "pronoun referring to the consecrated substances or obstacles",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "maṇḍapasya",
+     "gloss": "of-pavilion",
+     "grounds": "specifies the ritual space",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "antaḥ",
+     "gloss": "inside",
+     "grounds": "indeclinable indicating location within the pavilion",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "indeclinable indicating sequence",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vighnān",
+     "gloss": "obstacles",
+     "grounds": "object representing the obstacles to be removed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "indeclinable emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nirgatān",
+     "gloss": "departed",
+     "grounds": "past participle describing obstacles that have gone out",
+     "morph": "m.acc.pl"
+    }
+   ],
+   "question": "Where should the departed obstacles be cast after leaving the pavilion?",
+   "premises": [
+    "Obstacles have departed from the pavilion",
+    "A ritual action of casting is prescribed",
+    "The casting occurs inside the pavilion area"
+   ],
+   "inference": "One should cast the departed obstacles inside the pavilion.",
+   "uncertainties": [
+    "The exact referent of 'tān' (substances or obstacles) is context-dependent."
+   ],
+   "plain_english": "Then one should cast them inside the pavilion, as the obstacles have indeed departed."
+  },
+  {
+   "verse": 1294,
+   "rows": [
+    {
+     "surface": "smaran",
+     "gloss": "remembering",
+     "grounds": "present participle indicating mental focus during the act",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "vāma+pārṣṇi+ghāta",
+     "gloss": "left-heel-strike",
+     "grounds": "compound describing the ritual striking action",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "trayeṇa",
+     "gloss": "three-times",
+     "grounds": "specifies the number of strikes",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What physical action accompanies remembrance to dispel obstacles?",
+   "premises": [
+    "Remembrance is maintained during the act",
+    "A strike with the left heel is performed",
+    "The strike is done three times"
+   ],
+   "inference": "One performs three strikes with the left heel while remembering.",
+   "uncertainties": [],
+   "plain_english": "Remembering, one strikes with the left heel three times."
+  },
+  {
+   "verse": 1295,
+   "rows": [
+    {
+     "surface": "tiryak+dṛṣṭi+avalokena",
+     "gloss": "by-sideways-glance",
+     "grounds": "compound describing the oblique gaze used ritually",
+     "morph": "n.inst.sg"
+    },
+    {
+     "surface": "divyān+vighnān",
+     "gloss": "divine-obstacles",
+     "grounds": "compound naming obstacles of divine origin",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "nivārayet",
+     "gloss": "one-should-ward-off",
+     "grounds": "optative verb prescribing the warding action",
+     "morph": "3.sg.active-optative/ni-vṛ-causative"
+    }
+   ],
+   "question": "How are divine obstacles warded off through a specific gaze?",
+   "premises": [
+    "Divine obstacles are present",
+    "A sideways glance is employed",
+    "The glance serves to ward them off"
+   ],
+   "inference": "One should ward off divine obstacles by a sideways glance.",
+   "uncertainties": [],
+   "plain_english": "One should ward off divine obstacles with a sideways glance."
+  },
+  {
+   "verse": 1296,
+   "rows": [
+    {
+     "surface": "dvāram",
+     "gloss": "door",
+     "grounds": "object to be covered",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "ācchādya",
+     "gloss": "having-covered",
+     "grounds": "absolutive participle indicating prior action",
+     "morph": "(gerund)/ā-chad"
+    },
+    {
+     "surface": "vāsasā",
+     "gloss": "with-cloth",
+     "grounds": "instrument used to cover the door",
+     "morph": "n.inst.sg"
+    }
+   ],
+   "question": "What covering action must be performed on the door before proceeding?",
+   "premises": [
+    "The door is the object of action",
+    "A cloth is used as the covering",
+    "The door must be covered"
+   ],
+   "inference": "The door should be covered with a cloth.",
+   "uncertainties": [],
+   "plain_english": "Having covered the door with a cloth,"
+  },
+  {
+   "verse": 1297,
+   "rows": [
+    {
+     "surface": "sammārjana+upalepa+ādyaiḥ",
+     "gloss": "by-sweeping-smearing-etc",
+     "grounds": "compound listing preparatory cleaning actions",
+     "morph": "n.inst.pl"
+    },
+    {
+     "surface": "darpaṇa+udara+vat+kṛtam",
+     "gloss": "made-like-mirror-surface",
+     "grounds": "compound describing the resulting polished state",
+     "morph": "n.acc.sg"
+    }
+   ],
+   "question": "What polished condition is achieved through sweeping, smearing, and similar acts?",
+   "premises": [
+    "Sweeping, smearing, and other acts are performed",
+    "These acts prepare the surface",
+    "The result is a mirror-like surface"
+   ],
+   "inference": "The place is made like the surface of a mirror by sweeping, smearing, and so on.",
+   "uncertainties": [],
+   "plain_english": "By sweeping, smearing, and so forth, it is made like the surface of a mirror."
+  },
+  {
+   "verse": 1298,
+   "rows": [
+    {
+     "surface": "pañca+varṇa+rajaḥ",
+     "gloss": "five-colored-powder",
+     "grounds": "compound describing the material used for decoration",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "citraṃ",
+     "gloss": "variegated",
+     "grounds": "adjective describing the appearance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sthāna+śuddhiḥ",
+     "gloss": "place-purification",
+     "grounds": "compound naming the ritual purification of the place",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iyam",
+     "gloss": "this",
+     "grounds": "demonstrative pronoun referring to the described act",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "matā",
+     "gloss": "is-considered",
+     "grounds": "past participle expressing traditional view",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What use of five-colored powder constitutes the prescribed place purification?",
+   "premises": [
+    "Five-colored powder is used",
+    "It creates a variegated appearance",
+    "This act is considered place purification"
+   ],
+   "inference": "This variegated use of five-colored powder is considered place purification.",
+   "uncertainties": [],
+   "plain_english": "This variegated application of five-colored powder is considered the purification of the place."
+  },
+  {
+   "verse": 1299,
+   "rows": [
+    {
+     "surface": "vāstu+adhīśaṃ",
+     "gloss": "to-Vāstu-lord",
+     "grounds": "compound naming the lord of the site as recipient",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "indeclinable connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "brahmaṇe",
+     "gloss": "to-Brahmā",
+     "grounds": "recipient of obeisance",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "indeclinable expressing reverential salutation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "indeclinable marking the formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "indeclinable inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "To which deities is obeisance formally offered in this formula?",
+   "premises": [
+    "An obeisance formula is stated",
+    "The Vāstu-lord is addressed",
+    "Brahmā is also addressed"
+   ],
+   "inference": "Obeisance is offered to the Vāstu-lord and to Brahmā.",
+   "uncertainties": [],
+   "plain_english": "Obeisance also to the lord of the site and to Brahmā, thus."
+  }
+ ]
+}

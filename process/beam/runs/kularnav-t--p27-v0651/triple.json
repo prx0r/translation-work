@@ -1,0 +1,556 @@
+{
+ "song": "kul-p27",
+ "items": [
+  {
+   "verse": 651,
+   "rows": [
+    {
+     "surface": "tasmāt",
+     "gloss": "therefore",
+     "grounds": "causal adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṇḍalam",
+     "gloss": "mandala",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "ālikhya",
+     "gloss": "draw",
+     "grounds": "absolutive of ā-likh",
+     "morph": "abs."
+    },
+    {
+     "surface": "vidhivat",
+     "gloss": "properly",
+     "grounds": "adverbial form",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjayet",
+     "gloss": "worship",
+     "grounds": "optative of pūj",
+     "morph": "3.sg.act-opt. pūj"
+    }
+   ],
+   "question": "Why should one draw the mandala and worship there properly?",
+   "premises": [
+    "therefore one draws the mandala",
+    "one worships there properly"
+   ],
+   "inference": "proper mandala worship follows from the stated reason",
+   "uncertainties": [
+    "exact ritual context not specified"
+   ],
+   "plain_english": "Therefore, having drawn the mandala properly, one should worship there."
+  },
+  {
+   "verse": 652,
+   "rows": [
+    {
+     "surface": "trailokyaṃ",
+     "gloss": "three-worlds",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "maṇḍitaṃ",
+     "gloss": "adorned",
+     "grounds": "past participle accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yena",
+     "gloss": "by-which",
+     "grounds": "instrumental relative pronoun",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "maṇḍalaṃ",
+     "gloss": "mandala",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tat",
+     "gloss": "that",
+     "grounds": "neuter nominative singular",
+     "morph": "nom.sg.n"
+    },
+    {
+     "surface": "sadā",
+     "gloss": "always",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śivam",
+     "gloss": "auspicious",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    }
+   ],
+   "question": "How does the mandala adorn the three worlds and remain auspicious?",
+   "premises": [
+    "the mandala adorns the three worlds",
+    "that mandala is always auspicious"
+   ],
+   "inference": "the mandala is a world-adorning and auspicious form",
+   "uncertainties": [
+    "relative clause scope"
+   ],
+   "plain_english": "The mandala by which the three worlds are adorned is always auspicious."
+  },
+  {
+   "verse": 653,
+   "rows": [
+    {
+     "surface": "jālandharañca",
+     "gloss": "jālandhara-and",
+     "grounds": "compound with ca",
+     "morph": "acc.sg.m"
+    },
+    {
+     "surface": "candrārdhaṃ",
+     "gloss": "half-moon",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "tryasraḥ",
+     "gloss": "triangle",
+     "grounds": "masculine nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pūrṇagirirbhavet",
+     "gloss": "pūrṇagiri-becomes",
+     "grounds": "sandhi fusion of pūrṇagiriḥ and bhavet",
+     "morph": "3.sg.act-opt. bhū"
+    }
+   ],
+   "question": "What shapes are named for the mandala's parts?",
+   "premises": [
+    "jālandhara and half-moon are named",
+    "a triangle becomes pūrṇagiri"
+   ],
+   "inference": "the mandala includes named geometric and sacred forms",
+   "uncertainties": [
+    "exact mapping of shapes"
+   ],
+   "plain_english": "Jālandhara and half-moon; a triangle becomes Pūrṇagiri."
+  },
+  {
+   "verse": 654,
+   "rows": [
+    {
+     "surface": "samānya",
+     "gloss": "common",
+     "grounds": "adjective",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śrīguru",
+     "gloss": "śrīguru",
+     "grounds": "compound noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhoga",
+     "gloss": "enjoyment",
+     "grounds": "masculine noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bali",
+     "gloss": "offering",
+     "grounds": "masculine noun",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "pātrāṇi",
+     "gloss": "vessels",
+     "grounds": "neuter nominative plural",
+     "morph": "nom.pl.n"
+    },
+    {
+     "surface": "pañcadhā",
+     "gloss": "fivefold",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are guru enjoyment offering and vessels arranged?",
+   "premises": [
+    "common śrīguru enjoyment offering vessels",
+    "they are fivefold"
+   ],
+   "inference": "the ritual vessels are arranged in five kinds",
+   "uncertainties": [
+    "exact vessel list"
+   ],
+   "plain_english": "Common Śrīguru enjoyment, offering vessels, are fivefold."
+  },
+  {
+   "verse": 655,
+   "rows": [
+    {
+     "surface": "svadakṣiṇādivāmāntaṃ",
+     "gloss": "from-right-to-left",
+     "grounds": "compound accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "sthāpya",
+     "gloss": "place",
+     "grounds": "absolutive of sthā",
+     "morph": "abs."
+    },
+    {
+     "surface": "abhyarcya",
+     "gloss": "worship",
+     "grounds": "absolutive of abhyarc",
+     "morph": "abs."
+    },
+    {
+     "surface": "āsavena",
+     "gloss": "with-liquor",
+     "grounds": "instrumental singular",
+     "morph": "inst.sg.m"
+    },
+    {
+     "surface": "tu",
+     "gloss": "but",
+     "grounds": "particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the vessels be placed and worshipped?",
+   "premises": [
+    "place from right to left",
+    "worship with liquor"
+   ],
+   "inference": "placement and worship proceed with liquor",
+   "uncertainties": [
+    "ritual sequence"
+   ],
+   "plain_english": "Place them from right to left, worship with liquor, but."
+  },
+  {
+   "verse": 656,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "locative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "māṣapramāṇantu",
+     "gloss": "māṣa-measure-but",
+     "grounds": "sandhi fusion with tu",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "matsyaṃ",
+     "gloss": "fish",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "māṃsaṃ",
+     "gloss": "meat",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "vinikṣepet",
+     "gloss": "place",
+     "grounds": "optative of vi-nikṣip",
+     "morph": "3.sg.act-opt. nikṣip"
+    }
+   ],
+   "question": "What measure of fish and meat is placed there?",
+   "premises": [
+    "there a māṣa measure",
+    "fish and meat are placed"
+   ],
+   "inference": "fish and meat are placed in measured amount",
+   "uncertainties": [
+    "exact māṣa quantity"
+   ],
+   "plain_english": "There, a māṣa measure of fish and meat should be placed."
+  },
+  {
+   "verse": 657,
+   "rows": [
+    {
+     "surface": "hetubhiḥ",
+     "gloss": "by-reasons",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "parapātrasthaiḥ",
+     "gloss": "in-other-vessel",
+     "grounds": "compound instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "tapītaṃ",
+     "gloss": "heated",
+     "grounds": "past participle accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "niṣphalaṃ",
+     "gloss": "fruitless",
+     "grounds": "adjective accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt. bhū"
+    }
+   ],
+   "question": "Why does heated offering in another vessel become fruitless?",
+   "premises": [
+    "by reasons in other vessel",
+    "heated offering becomes fruitless"
+   ],
+   "inference": "improper vessel or heating nullifies fruit",
+   "uncertainties": [
+    "which reasons"
+   ],
+   "plain_english": "By such reasons, heated offering in another vessel becomes fruitless."
+  },
+  {
+   "verse": 658,
+   "rows": [
+    {
+     "surface": "manoharaiḥ",
+     "gloss": "delightful",
+     "grounds": "instrumental plural",
+     "morph": "inst.pl.m"
+    },
+    {
+     "surface": "maheśāni",
+     "gloss": "O-Maheśāni",
+     "grounds": "vocative singular",
+     "morph": "voc.sg.f"
+    },
+    {
+     "surface": "tarpaṇaṃ",
+     "gloss": "offering",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "saphalaṃ",
+     "gloss": "fruitful",
+     "grounds": "adjective accusative",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "becomes",
+     "grounds": "optative of bhū",
+     "morph": "3.sg.act-opt. bhū"
+    }
+   ],
+   "question": "When does the offering become fruitful?",
+   "premises": [
+    "with delightful means",
+    "offering becomes fruitful"
+   ],
+   "inference": "delightful performance makes offering fruitful",
+   "uncertainties": [
+    "exact delightful means"
+   ],
+   "plain_english": "With delightful means, O Maheśāni, the offering becomes fruitful."
+  },
+  {
+   "verse": 659,
+   "rows": [
+    {
+     "surface": "āyuḥśrīkīttīsaubhāgyadhanadhānyavināśinī",
+     "gloss": "life-glory-fame-prosperity-wealth-grain-destroying",
+     "grounds": "long compound feminine nominative",
+     "morph": "nom.sg.f"
+    }
+   ],
+   "question": "What destructive power is named in this compound?",
+   "premises": [
+    "life glory fame prosperity wealth grain destroying"
+   ],
+   "inference": "the named force destroys life glory and prosperity",
+   "uncertainties": [
+    "syntactic role in larger sentence"
+   ],
+   "plain_english": "Life, glory, fame, prosperity, wealth, and grain destroying."
+  },
+  {
+   "verse": 660,
+   "rows": [
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "yāti",
+     "gloss": "goes",
+     "grounds": "present of yā",
+     "morph": "3.sg.act-pres. yā"
+    },
+    {
+     "surface": "dātā",
+     "gloss": "giver",
+     "grounds": "masculine nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "bhoktā",
+     "gloss": "eater",
+     "grounds": "masculine nominative singular",
+     "morph": "nom.sg.m"
+    },
+    {
+     "surface": "na+saṃśayaḥ",
+     "gloss": "no-doubt",
+     "grounds": "sandhi fusion of na and saṃśayaḥ",
+     "morph": "nom.sg.m"
+    }
+   ],
+   "question": "What happens to giver and eater otherwise?",
+   "premises": [
+    "otherwise one goes to hell",
+    "giver and eater no doubt"
+   ],
+   "inference": "improper practice sends giver and eater to hell",
+   "uncertainties": [
+    "exact improper act"
+   ],
+   "plain_english": "Otherwise one goes to hell; for giver and eater there is no doubt."
+  },
+  {
+   "verse": 661,
+   "rows": [
+    {
+     "surface": "ye",
+     "gloss": "who",
+     "grounds": "masculine nominative plural",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "smaranti",
+     "gloss": "remember",
+     "grounds": "present of smṛ",
+     "morph": "3.pl.act-pres. smṛ"
+    },
+    {
+     "surface": "narā",
+     "gloss": "men",
+     "grounds": "masculine nominative plural",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "mūḍhāḥ",
+     "gloss": "fools",
+     "grounds": "masculine nominative plural",
+     "morph": "nom.pl.m"
+    },
+    {
+     "surface": "teṣāṃ",
+     "gloss": "their",
+     "grounds": "genitive plural",
+     "morph": "gen.pl.m"
+    },
+    {
+     "surface": "duḥkhaṃ",
+     "gloss": "suffering",
+     "grounds": "neuter accusative singular",
+     "morph": "acc.sg.n"
+    },
+    {
+     "surface": "pade",
+     "gloss": "step",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    },
+    {
+     "surface": "pade",
+     "gloss": "step",
+     "grounds": "locative singular",
+     "morph": "loc.sg.n"
+    }
+   ],
+   "question": "What suffering comes to foolish men who remember?",
+   "premises": [
+    "foolish men who remember",
+    "suffering at every step"
+   ],
+   "inference": "foolish remembrance brings repeated suffering",
+   "uncertainties": [
+    "what is remembered"
+   ],
+   "plain_english": "Foolish men who remember suffer at every step."
+  },
+  {
+   "verse": 662,
+   "rows": [
+    {
+     "surface": "parasparavirodhitvāt",
+     "gloss": "mutual-opposition",
+     "grounds": "ablative singular",
+     "morph": "abl.sg.n"
+    },
+    {
+     "surface": "kathaṃ",
+     "gloss": "how",
+     "grounds": "interrogative adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "feminine nominative singular",
+     "morph": "nom.sg.f"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "performed",
+     "grounds": "passive present of vidhā",
+     "morph": "3.sg.pass-pres. vidhā"
+    }
+   ],
+   "question": "How can worship be performed amid mutual opposition?",
+   "premises": [
+    "because of mutual opposition",
+    "how is worship performed"
+   ],
+   "inference": "mutual opposition questions the validity of worship",
+   "uncertainties": [
+    "exact opposed elements"
+   ],
+   "plain_english": "Because of mutual opposition, how is worship performed?"
+  }
+ ]
+}

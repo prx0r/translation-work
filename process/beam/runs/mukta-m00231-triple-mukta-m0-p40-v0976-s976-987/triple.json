@@ -1,0 +1,551 @@
+{
+ "song": "mukta-m0-p40",
+ "items": [
+  {
+   "verse": 976,
+   "rows": [
+    {
+     "surface": "tāmbūlañca",
+     "gloss": "betel-leaf-and",
+     "grounds": "fused sandhi form; acc sg neuter noun plus indeclinable ca",
+     "morph": "n.acc.sg+indecl."
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative third singular active of root dā",
+     "morph": "v.3.sg.act-opt+dā"
+    },
+    {
+     "surface": "karpūrādisuvāsitam",
+     "gloss": "camphor-etc-fragrant",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What fragrant betel offering should be given then?",
+   "premises": [
+    "betel leaf is offered",
+    "camphor and similar fragrances scent it",
+    "the gift follows the rite"
+   ],
+   "inference": "The practitioner presents fragrant betel leaf as part of the offering sequence.",
+   "uncertainties": [
+    "exact ritual placement is not specified"
+   ],
+   "plain_english": "Then one should give betel leaf scented with camphor and similar fragrances."
+  },
+  {
+   "verse": 977,
+   "rows": [
+    {
+     "surface": "darpaṇaṃ",
+     "gloss": "mirror",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pādukāṃ",
+     "gloss": "sandals",
+     "grounds": "accusative singular feminine noun",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "chatraṃ",
+     "gloss": "umbrella",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "cāmaraṃ",
+     "gloss": "fly-whisk",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vyajanādikam",
+     "gloss": "fan-etc",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "Which ritual implements and accessories are to be presented?",
+   "premises": [
+    "mirror is listed",
+    "sandals are listed",
+    "umbrella fly-whisk and fan are listed"
+   ],
+   "inference": "The rite includes presenting mirror, sandals, umbrella, fly-whisk, and fan among other items.",
+   "uncertainties": [
+    "whether all are mandatory or exemplary"
+   ],
+   "plain_english": "Mirror, sandals, umbrella, fly-whisk, fan, and similar items are presented."
+  },
+  {
+   "verse": 978,
+   "rows": [
+    {
+     "surface": "yatnatastu",
+     "gloss": "carefully-but",
+     "grounds": "fused indeclinable adverb plus particle tu",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "baliṃ",
+     "gloss": "offering",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative third singular active of root dā",
+     "morph": "v.3.sg.act-opt+dā"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "should-kill",
+     "grounds": "optative third singular active of root han",
+     "morph": "v.3.sg.act-opt+han"
+    },
+    {
+     "surface": "ātmanā",
+     "gloss": "by-self",
+     "grounds": "instrumental singular neuter noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "punaḥ",
+     "gloss": "again",
+     "grounds": "indeclinable adverb",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How should the offering be given, and what killing restriction applies?",
+   "premises": [
+    "offering is given carefully",
+    "killing by oneself is prohibited",
+    "the prohibition is repeated emphatically"
+   ],
+   "inference": "The practitioner gives the offering carefully and must not kill by his own hand.",
+   "uncertainties": [
+    "scope of the killing prohibition beyond self-killing"
+   ],
+   "plain_english": "The offering should be given carefully, and one must not kill by oneself again."
+  },
+  {
+   "verse": 979,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hanyāt",
+     "gloss": "should-kill",
+     "grounds": "optative third singular active of root han",
+     "morph": "v.3.sg.act-opt+han"
+    },
+    {
+     "surface": "pramādena",
+     "gloss": "by-negligence",
+     "grounds": "instrumental singular neuter noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "rauravaṃ",
+     "gloss": "Raurava",
+     "grounds": "accusative singular neuter adjective or noun",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "narakaṃ",
+     "gloss": "hell",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vrajet",
+     "gloss": "would-go",
+     "grounds": "optative third singular active of root vraj",
+     "morph": "v.3.sg.act-opt+vraj"
+    }
+   ],
+   "question": "What consequence follows if killing occurs through negligence?",
+   "premises": [
+    "negligent killing is posited",
+    "Raurava hell is named",
+    "the agent would go there"
+   ],
+   "inference": "If one kills through negligence, one goes to Raurava hell.",
+   "uncertainties": [
+    "whether this is literal or exemplary consequence"
+   ],
+   "plain_english": "If one kills through negligence, one would go to Raurava hell."
+  },
+  {
+   "verse": 980,
+   "rows": [
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "absolutive of root grah",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śoṇitaṃ",
+     "gloss": "blood",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pātre",
+     "gloss": "in-vessel",
+     "grounds": "locative singular neuter noun",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "svakīyaṃ",
+     "gloss": "own",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "hṛdayodbhavam",
+     "gloss": "heart-born",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "What blood is taken into the vessel for the offering?",
+   "premises": [
+    "blood is taken",
+    "it is placed in a vessel",
+    "it is one's own heart-born blood"
+   ],
+   "inference": "The practitioner takes his own heart-born blood into a vessel.",
+   "uncertainties": [
+    "ritual context of blood offering"
+   ],
+   "plain_english": "Having taken one's own heart-born blood into a vessel."
+  },
+  {
+   "verse": 981,
+   "rows": [
+    {
+     "surface": "pradadyācca",
+     "gloss": "should-give-and",
+     "grounds": "fused optative verb plus indeclinable ca",
+     "morph": "v.3.sg.act-opt+dā+indecl."
+    },
+    {
+     "surface": "mahādevyai",
+     "gloss": "to-great-goddess",
+     "grounds": "dative singular feminine noun",
+     "morph": "n.dat.sg.f"
+    },
+    {
+     "surface": "sarvasaubhāgyahetave",
+     "gloss": "for-all-auspiciousness-cause",
+     "grounds": "dative singular neuter compound noun",
+     "morph": "n.dat.sg"
+    }
+   ],
+   "question": "To whom is the blood offering given and for what purpose?",
+   "premises": [
+    "blood is given",
+    "the recipient is the great goddess",
+    "the purpose is all auspiciousness"
+   ],
+   "inference": "The blood is offered to the great goddess as cause of all auspiciousness.",
+   "uncertainties": [
+    "whether literal or symbolic offering"
+   ],
+   "plain_english": "And one should give it to the great goddess, for the cause of all auspiciousness."
+  },
+  {
+   "verse": 982,
+   "rows": [
+    {
+     "surface": "śaktibījena",
+     "gloss": "by-shakti-seed",
+     "grounds": "instrumental singular neuter compound noun",
+     "morph": "n.ins.sg"
+    },
+    {
+     "surface": "vā",
+     "gloss": "or",
+     "grounds": "disjunctive particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dadyāt",
+     "gloss": "should-give",
+     "grounds": "optative third singular active of root dā",
+     "morph": "v.3.sg.act-opt+dā"
+    },
+    {
+     "surface": "nābherūrdhvam",
+     "gloss": "above-navel",
+     "grounds": "compound adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "adho",
+     "gloss": "below",
+     "grounds": "adverb",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "nahi",
+     "gloss": "not",
+     "grounds": "negative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where may the shakti-seed offering be given?",
+   "premises": [
+    "offering may be by shakti-seed",
+    "it is given above the navel",
+    "it is not given below"
+   ],
+   "inference": "The shakti-seed offering is given above the navel, not below.",
+   "uncertainties": [
+    "exact meaning of shakti-seed"
+   ],
+   "plain_english": "Or one should give by the shakti-seed above the navel, not below."
+  },
+  {
+   "verse": 983,
+   "rows": [
+    {
+     "surface": "tataśca",
+     "gloss": "then-and",
+     "grounds": "fused indeclinable adverb plus particle ca",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sādhakaśreṣṭho",
+     "gloss": "best-practitioner",
+     "grounds": "nominative singular masculine compound noun",
+     "morph": "n.nom.sg.m"
+    },
+    {
+     "surface": "mantraśuddhiṃ",
+     "gloss": "mantra-purification",
+     "grounds": "accusative singular feminine compound noun",
+     "morph": "n.acc.sg.f"
+    },
+    {
+     "surface": "mācaret",
+     "gloss": "should-perform",
+     "grounds": "optative third singular active of root ācar",
+     "morph": "v.3.sg.act-opt+ācar"
+    }
+   ],
+   "question": "What should the best practitioner perform after these rites?",
+   "premises": [
+    "the best practitioner acts",
+    "mantra purification is performed",
+    "it follows the prior rites"
+   ],
+   "inference": "The best practitioner should then perform mantra purification.",
+   "uncertainties": [
+    "specific purification method"
+   ],
+   "plain_english": "Then the best practitioner should perform mantra purification."
+  },
+  {
+   "verse": 984,
+   "rows": [
+    {
+     "surface": "kramāt",
+     "gloss": "gradually",
+     "grounds": "ablative singular neuter noun used adverbially",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "kramād",
+     "gloss": "gradually",
+     "grounds": "ablative singular neuter noun used adverbially",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "dvirāvṛttiḥ",
+     "gloss": "twice-repetition",
+     "grounds": "nominative singular feminine compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "mantraśuddhiḥ",
+     "gloss": "mantra-purification",
+     "grounds": "nominative singular feminine compound noun",
+     "morph": "n.nom.sg.f"
+    },
+    {
+     "surface": "itīritā",
+     "gloss": "thus-declared",
+     "grounds": "nominative singular feminine participle",
+     "morph": "part.nom.sg.f"
+    }
+   ],
+   "question": "How is mantra purification declared to proceed?",
+   "premises": [
+    "it proceeds gradually",
+    "twice repetition is named",
+    "mantra purification is thus declared"
+   ],
+   "inference": "Mantra purification is declared to proceed gradually by twice repetition.",
+   "uncertainties": [
+    "whether repetition count is fixed"
+   ],
+   "plain_english": "Gradually, gradually, twice repetition is mantra purification, thus declared."
+  },
+  {
+   "verse": 985,
+   "rows": [
+    {
+     "surface": "japañca",
+     "gloss": "japa-and",
+     "grounds": "fused accusative noun plus indeclinable ca",
+     "morph": "n.acc.sg+indecl."
+    },
+    {
+     "surface": "trividhaṃ",
+     "gloss": "threefold",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "proktaṃ",
+     "gloss": "declared",
+     "grounds": "accusative singular neuter participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "vācikopāṃśumānasam",
+     "gloss": "vocal-semi-voiced-mental",
+     "grounds": "compound adjective in accusative singular neuter",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How many kinds of japa are declared?",
+   "premises": [
+    "japa is declared",
+    "it is threefold",
+    "the kinds are vocal semi-voiced and mental"
+   ],
+   "inference": "Japa is declared to be threefold: vocal, semi-voiced, and mental.",
+   "uncertainties": [
+    "relative value of each kind"
+   ],
+   "plain_english": "Japa is declared threefold: vocal, semi-voiced, and mental."
+  },
+  {
+   "verse": 986,
+   "rows": [
+    {
+     "surface": "tajjapaṃ",
+     "gloss": "that-japa",
+     "grounds": "accusative singular neuter compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "vācikaṃ",
+     "gloss": "vocal",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "viddhi",
+     "gloss": "know",
+     "grounds": "imperative second singular active of root vid",
+     "morph": "v.2.sg.act-imp+vid"
+    },
+    {
+     "surface": "jihvāmātram",
+     "gloss": "tongue-only",
+     "grounds": "accusative singular neuter compound noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "upāṃśukam",
+     "gloss": "semi-voiced",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    }
+   ],
+   "question": "How are vocal and semi-voiced japa characterized?",
+   "premises": [
+    "vocal japa is tongue-only",
+    "semi-voiced japa is distinct",
+    "the practitioner should know this"
+   ],
+   "inference": "Vocal japa is tongue-only, while semi-voiced japa is a separate mode.",
+   "uncertainties": [
+    "exact boundary between modes"
+   ],
+   "plain_english": "Know that vocal japa is tongue-only, and semi-voiced japa is distinct."
+  },
+  {
+   "verse": 987,
+   "rows": [
+    {
+     "surface": "vācikasya",
+     "gloss": "of-vocal",
+     "grounds": "genitive singular masculine adjective",
+     "morph": "adj.gen.sg.m"
+    },
+    {
+     "surface": "śataṃ",
+     "gloss": "hundred",
+     "grounds": "accusative singular neuter noun",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "jñeyaṃ",
+     "gloss": "to-be-known",
+     "grounds": "accusative singular neuter participle",
+     "morph": "part.acc.sg.n"
+    },
+    {
+     "surface": "ekottaram",
+     "gloss": "one-more",
+     "grounds": "accusative singular neuter adjective",
+     "morph": "adj.acc.sg.n"
+    },
+    {
+     "surface": "upāṃśunā",
+     "gloss": "by-semi-voiced",
+     "grounds": "instrumental singular neuter noun",
+     "morph": "n.ins.sg"
+    }
+   ],
+   "question": "What numerical relation holds between vocal and semi-voiced japa?",
+   "premises": [
+    "vocal japa has a hundred",
+    "semi-voiced japa is one more",
+    "this is to be known"
+   ],
+   "inference": "Semi-voiced japa is one more than the hundred of vocal japa.",
+   "uncertainties": [
+    "whether the count is literal or symbolic"
+   ],
+   "plain_english": "Of vocal japa, a hundred is to be known; semi-voiced is one more."
+  }
+ ]
+}

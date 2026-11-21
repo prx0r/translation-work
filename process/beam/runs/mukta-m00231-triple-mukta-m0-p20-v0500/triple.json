@@ -1,0 +1,52 @@
+{
+ "song": "mukta-m0-p20",
+ "items": [
+  {
+   "verse": 500,
+   "rows": [
+    {
+     "surface": "viṣaṃ",
+     "gloss": "poison",
+     "grounds": "named ritual substance",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kūrcaṃ",
+     "gloss": "kūrca",
+     "grounds": "named ritual item",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "paśupataye",
+     "gloss": "to-paśupati",
+     "grounds": "dative recipient",
+     "morph": "m.dat.sg"
+    },
+    {
+     "surface": "tadanantaram",
+     "gloss": "after-that",
+     "grounds": "sequence marker",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is the ordered sequence of ritual elements directed toward Paśupati after the mudrās?",
+   "premises": [
+    "poison and kūrca are named",
+    "then points to Paśupati",
+    "after-that closes the sequence"
+   ],
+   "inference": "the verse prescribes poison then kūrca then offering to Paśupati thereafter",
+   "uncertainties": [
+    "exact ritual function of kūrca unresolved",
+    "whether viṣaṃ is literal or symbolic unresolved"
+   ],
+   "plain_english": "Poison, then kūrca, then to Paśupati, and after that."
+  }
+ ]
+}

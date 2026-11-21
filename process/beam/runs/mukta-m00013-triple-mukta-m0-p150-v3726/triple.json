@@ -1,0 +1,1198 @@
+{
+ "song": "mukta-m0-p150",
+ "items": [
+  {
+   "verse": 3726,
+   "rows": [
+    {
+     "surface": "śaktimantraṃ",
+     "gloss": "śakti-mantra",
+     "grounds": "compound object placed first",
+     "morph": "compound: śakti+mantram; m.acc.sg"
+    },
+    {
+     "surface": "puraskṛtya",
+     "gloss": "having-placed-first",
+     "grounds": "absolutive indicating prior action",
+     "morph": "gerund; root kṛ"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "refers to the practitioner",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "niddhir",
+     "gloss": "accomplishment",
+     "grounds": "desired ritual success",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation of arising",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jāyate",
+     "gloss": "arises",
+     "grounds": "comes into being",
+     "morph": "3.sg.pres.middle; root jan"
+    }
+   ],
+   "question": "Why does accomplishment fail when the śakti-mantra is prioritized first?",
+   "premises": [
+    "The śakti-mantra is placed first",
+    "Accomplishment is sought by the practitioner",
+    "Prioritizing it prevents accomplishment from arising"
+   ],
+   "inference": "Placing the śakti-mantra first obstructs the attainment of accomplishment.",
+   "uncertainties": [
+    "niddhir may be a variant spelling of siddhir"
+   ],
+   "plain_english": "If one places the śakti-mantra first, accomplishment does not arise for him."
+  },
+  {
+   "verse": 3727,
+   "rows": [
+    {
+     "surface": "yoginīpūjanaṃ",
+     "gloss": "yoginī-worship",
+     "grounds": "ritual worship of yoginīs",
+     "morph": "compound: yoginī+pūjanam; n.nom.sg"
+    },
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that context",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pradhānaṃ",
+     "gloss": "primary",
+     "grounds": "of foremost importance",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "kulapūjanam",
+     "gloss": "kula-worship",
+     "grounds": "ritual worship of the kula",
+     "morph": "compound: kula+pūjanam; n.nom.sg"
+    }
+   ],
+   "question": "Which form of worship holds primary importance in that ritual context?",
+   "premises": [
+    "Yoginī-worship is performed there",
+    "Kula-worship is performed there",
+    "Kula-worship is declared primary"
+   ],
+   "inference": "In that context, kula-worship is the principal form of worship.",
+   "uncertainties": [],
+   "plain_english": "There, the worship of the yoginīs is primary as kula-worship."
+  },
+  {
+   "verse": 3728,
+   "rows": [
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "in the same manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulatithau",
+     "gloss": "on-kula-lunar-day",
+     "grounds": "a lunar day designated as kula",
+     "morph": "compound: kula+tithau; f.loc.sg"
+    },
+    {
+     "surface": "durgā",
+     "gloss": "Durgā",
+     "grounds": "the goddess Durgā",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "pūjitā",
+     "gloss": "worshipped",
+     "grounds": "having been honored ritually",
+     "morph": "f.nom.sg.past-passive-participle; root pūj"
+    },
+    {
+     "surface": "varadāyinī",
+     "gloss": "boon-giving",
+     "grounds": "bestower of desired boons",
+     "morph": "compound: vara+dāyinī; f.nom.sg"
+    }
+   ],
+   "question": "What result follows from worshipping Durgā on a kula lunar day?",
+   "premises": [
+    "Durgā is worshipped on a kula lunar day",
+    "Such worship is ritually effective",
+    "Durgā becomes a giver of boons"
+   ],
+   "inference": "Worshipping Durgā on a kula lunar day makes her grant boons.",
+   "uncertainties": [],
+   "plain_english": "Likewise, when worshipped on a kula lunar day, Durgā becomes a giver of boons."
+  },
+  {
+   "verse": 3729,
+   "rows": [
+    {
+     "surface": "bhauma",
+     "gloss": "Mars-day",
+     "grounds": "Tuesday, day of Mars",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "śukro",
+     "gloss": "Venus-day",
+     "grounds": "Friday, day of Venus",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "kulākhyau",
+     "gloss": "called-kula",
+     "grounds": "designated as kula",
+     "morph": "compound: kula+ākhyau; m.nom.du"
+    },
+    {
+     "surface": "hi",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "budhavāraḥ",
+     "gloss": "Wednesday",
+     "grounds": "day of Mercury",
+     "morph": "compound: budha+vāraḥ; m.nom.sg"
+    },
+    {
+     "surface": "kulākulaḥ",
+     "gloss": "kula-akula",
+     "grounds": "designated as both kula and akula",
+     "morph": "compound: kula+akulaḥ; m.nom.sg"
+    }
+   ],
+   "question": "How are Tuesday, Friday, and Wednesday classified within the kula system?",
+   "premises": [
+    "Tuesday and Friday are named kula",
+    "Wednesday is named kula-akula",
+    "These classifications guide ritual timing"
+   ],
+   "inference": "Tuesday and Friday are kula, while Wednesday is kula-akula.",
+   "uncertainties": [],
+   "plain_english": "Indeed, Tuesday and Friday are called kula, and Wednesday is called kula-akula."
+  },
+  {
+   "verse": 3730,
+   "rows": [
+    {
+     "surface": "viṣamāḥ",
+     "gloss": "uneven",
+     "grounds": "odd-numbered lunar days",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākulāḥ",
+     "gloss": "akula",
+     "grounds": "classified as akula",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "sarvāḥ",
+     "gloss": "all",
+     "grounds": "without exception",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "śeṣāḥ",
+     "gloss": "remaining",
+     "grounds": "the other lunar days",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tithayaḥ",
+     "gloss": "lunar-days",
+     "grounds": "tithis of the lunar calendar",
+     "morph": "f.nom.pl"
+    },
+    {
+     "surface": "kulāḥ",
+     "gloss": "kula",
+     "grounds": "classified as kula",
+     "morph": "f.nom.pl"
+    }
+   ],
+   "question": "How are uneven and remaining lunar days classified as akula or kula?",
+   "premises": [
+    "All uneven lunar days are akula",
+    "All remaining lunar days are kula",
+    "This classification applies to tithis"
+   ],
+   "inference": "Uneven lunar days are akula, and the remaining lunar days are kula.",
+   "uncertainties": [],
+   "plain_english": "All the uneven lunar days are akula, and all the remaining lunar days are kula."
+  },
+  {
+   "verse": 3731,
+   "rows": [
+    {
+     "surface": "kulāni",
+     "gloss": "kula",
+     "grounds": "classified as kula",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "sam",
+     "gloss": "even",
+     "grounds": "even-numbered lunar mansions",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "adhiṣṇyāni",
+     "gloss": "lunar-mansions",
+     "grounds": "nakṣatras",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "śeṣāṇi",
+     "gloss": "remaining",
+     "grounds": "the other lunar mansions",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ākulāni",
+     "gloss": "akula",
+     "grounds": "classified as akula",
+     "morph": "n.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "How are even and remaining lunar mansions classified as kula or akula?",
+   "premises": [
+    "Even lunar mansions are kula",
+    "Remaining lunar mansions are akula",
+    "This classification applies to nakṣatras"
+   ],
+   "inference": "Even lunar mansions are kula, and the remaining ones are akula.",
+   "uncertainties": [],
+   "plain_english": "The even lunar mansions are kula, and the remaining ones are akula."
+  },
+  {
+   "verse": 3732,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulavārādikaṃ",
+     "gloss": "kula-day-and-so-forth",
+     "grounds": "kula days and related times",
+     "morph": "compound: kula+vāra+ādikam; n.acc.sg"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "after understanding",
+     "morph": "gerund; root jñā"
+    },
+    {
+     "surface": "sādhakaḥ",
+     "gloss": "practitioner",
+     "grounds": "the ritual adept",
+     "morph": "m.nom.sg"
+    },
+    {
+     "surface": "karma",
+     "gloss": "rite",
+     "grounds": "ritual action",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "kuryāt",
+     "gloss": "should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative.active; root kṛ"
+    }
+   ],
+   "question": "What should a practitioner do after knowing the kula days and related times?",
+   "premises": [
+    "Kula days and related times can be known",
+    "The practitioner understands these classifications",
+    "Ritual action depends on proper timing"
+   ],
+   "inference": "After knowing the kula times, the practitioner should perform the rite.",
+   "uncertainties": [],
+   "plain_english": "Thus, having known the kula days and so forth, the practitioner should perform the rite."
+  },
+  {
+   "verse": 3733,
+   "rows": [
+    {
+     "surface": "māṃsapradhāna",
+     "gloss": "meat-principal",
+     "grounds": "having meat as the main element",
+     "morph": "compound: māṃsa+pradhāna; n.nom.sg"
+    },
+    {
+     "surface": "naivedyaṃ",
+     "gloss": "food-offering",
+     "grounds": "offering presented to the deity",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "sandhyākāle",
+     "gloss": "at-twilight-time",
+     "grounds": "during the twilight period",
+     "morph": "compound: sandhyā+kāle; m.loc.sg"
+    },
+    {
+     "surface": "nivedayet",
+     "gloss": "one-should-offer",
+     "grounds": "prescriptive injunction to present",
+     "morph": "3.sg.optative.causative.active; root nī"
+    }
+   ],
+   "question": "When and how should a meat-principal food offering be presented?",
+   "premises": [
+    "A food offering is to be made",
+    "The offering is principally meat",
+    "Twilight is the prescribed time"
+   ],
+   "inference": "One should offer a meat-principal food offering at twilight.",
+   "uncertainties": [],
+   "plain_english": "One should offer a food offering consisting principally of meat at twilight."
+  },
+  {
+   "verse": 3734,
+   "rows": [
+    {
+     "surface": "tada",
+     "gloss": "then",
+     "grounds": "at that time",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "maṅgalaṃ",
+     "gloss": "auspiciousness",
+     "grounds": "favorable outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "for that practitioner",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "anyathā",
+     "gloss": "otherwise",
+     "grounds": "in a different manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kulabhūṣaṇa",
+     "gloss": "O-kula-ornament",
+     "grounds": "vocative address to the adept",
+     "morph": "compound: kula+bhūṣaṇa; m.voc.sg"
+    }
+   ],
+   "question": "Under what condition does auspiciousness arise for the practitioner addressed as kula-ornament?",
+   "premises": [
+    "Auspiciousness is sought by the practitioner",
+    "The prescribed timing is observed",
+    "Deviation prevents auspiciousness"
+   ],
+   "inference": "Auspiciousness arises only when the offering is made at the proper time, not otherwise.",
+   "uncertainties": [],
+   "plain_english": "Only then is there auspiciousness for him, not otherwise, O ornament of the kula."
+  },
+  {
+   "verse": 3735,
+   "rows": [
+    {
+     "surface": "śivārāveṇa",
+     "gloss": "by-jackal-cry",
+     "grounds": "the howling sound of a jackal",
+     "morph": "compound: śivā+rāveṇa; m.inst.sg"
+    },
+    {
+     "surface": "tasya",
+     "gloss": "of-him",
+     "grounds": "belonging to that practitioner",
+     "morph": "pron.m.gen.sg"
+    },
+    {
+     "surface": "āśu",
+     "gloss": "quickly",
+     "grounds": "without delay",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaṃ",
+     "gloss": "all",
+     "grounds": "everything",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "naśyati",
+     "gloss": "perishes",
+     "grounds": "is destroyed or lost",
+     "morph": "3.sg.pres.active; root naś"
+    },
+    {
+     "surface": "niścitam",
+     "gloss": "certainly",
+     "grounds": "without doubt",
+     "morph": "n.nom.sg.past-passive-participle; root niś-ci"
+    }
+   ],
+   "question": "What consequence follows for the practitioner when a jackal cries?",
+   "premises": [
+    "A jackal's cry occurs",
+    "The cry affects the practitioner's situation",
+    "Total loss follows quickly and certainly"
+   ],
+   "inference": "The cry of a jackal certainly causes all of the practitioner's gains to perish quickly.",
+   "uncertainties": [],
+   "plain_english": "By the cry of a jackal, all of his gains quickly perish, without doubt."
+  },
+  {
+   "verse": 3736,
+   "rows": [
+    {
+     "surface": "gṛhītvā",
+     "gloss": "having-taken",
+     "grounds": "having seized or received",
+     "morph": "gerund; root grah"
+    },
+    {
+     "surface": "śāpam",
+     "gloss": "curse",
+     "grounds": "a malediction",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "ādāya",
+     "gloss": "having-received",
+     "grounds": "having taken up",
+     "morph": "gerund; root dā"
+    },
+    {
+     "surface": "śivā",
+     "gloss": "jackal",
+     "grounds": "the female jackal",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "roditi",
+     "gloss": "cries",
+     "grounds": "howls or wails",
+     "morph": "3.sg.pres.active; root rud"
+    },
+    {
+     "surface": "nirjane",
+     "gloss": "in-solitude",
+     "grounds": "in a deserted place",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "What is the jackal understood to be doing when crying in solitude?",
+   "premises": [
+    "A jackal cries in a solitary place",
+    "The cry is linked to taking a curse",
+    "The act has ritual significance"
+   ],
+   "inference": "The jackal in solitude is understood as crying after taking up a curse.",
+   "uncertainties": [
+    "The exact sense of taking and receiving a curse is ambiguous"
+   ],
+   "plain_english": "Having taken up a curse, the jackal cries in a solitary place."
+  },
+  {
+   "verse": 3737,
+   "rows": [
+    {
+     "surface": "tatra",
+     "gloss": "there",
+     "grounds": "in that place or moment",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sarvaśaktīnāṃ",
+     "gloss": "of-all-powers",
+     "grounds": "of all the śaktis",
+     "morph": "compound: sarva+śaktīnām; f.gen.pl"
+    },
+    {
+     "surface": "prītiḥ",
+     "gloss": "delight",
+     "grounds": "pleasure or satisfaction",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "paramadurlabhā",
+     "gloss": "supremely-rare",
+     "grounds": "extremely difficult to obtain",
+     "morph": "compound: parama+durlabhā; f.nom.sg"
+    }
+   ],
+   "question": "What rare opportunity arises there for pleasing all the śaktis?",
+   "premises": [
+    "A specific moment or place is indicated",
+    "All śaktis can be pleased there",
+    "Such delight is supremely rare"
+   ],
+   "inference": "In that very situation, the supremely rare delight of all śaktis arises.",
+   "uncertainties": [],
+   "plain_english": "There indeed arises the delight of all the śaktis, which is supremely rare."
+  },
+  {
+   "verse": 3738,
+   "rows": [
+    {
+     "surface": "tena",
+     "gloss": "therefore",
+     "grounds": "for that reason",
+     "morph": "pron.n.inst.sg"
+    },
+    {
+     "surface": "sarvaprayatnena",
+     "gloss": "with-all-effort",
+     "grounds": "with utmost exertion",
+     "morph": "compound: sarva+prayatnena; m.inst.sg"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "obligatory to perform",
+     "morph": "n.nom.sg.future-passive-participle; root kṛ"
+    },
+    {
+     "surface": "pūjanaṃ",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "mahat",
+     "gloss": "great",
+     "grounds": "extensive or important",
+     "morph": "n.nom.sg"
+    }
+   ],
+   "question": "What level of effort is required to perform the great worship?",
+   "premises": [
+    "A rare opportunity for delight exists",
+    "Great worship is prescribed",
+    "Maximum effort is enjoined"
+   ],
+   "inference": "Therefore, great worship must be performed with all possible effort.",
+   "uncertainties": [],
+   "plain_english": "Therefore, great worship should be performed with every effort."
+  },
+  {
+   "verse": 3739,
+   "rows": [
+    {
+     "surface": "śubhāśubhāni",
+     "gloss": "auspicious-inauspicious",
+     "grounds": "favorable and unfavorable",
+     "morph": "compound: śubha+aśubhāni; n.acc.pl"
+    },
+    {
+     "surface": "karmāṇi",
+     "gloss": "actions",
+     "grounds": "deeds or rites",
+     "morph": "n.acc.pl"
+    },
+    {
+     "surface": "vicintya",
+     "gloss": "having-considered",
+     "grounds": "after careful reflection",
+     "morph": "gerund; root cint"
+    },
+    {
+     "surface": "balim",
+     "gloss": "offering",
+     "grounds": "ritual oblation",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "āharet",
+     "gloss": "one-should-present",
+     "grounds": "prescriptive injunction to offer",
+     "morph": "3.sg.optative.active; root hṛ"
+    }
+   ],
+   "question": "What must be considered before presenting a ritual offering?",
+   "premises": [
+    "Actions may be auspicious or inauspicious",
+    "An offering is to be presented",
+    "Consideration of actions is required beforehand"
+   ],
+   "inference": "One should present the offering only after considering auspicious and inauspicious actions.",
+   "uncertainties": [],
+   "plain_english": "Having considered auspicious and inauspicious actions, one should present the offering."
+  },
+  {
+   "verse": 3740,
+   "rows": [
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhujyate",
+     "gloss": "is-enjoyed",
+     "grounds": "is consumed or accepted",
+     "morph": "3.sg.pres.passive; root bhuj"
+    },
+    {
+     "surface": "vatsa",
+     "gloss": "O-child",
+     "grounds": "vocative address",
+     "morph": "m.voc.sg"
+    },
+    {
+     "surface": "tadā",
+     "gloss": "then",
+     "grounds": "in that case",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śubhaṃ",
+     "gloss": "auspicious",
+     "grounds": "favorable outcome",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "would-be",
+     "grounds": "would come to be",
+     "morph": "3.sg.optative.active; root bhū"
+    }
+   ],
+   "question": "What outcome follows if the presented offering is not accepted or enjoyed?",
+   "premises": [
+    "An offering is presented",
+    "The offering may not be enjoyed",
+    "Auspiciousness depends on acceptance"
+   ],
+   "inference": "If the offering is not enjoyed, then there would be no auspicious outcome.",
+   "uncertainties": [
+    "bhujyate could imply consumption by a being or ritual acceptance"
+   ],
+   "plain_english": "If it is not enjoyed, O child, then there would indeed be no auspicious result."
+  },
+  {
+   "verse": 3741,
+   "rows": [
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "in this manner",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "jñātvā",
+     "gloss": "having-known",
+     "grounds": "after understanding",
+     "morph": "gerund; root jñā"
+    },
+    {
+     "surface": "mahādeva",
+     "gloss": "O-great-god",
+     "grounds": "vocative address to Mahādeva",
+     "morph": "compound: mahā+deva; m.voc.sg"
+    },
+    {
+     "surface": "śāntisvastyanaṃ",
+     "gloss": "peace-welfare-rite",
+     "grounds": "rite for peace and well-being",
+     "morph": "compound: śānti+svastyayanam; n.acc.sg"
+    },
+    {
+     "surface": "caret",
+     "gloss": "one-should-perform",
+     "grounds": "prescriptive injunction",
+     "morph": "3.sg.optative.active; root car"
+    }
+   ],
+   "question": "What rite should be performed after understanding these ritual signs and outcomes?",
+   "premises": [
+    "The preceding signs and outcomes are understood",
+    "Peace and welfare are desired",
+    "A specific rite addresses this need"
+   ],
+   "inference": "Having understood this, one should perform the rite for peace and welfare.",
+   "uncertainties": [],
+   "plain_english": "Thus knowing this, O Mahādeva, one should perform the rite for peace and welfare."
+  },
+  {
+   "verse": 3742,
+   "rows": [
+    {
+     "surface": "kimvā",
+     "gloss": "or",
+     "grounds": "alternative conjunction",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pakṣipataṅgādi",
+     "gloss": "bird-insect-and-so-forth",
+     "grounds": "birds, insects, and similar creatures",
+     "morph": "compound: pakṣi+pataṅga+ādi; n.nom.sg"
+    },
+    {
+     "surface": "darśane",
+     "gloss": "on-seeing",
+     "grounds": "upon the sight of",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "eva",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kārayet",
+     "gloss": "one-should-cause",
+     "grounds": "one should have it performed",
+     "morph": "3.sg.optative.causative.active; root kṛ"
+    }
+   ],
+   "question": "Should the ritual be performed when birds, insects, or similar creatures are seen?",
+   "premises": [
+    "Birds, insects, and similar creatures may be seen",
+    "Such sightings affect ritual suitability",
+    "The rite should not be caused in that case"
+   ],
+   "inference": "One should not have the rite performed upon seeing birds, insects, or the like.",
+   "uncertainties": [],
+   "plain_english": "Or, upon seeing birds, insects, and the like, one should certainly not have it performed."
+  },
+  {
+   "verse": 3743,
+   "rows": [
+    {
+     "surface": "niśchidramaṇḍape",
+     "gloss": "in-flawless-pavilion",
+     "grounds": "in a pavilion without openings or flaws",
+     "morph": "compound: niśchidra+maṇḍape; m.loc.sg"
+    },
+    {
+     "surface": "vāpi",
+     "gloss": "or",
+     "grounds": "alternative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyaṃ",
+     "gloss": "to-be-done",
+     "grounds": "to be performed",
+     "morph": "n.nom.sg.future-passive-participle; root kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "sannidhau",
+     "gloss": "in-presence",
+     "grounds": "in the presence of others",
+     "morph": "m.loc.sg"
+    }
+   ],
+   "question": "Where must the ritual not be performed despite an apparently suitable pavilion?",
+   "premises": [
+    "A flawless pavilion may seem suitable",
+    "The presence of others is a factor",
+    "The rite is prohibited in such presence"
+   ],
+   "inference": "The rite should not be performed in the presence of others, even in a flawless pavilion.",
+   "uncertainties": [],
+   "plain_english": "It should not be performed in a flawless pavilion, nor in the presence of others."
+  },
+  {
+   "verse": 3744,
+   "rows": [
+    {
+     "surface": "prakāśāt",
+     "gloss": "from-exposure",
+     "grounds": "from being revealed or made public",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "mṛtyulābhaḥ",
+     "gloss": "death-attainment",
+     "grounds": "attainment of death or ruin",
+     "morph": "compound: mṛtyu+lābhaḥ; m.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "would occur",
+     "morph": "3.sg.optative.active; root as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prakāśyaṃ",
+     "gloss": "to-be-revealed",
+     "grounds": "to be made public",
+     "morph": "n.nom.sg.future-passive-participle; root prakāś"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What danger arises from exposing the ritual, and what rule follows from it?",
+   "premises": [
+    "Exposure of the ritual is possible",
+    "Exposure leads to death or ruin",
+    "The ritual must never be revealed"
+   ],
+   "inference": "Because exposure brings ruin, the ritual must never be revealed.",
+   "uncertainties": [
+    "mṛtyulābhaḥ may mean literal death or severe spiritual harm"
+   ],
+   "plain_english": "From exposure, death would result; therefore it must never be revealed."
+  },
+  {
+   "verse": 3745,
+   "rows": [
+    {
+     "surface": "gopanāt",
+     "gloss": "from-concealment",
+     "grounds": "despite being hidden",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "yadi",
+     "gloss": "if",
+     "grounds": "conditional particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "becoming visible or known",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "syāt",
+     "gloss": "would-be",
+     "grounds": "would occur",
+     "morph": "3.sg.optative.active; root as"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "guptiḥ",
+     "gloss": "secrecy",
+     "grounds": "effective concealment",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "sā",
+     "gloss": "that",
+     "grounds": "that concealment",
+     "morph": "pron.f.nom.sg"
+    },
+    {
+     "surface": "vidhīyate",
+     "gloss": "is-prescribed",
+     "grounds": "is enjoined as valid",
+     "morph": "3.sg.pres.passive; root vi-dhā"
+    }
+   ],
+   "question": "When is concealment not considered properly prescribed despite attempts to hide the ritual?",
+   "premises": [
+    "Concealment is attempted",
+    "Manifestation may still occur",
+    "True secrecy requires non-manifestation"
+   ],
+   "inference": "If manifestation occurs despite concealment, that is not prescribed as true secrecy.",
+   "uncertainties": [],
+   "plain_english": "If manifestation occurs despite concealment, that is not regarded as proper secrecy."
+  },
+  {
+   "verse": 3746,
+   "rows": [
+    {
+     "surface": "varaṃ",
+     "gloss": "better",
+     "grounds": "preferable alternative",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "pūjā",
+     "gloss": "worship",
+     "grounds": "ritual worship",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kartavyā",
+     "gloss": "to-be-done",
+     "grounds": "to be performed",
+     "morph": "f.nom.sg.future-passive-participle; root kṛ"
+    },
+    {
+     "surface": "na",
+     "gloss": "not",
+     "grounds": "negation",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vyaktiḥ",
+     "gloss": "manifestation",
+     "grounds": "exposure or revelation",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "kadācana",
+     "gloss": "ever",
+     "grounds": "at any time",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "What is preferable when worship cannot be performed without risking exposure?",
+   "premises": [
+    "Worship may risk manifestation",
+    "Exposure is forbidden",
+    "Omitting worship avoids exposure"
+   ],
+   "inference": "It is better not to perform the worship than to allow it to be exposed.",
+   "uncertainties": [],
+   "plain_english": "It is better that the worship not be performed than that it ever be exposed."
+  },
+  {
+   "verse": 3747,
+   "rows": [
+    {
+     "surface": "sparśanāt",
+     "gloss": "from-touch",
+     "grounds": "by physical contact",
+     "morph": "n.abl.sg"
+    },
+    {
+     "surface": "campaśāstrī",
+     "gloss": "outcaste-woman",
+     "grounds": "a woman of a marginalized group; term uncertain",
+     "morph": "f.nom.sg"
+    }
+   ],
+   "question": "What ritual consequence is indicated by contact with a campaśāstrī woman?",
+   "premises": [
+    "Physical contact is mentioned",
+    "A campaśāstrī woman is involved",
+    "The fragment implies a ritual consequence"
+   ],
+   "inference": "Contact with a campaśāstrī woman is presented as ritually significant, though the consequence is unstated here.",
+   "uncertainties": [
+    "The verse is fragmentary and the consequence of contact is not stated",
+    "The exact identity or status denoted by campaśāstrī is uncertain"
+   ],
+   "plain_english": "From the touch of a campaśāstrī woman..."
+  },
+  {
+   "verse": 3748,
+   "rows": [
+    {
+     "surface": "mūlādi",
+     "gloss": "from-root-and-so-forth",
+     "grounds": "beginning from the root center",
+     "morph": "compound: mūla+ādi; n.nom.sg"
+    },
+    {
+     "surface": "brahmarandhrāntaṃ",
+     "gloss": "up-to-brahma-aperture",
+     "grounds": "ending at the crown aperture",
+     "morph": "compound: brahmarandhra+antam; n.acc.sg"
+    },
+    {
+     "surface": "kulaṃ",
+     "gloss": "kula",
+     "grounds": "the kula principle or path",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "dhyātvā",
+     "gloss": "having-meditated",
+     "grounds": "after visualizing or contemplating",
+     "morph": "gerund; root dhyai"
+    },
+    {
+     "surface": "guruṃ",
+     "gloss": "guru",
+     "grounds": "the spiritual teacher",
+     "morph": "m.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-remember",
+     "grounds": "prescriptive injunction to recollect",
+     "morph": "3.sg.optative.active; root smṛ"
+    }
+   ],
+   "question": "What meditative sequence should be followed before remembering the guru?",
+   "premises": [
+    "The kula is to be meditated upon",
+    "The meditation spans from root to brahma-aperture",
+    "The guru is to be remembered afterward"
+   ],
+   "inference": "One should meditate on the kula from the root to the brahma-aperture and then remember the guru.",
+   "uncertainties": [],
+   "plain_english": "Having meditated on the kula from the root up to the brahma-aperture, one should remember the guru."
+  },
+  {
+   "verse": 3749,
+   "rows": [
+    {
+     "surface": "kulasthānaṃ",
+     "gloss": "kula-place",
+     "grounds": "the place associated with the kula",
+     "morph": "compound: kula+sthānam; n.acc.sg"
+    },
+    {
+     "surface": "samāśritya",
+     "gloss": "having-resorted-to",
+     "grounds": "having gone to and relied upon",
+     "morph": "gerund; root śri"
+    },
+    {
+     "surface": "snānārthaṃ",
+     "gloss": "for-bathing",
+     "grounds": "for the purpose of ritual bathing",
+     "morph": "compound: snāna+artham; n.acc.sg"
+    },
+    {
+     "surface": "tīrtham",
+     "gloss": "sacred-water",
+     "grounds": "a sacred bathing place or water",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āśrayet",
+     "gloss": "one-should-resort-to",
+     "grounds": "prescriptive injunction to approach",
+     "morph": "3.sg.optative.active; root śri"
+    }
+   ],
+   "question": "Where should one go for ritual bathing after resorting to the kula place?",
+   "premises": [
+    "One resorts to the kula place",
+    "Ritual bathing is required",
+    "A sacred water place is to be approached"
+   ],
+   "inference": "After resorting to the kula place, one should go to a sacred water place for bathing.",
+   "uncertainties": [],
+   "plain_english": "Having resorted to the kula place, one should go to a sacred bathing place for the purpose of bathing."
+  }
+ ]
+}

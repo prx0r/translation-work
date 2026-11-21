@@ -1,0 +1,1117 @@
+{
+ "song": "mukta-m0-p528",
+ "items": [
+  {
+   "verse": 13176,
+   "rows": [
+    {
+     "surface": "sarvavaśaṅkare",
+     "gloss": "all-subduing-auspicious-one",
+     "grounds": "vocative address in mantra",
+     "morph": "compound=voc.sg.f"
+    },
+    {
+     "surface": "svāhā",
+     "gloss": "svaha",
+     "grounds": "mantric oblation particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vāgbījādyo",
+     "gloss": "speech-seed-beginning-with",
+     "grounds": "describes mantra starting with speech-seed; sandhi vāgbīja+ādyaḥ",
+     "morph": "compound=m.nom.sg.m"
+    },
+    {
+     "surface": "nakhārṇakaḥ",
+     "gloss": "nail-letter-ending",
+     "grounds": "describes mantra ending with nail-letter",
+     "morph": "compound=m.nom.sg.m"
+    }
+   ],
+   "question": "What mantra form is specified for the all-subduing auspicious deity?",
+   "premises": [
+    "The deity is addressed as sarvavaśaṅkare.",
+    "The mantra concludes with svāhā.",
+    "The mantra begins with the speech-seed and ends with the nail-letter."
+   ],
+   "inference": "The prescribed mantra for this deity starts with the speech-seed, ends with the nail-letter, and closes with svāhā.",
+   "uncertainties": [
+    "The exact syllables denoted by vāgbīja and nakhārṇa are not spelled out in this verse."
+   ],
+   "plain_english": "To the all-subduing auspicious one, svāhā: the mantra begins with the speech-seed and ends with the nail-letter."
+  },
+  {
+   "verse": 13177,
+   "rows": [
+    {
+     "surface": "devatā",
+     "gloss": "deity",
+     "grounds": "subject of identification",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "tu",
+     "gloss": "indeed",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "laghuśyāmā",
+     "gloss": "light-dark-one",
+     "grounds": "name or form of the deity",
+     "morph": "compound=f.nom.sg"
+    },
+    {
+     "surface": "vāgbījaṃ",
+     "gloss": "speech-seed",
+     "grounds": "object being defined",
+     "morph": "compound=n.nom.sg"
+    },
+    {
+     "surface": "bījam",
+     "gloss": "seed",
+     "grounds": "predicate noun",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "ucyate",
+     "gloss": "is-called",
+     "grounds": "states definition",
+     "morph": "3.sg.pass-pres √vac"
+    }
+   ],
+   "question": "Which deity and seed-syllable are identified in this instruction?",
+   "premises": [
+    "The deity is identified as Laghuśyāmā.",
+    "The speech-seed is named as the seed.",
+    "The verb ucyate marks an explicit definition."
+   ],
+   "inference": "Laghuśyāmā is the deity and the speech-seed is declared to be her seed.",
+   "uncertainties": [
+    "The specific syllable of the speech-seed is not given here."
+   ],
+   "plain_english": "The deity is Laghuśyāmā, and the speech-seed is called the seed."
+  },
+  {
+   "verse": 13178,
+   "rows": [
+    {
+     "surface": "vākpūrvikāṃ",
+     "gloss": "speech-preceded",
+     "grounds": "qualified object of placement",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "ratiṃ",
+     "gloss": "delight",
+     "grounds": "power or aspect to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "prītiṃ",
+     "gloss": "affection",
+     "grounds": "power or aspect to be placed",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "māyādikāṃ",
+     "gloss": "maya-beginning-with",
+     "grounds": "qualified by māyā-seed",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where should delight and affection be ritually placed on the body?",
+   "premises": [
+    "Delight preceded by speech is to be placed on the head.",
+    "Affection beginning with māyā is to be placed in the heart.",
+    "Each placement pairs a specific aspect with a body location."
+   ],
+   "inference": "The practitioner should place speech-preceded delight on the head and māyā-beginning affection in the heart.",
+   "uncertainties": [
+    "The implied verb of placement is carried over from context."
+   ],
+   "plain_english": "Place delight, preceded by speech, on the head, and affection, beginning with māyā, in the heart."
+  },
+  {
+   "verse": 13179,
+   "rows": [
+    {
+     "surface": "icchāśaktiṃ",
+     "gloss": "will-power",
+     "grounds": "first power to be placed",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "jñānaśaktiṃ",
+     "gloss": "knowledge-power",
+     "grounds": "second power to be placed",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "kriyāśaktiṃ",
+     "gloss": "action-power",
+     "grounds": "third power to be placed",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "kramān",
+     "gloss": "in-order",
+     "grounds": "indicates sequential placement",
+     "morph": "m.abl.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-opt √nyas"
+    }
+   ],
+   "question": "In what sequence must the three powers be ritually installed?",
+   "premises": [
+    "The three powers named are will, knowledge, and action.",
+    "The word kramān specifies sequence.",
+    "The verb nyaset commands placement."
+   ],
+   "inference": "One should place will-power, knowledge-power, and action-power in that order.",
+   "uncertainties": [
+    "The specific body locations for these three are not stated in this verse."
+   ],
+   "plain_english": "One should place will-power, knowledge-power, and action-power in sequence."
+  },
+  {
+   "verse": 13180,
+   "rows": [
+    {
+     "surface": "drāṃ",
+     "gloss": "dram",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "drāvaṇaṃ",
+     "gloss": "melting",
+     "grounds": "function associated with the syllable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-opt √nyas"
+    },
+    {
+     "surface": "śīrṣe",
+     "gloss": "on-head",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "drāṃ",
+     "gloss": "dram",
+     "grounds": "seed-syllable repeated",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śoṣaṇam",
+     "gloss": "drying",
+     "grounds": "function associated with the syllable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "āsyake",
+     "gloss": "on-face",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Which functions and locations are assigned to the syllable drāṃ?",
+   "premises": [
+    "The syllable drāṃ is linked with melting on the head.",
+    "The syllable drāṃ is linked with drying on the face.",
+    "The verb nyaset applies to both placements."
+   ],
+   "inference": "One should place drāṃ as melting on the head and drāṃ as drying on the face.",
+   "uncertainties": [],
+   "plain_english": "Place drāṃ as melting on the head, and place drāṃ as drying on the face."
+  },
+  {
+   "verse": 13181,
+   "rows": [
+    {
+     "surface": "sa",
+     "gloss": "sa",
+     "grounds": "seed-syllable",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "utpādanakaṃ",
+     "gloss": "producing",
+     "grounds": "function associated with the syllable",
+     "morph": "n.acc.sg"
+    },
+    {
+     "surface": "pāde",
+     "gloss": "on-foot",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "kuryyāt",
+     "gloss": "one-should-perform",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-opt √kṛ"
+    },
+    {
+     "surface": "ṣaḍaṅgakam",
+     "gloss": "six-limb-ritual",
+     "grounds": "ritual procedure to be performed",
+     "morph": "compound=n.acc.sg"
+    }
+   ],
+   "question": "What placement and ritual procedure follow the previous installations?",
+   "premises": [
+    "The syllable sa is associated with producing on the foot.",
+    "The word tataḥ indicates a subsequent action.",
+    "The practitioner is instructed to perform the six-limb ritual."
+   ],
+   "inference": "After placing sa as producing on the foot, one should perform the six-limb ritual.",
+   "uncertainties": [],
+   "plain_english": "Place sa as producing on the foot; then one should perform the six-limb ritual."
+  },
+  {
+   "verse": 13182,
+   "rows": [
+    {
+     "surface": "āṃkṣābrāhmīkanyakāyai",
+     "gloss": "am-ksha-brahmi-maiden",
+     "grounds": "mantra formula addressed to Brāhmī maiden",
+     "morph": "compound=f.dat.sg"
+    },
+    {
+     "surface": "namaḥ",
+     "gloss": "obeisance",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mūrdhni",
+     "gloss": "on-head",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "pravinyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-opt pra-vi-√nyas"
+    }
+   ],
+   "question": "Where is the obeisance to the Brāhmī maiden to be placed?",
+   "premises": [
+    "The formula names āṃ, kṣā, and the Brāhmī maiden.",
+    "The formula ends with namaḥ.",
+    "The placement location is the head."
+   ],
+   "inference": "One should place the obeisance to the Brāhmī maiden on the head.",
+   "uncertainties": [
+    "The internal parsing of the mantra syllables is based on the fused token."
+   ],
+   "plain_english": "One should place 'āṃ kṣā, obeisance to the Brāhmī maiden' on the head."
+  },
+  {
+   "verse": 13183,
+   "rows": [
+    {
+     "surface": "kūṃ-hāṃ kaumārīkanyakāyai",
+     "gloss": "kum-ham-kaumari-maiden",
+     "grounds": "mantra formula addressed to Kaumārī maiden",
+     "morph": "compound=f.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "reverential formula; sandhi form of namaḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣāṃsake",
+     "gloss": "on-right-shoulder",
+     "grounds": "location of placement",
+     "morph": "m.loc.sg"
+    },
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-opt √nyas"
+    }
+   ],
+   "question": "Where is the obeisance to the Kaumārī maiden to be placed?",
+   "premises": [
+    "The formula names kūṃ, hāṃ, and the Kaumārī maiden.",
+    "The formula ends with namo.",
+    "The placement location is the right shoulder."
+   ],
+   "inference": "One should place the obeisance to the Kaumārī maiden on the right shoulder.",
+   "uncertainties": [],
+   "plain_english": "One should place 'kūṃ hāṃ, obeisance to the Kaumārī maiden' on the right shoulder."
+  },
+  {
+   "verse": 13184,
+   "rows": [
+    {
+     "surface": "oṃ sāṃ cendrāṇīkanyāyai",
+     "gloss": "om-sam-indrani-maiden",
+     "grounds": "mantra formula addressed to Indrāṇī maiden; sandhi ca+indrāṇī",
+     "morph": "compound=f.dat.sg"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "dakṣiṇapārśvake",
+     "gloss": "on-right-side",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the obeisance to the Indrāṇī maiden to be placed?",
+   "premises": [
+    "The formula names oṃ, sāṃ, and the Indrāṇī maiden.",
+    "The formula ends with namo.",
+    "The placement location is the right side."
+   ],
+   "inference": "The obeisance to the Indrāṇī maiden should be placed on the right side.",
+   "uncertainties": [
+    "The verb of placement is implied from the preceding verses."
+   ],
+   "plain_english": "Place 'oṃ sāṃ, obeisance to the Indrāṇī maiden' on the right side."
+  },
+  {
+   "verse": 13185,
+   "rows": [
+    {
+     "surface": "aḥ lāmuktvā",
+     "gloss": "ah-lam-having-said",
+     "grounds": "mantra syllables followed by utterance",
+     "morph": "compound=(indecl.)"
+    },
+    {
+     "surface": "mahālakṣmīkanyāyai",
+     "gloss": "mahalakshmi-maiden",
+     "grounds": "addressed deity",
+     "morph": "compound=f.dat.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "namo",
+     "gloss": "obeisance",
+     "grounds": "reverential formula",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "hṛdi",
+     "gloss": "in-heart",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    }
+   ],
+   "question": "Where is the obeisance to the Mahālakṣmī maiden to be placed?",
+   "premises": [
+    "The formula includes aḥ and lām followed by the Mahālakṣmī maiden.",
+    "The formula ends with namo.",
+    "The placement location is the heart."
+   ],
+   "inference": "The obeisance to the Mahālakṣmī maiden should be placed in the heart.",
+   "uncertainties": [
+    "The verb of placement is implied from context."
+   ],
+   "plain_english": "Having uttered 'aḥ lām', place 'obeisance to the Mahālakṣmī maiden' in the heart."
+  },
+  {
+   "verse": 13186,
+   "rows": [
+    {
+     "surface": "bhrūmadhye",
+     "gloss": "between-eyebrows",
+     "grounds": "first body location",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "kaṇṭhahṛnnābhi",
+     "gloss": "throat-heart-navel",
+     "grounds": "compound listing body locations",
+     "morph": "compound=(indecl.)"
+    },
+    {
+     "surface": "mūlādhārāṃtareṣu",
+     "gloss": "root-support-intervals",
+     "grounds": "locations including intervals up to root support",
+     "morph": "compound=n.loc.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which bodily locations are enumerated for subsequent placements?",
+   "premises": [
+    "The verse lists the space between the eyebrows.",
+    "It lists throat, heart, and navel.",
+    "It includes the intervals up to the root support."
+   ],
+   "inference": "The specified locations are between the eyebrows, throat, heart, navel, and the intervals up to the root support.",
+   "uncertainties": [
+    "The items to be placed at these locations are specified in the next verse."
+   ],
+   "plain_english": "Between the eyebrows, at the throat, heart, navel, and in the intervals up to the root support."
+  },
+  {
+   "verse": 13187,
+   "rows": [
+    {
+     "surface": "vaśitā",
+     "gloss": "mastery",
+     "grounds": "one of the eight siddhis",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "atha",
+     "gloss": "then",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "prākāmyaṃ",
+     "gloss": "irresistible-will",
+     "grounds": "one of the eight siddhis",
+     "morph": "n.nom.sg"
+    },
+    {
+     "surface": "prāptir",
+     "gloss": "attainment",
+     "grounds": "one of the eight siddhis; sandhi prāptiḥ",
+     "morph": "f.nom.sg"
+    },
+    {
+     "surface": "iti",
+     "gloss": "thus",
+     "grounds": "marks enumeration",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "aṣṭasiddhayaḥ",
+     "gloss": "eight-siddhis",
+     "grounds": "collective term for the powers",
+     "morph": "compound=f.nom.pl"
+    }
+   ],
+   "question": "Which powers are identified as part of the eight siddhis?",
+   "premises": [
+    "The verse names mastery, irresistible will, and attainment.",
+    "The term iti indicates an enumeration.",
+    "These are grouped as the eight siddhis."
+   ],
+   "inference": "Mastery, irresistible will, and attainment are included among the eight siddhis to be placed.",
+   "uncertainties": [
+    "Only three of the eight siddhis are explicitly named in this verse."
+   ],
+   "plain_english": "Mastery, irresistible will, and attainment are thus among the eight siddhis."
+  },
+  {
+   "verse": 13188,
+   "rows": [
+    {
+     "surface": "ke",
+     "gloss": "ke",
+     "grounds": "seed-syllable or mantra element",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhāle",
+     "gloss": "on-forehead",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "netrayor",
+     "gloss": "in-two-eyes",
+     "grounds": "location of placement",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "vaktre",
+     "gloss": "in-mouth",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "karṇayoḥ",
+     "gloss": "in-two-ears",
+     "grounds": "location of placement",
+     "morph": "n.loc.du"
+    },
+    {
+     "surface": "kakudi",
+     "gloss": "on-nape",
+     "grounds": "location of placement",
+     "morph": "f.loc.sg"
+    },
+    {
+     "surface": "dhruvam",
+     "gloss": "certainly",
+     "grounds": "emphatic particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which upper body locations are specified for the placement of ke?",
+   "premises": [
+    "The element ke is to be placed.",
+    "The locations listed are forehead, eyes, mouth, ears, and nape.",
+    "The word dhruvam emphasizes certainty."
+   ],
+   "inference": "One should certainly place ke on the forehead, in the two eyes, in the mouth, in the two ears, and on the nape.",
+   "uncertainties": [
+    "The verb of placement is implied from context."
+   ],
+   "plain_english": "Certainly place ke on the forehead, in the two eyes, in the mouth, in the two ears, and on the nape."
+  },
+  {
+   "verse": 13189,
+   "rows": [
+    {
+     "surface": "sukeśīṃ",
+     "gloss": "sukeshi",
+     "grounds": "name of a goddess or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "mañjughoṣāṃ",
+     "gloss": "manjughosha",
+     "grounds": "name of a goddess or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "mahāraṅgavatīṃ",
+     "gloss": "maharangavati",
+     "grounds": "name of a goddess or power",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "tathā",
+     "gloss": "likewise",
+     "grounds": "continuative particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which female figures are named for placement in this sequence?",
+   "premises": [
+    "The verse names Sukeśī.",
+    "It names Mañjughoṣā.",
+    "It names Mahāraṅgavatī."
+   ],
+   "inference": "Sukeśī, Mañjughoṣā, and Mahāraṅgavatī are to be placed in this sequence.",
+   "uncertainties": [
+    "Their specific locations are given in the surrounding verses."
+   ],
+   "plain_english": "Likewise place Sukeśī, Mañjughoṣā, and Mahāraṅgavatī."
+  },
+  {
+   "verse": 13190,
+   "rows": [
+    {
+     "surface": "vidyādharakimpuruṣapiśācānāṃ",
+     "gloss": "vidyadhara-kimpurusha-pishacha",
+     "grounds": "groups of beings associated with placements",
+     "morph": "compound=m.gen.pl"
+    },
+    {
+     "surface": "krameṇa",
+     "gloss": "in-sequence",
+     "grounds": "indicates ordered placement",
+     "morph": "m.inst.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Which classes of beings are included in the sequential placement?",
+   "premises": [
+    "The verse names vidyādharas, kimpuruṣas, and piśācas.",
+    "The word krameṇa indicates sequence.",
+    "These are linked to the ongoing placement instructions."
+   ],
+   "inference": "The vidyādharas, kimpuruṣas, and piśācas are to be included in sequence.",
+   "uncertainties": [
+    "The exact forms or mantras for these beings are not specified here."
+   ],
+   "plain_english": "And in sequence, those of the vidyādharas, kimpuruṣas, and piśācas."
+  },
+  {
+   "verse": 13191,
+   "rows": [
+    {
+     "surface": "guhye",
+     "gloss": "in-private-part",
+     "grounds": "location of placement",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ādhāradeśe",
+     "gloss": "in-support-region",
+     "grounds": "location of placement",
+     "morph": "compound=m.loc.sg"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "klīmādyāśca",
+     "gloss": "klim-beginning-with-and",
+     "grounds": "mantras beginning with klīm; sandhi ādyāḥ+ca",
+     "morph": "compound=f.nom.pl"
+    },
+    {
+     "surface": "namontakāḥ",
+     "gloss": "namas-ending-with",
+     "grounds": "mantras ending with namas; sandhi namaḥ+antakāḥ",
+     "morph": "compound=f.nom.pl"
+    }
+   ],
+   "question": "What mantra forms and locations are prescribed in this placement step?",
+   "premises": [
+    "The locations named are the private part and the support region.",
+    "The mantras begin with klīm.",
+    "The mantras end with namas."
+   ],
+   "inference": "Mantras beginning with klīm and ending with namas should be placed in the private part and the support region.",
+   "uncertainties": [
+    "The verb of placement is implied from context."
+   ],
+   "plain_english": "In the private part and in the support region, place those beginning with klīm and ending with namas."
+  },
+  {
+   "verse": 13192,
+   "rows": [
+    {
+     "surface": "nyaset",
+     "gloss": "one-should-place",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-opt √nyas"
+    },
+    {
+     "surface": "sandhiṣu",
+     "gloss": "in-joints",
+     "grounds": "locations of placement",
+     "morph": "m.loc.pl"
+    },
+    {
+     "surface": "sāgreṣu",
+     "gloss": "with-tips",
+     "grounds": "includes tips of limbs",
+     "morph": "compound=m.loc.pl"
+    },
+    {
+     "surface": "karayoḥ",
+     "gloss": "of-hands",
+     "grounds": "specifies limbs",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "pādayor",
+     "gloss": "of-feet",
+     "grounds": "specifies limbs",
+     "morph": "m.loc.du"
+    },
+    {
+     "surface": "api",
+     "gloss": "also",
+     "grounds": "inclusive particle",
+     "morph": "(indecl.)"
+    }
+   ],
+   "question": "Where on the hands and feet should the placements be made?",
+   "premises": [
+    "The instruction is to place in the joints.",
+    "The joints include the tips.",
+    "The locations apply to both hands and feet."
+   ],
+   "inference": "One should place in the joints, including the tips, of the hands and also of the feet.",
+   "uncertainties": [],
+   "plain_english": "One should place in the joints, including the tips, of the hands and also of the feet."
+  },
+  {
+   "verse": 13193,
+   "rows": [
+    {
+     "surface": "karasya",
+     "gloss": "of-hand",
+     "grounds": "specifies whose joints",
+     "morph": "m.gen.sg"
+    },
+    {
+     "surface": "sandhayaḥ",
+     "gloss": "joints",
+     "grounds": "subject being defined",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "ete",
+     "gloss": "these",
+     "grounds": "refers to previously mentioned joints",
+     "morph": "m.nom.pl"
+    },
+    {
+     "surface": "sphigjānu",
+     "gloss": "hip-knee",
+     "grounds": "additional joints to be included",
+     "morph": "compound=(indecl.)"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "tato",
+     "gloss": "then",
+     "grounds": "continuative particle; sandhi tataḥ",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "bhavet",
+     "gloss": "should-be",
+     "grounds": "states inclusion or result",
+     "morph": "3.sg.act-opt √bhū"
+    }
+   ],
+   "question": "Which additional joints are included in the placement scheme?",
+   "premises": [
+    "The verse refers to the joints of the hand.",
+    "It adds hip and knee.",
+    "The verb bhavet indicates these should be included."
+   ],
+   "inference": "These joints of the hand, and then the hip and knee, should be included.",
+   "uncertainties": [
+    "The exact mapping of hand joints to hip and knee is compressed in the verse."
+   ],
+   "plain_english": "These are the joints of the hand, and then the hip and knee should also be included."
+  },
+  {
+   "verse": 13194,
+   "rows": [
+    {
+     "surface": "nyāsān",
+     "gloss": "placements",
+     "grounds": "ritual acts completed",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "evaṃ",
+     "gloss": "thus",
+     "grounds": "refers to preceding method",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "vidhān",
+     "gloss": "of-this-kind",
+     "grounds": "qualifies the placements",
+     "morph": "m.acc.pl"
+    },
+    {
+     "surface": "kṛtvā",
+     "gloss": "having-done",
+     "grounds": "completes prior step",
+     "morph": "(indecl.) gerund √kṛ"
+    },
+    {
+     "surface": "laghuśyāmāṃ",
+     "gloss": "light-dark-one",
+     "grounds": "deity to be visualized",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "tataḥ",
+     "gloss": "then",
+     "grounds": "marks next step",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-visualize",
+     "grounds": "meditative instruction",
+     "morph": "3.sg.act-opt √smṛ"
+    }
+   ],
+   "question": "What meditative act follows after completing the prescribed placements?",
+   "premises": [
+    "The placements of this kind have been performed.",
+    "The word tataḥ indicates the next step.",
+    "Laghuśyāmā is the object of visualization."
+   ],
+   "inference": "After performing these placements, one should visualize Laghuśyāmā.",
+   "uncertainties": [],
+   "plain_english": "Having thus performed these placements, one should then visualize Laghuśyāmā."
+  },
+  {
+   "verse": 13195,
+   "rows": [
+    {
+     "surface": "māṇikyābharaṇāṃ",
+     "gloss": "ruby-ornamented",
+     "grounds": "describes the deity's adornment",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "smerāṃ",
+     "gloss": "smiling",
+     "grounds": "describes the deity's expression",
+     "morph": "f.acc.sg"
+    },
+    {
+     "surface": "nīlotpalanibhāmbarām",
+     "gloss": "blue-lotus-like-garment",
+     "grounds": "describes the deity's garment",
+     "morph": "compound=f.acc.sg"
+    }
+   ],
+   "question": "How is Laghuśyāmā visually described for meditation?",
+   "premises": [
+    "She is adorned with rubies.",
+    "She is smiling.",
+    "Her garment resembles a blue lotus."
+   ],
+   "inference": "Laghuśyāmā should be visualized as ruby-ornamented, smiling, and wearing a garment like a blue lotus.",
+   "uncertainties": [],
+   "plain_english": "Visualize her adorned with rubies, smiling, and wearing a garment like a blue lotus."
+  },
+  {
+   "verse": 13196,
+   "rows": [
+    {
+     "surface": "tryakṣāṃ",
+     "gloss": "three-eyed",
+     "grounds": "describes the deity",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "tāmbūlapūrṇāsyāṃ",
+     "gloss": "betel-filled-mouth",
+     "grounds": "describes the deity's mouth",
+     "morph": "compound=f.acc.sg"
+    },
+    {
+     "surface": "smaret",
+     "gloss": "one-should-visualize",
+     "grounds": "meditative instruction",
+     "morph": "3.sg.act-opt √smṛ"
+    },
+    {
+     "surface": "ca",
+     "gloss": "and",
+     "grounds": "connective particle",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "śaśiśekharām",
+     "gloss": "moon-crested",
+     "grounds": "describes the deity's head ornament",
+     "morph": "compound=f.acc.sg"
+    }
+   ],
+   "question": "What further attributes define the visualization of Laghuśyāmā?",
+   "premises": [
+    "She is three-eyed.",
+    "Her mouth is filled with betel.",
+    "She is moon-crested."
+   ],
+   "inference": "One should visualize Laghuśyāmā as three-eyed, with a mouth full of betel, and moon-crested.",
+   "uncertainties": [],
+   "plain_english": "One should visualize her as three-eyed, her mouth full of betel, and crowned with the moon."
+  },
+  {
+   "verse": 13197,
+   "rows": [
+    {
+     "surface": "trikoṇe",
+     "gloss": "in-triangle",
+     "grounds": "part of the ritual diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "pañcakoṇeṣu",
+     "gloss": "in-five-corners",
+     "grounds": "part of the ritual diagram",
+     "morph": "compound=n.loc.pl"
+    },
+    {
+     "surface": "dale",
+     "gloss": "in-petal",
+     "grounds": "part of the ritual diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "ṣoḍaśapatrake",
+     "gloss": "in-sixteen-petalled",
+     "grounds": "part of the ritual diagram",
+     "morph": "compound=n.loc.sg"
+    }
+   ],
+   "question": "Which parts of the ritual diagram are specified for worship?",
+   "premises": [
+    "The verse names the triangle.",
+    "It names the five corners.",
+    "It names the sixteen-petalled lotus."
+   ],
+   "inference": "Worship is to be performed in the triangle, the five corners, and the sixteen-petalled lotus.",
+   "uncertainties": [
+    "The deities or powers placed in each part are specified in the following verses."
+   ],
+   "plain_english": "In the triangle, in the five corners, and in the sixteen-petalled lotus."
+  },
+  {
+   "verse": 13198,
+   "rows": [
+    {
+     "surface": "icchājñānakriyāśaktīs",
+     "gloss": "will-knowledge-action-powers",
+     "grounds": "powers to be worshipped; sandhi śaktīḥ",
+     "morph": "compound=f.acc.pl"
+    },
+    {
+     "surface": "tad",
+     "gloss": "then",
+     "grounds": "connective particle; sandhi tad",
+     "morph": "(indecl.)"
+    },
+    {
+     "surface": "agre",
+     "gloss": "at-tip",
+     "grounds": "location in the diagram",
+     "morph": "n.loc.sg"
+    },
+    {
+     "surface": "bāṇapañcakam",
+     "gloss": "arrow-five",
+     "grounds": "group of five arrows to be worshipped",
+     "morph": "compound=n.acc.sg"
+    }
+   ],
+   "question": "Which powers and objects are placed in the diagram's specified areas?",
+   "premises": [
+    "The powers of will, knowledge, and action are named.",
+    "The five arrows are named.",
+    "The word agre indicates placement at the tip or front."
+   ],
+   "inference": "The will, knowledge, and action powers and the five arrows should be worshipped in the indicated areas.",
+   "uncertainties": [
+    "The exact mapping of each item to each diagram part is compressed."
+   ],
+   "plain_english": "Worship the powers of will, knowledge, and action, and then the five arrows at the tip."
+  },
+  {
+   "verse": 13199,
+   "rows": [
+    {
+     "surface": "aṇimādyāśca",
+     "gloss": "anima-beginning-with-and",
+     "grounds": "siddhis beginning with aṇimā; sandhi ādyāḥ+ca",
+     "morph": "compound=f.nom.pl"
+    },
+    {
+     "surface": "yantrāgre",
+     "gloss": "at-yantra-tip",
+     "grounds": "location in the ritual diagram",
+     "morph": "compound=n.loc.sg"
+    },
+    {
+     "surface": "yajet",
+     "gloss": "one-should-worship",
+     "grounds": "ritual instruction",
+     "morph": "3.sg.act-opt √yaj"
+    },
+    {
+     "surface": "ṣoḍaśapatrake",
+     "gloss": "in-sixteen-petalled",
+     "grounds": "location in the ritual diagram",
+     "morph": "compound=n.loc.sg"
+    }
+   ],
+   "question": "Where should the siddhis beginning with aṇimā be worshipped?",
+   "premises": [
+    "The siddhis beginning with aṇimā are the objects of worship.",
+    "The locations named are the tip of the yantra and the sixteen-petalled lotus.",
+    "The verb yajet commands worship."
+   ],
+   "inference": "One should worship the siddhis beginning with aṇimā at the tip of the yantra and in the sixteen-petalled lotus.",
+   "uncertainties": [],
+   "plain_english": "One should worship the siddhis beginning with aṇimā at the tip of the yantra and in the sixteen-petalled lotus."
+  }
+ ]
+}
