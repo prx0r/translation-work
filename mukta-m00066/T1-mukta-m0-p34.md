@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[somewhat](kiṃcit) [slimy-attained](piccilitāpannaṃ) [somewhat](kiṃcit) [very-subtle-bubble](utsūkṣmabudbudam)
+[gloss](kiṃcit) [gloss](piccilitāpannaṃ) [gloss](kiṃcidutsūkṣmabudbudam)
 
 ## mukta-m0-p34-v827
-[extremely-bliss-making](atyānaṃdakaraṃ) [goddess](devi) [by-touch-alone](sparśanādeva) [of-enjoyers](bhoginām)
+[gloss](atyānaṃdakaraṃ) [gloss](devi) [gloss](sparśanādeva) [gloss](bhoginām)
 
 ## mukta-m0-p34-v828
-[red-named](śoṇābhidhā) [great-tirtha](mahātīrtha) [illusion-sorrow-drying](mayaṃśokaviśoṣaṇam)
+[gloss](śoṇābhidhā) [gloss](mahātīrtha) [gloss](mayaṃśokaviśoṣaṇam)
 
 ## mukta-m0-p34-v829
-[linga-formed](liṃgarūpiṇam) [great-rage-flame-matted-hair-tangle](uddāmarāgajvālājaṭākulam)
+[gloss](liṃgarūpiṇamuddāmarāgajvālājaṭākulam)
 
 ## mukta-m0-p34-v830
-[great-linga](mahāliṃga) [great-lord](maheśāna) [with-juices](rasaiścaṃdravatī) [with-states](bhavaiḥ)
+[gloss](mahāliṃga) [gloss](maheśāna) [gloss](rasaiścaṃdravatī) [gloss](bhavaiḥ)
 
 ## mukta-m0-p34-v831
-[of-devotee](bhaktasyeśānabhāvaṃ) [and](ca) [sun-principle-subjugation](sūryatatvavaśīkṛtim)
+[gloss](bhaktasyeśānabhāvaṃ) [gloss](ca) [gloss](sūryatatvavaśīkṛtim)
 
 ## mukta-m0-p34-v832
-[of-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far-sight](dūradṛṣṭim) [O-goddess](adāṃbike)
+[gloss](iṃdriyāṇāṃ) [gloss](prabalatāṃ) [gloss](dūradṛṣṭimadāṃbike)
 
 ## mukta-m0-p34-v833
-[grants](prayacchatyakhilāṃ) [all-siddhi](siddhiṃ) [tejas](taijasīṃ) [world-shining](viśvabhāsinīm)
+[gloss](prayacchatyakhilāṃ) [gloss](siddhiṃ) [gloss](taijasīṃ) [gloss](viśvabhāsinīm)
 
 ## mukta-m0-p34-v834
-[by-this](anayā) [fifth-offering](paṃcamāhutyā) [five-faced-equal](paṃcānanasamo) [becomes](bhavet)
+[gloss](anayā) [gloss](paṃcamāhutyā) [gloss](paṃcānanasamo) [gloss](bhavet)
 
 ## mukta-m0-p34-v835
-[at-fifth-offering-time](paṃcamāhutikāle) [but](tu) [messenger-state](dūtyavasthā) [is-reported](nivedyate)
+[gloss](paṃcamāhutikāle) [gloss](tu) [gloss](dūtyavasthā) [gloss](nivedyate)
 
 ## mukta-m0-p34-v836
-[repeatedly](muhuḥ) [eyelash](pakṣma) [entry](praveśaśca) [of-two-eye-pupils](netratārakayordvayoḥ)
+[gloss](muhuḥ) [gloss](pakṣma) [gloss](praveśaśca) [gloss](netratārakayordvayoḥ)
 
 ## mukta-m0-p34-v837
-[with-longing](utkaṇṭhataḥ) [pigeon-woman](kapotastrīgalagadgadabhāṣitam)
+[gloss](utkaṇṭhataḥ) [gloss](kapotastrīgalagadgadabhāṣitam)
 
 ## mukta-m0-p34-v838
-[enough-garland-arrangement](alamālāparacanaṃ) [again-enthusiasm](punarutsāha) [speech](bhāṣaṇam)
+[gloss](alamālāparacanaṃ) [gloss](punarutsāha) [gloss](bhāṣaṇam)
 
 ## mukta-m0-p34-v839
-[not](na) [anything](kiṃcidapi) [I-know](jānāmi) [born](jātāhaṃ) [your](tava) [servant](kiṃkarī)
+[gloss](na) [gloss](kiṃcidapi) [gloss](jānāmi) [gloss](jātāhaṃ) [gloss](tava) [gloss](kiṃkarī)
 
 ## mukta-m0-p34-v840
-[I](ahaṃ) [your-only-refuge-protector](tvadekaśaraṇārakṣarakṣa) [firmly](dṛḍhaṃjahi)
+[gloss](ahaṃ) [gloss](tvadekaśaraṇārakṣarakṣa) [gloss](dṛḍhaṃjahi)
 
 ## mukta-m0-p34-v841
-[somewhat](kiṃcidyonyavasādepi) [of-mind](manasaḥ) [very-great-effort](sumahodyamaḥ)
+[gloss](kiṃcidyonyavasādepi) [gloss](manasaḥ) [gloss](sumahodyamaḥ)
 
 ## mukta-m0-p34-v842
-[in-all](sarvesvapi) [and](ca) [in-limbs](gātreṣu) [intoxicating-fragrance-arising](madagaṃdhasamudbhavaḥ)
+[gloss](sarvesvapi) [gloss](ca) [gloss](gātreṣu) [gloss](madagaṃdhasamudbhavaḥ)
 
 ## mukta-m0-p34-v843
-[love-afflicted](kāmārtta) [osprey-throat](kurarīkaṃṭha) [like-cry](rutavanmaṇitadhvaniḥ)
+[gloss](kāmārtta) [gloss](kurarīkaṃṭha) [gloss](rutavanmaṇitadhvaniḥ)
 
 ## mukta-m0-p34-v844
-[thus-etc](ityādayo) [qualities](guṇāḥ) [are-stated](proktāḥ) [in-fifth-offering](paṃcamyāmāhutau) [again](punaḥ)
+[gloss](ityādayo) [gloss](guṇāḥ) [gloss](proktāḥ) [gloss](paṃcamyāmāhutau) [gloss](punaḥ)
 
 ## mukta-m0-p34-v845
-[a-ra-pañcaka](arapaṃcaka) [joined](saṃyuktā) [svastika-shaped](svastikākāraśālinī)
+[gloss](arapaṃcaka) [gloss](saṃyuktā) [gloss](svastikākāraśālinī)
 
 ## mukta-m0-p34-v846
-[bearing](bibhratī) [moon-cool](caṃdraśiśirātasyā) [fish-nectar](mastyamṛtaṃ) [of-moon](vidhoḥ)
+[gloss](bibhratī) [gloss](caṃdraśiśirātasyā) [gloss](mastyamṛtaṃ) [gloss](vidhoḥ)
 
 ## mukta-m0-p34-v847
-[needing-rubbing](mardanāpekṣaṇī) [may-be](bhūyāstasmādeyā) [long-flowing](ciradravā)
+[gloss](mardanāpekṣaṇī) [gloss](bhūyāstasmādeyā) [gloss](ciradravā)
 
 ## mukta-m0-p34-v848
-[of-linga-lord](liṃgeśvarasyaiva) [city](puramuddhatairūrdhvatāṇḍavaiḥ)
+[gloss](liṃgeśvarasyaiva) [gloss](puramuddhatairūrdhvatāṇḍavaiḥ)
 
 ## mukta-m0-p34-v849
-[flows](sravatyamṛtavicchardamaiṃdavaṃ) [joy-increasing](harṣavardhanam)
+[gloss](sravatyamṛtavicchardamaiṃdavaṃ) [gloss](harṣavardhanam)
 
 ## mukta-m0-p34-v850
-[its](tasya) [own-form](svarūpamadhunā) [distinctly](vivicyakathayasvame) [me](me)
+[gloss](tasya) [gloss](svarūpamadhunā) [gloss](vivicyakathayasvame)
