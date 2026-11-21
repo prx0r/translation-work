@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[dharmika](dhārmikāḥ) [ca](ca) [eva](eva) [rajan](rājānaḥ) [purna](pūrṇa) [sapta](saptāṅga) [samayuta](saṃyutāḥ)
+righteous-and-also kings full-seven-limbs-endowed
 
 ## mukta-m0-p83-v2052
-[vanchita](vāñchitaṃ) [samavapnoti](samavāpnoti) [mandala](maṇḍalāt) [masa](māsataḥ) [api](api) [va](vā)
+desired obtains from-mandala monthly-or
 
 ## mukta-m0-p83-v2053
-[prag-ukta](prāgukta) [raksha](rakṣa) [vayu](vāyu) [shakra](śakra) [vahni](vahni) [isha](īśa) [varuna](varuṇa) [dikshu](dikṣu) [sthapana](sthāpanāt) [iti](iti) [artha](arthaḥ)
+previously-said-raksha-vayu-shakra-fire-ishvara-varuna-directions placement-thus-meaning
 
 ## mukta-m0-p83-v2054
-[murti-saptaka](mūrtisaptakaṃ) [dakini-adi](ḍā)rākinyādīnāṃ) [shana](ṣaṇāṃ) [devi](devyāḥ) [ca](ca) [iti](iti) [shesha](śeṣaḥ)
+form-seven (da)raakini-etc six goddess-and-thus remainder
 
 ## mukta-m0-p83-v2055
-[klesha](kleśāḥ) [vidya-yantra-anubhava](vidyāyantrānubhāvataḥ) [ubhaya](ubhayoḥ) [samarthya](sāmarthyāt)
+afflictions | vidya-yantra-power from both abilities
 
 ## mukta-m0-p83-v2056
-[sushumna-madhya-stha](suṣumnāmadhyasaṃstheṣu) [shad-adhara-ambuja](ṣaḍādhārāmbujeṣu) [tah](tāḥ)
+sushumna-middle-situated six-support-lotuses those
 
 ## mukta-m0-p83-v2057
-[bahis](bahiśca) [mandale](maṇḍale) [puja](pūjā) [anugraha-anigraha-atmika](anugrahānigrahātmikā(m))
+outside-and mandala worship-grace-punishment-nature
 
 ## mukta-m0-p83-v2058
-[dhumra-varna-ambuja](dhūmravarṇāmbuje) [devi](devīṃ) [dakini](ḍākinīṃ) [tat-samakriti](tatsamākṛtim)
+smoke-colored-lotus goddess dakini that-form
 
 ## mukta-m0-p83-v2059
-[taya](tayā) [sarvajnata-siddhi](sarvajñatāsiddhir) [bhavati](bhavatyeva) [na](na) [samshaya](saṃśayaḥ)
+by-her omniscience-accomplishment becomes-indeed no doubt
 
 ## mukta-m0-p83-v2060
-[prapnoti](prāpnoti)
+obtains
 
 ## mukta-m0-p83-v2061
-[deha-sthiti](deheṣu sthitim) [tah](tāḥ) [devi](devyaḥ) [iti](ityatrānvayaḥ) [dakini-adi](dākinyādaya) [iti](iti) [shesha](śeṣaḥ)
+in-bodies residence | those goddesses thus-here-connection dakini-etc thus remainder
 
 ## mukta-m0-p83-v2062
-[mula-devata-samana](mūladevatāsamānaḥ)
+root-deity-same
 
 ## mukta-m0-p83-v2063
-[rakini](rākinīṃ) [dvadasha-dala](dvādaśadale) [ka-adi-dha-anta-akshara-atmabhih](kādiḍhāntākṣarātmabhiḥ)
+rakini twelve-petaled ka-to-dha-letters-nature
 
 ## mukta-m0-p83-v2064
-[manipura-samjne](maṇipūrakasaṃjñe) [ca](ca) [nabhi-sthe](nābhisthe) [dasha-patrake](daśapatrake)
+manipura-named and navel-situated ten-petaled
 
 ## mukta-m0-p83-v2065
-[lakini](lākinīṃ) [pujayet](pūjayed) [vairivi](vairivi) [jaya-shri-samriddhaye](jayaśrīsamṛddhaye)
+lakini worship for-enemy victory-prosperity
 
 ## mukta-m0-p83-v2066
-[va-adi-shad-varna-shaktibhih](vādiṣaḍvarṇaśaktībhir) [avrita](āvṛtāṃ) [dakini](ḍākinīṃ) [yajet](yajet)
+va-six-letters-shaktis-surrounded dakini worship
 
 ## mukta-m0-p83-v2067
-[adhara-akhya](ādhārākhye) [catuh-patre](catuṣpatre) [suvarna-abhe](suvarṇābhe) [saroruhe](saroruhe)
+support-named four-petaled gold-colored lotus
 
 ## mukta-m0-p83-v2068
-[payu-dhvaja-antara](pāyudhvajāntarā) [tryasra-madhya](tryasramadhye) [teja](tejaḥ) [samanvita](samanvitām)
+anus-flag-between triangle-middle fire-endowed
 
 ## mukta-m0-p83-v2069
-[sevita](sevitāṃ) [ha-ksha-shaktibhyam](hakṣaśaktibhyāṃ) [hakini](hākinīṃ) [pujayet](pūjayettatha)
+served ha-ksha-shaktis hakini worship-thus
 
 ## mukta-m0-p83-v2070
-[vishva-srishti-sthiti-dhvamsa-shakti-dama-apya-yatnatah](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ)
+universe-creation-preservation-destruction-power-giver-effortlessly
 
 ## mukta-m0-p83-v2071
-[pujana](pūjanaṃ) [sarva-duhkha-arti-nashana](sarvaduḥkhārtināśanaṃ) [sampada-aspadam](sampadāspadam)
+worship all-suffering-pain-destroyer wealth-abode
 
 ## mukta-m0-p83-v2072
-[taya](tayā) [pujaya](pūjayā) [dhvaja-mule](dhvajamūle) [mehana-mule](mehanamūle)
+by-her worship ||62||... flag-root urethra-root
 
 ## mukta-m0-p83-v2073
-[samanvita](samanvitāṃ) [kundalini-tejo-rupa](kuṇḍalinītejorūpām) [tatha](tathā) [samuccaye](samuccaye)
+endowed kundalini-fire-form ||68|| thus collection
 
 ## mukta-m0-p83-v2074
-[bhuta-bhavishya-vartamana-karya-jnana-samarthya-pradayini](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīm) [iti](iti) [artha](arthaḥ)
+past-future-present-deed-knowledge-power-giver-thus-meaning
 
 ## mukta-m0-p83-v2075
-[madhya](madhye) [ca](ca) [tatra](tatra) [tam](tāṃ) [nitya-anitya](nityānityā) [gandha-adi](gandhādinā) [arcayet](arcayet)
+middle and there her eternal-non-eternal incense-etc worship
