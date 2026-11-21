@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[kameshvari-manu](kāmeśvarīmanuṃ) [ca](ca) [eva](eva) [pancavidya-manu-smaret](paṃcavidyāmanusmaret)
+[kāmeśvarīmanuṃ](kāmeśvarīmanuṃ) [ca](ca) [eva](eva) [paṃcavidyāmanusmaret](paṃcavidyāmanusmaret)
 
 ## mukta-m0-p39-v952
-[anena](anenāpi) [ca](ca) [yogena](yogena) [yadi](yadi) [sa](sā) [na](na) [hi](hi) [vidravet](vidravet)
+[anenāpi](anenāpi) [ca](ca) [yogena](yogena) [yadi](yadi) [sā](sā) [na](na) [hi](hi) [vidravet](vidravet)
 
 ## mukta-m0-p39-v953
-[prayunjita](prāyuṃjīta) [vidhanena](vidhānena) [japan](japannamṛtanāyikām) [amrita-nayika](amṛtanāyikām)
+[prāyuṃjīta](prāyuṃjīta) [vidhānena](vidhānena) [japannamṛtanāyikām](japannamṛtanāyikām)
 
 ## mukta-m0-p39-v954
-[ghattali-lakaya](ghaṭṭālīlakayāmātaḥ) [kshobhayet](kṣobhayenmadanālayam) [madana-alaya](madanālayam)
+[ghaṭṭālīlakayāmātaḥ](ghaṭṭālīlakayāmātaḥ) [kṣobhayenmadanālayam](kṣobhayenmadanālayam)
 
 ## mukta-m0-p39-v955
-[tena](tena) [dratyati-cira](dratyatīcīra) [drava-candra-kala-sira](dravācaṃdrakalāsirā)
+[tena](tena) [dratyatīcīra](dratyatīcīra) [dravācaṃdrakalāsirā](dravācaṃdrakalāsirā)
 
 ## mukta-m0-p39-v956
-[atigupta-maha-vidya](atiguptamahāvidyā) [svarupa](svarūpāḥ) [shaila-nandini](śailanaṃdinī)
+[atiguptamahāvidyā](atiguptamahāvidyā) [svarūpāḥ](svarūpāḥ) [śailanaṃdinī](śailanaṃdinī)
 
 ## mukta-m0-p39-v957
-[yadi](yadi) [satyam](satyaṃ) [jagat-dhata](jagaddhātā) [panca-kritya-dhara](paṃcakṛtyadharaḥ) [shiva](śivaḥ)
+[yadi](yadi) [satyaṃ](satyaṃ) [jagaddhātā](jagaddhātā) [paṃcakṛtyadharaḥ](paṃcakṛtyadharaḥ) [śivaḥ](śivaḥ)
 
 ## mukta-m0-p39-v958
-[yadi](yadi) [satyam](satyaṃ) [samastanam](samastānāṃ) [shastranam](śāstrāṇāṃ) [gati](gatirātmadṛk) [atma-drik](ātmadṛk)
+[yadi](yadi) [satyaṃ](satyaṃ) [samastānāṃ](samastānāṃ) [śāstrāṇāṃ](śāstrāṇāṃ) [gatirātmadṛk](gatirātmadṛk)
 
 ## mukta-m0-p39-v959
-[yadi](yadi) [satyam](satyaṃ) [rati](ratiḥ) [kama](kāmo) [vijayeta](vijayetetvayā) [tvaya](tvayā) [jagat](jagat)
+[yadi](yadi) [satyaṃ](satyaṃ) [ratiḥ](ratiḥ) [kāmo](kāmo) [vijayetetvayā](vijayetetvayā) [jagat](jagat)
 
 ## mukta-m0-p39-v960
-[yadi](yadi) [satyam](satyaṃ) [deha-bhajam](dehabhājāṃ) [sarvesham](sarveṣāṃ) [sukha-da-smara](sukhadaḥsmaraḥ)
+[yadi](yadi) [satyaṃ](satyaṃ) [dehabhājāṃ](dehabhājāṃ) [sarveṣāṃ](sarveṣāṃ) [sukhadaḥsmaraḥ](sukhadaḥsmaraḥ)
 
 ## mukta-m0-p39-v961
-[yadi](yadi) [satyam](satyaṃ) [sudatvam](sudātvaṃ) [ca](ca) [parama-ananda-dayake](paramānaṃdadāyake)
+[yadi](yadi) [satyaṃ](satyaṃ) [sudātvaṃ](sudātvaṃ) [ca](ca) [paramānaṃda](paramānaṃda) [dāyake](dāyake)
 
 ## mukta-m0-p39-v962
-[yadi](yadi) [satyam](satyaṃ) [sarva-pujya](sarvapūjyā) [simhasana](siṃhāsana) [maheshvari](maheśvarī)
+[yadi](yadi) [satyaṃ](satyaṃ) [sarvapūjyā](sarvapūjyā) [siṃhāsana](siṃhāsana) [maheśvarī](maheśvarī)
 
 ## mukta-m0-p39-v963
-[yadi](yadi) [satyam](satyaṃ) [guru-ajna](gurorājñā) [sarvatra-askhalita-udaya](sarvatrāskhalitodayā)
+[yadi](yadi) [satyaṃ](satyaṃ) [gurorājñā](gurorājñā) [sarvatrāskhalitodayā](sarvatrāskhalitodayā)
 
 ## mukta-m0-p39-v964
-[iti](ityaṣṭakārikāpāṭha) [ashtaka-karika-patha](aṣṭakārikāpāṭha) [samantaram](samanaṃtarameva) [eva](eva) [sa](sā)
+[ityaṣṭakārikāpāṭha](ityaṣṭakārikāpāṭha) [samanaṃtarameva](samanaṃtarameva) [sā](sā)
 
 ## mukta-m0-p39-v965
-[tena](tena) [amritena](amṛtena) [shuddhena](śuddhena) [shitlena](śītalena) [laghiyasa](laghīyasā)
+[tenāmṛtena](tenāmṛtena) [śuddhena](śuddhena) [śītalena](śītalena) [laghīyasā](laghīyasā)
 
 ## mukta-m0-p39-v966
-[ganga-udaka-svarupena](gaṃgodakasvarūpeṇa) [tarpayet](tarpayelliṃgapāvakam) [linga-pavaka](liṃgapāvakam)
+[gaṃgodakasvarūpeṇa](gaṃgodakasvarūpeṇa) [tarpayelliṃgapāvakam](tarpayelliṃgapāvakam)
 
 ## mukta-m0-p39-v967
-[idam](idaṃ) [yajna](yajña) [pradana-angam](pradānāṃgamīyaṃ) [kaivalya-paddhati](kaivalyapaddhatiḥ)
+[idaṃ](idaṃ) [yajña](yajña) [pradānāṃgamīyaṃ](pradānāṃgamīyaṃ) [kaivalyapaddhatiḥ](kaivalyapaddhatiḥ)
 
 ## mukta-m0-p39-v968
-[atma-vidya-phalam](ātmavidyāphalaṃ) [ca](ca) [etat](caitadātmavidyāphalaṃ) [atma-vidya-phalam](ātmavidyāphalaṃ) [tu](tvidam) [idam](idam)
+[ātmavidyāphalaṃ](ātmavidyāphalaṃ) [caitadātmavidyāphalaṃ](caitadātmavidyāphalaṃ) [tvidam](tvidam)
 
 ## mukta-m0-p39-v969
-[tena](tena) [sampujita](saṃpūjitaścāsau) [ca](ca) [asau](asau) [bhimatvam](bhīmatvaṃ) [tasya](tasya) [yacchati](yacchati)
+[tena](tena) [saṃpūjitaścāsau](saṃpūjitaścāsau) [bhīmatvaṃ](bhīmatvaṃ) [tasya](tasya) [yacchati](yacchati)
 
 ## mukta-m0-p39-v970
-[sabhakta](sabhaktaḥ) [parama-akasha](paramākāśa) [rupa-nirmala-tam-gata](rūponirmalatāṃgataḥ)
+[sabhaktaḥ](sabhaktaḥ) [paramākāśa](paramākāśa) [rūponirmalatāṃgataḥ](rūponirmalatāṃgataḥ)
 
 ## mukta-m0-p39-v971
-[bhumi-adi](bhūmyādi) [sarva-bhutanam](sarvabhūtānāmavakāśa) [avakasha](avakāśa) [pradasva-yam](pradasvayam)
+[bhūmyādi](bhūmyādi) [sarvabhūtānāmavakāśa](sarvabhūtānāmavakāśa) [pradasvayam](pradasvayam)
 
 ## mukta-m0-p39-v972
-[na](na) [punyaih](puṇyairnna) [na](na) [ca](ca) [papaih](pāpaiśca) [na](na) [dharma-adharma-bhangibhih](dharmādharmabhaṅgibhiḥ)
+[na](na) [puṇyairnna](puṇyairnna) [ca](ca) [pāpaiśca](pāpaiśca) [na](na) [dharmādharmabhaṅgibhiḥ](dharmādharmabhaṅgibhiḥ)
 
 ## mukta-m0-p39-v973
-[na](na) [ca](ca) [apakara-upakaraih](apakāropakāraiśca) [na](na) [daridrya-vibhutibhih](dāridryavibhūtibhiḥ)
+[nāpakāropakāraiśca](nāpakāropakāraiśca) [na](na) [dāridryavibhūtibhiḥ](dāridryavibhūtibhiḥ)
 
 ## mukta-m0-p39-v974
-[na](na) [ca](ca) [bandha-vimokshabhyam](baṃdhavimokṣābhyāṃ) [asp rishta](aspṛṣṭaścitsudhāmayaḥ) [cit-sudha-maya](citsudhāmayaḥ)
+[na](na) [ca](ca) [baṃdhavimokṣābhyāṃ](baṃdhavimokṣābhyāṃ) [aspṛṣṭaścitsudhāmayaḥ](aspṛṣṭaścitsudhāmayaḥ)
 
 ## mukta-m0-p39-v975
-[gandharva-nagara-akaram](gaṃdharvanagarākāramapi) [api](api) [ca](ca) [anubhavati](anubhavatyataḥ) [atah](ataḥ)
+[gaṃdharva](gaṃdharva) [nagarākāramapi](nagarākāramapi) [cānubhavatyataḥ](cānubhavatyataḥ)
