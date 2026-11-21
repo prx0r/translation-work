@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[dharmika](dhārmikāḥ) [ca](ca) [eva](eva) [kings](rājānaḥ) [full](pūrṇa) [seven](saptāṅga) [endowed](saṃyutāḥ)
+[righteous-and-also](dhārmikāścaiva) [kings](rājānaḥ) [full-seven-limbs-endowed](pūrṇasaptāṅgasaṃyutāḥ)
 
 ## mukta-m0-p83-v2052
-[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-mandala](maṇḍalāt) [or](vā) [month](māsataḥ) [api](api)
+[desired](vāñchitaṃ) [obtains](samavāpnoti) [from-circle](maṇḍalāt) [monthly-or](māsato'pi) [or](vā)
 
 ## mukta-m0-p83-v2053
-[previously](prāg) [said](ukta) [raksha](rakṣa) [vayu](vāyu) [indra](śakra) [fire](vahni) [isha](īśa) [varuna](varuṇa) [directions](dikṣu) [placement](sthāpanāt) [ity-artha](ityarthaḥ)
+[previously-said-raksha-vayu-shakra-fire-ishvara-varuna-directions](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [placement-thus-meaning](sthāpanādityarthaḥ)
 
 ## mukta-m0-p83-v2054
-[seven](mūrtisaptakaṃ) [rakini-etc](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess](devyāḥ) [ca](ca) [remainder](śeṣaḥ)
+[form-seven](mūrtisaptakaṃ) [(da)-rakini-etc](ḍārākinyādīnāṃ) [six](ṣaṇāṃ) [goddess-and-thus](devyāśceti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2055
-[afflictions](kleśāḥ) [vidya-yantra](vidyāyantra) [power](anubhāvataḥ) [both](ubhayoḥ) [capability](sāmarthyāt)
+[afflictions](kleśāḥ) [vidya-yantra-power](vidyāyantrānubhāvataḥ) [from-both](ubhayoḥ) [ability](sāmarthyāt)
 
 ## mukta-m0-p83-v2056
-[sushumna-middle](suṣumnāmadhya) [situated](saṃstheṣu) [six](ṣaḍ) [support-lotuses](ādhārāmbujeṣu) [they](tāḥ)
+[sushumna-middle-situated](suṣumnāmadhyasaṃstheṣu) [six-support-lotuses](ṣaḍādhārāmbujeṣu) [those](tāḥ)
 
 ## mukta-m0-p83-v2057
-[outside](bahiḥ) [ca](ca) [mandala](maṇḍale) [worship](pūjā) [grace](anugraha) [restraint](nigraha) [atmika](ātmikām)
+[outside-and](bahiśca) [circle](maṇḍale) [worship-grace-punishment-natured](pūjānugrahānigrahātmikām)
 
 ## mukta-m0-p83-v2058
-[smoke-colored](dhūmravarṇa) [lotus](ambuje) [goddess](devīṃ) [dakini](ḍākinīṃ) [that-form](tatsamākṛtim)
+[smoke-colored-lotus](dhūmravarṇāmbuje) [goddess](devīṃ) [dakini](ḍākinīṃ) [same-form](tatsamākṛtim)
 
 ## mukta-m0-p83-v2059
-[by-her](tayā) [omniscience](sarvajñatā) [siddhi](siddhiḥ) [bhavati](bhavatyeva) [na](na) [doubt](saṃśayaḥ)
+[by-her](tayā) [omniscience-accomplishment](sarvajñatāsiddhiḥ) [becomes-indeed](bhavatyeva) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p83-v2060
 [obtains](prāpnoti)
 
 ## mukta-m0-p83-v2061
-[in-bodies](deheṣu) [residence](sthitim) [they](tāḥ) [goddesses](devyaḥ) [here](ityatrānvayaḥ) [dakini-etc](dākinyādayaḥ) [iti](iti) [remainder](śeṣaḥ)
+[in-bodies](deheṣu) [residence](sthitim) [those](tāḥ) [goddesses](devyaḥ) [here-connection](ityatrānvayaḥ) [dakini-etc](dākinyādayaḥ) [thus](iti) [remainder](śeṣaḥ)
 
 ## mukta-m0-p83-v2062
-[root-deity](mūladevatā) [same](samānaḥ)
+[root-deity-same](mūladevatāsamānaḥ)
 
 ## mukta-m0-p83-v2063
-[rakini](rākinīṃ) [twelve-petaled](dvādaśadale) [ka-to-dha](kādiḍhānta) [letters](akṣarātmabhiḥ)
+[rakini](rākinīṃ) [twelve-petaled](dvādaśadale) [ka-to-dha-letters-nature](kādiḍhāntākṣarātmabhiḥ)
 
 ## mukta-m0-p83-v2064
-[manipura](maṇipūraka) [named](saṃjñe) [ca](ca) [navel](nābhi) [situated](sthe) [ten-petaled](daśapatrake)
+[manipura-named](maṇipūrakasaṃjñe) [and](ca) [navel-situated](nābhisthe) [ten-petaled](daśapatrake)
 
 ## mukta-m0-p83-v2065
-[lakini](lākinīṃ) [worship](pūjayed) [vairivi](vairivi) [victory](jaya) [prosperity](śrī) [increase](samṛddhaye)
+[lakini](lākinīṃ) [worship](pūjayet) [enemy](vairivi) [victory-prosperity-for](jayaśrīsamṛddhaye)
 
 ## mukta-m0-p83-v2066
-[va-etc](vādi) [six](ṣaḍ) [varna](varṇa) [shaktis](śaktībhiḥ) [surrounded](āvṛtāṃ) [dakini](ḍākinīṃ) [yajet](yajet)
+[va-to-six-letters-shaktis-surrounded](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [dakini](ḍākinīṃ) [sacrifice](yajet)
 
 ## mukta-m0-p83-v2067
-[support](ādhāra) [named](ākhye) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
+[support-named](ādhārākhye) [four-petaled](catuṣpatre) [gold-colored](suvarṇābhe) [lotus](saroruhe)
 
 ## mukta-m0-p83-v2068
-[anus-banner](pāyudhvaja) [between](antarā) [triangle](tryasram) [middle](madhye) [tejas](tejaḥ) [endowed](samanvitām)
+[anus-banner-between](pāyudhvajāntarā) [triangle-middle](tryasramadhye) [fire-endowed](tejaḥsamanvitām)
 
 ## mukta-m0-p83-v2069
-[served](sevitāṃ) [ha-ksha](hakṣa) [shaktis](śaktibhyāṃ) [hakini](hākinīṃ) [worship](pūjayet) [tatha](tatha)
+[served](sevitāṃ) [ha-ksha-shaktis-by](hakṣaśaktibhyāṃ) [hakini](hākinīṃ) [worship-thus](pūjayettathā)
 
 ## mukta-m0-p83-v2070
-[universe](viśva) [creation](sṛṣṭi) [maintenance](sthiti) [destruction](dhvaṃsa) [shakti](śakti) [dama](dāma) [apyayatnataḥ](apyayatnataḥ)
+[universe-creation-preservation-destruction-power-giver-effortlessly](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ)
 
 ## mukta-m0-p83-v2071
-[worship](pūjanaṃ) [all](sarva) [suffering](duḥkha) [afflicted](ārti) [destruction](nāśanaṃ) [wealth](sampadā) [seat](spadam)
+[worship](pūjanaṃ) [all-sorrow-pain-destroyer](sarvaduḥkhārtināśanaṃ) [wealth-abode](sampadāspadam)
 
 ## mukta-m0-p83-v2072
-[by-that](tayā) [worship](pūjayā) [banner-root](dhvajamūle) [genital-root](mehanamūle)
+[by-her](tayā) [worship](pūjayā) [banner-root](dhvajamūle) [urethra-root](mehanamūle)
 
 ## mukta-m0-p83-v2073
-[endowed](samanvitāṃ) [kundalini](kuṇḍalinī) [tejas](tejaḥ) [form](rūpām) [tatha](tatha) [samuccaye](samuccaye)
+[endowed](samanvitāṃ) [kundalini-fire-form](kuṇḍalinītejorūpām) [thus](tathā) [in-collection](samuccaye)
 
 ## mukta-m0-p83-v2074
-[past-present-future](bhūtabhaviṣyavartamāna) [action](kārya) [knowledge](jñāna) [capability](sāmarthya) [bestowing](pradāyinīm) [ity-artha](ityarthaḥ)
+[past-future-present-deed-knowledge-power-giver-thus-meaning](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīmityarthaḥ)
 
 ## mukta-m0-p83-v2075
-[middle](madhye) [ca](ca) [there](tatra) [her](tāṃ) [nitya-anitya](nityānityā) [gandha-etc](gandhādinā) [arcayet](arcayet)
+[middle](madhye) [and](ca) [there](tatra) [her](tāṃ) [eternal-non-eternal](nityānityā) [incense-etc](gandhādinā) [worship](arcayet)
