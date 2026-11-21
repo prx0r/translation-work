@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[something](kiṃcit) [slimy-attained](piccilitāpannaṃ) [something](kiṃcid) [very-subtle-bubble](utsūkṣmabudbudam)
+[somewhat](kiṃcit) [slimy+become](piccilita+āpannaṃ) [somewhat](kiṃcid) [raised+very-subtle+bubbles](ut+sūkṣma+budbudam)
 
 ## mukta-m0-p34-v827
-[extremely-bliss-making](atyānaṃdakaraṃ) [goddess](devi) [by-touch-alone](sparśanādeva) [of-enjoyers](bhoginām)
+[very+bliss+causing](ati+ānaṃda+karaṃ) [o-goddess](devi) [from-touch+alone](sparśanāt+eva) [of-enjoyers](bhoginām)
 
 ## mukta-m0-p34-v828
-[named-red](śoṇābhidhā) [great-tirtha](mahātīrtha) [illusion-sorrow-drying](mayaṃśokaviśoṣaṇam)
+[śoṇā+named](śoṇā+abhidhā) [great+holy-place](mahā+tīrtha) [my+sorrow+drying-up](mayaṃ+śoka+viśoṣaṇam)
 
 ## mukta-m0-p34-v829
-[linga-formed](liṃgarūpiṇam) [great-passion-flame-matted-hair-tangled](uddāmarāgajvālājaṭākulam)
+[liṅga+formed](liṃga+rūpiṇam) [fierce+passion+flame+matted-hair+filled](uddāma+rāga+jvālā+jaṭā+ākulam)
 
 ## mukta-m0-p34-v830
-[great-linga](mahāliṃga) [great-lord](maheśāna) [with-juices](rasaiḥ) [moon-like](caṃdravatī) [with-states](bhavaiḥ)
+[great+liṅga](mahā+liṃga) [o-great-lord](mahā+īśāna) [with-essences](rasaiḥ) [moon+possessing](caṃdra+vatī) [you-become](bhavaiḥ)
 
 ## mukta-m0-p34-v831
-[of-devotee](bhaktasya) [ishana-state](īśānabhāvaṃ) [and](ca) [sun-principle-subjugation](sūryatatvavaśīkṛtim)
+[of-devotee](bhaktasya) [lordship+state](īśāna+bhāvaṃ) [and](ca) [sun+principle+subjugation](sūrya+tatva+vaśī+kṛtim)
 
 ## mukta-m0-p34-v832
-[of-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far-sight](dūradṛṣṭim) [O-ambika](adāṃbike)
+[of-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far+vision](dūra+dṛṣṭim) [o-mother](adāṃbike)
 
 ## mukta-m0-p34-v833
-[grants](prayacchati) [all](akhilāṃ) [siddhi](siddhiṃ) [luminous](taijasīṃ) [world-shining](viśvabhāsinīm)
+[it-bestows](prayacchati) [entire](akhilāṃ) [accomplishment](siddhiṃ) [fiery](taijasīṃ) [world+illuminating](viśva+bhāsinīm)
 
 ## mukta-m0-p34-v834
-[by-this](anayā) [fifth-offering](paṃcamāhutyā) [five-faced-equal](paṃcānanasamo) [becomes](bhavet)
+[by-this](anayā) [fifth+oblation](paṃcama+āhutyā) [five+faced+equal](paṃca+ānana+samo) [one-becomes](bhavet)
 
 ## mukta-m0-p34-v835
-[at-fifth-offering-time](paṃcamāhutikāle) [indeed](tu) [messenger-state](dūtyavasthā) [is-reported](nivedyate)
+[fifth+oblation+time](paṃcama+āhuti+kāle) [but](tu) [messenger+state](dūtī+avasthā) [is-reported](nivedyate)
 
 ## mukta-m0-p34-v836
-[repeatedly](muhuḥ) [eyelash](pakṣma) [entry](praveśaḥ) [and](ca) [of-two-eye-pupils](netratārakayordvayoḥ)
+[repeatedly](muhuḥ) [eyelash](pakṣma) [entering](praveśaḥ) [and](ca) [of-eye+pupils+of-two](netra+tārakayoḥ+dvayoḥ)
 
 ## mukta-m0-p34-v837
-[with-longing](utkaṇṭhataḥ) [pigeon-woman](kapotastrī) [throat-gurgling-speech](galagadgadabhāṣitam)
+[from-longing](utkaṇṭhataḥ) [dove+woman+throat+stammering+speech](kapota+strī+gala+gadgada+bhāṣitam)
 
 ## mukta-m0-p34-v838
-[enough-garland-arrangement](alamālāparacanaṃ) [again-enthusiasm](punarutsāha) [speech](bhāṣaṇam)
+[curl+garland+arranging](ala+mālā+paracanaṃ) [again](punar) [enthusiasm+speaking](utsāha+bhāṣaṇam)
 
 ## mukta-m0-p34-v839
-[not](na) [anything](kiṃcidapi) [know](jānāmi) [born](jātā) [I](ahaṃ) [your](tava) [servant](kiṃkarī)
+[not](na) [anything+even](kiṃcid+api) [I-know](jānāmi) [become+I](jātā+ahaṃ) [your](tava) [servant](kiṃkarī)
 
 ## mukta-m0-p34-v840
-[I](ahaṃ) [your-only-refuge-protector](tvadekaśaraṇārakṣarakṣa) [firmly](dṛḍhaṃ) [abandon](jahi)
+[I](ahaṃ) [your+sole+refuge](tvad+eka+śaraṇā) [protect+protect](rakṣa+rakṣa) [firmly+strike](dṛḍhaṃ+jahi)
 
 ## mukta-m0-p34-v841
-[somewhat](kiṃcid) [in-yoni-descent](yonyavasāde) [even](api) [of-mind](manasaḥ) [very-great-effort](sumahodyamaḥ)
+[somewhat](kiṃcid) [yoni+exhaustion+even](yoni+avasāde+api) [of-mind](manasaḥ) [very+great+effort](su+mahā+udyamaḥ)
 
 ## mukta-m0-p34-v842
-[in-all](sarveṣu) [also](api) [in-limbs](gātreṣu) [intoxicating-fragrance-arising](madagaṃdhasamudbhavaḥ)
+[in-all+even](sarveṣu+api) [and](ca) [in-limbs](gātreṣu) [intoxication+scent+arising](mada+gaṃdha+samudbhavaḥ)
 
 ## mukta-m0-p34-v843
-[love-afflicted](kāmārtta) [osprey-throat](kurarīkaṃṭha) [like-cry](rutavan) [jewel-sound](maṇitadhvaniḥ)
+[desire+afflicted](kāma+ārtta) [osprey+throat](kurarī+kaṃṭha) [crying+like+moaning+sound](ruta+vat+maṇita+dhvaniḥ)
 
 ## mukta-m0-p34-v844
-[thus-etc](ityādayo) [qualities](guṇāḥ) [declared](proktāḥ) [in-fifth-offering](paṃcamyāmāhutau) [again](punaḥ)
+[thus+beginning](iti+ādayo) [qualities](guṇāḥ) [declared](proktāḥ) [in-fifth](paṃcamyām) [in-oblation](āhutau) [again](punaḥ)
 
 ## mukta-m0-p34-v845
-[a-fivefold](arapaṃcaka) [joined](saṃyuktā) [swastika-form-possessing](svastikākāraśālinī)
+[spoke+five](ara+paṃcaka) [endowed-with](saṃyuktā) [svastika+shape+possessing](svastika+ākāra+śālinī)
 
 ## mukta-m0-p34-v846
-[bearing](bibhratī) [moon-cool](caṃdraśiśirā) [of-that](tasyā) [fish-nectar](mastyamṛtaṃ) [of-moon](vidhoḥ)
+[bearing](bibhratī) [moon+cool](caṃdra+śiśirāt) [of-her](asyā) [in-head](masti) [nectar](amṛtaṃ) [of-moon](vidhoḥ)
 
 ## mukta-m0-p34-v847
-[needing-rubbing](mardanāpekṣaṇī) [may-be](bhūyāḥ) [therefore-given](tasmādeyā) [long-flowing](ciradravā)
+[rubbing+requiring](mardana+apekṣaṇī) [should-be](bhūyāt) [therefore+to-be-given](tasmāt+deyā) [long+flowing](cira+dravā)
 
 ## mukta-m0-p34-v848
-[of-linga-lord](liṃgeśvarasya) [indeed](eva) [city](puram) [raised](uddhataiḥ) [upward-tandava](ūrdhvatāṇḍavaiḥ)
+[of-liṅga+lord+alone](liṃga+īśvarasya+eva) [before](puram) [by-fierce](uddhataiḥ) [upward+dances](ūrdhva+tāṇḍavaiḥ)
 
 ## mukta-m0-p34-v849
-[flows](sravati) [nectar-vomit](amṛtavicchardam) [lunar](aiṃdavaṃ) [joy-increasing](harṣavardhanam)
+[flows](sravati) [nectar+stream](amṛta+vicchardam) [lunar](aiṃdavaṃ) [joy+increasing](harṣa+vardhanam)
 
 ## mukta-m0-p34-v850
-[its](tasya) [own-form](svarūpam) [now](adhunā) [distinctly-tell](vivicya) [to-me](kathayasva) [me](me)
+[of-that](tasya) [own+form](sva+rūpam) [now](adhunā) [having-distinguished+tell+to-me](vivicya+kathayasva+me)
