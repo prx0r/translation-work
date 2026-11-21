@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[gloss](tarjanyanāmikāparva) [gloss](sapādayavavarjitam)
+[tarjani](tarjani) [anāmikā](anāmikā) [parva](parva) [sa](sa) [pāda](pāda) [yava](yava) [varjita](varjitam)
 
 ## mukta-m0-p30-v727
-[gloss](dvyaṅgulo'ṅguṣṭhakagranthirāsāṃ) [gloss](parvārdhagā) [gloss](nakhāḥ)
+[dvi-aṅgula](dvyaṅgulo) [aṅguṣṭha-ka-granthi](aṅguṣṭhakagranthi) [āsām](āsāṃ) [parva-ardha-ga](parvārdhagā) [nakha](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[gloss](nāsotsedhaḥ) [gloss](savistārodvyaṅgulo) [gloss](dvipuṭaḥ) [gloss](śubhaḥ)
+[nāsa-utsedha](nāsotsedhaḥ) [sa-vistāra](savistāro) [dvi-aṅgula](dvyaṅgulo) [dvi-puṭa](dvipuṭaḥ) [śubha](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[gloss](dvyardhaṃ) [gloss](yavaṃ) [gloss](puṭe) [gloss](sthūle) [gloss](madhye) [gloss](vaśa) [gloss](stribhiryavaḥ)
+[dvi-ardha](dvyardhaṃ) [yava](yavaṃ) [puṭe](puṭe) [sthūle](sthūle) [madhye](madhye) [vaśa](vaśa) [stri-bhiḥ](stribhir) [yava](yavaḥ)
 
 ## mukta-m0-p30-v730
-[gloss](adhe'paro'ṅgulakaṃ) [gloss](tu) [gloss](dvyaṅgule) [gloss](cibukasthitiḥ)
+[adha](adhe) [apara](aparo) [aṅgulaka](aṅgulakaṃ) [tu](tu) [dvi-aṅgule](dvyaṅgule) [cibuka-sthiti](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[gloss](nāsikāmūlapārśve) [gloss](tu) [gloss](locane) [gloss](dvyaṅgulāyate)
+[nāsikā-mūla-pārśve](nāsikāmūlapārśve) [tu](tu) [locane](locane) [dvi-aṅgula-āyate](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[gloss](indīvarābjapatrābhā) [gloss](paṭolaphalavatstriyāḥ)
+[indīvara-abja-patra-ābhā](indīvarābjapatrābhā) [paṭola-phala-vat](paṭolaphalavat) [striyāḥ](striyāḥ)
 
 ## mukta-m0-p30-v733
-[gloss](pañcamāṃśaṃ) [gloss](bhavejjyotiḥ) [gloss](sṛkkaṇīsūtratulyataḥ)
+[pañcama-aṃśa](pañcamāṃśaṃ) [bhavet](bhave) [jyotiḥ](jyotiḥ) [sṛkkaṇī-sūtra-tulyataḥ](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[gloss](ardhāṅgulasamā) [gloss](droṇī) [gloss](sārdhadvyaṅguladīrghatā)
+[ardha-aṅgula-samā](ardhāṅgulasamā) [droṇī](droṇī) [sa-ardha-dvi-aṅgula-dīrghatā](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[gloss](tayora) [gloss](taramātrārdhaṃ) [gloss](striyāṃ) [gloss](yavārdhavistṛte)
+[tayoḥ](tayora) [tara-mātra-ardha](taramātrārdhaṃ) [striyām](striyāṃ) [yava-ardha-vistṛte](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[gloss](karṇau) [gloss](netradayāyāmau) [gloss](tadardhādvistarastayoḥ)
+[karṇau](karṇau) [netra-dayā-āyāmau](netradayāyāmau) [tad-ardha-adhika-vistara](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[gloss](kalārdhaṃ) [gloss](pāśau) [gloss](kuryādyathepsitau)
+[kalā-ardha](kalārdhaṃ) [pāśau](pāśau) [kuryāt](kuryāt) [yathā-ipsita](yathepsitau)
 
 ## mukta-m0-p30-v738
-[gloss](indrasaṅkhyāṅgulaṃ) [gloss](paścātkarṇayorantaraṃ) [gloss](viduḥ)
+[indra-saṅkhyā-aṅgula](indrasaṅkhyāṅgulaṃ) [paścāt](paścāt) [karṇayoḥ](karṇayor) [antara](antaraṃ) [viduḥ](viduḥ)
 
 ## mukta-m0-p30-v739
-[gloss](lalāṭo'ṣṭāṅgulāyāmastryaṅgulaḥ) [gloss](śaṅkha) [gloss](ucyate)
+[lalāṭa-aṣṭa-aṅgula-āyāma](lalāṭo'ṣṭāṅgulāyāma) [tri-aṅgula](tryaṅgulaḥ) [śaṅkha](śaṅkha) [ucyate](ucyate)
 
 ## mukta-m0-p30-v740
-[gloss](saptāṅgulau) [gloss](kapolau) [gloss](tu) [gloss](sāṅgulau) [gloss](sayavocchrayau)
+[sapta-aṅgulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa-aṅgulau](sāṅgulau) [sa-yava-ucchrayau](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[gloss](hanū) [gloss](kalā) [gloss](tradīrghau) [gloss](vdikalaścibukodgamaḥ)
+[hanū](hanū) [kalā](kalā) [tri-dīrghau](tradīrghau) [vdi-kala](vdikala) [cibuka-udgama](cibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[gloss](skandho'ṣṭāṅgulavistārastadāyāmaścatuṣkalā)
+[skandha-aṣṭa-aṅgula-vistāra](skandho'ṣṭāṅgulavistāra) [tad-āyāma](tadāyāma) [catuṣ-kalā](catuṣkalā)
 
 ## mukta-m0-p30-v743
-[gloss](vistāraḥ) [gloss](kūrparastasmādbhūtāṅgulairyavaistathā)
+[vistāra](vistāraḥ) [kūrpara](kūrparas) [tasmāt](tasmāt) [bhūta-aṅgulaiḥ](bhūtāṅgulaiḥ) [yavaiḥ](yavaiḥ) [tathā](tathā)
 
 ## mukta-m0-p30-v744
-[gloss](caturaṅgulavistāro) [gloss](maṇibandhaḥ) [gloss](prakīrtitaḥ)
+[catur-aṅgula-vistāra](caturaṅgulavistāro) [maṇibandha](maṇibandhaḥ) [prakīrtita](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[gloss](stanayorantaraṃ) [gloss](tālaṃ) [gloss](tayoḥ) [gloss](prāntau) [gloss](dvinetrakau)
+[stanayoḥ](stanayor) [antara](antaraṃ) [tāla](tālaṃ) [tayoḥ](tayoḥ) [prāntau](prāntau) [dvi-netrakau](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[gloss](nābhiḥ) [gloss](pradakṣiṇāvartā) [gloss](nimnato'rdhāṅguloditā)
+[nābhiḥ](nābhiḥ) [pradakṣiṇa-āvartā](pradakṣiṇāvartā) [nimnata](nimnato) [ardha-aṅgula-uditā](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[gloss](hṛdviṃśatyaṅgulaṃ) [gloss](proktaṃ) [gloss](nābhideśaścaturdaśa)
+[hṛd-viṃśat-aṅgula](hṛdviṃśatyaṅgulaṃ) [prokta](proktaṃ) [nābhi-deśa](nābhideśa) [caturdaśa](caturdaśa)
 
 ## mukta-m0-p30-v748
-[gloss](pañcādaśāṅgulaṃ) [gloss](vakṣo) [gloss](hṛddeśaḥ) [gloss](pañcabhirvinā)
+[pañcādaśa-aṅgula](pañcādaśāṅgulaṃ) [vakṣa](vakṣo) [hṛd-deśa](hṛddeśaḥ) [pañcabhiḥ](pañcabhiḥ) [vinā](vinā)
 
 ## mukta-m0-p30-v749
-[gloss](kaṭiḥ) [gloss](saṃveṣṭanenoktā) [gloss](śatācca) [gloss](dvyadhikāṅgulā)
+[kaṭi](kaṭiḥ) [saṃveṣṭanena](saṃveṣṭanena) [uktā](uktā) [śatāt](śatāt) [ca](ca) [dvi-adhika-aṅgulā](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[gloss](caturnetrapravistārau) [gloss](gajakumbhopamau) [gloss](śubhau)
+[catuḥ-netra-pravistārau](caturnetrapravistārau) [gaja-kumbha-upamau](gajakumbhopamau) [śubhau](śubhau)

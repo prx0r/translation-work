@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p26-v626
-[kvacit](kvacit) [kaṇa](kaṇaṃ) [praveśena](praveśena) [lāñchayitvā](lāñchayitvā) [asi](asi) [śātanam](śātanam)
+sometimes(kvachit) particle(kaṇaṃ) by-entry(praveśena) having-marked(lāñchayitvā) sword(asi) destruction(śātanam)
 
 ## mukta-m0-p26-v627
-[tat](tan) [madhye](madhye) [sūtra](sūtra) [sambhrānte](sambhrānte) [rudraḥ](rudro) [bhavati](bhavati) [vartulaḥ](vartulaḥ)
+therein(tanmadhye) thread-confused(sūtrasambhrānte) rudra(rudro) becomes(bhavati) round(vartulaḥ)
 
 ## mukta-m0-p26-v628
-[kṣipet](kṣiped) [vā](vā) [śūnya](śūnya) [doṣa](doṣa) [ghnam](ghnaṃ) [hastāt](hastāt) [eka](eka) [aṅgulam](aṅgulaṃ) [kramāt](kramāt)
+throws(kṣipedvā) void-defect-destroying(śūnyadoṣaghnaṃ) from-hand(hastāt) one-finger(ekāṅgulaṃ) gradually(kramāt)
 
 ## mukta-m0-p26-v629
-[ṣoḍaśa](ṣoḍaśa) [aṃśa](aṃśa) [kṣipet](kṣiped) [ādye](ādye) [veda](veda) [aṃśam](aṃśam) [amara](amara) [arcite](arcite)
+sixteenth-part(ṣoḍaśāṃśa) throws(kṣiped) first(ādye) vedic-part(vedāṃśam) god-worshipped(amarorcite)
 
 ## mukta-m0-p26-v630
-[piṅgalā](piṅgalāyā) [mate](mate) [proktam](proktam) [ādya](ādya) [amara](amara) [arcitena](arcitena) [tu](tu)
+of-piṅgalā(piṅgalāyā) opinion(mate) declared(proktam) first-god-worshipped(ādyāmarārcitena) but(tu)
 
 ## mukta-m0-p26-v631
-[bhaveyuḥ](bhaveyur) [vardhamānāni](vardhamānāni) [vasu](vasu) [dviṣaṭ](dviṣaṭ) [śatāni](śatāni) [ca](ca)
+become(bhaveyuḥ) increasing(vardhamānāni) earth-six-hundred(vasudviṣaṭśatāni) and(ca)
 
 ## mukta-m0-p26-v632
-[viśvakarma](viśvakarma) [matam](matam) [dṛṣṭvā](dṛṣṭvā) [vaktavyam](vaktavyaṃ) [pīṭha](pīṭha) [vartanam](vartanam)
+viśvakarma's-opinion(viśvakarmamataṃ) seeing(dṛṣṭvā) speak(vaktavyaṃ) pedestal-turning(pīṭhavartanam)
 
 ## mukta-m0-p26-v633
-[tat](tac) [ca](ca) [sava](sava) [samam](samam) [liṅgam](liṅgaṃ) [prāsāde](prāsāde) [vā](vā) [gṛhe](gṛhe) [hitam](hitam)
+that(tat) ca(ca) equal(savasamaṃ) liṅga(liṅgaṃ) in-temple(prāsāde) or(vā) in-house(gṛhe) suitable(hitam)
 
 ## mukta-m0-p26-v634
-[dvau](dvau) [pādau](pādau) [jānu](jānu) [paryantam](paryantaṃ) [caturasra](caturasra) [pitāmahaḥ](pitāmahaḥ)
+two-feet(dvau+pādau) up-to-knee(jānuparyantaṃ) square-base(caturasra) pitāmaha(pitāmahaḥ)
 
 ## mukta-m0-p26-v635
-[ā](ā) [mūrdham](mūrdhaṃ) [nābhi](nābhi) [taśca](taśca) [ūrdhvam](ūrdhvaṃ) [vṛtta](vṛtta) [bhāge](bhāge) [haraḥ](haraḥ) [svayam](svayam)
+up-to-head(āmūrdhaṃ) from-navel(nābhitaś) upward(ūrdhvaṃ) round-part(vṛttabhāge) hara(haraḥ) himself(svayam)
 
 ## mukta-m0-p26-v636
-[pañcadhā](pañcadhā) [avyakta](avyakta) [liṅgāni](liṅgāni) [sama](sama) [pīṭhāni](pīṭhāni) [tāni](tāni) [ca](ca)
+fivefold(pañcadhā) manifest-liṅgas(vyaktaliṅgāni) equal-pedestals(samapīṭhāni) those(tāni) and(ca)
 
 ## mukta-m0-p26-v637
-[pañca](pañca) [liṅga](liṅga) [vyavasthā](vyavasthā) [iyam](iyam) [śiro](śiro) [vartini](vartini) [atha](atha) [ucyate](ucyate)
+five-liṅga-arrangement(pañcaliṅgavyavasthā) iyaṃ(iyaṃ) head-turning(śirovartini) then(atha) said(ucyate)
 
 ## mukta-m0-p26-v638
-[ekaikasya](ekaikasya) [catur](catur) [bhedaiḥ](bhedaiḥ) [kāmya](kāmya) [rūpāt](rūpāt) [phalam](phalaṃ) [vadet](vadet)
+of-each(ekaikasya) four-varieties(caturbhedaiḥ) desired-form(kāmyarūpāt) fruit(phala) would-say(vadet)
 
 ## mukta-m0-p26-v639
-[cira](cira) [rājya](rājya) [prada](prada) [khyātam](khyātaṃ) [chatra](chatra) [bhedāḥ](bhedāḥ) [caturvidhāḥ](caturvidhāḥ)
+long-reign-giving(cirarājyaprada) known(khyātaṃ) umbrella-varieties(chatrabhedāḥ) fourfold(caturvidhāḥ)
 
 ## mukta-m0-p26-v640
-[mānada](mānada) [pakṣa](pakṣa) [lopāt](lopāt) [ca](ca) [vipulam](vipulaṃ) [khyāti](khyāti) [dam](dam) [bhavet](bhavet)
+measure-giving(mānada) wing(padma) loss(lopāt) ca(ca) large(khyātidaṃ) becomes(bhavet)
 
 ## mukta-m0-p26-v641
-[śrīvāsam](śrīvāsaṃ) [putradaṃ](putradaṃ) [kuru](kuru) [dakṣa](dakṣa) [aṇḍam](aṇḍaṃ) [syāt](syāt) [caturvidham](caturvidham)
+śrīvāsa(śrīvāsaṃ) son-giving(putradaṃ) kuru(kurtuḥ) dakṣa-egg(dakṣāṇḍaṃ) syāt(syāt) fourfold(caturvidham)
 
 ## mukta-m0-p26-v642
-[puṣṭidaṃ](puṣṭidaṃ) [dvi](dvi) [kṣayāt](kṣayāt) [pūrṇam](pūrṇaṃ) [mahā](mahā) [hlāda](hlāda) [kara](kara) [sadā](sadā)
+nourishing(puṣṭidaṃ) from-two-decay(dvikṣayāt) full(pūrṇaṃ) always-great-delight(mahāhlādakarasadā)
 
 ## mukta-m0-p26-v643
-[āyudam](āyudaṃ) [kumudam](kumudaṃ) [jñeyam](jñeyaṃ) [candam](candaṃ) [caturvidham](caturvidhaṃ) [matam](matam)
+weapon(āyudaṃ) kumuda(kumudaṃ) known(jñeyaṃ) moon(candaṃ) fourfold(caturvidhaṃ) opinion(matam)
 
 ## mukta-m0-p26-v644
-[sarva](sarva) [kāma](kāma) [pradaṃ](pradaṃ) [proktam](proktaṃ) [vināśam](vināśaṃ) [dvi](dvi) [kṣayāt](kṣayāt) [śriye](śriye)
+all-desires-giving(sarvakāmapradaṃ) declared(proktaṃ) destruction(vināśaṃ) from-two-decay(dvikṣayāt) for-prosperity(śriye)
 
 ## mukta-m0-p26-v645
-[ballabha](ballabha) [tva](tva) [prada](prada) [tat](tat) [ca](ca) [caturdhā](caturdhā) [trapuṣam](trapuṣaṃ) [bhavet](bhavet)
+ballabha-giving(ballabhatvaprada) that(tat) ca(ca) fourfold(caturdhā) lead(trapuṣaṃ) becomes(bhavet)
 
 ## mukta-m0-p26-v646
-[kuryāt](kuryāt) [vipra](vipra) [ādi](ādi) [kārya](kārya) [artham](artham) [ekam](ekaṃ) [vā](vā) [kukkuṭa](kukkuṭa) [aṇḍakam](aṇḍakam)
+does(kuryāt) for-brāhmaṇa-etc-work(viprādikāryārtha) one(ekaṃ) vā(vā) cock-egg(kukkuṭāṇḍakam)
 
 ## mukta-m0-p26-v647
-[dīrgha](dīrgha) [āyuṣṭvam](āyuṣṭvam) [atha](atha) [candra](candra) [kṛkavāku](kṛkavāku) [aṇḍataḥ](aṇḍataḥ) [prajñāḥ](prajñāḥ)
+long-life(dīrghāyuṣṭvam) then(atha) of-moon(cendoḥ) from-kṛkavāku-egg(kṛkavākvaṇḍataḥ) wisdom(prajñāḥ)
 
 ## mukta-m0-p26-v648
-[jina](jina) [viṃśati](viṃśati) [śārdūlaiḥ](śārdūlaiḥ) [ādye](ādye) [brahma](brahma) [ādi](ādi) [veṣṭanam](veṣṭanam)
+twenty-jina-tigers(jinaviṃśatiśārdūlaiḥ) first(ādye) brahmā-etc-enclosure(brahmādiveṣṭanam)
 
 ## mukta-m0-p26-v649
-[vikāreṇa](vikāreṇa) [smareṇa](smareṇa) [aṃśa](aṃśa) [tṛtīya](tṛtīya) [aṃśa](aṃśa) [yutena](yutena) [ca](ca)
+by-variation(vikāreṇa) by-love(smareṇa) third-part(aṃśatṛtīyāṃśa) plus(yutena) ca(ca)
 
 ## mukta-m0-p26-v650
-[bhāga](bhāga) [tṛtīya](tṛtīya) [bhāgena](bhāgena) [nakha](nakha) [candra](candra) [anvitena](anvitena) [ca](ca)
+third-part-of-part(bhāgatṛtīyabhāgena) nail-moon-included(nakhacandrānvitena) ca(ca)

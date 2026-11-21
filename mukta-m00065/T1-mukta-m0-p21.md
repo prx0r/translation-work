@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[knot+form+elevated+knot+stomach+disease+giver](granthirūponnatagranthirjaṭharāmayadāyaka)
-
+[verse](granthirūponnatagranthirjaṭharāmayadāyaka) [verse](granthirūponnatagranthirjaṭharāmayadāyaka) [verse](granthirūponnatagranthirjaṭharāmayadāyaka) [verse](granthirūponnatagranthirjaṭharāmayadāyaka)
 ## mukta-m0-p21-v502
-[frost+that+know+son+grief+pain+giver](tuṣāraṃtadvijānīyāputraśokārtidāyakam)
-
+[verse](tuṣāraṃ tadvijānīyā putraśokārtidāyakam [kh, gh: kārakam]) [verse](tuṣāraṃ tadvijānīyā putraśokārtidāyakam [kh, gh: kārakam]) [verse](tuṣāraṃ tadvijānīyā putraśokārtidāyakam [kh, gh: kārakam]) [verse](tuṣāraṃ tadvijānīyā putraśokārtidāyakam [kh, gh: kārakam])
 ## mukta-m0-p21-v503
-[gold+sound+disease+copper+that+corrupt+yellow+view](hemaghoṣāmayaṃtāmratadduṣṭaṃpiṅgalāmate)
-
+[verse](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate) [verse](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate) [verse](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate) [verse](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate)
 ## mukta-m0-p21-v504
-[people+kill+iron+afflicted+stone+that+also+sculptor](janaṃhantyāyasākrāntāśilātāmīcaśilpinam)
-
+[verse](janaṃ hantyāyasākrāntā śilā tāmī ca [gh: tāmrācca] śilpinam) [verse](janaṃ hantyāyasākrāntā śilā tāmī ca [gh: tāmrācca] śilpinam) [verse](janaṃ hantyāyasākrāntā śilā tāmī ca [gh: tāmrācca] śilpinam) [verse](janaṃ hantyāyasākrāntā śilā tāmī ca [gh: tāmrācca] śilpinam)
 ## mukta-m0-p21-v505
-[black+yellow+red+drop+that+grief+fear+disease+giver](kṛṣṇaḥpīto'ruṇobinduḥsaśokabhayarogadaḥ)
-
+[verse](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ) [verse](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ) [verse](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ) [verse](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ)
 ## mukta-m0-p21-v506
-[yellow+wealth+loss+doer+black+bond+two+twofold](pītedhanakṣayaḥkartuḥkṛṣṇebandhodvayordvidhā)
-
+[verse](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā) [verse](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā) [verse](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā) [verse](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā)
 ## mukta-m0-p21-v507
-[line+line+pierced+or+earthly+that+destroy](rekhārekhānubiddhāvāpārthivaṃsāvināśayet)
-
+[verse](rekhā rekhānubiddhā vā [mū, a, k: ca] pārthivaṃ sā vināśayet) [verse](rekhā rekhānubiddhā vā [mū, a, k: ca] pārthivaṃ sā vināśayet) [verse](rekhā rekhānubiddhā vā [mū, a, k: ca] pārthivaṃ sā vināśayet) [verse](rekhā rekhānubiddhā vā [mū, a, k: ca] pārthivaṃ sā vināśayet)
 ## mukta-m0-p21-v508
-[mistress+and+four+cut+many+cut+family+ender](svāmidhnīcacatuśchinnābahucchinnākulāntakṛt)
-
+[verse](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt) [verse](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt) [verse](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt) [verse](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt)
 ## mukta-m0-p21-v509
-[fly+fly+shaped+that+leprosy+very+terrible](makṣikāmakṣikākārātayākuṣṭhaṃsudāruṇam)
-
+[verse](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam) [verse](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam) [verse](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam) [verse](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam)
 ## mukta-m0-p21-v510
-[then+various+diseases+make+doer+and+no+doubt](tadānānāgadānkuryātkartuścaivanaśaṃśayaḥ)
-
+[verse](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ) [verse](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ) [verse](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ) [verse](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ)
 ## mukta-m0-p21-v511
-[abandon+then+three+mark+king+realm+subjects+seeker](tyājyaṃtadātridhāliṅgaṃnṛparāṣṭraprajārthinā)
-
+[verse](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā) [verse](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā) [verse](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā) [verse](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā)
 ## mukta-m0-p21-v512
-[left+side+seated+somewhat+kill+realm+with+king](vāmapārśvāśritaḥkiṃciddhanyādrāṣṭraṃsarājakam)
-
+[verse](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam) [verse](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam) [verse](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam) [verse](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam)
 ## mukta-m0-p21-v513
-[all+colors+very+indeed+life+taking+black+removing](sarvavarṇābhṛśaṃnūnaṃprāṇahṛtkṛṣṇahīrikā)
-
+[verse](sarvavarṇā bhṛśaṃ [kh, gh: daśa] nūnaṃ prāṇahṛtkṛṣṇahīrikā) [verse](sarvavarṇā bhṛśaṃ [kh, gh: daśa] nūnaṃ prāṇahṛtkṛṣṇahīrikā) [verse](sarvavarṇā bhṛśaṃ [kh, gh: daśa] nūnaṃ prāṇahṛtkṛṣṇahīrikā) [verse](sarvavarṇā bhṛśaṃ [kh, gh: daśa] nūnaṃ prāṇahṛtkṛṣṇahīrikā)
 ## mukta-m0-p21-v514
-[elevated+seen+who+cat+foot+that+fault+bearer](unnatolakṣyateyaścaviḍālāṅghriḥsadoṣabhāk)
-
+[verse](unnato lakṣyate yaśca [mū: yatra] viḍālāṅghriḥ sa doṣabhāk [kh: kṛt]) [verse](unnato lakṣyate yaśca [mū: yatra] viḍālāṅghriḥ sa doṣabhāk [kh: kṛt]) [verse](unnato lakṣyate yaśca [mū: yatra] viḍālāṅghriḥ sa doṣabhāk [kh: kṛt]) [verse](unnato lakṣyate yaśca [mū: yatra] viḍālāṅghriḥ sa doṣabhāk [kh: kṛt])
 ## mukta-m0-p21-v515
-[stone+form+observe+abandon+that+inauspicious+giving](śilāyārūpamālakṣyatyajectāmaśubhapradām)
-
+[verse](śilāyā rūpamālakṣya tyajettāmaśubhapradām) [verse](śilāyā rūpamālakṣya tyajettāmaśubhapradām) [verse](śilāyā rūpamālakṣya tyajettāmaśubhapradām) [verse](śilāyā rūpamālakṣya tyajettāmaśubhapradām)
 ## mukta-m0-p21-v516
-[small+faults+will+tell+as+in+treatises+spoken](svalpadoṣānprakṣyāmiyathāśāstreṣubhāṣitān)
-
+[verse](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān) [verse](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān) [verse](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān) [verse](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān)
 ## mukta-m0-p21-v517
-[anthill+born+hot+alkaline+water+middle+gone](valmīkoṣaracityutthākoṣṇākṣārāmbumadhyagā)
-
+[verse](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā) [verse](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā) [verse](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā) [verse](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā)
 ## mukta-m0-p21-v518
-[bad+place+sun+heated+bitter+risen+thus+unpolluted](kudiksthāsūryasantaptākadutthāmethyadūṣitā)
-
+[verse](kudiksthā sūryasantaptā kadutthāmethyadūṣitā [k, g: bhūṣitā]) [verse](kudiksthā sūryasantaptā kadutthāmethyadūṣitā [k, g: bhūṣitā]) [verse](kudiksthā sūryasantaptā kadutthāmethyadūṣitā [k, g: bhūṣitā]) [verse](kudiksthā sūryasantaptā kadutthāmethyadūṣitā [k, g: bhūṣitā])
 ## mukta-m0-p21-v519
-[corrupt+life+sound+that+and+joined+not+other+work](duṣṭajīvasvarāyācayojitānānyakarmaṇi)
-
+[verse](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi) [verse](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi) [verse](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi) [verse](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi)
 ## mukta-m0-p21-v520
-[that+stone+adhering+that+oil+cutting+maker](yāyopalānulagnāsāsnehavicchittikārikāḥ)
-
+[verse](yā yopalānulagnā sā snehavicchittikārikāḥ [mū, a: kāraṇam]) [verse](yā yopalānulagnā sā snehavicchittikārikāḥ [mū, a: kāraṇam]) [verse](yā yopalānulagnā sā snehavicchittikārikāḥ [mū, a: kāraṇam]) [verse](yā yopalānulagnā sā snehavicchittikārikāḥ [mū, a: kāraṇam])
 ## mukta-m0-p21-v521
-[saline+place+wealth+taking+known+thought+place+pain+giving](ūṣarasthārthahṛjjñeyācitisthāduḥkhadāyinī)
-
+[verse](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī) [verse](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī) [verse](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī) [verse](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī)
 ## mukta-m0-p21-v522
-[stone+impure+place+standing+murderer+tribal+sevita](pāṣadāpuṇyadeśasthāvadhakṛdbhillaśevitā)
-
+[verse](pāṣadāpuṇyadeśasthā vadhakṛdbhilla [kh: liṅga] sevitā) [verse](pāṣadāpuṇyadeśasthā vadhakṛdbhilla [kh: liṅga] sevitā) [verse](pāṣadāpuṇyadeśasthā vadhakṛdbhilla [kh: liṅga] sevitā) [verse](pāṣadāpuṇyadeśasthā vadhakṛdbhilla [kh: liṅga] sevitā)
 ## mukta-m0-p21-v523
-[burning+loss+and+grief+and+poverty+disease+thus+bring](dāhaṃhāniṃcaśokaṃcanaiḥsvaṃrogatathāvahet)
-
+[verse](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet) [verse](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet) [verse](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet) [verse](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet)
 ## mukta-m0-p21-v524
-[liquor+smell+fat+smell+stone+agitation+causing](surāpakṣivasāgandhāudvegajananīśilā)
-
+[verse](surāpakṣivasāgandhā udvegajananī śilā) [verse](surāpakṣivasāgandhā udvegajananī śilā) [verse](surāpakṣivasāgandhā udvegajananī śilā) [verse](surāpakṣivasāgandhā udvegajananī śilā)
 ## mukta-m0-p21-v525
-[diamond+burned+fire+burned+and+king+fire+fear+giving](vajradagdhāgnidagdhācarājño'nalabhayapradā)
+[verse](vajradagdhāgnidagdhā ca rājño'nalabhayapradā) [verse](vajradagdhāgnidagdhā ca rājño'nalabhayapradā) [verse](vajradagdhāgnidagdhā ca rājño'nalabhayapradā) [verse](vajradagdhāgnidagdhā ca rājño'nalabhayapradā)
