@@ -11,25 +11,25 @@
 [caturaṣṭaṣaḍasraṃ](caturaṣṭaṣaḍasraṃ) [tu](tu) [indrāṅkaṃ](indrāṅkaṃ) [vajrarūpakam](vajrarūpakam)
 
 ## mukta-m0-p28-v679
-[bindusaṃpātsaṃyogāttiryaksūtrairvivartayet](bindusaṃpātsaṃyogāttiryaksūtrairvivartayet)
+[bindusaṃpātsaṃyogāt](bindusaṃpātsaṃyogāt) [tiryaksūtrair](tiryaksūtrair) [vivartayet](vivartayet)
 
 ## mukta-m0-p28-v680
 [vasvasrordhvaṃ](vasvasrordhvaṃ) [tu](tu) [saptāsraṃ](saptāsraṃ) [śaktyāgneya](śaktyāgneya) [ca](ca) [dāhakṛt](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[nāhārdhaṃ](nāhārdhaṃ) [navadhā](navadhā) [kṛtvā](kṛtvā) [śarairhṛtpṛṣṭhakoṭibhiḥ](śarairhṛtpṛṣṭhakoṭibhiḥ)
+[nāhārdhaṃ](nāhārdhaṃ) [navadhā](navadhā) [kṛtvā](kṛtvā) [śarair](śarair) [hṛtpṛṣṭhakoṭibhiḥ](hṛtpṛṣṭhakoṭibhiḥ)
 
 ## mukta-m0-p28-v682
-[evaṃ](evaṃ) [cāṣṭāsravṛtaṃ](cāṣṭāsravṛtaṃ) [syādyāmyadaṇḍaṃ](syādyāmyadaṇḍaṃ) [rujapradam](rujapradam)
+[evaṃ](evaṃ) [cāṣṭāsravṛtaṃ](cāṣṭāsravṛtaṃ) [syāt](syāt) [yāmyadaṇḍaṃ](yāmyadaṇḍaṃ) [rujapradam](rujapradam)
 
 ## mukta-m0-p28-v683
-[aṣṭāsro'rdha](aṣṭāsro'rdha) [daśāstraṃ](daśāstraṃ) [syātkhaḍgābhaṃ](syātkhaḍgābhaṃ) [rākṣasaṃ](rākṣasaṃ) [bhayam](bhayam)
+[aṣṭāsro'rdha](aṣṭāsro'rdha) [daśāstraṃ](daśāstraṃ) [syāt](syāt) [khaḍgābhaṃ](khaḍgābhaṃ) [rākṣasaṃ](rākṣasaṃ) [bhayam](bhayam)
 
 ## mukta-m0-p28-v684
-[caturaṣṭāsravṛttaṃ](caturaṣṭāsravṛttaṃ) [syātpāśavadvāruṇaṃ](syātpāśavadvāruṇaṃ) [śubham](śubham)
+[caturaṣṭāsravṛttaṃ](caturaṣṭāsravṛttaṃ) [syāt](syāt) [pāśavat](pāśavat) [vāruṇaṃ](vāruṇaṃ) [śubham](śubham)
 
 ## mukta-m0-p28-v685
-[kṛśaṃ](kṛśaṃ) [prāgrūpakaṃ](prāgrūpakaṃ) [dīrghaṃ](dīrghaṃ) [calamuccāṭakṛddhvajam](calamuccāṭakṛddhvajam)
+[kṛśaṃ](kṛśaṃ) [prāgrūpakaṃ](prāgrūpakaṃ) [dīrghaṃ](dīrghaṃ) [calam](calam) [uccāṭakṛddhvajam](uccāṭakṛddhvajam)
 
 ## mukta-m0-p28-v686
 [yākṣaṃ](yākṣaṃ) [gadāgramūrdhānaṃ](gadāgramūrdhānaṃ) [balavṛddhikaraṃ](balavṛddhikaraṃ) [śivam](śivam)
@@ -41,7 +41,7 @@
 [aṣṭāsro'rdhaṃ](aṣṭāsro'rdhaṃ) [ca](ca) [vedāsraṃ](vedāsraṃ) [brāhmaṃ](brāhmaṃ) [svargāya](svargāya) [padmavat](padmavat)
 
 ## mukta-m0-p28-v689
-[caturaṣṭāsravṛttaṃ](caturaṣṭāsravṛttaṃ) [syādvaiṣṇavaṃ](syādvaiṣṇavaṃ) [śaṅkhava](śaṅkhava) [cchubham](cchubham)
+[caturaṣṭāsravṛttaṃ](caturaṣṭāsravṛttaṃ) [syāt](syāt) [vaiṣṇavaṃ](vaiṣṇavaṃ) [śaṅkhavat](śaṅkhavat) [śubham](śubham)
 
 ## mukta-m0-p28-v690
 [rudrāttrihānitaḥ](rudrāttrihānitaḥ) [śuktirdaṇḍo](śuktirdaṇḍo) [digbhyastrihānitaḥ](digbhyastrihānitaḥ)
@@ -59,7 +59,7 @@
 [vyaktaliṅgāni](vyaktaliṅgāni) [cānyāni](cānyāni) [nānā](nānā) [rūpāṇi](rūpāṇi) [vacmyataḥ](vacmyataḥ)
 
 ## mukta-m0-p28-v695
-[iti](iti) [lakṣaṇasamuccaye'vyaktaliṅgalakṣaṇaṃ](lakṣaṇasamuccaye'vyaktaliṅgalakṣaṇaṃ) [nāma](nāma) [caturtho](caturtho) [vidhiḥ](vidhiḥ)
+[iti](iti) [lakṣaṇasamuccaye](lakṣaṇasamuccaye) [avyaktaliṅgalakṣaṇaṃ](avyaktaliṅgalakṣaṇaṃ) [nāma](nāma) [caturtho](caturtho) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p28-v696
 [pūrvāṅgulapramāṇena](pūrvāṅgulapramāṇena) [daśapañcāṅgulāṅgulāt](daśapañcāṅgulāṅgulāt)
