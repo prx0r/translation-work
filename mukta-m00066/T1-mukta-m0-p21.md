@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-rogāṇi-diseases avaśyaṃ-certainly nighnaṃti-destroy svabhāvaḥ-nature vāsya-of-that vastunaḥ-thing
+[diseases](rogāṇi) [inevitably](avaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvaḥ) [of-thing](vastunaḥ)
 
 ## mukta-m0-p21-v502
-sa-he vīrabhadraḥ-vīrabhadra suśroṇi-fair-hipped sākṣāt-directly saṃhāra-destruction bhairavaḥ-bhairava
+[he](sa) [virabhadra](vīrabhadraḥ) [fair-hipped](suśroṇi) [directly](sākṣāt) [destruction](saṃhāra) [bhairava](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-dakṣakopāt-from-dakṣa's-anger prajvalataḥ-blazing tasyāṃgāt-from-his-limb romakūpataḥ-from-hair-follicles
+[from-daksha's-anger](dakṣakopāt) [blazing](prajvalataḥ) [from-his-limb](tasyāṃgāt) [from-hair-pore](romakūpataḥ)
 
 ## mukta-m0-p21-v504
-tamanuproddhitāḥ-risen-after-him sarve-all vyādhayaḥ-diseases vividhakramāḥ-various-orders
+[following-him](tamanuproddhitāḥ) [all](sarve) [diseases](vyādhayaḥ) [various-courses](vividhakramāḥ)
 
 ## mukta-m0-p21-v505
-atyaṃtalolāḥ-extremely-unsteady durvārāḥ-irresistible prajvalaṃtaḥ-blazing sadā-always muṣā-with-her
+[extremely-unsteady](atyaṃtalolāḥ) [irresistible](durvārāḥ) [blazing](prajvalaṃtaḥ) [always-with-him](sadāmuṣā)
 
 ## mukta-m0-p21-v506
-tam-him āśritya-resorting mahāsatvaṃ-great-being vīrabhadraṃ-vīrabhadra mahodayam-great-rise
+[taking-refuge](tamāśritya) [great-being](mahāsatvaṃ) [virabhadra](vīrabhadraṃ) [great-rise](mahodayam)
 
 ## mukta-m0-p21-v507
-pāpaśīlān-sinful-natured durācārān-ill-conducted kanyāvidveṣakāriṇaḥ-girl-hating
+[sinful-natured](pāpaśīlān) [ill-conducted](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
 
 ## mukta-m0-p21-v508
-āgama-drohiṇaḥ-scripture-opposing pāpān-sinners vṛthākalahakāriṇaḥ-frivolous-quarrel-makers
+[scripture](āgama) [hostile](drohiṇaḥ) [sinners](pāpān) [quarrel-makers](vṛthākalahakāriṇaḥ)
 
 ## mukta-m0-p21-v509
-bhakṣayaṃti-devour mahārogāḥ-great-diseases pibaṃti-drink rudhiraṃ-blood bahu-much
+[devour](bhakṣayaṃti) [great-diseases](mahārogāḥ) [drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
 
 ## mukta-m0-p21-v510
-vṛdhe-growth
+[growth](vṛdhe-)
 
 ## mukta-m0-p21-v511
-marmabheda-vital-point-piercing karālāpāṃ-terrible-speech dhārmikācāra-pious-conduct niṃdakān-blasphemers
+[vital-strike](marmabheda) [fierce-mouthed](karālāpāṃ) [righteous-conduct](dhārmikācāra) [slanderers](niṃdakān)
 
 ## mukta-m0-p21-v512
-hiṃsaṃti-harm vyādhayaḥ-diseases tīvrāḥ-severe tatsaṃgāt-from-contact-with-him aparānapi-others-too
+[harm](hiṃsaṃti) [diseases](vyādhayaḥ) [severe](tīvrāḥ) [from-his-contact](tatsaṃgāt) [others-too](aparānapi)
 
 ## mukta-m0-p21-v513
-āśaṃkamānaiḥ-fearing vilaya-dissolution mahaṃsaṃprārthitaḥ-great-swan-invoked purā-formerly
+[fearing](āśaṃkamānaiḥ) [dissolution](vilaya) [great-swan](mahaṃsaṃ) [prayed](prārthitaḥ) [formerly](purā)
 
 ## mukta-m0-p21-v514
-parabrahmaḥ-supreme-brahman sāsvādamayamānaṃdadāyakam-bliss-giving
+[supreme-brahman](parabrahmaḥ) [taste-essence](sāsvādamayam) [bliss-giving](ānandadāyakam)
 
 ## mukta-m0-p21-v515
-sa-he biṃdu-drop śatasāhasra-hundred-thousand pravahaḥ-flow pavanāhatam-wind-struck
+[that](sa) [drop](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-struck](pavanāhatam)
 
 ## mukta-m0-p21-v516
-viveśa-entered cauṣadhiḥ-all-herbs sarvāḥ-all somarūpaḥ-moon-formed mahārasaḥ-great-essence
+[entered](viveśa) [herbs](cauṣadhiḥ) [all](sarvāḥ) [moon-form](somarūpaḥ) [great-essence](mahārasaḥ)
 
 ## mukta-m0-p21-v517
-tataḥ-thence prabhṛti-from-onwards vīrut-plants sujāgartti-awaken paramāmṛtam-supreme-nectar
+[then](tataḥ) [from](prabhṛti) [herbs](vīrutsu) [awakens](jāgartti) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p21-v518
-vividhaṃ-various vaidyataṃtraṃ-medical-science tu-indeed jvarādīnāṃ-fevers-etc vinuttaye-for-removal
+[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [but](tu) [fever-etc](jvarādīnāṃ) [for-removal](vinuttaye)
 
 ## mukta-m0-p21-v519
-śārīravaidyake-in-bodily-medicine proktāḥ-declared prakvāthaghuṭikādayaḥ-decoctions-pills-etc
+[bodily-medicine](śārīravaidyake) [stated](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
-yathā-as dehaḥ-body jvaraṃ-fever śītaṃ-cold pittaṃ-bile śleṣmaṃ-phlegm alaḥ-impurity nilaḥ-wind
+[as](yathā) [body](dehaḥ) [fever](jvaraṃ) [cold](śītaṃ) [bile](pittaṃ) [phlegm-waste-wind](śleṣmamalonilaḥ)
 
 ## mukta-m0-p21-v521
-tathā-so jīve-in-living-being gadāḥ-diseases proktāḥ-declared krodhaḥ-anger udveṣaḥ-hatred ca-and matsaraḥ-envy
+[so](tathā) [in-soul](jīve) [diseases](gadāḥ) [stated](proktāḥ) [anger-hatred-jealousy](krodhodveṣaścamatsaraḥ)
 
 ## mukta-m0-p21-v522
-nirvedaḥ-despair ca-and paritrāsaḥ-terror śaṃkā-doubt kutsitaciṃtanam-vile-thought
+[disgust](nirvedaḥ) [and](ca) [terror](paritrāsaḥ) [suspicion-contemptuous-thought](śaṃkākutsitaciṃtanam)
 
 ## mukta-m0-p21-v523
-vikaṃpatvaṃ-boasting vimūḍhatvaṃ-delusion vidyāloka-knowledge-light navarjitam-deprived
+[boasting](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
 
 ## mukta-m0-p21-v524
-sarvasyakutsā-contempt-for-all śīlatvaṃ-habit sarvatrāpi-everywhere jugupsanam-disgust
+[all-contempt](sarvasyakutsā) [habit](śīlatvaṃ) [everywhere](sarvatrāpi) [disgust](jugupsanam)
 
 ## mukta-m0-p21-v525
-etā-these dṛśānaikabhedāḥ-many-varieties koṭīnāmapikoṭayaḥ-countless-crores
+[these](etā) [views](dṛśāḥ) [one-kind](naikabhedāḥ) [crores-of-crores](koṭīnāmapikoṭayaḥ)
