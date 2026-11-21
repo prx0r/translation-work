@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[with+these+five](ebhistu) [bathed+purification+etc](paṃcabhiryuktaiḥ) [bathing+worship+etc+purification](snānamarcādiśodhanam)
+[with-these](ebhistu) [with-five](paṃcabhir) [joined](yuktaiḥ) [bathing-worship-purification](snānamarcādiśodhanam)
 
 ## mukta-m0-p68-v1677
-[īśāna+vaktra+ghora+āhvaguhyā+jāta+named+mantras](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
+[īśāna-face-ghora-āhva-guhya-ājāta-named](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
 
 ## mukta-m0-p68-v1678
-[by+bull-horn+uprooted](vṛṣaśṛṅgasamutkhātāḥ) [fire+abode+born](pavakāśrayasambhavāḥ)
+[bull-horn-dug-up](vṛṣaśṛṅgasamutkhātāḥ) [fire-refuge-born](pavakāśrayasambhavāḥ)
 
 ## mukta-m0-p68-v1679
-[by+goat+washing](ajena kṣālanāt) [earth+step+then](pṛthvīkramatastu) [with+arts](kalāvatā)
+[by-goat](ajena) [washing](kṣālanāt) [earth](pṛthvī) [step-by-step](kramatastu) [with-art](kalāvatā)
 
 ## mukta-m0-p68-v1680
-[lukewarm+then+third](kavoṣṇaistu tṛtīyena) [bath+axe-wound+removing](snānaṃ ṭaṅkakṣatāpaham)
+[lukewarm](kavoṣṇaistu) [third](tṛtīyena) [bathing](snānaṃ) [axe-wound-removing](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-[with+nidigdhikā+balā+roots](nidigdhikā balāmūlaiḥ) [bath+secret+fault+removing](snānaṃ guhyena doṣahṛt)
+[nidigdhikā](nidigdhikā) [balā-roots](balāmūlaiḥ) [bathing](snānaṃ) [secret](guhyena) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-[by+dhātrī+bath](dhātryā snānāt) [earth+clearly](mahītyakte) [sadyojāta+purifies](sadyojātena śuddhyati)
+[by-dhātrī](dhātryā) [by-bathing](snānāt) [earth](mahī) [released](tyakte) [sadyojāta](sadyojātena) [purified](śuddhyati)
 
 ## mukta-m0-p68-v1683
-[having+rubbed+great+god](samudvartya mahādevaṃ) [with+tīrtha+born+waters+bathe](tīrthotthaiḥ snāpayejjalaiḥ)
+[having-rubbed](samudvartya) [great-god](mahādevaṃ) [tīrtha-born](tīrthotthaiḥ) [bathe](snāpayejjalaiḥ)
 
 ## mukta-m0-p68-v1684
-[puṣkara](puṣkaraṃ) [naimiṣa+forest](naimiṣāraṇyaṃ) [tīrtha+and+varuṇa](tīrthaṃ ca varūṇaṃ tathā)
+[puṣkara](puṣkaraṃ) [naimiṣa-forest](naimiṣāraṇyaṃ) [tīrtha](tīrthaṃ) [and](ca) [varuṇa](varūṇaṃ) [thus](tathā)
 
 ## mukta-m0-p68-v1685
-[jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa+narmadā](śoṇanarmadā)
+[jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa](śoṇa) [narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-[seven+godāvarī+thus+these](saptagodāvarītyetāḥ) [holy+rivers+great+waters](puṇyanadyo mahājalaiḥ)
+[seven-godāvarī](saptagodāvarī) [thus](ityetāḥ) [holy-rivers](puṇyanadyo) [great-waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-[alkali+milk+curd+oil+molasses+etc+water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
+[alkali-milk-curd-ghee-sugarcane-juice-sura-water](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
 
 ## mukta-m0-p68-v1688
-[crystal](sphāṭikaṃ) [padmarāga](padyarāgaṃ) [and+rajāvarta+coral](ca rājāvartaḥsuvidrumam)
+[crystal](sphāṭikaṃ) [padmarāga](padyarāgaṃ) [and](ca) [rājāvarta](rājāvartaḥ) [with-coral](suvidrumam)
 
 ## mukta-m0-p68-v1689
-[this+jewel+water+bath](etadratnodakaiḥ snānaṃ) [great+prosperity+giving+supreme](mahābhūtikaraṃ param)
+[this-gem-water](etadratnodakaiḥ) [bathing](snānaṃ) [great-prosperity-causing](mahābhūtikaraṃ) [supreme](param)
 
 ## mukta-m0-p68-v1690
-[camphor+aguru+musk+etc](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
+[camphor-aguru-musk](karpūrāgurukastūrī) [kāśmarī-sandal-etc](kāśmarīcandanādikaiḥ)
 
 ## mukta-m0-p68-v1691
-[bathe+fragrant+water](snāpayedgandhatoyena) [by+ajāta+consecrated](ajātenābhimantritam)
+[bathe](snāpayed) [fragrant-water](gandhatoyena) [by-ajāta](ajātenābhimantritam)
 
 ## mukta-m0-p68-v1692
-[lotus+blue+water-lily+red+lotus+sun-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
+[lotus-white-lotus-mālūra-blue-red-lotus-sun-born](puṇḍarīkābjamālūranīlaraktotpalārkajam)
 
 ## mukta-m0-p68-v1693
-[mango+horse-radish](sahakārāśvamāraṃ) [and+punnāga+bakula+etc](ca punnāgabakulāni ca)
+[sahakāra](sahakārāśvamāraṃ) [and](ca) [punnāga-bakula](punnāgabakulāni) [and](ca)
 
 ## mukta-m0-p68-v1694
-[pāṭalā+droṇa+nepālī](pāṭalādroṇanepālī) [kuśa+kiṃśuka+siṃhikā](kuśakiṃśukasiṃhikāḥ)
+[pāṭalā-droṇa-nepālī](pāṭalādroṇanepālī) [kuśa-kiṃśuka-siṃhikā](kuśakiṃśukasiṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-[soft+kunda+lotus+leaf](mṛdukundābjapatrī) [and+bull+sage+buka+flower](ca vṛṣarṣibukapuṣpakam)
+[soft-kunda-lotus-leaf](mṛdukundābjapatrī) [and](ca) [bull-sage-buka-flower](vṛṣarṣibukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-[bilva+mango+orange+jackfruit+coconut](bilāmramocanāraṅga panasaṃ nālikerakam)
+[bilva-āmra-mocana-āraṅga](bilāmramocanāraṅga) [panasa](panasaṃ) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-[jujube+citron+and+kara+marda+with+tinduka](vadarībījapūraṃ ca kava mardaṃ satindukam)
+[jujube-citron](vadarībījapūraṃ) [and](ca) [kara-marda](kavamardaṃ) [with-tinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-[fruit+bath+this+auspicious](phalasnānamidaṃ pupyaṃ) [doer+desire+fruit+giving](karturicchāphalapradam)
+[fruit-bathing](phalasnānam) [this](idam) [auspicious](pupyaṃ) [doer-desire-fruit-giving](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-[sesame+wheat+sugdā+etc+barley+grains+priyaṅgu](tilagodhumasugdādi yavadhānyapriyaṅgubhiḥ)
+[sesame-wheat-sugdā-etc](tilagodhumasugdādi) [barley-grain-priyaṅgu](yavadhānyapriyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-[with+five+brahma+born+mantras](pañcabrahmodbhavairmantrair) [great+bath+auspicious+giving](mahāsnānaṃ śubhapradam)
+[five-brahma-born-mantras](pañcabrahmodbhavairmantrair) [great-bathing](mahāsnānaṃ) [auspicious-giving](śubhapradam)
