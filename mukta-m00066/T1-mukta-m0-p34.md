@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[kiṃcit](kiṃcit) [piccilita-āpannaṃ](piccilitāpannaṃ) [kiṃcit](kiṃcit) [utsūkṣma-budbudaṃ](utsūkṣmabudbudam)
+[something](kiṃcit) [slightly-moistened](piccilitāpannaṃ) [something](kiṃcid) [very-subtle-bubble](utsūkṣmabudbudam)
 
 ## mukta-m0-p34-v827
-[atyānanda-karaṃ](atyānaṃdakaraṃ) [devi](devi) [sparśanāt-eva](sparśanādeva) [bhoginām](bhoginām)
+[extremely-joy-producing](atyānaṃdakaraṃ) [goddess](devi) [by-touch-alone](sparśanādeva) [of-serpents](bhoginām)
 
 ## mukta-m0-p34-v828
-[śoṇa-abhidhā](śoṇābhidhā) [mahā-tīrtha](mahātīrtha) [māyā-aṃśoka-viśoṣaṇam](mayaṃśokaviśoṣaṇam)
+[śoṇā-named](śoṇābhidhā) [great-tīrtha](mahātīrtha) [sorrow-drying](mayaṃśokaviśoṣaṇam)
 
 ## mukta-m0-p34-v829
-[liṃga-rūpiṇam](liṃgarūpiṇam) [uddāma-rāga-jvālā-jaṭā-kulam](uddāmarāgajvālājaṭākulam)
+[liṅga-formed](liṃgarūpiṇam) [excellent](uddāma) [passion-flame-tangled](rāgajvālājaṭākulam)
 
 ## mukta-m0-p34-v830
-[mahā-liṃga](mahāliṃga) [maheśāna](maheśāna) [rasaiḥ](rasaiś) [caṃdravatī](caṃdravatī) [bhavaiḥ](bhavaiḥ)
+[great-liṅga](mahāliṃga) [great-lord](maheśāna) [with-juices](rasaiś) [moon-like](caṃdravatī) [states](bhavaiḥ)
 
 ## mukta-m0-p34-v831
-[bhaktasya](bhaktasyeśānabhāvaṃ) [īśāna-bhāvaṃ](bhaktasyeśānabhāvaṃ) [ca](ca) [sūrya-tattva-vaśīkṛtim](sūryatatvavaśīkṛtim)
+[of-devotee](bhaktasya) [īśāna-state](īśānabhāvaṃ) [and](ca) [sun-principle-subjugation](sūryatatvavaśīkṛtim)
 
 ## mukta-m0-p34-v832
-[iṃdriyāṇāṃ](iṃdriyāṇāṃ) [prabalatāṃ](prabalatāṃ) [dūra-dṛṣṭim](dūradṛṣṭim) [adāṃbike](adāṃbike)
+[of-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far-seeing](dūradṛṣṭim) [O-Ambikā](adāṃbike)
 
 ## mukta-m0-p34-v833
-[prayacchati](prayacchatyakhilāṃ) [akhilāṃ](prayacchatyakhilāṃ) [siddhiṃ](siddhiṃ) [taijasīṃ](taijasīṃ) [viśva-bhāsinīm](viśvabhāsinīm)
+[grants](prayacchati) [all](akhilāṃ) [perfection](siddhiṃ) [taijasī](taijasīṃ) [world-illuminating](viśvabhāsinīm)
 
 ## mukta-m0-p34-v834
-[anayā](anayā) [paṃcama-āhutyā](paṃcamāhutyā) [paṃcānana-samaḥ](paṃcānanasamo) [bhavet](bhavet)
+[by-this](anayā) [fifth-offering](paṃcamāhutyā) [equal-to-five-faced](paṃcānanasamo) [becomes](bhavet)
 
 ## mukta-m0-p34-v835
-[paṃcama-āhuti-kāle](paṃcamāhutikāle) [tu](tu) [dūtya-avasthā](dūtyavasthā) [nivedyate](nivedyate)
+[at-fifth-offering-time](paṃcamāhutikāle) [tu](tu) [messenger-state](dūtyavasthā) [is-declared](nivedyate)
 
 ## mukta-m0-p34-v836
-[muhuḥ](muhuḥ) [pakṣma](pakṣma) [praveśaḥ](praveśaśca) [ca](praveśaśca) [netra-tārakayoḥ-dvayoḥ](netratārakayordvayoḥ)
+[repeatedly](muhuḥ) [eyelash](pakṣma) [entry](praveśaś) [and](ca) [of-two-eye-pupils](netratārakayordvayoḥ)
 
 ## mukta-m0-p34-v837
-[utkaṇṭhataḥ](utkaṇṭhataḥ) [kapota-strī](kapotastrī) [gala-gadgada-bhāṣitam](galagadgadabhāṣitam)
+[with-longing](utkaṇṭhataḥ) [pigeon-woman](kapotastrī) [throat-gurgling-speech](galagadgadabhāṣitam)
 
 ## mukta-m0-p34-v838
-[alam-ālā-paracanaṃ](alamālāparacanaṃ) [punar-utsāha](punarutsāha) [bhāṣaṇam](bhāṣaṇam)
+[garland-arrangement](alamālāparacanaṃ) [again](punaḥ) [enthusiasm](utsāha) [speech](bhāṣaṇam)
 
 ## mukta-m0-p34-v839
-[na](na) [kiṃcit-api](kiṃcidapi) [jānāmi](jānāmi) [jātā](jātāhaṃ) [ahaṃ](jātāhaṃ) [tava](tava) [kiṃkarī](kiṃkarī)
+[not](na) [anything](kiṃcidapi) [I-know](jānāmi) [born](jātāhaṃ) [your](tava) [servant](kiṃkarī)
 
 ## mukta-m0-p34-v840
-[ahaṃ](ahaṃ) [tvat-eka-śaraṇa-rakṣa](tvadekaśaraṇārakṣarakṣa) [dṛḍham-jahi](dṛḍhaṃjahi)
+[I](ahaṃ) [to-you-alone-refuge](tvadekaśaraṇā) [protector-protect](rakṣarakṣa) [firmly](dṛḍhaṃ) [abandon](jahi)
 
 ## mukta-m0-p34-v841
-[kiṃcit](kiṃcidyonyavasādepi) [yoni-avasāda](kiṃcidyonyavasādepi) [api](kiṃcidyonyavasādepi) [manasaḥ](manasaḥ) [su-mahā-udyamaḥ](sumahodyamaḥ)
+[somewhat](kiṃcid) [in-yoni-descent](yonyavasādepi) [of-mind](manasaḥ) [very-great-effort](sumahodyamaḥ)
 
 ## mukta-m0-p34-v842
-[sarveṣu-api](sarvesvapi) [ca](ca) [gātreṣu](gātreṣu) [mada-gandha-samudbhavaḥ](madagaṃdhasamudbhavaḥ)
+[in-all](sarvesvapi) [and](ca) [in-limbs](gātreṣu) [intoxication-fragrance-arising](madagaṃdhasamudbhavaḥ)
 
 ## mukta-m0-p34-v843
-[kāma-ārta](kāmārtta) [kurarī-kaṃṭha](kurarīkaṃṭha) [rutavat](rutavanmaṇitadhvaniḥ) [maṇita-dhvaniḥ](rutavanmaṇitadhvaniḥ)
+[love-afflicted](kāmārtta) [osprey-throat](kurarīkaṃṭha) [cry-like](rutavan) [jewel-sound](maṇitadhvaniḥ)
 
 ## mukta-m0-p34-v844
-[ityādayaḥ](ityādayo) [guṇāḥ](guṇāḥ) [proktāḥ](proktāḥ) [paṃcamyām-āhutau](paṃcamyāmāhutau) [punaḥ](punaḥ)
+[these-and-other](ityādayo) [qualities](guṇāḥ) [declared](proktāḥ) [in-fifth-offering](paṃcamyāmāhutau) [again](punaḥ)
 
 ## mukta-m0-p34-v845
-[ara-paṃcaka](arapaṃcaka) [saṃyuktā](saṃyuktā) [svastika-ākāra](svastikākāraśālinī) [śālinī](svastikākāraśālinī)
+[with-five-components](arapaṃcaka) [joined](saṃyuktā) [svastika-shaped](svastikākāraśālinī)
 
 ## mukta-m0-p34-v846
-[bibhratī](bibhratī) [caṃdra-śiśira](caṃdraśiśirātasyā) [tasyāḥ](caṃdraśiśirātasyā) [matsya-amṛtaṃ](mastyamṛtaṃ) [vidhoḥ](vidhoḥ)
+[bearing](bibhratī) [moon-cool](caṃdraśiśirā) [of-that](tasyā) [nectar](amṛtaṃ) [of-moon](vidhoḥ)
 
 ## mukta-m0-p34-v847
-[mardana-apekṣaṇī](mardanāpekṣaṇī) [bhūyāḥ](bhūyāstasmādeyā) [tasmāt](bhūyāstasmādeyā) [eyā](bhūyāstasmādeyā) [cira-dravā](ciradravā)
+[needing-rubbing](mardanāpekṣaṇī) [may-be](bhūyāt) [therefore](tasmāt) [to-be-given](eyā) [long-flowing](ciradravā)
 
 ## mukta-m0-p34-v848
-[liṃgeśvarasya-eva](liṃgeśvarasyaiva) [puram](puram) [uddhata-ūrdhva-tāṇḍavaiḥ](uddhatairūrdhvatāṇḍavaiḥ)
+[of-Liṅgeśvara](liṃgeśvarasyaiva) [city](puram) [with-raised](uddhataiḥ) [upward-tāṇḍava](ūrdhvatāṇḍavaiḥ)
 
 ## mukta-m0-p34-v849
-[sravati](sravatyamṛtavicchardamaiṃdavaṃ) [amṛta-vicchardam](sravatyamṛtavicchardamaiṃdavaṃ) [aiṃdavaṃ](sravatyamṛtavicchardamaiṃdavaṃ) [harṣa-vardhanam](harṣavardhanam)
+[flows](sravaty) [nectar-vomit](amṛtavicchardam) [lunar](aiṃdavaṃ) [joy-increasing](harṣavardhanam)
 
 ## mukta-m0-p34-v850
-[tasya](tasya) [svarūpam](svarūpam) [adhunā](adhunā) [vivicya-kathayasva](vivicyakathayasvame) [me](vivicyakathayasvame)
+[of-that](tasya) [own-form](svarūpam) [now](adhunā) [explain](vivicya) [tell-me](kathayasvame)

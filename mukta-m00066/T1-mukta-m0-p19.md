@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[kuṃkuma](kuṃkuma) [drava](drava) [saṃkāśaṃ](saṃkāśaṃ) [vilīna](vilīna) [aśeṣa](aśeṣa) [ceṣṭitam](ceṣṭitam)
+[like-saffron-liquid](kuṃkumadravasaṃkāśaṃ) [dissolved](vilīnāśeṣa) [activity](ceṣṭitam)
 
 ## mukta-m0-p19-v452
-[rakṣitaṃ](rakṣitaṃ) [bhāvayed](bhāvayed) [devī](devī) [tasyāḥ](tasyāḥ) [caṃdra-kala-udaye](caṃdrakalodaye)
+[protected](rakṣitaṃ) [meditate](bhāvayed) [goddess](devī) [at-her-moon-crescent-rise](tasyāścaṃdrakalodaye)
 
 ## mukta-m0-p19-v453
-[sadyaḥ](sadyaḥ) [pulakita-ākāraḥ](pulakitākāro) [bhāvaḥ](bhāvaḥ) [kaḥ-api](ko'pi) [vijṛṃbhate](vijṛṃbhate)
+[suddenly](sadyaḥ) [horripilated-form](pulakitākāro) [emotion](bhāvaḥ) [some](ko'pi) [unfolds](vijṛṃbhate)
 
 ## mukta-m0-p19-v454
-[nṛtyati-iva-samutkaṃṭhā](nṛtyatīvasamutkaṃṭhā) [nṛtyati](nṛtyatī) [va](va) [śira-āmukham](śirāmukham)
+[dancing-intensely-longing](nṛtyatīvasamutkaṃṭhā) [dancing](nṛtyatī) [indeed](va) [head-face](śirāmukham)
 
 ## mukta-m0-p19-v455
-[dūtikā](dūtikā) [smara-geha-sthāṃ](smaragehasthāṃ) [bhaga-mālāṃ](bhagamālāṃ) [sam-arcayet](samarcayet)
+[messenger](dūtikā) [love](smara) [house-dwelling](gehasthāṃ) [bhagamala](bhagamālāṃ) [worship](samarcayet)
 
 ## mukta-m0-p19-v456
-[tasyāḥ](tasyāścaṃdrakalodaye) [arcana-bhedaḥ](arcana) [tu](tu) [vaktavyaḥ](vaktavyaḥ) [parameśvara](parameśvara)
+[her-worship](tasyāścārcana) [difference](bhedastu) [to-be-spoken](vaktavyaḥ) [supreme-lord](parameśvara)
 
 ## mukta-m0-p19-v457
-[bhaga-mālī](bhagamālīti) [iti](iti) [niḥśeṣa](niḥśeṣa) [bhaga-cakra-abhimāninī](bhagacakrābhimāninī)
+[bhagamali-thus](bhagamālīti) [completely](niḥśeṣa) [bhaga-wheel-identified](bhagacakrābhimāninī)
 
 ## mukta-m0-p19-v458
-[viśva-saṃohanā-ākārā](viśvasaṃohanākārā) [viśva-janma-mahā-sthali](viśvajanmamahāsthali)
+[world-enchanting-form](viśvasaṃohanākārā) [world-birth-great-place](viśvajanmamahāsthali)
 
 ## mukta-m0-p19-v459
-[kāla-rūpā](kālarūpā) [akāla-karī](akālakarī) [kāla-grasana-lālasā](kālagrasanalālasā)
+[time-form](kālarūpā) [time-maker](kālakarī) [time-devouring-desirous](kālagrasanalālasā)
 
 ## mukta-m0-p19-v460
-[samasteṣu](samasteṣu) [śarīreṣu](śarīreṣu) [puṃsāṃ](puṃsāṃ) [strīṇām](strīṇām) [atha-api-vā](athāpivā)
+[in-all](samasteṣu) [bodies](śarīreṣu) [of-men-and-women-and-also](puṃsāṃstrīṇāmathāpivā)
 
 ## mukta-m0-p19-v461
-[saṃhitā](saṃhita) [śata-sāhasre](śatasāhasre) [yad-arthe](yadarthe) [kīrtyate](kīrtyate) [mayā](mayā)
+[collected](saṃhita) [hundred-thousand](śatasāhasre) [for-which](yadarthe) [praised](kīrtyate) [by-me](mayā)
 
 ## mukta-m0-p19-v462
-[nitya-anaṃga-mada-unmattā](nityānaṃga) [yauvanena](yauvanenātigarvitā) [atigarvitā](atigarvitā)
+[eternal-cupid](nityānaṃga) [intoxicated-with-passion](madonmattā) [by-youth-exceedingly-proud](yauvanenātigarvitā)
 
 ## mukta-m0-p19-v463
-[pāśa-aṃkuśau](pāśāṃkuśau) [karaṃ](karaṃ) [dhanva](dhanva) [tadā](tadā) [vā](vā) [madhu-bhājanam](madhubhājanam)
+[noose-goad](pāśāṃkuśau) [hand](karaṃ) [bow](dhanva) [then](tadā) [or](vā) [honey-vessel](madhubhājanam)
 
 ## mukta-m0-p19-v464
-[prasanna-vadana-ambhojā](prasannavadanāṃbhojā) [mada-rakta-vilocanā](madaraktavilocanā)
+[cheerful-face-lotus](prasannavadanāṃbhojā) [passion-red-eyed](madaraktavilocanā)
 
 ## mukta-m0-p19-v465
-[sva-rakta-kāṃti-śaṭībhiḥ](svaraktakāṃtiśaṭībhirevāvṛtanitaṃbabhūḥ) [eva](eva) [āvṛta-nitaṃba-bhūḥ](āvṛtanitaṃbabhūḥ)
+[own-red-radiance-garments-indeed-covered-lower-body](svaraktakāṃtiśaṭībhirevāvṛtanitaṃbabhūḥ)
 
 ## mukta-m0-p19-v466
-[digaṃbarābhiḥ](digaṃbarābhiranyābhiḥ) [anyābhiḥ](anyābhiḥ) [śaktibhiḥ](śaktibhiḥ) [parivāritā](parivāritā)
+[sky-clad-other](digaṃbarābhiranyābhiḥ) [powers](śaktibhiḥ) [surrounded](parivāritā)
 
 ## mukta-m0-p19-v467
-[evaṃ](evaṃ) [dhyeyā](dhyeyā) [maheśāni](maheśāni) [devatā](devatā) [bhaga-mālinī](bhagamālinī)
+[thus](evaṃ) [to-be-meditated](dhyeyā) [great-goddess](maheśāni) [deity](devatā) [bhagamalini](bhagamālinī)
 
 ## mukta-m0-p19-v468
-[tripurā-arghya-ambunā](tripurārghyāṃbunā) [prokṣya](prokṣya) [dūtyāḥ](dūtyāḥ) [smara-niketanam](smaraniketanam)
+[tripura-arghya-water](tripurārghyāṃbunā) [sprinkling](prokṣya) [messenger's](dūtyāḥ) [love-abode](smaraniketanam)
 
 ## mukta-m0-p19-v469
-[trikoṇaṃ](trikoṇaṃ) [paṃcakoṇaṃ](paṃcakoṇaṃ) [ca](ca) [sāṣṭāraka-caturddalam](sāṣṭārakacaturddalam)
+[triangle](trikoṇaṃ) [pentagon](paṃcakoṇaṃ) [and](ca) [eight-petaled-four-petaled](sāṣṭārakacaturddalam)
 
 ## mukta-m0-p19-v470
-[madhye](madhye) [jayet](jayenmahādevīṃ) [mahādevīṃ](mahādevīṃ) [mādyaṃtīṃ](mādyaṃtīṃ) [bhaga-mālinīm](bhagamālinīm)
+[in-middle](madhye) [conquer](jayen) [great-goddess](mahādevīṃ) [intoxicated](mādyaṃtīṃ) [bhagamalini](bhagamālinīm)
 
 ## mukta-m0-p19-v471
-[bhaga-guhyaṃ](bhagaguhyaṃ) [bhaga-yoniṃ](bhagayoniṃ) [tathā](tathā) [bhaga-nipātinīm](bhaganipātinīm)
+[bhaga-secret](bhagaguhyaṃ) [bhaga-yoni](bhagayoniṃ) [and](tathā) [bhaga-descending](bhaganipātinīm)
 
 ## mukta-m0-p19-v472
-[bhaga-rūpāṃ](bhagarūpāṃ) [tadā](tadā) [devīṃ](devīṃ) [nitya-klinna-ambikām-api](nityaklinnāmbikāmapi)
+[bhaga-form](bhagarūpāṃ) [then](tadā) [goddess](devīṃ) [ever-wet-mother-also](nityaklinnāmbikāmapi)
 
 ## mukta-m0-p19-v473
-[bhaga-klinnām](bhagaklinnāmaṣṭamīṃ) [aṣṭamīṃ](aṣṭamīṃ) [ca](ca) [sādhaka-vidhi-varttanā](sādhakovidhivarttanā)
+[bhaga-wet-eighth](bhagaklinnāmaṣṭamīṃ) [and](ca) [adept-rite-conduct](sādhakovidhivarttanā)
 
 ## mukta-m0-p19-v474
-[amogha-bhaga-vidyā](amoghabhagavidyā) [ca](ca) [caturthi](caturthi) [tu](tu) [bhageśvarī](bhageśvarī)
+[unfailing-bhaga-vidya](amoghabhagavidyā) [and](ca) [fourth](caturthi) [indeed](tu) [bhageshvari](bhageśvarī)
 
 ## mukta-m0-p19-v475
-[tripurā-arghya](tripurārghya) [sthitaireva](sthitaireva) [biṃdubhiḥ](biṃdubhistat) [tat](tat) [prapūjayet](prapūjayet)
+[tripura-arghya](tripurārghya) [established-indeed](sthitaireva) [with-dots](biṃdubhistat) [worship](prapūjayet)
