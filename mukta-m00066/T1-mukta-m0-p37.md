@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[pada](citte) [pada](iti) [pada](padaṃ) [pada](procya) [pada](reto) [pada](muṃcadvayaṃ) [pada](vadet)
+[mind](citte) [thus](iti) [word](padaṃ) [having-spoken](procya) [semen](reto) [release-two](muṃcadvayaṃ) [let-say](vadet)
 
 ## mukta-m0-p37-v902
-[pada](evaṃ) [pada](maṃtraṃ) [pada](japanneva) [pada](liṃgatāṃḍavamācaret)
+[thus](evaṃ) [mantra](maṃtraṃ) [reciting](japanneva) [linga-dance](liṃgatāṃḍavam) [perform](ācaret)
 
 ## mukta-m0-p37-v903
-[pada](sphuradgupigupitkāraṃ) [pada](vimuṃcati) [pada](parāmṛtam)
+[flashing](sphurad)+[secret](gupi)+[hidden-act](gupitkāraṃ) [releases](vimuṃcati) [supreme-nectar](parāmṛtam)
 
 ## mukta-m0-p37-v904
-[pada](yamunāsalilairīśāḥ) [pada](saṃśekaphalamaśnute)
+[yamuna-waters](yamunāsalilair)+[lords](īśāḥ) [bathing-fruit](saṃśekaphalam) [obtains](aśnute)
 
 ## mukta-m0-p37-v905
-[pada](datte) [pada](paśupatatvaṃ) [pada](ca) [pada](yajamānamayīṃ) [pada](sthitim)
+[gives](datte) [pasupati-state](paśupatatvaṃ) [and](ca) [sacrificer-abiding](yajamānamayīṃ) [state](sthitim)
 
 ## mukta-m0-p37-v906
-[pada](sarveṣāmevamaṃtrāṇāṃ) [pada](svayameva) [pada](prakāśatā)
+[of-all](sarveṣām)+[thus](eva)+[mantras](maṃtrāṇāṃ) [by-itself](svayameva) [shines](prakāśatā)
 
 ## mukta-m0-p37-v907
-[pada](kavitvasya) [pada](parākāṣṭhā) [pada](rasasaubhāgyaśālinī)
+[of-poetry](kavitvasya) [supreme-limit](parākāṣṭhā) [rasa-fortune](rasasaubhāgya)+[possessing](śālinī)
 
 ## mukta-m0-p37-v908
-[pada](pravṛttiṃ) [pada](ca) [pada](nivṛttiṃ) [pada](ca) [pada](bhūtānāmiva) [pada](sarvaśaḥ)
+[activity](pravṛttiṃ) [and](ca) [cessation](nivṛttiṃ) [and](ca) [of-beings](bhūtānām)+[like](iva) [everywhere](sarvaśaḥ)
 
 ## mukta-m0-p37-v909
-[pada](rasasiddhiṃ) [pada](pādukāyāḥ) [pada](siddhiṃ) [pada](nidhyaṃjanaṃ) [pada](tathā)
+[rasa-siddhi](rasasiddhiṃ) [of-footwear](pādukāyāḥ) [siddhi](siddhiṃ) [anointing](nidhyaṃjanaṃ) [thus](tathā)
 
 ## mukta-m0-p37-v910
-[pada](ākāśagamane) [pada](caiva) [pada](parakāya) [pada](praveśane)
+[in-sky-going](ākāśagamane) [and](ca)+[eva](eva) [other-body](parakāya) [entering](praveśane)
 
 ## mukta-m0-p37-v911
-[pada](pratimācalane) [pada](caiva) [pada](bhūtavetāla) [pada](vīkṣaṇe)
+[idol-moving](pratimācalane) [and](ca)+[eva](eva) [spirit-vetala](bhūtavetāla) [seeing](vīkṣaṇe)
 
 ## mukta-m0-p37-v912
-[pada](pāṭavaṃ) [pada](paramaṃghatte) [pada](saptamāhuti) [pada](sādhakaḥ)
+[skill](pāṭavaṃ) [supreme](paramaṃ)+[gives](ghatte) [seventh-offering](saptamāhuti) [sadhaka](sādhakaḥ)
 
 ## mukta-m0-p37-v913
-[pada](mahāliṃgamaheśāna) [pada](svarasaiścāṃdracaṃdrikaiḥ)
+[great-linga](mahāliṃgama)+[great-lord](heśāna) [own-juices](svarasaiḥ)+[moonlight](cāṃdracaṃdrikaiḥ)
 
 ## mukta-m0-p37-v914
-[pada](saptakūpāraparyaṃta) [pada](vāpikīrti) [pada](vivardhanī)
+[seven-wells](saptakūpāra)+[limit](paryaṃta) [pond-glory](vāpikīrti) [increasing](vivardhanī)
 
 ## mukta-m0-p37-v915
-[pada](etadāhuti) [pada](velāyāṃ) [pada](dūtikā) [pada](va) [pada](sthitiṃ) [pada](bruve)
+[at-this-offering-time](etadāhuti)+[velāyāṃ] [messenger](dūtikā) [state](sthitiṃ) [says](bruve)
 
 ## mukta-m0-p37-v916
-[pada](ānaṃda) [pada](sukhasaṃbhārādati) [pada](maṃtharatātanau)
+[bliss](ānaṃda) [happiness-abundance](sukhasaṃbhārād)+[ati](ati) [slowness](maṃtharatā)+[body](tanau)
 
 ## mukta-m0-p37-v917
-[pada](mahānaṃdapayorāśau) [pada](majjanaṃ) [pada](tu) [pada](kṣaṇe) [pada](kṣaṇe)
+[great-bliss-ocean](mahānaṃdapayorāśau) [immersion](majjanaṃ) [then](tu) [moment-moment](kṣaṇe kṣaṇe)
 
 ## mukta-m0-p37-v918
-[pada](ramaṇasyabhujā) [pada](śleṣaṃ) [pada](kiṃcit) [pada](chlathanatā) [pada](tathā)
+[of-lover](ramaṇasya)+[arm](bhujā) [embrace](śleṣaṃ) [somewhat](kiṃcit) [loosening](chlathanatā) [thus](tathā)
 
 ## mukta-m0-p37-v919
-[pada](nitaṃbabiṃbakaṃ) [pada](paścāt) [pada](kāmacchatrasya) [pada](narttanam)
+[hip-orb](nitaṃbabiṃbakaṃ) [after](paścāt) [love-umbrella](kāmacchatrasya) [dancing](narttanam)
 
 ## mukta-m0-p37-v920
-[pada](vacovicchinna) [pada](vicchinnapunaruktaṃ) [pada](ca) [pada](bhūyasā)
+[speech-broken](vacovicchinna) [broken](vicchinnapunaruktaṃ) [and](ca) [again](bhūyasā)
 
 ## mukta-m0-p37-v921
-[pada](asaṃbaṃdhārthanaṃ) [pada](kiṃcit) [pada](kiṃcicchuṣkaṃ) [pada](ca) [pada](rodanam)
+[unconnected-meaning](asaṃbaṃdhārthanaṃ) [somewhat](kiṃcit) [somewhat](kiṃcit)+[dry](śuṣkaṃ) [and](ca) [weeping](rodanam)
 
 ## mukta-m0-p37-v922
-[pada](alaṃ) [pada](nātha) [pada](namastubhyaṃ) [pada](punasteracitoṃjaliḥ)
+[enough](alaṃ) [lord](nātha) [salutation](namastubhyaṃ) [again](punar)+[joined-palms](teracitoṃjaliḥ)
 
 ## mukta-m0-p37-v923
-[pada](na) [pada](sahebhavato) [pada](vegaṃ) [pada](na) [pada](sahebhavatoratim)
+[not](na) [endure](sahe)+[your](bhavato) [force](vegaṃ) [not](na) [endure](sahe)+[your](bhavato)+[desire](ratim)
 
 ## mukta-m0-p37-v924
-[pada](kimarthaṃ) [pada](māṃrasadroṇyāṃ) [pada](majjayasyevanirghṛṇā)
+[why](kimarthaṃ) [me](māṃ)+[rasa-trough](rasadroṇyāṃ) [drown](majjayasya)+[thus](eva)+[cruel](nirghṛṇā)
 
 ## mukta-m0-p37-v925
-[pada](khādāmi) [pada](kiṃte) [pada](sarvāṃgaṃ) [pada](muṃcamāṃ) [pada](muṃcavallabha)
+[eat](khādāmi) [what](kiṃ)+[your](te) [all-limbs](sarvāṃgaṃ) [release-me](muṃcamāṃ) [release-beloved](muṃcavallabha)
