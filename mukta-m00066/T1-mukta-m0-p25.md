@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p25-v601
-[bed](śayyāyā) [northern](uttare) [part](bhāge) [having-placed](sthāpayitvā) [eternal-nectar](sadāmṛtam)
+bed-gen north part placing ever-nectar
 
 ## mukta-m0-p25-v602
-[full-pot](pūrṇakuṃbhaṃ) [its](tasya) [mouth](mukhe) [lotus-one](paṭmamekaṃ) [meditate](viciṃtayet)
+full-pot his mouth lotus-one contemplate
 
 ## mukta-m0-p25-v603
-[ever-intoxicated-self](sadāmadanamattātmā) [noose-goad-good-hand](pāśāṃkuśalasatkaraḥ)
+ever-cupid-intoxicated-self noose-goad-excellent-hand
 
 ## mukta-m0-p25-v604
-[lap-seated](aṃkasthitāyā) [intoxicated](mattāyāḥ) [siddhi-lakshmi-genital-between](siddhilakṣmībhagāṃtare)
+lap-sit-gen intoxicated-gen siddhi-lakshmi-bhaga-between
 
 ## mukta-m0-p25-v605
-[her-and](tasyāśca) [hand-lotus](karapadmena) [new-sprout-charming](navapallavacāruṇā)
+her-and hand-lotus new-sprout-charming
 
 ## mukta-m0-p25-v606
-[siddhi-lakshmi](siddhilakṣmī) [genital-stream](bhagasrota) [liquor-drinking-languid](śīdhupānamadālasaḥ)
+siddhi-lakshmi bhaga-stream liquor-drinking-languid
 
 ## mukta-m0-p25-v607
-[siddhi-lakshmi-delight](siddhilakṣmīrati) [sweat](sveta) [soothing-ear-clapping](vinudankarṇatālanaiḥ)
+siddhi-lakshmi-pleasure sweat dispelling-ear-clapping
 
 ## mukta-m0-p25-v608
-[siddhi-lakshmi](siddhilakṣmī) [falls-indeed](patedeva) [shakti-heramba-form](śaktiherambavigraha)
+siddhi-lakshmi falls-indeed shakti-heramba-form
 
 ## mukta-m0-p25-v609
-[thus-by-this-mantra](ityanenaiva) [mantra](maṃtreṇa) [done-flower-palm](kṛtapuṣpāṃjali) [rite](kriyaḥ)
+thus-by-this-mantra made-flower-anjali rite
 
 ## mukta-m0-p25-v610
-[messenger-and](dūtyāśca) [form](vigrahe) [flower-one-thus](puṣpamekamevaṃ) [place](vinikṣipet)
+messenger-and form flower-one-thus deposit
 
 ## mukta-m0-p25-v611
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v612
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v613
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v614
-[vasus](vasūnāṃ) [vasu-wives](vasupatnīnāṃ) [who](ya) [bliss-great-lord](ānaṃdamaheśvaraḥ)
+vasus-gen vasu-wives-gen who bliss-great-lord
 
 ## mukta-m0-p25-v615
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v616
-[self-nature](ātmasvarūpasaṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v617
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v618
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v619
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v620
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v621
-[self-nature](ātmasvarūpa) [perfection-bliss-here-bring](saṃsiddhyaitamānaṃdamihānaye)
+self-form perfection-this-bliss-here-bring
 
 ## mukta-m0-p25-v622
-[therefore-food-sheath](tasmādannamayaṃ) [sheath](kośaṃ) [bliss-state](ānaṃdamayatāṃ) [lead](nayet)
+therefore food-sheath bliss-sheath-ness lead
 
 ## mukta-m0-p25-v623
-[therefore-prana-sheath](tasmāt prāṇamayaṃ) [sheath](krośam) [bliss-state](ānaṃdamayatāṃ) [lead](nayet)
+therefore prana-sheath sheath-bliss-ness lead
 
 ## mukta-m0-p25-v624
-[therefore-mind-sheath](tasmānmanomayaṃ) [sheath](kośam) [bliss-state](ānaṃdamayatāṃ) [lead](nayet)
+therefore mind-sheath sheath-bliss-ness lead
 
 ## mukta-m0-p25-v625
-[that-knowledge-sheath](tadvijñānamayaṃ) [sheath](kośam) [bliss-state](anaṃdamayatāṃ) [lead](nayet)
+that knowledge-sheath sheath-bliss-ness lead
