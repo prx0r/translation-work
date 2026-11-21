@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[that](tat) [light](prakāśaṃ) [without](vinā) [accomplished](sidhyet) [not](na) [somehow](kathañcana) [of-anyone](kasyacit)
+[that](tat) [light](prakāśaṃ) [without](vinā) [succeeds-not](sidhyenna) [in-any-way](kathañcana) [of-anyone](kasyacit)
 
 ## mukta-m0-p12-v277
-[of-another](parasya) [limit](apara-niṣṭhatvāt) [not](na) [unity](tva-ekyaṃ) [consciousness-matter](cit-jaḍa-ātmanoḥ)
+[of-supreme](parasya) [of-inferior-firmness](aparaniṣṭhatvāt) [not](na) [unity](tvaikyaṃ) [of-conscious-and-inert-selves](cijjaḍātmanoḥ)
 
 ## mukta-m0-p12-v278
-[self-drawn-line](sva-ullekha-rekhā) [form](saṃsthānaṃ) [that](tat) [independent](svatantraṃ) [conscious-natured](cit-ātmakam)
+[self-drawn-line-formation](svollekharekhāsaṃsthānaṃ) [that](tat) [independent](svatantraṃ) [conscious-natured](cidātmakam)
 
 ## mukta-m0-p12-v279
-[sense-door](indriya-dvārataḥ) [afterwards](paścāt) [appearance](bhāva-ābhāsaḥ) [proceeds](pravartate)
+[through-sense-gates](indriyadvārataḥ) [afterwards](paścād) [appearance-of-being](bhāvābhāsaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p12-v280
-[that](tat) [here](atra) [as-much-as](yāvat) [by-guru](guruṇā) [of-world](viśvasya) [rising-establishment](udaya-saṃsthitiḥ)
+[that-here](tadatra) [as-much-as](yāvat) [by-guru](guruṇā) [of-universe](viśvasya) [rising-establishment](udayasaṃsthitiḥ)
 
 ## mukta-m0-p12-v281
-[therefore](ataḥ) [everywhere](sarvatra) [of-cakras](cakrāṇāṃ) [own-form](svarūpa) [indication](pratipādanam)
+[therefore](ataḥ) [everywhere](sarvatra) [of-wheels](cakrāṇāṃ) [own-nature-exposition](svarūpapratipādanam)
 
 ## mukta-m0-p12-v282
-[waterwheel](āraghaṭṭa) [pot](ghaṭī) [machine](yantra) [by-nyāya](nyāyena) [so-much](etāvataḥ) [always](sadā)
+[by-waterwheel-contrivance-nyāya](āraghaṭṭaghaṭīyantranyāyena) [to-this-extent](aitāvataḥ) [always](sadā)
 
 ## mukta-m0-p12-v283
-[by-one-many-sequence](eka-krama-yogena) [also](api) [drawn](ākṣipte) [range](gocaram)
+[by-one-many-sequence-yoga](ane(ka)kramayogenāpyākṣipte) [gocaram](gocaram)
 
 ## mukta-m0-p12-v284
-[from-void](śūnyāt) [beginning](ārabhya) [to-body](deha-antaṃ) [contraction-natured](saṅkoca-ātmā) [who](yaḥ) [before](agrataḥ)
+[from-void](śūnyādārabhya) [to-body-end](dehāntaṃ) [contracted-natured](saṅkocātmā) [indeed](hi) [who-before](yo'grataḥ)
 
 ## mukta-m0-p12-v285
-[that](tat) [here](atra) [as-much-as](yāvat) [saṃsāra](saṃsāraḥ) [in-that-form](tad-tad-rūpatayā) [stands](sthitaḥ)
+[that-here](tadatra) [as-much-as](yāvat) [saṃsāra](saṃsāraḥ) [in-that-form](tattadrūpatayā) [stands](sthitaḥ)
 
 ## mukta-m0-p12-v286
-[not](na) [by-abandonment](bhāva-tyāgataḥ) [liberation](muktiḥ) [nor](na) [by-enjoyment](bhāva-upabhogataḥ)
+[not](na) [by-abandonment-of-being](bhāvatyāgataḥ) [liberation](muktir) [nor](nāpi) [by-enjoyment-of-being](bhāvopabhogataḥ)
 
 ## mukta-m0-p12-v287
-[by-non-grasping](anāgrahāt) [by-grasping](āgrahāt) [vā](vā) [of-anyone](kasyacit) [not](na) [real](tāttvikī)
+[by-non-grasping](anāgrahād) [or](vā) [by-grasping](āgrahād) [of-anyone](kasyacit) [not](nāpi) [real](tāttvikī)
 
 ## mukta-m0-p12-v288
-[which-dependence](yad-apekṣā) [by-power](vaśāt) [all](sarvāḥ) [saṃsāra-other](saṃsāra-anya) [liberations](vimuktayaḥ)
+[by-what-dependence](yadapekṣāvaśāt) [all](sarvāḥ) [saṃsāra-other](saṃsāronyā(?)) [liberations](vimuktayaḥ)
 
 ## mukta-m0-p12-v289
-[by-contraction-breaking](saṅkoca-dalana) [practice](abhyāsāt) [to-vasanā-ground](vāsanā-ālaya-bhūmi-gam)
+[by-practice-of-contracting-crushing](saṅkocadalanābhyāsād) [to-vasanā-ground](vāsanālayabhūmigam)
 
 ## mukta-m0-p12-v290
-[of-swarm-sequence](vṛnda-kramasya) [arrangement](saṃsthānaṃ) [is-said](kathyate) [by-guru-grace](guru-anugrahāt)
+[of-swarm-sequence](vṛndakramasya) [formation](saṃsthānaṃ) [is-said](kathyate) [by-guru-grace](gurvanugrahāt)
 
 ## mukta-m0-p12-v291
-[of-world](viśvasya) [being](bhāvaḥ) [suddenly](sahasā) [in-own-form](sva-svarūpe) [is-examined](vicīyate)
+[of-universe](viśvasya) [being](bhāvaḥ) [suddenly](sahasā) [in-own-nature](svasvarūpe) [is-discerned](vicīyate)
 
 ## mukta-m0-p12-v292
-[similar](sadṛśāḥ) [are-indicated](pratipādyante) [cārvāka-advaita](cārvāka-advaya-vādibhiḥ)
+[similar](sadṛśāḥ) [are-expounded](pratipādyante) [by-cārvāka-advaita-etc](cārvākādvayavādibhiḥ)
 
 ## mukta-m0-p12-v293
-[by-them](taiḥ) [matter](jaḍāḥ) [are-deceived](vipralamyante) [by-similar](sadṛśaiḥ) [expressers](abhidhāyakaiḥ)
+[by-them](tair) [inert](jaḍā) [are-deluded](vipralamyante) [by-similar](sadṛśair) [expressers](abhidhāyakaiḥ)
 
 ## mukta-m0-p12-v294
-[by-great-teaching](mahānaya-upadeśena) [are-thrown](pātyante) [self-other-limit](sva-para-avadhaḥ)
+[by-great-system-teaching](mahānayopadeśena) [are-cast-down](pātyete) [self-other-boundary](svaparāvadhaḥ)
 
 ## mukta-m0-p12-v295
-[stands](sthitaḥ) [contraction-impression](saṅkoca-saṃskāraḥ) [what](kā) [talk](kathā) [in-others](anyeṣu) [creatures](jantuṣu)
+[stands](sthitaḥ) [contraction-impression](saṅkocasaṃskāraḥ) [what](kā) [talk](kathā) [in-others](anyeṣu) [creatures](jantuṣu)
 
 ## mukta-m0-p12-v296
-[by-all-grasping-grasper-power](sarva-āgraha-grāha-vaśāt) [jīvanmukti](jīvanmuktiḥ) [shines](prakāśate)
+[by-all-grasping-grasper-power](sarvāgrahagrāhavaśāt) [jīvanmukti](jīvanmuktiḥ) [shines](prakāśate)
 
 ## mukta-m0-p12-v297
-[without-thought-thought-nature](avikalpa-vikalpa-ātma) [steadiness-form](sthairya-rūpatayā) [again](punaḥ)
+[by-thought-and-thoughtless-steadiness-form](avikalpavikalpātmasthairyarūpatayā) [again](punaḥ)
 
 ## mukta-m0-p12-v298
-[various-grasping-knot](nānā-vidha-āgraha-granthi) [vasanā-piercing-strengthened](vāsanā-vedha-bṛṃhitaḥ)
+[by-various-grasping-knot-vasanā-piercing-expansion](nānāvidhāgrahagranthivāsanāvedhabṛṃhitaḥ)
 
 ## mukta-m0-p12-v299
-[therefore](ataḥ) [dissolution-form](saṃhāra-rūpaḥ) [this](ayaṃ) [without](vinā) [how](katham)
+[therefore](ataḥ) [dissolution-form](saṃhārarūpo) [this](ayaṃ) [without](vinā) [how](katham)
 
 ## mukta-m0-p12-v300
-[therefore](tasmāt) [own-form-firmness](svarūpa-dārḍhyena) [all-covering-breaking](sarva-āvaraṇa-bhedinā)
+[therefore](tasmāt) [by-own-nature-firmness](svarūpadārḍhyena) [by-all-covering-piercer](sarvāvaraṇabhedinā)
