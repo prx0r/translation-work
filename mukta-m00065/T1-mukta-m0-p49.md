@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[chin](cibuka) [lips](oṣṭhau) [by-division](vibhāgena) [nose](nāsā) [forehead](lalāṭa) [stake](stakam)
+[split-lips](cibukoṣṭhau) [by-division](vibhāgena) [nose-forehead-stalk](nāsālalāṭastakam)
 
 ## mukta-m0-p49-v1202
-[linga-side](liṅgapārśve) [by-two-parts](dvibhāgena) [part](bhāgam) [abandoning](tyaktvā) [above-that](tadūrdhvataḥ)
+[linga-sides](liṅgapārśce) [two-parts](dvibhāgena) [portion](bhāgaṃ) [leaving](tyaktvā) [above-that](tadūrdhvataḥ)
 
 ## mukta-m0-p49-v1203
-[five-faced-etc](pañtrāsyādyekavaktrāntam) [this-only](ayameva) [rule](vidhiḥ) [again](punaḥ)
+[five-faces-etc](pañtrāsyādyekavaktrāntamayameva) [rule](vidhiḥ) [again](punaḥ)
 
 ## mukta-m0-p49-v1204
-[five-faced-and-so-forth](pañcānanādikaṃ) [declared](proktaṃ) [very-clear](suvyaktam) [is-said](adhudanocyate)
+[five-faced-etc](pañcānanādikaṃ) [declared](proktaṃ) [clearly](suvyaktam) [honey-speech](adhudanocyate)
 
 ## mukta-m0-p49-v1205
-[two-armed](dvibāhūni) [upper-bodies](ūrdhvadehāni) [Vishnu-end-feet](viṣṇavantacaraṇāni) [and](ca)
+[two-armed-upper-bodies](dvibāhūnyūrdhvadehāni) [viṣṇu-feet](viṣṇavantacaraṇāni) [also](ca)
 
 ## mukta-m0-p49-v1206
-[front-body](pūrvakāye) [man](pumāṃsaṃ) [but](tu) [citron-eyed-possessing](mātuluṅgākṣaśalinam)
+[front-body](pūrvakāye) [man](pumāṃsaṃ) [tu](tu) [citron-eyed](mātuluṅgākṣaśalinam)
 
 ## mukta-m0-p49-v1207
-[woman-form](stryākāram) [in-speech](uktare) [secret](guhyaṃ) [mirror-lotus-endowed](darpaṇotpalasaṃyutam)
+[woman-form](stryākāram) [upper](uktare) [secret](guhyaṃ) [mirror-lotus-joined](darpaṇotpalasaṃyutam)
 
 ## mukta-m0-p49-v1208
-[clear](suvyakta) [fivefold](pañcadhā) [thus](hyevam) [mouth-rule-established](āsyovatābidhisaṃsthitam)
+[clear-fivefold-thus](suvyakta) [pañcadhāhyevamāsyovatābidhisaṃsthitam)
 
 ## mukta-m0-p49-v1209
-[thus](evaṃ) [having-made](niṣpādya) [lingas](liṅgāni) [pedestal](piṇḍikāṃ) [should-fashion](vartayettataḥ)
+[thus](evaṃ) [having-made](niṣpādya) [lingas](liṅgāni) [pedestal](piṇḍikāṃ) [let-one-turn](vartayettataḥ)
 
 ## mukta-m0-p49-v1210
-[thus](iti) [in-characteristics-compendium](lakṣaṇasamuccaye) [of-manifest-unmanifest-lingas](vyaktāvyaktaliṅgānāṃ) [tenfold](daśadhā) [fashioning](vartanaṃ) [named](nāma) [seventh](saptamo) [rite](vidhiḥ) [then](athoṣṭama)
+[thus](iti) [mark-collection](lakṣaṇasamuccaye) [manifest-unmanifest-lingas](vyaktāvyaktaliṅgānāṃ) [tenfold](daśadhā) [turning](vartanaṃ) [named](nāma) [seventh](saptamo) [rite](vidhiḥ) [then-eighth](athoṣṭama)
 
 ## mukta-m0-p49-v1211
-[of-great](mahatyāḥ) [of-dawn](prātamāyāśca) [of-direction-linga-etc](digliṅgādeśca) [in-accomplishment](sādhane)
+[great](mahatyāḥ) [dawn-power](prātamāyāśca) [direction-linga-etc](digliṅgādeśca) [in-rite](sādhane)
 
 ## mukta-m0-p49-v1212
-[nine-knowledge](navajñāṃ) [should-make](kārayettasmātkadācidubhayorapi)
+[nine-knowledge](navajñāṃ) [let-one-make](kārayettasmātkadācidubhayorapi)
 
 ## mukta-m0-p49-v1213
-[pedestal](piṇḍikā) [but](tu) [declared](samākhyātā) [not](na) [deficient](hīnā) [not](nādhikā) [excessive](adhikā) [auspicious](śubhā)
+[pedestal](piṇḍikā) [tu](tu) [declared](samākhyātā) [not-less](na hīnā) [not-more](nādhikā) [auspicious](śubhā)
 
 ## mukta-m0-p49-v1214
-[girdle](mekhalā) [by-its-third-part](tattribhāgena) [excavation](khātaṃ) [that-third-part-less](tattryṃśahīnakam)
+[girdle](mekhalā) [that-third-part](tattribhāgena) [pit](khātaṃ) [that-thirty-less](tattryṃśahīnakam)
 
 ## mukta-m0-p49-v1215
-[in-middle](madhye) [circle](vṛttaṃ) [having-drawn](samālikhya) [should-fashion](vartayetkhātamādarāt)
+[middle](madhye) [circle](vṛttaṃ) [having-drawn](samālikhya) [let-one-turn-pit](vartayetkhātamādarāt)
 
 ## mukta-m0-p49-v1216
-[below](arvāg) [by-length-third](dairghyatribhāgena) [girdle-fashioning](mekhalāvartanaṃ) [outside](bahiḥ)
+[below](arvāg) [length-third-part](dairghyatribhāgena) [girdle-turning](mekhalāvartanaṃ) [outside](bahiḥ)
 
 ## mukta-m0-p49-v1217
-[at-mouth](mukhe) [its-half-width](tadardhavistāraṃ) [in-string-part](tantribhāge) [water-outlet](ambunirgamaḥ)
+[mouth](mukhe) [half-width](tadardhavistāraṃ) [third-part](tantribhāge) [water-outlet](ambunirgamaḥ)
 
 ## mukta-m0-p49-v1218
-[from-throat](kaṇṭhādūrdhvaṃ) [above](ūrdhvaṃ) [always](sadā) [thus](hyevam) [otherwise](anyathā) [fault-giving](doṣadāyakam)
+[neck-above](kaṇṭhādūrdhvaṃ) [always](sadā) [thus](hyevam) [otherwise](anyathā) [fault-giving](doṣadāyakam)
 
 ## mukta-m0-p49-v1219
-[by-sixth-part-entry](ṣaṣṭhāṃśaveśanātkaṇṭhaścalānāṃ) [throat](kaṇṭha) [of-movable](calānāṃ) [by-fifth](pañcamena) [or](vā)
+[sixth-part-entrance](ṣaṣṭhāṃśaveśanātkaṇṭhaścalānāṃ) [fifth](pañcamena) [or](vā)
 
 ## mukta-m0-p49-v1220
-[in-unmanifest](avyakte) [in-mixed](miśrake) [in-own-part](svāṃśe) [from-Brahma-Vishnu-nature](brahmaviṣṇusvarūpataḥ)
+[unmanifest](avyakte) [mixed](miśrake) [own-part](svāṃśe) [brahma-viṣṇu-form](brahmaviṣṇusvarūpataḥ)
 
 ## mukta-m0-p49-v1221
-[by-linga-thickness-measure](liṅgasthaulyapramāṇena) [with-juice](samāsraṃ) [direction-intercardinal-situated](digvidiksthitam)
+[linga-thickness-measure](liṅgasthaulyapramāṇena) [with-sap](samāsraṃ) [direction-diagonal-situated](digvidiksthitam)
 
 ## mukta-m0-p49-v1222
-[all-around](samantājjyeṣṭhaliṅgasya) [of-eldest-linga](jyeṣṭhaliṅgasya) [by-barley-grains](yavaiḥ) [by-six](ṣaḍbhirvivardhitam)
+[all-around](samantājjyeṣṭhaliṅgasya) [barley-six](yavaiḥ ṣaḍbhirvivardhitam)
 
 ## mukta-m0-p49-v1223
-[like-linga](liṅgavannirmalā) [pure](nirmalā) [clean](śuddhā) [to-be-made](kartavyā) [pedestal](piṇḍikā) [by-wise](budhaiḥ)
+[linga-like](liṅgavannirmalā) [pure](śuddhā) [to-be-made](kartavyā) [pedestal](piṇḍikā) [by-wise](budhaiḥ)
 
 ## mukta-m0-p49-v1224
-[of-remaining](śeṣāṇāṃ) [of-lingas](liṅgānām) [half-half](ardhārdha) [should-diminish](hrāsayedyavam)
+[remaining](śeṣāṇāṃ) [lingas](liṅgānām) [half-half](ardhārdha) [reduce](hrāsayedyavam)
 
 ## mukta-m0-p49-v1225
-[of-desires](kāmānāṃ) [of-wealth-its](vasutastasya) [distinctions](bhedān) [we-speak](brūmaḥ) [briefly](samāsataḥ)
+[desires](kāmānāṃ) [wealth-from](vasutastasya) [divisions](bhedān) [we-speak](brūmaḥ) [briefly](samāsataḥ)
