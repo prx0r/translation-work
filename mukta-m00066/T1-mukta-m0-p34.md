@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[somewhat](kiṃcit) [slimy-attained](piccilitāpannaṃ) [somewhat](kiṃcid) [very-subtle-bubble](utsūkṣmabudbudam)
+somewhat-slimy-attained somewhat-very-subtle-bubble
 
 ## mukta-m0-p34-v827
-[extremely-bliss-making](atyānaṃdakaraṃ) [goddess](devi) [by-touch-alone](sparśanādeva) [of-serpents](bhoginām)
+extremely-bliss-making goddess by-touch-only of-enjoyers
 
 ## mukta-m0-p34-v828
-[red-named](śoṇābhidhā) [great-tirtha](mahātīrtha) [illusion-sorrow-drying](mayaṃśokaviśoṣaṇam)
+red-named great-tirtha illusion-sorrow-drying
 
 ## mukta-m0-p34-v829
-[linga-formed](liṃgarūpiṇam) [great-rage-flame-matted-hair-mass](uddāmarāgajvālājaṭākulam)
+linga-formed intense-passion-flame-matted-hair-tangled
 
 ## mukta-m0-p34-v830
-[great-linga](mahāliṃga) [great-lord](maheśāna) [with-juices-moonlike](rasaiścaṃdravatī) [with-states](bhavaiḥ)
+great-linga great-lord with-juices-moonlike states
 
 ## mukta-m0-p34-v831
-[of-devotee-ishana-state](bhaktasyeśānabhāvaṃ) [and](ca) [sun-principle-subjugation](sūryatatvavaśīkṛtim)
+of-devotee-ishana-state and sun-principle-subjugation
 
 ## mukta-m0-p34-v832
-[of-senses](iṃdriyāṇāṃ) [strength](prabalatāṃ) [far-seeing](dūradṛṣṭim) [O-Ambika](adāṃbike)
+of-senses strength far-sight O-ambika
 
 ## mukta-m0-p34-v833
-[grants](prayacchati) [all](akhilāṃ) [siddhi](siddhiṃ) [luminous](taijasīṃ) [world-shining](viśvabhāsinīm)
+grants-all siddhi luminous world-shining
 
 ## mukta-m0-p34-v834
-[by-this](anayā) [fifth-offering](paṃcamāhutyā) [five-faced-equal](paṃcānanasamo) [becomes](bhavet)
+by-this fifth-offering five-faced-equal becomes
 
 ## mukta-m0-p34-v835
-[at-fifth-offering-time](paṃcamāhutikāle) [but](tu) [messenger-state](dūtyavasthā) [is-reported](nivedyate)
+at-fifth-offering-time but messenger-state is-reported
 
 ## mukta-m0-p34-v836
-[repeatedly](muhuḥ) [eyelash](pakṣma) [entry-and](praveśaśca) [of-two-eye-pupils](netratārakayordvayoḥ)
+repeatedly eyelash entry and of-two-eye-pupils
 
 ## mukta-m0-p34-v837
-[with-longing](utkaṇṭhataḥ) [pigeon-woman-throat-stammering-speech](kapotastrīgalagadgadabhāṣitam)
+eagerly pigeon-woman-throat-stammering-speech
 
 ## mukta-m0-p34-v838
-[garland-arrangement](alamālāparacanaṃ) [again-enthusiasm](punarutsāha) [speech](bhāṣaṇam)
+enough-garland-arrangement again-enthusiasm speech
 
 ## mukta-m0-p34-v839
-[not](na) [anything-even](kiṃcidapi) [I-know](jānāmi) [born-I](jātāhaṃ) [your](tava) [servant](kiṃkarī)
+not anything know I-born I your servant
 
 ## mukta-m0-p34-v840
-[I](ahaṃ) [your-single-refuge-protector](tvadekaśaraṇārakṣarakṣa) [firmly-abandon](dṛḍhaṃjahi)
+I your-only-refuge-protector-protect firmly-abandon
 
 ## mukta-m0-p34-v841
-[somewhat](kiṃcid) [yoni-descent-even](yonyavasādepi) [of-mind](manasaḥ) [very-great-effort](sumahodyamaḥ)
+somewhat-yoni-descent-even of-mind great-effort
 
 ## mukta-m0-p34-v842
-[in-all-even](sarvesvapi) [and](ca) [in-limbs](gātreṣu) [musk-fragrance-arising](madagaṃdhasamudbhavaḥ)
+in-all and in-limbs intoxicating-fragrance-arising
 
 ## mukta-m0-p34-v843
-[love-afflicted](kāmārtta) [osprey-throat](kurarīkaṃṭha) [cry-like-jewel-sound](rutavanmaṇitadhvaniḥ)
+love-afflicted osprey-throat like-cry-jewel-sound
 
 ## mukta-m0-p34-v844
-[thus-etc](ityādayo) [qualities](guṇāḥ) [declared](proktāḥ) [in-fifth-offering](paṃcamyāmāhutau) [again](punaḥ)
+thus-etc qualities stated in-fifth-offering again
 
 ## mukta-m0-p34-v845
-[five-syllable-a](arapaṃcaka) [joined](saṃyuktā) [swastika-shaped](svastikākāraśālinī)
+a-ra-pañcaka joined swastika-form-possessing
 
 ## mukta-m0-p34-v846
-[bearing](bibhratī) [moon-cool](caṃdraśiśirātasyā) [nectar](mastyamṛtaṃ) [of-moon](vidhoḥ)
+bearing moon-cool-nectar of-moon
 
 ## mukta-m0-p34-v847
-[rubbing-needing](mardanāpekṣaṇī) [may-be](bhūyāstasmādeyā) [long-flowing](ciradravā)
+needing-rubbing may-be therefore-given long-flowing
 
 ## mukta-m0-p34-v848
-[of-linga-lord-indeed](liṃgeśvarasyaiva) [city](puram) [raised-upward-tandava](uddhatairūrdhvatāṇḍavaiḥ)
+of-linga-lord indeed city-raised-upward-tandavas
 
 ## mukta-m0-p34-v849
-[flows](sravatyamṛtavicchardamaiṃdavaṃ) [joy-increasing](harṣavardhanam)
+flows nectar-vomit lunar joy-increasing
 
 ## mukta-m0-p34-v850
-[its](tasya) [own-form](svarūpamadhunā) [distinctly-tell-me](vivicyakathayasvame)
+its own-form now distinctly-tell-me
