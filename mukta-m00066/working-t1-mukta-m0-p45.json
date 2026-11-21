@@ -23,16 +23,8 @@
 "quick_gloss": "jingling"
 },
 {
-"surface": "kaṃkaṇa",
-"quick_gloss": "bracelet"
-},
-{
-"surface": "dor",
-"quick_gloss": "arm"
-},
-{
-"surface": "latāḥ",
-"quick_gloss": "vine"
+"surface": "kaṃkaṇa+dorlatāḥ",
+"quick_gloss": "bracelet+arm-vine"
 }
 ]
 },
@@ -93,16 +85,16 @@
 "quick_gloss": "even"
 },
 {
-"surface": "prākāraśatakair",
-"quick_gloss": "with-hundred-walls"
+"surface": "prākāraśatakaiḥ",
+"quick_gloss": "by-hundred-walls"
 },
 {
 "surface": "anukṣaṇa",
-"quick_gloss": "every-moment"
+"quick_gloss": "constantly"
 },
 {
 "surface": "surakṣitāḥ",
-"quick_gloss": "well-guarded"
+"quick_gloss": "well-protected"
 }
 ]
 },
@@ -119,19 +111,19 @@
 },
 {
 "surface": "duḥsilakaraṇe",
-"quick_gloss": "bad-conduct"
+"quick_gloss": "bad-conduct-making"
+},
+{
+"surface": "paravyāmohane",
+"quick_gloss": "others-deluding"
+},
+{
+"surface": "api",
+"quick_gloss": "even"
 },
 {
 "surface": "ca",
 "quick_gloss": "and"
-},
-{
-"surface": "paravyāmohane",
-"quick_gloss": "deceiving-others"
-},
-{
-"surface": "api",
-"quick_gloss": "also"
 }
 ]
 },
@@ -152,11 +144,15 @@
 },
 {
 "surface": "gṛhastāsāṃ",
-"quick_gloss": "grasped"
+"quick_gloss": "householder-their"
 },
 {
-"surface": "cittasyātī",
-"quick_gloss": "of-mind"
+"surface": "cittasya",
+"quick_gloss": "mind's"
+},
+{
+"surface": "atī",
+"quick_gloss": "beyond"
 },
 {
 "surface": "valolataḥ",
@@ -177,7 +173,7 @@
 },
 {
 "surface": "pūtirmanasaḥ",
-"quick_gloss": "purity"
+"quick_gloss": "purity-of-mind"
 },
 {
 "surface": "kvāpi",
@@ -192,12 +188,8 @@
 "quick_gloss": "satisfaction"
 },
 {
-"surface": "kvāpi",
-"quick_gloss": "anywhere"
-},
-{
-"surface": "karmaṇi",
-"quick_gloss": "in-action"
+"surface": "kvāpikarmaṇi",
+"quick_gloss": "anywhere-in-action"
 }
 ]
 },
@@ -217,16 +209,8 @@
 "quick_gloss": "thinking"
 },
 {
-"surface": "gūḍhā",
-"quick_gloss": "hidden"
-},
-{
-"surface": "abhiprāya",
-"quick_gloss": "intention"
-},
-{
-"surface": "ceṣṭitāḥ",
-"quick_gloss": "efforts"
+"surface": "gūḍhābhiprāyaceṣṭitāḥ",
+"quick_gloss": "hidden-intention-deeds"
 }
 ]
 },
@@ -247,15 +231,15 @@
 },
 {
 "surface": "tāsāṃ",
-"quick_gloss": "of-them"
+"quick_gloss": "their"
 },
 {
 "surface": "manoglāniḥ",
-"quick_gloss": "mental-grief"
+"quick_gloss": "mind-weariness"
 },
 {
 "surface": "prāṇaparyaṃta",
-"quick_gloss": "to-life-limit"
+"quick_gloss": "life-limit"
 },
 {
 "surface": "sāhasaiḥ",
@@ -275,28 +259,24 @@
 "quick_gloss": "not"
 },
 {
-"surface": "agniḥ",
-"quick_gloss": "fire"
-},
-{
-"surface": "tṛpyati",
-"quick_gloss": "satisfied"
+"surface": "agnistṛpyati",
+"quick_gloss": "fire-satisfied"
 },
 {
 "surface": "kāṣṭhānāṃ",
-"quick_gloss": "with-wood"
+"quick_gloss": "by-wood"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "mahodadhiḥ",
-"quick_gloss": "ocean"
+"surface": "āpagānāṃ",
+"quick_gloss": "rivers'"
 },
 {
-"surface": "nāpagānāṃ",
-"quick_gloss": "of-rivers"
+"surface": "mahodadhiḥ",
+"quick_gloss": "great-ocean"
 }
 ]
 },
@@ -316,16 +296,8 @@
 "quick_gloss": "double-food"
 },
 {
-"surface": "buddhiḥ",
-"quick_gloss": "mind"
-},
-{
-"surface": "ca",
-"quick_gloss": "also"
-},
-{
-"surface": "api",
-"quick_gloss": "api"
+"surface": "buddhiścāpi",
+"quick_gloss": "intelligence-and"
 },
 {
 "surface": "caturguṇam",
@@ -354,7 +326,7 @@
 },
 {
 "surface": "kāmāṣṭakaṃ",
-"quick_gloss": "love-octad"
+"quick_gloss": "eight-desires"
 },
 {
 "surface": "mayā",
@@ -375,11 +347,11 @@
 },
 {
 "surface": "dṛṣṭīnāṃ",
-"quick_gloss": "of-crooked-glance"
+"quick_gloss": "of-glancing"
 },
 {
 "surface": "marālacikurabhruvām",
-"quick_gloss": "of-black-hair-eyebrow"
+"quick_gloss": "deer-curl-browed"
 }
 ]
 },
@@ -392,27 +364,23 @@
 "tokens": [
 {
 "surface": "tāsāṃ",
-"quick_gloss": "of-them"
+"quick_gloss": "their"
 },
 {
 "surface": "yadi",
 "quick_gloss": "if"
 },
 {
-"surface": "mano",
-"quick_gloss": "mind"
-},
-{
-"surface": "puṃsi",
-"quick_gloss": "in-man"
+"surface": "manopuṃsi",
+"quick_gloss": "mind-in-men"
 },
 {
 "surface": "kutrāpi",
-"quick_gloss": "somewhere"
+"quick_gloss": "anywhere"
 },
 {
 "surface": "parilipyate",
-"quick_gloss": "sticks"
+"quick_gloss": "clings"
 }
 ]
 },
@@ -429,7 +397,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "dravati",
@@ -437,7 +405,7 @@
 },
 {
 "surface": "bhogāṃbu",
-"quick_gloss": "enjoyment-water"
+"quick_gloss": "pleasure-water"
 },
 {
 "surface": "na",
@@ -445,11 +413,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 },
 {
 "surface": "vibhramasaṃpadaḥ",
-"quick_gloss": "wealth-of-charm"
+"quick_gloss": "charm-wealth"
 }
 ]
 },
@@ -470,15 +438,15 @@
 },
 {
 "surface": "vakṣya",
-"quick_gloss": "will-speak"
+"quick_gloss": "will-say"
 },
 {
 "surface": "manyato",
-"quick_gloss": "from-mind"
+"quick_gloss": "otherwise"
 },
 {
 "surface": "hariṇīdṛśām",
-"quick_gloss": "of-deer-eyed"
+"quick_gloss": "deer-eyed"
 }
 ]
 },
@@ -490,28 +458,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sauṃdarya",
-"quick_gloss": "beauty"
+"surface": "sauṃdaryavibhramālāpa",
+"quick_gloss": "beauty-charm-speech"
 },
 {
-"surface": "vibhrama",
-"quick_gloss": "charm"
-},
-{
-"surface": "ālāpa",
-"quick_gloss": "speech"
-},
-{
-"surface": "saukhya",
-"quick_gloss": "pleasure"
-},
-{
-"surface": "śṛṃgāra",
-"quick_gloss": "erotic"
-},
-{
-"surface": "saṃpadaḥ",
-"quick_gloss": "wealth"
+"surface": "saukhyaśṛṃgārasaṃpadaḥ",
+"quick_gloss": "pleasure-love-wealth"
 }
 ]
 },
@@ -523,20 +475,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "avahiththā",
-"quick_gloss": "concealment"
+"surface": "avahiththāvaśena",
+"quick_gloss": "concealment-by"
 },
 {
-"surface": "vaśenaiva",
-"quick_gloss": "by-force"
+"surface": "eva",
+"quick_gloss": "alone"
 },
 {
-"surface": "parapūruṣa",
-"quick_gloss": "toward-other-man"
-},
-{
-"surface": "lolatā",
-"quick_gloss": "fickleness"
+"surface": "parapūruṣalolatā",
+"quick_gloss": "others-man-fickleness"
 }
 ]
 },
@@ -549,7 +497,7 @@
 "tokens": [
 {
 "surface": "mūḍhāstabdhā",
-"quick_gloss": "fools"
+"quick_gloss": "foolish-stunned"
 },
 {
 "surface": "na",
@@ -564,12 +512,8 @@
 "quick_gloss": "feeling"
 },
 {
-"surface": "kṛtrima",
-"quick_gloss": "artificial"
-},
-{
-"surface": "ceṣṭitam",
-"quick_gloss": "effort"
+"surface": "kṛtrimaceṣṭitam",
+"quick_gloss": "artificial-deed"
 }
 ]
 },
@@ -586,19 +530,15 @@
 },
 {
 "surface": "mūḍhena",
-"quick_gloss": "fool"
+"quick_gloss": "by-fool"
 },
 {
 "surface": "durllakṣyaṃ",
 "quick_gloss": "hard-to-perceive"
 },
 {
-"surface": "strīṇām",
-"quick_gloss": "of-women"
-},
-{
-"surface": "ākṛticeṣṭitam",
-"quick_gloss": "form-effort"
+"surface": "strīṇāmākṛticeṣṭitam",
+"quick_gloss": "women's-form-deed"
 }
 ]
 },
@@ -619,15 +559,15 @@
 },
 {
 "surface": "sarveṣāṃ",
-"quick_gloss": "of-all"
+"quick_gloss": "all"
 },
 {
 "surface": "vaṃcakā",
-"quick_gloss": "deceiver"
+"quick_gloss": "deceivers"
 },
 {
 "surface": "vamalocanā",
-"quick_gloss": "beautiful-eyed"
+"quick_gloss": "crooked-eyed"
 }
 ]
 },
@@ -644,11 +584,7 @@
 },
 {
 "surface": "śāstravivettāraṃmapi",
-"quick_gloss": "scripture-knower"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "scripture-knower-even"
 },
 {
 "surface": "śāstreṇa",
@@ -673,11 +609,7 @@
 },
 {
 "surface": "rajjupraharaṇamapi",
-"quick_gloss": "rope-striking"
-},
-{
-"surface": "api",
-"quick_gloss": "even"
+"quick_gloss": "rope-weapon"
 },
 {
 "surface": "rakṣaṇadakṣiṇam",
@@ -701,12 +633,8 @@
 "quick_gloss": "angry"
 },
 {
-"surface": "api",
-"quick_gloss": "even"
-},
-{
 "surface": "coramapiprabhum",
-"quick_gloss": "thief"
+"quick_gloss": "thief-even"
 }
 ]
 },
@@ -722,16 +650,12 @@
 "quick_gloss": "who"
 },
 {
-"surface": "hṛdayavyāla",
-"quick_gloss": "heart-serpent"
-},
-{
-"surface": "grahaṇe",
-"quick_gloss": "catching"
+"surface": "hṛdayavyālagrahaṇe",
+"quick_gloss": "heart-snake-catching"
 },
 {
 "surface": "cāhituṃḍikaḥ",
-"quick_gloss": "snake-charmer"
+"quick_gloss": "and-hook-holder"
 }
 ]
 },
@@ -744,7 +668,7 @@
 "tokens": [
 {
 "surface": "vīrasyeva",
-"quick_gloss": "of-hero"
+"quick_gloss": "hero-like"
 },
 {
 "surface": "prakṛṣṭena",
@@ -752,7 +676,7 @@
 },
 {
 "surface": "samācāreṇajāyate",
-"quick_gloss": "conduct"
+"quick_gloss": "conduct-born"
 }
 ]
 }
