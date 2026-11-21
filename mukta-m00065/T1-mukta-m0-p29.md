@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[to-be-done](kartavyā) [by-that-division](taddvibhāgena) [image](pratimā) [with-excellent](sottamā) [considered](matā)
+[kartavyā](kartavyā) [taddvibhāgena](taddvibhāgena) [pratimā](pratimā) [sottamā](sottamā) [matā](matā)
 
 ## mukta-m0-p29-v702
-[nine-to-end](navāntaṃ) [in-triple-trikas](tritrikānteṣu) [youngest-etc](kanyasādyāḥ) [declared](prakīrtitāḥ)
+[navāntaṃ](navāntaṃ) [tritrikānteṣu](tritrikānteṣu) [kanyasādyāḥ](kanyasādyāḥ) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p29-v703
-[seat](pīṭha) [door-expansion](dvārapravistāraṃ) [maya](mayaś) [made-in-own-view](cakresvake mate)
+[pīṭha](pīṭha) [dvārapravistāraṃ](dvārapravistāraṃ) [mayaścakre](mayaścakre) [svake](svake) [mate](mate)
 
 ## mukta-m0-p29-v704
-[by-tithi-seat-half-etc](tithimāsanavatyardhaihīnamadhyottamāstridhā)
+[tithimāsana](tithimāsana) [vat](vat) [ardha](ardha) [hīna](hīna) [madhya](madhya) [uttamāḥ](uttamāḥ) [tridhā](tridhā)
 
 ## mukta-m0-p29-v705
-[lame-forms](paṅgurūpāśca) [pumpkin-demons](kūṣmāṇḍāḥ) [sevenfold-images](saptadhārcāśca) [should-make](vartayet)
+[paṅgurūpāḥ](paṅgurūpāḥ) [ca](ca) [kūṣmāṇḍāḥ](kūṣmāṇḍāḥ) [saptadhā](saptadhā) [arcāḥ](arcāḥ) [ca](ca) [vartayet](vartayet)
 
 ## mukta-m0-p29-v706
-[dividing](vibhajya) [by-shakti-thread](śaktisūtreṇa) [from-stars-etc](ṛkṣādibhyaḥ) [on-auspicious-day](śubhe dine)
+[vibhajya](vibhajya) [śaktisūtreṇa](śaktisūtreṇa) [ṛkṣādibhyaḥ](ṛkṣādibhyaḥ) [śubhe](śubhe) [dine](dine)
 
 ## mukta-m0-p29-v707
-[seat-self-refuge-life-parts](pīṭhātmāśrayajīvāṃśca) [radiance-etc](prabhādīṃśca) [should-arrange](prakalpayet)
+[pīṭha](pīṭha) [ātmā](ātmā) [āśraya](āśraya) [jīva](jīva) [aṃśa](aṃśa) [ca](ca) [prabhā](prabhā) [ādi](ādi) [ca](ca) [prakalpayet](prakalpayet)
 
 ## mukta-m0-p29-v708
-[having-made-below-part](kṛtvādhoṃśagataḥ) [seat](pīṭhaṃ) [in-third-part](tribhāge) [life-arrangement](jīvakalpanā)
+[kṛtvā](kṛtvā) [adha](adha) [aṃśa](aṃśa) [gata](gata) [pīṭha](pīṭha) [tribhāge](tribhāge) [jīva](jīva) [kalpanā](kalpanā)
 
 ## mukta-m0-p29-v709
-[with-self-refuge](sātmāśrayāṃ) [with-messenger](sadūtīṃ) [image](pratimāṃ) [should-make-then](vartayettataḥ)
+[sātmā](sātmā) [āśrayā](āśrayā) [sadūtī](sadūtī) [ca](ca) [pratimā](pratimā) [vartayet](vartayet) [tataḥ](tataḥ)
 
 ## mukta-m0-p29-v710
-[making-one-part-angula](bhāgaikamaṅgula kṛtvā) [great-image](mahārcāṃ) [should-make-wise](vatayedbudhaḥ)
+[bhāga](bhāga) [eka](eka) [aṅgula](aṅgula) [kṛtvā](kṛtvā) [mahārcā](mahārcā) [vatayed](vatayed) [budha](budha)
 
 ## mukta-m0-p29-v711
-[in-one-part-angula](eka bhāge'ṅgulaṃ) [of-it](tasyā) [that-limb](stenāṅgaṃ) [should-arrange](parikalpayet)
+[eka](eka) [bhāge](bhāge) [aṅgula](aṅgula) [tasyā](tasyā) [stena](stena) [aṅga](aṅga) [parikalpayet](parikalpayet)
 
 ## mukta-m0-p29-v712
-[maya-thread-even-placing](maye sūtraṃ samaṃ nyasya) [straight-image](ṛjvarcāṃ) [should-make-auspicious](kārayecchubhām)
+[maye](maye) [sūtra](sūtra) [sama](sama) [nyasya](nyasya) [ṛju](ṛju) [arcā](arcā) [kārayet](kārayet) [śubhā](śubhā)
 
 ## mukta-m0-p29-v713
-[of-life-length-measure](jīvasyāddairghyamānena) [limbs-now](pratyaṅgānyadhunā) [i-say](vruve)
+[jīvasya](jīvasya) [ād](ād) [dairghya](dairghya) [mānena](mānena) [pratyaṅgāni](pratyaṅgāni) [adhunā](adhunā) [vruve](vruve)
 
 ## mukta-m0-p29-v714
-[by-measures-tithi-counts](mātrābhistithisaṃkhyābhiḥ) [crown-wrapping](mukuṭa veṣṭanaṃ) [becomes](bhavet)
+[mātrā](mātrā) [bhiḥ](bhiḥ) [tithi](tithi) [saṃkhyā](saṃkhyā) [bhiḥ](bhiḥ) [mukuṭa](mukuṭa) [veṣṭana](veṣṭana) [bhavet](bhavet)
 
 ## mukta-m0-p29-v715
-[tala-measure](tālamānaṃ) [becomes-curved](bhavedvakraṃ) [neck](grīvā) [four-angulas](ca caturaṅgulā)
+[tāla](tāla) [māna](māna) [bhaved](bhaved) [vakra](vakra) [grīvā](grīvā) [ca](ca) [caturaṅgulā](caturaṅgulā)
 
 ## mukta-m0-p29-v716
-[tala-one-one-measure](tālaikaikapramāṇaṃ) [should-be-thighs](syādūrū) [tala-exit](tālavinirgamau)
+[tāla](tāla) [ekaika](ekaika) [pramāṇa](pramāṇa) [syāt](syāt) [ūrū](ūrū) [tāla](tāla) [vinirgama](vinirgama)
 
 ## mukta-m0-p29-v717
-[to-be-known](jñeyau) [ankles](gulphau) [two-eyes](dvinetrau) [heels-two-angulas](pārṣṇīdvyaṅgulake mate)
+[jñeyau](jñeyau) [gulphau](gulphau) [dvinetrau](dvinetrau) [ca](ca) [pārṣṇī](pārṣṇī) [dvyaṅgulake](dvyaṅgulake) [mate](mate)
 
 ## mukta-m0-p29-v718
-[in-middle-two-kalas-height](madhye kalādvayocchrāyovagresārdhārdha mātrakau)
+[madhye](madhye) [kalā](kalā) [dvaya](dvaya) [ucchrāya](ucchrāya) [agre](agre) [sārdha](sārdha) [ardha](ardha) [mātrakau](mātrakau)
 
 ## mukta-m0-p29-v719
-[five-angulas](pañcāṅgulau) [by-wrapping](veṣṭanena) [one-and-half-angula-two-joints](sārdhāṅgaladviparvaṇī)
+[pañcāṅgulau](pañcāṅgulau) [veṣṭana](veṣṭana) [sārdha](sārdha) [aṅgala](aṅgala) [dvi](dvi) [parvaṇī](parvaṇī)
 
 ## mukta-m0-p29-v720
-[three-angulas](tryaṅgulā) [circumference](pariṇāhena) [are-declared-now-others](kathyante tvadhunāparāḥ)
+[tryaṅgulā](tryaṅgulā) [pariṇāha](pariṇāha) [kathyante](kathyante) [tu](tu) [adhunā](adhunā) [aparāḥ](aparāḥ)
 
 ## mukta-m0-p29-v721
-[toe-fingers-three-joints](pādāṅgulyastriparvāṇaḥ) [half-joint-nail-beautiful](parvārdhanakhaśobhitāḥ)
+[pādāṅgulyaḥ](pādāṅgulyaḥ) [triparvāṇaḥ](triparvāṇaḥ) [parva](parva) [ardha](ardha) [nakha](nakha) [śobhitāḥ](śobhitāḥ)
 
 ## mukta-m0-p29-v722
-[red-sole](kārāṅghri talakaṃ raktaṃ) [nails-raised-red](nakhāḥ savonnatāruṇāḥ)
+[kāra](kāra) [aṅghri](aṅghri) [talaka](talaka) [rakta](rakta) [nakhāḥ](nakhāḥ) [sa](sa) [unnata](unnata) [aruṇāḥ](aruṇāḥ)
 
 ## mukta-m0-p29-v723
-[upper-arms-ten-eight-parts](upabāhū daśāṣṭāṃśau) [sixteen-angula-arms](ṣoḍaśāṅgulakau bhujau)
+[upabāhū](upabāhū) [daśa](daśa) [aṣṭa](aṣṭa) [aṃśau](aṃśau) [ṣoḍaśa](ṣoḍaśa) [aṅgulakau](aṅgulakau) [bhujau](bhujau)
 
 ## mukta-m0-p29-v724
-[five-angulas](bhūtāṅgulā) [middle](bhavenmadhyā) [half-less-ring](ardhahīnā tvanāmikā)
+[bhūta](bhūta) [aṅgulā](aṅgulā) [bhaven](bhaven) [madhyā](madhyā) [ardha](ardha) [hīnā](hīnā) [tu](tu) [anāmikā](anāmikā)
 
 ## mukta-m0-p29-v725
-[middle-etc-three-joints](madhyamādyāstriparvāṇo) [two-joint-thumb](dviparvāṅguṣṭhako mataḥ)
+[madhyamā](madhyamā) [ādyāḥ](ādyāḥ) [triparvāṇaḥ](triparvāṇaḥ) [dviparva](dviparva) [aṅguṣṭhaka](aṅguṣṭhaka) [mataḥ](mataḥ)
