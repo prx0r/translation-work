@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[gloss](calanāt) [gloss](moharūpasya) [gloss](kramaṇāt) [gloss](parasaṃvidaḥ)
+[motion-from](calanāt) [delusion-form's](moharūpasya) [step-by](kramaṇāt) [supreme-consciousness's](parasaṃvidaḥ)
 
 ## mukta-m0-p15-v352
-[gloss](uddyotātikramaḥ) [gloss](cāpi) [gloss](dvaividhyena) [gloss](vyavasthitaḥ)
+[illumination-transcendence-and](uddyotātikramaścāpi) [duality-by](dvaividhyena) [established](vyavasthitaḥ)
 
 ## mukta-m0-p15-v353
-[gloss](ekas) [gloss](tadvyukramātmā) [gloss](anyaḥ) [gloss](parākāśapratiṣṭhitaḥ)
+[one](ekas) [that-transcendence-self](tadvyukramātmā) [other](anyaḥ) [supreme-space-established](parākāśapratiṣṭhitaḥ)
 
 ## mukta-m0-p15-v354
-[gloss](kāmasaṃsargataḥ) [gloss](tasya) [gloss](pratyāvṛttyā) [gloss](samantataḥ)
+[desire-contact-from](kāmasaṃsargataḥ) [its](tasya) [return](pratyāvṛttyā) [all-around](samantataḥ)
 
 ## mukta-m0-p15-v355
-[gloss](viṣayābhoganirjñātanirvikalpe) [gloss](api) [gloss](yat) [gloss](sphuṭam)
+[object-enjoyment-known](viṣayābhoganirjñāta) [undetermined-even](nirvikalpe'pi) [which](yat) [clear](sphuṭam)
 
 ## mukta-m0-p15-v356
-[gloss](antarmukhatve) [gloss](tu) [gloss](uddyotāt) [gloss](bhāvāmarśakriyātmakāt)
+[inwardness-in](antarmukhatve) [but-illumination-from](tūddyotāt) [being-reflection-action-self](bhāvāmarśakriyātmakāt)
 
 ## mukta-m0-p15-v357
-[gloss](evaṃ) [gloss](bahirmukhābhāvāvasare) [gloss](hi) [gloss](udayādikam)
+[thus](evaṃ) [outward-absence-occasion](bahirmukhābhāvāvasare) [indeed-rising-etc](hyudayādikam)
 
 ## mukta-m0-p15-v358
-[gloss](tad) [gloss](bahirviśvam) [gloss](āśritya) [gloss](tha) [gloss](kriyātmanaḥ)
+[that](tad) [outer-universe-relying](bahirviśvamāśritya) [action-self](kriyātmanaḥ)
 
 ## mukta-m0-p15-v359
-[gloss](samāśritya) [gloss](pūrvaṃ) [gloss](pīṭhakramātmanā)
+[relying](samāśritya) [before](pūrvaṃ) [seat-step-self](pīṭhakramātmanā)
 
 ## mukta-m0-p15-v360
-[gloss](tato) [gloss](viśvasya) [gloss](saṃsthānam) [gloss](āmūlāt) [gloss](pratipāditam)
+[then](tato) [universe's](viśvasya) [establishment](saṃsthānam) [from-root](āmūlāt) [shown](pratipāditam)
 
 ## mukta-m0-p15-v361
-[gloss](idānīṃ) [gloss](yena) [gloss](rūpeṇa) [gloss](sarvākāraṃ) [gloss](vilīyate)
+[now](idānīṃ) [by-which](yena) [form](rūpeṇa) [all-forms](sarvākāraṃ) [dissolves](vilīyate)
 
 ## mukta-m0-p15-v362
-[gloss](sāmarasye) [gloss](pravṛtte) [gloss](api) [gloss](jñānamelāpalakṣaṇe)
+[harmony-in](sāmarasye) [arisen-even](pravṛtte'pi) [knowledge-melting-mark](jñānamelāpalakṣaṇe)
 
 ## mukta-m0-p15-v363
-[gloss](ataḥ) [gloss](kriyāṃ vinā) [gloss](teṣāṃ) [gloss](hi) [gloss](nirharaṇaṃ) [gloss](bhavet)
+[therefore](ataḥ) [action](kriyāṃ) [without](vinā) [their](teṣāṃ) [indeed](hi) [removal](nirharaṇaṃ) [would-be](bhavet)
 
 ## mukta-m0-p15-v364
-[gloss](alaṃ) [gloss](grāsapravṛttena) [gloss](kriyāveśena) [gloss](tattvataḥ)
+[enough](alaṃ) [grasping-proceeding](grāsapravṛttena) [action-immersion](kriyāveśena) [truly](tattvataḥ)
 
 ## mukta-m0-p15-v365
-[gloss](raudreśvarīmayaḥ) [gloss](sphāraḥ) [gloss](parānugrahabhūmikaḥ)
+[raudreshvari-made](raudreśvarīmayaḥ) [expanse](sphāraḥ) [supreme-grace-ground](parānugrahabhūmikaḥ)
 
 ## mukta-m0-p15-v366
-[gloss](nissaṃskāraprakāmātmā) [gloss](parāśaktiḥ) [gloss](pravartate)
+[without-impressions-desire-self](nissaṃskāraprakāmātmā) [supreme-power](parāśaktiḥ) [proceeds](pravartate)
 
 ## mukta-m0-p15-v367
-[gloss](nirāvaraṇatā) [gloss](yasmāt) [gloss](ataḥ) [gloss](sañjāyate) [gloss](sphuṭam)
+[unveiledness](nirāvaraṇatā) [because](yasmāt) [from-that](ataḥ) [arises](sañjāyate) [clear](sphuṭam)
 
 ## mukta-m0-p15-v368
-[gloss](sopānakramarūpeṇa) [gloss](catuṣṣaṣṭiḥ) [gloss](nirūpitāḥ)
+[step-ladder-form](sopānakramarūpeṇa) [sixty-four](catuṣṣaṣṭiḥ) [determined](nirūpitāḥ)
 
 ## mukta-m0-p15-v369
-[gloss](cidvimarśasvarūpeṇa) [gloss](haṭhapākena) [gloss](gālanam)
+[consciousness-reflection-form](cidvimarśasvarūpeṇa) [forceful-cooking](haṭhapākena) [melting](gālanam)
 
 ## mukta-m0-p15-v370
-[gloss](tatra) [gloss](raudreśvarīrūpaṃ) [gloss](prathamaṃ) [gloss](ṣoḍaśātmanaḥ)
+[there](tatra) [raudreshvari-form](raudreśvarīrūpaṃ) [first](prathamaṃ) [sixteen-self](ṣoḍaśātmanaḥ)
 
 ## mukta-m0-p15-v371
-[gloss](nirāvaraṇatāṃ) [gloss](netuṃ) [gloss](pravṛttaṃ) [gloss](cidvimarśataḥ)
+[unveiledness](nirāvaraṇatāṃ) [to-lead](netuṃ) [proceeded](pravṛttaṃ) [consciousness-reflection-from](cidvimarśataḥ)
 
 ## mukta-m0-p15-v372
-[gloss](ahaṅkāreṇa) [gloss](siddhatvaṃ) [gloss](śritvā) [gloss](tattanmarīcinām)
+[ego-by](ahaṅkāreṇa) [accomplishment](siddhatvaṃ) [resorting](śritvā) [that-ray's](tattanmarīcinām)
 
 ## mukta-m0-p15-v373
-[gloss](āviśya) [gloss](meyasaṃskāracakraṃ) [gloss](tatra) [gloss](pralīyate)
+[entering](āviśya) [object-impression-wheel](meyasaṃskāracakraṃ) [there](tatra) [dissolves](pralīyate)
 
 ## mukta-m0-p15-v374
-[gloss](mānasaṃskāracakrasya) [gloss](pratyāvṛttikramātmanaḥ)
+[mental-impression-wheel's](mānasaṃskāracakrasya) [return-step-self](pratyāvṛttikramātmanaḥ)
 
 ## mukta-m0-p15-v375
-[gloss](mananatrāṇadharmābhyāṃ) [gloss](mantrasiddhamayātmatām)
+[mantra-protection-dharmas-by](mananatrāṇadharmābhyāṃ) [mantra-accomplished-selfhood](mantrasiddhamayātmatām)
