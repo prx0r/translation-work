@@ -2,22 +2,22 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p79-v1951
-[pillar-form](sthāṇurūpaḥ) [moving-gait](caragatiḥ) [beautiful-face](cāruvaktro) [victorious](jayī) [leader](nayī)
+[pillar-form](sthāṇurūpaḥ) [moving-gait](caragatiḥ) [beautiful-faced](cāruvaktro) [victorious](jayī) [leader](nayī)
 
 ## mukta-m0-p79-v1952
-[lakshmi-eyed](lakṣmīnetravaśī) [lakshmi-smile-subject](lakṣmīhāsavaśyo) [dancer](vinartakaḥ)
+[wealth-eye-subduer](lakṣmīnetravaśī) [wealth-smile-subdued](lakṣmīhāsavaśyo) [dancer](vinartakaḥ)
 
 ## mukta-m0-p79-v1953
 [indra-like](vāsavo) [secret-path-desired](gopyamārgeṣṭo) [vaishnava-conduct-devoted](vaiṣṇavācāratatparaḥ)
 
 ## mukta-m0-p79-v1954
-[truth](satyaḥ) [praiseworthy](stutyaḥ) [pure](śucirnityo) [eternal-self](nityātmā) [eternal-vision](nityadarśanaḥ)
+[truthful](satyaḥ) [praiseworthy](stutyaḥ) [pure](śucir) [eternal](nityo) [eternal-self](nityātmā) [eternal-vision](nityadarśanaḥ)
 
 ## mukta-m0-p79-v1955
 [fifth-note-music](pañcamasvarasaṅgītaḥ) [glory-giver](kīrtido) [delusion-destroyer](mohanāśanaḥ)
 
 ## mukta-m0-p79-v1956
-[lakshmi-yoga-lord](lakṣmīyogīśvaro) [lakshmi-yoga-giver](lakṣmīyogado) [enjoyment-leader](bhogināyakaḥ)
+[wealth-yoga-lord](lakṣmīyogīśvaro) [wealth-yoga-giver](lakṣmīyogado) [enjoyment-leader](bhogināyakaḥ)
 
 ## mukta-m0-p79-v1957
 [unthinkable-glory](acintyamahimā) [unthinkable-weight](acintyagarimā) [terrible-sound](ghoranisvanaḥ)
@@ -29,10 +29,10 @@
 [sacrificer](yājñiko) [ascetics-protector](yamināṃ+trātā) [three-worlds-father](trilokajanako) [ageless](ajaraḥ)
 
 ## mukta-m0-p79-v1960
-[lakshmi-broad](lakṣmīpṛthur) [vasu-pleased](vasuprīto) [lakshmi-glory-giver](lakṣmīśrīdaḥ) [beauty-lord](śriyaḥpatiḥ)
+[wealth-broad](lakṣmīpṛthur) [vasu-pleased](vasuprīto) [wealth-glory-giver](lakṣmīśrīdaḥ) [glory-lord](śriyaḥpatiḥ)
 
 ## mukta-m0-p79-v1961
-[irreversible](anirvartī) [detached](ca+niḥsaṅgo) [fearless](nirbhayo) [untroubled](nirupadravaḥ)
+[irreversible](anirvartī) [detached](niḥsaṅgo) [fearless](nirbhayo) [untroubled](nirupadravaḥ)
 
 ## mukta-m0-p79-v1962
 [supportless](nirāśrayo) [qualityless](nirguṇaśca) [beyond-qualities](guṇātīto) [troop-lord](gaṇeśvaraḥ)
@@ -41,7 +41,7 @@
 [great-sacrifice](mahākratur) [sacrifice-bodied](yajñavapur) [boar](varāho) [sacrifice-leader](yajñanāyakaḥ)
 
 ## mukta-m0-p79-v1964
-[lakshmi-unsullied](lakṣmīnirañjano) [lakshmi-perfection-giver](lakṣmīsiddhidaḥ) [perfection-increaser](siddhivardhanaḥ)
+[wealth-unsullied](lakṣmīnirañjano) [wealth-accomplishment-giver](lakṣmīsiddhidaḥ) [accomplishment-increaser](siddhivardhanaḥ)
 
 ## mukta-m0-p79-v1965
 [all-worlds-bearer](sarvalokadharo) [self-controlled](dānto) [elephant-tusk-armed](dantidantāyudho) [subduer](damī)
@@ -59,10 +59,10 @@
 [true-form](satsvarūpo) [odd-eyed](virūpākṣo) [radiance-maker](vibhākaraśataprabhaḥ)
 
 ## mukta-m0-p79-v1970
-[stout-armed](pīnabāhuḥ) [thick-footed](sthūlapādo) [long-eyed](dīrghacakṣur) [pendant-armed](alaṃbhujaḥ)
+[stout-armed](pīnabāhuḥ) [thick-footed](sthūlapādo) [long-eyed](dīrghacakṣur) [pendulous-armed](alaṃbhujaḥ)
 
 ## mukta-m0-p79-v1971
-[lakshmi-eternal](lakṣmīsanātano) [lakshmi-dharma-overseer](lakṣmīdharmādhyakṣo) [wealth-lord](dhaneśvaraḥ)
+[wealth-eternal](lakṣmīsanātano) [wealth-dharma-overseer](lakṣmīdharmādhyakṣo) [wealth-lord](dhaneśvaraḥ)
 
 ## mukta-m0-p79-v1972
 [hero-slayer](vīrahaḥ) [lotus-eyed](puṇḍarīkākṣaḥ) [lotus-navel](padmanābho) [world-lord](jagatprabhuḥ)
@@ -74,4 +74,4 @@
 [wheel-worshipped](cakrārcito) [crocodile-lord](nakrapatir) [varuna](varuṇaḥ) [indra-brother](śakrasodaraḥ)
 
 ## mukta-m0-p79-v1975
-[not-proud](amānī) [honor-giver](mānado) [honored](mānyo) [man-lord](mānavendro) [best-manu](manūttamaḥ)
+[not-proud](amānī) [honor-giver](mānado) [honorable](mānyo) [human-lord](mānavendro) [best-manu](manūttamaḥ)
