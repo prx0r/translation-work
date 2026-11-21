@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p63-v1551
-seed-form (bījarūpaṃ) great-god (mahādevaṃ) creation-power (sṛṣṭiśakti) own-form (svarūpakam)
+[seed-form](bījarūpaṃ) [great-god](mahādevaṃ) [creation-power](sṛṣṭiśakti) [own-form](svarūpakam)
 
 ## mukta-m0-p63-v1552
-manifestation (prādurbhāvaṃ) concealment (tirobhāvaṃ) mutual (paraspara) intended (vivakṣitam)
+[manifestation](prādurbhāvaṃ) [concealment](tirobhāvaṃ) [mutually](paraspara) [intended](vivakṣitam)
 
 ## mukta-m0-p63-v1553
-power (śaktiḥ) there (tatra) great-goddess (mahādevi) subtle-form (sūkṣmarūpeṇa) spoken (bhāṣitā)
+[power-there](śaktistatra) [great-goddess](mahādevi) [subtle-form](sūkṣmarūpeṇa) [spoken](bhāṣitā)
 
 ## mukta-m0-p63-v1554
-fivefold-or-once (pañcadhāpyekadhā) where (yatra) many-formed (nānārūpavatī) Śivā (śivā)
+[fivefold-or-once](pañcadhāpyekadhā) [where](yatra) [many-formed](nānārūpavatī) [śivā](śivā)
 
 ## mukta-m0-p63-v1555
-inseparable (avinābhāva) connection (sambandhaṃ) of-two (dvayoḥ) indeed (eva) mutual (parasparam)
+[inseparable](avinābhāva) [relation](sambandhaṃ) [of-two](dvayoreva) [mutually](parasparam)
 
 ## mukta-m0-p63-v1556
-power-impelled-Śaṅkara (śaktyāktaśaṅkaram)
+[power+possessed+śaṅkara](śaktyāktaśaṅkaram)
 
 ## mukta-m0-p63-v1557
-power (śaktiḥ) and (ca) in-puruṣas (puruṣeṣu) impelled (āktā) when (yadā) all (sarva) illuminating (prakāśinī)
+[power](śaktiśca) [in-puruṣas](puruṣeṣvāktā) [when](yadā) [all](sarva) [illuminating](prakāśinī)
 
 ## mukta-m0-p63-v1558
-Śiva-knowledge (śivajñānaṃ) without (vinā) something (kiñcit) power-knowledge (śaktijñānaṃ) not (na) arises (jāyate)
+[śiva-knowledge](śiva+jñānaṃ) [without](vinā) [anything](kiñcit) [power-knowledge](śaktijñānaṃ) [not](na) [arises](jāyate)
 
 ## mukta-m0-p63-v1559
-thus (iti) in-composed-by-Śrī-Sarvānandanātha (śrīsarvānandanāthaviracite) in-Sarvollāsa (sarvollāse) fifty-first-chapter (ekapañcāśadullāsaḥ)
+[thus](iti) [śrī-sarvānanda-nātha-composed](śrīsarvānandanāthaviracite) [sarvollāsa](sarvollāse) [fifty-first-ullāsa](ekapañcāśadullāsaḥ)
 
 ## mukta-m0-p63-v1560
-therefore (ataḥ) and (ca) after-many-births (bahujanmānte) power (śakti) knowledge (jñānaṃ) arises (prajāyate)
+[therefore](ataśca) [after-many-births](bahujanmānte) [power-knowledge](śakti+jñānaṃ) [arises](prajāyate)
 
 ## mukta-m0-p63-v1561
-that (sā) power (śaktiḥ) Vāmā (vāmā) to-be-known (vijñeyā) of-puruṣa (puruṣasya) also (api) liberation-giving (muktidā)
+[that](sā) [power-vāmā](śaktirvāmā) [known](vijñeyā) [of-puruṣa](puruṣasyāpi) [liberation-giving](muktidā)
 
 ## mukta-m0-p63-v1562
-giving (dāyinī)
+[giving](dāyinī)
 
 ## mukta-m0-p63-v1563
-manifest (vyaktā) delight (ramaṇa) pleased (tuṣṭā) if (cet) hidden (guptā) delight (ramaṇa) pleased-state (tuṣṭitā)
+[manifest](vyaktā) [pleasing](ramaṇa+tuṣṭā) [hidden](guptā) [pleasing](ramaṇa+tuṣṭitā)
 
 ## mukta-m0-p63-v1564
-therefore (ataḥ) among-them (tebhyaḥ) chief (pradhānaṃ) indeed (hi) power (śaktiṃ) know (viddhi) great-minded (mahāmate)
+[therefore](atastebhyaḥ) [principal](pradhānaṃ) [indeed](hi) [power](śaktiṃ) [know](viddhi) [great-minded](mahāmate)
 
 ## mukta-m0-p63-v1565
-she-indeed (saiva) all-lady (sarveśvarī) goddess (devi) he (sa) and (ca) all (sarvaḥ) great-lord (maheśvaraḥ)
+[she](saiva) [all-lady](sarveśvarī) [goddess](devi) [he](sa) [all](sarvo) [great-lord](maheśvaraḥ)
 
 ## mukta-m0-p63-v1566
-action-nonaction (kāryākāryaṃ) O-Maheśānī (maheśāni) of-her (tasyāḥ) indeed (eva) no (na) doubt (saṃśayaḥ)
+[action-inaction](kāryākāryaṃ) [great-goddess](maheśāni) [of-her](tasyā) [indeed](eva) [no-doubt](na+saṃśayaḥ)
 
 ## mukta-m0-p63-v1567
-action-nonaction (kāryākāryaṃ) becomes (bhavet) of-power (śakteḥ) unattached (nirliptaḥ) puruṣa (puruṣaḥ) O-Śive (śive)
+[action-inaction](kāryākāryaṃ) [becomes](bhavet) [of-power](śakternirliptaḥ) [unattached](puruṣaḥ) [śiva](śive)
 
 ## mukta-m0-p63-v1568
-action (kriyā) of-power (śakteḥ) becomes (bhavet) action (kāryaṃ) of-beings (prāṇināṃ) all-accomplishment (sarvasādhane)
+[action](kriyā) [of-power](śakterbhavet) [action](kāryaṃ) [of-beings](prāṇināṃ) [all-means](sarvasādhane)
 
 ## mukta-m0-p63-v1569
-or (athavā) also (api) Śiva (śivaṃ) to-be-known (jñeyaṃ) embodied (dehinaṃ) power (śakti) seed (bījakam)
+[or](athavāpi) [śiva](śivaṃ) [to-be-known](jñeyaṃ) [embodied](dehinaṃ) [power](śakti) [seed](bījakam)
 
 ## mukta-m0-p63-v1570
-Vāmā-knowledge (vāmājñānaṃ) O-Maheśānī (maheśāni) gross (sthūla) subtle (sūkṣma) measure (pramāṇakam)
+[vāmā-knowledge](vāmājñānaṃ) [great-goddess](maheśāni) [gross-subtle-measure](sthūla+sūkṣma+pramāṇakam)
 
 ## mukta-m0-p63-v1571
-in-absence (abhāve) own-woman (svastriyaṃ) goddess (devi) how-said (kathamuktaṃ) O-Sadāśiva (sadāśive)
+[in-absence](abhāve) [of-own-wife](svastriyaṃ) [goddess](devi) [how-spoken](kathamuktaṃ) [sadāśiva](sadāśive)
 
 ## mukta-m0-p63-v1572
-Brahma (brahma) given (dattā) fire (agninā) having-offered (hutvā) Śiva (śiva) given (dattā) but (tu) by-desire (kāmataḥ)
+[brahma](brahma) [given-fire](dattāgninā) [having-offered](hutvā) [śiva](śiva) [given](dattā) [by-desire](tu+kāmataḥ)
 
 ## mukta-m0-p63-v1573
-doubt (sandehaḥ) not (na) indeed (eva) to-be-done (kartavyaḥ) my (mama) words-according-to (vākyānusārataḥ)
+[doubt](sandeho) [not](naiva) [to-be-done](kartavyo) [my](mama) [words-according](vākyānusārataḥ)
 
 ## mukta-m0-p63-v1574
-own-Vāmā (svavāmā) for-pleasing (toṣaṇārthe) also (api) other (para) Vāmā (vāmāṃ) and (ca) please (toṣayet)
+[own-vāmā](svavāmā) [for-pleasing](toṣaṇārthe'pi) [other](para) [vāmā](vāmāñca) [please](toṣayet)
 
 ## mukta-m0-p63-v1575
-please (toṣayet) O-Parameśānī (parameśāni) hero-state (vīrabhāva) resorting (samāśritaḥ)
+[please](toṣayet) [supreme-goddess](parameśāni) [hero-state](vīrabhāva) [resorted](samāśritaḥ)
