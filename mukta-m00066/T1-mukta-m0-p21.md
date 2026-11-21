@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-diseases-necessarily-destroy nature-of-thing
+[diseases](rogāṇyavaśyaṃ) [destroy](nighnaṃti) [nature](svabhāvo) [of-thing](vāsya) [thing](vastunaḥ)
 
 ## mukta-m0-p21-v502
-he-virabhadra beautiful-hipped direct destruction-bhairava
+[he-is-virabhadra](sa) [vīrabhadra](vīrabhadraḥ) [beautiful-hipped](suśroṇi) [directly](sākṣāt) [destruction](saṃhāra) [bhairava](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-from-daksha-anger blazing from-his-limb-hair-pores
+[from-daksha's-anger](dakṣakopātprajvalataḥ) [from-his-limbs](tasyāṃgādromakūpataḥ)
 
 ## mukta-m0-p21-v504
-all-diseases-various-orders arose-from-him
+[all](tamanuproddhitāḥ) [diseases](sarve) [various-kinds](vyādhayovividhakramāḥ)
 
 ## mukta-m0-p21-v505
-extremely-unsteady-uncontrollable blazing always-enjoying
+[extremely-unsteady](atyaṃtalolādurvārāḥ) [burning](prajvalaṃtaḥ) [always](sadāmuṣā)
 
 ## mukta-m0-p21-v506
-resorting-to great-being virabhadra great-glory
+[having-refuged](tamāśritya) [great-being](mahāsatvaṃ) [vīrabhadra](vīrabhadraṃ) [great-rise](mahodayam)
 
 ## mukta-m0-p21-v507
-sinful-wicked women-hating
+[sinful-natured](pāpaśīlān) [ill-conducted](durācārān) [girl-hating](kanyāvidveṣakāriṇaḥ)
 
 ## mukta-m0-p21-v508
-scripture-hostile sinners false-quarrel-makers
+[āgama-opposing](āgama) [sinful](drohiṇo) [sinners](pāpān) [vain-quarrel-making](vṛthākalahakāriṇaḥ)
 
 ## mukta-m0-p21-v509
-great-diseases-devour drink-much-blood
+[devour](bhakṣayaṃti) [great-diseases](mahārogāḥ) [drink](pibaṃti) [blood](rudhiraṃ) [much](bahu)
 
 ## mukta-m0-p21-v510
-growth
+[verse-fragment](vṛdhe-)
 
 ## mukta-m0-p21-v511
-vital-point-splitting terrible-speech righteous-conduct-blaming
+[vital-point-piercing](marmabheda) [terrible](karālāpāṃ) [dharma-conduct](dhārmikācāra) [blaming](niṃdakān)
 
 ## mukta-m0-p21-v512
-diseases-afflict-severe from-contact-others-too
+[harm](hiṃsaṃti) [diseases](vyādhayastīvrāstatsaṃgādaparānapi)
 
 ## mukta-m0-p21-v513
-fearing-dissolution great-swan-prayed formerly
+[fearing](āśaṃkamānairvilaya) [great-swan](mahaṃsaṃprārthitaḥ) [formerly](purā)
 
 ## mukta-m0-p21-v514
-supreme-brahman taste-nectar-giving
+[supreme-brahman](parabrahmaḥ) [taste-filled](sāsvādamayamānaṃdadāyakam)
 
 ## mukta-m0-p21-v515
-that-drop-hundred-thousand stream wind-driven
+[he](sa) [drop](biṃdu) [hundred-thousand](śatasāhasra) [flow](pravahaḥ) [wind-struck](pavanāhatam)
 
 ## mukta-m0-p21-v516
-entered-all-herbs moon-form great-essence
+[entered](viveśacauṣadhiḥ) [all](sarvāḥ) [moon-formed](somarūpomahārasaḥ)
 
 ## mukta-m0-p21-v517
-thence onward herbs-arise supreme-nectar
+[then](tataḥ) [from](prabhṛti) [herbs](vīrutsujāgartti) [supreme-nectar](paramāmṛtam)
 
 ## mukta-m0-p21-v518
-various medical-treatises for-fever-etc-removal
+[various](vividhaṃ) [medical-treatise](vaidyataṃtraṃ) [for-removal](tu) [fever-etc](jvarādīnāṃ) [vinuttaye](vinuttaye)
 
 ## mukta-m0-p21-v519
-bodily-medicine stated decoctions-pills-etc
+[bodily-medicine](śārīravaidyake) [stated](proktāḥ) [decoctions-pills-etc](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
-as body-fever-cold bile-phlegm-wind-impurity
+[as](yathā) [body](dehojvaraṃ) [fever](śītaṃ) [cold](pittaṃ) [bile](śleṣmamalonilaḥ)
 
 ## mukta-m0-p21-v521
-so in-soul diseases stated anger-hatred-jealousy
+[so](tathā) [in-living-being](jīve) [diseases](gadāḥ) [stated](proktāḥ) [anger](krodhodveṣaścamatsaraḥ)
 
 ## mukta-m0-p21-v522
-despair terror suspicion contemptuous-thought
+[aversion](nirvedaśca) [terror](paritrāsaḥ) [doubt](śaṃkākutsitaciṃtanam)
 
 ## mukta-m0-p21-v523
-unsteadiness delusion devoid-of-knowledge-light
+[unsteadiness](vikaṃpatvaṃ) [delusion](vimūḍhatvaṃ) [knowledge-light](vidyāloka) [devoid](navarjitam)
 
 ## mukta-m0-p21-v524
-all-contempt-nature all-everywhere-disgust
+[all-blaming](sarvasyakutsā) [habit](śīlatvaṃ) [everywhere](sarvatrāpi) [disgust](jugupsanam)
 
 ## mukta-m0-p21-v525
-these seen one-difference crores-of-crores
+[these](etā) [seen](dṛśānaikabhedāḥ) [kinds](koṭīnāmapikoṭayaḥ)

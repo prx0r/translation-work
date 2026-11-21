@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not-anything-even know I lord-awaken awaken
+na[not] kiṃcidapi[anything+even] jānāmi[know] nātha[lord] bodhaya[awaken] bodhaya[awaken]
+
 ## mukta-m0-p36-v877
-this bliss-cause for welfare-linga to-Shambhu
+etat[this] saukhyanidānāya[bliss+cause+for] svastiliṃgāya[well-being+sign+for] śaṃbhave[śambhu+to]
+
 ## mukta-m0-p36-v878
-Shiva-offering this be again be Shiva-offering
+śivārpaṇam[śiva+offering] idaṃ[this] bhūyāt[let+be] punaḥ[again] astu[let+be] śivārpaṇam[śiva+offering]
+
 ## mukta-m0-p36-v879
-faded lotus-stalk like garland-like his chest
+mlānā[withered] padmamṛṇālī[lotus+stalk] va[like] mālikevāsya[garland+like+his] vakṣasi[chest]
+
 ## mukta-m0-p36-v880
-absorbed-absorbed-letter then slow-slow-letter again
+līnalīnākṣaraṃ[dissolved+dissolved+syllable] paścāt[afterwards] maṃdamaṃdākṣaraṃ[slow+slow+syllable] punaḥ[again]
+
 ## mukta-m0-p36-v881
-such-etc qualities messenger six-offering great-festival
+evamādiguṇādūtyāḥ[thus+etc+quality+messenger] ṣaḍāhuti[six+offering] mahotsave[great+festival]
+
 ## mukta-m0-p36-v882
-sixth-six-taste-endowed many-food-giving
+ṣaṣṭhiṣaḍrasasaṃpanna[sixth+six+taste+endowed] bahubhojanadāyinī[much+food+giving]
+
 ## mukta-m0-p36-v883
-six-limb-deity form all-water? hmm
+ṣaḍaṃgadevatā[six+limb+deity] rūpā[form] sarvadākriyatāṃbudhaiḥ[all+always+done+water+lords]
+
 ## mukta-m0-p36-v884
-heroine and opening bliss-rest proceeds
+nāyikāyāśca[heroine+of+and] vidṛtyā[opening] sukhaśrāṃtiḥ[pleasure+rest] pravartate[proceeds]
+
 ## mukta-m0-p36-v885
-sugar-nectar-mixed purification-soup-seasoned
+śarkarāmṛtasaṃmiśraṃ[sugar+nectar+mixed] śuddhiyūṣasanādhitam[purity+soup+with]
+
 ## mukta-m0-p36-v886
-self that-remaining and drink devotion burden-bowed
+svayaṃtadavaśiṣṭaṃ[self+that+remainder] ca[and] pibed[drink] bhakti[bhakti] bharānataḥ[weight+bowed]
+
 ## mukta-m0-p36-v887
-mantra and Ananda-deva's hundred-thousand times
+maṃtraṃ[mantra] cānaṃdadevasya[and+bliss+god+of] śataśovāsahasraśaḥ[hundreds+or+thousands]
+
 ## mukta-m0-p36-v888
-unfit-yantra recite deity-curse obtain
+ayuktayaṃtraḥ[improper+yantra] prajaped[recite] devatāśāpamāpnuyāt[deity+curse+obtain]
+
 ## mukta-m0-p36-v889
-thus recited supreme-bliss-form linga-Maheshvara
+evaṃ[thus] japte[recited] parānaṃdarūpi[ supreme+bliss+form] liṃgamaheśvaraḥ[linga+great+lord]
+
 ## mukta-m0-p36-v890
-as-long recites hero this messenger-rest cause
+yāvajjapati[as+long+recites] vīroyaṃ[hero+this] dūtiviśrāṃti[d messenger+rest] hetave[for+cause]
+
 ## mukta-m0-p36-v891
-thus order rest gone messenger-body
+iththaṃ[thus] krameṇa[by+order] viśrāṃtiṃ[rest] gatāyāṃ[gone] dūtikātanau[messenger+body]
+
 ## mukta-m0-p36-v892
-moon-crescent-purpose glue? raised moon-moonlight
+caṃdrarekhārthāṃ[moon+crescent+for] gulinā[ball+by] pronnatā[raised] caṃdracaṃdrikā[moon+moonlight]
+
 ## mukta-m0-p36-v893
-flax flower-like triangle-form gone
+atasī[flax] puṣpasaṃkāśā[flower+like] trikoṇākāratāṃ[triangle+form] gatā[gone]
+
 ## mukta-m0-p36-v894
-long-flowing even lord one arranged thumb kisses
+ciradravāpi[long+flowing+even] nāthaika[lord+one] kluptairaṃguṣṭha[cupped+thumb] cuṃbanaiḥ[kisses]
+
 ## mukta-m0-p36-v895
-navel-slap falling buttock hand-massage
+nābhaucapeṭa[navel+slap] patanairnitaṃbe[falling+buttock] hastamardanaiḥ[hand+rubbing]
+
 ## mukta-m0-p36-v896
-own-juice flowing indeed heroine-moon-moonlight
+nijaṃrasaṃ[own+juice] sravaṃtyeva[flowing+indeed] nāyikācaṃdracaṃdrikā[heroine+moon+moonlight]
+
 ## mukta-m0-p36-v897
-flour-wine-equal-joy arrow-flower-abundant-radiance
+paiṣṭimadyasamāmodaṃ[grain+liquor+equal+joy] bāṇapuṣpolbaṇadyuti[arrow+flower+abundant+radiance]
+
 ## mukta-m0-p36-v898
-attainment-siddhi-procreation all-sovereignty-named-speech
+prāptisiddhiprajananaṃ[attainment+perfection+generation] sarvaiśvaryākhyavāṅmayam[all+lordship+named+speech]
+
 ## mukta-m0-p36-v899
-all-disease-pacifying light-cool-pure
+samastavyādhiśamanaṃ[all+disease+pacification] laghuśītalanirmalam[light+cool+pure]
+
 ## mukta-m0-p36-v900
-then recited mantra and Palamba-presiding-deity
+tadājapeditaṃ[then+recited] maṃtraṃ[mantra] ca[and] palāṃbādhidaivatam[palamba+deity]
