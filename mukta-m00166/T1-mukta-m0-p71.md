@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[bhūta](bhūta) [bhāvi](bhāvi) [vibhāvinī](vibhāvinī) [devī](devī)
+[bhūta](bhūta) [bhāvi](bhāvi) [vi](vi) [bhāvinī](bhāvinī)
 
 ## mukta-m0-p71-v1752
-[ataḥ](ataḥ) [anyaḥ](anyaḥ) [kaḥ](kaḥ) [sadādyantaḥ](sadādyantaḥ) [tvām](tvām) [vibhāvayitum](vibhāvayitum) [kṣamaḥ](kṣamaḥ)
+[ato](ato) [anyaḥ](anyaḥ) [kaḥ](kaḥ) [sadā](sadā) [adyantaḥ](adyantaḥ) [tvāṃ](tvāṃ) [vibhāvayituṃ](vibhāvayituṃ) [kṣamaḥ](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[maṅgalā](maṅgalā) [devī](devī) [śubhā](śubhā) [kalyāṇī](kalyāṇī)
+[maṅgalā](maṅgalā)
 
 ## mukta-m0-p71-v1754
 [sā](sā) [maṅgalā](maṅgalā) [astu](astu) [asya](asya) [sadā](sadā) [sahāyā](sahāyā)
 
 ## mukta-m0-p71-v1755
-[suśīlā](suśīlā) [devī](devī) [śīlā](śīlā) [subhagā](subhagā)
+[suśīlā](suśīlā)
 
 ## mukta-m0-p71-v1756
-[svayam](svayam) [suśīlā](suśīlā) [yadi](yadi) [na](na) [abhaviṣyaḥ](abhaviṣyaḥ)
+[svayaṃ](svayaṃ) [suśīlā](suśīlā) [yadi](yadi) [nābhaviṣyaḥ](nābhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[paramārtha](paramārtha) [prabodhikā](prabodhikā) [devī](devī) [jñānā](jñānā)
+[paramārtha](paramārtha) [prabodhikā](prabodhikā)
 
 ## mukta-m0-p71-v1758
-[yadā](yadā) [āptyā](āptyā) [bhrāmakān](bhrāmakān) [anyān](anyān) [arthān](arthān) [jānāmi](jānāmi) [śaṣpavat](śaṣpavat)
+[yadā](yadā) [āptyā](āptyā) [bhrāmakān](bhrāmakān) [anyān](anyān) [arthāñ](arthāñ) [jānāmi](jānāmi) [śaṣpavat](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-[dakṣiṇā](dakṣiṇā) [devī](devī) [dāna](dāna) [śubhā](śubhā)
+[dakṣiṇā](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
 [yataḥ](yataḥ) [tataḥ](tataḥ) [tataprajñaiḥ](tataprajñaiḥ) [dakṣiṇā](dakṣiṇā) [iti](iti) [prakīrtyase](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ) [devī](devī) [mūrti](mūrti) [śubhā](śubhā)
+[dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[sā](sā) [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ) [iti](iti) [prasiddhā](prasiddhā) [devī](devī)
+[sā](sā) [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ) [iti](iti) [prasiddhā](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[sudakṣiṇā](sudakṣiṇā) [devī](devī) [su](su) [dakṣiṇā](dakṣiṇā)
+[sudakṣiṇā](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[satyam](satyam) [tataḥ](tataḥ) [devi](devi) [sudakṣiṇā](sudakṣiṇā) [asi](asi)
+[satyaṃ](satyaṃ) [tato](tato) [devi](devi) [sudakṣiṇā](sudakṣiṇā) [asi](asi)
 
 ## mukta-m0-p71-v1765
-[haripriyā](haripriyā) [devī](devī) [hari](hari) [priyā](priyā)
+[haripriyā](haripriyā)
 
 ## mukta-m0-p71-v1766
 [śauriḥ](śauriḥ) [yad](yad) [dayayā](dayayā) [devī](devī) [kīrtitā](kīrtitā) [sā](sā) [haripriyā](haripriyā)
 
 ## mukta-m0-p71-v1767
-[yoginī](yoginī) [devī](devī) [yoga](yoga) [śubhā](śubhā)
+[yoginī](yoginī)
 
 ## mukta-m0-p71-v1768
-[roga](roga) [śoka](śoka) [vinivartitā](vinivartitā) [āśayā](āśayā) [yoginī](yoginī) [subhaga](subhaga) [yogadā](yogadā) [stu](stu) [sā](sā)
+[roga](roga) [śoka](śoka) [vinivartitāśayā](vinivartitāśayā) [yoginī](yoginī) [subhaga](subhaga) [yogadā](yogadā) [stu](stu) [sā](sā)
 
 ## mukta-m0-p71-v1769
-[yogayuktā](yogayuktā) [devī](devī) [yoga](yoga) [yuktā](yuktā)
+[yogayuktā](yogayuktā)
 
 ## mukta-m0-p71-v1770
-[cidānanda](cidānanda) [eva](eva) [yan](yan) [nityam](nityam) [yogayuktā](yogayuktā) [tataḥ](tataḥ) [svataḥ](svataḥ)
+[cidānanda](cidānanda) [eva](eva) [yan](yan) [nityaṃ](nityaṃ) [yogayuktā](yogayuktā) [tataḥ](tataḥ) [svataḥ](svataḥ)
 
 ## mukta-m0-p71-v1771
-[yogāṅgā](yogāṅgā) [devī](devī) [yoga](yoga) [aṅga](aṅga)
+[yogāṅgā](yogāṅgā)
 
 ## mukta-m0-p71-v1772
-[āpannānām](āpannānām) [āpad](āpad) [anta](anta) [eka](eka) [hetuḥ](hetuḥ) [yogāṅgā](yogāṅgā) [iyam](iyam) [kīrtitā](kīrtitā) [yogināthaiḥ](yogināthaiḥ)
+[āpannānām](āpannānām) [āpad](āpad) [anta](anta) [eka](eka) [hetuḥ](hetuḥ) [yogāṅgeyaṃ](yogāṅgeyaṃ) [kīrtitā](kīrtitā) [yogināthaiḥ](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[dhyānaśālinī](dhyānaśālinī) [devī](devī) [dhyāna](dhyāna) [śālinī](śālinī)
+[dhyānaśālinī](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-[sarva](sarva) [dhyeyā](dhyeyā) [api](api) [sarvā](sarvā) [asi](asi) [tvam](tvam) [yasya](yasya) [dhyānaśālinī](dhyānaśālinī)
+[sarvadhyeyā](sarvadhyeyā) [api](api) [sarvā](sarvā) [asi](asi) [tvaṃ](tvaṃ) [yasya](yasya) [dhyānaśālinī](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yogapaṭṭadharā](yogapaṭṭadharā) [devī](devī) [yoga](yoga) [paṭṭa](paṭṭa) [dharā](dharā)
+[yogapaṭṭadharā](yogapaṭṭadharā)
