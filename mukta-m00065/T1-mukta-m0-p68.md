@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p68-v1676
-[ebhiḥ+tu](ebhistu) [pañcabhiḥ](pañcabhiḥ) [yuktaiḥ](yuktaiḥ) [snānam](snānam) [arcā-ādi-śodhanam](arcādiśodhanam)
+[by-these](ebhiḥ) [tu](tu) [five](paṃcabhiḥ) [associated](yuktaiḥ) [bath](snānam) [worship](arcā) [etc](ādi) [purification](śodhanam)
 
 ## mukta-m0-p68-v1677
-[īśāna-vaktra-ghora-āhvā-guhya-ājāta-ākhya-mantritaiḥ](īśānavaktraghorāhvaguhyājātākhyamantritaiḥ)
+[īśāna](īśāna) [face](vaktra) [terrible](ghora) [named](āhva) [secret](guhya) [unborn](ajāta) [called](ākhya) [mantras](mantritaiḥ)
 
 ## mukta-m0-p68-v1678
-[vṛṣa-śṛṅga-samutkhātāḥ](vṛṣaśṛṅgasamutkhātāḥ) [pavaka-āśraya-sambhavāḥ](pavakāśrayasambhavāḥ)
+[bull-horn](vṛṣaśṛṅga) [dug-up](samutkhātāḥ) [fire](pavaka) [refuge](āśraya) [born](sambhavāḥ)
 
 ## mukta-m0-p68-v1679
-[ajena](ajena) [kṣālanāt](kṣālanāt) [pṛthvī-kramataḥ](pṛthvīkramataḥ) [tu](tu) [kalāvatā](kalāvatā)
+[by-goat](ajena) [washing](kṣālanāt) [earth](pṛthvī) [step](kramataḥ) [then](tu) [with-parts](kalāvatā)
 
 ## mukta-m0-p68-v1680
-[kavoṣṇaiḥ](kavoṣṇaiḥ) [tu](tu) [tṛtīyena](tṛtīyena) [snānam](snānam) [ṭaṅka-kṣata-apaham](ṭaṅkakṣatāpaham)
+[lukewarm](kavoṣṇaiḥ) [then](tu) [third](tṛtīyena) [bath](snānam) [axe-wound-removing](ṭaṅkakṣatāpaham)
 
 ## mukta-m0-p68-v1681
-[nidigdhikā-balā-mūlaiḥ](nidigdhikābalāmūlaiḥ) [snānam](snānam) [guhyena](guhyena) [doṣa-hṛt](doṣahṛt)
+[sticky-nightshade](nidigdhikā) [bala-roots](balāmūlaiḥ) [bath](snānam) [secret](guhyena) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p68-v1682
-[dhātryā](dhātryā) [snānāt](snānāt) [mahī-tyakte](mahītyakte) [sadyojātena](sadyojātena) [śuddhyati](śuddhyati)
+[by-nurse](dhātryā) [bath](snānāt) [earth](mahī) [revealed](vyakte) [by-sadyojāta](sadyojātena) [purified](śuddhyati)
 
 ## mukta-m0-p68-v1683
-[samudvartya](samudvartya) [mahādevam](mahādevam) [tīrtha-utthaiḥ](tīrthotthaiḥ) [snāpayet](snāpayejjalaiḥ) [jalaiḥ](jalaiḥ)
+[having-rubbed](samudvartya) [great-god](mahādevam) [spring-born](tīrthotthaiḥ) [waters](jalaiḥ) [bathe](snāpayet)
 
 ## mukta-m0-p68-v1684
-[puṣkaram](puṣkaram) [naimiṣa-araṇyam](naimiṣāraṇyaṃ) [tīrtham](tīrthaṃ) [ca](ca) [varūṇam](varūṇaṃ) [tathā](tathā)
+[puṣkara](puṣkaram) [naimiṣa-forest](naimiṣāraṇyam) [tīrtha](tīrtham) [and](ca) [varuṇa](varūṇam) [likewise](tathā)
 
 ## mukta-m0-p68-v1685
-[jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa-narmadā](śoṇanarmadā)
+[jāhnavī](jāhnavī) [yamunā](yamunā) [kauśī](kauśī) [sarayū](sarayū) [śoṇa](śoṇa) [narmadā](narmadā)
 
 ## mukta-m0-p68-v1686
-[sapta-godāvarī](saptagodāvarī) [iti](ityetāḥ) [etāḥ](etāḥ) [puṇya-nadyaḥ](puṇyanadyo) [mahā-jalaiḥ](mahājalaiḥ)
+[seven-godāvarī](saptagodāvarī) [thus](iti) [these](etāḥ) [holy-rivers](puṇyanadyaḥ) [great-waters](mahājalaiḥ)
 
 ## mukta-m0-p68-v1687
-[kṣāra-kṣīra-dadhi-sneha-ikṣu-rasa-uda-sura-udakāḥ](kṣārakṣīradadhisnehekṣurasodasurodakāḥ)
+[alkaline](kṣāra) [milk](kṣīra) [curd](dadhi) [oil](sneha) [sugarcane-juice](ikṣurasa) [sura](sura) [water](udaka)
 
 ## mukta-m0-p68-v1688
-[sphāṭikam](sphāṭikaṃ) [padya-rāgam](padyarāgaṃ) [ca](ca) [rājāvartaḥ](rājāvartaḥ) [su-vidrumam](suvidrumam)
+[crystal](sphāṭikam) [padmarāga](padyarāgam) [and](ca) [rājāvarta](rājāvartaḥ) [coral](suvidrumam)
 
 ## mukta-m0-p68-v1689
-[etat](etadratnodakaiḥ) [ratna-udakaiḥ](ratnodakaiḥ) [snānam](snānaṃ) [mahā-bhūti-karam](mahābhūtikaraṃ) [param](param)
+[these](etad) [gem-waters](ratnodakaiḥ) [bath](snānam) [great-prosperity-making](mahābhūtikaram) [supreme](param)
 
 ## mukta-m0-p68-v1690
-[karpūra-āguru-kastūrī-kāśmarī-candana-ādikaiḥ](karpūrāgurukastūrīkāśmarīcandanādikaiḥ)
+[camphor](karpūra) [aguru](aguru) [musk](kastūrī) [kāśmarī](kāśmarī) [sandal](candana) [etc](ādikaiḥ)
 
 ## mukta-m0-p68-v1691
-[snāpayet](snāpayedgandhatoyena) [gandha-toyena](gandhatoyena) [ajātena](ajātenābhimantritam) [abhimantritam](abhimantritam)
+[bathe](snāpayet) [fragrant-water](gandhatoyena) [by-ajāta](ajātena) [consecrated](abhimantritam)
 
 ## mukta-m0-p68-v1692
-[puṇḍarīka-abja-mālūra-nīla-rakta-utpala-arka-jam](puṇḍarīkābjamālūranīlaraktotpalārkajam)
+[white-lotus](puṇḍarīka) [blue-lotus](abja) [mālūra](mālūra) [blue](nīla) [red-lotus](raktotpala) [arka-born](arkajam)
 
 ## mukta-m0-p68-v1693
-[sahakāra-aśvamāram](sahakārāśvamāraṃ) [ca](ca) [punnāga-bakulāni](punnāgabakulāni) [ca](ca)
+[mango](sahakāra) [aśvamāra](aśvamāram) [and](ca) [punnāga](punnāga) [bakula](bakulāni) [and](ca)
 
 ## mukta-m0-p68-v1694
-[pāṭalā-droṇa-nepālī](pāṭalādroṇanepālī) [kuśa-kiṃśuka-siṃhikāḥ](kuśakiṃśukasiṃhikāḥ)
+[pāṭalā](pāṭalā) [droṇa](droṇa) [nepālī](nepālī) [kuśa](kuśa) [kiṃśuka](kiṃśuka) [siṃhikā](siṃhikāḥ)
 
 ## mukta-m0-p68-v1695
-[mṛdu-kunda-abja-patrī](mṛdukundābjapatrī) [ca](ca) [vṛṣa-ṛṣi-buka-puṣpakam](vṛṣarṣibukapuṣpakam)
+[soft](mṛdu) [kunda](kunda) [lotus-leaf](abjapatrī) [and](ca) [vṛṣa](vṛṣa) [ṛṣi](ṛṣi) [buka-flower](bukapuṣpakam)
 
 ## mukta-m0-p68-v1696
-[bilāmra-mocana-āraṅga](bilāmramocanāraṅga) [panasam](panasaṃ) [nālikerakam](nālikerakam)
+[bilva](bilāmra) [mango](mocana) [orange](āraṅga) [jackfruit](panasam) [coconut](nālikerakam)
 
 ## mukta-m0-p68-v1697
-[vadarī-bījapūram](vadarībījapūraṃ) [ca](ca) [kava-mardam](kavamardaṃ) [satindukam](satindukam)
+[jujube](vadarī) [citron](bījapūram) [and](ca) [kara](kara) [marda](mardam) [with-tinduka](satindukam)
 
 ## mukta-m0-p68-v1698
-[phala-snānam](phalasnānam) [idam](idam) [pupyaṃ](pupyaṃ) [kartuḥ](karturicchāphalapradam) [icchā-phala-pradam](icchāphalapradam)
+[fruit-bath](phalasnānam) [this](idam) [meritorious](pupyam) [doer's-desire-fruit-giving](karturicchāphalapradam)
 
 ## mukta-m0-p68-v1699
-[tila-godhuma-sugdā-ādi](tilagodhumasugdādi) [yava-dhānya-priyaṅgubhiḥ](yavadhānyapriyaṅgubhiḥ)
+[sesame](tila) [wheat](godhuma) [sugarcane](sugdādi) [etc](ādi) [barley-grains](yavadhānya) [priyaṅgu](priyaṅgubhiḥ)
 
 ## mukta-m0-p68-v1700
-[pañca-brahma-udbhavaiḥ](pañcabrahmodbhavairmantrairmahāsnānaṃ) [mantraiḥ](mantraiḥ) [mahā-snānam](mahāsnānaṃ) [śubha-pradam](śubhapradam)
+[five-brahma-born](pañcabrahmodbhavaiḥ) [mantras](mantraiḥ) [great-bath](mahāsnānam) [auspicious-giving](śubhapradam)
