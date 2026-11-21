@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[tat](tat) [prakāśam](prakāśam) [vinā](vinā) [sidhyet](sidhyet) [na](na) [kathañcana](kathañcana) [kasyacit](kasyacit)
+[that](tat) [light](prakāśaṃ) [without](vinā) [success](sidhyet) [not](na) [somehow](kathañcana) [of-anyone](kasyacit)
 
 ## mukta-m0-p12-v277
-[parasya](parasya) [apara+niṣṭhatvāt](aparaniṣṭhatvāt) [na](na) [tva+ekyam](tvaikyam) [cit+jaḍa+ātmanoḥ](cijjaḍātmanoḥ)
+[of-another](parasya) [limit](apara-niṣṭhatvāt) [not](na) [identity](tva-ekyaṃ) [consciousness-matter](cit-jaḍa-ātmanoḥ)
 
 ## mukta-m0-p12-v278
-[sva+ullekha+rekhā+saṃsthānam](svollekharekhāsaṃsthānam) [tat](tat) [svatantram](svatantram) [cit+ātmakam](cidātmakam)
+[self-drawn-line-form](sva-ullekha-rekhā-saṃsthānaṃ) [that](tat) [independent](svatantraṃ) [consciousness-natured](cit-ātmakam)
 
 ## mukta-m0-p12-v279
-[indriya+dvārataḥ](indriyadvārataḥ) [paścāt](paścāt) [bhāva+ābhāsaḥ](bhāvābhāsaḥ) [pravartate](pravartate)
+[sense-gate](indriya-dvārataḥ) [afterwards](paścāt) [appearance](bhāva-ābhāsaḥ) [proceeds](pravartate)
 
 ## mukta-m0-p12-v280
-[tat](tat) [atra](atra) [yāvat](yāvat) [guruṇā](guruṇā) [viśvasya](viśvasya) [udaya+saṃsthitiḥ](udayasaṃsthitiḥ)
+[that](tat) [here](atra) [as-much-as](yāvat) [by-teacher](guruṇā) [of-world](viśvasya) [rising-establishment](udaya-saṃsthitiḥ)
 
 ## mukta-m0-p12-v281
-[ataḥ](ataḥ) [sarvatra](sarvatra) [cakrāṇām](cakrāṇām) [svarūpa+pratipādanam](svarūpapratipādanam)
+[therefore](ataḥ) [everywhere](sarvatra) [of-wheels](cakrāṇāṃ) [own-form](svarūpa) [indication](pratipādanam)
 
 ## mukta-m0-p12-v282
-[āraghaṭṭa+ghaṭī+yantra+nyāyena](āraghaṭṭaghaṭīyantranyāyena) [etāvataḥ](etāvataḥ) [sadā](sadā)
+[waterwheel-contrivance](āraghaṭṭa-ghaṭī-yantra) [analogy](nyāyena) [so-much](etāvataḥ) [always](sadā)
 
 ## mukta-m0-p12-v283
-[aneka+krama+yogena](anekakramayogena) [api](api) [ākṣipte](ākṣipte) [gocaram](gocaram)
+[by-many-steps](aneka-krama-yogena) [also](api) [drawn](ākṣipte) [range](gocaram)
 
 ## mukta-m0-p12-v284
-[śūnyāt](śūnyāt) [ārabhya](ārabhya) [deha+antam](dehāntam) [saṅkoca+ātmā](saṅkocātmā) [hi](hi) [yaḥ](yaḥ) [agrataḥ](agrataḥ)
+[from-void](śūnyāt) [beginning](ārabhya) [to-body](deha-antaṃ) [contraction-natured](saṅkoca-ātmā) [indeed](hi) [who-before](yo-'grataḥ)
 
 ## mukta-m0-p12-v285
-[tat](tat) [atra](atra) [yāvat](yāvat) [saṃsāraḥ](saṃsāraḥ) [tattat+rūpatayā](tattadrūpatayā) [sthitaḥ](sthitaḥ)
+[that](tat) [here](atra) [as-much-as](yāvat) [worldliness](saṃsāraḥ) [in-that-form](tad-tad-rūpatayā) [stands](sthitaḥ)
 
 ## mukta-m0-p12-v286
-[na](na) [bhāva+tyāgataḥ](bhāvatyāgataḥ) [muktiḥ](muktiḥ) [na](na) [api](api) [bhāva+upabhogataḥ](bhāvopabhogataḥ)
+[not](na) [by-abandonment](bhāva-tyāgataḥ) [liberation](muktiḥ) [nor](na) [by-enjoyment](bhāva-upabhogataḥ)
 
 ## mukta-m0-p12-v287
-[anāgrahāt](anāgrahāt) [āgrahāt](āgrahāt) [vā](vā) [kasyacit](kasyacit) [na](na) [api](api) [tāttvikī](tāttvikī)
+[by-non-grasping](anāgrahāt) [by-grasping](āgrahāt) [vā](vā) [of-anyone](kasyacit) [not](na) [real](tāttvikī)
 
 ## mukta-m0-p12-v288
-[yat](yat) [apekṣā+vaśāt](apekṣāvaśāt) [sarvāḥ](sarvāḥ) [saṃsāra+anya](saṃsāronyā) [vimuktayaḥ](vimuktayaḥ)
+[whose-dependence](yad-apekṣā-vaśāt) [all](sarvāḥ) [worldliness-other](saṃsāra-anya) [liberations](vimuktayaḥ)
 
 ## mukta-m0-p12-v289
-[saṅkoca+dalana+abhyāsāt](saṅkocadalanābhyāsāt) [vāsanā+ālaya+bhūmi+gam](vāsanālayabhūmigam)
+[by-contraction-breaking-practice](saṅkoca-dalana-abhyāsāt) [to-desire-seat-ground](vāsanā-ālaya-bhūmi-gam)
 
 ## mukta-m0-p12-v290
-[vṛnda+kramasya](vṛndakramasya) [saṃsthānam](saṃsthānam) [kathyate](kathyate) [guru+anugrahāt](gurvanugrahāt)
+[of-swarm-order](vṛnda-kramasya) [arrangement](saṃsthānaṃ) [is-said](kathyate) [by-teacher-grace](guru-anugrahāt)
 
 ## mukta-m0-p12-v291
-[viśvasya](viśvasya) [bhāvaḥ](bhāvaḥ) [sahasā](sahasā) [sva+svarūpe](svasvarūpe) [vicīyate](vicīyate)
+[of-world](viśvasya) [appearance](bhāvaḥ) [suddenly](sahasā) [in-own-form](sva-svarūpe) [is-investigated](vicīyate)
 
 ## mukta-m0-p12-v292
-[sadṛśāḥ](sadṛśāḥ) [pratipādyante](pratipādyante) [cārvāka+advaya+vādibhiḥ](cārvākādvayavādibhiḥ)
+[similar](sadṛśāḥ) [are-indicated](pratipādyante) [by-cārvāka-advaita](cārvāka-advaya-vādibhiḥ)
 
 ## mukta-m0-p12-v293
-[taiḥ](taiḥ) [jaḍāḥ](jaḍāḥ) [vipralamyante](vipralamyante) [sadṛśaiḥ](sadṛśaiḥ) [abhidhāyakaiḥ](abhidhāyakaiḥ)
+[by-them](taiḥ) [matter](jaḍāḥ) [are-deceived](vipralamyante) [by-similar](sadṛśaiḥ) [expressers](abhidhāyakaiḥ)
 
 ## mukta-m0-p12-v294
-[mahā+naya+upadeśena](mahānayopadeśena) [pātyete](pātyete) [sva+para+avadhaḥ](svaparāvadhaḥ)
+[by-great-way-teaching](mahānaya-upadeśena) [are-thrown](pātyete) [self-other-destruction](sva-para-avadhaḥ)
 
 ## mukta-m0-p12-v295
-[sthitaḥ](sthitaḥ) [saṅkoca+saṃskāraḥ](saṅkocasaṃskāraḥ) [kā](kā) [kathā](kathā) [anyeṣu](anyeṣu) [jantuṣu](jantuṣu)
+[stands](sthitaḥ) [contraction-impression](saṅkoca-saṃskāraḥ) [what](kā) [talk](kathā) [in-others](anyeṣu) [creatures](jantuṣu)
 
 ## mukta-m0-p12-v296
-[sarva+āgraha+grāha+vaśāt](sarvāgrahagrāhavaśāt) [jīvanmuktiḥ](jīvanmuktiḥ) [prakāśate](prakāśate)
+[by-all-grasping-grasp](sarva-āgraha-grāha-vaśāt) [living-liberation](jīvan-muktiḥ) [shines](prakāśate)
 
 ## mukta-m0-p12-v297
-[avikalpa+vikalpa+ātma+sthairya+rūpatayā](avikalpavikalpātmasthairyarūpatayā) [punaḥ](punaḥ)
+[without-thought-thought-nature](avikalpa-vikalpa-ātma) [steadiness-form](sthairya-rūpatayā) [again](punaḥ)
 
 ## mukta-m0-p12-v298
-[nānāvidha+āgraha+granthi+vāsanā+vedha+bṛṃhitaḥ](nānāvidhāgrahagranthivāsanāvedhabṛṃhitaḥ)
+[various-grasping-knot](nānā-vidha-āgraha-granthi) [desire-piercing-expansion](vāsanā-vedha-bṛṃhitaḥ)
 
 ## mukta-m0-p12-v299
-[ataḥ](ataḥ) [saṃhāra+rūpaḥ](saṃhārarūpaḥ) [ayam](ayam) [vinā](vinā) [katham](katham)
+[therefore](ataḥ) [dissolution-form](saṃhāra-rūpaḥ) [this](ayaṃ) [without](vinā) [how](katham)
 
 ## mukta-m0-p12-v300
-[tasmāt](tasmāt) [svarūpa+dārḍhyena](svarūpadārḍhyena) [sarva+āvaraṇa+bhedinā](sarvāvaraṇabhedinā)
+[therefore](tasmāt) [own-form-firmness](svarūpa-dārḍhyena) [all-covering-breaking](sarva-āvaraṇa-bhedinā)

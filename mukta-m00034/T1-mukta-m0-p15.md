@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[motion-from+delusion-form-gen](calanānmoharūpasya) [progression-from](kramaṇāt) [supreme-consciousness-gen](parasaṃvidaḥ)
+[from-movement](calanāt) [of-delusion-form](moha-rūpasya) [by-progression](kramaṇāt) [of-supreme-consciousness](para-saṃvidaḥ)
 
 ## mukta-m0-p15-v352
-[illumination-transcendence+also](uddyotātikramaścāpi) [duality-by](dvaividhyena) [established](vyavasthitaḥ)
+[transcendence-of-illumination](uddyota-atikramaḥ) [and](ca) [api](api) [by-duality](dvaividhyena) [established](vyavasthitaḥ)
 
 ## mukta-m0-p15-v353
-[one](ekas) [that-transcendence-self](tadvyukramātmā) [other](anyaḥ) [supreme-space-established](parākāśapratiṣṭhitaḥ)
+[one](ekaḥ) [that-transcendence-self](tad-vyukrama-ātmā) [other](anyaḥ) [established-in-supreme-space](parākāśa-pratiṣṭhitaḥ)
 
 ## mukta-m0-p15-v354
-[desire-contact-from](kāmasaṃsargataḥ) [its](tasya) [return](pratyāvṛttyā) [all-around](samantataḥ)
+[from-desire-contact](kāma-saṃsargataḥ) [of-that](tasya) [by-return](pratyāvṛttyā) [self](ātma) [all-around](samantataḥ)
 
 ## mukta-m0-p15-v355
-[object-enjoyment-knowledge](viṣayābhoganirjñāta) [nirvikalpa-even](nirvikalpe'pi) [that](yat) [clear](sphuṭam)
+[in-nondual-even](nirvikalpe+api) [of-object-enjoyment-knowledge](viṣaya-ābhoga-nirjñāta) [what](yat) [clear](sphuṭam)
 
 ## mukta-m0-p15-v356
-[inwardness-in](antarmukhatve) [then](tu) [illumination-from](uddyotāt) [being-reflection-action-form](bhāvāmarśakriyātmakāt)
+[in-inwardness](antarmukhatve) [tu](tu) [from-illumination](uddyotāt) [of-being-reflection-action-nature](bhāva-āmarśa-kriyā-ātmakāt)
 
 ## mukta-m0-p15-v357
-[thus](evaṃ) [outward-absence-occasion](bahirmukhābhāvāvasare) [indeed](hi) [rising-etc](udayādikam)
+[thus](evaṃ) [at-absence-of-outwardness](bahirmukha-abhāva-avasare) [indeed](hi) [rising-etc](udaya-ādikam)
 
 ## mukta-m0-p15-v358
-[that](tad) [outer-universe-refuge](bahirviśvamāśritya) [action-self](kriyātmanaḥ)
+[that](tad) [external-universe](bahir-viśvam) [resorting](āśritya) [then](tha) [of-action-nature](kriyā-ātmanaḥ)
 
 ## mukta-m0-p15-v359
-[that](*) [refuge](samāśritya) [before](pūrvaṃ) [seat-progression-self](pīṭhakramātmanā)
+[resorting](samāśritya) [formerly](pūrvaṃ) [by-seat-progression-nature](pīṭha-krama-ātmanā)
 
 ## mukta-m0-p15-v360
-[then](tato) [universe-establishment](viśvasya saṃsthānam) [from-root](āmūlāt) [explained](pratipāditam)
+[then](tato) [of-universe](viśvasya) [establishment](saṃsthānam) [from-root](āmūlāt) [explained](pratipāditam)
 
 ## mukta-m0-p15-v361
-[now](idānīṃ) [by-which](yena) [form](rūpeṇa) [all-formed](sarvākāraṃ) [dissolves](vilīyate)
+[now](idānīṃ) [by-which](yena) [form](rūpeṇa) [all-form](sarva-ākāraṃ) [dissolves](vilīyate)
 
 ## mukta-m0-p15-v362
-[harmony-in-progress](sāmarasye pravṛtte'pi) [knowledge-melting-mark](jñānamelāpalakṣaṇe)
+[in-harmony](sāmarasye) [arisen-even](pravṛtte+api) [characterized-by-knowledge-union](jñāna-melāpa-lakṣaṇe)
 
 ## mukta-m0-p15-v363
-[therefore](ataḥ) [action](kriyāṃ) [without](vinā) [their](teṣāṃ) [indeed](hi) [removal](nirharaṇaṃ) [would-be](bhavet)
+[therefore](ataḥ) [without-action](kriyāṃ+vinā) [of-them](teṣāṃ) [indeed](hi) [removal](nirharaṇaṃ) [would-be](bhavet)
 
 ## mukta-m0-p15-v364
-[enough](alaṃ) [grasping-progress](grāsapravṛttena) [action-entry](kriyāveśena) [truly](tattvataḥ)
+[enough](alaṃ) [with-swallowing-arising](grāsa-pravṛttena) [with-action-immersion](kriyā-āveśena) [in-truth](tattvataḥ)
 
 ## mukta-m0-p15-v365
-[raudreshvari-maya](raudreśvarīmayaḥ) [sphere](sphāraḥ) [supreme-grace-stage](parānugrahabhūmikaḥ)
+[made-of-Raudreśvarī](raudreśvarī-mayaḥ) [expansion](sphāraḥ) [ground-of-supreme-grace](parānugraha-bhūmikaḥ)
 
 ## mukta-m0-p15-v366
-[without-impressions-desire-self](nissaṃskāraprakāmātmā) [supreme-power](parāśaktiḥ) [proceeds](pravartate)
+[nature-of-desire-without-impressions](nissaṃskāra-prakāma-ātmā) [supreme-power](parāśaktiḥ) [proceeds](pravartate)
 
 ## mukta-m0-p15-v367
-[uncoveredness](nirāvaraṇatā) [because](yasmāt) [therefore](ataḥ) [arises](sañjāyate) [clearly](sphuṭam)
+[uncovering](nirāvaraṇatā) [because](yasmāt) [therefore](ataḥ) [arises](sañjāyate) [clearly](sphuṭam)
 
 ## mukta-m0-p15-v368
-[step-progression-form](sopānakramarūpeṇa) [sixty-four](catuṣṣaṣṭiḥ) [determined](nirūpitāḥ)
+[by-stair-progression-form](sopāna-krama-rūpeṇa) [sixty-four](catuṣṣaṣṭiḥ) [determined](nirūpitāḥ)
 
 ## mukta-m0-p15-v369
-[consciousness-reflection-self](cidvimarśasvarūpeṇa) [force-cooking](haṭhapākena) [melting](gālanam)
+[by-consciousness-reflection-nature](cid-vimarśa-svarūpeṇa) [by-forceful-cooking](haṭha-pākena) [melting](gālanam)
 
 ## mukta-m0-p15-v370
-[there](tatra) [raudreshvari-form](raudreśvarīrūpaṃ) [first](prathamaṃ) [sixteen-self](ṣoḍaśātmanaḥ)
+[there](tatra) [Raudreśvarī-form](raudreśvarī-rūpaṃ) [first](prathamaṃ) [of-sixteen-nature](ṣoḍaśa-ātmanaḥ)
 
 ## mukta-m0-p15-v371
-[uncoveredness-to-lead](nirāvaraṇatāṃ netuṃ) [proceeds](pravṛttaṃ) [consciousness-reflection-from](cidvimarśataḥ)
+[to-uncovering](nirāvaraṇatāṃ) [to-lead](netuṃ) [arisen](pravṛttaṃ) [from-consciousness-reflection](cid-vimarśataḥ)
 
 ## mukta-m0-p15-v372
-[ego-by](ahaṅkāreṇa) [accomplishment](siddhatvaṃ) [resorting](śritvā) [that-ray-gen](tattanmarīcinām)
+[by-ego](ahaṅkāreṇa) [perfection](siddhatvaṃ) [resorting](śritvā) [of-that-rays](tad-tan-marīcinām)
 
 ## mukta-m0-p15-v373
-[entering](āviśya) [object-impression-wheel](meyasaṃskāracakraṃ) [there](tatra) [dissolves](pralīyate)
+[entering](āviśya) [object-impression-wheel](meya-saṃskāra-cakraṃ) [there](tatra) [dissolves](pralīyate)
 
 ## mukta-m0-p15-v374
-[mental-impression-wheel](mānasaṃskāracakrasya) [return-progression-self](pratyāvṛttikramātmanaḥ)
+[of-mind-impression-wheel](māna-saṃskāra-cakrasya) [of-return-progression-nature](pratyāvṛtti-krama-ātmanaḥ)
 
 ## mukta-m0-p15-v375
-[thinking-protection-dharmas](mananatrāṇadharmābhyāṃ) [mantra-accomplished-self](mantrasiddhamayātmatām)
+[by-meditation-protection-dharmas](manana-trāṇa-dharmābhyāṃ) [mantra-perfection-made-selfhood](mantra-siddha-maya-ātmatām)
