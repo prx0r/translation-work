@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[tadvat](tadvad) [vedāḥ](vedāḥ) [ku-vipra-sthāḥ](kuviprasthāḥ) [kartuḥ](kartuḥ) [syuḥ](syuḥ) [aśubha-pradāḥ](aśubhapradāḥ)
+tadvat-vedāḥ kuvipra-sthāḥ kartuḥ syuḥ aśubha-pradāḥ
 
 ## mukta-m0-p12-v277
-[ete](ete) [śaivāḥ](śaivāḥ) [samākhyātāḥ](samākhyātā) [na](na) [tu](tu) [ete](ete) [brāhmaṇāḥ](brāhmaṇāḥ) [kvacit](kvacit)
+ete śaivāḥ samākhyātāḥ na tu ete brāhmaṇāḥ kvacit
 
 ## mukta-m0-p12-v278
-[saṃskṛtānām](saṃskṛtānāṃ) [yatas](yatas) [teṣām](teṣāṃ) [naśyante](naśyante) [pūrva-jātayaḥ](pūrvajātayaḥ)
+saṃskṛtānām yatas teṣām naśyante pūrva-jātayaḥ
 
 ## mukta-m0-p12-v279
-[pṛthaṅ](pṛthaṅ) [mantra-āgama](mantrāgamā) [eṣām](veṣāṃ) [vratāni](vratāni) [kratavaḥ](kratavaḥ) [pṛthak](pṛthak)
+pṛthak-mantra-āgama-aveṣām vratāni kratavaḥ pṛthak
 
 ## mukta-m0-p12-v280
-[mugdhāḥ](mugdhāḥ) [kurvanti](kurvanti) [ye](ye) [viprāḥ](viprāḥ) [śiva-ādi-sthāpanam](śivādisthāpanaṃ) [kalau](kalau)
+mugdhāḥ kurvanti ye viprāḥ śiva-ādi-sthāpanam kalau
 
 ## mukta-m0-p12-v281
-[tathā-eva](tathaiva) [śiva-yāgeṣu](śivayāgeṣu) [na](na) [mantrāḥ](mantrā) [vaidika-ādayaḥ](vaidikādayaḥ)
+tathā eva śiva-yāgeṣu na mantrāḥ vaidika-ādayaḥ
 
 ## mukta-m0-p12-v282
-[na](na) [dvāram](dvāraṃ) [maṇḍapa-ādiḥ](maṇḍapādiś) [ca](ca) [sthāpanam](sthāpanaṃ) [na](na) [śiva-ādike](śivādike)
+na dvāram maṇḍapa-ādiḥ ca sthāpanam na śiva-ādike
 
 ## mukta-m0-p12-v283
-[tasmāt](tasmāc) [śaivena](chaivena) [mantreṇa](mantreṇa) [pratiṣṭheta](pratiṣṭheta) [śiva-ādikam](śivādikam)
+tasmāt śaivena mantreṇa pratiṣṭheta śiva-ādikam
 
 ## mukta-m0-p12-v284
-[śiva-mantraiḥ](śivamantraistayoḥ) [tayoḥ](tayoḥ) [samyak](samyak) [śivatvam](śivatvaṃ) [na](na) [anya-mantrataḥ](nānyamantrataḥ)
+śiva-mantraiḥ tayoḥ samyak śivatvam na anya-mantrataḥ
 
 ## mukta-m0-p12-v285
-[na](na) [anya-darśana-mantraiḥ](nānyadarśanamantrair) [vā](vā) [pratiṣṭhā](pratiṣṭhā) [syāt](syāc) [śivasya](śivasya) [tu](tu)
+na anya-darśana-mantraiḥ vā pratiṣṭhā syāt śivasya tu
 
 ## mukta-m0-p12-v286
-[na](na) [ca](ca) [śaivī-kriyā](śaivīkriyā) [vede](vede) [na](na) [ca](ca) [khaḍga-ādi-siddhayaḥ](khaḍgadisiddhayaḥ)
+na ca śaivī-kriyā vede na ca khaḍga-ādi-siddhayaḥ
 
 ## mukta-m0-p12-v287
-[agniṣṭoma-ādayaḥ](agniṣṭomādayo) [yajñāḥ](yajñā) [veda-uktāḥ](vedoktā) [īśvareṇa](īśvareṇa) [tu](tu)
+agniṣṭoma-ādayaḥ yajñāḥ veda-uktāḥ īśvareṇa tu
 
 ## mukta-m0-p12-v288
-[siddhānta-sthāpanam](siddhāntasthāpanaṃ) [dīkṣām](dīkṣāṃ) [na](noktaṃ) [uktam](uktam) [vedeṣu](vedeṣu) [śaṃbhunā](śaṃbhunā)
+siddhānta-sthāpanam dīkṣām na uktam vedeṣu śambhunā
 
 ## mukta-m0-p12-v289
-[sva-mantra-bīja-jāḥ](svamantrabījajā) [devāḥ](devā) [na](na) [bahu-akṣara-ḍambarāt](bavhakṣaraḍambarāt)
+sva-mantra-bīja-jāḥ devāḥ na bahu-akṣara-ḍambarāt
 
 ## mukta-m0-p12-v290
-[na](na) [ete](ete) [śiva-adhva-tattva-jñāḥ](śivādhvatattvajñāḥ) [stāvakāḥ](stāvakā) [jana-rañjakāḥ](janarañjakāḥ)
+na ete śiva-adhva-tattva-jñāḥ stāvakāḥ jana-rañjakāḥ
 
 ## mukta-m0-p12-v291
-[stutyā](stutyaiva) [eva](eva) [sthāpanam](sthāpanaṃ) [na](na) [syāt](syāc) [śiva-liṅge](śivaliṅge) [cala-acale](calācale)
+stutyā eva sthāpanam na syāt śiva-liṅge cala-acale
 
 ## mukta-m0-p12-v292
-[śaiva-ācāryaiḥ](śaivācāryaistu) [tu](tu) [sā](sā) [kāryā](kāryā) [rudra-brahma-arka-cakriṇām](rudrabrahmārkacakriṇām)
+śaiva-ācāryaiḥ tu sā kāryā rudra-brahma-arka-cakriṇām
 
 ## mukta-m0-p12-v293
-[yakṣa-rākṣasa-yoginyaḥ](yakṣarākṣasayoginyo) [gaṇāḥ](gaṇā) [gaurayaḥ](gauryastathāparāḥ) [tathā](tathā) [aparāḥ](aparāḥ)
+yakṣa-rākṣasa-yoginyaḥ gaṇāḥ gaurayaḥ tathā aparāḥ
 
 ## mukta-m0-p12-v294
-[sva-saṃvedye](svasaṃvedye) [api](pi) [rāga-andhāḥ](rāgāndhā) [dvijāḥ](dvijā) [īśvara-nindakāḥ](īśvaranindakāḥ)
+sva-saṃvedye api rāga-andhāḥ dvijāḥ īśvara-nindakāḥ
 
 ## mukta-m0-p12-v295
-[te](te) [api](pi) [tyājyāḥ](tyājyāḥ) [pratiṣṭhā-ādau](pratiṣṭhādau) [dūrāt](dūrād) [bauddha-dvija-ādayaḥ](bauddhadvijādayaḥ)
+te api tyājyāḥ pratiṣṭhā-ādau dūrāt bauddha-dvija-ādayaḥ
 
 ## mukta-m0-p12-v296
-[śiva-ādi-sthāpanam](śivādisthāpanaṃ) [kāryam](kāryaṃ) [na](na) [anyaiḥ](nānyaistu) [tu](tu) [brāhmaṇa-ādibhiḥ](brāhmaṇādibhiḥ)
+śiva-ādi-sthāpanam kāryam na anyaiḥ tu brāhmaṇa-ādibhiḥ
 
 ## mukta-m0-p12-v297
-[sva-karma-abhiratāḥ](svakarmābhiratā) [viprāḥ](viprāḥ) [śaiva-ādyāḥ](śaivādyāḥ) [kāpila-antakāḥ](kāpilāntakāḥ)
+sva-karma-abhiratāḥ viprāḥ śaiva-ādyāḥ kāpila-antakāḥ
 
 ## mukta-m0-p12-v298
-[sva-ṣaṭ-karma-anvitaḥ](svaṣaṭkarmānvito) [nityam](nityaṃ) [na](na) [anya-karmā](nānyakarmā) [dvijaḥ](dvijo) [bhavet](bhavet)
+sva-ṣaṭ-karma-anvitaḥ nityam na anya-karmā dvijaḥ bhavet
 
 ## mukta-m0-p12-v299
-[adhyāpanam](adhyāpanamiti) [iti](iti) [syuḥ](syuś) [ca](ca) [ṣaṭ-karmāṇi](ṣaṭkarmāṇi) [sadā](sadā) [dvije](dvije)
+adhyāpanam iti syuḥ ca ṣaṭ-karmāṇi sadā dvije
 
 ## mukta-m0-p12-v300
-[tṛṇa-ādi-mūlya-bhikṣā-anna-vṛttiḥ](tṛṇādimūlyabhikṣānnavṛttiḥ) [syāt](syā) [brāhmaṇaḥ](brāhmaṇo) [varaḥ](varaḥ)
+tṛṇa-ādi-mūlya-bhikṣānna-vṛttiḥ syāt brāhmaṇaḥ varaḥ
