@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[pada](anaṃgaśaktayoṣṭau) [pada](tu) [pada](pūjanīyāmanīṣibhiḥ)
+[anaṃga-śakti](anaṃgaśaktayo) [aṣṭau](aṣṭau) [tu](tu) [pūjanīyā](pūjanīyā) [manīṣibhiḥ](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[pada](anaṃgamadanānaṃga) [pada](madanāturayā) [pada](saha)
+[anaṃga-madana-anaṃga](anaṃgamadanānaṃga) [madana-āturayā](madanāturayā) [saha](saha)
 
 ## mukta-m0-p18-v428
-[pada](anaṃgamālinī) [pada](cāṣṭau) [pada](pūjanīyā) [pada](vidhānataḥ)
+[anaṃga-mālinī](anaṃgamālinī) [ca](ca) [aṣṭau](aṣṭau) [pūjanīyā](pūjanīyā) [vidhānataḥ](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-[pada](ānaṃdacakramānaṃda) [pada](kolāhalavivarddhanam)
+[ānanda-cakra](ānaṃdacakram) [ānanda](ānaṃda) [kolāhala-vivarddhana](kolāhalavivarddhanam)
 
 ## mukta-m0-p18-v430
-[pada](taṭitprabhā) [pada](samullāsapiṃjaraiḥ) [pada](kāmaraśmibhiḥ)
+[taṭit-prabhā](taṭitprabhā) [samullāsa-piṃjara](samullāsapiṃjaraiḥ) [kāma-raśmi](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[pada](anaṃgaśakti) [pada](saṃkṣobhāṃ) [pada](nāḍībhyogalitaṃ) [pada](navam)
+[anaṃga-śakti-saṃkṣobha](anaṃgaśakti) [nāḍībhyaḥ](nāḍībhyo) [galita](galitaṃ) [navam](navam)
 
 ## mukta-m0-p18-v432
-[pada](śṛṃgāravāhinīpūra) [pada](pūrṇarāgāṃ) [pada](kurāruṇam)
+[śṛṃgāra-vāhinī-pūra](śṛṃgāravāhinīpūra) [pūrṇa-rāgā](pūrṇarāgāṃ) [kurāruṇam](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[pada](manmathadrava) [pada](saṃdoha) [pada](juṣṭamarthaprabhedanaiḥ)
+[manmatha-drava-saṃdoha](manmathadrava) [juṣṭa](juṣṭam) [artha-prabhedana](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[pada](keyaṃ) [pada](caṃdrakalānāma) [pada](kutra) [pada](tiṣṭhati) [pada](śaṃkara)
+[ka](keyaṃ) [caṃdra-kalā](caṃdrakalā) [nāma](nāma) [kutra](kutra) [tiṣṭhati](tiṣṭhati) [śaṃkara](śaṃkara)
 
 ## mukta-m0-p18-v435
-[pada](śṛṇukāmakalānāma) [pada](nāḍībhogāṃbuvāhinī)
+[śṛṇu](śṛṇu) [kāma-kalā](kāmakalā) [nāma](nāma) [nāḍī-bhoga-ambu-vāhinī](nāḍībhogāṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-[pada](nāḍīcakraṃ) [pada](samastaṃ) [pada](ca) [pada](tayā) [pada](vyāptaṃ) [pada](varānane)
+[nāḍī-cakra](nāḍīcakraṃ) [samasta](samastaṃ) [ca](ca) [tayā](tayā) [vyāpta](vyāptaṃ) [varānane](varānane)
 
 ## mukta-m0-p18-v437
-[pada](kāścidānaṃdavāhinya) [pada](ekaivamalavāhinī)
+[kāścit](kāścid) [ānanda-vāhinī](ānaṃdavāhinya) [eka](eka) [eva](eva) [amala-vāhinī](amalavāhinī)
 
 ## mukta-m0-p18-v438
-[pada](aṣṭaubhogāṃbuvāhinyaḥ) [pada](tāsu) [pada](caṃdrakalā) [pada](parā)
+[aṣṭau](aṣṭau) [bhoga-ambu-vāhinī](bhogāṃbuvāhinyaḥ) [tāsu](tāsu) [caṃdra-kalā](caṃdrakalā) [parā](parā)
 
 ## mukta-m0-p18-v439
-[pada](caṃdrarekhā) [pada](caṃdravatī) [pada](tathā) [pada](caṃdramahodayā)
+[caṃdra-rekhā](caṃdrarekhā) [caṃdravatī](caṃdravatī) [tathā](tathā) [caṃdra-mahodayā](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-[pada](etābhogāṃbuvāhinya) [pada](svāṃśaiścaṃdrakalāśritāḥ)
+[etāḥ](etābhogāṃbuvāhinya) [bhoga-ambu-vāhinī](bhogāṃbuvāhinya) [sva-aṃśaiḥ](svāṃśaiḥ) [caṃdra-kalā-āśritāḥ](caṃdrakalāśritāḥ)
 
 ## mukta-m0-p18-v441
-[pada](pradhānabhūtā) [pada](vilasadvidyuddāma) [pada](samaprabhā)
+[pradhāna-bhūtā](pradhānabhūtā) [vilasad](vilasad) [vidyut-dāma](vidyuddāma) [sama-prabhā](samaprabhā)
 
 ## mukta-m0-p18-v442
-[pada](sarvanāḍīmūlabhūtaṃ) [pada](nābhicakraṃ) [pada](samāśritā)
+[sarva-nāḍī-mūla-bhūtaṃ](sarvanāḍīmūlabhūtaṃ) [nābhi-cakraṃ](nābhicakraṃ) [samāśritā](samāśritā)
 
 ## mukta-m0-p18-v443
-[pada](tanmukhot) [pada](ghāṭanaṃ) [pada](loke) [pada](durlabhaṃ) [pada](parameśvari)
+[tat](tanmukhot) [mukha-udghāṭana](mukhotghāṭanaṃ) [loke](loke) [durlabhaṃ](durlabhaṃ) [parameśvari](parameśvari)
 
 ## mukta-m0-p18-v444
-[pada](dvitrāṇāmeva) [pada](jāyeta) [pada](sahasreṣvathakauliṣu)
+[dvi-trāṇām](dvitrāṇāmeva) [eva](eva) [jāyeta](jāyeta) [sahasreṣu](sahasreṣu) [atha](athakauliṣu) [kauliṣu](kauliṣu)
 
 ## mukta-m0-p18-v445
-[pada](yasya) [pada](liṃgesvarāseka) [pada](sakṛdvāpīhajanmani)
+[yasya](yasya) [liṃga-īśvara-āseka](liṃgesvarāseka) [sakṛt](sakṛt) [vā](vā) [api](api) [janmani](janmani)
 
 ## mukta-m0-p18-v446
-[pada](anirvācyasya) [pada](nirvāṇa) [pada](padavīnadaviyasī)
+[anirvācyasya](anirvācyasya) [nirvāṇa](nirvāṇa) [padavī](padavī) [nadaviyasī](nadaviyasī)
 
 ## mukta-m0-p18-v447
-[pada](samayasya) [pada](parijñānādupacārasya) [pada](kalpanāt)
+[samayasya](samayasya) [parijñānāt](parijñānāt) [upacārasya](upacārasya) [kalpanāt](kalpanāt)
 
 ## mukta-m0-p18-v448
-[pada](kadācit) [pada](kvacidunmeṣaṃ) [pada](mukhodghāṭanalakṣaṇam)
+[kadācit](kadācit) [kvacid](kvacid) [unmeṣaṃ](unmeṣaṃ) [mukha-udghāṭana-lakṣaṇam](mukhodghāṭanalakṣaṇam)
 
 ## mukta-m0-p18-v449
-[pada](tadarthānyevaśāstrāṇi) [pada](tadarthāśca) [pada](pravṛttayaḥ)
+[tad-artha](tadarthānyevaśāstrāṇi) [eva](eva) [śāstrāṇi](śāstrāṇi) [tad-artha](tadarthāśca) [ca](ca) [pravṛttayaḥ](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[pada](tasmāccaṃdrakalānāḍyāṃ) [pada](bhogāmṛtamahodadhim)
+[tasmāt](tasmāccaṃdrakalānāḍyāṃ) [caṃdra-kalā-nāḍyāṃ](caṃdrakalānāḍyāṃ) [bhoga-amṛta-mahodadhim](bhogāmṛtamahodadhim)
