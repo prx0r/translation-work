@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[khadgisha](khaḍgīśo) [jvalini](jvālinī) [vaksah](vakṣaḥ) [vanka](vaṅkaḥ) [ranka](raṅkaḥ) [kalasa](kalasaṃ) [ravi](ravi) [kalasa](kalasaṃ) [dhvani-vacaka](dhvanivācakaḥ)
+[pada](khaḍgīśo) [pada](jvālinī) [pada](vakṣaḥ) [pada](vaṅkaḥ) [pada](raṅkaḥ) [pada](kalasaṃ) [pada](ravi) [pada](kalasaṃ) [pada](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[tridhatu](tridhātuḥ) [shankara](śaṅkaraḥ) [shreshtha](śreṣṭho) [visesha](viśeṣo) [yama-sadana](yamasādanam)
+[pada](tridhātuḥ) [pada](śaṅkaraḥ) [pada](śreṣṭho) [pada](viśeṣo) [pada](yamasādanam)
 
 ## mukta-m0-p09-v203
-[sha](śa)
+[pada](śa)
 
 ## mukta-m0-p09-v204
-[saukhya-nama](saukhyānāmā) [kumara](kumāro'sthi) [shrikantha](śrīkaṇṭho) [vrisha-ketana](vṛṣaketanaḥ)
+[pada](saukhyānāmā) [pada](kumāro'sthi) [pada](śrīkaṇṭho) [pada](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[mrityu-deva](mṛtyudevo) [maha-lakshmi](mahālakṣmīrmahendraḥ) [kula-kaulini](kulakaulinī)
+[pada](mṛtyudevo) [pada](mṛtyurdevo) [pada](mahālakṣmīrmahendraḥ) [pada](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[vamoru](vāmoruḥ) [pundarika-atma](puṇḍarīkātmā) [kanti](kāntiḥ) [kalyana-vacaka](kalyāṇavācakaḥ)
+[pada](vāmoruḥ) [pada](puṇḍarīkātmā) [pada](kāntiḥ) [pada](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[parameshti](parameṣṭhī) [vama-bahu](vāmabāhuḥ) [shreshtha](śreṣṭho) [garbha-vimocana](garbhavimocanaḥ)
+[pada](parameṣṭhī) [pada](vāmabāhuḥ) [pada](śreṣṭho) [pada](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[sushri](suśrīruṣmā) [vrisha](vṛṣo) [lajja](lajjā) [marud-bhakshya](marudbhakṣyaḥ) [priya](priyaḥ) [shiva](śivaḥ)
+[pada](suśrīruṣmā) [pada](vṛṣo) [pada](lajjā) [pada](marudbhakṣyaḥ) [pada](priyaḥ) [pada](śivaḥ)
 
 ## mukta-m0-p09-v209
-[kalakantha](kalakaṇṭho) [madhya-bhinna](madhyabhinnā) [yuddha-atma](yuddhātmā) [khalpu](khalpūḥ) [shira](śiraḥ)
+[pada](kalakaṇṭho) [pada](madhyabhinnā) [pada](yuddhātmā) [pada](khalpūḥ) [pada](malapuḥ) [pada](śiraḥ)
 
 ## mukta-m0-p09-v210
-[jagad-bija](jagadbījaṃ) [shakti-nama](śaktināmā) [soham](so'haṃ) [vega-vati](vega(śa)vatī) [bhrgu](bhṛguḥ)
+[pada](jagadbījaṃ) [pada](śaktināmā) [pada](so'haṃ) [pada](moho) [pada](vega(śa)vatī) [pada](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[daksha-pada](dakṣapādo'mṛtaṃ) [brahmi](brāhmī) [paramatma](paramātmā) [parakshara](paro'kṣaraḥ)
+[pada](dakṣapādo'mṛtaṃ) [pada](brāhmī) [pada](paramātmā) [pada](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[prana-adi](prāṇādyastripurādevī) [lakshmi](lakṣmīḥ) [soma](somo) [hiranya-bhu](hiraṇyabhūḥ)
+[pada](prāṇādyastripurādevī) [pada](śca) [pada](purā) [pada](devī) [pada](lakṣmīḥ) [pada](somo) [pada](hiraṇyabhūḥ) [pada](hiraṇyapuḥ)
 
 ## mukta-m0-p09-v213
-[durgottarini](durgottāriṇī) [sammoha](sammohā) [jiva](jīvo) [murti-manohara](mūrtimanoharaḥ)
+[pada](durgottāriṇī) [pada](sammohā) [pada](jīvo) [pada](mūrtimanoharaḥ) [pada](manojavaḥ)
 
 ## mukta-m0-p09-v214
-[nakulisha](nakulīśo) [jagat-prana](jagatprāṇaḥ) [pranisha](prāṇeśaḥ) [kapila-amala](kapilā'malaḥ)
+[pada](nakulīśo) [pada](jagatprāṇaḥ) [pada](prāṇeśaḥ) [pada](kapilā'malaḥ) [pada](malaḥ) [pada](mataḥ)
 
 ## mukta-m0-p09-v215
-[mrga-abhaya-aruna](mṛgo'bhayā'ruṇā) [sthanu](sthāṇuḥ) [kroshtu](kroṣṭuḥ) [kupa-viravana](kūpavirāvaṇaḥ)
+[pada](mṛgo'bhayā'ruṇā) [pada](sthāṇuḥ) [pada](kroṣṭuḥ) [pada](kūpavirāvaṇaḥ) [pada](kraṭakūpavirāvaṇaḥ) [pada](kūṭakoparivāraṇaḥ)
 
 ## mukta-m0-p09-v216
-[sva-kopa-varana](sva(sa)kopavāraṇaḥ) [shuli](śūlī) [caitanya](caitanyaṃ) [pada-purana](pādapūraṇaḥ)
+[pada](sva(sa)kopavāraṇaḥ) [pada](śūlī) [pada](caitanyaṃ) [pada](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[bindu](bindurdurgā) [priya-devi](priyā devī) [megha](meghaḥ) [shyameshvara](śyāmeśvaraḥ) [puman](pumān)
+[pada](bindurdurgā) [pada](priyā) [pada](devī) [pada](meghaḥ) [pada](śyāmeśvaraḥ) [pada](pumān)
 
 ## mukta-m0-p09-v218
-[daksha-pada](dakṣapādaḥ) [sada-shambhu](sadā śambhuḥ) [sakhota](sākhoṭaḥ) [soma-mandala](somamaṇḍalam)
+[pada](dakṣapādaḥ) [pada](sadā) [pada](śambhuḥ) [pada](sākhoṭaḥ) [pada](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[vyapini](vyāpinī) [shiva-da](śivadā) [ketu](keturjagat) [sira-tara](sīrataraṃ) [hatha](haṭhaḥ)
+[pada](vyāpinī) [pada](śivadā) [pada](keturjagat) [pada](sīrataraṃ) [pada](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[jathara](jaṭharo) [nakuli](nakuliḥ) [pita](pītaḥ) [shivesha-ananga-malini](śiveśo'naṅgamālinī)
+[pada](jaṭharo) [pada](nakuliḥ) [pada](pītaḥ) [pada](pītā) [pada](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[ksha](kṣa)
+[pada](kṣa)
 
 ## mukta-m0-p09-v222
-[nrsimha](nṛsiṃho) [vidyuta](vidyutā) [maya](māyā) [maha-teja](mahātejā) [yugantaka](yugāntakaḥ)
+[pada](nṛsiṃho) [pada](vidyutā) [pada](māyā) [pada](mahātejā) [pada](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[sarvanga](sarvāṅgaṃ) [sagara](sāgaraḥ) [kama](kāmaḥ) [samyoga-anta-tripuraka](saṃyogāntastripūrakaḥ)
+[pada](sarvāṅgaṃ) [pada](sarvāṃgaḥ) [pada](sāgaraḥ) [pada](kāmaḥ) [pada](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[mukha](mukhaṃ) [kavya](kavyaṃ) [maha-ananta](mahānantā) [kala-jihva](kālajihvā) [ganeshvara](gaṇeśvaraḥ)
+[pada](mukhaṃ) [pada](kavyaṃ) [pada](mahānantā) [pada](kavyavahā'nantā) [pada](kālajihvā) [pada](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[chayaputra](chāyāputraśca) [sanghata](saṃghāto) [malaya-shri](malayaśrīrlalāṭakaḥ) [lalataka](lalāṭakaḥ)
+[pada](chāyāputraśca) [pada](saṃghāto) [pada](malayaśrīrlalāṭakaḥ)
