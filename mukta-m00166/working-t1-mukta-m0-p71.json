@@ -7,8 +7,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhūtabhāvivibhāvinī",
-"quick_gloss": "past+future+perceiving"
+"surface": "bhūta",
+"quick_gloss": "past"
+},
+{
+"surface": "bhāvi",
+"quick_gloss": "future"
+},
+{
+"surface": "vibhāvinī",
+"quick_gloss": "perceiving"
 }
 ]
 },
@@ -20,7 +28,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ato'nyaḥ",
+"surface": "ataḥ",
+"quick_gloss": "therefore"
+},
+{
+"surface": "anyaḥ",
 "quick_gloss": "other"
 },
 {
@@ -28,16 +40,20 @@
 "quick_gloss": "who"
 },
 {
-"surface": "sadādyantastvāṃ",
-"quick_gloss": "always-beginning-end"
+"surface": "sadādyantaḥ",
+"quick_gloss": "beginning-end"
 },
 {
-"surface": "vibhāvayituṃ",
-"quick_gloss": "able-to-manifest"
+"surface": "tvām",
+"quick_gloss": "you"
+},
+{
+"surface": "vibhāvayitum",
+"quick_gloss": "to-manifest"
 },
 {
 "surface": "kṣamaḥ",
-"quick_gloss": "capable"
+"quick_gloss": "able"
 }
 ]
 },
@@ -70,10 +86,6 @@
 "quick_gloss": "auspicious"
 },
 {
-"surface": "astu",
-"quick_gloss": "let-be"
-},
-{
 "surface": "asya",
 "quick_gloss": "his"
 },
@@ -96,7 +108,7 @@
 "tokens": [
 {
 "surface": "suśīlā",
-"quick_gloss": "good-charactered"
+"quick_gloss": "good-character"
 }
 ]
 },
@@ -108,23 +120,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "svayaṃ",
+"surface": "svayam",
 "quick_gloss": "self"
 },
 {
 "surface": "suśīlā",
-"quick_gloss": "good-charactered"
+"quick_gloss": "good-character"
 },
 {
 "surface": "yadi",
 "quick_gloss": "if"
 },
 {
-"surface": "nā",
+"surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "bhaviṣyaḥ",
+"surface": "abhaviṣyaḥ",
 "quick_gloss": "would-be"
 }
 ]
@@ -138,7 +150,7 @@
 "tokens": [
 {
 "surface": "paramārthaprabodhikā",
-"quick_gloss": "ultimate-truth-awakening"
+"quick_gloss": "supreme-meaning-awakening"
 }
 ]
 },
@@ -154,7 +166,7 @@
 "quick_gloss": "by-attainment"
 },
 {
-"surface": "bhrāmakān",
+"surface": "bhrāmaka",
 "quick_gloss": "wandering"
 },
 {
@@ -162,7 +174,7 @@
 "quick_gloss": "other"
 },
 {
-"surface": "arthāñ",
+"surface": "arthān",
 "quick_gloss": "harms"
 },
 {
@@ -184,7 +196,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "southern/right"
+"quick_gloss": "right/south"
 }
 ]
 },
@@ -196,16 +208,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yatastatastataprajñair",
+"surface": "yataḥ",
 "quick_gloss": "since"
 },
 {
-"surface": "dakṣiṇeti",
-"quick_gloss": "southern/right"
+"surface": "tataḥ",
+"quick_gloss": "there"
+},
+{
+"surface": "tat",
+"quick_gloss": "that"
+},
+{
+"surface": "prajñaiḥ",
+"quick_gloss": "wise"
+},
+{
+"surface": "dakṣiṇā",
+"quick_gloss": "right/south"
 },
 {
 "surface": "prakīrtyase",
-"quick_gloss": "proclaimed"
+"quick_gloss": "called"
 }
 ]
 },
@@ -218,7 +242,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "southern-faced-form"
+"quick_gloss": "right/south-form"
 }
 ]
 },
@@ -235,7 +259,7 @@
 },
 {
 "surface": "dakṣiṇāmūrtiḥ",
-"quick_gloss": "southern-faced-form"
+"quick_gloss": "right/south-form"
 },
 {
 "surface": "iti",
@@ -256,7 +280,7 @@
 "tokens": [
 {
 "surface": "sudakṣiṇā",
-"quick_gloss": "very-southern/right"
+"quick_gloss": "very-right/south"
 }
 ]
 },
@@ -268,11 +292,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "satyaṃ",
+"surface": "satyam",
 "quick_gloss": "true"
 },
 {
-"surface": "tato",
+"surface": "tataḥ",
 "quick_gloss": "then"
 },
 {
@@ -280,8 +304,12 @@
 "quick_gloss": "goddess"
 },
 {
-"surface": "sudakṣiṇāsi",
-"quick_gloss": "very-southern/right"
+"surface": "sudakṣiṇā",
+"quick_gloss": "very-right/south"
+},
+{
+"surface": "asi",
+"quick_gloss": "you-are"
 }
 ]
 },
@@ -294,7 +322,7 @@
 "tokens": [
 {
 "surface": "haripriyā",
-"quick_gloss": "Hari's-beloved"
+"quick_gloss": "Viṣṇu-beloved"
 }
 ]
 },
@@ -307,11 +335,11 @@
 "tokens": [
 {
 "surface": "śauriḥ",
-"quick_gloss": "Śauri"
+"quick_gloss": "Viṣṇu"
 },
 {
-"surface": "yaddayayā",
-"quick_gloss": "by-whose-grace"
+"surface": "dayayā",
+"quick_gloss": "by-mercy"
 },
 {
 "surface": "devī",
@@ -319,7 +347,7 @@
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "celebrated"
+"quick_gloss": "praised"
 },
 {
 "surface": "sā",
@@ -327,7 +355,7 @@
 },
 {
 "surface": "haripriyā",
-"quick_gloss": "Hari's-beloved"
+"quick_gloss": "Viṣṇu-beloved"
 }
 ]
 },
@@ -360,8 +388,12 @@
 "quick_gloss": "yoginī"
 },
 {
-"surface": "subhagayogadāstu",
-"quick_gloss": "auspicious-yoga-giving"
+"surface": "subhagayogadā",
+"quick_gloss": "fortunate-yoga-giving"
+},
+{
+"surface": "astu",
+"quick_gloss": "let-her-be"
 },
 {
 "surface": "sā",
@@ -390,12 +422,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidānandaiva",
-"quick_gloss": "consciousness-bliss-only"
+"surface": "cidānanda",
+"quick_gloss": "consciousness-bliss"
 },
 {
-"surface": "yannityaṃ",
+"surface": "eva",
+"quick_gloss": "indeed"
+},
+{
+"surface": "yat",
 "quick_gloss": "which"
+},
+{
+"surface": "nityam",
+"quick_gloss": "always"
 },
 {
 "surface": "yogayuktā",
@@ -407,7 +447,7 @@
 },
 {
 "surface": "svataḥ",
-"quick_gloss": "by-herself"
+"quick_gloss": "by-nature"
 }
 ]
 },
@@ -419,7 +459,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogāṅgā",
+"surface": "yogāṅga",
 "quick_gloss": "yoga-limb"
 }
 ]
@@ -433,19 +473,19 @@
 "tokens": [
 {
 "surface": "āpannānām",
-"quick_gloss": "of-the-afflicted"
+"quick_gloss": "afflicted-ones"
 },
 {
-"surface": "āpadanta",
-"quick_gloss": "of-calamity"
+"surface": "āpadantaikahetuḥ",
+"quick_gloss": "calamity-end-single-cause"
 },
 {
-"surface": "ekaheturyogāṅgeyaṃ",
-"quick_gloss": "single-cause"
+"surface": "yogāṅgeyaṃ",
+"quick_gloss": "yoga-limb"
 },
 {
 "surface": "kīrtitā",
-"quick_gloss": "celebrated"
+"quick_gloss": "called"
 },
 {
 "surface": "yogināthaiḥ",
@@ -474,15 +514,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvadhyeyāpi",
+"surface": "sarvadhyeyā",
 "quick_gloss": "all-meditation-worthy"
 },
 {
-"surface": "sarvāsi",
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "sarvā",
 "quick_gloss": "all"
 },
 {
-"surface": "tvaṃ",
+"surface": "asi",
+"quick_gloss": "you-are"
+},
+{
+"surface": "tvam",
 "quick_gloss": "you"
 },
 {
