@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[sword-lord](khaḍgīśo) [flaming-one](jvālinī) [chest](vakṣaḥ) [crooked](vaṅkaḥ) [poor](raṅkaḥ) [jar](kalasaṃ) [sun](ravi) [jar](kalasaṃ) [sound-denoting](dhvanivācakaḥ)
+[sword-lord](khaḍgīśo) [flaming](jvālinī) [chest](vakṣaḥ) [bent+poor-pot-sun]([vaṅkaḥ + raṅkaḥ kalasaṃ ravi]) [pot](kalasaṃ) [sound-denoting](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[twelve](12) [threefold](tridhātuḥ) [śaṅkara](śaṅkaraḥ) [best](śreṣṭho) [distinction](viśeṣo) [yama-abode](yamasādanam)
+[three-constituent](12 tridhātuḥ) [shankara](śaṅkaraḥ) [best](śreṣṭho) [special-abode](viśeṣo yamasādanam)
 
 ## mukta-m0-p09-v203
-[śa](śa)
+[sha](śa)
 
 ## mukta-m0-p09-v204
-[happiness-named](saukhyanāmā) [prince-exists](kumāro'sthi) [śrīkaṇṭha](śrīkaṇṭho) [bull-bannered](vṛṣaketanaḥ)
+[happy-named](saukhyānāmā) [youth](kumāro'sthi) [shrikantha](śrīkaṇṭho) [bull-bannered](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[sixteen](16) [death-god](mṛtyudevo) [death-god](mṛtyurdevo) [mahālakṣmī](mahālakṣmīr) [mahendra](mahendraḥ) [kula-kaulinī](kulakaulinī)
+[death-god](16 mṛtyudevo [mṛtyurdevo]) [great-lakshmi](mahālakṣmīrmahendraḥ) [clan-kaulini](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[beautiful-thighed](vāmoruḥ) [lotus-souled](puṇḍarīkātmā) [radiance](kāntiḥ) [auspiciousness-expressing](kalyāṇavācakaḥ)
+[left-thigh](vāmoruḥ) [lotus-self](puṇḍarīkātmā) [radiance](kāntiḥ) [auspicious-denoting](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[supreme-lord](parameṣṭhī) [beautiful-armed](vāmabāhuḥ) [best](śreṣṭho) [womb-liberator](garbhavimocanaḥ)
+[supreme](parameṣṭhī) [left-arm](vāmabāhuḥ) [best](śreṣṭho) [womb-release](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[four](4) [very-glorious+heat](suśrīruṣmā) [bull](vṛṣo) [modesty](lajjā) [wind-fed](marudbhakṣyaḥ) [dear](priyaḥ) [śiva](śivaḥ)
+[4](4) [good-shri](suśrīruṣmā) [bull](vṛṣo) [shame](lajjā) [wind-food](marudbhakṣyaḥ) [dear](priyaḥ) [shiva](śivaḥ)
 
 ## mukta-m0-p09-v209
-[blue-throated](kalakaṇṭho) [split-in-middle](madhyabhinnā) [battle-souled](yuddhātmā) [khalpū](khalpūḥ) [malapu](malapuḥ) [head](śiraḥ)
+[black-throat](kalakaṇṭho) [middle-split](madhyabhinnā) [war-self](yuddhātmā) [impure](khalpūḥ [malapuḥ]) [head](śiraḥ)
 
 ## mukta-m0-p09-v210
-[eight](8) [world-seed](jagadbījaṃ) [śakti-named](śaktināmā) [I-am-that](so'haṃ) [delusion](moho) [swift](vega(śa)vatī) [bhṛgu](bhṛguḥ)
+[8](8) [world-seed](jagadbījaṃ) [shakti-named](śaktināmā) [i-am](so'haṃ [moho]) [swift](vega(śa)vatī) [bhrgu](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[right-foot+nectar](dakṣapādo'mṛtaṃ) [brāhmī](brāhmī) [supreme-self](paramātmā) [supreme+imperishable](paro'kṣaraḥ)
+[left-foot](dakṣapādo'mṛtaṃ) [immortal](brāhmī) [supreme-self](paramātmā) [beyond-syllable](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[twelve](12) [prāṇa-beginning+tripurā-goddess](prāṇādyastripurādevī) [and](śca) [formerly](purā) [goddess](devī) [lakṣmī](lakṣmīḥ) [soma](somo) [golden-born](hiraṇyabhūḥ) [golden-bodied](hiraṇyapuḥ)
+[12](12) [life-etc](prāṇādyastripurādevī [śca purā devī]) [lakshmi](lakṣmīḥ) [soma](somo) [golden-born](hiraṇyabhūḥ [hiraṇyapuḥ])
 
 ## mukta-m0-p09-v213
-[savior-from-difficulty](durgottāriṇī) [complete-delusion](sammohā) [living-being](jīvo) [form-charming](mūrtimanoharaḥ) [mind-swift](manojavaḥ)
+[durga-deliverer](durgottāriṇī) [delusion](sammohā) [life](jīvo) [captivating-form](mūrtimanoharaḥ [manojavaḥ])
 
 ## mukta-m0-p09-v214
-[nakulī-lord](nakulīśo) [world-breath](jagatprāṇaḥ) [breath-lord](prāṇeśaḥ) [kapilā+stainless](kapilā'malaḥ) [impurity](malaḥ) [opinion](mataḥ)
+[nakulisha](nakulīśo) [world-life](jagatprāṇaḥ) [life-lord](prāṇeśaḥ) [kapila-pure](kapilā'malaḥ [malaḥ + mataḥ])
 
 ## mukta-m0-p09-v215
-[deer+fearless+reddish](mṛgo'bhayā'ruṇā) [firm-one](sthāṇuḥ) [jackal](kroṣṭuḥ) [well-resounding](kūpavirāvaṇaḥ) [well-resounding](kraṭakūpavirāvaṇaḥ) [anger-warding](kūṭakoparivāraṇaḥ)
+[deer](mṛgo'bhayā'ruṇā) [pillar](sthāṇuḥ) [jackal](kroṣṭuḥ) [well-crying](kūpavirāvaṇaḥ [kraṭakūpavirāvaṇaḥ + kūṭakoparivāraṇaḥ])
 
 ## mukta-m0-p09-v216
-[one](1) [own-anger-warding](sva(sa)kopavāraṇaḥ) [trident-bearer](śūlī) [consciousness](caitanyaṃ) [line-filler](pādapūraṇaḥ)
+[1](1) [self-restraint](sva(sa)kopavāraṇaḥ) [trident-holder](śūlī) [consciousness](caitanyaṃ) [foot-filling](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[drop](bindur) [durgā](durgā) [beloved](priyā) [goddess](devī) [cloud](meghaḥ) [dark-lord](śyāmeśvaraḥ) [person](pumān)
+[bindu](bindurdurgā) [dear-goddess](priyā devī) [cloud](meghaḥ) [dark-lord](śyāmeśvaraḥ) [man](pumān)
 
 ## mukta-m0-p09-v218
-[four](4) [right-foot](dakṣapādaḥ) [always](sadā) [śambhu](śambhuḥ) [sākhoṭa](sākhoṭaḥ) [moon-circle](somamaṇḍalam)
+[4](4) [left-foot](dakṣapādaḥ) [always](sadā) [shambhu](śambhuḥ) [sakhot](sākhoṭaḥ) [soma-mandala](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[pervading](vyāpinī) [śiva-giving](śivadā) [banner](ketur) [world](jagat) [plough-like](sīrataraṃ) [force](haṭhaḥ)
+[pervading](vyāpinī) [shiva-giving](śivadā) [banner](keturjagat) [plow](sīrataraṃ) [force](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[eight](8) [belly](jaṭharo) [nakuli](nakuliḥ) [yellow](pītaḥ) [yellow](pītā) [śiva-lord+love-garlanded](śiveśo'naṅgamālinī)
+[8](8) [belly](jaṭharo) [nakuli](nakuliḥ) [yellow](pītaḥ [pītā]) [shivesha](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[kṣa](kṣa)
+[ksa](kṣa)
 
 ## mukta-m0-p09-v222
-[man-lion](nṛsiṃho) [lightning](vidyutā) [illusion](māyā) [great-splendor](mahātejā) [age-ender](yugāntakaḥ)
+[12](12) [narasimha](nṛsiṃho) [lightning](vidyutā) [maya](māyā) [great-radiance](mahātejā) [world-end](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[twelve](12) [all-limbed](sarvāṅgaṃ) [all-limbed](sarvāṃgaḥ) [ocean](sāgaraḥ) [desire](kāmaḥ) [union-end+three-cities-filler](saṃyogāntastripūrakaḥ)
+[all-limb](sarvāṅgaṃ [sarvāṃgaḥ]) [ocean](sāgaraḥ) [desire](kāmaḥ) [union-end](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[face](mukhaṃ) [poetry](kavyaṃ) [great-endless](mahānantā) [oblation-bearer+endless](kavyavahā'nantā) [time-tongue](kālajihvā) [gaṇeśa](gaṇeśvaraḥ)
+[face](mukhaṃ) [poem](kavyaṃ) [great-infinite](mahānantā [kavyavahā'nantā]) [time-tongue](kālajihvā) [ganesha](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[shadow-son+and](chāyāputraśca) [conjunction](saṃghāto) [malaya-glory+forehead](malayaśrīrlalāṭakaḥ)
+[shadow-son](chāyāputraśca) [collection](saṃghāto) [malaya-shri](malayaśrīrlalāṭakaḥ) [forehead](lalāṭakaḥ)
