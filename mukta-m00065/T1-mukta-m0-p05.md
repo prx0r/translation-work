@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[gloss](ityeteṣāmabhāve) [gloss](tu) [gloss](rasendraṃ) [gloss](vajrasaṃyutam)
+[thus-of-these](ityeteṣām) [absence](abhāve) [but](tu) [mercury](rasendraṃ) [diamond-joined](vajrasaṃyutam)
 
 ## mukta-m0-p05-v102
-[gloss](gavyasarjayutaiścaiva) [gloss](lepyaṃ) [gloss](varṇakapuṣṭaye)
+[with-cow-gum](gavyasarjayutaiś) [and](ca) [indeed](eva) [anointing](lepyaṃ) [color-nourishment](varṇakapuṣṭaye)
 
 ## mukta-m0-p05-v103
-[gloss](sadvārarkṣartuyuktenhi) [gloss](cārulagnasamanvite)
+[good-door-constellation-season-joined](sadvārarkṣartuyukten) [hi](hi) [beautiful-adhered-endowed](cārulagnasamanvite)
 
 ## mukta-m0-p05-v104
-[gloss](divyāntarikṣabhaumāni) [gloss](śubhāśubhaphalāptaye)
+[divine-atmospheric-terrestrial](divyāntarikṣabhaumāni) [auspicious-inauspicious-fruit-obtaining](śubhāśubhaphalāptaye)
 
 ## mukta-m0-p05-v105
-[gloss](ityādi) [gloss](śubhakṛddivyamato'śubhakaraṃ) [gloss](tvidam)
+[thus-etc](ityādi) [auspicious-doing-divine](śubhakṛddivyam) [therefore-inauspicious-doing](ato'śubhakaraṃ) [this](tvidam)
 
 ## mukta-m0-p05-v106
-[gloss](digdāhastīvravātaśca) [gloss](candrasūryopamardanam)
+[direction-burning](digdāha) [fierce-wind](stīvravāta) [and](ca) [moon-sun-eclipse](candrasūryopamardanam)
 
 ## mukta-m0-p05-v107
-[gloss](vāsavṛkṣāgrasaṃsthāyi) [gloss](balibhuṅmadhurārutiḥ)
+[indra-tree-top-situated](vāsavṛkṣāgrasaṃsthāyi) [offering-eater](balibhuṅ) [sweet-sound](madhurārutiḥ)
 
 ## mukta-m0-p05-v108
-[gloss](pāṃśvasṛgvarṣaṇaṃ) [gloss](ghoramāntarikṣamaśobhanam)
+[dust-blood-raining](pāṃśvasṛgvarṣaṇaṃ) [terrible](ghoram) [atmospheric-in-auspicious](āntarikṣamaśobhanam)
 
 ## mukta-m0-p05-v109
-[gloss](dadhyakṣatayavā) [gloss](dūrvā) [gloss](dīpo) [gloss](gorocanā) [gloss](dhvajaḥ)
+[curd-rice-barley](dadhyakṣatayavā) [durva](dūrvā) [lamp](dīpo) [cow-bile](gorocanā) [banner](dhvajaḥ)
 
 ## mukta-m0-p05-v110
-[gloss](govṛṣaśca) [gloss](kharo) [gloss](vājī) [gloss](bhasmākṣo) [gloss](bhūpatirdvipaḥ)
+[cow-bull](govṛṣa) [and](ca) [donkey](kharo) [horse](vājī) [ash-eyed](bhasmākṣo) [king](bhūpati) [elephant](dvipaḥ)
 
 ## mukta-m0-p05-v111
-[gloss](śivaḥ) [gloss](śivodakuṃbhasthaḥ) [gloss](kauśiko) [gloss](vāmataḥ) [gloss](śubhaḥ)
+[shiva](śivaḥ) [shiva-water-pot-situated](śivodakuṃbhasthaḥ) [kushika](kauśiko) [left](vāmataḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p05-v112
-[gloss](muktakeśaḥ) [gloss](parākṣepaḥ) [gloss](kṣāro'ṅgāraśca) [gloss](dāru) [gloss](ca)
+[loose-haired](muktakeśaḥ) [throwing](parākṣepaḥ) [alkali](kṣāro) [charcoal](aṅgāra) [and](ca) [wood](dāru) [and](ca)
 
 ## mukta-m0-p05-v113
-[gloss](chinnāṅgo'locano) [gloss](rogī) [gloss](kapālī) [gloss](bhūprakampanaḥ)
+[cut-limbed](chinnāṅgo) [eyeless](alocano) [sick](rogī) [skull-bearer](kapālī) [earth-tremor](bhūprakampanaḥ)
 
 ## mukta-m0-p05-v114
-[gloss](kṣutkṣāmonmattakau) [gloss](tantuścauṣadhīṣaṇasañcayaḥ)
+[hunger-thirst-mad](kṣutkṣāmonmattakau) [thread](tantu) [and](ca) [herbs-seed-collection](auṣadhīṣaṇasañcayaḥ)
 
 ## mukta-m0-p05-v115
-[gloss](pakṣārdhārdhaṃ) [gloss](tu) [gloss](saṃtyajya) [gloss](prasthānaṃ) [gloss](kriyate) [gloss](śubhe)
+[half-half](pakṣārdhārdhaṃ) [indeed](tu) [abandoning](saṃtyajya) [departure](prasthānaṃ) [done](kriyate) [auspicious](śubhe)
 
 ## mukta-m0-p05-v116
-[gloss](vedase) [gloss](syādvite) [gloss](yātā) [gloss](tvagnidaṇḍānatikramāt)
+[veda](vedase) [be](syād) [two](vite) [travelers](yātā) [tv](tv) [fire-stick-not-crossing](agnidaṇḍānatikramāt)
 
 ## mukta-m0-p05-v117
-[gloss](iṣṭādau) [gloss](śaṅkaraṃ) [gloss](śastaṃ) [gloss](prāgīśenduvanaṃ) [gloss](vrajet)
+[desired-first](iṣṭādau) [shankara](śaṅkaraṃ) [auspicious](śastaṃ) [east-ishu-forest](prāgīśenduvanaṃ) [go](vrajet)
 
 ## mukta-m0-p05-v118
-[gloss](budhārkendusite) [gloss](jīve) [gloss](vārkṣe) [gloss](prāguttarasthite)
+[mercury-sun-moon-venus](budhārkendusite) [jupiter](jīve) [tree](vārkṣe) [east-north-situated](prāguttarasthite)
 
 ## mukta-m0-p05-v119
-[gloss](ekāntarāsu) [gloss](tārāsu) [gloss](śeṣe) [gloss](cāniṣṭakarmaṇi)
+[one-interval](ekāntarāsu) [stars](tārāsu) [remainder](śeṣe) [and](ca) [inauspicious-action](aniṣṭakarmaṇi)
 
 ## mukta-m0-p05-v120
-[gloss](niṣadho) [gloss](nīlagandhākhyaḥ) [gloss](śaṅgīketurnagādhipāḥ)
+[nishadha](niṣadho) [blue-scent-named](nīlagandhākhyaḥ) [shanki-banner-mountain-lords](śaṅgīketurnagādhipāḥ)
 
 ## mukta-m0-p05-v121
-[gloss](nandākhyo) [gloss](malayo) [gloss](vindhya) [gloss](ujjayanto'tha) [gloss](ṛkṣakaḥ)
+[nanda-named](nandākhyo) [malaya](malayo) [vindhya](vindhya) [ujjayanta](ujjayanto) [then](atha) [rishyaka](ṛkṣakaḥ)
 
 ## mukta-m0-p05-v122
-[gloss](yojanāni) [gloss](daśaiteṣāṃ) [gloss](girīṇāṃ) [gloss](nikaṭe) [gloss](vanam)
+[yojanas](yojanāni) [ten](daśa) [of-mountains](eteṣāṃ) [near](nikaṭe) [forest](vanam)
 
 ## mukta-m0-p05-v123
-[gloss](etatkṣetrotthitā) [gloss](ye) [gloss](tu) [gloss](pāṣāṇāstaravaḥ) [gloss](śubhāḥ)
+[this-field-risen](etatkṣetrotthitā) [those](ye) [indeed](tu) [stones-trees](pāṣāṇāstaravaḥ) [auspicious](śubhāḥ)
 
 ## mukta-m0-p05-v124
-[gloss](sācāryaḥ) [gloss](sādhakaḥ) [gloss](śilpijanaiḥ) [gloss](parivataḥ) [gloss](śubhaiḥ)
+[with-teacher](sācāryaḥ) [practitioner](sādhakaḥ) [artisan-people](śilpijanaiḥ) [surrounded](parivataḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p05-v125
-[gloss](dhyātvādhaḥ) [gloss](prākṛtaṃ) [gloss](tattvaṃ) [gloss](śivatattvamayīṃ) [gloss](mahīm)
+[meditating-below](dhyātvādhaḥ) [material](prākṛtaṃ) [principle](tattvaṃ) [shiva-principle-filled](śivatattvamayīṃ) [earth](mahīm)
