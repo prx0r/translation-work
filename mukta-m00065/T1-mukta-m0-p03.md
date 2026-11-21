@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[mahā-ratnam](mahāratnaṃ) [mahā-mūlyam](mahāmūlyaṃ) [guṇa-yuktam](guṇayuktaṃ) [yajet](yajet) [sadā](sadā)
+[great-jewel](mahāratnaṃ) [great-valuable](mahāmūlyaṃ) [endowed-with-qualities](guṇayuktaṃ) [worship-always](yajetsadā)
 
 ## mukta-m0-p03-v52
-[supratāpaḥ](supratāpo) [yaśaḥ-ca-āyuḥ-bhavet](yaśaścāyurbhaveyur) [nṛpateḥ](nṛpateś) [ciram](ciram)
+[well-radiant](supratāpo) [fame-and-life](yaśaścāyurbhaveyurnṛpateściram)
 
 ## mukta-m0-p03-v53
-[nīlam](nīlaṃ) [pītam](pītaṃ) [sitam](sitaṃ) [ca-api](cāpi) [śastam](śastaṃ) [ratnam-anirmitam](ratnamanirmitam)
+[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [and-auspicious](cāpi) [jewel-unmade](ratnamanirmitam)
 
 ## mukta-m0-p03-v54
-[śaṅkha-sphaṭika-saṃkāśam](śaṅkhasphaṭikasaṃkāśaṃ) [javā-ārambha-ādi-ladyuti](javārambhādaladyuti)
+[conch-crystal-resembling](śaṅkhasphaṭikasaṃkāśaṃ) [hibiscus-beginning-glow](javārambhādaladyuti)
 
 ## mukta-m0-p03-v55
-[dhauta-āsya-ābhaḥ](dhautāsyābho) [dvijātīnām](dvijātīnāṃ) [nṛpa-arhau](nṛpārhau) [pīta-raktakau](pītaraktakau)
+[washed-face-like](dhautāsyābho) [brahmins](dvijātīnāṃ) [king-worthy](nṛpārhau) [yellow-red](pītaraktakau)
 
 ## mukta-m0-p03-v56
-[tat-liṅgam](talliṅgam) [āyuṣaḥ](āyuṣo) [vṛddhyai](vṛddhayai) [sarva-roga-vināśakam](sarvarogavināśakam)
+[that-lingam](talliṅgamāyuṣo) [life's-increase](vṛddhayai) [all-disease-destroying](sarvarogavināśakam)
 
 ## mukta-m0-p03-v57
-[śakra-agni-cala-mitra-uttha](śakrāgni) [caturdhā](caturdhā) [tat](tat) [kvacit-matam](kvacinmatam)
+[indra-fire-and-friend-origin](śakrāgni(gnī) casamitroye) [fourfold](caturdhā) [sometimes-opinion](tatkvacinmatam)
 
 ## mukta-m0-p03-v58
-[śarad-ambu-nibham](śaradambunibhaṃ) [svaccham](svacchaṃ) [snigdham](snigdhaṃ) [ca](ca) [sphaṭikam](sphāṭikaṃ) [hitam](hitam)
+[autumn-water-like](śaradambunibhaṃ) [pure](svacchaṃ) [smooth](snigdhaṃ) [and](ca) [crystal](sphāṭikaṃ) [beneficial](hitam)
 
 ## mukta-m0-p03-v59
-[sa-garbha-mūrmi-saṃyuktam](sagarbhamūrmisaṃyuktaṃ) [jyotir](jyotir) [mukta](mukta) [ghanam](ghanam) [tyajet](tyajet)
+[with-embryo-wave-joined](sagarbhamūrmisaṃyuktaṃ) [light-pearl-dense](jyotirmuktaghanaṃ) [reject](tyajet)
 
 ## mukta-m0-p03-v60
-[sthūlam](sthūlaṃ) [dīrgham](dīrgha) [kuśam](kuśaṃ) [hrasvam](hrasvaṃ) [madhya-ādi-anteṣu](madhyādyanteṣu) [vā](vā) [kṛśam](kṛśam)
+[thick](sthūlaṃ) [long](dīrgha) [grass](kuśaṃ) [short](hrasvaṃ) [middle-beginning-end](madhyādyanteṣu) [or](vā) [thin](kṛśam)
 
 ## mukta-m0-p03-v61
-[anya-jāti-vilagnam](anyajātivilagnaṃ) [ca](ca) [viddham](viddhaṃ) [bhīti-karam](bhītikaraṃ) [tyajet](tyajet)
+[other-species-attached](anyajātivilagnaṃ) [and](ca) [pierced](viddhaṃ) [fear-causing](bhītikaraṃ) [reject](tyajet)
 
 ## mukta-m0-p03-v62
-[sphaṭikam](sphāṭikaṃ) [liṅgam](liṅgam) [iṣṭa-artham](iṣṭārthaṃ) [mṛtyu-jit](mṛtyujit) [kāmadam](kāmadaṃ) [yajet](yajet)
+[crystal](sphāṭikaṃ) [lingam](liṅgamiṣṭārthaṃ) [desired-purpose](mṛtyujitkāmadaṃ) [worship](yajet)
 
 ## mukta-m0-p03-v63
-[liṅgam](liṅgaṃ) [sadā-agnihotra-ābham](sadāgnihotrābhaṃ) [pūjya](pūjya) [no](no) [doṣa-kṛt](doṣakṛt) [nṛṇām](nṛṇām)
+[lingam](liṅgaṃ) [ever-fire-sacrifice-like](sadāgnihotrābhaṃ) [worship](pūjya) [no](no) [fault-causing](doṣakṛnnṛṇām)
 
 ## mukta-m0-p03-v64
-[sadā](sadā) [nimnena](nimnena) [siddhiḥ](siddhiḥ) [syāt](syāt) [ucce](ucce) [tu](tu) [uccā](uccā) [same](same) [samā](samā)
+[always](sadā) [low](nimnena) [success](siddhiḥ) [be](syāducce) [high](tūccā) [equal](same) [equal](samā)
 
 ## mukta-m0-p03-v65
-[ratna-liṅgam](ratnaliṅgaṃ) [dvidhā-ākhyātam](dvidhākhyātaṃ) [sva-pīṭham](svapīṭhaṃ) [dhātu-pīṭha-jam](dhātupīṭhajam)
+[jewel-lingam](ratnaliṅgaṃ) [twofold-called](dvidhākhyātaṃ) [own-pedestal](svapīṭhaṃ) [metal-pedestal-born](dhātupīṭhajam)
 
 ## mukta-m0-p03-v66
-[cala-liṅgam](calaliṅgaṃ) [dvidhā-kāryam](dvidhākāryaṃ) [dhātu-ratna-mayam](dhāturatnamayaṃ) [śubham](śubham)
+[movable-lingam](calaliṅgaṃ) [twofold-made](dvidhākāryaṃ) [metal-jewel-made](dhāturatnamayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p03-v67
-[kṣudra-ratna-uttham](kṣudraratnottham) [api](api) [evam](evaṃ) [sva-mānā](svamānā) [dvara-ratna-jam](dvararatnajam)
+[small-jewel-born](kṣudraratnotthamapyevaṃ) [own-measure](svamānā) [door-jewel-born](dvararatnajam)
 
 ## mukta-m0-p03-v68
-[vaiśyānām](vaiśyānāṃ) [manmatha-antam](manmathāntaṃ) [syāt](syāt) [śūdrāṇām](śūdrāṇāṃ) [dvādaśa-avadhiḥ](dvādaśāvadhiḥ)
+[vaishyas](vaiśyānāṃ) [love-end](manmathāntaṃ) [be](syācchūdrāṇāṃ) [twelve-limit](dvādaśāvadhiḥ)
 
 ## mukta-m0-p03-v69
-[calam](calaṃ) [tat-ūrdhvam](tadūrdhvaṃ) [devānām](devānāṃ) [trayo-viṃśati-kāṅgulam](trayoviṃśatikāṅgulam)
+[movable](calaṃ) [that-above](tadūrdhvaṃ) [gods](devānāṃ) [twenty-three-angula](trayoviṃśatikāṅgulam)
 
 ## mukta-m0-p03-v70
-[acalam](acalaṃ) [khadru-bhastha-āyi](khadrūbhasthāyi) [karāt](karāt) [anavasāmakam](anavasāmakam)
+[immovable](acalaṃ) [black-form-staying](khadrūbhasthāyi) [hand-from-nine-saham](karādanavasāmakam)
 
 ## mukta-m0-p03-v71
-[saḍḍhatam](saḍḍhataṃ) [miśrakam](miśrakaṃ) [liṅgam](liṅgaṃ) [na](na) [ūrdhvam](ūrdhvaṃ) [ca](ca) [sthiram](sthiram) [iṣyate](iṣyate)
+[six-cubits](saḍḍhataṃ) [mixed](miśrakaṃ) [lingam](liṅgaṃ) [not-above](nordhvaṃ) [and](ca) [fixed](sthiramiṣyate)
 
 ## mukta-m0-p03-v72
-[ṣaḍḍhastāt](ṣaḍḍhastān) [na-adhikam](nādhikaṃ) [vārkṣam](vārkṣaṃ) [pārthivam](pārthivaṃ) [śailavat](śailavat) [sadā](sadā)
+[six-cubits](ṣaḍḍhastānnādhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [mountain-like](śailavatsadā)
 
 ## mukta-m0-p03-v73
-[yakṣa-rakṣa-asura-vyāla](yakṣarakṣo'suravyāla) [gandharva-apsarasām](gandharvāpsarasāṃ) [kvacit](kvacit)
+[yaksha-rakshasa-asura-serpent](yakṣarakṣo'suravyāla) [gandharva-apsaras](gandharvāpsarasāṃ) [sometimes](kvacit)
 
 ## mukta-m0-p03-v74
-[pariṇāha-ucchrayābhyām](pariṇāhocchrayābhyāṃ) [ca](ca) [devānām](devānām) [eka-viṃśatiḥ](ekaviṃśatiḥ)
+[circumference-height](pariṇāhocchrayābhyāṃ) [by](ca) [gods](devānāmekaviṃśatiḥ)
 
 ## mukta-m0-p03-v75
-[pañca-aṅgulam](pañcāṅgulaṃ) [tu](tu) [paiṣṭyādyam](paiṣṭyādyaṃ) [phala-jam](phalajaṃ) [sva-pramāṇataḥ](svapramāṇataḥ)
+[five-angula](pañcāṅgulaṃtu) [flour-etc](paiṣṭyādyaṃ) [fruit-born](phalajaṃ) [own-measure](svapramāṇataḥ)
