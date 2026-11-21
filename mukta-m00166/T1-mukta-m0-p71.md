@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[bhuta-bhavi-vibhavini](bhūtabhāvivibhāvinī)
+[manifesting-past-present-future](bhūtabhāvivibhāvinī)
 
 ## mukta-m0-p71-v1752
-[atah-anya-kah-sada-adyanta-tvam-vibhavayitum-ksamah](ato'nyaḥ) [kaḥ](kaḥ) [sadā-ādi-antaḥ](sadādyantastvāṃ) [vibhāvayitum](vibhāvayituṃ) [kṣamaḥ](kṣamaḥ)
+[other-than-that](ato'nyaḥ) [who](kaḥ) [beginning-middle-end](sadādyantaḥ) [you](tvāṃ) [to-manifest](vibhāvayituṃ) [able](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[mangala](maṅgalā)
+[auspicious](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[sa-mangala-astu-asya-sada-sahaya](sā) [maṅgalā](maṅgalāstvasya) [sadā](sadā) [sahāyā](sahāyā)
+[she](sā) [auspicious](maṅgalā) [let-be](astu) [his](asya) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-[su-sila](suśīlā)
+[well-disposed](suśīlā)
 
 ## mukta-m0-p71-v1756
-[svayam-su-sila-yadi-na-abhavisyah](svayaṃ) [suśīlā](suśīlā) [yadi](yadi) [na-abhaviṣyaḥ](nābhaviṣyaḥ)
+[self](svayaṃ) [well-disposed](suśīlā) [if](yadi) [not](nā) [would-be](bhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[paramartha-prabodhika](paramārthaprabodhikā)
+[ultimate-truth-awakening](paramārthaprabodhikā)
 
 ## mukta-m0-p71-v1758
-[yad-apti-bhramaka-ananya-anartha-janami-saspavat](yadāptyā) [bhrāmakān](bhrāmakānanyānarthāñ) [jānāmi](jānāmi) [śaṣpavat](śaṣpavat)
+[by-attainment](yadāptyā) [wandering](bhrāmaka) [other](anyān) [harms](arthāñ) [I-know](jānāmi) [like-grass](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-[daksina](dakṣiṇā)
+[right-generous](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[yatah-tatah-tata-prajnaih-daksina-iti-prakirtyase](yatastatastataprajñairdakṣiṇeti) [prakīrtyase](prakīrtyase)
+[therefore](yataḥ) [from-that](tataḥ) [by-wise-ones](tataprajñaiḥ) [right-generous](dakṣiṇā) [thus](iti) [you-are-praised](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[daksina-murti](dakṣiṇāmūrtiḥ)
+[right-facing-form](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[sa-daksina-murti-iti-prasiddha](sā) [dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiriti) [prasiddhā](prasiddhā)
+[she](sā) [right-facing-form](dakṣiṇāmūrtiḥ) [thus](iti) [famous](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[su-daksina](sudakṣiṇā)
+[very-right-generous](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[satyam-tatah-devi-su-daksina-asi](satyaṃ) [tato](tato) [devi](devi) [sudakṣiṇāsi](sudakṣiṇāsi)
+[true](satyaṃ) [then](tato) [goddess](devi) [very-right-generous](sudakṣiṇā) [you-are](asi)
 
 ## mukta-m0-p71-v1765
-[hari-priya](haripriyā)
+[dear-to-hari](haripriyā)
 
 ## mukta-m0-p71-v1766
-[saurih-yat-dayaya-devi-kirtita-sa-hari-priya](śauriryaddayayā) [devī](devī) [kīrtitā](kīrtitā) [sā](sā) [haripriyā](haripriyā)
+[śauri](śauriḥ) [by-whose-grace](yaddayayā) [goddess](devī) [praised](kīrtitā) [she](sā) [dear-to-hari](haripriyā)
 
 ## mukta-m0-p71-v1767
-[yogini](yoginī)
+[yoginī](yoginī)
 
 ## mukta-m0-p71-v1768
-[roga-soka-vinivartita-asaya-yogini-subhaga-yoga-da-astu-sa](rogaśokavinivartitāśayā) [yoginī](yoginī) [subhagayogadāstu](subhagayogadāstu) [sā](sā)
+[disease-sorrow-removed](rogaśokavinivartitāśayā) [yoginī](yoginī) [auspicious-yoga-giving](subhagayogadā) [let-be](astu) [she](sā)
 
 ## mukta-m0-p71-v1769
-[yoga-yukta](yogayuktā)
+[yoga-united](yogayuktā)
 
 ## mukta-m0-p71-v1770
-[cid-ananda-eva-yat-nityam-yoga-yukta-tatah-svatah](cidānandaiva) [yannityaṃ](yannityaṃ) [yogayuktā](yogayuktā) [tataḥ](tataḥ) [svataḥ](svataḥ)
+[consciousness-bliss-only](cidānandaiva) [which](yannityaṃ) [yoga-united](yogayuktā) [therefore](tataḥ) [by-herself](svataḥ)
 
 ## mukta-m0-p71-v1771
-[yoga-anga](yogāṅgā)
+[yoga-limb](yogāṅgā)
 
 ## mukta-m0-p71-v1772
-[apannanam-apad-anta-eka-hetu-yoga-ange-yam-kirtita-yoginathaih](āpannānāmāpadantaikaheturyogāṅgeyaṃ) [kīrtitā](kīrtitā) [yogināthaiḥ](yogināthaiḥ)
+[of-afflicted](āpannānām) [calamity](āpad) [single-cause](antaikahetuḥ) [yoga-limb](yogāṅgeyaṃ) [praised](kīrtitā) [by-yoga-lords](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[dhyana-salini](dhyānaśālinī)
+[meditation-endowed](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-[sarva-dhyeya-api-sarva-asi-tvam-yasya-dhyana-salini](sarvadhyeyāpi) [sarvāsi](sarvāsi) [tvaṃ](tvaṃ) [yasya](yasya) [dhyānaśālinī](dhyānaśālinī)
+[all-meditation-worthy](sarvadhyeyā) [also](api) [all](sarvā) [you-are](asi) [whose](yasya) [meditation-endowed](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yoga-patta-dhara](yogapaṭṭadharā)
+[yoga-band-wearer](yogapaṭṭadharā)
