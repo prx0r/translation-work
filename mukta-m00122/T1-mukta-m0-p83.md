@@ -2,52 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[dhārmikāḥ](dhārmikāś) [ca](ca) [eva](eva) [rājānaḥ](rājānaḥ) [pūrṇa](pūrṇa) [saptāṅga](saptāṅga) [saṃyutāḥ](saṃyutāḥ)
+righteous-and-also kings full-seven-limbs-endowed
 ## mukta-m0-p83-v2052
-[vāñchitam](vāñchitaṃ) [samavāpnoti](samavāpnoti) [maṇḍalāt](maṇḍalānmāsato'pi) [vā](vā)
+desired obtains from-circle or-from-month even or
 ## mukta-m0-p83-v2053
-[prāgukta](prāgukta) [rakṣa](rakṣo) [vāyu](vāyu) [śakra](śakra) [vahni](vahnī) [īśa](īśa) [varuṇa](varuṇa) [dikṣu](dikṣu) [sthāpanāt](sthāpanādityarthaḥ)
+previously-said-raksha-vayu-shakra-fire-ish-varuna-directions in-placement thus-meaning
 ## mukta-m0-p83-v2054
-[mūrti](mūrti) [saptakaṃ](saptakaṃ) [ḍārākinyādi](ḍārākinyādīnāṃ) [ṣaṇām](ṣaṇāṃ) [devyāḥ](devyāś) [ca](ca) [iti](iti) [śeṣaḥ](śeṣaḥ)
+form-seven (da)raakini-etc of-six goddess-and thus remainder
 ## mukta-m0-p83-v2055
-[kleśāḥ](kleśāḥ) [vidyā](vidyā) [yantra](yantrānubhāvataḥ) [ubhayoḥ](ubhayoḥ) [sāmarthyāt](sāmarthyāt)
+afflictions | mantra-yantra-power from both powers
 ## mukta-m0-p83-v2056
-[suṣumnā](suṣumnā) [madhya](madhyasaṃstheṣu) [ṣaḍādhāra](ṣaḍādhārāmbujeṣu) [ambujeṣu](ambujeṣu) [tāḥ](tāḥ)
+sushumna-middle-situated in six-support-lotuses those
 ## mukta-m0-p83-v2057
-[bahiḥ](bahiśca) [ca](ca) [maṇḍale](maṇḍale) [pūjā](pūjā) [anugraha](anugrahānigrahātmikām) [nigraha](nigraha) [ātmikā](ātmikām)
+outside-and in-circle worship-grace-punishment-natured
 ## mukta-m0-p83-v2058
-[dhūmra](dhūmravarṇāmbuje) [varṇa](varṇa) [ambuje](ambuje) [devīm](devīṃ) [ḍākinīm](ḍākinīṃ) [tat](tat) [samākṛtim](samākṛtim)
+smoke-colored-lotus in goddess daakini that-similar-form
 ## mukta-m0-p83-v2059
-[tayā](tayā) [sarvajñatā](sarvajñatā) [siddhiḥ](siddhirbhavatyeva) [bhavati](bhavati) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+by-her omniscience-accomplishment becomes-indeed no doubt
 ## mukta-m0-p83-v2060
-[prāpnoti](prāpnoti)
+obtains
 ## mukta-m0-p83-v2061
-[deheṣu](deheṣu) [sthitim](sthitim) [tāḥ](tāḥ) [devyaḥ](devyaḥ) [ityatra](ityatrānvayaḥ) [anvayaḥ](anvayaḥ) [ḍākinyādi](ḍākinyādaya) [iti](iti) [śeṣaḥ](śeṣaḥ)
+in-bodies residence | those goddesses thus-here-connection daakini-etc thus remainder
 ## mukta-m0-p83-v2062
-[mūladevatā](mūladevatā) [samānaḥ](samānaḥ)
+root-deity-similar
 ## mukta-m0-p83-v2063
-[rākinīm](rākinīṃ) [dvādaśa](dvādaśadale) [dale](dale) [kādi](kādiḍhāntākṣarātmabhiḥ) [ḍhānta](ḍhānta) [akṣara](akṣara) [ātmabhiḥ](ātmabhiḥ)
+raakini twelve-petaled ka-to-dha-letters-natured
 ## mukta-m0-p83-v2064
-[maṇipūraka](maṇipūrakasaṃjñe) [saṃjñe](saṃjñe) [ca](ca) [nābhi](nābhisthe) [sthe](sthe) [daśa](daśapatrake) [patrake](patrake)
+manipura-named and navel-situated ten-petaled
 ## mukta-m0-p83-v2065
-[lākinīm](lākinīṃ) [pūjayet](pūjayedvairivi) [vairivi](vairivi) [jaya](jayaśrīsamṛddhaye) [śrī](śrī) [samṛddhaye](samṛddhaye)
+laakini worship for-enemies victory-prosperity-for
 ## mukta-m0-p83-v2066
-[vādi](vādiṣaḍvarṇaśaktībhirāvṛtāṃ) [ṣaḍ](ṣaḍ) [varṇa](varṇa) [śaktībhiḥ](śaktībhiḥ) [āvṛtām](āvṛtāṃ) [ḍākinīm](ḍākinīṃ) [yajet](yajet)
+va-etc-six-letters-powers-surrounded daakini worship
 ## mukta-m0-p83-v2067
-[ādhāra](ādhārākhye) [ākhye](ākhye) [catuṣ](catuṣpatre) [patre](patre) [suvarṇa](suvarṇābhe) [ābhe](ābhe) [saroruhe](saroruhe)
+support-named four-petaled gold-colored lotus
 ## mukta-m0-p83-v2068
-[pāyu](pāyudhvajāntarā) [dhvaja](dhvaja) [antarā](antarā) [tryasra](tryasramadhye) [madhye](madhye) [tejaḥ](tejaḥ) [samanvitām](samanvitām)
+anus-flag-between triangle-middle fire endowed
 ## mukta-m0-p83-v2069
-[sevitām](sevitāṃ) [hakṣa](hakṣaśaktibhyāṃ) [śaktibhyām](śaktibhyāṃ) [hākinīm](hākinīṃ) [pūjayet](pūjayettatha) [tathā](tathā)
+served ha-ksha-powers by haakini worship thus
 ## mukta-m0-p83-v2070
-[viśva](viśvasṛṣṭisthitidhvaṃsaśaktidāmapyayatnataḥ) [sṛṣṭi](sṛṣṭi) [sthiti](sthiti) [dhvaṃsa](dhvaṃsa) [śakti](śakti) [dāma](dāma) [apyayatnataḥ](apyayatnataḥ)
+universe-creation-preservation-destruction-powers-garland effortlessly
 ## mukta-m0-p83-v2071
-[pūjanam](pūjanaṃ) [sarva](sarvaduḥkhārtināśanaṃ) [duḥkha](duḥkha) [ārti](ārti) [nāśanam](nāśanaṃ) [sampadām](sampadāspadam) [āspadam](āspadam)
+worship all-suffering-pain-destruction wealth-abode
 ## mukta-m0-p83-v2072
-[tayā](tayā) [pūjayā](pūjayā) [dhvaja](dhvajamūle) [mūle](mūle) [mehana](mehanamūle) [mūle](mūle)
+by-her worship ||62||... flag-root urethra-root
 ## mukta-m0-p83-v2073
-[samanvitām](samanvitāṃ) [kuṇḍalinī](kuṇḍalinī) [tejaḥ](tejorūpām) [rūpām](rūpām) [tathā](tathā) [samuccaye](samuccaye)
+endowed kundalini-fire-form ||68|| thus in-collection
 ## mukta-m0-p83-v2074
-[bhūta](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinīmityarthaḥ) [bhaviṣya](bhaviṣya) [vartamāna](vartamāna) [kārya](kārya) [jñāna](jñāna) [sāmarthya](sāmarthya) [pradāyinīm](pradāyinīm) [ityarthaḥ](ityarthaḥ)
+past-future-present-acts-knowledge-power-giving thus-meaning
 ## mukta-m0-p83-v2075
-[madhye](madhye) [ca](ca) [tatra](tatra) [tām](tāṃ) [nitya](nityānityā) [anityā](anityā) [gandhādinā](gandhādinā'rcayet) [arcayet](arcayet)
+middle and there her eternal-non-eternal incense-etc worship
