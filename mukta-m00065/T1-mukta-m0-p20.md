@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[thus](itya) [eighteen](aṣṭādaśa) [images](bimbāni) [told](kathitāni) [here](atra) [by-number](saṃkhyayā)
-
+thus-eighteen images told-here number
 ## mukta-m0-p20-v477
-[become](bhaveyuḥ) [worms](kṛmayo) [in-womb](garbhe) [destruction](nāśo) [of-body-and-purpose](dehārthayoḥ) [thereafter](tataḥ)
-
+become worms in-womb destruction of-body-and-wealth thereafter
 ## mukta-m0-p20-v478
-[therefore](tena) [king](rājā) [and](ca) [minister](mantrī) [and](ca) [maker](kārako) [dies](mriyate) [in-order](kramāt)
-
+by-that king and minister and maker dies in-order
 ## mukta-m0-p20-v479
-[in-red-image](raktacitre) [and](ca) [horned](śṛṅgī) [is](syāt) [by-that](tayā) [grief-fear](śokabhayaṃ) [often](muhuḥ)
-
+red-painted and horned be by-that grief-fear repeatedly
 ## mukta-m0-p20-v480
-[in-black-image](kṛṣṇacitre) [and](ca) [cow-loss](gonāśaḥ) [he](so) [many-disease-causing](anekavyādhikāraka)
-
+black-painted and cow-destruction he many-disease-causing
 ## mukta-m0-p20-v481
-[seven](sapta) [these](etāni) [indeed](tu) [images](citrāṇi) [known](jñeyāni) [by-external-marks](bāhyalakṣaṇaiḥ)
-
+seven-these but paintings known by-external-marks
 ## mukta-m0-p20-v482
-[by-four-variations](caturvikārabhedena) [womb](garbhaṃ) [know](vidyāt) [by-smearing](pralepataḥ)
-
+by-four-modification-difference womb know by-plaster
 ## mukta-m0-p20-v483
-[saurāṣṭrī](saurāṣṭrī) [with-palm](tālasaṃyuktaṃ) [with-sauvīra](sauvīreṇa) [and](ca) [grind](peṣayet)
-
+saurashtri palm-joined sauvira and grind
 ## mukta-m0-p20-v484
-[bhṛṅgāhī](bhṛṅgāhī) [black-fish](kṛṣṇamatsyaṃ) [or](vā) [knowing](jñātvā) [those](tā) [fault-giving](doṣadāḥ) [abandon](tyajet)
-
+bee-snake black-fish or knowing those fault-giving abandon
 ## mukta-m0-p20-v485
-[ground-thus](piṣṭavaivaṃ) [equal-parts](samabhāgaṃ) [indeed](tu) [woman](nārī) [with-milk](kṣīreṇa) [smear](lepayet)
-
+ground-thus equal-part but woman with-milk anoint
 ## mukta-m0-p20-v486
-[by-that](tena) [maker](kartuḥ) [becomes](bhavet) [death](mṛtyuḥ) [therefore](tasmāt) [that](tāṃ) [in-water](salile) [throw](kṣipet)
-
+by-that maker's-death therefore her in-water throw
 ## mukta-m0-p20-v487
-[day-night-stayed](ahorātroṣite) [blood](raktaṃ) [abandon](tyājyam) [with-turtle-marked](ūrmānvitaṃ) [and](ca) [which](yat)
-
+day-night-stayed blood reject wave-possessed and which
 ## mukta-m0-p20-v488
-[sharp](tīkṣṇaṃ) [with-rudrajaṭā](rudrajaṭāyuktam) [with-goat-milk](avikṣīraiḥ) [grind](prapeṣya) [and](ca)
-
+sharp rudrajaṭa-joined with-goat-milk grind and
 ## mukta-m0-p20-v489
-[of-two](dvayoḥ) [double-formed](dvirūpakaṃ) [in-womb](garbhe) [knowing](jñātvā) [before-fault-giving](prāgdoṣadāṃ) [abandon](tyajet)
-
+of-two double-form in-womb knowing prior-fault-giving abandon
 ## mukta-m0-p20-v490
-[of-maker](kartuḥ) [that-family-heart](tatkulahṛt) [certainly](nūnaṃ) [to-teacher](guror) [give](dadyāt) [decay-disease](kṣayāmayam)
-
+maker's-that-family-heart-certainly guru give consumption-disease
 ## mukta-m0-p20-v491
-[by-hammer-blow](ṭaṅkāghātāt) [split-form](bhidākārī) [joint](sandhiḥ) [maker-destroying](kartṛvināśakaḥ)
-
+hammer-strike from-split-form joint maker-destroying
 ## mukta-m0-p20-v492
-[bubble](sphoṭaṃ) [cracked](sphuṭitakaṃ) [know](vidyāt) [weapon-blow-end-giving](śastraghātāntadāyakam)
-
+blister cracked know weapon-strike end-giving
 ## mukta-m0-p20-v493
-[sky-shaped](vyomākāro) [becomes](bhaved) [sky](vyomaḥ) [he](so) [soon-maker-destroying](acirātkartṛnāśakaḥ)
-
+sky-shaped become sky he soon maker-destroying
 ## mukta-m0-p20-v494
-[by-that](tayā) [maker-progeny-destruction](kartṛprajānāśaḥ) [quickly](śīghrameva) [no](na) [doubt](saṃśayaḥ)
-
+by-that maker-progeny-destruction quickly indeed no doubt
 ## mukta-m0-p20-v495
-[therefore](tena) [make](kuryāt) [not](na) [marks](liṅgāni) [made](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
-
+by-that do-not make marks done and two perish
 ## mukta-m0-p20-v496
-[yellow](pītaṃ) [white](sitaṃ) [and](tathā) [black](kṛṣṇaṃ) [red](raktaṃ) [blue](nīlaṃ) [and](ca) [mixed](miśrakam)
-
+yellow white and black red blue and mixed
 ## mukta-m0-p20-v497
-[nine-half](navatyardhaṃ) [great-faults](mahādoṣāḥ) [difference-distinct](bhedabhinno) [thus](iti) [remembered](smṛtāḥ)
-
+nine-and-half great-faults difference-distinct thus remembered
 ## mukta-m0-p20-v498
-[brahma-upendra-division-standing](brahmopendravibhāgasthān) [threefold](tridhā) [in-marks](liṅgeṣu) [fault-giving](doṣadān)
-
+page-59 brahma-upendra-division-standing threefold in-marks fault-giving
 ## mukta-m0-p20-v499
-[vein](śirā) [with-knots-frost](granthituṣāraiḥ) [and](ca) [pure](vimalaṃ) [give](dadu) [with-drops](bindubhiḥ)
-
+vein knot-tufts and pure give drops
 ## mukta-m0-p20-v500
-[cat-ox-camel-jackal-crow-foot-marked](viḍālāśvoṣṭragomāyukākapādāṅkitān) [abandon](tyajet)
+cat-horse-camel-jackal-crow-foot-marked abandon
