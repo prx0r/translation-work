@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "bhūta",
-"quick_gloss": "being-manifesting"
+"quick_gloss": "being"
 },
 {
 "surface": "bhāvi",
@@ -41,7 +41,7 @@
 },
 {
 "surface": "sadādyantaḥ",
-"quick_gloss": "beginning-end"
+"quick_gloss": "always-beginning-end"
 },
 {
 "surface": "tvāṃ",
@@ -108,7 +108,7 @@
 "tokens": [
 {
 "surface": "suśīlā",
-"quick_gloss": "good-charactered"
+"quick_gloss": "good-character"
 }
 ]
 },
@@ -125,7 +125,7 @@
 },
 {
 "surface": "suśīlā",
-"quick_gloss": "good-charactered"
+"quick_gloss": "good-character"
 },
 {
 "surface": "yadi",
@@ -145,12 +145,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paramārtha",
-"quick_gloss": "supreme-truth-awakening"
-},
-{
-"surface": "prabodhikā",
-"quick_gloss": "awakening"
+"surface": "paramārtha+prabodhikā",
+"quick_gloss": "ultimate-truth-awakening"
 }
 ]
 },
@@ -196,7 +192,7 @@
 "tokens": [
 {
 "surface": "dakṣiṇā",
-"quick_gloss": "right-giving"
+"quick_gloss": "right-gift"
 }
 ]
 },
@@ -217,7 +213,7 @@
 },
 {
 "surface": "tataprajñaiḥ",
-"quick_gloss": "by-wise-ones"
+"quick_gloss": "by-wise"
 },
 {
 "surface": "dakṣiṇā",
@@ -241,12 +237,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dakṣiṇā",
+"surface": "dakṣiṇā+mūrtiḥ",
 "quick_gloss": "right-facing-form"
-},
-{
-"surface": "mūrtiḥ",
-"quick_gloss": "form"
 }
 ]
 },
@@ -325,8 +317,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "haripriyā",
-"quick_gloss": "hari-beloved"
+"surface": "hari+priyā",
+"quick_gloss": "Viṣṇu-beloved"
 }
 ]
 },
@@ -339,7 +331,7 @@
 "tokens": [
 {
 "surface": "śauriḥ",
-"quick_gloss": "śauri"
+"quick_gloss": "Viṣṇu"
 },
 {
 "surface": "yaddayayā",
@@ -359,7 +351,7 @@
 },
 {
 "surface": "haripriyā",
-"quick_gloss": "hari-beloved"
+"quick_gloss": "Viṣṇu-beloved"
 }
 ]
 },
@@ -372,7 +364,7 @@
 "tokens": [
 {
 "surface": "yoginī",
-"quick_gloss": "yogini"
+"quick_gloss": "yogin"
 }
 ]
 },
@@ -384,24 +376,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "rogaśoka",
-"quick_gloss": "disease-sorrow-removing"
-},
-{
-"surface": "vinivartitā",
-"quick_gloss": "removing"
-},
-{
-"surface": "āśayā",
-"quick_gloss": "mind"
+"surface": "roga+śoka+vinivartitāśayā",
+"quick_gloss": "disease-sorrow-removed-mind"
 },
 {
 "surface": "yoginī",
-"quick_gloss": "yogini"
+"quick_gloss": "yogin"
 },
 {
-"surface": "subhagayogadā",
-"quick_gloss": "auspicious-yoga-giving"
+"surface": "subhaga+yoga+dā",
+"quick_gloss": "auspicious-yoga-giver"
 },
 {
 "surface": "astu",
@@ -421,7 +405,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogayuktā",
+"surface": "yoga+yuktā",
 "quick_gloss": "yoga-united"
 }
 ]
@@ -434,16 +418,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cidānanda",
+"surface": "cidānanda+eva",
 "quick_gloss": "consciousness-bliss-only"
 },
 {
-"surface": "eva",
-"quick_gloss": "because"
-},
-{
 "surface": "yat",
-"quick_gloss": "which"
+"quick_gloss": "because"
 },
 {
 "surface": "nityaṃ",
@@ -471,7 +451,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogāṅgā",
+"surface": "yoga+aṅgā",
 "quick_gloss": "yoga-limb"
 }
 ]
@@ -488,12 +468,8 @@
 "quick_gloss": "of-afflicted"
 },
 {
-"surface": "āpadanta",
-"quick_gloss": "calamity-end"
-},
-{
-"surface": "ekahetuḥ",
-"quick_gloss": "single-cause"
+"surface": "āpad+anta+eka+hetuḥ",
+"quick_gloss": "calamity-end-single-cause"
 },
 {
 "surface": "yogāṅgā",
@@ -521,7 +497,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dhyānaśālinī",
+"surface": "dhyāna+śālinī",
 "quick_gloss": "meditation-possessing"
 }
 ]
@@ -534,8 +510,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sarvadhyeyā",
-"quick_gloss": "all-meditatable"
+"surface": "sarva+dhyeyā",
+"quick_gloss": "all-meditation-worthy"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "sarvā",
@@ -567,8 +547,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yogapaṭṭadharā",
-"quick_gloss": "yoga-band-wearing"
+"surface": "yoga+paṭṭa+dhara",
+"quick_gloss": "yoga-band-wearer"
 }
 ]
 }
