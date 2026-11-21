@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[upper](uttara)+[limb](ṃge) [great](mahā)+[siddha-place](siddhau) [foam](phena)+[net](jāla)+[covered-with](samāvṛte)
+[upper](uttaraṃge) [great-siddhi](mahāsiddhau) [foam-net-covered](phenajālasamāvṛte)
 
 ## mukta-m0-p09-v202
-[repeatedly](muhuḥ)+[resounding](śabdāyamāne) [and](ca) [river](nadī)+[stream](nada)+[filled-with](samākule)
+[repeatedly-sounding](muhuḥśabdāyamāne) [and](ca) [river-stream-filled](nadīnadasamākule)
 
 ## mukta-m0-p09-v203
-[various](nānā)+[flower](puṣpa)+[group](gaṇa)+[fragrance](āmoda) [wandering](bhrāṃta)+[flower-drinking-bee](puṣpaṃdhaya)+[swarm](brajam)
+[various-flowers-fragrance](nānāpuṣpagaṇāmoda) [wandering-bee-swarm](bhrāṃtapuṣpaṃdhayabrajam)
 
 ## mukta-m0-p09-v204
-[one-should-visualize](viciṃtayen) [o-great-goddess](maheśāni) [that](tan)+[middle](madhye) [golden](hema)+[mansion](maṃdiram)
+[should-contemplate](viciṃtayen) [O-great-lady](maheśāni) [therein](tanmadhye) [golden-temple](hemamaṃdiram)
 
 ## mukta-m0-p09-v205
-[four](catur)+[aims](varga) [fruit](phala)+[attainment](prāpti) [cause](kāraṇaṃ)+[sorrow](śoka)+[remover](vāraṇam)
+[four-aims-fruit-attainment](caturvarga+phalaprāpti) [sorrow-removal](kāraṇaṃśokavāraṇam)
 
 ## mukta-m0-p09-v206
-[various](nānā)+[gem](maṇi) [variegated](vicitrāṇāṃ) [of-pillars](staṃbhānāṃ) [new](nava)+[splendor](śobhayā)
+[various-jewels](nānāmaṇi) [wonderful](vicitrāṇāṃ) [pillars](staṃbhānāṃ) [new-splendor](navaśobhayā)
 
 ## mukta-m0-p09-v207
-[with-moonbeams](caṃdrikābhiḥ) [surrounded](parivṛtaṃ) [early](bāla)+[sunlight](ātapa)+[reddened](vilohitam)
+[moonbeams](caṃdrikābhiḥ) [surrounded](parivṛtaṃ) [young-sun-reddened](bālātapavilohitam)
 
 ## mukta-m0-p09-v208
-[ready](sajja)+[with-bow](cāpena)+[by-kāma](kāmena) [being-guarded](rakṣyamāṇam)+[here](itaḥ)+[and-there](tataḥ)
+[well-bowed](sajjacāpena) [by-desire](kāmena) [protected](rakṣyamāṇam) [here-and-there](itastataḥ)
 
 ## mukta-m0-p09-v209
-[eager](utkaṇṭhā) [deity](devatā)+[given](datta) [yak-tail](vāla)+[fan](vyajana)+[fanning](vījanam)
+[longing](utkaṇṭhā) [deity-given](devatādatta) [fan](vālavyajana) [fanning](vījanam)
 
 ## mukta-m0-p09-v210
-[enjoyment](bhoga)+[with-instruments](upakaraṇair)+[endowed](yuktaṃ) [with-various](vividhaiḥ)+[and](ca) [with-drinks](prapānakaiḥ)
+[enjoyment-implements](bhogopakaraṇaiḥ) [endowed](yuktaṃ) [various](vividhaiḥ) [drinks](ca+prapānakaiḥ)
 
 ## mukta-m0-p09-v211
-[playful](narma)+[conversation](ālāpa)+[skilled-in](sābhijñaiś)+[by-maidservant](ceṭi) [groups](vargair)+[mind](mano)+[captivating](haram)
+[jest-conversation-skilled](narmālāpakasābhijñaiḥ) [servant-groups](ceṭi+vargaiḥ) [charming](manoharam)
 
 ## mukta-m0-p09-v212
-[treasure](nidhi)+[by-deity](devatayā)+[accompanied](yuktaṃ) [silk](paṭṭāṃ)+[cloth](śuka)+[adorned](pariṣkṛtam)
+[treasure-deity-united](nidhidevatayā+yuktaṃ) [silk-garment-adorned](paṭṭāṃśukapariṣkṛtam)
 
 ## mukta-m0-p09-v213
-[various](nānā)+[jewel](ratna)+[strewn-with](samākīrṇaṃ) [four](catuḥ)+[pillar](staṃbho)+[beautified](paśobhitām)
+[various-gems-filled](nānāratnasamākīrṇaṃ) [four-pillars-beautified](catustaṃbhopaśobhitām)
 
 ## mukta-m0-p09-v214
-[there](tatra)+[pillar](staṃbha)+[pair](dvaya)+[attached](āsakta) [crosswise](tiryag)+[wood](dāru)+[suspended](palaṃbite)
+[there-pillar-pair-attached](tatrastaṃbhadvayāsakta) [crosswise-wood-hung](tiryagdārupalaṃbite)
 
 ## mukta-m0-p09-v215
-[couch](maṃcam)+[high](ucca)+[and-low](avaca)+[gem](maṇi)+[light](jyotiḥ) [tawny](piṃjara)+[direction](diṅ)+[facing](mukham)
+[couch-high-low-jewel-light](maṃcamuccāvacamaṇijyotiḥ) [cage-direction-facing](piṃjaradiṅmukham)
 
 ## mukta-m0-p09-v216
-[sadāśiva](sadāśiva)+[body](vapuḥ) [placed](kṣipta) [well](su)+[formed](jāta)+[plank](phalaka)+[radiant](ujvalam)
+[eternal-Shiva-form](sadāśivavapuḥ) [thrown](kṣipta) [well-born-plank-shining](sujātaphalakojvalam)
 
 ## mukta-m0-p09-v217
-[extremely](atyaṃta) [soft](mṛdulaṃ) [delightful](hṛdyaṃ) [milk](kṣīrā)+[ocean](bdhi) [white](dhavala)+[splendor](cchaviḥ)
+[extremely-soft](atyaṃta+mṛdulaṃ) [delightful](hṛdyaṃ) [milk-ocean-white-splendor](kṣīrābdhi+dhavalacchaviḥ)
 
 ## mukta-m0-p09-v218
-[29)](29)) [safflower-colored](kausuṃbha)+[garment](vasanaṃ) [new](navyaṃ) [young](bāla)+[sun](ārka) [like](sadṛśaṃ) [one-should-visualize](smaret)
+[29](29) [saffron-garment](kausuṃbhavasanaṃ) [new](navyaṃ) [young-sun-like](bālārka+sadṛśaṃ) [remember](smaret)
 
 ## mukta-m0-p09-v219
-[tied-up](unnaddha)+[braid](kabarī)+[mass](pāśaṃ) [musk](kastūrī)+[forehead-mark](tilaka)+[radiant](ujvalam)
+[tied-high-braid](unnaddhakabarīpāśaṃ) [musk-tilak-shining](kastūrītilakojvalam)
 
 ## mukta-m0-p09-v220
-[pearl](muktā)+[with-necklace](hāreṇa)+[beautiful](ramyeṇa) [adorned](vibhūṣita)+[neck](śiro)+[having](dharam)
+[pearl-necklace-charming](muktāhāreṇaramyeṇa) [adorned-neck](vibhūṣitaśirodharam)
 
 ## mukta-m0-p09-v221
-[always](satataṃ) [joined](yukta)+[state-of-control](yaṃtratvād)+[sky-clad](anaṃbara) [own](nija)+[form](ākṛtim)
+[always-yoked-instrument-thus](satataṃ+yuktayaṃtratvādanaṃbara) [own-form](nijākṛtim)
 
 ## mukta-m0-p09-v222
-[nail](nakha)+[with-scratches](kṣataiś)+[and](ca) [with-various](vividhaiś)+[with-kisses](cuṃbanaiś)+[and](ca) [hundreds](paraḥ)+[of-others](śataiḥ)
+[nail-scratches](nakhakṣataiḥ) [and](ca) [various](vividhaiḥ) [kisses](cuṃbanaiḥ) [and](ca) [hundreds](paraḥśataiḥ)
 
 ## mukta-m0-p09-v223
-[with-actions](karaṇair)+[many](bahu)+[with-arrangements](vinyāsai) [with-embraces](rāśleṣair)+[many](bahu)+[of-kinds](bhedibhiḥ)
+[means](karaṇaiḥ) [many-arrangements](bahuvinyāsai) [embraces](rāśleṣaiḥ) [many-varieties](bahubhedibhiḥ)
 
 ## mukta-m0-p09-v224
-[that](tāṃ) [goddess](devīm)+[also](api)+[that](tat)+[meditation](dhyāna) [in-sequence](krameṇa)+[wise](mati)+[one](mān) [should-visualize](smaret)
+[that-goddess](tāṃ+devīm) [not-that-meditation](apitaddhyāna) [in-order](krameṇamatimān) [remember](smaret)
 
 ## mukta-m0-p09-v225
-[oneself](svayam)+[unperturbed](avyākulo)+[having-become](bhūtvā) [steady](niścal)+[senses](endriya)+[mind](mānasaḥ)
+[self-unagitated-becoming](svayamavyākulobhūtvā) [steady-senses-mind](niścalendriyamānasaḥ)
