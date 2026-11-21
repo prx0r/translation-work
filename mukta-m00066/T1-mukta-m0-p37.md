@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[in-mind](citte) [thus](iti) [word](padaṃ) [having-spoken](procya) [semen](reto) [two-emissions](muṃcadvayaṃ) [should-say](vadet)
+[gloss](citte) [gloss](iti) [gloss](padaṃ) [gloss](procya) [gloss](reto) [gloss](muṃcadvayaṃ) [gloss](vadet)
 
 ## mukta-m0-p37-v902
-[thus](evaṃ) [mantra](maṃtraṃ) [while-chanting](japanneva) [linga-dance](liṃgatāṃḍavamācaret)
+[gloss](evaṃ) [gloss](maṃtraṃ) [gloss](japanneva) [gloss](liṃgatāṃḍavam) [gloss](ācaret)
 
 ## mukta-m0-p37-v903
-[flashing-hidden-sound](sphuradgupigupitkāraṃ) [releases](vimuṃcati) [supreme-nectar](parāmṛtam)
+[gloss](sphuradgupigupitkāraṃ) [gloss](vimuṃcati) [gloss](parāmṛtam)
 
 ## mukta-m0-p37-v904
-[by-yamuna-waters](yamunāsalilairīśāḥ) [sprinkling-fruit](saṃśekaphalamaśnute)
+[gloss](yamunāsalilair) [gloss](īśāḥ) [gloss](saṃśekaphalam) [gloss](aśnute)
 
 ## mukta-m0-p37-v905
-[gives](datte) [pashupati-state](paśupatatvaṃ) [and](ca) [sacrificer-abiding](yajamānamayīṃ) [position](sthitim)
+[gloss](datte) [gloss](paśupatatvaṃ) [gloss](ca) [gloss](yajamānamayīṃ) [gloss](sthitim)
 
 ## mukta-m0-p37-v906
-[of-all-thus-mantras](sarveṣāmevamaṃtrāṇāṃ) [by-itself](svayameva) [manifestation](prakāśatā)
+[gloss](sarveṣām) [gloss](evamaṃtrāṇāṃ) [gloss](svayameva) [gloss](prakāśatā)
 
 ## mukta-m0-p37-v907
-[of-poetry](kavitvasya) [highest-limit](parākāṣṭhā) [rasa-fortune-possessing](rasasaubhāgyaśālinī)
+[gloss](kavitvasya) [gloss](parākāṣṭhā) [gloss](rasasaubhāgyaśālinī)
 
 ## mukta-m0-p37-v908
-[activity](pravṛttiṃ) [and](ca) [cessation](nivṛttiṃ) [and](ca) [of-beings](bhūtānāmiva) [wholly](sarvaśaḥ)
+[gloss](pravṛttiṃ) [gloss](ca) [gloss](nivṛttiṃ) [gloss](ca) [gloss](bhūtānām) [gloss](iva) [gloss](sarvaśaḥ)
 
 ## mukta-m0-p37-v909
-[rasa-siddhi](rasasiddhiṃ) [of-footwear](pādukāyāḥ) [siddhi](siddhiṃ) [anointing](nidhyaṃjanaṃ) [thus](tathā)
+[gloss](rasasiddhiṃ) [gloss](pādukāyāḥ) [gloss](siddhiṃ) [gloss](nidhyaṃjanaṃ) [gloss](tathā)
 
 ## mukta-m0-p37-v910
-[in-sky-going](ākāśagamane) [and](caiva) [other-body](parakāya) [entering](praveśane)
+[gloss](ākāśagamane) [gloss](caiva) [gloss](parakāya) [gloss](praveśane)
 
 ## mukta-m0-p37-v911
-[idol-moving](pratimācalane) [and](caiva) [bhuta-vetala](bhūtavetāla) [seeing](vīkṣaṇe)
+[gloss](pratimācalane) [gloss](caiva) [gloss](bhūtavetāla) [gloss](vīkṣaṇe)
 
 ## mukta-m0-p37-v912
-[skill](pāṭavaṃ) [supreme-gives](paramaṃghatte) [seventh-offering](saptamāhuti) [adept](sādhakaḥ)
+[gloss](pāṭavaṃ) [gloss](paramaṃghatte) [gloss](saptamāhuti) [gloss](sādhakaḥ)
 
 ## mukta-m0-p37-v913
-[great-linga-great-lord](mahāliṃgamaheśāna) [with-own-rasas-and-moonlight](svarasaiścāṃdracaṃdrikaiḥ)
+[gloss](mahāliṃgamaheśāna) [gloss](svarasaiḥ) [gloss](cāṃdracaṃdrikaiḥ)
 
 ## mukta-m0-p37-v914
-[up-to-seven-wells](saptakūpāraparyaṃta) [well-glory](vāpikīrti) [increasing](vivardhanī)
+[gloss](saptakūpāraparyaṃta) [gloss](vāpikīrti) [gloss](vivardhanī)
 
 ## mukta-m0-p37-v915
-[at-this-offering-time](etadāhuti) [velāyāṃ](velāyāṃ) [messenger](dūtikā) [va](va) [position](sthitiṃ) [I-say](bruve)
+[gloss](etadāhuti) [gloss](velāyāṃ) [gloss](dūtikā) [gloss](va) [gloss](sthitim) [gloss](bruve)
 
 ## mukta-m0-p37-v916
-[bliss](ānaṃda) [happiness-abundance](sukhasaṃbhārādati) [slowness-in-body](maṃtharatātanau)
+[gloss](ānaṃda) [gloss](sukhasaṃbhārāt) [gloss](ati) [gloss](maṃtharatātanau)
 
 ## mukta-m0-p37-v917
-[great-bliss-ocean](mahānaṃdapayorāśau) [immersion](majjanaṃ) [tu](tu) [moment](kṣaṇe) [moment](kṣaṇe)
+[gloss](mahānaṃdapayorāśau) [gloss](majjanaṃ) [gloss](tu) [gloss](kṣaṇe) [gloss](kṣaṇe)
 
 ## mukta-m0-p37-v918
-[of-lover](ramaṇasyabhujā) [embrace](śleṣaṃ) [somewhat](kiṃcit) [loosening](chlathanatā) [thus](tathā)
+[gloss](ramaṇasyabhujā) [gloss](śleṣaṃ) [gloss](kiṃcit) [gloss](chlathanatā) [gloss](tathā)
 
 ## mukta-m0-p37-v919
-[hip-orb](nitaṃbabiṃbakaṃ) [after](paścāt) [love-umbrella](kāmacchatrasya) [dancing](narttanam)
+[gloss](nitaṃbabiṃbakaṃ) [gloss](paścāt) [gloss](kāmacchatrasya) [gloss](narttanam)
 
 ## mukta-m0-p37-v920
-[speech-broken](vacovicchinna) [broken-repeated](vicchinnapunaruktaṃ) [and](ca) [again](bhūyasā)
+[gloss](vacovicchinna) [gloss](vicchinnapunaruktaṃ) [gloss](ca) [gloss](bhūyasā)
 
 ## mukta-m0-p37-v921
-[unconnected-meaning](asaṃbaṃdhārthanaṃ) [somewhat](kiṃcit) [somewhat-dry](kiṃcicchuṣkaṃ) [and](ca) [weeping](rodanam)
+[gloss](asaṃbaṃdhārthanaṃ) [gloss](kiṃcit) [gloss](kiṃcicchuṣkaṃ) [gloss](ca) [gloss](rodanam)
 
 ## mukta-m0-p37-v922
-[enough](alaṃ) [lord](nātha) [salutation-to-you](namastubhyaṃ) [again-folded-hands](punasteracitoṃjaliḥ)
+[gloss](alaṃ) [gloss](nātha) [gloss](namastubhyaṃ) [gloss](punasteracitoṃjaliḥ)
 
 ## mukta-m0-p37-v923
-[not-endure](na) [your](sahebhavato) [speed](vegaṃ) [not-endure](na) [your](sahebhavatoratim)
+[gloss](na) [gloss](sahe) [gloss](bhavato) [gloss](vegaṃ) [gloss](na) [gloss](sahe) [gloss](bhavato) [gloss](ratim)
 
 ## mukta-m0-p37-v924
-[why](kimarthaṃ) [me](māṃrasadroṇyāṃ) [in-flesh-trough](majjayasyevanirghṛṇā)
+[gloss](kimarthaṃ) [gloss](māṃ) [gloss](rasadroṇyāṃ) [gloss](majjayasi) [gloss](evanirghṛṇā)
 
 ## mukta-m0-p37-v925
-[I-eat](khādāmi) [what](kiṃte) [all-limbs](sarvāṃgaṃ) [release-me](muṃcamāṃ) [release-beloved](muṃcavallabha)
+[gloss](khādāmi) [gloss](kiṃte) [gloss](sarvāṃgaṃ) [gloss](muṃcamāṃ) [gloss](muṃcavallabha)
