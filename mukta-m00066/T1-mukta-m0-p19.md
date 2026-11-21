@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[kumkuma-drava-samkasa](kuṃkumadravasaṃkāśaṃ) [vilina-asesa](vilīnāśeṣa) [cesta](ceṣṭitam)
+[kumkuma](kuṃkuma) [drava](drava) [samkasha](saṃkāśaṃ) [vilina](vilīna) [ashesha](aśeṣa) [cheshtita](ceṣṭitam)
 
 ## mukta-m0-p19-v452
-[raksita](rakṣitaṃ) [bhavayed](bhāvayed) [devi](devī) [tasya-as-candra-kala-udaye](tasyāścaṃdrakalodaye)
+[rakshita](rakṣitaṃ) [bhavayet](bhāvayed) [devi](devī) [tasya](tasyāḥ) [chandra](caṃdra) [kala](kalā) [udaye](udaye)
 
 ## mukta-m0-p19-v453
-[sadyah](sadyaḥ) [pulakita-akara](pulakitākāro) [bhava](bhāvaḥ) [kah-api](ko'pi) [vijrmbhate](vijṛṃbhate)
+[sadyah](sadyaḥ) [pulakita](pulakita) [akara](ākāra) [bhava](bhāvaḥ) [kopi](ko'pi) [vijrimbhate](vijṛṃbhate)
 
 ## mukta-m0-p19-v454
-[nrtyati-iva-samutkamtha](nṛtyatīvasamutkaṃṭhā) [nrtyati](nṛtyatī) [va](va) [sira-mukham](śirāmukham)
+[nrityati](nṛtyati) [iva](iva) [samutkamtha](samutkaṃṭhā) [nrityati](nṛtyati) [va](va) [shira-mukha](śirāmukham)
 
 ## mukta-m0-p19-v455
-[dutika](dūtikā) [smara](smara) [geha-stham](gehasthāṃ) [bhaga-malam](bhagamālāṃ) [samarcayet](samarcayet)
+[dutika](dūtikā) [smara](smara) [geha-stha](geha-sthāṃ) [bhaga-mala](bhagamālāṃ) [samarcayet](samarcayet)
 
 ## mukta-m0-p19-v456
-[tasya-as-arcana](tasyāścārcana) [bhedah-tu](bhedastu) [vaktavyah](vaktavyaḥ) [paramesvara](parameśvara)
+[tasya](tasyāḥ) [arcana](arcana) [bheda](bhedaḥ) [tu](tu) [vaktavya](vaktavyaḥ) [parameshvara](parameśvara)
 
 ## mukta-m0-p19-v457
-[bhaga-mali-iti](bhagamālīti) [nihsesa](niḥśeṣa) [bhaga-cakra-abhimanini](bhagacakrābhimāninī)
+[bhaga-mali](bhagamālī) [iti](iti) [nishesha](niḥśeṣa) [bhaga-chakra-abhimani](bhagacakrābhimāninī)
 
 ## mukta-m0-p19-v458
-[visva-samohana-akara](viśvasaṃohanākārā) [visva-janma-maha-sthali](viśvajanmamahāsthali)
+[vishva-samohana](viśvasaṃohana) [akara](ākārā) [vishva-janma-maha-sthali](viśvajanmamahāsthali)
 
 ## mukta-m0-p19-v459
 [kala-rupa](kālarūpā) [akala-kari](akālakarī) [kala-grasana-lalasa](kālagrasanalālasā)
 
 ## mukta-m0-p19-v460
-[samastesu](samasteṣu) [sariresu](śarīreṣu) [pumsam-strinam-atha-api-va](puṃsāṃstrīṇāmathāpivā)
+[samastesu](samasteṣu) [sharireṣu](śarīreṣu) [pumsam](puṃsāṃ) [strinam](strīṇām) [atha](atha) [api](api) [va](vā)
 
 ## mukta-m0-p19-v461
-[samhita](saṃhita) [sata-sahasre](śatasāhasre) [yad-arthe](yadarthe) [kirtyate](kīrtyate) [maya](mayā)
+[samhita](saṃhitā) [shata-sahasre](śatasāhasre) [yad-arthe](yadarthe) [kirtyate](kīrtyate) [maya](mayā)
 
 ## mukta-m0-p19-v462
-[nitya-ananga](nityānaṃga) [mada-unmatta](madonmattā) [yauvanena-atigarvita](yauvanenātigarvitā)
+[nitya-ananga](nityānaṃga) [mada-unmatta](madonmattā) [yauvanena](yauvanena) [ati-garvita](atigarvitā)
 
 ## mukta-m0-p19-v463
-[pasa-ankusau](pāśāṃkuśau) [karam](karaṃ) [dhanva](dhanva) [tada](tadā) [va](vā) [madhu-bhajanam](madhubhājanam)
+[pasha-ankushau](pāśāṃkuśau) [karam](karaṃ) [dhanva](dhanva) [tada](tadā) [va](vā) [madhu-bhajanam](madhubhājanam)
 
 ## mukta-m0-p19-v464
 [prasanna-vadana-ambhoja](prasannavadanāṃbhojā) [mada-rakta-vilocana](madaraktavilocanā)
 
 ## mukta-m0-p19-v465
-[sva-rakta-kanti-sati-bhih-eva-avrtanitamba-bhuh](svaraktakāṃtiśaṭībhirevāvṛtanitaṃbabhūḥ)
+[sva-rakta-kanti-shati-bhih](svaraktakāṃtiśaṭībhiḥ) [eva](eva) [avrita](āvṛta) [nitamba-bhuh](nitambabhūḥ)
 
 ## mukta-m0-p19-v466
-[digambara-abhih-anyabhih](digaṃbarābhiranyābhiḥ) [saktibhih](śaktibhiḥ) [parivarita](parivāritā)
+[digambara-abhih](digaṃbarābhiḥ) [anya-abhih](anyābhiḥ) [shakti-bhih](śaktibhiḥ) [parivarita](parivāritā)
 
 ## mukta-m0-p19-v467
-[evam](evaṃ) [dhyeya](dhyeyā) [mahesani](maheśāni) [devata](devatā) [bhaga-malini](bhagamālinī)
+[evam](evaṃ) [dhyeya](dhyeyā) [maheshani](maheśāni) [devata](devatā) [bhaga-malini](bhagamālinī)
 
 ## mukta-m0-p19-v468
-[tripura-arghya-ambuna](tripurārghyāṃbunā) [proksya](prokṣya) [dutyah](dūtyāḥ) [smara-niketanam](smaraniketanam)
+[tripura-arghya-ambuna](tripurārghyāṃbunā) [prokshya](prokṣya) [dutyah](dūtyāḥ) [smara-niketanam](smaraniketanam)
 
 ## mukta-m0-p19-v469
-[tri-konam](trikoṇaṃ) [panca-konam](paṃcakoṇaṃ) [ca](ca) [sa-asta-arka-catur-dalam](sāṣṭārakacaturddalam)
+[trikona](trikoṇaṃ) [panchakona](paṃcakoṇaṃ) [ca](ca) [sashtarakacaturddala](sāṣṭārakacaturddalam)
 
 ## mukta-m0-p19-v470
-[madhye](madhye) [jayen](jayen) [maha-devim](mahādevīṃ) [madyantim](mādyaṃtīṃ) [bhaga-malinim](bhagamālinīm)
+[madhye](madhye) [jayet](jayet) [mahadevim](mahādevīṃ) [madayantim](mādyaṃtīṃ) [bhaga-malinim](bhagamālinīm)
 
 ## mukta-m0-p19-v471
-[bhaga-guhyam](bhagaguhyaṃ) [bhaga-yonim](bhagayoniṃ) [tatha](tathā) [bhaga-nipatanim](bhaganipātinīm)
+[bhaga-guhya](bhagaguhyaṃ) [bhaga-yoni](bhagayoniṃ) [tatha](tathā) [bhaga-nipatini](bhaganipātinīm)
 
 ## mukta-m0-p19-v472
-[bhaga-rupam](bhagarūpāṃ) [tada](tadā) [devim](devīṃ) [nitya-klinna-ambikam-api](nityaklinnāmbikāmapi)
+[bhaga-rupa](bhagarūpāṃ) [tada](tadā) [devi](devī) [nitya-klinna-ambika](nityaklinnāmbikām) [api](api)
 
 ## mukta-m0-p19-v473
-[bhaga-klinna-astamim](bhagaklinnāmaṣṭamīṃ) [ca](ca) [sadhaka-vidhi-varttana](sādhakovidhivarttanā)
+[bhaga-klinna](bhagaklinnā) [ashtami](aṣṭamīṃ) [ca](ca) [sadhaka-vidhi-varttana](sādhakovidhivarttanā)
 
 ## mukta-m0-p19-v474
-[amogha-bhaga-vidya](amoghabhagavidyā) [ca](ca) [caturthi](caturthi) [tu](tu) [bhagesvari](bhageśvarī)
+[amogha-bhaga-vidya](amoghabhagavidyā) [ca](ca) [chaturthi](caturthi) [tu](tu) [bhageshvari](bhageśvarī)
 
 ## mukta-m0-p19-v475
-[tripura-arghya](tripurārghya) [sthitaireva](sthitaireva) [bindubhih-tat](biṃdubhistat) [prapujayet](prapūjayet)
+[tripura-arghya](tripurārghya) [sthitaireva](sthitaireva) [bindubhih](biṃdubhiḥ) [tat](tat) [prapujayet](prapūjayet)

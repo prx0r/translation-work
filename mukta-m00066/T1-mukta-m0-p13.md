@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-traditions-indeed yoginis Tripura Sri and wheel-bearer
+[traditions](saṃpradāyāstu) [yoginis](yoginyastripurā) [sri](śrīśca) [cakrini](cakriṇī)
+
 ## mukta-m0-p13-v302
-all-accomplishments-etc power transcending-family indeed yogini
+[all-siddhi](sarvasidhyādikāḥ) [power](śaktiḥ) [beyond-kula](kulottirṇā) [yogini](tu yoginī)
+
 ## mukta-m0-p13-v303
-inner-decade goddesses indeed all-knowing-etc proclaimed
+[inner-deities](aṃtardaśāredevyastu) [all-knowing](sarvajñādyāḥ) [declared](prakīrtitāḥ)
+
 ## mukta-m0-p13-v304
-great-goad and seal of-her then eight-petals great-circle
+[great-goad](mahāṃkuśā) [mudra](ca mudrāsyādathāṣṭāra) [great-circle](mahāvṛtau)
+
 ## mukta-m0-p13-v305
-wheel-bearer Tripura accomplished seal becomes sky-going
+[cakrini](cakriṇī) [tripura](tripurā) [siddha](siddhā) [mudra](mudrā) [khechari](bhavati khecarī)
+
 ## mukta-m0-p13-v306
-three-cornered Kameshvari Vajreshvari and Bhagamalini
+[triangle](tryaśe) [kameshvari](kāmeśvarī) [vajreshvari](vajreśvarī) [bhagamalini](ca bhagamālinī)
+
 ## mukta-m0-p13-v307
-yogini very secret and Tripuramba and wheel-bearer
+[yogini-secret](yoginyati rahasyā) [tripuramba](ca tripurāṃbā) [cakrini](ca cakriṇī)
+
 ## mukta-m0-p13-v308
-bindu-form great-joy Lalita supreme-goddess
+[bindu-form](biṃdurūpe) [great-delight](mahollāse) [lalita](lalitāṃ) [parameshvari](parameśvarīm)
+
 ## mukta-m0-p13-v309
-her single-seat O-god mind-attached-form
+[one-seat](tasyā ekāsane) [god](deva) [mind-joined-body](matisaṃsaktavigraham)
+
 ## mukta-m0-p13-v310
-Cupid ten-million-beauty flower-arrow-bow-bearer
+[kandarpa](kaṃdarpa) [million-beauty](koṭilāvaṇyaṃ) [flower-arrow-bow](puṣpabāṇadhanurddharam)
+
 ## mukta-m0-p13-v311
-ha-syllable-beginning mantra Kameshvara should-worship
+[ha-mantra](hakārādyena maṃtreṇa) [kameshvara](kāmeśvaramupācaret)
+
 ## mukta-m0-p13-v312
-thus nine-circles goddess after-worshipping according-to-rite
+[nine-circles](itthaṃ navāvṛtiṃ) [goddess](devīṃ) [worship](pūjayitvā) [rite](vidhānataḥ)
+
 ## mukta-m0-p13-v313
-fortune-heart after-chanting should-meditate love-art then
+[saubhagya-heart](saubhāgyahṛdayaṃ) [chant](japtvā) [meditate](dhyāyet) [kamakala](kāmakalāmatha)
+
 ## mukta-m0-p13-v314
-then after-satisfying with-two-roots god goddess and should-worship
+[then-satisfy](atha saṃtarpya) [roots](mūlābhyāṃ) [god](devaṃ) [goddess](devīṃ) [worship](ca pūjayet)
+
 ## mukta-m0-p13-v315
-united their-bodies should-sacrifice bliss Bhairava
+[united-bodies](ekībhūte tayordehe) [worship](yajedānaṃda) [bhairava](bhairavam)
+
 ## mukta-m0-p13-v316
-with-bindus should-satisfy lord bliss supreme-lord
+[bindus-satisfy](bindubhistarpayennāthamānaṃda) [parameshvara](parameśvaram)
+
 ## mukta-m0-p13-v317
-royal-sacrifice-rite thus inaugural worship remembered by-wise
+[yaga-raja-rite](yāgarājakramasyeti) [nandi-puja](nāṃdi pūjā) [remembered](smṛtā) [wise](budhaiḥ)
+
 ## mukta-m0-p13-v318
-which after-hearing with-swan accomplishment should-worship if man
+[hearing](yaṃ śrutvā) [saha-siddhi](sahā) [worship](siddhi pūjayed) [if-man](yadi mānavaḥ)
+
 ## mukta-m0-p13-v319
-in-Anandatantra sixth chapter
+[thus-ananda-tantra](ityānaṃdataṃtre) [sixth-chapter](ṣaṣṭhaḥ paṭalaḥ)
+
 ## mukta-m0-p13-v320
-royal-sacrifice-rite and of-winds even difficult
+[yaga-raja-rite](yāgarājavidhānaṃ) [even-winds](ca marutāmapi) [rare](durlabham)
+
 ## mukta-m0-p13-v321
-supreme-bliss-fortune cause all-accomplishments-giving
+[supreme-bliss-fortune](paramānaṃdasaubhāgya) [cause](nimittaṃ) [all-siddhi](sarvasiddhidam)
+
 ## mukta-m0-p13-v322
-every-year indeed prescribed arranged its for-accomplishment
+[yearly](prativarṣaṃ) [prescribed](tu vihitaṃ) [arranged](kalpitaṃ) [his-siddhi](tasya siddhaye)
+
 ## mukta-m0-p13-v323
-festival-performed sometimes desired
+[festival-rite](parvasukriyamāṇastu) [sometimes](kadācidapi) [desired](vāṃcchitam)
+
 ## mukta-m0-p13-v324
-Brahma-form beautiful-hipped created in-three-worlds
+[brahma-form](brahmarūpeṇa) [beautiful](suśroṇimayā) [created](sṛṣṭā) [three-worlds](jagattraye)
+
 ## mukta-m0-p13-v325
-of-separated and of-united with-juice is-made honey
+[scattered](vyastānāṃ) [combined](ca samastānāṃ) [essence](rasena) [made-honey](kriyate madhu)
