@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[index-finger](tarjanyanāmikāparva) [ring-finger](tarjanyanāmikāparva) [joint](tarjanyanāmikāparva) [with-foot](sapādayavavarjitam) [barley-grain](sapādayavavarjitam) [excluded](sapādayavavarjitam)
+[gloss](tarjanyanāmikāparva) [gloss](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[two-angula](dvyaṅgulo) [thumb-knot](aṅguṣṭhakagranthi) [of-these](āsāṃ) [half-joint](parvārdhagā) [nails](nakhāḥ)
+[gloss](dvyaṅgulo'ṅguṣṭhakagranthirāsāṃ) [gloss](parvārdhagā) [gloss](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[nose-height](nāsotsedhaḥ) [with-width](savistāra) [two-angula](dvyaṅgulo) [double-fold](dvipuṭaḥ) [auspicious](śubhaḥ)
+[gloss](nāsotsedhaḥ) [gloss](savistārodvyaṅgulo) [gloss](dvipuṭaḥ) [gloss](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[one-and-half-barley](dvyardhaṃ) [barley](yavaṃ) [in-fold](puṭe) [thick](sthūle) [middle](madhye) [twenty](vaśa) [by-three-barley](stribhiryavaḥ)
+[gloss](dvyardhaṃ) [gloss](yavaṃ) [gloss](puṭe) [gloss](sthūle) [gloss](madhye) [gloss](vaśa) [gloss](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-[below](adhe) [other](aparo) [small-angula](aṅgulakaṃ) [two-angula](dvyaṅgule) [chin-position](cibukasthitiḥ)
+[gloss](adhe'paro'ṅgulakaṃ) [gloss](tu) [gloss](dvyaṅgule) [gloss](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[nose-root-side](nāsikāmūlapārśve) [eye](locane) [two-angula-length](dvyaṅgulāyate)
+[gloss](nāsikāmūlapārśve) [gloss](tu) [gloss](locane) [gloss](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[blue-lotus-leaf-like](indīvarābjapatrābhā) [snake-gourd-fruit-like](paṭolaphalavat) [woman](striyāḥ)
+[gloss](indīvarābjapatrābhā) [gloss](paṭolaphalavatstriyāḥ)
 
 ## mukta-m0-p30-v733
-[fifth-part](pañcamāṃśaṃ) [becomes](bhave) [light](jyotiḥ) [corner-thread-equal](sṛkkaṇīsūtratulyataḥ)
+[gloss](pañcamāṃśaṃ) [gloss](bhavejjyotiḥ) [gloss](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[half-angula-equal](ardhāṅgulasamā) [trough](droṇī) [one-and-half-angula-long](sārdhadvyaṅguladīrghatā)
+[gloss](ardhāṅgulasamā) [gloss](droṇī) [gloss](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[their](tayora) [measure-half](taramātrārdhaṃ) [woman](striyāṃ) [half-barley-spread](yavārdhavistṛte)
+[gloss](tayora) [gloss](taramātrārdhaṃ) [gloss](striyāṃ) [gloss](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[ears](karṇau) [eye-length](netradayāyāmau) [their-half](tadardhā) [width](dvistarastayoḥ)
+[gloss](karṇau) [gloss](netradayāyāmau) [gloss](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[half-kalā](kalārdhaṃ) [ear-pendants](khalvau) [make](kuryād) [as-desired](yathepsitau)
+[gloss](kalārdhaṃ) [gloss](pāśau) [gloss](kuryādyathepsitau)
 
 ## mukta-m0-p30-v738
-[indra-number-angula](indrasaṅkhyāṅgulaṃ) [after](paścāt) [between-ears](karṇayorantaraṃ) [know](viduḥ)
+[gloss](indrasaṅkhyāṅgulaṃ) [gloss](paścātkarṇayorantaraṃ) [gloss](viduḥ)
 
 ## mukta-m0-p30-v739
-[forehead](lalāṭo) [eight-angula-length](aṣṭāṅgulāyāma) [three-angula](tryaṅgulaḥ) [temple](śaṅkha) [called](ucyate)
+[gloss](lalāṭo'ṣṭāṅgulāyāmastryaṅgulaḥ) [gloss](śaṅkha) [gloss](ucyate)
 
 ## mukta-m0-p30-v740
-[seven-angula](saptāṅgulau) [cheeks](kapolau) [with-angula](sāṅgulau) [with-barley-height](sayavocchrayau)
+[gloss](saptāṅgulau) [gloss](kapolau) [gloss](tu) [gloss](sāṅgulau) [gloss](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[jaws](hanū) [kalā-three-long](kalātradīrghau) [two-kalā](vdikala) [chin-rise](ścibukodgamaḥ)
+[gloss](hanū) [gloss](kalā) [gloss](tradīrghau) [gloss](vdikalaścibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[shoulder](skandho) [eight-angula-width](aṣṭāṅgulavistāra) [its-length](tadāyāma) [four-kalā](ścatuṣkalā)
+[gloss](skandho'ṣṭāṅgulavistārastadāyāmaścatuṣkalā)
 
 ## mukta-m0-p30-v743
-[width](vistāraḥ) [elbow](kūrparas) [from-that](tasmād) [five-angula](bhūtāṅgulai) [barley-thus](ryavaistathā)
+[gloss](vistāraḥ) [gloss](kūrparastasmādbhūtāṅgulairyavaistathā)
 
 ## mukta-m0-p30-v744
-[four-angula-width](caturaṅgulavistāro) [wrist](maṇibandhaḥ) [declared](prakīrtitaḥ)
+[gloss](caturaṅgulavistāro) [gloss](maṇibandhaḥ) [gloss](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[between-breasts](stanayorantaraṃ) [palm](tālaṃ) [their-ends](tayoḥ) [two-eyes](prāntau) [dvinetrakau](dvinetrakau)
+[gloss](stanayorantaraṃ) [gloss](tālaṃ) [gloss](tayoḥ) [gloss](prāntau) [gloss](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[navel](nābhiḥ) [clockwise](pradakṣiṇāvartā) [depressed](nimnato) [half-angula-risen](ardhāṅguloditā)
+[gloss](nābhiḥ) [gloss](pradakṣiṇāvartā) [gloss](nimnato'rdhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[heart](hṛd) [twenty-angula](viṃśatyaṅgulaṃ) [declared](proktaṃ) [navel-region](nābhideśa) [fourteen](caturdaśa)
+[gloss](hṛdviṃśatyaṅgulaṃ) [gloss](proktaṃ) [gloss](nābhideśaścaturdaśa)
 
 ## mukta-m0-p30-v748
-[fifteen-angula](pañcādaśāṅgulaṃ) [chest](vakṣo) [heart-region](hṛddeśaḥ) [five-without](pañcabhirvinā)
+[gloss](pañcādaśāṅgulaṃ) [gloss](vakṣo) [gloss](hṛddeśaḥ) [gloss](pañcabhirvinā)
 
 ## mukta-m0-p30-v749
-[waist](kaṭiḥ) [girdle](saṃveṣṭanenoktā) [hundred](śatācca) [two-more-angula](dvyadhikāṅgulā)
+[gloss](kaṭiḥ) [gloss](saṃveṣṭanenoktā) [gloss](śatācca) [gloss](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[four-eye-width](caturnetrapravistārau) [elephant-temples-like](gajakumbhopamau) [auspicious](śubhau)
+[gloss](caturnetrapravistārau) [gloss](gajakumbhopamau) [gloss](śubhau)
