@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-should-be-done(kartavyā) by-that-division(taddvibhāgena) image(pratimā) with-excellent(sottamā) considered(matā)
+to-be-done(kartavyā) by-that-division(tad+dvibhāgena) image(pratimā) with-excellent(sa+uttamā) considered(matā)
 
 ## mukta-m0-p29-v702
-nine-end(navāntaṃ) in-three-triangle-ends(tritrikānteṣu) youngest-etc(kanyasādyāḥ) declared(prakīrtitāḥ)
+nine-to-end(nava+antaṃ) in-triple-triple-end(tri+trikā+anteṣu) youngest-first(kanyasā+ādyāḥ) declared(prakīrtitāḥ)
 
 ## mukta-m0-p29-v703
-pedestal(pīṭha) door-expansion(dvārapravistāraṃ) maya(mayaḥ) made-in-own-opinion(cakre+svake+mate)
+pedestal(pīṭha) door-expansion(dvāra+pravistāraṃ) maya(mayaḥ) made-in-own-doctrine(sva+ke+mate)
 
 ## mukta-m0-p29-v704
-by-tithi-seat-half-etc(tithimāsanavatyardhaiḥ) lacking-middle-excellent-threefold(hīnamadhyottamāstridhā)
+by-tithi-seat-half-etc(tithi+māsana+vat+ardhaiḥ) lacking-middle-excellent(hīna+madhya+uttamāḥ) threefold(tridhā)
 
 ## mukta-m0-p29-v705
-lame-forms(paṅgurūpāḥ) and(sa) kūṣmāṇḍas(kūṣmāṇḍāḥ) sevenfold-images(saptadhā+arcāḥ) should-be-made(vartayet)
+lame-forms(paṅgu+rūpāḥ) and(sa) kūṣmāṇḍas(kūṣmāṇḍāḥ) sevenfold(saptadhā) images(arcāḥ) should-make(vartayet)
 
 ## mukta-m0-p29-v706
-dividing(śaktisūtreṇa) from-stars-etc(ṛkṣādibhyaḥ) on-auspicious-day(śubhe+dine)
+dividing(śakti+sūtreṇa) from-stars-etc(ṛkṣa+ādibhyaḥ) on-auspicious-day(śubhe+dine)
 
 ## mukta-m0-p29-v707
-pedestal-self-refuge-life-parts(pīṭhātmāśrayajīvāṃśca) radiance-etc(prabhādīṃśca) should-be-arranged(prakalpayet)
+pedestal-self-refuge-life-parts(pīṭha+ātma+āśraya+jīva+aṃśān) and(ca) radiance-etc(prabhā+ādīn) should-arrange(prakalpayet)
 
 ## mukta-m0-p29-v708
-having-made-below-part(kṛtvā+adhoṃśagataḥ) pedestal(pīṭhaṃ) in-third-part(jīvakalpanā)
+having-made-below-part(adhaḥ+gataḥ) pedestal(pīṭhaṃ) in-third-part(tribhāge) life-arrangement(jīva+kalpanā)
 
 ## mukta-m0-p29-v709
-with-self-refuge(with-dūtī)(sātmāśrayāṃ+sadūtīṃ) image(pratimāṃ) should-be-made-then(vartayet+tataḥ)
+with-self-refuge(sātma+āśrayāṃ) with-messenger(sadūtīṃ) and(ca) image(pratimāṃ) should-make-then(vartayet+tataḥ)
 
 ## mukta-m0-p29-v710
-one-part-one-aṅgula(bhāgaikamaṅgula) having-made(mahārcāṃ) should-be-made(vatayed+budhaḥ)
+one-part-angula(bhāga+eka+aṅgula) having-made(mahārcāṃ) should-make(vatayed) wise(budhaḥ)
 
 ## mukta-m0-p29-v711
-in-one-part-aṅgula(eka+bhāge+’ṅgulaṃ) of-it(tasyā) limb-portion(stenāṅgaṃ) should-be-arranged(parikalpayet)
+in-one-part(eka+bhāge) angula(aṅgulaṃ) of-it(tasyā) limb-by-limb(stena+aṅgaṃ) should-arrange(parikalpayet)
 
 ## mukta-m0-p29-v712
-maya(maye) thread-even-placing(sūtraṃ+samaṃ+nyasya) straight-image(ṛjvarcāṃ) should-be-made-auspicious(kārayet+śubhām)
+maya(maye) thread(sūtraṃ) even(samaṃ) placing(nyasya) straight-image(ṛju+arcāṃ) should-make-auspicious(kārayet+śubhām)
 
 ## mukta-m0-p29-v713
-of-life-length-measure(jīvasyād+dairghyamānena) limbs-now(pratyaṅgāny+adhunā) I-will-speak(vruve)
+of-life-length(jīvasya+āddhairghya+mānena) limbs-now(pratyaṅgāni+adhunā) I-will-say(vruve)
 
 ## mukta-m0-p29-v714
-by-measures-tithi-count(mātrābhiḥ+tithisaṃkhyābhiḥ) crown-wrapping(mukuṭa+veṣṭanaṃ) becomes(bhavet)
+by-measures(tāla+mānaiḥ) tithi-count(tithi+saṃkhyābhiḥ) crown-wrapping(mukuṭa+veṣṭanaṃ) becomes(bhavet)
 
 ## mukta-m0-p29-v715
-tāla-measure(tālamānaṃ) becomes-curved(bhaved+vakraṃ) neck(grīvā) four-aṅgulas(ca+caturaṅgulā)
+tala-measure(tāla+mānaṃ) becomes(bhaved) curved(vakraṃ) neck(grīvā) and(ca) four-angulas(catura+aṅgulā)
 
 ## mukta-m0-p29-v716
-one-tāla-measure-each(tālaikaikapramāṇaṃ) should-be-thighs-etc(syād+ūrū+tālavinirgamau)
+tala-one-one-measure(tāla+eka+eka+pramāṇaṃ) should-be(syāt) thighs(ūrū) tala-exit(tāla+vinirgamau)
 
 ## mukta-m0-p29-v717
-known(gulphau) two-eyes(dvinetrau) heels-two-aṅgulas(pārṣṇīdvyaṅgulake) in-opinion(mate)
+to-be-known(jñeyau) ankles(gulphau) two-eyes(dvi+netrau) and(ca) heels-two-angulas(pārṣṇī+dvyaṅgulake) in-doctrine(mate)
 
 ## mukta-m0-p29-v718
-middle-two-kalā-height(madhye+kalādvayocchrāyo) front-half-half-measures(vagresārdhārdha+mātrakau)
+in-middle(madhye) two-kalā-height(kalā+dvaya+ucchrāyaḥ) front-half-half(sā+ardha+ardha) measure(mātrakau)
 
 ## mukta-m0-p29-v719
-five-aṅgulas(paṅcāṅgulau) by-wrapping(veṣṭanena) one-and-half-aṅgula-two-joints(sārdhāṅgaladviparvaṇī)
+five-angulas(pañca+aṅgulau) by-wrapping(veṣṭanena) with-half-angula-two-joints(sārdha+aṅgala+dviparvaṇī)
 
 ## mukta-m0-p29-v720
-three-aṅgulas(tryaṅgulā) circumference(pariṇāhena) now-others(kathyante+tv+adhunā+parāḥ)
+three-angulas(tryaṅgulā) circumference(pariṇāhena) are-spoken(kathyante) now-other(tvadhunā+parāḥ)
 
 ## mukta-m0-p29-v721
-toe-joints-three-parva(triparvāṇaḥ) half-joint-nail-beautified(parvārdhanakhaśobhitāḥ)
+toe-joints(pāda+aṅgulyaḥ) three-jointed(tri+parvāṇaḥ) half-joint-nail-beautified(parva+ardha+nakha+śobhitāḥ)
 
 ## mukta-m0-p29-v722
-red-foot-sole(kārāṅghri+talakaṃ+raktaṃ) nails-raised-reddish(nakhāḥ+savonnatāruṇāḥ)
+nail-sole(nakhāṅghri+talakaṃ) red(raktaṃ) nails(nakhāḥ) raised-reddish(savonnata+aruṇāḥ)
 
 ## mukta-m0-p29-v723
-upper-arms-ten-eight-parts(upabāhū+daśāṣṭāṃśau) sixteen-aṅgula-arms(ṣoḍaśāṅgulakau+bhujau)
+forearms(upabāhū) ten-eight-parts(daśa+aṣṭāṃśau) sixteen-angulas(ṣoḍaśa+aṅgulakau) arms(bhujau)
 
 ## mukta-m0-p29-v724
-five-aṅgulas(bhūtāṅgulā) becomes-middle(bhaven+madhyā) half-less-ring-finger(ardhahīnā+tvanāmikā)
+five-angulas(bhūta+aṅgulā) becomes(bhaven) middle(madhyā) half-less(anāmikā) ring-finger(tv+anāmikā)
 
 ## mukta-m0-p29-v725
-middle-etc-three-joints(madhyamādyāḥ+triparvāṇo) two-joint-thumb(dviparvāṅguṣṭhako) considered(mataḥ)
+middle-first-three-jointed(madhyamā+ādyāḥ+tri+parvāṇaḥ) two-jointed-thumb(dvi+parva+aṅguṣṭhakaḥ) considered(mataḥ)
