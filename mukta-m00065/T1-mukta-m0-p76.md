@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-śiva-umā-mantra-yogena [by yoga of mantra of Śiva and Umā] sandhānam [union] bhūti-kāṅkṣiṇām [of those desiring prosperity]
+śiva-umā-mantra-yogena sandhānam bhūti-kāṅkṣiṇām
 
 ## mukta-m0-p76-v1877
-mūrti-ādi-aṅka-avasānam [ending of marks beginning with image] tu [but] punar [again] evam [thus] tu [and] vinyaset [should place]
+mūrti-ādi-aṅka-avasānam tu punar-evam tu vinyaset
 
 ## mukta-m0-p76-v1878
-tataḥ [then]
+tataḥ
 
 ## mukta-m0-p76-v1879
-rudra-ādīnām [of Rudra and others] tu [but] sarveṣām [of all] sthāpanam [installation] tattvataḥ [according to reality] kramāt [in order]
+rudra-ādīnām tu sarveṣām sthāpanam tattvataḥ kramāt
 
 ## mukta-m0-p76-v1880
-ātma-vidyāḥ [self-knowledges] śivam [Śiva] ca [and] eva [indeed] bhāvayet [should meditate] anupūrvataḥ [in sequence]
+ātma-vidyāḥ śivam ca-eva bhāvayet-anupūrvataḥ
 
 ## mukta-m0-p76-v1881
-vyavasthitāḥ [established]
+vyavasthitāḥ
 
 ## mukta-m0-p76-v1882
-vidyā-tattve [in principle of knowledge] sthitāḥ [situated] hi [indeed] ete [these] sādhikāre [with authority] viduḥ [know] budhāḥ [wise]
+vidyā-tattve sthitāḥ hi-ete sādhikāre viduḥ-budhāḥ
 
 ## mukta-m0-p76-v1883
-tri-tattva-vyāptiḥ [pervasion of three principles] ākhyātā [declared] panthānaḥ [paths] ṣaḍvidhāḥ [sixfold] tu [indeed] iha [here]
+tri-tattva-vyāptiḥ ākhyātā panthānaḥ ṣaḍ-vidhāḥ tu-iha
 
 ## mukta-m0-p76-v1884
-kramāt [in order]
+kramāt
 
 ## mukta-m0-p76-v1885
-triṃśat-pañca-adhikam [thirty-five plus] tattvam [principle] sanmārgam [good path] pīṭham [seat] aiśvaram [of Īśvara]
+triṃśat-pañca-adhikam tattvam san-mārgam pīṭham-aiśvaram
 
 ## mukta-m0-p76-v1886
-bhujaḥ [arms] tu [but] daśabhiḥ [with ten] yuktam [endowed] jaṭā-mukuṭa-maṇḍitam [adorned with matted crown]
+bhujaḥ-tu daśabhiḥ-yuktam jaṭā-mukuṭa-maṇḍitam
 
 ## mukta-m0-p76-v1887
-gaṇaiḥ [with hosts] devaiḥ [gods] tathā [and] siddhaiḥ [perfected ones] stūyamānaiḥ [being praised] samāyutam [accompanied]
+gaṇaiḥ-devaiḥ-tathā siddhaiḥ stūyamānaiḥ samāyutam
 
 ## mukta-m0-p76-v1888
-sadyojātena [by Sadyojāta] saṃcintya [having meditated] vāmadevena [by Vāmadeva] vinyaset [should place]
+sadyolātena saṃcintya vāmadevena vinyaset
 
 ## mukta-m0-p76-v1889
-bodha-kriyā-niviṣṭam [engaged in awakening action] tu [but] jñeyam [to be known] jñāna-āśritam [supported by knowledge] smaret [should remember]
+bodha-kriyā-niviṣṭam tu jñeyam jñāna-āśritam smaret
 
 ## mukta-m0-p76-v1890
-dhvani-madhya-gatā [situated in middle of sound] tārā [star] tārā-madhya-gateḥ [of one gone into middle of star] śaśī [moon]
+dhvani-madhya-gatā tārā tārā-madhya-gateḥ śaśī
 
 ## mukta-m0-p76-v1891
-ravi-madhya-gataḥ [gone into middle of sun] śāntaḥ [peaceful] śānta-madhya-gataḥ [gone into middle of peace] śivaḥ [Śiva]
+ravi-madhya-gataḥ śāntaḥ śānta-madhya-gataḥ śivaḥ
 
 ## mukta-m0-p76-v1892
-tadā [then] dig-devatā-homaḥ [homa to directional deities] kāryā [should be done] śāntiḥ [peace] ca [and] doṣa-hṛt [removing faults]
+tadā dig-devatā-homaḥ kāryā śāntiḥ ca doṣa-hṛt
 
 ## mukta-m0-p76-v1893
-anyathā [otherwise] tu [but] bhavet [would be] ghoram [terrible] kartṛ-rāṣṭra-virūpakam [distorting agent and kingdom]
+anyathā tu bhavet-ghoraṃ kartṛ-rāṣṭra-virūpakam
 
 ## mukta-m0-p76-v1894
-gajam [elephant] chāgam [goat] lulāyam [?] ca [and] dāsīm [female slave] matsyam [fish] mṛga-avikam [deer/sheep]
+gajam chāgam lulāyam ca dāsīm matsyam mṛga-avikam
 
 ## mukta-m0-p76-v1895
-pakṣa-sūtram [side thread] tataḥ [then] dadyāt [should give] ṛju-artham [for straightness] lamba-sūtrakam [hanging thread]
+pakṣa-sūtram tataḥ dadyāt-ṛju-artham lamba-sūtrakam
 
 ## mukta-m0-p76-v1896
-calile [when moving] śabdite [when sounded] bhrānte [when confused] praṇate [when bowed] svasthite [when settled] kramāt [in order]
+calile śabdite bhrānte praṇate svasthite kramāt
 
 ## mukta-m0-p76-v1897
-kṣīra-loha-malaiḥ [with milk, metal, impurities] śubhaiḥ [auspicious]
+kṣīra-loha-malaiḥ śubhaiḥ
 
 ## mukta-m0-p76-v1898
-tataḥ [then] śānti-ghaṭa-āmbobhiḥ [with waters of peace pot] snānam [bathing] mūrti-dharāḥ [image-bearers] svakam [own]
+tataḥ śānti-ghaṭā-abhiḥ snānam mūrti-dharāḥ svakam
 
 ## mukta-m0-p76-v1899
-toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ [consisting of water, milk, curd, honey, ghee, water]
+toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ
 
 ## mukta-m0-p76-v1900
-mugdā [?] dyaṅgula-mātrasya [of measure of two fingers] calasya [of movable] sthāpane [in installation] hitam [beneficial]
+mugdā dyaṅgula-mātrasya calasya sthāpane hitam
