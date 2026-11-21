@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-uttaraṃge(upper-part) mahāsiddhau(great-siddhi) phenajālasamāvṛte(foam-net-covered)
+upper-part [kh: -rāṃge] great-siddhi foam-net-covered
 
 ## mukta-m0-p09-v202
-muhuḥśabdāyamāne(repeatedly-sounding) ca(and) nadīnadasamākule(river-stream-crowded)
+repeatedly-sounding river-stream-crowded
 
 ## mukta-m0-p09-v203
-nānāpuṣpagaṇāmoda(various-flower-group-fragrance) bhrāṃtapuṣpaṃdhayabrajam(wandering-bee-swarm)
+various-flower-group-fragrance wandering-flower-bee-swarm
 
 ## mukta-m0-p09-v204
-viciṃtayen(meditate) maheśāni(O-Maheśānī) tanmadhye(in-its-middle) hemamaṃdiram(golden-temple)
+should-meditate great-lady in-middle golden-temple [kh: - maṃdi *?]
 
 ## mukta-m0-p09-v205
-caturvarga(fourfold-aims) phalaprāpti(fruit-attainment) kāraṇaṃśokavāraṇam(cause-sorrow-removal)
+four-goals fruit-attainment cause sorrow-removal
 
 ## mukta-m0-p09-v206
-nānāmaṇi(various-gems) vicitrāṇāṃ(variegated) staṃbhānāṃ(pillars) navaśobhayā(new-splendor)
+various-gems wonderful pillars new-splendor
 
 ## mukta-m0-p09-v207
-caṃdrikābhiḥ(moonbeams) parivṛtaṃ(surrounded) bālātapavilohitam(young-sun-reddened)
+moonlight-surrounded young-sun-reddened
 
 ## mukta-m0-p09-v208
-sajjacāpenakāmena(bow-armed-Kāma) rakṣyamāṇam(protected) itastataḥ(here-there)
+well-armed-bow-cupid protected here-there
 
 ## mukta-m0-p09-v209
-utkaṇṭhā(longing) devatādatta(divine-given) vālavyajanavījanam(fly-whisk-fanning)
+longing deity-given fan-fanning
 
 ## mukta-m0-p09-v210
-bhogopakaraṇairyuktaṃ(enjoyment-instruments-endowed) vividhaiśca(various-and) prapānakaiḥ(drinks)
+enjoyment-implements various drink-vessels [kh: * * * *?
 
 ## mukta-m0-p09-v211
-narmālāpakasābhijñaiśceṭi(playful-conversation-experts-servants) vargairmanoharam(groups-charming)
+jest-conversation-skilled maidservant-groups charming
 
 ## mukta-m0-p09-v212
-nidhidevatayāyuktaṃ(treasure-deity-endowed) paṭṭāṃśukapariṣkṛtam(silk-cloth-adorned)
+treasure-deity-joined silk-garment-adorned
 
 ## mukta-m0-p09-v213
-nānāratnasamākīrṇaṃ(various-gems-scattered) catustaṃbhopaśobhitām(four-pillars-adorned)
+various-gems-filled four-pillar-beautified
 
 ## mukta-m0-p09-v214
-tatrastaṃbhadvayāsakta(there-pillar-pair-attached) tiryagdārupalaṃbite(crosswise-wood-suspended)
+there-pillar-pair-attached crosswise-wood-hanging
 
 ## mukta-m0-p09-v215
-maṃcamuccāvacamaṇijyotiḥ(cot-various-gem-light) piṃjaradiṅmukham(cage-direction-facing)
+couch high-low-gem-light cage-direction-facing
 
 ## mukta-m0-p09-v216
-sadāśivavapuḥ(Sadāśiva-body) kṣipta(placed) sujātaphalakojvalam(well-born-plank-radiant)
+sadashiva-form cast beautiful-plank-shining
 
 ## mukta-m0-p09-v217
-atyaṃta(extremely) mṛdulaṃ(soft) hṛdyaṃ(heart-pleasing) kṣīrābdhi(milk-ocean) dhavalacchaviḥ(white-complexion)
+extremely-soft pleasing milk-ocean white-radiance
 
 ## mukta-m0-p09-v218
-kausuṃbhavasanaṃ(saffron-garment) navyaṃ(new) bālārka(young-sun) sadṛśaṃ(similar) smaret(remember)
+29) kausumbha-garment new young-sun resembling remember
 
 ## mukta-m0-p09-v219
-unnaddhakabarīpāśaṃ(tied-braid-knot) kastūrītilakojvalam(musk-tilaka-radiant)
+raised-braid-knot musk-tilaka-shining [kh: unnattha-]
 
 ## mukta-m0-p09-v220
-muktāhāreṇaramyeṇa(pearl-necklace-charming) vibhūṣitaśirodharam(adorned-neck)
+pearl-necklace-beautiful adorned-neck
 
 ## mukta-m0-p09-v221
-satataṃ(constantly) yuktayaṃtratvādanaṃbara(united-instrument-cloth) nijākṛtim(own-form)
+always joined-instrument-thus clothing own-form
 
 ## mukta-m0-p09-v222
-nakhakṣataiśca(nail-scratches-and) vividhaiśca(various-and) cuṃbanaiśca(kisses-and) paraḥśataiḥ(hundreds)
+nail-scratches various kisses hundreds
 
 ## mukta-m0-p09-v223
-karaṇairbahuvinyāsai(senses-many-arrangements) rāśleṣairbahubhedibhiḥ(embraces-many-varieties)
+acts many-arrangements embraces many-varieties
 
 ## mukta-m0-p09-v224
-tāṃ(that) devīm(goddess) apitaddhyāna(apart-from-that-meditation) krameṇamatimān(order-wise-intelligent) smaret(remember)
+that goddess that-meditation sequence by-mind remember [kh: -tadhyāna]
 
 ## mukta-m0-p09-v225
-svayamavyākulobhūtvā(self-unagitated-becoming) niścalendriyamānasaḥ(still-senses-mind)
+oneself-unagitated becoming steady-senses-mind
