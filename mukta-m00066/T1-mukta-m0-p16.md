@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p16-v376
-[akliṣṭatā](akliṣṭatā) [puṣṭatā](puṣṭatā) [ca](ca) [rathanemi+samānatā](rathanemisamānatā)
+[untroubledness](akliṣṭatā) [plumpness](puṣṭatā) [and](ca) [chariot+wheel-rim+likeness](ratha+nemi+samānatā)
 
 ## mukta-m0-p16-v377
-[phaṇi+śīrṣa+samānatvaṃ](phaṇiśīrṣasamānatvaṃ) [prasanna+dravatā](prasannadravatā) [tathā](tathā)
+[serpent+head+likeness](phaṇi+śīrṣa+samānatvaṃ) [clear](prasanna) [fluidity](dravatā) [likewise](tathā)
 
 ## mukta-m0-p16-v378
-[sarva+lakṣaṇa+yuktatvaṃ](sarvalakṣaṇa yuktatvaṃ) [kula+lakṣaṇa+vihīnatā](kulakṣaṇavihīnatā)
+[all+marks](sarva+lakṣaṇa) [endowedness](yuktatvaṃ) [bad+marks](ku+lakṣaṇa) [absence](vihīnatā)
 
 ## mukta-m0-p16-v379
-[saṃskārasya](saṃskārasya) [mahimnā+iva](mahimneva) [bhāsaṃte](bhāsaṃte) [te](te) [guṇāḥ](guṇāḥ) [priye](priye)
+[of-consecration](saṃskārasya) [by-greatness+indeed](mahimneva) [shine](bhāsaṃte) [those](te) [qualities](guṇāḥ) [O-beloved](priye)
 
 ## mukta-m0-p16-v380
-[saṃskāraḥ+api](saṃskāropi) [samastāni](samastāni) [vastūni+nyāvaset](vastūninyāvasetpriye) [priye](priye)
+[consecration+even](saṃskāropi) [all](samastāni) [things](vastūni) [should-establish](nyāvaset) [O-beloved](priye)
 
 ## mukta-m0-p16-v381
-[sarva+saubhāgya+janakaṃ](sarvasaubhāgyajanakaṃ) [sarva+siddhi+mahā+padaṃ](sarvasiddhimahāpadaṃ)
+[all+good-fortune](sarva+saubhāgya) [producing](janakaṃ) [all+siddhi](sarva+siddhi) [great+abode](mahā+padaṃ)
 
 ## mukta-m0-p16-v382
-[ānanda+bhairavasya+arcā+sādhanaṃ](ānaṃda bhairavasyārcāsādhanaṃ) [viśva+mohanaṃ](viśvamohanam)
+[bliss](ānaṃda) [of-Bhairava](bhairavasya) [worship+instrument](arcā+sādhanaṃ) [world+enchanting](viśva+mohanam)
 
 ## mukta-m0-p16-v383
-[suśobha+dakrama+grāsī](suśobhadakramagrāsī) [samasta+āpana+nikṛṃtanaṃ](samastāpannikṛṃtanam)
+[very+beautiful](su+śobha) [sequence](dakra+ma) [devourer](grāsī) [all+calamities+destroying](samastā+pad+nikṛṃtanam)
 
 ## mukta-m0-p16-v384
-[veśma+caṃdra+kalānāṃ](veśmacaṃdrakalānāṃ) [ca](ca) [sadma+saubhāgya+saṃpadām](sadmasaubhāgyasaṃpadām)
+[of-mansion](veśma) [moon+digits](caṃdra+kalānāṃ) [and](ca) [of-abode](sadma) [good-fortune+riches](saubhāgya+saṃpadām)
 
 ## mukta-m0-p16-v385
-[samasta+roga+janakaṃ](samastarogajanakaṃ) [daurbhāgyasya+pravartakaṃ](daurbhāgyasyapravartakam)
+[all+diseases](samasta+roga) [producing](janakaṃ) [of-misfortune](daurbhāgyasya) [promoter](pravartakam)
 
 ## mukta-m0-p16-v386
-[loka+upakrośa+janakaṃ](lokopakrośajanakaṃ) [loka+dhikkāra+dāyakaṃ](lokadhikkāradāyakam)
+[people+censure](loka+upakrośa) [producing](janakaṃ) [people+reproach](loka+dhikkāra) [giving](dāyakam)
 
 ## mukta-m0-p16-v387
-[phelinaṃ](phelinaṃ) [naṣṭaṃ](naṣṭam) [ucchiṣṭaṃ](ucchiṣṭam) [apakṛṣṭaṃ](apakṛṣṭaṃ) [vicarcitaṃ](vicarcitam)
+[frothy](phelinaṃ) [spoiled](naṣṭam) [leftover](ucchiṣṭam) [debased](apakṛṣṭaṃ) [smeared](vicarcitam)
 
 ## mukta-m0-p16-v388
-[antaḥ](aṃtaḥ) [karkaśa+carmāḍhyaṃ](karkkaśacarmāḍhyamaṃ) [antaḥ+go+jihvayā+anvitaṃ](targojihvayānvitam)
+[inside](aṃtaḥ) [hard+skin](karkkaśa+carma) [abundant](āḍhyam) [inside](aṃtar) [cow-tongue+endowed-with](go+jihvayā+anvitam)
 
 ## mukta-m0-p16-v389
-[pāma+kaṇḍū+pracuritaṃ](pāmakaṇḍūpracuritaṃ) [pāpiṣṭaṃ](pāpiṣṭaṃ) [kathitaṃ](kathitaṃ) [dravaṃ](dravam)
+[scabies+itch+abounding](pāma+kaṇḍū+pracuritaṃ) [most-sinful](pāpiṣṭaṃ) [declared](kathitaṃ) [fluid](dravam)
 
 ## mukta-m0-p16-v390
-[svakīya](svakīya) [vapuḥ](vapure) [vai](vai) [tat](tat) [pūjā+sādhanaṃ](pūjāsādhanamiṣyate) [iṣyate](iṣyate)
+[one's-own](svakīya) [body+indeed](vapure) [indeed](vai) [that](tat) [worship+instrument+is-desired](pūjā+sādhanam+iṣyate)
 
 ## mukta-m0-p16-v391
-[sannidhatte](sannidhatte) [paraḥ+sākṣāt](paraḥsākṣādānaṃdādvaita) [ānanda+advaita+rūpa+dhṛt](rūpadhṛt)
+[is-present](sannidhatte) [supreme](paraḥ) [directly](sākṣāt) [bliss+non-dual](ānaṃda+advaita) [form-bearing](rūpa+dhṛt)
 
 ## mukta-m0-p16-v392
-[dūtī+mukhasya](dūtī mukhasya) [saṃskāraḥ](saṃskāraḥ) [kathyate](kathyate) [śṛṇu+saṃdari](śṛṇusaṃdari)
+[messenger-woman](dūtī) [of-mouth](mukhasya) [consecration](saṃskāraḥ) [is-told](kathyate) [listen+O-beautiful-one](śṛṇu+saṃdari)
 
 ## mukta-m0-p16-v393
-[uttejanaṃ](uttejanaṃ) [ca](ca) [śastreṇa](śastreṇa) [nirmalīkaraṇaṃ](nirmalīkaraṇaṃ) [punaḥ](punaḥ)
+[stimulation](uttejanaṃ) [and](ca) [with-instrument](śastreṇa) [purification](nirmalī+karaṇaṃ) [again](punaḥ)
 
 ## mukta-m0-p16-v394
-[taila+gaṇḍūṣaṇāt](tailagaṇḍuṣaṇāt) [kāṃtiḥ](kāṃtirdaṃtānāmupajāyate) [daṃtānām](daṃtānām) [upajāyate](upajāyate)
+[from-oil+gargling](taila+gaṇḍuṣaṇāt) [radiance](kāṃtir) [of-teeth](daṃtānām) [arises](upajāyate)
 
 ## mukta-m0-p16-v395
-[trikaṭu](trikaṭu) [triphalā](triphalā) [māṃsi](māṃsi) [guḍa+tvak+patraka+kesaraiḥ](guḍatvakpatrakesaraiḥ)
+[three-pungents](tri+kaṭu) [three-fruits](tri+phalā) [flesh](māṃsi) [jaggery+bark+leaf+filaments](guḍa+tvak+patra+kesaraiḥ)
 
 ## mukta-m0-p16-v396
-[kṛtvā](kṛtvākṣa) [akṣa](akṣa) [sadṛśān](sadṛśān) [piṇḍān](piṇḍān) [taṃ](taṃ) [pūrvaṃ](pūrvaṃ) [dūtikā+gilet](dūtikāgilet)
+[having-made](kṛtvā) [seed+like](akṣa+sadṛśān) [balls](piṇḍān) [that](taṃ) [before](pūrvaṃ) [messenger-woman+should-swallow](dūtikā+gilet)
 
 ## mukta-m0-p16-v397
-[malena+iva+apa+sṛṣṭānāṃ](malenaivāpa sṛṣṭānāṃ) [sarveṣāṃ](sarveṣāṃ) [śamanaṃ](śamanaṃ) [bhavet](bhavet)
+[by-impurity+indeed](malena+eva) [even](āpa) [of-produced](sṛṣṭānāṃ) [of-all](sarveṣāṃ) [pacification](śamanaṃ) [should-be](bhavet)
 
 ## mukta-m0-p16-v398
-[mardaniyaṃ](mardaniyaṃ) [prayatnena](prayatnena) [guṭikā+kārayet](guṭikākārayedbudhaḥ) [budhaḥ](budhaḥ)
+[should-be-kneaded](mardaniyaṃ) [with-effort](prayatnena) [pill+should-make](guṭikā+kārayed) [wise-one](budhaḥ)
 
 ## mukta-m0-p16-v399
-[dūtikā+saurabhya](pūtikāmati) [śāli+vaktraṃ](śālivaktraṃ) [prakalpayet](prakalpayet)
+[foul-smelling+mind](pūtikā+mati) [fragrance+possessing](saurabhya+śāli) [mouth](vaktraṃ) [should-make](prakalpayet)
 
 ## mukta-m0-p16-v400
-[itthaṃ](itthaṃ) [śarīra+saṃskāraḥ](śarīrasaṃskāro) [bāhya+ābhyaṃtaraḥ](bāhyābhyaṃtara) [īritaḥ](īritaḥ)
+[thus](itthaṃ) [body+consecration](śarīra+saṃskāro) [external+internal](bāhya+ābhyaṃtara) [declared](īritaḥ)
