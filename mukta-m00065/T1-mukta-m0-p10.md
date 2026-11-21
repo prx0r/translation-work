@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[from-renunciation](prāvrājyāt) [perishes](naśyate) [first](pūrvaṃ) [from-union-with-woman](strīyogāt) [afterwards](aparaṃ) [so](tathā)
+prāvrājyāt (by-asceticism) naśyate (perishes) pūrvam (first) strī-yogāt (by-woman-union) aparam (afterwards) tathā (likewise)
 
 ## mukta-m0-p10-v227
-[three-ear-born](trikarṇotthāḥ) [three-eared](trikarṇāḥ) [and](ca) [three-skull-soul](trikapānātma) [ear-ones](karṇakā)
+tri-karṇa-utthāḥ (three-ear-born) tri-karṇāḥ (three-ears) ca (and) tri-kapāla-ātma (three-skull-soul) karṇakā (ear-born)
 
 ## mukta-m0-p10-v228
-[ash-sprout](bhasmāṅkuraḥ) [tu](tu) [boaster-lip-born](katthosthaḥ) [his-sons](tatsutāḥ) [kauśika-etc](kauśikādayaḥ)
+bhasma-aṅkuraḥ (ash-sprout) tu (but) kattha-osthaḥ (boast-lip) tatsutāḥ (his-sons) kauśika-ādayaḥ (kauśika-etc)
 
 ## mukta-m0-p10-v229
-[kingdom-destruction-causing](rāṣṭrakṣayakarāḥ) [indeed](hi) [these](ete) [who](ye) [ca](ca) [heretics](paṣāṇḍinaḥ) [men](narāḥ)
+rāṣṭra-kṣaya-karāḥ (kingdom-destruction-makers) hi (indeed) ete (these) ye (who) ca (and) paṣāṇḍinaḥ (heretics) narāḥ (men)
 
 ## mukta-m0-p10-v230
-[by-scripture-inspection](śāstrāvalokanāt) [eva](eva) [caṇḍeśa](caṇḍeśaḥ) [his](tasya) [ruler](śāsakaḥ)
+śāstra-avalokanāt (by-scripture-observation) eva (only) caṇḍeśaḥ (caṇḍeśa) tasya (his) śāsakaḥ (ruler)
 
 ## mukta-m0-p10-v231
-[he](sa) [goes](yāti) [to-hell](narakaṃ) [immediately](sadyaḥ) [with-sacrificers](yājñikaiḥ) [saha](saha) [with-teachers](daiśikaiḥ)
+sa (he) yāti (goes) narakam (to-hell) sadyaḥ (immediately) yājñikaiḥ (with-sacrificers) saha (with) daiśikaḥ (teacher)
 
 ## mukta-m0-p10-v232
-[by-their-conduct](teṣāmācaraṇāt) [always](nityam) [teacher](ācāryaḥ) [iti](iti) [is-called](kīrtyate)
+teṣām (their) ācaraṇāt (by-conduct) nityam (always) ācārya (teacher) iti (thus) kīrtyate (is-called)
 
 ## mukta-m0-p10-v233
-[therefore](tasmāt) [not](na) [human](mānavīṃ) [intellect](buddhiṃ) [should-make](kārayet) [towards-teacher](daiśikaṃ) [prati](prati)
+tasmāt (therefore) na (not) mānavīm (human) buddhim (mind) kārayet (should-make) daiśikam (teacher) prati (towards)
 
 ## mukta-m0-p10-v234
-[five-faced](pañcavaktrāṇi) [of-the-god](devasya) [for-five-āgama-growth](pañcāgamavivṛddhaye)
+pañca-vaktrāṇi (five-faces) devasya (of-god) pañca-āgama (five-āgama) vivṛddhaye (for-growth)
 
 ## mukta-m0-p10-v235
-[blazing](dīptaṃ) [subtle](sūkṣmaṃ) [ca](ca) [thousand-rayed](sāhasramaṃśu) [suprabha](suprabhaṃ) [ten](daśa)
+dīptam (blazing) sūkṣmam (subtle) ca (and) sāhasram (thousand) aṃśum (ray) su-prabham (well-shining) daśa (ten)
 
 ## mukta-m0-p10-v236
-[victory](vijayaṃ) [supreme-lordship](pāramaiśvaryaṃ) [niśvāsa-udgīta-named](niśvāsodgītasaṃjñakam)
+vijayam (victory) pāra-maiśvaryam (supreme-lordship) niśvāsa-udgīta-saṃjñakam (breath-chant-named)
 
 ## mukta-m0-p10-v237
-[narasiṃha](narasiṃhaṃ) [candrahāsa](candrahāsaṃ) [vīra](vīraṃ) [svāyambhu](svāyambhu) [aurava](auravam)
+narasiṃham (narasiṃha) candrahāsam (moon-smile) vīram (hero) svāyambhu (svāyambhu) rauravam (raurava)
 
 ## mukta-m0-p10-v238
-[rudra-divisions](rudrabhedāḥ) [are-declared](samākhyātāḥ) [ten-eighteen-or-upward](daśāṣṭādaśa+cordhvagāḥ)
+rudra-bhedāḥ (rudra-types) samākhyātāḥ (are-declared) daśa-aṣṭādaśa (ten-eighteen) ca (and) ūrdhvagāḥ (upward-going)
 
 ## mukta-m0-p10-v239
-[five-element](pañcabhūta) [division](vibhāgaṃ) [ca](ca) [void-division](śūnyabheda) [determination](vinirṇayam)
+pañca-bhūta (five-elements) vibhāgam (division) ca (and) śūnya-bheda (void-difference) vinirṇayam (determination)
 
 ## mukta-m0-p10-v240
-[kamboja](kambojaṃ) [kambala](kambalaṃ) [kaṅka](kaṅkaṃ) [kālakuṇḍa](kālakuṇḍaṃ) [kaṭāhaka](kaṭāhakam)
+kambojam (kamboja) kambalam (kambala) kaṅkam (kaṅka) kālakuṇḍam (kālakuṇḍa) kaṭāhakam (kaṭāhaka)
 
 ## mukta-m0-p10-v241
-[of-gāruḍa](gāruḍasya) [tu](tu) [these](ime) [divisions](bhedāḥ) [twenty-eight](aṣṭāviṃśatiḥ) [are-said](īritāḥ)
+gāruḍasya (of-garuḍa) tu (but) ime (these) bhedāḥ (types) aṣṭāviṃśatiḥ (twenty-eight) īritāḥ (declared)
 
 ## mukta-m0-p10-v242
-[asitāṅga](asitāṅgaṃ) [ruru](ruruṃ) [ca](ca) [eva](eva) [kapālīśa](kapālīśaṃ) [samuccaya](samuccayam)
+asitāṅgam (asitāṅga) rurum (ruru) ca (and) eva (indeed) kapālīśam (kapālīśa) samuccayam (collection)
 
 ## mukta-m0-p10-v243
-[bhīmāṅga](bhīmāṅgaṃ) [ḍāmarārāva](ḍāmarārāvaṃ) [bhīma](bhīmaṃ) [vetālamardaka](vetālamardakam)
+bhīmāṅgam (bhīmāṅga) ḍāmarārāvam (ḍāmarārāva) bhīmam (bhīma) vetāla-mardakam (vetāla-crusher)
 
 ## mukta-m0-p10-v244
-[triśira](triśiraṃ) [ca](ca) [ekapāda](ekapādaṃ) [tu](tu) [siddhayogeśvarī-mata](siddhayogeśvarīmatam)
+triśiram (triśira) ca (and) eka-pādam (one-foot) tu (but) siddha-yogeśvarī-matam (siddha-yogeśvarī-opinion)
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkoca](saṅkocaṃ) [tilaka-udyāna-bhairava](tilakodyānabhairavam)
+viśvarikaṇṭha (viśvarikaṇṭha) saṅkocam (contraction) tilaka-udyāna-bhairavam (tilaka-garden-bhairava)
 
 ## mukta-m0-p10-v246
-[sixty-four](catuḥṣaṣṭi) [measure](pramāṇāni) [from-southern-face](dakṣiṇāsyāt) [bhavāni](bhavāni) [ca](ca)
+catuḥ-ṣaṣṭi (sixty-four) pramāṇāni (measures) dakṣiṇa-āsya (right-face) bhavāni (born) ca (and)
 
 ## mukta-m0-p10-v247
-[hand-worship-rite](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantra](vīṇātantraṃ) [its-after](taduttaram)
+kara-pūjā (hand-worship) vidhānam (method) tu (but) vīṇā-tantram (vīṇā-tantra) tat-uttaram (after-that)
 
 ## mukta-m0-p10-v248
-[siddha-nitya-udaya](siddhanityodayaṃ) [jyeṣṭha](jyeṣṭhaṃ) [cintāmaṇi-mahodaya](cintāmaṇimahodayam)
+siddha-nitya-udayam (siddha-eternal-rise) jyeṣṭham (eldest) cintāmaṇi-mahodayam (cintāmaṇi-great-rise)
 
 ## mukta-m0-p10-v249
-[ānanda-rudra-bhadra-named](ānandarudrabhadrākhyaṃ) [kiṅkara](kiṅkaraṃ) [kiṅkara-anuga](kiṅkarānugam)
+ānanda-rudra-bhadra-ākhyam (ānanda-rudra-bhadra-named) kiṅkaram (servant) kiṅkara-anugam (servant-follower)
 
 ## mukta-m0-p10-v250
-[vāmada](vāmadaṃ) [vāmadeva-spoken](vāmadevoktaṃ) [twenty-four-division-born](caturviṃśatibhedagam)
+vāmadam (vāmada) vāmadeva-uktam (vāmadeva-spoken) catur-viṃśati-bheda-gam (twenty-four-type-going)
