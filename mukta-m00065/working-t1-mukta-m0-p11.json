@@ -20,7 +20,7 @@
 },
 {
 "surface": "khaḍgarāvaṇam",
-"quick_gloss": "sword-sheath"
+"quick_gloss": "sword-roar"
 }
 ]
 },
@@ -33,7 +33,7 @@
 "tokens": [
 {
 "surface": "ghorāṭṭahāsamucchiṣṭaṃ",
-"quick_gloss": "terrifying-laugh"
+"quick_gloss": "terrible-laugh"
 },
 {
 "surface": "ghurghuraṃ",
@@ -137,7 +137,7 @@
 },
 {
 "surface": "proktaṃ",
-"quick_gloss": "declared"
+"quick_gloss": "spoken"
 },
 {
 "surface": "śambhunāgamapañcakam",
@@ -154,7 +154,7 @@
 "tokens": [
 {
 "surface": "ekatrabhojanaṃ",
-"quick_gloss": "single-bowl-eating"
+"quick_gloss": "single-eating"
 },
 {
 "surface": "ghore",
@@ -170,7 +170,7 @@
 },
 {
 "surface": "tathā",
-"quick_gloss": "thus"
+"quick_gloss": "so"
 }
 ]
 },
@@ -186,8 +186,12 @@
 "quick_gloss": "should-practice"
 },
 {
-"surface": "samayān+pañca",
-"quick_gloss": "five-vows"
+"surface": "samayān",
+"quick_gloss": "vows"
+},
+{
+"surface": "pañca",
+"quick_gloss": "five"
 },
 {
 "surface": "yaḥ",
@@ -203,7 +207,7 @@
 },
 {
 "surface": "ucyate",
-"quick_gloss": "called"
+"quick_gloss": "is-called"
 }
 ]
 },
@@ -356,11 +360,11 @@
 "tokens": [
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "practitioner"
+"quick_gloss": "adept"
 },
 {
 "surface": "sādhayet",
-"quick_gloss": "should-accomplish"
+"quick_gloss": "accomplishes"
 },
 {
 "surface": "siddhiḥ",
@@ -372,7 +376,7 @@
 },
 {
 "surface": "dīkṣayet",
-"quick_gloss": "should-initiate"
+"quick_gloss": "initiates"
 },
 {
 "surface": "paśūn",
@@ -405,7 +409,7 @@
 },
 {
 "surface": "janmanaḥ",
-"quick_gloss": "birth"
+"quick_gloss": "from-birth"
 }
 ]
 },
@@ -418,7 +422,7 @@
 "tokens": [
 {
 "surface": "yuktiḥ",
-"quick_gloss": "reasoning"
+"quick_gloss": "method"
 },
 {
 "surface": "saṃsūcyate",
@@ -434,7 +438,7 @@
 },
 {
 "surface": "uktā",
-"quick_gloss": "spoken"
+"quick_gloss": "is-spoken"
 },
 {
 "surface": "pārameśvare",
@@ -450,8 +454,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nāśmādau",
+"surface": "nā",
 "quick_gloss": "not"
+},
+{
+"surface": "śmādau",
+"quick_gloss": "from-stone-etc"
 },
 {
 "surface": "śivatā",
@@ -487,12 +495,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "cāṇḍālo'sau",
-"quick_gloss": "that-chandala"
+"surface": "cāṇḍālo",
+"quick_gloss": "chandala"
+},
+{
+"surface": "asau",
+"quick_gloss": "that-one"
 },
 {
 "surface": "abhojyānnaḥ",
-"quick_gloss": "not-eatable-food"
+"quick_gloss": "unfit-for-food"
 },
 {
 "surface": "pātakī",
@@ -500,7 +512,7 @@
 },
 {
 "surface": "nātra",
-"quick_gloss": "no"
+"quick_gloss": "not"
 },
 {
 "surface": "saṃśayaḥ",
@@ -549,12 +561,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "liṅgādisthāpakāḥ",
+"surface": "liṅgādisthāpakā",
 "quick_gloss": "linga-etc-installer"
 },
 {
 "surface": "ye",
-"quick_gloss": "those"
+"quick_gloss": "who"
 },
 {
 "surface": "ca",
@@ -565,7 +577,7 @@
 "quick_gloss": "those"
 },
 {
-"surface": "cāṇḍālasamāḥ",
+"surface": "cāṇḍālasamā",
 "quick_gloss": "chandala-equal"
 },
 {
@@ -594,20 +606,12 @@
 "quick_gloss": "shudra"
 },
 {
-"surface": "śūdrāt",
-"quick_gloss": "from-shudra"
-},
-{
-"surface": "pāpataraḥ",
-"quick_gloss": "more-sinful"
-},
-{
-"surface": "tu",
-"quick_gloss": "but"
+"surface": "śūdrātpāpatarastu",
+"quick_gloss": "from-shudra-more-sinful"
 },
 {
 "surface": "saḥ",
-"quick_gloss": "he"
+"quick_gloss": "that-one"
 }
 ]
 },
@@ -623,11 +627,11 @@
 "quick_gloss": "by-conduct"
 },
 {
-"surface": "siddhāḥ",
+"surface": "siddhā",
 "quick_gloss": "perfected"
 },
 {
-"surface": "vasiṣṭhādyāḥ",
+"surface": "vasiṣṭhādyā",
 "quick_gloss": "vasishtha-etc"
 },
 {
@@ -722,15 +726,15 @@
 "quick_gloss": "they"
 },
 {
-"surface": "krūrāḥ",
+"surface": "krūrā",
 "quick_gloss": "cruel"
 },
 {
-"surface": "dhvaṃsakāḥ",
+"surface": "dhvaṃsakā",
 "quick_gloss": "destroyers"
 },
 {
-"surface": "jñeyāḥ",
+"surface": "jñeyā",
 "quick_gloss": "to-be-known"
 },
 {

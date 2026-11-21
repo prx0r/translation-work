@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-granthi-rūpa-unnata-granthi-jaṭhara-āmaya-dāyaka(granthirūponnatagranthirjaṭharāmayadāyaka)
+knot-form-raised-knot-belly-disease-giving(granthirūponnatagranthirjaṭharāmayadāyaka)
 
 ## mukta-m0-p21-v502
-tuṣāram(tuṣāraṃ) tad(tadvijānīyā) vijānīyā(tadvijānīyā) putra-śoka-ārti-dāyakam(putraśokārtidāyakam)
+frost(tuṣāraṃ) that-know(tadvijānīyā) son-grief-pain-giving(putraśokārtidāyakam)
 
 ## mukta-m0-p21-v503
-hema-ghoṣa-āmayam(hemaghoṣāmayaṃ) tāmra(tāmra) tad(tadduṣṭaṃ) duṣṭam(tadduṣṭaṃ) piṅgalā-mate(piṅgalāmate)
+gold-sound-disease(hemaghoṣāmayaṃ) copper(tāmra) that-corrupt(tadduṣṭaṃ) yellow-mind(piṅgalāmate)
 
 ## mukta-m0-p21-v504
-janam(janaṃ) hanti(hantyāyasākrāntā) āyasa-ākrāntā(hantyāyasākrāntā) śilā(śilā) tāmī(tāmī) ca(ca) śilpinam(śilpinam)
+people(janaṃ) kills(hantyāyasākrāntā) stone(śilā) copper(tāmī) and(ca) artisan(śilpinam)
 
 ## mukta-m0-p21-v505
-kṛṣṇaḥ(kṛṣṇaḥ) pītaḥ(pīto'ruṇo) aruṇaḥ(pīto'ruṇo) binduḥ(binduḥ) sa(sa) śoka-bhaya-roga-daḥ(śokabhayarogadaḥ)
+black(kṛṣṇaḥ) yellow(pīto) red(ruṇo) spot(binduḥ) he(sa) grief-fear-disease-giving(śokabhayarogadaḥ)
 
 ## mukta-m0-p21-v506
-pīte(pīte) dhana-kṣayaḥ(dhanakṣayaḥ) kartuḥ(kartuḥ) kṛṣṇe(kṛṣṇe) bandhaḥ(bandho) dvayoḥ(dvayordvidhā) dvidhā(dvayordvidhā)
+in-yellow(pīte) wealth-loss(dhanakṣayaḥ) maker's(kartuḥ) in-black(kṛṣṇe) bondage(bandho) of-two(dvayor) twofold(dvidhā)
 
 ## mukta-m0-p21-v507
-rekhā(rekhā) rekhā-anubiddhā(rekhānubiddhā) vā(vā) pārthivam(pārthivaṃ) sā(sā) vināśayet(vināśayet)
+line(rekhā) line-pierced(rekhānubiddhā) or(vā) earthly(pārthivaṃ) she(sā) destroy(vināśayet)
 
 ## mukta-m0-p21-v508
-svāmidhnī(svāmidhnī) ca(ca) catuḥ-chinnā(catuśchinnā) bahu-chinnā(bahucchinnā) kula-anta-kṛt(kulāntakṛt)
+owner-killing(svāmidhnī) and(ca) four-cut(catuśchinnā) many-cut(bahucchinnā) family-end-making(kulāntakṛt)
 
 ## mukta-m0-p21-v509
-makṣikā(makṣikā) makṣikā-ākārā(makṣikākārā) tayā(tayā) kuṣṭham(kuṣṭhaṃ) su-dāruṇam(sudāruṇam)
+fly(makṣikā) fly-shaped(makṣikākārā) by-that(tayā) leprosy(kuṣṭhaṃ) very-terrible(sudāruṇam)
 
 ## mukta-m0-p21-v510
-tadā(tadā) nānā(nānā) gadān(gadān) kuryāt(kuryāt) kartuḥ(kartuścaiva) ca(ca) eva(eva) na(na) saṃśayaḥ(saṃśayaḥ)
+then(tadā) various(nānā) diseases(gadān) make(kuryāt) maker's-and(kartuścaiva) no(na) doubt(saṃśayaḥ)
 
 ## mukta-m0-p21-v511
-tyājyam(tyājyaṃ) tadā(tadā) tri-dhā(tridhā) liṅgam(liṅgaṃ) nṛpa-rāṣṭra-prajā-arthinā(nṛparāṣṭraprajārthinā)
+abandonable(tyājyaṃ) then(tadā) threefold(tridhā) sign(liṅgaṃ) king-realm-subjects-desiring(nṛparāṣṭraprajārthinā)
 
 ## mukta-m0-p21-v512
-vāma-pārśva-āśritaḥ(vāmapārśvāśritaḥ) kiṃcit(kiṃciddhanyādrāṣṭraṃ) hanyāt(kiṃciddhanyādrāṣṭraṃ) rāṣṭram(rāṣṭraṃ) sa-rājakam(sarājakam)
+left-side-residing(vāmapārśvāśritaḥ) somewhat(kiṃciddhanyādrāṣṭraṃ) kills(hanyādrāṣṭraṃ) realm(sarājakam) with-king(sarājakam)
 
 ## mukta-m0-p21-v513
-sarva-varṇā(sarvavarṇā) bhṛśam(bhṛśaṃ) nūnam(nūnaṃ) prāṇa-hṛt(prāṇahṛtkṛṣṇahīrikā) kṛṣṇa-hīrikā(prāṇahṛtkṛṣṇahīrikā)
+all-colors(sarvavarṇā) intensely(bhṛśaṃ) indeed(nūnaṃ) life-taking(prāṇahṛtkṛṣṇahīrikā)
 
 ## mukta-m0-p21-v514
-unnataḥ(unnato) lakṣyate(lakṣyate) yaḥ(yaśca) ca(ca) viḍāla-aṅghriḥ(viḍālāṅghriḥ) sa(sa) doṣa-bhāk(doṣabhāk)
+raised(unnato) seen(lakṣyate) who(yaśca) cat-foot(viḍālāṅghriḥ) he(sa) fault-bearing(doṣabhāk)
 
 ## mukta-m0-p21-v515
-śilāyāḥ(śilāyā) rūpam(rūpamālakṣya) ālakṣya(rūpamālakṣya) tyajet(tyajettāmaśubhapradām) tām(tyajettāmaśubhapradām) aśubha-pradām(tyajettāmaśubhapradām)
+stone's(śilāyā) form(rūpamālakṣya) observing(ālakṣya) abandon(tyajettāmaśubhapradām) that-in-auspicious-giving(tāmaśubhapradām)
 
 ## mukta-m0-p21-v516
-svalpa-doṣān(svalpadoṣān) prakṣyāmi(prakṣyāmi) yathā(yathā) śāstreṣu(śāstreṣu) bhāṣitān(bhāṣitān)
+small-faults(svalpadoṣān) I-will-declare(prakṣyāmi) as(yathā) in-treatises(śāstreṣu) spoken(bhāṣitān)
 
 ## mukta-m0-p21-v517
-valmīka-uṣara-citya-utthā(valmīkoṣaracityutthā) koṣṇā(koṣṇā) kṣāra-ambu-madhya-gā(kṣārāmbumadhyagā)
+ant-hill-ash-pit-risen(valmīkoṣaracityutthā) warm(koṣṇā) alkaline-water-middle-going(kṣārāmbumadhyagā)
 
 ## mukta-m0-p21-v518
-kudik-sthā(kudiksthā) sūrya-santaptā(sūryasantaptā) kad-utthām(kadutthāmethyadūṣitā) eti(kadutthāmethyadūṣitā) adūṣitā(kadutthāmethyadūṣitā)
+bad-place-residing(kudiksthā) sun-heated(sūryasantaptā) bitter-risen(kadutthāmethyadūṣitā) methya-corrupt(methyadūṣitā)
 
 ## mukta-m0-p21-v519
-duṣṭa-jīva-svarā(duṣṭajīvasvarā) yā(yā) ca(ca) yojitā(yojitā) na(nānyakarmaṇi) anya-karmaṇi(nānyakarmaṇi)
+corrupt-life-sound(duṣṭajīvasvarā) which(yā) and(ca) joined(yojitā) not-other-work(nānyakarmaṇi)
 
 ## mukta-m0-p21-v520
-yā(yā) yopa-lāna-ulagnā(yopalānulagnā) sā(sā) sneha-vicchitti-kārikāḥ(snehavicchittikārikāḥ)
+which(yā) stone-adhering(yopalānulagnā) she(sā) affection-cutting-making(snehavicchittikārikāḥ)
 
 ## mukta-m0-p21-v521
-ūṣara-sthā(ūṣarasthā) artha-hṛt(arthahṛjjñeyā) jñeyā(arthahṛjjñeyā) citi-sthā(citisthā) duḥkha-dāyinī(duḥkhadāyinī)
+saline-place-residing(ūṣarasthārthahṛjjñeyā) wealth-heart(ūṣarasthārthahṛjjñeyā) known(jñeyā) thought-place(citisthā) pain-giving(duḥkhadāyinī)
 
 ## mukta-m0-p21-v522
-pāṣadā(pāṣadāpuṇyadeśasthā) apuṇya-deśa-sthā(pāṣadāpuṇyadeśasthā) vadha-kṛt(vadhakṛdbhilla) bhilla(bhilla) sevitā(sevitā)
+stone-inauspicious-place-residing(pāṣadāpuṇyadeśasthā) killing-making(vadhakṛdbhilla) tribe(bhilla) served(sevitā)
 
 ## mukta-m0-p21-v523
-dāham(dāhaṃ) hānim(hāniṃ) ca(ca) śokam(śokaṃ) ca(ca) naiḥsvam(naiḥsvaṃ) rogām(rogām) tathā(tathāvahet) āvahet(tathāvahet)
+burning(dāhaṃ) loss(hāniṃ) and(ca) grief(śokaṃ) and(ca) poverty(naiḥsvaṃ) disease(rogam) thus-bring(tathāvahet)
 
 ## mukta-m0-p21-v524
-surā-pakṣi-vasā-gandhā(surāpakṣivasāgandhā) udvega-jananī(udvegajananī) śilā(śilā)
+liquor-wing-fat-smell(surāpakṣivasāgandhā) anxiety-producing(udvegajananī) stone(śilā)
 
 ## mukta-m0-p21-v525
-vajra-dagdhā(vajradagdhāgnidagdhā) agni-dagdhā(vajradagdhāgnidagdhā) ca(ca) rājñaḥ(rājño'nalabhayapradā) anala-bhaya-pradā(rājño'nalabhayapradā)
+thunderbolt-burnt(vajradagdhāgnidagdhā) fire-burnt(agnidagdhā) and(ca) king's(rājño) fire-fear-giving(nalabhayapradā)
