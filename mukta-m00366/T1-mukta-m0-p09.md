@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[khaḍgīśo](khaḍgīśo) [jvālinī](jvālinī) [vakṣaḥ](vakṣaḥ) [kalasaṃ](kalasaṃ) [dhvanivācakaḥ](dhvanivācakaḥ)
+[word](khaḍgīśo) [word](jvālinī) [word](vakṣaḥ) [word]([vaṅkaḥ) [word](+) [word](raṅkaḥ) [word](kalasaṃ) [word](ravi]) [word](kalasaṃ) [word](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[tridhātuḥ](tridhātuḥ) [śaṅkaraḥ](śaṅkaraḥ) [śreṣṭho](śreṣṭho) [viśeṣo](viśeṣo) [yamasādanam](yamasādanam)
+[word](12) [word](tridhātuḥ) [word](śaṅkaraḥ) [word](śreṣṭho) [word](viśeṣo) [word](yamasādanam)
 
 ## mukta-m0-p09-v203
-[śa](śa)
+[word](śa)
 
 ## mukta-m0-p09-v204
-[saukhyanāmā](saukhyanāmā) [kumāro'sthi](kumāro'sthi) [śrīkaṇṭho](śrīkaṇṭho) [vṛṣaketanaḥ](vṛṣaketanaḥ)
+[word](saukhyanāmā) [word](kumāro'sthi) [word](śrīkaṇṭho) [word](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[mṛtyudevo](mṛtyudevo) [mahālakṣmīrmahendraḥ](mahālakṣmīrmahendraḥ) [kulakaulinī](kulakaulinī)
+[word](16) [word](mṛtyudevo) [word]([mṛtyurdevo]) [word](mahālakṣmīrmahendraḥ) [word](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[vāmoruḥ](vāmoruḥ) [puṇḍarīkātmā](puṇḍarīkātmā) [kāntiḥ](kāntiḥ) [kalyāṇavācakaḥ](kalyāṇavācakaḥ)
+[word](vāmoruḥ) [word](puṇḍarīkātmā) [word](kāntiḥ) [word](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[parameṣṭhī](parameṣṭhī) [vāmabāhuḥ](vāmabāhuḥ) [śreṣṭho](śreṣṭho) [garbhavimocanaḥ](garbhavimocanaḥ)
+[word](parameṣṭhī) [word](vāmabāhuḥ) [word](śreṣṭho) [word](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[suśrīruṣmā](suśrīruṣmā) [vṛṣo](vṛṣo) [lajjā](lajjā) [marudbhakṣyaḥ](marudbhakṣyaḥ) [priyaḥ](priyaḥ) [śivaḥ](śivaḥ)
+[word](4) [word](suśrīruṣmā) [word](vṛṣo) [word](lajjā) [word](marudbhakṣyaḥ) [word](priyaḥ) [word](śivaḥ)
 
 ## mukta-m0-p09-v209
-[kalakaṇṭho](kalakaṇṭho) [madhyabhinnā](madhyabhinnā) [yuddhātmā](yuddhātmā) [khalpūḥ](khalpūḥ) [śiraḥ](śiraḥ)
+[word](kalakaṇṭho) [word](madhyabhinnā) [word](yuddhātmā) [word](khalpūḥ) [word]([malapuḥ]) [word](śiraḥ)
 
 ## mukta-m0-p09-v210
-[jagadbījaṃ](jagadbījaṃ) [śaktināmā](śaktināmā) [so'haṃ](so'haṃ) [vega(śa)vatī](vega(śa)vatī) [bhṛguḥ](bhṛguḥ)
+[word](8) [word](jagadbījaṃ) [word](śaktināmā) [word](so'haṃ) [word]([moho]) [word](vega(śa)vatī) [word](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[dakṣapādo'mṛtaṃ](dakṣapādo'mṛtaṃ) [brāhmī](brāhmī) [paramātmā](paramātmā) [paro'kṣaraḥ](paro'kṣaraḥ)
+[word](dakṣapādo'mṛtaṃ) [word](brāhmī) [word](paramātmā) [word](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[prāṇādyastripurādevī](prāṇādyastripurādevī) [lakṣmīḥ](lakṣmīḥ) [somo](somo) [hiraṇyabhūḥ](hiraṇyabhūḥ)
+[word](12) [word](prāṇādyastripurādevī) [word]([śca) [word](purā) [word](devī]) [word](lakṣmīḥ) [word](somo) [word](hiraṇyabhūḥ) [word]([hiraṇyapuḥ])
 
 ## mukta-m0-p09-v213
-[durgottāriṇī](durgottāriṇī) [sammohā](sammohā) [jīvo](jīvo) [mūrtimanoharaḥ](mūrtimanoharaḥ)
+[word](durgottāriṇī) [word](sammohā) [word](jīvo) [word](mūrtimanoharaḥ) [word]([manojavaḥ])
 
 ## mukta-m0-p09-v214
-[nakulīśo](nakulīśo) [jagatprāṇaḥ](jagatprāṇaḥ) [prāṇeśaḥ](prāṇeśaḥ) [kapilā'malaḥ](kapilā'malaḥ)
+[word](nakulīśo) [word](jagatprāṇaḥ) [word](prāṇeśaḥ) [word](kapilā'malaḥ) [word]([malaḥ) [word](+) [word](mataḥ])
 
 ## mukta-m0-p09-v215
-[mṛgo'bhayā'ruṇā](mṛgo'bhayā'ruṇā) [sthāṇuḥ](sthāṇuḥ) [kroṣṭuḥ](kroṣṭuḥ) [kūpavirāvaṇaḥ](kūpavirāvaṇaḥ)
+[word](mṛgo'bhayā'ruṇā) [word](sthāṇuḥ) [word](kroṣṭuḥ) [word](kūpavirāvaṇaḥ) [word]([kraṭakūpavirāvaṇaḥ) [word](+) [word](kūṭakoparivāraṇaḥ])
 
 ## mukta-m0-p09-v216
-[sva(sa)kopavāraṇaḥ](sva(sa)kopavāraṇaḥ) [śūlī](śūlī) [caitanyaṃ](caitanyaṃ) [pādapūraṇaḥ](pādapūraṇaḥ)
+[word](1) [word](sva(sa)kopavāraṇaḥ) [word](śūlī) [word](caitanyaṃ) [word](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[bindurdurgā](bindurdurgā) [priyā](priyā) [devī](devī) [meghaḥ](meghaḥ) [śyāmeśvaraḥ](śyāmeśvaraḥ) [pumān](pumān)
+[word](bindurdurgā) [word](priyā) [word](devī) [word](meghaḥ) [word](śyāmeśvaraḥ) [word](pumān)
 
 ## mukta-m0-p09-v218
-[dakṣapādaḥ](dakṣapādaḥ) [sadā](sadā) [śambhuḥ](śambhuḥ) [sākhoṭaḥ](sākhoṭaḥ) [somamaṇḍalam](somamaṇḍalam)
+[word](4) [word](dakṣapādaḥ) [word](sadā) [word](śambhuḥ) [word](sākhoṭaḥ) [word](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[vyāpinī](vyāpinī) [śivadā](śivadā) [keturjagat](keturjagat) [sīrataraṃ](sīrataraṃ) [haṭhaḥ](haṭhaḥ)
+[word](vyāpinī) [word](śivadā) [word](keturjagat) [word](sīrataraṃ) [word](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[jaṭharo](jaṭharo) [nakuliḥ](nakuliḥ) [pītaḥ](pītaḥ) [śiveśo'naṅgamālinī](śiveśo'naṅgamālinī)
+[word](8) [word](jaṭharo) [word](nakuliḥ) [word](pītaḥ) [word]([pītā]) [word](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[kṣa](kṣa)
+[word](kṣa)
 
 ## mukta-m0-p09-v222
-[nṛsiṃho](nṛsiṃho) [vidyutā](vidyutā) [māyā](māyā) [mahātejā](mahātejā) [yugāntakaḥ](yugāntakaḥ)
+[word](nṛsiṃho) [word](vidyutā) [word](māyā) [word](mahātejā) [word](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[sarvāṅgaṃ](sarvāṅgaṃ) [sāgaraḥ](sāgaraḥ) [kāmaḥ](kāmaḥ) [saṃyogāntastripūrakaḥ](saṃyogāntastripūrakaḥ)
+[word](12) [word](sarvāṅgaṃ) [word]([sarvāṃgaḥ]) [word](sāgaraḥ) [word](kāmaḥ) [word](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[mukhaṃ](mukhaṃ) [kavyaṃ](kavyaṃ) [mahānantā](mahānantā) [kālajihvā](kālajihvā) [gaṇeśvaraḥ](gaṇeśvaraḥ)
+[word](mukhaṃ) [word](kavyaṃ) [word](mahānantā) [word]([kavyavahā'nantā]) [word](kālajihvā) [word](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[chāyāputraśca](chāyāputraśca) [saṃghāto](saṃghāto) [malayaśrīrlalāṭakaḥ](malayaśrīrlalāṭakaḥ)
+[word](chāyāputraśca) [word](saṃghāto) [word](malayaśrīrlalāṭakaḥ)
