@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p12-v276
-[that](tat) [light](prakāśaṃ) [without](vinā) [succeeds-not](sidhyenna) [in-any-way](kathañcana) [of-anyone](kasyacit)
+[tat](tat) [prakāśaṃ](prakāśaṃ) [vinā](vinā) [sidhyet](sidhyet) [na](na) [kathañcana](kathañcana) [kasyacit](kasyacit)
 
 ## mukta-m0-p12-v277
-[of-other](parasya) [non-establishment](aparaniṣṭhatvāt) [not](na) [unity](tvaikyaṃ) [conscious-inert-selves](cijjaḍātmanoḥ)
+[parasya](parasya) [apara-niṣṭhatvāt](apara-niṣṭhatvāt) [na](na) [tva-ekyaṃ](tvaikyaṃ) [cit-jaḍa-ātmanoḥ](cijjaḍātmanoḥ)
 
 ## mukta-m0-p12-v278
-[self-drawn-line-form](svollekharekhāsaṃsthānaṃ) [that](tat) [independent](svatantraṃ) [conscious-natured](cidātmakam)
+[sva-ullekha-rekhā-saṃsthānaṃ](svollekharekhāsaṃsthānaṃ) [tat](tat) [svatantraṃ](svatantraṃ) [cit-ātmakam](cidātmakam)
 
 ## mukta-m0-p12-v279
-[through-senses](indriyadvārataḥ) [afterwards](paścād) [appearance-of-beings](bhāvābhāsaḥ) [proceeds](pravartate)
+[indriya-dvārataḥ](indriyadvārataḥ) [paścāt](paścād) [bhāva-ābhāsaḥ](bhāvābhāsaḥ) [pravartate](pravartate)
 
 ## mukta-m0-p12-v280
-[that](tad) [here](atra) [as-much-as](yāvat) [by-guru](guruṇā) [of-universe](viśvasya) [arising-establishment](udayasaṃsthitiḥ)
+[tat](tat) [atra](atra) [yāvat](yāvad) [guruṇā](guruṇā) [viśvasya](viśvasya) [udaya-saṃsthitiḥ](udayasaṃsthitiḥ)
 
 ## mukta-m0-p12-v281
-[therefore](ataḥ) [everywhere](sarvatra) [of-wheels](cakrāṇāṃ) [own-form](svarūpa) [manifestation](pratipādanam)
+[ataḥ](ataḥ) [sarvatra](sarvatra) [cakrāṇāṃ](cakrāṇāṃ) [svarūpa-pratipādanam](svarūpapratipādanam)
 
 ## mukta-m0-p12-v282
-[waterwheel-nyāya](āraghaṭṭaghaṭīyantranyāyena) [thus-far](aitāvataḥ) [always](sadā)
+[āraghaṭṭa-ghaṭī-yantra-nyāyena](āraghaṭṭaghaṭīyantranyāyena) [etāvataḥ](etāvataḥ) [sadā](sadā)
 
 ## mukta-m0-p12-v283
-[by-many-steps](anekakramayogena) [also](api) [drawn](ākṣipte) [range](gocaram)
+[aneka-krama-yogena](anekakramayogena) [api](api) [ākṣipte](ākṣipte) [gocaram](gocaram)
 
 ## mukta-m0-p12-v284
-[from-void](śūnyād) [beginning](ārabhya) [to-body](dehāntaṃ) [contracted-nature](saṅkocātmā) [indeed](hi) [who-before](yo'grataḥ)
+[śūnyāt](śūnyād) [ārabhya](ārabhya) [deha-antaṃ](dehāntaṃ) [saṅkoca-ātmā](saṅkocātmā) [hi](hi) [yaḥ](yo) [agrataḥ](agrataḥ)
 
 ## mukta-m0-p12-v285
-[that](tad) [here](atra) [as-much-as](yāvat) [saṃsāra](saṃsāraḥ) [in-that-form](tattadrūpatayā) [stands](sthitaḥ)
+[tat](tat) [atra](atra) [yāvat](yāvat) [saṃsāraḥ](saṃsāraḥ) [tad-tad-rūpatayā](tattadrūpatayā) [sthitaḥ](sthitaḥ)
 
 ## mukta-m0-p12-v286
-[not](na) [by-abandonment-of-being](bhāvatyāgataḥ) [liberation](muktir) [nor](nāpi) [by-enjoyment-of-being](bhāvopabhogataḥ)
+[na](na) [bhāva-tyāgataḥ](bhāvatyāgataḥ) [muktiḥ](muktir) [na](na) [api](api) [bhāva-upabhogataḥ](bhāvopabhogataḥ)
 
 ## mukta-m0-p12-v287
-[without-attachment](anāgrahāt) [or](vā) [with-attachment](āgrahāt) [of-anyone](kasyacit) [not](nāpi) [real](tāttvikī)
+[anāgrahāt](anāgrahād) [āgrahāt](āgrahād) [vā](vā) [kasyacit](kasyacit) [na](na) [api](api) [tāttvikī](tāttvikī)
 
 ## mukta-m0-p12-v288
-[on-which-depends](yadapekṣāvaśāt) [all](sarvāḥ) [saṃsāra-other](saṃsāronyā) [liberations](vimuktayaḥ)
+[yad-apekṣā-vaśāt](yadapekṣāvaśāt) [sarvāḥ](sarvāḥ) [saṃsāra-anya](saṃsāronyā) [vimuktayaḥ](vimuktayaḥ)
 
 ## mukta-m0-p12-v289
-[by-practice-of-contracting](saṅkocadalanābhyāsāt) [to-vasanā-ground](vāsanālayabhūmigam)
+[saṅkoca-dalanābhyāsāt](saṅkocadalanābhyāsād) [vāsanā-ālaya-bhūmi-gam](vāsanālayabhūmigam)
 
 ## mukta-m0-p12-v290
-[of-swarm-sequence](vṛndakramasya) [arrangement](saṃsthānaṃ) [is-said](kathyate) [by-guru-grace](gurvanugrahāt)
+[vṛnda-kramasya](vṛndakramasya) [saṃsthānaṃ](saṃsthānaṃ) [kathyate](kathyate) [guru-anugrahāt](gurvanugrahāt)
 
 ## mukta-m0-p12-v291
-[of-universe](viśvasya) [being](bhāvaḥ) [suddenly](sahasā) [in-own-form](svasvarūpe) [is-discerned](vicīyate)
+[viśvasya](viśvasya) [bhāvaḥ](bhāvaḥ) [sahasā](sahasā) [sva-svarūpe](svasvarūpe) [vicīyate](vicīyate)
 
 ## mukta-m0-p12-v292
-[similar](sadṛśāḥ) [are-manifested](pratipādyante) [by-cārvāka-dvaita](cārvākādvayavādibhiḥ)
+[sadṛśāḥ](sadṛśāḥ) [pratipādyante](pratipādyante) [cārvāka-advaya-vādibhiḥ](cārvākādvayavādibhiḥ)
 
 ## mukta-m0-p12-v293
-[by-them](taiḥ) [inert](jaḍāḥ) [are-deceived](vipralamyante) [by-similar](sadṛśaiḥ) [expressers](abhidhāyakaiḥ)
+[taiḥ](tair) [jaḍāḥ](jaḍāḥ) [vipralamyante](vipralamyante) [sadṛśaiḥ](sadṛśair) [abhidhāyakaiḥ](abhidhāyakaiḥ)
 
 ## mukta-m0-p12-v294
-[by-great-system-teaching](mahānayopadeśena) [are-cast-down](pātyete) [self-other-boundary](svaparāvadhaḥ)
+[mahānaya-upadeśena](mahānayopadeśena) [pātyete](pātyete) [sva-para-avadhaḥ](svaparāvadhaḥ)
 
 ## mukta-m0-p12-v295
-[stands](sthitaḥ) [contraction-impression](saṅkocasaṃskāraḥ) [what](kā) [talk](kathā) [in-others](anyeṣu) [creatures](jantuṣu)
+[sthitaḥ](sthitaḥ) [saṅkoca-saṃskāraḥ](saṅkocasaṃskāraḥ) [kā](kā) [kathā](kathā) [anyeṣu](anyeṣu) [jantuṣu](jantuṣu)
 
 ## mukta-m0-p12-v296
-[by-all-attachment-grasper-power](sarvāgrahagrāhavaśāt) [jīvanmukti](jīvanmuktiḥ) [shines](prakāśate)
+[sarva-āgraha-grāha-vaśāt](sarvāgrahagrāhavaśāt) [jīvanmuktiḥ](jīvanmuktiḥ) [prakāśate](prakāśate)
 
 ## mukta-m0-p12-v297
-[without-thought-thought-nature](avikalpavikalpātma) [steadiness-form](sthairyarūpatayā) [again](punaḥ)
+[avikalpa-vikalpa-ātma-sthairya-rūpatayā](avikalpavikalpātmasthairyarūpatayā) [punaḥ](punaḥ)
 
 ## mukta-m0-p12-v298
-[by-various-attachment-knots](nānāvidhāgrahagranthi) [vasanā-piercing-growth](vāsanāvedhabṛṃhitaḥ)
+[nānā-vidha-āgraha-granthi-vāsanā-vedha-bṛṃhitaḥ](nānāvidhāgrahagranthivāsanāvedhabṛṃhitaḥ)
 
 ## mukta-m0-p12-v299
-[therefore](ataḥ) [dissolution-form](saṃhārarūpaḥ) [this](ayaṃ) [without](vinā) [how](katham)
+[ataḥ](ataḥ) [saṃhāra-rūpaḥ](saṃhārarūpo) [ayaṃ](ayaṃ) [vinā](vinā) [katham](katham)
 
 ## mukta-m0-p12-v300
-[therefore](tasmāt) [own-form-firmness](svarūpadārḍhyena) [all-covering-breaking](sarvāvaraṇabhedinā)
+[tasmāt](tasmāt) [sva-rūpa-dārḍhyena](svarūpadārḍhyena) [sarva-āvaraṇa-bhedinā](sarvāvaraṇabhedinā)
