@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-great-jewel(mahāratnaṃ) great-value(mahāmūlyaṃ) virtue-endowed(guṇayuktaṃ) worship(yajet) always(sadā)
+[mahāratnam](mahāratnaṃ) [mahāmūlyam](mahāmūlyaṃ) [guṇayuktam](guṇayuktaṃ) [yajet](yajet) [sadā](sadā)
 
 ## mukta-m0-p03-v52
-radiance(supratāpaḥ) fame(yaśaḥ) and(ca) life(āyuḥ) become(bhaveyuḥ) king's(nṛpateḥ) long(ciram)
+[supratāpaḥ](supratāpo) [yaśaḥ](yaśaś) [ca](ca) [āyuḥ](āyur) [bhavet](bhaveyur) [nṛpateḥ](nṛpateś) [ciram](ciram)
 
 ## mukta-m0-p03-v53
-blue(nīlaṃ) yellow(pītaṃ) white(sitaṃ) and(ca) api(api) auspicious(śastaṃ) jewel(ratnam) unmade(anirmitam)
+[nīlam](nīlaṃ) [pītam](pītaṃ) [sitam](sitaṃ) [ca](ca) [api](api) [śastam](śastaṃ) [ratnam](ratnam) [anirmitam](anirmitam)
 
 ## mukta-m0-p03-v54
-conch-crystal-like(śaṅkhasphaṭikasaṃkāśaṃ) javā-red-glow(javārambhādaladyuti)
+[śaṅkha](śaṅkha) [sphaṭika](sphaṭika) [saṃkāśam](saṃkāśaṃ) [javā](javā) [ārambhāt](ārambhāt) [aladyuti](aladyuti)
 
 ## mukta-m0-p03-v55
-washed-white(dhautāsyābho) twice-born(dvijātīnāṃ) king-worthy(nṛpārhau) yellow-red(pītaraktakau)
+[dhautāsyābhaḥ](dhautāsyābho) [dvijātīnām](dvijātīnāṃ) [nṛpārhau](nṛpārhau) [pīta](pīta) [raktakau](raktakau)
 
 ## mukta-m0-p03-v56
-that-mark(talliṅgam) life's(āyuṣo) growth(vṛddhayai) all-diseases-destroyer(sarvarogavināśakam)
+[talliṅgam](talliṅgam) [āyuṣaḥ](āyuṣo) [vṛddhyai](vṛddhayai) [sarvaroga](sarvaroga) [vināśakam](vināśakam)
 
 ## mukta-m0-p03-v57
-Indra-fire-friend-born(śakrāgni(gnī) casamitroye) fourfold(caturdhā) sometimes(tatkvacin) opinion(matam)
+[śakrāgni](śakrāgni) [casamitroye](casamitroye) [caturdhā](caturdhā) [tat](tat) [kvacinmatam](kvacinmatam)
 
 ## mukta-m0-p03-v58
-autumn-water-like(śaradambunibhaṃ) clear(svacchaṃ) smooth(snigdhaṃ) crystal(sphāṭikaṃ) beneficial(hitaṃ)
+[śaradambu](śaradambu) [nibham](nibhaṃ) [svaccham](svacchaṃ) [snigdham](snigdhaṃ) [ca](ca) [sphāṭikam](sphāṭikaṃ) [hitam](hitam)
 
 ## mukta-m0-p03-v59
-with-inclusion(sagarbham) wave-joined(ūrmisaṃyuktaṃ) light-pearl-dense(jyotirmuktaghanaṃ) reject(tyajet)
+[sagarbha](sagarbha) [mūrmi](mūrmi) [saṃyuktam](saṃyuktaṃ) [jyotirmuktaghanam](jyotirmuktaghanaṃ) [tyajet](tyajet)
 
 ## mukta-m0-p03-v60
-thick(sthūlaṃ) long(dīrgha) kuśa(kuśaṃ) short(hrasvaṃ) middle-etc(madhyādyanteṣu) or(vā) thin(kṛśam)
+[sthūlam](sthūlaṃ) [dīrgham](dīrgha) [kuśam](kuśaṃ) [hrasvam](hrasvaṃ) [madhyādi](madhyādi) [anteṣu](anteṣu) [vā](vā) [kṛśam](kṛśam)
 
 ## mukta-m0-p03-v61
-other-born-adhering(anyajātivilagnaṃ) pierced(viddhaṃ) fear-causing(bhītikaraṃ) reject(tyajet)
+[anyajāti](anyajāti) [vilagnam](vilagnaṃ) [ca](ca) [viddham](viddhaṃ) [bhītikaram](bhītikaraṃ) [tyajet](tyajet)
 
 ## mukta-m0-p03-v62
-crystal(sphāṭikaṃ) linga(liṅgam) desired-aim(iṣṭārthaṃ) death-conquering(mṛtyujit) desire-giving(kāmadaṃ) worship(yajet)
+[sphāṭikam](sphāṭikaṃ) [liṅgam](liṅgam) [iṣṭārtham](iṣṭārthaṃ) [mṛtyujit](mṛtyujit) [kāmadam](kāmadaṃ) [yajet](yajet)
 
 ## mukta-m0-p03-v63
-linga(liṅgaṃ) ever-fire-sacrifice-like(sadāgnihotrābhaṃ) worship(pūjya) no(na) harm-doing(doṣakṛn) to-men(nṛṇām)
+[liṅgam](liṅgaṃ) [sadā](sadā) [agnihotrābham](agnihotrābhaṃ) [pūjya](pūjya) [no](no) [doṣakṛt](doṣakṛn) [nṛṇām](nṛṇām)
 
 ## mukta-m0-p03-v64
-always(sadā) low(nimnena) success(siddhiḥ) syāt(syāt) high(ucca) high-result(uccā) equal(same) equal(samā)
+[sadā](sadā) [nimnena](nimnena) [siddhiḥ](siddhiḥ) [syāt](syāt) [ucce](ucce) [tu](tu) [uccā](uccā) [same](same) [samā](samā)
 
 ## mukta-m0-p03-v65
-jewel-linga(ratnaliṅgaṃ) twofold(dvidhākhyātaṃ) own-pedestal(svapīṭhaṃ) metal-pedestal-born(dhātupīṭhajam)
+[ratnaliṅgam](ratnaliṅgaṃ) [dvidhā](dvidhā) [khyātam](khyātaṃ) [svapīṭham](svapīṭhaṃ) [dhātupīṭhajam](dhātupīṭhajam)
 
 ## mukta-m0-p03-v66
-movable-linga(calaliṅgaṃ) twofold-made(dvidhākāryaṃ) metal-jewel-made(dhāturatnamayaṃ) auspicious(śubham)
+[calaliṅgam](calaliṅgaṃ) [dvidhā](dvidhā) [kāryam](kāryaṃ) [dhātu](dhātu) [ratnamayam](ratnamayaṃ) [śubham](śubham)
 
 ## mukta-m0-p03-v67
-small-jewel-born(kṣudraratnottham) also(api) evaṃ(evaṃ) own-measure(svamānā) two-jewel-born(dvararatnajam)
+[kṣudraratnottham](kṣudraratnottham) [api](api) [evaṃ](evaṃ) [svamānā](svamānā) [dvararatnajam](dvararatnajam)
 
 ## mukta-m0-p03-v68
-vaishyas'(vaiśyānāṃ) love-limit(manmathāntaṃ) shudras'(śūdrāṇāṃ) twelve-limit(dvādaśāvadhiḥ)
+[vaiśyānām](vaiśyānāṃ) [manmathāntam](manmathāntaṃ) [syāt](syāt) [śūdrāṇām](śūdrāṇāṃ) [dvādaśāvadhiḥ](dvādaśāvadhiḥ)
 
 ## mukta-m0-p03-v69
-movable(cal) above(tadūrdhvaṃ) gods'(devānāṃ) twenty-three-angula(trayoviṃśatikāṅgulam)
+[calam](calaṃ) [tadūrdhvam](tadūrdhvaṃ) [devānām](devānāṃ) [trayoviṃśatikāṅgulam](trayoviṃśatikāṅgulam)
 
 ## mukta-m0-p03-v70
-immovable(acalaṃ) lead-based(khadrūbhasthāyi) hand-nine-measure(karādanavasāmakam)
+[acalam](acalaṃ) [khadrūbhasthāyi](khadrūbhasthāyi) [karādanavasāmakam](karādanavasāmakam)
 
 ## mukta-m0-p03-v71
-six-cubits(saḍḍhataṃ) mixed(miśrakaṃ) linga(liṅgaṃ) not(na) above(ūrdhvaṃ) and(ca) firm(sthiram) desired(iṣyate)
+[saḍḍhatam](saḍḍhataṃ) [miśrakam](miśrakaṃ) [liṅgam](liṅgaṃ) [nordhvam](nordhvaṃ) [ca](ca) [sthiram](sthiram) [iṣyate](iṣyate)
 
 ## mukta-m0-p03-v72
-six-cubits(ṣaḍḍhastān) not-more(nādhikaṃ) wooden(vārkṣaṃ) earthen(pārthivaṃ) mountain-like(śailavatsadā)
+[ṣaḍḍhastān](ṣaḍḍhastān) [nādhikam](nādhikaṃ) [vārkṣam](vārkṣaṃ) [pārthivam](pārthivaṃ) [śailavat](śailavat) [sadā](sadā)
 
 ## mukta-m0-p03-v73
-yaksha-rakshasa-asura-serpent(yakṣarakṣo'suravyāla) gandharva-apsaras(gandharvāpsarasāṃ) sometimes(kvacit)
+[yakṣa](yakṣa) [rakṣaḥ](rakṣo) [asura](asura) [vyāla](vyāla) [gandharva](gandharva) [apsarasām](apsarasāṃ) [kvacit](kvacit)
 
 ## mukta-m0-p03-v74
-circumference-height(pariṇāhocchrayābhyāṃ) and(ca) gods'(devānām) twenty-one(ekaviṃśatiḥ)
+[pariṇāha](pariṇāha) [ucchrayābhyām](ucchrayābhyāṃ) [ca](ca) [devānām](devānām) [ekaviṃśatiḥ](ekaviṃśatiḥ)
 
 ## mukta-m0-p03-v75
-five-angula(pañcāṅgulaṃ) tu(tu) paste-born(paiṣṭyādyaṃ) fruit-born(phalajaṃ) own-measure(svapramāṇataḥ)
+[pañcāṅgulam](pañcāṅgulaṃ) [tu](tu) [paiṣṭyādyam](paiṣṭyādyaṃ) [phalajam](phalajaṃ) [svapramāṇataḥ](svapramāṇataḥ)
