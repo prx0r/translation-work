@@ -12,18 +12,18 @@
 },
 {
 "surface": "tāsu",
-"quick_gloss": "among-them"
+"quick_gloss": "in-them"
 },
 {
 "surface": "karttavyo",
 "quick_gloss": "to-be-done"
 },
 {
-"surface": "hetuḥ",
+"surface": "hetu",
 "quick_gloss": "cause"
 },
 {
-"surface": "raṃjanahetavaḥ",
+"surface": "aṃjanahetavaḥ",
 "quick_gloss": "coloring-causes"
 }
 ]
@@ -91,7 +91,7 @@
 "tokens": [
 {
 "surface": "daṇḍanītiḥ",
-"quick_gloss": "policy"
+"quick_gloss": "policy-of-punishment"
 },
 {
 "surface": "na",
@@ -103,7 +103,7 @@
 },
 {
 "surface": "strīṣu",
-"quick_gloss": "toward-women"
+"quick_gloss": "in-women"
 },
 {
 "surface": "prapātayitum",
@@ -132,7 +132,7 @@
 },
 {
 "surface": "svargate",
-"quick_gloss": "heaven-gone"
+"quick_gloss": "in-heaven-gone"
 },
 {
 "surface": "nijabharttari",
@@ -178,7 +178,7 @@
 },
 {
 "surface": "tāsu",
-"quick_gloss": "toward-them"
+"quick_gloss": "in-them"
 },
 {
 "surface": "prathamaṃ",
@@ -219,7 +219,7 @@
 },
 {
 "surface": "tāsu",
-"quick_gloss": "among-them"
+"quick_gloss": "in-them"
 },
 {
 "surface": "sādhakaḥ",
@@ -244,10 +244,10 @@
 },
 {
 "surface": "darśanaṃ",
-"quick_gloss": "sight"
+"quick_gloss": "appearance"
 },
 {
-"surface": "pradiśid",
+"surface": "pradiśat",
 "quick_gloss": "declared"
 },
 {
@@ -269,7 +269,7 @@
 },
 {
 "surface": "parebhavaṃ",
-"quick_gloss": "to-other-disrespect"
+"quick_gloss": "to-other's-disgrace"
 },
 {
 "surface": "yāti",
@@ -277,7 +277,7 @@
 },
 {
 "surface": "paribhūtaḥ",
-"quick_gloss": "disrespected"
+"quick_gloss": "disgraced"
 },
 {
 "surface": "kathaṃ",
@@ -297,12 +297,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛṣasyaṃtīṣu",
-"quick_gloss": "for-bull"
+"surface": "vṛṣasyantīṣu",
+"quick_gloss": "in-bull-season"
 },
 {
 "surface": "tāsu",
-"quick_gloss": "among-them"
+"quick_gloss": "in-them"
 },
 {
 "surface": "amba",
@@ -417,7 +417,7 @@
 },
 {
 "surface": "puruṣārtha",
-"quick_gloss": "human-purpose"
+"quick_gloss": "human-aim"
 },
 {
 "surface": "ekakāraṇam",
@@ -441,8 +441,12 @@
 "quick_gloss": "with-affection"
 },
 {
-"surface": "mahatsaukhyaṃ",
-"quick_gloss": "great-happiness"
+"surface": "mahat",
+"quick_gloss": "great"
+},
+{
+"surface": "saukhyaṃ",
+"quick_gloss": "happiness"
 },
 {
 "surface": "prajāyate",
@@ -462,7 +466,7 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "tadānukūlyāya",
+"surface": "tadanukūlyāya",
 "quick_gloss": "for-favor"
 },
 {
@@ -483,8 +487,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āliṃganacchalenaiva",
+"surface": "āliṃganacchalena",
 "quick_gloss": "by-embrace-pretext"
+},
+{
+"surface": "eva",
+"quick_gloss": "eva"
 },
 {
 "surface": "sukhaṃ",
@@ -508,8 +516,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ādāyalimpec",
-"quick_gloss": "should-anoint-feet"
+"surface": "ādāya",
+"quick_gloss": "should-anoint"
+},
+{
+"surface": "limpa",
+"quick_gloss": "limb"
+},
+{
+"surface": "caraṇe",
+"quick_gloss": "foot"
 },
 {
 "surface": "dūtyāḥ",
@@ -537,20 +553,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jugupsamāno",
-"quick_gloss": "being-disgusted"
+"surface": "jugupsamānaḥ",
+"quick_gloss": "disgusted"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "bhaved",
-"quick_gloss": "becomes"
+"surface": "bhavet",
+"quick_gloss": "would-be"
 },
 {
 "surface": "vairāgyaṃ",
-"quick_gloss": "dispassion"
+"quick_gloss": "aversion"
 },
 {
 "surface": "tena",
@@ -600,7 +616,7 @@
 "tokens": [
 {
 "surface": "vividaiḥ",
-"quick_gloss": "by-various"
+"quick_gloss": "with-various"
 },
 {
 "surface": "sarasaiḥ",
@@ -633,7 +649,7 @@
 "tokens": [
 {
 "surface": "udvarttanaiḥ",
-"quick_gloss": "by-unctions"
+"quick_gloss": "with-unctions"
 },
 {
 "surface": "tāṃbūlaiḥ",
@@ -657,7 +673,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raṃjayed",
+"surface": "raṃjayet",
 "quick_gloss": "should-color"
 },
 {
@@ -670,7 +686,7 @@
 },
 {
 "surface": "bhogaiḥ",
-"quick_gloss": "by-enjoyments"
+"quick_gloss": "with-enjoyments"
 },
 {
 "surface": "dīptaiḥ",
@@ -699,7 +715,7 @@
 },
 {
 "surface": "hiramanā",
-"quick_gloss": "pleased-mind"
+"quick_gloss": "pleased"
 },
 {
 "surface": "eva",
@@ -735,7 +751,7 @@
 "quick_gloss": "arises"
 },
 {
-"surface": "tac",
+"surface": "tad",
 "quick_gloss": "that"
 },
 {
