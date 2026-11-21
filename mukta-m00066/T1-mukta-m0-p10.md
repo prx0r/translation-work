@@ -2,31 +2,31 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[lakṣa+mātra](lakṣamātraṃ) [japet](japen) [mantraṃ](mantraṃ) [tataḥ](tataḥ) [siddhaḥ](siddho) [bhavet](bhavennaraḥ)
+[lakṣa-mātraṃ](lakṣamātraṃ) [japet+mantraṃ](japenmantraṃ) [tataḥ](tataḥ) [siddhaḥ](siddho) [bhavet+naraḥ](bhavennaraḥ)
 
 ## mukta-m0-p10-v227
-[tat+daśāṃśaṃ](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūrābhyāṃ](karpūrābhyāṃ) [suvāsitaiḥ](suvāsitaiḥ)
+[tad+daśāṃśaṃ](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūrābhyāṃ](karpūrābhyāṃ) [suvāsitaiḥ](suvāsitaiḥ)
 
 ## mukta-m0-p10-v228
-[tat+daśāṃśaṃ](taddaśāṃśaṃ) [mahādevi](mahādevi) [brāhmaṇān](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
+[tad+daśāṃśaṃ](taddaśāṃśaṃ) [mahādevi](mahādevi) [brāhmaṇān](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
 
 ## mukta-m0-p10-v229
 [hṛdyaiḥ](hṛdyaiḥ) [pāyasa](pāyasa) [pūpādyaiḥ](pūpādyaiḥ) [rasaiḥ+ca+eva](rasaiścaiva) [rasāyanaiḥ](rasāyanaiḥ)
 
 ## mukta-m0-p10-v230
-[madyaiḥ](madyair) [māṃsaiḥ+ca](māṃsaiśca) [matsyaiḥ+ca](matsyaiśca) [nānā+vastu+upabṛṃhitaiḥ](nānāvastūpabṛṃhitaiḥ)
+[madyaiḥ](madyairmāṃsaiśca) [māṃsaiḥ+ca](madyairmāṃsaiśca) [matsyaiḥ+ca](matsyaiśca) [nānā+vastu+upabṛṃhitaiḥ](nānāvastūpabṛṃhitaiḥ)
 
 ## mukta-m0-p10-v231
-[arcayet](arcayed) [yoginī](yoginī) [vīrān](vīrān) [daśāṃśaṃ](daśāṃśaṃ) [mantra+sādhakaḥ](maṃtrasādhakaḥ)
+[arcayet](arcayed) [yoginī+vīrān](yoginīvīrān) [daśāṃśaṃ](daśāṃśaṃ) [mantra+sādhakaḥ](maṃtrasādhakaḥ)
 
 ## mukta-m0-p10-v232
 [ānanda+bhogān](ānaṃdabhogān) [bhugjānaḥ](bhugjānaḥ) [kṣoṇyāṃ](kṣoṇyāṃ) [khelati](khelati) [kāyavat](kāyavat)
 
 ## mukta-m0-p10-v233
-[ati+guhyatva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya+kasya+cit](yasyakasyacit)
+[ati+guhya+tva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya+kasyacit](yasyakasyacit)
 
 ## mukta-m0-p10-v234
-[akutarka](akutarka) [pravīṇāya](pravīṇāya) [tattva+niṣṭhāya](tattvaniṣṭhāyadhīmate) [dhīmate](dhīmate)
+[akutarka+pravīṇāya](akutarkapravīṇāya) [tattva+niṣṭhāya](tattvaniṣṭhāya) [dhīmate](dhīmate)
 
 ## mukta-m0-p10-v235
 [eṣā](eṣā) [vidyā](vidyā) [pradātavyā](pradātavyā) [satyaṃ](satyaṃ) [satyaṃ](satyaṃ) [vadāmi+aham](vadāmyaham)
@@ -47,31 +47,31 @@
 [varābhaya+yutaṃ](varābhayayutaṃ) [śāṃtaṃ](śāṃtaṃ) [śaktyā+śliṣṭaṃ](śaktyāśliṣṭaṃ) [manoharam](manoharam)
 
 ## mukta-m0-p10-v241
-[āplāvita](āplāvita) [śarīraḥ](śarīraḥ) [san](sannaṃ) [tardhyāyen](tardhyāyen) [maheśvarīm](maheśvarīm)
+[āplāvita+śarīraḥ](āplāvitaśarīraḥ) [san](sannaṃ) [antardhyāyen](tardhyāyen) [maheśvarīm](maheśvarīm)
 
 ## mukta-m0-p10-v242
-[vibhinna](vibhinna) [ṣaṭ+sarojanma](ṣaṭsarojanma) [prakāśa](prakāśa) [nija+vigrahām](nijavigrahām)
+[vibhinna+ṣaṭ+sarojanma](vibhinnaṣaṭsarojanma) [prakāśa+nija+vigrahām](prakāśanijavigrahām)
 
 ## mukta-m0-p10-v243
 [tripurasuṃdarīm](tripurasuṃdarīm)
 
 ## mukta-m0-p10-v244
-[nirgamya](nirgamya) [ca](ca) [bahir+grāmāt](bahirgrāmānmuktamūtramalavyathaḥ) [muktamūtramalavyathaḥ](muktamūtramalavyathaḥ)
+[nirgamya+ca](nirgamya) [bahir+grāmāt](bahirgrāmānmuktamūtramalavyathaḥ) [mukta+mūtra+mala+vyathaḥ](muktamūtramalavyathaḥ)
 
 ## mukta-m0-p10-v245
-[sugaṃdha+taila+liptasya](sugaṃdhatailaliptasya) [piṣṭikodvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
+[sugaṃdha+taila+liptasya](sugaṃdhatailaliptasya) [piṣṭikā+udvarti+tasya+ca](piṣṭikodvartitasyaca)
 
 ## mukta-m0-p10-v246
 [kadāpi](kadāpi) [kaulikaḥ](kauliko) [mohāt](mohānna) [na](na) [rūkṣa+snānam](rūkṣasnānam) [ācaret](ācaret)
 
 ## mukta-m0-p10-v247
-[mūrdhni+tvā](mūrdhnitvā) [mūlamaṃtra](mūlamaṃtra) [jāpena](jāpenāṃ) [bhoṃjalitrayam](bhoṃjalitrayam)
+[mūrdhni+tvā](mūrdhnitvā) [mūla+mantra+jāpena](mūlamaṃtrajāpenāṃ) [bhoṃja+li+trayam](bhoṃjalitrayam)
 
 ## mukta-m0-p10-v248
 [sa+kuśe](sakuśe) [sa+hapuṣpe](sahapuṣpe) [ca](ca) [sa+gaṃdhe](sagaṃdhe) [tāmra+bhājane](tāmrabhājane)
 
 ## mukta-m0-p10-v249
-[tāmra+rūpya](tāmrarūpya) [suvarṇaiḥ+tu](suvarṇaistu) [racitaṃ](racitaṃ) [tat+praśasyate](tatpraśasyate)
+[tāmra+rūpya+suvarṇaiḥ+tu](tāmrarūpyasuvarṇaistu) [racitaṃ](racitaṃ) [tat+praśasyate](tatpraśasyate)
 
 ## mukta-m0-p10-v250
-[yathā+śakti](yathā śakti) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśedyāgamaṃdiram) [yāga+maṃdiram](yāgamaṃdiram)
+[yathā+śakti](yathāśakti) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśedyāgamaṃdiram) [yāga+maṃdiram](yāgamaṃdiram)

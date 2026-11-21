@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-vedāṃśapātanāt (from-falling-of-veda-portions) koṇa (corner) marṭāśaiḥ (with-mortal-ashes) atha (then) kambalam (blanket) [kh: kandharam (neck)]
+[veda-portion-falling](vedāṃśapātanāt) [corner](koṇa) [with-mortals](marṭāśaiḥ) [and](atha) [neck](kambalam)
 
 ## mukta-m0-p43-v1052
-tryaṃśapraveśanāt (by-entering-of-three-portions) kaṇṭhāt (from-throat) ekaikanirgamaṃ (one-by-one-exit) khuram (hoof)
+[three-portion-entry](tryaṃśapraveśanāt) [throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
 
 ## mukta-m0-p43-v1053
-ghaṇṭāṃ (bell) ca (and) mekhalāṃ (girdle) ca (and) eva (indeed) kuryāt (should-make) śṛṅgāṇi (horns) koṇataḥ (from-corner)
+[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](caiva) [make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-prālambyāsakta (hanging-attached) [mū: pālambyāyya] revanta (Revanta) [gh: revantu] chatradhārādibhiḥ (with-umbrella-bearers-etc.) yutaḥ (joined)
+[pending-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-rays-etc](śchatradhārādibhiryutaḥ)
 
 ## mukta-m0-p43-v1055
-nānāratnasuveśāḍhyāḥ (rich-in-various-gem-fine-dress) [gh: sukhesyāḍhyāḥ] caṇḍatejāḥ (fierce-radiance) svabhāvajāḥ (born-of-nature)
+[with-various-gems-beauty](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-somaṃ (Soma) saumyaṃ (gentle) tathā (and) śvetaṃ (white) kuṇḍikā (pot) jāpya (muttering) mālinam (garlanded)
+[moon](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [with-pot-garland](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-budhaṃ (Budha) śyāmaṃ (dark) yuvānaṃ (youthful) ca (and) rūpiṇaṃ (formed) cāpapāṇinam (bow-handed)
+[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-yāmya (Yama) eka-akṣaṃ (one-eyed) sitaṃ (white) śukraṃ (Shukra) kuṇḍikā (pot) mantra-mālikam (garland-of-mantras)
+[saturn-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [with-pot-mantra-garland](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-vyāvṛttāsyaṃ (turned-face) sahāsyaṃ (with-smile) ca (and) piṅgabhrūśmaśrulocanam (tawny-brow-beard-eyed)
+[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-triphaṇaṃ (three-hooded) [mū, a, k, kh: triphalaṃ] dhūmravarṇābhaṃ (smoke-colored-shining) naranāgārdharūpiṇam (half-man-half-serpent-formed) [gh: naraṃ]
+[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent-formed](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-etān (these) tu (indeed) dvibhujān (two-armed) sarvān (all) bhūṣaṇāmbarasaṃyutān (with-ornaments-and-garments)
+[these-all-two-armed](etāṃstu dvibhujānsarvān) [with-ornaments-garments](bhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-śakaṭaṃ (cart) medha (sacrifice) eteṣām (of-these) adhaḥ (below) yānaṃ (vehicle) kramāt (in-order) sadā (always)
+[cart](śakaṭaṃ) [medha](medham) [of-these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order](kramāt) [always](sadā)
 
 ## mukta-m0-p43-v1063
-sitaḥ (white) sahasrabhogaḥ (thousand-hooded) hīśvaraḥ (lord) [mū, a: hī śiraḥ] kuvalayānvitaḥ (with-blue-lotus)
+[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](īśvaraḥ) [with-blue-lotus](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-kṛṣṇaḥ (black) karkoṭakaḥ (Karkotaka) kaṇṭhe (on-neck) śulkarekhātrayānvitaḥ (with-three-stripe-lines)
+[black](kṛṣṇaḥ) [karkoṭaka](karkoṭakaḥ) [at-throat](kaṇṭhe) [with-three-stripe-line](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-śaṅkhavarṇaḥ (conch-colored) mahāpadmaḥ (Mahapadma) mastake (on-head) kṛṣṇaśūladhṛk (holding-black-trident) [k: śūlakam]
+[conch-colored](śaṅkhavarṇo) [great-lotus](mahāpadmo) [on-head](mastake) [black-trident-bearer](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-kulikaḥ (Kulika) raktadehaḥ (red-bodied) tu (but) candrārdha (half-moon) [g: candrārka] kṛtamastakaḥ (made-head)
+[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-akṣasūtradharāḥ (rosary-holders) sarve (all) kuṇḍikā (pot) pucchasaṃyutāḥ (with-tail-joined)
+[rosary-holders](akṣasūtradharāḥ) [all](sarve) [with-pot-tail](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-bhṛtyāḥ (servants) ca (and) eka-phaṇāḥ (one-hooded) kāryāḥ (should-be-made) tadrūpāḥ (that-formed) maṇivarjitāḥ (gem-devoid)
+[servants](bhṛtyāśca) [one-hooded](ekaphaṇāḥ) [to-be-made](kāryāstadrūpā) [gem-less](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-hārakuṇḍalakeyūraiḥ (with-necklace-earring-armlet) sadābharaṇa (always-ornament) [k: sarvābharaṇa] bhūṣitā (adorned)
+[with-garland-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-īdṛśī (such) manasā (by-mind) kāryā (to-be-made) śrīkaṇṭhamanasambhavā (born-from-Shrikantha's-mind)
+[thus](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [śrīkaṇṭha-mind-born](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-yogapaṭṭāvṛtaḥ (covered-by-yoga-band) abjasthaḥ (lotus-seated) kuṇḍikā (pot) ca (and) akṣasūtrabhṛt (rosary-bearing) [mū, a, k: dhṛk]
+[yoga-band-covered](yogapaṭṭāvṛto) [lotus-seated]('bjasthaḥ) [with-pot-and-rosary](kuṇḍikā cākṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-nānālaṅkārasaṃyuktā (with-various-ornaments) utpala (blue-lotus) maṇi (gem) bhṛtkarau (bearing-hands)
+[with-various-ornaments](nānālaṅkārasaṃyuktāv) [lotus-gem-bearing-hands](utpalamaṇi bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-sudṛṣṭā (well-seen) [g: sukṛṣṇā] jalpamānā (speaking) ca (and) svotsaṅge (in-own-lap) putradhāriṇī (child-bearing)
+[well-seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [on-own-lap](svotsaṅge) [son-bearing](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-padmā (Padma) [gh: parṇā] nandanapadmastha (standing-on-Nandana-lotus) svāṅgādevī (goddess-of-own-limb) [gh: suṅgādevī] prakīrtitā (proclaimed)
+[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-basuka (Basuka) koka (wolf) kapi (monkey) dvikṣa (two-tusked) [gh: dvikka] vyāghra (tiger) vyāghrāsyakaṃ (tiger-faced) kramāt (in-order)
+[basukoka-kapi-dvikṣa](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
