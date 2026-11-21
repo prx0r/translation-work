@@ -16,11 +16,11 @@
 },
 {
 "surface": "tanuḥ",
-"quick_gloss": "body"
+"quick_gloss": "bodied"
 },
 {
 "surface": "kāṣṭhā",
-"quick_gloss": "quarter"
+"quick_gloss": "direction"
 },
 {
 "surface": "kuṣṭha",
@@ -49,7 +49,7 @@
 },
 {
 "surface": "ambarā",
-"quick_gloss": "garmented"
+"quick_gloss": "garment"
 },
 {
 "surface": "krūra",
@@ -101,8 +101,12 @@
 "quick_gloss": "brahmāṇī"
 },
 {
-"surface": "brahmasaṃmatā",
-"quick_gloss": "brahma-approved"
+"surface": "brahma",
+"quick_gloss": "brahma"
+},
+{
+"surface": "saṃmatā",
+"quick_gloss": "approved"
 }
 ]
 },
@@ -122,8 +126,16 @@
 "quick_gloss": "creeper"
 },
 {
-"surface": "kṛṣāṅgī",
-"quick_gloss": "thin-limbed"
+"surface": "kṛṣa",
+"quick_gloss": "thin"
+},
+{
+"surface": "aṅgī",
+"quick_gloss": "limbed"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "kalpa",
@@ -245,7 +257,7 @@
 "quick_gloss": "queen"
 },
 {
-"surface": "tapo",
+"surface": "tapas",
 "quick_gloss": "austerity"
 },
 {
@@ -275,7 +287,7 @@
 },
 {
 "surface": "karā",
-"quick_gloss": "doing"
+"quick_gloss": "maker"
 }
 ]
 },
@@ -295,7 +307,7 @@
 "quick_gloss": "queen"
 },
 {
-"surface": "payo",
+"surface": "payas",
 "quick_gloss": "water"
 },
 {
@@ -311,8 +323,12 @@
 "quick_gloss": "queen"
 },
 {
-"surface": "madālasā",
-"quick_gloss": "delicate"
+"surface": "mada",
+"quick_gloss": "intoxicated"
+},
+{
+"surface": "alasā",
+"quick_gloss": "languid"
 }
 ]
 },
@@ -352,7 +368,7 @@
 "quick_gloss": "family"
 },
 {
-"surface": "ākṛtiḥ",
+"surface": "kṛtiḥ",
 "quick_gloss": "form"
 }
 ]
@@ -407,7 +423,7 @@
 "tokens": [
 {
 "surface": "ākāśa",
-"quick_gloss": "space"
+"quick_gloss": "sky"
 },
 {
 "surface": "rājñī",
@@ -448,7 +464,7 @@
 "tokens": [
 {
 "surface": "siddha",
-"quick_gloss": "siddha"
+"quick_gloss": "accomplished"
 },
 {
 "surface": "rājñī",
@@ -463,7 +479,7 @@
 "quick_gloss": "queen"
 },
 {
-"surface": "tejo",
+"surface": "tejas",
 "quick_gloss": "radiance"
 },
 {
@@ -554,7 +570,7 @@
 },
 {
 "surface": "prabhā",
-"quick_gloss": "splendor"
+"quick_gloss": "radiance"
 }
 ]
 },
@@ -567,7 +583,7 @@
 "tokens": [
 {
 "surface": "bindu",
-"quick_gloss": "bindu"
+"quick_gloss": "dot"
 },
 {
 "surface": "rājñī",
@@ -590,12 +606,16 @@
 "quick_gloss": "queen"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "sat",
 "quick_gloss": "good"
 },
 {
 "surface": "gatiḥ",
-"quick_gloss": "path"
+"quick_gloss": "going"
 }
 ]
 },
@@ -660,7 +680,7 @@
 "quick_gloss": "queen"
 },
 {
-"surface": "vāg",
+"surface": "vāc",
 "quick_gloss": "speech"
 },
 {
@@ -705,7 +725,11 @@
 "quick_gloss": "queen"
 },
 {
-"surface": "nāmasahasrakam",
+"surface": "nāma",
+"quick_gloss": "name"
+},
+{
+"surface": "sahasrakam",
 "quick_gloss": "thousand"
 }
 ]
@@ -722,8 +746,12 @@
 "quick_gloss": "all"
 },
 {
-"surface": "tattvamayaṃ",
+"surface": "tattva",
 "quick_gloss": "essence"
+},
+{
+"surface": "mayaṃ",
+"quick_gloss": "made-of"
 },
 {
 "surface": "puṇyaṃ",
@@ -767,8 +795,12 @@
 "quick_gloss": "planet"
 },
 {
-"surface": "śāntikaraṃ",
+"surface": "śānti",
 "quick_gloss": "peace"
+},
+{
+"surface": "karaṃ",
+"quick_gloss": "making"
 },
 {
 "surface": "param",
@@ -822,7 +854,7 @@
 "tokens": [
 {
 "surface": "dūrāt",
-"quick_gloss": "far"
+"quick_gloss": "from"
 },
 {
 "surface": "eva",
@@ -855,31 +887,27 @@
 "tokens": [
 {
 "surface": "paṭhanāt",
-"quick_gloss": "by-recitation"
+"quick_gloss": "from"
 },
 {
 "surface": "vidravanti",
-"quick_gloss": "flee"
+"quick_gloss": "scatter"
 },
 {
 "surface": "āśu",
 "quick_gloss": "quickly"
 },
 {
-"surface": "mahā",
-"quick_gloss": "great"
-},
-{
-"surface": "kālāt",
-"quick_gloss": "kāla"
+"surface": "mahākāla",
+"quick_gloss": "mahākāla"
 },
 {
 "surface": "iva",
-"quick_gloss": "etc"
+"quick_gloss": "like"
 },
 {
 "surface": "prajāḥ",
-"quick_gloss": "people"
+"quick_gloss": "creatures"
 }
 ]
 },
@@ -896,7 +924,7 @@
 },
 {
 "surface": "snāna",
-"quick_gloss": "bath"
+"quick_gloss": "bathing"
 },
 {
 "surface": "sahasrasya",
