@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-śiva-umā-mantra-yogena sandhānam bhūti-kāṅkṣiṇām
+[śiva+umā+mantra+yoga](śivomāmantrayogena) [union](sandhānaṃ) [of-those-desiring](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-mūrti-ādi-aṅka-avasānam tu punar-evam tu vinyaset
+[form-etc-ending](mūrtyādyaṅkāvasānaṃ) [then](tu) [again-thus](punarevaṃ) [one-should-place](tu vinyaset)
 
 ## mukta-m0-p76-v1878
-tataḥ
+[then](tataḥ)
 
 ## mukta-m0-p76-v1879
-rudra-ādīnām tu sarveṣām sthāpanam tattvataḥ kramāt
+[of-rudra-etc](rudrādīnāṃ) [of-all](tu sarveṣāṃ) [establishment](sthāpanaṃ) [truly](tathvataḥ) [in-order](kramāt)
 
 ## mukta-m0-p76-v1880
-ātma-vidyāḥ śivam ca-eva bhāvayet-anupūrvataḥ
+[ātma-vidyās](ātmavidyāḥ) [śiva](śivaṃ) [and-indeed](caiva) [one-should-meditate](bhāvayedanupūrvataḥ)
 
 ## mukta-m0-p76-v1881
-vyavasthitāḥ
+[established](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-vidyā-tattve sthitāḥ hi-ete sādhikāre viduḥ-budhāḥ
+[in-vidyā-tattva](vidyātattve) [situated](sthitā) [indeed-these](hyete) [with-authority](sādhikāre) [know-the-wise](vidurbudhāḥ)
 
 ## mukta-m0-p76-v1883
-tri-tattva-vyāptiḥ ākhyātā panthānaḥ ṣaḍ-vidhāḥ tu-iha
+[three-tattva-pervasion](tritattvavyāptirākhyātā) [paths](panthānaḥ) [six-fold](ṣaḍvidhāstviha)
 
 ## mukta-m0-p76-v1884
-kramāt
+[in-order](kramāt)
 
 ## mukta-m0-p76-v1885
-triṃśat-pañca-adhikam tattvam san-mārgam pīṭham-aiśvaram
+[thirty-five-tattva](triṃśatpañcādhikaṃ) [tattva](tattvaṃ) [good-path](sanmārgaṃ) [seat-of-īśvara](pīṭhamaiśvaram)
 
 ## mukta-m0-p76-v1886
-bhujaḥ-tu daśabhiḥ-yuktam jaṭā-mukuṭa-maṇḍitam
+[with-ten-arms](bhujaistu daśabhiryuktaṃ) [crowned-with-matted-hair](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-gaṇaiḥ-devaiḥ-tathā siddhaiḥ stūyamānaiḥ samāyutam
+[with-gods-siddhas](gaṇairdevaistathā siddhaiḥ) [being-praised](stūyamānaiḥ) [endowed](samāyutam)
 
 ## mukta-m0-p76-v1888
-sadyolātena saṃcintya vāmadevena vinyaset
+[by-sadyojāta](sadyolātena) [having-thought](saṃcintya) [by-vāmadeva](vāmadevena) [one-should-place](vinyaset)
 
 ## mukta-m0-p76-v1889
-bodha-kriyā-niviṣṭam tu jñeyam jñāna-āśritam smaret
+[absorbed-in-cognition-action](bodhakriyāniviṣṭaṃ) [indeed](tu) [to-be-known](jñeyaṃ) [supported-by-knowledge](jñānāśritaṃ) [one-should-remember](smaret)
 
 ## mukta-m0-p76-v1890
-dhvani-madhya-gatā tārā tārā-madhya-gateḥ śaśī
+[in-sound-middle](dhvanimadhyagatā) [tārā](tārā) [tārā-in-middle-gone](tārāmadhyagateḥ) [moon](śaśī)
 
 ## mukta-m0-p76-v1891
-ravi-madhya-gataḥ śāntaḥ śānta-madhya-gataḥ śivaḥ
+[in-sun-middle](ravimadhyagataḥ) [peaceful](śāntaḥ) [in-peace-middle](śāntamadhyagataḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p76-v1892
-tadā dig-devatā-homaḥ kāryā śāntiḥ ca doṣa-hṛt
+[then](tadā) [dig-devatā-homa](digdevatāhomaḥ) [to-be-done](kāryā) [peace](śāntiśca) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p76-v1893
-anyathā tu bhavet-ghoraṃ kartṛ-rāṣṭra-virūpakam
+[otherwise](anyathā) [indeed](tu) [would-be-terrible](bhavedghoraṃ) [doer-kingdom-deforming](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-gajam chāgam lulāyam ca dāsīm matsyam mṛga-avikam
+[elephant](gajaṃ) [goat](chāgaṃ) [lulāya](lulāyaṃ) [and](ca) [female-slave](dāsīṃ) [fish](matsyaṃ) [deer-sheep](mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-pakṣa-sūtram tataḥ dadyāt-ṛju-artham lamba-sūtrakam
+[wing-thread](pakṣasūtraṃ) [then](tato) [one-should-give](dadyādṛjvarthaṃ) [hanging-thread](lambasūtrakam)
 
 ## mukta-m0-p76-v1896
-calile śabdite bhrānte praṇate svasthite kramāt
+[in-moving](calile) [in-sounded](śabdite) [in-confused](bhrānte) [in-bowed](praṇate) [in-steady](svasthite) [in-order](kramāt)
 
 ## mukta-m0-p76-v1897
-kṣīra-loha-malaiḥ śubhaiḥ
+[with-milk-metal-impurities](kṣīralohamalaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-tataḥ śānti-ghaṭā-abhiḥ snānam mūrti-dharāḥ svakam
+[then](tataḥ) [peace-pot-water](śāntighaṭāmmobhiḥ) [bathing](snānaṃ) [form-bearers](mūrtidharāḥ) [own](svakam)
 
 ## mukta-m0-p76-v1899
-toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ
+[with-water-milk-curd-honey-ghee-water](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-mugdā dyaṅgula-mātrasya calasya sthāpane hitam
+[mugdā](mugdā) [of-nine-angulas](dyaṅgulamātrasya) [of-moving](calasya) [for-placement](sthāpane) [beneficial](hitam)
