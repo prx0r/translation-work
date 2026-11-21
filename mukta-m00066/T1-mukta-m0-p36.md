@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[not](na) [anything](kiṃcid) [even](api) [i-know](jānāmi) [lord](nātha) [awaken](bodhaya) [awaken](bodhaya)
+[not](na) [anything](kiṃcidapi) [I-know](jānāmi) [lord-awaken](nāthabodhayabodhaya)
 
 ## mukta-m0-p36-v877
-[this](etat) [happiness-cause](saukhyānidānāya) [well-being-sign](svastiliṃgāya) [to-śambhu](śaṃbhave)
+[for-happiness-cause](etat) [saukhya-nidāna](saukhyanidānāya) [well-being-sign](svastiliṃgāya) [to-śambhu](śaṃbhave)
 
 ## mukta-m0-p36-v878
-[offering-to-śiva](śivārpaṇam) [this](idaṃ) [may-be](bhūyāt) [again](punar) [let-be](astu) [offering-to-śiva](śivārpaṇam)
+[śiva-offering](śivārpaṇamidaṃ) [may-be](bhūyāt) [again](punarastu) [śiva-offering](śivārpaṇam)
 
 ## mukta-m0-p36-v879
-[withered](mlānā) [lotus-stalk](padmamṛṇālī) [or](va) [garland-like-his](mālikevāsya) [on-chest](vakṣasi)
+[withered](mlānā) [lotus-stalk](padmamṛṇālī) [like](va) [garland](mālikevāsya)
 
 ## mukta-m0-p36-v880
-[absorbed-syllable](līnalīnākṣaraṃ) [afterwards](paścān) [slow-syllable](maṃdamaṃdākṣaraṃ) [again](punaḥ)
+[absorbed](līnalīnākṣaraṃ) [afterwards](paścānmaṃdamaṃdākṣaraṃ) [again](punaḥ) [slowly](maṃdamaṃdākṣaraṃ)
 
 ## mukta-m0-p36-v881
-[etc-qualities-messenger](evamādiguṇādūtyāḥ) [six-offering](ṣaḍāhuti) [great-festival](mahotsave)
+[thus-etc](evamādiguṇādūtyāḥ) [sixth-offering](ṣaḍāhuti) [great-festival](mahotsave) [sixth](ṣaṣṭhāhuti)
 
 ## mukta-m0-p36-v882
-[sixth-six-tastes-endowed](ṣaṣṭhiṣaḍrasasaṃpanna) [much-food-giving](bahubhojanadāyinī)
+[six-tastes](ṣaṣṭhiṣaḍrasasaṃpanna) [much-food-giving](bahubhojanadāyinī) [six-limbed-deity](ṣaḍaṃgadevatā) [form](rūpā)
 
 ## mukta-m0-p36-v883
-[six-limb-deity](ṣaḍaṃgadevatā) [form](rūpā) [by-all-actors-water-lords](sarvadākriyatāṃbudhaiḥ)
+[always](sarvadākriyatāṃbudhaiḥ) [nāyikā](nāyikāyāśca) [and](ca) [vidṛti](vidṛtyā)
 
 ## mukta-m0-p36-v884
-[heroine's](nāyikāyāśca) [opening](vidṛtyā) [comfort-rest](sukhaśrāṃtiḥ) [proceeds](pravartate)
+[comfort-rest](sukhaśrāṃtiḥ) [arises](pravartate) [sugar-nectar-mixed](śarkarāmṛtasaṃmiśraṃ) [purified-soup](śuddhiyūṣasanādhitam)
 
 ## mukta-m0-p36-v885
-[sugar-nectar-mixed](śarkarāmṛtasaṃmiśraṃ) [pure-soup-seasoned](śuddhiyūṣasanādhitam)
+[self](svayaṃtadavaśiṣṭaṃ) [remaining](avaśiṣṭaṃ) [drinks](pibed) [devotion-bowed](bhakti) [bharānataḥ](bharānataḥ)
 
 ## mukta-m0-p36-v886
-[self](svayaṃ) [that](tad) [remainder](avaśiṣṭaṃ) [and](ca) [drink](pibed) [devotion](bhakti) [weight-bowed](bharānataḥ)
+[mantra](maṃtraṃ) [of-ānanda-deva](cānaṃdadevasya) [hundreds](śataśovāsahasraśaḥ) [thousands](sahasraśaḥ) [improper-yantra](ayuktayaṃtraḥ)
 
 ## mukta-m0-p36-v887
-[mantra](maṃtraṃ) [and](ca) [of-ānanda-deva](ānaṃdadevasya) [hundreds-thousands](śataśovāsahasraśaḥ)
+[should-chant](prajaped) [deity-curse](devatāśāpamāpnuyāt) [thus](evaṃ) [chanted](japte)
 
 ## mukta-m0-p36-v888
-[improper-yantra](ayuktayaṃtraḥ) [recite](prajaped) [deity-curse-obtain](devatāśāpamāpnuyāt)
+[parānanda-form](parānaṃdarūpi) [liṅga-maheśvara](liṃgamaheśvaraḥ) [as-long-as](yāvajjapati) [hero](vīroyaṃ)
 
 ## mukta-m0-p36-v889
-[thus](evaṃ) [recited](japte) [supreme-bliss-form](parānaṃdarūpi) [liṅga-great-lord](liṃgamaheśvaraḥ)
+[messenger-rest](dūtiviśrāṃti) [for-cause](hetave) [thus](iththaṃ) [gradually](krameṇa)
 
 ## mukta-m0-p36-v890
-[as-long-as-recites](yāvajjapati) [hero-this](vīroyaṃ) [messenger-rest](dūtiviśrāṃti) [for-sake](hetave)
+[rest](viśrāṃtiṃ) [obtained](gatāyāṃ) [messenger-body](dūtikātanau) [moon-crescent](caṃdrarekhārthāṃ)
 
 ## mukta-m0-p36-v891
-[thus](iththaṃ) [by-order](krameṇa) [rest](viśrāṃtiṃ) [gone](gatāyāṃ) [messenger-body](dūtikātanau)
+[with-gula](gulinā) [raised](pronnatā) [moon-moonlight](caṃdracaṃdrikā) [atasī](atasī)
 
 ## mukta-m0-p36-v892
-[moon-crescent-purpose](caṃdrarekhārthāṃ) [with-ball](gulinā) [raised](pronnatā) [moon-moonlight](caṃdracaṃdrikā)
+[flower-like](puṣpasaṃkāśā) [triangular-form](trikoṇākāratāṃ) [gone](gatā) [long-flowing](ciradravāpi)
 
 ## mukta-m0-p36-v893
-[flax](atasī) [flower-resembling](puṣpasaṃkāśā) [triangle-form](trikoṇākāratāṃ) [gone](gatā)
+[lord-one](nāthaika) [arranged](kluptairaṃguṣṭha) [thumb-kisses](cuṃbanaiḥ) [navel-palm](nābhaucapeṭa)
 
 ## mukta-m0-p36-v894
-[long-flowing-even](ciradravāpi) [lord-one](nāthaika) [arranged-thumb](kluptairaṃguṣṭha) [kisses](cuṃbanaiḥ)
+[falling](patanairnitaṃbe) [buttock-massage](hastamardanaiḥ) [own-essence](nijaṃrasaṃ) [flowing](sravaṃtyeva)
 
 ## mukta-m0-p36-v895
-[navel-slap](nābhaucapeṭa) [falls](patanair) [buttocks](nitaṃbe) [hand-massage](hastamardanaiḥ)
+[nāyikā-moonlight](nāyikācaṃdracaṃdrikā) [paiṣṭi-wine-fragrance](paiṣṭimadyasamāmodaṃ) [arrow-flower-blaze](bāṇapuṣpolbaṇadyuti) [attainment-siddhi](prāptisiddhiprajananaṃ)
 
 ## mukta-m0-p36-v896
-[own-juice](nijaṃrasaṃ) [flowing-indeed](sravaṃtyeva) [heroine-moonlight](nāyikācaṃdracaṃdrikā)
+[all-powers-speech](sarvaiśvaryākhyavāṅmayam) [all-disease-removal](samastavyādhiśamanaṃ) [light-cool-pure](laghuśītalanirmalam) [then](tadājapeditaṃ)
 
 ## mukta-m0-p36-v897
-[flour-wine-delight](paiṣṭimadyasamāmodaṃ) [arrow-flower-intense-radiance](bāṇapuṣpolbaṇadyuti)
+[mantra](maṃtraṃ) [ca](ca) [palāmbā-deity](palāṃbādhidaivatam) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown)
 
 ## mukta-m0-p36-v898
-[attainment-accomplishment-procreation](prāptisiddhiprajananaṃ) [all-sovereignty-named-speech](sarvaiśvaryākhyavāṅmayam)
+[unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown)
 
 ## mukta-m0-p36-v899
-[all-disease-pacifying](samastavyādhiśamanaṃ) [light-cool-pure](laghuśītalanirmalam)
+[unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown)
 
 ## mukta-m0-p36-v900
-[then-recited](tadājapeditaṃ) [mantra](maṃtraṃ) [and](ca) [pālāmbā-presiding-deity](palāṃbādhidaivatam)
+[unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown) [unknown](unknown)
