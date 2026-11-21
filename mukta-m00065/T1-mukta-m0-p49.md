@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p49-v1201
-[cibu-koṣṭhau](cibukoṣṭhau) [vibhāgena](vibhāgena) [nāsā-lalāṭa-stakam](nāsālalāṭastakam)
+[cibukoṣṭhau](cibukoṣṭhau) [vibhāgena](vibhāgena) [nāsā](nāsā) [lalāṭa](lalāṭa) [stakam](stakam)
+
 ## mukta-m0-p49-v1202
-[liṅga-pārśce](liṅgapārśce) [dvibhāgena](dvibhāgena) [bhāgaṃ](bhāgaṃ) [tyaktvā](tyaktvā) [tad-ūrdhvataḥ](tadūrdhvataḥ)
+[liṅga](liṅga) [pārśce](pārśce) [dvibhāgena](dvibhāgena) [bhāgaṃ](bhāgaṃ) [tyaktvā](tyaktvā) [tadūrdhvataḥ](tadūrdhvataḥ)
+
 ## mukta-m0-p49-v1203
-[pañtrāsyādy-eka-vaktrāntam](pañtrāsyādyekavaktrāntam) [ayam-eva](ayameva) [vidhiḥ](vidhiḥ) [punaḥ](punaḥ)
+[pañtrāsyādyekavaktrāntam](pañtrāsyādyekavaktrāntam) [ayameva](ayameva) [vidhiḥ](vidhiḥ) [punaḥ](punaḥ)
+
 ## mukta-m0-p49-v1204
 [pañcānanādikaṃ](pañcānanādikaṃ) [proktaṃ](proktaṃ) [suvyaktam](suvyaktam) [adhudanocyate](adhudanocyate)
+
 ## mukta-m0-p49-v1205
-[dvibāhūny-ūrdhva-dehāni](dvibāhūnyūrdhvadehāni) [viṣṇavantacaraṇāni](viṣṇavantacaraṇāni) [ca](ca)
+[dvibāhūnyūrdhvadehāni](dvibāhūnyūrdhvadehāni) [viṣṇavantacaraṇāni](viṣṇavantacaraṇāni) [ca](ca)
+
 ## mukta-m0-p49-v1206
-[pūrvakāye](pūrvakāye) [pumāṃsaṃ](pumāṃsaṃ) [tu](tu) [mātuluṅgākṣa-śalinam](mātuluṅgākṣaśalinam)
+[pūrvakāye](pūrvakāye) [pumāṃsaṃ](pumāṃsaṃ) [tu](tu) [mātuluṅgākṣaśalinam](mātuluṅgākṣaśalinam)
+
 ## mukta-m0-p49-v1207
-[stryākāram](stryākāram) [uktare](uktare) [guhyaṃ](guhyaṃ) [darpaṇa-utpala-saṃyutam](darpaṇotpalasaṃyutam)
+[stryākāramuktare](stryākāramuktare) [guhyaṃ](guhyaṃ) [darpaṇotpalasaṃyutam](darpaṇotpalasaṃyutam)
+
 ## mukta-m0-p49-v1208
-[suvyakta](suvyakta) [pañcadhā-hy-evam-āsyovatābidhisaṃsthitam](pañcadhāhyevamāsyovatābidhisaṃsthitam)
+[suvyakta](suvyakta) [pañcadhāhyevamāsyovatābidhisaṃsthitam](pañcadhāhyevamāsyovatābidhisaṃsthitam)
+
 ## mukta-m0-p49-v1209
-[evaṃ](evaṃ) [niṣpādya](niṣpādya) [liṅgāni](liṅgāni) [piṇḍikāṃ](piṇḍikāṃ) [vartayet-tataḥ](vartayettataḥ)
+[evaṃ](evaṃ) [niṣpādya](niṣpādya) [liṅgāni](liṅgāni) [piṇḍikāṃ](piṇḍikāṃ) [vartayettataḥ](vartayettataḥ)
+
 ## mukta-m0-p49-v1210
-[iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [vyaktāvyakta-liṅgānāṃ](vyaktāvyaktaliṅgānāṃ) [daśadhā](daśadhā) [vartanaṃ](vartanaṃ) [nāma](nāma) [saptamo](saptamo) [vidhiḥ](vidhiḥ) [athoṣṭama](athoṣṭama)
+[iti](iti) [lakṣaṇasamuccaye](lakṣaṇasamuccaye) [vyaktāvyaktaliṅgānāṃ](vyaktāvyaktaliṅgānāṃ) [daśadhā](daśadhā) [vartanaṃ](vartanaṃ) [nāma](nāma) [saptamo](saptamo) [vidhiḥ](vidhiḥ) [athoṣṭama](athoṣṭama)
+
 ## mukta-m0-p49-v1211
 [mahatyāḥ](mahatyāḥ) [prātamāyāśca](prātamāyāśca) [digliṅgādeśca](digliṅgādeśca) [sādhane](sādhane)
+
 ## mukta-m0-p49-v1212
-[navajñāṃ](navajñāṃ) [kārayet-tasmāt-kadācid-ubhayor-api](kārayettasmātkadācidubhayorapi)
+[navajñāṃ](navajñāṃ) [kārayettasmātkadācidubhayorapi](kārayettasmātkadācidubhayorapi)
+
 ## mukta-m0-p49-v1213
 [piṇḍikā](piṇḍikā) [tu](tu) [samākhyātā](samākhyātā) [na](na) [hīnā](hīnā) [nādhikā](nādhikā) [śubhā](śubhā)
+
 ## mukta-m0-p49-v1214
-[mekhalā](mekhalā) [tattribhāgena](tattribhāgena) [khātaṃ](khātaṃ) [tat-tryṃśa-hīnakam](tattryṃśahīnakam)
+[mekhalā](mekhalā) [tattribhāgena](tattribhāgena) [khātaṃ](khātaṃ) [tattryṃśahīnakam](tattryṃśahīnakam)
+
 ## mukta-m0-p49-v1215
-[madhye](madhye) [vṛttaṃ](vṛttaṃ) [samālikhya](samālikhya) [vartayet-khātam-ādarāt](vartayetkhātamādarāt)
+[madhye](madhye) [vṛttaṃ](vṛttaṃ) [samālikhya](samālikhya) [vartayetkhātamādarāt](vartayetkhātamādarāt)
+
 ## mukta-m0-p49-v1216
-[arvāg](arvāg) [dairghya-tribhāgena](dairghyatribhāgena) [mekhalā-vartanaṃ](mekhalāvartanaṃ) [bahiḥ](bahiḥ)
+[arvāg](arvāg) [dairghyatribhāgena](dairghyatribhāgena) [mekhalāvartanaṃ](mekhalāvartanaṃ) [bahiḥ](bahiḥ)
+
 ## mukta-m0-p49-v1217
-[mukhe](mukhe) [tad-ardha-vistāraṃ](tadardhavistāraṃ) [tantribhāge-'mbunirgamaḥ](tantribhāge'mbunirgamaḥ)
+[mukhe](mukhe) [tadardhavistāraṃ](tadardhavistāraṃ) [tantribhāge'mbunirgamaḥ](tantribhāge'mbunirgamaḥ)
+
 ## mukta-m0-p49-v1218
-[kaṇṭhād-ūrdhvaṃ](kaṇṭhādūrdhvaṃ) [sadā](sadā) [hy-evam-anyathā](hyevamanyathā) [doṣadāyakam](doṣadāyakam)
+[kaṇṭhādūrdhvaṃ](kaṇṭhādūrdhvaṃ) [sadā](sadā) [hyevamanyathā](hyevamanyathā) [doṣadāyakam](doṣadāyakam)
+
 ## mukta-m0-p49-v1219
-[ṣaṣṭhāṃśa-veśanāt-kaṇṭhaścalānāṃ](ṣaṣṭhāṃśaveśanātkaṇṭhaścalānāṃ) [pañcamena](pañcamena) [vā](vā)
+[ṣaṣṭhāṃśaveśanātkaṇṭhaścalānāṃ](ṣaṣṭhāṃśaveśanātkaṇṭhaścalānāṃ) [pañcamena](pañcamena) [vā](vā)
+
 ## mukta-m0-p49-v1220
-[avyakte](avyakte) [miśrake](miśrake) [svāṃśe](svāṃśe) [brahma-viṣṇu-svarūpataḥ](brahmaviṣṇusvarūpataḥ)
+[avyakte](avyakte) [miśrake](miśrake) [svāṃśe](svāṃśe) [brahmaviṣṇu](brahmaviṣṇu) [svarūpataḥ](svarūpataḥ)
+
 ## mukta-m0-p49-v1221
-[liṅga-sthaulya-pramāṇena](liṅgasthaulyapramāṇena) [samāsraṃ](samāsraṃ) [digvidiksthitam](digvidiksthitam)
+[liṅgasthaulyapramāṇena](liṅgasthaulyapramāṇena) [samāsraṃ](samāsraṃ) [digvidiksthitam](digvidiksthitam)
+
 ## mukta-m0-p49-v1222
-[samantāj-jyeṣṭha-liṅgasya](samantājjyeṣṭhaliṅgasya) [yavaiḥ](yavaiḥ) [ṣaḍbhir-vivardhitam](ṣaḍbhirvivardhitam)
+[samantājjyeṣṭhaliṅgasya](samantājjyeṣṭhaliṅgasya) [yavaiḥ](yavaiḥ) [ṣaḍbhirvivardhitam](ṣaḍbhirvivardhitam)
+
 ## mukta-m0-p49-v1223
 [liṅgavannirmalā](liṅgavannirmalā) [śuddhā](śuddhā) [kartavyā](kartavyā) [piṇḍikā](piṇḍikā) [budhaiḥ](budhaiḥ)
+
 ## mukta-m0-p49-v1224
-[śeṣāṇāṃ](śeṣāṇāṃ) [liṅgānām-ardhārdha](liṅgānāmardhārdha) [hrāsayet-yavam](hrāsayedyavam)
+[śeṣāṇāṃ](śeṣāṇāṃ) [liṅgānāmardhārdha](liṅgānāmardhārdha) [hrāsayedyavam](hrāsayedyavam)
+
 ## mukta-m0-p49-v1225
 [kāmānāṃ](kāmānāṃ) [vasutastasya](vasutastasya) [bhedān](bhedān) [brūmaḥ](brūmaḥ) [samāsataḥ](samāsataḥ)
