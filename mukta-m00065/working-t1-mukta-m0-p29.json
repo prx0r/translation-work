@@ -8,27 +8,19 @@
 "tokens": [
 {
 "surface": "kartavyā",
-"quick_gloss": "to-be-done"
+"quick_gloss": "should-be-done"
 },
 {
-"surface": "tad",
-"quick_gloss": "that"
-},
-{
-"surface": "dvibhāgena",
-"quick_gloss": "by-division"
+"surface": "taddvibhāgena",
+"quick_gloss": "by-that-division"
 },
 {
 "surface": "pratimā",
 "quick_gloss": "image"
 },
 {
-"surface": "sā",
-"quick_gloss": "she"
-},
-{
-"surface": "uttamā",
-"quick_gloss": "excellent"
+"surface": "sottamā",
+"quick_gloss": "with-excellent"
 },
 {
 "surface": "matā",
@@ -45,11 +37,11 @@
 "tokens": [
 {
 "surface": "navāntaṃ",
-"quick_gloss": "nine-ending"
+"quick_gloss": "nine-to-end"
 },
 {
 "surface": "tritrikānteṣu",
-"quick_gloss": "in-triple-trika-ends"
+"quick_gloss": "in-three-trikas"
 },
 {
 "surface": "kanyasādyāḥ",
@@ -70,14 +62,14 @@
 "tokens": [
 {
 "surface": "pīṭha",
-"quick_gloss": "seat"
+"quick_gloss": "pedestal"
 },
 {
 "surface": "dvārapravistāraṃ",
 "quick_gloss": "door-expansion"
 },
 {
-"surface": "maya",
+"surface": "mayaḥ",
 "quick_gloss": "maya"
 },
 {
@@ -85,12 +77,8 @@
 "quick_gloss": "made"
 },
 {
-"surface": "svake",
+"surface": "svake+mate",
 "quick_gloss": "in-own-opinion"
-},
-{
-"surface": "mate",
-"quick_gloss": "mate"
 }
 ]
 },
@@ -102,8 +90,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tithimāsanavatyardhaihīnamadhyottamāstridhā",
-"quick_gloss": "by-tithi-seat-half-etc"
+"surface": "tithimāsanavatyardhaiḥ",
+"quick_gloss": "by-tithi-seat-half"
+},
+{
+"surface": "hīnamadhyottamāḥ",
+"quick_gloss": "lacking-middle-excellent"
+},
+{
+"surface": "tridhā",
+"quick_gloss": "threefold"
 }
 ]
 },
@@ -115,20 +111,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "paṅgurūpāśca",
+"surface": "paṅgurūpāḥ",
 "quick_gloss": "lame-formed"
 },
 {
-"surface": "kūṣmāṇḍāḥ",
-"quick_gloss": "pumpkin-demons"
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
-"surface": "saptadhārcāśca",
+"surface": "kūṣmāṇḍāḥ",
+"quick_gloss": "kūṣmāṇḍas"
+},
+{
+"surface": "saptadhā+arcāḥ",
 "quick_gloss": "sevenfold-images"
 },
 {
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
 "surface": "vartayet",
-"quick_gloss": "should-make"
+"quick_gloss": "should-be-made"
 }
 ]
 },
@@ -145,19 +149,15 @@
 },
 {
 "surface": "śaktisūtreṇa",
-"quick_gloss": "by-power-thread"
+"quick_gloss": "by-śakti-thread"
 },
 {
 "surface": "ṛkṣādibhyaḥ",
 "quick_gloss": "from-stars-etc"
 },
 {
-"surface": "śubhe",
-"quick_gloss": "auspicious"
-},
-{
-"surface": "dine",
-"quick_gloss": "day"
+"surface": "śubhe+dine",
+"quick_gloss": "on-auspicious-day"
 }
 ]
 },
@@ -169,12 +169,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pīṭhātmāśrayajīvāṃśca",
-"quick_gloss": "seat-self-refuge-life-parts"
+"surface": "pīṭhātmāśrayajīvāṃś",
+"quick_gloss": "pedestal-self-refuge-life-parts"
 },
 {
-"surface": "prabhādīṃśca",
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "prabhādīṃś",
 "quick_gloss": "radiance-etc"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "prakalpayet",
@@ -190,12 +198,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtvādhoṃśagataḥ",
+"surface": "kṛtvā+adhoṃśagataḥ",
 "quick_gloss": "having-made-below-part"
 },
 {
 "surface": "pīṭhaṃ",
-"quick_gloss": "seat"
+"quick_gloss": "pedestal"
 },
 {
 "surface": "tribhāge",
@@ -223,12 +231,16 @@
 "quick_gloss": "with-messenger"
 },
 {
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
 "surface": "pratimāṃ",
 "quick_gloss": "image"
 },
 {
-"surface": "vartayettataḥ",
-"quick_gloss": "should-make-then"
+"surface": "vartayet+tataḥ",
+"quick_gloss": "then-make"
 }
 ]
 },
@@ -244,12 +256,20 @@
 "quick_gloss": "making-one-part-angula"
 },
 {
+"surface": "kṛtvā",
+"quick_gloss": "kṛtvā"
+},
+{
 "surface": "mahārcāṃ",
 "quick_gloss": "great-image"
 },
 {
-"surface": "vatayedbudhaḥ",
+"surface": "vatayed",
 "quick_gloss": "should-make"
+},
+{
+"surface": "budhaḥ",
+"quick_gloss": "wise"
 }
 ]
 },
@@ -261,20 +281,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "eka",
-"quick_gloss": "one-part"
-},
-{
-"surface": "bhāge'ṅgulaṃ",
-"quick_gloss": "in-part-angula"
+"surface": "eka+bhāge+’ṅgulaṃ",
+"quick_gloss": "in-one-part-angula"
 },
 {
 "surface": "tasyā",
 "quick_gloss": "of-it"
 },
 {
-"surface": "stenāṅgaṃ",
-"quick_gloss": "that-limb"
+"surface": "aṅgaṃ",
+"quick_gloss": "limb"
 },
 {
 "surface": "parikalpayet",
@@ -310,8 +326,8 @@
 "quick_gloss": "straight-image"
 },
 {
-"surface": "kārayecchubhām",
-"quick_gloss": "should-make-auspicious"
+"surface": "kārayet+śubhām",
+"quick_gloss": "make-auspicious"
 }
 ]
 },
@@ -323,8 +339,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jīvasyāddairghyamānena",
+"surface": "jīvasya",
 "quick_gloss": "of-life"
+},
+{
+"surface": "āddairghyamānena",
+"quick_gloss": "by-length-measure"
 },
 {
 "surface": "pratyaṅgānyadhunā",
@@ -332,7 +352,7 @@
 },
 {
 "surface": "vruve",
-"quick_gloss": "i-will-speak"
+"quick_gloss": "I-will-say"
 }
 ]
 },
@@ -344,12 +364,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "mātrābhistithisaṃkhyābhirmukuṭa",
-"quick_gloss": "by-measures-tithi-numbers"
+"surface": "mātrābhiḥ+tithisaṃkhyābhiḥ",
+"quick_gloss": "by-measures-tithi-number"
+},
+{
+"surface": "mukuṭa",
+"quick_gloss": "crown"
 },
 {
 "surface": "veṣṭanaṃ",
-"quick_gloss": "crown"
+"quick_gloss": "wrapping"
 },
 {
 "surface": "bhavet",
@@ -366,10 +390,10 @@
 "tokens": [
 {
 "surface": "tālamānaṃ",
-"quick_gloss": "palm-measure"
+"quick_gloss": "tāla-measure"
 },
 {
-"surface": "bhavedvakraṃ",
+"surface": "bhaved+vakraṃ",
 "quick_gloss": "becomes-curved"
 },
 {
@@ -378,6 +402,10 @@
 },
 {
 "surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "caturaṅgulā",
 "quick_gloss": "four-angulas"
 }
 ]
@@ -391,15 +419,19 @@
 "tokens": [
 {
 "surface": "tālaikaikapramāṇaṃ",
-"quick_gloss": "palm-one-one-measure"
+"quick_gloss": "tāla-one-one-measure"
 },
 {
-"surface": "syādūrū",
-"quick_gloss": "should-be-thighs"
+"surface": "syāt",
+"quick_gloss": "syāt"
+},
+{
+"surface": "ūrū",
+"quick_gloss": "thighs"
 },
 {
 "surface": "tālavinirgamau",
-"quick_gloss": "palm-exit"
+"quick_gloss": "tāla-exit"
 }
 ]
 },
@@ -412,7 +444,7 @@
 "tokens": [
 {
 "surface": "jñeyau",
-"quick_gloss": "to-be-known"
+"quick_gloss": "known"
 },
 {
 "surface": "gulphau",
@@ -421,6 +453,10 @@
 {
 "surface": "dvinetrau",
 "quick_gloss": "two-eyes"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "pārṣṇīdvyaṅgulake",
@@ -444,12 +480,16 @@
 "quick_gloss": "in-middle"
 },
 {
-"surface": "kalādvayocchrāyovagresārdhārdha",
-"quick_gloss": "two-arts-height"
+"surface": "kalādvayocchrāyaḥ",
+"quick_gloss": "two-kalā-height"
+},
+{
+"surface": "agresārdhārdha",
+"quick_gloss": "front-half-half"
 },
 {
 "surface": "mātrakau",
-"quick_gloss": "half-half-measures"
+"quick_gloss": "measure"
 }
 ]
 },
@@ -491,7 +531,15 @@
 },
 {
 "surface": "kathyante",
-"quick_gloss": "are-spoken-now-others"
+"quick_gloss": "are-spoken"
+},
+{
+"surface": "tv",
+"quick_gloss": "tv"
+},
+{
+"surface": "adhunāparāḥ",
+"quick_gloss": "now-others"
 }
 ]
 },
@@ -508,7 +556,7 @@
 },
 {
 "surface": "parvārdhanakhaśobhitāḥ",
-"quick_gloss": "half-joint-nail-beautiful"
+"quick_gloss": "joint-half-nail-beautiful"
 }
 ]
 },
@@ -520,7 +568,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kārāṅghri",
+"surface": "kārāṅghri+talakaṃ",
 "quick_gloss": "nail-foot-sole"
 },
 {
@@ -533,7 +581,7 @@
 },
 {
 "surface": "savonnatāruṇāḥ",
-"quick_gloss": "raised-red"
+"quick_gloss": "with-raised-red"
 }
 ]
 },
@@ -545,15 +593,15 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "upabāhū",
-"quick_gloss": "upper-arms-ten-eight-parts"
-},
-{
-"surface": "daśāṣṭāṃśau",
-"quick_gloss": "sixteen-angulas"
+"surface": "upabāhū+daśāṣṭāṃśau",
+"quick_gloss": "forearms-ten-eight-parts"
 },
 {
 "surface": "ṣoḍaśāṅgulakau",
+"quick_gloss": "sixteen-angulas"
+},
+{
+"surface": "bhujau",
 "quick_gloss": "arms"
 }
 ]
@@ -570,7 +618,7 @@
 "quick_gloss": "five-angulas"
 },
 {
-"surface": "bhavenmadhyā",
+"surface": "bhaven+madhyā",
 "quick_gloss": "becomes-middle"
 },
 {
@@ -591,7 +639,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "madhyamādyāstriparvāṇo",
+"surface": "madhyamādyāstriparvāṇaḥ",
 "quick_gloss": "middle-etc-three-jointed"
 },
 {
@@ -600,7 +648,7 @@
 },
 {
 "surface": "mataḥ",
-"quick_gloss": "considered"
+"quick_gloss": "mataḥ"
 }
 ]
 }
