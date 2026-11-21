@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[pada](rakṣodvitayakumbhīra) [pada](sarpacakrāsyakaṃ) [pada](ca) [pada](bham)
-
+rakṣodvitayakumbhīra [kumbhīraḥ nakrābhidhojalavaraḥ | kintvasya citrodāharaṇe śukābhidhaḥ; pakṣiveśeṣo vartate | ślokānusāreṇa nakrābhidho jalacara viśeṣa eva bhavitumarhati |] sarpacakrāsyakaṃ [k, kh: nakrāsyakaṃ] ca bham
 ## mukta-m0-p44-v1077
-[pada](aśvinau) [pada](ca) [pada](yamo) [pada](vahniḥ) [pada](prajendrenduharo'ditiḥ)
-
+aśvinau ca yamo vahniḥ prajendrenduharo'ditiḥ
 ## mukta-m0-p44-v1078
-[pada](tvaṣṭā) [pada](vāyuḥ) [pada](surendro'gnirmitrendrau) [pada](yāvatpāmpatiḥ)
-
+tvaṣṭā vāyuḥ surendro'gnirmitrendrau yāvatpāmpatiḥ [mū: yātudhāmpatiḥ]
 ## mukta-m0-p44-v1079
-[pada](viṣṇurvasurajaikādipādahirbudhna) [pada](pūṣakāḥ)
-
+viṣṇurvasurajaikādipādahirbudhna [gh: rajaikādyahirbudhna] pūṣakāḥ
 ## mukta-m0-p44-v1080
-[pada](pumān) [pada](gadī) [pada](savīṇā) [pada](ca) [pada](yoṣitta) [pada](nmithunaṃ) [pada](dhanuḥ)
-
+pumān gadī savīṇā ca yoṣitta [k, kh, gh: yoṣicca] nmithunaṃ dhanuḥ
 ## mukta-m0-p44-v1081
-[pada](strī) [pada](naustholkāsibhṛtkanyā) [pada](tulādhāro) [pada](narastulā)
-
+strī naustholkāsibhṛtkanyā tulādhāro narastulā
 ## mukta-m0-p44-v1082
-[pada](meṣādyāḥ) [pada](pañca) [pada](caivānye) [pada](svanāmatulyarūpakāḥ)
-
+meṣādyāḥ pañca caivānye [gh: evādye] svanāmatulyarūpakāḥ
 ## mukta-m0-p44-v1083
-[pada](hemābhaḥ) [pada](sakirīṭaśca) [pada](devarājaḥ) [pada](surāvṛtaḥ)
-
+hemābhaḥ sakirīṭaśca devarājaḥ surāvṛtaḥ
 ## mukta-m0-p44-v1084
-[pada](chāgasthaḥ) [pada](sākṣasūtrograḥ) [pada](saptārciḥ) [pada](śaktidhārakaḥ)
-
+chāgasthaḥ [asya sthāne mṛgo vartate citrapustake] sākṣasūtrograḥ saptārciḥ śaktidhārakaḥ
 ## mukta-m0-p44-v1085
-[pada](raktahṛkpāśabhṛtkṛṣṇo) [pada](mahiṣasthogradūtavān)
-
+raktahṛkpāśabhṛtkṛṣṇo mahiṣasthogradūtavān
 ## mukta-m0-p44-v1086
-[pada](puṃsthita) [pada](khaḍgahastaśca) [pada](nīlābho) [pada](rākṣasāvṛtaḥ)
-
+puṃsthita khaḍgahastaśca nīlābho rākṣasāvṛtaḥ
 ## mukta-m0-p44-v1087
-[pada](sarvābharaṇasaṃyukto) [pada](varūṇaḥ) [pada](pītavastrabhṛt)
-
+sarvābharaṇasaṃyukto varūṇaḥ pītavastrabhṛt
 ## mukta-m0-p44-v1088
-[pada](raktakṣo) [pada](raktavāsaśca) [pada](mṛgasthaścaṅkuśī) [pada](dhvajī)
-
+raktakṣo [gh: raktāsyo] raktavāsaśca mṛgasthaścaṅkuśī dhvajī
 ## mukta-m0-p44-v1089
-[pada](dhaneśo) [pada](varadaḥ) [pada](kāryo) [pada](nānābharaṇamaṇḍitaḥ)
-
+dhaneśo varadaḥ kāryo nānābharaṇamaṇḍitaḥ
 ## mukta-m0-p44-v1090
-[pada](īśāno'hīndubhṛccaite) [pada](lokapālā) [pada](dvibāhavaḥ)
-
+īśāno'hīndubhṛccaite lokapālā dvibāhavaḥ
 ## mukta-m0-p44-v1091
-[pada](viśvakarmā) [pada](sadā) [pada](gauro) [pada](jñānamudrākṣasūtrabhṛt)
-
+viśvakarmā sadā gauro jñānamudrākṣasūtrabhṛt
 ## mukta-m0-p44-v1092
-[pada](ālīḍhakaraṇāsaktaṃ) [pada](mahākāyaṃ) [pada](subhīṣaṇam)
-
+ālīḍhakaraṇāsaktaṃ mahākāyaṃ subhīṣaṇam
 ## mukta-m0-p44-v1093
-[pada](pītadhvajadharaṃ) [pada](vāme) [pada](tarjanīṃ) [pada](vā) [pada](hṛdagrataḥ)
-
+pītadhvajadharaṃ vāme tarjanīṃ vā hṛdagrataḥ
 ## mukta-m0-p44-v1094
-[pada](saṃpīḍya) [pada](rākasān) [pada](padbhyāṃ) [pada](muñcannādaṃmarutsutam)
-
+saṃpīḍya rākasān padbhyāṃ muñcannādaṃ[mū, a, kh, g: padbhyāmuccapādaṃ]marutsutam
 ## mukta-m0-p44-v1095
-[pada](skandhayakṣānvitā) [pada](nityaṃ) [pada](kartavyā) [pada](yoṣidanvitāḥ)
-
+skandhayakṣānvitā nityaṃ kartavyā yoṣidanvitāḥ
 ## mukta-m0-p44-v1096
-[pada](mālābhṛto'thavā) [pada](hṛṣṭāḥ) [pada](khasthā) [pada](vidyādharāḥ) [pada](sadā)
-
+mālābhṛto'thavā hṛṣṭāḥ khasthā vidyādharāḥ sadā
 ## mukta-m0-p44-v1097
-[pada](piṅgavarvara) [pada](keśāśva) [pada](vetālā) [pada](vikṛtānanāḥ)
-
+piṅgavarvara[mū: carcara]keśāśva vetālā vikṛtānanāḥ [g: vibṛtānanāḥ]
 ## mukta-m0-p44-v1098
-[pada](kapālamālinaḥ) [pada](śūladhārīṇaḥ) [pada](kṣetrapālakāḥ)
-
+kapālamālinaḥ śūladhārīṇaḥ kṣetrapālakāḥ
 ## mukta-m0-p44-v1099
-[pada](kṛśā) [pada](mahodarāḥ) [pada](pretā) [pada](khalva) [pada](gallāśca) [pada](lomaśāḥ)
-
+kṛśā mahodarāḥ pretā khalva[g: khalu]gallāśca lomaśāḥ
 ## mukta-m0-p44-v1100
-[pada](svāṅgavarṇadharāḥ) [pada](sarvā) [pada](yathoktaṃ) [pada](brahmayāmale)
+svāṅgavarṇadharāḥ sarvā yathoktaṃ brahmayāmale

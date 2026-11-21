@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p52-v1276
-[sūtramadhye](sūtramadhye) [ardhasūtreṇa](ardhasūtreṇa) [matsyān](matsyān) [koṇeṣu](koṇeṣu) [sarvataḥ](sarvataḥ)
+[sūtra-madhye](sūtramadhye) [ardha-sūtreṇa](ardhasūtreṇa) [matsyān](matsyān) [koṇeṣu](koṇeṣu) [sarvataḥ](sarvataḥ)
 
 ## mukta-m0-p52-v1277
-[vedāsraṃ](vedāsraṃ) [piṇḍikākṣetraṃ](piṇḍikā+kṣetraṃ) [kuṇḍānāmapi](kuṇḍānām+api) [sarvadā](sarvadā)
+[veda-asram](vedāsraṃ) [piṇḍikā-kṣetraṃ](piṇḍikākṣetraṃ) [kuṇḍānām](kuṇḍānām) [api](api) [sarvadā](sarvadā)
 
 ## mukta-m0-p52-v1278
-[madhyānmadhyagataṃ](madhyāt+madhyagataṃ) [sūtraṃ](sūtraṃ) [koṇaṃ](koṇaṃ) [saṃveṣdya](saṃveṣdya) [cāparam](ca+aparam)
+[madhyāt-madhyagataṃ](madhyānmadhyagataṃ) [sūtraṃ](sūtraṃ) [koṇaṃ](koṇaṃ) [saṃveṣṭya](saṃveṣdya) [ca-aparam](cāparam)
 
 ## mukta-m0-p52-v1279
-[tatsūtradvayasaṃyogāt](tat+sūtra+dvaya+saṃyogāt) [sādhayed](sādhayet) [vā](vā) [triparṇikām](tri+parṇikām)
+[tat-sūtra-dvaya-saṃyogāt](tatsūtradvayasaṃyogāt) [sādhayet](sādhayed) [vā](vā) [triparṇikām](triparṇikām)
 
 ## mukta-m0-p52-v1280
-[saṃbhrāmya](saṃbhrāmya) [madhyataḥ](madhyataḥ) [sūtraṃ](sūtraṃ) [sādhayed](sādhayet) [ardhacandrikām](ardha+candrikām)
+[saṃbhrāmya](saṃbhrāmya) [madhyataḥ](madhyataḥ) [sūtraṃ](sūtraṃ) [sādhayet](sādhayed) [ardha-candrikām](ardhacandrikām)
 
 ## mukta-m0-p52-v1281
-[rakṣo'gnisaumyakāṣṭhāsu](rakṣaḥ+agni+saumya+kāṣṭhāsu) [ta](ta) [trisūtrya](tri+sūtrya) [trikoṇikām](tri+koṇikām)
+[rakṣaḥ-agni-saumya-kāṣṭhāsu](rakṣo'gnisaumyakāṣṭhāsu) [tat](ta) [trisūtrī](trisūtrya) [trikoṇikām](trikoṇikām)
 
 ## mukta-m0-p52-v1282
-[madhyādhasūtrasaṃbhrāntaiḥ](madhya+adha+sūtra+saṃbhrāntaiḥ) [piṇḍikā](piṇḍikā) [vartulā](vartulā) [bhavet](bhavet)
+[madhyāt-adha-sūtra-saṃbhrāntaiḥ](madhyādhasūtrasaṃbhrāntaiḥ) [piṇḍikā](piṇḍikā) [vartulā](vartulā) [bhavet](bhavet)
 
 ## mukta-m0-p52-v1283
-[turyāsravṛttayormadhye](turya+asra+vṛttayoḥ+madhye) [yamandvoḥ](yama+andvoḥ) [sūtrapātanam](sūtra+pātanam)
+[turya-asra-vṛttayoḥ-madhye](turyāsravṛttayormadhye) [yamandoḥ](yamandvoḥ) [sūtra-pātanam](sūtrapātanam)
 
 ## mukta-m0-p52-v1284
-[bhavetṣaḍasrikāpiṇḍī](bhavet+ṣaḍasrikā+piṇḍī) [śeṣarekhāvithopanāt](śeṣa+rekhā+vilopanāt)
+[bhavet](bhavet) [ṣaḍasrikā-piṇḍī](ṣaḍasrikāpiṇḍī) [śeṣa-rekhā-vilopanāt](śeṣarekhāvithopanāt)
 
 ## mukta-m0-p52-v1285
-[sūtramadhyārdha](sūtra+madhya+ardha) [sabṛttādabjā](sa+bṛttāt+abjā) [syāt](syāt) [pūrvacoditā](pūrva+coditā)
+[sūtra-madhyārdha](sūtramadhyārdha) [sabṛttāt](sabṛttād) [abjā](abjā) [syāt](syāt) [pūrva-coditā](pūrvacoditā)
 
 ## mukta-m0-p52-v1286
-[madhyasūtrārdha](madhya+sūtra+ardha) [bhāgena](bhāgena) [koṇāni](koṇāni) [hrāsayedatha](hrāsayet+atha)
+[madhyasūtra-ardha-bhāgena](madhyasūtrārdha bhāgena) [koṇāni](koṇāni) [hrāsayet](hrāsayed) [atha](atha)
 
 ## mukta-m0-p52-v1287
-[koṇaiḥ](koṇaiḥ) [sūtraparicchinnaiḥ](sūtra+paricchinnaiḥ) [kuryādaṣṭāsrikāṃ](kuryāt+aṣṭāsrikām) [sadā](sadā)
+[koṇaiḥ](koṇaiḥ) [sūtra-paricchinnaiḥ](sūtraparicchinnaiḥ) [kuryāt](kuryād) [aṣṭāsrikām](aṣṭāsrikāṃ) [sadā](sadā)
 
 ## mukta-m0-p52-v1288
-[saṃchidyāsrīṃśca](saṃchidya+asrīn+ca) [saṃchidya](saṃchidya) [kṛtvā](kṛtvā) [tu](tu) [daśamāstrikam](daśamāstrikam)
+[saṃchidya-asrīṃśca](saṃchidyāsrīṃśca) [saṃchidya](saṃchidya) [kṛtvā](kṛtvā) [tu](tu) [daśamāstrikam](daśamāstrikam)
 
 ## mukta-m0-p52-v1289
-[kartavyā](kartavyā) [ṣoḍakāṃśaistu](ṣoḍaśa+aṃśaiḥ+tu) [piṇḍikā](piṇḍikā) [keśavāśrayā](keśava+āśrayā)
+[kartavyā](kartavyā) [ṣoḍakāṃśaiḥ](ṣoḍakāṃśaistu) [tu](tu) [piṇḍikā](piṇḍikā) [keśava-āśrayā](keśavāśrayā)
 
 ## mukta-m0-p52-v1290
-[pūrvavatyoḍaśaṃśaistu](pūrvavat+yoḍaśa+aṃśaiḥ+tu) [kuryād](kuryāt) [dvātriṃśadasrikām](dvātriṃśat+asrikām)
+[pūrvavat](pūrvavat) [yoḍaśaṃśaiḥ](yoḍaśaṃśaistu) [tu](tu) [kuryāt](kuryād) [dvātriṃśadasrikām](dvātriṃśadasrikām)
 
 ## mukta-m0-p52-v1291
-[āgneyī](āgneyī) [bodhipatrābhā](bodhi+patra+ābhā) [pintarogāgnidāhakṛt](pintara+oga+agni+dāha+kṛt)
+[āgneyī](āgneyī) [bodhipatrābhā](bodhipatrābhā) [pintara](pintaroga) [agni-dāha-kṛt](agnidāhakṛt)
 
 ## mukta-m0-p52-v1292
-[trikoṇā](tri+koṇā) [rākṣasājāṃ](rākṣasā+jām) [tu](tu) [deśo](deśaḥ) [cchadakarī](chada+kari) [sadā](sadā)
+[trikoṇā](trikoṇā) [rākṣasājāṃ](rākṣasājāṃ) [tu](tu) [deśaḥ](deśo) [chadakarī](cchadakarī) [sadā](sadā)
 
 ## mukta-m0-p52-v1293
-[vāyavyā](vāyavyā) [ca](ca) [ṣaḍasroktā](ṣaḍasra+uktā) [śatrūccāṭanakārikā](śatru+uccāṭana+kārikā)
+[vāyavyā](vāyavyā) [ca](ca) [ṣaḍasrā](ṣaḍasroktā) [śatru-uccāṭana-kārikā](śatrūccāṭanakārikā)
 
 ## mukta-m0-p52-v1294
-[raudrī](raudrī) [tvaṣṭāsrikā](tu+aṣṭāsrikā) [jñeyā](jñeyā) [muktidā](mukti+dā) [sārināśinī](sāri+nāśinī)
+[raudrī](raudrī) [tu](tu) [aṣṭāsrikā](aṣṭāsrikā) [jñeyā](jñeyā) [mukti-dā](muktidā) [sāri-nāśinī](sārināśinī)
 
 ## mukta-m0-p52-v1295
-[dvātriṃśadasrikā](dvātriṃśat+asrikā) [vāhnī](vāhnī) [svargākhyāphaladāyinī](svarga+ākhyā+phala+dāyinī)
+[dvātriṃśadasrikā](dvātriṃśadasrikā) [vāhnī](vāhnī) [svarga-ākhyā-phala-dāyinī](svargākhyāphaladāyinī)
 
 ## mukta-m0-p52-v1296
-[ardhacandropamā](ardha+candra+upamā) [nīlaṃ](nīlam) [śeṣaḥ](śeṣaḥ) [kodaṇḍavadbhavet](kodaṇḍa+vat+bhavet)
+[ardha-candra-upamā](ardhacandropamā) [nīlaṃ](nīlaṃ) [śeṣaḥ](śeṣaḥ) [kodaṇḍa-vat](kodaṇḍavad) [bhavet](bhavet)
 
 ## mukta-m0-p52-v1297
-[piṇḍīmāmastakādīnāṃ](piṇḍī+māma+astaka+ādīnām) [karotyevaṃ](karoti+evam) [vidhaṃ](vidham) [phalam](phalam)
+[piṇḍīmām](piṇḍīmām) [astakā-ādīnāṃ](astakādīnāṃ) [karoti](karotyevaṃ) [evaṃ](evaṃ) [vidhaṃ](vidhaṃ) [phalam](phalam)
 
 ## mukta-m0-p52-v1298
-[bhagaliṅgāṅkita](bhaga+liṅga+aṅkita) [sarvaṃ](sarvam) [trailokyaṃ](trailokyam) [sacarācaram](sa+cara+acaram)
+[bhaga-liṅga-aṅkita](bhagaliṅgāṅkita) [sarvaṃ](sarvaṃ) [trailokyaṃ](trailokyaṃ) [sa-carācaram](sacarācaram)
 
 ## mukta-m0-p52-v1299
-[śivaliṅgaṃ](śiva+liṅgam) [paraṃ](param) [taccaṃ](tat+ca) [tayoryogā](tayoḥ+yogāt) [mahatphalam](mahat+phalam)
+[śiva-liṅgaṃ](śivaliṅgaṃ) [paraṃ](paraṃ) [taccaṃ](taccaṃ) [tayoḥ-yogāt](tayoryogāt) [mahat-phalam](mahatphalam)
 
 ## mukta-m0-p52-v1300
-[dalāṅghrigartikā](dala+aṅghri+gartikā) [kūrmoṃ](kūrma) [vedāsrā](veda+asrā) [valiṅgartinī](va+liṅga+artinī)
+[dalāṅghri-gartikā](dalāṅghrigartikā) [kūrmaḥ](kūrmoṃ) [vedāsrā](vedāsrā) [valiṅga-artinī](valiṅgartinī)
