@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p78-v1926
-in-kingdom(subhikṣa) abundance-health make thief-etc destruction
+[in-kingdom](rāṣṭre) [abundance-health](subhikṣamārogyaṃ) [should-do](kuryāt) [thief-etc](caurādi) [destruction](nāśanam)
 
 ## mukta-m0-p78-v1927
-of-founder always growth those-who therefrom-live
+[establisher](sthāpakasya) [always](sadā) [growth](vṛddhiḥ) [those](ye) [there](tatra) [living](upajīvinaḥ)
 
 ## mukta-m0-p78-v1928
-artisans work-doers all go-to shiva-temple
+[artisans](śilpinaḥ) [work-doers](karmakartāraḥ) [all](sarve) [go](yānti) [to-śiva-temple](śivālayam)
 
 ## mukta-m0-p78-v1929
-enjoyment-liberation-giving known otherwise reverse
+[enjoyment-liberation-giving](bhuktimuktipradaṃ) [to-be-known](jñeyam) [otherwise](anyathā) [reversal](viparyayaḥ)
 
 ## mukta-m0-p78-v1930
-then caṇḍeśvara god install-by-rite guru
+[then](tataḥ) [caṇḍeśvara](caṇḍeśvaram) [god](devaṃ) [should-establish](sthāpayet) [by-rite](vidhinā) [guru](guruḥ)
 
 ## mukta-m0-p78-v1931
-with-rocanā eye-disease-destroying with-fruit-offering pleasing
+[with-rocanā](rocanayā) [eye-disease-destroying](akṣirogaghnaḥ) [with-fruit-offering](phalijyāṃ) [beloved](priyaṅkaraḥ)
 
 ## mukta-m0-p78-v1932
-nāga-flower for-abundance seven-days fruit in-order
+[nāgapuṣpa](nāgapuṣpaṃ) [for-abundance](subhikṣāya) [seven-days](saptāhaṃ) [fruit](phalaṃ) [in-order](kramāt)
 
 ## mukta-m0-p78-v1933
-sandalwood-agaru-camphor-saffron-etc anointing
+[sandal](candana) [aguru](aguru) [camphor](kapūra) [saffron](kuṅkuma) [etc](ādyaiḥ) [anointing](lepanam)
 
 ## mukta-m0-p78-v1934
-collyrium rocanā and mirror by-man
+[with-goat-ghee?](ajena) [rocanā](rocanāṃ) [and](ca) [eva](eva) [mirror](darpaṇaṃ) [with-man](puruṣeṇa) [tu](tu)
 
 ## mukta-m0-p78-v1935
-bracelet waist-cord silk-band whatever
+[bracelet](kaṭakaṃ) [waist-cord](kaṭisūtraṃ) [ca](ca) [silk-band](paṭṭabandhaṃ) [ca](ca) [what-is](yadbhavet)
 
 ## mukta-m0-p78-v1936
-sometimes by-that alone or-with-secrets all-these give
+[sometimes](kvacit) [by-that](tena) [eva](eva) [secretly](guhyaiḥ) [vā](vā) [all](sarvāṇi) [these](etāni) [should-give](dāyayet)
 
 ## mukta-m0-p78-v1937
-bowing staff-like slowly go circumambulation
+[having-bowed](praṇamya) [staff-like](daṇḍavad) [bhamau](bhamau) [slowly](śanaiḥ) [should-go](gacchet) [circumambulating](pradakṣiṇam)
 
 ## mukta-m0-p78-v1938
-good-deed bad-deed or unknowingly knowingly done
+[good-deed](sukṛtaṃ) [bad-deed](duṣkṛtaṃ) [vā](vā) [api](api) [from-ignorance](ajñānāt) [from-knowledge](jñānataḥ) [done](kṛtam)
 
 ## mukta-m0-p78-v1939
-at-that-time give fee to-shiva-yogin
+[at-that-time](tasminkāle) [should-be-given](pradātavyā) [fee](dakṣiṇā) [to-śiva-yogin](śivayogine)
 
 ## mukta-m0-p78-v1940
-to-son quarter give to-initiates foot-portion
+[to-son-body-half](putrakāyārdhataḥ) [should-give](deyā) [to-initiates](samayibhyaḥ) [ca](ca) [quarter](pādikā)
 
 ## mukta-m0-p78-v1941
-according-to-ability to-twice-born give gift according-to-rite
+[according-to-ability](yathāśakti) [to-twice-born](dvijātibhyaḥ) [should-give](dadyāt) [gift](dānaṃ) [as-rite](yathāvidhi)
 
 ## mukta-m0-p78-v1942
-musicians singers dancers with-sound please
+[musicians](tauryikān) [singers](gāyakān) [dancers](nartṛn) [with-sound](nādyena) [tu](tu) [should-please](toṣayet)
 
 ## mukta-m0-p78-v1943
-one-night three-nights or seven-nights also
+[one-night](ekarātraṃ) [three-nights](trirātraṃ) [vā](vā) [seven-nights](saptarātram) [atha](atha) [api](api) [vā](vā)
 
 ## mukta-m0-p78-v1944
-from-men daytime-purity knowledge-etc hundred-fold
+[from-men-etc](pumādibhyaḥ) [day-purity](divāśuddhiṃ) [knowledge-etc](vidyādi) [that-hundred-times](tacchatāvṛtam)
 
 ## mukta-m0-p78-v1945
-firm
+[firm](sthirā)
 
 ## mukta-m0-p78-v1946
-quarter-parts four-directions removing one-by-one from-corner
+[age-parts](yugabhāgāḥ) [four-directions](caturdikṣu) [having-dug](luptvā) [one-by-one](ekaikaṃ) [tu](tu) [from-corner](koṇataḥ)
 
 ## mukta-m0-p78-v1947
-install in-them lingas with-their-union by-rite
+[should-be-placed](sthāpyāni) [in-them](teṣu) [liṅgas](liṅgāni) [with-union](tatsaṅgayā) [by-rite](vidhānataḥ)
 
 ## mukta-m0-p78-v1948
-of-inferior indeed rite of-superior installation-first
+[of-inferior](hīnānāṃ) [tu](tu) [rite](vidhiḥ) [eva](eva) [ayam](ayam) [of-superior](jyeṣṭhānāṃ) [establishment-first](sthitipūrvakam)
 
 ## mukta-m0-p78-v1949
-there bring great-linga by-yantra-yoga wise
+[there](tatra) [should-bring](ānayet) [great-liṅga](mahāliṅgaṃ) [by-yantra-yoga](yantrayogena) [wise](buddhimān)
 
 ## mukta-m0-p78-v1950
-in-middle with-eight-juices joined firm-wood adorned
+[in-middle](madhye) [with-eight-rasas](aṣṭārasaṃyuktaṃ) [with-firm-wood](dṛḍhakāṣṭhena) [adorned](maṇḍitam)
