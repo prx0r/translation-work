@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p83-v2051
-[dharmika](dhārmikāḥ) [ca](ca) [eva](eva) [rajan](rājānaḥ) [purna-sapta-anga-samyuta](pūrṇasaptāṅgasaṃyutāḥ)
-
+dhārmikāḥ+ca+eva rājānaḥ pūrṇa+saptāṅga+saṃyutāḥ
 ## mukta-m0-p83-v2052
-[vanchita](vāñchitaṃ) [samavapnoti](samavāpnoti) [mandala](maṇḍalāt) [masa](māsataḥ) [api](api) [va](vā)
-
+vāñchitam samavāpnoti maṇḍalāt māsataḥ api vā
 ## mukta-m0-p83-v2053
-[prag-ukta-raksha-vayu-shakra-vahni-isha-varuna-dikshu](prāguktarakṣovāyuśakravahnīśavaruṇadikṣu) [sthapana](sthāpanāt) [iti-artha](ityarthaḥ)
-
+prāgukta+rakṣa+vāyu+śakra+vahni+īśa+varuṇa+dikṣu sthāpanāt iti arthaḥ
 ## mukta-m0-p83-v2054
-[murti-saptaka](mūrtisaptakaṃ) [dakini-adi](ḍārākinyādīnāṃ) [shana](ṣaṇāṃ) [devi](devyāḥ) [ca](ca) [iti](iti) [shesha](śeṣaḥ)
-
+mūrti+saptakam ḍārākinyādīnām ṣaṇām devyāḥ ca iti śeṣaḥ
 ## mukta-m0-p83-v2055
-[klesha](kleśāḥ) [vidya-yantra-anubhava](vidyāyantrānubhāvataḥ) [ubhaya](ubhayoḥ) [samartya](sāmarthyāt)
-
+kleśāḥ vidyā+yantra+anubhāvataḥ ubhayoḥ sāmarthyāt
 ## mukta-m0-p83-v2056
-[sushumna-madhya-stha](suṣumnāmadhyasaṃstheṣu) [shad-adhara-ambuja](ṣaḍādhārāmbujeṣu) [tah](tāḥ)
-
+suṣumnā+madhya+saṃstheṣu ṣaḍ+ādhāra+ambujeṣu tāḥ
 ## mukta-m0-p83-v2057
-[bahih](bahiḥ) [ca](ca) [mandale](maṇḍale) [puja-anugraha-anigraha-atmika](pūjānugrahānigrahātmikā)
-
+bahiḥ ca maṇḍale pūjā+anugraha+anigraha+ātmikā
 ## mukta-m0-p83-v2058
-[dhumra-varna-ambuja](dhūmravarṇāmbuje) [devim](devīṃ) [dakini](ḍākinīṃ) [tat-sama-akriti](tatsamākṛtim)
-
+dhūmra+varṇa+ambuje devīm ḍākinīm tat+sama+ākṛtim
 ## mukta-m0-p83-v2059
-[taya](tayā) [sarvajnata-siddhi](sarvajñatāsiddhiḥ) [bhavati](bhavatyeva) [na](na) [samshaya](saṃśayaḥ)
-
+tayā sarvajñatā+siddhiḥ bhavati eva na saṃśayaḥ
 ## mukta-m0-p83-v2060
-[prapnoti](prāpnoti)
-
+prāpnoti
 ## mukta-m0-p83-v2061
-[deha](deheṣu) [sthiti](sthitim) [tah](tāḥ) [devya](devyaḥ) [iti](ityatrānvayaḥ) [dakini-adi](dākinyādaya) [iti](iti) [shesha](śeṣaḥ)
-
+deheṣu sthitim tāḥ devyaḥ iti atra anvayaḥ dākinyādayaḥ iti śeṣaḥ
 ## mukta-m0-p83-v2062
-[mula-devata-sama](mūladevatāsamānaḥ)
-
+mūla+devatā+samānaḥ
 ## mukta-m0-p83-v2063
-[rakini](rākinīṃ) [dvadasha-dala](dvādaśadale) [ka-adi-dha-anta-akshara-atmabhih](kādiḍhāntākṣarātmabhiḥ)
-
+rākinīm dvādaśa+dale kādi+ḍhānta+akṣara+ātmabhiḥ
 ## mukta-m0-p83-v2064
-[manipura-samjne](maṇipūrakasaṃjñe) [ca](ca) [nabhi-sthe](nābhisthe) [dasha-patrake](daśapatrake)
-
+maṇipūraka+saṃjñe ca nābhi+sthe daśa+patrake
 ## mukta-m0-p83-v2065
-[lakini](lākinīṃ) [pujayet](pūjayet) [vairivi](vairivi) [jaya-shri-samriddhaye](jayaśrīsamṛddhaye)
-
+lākinīm pūjayet vairivi jaya+śrī+samṛddhaye
 ## mukta-m0-p83-v2066
-[va-adi-shad-varna-shaktibhih](vādiṣaḍvarṇaśaktībhir) [avrita](āvṛtāṃ) [dakini](ḍākinīṃ) [yajet](yajet)
-
+vādi+ṣaḍ+varṇa+śaktībhiḥ āvṛtām ḍākinīm yajet
 ## mukta-m0-p83-v2067
-[adhara-akhye](ādhārākhye) [catuh-patre](catuṣpatre) [suvarna-abhe](suvarṇābhe) [saroruhe](saroruhe)
-
+ādhāra+ākhye catuṣ+patre suvarṇa+ābhe saroruhe
 ## mukta-m0-p83-v2068
-[payu-dhvaja-antara](pāyudhvajāntarā) [tryasra-madhya](tryasramadhye) [teja](tejaḥ) [samanvita](samanvitām)
-
+pāyu+dhvaja+antarā tryasra+madhye tejaḥ samanvitām
 ## mukta-m0-p83-v2069
-[sevita](sevitāṃ) [ha-ksha-shaktibhyam](hakṣaśaktibhyāṃ) [hakini](hākinīṃ) [pujayet](pūjayet) [tatha](tatha)
-
+sevitām hakṣa+śaktibhyām hākinīm pūjayet tathā
 ## mukta-m0-p83-v2070
-[vishva-srishti-sthiti-dhvamsa-shakti-dama](viśvasṛṣṭisthitidhvaṃsaśaktidāma) [apyayatnatah](apyayatnataḥ)
-
+viśva+sṛṣṭi+sthiti+dhvaṃsa+śakti+dām api ayatnataḥ
 ## mukta-m0-p83-v2071
-[pujana](pūjanaṃ) [sarva-duhkha-arti-nashana](sarvaduḥkhārtināśanaṃ) [sampada-aspadam](sampadāspadam)
-
+pūjanam sarva+duḥkha+ārti+nāśanam sampadām+āspadam
 ## mukta-m0-p83-v2072
-[taya](tayā) [pujaya](pūjayā) [dhvaja-mule](dhvajamūle) [mehana-mule](mehanamūle)
-
+tayā pūjayā dhvaja+mūle mehana+mūle
 ## mukta-m0-p83-v2073
-[samanvita](samanvitāṃ) [kundalini-tejo-rupa](kuṇḍalinītejorūpām) [tatha](tathā) [samuccaye](samuccaye)
-
+samanvitām kuṇḍalinī+tejaḥ+rūpām tathā samuccaye
 ## mukta-m0-p83-v2074
-[bhuta-bhavishya-vartamana-karya-jnana-samarthya-pradayini](bhūtabhaviṣyavartamānakāryajñānasāmarthyapradāyinī) [iti-artha](ityarthaḥ)
-
+bhūta+bhaviṣya+vartamāna+kārya+jñāna+sāmarthya+pradāyinīm iti arthaḥ
 ## mukta-m0-p83-v2075
-[madhya](madhye) [ca](ca) [tatra](tatra) [tam](tāṃ) [nitya-anitya](nityānityā) [gandha-adina](gandhādinā) [arcayet](arcayet)
+madhye ca tatra tām nitya+anityā gandha+ādinā arcayet
