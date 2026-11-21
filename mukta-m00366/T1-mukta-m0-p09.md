@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-[khaḍgīśo](khaḍgīśo) [jvālinī](jvālinī) [vakṣaḥ](vakṣaḥ) [vaṅkaḥ](vaṅkaḥ) [raṅkaḥ](raṅkaḥ) [kalasaṃ](kalasaṃ) [ravi](ravi) [kalasaṃ](kalasaṃ) [dhvanivācakaḥ](dhvanivācakaḥ)
+[khadga-ish](khaḍgīśo) [jvalini](jvālinī) [vaksha](vakṣaḥ) [vanka](vaṅkaḥ) [ranka](raṅkaḥ) [kalasha](kalasaṃ) [ravi](ravi) [kalasha](kalasaṃ) [dhvani-vachaka](dhvanivācakaḥ)
 
 ## mukta-m0-p09-v202
-[12](12) [tridhātuḥ](tridhātuḥ) [śaṅkaraḥ](śaṅkaraḥ) [śreṣṭho](śreṣṭho) [viśeṣo](viśeṣo) [yamasādanam](yamasādanam)
+[tri-dhatu](tridhātuḥ) [shankara](śaṅkaraḥ) [shreshtha](śreṣṭho) [vishesha](viśeṣo) [yama-sadana](yamasādanam)
 
 ## mukta-m0-p09-v203
-[śa](śa)
+[sha](śa)
 
 ## mukta-m0-p09-v204
-[saukhyamāmā](saukhyamāmā) [kumāro'sthi](kumāro'sthi) [śrīkaṇṭho](śrīkaṇṭho) [vṛṣaketanaḥ](vṛṣaketanaḥ)
+[saukhya-nama](saukhyānāmā) [kumara](kumāro'sthi) [shri-kantha](śrīkaṇṭho) [vrisha-ketana](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
-[16](16) [mṛtyudevo](mṛtyudevo) [mṛtyurdevo](mṛtyurdevo) [mahālakṣmīrmahendraḥ](mahālakṣmīrmahendraḥ) [kulakaulinī](kulakaulinī)
+[mrityu-deva](mṛtyudevo) [maha-lakshmi](mahālakṣmīrmahendraḥ) [kula-kaulini](kulakaulinī)
 
 ## mukta-m0-p09-v206
-[vāmoruḥ](vāmoruḥ) [puṇḍarīkātmā](puṇḍarīkātmā) [kāntiḥ](kāntiḥ) [kalyāṇavācakaḥ](kalyāṇavācakaḥ)
+[vamoru](vāmoruḥ) [pundarika-atma](puṇḍarīkātmā) [kanti](kāntiḥ) [kalyana-vachaka](kalyāṇavācakaḥ)
 
 ## mukta-m0-p09-v207
-[parameṣṭhī](parameṣṭhī) [vāmabāhuḥ](vāmabāhuḥ) [śreṣṭho](śreṣṭho) [garbhavimocanaḥ](garbhavimocanaḥ)
+[parameshthi](parameṣṭhī) [vama-bahu](vāmabāhuḥ) [shreshtha](śreṣṭho) [garbha-vimochana](garbhavimocanaḥ)
 
 ## mukta-m0-p09-v208
-[4](4) [suśrīruṣmā](suśrīruṣmā) [vṛṣo](vṛṣo) [lajjā](lajjā) [marudbhakṣyaḥ](marudbhakṣyaḥ) [priyaḥ](priyaḥ) [śivaḥ](śivaḥ)
+[su-shri](suśrīruṣmā) [vrisha](vṛṣo) [lajja](lajjā) [marud-bhakshya](marudbhakṣyaḥ) [priya](priyaḥ) [shiva](śivaḥ)
 
 ## mukta-m0-p09-v209
-[kalakaṇṭho](kalakaṇṭho) [madhyabhinnā](madhyabhinnā) [yuddhātmā](yuddhātmā) [khalpūḥ](khalpūḥ) [malapuḥ](malapuḥ) [śiraḥ](śiraḥ)
+[kala-kanta](kalakaṇṭho) [madhya-bhinna](madhyabhinnā) [yuddha-atma](yuddhātmā) [khalpu](khalpūḥ) [shira](śiraḥ)
 
 ## mukta-m0-p09-v210
-[8](8) [jagadbījaṃ](jagadbījaṃ) [śaktināmā](śaktināmā) [so'haṃ](so'haṃ) [moho](moho) [vega(śa)vatī](vega(śa)vatī) [bhṛguḥ](bhṛguḥ)
+[jagat-bija](jagadbījaṃ) [shakti-nama](śaktināmā) [so-ham](so'haṃ) [vega-vati](vega(śa)vatī) [bhrgu](bhṛguḥ)
 
 ## mukta-m0-p09-v211
-[dakṣapādo'mṛtaṃ](dakṣapādo'mṛtaṃ) [brāhmī](brāhmī) [paramātmā](paramātmā) [paro'kṣaraḥ](paro'kṣaraḥ)
+[daksha-pada](dakṣapādo'mṛtaṃ) [brahmi](brāhmī) [paramatma](paramātmā) [parakshara](paro'kṣaraḥ)
 
 ## mukta-m0-p09-v212
-[12](12) [prāṇādyastripurādevī](prāṇādyastripurādevī) [śca](śca) [purā](purā) [devī](devī) [lakṣmīḥ](lakṣmīḥ) [somo](somo) [hiraṇyabhūḥ](hiraṇyabhūḥ) [hiraṇyapuḥ](hiraṇyapuḥ)
+[prana-adi](prāṇādyastripurādevī) [lakshmi](lakṣmīḥ) [soma](somo) [hiranya-bhu](hiraṇyabhūḥ)
 
 ## mukta-m0-p09-v213
-[durgottāriṇī](durgottāriṇī) [sammohā](sammohā) [jīvo](jīvo) [mūrtimanoharaḥ](mūrtimanoharaḥ) [manojavaḥ](manojavaḥ)
+[durga-uttarini](durgottāriṇī) [sammoha](sammohā) [jiva](jīvo) [murti-manohara](mūrtimanoharaḥ)
 
 ## mukta-m0-p09-v214
-[nakulīśo](nakulīśo) [jagatprāṇaḥ](jagatprāṇaḥ) [prāṇeśaḥ](prāṇeśaḥ) [kapilā'malaḥ](kapilā'malaḥ) [malaḥ](malaḥ) [mataḥ](mataḥ)
+[nakulisha](nakulīśo) [jagat-prana](jagatprāṇaḥ) [pranisha](prāṇeśaḥ) [kapila-amala](kapilā'malaḥ)
 
 ## mukta-m0-p09-v215
-[mṛgo'bhayā'ruṇā](mṛgo'bhayā'ruṇā) [sthāṇuḥ](sthāṇuḥ) [kroṣṭuḥ](kroṣṭuḥ) [kūpavirāvaṇaḥ](kūpavirāvaṇaḥ) [kraṭakūpavirāvaṇaḥ](kraṭakūpavirāvaṇaḥ) [kūṭakoparivāraṇaḥ](kūṭakoparivāraṇaḥ)
+[mrga-abhaya-aruna](mṛgo'bhayā'ruṇā) [sthanu](sthāṇuḥ) [kroshtu](kroṣṭuḥ) [kupa-viravana](kūpavirāvaṇaḥ)
 
 ## mukta-m0-p09-v216
-[1](1) [sva(sa)kopavāraṇaḥ](sva(sa)kopavāraṇaḥ) [śūlī](śūlī) [caitanyaṃ](caitanyaṃ) [pādapūraṇaḥ](pādapūraṇaḥ)
+[sva-kopa-varana](sva(sa)kopavāraṇaḥ) [shuli](śūlī) [chaitanya](caitanyaṃ) [pada-purana](pādapūraṇaḥ)
 
 ## mukta-m0-p09-v217
-[bindurdurgā](bindurdurgā) [priyā](priyā) [devī](devī) [meghaḥ](meghaḥ) [śyāmeśvaraḥ](śyāmeśvaraḥ) [pumān](pumān)
+[bindu](bindurdurgā) [priya-devi](priyā devī) [megha](meghaḥ) [shyameshvara](śyāmeśvaraḥ) [puman](pumān)
 
 ## mukta-m0-p09-v218
-[4](4) [dakṣapādaḥ](dakṣapādaḥ) [sadā](sadā) [śambhuḥ](śambhuḥ) [sākhoṭaḥ](sākhoṭaḥ) [somamaṇḍalam](somamaṇḍalam)
+[daksha-pada](dakṣapādaḥ) [sada-shambhu](sadā śambhuḥ) [sakhota](sākhoṭaḥ) [soma-mandala](somamaṇḍalam)
 
 ## mukta-m0-p09-v219
-[vyāpinī](vyāpinī) [śivadā](śivadā) [keturjagat](keturjagat) [sīrataraṃ](sīrataraṃ) [haṭhaḥ](haṭhaḥ)
+[vyapini](vyāpinī) [shiva-da](śivadā) [ketu](keturjagat) [sira-tara](sīrataraṃ) [hatha](haṭhaḥ)
 
 ## mukta-m0-p09-v220
-[8](8) [jaṭharo](jaṭharo) [nakuliḥ](nakuliḥ) [pītaḥ](pītaḥ) [pītā](pītā) [śiveśo'naṅgamālinī](śiveśo'naṅgamālinī)
+[jathara](jaṭharo) [nakuli](nakuliḥ) [pita](pītaḥ) [shivesha](śiveśo'naṅgamālinī)
 
 ## mukta-m0-p09-v221
-[kṣa](kṣa)
+[ksha](kṣa)
 
 ## mukta-m0-p09-v222
-[nṛsiṃho](nṛsiṃho) [vidyutā](vidyutā) [māyā](māyā) [mahātejā](mahātejā) [yugāntakaḥ](yugāntakaḥ)
+[nrsimha](nṛsiṃho) [vidyuta](vidyutā) [maya](māyā) [maha-teja](mahātejā) [yugantaka](yugāntakaḥ)
 
 ## mukta-m0-p09-v223
-[12](12) [sarvāṅgaṃ](sarvāṅgaṃ) [sarvāṃgaḥ](sarvāṃgaḥ) [sāgaraḥ](sāgaraḥ) [kāmaḥ](kāmaḥ) [saṃyogāntastripūrakaḥ](saṃyogāntastripūrakaḥ)
+[sarvanga](sarvāṅgaṃ) [sagara](sāgaraḥ) [kama](kāmaḥ) [samyoga-anta-tripuraka](saṃyogāntastripūrakaḥ)
 
 ## mukta-m0-p09-v224
-[mukhaṃ](mukhaṃ) [kavyaṃ](kavyaṃ) [mahānantā](mahānantā) [kavyavahā'nantā](kavyavahā'nantā) [kālajihvā](kālajihvā) [gaṇeśvaraḥ](gaṇeśvaraḥ)
+[mukha](mukhaṃ) [kavya](kavyaṃ) [maha-ananta](mahānantā) [kala-jihva](kālajihvā) [ganeshvara](gaṇeśvaraḥ)
 
 ## mukta-m0-p09-v225
-[chāyāputraśca](chāyāputraśca) [saṃghāto](saṃghāto) [malayaśrīrlalāṭakaḥ](malayaśrīrlalāṭakaḥ)
+[chaya-putra](chāyāputraśca) [sanghata](saṃghāto) [malaya-shri](malayaśrīrlalāṭakaḥ)
