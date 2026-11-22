@@ -11,7 +11,7 @@
 [śa](śa)
 
 ## mukta-m0-p09-v204
-[saukhyanāmā](saukhyanāmā) [kumāro'sthi](kumāro'sthi) [śrīkaṇṭho](śrīkaṇṭho) [vṛṣaketanaḥ](vṛṣaketanaḥ)
+[saukhyānāmā](saukhyānāmā) [kumāro'sthi](kumāro'sthi) [śrīkaṇṭho](śrīkaṇṭho) [vṛṣaketanaḥ](vṛṣaketanaḥ)
 
 ## mukta-m0-p09-v205
 [16](16) [mṛtyudevo](mṛtyudevo) [mṛtyurdevo](mṛtyurdevo) [mahālakṣmīrmahendraḥ](mahālakṣmīrmahendraḥ) [kulakaulinī](kulakaulinī)
