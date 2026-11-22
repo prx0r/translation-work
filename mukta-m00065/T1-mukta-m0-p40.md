@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[gauṇaḥ](gauṇaḥ) [kṣetre](kṣetre) [athavā](athavā) [ṣaḍdorekavaktraḥ](ṣaḍdorekavaktraḥ) [praśasyate](praśasyate)
+[secondary](gauṇaḥ) [in-field](kṣetre) [or](athavā) [six-doreka-faced](ṣaḍdorekavaktraḥ) [praised](praśasyate)
 
 ## mukta-m0-p40-v977
-[yathākramaṃ](yathākramaṃ) [sadā](sadā) [ṣaḍbhiḥ](ṣaḍbhiḥ) [dakṣiṇottara](dakṣiṇottara)+[pāṇibhiḥ](pāṇibhiḥ)
+[as-order](yathākramaṃ) [always](sadā) [with-six-right-left-hands](ṣaḍbhirdakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-[bibhrat](bibhrat)+[śaktiṃ](śaktiṃ) [kare](kare) [yāmye](yāmye) [tāmracūḍaṃ](tāmracūḍaṃ) [tathā](tathā)+[itare](itare)
+[bearing-power](bibhrachaktiṃ) [in-hand](kare) [southern](yāmye) [copper-crested](tāmracūḍaṃ) [and](tathā) [other](itare)
 
 ## mukta-m0-p40-v979
-[śikhyārūḍhaḥ](śikhyārūḍhaḥ)+[tu](tu) [śārvaḥ](śārvaḥ)+[ayaṃ](ayaṃ) [sarva](sarva)+[alaṅkāra](alaṅkāra)+[bhaṣitaḥ](bhaṣitaḥ)
+[peacock-mounted](śikhyārūḍhastu) [śiva-this](śārvo'yaṃ) [all-ornamented](sarvālaṅkārabhaṣitaḥ)
 
 ## mukta-m0-p40-v980
-[śilā](śilā)+[hema](hema)+[ādi](ādi)+[lohaiḥ](lohaiḥ)+[vā](vā) [vṛṣaṃ](vṛṣaṃ) [kuryāt](kuryāt)+[yathā](yathā)+[īpsitam](īpsitam)
+[stone-gold-etc-metals](śilāhemādilohairvā) [bull](vṛṣaṃ) [make](kuryād) [as-desired](yathepsitam)
 
 ## mukta-m0-p40-v981
-[sādhāraṇeṣu](sādhāraṇeṣu) [liṅgeṣu](liṅgeṣu) [prastāvāt](prastāvāt)+[vihitaḥ](vihitaḥ) [vṛṣaḥ](vṛṣaḥ)
+[in-common](sādhāraṇeṣu) [liṅgas](liṅgeṣu) [from-context](prastāvād) [prescribed](vihito) [bull](vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-[liṅga](liṅga)+[tryaṃśa](tryaṃśa)+[ujhitaḥ](ujhitaḥ) [kāryaḥ](kāryaḥ)+[tad](tad)+[dvirāyati](dvirāyati)+[vigrahaḥ](vigrahaḥ)
+[liṅga-third-less](liṅgatryaṃśojhitaḥ) [to-be-made](kāryaḥ) [that-twice-measure-image](taddvirāyativigrahaḥ)
 
 ## mukta-m0-p40-v983
-[śubha](śubha)+[unmolita](unmolita)+[dṛg](dṛg)+[lakṣma](lakṣma) [liṅga](liṅga)+[mastaka](mastaka)+[mastakaḥ](mastakaḥ)
+[auspicious-opened-eye-mark](śubhonmolitadṛglakṣma) [liṅga-head-head](liṅgamastakamastakaḥ)
 
 ## mukta-m0-p40-v984
-[dairghyāt](dairghyāt)+[caturaśa](caturaśa)+[utyaśa](utyaśa)+[aṅgulaṃ](aṅgulaṃ) [tena](tena) [kalpanam](kalpanam)
+[from-length](dairghyāt) [square-measure](caturaśotyaśāscāṅgulaṃ) [by-that](tena) [measurement](kalpanam)
 
 ## mukta-m0-p40-v985
-[aṣṭa](aṣṭa)+[netra](netra)+[pṛthutvaṃ](pṛthutvaṃ) [syāt](syāt)+[proccais](proccais)+[tad](tad)+[vaktra](vaktra)+[dīrghatā](dīrghatā)
+[eight-eye-breadth](aṣṭanetrapṛthutvaṃ) [would-be](syāt) [high-long-face](proccaistadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-[tantri](tantri)+[bhāgaṃ](bhāgaṃ) [tu](tu) [tārā](tārā) [syāt](syāt)+[jyotiḥ](jyotiḥ)+[tat](tat)+[pañcama](pañcama)+[aṃśataḥ](aṃśataḥ)
+[string-part](tantribhāgaṃ) [star](tārā) [would-be](syāt) [light](jyotis) [that-fifth-part](tatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-[nāsā](nāsā)+[aṅgula](aṅgula)+[pramā](pramā)+[vṛttā](vṛttā) [dvi](dvi)+[netraṃ](netraṃ) [śuṣira](śuṣira)+[antaram](antaram)
+[nose-inch-circumference](nāsāṅgulapramāvṛttā) [two-eye](dvinetraṃ) [hollow-middle](śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-[pañca](pañca)+[netraṃ](netraṃ) [tu](tu) [vistāraṃ](vistāraṃ) [tad](tad)+[ūrdhva](ūrdhva) [tu](tu) [vivardhate](vivardhate)
+[five-eye](pañcanetraṃ) [width](tu) [that-above](tadūrdhva) [increases](vivardhate)
 
 ## mukta-m0-p40-v989
-[caturnetra](caturnetra)+[ubhayoḥ](ubhayoḥ) [pārśve](pārśve) [vaktra](vaktra)+[mānaṃ](mānaṃ) [tu](tu) [sandhitaḥ](sandhitaḥ)
+[four-eye-both](caturnetrobhayoḥ) [sides](pārśve) [face-measure](vaktramānaṃ) [joined](tu) [sandhitaḥ]
 
 ## mukta-m0-p40-v990
-[tan](tan)+[mūle](mūle) [sapta](sapta)+[vistāraṃ](vistāraṃ) [karṇa](karṇa)+[mūla](mūla)+[samanvitam](samanvitam)
+[at-root](tanmūle) [seven-width](saptavistāraṃ) [ear-root-joined](karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-[aṅgula](aṅgula)+[ardha](ardha)+[samaṃ](samaṃ) [yāvat](yāvat)+[mūlaṃ](mūlaṃ) [pañcaka](pañcaka)+[vartulaṃ](vartulaṃ)
+[half-inch](aṅgulārdhasamaṃ) [until](yāvat) [root](mūlaṃ) [five-circular](pañcakavartulam)
 
 ## mukta-m0-p40-v992
-[karṇa](karṇa)+[mūlāt](mūlāt)+[tu](tu) [nāsā](nāsā)+[ardhaṃ](ardhaṃ) [sūtra](sūtra)+[hāsa](hāsa)+[ān](ān)+[nayet](nayet)+[samam](samam)
+[from-ear-root](karṇamūlāt) [to-nose-half](tu) [nāsārdhaṃ](nāsārdhaṃ) [thread-line](sūtrahāsānnayetsamam)
 
 ## mukta-m0-p40-v993
-[śaṅkha](śaṅkha)+[mūla](mūla) [dvi](dvi)+[netraṃ](netraṃ) [syāt](syāt)+[yathā](yathā)+[agre](agre) [netra](netra)+[pādakam](pādakam)
+[conch-root](śaṅkhamūla) [two-eye](dvinetraṃ) [would-be](syāt) [as-front](yathāgre) [eye-foot](netrapādakam)
 
 ## mukta-m0-p40-v994
-[pārśva](pārśva)+[piṇḍī](piṇḍī) [dvi](dvi)+[netra](netra)+[ardhaṃ](ardhaṃ) [ṣaḍ](ṣaḍ)+[netra](netra)+[agra](agra)+[avaṭuḥ](avaṭuḥ) [smṛtaḥ](smṛtaḥ)
+[side-lump](pārśvapiṇḍī) [two-eye-half](dvinetrārdhaṃ) [six-eye-front-depression](ṣaḍnetrāgrāvaṭuḥ) [remembered](smṛtaḥ)
 
 ## mukta-m0-p40-v995
-[dvi](dvi)+[netra](netra)+[ucchraya](ucchraya)+[tordhvaṃ](tordhvaṃ) [syāt](syāt)+[vṛtta](vṛtta)+[mūrdhvaṃ](mūrdhvaṃ) [yathā](yathā) [bhavet](bhavet)
+[two-eye-height-up](dvinetrocchrayatordhvaṃ) [would-be](syāt) [round-up](vṛttamūrdhvaṃ) [as](yathā) [becomes](bhavet)
 
 ## mukta-m0-p40-v996
-[sandhiḥ](sandhiḥ)+[netra](netra)+[adhikaḥ](adhikaḥ) [proktaḥ](proktaḥ)+[caturnetra](caturnetra)+[upajaṅghikā](upajaṅghikā)
+[joint](sandhir) [eye-more](netrādhikaḥ) [said](proktaḥ) [four-eye-calf](caturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-[gulpha](gulpha)+[ardhaṃ](ardhaṃ) [khurikā](khurikā)+[netraṃ](netraṃ) [pādasya](pādasya)+[āt](āt)+[parimāṇataḥ](parimāṇataḥ)
+[ankle-half](gulphārdhaṃ) [hoof-eye](khurikānetraṃ) [of-foot](pādasyāt) [measure](parimāṇataḥ)
 
 ## mukta-m0-p40-v998
-[caturdaśa](caturdaśa)+[ādi](ādi) [tad](tad)+[vaca](vaca) [tri](tri)+[hīne](hīne) [ca](ca)+[upajaṅghrikā](upajaṅghrikā)
+[fourteen-etc](caturdaśādi) [that-word](tadvaca) [three-less](trihīne) [calf](copajaṅghrikā)
 
 ## mukta-m0-p40-v999
-[ṣaḍ](ṣaḍ)+[netra](netra)+[antaḥ](antaḥ)+[tathā](tathā)+[jñeyā](jñeyā) [tasmāt](tasmāt)+[syāt](syāt)+[puccha](puccha)+[santatiḥ](santatiḥ)
+[six-eye-inside](ṣaḍnetrāntastathājñeyā) [therefore](tasmāt) [tail-continuity](syātpucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-[tāla](tāla)+[trayaṃ](trayaṃ) [pradīrghaṃ](pradīrghaṃ) [syāt](syāt)+[tāla](tāla)+[ardhaṃ](ardhaṃ) [keśa](keśa)+[saṃhatiḥ](saṃhatiḥ)
+[three-palm](tālatrayaṃ) [very-long](pradīrghaṃ) [would-be](syāt) [palm-half](tālārdhaṃ) [hair-mass](keśasaṃhatiḥ)
