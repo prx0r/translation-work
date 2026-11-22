@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[beating](tāḍana) [foremost](pramukhaṃ) [action](karma) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
+[striking](tāḍana) [chief](pramukhaṃ) [action](karmataṃ) [cause](hetuṃ) [speak](kathaya) [lord](prabho)
 
 ## mukta-m0-p27-v652
-[delusion](mohaṃ) [moment](kṣaṇe) [messenger](dūtyā) [enjoy](bhajaṃte) [playful-action](narma+karmaṇi)
+[delusion](mohaṃ) [moment](kṣaṇe) [moment](kṣaṇe) [messenger](dūtyā) [worship](bhajaṃte) [playful-action](narmakarmaṇi)
 
 ## mukta-m0-p27-v653
-[therefore](tasmāt) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [flow](dravaṃtyeva) [messengers](dūtikāḥ)
+[therefore](tasmāt) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [melt](dravaṃtyeva) [messengers](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-[delays](vilaṃbate) [pleasure](ratiṃ) [give](dātuṃ) [that-delay](tad+vilaṃbāt) [pleasure-where](sukhaṃ+kutaḥ)
+[delays](vilaṃbate) [pleasure](ratiṃ) [to-give](dātuṃ) [from-that-delay](tadvilaṃbāt) [happiness-where](sukhaṃkutaḥ)
 
 ## mukta-m0-p27-v655
-[they](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [love-rite](rata+adhvare)
+[they](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [love-rite](ratādhvare)
 
 ## mukta-m0-p27-v656
-[messenger](dūtyā) [runs](udravati) [much](bahuśaḥ) [butter](navanītam) [like](iva) [fire](agninā)
+[messenger](dūtyā) [rushes](udravati) [much](bahuśaḥ) [butter](navanītam) [like-fire](ivāgninā)
 
 ## mukta-m0-p27-v657
-[dissolution](layam) [meaning-dissolution](artha+layaṃ) [and](ca) [api](api) [then](tadā) [striking-dissolution](ghaṭṭa+layaṃ) [beloved](priye)
+[dissolution](layam) [meaning-dissolution](arthalayaṃ) [and](cāpi) [then](tadā) [pot-dissolution](ghaṭṭalayaṃ) [beloved](priye)
 
 ## mukta-m0-p27-v658
-[moving](acaran) [messenger-body](dūtikā+gātram) [blissful-state](ānanda+mayatāṃ) [leads](nayet)
+[non-moving](acaran) [messenger-limb](dūtikāgātram) [blissful-state](ānaṃdamayatāṃ) [leads](nayet)
 
 ## mukta-m0-p27-v659
-[oneself](svayam) [extremely](atyaṃta) [steadfast-soul](dhīra+ātmā) [meditating](bhāvayan) [linga-key](liṃga+kuṃcikām)
+[self](svayam) [extreme](atyaṃta) [steadfast-soul](dhīrātmā) [contemplating](bhāvayan) [linga-key](liṃgakuṃcikām)
 
 ## mukta-m0-p27-v660
-[eternal-bliss](nitya+ānanda+mayaṃ) [principle](tatvaṃ) [world-pervading](jagat+vyāptaṃ) [contemplate](viciṃtayat)
+[eternal](nitya) [blissful](ānaṃdamayaṃ) [truth](tatvaṃ) [world-pervading](jagadvyāptaṃ) [considering](viciṃtayat)
 
 ## mukta-m0-p27-v661
-[this](ayam) [eva](eva) [great-sacrifice](mahā+yajñaḥ) [austerity](tapaḥ) [and](ca) [this](idam) [unsurpassed](anuttamam)
+[this](ayam) [eva](eva) [great-sacrifice](mahāyajñaḥ) [austerity](tapaḥ) [ced](ced) [this](idam) [supreme](anuttamam)
 
 ## mukta-m0-p27-v662
-[this](idaṃ) [vow](vrataṃ) [great-merit](mahā+puṇyam) [bliss-nonduality-giving](ānanda+advaita+dāyakaṃ)
+[this](idaṃ) [vow](vrataṃ) [great-meritorious](mahāpuṇyam) [bliss-nondual-giving](ānaṃdādvaitadāyakaṃ)
 
 ## mukta-m0-p27-v663
-[drop-emission](biṃdu+vikṣaraṇaṃ) [named](nāma) [sacrifice-conclusion](yajña+avabhṛtha) [called](ucyate)
+[drop-emission](biṃduvikṣaraṇaṃ) [named](nāma) [sacrificial-bath](yajñāvabhṛtha) [called](ucyate)
 
 ## mukta-m0-p27-v664
-[as](yathā) [as](yathā) [time-length](kāla+dairghyaṃ) [steadiness-bond](dhairya+baṃdhena) [greatly](bhūyasā)
+[as](yathā) [as](yathā) [time-length](kāladairghyaṃ) [steadiness-bond](dhairyabaṃdhena) [more](bhūyasā)
 
 ## mukta-m0-p27-v665
-[fire](agniḥ) [in-mouth](mukhe) [mercury-like](pārada+vat) [not](na) [steadiness](dhairyam) [follows](anudhāvati)
+[fire](agniḥ) [in-mouth](mukhe) [mercury-like](pāradavat) [not](na) [steadiness](dhairyam) [follows](anudhāvati)
 
 ## mukta-m0-p27-v666
-[how](kathaṃ) [becomes](bhavati) [Caṇḍīśa](caṇḍīśa) [firm](prastabdhaṃ) [white](śukla) [in-limb](maṃgake)
+[how](kathaṃ) [becomes](bhavati) [caṇḍīśa](caṇḍīśa) [firm](prastabdhaṃ) [white-limb](śuklamaṃgake)
 
 ## mukta-m0-p27-v667
-[extremely](atyaṃta) [wonder-causing](āścarya+janakaṃ) [if](yadi) [white](śuklasya) [retention](dhāraṇā)
+[extremely](atyaṃta) [wonder-causing](āścaryajanakaṃ) [if](yadi) [white](śuklasya) [retention](dhāraṇā)
 
 ## mukta-m0-p27-v668
-[not](na) [even](tu) [with-effort](kena+api yatnena) [arises](jāyate) [white-retention](śukla+dhāraṇā)
+[not](natu) [even](kenāpi) [effort](yatnena) [arises](jāyate) [white-retention](śukladhāraṇā)
 
 ## mukta-m0-p27-v669
-[in-kāma-tantras](kāma+tantra+eṣu) [much](bahuśaḥ) [by-enjoyers](bhogibhiḥ) [what](yat) [performed](anuṣṭhitam)
+[in-kāma-tantras](kāmataṃtreṣu) [much](bahuśaḥ) [by-enjoyers](bhogibhir) [what](yad) [performed](anuṣṭhitam)
 
 ## mukta-m0-p27-v670
-[that](tad) [I-say](vadāmi) [great-fortunate](mahā+bhāge) [stopping](staṃbhanaṃ) [essence-accomplishments](rasa+saṃpadām)
+[that](tad) [I-speak](vadāmi) [great-fortunate-one](mahābhāge) [stopping](staṃbhanaṃ) [essence-excellence](rasasaṃpadām)
 
 ## mukta-m0-p27-v671
-[delights](nandayate) [somehow](kathamapi) [mature](prauḍha) [one](eka) [essence](rasa) [by-wise](budhaiḥ)
+[not](na) [obtained](ndavyate) [somehow](kathamapi) [mature](prauḍham) [one](eka) [essence](rasaḥ) [by-wise](budhaiḥ)
 
 ## mukta-m0-p27-v672
-[all](sarve) [api](api) [elements](dhātavaḥ) [O-goddess](devī) [own-own-place](sva+sva+sthāne) [made-shelter](kṛta+āśrayāḥ)
+[all](sarve) [api](api) [tissues](dhātavaḥ) [goddess](devī) [in-own-place](svasvasthāne) [made-refuge](kṛtāśrayāḥ)
 
 ## mukta-m0-p27-v673
-[in-nāḍī-cakras](nāḍī+cakra+eṣu) [all](sarveṣu) [residing](vasan) [api](api) [lord-of-essence](rasa+īśvaraḥ)
+[in-nāḍī-cakras](nāḍīcakreṣu) [all](sarveṣu) [dwelling](vasan) [api](api) [mercury-lord](raseśvaraḥ)
 
 ## mukta-m0-p27-v674
-[some](kecid) [say](vadaṃti) [between-brows](bhrū+madhye) [some](kecid) [in-heart](hṛdi) [supreme-jewel](pare+maṇau)
+[some](kecid) [say](vadaṃti) [between-brows](bhrūmadhye) [some](kecid) [in-heart-gem](hṛdiparemaṇau)
 
 ## mukta-m0-p27-v675
-[some](kecid) [on-ūrvos](ūrvoḥ) [surface](tale) [O-goddess](devi) [some](kecid) [on-hips](jaghana+sīmani)
+[some](decid) [on-urva-thigh](ūrvostale) [goddess](devi) [some](decid) [on-hip-joint](jaghanasīmani)
