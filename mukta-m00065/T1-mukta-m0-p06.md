@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p06-v126
-diśaḥ-directions virecya-purifying ca-and astreṇa-by-weapon vighna-nāśāya-for-obstacle-destruction daiśikaḥ-guide
+[directions](diśo) [purifying](virecya) [by-weapon](cāstreṇa) [for-destruction-of-obstacles](vighnanāśāya) [teacher](daiśikaḥ)
 
 ## mukta-m0-p06-v127
-mantra-rakṣā-vidhim-rite-of-mantra-protection kṛtvā-having-done saṃjapa/saṃyajan-japa-or-offering niṣṭa-devatām-chosen-deity
+[mantra-protection-rite](mantrarakṣāvidhi) [having-done](kṛtvā) [chant](saṃjapa) [chosen-deity](nniṣṭadevatām)
 
 ## mukta-m0-p06-v128
-iti-thus lakṣaṇa-samuccaye-in-characteristic-compendium liṅga-dravya-nirṇaya-vana-praveśaḥ-linga-material-determination-forest-entry nāma-named prathama-vidhiḥ-first-rite
+[thus](iti) [in-collection-of-characteristics](lakṣaṇasamuccaye) [entry-into-forest-for-determination-of-liṅga-substance](liṅgadravyanirṇayavanapraveśo) [named](nāma) [first-rite](prathamovidhiḥ)
 
 ## mukta-m0-p06-v129
-svarūpam-true-nature kathyate-described samyak-properly iṣṭa-aniṣṭa-auspicious-inauspicious ca-and karmaṇi-in-actions
+[true-nature](svarūpaṃ) [is-described](kathyate) [properly](samyagiṣṭāniṣṭa) [and](ca) [in-action](karmaṇi)
 
 ## mukta-m0-p06-v130
-dhīraḥ-steadfast śāstra-artha-kārī-scripture-meaning-doer ca-and kartā-agent yaḥ-who sātvikaḥ-sattvic varaḥ-best
+[steadfast](dhīraḥ) [doer-of-scripture-meaning](śāstrārthakārī) [and](ca) [agent](kartā) [who](yaḥ) [sattvic](sātviko) [best](varaḥ)
 
 ## mukta-m0-p06-v131
-nāstikaḥ-atheist tārkikaḥ-logician krūraḥ-cruel kartā-agent yaḥ-who tāmasaḥ-tamasic adhamaḥ-lowest
+[atheist](nāstikastārkikaḥ) [cruel](krūraḥ) [agent](kartā) [who](yastāmaso'dhamaḥ)
 
 ## mukta-m0-p06-v132
-tasmāt-therefore te-those guravaḥ-gurus anveṣyāḥ-to-be-sought ye-who tat-śāstreṣu-in-those-scriptures bhāṣitāḥ-spoken
+[therefore](tasmātte) [teachers](guravo'nveṣyā) [who](ye) [in-those-scriptures](tacchāstreṣu) [spoken](bhāṣitāḥ)
 
 ## mukta-m0-p06-v133
-antarvedī-antarvedi pratiṣṭhāna-pratishthana śrāvastī-śrāvastī guravaḥ-gurus varāḥ-best
+[of-Antarvedi-Pratishthana-Shravasti](antarvedīpratiṣṭhānaśrāvastyā) [teachers](guravo) [best](varāḥ)
 
 ## mukta-m0-p06-v134
-āṅgāḥ-āṅga jāṭa-udbhavāḥ-jāṭa-born ca-et-cetera sapta-ete-seven-these madhyamāḥ-middle smṛtāḥ-remembered
+[of-Anga](āṅgā) [born-in-Jata](jāṭodbhavāśceti) [seven](saptaite) [middle](madhyamāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p06-v135
-vīrajāḥ-vīraja drāviḍāḥ-drāviḍa pauṇḍrāḥ-pauṇḍra aṣṭa-ete-eight-these guravaḥ-gurus adhamāḥ-lowest
+[Vīraja](vīrajā) [Dravida](drāviḍāpauṇḍrāstvaṣṭaiteguravo'dhamāḥ)
 
 ## mukta-m0-p06-v136
-vāṅga-vāṅga gāndhāra-gāndhāra pauliṅga-pauliṅga ete-these sapta-seven antyajāḥ-antyaja matāḥ-considered
+[Vanga](vāṅgagāndhārapauliṅgā) [these](ete) [seven](saptāntyajā) [lowest-born](matāḥ)
 
 ## mukta-m0-p06-v137
-saurāṣṭrāḥ-saurāṣṭra devarāṣṭrāḥ-devarāṣṭra ca-and aṣṭa-ete-eight-these ninditāḥ-condemned bhṛśam-strongly
+[Saurashtra](saurāṣṭrā) [Devarashtra](devarāṣṭrāśca) [eight](aṣṭaite) [condemned](ninditā) [strongly](bhṛśam)
 
 ## mukta-m0-p06-v138
-adhamā-ādyāḥ-lowest-etc śubhe-in-auspicious na-iṣṭāḥ-not-desired āryāvarte-in-āryāvarta hi-indeed doṣa-dāḥ-fault-giving
+[lowest-etc](adhamādyāḥ) [in-auspicious](śubhe) [not-desired](neṣṭā) [in-Aryavarta](āryāvarte) [indeed](hi) [giving-faults](doṣadāḥ)
 
 ## mukta-m0-p06-v139
-yaḥ-which deśaḥ-region madhya-bhāgaḥ-middle-part syāt-be āryāvartaḥ-āryāvarta saḥ-that kīrtitaḥ-praised
+[which](yo) [region](deśo) [middle-part](madhyabhāgaḥ) [may-be](syādāryāvartaḥ) [that](sa) [praised](kīrtitaḥ)
 
 ## mukta-m0-p06-v140
-gotra-gocara-saṃyuktāḥ-gotra-gocara-joined samaya-ādi-yukta-lakṣaṇāḥ-convention-etc-joined-characteristics
+[joined-with-gotra-and-range](gotragocarasaṃyuktāḥ) [characteristics-joined-with-convention-etc](samayādyuktalakṣaṇāḥ)
 
 ## mukta-m0-p06-v141
-dīkṣā-guṇena-saṃpūrṇām-initiation-quality-filled ye-who jānanti-know atha-then saṃhitām-samhita
+[complete-with-initiation-quality](dīkṣāguṇenasaṃpūrṇāṃ) [who](ye) [know](jānantyatha) [collection](saṃhitām)
 
 ## mukta-m0-p06-v142
-bhāryāvarta-udbhavāḥ-bhāryāvarta-born śaivāḥ-śaivas sarva-lakṣaṇa-lakṣitāḥ-all-characteristics-marked
+[born-in-Bharyavarta](bhāryāvartodbhavāḥ) [Shaivas](śaivāḥ) [marked-by-all-characteristics](sarvalakṣaṇalakṣitāḥ)
 
 ## mukta-m0-p06-v143
-pīṭha-dhāma-ādi-kuṇḍa-jñāḥ-seat-abode-etc-kunda-knowers pratiṣṭhā-sthāna-vedakāḥ-installation-place-knowers
+[knowers-of-seat-abode-etc-kunda](pīṭhadhāmādikuṇḍajñāḥ) [knowers-of-installation-place](pratiṣṭhāsthānavedakāḥ)
 
 ## mukta-m0-p06-v144
-lobha-moha-parityaktāḥ-greed-delusion-abandoned śāntāḥ-peaceful dāntāḥ-controlled vimatsarāḥ-non-envious
+[abandoned-greed-and-delusion](lobhamohaparityaktāḥ) [peaceful](śāntā) [restrained](dāntā) [free-from-envy](vimatsarāḥ)
 
 ## mukta-m0-p06-v145
-sātvikāḥ-sattvic nipuṇāḥ-skillful dakṣāḥ-capable pañca-śrauta-artha-vedakāḥ-five-shrauta-meaning-knowers
+[sattvic](sātvikā) [skillful](nipuṇā) [capable](dakṣāḥ) [knowers-of-five-shruti-meanings](pañcaśrautārthavedakāḥ)
 
 ## mukta-m0-p06-v146
-dṛḍha-vrata-firm-vow a-jana-drohi-not-people-harming satya-vāk-truth-speaking bhūta-vatsalāḥ-beings-loving
+[firm-vowed](dṛḍhavratājanadrohisatyavāgbhūtavatsalāḥ)
 
 ## mukta-m0-p06-v147
-dīkṣitāḥ-initiated śiva-śāstre-in-shiva-scripture asmin-in-this catvāraḥ-four brāhmaṇa-ādayaḥ-brahmana-etc
+[initiated](dīkṣitāḥ) [in-Shaiva-scripture](śivaśāstre) [here](smiṃścatvāro) [Brahmins-etc](brāhmaṇādayaḥ)
 
 ## mukta-m0-p06-v148
-yojitaḥ-joined śiva-tattve-in-shiva-principle yaḥ-who śiva-rūpam-śiva-form avāptavān-obtained
+[joined](yojitaḥ) [in-Shiva-principle](śivatattve) [who](yaḥ) [Shiva-form](śivarūpamavāptavān)
 
 ## mukta-m0-p06-v149
-śūdra-ādīnām-of-shudra-etc tathā-likewise mantraiḥ-by-mantras yuktānām-joined śreṣṭhatā-superiority bhavet-becomes
+[of-Shudras-etc](śūdrādīnāṃ) [so](tathā) [by-mantras](mantrairyuktānāṃ) [superiority](śreṣṭhatā) [may-be](bhavet)
 
 ## mukta-m0-p06-v150
-tathā-eva-likewise mantra-saṃyogāt-by-mantra-union cāturvarṇaḥ-four-varna śivī-śiva bhavet-becomes
+[so](tathā) [indeed](eva) [by-mantra-union](mantrasaṃyogāccāturvarṇaḥ) [Shiva-like](śivī) [may-be](bhavet)
