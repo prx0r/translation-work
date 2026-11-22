@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-vedaṃśa-pātanāt-koṇa-mṛtāśair-atha-kambalam
-
+[veda-part](vedāṃśapātanātkoṇa) [mortal](marṭāśairatha) [blanket](kambalam)
 ## mukta-m0-p43-v1052
-tryaṃśa-praveśanāt-kaṇṭhāt-ekaika-nirgamaṃ-khuram
-
+[three-part-entry](tryaṃśapraveśanātkaṇṭhādekaikanirgamaṃ) [hoof](khuram)
 ## mukta-m0-p43-v1053
-ghaṇṭāṃ-ca-mekhalāṃ-caiva-kuryāt-śṛṅgāṇi-koṇataḥ
-
+[bell](ghaṇṭāṃ) [girdle](ca) [mekhalā](mekhalāṃ) [ca](caiva) [horns](kuryāchṛṅgāṇi) [corner](koṇataḥ)
 ## mukta-m0-p43-v1054
-prālambya-āsakta-revanta-chatra-dhāra-ādibhiḥ-yutaḥ
-
+[pendant](prālambyāsakta) [revanta](revanta) [umbrella-holder](śchatradhārādibhiryutaḥ)
 ## mukta-m0-p43-v1055
-nānā-ratna-su-veśa-āḍhyāḥ-caṇḍa-tejāḥ-svabhāva-jāḥ
-
+[various-gems](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural](svabhāvajāḥ)
 ## mukta-m0-p43-v1056
-somaṃ-saumyaṃ-tathā-śvetaṃ-kuṇḍikā-jāpya-mālinam
-
+[moon](somaṃ) [gentle](saumyaṃ) [thus](tathā) [white](śvetaṃ) [vessel](kuṇḍikājāpyamālinam)
 ## mukta-m0-p43-v1057
-budhaṃ-śyāmaṃ-yuvānaṃ-ca-rūpiṇaṃ-cāpa-pāṇinam
-
+[mercury](budhaṃ) [dark](śyāmaṃ) [youth](yuvānaṃ) [ca](ca) [form](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
 ## mukta-m0-p43-v1058
-yāmya-eka-akṣaṃ-sitaṃ-śukraṃ-kuṇḍikā-mantra-mālikam
-
+[south-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [vessel-mantra-garland](kuṇḍikāmantramālikam)
 ## mukta-m0-p43-v1059
-vyāvṛtta-āsyaṃ-sahāsyaṃ-ca-piṅga-bhrū-śmaśru-locanam
-
+[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [ca](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
 ## mukta-m0-p43-v1060
-tri-phaṇaṃ-dhūmra-varṇa-ābhaṃ-nara-nāga-ardha-rūpiṇam
-
+[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent](naranāgārdharūpiṇam)
 ## mukta-m0-p43-v1061
-etān-tu-dvi-bhujān-sarvān-bhūṣaṇa-ambara-saṃyutān
-
+[these](etāṃstu) [two-armed](dvibhujānsarvānbhūṣaṇāmbarasaṃyutān)
 ## mukta-m0-p43-v1062
-śakaṭaṃ-medhaṃ-eteṣām-adhaḥ-yānaṃ-kramāt-sadā
-
+[cart](śakaṭaṃ) [medha](medhameteṣāmadho) [vehicle](yānaṃ) [order](kramātsadā)
 ## mukta-m0-p43-v1063
-sitaḥ-sahasra-bhogaḥ-īśvaraḥ-kuvalaya-anvitaḥ
-
+[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](hīśvaraḥ) [blue-lotus](kuvalayānvitaḥ)
 ## mukta-m0-p43-v1064
-kṛṣṇaḥ-karkoṭakaḥ-kaṇṭhe-śulka-rekhā-traya-anvitaḥ
-
+[black](kṛṣṇaḥ) [karkotaka](karkoṭakaḥ) [throat](kaṇṭhe) [three-stripe](śulkarekhātrayānvitaḥ)
 ## mukta-m0-p43-v1065
-śaṅkha-varṇaḥ-mahāpadmaḥ-mastake-kṛṣṇa-śūla-dhṛk
-
+[conch-colored](śaṅkhavarṇo) [great-lotus](mahāpadmo) [head](mastake) [black-trident-holder](kṛṣṇaśūladhṛk)
 ## mukta-m0-p43-v1066
-kulikaḥ-rakta-dehaḥ-tu-candra-ardha-kṛta-mastakaḥ
-
+[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
 ## mukta-m0-p43-v1067
-akṣa-sūtra-dharāḥ-sarve-kuṇḍikā-puccha-saṃyutāḥ
-
+[rosary-holders](akṣasūtradharāḥ) [all](sarve) [vessel-tail-joined](kuṇḍikāpucchasaṃyutāḥ)
 ## mukta-m0-p43-v1068
-bhṛtyāḥ-ca-eka-phaṇāḥ-kāryāḥ-tad-rūpā-maṇi-varjitāḥ
-
+[servants](bhṛtyāścaikaphaṇāḥ) [should-be](kāryāstadrūpā) [gemless](maṇivarjitāḥ)
 ## mukta-m0-p43-v1069
-hāra-kuṇḍala-keyūraiḥ-sadā-bharaṇa-bhūṣitā
-
+[garland-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
 ## mukta-m0-p43-v1070
-īdṛśī-manasā-kāryā-śrīkaṇṭha-manasaṃbhavā
-
+[thus](īdṛśī) [mind](manasā) [should-be-made](kāryā) [shrikantha-mind-born](śrīkaṇṭhamanasambhavā)
 ## mukta-m0-p43-v1071
-yoga-paṭṭa-āvṛtaḥ-abja-sthaḥ-kuṇḍikā-ca-akṣa-sūtra-bhṛt
-
+[yoga-band](yogapaṭṭāvṛto'bjasthaḥ) [vessel](kuṇḍikā) [rosary-holder](cākṣasūtrabhṛt)
 ## mukta-m0-p43-v1072
-nānā-alaṅkāra-saṃyuktāv-utpala-maṇi-bhṛt-karau
-
+[various-ornaments](nānālaṅkārasaṃyuktāvutpalamaṇi) [gem-handed](bhṛtkarau)
 ## mukta-m0-p43-v1073
-su-dṛṣṭā-jalpa-mānā-ca-sva-utsaṅge-putra-dhāriṇī
-
+[well-seen](sudṛṣṭā) [speaking](jalpamānā) [ca](ca) [own-lap](svotsaṅge) [son-bearing](putradhāriṇī)
 ## mukta-m0-p43-v1074
-padmā-nandana-padma-stha-sva-aṅga-devī-prakīrtitā
-
+[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
 ## mukta-m0-p43-v1075
-basu-koka-kapi-dvi-kṣa-vyāghra-vyāghra-āsyakaṃ-kramāt
+[basukoka-kapi-dviksha](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
