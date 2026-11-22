@@ -11,16 +11,12 @@
 "quick_gloss": "sometimes"
 },
 {
-"surface": "ka",
-"quick_gloss": "particle"
-},
-{
-"surface": "aṇaṃ",
-"quick_gloss": "atom"
+"surface": "kaṇaṃ",
+"quick_gloss": "drop"
 },
 {
 "surface": "praveśena",
-"quick_gloss": "entry"
+"quick_gloss": "by-entry"
 },
 {
 "surface": "lāñchayitvā",
@@ -69,12 +65,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṣipedvā",
+"surface": "kṣiped",
 "quick_gloss": "throws"
 },
 {
+"surface": "vā",
+"quick_gloss": "or"
+},
+{
 "surface": "śūnyadoṣaghnaṃ",
-"quick_gloss": "void-defect-destroying"
+"quick_gloss": "void-fault-destroying"
 },
 {
 "surface": "hastāt",
@@ -115,7 +115,7 @@
 },
 {
 "surface": "amarorcite",
-"quick_gloss": "god-worshipped"
+"quick_gloss": "god-worship"
 }
 ]
 },
@@ -140,7 +140,7 @@
 },
 {
 "surface": "ādyāmarārcitena",
-"quick_gloss": "first-god-worshipped"
+"quick_gloss": "first-god-worship"
 },
 {
 "surface": "tu",
@@ -194,11 +194,11 @@
 },
 {
 "surface": "vaktavyaṃ",
-"quick_gloss": "should-speak"
+"quick_gloss": "to-be-spoken"
 },
 {
 "surface": "pīṭhavartanam",
-"quick_gloss": "pedestal-turning"
+"quick_gloss": "pedestal-rotation"
 }
 ]
 },
@@ -210,16 +210,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tacca",
+"surface": "tac",
 "quick_gloss": "that"
 },
 {
-"surface": "sava-samaṃ",
+"surface": "ca",
+"quick_gloss": "ca"
+},
+{
+"surface": "samasamaṃ",
 "quick_gloss": "equal-linga"
 },
 {
 "surface": "liṅgaṃ",
-"quick_gloss": "linga"
+"quick_gloss": "liṅga"
 },
 {
 "surface": "prāsāde",
@@ -235,7 +239,7 @@
 },
 {
 "surface": "hitam",
-"quick_gloss": "beneficial"
+"quick_gloss": "suitable"
 }
 ]
 },
@@ -259,7 +263,7 @@
 "quick_gloss": "up-to-knee"
 },
 {
-"surface": "caturasre",
+"surface": "caturasra",
 "quick_gloss": "four-cornered"
 },
 {
@@ -280,7 +284,7 @@
 "quick_gloss": "up-to-head"
 },
 {
-"surface": "nābhitaśca",
+"surface": "nābhitaḥ",
 "quick_gloss": "from-navel"
 },
 {
@@ -289,7 +293,7 @@
 },
 {
 "surface": "vṛttabhāge",
-"quick_gloss": "round-portion"
+"quick_gloss": "round-part"
 },
 {
 "surface": "haraḥ",
@@ -338,12 +342,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pañcaliṅgavyavastheyaṃ",
+"surface": "pañcaliṅgavyavasthā",
 "quick_gloss": "five-linga-arrangement"
 },
 {
-"surface": "śirovartinyathocyate",
-"quick_gloss": "head-located"
+"surface": "śirovartin",
+"quick_gloss": "head-rotating"
+},
+{
+"surface": "atha",
+"quick_gloss": "thus"
+},
+{
+"surface": "ucyate",
+"quick_gloss": "is-said"
 }
 ]
 },
@@ -356,7 +368,7 @@
 "tokens": [
 {
 "surface": "ekaikasya",
-"quick_gloss": "one-by-one"
+"quick_gloss": "of-each"
 },
 {
 "surface": "caturbhedaiḥ",
@@ -372,7 +384,7 @@
 },
 {
 "surface": "vadet",
-"quick_gloss": "would-say"
+"quick_gloss": "would-speak"
 }
 ]
 },
@@ -392,7 +404,7 @@
 "quick_gloss": "known"
 },
 {
-"surface": "chatrabhedāś",
+"surface": "chatrabhedāḥ",
 "quick_gloss": "umbrella-varieties"
 },
 {
@@ -410,19 +422,23 @@
 "tokens": [
 {
 "surface": "mānada",
-"quick_gloss": "measure-giving"
+"quick_gloss": "honor-giving"
 },
 {
 "surface": "pakṣa",
 "quick_gloss": "wing"
 },
 {
-"surface": "lopācca",
-"quick_gloss": "loss"
+"surface": "lopāt",
+"quick_gloss": "by-loss"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "vipulaṃ",
-"quick_gloss": "extensive"
+"quick_gloss": "vast"
 },
 {
 "surface": "khyātidaṃ",
@@ -458,7 +474,11 @@
 "quick_gloss": "dakṣa-egg"
 },
 {
-"surface": "syāccaturvidham",
+"surface": "syāt",
+"quick_gloss": "becomes"
+},
+{
+"surface": "caturvidham",
 "quick_gloss": "fourfold"
 }
 ]
@@ -476,15 +496,19 @@
 },
 {
 "surface": "dvikṣayāt",
-"quick_gloss": "two-decay"
+"quick_gloss": "by-two-decay"
 },
 {
 "surface": "pūrṇaṃ",
 "quick_gloss": "full"
 },
 {
-"surface": "mahāhlādakarasadā",
-"quick_gloss": "great-delight-causing"
+"surface": "mahāhlādakara",
+"quick_gloss": "great-delight-making"
+},
+{
+"surface": "sadā",
+"quick_gloss": "always"
 }
 ]
 },
@@ -505,11 +529,11 @@
 },
 {
 "surface": "jñeyaṃ",
-"quick_gloss": "known"
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "candaṃ",
-"quick_gloss": "candra"
+"quick_gloss": "moon"
 },
 {
 "surface": "caturvidhaṃ",
@@ -541,11 +565,11 @@
 "quick_gloss": "destruction"
 },
 {
-"surface": "dvikṣayāc",
-"quick_gloss": "two-decay"
+"surface": "dvikṣayāt",
+"quick_gloss": "by-two-decay"
 },
 {
-"surface": "chriye",
+"surface": "śriye",
 "quick_gloss": "for-prosperity"
 }
 ]
@@ -562,8 +586,12 @@
 "quick_gloss": "ballabha-giving"
 },
 {
-"surface": "tacca",
+"surface": "tac",
 "quick_gloss": "that"
+},
+{
+"surface": "ca",
+"quick_gloss": "ca"
 },
 {
 "surface": "caturdhā",
@@ -587,12 +615,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kuryād",
-"quick_gloss": "should-do"
+"surface": "kuryāt",
+"quick_gloss": "does"
 },
 {
 "surface": "viprādikāryārtha",
-"quick_gloss": "for-brahmin-etc-work"
+"quick_gloss": "for-brāhmaṇa-etc-work"
 },
 {
 "surface": "ekaṃ",
@@ -624,12 +652,12 @@
 "quick_gloss": "then"
 },
 {
-"surface": "cendoḥ",
-"quick_gloss": "moon"
+"surface": "cenduḥ",
+"quick_gloss": "moon-half"
 },
 {
 "surface": "kṛkavākvaṇḍataḥ",
-"quick_gloss": "from-kṛkavāk-egg"
+"quick_gloss": "from-kṛkavāku-egg"
 },
 {
 "surface": "prajñāḥ",
@@ -649,7 +677,7 @@
 "quick_gloss": "twenty-jina"
 },
 {
-"surface": "śārdūlair",
+"surface": "śārdūlaiḥ",
 "quick_gloss": "tigers"
 },
 {
@@ -658,7 +686,7 @@
 },
 {
 "surface": "brahmādiveṣṭanam",
-"quick_gloss": "brahma-etc-enclosure"
+"quick_gloss": "brahmā-etc-enclosure"
 }
 ]
 },
@@ -674,12 +702,12 @@
 "quick_gloss": "by-variation"
 },
 {
-"surface": "smareṇāṃśa",
+"surface": "smareṇa",
 "quick_gloss": "by-smara"
 },
 {
-"surface": "tṛtīyāṃśa",
-"quick_gloss": "third-part"
+"surface": "aṃśatṛtīyāṃśa",
+"quick_gloss": "part-third-part"
 },
 {
 "surface": "yutena",
@@ -687,7 +715,7 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 }
 ]
 },
@@ -700,15 +728,19 @@
 "tokens": [
 {
 "surface": "bhāgatṛtīyabhāgena",
-"quick_gloss": "third-part-share"
+"quick_gloss": "part-third-part"
 },
 {
-"surface": "nakhacandrānvitena",
-"quick_gloss": "nail-moon-included"
+"surface": "nakhacandra",
+"quick_gloss": "nail-moon"
+},
+{
+"surface": "anvitena",
+"quick_gloss": "with"
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 }
 ]
 }
