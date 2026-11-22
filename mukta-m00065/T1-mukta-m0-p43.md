@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[from-vedic-portion-falling](vedāṃśapātanāt) [corner](koṇa) [and-with-mortal-ashes](marṭāśairatha) [blanket](kambalam) [kh-neck](kandharam)
+[vedāṃśa-pātanāt](vedāṃśapātanāt) [koṇa](koṇa) [marṭāśaiḥ](marṭāśaiḥ) [atha](atha) [kambalam](kambalam)
 
 ## mukta-m0-p43-v1052
-[by-three-part-entry](tryaṃśapraveśanāt) [from-throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
+[tryaṃśa-praveśanāt](tryaṃśapraveśanāt) [kaṇṭhāt](kaṇṭhāt) [ekaika-nirgamaṃ](ekaikanirgamaṃ) [khuram](khuram)
 
 ## mukta-m0-p43-v1053
-[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](ca) [eva](eva) [should-make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
+[ghaṇṭāṃ](ghaṇṭāṃ) [ca](ca) [mekhalāṃ](mekhalāṃ) [ca](ca) [eva](eva) [kuryāt](kuryāt) [śṛṅgāṇi](śṛṅgāṇi) [koṇataḥ](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[pendant-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-rays-etc](śchatradhārādibhiryutaḥ)
+[prālambya-āsakta](prālambyāsakta) [revanta](revanta) [chatra-dhāra-ādibhiḥ](chatradhārādibhir) [yutaḥ](yutaḥ)
 
 ## mukta-m0-p43-v1055
-[with-various-gem-beautiful-wealth](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural-born](svabhāvajāḥ)
+[nānā-ratna-su-veśa-āḍhyāḥ](nānāratnasuveśāḍhyāḥ) [caṇḍa-tejāḥ](caṇḍatejāḥ) [svabhāva-jāḥ](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-[moon](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [with-pitcher-garland](kuṇḍikājāpyamālinam)
+[somaṃ](somaṃ) [saumyaṃ](saumyaṃ) [tathā](tathā) [śvetaṃ](śvetaṃ) [kuṇḍikā-jāpya-mālinam](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [and](ca) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
+[budhaṃ](budhaṃ) [śyāmaṃ](śyāmaṃ) [yuvānaṃ](yuvānaṃ) [ca](ca) [rūpiṇaṃ](rūpiṇaṃ) [cāpa-pāṇinam](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-[saturn-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [with-pitcher-mantra-garland](kuṇḍikāmantramālikam)
+[yāmya-eka-akṣaṃ](yāmyekākṣaṃ) [sitaṃ](sitaṃ) [śukraṃ](śukraṃ) [kuṇḍikā-mantra-mālikam](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-[turned-face](vyāvṛttāsyaṃ) [with-face](sahāsyaṃ) [and](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
+[vyāvṛtta-āsyaṃ](vyāvṛttāsyaṃ) [sahāsyaṃ](sahāsyaṃ) [ca](ca) [piṅga-bhrū-śmaśru-locanam](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent-formed](naranāgārdharūpiṇam)
+[tri-phaṇaṃ](triphalaṃ) [dhūmra-varṇa-ābhaṃ](dhūmravarṇābhaṃ) [nara-nāga-ardha-rūpiṇam](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-[these-all-two-armed](etāṃstu dvibhujānsarvān) [with-ornaments-garments](bhūṣaṇāmbarasaṃyutān)
+[etān](etāṃstu) [tu](tu) [dvi-bhujān](dvibhujān) [sarvān](sarvān) [bhūṣaṇa-ambara-saṃyutān](bhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-[cart](śakaṭaṃ) [medha](medham) [of-these](eteṣām) [below](adho) [vehicle](yānaṃ) [in-order](kramāt) [always](sadā)
+[śakaṭaṃ](śakaṭaṃ) [medham](medham) [eteṣām](eteṣām) [adhaḥ](adho) [yānaṃ](yānaṃ) [kramāt](kramāt) [sadā](sadā)
 
 ## mukta-m0-p43-v1063
-[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](īśvaraḥ) [with-blue-lotus](kuvalayānvitaḥ)
+[sitaḥ](sitaḥ) [sahasra-bhogaḥ](sahasrabhogaḥ) [hīśvaraḥ](hīśvaraḥ) [kuvalaya-anvitaḥ](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-[black](kṛṣṇaḥ) [karkoṭaka](karkoṭakaḥ) [at-throat](kaṇṭhe) [with-three-stripe-line](śulkarekhātrayānvitaḥ)
+[kṛṣṇaḥ](kṛṣṇaḥ) [karkoṭakaḥ](karkoṭakaḥ) [kaṇṭhe](kaṇṭhe) [śulka-rekhā-traya-anvitaḥ](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-[conch-colored](śaṅkhavarṇo) [great-lotus](mahāpadmo) [on-head](mastake) [black-trident-bearer](kṛṣṇaśūladhṛk)
+[śaṅkha-varṇaḥ](śaṅkhavarṇaḥ) [mahāpadmaḥ](mahāpadmaḥ) [mastake](mastake) [kṛṣṇa-śūla-dhṛk](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
+[kulikaḥ](kulikaḥ) [rakta-dehaḥ](raktadehaḥ) [tu](tu) [candra-ardha](candrārdha) [kṛta-mastakaḥ](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-[rosary-holders](akṣasūtradharāḥ) [all](sarve) [with-pitcher-tail](kuṇḍikāpucchasaṃyutāḥ)
+[akṣa-sūtra-dharāḥ](akṣasūtradharāḥ) [sarve](sarve) [kuṇḍikā-puccha-saṃyutāḥ](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-[servants](bhṛtyāśca) [single-hooded](ekaphaṇāḥ) [should-be-made](kāryāstadrūpā) [gem-less](maṇivarjitāḥ)
+[bhṛtyāḥ](bhṛtyāśca) [ca](ca) [eka-phaṇāḥ](ekaphaṇāḥ) [kāryāḥ](kāryāḥ) [tad-rūpāḥ](tadrūpā) [maṇi-varjitāḥ](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-[with-necklace-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
+[hāra-kuṇḍala-keyūraiḥ](hārakuṇḍalakeyūraiḥ) [sadā-bharaṇa-bhūṣitā](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-[thus](īdṛśī) [by-mind](manasā) [should-be-made](kāryā) [śrīkaṇṭha-mind-born](śrīkaṇṭhamanasambhavā)
+[īdṛśī](īdṛśī) [manasā](manasā) [kāryā](kāryā) [śrīkaṇṭha-manasambhavā](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-[yoga-band-covered](yogapaṭṭāvṛto) [lotus-seated]('bjasthaḥ) [with-pitcher-and-rosary](kuṇḍikā cākṣasūtrabhṛt)
+[yoga-paṭṭa-āvṛtaḥ](yogapaṭṭāvṛto) [abja-sthaḥ](abjasthaḥ) [kuṇḍikā](kuṇḍikā) [ca](ca) [akṣa-sūtra-bhṛt](akṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-[with-various-ornaments](nānālaṅkārasaṃyuktāv) [lotus-gem-bearing-hands](utpalamaṇi bhṛtkarau)
+[nānā-alaṅkāra-saṃyuktāv](nānālaṅkārasaṃyuktāv) [utpala-maṇi](utpalamaṇi) [bhṛt-karau](bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-[well-seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [on-own-lap](svotsaṅge) [son-bearing](putradhāriṇī)
+[su-dṛṣṭā](sudṛṣṭā) [jalpa-mānā](jalpamānā) [ca](ca) [sva-utsaṅge](svotsaṅge) [putra-dhāriṇī](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [declared](prakīrtitā)
+[padmā](padmā) [nandana-padma-stha](nandanapadmastha) [svāṅgā-devī](svāṅgādevī) [prakīrtitā](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[basukoka-kapi-dvikṣa](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
+[basu-koka-kapi-dvi-kṣa](basukokakapidvikṣa) [vyāghra-vyāghrāsyakaṃ](vyāghravyāghrāsyakaṃ) [kramāt](kramāt)

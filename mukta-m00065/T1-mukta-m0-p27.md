@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[with-seventeen](sasaptadaśabhiḥ) [and](ca) [parts](aṃśaiḥ) [circumference](paridhiḥ) [would-be](syāt) [equal-parts](samāṃśake)
+with-seventeen-parts(sasaptadaśabhiḥ) and-parts(cāṃśaiḥ) circumference(paridhiḥ) may-be(syāt) equal-parts(samāṃśake)
 
 ## mukta-m0-p27-v652
-[with-one-and-half-three-sides](sārdhadvitribhujaiḥ) [viṣṇu](viṣṇuḥ) [with-foot-one-side](sāṅghryekatribhujaiḥ) [hara](haraḥ)
+with-two-and-a-half-triangles(sārdhadvitribhujaiḥ) viṣṇu(viṣṇuḥ) with-one-foot-and-three-arms(sāṅghryekatribhujaiḥ) hara(haraḥ)
 
 ## mukta-m0-p27-v653
-[in-grain-womb](yavagarbhe) [would-be](bhavet) [nourishment](puṣṭiḥ) [drink-food](pānānnaṃ) [belly-raised](jaṭharonnate)
+in-barley-embryo(yavagarbhe) growth(puṣṭiḥ) drink-and-food(pānānnaṃ) belly-raised(jaṭharonnate)
 
 ## mukta-m0-p27-v654
-[equal-belly](samakukṣau) [fear](bhayaṃ) [would-destroy](hanyāt) [thick-root](sthūlamūle) [disease-freedom](tvarogatā)
+equal-belly(samakukṣau) fear-destroyer(bhayaṃ+hanyāt) thick-root(sthūlamūle) disease-free(tvarogatā)
 
 ## mukta-m0-p27-v655
-[in-depression](nimne) [and](ca) [plucked](luñcite) [would-do](kuryāt) [wealth-grain-destruction](dhanadhānyavināśanam)
+in-depression(nimne) and-plucked(luñcite) makes(kuryāt) wealth-grain-destruction(dhanadhānyavināśanam)
 
 ## mukta-m0-p27-v656
-[perforated](chidrānvitaṃ) [and](ca) [with-good-fortune](sadbhāyā) [forehead](lalāṭe) [depressed](nimnaka) [son](sutam)
+perforated(chidrānvitaṃ) and-with-good-wife(sadbhāyā) forehead(lalāṭe) depressed(nimnaka) son(sutam)
 
 ## mukta-m0-p27-v657
-[middle](madhye) [thin](kṛśaṃ) [and](ca) [for-grief](śokāya) [famine](dubhikṣa) [below](adhaḥ) [thin](kṛśam)
+middle(madhye) thin(kṛśaṃ) and-for-grief(śokāya) famine-and-intoxication(dubhikṣadamadhaḥ) thin(kṛśam)
 
 ## mukta-m0-p27-v658
-[wounded-disease-increase](vraṇitāmayavṛddhiḥ) [and](ca) [famine](durbhikṣaṃ) [and](ca) [in-deep-navel](cātikoṭare)
+wound-disease-increase(vraṇitāmayavṛddhiśca) famine(durbhikṣaṃ) and-in-navel(cātikoṭare)
 
 ## mukta-m0-p27-v659
-[wealth-destroying](dhanaghnaṃ) [back-depressed](pṛṣṭhanimnaṃ) [would-be](syāt) [disease](rogaṃ) [side](pārśve) [and](tathā) [belly](udare)
+wealth-destroying(dhanaghnaṃ) back-depressed(pṛṣṭhanimnaṃ) may-be(syāt) disease(rogaṃ) side(pārśve) and-belly(tathodare)
 
 ## mukta-m0-p27-v660
-[properly](samyak) [well-unwounded](sunirvraṇaṃ) [washed](dhautaṃ) [then](tadā) [marks](cinhāni) [observe](lakṣayet)
+properly(samyak) well-healed(sunirvraṇaṃ) cleansed(dhautaṃ) then(tadā) marks(cinhāni) observe(lakṣayet)
 
 ## mukta-m0-p27-v661
-[crocodile-mirror-bow](makarādarśacāpobhiḥ) [garland-circle-gateway](srakkamaṇḍalutoraṇāḥ)
+crocodile-mirror-bow(makarādarśacāpobhiḥ) garland-circle-arch(sra kkamaṇḍalutoraṇāḥ)
 
 ## mukta-m0-p27-v662
-[śrīvatsa-nandī-āvarta-chariot-garland-elephant-ornaments](śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ)
+śrīvatsa-nandī-āvarta-ratha-garland-elephant-ornaments(śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ)
 
 ## mukta-m0-p27-v663
-[peacock-feather-garments](mayūravājivāsobhiḥ) [tree-thunderbolt-purifier](taruvajrapavitrakāḥ)
+peacock-feather-garment(mayūravājivāsobhiḥ) tree-thunderbolt-purifier(taruvajrapavitrakāḥ)
 
 ## mukta-m0-p27-v664
-[liṅga-limb](liṅgāṅge) [where](yatra) [there](tatra) [would-be](syāt) [king-realm-increase-giving](nṛparāṣṭravivṛddhidāḥ)
+in-limb-or-place(liṅgāṅge+yatra+tatra) may-be(syāt) king-realm-growth-giving(nṛparāṣṭravivṛddhidāḥ)
 
 ## mukta-m0-p27-v665
-[skull-vulture-eagle-snake-hawk-crow-donkey-mouse](karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ)
+skull-vulture-eagle-serpent-hawk-crow-donkey-mouse(karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ)
 
 ## mukta-m0-p27-v666
-[sacrificer-people-king](yajamānaprajārājñāṃ) [liṅga](liṅgaṃ) [fear-giving](bhīśa) [kadāyakam](kadāyakam)
+of-sacrificer-people-king(liṅgaṃ) fear-giving(bhīśa+kadāyakam)
 
 ## mukta-m0-p27-v667
-[these](ete) [and](ca) [earthly](pārthivā) [colors](varṇā) [liṅga-marks](liṅgacinhāni) [for-prosperity](bhūtaye)
+these(et) and(pārthivā) royal-colors(varṇā) marks(liṅgacinhāni) for-prosperity(bhūtaye)
 
 ## mukta-m0-p27-v668
-[these](ete) [and](ca) [varuṇa](vāruṇā) [colors](varṇā) [people-life-wealth-gain-giving](prajāyurdhanalābhadāḥ)
+these(et) and(vāruṇā) colors(varṇā) people-life-wealth-giving(prajāyurdhanalābhadāḥ)
 
 ## mukta-m0-p27-v669
-[āgneya](āgneyā) [fire-terror-famine-disease-increase](agnisantrāsadurbhikṣavyādhivardhanāḥ)
+fiery(āgneyā) fire-terror-famine-disease-increasing(agnisantrāsadurbhikṣavyādhivardhanāḥ)
 
 ## mukta-m0-p27-v670
-[vāyavya](vāyavyā) [wind-terror-quarrel-speed-causing](vāyusantrāsakalahādvegakārakāḥ)
+windy(vāyavyā) wind-terror-strife-speed-causing(vāyusantrāsakalahādvegakārakāḥ)
 
 ## mukta-m0-p27-v671
-[in-rite](sādhane) [and](ca) [three-liṅga](astriliṅgaṃ) [and](ca) [direction-liṅga](digliṅgaṃ) [and](ca) [indeed](eva) [will-be-spoken](vakṣyate)
+in-rite(sādhane) and-three-marked(cāstriliṅgaṃ) and-quarter-marked(digliṅgaṃ) also(vakṣyate)
 
 ## mukta-m0-p27-v672
-[three-cornered](tryasraṃ) [and](ca) [for-complete-accomplishment](aśeṣasiddhyarthaṃ) [veda-cornered](vedāsraṃ) [and](ca) [desired-giving](epsitapradam)
+triangular(tryasraṃ) for-complete-success(cāśeṣasiddhyarthaṃ) vedic-four-sided(vedāsraṃ) desired-giving(cepsitapradam)
 
 ## mukta-m0-p27-v673
-[seven-cornered](saptāsraṃ) [hatred-causing](dveṣakṛt) [known](khyātam) [eight-cornered](aṣṭāsraṃ) [fame-increasing](kīrtivardhanam)
+seven-sided(saptāsraṃ) hatred-causing(dveṣakṛt) known(khyātam) eight-sided(aṣṭāsraṃ) fame-increasing(kīrtivardhanam)
 
 ## mukta-m0-p27-v674
-[rudra-cornered](rudrāsraṃ) [disease-increase-for](rogavṛddhyarthaṃ) [fear-destroying](bhayaghnaṃ) [twelve-cornered](dvādaśāsrakam)
+rudra-sided(rudrāsraṃ) disease-increasing(rogavṛddhyarthaṃ) fear-destroying(bhayaghnaṃ) twelve-sided(dvādaśāsrakam)
 
 ## mukta-m0-p27-v675
-[tithi-cornered](tithyasraṃ) [merit-causing](puṇyakṛt) [liṅga](liṅgaṃ) [change-cornered](vikārāsraṃ) [happiness-giving](sukhapradam)
+tithi-sided(tithyasraṃ) merit-making(puṇyakṛt) mark(liṅgaṃ) transformation-sided(vikārāsraṃ) happiness-giving(sukhapradam)
