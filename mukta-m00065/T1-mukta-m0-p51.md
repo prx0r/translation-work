@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[tasmāt](tasmāt) [liṅgānugaṃ](liṅgānugaṃ) [pīṭhaṃ](pīṭhaṃ) [kartavyaṃ](kartavyaṃ) [kartṛjīvane](kartṛjīvane)
+therefore-linga-following pedestal should-be-made maker-life
 
 ## mukta-m0-p51-v1252
-[yadi](yadi) [syāt](syāt) [pīḍyate](pīḍyate) [rogaiḥ](rogaiḥ) [kartā](kartā) [rāṣṭraṃ](rāṣṭraṃ) [gurūstathā](gurūstathā)
+if be afflicted diseases maker kingdom guru likewise
 
 ## mukta-m0-p51-v1253
-[ucchrayeṇa](ucchrayeṇa) [triliṅgānāṃ](triliṅgānāṃ) [na](na) [nyūno](nyūno) [nādhiko](nādhiko) [hareḥ](hareḥ)
+height three-lingas not less not more hari
 
 ## mukta-m0-p51-v1254
-[munisārdhādhikaiḥ](munisārdhādhikaiḥ) [śambhuṃ](śambhuṃ) [kuryādāḍhyaṃ](kuryādāḍhyaṃ) [vasorharim](vasorharim)
+sage-half-more shambhu make wealthy vasu-hari
 
 ## mukta-m0-p51-v1255
-[pādonāṣṭāṃśato](pādonāṣṭāṃśato) [brahmā](brahmā) [kāryaṃ](kāryaṃ) [cānāḍhyakaṃ](cānāḍhyakaṃ) [kvacit](kvacit)
+quarter-eighth brahma made sometimes not-wealthy
 
 ## mukta-m0-p51-v1256
-[ekaṃ](ekaṃ) [surārcite](surārcite) [liṅge](liṅge) [brahmā](brahmā) [saptāṃśake](saptāṃśake) [dhruvam](dhruvam)
+one god-worshipped linga brahma seven-part certainly
 
 ## mukta-m0-p51-v1257
-[sitādivarṇāvarṇānāṃ](sitādivarṇāvarṇānāṃ) [pīṭhādyā](pīṭhādyā) [na](na) [vivarṇajāḥ](vivarṇajāḥ)
+white-etc colors pedestal-etc not colorless-born
 
 ## mukta-m0-p51-v1258
-[ratnajā](ratnajā) [vātha](vātha) [lohairvā](lohairvā) [viśeṣātkīrtaye'dhunā](viśeṣātkīrtaye'dhunā)
+gem-born or metal special fame now
 
 ## mukta-m0-p51-v1259
-[vaiḍūryādyuttame](vaiḍūryādyuttame) [nityaṃ](nityaṃ) [hemajā](hemajā) [piṇḍikā](piṇḍikā) [varā](varā)
+vaidurya-etc best always gold-born base best
 
 ## mukta-m0-p51-v1260
-[bhāgadrayamathikaṃ](bhāgadrayamathikaṃ) [vā](vā) [vinyaset](vinyaset) [piṇḍikāvaṭau](piṇḍikāvaṭau)
+three-parts-more or place base-pit
 
 ## mukta-m0-p51-v1261
-[mekhalādivibhāgo'syāḥ](mekhalādivibhāgo'syāḥ) [pūrvavatsamudāhṛtaḥ](pūrvavatsamudāhṛtaḥ)
+girdle-etc division its previous stated
 
 ## mukta-m0-p51-v1262
-[na](na) [nyūnaṃ](nyūnaṃ) [nādhikaṃ](nādhikaṃ) [mānātśobhanaṃ](mānātśobhanaṃ) [śvabhramiṣyate](śvabhramiṣyate)
+not less not more measure beautiful pit desired
 
 ## mukta-m0-p51-v1263
-[pīṭhadoṣātkṣayo](pīṭhadoṣātkṣayo) [nāryāḥ](nāryāḥ) [kāro](kāro) [kartuṃśca](kartuṃśca) [sarvadā](sarvadā)
+pedestal-fault decay woman maker do always
 
 ## mukta-m0-p51-v1264
-[bhuktimuktyubhayaprāptyai](bhuktimuktyubhayaprāptyai) [anyaḥ](anyaḥ) [kāmyasya](kāmyasya) [hetave](hetave)
+enjoyment-liberation-both attainment other desired cause
 
 ## mukta-m0-p51-v1265
-[padmārdhendugaṇākhyā](padmārdhendugaṇākhyā) [ca](ca) [kāmadā](kāmadā) [śubhamastake](śubhamastake)
+lotus-half-moon-group named desire-giving auspicious top
 
 ## mukta-m0-p51-v1266
-[dvimekhalā](dvimekhalā) [ca](ca) [vedāsrā](vedāsrā) [bhadrā](bhadrā) [yogarddhidāyinī](yogarddhidāyinī)
+two-girdle vedas-four auspicious yoga-prosperity-giving
 
 ## mukta-m0-p51-v1267
-[ṣaḍasrāyuḥ](ṣaḍasrāyuḥ) [pradā](pradā) [vajrī](vajrī) [mekhalātritayānvitā](mekhalātritayānvitā)
+six-angle life-giving vajra girdle-three-endowed
 
 ## mukta-m0-p51-v1268
-[maṇḍalā](maṇḍalā) [pūrṇacandrābhā](pūrṇacandrābhā) [tvarthadā](tvarthadā) [pañcamekhalā](pañcamekhalā)
+circle full-moon-like wealth-giving fifth-girdle
 
 ## mukta-m0-p51-v1269
-[candrāmburuparāmai](candrāmburuparāmai) [kāgnidyaṃśaistithi](kāgnidyaṃśaistithi) [bhājitaiḥ](bhājitaiḥ)
+moon-water-form-supreme fire-part-tithi divided
 
 ## mukta-m0-p51-v1270
-[vṛttā](vṛttā) [padmapuṭākārā](padmapuṭākārā) [karṇiko](karṇiko) [bhayacumbitā](bhayacumbitā)
+round lotus-cup-shaped karṇika fear-kissed
 
 ## mukta-m0-p51-v1271
-[aṣṭakoṇā](aṣṭakoṇā) [gaṇākhyātā](gaṇākhyātā) [muktidā](muktidā) [syāddvimekhalā](syāddvimekhalā)
+eight-corner group-named liberation-giving two-girdle
 
 ## mukta-m0-p51-v1272
-[pūrvoktamekhalāgartanālakādisamanvitā](pūrvoktamekhalāgartanālakādisamanvitā)
+previous-girdle-pit-stalk-etc endowed
 
 ## mukta-m0-p51-v1273
-[vistarokchrayanālādi](vistarokchrayanālādi) [sarbaṃ](sarbaṃ) [pūrvoṃditaṃ](pūrvoṃditaṃ) [kramāt](kramāt)
+width-height-stalk-etc all previous stated order
 
 ## mukta-m0-p51-v1274
-[saṃveṣṭya](saṃveṣṭya) [vartayetpiṇḍīṃ](vartayetpiṇḍīṃ) [kartuḥ](kartuḥ) [kāmaprasādhikam](kāmaprasādhikam)
+encircling make base maker desire-accomplishing
 
 ## mukta-m0-p51-v1275
-[mārūtīṃ](mārūtīṃ) [dhānadīṃ](dhānadīṃ) [raudrīṃ](raudrīṃ) [vaiṣṇāvīṃ](vaiṣṇāvīṃ) [brahmajāṃ](brahmajāṃ) [sadā](sadā)
+maruti dhani raudri vaishnavi brahma-born always
