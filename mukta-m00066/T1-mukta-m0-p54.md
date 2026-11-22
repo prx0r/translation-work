@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[then](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [by-potter's-wheel](kulālakaravarttanaiḥ)
+[then](atho) [that](sa) [indeed](eva) [clay+lump](mṛt+piṇḍaṃ) [potter+hand+turnings](kulāla+kara+varttanaiḥ)
 
 ## mukta-m0-p54-v1327
-[deep](gabhīrite) [middle-region](madhyadeśe) [there](tatra) [indeed](eva) [hollowed](kuharīkṛtaḥ)
+[made-deep](gabhīrite) [middle+region](madhya+deśe) [there+indeed](tatra+eva) [made-hollow](kuharī+kṛtaḥ)
 
 ## mukta-m0-p54-v1328
-[pot](kuṃbha) [thus](iti) [of-this](asya) [word](śabdasya) [denotability](vācyatām) [enters](avagāhate)
+[pot](kuṃbha) [thus+of-this](iti+asya) [word+of](śabdasya) [denotability](vācyatām) [attains](avagāhate)
 
 ## mukta-m0-p54-v1329
-[on-ground](bhūmau) [shattered](viśīrṇa) [all-limbs](sarvāṃgaḥ) [potsherds-mass](kāpālaugha) [this](tvam) [strives](īhate)
+[on-ground](bhūmau) [shattered+all+limbs](viśīrṇa+sarva+aṃgaḥ) [potsherd+heap+state](kāpāla+augha+tvam) [desires](īhate)
 
 ## mukta-m0-p54-v1330
-[broken](kuṭṭitaḥ) [being](san) [becomes-divided](prabhajate) [dust-word](dhūliśabdasya) [denotability](vācyatām)
+[pounded](kuṭṭitaḥ) [being](san) [attains](prabhajate) [dust+word+of](dhūli+śabdasya) [denotability](vācyatām)
 
 ## mukta-m0-p54-v1331
-[shattered-shattered](śīrṇaśīrṇaḥ) [again](punar) [by-force](vegāt) [limb](tra) [dusthood](sareṇutvam) [desires](icchati)
+[crushed+crushed](śīrṇa+śīrṇaḥ) [again+by-force+there](punar+vegāt+tra) [with-dust+state](sa+reṇu+tvam) [desires](icchati)
 
 ## mukta-m0-p54-v1332
-[extremely](atyaṃta) [subtle](sūkṣma) [hard-to-perceive](durlakṣā) [revolves](ghūrṇate) [wind-orb](vāyumaṇḍale)
+[extremely](atyaṃta) [subtle+hard-to-perceive](sūkṣma+durlakṣā) [whirls](ghūrṇate) [wind+circle+in](vāyu+maṇḍale)
 
 ## mukta-m0-p54-v1333
-[mutually](anyonya) [word-inexpressible](śabdanirvācyāḥ) [those](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
+[mutually+word+inexpressible](anyonya+śabda+nirvācyās) [those](ta) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-[there](tatra) [superimposed-form-ness](āropitarūpatvaṃ) [of-pot-etc](ghaṭādeḥ) [causing](kārayan) [wise-one](budhaḥ)
+[there+superimposed+form+ness](tatra+āropita+rūpa+tvaṃ) [pot+etc+of](ghaṭa+ādeḥ) [causing](kārayan) [wise-one](budhaḥ)
 
 ## mukta-m0-p54-v1335
-[quality-other](guṇāntara) [conjunction](samāsaṃga) [measure](mātrā) [only](deva) [how](kathaṃ) [in-clay](mṛdi)
+[quality+other+connection](guṇa+antara+samāsaṃga) [merely+indeed](mātrāt+eva) [how](kathaṃ) [in-clay](mṛdi)
 
 ## mukta-m0-p54-v1336
-[vain](vṛthā) [of-him](tasya) [superimposition](samāropaṃ) [vain](vṛthā) [of-him](tasya) [again](punar) [dissolution](layaḥ)
+[in-vain](vṛthā) [its](tasya) [superimposition](samāropaṃ) [in-vain](vṛthā) [its](tasya) [again+dissolution](punar+layaḥ)
 
 ## mukta-m0-p54-v1337
-[such](īdṛśā) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [shown](pratipāditāḥ)
+[such](īdṛśāḥ) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [established](pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-[sound-natured](varṇātmakāḥ) [but](tu) [those](ye) [words](śabdāḥ) [there](tatra) [eternality](nityatvam) [one](ekakaḥ)
+[letter+constituted](varṇa+ātmakās) [but](tu) [which](ye) [words](śabdās) [there](tatra) [eternity](nityatvam) [one](eka+kaḥ)
 
 ## mukta-m0-p54-v1339
-[therefore](ataḥ) [grown](pravṛddha) [enmity](vairāṇāṃ) [of-disputants](vādinām) [boasting](abhivalgatām)
+[therefore](ataḥ) [increased+enmity+of](pravṛddha+vairāṇāṃ) [disputants+of](vādinām) [boasting+of](abhivalgatām)
 
 ## mukta-m0-p54-v1340
-[abundant](prabhūtataradarpāṃdhāḥ) [panditya](pāṇḍitya) [planet](graha) [evil-minded](durdhiyām)
+[very-great+pride+blinded](prabhūta+tara+darpa+aṃdhāḥ) [learning+obsession+bad-minded](pāṇḍitya+graha+durdhiyām)
 
 ## mukta-m0-p54-v1341
-[that](tad) [search-path](gaveṣaṇamārgeṇa) [that](tat) [same](samāna) [concentration](samādhinā)
+[that+investigation+path+by](tat+gaveṣaṇa+mārgeṇa) [that+equal+concentration+by](tat+samāna+samādhinā)
 
 ## mukta-m0-p54-v1342
-[contradictory](viruddha) [speech](bhāṣaṇe) [genus](jāti) [refutation](nigraha) [place](sthāna) [fabrication](kalpanaiḥ)
+[contradictory+speech+in](viruddha+bhāṣaṇe) [false-reasoning+defeat+point+devisings+by](jāti+nigraha+sthāna+kalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-[afterwards](paścāt) [anger](kope) [being](sati) [throat-drying](galoccoṣakāraṇa) [shouting](ghoṣaṇaiḥ)
+[afterward+anger](paścāt+kope) [being](sati) [throat+drying+cause](gala+uccoṣa+kāraṇa) [shoutings+by](ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-[again](punar) [by-that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [made](kṛte) [battle](raṇe)
+[again+by-that](punas+tena) [manner+by](prakāreṇa) [hair+by-hair](keśā+keśi) [done](kṛte) [battle+in](raṇe)
 
 ## mukta-m0-p54-v1345
-[foot](pādāt) [closed-velocity](saṃvṛtavegānāṃ) [of-disputants](vādināṃ) [hatred-houses](dveṣaveśmasu)
+[from-foot](pādāt) [restrained+force+of](saṃvṛta+vegānāṃ) [disputants+of](vādināṃ) [hatred+abodes+in](dveṣa+veśmasu)
 
 ## mukta-m0-p54-v1346
-[established](siddhāntitaiśca) [and](ca) [own-mind](svamanaḥ) [pure](śuddhair) [others](anyaiśca) [blamed](ninditaiḥ)
+[established-doctrinists+by](siddhāntitaiḥ) [and](ca) [own+mind](sva+manaḥ) [purified+by](śuddhaiḥ) [others+by](anyaiḥ) [and](ca) [censured+by](ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-[confused](vyāmūḍhān) [making](kurvatām) [this](eṣa) [their](teṣāṃ) [path](panthānir) [unrestrained](aṅkuśaḥ)
+[bewildered](vyāmūḍhān) [making+of](kurvatām) [this](eṣa) [their](teṣāṃ) [path](panthā) [unrestrained](niraṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-[proof-blind](pramāṇāṃdhāḥ) [sixteen](ṣoḍaśāye) [categories](padārthaiḥ) [with-those](taiḥ) [great-kali](mahākālīḥ)
+[proof+blinded](pramāṇa+aṃdhāḥ) [sixteen](ṣoḍaśa) [these](aye) [categories+by](padārthaiḥ) [those](taiḥ) [great+quarrelers](mahā+kālīḥ)
 
 ## mukta-m0-p54-v1349
-[dispute](kalahaḥ) [only](kevalaṃ) [there](tatra) [hard-to-end](duḥsamāpa) [autumn-hundreds](śaracchataiḥ)
+[dispute](kalahaḥ) [only](kevalaṃ) [there](tatra) [hard-to-conclude+autumn+hundreds+by](duḥsamāpa+śarac+chataiḥ)
 
 ## mukta-m0-p54-v1350
-[arrival-form](saṃprāptirūpo) [will-be](bhavitā) [then](tadā) [by-left](vāmena) [decision](nirṇayaḥ)
+[attainment+form](saṃprāpti+rūpo) [will-be](bhavitā) [then](tadā) [by-adverse](vāmena) [decision](nirṇayaḥ)
