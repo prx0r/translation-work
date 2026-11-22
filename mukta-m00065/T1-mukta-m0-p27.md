@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[sasaptadaśabhiḥ](sasaptadaśabhiḥ) [ca](ca) [aṃśaiḥ](aṃśaiḥ) [paridhiḥ](paridhiḥ) [syāt](syāt) [samāṃśake](samāṃśake)
+[sasaptadashabhih](sasaptadaśabhiś) [ca](cā) [amshaih](aṃśaiḥ) [paridhih](paridhiḥ) [syat](syāt) [samamshake](samāṃśake)
 
 ## mukta-m0-p27-v652
-[sārdhadvitribhujaiḥ](sārdhadvitribhujaiḥ) [viṣṇuḥ](viṣṇuḥ) [sāṅghryekatribhujaiḥ](sāṅghryekatribhujaiḥ) [haraḥ](haraḥ)
+[sardhadvitribhujaih](sārdhadvitribhujaiḥ) [vishnuh](viṣṇuḥ) [sanghryekatribhujaih](sāṅghryekatribhujaiḥ) [harah](haraḥ)
 
 ## mukta-m0-p27-v653
-[yavagarbhe](yavagarbhe) [bhavet](bhavet) [puṣṭiḥ](puṣṭiḥ) [pānānnaṃ](pānānnaṃ) [jaṭharonnate](jaṭharonnate)
+[yavagarbhe](yavagarbhe) [bhavet](bhavet) [pushtih](puṣṭiḥ) [panannam](pānānnaṃ) [jatharonnate](jaṭharonnate)
 
 ## mukta-m0-p27-v654
-[samakukṣau](samakukṣau) [bhayaṃ](bhayaṃ) [hanyāt](hanyāt) [sthūlamūle](sthūlamūle) [tvarogatā](tvarogatā)
+[samakukshau](samakukṣau) [bhayam](bhayaṃ) [hanyat](hanyāt) [sthulamule](sthūlamūle) [tvarogata](tvarogatā)
 
 ## mukta-m0-p27-v655
-[nimne](nimne) [ca](ca) [luñcite](luñcite) [kuryāt](kuryāt) [dhanadhānyavināśanam](dhanadhānyavināśanam)
+[nimne](nimne) [ca](ca) [lunchite](luñcite) [kuryat](kuryāt) [dhanadhanyavinashanam](dhanadhānyavināśanam)
 
 ## mukta-m0-p27-v656
-[chidrānvitaṃ](chidrānvitaṃ) [ca](ca) [sadbhāyā](sadbhāyā) [lalāṭe](lalāṭe) [nimnaka](nimnaka) [sutam](sutam)
+[chidranvitam](chidrānvitaṃ) [ca](ca) [sadbhaya](sadbhāyā) [lalate](lalāṭe) [nimnaka](nimnaka) [sutam](sutam)
 
 ## mukta-m0-p27-v657
-[madhye](madhye) [kṛśaṃ](kṛśaṃ) [ca](ca) [śokāya](śokāya) [durbhikṣadamadhaḥ](durbhikṣadamadhaḥ) [kṛśam](kṛśam)
+[madhye](madhye) [krisham](kṛśaṃ) [ca](ca) [shokaya](śokāya) [dubhikshadamadah](dubhikṣadamadhaḥ) [krisham](kṛśam)
 
 ## mukta-m0-p27-v658
-[vraṇitāmayavṛddhiśca](vraṇitāmayavṛddhiśca) [durbhikṣaṃ](durbhikṣaṃ) [cātikoṭare](cātikoṭare)
+[vranitamayavriddhishca](vraṇitāmayavṛddhiśca) [durbhiksham](durbhikṣaṃ) [catikotare](cātikoṭare)
 
 ## mukta-m0-p27-v659
-[dhanaghnaṃ](dhanaghnaṃ) [pṛṣṭhanimnaṃ](pṛṣṭhanimnaṃ) [syāt](syāt) [rogaṃ](rogaṃ) [pārśve](pārśve) [tathā](tathā) [udare](udare)
+[dhanaghnam](dhanaghnaṃ) [prishthanimnam](pṛṣṭhanimnaṃ) [syat](syāt) [rogam](rogaṃ) [parshve](pārśve) [tathodare](tathodare)
 
 ## mukta-m0-p27-v660
-[samyak](samyak) [sunirvraṇaṃ](sunirvraṇaṃ) [dhautaṃ](dhautaṃ) [tadā](tadā) [cinhāni](cinhāni) [lakṣayet](lakṣayet)
+[samyak](samyak) [sunirvranam](sunirvraṇaṃ) [dhautam](dhautaṃ) [tada](tadā) [cinhani](cinhāni) [lakshayet](lakṣayet)
 
 ## mukta-m0-p27-v661
-[makarādarśacāpobhiḥ](makarādarśacāpobhiḥ) [srakkamaṇḍalutoraṇāḥ](srakkamaṇḍalutoraṇāḥ)
+[makaradarshacapobhisrakkamandalutoranah](makarādarśacāpobhisrakkamaṇḍalutoraṇāḥ)
 
 ## mukta-m0-p27-v662
-[śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ](śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ)
+[shriyatsanandikavartarathaharebhabhushanaih](śrīvatsanandikāvartarathahārebhabhūṣaṇaiḥ)
 
 ## mukta-m0-p27-v663
-[mayūravājivāsobhiḥ](mayūravājivāsobhiḥ) [taruvajrapavitrakāḥ](taruvajrapavitrakāḥ)
+[mayuravajivasobhistaruvajrapavitrakah](mayūravājivāsobhistaruvajrapavitrakāḥ)
 
 ## mukta-m0-p27-v664
-[liṅgāṅge](liṅgāṅge) [yatra](yatra) [tatra](tatra) [syāt](syāt) [nṛparāṣṭravivṛddhidāḥ](nṛparāṣṭravivṛddhidāḥ)
+[lingange](liṅgāṅge) [yatra](yatra) [tatra](tatra) [syannrparashtravivridhidah](syānnṛparāṣṭravivṛddhidāḥ)
 
 ## mukta-m0-p27-v665
-[karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ](karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ)
+[karankakankagrdhrahi shyenakakakharakhubhih](karaṅkakaṅkagṛdhrāhiśyenakākakharākhubhiḥ)
 
 ## mukta-m0-p27-v666
-[yajamānaprajārājñāṃ](yajamānaprajārājñāṃ) [liṅgaṃ](liṅgaṃ) [bhīśa](bhīśa) [kadāyakam](kadāyakam)
+[yajamanaprajarajnanam](yajamānaprajārājñāṃ) [lingam](liṅgaṃ) [bhish](bhīśa) [kadayakam](kadāyakam)
 
 ## mukta-m0-p27-v667
-[ete](ete) [ca](ca) [pārthivā](pārthivā) [varṇā](varṇā) [liṅgacinhāni](liṅgacinhāni) [bhūtaye](bhūtaye)
+[ete](ete) [ca](ca) [parthiva](pārthivā) [varnah](varṇā) [lingacinhani](liṅgacinhāni) [bhutaye](bhūtaye)
 
 ## mukta-m0-p27-v668
-[ete](ete) [ca](ca) [vāruṇā](vāruṇā) [varṇā](varṇā) [prajāyurdhanalābhadāḥ](prajāyurdhanalābhadāḥ)
+[ete](ete) [ca](ca) [varunah](vāruṇā) [varnah](varṇā) [prajayurdhanalabhadah](prajāyurdhanalābhadāḥ)
 
 ## mukta-m0-p27-v669
-[āgneyā](āgneyā) [agnisantrāsadurbhikṣavyādhivardhanāḥ](agnisantrāsadurbhikṣavyādhivardhanāḥ)
+[agneya](āgneyā) [agnisantrasadurbhikshavyadhivardhanah](agnisantrāsadurbhikṣavyādhivardhanāḥ)
 
 ## mukta-m0-p27-v670
-[vāyavyā](vāyavyā) [vāyusantrāsakalahādvegakārakāḥ](vāyusantrāsakalahādvegakārakāḥ)
+[vayavya](vāyavyā) [vayusantrasakalahadvegakarakah](vāyusantrāsakalahādvegakārakāḥ)
 
 ## mukta-m0-p27-v671
-[sādhane](sādhane) [ca](ca) [astriliṅgaṃ](astriliṅgaṃ) [ca](ca) [digliṅgaṃ](digliṅgaṃ) [ca](ca) [eva](eva) [vakṣyate](vakṣyate)
+[sadhane](sādhane) [castralingam](cāstriliṅgaṃ) [ca](ca) [diglingam](digliṅgaṃ) [caiva](caiva) [vakshyate](vakṣyate)
 
 ## mukta-m0-p27-v672
-[tryasraṃ](tryasraṃ) [ca](ca) [aśeṣasiddhyarthaṃ](aśeṣasiddhyarthaṃ) [vedāsraṃ](vedāsraṃ) [ca](ca) [ipsitapradam](ipsitapradam)
+[tryasram](tryasraṃ) [casheshasiddhyartham](cāśeṣasiddhyarthaṃ) [vedasram](vedāsraṃ) [cepsitapradam](cepsitapradam)
 
 ## mukta-m0-p27-v673
-[saptāsraṃ](saptāsraṃ) [dveṣakṛt](dveṣakṛt) [khyātam](khyātam) [aṣṭāsraṃ](aṣṭāsraṃ) [kīrtivardhanam](kīrtivardhanam)
+[saptasram](saptāsraṃ) [dveshakrtkhyatam](dveṣakṛtkhyātam) [ashtasram](aṣṭāsraṃ) [kirtivardhanam](kīrtivardhanam)
 
 ## mukta-m0-p27-v674
-[rudrāsraṃ](rudrāsraṃ) [rogavṛddhyarthaṃ](rogavṛddhyarthaṃ) [bhayaghnaṃ](bhayaghnaṃ) [dvādaśāsrakam](dvādaśāsrakam)
+[rudrasram](rudrāsraṃ) [rogavriddhyartham](rogavṛddhyarthaṃ) [bhayaghnam](bhayaghnaṃ) [dvadashasrakam](dvādaśāsrakam)
 
 ## mukta-m0-p27-v675
-[tithyasraṃ](tithyasraṃ) [puṇyakṛt](puṇyakṛt) [liṅgaṃ](liṅgaṃ) [vikārāsraṃ](vikārāsraṃ) [sukhapradam](sukhapradam)
+[tithyasram](tithyasraṃ) [punyakrlliingam](puṇyakṛlliṅgaṃ) [vikarasram](vikārāsraṃ) [sukhapradam](sukhapradam)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[prāvrājyāt-naśyate](prāvrājyānnaśyate) [pūrvaṃ](pūrvaṃ) [strī-yogāt-aparaṃ](strīyogādaparaṃ) [tathā](tathā)
+by-renunciation+perishes first by-woman-yoga+afterwards thus
 
 ## mukta-m0-p10-v227
-[tri-karṇa-utthāḥ-tri-karṇāḥ-ca](trikarṇotthāstrikarṇāśca) [tri-kapāna-ātma](trikapānātma) [karṇakā](karṇakā)
+three-ear-born three-ears and three-skull-self ear-ones
 
 ## mukta-m0-p10-v228
-[bhasma-aṅkuraḥ-tu](bhasmāṅkurastu) [kattha-osthaḥ-tat-sutāḥ](katthosthastatsutāḥ) [kauśika-ādayaḥ](kauśikādayaḥ)
+ash-sprout but boast-bone his-sons kushika-etc
 
 ## mukta-m0-p10-v229
-[rāṣṭra-kṣaya-karāḥ-hi-ete](rāṣṭrakṣayakarā) [hyete](hyete) [ye-ca](ye) [paṣāṇḍinaḥ](paṣāṇḍino) [narāḥ](narāḥ)
+kingdom-destruction-makers indeed these who and heretics men
 
 ## mukta-m0-p10-v230
-[śāstra-avalokanāt-eva](śāstrāvalokanādeva) [caṇḍeśaḥ-tasya](caṇḍeśastasya) [śāsakaḥ](śāsakaḥ)
+scripture-inspection+from indeed chandesa his ruler
 
 ## mukta-m0-p10-v231
-[sa-yāti](sa) [narakaṃ](narakaṃ) [sadyo](sadyo) [yājñikaiḥ](yājñikaiḥ) [saha](saha) [daiśikaḥ](daiśikaḥ)
+he goes hell immediately with sacrificers together teacher
 
 ## mukta-m0-p10-v232
-[teṣām-ācaraṇāt-nityam](teṣāmācaraṇānnityam) [ācāryaḥ](ācārya) [iti](iti) [kīrtyate](kīrtyate)
+their conduct from always teacher thus is-praised
 
 ## mukta-m0-p10-v233
-[tasmāt-na](tasmānna) [mānavīṃ](mānavīṃ) [buddhiṃ](buddhiṃ) [kārayet](kārayet) [daiśikaṃ](daiśikaṃ) [prati](prati)
+therefore not human mind make toward teacher
 
 ## mukta-m0-p10-v234
-[pañca-vaktrāṇi](pañcavaktrāṇi) [devasya](devasya) [pañca-āgama-vivṛddhaye](pañcāgamavivṛddhaye)
+five-faces of-god for five-agama-growth
 
 ## mukta-m0-p10-v235
-[dīptaṃ](dīptaṃ) [sūkṣmaṃ](sūkṣmaṃ) [ca](ca) [sāhasraṃ](sāhasramaṃśuma) [aṃśuma](aṃśuma) [suprabhaṃ](suprabhaṃ) [daśa](daśa)
+shining subtle and thousand-rayed very-bright ten
 
 ## mukta-m0-p10-v236
-[vijayaṃ](vijayaṃ) [pāram-aiśvaryaṃ](pāramaiśvaryaṃ) [niśvāsa-udgīta-saṃjñakam](niśvāsodgītasaṃjñakam)
+victory supreme-lordship exhalation-song-named
 
 ## mukta-m0-p10-v237
-[narasiṃhaṃ](narasiṃhaṃ) [candrahāsaṃ](candrahāsaṃ) [vīraṃ](vīraṃ) [svāyambhu-rauravaṃ](svāyambhurauravam)
+narasimha moon-smile hero svayambhu raurava
 
 ## mukta-m0-p10-v238
-[rudra-bhedāḥ](rudrabhedāḥ) [samākhyātāḥ](samākhyātā) [daśa-aṣṭādaśa](daśāṣṭādaśa) [ca](ca) [ūrdhvagāḥ](ūrdhvagāḥ)
+rudra-divisions well-named ten-eighteen upward-going
 
 ## mukta-m0-p10-v239
-[pañca-bhūta](pañcabhūta) [vibhāgaṃ](vibhāgaṃ) [ca](ca) [śūnya-bheda](śūnyabheda) [vinirṇayam](vinirṇayam)
+five-elements division and void-division determination
 
 ## mukta-m0-p10-v240
-[kambojaṃ](kambojaṃ) [kambalaṃ](kambalaṃ) [kaṅkaṃ](kaṅkaṃ) [kālakuṇḍaṃ](kālakuṇḍaṃ) [kaṭāhakam](kaṭāhakam)
+kamboja blanket kanka black-pot cauldron
 
 ## mukta-m0-p10-v241
-[gāruḍasya](gāruḍasya) [tu-ime](tuime) [bhedāḥ](bhedā) [aṣṭāviṃśatiḥ-īritāḥ](aṣṭāviṃśatirīritāḥ)
+of-garuda indeed these divisions twenty-eight declared
 
 ## mukta-m0-p10-v242
-[asitāṅgaṃ](asitāṅgaṃ) [ruruṃ](ruruṃ) [ca-eva](caiva) [kapālīśaṃ](kapālīśaṃ) [samuccayam](samuccayam)
+black-limbed ruru and indeed kapalisha collection
 
 ## mukta-m0-p10-v243
-[bhīmāṅgaṃ](bhīmāṅgaṃ) [ḍāmarārāvaṃ](ḍāmarārāvaṃ) [bhīmaṃ](bhīmaṃ) [vetāla-mardakam](vetālamardakam)
+terrible-limbed damara-roar terrible vetala-crusher
 
 ## mukta-m0-p10-v244
-[triśiraṃ](triśiraṃ) [ca-eka-pādaṃ](caikapādaṃ) [tu](tu) [siddha-yogeśvarī-matam](siddhayogeśvarīmatam)
+three-headed and one-footed indeed siddha-yogeshvari-opinion
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocaṃ](saṅkocaṃ) [tilaka-udyāna-bhairavam](tilakodyānabhairavam)
+universal-throat contraction tilaka-garden-bhairava
 
 ## mukta-m0-p10-v246
-[catuḥ-ṣaṣṭi-pramāṇāni](catuḥṣaṣṭipramāṇāni) [dakṣiṇa-āsyāt-bhavāni](dakṣiṇāsyādbhavāni) [ca](ca)
+four sixty-measures from southern-face born and
 
 ## mukta-m0-p10-v247
-[kara-pūjā-vidhānaṃ](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantraṃ](vīṇātantraṃ) [tat-uttaram](taduttaram)
+hand-worship-rite indeed vina-tantra that-after
 
 ## mukta-m0-p10-v248
-[siddha-nitya-udayaṃ](siddhanityodayaṃ) [jyeṣṭhaṃ](jyeṣṭhaṃ) [cintāmaṇi-mahodayam](cintāmaṇimahodayam)
+siddha-eternal-rise eldest cintamani-great-rise
 
 ## mukta-m0-p10-v249
-[ānanda-rudra-bhadra-ākhyaṃ](ānandarudrabhadrākhyaṃ) [kiṅkaraṃ](kiṅkaraṃ) [kiṅkara-anugam](kiṅkarānugam)
+ananda-rudra-bhadra-named servant servant-follower
 
 ## mukta-m0-p10-v250
-[vāmadaṃ](vāmadaṃ) [vāmadeva-uktaṃ](vāmadevoktaṃ) [caturviṃśati-bheda-gam](caturviṃśatibhedagam)
+left-giving vamadeva-spoken twenty-four-division-going
