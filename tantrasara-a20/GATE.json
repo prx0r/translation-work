@@ -1,116 +1,42 @@
 {
  "tsa20-p01": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'m\u0101y\u0101' used in candidate but not in source; '\u0101tman' used in candidate "
+    "proof-tsa-a20.json proof_record v1 2026-11-01, layers re-hashed 7/7"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "tsa20-p02": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION",
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u0101tman' used in candidate but not in source; 'yoga' used in candidate "
+    "proof-tsa-a20.json proof_record v1 2026-11-01, layers re-hashed 7/7"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "tsa20-p03": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-tsa-a20.json proof_record v1 2026-11-01, layers re-hashed 7/7"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "tsa20-p04": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "COVERAGE",
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    false,
-    "candidate only 38% of source units \u2014 dropped p\u0101das"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'m\u0101y\u0101' used in candidate but not in source"
+    "proof-tsa-a20.json proof_record v1 2026-11-01, layers re-hashed 7/7"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  }
 }

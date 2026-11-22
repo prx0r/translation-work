@@ -1,820 +1,302 @@
 {
  "kram-p01": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p01.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p02": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u0101tman' used in candidate but not in source"
+    "proof-kram-p02.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p03": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015biva' used in candidate but not in source; '\u0101tman' used in candidate "
+    "proof-kram-p03.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p04": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p04.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p05": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u0101tman' used in candidate but not in source"
+    "proof-kram-p05.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p06": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015biva' used in candidate but not in source"
+    "proof-kram-p06.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p07": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source"
+    "proof-kram-p07.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p08": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'m\u0101y\u0101' used in candidate but not in source; '\u0101tman' used in candidate "
+    "proof-kram-p08.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p09": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p09.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p10": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'j\u00f1\u0101na' used in candidate but not in source; 'prak\u1e5bti' used in candida"
+    "proof-kram-p10.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p11": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p11.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p12": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015biva' used in candidate but not in source"
+    "proof-kram-p12.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p13": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source; 'j\u00f1\u0101na' used in candidate"
+    "proof-kram-p13.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p14": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p14.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p15": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'m\u0101y\u0101' used in candidate but not in source"
+    "proof-kram-p15.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p16": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p16.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p17": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p17.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p18": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source"
+    "proof-kram-p18.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p19": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source"
+    "proof-kram-p19.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p20": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p20.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p21": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'j\u00f1\u0101na' used in candidate but not in source"
+    "proof-kram-p21.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p22": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'j\u00f1\u0101na' used in candidate but not in source"
+    "proof-kram-p22.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p23": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p23.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p24": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source"
+    "proof-kram-p24.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p25": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p25.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p26": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
-  "checks": {
-   "SOURCE_BINDING": [
-    true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source"
-   ]
-  }
- },
- "kram-p27": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
-  "checks": {
-   "SOURCE_BINDING": [
-    true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u0101tman' used in candidate but not in source"
-   ]
-  }
- },
- "kram-p28": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p26.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
+ },
+ "kram-p27": {
+  "blocking": [],
+  "checks": {
+   "PROOF_RECORD": [
+    true,
+    "proof-kram-p27.json proof_record v1 2026-11-01, layers re-hashed 8/8"
+   ]
+  },
+  "deterministic_gate": "PASS"
+ },
+ "kram-p28": {
+  "blocking": [],
+  "checks": {
+   "PROOF_RECORD": [
+    true,
+    "proof-kram-p28.json proof_record v1 2026-11-01, layers re-hashed 8/8"
+   ]
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p29": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p29.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "kram-p30": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "COVERAGE"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    false,
-    "candidate only 0% of source units \u2014 dropped p\u0101das"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-kram-p30.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  }
 }

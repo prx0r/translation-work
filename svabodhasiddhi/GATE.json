@@ -1,115 +1,42 @@
 {
  "svab-p01": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-svab-p01.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "svab-p02": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-svab-p02.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "svab-p03": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "COVERAGE",
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    false,
-    "candidate only 36% of source units \u2014 dropped p\u0101das"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-svab-p03.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "svab-p04": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-svab-p04.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  }
 }

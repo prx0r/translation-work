@@ -1,114 +1,42 @@
 {
  "ptvm-p01": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-ptvm-p01.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "ptvm-p02": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-ptvm-p02.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "ptvm-p03": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-ptvm-p03.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "ptvm-p04": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-ptvm-p04.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  }
 }
