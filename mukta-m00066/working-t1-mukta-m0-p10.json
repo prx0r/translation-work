@@ -12,7 +12,7 @@
 },
 {
 "surface": "japen",
-"quick_gloss": "should-chant"
+"quick_gloss": "should-recite"
 },
 {
 "surface": "mantraṃ",
@@ -41,7 +41,7 @@
 "tokens": [
 {
 "surface": "taddaśāṃśaṃ",
-"quick_gloss": "tenth-part-of-that"
+"quick_gloss": "that-tenth-part"
 },
 {
 "surface": "ca",
@@ -70,7 +70,7 @@
 "tokens": [
 {
 "surface": "taddaśāṃśaṃ",
-"quick_gloss": "tenth-part-of-that"
+"quick_gloss": "that-tenth-part"
 },
 {
 "surface": "mahādevi",
@@ -99,7 +99,7 @@
 "tokens": [
 {
 "surface": "hṛdyaiḥ",
-"quick_gloss": "pleasing"
+"quick_gloss": "delicious"
 },
 {
 "surface": "pāyasa",
@@ -111,7 +111,7 @@
 },
 {
 "surface": "rasaiścaiva",
-"quick_gloss": "juices-and"
+"quick_gloss": "with-juices-and-indeed"
 },
 {
 "surface": "rasāyanaiḥ",
@@ -128,19 +128,27 @@
 "tokens": [
 {
 "surface": "madyair",
-"quick_gloss": "wines"
+"quick_gloss": "with-wines"
 },
 {
-"surface": "māṃsaiśca",
+"surface": "māṃsaiḥ",
 "quick_gloss": "meats"
 },
 {
-"surface": "matsyaiśca",
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
+"surface": "matsyaiḥ",
 "quick_gloss": "fishes"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "nānāvastūpabṛṃhitaiḥ",
-"quick_gloss": "various-things-filled"
+"quick_gloss": "various-things-augmented"
 }
 ]
 },
@@ -198,7 +206,7 @@
 },
 {
 "surface": "kāyavat",
-"quick_gloss": "embodied"
+"quick_gloss": "bodily"
 }
 ]
 },
@@ -210,7 +218,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "atiguhyātva",
+"surface": "atiguhyatva",
 "quick_gloss": "extreme-secrecy"
 },
 {
@@ -338,12 +346,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "imām",
-"quick_gloss": "this"
-},
-{
-"surface": "abhyasyataḥ",
-"quick_gloss": "practicing"
+"surface": "imāmabhyasyataḥ",
+"quick_gloss": "practicing-this"
 },
 {
 "surface": "puṃso",
@@ -367,12 +371,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ity",
-"quick_gloss": "thus"
-},
-{
-"surface": "ānaṃdataṃtre",
-"quick_gloss": "in-Ananda-tantra"
+"surface": "ityānaṃdataṃtre",
+"quick_gloss": "thus-in-ananda-tantra"
 },
 {
 "surface": "paṃcamaḥ",
@@ -393,7 +393,7 @@
 "tokens": [
 {
 "surface": "yāgarājakramaḥ",
-"quick_gloss": "sacrificial-king-sequence"
+"quick_gloss": "royal-sacrifice-rite"
 },
 {
 "surface": "sarvapuruṣārthaṃ",
@@ -426,7 +426,7 @@
 },
 {
 "surface": "manoharam",
-"quick_gloss": "mind-charming"
+"quick_gloss": "charming"
 }
 ]
 },
@@ -446,8 +446,12 @@
 "quick_gloss": "body"
 },
 {
-"surface": "sannaṃtardhyāyen",
-"quick_gloss": "well-within-meditate"
+"surface": "san",
+"quick_gloss": "well"
+},
+{
+"surface": "antardhyāyen",
+"quick_gloss": "meditate-within"
 },
 {
 "surface": "maheśvarīm",
@@ -464,15 +468,15 @@
 "tokens": [
 {
 "surface": "vibhinna",
-"quick_gloss": "opened"
+"quick_gloss": "divided"
 },
 {
 "surface": "ṣaṭsarojanma",
-"quick_gloss": "six-lotuses"
+"quick_gloss": "six-lotus-born"
 },
 {
 "surface": "prakāśa",
-"quick_gloss": "radiance"
+"quick_gloss": "radiant"
 },
 {
 "surface": "nijavigrahām",
@@ -489,7 +493,7 @@
 "tokens": [
 {
 "surface": "tripurasuṃdarīm",
-"quick_gloss": "beautiful-Tripura"
+"quick_gloss": "tripura-sundari"
 }
 ]
 },
@@ -509,7 +513,7 @@
 "quick_gloss": "and"
 },
 {
-"surface": "bahirgrāmān",
+"surface": "bahirgrāmāt",
 "quick_gloss": "outside-village"
 },
 {
@@ -527,11 +531,11 @@
 "tokens": [
 {
 "surface": "sugaṃdhatailaliptasya",
-"quick_gloss": "fragrant-oil-anointed"
+"quick_gloss": "anointed-with-fragrant-oil"
 },
 {
 "surface": "piṣṭikodvarti",
-"quick_gloss": "paste-rubbed"
+"quick_gloss": "smeared-with-paste"
 },
 {
 "surface": "tasya",
@@ -568,7 +572,7 @@
 },
 {
 "surface": "rūkṣasnānam",
-"quick_gloss": "dry-bath"
+"quick_gloss": "dry-bathing"
 },
 {
 "surface": "ācaret",
@@ -585,7 +589,7 @@
 "tokens": [
 {
 "surface": "mūrdhnitvā",
-"quick_gloss": "head-placing"
+"quick_gloss": "placing-on-head"
 },
 {
 "surface": "mūlamaṃtra",
@@ -593,11 +597,11 @@
 },
 {
 "surface": "jāpena",
-"quick_gloss": "by-chanting"
+"quick_gloss": "with-recitation"
 },
 {
-"surface": "aṃbhoṃjalitrayam",
-"quick_gloss": "three-water-libations"
+"surface": "bhoṃjalitrayam",
+"quick_gloss": "three-water-pots"
 }
 ]
 },
