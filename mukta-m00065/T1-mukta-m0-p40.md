@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-[gauṇaḥ](gauṇaḥ) [secondary](kṣetre) [in-temple](kṣetre) [or]('thavā) [six-doors-one-faced](ṣaḍdorekavaktraḥ) [is-praised](praśasyate)
+gauṇaḥ[secondary] kṣetre'thavā[or-in-field] ṣaḍdorekavaktraḥ[six-doors-one-faced] praśasyate[is-praised]
 
 ## mukta-m0-p40-v977
-[in-order](yathākramaṃ) [always](sadā) [with-six](ṣaḍbhiḥ) [right-and-left-hands](dakṣiṇottarapāṇibhiḥ)
+yathākramaṃ[according-to-order] sadā[always] ṣaḍbhiḥ[with-six] dakṣiṇottarapāṇibhiḥ[right-left-hands]
 
 ## mukta-m0-p40-v978
-[bearing](bibhrat) [śakti](śaktiṃ) [in-hand](kare) [right](yāmye) [peacock](tāmracūḍaṃ) [and](tathā) [other](itare)
+bibhrachaktiṃ[bearing-power] kare[in-hand] yāmye[southern] tāmracūḍaṃ[cock] tathā[and] itare[other]
 
 ## mukta-m0-p40-v979
-[mounted-on-peacock](śikhyārūḍhaḥ) [but](tu) [śārva](śārvaḥ) [this](ayaṃ) [adorned-with-all-ornaments](sarvālaṅkārabhaṣitaḥ)
+śikhyārūḍhaḥ[peacock-mounted] tu[but] śārvaḥ[Śarva] ayaṃ[this] sarvālaṅkārabhaṣitaḥ[adorned-with-all-ornaments]
 
 ## mukta-m0-p40-v980
-[stone](śilā) [gold](hema) [etc](ādi) [with-metals](lohaiḥ) [or](vā) [bull](vṛṣaṃ) [should-make](kuryāt) [as-desired](yathepsitam)
+śilā[stone] hema[gold] ādi[etc] lohaiḥ[metals] vā[or] vṛṣaṃ[bull] kuryāt[should-make] yathā-ipsitam[as-desired]
 
 ## mukta-m0-p40-v981
-[in-common](sādhāraṇeṣu) [liṅgas](liṅgeṣu) [from-context](prastāvāt) [prescribed](vihitaḥ) [bull](vṛṣaḥ)
+sādhāraṇeṣu[common] liṅgeṣu[liṅgas] prastāvāt[by-context] vihitaḥ[appointed] vṛṣaḥ[bull]
 
 ## mukta-m0-p40-v982
-[one-third-of-liṅga](liṅgatryaṃśa) [removed](ujhitaḥ) [should-be-made](kāryaḥ) [that](tat) [twice-the-height](dvirāyati) [image](vigrahaḥ)
+liṅga-tri-aṃśa-ojhitaḥ[liṅga-three-part-deprived] kāryaḥ[to-be-made] tat-dvi-rāyati-vigrahaḥ[that-double-Rāyati-image]
 
 ## mukta-m0-p40-v983
-[auspicious](śubha) [opened](unmolita) [eye](dṛg) [mark](lakṣma) [liṅga](liṅga) [top](mastaka) [top](mastakaḥ)
+śubha-unmolita-dṛg-lakṣma[auspicious-opened-eye-mark] liṅga-mastaka-mastakaḥ[liṅga-head-head]
 
 ## mukta-m0-p40-v984
-[from-length](dairghyāt) [square](caturaśa) [aṅgula](aṅgulaṃ) [by-that](tena) [measurement](kalpanam)
+dairghyāt[from-length] caturaśa[?] utyaśaḥ[?] cāṅgulaṃ[and-angula] tena[by-that] kalpanam[construction]
 
 ## mukta-m0-p40-v985
-[eight-eyes](aṣṭanetra) [breadth](pṛthutvaṃ) [should-be](syāt) [elevated](proccaiḥ) [that](tat) [face](vaktra) [length](dīrghatā)
+aṣṭa-netra-pṛthutvaṃ[eight-eye-breadth] syāt[should-be] proccaiḥ[very-high] tat-vaktra-dīrghatā[that-face-length]
 
 ## mukta-m0-p40-v986
-[string](tantri) [part](bhāgaṃ) [but](tu) [star](tārā) [should-be](syāt) [light](jyotiḥ) [that](tat) [fifth-part](pañcamāṃśataḥ)
+tantri-bhāgaṃ[string-part] tu[but] tārā[string] syāt[should-be] jyotiḥ[light] tat-pañcama-aṃśataḥ[that-fifth-part]
 
 ## mukta-m0-p40-v987
-[nose](nāsā) [aṅgula](aṅgula) [measure](pramā) [round](vṛttā) [two-eyes](dvinetraṃ) [hollow](śuṣira) [interior](antaram)
+nāsā-aṅgula-pramā-vṛttā[nose-angula-measure-round] dvi-netraṃ[two-eyes] śuṣira-antaram[hollow-interior]
 
 ## mukta-m0-p40-v988
-[five-eyes](pañcanetraṃ) [but](tu) [breadth](vistāraṃ) [that](tat) [above](ūrdhva) [but](tu) [increases](vivardhate)
+pañca-netraṃ[five-eyes] tu[but] vistāraṃ[breadth] tat-ūrdhva[that-above] tu[but] vivardhate[grows]
 
 ## mukta-m0-p40-v989
-[four-eyes](caturnetra) [both](ubhayoḥ) [sides](pārśve) [face](vaktra) [measure](mānaṃ) [but](tu) [joined](sandhitaḥ)
+caturnetraḥ[four-eyed] ubhayoḥ[both] pārśve[sides] vaktra-mānaṃ[face-measure] tu[but] sandhitaḥ[joined]
 
 ## mukta-m0-p40-v990
-[that](tat) [at-base](mūle) [seven-breadth](saptavistāraṃ) [ear-base](karṇamūla) [endowed-with](samanvitam)
+tat-mūle[that-base] sapta-vistāraṃ[seven-breadth] karṇa-mūla-samanvitam[ear-base-endowed]
 
 ## mukta-m0-p40-v991
-[half-aṅgula](aṅgulārdha) [equal](samaṃ) [until](yāvat) [base](mūlaṃ) [five](pañcaka) [round](vartulaṃ)
+aṅgula-ardha-samaṃ[angula-half-equal] yāvat[up-to] mūlaṃ[root] pañcaka-vartulam[five-round]
 
 ## mukta-m0-p40-v992
-[from-ear-base](karṇamūlāt) [but](tu) [half-nose](nāsārdhaṃ) [from-thread-line](sūtrahāsāt) [should-draw](nayet) [equal](samam)
+karṇa-mūlāt[from-ear-base] tu[but] nāsā-ardhaṃ[nose-half] sūtra-hāsāt[by-thread-smile] nayet[should-lead] samam[equal]
 
 ## mukta-m0-p40-v993
-[conch-base](śaṅkhamūla) [two-eyes](dvinetraṃ) [should-be](syāt) [as](yathā) [in-front](agre) [eye-foot](netrapādakaṃ)
+śaṅkha-mūla[conch-base] dvi-netraṃ[two-eyes] syāt[should-be] yathā[as] agre[front] netra-pādakam[eye-foot]
 
 ## mukta-m0-p40-v994
-[side-lump](pārśvapiṇḍī) [half-two-eyes](dvinetrārdhaṃ) [six-eyes](ṣaḍnetra) [front-tuft](agrāvaṭuḥ) [called](smṛtaḥ)
+pārśva-piṇḍī[side-lump] dvi-netra-ardhaṃ[two-eye-half] ṣaḍ-netra-agra-avaṭuḥ[six-eye-front-tuft] smṛtaḥ[remembered]
 
 ## mukta-m0-p40-v995
-[two-eyes](dvinetra) [height](ucchraya) [above](ūrdhvaṃ) [should-be](syāt) [round](vṛtta) [top](mūrdhvaṃ) [as](yathā) [should-be](bhavet)
+dvi-netra-ucchraya-ta-ūrdhaṃ[two-eye-height-above] syāt[should-be] vṛtta-mūrdhvaṃ[round-above] yathā[as] bhavet[becomes]
 
 ## mukta-m0-p40-v996
-[joint](sandhiḥ) [eye-excess](netrādhikaḥ) [stated](proktaḥ) [four-eyes](caturnetra) [calf](upajaṅghikā)
+sandhiḥ[joint] netra-adhikaḥ[eye-excess] proktaḥ[stated] caturnetra-upajaṅghikā[four-eye-calf]
 
 ## mukta-m0-p40-v997
-[half-ankle](gulphārdhaṃ) [hoof](khurikā) [eye](netraṃ) [of-foot](pādasya) [by-measure](parimāṇataḥ)
+gulpha-ardhaṃ[ankle-half] khurikā-netraṃ[hoof-eye] pādasya[foot] at-parimāṇataḥ[by-measure]
 
 ## mukta-m0-p40-v998
-[fourteen](caturdaśa) [etc](ādi) [that](tat) [speech](vaca) [minus-three](trihīne) [and](ca) [calf](upajaṅghrikā)
+caturdaśa-ādi[fourteen-etc] tat-vaca[that-speech] tri-hīne[three-less] ca[and] upajaṅghrikā[calf]
 
 ## mukta-m0-p40-v999
-[six-eyes](ṣaḍnetra) [end](antaḥ) [and](tathā) [to-be-known](ājñeyā) [therefore](tasmāt) [should-be](syāt) [tail-continuation](pucchasantatiḥ)
+ṣaḍ-netra-antaḥ[six-eye-end] tathā[and] jñeyā[to-be-known] tasmāt[therefore] syāt[should-be] puccha-santatiḥ[tail-continuity]
 
 ## mukta-m0-p40-v1000
-[three-palms](tālatrayaṃ) [very-long](pradīrghaṃ) [should-be](syāt) [half-palm](tālārdhaṃ) [hair-bunch](keśasaṃhatiḥ)
+tāla-trayaṃ[palm-three] pradīrghaṃ[very-long] syāt[should-be] tāla-ardhaṃ[palm-half] keśa-saṃhatiḥ[hair-collection]

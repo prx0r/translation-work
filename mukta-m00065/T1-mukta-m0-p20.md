@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[thus](ityaṣṭādaśa) [images](bimbāni) [spoken](kathitānyatra) [by-number](saṃkhyayā)
+iti-thus aṣṭādaśa-eighteen bimbāni-images kathitāni-told atra-here saṃkhyayā-by-number
 
 ## mukta-m0-p20-v477
-[become](bhaveyuḥ) [worms](kṛmayo) [in-womb](garbhe) [destruction](nāśo) [of-body-and-purpose](dehārthayostataḥ)
+bhaveyuḥ-would-be kṛmayo-worms garbhe-in-embryo nāśaḥ-destruction dehārthayoḥ-of-body-and-wealth tataḥ-thence
 
 ## mukta-m0-p20-v478
-[therefore](tena) [king](rājā) [and](ca) [minister](mantrī) [and](ca) [maker](kārako) [dies](mriyate) [in-order](kramāt)
+tena-thereby rājā-king ca-and mantrī-minister ca-and kāraka-agent mriyate-dies kramāt-in-order
 
 ## mukta-m0-p20-v479
-[on-red-painted](raktacitre) [and](ca) [horned](śṛṅgī) [is](syāt) [by-that](tayā) [grief-fear](śokabhayaṃ) [repeatedly](muhuḥ)
+raktacitre-in-red-picture ca-and śṛṅgī-horned syāt-would-be tayā-by-that śokabhayaṃ-grief-fear muhuḥ-again-and-again
 
 ## mukta-m0-p20-v480
-[on-black-painted](kṛṣṇacitre) [and](ca) [cow-loss](gonāśaḥ) [he](so) [many-disease-causing](anekavyādhikāraka)
+kṛṣṇacitre-in-black-picture ca-and gonāśaḥ-cow-destruction saḥ-he aneka-many vyādhi-disease kāraka-causing
 
 ## mukta-m0-p20-v481
-[seven](saptaitāni) [indeed](tu) [these](citrāṇi) [known](jñeyāni) [by-external-signs](bāhyalakṣaṇaiḥ)
+sapta-seven etāni-these tu-indeed citrāṇi-pictures jñeyāni-to-be-known bāhya-external lakṣaṇaiḥ-by-signs
 
 ## mukta-m0-p20-v482
-[by-four-modification-difference](caturvikārabhedena) [womb](garbhaṃ) [know](vidyāt) [by-plaster](pralepataḥ)
+catur-four vikāra-modification bhedena-by-difference garbhaṃ-embryo vidyāt-should-know pralepataḥ-by-plastering
 
 ## mukta-m0-p20-v483
-[saurashtrian](saurāṣṭrī) [with-palm](tālasaṃyuktaṃ) [with-sauvira](sauvīreṇa) [and](ca) [grind](peṣayet)
+saurāṣṭrī-Saurashtri tāla-palm saṃyuktaṃ-combined sauvīreṇa-with-Sauvira ca-and peṣayet-should-grind
 
 ## mukta-m0-p20-v484
-[bhṛṅgāhī](bhṛṅgāhī) [or](vā) [black-fish](kṛṣṇamatsyaṃ) [knowing](jñātvā) [those](tā) [fault-giving](doṣadāstyajet)
+bhṛṅgāhī-Bhringahi kṛṣṇa-black matsyaṃ-fish vā-or jñātvā-knowing tāḥ-them doṣadāḥ-fault-giving tyajet-should-abandon
 
 ## mukta-m0-p20-v485
-[ground-thus](piṣṭavaivaṃ) [equal-part](samabhāgaṃ) [indeed](tu) [woman](nārī) [with-milk](kṣīreṇa) [anoint](lepayet)
+piṣṭvā-having-ground evaṃ-thus sama-equal bhāgaṃ-part tu-indeed nārī-woman kṣīreṇa-with-milk lepayet-should-anoint
 
 ## mukta-m0-p20-v486
-[by-that](tena) [maker's](karturbhaven) [death](mṛtyustasmāttāṃ) [in-water](salile) [throw](kṣipet)
+tena-by-that kartuḥ-of-maker bhavet-would-be mṛtyuḥ-death tasmāt-therefore tāṃ-her salile-in-water kṣipet-should-throw
 
 ## mukta-m0-p20-v487
-[day-night-stayed](ahorātroṣite) [blood](raktaṃ) [reject](tyājyamūrmānvitaṃ) [and](ca) [that](yat)
+ahorātra-day-night uṣite-dwelt raktaṃ-blood tyājyam-to-be-abandoned ūrmānvitaṃ-wave-accompanied ca-and yat-which
 
 ## mukta-m0-p20-v488
-[sharp](tīkṣṇaṃ) [with-rudrajaṭā](rudrajaṭāyuktamavikṣīraiḥ) [grind](prapeṣya) [and](ca)
+tīkṣṇaṃ-sharp rudrajaṭā-Rudra's-matted-hair yuktam-joined avikṣīraiḥ-with-goat-milk prapeṣya-grinding ca-and
 
 ## mukta-m0-p20-v489
-[of-two](dvayordvirūpakaṃ) [in-womb](garbhe) [knowing](jñātvā) [before-fault-giving](prāgdoṣadāṃstyajet)
+dvayoḥ-of-two dvirūpakaṃ-double-form garbhe-in-embryo jñātvā-knowing prāg-previous doṣadān-fault-giving tyajet-abandon
 
 ## mukta-m0-p20-v490
-[of-maker](kartustatkulahṛnnūnaṃ) [to-teacher](gurordadyātkṣayāmayam)
+kartuḥ-of-maker tat-that kula-family hṛt-stolen nūnam-certainly guroḥ-to-teacher dadyāt-would-give kṣayāmayaṃ-consumption-disease
 
 ## mukta-m0-p20-v491
-[by-hammer-blow](ṭaṅkāghātādbhidākārī) [joint](sandhiḥ) [maker-destroying](kartṛvināśakaḥ)
+ṭaṅka-hammer āghātāt-by-striking bhidā-splitting ākārī-form sandhiḥ-joint kartṛ-maker vināśakaḥ-destroying
 
 ## mukta-m0-p20-v492
-[bubble](sphoṭaṃ) [cracked](sphuṭitakaṃ) [know](vidyācchastraghātāntadāyakam)
+sphoṭaṃ-blister sphuṭitakaṃ-cracked vidyāt-should-know śastra-weapon ghāta-strike anta-end dāyakam-giving
 
 ## mukta-m0-p20-v493
-[sky-shaped](vyomākāro) [becomes-sky](bhavedvyoma) [so](so) [soon-maker-destroying](acirātkartṛnāśakaḥ)
+vyoma-sky ākāraḥ-form bhavet-would-be vyoma-sky saḥ-he acirāt-soon kartṛ-maker nāśakaḥ-destroying
 
 ## mukta-m0-p20-v494
-[by-that](tayā) [maker-progeny-destruction](kartṛprajānāśaḥ) [quickly](śīghrameva) [no](na) [doubt](saṃśayaḥ)
+tayā-by-that kartṛ-maker prajā-offspring nāśaḥ-destruction śīghram-quickly eva-indeed na-not saṃśayaḥ-doubt
 
 ## mukta-m0-p20-v495
-[therefore](tena) [make](kuryānna) [marks](liṅgāni) [done](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
+tena-therefore kuryāt-should-do na-not liṅgāni-marks kṛte-done ca-and dvau-two vinaśyataḥ-perish
 
 ## mukta-m0-p20-v496
-[yellow](pītaṃ) [white](sitaṃ) [and](tathā) [black](kṛṣṇaṃ) [red](raktaṃ) [blue](nīlaṃ) [and](ca) [mixed](miśrakam)
+pītaṃ-yellow sitaṃ-white tathā-and kṛṣṇaṃ-black raktaṃ-red nīlaṃ-blue ca-and miśrakam-mixed
 
 ## mukta-m0-p20-v497
-[nine-half](navatyardhaṃ) [great-faults](mahādoṣā) [difference-divided](bhedabhinno) [thus](iti) [remembered](smṛtāḥ)
+navati-ninety ardhaṃ-half mahādoṣā-great-faults bheda-difference bhinnaḥ-distinct iti-thus smṛtāḥ-remembered
 
 ## mukta-m0-p20-v498
-[brahma-upendra-division-standing](brahmopendravibhāgasthāṃstridhā) [in-marks](liṅgeṣvadoṣadān)
+brahma-Brahma upendra-Indra vibhāga-division sthān-threefold liṅgeṣu-in-marks adoṣadān-faultless
 
 ## mukta-m0-p20-v499
-[vein](śirā) [with-knots-frost](granthituṣāraiśca) [pure](vimalaṃ) [give](dadu) [with-drops](bindubhiḥ)
+śirā-vein granthi-knot tuṣāraiḥ-with-chaff ca-and vimalaṃ-pure dadu-give bindubhiḥ-with-dots
 
 ## mukta-m0-p20-v500
-[cat-etc-foot-marked](viḍālāśvoṣṭragomāyukākapādāṅkitāṃstyajet)
+viḍāla-cat aśva-horse uṣṭra-camel go-cow māyu-jackal kāka-crow pāda-foot aṅkitān-marked tyajet-abandon
