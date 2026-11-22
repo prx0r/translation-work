@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[being](bhūta)+[future](bhāvi)+[manifesting](vibhāvinī)+[feminine](ī)
+[past](bhūta) [future](bhāvi) [manifesting](vibhāvinī) [all](sarva) [being](bhūta)
 
 ## mukta-m0-p71-v1752
-[therefore](ato)+[other](anyaḥ)+[who](kaḥ)+[always](sadā)+[beginning-end](ādyantaḥ)+[you](tvāṃ)+[to-manifest](vibhāvayituṃ)+[able](kṣamaḥ)
+[other](anyaḥ) [who](kaḥ) [always](sadā) [beginning-end](ādyanta) [you](tvāṃ) [manifest](vibhāvayituṃ) [able](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[auspicious](maṅgalā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[auspicious](maṅgalā) [always](sadā) [companion](sahāyā) [blessed](maṅgala)
 
 ## mukta-m0-p71-v1754
-[she](sā)+[auspicious](maṅgalā)+[his](asya)+[always](sadā)+[companion](sahāyā)
+[she](sā) [auspicious](maṅgalā) [his](asya) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-[good-character](suśīlā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[good-character](suśīlā) [self](svayaṃ) [good](su) [conduct](śīlā)
 
 ## mukta-m0-p71-v1756
-[self](svayaṃ)+[good-character](suśīlā)+[if](yadi)+[not](na)+[would-be](abhaviṣyaḥ)
+[self](svayaṃ) [good-character](suśīlā) [if](yadi) [not](na) [would-be](abhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[supreme-truth](paramārtha)+[awakening](prabodhikā)+[feminine](ā)+[goddess](devī)
+[supreme-truth](paramārtha) [awakening](prabodhikā) [knowledge](jñāna) [liberation](mokṣa)
 
 ## mukta-m0-p71-v1758
-[by-attainment](yadāptyā)+[wandering](bhrāmaka)+[other](anyān)+[harms](arthāñ)+[I-know](jānāmi)+[like-grass](śaṣpavat)
+[by-attainment](yadāptyā) [wandering](bhrāmaka) [others](anyān) [harms](arthāñ) [know](jānāmi) [grass](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-[right-giving](dakṣiṇā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[southern](dakṣiṇā) [grace](kṛpā) [gift](dāna) [blessing](āśīr)
 
 ## mukta-m0-p71-v1760
-[whence](yataḥ)+[thence](tataḥ)+[by-wise-ones](tataprajñaiḥ)+[right-giving](dakṣiṇā)+[thus](iti)+[you-are-praised](prakīrtyase)
+[therefore](yataḥ) [there](tataḥ) [wise](prajñaiḥ) [southern](dakṣiṇā) [called](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[right-giving](dakṣiṇā)+[form](mūrtiḥ)+[feminine](i)+[vocative](e)+[goddess](devī)
+[southern-form](dakṣiṇāmūrtiḥ) [teacher](guru) [silence](mauna) [knowledge](jñāna)
 
 ## mukta-m0-p71-v1762
-[she](sā)+[right-giving-form](dakṣiṇāmūrtiḥ)+[thus](iti)+[famous](prasiddhā)
+[she](sā) [southern-form](dakṣiṇāmūrtiḥ) [thus](iti) [famous](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[very-right-giving](sudakṣiṇā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[very-southern](sudakṣiṇā) [true](satyaṃ) [goddess](devi) [auspicious](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[truth](satyaṃ)+[then](tato)+[goddess](devi)+[very-right-giving](sudakṣiṇā)+[you-are](asi)
+[true](satyaṃ) [therefore](tato) [goddess](devi) [very-southern](sudakṣiṇā) [you](asi)
 
 ## mukta-m0-p71-v1765
-[hari-beloved](haripriyā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[hari-beloved](haripriyā) [viṣṇu](hari) [dear](priyā) [goddess](devī)
 
 ## mukta-m0-p71-v1766
-[śauri](śauriḥ)+[by-compassion](dayayā)+[goddess](devī)+[praised](kīrtitā)+[she](sā)+[hari-beloved](haripriyā)
+[śauri](śauriḥ) [by-mercy](dayayā) [goddess](devī) [praised](kīrtitā) [hari-beloved](haripriyā)
 
 ## mukta-m0-p71-v1767
-[yogin](yoginī)+[feminine](ī)+[vocative](e)+[goddess](devī)
+[yoginī](yoginī) [yoga](yoga) [power](śakti) [meditation](dhyāna)
 
 ## mukta-m0-p71-v1768
-[disease-sorrow-removed](rogaśokavinivartitāśayā)+[yogin](yoginī)+[auspicious-yoga-giving](subhagayogadā)+[let-be](astu)+[she](sā)
+[disease](roga) [sorrow](śoka) [removing](vinivartitā) [mind](āśayā) [yoginī](yoginī) [blessed](subhaga) [yoga-giving](yogadā) [let-be](astu) [she](sā)
 
 ## mukta-m0-p71-v1769
-[yoga-united](yogayuktā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[yoga-united](yogayuktā) [consciousness](cit) [bliss](ānanda) [always](nityaṃ)
 
 ## mukta-m0-p71-v1770
-[consciousness-bliss](cidānanda)+[indeed](eva)+[because](yat)+[eternal](nityaṃ)+[yoga-united](yogayuktā)+[therefore](tataḥ)+[by-self](svataḥ)
+[consciousness-bliss](cidānanda) [always](nityaṃ) [yoga-united](yogayuktā) [therefore](tataḥ) [by-self](svataḥ)
 
 ## mukta-m0-p71-v1771
-[yoga-limb](yogāṅgā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[yoga-limb](yogāṅga) [refuge](āpanna) [distress](āpad) [cause](hetu) [praised](kīrtitā)
 
 ## mukta-m0-p71-v1772
-[of-afflicted](āpannānām)+[calamity-end](āpadanta)+[single-cause](ekahetuḥ)+[yoga-limb](yogāṅgā)+[this](iyaṃ)+[praised](kīrtitā)+[by-yoga-lords](yogināthaiḥ)
+[distressed](āpannānām) [distress](āpad) [only-cause](antaikahetuḥ) [yoga-limb](yogāṅgeyaṃ) [praised](kīrtitā) [yoga-lords](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[meditation-possessing](dhyānaśālinī)+[feminine](ī)+[vocative](e)+[goddess](devī)
+[meditation-abiding](dhyānaśālinī) [all](sarva) [meditable](dhyeya) [you](tvaṃ)
 
 ## mukta-m0-p71-v1774
-[all-meditatable](sarvadhyeyā)+[also](api)+[all](sarvā)+[you-are](asi)+[you](tvaṃ)+[whose](yasya)+[meditation-possessing](dhyānaśālinī)
+[all-meditable](sarvadhyeyā) [all](sarvā) [you](asi) [you](tvaṃ) [whose](yasya) [meditation-abiding](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yoga-band-wearing](yogapaṭṭadharā)+[feminine](ā)+[vocative](e)+[goddess](devī)
+[yoga-band-wearing](yogapaṭṭadharā) [yoga](yoga) [band](paṭṭa) [wearing](dharā) [goddess](devī)
