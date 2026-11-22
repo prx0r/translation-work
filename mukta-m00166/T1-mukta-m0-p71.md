@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[bhūta](bhūta)+[bhāvi](bhāvi)+[vibhāvinī](vibhāvinī)
+[being](bhūta) [becoming](bhāvi) [manifesting](vibhāvinī)
 
 ## mukta-m0-p71-v1752
-[ato](ato)+[anyaḥ](anyaḥ)+[kaḥ](kaḥ)+[sadā](sadā)+[ādi](ādi)+[antaḥ](antaḥ)+[tvām](tvām)+[vibhāvayitum](vibhāvayitum)+[kṣamaḥ](kṣamaḥ)
+[therefore-other](ato'nyaḥ) [who](kaḥ) [always-beginning-end](sadādyantaḥ) [you](tvāṃ) [to-manifest](vibhāvayituṃ) [able](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[maṅgalā](maṅgalā)
+[auspicious](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[sā](sā)+[maṅgalā](maṅgalā)+[astu](astu)+[asya](asya)+[sadā](sadā)+[sahāyā](sahāyā)
+[she](sā) [auspicious](maṅgalā) [of-him](asya) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-[suśīlā](suśīlā)
+[good-character](suśīlā)
 
 ## mukta-m0-p71-v1756
-[svayam](svayam)+[suśīlā](suśīlā)+[yadi](yadi)+[na](na)+[abhaviṣyaḥ](abhaviṣyaḥ)
+[self](svayaṃ) [good-character](suśīlā) [if](yadi) [not-would-be](nābhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[paramārtha](paramārtha)+[prabodhikā](prabodhikā)
+[supreme-meaning-awakening](paramārtha+prabodhikā)
 
 ## mukta-m0-p71-v1758
-[yadā](yadā)+[āptyā](āptyā)+[bhrāmakān](bhrāmakān)+[anyān](anyān)+[arthān](arthān)+[jānāmi](jānāmi)+[śaṣpavat](śaṣpavat)
+[by-attainment](yadāptyā) [wandering-other](bhrāmaka+ananyān) [harms](arthāñ) [I-know](jānāmi) [like-grass](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-[dakṣiṇā](dakṣiṇā)
+[right-southern](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[yataḥ](yataḥ)+[tataḥ](tataḥ)+[tataprajñaiḥ](tataprajñaiḥ)+[dakṣiṇā](dakṣiṇā)+[iti](iti)+[prakīrtyase](prakīrtyase)
+[whence-thence](yatastataḥ) [that-wisdom](tataprajñaiḥ) [southern-thus](dakṣiṇeti) [you-are-praised](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ)
+[southern-form](dakṣiṇā+mūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[sā](sā)+[dakṣiṇāmūrtiḥ](dakṣiṇāmūrtiḥ)+[iti](iti)+[prasiddhā](prasiddhā)
+[she](sā) [southern-form](dakṣiṇā+mūrtiḥ) [thus](iti) [famous](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[sudakṣiṇā](sudakṣiṇā)
+[very-southern](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[satyam](satyam)+[tataḥ](tataḥ)+[devi](devi)+[sudakṣiṇā](sudakṣiṇā)+[asi](asi)
+[truth](satyaṃ) [then](tato) [goddess](devi) [very-southern](sudakṣiṇā) [you-are](asi)
 
 ## mukta-m0-p71-v1765
-[haripriyā](haripriyā)
+[hari-beloved](hari+priyā)
 
 ## mukta-m0-p71-v1766
-[śauriḥ](śauriḥ)+[yad](yad)+[dayayā](dayayā)+[devī](devī)+[kīrtitā](kīrtitā)+[sā](sā)+[haripriyā](haripriyā)
+[śauri](śauriḥ) [by-whose-mercy](yaddayayā) [goddess](devī) [praised](kīrtitā) [she](sā) [hari-beloved](hari+priyā)
 
 ## mukta-m0-p71-v1767
-[yoginī](yoginī)
+[yogini](yoginī)
 
 ## mukta-m0-p71-v1768
-[roga](roga)+[śoka](śoka)+[vinivartita](vinivartita)+[āśayā](āśayā)+[yoginī](yoginī)+[subhaga](subhaga)+[yoga](yoga)+[dā](dā)+[astu](astu)+[sā](sā)
+[disease-sorrow-removed-mind](roga+śoka+vinivartitā+āśayā) [yogini](yoginī) [auspicious-yoga-giving](subhaga+yoga+dā) [let-be](astu) [she](sā)
 
 ## mukta-m0-p71-v1769
-[yogayuktā](yogayuktā)
+[yoga-united](yoga+yuktā)
 
 ## mukta-m0-p71-v1770
-[cidānanda](cidānanda)+[eva](eva)+[yat](yat)+[nityam](nityam)+[yogayuktā](yogayuktā)+[tataḥ](tataḥ)+[svataḥ](svataḥ)
+[consciousness-bliss-only](cid+ānanda+eva) [because](yat) [always](nityaṃ) [yoga-united](yoga+yuktā) [therefore](tataḥ) [by-self](svataḥ)
 
 ## mukta-m0-p71-v1771
-[yogāṅgā](yogāṅgā)
+[yoga-limb](yoga+aṅgā)
 
 ## mukta-m0-p71-v1772
-[āpannānām](āpannānām)+[āpad](āpad)+[anta](anta)+[eka](eka)+[hetuḥ](hetuḥ)+[yogāṅgā](yogāṅgā)+[iyam](iyam)+[kīrtitā](kīrtitā)+[yogināthaiḥ](yogināthaiḥ)
+[of-afflicted](āpannānām) [calamity-end-single-cause](āpad+anta+eka+hetuḥ) [yoga-limb-this](yoga+aṅga+iyaṃ) [praised](kīrtitā) [by-yoga-lords](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[dhyānaśālinī](dhyānaśālinī)
+[meditation-possessing](dhyāna+śālinī)
 
 ## mukta-m0-p71-v1774
-[sarva](sarva)+[dhyeyā](dhyeyā)+[api](api)+[sarvā](sarvā)+[asi](asi)+[tvam](tvam)+[yasya](yasya)+[dhyānaśālinī](dhyānaśālinī)
+[all-meditatable](sarva+dhyeyā) [all](sarvā) [you-are](asi) [you](tvaṃ) [whose](yasya) [meditation-possessing](dhyāna+śālinī)
 
 ## mukta-m0-p71-v1775
-[yogapaṭṭadharā](yogapaṭṭadharā)
+[yoga-band-wearing](yoga+paṭṭa+dhara)
