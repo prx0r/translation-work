@@ -1,132 +1,52 @@
 {
  "bhair-p01": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-bhair-p01.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "bhair-p02": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-bhair-p02.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "bhair-p03": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-bhair-p03.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "bhair-p04": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-bhair-p04.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "bhair-p05": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-bhair-p05.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  }
 }

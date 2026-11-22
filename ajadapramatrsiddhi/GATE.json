@@ -1,80 +1,32 @@
 {
  "ajad-p01": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-ajad-p01.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "ajad-p02": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-ajad-p02.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "ajad-p03": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5x source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-ajad-p03.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  }
 }

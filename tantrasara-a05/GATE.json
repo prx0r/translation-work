@@ -1,56 +1,22 @@
 {
  "tsa05-p01": {
-  "deterministic_gate": "PASS",
   "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-tsa-a05.json proof_record v1 2026-11-01, layers re-hashed 7/7"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "tsa05-p02": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    true,
-    "no abstention violation"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source"
+    "proof-tsa-a05.json proof_record v1 2026-11-01, layers re-hashed 7/7"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  }
 }

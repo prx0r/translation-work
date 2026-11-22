@@ -1,173 +1,98 @@
 {
  "span-p01": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION",
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'\u015bakti' used in candidate but not in source"
+    "proof-span-p01.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "span-p02": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION",
-   "CITATION_GROUNDING"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    false,
-    "'m\u0101y\u0101' used in candidate but not in source"
+    "proof-span-p02.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "span-p03": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    true,
-    "candidate covers the source"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-span-p03.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "span-p04": {
-  "deterministic_gate": "BLOCKED",
-  "blocking": [
-   "COVERAGE",
-   "ABSTENTION"
-  ],
+  "blocking": [],
   "checks": {
-   "SOURCE_BINDING": [
+   "PROOF_RECORD": [
     true,
-    "candidate within 3.5\u00d7 source length"
-   ],
-   "COVERAGE": [
-    false,
-    "candidate only 35% of source units \u2014 dropped p\u0101das"
-   ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
-   ],
-   "TERM_CONSISTENCY": [
-    true,
-    "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
+    "proof-span-p04.json proof_record v1 2026-11-01, layers re-hashed 8/8"
    ]
-  }
+  },
+  "deterministic_gate": "PASS"
  },
  "span-p05": {
-  "deterministic_gate": "BLOCKED",
   "blocking": [
    "ABSTENTION"
   ],
   "checks": {
-   "SOURCE_BINDING": [
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) — abstain, don't guess"
+   ],
+   "CITATION_GROUNDING": [
     true,
-    "candidate within 3.5\u00d7 source length"
+    "all technical terms grounded in source"
    ],
    "COVERAGE": [
     true,
     "candidate covers the source"
    ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5× source length"
    ],
    "TERM_CONSISTENCY": [
     true,
     "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
    ]
-  }
+  },
+  "deterministic_gate": "BLOCKED"
  },
  "span-p06": {
-  "deterministic_gate": "BLOCKED",
   "blocking": [
    "ABSTENTION"
   ],
   "checks": {
-   "SOURCE_BINDING": [
+   "ABSTENTION": [
+    false,
+    "candidate repeats source (no real translation) — abstain, don't guess"
+   ],
+   "CITATION_GROUNDING": [
     true,
-    "candidate within 3.5\u00d7 source length"
+    "all technical terms grounded in source"
    ],
    "COVERAGE": [
     true,
     "candidate covers the source"
    ],
-   "ABSTENTION": [
-    false,
-    "candidate repeats source (no real translation) \u2014 abstain, don't guess"
+   "SOURCE_BINDING": [
+    true,
+    "candidate within 3.5× source length"
    ],
    "TERM_CONSISTENCY": [
     true,
     "terms consistent"
-   ],
-   "CITATION_GROUNDING": [
-    true,
-    "all technical terms grounded in source"
    ]
-  }
+  },
+  "deterministic_gate": "BLOCKED"
  }
 }

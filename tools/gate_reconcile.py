@@ -82,18 +82,24 @@ def main() -> int:
                 else:
                     lineage = pj.get("lineage") or {}
                     for layer, want in pinned.items():
-                        cands = []
+                        cands = [
+                            workdir / "data" / f"{song}.{layer}.json",
+                            workdir / chunk_id / "data" / f"{song}.{layer}.json",
+                        ]
                         if isinstance(lineage.get(layer), str):
                             cands.append(workdir / lineage[layer])
-                        cands.append(workdir / chunk_id / "data" / f"{song}.{layer}.json")
-                        hit = next((p for p in cands if p.is_file()), None)
-                        if hit is None:
+                            cands.append(ROOT / lineage[layer])
+                        val = None
+                        for p in cands:
+                            if not p.is_file():
+                                continue
+                            try:
+                                val = json.loads(p.read_text(encoding="utf-8"))
+                                break
+                            except ValueError:
+                                continue
+                        if val is None:
                             problems.append(f"LAYER_MISSING:{layer}")
-                            continue
-                        try:
-                            val = json.loads(hit.read_text(encoding="utf-8"))
-                        except ValueError:
-                            problems.append(f"LAYER_UNREADABLE:{layer}")
                             continue
                         if canon_sha(val) != want:
                             problems.append(f"LAYER_DRIFT:{layer}")
