@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p32-v776
-[kapāla](kapāla) [abhaya](abhaya) [hasta](hasta) [ugrā](ugrā) [vāma](vāma) [ādyā](ādyā) [nava](nava) [śaktayaḥ](śaktayaḥ)
+[skull](kapāla) [fearlessness](abhaya) [hand](hasta) [fierce](ugrā) [left](vāma) [etc](ādyā) [nine](nava) [powers](śaktayaḥ)
 
 ## mukta-m0-p32-v777
-[dvīpi](dvīpi) [carmā](carmā) [ahi](ahi) [bhṛt](bhṛt) [śānta](śānta) [tryakṣa](tryakṣa) [jaṭā](jaṭā) [indu](indu) [bhūṣita](bhūṣita)
+[two-spotted-skin](dvīpicarma) [snake-bearing](ahibhṛt) [peaceful](śānta) [three-eyed](tryakṣa) [matted-hair](jaṭā) [moon-ornamented](indubhūṣita)
 
 ## mukta-m0-p32-v778
-[aṅga](aṅga) [ṣaṭka](ṣaṭka) [samāyukta](samāyukta) [śīghraṃ](śīghraṃ) [syāt](syāt) [siddhi](siddhi) [dāyaka](dāyaka)
+[six-limbs](aṅgaṣaṭka) [endowed](samāyukta) [quickly](śīghraṃ) [becomes](syāt) [accomplishment-giving](siddhidāyaka)
 
 ## mukta-m0-p32-v779
-[yuva](yuva) [yauvana](yauvana) [vṛddha](vṛddha) [strī](strī) [bāla](bāla) [ābha](ābha) [pañca](pañca) [vaktra](vaktra) [bhṛt](bhṛt)
+[youth](yuvayauvana) [old](vṛddha) [woman](strī) [child](bāla) [form](ābha) [five-faced](pañcavaktra) [bearing](bhṛt)
 
 ## mukta-m0-p32-v780
-[vāmena](vāmena) [bhaya](bhaya) [mantra](mantra) [aṅka](aṅka) [kapāla](kapāla) [utpala](utpala) [pūra](pūra) [bhṛt](bhṛt)
+[left](vāmena) [fear](bhaya) [mantra-marked](mantrāṅka) [skull](kapāla) [lotus](utpala) [full](pūra) [bearing](bhṛt)
 
 ## mukta-m0-p32-v781
-[dṛg](dṛg) [rakta](rakta) [asi](asi) [hutāśa](hutāśa) [ābhāḥ](ābhāḥ) [sarve](sarve) [tryakṣāḥ](tryakṣāḥ) [jaṭā](jaṭā) [anvitāḥ](anvitāḥ)
+[eye-red](dṛgrakta) [sword](asi) [fire-like](hutāśābhā) [all](sarve) [three-eyed](tryakṣā) [matted-haired](jaṭānvitā)
 
 ## mukta-m0-p32-v782
-[babhrū](babhrū) [bhrū](bhrū) [śmaśru](śmaśru) [ddā](ddā) [bhīma](bhīma) [mastraṃ](mastraṃ) [pītaṃ](pītaṃ) [svaśastra](svaśastra) [bhṛt](bhṛt)
+[brown-browed](babhrubhrū) [bearded](śmaśru) [fierce](bhīma) [weapon](astra) [yellow](pīta) [own-weapon](svaśastra) [bearing](bhṛt)
 
 ## mukta-m0-p32-v783
-[śakti](śakti) [vajra](vajra) [akṣa](akṣa) [mālā](mālā) [si](si) [cakrāṇi](cakrāṇi) [dakṣiṇe](dakṣiṇe) [kvacit](kvacit)
+[power](śakti) [thunderbolt](vajra) [rosary](akṣamālā) [noose](pāśa) [disc](cakra) [right](dakṣiṇe) [sometimes](kvacit)
 
 ## mukta-m0-p32-v784
-[ekāsya](ekāsya) [pañcavaktra](pañcavaktra) [vā](vā) [tryakṣa](tryakṣa) [jaṭā](jaṭā) [indu](indu) [bhṛt](bhṛt) [śiva](śiva)
+[one-faced](ekāsya) [five-faced](pañcavaktra) [or](vā) [three-eyed](tryakṣa) [matted-hair](jaṭā) [moon-bearing](indubhṛt) [śiva](śiva)
 
 ## mukta-m0-p32-v785
-[koṇeṣu](koṇeṣu) [ca](ca) [eka](eka) [rudra](rudra) [ādyāḥ](ādyāḥ) [sita](sita) [asaṅ](asaṅ) [nīla](nīla) [lohita](lohita)
+[corners](koṇeṣu) [also](ca) [one](eka) [rudra-etc](rudrādyā) [white-yellow-blue-red](sitāsaṅnīlalohitā)
 
 ## mukta-m0-p32-v786
-[śiva](śiva) [āyudha](āyudha) [dhara](dhara) [tryakṣāḥ](tryakṣāḥ) [sṛṇi](sṛṇi) [asi](asi) [bhyāṃ](bhyāṃ) [vinā](vinā) [kvacit](kvacit)
+[śiva-weapon-bearing](śivāyudhadhara) [three-eyed](tryakṣā) [hook-sword](sṛṇyasibhyāṃ) [without](vinā) [sometimes](kvacit)
 
 ## mukta-m0-p32-v787
-[puṭa](puṭa) [añjali](añjali) [karāḥ](karāḥ) [sarve](sarve) [vidyeśāḥ](vidyeśāḥ) [ca](ca) [eka](eka) [vaktraka](vaktraka)
+[cupped-hands](puṭāñjali) [all](sarve) [vidyeśa](vidyeśa) [one-faced](ekavaktraka)
 
 ## mukta-m0-p32-v788
-[varā](varā) [abhaya](abhaya) [kapāla](kapāla) [abja](abja) [jaṭā](jaṭā) [indu](indu) [ajina](ajina) [nāga](nāga) [bhṛt](bhṛt)
+[boon-fear-skull-lotus](varābhayakapālābja) [matted-hair](jaṭā) [moon](indu) [jinā](jinā) [serpent](nāga) [bearing](bhṛt)
 
 ## mukta-m0-p32-v789
-[dakṣiṇe](dakṣiṇe) [śūla](śūla) [nistriśa](nistriśa) [kuṭhāra](kuṭhāra) [abhaya](abhaya) [dhāraka](dhāraka)
+[right](dakṣiṇe) [trident](śūla) [sword](nistriśa) [axe](kuṭhāra) [fearlessness](abhaya) [bearing](dhāraka)
 
 ## mukta-m0-p32-v790
-[muṇḍa](muṇḍa) [mālī](mālī) [śava](śava) [ārūḍha](ārūḍha) [dvaita](dvaita) [advaita](advaita) [krama](krama) [mata](mata)
+[garland-of-skulls](muṇḍamālī) [corpse-mounted](śavārūḍha) [dual-to-nondual](dvaitādvaite) [in-order](kramāt) [accepted](mata)
 
 ## mukta-m0-p32-v791
-[saumya](saumya) [prahasita](prahasita) [āsyaṃ](āsyaṃ) [ca](ca) [candra](candra) [mauli](mauli) [jaṭā](jaṭā) [dharam](dharam)
+[gentle](saumya) [smiling-faced](prahasitāsya) [moon-crested](candramauli) [matted-haired](jaṭādhara)
 
 ## mukta-m0-p32-v792
-[nāga](nāga) [indra](indra) [mekhalā](mekhalā) [yuktaṃ](yuktaṃ) [sarva](sarva) [ābharaṇa](ābharaṇa) [bhūṣitam](bhūṣitam)
+[serpent-girdle](nāgendra) [endowed](mekhalāyukta) [all-ornaments](sarvābharaṇa) [adorned](bhūṣita)
 
 ## mukta-m0-p32-v793
-[nṛtyantaṃ](nṛtyantaṃ) [mahā](mahā) [hṛṣṭa](hṛṣṭa) [āyudha](āyudha) [ākula](ākula) [pāṇinam](pāṇinam)
+[dancing](nṛtyanta) [greatly-delighted](mahāhṛṣṭa) [weapon-filled](āyudhākula) [handed](pāṇinam)
 
 ## mukta-m0-p32-v794
-[bala](bala) [nākāra](nākāra) [kaṃ](kaṃ) [bāhum](bāhum) [ekaṃ](ekaṃ) [kṛtvā](kṛtvā) [hṛdi](hṛdi) [sthitam](sthitam)
+[strength-arm-form](balanākāraka) [arm](bāhu) [one](ekaṃ) [making](kṛtvā) [in-heart](hṛdi) [placed](sthitam)
 
 ## mukta-m0-p32-v795
-[vāme](vāme) [pratānita](pratānita) [bhujam](bhujam) [samyak](samyak) [kṛtvā](kṛtvā) [suśobhanam](suśobhanam)
+[left](vāme) [extended-arm](pratānitabhuja) [properly](samyak) [making](kṛtvā) [well-beautiful](suśobhanam)
 
 ## mukta-m0-p32-v796
-[sarva](sarva) [śānti](śānti) [karaṃ](karaṃ) [kuryāt](kuryāt) [ityevaṃ](ityevaṃ) [saumya](saumya) [rūpakaṃ](rūpakaṃ)
+[all-peace-causing](sarvaśāntikara) [should-make](kuryāt) [thus](ityevaṃ) [gentle-form](saumyarūpaka)
 
 ## mukta-m0-p32-v797
-[skanda](skanda) [nandi](nandi) [mahākāla](mahākāla) [gaṇeśa](gaṇeśa) [gaṇa](gaṇa) [saṃyutam](saṃyutam)
+[skanda-nandi-mahākāla-gaṇeśa-gaṇa-accompanied](skandanandimahākālagaṇeśagaṇasaṃyuta)
 
 ## mukta-m0-p32-v798
-[sānandaiḥ](sānandaiḥ) [rūpa](rūpa) [sampannaiḥ](sampannaiḥ) [vīkṣyamāṇaṃ](vīkṣyamāṇaṃ) [maheśvaram](maheśvaram)
+[with-joy](sānandai) [form-endowed](rūpasampannai) [being-viewed](vīkṣyamāṇa) [great-lord](maheśvara)
 
 ## mukta-m0-p32-v799
-[tadagre](tadagre) [ca](ca) [pranṛtyaṃśca](pranṛtyaṃśca) [bhṛṅgī](bhṛṅgī) [kāryaṃ](kāryaṃ) [kṛśa](kṛśa) [bhṛśa](bhṛśa)
+[before-that](tadagre) [dancing](pranṛtyaṃśca) [bhṛṅgī](bhṛṅgī) [work](kāryaṃ) [thin](kṛśa) [very](bhṛśa)
 
 ## mukta-m0-p32-v800
-[vikṛtāḥ](vikṛtāḥ) [tīkṣṇa](tīkṣṇa) [nāsāḥ](nāsāḥ) [ca](ca) [aurāgni](aurāgni) [ādi](ādi) [pradāḥ](pradāḥ) [kramāt](kramāt)
+[distorted](vikṛtā) [sharp-nosed](tīkṣṇanāsā) [thief-fire-etc-giving](caurāgnyādipradā) [in-order](kramāt)
