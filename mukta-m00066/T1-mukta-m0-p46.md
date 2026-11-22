@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause+coloring+causes](heturaṃjanahetavaḥ)
+[vīreṇa](vīreṇa) [tāsu](tāsu) [karttavyaḥ](karttavyaḥ) [hetuḥ](hetuḥ) [raṃjana-hetavaḥ](raṃjanahetavaḥ)
 
 ## mukta-m0-p46-v1127
-[by-teaching](ācāryamāṇair) [whose-women](yastrīṇāṃ) [no-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
+[ācāryamāṇaiḥ](ācāryamāṇaiḥ) [yaḥ](yaḥ) [strīṇām](strīṇām) [ananya-śaraṇam](ananyaśaraṇam) [manaḥ](manaḥ)
 
 ## mukta-m0-p46-v1128
-[in-slips](skhalaneṣu) [patience](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
+[skhalaneṣu](skhalaneṣu) [titikṣā](titikṣā) [ca](ca) [doṣasya](doṣasya) [punar-īkṣaṇam](punarīkṣaṇam)
 
 ## mukta-m0-p46-v1129
-[policy-of-punishment](daṇḍanītir) [not](nna) [but](tu) [in-women](strīṣu) [to-cause-fall](prapātayitu) [deserves](marhati)
+[daṇḍanītiḥ](daṇḍanītiḥ) [na](na) [tu](tu) [strīṣu](strīṣu) [prapātayitum](prapātayitum) [arhati](arhati)
 
 ## mukta-m0-p46-v1130
-[behold-boldness](paśyasāhasametāsāṃ) [gone-to-heaven](svargate) [own-husband](nijabharttari)
+[paśya](paśya) [sāhasam](sāhasam) [etāsām](etāsām) [svargate](svargate) [nija-bharttari](nijabharttari)
 
 ## mukta-m0-p46-v1131
-[by-grief-beating-harshness](khedatāḍanapāruṣyair) [release-indeed](muṃcantyeva) [own-life](svajīvitam)
+[kheda-tāḍana-pāruṣyaiḥ](khedatāḍanapāruṣyaiḥ) [muṃcanti](muṃcanti) [eva](eva) [sva-jīvitam](svajīvitam)
 
 ## mukta-m0-p46-v1132
-[therefore-gentleness](ataścamārdavaṃ) [in-them](tāsu) [first](prathamaṃ) [mind-coloring](cittaraṃjanam)
+[ataḥ](ataḥ) [ca](ca) [mārdavam](mārdavam) [tāsu](tāsu) [prathamam](prathamam) [citta-raṃjanam](cittaraṃjanam)
 
 ## mukta-m0-p46-v1133
-[extreme-growth](atyaṃtamabhivṛddhiṃ) [and](ca) [leading](nayaccet) [in-them](tāsu) [accomplisher](sādhakaḥ)
+[atyaṃtam](atyaṃtam) [abhivṛddhim](abhivṛddhim) [ca](ca) [nayet](nayet) [cet](cet) [tāsu](tāsu) [sādhakaḥ](sādhakaḥ)
 
 ## mukta-m0-p46-v1134
-[middle](madhyamena) [manner](prakāreṇa) [sight](darśanaṃ) [instructed](pradiśid) [wise](budhaḥ)
+[madhyamena](madhyamena) [prakāreṇa](prakāreṇa) [darśanam](darśanam) [pradiśet](pradiśet) [budhaḥ](budhaḥ)
 
 ## mukta-m0-p46-v1135
-[attached](raktaḥ) [to-other-becoming](parebhavaṃ) [goes](yāti) [despised](paribhūtaḥ) [how](kathaṃ) [dear](priye)
+[raktaḥ](raktaḥ) [parebhavam](parebhavam) [yāti](yāti) [paribhūtaḥ](paribhūtaḥ) [katham](katham) [priye](priye)
 
 ## mukta-m0-p46-v1136
-[in-bull-like](vṛṣasyaṃtīṣu) [in-them](tāsu) [mother](amba) [not](na) [indeed](vai) [chief](mukhyaṃ) [and](ca) [make-roam](cārayet)
+[vṛṣasyantīṣu](vṛṣasyantīṣu) [tāsu](tāsu) [amba](amba) [na](na) [vai](vai) [mukhyam](mukhyam) [ca](ca) [cārayet](cārayet)
 
 ## mukta-m0-p46-v1137
-[morsels](grāsān) [also](api) [and](ca) [clothes](vāsāṃsi) [as](yathā) [ability](śakti) [offer](nivedayet)
+[grāsān](grāsān) [api](api) [ca](ca) [vāsāṃsi](vāsāṃsi) [yathā](yathā) [śakti](śakti) [nivedayet](nivedayet)
 
 ## mukta-m0-p46-v1138
-[therefore](tasmād) [hero-people-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛti) [auspicious](śive)
+[tasmāt](tasmāt) [vīra-janādhīnā](vīrajanādhīnā) [dūtikā](dūtikā) [prakṛtiḥ](prakṛtiḥ) [śive](śive)
 
 ## mukta-m0-p46-v1139
-[of-couple](daṃpatyor) [union](ghaṭanaṃ) [say](brūyat) [human-aim-single-cause](puruṣārthaikakāraṇam)
+[daṃpatyoḥ](daṃpatyoḥ) [ghaṭanam](ghaṭanam) [brūyat](brūyat) [puruṣārtha-eka-kāraṇam](puruṣārthaikakāraṇam)
 
 ## mukta-m0-p46-v1140
-[mutual-affection](anyonyamanurāgeṇa) [great-happiness](mahatsaukhyaṃ) [is-born](prajāyate)
+[anyonya-manurāgeṇa](anyonyamanurāgeṇa) [mahat](mahat) [saukhyaṃ](saukhyaṃ) [prajāyate](prajāyate)
 
 ## mukta-m0-p46-v1141
-[therefore](tasmāt) [for-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [reveal](prakāśayet)
+[tasmāt](tasmāt) [tadānukūlyāya](tadānukūlyāya) [svānukūlyaṃ](svānukūlyaṃ) [prakāśayet](prakāśayet)
 
 ## mukta-m0-p46-v1142
-[by-embrace-pretext](āliṃganacchalena) [indeed](eva) [pleasure](sukhaṃ) [massaging](saṃvāhanaṃ) [practice](caret)
+[āliṃgana-chalena](āliṃganacchalena) [eva](eva) [sukham](sukham) [saṃvāhanam](saṃvāhanam) [caret](caret)
 
 ## mukta-m0-p46-v1143
-[taking-anoint](ādāyalimpec) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-goer](nānyagā) [becomes](bhavet)
+[ādāya](ādāya) [limpet](limpet) [caraṇe](caraṇe) [dūtyāḥ](dūtyāḥ) [sā](sā) [na](na) [anya-gā](anyagā) [bhavet](bhavet)
 
 ## mukta-m0-p46-v1144
-[disgusted](jugupsamāno) [not](na) [becomes](bhaved) [detachment](vairāgyaṃ) [by-that](tena) [arises](jāyate)
+[jugupsamānaḥ](jugupsamānaḥ) [na](na) [bhavet](bhavet) [vairāgyam](vairāgyam) [tena](tena) [jāyate](jāyate)
 
 ## mukta-m0-p46-v1145
-[in-true-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [and](ca) [step](pade) [step](pade)
+[satilokeṣu](satilokeṣu) [saṃcāram](saṃcāram) [utsavam](utsavam) [ca](ca) [pade](pade) [pade](pade)
 
 ## mukta-m0-p46-v1146
-[various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
+[vividaiḥ](vividaiḥ) [sarasaiḥ](sarasaiḥ) [pakvaiḥ](pakvaiḥ) [phalaiḥ](phalaiḥ) [puṣpaiḥ](puṣpaiḥ) [sugaṃdhibhiḥ](sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-[with-unctions](udvarttanaiḥ) [betel](catāṃbūlaiḥ) [collyrium](aṃjanaiḥ) [mouth-perfumes](mukhavāsitaiḥ)
+[udvarttanaiḥ](udvarttanaiḥ) [ca](ca) [tāṃbūlaiḥ](tāṃbūlaiḥ) [aṃjanaiḥ](aṃjanaiḥ) [mukha-vāsitaiḥ](mukhavāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-[color](raṃjayed) [beloved](ramaṇīṃ) [wise](dhīmān) [with-enjoyments](bhogair) [bright](dīptaiḥ) [and](ca) [Pārvatī](pārvati)
+[raṃjayet](raṃjayet) [ramaṇīm](ramaṇīm) [dhīmān](dhīmān) [bhogaiḥ](bhogaiḥ) [dīptaiḥ](dīptaiḥ) [ca](ca) [pārvati](pārvati)
 
 ## mukta-m0-p46-v1149
-[so-long-pleased](tāvaddhiramanā) [indeed](eva) [enjoyment-differences](bhogabhedā) [but](tu) [practice](pācaret)
+[tāvat](tāvat) [hiramanā](hiramanā) [eva](eva) [bhoga-bhedāḥ](bhogabhedāḥ) [tu](tu) [pācaret](pācaret)
 
 ## mukta-m0-p46-v1150
-[by-praise](ślāghayā) [arises](jāyate) [that](tac) [and](ca) [proud-fruitless-women](sadarpāviphalāstriyaḥ)
+[ślāghayā](ślāghayā) [jāyate](jāyate) [tat](tat) [ca](ca) [sa-darpāḥ](sadarpāḥ) [aviphalāḥ](aviphalāḥ) [striyaḥ](striyaḥ)
