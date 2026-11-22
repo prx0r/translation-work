@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-skull-bowl [skull-bowl] skull-garland and snake-hood sword-roar
+skull [karoṭaṃ] garland-of-skulls [muṇḍamālaṃ] and [ca] kaṅkoṭa [kaṅkoṭaṃ] sword-roar [khaḍgarāvaṇam]
+
 ## mukta-m0-p11-v252
-terrible-laugh-remnant growling evil-frightening
+terrifying-leftover-of-loud-laugh [ghorāṭṭahāsamucchiṣṭaṃ] growling [ghurghuraṃ] evil-frightening [duṣṭatrāsakam]
+
 ## mukta-m0-p11-v253
-yama-bell and bhuta-summoning poison-difference unborn-born
+yama-bell [yamaghaṇṭaṃ] and [ca] bhuta-summoning [bhūtāhvaṃ] poison-difference-unborn-born [viṣabhedamajātajam]
+
 ## mukta-m0-p11-v254
-again-lakh-division broken scripture-collection
+again-lakh-division [punarlakṣavibhedana] broken [grabhinnaḥ] scripture-collection [śāstrasaṅgrahaḥ]
+
 ## mukta-m0-p11-v255
-from-sages humans disciples all-scripture-descenders
+from-sages [ṛṣibhyo] humans [mānuṣāḥ] disciples [śiṣyāḥ] all-scripture-descenders [sarvaśāstrāvatārakāḥ]
+
 ## mukta-m0-p11-v256
-thus conventional spoken shiva-naga-five
+thus [iti] conventional [sāmayikaṃ] declared [proktaṃ] shambhu-naga-five [śambhunāgamapañcakam]
+
 ## mukta-m0-p11-v257
-single-bowl-food in-terrible left left-nectar likewise
+single-place-eating [ekatrabhojanaṃ] in-terrible [ghore] in-left [vāme] left-nectar [vāmāmṛtaṃ] and [tathā]
+
 ## mukta-m0-p11-v258
-should-practice vows five who that teacher called
+should-practice [ācaret] vows [samayān] five [pañca] who [yaḥ] he [sa] teacher [ācārya] is-called [ucyate]
+
 ## mukta-m0-p11-v259
-that-necessary indeed to-be-done otherwise fall becomes
+that-necessarily [tadavaśyaṃ] indeed [hi] must-be-done [kartavyam] otherwise [anyathā] fall [patanaṃ] would-be [bhavet]
+
 ## mukta-m0-p11-v260
-six-rites indeed to-be-done by-shiva-teacher not by-others
+six-acts [ṣaṭkarmāṇi] but [tu] to-be-done [kāryāṇi] by-shiva-teacher [śivācāryeṇa] not [no] by-others [paraiḥ]
+
 ## mukta-m0-p11-v261
-initiation and installation etc six-rites always of-teacher
+initiation [dīkṣāṃ] and [ca] installation [sthāpanaṃ] and-so [ceti] six-acts [ṣaṭkarmāṇi] always [sadā] of-guru [guroḥ]
+
 ## mukta-m0-p11-v262
-krosas five abandoning by-teacher-command then-practice
+krosas [krośān] five [pañca] abandoning [parityajya] by-guru-command [gurvādeśāt] then-practice [tadācaret]
+
 ## mukta-m0-p11-v263
-practitioner accomplishes-accomplishment teacher initiates-beasts
+practitioner [sādhakaḥ] should-accomplish [sādhayet] siddhi [siddhiḥ] teacher [ācāryaḥ] should-initiate [dīkṣayet] beasts [paśūn]
+
 ## mukta-m0-p11-v264
-installation-etc-rite of-him not from-recitation-first birth
+installation-etc-rite [pratiṣṭhādikriyā] of-him [tasya] not [na] from-recitation-first [pāṭhādagra] birth [janmanaḥ]
+
 ## mukta-m0-p11-v265
-method indicated some which spoken in-parameshvara
+method [yuktiḥ] is-indicated [saṃsūcyate] some [kācid] which [yā] is-said [coktā] in-parameshvara [pārameśvare]
+
 ## mukta-m0-p11-v266
-not-in-stone-first shiva-ness there in-ray far shiva
+not-in-stone-first [nāśmādau] shiva-ness [śivatā] there [tatra] indeed [hi] in-ray [āṃśave] far [dūrataḥ] shiva [śivaḥ]
+
 ## mukta-m0-p11-v267
-chandala that inedible-food sinner no doubt here
+outcaste [cāṇḍālaḥ] that [asau] inedible-food [abhojyānnaḥ] sinner [pātakī] no [na] here [atra] doubt [saṃśayaḥ]
+
 ## mukta-m0-p11-v268
-other-gotra kusha fall hell-dweller becomes twice-born-lowest
+other-gotra [anyagotre] kusha [kuśā] falling [pātāt] hell-dweller [nārakī] would-be [syāt] twice-born-lowest [dvijādhamaḥ]
+
 ## mukta-m0-p11-v269
-page-34 linga-etc-installers those chandala-equal twice-born
+linga-etc-installers [liṅgādisthāpakāḥ] who [ye] and [ca] they [te] outcaste-equal [cāṇḍālasamāḥ] twice-born [dvijāḥ]
+
 ## mukta-m0-p11-v270
-to-be-considered brahmin-like shudra shudra-than more-sinful indeed he
+to-be-considered [mantavyaḥ] brahmin-like [vipravat] shudra [śūdraḥ] than-shudra-more-sinful [śūdrātpāpataraḥ] but [tu] he [saḥ]
+
 ## mukta-m0-p11-v271
-from-conduct accomplished vasishtha-etc by-vyasa spoken in-bharata
+from-conduct [vṛttāt] siddhas [siddhāḥ] vasistha-etc [vasiṣṭhādyāḥ] by-vyasa-said [vyāsenoktaṃ] and [ca] in-bharata [bhārate]
+
 ## mukta-m0-p11-v272
-in-hell falls quickly doer with-own-ancestors
+into-hell [narake] falls [patati] quickly [kṣipraṃ] doer [kartā] with-own-ancestors [svapitṛbhiḥ] with [saha]
+
 ## mukta-m0-p11-v273
-own-brahminhood gone their brahmin-slaying and established
+own-brahminhood [svabrāhmaṇyaṃ] gone [gataṃ] of-them [teṣāṃ] brahmin-killing [brahmahatyāṃ] and [ca] established [saṃsthitam]
+
 ## mukta-m0-p11-v274
-those cruel destroyers known sacrifice-decay-causing
+they [te] cruel [krūrāḥ] destroyers [dhvaṃsakāḥ] to-be-known [jñeyāḥ] sacrifice-destruction-bringing [yajamānakṣayāvahāḥ]
+
 ## mukta-m0-p11-v275
-gift-worship-etc unworthy becomes destroyed brahmin-woman like-returning
+gift-worship-etc-unworthy [dānārcanādyanarhaḥ] would-be [syāt] destroyed [vinaṣṭā] brahmin-woman [brāhmaṇī] as [yathā]

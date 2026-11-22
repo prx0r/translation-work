@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[destroyed-by-renunciation](prāvrājyānnaśyate) [first](pūrvaṃ) [by-union-with-woman](strīyogādaparaṃ) [thus](tathā)
+[prāvrājyāt](from-renunciation) [naśyate](is-destroyed) [pūrvam](first) [strīyogāt](from-woman-union) [aparam](afterwards) [tathā](thus)
 
 ## mukta-m0-p10-v227
-[three-eared-born](trikarṇotthāstrikarṇāśca) [three-skulled-self](trikapānātma) [ear-born](karṇakā)
+[trikarṇotthāḥ](three-ear-born) [trikarṇāḥ](three-eared) [ca](and) [trikapānātma](three-skull-self) [karṇakā](ear-ones)
 
 ## mukta-m0-p10-v228
-[ash-sprout](bhasmāṅkurastu) [boaster-lipped](katthosthastatsutāḥ) [kauśika-etc](kauśikādayaḥ)
+[bhasmāṅkuraḥ](ash-sprout) [tu](but) [katthaḥ](boastful-one) [osthaḥ](lip) [tat](that) [sutāḥ](sons) [kauśikādayaḥ](kauśika-and-others)
 
 ## mukta-m0-p10-v229
-[destroyers-of-realm](rāṣṭrakṣayakarā) [these](hyete) [heretics](ye) [ca](ca) [paṣāṇḍino](paṣāṇḍino) [men](narāḥ)
+[rāṣṭrakṣayakarāḥ](kingdom-destroying) [hi](indeed) [ete](these) [ye](who) [ca](and) [paṣāṇḍinaḥ](heretics) [narāḥ](men)
 
 ## mukta-m0-p10-v230
-[by-scripture-inspection](śāstrāvalokanādeva) [caṇḍeśa](caṇḍeśastasya) [ruler](śāsakaḥ)
+[śāstrāvalokanāt](from-scripture-seeing) [eva](only) [caṇḍeśaḥ](caṇḍeśa) [tasya](his) [śāsakaḥ](ruler)
 
 ## mukta-m0-p10-v231
-[he-goes](sa) [to-hell](yāti) [immediately](narakaṃ) [sadyo](sadyo) [with-sacrificers](yājñikaiḥ) [with-teacher](saha) [daiśikaḥ](daiśikaḥ)
+[sa](he) [yāti](goes) [narakaṃ](hell) [sadyaḥ](immediately) [yājñikaiḥ](with-sacrificers) [saha](with) [daiśikaḥ](teacher)
 
 ## mukta-m0-p10-v232
-[by-their-conduct](teṣāmācaraṇānnityamācārya) [iti](iti) [is-called](kīrtyate)
+[teṣām](their) [ācaraṇāt](from-conduct) [nityam](always) [ācāryaḥ](teacher) [iti](thus) [kīrtyate](is-praised)
 
 ## mukta-m0-p10-v233
-[therefore](tasmānna) [human](mānavīṃ) [intellect](buddhiṃ) [should-not-make](kārayeddaiśikaṃ) [towards-teacher](prati)
+[tasmāt](therefore) [na](not) [mānavīm](human) [buddhim](mind) [kārayet](should-make) [daiśikaṃ](teacher) [prati](towards)
 
 ## mukta-m0-p10-v234
-[five-faces](pañcavaktrāṇi) [of-god](devasya) [for-growth-of-five-āgamas](pañcāgamavivṛddhaye)
+[pañcavaktrāṇi](five-faces) [devasya](of-god) [pañcāgama](five-āgama) [vivṛddhaye](for-growth)
 
 ## mukta-m0-p10-v235
-[blazing](dīptaṃ) [subtle](sūkṣmaṃ) [terrible](ca) [sāhasramaṃśuma](sāhasramaṃśuma) [suprabha](tsuprabhaṃ) [ten](daśa)
+[dīptaṃ](blazing) [sūkṣmaṃ](subtle) [ca](and) [sāhasram](thousand) [aṃśuma](ray) [suprabhaṃ](well-shining) [daśa](ten)
 
 ## mukta-m0-p10-v236
-[victory](vijayaṃ) [supreme-lordship](pāramaiśvaryaṃ) [niśvāsa-udgīta-named](niśvāsodgītasaṃjñakam)
+[vijayaṃ](victory) [pāramaiśvaryaṃ](supreme-lordship) [niśvāsa](breath) [udgīta](song) [saṃjñakam](named)
 
 ## mukta-m0-p10-v237
-[narasiṃha](narasiṃhaṃ) [candrahāsa](candrahāsaṃ) [vīra](vīraṃ) [svāyambhu](svāyambhurauravam)
+[narasiṃhaṃ](narasiṃha) [candrahāsaṃ](moon-smile) [vīraṃ](hero) [svāyambhu](self-born) [rauravaṃ](raurava)
 
 ## mukta-m0-p10-v238
-[rudra-divisions](rudrabhedāḥ) [declared](samākhyātā) [eighteen-upward](daśāṣṭādaśa) [cordhvagāḥ](cordhvagāḥ)
+[rudrabhedāḥ](rudra-types) [samākhyātāḥ](declared) [daśa](ten) [aṣṭādaśa](eighteen) [ca](and) [ūrdhvagāḥ](upward-going)
 
 ## mukta-m0-p10-v239
-[five-elements](pañcabhūta) [division](vibhāgaṃ) [ca](ca) [void-division](śūnyabheda) [determination](vinirṇayam)
+[pañcabhūta](five-elements) [vibhāgaṃ](division) [ca](and) [śūnyabheda](void-difference) [vinirṇayam](determination)
 
 ## mukta-m0-p10-v240
-[kamboja](kambojaṃ) [kambala](kambalaṃ) [kaṅka](kaṅkaṃ) [kālakuṇḍa](kālakuṇḍaṃ) [kaṭāhaka](kaṭāhakam)
+[kambojaṃ](kamboja) [kambalaṃ](kambala) [kaṅkaṃ](kaṅka) [kālakuṇḍaṃ](kālakuṇḍa) [kaṭāhakam](kaṭāhaka)
 
 ## mukta-m0-p10-v241
-[of-gāruḍa](gāruḍasya) [these](tvime) [divisions](bhedā) [twenty-eight](aṣṭāviṃśatirīritāḥ)
+[gāruḍasya](of-garuḍa) [tu](but) [ime](these) [bhedāḥ](types) [aṣṭāviṃśatiḥ](twenty-eight) [īritāḥ](declared)
 
 ## mukta-m0-p10-v242
-[asitāṅga](asitāṅgaṃ) [ruru](ruruṃ) [caiva](caiva) [kapālīśa](kapālīśaṃ) [samuccaya](samuccayam)
+[asitāṅgaṃ](asitāṅga) [ruruṃ](ruru) [ca](and) [eva](indeed) [kapālīśaṃ](kapālīśa) [samuccayam](collection)
 
 ## mukta-m0-p10-v243
-[bhīmāṅga](bhīmāṅgaṃ) [ḍāmarārāva](ḍāmarārāvaṃ) [bhīma](bhīmaṃ) [vetālamardaka](vetālamardakam)
+[bhīmāṅgaṃ](bhīmāṅga) [ḍāmarārāvaṃ](ḍāmarārāva) [bhīmaṃ](bhīma) [vetālamardakam](vetāla-crusher)
 
 ## mukta-m0-p10-v244
-[triśira](triśiraṃ) [caikapāda](caikapādaṃ) [tu](tu) [siddhayogeśvarīmatam](siddhayogeśvarīmatam)
+[triśiraṃ](three-headed) [ca](and) [ekapādaṃ](one-footed) [tu](but) [siddhayogeśvarīmatam](siddhayogeśvarī-opinion)
 
 ## mukta-m0-p10-v245
-[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkoca](saṅkocaṃ) [tilakodyāna-bhairava](tilakodyānabhairavam)
+[viśvarikaṇṭha](viśvarikaṇṭha) [saṅkocaṃ](contraction) [tilakodyāna](tilaka-garden) [bhairavam](bhairava)
 
 ## mukta-m0-p10-v246
-[sixty-four](catuḥ) [ṣaṣṭipramāṇāni](ṣaṣṭipramāṇāni) [dakṣiṇāsya-born](dakṣiṇāsyādbhavāni) [ca](ca)
+[catuḥ](four) [ṣaṣṭi](sixty) [pramāṇāni](measures) [dakṣiṇāsya](right-face) [dbhavāni](born) [ca](and)
 
 ## mukta-m0-p10-v247
-[karapūjā-vidhāna](karapūjāvidhānaṃ) [tu](tu) [vīṇātantra](vīṇātantraṃ) [taduttaram](taduttaram)
+[karapūjā](hand-worship) [vidhānaṃ](rule) [tu](but) [vīṇātantraṃ](vīṇā-tantra) [tat](that) [uttaram](following)
 
 ## mukta-m0-p10-v248
-[siddhanityodaya](siddhanityodayaṃ) [jyeṣṭha](jyeṣṭhaṃ) [cintāmaṇi-mahodaya](cintāmaṇimahodayam)
+[siddhanityodayaṃ](siddha-eternal-rise) [jyeṣṭhaṃ](eldest) [cintāmaṇi](cintāmaṇi) [mahodayam](great-rise)
 
 ## mukta-m0-p10-v249
-[ānandarudra-bhadra-named](ānandarudrabhadrākhyaṃ) [kiṅkara](kiṅkaraṃ) [kiṅkarānuga](kiṅkarānugam)
+[ānandarudra](ānanda-rudra) [bhadrākhyaṃ](named-bhadra) [kiṅkaraṃ](servant) [kiṅkarānugam](servant-follower)
 
 ## mukta-m0-p10-v250
-[vāmada](vāmadaṃ) [vāmadeva-spoken](vāmadevoktaṃ) [twenty-four-division-born](caturviṃśatibhedagam)
+[vāmadaṃ](left-giving) [vāmadevoktaṃ](spoken-by-vāmadeva) [caturviṃśati](twenty-four) [bhedagam](type-going)
