@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[śiva-umā-mantra-yogena](śivomāmantrayogena) [sandhānam](sandhānaṃ) [bhūti-kāṅkṣiṇām](bhūtikāṅkṣiṇām) [bhūti-kāṅkṣiṇām](bhūtikāṅkṣiṇām)
+[śiva-umā-mantra-yoga+instrumental](śivomāmantrayogena) [union](sandhānaṃ) [of-those-desiring-prosperity](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-[mūrti-ādi-aṅka-avasānam](mūrtyādyaṅkāvasānaṃ) [tu](tu) [punar-evam](punarevaṃ) [tu](tu) [vinyaset](vinyaset)
+[form+etc+ending](mūrtyādyaṅkāvasānaṃ) [but](tu) [again](punarevaṃ) [thus](tu) [one-should-place](vinyaset)
 
 ## mukta-m0-p76-v1878
-[tataḥ](tataḥ) [tataḥ](tataḥ) [tataḥ](tataḥ) [tataḥ](tataḥ)
+[then](tataḥ)
 
 ## mukta-m0-p76-v1879
-[rudra-ādīnām](rudrādīnāṃ) [tu](tu) [sarveṣām](sarveṣāṃ) [sthāpanam](sthāpanaṃ) [tattvataḥ](tathvataḥ) [kramāt](kramāt)
+[of-rudra+etc+all](rudrādīnāṃ) [but](tu) [of-all](sarveṣāṃ) [establishment](sthāpanaṃ) [thus](tathvataḥ) [in-order](kramāt)
 
 ## mukta-m0-p76-v1880
-[ātma-vidyāḥ](ātmavidyāḥ) [śivam](śivaṃ) [ca-eva](caiva) [bhāvayet](bhāvayed) [anupūrvataḥ](anupūrvataḥ)
+[ātma-vidyās](ātmavidyāḥ) [śiva](śivaṃ) [and](ca) [indeed](eva) [one-should-contemplate](bhāvayedanupūrvataḥ)
 
 ## mukta-m0-p76-v1881
-[vyavasthitāḥ](vyavasthitāḥ) [vyavasthitāḥ](vyavasthitāḥ) [vyavasthitāḥ](vyavasthitāḥ) [vyavasthitāḥ](vyavasthitāḥ)
+[established](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-[vidyā-tattve](vidyātattve) [sthitāḥ](sthitā) [hi-ete](hyete) [sa-adhikāre](sādhikāre) [viduḥ-budhāḥ](vidurbudhāḥ)
+[in-vidyā-tattva](vidyātattve) [situated](sthitā) [indeed-these](hyete) [with-authority](sādhikāre) [know-the-wise](vidurbudhāḥ)
 
 ## mukta-m0-p76-v1883
-[tri-tattva-vyāptiḥ](tritattvavyāptir) [ākhyātā](ākhyātā) [panthānaḥ](panthānaḥ) [ṣaḍ-vidhāḥ-tu-iha](ṣaḍvidhāstviha)
+[three-tattva-pervasion](tritattvavyāptirākhyātā) [paths](panthānaḥ) [sixfold](ṣaḍvidhāstviha)
 
 ## mukta-m0-p76-v1884
-[kramāt](kramāt) [kramāt](kramāt) [kramāt](kramāt) [kramāt](kramāt)
+[in-order](kramāt)
 
 ## mukta-m0-p76-v1885
-[triṃśat-pañca-adhikam](triṃśatpañcādhikaṃ) [tattvam](tattvaṃ) [san-mārgam](sanmārgaṃ) [pīṭham-aiśvaram](pīṭhamaiśvaram)
+[thirty-five-more-tattva](triṃśatpañcādhikaṃ) [tattva](tattvaṃ) [good-path](sanmārgaṃ) [pīṭha-aiśvara](pīṭhamaiśvaram)
 
 ## mukta-m0-p76-v1886
-[bhujaiḥ-tu](bhujaistu) [daśabhiḥ-yuktam](daśabhiryuktaṃ) [jaṭā-mukuṭa-maṇḍitam](jaṭāmukuṭamaṇḍitam) [jaṭā-mukuṭa-maṇḍitam](jaṭāmukuṭamaṇḍitam)
+[with-ten-arms](bhujaistu) [ten](daśabhiryuktaṃ) [crown-of-matted-hair](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-[gaṇaiḥ-devaiḥ-tathā](gaṇairdevaistathā) [siddhaiḥ](siddhaiḥ) [stūyamānaiḥ](stūyamānaiḥ) [samāyutam](samāyutam)
+[by-gaṇas-gods-and-siddhas](gaṇairdevaistathā) [being-praised](stūyamānaiḥ) [endowed](samāyutam)
 
 ## mukta-m0-p76-v1888
-[sadyolātena](sadyolātena) [saṃcintya](saṃcintya) [vāmadevena](vāmadevena) [vinyaset](vinyaset)
+[by-sadyolāta](sadyolātena) [having-thought](saṃcintya) [by-vāmadeva](vāmadevena) [one-should-place](vinyaset)
 
 ## mukta-m0-p76-v1889
-[bodha-kriyā-niviṣṭam](bodhakriyāniviṣṭaṃ) [tu](tu) [jñeyam](jñeyaṃ) [jñāna-āśritam](jñānāśritaṃ) [smaret](smaret)
+[absorbed-in-cognition-action](bodhakriyāniviṣṭaṃ) [indeed](tu) [to-be-known](jñeyaṃ) [supported-by-knowledge](jñānāśritaṃ) [one-should-remember](smaret)
 
 ## mukta-m0-p76-v1890
-[dhvani-madhya-gatā](dhvanimadhyagatā) [tārā](tārā) [tārā-madhya-gateḥ](tārāmadhyagateḥ) [śaśī](śaśī)
+[in-sound-middle](dhvanimadhyagatā) [tārā](tārā) [tārā-middle-gone](tārāmadhyagateḥ) [moon](śaśī)
 
 ## mukta-m0-p76-v1891
-[ravi-madhya-gataḥ](ravimadhyagataḥ) [śāntaḥ](śāntaḥ) [śānta-madhya-gataḥ](śāntamadhyagataḥ) [śivaḥ](śivaḥ)
+[sun-middle-gone](ravimadhyagataḥ) [peaceful](śāntaḥ) [peace-middle-gone](śāntamadhyagataḥ) [śiva](śivaḥ)
 
 ## mukta-m0-p76-v1892
-[tadā](tadā) [dig-devatā-homaḥ](digdevatāhomaḥ) [kāryā](kāryā) [śāntiḥ-ca](śāntiśca) [doṣa-hṛt](doṣahṛt)
+[then](tadā) [digdevatā-homa](digdevatāhomaḥ) [should-be-done](kāryā) [peace](śāntiśca) [fault-removing](doṣahṛt)
 
 ## mukta-m0-p76-v1893
-[anyathā](anyathā) [tu](tu) [bhaved-ghoram](bhavedghoraṃ) [kartṛ-rāṣṭra-virūpakam](kartṛrāṣṭravirūpakam)
+[otherwise](anyathā) [indeed](tu) [would-be-terrible](bhavedghoraṃ) [doer-kingdom-deforming](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-[gajam](gajaṃ) [chāgam](chāgaṃ) [lulāyam](lulāyaṃ) [ca](ca) [dāsīm](dāsīṃ) [matsyam](matsyaṃ) [mṛga-avikam](mṛgāvikam)
+[elephant](gajaṃ) [goat](chāgaṃ) [lulāya](lulāyaṃ) [and](ca) [female-slave](dāsīṃ) [fish](matsyaṃ) [deer-goat](mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-[pakṣa-sūtram](pakṣasūtraṃ) [tato](tato) [dadyāt-ṛju-artham](dadyādṛjvarthaṃ) [lamba-sūtrakam](lambasūtrakam)
+[wing-thread](pakṣasūtraṃ) [then](tato) [one-should-give](dadyādṛjvarthaṃ) [hanging-thread](lambasūtrakam)
 
 ## mukta-m0-p76-v1896
-[calile](calile) [śabdite](śabdite) [bhrānte](bhrānte) [praṇate](praṇate) [svasthite](svasthite) [kramāt](kramāt)
+[in-moving](calile) [in-sounded](śabdite) [in-confused](bhrānte) [in-bowed](praṇate) [in-steady](svasthite) [in-order](kramāt)
 
 ## mukta-m0-p76-v1897
-[kṣīra-loha-malaiḥ](kṣīralohamalaiḥ) [śubhaiḥ](śubhaiḥ) [śubhaiḥ](śubhaiḥ) [śubhaiḥ](śubhaiḥ)
+[with-milk-metal-impurities](kṣīralohamalaiḥ) [auspicious](śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-[tataḥ](tataḥ) [śānti-ghaṭa-āmmobhiḥ](śāntighaṭāmmobhiḥ) [snānam](snānaṃ) [mūrti-dharāḥ](mūrtidharāḥ) [svakam](svakam)
+[then](tataḥ) [peace-pot-water](śāntighaṭāmmobhiḥ) [bathing](snānaṃ) [form-bearers](mūrtidharāḥ) [own](svakam)
 
 ## mukta-m0-p76-v1899
-[toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ) [toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ) [toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ) [toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
+[water-milk-curd-honey-ghee-water-inner](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-[mugdā](mugdā) [dyaṅgula-mātrasya](dyaṅgulamātrasya) [calasya](calasya) [sthāpane](sthāpane) [hitam](hitam)
+[mugdā](mugdā) [of-five-angula-measure](dyaṅgulamātrasya) [of-moving](calasya) [for-placement](sthāpane) [beneficial](hitam)
