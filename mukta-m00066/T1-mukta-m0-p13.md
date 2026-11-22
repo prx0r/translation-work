@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[traditions](saṃpradāyāḥ) [tu](tu) [yoginis](yoginyaḥ) [tripura](tripurā) [shri](śrī) [ca](ca) [cakrini](cakriṇī)
-
+tradition+and(traditions) yoginis Tripura Śrī and cakrini
 ## mukta-m0-p13-v302
-[all-siddhi-etc](sarvasidhyādikāḥ) [shakti](śaktiḥ) [transcending-kula](kulottirṇā) [tu](tu) [yogini](yoginī)
-
+all+siddhi+etc powers shakti transcending+kula and yogini
 ## mukta-m0-p13-v303
-[inner-decagram-goddesses](aṃtardaśāredevyastu) [all-knowing-etc](sarvajñādyāḥ) [declared](prakīrtitāḥ)
-
+inner+ten+petals+goddesses and all+knowing+etc proclaimed
 ## mukta-m0-p13-v304
-[mahakusha](mahāṃkuśā) [ca](ca) [mudra](mudrā) [asya](asya) [atha](atha) [eight-petalled](aṣṭāra) [great-circle](mahāvṛtau)
-
+great+hook and seal thus eight+petals great+circle
 ## mukta-m0-p13-v305
-[cakrini](cakriṇī) [tripura](tripurā) [siddha](siddhā) [mudra](mudrā) [becomes](bhavati) [khechari](khecarī)
-
+cakrini Tripura siddha seal becomes khechari
 ## mukta-m0-p13-v306
-[three-cornered](tryaśe) [kameshvari](kāmeśvarī) [vajreshvari](vajreśvarī) [ca](ca) [bhagamalini](bhagamālinī)
-
+three+cornered Kameshvari Vajreshvari and Bhagamalini
 ## mukta-m0-p13-v307
-[yogini](yoginī) [ati-secret](ati+rahasyā) [ca](ca) [tripuramba](tripurāṃbā) [ca](ca) [cakrini](cakriṇī)
-
+yogini very secret and Tripuramba and cakrini
 ## mukta-m0-p13-v308
-[bindu-form](biṃdurūpe) [great-delight](mahollāse) [lalita](lalitāṃ) [parameshvari](parameśvarīm)
-
+bindu+form great+joy Lalita supreme+goddess
 ## mukta-m0-p13-v309
-[her](tasyā) [single-seat](ekāsane) [deva](deva) [mind-joined-body](matisaṃsaktavigraham)
-
+her single+seat god mind+attached+form
 ## mukta-m0-p13-v310
-[kamadeva](kaṃdarpa) [crore-beauty](koṭilāvaṇyaṃ) [flower-arrow-bow-bearing](puṣpabāṇadhanurddharam)
-
+Kandarpa million+beauty flower+arrow+bow+bearing
 ## mukta-m0-p13-v311
-[ha-syllable-mantra](hakārādyena+maṃtreṇa) [kameshvara](kāmeśvaram) [worship](upācaret)
-
+ha+letter+etc mantra Kameshvara worship
 ## mukta-m0-p13-v312
-[thus](itthaṃ) [nine-enclosure](navāvṛtiṃ) [goddess](devīṃ) [worship](pūjayitvā) [according-to-rite](vidhānataḥ)
-
+thus nine+enclosure goddess worship according+to+rite
 ## mukta-m0-p13-v313
-[saubhagya-hridaya](saubhāgyahṛdayaṃ) [japa](japtvā) [meditate](dhyāyet) [kamakala](kāmakalāmatha)
-
+saubhagya+heart recite meditate Kama+kala then
 ## mukta-m0-p13-v314
-[then](atha) [satisfying](saṃtarpya) [two-roots](mūlābhyāṃ) [god](devaṃ) [goddess](devīṃ) [ca](ca) [worship](pūjayet)
-
+then satisfy roots god goddess and worship
 ## mukta-m0-p13-v315
-[united](ekībhūte) [their-bodies](tayordehe) [worship](yajed) [ananda-bhairava](ānaṃda+bhairavam)
-
+united their+bodies worship Ananda Bhairava
 ## mukta-m0-p13-v316
-[bindus](bindubhiḥ) [satisfy](tarpayet) [lord](nātham) [ananda-parameshvara](ānaṃda+parameśvaram)
-
+bindus satisfy lord Ananda supreme+lord
 ## mukta-m0-p13-v317
-[yaga-raja-rite](yāgarājakramasyeti) [nandi-puja](nāṃdi+pūjā) [remembered](smṛtā) [by-wise](budhaiḥ)
-
+yaga+raja+order thus nandi worship remembered wise
 ## mukta-m0-p13-v318
-[which](yaṃ) [hearing](śrutvā) [with-siddhi](sahā+siddhi) [worship](pūjayet) [if](yadi) [man](mānavaḥ)
-
+which hearing with siddhi worship if man
 ## mukta-m0-p13-v319
-[thus-in-ananda-tantra](ityānaṃdataṃtre) [sixth](ṣaṣṭhaḥ) [chapter](paṭalaḥ)
-
+thus Ananda+tantra sixth chapter
 ## mukta-m0-p13-v320
-[yaga-raja-rite](yāgarājavidhānaṃ) [ca](ca) [even-for-winds](marutāmapi) [rare](durlabham)
-
+yaga+raja+rite and wind+gods even rare
 ## mukta-m0-p13-v321
-[supreme-bliss-saubhagya](paramānaṃdasaubhāgya) [cause](nimittaṃ) [all-siddhi-giving](sarvasiddhidam)
-
+supreme+bliss+fortune cause all+siddhi+giving
 ## mukta-m0-p13-v322
-[yearly](prativarṣaṃ) [tu](tu) [prescribed](vihitaṃ) [arranged](kalpitaṃ) [its](tasya) [siddhi](siddhaye)
-
+every+year and prescribed arranged his siddhi
 ## mukta-m0-p13-v323
-[festival-performed](parvasukriyamāṇastu) [kadachit](kadācidapi) [desired](vāṃcchitam)
-
+festival+well+done and sometimes desired
 ## mukta-m0-p13-v324
-[brahma-form](brahmarūpeṇa) [beautiful-hipped](suśroṇimayā) [created](sṛṣṭā) [three-worlds](jagattraye)
-
+Brahma+form beautiful+hip+made created three+worlds
 ## mukta-m0-p13-v325
-[scattered](vyastānāṃ) [ca](ca) [combined](samastānāṃ) [essence](rasena) [made](kriyate) [honey](madhu)
+scattered and all nectar made honey
