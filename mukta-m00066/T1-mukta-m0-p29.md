@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[bahunā](bahunā) [kim](kim) [ihoktena](ihoktena) [dvau](dvau) [mānasasamīraṇau](mānasasamīraṇau)
+[by-much](bahunā) [what-here-said](kimihoktena) [two+mind+winds](dvaumānasasamīraṇau)
+
 ## mukta-m0-p29-v702
-[tayoḥ](tayoḥ) [saṃyojanaṃ](saṃyojanaṃ) [vakṣye](vakṣye) [sāvadhānā](sāvadhānā) [śruṇu](śruṇu) [priye](priye)
+[their](tayoḥ) [union](saṃyojanaṃ) [i-will-speak](vakṣye) [attentive](sāvadhānā) [listen](śruṇu) [beloved](priye)
+
 ## mukta-m0-p29-v703
-[catuḥṣaṣṭyā](catuḥṣaṣṭyā) [tu](tu) [mātrāṇāṃ](mātrāṇāṃ) [pūrayet](pūrayet) [māruteśvaram](māruteśvaram)
+[by-sixty-four](catuḥṣaṣṭyā) [indeed](tu) [measures](mātrāṇāṃ) [fill](pūrayen) [wind-lord](māruteśvaram)
+
 ## mukta-m0-p29-v704
-[paṃca](paṃca) [laghu](laghu) [akṣara](akṣara) [uccāra](uccāra) [kāla](kāla) [mātrā](mātrā) [iti](iti) [kathyate](kathyate)
+[five-light-syllable-utterance](paṃcalaghvakṣaroccāra) [time-measure](kālomātreti) [is-called](kathyate)
+
 ## mukta-m0-p29-v705
-[pūrakaḥ](pūrakaḥ) [kuṃbhakaḥ](kuṃbhakaḥ) [ca](ca) [eva](eva) [recakaḥ](recakaḥ) [ca](ca) [maheśvari](maheśvari)
+[inhalation](pūrakaḥ) [retention](kuṃbhakaścaiva) [exhalation](recakaśca) [great-goddess](maheśvari)
+
 ## mukta-m0-p29-v706
-[kākolaka](kākolaka) [mukhaḥ](mukhaḥ) [ca](ca) [vāyu](vāyu) [pūraṇa](pūraṇa) [bhadajāḥ](bhadajāḥ)
+[crow-faced](kākolakamukhaścava) [wind-filling](vāyupūraṇa) [blessed-ones](bhadajāḥ)
+
 ## mukta-m0-p29-v707
-[yuktaṃ](yuktaṃ) [yuktaṃ](yuktaṃ) [ca](ca) [gṛhṇīyāt](gṛhṇīyāt) [devaṃ](devaṃ) [siddhim](siddhim) [avāpnuyāt](avāpnuyāt)
+[fit](yuktaṃ) [fit](yuktaṃ) [grasp](ca) [gṛhṇīyā) [god](devaṃ) [perfection](siddhim) [obtain](avāpnuyāt)
+
 ## mukta-m0-p29-v708
-[śanaiḥ](śanaiḥ) [punar](punar) [mokṣaṇaṃ](mokṣaṇaṃ) [syāt](syāt) [yataḥ](yataḥ) [vāyu](vāyu) [jayaḥ](jayaḥ) [bhavet](bhavet)
+[slowly](śanaiḥ) [again](punar) [release](mokṣaṇaṃ) [syād](syād) [whence](yato) [wind](vāyu) [victory](jayo) [bhavet](bhavet)
+
 ## mukta-m0-p29-v709
-[sarvaṃ](sarvaṃ) [vyāpnoti](vyāpnoti) [ca](ca) [vapuḥ](vapuḥ) [sukha](sukha) [kārī](kārī) [vaśīkṛtaḥ](vaśīkṛtaḥ)
+[all](sarvaṃ) [pervades](vyāpnoti) [and](ca) [body](vapuḥ) [pleasure-causing](sukhakārī) [subdued](vaśīkṛtaḥ)
+
 ## mukta-m0-p29-v710
-[sarveṣu](sarveṣu) [api](api) [upāyeṣu](upāyeṣu) [marut](marut) [dhāraṇa](dhāraṇa) [karmaṇaḥ](karmaṇaḥ)
+[in-all](sarveṣvapi) [upāyas](upāyeṣu) [wind-holding](maruddhāraṇa) [action](karmaṇaḥ)
+
 ## mukta-m0-p29-v711
-[dvāra](dvāra) [dṛṣṭiḥ](dṛṣṭiḥ) [jāgarīka](jāgarīka) [vimarśaḥ](vimarśaḥ) [ca](ca) [api](api) [dhāvanam](dhāvanam)
+[door-vision](dvāradṛṣṭir) [wakeful](jjāgarīka) [reflection](vimarśaścāpi) [running](dhāvanam)
+
 ## mukta-m0-p29-v712
-[cāra](cāra) [dṛṣṭiṃ](dṛṣṭiṃ) [yadā](yadā) [kuryāt](kuryāt) [tadā](tadā) [vāyu](vāyu) [jayaḥ](jayaḥ) [bhavet](bhavet)
+[door-vision](cāradṛṣṭiṃ) [when](yadā) [do](kuryāt) [then](tadā) [wind](vāyu) [victory](jayo) [bhavet](bhavet)
+
 ## mukta-m0-p29-v713
-[tadā](tadā) [coratvam](coratvam) [ujjhitvā](ujjhitvā) [pavanaḥ](pavanaḥ) [sakhyaṃ](sakhyaṃ) [īhate](īhate)
+[then](tadā) [thievishness](coratvam) [abandoning](ujjhitvā) [wind](pavanaḥ) [friendship](sakhyam) [seeks](īhate)
+
 ## mukta-m0-p29-v714
-[gṛhaḥ](gṛhaḥ) [bhavati](bhavati) [jīvaḥ](jīvaḥ) [ayaṃ](ayaṃ) [gṛhamedhī](gṛhamedhī) [cit](cit) [aṃganaḥ](aṃganaḥ)
+[householder](gṛho) [becomes](bhavati) [life](jīvo) [this](ayaṃ) [householder-intelligent](gṛhamedhīcidaṃganaḥ)
+
 ## mukta-m0-p29-v715
-[hetu](hetu) [antam](antam) [īhate](īhate) [vāyuḥ](vāyuḥ) [mitra](mitra) [tvac](tvac) [channa](channa) [taskaraḥ](taskaraḥ)
+[cause-end](hetvaṃtam) [seeks](īhate) [wind](vāyur) [hidden](mitatvacchanna) [thief](taskaraḥ)
+
 ## mukta-m0-p29-v716
-[raṃdhra](raṃdhra) [prahārī](prahārī) [hartuṃ](hartuṃ) [tadā](tadā) [āyuḥ](āyuḥ) [vittaṃ](vittaṃ) [samīhate](samīhate)
+[hole](raṃdhra) [striker](prahārī) [to-steal](hartuṃ) [then](tadā) [life-wealth](āyurvittaṃ) [seeks](samīhate)
+
 ## mukta-m0-p29-v717
-[tātvikī](tātvikī) [tu](tu) [bhavet](bhavet) [maitrī](maitrī) [yogināṃ](yogināṃ) [dhī](dhī) [samīrayoḥ](samīrayoḥ)
+[real](tātvikī) [indeed](tu) [friendship](bhaven) [maitrī) [of-yogins](yogināṃ) [mind-wind](dhīsamīrayoḥ)
+
 ## mukta-m0-p29-v718
-[ataḥ](ataḥ) [coraḥ](coraḥ) [samīrayaḥ](samīrayaḥ) [pratipālya](pratipālya) [prayatnataḥ](prayatnataḥ)
+[therefore](ataś) [thief](cora) [wind](samīroyaḥ) [guard](pratipālya) [carefully](prayatnataḥ)
+
 ## mukta-m0-p29-v719
-[rakṣati](rakṣati) [va](va) [vapuḥ](vapuḥ) [gehaṃ](gehaṃ) [kāpaṭyāt](kāpaṭyāt) [vāyu](vāyu) [taskaraḥ](taskaraḥ)
+[protects](rakṣatī) [indeed](va) [body-house](vapurgehaṃ) [by-deceit](kāpaṭyād) [wind-thief](vāyutaskaraḥ)
+
 ## mukta-m0-p29-v720
-[manaḥ](manaḥ) [pramādam](pramādam) [ālokya](ālokya) [kadācit](kadācit) [luṃṭate](luṃṭate) [dinam](dinam)
+[mind](manaḥ) [negligence](pramādam) [seeing](ālokya) [sometimes](kadācit) [plunders](luṃṭate) [day](dinam)
+
 ## mukta-m0-p29-v721
-[ataḥ](ataḥ) [prakṛti](prakṛti) [coraḥ](coraḥ) [tu](tu) [samūlam](samūlam) [avakṛṃtati](avakṛṃtati)
+[therefore](ataḥ) [nature-thief](prakṛti) [coraḥ) [rooted](samūlam) [cuts](avakṛṃtati)
+
 ## mukta-m0-p29-v722
-[antaḥ](antaḥ) [prakṛti](prakṛti) [coraḥ](coraḥ) [tu](tu) [prakṛtī](prakṛtī) [kāram](kāram) [arhati](arhati)
+[inner](aṃtaḥ) [nature-thief](prakṛti) [coraḥ) [nature-action](prakṛtīkāram) [deserves](arhati)
+
 ## mukta-m0-p29-v723
-[amoktavyaḥ](amoktavyaḥ) [sa](sa) [yatnāt](yatnāt) [vā](vā) [api](api) [pekṣya](pekṣya) [eva](eva) [parāṃ](parāṃ) [gatim](gatim)
+[not-to-be-released](amoktavyaḥ) [he](sa) [carefully](yatnād) [vāpya](vāpya) [pekṣyeva](pekṣyeva) [other-course](parāṃgatim)
+
 ## mukta-m0-p29-v724
-[sa](sa) [tu](tu) [coraḥ](coraḥ) [api](api) [dharttavyaḥ](dharttavyaḥ) [samavekṣya](samavekṣya) [pade](pade) [pade](pade)
+[he](satu) [thief](coropi) [dharttavyaḥ](dharttavyaḥ) [observing](samavekṣya) [step-by-step](pade) [pade](pade)
+
 ## mukta-m0-p29-v725
-[anavekṣya](anavekṣya) [bahiḥ](bahiḥ) [yāti](yāti) [tadā](tadā) [coraḥ](coraḥ) [jihīrṣati](jihīrṣati)
+[without-observing](anavekṣya) [outward](bahiryāti) [then](tadā) [thief](coro) [wishes-to-steal](jihīrṣati)

@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[kāmeśvarī-manuṃ-ca-eva](kāmeśvarīmanuṃ caiva) [paṃcavidyā-manu-smaret](paṃcavidyāmanusmaret)
+[kameshvari-mantra](kāmeśvarīmanuṃ) [and-indeed](caiva) [five-vidyas-mantra-remember](paṃcavidyāmanusmaret)
 
 ## mukta-m0-p39-v952
-[anenāpi-ca-yogena](anenāpi ca yogena) [yadi-sā-na-hi-vidravet](yadi sā na hi vidravet)
+[by-this-also](anenāpi) [and](ca) [yoga](yogena) [if](yadi) [she](sā) [not](na) [indeed](hi) [melt](vidravet)
 
 ## mukta-m0-p39-v953
-[prāyuṃjīta-vidhānena](prāyuṃjīta vidhānena) [japann-amṛtanāyikām](japannamṛtanāyikām)
+[employ](prāyuṃjīta) [rite](vidhānena) [chanting](japannamṛtanāyikām)
 
 ## mukta-m0-p39-v954
-[ghaṭṭālīlakayāmātaḥ](ghaṭṭālīlakayāmātaḥ) [kṣobhayen-madanālayam](kṣobhayenmadanālayam)
+[ghattali-lila-kaya?](ghaṭṭālīlakayāmātaḥ) [agitate](kṣobhayenmadanālayam)
 
 ## mukta-m0-p39-v955
-[tena-dratyatīcīra](tena dratyatīcīra) [dravācaṃdrakalāsirā](dravācaṃdrakalāsirā)
+[by-that](tena) [dratyati-cira?](dratyatīcīra) [drava-candra-kala-sira?](dravācaṃdrakalāsirā)
 
 ## mukta-m0-p39-v956
-[atigupta-mahāvidyā](atiguptamahāvidyā) [svarūpāḥ-śailanaṃdinī](svarūpāḥ śailanaṃdinī)
+[very-secret-great-vidya](atiguptamahāvidyā) [own-forms](svarūpāḥ) [daughter-of-mountain](śailanaṃdinī)
 
 ## mukta-m0-p39-v957
-[yadi-satyaṃ-jagaddhātā](yadi satyaṃ jagaddhātā) [paṃcakṛtyadharaḥ-śivaḥ](paṃcakṛtyadharaḥ śivaḥ)
+[if](yadi) [true](satyaṃ) [world-sustainer](jagaddhātā) [five-acts-bearer](paṃcakṛtyadharaḥ) [shiva](śivaḥ)
 
 ## mukta-m0-p39-v958
-[yadi-satyaṃ-samastānāṃ](yadi satyaṃ samastānāṃ) [śāstrāṇāṃ-gatir-ātmadṛk](śāstrāṇāṃ gatirātmadṛk)
+[if](yadi) [true](satyaṃ) [of-all](samastānāṃ) [scriptures](śāstrāṇāṃ) [goal](gatirātmadṛk)
 
 ## mukta-m0-p39-v959
-[yadi-satyaṃ-ratiḥ-kāmaḥ](yadi satyaṃ ratiḥ kāmaḥ) [vijayet-etvayā-jagat](vijayetetvayā jagat)
+[if](yadi) [true](satyaṃ) [desire](ratiḥ) [kama](kāmo) [conquer](vijayetetvayā) [world](jagat)
 
 ## mukta-m0-p39-v960
-[yadi-satyaṃ-dehabhājāṃ](yadi satyaṃ dehabhājāṃ) [sarveṣāṃ-sukhadaḥ-smaraḥ](sarveṣāṃ sukhadaḥsmaraḥ)
+[if](yadi) [true](satyaṃ) [of-body-bearers](dehabhājāṃ) [of-all](sarveṣāṃ) [pleasure-giver](sukhadaḥsmaraḥ)
 
 ## mukta-m0-p39-v961
-[yadi-satyaṃ-sudātvaṃ-ca](yadi satyaṃ sudātvaṃ ca) [paramānaṃda-dāyake](paramānaṃda dāyake)
+[if](yadi) [true](satyaṃ) [good-giving](sudātvaṃ) [ca](ca) [supreme-bliss](paramānaṃda) [giver](dāyake)
 
 ## mukta-m0-p39-v962
-[yadi-satyaṃ-sarvapūjyā](yadi satyaṃ sarvapūjyā) [siṃhāsana-maheśvarī](siṃhāsana maheśvarī)
+[if](yadi) [true](satyaṃ) [all-worshipped](sarvapūjyā) [lion-throne](siṃhāsana) [great-lady](maheśvarī)
 
 ## mukta-m0-p39-v963
-[yadi-satyaṃ-gurorājñā](yadi satyaṃ gurorājñā) [sarvatrāskhalitodayā](sarvatrāskhalitodayā)
+[if](yadi) [true](satyaṃ) [guru-command](gurorājñā) [everywhere-unfailing-rise](sarvatrāskhalitodayā)
 
 ## mukta-m0-p39-v964
-[ityaṣṭakārikāpāṭha](ityaṣṭakārikāpāṭha) [samanaṃtarameva-sā](samanaṃtarameva sā)
+[thus-eight-verse-recitation](ityaṣṭakārikāpāṭha) [immediately-then](samanaṃtarameva) [she](sā)
 
 ## mukta-m0-p39-v965
-[tenāmṛtena-śuddhena](tenāmṛtena śuddhena) [śītalena-laghīyasā](śītalena laghīyasā)
+[by-that-nectar](tenāmṛtena) [pure](śuddhena) [cool](śītalena) [light](laghīyasā)
 
 ## mukta-m0-p39-v966
-[gaṃgodakasvarūpeṇa](gaṃgodakasvarūpeṇa) [tarpayelliṃgapāvakam](tarpayelliṃgapāvakam)
+[ganga-water-form](gaṃgodakasvarūpeṇa) [satisfy](tarpayelliṃgapāvakam)
 
 ## mukta-m0-p39-v967
-[idaṃ-yajña-pradānāṃgam](idaṃ yajña pradānāṃgam) [īyaṃ-kaivalyapaddhatiḥ](īyaṃ kaivalyapaddhatiḥ)
+[this](idaṃ) [sacrifice](yajña) [gift-limb](pradānāṃgamīyaṃ) [liberation-path](kaivalyapaddhatiḥ)
 
 ## mukta-m0-p39-v968
-[ātmavidyāphalaṃ-caitad](ātmavidyāphalaṃ caitad) [ātmavidyāphalaṃ-tvidam](ātmavidyāphalaṃ tvidam)
+[self-knowledge-fruit](ātmavidyāphalaṃ) [and-this](caitadātmavidyāphalaṃ) [but-this](tvidam)
 
 ## mukta-m0-p39-v969
-[tena-saṃpūjitaś-cāsau](tena saṃpūjitaścāsau) [bhīmatvaṃ-tasya-yacchati](bhīmatvaṃ tasya yacchati)
+[by-that](tena) [worshipped](saṃpūjitaścāsau) [bhima-state](bhīmatvaṃ) [to-him](tasya) [gives](yacchati)
 
 ## mukta-m0-p39-v970
-[sabhaktaḥ-paramākāśa](sabhaktaḥ paramākāśa) [rūponirmalatāṃgataḥ](rūponirmalatāṃgataḥ)
+[with-devotee](sabhaktaḥ) [supreme-space](paramākāśa) [form-purity-gone](rūponirmalatāṃgataḥ)
 
 ## mukta-m0-p39-v971
-[bhūmyādi-sarvabhūtānām](bhūmyādi sarvabhūtānām) [avakāśa-pradasvayam](avakāśa pradasvayam)
+[earth-etc-all-beings](bhūmyādi) [sarvabhūtānāmavakāśa] [give-space-himself](pradasvayam)
 
 ## mukta-m0-p39-v972
-[na-puṇyair-nna-ca-pāpaiśca](na puṇyairnna ca pāpaiśca) [na-dharmādharmabhaṅgibhiḥ](na dharmādharmabhaṅgibhiḥ)
+[not](na) [merits](puṇyairnna) [nor](ca) [sins](pāpaiśca) [nor](na) [dharma-adharma-breaks](dharmādharmabhaṅgibhiḥ)
 
 ## mukta-m0-p39-v973
-[nāpakāropakāraiśca](nāpakāropakāraiśca) [na-dāridryavibhūtibhiḥ](na dāridryavibhūtibhiḥ)
+[nor](na) [harm-benefit](apakāropakāraiśca) [nor](na) [poverty-abundance](dāridryavibhūtibhiḥ)
 
 ## mukta-m0-p39-v974
-[na-ca-baṃdhavimokṣābhyāṃ](na ca baṃdhavimokṣābhyāṃ) [aspṛṣṭaś-citsudhāmayaḥ](aspṛṣṭaścitsudhāmayaḥ)
+[nor](na) [ca](ca) [bondage-liberation](baṃdhavimokṣābhyāṃ) [untouched](aspṛṣṭaścitsudhāmayaḥ)
 
 ## mukta-m0-p39-v975
-[gaṃdharva-nagarākāram](gaṃdharva nagarākāram) [api-cānubhavatyataḥ](api cānubhavatyataḥ)
+[gandharva-city-form](gaṃdharva) [nagarākāramapi] [experience-thence](cānubhavatyataḥ)

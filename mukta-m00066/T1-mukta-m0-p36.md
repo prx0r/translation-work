@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not(na) anything-at-all(kiṃcidapi) know(jānāmi) lord-teach-teach(nāthabodhayabodhaya)
+not+anything+even know-I lord+awaken+awaken
 
 ## mukta-m0-p36-v877
-this(etat) happiness-cause(saukhyanidānāya) well-being-sign(svastiliṃgāya) to-śambhu(śaṃbhave)
+this for+bliss+cause for+wellbeing+linga to+Shambhu
 
 ## mukta-m0-p36-v878
-śiva-offering(śivārpaṇamidaṃ) may-it-be(bhūyāt) again(punarastu) śiva-offering(śivārpaṇam)
+Shiva+offering this may+be again let+be Shiva+offering
 
 ## mukta-m0-p36-v879
-withered(mlānā) lotus-stalk(padmamṛṇālī) like(va) garland(mālikevāsya) on-chest(vakṣasi)
+withered lotus+stalk like garland on+his chest
 
 ## mukta-m0-p36-v880
-absorbed(līnalīnākṣaraṃ) afterward(paścānmaṃdamaṃdākṣaraṃ) again(punaḥ)
+absorbed+absorbed+syllable after slow+slow+syllable again
 
 ## mukta-m0-p36-v881
-thus(evamādiguṇādūtyāḥ) six-offering(ṣaḍāhuti) great-festival(mahotsave)
+thus+etc qualities messenger six+oblation great+festival
 
 ## mukta-m0-p36-v882
-six(six-rasa-possessing)(ṣaṣṭhiṣaḍrasasaṃpanna) many-food-giving(bahubhojanadāyinī)
+sixth six+taste+endowed many+food+giving
 
 ## mukta-m0-p36-v883
-six-limb-deity(ṣaḍaṃgadevatā) form(rūpā) by-all-ritual-doers(sarvadākriyatāṃbudhaiḥ)
+six+limb+deity form all+always+done+water+lords
 
 ## mukta-m0-p36-v884
-of-heroine(nāyikāyāśca) by-opening(vidṛtyā) pleasure-rest(sukhaśrāṃtiḥ) proceeds(pravartate)
+heroine's and opening bliss+rest proceeds
 
 ## mukta-m0-p36-v885
-sugar-nectar-mixed(śarkarāmṛtasaṃmiśraṃ) pure-soup-with(śuddhiyūṣasanādhitam)
+sugar+nectar+mixed purity+soup+with+rice
 
 ## mukta-m0-p36-v886
-oneself(svayaṃtadavaśiṣṭaṃ) ca(pibed) devotion(bhakti) with-reverence(bharānataḥ)
+oneself that+remainder and drink devotion burden+bowed
 
 ## mukta-m0-p36-v887
-mantra(maṃtraṃ) ca(cānaṃdadevasya) hundred-or-thousand(śataśovāsahasraśaḥ)
+mantra and Ananda+deva's hundred+times or thousand+times
 
 ## mukta-m0-p36-v888
-improper-instrument(ayuktayaṃtraḥ) should-chant(prajaped) deity-curse(devatāśāpamāpnuyāt)
+improper+yantra recite deity+curse obtain
 
 ## mukta-m0-p36-v889
-thus(evaṃ) chanted(japte) supreme-bliss-form(parānaṃdarūpi) liṅga-maheśvara(liṃgamaheśvaraḥ)
+thus recited supreme+bliss+form linga+Maheshvara
 
 ## mukta-m0-p36-v890
-as-long-as(japati) hero(vīroyaṃ) messenger-rest(dūtiviśrāṃti) for(hetave)
+as+long+recites hero this messenger+rest for+sake
 
 ## mukta-m0-p36-v891
-thus(iththaṃ) in-order(viśrāṃtiṃ) gone(gatāyāṃ) messenger-body(dūtikātanau)
+thus by+order rest gone messenger+body
 
 ## mukta-m0-p36-v892
-moon-crescent-meaning(caṃdrarekhārthāṃ) by-guile(gulinā) raised(pronnatā) moon-moonlight(caṃdracaṃdrikā)
+moon+crescent+for sake elevated moon+moonlight
 
 ## mukta-m0-p36-v893
-flax(atasī) flower-like(puṣpasaṃkāśā) triangle-form(trikoṇākāratāṃ) gone(gatā)
+flax flower+resembling triangle+form gone
 
 ## mukta-m0-p36-v894
-long-flowing(ciradravāpi) lord(nāthaika) arranged(kluptairaṃguṣṭha) by-kisses(cuṃbanaiḥ)
+long+flowing even lord one arranged thumb kisses
 
 ## mukta-m0-p36-v895
-navel-palm-falls(nābhaucapeṭa) patanairnitaṃbe(hastamardanaiḥ)
+navel+slap falls buttock hand+massage
 
 ## mukta-m0-p36-v896
-own-essence(nijaṃrasaṃ) flowing(sravaṃtyeva) heroine(nāyikācaṃdracaṃdrikā)
+own+juice flowing indeed heroine+moon+moonlight
 
 ## mukta-m0-p36-v897
-rice-wine-joy(paiṣṭimadyasamāmodaṃ) arrow-flower-intense(bāṇapuṣpolbaṇadyuti)
+flour+wine+equal+joy arrow+flower+abundant+radiance
 
 ## mukta-m0-p36-v898
-attainment-success-procreation(prāptisiddhiprajananaṃ) all-sovereignty-speech(sarvaiśvaryākhyavāṅmayam)
+attainment+perfection+procreation all+lordship+named+speech
 
 ## mukta-m0-p36-v899
-all-disease-removing(samastavyādhiśamanaṃ) light-cool-pure(laghuśītalanirmalam)
+all+disease+pacifying light+cool+pure
 
 ## mukta-m0-p36-v900
-then(tadājapeditaṃ) mantra(maṃtraṃ) ca(ca) palāmbā-deity(palāṃbādhidaivatam)
+then recited mantra and Pala+amba+presiding+deity
