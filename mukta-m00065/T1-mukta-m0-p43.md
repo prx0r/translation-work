@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-veda-part-throwing-from-corner mortal-shares-and-then blanket [kh: neck]
+[veda+part+falling](vedāṃśapātanātkoṇa) [mortal+with+blanket](marṭāśairatha) [blanket](kambalam)
 
 ## mukta-m0-p43-v1052
-three-part-entry-from-throat one-by-one-exit hoof
+[three+part+entering](tryaṃśapraveśanāt) [throat](kaṇṭhāt) [one+by+one+exit](ekaikanirgamaṃ) [hoof](khuram)
 
 ## mukta-m0-p43-v1053
-bell and girdle and-also make horns from-corner
+[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](caiva) [make](kuryāt) [horns](śṛṅgāṇi) [from+corner](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-pendant-attached revanta umbrella-stream-etc-with
+[pendant+attached](prālambyāsakta) [revanta](revanta) [umbrella+bearer+etc](śchatradhārādibhiryutaḥ)
 
 ## mukta-m0-p43-v1055
-various-gem-beautiful-rich fierce-radiance natural-born
+[various+jewel+well+adorned](nānāratnasuveśāḍhyā) [fierce+radiance](caṇḍatejāḥ) [natural](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-soma gentle and white pot-prayer-garlanded
+[moon](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [pot+garlanded](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-mercury dark youth and formed bow-handed
+[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [formed](rūpiṇaṃ) [bow+armed](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-yama one-eyed white venus pot-mantra-garlanded
+[saturn+one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [pot+mantra+garlanded](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-turned-face smiling and tawny-brow-beard-eye
+[turned+face](vyāvṛttāsyaṃ) [with+face](sahāsyaṃ) [and](ca) [tawny+brow+beard+eye](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-three-hood smoke-colored half-man-serpent-formed [gh: man]
+[three+hooded](triphalaṃ) [smoke+colored](dhūmravarṇābhaṃ) [man+naga+half+formed](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-these two-armed all ornament-cloth-endowed
+[these+all+two-armed](etāṃstu) [all](sarvān) [ornament+garment+equipped](bhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-cart sacrifice these-below vehicle in-order always
+[cart](śakaṭaṃ) [sacrifice](medham) [these+below+vehicle+in+order+always](eteṣāmadho) [yānaṃ](yānaṃ) [kramātsadā](kramātsadā)
 
 ## mukta-m0-p43-v1063
-white thousand-hooded lord [mū,a: alas head] blue-lotus-endowed
+[white](sitaḥ) [thousand+hooded](sahasrabhogo) [lord](hīśvaraḥ) [blue-lotus+equipped](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-black karkotaka throat white-line-three-endowed
+[black](kṛṣṇaḥ) [karkotaka](karkoṭakaḥ) [throat](kaṇṭhe) [three+stripe+equipped](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-conch-colored great-lotus on-head black-trident-bearer [k: trident-maker]
+[conch+colored](śaṅkhavarṇo) [great+lotus](mahāpadmo) [on+head](mastake) [black+trident+bearer](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-kulika red-bodied and half-moon [g: moon-sun] made-head
+[kulika](kuliko) [red+bodied](raktadehastu) [half+moon](candrārdha) [made+head](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-rosary-bearers all pot-tail-endowed
+[rosary+bearers](akṣasūtradharāḥ) [all](sarve) [pot+tail+equipped](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-servants and one-hood to-be-made same-form gem-devoid
+[servants](bhṛtyāśca) [one+hooded](ekaphaṇāḥ) [to+be+made](kāryāstadrūpā) [jewel+without](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-necklace-earring-armlet always-ornament [k: all-ornament] adorned
+[garland+earring+armlet](hārakuṇḍalakeyūraiḥ) [always+ornamented](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-such by-mind to-be-made shrikanta-mind-born
+[thus](īdṛśī) [by+mind](manasā) [to+be+made](kāryā) [shrikantha+mind-born](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-yoga-band-wrapped lotus-seated pot and rosary-bearer [mū,a,k: holder]
+[yoga+band+covered+lotus-seated](yogapaṭṭāvṛto'bjasthaḥ) [pot+and+rosary+bearer](kuṇḍikācākṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-various-ornament-endowed two utpala-gem bearer-hands
+[various+ornament+equipped](nānālaṅkārasaṃyuktāv) [lotus+jewel+bearer+hands](utpalamaṇibhṛtkarau)
 
 ## mukta-m0-p43-v1073
-well-seen [g: well-dark] speaking and own-lap son-bearing
+[well+seen](sudṛṣṭā) [speaking](jalpamānā) [and](ca) [own+lap+son+bearing](svotsaṅgeputradhāriṇī)
 
 ## mukta-m0-p43-v1074
-lotus [gh: leaf] nandana-lotus-seated own-limb-goddess [gh: suṅgā-goddess] proclaimed
+[lotus](padmā) [nandana+lotus+seated](nandanapadmastha) [own+limb+goddess](svāṅgādevī) [declared](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-basuka-koka-kapi-dviksha [gh: dvikka] tiger-tiger-faced in-order
+[basukoka+kapi+two+tiger+tiger-faced+in+order](basukokakapidvikṣa) [vyāghravyāghrāsyakaṃ](vyāghravyāghrāsyakaṃ) [kramāt](kramāt)
