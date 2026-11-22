@@ -8,15 +8,15 @@
 "tokens": [
 {
 "surface": "kāñcanobhatanuḥ",
-"quick_gloss": "golden-both-body"
+"quick_gloss": "golden-both-bodied"
 },
 {
 "surface": "kāṣṭhā",
-"quick_gloss": "limit"
+"quick_gloss": "direction"
 },
 {
 "surface": "kuṣṭharogavināśinī",
-"quick_gloss": "leprosy-disease-destroyer"
+"quick_gloss": "leprosy-disease-destroying"
 }
 ]
 },
@@ -54,7 +54,7 @@
 "tokens": [
 {
 "surface": "brahmāṇḍacāriṇī",
-"quick_gloss": "universe-moving"
+"quick_gloss": "universe-wandering"
 },
 {
 "surface": "sphūrtiḥ",
@@ -62,11 +62,11 @@
 },
 {
 "surface": "brahmāṇī",
-"quick_gloss": "brahmāṇī"
+"quick_gloss": "Brahma's-wife"
 },
 {
 "surface": "brahmasaṃmatā",
-"quick_gloss": "brahma-approved"
+"quick_gloss": "Brahman-approved"
 }
 ]
 },
@@ -86,6 +86,10 @@
 "quick_gloss": "thin-limbed"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "kalpapādapavāsinī",
 "quick_gloss": "wish-tree-dwelling"
 }
@@ -100,7 +104,7 @@
 "tokens": [
 {
 "surface": "bhūtirājñī",
-"quick_gloss": "being-queen"
+"quick_gloss": "prosperity-queen"
 },
 {
 "surface": "viśvarājñī",
@@ -112,7 +116,7 @@
 },
 {
 "surface": "śivāśrayā",
-"quick_gloss": "shiva-refuge"
+"quick_gloss": "Shiva-refuge"
 }
 ]
 },
@@ -129,7 +133,7 @@
 },
 {
 "surface": "vaṃśarājñī",
-"quick_gloss": "lineage-queen"
+"quick_gloss": "bamboo-queen"
 },
 {
 "surface": "vīrarājñī",
@@ -162,7 +166,7 @@
 },
 {
 "surface": "japapriyā",
-"quick_gloss": "japa-loving"
+"quick_gloss": "mantra-loving"
 }
 ]
 },
@@ -200,7 +204,7 @@
 },
 {
 "surface": "madālasā",
-"quick_gloss": "delicate"
+"quick_gloss": "intoxicated-lazy"
 }
 ]
 },
@@ -225,7 +229,7 @@
 },
 {
 "surface": "kulākṛtiḥ",
-"quick_gloss": "family-formed"
+"quick_gloss": "clan-formed"
 }
 ]
 },
@@ -246,11 +250,11 @@
 },
 {
 "surface": "bhūtarājñī",
-"quick_gloss": "being-queen"
+"quick_gloss": "spirit-queen"
 },
 {
 "surface": "śivāsanā",
-"quick_gloss": "shiva-seated"
+"quick_gloss": "Shiva-seated"
 }
 ]
 },
@@ -267,7 +271,7 @@
 },
 {
 "surface": "rājeśī",
-"quick_gloss": "queen-of-kings"
+"quick_gloss": "king-lady"
 },
 {
 "surface": "rājarājñī",
@@ -292,15 +296,15 @@
 },
 {
 "surface": "vibhārājñī",
-"quick_gloss": "radiance-queen"
-},
-{
-"surface": "tejorājñī",
 "quick_gloss": "splendor-queen"
 },
 {
+"surface": "tejorājñī",
+"quick_gloss": "radiance-queen"
+},
+{
 "surface": "vibhāmayī",
-"quick_gloss": "shining"
+"quick_gloss": "illuminating"
 }
 ]
 },
@@ -342,7 +346,7 @@
 },
 {
 "surface": "ratnarājñī",
-"quick_gloss": "jewel-queen"
+"quick_gloss": "gem-queen"
 },
 {
 "surface": "yugarājñī",
@@ -350,7 +354,7 @@
 },
 {
 "surface": "maṇiprabhā",
-"quick_gloss": "gem-radiance"
+"quick_gloss": "jewel-radiance"
 }
 ]
 },
@@ -374,6 +378,10 @@
 "quick_gloss": "self-queen"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "sadgatiḥ",
 "quick_gloss": "good-goal"
 }
@@ -388,15 +396,15 @@
 "tokens": [
 {
 "surface": "īśānarājñī",
-"quick_gloss": "ishana-queen"
+"quick_gloss": "Ishana-queen"
 },
 {
 "surface": "rājeśī",
-"quick_gloss": "queen-of-kings"
+"quick_gloss": "king-lady"
 },
 {
 "surface": "svāhārājñī",
-"quick_gloss": "svaha-queen"
+"quick_gloss": "Svaha-queen"
 },
 {
 "surface": "mahattarā",
@@ -417,7 +425,7 @@
 },
 {
 "surface": "tattvarājñī",
-"quick_gloss": "essence-queen"
+"quick_gloss": "principle-queen"
 },
 {
 "surface": "vāgrājñī",
@@ -437,8 +445,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "itīdaṃ",
-"quick_gloss": "thus-this"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "idaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "mantrasarvasvaṃ",
@@ -446,7 +458,7 @@
 },
 {
 "surface": "rājñīnāmasahasrakam",
-"quick_gloss": "thousand-names-of-queens"
+"quick_gloss": "queen-names-thousand"
 }
 ]
 },
@@ -459,11 +471,11 @@
 "tokens": [
 {
 "surface": "sarvatattvamayaṃ",
-"quick_gloss": "all-essence-filled"
+"quick_gloss": "all-principle-made"
 },
 {
 "surface": "puṇyaṃ",
-"quick_gloss": "holy"
+"quick_gloss": "meritorious"
 },
 {
 "surface": "mahāpātakanāśanam",
@@ -518,7 +530,7 @@
 "tokens": [
 {
 "surface": "dūrādeva",
-"quick_gloss": "far-away"
+"quick_gloss": "from-far"
 },
 {
 "surface": "palāyante",
@@ -526,11 +538,11 @@
 },
 {
 "surface": "vipadaḥ",
-"quick_gloss": "misfortunes"
+"quick_gloss": "dangers"
 },
 {
 "surface": "śatrubhītayaḥ",
-"quick_gloss": "enemy-fears"
+"quick_gloss": "enemies-fearing"
 }
 ]
 },
@@ -543,7 +555,7 @@
 "tokens": [
 {
 "surface": "paṭhanād",
-"quick_gloss": "by-recitation"
+"quick_gloss": "by-reading"
 },
 {
 "surface": "vidravantyāśu",
@@ -551,11 +563,11 @@
 },
 {
 "surface": "mahākālādiva",
-"quick_gloss": "like-great-kala-creatures"
+"quick_gloss": "Mahakala-like"
 },
 {
 "surface": "prajāḥ",
-"quick_gloss": "beings"
+"quick_gloss": "people"
 }
 ]
 },
@@ -568,11 +580,15 @@
 "tokens": [
 {
 "surface": "gaṅgāsnānasahasrasya",
-"quick_gloss": "ganges-bath-thousand"
+"quick_gloss": "Ganga-bath-thousand"
+},
+{
+"surface": "ca",
+"quick_gloss": "and"
 },
 {
 "surface": "cāndrāyaṇāyutasya",
-"quick_gloss": "chandrayana-ten-thousand"
+"quick_gloss": "Chandrayana-ten-thousand"
 },
 {
 "surface": "ca",
