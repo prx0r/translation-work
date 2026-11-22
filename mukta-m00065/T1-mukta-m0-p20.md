@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p20-v476
-[thus](iti) [eighteen](aṣṭādaśa) [images](bimbāni) [told](kathitāni) [here](atra) [by-number](saṃkhyayā)
+[thus+eighteen](ityaṣṭādaśa) [images](bimbāni) [told+here](kathitānyatra) [by+number](saṃkhyayā)
 
 ## mukta-m0-p20-v477
-[become](bhaveyuḥ) [worms](kṛmayo) [in-womb](garbhe) [destruction](nāśo) [of-body-and-purpose](dehārthayoḥ) [then](tataḥ)
+[become](bhaveyuḥ) [worms](kṛmayo) [in+womb](garbhe) [destruction](nāśo) [of+body+and+purpose](dehārthayostataḥ)
 
 ## mukta-m0-p20-v478
-[therefore](tena) [king](rājā) [and](ca) [minister](mantrī) [maker](kārako) [dies](mriyate) [in-order](kramāt)
+[therefore](tena) [king](rājā) [and](ca) [minister](mantrī) [and](ca) [maker](kārako) [dies](mriyate) [in+order](kramāt)
 
 ## mukta-m0-p20-v479
-[on-red-painting](raktacitre) [and](ca) [horned](śṛṅgī) [is](syāt) [by-that](tayā) [grief-fear](śokabhayaṃ) [often](muhuḥ)
+[on+red+picture](raktacitre) [and](ca) [horned](śṛṅgī) [is](syāt) [by+that](tayā) [grief+fear](śokabhayaṃ) [often](muhuḥ)
 
 ## mukta-m0-p20-v480
-[on-black-painting](kṛṣṇacitre) [and](ca) [cow-loss](gonāśaḥ) [he](saḥ) [many-disease-maker](anekavyādhikāraka)
+[on+black+picture](kṛṣṇacitre) [and](ca) [cow+destruction](gonāśaḥ) [he+many+disease+maker](so'nekavyādhikāraka)
 
 ## mukta-m0-p20-v481
-[seven](sapta) [these](etāni) [indeed](tu) [paintings](citrāṇi) [to-be-known](jñeyāni) [by-external-marks](bāhyalakṣaṇaiḥ)
+[seven](saptaitāni) [indeed](tu) [these](citrāṇi) [known](jñeyāni) [by+external+signs](bāhyalakṣaṇaiḥ)
 
 ## mukta-m0-p20-v482
-[by-four-modification-difference](caturvikārabhedena) [womb](garbhaṃ) [know](vidyāt) [by-plaster](pralepataḥ)
+[by+four+modification+difference](caturvikārabhedena) [womb](garbhaṃ) [know](vidyāt) [by+plaster](pralepataḥ)
 
 ## mukta-m0-p20-v483
-[saurāṣṭrī](saurāṣṭrī) [with-palm](tālasaṃyuktā) [with-sauvīra](sauvīreṇa) [and](ca) [grind](peṣayet)
+[saurashtrian](saurāṣṭrī) [with+palm](tālasaṃyuktaṃ) [with+sauvira](sauvīreṇa) [and](ca) [grind](peṣayet)
 
 ## mukta-m0-p20-v484
-[bhṛṅgāhī](bhṛṅgāhī) [black-fish](kṛṣṇamatsyaṃ) [or](vā) [knowing](jñātvā) [those](tāḥ) [fault-giving](doṣadāḥ) [abandon](tyajet)
+[bh-ringa+snake](bhṛṅgāhī) [black+fish](kṛṣṇamatsyaṃ) [or](vā) [knowing](jñātvā) [those](tā) [fault+giving](doṣadāstyajet)
 
 ## mukta-m0-p20-v485
-[ground-thus](piṣṭvā) [equal-part](samabhāgaṃ) [indeed](tu) [woman](nārī) [with-milk](kṣīreṇa) [smear](lepayet)
+[ground+thus](piṣṭavaivaṃ) [equal+part](samabhāgaṃ) [then](tu) [woman](nārī) [with+milk](kṣīreṇa) [anoint](lepayet)
 
 ## mukta-m0-p20-v486
-[by-that](tena) [maker's](kartuḥ) [death](mṛtyuḥ) [therefore](tasmāt) [her](tāṃ) [in-water](salile) [throw](kṣipet)
+[by+that](tena) [maker's](karturbhaven) [death](mṛtyustasmāttāṃ) [in+water](salile) [throw](kṣipet)
 
 ## mukta-m0-p20-v487
-[day-night-stayed](ahorātroṣite) [blood](raktaṃ) [to-be-abandoned](tyājyam) [with-turtle-marked](ūrmānvitaṃ) [and](ca) [which](yat)
+[day+night+stayed](ahorātroṣite) [blood](raktaṃ) [reject](tyājyamūrmānvitaṃ) [and](ca) [that](yat)
 
 ## mukta-m0-p20-v488
-[sharp](tīkṣṇaṃ) [with-rudrajaṭā](rudrajaṭāyuktam) [with-goat-milk](avikṣīraiḥ) [grind](prapeṣya) [and](ca)
+[sharp](tīkṣṇaṃ) [with+rudrajaṭā](rudrajaṭāyuktamavikṣīraiḥ) [grind](prapeṣya) [and](ca)
 
 ## mukta-m0-p20-v489
-[of-two](dvayoḥ) [double-formed](dvirūpakaṃ) [in-womb](garbhe) [knowing](jñātvā) [before-fault-giving](prāgdoṣadāṃ) [abandon](tyajet)
+[of+two](dvayordvirūpakaṃ) [in+womb](garbhe) [knowing](jñātvā) [before+fault+giving](prāgdoṣadāṃstyajet)
 
 ## mukta-m0-p20-v490
-[of-maker](kartuḥ) [that-family-heart](tatkulahṛt) [certainly](nūnaṃ) [to-teacher](guroḥ) [give](dadyāt) [decay-disease](kṣayāmayam)
+[of+maker](kartustatkulahṛnnūnaṃ) [to+teacher](gurordadyātkṣayāmayam)
 
 ## mukta-m0-p20-v491
-[by-hammer-blow](ṭaṅkāghātāt) [split-formed](bhidākārī) [joint](sandhiḥ) [maker-destroying](kartṛvināśakaḥ)
+[by+tank+blow](ṭaṅkāghātādbhidākārī) [joint](sandhiḥ) [maker+destroyer](kartṛvināśakaḥ)
 
 ## mukta-m0-p20-v492
-[bubble](sphoṭaṃ) [cracked](sphuṭitakaṃ) [know](vidyāt) [by-weapon-blow](śastraghātāt) [end-giving](antadāyakam)
+[bubble](sphoṭaṃ) [cracked](sphuṭitakaṃ) [know](vidyācchastraghātāntadāyakam)
 
 ## mukta-m0-p20-v493
-[sky-shaped](vyomākāro) [becomes](bhaved) [sky](vyomaḥ) [so](saḥ) [quickly-maker-destroying](acirātkartṛnāśakaḥ)
+[sky+shaped](vyomākāro) [becomes](bhavedvyoma) [so+soon+maker+destroyer](so'cirātkartṛnāśakaḥ)
 
 ## mukta-m0-p20-v494
-[by-that](tayā) [maker-progeny-destruction](kartṛprajānāśaḥ) [quickly](śīghram) [indeed](eva) [no](na) [doubt](saṃśayaḥ)
+[by+that](tayā) [maker+offspring+destruction](kartṛprajānāśaḥ) [quickly+indeed](śīghrameva) [no+doubt](na) [saṃśayaḥ)
 
 ## mukta-m0-p20-v495
-[therefore](tena) [make](kuryāt) [not](na) [marks](liṅgāni) [made](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
+[therefore](tena) [make+not](kuryānna) [marks](liṅgāni) [done](kṛte) [and](ca) [two](dvau) [perish](vinaśyataḥ)
 
 ## mukta-m0-p20-v496
 [yellow](pītaṃ) [white](sitaṃ) [and](tathā) [black](kṛṣṇaṃ) [red](raktaṃ) [blue](nīlaṃ) [and](ca) [mixed](miśrakam)
 
 ## mukta-m0-p20-v497
-[nine-and-half](navatyardhaṃ) [great-faults](mahādoṣāḥ) [difference-divided](bhedabhinnaḥ) [thus](iti) [remembered](smṛtāḥ)
+[nine+half](navatyardhaṃ) [great+faults](mahādoṣā) [difference+separate](bhedabhinno) [thus](iti) [remembered](smṛtāḥ)
 
 ## mukta-m0-p20-v498
-[brahmopendra-division-standing](brahmopendravibhāgasthān) [threefold](tridhā) [in-marks](liṅgeṣu) [fault-giving](doṣadān)
+[brahma+upa+indra+division+placed](brahmopendravibhāgasthāṃstridhā) [on+marks](liṅgeṣvadoṣadān)
 
 ## mukta-m0-p20-v499
-[vein](śirā) [with-knots-and-husks](granthituṣāraiḥ) [and](ca) [pure](vimalaṃ) [give](dadu) [with-dots](bindubhiḥ)
+[vein](śirā) [knot+tuṣāra](granthituṣāraiśca) [pure](vimalaṃ) [give](dadu) [with+dots](bindubhiḥ)
 
 ## mukta-m0-p20-v500
-[cat](viḍāla) [horse](aśva) [camel](uṣṭra) [jackal](gomāyu) [crow](kāka) [foot-marked](pādāṅkitān) [abandon](tyajet)
+[cat+horse+camel+jackal+crow+foot+marked](viḍālāśvoṣṭragomāyukākapādāṅkitāṃstyajet)
