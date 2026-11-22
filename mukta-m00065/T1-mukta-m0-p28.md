@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[new-increase-end-genitive](navāvadhikarāntasya) [void-fault](śūnyadoṣo) [not](na) [of-anyone](kasyacit)
+navāvadhikarāntasya śūnyadoṣo na kasyacit
 
 ## mukta-m0-p28-v677
-[threefold](tridhā) [by-measure](mānena) [and-one](caikena) [sixteen-angled](ṣoḍaśāsraṃ) [two-hundred](śatadvayam)
+tridhā mānena caikena ṣoḍaśāsraṃ śatadvayam
 
 ## mukta-m0-p28-v678
-[four-eight-six-angled](caturaṣṭaṣaḍasraṃ) [tu](tu) [indra-marked](indrāṅkaṃ) [vajra-shaped](vajrarūpakam)
+caturaṣṭaṣaḍasraṃ tu indrāṅkaṃ vajrarūpakam
 
 ## mukta-m0-p28-v679
-[bindu-contact-union](bindusaṃpātsaṃyogāt) [obliquely-threads](tiryaksūtrair) [revolve](vivartayet)
+bindusaṃpātsaṃyogāttiryaksūtrairvivartayet
 
 ## mukta-m0-p28-v680
-[vasu-angled-above](vasvasrordhvaṃ) [tu](tu) [seven-angled](saptāsraṃ) [by-power](śaktyā) [fiery](āgneya) [burning](ca) [maker](dāhakṛt)
+vasvasrordhvaṃ tu saptāsraṃ śaktyāgneya ca dāhakṛt
 
 ## mukta-m0-p28-v681
-[not-heart-half](nāhārdhaṃ) [ninefold](navadhā) [having-made](kṛtvā) [arrows](śarair) [heart-back-corners](hṛtpṛṣṭhakoṭibhiḥ)
+nāhārdhaṃ navadhā kṛtvā śarairhṛtpṛṣṭhakoṭibhiḥ
 
 ## mukta-m0-p28-v682
-[thus](evaṃ) [ca](cā) [eight-angled-surrounded](aṣṭāsravṛtaṃ) [would-be](syāt) [south-staff](yāmyadaṇḍaṃ) [disease-giving](rujapradam)
+evaṃ cāṣṭāsravṛtaṃ syādyāmyadaṇḍaṃ rujapradam
 
 ## mukta-m0-p28-v683
-[eight-angled-half](aṣṭāsro'rdha) [ten-angled](daśāstraṃ) [would-be](syāt) [sword-like](khaḍgābhaṃ) [rakshasa](rākṣasaṃ) [fear](bhayam)
+aṣṭāsro'rdha daśāstraṃ syātkhaḍgābhaṃ rākṣasaṃ bhayam
 
 ## mukta-m0-p28-v684
-[four-eight-angled-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [noose-like](pāśavat) [varuna](vāruṇaṃ) [auspicious](śubham)
+caturaṣṭāsravṛttaṃ syātpāśavadvāruṇaṃ śubham
 
 ## mukta-m0-p28-v685
-[thin](kṛśaṃ) [front-form](prāgrūpakaṃ) [long](dīrghaṃ) [moving](calam) [uprooting](uccāṭakṛt) [banner](dhvajam)
+kṛśaṃ prāgrūpakaṃ dīrghaṃ calamuccāṭakṛddhvajam
 
 ## mukta-m0-p28-v686
-[yaksha](yākṣaṃ) [mace-top-headed](gadāgramūrdhānaṃ) [strength-increase](balavṛddhikaraṃ) [auspicious](śivam)
+yākṣaṃ gadāgramūrdhānaṃ balavṛddhikaraṃ śivam
 
 ## mukta-m0-p28-v687
-[four-five-angled](catuḥpañcāsrakaṃ) [three-angled](tryasraṃ) [trident](śūlaṃ) [fierce](raudraṃ) [tu](tu) [liberation-giving](muktidam)
+catuḥpañcāsrakaṃ tryasraṃ śūlaṃ raudraṃ tu muktidam
 
 ## mukta-m0-p28-v688
-[eight-angled-half](aṣṭāsro'rdhaṃ) [ca](ca) [four-angled](vedāsraṃ) [brahma](brāhmaṃ) [to-heaven](svargāya) [lotus-like](padmavat)
+aṣṭāsro'rdhaṃ ca vedāsraṃ brāhmaṃ svargāya padmavat
 
 ## mukta-m0-p28-v689
-[four-eight-angled-surrounded](caturaṣṭāsravṛttaṃ) [would-be](syāt) [vaishnava](vaiṣṇavaṃ) [conch-like](śaṅkhavat) [auspicious](śubham)
+caturaṣṭāsravṛttaṃ syādvaiṣṇavaṃ śaṅkhava cchubham
 
 ## mukta-m0-p28-v690
-[from-rudra-three-less](rudrāttrihānitaḥ) [shell](śuktir) [staff](daṇḍo) [from-directions-three-less](digbhyastrihānitaḥ)
+rudrāttrihānitaḥ śuktirdaṇḍo digbhyastrihānitaḥ
 
 ## mukta-m0-p28-v691
-[cock-egg](kukkuṭāṇḍaṃ) [ca](ca) [northwest](vāyavye) [from-beings-parts](bhūtāṃśāddhi) [where](yate) [mace](gadā)
+kukkuṭāṇḍaṃ ca vāyavye bhūtāṃśāddhi yate gadā
 
 ## mukta-m0-p28-v692
-[right-egg-portion](dakṣāṇḍabhaja) [vaishnava](vaiṣṇośca) [thus](ittha) [line](rekhā) [of-gem](maṇerapi)
+dakṣāṇḍabhaja vaiṣṇośca ittha rekhā maṇerapi
 
 ## mukta-m0-p28-v693
-[split](sphuṭitaṃ) [like-embryo](garbhavaddaṣṭaṃ) [place](sthāpayed) [ābhivārika](ābhivārike)
+sphuṭitaṃ garbhavaddaṣṭaṃ sthāpayedābhivārike
 
 ## mukta-m0-p28-v694
-[manifest-signs](vyaktaliṅgāni) [ca](cā) [others](anyāni) [various](nānā) [forms](rūpāṇi) [I-speak](vacmyataḥ)
+vyaktaliṅgāni cānyāni nānā rūpāṇi vacmyataḥ
 
 ## mukta-m0-p28-v695
-[thus](iti) [characteristics-collection](lakṣaṇasamuccaye) [unmanifest-sign-characteristic](avyaktaliṅgalakṣaṇaṃ) [named](nāma) [fourth](caturtho) [rite](vidhiḥ)
+iti lakṣaṇasamuccaye'vyaktaliṅgalakṣaṇaṃ nāma caturtho vidhiḥ
 
 ## mukta-m0-p28-v696
-[former-angula-measure](pūrvāṅgulapramāṇena) [ten-five-angula-angula](daśapañcāṅgulāṅgulāt)
+pūrvāṅgulapramāṇena daśapañcāṅgulāṅgulāt
 
 ## mukta-m0-p28-v697
-[sometimes-hand-measure](kvaciddhastapramāṇā) [sā](sā) [sometimes-thirty-angula](kvacicca) [triṃśadaṅgulā](triṃśadaṅgulā)
+kvaciddhastapramāṇā sā kvacicca triṃśadaṅgulā
 
 ## mukta-m0-p28-v698
-[door-height](dvārocchrayaṃ) [dividing](vibhajyādāv) [eight-portion](aṣṭadhaukaṃ) [having-made](vidhāya) [ca](ca)
+dvārocchrayaṃ vibhajyādāvaṣṭadhaukaṃ vidhāya ca
 
 ## mukta-m0-p28-v699
-[to-be-made](vidhātavyā) [two-parts](dvibhāgena) [smaller](kanyasī) [image](pratimā) [ca](ca) [sā](sā)
+vidhātavyā dvibhāgena kanyasī pratimā ca sā
 
 ## mukta-m0-p28-v700
-[middle](madhyamā) [would-be](syāt) [two-parts](dvibhāgena) [to-be-made-one-part](kāryaikāṃśena) [pedestal](pīṭhikā)
+madhyamā syāddvibhāgena kāryaikāṃśena pīṭhikā
