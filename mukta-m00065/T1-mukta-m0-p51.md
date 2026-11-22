@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-[tasmāt](tasmāt) [liṅga-anugaṃ](liṅgānugaṃ) [pīṭhaṃ](pīṭhaṃ) [kartavyaṃ](kartavyaṃ) [kartṛ-jīvane](kartṛjīvane)
+therefore-linga-following pedestal should-be-made maker-life
 
 ## mukta-m0-p51-v1252
-[yadi](yadi) [syāt](syāt) [pīḍyate](pīḍyate) [rogaiḥ](rogaiḥ) [kartā](kartā) [rāṣṭraṃ](rāṣṭraṃ) [guruḥ](gurūḥ) [tathā](tathā)
+if be afflicted diseases maker kingdom guru likewise
 
 ## mukta-m0-p51-v1253
-[ucchrayeṇa](ucchrayeṇa) [tri-liṅgānāṃ](triliṅgānāṃ) [na](na) [nyūnaḥ](nyūno) [na](na) [adhikaḥ](adhiko) [hareḥ](hareḥ)
+by-height three-lingas not less not more of-Hari
 
 ## mukta-m0-p51-v1254
-[muni-sārdha-adhikaiḥ](munisārdhādhikaiḥ) [śambhuṃ](śambhuṃ) [kuryāt](kuryād) [āḍhyaṃ](āḍhyaṃ) [vasoḥ](vasor) [harim](harim)
+by-sages-half-more Shambhu should-make wealthy vasu-Hari
 
 ## mukta-m0-p51-v1255
-[pāda-ūna-aṣṭāṃśataḥ](pādonāṣṭāṃśato) [brahmā](brahmā) [kāryaṃ](kāryaṃ) [ca](ca) [an-āḍhyakaṃ](anāḍhyakaṃ) [kvacit](kvacit)
+quarter-eighth Brahma should-be-made sometimes not-wealthy
 
 ## mukta-m0-p51-v1256
-[ekaṃ](ekaṃ) [sura-arcite](surārcite) [liṅge](liṅge) [brahmā](brahmā) [sapta-aṃśake](saptāṃśake) [dhruvam](dhruvam)
+one in-worshipped-linga Brahma seven-parts certainly
 
 ## mukta-m0-p51-v1257
-[sitādi-varṇa-avarṇānāṃ](sitādivarṇāvarṇānāṃ) [pīṭha-ādyāḥ](pīṭhādyā) [na](na) [vivarṇa-jāḥ](vivarṇajāḥ)
+white-etc-colors pedestal-etc not colorless-born
 
 ## mukta-m0-p51-v1258
-[ratna-jāḥ](ratnajā) [vā](vā) [atha](atha) [lohaiḥ](lohair) [vā](vā) [viśeṣāt](viśeṣāt) [kīrtaye](kīrtaye) [adhunā](adhunā)
+jewel-born or metal-born especially for-glory now
 
 ## mukta-m0-p51-v1259
-[vaiḍūrya-ādi-uttame](vaiḍūryādyuttame) [nityaṃ](nityaṃ) [hema-jā](hemajā) [piṇḍikā](piṇḍikā) [varā](varā)
+vaidurya-etc best always gold-born base best
 
 ## mukta-m0-p51-v1260
-[bhāga-drayam-athikaṃ](bhāgadrayamathikaṃ) [vā](vā) [vinyaset](vinyaset) [piṇḍikā-vaṭau](piṇḍikāvaṭau)
+three-parts-more or place in-base-pit
 
 ## mukta-m0-p51-v1261
-[mekhalā-ādi-vibhāgaḥ](mekhalādivibhāgo) [asyāḥ](asyāḥ) [pūrvavat](pūrvavat) [samudāhṛtaḥ](samudāhṛtaḥ)
+girdle-etc division its as-before stated
 
 ## mukta-m0-p51-v1262
-[na](na) [nyūnaṃ](nyūnaṃ) [na](na) [adhikaṃ](adhikaṃ) [mānāt](mānāt) [śobhanaṃ](śobhanaṃ) [śvabhraṃ](śvabhram) [iṣyate](iṣyate)
+not less not more measure beautiful pit desired
 
 ## mukta-m0-p51-v1263
-[pīṭha-doṣāt](pīṭhadoṣāt) [kṣayaḥ](kṣayo) [nāryāḥ](nāryāḥ) [kartuṃ](kartuṃ) [ca](ca) [sarvadā](sarvadā)
+pedestal-fault destruction woman maker always
 
 ## mukta-m0-p51-v1264
-[bhukti-mukti-ubhaya-prāptyai](bhuktimuktyubhayaprāptyai) [anyaḥ](anyaḥ) [kāmyasya](kāmyasya) [hetave](hetave)
+enjoyment-liberation-both attainment other desired cause
 
 ## mukta-m0-p51-v1265
-[padma-ardha-indu-gaṇa-ākhyā](padmārdhendugaṇākhyā) [ca](ca) [kāmadā](kāmadā) [śubha-mastake](śubhamastake)
+lotus-half-moon-number named desire-giving auspicious-head
 
 ## mukta-m0-p51-v1266
-[dvi-mekhalā](dvimekhalā) [ca](ca) [veda-asrā](vedāsrā) [bhadrā](bhadrā) [yoga-ṛddhi-dāyinī](yogarddhidāyinī)
+two-girdle and Veda-arrows Bhadra yoga-prosperity-giving
 
 ## mukta-m0-p51-v1267
-[ṣaḍ-asrā](ṣaḍasrā) [āyuḥ](āyuḥ) [pradā](pradā) [vajrī](vajrī) [mekhalā-tritaya-anvitā](mekhalātritayānvitā)
+six-arrows life-giving vajra three-girdle-endowed
 
 ## mukta-m0-p51-v1268
-[maṇḍalā](maṇḍalā) [pūrṇa-candra-ābhā](pūrṇacandrābhā) [tu](tu) [artha-dā](arthadā) [pañca-mekhalā](pañcamekhalā)
+mandala full-moon-like wealth-giving five-girdle
 
 ## mukta-m0-p51-v1269
-[candra-ambu-rupa-parāmai](candrāmburuparāmai) [kāgni-dyaṃśaiḥ](kāgnidyaṃśaiḥ) [tithi](tithi) [bhājitaiḥ](bhājitaiḥ)
+moon-water-form-supreme fire-part-tithi divided
 
 ## mukta-m0-p51-v1270
-[vṛttā](vṛttā) [padma-puṭa-ākārā](padmapuṭākārā) [karṇikā](karṇiko) [bhaya-cumbitā](bhayacumbitā)
+round lotus-cup-shaped karṇika fear-kissed
 
 ## mukta-m0-p51-v1271
-[aṣṭa-koṇā](aṣṭakoṇā) [gaṇa-ākhyātā](gaṇākhyātā) [mukti-dā](muktidā) [syāt](syāt) [dvi-mekhalā](dvimekhalā)
+eight-cornered group-named liberation-giving two-girdle
 
 ## mukta-m0-p51-v1272
-[pūrva-ukta-mekhalā-garta-nāla-kādi-samanvitā](pūrvoktamekhalāgartanālakādisamanvitā)
+previously-said girdle-pit-stalk-etc endowed
 
 ## mukta-m0-p51-v1273
-[vistara-ucchraya-nāla-ādi](vistarokchrayanālādi) [sarvaṃ](sarbaṃ) [pūrva-uditaṃ](pūrvoṃditaṃ) [kramāt](kramāt)
+width-height-stalk-etc all previously-mentioned in-order
 
 ## mukta-m0-p51-v1274
-[saṃveṣṭya](saṃveṣṭya) [vartayet](vartayet) [piṇḍīṃ](piṇḍīṃ) [kartuḥ](kartuḥ) [kāma-prasādhikam](kāmaprasādhikam)
+wrapping make-base maker desire-accomplishing
 
 ## mukta-m0-p51-v1275
-[mārūtīṃ](mārūtīṃ) [dhānadīṃ](dhānadīṃ) [raudrīṃ](raudrīṃ) [vaiṣṇāvīṃ](vaiṣṇāvīṃ) [brahma-jāṃ](brahmajāṃ) [sadā](sadā)
+Maruti wealth-giving Rudri Vaishnavi Brahma-born always
