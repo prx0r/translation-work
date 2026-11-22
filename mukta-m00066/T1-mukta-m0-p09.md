@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p09-v201
-upper-part great-siddhi foam-net-covered
+[upper-bank](uttaraṃge) [great-siddhi](mahāsiddhau) [foam-net-covered](phenajālasamāvṛte)
 
 ## mukta-m0-p09-v202
-repeated-sounding and river-stream-crowded
+[repeatedly-sounding](muhuḥśabdāyamāne) [and](ca) [river-stream-filled](nadīnadasamākule)
 
 ## mukta-m0-p09-v203
-various-flower-group-fragrance wandering-flower-drinking-bee-swarm
+[various-flower-fragrance](nānāpuṣpagaṇāmoda) [wandering-bee-swarm](bhrāṃtapuṣpaṃdhayabrajam)
 
 ## mukta-m0-p09-v204
-meditate O-Maheśānī in-middle golden-temple
+[should-contemplate](viciṃtayen) [O-great-goddess](maheśāni) [in-middle](tanmadhye) [golden-temple](hemamaṃdiram)
 
 ## mukta-m0-p09-v205
-fourfold-goal fruit-attainment cause sorrow-removal
+[four-goals](caturvarga) [fruit-attainment](phalaprāpti) [cause](kāraṇaṃ) [sorrow-removal](śokavāraṇam)
 
 ## mukta-m0-p09-v206
-various-gem wonderful pillars new-beauty
+[various-gems](nānāmaṇi) [variegated](vicitrāṇāṃ) [pillars](staṃbhānāṃ) [new-splendor](navaśobhayā)
 
 ## mukta-m0-p09-v207
-moonlight surrounded young-sun-reddened
+[moonlight](caṃdrikābhiḥ) [surrounded](parivṛtaṃ) [young-sun-reddened](bālātapavilohitam)
 
 ## mukta-m0-p09-v208
-bow-armed Kāma protected from-here-there
+[well-bowed](sajjacāpena) [by-Kama](kāmena) [protected](rakṣyamāṇam) [here-there](itastataḥ)
 
 ## mukta-m0-p09-v209
-longing deity-given fan-fanning
+[longing](utkaṇṭhā) [gods-given](devatādatta) [fan](vālavyajanavījanam)
 
 ## mukta-m0-p09-v210
-enjoyment-instruments endowed various and drinking-fountains
+[enjoyment-implements](bhogopakaraṇaiḥ) [equipped](yuktaṃ) [various](vividhaiḥ) [and](ca) [drinks](prapānakaiḥ)
 
 ## mukta-m0-p09-v211
-jest-conversation-skilled servant groups charming
+[jest-conversation-skilled](narmālāpakasābhijñaiḥ) [servant-groups](ceṭi) [classes](vargair) [charming](manoharam)
 
 ## mukta-m0-p09-v212
-treasure-deity endowed silk-cloth adorned
+[treasure-deity](nidhidevatayā) [equipped](yuktaṃ) [silk-cloth](paṭṭāṃśuka) [adorned](pariṣkṛtam)
 
 ## mukta-m0-p09-v213
-various-gem-filled four-pillar-adorned
+[various-gems-filled](nānāratnasamākīrṇaṃ) [four-pillar-adorned](catustaṃbhopaśobhitām)
 
 ## mukta-m0-p09-v214
-there-pillar-pair-attached horizontal-wood-suspended
+[there-pillar-pair-attached](tatrastaṃbhadvayāsakta) [crosswise-wood-hung](tiryagdārupalaṃbite)
 
 ## mukta-m0-p09-v215
-couch high-low gem-light cage-direction-facing
+[couch](maṃcam) [high-low](uccāvaca) [gem-light](maṇijyotiḥ) [cage-direction-facing](piṃjaradiṅmukham)
 
 ## mukta-m0-p09-v216
-Sadāśiva-body placed well-born plank-shining
+[Sadashiva-form](sadāśivavapuḥ) [thrown](kṣipta) [well-born-plank](sujātaphalakojvalam)
 
 ## mukta-m0-p09-v217
-extremely soft pleasing milk-ocean white-complexion
+[extremely-soft](atyaṃta) [soft](mṛdulaṃ) [heart-pleasing](hṛdyaṃ) [milk-ocean](kṣīrābdhi) [white-radiance](dhavalacchaviḥ)
 
 ## mukta-m0-p09-v218
-saffron-garment new young-sun resembling remember
+[saffron-garment](kausuṃbhavasanaṃ) [new](navyaṃ) [young-sun-like](bālārka) [similar](sadṛśaṃ) [remember](smaret)
 
 ## mukta-m0-p09-v219
-tied-braid-lock musk-tilaka shining
+[raised-braid](unnaddhakabarīpāśaṃ) [musk-tilaka-shining](kastūrītilakojvalam)
 
 ## mukta-m0-p09-v220
-pearl-necklace charming adorned neck
+[pearl-necklace](muktāhāreṇa) [charming](ramyeṇa) [adorned-neck](vibhūṣitaśirodharam)
 
 ## mukta-m0-p09-v221
-always joined-instrument? sky-garment own-form
+[always](satataṃ) [equipped-instrument](yuktayaṃtratvādanaṃbara) [own-form](nijākṛtim)
 
 ## mukta-m0-p09-v222
-nail-scratches and various kisses and hundreds
+[nail-scratches](nakhakṣataiḥ) [various](vividhaiḥ) [kisses](cuṃbanaiḥ) [hundreds](paraḥśataiḥ)
 
 ## mukta-m0-p09-v223
-limbs many-arrangements embraces many-varieties
+[acts](karaṇaiḥ) [many-arrangements](bahuvinyāsai) [embraces](rāśleṣaiḥ) [many-kinds](bahubhedibhiḥ)
 
 ## mukta-m0-p09-v224
-that goddess according-to-that-meditation order mindful remember
+[that-goddess](tāṃ) [devīm](devīm) [with-that-meditation](apitaddhyāna) [order](krameṇa) [mindful](matimān) [remember](smaret)
 
 ## mukta-m0-p09-v225
-oneself unagitated becoming steady-senses-mind
+[oneself](svayam) [unagitated](avyākula) [becoming](bhūtvā) [steady-senses-mind](niścalendriyamānasaḥ)
