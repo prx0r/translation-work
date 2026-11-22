@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[being](bhūta) [becoming](bhāvi) [manifesting](vibhāvinī) [feminine](ī)
+bhūta-being bhāvi-becoming vibhāvinī-manifesting
 
 ## mukta-m0-p71-v1752
-[other](anyaḥ) [who](kaḥ) [beginning-end](sadādyantaḥ) [you](tvāṃ) [to-manifest](vibhāvayituṃ) [able](kṣamaḥ)
+ataḥ-therefore anyaḥ-other kaḥ-who sadā-always ādi-beginning antaḥ-end tvām-you vibhāvayitum-to-manifest kṣamaḥ-able
 
 ## mukta-m0-p71-v1753
-[auspicious](maṅgalā) [goddess](devī) [always](sadā) [companion](sahāyā)
+maṅgalā-auspicious
 
 ## mukta-m0-p71-v1754
-[she](sā) [auspicious](maṅgalā) [his](asya) [always](sadā) [companion](sahāyā)
+sā-she maṅgalā-auspicious astu-be asya-his sadā-always sahāyā-companion
 
 ## mukta-m0-p71-v1755
-[good-character](suśīlā) [goddess](devī) [self](svayaṃ) [if](yadi)
+suśīlā-good-natured
 
 ## mukta-m0-p71-v1756
-[self](svayaṃ) [good-character](suśīlā) [if](yadi) [not](na) [would-be](abhaviṣyaḥ)
+svayam-herself suśīlā-good-natured yadi-if na-not abhaviṣyaḥ-would-be
 
 ## mukta-m0-p71-v1757
-[supreme-meaning](paramārtha) [awakening](prabodhikā) [goddess](devī) [always](sadā)
+paramārtha-ultimate-truth prabodhikā-awakener
 
 ## mukta-m0-p71-v1758
-[by-attainment](yadāptyā) [wandering](bhrāmaka) [other](anyān) [harms](arthāñ) [know](jānāmi) [like-grass](śaṣpavat)
+yadā-when āptyā-by-attainment bhrāmakān-wandering anyān-other arthān-meanings jānāmi-I-know śaṣpavat-like-grass
 
 ## mukta-m0-p71-v1759
-[right](dakṣiṇā) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+dakṣiṇā-gracious
 
 ## mukta-m0-p71-v1760
-[whence](yataḥ) [thence](tataḥ) [wise](prajñaiḥ) [right](dakṣiṇā) [thus](iti) [praised](prakīrtyase)
+yataḥ-since tataḥ-then tataḥ-then taprajñaiḥ-by-knowers dakṣiṇā-gracious iti-thus prakīrtyase-are-praised
 
 ## mukta-m0-p71-v1761
-[right-facing-form](dakṣiṇāmūrtiḥ) [goddess](devī) [teacher](guru) [form](mūrtiḥ)
+dakṣiṇāmūrtiḥ-gracious-form
 
 ## mukta-m0-p71-v1762
-[she](sā) [right-facing-form](dakṣiṇāmūrtiḥ) [thus](iti) [famous](prasiddhā)
+sā-she dakṣiṇāmūrtiḥ-gracious-form iti-thus prasiddhā-famous
 
 ## mukta-m0-p71-v1763
-[very-right](sudakṣiṇā) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+sudakṣiṇā-very-gracious
 
 ## mukta-m0-p71-v1764
-[truth](satyaṃ) [then](tato) [goddess](devi) [very-right](sudakṣiṇā) [you-are](asi)
+satyam-truth tataḥ-then devi-goddess sudakṣiṇā-very-gracious asi-you-are
 
 ## mukta-m0-p71-v1765
-[viṣṇu-beloved](haripriyā) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+haripriyā-Hari's-beloved
 
 ## mukta-m0-p71-v1766
-[viṣṇu](śauriḥ) [by-mercy](dayayā) [goddess](devī) [praised](kīrtitā) [she](sā) [viṣṇu-beloved](haripriyā)
+śauriḥ-Krishna yadā-when dayayā-by-grace devī-goddess kīrtitā-praised sā-she haripriyā-Hari's-beloved
 
 ## mukta-m0-p71-v1767
-[yoginī](yoginī) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+yoginī-yogini
 
 ## mukta-m0-p71-v1768
-[disease-sorrow-removed](rogaśokavinivartitā) [mind](āśayā) [yoginī](yoginī) [fortunate-yoga-giver](subhagayogadā) [let-be](astu) [she](sā)
+roga-disease śoka-grief vinivartitā-removed āśayā-intention yoginī-yogini subhaga-auspicious yoga-dā-giver astu-be sā-she
 
 ## mukta-m0-p71-v1769
-[yoga-united](yogayuktā) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+yogayuktā-yoga-united
 
 ## mukta-m0-p71-v1770
-[consciousness-bliss](cidānanda) [indeed](eva) [which](yat) [eternal](nityaṃ) [yoga-united](yogayuktā) [then](tataḥ) [by-self](svataḥ)
+cidānanda-consciousness-bliss eva-only yadā-when nityam-eternally yogayuktā-yoga-united tataḥ-then svataḥ-by-herself
 
 ## mukta-m0-p71-v1771
-[yoga-limb](yogāṅgā) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+yogāṅgā-yoga-limb
 
 ## mukta-m0-p71-v1772
-[afflicted-ones](āpannānām) [calamity-end](āpadanta) [single-cause](ekahetuḥ) [yoga-limb](yogāṅgā) [this](eyaṃ) [praised](kīrtitā) [yoga-lords](yogināthaiḥ)
+āpannānām-of-the-afflicted āpad-anta-end eka-hetū-one-cause yogāṅgā-yoga-limb iyam-this kīrtitā-praised yogināthaiḥ-by-yoga-lords
 
 ## mukta-m0-p71-v1773
-[meditation-endowed](dhyānaśālinī) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+dhyānaśālinī-meditation-endowed
 
 ## mukta-m0-p71-v1774
-[all-meditable](sarvadhyeyā) [all](sarvā) [you-are](asi) [you](tvaṃ) [whose](yasya) [meditation-endowed](dhyānaśālinī)
+sarva-all dhyeyā-meditatable api-also sarvā-all asi-you-are tvam-you yasya-whose dhyānaśālinī-meditation-endowed
 
 ## mukta-m0-p71-v1775
-[yoga-band-wearer](yogapaṭṭadharā) [goddess](devī) [always](sadā) [auspicious](maṅgalā)
+yogapaṭṭadharā-yoga-band-wearer
