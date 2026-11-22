@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[worlds-of](lokānāṃ) [auspicious-increase-giving](śubhavṛddhidāyakam) [this](idaṃ) [vessel](pātraṃ) [second](dvitīyaṃ) [salutation](namaḥ)
+[worlds'](lokānāṃ) [auspicious+growth+giving](śubhavṛddhidāyakam) [this](idaṃ) [vessel](pātraṃ) [second](dvitīyaṃ) [salutation](namaḥ)
 
 ## mukta-m0-p46-v1127
-[protect](pāyāt) [five-syllable-essence-with](pañcamakāratattvasahitaṃ) [vessel](pātraṃ) [third](tṛtīyaṃ) [salutation](namaḥ)
+[protect](pāyāt) [five-syllable-principle-accompanied](pañcamakāratattvasahitaṃ) [vessel](pātraṃ) [third](tṛtīyaṃ) [salutation](namaḥ)
 
 ## mukta-m0-p46-v1128
-[that-vessel](tatpātrañca) [all-merit-happiness-giving](samastapuṇyasukhadaṃ) [vessel](pātraṃ) [fourth](caturthaṃ) [salutation](namaḥ)
+[that+vessel](tatpātrañca) [all+merit+bliss+giving](samastapuṇyasukhadaṃ) [vessel](pātraṃ) [fourth](caturthaṃ) [salutation](namaḥ)
 
 ## mukta-m0-p46-v1129
-[yellow-brahma-essence](pītabrahmarasaṃ) [always-raised-hand](sadodyatakaraṃ) [vessel](pātraṃ) [worship](bhaje) [fivefold](pañcakam)
+[yellow+brahma+rasa](pītabrahmarasaṃ) [always+raised+hand](sadodyatakaraṃ) [vessel](pātraṃ) [worship](bhaje) [fivefold](pañcakam)
 
 ## mukta-m0-p46-v1130
-[glorious](śrīmat) [beautiful](sundarī) [libation](tarpaṇaṃ) [liquid-essence](dravarasaṃ) [vessel](pātrañca) [sixth](ṣaṣṭhaṃ) [worship](bhaje)
+[glorious](śrīmat) [beautiful](sundarī) [libation](tarpaṇaṃ) [liquid+rasa](dravarasaṃ) [vessel](pātrañca) [sixth](ṣaṣṭhaṃ) [worship](bhaje)
 
 ## mukta-m0-p46-v1131
-[vessel](pātraṃ) [seventh-filling](saptamapūraṇe) [world-fear-joy-more](bhavabhayānando'dhikaḥ) [protect](pātu) [me](mām)
+[vessel](pātraṃ) [seventh+filling](saptamapūraṇe) [world+fear+joy+more](bhavabhayānando'dhikaḥ) [protect](pātu) [me](mām)
 
 ## mukta-m0-p46-v1132
-[vessel](pātrañcāṣṭamam) [eight-siddhi-making](aṣṭasiddhikaraṇaṃ) [mature](prauḍha) [pleased](prasannaṃ) [always](sadā)
+[vessel](pātrañcāṣṭamam) [eight+siddhi+making](aṣṭasiddhikaraṇaṃ) [mature](prauḍha) [pleased](prasannaṃ) [always](sadā)
 
 ## mukta-m0-p46-v1133
-[vessel](pātraṃ) [which](yannavanāthaśaktisahitaṃ) [all-aims-accomplishing](sarvārthasiddhipradam)
+[vessel](pātraṃ) [which+nine+lord+shakti+accompanied](yannavanāthaśaktisahitaṃ) [all+aims+accomplishment+giving](sarvārthasiddhipradam)
 
 ## mukta-m0-p46-v1134
-[thus](iti) [glorious-all-bliss-lord-composed](śrīsarvānandanāthaviracite) [all-ecstasy-thirty-five](sarvvollāsepañcatriṃśadullāsaḥ)
+[thus](iti) [glorious+all+bliss+lord+composed](śrīsarvānandanāthaviracite) [all+excellence+thirty-five+excellence](sarvvollāsepañcatriṃśadullāsaḥ)
 
 ## mukta-m0-p46-v1135
-[option](vikalpo) [not-here](nātra) [to-be-done](kartavyaḥ) [done](kṛte) [and](ca) [death](maraṇaṃ) [would-be](bhavet)
+[alternative](vikalpo) [not+here](nātra) [to+be+done](kartavyaḥ) [done](kṛte) [and](ca) [death](maraṇaṃ) [would+be](bhavet)
 
 ## mukta-m0-p46-v1136
-[given](dīyamānaṃ) [great-mantra](mahāmantraṃ) [tell](kathayāmi) [listen](śṛṇu) [beloved](priye)
+[being+given](dīyamānaṃ) [great+mantra](mahāmantraṃ) [tell](kathayāmi) [listen](śṛṇu) [beloved](priye)
 
 ## mukta-m0-p46-v1137
-[accepting](svīkṛtya) [auspicious](subhage) [goddess](devi) [victory](jayaṃ) [give](dehi) [again](punaḥ) [again](punaḥ)
+[accepting](svīkṛtya) [auspicious](subhage) [goddess](devi) [victory](jayaṃ) [give](dehi) [again+again](punaḥ+punaḥ)
 
 ## mukta-m0-p46-v1138
-[own-vessel](svapātre) [cause](kāraṇe) [mixed](miśraṃ) [drink](pived) [bliss-cause](ānandahetave)
+[own+vessel](svapātre) [cause](kāraṇe) [mixed](miśraṃ) [drink](pived) [bliss+for+sake](ānandahetave)
 
 ## mukta-m0-p46-v1139
-[power-form](śaktirūpā) [great-goddess](mahādevī) [pure-bliss-increasing](kevalānandavarddhinī)
+[shakti+form](śaktirūpā) [great+goddess](mahādevī) [pure+bliss+increasing](kevalānandavarddhinī)
 
 ## mukta-m0-p46-v1140
-[adept's](sādhakasya) [action-bliss](kriyānande) [radiant](tejīyo) [form-bearing](rūpadhāriṇī)
+[of+adept](sādhakasya) [action+bliss](kriyānande) [radiant](tejīyo) [form+bearing](rūpadhāriṇī)
 
 ## mukta-m0-p46-v1141
-[thus](tathā) [woman](nārī) [man's](narasyāpi) [all-works-revealing](sarvakāryaprakāśikā)
+[thus](tathā) [woman](nārī) [of+man](narasyāpi) [all+works+revealing](sarvakāryaprakāśikā)
 
 ## mukta-m0-p46-v1142
-[accepting](svīkṛtya) [cause](kāraṇaṃ) [goddess](devi) [afterward](paścāt) [works](kāryāṇi) [accomplish](sādhayet)
+[accepting](svīkṛtya) [cause](kāraṇaṃ) [goddess](devi) [afterwards](paścāt) [works](kāryāṇi) [accomplish](sādhayet)
 
 ## mukta-m0-p46-v1143
-[breath-control](prāṇāyāmaṃ) [third](gṛtīye) [and](ca) [fourth](caturthe) [japa](japam) [take](āharet)
+[pranayama](prāṇāyāmaṃ) [in+third](gṛtīye) [and](ca) [in+fourth](caturthe) [japa](japam) [take](āharet)
 
 ## mukta-m0-p46-v1144
-[fifth](pañcamaṃ) [vessel-with](pātrasahitaṃ) [circle's](cakrasya) [mark](lakṣaṇaṃ) [śive](śive)
+[fifth](pañcamaṃ) [vessel+accompanied](pātrasahitaṃ) [of+cakra](cakrasya) [mark](lakṣaṇaṃ) [Shive](śive)
 
 ## mukta-m0-p46-v1145
-[sexual-union](maithunaṃ) [supreme-goddess](parameśāni) [tenth](daśam) [bliss](ānandam) [perform](ācaret)
+[sexual+union](maithunaṃ) [supreme+goddess](parameśāni) [tenth+bliss](daśamānandam) [perform](ācaret)
 
 ## mukta-m0-p46-v1146
-[sound-bindu-seat](nādabindumayaṃ) [pīṭhaṃ](pīṭhaṃ) [haṃsa-pair](haṃsayugmaṃ) [manifested](prakāśitam)
+[sound+bindu+made](nādabindumayaṃ) [seat](pīṭhaṃ) [hamsa+pair](haṃsayugmaṃ) [manifested](prakāśitam)
 
 ## mukta-m0-p46-v1147
-[heart](hṛdaye) [meditate](cintayed) [god](devaṃ) [two-armed](dvibhujaṃ) [power-united](śaktisaṃyutam)
+[in+heart](hṛdaye) [contemplate](cintayed) [god](devaṃ) [two+armed](dvibhujaṃ) [shakti+united](śaktisaṃyutam)
 
 ## mukta-m0-p46-v1148
-[true-consciousness-bliss-desired-boon-giving](saccit sukhābhīṣṭavarāpradānam)
+[being+consciousness+bliss+desired+boon+giving](saccit+sukhābhīṣṭavarāpradānam)
 
 ## mukta-m0-p46-v1149
-[gentle-smile](mandasmitaṃ) [full-compassion-treasury](pūrṇakṛpānidhānam)
+[gentle+smile](mandasmitaṃ) [full+compassion+treasure](pūrṇakṛpānidhānam)
 
 ## mukta-m0-p46-v1150
-[glorious-guru](śrīdguruṃ) [always](nityam) [I](ahaṃ) [salute](namāmi)
+[glorious+guru](śrīdguruṃ) [always](nityam) [I](ahaṃ) [salute](namāmi)
