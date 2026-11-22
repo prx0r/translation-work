@@ -2,19 +2,19 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[gloss](gandhaṃ) [gloss](puṣpaṃ) [gloss](ca) [gloss](dhūpādyaṃ) [gloss](sākṣataṃ) [gloss](ca) [gloss](pavitrakam)
+[gloss](gandhaṃ) [gloss](puṣpaṃ) [gloss](ca) [gloss](dhūpādyam) [gloss](sākṣataṃ) [gloss](ca) [gloss](pavitrakam)
 
 ## mukta-m0-p123-v3052
-[gloss](śivaṃ) [gloss](nivedayen) [gloss](mūrdhni) [gloss](recakena) [gloss](amṛtīkṛtam)
+[gloss](śivaṃ) [gloss](nivedayet) [gloss](mūrdhni) [gloss](recakena) [gloss](amṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
 [gloss](prātaḥ) [gloss](snātaḥ) [gloss](śuciḥ) [gloss](śuddhaḥ) [gloss](pūjāṃ) [gloss](kuryāt) [gloss](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-[gloss](pañcabhiḥ) [gloss](madhuraiḥ) [gloss](snānaṃ) [gloss](jalāntaraiḥ) [gloss](virukṣaṇam)
+[gloss](pañcabhiḥ) [gloss](madhuraiḥ) [gloss](snānam) [gloss](jalāntaraiḥ) [gloss](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-[gloss](aṣṭāṅgaḥ) [gloss](arghaṃ) [gloss](pradāya) [gloss](atha) [gloss](samālabhya) [gloss](prapūjayet)
+[gloss](aṣṭāṅgaḥ) [gloss](argham) [gloss](pradāya) [gloss](atha) [gloss](samālabhya) [gloss](prapūjayet)
 
 ## mukta-m0-p123-v3056
 [gloss](vastraiḥ) [gloss](saṃchāditaṃ) [gloss](veśma) [gloss](ghaṭa) [gloss](cāmara) [gloss](bhūṣaṇaiḥ)
@@ -23,7 +23,7 @@
 [gloss](kadalī) [gloss](cūta) [gloss](mālābhiḥ) [gloss](jāta) [gloss](bīja) [gloss](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-[gloss](nṛtya) [gloss](gītaiḥ) [gloss](kalaiḥ) [gloss](vādyaiḥ) [gloss](nayet) [gloss](rātriṃ) [gloss](mahotsavaiḥ)
+[gloss](nṛtya) [gloss](gītaiḥ) [gloss](kalaiḥ) [gloss](vādyaiḥ) [gloss](nayed) [gloss](rātriṃ) [gloss](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
 [gloss](bhaktyā) [gloss](santoṣayet) [gloss](sarvān) [gloss](vastra) [gloss](dāna) [gloss](ādi) [gloss](bhojanaiḥ)
@@ -44,7 +44,7 @@
 [gloss](syāt) [gloss](prāyaścitta) [gloss](adhogāmī) [gloss](kṛtaḥ) [gloss](rudraḥ) [gloss](abda) [gloss](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-[gloss](tāmra) [gloss](liṅga) [gloss](arcana) [gloss](arkaḥ) [gloss](piśācaḥ) [gloss](vaṃśa) [gloss](sambhavāt)
+[gloss](tāmra) [gloss](liṅga) [gloss](arcana) [gloss](āt) [gloss](arkaḥ) [gloss](piśācaḥ) [gloss](vaṃśa) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3066
 [gloss](sīsa) [gloss](jāḥ) [gloss](guhyakāḥ) [gloss](sarve) [gloss](loha) [gloss](āt) [gloss](rakṣaḥ) [gloss](asura) [gloss](antakāḥ)
@@ -53,7 +53,7 @@
 [gloss](padmarāga) [gloss](āt) [gloss](hutāśaḥ) [gloss](ca) [gloss](indranīla) [gloss](arcana) [gloss](āt) [gloss](hariḥ)
 
 ## mukta-m0-p123-v3068
-[gloss](vaidruma) [gloss](āsya) [gloss](arcana) [gloss](āt) [gloss](nāgāḥ) [gloss](śukraḥ) [gloss](kārketana) [gloss](āt) [gloss](sadā)
+[gloss](vaidruma) [gloss](asya) [gloss](arcana) [gloss](āt) [gloss](nāgāḥ) [gloss](śukraḥ) [gloss](kārketana) [gloss](āt) [gloss](sadā)
 
 ## mukta-m0-p123-v3069
 [gloss](paulastyaḥ) [gloss](jīva) [gloss](jātibhyaḥ) [gloss](aṣṭaiḥ) [gloss](ṭṭibhāt) [gloss](siddha) [gloss](kinnarāḥ)
@@ -62,7 +62,7 @@
 [gloss](aśvinau) [gloss](pakva) [gloss](mṛt) [gloss](bhūtāt) [gloss](gandharvāḥ) [gloss](dāra) [gloss](sambhavāt)
 
 ## mukta-m0-p123-v3071
-[gloss](kūrma) [gloss](kauśi) [gloss](kasa) [gloss](bhūtāt) [gloss](vāsuki) [gloss](nayinā) [gloss](nāyakaḥ)
+[gloss](kūrma) [gloss](kauśi) [gloss](kasa) [gloss](bhūtāt) [gloss](vāsuki) [gloss](nāyināyakaḥ)
 
 ## mukta-m0-p123-v3072
 [gloss](liṅga) [gloss](saṃsthāpana) [gloss](arcana) [gloss](āt)
@@ -74,4 +74,4 @@
 [gloss](nānā) [gloss](phala) [gloss](uttha) [gloss](liṅgāni) [gloss](vidhinā) [gloss](sevitāni) [gloss](ca)
 
 ## mukta-m0-p123-v3075
-[gloss](saikatāt) [gloss](viśvakarmā) [gloss](ca) [gloss](śacī) [gloss](īśaḥ) [gloss](lavaṇaḥ) [gloss](dbhavāt)
+[gloss](saikatāt) [gloss](viśvakarmā) [gloss](ca) [gloss](śacīśaḥ) [gloss](lavaṇaḥ) [gloss](dbhavāt)
