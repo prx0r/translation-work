@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-by-union-of-śiva-umā-mantra (śivomāmantrayogena) union (sandhānaṃ) of-those-desiring-prosperity (bhūtikāṅkṣiṇām)
+śiva-umā-mantra-yogena (by union of Śiva-Umā mantra) sandhānam (joining) bhūti-kāṅkṣiṇām (of those desiring prosperity)
 
 ## mukta-m0-p76-v1877
-from-idol-etc-ornament-ending (mūrtyādyaṅkāvasānaṃ) but (tu) again-thus (punarevaṃ) but (tu) should-place (vinyaset)
+mūrti-ādi-aṅka-avasānam (ending with mark of image etc.) tu (but) punaḥ (again) evam (thus) tu (and) vinyaset (should place)
 
 ## mukta-m0-p76-v1878
-then (tataḥ)
+tataḥ (then)
 
 ## mukta-m0-p76-v1879
-of-rudra-and-others (rudrādīnāṃ) but (tu) of-all (sarveṣāṃ) installation (sthāpanaṃ) in-truth (tathvataḥ) in-order (kramāt)
+rudra-ādīnām (of Rudra etc.) tu (but) sarveṣām (of all) sthāpanam (installation) tattvataḥ (according to truth) kramāt (in order)
 
 ## mukta-m0-p76-v1880
-self-knowledges (ātmavidyāḥ) śiva (śivaṃ) and-indeed (caiva) should-meditate (bhāvayed) in-sequence (anupūrvataḥ)
+ātma-vidyāḥ (self-knowledges) śivam (Śiva) ca (and) eva (indeed) bhāvayet (should meditate) anupūrvataḥ (in sequence)
 
 ## mukta-m0-p76-v1881
-established (vyavasthitāḥ)
+vyavasthitāḥ (established)
 
 ## mukta-m0-p76-v1882
-in-knowledge-principle (vidyātattve) situated (sthitā) indeed-these (hyete) with-authority (sādhikāre) know-the-wise (vidurbudhāḥ)
+vidyā-tattve (in knowledge-principle) sthitāḥ (situated) hi (indeed) ete (these) sādhikāre (with authority) viduḥ (know) budhāḥ (wise)
 
 ## mukta-m0-p76-v1883
-three-principle-pervasion (tritattvavyāptiḥ) declared (ākhyātā) paths (panthānaḥ) sixfold-indeed-here (ṣaḍvidhāstviha)
+tri-tattva-vyāptiḥ (pervasion of three principles) ākhyātā (declared) panthānaḥ (paths) ṣaḍvidhāḥ (sixfold) tu (indeed) iha (here)
 
 ## mukta-m0-p76-v1884
-in-order (kramāt)
+kramāt (in order)
 
 ## mukta-m0-p76-v1885
-thirty-five-plus (triṃśatpañcādhikaṃ) principle (tattvaṃ) good-path (sanmārgaṃ) seat-of-īśvara (pīṭhamaiśvaram)
+triṃśat-pañca-adhikam (thirty-five more) tattvam (principle) sanmārgam (good path) pīṭham (seat) aiśvaram (lordly)
 
 ## mukta-m0-p76-v1886
-with-arms (bhujaistu) with-ten (daśabhir) endowed (yuktaṃ) matted-crown-adorned (jaṭāmukuṭamaṇḍitam)
+bhujaiḥ (with arms) tu (but) daśabhiḥ (with ten) yuktam (endowed) jaṭā-mukuṭa-maṇḍitam (adorned with matted crown)
 
 ## mukta-m0-p76-v1887
-with-gaṇas (gaṇair) with-gods (devaistathā) with-siddhas (siddhaiḥ) being-praised (stūyamānaiḥ) accompanied (samāyutam)
+gaṇaiḥ (with gaṇas) devaiḥ (with gods) tathā (and) siddhaiḥ (with siddhas) stūyamānaiḥ (being praised) samāyutam (joined)
 
 ## mukta-m0-p76-v1888
-by-sadyojāta (sadyolātena) contemplating (saṃcintya) by-vāmadeva (vāmadevena) should-place (vinyaset)
+sadyojātena (by Sadyojāta) saṃcintya (considering) vāmadevena (by Vāmadeva) vinyaset (should place)
 
 ## mukta-m0-p76-v1889
-engaged-in-cognition-action (bodhakriyāniviṣṭaṃ) but (tu) knowable (jñeyaṃ) refuge-of-knowledge (jñānāśritaṃ) should-remember (smaret)
+bodha-kriyā-niviṣṭam (engaged in awakening action) tu (but) jñeyam (knowable) jñāna-āśritam (supported by knowledge) smaret (should remember)
 
 ## mukta-m0-p76-v1890
-situated-in-sound-middle (dhvanimadhyagatā) tārā (tārā) moon-in-middle-of-tārā (tārāmadhyagateḥ) moon (śaśī)
+dhvani-madhya-gatā (situated in middle of sound) tārā (Tārā) tārā-madhya-gateḥ (of one gone into middle of Tārā) śaśī (moon)
 
 ## mukta-m0-p76-v1891
-situated-in-sun-middle (ravimadhyagataḥ) peaceful (śāntaḥ) situated-in-peace-middle (śāntamadhyagataḥ) śiva (śivaḥ)
+ravi-madhya-gataḥ (gone into middle of sun) śāntaḥ (peaceful) śānta-madhya-gataḥ (gone into middle of peace) śivaḥ (Śiva)
 
 ## mukta-m0-p76-v1892
-then (tadā) directional-deity-homa (digdevatāhomaḥ) should-be-done (kāryā) peace-and (śāntiśca) remover-of-faults (doṣahṛt)
+tadā (then) dig-devatā-homaḥ (offering to directional deities) kāryā (should be done) śāntiḥ (peace) ca (and) doṣa-hṛt (removing faults)
 
 ## mukta-m0-p76-v1893
-otherwise (anyathā) but (tu) would-be-terrible (bhavedghoraṃ) disfiguring-actor-and-kingdom (kartṛrāṣṭravirūpakam)
+anyathā (otherwise) tu (but) bhavet (would be) ghoraṃ (terrible) kartṛ-rāṣṭra-virūpakam (distorting agent and kingdom)
 
 ## mukta-m0-p76-v1894
-elephant (gajaṃ) goat (chāgaṃ) lulāya (lulāyaṃ) and (ca) female-slave (dāsīṃ) fish (matsyaṃ) deer-sheep (mṛgāvikam)
+gajam (elephant) chāgam (goat) lulāyam (lulāya) ca (and) dāsīm (female servant) matsyam (fish) mṛga-avikam (deer/sheep)
 
 ## mukta-m0-p76-v1895
-wing-thread (pakṣasūtraṃ) then (tato) should-give (dadyāt) for-straight-purpose (ṛjvarthaṃ) hanging-thread (lambasūtrakam)
+pakṣa-sūtram (side thread) tataḥ (then) dadyāt (should give) ṛju-artham (for straightness) lamba-sūtrakam (hanging thread)
 
 ## mukta-m0-p76-v1896
-in-moving (calile) in-sounding (śabdite) in-confused (bhrānte) in-bowed (praṇate) in-steady (svasthite) in-order (kramāt)
+calile (when moving) śabdite (when sounded) bhrānte (when confused) praṇate (when bowed) svasthite (when steady) kramāt (in order)
 
 ## mukta-m0-p76-v1897
-with-milk-metal-impurities (kṣīralohamalaiḥ) auspicious (śubhaiḥ)
+kṣīra-loha-malaiḥ (with milk, metal, impurities) śubhaiḥ (auspicious)
 
 ## mukta-m0-p76-v1898
-then (tataḥ) with-peace-pots (śāntighaṭāmmobhiḥ) bathing (snānaṃ) image-bearers (mūrtidharāḥ) own (svakam)
+tataḥ (then) śānti-ghaṭa-āmbobhiḥ (with water of peace-pot) snānam (bathing) mūrti-dharāḥ (image-bearers) svakam (own)
 
 ## mukta-m0-p76-v1899
-water-milk-curd-honey-ghee-water-inner-nature (toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
+toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ (consisting of water, milk, curd, honey, ghee, water)
 
 ## mukta-m0-p76-v1900
-mugdā (mugdā) of-finger-measure (dyaṅgulamātrasya) of-moving (calasya) for-placement (sthāpane) beneficial (hitam)
+mugdā (mugdā) dyaṅgula-mātrasya (of measure of two fingers) calasya (of moving) sthāpane (for installation) hitam (beneficial)

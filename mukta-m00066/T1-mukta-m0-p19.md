@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p19-v451
-[saffron-liquid-resembling](kuṃkumadravasaṃkāśaṃ) [dissolved-all-movement](vilīnāśeṣa ceṣṭitam)
+[kuṃkuma](kuṃkuma) [drava](drava) [saṃkāśa](saṃkāśaṃ) [vilīna](vilīna) [aśeṣa](aśeṣa) [ceṣṭita](ceṣṭitam)
 
 ## mukta-m0-p19-v452
-[protected](rakṣitaṃ) [should-meditate](bhāvayed) [goddess](devī) [at-her-moon-crescent-rise](tasyāścaṃdrakalodaye)
+[rakṣita](rakṣitaṃ) [bhāvayet](bhāvayed) [devī](devī) [tasyāḥ](tasyāḥ) [candra](candra) [kala](kala) [udaye](udaye)
 
 ## mukta-m0-p19-v453
-[immediately](sadyaḥ) [horripilated-form](pulakitākāro) [feeling](bhāvaḥ) [some](ko'pi) [manifests](vijṛṃbhate)
+[sadyaḥ](sadyaḥ) [pulakita](pulakita) [ākāra](ākāro) [bhāvaḥ](bhāvaḥ) [kaḥ](ko) [api](api) [vijṛṃbhate](vijṛṃbhate)
 
 ## mukta-m0-p19-v454
-[dancing-as-if-intense-longing](nṛtyatīvasamutkaṃṭhā) [dances](nṛtyatī) [and](va) [head-face](śirāmukham)
+[nṛtyati](nṛtyatī) [iva](iva) [samutkaṃṭhā](samutkaṃṭhā) [nṛtyati](nṛtyatī) [va](va) [śira](śira) [mukham](mukham)
 
 ## mukta-m0-p19-v455
-[messenger](dūtikā) [kama](smara) [house-dwelling](geha-sthāṃ) [bhagamala](bhagamālāṃ) [should-worship](samarcayet)
+[dūtikā](dūtikā) [smara](smara) [geha](geha) [sthām](sthāṃ) [bhaga](bhaga) [mālām](mālāṃ) [samarcayet](samarcayet)
 
 ## mukta-m0-p19-v456
-[her-worship-distinction-indeed](tasyāścārcana bhedastu) [to-be-spoken](vaktavyaḥ) [supreme-lord](parameśvara)
+[tasyāḥ](tasyāś) [ca](ca) [arcana](arcana) [bhedaḥ](bhedastu) [vaktavyaḥ](vaktavyaḥ) [parameśvara](parameśvara)
 
 ## mukta-m0-p19-v457
-[bhagamali-thus](bhagamālīti) [completely](niḥśeṣa) [bhaga-wheel-identified](bhagacakrābhimāninī)
+[bhaga](bhaga) [mālī](mālī) [iti](iti) [niḥśeṣa](niḥśeṣa) [bhaga](bhaga) [cakra](cakra) [abhimāninī](abhimāninī)
 
 ## mukta-m0-p19-v458
-[universe-enchanting-form](viśvasaṃohanākārā) [universe-birth-great-abode](viśvajanmamahāsthali)
+[viśva](viśva) [mohana](mohana) [ākārā](ākārā) [viśva](viśva) [janma](janma) [mahā](mahā) [sthali](sthali)
 
 ## mukta-m0-p19-v459
-[time-form](kālarūpā) [untimely-doing](akālakarī) [time-devouring-desirous](kālagrasanalālasā)
+[kāla](kāla) [rūpā](rūpā) [akāla](akāla) [karī](karī) [kāla](kāla) [grasana](grasana) [lālasā](lālasā)
 
 ## mukta-m0-p19-v460
-[in-all](samasteṣu) [bodies](śarīreṣu) [of-men-of-women-then-also-or](puṃsāṃstrīṇāmathāpivā)
+[samasteṣu](samasteṣu) [śarīreṣu](śarīreṣu) [puṃsām](puṃsāṃ) [strīṇām](strīṇām) [atha](atha) [api](api) [vā](vā)
 
 ## mukta-m0-p19-v461
-[collection](saṃhita) [hundred-thousand](śatasāhasre) [for-which-purpose](yadarthe) [is-praised](kīrtyate) [by-me](mayā)
+[saṃhitā](saṃhitā) [śata](śata) [sāhasre](sāhasre) [yad](yad) [arthe](arthe) [kīrtyate](kīrtyate) [mayā](mayā)
 
 ## mukta-m0-p19-v462
-[eternal-cupid](nityānaṃga) [intoxication-maddened](madonmattā) [by-youth-excessively-proud](yauvanenātigarvitā)
+[nitya](nitya) [anaṅga](anaṅga) [mada](mada) [unmattā](unmattā) [yauvanena](yauvanena) [ati](ati) [garvitā](garvitā)
 
 ## mukta-m0-p19-v463
-[noose-goad](pāśāṃkuśau) [hand](karaṃ) [bow](dhanva) [then](tadā) [or](vā) [honey-vessel](madhubhājanam)
+[pāśa](pāśa) [aṃkuśau](aṃkuśau) [karam](karaṃ) [dhanva](dhanva) [tadā](tadā) [vā](vā) [madhu](madhu) [bhājanam](bhājanam)
 
 ## mukta-m0-p19-v464
-[serene-face-lotus](prasannavadanāṃbhojā) [intoxication-red-eyed](madaraktavilocanā)
+[prasanna](prasanna) [vadana](vadana) [ambhojā](ambhojā) [mada](mada) [rakta](rakta) [vilocanā](vilocanā)
 
 ## mukta-m0-p19-v465
-[own-red-radiance-garments-only-covered-hip-region](svaraktakāṃtiśaṭībhirevāvṛtanitaṃbabhūḥ)
+[sva](sva) [rakta](rakta) [kānti](kānti) [śāṭībhiḥ](śāṭībhiḥ) [eva](eva) [āvṛta](āvṛta) [nitaṃba](nitaṃba) [bhūḥ](bhūḥ)
 
 ## mukta-m0-p19-v466
-[sky-clad](digaṃbarābhiranyābhiḥ) [other](anyābhiḥ) [powers](śaktibhiḥ) [surrounded](parivāritā)
+[digaṃbarābhiḥ](digaṃbarābhiḥ) [anyābhiḥ](anyābhiḥ) [śaktibhiḥ](śaktibhiḥ) [parivāritā](parivāritā)
 
 ## mukta-m0-p19-v467
-[thus](evaṃ) [to-be-meditated](dhyeyā) [o-great-lady](maheśāni) [deity](devatā) [bhagamalini](bhagamālinī)
+[evaṃ](evaṃ) [dhyeyā](dhyeyā) [maheśāni](maheśāni) [devatā](devatā) [bhaga](bhaga) [mālinī](mālinī)
 
 ## mukta-m0-p19-v468
-[tripura-arghya-water](tripurārghyāṃbunā) [sprinkling](prokṣya) [of-messenger](dūtyāḥ) [kama-abode](smaraniketanam)
+[tripura](tripura) [arghya](arghya) [ambunā](ambunā) [prokṣya](prokṣya) [dūtyāḥ](dūtyāḥ) [smara](smara) [niketanam](niketanam)
 
 ## mukta-m0-p19-v469
-[triangle](trikoṇaṃ) [pentagon](paṃcakoṇaṃ) [and](ca) [with-eight-spokes-four-petals](sāṣṭārakacaturddalam)
+[trikoṇaṃ](trikoṇaṃ) [paṃcakoṇaṃ](paṃcakoṇaṃ) [ca](ca) [sāṣṭāraka](sāṣṭāraka) [caturddalam](caturddalam)
 
 ## mukta-m0-p19-v470
-[in-middle](madhye) [should-conquer](jayen) [great-goddess](mahādevīṃ) [intoxicated](mādyaṃtīṃ) [bhagamalini](bhagamālinīm)
+[madhye](madhye) [jayet](jayet) [mahādevīm](mahādevīṃ) [mādyantīm](mādyantīṃ) [bhaga](bhaga) [mālinīm](mālinīm)
 
 ## mukta-m0-p19-v471
-[bhaga-secret](bhagaguhyaṃ) [bhaga-yoni](bhagayoniṃ) [and](tathā) [bhaga-descending](bhaganipātinīm)
+[bhaga](bhaga) [guhyaṃ](guhyaṃ) [bhaga](bhaga) [yoniṃ](yoniṃ) [tathā](tathā) [bhaga](bhaga) [nipātinīm](nipātinīm)
 
 ## mukta-m0-p19-v472
-[bhaga-form](bhagarūpāṃ) [then](tadā) [goddess](devīṃ) [ever-moist-mother-also](nityaklinnāmbikāmapi)
+[bhaga](bhaga) [rūpām](rūpāṃ) [tadā](tadā) [devīm](devīṃ) [nitya](nitya) [klinna](klinna) [ambikām](ambikām) [api](api)
 
 ## mukta-m0-p19-v473
-[bhaga-moist-eighth](bhagaklinnāmaṣṭamīṃ) [and](ca) [practitioner-rite-conduct](sādhakovidhivarttanā)
+[bhaga](bhaga) [klinnām](klinnām) [aṣṭamīm](aṣṭamīṃ) [ca](ca) [sādhaka](sādhaka) [vidhi](vidhi) [varttanā](varttanā)
 
 ## mukta-m0-p19-v474
-[unfailing-bhaga-vidya](amoghabhagavidyā) [and](ca) [fourth](caturthi) [indeed](tu) [bhaga-lady](bhageśvarī)
+[amogha](amogha) [bhaga](bhaga) [vidyā](vidyā) [ca](ca) [caturthī](caturthī) [tu](tu) [bhaga](bhaga) [īśvarī](īśvarī)
 
 ## mukta-m0-p19-v475
-[tripura-arghya](tripurārghya) [established-only](sthitaireva) [by-dots](biṃdubhistat) [should-worship](prapūjayet)
+[tripura](tripura) [arghya](arghya) [sthitaireva](sthitaireva) [biṃdubhiḥ](biṃdubhiḥ) [tat](tat) [prapūjayet](prapūjayet)
