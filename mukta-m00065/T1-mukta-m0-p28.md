@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[navāvadhikara-anta](navāvadhikarāntasya) [śūnya-doṣa](śūnyadoṣo) [na](na) [kasyacit](kasyacit)
+[nava-avadhi-kara-anta](navāvadhikarāntasya) [śūnya-doṣa](śūnyadoṣo) [na](na) [kasyacit](kasyacit)
 
 ## mukta-m0-p28-v677
-[tridhā](tridhā) [mānena](mānena) [ca](ca) [ekena](ekena) [ṣoḍaśa-asraṃ](ṣoḍaśāsraṃ) [śata-dvayam](śatadvayam)
+[tridhā](tridhā) [mānena](mānena) [ca-ekena](caikena) [ṣoḍaśa-asraṃ](ṣoḍaśāsraṃ) [śata-dvayam](śatadvayam)
 
 ## mukta-m0-p28-v678
 [catur-aṣṭa-ṣaḍ-asraṃ](caturaṣṭaṣaḍasraṃ) [tu](tu) [indra-aṅkaṃ](indrāṅkaṃ) [vajra-rūpakam](vajrarūpakam)
@@ -14,16 +14,16 @@
 [bindu-saṃpāta-saṃyogāt](bindusaṃpātsaṃyogāt) [tiryak-sūtraiḥ](tiryaksūtrair) [vivartayet](vivartayet)
 
 ## mukta-m0-p28-v680
-[vasu-asror-dhvam](vasvasrordhvaṃ) [tu](tu) [sapta-asraṃ](saptāsraṃ) [śakti-āgneya](śaktyāgneya) [ca](ca) [dāha-kṛt](dāhakṛt)
+[vasu-asroḥ-ūrdhvaṃ](vasvasrordhvaṃ) [tu](tu) [sapta-asraṃ](saptāsraṃ) [śakti-āgneya](śaktyāgneya) [ca](ca) [dāha-kṛt](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[nāha-ardhaṃ](nāhārdhaṃ) [nava-dhā](navadhā) [kṛtvā](kṛtvā) [śaraiḥ](śarair) [hṛt-pṛṣṭha-koṭibhiḥ](hṛtpṛṣṭhakoṭibhiḥ)
+[nābhi-ardhaṃ](nāhārdhaṃ) [nava-dhā](navadhā) [kṛtvā](kṛtvā) [śaraiḥ](śarair) [hṛt-pṛṣṭha-koṭibhiḥ](hṛtpṛṣṭhakoṭibhiḥ)
 
 ## mukta-m0-p28-v682
 [evaṃ](evaṃ) [ca](ca) [aṣṭāsra-vṛtaṃ](aṣṭāsravṛtaṃ) [syāt](syāt) [yāmya-daṇḍaṃ](yāmyadaṇḍaṃ) [ruja-pradam](rujapradam)
 
 ## mukta-m0-p28-v683
-[aṣṭāsra-ardhaṃ](aṣṭāsro'rdhaṃ) [daśa-asraṃ](daśāstraṃ) [syāt](syāt) [khaḍga-ābhaṃ](khaḍgābhaṃ) [rākṣasaṃ](rākṣasaṃ) [bhayam](bhayam)
+[aṣṭāsra-ardha](aṣṭāsro'rdha) [daśa-asraṃ](daśāstraṃ) [syāt](syāt) [khaḍga-ābhaṃ](khaḍgābhaṃ) [rākṣasaṃ](rākṣasaṃ) [bhayam](bhayam)
 
 ## mukta-m0-p28-v684
 [catur-aṣṭāsra-vṛttaṃ](caturaṣṭāsravṛttaṃ) [syāt](syāt) [pāśa-vat](pāśavat) [vāruṇaṃ](vāruṇaṃ) [śubham](śubham)
@@ -74,4 +74,4 @@
 [vidhātavyā](vidhātavyā) [dvi-bhāgena](dvibhāgena) [kanyasī](kanyasī) [pratimā](pratimā) [ca](ca) [sā](sā)
 
 ## mukta-m0-p28-v700
-[madhyamā](madhyamā) [syāt](syāddvibhāgena) [dvi-bhāgena](dvibhāgena) [kārya-ekāṃśena](kāryaikāṃśena) [pīṭhikā](pīṭhikā)
+[madhyamā](madhyamā) [syāt](syāddvibhāgena) [dvi-bhāgena](dvibhāgena) [kārya-eka-aṃśena](kāryaikāṃśena) [pīṭhikā](pīṭhikā)
