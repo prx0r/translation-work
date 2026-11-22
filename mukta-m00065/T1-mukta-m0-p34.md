@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[gloss](haraḥ) [gloss](ca) [gloss](bahurūpaḥ) [gloss](ca) [gloss](tryambakaḥ) [gloss](ca) [gloss](sureśvaraḥ)
+[destroyer](haraśca) [many-formed](bahurūpaśca) [three-eyed](tryambakaśca) [lord-of-gods](sureśvaraḥ)
 
 ## mukta-m0-p34-v827
-[gloss](sadyaḥ) [gloss](prabhṛti-jau) [gloss](dvau) [gloss](dvau) [gloss](tadvat) [gloss](kuḍya-abja-saṃyutāḥ)
+[suddenly](sadyaḥ) [origin-born](prabhṛtijau) [two](dvau) [two](dvau) [likewise](tadvat) [wall-lotus-joined](kuḍyabjasaṃyutāḥ)
 
 ## mukta-m0-p34-v828
-[gloss](vṛṣa-sthāḥ) [gloss](vara-dāḥ) [gloss](kuṇḍī-śūla-paṅkaja-pāṇayaḥ)
+[bull-seated](vṛṣasthā) [boon-givers](varadāḥ) [trident-lotus-handed](kuṇḍīśūlapaṅkajapāṇayaḥ)
 
 ## mukta-m0-p34-v829
-[gloss](śaṅkha-cakra-bhṛtam) [gloss](vāme) [gloss](śeṣe) [gloss](śānti-gadā-bhṛtam)
+[conch-disk-bearer](śaṅkhacakrabhṛtaṃ) [on-left](vāme) [remaining](śeṣe) [peace-mace-bearer](śāntigadābhṛtam)
 
 ## mukta-m0-p34-v830
-[gloss](śrīvatsa-kaustubha-uraskam) [gloss](pīna-aṅgam) [gloss](pṛthu-vakṣasam)
+[srivatsa-kaustubha-chested](śrīvatsakaustubhoraskaṃ) [broad-limbed](pīnāṅgaṃ) [broad-chested](pṛthuvakṣasam)
 
 ## mukta-m0-p34-v831
-[gloss](prasanna-vadanam) [gloss](saumyam) [gloss](sarva-ābharaṇa-bhūṣitam)
+[serene-faced](prasannavadanaṃ) [gentle](saumyaṃ) [all-ornament-adorned](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p34-v832
-[gloss](śaṅkha-cakra-dhare) [gloss](kārye) [gloss](tat) [gloss](saumya-āgneya-pārśvataḥ)
+[conch-disk-holder](śaṅkhacakradhare) [in-work](kārye) [that-gentle-fiery-side](tatsaumyāgneyapārśvataḥ)
 
 ## mukta-m0-p34-v833
-[gloss](vāme) [gloss](abhaya-pradam) [gloss](śeṣe) [gloss](śaṅkha-hastam) [gloss](dvi-bāhukam)
+[on-left](vāme) [fearless-giving](abhayapradaṃ) [remaining](śeṣe) [conch-handed](śaṅkhahastaṃ) [two-armed](dvibhāhukam)
 
 ## mukta-m0-p34-v834
-[gloss](kruddhaḥ) [gloss](udyata-hastaḥ) [gloss](ca) [gloss](prāsāda-sthaḥ) [gloss](sadā) [gloss](mataḥ)
+[angry](kruddha) [raised-hand](udyatahastaśca) [temple-seated](prāsādasthaḥ) [always](sadā) [considered](mataḥ)
 
 ## mukta-m0-p34-v835
-[gloss](sandaṣṭa-oṣṭha-puṭaḥ) [gloss](kruddhaḥ) [gloss](viṣṇuḥ) [gloss](aṣṭa-bhujaḥ) [gloss](mataḥ)
+[bitten-lip](sandaṣṭauṣṭhapuṭaḥ) [angry](kruddho) [vishnu-eight-armed](viṣṇuraṣṭabhujo) [considered](mataḥ)
 
 ## mukta-m0-p34-v836
-[gloss](cakram) [gloss](cāpam) [gloss](ca) [gloss](khetam) [gloss](ca) [gloss](śaṅkham) [gloss](vāma-kare) [gloss](tathā)
+[disk](cakraṃ) [bow](cāpaṃ) [sword](khetaṃ) [conch](śaṅkhaṃ) [left-hand](vāmakare) [thus](tathā)
 
 ## mukta-m0-p34-v837
-[gloss](eka-āsyaḥ) [gloss](catur-āsyaḥ) [gloss](ca) [gloss](tri-mukhaḥ) [gloss](vā) [gloss](maye) [gloss](mate)
+[one-faced](ekāsyaścaturāsyaśca) [three-faced](trimukho) [or](vā) [in-maya-opinion](maye) [considered](mate)
 
 ## mukta-m0-p34-v838
-[gloss](tat) [gloss](tri-aṃśa-vistaram) [gloss](ca) [gloss](eva) [gloss](pucchaḥ) [gloss](adham) [gloss](sapta-bhāgaśaḥ)
+[that-three-part-expansion](tattryaṃśavistaraṃ) [also](caiva) [tail-below](puccho'dhaṃ) [seven-parts](saptabhāgaśaḥ)
 
 ## mukta-m0-p34-v839
-[gloss](hastau) [gloss](kroḍa-samīpa-sthau) [gloss](pādau) [gloss](jaṭhara-pārśvataḥ)
+[hands](hastau) [near-boar](kroḍasamīpasthau) [feet](pādau) [belly-side](jaṭharapārśvataḥ)
 
 ## mukta-m0-p34-v840
-[gloss](ardha-aṅgulam) [gloss](tu) [gloss](tat-netram) [gloss](dvi-sārdha-eka-ardha-bhāgataḥ)
+[half-angula](ardhāṅgulaṃ) [that-eye](tu tannetraṃ) [two-and-half-one-half-parts](dvisārdhaikārdhabhāgataḥ)
 
 ## mukta-m0-p34-v841
-[gloss](śeṣam) [gloss](rohita-vat) [gloss](kuryāt) [gloss](matsya-rūpa-dhare) [gloss](vibhau)
+[rest](śeṣaṃ) [like-rohita](rohitavatkuryānmatsyarūpadhare) [vibhu](vibhau)
 
 ## mukta-m0-p34-v842
-[gloss](tat) [gloss](dvi-aṃśa-madhyataḥ) [gloss](vṛttam) [gloss](kalā-hīnam) [gloss](tu) [gloss](pārśvayoḥ)
+[that-two-part-middle](taddvyaṃśamadhyato) [round](vṛttaṃ) [digit-less](kalāhīnaṃ) [on-sides](tu pārśvayoḥ)
 
 ## mukta-m0-p34-v843
-[gloss](dviguṇam) [gloss](pādataḥ) [gloss](dairghyāt) [gloss](grīvām) [gloss](mastaka-saṃyutām)
+[twofold](dviguṇaṃ) [from-feet](pādato) [by-length](dairghyādgrīvāṃ) [neck-head-joined](mastakasaṃyutām)
 
 ## mukta-m0-p34-v844
-[gloss](nāsā-akṣi-nakha-karṇa-ādi) [gloss](jñātvā) [gloss](kūrmam) [gloss](vivartayet)
+[nose-eye-nail-ear-etc](nāsākṣinakhakarṇādi) [knowing](jñātvā) [tortoise](kūrmaṃ) [revolve](vivartayet)
 
 ## mukta-m0-p34-v845
-[gloss](hanū) [gloss](tat-vaktra-bhāge) [gloss](ca) [gloss](dairghyāt) [gloss](sapta-aṅgulau) [gloss](matau)
+[jaw](hanū) [that-mouth-part](tadvaktrabhāge) [ca](ca) [by-length](dairghyātsaptāṅgulau) [considered](matau)
 
 ## mukta-m0-p34-v846
-[gloss](daṃṣṭre) [gloss](ca) [gloss](tri-aṅgule) [gloss](vaktre) [gloss](sita-ṛṣi-kalikā-upame)
+[tusks](daṃṣṭre) [ca](ca) [three-angula](tryaṅgule) [in-mouth](vaktre) [white-nectar-sprout-like](sitarṣikalikopame)
 
 ## mukta-m0-p34-v847
-[gloss](prāṅ-māna-ādi-avahīnam) [gloss](tu) [gloss](cakra-gāruṇa-locanam)
+[front-measure-decreased](prāṅmānādyavahīnaṃ) [tu](tu) [disk-garuda-eyed](cakragāruṇalocanam)
 
 ## mukta-m0-p34-v848
-[gloss](gadā-cakra-abja-śaṅkha-āḍhyam) [gloss](ālīḍha-karaṇe) [gloss](sthitam)
+[mace-disk-lotus-conch-rich](gadācakrābjaśaṅkhāḍhyam) [lion-posture](ālīḍhakaraṇe) [standing](sthitam)
 
 ## mukta-m0-p34-v849
-[gloss](evam) [gloss](varāha-rūpam) [gloss](syāt) [gloss](vana-mālā-vibhūṣitam)
+[thus](evaṃ) [boar-form](varāharūpaṃ) [syāt](syād) [forest-garland-adorned](vanamālāvibhūṣitam)
 
 ## mukta-m0-p34-v850
-[gloss](nara-aṅgam) [gloss](siṃha-vaktram) [gloss](ca) [gloss](vṛtta-akṣam) [gloss](bhrukuṭī-yutam)
+[human-limb](narāṅgaṃ) [lion-faced](siṃhavaktraṃ) [ca](ca) [round-eyed](vṛttākṣaṃ) [brow-furrowed](bhrukuṭīyutam)
