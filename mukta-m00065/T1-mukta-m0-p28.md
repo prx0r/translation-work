@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[pada](navāvadhikarāntasya) [pada](śūnyadoṣo) [pada](na) [pada](kasyacit)
+[navāvadhikarāntasya](navāvadhikarāntasya) [śūnyadoṣaḥ](śūnyadoṣo) [na](na) [kasyacit](kasyacit)
 
 ## mukta-m0-p28-v677
-[pada](tridhā) [pada](mānena) [pada](caikena) [pada](ṣoḍaśāsraṃ) [pada](śatadvayam)
+[tridhā](tridhā) [mānena](mānena) [ca](ca) [ekena](ekena) [ṣoḍaśāsram](ṣoḍaśāsraṃ) [śatadvayam](śatadvayam)
 
 ## mukta-m0-p28-v678
-[pada](caturaṣṭaṣaḍasraṃ) [pada](tu) [pada](indrāṅkaṃ) [pada](vajrarūpakam)
+[caturaṣṭaṣaḍasram](caturaṣṭaṣaḍasraṃ) [tu](tu) [indrāṅkam](indrāṅkaṃ) [vajrarūpakam](vajrarūpakam)
 
 ## mukta-m0-p28-v679
-[pada](bindusaṃpātsaṃyogāttiryaksūtrairvivartayet)
+[bindusaṃpātsaṃyogāt](bindusaṃpātsaṃyogāt) [tiryaksūtraiḥ](tiryaksūtrair) [vivartayet](vivartayet)
 
 ## mukta-m0-p28-v680
-[pada](vasvasrordhvaṃ) [pada](tu) [pada](saptāsraṃ) [pada](śaktyāgneya) [pada](ca) [pada](dāhakṛt)
+[vasvasrordhvam](vasvasrordhvaṃ) [tu](tu) [saptāsram](saptāsraṃ) [śaktyāgneya](śaktyāgneya) [ca](ca) [dāhakṛt](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[pada](nāhārdhaṃ) [pada](navadhā) [pada](kṛtvā) [pada](śarairhṛtpṛṣṭhakoṭibhiḥ)
+[nāhārdham](nāhārdhaṃ) [navadhā](navadhā) [kṛtvā](kṛtvā) [śaraiḥ](śarair) [hṛt](hṛt) [pṛṣṭha](pṛṣṭha) [koṭibhiḥ](koṭibhiḥ)
 
 ## mukta-m0-p28-v682
-[pada](evaṃ) [pada](cāṣṭāsravṛtaṃ) [pada](syādyāmyadaṇḍaṃ) [pada](rujapradam)
+[evaṃ](evaṃ) [ca](ca) [aṣṭāsravṛtam](aṣṭāsravṛtaṃ) [syāt](syāt) [yāmyadaṇḍam](yāmyadaṇḍaṃ) [rujapradam](rujapradam)
 
 ## mukta-m0-p28-v683
-[pada](aṣṭāsro'rdha) [pada](daśāstraṃ) [pada](syātkhaḍgābhaṃ) [pada](rākṣasaṃ) [pada](bhayam)
+[aṣṭāsra](aṣṭāsro) [ardha](ardha) [daśāstram](daśāstraṃ) [syāt](syāt) [khaḍgābham](khaḍgābhaṃ) [rākṣasam](rākṣasaṃ) [bhayam](bhayam)
 
 ## mukta-m0-p28-v684
-[pada](caturaṣṭāsravṛttaṃ) [pada](syātpāśavadvāruṇaṃ) [pada](śubham)
+[caturaṣṭāsravṛttam](caturaṣṭāsravṛttaṃ) [syāt](syāt) [pāśavat](pāśavat) [vāruṇam](vāruṇaṃ) [śubham](śubham)
 
 ## mukta-m0-p28-v685
-[pada](kṛśaṃ) [pada](prāgrūpakaṃ) [pada](dīrghaṃ) [pada](calamuccāṭakṛddhvajam)
+[kṛśam](kṛśaṃ) [prāgrūpakam](prāgrūpakaṃ) [dīrgham](dīrghaṃ) [calam](calam) [uccāṭakṛt](uccāṭakṛt) [dhvajam](dhvajam)
 
 ## mukta-m0-p28-v686
-[pada](yākṣaṃ) [pada](gadāgramūrdhānaṃ) [pada](balavṛddhikaraṃ) [pada](śivam)
+[yākṣam](yākṣaṃ) [gadāgramūrdhānam](gadāgramūrdhānaṃ) [balavṛddhikaram](balavṛddhikaraṃ) [śivam](śivam)
 
 ## mukta-m0-p28-v687
-[pada](catuḥpañcāsrakaṃ) [pada](tryasraṃ) [pada](śūlaṃ) [pada](raudraṃ) [pada](tu) [pada](muktidam)
+[catuḥpañcāsrakam](catuḥpañcāsrakaṃ) [tryasram](tryasraṃ) [śūlam](śūlaṃ) [raudram](raudraṃ) [tu](tu) [muktidam](muktidam)
 
 ## mukta-m0-p28-v688
-[pada](aṣṭāsro'rdhaṃ) [pada](ca) [pada](vedāsraṃ) [pada](brāhmaṃ) [pada](svargāya) [pada](padmavat)
+[aṣṭāsra](aṣṭāsro) [ardham](ardhaṃ) [ca](ca) [vedāsram](vedāsraṃ) [brāhmam](brāhmaṃ) [svargāya](svargāya) [padmavat](padmavat)
 
 ## mukta-m0-p28-v689
-[pada](caturaṣṭāsravṛttaṃ) [pada](syādvaiṣṇavaṃ) [pada](śaṅkhavacchubham)
+[caturaṣṭāsravṛttam](caturaṣṭāsravṛttaṃ) [syāt](syāt) [vaiṣṇavam](vaiṣṇavaṃ) [śaṅkhavat](śaṅkhavat) [śubham](śubham)
 
 ## mukta-m0-p28-v690
-[pada](rudrāttrihānitaḥ) [pada](śuktirdaṇḍo) [pada](digbhyastrihānitaḥ)
+[rudrāt](rudrāt) [trihānitaḥ](trihānitaḥ) [śuktiḥ](śuktir) [daṇḍaḥ](daṇḍo) [digbhyaḥ](digbhyaḥ) [trihānitaḥ](trihānitaḥ)
 
 ## mukta-m0-p28-v691
-[pada](kukkuṭāṇḍaṃ) [pada](ca) [pada](vāyavye) [pada](bhūtāṃśāddhi) [pada](yate) [pada](gadā)
+[kukkuṭāṇḍam](kukkuṭāṇḍaṃ) [ca](ca) [vāyavye](vāyavye) [bhūtāṃśāt](bhūtāṃśāt) [hi](hi) [yate](yate) [gadā](gadā)
 
 ## mukta-m0-p28-v692
-[pada](dakṣāṇḍabhaja) [pada](vaiṣṇośca) [pada](ittha) [pada](rekhā) [pada](maṇerapi)
+[dakṣāṇḍabhaja](dakṣāṇḍabhaja) [vaiṣṇoḥ](vaiṣṇoś) [ca](ca) [ittha](ittha) [rekhā](rekhā) [maṇer](maṇer) [api](api)
 
 ## mukta-m0-p28-v693
-[pada](sphuṭitaṃ) [pada](garbhavaddaṣṭaṃ) [pada](sthāpayedābhivārike)
+[sphuṭitam](sphuṭitaṃ) [garbhavat](garbhavat) [daṣṭam](daṣṭaṃ) [sthāpayet](sthāpayet) [ābhivārike](ābhivārike)
 
 ## mukta-m0-p28-v694
-[pada](vyaktaliṅgāni) [pada](cānyāni) [pada](nānā) [pada](rūpāṇi) [pada](vacmyataḥ)
+[vyaktaliṅgāni](vyaktaliṅgāni) [ca](ca) [anyāni](anyāni) [nānā](nānā) [rūpāṇi](rūpāṇi) [vacmi](vacmi) [ataḥ](ataḥ)
 
 ## mukta-m0-p28-v695
-[pada](iti) [pada](lakṣaṇasamuccaye'vyaktaliṅgalakṣaṇaṃ) [pada](nāma) [pada](caturtho) [pada](vidhiḥ)
+[iti](iti) [lakṣaṇasamuccaye](lakṣaṇasamuccaye) [avyaktaliṅgalakṣaṇam](avyaktaliṅgalakṣaṇaṃ) [nāma](nāma) [caturthaḥ](caturthaḥ) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p28-v696
-[pada](pūrvāṅgulapramāṇena) [pada](daśapañcāṅgulāṅgulāt)
+[pūrvāṅgulapramāṇena](pūrvāṅgulapramāṇena) [daśapañcāṅgulāṅgulāt](daśapañcāṅgulāṅgulāt)
 
 ## mukta-m0-p28-v697
-[pada](kvaciddhastapramāṇā) [pada](sā) [pada](kvacicca) [pada](triṃśadaṅgulā)
+[kvacit](kvacit) [hastapramāṇā](hastapramāṇā) [sā](sā) [kvacit](kvacit) [ca](ca) [triṃśadaṅgulā](triṃśadaṅgulā)
 
 ## mukta-m0-p28-v698
-[pada](dvārocchrayaṃ) [pada](vibhajyādāvaṣṭadhaukaṃ) [pada](vidhāya) [pada](ca)
+[dvārocchrayam](dvārocchrayaṃ) [vibhajya](vibhajya) [ādau](ādau) [aṣṭadhaukam](aṣṭadhaukaṃ) [vidhāya](vidhāya) [ca](ca)
 
 ## mukta-m0-p28-v699
-[pada](vidhātavyā) [pada](dvibhāgena) [pada](kanyasī) [pada](pratimā) [pada](ca) [pada](sā)
+[vidhātavyā](vidhātavyā) [dvibhāgena](dvibhāgena) [kanyasī](kanyasī) [pratimā](pratimā) [ca](ca) [sā](sā)
 
 ## mukta-m0-p28-v700
-[pada](madhyamā) [pada](syāddvibhāgena) [pada](kāryaikāṃśena) [pada](pīṭhikā)
+[madhyamā](madhyamā) [syāt](syāt) [dvibhāgena](dvibhāgena) [kārya](kārya) [ekāṃśena](ekāṃśena) [pīṭhikā](pīṭhikā)
