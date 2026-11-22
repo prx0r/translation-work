@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-fragrance(flower) flower and incense-etc with-rice and sacred-thread
+fragrance flower and incense-etc with-rice and sacred-thread
 
 ## mukta-m0-p123-v3052
-to-śiva offer-on-head by-exhalation made-nectar
+offer Shiva on-head by-exhalation made-nectar
 
 ## mukta-m0-p123-v3053
-morning bathed pure clean worship perform according-to-wealth
+morning bathed pure clean worship do according-to-wealth
 
 ## mukta-m0-p123-v3054
-with-five sweet bath with-water-intervals drying
+with-five sweets bathing with-water-intervals drying
 
 ## mukta-m0-p123-v3055
-eight-limbed argha giving then anointing worship
+eight-limbed argha offering then anointing worship
 
 ## mukta-m0-p123-v3056
-with-cloths covered house with-pots-fans-ornaments
+with-cloths covered house pots fly-whisks ornaments
 
 ## mukta-m0-p123-v3057
-with-banana-mango-garlands with-born-seed-ornaments
+banana-mango garlands with-sprouted-seeds beautiful
 
 ## mukta-m0-p123-v3058
-with-dance-songs sweet with-instruments spend-night with-great-festivals
+dance song arts instruments spend-night great-festivals
 
 ## mukta-m0-p123-v3059
-with-devotion please all with-cloth-gifts-etc-food
+with-devotion satisfy all cloth-gifts etc food
 
 ## mukta-m0-p123-v3060
-free-from-all-sins in-rudra-world exalted
+all-sin-freed Rudra-world exalted
 
 ## mukta-m0-p123-v3061
-bed-sleeping false-speech avoiding-women-travel-meat
+bed-sleeping false-speech women-travel meat avoider
 
 ## mukta-m0-p123-v3062
-worship having-done śiva having-bowed sacred-thread and release
+worship doing Shiva bowing sacred-thread release
 
 ## mukta-m0-p123-v3063
-having-done throw sacred-threads in-śiva-fire or in-water
+doing throw sacred-threads Shiva-fire or always-water
 
 ## mukta-m0-p123-v3064
-becomes expiation-descending made rudra billion-years
+becomes penance-descending done Rudra year crores
 
 ## mukta-m0-p123-v3065
-copper-liṅga-worship sun piśāca from-bamboo-birth
+copper-linga worship sun demon bamboo-born
 
 ## mukta-m0-p123-v3066
-lead-born yakṣas all iron rakṣas asura-destroyers
+lead-born yakshas all iron demon asura-ender
 
 ## mukta-m0-p123-v3067
-from-ruby fire-god and from-sapphire-worship hari
+ruby from-fire and sapphire worship Vishnu
 
 ## mukta-m0-p123-v3068
-from-coral-mouth-worship nāgas śukra from-crystal always
+coral-mouth worship nagas Venus topaz always
 
 ## mukta-m0-p123-v3069
-paulastya from-living-beings eight siddhas-kinnaras
+Paulastya Jupiter-born eight siddha kinnaras
 
 ## mukta-m0-p123-v3070
-aśvins from-baked-clay gandharvas from-wife-birth
+Ashvins baked-clay born gandharvas wife-born
 
 ## mukta-m0-p123-v3071
-from-tortoise vāsuki leader
+tortoise born Vasuki leader
 
 ## mukta-m0-p123-v3072
-from-liṅga-installation-worship
+linga installation worship
 
 ## mukta-m0-p123-v3073
 soma-drinkers
 
 ## mukta-m0-p123-v3074
-various-fruit-born-liṅgas by-rite served and
+various-fruit-born lingas by-rite served and
 
 ## mukta-m0-p123-v3075
-from-sand viśvakarmā and śacī-lord from-salt birth
+sand-born Vishvakarma and Indra salt born
