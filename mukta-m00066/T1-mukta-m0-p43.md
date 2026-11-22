@@ -2,16 +2,16 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[prāpya](prāpya) [tatra](tatra) [balasthānaṃ](balasthānaṃ) [dīptaratneṣu](dīptaratneṣu) [veśmasu](veśmasu)
+[prāpya](prāpya) [tatra](tatra) [bala+sthānaṃ](balasthānaṃ) [dīpta+ratneṣu](dīptaratneṣu) [veśmasu](veśmasu)
 
 ## mukta-m0-p43-v1052
-[tasmādidaṃ](tasmādidaṃ) [mahāyāgaṃ](mahāyāgaṃ) [durllabhaṃ](durllabhaṃ) [marutāmapi](marutāmapi)
+[tasmād](tasmād) [idaṃ](idaṃ) [mahā+yāgaṃ](mahāyāgaṃ) [dur+llabhaṃ](durllabhaṃ) [marutām](marutām) [api](api)
 
 ## mukta-m0-p43-v1053
-[anyathākaraṇād](anyathākaraṇād) [devī](devī) [vinipātaḥ](vinipātaḥ) [prajāyate](prajāyate)
+[anyathā+karaṇād](anyathākaraṇād) [devī](devī) [vinipātaḥ](vinipātaḥ) [prajāyate](prajāyate)
 
 ## mukta-m0-p43-v1054
-[prāmāṇike'smin](prāmāṇike'smin) [suśroṇi](suśroṇi) [mārgejīvati](mārgejīvati) [viśvasan](viśvasan)
+[prāmāṇike](prāmāṇike) [asmin](asmin) [su+śroṇi](suśroṇi) [mārge](mārge) [jīvati](jīvati) [viśvasan](viśvasan)
 
 ## mukta-m0-p43-v1055
 [maṃtre](maṃtre) [maṃtre](maṃtre) [tu](tu) [karttavye](karttavye) [bheṣaje](bheṣaje) [daivate](daivate) [gurau](gurau)
@@ -20,58 +20,58 @@
 [vṛdhā](vṛdhā)
 
 ## mukta-m0-p43-v1057
-[paśyaviśvāsamāhātmyaṃ](paśyaviśvāsamāhātmyaṃ) [śilādārumṛdādikam](śilādārumṛdādikam)
+[paśya](paśya) [viśvāsa](viśvāsa) [māhātmyaṃ](māhātmyaṃ) [śilā](śilā) [dāru](dāru) [mṛd](mṛd) [ādikam](ādikam)
 
 ## mukta-m0-p43-v1058
-[acetanaṃ](acetanaṃ) [jaḍadravyaṃ](jaḍadravyaṃ) [kena](kena) [siddhiṃ](siddhiṃ) [prayacchati](prayacchati)
+[acetanaṃ](acetanaṃ) [jaḍa+dravyaṃ](jaḍadravyaṃ) [kena](kena) [siddhiṃ](siddhiṃ) [prayacchati](prayacchati)
 
 ## mukta-m0-p43-v1059
-[karmaśraddhā](karmaśraddhā) [saṃpradāyā](saṃpradāyā) [vubhāvetau](vubhāvetau) [pravarttakau](pravarttakau)
+[karma](karma) [śraddhā](śraddhā) [saṃpradāyā](saṃpradāyā) [vubhau](vubhāvetau) [etau](vubhāvetau) [pravarttakau](pravarttakau)
 
 ## mukta-m0-p43-v1060
-[sadāmalīmasā](sadāmalīmasā) [mūrkhāś](mūrkhāś) [caṃḍālādyāś](caṃḍālādyāś) [ca](ca) [jātayaḥ](jātayaḥ)
+[sadā](sadā) [malīmasā](malīmasā) [mūrkhāḥ](mūrkhāḥ) [caṃḍāla](caṃḍālādyāśca) [ādyāḥ](caṃḍālādyāśca) [ca](caṃḍālādyāśca) [jātayaḥ](jātayaḥ)
 
 ## mukta-m0-p43-v1061
-[nācāro](nācāro) [na](na) [ca](ca) [vā](vā) [śaucaṃ](śaucaṃ) [na](na) [vaiduṣyaṃ](vaiduṣyaṃ) [na](na) [dhīguṇāḥ](dhīguṇāḥ)
+[nācāraḥ](nācāro) [na](na) [ca](ca) [vā](vā) [śaucaṃ](śaucaṃ) [na](na) [vaiduṣyaṃ](vaiduṣyaṃ) [na](na) [dhī+guṇāḥ](dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-[viśvāso](viśvāso) [nāmamanaso](nāmamanaso) [dṛḍhatā](dṛḍhatā) [maṃtrasādhane](maṃtrasādhane)
+[viśvāsaḥ](viśvāso) [nāma](nāma) [manasaḥ](manaso) [dṛḍhatā](dṛḍhatā) [maṃtra](maṃtra) [sādhane](sādhane)
 
 ## mukta-m0-p43-v1063
-[evaṃ](evaṃ) [viśvāsamāpannaḥ](viśvāsamāpannaḥ) [phalārthiphalavigrahaḥ](phalārthiphalavigrahaḥ)
+[evaṃ](evaṃ) [viśvāsa](viśvāsamāpannaḥ) [māpannaḥ](viśvāsamāpannaḥ) [phalārthi](phalārthiphalavigrahaḥ) [phala](phalārthiphalavigrahaḥ) [vigrahaḥ](phalārthiphalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-[brāhmaṇakṣatriya](brāhmaṇakṣatriya) [viśā](viśā) [madhikāro'traśāsanam](madhikāro'traśāsanam)
+[brāhmaṇa](brāhmaṇakṣatriya) [kṣatriya](brāhmaṇakṣatriya) [viśa](viśāmadhikāro) [adhikāraḥ](viśāmadhikāro) [atra](atra) [śāsanam](śāsanam)
 
 ## mukta-m0-p43-v1065
-[vīraśuśrūṣaṇaṃ](vīraśuśrūṣaṇaṃ) [teṣām](teṣām) [abhiṣṭaphalasiddhayaḥ](abhiṣṭaphalasiddhayaḥ)
+[vīra](vīraśuśrūṣaṇaṃ) [śuśrūṣaṇaṃ](vīraśuśrūṣaṇaṃ) [teṣām](teṣām) [abhiṣṭa](abhiṣṭaphalasiddhayaḥ) [phala](abhiṣṭaphalasiddhayaḥ) [siddhayaḥ](abhiṣṭaphalasiddhayaḥ)
 
 ## mukta-m0-p43-v1066
-[vaiśyasya](vaiśyasya) [paṇyalābhārdhaṃ](paṇyalābhārdhaṃ) [sudrādernakadācana](sudrādernakadācana)
+[vaiśyasya](vaiśyasya) [paṇya](paṇyalābhārdhaṃ) [lābha](paṇyalābhārdhaṃ) [ardhaṃ](paṇyalābhārdhaṃ) [śūdrāder](sudrādernakadācana) [na](sudrādernakadācana) [kadācana](sudrādernakadācana)
 
 ## mukta-m0-p43-v1067
-[ekaivajātirnārīti](ekaivajātirnārīti) [grāhyā](grāhyā) [lakṣaṇasaṃbhave](lakṣaṇasaṃbhave)
+[eka](ekaivajātirnārīti) [eva](ekaivajātirnārīti) [jātiḥ](ekaivajātirnārīti) [nārī](ekaivajātirnārīti) [iti](ekaivajātirnārīti) [grāhyā](grāhyā) [lakṣaṇa](lakṣaṇasaṃbhave) [saṃbhave](lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-[pūjāsādhanametā](pūjāsādhanametā) [hi](hi) [mayāsṛṣṭā](mayāsṛṣṭā) [mṛgīdṛśaḥ](mṛgīdṛśaḥ)
+[pūjā](pūjāsādhanametā) [sādhanaṃ](pūjāsādhanametā) [etāḥ](pūjāsādhanametā) [hi](hi) [mayā](mayāsṛṣṭā) [sṛṣṭā](mayāsṛṣṭā) [mṛgī](mṛgīdṛśaḥ) [dṛśaḥ](mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
-[gāvastu](gāvastu) [pṛṣṭhatomedhyā](pṛṣṭhatomedhyā) [medhyāvaktreṇa](medhyāvaktreṇa) [vādinaḥ](vādinaḥ)
+[gāvaḥ](gāvastu) [tu](gāvastu) [pṛṣṭhataḥ](pṛṣṭhatomedhyā) [medhyā](pṛṣṭhatomedhyā) [medhyā](medhyāvaktreṇa) [vaktreṇa](medhyāvaktreṇa) [vādinaḥ](vādinaḥ)
 
 ## mukta-m0-p43-v1070
-[strīmukhaṃ](strīmukhaṃ) [tu](tu) [sadā](sadā) [śuddhir](śuddhir) [nocciṣṭaṃ](nocciṣṭaṃ) [tatra](tatra) [vidyate](vidyate)
+[strī](strīmukhaṃ) [mukhaṃ](strīmukhaṃ) [tu](tu) [sadā](sadā) [śuddhiḥ](śuddhirnocciṣṭaṃ) [na](śuddhirnocciṣṭaṃ) [ucciṣṭaṃ](śuddhirnocciṣṭaṃ) [tatra](tatra) [vidyate](vidyate)
 
 ## mukta-m0-p43-v1071
-[tābhirvinā](tābhirvinā) [na](na) [yajño'sti](yajño'sti) [na](na) [tapo'sti](tapo'sti) [na](na) [vā](vā) [vratam](vratam)
+[tābhiḥ](tābhirvinā) [vinā](tābhirvinā) [na](na) [yajñaḥ](yajño) [asti](asti) [na](na) [tapaḥ](tapo) [asti](asti) [na](na) [vā](vā) [vratam](vratam)
 
 ## mukta-m0-p43-v1072
-[aṣṭāhutirmahāyāge](aṣṭāhutirmahāyāge) [pradhānaṃ](pradhānaṃ) [dūtikāḥ](dūtikāḥ) [smṛtāḥ](smṛtāḥ)
+[aṣṭa](aṣṭāhutirmahāyāge) [āhutiḥ](aṣṭāhutirmahāyāge) [mahāyāge](aṣṭāhutirmahāyāge) [pradhānaṃ](pradhānaṃ) [dūtikāḥ](dūtikāḥ) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-[ānīyaghaṭiyatyeṣā](ānīyaghaṭiyatyeṣā) [tasmād](tasmād) [dūti](dūti) [prakīrtitā](prakīrtitā)
+[ānīya](ānīyaghaṭiyatyeṣā) [ghaṭayati](ānīyaghaṭiyatyeṣā) [eṣā](ānīyaghaṭiyatyeṣā) [tasmād](tasmād) [dūti](dūti) [prakīrtitā](prakīrtitā)
 
 ## mukta-m0-p43-v1074
-[dūtī](dūtī) [tena](tena) [budhaiḥ](budhaiḥ) [proktā](proktā) [ciṃtā](ciṃtā) [saṃtāparodhinī](saṃtāparodhinī)
+[dūtī](dūtī) [tena](tena) [budhaiḥ](budhaiḥ) [proktā](proktā) [ciṃtā](ciṃtā) [saṃtāpa](saṃtāparodhinī) [rodhinī](saṃtāparodhinī)
 
 ## mukta-m0-p43-v1075
-[bhoginībhogalakṣmīśca](bhoginībhogalakṣmīśca) [tasyāḥ](tasyāḥ) [paryāya](paryāya) [sūktayaḥ](sūktayaḥ)
+[bhoginī](bhoginībhogalakṣmīśca) [bhoga](bhoginībhogalakṣmīśca) [lakṣmīḥ](bhoginībhogalakṣmīśca) [ca](bhoginībhogalakṣmīśca) [tasyāḥ](tasyāḥ) [paryāya](paryāya) [sūktayaḥ](sūktayaḥ)
