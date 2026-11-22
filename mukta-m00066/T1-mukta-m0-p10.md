@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[lakṣa-mātraṃ](lakṣamātraṃ) [japet](japen) [mantraṃ](mantraṃ) [tataḥ](tataḥ) [siddhaḥ](siddho) [bhavet](bhavennaraḥ) [naraḥ](naraḥ)
+[laksha-matra](lakṣamātraṃ) [japet](japen) [mantram](mantraṃ) [tatah](tataḥ) [siddhah](siddho) [bhaven](bhaven)+[narah](naraḥ)
 
 ## mukta-m0-p10-v227
-[tad-daśāṃśaṃ](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūrābhyāṃ](karpūrābhyāṃ) [suvāsitaiḥ](suvāsitaiḥ)
+[tat-dasha-amsham](taddaśāṃśaṃ) [ca](ca) [kasturi](kastūrī) [karpurabhyam](karpūrābhyāṃ) [su-vasitaih](suvāsitaiḥ)
 
 ## mukta-m0-p10-v228
-[tad-daśāṃśaṃ](taddaśāṃśaṃ) [mahādevi](mahādevi) [brāhmaṇān](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
+[tat-dasha-amsham](taddaśāṃśaṃ) [mahadevi](mahādevi) [brahmanan](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
 
 ## mukta-m0-p10-v229
-[hṛdyaiḥ](hṛdyaiḥ) [pāyasa](pāyasa) [pūpādyaiḥ](pūpādyaiḥ) [rasaiḥ](rasaiścaiva) [ca](ca) [eva](eva) [rasāyanaiḥ](rasāyanaiḥ)
+[hridyaih](hṛdyaiḥ) [payasa](pāyasa) [pupa-adyaih](pūpādyaiḥ) [rasaih](rasaiś) [ca](ca) [eva](eva) [rasayanaih](rasāyanaiḥ)
 
 ## mukta-m0-p10-v230
-[madyaiḥ](madyairmāṃsaiśca) [māṃsaiḥ](māṃsaiḥ) [ca](ca) [matsyaiḥ](matsyaiśca) [ca](ca) [nānā-vastu-upabṛṃhitaiḥ](nānāvastūpabṛṃhitaiḥ)
+[madyaih](madyair) [mamsaih](māṃsaiś) [ca](ca) [matsyaih](matsyaiś) [ca](ca) [nana-vastu-upabrimhitaih](nānāvastūpabṛṃhitaiḥ)
 
 ## mukta-m0-p10-v231
-[arcayet](arcayed) [yoginī](yoginī) [vīrān](vīrān) [daśāṃśaṃ](daśāṃśaṃ) [mantra-sādhakaḥ](maṃtrasādhakaḥ)
+[arcayet](arcayed) [yogini](yoginī) [viran](vīrān) [dasha-amsham](daśāṃśaṃ) [mantra-sadhakah](maṃtrasādhakaḥ)
 
 ## mukta-m0-p10-v232
-[ānanda-bhogān](ānaṃdabhogān) [bhugjānaḥ](bhugjānaḥ) [kṣoṇyāṃ](kṣoṇyāṃ) [khelati](khelati) [kāyavat](kāyavat)
+[ananda-bhogan](ānaṃdabhogān) [bhujanah](bhugjānaḥ) [kshonyam](kṣoṇyāṃ) [khelati](khelati) [kayavat](kāyavat)
 
 ## mukta-m0-p10-v233
-[atiguhyatva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya-kasya-cit](yasyakasyacit)
+[ati-guhyatva](atiguhyātva) [ya](yā) [rakshya](rakṣyā) [na](na) [deya](deyā) [yasya-kasyacit](yasyakasyacit)
 
 ## mukta-m0-p10-v234
-[aku-tarka](akutarka) [pravīṇāya](pravīṇāya) [tattva-niṣṭhāya](tattvaniṣṭhāyadhīmate) [dhīmate](dhīmate)
+[a-kutarka](akutarka) [pravina](pravīṇāya) [tattva-nishthaya](tattvaniṣṭhāya)+[dhi-mate](dhīmate)
 
 ## mukta-m0-p10-v235
-[eṣā](eṣā) [vidyā](vidyā) [pradātavyā](pradātavyā) [satyaṃ](satyaṃ) [satyaṃ](satyaṃ) [vadāmi](vadāmyaham) [aham](aham)
+[esha](eṣā) [vidya](vidyā) [pradatavya](pradātavyā) [satyam](satyaṃ) [satyam](satyaṃ) [vadami](vadāmy)+[aham](aham)
 
 ## mukta-m0-p10-v236
-[etad](etad) [vidyā-samam](vidyāsamaṃ) [nāsti](nāsti) [na](na) [bhūtaṃ](bhūtaṃ) [na](na) [bhaviṣyati](bhaviṣyati)
+[etat](etad) [vidya-samam](vidyāsamaṃ) [na](na) [asti](asti) [na](na) [bhutam](bhūtaṃ) [na](na) [bhavishyati](bhaviṣyati)
 
 ## mukta-m0-p10-v237
-[imām](imāmabhyasyataḥ) [abhyasyataḥ](abhyasyataḥ) [puṃsaḥ](puṃso) [mokṣa-mārgaḥ](mokṣamārgaḥ) [kara-sthitaḥ](karasthitaḥ)
+[imam](imām) [abhyasyatah](abhyasyataḥ) [punsoh](puṃso) [moksha-margah](mokṣamārgaḥ) [kara-sthitah](karasthitaḥ)
 
 ## mukta-m0-p10-v238
-[iti](ityānaṃdataṃtre) [ānanda-tantre](ānaṃdataṃtre) [paṃcamaḥ](paṃcamaḥ) [paṭalaḥ](paṭalaḥ)
+[itya](ityā)+[ananda-tantre](naṃdataṃtre) [pancamah](paṃcamaḥ) [patalah](paṭalaḥ)
 
 ## mukta-m0-p10-v239
-[yāga-rāja-kramaḥ](yāgarājakramaḥ) [sarva-puruṣārthaṃ](sarvapuruṣārthaṃ) [mahā-phalam](mahāphalam)
+[yaga-raja-kramah](yāgarājakramaḥ) [sarva-purushartha](sarvapuruṣārthaṃ) [maha-phalam](mahāphalam)
 
 ## mukta-m0-p10-v240
-[vara-abhaya-yutaṃ](varābhayayutaṃ) [śāṃtaṃ](śāṃtaṃ) [śaktyā-āśliṣṭaṃ](śaktyāśliṣṭaṃ) [manoharam](manoharam)
+[vara-abhaya-yutam](varābhayayutaṃ) [shantam](śāṃtaṃ) [shaktya-ashlishtam](śaktyāśliṣṭaṃ) [manoharam](manoharam)
 
 ## mukta-m0-p10-v241
-[āplāvita](āplāvita) [śarīraḥ](śarīraḥ) [san](sannaṃtardhyāyen) [antardhyāyet](antardhyāyen) [maheśvarīm](maheśvarīm)
+[aplavita](āplāvita) [sharirah](śarīraḥ) [san](sannaṃ)+[tardhyayen](tardhyāyen) [maheshvarim](maheśvarīm)
 
 ## mukta-m0-p10-v242
-[vibhinna](vibhinna) [ṣaṭ-cakra](ṣaṭsarojanma) [janma](janma) [prakāśa](prakāśa) [nija-vigrahām](nijavigrahām)
+[vibhinna](vibhinna) [shat-sarojanma](ṣaṭsarojanma) [prakasha](prakāśa) [nija-vigrahām](nijavigrahām)
 
 ## mukta-m0-p10-v243
-[tripura-sundarīm](tripurasuṃdarīm)
+[tripura-sundarim](tripurasuṃdarīm)
 
 ## mukta-m0-p10-v244
-[nirgamya](nirgamya) [ca](ca) [bahir-grāmāt](bahirgrāmānmuktamūtramalavyathaḥ) [mukta-mūtra-mala-vyathaḥ](muktamūtramalavyathaḥ)
+[nirgamya](nirgamya) [ca](ca) [bahir-gramat](bahirgrāmān)+[mukta-mutra-mala-vyathah](muktamūtramalavyathaḥ)
 
 ## mukta-m0-p10-v245
-[sugandha-taila-liptasya](sugaṃdhatailaliptasya) [piṣṭika-udvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
+[sugandha-taila-liptasya](sugaṃdhatailaliptasya) [pishtika-udvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
 
 ## mukta-m0-p10-v246
-[kadāpi](kadāpi) [kaulikaḥ](kauliko) [mohāt](mohānna) [na](na) [rūkṣa-snānam](rūkṣasnānamācaret) [ācaret](ācaret)
+[kada-api](kadāpi) [kaulikah](kauliko) [mohat](mohān)+[na](na) [ruksha-snānam](rūkṣasnānam)+[acaret](ācaret)
 
 ## mukta-m0-p10-v247
-[mūrdhni](mūrdhnitvā) [tu](tu) [ā](ā) [mūla-mantra](mūlamaṃtra) [japena](jāpenāṃ) [aṃbho-jali-trayam](bhoṃjalitrayam)
+[murdhnitva](mūrdhnitvā) [mula-mantra](mūlamaṃtra) [japena](jāpenāṃ)+[bhoṃjalitrayam](bhoṃjalitrayam)
 
 ## mukta-m0-p10-v248
-[sa-kuśe](sakuśe) [saha-puṣpe](sahapuṣpe) [ca](ca) [sa-gandhe](sagaṃdhe) [tāmra-bhājane](tāmrabhājane)
+[sa-kushe](sakuśe) [sa-hapushe](sahapuṣpe) [ca](ca) [sa-gandhe](sagaṃdhe) [tamra-bhajane](tāmrabhājane)
 
 ## mukta-m0-p10-v249
-[tāmra-rūpya-suvarṇaiḥ](tāmrarūpya) [tu](tu) [racitaṃ](racitaṃ) [tat](tatpraśasyate) [praśasyate](praśasyate)
+[tamra-rupya](tāmrarūpya) [suvarnaih](suvarṇaistu) [tu](tu) [racitam](racitaṃ) [tat](tat)+[prashasyate](praśasyate)
 
 ## mukta-m0-p10-v250
-[yathā-śakti](yathā) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśedyāgamaṃdiram) [yāga-maṃdiram](yāgamaṃdiram)
+[yatha](yathā) [shakti](śakti) [ca](ca) [santarpaya](saṃtarpya) [pravishet](praviśet)+[yaga-mandiram](yāgamaṃdiram)

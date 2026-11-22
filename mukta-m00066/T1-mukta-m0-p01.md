@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[pada](ānaṃdadevatāsthānamasmin) [pada](liṃge) [pada](maheśvari)
+[bliss-deity-abode](ānaṃdadevatāsthānam) [in-this](asmin) [linga](liṃge) [O-great-lady](maheśvari)
 
 ## mukta-m0-p01-v2
-[pada](yadā) [pada](svaśaktipātena) [pada](prabuddhaḥ) [pada](sa) [pada](vimarśavān)
+[when](yadā) [by-own-power-descent](svaśaktipātena) [awakened](prabuddhaḥ) [he](sa) [reflective](vimarśavān)
 
 ## mukta-m0-p01-v3
-[pada](tadā) [pada](sa) [pada](deśikaḥ) [pada](śaivyā) [pada](dṛṣṭyā) [pada](tasya) [pada](navātmanaḥ)
+[then](tadā) [he](sa) [teacher](deśikaḥ) [by-Śaiva](śaivyā) [view](dṛṣṭyā) [of-him](tasya) [new-self](navātmanaḥ)
 
 ## mukta-m0-p01-v4
-[pada](anyadeva) [pada](punarbhūyāt) [pada](kaulikasya) [pada](mahātmanaḥ)
+[another-indeed](anyadeva) [again-become](punarbhūyāt) [of-Kaulika](kaulikasya) [great-soul](mahātmanaḥ)
 
 ## mukta-m0-p01-v5
-[pada](kulaṃ) [pada](jātiśca) [pada](śīlaṃ) [pada](cāpyaṣṭau) [pada](pāśāḥ) [pada](prakīrtitāḥ)
+[clan](kulaṃ) [birth-and](jātiśca) [conduct-and](śīlaṃ) [also-eight](cāpyaṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p01-v6
-[pada](tasya) [pada](bhaktasya) [pada](sakalaṃ) [pada](vapuḥ) [pada](sukṣetramucyate)
+[of-him](tasya) [devotee](bhaktasya) [whole](sakalaṃ) [body](vapuḥ) [good-field-called](sukṣetramucyate)
 
 ## mukta-m0-p01-v7
-[pada](śāktiḥ) [pada](śaktyunmīlanena) [pada](māṃtrī) [pada](maṃtropadeśataḥ)
+[Śākti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [mantric](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
 
 ## mukta-m0-p01-v8
-[pada](etābhiḥ) [pada](tisṛbhiścaiva) [pada](dīkṣābhirdīkṣito) [pada](naraḥ)
+[by-these](etābhiḥ) [three-and-indeed](tisṛbhiścaiva) [initiations](dīkṣābhiḥ) [initiated](dīkṣito) [man](naraḥ)
 
 ## mukta-m0-p01-v9
-[pada](bodhaliṃgasvarūpo'sau) [pada](jāyate) [pada](vāsanākṣayāt)
+[cognition-linga-nature](bodhaliṃgasvarūpo'sau) [is-born](jāyate) [by-impression-destruction](vāsanākṣayāt)
 
 ## mukta-m0-p01-v10
-[pada](stridviṣṭaṃ) [pada](lokavidviṣṭamālasyaṃ) [pada](caiva) [pada](cāpalam)
+[women-hated](stridviṣṭaṃ) [world-hated-laziness](lokavidviṣṭamālasyaṃ) [and-indeed](caiva) [fickleness](cāpalam)
 
 ## mukta-m0-p01-v11
-[pada](paradārāvamarśaṃ) [pada](ca) [pada](paradrohasya) [pada](ciṃtanam)
+[adultery-touch](paradārāvamarśaṃ) [and](ca) [of-treachery](paradrohasya) [thinking](ciṃtanam)
 
 ## mukta-m0-p01-v12
-[pada](atiniṣṭuraśīlatvamatidainyamatigrahaḥ)
+[excessive-harshness](atiniṣṭuraśīlatvam) [excessive-misery](atidainyam) [excessive-grasping](atigrahaḥ)
 
 ## mukta-m0-p01-v13
-[pada](ityādayo) [pada](mahādoṣāḥ) [pada](deśikasyaiva) [pada](vīkṣaṇāt)
+[such-etc](ityādayo) [great-faults](mahādoṣāḥ) [of-teacher-indeed](deśikasyaiva) [from-seeing](vīkṣaṇāt)
 
 ## mukta-m0-p01-v14
-[pada](kalā) [pada](vidyā) [pada](ca) [pada](rāgaśca) [pada](niyatiḥ) [pada](kāla) [pada](eva) [pada](ca)
+[power](kalā) [knowledge](vidyā) [and](ca) [attachment](rāgaśca) [destiny](niyatiḥ) [time](kāla) [indeed](eva) [and](ca)
 
 ## mukta-m0-p01-v15
-[pada](etābhireva) [pada](tīvrābhiḥ) [pada](śaktibhiḥ) [pada](kañcukāṭamabhiḥ)
+[by-these-indeed](etābhireva) [intense](tīvrābhiḥ) [powers](śaktibhiḥ) [jackets](kañcukāṭamabhiḥ)
 
 ## mukta-m0-p01-v16
-[pada](tābhirjjivatvamāpannaḥ) [pada](saṃsārīva) [pada](viceṣṭate)
+[jiva-hood-attained](jivatvamāpannaḥ) [like-samsarin](saṃsārīva) [struggles](viceṣṭate)
 
 ## mukta-m0-p01-v17
-[pada](itastato) [pada](hṛtaṃ) [pada](jīvaḥ) [pada](svayameva) [pada](svamāmṛśan)
+[from-here-there](itastato) [taken](hṛtaṃ) [jiva](jīvaḥ) [by-himself-indeed](svayameva) [self-reflecting](svamāmṛśan)
 
 ## mukta-m0-p01-v18
-[pada](pratibimba) [pada](na) [pada](sāmarthyān) [pada](maline) [pada](darpaṇe) [pada](yathā)
+[reflection](pratibimba) [not](na) [by-capacity](sāmarthyān) [in-dirty](maline) [mirror](darpaṇe) [as](yathā)
 
 ## mukta-m0-p01-v19
-[pada](tasmānmalapraṇāśena) [pada](śivatāpattikāraṇā)
+[therefore](tasmān) [by-impurity-destruction](malapraṇāśena) [Shiva-state-attainment-cause](śivatāpattikāraṇā)
 
 ## mukta-m0-p01-v20
-[pada](anādyavidyāvaśato) [pada](malarāśirmahān) [pada](yadi)
+[beginningless-ignorance-subject](anādyavidyāvaśato) [impurity-mass-great](malarāśirmahān) [if](yadi)
 
 ## mukta-m0-p01-v21
-[pada](kālāgnikoṭivaddīptāṃ) [pada](dahaṃtīṃ) [pada](pāśamujvalām)
+[time-fire-million-like-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond-blazing](pāśamujvalām)
 
 ## mukta-m0-p01-v22
-[pada](nijāṃ) [pada](śaktimanuṃ) [pada](dhyāyed) [pada](guruvīkṣaṇanirmalām)
+[own](nijāṃ) [power-mantra](śaktimanuṃ) [meditate](dhyāyed) [guru-sight-pure](guruvīkṣaṇanirmalām)
 
 ## mukta-m0-p01-v23
-[pada](tāvad) [pada](dhyānamidaṃ) [pada](kāryaṃ) [pada](sarvadurmalakartanam)
+[so-long](tāvad) [meditation-this](dhyānamidaṃ) [to-be-done](kāryaṃ) [all-bad-impurity-cutting](sarvadurmalakartanam)
 
 ## mukta-m0-p01-v24
-[pada](svayameva) [pada](prakāśeta) [pada](svātmā) [pada](saubhāgyabhājanam)
+[by-itself-indeed](svayameva) [shines](prakāśeta) [own-self](svātmā) [fortune-vessel](saubhāgyabhājanam)
 
 ## mukta-m0-p01-v25
-[pada](bhāsate)
+[shines](bhāsate)
