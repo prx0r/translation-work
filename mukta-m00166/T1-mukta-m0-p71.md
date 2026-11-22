@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p71-v1751
-[bhūta-past](bhūta) [bhāvi-future](bhāvi) [vibhāvinī-manifesting](vibhāvinī) [goddess](devī)
+[past-present-future-knower](bhūtabhāvivibhāvinī)
 
 ## mukta-m0-p71-v1752
-[ato-therefore](ato) [anyaḥ-other](anyaḥ) [kaḥ-who](kaḥ) [sadādyanta-beginning-end](sadādyanta)
+[other](ato'nyaḥ) [who](kaḥ) [always-beginning-end](sadādyantastvāṃ) [able-to-manifest](vibhāvayituṃ) [capable](kṣamaḥ)
 
 ## mukta-m0-p71-v1753
-[maṅgalā-auspicious](maṅgalā) [devī-goddess](devī) [sā-she](sā) [sadā-always](sadā)
+[auspicious](maṅgalā)
 
 ## mukta-m0-p71-v1754
-[sā-she](sā) [maṅgalā-auspicious](maṅgalā) [astu-be](astu) [asya-his](asya)
+[she](sā) [auspicious](maṅgalā) [always](sadā) [companion](sahāyā)
 
 ## mukta-m0-p71-v1755
-[suśīlā-good-character](suśīlā) [devī-goddess](devī) [yadi-if](yadi) [nābhaviṣyaḥ-not-be](nābhaviṣyaḥ)
+[good-charactered](suśīlā)
 
 ## mukta-m0-p71-v1756
-[svayaṃ-oneself](svayaṃ) [suśīlā-good-character](suśīlā) [yadi-if](yadi) [nābhaviṣyaḥ-not-be](nābhaviṣyaḥ)
+[self](svayaṃ) [good-charactered](suśīlā) [if](yadi) [not-would-be](nābhaviṣyaḥ)
 
 ## mukta-m0-p71-v1757
-[paramārtha-ultimate-truth](paramārtha) [prabodhikā-awakening](prabodhikā) [devī-goddess](devī) [sā-she](sā)
+[ultimate-truth-awakener](paramārthaprabodhikā)
 
 ## mukta-m0-p71-v1758
-[yadā-when](yadā) [āptyā-attainment](āptyā) [bhrāmakān-wandering](bhrāmakān) [anyān-other](anyān)
+[by-attainment](yadāptyā) [wandering](bhrāmakān) [other](anyān) [harms](arthāñ) [know](jānāmi) [grass-like](śaṣpavat)
 
 ## mukta-m0-p71-v1759
-[dakṣiṇā-south-right](dakṣiṇā) [devī-goddess](devī) [sā-she](sā) [prakīrtyase-praised](prakīrtyase)
+[right-handed](dakṣiṇā)
 
 ## mukta-m0-p71-v1760
-[yatastataḥ-from-there](yatastataḥ) [tataprajñaiḥ-by-knowers](tataprajñaiḥ) [dakṣiṇā-right](dakṣiṇā) [prakīrtyase-praised](prakīrtyase)
+[therefore](yatastatastataprajñairdakṣiṇeti) [proclaimed](prakīrtyase)
 
 ## mukta-m0-p71-v1761
-[dakṣiṇāmūrtiḥ-south-facing-form](dakṣiṇāmūrtiḥ) [devī-goddess](devī) [sā-she](sā) [prasiddhā-famous](prasiddhā)
+[right-handed-form](dakṣiṇāmūrtiḥ)
 
 ## mukta-m0-p71-v1762
-[sā-she](sā) [dakṣiṇāmūrtiḥ-south-facing-form](dakṣiṇāmūrtiḥ) [iti-thus](iti) [prasiddhā-famous](prasiddhā)
+[she](sā) [right-handed-form](dakṣiṇāmūrtiḥ) [thus](iti) [famous](prasiddhā)
 
 ## mukta-m0-p71-v1763
-[sudakṣiṇā-very-right](sudakṣiṇā) [devī-goddess](devī) [satyaṃ-truly](satyaṃ) [tataḥ-then](tataḥ)
+[very-right-handed](sudakṣiṇā)
 
 ## mukta-m0-p71-v1764
-[satyaṃ-truly](satyaṃ) [tataḥ-then](tataḥ) [devi-goddess](devi) [sudakṣiṇā-very-right](sudakṣiṇāsi)
+[true](satyaṃ) [then](tato) [goddess](devi) [very-right-handed](sudakṣiṇāsi)
 
 ## mukta-m0-p71-v1765
-[haripriyā-viṣṇu-beloved](haripriyā) [devī-goddess](devī) [sā-she](sā) [kīrtitā-praised](kīrtitā)
+[hari-beloved](haripriyā)
 
 ## mukta-m0-p71-v1766
-[śauriḥ-viṣṇu](śauriḥ) [yaddayayā-by-whose-mercy](yaddayayā) [devī-goddess](devī) [kīrtitā-praised](kīrtitā)
+[śauri](śauriryaddayayā) [goddess](devī) [praised](kīrtitā) [she](sā) [hari-beloved](haripriyā)
 
 ## mukta-m0-p71-v1767
-[yoginī-yoginī](yoginī) [devī-goddess](devī) [sā-she](sā) [subhagayogadā-granting-auspicious-yoga](subhagayogadā)
+[yoginī](yoginī)
 
 ## mukta-m0-p71-v1768
-[rogaśoka-disease-sorrow](rogaśoka) [vinivartitāśayā-removed-mind](vinivartitāśayā) [yoginī-yoginī](yoginī) [subhagayogadā-granting-auspicious-yoga](subhagayogadāstu)
+[disease-sorrow-removing](rogaśokavinivartitāśayā) [yoginī](yoginī) [fortunate-yoga-giver](subhagayogadāstu) [she](sā)
 
 ## mukta-m0-p71-v1769
-[yogayuktā-yoga-united](yogayuktā) [devī-goddess](devī) [cidānanda-consciousness-bliss](cidānanda) [nityaṃ-eternally](nityaṃ)
+[yoga-united](yogayuktā)
 
 ## mukta-m0-p71-v1770
-[cidānanda-consciousness-bliss](cidānanda) [eva-indeed](eva) [yannityaṃ-which-eternally](yannityaṃ) [yogayuktā-yoga-united](yogayuktā)
+[consciousness-bliss](cidānandaiva) [eternal](yannityaṃ) [yoga-united](yogayuktā) [therefore](tataḥ) [by-self](svataḥ)
 
 ## mukta-m0-p71-v1771
-[yogāṅgā-yoga-limb](yogāṅgā) [devī-goddess](devī) [āpannānām-of-afflicted](āpannānām) [āpadanta-removing-distress](āpadanta)
+[yoga-limb](yogāṅgā)
 
 ## mukta-m0-p71-v1772
-[āpannānām-of-afflicted](āpannānām) [āpadanta-removing-distress](āpadanta) [ekahetuḥ-single-cause](ekahetuḥ) [yogāṅgeyaṃ-this-yoga-limb](yogāṅgeyaṃ)
+[afflicted-ones](āpannānām) [calamity-end-single-cause](āpadantaikaheturyogāṅgeyaṃ) [proclaimed](kīrtitā) [by-yoga-lords](yogināthaiḥ)
 
 ## mukta-m0-p71-v1773
-[dhyānaśālinī-meditation-endowed](dhyānaśālinī) [devī-goddess](devī) [sarvadhyeyā-worshipped-by-all](sarvadhyeyāpi) [sarvāsi-you-are-all](sarvāsi)
+[meditation-possessing](dhyānaśālinī)
 
 ## mukta-m0-p71-v1774
-[sarvadhyeyā-worshipped-by-all](sarvadhyeyāpi) [sarvāsi-you-are-all](sarvāsi) [tvaṃ-you](tvaṃ) [yasya-whose](yasya)
+[all-meditation-worthy](sarvadhyeyāpi) [all](sarvāsi) [you](tvaṃ) [whose](yasya) [meditation-possessing](dhyānaśālinī)
 
 ## mukta-m0-p71-v1775
-[yogapaṭṭadharā-yoga-band-wearer](yogapaṭṭadharā) [devī-goddess](devī) [sā-she](sā) [dhyānaśālinī-meditation-endowed](dhyānaśālinī)
+[yoga-band-wearer](yogapaṭṭadharā)
