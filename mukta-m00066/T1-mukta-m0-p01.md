@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p01-v1
-[bliss-deity-abode](ānaṃdadevatāsthānam) [in-this](asmin) [linga](liṃge) [O-great-lady](maheśvari)
+[ānanda-devatā-sthānam](ānaṃdadevatāsthānam) [asmin](asmin) [liṃge](liṃge) [maheśvari](maheśvari)
 
 ## mukta-m0-p01-v2
-[when](yadā) [by-own-power-descent](svaśaktipātena) [awakened](prabuddhaḥ) [he](sa) [reflective](vimarśavān)
+[yadā](yadā) [sva-śakti-pātena](svaśaktipātena) [prabuddhaḥ](prabuddhaḥ) [sa](sa) [vimarśavān](vimarśavān)
 
 ## mukta-m0-p01-v3
-[then](tadā) [he](sa) [teacher](deśikaḥ) [by-Śaivī](śaivyā) [by-vision](dṛṣṭyā) [of-him](tasya) [of-new-self](navātmanaḥ)
+[tadā](tadā) [sa](sa) [deśikaḥ](deśikaḥ) [śaivyā](śaivyā) [dṛṣṭyā](dṛṣṭyā) [tasya](tasya) [nava-ātmanaḥ](navātmanaḥ)
 
 ## mukta-m0-p01-v4
-[another-indeed](anyadeva) [again-may-become](punarbhūyāt) [of-Kaulika](kaulikasya) [of-great-soul](mahātmanaḥ)
+[anya-deva](anyadeva) [punar-bhūyāt](punarbhūyāt) [kaulikasya](kaulikasya) [mahā-ātmanaḥ](mahātmanaḥ)
 
 ## mukta-m0-p01-v5
-[clan](kulaṃ) [birth-and](jātiśca) [conduct-and](śīlaṃ) [also-eight](cāpyaṣṭau) [bonds](pāśāḥ) [declared](prakīrtitāḥ)
+[kulaṃ](kulaṃ) [jātiḥ-ca](jātiśca) [śīlaṃ](śīlaṃ) [ca-api-aṣṭau](cāpyaṣṭau) [pāśāḥ](pāśāḥ) [prakīrtitāḥ](prakīrtitāḥ)
 
 ## mukta-m0-p01-v6
-[of-him](tasya) [of-devotee](bhaktasya) [whole](sakalaṃ) [body](vapuḥ) [good-field-called](sukṣetramucyate)
+[tasya](tasya) [bhaktasya](bhaktasya) [sakalaṃ](sakalaṃ) [vapuḥ](vapuḥ) [sukṣetram-ucyate](sukṣetramucyate)
 
 ## mukta-m0-p01-v7
-[Śākti](śāktiḥ) [by-power-unfolding](śaktyunmīlanena) [Mantrī](māṃtrī) [by-mantra-instruction](maṃtropadeśataḥ)
+[śāktiḥ](śāktiḥ) [śakti-unmīlanena](śaktyunmīlanena) [māṃtrī](māṃtrī) [maṃtra-upadeśataḥ](maṃtropadeśataḥ)
 
 ## mukta-m0-p01-v8
-[by-these](etābhiḥ) [by-three-and-indeed](tisṛbhiścaiva) [by-initiations](dīkṣābhiḥ) [initiated](dīkṣito) [man](naraḥ)
+[etābhiḥ](etābhiḥ) [tisṛbhiḥ-ca-eva](tisṛbhiścaiva) [dīkṣābhiḥ](dīkṣābhiḥ) [dīkṣitaḥ](dīkṣito) [naraḥ](naraḥ)
 
 ## mukta-m0-p01-v9
-[consciousness-linga-nature-he](bodhaliṃgasvarūpo'sau) [is-born](jāyate) [from-impression-destruction](vāsanākṣayāt)
+[bodha-liṃga-svarūpaḥ-asau](bodhaliṃgasvarūpo'sau) [jāyate](jāyate) [vāsanā-kṣayāt](vāsanākṣayāt)
 
 ## mukta-m0-p01-v10
-[women-hated](stridviṣṭaṃ) [world-hated](lokavidviṣṭam) [laziness](ālasyaṃ) [and-indeed](caiva) [fickleness](cāpalam)
+[stridviṣṭaṃ](stridviṣṭaṃ) [loka-vidviṣṭa-mālasyaṃ](lokavidviṣṭamālasyaṃ) [ca-eva](caiva) [ca-apalam](cāpalam)
 
 ## mukta-m0-p01-v11
-[adultery-touch](paradārāvamarśaṃ) [and](ca) [treachery-thought](paradrohasya) [thinking](ciṃtanam)
+[para-dāra-avamarśaṃ](paradārāvamarśaṃ) [ca](ca) [para-drohasya](paradrohasya) [ciṃtanam](ciṃtanam)
 
 ## mukta-m0-p01-v12
-[excessive-harsh-conduct](atiniṣṭuraśīlatvam) [excessive-misery](atidainyam) [excessive-greed](atigrahaḥ)
+[ati-niṣṭura-śīlatvam](atiniṣṭuraśīlatvam) [ati-dainyam](atidainyam) [ati-grahaḥ](atigrahaḥ)
 
 ## mukta-m0-p01-v13
-[etc](ityādayo) [great-faults](mahādoṣāḥ) [of-teacher-indeed](deśikasyaiva) [from-vision](vīkṣaṇāt)
+[ityādayaḥ](ityādayo) [mahā-doṣāḥ](mahādoṣāḥ) [deśikasya-eva](deśikasyaiva) [vīkṣaṇāt](vīkṣaṇāt)
 
 ## mukta-m0-p01-v14
-[limited-power](kalā) [knowledge](vidyā) [and](ca) [attachment](rāgaśca) [destiny](niyatiḥ) [time-indeed](kāla) [eva](eva) [and](ca)
+[kalā](kalā) [vidyā](vidyā) [ca](ca) [rāgaḥ-ca](rāgaśca) [niyatiḥ](niyatiḥ) [kāla](kāla) [eva](eva) [ca](ca)
 
 ## mukta-m0-p01-v15
-[by-these-indeed](etābhireva) [intense](tīvrābhiḥ) [powers](śaktibhiḥ) [by-jackets](kañcukāṭamabhiḥ)
+[etābhiḥ-eva](etābhireva) [tīvrābhiḥ](tīvrābhiḥ) [śaktibhiḥ](śaktibhiḥ) [kañcuka-āṭamabhiḥ](kañcukāṭamabhiḥ)
 
 ## mukta-m0-p01-v16
-[by-them](tābhiḥ) [jīva-hood](jivatvam) [attained](āpannaḥ) [like-saṃsārin](saṃsārīva) [struggles](viceṣṭate)
+[tābhiḥ-jivatvam-āpannaḥ](tābhirjjivatvamāpannaḥ) [saṃsārī-iva](saṃsārīva) [viceṣṭate](viceṣṭate)
 
 ## mukta-m0-p01-v17
-[from-here-there](itastato) [taken](hṛtaṃ) [jīva](jīvaḥ) [by-itself-indeed](svayameva) [self-reflecting](svamāmṛśan)
+[itaḥ-tataḥ](itastato) [hṛtaṃ](hṛtaṃ) [jīvaḥ](jīvaḥ) [svayam-eva](svayameva) [svam-āmṛśan](svamāmṛśan)
 
 ## mukta-m0-p01-v18
-[reflection](pratibimba) [not](na) [by-capacity](sāmarthyān) [in-dirty](maline) [mirror](darpaṇe) [as](yathā)
+[pratibimba](pratibimba) [na](na) [sāmarthyān](sāmarthyān) [maline](maline) [darpaṇe](darpaṇe) [yathā](yathā)
 
 ## mukta-m0-p01-v19
-[therefore](tasmāt) [by-impurity-destruction](malapraṇāśena) [Śiva-state-attainment-cause](śivatāpattikāraṇā)
+[tasmāt-mala-praṇāśena](tasmānmalapraṇāśena) [śivatā-āpatti-kāraṇā](śivatāpattikāraṇā)
 
 ## mukta-m0-p01-v20
-[beginningless-ignorance-subject](anādyavidyāvaśato) [impurity-mass-great](malarāśirmahān) [if](yadi)
+[anādya-avidyā-vaśataḥ](anādyavidyāvaśato) [mala-rāśiḥ-mahān](malarāśirmahān) [yadi](yadi)
 
 ## mukta-m0-p01-v21
-[time-fire-million-like-blazing](kālāgnikoṭivaddīptāṃ) [burning](dahaṃtīṃ) [bond](pāśam) [radiant](ujvalām)
+[kāla-agni-koṭi-vat-dīptāṃ](kālāgnikoṭivaddīptāṃ) [dahaṃtīṃ](dahaṃtīṃ) [pāśam-ujvalām](pāśamujvalām)
 
 ## mukta-m0-p01-v22
-[own](nijāṃ) [power-mantra](śaktimanuṃ) [meditate](dhyāyed) [guru-vision-pure](guruvīkṣaṇanirmalām)
+[nijāṃ](nijāṃ) [śakti-manuṃ](śaktimanuṃ) [dhyāyet](dhyāyed) [guru-vīkṣaṇa-nirmalām](guruvīkṣaṇanirmalām)
 
 ## mukta-m0-p01-v23
-[so-long](tāvad) [meditation-this](dhyānamidaṃ) [to-be-done](kāryaṃ) [all-bad-impurity-destroying](sarvadurmalakartanam)
+[tāvat](tāvad) [dhyānam-idam](dhyānamidaṃ) [kāryaṃ](kāryaṃ) [sarva-dur-mala-kartanam](sarvadurmalakartanam)
 
 ## mukta-m0-p01-v24
-[by-itself-indeed](svayameva) [shines](prakāśeta) [own-self](svātmā) [fortune-vessel](saubhāgyabhājanam)
+[svayam-eva](svayameva) [prakāśeta](prakāśeta) [sva-ātmā](svātmā) [saubhāgya-bhājanam](saubhāgyabhājanam)
 
 ## mukta-m0-p01-v25
-[shines](bhāsate)
+[bhāsate](bhāsate)

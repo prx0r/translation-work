@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[striking](tāḍana) [principal](pramukhaṃ) [action](karmataṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
-
+[gloss](tāḍana) [gloss](pramukhaṃ) [gloss](karmataṃ) [gloss](hetuṃ) [gloss](kathaya) [gloss](prabho)
 ## mukta-m0-p27-v652
-[delusion](mohaṃ) [moment](kṣaṇe) [moment-messenger](kṣaṇedūtyā) [worship](bhajaṃte) [playful-action](narmakarmaṇi)
-
+[gloss](mohaṃ) [gloss](kṣaṇe) [gloss](kṣaṇedūtyā) [gloss](bhajaṃte) [gloss](narmakarmaṇi)
 ## mukta-m0-p27-v653
-[therefore](tasmād) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [melt-indeed](dravaṃtyeva) [messengers](dūtikāḥ)
-
+[gloss](tasmādalasatāṃ) [gloss](prāptā) [gloss](na) [gloss](dravaṃtyeva) [gloss](dūtikāḥ)
 ## mukta-m0-p27-v654
-[delays](vilaṃbate) [pleasure](ratiṃ) [give](dātuṃ) [from-that-delay](tadvilaṃbāt) [where-pleasure](sukhaṃkutaḥ)
-
+[gloss](vilaṃbate) [gloss](ratiṃ) [gloss](dātuṃ) [gloss](tadvilaṃbāt) [gloss](sukhaṃkutaḥ)
 ## mukta-m0-p27-v655
-[they](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [pleasure-sacrifice](ratādhvare)
-
+[gloss](tāḥ) [gloss](prabuddhāḥ) [gloss](samutsāha) [gloss](mārabhaṃte) [gloss](ratādhvare)
 ## mukta-m0-p27-v656
-[messenger-runs](dūtyodravati) [much](bahuśo) [fresh-butter-like-fire](navanītamivāgninā)
-
+[gloss](dūtyodravati) [gloss](bahuśonavanītamivāgninā)
 ## mukta-m0-p27-v657
-[dissolution](layam) [meaning-dissolution](arthalayaṃ) [and](cāpi) [then](tadā) [striking-dissolution](ghaṭṭalayaṃ) [beloved](priye)
-
+[gloss](layamarthalayaṃ) [gloss](cāpi) [gloss](tadā) [gloss](ghaṭṭalayaṃ) [gloss](priye)
 ## mukta-m0-p27-v658
-[moving](acaran) [messenger-limb](dūtikāgātram) [blissful-state](ānaṃdamayatāṃ) [lead](nayet)
-
+[gloss](acarandūtikāgātramānaṃdamayatāṃ) [gloss](nayet)
 ## mukta-m0-p27-v659
-[oneself](svayam) [extremely](atyaṃta) [steady-soul](dhīrātmā) [meditating](bhāvayan) [linga-key](liṃgakuṃcikām)
-
+[gloss](svayamatyaṃta) [gloss](dhīrātmā) [gloss](bhāvayan) [gloss](liṃgakuṃcikām)
 ## mukta-m0-p27-v660
-[eternal-bliss](nityānaṃdamayaṃ) [essence](tatvaṃ) [world-pervading](jagadvyāptaṃ) [contemplate](viciṃtayat)
-
+[gloss](nityānaṃdamayaṃ) [gloss](tatvaṃ) [gloss](jagadvyāptaṃ) [gloss](viciṃtayat)
 ## mukta-m0-p27-v661
-[this-indeed](ayameva) [great-sacrifice](mahāyajñaḥ) [austerity](tapaḥ) [this](cedam) [supreme](anuttamam)
-
+[gloss](ayameva) [gloss](mahāyajñastapaścedamanuttamam)
 ## mukta-m0-p27-v662
-[this](idaṃ) [vow](vrataṃ) [great-merit](mahāpuṇyam) [bliss-nondual-giving](ānaṃdādvaitadāyakaṃ)
-
+[gloss](idaṃ) [gloss](vrataṃ) [gloss](mahāpuṇyamānaṃdādvaitadāyakaṃ)
 ## mukta-m0-p27-v663
-[drop-emission](biṃduvikṣaraṇaṃ) [named](nāma) [sacrifice-completion](yajñāvabhṛthaḥ) [called](ucyate)
-
+[gloss](biṃduvikṣaraṇaṃ) [gloss](nāma) [gloss](yajñāvabhṛtha) [gloss](ucyate)
 ## mukta-m0-p27-v664
-[as](yathā) [as](yathā) [time-length](kāladairghyaṃ) [patience-bond](dhairyabaṃdhena) [greatly](bhūyasā)
-
+[gloss](yathā) [gloss](yathā) [gloss](kāladairghyaṃ) [gloss](dhairyabaṃdhena) [gloss](bhūyasā)
 ## mukta-m0-p27-v665
-[fire](agniḥ) [mouth](mukhe) [mercury-like](pāradavat) [not](na) [patience](dhairyam) [follows](anudhāvati)
-
+[gloss](agnirmukhe) [gloss](pāradavat) [gloss](na) [gloss](dhairyamanudhāvati)
 ## mukta-m0-p27-v666
-[how](kathaṃ) [becomes](bhavati) [fierce-lord](caṇḍīśa) [stopped](prastabdhaṃ) [white-limb](śuklamaṃgake)
-
+[gloss](kathaṃ) [gloss](bhavati) [gloss](caṇḍīśa) [gloss](prastabdhaṃ) [gloss](śuklamaṃgake)
 ## mukta-m0-p27-v667
-[extremely-wonder-causing](atyaṃtāścaryajanakaṃ) [if](yadi) [white-retention](śuklasya+dhāraṇā)
-
+[gloss](atyaṃtāścaryajanakaṃ) [gloss](yadiśuklasya) [gloss](dhāraṇā)
 ## mukta-m0-p27-v668
-[not](na) [small](tukena) [even](api) [effort](yatnena) [arises](jāyate) [white-retention](śukladhāraṇā)
-
+[gloss](natukenāpi) [gloss](yatnena) [gloss](jāyate) [gloss](śukladhāraṇā)
 ## mukta-m0-p27-v669
-[love-treatises](kāmataṃtreṣu) [much](bahuśaḥ) [enjoyers-by](bhogibhir) [what-performed](yadanuṣṭhitam)
-
+[gloss](kāmataṃtreṣu) [gloss](bahuśobhogibhiryadanuṣṭhitam)
 ## mukta-m0-p27-v670
-[that](tad) [I-say](vadāmi) [great-fortunate](mahābhāge) [stopping](staṃbhanaṃ) [essence-prosperity](rasasaṃpadām)
-
+[gloss](tadvadāmi) [gloss](mahābhāge) [gloss](staṃbhanaṃ) [gloss](rasasaṃpadām)
 ## mukta-m0-p27-v671
-[rejoices](naṃdavyate) [somehow](kathamapi) [mature](prauḍham) [one-essence](ekorasam) [wise](budhaiḥ)
-
+[gloss](naṃdavyate) [gloss](kathamapi) [gloss](prauḍhamekorasobudhaiḥ)
 ## mukta-m0-p27-v672
-[all-even](sarvepi) [elements](dhātavo) [goddess](devī) [own-own-place](svasvasthāne) [made-refuge](kṛtāśrayāḥ)
-
+[gloss](sarvepi) [gloss](dhātavodevī) [gloss](svasvasthāne) [gloss](kṛtāśrayāḥ)
 ## mukta-m0-p27-v673
-[channels-wheels](nāḍīcakreṣu) [all](sarveṣu) [dwelling-even](vasannapi) [mercury-lord](raseśvaraḥ)
-
+[gloss](nāḍīcakreṣu) [gloss](sarveṣu) [gloss](vasannapi) [gloss](raseśvaraḥ)
 ## mukta-m0-p27-v674
-[some](kecid) [say](vadaṃti) [between-brows](bhrūmadhye) [some](kecid) [heart-gem](hṛdiparemaṇau)
-
+[gloss](kecidvadaṃti) [gloss](bhrūmadhye) [gloss](keciddhṛdiparemaṇau)
 ## mukta-m0-p27-v675
-[some](decid) [grass-surface](ūrvostale) [goddess](devi) [some](decid) [hip-region](jaghanasīmani)
+[gloss](decidūrvostaledevi) [gloss](decijjaghanasīmani)
