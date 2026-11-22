@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[not](na) [anything](kiṃcid) [also](api) [I-know](jānāmi) [lord](nātha) [awaken](bodhaya) [awaken](bodhaya)
+not anything even know lord awaken awaken
 
 ## mukta-m0-p36-v877
-[for-this](etat) [bliss-cause](saukhyani) [dānāya](dānāya) [well-being-sign](svastiliṃgāya) [to-śambhu](śaṃbhave)
+this happiness-cause for welfare-sign to-Shambhu
 
 ## mukta-m0-p36-v878
-[to-śiva](śivārpaṇam) [this](idaṃ) [may-be](bhūyāt) [again](punar) [astu](astu) [to-śiva](śivārpaṇam)
+offering-to-Shiva this may-be again be offering-to-Shiva
 
 ## mukta-m0-p36-v879
-[withered](mlānā) [lotus-stalk](padmamṛṇālī) [iva](iva) [garland-like](mālikeva) [asya](asya) [chest](vakṣasi)
+withered lotus-stalk like garland-like his chest
 
 ## mukta-m0-p36-v880
-[absorbed](līnalīnā) [akṣara](akṣaraṃ) [afterwards](paścāt) [slow](maṃdamaṃdā) [akṣara](akṣaraṃ) [again](punaḥ)
+absorbed-absorbed-syllable afterwards slow-slow-syllable again
 
 ## mukta-m0-p36-v881
-[thus-etc](evamādi) [guṇa](guṇa) [messenger](dūtyāḥ) [sixth-offering](ṣaḍāhuti) [great-festival](mahotsave)
+such-etc-quality-messenger six-offerings great-festival
 
 ## mukta-m0-p36-v882
-[sixth](ṣaṣṭhi) [six-taste](ṣaḍrasa) [endowed](saṃpanna) [much-food](bahubhojana) [giving](dāyinī)
+sixth-six-taste-endowed many-food-giving
 
 ## mukta-m0-p36-v883
-[six-limb](ṣaḍaṃga) [deity](devatā) [form](rūpā) [always](sarvadā) [kriyatām](kriyatāṃ) [budhaiḥ](budhaiḥ)
+six-limb-deity form all-ritual-water-by
 
 ## mukta-m0-p36-v884
-[of-heroine](nāyikāyāḥ) [ca](ca) [vidṛtyā](vidṛtyā) [comfort-rest](sukhaśrāṃtiḥ) [proceeds](pravartate)
+heroine's and by-opening comfort-rest arises
 
 ## mukta-m0-p36-v885
-[sugar-nectar-mixed](śarkarāmṛtasaṃmiśraṃ) [pure-soup](śuddhiyūṣa) [sanādhitam](sanādhitam)
+sugar-nectar-mixed purity-soup-seasoned
 
 ## mukta-m0-p36-v886
-[self](svayaṃ) [tad](tad) [remaining](avaśiṣṭaṃ) [ca](ca) [drink](pibet) [devotion](bhakti) [bharānataḥ](bharānataḥ)
+oneself that remainder and drink devotion full-bowed
 
 ## mukta-m0-p36-v887
-[mantra](maṃtraṃ) [ca](ca) [ānandadevasya](ānandadevasya) [hundred](śataśaḥ) [or](vā) [thousand](sahasraśaḥ)
+mantra and of-Anandadeva hundredfold or thousandfold
 
 ## mukta-m0-p36-v888
-[unfit-instrument](ayuktayaṃtraḥ) [japet](prajaped) [deity-curse](devatāśāpam) [obtain](āpnuyāt)
+improper-instrument recite deity-curse obtain
 
 ## mukta-m0-p36-v889
-[thus](evaṃ) [japte](japte) [supreme-bliss-form](parānaṃdarūpi) [liṅga](liṃga) [maheśvaraḥ](maheśvaraḥ)
+thus recited supreme-bliss-form linga-great-lord
 
 ## mukta-m0-p36-v890
-[as-long-as](yāvat) [japati](japati) [hero](vīraḥ) [ayaṃ](ayaṃ) [messenger-rest](dūtiviśrāṃti) [hetave](hetave)
+as-long-as recites hero this messenger-rest for
 
 ## mukta-m0-p36-v891
-[thus](iththaṃ) [by-steps](krameṇa) [rest](viśrāṃtiṃ) [gone](gatāyāṃ) [messenger-body](dūtikātanau)
+thus by-steps rest having-gone messenger-body
 
 ## mukta-m0-p36-v892
-[moon-ray](caṃdrarekhā) [arthaṃ](arthāṃ) [gulinā](gulinā) [raised](pronnatā) [moon-moonlight](caṃdracaṃdrikā)
+moon-crescent-purpose by-gula elevated moon-moonlight
 
 ## mukta-m0-p36-v893
-[atasī](atasī) [flower-like](puṣpasaṃkāśā) [triangle-form](trikoṇākāratāṃ) [gone](gatā)
+flax flower-resembling triangular-form gone
 
 ## mukta-m0-p36-v894
-[long-flowing](ciradravā) [api](api) [lord](nātha) [eka](eka) [arranged](kluptaiḥ) [thumb](aṃguṣṭha) [kisses](cuṃbanaiḥ)
+long-flowing even lord one arranged thumb kisses
 
 ## mukta-m0-p36-v895
-[navel](nābhau) [slap](capeṭa) [falling](patanaiḥ) [buttocks](nitaṃbe) [hand-massage](hastamardanaiḥ)
+navel and belly falls buttock hand-massages
 
 ## mukta-m0-p36-v896
-[own](nijaṃ) [rasa](rasaṃ) [flowing](sravaṃtyeva) [heroine](nāyikā) [moon-moonlight](caṃdracaṃdrikā)
+own juice flowing indeed heroine moon-moonlight
 
 ## mukta-m0-p36-v897
-[paishṭi-wine](paiṣṭimadya) [equal-fragrance](samāmodaṃ) [arrow-flower](bāṇapuṣpa) [ulbaṇa](ulbaṇa) [radiance](dyuti)
+rice-wine-fragrance arrow-flower-abundant-radiance
 
 ## mukta-m0-p36-v898
-[attainment](prāpti) [siddhi](siddhi) [procreation](prajananaṃ) [all-powers](sarvaiśvarya) [named](ākhya) [speech](vāṅmayam)
+attainment-accomplishment-progeny all-sovereignty-named-speech
 
 ## mukta-m0-p36-v899
-[all-disease](samastavyādhi) [pacification](śamanaṃ) [light](laghu) [cool](śītala) [pure](nirmalam)
+all-disease-pacifying light-cool-pure
 
 ## mukta-m0-p36-v900
-[then](tadā) [japed](japet) [itaṃ](itaṃ) [mantraṃ](maṃtraṃ) [ca](ca) [palāṃbā](palāṃbā) [adhidevatam](adhidevatam)
+then recited mantra and Palamba-presiding-deity

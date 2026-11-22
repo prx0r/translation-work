@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p57-v1401
-[gupta-artha-aya](guptārthāya) [ca](ca) [hṛdya-aṅgi](hṛdyāṅgi) [na](na) [tu](tu) [tatva-avabodhane](tatvāvabodhane)
+[for-hidden-meaning](guptārthāya) [and](ca) [heart-limbed](hṛdyāṅgi) [not](na) [but](tu) [truth-awakening-in](tatvāvabodhane)
 
 ## mukta-m0-p57-v1402
-[ānanda-tantra](ānaṃdataṃtra) [eva](evāsminnā) [na](na) [paratra](paratra) [kvacit](kvacinmataḥ) [mataḥ](mataḥ)
+[bliss-tantra](ānaṃdataṃtra) [indeed-in-this](evāsminnā) [elsewhere](paratra) [somewhere-opinion](kvacinmataḥ)
 
 ## mukta-m0-p57-v1403
-[tatva-bhūtam](tatvabhūtamidaṃ) [idam](idam) [subhru](subhruyo) [yo](yo) [mahā-yāga](mahāyāga) [īritaḥ](īritaḥ)
+[truth-being-this](tatvabhūtamidaṃ) [fair-browed](subhruyo) [great-sacrifice](mahāyāga) [declared](īritaḥ)
 
 ## mukta-m0-p57-v1404
-[asya](asya) [tantra-sya](taṃtrasya) [tatvāni](tatvāni) [siddhāntaḥ](siddhāntaśca) [ca](ca) [pradarśyate](pradarśyate)
+[of-this](asya) [tantra's](taṃtrasya) [truths](tatvāni) [doctrine-and](siddhāntaśca) [shown](pradarśyate)
 
 ## mukta-m0-p57-v1405
-[āvirbhāva](āvirbbhāvatirobhāvau) [tirobhāvau](tirobhāvau) [varttete](varttete) [sarva-vastuṣu](sarvavastuṣu)
+[manifestation-and-concealment](āvirbbhāvatirobhāvau) [occur](varttete) [in-all-things](sarvavastuṣu)
 
 ## mukta-m0-p57-v1406
-[na](na) [devadattaḥ](devadatto) [bhavanāt](bhavanānnirgacchan) [nirgacchan](nirgacchan) [pūrva-saṅgataḥ](pūrvasaṅgataḥ)
+[not](na) [devadatta](devadatto) [from-house](bhavanānnirgacchan) [prior-associated](pūrvasaṅgataḥ)
 
 ## mukta-m0-p57-v1407
-[na](na) [devadattaḥ](devadatto) [bhavanāt](bhavanāt) [praveśana-tirohitaḥ](praveśanatirohitaḥ)
+[not](na) [devadatta](devadatto) [from-house](bhavanāt) [entering-concealed](praveśanatirohitaḥ)
 
 ## mukta-m0-p57-v1408
-[āvirbhāvam](āvirbhāvaṃ) [vinā](vinotpattiranyākāpina) [utpattiḥ](utpattiranyākāpina) [anyā](anyākāpina) [vidyate](vidyate)
+[manifestation](āvirbhāvaṃ) [without-birth](vinotpattiranyākāpina) [exists](vidyate)
 
 ## mukta-m0-p57-v1409
-[tad-vicāre](tadvicāre) [kṛte](kṛte) [na](na) [eva](eva) [cārutvam](cārutvamanudhāvati) [anudhāvati](anudhāvati)
+[that-inquiry](tadvicāre) [done](kṛte) [not-indeed](naiva) [beauty](cārutvamanudhāvati)
 
 ## mukta-m0-p57-v1410
-[utpanna-tvam](utpannatvaṃ) [viśiṣṭa-tvam](viśiṣṭatvaṃ) [tadā](tadaivādau) [eva](eva) [ādau](ādau) [pradarśitam](pradarśitam)
+[born-ness](utpannatvaṃ) [distinct-ness](viśiṣṭatvaṃ) [then-in-beginning](tadaivādau) [shown](pradarśitam)
 
 ## mukta-m0-p57-v1411
-[na](na) [tu](tu) [teṣām](teṣāṃ) [vāstava-tvam](vāstavatvaṃ) [vyavahāra-eka-janmanā](vyavahāraikajanmanā)
+[not](na) [but](tu) [their](teṣāṃ) [reality](vāstavatvaṃ) [conventional-birth-only](vyavahāraikajanmanā)
 
 ## mukta-m0-p57-v1412
-[diśaḥ](diśaścacarcane) [ca](ca) [carcane](carcane) [deśaḥ](deśo) [nabhasaḥ](nabhasaścarcane) [carcane](carcane) [marut](marut)
+[directions-in-discussion](diśaścacarcane) [place](deśo) [sky-in-discussion](nabhasaścarcane) [wind](marut)
 
 ## mukta-m0-p57-v1413
-[bhūmiḥ](bhūmirāponalo) [āpaḥ](āponalo) [analaḥ](analo) [vāyuḥ](vāyuḥ) [śabdaḥ](śabdaścatimiraṃ) [ca](ca) [timiram](timiraṃ) [manaḥ](manaḥ)
+[earth](bhūmirāponalo) [water-fire](āponalo) [wind](vāyuḥ) [sound-and-darkness](śabdaścatimiraṃ) [mind](manaḥ)
 
 ## mukta-m0-p57-v1414
-[etad](etad) [bhidā](bhidaiva) [eva](eva) [sarveṣām](sarveṣāṃ) [padārthānām](padārthānāṃ) [vijṛmbhaṇam](vijṛmbhaṇam)
+[this](etad) [indeed](bhidaiva) [of-all](sarveṣāṃ) [categories](padārthānāṃ) [expansion](vijṛmbhaṇam)
 
 ## mukta-m0-p57-v1415
-[saṅghata](saṅghatarūpakarmādyā) [rūpa](rūpakarmādyā) [karma](karmādyā) [ādyāḥ](ādyā) [na](na) [teṣām](teṣāmasti) [asti](asti) [gaṇyatā](gaṇyatā)
+[aggregate-form-action-etc](saṅghatarūpakarmādyā) [not](na) [their](teṣāmasti) [countability](gaṇyatā)
 
 ## mukta-m0-p57-v1416
-[marut](maruccatimirannaiva) [ca](ca) [timiram](timiraṃ) [na](na) [eva](eva) [saṃśrayam](saṃścayaṃ) [kvacit](kvacidarhataḥ) [arhataḥ](arhataḥ)
+[wind-darkness-not-indeed](maruccatimirannaiva) [contact](saṃścayaṃ) [somewhere-worthy](kvacidarhataḥ)
 
 ## mukta-m0-p57-v1417
-[nava](navadravyāṇi) [dravyāṇi](dravyāṇi) [ca](ca) [etāni](etāni) [kīrttitāni](kīrttitāni) [mahā-āgame](mahāgame)
+[nine-substances](navadravyāṇi) [these](caitāni) [declared](kīrttitāni) [great-tradition](mahāgame)
 
 ## mukta-m0-p57-v1418
-[eteṣām](eteṣāmeva) [eva](eva) [bhedena](bhedena) [nānā](nānāsaṃkhyāṃ) [saṃkhyām](saṃkhyāṃ) [vidhāya](vidhāya) [ca](ca)
+[of-these](eteṣāmeva) [by-difference](bhedena) [various-number](nānāsaṃkhyāṃ) [having-made](vidhāya) [and](ca)
 
 ## mukta-m0-p57-v1419
-[pratyakṣa](pratyakṣamānānubhavaḥ) [māna](mānānubhavaḥ) [anubhavaḥ](anubhavaḥ) [sarveṣu](sarveṣveteṣu) [eteṣu](eteṣu) [pārvati](pārvati)
+[direct-perception-experience](pratyakṣamānānubhavaḥ) [in-all-these](sarveṣveteṣu) [parvati](pārvati)
 
 ## mukta-m0-p57-v1420
-[jala](jaladhvānte) [dhvānte](dhvānte) [śukla](śuklānile) [anile](anile) [bhū](bhūśuciḥ) [śuciḥ](śuciḥ) [śabala](śabalākṛti) [ākṛti](ākṛti)
+[in-water-darkness](jaladhvānte) [white-wind](śuklānile) [earth-pure](bhūśuciḥ) [variegated-form](śabalākṛti)
 
 ## mukta-m0-p57-v1421
-[sparśaḥ](sparśaḥ) [pratyakṣa](pratyakṣaviṣayaḥ) [viṣayaḥ](viṣayaḥ) [pavanaḥ](pavanaḥ) [parvata-ātmaje](parvatātmaje)
+[touch](sparśaḥ) [direct-object](pratyakṣaviṣayaḥ) [wind](pavanaḥ) [mountain-daughter](parvatātmaje)
 
 ## mukta-m0-p57-v1422
-[mano](manojīvavaśāḥ) [jīva](jīvavaśāḥ) [vaśāḥ](vaśāḥ) [sarve](sarve) [pratipannāḥ](pratipannāḥ) [svayam](svayaṃ) [pramāḥ](pramāḥ)
+[mind-life-controlled](manojīvavaśāḥ) [all](sarve) [accepted](pratipannāḥ) [themselves](svayaṃ) [measures](pramāḥ)
 
 ## mukta-m0-p57-v1423
-[tatra](tatra) [śabdaḥ](śabdastvāptavāco) [tu](tu) [āpta-vācaḥ](āptavāco) [veda](vedavidyāgamātmakaḥ) [vidyā](vidyā) [āgama](āgama) [ātmakaḥ](ātmakaḥ)
+[there](tatra) [sound](śabdastvāptavāco) [veda-knowledge-tradition-nature](vedavidyāgamātmakaḥ)
 
 ## mukta-m0-p57-v1424
-[viśiṣṭa](viśiṣṭabhāge) [bhāge](bhāge) [sādṛṣṭe](sādṛṣṭe) [darśanam](darśanaṃ) [bhāginaḥ](bhāginoyataḥ) [yataḥ](yataḥ)
+[distinct-part](viśiṣṭabhāge) [seen](sādṛṣṭe) [seeing](darśanaṃ) [of-part-holders](bhāginoyataḥ)
 
 ## mukta-m0-p57-v1425
-[dṛṣṭa](dṛṣṭasarvasvarūpasya) [sarva](sarvasvarūpasya) [svarūpasya](svarūpasya) [ghaṭasya](ghaṭasyādhyakṣatāsthi) [adhyakṣatā](adhyakṣatāsthi) [asthi](asthi) [cet](cet)
+[seen-all-form](dṛṣṭasarvasvarūpasya) [pot's](ghaṭasyādhyakṣatāsthi) [if](cet)
