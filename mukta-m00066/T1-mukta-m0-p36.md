@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-not+anything+even know-I lord+awaken+awaken
+[na](na) [kiṃcid+api](kiṃcidapi) [jānāmi](jānāmi) [nātha+bodhaya+bodhaya](nāthabodhayabodhaya)
 
 ## mukta-m0-p36-v877
-this for+bliss+cause for+wellbeing+linga to+Shambhu
+[etat](etat) [saukhya+nidānāya](saukhyanidānāya) [svasti+liṃgāya](svastiliṃgāya) [śaṃbhave](śaṃbhave)
 
 ## mukta-m0-p36-v878
-Shiva+offering this may+be again let+be Shiva+offering
+[śiva+arpaṇam+idam](śivārpaṇamidaṃ) [bhūyāt](bhūyāt) [punar+astu](punarastu) [śiva+arpaṇam](śivārpaṇam)
 
 ## mukta-m0-p36-v879
-withered lotus+stalk like garland on+his chest
+[mlānā](mlānā) [padma+mṛṇālī](padmamṛṇālī) [va](va) [mālikeva+asya](mālikevāsya) [vakṣasi](vakṣasi)
 
 ## mukta-m0-p36-v880
-absorbed+absorbed+syllable after slow+slow+syllable again
+[līna+līna+akṣaraṃ](līnalīnākṣaraṃ) [paścāt](paścānmaṃdamaṃdākṣaraṃ) [maṃda+maṃda+akṣaraṃ](maṃdamaṃdākṣaraṃ) [punaḥ](punaḥ)
 
 ## mukta-m0-p36-v881
-thus+etc qualities messenger six+oblation great+festival
+[evam+ādi+guṇa+ādūtyāḥ](evamādiguṇādūtyāḥ) [ṣaḍ+āhuti](ṣaḍāhuti) [mahotsave](mahotsave)
 
 ## mukta-m0-p36-v882
-sixth six+taste+endowed many+food+giving
+[ṣaṣṭhi+ṣaḍ+rasa+saṃpanna](ṣaṣṭhiṣaḍrasasaṃpanna) [bahu+bhojana+dāyinī](bahubhojanadāyinī)
 
 ## mukta-m0-p36-v883
-six+limb+deity form all+always+done+water+lords
+[ṣaḍ+aṃga+devatā](ṣaḍaṃgadevatā) [rūpā](rūpā) [sarva+dā+kriyatāṃ+budhaiḥ](sarvadākriyatāṃbudhaiḥ)
 
 ## mukta-m0-p36-v884
-heroine's and opening bliss+rest proceeds
+[nāyikāyāḥ+ca](nāyikāyāśca) [vidṛtyā](vidṛtyā) [sukha+śrāṃtiḥ](sukhaśrāṃtiḥ) [pravartate](pravartate)
 
 ## mukta-m0-p36-v885
-sugar+nectar+mixed purity+soup+with+rice
+[śarkarā+mṛta+saṃmiśraṃ](śarkarāmṛtasaṃmiśraṃ) [śuddhi+yūṣa+sanādhitam](śuddhiyūṣasanādhitam)
 
 ## mukta-m0-p36-v886
-oneself that+remainder and drink devotion burden+bowed
+[svayaṃ+tad+avaśiṣṭaṃ](svayaṃtadavaśiṣṭaṃ) [ca](ca) [pibet](pibed) [bhakti+bharānataḥ](bhakti bharānataḥ)
 
 ## mukta-m0-p36-v887
-mantra and Ananda+deva's hundred+times or thousand+times
+[maṃtraṃ](maṃtraṃ) [ca+ānaṃda+devasya](cānaṃdadevasya) [śataśaḥ+vā+sahasraśaḥ](śataśovāsahasraśaḥ)
 
 ## mukta-m0-p36-v888
-improper+yantra recite deity+curse obtain
+[ayukta+yaṃtraḥ](ayuktayaṃtraḥ) [prajaped](prajaped) [devatā+śāpam+āpnuyāt](devatāśāpamāpnuyāt)
 
 ## mukta-m0-p36-v889
-thus recited supreme+bliss+form linga+Maheshvara
+[evaṃ](evaṃ) [japte](japte) [parā+naṃda+rūpi](parānaṃdarūpi) [liṃga+mahā+īśvaraḥ](liṃgamaheśvaraḥ)
 
 ## mukta-m0-p36-v890
-as+long+recites hero this messenger+rest for+sake
+[yāvat+japati](yāvajjapati) [vīraḥ+ayaṃ](vīroyaṃ) [dūti+viśrāṃti](dūtiviśrāṃti) [hetave](hetave)
 
 ## mukta-m0-p36-v891
-thus by+order rest gone messenger+body
+[iththaṃ](iththaṃ) [krameṇa](krameṇa) [viśrāṃtiṃ](viśrāṃtiṃ) [gatāyāṃ](gatāyāṃ) [dūtikā+tanau](dūtikātanau)
 
 ## mukta-m0-p36-v892
-moon+crescent+for sake elevated moon+moonlight
+[caṃdra+rekhā+arthāṃ](caṃdrarekhārthāṃ) [gulinā](gulinā) [pronnatā](pronnatā) [caṃdra+caṃdrikā](caṃdracaṃdrikā)
 
 ## mukta-m0-p36-v893
-flax flower+resembling triangle+form gone
+[atasī](atasī) [puṣpa+saṃkāśā](puṣpasaṃkāśā) [trikoṇa+ākāra+tāṃ](trikoṇākāratāṃ) [gatā](gatā)
 
 ## mukta-m0-p36-v894
-long+flowing even lord one arranged thumb kisses
+[cira+dravā+api](ciradravāpi) [nātha+eka](nāthaika) [kluptaiḥ+aṃguṣṭha+cuṃbanaiḥ](kluptairaṃguṣṭha cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-navel+slap falls buttock hand+massage
+[nābhai+ca+peṭa](nābhaucapeṭa) [patanaiḥ+nitaṃbe](patanairnitaṃbe) [hasta+mardanaiḥ](hastamardanaiḥ)
 
 ## mukta-m0-p36-v896
-own+juice flowing indeed heroine+moon+moonlight
+[nijaṃ+rasaṃ](nijaṃrasaṃ) [sravaṃtya+eva](sravaṃtyeva) [nāyikā+caṃdra+caṃdrikā](nāyikācaṃdracaṃdrikā)
 
 ## mukta-m0-p36-v897
-flour+wine+equal+joy arrow+flower+abundant+radiance
+[paiṣṭi+madya+sama+modaṃ](paiṣṭimadyasamāmodaṃ) [bāṇa+puṣpa+ulbaṇa+dyuti](bāṇapuṣpolbaṇadyuti)
 
 ## mukta-m0-p36-v898
-attainment+perfection+procreation all+lordship+named+speech
+[prāpti+siddhi+prajananaṃ](prāptisiddhiprajananaṃ) [sarva+aiśvarya+ākhya+vāṅmayam](sarvaiśvaryākhyavāṅmayam)
 
 ## mukta-m0-p36-v899
-all+disease+pacifying light+cool+pure
+[samasta+vyādhi+śamanaṃ](samastavyādhiśamanaṃ) [laghu+śītala+nirmalam](laghuśītalanirmalam)
 
 ## mukta-m0-p36-v900
-then recited mantra and Pala+amba+presiding+deity
+[tadā+japet+itaṃ](tadājapeditaṃ) [maṃtraṃ](maṃtraṃ) [ca](ca) [palāṃbā+adhidaivatam](palāṃbādhidaivatam)
