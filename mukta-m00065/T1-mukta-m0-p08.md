@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-[etad](etatsiddhaṃ) [siddham](etatsiddhaṃ) [sadā](sadā) [śaivam](śaivaṃ) [guru](gururūpamajanmakam) [rūpa](gururūpamajanmakam) [ajanmaka](gururūpamajanmakam)
+[that](etat) [accomplished](siddhaṃ) [always](sadā) [Śaiva](śaivaṃ) [guru-form](gururūpam) [unborn](ajanmakam)
 
 ## mukta-m0-p08-v177
-[śiva](śivāntanāmakāḥ) [anta](śivāntanāmakāḥ) [nāma](śivāntanāmakāḥ) [sarve](sarve) [bhasma](bhasmāṅgā) [aṅga](bhasmāṅgā) [brahmacāriṇaḥ](brahmacāriṇaḥ)
+[Śiva-ending](śivānta) [named](nāmakāḥ) [all](sarve) [ash-limbed](bhasmāṅgā) [brahmacārins](brahmacāriṇaḥ)
 
 ## mukta-m0-p08-v178
-[viśeṣayātu](viśeṣayātu) [sāmānyā](sāmānyā) [guruḥ](gururapyevameva) [api](gururapyevameva) [evam](gururapyevameva) [eva](gururapyevameva) [tu](tu)
+[specific](viśeṣayātu) [common](sāmānyā) [guru](gurur) [also](api) [thus](evameva) [indeed](tu)
 
 ## mukta-m0-p08-v179
-[ambhojam](ambhojaṃ) [paṅkajam](paṅkajaṃ) [yadvat](yadvat) [tadvat](tadvacchaivā) [śaivāḥ](tadvacchaivā) [na](na) [cetare](cetare)
+[lotus](ambhojaṃ) [mud-born](paṅkajaṃ) [as](yadvat) [tadvat](tadvat) [Śaiva](śaivā) [not](na) [others](cetare)
 
 ## mukta-m0-p08-v180
-[tathā](tathaiva) [eva](tathaiva) [śivaliṅgānām](śivaliṅgānāṃ) [śaivāḥ](śaivāḥ) [pāśupata](pāśupatādayaḥ) [ādayaḥ](pāśupatādayaḥ)
+[thus](tathaiva) [Śiva-liṅgas](śivaliṅgānāṃ) [Śaivas](śaivāḥ) [Pāśupatas](pāśupatādayaḥ)
 
 ## mukta-m0-p08-v181
-[liṅga](liṅgabhedaphalairyukto) [bheda](liṅgabhedaphalairyukto) [phalaiḥ](liṅgabhedaphalairyukto) [yuktaḥ](liṅgabhedaphalairyukto) [yāti](yātyasau) [asau](yātyasau) [rauravam](rauravaṃ) [dhruvam](dhruvam)
+[liṅga-difference](liṅgabheda) [fruits](phalaiḥ) [joined](yukto) [goes](yāti) [he](asau) [Raurava](rauravaṃ) [certainly](dhruvam)
 
 ## mukta-m0-p08-v182
-[anyathā](anyathā) [pāpakārī](pāpakārī) [syāt](syādityājñā) [iti](syādityājñā) [ājñā](syādityājñā) [pārameśvarī](pārameśvarī)
+[otherwise](anyathā) [sinner](pāpakārī) [would-be](syāt) [thus](iti) [supreme-command](ājñā) [Pārameśvarī](pārameśvarī)
 
 ## mukta-m0-p08-v183
-[brahmacārī](brahmacārīgṛhasthatvabhedabhinnaṃ) [gṛhastha](brahmacārīgṛhasthatvabhedabhinnaṃ) [tva](brahmacārīgṛhasthatvabhedabhinnaṃ) [bheda](brahmacārīgṛhasthatvabhedabhinnaṃ) [bhinnaṃ](brahmacārīgṛhasthatvabhedabhinnaṃ) [dvidhā](dvidhā) [sthitam](sthitam)
+[brahmacārin](brahmacārī) [householder](gṛhastha) [difference](tvabheda) [divided](bhinnaṃ) [twofold](dvidhā) [established](sthitam)
 
 ## mukta-m0-p08-v184
-[kāmya](kāmyakāmikriyāṃ) [kāmi](kāmyakāmikriyāṃ) [kriyām](kāmyakāmikriyāṃ) [vacmi](vacmi) [sāmpratam](sāmprataṃ) [saṃprabhedataḥ](saṃprabhedataḥ)
+[desire](kāmya) [desire-rite](kāmikriyāṃ) [I-speak](vacmi) [now](sāmprataṃ) [distinctly](saṃprabhedataḥ)
 
 ## mukta-m0-p08-v185
-[bhukti](bhuktimuktīcchukaḥ) [mukti](bhuktimuktīcchukaḥ) [icchukaḥ](bhuktimuktīcchukaḥ) [kāmī](kāmī) [kuryāt](kuryāddīkṣādimājñayā) [dīkṣā](kuryāddīkṣādimājñayā) [ādi](kuryāddīkṣādimājñayā) [ājñayā](kuryāddīkṣādimājñayā)
+[enjoyment-liberation-desiring](bhuktimuktīcchukaḥ) [desirer](kāmī) [should-do](kuryāt) [initiation-etc](dīkṣādim) [by-command](ājñayā)
 
 ## mukta-m0-p08-v186
-[pratiṣṭhā](pratiṣṭhādikriyāśeṣā) [ādi](pratiṣṭhādikriyāśeṣā) [kriyā](pratiṣṭhādikriyāśeṣā) [śeṣā](pratiṣṭhādikriyāśeṣā) [tat](tatkṛtā) [kṛtā](tatkṛtā) [saṃpraśasyate](saṃpraśasyate)
+[consecration-etc-rites](pratiṣṭhādikriyāśeṣā) [by-him-done](tatkṛtā) [praised](saṃpraśasyate)
 
 ## mukta-m0-p08-v187
-[śiva](śivādhikāravṛttiryaḥ) [adhikāra](śivādhikāravṛttiryaḥ) [vṛttiḥ](śivādhikāravṛttiryaḥ) [yaḥ](śivādhikāravṛttiryaḥ) [sa](sa) [sāntānikaḥ](sāntānikaḥ) [ucyate](ucyate)
+[Śiva-authority-practice](śivādhikāravṛttir) [who](yaḥ) [he](sa) [Sāntānika](sāntānikaḥ) [called](ucyate)
 
 ## mukta-m0-p08-v188
-[paścāt](paścātkuryādvivāhaṃ) [kuryāt](paścātkuryādvivāhaṃ) [vivāham](paścātkuryādvivāhaṃ) [ca](ca) [gṛhasthaḥ](gṛhasthaḥ) [sa](sa) [vatārpakaḥ](vatārpakaḥ)
+[afterwards](paścāt) [should-do](kuryāt) [marriage](vivāhaṃ) [ca](ca) [householder](gṛhasthaḥ) [he](sa) [Vatārpaka](vatārpakaḥ)
 
 ## mukta-m0-p08-v189
-[bhaikṣyāśī](bhaikṣyāśī) [saṃyatātmā](saṃyatātmā) [ca](ca) [vratī](vratī) [sa](sa) [parikīrtitaḥ](parikīrtitaḥ)
+[begging-eater](bhaikṣyāśī) [self-controlled](saṃyatātmā) [ca](ca) [vowed](vratī) [he](sa) [declared](parikīrtitaḥ)
 
 ## mukta-m0-p08-v190
-[puṣpapāta](puṣpapātābhidhānaṃ) [abhidhānam](puṣpapātābhidhānaṃ) [tu](tu) [maṭhī](maṭhī) [mudrābhiḥ](mudrābhiriṣyate) [iṣyate](mudrābhiriṣyate)
+[flower-fall](puṣpapāta) [named](abhidhānaṃ) [tu](tu) [maṭhī](maṭhī) [with-mudrās](mudrābhiriṣyate)
 
 ## mukta-m0-p08-v191
-[sad](sadvastramañjanaṃ) [vastra](sadvastramañjanaṃ) [mañjanam](sadvastramañjanaṃ) [tailam](tailaṃ) [nayate](nayate) [ramate](ramate) [hi](hi) [tam](tam)
+[good-garment](sadvasttra) [collyrium](añjanaṃ) [oil](tailaṃ) [carries](nayate) [delights](ramate) [indeed](hi) [him](tam)
 
 ## mukta-m0-p08-v192
-[mākṣāya](mākṣāya) [vratinaṃ](vratinaṃ) [ca](ca) [eva](eva) [varayet](varayenmatimānnaraḥ) [matimān](varayenmatimānnaraḥ) [naraḥ](varayenmatimānnaraḥ)
+[for-honey](mākṣāya) [vowed-one](vratinaṃ) [ca](ca) [eva](eva) [should-choose](varayet) [wise-man](matimānnaraḥ)
 
 ## mukta-m0-p08-v193
-[laukikaḥ](laukiko) [dravya](dravyabhāgī) [bhāgī](dravyabhāgī) [syāt](syādvidyābhāk) [vidyā](vidyābhāk) [bhāk](vidyābhāk) [pāralaukikaḥ](pāralaukikaḥ)
+[worldly](laukiko) [wealth-sharer](dravyabhāgī) [syāt](syāt) [knowledge-sharer](vidyābhāk) [transcendent](pāralaukikaḥ)
 
 ## mukta-m0-p08-v194
-[bhrātṛṇam](bhrātṛṇaṃ) [guru](gurvabhāve) [abhāve](gurvabhāve) [syāt](syādgṛhasthānāṃ) [gṛhasthānām](syādgṛhasthānāṃ) [sva](svaputrakam) [putrakam](svaputrakam)
+[brother](bhrātṛṇaṃ) [in-guru-absence](gurvabhāve) [syāt](syāt) [of-householders](gṛhasthānāṃ) [own-son](svaputrakam)
 
 ## mukta-m0-p08-v195
-[ayogyāḥ](ayogyāḥ) [śiva](śivakāryeṣu) [kāryeṣu](śivakāryeṣu) [ghaṇṭā](ghaṇṭāsambandhino) [sambandhinaḥ](ghaṇṭāsambandhino) [haret](haret)
+[unfit](ayogyāḥ) [for-Śiva-works](śivakāryeṣu) [bell-connected](ghaṇṭāsambandhino) [should-remove](haret)
 
 ## mukta-m0-p08-v196
-[ṛṇe](ṛṇe) [dravye](dravye) [ca](ca) [piṇḍe](piṇḍe) [ca](ca) [saḥ](sa) [eva](eva) [ekaḥ](ekaḥ) [praśasyate](praśasyate)
+[debt](ṛṇe) [wealth](dravye) [ca](ca) [lump](piṇḍe) [ca](ca) [he](sa) [eva](eva) [ekaḥ](ekaḥ) [praised](praśasyate)
 
 ## mukta-m0-p08-v197
-[catur](caturgocaramadhye) [gocara](caturgocaramadhye) [madhye](caturgocaramadhye) [ca](ca) [śaivaḥ](śaivo) [jyeṣṭhāyate](jyeṣṭhāyate) [param](param)
+[four-cow-range](caturgocaram) [middle](madhye) [ca](ca) [Śaiva](śaivo) [eldest](jyeṣṭhāyate) [param](param)
 
 ## mukta-m0-p08-v198
-[śaiva](śaivācāryastataḥ) [ācāryaḥ](śaivācāryastataḥ) [tataḥ](śaivācāryastataḥ) [śreṣṭhaḥ](śreṣṭhaḥ) [sthāpayet](sthāpayetsarvadevatāḥ) [sarva](sthāpayetsarvadevatāḥ) [devatāḥ](sthāpayetsarvadevatāḥ)
+[Śaiva-ācārya](śaivācāryaḥ) [tataḥ](tataḥ) [best](śreṣṭhaḥ) [should-establish](sthāpayet) [all-deities](sarvadevatāḥ)
 
 ## mukta-m0-p08-v199
-[bhukti](bhuktimuktipradātā) [mukti](bhuktimuktipradātā) [pradātā](bhuktimuktipradātā) [ca](ca) [na](na) [anyaḥ](anyaḥ) [vai](vai) [viśvakṛt](viśvakṛdguruḥ) [guruḥ](viśvakṛdguruḥ)
+[enjoyment-liberation-giver](bhuktimuktipradātā) [ca](ca) [not-other](nānyo) [vai](vai) [world-maker-guru](viśvakṛdguruḥ)
 
 ## mukta-m0-p08-v200
-[tad](tadabhāve) [abhāve](tadabhāve) [tu](tu) [kartavyāḥ](kartavyāḥ) [sva](svadevavratacāriṇaḥ) [deva](svadevavratacāriṇaḥ) [vrata](svadevavratacāriṇaḥ) [cāriṇaḥ](svadevavratacāriṇaḥ)
+[his-absence](tadabhāve) [tu](tu) [should-be-done](kartavyāḥ) [own-deity-vow-practitioners](svadevavratacāriṇaḥ)
