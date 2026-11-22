@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[from-veda-portion-falling](vedāṃśapātanāt) [corner](koṇa) [with-mortals](marṭāśaiḥ) [and](atha) [blanket/neck](kambalam)
+veda-part-throwing-from-corner mortal-shares-and-then blanket [kh: neck]
 
 ## mukta-m0-p43-v1052
-[by-three-part-entry](tryaṃśapraveśanāt) [throat](kaṇṭhāt) [one-by-one-exit](ekaikanirgamaṃ) [hoof](khuram)
+three-part-entry-from-throat one-by-one-exit hoof
 
 ## mukta-m0-p43-v1053
-[bell](ghaṇṭāṃ) [and](ca) [girdle](mekhalāṃ) [and](ca) [eva](eva) [make](kuryāt) [horns](śṛṅgāṇi) [from-corner](koṇataḥ)
+bell and girdle and-also make horns from-corner
 
 ## mukta-m0-p43-v1054
-[pendant-attached](prālambyāsakta) [revanta](revanta) [with-umbrella-holder-etc](śchatradhārādibhiḥ) [yuta](yutaḥ)
+pendant-attached revanta umbrella-stream-etc-with
 
 ## mukta-m0-p43-v1055
-[with-various-gems-beautiful](nānāratnasuveśāḍhyāḥ) [fierce-radiance](caṇḍatejāḥ) [natural](svabhāvajāḥ)
+various-gem-beautiful-rich fierce-radiance natural-born
 
 ## mukta-m0-p43-v1056
-[moon](somaṃ) [gentle](saumyaṃ) [and](tathā) [white](śvetaṃ) [with-waterpot-garland](kuṇḍikājāpyamālinam)
+soma gentle and white pot-prayer-garlanded
 
 ## mukta-m0-p43-v1057
-[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [ca](ca) [formed](rūpiṇaṃ) [bow-handed](cāpapāṇinam)
+mercury dark youth and formed bow-handed
 
 ## mukta-m0-p43-v1058
-[south-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [with-waterpot-mantra-garland](kuṇḍikāmantramālikam)
+yama one-eyed white venus pot-mantra-garlanded
 
 ## mukta-m0-p43-v1059
-[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [ca](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
+turned-face smiling and tawny-brow-beard-eye
 
 ## mukta-m0-p43-v1060
-[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [half-man-serpent-form](naranāgārdharūpiṇam)
+three-hood smoke-colored half-man-serpent-formed [gh: man]
 
 ## mukta-m0-p43-v1061
-[these](etāṃs) [tu](tu) [two-armed-all](dvibhujānsarvān) [with-ornaments-garments](bhūṣaṇāmbarasaṃyutān)
+these two-armed all ornament-cloth-endowed
 
 ## mukta-m0-p43-v1062
-[cart](śakaṭaṃ) [medha](medham) [of-these](eteṣām) [below](adhaḥ) [vehicle](yānaṃ) [in-order-always](kramātsadā)
+cart sacrifice these-below vehicle in-order always
 
 ## mukta-m0-p43-v1063
-[white](sitaḥ) [thousand-hooded](sahasrabhogaḥ) [lord](īśvaraḥ) [with-blue-lotus](kuvalayānvitaḥ)
+white thousand-hooded lord [mū,a: alas head] blue-lotus-endowed
 
 ## mukta-m0-p43-v1064
-[black](kṛṣṇaḥ) [karkoṭaka](karkoṭakaḥ) [at-throat](kaṇṭhe) [with-three-stripe-line](śulkarekhātrayānvitaḥ)
+black karkotaka throat white-line-three-endowed
 
 ## mukta-m0-p43-v1065
-[conch-colored](śaṅkhavarṇaḥ) [mahāpadma](mahāpadmaḥ) [on-head](mastake) [black-trident-holder](kṛṣṇaśūladhṛk)
+conch-colored great-lotus on-head black-trident-bearer [k: trident-maker]
 
 ## mukta-m0-p43-v1066
-[kulika](kulikaḥ) [red-bodied](raktadehaḥ) [tu](tu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
+kulika red-bodied and half-moon [g: moon-sun] made-head
 
 ## mukta-m0-p43-v1067
-[rosary-holders](akṣasūtradharāḥ) [all](sarve) [with-waterpot-tail](kuṇḍikāpucchasaṃyutāḥ)
+rosary-bearers all pot-tail-endowed
 
 ## mukta-m0-p43-v1068
-[servants](bhṛtyāḥ) [ca](ca) [one-hooded](ekaphaṇāḥ) [to-be-made](kāryāḥ) [that-form](tadrūpā) [gem-less](maṇivarjitāḥ)
+servants and one-hood to-be-made same-form gem-devoid
 
 ## mukta-m0-p43-v1069
-[with-garland-earring-armlet](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
+necklace-earring-armlet always-ornament [k: all-ornament] adorned
 
 ## mukta-m0-p43-v1070
-[such](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [śrīkaṇṭha-mind-born](śrīkaṇṭhamanasambhavā)
+such by-mind to-be-made shrikanta-mind-born
 
 ## mukta-m0-p43-v1071
-[yoga-band-covered](yogapaṭṭāvṛtaḥ) [lotus-seated](abjasthaḥ) [waterpot](kuṇḍikā) [and](ca) [rosary-holder](akṣasūtrabhṛt)
+yoga-band-wrapped lotus-seated pot and rosary-bearer [mū,a,k: holder]
 
 ## mukta-m0-p43-v1072
-[with-various-ornaments](nānālaṅkārasaṃyuktāv) [utpala-gem](utpalamaṇi) [holding-hands](bhṛtkarau)
+various-ornament-endowed two utpala-gem bearer-hands
 
 ## mukta-m0-p43-v1073
-[well-seen](sudṛṣṭā) [speaking](jalpamānā) [ca](ca) [on-own-lap](svotsaṅge) [son-holding](putradhāriṇī)
+well-seen [g: well-dark] speaking and own-lap son-bearing
 
 ## mukta-m0-p43-v1074
-[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
+lotus [gh: leaf] nandana-lotus-seated own-limb-goddess [gh: suṅgā-goddess] proclaimed
 
 ## mukta-m0-p43-v1075
-[basukoka-kapi-dvikṣa](basukokakapidvikṣa) [tiger-tiger-faced](vyāghravyāghrāsyakaṃ) [in-order](kramāt)
+basuka-koka-kapi-dviksha [gh: dvikka] tiger-tiger-faced in-order
