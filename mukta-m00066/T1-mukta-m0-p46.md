@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-vīreṇa(by-the-hero) tāsu(in-them) karttavyaḥ(should-be-done) hetuḥ(reason) raṃjana-hetavaḥ(cause-of-pleasing)
+by-hero(vīreṇa) among-them(tāsu) to-be-done(karttavyo) cause-coloring-causes(heturaṃjanahetavaḥ)
 
 ## mukta-m0-p46-v1127
-ācāryamāṇaiḥ(by-those-being-instructed) yaḥ(who) strīṇām(of-women) ananya-śaraṇam(no-other-refuge) manaḥ(mind)
+by-teaching(ācāryamāṇaiḥ) whose(yaḥ) women's(strīṇām) no-other-refuge(ananyaśaraṇam) mind(manaḥ)
 
 ## mukta-m0-p46-v1128
-skhalaneṣu(in-stumbles) titikṣā(patience) ca(and) doṣasya(of-fault) punar-īkṣaṇam(re-examination)
+in-slips(skhalaneṣu) patience(titikṣā) and(ca) of-fault(doṣasya) re-examination(punarīkṣaṇam)
 
 ## mukta-m0-p46-v1129
-daṇḍa-nītiḥ(punishment-policy) na(not) tu(but) strīṣu(among-women) prapātayitum(to-ruin) arhati(is-worthy)
+punishment-policy(daṇḍanītiḥ) not(na) tu(tu) in-women(strīṣu) to-ruin(prapātayitum) deserves(marhati)
 
 ## mukta-m0-p46-v1130
-paśya(see) sāhasam-etāsām(their-boldness) svarga-te(when-gone-to-heaven) nija-bharttari(own-husband)
+see(paśya) boldness-endowed(sāhasametāsām) heaven-gone(svargate) own-husband(nijabharttari)
 
 ## mukta-m0-p46-v1131
-kheda-tāḍana-pāruṣyaiḥ(by-grief-beating-harshness) muṃcanti-eva(release-indeed) sva-jīvitam(own-life)
+by-grief-beating-harshness(khedatāḍanapāruṣyaiḥ) release(muṃcantyeva) own-life(svajīvitam)
 
 ## mukta-m0-p46-v1132
-ataḥ(therefore) ca(and) mārdavam(gentleness) tāsu(in-them) prathamam(first) citta-raṃjanam(mind-pleasing)
+therefore(ataḥ) ca(ca) gentleness(mārdavam) in-them(tāsu) first(prathamam) mind-coloring(cittaraṃjanam)
 
 ## mukta-m0-p46-v1133
-atyaṃtam(excessive) abhivṛddhim(growth) ca(and) nayat(if-leads) cet(if) tāsu-among-them sādhakaḥ(accomplisher)
+extreme(atyaṃtam) growth(abhivṛddhim) and(ca) leading(nayat) if(cet) in-them(tāsu) accomplisher(sādhakaḥ)
 
 ## mukta-m0-p46-v1134
-madhyamena(middle) prakāreṇa(way) darśanam(showing) pradiśet(should-indicate) budhaḥ(wise-one)
+middle(madhyamena) manner(prakāreṇa) seeing(darśanam) instructed(pradiśat) wise(budhaḥ)
 
 ## mukta-m0-p46-v1135
-raktaḥ(attached) parebhavam(humiliation) yāti(goes) paribhūtaḥ(insulted) katham(how) priye(beloved)
+attached(raktaḥ) other-becoming(parebhavam) goes(yāti) despised(paribhūtaḥ) how(katham) beloved(priye)
 
 ## mukta-m0-p46-v1136
-vṛṣasyantīṣu(in-those-desiring) tāsu-among-them amba(mother) na(not) vai(indeed) mukhyam(main) ca(and) cārayet(should-make-move)
+in-cows-in-heat(vṛṣasyaṃtīṣu) them(tāsu) mother(amba) not(na) indeed(vai) chief(mukhyam) and(ca) graze(cārayet)
 
 ## mukta-m0-p46-v1137
-grāsān(food-morsels) api(also) ca(and) vāsāṃsi(clothes) yathā(according-to) śakti(ability) nivedayet(should-offer)
+morsels(grāsān) also(api) ca(ca) garments(vāsāṃsi) according(yathā) power(śakti) offer(nivedayet)
 
 ## mukta-m0-p46-v1138
-tasmāt(therefore) vīra-jana-adhīnā(dependent-on-heroic-men) dūtikā(messenger) prakṛtiḥ(nature) śive(O-Śiva)
+therefore(tasmāt) hero-people-dependent(vīrajanādhīnā) messenger(dūtikā) nature(prakṛti) O-Śiva(śive)
 
 ## mukta-m0-p46-v1139
-daṃpatyoḥ(of-couple) ghaṭanam(union) brūyat(should-say) puruṣa-artha-eka-kāraṇam(single-cause-of-human-aim)
+of-couple(daṃpatyoḥ) union(ghaṭanam) say(brūyat) human-purpose-one-cause(puruṣārthaikakāraṇam)
 
 ## mukta-m0-p46-v1140
-anyonya-manurāgeṇa(by-mutual-affection) mahat-great saukhyam(happiness) prajāyate(is-born)
+mutual(anyonya) love(anurāgeṇa) great-happiness(mahatsaukhyaṃ) arises(prajāyate)
 
 ## mukta-m0-p46-v1141
-tasmāt(therefore) tad-anukūlyāya(for-its-favor) svānukūlyam(own-favor) prakāśayet(should-reveal)
+therefore(tasmāt) their-favor(tadānukūlyāya) own-favor(svānukūlyaṃ) reveal(prakāśayet)
 
 ## mukta-m0-p46-v1142
-āliṃgana-chalena-eva(by-embrace-pretext-indeed) sukham(pleasure) saṃvāhanam(massaging) caret(should-practice)
+embrace-pretext(āliṃganacchalenaiva) pleasure(sukhaṃ) massage(saṃvāhanaṃ) perform(caret)
 
 ## mukta-m0-p46-v1143
-ādāya-having-taken limpet(should-anoint) caraṇe(on-feet) dūtyāḥ(of-messenger) sā(she) na(not) anya-gā(not-going-to-another) bhavet(should-become)
+taking(ādāya) anoint(limpeccaraṇe) foot(dūtyāḥ) of-messenger(sā) she(nānyagābhavet)
 
 ## mukta-m0-p46-v1144
-jugupsamānaḥ(disgusted) na(not) bhavet(should-become) vairāgyam(detachment) tena(by-that) jāyate(is-born)
+disgusted(jugupsamāno) not(na) becomes(bhavedvairāgyaṃ) dispassion(tena) by-that(jāyate)
 
 ## mukta-m0-p46-v1145
-sati-lokeṣu(in-true-worlds) saṃcāram(movement) utsavam(festival) ca(and) pade-pade(at-every-step)
+in-true-worlds(satilokeṣu) movement(saṃcāram) festival(utsavaṃ) and(ca) step(pade) step(pade)
 
 ## mukta-m0-p46-v1146
-vividaiḥ(various) sarasaiḥ(juicy) pakvaiḥ(ripe) phalaiḥ(fruits) puṣpaiḥ(flowers) sugaṃdhibhiḥ(fragrant)
+various(vividaiḥ) juicy(sarasaiḥ) ripe(pakvaiḥ) fruits(phalaiḥ) flowers(puṣpaiḥ) fragrant(sugaṃdhibhiḥ)
 
 ## mukta-m0-p46-v1147
-udvarttanaiḥ(with-massages) ca(and) tāṃbūlaiḥ(with-betel) aṃjanaiḥ(with-collyrium) mukha-vāsitaiḥ(with-mouth-perfumes)
+with-unctions(udvarttanaiḥ) ca(ca) betel(tāmbūlaiḥ) collyriums(aṃjanaiḥ) mouth-perfumes(mukhavāsitaiḥ)
 
 ## mukta-m0-p46-v1148
-raṃjayet(should-please) ramaṇīm(beloved) dhīmān(wise-one) bhogaiḥ(with-enjoyments) dīptaiḥ(bright) ca(and) pārvati(O-Pārvatī)
+color(raṃjayedramaṇīṃ) beloved(dhīmān) wise(bhogairdīptaiśca) enjoyments(pārvati)
 
 ## mukta-m0-p46-v1149
-tāvat(until) hira-manāḥ(golden-minded) eva(indeed) bhoga-bhedāḥ(differences-of-enjoyment) tu(but) pācaret(should-practice)
+so-long(tāvaddhiramanā) pleased(eva) indeed(bhogabhedā) enjoyment-differences(tu) perform(pācaret)
 
 ## mukta-m0-p46-v1150
-ślāghayā(by-praise) jāyate(is-born) tat(that) ca(and) sa-darpā(with-pride) aviphalāḥ(fruitless) striyaḥ(women)
+by-praise(ślāghayā) arises(jāyate) that(tat) ca(ca) proud-fruitless-women(sadarpāviphalāstriyaḥ)
