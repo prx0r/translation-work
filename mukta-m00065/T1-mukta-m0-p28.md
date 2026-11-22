@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p28-v676
-[nava-avadhi-kara-antasya](navāvadhikarāntasya) [śūnya-doṣaḥ](śūnyadoṣo) [na](na) [kasyacit](kasyacit)
+[navāvadhikara-anta](navāvadhikarāntasya) [śūnya-doṣa](śūnyadoṣo) [na](na) [kasyacit](kasyacit)
 
 ## mukta-m0-p28-v677
-[tridhā](tridhā) [mānena](mānena) [ca-ekena](caikena) [ṣoḍaśa-asram](ṣoḍaśāsraṃ) [śata-dvayam](śatadvayam)
+[tridhā](tridhā) [mānena](mānena) [ca](ca) [ekena](ekena) [ṣoḍaśa-asraṃ](ṣoḍaśāsraṃ) [śata-dvayam](śatadvayam)
 
 ## mukta-m0-p28-v678
-[catur-aṣṭa-ṣaḍ-asram](caturaṣṭaṣaḍasraṃ) [tu](tu) [indra-aṅkam](indrāṅkaṃ) [vajra-rūpakam](vajrarūpakam)
+[catur-aṣṭa-ṣaḍ-asraṃ](caturaṣṭaṣaḍasraṃ) [tu](tu) [indra-aṅkaṃ](indrāṅkaṃ) [vajra-rūpakam](vajrarūpakam)
 
 ## mukta-m0-p28-v679
 [bindu-saṃpāta-saṃyogāt](bindusaṃpātsaṃyogāt) [tiryak-sūtraiḥ](tiryaksūtrair) [vivartayet](vivartayet)
 
 ## mukta-m0-p28-v680
-[vasu-asra-ūrdhvam](vasvasrordhvaṃ) [tu](tu) [sapta-asram](saptāsraṃ) [śakti-āgneya](śaktyāgneya) [ca](ca) [dāha-kṛt](dāhakṛt)
+[vasu-asror-dhvam](vasvasrordhvaṃ) [tu](tu) [sapta-asraṃ](saptāsraṃ) [śakti-āgneya](śaktyāgneya) [ca](ca) [dāha-kṛt](dāhakṛt)
 
 ## mukta-m0-p28-v681
-[nāha-ardham](nāhārdhaṃ) [nava-dhā](navadhā) [kṛtvā](kṛtvā) [śaraiḥ](śarair) [hṛt-pṛṣṭha-koṭibhiḥ](hṛtpṛṣṭhakoṭibhiḥ)
+[nāha-ardhaṃ](nāhārdhaṃ) [nava-dhā](navadhā) [kṛtvā](kṛtvā) [śaraiḥ](śarair) [hṛt-pṛṣṭha-koṭibhiḥ](hṛtpṛṣṭhakoṭibhiḥ)
 
 ## mukta-m0-p28-v682
-[evam](evaṃ) [ca-aṣṭāsra-vṛtam](cāṣṭāsravṛtaṃ) [syāt](syāt) [yāmya-daṇḍam](yāmyadaṇḍaṃ) [ruja-pradam](rujapradam)
+[evaṃ](evaṃ) [ca](ca) [aṣṭāsra-vṛtaṃ](aṣṭāsravṛtaṃ) [syāt](syāt) [yāmya-daṇḍaṃ](yāmyadaṇḍaṃ) [ruja-pradam](rujapradam)
 
 ## mukta-m0-p28-v683
-[aṣṭāsra-ardham](aṣṭāsro'rdha) [daśa-astram](daśāstraṃ) [syāt](syāt) [khaḍga-ābham](khaḍgābhaṃ) [rākṣasam](rākṣasaṃ) [bhayam](bhayam)
+[aṣṭāsra-ardhaṃ](aṣṭāsro'rdhaṃ) [daśa-asraṃ](daśāstraṃ) [syāt](syāt) [khaḍga-ābhaṃ](khaḍgābhaṃ) [rākṣasaṃ](rākṣasaṃ) [bhayam](bhayam)
 
 ## mukta-m0-p28-v684
-[catur-aṣṭāsra-vṛttam](caturaṣṭāsravṛttaṃ) [syāt](syāt) [pāśa-vat](pāśavat) [vāruṇam](vāruṇaṃ) [śubham](śubham)
+[catur-aṣṭāsra-vṛttaṃ](caturaṣṭāsravṛttaṃ) [syāt](syāt) [pāśa-vat](pāśavat) [vāruṇaṃ](vāruṇaṃ) [śubham](śubham)
 
 ## mukta-m0-p28-v685
-[kṛśam](kṛśaṃ) [prāg-rūpakam](prāgrūpakaṃ) [dīrgham](dīrghaṃ) [calam](calam) [uccāṭa-kṛt](uccāṭakṛt) [dhvajam](dhvajam)
+[kṛśaṃ](kṛśaṃ) [prāg-rūpakaṃ](prāgrūpakaṃ) [dīrghaṃ](dīrghaṃ) [calam](calam) [uccāṭa-kṛt](uccāṭakṛt) [dhvajam](dhvajam)
 
 ## mukta-m0-p28-v686
-[yakṣam](yākṣaṃ) [gadā-agra-mūrdhānam](gadāgramūrdhānaṃ) [bala-vṛddhi-karam](balavṛddhikaraṃ) [śivam](śivam)
+[yakṣaṃ](yākṣaṃ) [gadā-agra-mūrdhānaṃ](gadāgramūrdhānaṃ) [bala-vṛddhi-karaṃ](balavṛddhikaraṃ) [śivam](śivam)
 
 ## mukta-m0-p28-v687
-[catuḥ-pañca-asrakam](catuḥpañcāsrakaṃ) [tri-asram](tryasraṃ) [śūlam](śūlaṃ) [raudram](raudraṃ) [tu](tu) [mukti-dam](muktidam)
+[catuḥ-pañca-asrakaṃ](catuḥpañcāsrakaṃ) [tryasraṃ](tryasraṃ) [śūlaṃ](śūlaṃ) [raudraṃ](raudraṃ) [tu](tu) [mukti-dam](muktidam)
 
 ## mukta-m0-p28-v688
-[aṣṭāsra-ardham](aṣṭāsro'rdhaṃ) [ca](ca) [veda-asram](vedāsraṃ) [brāhmam](brāhmaṃ) [svargāya](svargāya) [padma-vat](padmavat)
+[aṣṭāsra-ardhaṃ](aṣṭāsro'rdhaṃ) [ca](ca) [veda-asraṃ](vedāsraṃ) [brāhmaṃ](brāhmaṃ) [svargāya](svargāya) [padma-vat](padmavat)
 
 ## mukta-m0-p28-v689
-[catur-aṣṭāsra-vṛttam](caturaṣṭāsravṛttaṃ) [syāt](syāt) [vaiṣṇavam](vaiṣṇavaṃ) [śaṅkha-vat](śaṅkhavat) [śubham](śubham)
+[catur-aṣṭāsra-vṛttaṃ](caturaṣṭāsravṛttaṃ) [syāt](syāt) [vaiṣṇavaṃ](vaiṣṇavaṃ) [śaṅkha-vat](śaṅkhavat) [śubham](śubham)
 
 ## mukta-m0-p28-v690
-[rudrāt-tri-hānitaḥ](rudrāttrihānitaḥ) [śuktiḥ](śuktir) [daṇḍaḥ](daṇḍo) [digbhyaḥ-tri-hānitaḥ](digbhyastrihānitaḥ)
+[rudrāt](rudrāt) [tri-hānitaḥ](trihānitaḥ) [śuktiḥ](śuktir) [daṇḍaḥ](daṇḍo) [digbhyaḥ](digbhyas) [tri-hānitaḥ](trihānitaḥ)
 
 ## mukta-m0-p28-v691
-[kukkuṭa-aṇḍam](kukkuṭāṇḍaṃ) [ca](ca) [vāyavye](vāyavye) [bhūta-aṃśāt](bhūtāṃśāt) [hi](hi) [yate](yate) [gadā](gadā)
+[kukkuṭa-aṇḍaṃ](kukkuṭāṇḍaṃ) [ca](ca) [vāyavye](vāyavye) [bhūta-aṃśāt](bhūtāṃśāt) [hi](hi) [yate](yate) [gadā](gadā)
 
 ## mukta-m0-p28-v692
-[dakṣa-aṇḍa-bhaja](dakṣāṇḍabhaja) [vaiṣṇoḥ](vaiṣṇoś) [ca](ca) [ittha](ittha) [rekhā](rekhā) [maṇeḥ](maṇer) [api](api)
+[dakṣa-aṇḍa-bhaja](dakṣāṇḍabhaja) [vaiṣṇoḥ](vaiṣṇośca) [ca](ca) [ittha](ittha) [rekhā](rekhā) [maṇer](maṇer) [api](api)
 
 ## mukta-m0-p28-v693
-[sphuṭitam](sphuṭitaṃ) [garbha-vat](garbhavat) [daṣṭam](daṣṭaṃ) [sthāpayet](sthāpayed) [ābhivārike](ābhivārike)
+[sphuṭitaṃ](sphuṭitaṃ) [garbha-vat](garbhavat) [daṣṭaṃ](daṣṭaṃ) [sthāpayet](sthāpayet) [ābhivārike](ābhivārike)
 
 ## mukta-m0-p28-v694
-[vyakta-liṅgāni](vyaktaliṅgāni) [ca](ca) [anyāni](anyāni) [nānā](nānā) [rūpāṇi](rūpāṇi) [vacmi](vacmi) [ataḥ](ataḥ)
+[vyakta-liṅgāni](vyaktaliṅgāni) [ca](ca) [anyāni](anyāni) [nānā](nānā) [rūpāṇi](rūpāṇi) [vacmi](vacmyataḥ) [ataḥ](ataḥ)
 
 ## mukta-m0-p28-v695
-[iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [avyakta-liṅga-lakṣaṇam](avyaktaliṅgalakṣaṇaṃ) [nāma](nāma) [caturthaḥ](caturtho) [vidhiḥ](vidhiḥ)
+[iti](iti) [lakṣaṇa-samuccaye](lakṣaṇasamuccaye) [avyakta-liṅga-lakṣaṇaṃ](avyaktaliṅgalakṣaṇaṃ) [nāma](nāma) [caturthaḥ](caturtho) [vidhiḥ](vidhiḥ)
 
 ## mukta-m0-p28-v696
 [pūrva-aṅgula-pramāṇena](pūrvāṅgulapramāṇena) [daśa-pañca-aṅgula-aṅgulāt](daśapañcāṅgulāṅgulāt)
 
 ## mukta-m0-p28-v697
-[kvacit](kvacit) [hasta-pramāṇā](hastapramāṇā) [sā](sā) [kvacit](kvacit) [ca](ca) [triṃśat-aṅgulā](triṃśadaṅgulā)
+[kvacit](kvaciddhastapramāṇā) [hasta-pramāṇā](hastapramāṇā) [sā](sā) [kvacit](kvacicca) [ca](ca) [triṃśat-aṅgulā](triṃśadaṅgulā)
 
 ## mukta-m0-p28-v698
-[dvāra-ucchrayam](dvārocchrayaṃ) [vibhajya](vibhajya) [ādau](ādau) [aṣṭa-dhaukam](aṣṭadhaukaṃ) [vidhāya](vidhāya) [ca](ca)
+[dvāra-ucchrayaṃ](dvārocchrayaṃ) [vibhajya](vibhajyādāvaṣṭadhaukaṃ) [ādau](ādau) [aṣṭa-dhaukaṃ](aṣṭadhaukaṃ) [vidhāya](vidhāya) [ca](ca)
 
 ## mukta-m0-p28-v699
 [vidhātavyā](vidhātavyā) [dvi-bhāgena](dvibhāgena) [kanyasī](kanyasī) [pratimā](pratimā) [ca](ca) [sā](sā)
 
 ## mukta-m0-p28-v700
-[madhyamā](madhyamā) [syāt](syāt) [dvi-bhāgena](dvibhāgena) [kārya-eka-aṃśena](kāryaikāṃśena) [pīṭhikā](pīṭhikā)
+[madhyamā](madhyamā) [syāt](syāddvibhāgena) [dvi-bhāgena](dvibhāgena) [kārya-ekāṃśena](kāryaikāṃśena) [pīṭhikā](pīṭhikā)

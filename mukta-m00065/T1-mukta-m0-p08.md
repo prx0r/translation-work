@@ -2,37 +2,37 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p08-v176
-that-accomplished always Shiva-like guru-form unborn [kh: guru-form-self-natured]
+this-accomplished always Shiva-nature guru-form unborn
 
 ## mukta-m0-p08-v177
-Shiva-ending-named all ash-limbed [mū,a,kh,gh,ṅ: ash-eyed] celibates
+Shiva-end-named all ash-limbed celibates
 
 ## mukta-m0-p08-v178
-may-distinguish common guru-also-thus-thus but
+distinguish common guru also thus indeed
 
 ## mukta-m0-p08-v179
-lotus mud-born just-as so Shiva not others
+lotus mud-born as-so Shiva not others
 
 ## mukta-m0-p08-v180
-likewise of-Shiva-lingas Shaivas Pashupatas-etc
+likewise Shiva-lingas Shivas Pashupatas etc
 
 ## mukta-m0-p08-v181
-linga-difference-fruits-united goes-that Raurava certainly
+linga-difference-fruits joined goes he Raurava certainly
 
 ## mukta-m0-p08-v182
-otherwise sin-doer would-be thus-command supreme-lordly
+otherwise sinner would-be thus command supreme-lordly
 
 ## mukta-m0-p08-v183
-celibate-householder-ness-difference-divided twofold situated
+celibate householder-state difference-divided twofold situated
 
 ## mukta-m0-p08-v184
-desired-desire-action I-speak now with-distinction
+desired desire action I-speak now with-distinction
 
 ## mukta-m0-p08-v185
 enjoyment-liberation-desiring desirer should-do initiation-etc by-command
 
 ## mukta-m0-p08-v186
-installation-etc-actions-all that-done praised
+installation-etc actions-remainder that-done praised
 
 ## mukta-m0-p08-v187
 Shiva-authority-conduct who he Sāntānika called
@@ -41,37 +41,37 @@ Shiva-authority-conduct who he Sāntānika called
 afterwards should-do marriage and householder he Vatārpaka
 
 ## mukta-m0-p08-v189
-alms-eating restrained-self and vow-holder he proclaimed
+alms-eater restrained-self and vow-holder he proclaimed
 
 ## mukta-m0-p08-v190
-flower-falling named but maṭhī [mū,g: mathī; k: sacī] with-mudrās desired
+flower-falling-named indeed monastery seals desired
 
 ## mukta-m0-p08-v191
-good-cloth anointing oil leads enjoys indeed him [mū,a,k: ramaterhitaḥ; kh: ramatordhvataḥ; gh: rayaterhitam]
+good-cloth ointment oil leads enjoys indeed him
 
 ## mukta-m0-p08-v192
-for-honey vow-holder and indeed should-choose wise-man
+for-honey vow-holder and indeed should-choose wise man
 
 ## mukta-m0-p08-v193
-worldly substance-sharer would-be knowledge-sharer other-worldly
+worldly substance-sharer should-be knowledge-sharer otherworldly
 
 ## mukta-m0-p08-v194
-brother guru-absence would-be of-householders own-son [mū,a,k: svaputragam; kh: suputrakaḥ]
+of-brothers guru-absence should-be of-householders own-son
 
 ## mukta-m0-p08-v195
-unfit for-Shiva-works bell-connected should-remove [g: ghaṇṭāmayuktilohavat]
+unfit Shiva-works bell-related should-remove
 
 ## mukta-m0-p08-v196
-in-debt in-substance and in-ball and he alone praised
+debt substance and lump and he indeed one praised
 
 ## mukta-m0-p08-v197
-in-four-cow-range middle and Shaiva eldest [mū,a,k,g: jyeṣṭhoyateḥ] supreme
+four-cow-range middle and Shiva eldest supreme
 
 ## mukta-m0-p08-v198
-Shaiva-teacher then best should-establish all-deities [saha devatā, iti pāṭhāntaram]
+Shiva-teacher then best should-establish all-deities
 
 ## mukta-m0-p08-v199
-enjoyment-liberation-giver and not-other indeed world-maker-guru
+enjoyment-liberation-giver and no-other indeed world-maker guru
 
 ## mukta-m0-p08-v200
-that-absence [gh: vadadāve] but should-be-done own-deity-vow-performers [kh: vratadhāriṇaḥ]
+that-absence but should-do own-deity-vow-performers
