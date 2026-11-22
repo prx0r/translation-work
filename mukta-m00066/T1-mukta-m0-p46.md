@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyaḥ) [reason](hetuḥ) [causes](raṃjanahetavaḥ)
+vīreṇa(hero) tāsu(those) karttavyo(should-be-done) hetu(reason) raṃjana-coloring hetavaḥ(causes)
 
 ## mukta-m0-p46-v1127
-[by-teachers](ācāryamāṇaiḥ) [of-women](strīṇām) [not-other-refuge](ananyaśaraṇam) [mind](manaḥ)
+ācāryamāṇaiḥ(by-teachers) yaḥ(who) strīṇāṃ(women's) ananya-śaraṇaṃ(not-other-refuge) manaḥ(mind)
 
 ## mukta-m0-p46-v1128
-[in-slips](skhalaneṣu) [patience](titikṣā) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
+skhalaneṣu(in-failings) titikṣā(patience) ca(and) doṣasya(fault's) punar-īkṣaṇam(re-examination)
 
 ## mukta-m0-p46-v1129
-[policy](daṇḍanītiḥ) [not](na) [tu](tu) [in-women](strīṣu) [to-cause-fall](prapātayitum) [deserves](arhati)
+daṇḍanītiḥ(punishment-policy) na(not) tu(but) strīṣu(women) prapātayitum(to-ruin) arhati(is-worthy)
 
 ## mukta-m0-p46-v1130
-[behold](paśya) [violence-with](sāhasametāsām) [gone-to-heaven](svargate) [own-husband](nijabharttari)
+paśya(see) sāhasa-boldness etāsāṃ(these) svarga-gate(gone-to-heaven) nija-bharttari(own-husband)
 
 ## mukta-m0-p46-v1131
-[by-grief-beating-harshness](khedatāḍanapāruṣyaiḥ) [release-indeed](muṃcantyeva) [own-life](svajīvitam)
+kheda-sorrow tāḍana-beating pāruṣyaiḥ(harshness) muṃcanti(they-release) eva(indeed) sva-jīvitam(own-life)
 
 ## mukta-m0-p46-v1132
-[therefore](ataḥ) [gentleness](mārdavam) [in-them](tāsu) [first](prathamaṃ) [mind-pleasing](cittaraṃjanam)
+ataḥ(therefore) ca(and) mārdavaṃ(gentleness) tāsu(those) prathamaṃ(first) citta-raṃjanam(mind-coloring)
 
 ## mukta-m0-p46-v1133
-[extreme](atyaṃtam) [growth](abhivṛddhim) [and](ca) [leading](nayat) [if](cet) [in-them](tāsu) [accomplisher](sādhakaḥ)
+atyaṃtam(extreme) abhivṛddhiṃ(growth) ca(and) nayat(leading) cet(if) tāsu(those) sādhakaḥ(accomplisher)
 
 ## mukta-m0-p46-v1134
-[middle](madhyamena) [manner](prakāreṇa) [sight](darśanam) [instructed](pradiśat) [wise](budhaḥ)
+madhyamena(middle) prakāreṇa(way) darśanaṃ(seeing) pradiśet(should-indicate) budhaḥ(wise)
 
 ## mukta-m0-p46-v1135
-[attached](raktaḥ) [to-other-disgrace](parebhavam) [goes](yāti) [disgraced](paribhūtaḥ) [how](kathaṃ) [beloved](priye)
+raktaḥ(attached) parebhavaṃ(disgrace) yāti(goes) paribhūtaḥ(disrespected) kathaṃ(how) priye(beloved)
 
 ## mukta-m0-p46-v1136
-[of-bull](vṛṣasyaṃtīṣu) [in-them](tāsu) [mother](amba) [not](na) [vai](vai) [chief](mukhyaṃ) [ca](ca) [should-drive](cārayet)
+vṛṣasyantīṣu(in-heat) tāsu(those) amba(mother) na(not) vai(indeed) mukhyaṃ(main) ca(and) cārayet(should-make-roam)
 
 ## mukta-m0-p46-v1137
-[morsels](grāsān) [api](api) [ca](ca) [garments](vāsāṃsi) [as](yathā) [ability](śakti) [should-offer](nivedayet)
+grāsān(food-morsels) api(also) ca(and) vāsāṃsi(clothes) yathā(according-to) śakti(ability) nivedayet(should-offer)
 
 ## mukta-m0-p46-v1138
-[therefore](tasmāt) [hero-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛtiḥ) [auspicious](śive)
+tasmāt(therefore) vīra-jana-adhīnā(dependent-on-heroic-men) dūtikā(messenger) prakṛti(nature) śive(auspicious)
 
 ## mukta-m0-p46-v1139
-[of-couple](daṃpatyoḥ) [union](ghaṭanam) [should-say](brūyat) [human-aim](puruṣārtha) [sole-cause](ekakāraṇam)
+daṃpatyoḥ(couple's) ghaṭanaṃ(union) brūyat(should-say) puruṣa-artha-eka-kāraṇam(single-cause-of-human-aim)
 
 ## mukta-m0-p46-v1140
-[mutually](anyonyam) [with-affection](anurāgeṇa) [great](mahat) [happiness](saukhyaṃ) [arises](prajāyate)
+anyonya-mutual anurāgeṇa(with-affection) mahat-great saukhyaṃ(happiness) prajāyate(is-born)
 
 ## mukta-m0-p46-v1141
-[therefore](tasmāt) [for-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [should-show](prakāśayet)
+tasmāt(therefore) tad-anukūlyāya(for-favor) sva-anukūlyaṃ(own-favor) prakāśayet(should-reveal)
 
 ## mukta-m0-p46-v1142
-[by-embrace-pretext](āliṃganacchalenaiva) [happiness](sukhaṃ) [massage](saṃvāhanam) [should-do](caret)
+āliṃgana-chalena(by-embrace-pretext) eva(indeed) sukhaṃ(pleasure) saṃvāhanaṃ(massage) caret(should-do)
 
 ## mukta-m0-p46-v1143
-[should-anoint](ādāyalimpec) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-goer](nānyagā) [becomes](bhavet)
+ādāya(taking) alimpet(should-anoint) caraṇe(feet) dūtyāḥ(messenger's) sā(she) na(not) anya-gā(other-going) bhavet(should-be)
 
 ## mukta-m0-p46-v1144
-[disgusted](jugupsamānaḥ) [not](na) [would-be](bhavet) [dispassion](vairāgyaṃ) [by-that](tena) [arises](jāyate)
+jugupsamānaḥ(disgusted) na(not) bhavet(should-be) vairāgyaṃ(detachment) tena(by-that) jāyate(arises)
 
 ## mukta-m0-p46-v1145
-[in-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavam) [ca](ca) [step](pade) [step](pade)
+sati-lokeṣu(in-true-worlds) saṃcāram(movement) utsavaṃ(festival) ca(and) pade-pade(step-by-step)
 
 ## mukta-m0-p46-v1146
-[various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
+vividhaiḥ(various) sarasaiḥ(juicy) pakvaiḥ(ripe) phalaiḥ(fruits) puṣpaiḥ(flowers) sugaṃdhibhiḥ(fragrant)
 
 ## mukta-m0-p46-v1147
-[with-unctions](udvarttanaiḥ) [betel](tāṃbūlaiḥ) [collyrium](aṃjanaiḥ) [mouth-perfumes](mukhavāsitaiḥ)
+udvarttanaiḥ(massages) ca(and) tāṃbūlaiḥ(betel) aṃjanaiḥ(collyrium) mukha-vāsitaiḥ(mouth-perfumed)
 
 ## mukta-m0-p46-v1148
-[should-please](raṃjayet) [beloved](ramaṇīm) [wise](dhīmān) [with-enjoyments](bhogaiḥ) [bright](dīptaiḥ) [ca](ca) [pārvati](pārvati)
+raṃjayet(should-color) ramaṇīṃ(beloved) dhīmān(wise) bhogaiḥ(enjoyments) dīptaiḥ(bright) ca(and) pārvati(Pārvatī)
 
 ## mukta-m0-p46-v1149
-[so-long](tāvat) [pleased-mind](hiramanā) [eva](eva) [enjoyment-difference](bhogabhedā) [tu](tu) [should-do](pācaret)
+tāvat(until) hira-manāḥ(golden-minded) eva(indeed) bhoga-bhedāḥ(enjoyment-differences) tu(but) pācaret(should-practice)
 
 ## mukta-m0-p46-v1150
-[by-praise](ślāghayā) [arises](jāyate) [that](tac) [ca](ca) [proud](sadarpā) [fruitless](aviphalā) [women](striyaḥ)
+ślāghayā(with-praise) jāyate(arises) tat(that) ca(and) sa-darpā(prideful) aviphalāḥ(fruitless) striyaḥ(women)
