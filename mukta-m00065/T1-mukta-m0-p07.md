@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[dīkṣā-yoga](dīkṣāyogāt) [tathā](tathā) [īśa](īśasya) [śūdra-ādi](śūdrādiḥ) [śiva-tā](śivatāṃ) [vrajet](vrajet)
+[initiation-yoga](dīkṣāyogāt) [thus](tathā) [of-īśa](īśasya) [śūdra-etc](śūdrādiḥ) [śiva-ness](śivatāṃ) [would-go](vrajet)
 
 ## mukta-m0-p07-v152
-[yathā](yathā) [kulāla-cakra](kulālacakrastho) [avicchinna](avicchinnaṃ) [bhramate](bhramate) [ghaṭa](ghaṭaḥ)
+[as](yathā) [potter-wheel-situated](kulālacakrasthaḥ) [uninterrupted](avicchinnam) [revolves](bhramate) [pot](ghaṭaḥ)
 
 ## mukta-m0-p07-v153
-[mala](malaṃ) [viṣama-da](viṣamadaṃ) [yadvat](yadvaddhanti) [vai](vai) [mantra-tejas](mantratejasā)
+[impurity](malaṃ) [poison-giving](viṣamadam) [just-as](yadvat) [destroys](hanti) [indeed](vai) [mantra-radiance](mantratejasā)
 
 ## mukta-m0-p07-v154
-[syāt](syātkatakaphalairyogāttadvanmantraistu) [mānava](mānavaḥ)
+[may-be](syāt) [kataka-fruit](katakaphalaiḥ) [by-yoga](yogāt) [thus](tadvat) [by-mantras](mantraiḥ) [but](tu) [man](mānavaḥ)
 
 ## mukta-m0-p07-v155
-[tathā-eva](tathaiva) [mantra-sāmarthya](mantrasāmarthyānmalaṃ) [hatvā](hatvā) [śivī](śivī) [bhavet](bhavet)
+[thus](tathaiva) [mantra-power](mantrasāmarthyāt) [impurity](malaṃ) [having-killed](hatvā) [śiva](śivī) [becomes](bhavet)
 
 ## mukta-m0-p07-v156
-[tathā-īśa-mantra-saṃparka](tatheśamantrasaṃparkā) [śiva-tva](cchivatvaṃ) [jāyate](jāyate) [paśu](paśoḥ)
+[thus](tathā) [īśa-mantra-contact](īśamantrasaṃparkāt) [śiva-ness](śivatvaṃ) [arises](jāyate) [of-paśu](paśoḥ)
 
 ## mukta-m0-p07-v157
-[śaiva-ācārya](śaivācāryāḥ) [prayacchanti](prayacchanti) [śiva-tva](śivatvaṃ) [sa](sa) [carācara](carācare)
+[śaiva-teachers](śaivācāryāḥ) [bestow](prayacchanti) [śiva-ness](śivatvaṃ) [in](sa) [moving-immovable](carācare)
 
 ## mukta-m0-p07-v158
-[ācārya](ācāryo'pi) [tathā-eva](tathaivātra) [śiva-tva](śivatvaṃ) [yāti](yāti) [mantra-vit](mantravit)
+[teacher](ācāryaḥ) [also](api) [thus](tathaiva) [here](atra) [śiva-ness](śivatvaṃ) [goes](yāti) [mantra-knower](mantravit)
 
 ## mukta-m0-p07-v159
-[saṃskriyante](saṃskriyante) [hi](hi) [mantraiḥ](mantraiśca) [deva-ācārya-tapasvin](devācāryatapasvinaḥ)
+[are-purified](saṃskriyante) [indeed](hi) [by-mantras](mantraiḥ) [and](ca) [gods-teachers-ascetics](devācāryatapasvinaḥ)
 
 ## mukta-m0-p07-v160
-[yathā-pūjya-veda-jña](yathāpūjyaveda) [tathā](jñastathā) [śūdra](śudro'pi) [daiśika](daiśikaḥ)
+[as](yathā) [venerable-veda-knower](pūjyavedajñaḥ) [thus](tathā) [śūdra](śudraḥ) [also](api) [teacher](daiśikaḥ)
 
 ## mukta-m0-p07-v161
-[sa](sa) [śiva](śivaḥ) [svayam](svayameva) [syāt](syānnānyarūpaḥ) [kadācana](kadācana)
+[he](sa) [śiva](śivaḥ) [himself](svayam) [indeed](eva) [is](syāt) [not-other-form](nānyarūpaḥ) [ever](kadācana)
 
 ## mukta-m0-p07-v162
-[mantra-yoga](mantrayogādvibudhyante) [naṣṭa-aniṣṭa](naṣṭāniṣṭaṃ) [tathā](tathā) [śive](śive)
+[by-mantra-yoga](mantrayogāt) [awaken](vibudhyante) [lost-unfavorable](naṣṭāniṣṭam) [thus](tathā) [in-śiva](śive)
 
 ## mukta-m0-p07-v163
-[śaiva-ācārya](śaivācāryaḥ) [paraṃ](paraṃ) [sthāna](sthānaṃ) [tadvat](tadvattā) [mantra-naukā](nmantranaukayā)
+[śaiva-teacher](śaivācāryaḥ) [supreme](param) [place](sthānaṃ) [thus](tadvat) [by-mantra-boat](mantranaukayā)
 
 ## mukta-m0-p07-v164
-[śeṣe](śeṣe) [tvekaika-hāni](tvekaikahāniḥ) [syāt](syātsahasre) [ca](ca) [śataka-kramāt](śatakramāt)
+[in-remainder](śeṣe) [but](tu) [one-by-one-loss](ekaikahāniḥ) [is](syāt) [in-thousand](sahasre) [and](ca) [hundred-fold](śatakramāt)
 
 ## mukta-m0-p07-v165
-[pitāmaha-śata](pitāmahaśataṃ) [yāvat](yāvadviṣṇormānaṃ) [vidhīyate](vidhīyate)
+[grandfather-hundred](pitāmahaśataṃ) [until](yāvat) [of-viṣṇu](viṣṇoḥ) [measure](mānaṃ) [is-ordained](vidhīyate)
 
 ## mukta-m0-p07-v166
-[vinaśyanti](vinaśyanti) [tathā](tathopendrā) [asaṃkhyāta](asaṃkhyātāḥ) [pitāmaha](pitāmahāḥ)
+[perish](vinaśyanti) [thus](tathā) [upendra](upendrāḥ) [countless](asaṃkhyātāḥ) [grandfathers](pitāmahāḥ)
 
 ## mukta-m0-p07-v167
-[sādākhya-nimiṣeṇa-īśa](sādākhyanimiṣeṇeśo) [layaṃ](layaṃ) [yāti](yāti) [na](na) [saṃśay](saṃśayḥ)
+[in-sādākhya-moment](sādākhyanimiṣeṇa) [īśa](īśaḥ) [dissolution](layaṃ) [goes](yāti) [no](na) [doubt](saṃśayaḥ)
 
 ## mukta-m0-p07-v168
-[śivāt](śivātparataraṃ) [nāsti](nāsti) [iti](iti) [śāstreṣu](śāstreṣu) [niścaya](niścayaḥ)
+[than-śiva](śivāt) [higher](parataraṃ) [not-is](nāsti) [thus](iti) [in-scriptures](śāstreṣu) [certainty](niścayaḥ)
 
 ## mukta-m0-p07-v169
-[tasmāt](tasmācchivadito) [mantra](mantraḥ) [siddhi-mukti-phala-prada](siddhimuktiphalapradaḥ)
+[therefore](tasmāt) [from-śiva](śivāt) [mantra](mantraḥ) [accomplishment-liberation-fruit-giving](siddhimuktiphalapradaḥ)
 
 ## mukta-m0-p07-v170
-[mantraiḥ](mantraiḥ) [śiva-adhvare](śivādhvare) [jātaḥ](jātaḥ) [sa](sa) [śūdra](śūdraḥ) [syāt](syātkathaṃ) [punaḥ](punaḥ)
+[by-mantras](mantraiḥ) [in-śiva-sacrifice](śivādhvare) [born](jātaḥ) [he](sa) [śūdra](śūdraḥ) [is](syāt) [how](kathaṃ) [again](punaḥ)
 
 ## mukta-m0-p07-v171
-[tathā-eva](tathaiva) [pāpa-hāna](pāpahānaṃ) [ca](ca) [prākṛta](prākṛtāstu) [prajāyate](prajāyate)
+[thus](tathaiva) [sin-removal](pāpahānaṃ) [and](ca) [natural](prākṛtāḥ) [but](tu) [is-born](prajāyate)
 
 ## mukta-m0-p07-v172
-[lakṣyā](lakṣyā) [vipra-ādi-kācāra](viprādikācārānnārakīṇo) [na](na) [tāraka](tārakāḥ)
+[visible](lakṣyāḥ) [brāhmaṇa-etc-conduct](viprādikācārān) [hell-dwellers](nārakīṇaḥ) [not](na) [saviors](tārakāḥ)
 
 ## mukta-m0-p07-v173
-[na](na) [bhaveyuḥ](bhaveyustadā) [nūnaṃ](nūnaṃ) [dvija](dvijā) [deva-ādi-daiśika](devādidaiśikāḥ)
+[not](na) [would-be](bhaveyuḥ) [then](tadā) [certainly](nūnaṃ) [twice-born](dvijāḥ) [gods-etc-teachers](devādidaiśikāḥ)
 
 ## mukta-m0-p07-v174
-[viṣa-bhūta-graha-ādyāḥ](viṣabhūtagrahādyāśca) [nigṛhyante](nigṛhyante) [hi](hi) [mantrataḥ](mantrataḥ)
+[poison-spirits-planets-etc](viṣabhūtagrahādyāḥ) [and](ca) [are-restrained](nigṛhyante) [indeed](hi) [by-mantra](mantrataḥ)
 
 ## mukta-m0-p07-v175
-[carācaraṃ](carācaraṃ) [prapadyeta](prapadyeta) [śiva-tva](śivatvaṃ) [tatkṣaṇāt](tatkṣaṇāddhruvam)
+[moving-immovable](carācaram) [would-attain](prapadyeta) [śiva-ness](śivatvaṃ) [instantly](tatkṣaṇāt) [certainly](dhruvam)
