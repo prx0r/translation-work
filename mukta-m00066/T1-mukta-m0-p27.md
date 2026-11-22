@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-[beating](tāḍana) [principal](pramukhaṃ) [action](karmataṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
+[pada](tāḍana) [pada](pramukhaṃ) [pada](karmataṃ) [pada](hetuṃ) [pada](kathaya) [pada](prabho)
 
 ## mukta-m0-p27-v652
-[delusion](mohaṃ) [moment](kṣaṇe) [moment](kṣaṇe) [messenger](dūtyā) [worship](bhajaṃte) [playful-action](narmakarmaṇi)
+[pada](mohaṃ) [pada](kṣaṇe) [pada](kṣaṇedūtyā) [pada](bhajaṃte) [pada](narmakarmaṇi)
 
 ## mukta-m0-p27-v653
-[therefore](tasmāt) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [melt](dravaṃtyeva) [messengers](dūtikāḥ)
+[pada](tasmādalasatāṃ) [pada](prāptā) [pada](na) [pada](dravaṃtyeva) [pada](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-[delays](vilaṃbate) [pleasure](ratiṃ) [give](dātuṃ) [that-delay](tadvilaṃbāt) [happiness-where](sukhaṃkutaḥ)
+[pada](vilaṃbate) [pada](ratiṃ) [pada](dātuṃ) [pada](tadvilaṃbāt) [pada](sukhaṃkutaḥ)
 
 ## mukta-m0-p27-v655
-[they](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [pleasure-rite](ratādhvare)
+[pada](tāḥ) [pada](prabuddhāḥ) [pada](samutsāha) [pada](mārabhaṃte) [pada](ratādhvare)
 
 ## mukta-m0-p27-v656
-[messenger](dūtyā) [rushes](udravati) [much](bahuśaḥ) [fresh-butter](navanītam) [like-fire](ivāgninā)
+[pada](dūtyodravati) [pada](bahuśonavanītamivāgninā)
 
 ## mukta-m0-p27-v657
-[dissolution](layam) [meaning-dissolution](arthalayaṃ) [also](cāpi) [then](tadā) [strike-dissolution](ghaṭṭalayaṃ) [beloved](priye)
+[pada](layamarthalayaṃ) [pada](cāpi) [pada](tadā) [pada](ghaṭṭalayaṃ) [pada](priye)
 
 ## mukta-m0-p27-v658
-[not-moving](acaran) [messenger-limb](dūtikāgātram) [blissful](ānaṃdamaya) [state](tāṃ) [lead](nayet)
+[pada](acarandūtikāgātramānaṃdamayatāṃ) [pada](nayet)
 
 ## mukta-m0-p27-v659
-[self](svayam) [extreme](atyaṃta) [steadfast-soul](dhīrātmā) [cultivating](bhāvayan) [linga-key](liṃgakuṃcikām)
+[pada](svayamatyaṃta) [pada](dhīrātmā) [pada](bhāvayan) [pada](liṃgakuṃcikām)
 
 ## mukta-m0-p27-v660
-[eternal](nitya) [blissful](ānaṃdamayaṃ) [truth](tatvaṃ) [world-pervading](jagadvyāptaṃ) [contemplating](viciṃtayat)
+[pada](nityānaṃdamayaṃ) [pada](tatvaṃ) [pada](jagadvyāptaṃ) [pada](viciṃtayat)
 
 ## mukta-m0-p27-v661
-[this](ayam) [indeed](eva) [great-sacrifice](mahāyajñaḥ) [austerity](tapaḥ) [this](cedam) [unsurpassed](anuttamam)
+[pada](ayameva) [pada](mahāyajñastapaścedamanuttamam)
 
 ## mukta-m0-p27-v662
-[this](idaṃ) [vow](vrataṃ) [great-meritorious](mahāpuṇyam) [bliss-nondual-giving](ānaṃdādvaitadāyakaṃ)
+[pada](idaṃ) [pada](vrataṃ) [pada](mahāpuṇyamānaṃdādvaitadāyakaṃ)
 
 ## mukta-m0-p27-v663
-[drop-flow](biṃduvikṣaraṇaṃ) [named](nāma) [sacrifice-completion](yajñāvabhṛtha) [called](ucyate)
+[pada](biṃduvikṣaraṇaṃ) [pada](nāma) [pada](yajñāvabhṛtha) [pada](ucyate)
 
 ## mukta-m0-p27-v664
-[as](yathā) [as](yathā) [time-length](kāladairghyaṃ) [steadiness-bond](dhairyabaṃdhena) [more](bhūyasā)
+[pada](yathā) [pada](yathā) [pada](kāladairghyaṃ) [pada](dhairyabaṃdhena) [pada](bhūyasā)
 
 ## mukta-m0-p27-v665
-[fire](agniḥ) [in-mouth](mukhe) [mercury-like](pāradavat) [not](na) [steadiness](dhairyam) [follows](anudhāvati)
+[pada](agnirmukhe) [pada](pāradavat) [pada](na) [pada](dhairyamanudhāvati)
 
 ## mukta-m0-p27-v666
-[how](kathaṃ) [becomes](bhavati) [caṇḍīśa](caṇḍīśa) [firm](prastabdhaṃ) [white-limb](śuklamaṃgake)
+[pada](kathaṃ) [pada](bhavati) [pada](caṇḍīśa) [pada](prastabdhaṃ) [pada](śuklamaṃgake)
 
 ## mukta-m0-p27-v667
-[extremely](atyaṃta) [wonder-producing](āścaryajanakaṃ) [if](yadi) [white](śuklasya) [retention](dhāraṇā)
+[pada](atyaṃtāścaryajanakaṃ) [pada](yadiśuklasya) [pada](dhāraṇā)
 
 ## mukta-m0-p27-v668
-[not](na) [even-by-effort](tukenāpi) [effort](yatnena) [arises](jāyate) [white-retention](śukladhāraṇā)
+[pada](natukenāpi) [pada](yatnena) [pada](jāyate) [pada](śukladhāraṇā)
 
 ## mukta-m0-p27-v669
-[in-kāma-tantras](kāmataṃtreṣu) [much](bahuśaḥ) [by-enjoyers](bhogibhiḥ) [what](yat) [performed](anuṣṭhitam)
+[pada](kāmataṃtreṣu) [pada](bahuśobhogibhiryadanuṣṭhitam)
 
 ## mukta-m0-p27-v670
-[that](tad) [I-speak](vadāmi) [great-fortunate](mahābhāge) [stopping](staṃbhanaṃ) [essence-prosperity](rasasaṃpadām)
+[pada](tadvadāmi) [pada](mahābhāge) [pada](staṃbhanaṃ) [pada](rasasaṃpadām)
 
 ## mukta-m0-p27-v671
-[not](na) [attained](ndavyate) [somehow](kathamapi) [mature](prauḍham) [one](eka) [essence](rasaḥ) [by-wise](budhaiḥ)
+[pada](naṃdavyate) [pada](kathamapi) [pada](prauḍhamekorasobudhaiḥ)
 
 ## mukta-m0-p27-v672
-[all](sarve) [also](pi) [tissues](dhātavaḥ) [goddess](devī) [own-place](svasvasthāne) [made-shelter](kṛtāśrayāḥ)
+[pada](sarvepi) [pada](dhātavodevī) [pada](svasvasthāne) [pada](kṛtāśrayāḥ)
 
 ## mukta-m0-p27-v673
-[in-nāḍī-cakras](nāḍīcakreṣu) [all](sarveṣu) [dwelling](vasan) [also](api) [mercury-lord](raseśvaraḥ)
+[pada](nāḍīcakreṣu) [pada](sarveṣu) [pada](vasannapi) [pada](raseśvaraḥ)
 
 ## mukta-m0-p27-v674
-[some](kecid) [say](vadaṃti) [between-brows](bhrūmadhye) [some](kecid) [heart-jewel](hṛdiparemaṇau)
+[pada](kecidvadaṃti) [pada](bhrūmadhye) [pada](keciddhṛdiparemaṇau)
 
 ## mukta-m0-p27-v675
-[some](kecid) [on-urvī-surface](ūrvostale) [goddess](devi) [some](kecid) [hip-joint](jaghanasīmani)
+[pada](decidūrvostaledevi) [pada](decijjaghanasīmani)

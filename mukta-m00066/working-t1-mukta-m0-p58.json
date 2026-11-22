@@ -16,7 +16,7 @@
 },
 {
 "surface": "kṛtitvasya",
-"quick_gloss": "of-action"
+"quick_gloss": "of-doing"
 },
 {
 "surface": "ghaṭanaṃ",
@@ -45,15 +45,31 @@
 "tokens": [
 {
 "surface": "tritvantu",
-"quick_gloss": "threefold"
+"quick_gloss": "threefold-indeed"
 },
 {
-"surface": "vyavahārasyāpyapekṣaivātra",
+"surface": "vyavahārasya",
 "quick_gloss": "of-practice"
 },
 {
+"surface": "api",
+"quick_gloss": "also"
+},
+{
+"surface": "apekṣā",
+"quick_gloss": "expectation"
+},
+{
+"surface": "eva",
+"quick_gloss": "only"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
+},
+{
 "surface": "sammatam",
-"quick_gloss": "accepted"
+"quick_gloss": "agreed"
 }
 ]
 },
@@ -74,11 +90,19 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "tu"
+"quick_gloss": "but"
 },
 {
-"surface": "śabdabhāvyamihādhunā",
+"surface": "śabdabhāvyam",
 "quick_gloss": "by-sound"
+},
+{
+"surface": "iha",
+"quick_gloss": "here"
+},
+{
+"surface": "adhunā",
+"quick_gloss": "now"
 }
 ]
 },
@@ -90,7 +114,11 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śabdabhāsyatvamujhitvā",
+"surface": "śabdabhāsyatvam",
+"quick_gloss": "by-sound-being"
+},
+{
+"surface": "ujhitvā",
 "quick_gloss": "abandoning"
 },
 {
@@ -112,7 +140,7 @@
 "tokens": [
 {
 "surface": "svāśrayo",
-"quick_gloss": "own-support"
+"quick_gloss": "self-support"
 },
 {
 "surface": "marudekasya",
@@ -178,7 +206,7 @@
 },
 {
 "surface": "vāyaumeghahimātmatā",
-"quick_gloss": "wind-cloud-snow-nature"
+"quick_gloss": "wind-cloud-frost-nature"
 }
 ]
 },
@@ -191,7 +219,7 @@
 "tokens": [
 {
 "surface": "śabdemaṃghījalamarut",
-"quick_gloss": "by-sound-this-water-air"
+"quick_gloss": "by-sound-this-ghī-water-air"
 },
 {
 "surface": "saṃśrayaḥ",
@@ -257,7 +285,7 @@
 },
 {
 "surface": "kamihocyate",
-"quick_gloss": "here-called"
+"quick_gloss": "here"
 }
 ]
 },
@@ -274,7 +302,7 @@
 },
 {
 "surface": "prāṇi",
-"quick_gloss": "living"
+"quick_gloss": "living-being"
 },
 {
 "surface": "sacit",
@@ -312,7 +340,7 @@
 "tokens": [
 {
 "surface": "saṃghātajāśca",
-"quick_gloss": "aggregates"
+"quick_gloss": "aggregates-born"
 },
 {
 "surface": "saṃghātā",
@@ -320,7 +348,7 @@
 },
 {
 "surface": "bahavonaikarūpiṇaḥ",
-"quick_gloss": "many"
+"quick_gloss": "many-not-one-formed"
 }
 ]
 },
@@ -332,12 +360,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bahunā kimihoktena",
-"quick_gloss": "why-much-here-said"
+"surface": "bahunā",
+"quick_gloss": "by-much"
+},
+{
+"surface": "kimihoktena",
+"quick_gloss": "what"
 },
 {
 "surface": "kintatvairaparairjaḍaiḥ",
-"quick_gloss": "what-principle-other-inert"
+"quick_gloss": "what-principle"
 }
 ]
 },
@@ -349,20 +381,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "acchedyo'yamadāhoya",
+"surface": "acchedyo",
 "quick_gloss": "uncuttable"
 },
 {
-"surface": "makledyośoṣya",
+"surface": "adāhoya",
+"quick_gloss": "unburnable"
+},
+{
+"surface": "makledyo",
 "quick_gloss": "unwettable"
 },
 {
+"surface": "aśoṣya",
+"quick_gloss": "undryable"
+},
+{
 "surface": "eva",
-"quick_gloss": "indeed"
+"quick_gloss": "thus"
 },
 {
 "surface": "ca",
-"quick_gloss": "ca"
+"quick_gloss": "and"
 }
 ]
 },
@@ -375,7 +415,7 @@
 "tokens": [
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-universe"
+"quick_gloss": "of-all-world"
 },
 {
 "surface": "janakaḥ",
@@ -383,7 +423,7 @@
 },
 {
 "surface": "sarvaviśvasya",
-"quick_gloss": "of-all-universe"
+"quick_gloss": "of-all-world"
 },
 {
 "surface": "pālakaḥ",
@@ -531,8 +571,12 @@
 "quick_gloss": "with-sound"
 },
 {
-"surface": "tatodyate",
+"surface": "tat",
 "quick_gloss": "then"
+},
+{
+"surface": "udyate",
+"quick_gloss": "raised"
 }
 ]
 },
@@ -556,12 +600,20 @@
 "quick_gloss": "principle"
 },
 {
-"surface": "kathitamasyaivānyā",
+"surface": "kathitam",
 "quick_gloss": "said"
 },
 {
+"surface": "asyaiva",
+"quick_gloss": "of-this"
+},
+{
+"surface": "anyā",
+"quick_gloss": "other"
+},
+{
 "surface": "vibhūtayaḥ",
-"quick_gloss": "vibhūtayaḥ"
+"quick_gloss": "powers"
 }
 ]
 },
@@ -578,7 +630,7 @@
 },
 {
 "surface": "tacchāstra",
-"quick_gloss": "tacchāstra"
+"quick_gloss": "that-scripture"
 },
 {
 "surface": "sthitiḥ",
@@ -594,7 +646,7 @@
 },
 {
 "surface": "girinaṃdini",
-"quick_gloss": "girinaṃdini"
+"quick_gloss": "mountain-daughter"
 }
 ]
 },
