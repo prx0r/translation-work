@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[obtaining](prāpya) [there](tatra) [strength-place](balasthānaṃ) [in-shining-jewels](dīptaratneṣu) [in-houses](veśmasu)
+[prāpya](prāpya) [tatra](tatra) [balasthānaṃ](balasthānaṃ) [dīptaratneṣu](dīptaratneṣu) [veśmasu](veśmasu)
 
 ## mukta-m0-p43-v1052
-[therefore](tasmād) [this](idaṃ) [great-sacrifice](mahāyāgaṃ) [difficult](durllabhaṃ) [of-winds](marutām) [also](api)
+[tasmāt](tasmāt) [idaṃ](idaṃ) [mahāyāgaṃ](mahāyāgaṃ) [durllabhaṃ](durllabhaṃ) [marutām](marutām) [api](api)
 
 ## mukta-m0-p43-v1053
-[otherwise-doing](anyathākaraṇād) [goddess](devī) [fall](vinipātaḥ) [arises](prajāyate)
+[anyathākaraṇāt](anyathākaraṇāt) [devī](devī) [vinipātaḥ](vinipātaḥ) [prajāyate](prajāyate)
 
 ## mukta-m0-p43-v1054
-[authoritative](prāmāṇike) [in-this](asmin) [fair-hipped](suśroṇi) [on-path](mārge) [living](jīvati) [trusting](viśvasan)
+[prāmāṇike](prāmāṇike) [asmin](asmin) [suśroṇi](suśroṇi) [mārge](mārge) [jīvati](jīvati) [viśvasan](viśvasan)
 
 ## mukta-m0-p43-v1055
-[in-mantra](maṃtre) [in-mantra](maṃtre) [but](tu) [to-be-done](karttavye) [in-medicine](bheṣaje) [in-deity](daivate) [in-guru](gurau)
+[maṃtre](maṃtre) [maṃtre](maṃtre) [tu](tu) [karttavye](karttavye) [bheṣaje](bheṣaje) [daivate](daivate) [gurau](gurau)
 
 ## mukta-m0-p43-v1056
-[growth](vṛdhā)
+[vṛdhā](vṛdhā)
 
 ## mukta-m0-p43-v1057
-[see](paśya) [faith-greatness](viśvāsamāhātmyaṃ) [stone-wood-clay-etc](śilādārumṛdādikam)
+[paśya](paśya) [viśvāsam](viśvāsam) [āhātmyaṃ](āhātmyaṃ) [śilā](śilā) [dāru](dāru) [mṛd](mṛd) [ādikam](ādikam)
 
 ## mukta-m0-p43-v1058
-[unconscious](acetanaṃ) [inert-substance](jaḍadravyaṃ) [by-whom](kena) [success](siddhiṃ) [gives](prayacchati)
+[acetanaṃ](acetanaṃ) [jaḍadravyaṃ](jaḍadravyaṃ) [kena](kena) [siddhiṃ](siddhiṃ) [prayacchati](prayacchati)
 
 ## mukta-m0-p43-v1059
-[action-faith](karmaśraddhā) [tradition](saṃpradāyā) [both-these](vubhāvetau) [promoters](pravarttakau)
+[karma](karma) [śraddhā](śraddhā) [saṃpradāyā](saṃpradāyā) [ubhau](ubhau) [etau](etau) [pravarttakau](pravarttakau)
 
 ## mukta-m0-p43-v1060
-[always-impure](sadāmalīmasā) [fools](mūrkhāḥ) [caṇḍāla-etc](caṃḍālādyāḥ) [and](ca) [births](jātayaḥ)
+[sadā](sadā) [amalīmasā](amalīmasā) [mūrkhāḥ](mūrkhāḥ) [caṃḍālādyāḥ](caṃḍālādyāḥ) [ca](ca) [jātayaḥ](jātayaḥ)
 
 ## mukta-m0-p43-v1061
-[no-conduct](nācāro) [not](na) [and](ca) [or](vā) [purity](śaucaṃ) [not](na) [learning](vaiduṣyaṃ) [not](na) [intellect-qualities](dhīguṇāḥ)
+[na](na) [ācāraḥ](ācāraḥ) [na](na) [ca](ca) [vā](vā) [śaucaṃ](śaucaṃ) [na](na) [vaiduṣyaṃ](vaiduṣyaṃ) [na](na) [dhīguṇāḥ](dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-[faith](viśvāso) [named](nāma) [of-mind](manaso) [firmness](dṛḍhatā) [in-mantra-accomplishment](maṃtrasādhane)
+[viśvāsaḥ](viśvāsaḥ) [nāma](nāma) [manasaḥ](manasaḥ) [dṛḍhatā](dṛḍhatā) [maṃtrasādhane](maṃtrasādhane)
 
 ## mukta-m0-p43-v1063
-[thus](evaṃ) [faith-attained](viśvāsamāpannaḥ) [fruit-desiring](phalārthi) [fruit-form](phalavigrahaḥ)
+[evaṃ](evaṃ) [viśvāsam](viśvāsam) [āpannaḥ](āpannaḥ) [phalārthī](phalārthī) [phalavigrahaḥ](phalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-[brahmin-kshatriya](brāhmaṇakṣatriya) [vaishya](viśā) [authority-here-rule](madhikāro'traśāsanam)
+[brāhmaṇa](brāhmaṇa) [kṣatriya](kṣatriya) [viśām](viśām) [adhikāraḥ](adhikāraḥ) [atra](atra) [śāsanam](śāsanam)
 
 ## mukta-m0-p43-v1065
-[hero-service](vīraśuśrūṣaṇaṃ) [of-them](teṣām) [desired-fruit-successes](abhiṣṭaphalasiddhayaḥ)
+[vīra](vīra) [śuśrūṣaṇaṃ](śuśrūṣaṇaṃ) [teṣām](teṣām) [abhiṣṭaphalasiddhayaḥ](abhiṣṭaphalasiddhayaḥ)
 
 ## mukta-m0-p43-v1066
-[of-vaishya](vaiśyasya) [merchandise-profit-half](paṇyalābhārdhaṃ) [of-shudra](sudrāder) [never](nakadācana)
+[vaiśyasya](vaiśyasya) [paṇyalābhārdhaṃ](paṇyalābhārdhaṃ) [śūdrādernakadācana](śūdrādernakadācana)
 
 ## mukta-m0-p43-v1067
-[one-only-birth-woman-thus](ekaivajātirnārīti) [acceptable](grāhyā) [with-marks](lakṣaṇasaṃbhave)
+[ekaiva](ekaiva) [jātiḥ](jātiḥ) [nārī](nārī) [iti](iti) [grāhyā](grāhyā) [lakṣaṇasaṃbhave](lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-[worship-means](pūjāsādhanam) [these](etā) [indeed](hi) [by-me-created](mayāsṛṣṭā) [doe-eyed](mṛgīdṛśaḥ)
+[pūjā](pūjā) [sādhanam](sādhanam) [etāḥ](etāḥ) [hi](hi) [mayā](mayā) [sṛṣṭāḥ](sṛṣṭāḥ) [mṛgīdṛśaḥ](mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
-[cows](gāvaḥ) [but](tu) [back-pure](pṛṣṭhatomedhyā) [pure-mouthed](medhyāvaktreṇa) [speakers](vādinaḥ)
+[gāvaḥ](gāvaḥ) [tu](tu) [pṛṣṭhato](pṛṣṭhato) [medhyāḥ](medhyāḥ) [medhyāḥ](medhyāḥ) [vaktreṇa](vaktreṇa) [vādinaḥ](vādinaḥ)
 
 ## mukta-m0-p43-v1070
-[women-mouth](strīmukhaṃ) [but](tu) [always](sadā) [purity](śuddhiḥ) [no-leftover](nocciṣṭaṃ) [there](tatra) [exists](vidyate)
+[strīmukhaṃ](strīmukhaṃ) [tu](tu) [sadā](sadā) [śuddhiḥ](śuddhiḥ) [na](na) [ucciṣṭaṃ](ucciṣṭaṃ) [tatra](tatra) [vidyate](vidyate)
 
 ## mukta-m0-p43-v1071
-[without-them](tābhirvinā) [not](na) [sacrifice](yajñaḥ) [is](asti) [not](na) [austerity](tapo) [is](asti) [not](na) [or](vā) [vow](vratam)
+[tābhiḥ](tābhiḥ) [vinā](vinā) [na](na) [yajñaḥ](yajñaḥ) [asti](asti) [na](na) [tapaḥ](tapaḥ) [asti](asti) [na](na) [vā](vā) [vratam](vratam)
 
 ## mukta-m0-p43-v1072
-[eight-offerings](aṣṭāhutiḥ) [great-sacrifice](mahāyāge) [principal](pradhānaṃ) [messengers](dūtikāḥ) [remembered](smṛtāḥ)
+[aṣṭāhutiḥ](aṣṭāhutiḥ) [mahāyāge](mahāyāge) [pradhānaṃ](pradhānaṃ) [dūtikāḥ](dūtikāḥ) [smṛtāḥ](smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-[brought-joined](ānīyaghaṭiyatyeṣā) [therefore](tasmād) [messenger](dūti) [proclaimed](prakīrtitā)
+[ānīya](ānīya) [ghaṭayati](ghaṭayati) [eṣā](eṣā) [tasmāt](tasmāt) [dūtī](dūtī) [prakīrtitā](prakīrtitā)
 
 ## mukta-m0-p43-v1074
-[messenger](dūtī) [by-that](tena) [by-wise](budhaiḥ) [said](proktā) [thought](ciṃtā) [grief-obstructing](saṃtāparodhinī)
+[dūtī](dūtī) [tena](tena) [budhaiḥ](budhaiḥ) [proktā](proktā) [ciṃtā](ciṃtā) [saṃtāpa](saṃtāpa) [rodhinī](rodhinī)
 
 ## mukta-m0-p43-v1075
-[enjoyer-enjoyment-lakshmi-and](bhoginībhogalakṣmīśca) [of-her](tasyāḥ) [synonyms](paryāya) [hymns](sūktayaḥ)
+[bhoginī](bhoginī) [bhogalakṣmīḥ](bhogalakṣmīḥ) [ca](ca) [tasyāḥ](tasyāḥ) [paryāya](paryāya) [sūktayaḥ](sūktayaḥ)
