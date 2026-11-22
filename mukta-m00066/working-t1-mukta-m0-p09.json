@@ -8,11 +8,15 @@
 "tokens": [
 {
 "surface": "uttaraṃge",
-"quick_gloss": "upper"
+"quick_gloss": "upper-part"
+},
+{
+"surface": "kh: -rāṃge",
+"quick_gloss": "kh: -rāṃge"
 },
 {
 "surface": "mahāsiddhau",
-"quick_gloss": "great-siddhi"
+"quick_gloss": "great-accomplishment"
 },
 {
 "surface": "phenajālasamāvṛte",
@@ -37,7 +41,7 @@
 },
 {
 "surface": "nadīnadasamākule",
-"quick_gloss": "river-stream-filled"
+"quick_gloss": "river-stream-crowded"
 }
 ]
 },
@@ -54,7 +58,7 @@
 },
 {
 "surface": "bhrāṃtapuṣpaṃdhayabrajam",
-"quick_gloss": "wandering-flower-drinking-cowherd"
+"quick_gloss": "wandering-flower-drinking-herd"
 }
 ]
 },
@@ -71,15 +75,19 @@
 },
 {
 "surface": "maheśāni",
-"quick_gloss": "O-great-goddess"
+"quick_gloss": "O-great-lady"
 },
 {
 "surface": "tanmadhye",
-"quick_gloss": "in-that-middle"
+"quick_gloss": "in-middle"
 },
 {
 "surface": "hemamaṃdiram",
-"quick_gloss": "golden-palace"
+"quick_gloss": "golden-temple"
+},
+{
+"surface": "kh: - maṃdi *?",
+"quick_gloss": "kh: - maṃdi *?"
 }
 ]
 },
@@ -95,8 +103,8 @@
 "quick_gloss": "four-aims-fruit-attainment"
 },
 {
-"surface": "śokavāraṇam",
-"quick_gloss": "sorrow-removal"
+"surface": "kāraṇaṃ+śokavāraṇam",
+"quick_gloss": "cause-sorrow-removal"
 }
 ]
 },
@@ -108,20 +116,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nānāmaṇi",
-"quick_gloss": "various-gems"
+"surface": "nānāmaṇi+vicitrāṇāṃ",
+"quick_gloss": "various-jewel-variegated"
 },
 {
-"surface": "vicitrāṇāṃ",
-"quick_gloss": "of-variegated-ones"
-},
-{
-"surface": "staṃbhānāṃ",
-"quick_gloss": "of-pillars"
-},
-{
-"surface": "navaśobhayā",
-"quick_gloss": "by-new-splendor"
+"surface": "staṃbhānāṃ+navaśobhayā",
+"quick_gloss": "pillars-new-splendor"
 }
 ]
 },
@@ -133,12 +133,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "caṃdrikābhiḥ",
-"quick_gloss": "by-moonbeams"
-},
-{
-"surface": "parivṛtaṃ",
-"quick_gloss": "surrounded"
+"surface": "caṃdrikābhiḥ+parivṛtaṃ",
+"quick_gloss": "moonlight-surrounded"
 },
 {
 "surface": "bālātapavilohitam",
@@ -155,15 +151,11 @@
 "tokens": [
 {
 "surface": "sajjacāpenakāmena",
-"quick_gloss": "by-bow-bearing-kama"
+"quick_gloss": "by-cupid-with-bow"
 },
 {
-"surface": "rakṣyamāṇam",
-"quick_gloss": "protected"
-},
-{
-"surface": "itastataḥ",
-"quick_gloss": "here-and-there"
+"surface": "rakṣyamāṇam+itastataḥ",
+"quick_gloss": "protected-here-there"
 }
 ]
 },
@@ -197,15 +189,15 @@
 "tokens": [
 {
 "surface": "bhogopakaraṇairyuktaṃ",
-"quick_gloss": "with-enjoyment-implements"
+"quick_gloss": "enjoyment-implements-equipped"
 },
 {
-"surface": "vividhaiśca",
-"quick_gloss": "various"
+"surface": "vividhaiśca+prapānakaiḥ",
+"quick_gloss": "various-drinks"
 },
 {
-"surface": "prapānakaiḥ",
-"quick_gloss": "drinks"
+"surface": "kh: * * * *?",
+"quick_gloss": "kh: * * * *?"
 }
 ]
 },
@@ -218,15 +210,11 @@
 "tokens": [
 {
 "surface": "narmālāpakasābhijñaiś",
-"quick_gloss": "with-witty-conversation-knowing"
+"quick_gloss": "jest-conversation-skilled"
 },
 {
-"surface": "ceṭi+vargair",
-"quick_gloss": "servant-groups"
-},
-{
-"surface": "manoharam",
-"quick_gloss": "charming"
+"surface": "ceṭi+vargairmanoharam",
+"quick_gloss": "maidservant-groups-charming"
 }
 ]
 },
@@ -239,7 +227,7 @@
 "tokens": [
 {
 "surface": "nidhidevatayāyuktaṃ",
-"quick_gloss": "with-treasure-deity"
+"quick_gloss": "treasure-deity-united"
 },
 {
 "surface": "paṭṭāṃśukapariṣkṛtam",
@@ -256,7 +244,7 @@
 "tokens": [
 {
 "surface": "nānāratnasamākīrṇaṃ",
-"quick_gloss": "various-gems-filled"
+"quick_gloss": "various-gem-filled"
 },
 {
 "surface": "catustaṃbhopaśobhitām",
@@ -277,7 +265,7 @@
 },
 {
 "surface": "tiryagdārupalaṃbite",
-"quick_gloss": "crosswise-wood-hanging"
+"quick_gloss": "crosswise-wood-hung"
 }
 ]
 },
@@ -289,8 +277,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "maṃcamuccāvacamaṇijyotiḥ",
+"surface": "maṃcam+uccāvacamaṇijyotiḥ",
 "quick_gloss": "couch-high-low-gem-light"
+},
+{
+"surface": "kh: -jotiḥ",
+"quick_gloss": "kh: -jotiḥ"
 },
 {
 "surface": "piṃjaradiṅmukham",
@@ -315,7 +307,7 @@
 },
 {
 "surface": "sujātaphalakojvalam",
-"quick_gloss": "beautiful-plank-shining"
+"quick_gloss": "well-born-plank-shining"
 }
 ]
 },
@@ -336,7 +328,7 @@
 },
 {
 "surface": "kṣīrābdhi+dhavalacchaviḥ",
-"quick_gloss": "milk-ocean-white-splendor"
+"quick_gloss": "milk-ocean-white-luster"
 }
 ]
 },
@@ -349,7 +341,7 @@
 "tokens": [
 {
 "surface": "29",
-"quick_gloss": "29"
+"quick_gloss": "29)"
 },
 {
 "surface": "kausuṃbhavasanaṃ",
@@ -365,7 +357,7 @@
 },
 {
 "surface": "smaret",
-"quick_gloss": "should-remember"
+"quick_gloss": "remember"
 }
 ]
 },
@@ -378,11 +370,15 @@
 "tokens": [
 {
 "surface": "unnaddhakabarīpāśaṃ",
-"quick_gloss": "tight-braid-knot"
+"quick_gloss": "tied-topknot"
+},
+{
+"surface": "kh: unnattha-",
+"quick_gloss": "kh: unnattha-"
 },
 {
 "surface": "kastūrītilakojvalam",
-"quick_gloss": "musk-tilaka-shining"
+"quick_gloss": "musk-forehead-mark-shining"
 }
 ]
 },
@@ -395,7 +391,7 @@
 "tokens": [
 {
 "surface": "muktāhāreṇaramyeṇa",
-"quick_gloss": "with-pearl-necklace-charming"
+"quick_gloss": "pearl-necklace-charming"
 },
 {
 "surface": "vibhūṣitaśirodharam",
@@ -412,7 +408,7 @@
 "tokens": [
 {
 "surface": "satataṃ+yuktayaṃtratvādanaṃbara",
-"quick_gloss": "always-with-yoked-instrument"
+"quick_gloss": "always-yoked-instrument-therefore"
 },
 {
 "surface": "nijākṛtim",
@@ -429,11 +425,11 @@
 "tokens": [
 {
 "surface": "nakhakṣataiśca+vividhaiś",
-"quick_gloss": "with-nail-marks-various"
+"quick_gloss": "nail-scratches-various"
 },
 {
 "surface": "cuṃbanaiśca+paraḥśataiḥ",
-"quick_gloss": "with-kisses-hundreds"
+"quick_gloss": "kisses-hundreds"
 }
 ]
 },
@@ -446,11 +442,11 @@
 "tokens": [
 {
 "surface": "karaṇairbahuvinyāsai",
-"quick_gloss": "with-limbs-many-arrangements"
+"quick_gloss": "acts-many-arrangements"
 },
 {
 "surface": "rāśleṣairbahubhedibhiḥ",
-"quick_gloss": "with-embraces-many-kinds"
+"quick_gloss": "embraces-many-types"
 }
 ]
 },
@@ -467,15 +463,19 @@
 },
 {
 "surface": "apitaddhyāna",
-"quick_gloss": "with-that-meditation"
+"quick_gloss": "not-that-meditation"
+},
+{
+"surface": "kh: -tadhyāna",
+"quick_gloss": "kh: -tadhyāna"
 },
 {
 "surface": "krameṇamatimān",
-"quick_gloss": "in-order"
+"quick_gloss": "order-by"
 },
 {
 "surface": "smaret",
-"quick_gloss": "should-remember"
+"quick_gloss": "remember"
 }
 ]
 },
@@ -488,7 +488,7 @@
 "tokens": [
 {
 "surface": "svayamavyākulobhūtvā",
-"quick_gloss": "having-become-unagitated"
+"quick_gloss": "self-unagitated-becoming"
 },
 {
 "surface": "niścalendriyamānasaḥ",
