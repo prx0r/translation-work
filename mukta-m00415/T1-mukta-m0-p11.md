@@ -1,4 +1,4 @@
 # mukta-m00415 mukta-m0-p11
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
-I need the actual verse text for **mukta-m0-p11** (with verse numbers and surfaces) to produce byte-exact pada-glosses. Please paste the verses.
+Please provide the verse text for mukta-m00415 mukta-m0-p11 (the labeled verses) so I can draft the T1 pada-glosses in the requested format.
