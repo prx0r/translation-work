@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[in-ground](sthaṇḍile) [in-circle](maṇḍale) [worship-worthy](pūjya) [initiation-establishment-etc](dīkṣāsthāpanādike)
+[on-ground-altar](sthaṇḍile) [in-diagram](maṇḍale) [to-be-worshipped](pūjya) [it-should-be](syād) [in-initiation+installation+and-so-on](dīkṣāsthāpanādike)
 
 ## mukta-m0-p04-v77
-[lord-honoring](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-cut-elephant-tusk-born](sainyacchinnāgadantajam)
+[lordly+measure+giving](prabhumānapradaṃ) [conch-made](śāṅkhaṃ) [army+cut+elephant](sainyacchinnāga) [tusk+born](dantajam)
 
 ## mukta-m0-p04-v78
-[atom-etc-royal-born](aṇimādinṛkulyottham) [mutual-half-month](anyonyabdārdhataḥ) [always](sadā)
+[aṇimā+and-so-on](aṇimādi) [human+family+arisen](nṛkulyottham) [mutually+water+half+from](anyonyabdārdhataḥ) [always](sadā)
 
 ## mukta-m0-p04-v79
-[rice-flour-born](śālipiṣṭodbhavaṃ) [for-nourishment](puṣṭyai) [sixty-day](ṣāṣṭikaṃ) [nourishment-increasing](puṣṭivardhanam)
+[rice+flour+born](śālipiṣṭodbhavaṃ) [for-nourishment](puṣṭyai) [made-of-ṣāṣṭika-rice](ṣāṣṭikaṃ) [nourishment+increasing](puṣṭivardhanam)
 
 ## mukta-m0-p04-v80
-[enemy-splitting](ripubhedakaraṃ) [mung-born](maudgaṃ) [woman-giving](strīdaṃ) [shyamaka-born](śyāmākasambhavam)
+[enemy+splitting+making](ripubhedakaraṃ) [made-of-mudga](maudgaṃ) [woman+giving](strīdaṃ) [śyāmāka+born](śyāmākasambhavam)
 
 ## mukta-m0-p04-v81
-[pleasure-making](sukhakṛn) [not-butter](nāvanītaṃ) [indeed](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
+[happiness+making-butter](sukhakṛnnāvanītaṃ) [indeed](tu) [cow-dung](gomayaṃ) [disease+destroying](roganāśanam)
 
 ## mukta-m0-p04-v82
-[various-fruit-born](nānāphalodbhavaṃ) [linga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
+[various](nānā) [fruit+born](phalodbhavaṃ) [liṅga](liṅgaṃ) [various+desire+giving](nānākāmapradāyakam)
 
 ## mukta-m0-p04-v83
-[for-uprooting](uccāṭane) [dust-born](pāṃśavyaṃ) [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
+[in-eradication](uccāṭane) [indeed](tu) [made-of-dust](pāṃśavyaṃ) [made-of-earth](maulaṃ) [enemy+destruction+bringing](śatrukṣayāvaham)
 
 ## mukta-m0-p04-v84
-[city-agitating](purakṣobhakaraṃ) [city-born](pauraṃ) [asafoetida](rāmaṭhaṃ) [harshness-making](caugryakārakam)
+[city+agitation+making](purakṣobhakaraṃ) [city-made](pauraṃ) [asafoetida](rāmaṭhaṃ) [and-fierceness+making](caugryakārakam)
 
 ## mukta-m0-p04-v85
-[clay-image-born](mṛdbimbodbhavam) [desired-aim](iṣṭārthaṃ) [from-anointing](lepāt) [would-be](syuḥ) [all-prosperities](sarvasaṃpadaḥ)
+[clay+image+born](mṛdbimbodbhavam) [desired+object](iṣṭārthaṃ) [from-smearing](lepāt) [they-would-be](syuḥ) [all+prosperities](sarvasaṃpadaḥ)
 
 ## mukta-m0-p04-v86
-[for-that-time](tāvatkāla) [indeed](tu) [worshiping](saṃpūya) [releasing](visṛjya) [those](tāni) [who](ke) [would-throw](kṣipet)
+[that-much+time](tāvatkāla) [indeed](tu) [having-worshipped](saṃpūya) [having-dismissed](visṛjya) [them](tāni) [in-water](ke) [one-should-throw](kṣipet)
 
 ## mukta-m0-p04-v87
-[boiling-down](niṣkvāthya) [cloth](paṭam) [anointing](ālepya) [drying](saṃśoṣya) [wiping](pārimārjya) [and](ca)
+[having-boiled](niṣkvāthya) [cloth+having-smeared](paṭamālepya) [having-dried](saṃśoṣya) [having-wiped](pārimārjya) [and](ca)
 
 ## mukta-m0-p04-v88
-[metals-bilva-juices](dhātubilvarasair) [drawing](lekhyaṃ) [threefold](tridhā) [linga](liṅgaṃ) [on-cloth-etc](paṭādike)
+[mineral+bilva+juices+with](dhātubilvarasair) [to-be-drawn](lekhyaṃ) [threefold](tridhā) [liṅga](liṅgaṃ) [on-cloth+and-so-on](paṭādike)
 
 ## mukta-m0-p04-v89
-[strength-revolution-desire](balasaṃvartanīcchāyā) [sight](dṛṣṭi) [state-dependent](bhāvāśritā) [always](sadā)
+[strength+turning-back](balasaṃvartanī) [shadow](cchāyā) [sight](dṛṣṭi) [state+resting-on](bhāvāśritā) [always](sadā)
 
 ## mukta-m0-p04-v90
-[compassionate](karuṇā) [wonderful](adbhuta) [peaceful](śāntāḥ) [and](ca) [nine-emotion-souled](navabhāvātmikāḥ) [sometimes](kvacit)
+[compassion+wonder+peace](karuṇādbhutaśāntāḥ) [and](ca) [nine+state+consisting-of](navabhāvātmikāḥ) [sometimes](kvacit)
 
 ## mukta-m0-p04-v91
-[by-own-will](svecchayā) [worship](pūjayed) [this](etan) [clay-made](mṛnmayāni) [is-said](ucyate) [now](adhunā)
+[by-one's-own-will](svecchayā) [one-should-worship](pūjayed) [this](etan) [clay+made+ones](mṛnmayāny) [is-said](ucyate) [now](adhunā)
 
 ## mukta-m0-p04-v92
-[immediate-mantra](sadyomantreṇa) [and](ca) [unripe](apakvaṃ) [in-order](kramāt) [nine-finger-etc](navakarādikam)
+[with-sadyo+mantra](sadyomantreṇa) [and-unbaked](cāpakvaṃ) [in-order](kramāt) [nine+handful+and-so-on](navakarādikam)
 
 ## mukta-m0-p04-v93
-[by-brahmin-etc-castes](dvijādijātibhiḥ) [clays](mṛdbhiḥ) [unmanifest-etc](avyaktādi) [by-desire](ca) [kāmataḥ]
+[twice-born+and-so-on+classes+with](dvijādijātibhir) [clays+with](mṛdbhir) [unmanifest+and-so-on](avyaktādi) [and](ca) [at-will](kāmataḥ)
 
 ## mukta-m0-p04-v94
-[in-wells-tanks-lakes](vāpīkūpataḍāgeṣu) [from-pond](dīrghikāyāḥ) [should-collect](samāharet)
+[in-wells+ponds](vāpīkūpa) [in-tanks](taḍāgeṣu) [from-long-pond](dīrghikāyāḥ) [one-should-collect](samāharet)
 
 ## mukta-m0-p04-v95
-[for-nourishment](puṣṭyai) [three-metal-womb](trilohagarbhaṃ) [and](ca) [for-treasury-increase](dhanakoṣavivṛddhaye)
+[for-nourishment](puṣṭyai) [three+metal+womb](trilohagarbhaṃ) [and](ca) [wealth+treasury+increase+for](dhanakoṣavivṛddhaye)
 
 ## mukta-m0-p04-v96
-[left-named](vāmākhyena) [pyre](citāṃ) [having-made](kṛtvā) [fierce](ghoreṇa) [having-burned-around](paridāhya) [and](ca)
+[by-vāma+named](vāmākhyena) [pyre](citāṃ) [having-made](kṛtvā) [by-ghora](ghoreṇa) [having-burned](paridāhya) [and](ca)
 
 ## mukta-m0-p04-v97
-[by-ishana](īśānena) [having-taken](gṛhītvā) [indeed](tu) [then](tataḥ) [having-purified](saṃskṛtya) [worship](pūjayet)
+[by-īśāna](īśānena) [having-taken](gṛhītvā) [indeed](tu) [then](tataḥ) [having-consecrated](saṃskṛtya) [one-should-worship](pūjayet)
 
 ## mukta-m0-p04-v98
-[sarja-asafetida-purambola](sarjahiṅgupuraṃbola) [sesame-oil-indeed](matasītailameva) [and](ca)
+[sarja+asafoetida+guggulu+bdellium](sarjahiṅgupuraṃbola) [flax+oil](matasītailam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p04-v99
-[in-clay](mṛdi) [having-thrown](kṣiptvā) [having-established](vyavasthāpya) [month](māsaṃ) [that](tāṃ) [having-rubbed](parimṛdya) [and](ca)
+[in-clay](mṛdi) [having-thrown](kṣiptvā) [having-placed](vyavasthāpya) [for-a-month](māsaṃ) [that](tāṃ) [having-kneaded](parimṛdya) [and](ca)
 
 ## mukta-m0-p04-v100
-[hemp-fiber-having](śaṇatatvanvitaṃ) [having-made](katvā) [clay-made](mṛnmayaṃ) [should-fashion](ghaṭayet) [auspicious](śubham)
+[hemp+fiber+endowed](śaṇatatvanvitaṃ) [having-made](katvā) [clay+made](mṛnmayaṃ) [one-should-fashion](ghaṭayec) [auspicious](chubham)
