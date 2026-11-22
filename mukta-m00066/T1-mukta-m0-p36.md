@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[word-pada](na) [word-pada](kiṃcidapi) [word-pada](jānāmi) [word-pada](nāthabodhayabodhaya)
+[not](na) [anything](kiṃcid) [also](api) [I-know](jānāmi) [lord](nātha) [awaken](bodhaya) [awaken](bodhaya)
 
 ## mukta-m0-p36-v877
-[word-pada](etat) [word-pada](saukhyānidānāya) [word-pada](svastiliṃgāya) [word-pada](śaṃbhave)
+[for-this](etat) [bliss-cause](saukhyani) [dānāya](dānāya) [well-being-sign](svastiliṃgāya) [to-śambhu](śaṃbhave)
 
 ## mukta-m0-p36-v878
-[word-pada](śivārpaṇamidaṃ) [word-pada](bhūyāt) [word-pada](punarastu) [word-pada](śivārpaṇam)
+[to-śiva](śivārpaṇam) [this](idaṃ) [may-be](bhūyāt) [again](punar) [astu](astu) [to-śiva](śivārpaṇam)
 
 ## mukta-m0-p36-v879
-[word-pada](mlānā) [word-pada](padmamṛṇālī) [word-pada](va) [word-pada](mālikevāsya) [word-pada](vakṣasi)
+[withered](mlānā) [lotus-stalk](padmamṛṇālī) [iva](iva) [garland-like](mālikeva) [asya](asya) [chest](vakṣasi)
 
 ## mukta-m0-p36-v880
-[word-pada](līnalīnākṣaraṃ) [word-pada](paścānmaṃdamaṃdākṣaraṃ) [word-pada](punaḥ)
+[absorbed](līnalīnā) [akṣara](akṣaraṃ) [afterwards](paścāt) [slow](maṃdamaṃdā) [akṣara](akṣaraṃ) [again](punaḥ)
 
 ## mukta-m0-p36-v881
-[word-pada](evamādiguṇādūtyāḥ) [word-pada](ṣaḍāhuti) [word-pada](mahotsave)
+[thus-etc](evamādi) [guṇa](guṇa) [messenger](dūtyāḥ) [sixth-offering](ṣaḍāhuti) [great-festival](mahotsave)
 
 ## mukta-m0-p36-v882
-[word-pada](ṣaṣṭhiṣaḍrasasaṃpanna) [word-pada](bahubhojanadāyinī)
+[sixth](ṣaṣṭhi) [six-taste](ṣaḍrasa) [endowed](saṃpanna) [much-food](bahubhojana) [giving](dāyinī)
 
 ## mukta-m0-p36-v883
-[word-pada](ṣaḍaṃgadevatā) [word-pada](rūpā) [word-pada](sarvadākriyatāṃbudhaiḥ)
+[six-limb](ṣaḍaṃga) [deity](devatā) [form](rūpā) [always](sarvadā) [kriyatām](kriyatāṃ) [budhaiḥ](budhaiḥ)
 
 ## mukta-m0-p36-v884
-[word-pada](nāyikāyāśca) [word-pada](vidṛtyā) [word-pada](sukhaśrāṃtiḥ) [word-pada](pravartate)
+[of-heroine](nāyikāyāḥ) [ca](ca) [vidṛtyā](vidṛtyā) [comfort-rest](sukhaśrāṃtiḥ) [proceeds](pravartate)
 
 ## mukta-m0-p36-v885
-[word-pada](śarkarāmṛtasaṃmiśraṃ) [word-pada](śuddhiyūṣasanādhitam)
+[sugar-nectar-mixed](śarkarāmṛtasaṃmiśraṃ) [pure-soup](śuddhiyūṣa) [sanādhitam](sanādhitam)
 
 ## mukta-m0-p36-v886
-[word-pada](svayaṃtadavaśiṣṭaṃ) [word-pada](ca) [word-pada](pibed) [word-pada](bhakti) [word-pada](bharānataḥ)
+[self](svayaṃ) [tad](tad) [remaining](avaśiṣṭaṃ) [ca](ca) [drink](pibet) [devotion](bhakti) [bharānataḥ](bharānataḥ)
 
 ## mukta-m0-p36-v887
-[word-pada](maṃtraṃ) [word-pada](cānaṃdadevasya) [word-pada](śataśovāsahasraśaḥ)
+[mantra](maṃtraṃ) [ca](ca) [ānandadevasya](ānandadevasya) [hundred](śataśaḥ) [or](vā) [thousand](sahasraśaḥ)
 
 ## mukta-m0-p36-v888
-[word-pada](ayuktayaṃtraḥ) [word-pada](prajaped) [word-pada](devatāśāpamāpnuyāt)
+[unfit-instrument](ayuktayaṃtraḥ) [japet](prajaped) [deity-curse](devatāśāpam) [obtain](āpnuyāt)
 
 ## mukta-m0-p36-v889
-[word-pada](evaṃ) [word-pada](japte) [word-pada](parānaṃdarūpi) [word-pada](liṃgamaheśvaraḥ)
+[thus](evaṃ) [japte](japte) [supreme-bliss-form](parānaṃdarūpi) [liṅga](liṃga) [maheśvaraḥ](maheśvaraḥ)
 
 ## mukta-m0-p36-v890
-[word-pada](yāvajjapati) [word-pada](vīroyaṃ) [word-pada](dūtiviśrāṃti) [word-pada](hetave)
+[as-long-as](yāvat) [japati](japati) [hero](vīraḥ) [ayaṃ](ayaṃ) [messenger-rest](dūtiviśrāṃti) [hetave](hetave)
 
 ## mukta-m0-p36-v891
-[word-pada](iththaṃ) [word-pada](krameṇa) [word-pada](viśrāṃtiṃ) [word-pada](gatāyāṃ) [word-pada](dūtikātanau)
+[thus](iththaṃ) [by-steps](krameṇa) [rest](viśrāṃtiṃ) [gone](gatāyāṃ) [messenger-body](dūtikātanau)
 
 ## mukta-m0-p36-v892
-[word-pada](caṃdrarekhārthāṃ) [word-pada](gulinā) [word-pada](pronnatā) [word-pada](caṃdracaṃdrikā)
+[moon-ray](caṃdrarekhā) [arthaṃ](arthāṃ) [gulinā](gulinā) [raised](pronnatā) [moon-moonlight](caṃdracaṃdrikā)
 
 ## mukta-m0-p36-v893
-[word-pada](atasī) [word-pada](puṣpasaṃkāśā) [word-pada](trikoṇākāratāṃ) [word-pada](gatā)
+[atasī](atasī) [flower-like](puṣpasaṃkāśā) [triangle-form](trikoṇākāratāṃ) [gone](gatā)
 
 ## mukta-m0-p36-v894
-[word-pada](ciradravāpi) [word-pada](nāthaika) [word-pada](kluptairaṃguṣṭha) [word-pada](cuṃbanaiḥ)
+[long-flowing](ciradravā) [api](api) [lord](nātha) [eka](eka) [arranged](kluptaiḥ) [thumb](aṃguṣṭha) [kisses](cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-[word-pada](nābhaucapeṭa) [word-pada](patanairnitaṃbe) [word-pada](hastamardanaiḥ)
+[navel](nābhau) [slap](capeṭa) [falling](patanaiḥ) [buttocks](nitaṃbe) [hand-massage](hastamardanaiḥ)
 
 ## mukta-m0-p36-v896
-[word-pada](nijaṃrasaṃ) [word-pada](sravaṃtyeva) [word-pada](nāyikācaṃdracaṃdrikā)
+[own](nijaṃ) [rasa](rasaṃ) [flowing](sravaṃtyeva) [heroine](nāyikā) [moon-moonlight](caṃdracaṃdrikā)
 
 ## mukta-m0-p36-v897
-[word-pada](paiṣṭimadyasamāmodaṃ) [word-pada](bāṇapuṣpolbaṇadyuti)
+[paishṭi-wine](paiṣṭimadya) [equal-fragrance](samāmodaṃ) [arrow-flower](bāṇapuṣpa) [ulbaṇa](ulbaṇa) [radiance](dyuti)
 
 ## mukta-m0-p36-v898
-[word-pada](prāptisiddhiprajananaṃ) [word-pada](sarvaiśvaryākhyavāṅmayam)
+[attainment](prāpti) [siddhi](siddhi) [procreation](prajananaṃ) [all-powers](sarvaiśvarya) [named](ākhya) [speech](vāṅmayam)
 
 ## mukta-m0-p36-v899
-[word-pada](samastavyādhiśamanaṃ) [word-pada](laghuśītalanirmalam)
+[all-disease](samastavyādhi) [pacification](śamanaṃ) [light](laghu) [cool](śītala) [pure](nirmalam)
 
 ## mukta-m0-p36-v900
-[word-pada](tadājapeditaṃ) [word-pada](maṃtraṃ) [word-pada](ca) [word-pada](palāṃbādhidaivatam)
+[then](tadā) [japed](japet) [itaṃ](itaṃ) [mantraṃ](maṃtraṃ) [ca](ca) [palāṃbā](palāṃbā) [adhidevatam](adhidevatam)
