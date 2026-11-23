@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[having-saluted](namaskṛtya) [great-goddess](maheśānīṃ) [great](mahā) [tripura](tripura) [beauty](suṃdarīm)
+having-saluted great-goddess great-tripura-beauty
 
 ## mukta-m0-p15-v352
-[circumambulation](pradakṣiṇa) [salutations](namaskārān) [having-done](kṛtvā) [devotion-submissive](bhaktiparānataḥ)
+circumambulation salutations having-done devotion-bowed
 
 ## mukta-m0-p15-v353
-[by-mantra](maṃtreṇānena) [that-foot](tatpāde) [scattering](vikṣipan) [staff-like](daṃḍavannamet)
+by-mantra this at-foot casting staff-like-bow
 
 ## mukta-m0-p15-v354
-[delight](ānaṃdayā) [sacrifice](yaga) [now](madhunā) [i-do](karomyanugṛhāṇamām)
+delight-sacrifice now I-do bless-me
 
 ## mukta-m0-p15-v355
-[own-teacher](svaguruṃ) [teacher's-wife](gurupatnīṃ) [ca](ca) [twelve](dviṣaṭkiṃte) [thrice](triśo) [worship](arcayet)
+own-teacher teacher's-wife and six? thrice worship
 
 ## mukta-m0-p15-v356
-[kulākulāṣṭaka-etc](kulākulāṣṭakādīni) [inviting](nimaṃtryāhūyaśobhitām)
+kula-akula-eight etc invite-summon adorned
 
 ## mukta-m0-p15-v357
-[having-worshipped](abhyarcya) [all](sarvamapyaṃgamavamṛjyavicakṣaṇaḥ)
+worship all-limb wipe expert
 
 ## mukta-m0-p15-v358
-[or](athavā) [picture](citramathavā) [or](athavā) [leaf-garment](patrorṇaṃ) [beautiful](sumanoharam)
+or picture or leaf-wool charming
 
 ## mukta-m0-p15-v359
-[girdle](kāṃcīlatā) [scale-peak](tulākoṭi) [necklace-single-strand](hāraikāvali) [or-with-ornaments](vālibhiḥ)
+girdle-vine scale-crore necklace-single-row ornaments
 
 ## mukta-m0-p15-v360
-[with-other](anyaiścā) [ornaments](bharaṇaistāṃtu) [having-adorned](bhūṣayitvā) [expert](vicakṣaṇaḥ)
+other ornaments her adorn expert
 
 ## mukta-m0-p15-v361
-[not-detached](na viraktā) [not-extremely](navātyaṃta) [attached](raktā) [not-quarrel-loving](na kalaha priyā)
+not detached not extremely attached not quarrel loving
 
 ## mukta-m0-p15-v362
-[not-other-attached](nānyaraktā) [not-over-nourished](nātipuṣṭā) [not-too-short](nātikharvā) [not-emaciated](navākṛśā)
+not other-attached not too-nourished not too-short not too-thin
 
 ## mukta-m0-p15-v363
-[not-rough-limbed](narūkṣāṃgī) [not-crooked-eyed](na jihmākṣī) [not-harsh](na ca karkaśa) [ribbed](kīkasā)
+not rough-limbed not crooked-eyed not harsh ribbed
 
 ## mukta-m0-p15-v364
-[not-bawd](na kuṭṭanī) [conduct](samācārā) [not-mockery-devoted](nopahāsaparāyaṇā)
+not bawd conduct not ridicule-devoted
 
 ## mukta-m0-p15-v365
-[not-bad-smelling](na durgaṃdhā) [not-ill-natured](na duḥśīlā) [not-evil-speaking](na ca duṣparivādinī)
+not bad-smelling not bad-character not evil-speaking
 
 ## mukta-m0-p15-v366
-[not-long-disease-afflicted](na dīrgharogagrastāṃgī) [fit](yogyā) [becomes](bhavati) [messenger](dūtikā)
+not long-disease-afflicted-limbed fit becomes messenger
 
 ## mukta-m0-p15-v367
-[bodily-and-life](śārīramathajīvasya) [two-purifications](saṃskāradvitayaṃ) [certain](dhruve)
+bodily and life's purification twofold certain
 
 ## mukta-m0-p15-v368
-[anointing](abhyaṃgodvartane) [ca](ca) [eva](eva) [bathing](snānamālepanaṃ) [then](tataḥ)
+anointing massage and bathing anointing then
 
 ## mukta-m0-p15-v369
-[soft-cloth-wearing](mradīyavastradharaṇaṃ) [yava-time](yavakālaṃ) [act](kṛtiḥ) [cloth](paṭe)
+soft-cloth wearing barley-time act cloth
 
 ## mukta-m0-p15-v370
-[hairiness](ālomaśaṃtvaṃ) [purity](svacchatvaṃ) [smoothness](ślakṣṇatvaṃ) [ca](ca) [fragrance](sugaṃdhitā)
+hairiness purity smoothness and fragrance
 
 ## mukta-m0-p15-v371
-[softness](sukomalatvaṃ) [purity](śuddhatvaṃ) [pleasant-touch](susparśatvaṃ) [ca](ca) [parvati](pārvati)
+softness purity touchability and Parvati
 
 ## mukta-m0-p15-v372
-[natural-softness](svabhāva sukumāratvaṃ) [natural-fragrance](svabhāvena sugaṃdhitā)
+nature tenderness nature fragrance
 
 ## mukta-m0-p15-v373
-[excessive-laxity-absence](ativaiśālya rāhityamatisaṃkoca hīnatā)
+excessive-largeness absence excessive-contraction deficiency
 
 ## mukta-m0-p15-v374
-[eight-enjoyments-suitability](aṣṭabhogopadheyatvaṃ) [enjoyment-impulse-endurance](bhogavegasahiṣṇutā)
+eight-enjoyment-suitability enjoyment-impulse-endurance
 
 ## mukta-m0-p15-v375
-[extreme-itching-absence](atyaṃtacaṇḍakaṇḍūyā rahitatvaṃ) [ca](ca) [parvati](pārvati)
+extreme-fierce-itching absence and Parvati
