@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-having-reached there strength-place in-shining-jewels houses
+[having-obtained](prāpya) [there](tatra) [strength-place](balasthānaṃ) [in-shining-gems](dīptaratneṣu) [in-houses](veśmasu)
 
 ## mukta-m0-p43-v1052
-therefore-this great-sacrifice difficult even-for-winds
+[from-that](tasmād) [this](idaṃ) [great-sacrifice](mahāyāgaṃ) [difficult](durllabhaṃ) [of-winds](marutām) [even](api)
 
 ## mukta-m0-p43-v1053
-from-doing-otherwise goddess downfall arises
+[otherwise-doing](anyathākaraṇād) [goddess](devī) [fall](vinipātaḥ) [arises](prajāyate)
 
 ## mukta-m0-p43-v1054
-in-this-authoritative beautiful-hipped path-living trusting
+[in-authoritative](prāmāṇike) [this](asmin) [beautiful-hipped](suśroṇi) [on-path](mārge) [living](jīvati) [trusting](viśvasan)
 
 ## mukta-m0-p43-v1055
-in-mantra in-mantra indeed to-be-done medicine deity guru
+[in-mantra](maṃtre) [in-mantra](maṃtre) [but](tu) [to-be-done](karttavye) [in-medicine](bheṣaje) [in-deity](daivate) [in-guru](gurau)
 
 ## mukta-m0-p43-v1056
-old
+[growth](vṛdhā)
 
 ## mukta-m0-p43-v1057
-see faith-greatness stone-wood-clay-etc
+[see](paśya) [trust-greatness](viśvāsamāhātmyaṃ) [stone-wood-clay-etc](śilādārumṛdādikam)
 
 ## mukta-m0-p43-v1058
-inanimate dull-substance by-whom success gives
+[non-conscious](acetanaṃ) [inert-substance](jaḍadravyaṃ) [by-whom](kena) [success](siddhiṃ) [gives](prayacchati)
 
 ## mukta-m0-p43-v1059
-action-faith tradition both these activators
+[action-faith](karmaśraddhā) [tradition](saṃpradāyā) [both-these](vubhāvetau) [activators](pravarttakau)
 
 ## mukta-m0-p43-v1060
-always-impure fools chandala-etc and castes
+[always-impure](sadāmalīmasā) [fools](mūrkhāḥ) [caṇḍāla-etc](caṃḍālādyāḥ) [and](ca) [castes](jātayaḥ)
 
 ## mukta-m0-p43-v1061
-no-conduct nor cleanliness nor learning nor intellect-qualities
+[no-conduct](nācāro) [not](na) [and](ca) [or](vā) [purity](śaucaṃ) [not](na) [learning](vaiduṣyaṃ) [not](na) [intellect-qualities](dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-faith name mind's firmness mantra-accomplishment
+[trust](viśvāso) [named](nāma) [of-mind](manaso) [firmness](dṛḍhatā) [in-mantra-accomplishment](maṃtrasādhane)
 
 ## mukta-m0-p43-v1063
-thus faith-attained fruit-desiring fruit-form
+[thus](evaṃ) [trust-obtained](viśvāsamāpannaḥ) [fruit-desiring](phalārthi) [fruit-form](phalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-brahmin-kshatriya vaishya authority-here rule
+[brāhmaṇa-kṣatriya](brāhmaṇakṣatriya) [vaiśya](viśā) [authority](adhikāraḥ) [here](atra) [rule](śāsanam)
 
 ## mukta-m0-p43-v1065
-hero-service their desired-fruit-accomplishments
+[hero-service](vīraśuśrūṣaṇaṃ) [their](teṣām) [desired-fruit-accomplishments](abhiṣṭaphalasiddhayaḥ)
 
 ## mukta-m0-p43-v1066
-vaishya's merchandise-profit-half shudra-etc never
+[of-vaiśya](vaiśyasya) [merchandise-profit-half](paṇyalābhārdhaṃ) [of-śūdra](sudrāder) [never](nakadācana)
 
 ## mukta-m0-p43-v1067
-one-only-caste woman thus acceptable characteristic-occurrence
+[one-only-caste](ekaivajātir) [woman](nārī) [thus](iti) [to-be-taken](grāhyā) [when-marks-occur](lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-worship-means these indeed by-me-created deer-eyed
+[worship-means](pūjāsādhanam) [these](etāḥ) [indeed](hi) [by-me-created](mayāsṛṣṭā) [deer-eyed](mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
-cows indeed back-pure pure-mouthed speakers
+[cows](gāvaḥ) [but](tu) [back-pure](pṛṣṭhatomedhyā) [pure-mouthed](medhyāvaktreṇa) [speakers](vādinaḥ)
 
 ## mukta-m0-p43-v1070
-woman's-face indeed always pure no-leftover there exists
+[woman-mouth](strīmukhaṃ) [but](tu) [always](sadā) [purity](śuddhiḥ) [no-leftover](nocciṣṭaṃ) [there](tatra) [exists](vidyate)
 
 ## mukta-m0-p43-v1071
-without-them no sacrifice exists no austerity exists nor vow
+[without-them](tābhirvinā) [not](na) [sacrifice](yajñaḥ) [is](asti) [not](na) [austerity](tapo) [is](asti) [not](na) [or](vā) [vow](vratam)
 
 ## mukta-m0-p43-v1072
-eight-offerings great-sacrifice principal messengers remembered
+[eight-oblations](aṣṭāhutiḥ) [in-great-sacrifice](mahāyāge) [chief](pradhānaṃ) [messengers](dūtikāḥ) [remembered](smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-brought-joined this therefore messenger proclaimed
+[brought](ānīya) [unites](ghaṭiyati) [this](eṣā) [therefore](tasmād) [messenger](dūti) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p43-v1074
-messenger by-wise said anxiety distress-preventing
+[messenger](dūtī) [by-that](tena) [by-wise](budhaiḥ) [said](proktā) [anxiety](ciṃtā) [grief-removing](saṃtāparodhinī)
 
 ## mukta-m0-p43-v1075
-enjoyer-enjoyment-lakshmi and her synonyms hymns
+[enjoyer](bhoginī) [enjoyment-fortune](bhogalakṣmīḥ) [and](ca) [her](tasyāḥ) [synonyms](paryāya) [good-sayings](sūktayaḥ)
