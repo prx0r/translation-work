@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-should-be-done by-that-division image with-excellent considered
+[should-be-done](kartavyā) [by-that-division](taddvibhāgena) [image](pratimā) [with-excellent](sottamā) [considered](matā)
+
 ## mukta-m0-p29-v702
-nine-end in-three-triangle-ends youngest-etc proclaimed
+[up-to-nine](navāntaṃ) [in-three-triangles](tritrikānteṣu) [youngest-etc](kanyasādyāḥ) [declared](prakīrtitāḥ)
+
 ## mukta-m0-p29-v703
-pedestal door-expansion Maya-made in-own-opinion
+[pedestal](pīṭha) [door-expansion](dvārapravistāraṃ) [maya](mayaḥ) [made](cakre) [in-own-opinion](svake+mate)
+
 ## mukta-m0-p29-v704
-tithi-seat-like-half-minus-middle-excellent threefold
+[by-tithi-seat-half](tithimāsanavatyardhaiḥ) [lacking-middle-excellent](hīnamadhyottamāḥ) [threefold](tridhā)
+
 ## mukta-m0-p29-v705
-lame-forms-and pumpkin sevenfold-images-and should-make
+[lame-forms](paṅgurūpāḥ) [and](ca) [kūṣmāṇḍas](kūṣmāṇḍāḥ) [sevenfold-images](saptadhārcāḥ) [ca](ca) [should-be-made](vartayet)
+
 ## mukta-m0-p29-v706
-dividing by-power-thread from-stars-etc on-auspicious-day
+[dividing](vibhajya) [by-śakti-thread](śaktisūtreṇa) [from-stars-etc](ṛkṣādibhyaḥ) [on-auspicious-day](śubhe+dine)
+
 ## mukta-m0-p29-v707
-pedestal-soul-refuge-life-parts-and radiance-etc-and should-arrange
+[pedestal-self-refuge-life-parts](pīṭhātmāśrayajīvāṃś) [ca](ca) [radiance-etc](prabhādīṃś) [ca](ca) [should-arrange](prakalpayet)
+
 ## mukta-m0-p29-v708
-having-made lower-part pedestal in-third-part life-arrangement
+[having-made-below-part](kṛtvādhoṃśagataḥ) [pedestal](pīṭhaṃ) [in-third-part](tribhāge) [life-arrangement](jīvakalpanā)
+
 ## mukta-m0-p29-v709
-with-soul-refuge with-messenger and image should-make-then
+[with-self-refuge](sātmāśrayāṃ) [with-messenger](sadūtīṃ) [ca](ca) [image](pratimāṃ) [should-make-then](vartayettataḥ)
+
 ## mukta-m0-p29-v710
-one-part-angula having-made great-image should-make-wise
+[making-one-part-angula](bhāgaikamaṅgula) [kṛtvā](kṛtvā) [great-image](mahārcāṃ) [should-make](vatayed) [wise](budhaḥ)
+
 ## mukta-m0-p29-v711
-one part-angula of-her thief-limb should-arrange
+[one-part](eka+bhāge) [angula](aṅgulaṃ) [of-it](tasyā) [limb](aṅgaṃ) [should-arrange](parikalpayet)
+
 ## mukta-m0-p29-v712
-by-Maya thread even placing straight-image should-make-auspicious
+[maya](maye) [thread](sūtraṃ) [even](samaṃ) [placing](nyasya) [straight-image](ṛjvarcāṃ) [should-make-auspicious](kārayecchubhām)
+
 ## mukta-m0-p29-v713
-of-life length-measure by-part-limbs-now I-speak
+[of-life](jīvasya) [by-length-measure](āddairghyamānena) [limbs-now](pratyaṅgānyadhunā) [I-will-speak](vruve)
+
 ## mukta-m0-p29-v714
-by-measures tithi-numbers by-crown wrapping should-be
+[by-measures](mātrābhiḥ) [by-tithi-number](tithisaṃkhyābhiḥ) [crown](mukuṭa) [wrapping](veṣṭanaṃ) [becomes](bhavet)
+
 ## mukta-m0-p29-v715
-tala-measure should-be crooked neck and four-angula
+[tāla-measure](tālamānaṃ) [becomes-curved](bhavedvakraṃ) [neck](grīvā) [ca](ca) [four-angulas](caturaṅgulā)
+
 ## mukta-m0-p29-v716
-tala-one-one-measure should-be thighs tala-exit
+[tāla-one-one-measure](tālaikaikapramāṇaṃ) [syāt](syāt) [thighs](ūrū) [tāla-exit](tālavinirgamau)
+
 ## mukta-m0-p29-v717
-known ankles two-eyes and heels-two-angula in-opinion
+[should-be-known](jñeyau) [ankles](gulphau) [two-eyes](dvinetrau) [ca](ca) [heels-two-angulas](pārṣṇīdvyaṅgulake) [in-opinion](mate)
+
 ## mukta-m0-p29-v718
-in-middle two-kala-height front-half-half measure
+[in-middle](madhye) [two-kalā-height](kalādvayocchrāyo) [front-half-half](vagresārdhārdha) [measure](mātrakau)
+
 ## mukta-m0-p29-v719
-five-angula by-wrapping with-half-angula-two-joints
+[five-angulas](pañcāṅgulau) [by-wrapping](veṣṭanena) [with-half-angula-two-joints](sārdhāṅgaladviparvaṇī)
+
 ## mukta-m0-p29-v720
-three-angula by-circumference are-spoken now-others
+[three-angulas](tryaṅgulā) [circumference](pariṇāhena) [are-spoken](kathyante) [tv](tv) [now-others](adhunāparāḥ)
+
 ## mukta-m0-p29-v721
-foot-toes three-jointed joint-half-nail-adorned
+[toe-fingers](pādāṅgulyaḥ) [three-jointed](triparvāṇaḥ) [half-joint-nail-beautified](parvārdhanakhaśobhitāḥ)
+
 ## mukta-m0-p29-v722
-hand-foot sole red nails with-raised-red
+[nail-foot](kārāṅghri) [sole](talakaṃ) [red](raktaṃ) [nails](nakhāḥ) [with-raised-red](savonnatāruṇāḥ)
+
 ## mukta-m0-p29-v723
-forearms ten-eight-parts sixteen-angula arms
+[upper-arms](upabāhū) [ten-eight-parts](daśāṣṭāṃśau) [sixteen-angulas](ṣoḍaśāṅgulakau) [arms](bhujau)
+
 ## mukta-m0-p29-v724
-element-angula should-be middle half-less ring-finger
+[five-angulas](bhūtāṅgulā) [becomes-middle](bhavenmadhyā) [half-less](ardhahīnā) [ring-finger](tvanāmikā)
+
 ## mukta-m0-p29-v725
-middle-etc three-jointed two-jointed-thumb considered
+[middle-etc](madhyamādyāḥ) [three-jointed](triparvāṇo) [two-jointed-thumb](dviparvāṅguṣṭhako) [considered](mataḥ)
