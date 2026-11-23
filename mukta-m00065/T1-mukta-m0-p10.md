@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[from-renunciation-perishes](prāvrājyānnaśyate) [first](pūrvaṃ) [from-woman-yoga-after](strīyogādaparaṃ) [thus](tathā)
+by-renunciation-perishes [variant: is-corrupted] first; by-woman-union-afterwards likewise.
 
 ## mukta-m0-p10-v227
-[three-ear-born](trikarṇotthāḥ) [three-ears](trikarṇāḥ) [ca](ca) [three-skulls-self](trikapānātma) [ear-born](karṇakā)
+three-ear-born three-ears-and; three-skull-soul [variant: three-ear-but three] ear-born.
 
 ## mukta-m0-p10-v228
-[ash-sprout](bhasmāṅkuraḥ) [tu](tu) [boaster-lip-born](katthosthastatsutāḥ) [kauśika-etc](kauśikādayaḥ)
+ash-sprout-but [variant: teacher-but] boast-bone his-sons kushika-etc.
 
 ## mukta-m0-p10-v229
-[kingdom-destruction-makers](rāṣṭrakṣayakarāḥ) [indeed](hi) [these](ete) [who](ye) [ca](ca) [heretics](paṣāṇḍinaḥ) [men](narāḥ)
+kingdom-destruction-makers indeed-these and who heretics men.
 
 ## mukta-m0-p10-v230
-[by-scripture-inspection](śāstrāvalokanāt) [eva](eva) [caṇḍeśa](caṇḍeśaḥ) [his](tasya) [ruler](śāsakaḥ)
+by-scripture-inspection alone chandesa his ruler.
 
 ## mukta-m0-p10-v231
-[he](sa) [goes](yāti) [to-hell](narakaṃ) [immediately](sadyaḥ) [with-sacrificers](yājñikaiḥ) [saha](saha) [with-teachers](daiśikaḥ)
+he goes hell immediately with sacrificers teacher.
 
 ## mukta-m0-p10-v232
-[by-their-conduct](teṣāmācaraṇāt) [always](nityam) [teacher](ācārya) [iti](iti) [is-called](kīrtyate)
+by-their-conduct always teacher thus is-called.
 
 ## mukta-m0-p10-v233
-[therefore](tasmāt) [not](na) [human](mānavīṃ) [intellect](buddhiṃ) [should-make](kārayet) [towards-teacher](daiśikaṃ) [prati](prati)
+therefore not human intellect make toward teacher.
 
 ## mukta-m0-p10-v234
-[five-faces](pañcavaktrāṇi) [of-god](devasya) [for-five-āgamas-growth](pañcāgamavivṛddhaye)
+five-faces of-god for-five-agamas-increase.
 
 ## mukta-m0-p10-v235
-[blazing](dīptaṃ) [subtle](sūkṣmaṃ) [ca](ca) [thousand-rayed](sāhasramaṃśuma) [suprabha](tsuprabhaṃ) [ten](daśa)
+blazing subtle and thousand-rayed [variant: rayless] very-bright ten.
 
 ## mukta-m0-p10-v236
-[victory](vijayaṃ) [supreme-lordship](pāramaiśvaryaṃ) [exhalation-chant-named](niśvāsodgītasaṃjñakam)
+victory supreme-lordship breath-song-named.
 
 ## mukta-m0-p10-v237
-[narasiṃha](narasiṃhaṃ) [moon-laugh](candrahāsaṃ) [hero](vīraṃ) [svāyambhu](svāyambhu) [aurava](ravaṃ)
+narasimha moon-smile hero svayambhu raurava [variant: rochana].
 
 ## mukta-m0-p10-v238
-[rudra-divisions](rudrabhedāḥ) [are-declared](samākhyātāḥ) [ten-eighteen-or-upward](daśāṣṭādaśa) [ca](ca) [upward-going](ūrdhvagāḥ)
+[variant-note] rudra-divisions are-named ten-eighteen or upward-going.
 
 ## mukta-m0-p10-v239
-[five-elements](pañcabhūta) [division](vibhāgaṃ) [ca](ca) [void-division](śūnyabheda) [determination](vinirṇayam)
+five-elements [variant: five-nectars] division and void-division [variant: -madness] determination.
 
 ## mukta-m0-p10-v240
-[kamboja](kambojaṃ) [kambala](kambalaṃ) [kaṅka](kaṅkaṃ) [kālakuṇḍa](kālakuṇḍaṃ) [kaṭāhaka](kaṭāhakam)
+kamboja blanket heron black-pot cauldron.
 
 ## mukta-m0-p10-v241
-[of-gāruḍa](gāruḍasya) [tu](tu) [these](ime) [divisions](bhedāḥ) [twenty-eight](aṣṭāviṃśatiḥ) [are-said](īritāḥ)
+of-garuda indeed these divisions twenty-eight are-said.
 
 ## mukta-m0-p10-v242
-[asitāṅga](asitāṅgaṃ) [ruru](ruruṃ) [ca](ca) [eva](eva) [kapālīśa](kapālīśaṃ) [collection](samuccayam)
+black-limbed ruru and indeed kapalisha collection.
 
 ## mukta-m0-p10-v243
-[bhīmāṅga](bhīmāṅgaṃ) [ḍāmarārāva](ḍāmarārāvaṃ) [bhīma](bhīmaṃ) [vetāla-crusher](vetālamardakam)
+terrible-limbed damara-roar [variant: -color] terrible vetala-crusher.
 
 ## mukta-m0-p10-v244
-[three-headed](triśiraṃ) [ca](ca) [one-footed](ekapādaṃ) [tu](tu) [siddhayogeśvarī-opinion](siddhayogeśvarīmatam)
+three-headed and one-footed indeed siddha-yogeshvari-opinion.
 
 ## mukta-m0-p10-v245
-[all-pervading-throat](viśvarikaṇṭha) [contraction](saṅkocaṃ) [tilaka-garden-bhairava](tilakodyānabhairavam)
+universal-throat contraction [variant: vikantha; jhankara] tilaka-garden-bhairava.
 
 ## mukta-m0-p10-v246
-[sixty-four-measure](catuḥṣaṣṭipramāṇāni) [from-south-face-born](dakṣiṇāsyādbhavāni) [ca](ca)
+sixty-four measures from-southern-face born and.
 
 ## mukta-m0-p10-v247
-[hand-worship-rite](karapūjāvidhānaṃ) [tu](tu) [vīṇā-tantra](vīṇātantraṃ) [that-after](taduttaram)
+hand-worship-rite indeed vina-tantra that-after.
 
 ## mukta-m0-p10-v248
-[siddha-eternal-rise](siddhanityodayaṃ) [jyeṣṭha](jyeṣṭhaṃ) [cintāmaṇi-great-rise](cintāmaṇimahodayam)
+siddha-eternal-rise eldest chintamani-great-rise.
 
 ## mukta-m0-p10-v249
-[ānanda-rudra-bhadra-named](ānandarudrabhadrākhyaṃ) [kiṅkara](kiṅkaraṃ) [kiṅkara-follower](kiṅkarānugam)
+ananda-rudra-bhadra-named [variant: bhadra-eye] servant servant-follower.
 
 ## mukta-m0-p10-v250
-[vāmada](vāmadaṃ) [vāmadeva-spoken](vāmadevoktaṃ) [twenty-four-divisions-born](caturviṃśatibhedagam)
+left-giving vamadeva-spoken [variant: deva-born] twenty-four-division-going [variant: division-born].
