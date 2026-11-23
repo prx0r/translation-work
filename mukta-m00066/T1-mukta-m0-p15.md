@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p15-v351
-[obeisance](namas)+[having-made](kṛtya) [to-great+goddess](maheśānīṃ) [to-great](mahā)+[three-city](tripura)+[beautiful-one](suṃdarīm)
+[having-saluted](namaskṛtya) [great-goddess](maheśānīṃ) [great-tripura-beauty](mahātripurasuṃdarīm)
 
 ## mukta-m0-p15-v352
-[circumambulations](pradakṣiṇa) [obeisances](namaskārān) [having-made](kṛtvā) [with-devotion+fully-bowed](bhaktiparānataḥ)
+[circumambulation](pradakṣiṇa) [salutations](namaskārān) [having-done](kṛtvā) [devotion-bowed](bhaktiparānataḥ)
 
 ## mukta-m0-p15-v353
-[with-mantra](maṃtreṇa)+[this](anena) [at-her+feet](tatpāde) [casting-oneself](vikṣipan) [like-a-stick](daṃḍavat)+[should-bow](namet)
+[with-mantra](maṃtreṇānena) [at-feet](tatpāde) [casting](vikṣipan) [prostrate-salute](daṃḍavannamet)
 
 ## mukta-m0-p15-v354
-[bliss+rite](ānaṃdayāgam)+[now](adhunā) [I-perform](karomi) [favor](anugṛhāṇa) [me](mām)
+[delight](ānaṃdayā) [sacrifice](yaga) [now](madhunā) [i-do](karomyanugṛhāṇamām)
 
 ## mukta-m0-p15-v355
-[own+guru](svaguruṃ) [guru+wife](gurupatnīṃ) [and](ca) [to-twelve-beloved](dviṣaṭkiṃte) [thrice](triśo)+[should-worship](arcayet)
+[own-guru](svaguruṃ) [guru-wife](gurupatnīṃ) [ca](ca) [twice-six-times](dviṣaṭkiṃte) [thrice](triśo) [worship](arcayet)
 
 ## mukta-m0-p15-v356
-[kula+akula+octad+etc.](kulākulāṣṭakādīni) [having-invited](nimaṃtrya) [having-summoned](āhūya) [adorned-one](śobhitām)
+[kula-akula-eight-etc](kulākulāṣṭakādīni) [having-invited](nimaṃtryāhūyaśobhitām)
 
 ## mukta-m0-p15-v357
-[having-worshipped](abhyarcya) [all](sarvam)+[also](api)+[limb](aṃgam) [having-wiped](avamṛjya) [skilled-one](vicakṣaṇaḥ)
+[having-worshipped](abhyarcya) [all-limbs](sarvamapyaṃgam) [having-wiped](avamṛjyavicakṣaṇaḥ)
 
 ## mukta-m0-p15-v358
-[or](athavā) [picture](citram)+[or](athavā) [silk-garment](pattrorṇaṃ) [very+charming](sumanoharam)
+[or](athavā) [picture](citram) [or](athavā) [leaf-cloth](patrorṇaṃ) [beautiful](sumanoharam)
 
 ## mukta-m0-p15-v359
-[girdle+creeper](kāṃcīlatā) [balance+tip](tulākoṭi) [necklace+single-string](hāraikāvali) [with-earrings](vālibhiḥ)
+[girdle-vine](kāṃcīlatā) [tula-koti](tulākoṭi) [necklace-single-strand](hāraikāvali) [with-tails](vālibhiḥ)
 
 ## mukta-m0-p15-v360
-[with-other](anyaiś)+[and](cā) [with-ornaments](bharaṇais)+[her](tāṃ)+[indeed](tu) [having-adorned](bhūṣayitvā) [skilled-one](vicakṣaṇaḥ)
+[with-other-ornaments](anyaiścā) [her](tāṃtu) [having-adorned](bhūṣayitvā) [expert](vicakṣaṇaḥ)
 
 ## mukta-m0-p15-v361
-[not](na) [dispassionate](viraktā) [not](na)+[very](vātyaṃta)+[passionate](raktā) [not](na) [quarrel](kalaha)+[fond](priyā)
+[not-detached](na viraktā) [not-excessively-attached](navātyaṃta raktā) [not-quarrel-loving](na kalaha priyā)
 
 ## mukta-m0-p15-v362
-[not](nā)+[other+attached](nyaraktā) [not](nā)+[too+stout](tipuṣṭā) [not](nā)+[too+short](tikharvā) [not](na)+[too+thin](vākṛśā)
+[not-other-attached](nānyaraktā) [not-over-nourished](nātipuṣṭā) [not-too-short](nātikharvā) [not-emaciated](navākṛśā)
 
 ## mukta-m0-p15-v363
-[not](na)+[rough+limbed](rūkṣāṃgī) [not](na) [crooked+eyed](jihmākṣī) [not](na) [and](ca) [harsh](karkaśa)+[bodied](kīkasā)
+[not-rough-limbed](narūkṣāṃgī) [not-crooked-eyed](na jihmākṣī) [not-harsh-boned](na ca karkaśa kīkasā)
 
 ## mukta-m0-p15-v364
-[not](na) [procuress](kuṭṭanī) [conduct](samācārā) [not](no)+[mockery+devoted](pahāsaparāyaṇā)
+[not-bawd](na kuṭṭanī) [conduct](samācārā) [not-mockery-inclined](nopahāsaparāyaṇā)
 
 ## mukta-m0-p15-v365
-[not](na) [bad+smelling](durgaṃdhā) [not](na) [bad+natured](duḥśīlā) [not](na) [and](ca) [bad+speaking](duṣparivādinī)
+[not-bad-smelling](na durgaṃdhā) [not-ill-natured](na duḥśīlā) [not-harsh-speaking](na ca duṣparivādinī)
 
 ## mukta-m0-p15-v366
-[not](na) [long+disease+afflicted+limbed](dīrgharogagrastāṃgī) [fit](yogyā) [becomes](bhavati) [messenger-woman](dūtikā)
+[not-long-disease-afflicted](na dīrgharogagrastāṃgī) [fit](yogyā) [becomes](bhavati) [messenger](dūtikā)
 
 ## mukta-m0-p15-v367
-[bodily](śārīram)+[then](atha)+[of-soul](jīvasya) [purification](saṃskāra)+[pair](dvitayaṃ) [O-firm-one](dhruve)
+[bodily-and-life](śārīramathajīvasya) [two-purifications](saṃskāradvitayaṃ) [certain](dhruve)
 
 ## mukta-m0-p15-v368
-[oil-massage](abhyaṃgo)+[unguent-rubbing](dvartane) [and](ca)+[indeed](iva) [bath](snānam)+[anointing](ālepanaṃ) [then](tataḥ)
+[anointing](abhyaṃgodvartane) [ca](ca) [eva](eva) [bathing](snānamālepanaṃ) [then](tataḥ)
 
 ## mukta-m0-p15-v369
-[soft+garment+wearing](mradīyavastradharaṇaṃ) [barley+time](yavakālaṃ) [making](kṛtiḥ) [on-cloth](paṭe)
+[soft-cloth-wearing](mradīyavastradharaṇaṃ) [barley-time](yavakālaṃ) [act](kṛtiḥ) [cloth](paṭe)
 
 ## mukta-m0-p15-v370
-[down-to-hair+smoothness](ālomaśaṃtvaṃ) [clearness](svacchatvaṃ) [smoothness](ślakṣṇatvaṃ) [and](ca) [good+fragrance](sugaṃdhitā)
+[hairiness](ālomaśaṃtvaṃ) [cleanliness](svacchatvaṃ) [smoothness](ślakṣṇatvaṃ) [ca](ca) [fragrance](sugaṃdhitā)
 
 ## mukta-m0-p15-v371
-[very+softness](sukomalatvaṃ) [purity](śuddhatvaṃ) [good+touch](susparśatvaṃ) [and](ca) [O-Pārvati](pārvati)
+[softness](sukomalatvaṃ) [purity](śuddhatvaṃ) [pleasant-touch](susparśatvaṃ) [ca](ca) [parvati](pārvati)
 
 ## mukta-m0-p15-v372
-[by-nature](svabhāva) [tenderness](sukumāratvaṃ) [by-nature](svabhāvena) [good+fragrance](sugaṃdhitā)
+[natural-softness](svabhāva sukumāratvaṃ) [natural-fragrance](svabhāvena sugaṃdhitā)
 
 ## mukta-m0-p15-v373
-[excessive+looseness](ativaiśālya) [absence](rāhityam)+[excessive+contraction](atisaṃkoca) [lack](hīnatā)
+[excessive-laxity-absence](ativaiśālya rāhityam) [excessive-tightness-deficiency](atisaṃkoca hīnatā)
 
 ## mukta-m0-p15-v374
-[eight](aṣṭa)+[enjoyment](bhogo)+[suitability](padheyatvaṃ) [enjoyment](bhoga)+[force](vega)+[endurance](sahiṣṇutā)
+[eight-enjoyments-suitability](aṣṭabhogopadheyatvaṃ) [enjoyment-impulse-endurance](bhogavegasahiṣṇutā)
 
 ## mukta-m0-p15-v375
-[excessive+fierce+itching](atyaṃtacaṇḍakaṇḍūyā)+[absence](rahitatvaṃ) [and](ca) [O-Pārvati](pārvati)
+[extreme-itching-absence](atyaṃtacaṇḍakaṇḍūyā rahitatvaṃ) [ca](ca) [parvati](pārvati)
