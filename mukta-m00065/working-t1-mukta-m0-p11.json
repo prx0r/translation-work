@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "karoṭaṃ",
-"quick_gloss": "skull"
+"quick_gloss": "skull-bowl"
 },
 {
 "surface": "muṇḍamālaṃ",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "kaṅkoṭaṃ",
-"quick_gloss": "crocodile"
+"quick_gloss": "kaṅkoṭa"
 },
 {
 "surface": "khaḍgarāvaṇam",
@@ -36,12 +36,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ghorāṭṭahāsam",
+"surface": "ghorāṭṭahāsamucchiṣṭaṃ",
 "quick_gloss": "terrible-laugh"
-},
-{
-"surface": "ucchiṣṭaṃ",
-"quick_gloss": "leftover"
 },
 {
 "surface": "ghurghuraṃ",
@@ -91,7 +87,7 @@
 "tokens": [
 {
 "surface": "punarlakṣavibhedana",
-"quick_gloss": "again-lakṣa-difference"
+"quick_gloss": "again-lakṣa-division"
 },
 {
 "surface": "grabhinnaḥ",
@@ -124,7 +120,7 @@
 },
 {
 "surface": "sarvaśāstrāvatārakāḥ",
-"quick_gloss": "all-scriptures-descenders"
+"quick_gloss": "all-scripture-descenders"
 }
 ]
 },
@@ -194,12 +190,8 @@
 "quick_gloss": "should-practice"
 },
 {
-"surface": "samayān",
-"quick_gloss": "vows"
-},
-{
-"surface": "pañca",
-"quick_gloss": "five"
+"surface": "samayān+pañca",
+"quick_gloss": "five-vows"
 },
 {
 "surface": "yaḥ",
@@ -227,12 +219,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tad",
-"quick_gloss": "that"
-},
-{
-"surface": "avaśyaṃ",
-"quick_gloss": "necessary"
+"surface": "tadavaśyaṃ",
+"quick_gloss": "that-necessarily"
 },
 {
 "surface": "hi",
@@ -252,7 +240,7 @@
 },
 {
 "surface": "bhavet",
-"quick_gloss": "would-be"
+"quick_gloss": "becomes"
 }
 ]
 },
@@ -322,7 +310,7 @@
 },
 {
 "surface": "guroḥ",
-"quick_gloss": "of-guru"
+"quick_gloss": "of-teacher"
 }
 ]
 },
@@ -347,7 +335,7 @@
 },
 {
 "surface": "gurvādeśāt",
-"quick_gloss": "by-guru-command"
+"quick_gloss": "by-teacher-command"
 },
 {
 "surface": "tadā",
@@ -355,7 +343,7 @@
 },
 {
 "surface": "ācaret",
-"quick_gloss": "should-practice"
+"quick_gloss": "should-do"
 }
 ]
 },
@@ -368,7 +356,7 @@
 "tokens": [
 {
 "surface": "sādhakaḥ",
-"quick_gloss": "sādhaka"
+"quick_gloss": "adept"
 },
 {
 "surface": "sādhayet",
@@ -430,7 +418,7 @@
 "tokens": [
 {
 "surface": "yuktiḥ",
-"quick_gloss": "method"
+"quick_gloss": "reason"
 },
 {
 "surface": "saṃsūcyate",
@@ -450,7 +438,7 @@
 },
 {
 "surface": "pārameśvare",
-"quick_gloss": "in-parama-śiva"
+"quick_gloss": "in-parameshvara"
 }
 ]
 },
@@ -462,12 +450,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nā",
-"quick_gloss": "not"
-},
-{
-"surface": "śmādau",
-"quick_gloss": "from-stone-etc"
+"surface": "nāśmādau",
+"quick_gloss": "not-in-stone-etc"
 },
 {
 "surface": "śivatā",
@@ -519,8 +503,12 @@
 "quick_gloss": "sinner"
 },
 {
-"surface": "nātra",
-"quick_gloss": "no"
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "saṃśayaḥ",
@@ -544,15 +532,15 @@
 "quick_gloss": "kuśa"
 },
 {
-"surface": "pātān",
-"quick_gloss": "fallen"
+"surface": "pātāt",
+"quick_gloss": "fall"
 },
 {
 "surface": "nārakī",
 "quick_gloss": "hell-dweller"
 },
 {
-"surface": "syād",
+"surface": "syāt",
 "quick_gloss": "would-be"
 },
 {
@@ -573,16 +561,16 @@
 "quick_gloss": "linga-etc-installers"
 },
 {
+"surface": "ye",
+"quick_gloss": "who"
+},
+{
 "surface": "ca",
 "quick_gloss": "and"
 },
 {
-"surface": "ye",
-"quick_gloss": "those"
-},
-{
 "surface": "te",
-"quick_gloss": "they"
+"quick_gloss": "those"
 },
 {
 "surface": "cāṇḍālasamāḥ",
@@ -603,11 +591,11 @@
 "tokens": [
 {
 "surface": "mantavyo",
-"quick_gloss": "to-be-considered"
+"quick_gloss": "should-be-considered"
 },
 {
 "surface": "vipravat",
-"quick_gloss": "vipra-like"
+"quick_gloss": "brāhmaṇa-like"
 },
 {
 "surface": "śūdraḥ",
@@ -627,7 +615,7 @@
 },
 {
 "surface": "saḥ",
-"quick_gloss": "he"
+"quick_gloss": "that"
 }
 ]
 },
@@ -640,7 +628,7 @@
 "tokens": [
 {
 "surface": "vṛttāt",
-"quick_gloss": "from-conduct"
+"quick_gloss": "by-conduct"
 },
 {
 "surface": "siddhāḥ",
@@ -706,7 +694,7 @@
 "tokens": [
 {
 "surface": "svabrāhmaṇyaṃ",
-"quick_gloss": "own-brahminhood"
+"quick_gloss": "own-brāhmaṇhood"
 },
 {
 "surface": "gataṃ",
@@ -751,7 +739,7 @@
 },
 {
 "surface": "jñeyāḥ",
-"quick_gloss": "to-be-known"
+"quick_gloss": "known"
 },
 {
 "surface": "yajamānakṣayāvahāḥ",
@@ -768,11 +756,11 @@
 "tokens": [
 {
 "surface": "dānārcanādyanarhaḥ",
-"quick_gloss": "gift-worship-etc-unworthy"
+"quick_gloss": "gift-worship-etc"
 },
 {
-"surface": "syād",
-"quick_gloss": "would-be"
+"surface": "syāt",
+"quick_gloss": "should-be"
 },
 {
 "surface": "vinaṣṭā",
