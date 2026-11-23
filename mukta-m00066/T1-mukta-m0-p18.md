@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p18-v426
-[verse-pada](anaṃgaśaktayoṣṭau) [verse-pada](tu) [verse-pada](pūjanīyāmanīṣibhiḥ)
+[love-powers](anaṃgaśaktayoṣṭau) [indeed](tu) [worshipful](pūjanīyā) [by-wise](manīṣibhiḥ)
 
 ## mukta-m0-p18-v427
-[verse-pada](anaṃgamadanānaṃga) [verse-pada](madanāturayā) [verse-pada](saha)
+[love](anaṃga) [madana](madanānaṃga) [madana](madanā) [afflicted](āturayā) [with](saha)
 
 ## mukta-m0-p18-v428
-[verse-pada](anaṃgamālinī) [verse-pada](cāṣṭau) [verse-pada](pūjanīyā) [verse-pada](vidhānataḥ)
+[love-garlanded](anaṃgamālinī) [and](ca) [eight](aṣṭau) [worshipful](pūjanīyā) [duly](vidhānataḥ)
 
 ## mukta-m0-p18-v429
-[verse-pada](ānaṃdacakramānaṃda) [verse-pada](kolāhalavivarddhanam)
+[bliss-wheel](ānaṃdacakram) [bliss](ānaṃda) [uproar](kolāhala) [increasing](vivarddhanam)
 
 ## mukta-m0-p18-v430
-[verse-pada](taṭitprabhā) [verse-pada](samullāsapiṃjaraiḥ) [verse-pada](kāmaraśmibhiḥ)
+[lightning-radiance](taṭitprabhā) [shining](samullāsa) [yellow](piṃjaraiḥ) [love-rays](kāmaraśmibhiḥ)
 
 ## mukta-m0-p18-v431
-[verse-pada](anaṃgaśakti) [verse-pada](saṃkṣobhāṃ) [verse-pada](nāḍībhyogalitaṃ) [verse-pada](navam)
+[love-power](anaṃgaśakti) [agitation](saṃkṣobhāṃ) [from-channels](nāḍībhyaḥ) [flowing](galitaṃ) [new](navam)
 
 ## mukta-m0-p18-v432
-[verse-pada](śṛṃgāravāhinīpūra) [verse-pada](pūrṇarāgāṃ) [verse-pada](kurāruṇam)
+[love-stream](śṛṃgāravāhinī) [full](pūra) [full-raga](pūrṇarāgāṃ) [reddish](kurāruṇam)
 
 ## mukta-m0-p18-v433
-[verse-pada](manmathadrava) [verse-pada](saṃdoha) [verse-pada](juṣṭamarthaprabhedanaiḥ)
+[love-fluid](manmathadrava) [abundance](saṃdoha) [endowed](juṣṭam) [meaning-distinctions](arthaprabhedanaiḥ)
 
 ## mukta-m0-p18-v434
-[verse-pada](keyaṃ) [verse-pada](caṃdrakalānāma) [verse-pada](kutra) [verse-pada](tiṣṭhati) [verse-pada](śaṃkara)
+[who](keyaṃ) [moon-digit](caṃdrakalā) [name](nāma) [where](kutra) [resides](tiṣṭhati) [Shankara](śaṃkara)
 
 ## mukta-m0-p18-v435
-[verse-pada](śṛṇukāmakalānāma) [verse-pada](nāḍībhogāṃbuvāhinī)
+[listen](śṛṇu) [love-digit](kāmakalā) [name](nāma) [channel](nāḍī) [enjoyment](bhoga) [water-bearing](aṃbuvāhinī)
 
 ## mukta-m0-p18-v436
-[verse-pada](nāḍīcakraṃ) [verse-pada](samastaṃ) [verse-pada](ca) [verse-pada](tayā) [verse-pada](vyāptaṃ) [verse-pada](varānane)
+[channel-wheel](nāḍīcakraṃ) [all](samastaṃ) [ca](ca) [by-her](tayā) [pervaded](vyāptaṃ) [fair-faced](varānane)
 
 ## mukta-m0-p18-v437
-[verse-pada](kāścidānaṃdavāhinya) [verse-pada](ekaivamalavāhinī)
+[some](kāścid) [bliss-bearing](ānaṃdavāhinya) [one](eka) [thus](evam) [impurity-bearing](alavāhinī)
 
 ## mukta-m0-p18-v438
-[verse-pada](aṣṭaubhogāṃbuvāhinyaḥ) [verse-pada](tāsu) [verse-pada](caṃdrakalā) [verse-pada](parā)
+[eight](aṣṭau) [enjoyment-water-bearing](bhogāṃbuvāhinyaḥ) [in-them](tāsu) [moon-digit](caṃdrakalā) [supreme](parā)
 
 ## mukta-m0-p18-v439
-[verse-pada](caṃdrarekhā) [verse-pada](caṃdravatī) [verse-pada](tathā) [verse-pada](caṃdramahodayā)
+[moon-streak](caṃdrarekhā) [moon-possessing](caṃdravatī) [thus](tathā) [moon-rising](caṃdramahodayā)
 
 ## mukta-m0-p18-v440
-[verse-pada](etābhogāṃbuvāhinya) [verse-pada](svāṃśaiścaṃdrakalāśritāḥ)
+[these](etā) [enjoyment-water-bearing](bhogāṃbuvāhinya) [by-own-parts](svāṃśaiḥ) [moon-digit](caṃdrakalā) [resorted](śritāḥ)
 
 ## mukta-m0-p18-v441
-[verse-pada](pradhānabhūtā) [verse-pada](vilasadvidyuddāma) [verse-pada](samaprabhā)
+[principal](pradhānabhūtā) [shining](vilasad) [lightning-garland](vidyuddāma) [equal-radiance](samaprabhā)
 
 ## mukta-m0-p18-v442
-[verse-pada](sarvanāḍīmūlabhūtaṃ) [verse-pada](nābhicakraṃ) [verse-pada](samāśritā)
+[all-channels-root](sarvanāḍīmūlabhūtaṃ) [navel-wheel](nābhicakraṃ) [resorted](samāśritā)
 
 ## mukta-m0-p18-v443
-[verse-pada](tanmukhot) [verse-pada](ghāṭanaṃ) [verse-pada](loke) [verse-pada](durlabhaṃ) [verse-pada](parameśvari)
+[that](tan) [mouth](mukha) [opening](udghāṭanaṃ) [in-world](loke) [rare](durlabhaṃ) [supreme-goddess](parameśvari)
 
 ## mukta-m0-p18-v444
-[verse-pada](dvitrāṇāmeva) [verse-pada](jāyeta) [verse-pada](sahasreṣvathakauliṣu)
+[of-two-or-three](dvitrāṇām) [indeed](eva) [would-be](jāyeta) [among-thousands](sahasreṣu) [then](atha) [Kaulas](kauliṣu)
 
 ## mukta-m0-p18-v445
-[verse-pada](yasya) [verse-pada](liṃgesvarāseka) [verse-pada](sakṛdvāpīhajanmani)
+[whose](yasya) [linga-lord](liṃgesvara) [union](āseka) [once](sakṛt) [or](vā) [birth](janmani)
 
 ## mukta-m0-p18-v446
-[verse-pada](anirvācyasya) [verse-pada](nirvāṇa) [verse-pada](padavīnadaviyasī)
+[ineffable](anirvācyasya) [liberation](nirvāṇa) [path](padavī) [unbounded](nadaviyasī)
 
 ## mukta-m0-p18-v447
-[verse-pada](samayasya) [verse-pada](parijñānādupacārasya) [verse-pada](kalpanāt)
+[convention](samaya) [knowledge](parijñānāt) [worship](upacāra) [conception](kalpanāt)
 
 ## mukta-m0-p18-v448
-[verse-pada](kadācit) [verse-pada](kvacidunmeṣaṃ) [verse-pada](mukhodghāṭanalakṣaṇam)
+[sometimes](kadācit) [somewhere](kvacid) [opening](unmeṣaṃ) [mouth-opening](mukhodghāṭana) [mark](lakṣaṇam)
 
 ## mukta-m0-p18-v449
-[verse-pada](tadarthānyevaśāstrāṇi) [verse-pada](tadarthāśca) [verse-pada](pravṛttayaḥ)
+[for-that](tadartha) [indeed](eva) [scriptures](śāstrāṇi) [for-that](tadartha) [activities](pravṛttayaḥ)
 
 ## mukta-m0-p18-v450
-[verse-pada](tasmāccaṃdrakalānāḍyāṃ) [verse-pada](bhogāmṛtamahodadhim)
+[therefore](tasmāt) [moon-digit-channel](caṃdrakalānāḍyāṃ) [enjoyment-nectar](bhogāmṛta) [great-ocean](mahodadhim)
