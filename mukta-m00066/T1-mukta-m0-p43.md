@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[having-obtained](prāpya) [there](tatra) [power+place](balasthānaṃ) [shining+jewels](dīptaratneṣu) [houses](veśmasu)
+[gloss](prāpya) [gloss](tatra) [gloss](balasthānaṃ) [gloss](dīptaratneṣu) [gloss](veśmasu)
 
 ## mukta-m0-p43-v1052
-[from-that+this](tasmādidaṃ) [great+sacrifice](mahāyāgaṃ) [difficult](durllabhaṃ) [of-winds](marutām) [even](api)
+[gloss](tasmādidaṃ) [gloss](mahāyāgaṃ) [gloss](durllabhaṃ) [gloss](marutāmapi)
 
 ## mukta-m0-p43-v1053
-[otherwise+doing](anyathākaraṇād) [goddess](devī) [fall](vinipātaḥ) [arises](prajāyate)
+[gloss](anyathākaraṇād) [gloss](devī) [gloss](vinipātaḥ) [gloss](prajāyate)
 
 ## mukta-m0-p43-v1054
-[in-this+authoritative](prāmāṇike'smin) [fair-hipped](suśroṇi) [on-path+living](mārgejīvati) [trusting](viśvasan)
+[gloss](prāmāṇike'smin) [gloss](suśroṇi) [gloss](mārgejīvati) [gloss](viśvasan)
 
 ## mukta-m0-p43-v1055
-[in-mantra](maṃtre) [in-mantra](maṃtre) [but](tu) [to-be-done](karttavye) [in-medicine](bheṣaje) [in-deity](daivate) [in-guru](gurau)
+[gloss](maṃtre) [gloss](maṃtre) [gloss](tu) [gloss](karttavye) [gloss](bheṣaje) [gloss](daivate) [gloss](gurau)
 
 ## mukta-m0-p43-v1056
-[elder](vṛdhā) [elder](vṛdhā) [elder](vṛdhā) [elder](vṛdhā)
+[gloss](vṛdhā)
 
 ## mukta-m0-p43-v1057
-[see+faith+greatness](paśyaviśvāsamāhātmyaṃ) [stone+wood+clay+etc](śilādārumṛdādikam)
+[gloss](paśyaviśvāsamāhātmyaṃ) [gloss](śilādārumṛdādikam)
 
 ## mukta-m0-p43-v1058
-[non-conscious](acetanaṃ) [inert+substance](jaḍadravyaṃ) [by-whom](kena) [success](siddhiṃ) [gives](prayacchati)
+[gloss](acetanaṃ) [gloss](jaḍadravyaṃ) [gloss](kena) [gloss](siddhiṃ) [gloss](prayacchati)
 
 ## mukta-m0-p43-v1059
-[action+faith](karmaśraddhā) [tradition](saṃpradāyā) [both-these](vubhāvetau) [promoters](pravarttakau)
+[gloss](karmaśraddhā) [gloss](saṃpradāyā) [gloss](vubhāvetau) [gloss](pravarttakau)
 
 ## mukta-m0-p43-v1060
-[always+impure](sadāmalīmasā) [fools](mūrkhāś) [caṇḍāla+etc](caṃḍālādyāś) [and](ca) [castes](jātayaḥ)
+[gloss](sadāmalīmasā) [gloss](mūrkhāścaṃḍālādyāśca) [gloss](jātayaḥ)
 
 ## mukta-m0-p43-v1061
-[no-conduct](nācāro) [not](na) [and](ca) [or](vā) [purity](śaucaṃ) [not](na) [learning](vaiduṣyaṃ) [not](na) [intellect+virtues](dhīguṇāḥ)
+[gloss](nācāro) [gloss](na) [gloss](ca) [gloss](vā) [gloss](śaucaṃ) [gloss](na) [gloss](vaiduṣyaṃ) [gloss](na) [gloss](dhīguṇāḥ)
 
 ## mukta-m0-p43-v1062
-[faith](viśvāso) [named](nāma) [of-mind](manaso) [firmness](dṛḍhatā) [in-mantra+accomplishment](maṃtrasādhane)
+[gloss](viśvāso) [gloss](nāmamanaso) [gloss](dṛḍhatāmaṃtrasādhane)
 
 ## mukta-m0-p43-v1063
-[thus](evaṃ) [faith+obtained](viśvāsamāpannaḥ) [fruit-desiring+fruit+form](phalārthiphalavigrahaḥ)
+[gloss](evaṃ) [gloss](viśvāsamāpannaḥ) [gloss](phalārthiphalavigrahaḥ)
 
 ## mukta-m0-p43-v1064
-[brāhmaṇa+kṣatriya](brāhmaṇakṣatriya) [vaiśya](viśā) [authority+here+rule](adhikāro'traśāsanam)
+[gloss](brāhmaṇakṣatriya) [gloss](viśāmadhikāro'traśāsanam)
 
 ## mukta-m0-p43-v1065
-[hero+service](vīraśuśrūṣaṇaṃ) [their](teṣām) [desired+fruit+successes](abhiṣṭaphalasiddhayaḥ)
+[gloss](vīraśuśrūṣaṇaṃ) [gloss](teṣāmabhiṣṭaphalasiddhayaḥ)
 
 ## mukta-m0-p43-v1066
-[of-vaiśya](vaiśyasya) [merchandise+profit+half](paṇyalābhārdhaṃ) [of-śūdra](sūdrāder) [never](nakadācana)
+[gloss](vaiśyasya) [gloss](paṇyalābhārdhaṃ) [gloss](sudrādernakadācana)
 
 ## mukta-m0-p43-v1067
-[one+only+caste+woman](ekaivajātirnārī) [thus](iti) [to-be-taken](grāhyā) [marks+occurring](lakṣaṇasaṃbhave)
+[gloss](ekaivajātirnārīti) [gloss](grāhyā) [gloss](lakṣaṇasaṃbhave)
 
 ## mukta-m0-p43-v1068
-[worship+means](pūjāsādhanam) [these](etā) [indeed](hi) [by-me+created](mayāsṛṣṭā) [deer-eyed](mṛgīdṛśaḥ)
+[gloss](pūjāsādhanametā) [gloss](hi) [gloss](mayāsṛṣṭā) [gloss](mṛgīdṛśaḥ)
 
 ## mukta-m0-p43-v1069
-[cows](gāvastu) [but](tu) [back+pure](pṛṣṭhatomedhyā) [pure+mouthed](medhyāvaktreṇa) [speakers](vādinaḥ)
+[gloss](gāvastu) [gloss](pṛṣṭhatomedhyā) [gloss](medhyāvaktreṇa) [gloss](vādinaḥ)
 
 ## mukta-m0-p43-v1070
-[woman+mouth](strīmukhaṃ) [but](tu) [always](sadā) [purity](śuddhir) [no-leftover](nocciṣṭaṃ) [there](tatra) [exists](vidyate)
+[gloss](strīmukhaṃ) [gloss](tu) [gloss](sadā) [gloss](śuddhirnocciṣṭaṃ) [gloss](tatra) [gloss](vidyate)
 
 ## mukta-m0-p43-v1071
-[by-them+without](tābhirvinā) [not](na) [sacrifice](yajño'sti) [not](na) [austerity](tapo'sti) [not](na) [or](vā) [vow](vratam)
+[gloss](tābhirvinā) [gloss](na) [gloss](yajño'sti) [gloss](na) [gloss](tapo'stina) [gloss](vā) [gloss](vratam)
 
 ## mukta-m0-p43-v1072
-[eight+oblations](aṣṭāhutir) [great+sacrifice](mahāyāge) [principal](pradhānaṃ) [messengers](dūtikāḥ) [remembered](smṛtāḥ)
+[gloss](aṣṭāhutirmahāyāge) [gloss](pradhānaṃ) [gloss](dūtikāḥ) [gloss](smṛtāḥ)
 
 ## mukta-m0-p43-v1073
-[brought+tied](ānīyaghaṭiyatyeṣā) [therefore](tasmād) [messenger](dūti) [proclaimed](prakīrtitā)
+[gloss](ānīyaghaṭiyatyeṣā) [gloss](tasmād) [gloss](dūti) [gloss](prakīrtitā)
 
 ## mukta-m0-p43-v1074
-[messenger](dūtī) [by-that](tena) [wise](budhaiḥ) [said](proktā) [thought](ciṃtā) [grief+obstructing](saṃtāparodhinī)
+[gloss](dūtī) [gloss](tena) [gloss](budhaiḥ) [gloss](proktā) [gloss](ciṃtā) [gloss](saṃtāparodhinī)
 
 ## mukta-m0-p43-v1075
-[enjoyer+enjoyment+prosperity](bhoginībhogalakṣmīś) [and](ca) [her](tasyāḥ) [synonyms](paryāya) [good+sayings](sūktayaḥ)
+[gloss](bhoginībhogalakṣmīśca) [gloss](tasyāḥ) [gloss](paryāya) [gloss](sūktayaḥ)
