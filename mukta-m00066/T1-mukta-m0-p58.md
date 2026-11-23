@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p58-v1426
-[seen](dṛṣṭa) [all](sarvā) [doership+of](kṛti+tvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [is](bhavat)
+[seen](dṛṣṭa) [all](sarvā) [of-action](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [happens](bhavat)
 
 ## mukta-m0-p58-v1427
-[three+ness+but](tritvan+tu) [convention+of+also](vyavahārasyāpy) [dependence+indeed+here](apekṣā+iva+atra) [accepted](sammatam)
+[threefold](tritvantu) [of-practice](vyavahārasyāpyapekṣaivātra) [accepted](sammatam)
 
 ## mukta-m0-p58-v1428
-[ninth](navamaṃ) [śiva+principle](śiva+tatvaṃ) [but](tu) [sound+to-be-manifested](śabda+bhāvyam) [here+now](ihā+dhunā)
+[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [by-sound](śabdabhāvyamihādhunā)
 
 ## mukta-m0-p58-v1429
-[sound+expressible+ness](śabda+bhāsya+tvam) [having-abandoned](ujhitvā) [by-own+superintendent](svā+dhyakṣeṇa) [shines-forth](sa+bhāsate)
+[by-sound-ness](śabdabhāsyatvamujhitvā) [by-self-witness](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[own+support](svā+śrayo) [wind+of-one](marud+ekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
+[self-support](svāśrayo) [of-wind-one](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1431
-[śiva+but](śivas+tu) [all+support](sarvā+śrayaḥ) [should-be](syāt) [there](tatra) [properly+is-examined](samyag+vivicyate)
+[śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [well-distinguished](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-[on-earth](mahyāṃ) [siddha+etc+form+by](siddhā+di+rūpeṇa) [wind+cloud](vāyu+megha) [snow+nature](hima+ātmatā)
+[in-earth](mahyāṃ) [siddhi-form](siddhādirūpeṇa) [wind-cloud-frost-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[in-sound](śabde) [maṃghī](maṃghī) [water+wind](jala+marut) [support](saṃśrayaḥ) [declared](kathitaḥ) [O-beloved](priye)
+[by-sound-this-water-air](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
-[aggregate+and](saṃghātaś+ca) [earth+etc+of](pṛthivyā+deḥ) [body+ness+by](śarīra+tvena) [is-called](kīrtyate)
+[aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [proclaimed](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[by-breath](prāṇena) [moving](ceṣṭamānaṃ) [which](yat) [that](tat) [with-consciousness](sa+cit+kam) [here+is-called](ihocyate)
+[by-life-force](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [sentient](tat) [sacit](sacit) [here-called](kamihocyate)
 
 ## mukta-m0-p58-v1436
-[mind+supported](manaḥ+saṃsrayaṇaṃ) [living](prāṇi) [conscious](sa+cit) [body+in+remembered](ka+vapuṣi+smṛtam)
+[mind-support](manaḥsaṃsrayaṇaṃ) [living](prāṇi) [sacit](sacit) [body-remembered](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
-[of-all](sarveṣām) [here](iha) [of-principles](tatvānāṃ) [modification](vikṛtir) [quality+difference+born](guṇa+bheda+jā)
+[of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtirguṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[aggregate+born+and](saṃghāta+jāś+ca) [aggregates](saṃghātā) [many](bahavo) [not+one+formed](na+eka+rūpiṇaḥ)
+[aggregates](saṃghātajāśca) [aggregates](saṃghātā) [many](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[by-much](bahunā) [what+here+by-said](kim+ihoktena) [what](kin) [by-principles+other+inert](tatvair+aparair+jaḍaiḥ)
+[by-much](bahunā) [what-here-said](kimihoktena) [what-principle](kintatvairaparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[uncuttable+this](acchedyo+'yam) [unburnable+this](adāhoya) [unwettable+undryable](ma+kledyo+'śoṣya) [indeed](eva) [and](ca)
+[uncuttable](acchedyo'yamadāhoya) [unwettable](makledyośoṣya) [also](eva) [ca](ca)
 
 ## mukta-m0-p58-v1441
-[all+universe+of](sarva+viśvasya) [generator](janakaḥ) [all+universe+of](sarva+viśvasya) [protector](pālakaḥ)
+[of-all-world](sarvaviśvasya) [begetter](janakaḥ) [of-all-world](sarvaviśvasya) [protector](pālakaḥ)
 
 ## mukta-m0-p58-v1442
-[he](sa) [mountain+island](giri+dvīpa) [ocean+forest+having](jaladhi+kānanā) [entire+earth](sakalā+mahī)
+[that](sa) [mountain-island-ocean-forest](giridvīpajaladhikānanā) [all-earth](sakalāmahī)
 
 ## mukta-m0-p58-v1443
-[these](etā) [visible+but](dṛśyas+tva) [enumerated](saṃkhyātā) [earth+dweller+worshipped](vasudhā+vāsa+vārcite)
+[these](etā) [visible](dṛśyastva) [counted](saṃkhyātā) [earth-abode-worshipped](vasudhāvāsavārcite)
 
 ## mukta-m0-p58-v1444
-[light+circle](jyotiś+cakraṃ) [all](samastaṃ) [and](ca) [wind](vāyu) [not+indeed](naiva) [is-moved](pracālyate)
+[light-wheel](jyotiścakraṃ) [all](samastaṃ) [ca](ca) [wind](vāyu) [not](naiva) [moved](pracālyate)
 
 ## mukta-m0-p58-v1445
-[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [and](ca) [still](sthimitaḥ) [somewhere](kvacit)
+[always](sadā) [moves](carati) [somewhere](kutrāpi) [always](sadā) [ca](ca) [still](sthimitaḥ) [somewhere](kvacit)
 
 ## mukta-m0-p58-v1446
-[when](yadā) [flows](pravahati) [swiftly](kṣipraṃ) [with-sound+by](sa+śabdena) [then+is-raised](tato+'dyate)
+[when](yadā) [flows](pravahati) [quickly](kṣipraṃ) [with-sound](saśabdena) [then](tatodyate)
 
 ## mukta-m0-p58-v1447
-[this](etat) [but](tu) [principle](tattvaṃ) [declared](kathitam) [of-this+indeed+other](asyaivā+nyā) [manifestations](vibhūtayaḥ)
+[this](etat) [tu](tu) [principle](tattvaṃ) [said](kathitamasyaivānyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[that](tat) [that+scripture](tac+chāstra) [state](sthitiḥ) [all](sarvā) [declared](kathitā) [mountain+daughter](giri+naṃdini)
+[that](tat) [that-scripture](tacchāstra) [establishment](sthitiḥ) [all](sarvā) [said](kathitā) [girinandinī](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[elsewhere](anyatra) [my](mama) [what](yat) [anything](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched+in-mind](spṛṣṭam+āśaye)
+[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
-[many](aneka) [creature+net+by](jantu+jālena) [of-dense](nibiḍasya) [continuously](nirantaram)
+[many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)
