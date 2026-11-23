@@ -2,10 +2,10 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p39-v951
-[kameshvari-mantra](kāmeśvarīmanuṃ) [ca](ca) [eva](eva) [five-vidyas](paṃcavidyāmanusmaret)
+[kāmeśvarīmanuṃ](kāmeśvarīmanuṃ) [caiva](caiva) [paṃcavidyāmanusmaret](paṃcavidyāmanusmaret)
 
 ## mukta-m0-p39-v952
-[by-this](anenāpi) [ca](ca) [yoga](ca) [yogena](yogena) [if](yadi) [she](sā) [not](na) [hi](hi) [vidravet](vidravet)
+[anenāpi](anenāpi) [ca](ca) [yogena](yogena) [yadi](yadi) [sā](sā) [na](na) [hi](hi) [vidravet](vidravet)
 
 ## mukta-m0-p39-v953
 [prāyuṃjīta](prāyuṃjīta) [vidhānena](vidhānena) [japannamṛtanāyikām](japannamṛtanāyikām)
