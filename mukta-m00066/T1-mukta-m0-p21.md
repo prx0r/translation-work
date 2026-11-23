@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-diseases-necessarily-destroy nature-or-his-thing
+[pada](rogāṇyavaśyaṃ) [pada](nighnaṃti) [pada](svabhāvo) [pada](vāsya) [pada](vastunaḥ)
 
 ## mukta-m0-p21-v502
-that-virabhadra beautiful-hipped indeed destruction-bhairava
+[pada](sa) [pada](vīrabhadraḥ) [pada](suśroṇi) [pada](sākṣāt) [pada](saṃhāra) [pada](bhairavaḥ)
 
 ## mukta-m0-p21-v503
-from-daksha-anger blazing from-his-limb-hair-pores
+[pada](dakṣakopātprajvalataḥ) [pada](tasyāṃgādromakūpataḥ)
 
 ## mukta-m0-p21-v504
-all-diseases-various-orders aroused-by-him
+[pada](tamanuproddhitāḥ) [pada](sarve) [pada](vyādhayovividhakramāḥ)
 
 ## mukta-m0-p21-v505
-extremely-unsteady-uncontrollable blazing always-enjoying
+[pada](atyaṃtalolādurvārāḥ) [pada](prajvalaṃtaḥ) [pada](sadāmuṣā)
 
 ## mukta-m0-p21-v506
-resorting-to great-being virabhadra great-rise
+[pada](tamāśritya) [pada](mahāsatvaṃ) [pada](vīrabhadraṃ) [pada](mahodayam)
 
 ## mukta-m0-p21-v507
-sinful-wicked bad-conducted maiden-hating
+[pada](pāpaśīlān) [pada](durācārān) [pada](kanyāvidveṣakāriṇaḥ)
 
 ## mukta-m0-p21-v508
-scripture-hostile sinners vain-quarrel-makers
+[pada](āgama) [pada](drohiṇo) [pada](pāpān) [pada](vṛthākalahakāriṇaḥ)
 
 ## mukta-m0-p21-v509
-great-diseases-devour drink-blood-much
+[pada](bhakṣayaṃti) [pada](mahārogāḥ) [pada](pibaṃti) [pada](rudhiraṃ) [pada](bahu)
 
 ## mukta-m0-p21-v510
-growth
+[pada](vṛdhe-)
 
 ## mukta-m0-p21-v511
-vital-point-splitting terrible-faced dharma-conduct-blaming
+[pada](marmabheda) [pada](karālāpāṃ) [pada](dhārmikācāra) [pada](niṃdakān)
 
 ## mukta-m0-p21-v512
-severe-diseases-harm from-his-contact-others-also
+[pada](hiṃsaṃti) [pada](vyādhayastīvrāstatsaṃgādaparānapi)
 
 ## mukta-m0-p21-v513
-fearing-dissolution great-swan-prayed formerly
+[pada](āśaṃkamānairvilaya) [pada](mahaṃsaṃprārthitaḥ)
 
 ## mukta-m0-p21-v514
-supreme-brahman taste-nectar-giving
+[pada](parabrahmaḥ) [pada](sāsvādamayamānaṃdadāyakam)
 
 ## mukta-m0-p21-v515
-that-bindu-hundred-thousand stream wind-driven
+[pada](sa) [pada](biṃdu) [pada](śatasāhasra) [pada](pravahaḥ) [pada](pavanāhatam)
 
 ## mukta-m0-p21-v516
-entered-all-herbs moon-formed great-essence
+[pada](viveśacauṣadhiḥ) [pada](sarvāḥ) [pada](somarūpomahārasaḥ)
 
 ## mukta-m0-p21-v517
-from-then herbs-arise supreme-nectar
+[pada](tataḥ) [pada](prabhṛti) [pada](vīrutsujāgartti) [pada](paramāmṛtam)
 
 ## mukta-m0-p21-v518
-various-medical-treatises for-fever-etc-removal
+[pada](vividhaṃ) [pada](vaidyataṃtraṃ) [pada](tu) [pada](jvarādīnāṃ) [pada](vinuttaye)
 
 ## mukta-m0-p21-v519
-bodily-medicine stated decoctions-pills-etc
+[pada](śārīravaidyake) [pada](proktāḥ) [pada](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
-as-body-fever-cold bile-phlegm-waste-wind
+[pada](yathā) [pada](dehojvaraṃ) [pada](śītaṃ) [pada](pittaṃ) [pada](śleṣmamalonilaḥ)
 
 ## mukta-m0-p21-v521
-so-in-soul-diseases stated anger-hatred-envy
+[pada](tathā) [pada](jīve) [pada](gadāḥ) [pada](proktāḥ) [pada](krodhodveṣaścamatsaraḥ)
 
 ## mukta-m0-p21-v522
-despair-and-terror suspicion-contemptible-thought
+[pada](nirvedaśca) [pada](paritrāsaḥ) [pada](śaṃkākutsitaciṃtanam)
 
 ## mukta-m0-p21-v523
-unsteadiness-delusion knowledge-light-deprived
+[pada](vikaṃpatvaṃ) [pada](vimūḍhatvaṃ) [pada](vidyāloka) [pada](navarjitam)
 
 ## mukta-m0-p21-v524
-all-contempt-nature everywhere-disgust
+[pada](sarvasyakutsā) [pada](śīlatvaṃ) [pada](sarvatrāpi) [pada](jugupsanam)
 
 ## mukta-m0-p21-v525
-these-seen-one-kinds crores-of-crores
+[pada](etā) [pada](dṛśānaikabhedāḥ) [pada](koṭīnāmapikoṭayaḥ)
