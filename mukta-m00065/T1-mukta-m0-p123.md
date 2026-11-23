@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[gandhaṃ](gandhaṃ) [puṣpaṃ](puṣpaṃ) [ca](ca) [dhūpādyaṃ](dhūpādyaṃ) [sākṣataṃ](sākṣataṃ) [ca](ca) [pavitrakam](pavitrakam)
+[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-rice](sākṣataṃ) [and](ca) [purifier](pavitrakam)
 
 ## mukta-m0-p123-v3052
-[śivaṃ](śivaṃ) [nivedayet](nivedayet) [mūrdhni](mūrdhni) [recakena](recakena) [amṛtīkṛtam](amṛtīkṛtam)
+[Shiva](śivaṃ) [offer](nivedayet) [on-head](mūrdhni) [by-exhalation](recakena)+[nectar-made](amṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
-[prātaḥ](prātaḥ) [snātaḥ](snātaḥ) [śuciḥ](śuciḥ) [śuddhaḥ](śuddhaḥ) [pūjāṃ](pūjāṃ) [kuryāt](kuryāt) [sva-vittataḥ](svavittataḥ)
+[morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [do](kuryāt) [according-to-wealth](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-[pañcabhiḥ](pañcabhiḥ) [madhuraiḥ](madhuraiḥ) [snānaṃ](snānaṃ) [jalāntaraiḥ](jalāntaraiḥ) [virukṣaṇam](virukṣaṇam)
+[with-five-sweets](pañcabhirmadhuraiḥ) [bathing](snānaṃ) [with-water-intervals](jalāntarairvirukṣaṇam)
 
 ## mukta-m0-p123-v3055
-[aṣṭāṅgaḥ](aṣṭāṅgo) [arghaṃ](arghaṃ) [pradāya](pradāya) [atha](atha) [samālabhya](samālabhya) [prapūjayet](prapūjayet)
+[eight-limbed](aṣṭāṅgo) [arghya](rghaṃ) [having-given](pradāya) [then](atha) [having-anointed](samālabhya) [worship](prapūjayet)
 
 ## mukta-m0-p123-v3056
-[vastraiḥ](vastraiḥ) [saṃchāditaṃ](saṃchāditaṃ) [veśma](veśma) [ghaṭa](ghaṭa) [cāmara](cāmara) [bhūṣaṇaiḥ](bhūṣaṇaiḥ)
+[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [dwelling](veśma) [with-pots-fans-ornaments](ghaṭācāmarabhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-[kadalī](kadalī) [cūta](cūta) [mālābhiḥ](mālābhiḥ) [jāta](jāta) [bīja](bīja) [sarocakaiḥ](sarocakaiḥ)
+[with-banana-mango-garlands](kadalīcūtamālābhir) [born-seed](jātabīja) [with-savor](sarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-[nṛtya](nṛtya) [gītaiḥ](gītaiḥ) [kalaiḥ](kalaiḥ) [vādyaiḥ](vādyaiḥ) [nayed](nayed) [rātriṃ](rātriṃ) [mahotsavaiḥ](mahotsavaiḥ)
+[with-dance-song](nṛtyagītaiḥ) [gentle](kalair) [with-instruments](vādyair) [lead](nayed) [night](rātriṃ) [with-great-festivals](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-[bhaktyā](bhaktyā) [santoṣayet](santoṣayet) [sarvān](sarvān) [vastra](vastra) [dāna](dāna) [ādi](ādi) [bhojanaiḥ](bhojanaiḥ)
+[with-devotion](bhakttyā) [please](santoṣayet) [all](sarvān) [with-cloth-gifts-etc-food](vastradānādibhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-[sarva](sarva) [pāpa](pāpa) [vinirmuktaḥ](vinirmukto) [rudra](rudra) [loke](loke) [mahīyate](mahīyate)
+[all-sins-freed](sarvapāpavinirmukto) [in-Rudra-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p123-v3061
-[khaṭvā](khaṭvā) [śayana](śayana) [mithyokti](mithyokti) [strī](strī) [yātrā](yātrā) [miṣa](miṣa) [varjakaḥ](varjakaḥ)
+[false-speech-on-cot](khaṭvāśayanamithyokti) [women-travel](strīyātrā) [meat-avoiding](miṣavarjakaḥ)
 
 ## mukta-m0-p123-v3062
-[pūjāṃ](pūjāṃ) [kṛtvā](kṛtvā) [śivaṃ](śivaṃ) [natvā](natvā) [pavitraṃ](pavitraṃ) [ca](ca) [visarjayet](visarjayet)
+[worship](pūjāṃ) [having-done](kṛtvā) [Shiva](śivaṃ) [having-bowed](natvā) [purifier](pavitraṃ) [and](ca) [release](visarjayet)
 
 ## mukta-m0-p123-v3063
-[kṛtvā](kṛtvā) [kṣipet](kṣipet) [pavitrāṇi](pavitrāṇi) [śiva](śiva) [agnau](agnau) [vā](vā) [sadā](sadā) [ambhasi](ambhasi)
+[having-done](kṛtvā) [throw](kṣipet) [purifiers](pavitrāṇi) [in-Shiva-fire](śivāgnau) [or](vā) [in-eternal-water](sadāmbhasi)
 
 ## mukta-m0-p123-v3064
-[syāt](syāt) [prāyaścitta](prāyaścitta) [adhogāmī](adhogāmī) [kṛtaḥ](kṛto) [rudraḥ](rudro) [abda](abda) [koṭiśaḥ](koṭiśaḥ)
+[be](syāt) [expiation-descending](prāyaścityadhogāmī) [done](kṛto) [Rudra](rudro) [ten-million](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-[tāmra](tāmra) [liṅga](liṅga) [arcana](arcana) [arkaḥ](arkaḥ) [piśācaḥ](piśāco) [vaṃśa](vaṃśa) [sambhavāt](sambhavāt)
+[copper-linga-worship-darkness](tāmraliṅgārcanādarkaḥ) [demon](piśāco) [from-bamboo-birth](vaṃśasambhavāt)
 
 ## mukta-m0-p123-v3066
-[sīsaja](sīsajā) [dguhyakāḥ](dguhyakāḥ) [sarve](sarve) [loha](loha) [rakṣaḥ](rakṣo) [asura](asura) [antakāḥ](antakāḥ)
+[lead-born](sīsajā) [goblins](dguhyakāḥ) [all](sarve) [iron](lohāt) [rakshasa-asura-ender](rakṣo'surāntakāḥ)
 
 ## mukta-m0-p123-v3067
-[padmarāga](padmarāga) [adhutāśaḥ](adhutāśaśca) [ca](ca) [indranīla](indranīla) [arcana](arcana) [dhariḥ](dhariḥ)
+[from-ruby](padmarāgāt) [fire-god](hutāśaśca) [from-sapphire](indranīlārcanāt) [Vishnu](hariḥ)
 
 ## mukta-m0-p123-v3068
-[vaidruma](vaidruma) [asya](asya) [arcana](arcana) [nāgāḥ](nāgāḥ) [śukraḥ](śukraḥ) [kārketana](kārketanāt) [sadā](sadā)
+[from-coral](vaidrumārcanāt) [serpents](nāgāḥ) [Venus](śukraḥ) [from-crystal](kārketanāt) [always](sadā)
 
 ## mukta-m0-p123-v3069
-[paulastyaḥ](paulastyo) [jīva](jīva) [jātibhyaḥ](jātibhyaṣṭai) [ṭṭibhāt](ṭṭibhātsiddhakinnarāḥ) [siddha](siddha) [kinnarāḥ](kinnarāḥ)
+[Paulastya](paulastyo) [from-Jupiter-class](jīvajātibhyaṣṭai) [from-iron](ṭṭibhāt) [siddhas-kinnaras](siddhakinnarāḥ)
 
 ## mukta-m0-p123-v3070
-[aśvinau](aśvinau) [pakva](pakva) [mṛd](mṛd) [bhūtāt](bhūtādgandharvā) [gandharvāḥ](gandharvā) [dāra](dāra) [sambhavāt](sambhavāt)
+[Ashvins](aśvinau) [from-baked-clay](pakvamṛdbhūtāt) [gandharvas](gandharvā) [from-wife-birth](dārasambhavāt)
 
 ## mukta-m0-p123-v3071
-[kūrma](kūrma) [kauśi](kauśi) [kasabhūtāt](kasabhūtādvāsukinayināyakaḥ) [vāsuki](vāsuki) [nayināyakaḥ](nayināyakaḥ)
+[tortoise-Kaushika](kūrmakauśi) [from-earth](kasabhūtāt) [Vasuki-leader](vāsukinayināyakaḥ)
 
 ## mukta-m0-p123-v3072
-[liṅga](liṅga) [saṃsthāpana](saṃsthāpana) [arcana](arcana) [at](at)
+[from-linga-establishment-worship](liṅgasaṃsthāpanārcanāt)
 
 ## mukta-m0-p123-v3073
-[somapāḥ](somapāḥ)
+[soma-drinkers](somapāḥ)
 
 ## mukta-m0-p123-v3074
-[nānā](nānā) [phala](phala) [uttha](uttha) [liṅgāni](liṅgāni) [vidhinā](vidhinā) [sevitāni](sevitāni) [ca](ca)
+[various-fruit-born-lingas](nānāphalotthaliṅgāni) [by-rite](vidhinā) [served](sevitāni) [and](ca)
 
 ## mukta-m0-p123-v3075
-[saikatāt](saikatādviśvakarmā) [viśvakarmā](viśvakarmā) [ca](ca) [śacīśaḥ](śacīśo) [lavaṇa](lavaṇo) [dbhavāt](dbhavāt)
+[from-sand](saikatāt) [Vishvakarma](viśvakarmā) [ca](ca) [Shachi-lord](śacīśo) [from-salt](lavaṇo) [born](dbhavāt)
