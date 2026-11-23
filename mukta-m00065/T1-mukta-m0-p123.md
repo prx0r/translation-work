@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[gloss](gandhaṃ) [gloss](puṣpaṃ) [gloss](ca) [gloss](dhūpādyaṃ) [gloss](sākṣataṃ) [gloss](ca) [gloss](pavitrakam)
+fragrance flower and incense-etc with-rice and purifier
 
 ## mukta-m0-p123-v3052
-[gloss](śivaṃ) [gloss](nivedayen) [gloss](mūrdhni) [gloss](recakena) [gloss](amṛtīkṛtam)
+Shiva offer on-head by-exhalation made-nectar
 
 ## mukta-m0-p123-v3053
-[gloss](prātaḥ) [gloss](snātaḥ) [gloss](śuciḥ) [gloss](śuddhaḥ) [gloss](pūjāṃ) [gloss](kuryāt) [gloss](svavittataḥ)
+morning bathed pure clean worship do according-to-wealth
 
 ## mukta-m0-p123-v3054
-[gloss](pañcabhiḥ) [gloss](madhuraiḥ) [gloss](snānaṃ) [gloss](jalāntaraiḥ) [gloss](virukṣaṇam)
+with-five sweet-baths water-intervals drying
 
 ## mukta-m0-p123-v3055
-[gloss](aṣṭāṅgaḥ) [gloss](arghaṃ) [gloss](pradāya) [gloss](atha) [gloss](samālabhya) [gloss](prapūjayet)
+eight-limbed argha give then anoint worship
 
 ## mukta-m0-p123-v3056
-[gloss](vastraiḥ) [gloss](saṃchāditaṃ) [gloss](veśma) [gloss](ghaṭa) [gloss](cāmara) [gloss](bhūṣaṇaiḥ)
+with-cloths covered house pot-chowrie-ornaments
 
 ## mukta-m0-p123-v3057
-[gloss](kadalī) [gloss](cūta) [gloss](mālābhiḥ) [gloss](jāta) [gloss](bīja) [gloss](sarocakaiḥ)
+banana-mango-garlands with-born-seed-ornaments
 
 ## mukta-m0-p123-v3058
-[gloss](nṛtya) [gloss](gītaiḥ) [gloss](kalaiḥ) [gloss](vādyaiḥ) [gloss](nayed) [gloss](rātriṃ) [gloss](mahotsavaiḥ)
+with-dance-song arts instruments spend-night great-festivals
 
 ## mukta-m0-p123-v3059
-[gloss](bhaktyā) [gloss](santoṣayet) [gloss](sarvān) [gloss](vastra) [gloss](dānādi) [gloss](bhojanaiḥ)
+with-devotion satisfy all cloth-gift-etc food
 
 ## mukta-m0-p123-v3060
-[gloss](sarva) [gloss](pāpa) [gloss](vinirmuktaḥ) [gloss](rudra) [gloss](loke) [gloss](mahīyate)
+all-sin-freed Rudra-world exalted
 
 ## mukta-m0-p123-v3061
-[gloss](khaṭvā) [gloss](śayana) [gloss](mithyokti) [gloss](strī) [gloss](yātrā) [gloss](miṣa) [gloss](varjakaḥ)
+bed-sleeping false-speech woman-travel meat-avoider
 
 ## mukta-m0-p123-v3062
-[gloss](pūjāṃ) [gloss](kṛtvā) [gloss](śivaṃ) [gloss](natvā) [gloss](pavitraṃ) [gloss](ca) [gloss](visarjayet)
+worship do Shiva bow purifier and release
 
 ## mukta-m0-p123-v3063
-[gloss](kṛtvā) [gloss](kṣipet) [gloss](pavitrāṇi) [gloss](śiva) [gloss](agnau) [gloss](vā) [gloss](sadā) [gloss](ambhasi)
+do throw purifiers Shiva-fire or ever-water
 
 ## mukta-m0-p123-v3064
-[gloss](syāt) [gloss](prāyaścitta) [gloss](adhogāmī) [gloss](kṛtaḥ) [gloss](rudraḥ) [gloss](abda) [gloss](koṭiśaḥ)
+becomes penance-descender done Rudra year million-fold
 
 ## mukta-m0-p123-v3065
-[gloss](tāmra) [gloss](liṅga) [gloss](arcana) [gloss](arkaḥ) [gloss](piśācaḥ) [gloss](vaṃśa) [gloss](sambhavāt)
+copper-linga-worship sun piśāca bamboo-born
 
 ## mukta-m0-p123-v3066
-[gloss](sīsa) [gloss](jāḥ) [gloss](guhyakāḥ) [gloss](sarve) [gloss](loha) [gloss](rakṣaḥ) [gloss](asura) [gloss](antakāḥ)
+lead-born yakshas all iron-rakshasa-asura-destroyers
 
 ## mukta-m0-p123-v3067
-[gloss](padmarāga) [gloss](adhutāśaḥ) [gloss](ca) [gloss](indranīla) [gloss](arcana) [gloss](adhariḥ)
+ruby from-fire and indranila-worship Hari
 
 ## mukta-m0-p123-v3068
-[gloss](vaidruma) [gloss](asya) [gloss](arcana) [gloss](annāgāḥ) [gloss](śukraḥ) [gloss](kārketana) [gloss](atsadā)
+coral-mouth-worship nagas Venus karketana always
 
 ## mukta-m0-p123-v3069
-[gloss](paulastyaḥ) [gloss](jīva) [gloss](jātibhyaḥ) [gloss](aṣṭaiḥ) [gloss](ṭṭibhāt) [gloss](siddha) [gloss](kinnarāḥ)
+Paulastya Jupiter-born eight siddha-kinnaras
 
 ## mukta-m0-p123-v3070
-[gloss](aśvinau) [gloss](pakva) [gloss](mṛd) [gloss](bhūtāt) [gloss](gandharvāḥ) [gloss](dāra) [gloss](sambhavāt)
+Ashvins baked-clay-born gandharvas wife-born
 
 ## mukta-m0-p123-v3071
-[gloss](kūrma) [gloss](kauśi) [gloss](kasabhūtāt) [gloss](vāsuki) [gloss](nayināyakaḥ)
+tortoise Vasuki leader
 
 ## mukta-m0-p123-v3072
-[gloss](liṅga) [gloss](saṃsthāpana) [gloss](arcana) [gloss](at)
+linga-establishment-worship
 
 ## mukta-m0-p123-v3073
-[gloss](somapāḥ)
+soma-drinkers
 
 ## mukta-m0-p123-v3074
-[gloss](nānā) [gloss](phala) [gloss](uttha) [gloss](liṅgāni) [gloss](vidhinā) [gloss](sevitāni) [gloss](ca)
+various-fruit-born-lingas by-rite served and
 
 ## mukta-m0-p123-v3075
-[gloss](saikatāt) [gloss](viśvakarmā) [gloss](ca) [gloss](śacīśaḥ) [gloss](lavaṇaḥ) [gloss](dbhavāt)
+sand-born Vishvakarma and Shachi-lord salt-born

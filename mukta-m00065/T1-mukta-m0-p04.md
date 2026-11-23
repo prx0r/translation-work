@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p04-v76
-[gloss](sthaṇḍile) [gloss](maṇḍale) [gloss](pūjya) [gloss](syāddīkṣāsthāpanādike)
+[in-altar](sthaṇḍile) [in-circle](maṇḍale) [worshipable](pūjya) [may-be+initiation+establishment+etc](syāddīkṣāsthāpanādike)
 
 ## mukta-m0-p04-v77
-[gloss](prabhumānapradaṃ) [gloss](śāṅkhaṃ) [gloss](sainyacchinnāgadantajam)
+[lord-honor-giving](prabhumānapradaṃ) [conch](śāṅkhaṃ) [army-cut-elephant-tusk-born](sainyacchinnāgadantajam)
 
 ## mukta-m0-p04-v78
-[gloss](aṇimādinṛkulyottham) [gloss](anyonyabdārdhataḥ) [gloss](sadā)
+[aṇimā-etc-king-lineage-born](aṇimādinṛkulyottham) [mutual-year-half-from](anyonyabdārdhataḥ) [always](sadā)
 
 ## mukta-m0-p04-v79
-[gloss](śālipiṣṭodbhavaṃ) [gloss](puṣṭyai) [gloss](ṣāṣṭikaṃ) [gloss](puṣṭivardhanam)
+[rice-flour-born](śālipiṣṭodbhavaṃ) [for-nourishment](puṣṭyai) [sixty-day-rice](ṣāṣṭikaṃ) [nourishment-increasing](puṣṭivardhanam)
 
 ## mukta-m0-p04-v80
-[gloss](ripubhedakaraṃ) [gloss](maudgaṃ) [gloss](strīdaṃ) [gloss](śyāmākasambhavam)
+[enemy-splitting](ripubhedakaraṃ) [mung-bean](maudgaṃ) [woman-giving](strīdaṃ) [śyāmāka-born](śyāmākasambhavam)
 
 ## mukta-m0-p04-v81
-[gloss](sukhakṛnnāvanītaṃ) [gloss](tu) [gloss](gomayaṃ) [gloss](roganāśanam)
+[happiness-making-not-churned](sukhakṛnnāvanītaṃ) [but](tu) [cow-dung](gomayaṃ) [disease-destroying](roganāśanam)
 
 ## mukta-m0-p04-v82
-[gloss](nānāphalodbhavaṃ) [gloss](liṅgaṃ) [gloss](nānākāmapradāyakam)
+[various-fruit-born](nānāphalodbhavaṃ) [liṅga](liṅgaṃ) [various-desire-giving](nānākāmapradāyakam)
 
 ## mukta-m0-p04-v83
-[gloss](uccāṭane) [gloss](tu) [gloss](pāṃśavyaṃ) [gloss](maulaṃ) [gloss](śatrukṣayāvaham)
+[in-uprooting](uccāṭane) [but](tu) [dust-born](pāṃśavyaṃ) [root](maulaṃ) [enemy-destruction-bringing](śatrukṣayāvaham)
 
 ## mukta-m0-p04-v84
-[gloss](purakṣobhakaraṃ) [gloss](pauraṃ) [gloss](rāmaṭhaṃ) [gloss](caugryakārakam)
+[city-agitating](purakṣobhakaraṃ) [citizen](pauraṃ) [asafoetida](rāmaṭhaṃ) [fierceness-causing](caugryakārakam)
 
 ## mukta-m0-p04-v85
-[gloss](mṛdbimbodbhavamiṣṭārthaṃ) [gloss](lepāt) [gloss](syuḥ) [gloss](sarvasaṃpadaḥ)
+[clay-image-born-desired-purpose](mṛdbimbodbhavamiṣṭārthaṃ) [by-smearing](lepāt) [may-be](syuḥ) [all-wealths](sarvasaṃpadaḥ)
 
 ## mukta-m0-p04-v86
-[gloss](tāvatkāla) [gloss](tu) [gloss](saṃpūya) [gloss](visṛjya) [gloss](tāni) [gloss](ke) [gloss](kṣipet)
+[for-that-time](tāvatkāla) [but](tu) [worship](saṃpūya) [release](visṛjya) [those](tāni) [who](ke) [throw](kṣipet)
 
 ## mukta-m0-p04-v87
-[gloss](niṣkvāthya) [gloss](paṭamālepya) [gloss](saṃśoṣya) [gloss](pārimārjya) [gloss](ca)
+[boil-down](niṣkvāthya) [cloth-smear](paṭamālepya) [dry](saṃśoṣya) [wipe](pārimārjya) [and](ca)
 
 ## mukta-m0-p04-v88
-[gloss](dhātubilvarasair) [gloss](lekhyaṃ) [gloss](tridhā) [gloss](liṅgaṃ) [gloss](paṭādike)
+[with-metal-bilva-juices-drawing](dhātubilvarasairlekhyaṃ) [threefold](tridhā) [liṅga](liṅgaṃ) [on-cloth-etc](paṭādike)
 
 ## mukta-m0-p04-v89
-[gloss](balasaṃvartanīcchāyā) [gloss](dṛṣṭi) [gloss](bhāvāśritā) [gloss](sadā)
+[strength-revolving-desire](balasaṃvartanīcchāyā) [view](dṛṣṭi) [state-dependent](bhāvāśritā) [always](sadā)
 
 ## mukta-m0-p04-v90
-[gloss](karuṇādbhutaśāntāśca) [gloss](navabhāvātmikāḥ) [gloss](kvacit)
+[compassion-wonder-peace-and](karuṇādbhutaśāntāśca) [nine-emotion-natured](navabhāvātmikāḥ) [sometimes](kvacit)
 
 ## mukta-m0-p04-v91
-[gloss](svecchayā) [gloss](pūjayedetan) [gloss](mṛnmayāni) [gloss](ucyate) [gloss](adhunā)
+[by-own-will](svecchayā) [worship-this](pūjayedetan) [clay-made](mṛnmayāni) [is-called](ucyate) [now](adhunā)
 
 ## mukta-m0-p04-v92
-[gloss](sadyomantreṇa) [gloss](cāpakvaṃ) [gloss](kramānnavakarādikam)
+[instant-mantra](sadyomantreṇa) [and-unripe](cāpakvaṃ) [in-order-nine-hand-etc](kramānnavakarādikam)
 
 ## mukta-m0-p04-v93
-[gloss](dvijādijātibhiḥ) [gloss](mṛdbhiḥ) [gloss](avyaktādi) [gloss](ca) [gloss](kāmataḥ)
+[by-twice-born-etc-castes](dvijādijātibhiḥ) [with-clays](mṛdbhiḥ) [unmanifest-etc](avyaktādi) [and](ca) [by-desire](kāmataḥ)
 
 ## mukta-m0-p04-v94
-[gloss](vāpīkūpataḍāgeṣu) [gloss](dīrghikāyāḥ) [gloss](samāharet)
+[in-wells-cisterns-tanks](vāpīkūpataḍāgeṣu) [from-pond](dīrghikāyāḥ) [collect](samāharet)
 
 ## mukta-m0-p04-v95
-[gloss](puṣṭyai) [gloss](trilohagarbhaṃ) [gloss](ca) [gloss](dhanakoṣavivṛddhaye)
+[for-nourishment](puṣṭyai) [three-metal-womb](trilohagarbhaṃ) [and](ca) [for-wealth-treasury-increase](dhanakoṣavivṛddhaye)
 
 ## mukta-m0-p04-v96
-[gloss](vāmākhyena) [gloss](citāṃ) [gloss](kṛtvā) [gloss](ghoreṇa) [gloss](paridāhya) [gloss](ca)
+[by-left-named](vāmākhyena) [pyre](citāṃ) [having-made](kṛtvā) [by-fierce](ghoreṇa) [having-burned](paridāhya) [and](ca)
 
 ## mukta-m0-p04-v97
-[gloss](īśānena) [gloss](gṛhītvā) [gloss](tu) [gloss](tataḥ) [gloss](saṃskṛtya) [gloss](pūjayet)
+[by-īśāna](īśānena) [having-taken](gṛhītvā) [but](tu) [then](tataḥ) [having-purified](saṃskṛtya) [worship](pūjayet)
 
 ## mukta-m0-p04-v98
-[gloss](sarjahiṅgupuraṃbola) [gloss](matasītailameva) [gloss](ca)
+[sal-resin-asafoetida-guggulu-bola](sarjahiṅgupuraṃbola) [sesame-oil](matasītailam) [indeed](eva) [and](ca)
 
 ## mukta-m0-p04-v99
-[gloss](mṛdi) [gloss](kṣiptvā) [gloss](vyavasthāpya) [gloss](māsaṃ) [gloss](tāṃ) [gloss](parimṛdya) [gloss](ca)
+[in-clay](mṛdi) [having-thrown](kṣiptvā) [having-set](vyavasthāpya) [month](māsaṃ) [her](tāṃ) [having-rubbed](parimṛdya) [and](ca)
 
 ## mukta-m0-p04-v100
-[gloss](śaṇatatvanvitaṃ) [gloss](katvā) [gloss](mṛnmayaṃ) [gloss](ghaṭayecchubham)
+[hemp-fiber-possessing](śaṇatatvanvitaṃ) [having-made](katvā) [clay-made](mṛnmayaṃ) [should-form-auspicious](ghaṭayecchubham)
