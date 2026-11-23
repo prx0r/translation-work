@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-of-most-sinful-ones here conduct like all-abhorred
+[pāpiṣṭhānām](pāpiṣṭhānām) [ihācāro](ihācāro) [yathā](yathā) [sarvajugupsitam](sarvajugupsitam)
 
 ## mukta-m0-p07-v152
-does so after-death too supreme-bliss-happiness may-be
+[karoti](karoti) [tadvatpretyāpi](tadvatpretyāpi) [parānaṃdasukhaṃ](parānaṃdasukhaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p07-v153
-of-happiness origin no-other path O-lotus-eyed
+[sukhasya](sukhasya) [saṃbhavonānya](saṃbhavonānya) [vartmanā](vartmanā) [padmalocane](padmalocane)
 
 ## mukta-m0-p07-v154
-that indeed path-and-wrong-path another proclaimed
+[sa](sa) [eva](eva) [mārgodumārgo](mārgodumārgo) [aparaḥ](aparaḥ) [parikīrtitaḥ](parikīrtitaḥ)
 
 ## mukta-m0-p07-v155
-in-them everywhere equality linga-bliss proceeds
+[teṣu](teṣu) [sarvatra](sarvatra) [sāmyena](sāmyena) [liṃgānaṃdaḥ](liṃgānaṃdaḥ) [pravartate](pravartate)
 
 ## mukta-m0-p07-v156
-not indeed caste without-corrupt other-castes exists
+[na](na) [vai](vai) [jātiṃ](jātiṃ) [vināduṣṭāmanyajātiṣu](vināduṣṭāmanyajātiṣu) [vidyate](vidyate)
 
 ## mukta-m0-p07-v157
-false-pride-arrogance-blind false-faults-at suspicious
+[mithyābhimānadarpāndhāmithyādoṣāti](mithyābhimānadarpāndhāmithyādoṣāti) [śaṃkinī](śaṃkinī)
 
 ## mukta-m0-p07-v158
-animals-birds-beasts-etc not-such-sequence origin
+[paśupakṣimṛgādyeṣu](paśupakṣimṛgādyeṣu) [naitādṛkkrama](naitādṛkkrama) [saṃbhavaḥ](saṃbhavaḥ)
 
 ## mukta-m0-p07-v159
-not all-castes excluded existing dependent
+[na](na) [ravarjā](ravarjā) [sarvajātirvarta](sarvajātirvarta) [mānāvalaṃbinī](mānāvalaṃbinī)
 
 ## mukta-m0-p07-v160
-not word-and-meaning-form scripture-discussion demoness
+[na](na) [vācyavācakākāra](vācyavācakākāra) [śāstracarcā](śāstracarcā) [piśācikā](piśācikā)
 
 ## mukta-m0-p07-v161
-not crookedness and of-mind not hostility not pride
+[na](na) [kauṭilyaṃ](kauṭilyaṃ) [ca](ca) [manaso](manaso) [na](na) [droho](droho) [nābhimānatā](nābhimānatā)
 
 ## mukta-m0-p07-v162
-in-sleep-desire supreme sleep not-other any mind-fever
+[suṣupsāyāṃ](suṣupsāyāṃ) [paraṃ](paraṃ) [nidrā](nidrā) [nānyaḥ](nānyaḥ) [ko'pi](ko'pi) [manojvaraḥ](manojvaraḥ)
 
 ## mukta-m0-p07-v163
-various-paths-made-ascent somewhere firm-support
+[nānāmārgakṛtārohaḥ](nānāmārgakṛtārohaḥ) [kutrāpya](kutrāpya) [dṛdalaṃbanaḥ](dṛdalaṃbanaḥ)
 
 ## mukta-m0-p07-v164
-therefore in-all castes unbroken valor
+[ataḥ](ataḥ) [sarvāsu](sarvāsu) [jātiṣvapyakhaṃḍita](jātiṣvapyakhaṃḍita) [parākramam](parākramam)
 
 ## mukta-m0-p07-v165
-bliss-lord Ishana not find evil-minded
+[ānaṃdanāthamīśānaṃ](ānaṃdanāthamīśānaṃ) [na](na) [viṃdaṃtidurāśayāḥ](viṃdaṃtidurāśayāḥ)
 
 ## mukta-m0-p07-v166
-thus bliss-tantra fourth chapter
+[ityānaṃdatantre](ityānaṃdatantre) [caturthaḥ](caturthaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p07-v167
-mantra-bliss of-goddess and hear hero-served
+[maṃtramānaṃda](maṃtramānaṃda) [devyāśca](devyāśca) [śruṇuvīraniṣevite](śruṇuvīraniṣevite)
 
 ## mukta-m0-p07-v168
-all-accomplishments-causing dense-bliss great-rise
+[samastasiddhijanakasāṃdrānaṃda](samastasiddhijanakasāṃdrānaṃda) [mahodayaḥ](mahodayaḥ)
 
 ## mukta-m0-p07-v169
-to-lord thus word after speak say nine-souled
+[nāthāyeti](nāthāyeti) [padaṃ](padaṃ) [paścāt](paścāt) [procyabrūyāṃ](procyabrūyāṃ) [navātmikām](navātmikām)
 
 ## mukta-m0-p07-v170
-om-beginning great-mantra proclaimed twenty letters-having
+[praṇavādirmahāmaṃtraḥ](praṇavādirmahāmaṃtraḥ) [prokto](prokto) [viṃśati](viṃśati) [varṇavān](varṇavān)
 
 ## mukta-m0-p07-v171
-nine-soul-couple-named and great-bliss-art-souled
+[navātmamithunākhyā](navātmamithunākhyā) [ca](ca) [mahānaṃdakalātmikā](mahānaṃdakalātmikā)
 
 ## mukta-m0-p07-v172
-by-this-like mantra and by-this-like austerity
+[anayāsadṛśo](anayāsadṛśo) [maṃtrastvanayāsadṛśaṃ](maṃtrastvanayāsadṛśaṃ) [tapaḥ](tapaḥ)
 
 ## mukta-m0-p07-v173
-linga-yoni always-union by-action constantly by-me
+[liṃgayoni](liṃgayoni) [sadāsaṃgā](sadāsaṃgā) [kāreṇasatataṃ](kāreṇasatataṃ) [mayā](mayā)
 
 ## mukta-m0-p07-v174
-me without-not-know knowledge this great-rise
+[māṃ](māṃ) [vinānaivajānaṃti](vinānaivajānaṃti) [vidyāmetāṃ](vidyāmetāṃ) [mahodayām](mahodayām)
 
 ## mukta-m0-p07-v175
-taught by-me before this she to-Murari-enemy
+[upadiṣṭaṃ](upadiṣṭaṃ) [mayā](mayā) [pūrvameṣā](pūrvameṣā) [sā](sā) [ca](ca) [muradviṣe](muradviṣe)
