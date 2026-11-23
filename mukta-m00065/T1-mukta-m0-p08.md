@@ -29,7 +29,7 @@ brahmacārī-gṛhastha-tva-bheda-bhinnam dvidhā sthitam
 kāmya-kāmi-kriyām vacmi sāmpratam saṃprabhedataḥ
 
 ## mukta-m0-p08-v185
-bhukti-mukti-icchukaḥ kāmī kuryāt dīkṣā-ādi-ājñayā
+bhukti-mukti-icchukaḥ kāmī kuryāt dīkṣā-ādi-m-ājñayā
 
 ## mukta-m0-p08-v186
 pratiṣṭhā-ādi-kriyā-śeṣā tat-kṛtā saṃpraśasyate
@@ -50,7 +50,7 @@ puṣpa-pāta-abhidhānam tu maṭhī mudrābhiḥ iṣyate
 sat-vastram añjanam tailam nayate ramate hi tam
 
 ## mukta-m0-p08-v192
-mākṣāya vratinaṃ ca eva varayet matimān naraḥ
+mākṣāya vratīnam ca eva varayet matimān naraḥ
 
 ## mukta-m0-p08-v193
 laukikaḥ dravya-bhāgī syāt vidyā-bhāk pāra-laukikaḥ
