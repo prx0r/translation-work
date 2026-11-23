@@ -15,7 +15,7 @@
 "quick_gloss": "in-field"
 },
 {
-"surface": "'thavā",
+"surface": "athavā",
 "quick_gloss": "or"
 },
 {
@@ -37,15 +37,19 @@
 "tokens": [
 {
 "surface": "yathākramaṃ",
-"quick_gloss": "as-order"
+"quick_gloss": "in-order"
 },
 {
 "surface": "sadā",
 "quick_gloss": "always"
 },
 {
-"surface": "ṣaḍbhirdakṣiṇottarapāṇibhiḥ",
-"quick_gloss": "with-six"
+"surface": "ṣaḍbhiḥ",
+"quick_gloss": "by-six"
+},
+{
+"surface": "dakṣiṇottarapāṇibhiḥ",
+"quick_gloss": "right-left-hands"
 }
 ]
 },
@@ -58,27 +62,23 @@
 "tokens": [
 {
 "surface": "bibhrachaktiṃ",
-"quick_gloss": "bearing"
+"quick_gloss": "holding-power"
 },
 {
 "surface": "kare",
-"quick_gloss": "in-right-hand"
+"quick_gloss": "in-hand"
 },
 {
 "surface": "yāmye",
-"quick_gloss": "yāmye"
+"quick_gloss": "southern"
 },
 {
 "surface": "tāmracūḍaṃ",
-"quick_gloss": "copper-crested"
+"quick_gloss": "peacock"
 },
 {
-"surface": "tathā",
-"quick_gloss": "thus"
-},
-{
-"surface": "itare",
-"quick_gloss": "other"
+"surface": "tathetare",
+"quick_gloss": "and-other"
 }
 ]
 },
@@ -90,12 +90,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śikhyārūḍhastu",
+"surface": "śikhyārūḍhaḥ",
 "quick_gloss": "peacock-mounted"
 },
 {
-"surface": "śārvo'yaṃ",
-"quick_gloss": "śarva"
+"surface": "tu",
+"quick_gloss": "tu"
+},
+{
+"surface": "śārvaḥ",
+"quick_gloss": "śiva-form"
+},
+{
+"surface": "ayaṃ",
+"quick_gloss": "this"
 },
 {
 "surface": "sarvālaṅkārabhaṣitaḥ",
@@ -111,16 +119,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "śilāhemādilohairvā",
+"surface": "śilāhemādilohaiḥ",
 "quick_gloss": "stone-gold-etc-metals"
+},
+{
+"surface": "vā",
+"quick_gloss": "vā"
 },
 {
 "surface": "vṛṣaṃ",
 "quick_gloss": "bull"
 },
 {
-"surface": "kuryādyathepsitam",
-"quick_gloss": "make"
+"surface": "kuryāt",
+"quick_gloss": "should-make"
+},
+{
+"surface": "yathepsitam",
+"quick_gloss": "as-desired"
 }
 ]
 },
@@ -140,8 +156,12 @@
 "quick_gloss": "liṅgas"
 },
 {
-"surface": "prastāvādvihito",
+"surface": "prastāvāt",
 "quick_gloss": "from-context"
+},
+{
+"surface": "vihitaḥ",
+"quick_gloss": "prescribed"
 },
 {
 "surface": "vṛṣaḥ",
@@ -158,11 +178,19 @@
 "tokens": [
 {
 "surface": "liṅgatryaṃśojhitaḥ",
-"quick_gloss": "liṅga-triple-part-less"
+"quick_gloss": "liṅga-third-less"
 },
 {
-"surface": "kāryastaddvirāyativigrahaḥ",
-"quick_gloss": "made"
+"surface": "kāryaḥ",
+"quick_gloss": "should-be-made"
+},
+{
+"surface": "taddvirāyati",
+"quick_gloss": "that-twice-measure"
+},
+{
+"surface": "vigrahaḥ",
+"quick_gloss": "figure"
 }
 ]
 },
@@ -178,8 +206,16 @@
 "quick_gloss": "auspicious-opened-eye-mark"
 },
 {
-"surface": "liṅgamastakamastakaḥ",
-"quick_gloss": "liṅga-head-head"
+"surface": "liṅgam",
+"quick_gloss": "liṅga"
+},
+{
+"surface": "astakam",
+"quick_gloss": "head"
+},
+{
+"surface": "astakaḥ",
+"quick_gloss": "head"
 }
 ]
 },
@@ -191,8 +227,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dairghyāccaturaśotyaśāscāṅgulaṃ",
-"quick_gloss": "from-length"
+"surface": "dairghyāt",
+"quick_gloss": "by-length"
+},
+{
+"surface": "caturaśotyaśāḥ",
+"quick_gloss": "square-four-etc"
+},
+{
+"surface": "aṅgulaṃ",
+"quick_gloss": "finger"
 },
 {
 "surface": "tena",
@@ -200,7 +244,7 @@
 },
 {
 "surface": "kalpanam",
-"quick_gloss": "planning"
+"quick_gloss": "measurement"
 }
 ]
 },
@@ -216,8 +260,16 @@
 "quick_gloss": "eight-eye-breadth"
 },
 {
-"surface": "syāproccaistadvaktradīrghatā",
-"quick_gloss": "syā"
+"surface": "syāt",
+"quick_gloss": "syāt"
+},
+{
+"surface": "proccaiḥ",
+"quick_gloss": "high"
+},
+{
+"surface": "tadvaktradīrghatā",
+"quick_gloss": "that-face-length"
 }
 ]
 },
@@ -238,11 +290,19 @@
 },
 {
 "surface": "tārā",
-"quick_gloss": "tārā"
+"quick_gloss": "star"
 },
 {
-"surface": "syājjyotistatpañcamāṃśataḥ",
+"surface": "syāt",
 "quick_gloss": "syāt"
+},
+{
+"surface": "jyotiḥ",
+"quick_gloss": "light"
+},
+{
+"surface": "tatpañcamāṃśataḥ",
+"quick_gloss": "that-fifth-part"
 }
 ]
 },
@@ -255,7 +315,7 @@
 "tokens": [
 {
 "surface": "nāsāṅgulapramāvṛttā",
-"quick_gloss": "nose-angula-circumference"
+"quick_gloss": "nose-finger-measure-round"
 },
 {
 "surface": "dvinetraṃ",
@@ -346,7 +406,7 @@
 },
 {
 "surface": "karṇamūlasamanvitam",
-"quick_gloss": "ear-base-endowed"
+"quick_gloss": "ear-base"
 }
 ]
 },
@@ -359,11 +419,15 @@
 "tokens": [
 {
 "surface": "aṅgulārdhasamaṃ",
-"quick_gloss": "angula-half-equal"
+"quick_gloss": "finger-half"
 },
 {
-"surface": "yāvanmūlaṃ",
+"surface": "yāvat",
 "quick_gloss": "yāvat"
+},
+{
+"surface": "mūlaṃ",
+"quick_gloss": "base"
 },
 {
 "surface": "pañcakavartulam",
@@ -379,16 +443,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "karṇamūlāttu",
-"quick_gloss": "from-ear-base"
+"surface": "karṇamūlāt",
+"quick_gloss": "ear-base"
+},
+{
+"surface": "tu",
+"quick_gloss": "tu"
 },
 {
 "surface": "nāsārdhaṃ",
 "quick_gloss": "nose-half"
 },
 {
-"surface": "sūtrahāsānnayetsamam",
+"surface": "sūtrahāsāt",
 "quick_gloss": "thread-line"
+},
+{
+"surface": "nayet",
+"quick_gloss": "nayet"
+},
+{
+"surface": "samam",
+"quick_gloss": "equal"
 }
 ]
 },
@@ -408,12 +484,16 @@
 "quick_gloss": "two-eye"
 },
 {
-"surface": "syādyathāgre",
+"surface": "syāt",
 "quick_gloss": "syāt"
 },
 {
+"surface": "yathāgre",
+"quick_gloss": "as-front"
+},
+{
 "surface": "netrapādakam",
-"quick_gloss": "netra-foot"
+"quick_gloss": "eye-foot"
 }
 ]
 },
@@ -434,7 +514,7 @@
 },
 {
 "surface": "ṣaḍnetrāgrāvaṭuḥ",
-"quick_gloss": "six-eye-front-occiput"
+"quick_gloss": "six-eye-front-depression"
 },
 {
 "surface": "smṛtaḥ",
@@ -454,8 +534,12 @@
 "quick_gloss": "two-eye-height-above"
 },
 {
-"surface": "syādvṛttamūrdhvaṃ",
+"surface": "syāt",
 "quick_gloss": "syāt"
+},
+{
+"surface": "vṛttamūrdhvaṃ",
+"quick_gloss": "round-above"
 },
 {
 "surface": "yathā",
@@ -475,12 +559,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "sandhirnetrādhikaḥ",
+"surface": "sandhiḥ",
 "quick_gloss": "joint"
 },
 {
-"surface": "proktaścaturnetropajaṅghikā",
-"quick_gloss": "prokta"
+"surface": "netrādhikaḥ",
+"quick_gloss": "eye-excess"
+},
+{
+"surface": "proktaḥ",
+"quick_gloss": "proktaḥ"
+},
+{
+"surface": "caturnetropajaṅghikā",
+"quick_gloss": "four-eye-calf"
 }
 ]
 },
@@ -500,8 +592,12 @@
 "quick_gloss": "hoof-eye"
 },
 {
-"surface": "pādasyātparimāṇataḥ",
+"surface": "pādasya",
 "quick_gloss": "of-foot"
+},
+{
+"surface": "parimāṇataḥ",
+"quick_gloss": "measure"
 }
 ]
 },
@@ -518,7 +614,7 @@
 },
 {
 "surface": "tadvaca",
-"quick_gloss": "that-speech"
+"quick_gloss": "that-word"
 },
 {
 "surface": "trihīne",
@@ -526,7 +622,7 @@
 },
 {
 "surface": "copajaṅghrikā",
-"quick_gloss": "upajanghika"
+"quick_gloss": "up-calf"
 }
 ]
 },
@@ -538,12 +634,28 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṣaḍnetrāntastathājñeyā",
+"surface": "ṣaḍnetrāntaḥ",
 "quick_gloss": "six-eye-inside"
 },
 {
-"surface": "tasmātsyātpucchasantatiḥ",
-"quick_gloss": "therefore"
+"surface": "tathā",
+"quick_gloss": "thus"
+},
+{
+"surface": "jñeyā",
+"quick_gloss": "known"
+},
+{
+"surface": "tasmāt",
+"quick_gloss": "therefrom"
+},
+{
+"surface": "syāt",
+"quick_gloss": "syāt"
+},
+{
+"surface": "pucchasantatiḥ",
+"quick_gloss": "tail-continuity"
 }
 ]
 },
@@ -563,12 +675,16 @@
 "quick_gloss": "very-long"
 },
 {
-"surface": "syāttālārdhaṃ",
+"surface": "syāt",
 "quick_gloss": "syāt"
 },
 {
+"surface": "tālārdhaṃ",
+"quick_gloss": "palm-half"
+},
+{
 "surface": "keśasaṃhatiḥ",
-"quick_gloss": "hair-collection"
+"quick_gloss": "hair-mass"
 }
 ]
 }
