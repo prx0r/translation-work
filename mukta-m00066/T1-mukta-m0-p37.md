@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p37-v901
-[in-mind](citte) [thus](iti) [word](padaṃ) [having-spoken](procya) [semen](reto) [releasing-two](muṃcadvayaṃ) [should-say](vadet)
+mind(citte) thus(iti) word(padaṃ) speaking(procya) semen(reto) releasing-two(muṃcadvayaṃ) says(vadet)
 
 ## mukta-m0-p37-v902
-[thus](evaṃ) [mantra](maṃtraṃ) [while-reciting](japanneva) [linga-dance](liṃgatāṃḍavam) [should-practice](ācaret)
+thus(evaṃ) mantra(mantraṃ) reciting(japan) indeed(eva) linga-dance(liṃgatāṃḍavam) performs(ācaret)
 
 ## mukta-m0-p37-v903
-[throbbing-secret-hidden-sound](sphuradgupigupitkāraṃ) [releases](vimuṃcati) [supreme-nectar](parāmṛtam)
+sparkling(sphurad) hidden-secret(gupigupit) sound(kāraṃ) releases(vimuṃcati) supreme-nectar(parāmṛtam)
 
 ## mukta-m0-p37-v904
-[with-Yamuna-waters](yamunāsalilair) [lords](īśāḥ) [sprinkling-fruit](saṃśekaphalam) [obtains](aśnute)
+yamuna-waters(yamunāsalilaiḥ) lords(īśāḥ) bathing-fruit(saṃśeka+phalam) obtains(aśnute)
 
 ## mukta-m0-p37-v905
-[gives](datte) [Pashupati-state](paśupatatvaṃ) [and](ca) [sacrificer-form](yajamānamayīṃ) [condition](sthitim)
+gives(datte) pashupati-state(paśupatatvaṃ) also(ca) sacrificer's(yajamāna) abiding(sthitim)
 
 ## mukta-m0-p37-v906
-[of-all](sarveṣām) [thus-mantras](evamaṃtrāṇāṃ) [by-itself](svayameva) [manifestation](prakāśatā)
+of-all(sarveṣām) indeed(eva) mantras(maṃtrāṇāṃ) by-itself(svayam) indeed(eva) shines(prakāśatā)
 
 ## mukta-m0-p37-v907
-[of-poetry](kavitvasya) [supreme-limit](parākāṣṭhā) [rasa-fortune-possessing](rasasaubhāgyaśālinī)
+of-poetry(kavitvasya) supreme-limit(parākāṣṭhā) rasa-beauty(rasasaubhāgya) possessing(śālinī)
 
 ## mukta-m0-p37-v908
-[activity](pravṛttiṃ) [and](ca) [cessation](nivṛttiṃ) [and](ca) [of-beings](bhūtānām) [like](iva) [wholly](sarvaśaḥ)
+activity(pravṛttiṃ) and(ca) cessation(nivṛttiṃ) of-beings(bhūtānām) like(iva) in-all-ways(sarvaśaḥ)
 
 ## mukta-m0-p37-v909
-[rasa-accomplishment](rasasiddhiṃ) [of-sandal](pādukāyāḥ) [accomplishment](siddhiṃ) [eye-ointment](nidhyaṃjanaṃ) [likewise](tathā)
+rasa-success(rasasiddhiṃ) of-footwear(pādukāyāḥ) success(siddhiṃ) eye-ointment(nidhyaṃjanaṃ) and(tathā)
 
 ## mukta-m0-p37-v910
-[sky-travel](ākāśagamane) [and-indeed](caiva) [other-body](parakāya) [entering](praveśane)
+sky-travel(ākāśagamane) and(ca) indeed(eva) other-body(parakāya) entering(praveśane)
 
 ## mukta-m0-p37-v911
-[image-moving](pratimācalane) [and-indeed](caiva) [spirit-vetala](bhūtavetāla) [seeing](vīkṣaṇe)
+image-moving(pratimācalane) and(ca) indeed(eva) spirit-vetala(bhūtavetāla) seeing(vīkṣaṇe)
 
 ## mukta-m0-p37-v912
-[skill](pāṭavaṃ) [supreme](paramaṃ) [obtains](ghatte) [seventh-offering](saptamāhuti) [practitioner](sādhakaḥ)
+skill(pāṭavaṃ) supreme(paramaṃ) gives(ghatte) seventh-offering(saptamāhuti) adept(sādhakaḥ)
 
 ## mukta-m0-p37-v913
-[great-linga-great-lord](mahāliṃgamaheśāna) [with-own-juices-and-moon-rays](svarasaiścāṃdracaṃdrikaiḥ)
+great-linga(great-liṃgama) great-lord(maheśāna) own-juices(svarasaiḥ) moonlight(cāṃdracaṃdrikaiḥ)
 
 ## mukta-m0-p37-v914
-[seven-wells-boundary](saptakūpāraparyaṃta) [tank-fame](vāpikīrti) [increasing](vivardhanī)
+seven-wells(saptakūpāra) boundary(paryaṃta) tank-fame(vāpikīrti) increasing(vivardhanī)
 
 ## mukta-m0-p37-v915
-[this-offering](etadāhuti) [at-time](velāyāṃ) [messenger](dūtikā) [indeed](va) [condition](sthitiṃ) [I-say](bruve)
+this-offering(etadāhuti) time(velāyāṃ) messenger(dūtikā) state(sthitiṃ) says(bruve)
 
 ## mukta-m0-p37-v916
-[bliss](ānaṃda) [pleasure-abundance](sukhasaṃbhārād) [ati](ati) [slow-body](maṃtharatātanau)
+bliss-joy(ānaṃda+sukha) abundance(saṃbhārāt) very(maṃtharatā) body(tanau)
 
 ## mukta-m0-p37-v917
-[great-bliss-ocean](mahānaṃdapayorāśau) [immersion](majjanaṃ) [indeed](tu) [moment](kṣaṇe) [moment](kṣaṇe)
+great-bliss-ocean(mahānaṃda+payorāśau) immersion(majjanaṃ) moment-to-moment(kṣaṇe+kṣaṇe)
 
 ## mukta-m0-p37-v918
-[of-lover](ramaṇasya) [arm](bhujā) [embrace](śleṣaṃ) [somewhat](kiṃcit) [loosening](chlathanatā) [likewise](tathā)
+lover's-arm(ramaṇasya+bhujā) embrace(śleṣaṃ) somewhat(kiṃcit) loosening(ślathanatā) and(tathā)
 
 ## mukta-m0-p37-v919
-[hip-orb](nitaṃbabiṃbakaṃ) [afterwards](paścāt) [love-umbrella](kāmacchatrasya) [dancing](narttanam)
+hip-orb(nitaṃba+biṃbakaṃ) afterward(paścāt) love-canopy(kāmacchatrasya) dancing(narttanam)
 
 ## mukta-m0-p37-v920
-[speech-interrupted](vacovicchinna) [interrupted-repeated](vicchinnapunaruktaṃ) [and](ca) [again](bhūyasā)
+speech-broken(vacovicchinna) broken-again(vicchinnapunaruktaṃ) and(ca) repeatedly(bhūyasā)
 
 ## mukta-m0-p37-v921
-[unrelated-meaning](asaṃbaṃdhārthanaṃ) [somewhat](kiṃcit) [somewhat-dry](kiṃcicchuṣkaṃ) [and](ca) [weeping](rodanam)
+unconnected-meaning(asaṃbaṃdhārtha) something(kiṃcit) something-dry(kiṃcicchuṣkaṃ) and(ca) weeping(rodanam)
 
 ## mukta-m0-p37-v922
-[enough](alaṃ) [lord](nātha) [salutation-to-you](namastubhyaṃ) [again-folded-hands](punasteracitoṃjaliḥ)
+enough(alaṃ) lord(nātha) salutation(namastubhyaṃ) again(punar) folded-hands(aṃjaliḥ)
 
 ## mukta-m0-p37-v923
-[not](na) [endure](sahe) [your](bhavato) [speed](vegaṃ) [not](na) [endure](sahe) [your](bhavato) [passion](ratim)
+not-endure(na+sahe) your(bhavato) force(vegaṃ) not-endure(na+sahe) your(bhavato) passion(ratim)
 
 ## mukta-m0-p37-v924
-[why](kimarthaṃ) [me](māṃ) [flesh-trough](rasadroṇyāṃ) [you-drown](majjayasi) [thus](eva) [cruel](nirghṛṇā)
+why(kimarthaṃ) me(māṃ) flesh-vessel(rasadroṇyāṃ) drown(majjayasi) thus(eva) cruel(nirghṛṇā)
 
 ## mukta-m0-p37-v925
-[I-eat](khādāmi) [what](kiṃ) [your](te) [whole-body](sarvāṃgaṃ) [release-me](muṃcamāṃ) [release](muṃca) [beloved](vallabha)
+eat(khādāmi) what(kiṃ) your(te) all-limbs(sarvāṃgaṃ) release(muṃca) me(māṃ) release(muṃca) beloved(vallabha)

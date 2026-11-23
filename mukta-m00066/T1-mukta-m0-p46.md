@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p46-v1126
-[by-hero](vīreṇa) [in-them](tāsu) [to-be-done](karttavyo) [cause-collyrium-causes](heturaṃjanahetavaḥ)
+vīreṇa(by-hero) tāsu(among-them) karttavyaḥ(to-be-done) hetuḥ(cause) aṃjana(for-coloring) hetavaḥ(causes)
 
 ## mukta-m0-p46-v1127
-[by-teachers](ācāryamāṇair) [of-women](yastrīṇāṃ) [not-other-refuge](ananyaśaraṇaṃ) [mind](manaḥ)
+ācāryamāṇaiḥ(by-teaching) yaḥ(who) strīṇām(of-women) ananya-śaraṇam(not-other-refuge) manaḥ(mind)
 
 ## mukta-m0-p46-v1128
-[in-slips](skhalaneṣu) [forbearance](titikṣā) [and](ca) [of-fault](doṣasya) [re-examination](punarīkṣaṇam)
+skhalaneṣu(in-slips) titikṣā(patience) ca(and) doṣasya(of-fault) punar-īkṣaṇam(re-examination)
 
 ## mukta-m0-p46-v1129
-[policy-of-punishment](daṇḍanītiḥ) [not](nna) [tu](tu) [in-women](strīṣu) [to-cause-fall](prapātayitu) [is-worthy](marhati)
+daṇḍa-nītiḥ(punishment-policy) na(not) tu(but) strīṣu(in-women) prapātayitum(to-ruin) arhati(is-fit)
 
 ## mukta-m0-p46-v1130
-[see](paśya) [violence-with](sāhasametāsāṃ) [in-heaven-gone](svargate) [own-husband](nijabharttari)
+paśya(see) sāhasa(boldness) etāsām(of-these) svargate(gone-to-heaven) nija-bharttari(own-husband)
 
 ## mukta-m0-p46-v1131
-[by-grief-beating-harshness](khedatāḍanapāruṣyair) [they-release](muṃcantyeva) [own-life](svajīvitam)
+kheda(sorrow) tāḍana(beating) pāruṣyaiḥ(harshnesses) muñcanti(release) eva(indeed) sva-jīvitam(own-life)
 
 ## mukta-m0-p46-v1132
-[therefore](ataśca) [gentleness](mārdavaṃ) [in-them](tāsu) [first](prathamaṃ) [mind-pleasing](cittaraṃjanam)
+ataḥ(therefore) ca(and) mārdavam(gentleness) tāsu(among-them) prathamam(first) citta-raṃjanam(mind-coloring)
 
 ## mukta-m0-p46-v1133
-[extreme](atyaṃtam) [growth](abhivṛddhiṃ) [and](ca) [leading](nayat) [if](cet) [in-them](tāsu) [accomplisher](sādhakaḥ)
+atyantam(extreme) abhivṛddhim(growth) ca(and) nayet(leads) cet(if) tāsu(among-them) sādhakaḥ(accomplisher)
 
 ## mukta-m0-p46-v1134
-[middle](madhyamena) [manner](prakāreṇa) [sight](darśanaṃ) [declared](pradiśid) [wise](budhaḥ)
+madhyamena(middle) prakāreṇa(manner) darśanam(vision) pradiśet(should-show) budhaḥ(wise)
 
 ## mukta-m0-p46-v1135
-[attached](raktaḥ) [to-other-disrespect](parebhavaṃ) [goes](yāti) [disrespected](paribhūtaḥ) [how](kathaṃ) [dear](priye)
+raktaḥ(attached) parebhavam(disgrace) yāti(goes) paribhūtaḥ(humiliated) katham(how) priye(beloved)
 
 ## mukta-m0-p46-v1136
-[in-bull-like-ones](vṛṣasyaṃtīṣu) [in-them](tāsu) [mother](amba) [not](na) [vai](vai) [chief](mukhyaṃ) [ca](ca) [should-make-move](cārayet)
+vṛṣasyantīṣu(in-cows) tāsu(among-them) amba(mother) na(not) vai(indeed) mukhyam(main) ca(and) cārayet(should-graze)
 
 ## mukta-m0-p46-v1137
-[morsels](grāsān) [api](api) [ca](ca) [garments](vāsāṃsi) [as](yathā) [strength](śakti) [should-offer](nivedayet)
+grāsān(food-bits) api(also) ca(and) vāsāṃsi(clothes) yathā(according) śakti(ability) nivedayet(should-offer)
 
 ## mukta-m0-p46-v1138
-[therefore](tasmād) [hero-people-dependent](vīrajanādhīnā) [female-messenger](dūtikā) [nature](prakṛti) [auspicious](śive)
+tasmāt(therefore) vīra-jana-adhīnā(dependent-on-hero-people) dūtikā(messenger) prakṛtiḥ(nature) śive(O-Śiva)
 
 ## mukta-m0-p46-v1139
-[of-couple](daṃpatyor) [joining](ghaṭanaṃ) [should-say](brūyat) [human-aim](puruṣārtha) [single-cause](ekakāraṇam)
+daṃpatyoḥ(of-couple) ghaṭanam(union) brūyat(should-say) puruṣārtha-eka-kāraṇam(sole-cause-of-human-aim)
 
 ## mukta-m0-p46-v1140
-[mutually](anyonyam) [with-affection](anurāgeṇa) [great](mahat) [happiness](saukhyaṃ) [is-born](prajāyate)
+anyonya(mutual) anurāgeṇa(with-affection) mahat(great) saukhyam(happiness) prajāyate(arises)
 
 ## mukta-m0-p46-v1141
-[therefore](tasmāt) [for-favor](tadānukūlyāya) [own-favor](svānukūlyaṃ) [should-show](prakāśayet)
+tasmāt(therefore) tad-anukūlyāya(for-its-favor) sva-anukūlyam(own-favor) prakāśayet(should-reveal)
 
 ## mukta-m0-p46-v1142
-[by-embrace-pretext](āliṃganacchalenaiva) [happiness](sukhaṃ) [massage](saṃvāhanaṃ) [should-do](caret)
+āliṅgana-chalena(by-embrace-pretext) eva(indeed) sukham(pleasure) saṃvāhanam(massage) caret(should-do)
 
 ## mukta-m0-p46-v1143
-[should-anoint](ādāyalimpec) [foot](caraṇe) [of-messenger](dūtyāḥ) [she](sā) [not-other-goer](nānyagā) [becomes](bhavet)
+ādāya(taking) alimpet(should-anoint) caraṇe(feet) dūtyāḥ(of-messenger) sā(she) na(not) anya-gā(?) bhavet(becomes)
 
 ## mukta-m0-p46-v1144
-[being-disgusted](jugupsamāno) [not](na) [would-be](bhaved) [dispassion](vairāgyaṃ) [by-that](tena) [is-born](jāyate)
+jugupsamānaḥ(disgusted) na(not) bhavet(becomes) vairāgyam(detachment) tena(by-that) jāyate(arises)
 
 ## mukta-m0-p46-v1145
-[in-worlds](satilokeṣu) [movement](saṃcāram) [festival](utsavaṃ) [ca](ca) [step](pade) [step](pade)
+sati-lokeṣu(in-true-worlds) saṃcāram(movement) utsavam(festival) ca(and) pade pade(step-by-step)
 
 ## mukta-m0-p46-v1146
-[with-various](vividaiḥ) [juicy](sarasaiḥ) [ripe](pakvaiḥ) [fruits](phalaiḥ) [flowers](puṣpaiḥ) [fragrant](sugaṃdhibhiḥ)
+vividaiḥ(various) sarasaiḥ(juicy) pakvaiḥ(ripe) phalaiḥ(fruits) puṣpaiḥ(flowers) sugandhibhiḥ(fragrant)
 
 ## mukta-m0-p46-v1147
-[with-unctions](udvarttanaiḥ) [with-betel](catāṃbūlair) [with-collyrium](aṃjanair) [with-mouth-perfumes](mukhavāsitaiḥ)
+udvartanaiḥ(massages) ca(and) tāmbūlaiḥ(betel) aṃjanaiḥ(collyrium) mukha-vāsitaiḥ(mouth-perfumes)
 
 ## mukta-m0-p46-v1148
-[should-please](raṃjayed) [beloved](ramaṇīṃ) [wise](dhīmān) [with-enjoyments](bhogair) [bright](dīptaiḥ) [ca](ca) [o-parvati](pārvati)
+raṃjayet(should-color) ramaṇīm(beloved) dhīmān(wise) bhogaiḥ(enjoyments) dīptaiḥ(bright) ca(and) pārvati(O-Pārvatī)
 
 ## mukta-m0-p46-v1149
-[so-long](tāvaddhi) [pleased](ramanā) [eva](eva) [enjoyment-difference](bhogabhedā) [tu](tu) [should-do](pācaret)
+tāvat(until) hira-manā? eva(indeed) bhoga-bhedā? tu(but) pācaret(should-remove)
 
 ## mukta-m0-p46-v1150
-[by-praise](ślāghayā) [is-born](jāyate) [that](tacca) [with-pride](sadarpā) [fruitless](aviphalā) [women](striyaḥ)
+ślāghayā(by-praise) jāyate(arises) tat(that) ca(and) sa-darpāḥ(proud) aviphalāḥ(not-fruitless) striyaḥ(women)
