@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p36-v876
-[not](na) [anything](kiṃcidapi) [I-know](jānāmi) [lord-awaken-awaken](nāthabodhayabodhaya)
+[pada-gloss](na) [pada-gloss](kiṃcidapi) [pada-gloss](jānāmi) [pada-gloss](nāthabodhayabodhaya)
 
 ## mukta-m0-p36-v877
-[this](etat) [of-bliss-cause](saukhyānidānāya) [for-welfare-sign](svastiliṃgāya) [to-śambhu](śaṃbhave)
+[pada-gloss](etat) [pada-gloss](saukhyanidānāya) [pada-gloss](svastiliṃgāya) [pada-gloss](śaṃbhave)
 
 ## mukta-m0-p36-v878
-[to-śiva-offering](śivārpaṇamidaṃ) [may-be](bhūyāt) [again](punar) [may-be-śiva-offering](astu+śivārpaṇam)
+[pada-gloss](śivārpaṇamidaṃ) [pada-gloss](bhūyāt) [pada-gloss](punarastu) [pada-gloss](śivārpaṇam)
 
 ## mukta-m0-p36-v879
-[withered](mlānā) [lotus-stalk](padmamṛṇālī) [like](va) [garland](mālikevāsya) [on-chest](vakṣasi)
+[pada-gloss](mlānā) [pada-gloss](padmamṛṇālī) [pada-gloss](va) [pada-gloss](mālikevāsya) [pada-gloss](vakṣasi)
 
 ## mukta-m0-p36-v880
-[absorbed-absorbed](līnalīnākṣaraṃ) [afterward](paścānmaṃdamaṃdākṣaraṃ) [again](punaḥ)
+[pada-gloss](līnalīnākṣaraṃ) [pada-gloss](paścānmaṃdamaṃdākṣaraṃ) [pada-gloss](punaḥ)
 
 ## mukta-m0-p36-v881
-[thus-etc](evamādiguṇādūtyāḥ) [sixth-offering](ṣaḍāhuti) [great-festival](mahotsave)
+[pada-gloss](evamādiguṇādūtyāḥ) [pada-gloss](ṣaḍāhuti) [pada-gloss](mahotsave)
 
 ## mukta-m0-p36-v882
-[sixth-six-tastes-endowed](ṣaṣṭhiṣaḍrasasaṃpanna) [much-food-giving](bahubhojanadāyinī)
+[pada-gloss](ṣaṣṭhiṣaḍrasasaṃpanna) [pada-gloss](bahubhojanadāyinī)
 
 ## mukta-m0-p36-v883
-[six-limbed-deity-form](ṣaḍaṃgadevatā+rūpā) [by-all-ritual-doers](sarvadākriyatāṃbudhaiḥ)
+[pada-gloss](ṣaḍaṃgadevatā) [pada-gloss](rūpā) [pada-gloss](sarvadākriyatāṃbudhaiḥ)
 
 ## mukta-m0-p36-v884
-[of-heroine](nāyikāyāśca) [by-opening](vidṛtyā) [comfort-rest](sukhaśrāṃtiḥ) [proceeds](pravartate)
+[pada-gloss](nāyikāyāśca) [pada-gloss](vidṛtyā) [pada-gloss](sukhaśrāṃtiḥ) [pada-gloss](pravartate)
 
 ## mukta-m0-p36-v885
-[sugar-nectar-mixed](śarkarāmṛtasaṃmiśraṃ) [purified-soup-seasoned](śuddhiyūṣasanādhitam)
+[pada-gloss](śarkarāmṛtasaṃmiśraṃ) [pada-gloss](śuddhiyūṣasanādhitam)
 
 ## mukta-m0-p36-v886
-[himself-remainder](svayaṃtadavaśiṣṭaṃ) [ca](ca) [let-drink](pibed) [devotion-burden-bowed](bhakti+bharānataḥ)
+[pada-gloss](svayaṃtadavaśiṣṭaṃ) [pada-gloss](ca) [pada-gloss](pibed) [pada-gloss](bhakti) [pada-gloss](bharānataḥ)
 
 ## mukta-m0-p36-v887
-[mantra](maṃtraṃ) [ca](cānaṃdadevasya) [hundred-thousand](śataśovāsahasraśaḥ)
+[pada-gloss](maṃtraṃ) [pada-gloss](cānaṃdadevasya) [pada-gloss](śataśovāsahasraśaḥ)
 
 ## mukta-m0-p36-v888
-[unfit-instrument](ayuktayaṃtraḥ) [let-recite](prajaped) [deity-curse](devatāśāpamāpnuyāt)
+[pada-gloss](ayuktayaṃtraḥ) [pada-gloss](prajaped) [pada-gloss](devatāśāpamāpnuyāt)
 
 ## mukta-m0-p36-v889
-[thus](evaṃ) [recited](japte) [supreme-bliss-form](parānaṃdarūpi) [liṅga-great-lord](liṃgamaheśvaraḥ)
+[pada-gloss](evaṃ) [pada-gloss](japte) [pada-gloss](parānaṃdarūpi) [pada-gloss](liṃgamaheśvaraḥ)
 
 ## mukta-m0-p36-v890
-[as-long-as-recites](yāvajjapati) [hero-this](vīroyaṃ) [messenger-rest-cause](dūtiviśrāṃti+hetave)
+[pada-gloss](yāvajjapati) [pada-gloss](vīroyaṃ) [pada-gloss](dūtiviśrāṃti) [pada-gloss](hetave)
 
 ## mukta-m0-p36-v891
-[thus](iththaṃ) [by-steps](krameṇa) [rest](viśrāṃtiṃ) [gone](gatāyāṃ) [messenger-body](dūtikātanau)
+[pada-gloss](iththaṃ) [pada-gloss](krameṇa) [pada-gloss](viśrāṃtiṃ) [pada-gloss](gatāyāṃ) [pada-gloss](dūtikātanau)
 
 ## mukta-m0-p36-v892
-[moon-streak-purpose](caṃdrarekhārthāṃ) [by-guḷa](gulinā) [raised](pronnatā) [moon-moonlight](caṃdracaṃdrikā)
+[pada-gloss](caṃdrarekhārthāṃ) [pada-gloss](gulinā) [pada-gloss](pronnatā) [pada-gloss](caṃdracaṃdrikā)
 
 ## mukta-m0-p36-v893
-[atasī](atasī) [flower-like](puṣpasaṃkāśā) [triangle-form](trikoṇākāratāṃ) [gone](gatā)
+[pada-gloss](atasī) [pada-gloss](puṣpasaṃkāśā) [pada-gloss](trikoṇākāratāṃ) [pada-gloss](gatā)
 
 ## mukta-m0-p36-v894
-[long-flowing](ciradravāpi) [lord-one](nāthaika) [arranged](kluptairaṃguṣṭha) [kissing](cuṃbanaiḥ)
+[pada-gloss](ciradravāpi) [pada-gloss](nāthaika) [pada-gloss](kluptairaṃguṣṭha) [pada-gloss](cuṃbanaiḥ)
 
 ## mukta-m0-p36-v895
-[navel-slap-falling](nābhaucapeṭa+patanairnitaṃbe) [hand-massage](hastamardanaiḥ)
+[pada-gloss](nābhaucapeṭa) [pada-gloss](patanairnitaṃbe) [pada-gloss](hastamardanaiḥ)
 
 ## mukta-m0-p36-v896
-[own-essence](nijaṃrasaṃ) [flowing-indeed](sravaṃtyeva) [heroine-moon-moonlight](nāyikācaṃdracaṃdrikā)
+[pada-gloss](nijaṃrasaṃ) [pada-gloss](sravaṃtyeva) [pada-gloss](nāyikācaṃdracaṃdrikā)
 
 ## mukta-m0-p36-v897
-[pastry-wine-fragrance](paiṣṭimadyasamāmodaṃ) [arrow-flower-abundant-splendor](bāṇapuṣpolbaṇadyuti)
+[pada-gloss](paiṣṭimadyasamāmodaṃ) [pada-gloss](bāṇapuṣpolbaṇadyuti)
 
 ## mukta-m0-p36-v898
-[attainment-success-procreation](prāptisiddhiprajananaṃ) [all-sovereignty-named-speech](sarvaiśvaryākhyavāṅmayam)
+[pada-gloss](prāptisiddhiprajananaṃ) [pada-gloss](sarvaiśvaryākhyavāṅmayam)
 
 ## mukta-m0-p36-v899
-[all-disease-pacifying](samastavyādhiśamanaṃ) [light-cool-pure](laghuśītalanirmalam)
+[pada-gloss](samastavyādhiśamanaṃ) [pada-gloss](laghuśītalanirmalam)
 
 ## mukta-m0-p36-v900
-[then-recited](tadājapeditaṃ) [mantra](maṃtraṃ) [ca](ca) [palāmbā-presiding-deity](palāṃbādhidaivatam)
+[pada-gloss](tadājapeditaṃ) [pada-gloss](maṃtraṃ) [pada-gloss](ca) [pada-gloss](palāṃbādhidaivatam)

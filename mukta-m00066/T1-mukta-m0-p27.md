@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p27-v651
-beating chief action cause tell lord
+[pada](tāḍana) [pada](pramukhaṃ) [pada](karmataṃ) [pada](hetuṃ) [pada](kathaya) [pada](prabho)
 
 ## mukta-m0-p27-v652
-delusion moment moment-messenger enjoy playful-action
+[pada](mohaṃ) [pada](kṣaṇe) [pada](kṣaṇedūtyā) [pada](bhajaṃte) [pada](narmakarmaṇi)
 
 ## mukta-m0-p27-v653
-therefore laziness obtained not flow indeed messengers
+[pada](tasmādalasatāṃ) [pada](prāptā) [pada](na) [pada](dravaṃtyeva) [pada](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-delays pleasure give that-delay happiness-where
+[pada](vilaṃbate) [pada](ratiṃ) [pada](dātuṃ) [pada](tadvilaṃbāt) [pada](sukhaṃkutaḥ)
 
 ## mukta-m0-p27-v655
-they awakened enthusiasm begin pleasure-sacrifice
+[pada](tāḥ) [pada](prabuddhāḥ) [pada](samutsāha) [pada](mārabhaṃte) [pada](ratādhvare)
 
 ## mukta-m0-p27-v656
-messenger flows much butter-like fire
+[pada](dūtyodravati) [pada](bahuśonavanītamivāgninā)
 
 ## mukta-m0-p27-v657
-dissolution meaning-dissolution also then striking-dissolution beloved
+[pada](layamarthalayaṃ) [pada](cāpi) [pada](tadā) [pada](ghaṭṭalayaṃ) [pada](priye)
 
 ## mukta-m0-p27-v658
-moving messenger-body blissful-state lead
+[pada](acarandūtikāgātramānaṃdamayatāṃ) [pada](nayet)
 
 ## mukta-m0-p27-v659
-oneself extremely steadfast-self contemplating linga-key
+[pada](svayamatyaṃta) [pada](dhīrātmā) [pada](bhāvayan) [pada](liṃgakuṃcikām)
 
 ## mukta-m0-p27-v660
-eternal-bliss essence world-pervading contemplate
+[pada](nityānaṃdamayaṃ) [pada](tatvaṃ) [pada](jagadvyāptaṃ) [pada](viciṃtayat)
 
 ## mukta-m0-p27-v661
-this indeed great-sacrifice austerity this supreme
+[pada](ayameva) [pada](mahāyajñastapaścedamanuttamam)
 
 ## mukta-m0-p27-v662
-this vow great-merit bliss-nonduality-giving
+[pada](idaṃ) [pada](vrataṃ) [pada](mahāpuṇyamānaṃdādvaitadāyakaṃ)
 
 ## mukta-m0-p27-v663
-drop-emission named sacrifice-concluding-rite called
+[pada](biṃduvikṣaraṇaṃ) [pada](nāma) [pada](yajñāvabhṛtha) [pada](ucyate)
 
 ## mukta-m0-p27-v664
-as as time-length steadiness-bond greatly
+[pada](yathā) [pada](yathā) [pada](kāladairghyaṃ) [pada](dhairyabaṃdhena) [pada](bhūyasā)
 
 ## mukta-m0-p27-v665
-fire mouth mercury-like not steadiness-follow
+[pada](agnirmukhe) [pada](pāradavat) [pada](na) [pada](dhairyamanudhāvati)
 
 ## mukta-m0-p27-v666
-how becomes fierce-lord stiff white-limb
+[pada](kathaṃ) [pada](bhavati) [pada](caṇḍīśa) [pada](prastabdhaṃ) [pada](śuklamaṃgake)
 
 ## mukta-m0-p27-v667
-extremely wonder-causing if white retention
+[pada](atyaṃtāścaryajanakaṃ) [pada](yadiśuklasya) [pada](dhāraṇā)
 
 ## mukta-m0-p27-v668
-not even effort arises white-retention
+[pada](natukenāpi) [pada](yatnena) [pada](jāyate) [pada](śukladhāraṇā)
 
 ## mukta-m0-p27-v669
-in-kama-tantras much by-enjoyers performed
+[pada](kāmataṃtreṣu) [pada](bahuśobhogibhiryadanuṣṭhitam)
 
 ## mukta-m0-p27-v670
-that I-say great-fortunate stopping essence-accomplishments
+[pada](tadvadāmi) [pada](mahābhāge) [pada](staṃbhanaṃ) [pada](rasasaṃpadām)
 
 ## mukta-m0-p27-v671
-enjoyed somehow matured one-essence by-wise
+[pada](naṃdavyate) [pada](kathamapi) [pada](prauḍhamekorasobudhaiḥ)
 
 ## mukta-m0-p27-v672
-all elements goddess each-own-place made-refuge
+[pada](sarvepi) [pada](dhātavodevī) [pada](svasvasthāne) [pada](kṛtāśrayāḥ)
 
 ## mukta-m0-p27-v673
-in-nadi-cakras all residing even essence-lord
+[pada](nāḍīcakreṣu) [pada](sarveṣu) [pada](vasannapi) [pada](raseśvaraḥ)
 
 ## mukta-m0-p27-v674
-some say between-brows some in-heart jewel
+[pada](kecidvadaṃti) [pada](bhrūmadhye) [pada](keciddhṛdiparemaṇau)
 
 ## mukta-m0-p27-v675
-some on-urva-thigh goddess some on-hip-peak
+[pada](decidūrvostaledevi) [pada](decijjaghanasīmani)
