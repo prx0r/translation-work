@@ -8,23 +8,23 @@
 "tokens": [
 {
 "surface": "vīreṇa",
-"quick_gloss": "by-a-hero"
+"quick_gloss": "by-hero"
 },
 {
 "surface": "tāsu",
-"quick_gloss": "among-them"
+"quick_gloss": "in-them"
 },
 {
 "surface": "karttavyo",
 "quick_gloss": "to-be-done"
 },
 {
-"surface": "hetu",
+"surface": "hetuḥ",
 "quick_gloss": "cause"
 },
 {
 "surface": "raṃjana",
-"quick_gloss": "for-coloring"
+"quick_gloss": "for-pleasing"
 },
 {
 "surface": "hetavaḥ",
@@ -73,6 +73,10 @@
 "quick_gloss": "patience"
 },
 {
+"surface": "ca",
+"quick_gloss": "and"
+},
+{
 "surface": "doṣasya",
 "quick_gloss": "of-fault"
 },
@@ -103,14 +107,14 @@
 },
 {
 "surface": "strīṣu",
-"quick_gloss": "toward-women"
+"quick_gloss": "in-women"
 },
 {
-"surface": "prapātayitu",
-"quick_gloss": "to-make-fall"
+"surface": "prapātayitum",
+"quick_gloss": "to-cause-fall"
 },
 {
-"surface": "marhati",
+"surface": "arhati",
 "quick_gloss": "is-worthy"
 }
 ]
@@ -124,7 +128,7 @@
 "tokens": [
 {
 "surface": "paśya",
-"quick_gloss": "see"
+"quick_gloss": "behold"
 },
 {
 "surface": "sāhasametāsāṃ",
@@ -149,11 +153,15 @@
 "tokens": [
 {
 "surface": "khedatāḍanapāruṣyaiḥ",
-"quick_gloss": "by-grief"
+"quick_gloss": "by-grief-beating-harshness"
 },
 {
-"surface": "muṃcantyeva",
+"surface": "muṃcanti",
 "quick_gloss": "they-release"
+},
+{
+"surface": "eva",
+"quick_gloss": "eva"
 },
 {
 "surface": "svajīvitam",
@@ -178,7 +186,7 @@
 },
 {
 "surface": "tāsu",
-"quick_gloss": "toward-them"
+"quick_gloss": "in-them"
 },
 {
 "surface": "prathamaṃ",
@@ -186,7 +194,7 @@
 },
 {
 "surface": "cittaraṃjanam",
-"quick_gloss": "mind-coloring"
+"quick_gloss": "mind-pleasing"
 }
 ]
 },
@@ -219,7 +227,7 @@
 },
 {
 "surface": "tāsu",
-"quick_gloss": "among-them"
+"quick_gloss": "in-them"
 },
 {
 "surface": "sādhakaḥ",
@@ -244,11 +252,15 @@
 },
 {
 "surface": "darśanaṃ",
-"quick_gloss": "seeing"
+"quick_gloss": "sight"
 },
 {
-"surface": "pradiśidbudhaḥ",
+"surface": "pradiśat",
 "quick_gloss": "declared"
+},
+{
+"surface": "budhaḥ",
+"quick_gloss": "wise"
 }
 ]
 },
@@ -265,7 +277,7 @@
 },
 {
 "surface": "parebhavaṃ",
-"quick_gloss": "to-other's-disgrace"
+"quick_gloss": "to-other-disgrace"
 },
 {
 "surface": "yāti",
@@ -281,7 +293,7 @@
 },
 {
 "surface": "priye",
-"quick_gloss": "beloved"
+"quick_gloss": "dear"
 }
 ]
 },
@@ -293,8 +305,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vṛṣasyaṃtīṣu",
-"quick_gloss": "of-bull"
+"surface": "vṛṣasyantīṣu",
+"quick_gloss": "in-bull-like"
 },
 {
 "surface": "tāsu",
@@ -355,7 +367,7 @@
 },
 {
 "surface": "śakti",
-"quick_gloss": "ability"
+"quick_gloss": "strength"
 },
 {
 "surface": "nivedayet",
@@ -371,7 +383,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmād",
+"surface": "tasmāt",
 "quick_gloss": "therefore"
 },
 {
@@ -388,7 +400,7 @@
 },
 {
 "surface": "śive",
-"quick_gloss": "auspicious-one"
+"quick_gloss": "auspicious"
 }
 ]
 },
@@ -400,16 +412,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "daṃpatyor",
+"surface": "daṃpatyoḥ",
 "quick_gloss": "of-couple"
 },
 {
 "surface": "ghaṭanaṃ",
-"quick_gloss": "joining"
+"quick_gloss": "union"
 },
 {
 "surface": "brūyat",
-"quick_gloss": "let-say"
+"quick_gloss": "should-say"
 },
 {
 "surface": "puruṣārtha",
@@ -446,7 +458,7 @@
 },
 {
 "surface": "prajāyate",
-"quick_gloss": "is-born"
+"quick_gloss": "arises"
 }
 ]
 },
@@ -471,7 +483,7 @@
 },
 {
 "surface": "prakāśayet",
-"quick_gloss": "let-show"
+"quick_gloss": "should-show"
 }
 ]
 },
@@ -483,12 +495,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āliṃganacchalenaiva",
+"surface": "āliṃganacchalena",
 "quick_gloss": "by-embrace-pretext"
 },
 {
+"surface": "eva",
+"quick_gloss": "eva"
+},
+{
 "surface": "sukhaṃ",
-"quick_gloss": "happiness"
+"quick_gloss": "pleasure"
 },
 {
 "surface": "saṃvāhanaṃ",
@@ -496,7 +512,7 @@
 },
 {
 "surface": "caret",
-"quick_gloss": "let-do"
+"quick_gloss": "should-do"
 }
 ]
 },
@@ -508,8 +524,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ādāyalimpec",
-"quick_gloss": "let-anoint"
+"surface": "ādāya",
+"quick_gloss": "should-anoint"
+},
+{
+"surface": "limpa",
+"quick_gloss": "limb"
 },
 {
 "surface": "caraṇe",
@@ -525,7 +545,7 @@
 },
 {
 "surface": "nānyagā",
-"quick_gloss": "not-other-going"
+"quick_gloss": "not-other-goer"
 },
 {
 "surface": "bhavet",
@@ -541,16 +561,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "jugupsamāno",
-"quick_gloss": "being-disgusted"
+"surface": "jugupsamānaḥ",
+"quick_gloss": "disgusted"
 },
 {
 "surface": "na",
 "quick_gloss": "not"
 },
 {
-"surface": "bhaved",
-"quick_gloss": "would-be"
+"surface": "bhavet",
+"quick_gloss": "becomes"
 },
 {
 "surface": "vairāgyaṃ",
@@ -558,11 +578,11 @@
 },
 {
 "surface": "tena",
-"quick_gloss": "thereby"
+"quick_gloss": "by-that"
 },
 {
 "surface": "jāyate",
-"quick_gloss": "is-born"
+"quick_gloss": "arises"
 }
 ]
 },
@@ -575,7 +595,7 @@
 "tokens": [
 {
 "surface": "satilokeṣu",
-"quick_gloss": "in-worlds"
+"quick_gloss": "with-tilaka-worlds"
 },
 {
 "surface": "saṃcāram",
@@ -590,12 +610,8 @@
 "quick_gloss": "ca"
 },
 {
-"surface": "pade",
-"quick_gloss": "step"
-},
-{
-"surface": "pade",
-"quick_gloss": "step"
+"surface": "pade pade",
+"quick_gloss": "at-every-step"
 }
 ]
 },
@@ -641,19 +657,19 @@
 "tokens": [
 {
 "surface": "udvarttanaiḥ",
-"quick_gloss": "with-massages"
+"quick_gloss": "with-unctions"
 },
 {
-"surface": "catāṃbūlaiḥ",
+"surface": "tāṃbūlaiḥ",
 "quick_gloss": "with-betel"
 },
 {
-"surface": "aṃjanaiḥ",
+"surface": "añjanaiḥ",
 "quick_gloss": "with-collyrium"
 },
 {
 "surface": "mukhavāsitaiḥ",
-"quick_gloss": "mouth-perfumes"
+"quick_gloss": "with-mouth-perfumes"
 }
 ]
 },
@@ -665,8 +681,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "raṃjayed",
-"quick_gloss": "let-color"
+"surface": "raṃjayet",
+"quick_gloss": "should-please"
 },
 {
 "surface": "ramaṇīṃ",
@@ -723,7 +739,7 @@
 },
 {
 "surface": "pācaret",
-"quick_gloss": "let-do"
+"quick_gloss": "should-do"
 }
 ]
 },
@@ -740,7 +756,7 @@
 },
 {
 "surface": "jāyate",
-"quick_gloss": "is-born"
+"quick_gloss": "arises"
 },
 {
 "surface": "tac",
