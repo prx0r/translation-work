@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p07-v151
-[of-most-sinful](pāpiṣṭhānām) [conduct-here](ihācāro) [as](yathā) [by-all-abhorred](sarvajugupsitam)
+[pāpiṣṭhānām](pāpiṣṭhānām) [ihācāraḥ](ihācāraḥ) [yathā](yathā) [sarva+jugupsitam](sarvajugupsitam)
 
 ## mukta-m0-p07-v152
-[does](karoti) [thus](tadvat) [after-death-also](pretyāpi) [supreme-bliss-happiness](parānaṃdasukhaṃ) [may-be](bhavet)
+[karoti](karoti) [tadvat](tadvat) [pretyāpi](pretyāpi) [parānanda+sukham](parānaṃdasukhaṃ) [bhavet](bhavet)
 
 ## mukta-m0-p07-v153
-[of-happiness](sukhasya) [origin](saṃbhavo) [not-other](nānya) [by-path](vartmanā) [lotus-eyed](padmalocane)
+[sukhasya](sukhasya) [saṃbhavaḥ](saṃbhavo) [na+anya](nānya) [vartmanā](vartmanā) [padmalocane](padmalocane)
 
 ## mukta-m0-p07-v154
-[that](sa) [indeed](eva) [path](mārgo) [wrong-path](dumārgo) [another](aparaḥ) [is-called](parikīrtitaḥ)
+[saḥ](sa) [eva](eva) [mārgaḥ](mārgo) [udmārgaḥ](udmārgo) [aparaḥ](aparaḥ) [parikīrtitaḥ](parikīrtitaḥ)
 
 ## mukta-m0-p07-v155
-[among-them](teṣu) [everywhere](sarvatra) [with-equality](sāmyena) [linga-bliss](liṃgānaṃdaḥ) [proceeds](pravartate)
+[teṣu](teṣu) [sarvatra](sarvatra) [sāmyena](sāmyena) [liṃgānandaḥ](liṃgānaṃdaḥ) [pravartate](pravartate)
 
 ## mukta-m0-p07-v156
-[not](na) [indeed](vai) [caste](jātiṃ) [without](vinā) [corrupt](duṣṭām) [in-other-castes](anyajātiṣu) [is-found](vidyate)
+[na](na) [vai](vai) [jātim](jātiṃ) [vinā](vinā) [duṣṭām](duṣṭām) [anyajātiṣu](anyajātiṣu) [vidyate](vidyate)
 
 ## mukta-m0-p07-v157
-[false-pride-arrogance-blind](mithyābhimānadarpāndhā) [false-faults](mithyādoṣāti) [suspicious](śaṃkinī)
+[mithyābhimāna+darpa+andhā](mithyābhimānadarpāndhā) [mithyā+doṣāti](mithyādoṣāti) [śaṃkinī](śaṃkinī)
 
 ## mukta-m0-p07-v158
-[beasts-birds-animals-etc](paśupakṣimṛgādyeṣu) [not-such-order](naitādṛkkrama) [origin](saṃbhavaḥ)
+[paśu+pakṣi+mṛga+ādyeṣu](paśupakṣimṛgādyeṣu) [na](na) [etādṛk+krama](etādṛkkrama) [saṃbhavaḥ](saṃbhavaḥ)
 
 ## mukta-m0-p07-v159
-[not](na) [except](ravarjā) [all-castes](sarvajātir) [existing](varta) [dependent](mānāvalaṃbinī)
+[na](na) [ravarjā](ravarjā) [sarvajātiḥ](sarvajātir) [varta+mānā+valaṃbinī](vartamānāvalaṃbinī)
 
 ## mukta-m0-p07-v160
-[not](na) [word-and-meaning-form](vācyavācakākāra) [scriptural-discussion](śāstracarcā) [demonic](piśācikā)
+[na](na) [vācya+vācaka+ākāra](vācyavācakākāra) [śāstra+carcā](śāstracarcā) [piśācikā](piśācikā)
 
 ## mukta-m0-p07-v161
-[not](na) [crookedness](kauṭilyaṃ) [and](ca) [of-mind](manaso) [not](na) [malice](droho) [not](na) [pride](abhimānatā)
+[na](na) [kauṭilyaṃ](kauṭilyaṃ) [ca](ca) [manasaḥ](manaso) [na](na) [drohaḥ](droho) [na](na) [abhimānatā](abhimānatā)
 
 ## mukta-m0-p07-v162
-[in-sleepiness](suṣupsāyāṃ) [supreme](paraṃ) [sleep](nidrā) [not-other](nānyaḥ) [any](ko'pi) [mental-fever](manojvaraḥ)
+[suṣupsāyām](suṣupsāyāṃ) [paraṃ](paraṃ) [nidrā](nidrā) [na](na) [anyaḥ](nānyaḥ) [kaḥ+api](ko'pi) [manojvaraḥ](manojvaraḥ)
 
 ## mukta-m0-p07-v163
-[various-paths-ascent](nānāmārgakṛtārohaḥ) [anywhere](kutrāpya) [firm-support](dṛdalaṃbanaḥ)
+[nānā+mārga+kṛta+ārohaḥ](nānāmārgakṛtārohaḥ) [kutrāpi](kutrāpya) [dṛḍha+laṃbanaḥ](dṛdalaṃbanaḥ)
 
 ## mukta-m0-p07-v164
-[therefore](ataḥ) [in-all-castes](sarvāsu) [jatis](jātiṣvapyakhaṃḍita) [prowess](parākramam)
+[ataḥ](ataḥ) [sarvāsu](sarvāsu) [jātiṣu](jātiṣvapyakhaṃḍita) [api](api) [akhaṃḍita](akhaṃḍita) [parākramam](parākramam)
 
 ## mukta-m0-p07-v165
-[bliss-lord](ānaṃdanātham) [ruler](īśānaṃ) [not](na) [find](viṃdaṃti) [evil-minded](durāśayāḥ)
+[ānanda+nātham](ānaṃdanātham) [īśānam](īśānaṃ) [na](na) [viṃdanti](viṃdaṃti) [durāśayāḥ](durāśayāḥ)
 
 ## mukta-m0-p07-v166
-[thus](ityānaṃdatantre) [fourth](caturthaḥ) [chapter](paṭalaḥ)
+[ityānanda+tantre](ityānaṃdatantre) [caturthaḥ](caturthaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p07-v167
-[mantra-bliss](maṃtramānaṃda) [of-goddess](devyāśca) [hear](śruṇuvīraniṣevite)
+[maṃtra+mānanda](maṃtramānaṃda) [devyāḥ](devyāśca) [ca](ca) [śruṇu+vīra+niṣevite](śruṇuvīraniṣevite)
 
 ## mukta-m0-p07-v168
-[all-accomplishments-causing](samastasiddhijanakasāṃdrānaṃda) [great-rise](mahodayaḥ)
+[samasta+siddhi+janaka](samastasiddhijanaka) [sāṃdra+ānanda](sāṃdrānaṃda) [mahodayaḥ](mahodayaḥ)
 
 ## mukta-m0-p07-v169
-[to-lord](nāthāyeti) [word](padaṃ) [afterwards](paścāt) [I-shall-speak](procyabrūyāṃ) [nine-formed](navātmikām)
+[nāthāya](nāthāyeti) [iti](iti) [padaṃ](padaṃ) [paścāt](paścāt) [procyabrūyām](procyabrūyāṃ) [navātmikām](navātmikām)
 
 ## mukta-m0-p07-v170
-[om-beginning](praṇavādirmahāmaṃtraḥ) [declared](prokto) [twenty](viṃśati) [letters-having](varṇavān)
+[praṇava+ādiḥ](praṇavādirmahāmaṃtraḥ) [mahāmaṃtraḥ](mahāmaṃtraḥ) [proktaḥ](prokto) [viṃśati](viṃśati) [varṇavān](varṇavān)
 
 ## mukta-m0-p07-v171
-[nine-formed-couple-named](navātmamithunākhyā) [and](ca) [great-bliss-art-formed](mahānaṃdakalātmikā)
+[navātmamithunākhyā](navātmamithunākhyā) [ca](ca) [mahānaṃdakalātmikā](mahānaṃdakalātmikā)
 
 ## mukta-m0-p07-v172
-[by-this-like](anayāsadṛśo) [mantra](maṃtrastvanayāsadṛśaṃ) [austerity](tapaḥ)
+[anayā+sadṛśaḥ](anayāsadṛśo) [maṃtraḥ](maṃtrastvanayāsadṛśaṃ) [tapaḥ](tapaḥ)
 
 ## mukta-m0-p07-v173
-[linga-yoni](liṃgayoni) [always-united](sadāsaṃgā) [by-action](kāreṇasatataṃ) [by-me](mayā)
+[liṃga+yoni](liṃgayoni) [sadā+saṃgā](sadāsaṃgā) [kāreṇa+satataṃ](kāreṇasatataṃ) [mayā](mayā)
 
 ## mukta-m0-p07-v174
-[me](māṃ) [without-not](vinānaivajānaṃti) [vidya](vidyāmetāṃ) [great-rise](mahodayām)
+[māṃ](māṃ) [vinā+na+eva](vinānaivajānaṃti) [jānaṃti](jānaṃti) [vidyām](vidyāmetāṃ) [etām](etāṃ) [mahodayām](mahodayām)
 
 ## mukta-m0-p07-v175
-[taught](upadiṣṭaṃ) [by-me](mayā) [before](pūrvameṣā) [not](nā) [ca](ca) [to-muradviṣ](muradviṣe)
+[upadiṣṭaṃ](upadiṣṭaṃ) [mayā](mayā) [pūrvam](pūrvameṣā) [eṣā](eṣā) [sā](sā) [ca](ca) [muradviṣe](muradviṣe)
