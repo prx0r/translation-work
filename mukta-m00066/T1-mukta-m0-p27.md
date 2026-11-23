@@ -5,73 +5,73 @@
 [beating](tāḍana) [principal](pramukhaṃ) [action](karmataṃ) [cause](hetuṃ) [tell](kathaya) [lord](prabho)
 
 ## mukta-m0-p27-v652
-[delusion](mohaṃ) [moment](kṣaṇe) [moment](kṣaṇe) [messenger](dūtyā) [worship](bhajaṃte) [playful-action](narmakarmaṇi)
+[delusion](mohaṃ) [moment](kṣaṇe) [moment-messenger](kṣaṇedūtyā) [enjoy](bhajaṃte) [playful-action](narmakarmaṇi)
 
 ## mukta-m0-p27-v653
-[therefore](tasmāt) [laziness](alasatāṃ) [obtained](prāptā) [not](na) [flow](dravaṃtyeva) [messengers](dūtikāḥ)
+[therefore-laziness](tasmādalasatāṃ) [obtained](prāptā) [not](na) [melt](dravaṃtyeva) [messengers](dūtikāḥ)
 
 ## mukta-m0-p27-v654
-[delays](vilaṃbate) [pleasure](ratiṃ) [to-give](dātuṃ) [from-that-delay](tadvilaṃbāt) [happiness-where](sukhaṃkutaḥ)
+[delays](vilaṃbate) [pleasure](ratiṃ) [to-give](dātuṃ) [from-that-delay](tadvilaṃbāt) [where-pleasure](sukhaṃkutaḥ)
 
 ## mukta-m0-p27-v655
-[they](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [pleasure-rite](ratādhvare)
+[those](tāḥ) [awakened](prabuddhāḥ) [enthusiasm](samutsāha) [begin](mārabhaṃte) [love-rite](ratādhvare)
 
 ## mukta-m0-p27-v656
-[messenger](dūtyā) [rushes](udravati) [much](bahuśaḥ) [like-butter](navanītam) [by-fire](ivāgninā)
+[messenger-runs](dūtyodravati) [much](bahuśo) [butter-like](navanītam) [by-fire](ivāgninā)
 
 ## mukta-m0-p27-v657
-[dissolution](layam) [meaning-dissolution](arthalayaṃ) [and](cāpi) [then](tadā) [strike-dissolution](ghaṭṭalayaṃ) [beloved](priye)
+[dissolution](layam) [meaning-dissolution](arthalayaṃ) [and](cāpi) [then](tadā) [striking-dissolution](ghaṭṭalayaṃ) [beloved](priye)
 
 ## mukta-m0-p27-v658
-[not-moving](acaran) [messenger-limb](dūtikāgātram) [bliss-filled](ānaṃdamayatāṃ) [lead](nayet)
+[non-moving-messenger-body](acarandūtikāgātram) [blissful-state](ānaṃdamayatāṃ) [lead](nayet)
 
 ## mukta-m0-p27-v659
-[self](svayam) [very](atyaṃta) [steadfast-soul](dhīrātmā) [contemplating](bhāvayan) [linga-key](liṃgakuṃcikām)
+[self](svayam) [extreme](atyaṃta) [steadfast-soul](dhīrātmā) [meditating](bhāvayan) [linga-key](liṃgakuṃcikām)
 
 ## mukta-m0-p27-v660
-[eternal-bliss-filled](nityānaṃdamayaṃ) [truth](tatvaṃ) [world-pervading](jagadvyāptaṃ) [considering](viciṃtayat)
+[eternal-bliss](nityānaṃdamayaṃ) [principle](tatvaṃ) [world-pervading](jagadvyāptaṃ) [contemplate](viciṃtayat)
 
 ## mukta-m0-p27-v661
-[this](ayameva) [great-sacrifice](mahāyajñaḥ) [austerity](tapaḥ) [this](cedam) [supreme](anuttamam)
+[this-indeed](ayameva) [great-sacrifice](mahāyajñaḥ) [austerity](tapaḥ) [this-supreme](cedamanuttamam)
 
 ## mukta-m0-p27-v662
-[this](idaṃ) [vow](vrataṃ) [great-meritorious](mahāpuṇyam) [bliss-nonduality-giving](ānaṃdādvaitadāyakaṃ)
+[this](idaṃ) [vow](vrataṃ) [great-merit](mahāpuṇyam) [bliss-nonduality-giving](ānaṃdādvaitadāyakaṃ)
 
 ## mukta-m0-p27-v663
-[bindu-emission](biṃduvikṣaraṇaṃ) [named](nāma) [sacrifice-completion](yajñāvabhṛtha) [called](ucyate)
+[drop-emission](biṃduvikṣaraṇaṃ) [named](nāma) [sacrifice-bath](yajñāvabhṛtha) [is-called](ucyate)
 
 ## mukta-m0-p27-v664
 [as](yathā) [as](yathā) [time-length](kāladairghyaṃ) [steadiness-bond](dhairyabaṃdhena) [more](bhūyasā)
 
 ## mukta-m0-p27-v665
-[fire](agniḥ) [in-mouth](mukhe) [mercury-like](pāradavat) [not](na) [steadiness](dhairyam) [follows](anudhāvati)
+[fire-in-mouth](agnirmukhe) [mercury-like](pāradavat) [not](na) [steadiness-follows](dhairyamanudhāvati)
 
 ## mukta-m0-p27-v666
-[how](kathaṃ) [becomes](bhavati) [caṇḍīśa](caṇḍīśa) [firm](prastabdhaṃ) [white-limb](śuklamaṃgake)
+[how](kathaṃ) [becomes](bhavati) [Candisa](caṇḍīśa) [erect](prastabdhaṃ) [white-limb](śuklamaṃgake)
 
 ## mukta-m0-p27-v667
-[extremely](atyaṃta) [wonder-producing](āścaryajanakaṃ) [if](yadi) [white](śuklasya) [retention](dhāraṇā)
+[extreme-wonder-causing](atyaṃtāścaryajanakaṃ) [if-white-retention](yadiśuklasya dhāraṇā)
 
 ## mukta-m0-p27-v668
-[not](natu) [even](kenāpi) [effort](yatnena) [arises](jāyate) [white-retention](śukladhāraṇā)
+[not-easily](natukenāpi) [effort](yatnena) [arises](jāyate) [white-retention](śukladhāraṇā)
 
 ## mukta-m0-p27-v669
-[in-kāma-tantras](kāmataṃtreṣu) [much](bahuśaḥ) [by-enjoyers](bhogibhir) [what](yad) [performed](anuṣṭhitam)
+[in-kama-tantras](kāmataṃtreṣu) [much-by-enjoyers](bahuśobhogibhir) [what-practiced](yadanuṣṭhitam)
 
 ## mukta-m0-p27-v670
-[that](tadvad) [say](āmi) [great-fortunate](mahābhāge) [stopping](staṃbhanaṃ) [essence-excellence](rasasaṃpadām)
+[that-I-say](tadvadāmi) [great-fortunate](mahābhāge) [stopping](staṃbhanaṃ) [essence-prosperity](rasasaṃpadām)
 
 ## mukta-m0-p27-v671
-[not](naṃda) [vyate](vyate) [somehow](kathamapi) [mature](prauḍham) [one](ekorasobudhaiḥ)
+[is-praised](naṃdavyate) [somehow](kathamapi) [mature-one-essence](prauḍhamekorasobudhaiḥ)
 
 ## mukta-m0-p27-v672
-[all](sarvepi) [tissues](dhātavo) [goddess](devī) [in-own-place](svasvasthāne) [made-support](kṛtāśrayāḥ)
+[all-even](sarvepi) [elements-O-goddess](dhātavodevī) [own-place](svasvasthāne) [made-support](kṛtāśrayāḥ)
 
 ## mukta-m0-p27-v673
-[in-nāḍī-cakras](nāḍīcakreṣu) [all](sarveṣu) [dwelling](vasannapi) [mercury-lord](raseśvaraḥ)
+[in-nadi-cakras](nāḍīcakreṣu) [all](sarveṣu) [dwelling-even](vasannapi) [lord-of-essence](raseśvaraḥ)
 
 ## mukta-m0-p27-v674
-[some](kecid) [say](vadaṃti) [between-brows](bhrūmadhye) [some](kecid) [in-heart-gem](hṛdiparemaṇau)
+[some-say](kecidvadaṃti) [between-brows](bhrūmadhye) [some-in-heart-jewel](keciddhṛdiparemaṇau)
 
 ## mukta-m0-p27-v675
-[some](decid) [on-urva-threshold](ūrvostale) [goddess](devi) [some](decid) [on-hip-joint](jaghanasīmani)
+[some-on-durvā-tip](decidūrvostaledevi) [some-on-hip-crest](decijjaghanasīmani)
