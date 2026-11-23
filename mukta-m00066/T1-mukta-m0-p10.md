@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p10-v226
-[lakṣa-mātraṃ](lakṣamātraṃ) [japet](japenmantraṃ) [mantraṃ](mantraṃ) [tataḥ](tataḥ) [siddhaḥ](siddho) [bhavet](bhavennaraḥ) [naraḥ](naraḥ)
+[hundred-thousand-measure](lakṣamātraṃ) [should-chant-mantra](japenmantraṃ) [then](tataḥ) [accomplished](siddho) [becomes-man](bhavennaraḥ)
 
 ## mukta-m0-p10-v227
-[tat-daśāṃśaṃ](taddaśāṃśaṃ) [ca](ca) [kastūrī](kastūrī) [karpūrābhyāṃ](karpūrābhyāṃ) [su-vāsitaiḥ](suvāsitaiḥ)
+[that-tenth-part](taddaśāṃśaṃ) [and](ca) [musk](kastūrī) [with-camphor](karpūrābhyāṃ) [with-fragrant](suvāsitaiḥ)
 
 ## mukta-m0-p10-v228
-[tat-daśāṃśaṃ](taddaśāṃśaṃ) [mahā-devi](mahādevi) [brāhmaṇān](brāhmaṇān) [bhojayet](bhojayet) [priye](priye)
+[that-tenth-part](taddaśāṃśaṃ) [great-goddess](mahādevi) [brahmins](brāhmaṇān) [should-feed](bhojayet) [dear-one](priye)
 
 ## mukta-m0-p10-v229
-[hṛdyaiḥ](hṛdyaiḥ) [pāyasa](pāyasa) [pūpa-ādyaiḥ](pūpādyaiḥ) [rasaiḥ](rasaiścaiva) [ca](ca) [eva](eva) [rasāyanaiḥ](rasāyanaiḥ)
+[with-pleasant](hṛdyaiḥ) [rice-pudding](pāyasa) [with-cakes-etc](pūpādyaiḥ) [with-juices-and-indeed](rasaiścaiva) [with-rejuvenatives](rasāyanaiḥ)
 
 ## mukta-m0-p10-v230
-[madyaiḥ](madyairmāṃsaiśca) [māṃsaiḥ](māṃsaiśca) [ca](ca) [matsyaiḥ](matsyaiśca) [ca](ca) [nānā-vastu-upabṛṃhitaiḥ](nānāvastūpabṛṃhitaiḥ)
+[with-wines-and-meats-and](madyairmāṃsaiśca) [with-fishes-and](matsyaiśca) [with-various-objects-filled](nānāvastūpabṛṃhitaiḥ)
 
 ## mukta-m0-p10-v231
-[arcayet](arcayed) [yoginī](yoginī) [vīrān](vīrān) [daśāṃśaṃ](daśāṃśaṃ) [mantra-sādhakaḥ](maṃtrasādhakaḥ)
+[should-worship](arcayed) [yoginis](yoginī) [heroes](vīrān) [tenth-part](daśāṃśaṃ) [mantra-practitioner](maṃtrasādhakaḥ)
 
 ## mukta-m0-p10-v232
-[ānanda-bhogān](ānaṃdabhogān) [bhugjānaḥ](bhugjānaḥ) [kṣoṇyāṃ](kṣoṇyāṃ) [khelati](khelati) [kāyavat](kāyavat)
+[bliss-enjoyments](ānaṃdabhogān) [enjoying](bhugjānaḥ) [on-earth](kṣoṇyāṃ) [plays](khelati) [with-body](kāyavat)
 
 ## mukta-m0-p10-v233
-[ati-guhyatva](atiguhyātva) [yā](yā) [rakṣyā](rakṣyā) [na](na) [deyā](deyā) [yasya-kasyacit](yasyakasyacit)
+[extreme-secrecy](atiguhyātva) [which](yā) [to-be-protected](rakṣyā) [not](na) [to-be-given](deyā) [to-anyone](yasyakasyacit)
 
 ## mukta-m0-p10-v234
-[aku-tarka](akutarka) [pravīṇāya](pravīṇāya) [tattva-niṣṭhāya](tattvaniṣṭhāyadhīmate) [dhīmate](dhīmate)
+[without-fallacious-reasoning](akutarka) [to-skilled-one](pravīṇāya) [to-truth-devoted-wise-one](tattvaniṣṭhāyadhīmate)
 
 ## mukta-m0-p10-v235
-[eṣā](eṣā) [vidyā](vidyā) [pradātavyā](pradātavyā) [satyaṃ](satyaṃ) [satyaṃ](satyaṃ) [vadāmi](vadāmyaham) [aham](aham)
+[this](eṣā) [knowledge](vidyā) [to-be-given](pradātavyā) [truth](satyaṃ) [truth](satyaṃ) [I-speak](vadāmyaham)
 
 ## mukta-m0-p10-v236
-[etat](etad) [vidyā-samaṃ](vidyāsamaṃ) [na](nāsti) [asti](asti) [na](na) [bhūtaṃ](bhūtaṃ) [na](na) [bhaviṣyati](bhaviṣyati)
+[this](etad) [equal-to-knowledge](vidyāsamaṃ) [is-not](nāsti) [not](na) [past](bhūtaṃ) [not](na) [future](bhaviṣyati)
 
 ## mukta-m0-p10-v237
-[imām](imāmabhyasyataḥ) [abhyasyataḥ](abhyasyataḥ) [puṃsaḥ](puṃso) [mokṣa-mārgaḥ](mokṣamārgaḥ) [kara-sthitaḥ](karasthitaḥ)
+[practicing-this](imāmabhyasyataḥ) [of-man](puṃso) [liberation-path](mokṣamārgaḥ) [in-hand](karasthitaḥ)
 
 ## mukta-m0-p10-v238
-[ityānaṃdataṃtre](ityānaṃdataṃtre) [paṃcamaḥ](paṃcamaḥ) [paṭalaḥ](paṭalaḥ)
+[thus-in-Ananda-tantra](ityānaṃdataṃtre) [fifth](paṃcamaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p10-v239
-[yāga-rāja-kramaḥ](yāgarājakramaḥ) [sarva-puruṣārthaṃ](sarvapuruṣārthaṃ) [mahā-phalam](mahāphalam)
+[king-of-sacrifices-sequence](yāgarājakramaḥ) [for-all-human-aims](sarvapuruṣārthaṃ) [great-fruit](mahāphalam)
 
 ## mukta-m0-p10-v240
-[varābhaya-yutaṃ](varābhayayutaṃ) [śāṃtaṃ](śāṃtaṃ) [śaktyā-śliṣṭaṃ](śaktyāśliṣṭaṃ) [manoharam](manoharam)
+[endowed-with-boon-and-fearlessness](varābhayayutaṃ) [peaceful](śāṃtaṃ) [united-with-Shakti](śaktyāśliṣṭaṃ) [charming](manoharam)
 
 ## mukta-m0-p10-v241
-[āplāvita-śarīraḥ](āplāvita) [sannaṃtardhyāyen](sannaṃtardhyāyen) [maheśvarīm](maheśvarīm)
+[bathed](āplāvita) [body](śarīraḥ) [should-meditate-within](sannaṃtardhyāyen) [great-goddess](maheśvarīm)
 
 ## mukta-m0-p10-v242
-[vibhinna-ṣaṭ-sarojanma](vibhinna) [prakāśa](prakāśa) [nija-vigrahām](nijavigrahām)
+[pierced](vibhinna) [six-lotus-born](ṣaṭsarojanma) [shining](prakāśa) [own-form](nijavigrahām)
 
 ## mukta-m0-p10-v243
-[tripura-suṃdarīm](tripurasuṃdarīm)
+[Tripurasundari](tripurasuṃdarīm)
 
 ## mukta-m0-p10-v244
-[nirgamya](nirgamya) [ca](ca) [bahir-grāmāt](bahirgrāmānmuktamūtramalavyathaḥ) [mukta-mūtra-mala-vyathaḥ](muktamūtramalavyathaḥ)
+[having-gone-out](nirgamya) [and](ca) [outside-village-freed-from-urine-feces-distress](bahirgrāmānmuktamūtramalavyathaḥ)
 
 ## mukta-m0-p10-v245
-[su-gaṃdha-taila-liptasya](sugaṃdhatailaliptasya) [piṣṭika-udvarti](piṣṭikodvarti) [tasya](tasya) [ca](ca)
+[anointed-with-fragrant-oil](sugaṃdhatailaliptasya) [with-paste-rubbed](piṣṭikodvarti) [his](tasya) [and](ca)
 
 ## mukta-m0-p10-v246
-[kadāpi](kadāpi) [kaulikaḥ](kauliko) [mohāt](mohānna) [na](na) [rūkṣa-snānam](rūkṣasnānamācaret) [ācaret](ācaret)
+[ever](kadāpi) [Kaula](kauliko) [from-delusion-not](mohānna) [should-do-dry-bath](rūkṣasnānamācaret)
 
 ## mukta-m0-p10-v247
-[mūrdhni-tvā](mūrdhnitvā) [mūla-mantra](mūlamaṃtra) [jāpena](jāpenāṃ) [aṃbhoṃjali-trayam](bhoṃjalitrayam)
+[having-poured-on-head](mūrdhnitvā) [root-mantra](mūlamaṃtra) [by-chanting](jāpenāṃ) [three-water-libations](bhoṃjalitrayam)
 
 ## mukta-m0-p10-v248
-[sa-kuśe](sakuśe) [sa-ha-puṣpe](sahapuṣpe) [ca](ca) [sa-gaṃdhe](sagaṃdhe) [tāmra-bhājane](tāmrabhājane)
+[with-kusha](sakuśe) [with-flowers](sahapuṣpe) [and](ca) [with-sandal](sagaṃdhe) [in-copper-vessel](tāmrabhājane)
 
 ## mukta-m0-p10-v249
-[tāmra-rūpya-suvarṇaiḥ](tāmrarūpya) [tu](tu) [racitaṃ](racitaṃ) [tat](tat) [praśasyate](praśasyate)
+[copper-silver](tāmrarūpya) [with-gold-indeed](suvarṇaistu) [made](racitaṃ) [that-is-praised](tatpraśasyate)
 
 ## mukta-m0-p10-v250
-[yathā-śakti](yathā) [ca](ca) [saṃtarpya](saṃtarpya) [praviśet](praviśedyāgamaṃdiram) [yāga-maṃdiram](yāgamaṃdiram)
+[according-to](yathā) [ability](śakti) [and](ca) [having-satisfied](saṃtarpya) [should-enter-temple](praviśedyāgamaṃdiram)
