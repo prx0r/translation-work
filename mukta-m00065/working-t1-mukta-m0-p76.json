@@ -29,15 +29,19 @@
 "tokens": [
 {
 "surface": "mūrtyādyaṅkāvasānaṃ",
-"quick_gloss": "ending-with-form-etc"
+"quick_gloss": "from-image-etc-ending"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "punarevaṃ",
 "quick_gloss": "again-thus"
+},
+{
+"surface": "tu",
+"quick_gloss": "but"
 },
 {
 "surface": "vinyaset",
@@ -67,11 +71,11 @@
 "tokens": [
 {
 "surface": "rudrādīnāṃ",
-"quick_gloss": "of-rudra-and-others"
+"quick_gloss": "of-rudra-etc"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "sarveṣāṃ",
@@ -79,7 +83,7 @@
 },
 {
 "surface": "sthāpanaṃ",
-"quick_gloss": "establishment"
+"quick_gloss": "installation"
 },
 {
 "surface": "tathvataḥ",
@@ -111,8 +115,12 @@
 "quick_gloss": "and-indeed"
 },
 {
-"surface": "bhāvayedanupūrvataḥ",
+"surface": "bhāvayed",
 "quick_gloss": "should-meditate"
+},
+{
+"surface": "anupūrvataḥ",
+"quick_gloss": "in-succession"
 }
 ]
 },
@@ -154,7 +162,7 @@
 },
 {
 "surface": "vidurbudhāḥ",
-"quick_gloss": "know-the-wise"
+"quick_gloss": "know-wise"
 }
 ]
 },
@@ -175,7 +183,7 @@
 },
 {
 "surface": "ṣaḍvidhāstviha",
-"quick_gloss": "six-fold-indeed-here"
+"quick_gloss": "sixfold"
 }
 ]
 },
@@ -201,7 +209,7 @@
 "tokens": [
 {
 "surface": "triṃśatpañcādhikaṃ",
-"quick_gloss": "thirty-five-more-principle"
+"quick_gloss": "thirty-five-plus"
 },
 {
 "surface": "tattvaṃ",
@@ -209,7 +217,7 @@
 },
 {
 "surface": "sanmārgaṃ",
-"quick_gloss": "good-path"
+"quick_gloss": "true-path"
 },
 {
 "surface": "pīṭhamaiśvaram",
@@ -226,15 +234,19 @@
 "tokens": [
 {
 "surface": "bhujaistu",
-"quick_gloss": "with-ten-arms"
+"quick_gloss": "with-arms"
 },
 {
-"surface": "daśabhiryuktaṃ",
-"quick_gloss": "ten"
+"surface": "daśabhir",
+"quick_gloss": "with-ten"
+},
+{
+"surface": "yuktaṃ",
+"quick_gloss": "endowed"
 },
 {
 "surface": "jaṭāmukuṭamaṇḍitam",
-"quick_gloss": "crowned-with-matted-hair"
+"quick_gloss": "matted-crown-adorned"
 }
 ]
 },
@@ -246,12 +258,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "gaṇairdevaistathā",
-"quick_gloss": "by-hosts-gods-and-siddhas"
+"surface": "gaṇair",
+"quick_gloss": "with-gaṇas"
+},
+{
+"surface": "devaistathā",
+"quick_gloss": "with-gods"
+},
+{
+"surface": "siddhaiḥ",
+"quick_gloss": "with-siddhas"
 },
 {
 "surface": "stūyamānaiḥ",
-"quick_gloss": "praised"
+"quick_gloss": "being-praised"
 },
 {
 "surface": "samāyutam",
@@ -268,11 +288,11 @@
 "tokens": [
 {
 "surface": "sadyolātena",
-"quick_gloss": "by-sadyolāta"
+"quick_gloss": "by-sadyojāta"
 },
 {
 "surface": "saṃcintya",
-"quick_gloss": "having-considered"
+"quick_gloss": "contemplating"
 },
 {
 "surface": "vāmadevena",
@@ -293,19 +313,19 @@
 "tokens": [
 {
 "surface": "bodhakriyāniviṣṭaṃ",
-"quick_gloss": "absorbed-in-cognition-action"
+"quick_gloss": "engaged-in-cognition-action"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "jñeyaṃ",
-"quick_gloss": "to-be-known"
+"quick_gloss": "knowable"
 },
 {
 "surface": "jñānāśritaṃ",
-"quick_gloss": "supported-by-knowledge"
+"quick_gloss": "knowledge-supported"
 },
 {
 "surface": "smaret",
@@ -330,7 +350,7 @@
 },
 {
 "surface": "tārāmadhyagateḥ",
-"quick_gloss": "of-moon-in-middle-of-tārā"
+"quick_gloss": "of-middle-of-tārā"
 },
 {
 "surface": "śaśī",
@@ -372,7 +392,11 @@
 "tokens": [
 {
 "surface": "tadā",
-"quick_gloss": "then-homa-to-digdevatā"
+"quick_gloss": "then"
+},
+{
+"surface": "digdevatāhomaḥ",
+"quick_gloss": "directional-deity-homa"
 },
 {
 "surface": "kāryā",
@@ -380,7 +404,7 @@
 },
 {
 "surface": "śāntiśca",
-"quick_gloss": "peace-and"
+"quick_gloss": "peace"
 },
 {
 "surface": "doṣahṛt",
@@ -401,7 +425,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "bhavedghoraṃ",
@@ -409,7 +433,7 @@
 },
 {
 "surface": "kartṛrāṣṭravirūpakam",
-"quick_gloss": "deforming-actor-and-realm"
+"quick_gloss": "doer-kingdom-deforming"
 }
 ]
 },
@@ -446,7 +470,7 @@
 },
 {
 "surface": "mṛgāvikam",
-"quick_gloss": "deer-goat"
+"quick_gloss": "deer-sheep"
 }
 ]
 },
@@ -459,15 +483,19 @@
 "tokens": [
 {
 "surface": "pakṣasūtraṃ",
-"quick_gloss": "wing-thread"
+"quick_gloss": "side-thread"
 },
 {
 "surface": "tato",
 "quick_gloss": "then"
 },
 {
-"surface": "dadyādṛjvarthaṃ",
+"surface": "dadyād",
 "quick_gloss": "should-give"
+},
+{
+"surface": "ṛjvarthaṃ",
+"quick_gloss": "for-straightness"
 },
 {
 "surface": "lambasūtrakam",
@@ -488,7 +516,7 @@
 },
 {
 "surface": "śabdite",
-"quick_gloss": "in-sounding"
+"quick_gloss": "in-sounded"
 },
 {
 "surface": "bhrānte",
@@ -517,7 +545,7 @@
 "tokens": [
 {
 "surface": "kṣīralohamalaiḥ",
-"quick_gloss": "with-auspicious-milk-metal-stains"
+"quick_gloss": "with-milk-metal-impurities"
 },
 {
 "surface": "śubhaiḥ",
@@ -538,7 +566,7 @@
 },
 {
 "surface": "śāntighaṭāmmobhiḥ",
-"quick_gloss": "with-peace-pot-water"
+"quick_gloss": "with-peace-pots"
 },
 {
 "surface": "snānaṃ",
@@ -546,7 +574,7 @@
 },
 {
 "surface": "mūrtidharāḥ",
-"quick_gloss": "form-bearers"
+"quick_gloss": "image-bearers"
 },
 {
 "surface": "svakam",
@@ -563,7 +591,7 @@
 "tokens": [
 {
 "surface": "toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ",
-"quick_gloss": "with-water-milk-curd-honey-ghee-water-inner"
+"quick_gloss": "water-milk-curd-honey-ghee-water-inner-natured"
 }
 ]
 },
@@ -588,7 +616,7 @@
 },
 {
 "surface": "sthāpane",
-"quick_gloss": "for-placement"
+"quick_gloss": "in-placement"
 },
 {
 "surface": "hitam",

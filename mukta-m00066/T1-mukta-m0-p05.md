@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p05-v101
-[gandharva-vedaḥ-tu](gāṃdharvastu) [great](mahān) [veda](vedo) [by-bharata-etc](bharatādyaiḥ) [expanded](pravistṛtaḥ)
+[gāṃdharvaḥ+tu](gāṃdharvastu) [mahān](mahān) [vedaḥ](vedo) [bharata-ādyaiḥ](bharatādyaiḥ) [pravistṛtaḥ](pravistṛtaḥ)
 
 ## mukta-m0-p05-v102
-[that-which](yastūbhayaprakāreṇa) [both-ways](ubhayaprakāreṇa) [pleases](saṃtoṣayati) [good-people](sajjanāt)
+[yas](yas) [tu](tu) [ubhaya-prakāreṇa](ubhayaprakāreṇa) [saṃtoṣayati](saṃtoṣayati) [sajjanāt](sajjanāt)
 
 ## mukta-m0-p05-v103
-[generally](prāyaḥ) [music-essences](saṃgītasārāṇi) [sounds](nādakāni) [they-call](pracakṣate)
+[prāyaḥ](prāyaḥ) [saṃgīta-sārāṇi](saṃgītasārāṇi) [nādakāni](nādakāni) [pracakṣate](pracakṣate)
 
 ## mukta-m0-p05-v104
-[by-abundance](bāhulyāt) [to-be-explained](pratipādya) [may-be](syāt) [shringara-rasa](śṛṃgārorasa) [bright](ujvalaḥ)
+[bāhulyāt](bāhulyāt) [pratipādya](pratipādya) [syāt](syāt) [śṛṃgāra-rasaḥ](śṛṃgārorasaḥ) [ujvalaḥ](ujvalaḥ)
 
 ## mukta-m0-p05-v105
-[by-that-coloring](tenoparaṃjitatvādvā) [their](teṣāṃ) [rasa](rasa) [thus](iti) [remembered](smṛtiḥ)
+[tena](tena) [uparaṃjitatvāt](uparaṃjitatvāt) [vā](vā) [teṣām](teṣāṃ) [rasaḥ](rasa) [iti](iti) [smṛtiḥ](smṛtiḥ)
 
 ## mukta-m0-p05-v106
-[with-favorable-giving](sacānukūladā) [of-two](catyordarśanasparśanātmakaḥ)
+[sa](sa) [ca](ca) [anukūla-dā](anukūladā) [catyoḥ](catyoḥ) [darśana-sparśana-ātmakaḥ](darśanasparśanātmakaḥ)
 
 ## mukta-m0-p05-v107
-[that-two-fold](taccadvidhā) [niti-shastra](nītiśāstraṃ) [of-brihaspati](bārhaspatyaṃ) [and](ca) [of-bhargava](bhārgavam)
+[tat](tat) [ca](ca) [vidhā](vidhā) [nīti-śāstram](nītiśāstram) [bārhaspatyam](bārhaspatyaṃ) [ca](ca) [bhārgavam](bhārgavam)
 
 ## mukta-m0-p05-v108
-[by-six-qualities](ṣaḍbhirguṇaiḥ) [by-powers](śaktibhiścatisṛbhiścāpi) [and](ca) [by-siddhis](siddhibhiḥ)
+[ṣaḍbhiḥ](ṣaḍbhir) [guṇaiḥ](guṇaiḥ) [śaktibhiḥ](śaktibhiḥ) [ca](ca) [tisṛbhiḥ](tisṛbhiḥ) [ca](ca) [api](api) [siddhibhiḥ](siddhibhiḥ)
 
 ## mukta-m0-p05-v109
-[niti-shastra](nītiśāstramidaṃ) [all](sarvaṃ) [wealth-prosperity-increasing](vittasaṃpatsamṛddhidam)
+[nīti-śāstram](nītiśāstram) [idam](idam) [sarvam](sarvaṃ) [vitta-saṃpat-samṛddhi-dam](vittasaṃpatsamṛddhidam)
 
 ## mukta-m0-p05-v110
-[third-purushartha](tṛtīyapuruṣārtho'yaṃ) [own-bliss](svacānaṃda) [nature](svarūpakaḥ)
+[tṛtīya-puruṣārthaḥ](tṛtīyapuruṣārthaḥ) [ayam](ayam) [sva-cānanda](svacānanda) [svarūpakaḥ](svarūpakaḥ)
 
 ## mukta-m0-p05-v111
-[thus](ityaṣṭādaśavidyānāṃ) [of-eighteen-vidyas](aṣṭādaśavidyānāṃ) [meaning](tātparyaṃ) [well-spoken](samyagīritam)
+[ityaṣṭādaśa-vidyānām](ityaṣṭādaśavidyānāṃ) [tātparyam](tātparyaṃ) [samyak](samyak) [īritam](īritam)
 
 ## mukta-m0-p05-v112
-[everywhere](sarvatra) [in-shastra](śāstremokṣo'sti) [moksha](mokṣo'sti) [its-form](tasyarūpaṃ) [separate-separate](pṛthakpṛthak)
+[sarvatra](sarvatra) [śāstre](śāstre) [mokṣaḥ](mokṣo) [asti](asti) [tasya](tasya) [rūpam](rūpaṃ) [pṛthak](pṛthak) [pṛthak](pṛthak)
 
 ## mukta-m0-p05-v113
-[otherwise](nocet) [activity](pravṛttiḥ) [by-whom](kenasyāt) [of-that-doctrine-followers](tattatsiddhāṃta-vartinām)
+[na](na) [ucet](ucet) [pravṛttiḥ](pravṛttiḥ) [kena](kena) [asyāt](asyāt) [tat-tat-siddhānta](tattatsiddhānta) [vartinām](vartinām)
 
 ## mukta-m0-p05-v114
-[non-bliss](anānaṃda) [nature](svarūpatvāt) [stone-state](śilāvasthānviḍaṃbhayan)
+[anānanda](anānanda) [svarūpatvāt](svarūpatvāt) [śilā-vasthām](śilāvasthām) [viḍaṃbhayan](viḍaṃbhayan)
 
 ## mukta-m0-p05-v115
-[by-that-fault](tad doṣānnijayoṣāpi) [own-wife](nijayoṣāpi) [stone-state](dṛṣadbhāvaṃ) [indeed](kilāgamat)
+[tat](tat) [doṣāt](doṣāt) [nijayoṣā](nijayoṣā) [api](api) [dṛṣad-bhāvam](dṛṣadbhāvaṃ) [kilāgamat](kilāgamat)
 
 ## mukta-m0-p05-v116
-[that-alone](sa eva) [moksha](mokṣonānyo'sti) [no-other](nānyo'sti) [free-from-sorrow-form](duḥkhākāravivarjitaḥ)
+[sa](sa) [eva](eva) [mokṣaḥ](mokṣo) [na](na) [anyaḥ](anyo) [asti](asti) [duḥkha-ākāra-vivarjitaḥ](duḥkhākāravivarjitaḥ)
 
 ## mukta-m0-p05-v117
-[bliss-lord](ānaṃdanātha) [linga-seated](liṃgasthamadhikṛtyapravartate) [concerning](adhikṛtya) [proceeds](pravartate)
+[ānanda-nātha](ānandanātha) [liṃga-stham](liṃgastham) [adhikṛtya](adhikṛtya) [pravartate](pravartate)
 
 ## mukta-m0-p05-v118
-[thus](ityānaṃdataṃtre) [in-ananda-tantra](ānaṃdataṃtre) [third](tṛtīyaḥ) [chapter](paṭalaḥ)
+[ityānanda-tantre](ityānandatantre) [tṛtīyaḥ](tṛtīyaḥ) [paṭalaḥ](paṭalaḥ)
 
 ## mukta-m0-p05-v119
-[linga-bliss-full](liṃgānaṃdamayo) [this](yo'yamīśvaraḥ) [lord](īśvaraḥ) [explained](pratipāditaḥ)
+[liṃga-ānanda-mayaḥ](liṃgānandamayo) [yaḥ](yaḥ) [ayam](ayam) [īśvaraḥ](īśvaraḥ) [pratipāditaḥ](pratipāditaḥ)
 
 ## mukta-m0-p05-v120
-[some](kecittān) [worship](pūjayaṃ) [tyeva](tyeva) [only-enjoyment](bhogamātra) [averse](parāṅmukhān)
+[kecit](kecit) [tān](tān) [pūjayanti](pūjayaṃti) [eva](eva) [bhoga-mātra](bhogamātra) [parāṅmukhān](parāṅmukhān)
 
 ## mukta-m0-p05-v121
-[others](anyānyapi) [pleasure-attached](sukhāsaktānāti) [join](saṃdadhate) [benefit](hite)
+[anyāni](anyāni) [api](api) [sukha-āsaktān](sukhāsaktān) [ati](ati) [saṃdadhate](saṃdadhate) [hite](hite)
 
 ## mukta-m0-p05-v122
-[foolish-conducts](mūrkhapravṛttayaḥ) [some](kecit) [benefit-harm-averse](hitāhitaparāṅmukhāḥ)
+[mūrkha-pravṛttayaḥ](mūrkhapravṛttayaḥ) [kecit](kecit) [hita-ahita-parāṅmukhāḥ](hitāhitaparāṅmukhāḥ)
 
 ## mukta-m0-p05-v123
-[destruction](vināśameva) [go](gacchaṃti) [blaming](niṃdatolaiṃgamīśvaram) [linga-lord](liṃgamīśvaram)
+[vināśam](vināśam) [eva](eva) [gacchanti](gacchaṃti) [niṃdataḥ](niṃdataḥ) [ūlaiṃgam](ūlaiṃgam) [īśvaram](īśvaram)
 
 ## mukta-m0-p05-v124
-[not-stone-made](nāśmanānirmitaṃ) [goddess](devī) [not-iron](nāyasāna) [nor-wood](ca dārubhiḥ)
+[na](na) [aśmanā](aśmanā) [nirmitam](nirmitaṃ) [devī](devī) [na](na) [ayasā](ayasā) [na](na) [ca](ca) [dārubhiḥ](dārubhiḥ)
 
 ## mukta-m0-p05-v125
-[of-elements](dhātūnāṃ) [nature](svarūpaṃ) [that](tat) [transformation](pariṇāmo) [indeed](hi) [semen](retasaḥ)
+[dhātūnām](dhātūnāṃ) [ca](ca) [svarūpam](svarūpaṃ) [tat](tat) [pariṇāmaḥ](pariṇāmo) [hi](hi) [retasaḥ](retasaḥ)
