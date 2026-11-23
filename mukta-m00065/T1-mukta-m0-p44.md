@@ -2,52 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[tbd](rakṣodvitayakumbhīra) [tbd](sarpacakrāsyakaṃ) [tbd](ca) [tbd](bham)
+rakṣaḥ [rakṣas] dvitaya [pair] kumbhīra [crocodile] sarpacakrāsyakaṃ [snake-wheel-mouthed] ca [and] bham [?]
+
 ## mukta-m0-p44-v1077
-[tbd](aśvinau) [tbd](ca) [tbd](yamo) [tbd](vahniḥ) [tbd](prajendrenduharo'ditiḥ)
+aśvinau [aśvins] ca [and] yamaḥ [yama] vahniḥ [fire] prajendrenduharo'ditiḥ [prajāpati-indra-moon-remover-aditi]
+
 ## mukta-m0-p44-v1078
-[tbd](tvaṣṭā) [tbd](vāyuḥ) [tbd](surendro'gnirmitrendrau) [tbd](yāvatpāmpatiḥ)
+tvaṣṭā [tvaṣṭṛ] vāyuḥ [vāyu] surendraḥ [indra] agniḥ [agni] mitra-indrau [mitra-indra] yātudhāmpatiḥ [yātudhāna-lord]
+
 ## mukta-m0-p44-v1079
-[tbd](viṣṇurvasurajaikādipādahirbudhna) [tbd](pūṣakāḥ)
+viṣṇuḥ [viṣṇu] vasuḥ [vasu] aja [aja] eka-ādi [one-etc] pāda [foot] ahi [serpent] budhna [base] pūṣakāḥ [pūṣan]
+
 ## mukta-m0-p44-v1080
-[tbd](pumān) [tbd](gadī) [tbd](savīṇā) [tbd](ca) [tbd](yoṣitta) [tbd](nmithunaṃ) [tbd](dhanuḥ)
+pumān [man] gadī [mace-bearer] savīṇā [with-vīṇā] ca [and] yoṣit [woman] nmithunaṃ [pair] dhanuḥ [bow]
+
 ## mukta-m0-p44-v1081
-[tbd](strī) [tbd](naustholkāsibhṛtkanyā) [tbd](tulādhāro) [tbd](narastulā)
+strī [woman] nauḥ [boat] ulkā [meteor] asi-bhṛt [sword-bearer] kanyā [maiden] tulā-dhāraḥ [balance-holder] naraḥ [man] tulā [balance]
+
 ## mukta-m0-p44-v1082
-[tbd](meṣādyāḥ) [tbd](pañca) [tbd](caivānye) [tbd](svanāmatulyarūpakāḥ)
+meṣa-ādyāḥ [aries-etc] pañca [five] ca [and] eva [indeed] anye [others] svanāma-tulya-rūpakāḥ [same-name-similar-forms]
+
 ## mukta-m0-p44-v1083
-[tbd](hemābhaḥ) [tbd](sakirīṭaśca) [tbd](devarājaḥ) [tbd](surāvṛtaḥ)
+hema-ābhaḥ [gold-hued] sa-kirīṭaḥ [with-crown] ca [and] devarājaḥ [king-of-gods] sura-āvṛtaḥ [surrounded-by-gods]
+
 ## mukta-m0-p44-v1084
-[tbd](chāgasthaḥ) [tbd](sākṣasūtrograḥ) [tbd](saptārciḥ) [tbd](śaktidhārakaḥ)
+chāga-sthaḥ [goat-mounted] sākṣa-sūtra-ugraḥ [rosary-fierce] saptārciḥ [seven-flamed] śakti-dhārakaḥ [spear-bearer]
+
 ## mukta-m0-p44-v1085
-[tbd](raktahṛkpāśabhṛtkṛṣṇo) [tbd](mahiṣasthogradūtavān)
+rakta-hṛt [red-hearted] pāśa-bhṛt [noose-bearer] kṛṣṇaḥ [kṛṣṇa] mahiṣa-sthaḥ [buffalo-mounted] ugra-dūtavān [fierce-messenger]
+
 ## mukta-m0-p44-v1086
-[tbd](puṃsthita) [tbd](khaḍgahastaśca) [tbd](nīlābho) [tbd](rākṣasāvṛtaḥ)
+puṃ-sthita [man-standing] khaḍga-hastaḥ [sword-handed] ca [and] nīla-ābhaḥ [blue-hued] rākṣasa-āvṛtaḥ [surrounded-by-rākṣasas]
+
 ## mukta-m0-p44-v1087
-[tbd](sarvābharaṇasaṃyukto) [tbd](varūṇaḥ) [tbd](pītavastrabhṛt)
+sarva-ābharaṇa-saṃyuktaḥ [all-ornamented] varūṇaḥ [varuṇa] pīta-vastra-bhṛt [yellow-garment-wearer]
+
 ## mukta-m0-p44-v1088
-[tbd](raktakṣo) [tbd](raktavāsaśca) [tbd](mṛgasthaścaṅkuśī) [tbd](dhvajī)
+rakta-akṣaḥ [red-eyed] rakta-vāsaḥ [red-garmented] ca [and] mṛga-sthaḥ [deer-mounted] caṅkuśī [goad-bearer] dhvajī [banner-bearer]
+
 ## mukta-m0-p44-v1089
-[tbd](dhaneśo) [tbd](varadaḥ) [tbd](kāryo) [tbd](nānābharaṇamaṇḍitaḥ)
+dhaneśaḥ [kubera] varadaḥ [boon-giver] kāryaḥ [to-be-made] nānā-ābharaṇa-maṇḍitaḥ [variously-ornamented]
+
 ## mukta-m0-p44-v1090
-[tbd](īśāno'hīndubhṛccaite) [tbd](lokapālā) [tbd](dvibāhavaḥ)
+īśānaḥ [īśāna] ahi-indu-bhṛt [serpent-moon-bearer] ca [and] ete [these] lokapālāḥ [world-guardians] dvi-bāhavaḥ [two-armed]
+
 ## mukta-m0-p44-v1091
-[tbd](viśvakarmā) [tbd](sadā) [tbd](gauro) [tbd](jñānamudrākṣasūtrabhṛt)
+viśvakarmā [viśvakarman] sadā [always] gauraḥ [white] jñāna-mudrā-akṣa-sūtra-bhṛt [knowledge-gesture-rosary-bearer]
+
 ## mukta-m0-p44-v1092
-[tbd](ālīḍhakaraṇāsaktaṃ) [tbd](mahākāyaṃ) [tbd](subhīṣaṇam)
+ālīḍha-karaṇa-āsaktaṃ [ālīḍha-posture-attached] mahā-kāyaṃ [great-bodied] su-bhīṣaṇam [very-terrifying]
+
 ## mukta-m0-p44-v1093
-[tbd](pītadhvajadharaṃ) [tbd](vāme) [tbd](tarjanīṃ) [tbd](vā) [tbd](hṛdagrataḥ)
+pīta-dhvaja-dharaṃ [yellow-banner-bearer] vāme [left] tarjanīṃ [threatening-finger] vā [or] hṛt-agrataḥ [heart-before]
+
 ## mukta-m0-p44-v1094
-[tbd](saṃpīḍya) [tbd](rākasān) [tbd](padbhyāṃ) [tbd](muñcannādaṃmarutsutam)
+saṃpīḍya [pressing] rākasān [rākṣasas] padbhyāṃ [with-feet] muñcan [releasing] nādaṃ [sound] marutsutam [marutsuta]
+
 ## mukta-m0-p44-v1095
-[tbd](skandhayakṣānvitā) [tbd](nityaṃ) [tbd](kartavyā) [tbd](yoṣidanvitāḥ)
+skandha-yakṣa-anvitā [shoulder-yakṣa-endowed] nityaṃ [always] kartavyā [to-be-made] yoṣit-anvitāḥ [woman-endowed]
+
 ## mukta-m0-p44-v1096
-[tbd](mālābhṛto'thavā) [tbd](hṛṣṭāḥ) [tbd](khasthā) [tbd](vidyādharāḥ) [tbd](sadā)
+mālā-bhṛtaḥ [garland-bearer] athavā [or] hṛṣṭāḥ [joyful] kha-sthāḥ [sky-dwelling] vidyādharāḥ [vidyādhara] sadā [always]
+
 ## mukta-m0-p44-v1097
-[tbd](piṅgavarvara) [tbd](keśāśva) [tbd](vetālā) [tbd](vikṛtānanāḥ)
+piṅga-varvara-keśa [tawny-curly-haired] aśva [horse] vetālā [vetāla] vikṛta-ānanāḥ [distorted-faced]
+
 ## mukta-m0-p44-v1098
-[tbd](kapālamālinaḥ) [tbd](śūladhārīṇaḥ) [tbd](kṣetrapālakāḥ)
+kapāla-mālinaḥ [skull-garlanded] śūla-dhāriṇaḥ [trident-bearers] kṣetrapālakāḥ [field-guardians]
+
 ## mukta-m0-p44-v1099
-[tbd](kṛśā) [tbd](mahodarāḥ) [tbd](pretā) [tbd](khalvagallāśca) [tbd](lomaśāḥ)
+kṛśāḥ [thin] mahodarāḥ [big-bellied] pretāḥ [ghosts] khalu [indeed] gallāḥ [cheeked] ca [and] lomaśāḥ [hairy]
+
 ## mukta-m0-p44-v1100
-[tbd](svāṅgavarṇadharāḥ) [tbd](sarvā) [tbd](yathoktaṃ) [tbd](brahmayāmale)
+sva-aṅga-varṇa-dharāḥ [own-limb-color-bearing] sarvāḥ [all] yathā-uktaṃ [as-stated] brahmayāmale [brahmayāmala]
