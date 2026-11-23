@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[hara](haraśca) [bahurūpa](bahurūpaśca) [tryambaka](tryambakaśca) [sureśvara](sureśvaraḥ)
+[gloss](hara) [gloss](ca) [gloss](bahurūpa) [gloss](ca) [gloss](tryambaka) [gloss](ca) [gloss](sureśvaraḥ)
 
 ## mukta-m0-p34-v827
-[sadyaḥ](sadyaḥ) [prabhṛti-jau](prabhṛtijau) [dvau](dvau) [dvau](dvau) [tadvat-kuḍya-abja-saṃyutāḥ](tadvatkuḍyabjasaṃyutāḥ)
+[gloss](sadyaḥ) [gloss](prabhṛtijau) [gloss](dvau) [gloss](dvau) [gloss](tadvat) [gloss](kuḍyabjasaṃyutāḥ)
 
 ## mukta-m0-p34-v828
-[vṛṣa-sthā](vṛṣasthā) [vara-dāḥ](varadāḥ) [kuṇḍī-śūla-paṅkaja-pāṇayaḥ](kuṇḍīśūlapaṅkajapāṇayaḥ)
+[gloss](vṛṣasthā) [gloss](varadāḥ) [gloss](kuṇḍīśūlapaṅkajapāṇayaḥ)
 
 ## mukta-m0-p34-v829
-[śaṅkha-cakra-bhṛtam](śaṅkhacakrabhṛtaṃ) [vāme](vāme) [śeṣe](śeṣe) [śānti-gadā-bhṛtam](śāntigadābhṛtam)
+[gloss](śaṅkhacakrabhṛtaṃ) [gloss](vāme) [gloss](śeṣe) [gloss](śāntigadābhṛtam)
 
 ## mukta-m0-p34-v830
-[śrīvatsa-kaustubha-uraskam](śrīvatsakaustubhoraskaṃ) [pīna-aṅgam](pīnāṅgaṃ) [pṛthu-vakṣasam](pṛthuvakṣasam)
+[gloss](śrīvatsakaustubhoraskaṃ) [gloss](pīnāṅgaṃ) [gloss](pṛthuvakṣasam)
 
 ## mukta-m0-p34-v831
-[prasanna-vadanam](prasannavadanaṃ) [saumyam](saumyaṃ) [sarva-ābharaṇa-bhūṣitam](sarvābharaṇabhūṣitam)
+[gloss](prasannavadanaṃ) [gloss](saumyaṃ) [gloss](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p34-v832
-[śaṅkha-cakra-dhare](śaṅkhacakradhare) [kārye](kārye) [tat-saumya-āgneya-pārśvataḥ](tatsaumyāgneyapārśvataḥ)
+[gloss](śaṅkhacakradhare) [gloss](kārye) [gloss](tatsaumyāgneyapārśvataḥ)
 
 ## mukta-m0-p34-v833
-[vāme-abhaya-pradam](vāme'bhayapradaṃ) [śeṣe](śeṣe) [śaṅkha-hastam](śaṅkhahastaṃ) [dvi-bhāhukam](dvibhāhukam)
+[gloss](vāme) [gloss](abhayapradaṃ) [gloss](śeṣe) [gloss](śaṅkhahastaṃ) [gloss](dvibhāhukam)
 
 ## mukta-m0-p34-v834
-[kruddhaḥ](kruddha) [udyata-hastaśca](udyatahastaśca) [prāsāda-sthaḥ](prāsādasthaḥ) [sadā](sadā) [mataḥ](mataḥ)
+[gloss](kruddha) [gloss](udyatahastaśca) [gloss](prāsādasthaḥ) [gloss](sadā) [gloss](mataḥ)
 
 ## mukta-m0-p34-v835
-[sandaṣṭa-oṣṭha-puṭaḥ](sandaṣṭauṣṭhapuṭaḥ) [kruddhaḥ](kruddho) [viṣṇu-raṣṭa-bhujaḥ](viṣṇuraṣṭabhujo) [mataḥ](mataḥ)
+[gloss](sandaṣṭauṣṭhapuṭaḥ) [gloss](kruddho) [gloss](viṣṇuraṣṭabhujo) [gloss](mataḥ)
 
 ## mukta-m0-p34-v836
-[cakram](cakraṃ) [cāpam](cāpaṃ) [ca](ca) [khetam](khetaṃ) [ca](ca) [śaṅkham](śaṅkhaṃ) [vāma-kare](vāmakare) [tathā](tathā)
+[gloss](cakraṃ) [gloss](cāpaṃ) [gloss](ca) [gloss](khetaṃ) [gloss](ca) [gloss](śaṅkhaṃ) [gloss](vāmakare) [gloss](tathā)
 
 ## mukta-m0-p34-v837
-[ekāsyaścaturāsyaśca](ekāsyaścaturāsyaśca) [trimukhaḥ](trimukho) [vā](vā) [maye](maye) [mate](mate)
+[gloss](ekāsyaścaturāsyaśca) [gloss](trimukho) [gloss](vā) [gloss](maye) [gloss](mate)
 
 ## mukta-m0-p34-v838
-[tat-tryaṃśa-vistaram](tattryaṃśavistaraṃ) [caiva](caiva) [pucchaḥ-adham](puccho'dhaṃ) [sapta-bhāgaśaḥ](saptabhāgaśaḥ)
+[gloss](tattryaṃśavistaraṃ) [gloss](caiva) [gloss](puccho'dhaṃ) [gloss](saptabhāgaśaḥ)
 
 ## mukta-m0-p34-v839
-[hastau](hastau) [kroḍa-samīpa-sthau](kroḍasamīpasthau) [pādau](pādau) [jaṭhara-pārśvataḥ](jaṭharapārśvataḥ)
+[gloss](hastau) [gloss](kroḍasamīpasthau) [gloss](pādau) [gloss](jaṭharapārśvataḥ)
 
 ## mukta-m0-p34-v840
-[ardha-aṅgulam](ardhāṅgulaṃ) [tu](tu) [tat-netram](tannetraṃ) [dvi-sārdha-eka-ardha-bhāgataḥ](dvisārdhaikārdhabhāgataḥ)
+[gloss](ardhāṅgulaṃ) [gloss](tu) [gloss](tannetraṃ) [gloss](dvisārdhaikārdhabhāgataḥ)
 
 ## mukta-m0-p34-v841
-[śeṣam](śeṣaṃ) [rohita-vat-kuryāt](rohitavatkuryān) [matsya-rūpa-dhare](matsyarūpadhare) [vibhau](vibhau)
+[gloss](śeṣaṃ) [gloss](rohitavatkuryān) [gloss](matsyarūpadhare) [gloss](vibhau)
 
 ## mukta-m0-p34-v842
-[tat-dvyaṃśa-madhyataḥ](taddvyaṃśamadhyato) [vṛttam](vṛttaṃ) [kalā-hīnam](kalāhīnaṃ) [tu](tu) [pārśvayoḥ](pārśvayoḥ)
+[gloss](taddvyaṃśamadhyato) [gloss](vṛttaṃ) [gloss](kalāhīnaṃ) [gloss](tu) [gloss](pārśvayoḥ)
 
 ## mukta-m0-p34-v843
-[dviguṇam](dviguṇaṃ) [pādataḥ](pādato) [dairghyāt-grīvām](dairghyādgrīvāṃ) [mastaka-saṃyutām](mastakasaṃyutām)
+[gloss](dviguṇaṃ) [gloss](pādato) [gloss](dairghyād) [gloss](grīvāṃ) [gloss](mastakasaṃyutām)
 
 ## mukta-m0-p34-v844
-[nāsā-akṣi-nakha-karṇa-ādi](nāsākṣinakhakarṇādi) [jñātvā](jñātvā) [kūrmam](kūrmaṃ) [vivartayet](vivartayet)
+[gloss](nāsākṣinakhakarṇādi) [gloss](jñātvā) [gloss](kūrmaṃ) [gloss](vivartayet)
 
 ## mukta-m0-p34-v845
-[hanū](hanū) [tat-vaktra-bhāge](tadvaktrabhāge) [ca](ca) [dairghyāt-sapta-aṅgulau](dairghyātsaptāṅgulau) [matau](matau)
+[gloss](hanū) [gloss](tadvaktrabhāge) [gloss](ca) [gloss](dairghyāt) [gloss](saptāṅgulau) [gloss](matau)
 
 ## mukta-m0-p34-v846
-[daṃṣṭre](daṃṣṭre) [ca](ca) [tri-aṅgule](tryaṅgule) [vaktre](vaktre) [sita-ṛṣi-kalikā-upame](sitarṣikalikopame)
+[gloss](daṃṣṭre) [gloss](ca) [gloss](tryaṅgule) [gloss](vaktre) [gloss](sitarṣikalikopame)
 
 ## mukta-m0-p34-v847
-[prāṅ-māna-ādi-avahīnam](prāṅmānādyavahīnaṃ) [tu](tu) [cakra-gāruṇa-locanam](cakragāruṇalocanam)
+[gloss](prāṅmānādyavahīnaṃ) [gloss](tu) [gloss](cakragāruṇalocanam)
 
 ## mukta-m0-p34-v848
-[gadā-cakra-abja-śaṅkha-āḍhyam](gadācakrābjaśaṅkhāḍhyam) [ālīḍha-karaṇe](ālīḍhakaraṇe) [sthitam](sthitam)
+[gloss](gadācakrābjaśaṅkhāḍhyam) [gloss](ālīḍhakaraṇe) [gloss](sthitam)
 
 ## mukta-m0-p34-v849
-[evam](evaṃ) [varāha-rūpam](varāharūpaṃ) [syāt](syād) [vanamālā-vibhūṣitam](vanamālāvibhūṣitam)
+[gloss](evaṃ) [gloss](varāharūpaṃ) [gloss](syād) [gloss](vanamālāvibhūṣitam)
 
 ## mukta-m0-p34-v850
-[nara-aṅgam](narāṅgaṃ) [siṃha-vaktram](siṃhavaktraṃ) [ca](ca) [vṛtta-akṣam](vṛttākṣaṃ) [bhrukuṭī-yutam](bhrukuṭīyutam)
+[gloss](narāṅgaṃ) [gloss](siṃhavaktraṃ) [gloss](ca) [gloss](vṛttākṣaṃ) [gloss](bhrukuṭīyutam)

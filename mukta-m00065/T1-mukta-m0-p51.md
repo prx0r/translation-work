@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p51-v1251
-therefore(tasmāt) linga-following(liṅgānugaṃ) pedestal(pīṭhaṃ) should-be-made(kartavyaṃ) maker-life(kartṛjīvane)
+[therefore](tasmāt) [liṅga](liṅga) [following](anugam) [pedestal](pīṭham) [to-be-made](kartavyam) [in-maker's-life](kartṛjīvane)
 
 ## mukta-m0-p51-v1252
-if(yadi) be(syāt) afflicted(pīḍyate) diseases(rogaiḥ) maker(kartā) kingdom(rāṣṭraṃ) guru(gurūḥ) thus(tathā)
+[if](yadi) [is](syāt) [afflicted](pīḍyate) [by-diseases](rogaiḥ) [maker](kartā) [kingdom](rāṣṭram) [and-guru](gurūstathā)
 
 ## mukta-m0-p51-v1253
-by-height(ucchrayeṇa) of-three-lingas(triliṅgānāṃ) not(na) less(nyūnaḥ) not(na) greater(adhikaḥ) of-hari(hareḥ)
+[by-height](ucchrayeṇa) [of-three-liṅgas](triliṅgānām) [not](na) [less](nyūnaḥ) [nor](na) [more](adhikaḥ) [of-hari](hareḥ)
 
 ## mukta-m0-p51-v1254
-by-sages(munisārdhādhikaiḥ) shambhu(śambhuṃ) should-make(kuryāt) wealthy(āḍhyaṃ) or(dādyaṃ) firm(dārḍhyaṃ) of-vasu(vasor) hari(harim)
+[with-sages-plus-one](munisārdhādhikaiḥ) [śambhu](śambhum) [should-make](kuryāt) [wealthy](āḍhyam) [or-give](dādyaṃ) [of-vasu](vasor) [hari](harim)
 
 ## mukta-m0-p51-v1255
-one-fourth(pādonā) eighth(aṣṭāṃśato) brahma(brahmā) should-be-done(kāryaṃ) and(ca) non-wealthy(anāḍhyakaṃ) sometimes(kvicit)
+[one-fourth-eighth-part](pādonāṣṭāṃśataḥ) [brahmā](brahmā) [to-be-made](kāryam) [and](ca) [not-wealthy](anāḍhyakam) [sometimes](kvacit)
 
 ## mukta-m0-p51-v1256
-one(ekaṃ) in-worshipped-liṅga(surārcite liṅge) brahma(brahmā) in-seventh(saptāṃśake) certainly(dhruvam)
+[one](ekam) [in-god-worshipped](surārcite) [liṅga](liṅge) [brahmā](brahmā) [in-seventh-part](saptāṃśake) [certainly](dhruvam)
 
 ## mukta-m0-p51-v1257
-white-etc-colors(sitādivarṇāvarṇānāṃ) pedestals-etc(pīṭhādyāḥ) not(na) discolored(vivarṇajāḥ)
+[of-white-etc-colors](sitādivarṇāvarṇānām) [pedestal-etc](pīṭhādyāḥ) [not](na) [of-discolored-birth](vivarṇajāḥ)
 
 ## mukta-m0-p51-v1258
-gem-born(ratnajāḥ) or(vā) iron(lohairvā) especially(viśeṣāt) for-glory(kīrtaye) now(adhunā)
+[of-gems-born](ratnajāḥ) [or](vā) [by-metals](lohairvā) [especially](viśeṣāt) [for-glory](kīrtaye) [now](adhunā)
 
 ## mukta-m0-p51-v1259
-vaiḍūrya-etc(vaiḍūryādyuttame) always(nityaṃ) gold-born(hemajā) base(piṇḍikā) best(varā)
+[of-vaiḍūrya-etc](vaiḍūryādyuttame) [always](nityam) [of-gold-born](hemajā) [piṇḍikā](piṇḍikā) [best](varā)
 
 ## mukta-m0-p51-v1260
-portion(bhāgadrayamathikaṃ) or(vā) should-place(vinyaset) in-base-cavity(piṇḍikāvaṭau)
+[three-parts-plus](bhāgadrayamathikam) [or](vā) [should-place](vinyaset) [in-piṇḍikā-pit](piṇḍikāvaṭau)
 
 ## mukta-m0-p51-v1261
-girdle-etc(mekhalādivibhāgaḥ) of-it(asyāḥ) as-before(pūrvavat) declared(samudāhṛtaḥ)
+[of-girdle-etc-division](mekhalādivibhāgaḥ) [of-it](asyāḥ) [as-before](pūrvavat) [declared](samudāhṛtaḥ)
 
 ## mukta-m0-p51-v1262
-not(na) less(nyūnaṃ) not(na) greater(adhikaṃ) than-measure(mānāt) beautiful(śobhanaṃ) cavity(śvabhram) is-expected(iṣyate)
+[not](na) [less](nyūnam) [nor](na) [more](adhikam) [than-measure](mānāt) [beautiful](śobhanam) [pit](śvabhram) [is-said](iṣyate)
 
 ## mukta-m0-p51-v1263
-pedestal-fault(pīṭhadoṣāt) destruction(kṣayaḥ) of-woman(nāryāḥ) maker(kāro) to-do(kartuṃ) and(ca) always(sarvadā)
+[from-pedestal-fault](pīṭhadoṣāt) [decay](kṣayaḥ) [of-woman](nāryāḥ) [maker](kāro) [to-do](kartum) [and](ca) [always](sarvadā)
 
 ## mukta-m0-p51-v1264
-enjoyment-liberation-both(bhuktimuktyubhayaprāptyai) other(anyāḥ) for-desired(kāmyasya) cause(hetave)
+[for-both-enjoyment-liberation](bhuktimuktyubhayaprāptyai) [other](anyaḥ) [of-desired](kāmyasya) [cause](hetave)
 
 ## mukta-m0-p51-v1265
-half-moon-count-named(padmārdhendugaṇākhyā) desire-giving(kāmadā) auspicious-head(śubhamastake)
+[of-half-moon-count-named](padmārdhendugaṇākhyā) [ca](ca) [wish-giving](kāmadā) [auspicious-on-head](śubhamastake)
 
 ## mukta-m0-p51-v1266
-two-girdled(dvimekhalā) and(ca) four-vedas(vedāsrā) auspicious(bhadrā) yoga-power-giving(yogarddhidāyinī)
+[two-girdles](dvimekhalā) [ca](ca) [veda-arrows](vedāsrā) [auspicious](bhadrā) [yoga-prosperity-giving](yogarddhidāyinī)
 
 ## mukta-m0-p51-v1267
-six-sided(ṣaḍasrā) life-giving(āyuḥ pradā) vajra(vajrī) three-girdles(mekhalātritayānvitā)
+[six-arrows](ṣaḍasrā) [life-giving](āyuḥpradā) [vajrī](vajrī) [with-three-girdles](mekhalātritayānvitā)
 
 ## mukta-m0-p51-v1268
-mandala(maṇḍalā) full-moon-like(pūrṇacandrābhā) wealth-giving(tvarthadā) five-girdled(pañcamekhalā)
+[maṇḍala](maṇḍalā) [full-moon-like](pūrṇacandrābhā) [then](tvarthadā) [five-girdles](pañcamekhalā)
 
 ## mukta-m0-p51-v1269
-moon-water-form(candrāmburuparāmai) with-fire-portion-tithi(kāgnidyaṃśaistithi) divided(bhājitaiḥ)
+[of-moon-water-form-supreme](candrāmburuparāmai) [kāgni-dyaṃśa-tithi-divided](kāgnidyaṃśaistithi) [bhājitaiḥ](bhājitaiḥ)
 
 ## mukta-m0-p51-v1270
-round(vṛttā) lotus-cup-like(padmapuṭākārā) karṇikā(karṇiko) fear-kissed(bhayacumbitā)
+[round](vṛttā) [lotus-cup-shaped](padmapuṭākārā) [karṇikā](karṇiko) [fear-kissed](bhayacumbitā)
 
 ## mukta-m0-p51-v1271
-eight-cornered(aṣṭakoṇā) gaṇa-named(gaṇākhyātā) liberation-giving(muktidā) two-girdled(dvimekhalā)
+[eight-angled](aṣṭakoṇā) [gaṇa-named](gaṇākhyātā) [liberation-giving](muktidā) [two-girdles](dvimekhalā)
 
 ## mukta-m0-p51-v1272
-previously-said-girdle-cavity-stalk-etc(pūrvoktamekhalāgartanālakādisamanvitā)
+[previously-said-girdle-pit-stalk-etc-equipped](pūrvoktamekhalāgartanālakādisamanvitā)
 
 ## mukta-m0-p51-v1273
-width-height-stalk-etc(vistarokchrayanālādi) all(sarbaṃ) previously-mentioned(pūrvoṃditaṃ) in-order(kramāt)
+[width-height-stalk-etc](vistarokchrayanālādi) [all](sarbaṃ) [previously-said](pūrvoṃditam) [in-order](kramāt)
 
 ## mukta-m0-p51-v1274
-wrapping(saṃveṣṭya) should-make-round(vartayetpiṇḍīṃ) of-maker(kartuḥ) desire-fulfilling(kāmaprasādhikam)
+[having-wrapped](saṃveṣṭya) [should-make-piṇḍī](vartayetpiṇḍīm) [of-maker](kartuḥ) [wish-accomplishing](kāmaprasādhikam)
 
 ## mukta-m0-p51-v1275
-mārūtī(mārūtīṃ) dhānadī(dhānadīṃ) raudrī(raudrīṃ) vaiṣṇavī(vaiṣṇāvīṃ) brahma-born(brahmajāṃ) always(sadā)
+[mārūtī](mārūtīm) [dhānadī](dhānadīm) [raudrī](raudrīm) [vaiṣṇavī](vaiṣṇāvīm) [brahma-born](brahmajām) [always](sadā)
