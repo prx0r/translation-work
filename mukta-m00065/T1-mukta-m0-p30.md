@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani-and-ring-finger-joint](tarjanyanāmikāparva) [without-thumb-and-little-finger](sapādayavavarjitam)
+[index-finger+ring-finger+joint](tarjanyanāmikāparva) [with+foot+yava+excluded](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[two-angula-thumb-knot](dvyaṅgulo'ṅguṣṭhakagranthirāsāṃ) [half-joint-nails](parvārdhagā nakhāḥ)
+[two-angula](dvyaṅgulo) [thumb-knot](aṅguṣṭhakagranthi) [of-these](āsāṃ) [half-joint](parvārdha) [nails](gā) [nakhāḥ](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[nose-height](nāsotsedhaḥ) [with-width-two-angula](savistārodvyaṅgulo) [two-fold-auspicious](dvipuṭaḥ) [mū-a: two-fold](dvikuṭaḥ) [auspicious](śubhaḥ)
+[nose-height](nāsotsedhaḥ) [with-breadth](savistāra) [two-angula](dvyaṅgulo) [double-fold](dvipuṭaḥ) [auspicious](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[one-and-half-barley](dvyardhaṃ) [yava](yavaṃ) [in-fold-thick](puṭe sthūle) [middle](madhye) [twenty?](vaśa) [k-kh: twenty](viṃśaḥ) [by-three-barley](stribhiryavaḥ)
+[one-and-half-yava](dvyardhaṃ) [yava](yavaṃ) [in-fold](puṭe) [thick](sthūle) [middle](madhye) [twenty](vaśa) [by-three-yava](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-[below-other-angula](adhe'paro'ṅgulakaṃ) [tu](tu) [k-g: ear-angula](ṅ gulakarṇa) [two-angula-chin-position](dvyaṅgule cibukasthitiḥ)
+[below](adhe) [other](aparo) [angula-ear](aṅgulakarṇa) [two-angula](dvyaṅgule) [chin-position](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[at-nose-root-side](nāsikāmūlapārśve) [tu](tu) [eyes-two-angula-length](locane dvyaṅgulāyate) [g: eye-angula-length](locanamaṅgulāyate)
+[nose-root-side](nāsikāmūlapārśve) [eye](locane) [two-angula-length](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[blue-lotus-leaf-like](indīvarābjapatrābhā) [snake-gourd-fruit-like-woman](paṭolaphalavatstriyāḥ)
+[blue-lotus-leaf-like](indīvarābjapatrābhā) [snake-gourd-fruit-like](paṭolaphalavat) [woman](striyāḥ)
 
 ## mukta-m0-p30-v733
-[fifth-part](pañcamāṃśaṃ) [becomes-light](bhavejjyotiḥ) [lip-corner-thread-equal](sṛkkaṇīsūtratulyataḥ)
+[fifth-part](pañcamāṃśaṃ) [becomes](bhave) [light](jyotiḥ) [lip-corner-thread-equal](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[half-angula-equal-trough](ardhāṅgulasamā droṇī) [one-and-half-angula-long](sārdhadvyaṅguladīrghatā)
+[half-angula-equal](ardhāṅgulasamā) [trough](droṇī) [one-and-half-angula-long](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[p.86](p.) [86)](86)) [their](tayora) [taramātrārdhaṃ](taramātrārdhaṃ) [woman](striyāṃ) [half-barley-width](yavārdhavistṛte) [gh: like-water-spread](yathāmbuvistṛte)
+[their](tayora) [middle-measure-half](taramātrārdhaṃ) [woman](striyāṃ) [half-yava-broad](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[ears](karṇau) [eye-length](netradayāyāmau) [that-half-width](tadardhādvistarastayoḥ)
+[ears](karṇau) [eye-length](netradayāyāmau) [their-half-breadth](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[half-kalā](kalārdhaṃ) [mū-a: tuḍhukau; k-g: tuṭukau; kh: tupukau](tadukau) [loops](khalvau) [make-as-desired](pāśau kuryādyathepsitau)
+[half-kala](kalārdhaṃ) [knots](khalvau) [loops](pāśau) [make-as-desired](kuryādyathepsitau)
 
 ## mukta-m0-p30-v738
-[indra-number-angula](indrasaṅkhyāṅgulaṃ) [after-ear-interval](paścātkarṇayorantaraṃ) [know](viduḥ)
+[indra-number-angula](indrasaṅkhyāṅgulaṃ) [behind](paścāt) [between-ears](karṇayorantaraṃ) [know](viduḥ)
 
 ## mukta-m0-p30-v739
-[forehead-eight-angula-length](lalāṭo'ṣṭāṅgulāyāmastryaṅgulaḥ) [temple-called](śaṅkha ucyate)
+[forehead](lalāṭo) [eight-angula-length](aṣṭāṅgulāyāma) [three-angula](tryaṅgulaḥ) [temple](śaṅkha) [called](ucyate)
 
 ## mukta-m0-p30-v740
-[seven-angula-cheeks](saptāṅgulau kapolau) [tu](tu) [with-angula-with-barley-height](sāṅgulau sayavocchrayau)
+[seven-angula](saptāṅgulau) [cheeks](kapolau) [with-angula](sāṅgulau) [with-yava-height](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[jaw-half-kalā-three-long](hanū kalā tradīrghau) [vdikalaścibukodgamaḥ](vdikalaścibukodgamaḥ)
+[jaws](hanū) [kala-three-long](kalātradīrghau) [four-kala](vdikala) [chin-rise](cibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[shoulder-eight-angula-width](skandho'ṣṭāṅgulavistārastadāyāmaścatuṣkalā)
+[shoulder](skandho) [eight-angula-breadth](aṣṭāṅgulavistāra) [its-length](tadāyāma) [four-kala](catuṣkalā)
 
 ## mukta-m0-p30-v743
-[width-elbow-from-there](vistāraḥ kūrparastasmādbhūtāṅgulairyavaistathā)
+[breadth](vistāraḥ) [elbow](kūrpara) [from-that](tasmāt) [five-angula](bhūtāṅgulai) [yava-thus](yavaistathā)
 
 ## mukta-m0-p30-v744
-[p.87](p.) [87)](87)) [four-angula-width](caturaṅgulavistāro) [wrist-declared](maṇibandhaḥ prakīrtitaḥ)
+[four-angula-breadth](caturaṅgulavistāro) [wrist](maṇibandhaḥ) [declared](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[breast-interval-palm](stanayorantaraṃ tālaṃ) [their-ends-two-eyes](tayoḥ prāntau dvinetrakau)
+[between-breasts](stanayorantaraṃ) [palm](tālaṃ) [their-ends](tayoḥ) [two-eyes](prāntau) [dvinetrakau](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[navel-clockwise](nābhiḥ pradakṣiṇāvartā) [depressed-half-angula-raised](nimnato'rdhāṅguloditā)
+[navel](nābhiḥ) [clockwise](pradakṣiṇāvartā) [depressed](nimnato) [half-angula-risen](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[heart-twenty-angula](hṛdviṃśatyaṅgulaṃ) [navel-region-fourteen](proktaṃ nābhideśaścaturdaśa)
+[heart](hṛd) [twenty-angula](viṃśatyaṅgulaṃ) [declared](proktaṃ) [navel-region](nābhideśaḥ) [fourteen](caturdaśa)
 
 ## mukta-m0-p30-v748
-[fifteen-angula](pañcādaśāṅgulaṃ) [mū-a-k-g: fifty-angula](pañcāśadaṅgulaṃ) [chest](vakṣo) [heart-region-without-five](hṛddeśaḥ pañcabhirvinā)
+[fifteen-angula](pañcādaśāṅgulaṃ) [chest](vakṣo) [heart-region](hṛddeśaḥ) [five-without](pañcabhirvinā)
 
 ## mukta-m0-p30-v749
-[waist-girdle-described](kaṭiḥ saṃveṣṭanenoktā) [hundred](śatācca) [k-kh: so-much](sa tāvat) [two-more-angula](dvyadhikāṅgulā)
+[hips](kaṭiḥ) [girdle](saṃveṣṭanena) [said](uktā) [hundred-plus](śatācca) [two-more-angula](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[four-eye-width](caturnetrapravistārau) [elephant-temples-like-auspicious](gajakumbhopamau śubhau)
+[four-eye-breadth](caturnetrapravistārau) [elephant-temple-like](gajakumbhopamau) [auspicious](śubhau)

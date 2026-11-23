@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "lakṣamātraṃ",
-"quick_gloss": "hundred-thousand"
+"quick_gloss": "hundred-thousand-only"
 },
 {
 "surface": "japen",
@@ -27,12 +27,8 @@
 "quick_gloss": "accomplished"
 },
 {
-"surface": "bhavet",
+"surface": "bhavennaraḥ",
 "quick_gloss": "becomes"
-},
-{
-"surface": "naraḥ",
-"quick_gloss": "man"
 }
 ]
 },
@@ -57,11 +53,11 @@
 },
 {
 "surface": "karpūrābhyāṃ",
-"quick_gloss": "with-camphor"
+"quick_gloss": "camphor"
 },
 {
 "surface": "suvāsitaiḥ",
-"quick_gloss": "fragrant"
+"quick_gloss": "well-perfumed"
 }
 ]
 },
@@ -86,7 +82,7 @@
 },
 {
 "surface": "bhojayet",
-"quick_gloss": "should-feed"
+"quick_gloss": "feed"
 },
 {
 "surface": "priye",
@@ -107,7 +103,7 @@
 },
 {
 "surface": "pāyasa",
-"quick_gloss": "milk-rice"
+"quick_gloss": "rice-pudding"
 },
 {
 "surface": "pūpādyaiḥ",
@@ -115,11 +111,11 @@
 },
 {
 "surface": "rasaiścaiva",
-"quick_gloss": "with-juices"
+"quick_gloss": "rasas-and"
 },
 {
 "surface": "rasāyanaiḥ",
-"quick_gloss": "with-rejuvenatives"
+"quick_gloss": "rejuvenatives"
 }
 ]
 },
@@ -132,19 +128,19 @@
 "tokens": [
 {
 "surface": "madyair",
-"quick_gloss": "with-wines"
+"quick_gloss": "liquors"
 },
 {
 "surface": "māṃsaiśca",
-"quick_gloss": "with-meats"
+"quick_gloss": "meats"
 },
 {
 "surface": "matsyaiśca",
-"quick_gloss": "with-fish"
+"quick_gloss": "fishes"
 },
 {
 "surface": "nānāvastūpabṛṃhitaiḥ",
-"quick_gloss": "with-various-objects-increased"
+"quick_gloss": "various-things-increased"
 }
 ]
 },
@@ -157,7 +153,7 @@
 "tokens": [
 {
 "surface": "arcayed",
-"quick_gloss": "should-worship"
+"quick_gloss": "worship"
 },
 {
 "surface": "yoginī",
@@ -202,7 +198,7 @@
 },
 {
 "surface": "kāyavat",
-"quick_gloss": "bodily"
+"quick_gloss": "embodied"
 }
 ]
 },
@@ -214,23 +210,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "atiguhyatva",
-"quick_gloss": "extreme-secrecy"
+"surface": "atiguhyātva",
+"quick_gloss": "most-secret"
 },
 {
 "surface": "yā",
-"quick_gloss": "which"
-},
-{
-"surface": "rakṣyā",
 "quick_gloss": "to-be-protected"
 },
 {
-"surface": "na-deyā",
+"surface": "na",
 "quick_gloss": "not-given"
 },
 {
-"surface": "yasyakasyacit",
+"surface": "deyā",
 "quick_gloss": "to-anyone"
 }
 ]
@@ -306,19 +298,27 @@
 },
 {
 "surface": "vidyāsamaṃ",
-"quick_gloss": "equal-to-vidya"
+"quick_gloss": "vidya-equal"
 },
 {
 "surface": "nāsti",
-"quick_gloss": "not-is"
+"quick_gloss": "not"
 },
 {
-"surface": "na-bhūtaṃ",
-"quick_gloss": "not-was"
+"surface": "na",
+"quick_gloss": "not"
 },
 {
-"surface": "na-bhaviṣyati",
-"quick_gloss": "not-will-be"
+"surface": "bhūtaṃ",
+"quick_gloss": "was"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
+},
+{
+"surface": "bhaviṣyati",
+"quick_gloss": "will-be"
 }
 ]
 },
@@ -330,12 +330,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "imāmabhyasyataḥ",
-"quick_gloss": "this-practicing"
+"surface": "imām",
+"quick_gloss": "this"
+},
+{
+"surface": "abhyasyataḥ",
+"quick_gloss": "practicing"
 },
 {
 "surface": "puṃso",
-"quick_gloss": "of-man"
+"quick_gloss": "man"
 },
 {
 "surface": "mokṣamārgaḥ",
@@ -356,7 +360,7 @@
 "tokens": [
 {
 "surface": "ityānaṃdataṃtre",
-"quick_gloss": "thus-in-ananda-tantra"
+"quick_gloss": "thus"
 },
 {
 "surface": "paṃcamaḥ",
@@ -377,7 +381,7 @@
 "tokens": [
 {
 "surface": "yāgarājakramaḥ",
-"quick_gloss": "sacrifice-king-procedure"
+"quick_gloss": "sacrifice-king-sequence"
 },
 {
 "surface": "sarvapuruṣārthaṃ",
@@ -398,7 +402,7 @@
 "tokens": [
 {
 "surface": "varābhayayutaṃ",
-"quick_gloss": "boon-fear-endowed"
+"quick_gloss": "boon-fear-yoked"
 },
 {
 "surface": "śāṃtaṃ",
@@ -406,7 +410,7 @@
 },
 {
 "surface": "śaktyāśliṣṭaṃ",
-"quick_gloss": "united-with-shakti"
+"quick_gloss": "shakti-embraced"
 },
 {
 "surface": "manoharam",
@@ -422,12 +426,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "āplāvita-śarīraḥ",
-"quick_gloss": "bathed-body"
+"surface": "āplāvita",
+"quick_gloss": "plunged-body"
 },
 {
 "surface": "sannaṃtardhyāyen",
-"quick_gloss": "with-inner-meditation"
+"quick_gloss": "meditate"
 },
 {
 "surface": "maheśvarīm",
@@ -443,8 +447,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vibhinna-ṣaṭsarojanma",
-"quick_gloss": "divided-six-lotuses"
+"surface": "vibhinna",
+"quick_gloss": "pierced-six-lotuses"
 },
 {
 "surface": "prakāśa",
@@ -465,7 +469,7 @@
 "tokens": [
 {
 "surface": "tripurasuṃdarīm",
-"quick_gloss": "tripura-sundari"
+"quick_gloss": "tripurasundari"
 }
 ]
 },
@@ -485,12 +489,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "bahirgrāmān",
+"surface": "bahirgrāmānmuktamūtramalavyathaḥ",
 "quick_gloss": "outside-village"
-},
-{
-"surface": "muktamūtramalavyathaḥ",
-"quick_gloss": "freed-from-urine-feces-pain"
 }
 ]
 },
@@ -511,7 +511,7 @@
 },
 {
 "surface": "tasya",
-"quick_gloss": "of-him"
+"quick_gloss": "his"
 },
 {
 "surface": "ca",
@@ -535,12 +535,12 @@
 "quick_gloss": "kaulika"
 },
 {
-"surface": "mohān",
+"surface": "mohānna",
 "quick_gloss": "from-delusion"
 },
 {
-"surface": "na-rūkṣasnānamācaret",
-"quick_gloss": "not-rough-bath"
+"surface": "rūkṣasnānamācaret",
+"quick_gloss": "rough-bath"
 }
 ]
 },
@@ -553,7 +553,7 @@
 "tokens": [
 {
 "surface": "mūrdhnitvā",
-"quick_gloss": "head-bathed"
+"quick_gloss": "head-anointed"
 },
 {
 "surface": "mūlamaṃtra",
@@ -561,11 +561,11 @@
 },
 {
 "surface": "jāpenāṃ",
-"quick_gloss": "with-chanting"
+"quick_gloss": "japa"
 },
 {
 "surface": "bhoṃjalitrayam",
-"quick_gloss": "three-water-libations"
+"quick_gloss": "three-waters"
 }
 ]
 },
@@ -586,7 +586,7 @@
 },
 {
 "surface": "sagaṃdhe",
-"quick_gloss": "with-fragrance"
+"quick_gloss": "with-sandal"
 },
 {
 "surface": "tāmrabhājane",
@@ -607,7 +607,7 @@
 },
 {
 "surface": "suvarṇaistu",
-"quick_gloss": "with-gold"
+"quick_gloss": "gold"
 },
 {
 "surface": "racitaṃ",
@@ -627,8 +627,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "yathā-śakti",
-"quick_gloss": "according-to-ability"
+"surface": "yathā",
+"quick_gloss": "as-ability"
 },
 {
 "surface": "ca",
@@ -640,7 +640,7 @@
 },
 {
 "surface": "praviśedyāgamaṃdiram",
-"quick_gloss": "should-enter"
+"quick_gloss": "enter"
 }
 ]
 }
