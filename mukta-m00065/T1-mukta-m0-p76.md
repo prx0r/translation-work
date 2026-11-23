@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-[śiva-umā-mantra-yoga-by](śivomāmantrayogena) [union](sandhānaṃ) [of-prosperity-seekers](bhūtikāṅkṣiṇām)
+[by-union-of-śiva-umā-mantra](śivomāmantrayogena) [bond](sandhānaṃ) [of-desiring-prosperity](bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-[end-of-mark-etc](mūrtyādyaṅkāvasānaṃ) [but](tu) [again](punaḥ) [thus](evaṃ) [and](tu) [should-place](vinyaset)
+[ending-with-form-etc](mūrtyādyaṅkāvasānaṃ) [again-thus](punarevaṃ) [one-should-place](tu vinyaset)
 
 ## mukta-m0-p76-v1878
 [then](tataḥ)
 
 ## mukta-m0-p76-v1879
-[of-rudra-etc](rudrādīnāṃ) [but](tu) [of-all](sarveṣāṃ) [installation](sthāpanaṃ) [truly](tathvataḥ) [in-order](kramāt)
+[of-rudra-etc-all](rudrādīnāṃ tu sarveṣāṃ) [establishment](sthāpanaṃ) [truly](tathvataḥ) [in-order](kramāt)
 
 ## mukta-m0-p76-v1880
-[self-knowledges](ātmavidyāḥ) [śiva](śivaṃ) [and](ca) [indeed](eva) [should-meditate](bhāvayedanupūrvataḥ)
+[ātma-vidyās](ātmavidyāḥ) [śiva-and](śivaṃ caiva) [one-should-meditate](bhāvayedanupūrvataḥ)
 
 ## mukta-m0-p76-v1881
 [established](vyavasthitāḥ)
 
 ## mukta-m0-p76-v1882
-[in-knowledge-principle](vidyātattve) [situated](sthitā) [indeed](hi) [these](hyete) [with-authority](sādhikāre) [know](vidurbudhāḥ)
+[in-vidyā-tattva](vidyātattve) [situated-indeed-these](sthitā hyete) [with-authority](sādhikāre) [know-the-wise](vidurbudhāḥ)
 
 ## mukta-m0-p76-v1883
-[pervasion-of-three-principles](tritattvavyāptirākhyātā) [paths](panthānaḥ) [sixfold](ṣaḍvidhāstviha)
+[three-tattva-pervasion-declared](tritattvavyāptirākhyātā) [paths](panthānaḥ) [sixfold-here](ṣaḍvidhāstviha)
 
 ## mukta-m0-p76-v1884
 [in-order](kramāt)
 
 ## mukta-m0-p76-v1885
-[thirty-five-plus](triṃśatpañcādhikaṃ) [principle](tattvaṃ) [good-path](sanmārgaṃ) [seat](pīṭhamaiśvaram)
+[thirty-five-tattva](triṃśatpañcādhikaṃ tattvaṃ) [good-path](sanmārgaṃ) [seat-of-īśvara](pīṭhamaiśvaram)
 
 ## mukta-m0-p76-v1886
-[with-arms-indeed](bhujaistu) [with-ten](daśabhiryuktaṃ) [adorned-with-matted-crown](jaṭāmukuṭamaṇḍitam)
+[with-ten-arms](bhujaistu daśabhiryuktaṃ) [crowned-with-matted-hair](jaṭāmukuṭamaṇḍitam)
 
 ## mukta-m0-p76-v1887
-[with-hosts](gaṇairdevaistathā) [with-gods](devaiḥ) [and](tathā) [with-siddhas](siddhaiḥ) [being-praised](stūyamānaiḥ) [accompanied](samāyutam)
+[with-gods-and-siddhas-praising](gaṇairdevaistathā siddhaiḥ stūyamānaiḥ samāyutam)
 
 ## mukta-m0-p76-v1888
-[by-sadyojāta](sadyolātena) [contemplating](saṃcintya) [by-vāmadeva](vāmadevena) [should-place](vinyaset)
+[having-thought-sadyolāta](sadyolātena saṃcintya) [by-vāmadeva-place](vāmadevena vinyaset)
 
 ## mukta-m0-p76-v1889
-[engaged-in-cognition-action](bodhakriyāniviṣṭaṃ) [but](tu) [knowable](jñeyaṃ) [supported-by-knowledge](jñānāśritaṃ) [should-remember](smaret)
+[absorbed-in-cognition-action](bodhakriyāniviṣṭaṃ) [knowable](tu jñeyaṃ) [supported-by-knowledge-remember](jñānāśritaṃ smaret)
 
 ## mukta-m0-p76-v1890
-[situated-in-sound](dhvanimadhyagatā) [tārā](tārā) [in-middle-of-tārā](tārāmadhyagateḥ) [moon](śaśī)
+[tārā-in-middle-of-sound](dhvanimadhyagatā tārā) [moon-in-middle-of-tārā](tārāmadhyagateḥ śaśī)
 
 ## mukta-m0-p76-v1891
-[situated-in-sun](ravimadhyagataḥ) [peaceful](śāntaḥ) [situated-in-peace](śāntamadhyagataḥ) [śiva](śivaḥ)
+[sun-in-middle-of-śānta](ravimadhyagataḥ śāntaḥ) [śiva-in-middle-of-śānta](śāntamadhyagataḥ śivaḥ)
 
 ## mukta-m0-p76-v1892
-[then](tadā) [homa-to-directional-deities](digdevatāhomaḥ) [should-be-done](kāryā) [peace](śāntiśca) [removing-faults](doṣahṛt)
+[then-homa-to-digdevatā](tadā digdevatāhomaḥ) [to-be-done](kāryā) [peace-and-removing-faults](śāntiśca doṣahṛt)
 
 ## mukta-m0-p76-v1893
-[otherwise](anyathā) [but](tu) [would-be](bhavedghoraṃ) [terrible](ghoraṃ) [distorting-agent-kingdom](kartṛrāṣṭravirūpakam)
+[otherwise-fierce](anyathā tu bhavedghoraṃ) [deforming-actor-and-kingdom](kartṛrāṣṭravirūpakam)
 
 ## mukta-m0-p76-v1894
-[elephant](gajaṃ) [goat](chāgaṃ) [lulāya](lulāyaṃ) [and](ca) [female-slave](dāsīṃ) [fish](matsyaṃ) [deer-sheep](mṛgāvikam)
+[elephant-goat-lulāya](gajaṃ chāgaṃ lulāyaṃ ca) [female-slave-fish-deer-sheep](dāsīṃ matsyaṃ mṛgāvikam)
 
 ## mukta-m0-p76-v1895
-[side-thread](pakṣasūtraṃ) [then](tato) [should-give](dadyādṛjvarthaṃ) [for-straightness](ṛjvarthaṃ) [plumb-line](lambasūtrakam)
+[wing-thread-then-give](pakṣasūtraṃ tato dadyādṛjvarthaṃ lambasūtrakam)
 
 ## mukta-m0-p76-v1896
-[when-moving](calile) [when-sounded](śabdite) [when-confused](bhrānte) [when-bowed](praṇate) [when-steady](svasthite) [in-order](kramāt)
+[in-moving-sounding-wandering](calile śabdite bhrānte) [in-bowing-steady-in-order](praṇate svasthite kramāt)
 
 ## mukta-m0-p76-v1897
-[with-milk-metal-impurities](kṣīralohamalaiḥ) [auspicious](śubhaiḥ)
+[with-auspicious-milk-metal-impurities](kṣīralohamalaiḥ śubhaiḥ)
 
 ## mukta-m0-p76-v1898
-[then](tataḥ) [with-water-of-peace-pot](śāntighaṭāmmobhiḥ) [bathing](snānaṃ) [image-bearers](mūrtidharāḥ) [own](svakam)
+[then-bathing-with-peace-pots](tataḥ śāntighaṭāmmobhiḥ snānaṃ) [form-bearers-own](mūrtidharāḥ svakam)
 
 ## mukta-m0-p76-v1899
-[consisting-of-water-milk-curd-honey-ghee-water](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
+[with-water-milk-curd-honey-ghee-water-inner](toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
 
 ## mukta-m0-p76-v1900
-[mugdā](mugdā) [of-two-angula-measure](dyaṅgulamātrasya) [of-movable](calasya) [in-installation](sthāpane) [suitable](hitam)
+[for-placement-of-moving-one-finger-measure](mugdā dyaṅgulamātrasya calasya sthāpane hitam)
