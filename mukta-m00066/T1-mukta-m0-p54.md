@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[then](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [by-potter-hand-turnings](kulālakaravarttanaiḥ)
+then(atho) he(sa) indeed(eva) clay-lump(mṛtpiṇḍaṃ) by-potter-hand-turnings(kulālakaravarttanaiḥ)
 
 ## mukta-m0-p54-v1327
-[in-deep](gabhīrite) [in-middle-region](madhyadeśe) [there-indeed](tatraiva) [made-hollow](kuharīkṛtaḥ)
+in-deep(gabhīrite) middle-region(madhyadeśe) there-indeed(tatraiva) hollowed(kuharīkṛtaḥ)
 
 ## mukta-m0-p54-v1328
-[pot](kuṃbha) [thus](iti) [of-this](asya) [of-word](śabdasya) [denotation](vācyatām) [enters](avagāhate)
+pot(kuṃbha) thus(itya) of-word(asya+śabdasya) denotation(vācyatām) enters(avagāhate)
 
 ## mukta-m0-p54-v1329
-[on-ground](bhūmau) [broken](viśīrṇa) [all-limbs](sarvāṃgaḥ) [potsherd-mass](kāpālaugha) [you](tvam) [strive](īhate)
+on-ground(bhūmau) shattered(viśīrṇa) all-limbed(sarvāṃgaḥ) potsherd-mass(kāpālaugha) desires(tvamīhate)
 
 ## mukta-m0-p54-v1330
-[pounded](kuṭṭitaḥ) [being](san) [breaks-apart](prabhajate) [of-dust-word](dhūliśabdasya) [denotation](vācyatām)
+pounded(kuṭṭitaḥ) being(san) breaks(prabhajate) dust-word's(dhūliśabdasya) denotation(vācyatām)
 
 ## mukta-m0-p54-v1331
-[repeatedly-broken](śīrṇaśīrṇaḥ) [again](punar) [by-force-there](vegāttra) [dust-ness](sareṇutvam) [desires](icchati)
+shattered-shattered(śīrṇaśīrṇaḥ) again(punar) by-force(vegāt) limb(tra) dust-ness(sareṇutvam) desires(icchati)
 
 ## mukta-m0-p54-v1332
-[extremely](atyaṃta) [subtle](sūkṣma) [hard-to-perceive](durlakṣā) [whirls](ghūrṇate) [in-air-orb](vāyumaṇḍale)
+extremely(atyaṃta) subtle-hard-to-see(sūkṣmadurlakṣā) whirls(ghūrṇate) in-wind-orb(vāyumaṇḍale)
 
 ## mukta-m0-p54-v1333
-[mutual](anyonya) [word](śabda) [inexpressible](nirvācyāḥ) [they](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
+mutually-word-unspeakable(anyonyaśabdanirvācyāḥ) those(ta) superimpositions(āropāḥ) declared(prakīrttitāḥ)
 
 ## mukta-m0-p54-v1334
-[there](tatra) [superimposed](āropita) [form-ness](rūpatvam) [of-pot-etc](ghaṭādeḥ) [making](kārayan) [wise](budhaḥ)
+there-superimposed-form-ness(tatrāropitarūpatvaṃ) of-pot-etc(ghaṭādeḥ) causing(kārayan) wise-one(budhaḥ)
 
 ## mukta-m0-p54-v1335
-[other-quality](guṇāntara) [conjunction](samāsaṃga) [measure](mātrā) [only](eva) [how](katham) [in-clay](mṛdi)
+other-quality-association(guṇāntarasamāsaṃga) measure-only(mātrādeva) how(kathaṃ) in-clay(mṛdi)
 
 ## mukta-m0-p54-v1336
-[vain](vṛthā) [its](tasya) [superimposition](samāropaṃ) [vain](vṛthā) [its](tasya) [again](punar) [dissolution](layaḥ)
+vain(vṛthā) his(tasya) superimposition(samāropaṃ) vain(vṛthā) his(tasya) again-dissolution(punarlayaḥ)
 
 ## mukta-m0-p54-v1337
-[such](īdṛśāḥ) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [established](pratipāditāḥ)
+such(īdṛśā) indeed(eva) in-dispute(kalahe) causes(hetavaḥ) established(pratipāditāḥ)
 
 ## mukta-m0-p54-v1338
-[sound-natured](varṇātmakāḥ) [but](tu) [which](ye) [words](śabdāḥ) [there](tatra) [eternity](nityatvam) [single](ekakaḥ)
+sound-natured(varṇātmakāḥ) but(tu) which(ye) words(śabdāḥ) there(tatra) eternality(nityatvam) one-only(ekakaḥ)
 
 ## mukta-m0-p54-v1339
-[therefore](ataḥ) [increased](pravṛddha) [of-hostilities](vairāṇām) [of-disputants](vādinām) [of-leaping](abhivalgatām)
+therefore(ataḥ) increased-enmity(pravṛddhavairāṇāṃ) of-disputants(vādinām) of-boasting(abhivalgatām)
 
 ## mukta-m0-p54-v1340
-[abundant](prabhūt) [more](tara) [blinded-by-pride](darpāṃdhāḥ) [scholarship](pāṇḍitya) [planet](graha) [of-bad-intellects](durdhiyām)
+abundant-pride-blinded(prabhūtataradarpāṃdhāḥ) scholarship(pāṇḍitya) planet-bad-intellect(grahadurdhiyām)
 
 ## mukta-m0-p54-v1341
-[that](tad) [search](gaveṣaṇa) [by-path](mārgeṇa) [that](tat) [same](samāna) [by-concentration](samādhinā)
+that-search-path(tadgaveṣaṇamārgeṇa) by(that) equal-concentration(samāna+samādhinā)
 
 ## mukta-m0-p54-v1342
-[contradictory](viruddha) [in-speech](bhāṣaṇe) [genus](jāti) [refutation](nigraha) [place](sthāna) [by-contrivances](kalpanaiḥ)
+contradictory-speech(viruddhabhāṣaṇe) genus(jāti) refutation(nigraha) place-inventions(sthānakalpanaiḥ)
 
 ## mukta-m0-p54-v1343
-[after](paścāt) [anger](kope) [being](sati) [throat-drying](galocchoṣa) [cause](kāraṇa) [by-shoutings](ghoṣaṇaiḥ)
+after-anger(paścātkope) being(sati) throat-drying-cause(galoccoṣakāraṇa) proclamations(ghoṣaṇaiḥ)
 
 ## mukta-m0-p54-v1344
-[again](punar) [by-that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [done](kṛte) [in-battle](raṇe)
+again(punas) by-that(tena) manner(prakāreṇa) hair-pulling(keśākeśi) done(kṛte) battle(raṇe)
 
 ## mukta-m0-p54-v1345
-[from-foot](pādāt) [restrained](saṃvṛta) [of-speeds](vegānām) [of-disputants](vādinām) [hatred](dveṣa) [in-houses](veśmasu)
+from-foot(pādāt) concealed-speed(saṃvṛtavegānāṃ) of-disputants(vādinām) in-hatred-houses(dveṣaveśmasu)
 
 ## mukta-m0-p54-v1346
-[by-concluded](siddhāntitaiḥ) [and](ca) [own-mind](svamanaḥ) [pure](śuddhaiḥ) [others](anyaiḥ) [and](ca) [blamed](ninditaiḥ)
+established(siddhāntitaiḥ) and(ca) by-own-mind(svamanaḥ) pure(śuddhaiḥ) others-and(anyaiḥ+ca) blamed(ninditaiḥ)
 
 ## mukta-m0-p54-v1347
-[confused](vyāmūḍhān) [making](kurvatām) [this](eṣa) [their](teṣām) [paths](panthāni) [uncontrolled](raṅkuśaḥ)
+confused(vyāmūḍhān) making(kurvatām) this(eṣa) their(teṣāṃ) path-unrestrained(panthāniraṅkuśaḥ)
 
 ## mukta-m0-p54-v1348
-[proof](pramāṇa) [blind](āṃdhāḥ) [sixteen](ṣoḍaśa) [which](ye) [categories](padārthaiḥ) [by-them](taiḥ) [great-Kali](mahākālīḥ)
+proof-blind(pramāṇāṃdhāḥ) sixteen-there(ṣoḍaśāye) categories(padārthaiḥ) by-those(taiḥ) great-Kali(mahākālīḥ)
 
 ## mukta-m0-p54-v1349
-[dispute](kalahaḥ) [only](kevalam) [there](tatra) [hard-to-end](duḥsamāpa) [hundred-autumns](śaracchataiḥ)
+dispute(kalahaḥ) only(kevalaṃ) there(tatra) hard-to-end(duḥsamāpa) autumn-hundreds(śaracchataiḥ)
 
 ## mukta-m0-p54-v1350
-[attainment](saṃprāpti) [form](rūpaḥ) [will-be](bhavitā) [then](tadā) [by-left](vāmena) [decision](nirṇayaḥ)
+attainment-form(saṃprāptirūpo) will-be(bhavitā) then(tadā) by-left(vāmena) decision(nirṇayaḥ)
