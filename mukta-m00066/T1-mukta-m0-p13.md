@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p13-v301
-[tradition](saṃpradāyāstu) [yogini](yoginyastripurā) [śrī](śrīśca) [wheel-holder](cakriṇī)
+[traditions](saṃpradāyāḥ) [are](tu) [yoginīs](yoginyaḥ) [tripurā](tripurā) [śrī](śrī) [and](ca) [cakriṇī](cakriṇī)
 
 ## mukta-m0-p13-v302
-[all-siddhi](sarvasidhyādikāḥ) [power](śaktiḥ) [beyond-kula](kulottirṇā) [yogini](tu) [yogini](yoginī)
+[all-siddhi-etc](sarvasidhyādikāḥ) [power](śaktiḥ) [beyond-kula](kulottirṇā) [but](tu) [yoginī](yoginī)
 
 ## mukta-m0-p13-v303
-[inner-decade](aṃtardaśāredevyastu) [all-knowing](sarvajñādyāḥ) [declared](prakīrtitāḥ)
+[inner-decade-goddesses](aṃtardaśāredevyaḥ) [but](tu) [all-knowing-etc](sarvajñādyāḥ) [declared](prakīrtitāḥ)
 
 ## mukta-m0-p13-v304
-[great-goad](mahāṃkuśā) [mudrā](ca) [mudrā](mudrāsyādathāṣṭāra) [great-circle](mahāvṛtau)
+[great-goad](mahāṃkuśā) [and](ca) [mudrā](mudrā) [of-her](asya) [then](atha) [eight-triangle](aṣṭāra) [great-circle](mahāvṛtau)
 
 ## mukta-m0-p13-v305
-[wheel-holder](cakriṇī) [tripurā](tripurā) [siddha](siddhā) [mudrā](mudrā) [becomes](bhavati) [sky-goer](khecarī)
+[cakriṇī](cakriṇī) [tripurā](tripurā) [siddhā](siddhā) [mudrā](mudrā) [becomes](bhavati) [khecarī](khecarī)
 
 ## mukta-m0-p13-v306
-[three-cornered](tryaśe) [kāmeśvarī](kāmeśvarī) [vajreśvarī](vajreśvarī) [bhagamālinī](ca) [bhagamālinī](bhagamālinī)
+[triangle](tryaśe) [kāmeśvarī](kāmeśvarī) [vajreśvarī](vajreśvarī) [and](ca) [bhagamālinī](bhagamālinī)
 
 ## mukta-m0-p13-v307
-[yogini](yoginyati) [secret](rahasyā) [tripurāmbā](ca) [tripurāṃbā) [wheel-holder](ca) [cakriṇī](cakriṇī)
+[yoginī](yoginī) [very-secret](ati-rahasyā) [and](ca) [tripurāmbā](tripurāṃbā) [and](ca) [cakriṇī](cakriṇī)
 
 ## mukta-m0-p13-v308
-[bindu-form](biṃdurūpe) [great-delight](mahollāse) [lalitā](lalitāṃ) [supreme-lady](parameśvarīm)
+[bindu-form](biṃdurūpe) [great-delight](mahollāse) [lalitā](lalitāṃ) [supreme-goddess](parameśvarīm)
 
 ## mukta-m0-p13-v309
-[her](tasyā) [one-seat](ekāsane) [god](deva) [mind-joined](matisaṃsaktavigraham)
+[of-her](tasyāḥ) [in-one-seat](ekāsane) [god](deva) [mind-joined-body](matisaṃsaktavigraham)
 
 ## mukta-m0-p13-v310
-[kandarpa](kaṃdarpa) [crore-beauty](koṭilāvaṇyaṃ) [flower-arrow-bow-holder](puṣpabāṇadhanurddharam)
+[cupid](kaṃdarpa) [crore-beauty](koṭilāvaṇyaṃ) [flower-arrow-bow-bearing](puṣpabāṇadhanurddharam)
 
 ## mukta-m0-p13-v311
-[ha-syllable](hakārādyena) [mantra](maṃtreṇa) [kāmeśvara](kāmeśvaramupācaret)
+[ha-syllable-etc](hakārādyena) [mantra](maṃtreṇa) [kāmeśvara](kāmeśvaram) [worship](upācaret)
 
 ## mukta-m0-p13-v312
-[thus](itthaṃ) [nine-circle](navāvṛtiṃ) [goddess](devīṃ) [worship](pūjayitvā) [duly](vidhānataḥ)
+[thus](itthaṃ) [nine-circle](navāvṛtiṃ) [goddess](devīṃ) [having-worshipped](pūjayitvā) [duly](vidhānataḥ)
 
 ## mukta-m0-p13-v313
-[saubhāgya-heart](saubhāgyahṛdayaṃ) [chant](japtvā) [meditate](dhyāyet) [kāmakalā](kāmakalāmatha)
+[saubhāgya-heart](saubhāgyahṛdayaṃ) [having-chanted](japtvā) [meditate](dhyāyet) [kāmakalā](kāmakalāmatha)
 
 ## mukta-m0-p13-v314
-[then](atha) [satisfy](saṃtarpya) [roots](mūlābhyāṃ) [god](devaṃ) [goddess](devīṃ) [worship](ca) [pūjayet](pūjayet)
+[then](atha) [having-satiated](saṃtarpya) [roots](mūlābhyāṃ) [god](devaṃ) [goddess](devīṃ) [and](ca) [worship](pūjayet)
 
 ## mukta-m0-p13-v315
-[united](ekībhūte) [their-bodies](tayordehe) [worship](yajedānaṃda) [bhairava](bhairavam)
+[united](ekībhūte) [in-their-body](tayordehe) [worship](yajet) [ānanda-bhairava](ānaṃda-bhairavam)
 
 ## mukta-m0-p13-v316
-[bindus](bindubhistarpayennāthamānaṃda) [lord](parameśvaram)
+[by-bindus](bindubhiḥ) [satisfy](tarpayet) [lord](nātham) [ānanda](ānaṃda) [supreme-lord](parameśvaram)
 
 ## mukta-m0-p13-v317
-[yāga-king](yāgarājakramasyeti) [nāndi](nāṃdi) [worship](pūjā) [remembered](smṛtā) [wise](budhaiḥ)
+[yāga-king-rite](yāgarājakramasya) [thus](iti) [nāndi-worship](nāṃdi-pūjā) [remembered](smṛtā) [by-wise](budhaiḥ)
 
 ## mukta-m0-p13-v318
-[which](yaṃ) [hearing](śrutvā) [with-siddhi](sahā) [siddhi](siddhi) [worship](pūjayed) [if](yadi) [man](mānavaḥ)
+[which](yaṃ) [having-heard](śrutvā) [with-siddhi](sahā-siddhi) [worship](pūjayet) [if](yadi) [man](mānavaḥ)
 
 ## mukta-m0-p13-v319
-[thus](ityānaṃdataṃtre) [sixth](ṣaṣṭhaḥ) [chapter](paṭalaḥ)
+[thus](itya) [in-ānanda-tantra](ānaṃdataṃtre) [sixth](ṣaṣṭhaḥ) [chapter](paṭalaḥ)
 
 ## mukta-m0-p13-v320
-[yāga-king-rite](yāgarājavidhānaṃ) [also](ca) [maruts](marutāmapi) [rare](durlabham)
+[yāga-king-rite](yāgarājavidhānaṃ) [and](ca) [for-winds](marutām) [also](api) [rare](durlabham)
 
 ## mukta-m0-p13-v321
-[supreme-bliss](paramānaṃdasaubhāgya) [cause](nimittaṃ) [all-siddhi-giving](sarvasiddhidam)
+[supreme-bliss-fortune](paramānaṃdasaubhāgya) [cause](nimittaṃ) [all-siddhi-giving](sarvasiddhidam)
 
 ## mukta-m0-p13-v322
-[yearly](prativarṣaṃ) [prescribed](tu) [vihitaṃ) [kalpitaṃ](kalpitaṃ) [his](tasya) [siddhi](siddhaye)
+[yearly](prativarṣaṃ) [but](tu) [prescribed](vihitaṃ) [arranged](kalpitaṃ) [for-its](tasya) [siddhi](siddhaye)
 
 ## mukta-m0-p13-v323
-[festival](parvasukriyamāṇastu) [sometimes](kadācidapi) [desired](vāṃcchitam)
+[festival-being-done](parvasukriyamāṇastu) [sometimes](kadācid) [also](api) [desired](vāṃcchitam)
 
 ## mukta-m0-p13-v324
-[brahma-form](brahmarūpeṇa) [fair-hipped](suśroṇimayā) [created](sṛṣṭā) [three-worlds](jagattraye)
+[brahma-form](brahmarūpeṇa) [beautiful-hipped](suśroṇimayā) [created](sṛṣṭā) [in-three-worlds](jagattraye)
 
 ## mukta-m0-p13-v325
-[scattered](vyastānāṃ) [and](ca) [combined](samastānāṃ) [essence](rasena) [made](kriyate) [honey](madhu)
+[of-scattered](vyastānāṃ) [and](ca) [of-combined](samastānāṃ) [by-essence](rasena) [made](kriyate) [honey](madhu)
