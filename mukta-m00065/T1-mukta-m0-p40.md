@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p40-v976
-secondary-in-field-or-six-doored-one-faced-praised
+secondary(gauṇaḥ) in-field(kṣetre) or(athavā) six-mouthed(ṣaḍdorekavaktraḥ) praised(praśasyate)
 
 ## mukta-m0-p40-v977
-in-order always six right-left-hands
+according-to-order(yathākramaṃ) always(sadā) with-six(dakṣiṇottarapāṇibhiḥ)
 
 ## mukta-m0-p40-v978
-bearing-shakti in-hand southern copper-crested and-other
+bearing-power(bibhrachaktiṃ) in-right-hand(kare+yāmye) copper-crested(tāmracūḍaṃ) and-so-on(tathetare)
 
 ## mukta-m0-p40-v979
-peacock-mounted but sharva-this all-ornament-covered
+peacock-mounted(śikhyārūḍhastu) śiva-form(śārvo'yaṃ) all-ornamented(sarvālaṅkārabhaṣitaḥ)
 
 ## mukta-m0-p40-v980
-stone-gold-etc-metals-or bull make-as-desired
+with-stone-gold-etc(śilāhemādilohairvā) bull(kuryādyathepsitam)
 
 ## mukta-m0-p40-v981
-common in-lingas by-context prescribed bull
+in-common(liṅgeṣu) lingas(sādhāraṇeṣu) from-context(prastāvādvihito) bull(vṛṣaḥ)
 
 ## mukta-m0-p40-v982
-linga-three-parts-devoid should-be-made that-double-ayati-figure
+three-part-less(liṅgatryaṃśojhitaḥ) made(kāryastaddvirāyativigrahaḥ)
 
 ## mukta-m0-p40-v983
-auspicious-opened-eye-mark linga-head-head
+auspicious-open-eyed(śubhonmolitadṛglakṣma) linga-head(liṅgamastakamastakaḥ)
 
 ## mukta-m0-p40-v984
-from-length square-etc cubit by-that planning
+from-length(dairghyāccaturaśotyaśāscāṅgulaṃ) by-that(tena) measured(kalpanam)
 
 ## mukta-m0-p40-v985
-eight-eye-breadth may-be high that-face-length
+eight-eyed-breadth(aṣṭanetrapṛthutvaṃ) high-pronounced(proccaistadvaktradīrghatā)
 
 ## mukta-m0-p40-v986
-tantri-part but star may-be light that-fifth-part
+string-part(tantribhāgaṃ) star(tārā) light(jyotistatpañcamāṃśataḥ)
 
 ## mukta-m0-p40-v987
-nose-cubit-measure-round two-eye hollow-interior
+nose-measure-round(nāsāṅgulapramāvṛttā) two-eyed(dvinetraṃ) hollow-middle(śuṣirāntaram)
 
 ## mukta-m0-p40-v988
-five-eye but breadth that-above increases
+five-eyed(pañcanetraṃ) breadth(vistāraṃ) above-that(tadūrdhva) grows(vivardhate)
 
 ## mukta-m0-p40-v989
-four-eye both sides face-measure joined
+four-eyed-both(caturnetrobhayoḥ) sides(pārśve) face-measure(vaktramānaṃ) joined(sandhitaḥ)
 
 ## mukta-m0-p40-v990
-that-base seven-breadth ear-base-accompanied
+at-base(tanmūle) seven-breadth(saptavistāraṃ) ear-base-with(karṇamūlasamanvitam)
 
 ## mukta-m0-p40-v991
-half-cubit-equal up-to-base five-round
+half-angula(aṅgulārdhasamaṃ) until(yāvanmūlaṃ) five-round(pañcakavartulam)
 
 ## mukta-m0-p40-v992
-from-ear-base nose-half thread-laugh bring-equal
+from-ear-base(karṇamūlāttu) nose-half(nāsārdhaṃ) thread-line(sūtrahāsānnayetsamam)
 
 ## mukta-m0-p40-v993
-conch-base two-eye may-be as-front eye-foot
+conch-base(śaṅkhamūla) two-eyed(dvinetraṃ) as-before(yathāgre) eye-foot(netrapādakam)
 
 ## mukta-m0-p40-v994
-side-lump two-eye-half six-eye-front-tuft remembered
+side-lump(pārśvapiṇḍī) half-two-eyed(dvinetrārdhaṃ) six-eyed-front(ṣaḍnetrāgrāvaṭuḥ)
 
 ## mukta-m0-p40-v995
-two-eye-height-above may-be round-above as-become
+two-eyed-height(dvinetrocchrayatordhvaṃ) round-above(vṛttamūrdhvaṃ) as-is(yathā) becomes(bhavet)
 
 ## mukta-m0-p40-v996
-joint-eye-excess stated four-eye-calf
+joint-more-than-eye(sandhirnetrādhikaḥ) said(proktaścaturnetropajaṅghikā)
 
 ## mukta-m0-p40-v997
-ankle-half hoof-eye foot-from measure
+ankle-half(gulphārdhaṃ) hoof-eye(khurikānetraṃ) foot-measure(pādasyātparimāṇataḥ)
 
 ## mukta-m0-p40-v998
-fourteen-etc that-word three-less calf
+fourteen-etc(caturdaśādi) that-word(tadvaca) three-less(trihīne) lower-leg(copajaṅghrikā)
 
 ## mukta-m0-p40-v999
-six-eye-end thus-known therefore tail-continuity
+six-eyed-within(ṣaḍnetrāntastathājñeyā) thence(tasmātsyātpucchasantatiḥ)
 
 ## mukta-m0-p40-v1000
-three-palm very-long may-be palm-half hair-mass
+three-palm-length(tālatrayaṃ) long(pradīrghaṃ) half-palm(tālārdhaṃ) hair-mass(keśasaṃhatiḥ)
