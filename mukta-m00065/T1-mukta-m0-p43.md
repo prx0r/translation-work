@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p43-v1051
-[vedāṃśapātanāt](vedāṃśapātanāt) [koṇa](koṇa) [marṭāśairatha](marṭāśairatha) [kambalam](kambalam)
+[veda-portion-casting-from](vedāṃśapātanātkoṇa) [mortal-shares-and](marṭāśairatha) [blanket-neck](kambalam)
 
 ## mukta-m0-p43-v1052
-[tryaṃśapraveśanāt](tryaṃśapraveśanāt) [kaṇṭhāt](kaṇṭhāt) [ekaika-nirgamaṃ](ekaikanirgamaṃ) [khuram](khuram)
+[three-portion-entry-from](tryaṃśapraveśanātkaṇṭhādekaikanirgamaṃ) [hoof](khuram)
 
 ## mukta-m0-p43-v1053
-[ghaṇṭāṃ](ghaṇṭāṃ) [ca](ca) [mekhalāṃ](mekhalāṃ) [caiva](caiva) [kuryāt](kuryāt) [śṛṅgāṇi](śṛṅgāṇi) [koṇataḥ](koṇataḥ)
+[bell-and](ghaṇṭāṃ) [girdle-and](ca) [mekhalāṃ](mekhalāṃ) [ca-eva](caiva) [make-horns-from-corner](kuryāchṛṅgāṇi) [koṇataḥ](koṇataḥ)
 
 ## mukta-m0-p43-v1054
-[prālambyāsakta](prālambyāsakta) [revanta](revanta) [chatradhārādibhiḥ](chatradhārādibhiḥ) [yutaḥ](yutaḥ)
+[pendant-attached](prālambyāsakta) [revanta](revanta) [umbrella-ray-etc-with](śchatradhārādibhiryutaḥ)
 
 ## mukta-m0-p43-v1055
-[nānāratnasuveśāḍhyāḥ](nānāratnasuveśāḍhyāḥ) [caṇḍatejāḥ](caṇḍatejāḥ) [svabhāvajāḥ](svabhāvajāḥ)
+[various-gem-beautiful-wealthy](nānāratnasuveśāḍhyā) [fierce-radiance](caṇḍatejāḥ) [natural-born](svabhāvajāḥ)
 
 ## mukta-m0-p43-v1056
-[somaṃ](somaṃ) [saumyaṃ](saumyaṃ) [tathā](tathā) [śvetaṃ](śvetaṃ) [kuṇḍikājāpyamālinam](kuṇḍikājāpyamālinam)
+[moon](somaṃ) [gentle](saumyaṃ) [thus](tathā) [white](śvetaṃ) [kundika-japa-garlanded](kuṇḍikājāpyamālinam)
 
 ## mukta-m0-p43-v1057
-[budhaṃ](budhaṃ) [śyāmaṃ](śyāmaṃ) [yuvānaṃ](yuvānaṃ) [ca](ca) [rūpiṇaṃ](rūpiṇaṃ) [cāpapāṇinam](cāpapāṇinam)
+[mercury](budhaṃ) [dark](śyāmaṃ) [youthful](yuvānaṃ) [ca](ca) [formed](rūpiṇaṃ) [ca](ca) [bow-handed](cāpapāṇinam)
 
 ## mukta-m0-p43-v1058
-[yāmya](yāmya) [ekākṣaṃ](ekākṣaṃ) [sitaṃ](sitaṃ) [śukraṃ](śukraṃ) [kuṇḍikāmantramālikam](kuṇḍikāmantramālikam)
+[yama-one-eyed](yāmyekākṣaṃ) [white](sitaṃ) [venus](śukraṃ) [kundika-mantra-garlanded](kuṇḍikāmantramālikam)
 
 ## mukta-m0-p43-v1059
-[vyāvṛttāsyaṃ](vyāvṛttāsyaṃ) [sahāsyaṃ](sahāsyaṃ) [ca](ca) [piṅgabhrūśmaśrulocanam](piṅgabhrūśmaśrulocanam)
+[turned-face](vyāvṛttāsyaṃ) [with-smile](sahāsyaṃ) [ca](ca) [tawny-brow-beard-eye](piṅgabhrūśmaśrulocanam)
 
 ## mukta-m0-p43-v1060
-[triphalaṃ](triphalaṃ) [dhūmravarṇābhaṃ](dhūmravarṇābhaṃ) [naranāgārdharūpiṇam](naranāgārdharūpiṇam)
+[three-hooded](triphalaṃ) [smoke-colored](dhūmravarṇābhaṃ) [man-naga-half-formed](naranāgārdharūpiṇam)
 
 ## mukta-m0-p43-v1061
-[etāṃs](etāṃs) [tu](tu) [dvibhujān](dvibhujān) [sarvān](sarvān) [bhūṣaṇāmbarasaṃyutān](bhūṣaṇāmbarasaṃyutān)
+[these-all-two-armed](etāṃstu) [dvibhujānsarvānbhūṣaṇāmbarasaṃyutān](dvibhujānsarvānbhūṣaṇāmbarasaṃyutān)
 
 ## mukta-m0-p43-v1062
-[śakaṭaṃ](śakaṭaṃ) [medham](medham) [eteṣām](eteṣām) [adhaḥ](adhaḥ) [yānaṃ](yānaṃ) [kramāt](kramāt) [sadā](sadā)
+[cart](śakaṭaṃ) [medha](medham) [of-these-below](eteṣāmadho) [vehicle](yānaṃ) [in-order-always](kramātsadā)
 
 ## mukta-m0-p43-v1063
-[sitaḥ](sitaḥ) [sahasrabhogaḥ](sahasrabhogaḥ) [hīśvaraḥ](hīśvaraḥ) [kuvalayānvitaḥ](kuvalayānvitaḥ)
+[white](sitaḥ) [thousand-hooded](sahasrabhogo) [lord](hīśvaraḥ) [blue-lotus-with](kuvalayānvitaḥ)
 
 ## mukta-m0-p43-v1064
-[kṛṣṇaḥ](kṛṣṇaḥ) [karkoṭakaḥ](karkoṭakaḥ) [kaṇṭhe](kaṇṭhe) [śulkarekhātrayānvitaḥ](śulkarekhātrayānvitaḥ)
+[black](kṛṣṇaḥ) [karkotaka](karkoṭakaḥ) [neck](kaṇṭhe) [three-stripe-marked](śulkarekhātrayānvitaḥ)
 
 ## mukta-m0-p43-v1065
-[śaṅkhavarṇaḥ](śaṅkhavarṇaḥ) [mahāpadmaḥ](mahāpadmaḥ) [mastake](mastake) [kṛṣṇaśūladhṛk](kṛṣṇaśūladhṛk)
+[conch-colored](śaṅkhavarṇo) [maha-padma](mahāpadmo) [on-head](mastake) [black-trident-holder](kṛṣṇaśūladhṛk)
 
 ## mukta-m0-p43-v1066
-[kulikaḥ](kulikaḥ) [raktadehaḥ](raktadehaḥ) [tu](tu) [candrārdha](candrārdha) [kṛtamastakaḥ](kṛtamastakaḥ)
+[kulika](kuliko) [red-bodied](raktadehastu) [half-moon](candrārdha) [made-head](kṛtamastakaḥ)
 
 ## mukta-m0-p43-v1067
-[akṣasūtradharāḥ](akṣasūtradharāḥ) [sarve](sarve) [kuṇḍikāpucchasaṃyutāḥ](kuṇḍikāpucchasaṃyutāḥ)
+[rosary-holders](akṣasūtradharāḥ) [all](sarve) [kundika-tail-with](kuṇḍikāpucchasaṃyutāḥ)
 
 ## mukta-m0-p43-v1068
-[bhṛtyāḥ](bhṛtyāḥ) [ca](ca) [ekaphaṇāḥ](ekaphaṇāḥ) [kāryāḥ](kāryāḥ) [tadrūpāḥ](tadrūpāḥ) [maṇivarjitāḥ](maṇivarjitāḥ)
+[servants](bhṛtyāścaikaphaṇāḥ) [one-hooded](kāryāstadrūpā) [maṇi-without](maṇivarjitāḥ)
 
 ## mukta-m0-p43-v1069
-[hārakuṇḍalakeyūraiḥ](hārakuṇḍalakeyūraiḥ) [sadābharaṇabhūṣitā](sadābharaṇabhūṣitā)
+[necklace-earring-armlet-etc](hārakuṇḍalakeyūraiḥ) [always-ornamented](sadābharaṇabhūṣitā)
 
 ## mukta-m0-p43-v1070
-[īdṛśī](īdṛśī) [manasā](manasā) [kāryā](kāryā) [śrīkaṇṭhamanasambhavā](śrīkaṇṭhamanasambhavā)
+[thus](īdṛśī) [by-mind](manasā) [to-be-made](kāryā) [shri-kantha-mind-born](śrīkaṇṭhamanasambhavā)
 
 ## mukta-m0-p43-v1071
-[yogapaṭṭāvṛtaḥ](yogapaṭṭāvṛtaḥ) [abjasthaḥ](abjasthaḥ) [kuṇḍikā](kuṇḍikā) [cākṣasūtrabhṛt](cākṣasūtrabhṛt)
+[yoga-band-covered](yogapaṭṭāvṛto) [lotus-seated]('bjasthaḥ) [kundika-and-rosary-holder](kuṇḍikācākṣasūtrabhṛt)
 
 ## mukta-m0-p43-v1072
-[nānālaṅkārasaṃyuktāv](nānālaṅkārasaṃyuktāv) [utpalamaṇi](utpalamaṇi) [bhṛtkarau](bhṛtkarau)
+[various-ornament-with](nānālaṅkārasaṃyuktāvutpalamaṇi) [bhṛtkarau](bhṛtkarau)
 
 ## mukta-m0-p43-v1073
-[sudṛṣṭā](sudṛṣṭā) [jalpamānā](jalpamānā) [ca](ca) [svotsaṅge](svotsaṅge) [putradhāriṇī](putradhāriṇī)
+[well-seen](sudṛṣṭā) [speaking](jalpamānā) [ca](ca) [own-lap-son-holding](svotsaṅge) [putradhāriṇī](putradhāriṇī)
 
 ## mukta-m0-p43-v1074
-[padmā](padmā) [nandanapadmastha](nandanapadmastha) [svāṅgādevī](svāṅgādevī) [prakīrtitā](prakīrtitā)
+[lotus](padmā) [nandana-lotus-seated](nandanapadmastha) [own-limb-goddess](svāṅgādevī) [proclaimed](prakīrtitā)
 
 ## mukta-m0-p43-v1075
-[basukokakapidvikṣa](basukokakapidvikṣa) [vyāghravyāghrāsyakaṃ](vyāghravyāghrāsyakaṃ) [kramāt](kramāt)
+[basukoka-kapi-two-tiger-tiger-faced-in-order](basukokakapidvikṣa) [vyāghravyāghrāsyakaṃ](vyāghravyāghrāsyakaṃ) [kramāt](kramāt)
