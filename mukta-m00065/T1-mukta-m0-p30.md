@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani-anamika-parva](tarjanyanāmikāparva) [sa-pada-yava-varjita](sapādayavavarjitam)
+[tarjani](tarjanyanāmikāparva) [anāmikā](tarjanyanāmikāparva) [parva](tarjanyanāmikāparva) [sa](sapādayavavarjitam) [pāda](sapādayavavarjitam) [yava](sapādayavavarjitam) [varjitam](sapādayavavarjitam)
 
 ## mukta-m0-p30-v727
-[dvi-angula](dvyaṅgulo) [angushtha-granthi](aṅguṣṭhakagranthi) [asaam](āsāṃ) [parva-ardha-ga](parvārdhagā) [nakha](nakhāḥ)
+[dvyaṅgulaḥ](dvyaṅgulo) [aṅguṣṭhaka](aṅguṣṭhakagranthirāsāṃ) [granthiḥ](aṅguṣṭhakagranthirāsāṃ) [āsām](aṅguṣṭhakagranthirāsāṃ) [parva](parvārdhagā) [ardha](parvārdhagā) [gāḥ](parvārdhagā) [nakhāḥ](nakhāḥ)
 
 ## mukta-m0-p30-v728
-[nasa-utsedha](nāsotsedhaḥ) [sa-vistara](savistāro) [dvi-angula](dvyaṅgulo) [dvi-puta](dvipuṭaḥ) [shubha](śubhaḥ)
+[nāsā](nāsotsedhaḥ) [utsedhaḥ](nāsotsedhaḥ) [sa](savistārodvyaṅgulo) [vistāraḥ](savistārodvyaṅgulo) [dvyaṅgulaḥ](savistārodvyaṅgulo) [dvipuṭaḥ](dvipuṭaḥ) [śubhaḥ](śubhaḥ)
 
 ## mukta-m0-p30-v729
-[dvi-ardha](dvyardhaṃ) [yava](yavaṃ) [pute](puṭe) [sthule](sthūle) [madhye](madhye) [vasha](vaśa) [stri](striyāḥ)
+[dvi](dvyardhaṃ) [ardham](dvyardhaṃ) [yavam](yavaṃ) [puṭe](puṭe) [sthūle](sthūle) [madhye](madhye) [vaśa](vaśa) [tribhiḥ](stribhiryavaḥ) [yavaḥ](stribhiryavaḥ)
 
 ## mukta-m0-p30-v730
-[adhe](adhe) [aparo](aparo) [angulaka](aṅgulakaṃ) [tu](tu) [dvi-angule](dvyaṅgule) [cibuka-sthiti](cibukasthitiḥ)
+[adhaḥ](adhe) [aparaḥ](aparo) [aṅgulakam](aṅgulakaṃ) [tu](tu) [dvyaṅgule](dvyaṅgule) [cibuka](cibukasthitiḥ) [sthitiḥ](cibukasthitiḥ)
 
 ## mukta-m0-p30-v731
-[nasika-mula-parshve](nāsikāmūlapārśve) [tu](tu) [locane](locane) [dvi-angula-ayate](dvyaṅgulāyate)
+[nāsikā](nāsikāmūlapārśve) [mūla](nāsikāmūlapārśve) [pārśve](nāsikāmūlapārśve) [tu](tu) [locane](locane) [dvyaṅgula](dvyaṅgulāyate) [āyate](dvyaṅgulāyate)
 
 ## mukta-m0-p30-v732
-[indivara-abja-patra-abha](indīvarābjapatrābhā) [patola-phala-vat](paṭolaphalavat) [striya](striyāḥ)
+[indīvara](indīvarābjapatrābhā) [abja](indīvarābjapatrābhā) [patra](indīvarābjapatrābhā) [ābhā](indīvarābjapatrābhā) [paṭola](paṭolaphalavatstriyāḥ) [phala](paṭolaphalavatstriyāḥ) [vat](paṭolaphalavatstriyāḥ) [striyāḥ](paṭolaphalavatstriyāḥ)
 
 ## mukta-m0-p30-v733
-[pancama-amsha](pañcamāṃśaṃ) [bhavet](bhave) [jyoti](jyotiḥ) [srikkaṇi-sutra-tulyata](sṛkkaṇīsūtratulyataḥ)
+[pañcama](pañcamāṃśaṃ) [aṃśam](pañcamāṃśaṃ) [bhavet](bhavejjyotiḥ) [jyotiḥ](bhavejjyotiḥ) [sṛkkaṇī](sṛkkaṇīsūtratulyataḥ) [sūtra](sṛkkaṇīsūtratulyataḥ) [tulyataḥ](sṛkkaṇīsūtratulyataḥ)
 
 ## mukta-m0-p30-v734
-[ardha-angula-sama](ardhāṅgulasamā) [droni](droṇī) [sa-ardha-dvi-angula-dirghata](sārdhadvyaṅguladīrghatā)
+[ardha](ardhāṅgulasamā) [aṅgula](ardhāṅgulasamā) [samā](ardhāṅgulasamā) [droṇī](droṇī) [sārdha](sārdhadvyaṅguladīrghatā) [dvyaṅgula](sārdhadvyaṅguladīrghatā) [dīrghatā](sārdhadvyaṅguladīrghatā)
 
 ## mukta-m0-p30-v735
-[tayor](tayora) [taramatra-ardha](taramātrārdhaṃ) [striya](striyāṃ) [yava-ardha-vistrite](yavārdhavistṛte)
+[tayoḥ](tayora) [ara](taramātrārdhaṃ) [mātra](taramātrārdhaṃ) [ardham](taramātrārdhaṃ) [striyām](striyāṃ) [yava](yavārdhavistṛte) [ardha](yavārdhavistṛte) [vistṛte](yavārdhavistṛte)
 
 ## mukta-m0-p30-v736
-[karna](karṇau) [netra-daya-ayama](netradayāyāmau) [tad-ardha-adhika-vistara](tadardhādvistarastayoḥ)
+[karṇau](karṇau) [netra](netradayāyāmau) [daya](netradayāyāmau) [āyāmau](netradayāyāmau) [tad](tadardhādvistarastayoḥ) [ardha](tadardhādvistarastayoḥ) [advistaraḥ](tadardhādvistarastayoḥ) [tayoḥ](tadardhādvistarastayoḥ)
 
 ## mukta-m0-p30-v737
-[kala-ardha](kalārdhaṃ) [tad-ukau](tadukau) [khalvau](khalvau) [pasha](pāśau) [kuryat](kuryād) [yat-epsita](yathepsitau)
+[kalā](kalārdhaṃ) [ardham](kalārdhaṃ) [pāśau](pāśau) [kuryāt](kuryādyathepsitau) [yathā](kuryādyathepsitau) [īpsitau](kuryādyathepsitau)
 
 ## mukta-m0-p30-v738
-[indra-sankhya-angula](indrasaṅkhyāṅgulaṃ) [paschat](paścāt) [karnayor](karṇayor) [antara](antaraṃ) [vidu](viduḥ)
+[indra](indrasaṅkhyāṅgulaṃ) [saṅkhyā](indrasaṅkhyāṅgulaṃ) [aṅgulam](indrasaṅkhyāṅgulaṃ) [paścāt](paścātkarṇayorantaraṃ) [karṇayoḥ](paścātkarṇayorantaraṃ) [antaram](paścātkarṇayorantaraṃ) [viduḥ](viduḥ)
 
 ## mukta-m0-p30-v739
-[lalata-ashta-angula-ayama](lalāṭo'ṣṭāṅgulāyāma) [tri-angula](tryaṅgulaḥ) [shankha](śaṅkha) [ucyate](ucyate)
+[lalāṭaḥ](lalāṭo) [aṣṭa](aṣṭāṅgulāyāmastryaṅgulaḥ) [aṅgula](aṣṭāṅgulāyāmastryaṅgulaḥ) [āyāmaḥ](aṣṭāṅgulāyāmastryaṅgulaḥ) [tri](aṣṭāṅgulāyāmastryaṅgulaḥ) [aṅgulaḥ](aṣṭāṅgulāyāmastryaṅgulaḥ) [śaṅkhaḥ](śaṅkha) [ucyate](ucyate)
 
 ## mukta-m0-p30-v740
-[sapta-angulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa-angulau](sāṅgulau) [sa-yava-ucchrayau](sayavocchrayau)
+[sapta](saptāṅgulau) [aṅgulau](saptāṅgulau) [kapolau](kapolau) [tu](tu) [sa](sāṅgulau) [aṅgulau](sāṅgulau) [sa](sayavocchrayau) [yava](sayavocchrayau) [ucchrayau](sayavocchrayau)
 
 ## mukta-m0-p30-v741
-[hanu](hanū) [kala](kalā) [tri-dirghau](tradīrghau) [vdi-kalasha](vdikalaśa) [cibuka-udgama](cibukodgamaḥ)
+[hanū](hanū) [kalā](kalā) [tri](tradīrghau) [dīrghau](tradīrghau) [vdi](vdikalaścibukodgamaḥ) [kalaḥ](vdikalaścibukodgamaḥ) [cibuka](vdikalaścibukodgamaḥ) [udgamaḥ](vdikalaścibukodgamaḥ)
 
 ## mukta-m0-p30-v742
-[skandha-ashta-angula-vistara](skandho'ṣṭāṅgulavistāra) [tad-ayama](tadāyāma) [catuṣ-kala](catuṣkalā)
+[skandhaḥ](skandho) [aṣṭa](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [aṅgula](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [vistāraḥ](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [tad](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [āyāmaḥ](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [catuṣ](aṣṭāṅgulavistārastadāyāmaścatuṣkalā) [kalā](aṣṭāṅgulavistārastadāyāmaścatuṣkalā)
 
 ## mukta-m0-p30-v743
-[vistara](vistāraḥ) [kurpara](kūrparas) [tasma](tasmād) [bhuta-angulai](bhūtāṅgulai) [yavai](yavai) [tatha](tathā)
+[vistāraḥ](vistāraḥ) [kūrparaḥ](kūrparastasmādbhūtāṅgulairyavaistathā) [tasmāt](kūrparastasmādbhūtāṅgulairyavaistathā) [bhūta](kūrparastasmādbhūtāṅgulairyavaistathā) [aṅgulaiḥ](kūrparastasmādbhūtāṅgulairyavaistathā) [yavaiḥ](kūrparastasmādbhūtāṅgulairyavaistathā) [tathā](kūrparastasmādbhūtāṅgulairyavaistathā)
 
 ## mukta-m0-p30-v744
-[catur-angula-vistara](caturaṅgulavistāro) [manibandha](maṇibandhaḥ) [prakirtita](prakīrtitaḥ)
+[catura](caturaṅgulavistāro) [aṅgula](caturaṅgulavistāro) [vistāraḥ](caturaṅgulavistāro) [maṇibandhaḥ](maṇibandhaḥ) [prakīrtitaḥ](prakīrtitaḥ)
 
 ## mukta-m0-p30-v745
-[stanayor](stanayor) [antara](antaraṃ) [tala](tālaṃ) [tayor](tayoḥ) [prantau](prāntau) [dvi-netrakau](dvinetrakau)
+[stanayoḥ](stanayorantaraṃ) [antaram](stanayorantaraṃ) [tālam](tālaṃ) [tayoḥ](tayoḥ) [prāntau](prāntau) [dvi](dvinetrakau) [netrakau](dvinetrakau)
 
 ## mukta-m0-p30-v746
-[nabhi](nābhiḥ) [pradakshina-avarta](pradakṣiṇāvartā) [nimnata](nimnato) [ardha-angula-udita](ardhāṅguloditā)
+[nābhiḥ](nābhiḥ) [pradakṣiṇa](pradakṣiṇāvartā) [āvartā](pradakṣiṇāvartā) [nimnataḥ](nimnato) [ardha](ardhāṅguloditā) [aṅgula](ardhāṅguloditā) [uditā](ardhāṅguloditā)
 
 ## mukta-m0-p30-v747
-[hrid-vimshati-angula](hṛdviṃśatyaṅgulaṃ) [prokta](proktaṃ) [nabhi-desha](nābhideśaḥ) [caturdasha](caturdaśa)
+[hṛd](hṛdviṃśatyaṅgulaṃ) [viṃśati](hṛdviṃśatyaṅgulaṃ) [aṅgulam](hṛdviṃśatyaṅgulaṃ) [proktam](proktaṃ) [nābhi](nābhideśaścaturdaśa) [deśaḥ](nābhideśaścaturdaśa) [caturdaśa](nābhideśaścaturdaśa)
 
 ## mukta-m0-p30-v748
-[panca-dasha-angula](pañcādaśāṅgulaṃ) [vaksho](vakṣo) [hrid-desha](hṛddeśaḥ) [pancabhi](pañcabhi) [vina](vinā)
+[pañcādaśa](pañcādaśāṅgulaṃ) [aṅgulam](pañcādaśāṅgulaṃ) [vakṣaḥ](vakṣo) [hṛd](hṛddeśaḥ) [deśaḥ](hṛddeśaḥ) [pañcabhiḥ](pañcabhirvinā) [vinā](pañcabhirvinā)
 
 ## mukta-m0-p30-v749
-[kati](kaṭiḥ) [samveshtanena](saṃveṣṭanenoktā) [shata](śatācca) [dvi-adhika-angula](dvyadhikāṅgulā)
+[kaṭiḥ](kaṭiḥ) [saṃveṣṭanena](saṃveṣṭanenoktā) [uktā](saṃveṣṭanenoktā) [śatāt](śatācca) [ca](śatācca) [dvi](dvyadhikāṅgulā) [adhika](dvyadhikāṅgulā) [aṅgulā](dvyadhikāṅgulā)
 
 ## mukta-m0-p30-v750
-[catu-netra-pravistara](caturnetrapravistārau) [gaja-kumbha-upama](gajakumbhopamau) [shubhau](śubhau)
+[catur](caturnetrapravistārau) [netra](caturnetrapravistārau) [pravistārau](caturnetrapravistārau) [gaja](gajakumbhopamau) [kumbha](gajakumbhopamau) [upamau](gajakumbhopamau) [śubhau](śubhau)
