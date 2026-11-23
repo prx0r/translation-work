@@ -8,70 +8,70 @@
 [yatīnāṃ](yatīnāṃ) [sarvakāleṣu](sarvakāleṣu) [liṅgasyāropaṇaṃ](liṅgasyāropaṇaṃ) [matam](matam)
 
 ## mukta-m0-p56-v1378
-[dakṣiṇe-ayane](dakṣiṇetvayane) [apūjyaṃ](apūjyaṃ) [trivarṣa-ūrdhvaṃ](trivarṣordhvaṃ) [bhayāvaham](bhayāvaham)
+[dakṣiṇe](dakṣiṇe) [ayane](ayane) [apūjyaṃ](apūjyaṃ) [trivarṣa](trivarṣa) [ūrdhvaṃ](ūrdhvaṃ) [bhayāvaham](bhayāvaham)
 
 ## mukta-m0-p56-v1379
-[kṣayāya](kṣayāya) [bṛddhaye](bṛddhaye) [syāt](syācca) [ca](ca) [yāmye](yāmye) [saumye](saumye) [apare](apare) [ravau](ravau)
+[kṣayāya](kṣayāya) [bṛddhaye](bṛddhaye) [syāt](syāt) [ca](ca) [yāmye](yāmye) [saumye](saumye) [apare](apare) [ravau](ravau)
 
 ## mukta-m0-p56-v1380
-[ṣaṭṣaṇmāsa-uttarān](ṣaṭṣaṇmāsottarāṃs) [tryabdān](tryabdān) [mayamata](mayamatāt) [phalaṃ](phalaṃ) [kramāt](kramāt)
+[ṣaṭṣaṇmāsa](ṣaṭṣaṇmāsa) [uttarān](uttarān) [tryabdān](tryabdān) [mayamatāt](mayamatāt) [phalaṃ](phalaṃ) [kramāt](kramāt)
 
 ## mukta-m0-p56-v1381
-[abhicāraḥ](abhicāro) [bhavet](bhavettatra) [tatra](tatra) [sthāpite](sthāpite) [dakṣiṇe-ayane](dakṣiṇe'yane)
+[abhicāraḥ](abhicāraḥ) [bhavet](bhavet) [tatra](tatra) [sthāpite](sthāpite) [dakṣiṇe](dakṣiṇe) [ayane](ayane)
 
 ## mukta-m0-p56-v1382
-[kumārāḥ](kumārāḥ) [saṃprapīḍyante](saṃprapīḍyante) [kanyā-nāśaḥ](kanyānāśaśca) [ca](ca) [jāyate](jāyate)
+[kumārāḥ](kumārāḥ) [saṃprapīḍyante](saṃprapīḍyante) [kanyā](kanyā) [nāśaḥ](nāśaḥ) [ca](ca) [jāyate](jāyate)
 
 ## mukta-m0-p56-v1383
-[kartuḥ](kartuḥ) [kṣayaḥ](kṣayaḥ) [sadāśokaḥ](sadāśoko) [gṛhe](gṛhe) [bhavati](bhavati) [dāruṇaḥ](dāruṇaḥ)
+[kartuḥ](kartuḥ) [kṣayaḥ](kṣayaḥ) [sadāśokaḥ](sadāśokaḥ) [gṛhe](gṛhe) [bhavati](bhavati) [dāruṇaḥ](dāruṇaḥ)
 
 ## mukta-m0-p56-v1384
-[śubha-arthī](śubhārthī) [na](na) [pravarteta](pravarteta) [devyā](devyā) [mantra-ādi-śāstrataḥ](mantrādiśāstrataḥ)
+[śubhārthī](śubhārthī) [na](na) [pravarteta](pravarteta) [devyā](devyā) [mantra](mantra) [ādi](ādi) [śāstrataḥ](śāstrataḥ)
 
 ## mukta-m0-p56-v1385
-[tasmāt](tasmātsthānaṃ) [sthānaṃ](sthānaṃ) [guruṃ](guruṃ) [prāpya](prāpya) [rakṣaye](rakṣaye) [dābhicārikam](dābhicārikam)
+[tasmāt](tasmāt) [sthānaṃ](sthānaṃ) [guruṃ](guruṃ) [prāpya](prāpya) [rakṣaye](rakṣaye) [dābhicārikam](dābhicārikam)
 
 ## mukta-m0-p56-v1386
-[sthāpanaṃ](sthāpanaṃ) [tu](tu) [prakartavyaṃ](prakartavyaṃ) [śiśira-ādi](śiśirādāvṛtutraye) [ṛtu-traye](ṛtutraye)
+[sthāpanaṃ](sthāpanaṃ) [tu](tu) [prakartavyaṃ](prakartavyaṃ) [śiśirādi](śiśirādi) [ṛtutraye](ṛtutraye)
 
 ## mukta-m0-p56-v1387
-[sa-candra-tāraka-yoge](sacandratārakāyoge) [su-lagna-karaṇa-anvite](sulagnakaraṇānvitate)
+[sacandra](sacandra) [tāraka](tāraka) [yoge](yoge) [sulagna](sulagna) [karaṇa](karaṇa) [anvite](anvite)
 
 ## mukta-m0-p56-v1388
-[advaite](advaite) [ca](ca) [eva](caiva) [kṛṣṇe](kṛsṇe'pi) [api](api) [mantramūrti](mantramūrti) [prabhedataḥ](prabhedataḥ)
+[advaite](advaite) [ca](ca) [eva](eva) [kṛsṇe](kṛsṇe) [api](api) [mantramūrti](mantramūrti) [prabhedataḥ](prabhedataḥ)
 
 ## mukta-m0-p56-v1389
-[pāñcarātra](pāñcarātrārharet) [arharet](arharet) [miśrā](miśrā) [pañcāśad-varṣa-saṃsthitiḥ](pañcāśadvarṣasaṃsthitiḥ)
+[pāñcarātra](pāñcarātra) [arharet](arharet) [miśrā](miśrā) [pañcāśad](pañcāśad) [varṣa](varṣa) [saṃsthitiḥ](saṃsthitiḥ)
 
 ## mukta-m0-p56-v1390
-[śata-abdorvam](śātābdorvbaṃ) [tu](tu) [sā](sā) [tiṣṭhet](tiṣṭhedvāṇaliṅgaṃ) [vāṇa-liṅgaṃ](vāṇaliṅgaṃ) [svayambhu-vat](svayambhubat)
+[śātābdorvbaṃ](śātābdorvbaṃ) [tu](tu) [sā](sā) [tiṣṭhet](tiṣṭhet) [vāṇaliṅgaṃ](vāṇaliṅgaṃ) [svayambhubat](svayambhubat)
 
 ## mukta-m0-p56-v1391
-[bahvarthatva](bahvarthatvānipātānāṃ) [nipātānāṃ](nipātānāṃ) [saṃskāra-ādau](saṃskārādau) [pratiṣṭhitiḥ](pratiṣṭhitiḥ)
+[bahvarthatva](bahvarthatva) [nipātānāṃ](nipātānāṃ) [saṃskāra](saṃskāra) [ādau](ādau) [pratiṣṭhitiḥ](pratiṣṭhitiḥ)
 
 ## mukta-m0-p56-v1392
-[saṃskṛtā](saṃskṛtā) [dravya-san-mantra-saṃskṛtiḥ](dravyasanmantrasaṃskṛtiryā) [yā](yā) [suragya](suragya) [ca](ca)
+[saṃskṛtā](saṃskṛtā) [dravya](dravya) [san](san) [mantra](mantra) [saṃskṛtiḥ](saṃskṛtiḥ) [yā](yā) [suragya](suragya) [ca](ca)
 
 ## mukta-m0-p56-v1393
-[pratimāṃ](pratimāṃ) [pañca-bhedaiḥ](pañcabhedaistu) [tu](tu) [pratiṣṭhā](pratiṣṭhā) [pañcadhā](pañcadhoditā) [uditā](uditā)
+[pratimāṃ](pratimāṃ) [pañca](pañca) [bhedaistu](bhedaistu) [pratiṣṭhā](pratiṣṭhā) [pañcadhā](pañcadhā) [uditā](uditā)
 
 ## mukta-m0-p56-v1394
-[dvitīyā](dvitīyāyumati) [āyu](āyu) [dadyāt](dadyāttṛtīyā) [tṛtīyā](tṛtīyā) [putra-saṃpadaḥ](putrasaṃpadaḥ)
+[dvitīyā](dvitīyā) [āyu](āyu) [mati](mati) [dadyāt](dadyāt) [tṛtīyā](tṛtīyā) [putra](putra) [saṃpadaḥ](saṃpadaḥ)
 
 ## mukta-m0-p56-v1395
-[daśamī](daśamī) [bhūmi-lābhaṃ](bhūmilābhaṃ) [ca](ca) [saubhāgyaṃ](saubhāgyaṃ) [ca](ca) [trayodaśī](trayodaśī)
+[daśamī](daśamī) [bhūmi](bhūmi) [lābhaṃ](lābhaṃ) [ca](ca) [saubhāgyaṃ](saubhāgyaṃ) [ca](ca) [trayodaśī](trayodaśī)
 
 ## mukta-m0-p56-v1396
-[ekartu](ekartuśaṅkarairnandā) [śaṅkaraiḥ](śaṅkarairnandā) [nandā](nandā) [bhadrā](bhadrā) [pakṣa-ṛṣi-bhānubhiḥ](pakṣarṣibhānubhiḥ)
+[ekartu](ekartu) [śaṅkaraiḥ](śaṅkaraiḥ) [nandā](nandā) [bhadrā](bhadrā) [pakṣa](pakṣa) [ṛṣi](ṛṣi) [bhānubhiḥ](bhānubhiḥ)
 
 ## mukta-m0-p56-v1397
-[bāṇa-dik-tithibhiḥ](bāṇadiktithibhiḥ) [pūrṇā](pūrṇā) [hīna-tulya-ahitāḥ](hīnatulyāhitāḥ) [kramāt](kramāt)
+[bāṇa](bāṇa) [dik](dik) [tithibhiḥ](tithibhiḥ) [pūrṇā](pūrṇā) [hīna](hīna) [tulya](tulya) [āhitāḥ](āhitāḥ) [kramāt](kramāt)
 
 ## mukta-m0-p56-v1398
-[vṛhaspatiḥ](vṛhaspatirdvipañcāyurbudyo) [dvipa](dvipa) [budya](budyo) [jayadhanāni](jayadhanāni) [ca](ca)
+[vṛhaspatiḥ](vṛhaspatiḥ) [dvipañca](dvipañca) [āyu](āyu) [budya](budya) [jaya](jaya) [dhanāni](dhanāni) [ca](ca)
 
 ## mukta-m0-p56-v1399
-[karka](karka) [vṛṣa](vṛṣatulācāpastrīsiṃhagrāhayugmake) [tulā](tulā) [cāpa](cāpa) [strī](strī) [siṃha](siṃha) [grāha](grāha) [yugmake](yugmake)
+[karka](karka) [vṛṣa](vṛṣa) [tulā](tulā) [cāpa](cāpa) [strī](strī) [siṃha](siṃha) [grāha](grāha) [yugmake](yugmake)
 
 ## mukta-m0-p56-v1400
-[ṣaḍ-aṣṭa-catur-yāmāt](ṣaḍaṣṭacaturoyāmāccatū) [catuḥ](catū) [rāśi-krameṇa](rāśikrameṇa) [tu](tu)
+[ṣaḍ](ṣaḍ) [aṣṭa](aṣṭa) [catura](catura) [yāmāt](yāmāt) [catu](catu) [rāśi](rāśi) [krameṇa](krameṇa) [tu](tu)
