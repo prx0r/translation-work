@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "kutrameruta",
-"quick_gloss": "where?"
+"quick_gloss": "where-meru"
 },
 {
 "surface": "doṣāṃte",
@@ -16,7 +16,7 @@
 },
 {
 "surface": "svargasthān",
-"quick_gloss": "heaven-place"
+"quick_gloss": "heaven-abode"
 },
 {
 "surface": "pratikīrtyate",
@@ -33,23 +33,19 @@
 "tokens": [
 {
 "surface": "vasaṃti",
-"quick_gloss": "dwell"
+"quick_gloss": "they-dwell"
 },
 {
-"surface": "yatra",
-"quick_gloss": "where"
-},
-{
-"surface": "niyataṃ",
-"quick_gloss": "always"
+"surface": "yatra+niyataṃ",
+"quick_gloss": "where-always"
 },
 {
 "surface": "sudhāpāna",
-"quick_gloss": "nectar-drinkers"
+"quick_gloss": "nectar-drinking"
 },
 {
 "surface": "padākulāḥ",
-"quick_gloss": "confused"
+"quick_gloss": "foot-crowded"
 }
 ]
 },
@@ -69,8 +65,12 @@
 "quick_gloss": "having-gone"
 },
 {
-"surface": "tatratyairdevatāgaṇaiḥ",
+"surface": "tatratyai-",
 "quick_gloss": "there-resident"
+},
+{
+"surface": "devatāgaṇaiḥ",
+"quick_gloss": "divine-hosts"
 }
 ]
 },
@@ -137,7 +137,7 @@
 },
 {
 "surface": "pūrṇaiḥ",
-"quick_gloss": "full"
+"quick_gloss": "filled"
 },
 {
 "surface": "ratnakuṃbhaiśca",
@@ -208,7 +208,7 @@
 },
 {
 "surface": "kūtasyūta",
-"quick_gloss": "woven-thread"
+"quick_gloss": "kuta-thread"
 },
 {
 "surface": "saṃcārairapāṃgairati",
@@ -241,7 +241,7 @@
 },
 {
 "surface": "sadyogyamaśnute",
-"quick_gloss": "immediately-suitable"
+"quick_gloss": "immediately-fit"
 }
 ]
 },
@@ -329,7 +329,7 @@
 },
 {
 "surface": "yajñakarmābhyanuṣṭhitaiḥ",
-"quick_gloss": "sacrifice-rite"
+"quick_gloss": "sacrificial-rite"
 }
 ]
 },
@@ -342,10 +342,14 @@
 "tokens": [
 {
 "surface": "vedasyāpi",
-"quick_gloss": "veda"
+"quick_gloss": "of-veda"
 },
 {
-"surface": "ca tātparyaṃ",
+"surface": "ca",
+"quick_gloss": "also"
+},
+{
+"surface": "tātparyaṃ",
 "quick_gloss": "purpose"
 },
 {
@@ -363,7 +367,7 @@
 "tokens": [
 {
 "surface": "āyurvedasya",
-"quick_gloss": "ayurveda"
+"quick_gloss": "of-ayurveda"
 },
 {
 "surface": "sārastu",
@@ -371,7 +375,7 @@
 },
 {
 "surface": "vājīkaraṇamucyate",
-"quick_gloss": "aphrodisiac"
+"quick_gloss": "virilification"
 }
 ]
 },
@@ -384,7 +388,7 @@
 "tokens": [
 {
 "surface": "varthamānasyarogasya",
-"quick_gloss": "existing"
+"quick_gloss": "of-present"
 },
 {
 "surface": "nāśadvārāṃgapuṣṭitaḥ",
@@ -400,20 +404,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dharmecārthe",
-"quick_gloss": "dharma"
+"surface": "dharmecārthe+ca+kāme+ca",
+"quick_gloss": "in-duty-wealth-pleasure"
 },
 {
-"surface": "ca",
-"quick_gloss": "wealth"
-},
-{
-"surface": "kāme",
-"quick_gloss": "desire"
-},
-{
-"surface": "ca mokṣe",
-"quick_gloss": "liberation"
+"surface": "mokṣe+ca",
+"quick_gloss": "in-liberation"
 },
 {
 "surface": "girinaṃdinī",
@@ -492,7 +488,7 @@
 },
 {
 "surface": "pūjanāt",
-"quick_gloss": "worship"
+"quick_gloss": "from-worship"
 },
 {
 "surface": "puṇyasaṃbhavaḥ",
@@ -530,7 +526,7 @@
 "tokens": [
 {
 "surface": "dhanurvedasya",
-"quick_gloss": "dhanurveda"
+"quick_gloss": "of-dhanurveda"
 },
 {
 "surface": "cāpyetat",
@@ -572,7 +568,7 @@
 "tokens": [
 {
 "surface": "māṃnaṃda-",
-"quick_gloss": "me-joy"
+"quick_gloss": "maṃnaṃda-"
 }
 ]
 }
