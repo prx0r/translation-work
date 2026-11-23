@@ -14,7 +14,7 @@
 [tam](tam) [anuproddhitāḥ](anuproddhitāḥ) [sarve](sarve) [vyādhayaḥ](vyādhayaḥ) [vividha-kramāḥ](vividhakramāḥ)
 
 ## mukta-m0-p21-v505
-[atyaṃta-lolāḥ](atyaṃtalolāḥ) [durvārāḥ](durvārāḥ) [prajvalaṃtaḥ](prajvalaṃtaḥ) [sadā](sadā) [muṣā](muṣā)
+[atyaṃta-lolāḥ](atyaṃtalolāḥ) [urvārāḥ](urvārāḥ) [prajvalaṃtaḥ](prajvalaṃtaḥ) [sadā](sadā) [muṣā](muṣā)
 
 ## mukta-m0-p21-v506
 [tam](tam) [āśritya](āśritya) [mahā-satvam](mahāsatvam) [vīrabhadram](vīrabhadram) [mahā-udayam](mahodayam)
@@ -35,13 +35,13 @@
 [marma-bheda](marmabheda) [karālāpām](karālāpām) [dhārmika-ācāra](dhārmikācāra) [niṃdakān](niṃdakān)
 
 ## mukta-m0-p21-v512
-[hiṃsaṃti](hiṃsaṃti) [vyādhayaḥ](vyādhayaḥ) [tīvrāḥ](tīvrāḥ) [tat-saṃgāt](tatsaṃgāt) [aparān](aparān) [api](api)
+[hiṃsaṃti](hiṃsaṃti) [vyādhayaḥ](vyādhayaḥ) [tīvrāḥ](tīvrāḥ) [tat-saṃgāt](tat-saṃgāt) [aparān](aparān) [api](api)
 
 ## mukta-m0-p21-v513
-[āśaṃkamānaiḥ](āśaṃkamānaiḥ) [vilaya](vilaya) [mahaṃsam](mahaṃsam) [prārthitaḥ](prārthitaḥ) [purā](purā)
+[āśaṃkamānaiḥ](āśaṃkamānaiḥ) [vilaya](vilaya) [mahaṃsaṃprārthitaḥ](mahaṃsaṃprārthitaḥ) [purā](purā)
 
 ## mukta-m0-p21-v514
-[para-brahmaḥ](parabrahmaḥ) [sāsvāda-mayam](sāsvādamayam) [ānanda-dāyakam](ānandadāyakam)
+[parabrahmaḥ](parabrahmaḥ) [sāsvādamayamānaṃdadāyakam](sāsvādamayamānaṃdadāyakam)
 
 ## mukta-m0-p21-v515
 [saḥ](sa) [biṃdu](biṃdu) [śata-sāhasra](śatasāhasra) [pravahaḥ](pravahaḥ) [pavana-āhatam](pavanāhatam)
@@ -56,13 +56,13 @@
 [vividham](vividham) [vaidya-taṃtram](vaidyataṃtram) [tu](tu) [jvarādīnām](jvarādīnām) [vinuttaye](vinuttaye)
 
 ## mukta-m0-p21-v519
-[śārīra-vaidyake](śārīravaidyake) [proktāḥ](proktāḥ) [prakvātha](prakvātha) [guṭikā-ādayaḥ](guṭikādayaḥ)
+[śārīra-vaidyake](śārīravaidyake) [proktāḥ](proktāḥ) [prakvātha-ghuṭikā-ādayaḥ](prakvāthaghuṭikādayaḥ)
 
 ## mukta-m0-p21-v520
 [yathā](yathā) [dehaḥ](dehaḥ) [jvaram](jvaram) [śītam](śītam) [pittam](pittam) [śleṣmam](śleṣmam) [alaḥ](alaḥ) [nilaḥ](nilaḥ)
 
 ## mukta-m0-p21-v521
-[tathā](tathā) [jīve](jīve) [gadāḥ](gadāḥ) [proktāḥ](proktāḥ) [krodha](krodha) [udveṣaḥ](udveṣaḥ) [ca](ca) [matsaraḥ](matsaraḥ)
+[tathā](tathā) [jīve](jīve) [gadāḥ](gadāḥ) [proktāḥ](proktāḥ) [krodhaḥ](krodhaḥ) [udveṣaḥ](udveṣaḥ) [ca](ca) [matsaraḥ](matsaraḥ)
 
 ## mukta-m0-p21-v522
 [nirvedaḥ](nirvedaḥ) [ca](ca) [paritrāsaḥ](paritrāsaḥ) [śaṃkā](śaṃkā) [kutsita-ciṃtanam](kutsitaciṃtanam)
@@ -71,7 +71,7 @@
 [vikaṃpatvam](vikaṃpatvam) [vimūḍhatvam](vimūḍhatvam) [vidyā-loka](vidyāloka) [navarjitam](navarjitam)
 
 ## mukta-m0-p21-v524
-[sarvasya](sarvasya) [kutsā](kutsā) [śīlatvam](śīlatvam) [sarvatra](sarvatra) [api](api) [jugupsanam](jugupsanam)
+[sarvasya-kutsā](sarvasyakutsā) [śīlatvam](śīlatvam) [sarvatra](sarvatra) [api](api) [jugupsanam](jugupsanam)
 
 ## mukta-m0-p21-v525
-[etāḥ](etāḥ) [dṛśā](dṛśā) [aneka-bhedāḥ](anekabhedāḥ) [koṭīnām](koṭīnām) [api](api) [koṭayaḥ](koṭayaḥ)
+[etāḥ](etāḥ) [dṛśānaika-bhedāḥ](dṛśānaikabhedāḥ) [koṭīnām](koṭīnām) [api](api) [koṭayaḥ](koṭayaḥ)

@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "prāpya",
-"quick_gloss": "having-obtained"
+"quick_gloss": "having-reached"
 },
 {
 "surface": "tatra",
@@ -20,7 +20,7 @@
 },
 {
 "surface": "dīptaratneṣu",
-"quick_gloss": "in-shining-gems"
+"quick_gloss": "in-shining-jewels"
 },
 {
 "surface": "veśmasu",
@@ -36,7 +36,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmāt",
+"surface": "tasmād",
 "quick_gloss": "therefore"
 },
 {
@@ -90,12 +90,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "prāmāṇike'smin",
-"quick_gloss": "in-this-authoritative"
+"surface": "prāmāṇike",
+"quick_gloss": "on-authoritative"
+},
+{
+"surface": "asmin",
+"quick_gloss": "this"
 },
 {
 "surface": "suśroṇi",
-"quick_gloss": "fair-hipped"
+"quick_gloss": "beautiful-hipped"
 },
 {
 "surface": "mārge",
@@ -140,7 +144,7 @@
 },
 {
 "surface": "gurau",
-"quick_gloss": "in-guru"
+"quick_gloss": "in-teacher"
 }
 ]
 },
@@ -153,7 +157,7 @@
 "tokens": [
 {
 "surface": "vṛdhā",
-"quick_gloss": "elder"
+"quick_gloss": "old"
 }
 ]
 },
@@ -216,7 +220,7 @@
 "tokens": [
 {
 "surface": "karmaśraddhā",
-"quick_gloss": "action-faith"
+"quick_gloss": "deed-faith"
 },
 {
 "surface": "saṃpradāyā",
@@ -244,16 +248,12 @@
 "quick_gloss": "always-pure"
 },
 {
-"surface": "mūrkhāś",
+"surface": "mūrkhāścaṃḍālādyāśca",
 "quick_gloss": "fools"
 },
 {
-"surface": "caṃḍālādyāś",
-"quick_gloss": "caṇḍāla-etc"
-},
-{
-"surface": "ca jātayaḥ",
-"quick_gloss": "and-castes"
+"surface": "jātayaḥ",
+"quick_gloss": "castes"
 }
 ]
 },
@@ -269,28 +269,20 @@
 "quick_gloss": "no-conduct"
 },
 {
-"surface": "na ca",
+"surface": "na",
 "quick_gloss": "nor"
 },
 {
-"surface": "vā śaucaṃ",
+"surface": "ca vā śaucaṃ",
 "quick_gloss": "purity"
 },
 {
-"surface": "na",
-"quick_gloss": "nor"
+"surface": "na vaiduṣyaṃ",
+"quick_gloss": "no-learning"
 },
 {
-"surface": "vaiduṣyaṃ",
-"quick_gloss": "learning"
-},
-{
-"surface": "na",
-"quick_gloss": "nor"
-},
-{
-"surface": "dhīguṇāḥ",
-"quick_gloss": "intellect-qualities"
+"surface": "na dhīguṇāḥ",
+"quick_gloss": "no-intellect-qualities"
 }
 ]
 },
@@ -306,20 +298,12 @@
 "quick_gloss": "faith"
 },
 {
-"surface": "nāma",
-"quick_gloss": "named"
+"surface": "nāmamanaso",
+"quick_gloss": "named-mind"
 },
 {
-"surface": "manaso",
-"quick_gloss": "mind's"
-},
-{
-"surface": "dṛḍhatā",
+"surface": "dṛḍhatāmaṃtrasādhane",
 "quick_gloss": "firmness"
-},
-{
-"surface": "maṃtrasādhane",
-"quick_gloss": "in-mantra-accomplishment"
 }
 ]
 },
@@ -336,15 +320,11 @@
 },
 {
 "surface": "viśvāsamāpannaḥ",
-"quick_gloss": "faith-obtained"
+"quick_gloss": "faith-attained"
 },
 {
-"surface": "phalārthi",
+"surface": "phalārthiphalavigrahaḥ",
 "quick_gloss": "fruit-desiring"
-},
-{
-"surface": "phalavigrahaḥ",
-"quick_gloss": "fruit-form"
 }
 ]
 },
@@ -357,11 +337,11 @@
 "tokens": [
 {
 "surface": "brāhmaṇakṣatriya viśā",
-"quick_gloss": "brāhmaṇa-kṣatriya-vaiśya"
+"quick_gloss": "brahmin-kshatriya-vaishya"
 },
 {
 "surface": "madhikāro'traśāsanam",
-"quick_gloss": "authority-here-instruction"
+"quick_gloss": "authority-here-rule"
 }
 ]
 },
@@ -395,7 +375,7 @@
 "tokens": [
 {
 "surface": "vaiśyasya",
-"quick_gloss": "vaiśya's"
+"quick_gloss": "of-vaishya"
 },
 {
 "surface": "paṇyalābhārdhaṃ",
@@ -403,7 +383,7 @@
 },
 {
 "surface": "sudrādernakadācana",
-"quick_gloss": "śūdra's-never"
+"quick_gloss": "of-shudra-never"
 }
 ]
 },
@@ -416,7 +396,7 @@
 "tokens": [
 {
 "surface": "ekaivajātirnārīti",
-"quick_gloss": "one-caste-woman"
+"quick_gloss": "one-caste"
 },
 {
 "surface": "grāhyā",
@@ -424,7 +404,7 @@
 },
 {
 "surface": "lakṣaṇasaṃbhave",
-"quick_gloss": "with-signs"
+"quick_gloss": "with-marks"
 }
 ]
 },
@@ -483,19 +463,15 @@
 "tokens": [
 {
 "surface": "strīmukhaṃ",
-"quick_gloss": "woman's-mouth"
+"quick_gloss": "women-mouth"
 },
 {
 "surface": "tu sadā",
 "quick_gloss": "always"
 },
 {
-"surface": "śuddhir",
+"surface": "śuddhirnocciṣṭaṃ",
 "quick_gloss": "purity"
-},
-{
-"surface": "nocciṣṭaṃ",
-"quick_gloss": "no-leftover"
 },
 {
 "surface": "tatra",
@@ -503,7 +479,7 @@
 },
 {
 "surface": "vidyate",
-"quick_gloss": "exists"
+"quick_gloss": "known"
 }
 ]
 },
@@ -519,24 +495,16 @@
 "quick_gloss": "without-them"
 },
 {
-"surface": "na",
-"quick_gloss": "no"
+"surface": "na yajño'sti",
+"quick_gloss": "no-sacrifice"
 },
 {
-"surface": "yajño'sti",
-"quick_gloss": "sacrifice"
+"surface": "na tapo'stina",
+"quick_gloss": "no-austerity"
 },
 {
-"surface": "na",
-"quick_gloss": "no"
-},
-{
-"surface": "tapo'sti",
-"quick_gloss": "austerity"
-},
-{
-"surface": "na vā",
-"quick_gloss": "no"
+"surface": "vā",
+"quick_gloss": "or"
 },
 {
 "surface": "vratam",
@@ -590,7 +558,7 @@
 },
 {
 "surface": "prakīrtitā",
-"quick_gloss": "called"
+"quick_gloss": "proclaimed"
 }
 ]
 },
@@ -631,20 +599,20 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "bhoginī",
+"surface": "bhoginībhogalakṣmīśca",
 "quick_gloss": "enjoyer"
-},
-{
-"surface": "bhogalakṣmīśca",
-"quick_gloss": "enjoyment-lakṣmī"
 },
 {
 "surface": "tasyāḥ",
 "quick_gloss": "her"
 },
 {
-"surface": "paryāya sūktayaḥ",
+"surface": "paryāya",
 "quick_gloss": "synonyms"
+},
+{
+"surface": "sūktayaḥ",
+"quick_gloss": "well-spoken"
 }
 ]
 }
