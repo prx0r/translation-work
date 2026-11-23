@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p76-v1876
-by-yoga-of-śiva-umā-mantra(śivomāmantrayogena) union(sandhānaṃ) of-prosperity-seekers(bhūtikāṅkṣiṇām)
+śiva-umā-mantra-yoga-by(sandhānaṃ) union of-those-desiring-prosperity(bhūtikāṅkṣiṇām)
 
 ## mukta-m0-p76-v1877
-from-form-etc-ending(mūrtyādyaṅkāvasānaṃ) again(punarevaṃ) thus(tu) place(vinyaset)
+mūrti-ādi-aṅka-avasānaṃ tu punar-evam tu vinyaset
 
 ## mukta-m0-p76-v1878
-then(tataḥ)
+tataḥ
 
 ## mukta-m0-p76-v1879
-of-rudra-etc-all(rudrādīnāṃ+tu+sarveṣāṃ) establishment(sthāpanaṃ) truly(tathvataḥ) in-order(kramāt)
+rudra-ādīnām tu sarveṣām sthāpanam tattvataḥ kramāt
 
 ## mukta-m0-p76-v1880
-ātma-vidyās(ātmavidyāḥ) śiva(śivaṃ) and(caiva) meditate(bhāvayedanupūrvataḥ)
+ātma-vidyāḥ śivam ca-eva bhāvayet-anupūrvataḥ
 
 ## mukta-m0-p76-v1881
-established(vyavasthitāḥ)
+vyavasthitāḥ
 
 ## mukta-m0-p76-v1882
-in-vidyā-tattva(vidyātattve) situated(sthitā) indeed(hyete) with-authority(sādhikāre) know(vidurbudhāḥ)
+vidyā-tattve sthitāḥ hi-ete sa-adhikāre viduḥ-budhāḥ
 
 ## mukta-m0-p76-v1883
-three-tattva-pervasion(tritattvavyāptirākhyātā) paths(panthānaḥ) sixfold(ṣaḍvidhāstviha)
+tri-tattva-vyāptiḥ-ākhyātā panthānaḥ ṣaḍ-vidhāḥ-tu-iha
 
 ## mukta-m0-p76-v1884
-in-order(kramāt)
+kramāt
 
 ## mukta-m0-p76-v1885
-thirty-five-tattva(triṃśatpañcādhikaṃ+tattvaṃ) good-path(sanmārgaṃ) aiśvara-pīṭha(pīṭhamaiśvaram)
+triṃśat-pañca-adhikam tattvam san-mārgam pīṭham-aiśvaram
 
 ## mukta-m0-p76-v1886
-with-ten-arms(bhujaistu+daśabhiryuktaṃ) jaṭā-mukuṭa-adorned(jaṭāmukuṭamaṇḍitam)
+bhujaistu daśabhiḥ-yuktam jaṭā-mukuṭa-maṇḍitam
 
 ## mukta-m0-p76-v1887
-with-gods-and-siddhas(gaṇairdevaistathā+siddhaiḥ) praised(stūyamānaiḥ) accompanied(samāyutam)
+gaṇaiḥ-devaiḥ-tathā siddhaiḥ stūyamānaiḥ samāyutam
 
 ## mukta-m0-p76-v1888
-by-sadyolāta(sadyolātena) considering(saṃcintya) by-vāmadeva(vāmadevena) place(vinyaset)
+sadyojātena saṃcintya vāmadevena vinyaset
 
 ## mukta-m0-p76-v1889
-engaged-in-cognition(bodhakriyāniviṣṭaṃ) knowable(jñeyaṃ) remember-as-knowledge-refuge(jñānāśritaṃ+smaret)
+bodha-kriyā-niviṣṭam tu jñeyam jñāna-āśritam smaret
 
 ## mukta-m0-p76-v1890
-tārā-in-middle-sound(dhvanimadhyagatā+tārā) tārā-in-middle-moon(tārāmadhyagateḥ+śaśī)
+dhvani-madhya-gatā tārā tārā-madhya-gateḥ śaśī
 
 ## mukta-m0-p76-v1891
-sun-in-middle-peaceful(ravimadhyagataḥ+śāntaḥ) peaceful-in-middle-śiva(śāntamadhyagataḥ+śivaḥ)
+ravi-madhya-gataḥ śāntaḥ śānta-madhya-gataḥ śivaḥ
 
 ## mukta-m0-p76-v1892
-then-digdevatā-homa(tadā+digdevatāhomaḥ) do(kāryā) peace-and-fault-remover(śāntiśca+doṣahṛt)
+tadā dig-devatā-homaḥ kāryā śāntiḥ-ca doṣa-hṛt
 
 ## mukta-m0-p76-v1893
-otherwise(anyathā) becomes(bhavedghoraṃ) doer-king-deformer(kartṛrāṣṭravirūpakam)
+anyathā tu bhavet-ghoram kartṛ-rāṣṭra-virūpakam
 
 ## mukta-m0-p76-v1894
-elephant-goat-lulāya(gajaṃ+chāgaṃ+lulāyaṃ) and-dāsī-fish-deer-ewe(ca+dāsīṃ+matsyaṃ+mṛgāvikam)
+gajam chāgam lulāyam ca dāsīm matsyam mṛga-āvikam
 
 ## mukta-m0-p76-v1895
-thread-of-wing-then-give(pakṣasūtraṃ+tato+dadyādṛjvarthaṃ) hanging-thread(lambasūtrakam)
+pakṣa-sūtram tato dadyāt-ṛju-artham lamba-sūtrakam
 
 ## mukta-m0-p76-v1896
-in-moving-sounding-erring-bowing-steady(calile+śabdite+bhrānte+praṇate+svasthite) in-order(kramāt)
+calile śabdite bhrānte praṇate svasthite kramāt
 
 ## mukta-m0-p76-v1897
-with-auspicious-milk-metal-impurities(kṣīralohamalaiḥ+śubhaiḥ)
+kṣīra-loha-malaiḥ śubhaiḥ
 
 ## mukta-m0-p76-v1898
-then-peace-pot-water-snāna(tataḥ+śāntighaṭāmmobhiḥ+snānaṃ) form-bearers-own(mūrtidharāḥ+svakam)
+tataḥ śānti-ghaṭa-āmbobhiḥ snānam mūrti-dharāḥ svakam
 
 ## mukta-m0-p76-v1899
-with-water-milk-curd-honey-ghee-water-inner(toyakṣīradadhikṣaudraghṛtatoyāntarātmakaiḥ)
+toya-kṣīra-dadhi-kṣaudra-ghṛta-toya-antar-ātmakaiḥ
 
 ## mukta-m0-p76-v1900
-mugdā-of-four-angula-moving-placement(mugdā+dyaṅgulamātrasya+calasya+sthāpane+hitam)
+mugdā dyaṅgula-mātrasya calasya sthāpane hitam
