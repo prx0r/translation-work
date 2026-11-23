@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-[gloss](gandhaṃ) [gloss](puṣpaṃ) [gloss](ca) [gloss](dhūpādyaṃ) [gloss](sākṣataṃ) [gloss](ca) [gloss](pavitrakam)
+[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-unbroken-rice](sākṣataṃ) [and](ca) [sacred-thread](pavitrakam)
 
 ## mukta-m0-p123-v3052
-[gloss](śivaṃ) [gloss](nivedayet) [gloss](mūrdhni) [gloss](recakena) [gloss](amṛtīkṛtam)
+[śiva](śivaṃ) [should-offer](nivedayet) [on-head](mūrdhni) [by-recaka](recakena) [made-nectar](amṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
-[gloss](prātaḥ) [gloss](snātaḥ) [gloss](śuciḥ) [gloss](śuddhaḥ) [gloss](pūjāṃ) [gloss](kuryāt) [gloss](svavittataḥ)
+[in-morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [should-do](kuryāt) [according-to-wealth](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-[gloss](pañcabhiḥ) [gloss](madhuraiḥ) [gloss](snānaṃ) [gloss](jalāntaraiḥ) [gloss](virukṣaṇam)
+[with-five](pañcabhiḥ) [sweet-things](madhuraiḥ) [bathing](snānaṃ) [with-water-purifications](jalāntarair) [sprinkling](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-[gloss](aṣṭāṅgaḥ) [gloss](arghaṃ) [gloss](pradāya) [gloss](atha) [gloss](samālabhya) [gloss](prapūjayet)
+[eight-limbed](aṣṭāṅgaḥ) [arghya](arghaṃ) [having-given](pradāya) [then](atha) [having-anointed](samālabhya) [should-worship](prapūjayet)
 
 ## mukta-m0-p123-v3056
-[gloss](vastraiḥ) [gloss](saṃchāditaṃ) [gloss](veśma) [gloss](ghaṭa) [gloss](cāmara) [gloss](bhūṣaṇaiḥ)
+[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [house](veśma) [with-pots-fans-ornaments](ghaṭācāmarabhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-[gloss](kadalī) [gloss](cūta) [gloss](mālābhiḥ) [gloss](jāta) [gloss](bīja) [gloss](sarocakaiḥ)
+[with-banana-mango-garlands](kadalīcūtamālābhir) [born-seed-radiant](jātabījasarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-[gloss](nṛtya) [gloss](gītaiḥ) [gloss](kalaiḥ) [gloss](vādyaiḥ) [gloss](nayet) [gloss](rātriṃ) [gloss](mahotsavaiḥ)
+[with-dance-song](nṛtyagītaiḥ) [pleasant](kalaiḥ) [with-instruments](vādyair) [should-spend](nayed) [night](rātriṃ) [great-festivals](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-[gloss](bhaktyā) [gloss](santoṣayet) [gloss](sarvān) [gloss](vastra) [gloss](dāna) [gloss](ādi) [gloss](bhojanaiḥ)
+[with-devotion](bhaktyā) [should-please](santoṣayet) [all](sarvān) [with-cloth-gifts-etc-food](vastradānādibhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-[gloss](sarva) [gloss](pāpa) [gloss](vinirmuktaḥ) [gloss](rudra) [gloss](loke) [gloss](mahīyate)
+[freed-from-all-sins](sarvapāpavinirmuktaḥ) [in-Rudra-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p123-v3061
-[gloss](khaṭvā) [gloss](śayana) [gloss](mithyā) [gloss](ukti) [gloss](strī) [gloss](yātrā) [gloss](miṣa) [gloss](varjakaḥ)
+[bed-false-speech](khaṭvāśayanamithyokti) [woman-journey-meat-avoider](strīyātrāmiṣavarjakaḥ)
 
 ## mukta-m0-p123-v3062
-[gloss](pūjāṃ) [gloss](kṛtvā) [gloss](śivaṃ) [gloss](natvā) [gloss](pavitraṃ) [gloss](ca) [gloss](visarjayet)
+[worship](pūjāṃ) [having-done](kṛtvā) [śiva](śivaṃ) [having-bowed](natvā) [sacred-thread](pavitraṃ) [should-release](visarjayet)
 
 ## mukta-m0-p123-v3063
-[gloss](kṛtvā) [gloss](kṣipet) [gloss](pavitrāṇi) [gloss](śiva) [gloss](agnau) [gloss](vā) [gloss](sadā) [gloss](ambhasi)
+[having-done](kṛtvā) [should-cast](kṣipet) [sacred-threads](pavitrāṇi) [in-śiva-fire](śivāgnau) [or](vā) [in-perpetual-water](sadāmbhasi)
 
 ## mukta-m0-p123-v3064
-[gloss](syāt) [gloss](prāyaścitta) [gloss](adhogāmī) [gloss](kṛtaḥ) [gloss](rudraḥ) [gloss](abda) [gloss](koṭiśaḥ)
+[becomes](syāt) [expiation-descending](prāyaścittyadhogāmī) [done](kṛtaḥ) [rudra](rudraḥ) [year](abda) [millions](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-[gloss](tāmra) [gloss](liṅga) [gloss](arcana) [gloss](arkaḥ) [gloss](piśācaḥ) [gloss](vaṃśa) [gloss](sambhavāt)
+[copper-liṅga-worship-sun](tāmraliṅgārcanādarkaḥ) [demon](piśācaḥ) [from-bamboo-birth](vaṃśasambhavāt)
 
 ## mukta-m0-p123-v3066
-[gloss](sīsa) [gloss](jāḥ) [gloss](yakṣāḥ) [gloss](sarve) [gloss](loha) [gloss](rakṣaḥ) [gloss](asura) [gloss](antakāḥ)
+[lead-born](sīsajā) [demons](guhyakāḥ) [all](sarve) [iron](lohāt) [rākṣasa](rakṣaḥ) [asura-ender](asurāntakāḥ)
 
 ## mukta-m0-p123-v3067
-[gloss](padmarāga) [gloss](āt) [gloss](hutāśaḥ) [gloss](ca) [gloss](indranīla) [gloss](arcana) [gloss](āt) [gloss](hariḥ)
+[ruby](padmarāgāt) [fire-god](hutāśaḥ) [and](ca) [sapphire](indranīlāt) [worship](arcanāt) [viṣṇu](hariḥ)
 
 ## mukta-m0-p123-v3068
-[gloss](vaidruma) [gloss](āsya) [gloss](arcana) [gloss](āt) [gloss](nāgāḥ) [gloss](śukraḥ) [gloss](kārketana) [gloss](āt) [gloss](sadā)
+[coral](vaidruma) [worship](arcyāt) [serpents](nāgāḥ) [venus](śukraḥ) [from-cat's-eye](kārketanāt) [always](sadā)
 
 ## mukta-m0-p123-v3069
-[gloss](paulastyaḥ) [gloss](jīva) [gloss](jātibhyaḥ) [gloss](aṣṭa) [gloss](ṭṭibhāt) [gloss](siddha) [gloss](kinnarāḥ)
+[paulastya](paulastyaḥ) [from-jupiter-born](jīvajātibhyaḥ) [eight](aṣṭai) [from-ṭṭibha](ṭṭibhāt) [perfected](siddha) [kinnaras](kinnarāḥ)
 
 ## mukta-m0-p123-v3070
-[gloss](aśvinau) [gloss](pakva) [gloss](mṛt) [gloss](bhūtāt) [gloss](gandharvāḥ) [gloss](dāra) [gloss](sambhavāt)
+[aśvins](aśvinau) [from-baked-clay](pakvamṛdbhūtāt) [gandharvas](gandharvāḥ) [from-wife-born](dārasambhavāt)
 
 ## mukta-m0-p123-v3071
-[gloss](kūrma) [gloss](kauśika) [gloss](bhūtāt) [gloss](vāsuki) [gloss](nāyināyakaḥ)
+[kūrma-kauśika](kūrmakauśi) [from-kasi](kasi) [from-born](bhūtāt) [vāsuki](vāsuki) [leader](nāyakaḥ)
 
 ## mukta-m0-p123-v3072
-[gloss](liṅga) [gloss](saṃsthāpana) [gloss](arcana) [gloss](āt)
+[from-liṅga-installation-worship](liṅgasaṃsthāpanārcanāt)
 
 ## mukta-m0-p123-v3073
-[gloss](soma) [gloss](pāḥ)
+[soma-drinkers](somapāḥ)
 
 ## mukta-m0-p123-v3074
-[gloss](nānā) [gloss](phala) [gloss](uttha) [gloss](liṅgāni) [gloss](vidhinā) [gloss](sevitāni) [gloss](ca)
+[various-fruit-born-liṅgas](nānāphalotthaliṅgāni) [by-rite](vidhinā) [served](sevitāni) [and](ca)
 
 ## mukta-m0-p123-v3075
-[gloss](saikata) [gloss](āt) [gloss](viśvakarmā) [gloss](ca) [gloss](śacī) [gloss](īśaḥ) [gloss](lavaṇa) [gloss](dbhavāt)
+[from-sand](saikatāt) [viśvakarmā](viśvakarmā) [and](ca) [śacī-lord](śacīśaḥ) [from-salt](lavaṇa) [born](bhavāt)
