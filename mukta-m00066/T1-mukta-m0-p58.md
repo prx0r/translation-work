@@ -5,46 +5,46 @@
 [seen](dṛṣṭa) [all](sarvā) [of-action](kṛtitvasya) [occurrence](ghaṭanaṃ) [not](na) [in-pot](ghaṭe) [becomes](bhavat)
 
 ## mukta-m0-p58-v1427
-[threefold](tritvantu) [of-practice](vyavahārasya) [also](api) [expectation](apekṣa) [here](atra) [accepted](sammatam)
+[three-principle](tritvantu) [of-practice](vyavahārasya) [also-expectation](apyapekṣa) [here](atra) [agreed](sammatam)
 
 ## mukta-m0-p58-v1428
-[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [by-sound](śabdabhāvyam) [here](iha) [now](adhunā)
+[ninth](navamaṃ) [śiva-principle](śivatatvaṃ) [but](tu) [by-sound](śabdabhāvyam) [here-now](ihādhunā)
 
 ## mukta-m0-p58-v1429
-[sound-manifestation](śabdabhāsyatvam) [abandoning](ujhitvā) [by-direct-perception](svādhyakṣeṇa) [shines](sabhāsate)
+[by-sound-manifestation](śabdabhāsyatvam) [abandoning](ujhitvā) [by-self-perception](svādhyakṣeṇa) [shines](sabhāsate)
 
 ## mukta-m0-p58-v1430
-[own-support](svāśrayo) [of-wind](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
+[self-support](svāśrayo) [of-wind-one](marudekasya) [indifferent](udāsīnaṃ) [darkness](tamaḥ) [remembered](smṛtam)
 
 ## mukta-m0-p58-v1431
-[śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [well](samyag) [discerned](vivicyate)
+[śiva](śivastu) [all-support](sarvāśrayaḥ) [would-be](syāt) [there](tatra) [well-distinguished](samyagvivicyate)
 
 ## mukta-m0-p58-v1432
-[to-me](mahyāṃ) [siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
+[in-earth](mahyāṃ) [as-siddhi-form](siddhādirūpeṇa) [wind-cloud-snow-nature](vāyaumeghahimātmatā)
 
 ## mukta-m0-p58-v1433
-[sound-this-ghī-water-wind](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
+[by-sound-this-water-air](śabdemaṃghījalamarut) [support](saṃśrayaḥ) [said](kathitaḥ) [dear](priye)
 
 ## mukta-m0-p58-v1434
 [aggregate](saṃghātaśca) [of-earth-etc](pṛthivyādeḥ) [as-body](śarīratvena) [proclaimed](kīrtyate)
 
 ## mukta-m0-p58-v1435
-[by-breath](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [sentient](sacit) [here](kam) [called](ihocyate)
+[by-life-force](prāṇena) [moving](ceṣṭamānaṃ) [that](yat) [conscious](sacit) [here-called](kamihocyate)
 
 ## mukta-m0-p58-v1436
-[mind-support](manaḥsaṃsrayaṇaṃ) [living](prāṇi) [sentient](sacit) [body-remembered](kavapuṣismṛtam)
+[mind-support](manaḥsaṃsrayaṇaṃ) [living-being](prāṇi) [conscious](sacit) [body-remembered](kavapuṣismṛtam)
 
 ## mukta-m0-p58-v1437
 [of-all-here-principles](sarveṣāmihatatvānāṃ) [modification](vikṛtir) [from-quality-difference](guṇabhedajā)
 
 ## mukta-m0-p58-v1438
-[aggregates](saṃghātajāśca) [aggregates](saṃghātā) [many](bahavo) [not-one-formed](naikarūpiṇaḥ)
+[aggregates-born](saṃghātajāśca) [aggregates](saṃghātā) [many-not-one-formed](bahavonaikarūpiṇaḥ)
 
 ## mukta-m0-p58-v1439
-[by-much](bahunā) [what](kim) [here](iha) [said](uktena) [what](kintatvair) [other](aparair) [inert](jaḍaiḥ)
+[by-much](bahunā) [what-here-said](kimihoktena) [what-principle](kintatvair) [other-inert](aparairjaḍaiḥ)
 
 ## mukta-m0-p58-v1440
-[uncuttable](acchedyo) [this](yam) [unburnable](adāhoya) [unwettable](makledyo) [undryable](aśoṣya) [indeed](eva) [and](ca)
+[uncuttable](acchedyo) [unburnable](adāhoya) [unwettable](makledyo) [undryable](aśoṣya) [thus](eva) [ca](ca)
 
 ## mukta-m0-p58-v1441
 [of-all-universe](sarvaviśvasya) [begetter](janakaḥ) [of-all-universe](sarvaviśvasya) [protector](pālakaḥ)
@@ -68,10 +68,10 @@
 [this](etat) [tu](tu) [principle](tattvaṃ) [said](kathitam) [of-this](asya) [eva](eva) [other](anyā) [powers](vibhūtayaḥ)
 
 ## mukta-m0-p58-v1448
-[that](tat) [that-śāstra](tacchāstra) [position](sthitiḥ) [all](sarvā) [said](kathitā) [girinandinī](girinaṃdini)
+[that](tat) [that-scripture](tacchāstra) [position](sthitiḥ) [all](sarvā) [said](kathitā) [mountain-daughter](girinaṃdini)
 
 ## mukta-m0-p58-v1449
-[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [askable](praṣṭavyaṃ) [touched](spṛṣṭam) [in-mind](āśaye)
+[elsewhere](anyatra) [my](mama) [what](yat) [kiṃcit](kiṃcit) [to-be-asked](praṣṭavyaṃ) [touched-in-mind](spṛṣṭamāśaye)
 
 ## mukta-m0-p58-v1450
 [many](aneka) [creature-net](jantujālena) [dense](nibiḍasya) [continuously](nirantaram)

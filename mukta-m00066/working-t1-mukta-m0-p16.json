@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "akliṣṭatā",
-"quick_gloss": "unblemishedness"
+"quick_gloss": "freedom-from-affliction"
 },
 {
 "surface": "puṣṭatā",
@@ -16,11 +16,11 @@
 },
 {
 "surface": "ca",
-"quick_gloss": "and"
+"quick_gloss": "ca"
 },
 {
 "surface": "rathanemisamānatā",
-"quick_gloss": "chariot-rim-likeness"
+"quick_gloss": "wheel-rim-likeness"
 }
 ]
 },
@@ -33,15 +33,15 @@
 "tokens": [
 {
 "surface": "phaṇiśīrṣasamānatvaṃ",
-"quick_gloss": "snake-hood-likeness"
+"quick_gloss": "hooded-serpent-head-likeness"
 },
 {
 "surface": "prasannadravatā",
-"quick_gloss": "clear-fluidity"
+"quick_gloss": "clarity"
 },
 {
 "surface": "tathā",
-"quick_gloss": "so"
+"quick_gloss": "tathā"
 }
 ]
 },
@@ -54,7 +54,7 @@
 "tokens": [
 {
 "surface": "sarvalakṣaṇa",
-"quick_gloss": "all-auspicious-marks"
+"quick_gloss": "all-marks"
 },
 {
 "surface": "yuktatvaṃ",
@@ -62,7 +62,7 @@
 },
 {
 "surface": "kulakṣaṇavihīnatā",
-"quick_gloss": "bad-mark-absence"
+"quick_gloss": "family-mark-absence"
 }
 ]
 },
@@ -75,11 +75,11 @@
 "tokens": [
 {
 "surface": "saṃskārasya",
-"quick_gloss": "refinement-glory"
+"quick_gloss": "refinement"
 },
 {
 "surface": "mahimneva",
-"quick_gloss": "mahimneva"
+"quick_gloss": "greatness"
 },
 {
 "surface": "bhāsaṃte",
@@ -87,7 +87,7 @@
 },
 {
 "surface": "te",
-"quick_gloss": "those"
+"quick_gloss": "they"
 },
 {
 "surface": "guṇāḥ",
@@ -145,12 +145,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ānaṃda",
+"surface": "ānaṃda+bhairavasya",
 "quick_gloss": "bliss-bhairava"
 },
 {
-"surface": "bhairavasyārcāsādhanaṃ",
-"quick_gloss": "bhairavasyārcāsādhanaṃ"
+"surface": "arcā",
+"quick_gloss": "worship"
+},
+{
+"surface": "sādhanaṃ",
+"quick_gloss": "means"
 },
 {
 "surface": "viśvamohanam",
@@ -167,11 +171,11 @@
 "tokens": [
 {
 "surface": "suśobhadakramagrāsī",
-"quick_gloss": "beautiful-toothed"
+"quick_gloss": "beautiful-step-devouring"
 },
 {
 "surface": "samastāpannikṛṃtanam",
-"quick_gloss": "all-disease-cutting"
+"quick_gloss": "all-pain-cutting"
 }
 ]
 },
@@ -184,7 +188,7 @@
 "tokens": [
 {
 "surface": "veśmacaṃdrakalānāṃ",
-"quick_gloss": "house-moon-rays"
+"quick_gloss": "house-moon-crescents"
 },
 {
 "surface": "ca",
@@ -192,7 +196,7 @@
 },
 {
 "surface": "sadmasaubhāgyasaṃpadām",
-"quick_gloss": "abode-auspiciousness-prosperity"
+"quick_gloss": "abode-auspiciousness-wealth"
 }
 ]
 },
@@ -226,7 +230,7 @@
 },
 {
 "surface": "lokadhikkāradāyakam",
-"quick_gloss": "world-contempt-giving"
+"quick_gloss": "people-contempt-giving"
 }
 ]
 },
@@ -243,7 +247,7 @@
 },
 {
 "surface": "naṣṭam",
-"quick_gloss": "destroyed"
+"quick_gloss": "lost"
 },
 {
 "surface": "ucchiṣṭam",
@@ -251,7 +255,7 @@
 },
 {
 "surface": "apakṛṣṭaṃ",
-"quick_gloss": "inferior"
+"quick_gloss": "degraded"
 },
 {
 "surface": "vicarcitam",
@@ -272,7 +276,7 @@
 },
 {
 "surface": "karkkaśacarmāḍhyam",
-"quick_gloss": "rough-skinned"
+"quick_gloss": "rough-skin-rich"
 },
 {
 "surface": "aṃtar",
@@ -280,7 +284,7 @@
 },
 {
 "surface": "gojihvayānvitam",
-"quick_gloss": "cow-tongued"
+"quick_gloss": "cow-tongue-having"
 }
 ]
 },
@@ -330,7 +334,7 @@
 },
 {
 "surface": "tat",
-"quick_gloss": "that"
+"quick_gloss": "tat"
 },
 {
 "surface": "pūjāsādhanamiṣyate",
@@ -350,20 +354,12 @@
 "quick_gloss": "approaches"
 },
 {
-"surface": "paraḥ",
-"quick_gloss": "supreme"
+"surface": "paraḥsākṣād",
+"quick_gloss": "supreme-directly"
 },
 {
-"surface": "sākṣād",
-"quick_gloss": "directly"
-},
-{
-"surface": "ānaṃdādvaita",
+"surface": "ānaṃdādvaita+rūpadhṛt",
 "quick_gloss": "bliss-nondual-form-bearing"
-},
-{
-"surface": "rūpadhṛt",
-"quick_gloss": "rūpadhṛt"
 }
 ]
 },
@@ -375,12 +371,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dūtī",
+"surface": "dūtī+mukhasya",
 "quick_gloss": "messenger-mouth"
-},
-{
-"surface": "mukhasya",
-"quick_gloss": "mukhasya"
 },
 {
 "surface": "saṃskāraḥ",
@@ -437,8 +429,16 @@
 "quick_gloss": "oil-gargling"
 },
 {
-"surface": "kāṃtirdaṃtānāmupajāyate",
+"surface": "kāṃtir",
 "quick_gloss": "beauty"
+},
+{
+"surface": "daṃtānām",
+"quick_gloss": "of-teeth"
+},
+{
+"surface": "upajāyate",
+"quick_gloss": "arises"
 }
 ]
 },
@@ -454,12 +454,28 @@
 "quick_gloss": "three-pungents"
 },
 {
-"surface": "triphalāmāṃsi",
-"quick_gloss": "three-fruits"
+"surface": "triphalā",
+"quick_gloss": "three-myrobalans"
 },
 {
-"surface": "guḍatvakpatrakesaraiḥ",
-"quick_gloss": "jaggery-bark-petals-saffron"
+"surface": "māṃsi",
+"quick_gloss": "flesh"
+},
+{
+"surface": "guḍa",
+"quick_gloss": "jaggery"
+},
+{
+"surface": "tvak",
+"quick_gloss": "bark"
+},
+{
+"surface": "patra",
+"quick_gloss": "leaves"
+},
+{
+"surface": "kesaraiḥ",
+"quick_gloss": "filaments"
 }
 ]
 },
@@ -471,12 +487,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kṛtvākṣa",
-"quick_gloss": "making"
+"surface": "kṛtvā",
+"quick_gloss": "having-made"
 },
 {
-"surface": "sadṛśān",
-"quick_gloss": "eye-like"
+"surface": "kṣa+sadṛśān",
+"quick_gloss": "mustard-seed-like"
 },
 {
 "surface": "piṇḍān",
@@ -492,7 +508,7 @@
 },
 {
 "surface": "dūtikāgilet",
-"quick_gloss": "messenger-swallow"
+"quick_gloss": "messenger-gives"
 }
 ]
 },
@@ -505,11 +521,15 @@
 "tokens": [
 {
 "surface": "malenaivāpa",
-"quick_gloss": "by-impurity-created"
+"quick_gloss": "by-impurity-only"
+},
+{
+"surface": "sṛṣṭānāṃ",
+"quick_gloss": "produced"
 },
 {
 "surface": "sarveṣāṃ",
-"quick_gloss": "all"
+"quick_gloss": "of-all"
 },
 {
 "surface": "śamanaṃ",
@@ -530,15 +550,23 @@
 "tokens": [
 {
 "surface": "mardaniyaṃ",
-"quick_gloss": "rubbing"
+"quick_gloss": "to-be-rubbed"
 },
 {
 "surface": "prayatnena",
-"quick_gloss": "carefully"
+"quick_gloss": "with-effort"
 },
 {
-"surface": "guṭikākārayedbudhaḥ",
-"quick_gloss": "pill-make"
+"surface": "guṭikā",
+"quick_gloss": "pill"
+},
+{
+"surface": "kārayed",
+"quick_gloss": "make"
+},
+{
+"surface": "budhaḥ",
+"quick_gloss": "wise"
 }
 ]
 },
@@ -550,7 +578,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "pūtikāmati",
+"surface": "dūtikā",
 "quick_gloss": "messenger"
 },
 {
@@ -563,7 +591,7 @@
 },
 {
 "surface": "prakalpayet",
-"quick_gloss": "prepare"
+"quick_gloss": "arrange"
 }
 ]
 },

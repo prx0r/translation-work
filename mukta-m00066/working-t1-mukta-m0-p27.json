@@ -12,7 +12,7 @@
 },
 {
 "surface": "pramukhaṃ",
-"quick_gloss": "foremost"
+"quick_gloss": "chief"
 },
 {
 "surface": "karmataṃ",
@@ -48,11 +48,7 @@
 "quick_gloss": "moment"
 },
 {
-"surface": "kṣaṇe",
-"quick_gloss": "moment"
-},
-{
-"surface": "dūtyā",
+"surface": "kṣaṇedūtyā",
 "quick_gloss": "messenger"
 },
 {
@@ -73,7 +69,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tasmāt",
+"surface": "tasmād",
 "quick_gloss": "therefore"
 },
 {
@@ -107,7 +103,7 @@
 "tokens": [
 {
 "surface": "vilaṃbate",
-"quick_gloss": "delays"
+"quick_gloss": "delay"
 },
 {
 "surface": "ratiṃ",
@@ -115,11 +111,11 @@
 },
 {
 "surface": "dātuṃ",
-"quick_gloss": "to-give"
+"quick_gloss": "give"
 },
 {
 "surface": "tadvilaṃbāt",
-"quick_gloss": "from-that-delay"
+"quick_gloss": "that-delay"
 },
 {
 "surface": "sukhaṃkutaḥ",
@@ -152,7 +148,7 @@
 },
 {
 "surface": "ratādhvare",
-"quick_gloss": "pleasure-rite"
+"quick_gloss": "love-rite"
 }
 ]
 },
@@ -202,7 +198,7 @@
 },
 {
 "surface": "cāpi",
-"quick_gloss": "and"
+"quick_gloss": "also"
 },
 {
 "surface": "tadā",
@@ -210,7 +206,7 @@
 },
 {
 "surface": "ghaṭṭalayaṃ",
-"quick_gloss": "pot-dissolution"
+"quick_gloss": "strike-dissolution"
 },
 {
 "surface": "priye",
@@ -260,7 +256,7 @@
 },
 {
 "surface": "atyaṃta",
-"quick_gloss": "extremely"
+"quick_gloss": "extreme"
 },
 {
 "surface": "dhīrātmā",
@@ -284,8 +280,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "nityānaṃdamayaṃ",
-"quick_gloss": "eternal-blissful"
+"surface": "nitya",
+"quick_gloss": "eternal"
+},
+{
+"surface": "ānaṃdamayaṃ",
+"quick_gloss": "blissful"
 },
 {
 "surface": "tatvaṃ",
@@ -309,19 +309,23 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ayameva",
+"surface": "ayam",
 "quick_gloss": "this"
+},
+{
+"surface": "eva",
+"quick_gloss": "indeed"
 },
 {
 "surface": "mahāyajñaḥ",
 "quick_gloss": "great-sacrifice"
 },
 {
-"surface": "tapaśca",
+"surface": "tapaḥ",
 "quick_gloss": "austerity"
 },
 {
-"surface": "idam",
+"surface": "cedam",
 "quick_gloss": "this"
 },
 {
@@ -347,11 +351,11 @@
 },
 {
 "surface": "mahāpuṇyam",
-"quick_gloss": "great-meritorious"
+"quick_gloss": "great-merit"
 },
 {
 "surface": "ānaṃdādvaitadāyakaṃ",
-"quick_gloss": "bliss-nondual-giving"
+"quick_gloss": "bliss-nonduality-giving"
 }
 ]
 },
@@ -372,7 +376,7 @@
 },
 {
 "surface": "yajñāvabhṛtha",
-"quick_gloss": "sacrificial-bath"
+"quick_gloss": "sacrifice-completion"
 },
 {
 "surface": "ucyate",
@@ -463,7 +467,7 @@
 },
 {
 "surface": "prastabdhaṃ",
-"quick_gloss": "erect"
+"quick_gloss": "stopped"
 },
 {
 "surface": "śuklamaṃgake",
@@ -545,7 +549,7 @@
 "quick_gloss": "much"
 },
 {
-"surface": "bhogibhir",
+"surface": "bhogibhiḥ",
 "quick_gloss": "by-enjoyers"
 },
 {
@@ -575,7 +579,7 @@
 },
 {
 "surface": "mahābhāge",
-"quick_gloss": "great-fortunate-one"
+"quick_gloss": "great-fortunate"
 },
 {
 "surface": "staṃbhanaṃ",
@@ -595,12 +599,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "naṃda",
-"quick_gloss": "not"
-},
-{
-"surface": "vyate",
-"quick_gloss": "obtained"
+"surface": "naṃdavyate",
+"quick_gloss": "delight"
 },
 {
 "surface": "kathamapi",
@@ -649,11 +649,11 @@
 },
 {
 "surface": "svasvasthāne",
-"quick_gloss": "in-own-place"
+"quick_gloss": "own-place"
 },
 {
 "surface": "kṛtāśrayāḥ",
-"quick_gloss": "made-shelter"
+"quick_gloss": "made-support"
 }
 ]
 },
@@ -666,15 +666,19 @@
 "tokens": [
 {
 "surface": "nāḍīcakreṣu",
-"quick_gloss": "in-nāḍī-cakras"
+"quick_gloss": "channels"
 },
 {
 "surface": "sarveṣu",
 "quick_gloss": "all"
 },
 {
-"surface": "vasannapi",
+"surface": "vasan",
 "quick_gloss": "dwelling"
+},
+{
+"surface": "api",
+"quick_gloss": "also"
 },
 {
 "surface": "raseśvaraḥ",
@@ -699,7 +703,7 @@
 },
 {
 "surface": "bhrūmadhye",
-"quick_gloss": "between-brows"
+"quick_gloss": "brow-middle"
 },
 {
 "surface": "kecid",
@@ -707,7 +711,7 @@
 },
 {
 "surface": "hṛdiparemaṇau",
-"quick_gloss": "in-heart-gem"
+"quick_gloss": "heart-gem"
 }
 ]
 },
@@ -724,7 +728,7 @@
 },
 {
 "surface": "ūrvostale",
-"quick_gloss": "on-urvī-surface"
+"quick_gloss": "urva-thigh"
 },
 {
 "surface": "devi",
@@ -736,7 +740,7 @@
 },
 {
 "surface": "jaghanasīmani",
-"quick_gloss": "on-hip-peak"
+"quick_gloss": "buttock-peak"
 }
 ]
 }
