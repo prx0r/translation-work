@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[gloss](rakṣodvitayakumbhīra) [gloss](sarpacakrāsyakaṃ) [gloss](ca) [gloss](bham)
+rakṣaḥ-dvitaya-kumbhīra sarpacakra-āsyakaṃ ca bham
 
 ## mukta-m0-p44-v1077
-[gloss](aśvinau) [gloss](ca) [gloss](yamo) [gloss](vahniḥ) [gloss](prajendrenduharo'ditiḥ)
+aśvinau ca yamaḥ vahniḥ prajā-indra-indu-haraḥ aditiḥ
 
 ## mukta-m0-p44-v1078
-[gloss](tvaṣṭā) [gloss](vāyuḥ) [gloss](surendro'gnirmitrendrau) [gloss](yāvatpāmpatiḥ)
+tvaṣṭā vāyuḥ sura-indraḥ agniḥ mitra-indrau yāvat-pām-patiḥ
 
 ## mukta-m0-p44-v1079
-[gloss](viṣṇurvasurajaikādipādahirbudhna) [gloss](pūṣakāḥ)
+viṣṇuḥ vasu-raja-eka-ādi-pāda-hirbudhna pūṣakāḥ
 
 ## mukta-m0-p44-v1080
-[gloss](pumān) [gloss](gadī) [gloss](savīṇā) [gloss](ca) [gloss](yoṣitta) [gloss](nmithunaṃ) [gloss](dhanuḥ)
+pumān gadī sa-vīṇā ca yoṣit nmithunaṃ dhanuḥ
 
 ## mukta-m0-p44-v1081
-[gloss](strī) [gloss](naustholkāsibhṛtkanyā) [gloss](tulādhāro) [gloss](narastulā)
+strī nau-stholkā-asi-bhṛt-kanyā tulā-dhāraḥ naraḥ tulā
 
 ## mukta-m0-p44-v1082
-[gloss](meṣādyāḥ) [gloss](pañca) [gloss](caivānye) [gloss](svanāmatulyarūpakāḥ)
+meṣa-ādyāḥ pañca ca-eva-anye sva-nāma-tulya-rūpakāḥ
 
 ## mukta-m0-p44-v1083
-[gloss](hemābhaḥ) [gloss](sakirīṭaśca) [gloss](devarājaḥ) [gloss](surāvṛtaḥ)
+hema-ābhaḥ sa-kirīṭaḥ ca deva-rājaḥ sura-āvṛtaḥ
 
 ## mukta-m0-p44-v1084
-[gloss](chāgasthaḥ) [gloss](sākṣasūtrograḥ) [gloss](saptārciḥ) [gloss](śaktidhārakaḥ)
+chāga-sthaḥ sa-akṣa-sūtra-ugraḥ sapta-arcis śakti-dhārakaḥ
 
 ## mukta-m0-p44-v1085
-[gloss](raktahṛkpāśabhṛtkṛṣṇo) [gloss](mahiṣasthogradūtavān)
+rakta-hṛk-pāśa-bhṛt-kṛṣṇaḥ mahiṣa-stha-ugra-dūtavān
 
 ## mukta-m0-p44-v1086
-[gloss](puṃsthita) [gloss](khaḍgahastaśca) [gloss](nīlābho) [gloss](rākṣasāvṛtaḥ)
+puṃ-sthita khaḍga-hastaḥ ca nīla-ābhaḥ rākṣasa-āvṛtaḥ
 
 ## mukta-m0-p44-v1087
-[gloss](sarvābharaṇasaṃyukto) [gloss](varūṇaḥ) [gloss](pītavastrabhṛt)
+sarva-ābharaṇa-saṃyuktaḥ varūṇaḥ pīta-vastra-bhṛt
 
 ## mukta-m0-p44-v1088
-[gloss](raktakṣo) [gloss](raktavāsaśca) [gloss](mṛgasthaścaṅkuśī) [gloss](dhvajī)
+rakta-akṣaḥ rakta-vāsaḥ ca mṛga-sthaḥ ca aṅkuśī dhvajī
 
 ## mukta-m0-p44-v1089
-[gloss](dhaneśo) [gloss](varadaḥ) [gloss](kāryo) [gloss](nānābharaṇamaṇḍitaḥ)
+dhana-īśaḥ vara-daḥ kāryaḥ nānā-ābharaṇa-maṇḍitaḥ
 
 ## mukta-m0-p44-v1090
-[gloss](īśāno'hīndubhṛccaite) [gloss](lokapālā) [gloss](dvibāhavaḥ)
+īśānaḥ ahi-indu-bhṛt ca ete loka-pālāḥ dvi-bāhavaḥ
 
 ## mukta-m0-p44-v1091
-[gloss](viśvakarmā) [gloss](sadā) [gloss](gauro) [gloss](jñānamudrākṣasūtrabhṛt)
+viśvakarmā sadā gauraḥ jñāna-mudrā-akṣa-sūtra-bhṛt
 
 ## mukta-m0-p44-v1092
-[gloss](ālīḍhakaraṇāsaktaṃ) [gloss](mahākāyaṃ) [gloss](subhīṣaṇam)
+ālīḍha-karaṇa-āsaktaṃ mahā-kāyaṃ su-bhīṣaṇam
 
 ## mukta-m0-p44-v1093
-[gloss](pītadhvajadharaṃ) [gloss](vāme) [gloss](tarjanīṃ) [gloss](vā) [gloss](hṛdagrataḥ)
+pīta-dhvaja-dharaṃ vāme tarjanīṃ vā hṛd-agrataḥ
 
 ## mukta-m0-p44-v1094
-[gloss](saṃpīḍya) [gloss](rākasān) [gloss](padbhyāṃ) [gloss](muñcannādaṃmarutsutam)
+saṃpīḍya rākasān padbhyāṃ muñcan-nādaṃ marut-sutam
 
 ## mukta-m0-p44-v1095
-[gloss](skandhayakṣānvitā) [gloss](nityaṃ) [gloss](kartavyā) [gloss](yoṣidanvitāḥ)
+skandha-yakṣa-anvitā nityaṃ kartavyā yoṣit-anvitāḥ
 
 ## mukta-m0-p44-v1096
-[gloss](mālābhṛto'thavā) [gloss](hṛṣṭāḥ) [gloss](khasthā) [gloss](vidyādharāḥ) [gloss](sadā)
+mālā-bhṛtaḥ athavā hṛṣṭāḥ kha-sthāḥ vidyādharāḥ sadā
 
 ## mukta-m0-p44-v1097
-[gloss](piṅgavarvara) [gloss](keśāśva) [gloss](vetālā) [gloss](vikṛtānanāḥ)
+piṅga-varvara keśa-aśva vetālāḥ vikṛta-ānanāḥ
 
 ## mukta-m0-p44-v1098
-[gloss](kapālamālinaḥ) [gloss](śūladhārīṇaḥ) [gloss](kṣetrapālakāḥ)
+kapāla-mālinaḥ śūla-dhārīṇaḥ kṣetra-pālakāḥ
 
 ## mukta-m0-p44-v1099
-[gloss](kṛśā) [gloss](mahodarāḥ) [gloss](pretā) [gloss](khalva) [gloss](gallāśca) [gloss](lomaśāḥ)
+kṛśāḥ mahodarāḥ pretāḥ khalu gallāḥ ca lomaśāḥ
 
 ## mukta-m0-p44-v1100
-[gloss](svāṅgavarṇadharāḥ) [gloss](sarvā) [gloss](yathoktaṃ) [gloss](brahmayāmale)
+sva-aṅga-varṇa-dharāḥ sarvāḥ yathoktaṃ brahma-yāmale
