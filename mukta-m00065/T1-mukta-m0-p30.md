@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p30-v726
-[tarjani](tarjany) [anāmikā](anāmikā) [parva](parva) [sapāda](sapāda) [yava](yava) [varjitam](varjitam)
+tarjani (index-finger) anāmikā (ring-finger) parva (joint) sapāda (with-foot) yava (barley-grain) varjitam (devoid)
 
 ## mukta-m0-p30-v727
-[dvyaṅgula](dvyaṅgulo) [aṅguṣṭhaka](aṅguṣṭhaka) [granthi](granthir) [āsām](āsāṃ) [parva](parva) [ardha](ardha) [gā](gā) [nakha](nakhāḥ)
+dvyaṅgula (two-angula) aṅguṣṭhaka (thumb) granthi (knuckle) āsām (of-these) parva-ardha-gā (half-joint-going) nakhāḥ (nails)
 
 ## mukta-m0-p30-v728
-[nāsā](nāsā) [utsedha](utsedhaḥ) [savistāra](savistāro) [dvyaṅgula](dvyaṅgulo) [dvipuṭa](dvipuṭaḥ) [śubha](śubhaḥ)
+nāsa-utsedhaḥ (nose-height) sa-vistāra (with-width) udvyaṅgula (two-angula) dvipuṭaḥ (double-fold) śubhaḥ (auspicious)
 
 ## mukta-m0-p30-v729
-[dvyaṛdha](dvyardhaṃ) [yava](yavaṃ) [puṭe](puṭe) [sthūla](sthūle) [madhye](madhye) [vaśa](vaśa) [stri](striyāḥ)
+dvi-ardha (two-half) yava (barley) puṭe (in-fold) sthūle (thick) madhye (middle) vaśa (vaśa) stribhiḥ (by-three) yavaḥ (barley)
 
 ## mukta-m0-p30-v730
-[adha](adhe) [apara](aparo) [aṅgulaka](aṅgulakaṃ) [tu](tu) [dvyaṅgule](dvyaṅgule) [cibuka](cibuka) [sthiti](sthitiḥ)
+adhe (below) apara (other) aṅgulaka (small-angula) tu (indeed) dvyaṅgule (two-angula) cibuka-sthitiḥ (chin-position)
 
 ## mukta-m0-p30-v731
-[nāsikā](nāsikā) [mūla](mūla) [pārśva](pārśve) [tu](tu) [locana](locane) [dvyaṅgula](dvyaṅgulā) [āyata](yate)
+nāsikā-mūla-pārśve (at-nose-root-side) tu (indeed) locane (eyes) dvyaṅgula-āyate (two-angula-long)
 
 ## mukta-m0-p30-v732
-[indīvara](indīvarā) [abja](abja) [patra](patrābhā) [paṭola](paṭola) [phala](phalavat) [stri](striyāḥ)
+indīvara-abja-patra-ābhā (blue-lotus-petal-shine) paṭola-phala-vat (like-patola-fruit) striyāḥ (of-woman)
 
 ## mukta-m0-p30-v733
-[pañcama](pañcamāṃśaṃ) [bhavet](bhave) [jyoti](jyotiḥ) [sṛkkaṇī](sṛkkaṇī) [sūtra](sūtra) [tulyata](tulyataḥ)
+pañcama-aṃśa (fifth-part) bhavet (becomes) jyotiḥ (light) sṛkkaṇī-sūtra-tulyataḥ (equal-to-corner-thread)
 
 ## mukta-m0-p30-v734
-[ardha](ardhā) [aṅgula](aṅgula) [samā](samā) [droṇī](droṇī) [sārdha](sārdha) [dvyaṅgula](dvyaṅgula) [dīrgha](dīrghatā)
+ardha-aṅgula-samā (half-angula-equal) droṇī (trough) sārdha-dvyaṅgula-dīrghatā (one-and-half-two-angula-length)
 
 ## mukta-m0-p30-v735
-[tayoḥ](tayora) [taramātra](taramātrā) [ardha](ardhaṃ) [stri](striyāṃ) [yava](yava) [ardha](ardha) [vistṛta](vistṛte)
+tayoḥ (of-them) tara-mātra-ardha (half-measure) striyām (in-woman) yava-ardha-vistṛte (half-barley-spread)
 
 ## mukta-m0-p30-v736
-[karṇa](karṇau) [netra](netra) [dayā](dayā) [āyāma](yāmau) [tad](tad) [ardha](ardha) [dvistara](dvistarastayoḥ)
+karṇau (ears) netra-daya-āyāmau (eye-distance-length) tad-ardha (half-that) vistaraḥ (width) tayoḥ (of-them)
 
 ## mukta-m0-p30-v737
-[kalā](kalā) [ardha](ardhaṃ) [pāśa](pāśau) [kuryāt](kuryād) [yathā](yathepsitau)
+kalā-ardha (half-kalā) pāśau (loops) kuryāt (should-make) yathā-ipsitau (as-desired)
 
 ## mukta-m0-p30-v738
-[indra](indra) [saṅkhyā](saṅkhyā) [aṅgula](aṅgulaṃ) [paścāt](paścāt) [karṇa](karṇayoḥ) [antara](antaraṃ) [vidu](viduḥ)
+indra-saṅkhyā-aṅgula (Indra-number-angula) paścāt (behind) karṇayoḥ (of-ears) antara (distance) viduḥ (know)
 
 ## mukta-m0-p30-v739
-[lalāṭa](lalāṭo) [aṣṭāṅgula](aṣṭāṅgulā) [āyāma](yāmaḥ) [tri](tri) [aṅgula](aṅgulaḥ) [śaṅkha](śaṅkha) [ucyate](ucyate)
+lalāṭa (forehead) aṣṭāṅgula-āyāma (eight-angula-length) tri-aṅgula (three-angula) śaṅkha (temple) ucyate (is-called)
 
 ## mukta-m0-p30-v740
-[sapta](saptā) [aṅgula](aṅgulau) [kapola](kapolau) [tu](tu) [sāṅgula](sāṅgulau) [sayava](sayava) [ucchraya](ucchrayau)
+sapta-aṅgulau (seven-angula) kapolau (cheeks) tu (indeed) sa-aṅgulau (with-angula) sa-yava-ucchrayau (with-barley-height)
 
 ## mukta-m0-p30-v741
-[hanu](hanū) [kalā](kalā) [tri](tri) [dīrgha](dīrghau) [vdikala](vdikalaḥ) [cibuka](cibuka) [udgama](udgamaḥ)
+hanū (jaws) kalā (kalā) tra-dīrghau (three-long) vdika (vdika) cibuka-udgama (chin-projection)
 
 ## mukta-m0-p30-v742
-[skandha](skandho) [aṣṭāṅgula](aṣṭāṅgula) [vistāra](vistāraḥ) [tad](tad) [āyāma](āyāmaḥ) [catuṣ](catuṣ) [kalā](kalā)
+skandha (shoulder) aṣṭāṅgula-vistāra (eight-angula-width) tad-āyāma (that-length) catuṣ-kalā (four-kalā)
 
 ## mukta-m0-p30-v743
-[vistāra](vistāraḥ) [kūrpara](kūrparas) [tasmāt](tasmāt) [bhūta](bhūta) [aṅgula](aṅgulaiḥ) [yava](yavaiḥ) [tathā](tathā)
+vistāra (width) kūrpara (elbow) tasmāt (therefore) bhūta-aṅgulaiḥ (existing-angulas) yavaiḥ (barleys) tathā (thus)
 
 ## mukta-m0-p30-v744
-[caturaṅgula](caturaṅgula) [vistāra](vistāro) [maṇibandha](maṇibandhaḥ) [prakīrtita](prakīrtitaḥ)
+catur-aṅgula-vistāra (four-angula-width) maṇibandha (wrist) prakīrtita (declared)
 
 ## mukta-m0-p30-v745
-[stana](stanayoḥ) [antara](antaraṃ) [tāla](tālaṃ) [tayoḥ](tayoḥ) [prānta](prāntau) [dvi](dvi) [netraka](netrakau)
+stanayoḥ (of-breasts) antara (distance) tāla (palm) tayoḥ (their) prāntau (ends) dvi-netrakau (two-eyes)
 
 ## mukta-m0-p30-v746
-[nābhi](nābhiḥ) [pradakṣiṇa](pradakṣiṇā) [āvarta](vartā) [nimnata](nimnato) [ardha](ardha) [aṅgula](aṅgulo) [udita](ditā)
+nābhi (navel) pradakṣiṇa-āvartā (clockwise-whorl) nimnata (depressed) ardha-aṅgula-uditā (half-angula-raised)
 
 ## mukta-m0-p30-v747
-[hṛd](hṛd) [viṃśati](viṃśatyaṅgulaṃ) [prokta](proktaṃ) [nābhi](nābhi) [deśa](deśaḥ) [caturdaśa](caturdaśa)
+hṛd (heart) viṃśati-aṅgula (twenty-angula) prokta (said) nābhi-deśa (navel-region) caturdaśa (fourteen)
 
 ## mukta-m0-p30-v748
-[pañcādaśa](pañcādaśāṅgulaṃ) [vakṣas](vakṣo) [hṛd](hṛd) [deśa](deśaḥ) [pañca](pañca) [vinā](vinā)
+pañcādaśa-aṅgula (fifteen-angula) vakṣa (chest) hṛd-deśa (heart-region) pañcabhiḥ (by-five) vinā (without)
 
 ## mukta-m0-p30-v749
-[kaṭi](kaṭiḥ) [saṃveṣṭana](saṃveṣṭanena) [ukta](uktā) [śata](śatāt) [ca](ca) [dvi](dvi) [adhika](adhikā) [aṅgula](aṅgulā)
+kaṭi (waist) saṃveṣṭana (girth) uktā (said) śatāt (from-hundred) ca (and) dvi-adhika-aṅgulā (two-more-angula)
 
 ## mukta-m0-p30-v750
-[catuḥ](catuḥ) [netra](netra) [pravistāra](pravistārau) [gaja](gaja) [kumbha](kumbha) [upama](upamau) [śubha](śubhau)
+catur-netra-pravistārau (four-eye-wide) gaja-kumbha-upamau (elephant-temples-like) śubhau (auspicious)
