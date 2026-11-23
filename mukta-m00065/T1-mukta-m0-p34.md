@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p34-v826
-[hara](hara) [ca](ca) [bahu-rūpa](bahurūpa) [ca](ca) [tri-ambaka](tryambaka) [ca](ca) [sura-īśvara](sureśvara)
+[hara-and](haraśca) [many-formed-and](bahurūpaśca) [three-eyed-and](tryambakaśca) [lord-of-gods](sureśvaraḥ)
 
 ## mukta-m0-p34-v827
-[sadya](sadyaḥ) [prabhṛti](prabhṛti) [jau](jau) [dvau](dvau) [dvau](dvau) [tadvat](tadvat) [kuḍya](kuḍya) [abja](abja) [saṃyutāḥ](saṃyutāḥ)
+[suddenly-born-etc](sadyaḥ) [beginning-born-pair](prabhṛtijau) [two-two](dvau dvau) [thus-wall-lotus-joined](tadvatkuḍyabjasaṃyutāḥ)
 
 ## mukta-m0-p34-v828
-[vṛṣa](vṛṣa) [stha](sthā) [vara-da](varadā) [kuṇḍī](kuṇḍī) [śūla](śūla) [paṅkaja](paṅkaja) [pāṇayaḥ](pāṇayaḥ)
+[bull-seated](vṛṣasthā) [boon-givers](varadāḥ) [trident-lotus-handed](kuṇḍīśūlapaṅkajapāṇayaḥ)
 
 ## mukta-m0-p34-v829
-[śaṅkha](śaṅkha) [cakra](cakra) [bhṛtam](bhṛtaṃ) [vāme](vāme) [śeṣe](śeṣe) [śānti](śānti) [gadā](gadā) [bhṛtam](bhṛtam) [gh: karam](karam)
+[conch-disk-bearer](śaṅkhacakrabhṛtaṃ) [on-left](vāme) [remaining](śeṣe) [peace-mace-bearer](śāntigadābhṛtam)
 
 ## mukta-m0-p34-v830
-[śrīvatsa](śrīvatsa) [kaustubha](kaustubha) [uraska](uraskaṃ) [pīna](pīnā) [aṅga](ṅgaṃ) [pṛthu](pṛthu) [vakṣas](vakṣasam)
+[srivatsa-kaustubha-chested](śrīvatsakaustubhoraskaṃ) [broad-limbed](pīnāṅgaṃ) [broad-chested](pṛthuvakṣasam)
 
 ## mukta-m0-p34-v831
-[prasanna](prasanna) [vadana](vadanaṃ) [saumya](saumyaṃ) [sarva](sarva) [ābharaṇa](ābharaṇa) [bhūṣita](bhūṣitam)
+[pleased-faced](prasannavadanaṃ) [gentle](saumyaṃ) [all-ornament-adorned](sarvābharaṇabhūṣitam)
 
 ## mukta-m0-p34-v832
-[śaṅkha](śaṅkha) [cakra](cakra) [dhare](dhare) [kārye](kārye) [gh: dharau](dharau) [kāryau](kāryau) [tat](tat) [saumya](saumya) [agneya](āgneya) [pārśvataḥ](pārśvataḥ)
+[conch-disk-bearer](śaṅkhacakradhare) [in-rite](kārye) [that-gentle-fiery-side](tatsaumyāgneyapārśvataḥ)
 
 ## mukta-m0-p34-v833
-[vāme](vāme) [abhaya](abhaya) [prada](pradaṃ) [śeṣe](śeṣe) [śaṅkha](śaṅkha) [hasta](hastaṃ) [dvi-bāhuka](dvibhāhukam)
+[on-left-fearless-giving](vāme'bhayapradaṃ) [remaining](śeṣe) [conch-handed](śaṅkhahastaṃ) [two-armed](dvibhāhukam)
 
 ## mukta-m0-p34-v834
-[kruddha](kruddha) [udyata](udyata) [hasta](hastaśca) [prāsāda](prāsāda) [stha](sthaḥ) [sadā](sadā) [mata](mataḥ)
+[angry](kruddha) [raised-hand](udyatahastaśca) [temple-seated](prāsādasthaḥ) [always-considered](sadā mataḥ)
 
 ## mukta-m0-p34-v835
-[sandaṣṭa](sandaṣṭa) [oṣṭha](oṣṭha) [puṭa](puṭaḥ) [kruddha](kruddho) [viṣṇu](viṣṇu) [aṣṭa](aṣṭa) [bhuja](bhujo) [mata](mataḥ)
+[bitten-lip](sandaṣṭauṣṭhapuṭaḥ) [angry](kruddho) [vishnu-eight-armed](viṣṇuraṣṭabhujo) [considered](mataḥ)
 
 ## mukta-m0-p34-v836
-[cakra](cakraṃ) [cāpa](cāpaṃ) [ca](ca) [kheta](khetaṃ) [ca](ca) [śaṅkha](śaṅkhaṃ) [vāma](vāma) [kare](kare) [tathā](tathā)
+[disk](cakraṃ) [bow](cāpaṃ) [sword](ca khetaṃ) [conch](ca śaṅkhaṃ) [left-hand-thus](vāmakare tathā)
 
 ## mukta-m0-p34-v837
-[eka](ekā) [āsya](syaś) [catur](caturā) [āsya](syaśca) [tri](tri) [mukha](mukho) [vā](vā) [maye](maye) [mate](mate)
+[one-faced](ekāsyaścaturāsyaśca) [three-faced-or](trimukho vā) [in-maya-opinion](maye mate)
 
 ## mukta-m0-p34-v838
-[tat](tat) [tri](tryaṃ) [aṃśa](śa) [vistara](vistaraṃ) [ca](ca) [eva](iva) [puccha](puccho) [adha](dhaṃ) [sapta](saptab) [bhāga](hāgaśaḥ)
+[that-three-part-expansion](tattryaṃśavistaraṃ) [and](caiva) [tail-below](puccho'dhaṃ) [seven-parts](saptabhāgaśaḥ)
 
 ## mukta-m0-p34-v839
-[hastau](hastau) [kroḍa](kroḍa) [samīpa](samīpa) [sthau](sthau) [pādau](pādau) [jaṭhara](jaṭhara) [pārśvataḥ](pārśvataḥ)
+[hands-near-boar](hastau kroḍasamīpasthau) [feet-beside-belly](pādau jaṭharapārśvataḥ)
 
 ## mukta-m0-p34-v840
-[ardha](ardhā) [aṅgula](ṅgulaṃ) [tu](tu) [tat](tann) [netra](etraṃ) [dvi](dvi) [sārdha](sārdha) [eka](ika) [ardha](rdha) [bhāga](bhāgataḥ)
+[half-finger](ardhāṅgulaṃ) [that-eye](tu tannetraṃ) [two-one-half-half-parts](dvisārdhaikārdhabhāgataḥ)
 
 ## mukta-m0-p34-v841
-[śeṣa](śeṣaṃ) [rohita](rohitavat) [kuryāt](kuryān) [matsya](matsya) [rūpa](rūpa) [dhare](dhare) [vibhau](vibhau) [k...: harervidhau](harervidhau)
+[rest-like-rohita](śeṣaṃ rohitavatkuryānmatsyarūpadhare) [vibhu](vibhau)
 
 ## mukta-m0-p34-v842
-[tat](tad) [dvi](dvyaṃ) [aṃśa](śam) [madhyataḥ](madhyato) [vṛtta](vṛttaṃ) [kalā](kalā) [hīna](hīnaṃ) [tu](tu) [pārśvayoḥ](pārśvayoḥ)
+[that-two-part-middle](taddvyaṃśamadhyato) [round](vṛttaṃ) [digit-less](kalāhīnaṃ) [on-sides](tu pārśvayoḥ)
 
 ## mukta-m0-p34-v843
-[dvi](dviguṇaṃ) [guṇa](guṇaṃ) [pādataḥ](pādato) [dairghya](dairghyād) [grīvā](grīvāṃ) [mastaka](mastaka) [saṃyutā](saṃyutām)
+[twofold](dviguṇaṃ) [from-feet-length](pādato dairghyādgrīvāṃ) [neck-with-head](mastakasaṃyutām)
 
 ## mukta-m0-p34-v844
-[nāsā](nāsā) [akṣi](kṣi) [nakha](nakha) [karṇa](karṇādi) [ādi](ādi) [jñātvā](jñātvā) [kūrma](kūrmaṃ) [vivartayet](vivartayet)
+[nose-eye-nail-ear-etc](nāsākṣinakhakarṇādi) [knowing](jñātvā) [tortoise](kūrmaṃ) [revolve](vivartayet)
 
 ## mukta-m0-p34-v845
-[hanu](hanū) [tat](tad) [vaktra](vaktra) [bhāge](bhāge) [ca](ca) [dairghya](dairghyāt) [sapta](saptā) [aṅgula](ṅgulau) [matau](matau)
+[jaw](hanū) [that-mouth-part](tadvaktrabhāge) [and](ca) [length-seven-fingers](dairghyātsaptāṅgulau) [considered](matau)
 
 ## mukta-m0-p34-v846
-[daṃṣṭra](daṃṣṭre) [ca](ca) [tri](tryaṅ) [aṅgula](gule) [vaktre](vaktre) [sita](sita) [ṛṣi](ṛṣi) [kalika](kaliko) [upame](pame)
+[tusks](daṃṣṭre) [and](ca) [three-fingers](tryaṅgule) [in-mouth](vaktre) [white-ray-tuft-like](sitarṣikalikopame)
 
 ## mukta-m0-p34-v847
-[prāṅ](prāṅ) [māna](mānā) [ādi](dyava) [avahīna](hīnaṃ) [tu](tu) [cakra](cakra) [gāruṇa](gāruṇa) [locana](locanam) [gh: locane](locane)
+[front-measure-decreased](prāṅmānādyavahīnaṃ) [tu](tu) [disk-garuda-eyed](cakragāruṇalocanam)
 
 ## mukta-m0-p34-v848
-[gadā](gadā) [cakra](cakra) [abja](abja) [śaṅkha](śaṅkhā) [āḍhya](ḍhyam) [ālīḍha](ālīḍha) [karaṇa](karaṇe) [sthita](sthitam)
+[mace-disk-lotus-conch-rich](gadācakrābjaśaṅkhāḍhyam) [lion-posture-stood](ālīḍhakaraṇe sthitam)
 
 ## mukta-m0-p34-v849
-[evaṃ](evaṃ) [varāha](varāha) [rūpa](rūpaṃ) [syāt](syād) [vana](vana) [mālā](mālā) [vibhūṣita](vibhūṣitam)
+[thus-varaha-form](evaṃ varāharūpaṃ) [syād](syād) [forest-garland-adorned](vanamālāvibhūṣitam)
 
 ## mukta-m0-p34-v850
-[nara](narā) [aṅga](ṅgaṃ) [gh: vara](varāṅgaṃ) [siṃha](siṃha) [vaktra](vaktraṃ) [ca](ca) [vṛtta](vṛttā) [akṣa](kṣaṃ) [bhrukuṭī](bhrukuṭī) [yutam](yutam) [mū...: mukham](mukham)
+[man-limbed](narāṅgaṃ) [lion-faced](siṃhavaktraṃ) [ca](ca) [round-eyed](vṛttākṣaṃ) [brow-furrowed](bhrukuṭīyutam)

@@ -2,76 +2,52 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-rakṣaḥ-dvitaya-kumbhīra sarpacakrāsyakaṃ ca bham
-
+[verse-word](rakṣodvitayakumbhīra) [verse-word](sarpacakrāsyakaṃ) [verse-word](ca) [verse-word](bham)
 ## mukta-m0-p44-v1077
-aśvinau ca yamaḥ vahniḥ prajā-indra-indu-haraḥ aditiḥ
-
+[verse-word](aśvinau) [verse-word](ca) [verse-word](yamo) [verse-word](vahniḥ) [verse-word](prajendrenduharo'ditiḥ)
 ## mukta-m0-p44-v1078
-tvaṣṭā vāyuḥ sura-indraḥ agniḥ mitra-indrau yātu-dhām-patiḥ
-
+[verse-word](tvaṣṭā) [verse-word](vāyuḥ) [verse-word](surendro'gnirmitrendrau) [verse-word](yāvatpāmpatiḥ)
 ## mukta-m0-p44-v1079
-viṣṇuḥ vasuḥ aja-eka-ādi-pādaḥ ahiḥ budhna pūṣa-kāḥ
-
+[verse-word](viṣṇurvasurajaikādipādahirbudhna) [verse-word](pūṣakāḥ)
 ## mukta-m0-p44-v1080
-pumān gadī sa-vīṇā ca yoṣit na mithunaṃ dhanuḥ
-
+[verse-word](pumān) [verse-word](gadī) [verse-word](savīṇā) [verse-word](ca) [verse-word](yoṣitta) [verse-word](nmithunaṃ) [verse-word](dhanuḥ)
 ## mukta-m0-p44-v1081
-strī nauḥ ulkā asi-bhṛt kanyā tulā-dhāraḥ naraḥ tulā
-
+[verse-word](strī) [verse-word](naustholkāsibhṛtkanyā) [verse-word](tulādhāro) [verse-word](narastulā)
 ## mukta-m0-p44-v1082
-meṣa-ādyāḥ pañca ca eva anye sva-nāma-tulya-rūpakāḥ
-
+[verse-word](meṣādyāḥ) [verse-word](pañca) [verse-word](caivānye) [verse-word](svanāmatulyarūpakāḥ)
 ## mukta-m0-p44-v1083
-hema-ābhaḥ sa-kirīṭaḥ ca deva-rājaḥ sura-āvṛtaḥ
-
+[verse-word](hemābhaḥ) [verse-word](sakirīṭaśca) [verse-word](devarājaḥ) [verse-word](surāvṛtaḥ)
 ## mukta-m0-p44-v1084
-chāga-sthaḥ sākṣa-sūtra-ugraḥ sapta-arcis śakti-dhārakaḥ
-
+[verse-word](chāgasthaḥ) [verse-word](sākṣasūtrograḥ) [verse-word](saptārciḥ) [verse-word](śaktidhārakaḥ)
 ## mukta-m0-p44-v1085
-rakta-hṛt pāśa-bhṛt kṛṣṇaḥ mahiṣa-stha ugra-dūta-vān
-
+[verse-word](raktahṛkpāśabhṛtkṛṣṇo) [verse-word](mahiṣasthogradūtavān)
 ## mukta-m0-p44-v1086
-puṃ-sthita khaḍga-hastaḥ ca nīla-ābhaḥ rākṣasa-āvṛtaḥ
-
+[verse-word](puṃsthita) [verse-word](khaḍgahastaśca) [verse-word](nīlābho) [verse-word](rākṣasāvṛtaḥ)
 ## mukta-m0-p44-v1087
-sarva-ābharaṇa-saṃyuktaḥ varuṇaḥ pīta-vastra-bhṛt
-
+[verse-word](sarvābharaṇasaṃyukto) [verse-word](varūṇaḥ) [verse-word](pītavastrabhṛt)
 ## mukta-m0-p44-v1088
-rakta-akṣaḥ rakta-vāsaḥ ca mṛga-sthaḥ ca aṅkuśī dhvajī
-
+[verse-word](raktakṣo) [verse-word](raktavāsaśca) [verse-word](mṛgasthaścaṅkuśī) [verse-word](dhvajī)
 ## mukta-m0-p44-v1089
-dhaneśaḥ vara-daḥ kāryaḥ nānā-ābharaṇa-maṇḍitaḥ
-
+[verse-word](dhaneśo) [verse-word](varadaḥ) [verse-word](kāryo) [verse-word](nānābharaṇamaṇḍitaḥ)
 ## mukta-m0-p44-v1090
-īśānaḥ ahi-indu-bhṛt ca ete loka-pālāḥ dvi-bāhavaḥ
-
+[verse-word](īśāno'hīndubhṛccaite) [verse-word](lokapālā) [verse-word](dvibāhavaḥ)
 ## mukta-m0-p44-v1091
-viśva-karmā sadā gauraḥ jñāna-mudrā akṣa-sūtra-bhṛt
-
+[verse-word](viśvakarmā) [verse-word](sadā) [verse-word](gauro) [verse-word](jñānamudrākṣasūtrabhṛt)
 ## mukta-m0-p44-v1092
-ālīḍha-karaṇa-āsaktaṃ mahā-kāyaṃ su-bhīṣaṇam
-
+[verse-word](ālīḍhakaraṇāsaktaṃ) [verse-word](mahākāyaṃ) [verse-word](subhīṣaṇam)
 ## mukta-m0-p44-v1093
-pīta-dhvaja-dharaṃ vāme tarjanīṃ vā hṛt-agrataḥ
-
+[verse-word](pītadhvajadharaṃ) [verse-word](vāme) [verse-word](tarjanīṃ) [verse-word](vā) [verse-word](hṛdagrataḥ)
 ## mukta-m0-p44-v1094
-saṃpīḍya rākasaṃ padbhyāṃ muñcan nādaṃ marut-sutam
-
+[verse-word](saṃpīḍya) [verse-word](rākasān) [verse-word](padbhyāṃ) [verse-word](muñcannādaṃmarutsutam)
 ## mukta-m0-p44-v1095
-skandha-yakṣa-anvitā nityaṃ kartavyā yoṣit-anvitāḥ
-
+[verse-word](skandhayakṣānvitā) [verse-word](nityaṃ) [verse-word](kartavyā) [verse-word](yoṣidanvitāḥ)
 ## mukta-m0-p44-v1096
-mālā-bhṛtaḥ athavā hṛṣṭāḥ kha-sthā vidyā-dharāḥ sadā
-
+[verse-word](mālābhṛto'thavā) [verse-word](hṛṣṭāḥ) [verse-word](khasthā) [verse-word](vidyādharāḥ) [verse-word](sadā)
 ## mukta-m0-p44-v1097
-piṅga-varvara-keśa-aśva vetālā vikṛta-ānanāḥ
-
+[verse-word](piṅgavarvarakeśāśva) [verse-word](vetālā) [verse-word](vikṛtānanāḥ)
 ## mukta-m0-p44-v1098
-kapāla-mālinaḥ śūla-dhāriṇaḥ kṣetra-pālakāḥ
-
+[verse-word](kapālamālinaḥ) [verse-word](śūladhārīṇaḥ) [verse-word](kṣetrapālakāḥ)
 ## mukta-m0-p44-v1099
-kṛśāḥ mahodarāḥ pretāḥ khalu-gallāḥ ca lomaśāḥ
-
+[verse-word](kṛśā) [verse-word](mahodarāḥ) [verse-word](pretā) [verse-word](khalvagallāśca) [verse-word](lomaśāḥ)
 ## mukta-m0-p44-v1100
-sva-aṅga-varṇa-dharāḥ sarvāḥ yathā-uktaṃ brahma-yāmale
+[verse-word](svāṅgavarṇadharāḥ) [verse-word](sarvā) [verse-word](yathoktaṃ) [verse-word](brahmayāmale)

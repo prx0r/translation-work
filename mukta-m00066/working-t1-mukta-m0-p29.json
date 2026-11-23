@@ -8,19 +8,23 @@
 "tokens": [
 {
 "surface": "bahunā",
-"quick_gloss": "by-much"
+"quick_gloss": "much"
 },
 {
 "surface": "kim",
 "quick_gloss": "what"
 },
 {
-"surface": "ihoktena",
-"quick_gloss": "here-said"
+"surface": "iha",
+"quick_gloss": "here"
+},
+{
+"surface": "uktena",
+"quick_gloss": "said"
 },
 {
 "surface": "dvaumānasasamīraṇau",
-"quick_gloss": "two-mind-winds"
+"quick_gloss": "two+mind+winds"
 }
 ]
 },
@@ -33,11 +37,11 @@
 "tokens": [
 {
 "surface": "tayoḥ",
-"quick_gloss": "of-them-two"
+"quick_gloss": "of-two"
 },
 {
 "surface": "saṃyojanaṃ",
-"quick_gloss": "union"
+"quick_gloss": "joining"
 },
 {
 "surface": "vakṣye",
@@ -82,7 +86,7 @@
 },
 {
 "surface": "māruteśvaram",
-"quick_gloss": "lord-of-wind"
+"quick_gloss": "wind-lord"
 }
 ]
 },
@@ -128,7 +132,7 @@
 },
 {
 "surface": "maheśvari",
-"quick_gloss": "O-great-goddess"
+"quick_gloss": "great-goddess"
 }
 ]
 },
@@ -141,7 +145,7 @@
 "tokens": [
 {
 "surface": "kākolakamukhaścava",
-"quick_gloss": "crow-faced"
+"quick_gloss": "crow-face"
 },
 {
 "surface": "vāyupūraṇa",
@@ -169,16 +173,16 @@
 "quick_gloss": "fitting"
 },
 {
-"surface": "ca gṛhṇīyā",
-"quick_gloss": "let-one-take"
+"surface": "ca",
+"quick_gloss": "take"
 },
 {
 "surface": "devaṃ",
-"quick_gloss": "deity"
+"quick_gloss": "god"
 },
 {
 "surface": "siddhimavāpnuyāt",
-"quick_gloss": "perfection-attain"
+"quick_gloss": "perfection-obtain"
 }
 ]
 },
@@ -199,7 +203,7 @@
 },
 {
 "surface": "syādyato",
-"quick_gloss": "may-be"
+"quick_gloss": "becomes"
 },
 {
 "surface": "vāyu",
@@ -207,7 +211,7 @@
 },
 {
 "surface": "jayobhavet",
-"quick_gloss": "victory-become"
+"quick_gloss": "victory"
 }
 ]
 },
@@ -236,7 +240,7 @@
 },
 {
 "surface": "sukhakārīvaśīkṛtaḥ",
-"quick_gloss": "pleasure-causing"
+"quick_gloss": "pleasure-making"
 }
 ]
 },
@@ -291,7 +295,7 @@
 },
 {
 "surface": "kuryāt",
-"quick_gloss": "one-does"
+"quick_gloss": "does"
 },
 {
 "surface": "tadā",
@@ -303,7 +307,7 @@
 },
 {
 "surface": "jayobhavet",
-"quick_gloss": "victory-become"
+"quick_gloss": "victory"
 }
 ]
 },
@@ -315,12 +319,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "tadā",
+"surface": "tadācoratvamujjhitvā",
 "quick_gloss": "then"
-},
-{
-"surface": "coratvamujjhitvā",
-"quick_gloss": "thievishness"
 },
 {
 "surface": "pavanaḥ",
@@ -349,11 +349,11 @@
 },
 {
 "surface": "jīvo'yaṃ",
-"quick_gloss": "this-life"
+"quick_gloss": "living-being"
 },
 {
 "surface": "gṛhamedhīcidaṃganaḥ",
-"quick_gloss": "householder-mind-body"
+"quick_gloss": "householder-consciousness-limb"
 }
 ]
 },
@@ -394,12 +394,8 @@
 "quick_gloss": "striker-thief"
 },
 {
-"surface": "tadā",
+"surface": "tadāyurvittaṃ",
 "quick_gloss": "then"
-},
-{
-"surface": "āyurvittaṃ",
-"quick_gloss": "life-wealth"
 },
 {
 "surface": "samīhate",
@@ -423,7 +419,7 @@
 "quick_gloss": "indeed"
 },
 {
-"surface": "bhaven maitrī",
+"surface": "bhaven",
 "quick_gloss": "friendship"
 },
 {
@@ -432,7 +428,7 @@
 },
 {
 "surface": "dhīsamīrayoḥ",
-"quick_gloss": "mind-wind"
+"quick_gloss": "mind-movement"
 }
 ]
 },
@@ -453,7 +449,7 @@
 },
 {
 "surface": "pratipālya",
-"quick_gloss": "wind"
+"quick_gloss": "protect"
 },
 {
 "surface": "prayatnataḥ",
@@ -482,7 +478,7 @@
 },
 {
 "surface": "kāpaṭyādvāyutaskaraḥ",
-"quick_gloss": "by-deceit"
+"quick_gloss": "deceitfully"
 }
 ]
 },
@@ -523,12 +519,16 @@
 "quick_gloss": "therefore"
 },
 {
-"surface": "prakṛti corastu",
+"surface": "prakṛti",
 "quick_gloss": "nature-thief"
 },
 {
+"surface": "corastu",
+"quick_gloss": "indeed"
+},
+{
 "surface": "samūlamavakṛṃtati",
-"quick_gloss": "rooted-out"
+"quick_gloss": "root-cut"
 }
 ]
 },
@@ -544,12 +544,16 @@
 "quick_gloss": "inner"
 },
 {
-"surface": "prakṛti corastu",
+"surface": "prakṛti",
 "quick_gloss": "nature-thief"
 },
 {
-"surface": "prakṛtīkāramarhati",
+"surface": "corastu",
 "quick_gloss": "nature-action"
+},
+{
+"surface": "prakṛtīkāramarhati",
+"quick_gloss": "deserves"
 }
 ]
 },
@@ -602,7 +606,7 @@
 "quick_gloss": "observing"
 },
 {
-"surface": "pade pade",
+"surface": "pade",
 "quick_gloss": "step-by-step"
 }
 ]
@@ -632,7 +636,7 @@
 },
 {
 "surface": "jihīrṣati",
-"quick_gloss": "wishes-to-seize"
+"quick_gloss": "wishes-to-steal"
 }
 ]
 }
