@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p44-v1076
-[rakṣodvitayakumbhīra](rakṣodvitayakumbhīra) [sarpacakrāsyakaṃ](sarpacakrāsyakaṃ) [ca](ca) [bham](bham)
+[gloss](rakṣodvitayakumbhīra) [gloss](sarpacakrāsyakaṃ) [gloss](ca) [gloss](bham)
 
 ## mukta-m0-p44-v1077
-[aśvinau](aśvinau) [ca](ca) [yamo](yamo) [vahniḥ](vahniḥ) [prajendrenduharo'ditiḥ](prajendrenduharo'ditiḥ)
+[gloss](aśvinau) [gloss](ca) [gloss](yamo) [gloss](vahniḥ) [gloss](prajendrenduharo'ditiḥ)
 
 ## mukta-m0-p44-v1078
-[tvaṣṭā](tvaṣṭā) [vāyuḥ](vāyuḥ) [surendro'gnirmitrendrau](surendro'gnirmitrendrau) [yāvatpāmpatiḥ](yāvatpāmpatiḥ)
+[gloss](tvaṣṭā) [gloss](vāyuḥ) [gloss](surendro'gnirmitrendrau) [gloss](yāvatpāmpatiḥ)
 
 ## mukta-m0-p44-v1079
-[viṣṇurvasurajaikādipādahirbudhna](viṣṇurvasurajaikādipādahirbudhna) [pūṣakāḥ](pūṣakāḥ)
+[gloss](viṣṇurvasurajaikādipādahirbudhna) [gloss](pūṣakāḥ)
 
 ## mukta-m0-p44-v1080
-[pumān](pumān) [gadī](gadī) [savīṇā](savīṇā) [ca](ca) [yoṣitta](yoṣitta) [nmithunaṃ](nmithunaṃ) [dhanuḥ](dhanuḥ)
+[gloss](pumān) [gloss](gadī) [gloss](savīṇā) [gloss](ca) [gloss](yoṣitta) [gloss](nmithunaṃ) [gloss](dhanuḥ)
 
 ## mukta-m0-p44-v1081
-[strī](strī) [naustholkāsibhṛtkanyā](naustholkāsibhṛtkanyā) [tulādhāro](tulādhāro) [narastulā](narastulā)
+[gloss](strī) [gloss](naustholkāsibhṛtkanyā) [gloss](tulādhāro) [gloss](narastulā)
 
 ## mukta-m0-p44-v1082
-[meṣādyāḥ](meṣādyāḥ) [pañca](pañca) [caivānye](caivānye) [svanāmatulyarūpakāḥ](svanāmatulyarūpakāḥ)
+[gloss](meṣādyāḥ) [gloss](pañca) [gloss](caivānye) [gloss](svanāmatulyarūpakāḥ)
 
 ## mukta-m0-p44-v1083
-[hemābhaḥ](hemābhaḥ) [sakirīṭaśca](sakirīṭaśca) [devarājaḥ](devarājaḥ) [surāvṛtaḥ](surāvṛtaḥ)
+[gloss](hemābhaḥ) [gloss](sakirīṭaśca) [gloss](devarājaḥ) [gloss](surāvṛtaḥ)
 
 ## mukta-m0-p44-v1084
-[chāgasthaḥ](chāgasthaḥ) [sākṣasūtrograḥ](sākṣasūtrograḥ) [saptārciḥ](saptārciḥ) [śaktidhārakaḥ](śaktidhārakaḥ)
+[gloss](chāgasthaḥ) [gloss](sākṣasūtrograḥ) [gloss](saptārciḥ) [gloss](śaktidhārakaḥ)
 
 ## mukta-m0-p44-v1085
-[raktahṛkpāśabhṛtkṛṣṇo](raktahṛkpāśabhṛtkṛṣṇo) [mahiṣasthogradūtavān](mahiṣasthogradūtavān)
+[gloss](raktahṛkpāśabhṛtkṛṣṇo) [gloss](mahiṣasthogradūtavān)
 
 ## mukta-m0-p44-v1086
-[puṃsthita](puṃsthita) [khaḍgahastaśca](khaḍgahastaśca) [nīlābho](nīlābho) [rākṣasāvṛtaḥ](rākṣasāvṛtaḥ)
+[gloss](puṃsthita) [gloss](khaḍgahastaśca) [gloss](nīlābho) [gloss](rākṣasāvṛtaḥ)
 
 ## mukta-m0-p44-v1087
-[sarvābharaṇasaṃyukto](sarvābharaṇasaṃyukto) [varūṇaḥ](varūṇaḥ) [pītavastrabhṛt](pītavastrabhṛt)
+[gloss](sarvābharaṇasaṃyukto) [gloss](varūṇaḥ) [gloss](pītavastrabhṛt)
 
 ## mukta-m0-p44-v1088
-[raktakṣo](raktakṣo) [raktavāsaśca](raktavāsaśca) [mṛgasthaścaṅkuśī](mṛgasthaścaṅkuśī) [dhvajī](dhvajī)
+[gloss](raktakṣo) [gloss](raktavāsaśca) [gloss](mṛgasthaścaṅkuśī) [gloss](dhvajī)
 
 ## mukta-m0-p44-v1089
-[dhaneśo](dhaneśo) [varadaḥ](varadaḥ) [kāryo](kāryo) [nānābharaṇamaṇḍitaḥ](nānābharaṇamaṇḍitaḥ)
+[gloss](dhaneśo) [gloss](varadaḥ) [gloss](kāryo) [gloss](nānābharaṇamaṇḍitaḥ)
 
 ## mukta-m0-p44-v1090
-[īśāno'hīndubhṛccaite](īśāno'hīndubhṛccaite) [lokapālā](lokapālā) [dvibāhavaḥ](dvibāhavaḥ)
+[gloss](īśāno'hīndubhṛccaite) [gloss](lokapālā) [gloss](dvibāhavaḥ)
 
 ## mukta-m0-p44-v1091
-[viśvakarmā](viśvakarmā) [sadā](sadā) [gauro](gauro) [jñānamudrākṣasūtrabhṛt](jñānamudrākṣasūtrabhṛt)
+[gloss](viśvakarmā) [gloss](sadā) [gloss](gauro) [gloss](jñānamudrākṣasūtrabhṛt)
 
 ## mukta-m0-p44-v1092
-[ālīḍhakaraṇāsaktaṃ](ālīḍhakaraṇāsaktaṃ) [mahākāyaṃ](mahākāyaṃ) [subhīṣaṇam](subhīṣaṇam)
+[gloss](ālīḍhakaraṇāsaktaṃ) [gloss](mahākāyaṃ) [gloss](subhīṣaṇam)
 
 ## mukta-m0-p44-v1093
-[pītadhvajadharaṃ](pītadhvajadharaṃ) [vāme](vāme) [tarjanīṃ](tarjanīṃ) [vā](vā) [hṛdagrataḥ](hṛdagrataḥ)
+[gloss](pītadhvajadharaṃ) [gloss](vāme) [gloss](tarjanīṃ) [gloss](vā) [gloss](hṛdagrataḥ)
 
 ## mukta-m0-p44-v1094
-[saṃpīḍya](saṃpīḍya) [rākasān](rākasān) [padbhyāṃ](padbhyāṃ) [muñcannādaṃmarutsutam](muñcannādaṃmarutsutam)
+[gloss](saṃpīḍya) [gloss](rākasān) [gloss](padbhyāṃ) [gloss](muñcannādaṃmarutsutam)
 
 ## mukta-m0-p44-v1095
-[skandhayakṣānvitā](skandhayakṣānvitā) [nityaṃ](nityaṃ) [kartavyā](kartavyā) [yoṣidanvitāḥ](yoṣidanvitāḥ)
+[gloss](skandhayakṣānvitā) [gloss](nityaṃ) [gloss](kartavyā) [gloss](yoṣidanvitāḥ)
 
 ## mukta-m0-p44-v1096
-[mālābhṛto'thavā](mālābhṛto'thavā) [hṛṣṭāḥ](hṛṣṭāḥ) [khasthā](khasthā) [vidyādharāḥ](vidyādharāḥ) [sadā](sadā)
+[gloss](mālābhṛto'thavā) [gloss](hṛṣṭāḥ) [gloss](khasthā) [gloss](vidyādharāḥ) [gloss](sadā)
 
 ## mukta-m0-p44-v1097
-[piṅgavarvara](piṅgavarvara) [keśāśva](keśāśva) [vetālā](vetālā) [vikṛtānanāḥ](vikṛtānanāḥ)
+[gloss](piṅgavarvara) [gloss](keśāśva) [gloss](vetālā) [gloss](vikṛtānanāḥ)
 
 ## mukta-m0-p44-v1098
-[kapālamālinaḥ](kapālamālinaḥ) [śūladhārīṇaḥ](śūladhārīṇaḥ) [kṣetrapālakāḥ](kṣetrapālakāḥ)
+[gloss](kapālamālinaḥ) [gloss](śūladhārīṇaḥ) [gloss](kṣetrapālakāḥ)
 
 ## mukta-m0-p44-v1099
-[kṛśā](kṛśā) [mahodarāḥ](mahodarāḥ) [pretā](pretā) [khalvagallāśca](khalvagallāśca) [lomaśāḥ](lomaśāḥ)
+[gloss](kṛśā) [gloss](mahodarāḥ) [gloss](pretā) [gloss](khalva) [gloss](gallāśca) [gloss](lomaśāḥ)
 
 ## mukta-m0-p44-v1100
-[svāṅgavarṇadharāḥ](svāṅgavarṇadharāḥ) [sarvā](sarvā) [yathoktaṃ](yathoktaṃ) [brahmayāmale](brahmayāmale)
+[gloss](svāṅgavarṇadharāḥ) [gloss](sarvā) [gloss](yathoktaṃ) [gloss](brahmayāmale)

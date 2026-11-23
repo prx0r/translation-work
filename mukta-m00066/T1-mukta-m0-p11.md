@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p11-v251
-[abaddha-patala-ollo](ābaddhapāṭalollo) [ca](ca) [mani-darpana](maṇidarpaṇa) [camara](cāmaram)
+[bound+red+eye](ābaddhapāṭalollo) [and](ca) [jewel+mirror](maṇidarpaṇa) [yak-tail-fan](cāmaram)
 
 ## mukta-m0-p11-v252
-[sampurita](saṃpūritaṃ) [bahu-vidhaih](bahuvidhaiḥ) [naivedyaih](naivedyairatiśobhanaiḥ) [ati-shobhanaih](atiśobhanaiḥ)
+[filled](saṃpūritaṃ) [with+many+kinds](bahuvidhaiḥ) [of+offerings](naivedyairatiśobhanaiḥ)
 
 ## mukta-m0-p11-v253
-[tri-vidhaih](trividhaiśca) [ca](ca) [mano-hari](manohāri) [saurabhyaih](saurabhyaiḥ) [sarakaih](sarakairapi) [api](api)
+[with+three+kinds](trividhaiśca) [mind-charming](manohāri) [fragrances](saurabhyaiḥ) [with+camphor?](sarakairapi)
 
 ## mukta-m0-p11-v254
-[pishta-pancangula-udara](piṣṭapaṃcāṃgulodāraṃ) [purna-kumbha-samyuta](pūrṇakuṃbhasamāyutam)
+[five-fingered+cake](piṣṭapaṃcāṃgulodāraṃ) [full+pot](pūrṇakuṃbhasamāyutam)
 
 ## mukta-m0-p11-v255
-[sarva-karmani-patvibhih](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ) [anukula-pravrttibhih](anukūlapravṛttibhiḥ)
+[skilled+in+all+rites](sarvakarmaṇipaṭvībhiranukūlapravṛttibhiḥ)
 
 ## mukta-m0-p11-v256
-[pravishya](praviśyayāgasadanaṃ) [yaga-sadanam](yāgasadanaṃ) [pitha-mantrana](pīṭhamaṃtreṇa) [kambale](kaṃbale)
+[entering](praviśyayāgasadanaṃ) [seat](pīṭhamaṃtreṇa) [on+blanket](kaṃbale)
 
 ## mukta-m0-p11-v257
-[tatha](tathāgaṇapatiṃ) [ganapati](gaṇapatiṃ) [dhyatva](dhyātvā) [tan-mantrana-abhi-pujayet](tanmaṃtreṇābhi pūjayet)
+[thus](tathā) [gaṇapati](gaṇapatiṃ) [meditating](dhyātvā) [with+that+mantra](tanmaṃtreṇābhi) [worship](pūjayet)
 
 ## mukta-m0-p11-v258
-[simhasana](siṃhāsana) [maheshani](maheśānīmarcayetripurāṃbikām) [arcayet](arcayet) [tripura-ambika](tripurāṃbikām)
+[lion-seat](siṃhāsana) [great+lady](maheśānīmarcayetripurāṃbikām)
 
 ## mukta-m0-p11-v259
-[ratna-dvipa](ratnadvipaṃ) [tatah](tataḥ) [pascat](paścānnānāvṛkṣamahāvanam) [nana-vrksha-maha-vana](nānāvṛkṣamahāvanam)
+[jewel+elephant](ratnadvipaṃ) [then](tataḥ) [afterwards](paścānnānāvṛkṣamahāvanam)
 
 ## mukta-m0-p11-v260
-[gomedhikasya](gomedhikasya) [prakara](prākāraṃ) [vajra-prakara](vajraprākārameva) [eva](eva) [ca](ca)
+[gomedhika+wall](gomedhikasya) [prākāraṃ](prākāraṃ) [vajra+wall](vajraprākārameva) [ca](ca)
 
 ## mukta-m0-p11-v261
-[mukta-maya](muktāmayaṃ) [ca](ca) [prakara](prākāraṃ) [tad-amrta-kara-maya](tadāmṛtakaraṃmayam)
+[pearl+wall](muktāmayaṃ) [ca](ca) [prākāraṃ](prākāraṃ) [then+nectar+made](tadāmṛtakaraṃmayam)
 
 ## mukta-m0-p11-v262
-[sahasra-stambha-nilaya](sahasrastaṃbhanilayaṃ) [sudha](sudhā) [vatim](vāṭimanaṃtaram) [anantaram](anantaram)
+[thousand+pilla?](sahasrastaṃbhanilayaṃ) [nectar+garden](sudhāvāṭimanaṃtaram)
 
 ## mukta-m0-p11-v263
-[balatapa-samudgara](bālātapasamudgāraṃ) [candrika](caṃdrikād) [gara](gārameva) [eva](eva) [ca](ca)
+[morning-sun+emission](bālātapasamudgāraṃ) [moonlight+emission](caṃdrikādgārameva) [ca](ca)
 
 ## mukta-m0-p11-v264
-[cintamani-grha](ciṃtāmaṇigṛhaṃ) [ca](ca) [eva](eva) [grha-raja](gṛharājaṃ) [samarcayet](samarcayet)
+[wish-gem+house](ciṃtāmaṇigṛhaṃ) [ca+eva](caiva) [house+king](gṛharājaṃ) [worship](samarcayet)
 
 ## mukta-m0-p11-v265
-[ratna-pradipa-valaya](ratnapradīpavalayaṃ) [madhye](madhye) [simhasana](siṃhāsanaṃ) [tatha](tathā)
+[jewel+lamp+circle](ratnapradīpavalayaṃ) [middle](madhye) [lion-seat](siṃhāsanaṃ) [thus](tathā)
 
 ## mukta-m0-p11-v266
-[pada-uparistha-phalakaih](pādopariṣṭaphalakairarcitaṃ) [arcita](arcitaṃ) [mancam](maṃcamarcayet) [arcayet](arcayet)
+[foot+upper+plank](pādopariṣṭaphalakairarcitaṃ) [cot](maṃcamarcayet)
 
 ## mukta-m0-p11-v267
-[mulena](mūlenamadhyamabhyarcya) [madhyama](madhyamabhyarcya) [abhyarcya](abhyarcya) [mula-khandaih](mūlakhaṃḍaistrikoṇakam) [tri-konaka](trikoṇakam)
+[root+middle](mūlenamadhyamabhyarcya) [root+pieces](mūlakhaṃḍaistrikoṇakam)
 
 ## mukta-m0-p11-v268
-[trih-pranan](triḥprāṇān) [samudayamya](samudāyamya) [bhuta-avarana-vidyaya](bhūtāvaraṇavidyayā)
+[three+breaths](triḥprāṇān) [gathering](samudāyamya) [element+covering+vidyā](bhūtāvaraṇavidyayā)
 
 ## mukta-m0-p11-v269
-[kara-shuddha-khyam](karaśuddhakhyamanunākaraśuddhiṃ) [anuna](anunā) [kara-shuddhi](karaśuddhiṃ) [vidarayan](vidārayan)
+[hand-purification+mantra](karaśuddhakhyamanunākaraśuddhiṃ) [tearing](vidārayan)
 
 ## mukta-m0-p11-v270
-[devy-atma-asana-mantrana](devyātmāsanamaṃtreṇa) [svasya-asana](svasyāsanamudīritam) [udiritam](udīritam)
+[goddess+seat+mantra](devyātmāsanamaṃtreṇa) [own+seat](svasyāsanamudīritam)
 
 ## mukta-m0-p11-v271
-[mantranam](maṃtrāṇāmāsane) [asane](āsane) [sarva-mantra-asana](sarvamaṃtrāsanamanuṃ) [viduh](viduḥ)
+[of+mantras](maṃtrāṇāmāsane) [all+mantra+seat](sarvamaṃtrāsanamanuṃ) [know](viduḥ)
 
 ## mukta-m0-p11-v272
-[iti](iti) [pithani-samkalpya](pīṭhānisaṃkalpya) [bala-vrtya](bālāvṛtyā) [shad-angaka](ṣaḍaṃgakam)
+[thus](iti) [seats](pīṭhānisaṃkalpya) [bālā+covering](bālāvṛtyā) [six+limbs](ṣaḍaṃgakam)
 
 ## mukta-m0-p11-v273
-[svaraih](svaraistuvaśinī) [tu](tu) [vashini](vaśinī) [yukta](yuktā) [shirasi](śirasinyasyate) [nyasyate](nyasyate) [priye](priye)
+[with+vowels](svaraistuvaśinī) [yuktā](yuktā) [on+head](śirasinyasyate) [dear](priye)
 
 ## mukta-m0-p11-v274
-[modini](modinī) [tu](tu) [bhruvor-madhye](bhruvormadhye) [ca](ca) [vargeṇa](vargeṇasamanvitā) [samanvita](samanvitā)
+[modinī](modinī) [tu](tu) [between+brows](bhruvormadhye) [ca](ca) [with+consonant-group](vargena+samanvitā)
 
 ## mukta-m0-p11-v275
-[aruna-hrdayet](aruṇāhṛdayet) [yasyat](yasyāt) [tavargeṇa](tavargeṇavibhūṣitā) [vibhushita](vibhūṣitā)
+[aruṇā+heart](aruṇāhṛdayet) [yasyāt](yasyāt) [tavargaṇa+adorned](tavargeṇavibhūṣitā)

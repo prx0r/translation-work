@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p03-v51
-[mahā-ratnam](mahāratnaṃ) [mahā-mūlyam](mahāmūlyaṃ) [guṇa-yuktam](guṇayuktaṃ) [yajet-sadā](yajetsadā)
+[great-jewel](mahāratnaṃ) [great-value](mahāmūlyaṃ) [virtue-endowed](guṇayuktaṃ) [worship-always](yajetsadā)
 
 ## mukta-m0-p03-v52
-[supratāpaḥ](supratāpo) [yaśaḥ](yaśaś) [ca](ca) [āyuḥ](āyur) [bhaveyuḥ](bhaveyur) [nṛpateḥ](nṛpateś) [ciram](ciram)
+[well-radiance](supratāpo) [fame-life-become-king's-long](yaśaścāyurbhaveyurnṛpateściram)
 
 ## mukta-m0-p03-v53
-[nīlam](nīlaṃ) [pītam](pītaṃ) [sitam](sitaṃ) [ca](ca) [api](api) [śastam](śastaṃ) [ratnam](ratnam) [anirmitam](anirmitam)
+[blue](nīlaṃ) [yellow](pītaṃ) [white](sitaṃ) [also](cāpi) [auspicious](śastaṃ) [jewel-unmade](ratnamanirmitam)
 
 ## mukta-m0-p03-v54
-[śaṅkha-sphaṭika-saṃkāśam](śaṅkhasphaṭikasaṃkāśaṃ) [javā-ārambhāt](javārambhāt) [alam](alam) [dyuti](dyuti)
+[conch-crystal-resembling](śaṅkhasphaṭikasaṃkāśaṃ) [hibiscus-beginning-glow](javārambhādaladyuti)
 
 ## mukta-m0-p03-v55
-[dhauta-āsya-ābhaḥ](dhautāsyābho) [dvijātīnām](dvijātīnāṃ) [nṛpa-arhau](nṛpārhau) [pīta-raktakau](pītaraktakau)
+[washed-face-like](dhautāsyābho) [brahmins](dvijātīnāṃ) [king-worthy](nṛpārhau) [yellow-red](pītaraktakau)
 
 ## mukta-m0-p03-v56
-[tat-liṅgam](talliṅgam) [āyuṣaḥ](āyuṣo) [vṛddhyai](vṛddhayai) [sarva-roga-vināśakam](sarvarogavināśakam)
+[that-lingam](talliṅgam) [life-increase](āyuṣo+vṛddhayai) [all-disease-destroyer](sarvarogavināśakam)
 
 ## mukta-m0-p03-v57
-[śakra-agni](śakrāgni) [ca](ca) [samitra](samitroye) [caturdhā](caturdhā) [tat](tat) [kvacit](kvacin) [matam](matam)
+[indra-fire-friend-born](śakrāgni+casamitroye) [fourfold](caturdhā) [sometimes-opinion](tatkvacinmatam)
 
 ## mukta-m0-p03-v58
-[śarad-ambu-nibham](śaradambunibhaṃ) [svaccham](svacchaṃ) [snigdham](snigdhaṃ) [ca](ca) [sphāṭikam](sphāṭikaṃ) [hitam](hitam)
+[autumn-water-like](śaradambunibhaṃ) [pure](svacchaṃ) [smooth](snigdhaṃ) [and](ca) [crystal](sphāṭikaṃ) [beneficial](hitam)
 
 ## mukta-m0-p03-v59
-[sa-garbha](sagarbha) [ūrmi-saṃyuktam](mūrmisaṃyuktaṃ) [jyotir-mukta-ghanam](jyotirmuktaghanaṃ) [tyajet](tyajet)
+[with-garbha-wave-associated](sagarbhamūrmisaṃyuktaṃ) [light-pearl-dense](jyotirmuktaghanaṃ) [abandon](tyajet)
 
 ## mukta-m0-p03-v60
-[sthūlam](sthūlaṃ) [dīrgham](dīrgha) [kuśam](kuśaṃ) [hrasvam](hrasvaṃ) [madhya-ādi-anteṣu](madhyādyanteṣu) [vā](vā) [kṛśam](kṛśam)
+[thick](sthūlaṃ) [long](dīrgha) [kusha](kuśaṃ) [short](hrasvaṃ) [middle-beginning-end](madhyādyanteṣu) [or](vā) [thin](kṛśam)
 
 ## mukta-m0-p03-v61
-[anya-jāti-vilagnam](anyajātivilagnaṃ) [ca](ca) [viddham](viddhaṃ) [bhīti-karam](bhītikaraṃ) [tyajet](tyajet)
+[other-birth-attached](anyajātivilagnaṃ) [and](ca) [pierced](viddhaṃ) [fear-causing](bhītikaraṃ) [abandon](tyajet)
 
 ## mukta-m0-p03-v62
-[sphāṭikam](sphāṭikaṃ) [liṅgam](liṅgamiṣṭārthaṃ) [iṣṭa-artham](iṣṭārthaṃ) [mṛtyu-jit](mṛtyujit) [kāma-dam](kāmadaṃ) [yajet](yajet)
+[crystal](sphāṭikaṃ) [lingam](liṅgam) [desired-purpose](iṣṭārthaṃ) [death-conquering](mṛtyujit) [wish-giving](kāmadaṃ) [worship](yajet)
 
 ## mukta-m0-p03-v63
-[liṅgam](liṅgaṃ) [sadā-agnihotra-ābham](sadāgnihotrābhaṃ) [pūjya](pūjya) [no](no) [doṣa-kṛt](doṣakṛn) [nṛṇām](nṛṇām)
+[lingam](liṅgaṃ) [always-fire-sacrifice-like](sadāgnihotrābhaṃ) [worship](pūjya) [no](no) [fault-causing-men](doṣakṛnnṛṇām)
 
 ## mukta-m0-p03-v64
-[sadā](sadā) [nimnena](nimnena) [siddhiḥ](siddhiḥ) [syāt](syāt) [ucce](ucce) [tu](tu) [uccā](uccā) [same](same) [samā](samā)
+[always](sadā) [low](nimnena) [success](siddhiḥ) [be](syāt) [high](ucce) [high](tūccā) [equal](same) [equal](samā)
 
 ## mukta-m0-p03-v65
-[ratna-liṅgam](ratnaliṅgaṃ) [dvidhā](dvidhā) [ākhyātam](ākhyātaṃ) [sva-pīṭham](svapīṭhaṃ) [dhātu-pīṭha-jam](dhātupīṭhajam)
+[jewel-lingam](ratnaliṅgaṃ) [twofold-called](dvidhākhyātaṃ) [own-pedestal](svapīṭhaṃ) [metal-pedestal-born](dhātupīṭhajam)
 
 ## mukta-m0-p03-v66
-[cala-liṅgam](calaliṅgaṃ) [dvidhā](dvidhā) [kāryam](kāryaṃ) [dhātu-ratna-mayam](dhāturatnamayaṃ) [śubham](śubham)
+[movable-lingam](calaliṅgaṃ) [twofold-made](dvidhākāryaṃ) [metal-jewel-made](dhāturatnamayaṃ) [auspicious](śubham)
 
 ## mukta-m0-p03-v67
-[kṣudra-ratna-uttham](kṣudraratnottham) [api](apyevaṃ) [evam](evam) [sva-mānā](svamānā) [dvara-ratna-jam](dvararatnajam)
+[small-jewel-born](kṣudraratnottham) [also](apyevaṃ) [thus](evaṃ) [own-measure](svamānā) [door-jewel-born](dvararatnajam)
 
 ## mukta-m0-p03-v68
-[vaiśyānām](vaiśyānāṃ) [manmatha-antam](manmathāntaṃ) [syāt](syāc) [śūdrāṇām](śūdrāṇāṃ) [dvādaśa-avadhiḥ](dvādaśāvadhiḥ)
+[vaishyas](vaiśyānāṃ) [love-end](manmathāntaṃ) [be](syāt) [shudras](śūdrāṇāṃ) [twelve-limit](dvādaśāvadhiḥ)
 
 ## mukta-m0-p03-v69
-[calam](calaṃ) [tat-ūrdhvam](tadūrdhvaṃ) [devānām](devānāṃ) [trayoviṃśati](trayoviṃśatikā) [aṅgulam](ṅgulam)
+[movable](calaṃ) [that-above](tadūrdhvaṃ) [gods](devānāṃ) [twenty-three-angula](trayoviṃśatikāṅgulam)
 
 ## mukta-m0-p03-v70
-[acalam](acalaṃ) [khadru](khadrū) [bhasthāyi](bhasthāyi) [karāda](karāda) [navasāmakam](navasāmakam)
+[immovable](acalaṃ) [black-red-staying](khadrūbhasthāyi) [hand-from-nine-samaka](karādanavasāmakam)
 
 ## mukta-m0-p03-v71
-[saḍḍhatam](saḍḍhataṃ) [miśrakam](miśrakaṃ) [liṅgam](liṅgaṃ) [na](nordhvaṃ) [ūrdhvam](ūrdhvam) [ca](ca) [sthiram](sthiramiṣyate) [iṣyate](iṣyate)
+[six-cubits](saḍḍhataṃ) [mixed](miśrakaṃ) [lingam](liṅgaṃ) [not-above](nordhvaṃ) [and](ca) [firm-desired](sthiramiṣyate)
 
 ## mukta-m0-p03-v72
-[ṣaḍḍhastāt](ṣaḍḍhastānnādhikaṃ) [na](na) [adhikam](adhikam) [vārkṣam](vārkṣaṃ) [pārthivam](pārthivaṃ) [śailavat](śailavatsadā) [sadā](sadā)
+[six-cubits-not-more](ṣaḍḍhastānnādhikaṃ) [wooden](vārkṣaṃ) [earthen](pārthivaṃ) [mountain-like](śailavat) [always](sadā)
 
 ## mukta-m0-p03-v73
-[yakṣa](yakṣarakṣo) [rakṣaḥ](rakṣo) [asura](asuravyāla) [vyāla](vyāla) [gandharva](gandharvāpsarasāṃ) [apsarasām](apsarasāṃ) [kvacit](kvacit)
+[yaksha-rakshasa-asura-serpent](yakṣarakṣo'suravyāla) [gandharva-apsaras](gandharvāpsarasāṃ) [sometimes](kvacit)
 
 ## mukta-m0-p03-v74
-[pariṇāha](pariṇāhocchrayābhyāṃ) [ucchraya](ucchraya) [abhyām](abhyāṃ) [ca](ca) [devānām](devānām) [ekaviṃśatiḥ](ekaviṃśatiḥ)
+[circumference-height](pariṇāhocchrayābhyāṃ) [by](ca) [and](ca) [gods](devānām) [twenty-one](ekaviṃśatiḥ)
 
 ## mukta-m0-p03-v75
-[pañca-aṅgulam](pañcāṅgulaṃtu) [tu](tu) [paiṣṭya-ādyam](paiṣṭyādyaṃ) [phala-jam](phalajaṃ) [sva-pramāṇataḥ](svapramāṇataḥ)
+[five-angula](pañcāṅgulaṃ) [but](tu) [flour-beginning](paiṣṭyādyaṃ) [fruit-born](phalajaṃ) [own-measure](svapramāṇataḥ)

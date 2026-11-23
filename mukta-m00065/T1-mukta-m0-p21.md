@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[granthi+rūpa+unnata+granthi+jaṭhara+āmaya+dāyaka](granthirūponnatagranthirjaṭharāmayadāyaka)
+[knot](granthi)+[form](rūpa)+[raised](unnata)+[knot](granthi)+[belly](jaṭhara)+[disease](āmaya)+[giving](dāyaka)
 
 ## mukta-m0-p21-v502
-[tuṣāra+tad+vijānīyā+putra+śoka+ārti+dāyaka](tuṣāraṃ tadvijānīyā putraśokārtidāyakam)
+[frost](tuṣāra)+[that](tad)+[know](vijānīyā)+[son](putra)+[grief](śoka)+[pain](ārti)+[giving](dāyaka)
 
 ## mukta-m0-p21-v503
-[hema+ghoṣa+āmaya+tāmra+tad+duṣṭa+piṅgalā+mate](hemaghoṣāmayaṃ tāmra tadduṣṭaṃ piṅgalāmate)
+[gold](hema)+[sound](ghoṣa)+[made](maya)+[copper](tāmra)+[that](tad)+[corrupt](duṣṭa)+[yellow](piṅgala)+[mind](mati)
 
 ## mukta-m0-p21-v504
-[jana+hanty+āyasa+ākrāntā+śilā+tāmī+ca+śilpinam](janaṃ hantyāyasākrāntā śilā tāmī ca śilpinam)
+[people](jana)+[kills](hanti)+[iron](āyasa)+[afflicted](ākrānta)+[stone](śilā)+[copper](tāmra)+[and](ca)+[sculptor](śilpin)
 
 ## mukta-m0-p21-v505
-[kṛṣṇa+pīta+aruṇa+bindu+sa+śoka+bhaya+roga+da](kṛṣṇaḥ pīto'ruṇo binduḥ sa śokabhayarogadaḥ)
+[black](kṛṣṇa)+[yellow](pīta)+[red](aruṇa)+[dot](bindu)+[that](sa)+[grief](śoka)+[fear](bhaya)+[disease](roga)+[giving](da)
 
 ## mukta-m0-p21-v506
-[pīte+dhana+kṣaya+kartuḥ+kṛṣṇe+bandha+dvayoḥ+dvidhā](pīte dhanakṣayaḥ kartuḥ kṛṣṇe bandho dvayordvidhā)
+[yellow](pīta)+[wealth](dhana)+[loss](kṣaya)+[maker](kartṛ)+[black](kṛṣṇa)+[bondage](bandha)+[two](dvayoḥ)+[twofold](dvidhā)
 
 ## mukta-m0-p21-v507
-[rekhā+rekhā+anubiddhā+vā+pārthiva+sā+vināśayet](rekhā rekhānubiddhā vā pārthivaṃ sā vināśayet)
+[line](rekhā)+[line](rekhā)+[pierced](anubiddhā)+[or](vā)+[earthly](pārthiva)+[that](sā)+[destroys](vināśayet)
 
 ## mukta-m0-p21-v508
-[svāmidhnī+ca+catuḥ+chinnā+bahu+chinnā+kula+anta+kṛt](svāmidhnī ca catuśchinnā bahucchinnā kulāntakṛt)
+[mistress](svāminī)+[and](ca)+[four](catuḥ)+[cut](chinnā)+[many](bahu)+[cut](chinnā)+[family](kula)+[end](anta)+[making](kṛt)
 
 ## mukta-m0-p21-v509
-[makṣikā+makṣikā+ākārā+tayā+kuṣṭha+sudāruṇam](makṣikā makṣikākārā tayā kuṣṭhaṃ sudāruṇam)
+[fly](makṣikā)+[fly](makṣikā)+[shaped](ākāra)+[by-that](tayā)+[leprosy](kuṣṭha)+[very](su)+[terrible](dāruṇa)
 
 ## mukta-m0-p21-v510
-[tadā+nānā+gadān+kuryāt+kartuḥ+ca+eva+na+saṃśayaḥ](tadā nānā gadān kuryāt kartuścaiva na saṃśayaḥ)
+[then](tadā)+[various](nānā)+[diseases](gada)+[makes](kuryāt)+[maker](kartṛ)+[and](ca)+[indeed](eva)+[no](na)+[doubt](saṃśaya)
 
 ## mukta-m0-p21-v511
-[tyājyaṃ+tadā+tridhā+liṅgaṃ+nṛpa+rāṣṭra+prajā+arthinā](tyājyaṃ tadā tridhā liṅgaṃ nṛparāṣṭraprajārthinā)
+[abandonable](tyājya)+[then](tadā)+[threefold](tridhā)+[sign](liṅga)+[king](nṛpa)+[realm](rāṣṭra)+[subjects](prajā)+[desiring](arthin)
 
 ## mukta-m0-p21-v512
-[vāma+pārśva+āśritaḥ+kiṃcit+hanyāt+rāṣṭraṃ+sa+rājakam](vāmapārśvāśritaḥ kiṃciddhanyādrāṣṭraṃ sarājakam)
+[left](vāma)+[side](pārśva)+[residing](āśrita)+[somewhat](kiṃcit)+[kills](hanyāt)+[realm](rāṣṭra)+[with-king](sarājaka)
 
 ## mukta-m0-p21-v513
-[sarva+varṇā+bhṛśaṃ+nūnaṃ+prāṇa+hṛt+kṛṣṇa+hīrikā](sarvavarṇā bhṛśaṃ nūnaṃ prāṇahṛtkṛṣṇahīrikā)
+[all](sarva)+[colors](varṇa)+[intensely](bhṛśam)+[certainly](nūnam)+[life](prāṇa)+[taking](hṛt)+[black](kṛṣṇa)+[yellow](hīrikā)
 
 ## mukta-m0-p21-v514
-[unnataḥ+lakṣyate+yaśca+viḍāla+aṅghriḥ+sa+doṣa+bhāk](unnato lakṣyate yaśca viḍālāṅghriḥ sa doṣabhāk)
+[raised](unnata)+[seen](lakṣyate)+[who](yaḥ)+[cat](viḍāla)+[foot](aṅghri)+[that](sa)+[fault](doṣa)+[bearing](bhāk)
 
 ## mukta-m0-p21-v515
-[śilāyāḥ+rūpam+ālakṣya+tyajet+tām+aśubha+pradām](śilāyā rūpamālakṣya tyajettāmaśubhapradām)
+[stone](śilā)+[form](rūpa)+[observing](ālakṣya)+[abandon](tyajet)+[copper](tāmra)+[inauspicious](aśubha)+[giving](pradā)
 
 ## mukta-m0-p21-v516
-[svalpa+doṣān+prakṣyāmi+yathā+śāstreṣu+bhāṣitān](svalpadoṣān prakṣyāmi yathā śāstreṣu bhāṣitān)
+[small](svalpa)+[faults](doṣa)+[will-tell](prakṣyāmi)+[as](yathā)+[in-treatises](śāstreṣu)+[spoken](bhāṣita)
 
 ## mukta-m0-p21-v517
-[valmīka+ūṣara+citi+utthā+koṣṇā+kṣāra+ambu+madhya+gā](valmīkoṣaracityutthā koṣṇā kṣārāmbumadhyagā)
+[ant-hill](valmīka)+[warm](koṣṇa)+[alkaline](kṣāra)+[water](ambu)+[middle](madhya)+[going](gā)
 
 ## mukta-m0-p21-v518
-[kudik+sthā+sūrya+santaptā+kadu+utthā+methy+a+dūṣitā](kudiksthā sūryasantaptā kadutthāmethyadūṣitā)
+[well](kūpa)+[place](stha)+[sun](sūrya)+[heated](santapta)+[bitter](kadu)+[rising](uttha)+[impure](dūṣita)
 
 ## mukta-m0-p21-v519
-[duṣṭa+jīva+svarā+yā+ca+yojitā+na+anya+karmaṇi](duṣṭajīvasvarā yā ca yojitā nānyakarmaṇi)
+[corrupt](duṣṭa)+[life](jīva)+[sound](svara)+[who](yā)+[and](ca)+[joined](yojitā)+[not](na)+[other](anya)+[work](karman)
 
 ## mukta-m0-p21-v520
-[yā+yo+upalā+anulagnā+sā+sneha+vicchitti+kārikāḥ](yā yopalānulagnā sā snehavicchittikārikāḥ)
+[who](yā)+[stone](upala)+[adhering](anulagna)+[that](sā)+[affection](sneha)+[cutting](vicchitti)+[causing](kārikā)
 
 ## mukta-m0-p21-v521
-[ūṣara+sthā+artha+hṛt+jñeyā+citi+sthā+duḥkha+dāyinī](ūṣarasthārthahṛjjñeyā citisthā duḥkhadāyinī)
+[saline](ūṣara)+[place](stha)+[wealth](artha)+[heart](hṛd)+[known](jñeya)+[thought](citti)+[place](stha)+[grief](duḥkha)+[giving](dāyinī)
 
 ## mukta-m0-p21-v522
-[pāṣada+apuṇya+deśa+sthā+vadha+kṛt+bhilla+sevitā](pāṣadāpuṇyadeśasthā vadhakṛdbhilla sevitā)
+[inauspicious](apuṇya)+[place](deśa)+[dwelling](stha)+[killing](vadha)+[making](kṛt)+[tribe](bhilla)+[served](sevitā)
 
 ## mukta-m0-p21-v523
-[dāhaṃ+hāniṃ+ca+śokaṃ+ca+naiḥsvaṃ+rogaṃ+tathā+vahet](dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathāvahet)
+[burning](dāha)+[loss](hāni)+[and](ca)+[grief](śoka)+[and](ca)+[poverty](naiḥsvya)+[disease](roga)+[thus](tathā)+[brings](āvahet)
 
 ## mukta-m0-p21-v524
-[surā+pakṣi+vasā+gandhā+udvega+jananī+śilā](surāpakṣivasāgandhā udvegajananī śilā)
+[liquor](surā)+[wing](pakṣi)+[fat](vasā)+[smell](gandha)+[anxiety](udvega)+[producing](jananī)+[stone](śilā)
 
 ## mukta-m0-p21-v525
-[vajra+dagdhā+agni+dagdhā+ca+rājñaḥ+anala+bhaya+pradā](vajradagdhāgnidagdhā ca rājño'nalabhayapradā)
+[thunderbolt](vajra)+[burnt](dagdha)+[fire](agni)+[burnt](dagdha)+[and](ca)+[king](rājan)+[fire](anala)+[fear](bhaya)+[giving](pradā)
