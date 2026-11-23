@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p21-v501
-[granthi-rūpa](granthirūpa) [unnata-granthi](unnatagranthi) [jaṭhara-āmaya-dāyaka](jaṭharāmayadāyaka)
+granthi-rūpa-unnata-granthi-jaṭhara-āmaya-dāyaka
 
 ## mukta-m0-p21-v502
-[tuṣāra](tuṣāraṃ) [tat-vijānīyāt](tadvijānīyā) [putra-śoka-ārti-dāyakam](putraśokārtidāyakam)
+tuṣāraṃ tat-vijānīyā putra-śoka-ārti-dāyakam
 
 ## mukta-m0-p21-v503
-[hema-ghoṣā-mayam](hemaghoṣāmayaṃ) [tāmra](tāmra) [tat-duṣṭam](tadduṣṭaṃ) [piṅgalā-mate](piṅgalāmate)
+hema-ghoṣa-āmayaṃ tāmra tat-duṣṭaṃ piṅgalā-mate
 
 ## mukta-m0-p21-v504
-[janam](janaṃ) [hanti](hantyāyasākrāntā) [āyasā-ākrāntā](āyasākrāntā) [śilā](śilā) [tāmī](tāmī) [ca](ca) [śilpinam](śilpinam)
+janaṃ hanti-āyasa-ākrāntā śilā tāmī ca śilpinam
 
 ## mukta-m0-p21-v505
-[kṛṣṇaḥ](kṛṣṇaḥ) [pītaḥ](pīto) [aruṇaḥ](aruṇo) [binduḥ](binduḥ) [sa](sa) [śoka-bhaya-roga-daḥ](śokabhayarogadaḥ)
+kṛṣṇaḥ pītaḥ-aruṇaḥ binduḥ sa śoka-bhaya-roga-daḥ
 
 ## mukta-m0-p21-v506
-[pīte](pīte) [dhana-kṣayaḥ](dhanakṣayaḥ) [kartuḥ](kartuḥ) [kṛṣṇe](kṛṣṇe) [bandhaḥ](bandho) [dvayoḥ](dvayordvidhā)
+pīte dhana-kṣayaḥ kartuḥ kṛṣṇe bandho dvayoḥ-dvidhā
 
 ## mukta-m0-p21-v507
-[rekhā](rekhā) [rekhā-anubiddhā](rekhānubiddhā) [vā](vā) [pārthivam](pārthivaṃ) [sā](sā) [vināśayet](vināśayet)
+rekhā rekhā-anubiddhā vā pārthivaṃ sā vināśayet
 
 ## mukta-m0-p21-v508
-[svāmidhnī](svāmidhnī) [ca](ca) [catuḥ-chinnā](catuśchinnā) [bahu-chinnā](bahucchinnā) [kula-antakṛt](kulāntakṛt)
+svāmidhnī ca catuḥ-chinnā bahu-chinnā kula-anta-kṛt
 
 ## mukta-m0-p21-v509
-[makṣikā](makṣikā) [makṣikā-ākārā](makṣikākārā) [tayā](tayā) [kuṣṭham](kuṣṭhaṃ) [su-dāruṇam](sudāruṇam)
+makṣikā makṣikā-ākārā tayā kuṣṭhaṃ su-dāruṇam
 
 ## mukta-m0-p21-v510
-[tadā](tadā) [nānā-gadān](nānāgadān) [kuryāt](kuryāt) [kartuḥ](kartuścaiva) [ca](ca) [eva](eva) [na](na) [saṃśayaḥ](saṃśayaḥ)
+tadā nānā gadān kuryāt kartuḥ-ca-eva na saṃśayaḥ
 
 ## mukta-m0-p21-v511
-[tyājyam](tyājyaṃ) [tadā](tadā) [tridhā](tridhā) [liṅgam](liṅgaṃ) [nṛpa-rāṣṭra-prajā-arthinā](nṛparāṣṭraprajārthinā)
+tyājyaṃ tadā tri-dhā liṅgaṃ nṛpa-rāṣṭra-prajā-arthinā
 
 ## mukta-m0-p21-v512
-[vāma-pārśva-āśritaḥ](vāmapārśvāśritaḥ) [kiṃcit](kiṃciddhanyādrāṣṭraṃ) [hanyāt](hanyāt) [rāṣṭram](rāṣṭraṃ) [sa-rājakam](sarājakam)
+vāma-pārśva-āśritaḥ kiṃcit hanyāt-rāṣṭraṃ sa-rājakam
 
 ## mukta-m0-p21-v513
-[sarva-varṇā](sarvavarṇā) [bhṛśam](bhṛśaṃ) [nūnam](nūnaṃ) [prāṇa-hṛt](prāṇahṛt) [kṛṣṇa-hīrikā](kṛṣṇahīrikā)
+sarva-varṇā bhṛśaṃ nūnaṃ prāṇa-hṛt-kṛṣṇa-hīrikā
 
 ## mukta-m0-p21-v514
-[unnataḥ](unnato) [lakṣyate](lakṣyate) [yaḥ](yaśca) [ca](ca) [viḍāla-aṅghriḥ](viḍālāṅghriḥ) [sa](sa) [doṣa-bhāk](doṣabhāk)
+unnato lakṣyate yaḥ-ca viḍāla-aṅghriḥ sa doṣa-bhāk
 
 ## mukta-m0-p21-v515
-[śilāyāḥ](śilāyā) [rūpam](rūpamālakṣya) [ālakṣya](ālakṣya) [tyajet](tyajettāmaśubhapradām) [tām](tām) [aśubha-pradām](aśubhapradām)
+śilāyāḥ rūpam-ālakṣya tyajet-tām-aśubha-pradām
 
 ## mukta-m0-p21-v516
-[svalpa-doṣān](svalpadoṣān) [prakṣyāmi](prakṣyāmi) [yathā](yathā) [śāstreṣu](śāstreṣu) [bhāṣitān](bhāṣitān)
+svalpa-doṣān prakṣyāmi yathā śāstreṣu bhāṣitān
 
 ## mukta-m0-p21-v517
-[valmīka-uṣara-cityutthā](valmīkoṣaracityutthā) [koṣṇā](koṣṇā) [kṣāra-ambu-madhya-gā](kṣārāmbumadhyagā)
+valmīka-ūṣara-cityutthā koṣṇā kṣāra-ambu-madhya-gā
 
 ## mukta-m0-p21-v518
-[kudik-sthā](kudiksthā) [sūrya-santaptā](sūryasantaptā) [kadutthā](kadutthā) [methyā](methyadūṣitā) [dūṣitā](dūṣitā)
+kudik-sthā sūrya-santaptā kadu-utthā-methy-a-dūṣitā
 
 ## mukta-m0-p21-v519
-[duṣṭa-jīva-svarā](duṣṭajīvasvarā) [yā](yā) [ca](ca) [yojitā](yojitā) [na](nānyakarmaṇi) [anya-karmaṇi](anyakarmaṇi)
+duṣṭa-jīva-svarā yā ca yojitā na-anya-karmaṇi
 
 ## mukta-m0-p21-v520
-[yā](yā) [yopalā-anulagnā](yopalānulagnā) [sā](sā) [sneha-vicchitti-kārikā](snehavicchittikārikā)
+yā yopalā-anulagnā sā sneha-vicchitti-kārikāḥ
 
 ## mukta-m0-p21-v521
-[ūṣara-sthā](ūṣarasthā) [artha-hṛt](arthahṛt) [jñeyā](jñeyā) [citi-sthā](citisthā) [duḥkha-dāyinī](duḥkhadāyinī)
+ūṣara-stha-artha-hṛt-jñeyā citi-sthā duḥkha-dāyinī
 
 ## mukta-m0-p21-v522
-[pāṣadā-puṇya-deśa-sthā](pāṣadāpuṇyadeśasthā) [vadha-kṛt](vadhakṛt) [bhilla-sevitā](bhilla sevitā)
+pāṣadā-puṇya-deśa-sthā vadha-kṛt-bhilla sevitā
 
 ## mukta-m0-p21-v523
-[dāham](dāhaṃ) [hānim](hāniṃ) [ca](ca) [śokam](śokaṃ) [ca](ca) [naiḥsvyam](naiḥsvaṃ) [rogam](rogaṃ) [tathā](tathā) [āvahet](āvahet)
+dāhaṃ hāniṃ ca śokaṃ ca naiḥsvaṃ rogaṃ tathā-vahet
 
 ## mukta-m0-p21-v524
-[surā-pakṣi-vasā-gandhā](surāpakṣivasāgandhā) [udvega-jananī](udvegajananī) [śilā](śilā)
+surā-pakṣi-vasā-gandhā udvega-jananī śilā
 
 ## mukta-m0-p21-v525
-[vajra-dagdhā](vajradagdhā) [agni-dagdhā](agnidagdhā) [ca](ca) [rājñaḥ](rājño) [anala-bhaya-pradā](analabhayapradā)
+vajra-dagdhā-agni-dagdhā ca rājñaḥ-anala-bhaya-pradā

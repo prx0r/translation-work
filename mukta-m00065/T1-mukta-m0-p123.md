@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p123-v3051
-fragrance flower and incense-etc with-rice and purifier
+[fragrance](gandhaṃ) [flower](puṣpaṃ) [and](ca) [incense-etc](dhūpādyaṃ) [with-rice](sākṣataṃ) [and](ca) [purifier](pavitrakam)
 
 ## mukta-m0-p123-v3052
-Shiva offer on-head by-exhalation made-nectar
+[Shiva](śivaṃ) [offer](nivedayen) [on-head](mūrdhni) [by-exhalation](recakena) [nectar-made](āmṛtīkṛtam)
 
 ## mukta-m0-p123-v3053
-morning bathed pure clean worship do according-to-wealth
+[morning](prātaḥ) [bathed](snātaḥ) [pure](śuciḥ) [clean](śuddhaḥ) [worship](pūjāṃ) [do](kuryāt) [according-to-wealth](svavittataḥ)
 
 ## mukta-m0-p123-v3054
-with-five sweet-baths water-intervals drying
+[with-five](pañcabhiḥ) [sweet-things](madhuraiḥ) [bathing](snānaṃ) [with-water-pourings](jalāntaraiḥ) [sprinkling](virukṣaṇam)
 
 ## mukta-m0-p123-v3055
-eight-limbed argha give then anoint worship
+[eight-limbed](aṣṭāṅgaḥ) [arghya](arghaṃ) [having-given](pradāya) [then](atha) [having-anointed](samālabhya) [worship](prapūjayet)
 
 ## mukta-m0-p123-v3056
-with-cloths covered house pot-chowrie-ornaments
+[with-cloths](vastraiḥ) [covered](saṃchāditaṃ) [house](veśma) [with-pots-fans-ornaments](ghaṭācāmarabhūṣaṇaiḥ)
 
 ## mukta-m0-p123-v3057
-banana-mango-garlands with-born-seed-ornaments
+[with-banana-mango-garlands](kadalīcūtamālābhiḥ) [born-seed-fragrant](jātabījasarocakaiḥ)
 
 ## mukta-m0-p123-v3058
-with-dance-song arts instruments spend-night great-festivals
+[with-dance-song](nṛtyagītaiḥ) [gentle](kalaiḥ) [instruments](vādyaiḥ) [spend](nayed) [night](rātriṃ) [with-great-festivals](mahotsavaiḥ)
 
 ## mukta-m0-p123-v3059
-with-devotion satisfy all cloth-gift-etc food
+[with-devotion](bhaktyā) [please](santoṣayet) [all](sarvān) [with-cloth-gifts-etc-food](vastradānādibhojanaiḥ)
 
 ## mukta-m0-p123-v3060
-all-sin-freed Rudra-world exalted
+[all-sins-freed](sarvapāpavinirmuktaḥ) [in-Rudra-world](rudraloke) [is-honored](mahīyate)
 
 ## mukta-m0-p123-v3061
-bed-sleeping false-speech woman-travel meat-avoider
+[bed-false-speech](khaṭvāśayanamithyokti) [women-travel-meat-avoider](strīyātrāmiṣavarjakaḥ)
 
 ## mukta-m0-p123-v3062
-worship do Shiva bow purifier and release
+[worship](pūjāṃ) [having-done](kṛtvā) [Shiva](śivaṃ) [having-bowed](natvā) [purifier](pavitraṃ) [and](ca) [release](visarjayet)
 
 ## mukta-m0-p123-v3063
-do throw purifiers Shiva-fire or ever-water
+[having-done](kṛtvā) [throw](kṣipet) [purifiers](pavitrāṇi) [in-Shiva-fire](śivāgnau) [or](vā) [in-perpetual-water](sadāmbhasi)
 
 ## mukta-m0-p123-v3064
-becomes penance-descender done Rudra year million-fold
+[becomes](syāt) [expiation-descending](prāyaścityadhogāmī) [done](kṛtaḥ) [Rudra](rudraḥ) [million](koṭiśaḥ)
 
 ## mukta-m0-p123-v3065
-copper-linga-worship sun piśāca bamboo-born
+[copper-linga-worship-darkness](tāmraliṅgārcanādarkaḥ) [demon](piśācaḥ) [from-bamboo-birth](vaṃśasambhavāt)
 
 ## mukta-m0-p123-v3066
-lead-born yakshas all iron-rakshasa-asura-destroyers
+[lead-born](sīsajā) [goblins](dguhyakāḥ) [all](sarve) [from-iron](lohāt) [rakshasa](rakṣaḥ) [asura-ender](asurāntakāḥ)
 
 ## mukta-m0-p123-v3067
-ruby from-fire and indranila-worship Hari
+[ruby](padmarāgāt) [fire-god](hutāśaḥ) [and](ca) [sapphire](indranīlāt) [worship](arcanāt) [Vishnu](hariḥ)
 
 ## mukta-m0-p123-v3068
-coral-mouth-worship nagas Venus karketana always
+[coral](vaidruma) [worship](arcanāt) [serpents](nāgāḥ) [Venus](śukraḥ) [from-carnelian](kārketanāt) [always](sadā)
 
 ## mukta-m0-p123-v3069
-Paulastya Jupiter-born eight siddha-kinnaras
+[Paulastya](paulastyaḥ) [from-Jupiter-born](jīvajātibhyaḥ) [eight](aṣṭai) [from-?](ṭṭibhāt) [siddhas-kinnaras](siddhakinnarāḥ)
 
 ## mukta-m0-p123-v3070
-Ashvins baked-clay-born gandharvas wife-born
+[Ashvins](aśvinau) [from-baked-clay](pakvamṛdbhūtāt) [gandharvas](gandharvāḥ) [from-wife-birth](dārasambhavāt)
 
 ## mukta-m0-p123-v3071
-tortoise Vasuki leader
+[Kurma-Kaushika](kūrmakauśi) [from-?](kasabhūtāt) [Vasuki-leader](vāsukinayināyakaḥ)
 
 ## mukta-m0-p123-v3072
-linga-establishment-worship
+[from-linga-installation-worship](liṅgasaṃsthāpanārcanāt)
 
 ## mukta-m0-p123-v3073
-soma-drinkers
+[soma-drinkers](somapāḥ)
 
 ## mukta-m0-p123-v3074
-various-fruit-born-lingas by-rite served and
+[various-fruit-born-lingas](nānāphalotthaliṅgāni) [by-rite](vidhinā) [served](sevitāni) [and](ca)
 
 ## mukta-m0-p123-v3075
-sand-born Vishvakarma and Shachi-lord salt-born
+[from-sand](saikatāt) [Vishvakarma](viśvakarmā) [and](ca) [Indra-lord](śacīśaḥ) [from-salt](lavaṇaḥ) [born](dbhavāt)

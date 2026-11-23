@@ -7,16 +7,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ityaṣṭādaśa",
-"quick_gloss": "thus-eighteen"
+"surface": "iti",
+"quick_gloss": "thus"
+},
+{
+"surface": "aṣṭādaśa",
+"quick_gloss": "eighteen"
 },
 {
 "surface": "bimbāni",
 "quick_gloss": "images"
 },
 {
-"surface": "kathitānyatra",
-"quick_gloss": "told-here"
+"surface": "kathitāni",
+"quick_gloss": "told"
+},
+{
+"surface": "atra",
+"quick_gloss": "here"
 },
 {
 "surface": "saṃkhyayā",
@@ -33,10 +41,10 @@
 "tokens": [
 {
 "surface": "bhaveyuḥ",
-"quick_gloss": "would-be"
+"quick_gloss": "there-would-be"
 },
 {
-"surface": "kṛmayo",
+"surface": "kṛmayaḥ",
 "quick_gloss": "worms"
 },
 {
@@ -44,12 +52,16 @@
 "quick_gloss": "in-womb"
 },
 {
-"surface": "nāśo",
+"surface": "nāśaḥ",
 "quick_gloss": "destruction"
 },
 {
-"surface": "dehārthayostataḥ",
-"quick_gloss": "of-body-and-purpose"
+"surface": "dehārthayoḥ",
+"quick_gloss": "of-body-and-wealth"
+},
+{
+"surface": "tataḥ",
+"quick_gloss": "therefrom"
 }
 ]
 },
@@ -81,8 +93,8 @@
 "quick_gloss": "and"
 },
 {
-"surface": "kārako",
-"quick_gloss": "doer"
+"surface": "kārakaḥ",
+"quick_gloss": "maker"
 },
 {
 "surface": "mriyate",
@@ -114,8 +126,12 @@
 "quick_gloss": "horned"
 },
 {
-"surface": "syāttayā",
+"surface": "syāt",
 "quick_gloss": "would-be"
+},
+{
+"surface": "tayā",
+"quick_gloss": "by-that"
 },
 {
 "surface": "śokabhayaṃ",
@@ -147,8 +163,12 @@
 "quick_gloss": "cow-loss"
 },
 {
-"surface": "so'nekavyādhikāraka",
+"surface": "saḥ",
 "quick_gloss": "he"
+},
+{
+"surface": "anekavyādhikārakaḥ",
+"quick_gloss": "many-disease-causing"
 }
 ]
 },
@@ -160,12 +180,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "saptaitāni",
-"quick_gloss": "seven-these"
+"surface": "sapta",
+"quick_gloss": "seven"
+},
+{
+"surface": "etāni",
+"quick_gloss": "these"
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "citrāṇi",
@@ -173,7 +197,7 @@
 },
 {
 "surface": "jñeyāni",
-"quick_gloss": "known"
+"quick_gloss": "to-be-known"
 },
 {
 "surface": "bāhyalakṣaṇaiḥ",
@@ -197,8 +221,12 @@
 "quick_gloss": "womb"
 },
 {
-"surface": "vidyātpralepataḥ",
-"quick_gloss": "know"
+"surface": "vidyāt",
+"quick_gloss": "one-should-know"
+},
+{
+"surface": "pralepataḥ",
+"quick_gloss": "from-plaster"
 }
 ]
 },
@@ -215,11 +243,11 @@
 },
 {
 "surface": "tālasaṃyuktaṃ",
-"quick_gloss": "with-palm"
+"quick_gloss": "palm-joined"
 },
 {
 "surface": "sauvīreṇa",
-"quick_gloss": "sauvira"
+"quick_gloss": "with-sauvira"
 },
 {
 "surface": "ca",
@@ -227,7 +255,7 @@
 },
 {
 "surface": "peṣayet",
-"quick_gloss": "grind"
+"quick_gloss": "should-grind"
 }
 ]
 },
@@ -252,15 +280,19 @@
 },
 {
 "surface": "jñātvā",
-"quick_gloss": "knowing"
+"quick_gloss": "having-known"
 },
 {
-"surface": "tā",
+"surface": "tāḥ",
 "quick_gloss": "those"
 },
 {
-"surface": "doṣadāstyajet",
+"surface": "doṣadāḥ",
 "quick_gloss": "fault-giving"
+},
+{
+"surface": "tyajet",
+"quick_gloss": "should-abandon"
 }
 ]
 },
@@ -272,8 +304,8 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "piṣṭavaivaṃ",
-"quick_gloss": "ground-thus"
+"surface": "piṣṭvā+evaṃ",
+"quick_gloss": "having-ground-thus"
 },
 {
 "surface": "samabhāgaṃ",
@@ -281,7 +313,7 @@
 },
 {
 "surface": "tu",
-"quick_gloss": "indeed"
+"quick_gloss": "but"
 },
 {
 "surface": "nārī",
@@ -293,7 +325,7 @@
 },
 {
 "surface": "lepayet",
-"quick_gloss": "anoint"
+"quick_gloss": "should-smear"
 }
 ]
 },
@@ -309,12 +341,20 @@
 "quick_gloss": "by-that"
 },
 {
-"surface": "karturbhavenmṛtyustasmāttāṃ",
-"quick_gloss": "doer's-death"
+"surface": "kartuḥ",
+"quick_gloss": "of-maker"
 },
 {
-"surface": "tasmāttāṃ",
+"surface": "bhaven+mṛtyuḥ",
+"quick_gloss": "becomes-death"
+},
+{
+"surface": "tasmāt",
 "quick_gloss": "therefore"
+},
+{
+"surface": "tāṃ",
+"quick_gloss": "her"
 },
 {
 "surface": "salile",
@@ -322,7 +362,7 @@
 },
 {
 "surface": "kṣipet",
-"quick_gloss": "throw"
+"quick_gloss": "should-throw"
 }
 ]
 },
@@ -335,19 +375,19 @@
 "tokens": [
 {
 "surface": "ahorātroṣite",
-"quick_gloss": "day-night-stayed"
+"quick_gloss": "in-day-night-stayed"
 },
 {
 "surface": "raktaṃ",
 "quick_gloss": "blood"
 },
 {
-"surface": "tyājyamūrmānvitaṃ",
-"quick_gloss": "rejectable"
+"surface": "tyājyaṃ",
+"quick_gloss": "to-be-abandoned"
 },
 {
 "surface": "ūrmānvitaṃ",
-"quick_gloss": "with-tortoise"
+"quick_gloss": "with-waves"
 },
 {
 "surface": "ca",
@@ -355,7 +395,7 @@
 },
 {
 "surface": "yat",
-"quick_gloss": "that"
+"quick_gloss": "which"
 }
 ]
 },
@@ -371,8 +411,8 @@
 "quick_gloss": "sharp"
 },
 {
-"surface": "rudrajaṭāyuktamavikṣīraiḥ",
-"quick_gloss": "rudra-jata-yoked"
+"surface": "rudrajaṭāyuktam",
+"quick_gloss": "rudrajaṭā-joined"
 },
 {
 "surface": "avikṣīraiḥ",
@@ -380,7 +420,7 @@
 },
 {
 "surface": "prapeṣya",
-"quick_gloss": "grind"
+"quick_gloss": "having-ground"
 },
 {
 "surface": "ca",
@@ -396,12 +436,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "dvayordvirūpakaṃ",
+"surface": "dvayoḥ",
 "quick_gloss": "of-two"
 },
 {
 "surface": "dvirūpakaṃ",
-"quick_gloss": "double-form"
+"quick_gloss": "two-formed"
 },
 {
 "surface": "garbhe",
@@ -409,11 +449,15 @@
 },
 {
 "surface": "jñātvā",
-"quick_gloss": "knowing"
+"quick_gloss": "having-known"
 },
 {
-"surface": "prāgdoṣadāṃstyajet",
-"quick_gloss": "beforehand-fault-giving"
+"surface": "prāgdoṣadān",
+"quick_gloss": "earlier-fault-giving"
+},
+{
+"surface": "tyajet",
+"quick_gloss": "should-abandon"
 }
 ]
 },
@@ -425,20 +469,24 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "kartustatkulahṛnnūnaṃ",
-"quick_gloss": "doer's-that-family-heart-certainly"
+"surface": "kartuḥ",
+"quick_gloss": "of-maker"
 },
 {
-"surface": "gurordadyātkṣayāmayam",
-"quick_gloss": "guru"
+"surface": "tatkulahṛnnūnaṃ",
+"quick_gloss": "that-family-heart-certainly"
+},
+{
+"surface": "guroḥ",
+"quick_gloss": "to-teacher"
 },
 {
 "surface": "dadyāt",
-"quick_gloss": "give"
+"quick_gloss": "should-give"
 },
 {
-"surface": "kṣayāmayam",
-"quick_gloss": "consumption-disease"
+"surface": "kṣayāmayaṃ",
+"quick_gloss": "wasting-disease"
 }
 ]
 },
@@ -450,12 +498,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "ṭaṅkāghātādbhidākārī",
-"quick_gloss": "hammer-strike"
+"surface": "ṭaṅkāghātāt",
+"quick_gloss": "by-hammer-blow"
 },
 {
 "surface": "bhidākārī",
-"quick_gloss": "split-form"
+"quick_gloss": "splitting-form"
 },
 {
 "surface": "sandhiḥ",
@@ -463,7 +511,7 @@
 },
 {
 "surface": "kartṛvināśakaḥ",
-"quick_gloss": "doer-destroying"
+"quick_gloss": "maker-destroying"
 }
 ]
 },
@@ -483,12 +531,12 @@
 "quick_gloss": "cracked"
 },
 {
-"surface": "vidyācchastraghātāntadāyakam",
-"quick_gloss": "know"
+"surface": "vidyāt",
+"quick_gloss": "one-should-know"
 },
 {
 "surface": "śastraghātāntadāyakam",
-"quick_gloss": "weapon-strike"
+"quick_gloss": "weapon-blow-end-giving"
 }
 ]
 },
@@ -500,19 +548,19 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "vyomākāro",
+"surface": "vyomākāraḥ",
 "quick_gloss": "sky-shaped"
 },
 {
-"surface": "bhavedvyoma",
+"surface": "bhaved",
 "quick_gloss": "would-be"
 },
 {
-"surface": "vyoma",
+"surface": "vyomaḥ",
 "quick_gloss": "sky"
 },
 {
-"surface": "so'cirātkartṛnāśakaḥ",
+"surface": "saḥ",
 "quick_gloss": "he"
 },
 {
@@ -521,7 +569,7 @@
 },
 {
 "surface": "kartṛnāśakaḥ",
-"quick_gloss": "doer-destroying"
+"quick_gloss": "maker-destroying"
 }
 ]
 },
@@ -538,10 +586,10 @@
 },
 {
 "surface": "kartṛprajānāśaḥ",
-"quick_gloss": "doer-progeny-destruction"
+"quick_gloss": "maker-progeny-destruction"
 },
 {
-"surface": "śīghrameva",
+"surface": "śīghram",
 "quick_gloss": "quickly"
 },
 {
@@ -570,8 +618,8 @@
 "quick_gloss": "by-that"
 },
 {
-"surface": "kuryānna",
-"quick_gloss": "make"
+"surface": "kuryāt",
+"quick_gloss": "should-make"
 },
 {
 "surface": "na",
@@ -583,7 +631,7 @@
 },
 {
 "surface": "kṛte",
-"quick_gloss": "done"
+"quick_gloss": "if-done"
 },
 {
 "surface": "ca",
@@ -649,14 +697,14 @@
 "tokens": [
 {
 "surface": "navatyardhaṃ",
-"quick_gloss": "nine-half"
+"quick_gloss": "nine-and-half"
 },
 {
-"surface": "mahādoṣā",
+"surface": "mahādoṣāḥ",
 "quick_gloss": "great-faults"
 },
 {
-"surface": "bhedabhinno",
+"surface": "bhedabhinnaḥ",
 "quick_gloss": "difference-distinct"
 },
 {
@@ -677,7 +725,7 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "brahmopendravibhāgasthāṃstridhā",
+"surface": "brahmopendravibhāgasthān",
 "quick_gloss": "brahma-upendra-division-standing"
 },
 {
@@ -685,11 +733,11 @@
 "quick_gloss": "threefold"
 },
 {
-"surface": "liṅgeṣvadoṣadān",
+"surface": "liṅgeṣu",
 "quick_gloss": "in-marks"
 },
 {
-"surface": "doṣadān",
+"surface": "adoṣadān",
 "quick_gloss": "fault-giving"
 }
 ]
@@ -706,12 +754,8 @@
 "quick_gloss": "vein"
 },
 {
-"surface": "granthituṣāraiśca",
-"quick_gloss": "knot-tusks"
-},
-{
-"surface": "ca",
-"quick_gloss": "and"
+"surface": "granthituṣāraiḥ",
+"quick_gloss": "knots-ashes-and"
 },
 {
 "surface": "vimalaṃ",
@@ -723,7 +767,7 @@
 },
 {
 "surface": "bindubhiḥ",
-"quick_gloss": "drops"
+"quick_gloss": "with-drops"
 }
 ]
 },
@@ -735,12 +779,12 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "viḍālāśvoṣṭragomāyukākapādāṅkitāṃstyajet",
+"surface": "viḍālāśvoṣṭragomāyukākapādāṅkitān",
 "quick_gloss": "cat-horse-camel-jackal-crow-foot-marked"
 },
 {
 "surface": "tyajet",
-"quick_gloss": "abandon"
+"quick_gloss": "should-abandon"
 }
 ]
 }
