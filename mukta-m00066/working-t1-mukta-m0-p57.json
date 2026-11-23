@@ -8,7 +8,7 @@
 "tokens": [
 {
 "surface": "guptārthāya",
-"quick_gloss": "hidden-meaning"
+"quick_gloss": "hidden-meaning-for"
 },
 {
 "surface": "ca",
@@ -28,7 +28,7 @@
 },
 {
 "surface": "tatvāvabodhane",
-"quick_gloss": "truth-knowing"
+"quick_gloss": "truth-awakening-in"
 }
 ]
 },
@@ -74,7 +74,7 @@
 "tokens": [
 {
 "surface": "tatvabhūtamidaṃ",
-"quick_gloss": "truth-born"
+"quick_gloss": "truth-being"
 },
 {
 "surface": "subhruyo",
@@ -98,24 +98,16 @@
 "quick_english_source": "t1parse",
 "tokens": [
 {
-"surface": "asya",
-"quick_gloss": "of-this"
-},
-{
-"surface": "taṃtrasya",
-"quick_gloss": "tantra"
+"surface": "asya+taṃtrasya",
+"quick_gloss": "of-this-tantra"
 },
 {
 "surface": "tatvāni",
 "quick_gloss": "truths"
 },
 {
-"surface": "ca",
-"quick_gloss": "and"
-},
-{
 "surface": "siddhāntaśca",
-"quick_gloss": "doctrine"
+"quick_gloss": "and-doctrine"
 },
 {
 "surface": "pradarśyate",
@@ -132,11 +124,11 @@
 "tokens": [
 {
 "surface": "āvirbbhāvatirobhāvau",
-"quick_gloss": "manifestation"
+"quick_gloss": "manifestation-and-concealment"
 },
 {
 "surface": "varttete",
-"quick_gloss": "and"
+"quick_gloss": "occur"
 },
 {
 "surface": "sarvavastuṣu",
@@ -165,7 +157,7 @@
 },
 {
 "surface": "pūrvasaṅgataḥ",
-"quick_gloss": "former-attached"
+"quick_gloss": "previously-joined"
 }
 ]
 },
@@ -190,7 +182,7 @@
 },
 {
 "surface": "praveśanatirohitaḥ",
-"quick_gloss": "entering-hidden"
+"quick_gloss": "entering-concealed"
 }
 ]
 },
@@ -206,8 +198,16 @@
 "quick_gloss": "manifestation"
 },
 {
-"surface": "vinotpattiranyākāpina",
+"surface": "vinā",
 "quick_gloss": "without"
+},
+{
+"surface": "utpattiranyākāpina",
+"quick_gloss": "production"
+},
+{
+"surface": "na",
+"quick_gloss": "not"
 },
 {
 "surface": "vidyate",
@@ -232,7 +232,7 @@
 },
 {
 "surface": "naiva",
-"quick_gloss": "not"
+"quick_gloss": "not-indeed"
 },
 {
 "surface": "cārutvamanudhāvati",
@@ -257,7 +257,7 @@
 },
 {
 "surface": "tadaivādau",
-"quick_gloss": "then-indeed-first"
+"quick_gloss": "then-indeed-at-first"
 },
 {
 "surface": "pradarśitam",
@@ -290,7 +290,7 @@
 },
 {
 "surface": "vyavahāraikajanmanā",
-"quick_gloss": "conventional-only-born"
+"quick_gloss": "conventional-only-birth"
 }
 ]
 },
@@ -307,7 +307,7 @@
 },
 {
 "surface": "deśo",
-"quick_gloss": "place"
+"quick_gloss": "region"
 },
 {
 "surface": "nabhasaścarcane",
@@ -331,16 +331,28 @@
 "quick_gloss": "earth"
 },
 {
-"surface": "vāyuḥ",
+"surface": "āponalo",
 "quick_gloss": "water"
+},
+{
+"surface": "analo",
+"quick_gloss": "fire"
+},
+{
+"surface": "vāyuḥ",
+"quick_gloss": "air"
 },
 {
 "surface": "śabdaścatimiraṃ",
 "quick_gloss": "sound"
 },
 {
-"surface": "manaḥ",
+"surface": "timiraṃ",
 "quick_gloss": "darkness"
+},
+{
+"surface": "manaḥ",
+"quick_gloss": "mind"
 }
 ]
 },
@@ -407,7 +419,7 @@
 "tokens": [
 {
 "surface": "maruccatimirannaiva",
-"quick_gloss": "wind-darkness-not"
+"quick_gloss": "wind-darkness-not-indeed"
 },
 {
 "surface": "saṃścayaṃ",
@@ -432,7 +444,7 @@
 },
 {
 "surface": "caitāni",
-"quick_gloss": "and"
+"quick_gloss": "and-these"
 },
 {
 "surface": "kīrttitāni",
@@ -457,7 +469,7 @@
 },
 {
 "surface": "bhedena",
-"quick_gloss": "by-distinction"
+"quick_gloss": "by-difference"
 },
 {
 "surface": "nānāsaṃkhyāṃ",
@@ -482,7 +494,7 @@
 "tokens": [
 {
 "surface": "pratyakṣamānānubhavaḥ",
-"quick_gloss": "perception"
+"quick_gloss": "direct-perception-experience"
 },
 {
 "surface": "sarveṣveteṣu",
@@ -490,7 +502,7 @@
 },
 {
 "surface": "pārvati",
-"quick_gloss": "parvati"
+"quick_gloss": "o-parvati"
 }
 ]
 },
@@ -532,7 +544,7 @@
 },
 {
 "surface": "pratyakṣaviṣayaḥ",
-"quick_gloss": "perceptible-object"
+"quick_gloss": "directly-perceived-object"
 },
 {
 "surface": "pavanaḥ",
@@ -540,7 +552,7 @@
 },
 {
 "surface": "parvatātmaje",
-"quick_gloss": "mountain-daughter"
+"quick_gloss": "o-mountain-daughter"
 }
 ]
 },
@@ -565,7 +577,7 @@
 },
 {
 "surface": "svayaṃ",
-"quick_gloss": "themselves"
+"quick_gloss": "by-themselves"
 },
 {
 "surface": "pramāḥ",
@@ -603,7 +615,7 @@
 "tokens": [
 {
 "surface": "viśiṣṭabhāge",
-"quick_gloss": "distinct-part"
+"quick_gloss": "in-distinct-part"
 },
 {
 "surface": "sādṛṣṭe",
@@ -632,7 +644,7 @@
 },
 {
 "surface": "ghaṭasyādhyakṣatāsthi",
-"quick_gloss": "pot"
+"quick_gloss": "pot-reality"
 },
 {
 "surface": "cet",
