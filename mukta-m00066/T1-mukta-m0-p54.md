@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p54-v1326
-[then](atho) [he](sa) [indeed](eva) [clay-lump](mṛtpiṇḍaṃ) [by-potter-hand-turnings](kulālakaravarttanaiḥ)
+atho[then] sa[he] eva[indeed] mṛtpiṇḍaṃ[clay-lump] kulāla[potter]+kara[hand]+varttanaiḥ[turnings-by]
 
 ## mukta-m0-p54-v1327
-[deep](gabhīrite) [in-middle-region](madhyadeśe) [there-itself](tatraiva) [made-hollow](kuharīkṛtaḥ)
+gabhīrite[deep] madhya+deśe[middle-region] tatra+eva[there-indeed] kuharī+kṛtaḥ[hollow-made]
 
 ## mukta-m0-p54-v1328
-[pot](kuṃbha) [thus](iti) [of-this](asya) [word](śabdasya) [denotation](vācyatām) [enters](avagāhate)
+kuṃbha[pot] iti[thus] asya[this] śabdasya[word's] vācyatām[denotation] avagāhate[enters]
 
 ## mukta-m0-p54-v1329
-[on-ground](bhūmau) [shattered](viśīrṇa) [all-limbs](sarvāṃgaḥ) [potsherd-mass](kāpālaugha) [state](tvam) [desires](īhate)
+bhūmau[on-ground] viśīrṇa[broken] sarva+aṃgaḥ[all-limbs] kāpāla+ogha[tile-heap] tvam[you] īhate[seek]
 
 ## mukta-m0-p54-v1330
-[broken](kuṭṭitaḥ) [being](san) [scatters](prabhajate) [dust-word](dhūliśabdasya) [denotation](vācyatām)
+kuṭṭitaḥ[crushed] san[being] prabhajate[becomes] dhūli+śabdasya[dust-word's] vācyatām[denotation]
 
 ## mukta-m0-p54-v1331
-[shattered-shattered](śīrṇaśīrṇaḥ) [again](punar) [by-force](vegāt) [limb](tra) [dust-state](sareṇutvam) [desires](icchati)
+śīrṇa+śīrṇaḥ[broken-broken] punaḥ[again] vegāt[by-force] gātra[limb] sareṇu+tvam[dust-ness] icchati[desires]
 
 ## mukta-m0-p54-v1332
-[extremely](atyaṃta) [subtle](sūkṣma) [hard-to-perceive](durlakṣā) [whirls](ghūrṇate) [in-wind-orb](vāyumaṇḍale)
+atyaṃta[extremely] sūkṣma[dust] durlakṣā[hard-to-see] ghūrṇate[whirls] vāyu+maṇḍale[wind-circle]
 
 ## mukta-m0-p54-v1333
-[mutually](anyonya) [word-inexpressible](śabdanirvācyāḥ) [those](te) [superimpositions](āropāḥ) [declared](prakīrttitāḥ)
+anyonya+śabda+nirvācyāḥ[mutual-word-unspeakable] te[those] āropāḥ[superimpositions] prakīrttitāḥ[declared]
 
 ## mukta-m0-p54-v1334
-[there](tatra) [superimposed-form-state](āropitarūpatvaṃ) [of-pot-etc](ghaṭādeḥ) [causing](kārayan) [wise-one](budhaḥ)
+tatra+āropita+rūpatvam[there-superimposed-form-ness] ghaṭa+ādeḥ[pot-etc] kārayan[causing] budhaḥ[wise]
 
 ## mukta-m0-p54-v1335
-[quality-other](guṇāntara) [conjunction](samāsaṃga) [measure-only](mātrādeva) [how](kathaṃ) [in-clay](mṛdi)
+guṇa+antara+sama+āsaṃga[quality-other-same-attachment] mātrā+deva[measure-only] akathaṃ[how] mṛdi[in-clay]
 
 ## mukta-m0-p54-v1336
-[vain](vṛthā) [of-it](tasya) [superimposition](samāropaṃ) [vain](vṛthā) [of-it](tasya) [again](punar) [dissolution](layaḥ)
+vṛthā[vain] tasya[its] samāropaṃ[superimposition] vṛthā[vain] tasya[its] punaḥ[again] layaḥ[dissolution]
 
 ## mukta-m0-p54-v1337
-[such](īdṛśā) [indeed](eva) [in-dispute](kalahe) [causes](hetavaḥ) [shown](pratipāditāḥ)
+īdṛśāḥ[such] eva[indeed] kalahe[in-dispute] hetavaḥ[causes] pratipāditāḥ[established]
 
 ## mukta-m0-p54-v1338
-[letter-formed](varṇātmakāḥ) [but](tu) [those](ye) [words](śabdāḥ) [there](tatra) [eternity](nityatvam) [one-only](ekakaḥ)
+varṇa+ātmakāḥ[syllable-natured] tu[but] ye[which] śabdāḥ[words] tatra[there] nityatvam[eternality] ekakaḥ[one]
 
 ## mukta-m0-p54-v1339
-[therefore](ataḥ) [grown-enmity](pravṛddhavairāṇāṃ) [of-disputants](vādinām) [boasting](abhivalgatām)
+ataḥ[therefore] pravṛddha+vairāṇām[grown-enmity] vādinām[disputants] abhivalgatām[leaping]
 
 ## mukta-m0-p54-v1340
-[abundant](prabhūtataradarpāṃdhāḥ) [panditya](pāṇḍitya) [planet](graha) [bad-intellect](durdhiyām)
+prabhūtara[darpa+andhāḥ? blind-with-pride] pāṇḍitya[learning] graha[darkness] durdhiyām[evil-minded]
 
 ## mukta-m0-p54-v1341
-[that](tad) [search-path](gaveṣaṇamārgeṇa) [that](tat) [same](samāna) [concentration](samādhinā)
+tad+gaveṣaṇa+mārgeṇa[that-search-path] tat[that] samāna[same] samādhinā[concentration]
 
 ## mukta-m0-p54-v1342
-[contradictory](viruddha) [speech](bhāṣaṇe) [genus](jāti) [refutation](nigraha) [place](sthāna) [contrivances](kalpanaiḥ)
+viruddha+bhāṣaṇe[contradictory-speech] jāti[genus] nigraha[refutation] sthāna+kalpanaiḥ[place-inventions]
 
 ## mukta-m0-p54-v1343
-[afterwards](paścāt) [anger](kope) [being](sati) [throat](galocchoṣakāraṇa) [shouting](ghoṣaṇaiḥ)
+paścāt[after] kope[anger] sati[being] galocchoṣa+kāraṇa[throat-drying-cause] ghoṣaṇaiḥ[shoutings]
 
 ## mukta-m0-p54-v1344
-[again](punar) [by-that](tena) [manner](prakāreṇa) [hair-pulling](keśākeśi) [made](kṛte) [battle](raṇe)
+punaḥ[again] tena[by-that] prakāreṇa[way] keśā+keśi[hair-pulling] kṛte[done] raṇe[battle]
 
 ## mukta-m0-p54-v1345
-[foot](pādāt) [covered-speed](saṃvṛtavegānāṃ) [of-disputants](vādināṃ) [hatred-houses](dveṣaveśmasu)
+pādāt[from-foot] saṃvṛta+vegānām[restrained-speed] vādinām[disputants] dveṣa+veśmasu[hatred-houses]
 
 ## mukta-m0-p54-v1346
-[established](siddhāntitaiḥ) [and](ca) [own-mind](svamanaḥ) [pure](śuddhaiḥ) [others](anyaiḥ) [and](ca) [blamed](ninditaiḥ)
+siddhāntitaiḥ[concluded] ca[and] sva+manaḥ[own-mind] śuddhaiḥ[pure] anyaiḥ[other] ca[and] ninditaiḥ[blamed]
 
 ## mukta-m0-p54-v1347
-[confused](vyāmūḍhān) [making](kurvatām) [this](eṣa) [their](teṣāṃ) [path](panthānir) [unrestrained](aṅkuśaḥ)
+vyāmūḍhān[confused] kurvatām[making] eṣa[this] teṣām[their] panthāḥ[path] ankuśaḥ[uncontrolled]
 
 ## mukta-m0-p54-v1348
-[proof-blind](pramāṇāṃdhāḥ) [sixteen](ṣoḍaśāye) [categories](padārthaiḥ) [with-those](taiḥ) [great-kali](mahākālīḥ)
+pramāṇa+andhāḥ[proof-blind] ṣoḍaśa+aye[sixteen-oh] padārthaiḥ[categories] taiḥ[those] mahā+kālīḥ[great-Kali]
 
 ## mukta-m0-p54-v1349
-[dispute](kalahaḥ) [only](kevalaṃ) [there](tatra) [hard-to-end](duḥsamāpa) [autumn-hundreds](śaracchataiḥ)
+kalahaḥ[dispute] kevalam[only] tatra[there] duḥsamāpa+śara+cchataiḥ[hard-end-arrow-hundreds]
 
 ## mukta-m0-p54-v1350
-[arrival-form](saṃprāptirūpo) [will-be](bhavitā) [then](tadā) [by-left](vāmena) [decision](nirṇayaḥ)
+saṃprāpti+rūpaḥ[attainment-form] bhavitā[will-be] tadā[then] vāmena[left] nirṇayaḥ[decision]

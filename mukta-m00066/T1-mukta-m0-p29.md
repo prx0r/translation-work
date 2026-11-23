@@ -2,76 +2,76 @@
 *Source: Muktabodha (IAST, CC BY-NC 4.0). Machine-proposed (auto_burn).*
 
 ## mukta-m0-p29-v701
-[what-need](bahunā) [said-here](kimihoktena) [two](dva)+[minds](mānasa)+[winds](samīraṇau)
+[what](bahunā) [need](kim) [here](iha) [said](uktena) [two](dvau) [mind](mānasa) [winds](samīraṇau)
 
 ## mukta-m0-p29-v702
-[their](tayoḥ) [union](saṃyojanaṃ) [i-will-speak](vakṣye) [attentive](sāvadhānā) [listen](śruṇu) [beloved](priye)
+[their](tayoḥ) [union](saṃyojanaṃ) [I-will-say](vakṣye) [attentive](sāvadhānā) [listen](śruṇu) [beloved](priye)
 
 ## mukta-m0-p29-v703
-[with-sixty-four](catuḥṣaṣṭyā) [indeed](tu) [measures](mātrāṇāṃ) [fill](pūrayen) [lord-of-wind](māruteśvaram)
+[with-sixty-four](catuḥṣaṣṭyā) [indeed](tu) [measures](mātrāṇāṃ) [fill](pūrayet) [lord-of-wind](māruteśvaram)
 
 ## mukta-m0-p29-v704
-[five-light-syllable](paṃcalaghvakṣaroccāra) [time](kālomātreti) [is-called](kathyate)
+[five-light-syllable](paṃcalaghvakṣara) [utterance](uccāra) [time](kāla) [measure](mātrā) [thus](iti) [is-called](kathyate)
 
 ## mukta-m0-p29-v705
-[inhalation](pūrakaḥ) [retention](kuṃbhakaścaiva) [exhalation](recakaśca) [great-goddess](maheśvari)
+[inhalation](pūrakaḥ) [retention](kuṃbhakaḥ) [and](ca) [indeed](eva) [exhalation](recakaḥ) [ca](ca) [great-goddess](maheśvari)
 
 ## mukta-m0-p29-v706
-[kākola-face](kākolakamukhaścava) [wind-filling](vāyupūraṇa) [blessed-ones](bhadajāḥ)
+[crow-faced](kākolaka) [mouth](mukhaḥ) [ca](ca) [va](vā) [wind-filling](vāyupūraṇa) [blessed](bhadajāḥ)
 
 ## mukta-m0-p29-v707
-[fitting](yuktaṃ) [fitting](yuktaṃ) [grasp](ca gṛhṇīyā) [god](devaṃ) [attain-siddhi](siddhimavāpnuyāt)
+[fit](yuktaṃ) [fit](yuktaṃ) [ca](ca) [take](gṛhṇīyā) [god](devaṃ) [perfection](siddhim) [obtain](avāpnuyāt)
 
 ## mukta-m0-p29-v708
-[slowly](śanaiḥ) [again](punarmokṣaṇaṃ) [release](syādyato) [wind](vāyu) [victory](jayobhavet)
+[slowly](śanaiḥ) [again](punar) [release](mokṣaṇaṃ) [be](syāt) [whence](yataḥ) [wind](vāyu) [victory](jayo) [becomes](bhavet)
 
 ## mukta-m0-p29-v709
-[all](sarvaṃ) [pervades](vyāpnoti) [body](ca vapuḥ) [pleasure-giving](sukhakārīvaśīkṛtaḥ)
+[all](sarvaṃ) [pervades](vyāpnoti) [ca](ca) [body](vapuḥ) [pleasure-causing](sukhakārī) [subdued](vaśīkṛtaḥ)
 
 ## mukta-m0-p29-v710
-[in-all](sarveṣvapīhopāyeṣu) [means](maruddhāraṇakarmaṇaḥ)
+[in-all](sarveṣu) [api](api) [means](upāyeṣu) [wind-control](maruddhāraṇa) [action](karmaṇaḥ)
 
 ## mukta-m0-p29-v711
-[door-vision](dvāradṛṣṭirjjāgarīkavimarśaścāpi) [running](dhāvanam)
+[door-vision](dvāradṛṣṭiḥ) [wakefulness](jāgarīka) [reflection](vimarśaḥ) [ca](ca) [api](api) [running](dhāvanam)
 
 ## mukta-m0-p29-v712
-[door-vision](cāradṛṣṭiṃ) [when](yadā) [does](kuryāt) [then](tadā) [wind](vāyu) [victory](jayobhavet)
+[door-vision](cāradṛṣṭiṃ) [when](yadā) [do](kuryāt) [then](tadā) [wind](vāyu) [victory](jayo) [becomes](bhavet)
 
 ## mukta-m0-p29-v713
-[then](tadā)+[thief-ness](coratvamujjhitvā) [wind](pavanaḥ) [friendship](sakhyamīhate)
+[then](tadā) [thief-ness](coratvam) [abandoning](ujjhitvā) [wind](pavanaḥ) [friendship](sakhyam) [seeks](īhate)
 
 ## mukta-m0-p29-v714
-[householder](gṛho) [becomes](bhavati) [living-being](jīvo'yaṃ) [householder-mind-body](gṛhamedhīcidaṃganaḥ)
+[householder](gṛho) [becomes](bhavati) [life](jīvaḥ) [this](ayaṃ) [householder](gṛhamedhī) [consciousness](cidaṃganaḥ)
 
 ## mukta-m0-p29-v715
-[cause-end](hetvaṃtamīhate) [wind](vāyurmitatvacchanna) [thief](taskaraḥ)
+[cause-end](hetvaṃtam) [seeks](īhate) [wind](vāyuḥ) [hidden](mitatvacchanna) [thief](taskaraḥ)
 
 ## mukta-m0-p29-v716
-[hole](raṃdhra) [striker](prahārīhartuṃ) [then](tadā)+[life-wealth](yurvittaṃ) [desires](samīhate)
+[hole](raṃdhra) [striker](prahārī) [to-steal](hartuṃ) [then](tadā) [life-wealth](āyurvittaṃ) [seeks](samīhate)
 
 ## mukta-m0-p29-v717
-[real](tātvikī) [indeed](tu) [friendship](bhaven maitrī) [of-yogins](yogināṃ) [mind-wind](dhīsamīrayoḥ)
+[real](tātvikī) [tu](tu) [becomes](bhaven) [friendship](maitrī) [yogins](yogināṃ) [mind-wind](dhīsamīrayoḥ)
 
 ## mukta-m0-p29-v718
-[therefore](ataścora) [thief](samīroyaḥ) [guard](pratipālya) [carefully](prayatnataḥ)
+[therefore](ataḥ) [thief](coraḥ) [wind](samīroyaḥ) [to-be-guarded](pratipālya) [carefully](prayatnataḥ)
 
 ## mukta-m0-p29-v719
-[protects](rakṣatī) [body-house](va vapurgehaṃ) [by-deceit](kāpaṭyādvāyutaskaraḥ)
+[protects](rakṣati) [iva](iva) [body](vapuḥ) [house](gehaṃ) [deceit](kāpaṭyāt) [wind-thief](vāyutaskaraḥ)
 
 ## mukta-m0-p29-v720
-[mind](manaḥ) [negligence](pramādamālokya) [sometimes](kadācilluṃṭate) [day](dinam)
+[mind](manaḥ) [negligence](pramādam) [seeing](ālokya) [sometimes](kadācit) [plunders](luṃṭate) [day](dinam)
 
 ## mukta-m0-p29-v721
-[therefore](ataḥ) [nature-thief](prakṛti corastu) [root](samūlamavakṛṃtati)
+[therefore](ataḥ) [nature-thief](prakṛti coraḥ) [tu](tu) [rooted](samūlam) [cuts](avakṛṃtati)
 
 ## mukta-m0-p29-v722
-[inner](aṃtaḥ) [nature-thief](prakṛti corastu) [nature-action](prakṛtīkāramarhati)
+[inner](aṃtaḥ) [nature-thief](prakṛti coraḥ) [tu](tu) [nature-action](prakṛtīkāram) [deserves](arhati)
 
 ## mukta-m0-p29-v723
-[not-to-be-released](amoktavyaḥ) [he](sa) [carefully](yatnādvāpya) [see-other-goal](pekṣyevaparāṃgatim)
+[not-to-be-released](amoktavyaḥ) [he](sa) [carefully](yatnāt) [vā](vā) [api](api) [pekṣya](pekṣya) [eva](eva) [other-goal](parāṃgatim)
 
 ## mukta-m0-p29-v724
-[he](satu) [thief](coropi) [to-be-held](dharttavyaḥ) [observing](samavekṣya) [step-by-step](pade pade)
+[he](satu) [thief](coraḥ) [api](api) [to-be-held](dharttavyaḥ) [observing](samavekṣya) [step](pade) [step](pade)
 
 ## mukta-m0-p29-v725
-[without-observing](anavekṣya) [outward](bahiryāti) [then](tadā) [thief](coro) [wishes-to-steal](jihīrṣati)
+[without-observing](anavekṣya) [outward](bahiryāti) [then](tadā) [thief](coraḥ) [wishes-to-steal](jihīrṣati)
