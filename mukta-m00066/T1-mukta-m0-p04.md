@@ -5,7 +5,7 @@
 [kutrameruta](kutrameruta) [doṣāṃte](doṣāṃte) [svargasthān](svargasthān) [pratikīrtyate](pratikīrtyate)
 
 ## mukta-m0-p04-v77
-[vasaṃti](vasaṃti) [yatra](yatra) [niyataṃ](niyataṃ) [sudhāpāna](sudhā+pāna) [padākulāḥ](pada+ākulāḥ)
+[vasaṃti](vasaṃti) [yatra](yatra) [niyataṃ](niyataṃ) [sudhāpāna](sudhā+pāna) [padākulāḥ](padākulāḥ)
 
 ## mukta-m0-p04-v78
 [yajamānastatra](yajamānaḥ+tatra) [gatvā](gatvā) [tatratyairdevatāgaṇaiḥ](tatratyaiḥ+devatā+gaṇaiḥ)
@@ -23,16 +23,16 @@
 [vidagdhaiśceṭikāvargaistataścetaśca](vidagdhaiḥ+ceṭikā+vargaiḥ+tataḥ+ca+itaḥ+ca) [saṃkulam](saṃkulam)
 
 ## mukta-m0-p04-v83
-[svarge](svarge) [divyagrahaṃ](divya+grahaṃ) [gatvā](gatvā) [paśyatyekāṃ](paśyati+ekāṃ) [sulocanām](su+locanām)
+[svarge](svarge) [divyagrahaṃ](divya+grahaṃ) [gatvā](gatvā) [paśyatyekāṃ](paśyati+ekāṃ) [sulocanām](sulocanām)
 
 ## mukta-m0-p04-v84
-[sā](sā) [kūtasyūta](kūta+sūta) [saṃcārairapāṃgairati](saṃcāraiḥ+apāṃgaiḥ+ati) [śobhanām](śobhanām)
+[sā](sā) [kūtasyūta](kūta+syūta) [saṃcārairapāṃgairati](saṃcāraiḥ+apāṃgaiḥ+ati) [śobhanām](śobhanām)
 
 ## mukta-m0-p04-v85
 [kramādaṃgāṃga](kramāt+aṃga+aṃga) [saṃsarga](saṃsarga) [sukhaṃ](sukhaṃ) [sadyogyamaśnute](sadyogyaṃ+aśnute)
 
 ## mukta-m0-p04-v86
-[anyādṛśamivābhāti](anyādṛśam+iva+ābhāti) [laiṃgaṃsaukhyaṃ](laiṃgaṃ+saukhyaṃ) [tadevahi](tad+eva+hi)
+[anyādṛśamivābhāti](anyādṛśam+iva+ābhāti) [laiṃgaṃsaukhyaṃ](laiṃgaṃ+saukhyaṃ) [tadevahi](tat+eva+hi)
 
 ## mukta-m0-p04-v87
 [camatkaroti](camatkaroti) [yajvāsau](yajvā+asau) [nijakaṃ](nijakaṃ) [karmasādhanam](karma+sādhanaṃ)
@@ -47,13 +47,13 @@
 [vedasyāpi](vedasya+api) [ca](ca) [tātparyaṃ](tātparyaṃ) [mahāliṃgārcanakramaḥ](mahā+liṃga+arcana+kramaḥ)
 
 ## mukta-m0-p04-v91
-[āyurvedasya](āyurvedasya) [sārastu](sāraḥ+tu) [vājīkaraṇamucyate](vājīkaraṇam+ucyate)
+[āyurvedasya](āyurvedasya) [sārastu](sāraḥ+tu) [vājīkaraṇamucyate](vājīkaraṇaṃ+ucyate)
 
 ## mukta-m0-p04-v92
-[varthamānasyarogasya](vartamānasya+arogasya) [nāśadvārāṃgapuṣṭitaḥ](nāśa+dvāra+aṃga+puṣṭitaḥ)
+[varthamānasyarogasya](varthamānasya+arogasya) [nāśadvārāṃgapuṣṭitaḥ](nāśa+dvāra+aṃga+puṣṭitaḥ)
 
 ## mukta-m0-p04-v93
-[dharmecārthe](dharme+ca+arthe) [ca](ca) [kāme](kāme) [ca](ca) [mokṣe](mokṣe) [ca](ca) [girinaṃdinī](giri+naṃdinī)
+[dharmecārthe](dharme+ca+arthe) [ca](ca) [kāme](kāme) [ca](ca) [mokṣe](mokṣe) [ca](ca) [girinaṃdinī](girinaṃdinī)
 
 ## mukta-m0-p04-v94
 [rogeṇa](rogeṇa) [prathamaṃ](prathamaṃ) [naśyedrava](naśyet+rava) [evātmalakṣaṇaḥ](eva+ātma+lakṣaṇaḥ)
@@ -65,13 +65,13 @@
 [kuto](kuto) [liṃgamaheśasya](liṃga+mahēśasya) [pūjanāt](pūjanāt) [puṇyasaṃbhavaḥ](puṇya+saṃbhavaḥ)
 
 ## mukta-m0-p04-v97
-[śuklasya](śuklasya) [poṣakairvastu](poṣakaiḥ+vastu) [jātairātmānamarcayet](jātaiḥ+ātmānam+arcayet)
+[śuklasya](śuklasya) [poṣakairvastu](poṣakaiḥ+vastu) [jātairātmānamarcayet](jātaiḥ+ātmānaṃ+arcayet)
 
 ## mukta-m0-p04-v98
 [dhanurvedasya](dhanurvedasya) [cāpyetat](ca+api+etat) [prayojanamudāhṛtam](prayojanaṃ+udāhṛtam)
 
 ## mukta-m0-p04-v99
-[yuddhe](yuddhe) [cenmṛtimāpnoti](cet+mṛtim+āpnoti) [yajvavatphalamaśnute](yajvavat+phalaṃ+aśnute)
+[yuddhe](yuddhe) [cenmṛtimāpnoti](cet+mṛtiṃ+āpnoti) [yajvavatphalamaśnute](yajvavat+phalaṃ+aśnute)
 
 ## mukta-m0-p04-v100
 [māṃnaṃda-](māṃnaṃda-)
